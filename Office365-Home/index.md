@@ -1,1 +1,4 @@
-# Welcome to OfficeDocs-O365Home!
+---
+redirect_url: /office
+redirect_document_id: TRUE 
+---
