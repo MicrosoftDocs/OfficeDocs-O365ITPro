@@ -6,6 +6,7 @@
           "**/*.md",
           "**/**.yml"
         ],
+        "group": "O365",
         "exclude": [
           "**/obj/**",
           "**/includes/**",
@@ -30,6 +31,12 @@
         ]
       }
     ],
+    "groups": {
+      "O365": {
+          "dest":"O365-dest",
+          "moniker_range": "<= O365-worldwide"
+      }
+  },
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
