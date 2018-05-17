@@ -24,7 +24,7 @@ To get to the Yammer admin center to manage users:
   
 - In Office 365, go to **Admin** > **Yammer**.
     
-- Or, in Yammer, click the Yammer settings icon ![Yammer settings icon](/Office365/Admin/media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Network Admin**.
+- Or, in Yammer, click the Yammer settings icon ![Yammer settings icon](../../../../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Network Admin**.
     
 ## Invite users to Yammer
 <a name="InviteUsers"> </a>
@@ -72,7 +72,7 @@ Invite external contacts with email addresses outside of your domain (e.g., cons
     
 2. Enter individual email addresses. Guest users, including active and pending (those who have not yet responded to their invitation), are listed on this page. 
     
-    ![Pending guests list](/Office365/Admin/media/c8573062-7613-4964-bbd3-4393931146af.png)
+    ![Pending guests list](../../../../media/c8573062-7613-4964-bbd3-4393931146af.png)
   
 As with other users, guest users' names and profiles remain blank until they accept their invitations and complete registration. Guest user accounts can be deleted any time, but their contributions to the network remain.
   
@@ -113,7 +113,7 @@ You can deactivate or permanently remove users, including users, including activ
     
 If there are any deactivated users, they are listed on the **Remove Users** page. You can reactivate or delete a user from this list. 
   
-![Deactivated user list](/Office365/Admin/media/162b43ed-acd1-4085-8073-b43845c30999.png)
+![Deactivated user list](../../../../media/162b43ed-acd1-4085-8073-b43845c30999.png)
   
 User's can also delete their own Yammer account. For more information, see [Change my Yammer profile and settings](https://support.office.com/article/a3aeca0e-de34-4897-9b59-de6516542851.aspx).
   
@@ -217,7 +217,7 @@ Excel does not encode non-English characters in CSV files correctly. If you have
     
     This provides a .ZIP file containing 3 .CSV files, for admins, users, and networks. 
     
-    ![Zip file showing admin, user, and network files](/Office365/Admin/media/80a8c410-9203-4df8-bf12-37115a8558d4.png)
+    ![Zip file showing admin, user, and network files](../../../../media/80a8c410-9203-4df8-bf12-37115a8558d4.png)
   
     User fields include: User ID, Email Address, Name, Job Title, Location and Joined On (the date they joined the network).
     

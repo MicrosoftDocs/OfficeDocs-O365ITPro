@@ -19,7 +19,7 @@ Creating a usage policy and requiring users to accept it can help make sure conv
   
 You can choose to have the usage policy appear as a link in the side bar in each user's Yammer home screen and to display the policy as a pop-up that users must accept before entering the network. 
   
-![The usage policy is displayed on the right sidebar](/Office365/Admin/media/f80d122b-f7dd-4b14-9981-7d3deb04646e.png)
+![The usage policy is displayed on the right sidebar](../../../../media/f80d122b-f7dd-4b14-9981-7d3deb04646e.png)
   
 ## Set up or modify a Yammer usage policy
 
@@ -62,7 +62,7 @@ You can add a custom link to your organization's browser policy. The link will b
   
  For example, if the admin specifies the URL for the browser policy as http://www.contoso.com/IT/browserpolicy.htm, this is what the user will see at the top of the page when they use an old browser: 
   
-![Example of custom browser policy URL in obsolete browser notification](/Office365/Admin/media/54b99150-36a7-496e-bb27-2bd03786517c.png)
+![Example of custom browser policy URL in obsolete browser notification](../../../../media/54b99150-36a7-496e-bb27-2bd03786517c.png)
   
  **Add a link to your organization's browser policy**
   

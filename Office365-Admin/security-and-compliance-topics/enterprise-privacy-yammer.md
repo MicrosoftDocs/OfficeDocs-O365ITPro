@@ -75,7 +75,7 @@ Yammer has data retention settings that either soft-delete or hard-delete data w
 ## Find user data not included in the per-user export
 <a name="OtherData"> </a>
 
-There is some data that is not included in an export. To find this data for a user, go to Yammer settings ![Yammer settings icon](/Office365/Admin/media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) > **People**, and click the name of the user.
+There is some data that is not included in an export. To find this data for a user, go to Yammer settings ![Yammer settings icon](../../../../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) > **People**, and click the name of the user.
   
 The following table shows how to change or delete this data if needed.
   
@@ -96,7 +96,7 @@ If you have the ID for a message or file, you can go to it in Yammer and delete 
     
 1. Build the URL for the message. Use https://www.yammer.com/<network_name>/#/Threads/show?threadId=<thread_id>. For example, https://www.yammer.com/contosomkt.onmicrosoft.com/#/Threads/show?threadId=1040647232.
     
-2. In the message, click the **More** icon ![More icon (...)](/Office365/Admin/media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **Delete**.
+2. In the message, click the **More** icon ![More icon (...)](../../../../media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **Delete**.
     
 - To locate and delete a specific file in Yammer:
     
@@ -121,7 +121,7 @@ If you have the ID for a message or file, you can go to it in Yammer and delete 
     
     This option marks the user as deactivated. The deactivated user is listed on the **Remove Users** page. Within 14 days, you can reactivate the user. 
     
-    ![Deactivated user list](/Office365/Admin/media/162b43ed-acd1-4085-8073-b43845c30999.png)
+    ![Deactivated user list](../../../../media/162b43ed-acd1-4085-8073-b43845c30999.png)
   
     After 14 days, a message is sent to all the networks admins and verified admins informing them the user has been deleted, and the following user data is deleted:
     

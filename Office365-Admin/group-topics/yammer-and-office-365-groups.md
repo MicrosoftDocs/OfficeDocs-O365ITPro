@@ -25,7 +25,7 @@ If your network is eligible, group experiences in Yammer can get access to Offic
   
 You can tell if a group in Yammer is connected with Office 365 groups when you see the Office 365 Resources section in the right navigation of the group: 
   
-![Screenshot showing Office 365 Resources](/Office365/Admin/media/195dd76c-6007-469e-9242-7889a3b217a9.png)
+![Screenshot showing Office 365 Resources](../../../../media/195dd76c-6007-469e-9242-7889a3b217a9.png)
   
 For information on how to create and manage a group, see [Create a group in Yammer](https://support.office.com/article/b407af4f-9a58-4b12-b43e-afbb1b07c889) and [Manage a Yammer group](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2.aspx).
   

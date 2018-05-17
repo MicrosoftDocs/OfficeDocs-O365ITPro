@@ -26,7 +26,7 @@ To access the Yammer network configuration tools:
   
 - In Office 365, go to **Admin** > **Yammer** > **Configuration**.
     
-- Or, in Yammer, click the Yammer settings icon ![Yammer settings icon](/Office365/Admin/media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) and go to **Network Admin** > **Configuration**. 
+- Or, in Yammer, click the Yammer settings icon ![Yammer settings icon](../../../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) and go to **Network Admin** > **Configuration**. 
     
 ## Set the Yammer network name
 <a name="NetworkName"> </a>

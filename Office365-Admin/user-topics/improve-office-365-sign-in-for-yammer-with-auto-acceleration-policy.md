@@ -52,7 +52,7 @@ Install-Module -Name AzureADPreview
   connect-AzureAD [-tenantID | -tenantDomain] <tenant name>
   ```
 
-    ![Examnple sign-in using admin credentials.](/Office365/Admin/media/7f7c2ac7-b7dc-4ee1-b5c6-32b3c2ae6dc1.jpg)
+    ![Examnple sign-in using admin credentials.](../../../../media/7f7c2ac7-b7dc-4ee1-b5c6-32b3c2ae6dc1.jpg)
   
 2. Check that no policy of the same name exists already.
     
@@ -82,7 +82,7 @@ Install-Module -Name AzureADPreview
   get-AzureADPolicy
   ```
 
-    ![Example output of new policy](/Office365/Admin/media/622b3fcc-ed8b-4941-85be-e045b153607e.jpg)
+    ![Example output of new policy](../../../../media/622b3fcc-ed8b-4941-85be-e045b153607e.jpg)
   
 5. Note **ObjectId** of servicePrincipal for Yammer application (Redirect output to a text file for easy search). The AppDisplayName would be "Office 365 Yammer" with AppID of 00000005-00000ff1-ce00-000000000000 
     
@@ -90,9 +90,9 @@ Install-Module -Name AzureADPreview
   Get-AzureADServicePrincipal | fl > output.txt
   ```
 
-    ![Command line for redirecting output to a text file](/Office365/Admin/media/31fee97b-75a2-498e-b404-c925f018615f.jpg)
+    ![Command line for redirecting output to a text file](../../../../media/31fee97b-75a2-498e-b404-c925f018615f.jpg)
   
-    ![Example of output to a text file](/Office365/Admin/media/063f131c-413a-4372-8b11-e79a41e421b2.jpg)
+    ![Example of output to a text file](../../../../media/063f131c-413a-4372-8b11-e79a41e421b2.jpg)
   
 6. Finally, Add the policy for Yammer service.
     
@@ -100,7 +100,7 @@ Install-Module -Name AzureADPreview
   Add-AzureADServicePrincipalPolicy -ID <ObjectID of the Service Principal copied from #5> -RefObjectId <ObjectId of the Policy copied from #4>
   ```
 
-    ![Command line for adding the policy for Yammer service](/Office365/Admin/media/3547246b-9d0f-4f97-9910-14c9559bf2fa.jpg)
+    ![Command line for adding the policy for Yammer service](../../../../media/3547246b-9d0f-4f97-9910-14c9559bf2fa.jpg)
   
 ## List of commands in order
 

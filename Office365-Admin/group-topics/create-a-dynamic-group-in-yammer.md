@@ -46,8 +46,8 @@ A. Yes. Dynamic groups in Yammer have a limit of 100K members. After 100K member
   
 A. Yes. Groups with dynamic membership do not have the **Join** and **Leave** buttons in the top navigation. Instead, users either see **Member** for dynamic groups to which they belong, or **Reserved** if they are not members of the group. 
   
-![Top navigation for dynamic groups that you are a member of](/Office365/Admin/media/9d0bb1db-2575-4bb9-bd02-869a05a7cc89.png)
+![Top navigation for dynamic groups that you are a member of](../../../../media/9d0bb1db-2575-4bb9-bd02-869a05a7cc89.png)
   
-![Top navigation for dynamic groups that you are not a member of](/Office365/Admin/media/d1d48f64-896e-466d-96f8-007f36188991.png)
+![Top navigation for dynamic groups that you are not a member of](../../../../media/d1d48f64-896e-466d-96f8-007f36188991.png)
   
 

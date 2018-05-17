@@ -34,14 +34,14 @@ You must be a global administrator on Office 365 who was synchronized to Yammer 
   
  **Verify Yammer domains by using the Network migration page**
   
-1. In Yammer, select the Yammer settings icon ![Yammer settings icon](/Office365/Admin/media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) in the left nav, and then click **Network Admin**.
-    ![Yammer navigation, including Settings icon](/Office365/Admin/media/d1ec06fa-c2fb-4dcb-b21f-6dff1d20d6ad.png)
+1. In Yammer, select the Yammer settings icon ![Yammer settings icon](../../../../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) in the left nav, and then click **Network Admin**.
+    ![Yammer navigation, including Settings icon](../../../../media/d1ec06fa-c2fb-4dcb-b21f-6dff1d20d6ad.png)
   
 2. In the **Network** section choose **Network Migration**.
-    ![Screenshot of the Network Migration menu item for Yammer Admins](/Office365/Admin/media/f9ae9328-9cb2-46f7-9bce-26bcdc29b3fa.png)
+    ![Screenshot of the Network Migration menu item for Yammer Admins](../../../../media/f9ae9328-9cb2-46f7-9bce-26bcdc29b3fa.png)
   
 3. In the **Step 1 of 3 - Check/Add Verified Domains** page, you'll see the list of domains on the Yammer network. 
-    ![Screen shot of Step 1 of 3 - Check/Add Verified Domains before migrating a Yammer network](/Office365/Admin/media/cac649d6-9245-4645-8f59-fb27dffd87e8.png)
+    ![Screen shot of Step 1 of 3 - Check/Add Verified Domains before migrating a Yammer network](../../../../media/cac649d6-9245-4645-8f59-fb27dffd87e8.png)
   
 ## Yammer primary domain and network name
 <a name="BKMK_YammerNetworkName"> </a>
@@ -49,12 +49,12 @@ You must be a global administrator on Office 365 who was synchronized to Yammer 
 When your Yammer domains are managed in Office 365, the Yammer primary domain and network name are also managed in Office 365.
   
 - When the Organization profile name changes in Office 365, the corresponding Yammer network name is updated. The Yammer network name is part of the header name for groups in the left menu.
-    ![List of Yammer groups on the Yammer page](/Office365/Admin/media/0a1125b1-74d2-4ea5-b8e4-6d52456a527e.jpg)
+    ![List of Yammer groups on the Yammer page](../../../../media/0a1125b1-74d2-4ea5-b8e4-6d52456a527e.jpg)
   
 The Yammer network name is always synced as the "Company name" of the Office 365 tenant. This overrides the Network Name set in the Yammer Network admin.
   
 - When the default domain changes in Office 365 to a verified domain, for example, contosoart.com, the primary domain of the corresponding Yammer network is updated. The updated Yammer primary domain, for example, contosoart.com, is used whenever you invite a new user to Yammer.
-    ![The primary domain shows when you invite users to your Yammer group](/Office365/Admin/media/5d98c158-3ce4-4404-97e9-1557382216e8.png)
+    ![The primary domain shows when you invite users to your Yammer group](../../../../media/5d98c158-3ce4-4404-97e9-1557382216e8.png)
   
 If the default domain is the initial domain that ends with .onmicrosoft.com, or the Office 365 tenant is associated with more than one Yammer network - the primary domain of the corresponding Yammer network will not be updated.
   

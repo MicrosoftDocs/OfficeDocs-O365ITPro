@@ -33,11 +33,11 @@ Contoso, Ltd. wants to keep the pharmaceutical employees in their own network bu
   
 The following illustration shows the Contoso_Sub subsidiary network before being migrated into the Contoso parent network.
   
-![A subsidiary Yammer network and a parent Yammer network before a migration is performed to consolidate the users from the subsidiary into the parent network](/Office365/Admin/media/53972669-499c-4255-8098-25448a47b08c.png)
+![A subsidiary Yammer network and a parent Yammer network before a migration is performed to consolidate the users from the subsidiary into the parent network](../../../../media/53972669-499c-4255-8098-25448a47b08c.png)
   
 The following illustration shows the after state, where the users and any external networks and users have been migrated from Contoso_Sub to the Contoso, Ltd. network. Notice that the subsidiary network and its content are not available after migration.
   
-![After a Yammer network migration, the users from the subsidiary network have been consolidated into the parent network. Any external networks have also been migrated (with users). The subsidiary network (including all content) is no longer available.](/Office365/Admin/media/b76d79f6-8e1c-47bc-8b99-0e636dc30f91.png)
+![After a Yammer network migration, the users from the subsidiary network have been consolidated into the parent network. Any external networks have also been migrated (with users). The subsidiary network (including all content) is no longer available.](../../../../media/b76d79f6-8e1c-47bc-8b99-0e636dc30f91.png)
   
 If you're just looking to add guest users or work together across company boundaries, consider [external messaging](../external-messaging-topics/add-external-messaging-participants-to-your-yammer-conversations.md) or [](../configure-your-yammer-network.md#ExternalNetworks) instead of migrating. 
   
@@ -70,25 +70,25 @@ The network migration has three steps that you will be guided through. Multiple 
 1. In the parent Yammer network, go to **Settings** > **Network Admin**. 
     
 2. Choose **Network Migration**. 
-    ![Screenshot of the Network Migration menu item for Yammer Admins](/Office365/Admin/media/f9ae9328-9cb2-46f7-9bce-26bcdc29b3fa.png)
+    ![Screenshot of the Network Migration menu item for Yammer Admins](../../../../media/f9ae9328-9cb2-46f7-9bce-26bcdc29b3fa.png)
   
     You start on the page with the title **Step 1 of 3 - Check/Add Verified Domains**. This page lists the verified domains that have already been added to the Office 365 tenant for this Yammer network. If you don't see the network you want, follow the link to Office 365 to [add additional verified domains](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611), and then return to this page.
-    ![Screen shot of Step 1 of 3 - Check/Add Verified Domains before migrating a Yammer network](/Office365/Admin/media/cac649d6-9245-4645-8f59-fb27dffd87e8.png)
+    ![Screen shot of Step 1 of 3 - Check/Add Verified Domains before migrating a Yammer network](../../../../media/cac649d6-9245-4645-8f59-fb27dffd87e8.png)
   
 3. When you have added all of the verified domains you want, choose **Next**. 
     
     You are now on the **Step 2 of 3 - Choose a Yammer Network to Migrate** page. This page lists all the networks that are eligible for migration. Remember, all of the domains of a Yammer network that you want to migrate must be added as verified domains on Office 365. Only the verified domains for Yammer networks are listed on the page. If you don't see the network you're looking for, choose the **Previous** button and add the verified domains. 
-    ![Screen shot of Step 2 of 3 - Choose a Yammer Network to Migrate](/Office365/Admin/media/3a975838-6d80-4dd1-9b3e-14f157820773.png)
+    ![Screen shot of Step 2 of 3 - Choose a Yammer Network to Migrate](../../../../media/3a975838-6d80-4dd1-9b3e-14f157820773.png)
   
 4. On the **Step 2 of 3 - Choose a Yammer Network to Migrate** page, select the Yammer network that you want to migrate into this network, and then choose **Next**. 
     
 5. You reach the page with title **Step 3 of 3 - Export Data &amp; Start Migration**. This page gives you information about the network you are about to migrate, such as network name and number of messages, so that you can confirm if it is the right network. Note that only  *active*  and  *pending users*  will be migrated. All other content is permanently deleted. It's highly recommended that you first [](../security-and-compliance-topics/manage-yammer-data-compliance.md#ExportData) from the subsidiary network before starting the migration. 
-    ![Screen shot of Step 3 of 3 - Export Data &amp; Start Migration](/Office365/Admin/media/8de9e6e7-d172-44bc-808c-ec72f34f09e2.png)
+    ![Screen shot of Step 3 of 3 - Export Data &amp; Start Migration](../../../../media/8de9e6e7-d172-44bc-808c-ec72f34f09e2.png)
   
 6. When you have exported the data you want, and you are ready to begin the migration, choose **Start Migration**. 
     
     A confirmation dialog box appears.
-    ![Screen shot of dialog box to Confirm that you want to migrate a Yammer network](/Office365/Admin/media/4b93a2e6-9dc4-409c-99cb-2ab7dc225679.png)
+    ![Screen shot of dialog box to Confirm that you want to migrate a Yammer network](../../../../media/4b93a2e6-9dc4-409c-99cb-2ab7dc225679.png)
   
 7. In the **Are you absolutely sure you want to migrate the network?** box, under **I confirm the network migration of** _Network Name_, enter the name of the network you want to migrate to confirm it, and then choose **Migrate**. 
     
@@ -97,7 +97,7 @@ The network migration has three steps that you will be guided through. Multiple 
   
 8. On the **Status of network migrations** page, you can view the status for the migration. It lists the domains associated with the networks being migrated, the person who initiated the migration, the start and completed dates and times for the migration, and the status of the migration. You can see details about the network, such as the number of active users, the number of messages, and the external networks. 
     
-9. ![Screen shot showing the Status of network migrations - Yammer network migration is running](/Office365/Admin/media/05c6da77-091b-48fc-8d08-4455454d4c87.png)
+9. ![Screen shot showing the Status of network migrations - Yammer network migration is running](../../../../media/05c6da77-091b-48fc-8d08-4455454d4c87.png)
   
     Note that multiple network migrations can be started back-to-back, without waiting for the previous ones to finish. So, you can start the next migration immediately by going through the wizard again.
     
@@ -106,7 +106,7 @@ The network migration has three steps that you will be guided through. Multiple 
 
 The network migration process works as shown in the following illustration.
   
-![Flowchart showing that first you migrate the domains from the subsidiary Yammer network and decommission the network, and then migrate users and external networks in parallel.](/Office365/Admin/media/00d177ba-3be3-45eb-9341-a00abf7b295c.png)
+![Flowchart showing that first you migrate the domains from the subsidiary Yammer network and decommission the network, and then migrate users and external networks in parallel.](../../../../media/00d177ba-3be3-45eb-9341-a00abf7b295c.png)
   
 In step 1, the domains from the subsidiary network are migrated and the subsidiary network is decommissioned. Then in step 2, the active and pending users and external networks are migrated in parallel. Even if a subset of users or external networks is not migrated, the migration itself will continue and finish, and more details/errors can be found on the status page.
   

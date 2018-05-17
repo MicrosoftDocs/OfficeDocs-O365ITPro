@@ -25,14 +25,14 @@ As a verified admin, you can export Yammer Enterprise data for all users in orde
 1. In the Yammer admin center, go to **Content and Security** > **Export data**.
     
 2. Specify the data to include:
-    ![Export page, showing export options](/Office365/Admin/media/9961176e-dcb5-453c-82a1-ff9d986877ad.png)
+    ![Export page, showing export options](../../../../media/9961176e-dcb5-453c-82a1-ff9d986877ad.png)
   
   - **Date range:** Only data in the specified date range will be included. 
     
   - **Attachments:** If not selected, you'll get a list of files. If selected, you also get a **Files** folder with all files in their native format. 
     
   - **External networks:** If not selected, you'll only get data from your home network. If selected, you'll get a separate folder for the data from each network. Each network is identified by its ID, and the full network names are listed in **Networks.csv**. 
-    ![Each network has its own folder, labeled with the network ID](/Office365/Admin/media/5b8e96a8-b8bf-4467-b6d2-6a0bb9175d3c.png)
+    ![Each network has its own folder, labeled with the network ID](../../../../media/5b8e96a8-b8bf-4467-b6d2-6a0bb9175d3c.png)
   
 3. Click **Export**.
     
@@ -80,7 +80,7 @@ The following types of data are not included in this export:
     
 - Bookmarked messages, group membership, followed or following users, or followed topics. To find this information for a user, click the user's name. 
     
-To find this data for an individual user, click the Yammer settings icon ![Yammer settings icon](/Office365/Admin/media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), click **People**, and click the name of the user whose data you want to view. This page shows the user's profile, conversations they've participated in, any files, images, and videos they have posted, along with their bookmarks, followed and following users, and followed topics.
+To find this data for an individual user, click the Yammer settings icon ![Yammer settings icon](../../../../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), click **People**, and click the name of the user whose data you want to view. This page shows the user's profile, conversations they've participated in, any files, images, and videos they have posted, along with their bookmarks, followed and following users, and followed topics.
   
 ## Find and delete specific messages or files
 <a name="DeleteMessagesFiles"> </a>
@@ -91,7 +91,7 @@ If you have the ID for a message or file, you can go directly to it in Yammer, a
     
 1. Build the URL for the message. Use https://www.yammer.com/<network_name>/#/Threads/show?threadId=<thread_id>. For example, https://www.yammer.com/contosomkt.onmicrosoft.com/#/Threads/show?threadId=1040647232.
     
-2. In the message, click the **More** icon ![More icon (...)](/Office365/Admin/media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **Delete**.
+2. In the message, click the **More** icon ![More icon (...)](../../../../media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **Delete**.
     
 - To find and delete a specific file in Yammer:
     
