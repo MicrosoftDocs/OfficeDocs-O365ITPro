@@ -7,7 +7,6 @@
           "**/**.yml"
         ],
         "group": "O365",
-        "dest": ".",
         "exclude": [
           "**/obj/**",
           "**/includes/**",
