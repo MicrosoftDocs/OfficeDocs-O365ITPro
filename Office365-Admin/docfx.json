@@ -48,16 +48,8 @@
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-O365ITPro",
       "feedback_product_url": "https://office365.uservoice.com/forums/273493-office-365-admin" 
     },
-    "fileMetadata": {
-      "monikerRange": {
-          "group-topics/*.md": "o365-worldwide",
-          "integration-topics/*.md": "o365-germany",
-          "user-topics/*.md": "o365-21vianet"
-      }
-    },
+    "fileMetadata": {},
     "template": [],
     "dest": "OfficeDocs-O365Admin"
   }
 }
-
-
