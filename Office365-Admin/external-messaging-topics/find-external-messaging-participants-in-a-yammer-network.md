@@ -30,13 +30,13 @@ If you are a verified admin, you can use the data export tool to find external p
     
 2. To identify **threads in other networks that users from your networks participate in**, locate the export folder on your computer, and open the **MessageThreads.Inbound.csv** export file. 
     
-    ![Screenshot of an example data export file](../../../../media/6b96f531-7a77-4079-aacf-288e313ae023.png)
+    ![Screenshot of an example data export file](/Office365/Admin/media/6b96f531-7a77-4079-aacf-288e313ae023.png)
   
     Column **B** (networks_participants) lists the users in your network that participate in external threads, along with their name, email address, and the network ID of the Yammer network that they belong to. The data export reflects the current view of the network. If a user was added but removed before the report was created, that user won't appear in the report. 
     
 3. To identify **threads in your network that users from other networks participate in**, locate the export folder on your computer, and open the **MessageThreads.Outbound.csv** export file. 
   
-![Screenshot of an example data export file](../../../../media/90261f3d-0629-4fb6-bb42-33ed7eb3e99a.png)
+![Screenshot of an example data export file](/Office365/Admin/media/90261f3d-0629-4fb6-bb42-33ed7eb3e99a.png)
   
 Column **D** (external_participants) lists the users in other networks that participate in threads in your network, along with their name, email address, and the network ID of the Yammer network that they belong to. The data export reflects the current view of the network. If a user was added but removed before the report was created, that user won't appear in the report. 
     

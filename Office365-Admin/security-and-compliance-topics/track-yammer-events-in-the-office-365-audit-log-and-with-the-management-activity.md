@@ -45,7 +45,7 @@ To view the audit log:
 3. Follow the instructions for searching audit logs as described in [Search the audit log in the Office 365 Security &amp; Compliance Center](https://support.office.com/article/0d4d0f35-390b-4518-800e-0c7ec95e946c#run).
     
     To search for Yammer-specific activities from the Office 365 audit log, select **Show results for all activities** in the **Activities** list. Use the date range boxes and the **Users** list to narrow the search results. 
-    ![Audit Log Search dialog box](../../../../media/5fb26da3-6b2a-4eb5-bb4a-7d9e14fe7ee1.jpg)
+    ![Audit Log Search dialog box](/Office365/Admin/media/5fb26da3-6b2a-4eb5-bb4a-7d9e14fe7ee1.jpg)
   
 ## Learn more about the Management API
 

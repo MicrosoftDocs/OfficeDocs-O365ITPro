@@ -24,7 +24,7 @@ As a global Office 365 administrator, you control the life cycle for Yammer user
 
 Yammer users are created as they use Yammer, instead of being created with bulk updates or sync from Active Directory. Here's a diagram that shows how a Yammer user is created.
   
-![Diagram that shows when an Office 365 admin creates a user, the user can log on to Office 365 then navigate to Yammer from the App Launcher, at which point the user is created in Yammer.](../../../../media/410ab6f2-e8ed-4b66-a8cf-f087b3e57ec3.png)
+![Diagram that shows when an Office 365 admin creates a user, the user can log on to Office 365 then navigate to Yammer from the App Launcher, at which point the user is created in Yammer.](/Office365/Admin/media/410ab6f2-e8ed-4b66-a8cf-f087b3e57ec3.png)
   
 The process follows these steps:
   
@@ -34,7 +34,7 @@ The process follows these steps:
     
 3. The user clicks the Yammer tile in the app launcher to go to Yammer.
     
-    ![The Office 365 app launcher with the Yammer app highlighted](../../../../media/2a9e4707-3671-411d-81c1-723fcdd2b483.png)
+    ![The Office 365 app launcher with the Yammer app highlighted](/Office365/Admin/media/2a9e4707-3671-411d-81c1-723fcdd2b483.png)
   
 4. A new Yammer user is created for the Office 365 user.
     
@@ -44,7 +44,7 @@ The process follows these steps:
 
 An administrator can block a user in Office 365, and the user will be logged out of Yammer as well as all the other Office 365 services. Here's a diagram that shows how this works.
   
-![The Office 365 administrator blocks a user in Office 365 and the user is logged out of Yammer.](../../../../media/86303509-db4e-4d80-9f7c-3b2ddbcd1f17.png)
+![The Office 365 administrator blocks a user in Office 365 and the user is logged out of Yammer.](/Office365/Admin/media/86303509-db4e-4d80-9f7c-3b2ddbcd1f17.png)
   
 The process follows these steps:
   
@@ -53,30 +53,30 @@ The process follows these steps:
     To do this:
     
 1. In the Office 365 admin portal, select a user and choose **Edit User**. The **Sign-in status** is shown in the user details, as in this screenshot. 
-    ![Screenshot of a users's sign-in status in Office 365](../../../../media/3003a58e-1294-460a-a174-2be67b1dc462.png)
+    ![Screenshot of a users's sign-in status in Office 365](/Office365/Admin/media/3003a58e-1294-460a-a174-2be67b1dc462.png)
   
 2. Click **Edit** next to **Sign-in status** to swtich between **Allow the user to sign in** and **Block the user from signing in**, as in this screenshot.
-    ![Screenshot of the Sign-in status dialog box in Office 365](../../../../media/c06def75-bb12-4dea-ae2b-325ee410c5ed.png)
+    ![Screenshot of the Sign-in status dialog box in Office 365](/Office365/Admin/media/c06def75-bb12-4dea-ae2b-325ee410c5ed.png)
   
 2. This action flows into Yammer, and the corresponding user is logged out of Yammer (on all devices). When this user tries to login to Yammer again from any device, he or she will be prompted to login with their Office 365 credentials. However, the user will not be able to login because their sign-in status is set to blocked. As a Yammer verified administrator, you can go to the Network Admin area, and look at the Account activity section to verify that the Yammer user has been logged out, as in the following screenshot, where the user has no active Yammer sessions.
-    ![Screenshot of the Account Activity for a user showing no active Yammer sessions (logged out)](../../../../media/c0704de5-d3c4-4b34-9bbb-f3cf31799734.png)
+    ![Screenshot of the Account Activity for a user showing no active Yammer sessions (logged out)](/Office365/Admin/media/c0704de5-d3c4-4b34-9bbb-f3cf31799734.png)
   
 ## Delete a user
 
 If an employee leaves the company, you can delete the user from Office 365. When the user is deleted from Office 365, the corresponding user is deactivated (also known as suspended) in Yammer. The following diagram shows how this works:
   
-![Diagram that shows when an Office 365 admin deletes a user, the user is deactivated in Yammer. After 30 days, the user data is deleted from Office 365 and after 90 days, the user is permanently removed from Yammer but their Yammer messages remain.](../../../../media/8aba30a5-2636-4acf-9224-4a18bbe7fec1.png)
+![Diagram that shows when an Office 365 admin deletes a user, the user is deactivated in Yammer. After 30 days, the user data is deleted from Office 365 and after 90 days, the user is permanently removed from Yammer but their Yammer messages remain.](/Office365/Admin/media/8aba30a5-2636-4acf-9224-4a18bbe7fec1.png)
   
 The process follows these steps:
   
 1. An admin deletes a user from Office 365, as shown in the following screenshot:
-    ![Screenshot showing the command to delete a user in Office 365 administration.](../../../../media/b0922976-84c0-4c3d-ade0-710cf3ce69b2.png)
+    ![Screenshot showing the command to delete a user in Office 365 administration.](/Office365/Admin/media/b0922976-84c0-4c3d-ade0-710cf3ce69b2.png)
   
 2. The user deletion in Office 365 flows into Yammer, and the corresponding Yammer user is deactivated in Yammer. Specifically, the operation is equivalent of navigating to Yammer administration, choosing **Remove Users**, and then selecting **Deactivate this user**, as shown in the following screenshot:
-    ![Screenshot showing how to deactivate a user in Yammer.](../../../../media/91299919-212c-41f9-b6dd-185c0b81de65.png)
+    ![Screenshot showing how to deactivate a user in Yammer.](/Office365/Admin/media/91299919-212c-41f9-b6dd-185c0b81de65.png)
   
     Users who are deactivated (or suspended) this way will show up in Yammer administration pages as being deactivated by **System Administrator**, as shown in the following screenshot: 
-    ![Screenshot that shows a user removed by System Administrator.](../../../../media/b0ac3142-1fba-4c52-95d8-bbbb063cdaa2.png)
+    ![Screenshot that shows a user removed by System Administrator.](/Office365/Admin/media/b0ac3142-1fba-4c52-95d8-bbbb063cdaa2.png)
   
 3. When you delete a user in Office 365, the user becomes inactive. After approximately 30 days, user data gets permanently deleted. See [Delete a user from your organization](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e) for more information. 
     
@@ -86,12 +86,12 @@ The process follows these steps:
 
 An administrator can also restore a user in Office 365, and the user will be reactivated in Yammer. The following diagram shows how this works:
   
-![Diagram that shows when an Office 365 admin restores a user, the user is then activated again in Yammer.](../../../../media/f2dbf5f2-ba25-419e-802c-ac89e0bdeb7f.png)
+![Diagram that shows when an Office 365 admin restores a user, the user is then activated again in Yammer.](/Office365/Admin/media/f2dbf5f2-ba25-419e-802c-ac89e0bdeb7f.png)
   
 The process follows these steps:
   
 1. The Office 365 administrator can restore a deleted user in Office 365, as shown in the following screenshot:
-    ![Screenshot showing the command to restore a user in Office 365 administration.](../../../../media/b30aa7c8-2e2d-45ed-9c0a-2bf9730c8b30.png)
+    ![Screenshot showing the command to restore a user in Office 365 administration.](/Office365/Admin/media/b30aa7c8-2e2d-45ed-9c0a-2bf9730c8b30.png)
   
 2. This action flows into Yammer as well, and the previously deactivated user in Yammer is reactivated.
     
@@ -103,19 +103,19 @@ Users have a profile in both Office 365 and in Yammer.
   
 - To view their profile in Office 365, users can click on their profile picture and choose **My account**.
     
-![](../../../../media/b8515994-9ea5-431b-b479-cd2820d5c213.png)
+![](/Office365/Admin/media/b8515994-9ea5-431b-b479-cd2820d5c213.png)
   
 This lets them view and edit their **Personal info** for Office 365. 
   
-![](../../../../media/5f48f342-d9d3-4df6-9ee1-fd7c1895ec71.png)
+![](/Office365/Admin/media/5f48f342-d9d3-4df6-9ee1-fd7c1895ec71.png)
   
 - To view their profile in Yammer, users can choose **Edit Settings**, and then **Profile**.
     
-![](../../../../media/aea6c6d2-b386-48e8-9ab5-9bbe76064219.png)
+![](/Office365/Admin/media/aea6c6d2-b386-48e8-9ab5-9bbe76064219.png)
   
  This lets them view and edit their user profile for Yammer. 
   
-![](../../../../media/e9378a05-bb94-4775-9336-818333e65edf.png)
+![](/Office365/Admin/media/e9378a05-bb94-4775-9336-818333e65edf.png)
   
 There are a few key things to understand about how Yammer user profiles are updated from Azure Active Directory.
   
@@ -134,10 +134,10 @@ The Office 365 administrator can edit user properties from the Office 365 admin 
  **To edit user properties in Office 365**
   
 1. In the Office 365 admin center, go to the **Users** section, and select or search for a user, as shown in the following screenshot. 
-    ![](../../../../media/b045e652-c971-46c2-a37a-a2d2cc872838.jpg)
+    ![](/Office365/Admin/media/b045e652-c971-46c2-a37a-a2d2cc872838.jpg)
   
 2. Click on the user, and choose **Edit** to change the properties, such as Username or Contact information. 
-    ![](../../../../media/57657206-20e3-4c1e-811a-dd6b0df1beaa.jpg)
+    ![](/Office365/Admin/media/57657206-20e3-4c1e-811a-dd6b0df1beaa.jpg)
   
 Azure AD updates the following Yammer properties:
   
@@ -150,15 +150,15 @@ In Office 365, you can see the user properties that will be updated for Yammer i
 - **Edit email addresses** dialog box 
     - **Edit contact information** dialog box 
     
-![](../../../../media/78cb9ff3-a1a3-4bff-be12-e584c36063f8.jpg)
+![](/Office365/Admin/media/78cb9ff3-a1a3-4bff-be12-e584c36063f8.jpg)
   
 In Yammer, you can see the user properties that will be updated for Yammer on the **Profile** page. These properties are in the following sections: 
   
 - The **Basics** and **Info** sections 
-    ![](../../../../media/45e18d7f-1a01-4028-a6f4-dd32b2f5f061.jpg)
+    ![](/Office365/Admin/media/45e18d7f-1a01-4028-a6f4-dd32b2f5f061.jpg)
   
 - The **Contact** section 
-    ![](../../../../media/42b995bc-c0ed-4588-bcfd-14acb90dd680.jpg)
+    ![](/Office365/Admin/media/42b995bc-c0ed-4588-bcfd-14acb90dd680.jpg)
   
 ## FAQ
 

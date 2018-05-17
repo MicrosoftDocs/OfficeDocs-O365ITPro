@@ -15,14 +15,14 @@ description: "In Yammer Basic, users manage themselves. There is no centralized 
 
 In Yammer Basic, each user is responsible for their own content. There is no centralized administration. Each user can edit their own profile, change their notifications, delete their account, download their own data, and monitor their own activities and preferences. 
   
-1. Click the Yammer settings icon ![Yammer settings icon](../../../../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Edit Settings**.
+1. Click the Yammer settings icon ![Yammer settings icon](/Office365/Admin/media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Edit Settings**.
     
   - To change your profile, select **Profile**.
     
   - To change your password, select **Password**.
     
   - To edit your notifications, delete your account, or download data, select **Networks**. 
-    ![On the networks page, to export data, use the Download Data link next to the network name](../../../../media/b8b47324-6eaa-4f20-a211-e329b29c2b57.png)
+    ![On the networks page, to export data, use the Download Data link next to the network name](/Office365/Admin/media/b8b47324-6eaa-4f20-a211-e329b29c2b57.png)
   
   - To see your account activity, select **Account Activity**.
     
