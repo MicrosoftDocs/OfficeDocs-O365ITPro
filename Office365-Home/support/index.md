@@ -1,4 +1,4 @@
 ---
-redirect_url: admin-home
+redirect_url: support
 redirect_document_id: TRUE 
 ---

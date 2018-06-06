@@ -1,1 +1,26 @@
-# [Index](index.md)
+
+  
+
+# [Admin home](admin-home.md)
+## [Get started](get-started/get-started.md)
+### [Training for the Microsoft cloud](get-started/training-for-the-microsoft-cloud.md)
+## [Setup](setup/setup.md)
+### [Extend your trial](setup/extend-your-trial.md)
+### [Setup overview for business admins](setup/setup-overview-for-business-admins.md)
+### [Set up directory synchronization](setup/set-up-directory-synchronization.md)
+### [Add a domain](setup/add-a-domain.md)
+### [Verify your Office 365 domain to prove ownership, nonprofit or education status, or to activate Yammer](setup/verify-your-office-365-domain-to-prove-ownership-nonprofit-or-education-status-o.md)
+### [Remove a domain from Office 365](setup/remove-a-domain-from-office-365.md)
+### [Set up file storage and sharing](setup/set-up-file-storage-and-sharing.md)
+### [Change nameservers to set up Office 365 with Google Domains](setup/change-nameservers-to-set-up-office-365-with-google-domains.md)
+### [Configure Focused Inbox for everyone in your organization](setup/configure-focused-inbox-for-everyone-in-your-organization.md)
+## [Billing](billing/billing.md)
+### [Switch to a different plan](billing/switch-to-a-different-plan.md)
+### [Pay for your subscription](billing/pay-for-your-subscription.md)
+### [Understand your invoice](billing/understand-your-invoice.md)
+### [Assign licenses to users](billing/assign-licenses-to-users.md)
+### [Buy or edit an add-on for Office 365 for business](billing/buy-or-edit-an-add-on-for-office-365-for-business.md)
+## [Support](support/support.md)
+### [Contact support for business products](support/contact-support-for-business-products.md)
+## [training](.md)
+
