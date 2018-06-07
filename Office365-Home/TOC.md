@@ -1,6 +1,6 @@
 
   
-
+# [Index](index.md)
 # [Admin home](admin-home.md)
 ## [Get started](get-started/get-started.md)
 ### [Training for the Microsoft cloud](get-started/training-for-the-microsoft-cloud.md)
