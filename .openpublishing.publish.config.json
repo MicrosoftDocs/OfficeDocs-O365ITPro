@@ -6,7 +6,7 @@
       "build_output_subfolder": "OfficeDocs-O365Admin",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
+      "moniker_ranges": ["=o365-worldwide || =o365-21vianet || =o365-germany"],
       "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
