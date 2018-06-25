@@ -21,7 +21,7 @@ description: Manage Office 365
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img src="https://docs.microsoft.com/media/hubs/office365/office_manage.svg" alt="" />
+                                                        <img src="https://docs.microsoft.com/en-us/office/media/hub-tiles/Office365-Admin-400x140.svg" alt="A user and wrench symbol over a gear symbol" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -40,7 +40,7 @@ description: Manage Office 365
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img src="https://docs.microsoft.com/media/hubs/office365/office_365_security_compliance.svg" alt="" />
+                                                        <img src="https://docs.microsoft.com/en-us/office/media/hub-tiles/Office365-SecurityCompliance-400x140.svg" alt="Cloud symbols and a shield symbol with a green checkmark" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -59,7 +59,7 @@ description: Manage Office 365
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img src="https://docs.microsoft.com/media/hubs/office365/enterprise_cloud_solutions.svg" alt="" />
+                                                        <img src="https://docs.microsoft.com/en-us/office/media/hub-tiles/Office365-EnterpriseCloud-400x140.svg" alt="A cloud symbol with a building and a green checkmark" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -78,7 +78,7 @@ description: Manage Office 365
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img src="https://docs.microsoft.com/media/hubs/office365/powershell_reference.svg" alt="" />
+                                                        <img src="https://docs.microsoft.com/en-us/office/media/hub-tiles/Office365-Powershell-400x140.svg" alt="PowerShell logo over a book symbol" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
