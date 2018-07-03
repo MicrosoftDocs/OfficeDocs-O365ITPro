@@ -1,4 +1,4 @@
 ---
-redirect_url: yammer-landing-page
+redirect_url: troubleshoot-problems
 redirect_document_id: TRUE 
 ---
