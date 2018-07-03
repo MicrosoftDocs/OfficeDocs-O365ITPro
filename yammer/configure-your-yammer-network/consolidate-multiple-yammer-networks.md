@@ -11,7 +11,7 @@ localization_priority: Normal
 ms.custom: Adm_Yammer
 search.appverid: YAE150
 ms.assetid: a22c1b20-9231-4ce2-a916-392b1056d002
-description: "Migrate one or more subsidiary Yammer networks into a parent Yammer Enterprise network (previously called 'Network merge')."
+description: Migrate one or more subsidiary Yammer networks into a parent Yammer Enterprise network (previously called 'Network merge').
 ---
 
 # Network migration - Consolidate multiple Yammer networks
