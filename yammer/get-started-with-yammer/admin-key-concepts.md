@@ -26,7 +26,7 @@ This article describes the key concepts you should know, and key decisions you s
   
 ## Do some planning
 
-1. To get started with planning, in [Yammer admin](../yammer-landing-page.md), explore the resources in the [Yammer - Admin Help](../yammer-landing-page.md#Rollout) section. You'll find guides and templates to help you prepare your strategy for how to use Yammer most effectively in your organization, build a Yammer vision statement, identify the business outcomes you want, identify key stakeholders, and build a launch plan. 
+1. To get started with planning, look at the resources in  [Yammer adoption resources](https://resources.techcommunity.microsoft.com/yammer-adoption-resources/). You'll find guides and templates to help you prepare your strategy for how to use Yammer most effectively in your organization, build a Yammer vision statement, identify the business outcomes you want, identify key stakeholders, and build a launch plan. 
     
 2. Plan who will help administer Yammer for your organization. There are several types of admins:
     

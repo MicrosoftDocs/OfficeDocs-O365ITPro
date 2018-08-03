@@ -121,10 +121,11 @@ Learn how to manage a Yammer network for your organization.
                 <div class="card">
                     <div class="cardText">
                         <h3>Get started with Yammer</h3>
-                        <p>[Admin key concepts](/get-started-with-yammer/admin-key-concepts)</p>
-                        <p>[Admin quick start](/get-started-with-yammer/admin-quick-start)</p>
-                        <p>[Free trial options](/get-started-with-yammer/compare-options-for-a-free-trial)</p>
-                        <p>[Yammer end-user help](https://support.office.com/en-us/yammer)</p>
+                        <p>[Admin key concepts](./get-started-with-yammer/admin-key-concepts)</p>
+                        <p>[Admin quick start](./get-started-with-yammer/admin-quick-start)</p>
+                        <p>[Free trial options](./get-started-with-yammer/compare-options-for-a-free-trial)</p>
+                        <p>
+                        [Yammer end-user help](https://support.office.com/en-us/yammer)</p>
                     </div>
                 </div>
             </div>
