@@ -30,45 +30,45 @@ This article describes the key concepts you should know, and key decisions you s
     
 2. Plan who will help administer Yammer for your organization. There are several types of admins:
     
-  - Verified admins have the most permissions, and are responsible for the big decisions of how to use Yammer in your company. They can manage security-related tasks, as well as configure and customize Yammer, and manage users and groups. 
+      - Verified admins have the most permissions, and are responsible for the big decisions of how to use Yammer in your company. They can manage security-related tasks, as well as configure and customize Yammer, and manage users and groups. 
     
-  - Network admins can configure and customize Yammer, and manage users and groups. 
+      - Network admins can configure and customize Yammer, and manage users and groups. 
     
-  - Group admins can configure and customize their groups, and manage day-to-day operations for their groups. 
+      - Group admins can configure and customize their groups, and manage day-to-day operations for their groups. 
     
     For information on how to make someone an admin and a full list of who can do what, see [Manage Yammer admins](../manage-yammer-users/manage-yammer-admins.md). 
     
 3. Set up your Yammer network to match your organizational goals: 
     
-  - [Configure](../configure-your-yammer-network/configure-yammer.md) and [customize](../configure-your-yammer-network/customize-the-look-of-yammer.md) your network. [Set up a usage policy](../manage-security-and-compliance/set-up-a-usage-policy.md) to keep conversations appropriate and useful. 
+      - [Configure](../configure-your-yammer-network/configure-yammer.md) and [customize](../configure-your-yammer-network/customize-the-look-of-yammer.md) your network. [Set up a usage policy](../manage-security-and-compliance/set-up-a-usage-policy.md) to keep conversations appropriate and useful. 
     
     Review the [security and compliance features](../manage-security-and-compliance/security-and-compliance.md) and define your data retention and export plans. 
     
-  - Make sure your domains are set up in Office 365 the way you want them. By default, your Yammer internal network can be accessed only by employees whose email addresses match the domains verified in Office 365. 
+      - Make sure your domains are set up in Office 365 the way you want them. By default, your Yammer internal network can be accessed only by employees whose email addresses match the domains verified in Office 365. 
     
-    If all your domains are verified in Office 365, you're all set. For more information, see [Manage Yammer domains across their lifecycle in Office 365](../configure-your-yammer-network/manage-yammer-domains.md). 
+        If all your domains are verified in Office 365, you're all set. For more information, see [Manage Yammer domains across their lifecycle in Office 365](../configure-your-yammer-network/manage-yammer-domains.md). 
     
-    If your company has business units with different domains, Yammer can help you join these into a consolidated network. You can also create external networks for each business unit, or a singular external network for all employees to access. To weigh these options and merge or create networks, see [Combine multiple Yammer networks](https://go.microsoft.com/fwlink/?LinkID=523730)
+        If your company has business units with different domains, Yammer can help you join these into a consolidated network. You can also create external networks for each business unit, or a singular external network for all employees to access. To weigh these options and merge or create networks, see [Combine multiple Yammer networks](https://go.microsoft.com/fwlink/?LinkID=523730)
     
 4. Explore the options for managing user identity:
     
-  - Learn how [users are managed from Office 365](../manage-yammer-users/office-365-sign-in.md), including how user profile data from Office 365 is used in Yammer. If you have Yammer users who aren't in Office 365, you can manage them from within Yammer. See [Add, block, or remove Yammer users](../manage-yammer-users/add-block-or-remove-users.md). You can also decide whether to [enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md). 
+      - Learn how [users are managed from Office 365](../manage-yammer-users/office-365-sign-in.md), including how user profile data from Office 365 is used in Yammer. If you have Yammer users who aren't in Office 365, you can manage them from within Yammer. See [Add, block, or remove Yammer users](../manage-yammer-users/add-block-or-remove-users.md). You can also decide whether to [enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md). 
     
-  - Decide whether you'll use Yammer to collaborate with people outside your organization.
+      - Decide whether you'll use Yammer to collaborate with people outside your organization.
     
-    Your internal network, also known as a home network, is a private and secure collaboration space where company employees can connect with their coworkers. Only employees with verified corporate email addresses can join the home network and access its content and users. Users from one home network cannot view the content or interact with users from another network unless they are affiliated with both organizations. Messages posted within your home network are owned by your company and cannot be shared externally without permission. Note that admins can invite external users as guests to the internal network, as described in [External messaging FAQ (Yammer)](../work-with-external-users/external-messaging-faq.md).
+        Your internal network, also known as a home network, is a private and secure collaboration space where company employees can connect with their coworkers. Only employees with verified corporate email addresses can join the home network and access its content and users. Users from one home network cannot view the content or interact with users from another network unless they are affiliated with both organizations. Messages posted within your home network are owned by your company and cannot be shared externally without permission. Note that admins can invite external users as guests to the internal network, as described in [External messaging FAQ (Yammer)](../work-with-external-users/external-messaging-faq.md).
     
-    An external network is a separate extension of your home network, but includes invited users from outside your organization. It is a private and secure collaboration space for your company to engage with outside partners, such as customers, suppliers, or investors. While external networks can accommodate users with different email domains, access is invitation-only. More information about how to set up and use external networks can be found in [Create and manage an external network](../work-with-external-users/create-and-manage-an-external-network.md).
+        An external network is a separate extension of your home network, but includes invited users from outside your organization. It is a private and secure collaboration space for your company to engage with outside partners, such as customers, suppliers, or investors. While external networks can accommodate users with different email domains, access is invitation-only. More information about how to set up and use external networks can be found in [Create and manage an external network](../work-with-external-users/create-and-manage-an-external-network.md).
     
 5. Explore the options for groups, and set up the groups you need:
     
-  - To set up public or private groups, see [Create a group in Yammer](https://support.office.com/article/b407af4f-9a58-4b12-b43e-afbb1b07c889). Though anyone on Yammer can create groups, it is often helpful for the admin to set up groups for each department using a consistent group naming strategy, such as Sales Team, Marketing Team, etc. 
+      - To set up public or private groups, see [Create a group in Yammer](https://support.office.com/article/b407af4f-9a58-4b12-b43e-afbb1b07c889). Though anyone on Yammer can create groups, it is often helpful for the admin to set up groups for each department using a consistent group naming strategy, such as Sales Team, Marketing Team, etc. 
     
-  - If you want to use groups that can use Office 365 services, such as SharePoint Online, OneNote, and Planner, called [Office 365 connected groups](../manage-yammer-groups/yammer-and-office-365-groups.md), you need to [enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md).
+      - If you want to use groups that can use Office 365 services, such as SharePoint Online, OneNote, and Planner, called [Office 365 connected groups](../manage-yammer-groups/yammer-and-office-365-groups.md), you need to [enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md).
     
-  - Set up groups that include external users, called [external groups](../work-with-external-users/create-and-manage-external-groups.md).
+      - Set up groups that include external users, called [external groups](../work-with-external-users/create-and-manage-external-groups.md).
     
-  - Decide if you want to use [dynamic groups](../manage-yammer-groups/create-a-dynamic-group.md) to keep membership current as people change roles in your company. 
+      - Decide if you want to use [dynamic groups](../manage-yammer-groups/create-a-dynamic-group.md) to keep membership current as people change roles in your company. 
     
 6. People are the core of the enterprise social network, so invite your team to get started on Yammer via the Yammer admin center. 
     
@@ -88,9 +88,9 @@ This article describes the key concepts you should know, and key decisions you s
     
 11. Learn more.
     
-  - To learn about all the admin features of Yammer, see [Yammer - Admin Help](yammer-landing-page.md).
+      - To learn about all the admin features of Yammer, see [Yammer - Admin Help](yammer-landing-page.md).
     
-  - To learn about free trials of Yammer, go to [Compare options for a free trial of Yammer](compare-options-for-a-free-trial.md).
+      - To learn about free trials of Yammer, go to [Compare options for a free trial of Yammer](compare-options-for-a-free-trial.md).
     
 ## FAQs
 <a name="Activation"> </a>
@@ -145,10 +145,4 @@ A: As part of Yammer development methodology, we A/B test all aspects of Yammer 
 ### Q: What's the roadmap for Yammer?
 <a name="Requirements"> </a>
 
-A: Yammer rapid release and iterative development methodology means that change is constant. The items currently being developed and their stage of development and testing are available here: [Office 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914).
-  
-## See also
-<a name="Activation"> </a>
-
-[Yammer - Admin Help](yammer-landing-page.md)
-
+A: Yammer rapid release and iterative development methodology means that change is constant. The items currently being developed and their stage of development and testing are available in the [Office 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914).

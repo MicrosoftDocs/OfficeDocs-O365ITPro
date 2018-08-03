@@ -20,7 +20,7 @@ description: "Activate Yammer Enterprise features to get additional administrati
 
 # Yammer admin quick start
 
-If you're just doing a quick trial of Yammer, you can experiment with the Yammer settings, add some users, and go. 
+If you're doing a quick trial of Yammer, you can experiment with the Yammer settings, add some users, and go. 
   
 ## Quick start
 
@@ -40,7 +40,7 @@ You can also click **Start Here** to go to the Yammer Success Site, your resourc
 
 Get an overview of key concepts and first steps to setting up your Yammer network with [Yammer admin key concepts](admin-key-concepts.md). 
   
-For links to everything you need to administer your network, see [Yammer - Admin Help](https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe).
+For links to everything you need to administer your network, see [Yammer admin help](..\yammer-landing-page).
   
 ## See also
 

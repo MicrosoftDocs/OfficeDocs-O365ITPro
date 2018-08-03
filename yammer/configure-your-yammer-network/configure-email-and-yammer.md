@@ -18,11 +18,11 @@ description: "For email and Yammer to work together, email setup must match Offi
 
 Yammer is connected to email in several ways: Yammer alerts users to new activity in conversations they follow by email, and users can subscribe to groups in email and post to conversations and groups by email. To make this work smoothly in your organization:
   
-- Email admins are responsible for setting up email correctly.
+    - Email admins are responsible for setting up email correctly.
     
-- Yammer admins can customize the logo in email messages Yammer sends, and can require verification before users can post to Yammer by email. 
+    - Yammer admins can customize the logo in email messages Yammer sends, and can require verification before users can post to Yammer by email. 
     
-- Users can choose the types of notifications they receive. 
+    - Users can choose the types of notifications they receive. 
     
 For information about when email notifications are sent, see [Yammer email and push notifications](https://support.office.com/article/93e530e0-189f-4768-8f28-7683d48cc996).
   
