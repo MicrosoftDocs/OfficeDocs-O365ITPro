@@ -121,7 +121,8 @@ Learn how to manage a Yammer network for your organization.
                 <div class="card">
                     <div class="cardText">
                         <h3>Get started with Yammer</h3>
-                        <p>[Admin key concepts](./get-started-with-yammer/admin-key-concepts)</p>
+                        <p><a href="en-us/yammer/get-started-with-yammer/admin-key-concepts" data-linktype="absolute-path">Admin key concepts</a></p>
+                        <p>[Admin key concepts](en-us/yammer/get-started-with-yammer/admin-key-concepts)</p>
                         <p>[Admin quick start](./get-started-with-yammer/admin-quick-start)</p>
                         <p>[Free trial options](./get-started-with-yammer/compare-options-for-a-free-trial)</p>
                         <p>

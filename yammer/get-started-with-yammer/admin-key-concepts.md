@@ -42,7 +42,7 @@ This article describes the key concepts you should know, and key decisions you s
     
       - [Configure](../configure-your-yammer-network/configure-yammer.md) and [customize](../configure-your-yammer-network/customize-the-look-of-yammer.md) your network. [Set up a usage policy](../manage-security-and-compliance/set-up-a-usage-policy.md) to keep conversations appropriate and useful. 
     
-    Review the [security and compliance features](../manage-security-and-compliance/security-and-compliance.md) and define your data retention and export plans. 
+      - Review the [security and compliance features](../manage-security-and-compliance/security-and-compliance.md) and define your data retention and export plans. 
     
       - Make sure your domains are set up in Office 365 the way you want them. By default, your Yammer internal network can be accessed only by employees whose email addresses match the domains verified in Office 365. 
     
@@ -88,9 +88,9 @@ This article describes the key concepts you should know, and key decisions you s
     
 11. Learn more.
     
-      - To learn about all the admin features of Yammer, see [Yammer - Admin Help](yammer-landing-page.md).
+    To learn about all the admin features of Yammer, see [Yammer - Admin Help](yammer-landing-page.md).
     
-      - To learn about free trials of Yammer, go to [Compare options for a free trial of Yammer](compare-options-for-a-free-trial.md).
+    To learn about free trials of Yammer, go to [Compare options for a free trial of Yammer](compare-options-for-a-free-trial.md).
     
 ## FAQs
 <a name="Activation"> </a>
