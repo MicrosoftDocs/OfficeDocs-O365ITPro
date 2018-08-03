@@ -105,7 +105,7 @@ Learn how to manage a Yammer network for your organization.
                     </div>
                     <div class="cardText">
                         <h3>New features</h3>
-                            <p><a href="/en-us/Yammer/manage-yammer-groups/live-events-in-yammer" data-linktype="absolute-path">Create live events</a></p>
+                            <p><a href="/manage-yammer-groups/live-events-in-yammer" data-linktype="absolute-path">Create live events in Yammer</a></p>
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@ Learn how to manage a Yammer network for your organization.
                     <div class="cardText">
                         <h3>Configure Yammer</h3>
                         <p><a href="/configure-your-yammer-network/configure-yammer" data-linktype="absolute-path">Configure Yammer</a></p> 
-                        <p><a href="/configure-your-yammer-network/customize-the-look-of-yammer" data-linktype="absolute-path">Customize the look of Yammer</a></p> 
+                        <p><a href="/configure-your-yammer-network/customize-the-look-of-yammer" data-linktype="absolute-path">Customize the look</a></p> 
                         <p><a href="/configure-your-yammer-network/configure-email-and-yammer" data-linktype="absolute-path">Configure email and Yammer</a></p> 
                         <p><a href="/configure-your-yammer-network/enforce-office-365-identity" data-linktype="absolute-path">Enforce Office 365 identity</a></p> 
                         <p><a href="/configure-your-yammer-network/yammer-and-office-365" data-linktype="absolute-path">Yammer and Office 365</a></p> 
@@ -155,8 +155,8 @@ Learn how to manage a Yammer network for your organization.
                         <p><a href="/manage-security-and-compliance/yammer-security-settings" data-linktype="absolute-path">Yammer security settings</a></p>
                         <p><a href="/manage-security-and-compliance/export-Yammer-enterprise-data" data-linktype="absolute-path">Export Yammer Enterprise data</a></p>
                         <p><a href="/manage-security-and-compliance/export-yammer-basic-data" data-linktype="absolute-path">Export Yammer Basic data</a></p>
-                        <p><a href="/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise" data-linktype="absolute-path">GDPR requests:Yammer Enterprise</a></p>
-                        <p><a href="/manage-security-and-compliance/gdpr-requests-in-yammer-basic" data-linktype="absolute-path">GDPR requests: Yammer Basic</a></p>
+                        <p><a href="/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise" data-linktype="absolute-path">GDPR: Yammer Enterprise</a></p>
+                        <p><a href="/manage-security-and-compliance/gdpr-requests-in-yammer-basic" data-linktype="absolute-path">GDPR: Yammer Basic</a></p>
                         <p><a href="/manage-security-and-compliance/manage-security-and-compliance/manage-data-compliance" data-linktype="absolute-path">Manage data compliance</a></p>
                         <p><a href="/manage-security-and-compliance/monitor-private-content" data-linktype="absolute-path">Monitor private content</a></p>
                         <p><a href="/manage-security-and-compliance/set-up-a-usage-policy" data-linktype="absolute-path">Set up a usage policy</a></p>
@@ -195,7 +195,7 @@ Learn how to manage a Yammer network for your organization.
                           <p><a href="/work-with-external-users/create-and-manage-an-external-network" data-linktype="absolute-path">Create and manage an external network</a></p> 
                           <p><a href="/work-with-external-users/add-external-participants" data-linktype="absolute-path">Add external participants</a></p> 
                           <p><a href="/work-with-external-users/create-and-manage-external-groups" data-linktype="absolute-path">Create and manage external groups</a></p> 
-                          <p><a href="/work-with-external-users/find-external-participants" data-linktype="absolute-path">Find external participantsX</a></p> 
+                          <p><a href="/work-with-external-users/find-external-participants" data-linktype="absolute-path">Find external participants</a></p> 
                           <p><a href="/work-with-external-users/control-external-messaging-with-Exchange" data-linktype="absolute-path">Control external messaging</a></p> 
                           <p><a href="/work-with-external-users/external-messaging-faq" data-linktype="absolute-path">External messaging FAQ</a></p> 
                </div>
@@ -243,7 +243,7 @@ Learn how to manage a Yammer network for your organization.
                       <p><a href="/troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices" data-linktype="absolute-path">Help Android users log in</a></p> 
                       <p><a href="/troubleshoot-problems/Xlimited-functionality-in-explorer-10-document-modeX" data-linktype="absolute-path">Internet Explorer 10 document mode</a></p> 
                       <p><a href="/troubleshoot-problems/phasing-out-temporary-mobile-passwords" data-linktype="absolute-path">Phasing out temporary mobile passwords</a></p> 
-                      <p><a href="/troubleshoot-problems/converting-yammer-notes-into-word-onlineXX" data-linktype="absolute-path">Convert notes into Word Online</a></p> 
+                      <p><a href="/troubleshoot-problems/converting-yammer-notes-into-word-onlineXX" data-linktype="absolute-path">Convert notes to Word Online</a></p> 
                     </div>
                 </div>
             </div>
