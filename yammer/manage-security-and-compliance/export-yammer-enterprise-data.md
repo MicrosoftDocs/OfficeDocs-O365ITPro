@@ -29,8 +29,8 @@ As a verified admin, you can export Yammer Enterprise data to monitor usage and 
 > [!NOTE]
 > Exported data can't be used for migrating content between Yammer networks. For migration information, see [Network migration: Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md). 
   
-## Export user and admin list
 <a name="ExportUsers"> </a>
+## Export user and admin list
 
 1. In Yammer, click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Network Admin**.
     
@@ -57,8 +57,8 @@ As a verified admin, you can export Yammer Enterprise data to monitor usage and 
 |**Networks.csv** <br/> |Information about your home network and any external networks, including the name, URL, creation date, whether it is moderated, whether it has a usage policy, and the number of users.  <br/> |
 |**Users.csv** <br/> | The ID, name, email, job title, location, department, user ID, deletion status (deletion date, name and id of person who deleted the user), join date, suspension status (deactivated date, name and ID of person who deactivated the user), and the state of the user (active or soft-deleted).  <br/> <br/>A user is who is in the soft_delete state means the user is either:<br/><br/>- pending, if there are no joined_at, suspended_at, or deleted_at values) <br><br/>- suspended (deactivated), if there is a suspended_at value, but no deleted_at value<br><br/>- deleted, if there is a deleted_at value  <br><br/>Guest users can be identified in the user export by reviewing the email address field. If the email address doesn't match the domain of the home network, the user is aguest.<br><br/>The api_url is the URL used to obtain user metadata. For more information about using the data in this field, see the [Yammer developer documentation](https://go.microsoft.com/fwlink/?linkid=874691).  <br/> |
    
-## Export Yammer network data by date range and network
 <a name="ExportNetworkData"> </a>
+## Export Yammer network data by date range and network
 
 1. In the Yammer admin center, go to **Content and Security** \> **Export Network Data**.
     
@@ -105,8 +105,8 @@ The following types of data are not included in this export:
     
 To find this data for an individual user, click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), click **People**, and click the name of the user whose data you want to view. This page shows the user's profile, conversations they've participated in, any files, images, and videos they have posted, along with their bookmarks, followed and following users, and followed topics.
   
-## Export data for one user
 <a name="ExportOneUser"> </a>
+## Export data for one user
 
 > [!NOTE]
 > You must export user data for each network the user is a member of. 
@@ -134,14 +134,14 @@ To find this data for an individual user, click the Yammer settings icon ![Yamme
     
 Exported data does not contain bookmarked messages, group membership, followed or following users, followed topics, the user's notification, application, and language settings, and org chart. To find this data for an individual user, click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), click **People**, and click the name of the user whose data you want to view. This page shows the user's profile, conversations they've participated in, any files, images, and videos they have posted, along with their bookmarks, followed and following users, and followed topics.
   
-## Find and delete specific messages or files
 <a name="DeleteMessagesFiles"> </a>
+## Find and delete specific messages or files
 
 If you have the ID for a message or file, you can go directly to it in Yammer, and delete it if needed.
   
 - To find and delete a specific message in Yammer: 
     
-1. Build the URL for the message. Use https://www.yammer.com/\<network_name\>/#/Threads/show?threadId=\<thread_id\>. For example, https://www.yammer.com/contosomkt.onmicrosoft.com/#/Threads/show?threadId=1040647232.
+1. Build the URL for the message. Use https://www.yammer<span><span>.com/\<network_name\>/#/Threads/show?threadId=\<thread_id\>. For example, https://www.yammer.com/contosomkt.onmicrosoft<span><span>.com/#/Threads/show?threadId=1040647232.
     
 2. In the message, click the **More** icon ![More icon (...)](../media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **Delete**.
     
@@ -149,15 +149,15 @@ If you have the ID for a message or file, you can go directly to it in Yammer, a
     
   - Use the **Search** box in Yammer. For example, for a file named 12345678.pptx in the export, search for 1235678.pptx. In the search results, click **Go to File** file, and then click **Delete this File**.
     
-  -  Or, build the URL for the file. Use https://www.yammer.com/\< network_name\>/#/files/\<file_number\>, for example https://www.yammer.com/contosomkt.onmicrosoft.com/#/files/12345678. On the Yammer page for the file, click **Delete this File**.
+  -  Or, build the URL for the file. Use https://www.yammer<span><span>.com/\< network_name\>/#/files/\<file_number\>, for example https://www.yammer.com/contosomkt.onmicrosoft<span><span>.com/#/files/12345678. On the Yammer page for the file, click **Delete this File**.
     
-## Set up automatic data exports
 <a name="Automatic"> </a>
+## Set up automatic data exports
+
 
 To set up automatic recurring exports, use the Yammer API. For information about the Data Export API, go to [/export](https://go.microsoft.com/fwlink/?LinkID=534735) on the Yammer Developer Center. 
   
 ## See also
-<a name="Automatic"> </a>
 
 [View Group Insights in Yammer](https://support.office.com/article/73f9fa6d-d442-4f25-9194-d5317c9328ab.aspx)
   

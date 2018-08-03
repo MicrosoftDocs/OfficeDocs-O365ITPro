@@ -43,8 +43,8 @@ Yammer Enterprise offers admins security and compliance tools that are not part 
 |||
 |:-----|:-----|
 |**Task** <br/> |**How To** <br/> |
-|Comply with GDPR requirements.  <br/> |[Manage GDPR data subject requests in Yammer Enterprise](gdpr-requests-in-yammer-enterprise.md) <br/> [Manage GPPR data subject requests in Yammer Basic](gdpr-requests-in-yammer-enterprise.md) <br/> |
-|View compliance reports. Yammer is Tier-C compliant in the Office 365 Compliance Framework, which covers SOC 1, Soc 2, ISO 27001, HIPAA, and EU Model Clauses.  <br/> |[Compliance Framework Documentation for Office 365](http://go.microsoft.com/fwlink/p/?LinkId=615657)\*  <br/> [ISO 27001 Certificate](https://go.microsoft.com/fwlink/?linkid=868132) <br/> [Soc 2 Type 2 Report](https://go.microsoft.com/fwlink/?linkid=868133) <br/> |
+|Comply with GDPR requirements.  <br/> |[Manage GDPR data subject requests in Yammer Enterprise *](gdpr-requests-in-yammer-enterprise.md) <br/> [Manage GPPR data subject requests in Yammer Basic](gdpr-requests-in-yammer-enterprise.md) <br/> |
+|View compliance reports. Yammer is Tier-C compliant in the Office 365 Compliance Framework, which covers SOC 1, Soc 2, ISO 27001, HIPAA, and EU Model Clauses.  <br/> |[Compliance Framework Documentation for Office 365 (pdf)](http://go.microsoft.com/fwlink/p/?LinkId=615657)\*  <br/> [ISO 27001 Certificate](https://go.microsoft.com/fwlink/?linkid=868132) <br/> [Soc 2 Type 2 Report](https://go.microsoft.com/fwlink/?linkid=868133) <br/> |
 |Control data retention policies, and view private messages if needed for discovery purposes.  <br/> |[Manage Yammer data compliance](manage-data-compliance.md) \*  <br/> |
 |Export data to review compliance issues  <br/> |[Export data from Yammer Enterprise](export-yammer-enterprise-data.md) \*  <br/> [Export data from Yammer Basic](export-yammer-basic-data.md) <br/> |
 |Track changes to users, admins, and groups.  <br/> |[Track Yammer Events in the Office 365 Audit log and with the Management Activity API](track-yammer-events.md) \*  <br/> |
@@ -55,7 +55,7 @@ Yammer Enterprise offers admins security and compliance tools that are not part 
 |:-----|:-----|
 |**Task** <br/> |**How To** <br/> |
 |Set up a usage policy to ensure only appropriate content is posted.  <br/> |[Set up a Yammer usage policy](set-up-a-usage-policy.md) \*  <br/> |
-|Monitor keywords for unacceptable or inappropriate content so you can intervene if necessary.  <br/> |[Monitor Keywords](manage-data-compliance.md#MonitorKeywords)\*  <br/> [Monitor private content in Yammer (Verified Admins)](monitor-private-content.md) \*  <br/> |
+|Monitor keywords for unacceptable or inappropriate content so you can intervene if necessary.  <br/> |[Monitor Keywords](manage-data-compliance.md#MonitorKeywords)\*  <br/> [Monitor private content in Yammer](monitor-private-content.md) \*  <br/> |
 |Prevent specific data from being sent to external participants.  <br/> |[Control external messaging in a Yammer network with Exchange Transport Rules](../work-with-external-users/control-external-messaging-with-exchange.md) \*  <br/> |
    
 ### Monitor usage
@@ -75,8 +75,8 @@ Yammer Enterprise offers admins security and compliance tools that are not part 
 |For large organizations, use dynamic groups to update group membership automatically as people join, leave, or move within your organization.  <br/> |[Create a dynamic group in Yammer](../manage-yammer-groups/create-a-dynamic-group.md) \*  <br/> |
 |Set expiration policies for Office 365 connected Yammer groups. When set, group owners are prompted to renew the groups if they still need them.  <br/> |[Office 365 Group Expiration policy](https://support.office.com/article/8d253fe5-0e09-4b3c-8b5e-f48def064733.aspx)\*  <br/> |
    
-## Security FAQ
 <a name="Security"> </a>
+## Security FAQ
 
 ### Q: Who can access the Yammer network?
 
@@ -204,9 +204,3 @@ For more information, see [Manage Yammer users across their lifecycle from Offic
 ### Q: How can users without email addresses access Yammer?
 
 A: Yammer works with many large organizations where it is important to hear the voice of all workers, including those without email addresses. In this case, Yammer can grant these users access based on a unique identifier.
-  
-## See also
-<a name="Management"> </a>
-
-[Yammer - Admin Help](https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe)
-
