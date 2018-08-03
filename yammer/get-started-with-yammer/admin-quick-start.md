@@ -26,9 +26,9 @@ If you're doing a quick trial of Yammer, you can experiment with the Yammer sett
 
 1. Go to the Yammer admin center.
     
-  - In Office 365, go to **Admin** \> **Yammer**.
+      - In Office 365, go to **Admin** \> **Yammer**.
     
-  - Or, in Yammer, click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Network Admin**.
+      - Or, in Yammer, click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Network Admin**.
     
 2. Click the links in the **New Network Checklist** to get started. 
     
