@@ -10,7 +10,7 @@ ms.assetid:
 ms.service: o365-administration
 ms.custom: Adm_Yammer
 ms.topic: landing-page
-ms.date: 7/15/18
+ms.date: 8/3/18
 ---
 # Yammer admin
 
@@ -121,9 +121,9 @@ Learn how to manage a Yammer network for your organization.
                 <div class="card">
                     <div class="cardText">
                         <h3>Get started with Yammer</h3>
-                        <p>[Admin key concepts](/en-us/Yammer/get-started-with-yammer/admin-key-concepts)</p>
-                        <p>[Admin quick start](/en-us/Yammer/get-started-with-yammer/admin-quick-start)</p>
-                        <p>[Free trial options](/en-us/Yammer/get-started-with-yammer/compare-options-for-a-free-trial)</p>
+                        <p>[Admin key concepts](/get-started-with-yammer/admin-key-concepts)</p>
+                        <p>[Admin quick start](/get-started-with-yammer/admin-quick-start)</p>
+                        <p>[Free trial options](/get-started-with-yammer/compare-options-for-a-free-trial)</p>
                         <p>[Yammer end-user help](https://support.office.com/en-us/yammer)</p>
                     </div>
                 </div>
@@ -141,7 +141,7 @@ Learn how to manage a Yammer network for your organization.
                         <p>[Configure email and Yammer](/en-us/Yammer/configure-your-yammer-network/configure-email-and-yammer)</p>
                         <p>[Enforce Office 365 identity](/en-us/Yammer/configure-your-yammer-network/enforce-office-365-identity)</p>
                         <p>[Yammer and Office 365] (/en-us/Yammer/configure-your-yammer-network/yammer-and-office-365)</p>
-                         <p>[Manage Yammer domains](/en-us/Yammer/configure-your-yammer-network/manage-yammer-domains)</p>
+                        <p>[Manage Yammer domains](/en-us/Yammer/configure-your-yammer-network/manage-yammer-domains)</p>
                         <p>[Consolidate multiple networks](/en-us/Yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)</p>               
                     </div>
                 </div>
