@@ -54,8 +54,8 @@ To get to the Yammer admin center to manage users:
     > [!NOTE]
     > If your organization uses more than one Internet domain for email addresses and you would like to add users from other domains to your network, consider performing a Yammer network consolidation. For more information, go to [Network migration: Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md). 
   
-## Manage pending users
 <a name="ManagePending"> </a>
+## Manage pending users
 
 A "pending user" is someone who has been invited to a yammer network but never logged in. Pending users can be added to groups even before they join the Yammer network.
   
@@ -63,8 +63,8 @@ Pending users receive announcement notification emails from group admins. If use
   
 As in all Office products, pending users will be visible in the group member list even if they have never logged in.
   
-## Invite guests
 <a name="InviteGuests"> </a>
+## Invite guests
 
 Invite external contacts with email addresses outside of your domain (e.g., consultants, contractors, or partners). Guest email domains are not added to the list of authorized domains for your network. 
   
@@ -78,8 +78,8 @@ As with other users, guest users' names and profiles remain blank until they acc
   
 For more information about guests, see [External Messaging FAQ](../work-with-external-users/external-messaging-faq.md).
   
-## Remove users
 <a name="RemoveUsers"> </a>
+## Remove users
 
 You can deactivate or permanently remove users, including users, including active and pending users and guests. 
   
@@ -135,8 +135,8 @@ Users can also delete their own Yammer account. For more information, see [Chang
     
 To monitor activity and device usage for your entire Yammer network, see [Office 365 Reports in the Admin Center - Yammer activity report](https://support.office.com/article/C7C9F938-5B8E-4D52-B1A2-C7C32CB2312A) and [Office 365 Reports in the Admin Center - Yammer device usage report](https://support.office.com/article/B793FFDD-EFFA-43D0-849A-B1CA2E899F38).
   
-## Block users
 <a name="BlockUsers"> </a>
+## Block users
 
  Users with blocked email addresses cannot join your Yammer network unless you or another admin unblocks those addresses. 
   
@@ -163,8 +163,9 @@ There are two ways to block users from Yammer:
     
     2. In the Office 365 admin center, remove the **Yammer** license for the user. For steps, see [Turn off Yammer access for Office 365 users](turn-off-user-access.md) and see [Manage Yammer licenses in Office 365](manage-yammer-licenses-in-office-365.md). 
     
-## Bounced emails
 <a name="BouncedEmails"> </a>
+## Bounced emails
+
 
 Yammer occasionally sends email updates to users. When an employee's email address is disabled, the emails we send bounce back. 
   
@@ -172,8 +173,9 @@ Yammer occasionally sends email updates to users. When an employee's email addre
     
 2. If the user is no longer an employee, select the user from the list, and click **Deactivate**.
     
-## Bulk update users by importing a .CSV file
 <a name="BulkUpdateUsers"> </a>
+## Bulk update users by importing a .CSV file
+
 
  **\* Verified Admin Only**
   
@@ -213,8 +215,8 @@ Excel does not encode non-English characters in CSV files correctly. If you have
     
 2.  In the **File name** box, change the file extension to .csv instead of .txt. 
     
-## Export users
 <a name="ExportUsers"> </a>
+## Export users
 
 1. In the Yammer admin center, go to **Users** \> **Export Users**.
     
@@ -228,8 +230,8 @@ Excel does not encode non-English characters in CSV files correctly. If you have
   
     User fields include: User ID, Email Address, Name, Job Title, Location and Joined On (the date they joined the network).
     
-## Select which profile fields to include
 <a name="ProfileFields"> </a>
+## Select which profile fields to include
 
 1. In the Yammer admin center, go to **Users** \> **Profile Fields**.
     
@@ -239,7 +241,6 @@ Excel does not encode non-English characters in CSV files correctly. If you have
 > Each user can customize their individual email notification preferences by clicking the three dots in the top navigation bar and going to **Edit Profile** \> **Notifications**. They can also go to **Edit Profile** \> **Preferences** to adjust their own message and time zone settings. 
   
 ## See also
-<a name="ProfileFields"> </a>
 
 [Delete your Yammer account](https://support.office.com/article/a3aeca0e-de34-4897-9b59-de6516542851.aspx#DeleteAccount)
   

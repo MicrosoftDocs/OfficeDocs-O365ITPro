@@ -19,9 +19,9 @@ description: "Monitor your Yammer data with these features: keyword monitoring, 
 # Manage Yammer data compliance
 
 As a verified admin, you can keep your users' Yammer posts appropriate and meet security and compliance requirements. You can set up alerts for content that matches keywords, set data retention policies, and if needed, you can view private content. You can also [export data from Yammer](export-yammer-enterprise-data.md).
-  
+
+<a name="MonitorKeywords"> </a> 
 ## Monitor Keywords
-<a name="MonitorKeywords"> </a>
 
 Monitor sensitive content by specifying keywords such as banned words or employees' personal information. All messages in internal and external networks, including messages to and from external participants can be monitored.
   
@@ -51,8 +51,8 @@ Monitor group create|has created|Matthew has created the Easter Region Sales gro
    > [!TIP]
    > For a starting point for creating your keyword list, visit: http://www.bannedwordlist.com ([http://www.bannedwordlist.com](https://go.microsoft.com/fwlink/?LinkId=525065)). 
   
+<a name="DataRetention"> </a>
 ## Data retention
-<a name="MonitorKeywords"> </a>
 
 You can control whether deleted messages are retained.
   
@@ -64,13 +64,12 @@ You can control whether deleted messages are retained.
     
     Data can be permanently deleted by using the Developer API. For information, see the [Developer API](https://go.microsoft.com/fwlink/?linkid=874797) on the Yammer Developer Center. 
     
+<a name="ContentMode"> </a>
 ## Content mode
-<a name="MonitorKeywords"> </a>
 
 If as a verified admin, you have a legal reason to view private messages, you can select to see them. For more information, see [Monitor private content in Yammer](monitor-private-content.md)
   
 ## See Also
-<a name="MonitorKeywords"> </a>
 
 [Overview of security and compliance in Yammer](security-and-compliance.md)
   

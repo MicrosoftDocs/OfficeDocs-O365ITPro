@@ -3,7 +3,7 @@ title: "Configure your Yammer network"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 3/28/2018
+ms.date: 8/3/2018
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -20,7 +20,7 @@ description: "Use the Yammer admin tools to set up your Yammer network. Covers o
 
 Do these basic network configuration tasks in the Yammer admin center before you invite users to use Yammer Enterprise so that all users get a consistent experience. 
   
-As you're getting started with Yammer, review the links in [Yammer - Admin Help](https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe) for other tasks you might want to do, such as [customizing the look of your Yammer network](customize-the-look-of-yammer.md), [reviewing security and compliance settings](../manage-security-and-compliance/security-and-compliance.md), and making sure your [email system is configured properly](configure-email-and-yammer.md).
+As you're getting started with Yammer, review the links in [Yammer admin help](../yammer-landing-page.md) for other tasks you might want to do, such as [customizing the look of your Yammer network](customize-the-look-of-yammer.md), [reviewing security and compliance settings](../manage-security-and-compliance/security-and-compliance.md), and making sure your [email system is configured properly](configure-email-and-yammer.md).
   
 To access the Yammer network configuration tools:
   
@@ -40,7 +40,7 @@ To access the Yammer network configuration tools:
 ## Review domains set up to work with your Yammer network
 <a name="ReviewDomains"> </a>
 
-- On the **Configuration** page, in the **Network Domains** section, select **Click here** to verify that the correct domains are listed. These are the domains that have been set up in Office 365. For more information, see [What is the selecting services page in the Office 365 setup wizard?](https://support.office.com/article/17f4aa9b-5ece-4af8-8be4-a5e8ff8367f2).
+- On the **Configuration** page, in the **Network Domains** section, select **Click here** to verify that the correct domains are listed. These are the domains that have been set up in Office 365. For more information, see [Add a domain to Office 365](https://support.office.com/article/17f4aa9b-5ece-4af8-8be4-a5e8ff8367f2).
     
 ## Require users to confirm email messages posted via email before posting
 <a name="ConfirmEmailPosts"> </a>
@@ -97,9 +97,3 @@ The Org Chart is built from the reporting relationships that users add to their 
 This feature gives users the option to translate messages from [any language supported by Microsoft Translator](https://www.microsoft.com/en-us/translator/languages.aspx) into the network's default language. To enable this feature, the network admin must accept a Terms and Services agreement in order to use Microsoft's proprietary translation technology. This feature is disabled by default. 
   
 - On the **Configuration** page, in the **Enabled Features** section, select whether to allow **Message Translation**.
-    
-## See also
-<a name="RestrictApps"> </a>
-
-[Yammer - Admin Help](https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe)
-

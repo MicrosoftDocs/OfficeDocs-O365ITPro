@@ -45,7 +45,7 @@ Here are the main questions to ask during the planning step:
     
 - For each subsidiary network, what content needs to be exported and loaded onto the parent network? 
     
-    Who will do the actual migration, export the data, set up the group structure in the parent network, upload data, and communicate with users?
+- Who will do the actual migration, export the data, set up the group structure in the parent network, upload data, and communicate with users?
     
 - What groups are necessary in the parent network for the users who are coming in from the subsidiary? Who should be in these groups? Who should be the admins?
     
@@ -100,7 +100,7 @@ The following illustration shows the after state, where the users and any extern
 ## Step 2: Export content from subsidiary networks
 <a name="Export"> </a>
 
-For information about how to export all Yammer data for a subsidiary network, see [](../manage-security-and-compliance/manage-data-compliance.md#ExportData) and [Export data from Yammer Basic](../manage-security-and-compliance/export-yammer-basic-data.md). 
+For information about how to export all Yammer data for a subsidiary network, see [Export data from Yammer Enterprise](../manage-security-and-compliance/export-yammer-enterprise-data.md) and [Export data from Yammer Basic](../manage-security-and-compliance/export-yammer-basic-data.md). 
   
 - Exported files can be uploaded to the parent network. You'll need to create a mapping between the file name and the location for the file in your parent network.
     
@@ -131,7 +131,7 @@ Use the sample communication below to let everyone on the subsidiary networks kn
 > [!IMPORTANT]
 > Before you start, be sure you have exported data from the subsidiary network and communicated with users! 
   
-The network migration has three steps that you will be guided through. Multiple network migrations can be started back-to-back, without waiting for the previous ones to finish. Start from the parent network (the network into which you want to migrate the other network):
+The network migration has three steps that you will be guided through. Multiple network migrations can be started back-to-back, without waiting for the previous ones to finish. Start from the parent network (the network into which you want to migrate the other network).
   
 ### Run the Network Migration tool
 
@@ -190,7 +190,7 @@ The migration status page can show the following error messages.
 |Failed to migrate  _user email_ <br/> |If one or more users failed to migrate, there will be one or more error messages to that effect. At this point, you can decide to add the user manually to the parent network. Note that the subsidiary network has been migrated at this point.  <br/> |
 |Failed to migrate  _external network name_ <br/> |If one or more external networks failed to migrate, there will be one or more error messages to that effect. Note that the subsidiary network has been migrated at this point.  <br/> |
    
-To troubleshoot further, contact [Yammer support](https://support.office.com/en-us/yammer).
+To troubleshoot further, contact [Yammer support](https://support.office.com/en-us/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
   
 ## Step 5: Make parent network changes
 <a name="parentchanges"> </a>

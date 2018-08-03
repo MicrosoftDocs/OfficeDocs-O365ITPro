@@ -18,7 +18,7 @@ description: "Understand the relationship between a Yammer network and an Office
 
 # About Yammer networks and Office 365 tenants
 
-For the best end-user and management experience, it is required that one Office 365 tenant is associated with just one Yammer network - if you are not in this configuration, we recommend you consolidate your networks/tenants to move to this state.
+For the best end-user and management experience, it is required that one Office 365 tenant is associated with just one Yammer network. If you are not in this configuration, we recommend you consolidate your networks/tenants to move to this state.
   
 > [!NOTE]
 > Have you recently received a communication from Yammer stating that your Office 365 tenant is associated with two or more Yammer networks? If you are wondering what that means, read this article for context, and the more detailed [blog post from Yammer support](https://go.microsoft.com/fwlink/?LinkID=786898) for information about what actions you can take. 
@@ -106,7 +106,7 @@ Even after consolidation, you may be in a situation where due to strong business
     
 - **Confusion caused due to organization boundaries being different in Yammer vs. Office 365:** In this configuration, the organizational boundary in Office 365 is larger than the individual Yammer networks, causing potential confusion. Some examples below. 
     
-  - Yammer comments on Office 365 content: An Office 365 video may be shared with everyone in the organization. A contoso.com network user may [Meet Office 365 Video](https://support.office.com/article/ca1cc1a9-a615-46e1-b6a3-40dbd99939a6) to the video - but this comment will be visible only to other users in the contoso.com network. Then a fabrikam.com network user adds another comment similar to the one by the contoso.com user, but this comment will not be visible to the contoso.com user (sine they are on different networks). 
+  - Yammer comments on Office 365 content: An Office 365 video may be shared with everyone in the organization. A contoso.com network user may comment on an [Office 365 Video](https://support.office.com/article/ca1cc1a9-a615-46e1-b6a3-40dbd99939a6) - but this comment will be visible only to other users in the contoso.com network. Then a fabrikam.com network user adds another comment similar to the one by the contoso.com user, but this comment will not be visible to the contoso.com user (sine they are on different networks). 
     
   - Yammer conversations during a Skype meeting broadcast: You can [Add a Yammer feed to a Skype Meeting Broadcast](https://support.office.com/article/0d92d1c4-4032-4b5b-bee4-cdeab1aea7c0) to any Skype meeting broadcast. You typically choose a group in Yammer to include in the meeting broadcast, and the group belongs to a specific Yammer network. But the meeting broadcast itself can include anyone from the Office 365 tenant. So, there may be a situation when a user is logged in to the Skype meeting broadcast, but is not a member of the associated Yammer group, and so cannot participate in the conversation. 
     
@@ -234,6 +234,6 @@ Even after you move into a 1 tenant: 1 network configuration, you could accident
 
  **Q. One of our users is redirected to the wrong Yammer network.**
   
-A. This can happen if your network is in an unsupported configuration with 1 tenant and many Yammer networks. Read about the [One Office 365 tenant associated with many Yammer networks (1 tenant: many networks)](#OneTenantManyNetworks.md). You can either [consolidate your Yammer networks](consolidate-multiple-yammer-networks.md), or change the user's account, as explained in [A Yammer user is displayed as former member when you use Office 365 sign in for Yammer](https://go.microsoft.com/fwlink/?LinkId=871019).
+A. This can happen if your network is in an unsupported configuration with 1 tenant and many Yammer networks. You can either [consolidate your Yammer networks](consolidate-multiple-yammer-networks.md), or change the user's account, as explained in [A Yammer user is displayed as former member when you use Office 365 sign in for Yammer](https://go.microsoft.com/fwlink/?LinkId=871019).
   
 

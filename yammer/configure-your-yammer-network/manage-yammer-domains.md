@@ -114,8 +114,8 @@ If your network is in this situation, it is not in a supported configuration. Fo
 ## FAQ
 <a name="BKMK_YammerNetworkName"> </a>
 
-### I'm an existing Office 365 customer with one domain, and I have already added my company domain to my account. Do I have to do any more domain setup for Yammer?
+### Q. I'm an existing Office 365 customer with one domain, and I have already added my company domain to my account. Do I have to do any more domain setup for Yammer?
 
-No. To get started with administering Yammer, go to the Yammer admin center from Office 365 or Yammer and continue from there. 
+A. No. To get started with administering Yammer, go to the Yammer admin center from Office 365 or Yammer and continue from there. 
   
 
