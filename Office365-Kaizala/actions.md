@@ -3,7 +3,7 @@ title: "Kaizala Actions"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 4/24/2018
+ms.date: 8/3/2018
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -13,12 +13,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 1eacc59a-dd14-43e9-b6b0-3c78773d5496
-description: "Kaizala Action is a 'unit of work' that helps users get work done within a conversation context inside Kaizala. Some of these Actions like Job, Survey and Poll are shipped out-of-the-box, and provide scoped functionality. Once you publish the Actions, users can find them in the Kaizala app, and then they be used in a conversation context from the Action Palette."
+description: "Kaizala Action is a 'unit of work' that helps users get work done within a conversation context inside Kaizala. Some of these Actions like Job, Survey and Poll are shipped out-of-the-box, and provide scoped functionality. Once you publish the Actions, users can find them in the Kaizala app, and then they can be used in a conversation context from the Action Palette."
 ---
 
 # Kaizala Actions
 
-Kaizala Action is a 'unit of work' that helps users get work done within a conversation context inside Kaizala. Some of these Actions like Job, Survey and Poll are shipped out-of-the-box, and provide scoped functionality. Once you publish the Actions, users can find them in the Kaizala app, and then they be used in a conversation context from the Action Palette.
+Kaizala Action is a 'unit of work' that helps users get work done within a conversation context inside Kaizala. Some of these Actions like Job, Survey and Poll are shipped out-of-the-box, and provide scoped functionality. Once you publish the Actions, users can find them in the Kaizala app, and then they can be used in a conversation context from the Action Palette.
   
 You can design a custom Kaizala Action through the Action Designer interface within Kaizala management portal by building on the out-of-box Survey Action.
   
