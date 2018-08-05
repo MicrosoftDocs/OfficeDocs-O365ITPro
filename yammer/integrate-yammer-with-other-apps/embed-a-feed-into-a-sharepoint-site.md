@@ -40,7 +40,7 @@ For Yammer Embed to work, your SharePoint environment must satisfy the following
   
 - Your organization should have an active Yammer network (for example: http&#58;//www&#46;yammer&#46;com/contoso&#46;com)
     
-Yammer does not have to be the social collaboration tool for SharePoint for embedding to work, but if you want to make Yammer the primary social experience for SharePoint, see [Integrate Yammer with on-premises SharePoint 2013 environments](https://go.microsoft.com/fwlink/?LinkID=524180).
+Yammer does not have to be the social collaboration tool for SharePoint for embedding to work, but if you want to make Yammer the primary social experience for SharePoint, see [Integrate Yammer with on-premises SharePoint environments](https://go.microsoft.com/fwlink/?LinkID=524180).
   
 ## Add a Yammer feed to a SharePoint Online or SharePoint Server page
 <a name="AddFeed"> </a>

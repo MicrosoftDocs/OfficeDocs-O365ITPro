@@ -107,7 +107,7 @@ If an external participants no longer wants to participate, they can unsubscribe
     
 - **Yammer inbox:** choose **Stop following in inbox** for the conversation in their Yammer inbox. 
     
-## See lso
+## See also
 
 [Find external participants in a Yammer network](find-external-participants.md)
   

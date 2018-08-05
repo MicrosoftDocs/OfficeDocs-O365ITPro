@@ -116,8 +116,6 @@ Yammer provides a number of tools, templates, and support resources for planning
     
 - The [Yammer site status](https://status.yammer.com/) page contains the latest details on the health of your Yammer site. 
     
-- [Yammer - Admin Help](https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe) provides links to all Yammer administration help topics. 
-    
 ## See also
 
 [Pick your enterprise social network: Yammer or Newsfeed?](../integrate-yammer-with-other-apps/yammer-and-newsfeed.md)
