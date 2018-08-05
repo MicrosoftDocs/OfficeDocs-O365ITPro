@@ -76,14 +76,10 @@ For any other ETR rule you have in place that is not on this list, for now we wi
 
 A: No. In order to apply ETRs, the Yammer network must be associated with an Office 365 tenant which includes Exchange Online, so that we know which ETRs to look at. Linking a Yammer network to Office 365 requires Yammer Enterprise.
   
-## See Also
+## See also
 
 [Add external participants to your Yammer conversations](add-external-participants.md)
   
 [Find external participants in a Yammer network](find-external-participants.md)
   
 [External Yammer participants FAQ](external-messaging-faq.md)
-  
-[Yammer - Admin Help](https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe)
-  
-

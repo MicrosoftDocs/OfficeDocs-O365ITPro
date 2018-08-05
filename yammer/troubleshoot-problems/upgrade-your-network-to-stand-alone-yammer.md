@@ -119,9 +119,7 @@ Yammer provides a number of tools, templates, and support resources for planning
 - [Yammer - Admin Help](https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe) provides links to all Yammer administration help topics. 
     
 ## See also
-<a name="__support_resources"> </a>
 
 [Pick your enterprise social network: Yammer or Newsfeed?](../integrate-yammer-with-other-apps/yammer-and-newsfeed.md)
   
 [Say hello to Yammer](https://support.office.com/article/02ac514e-cf1d-4060-9cde-6038ca812ede)
-

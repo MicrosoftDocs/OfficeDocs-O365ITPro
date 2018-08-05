@@ -27,7 +27,7 @@ To improve the Office 365 sign-in experience for Yammer, use Auto-acceleration P
 
 - You must be a global administrator in Office 365 to run the PowerShell commands.
     
-- Download and Install PackageManagement PowerShell Modules Preview from [here](https://www.microsoft.com/en-us/download/details.aspx?id=49186)
+- Download and Install PackageManagement PowerShell Modules Preview from [here](https://www.microsoft.com/en-us/download/details.aspx?id=49186).
     
 - Download and Install Azure Active Directory V2 PowerShell Module - Public Preview Release [(](https://www.powershellgallery.com/packages/AzureADPreview/2.0.0.85)[Reference](https://www.powershellgallery.com/packages/AzureADPreview/2.0.0.85)[)](https://www.powershellgallery.com/packages/AzureADPreview/2.0.0.85).
     
@@ -72,12 +72,12 @@ To improve the Office 365 sign-in experience for Yammer, use Auto-acceleration P
        BasicAutoAccelerationPolicy -Type HomeRealmDiscoveryPolicy
     ```
 
-If you have multiple federated domains and have a preferred domain for your application against which users will authenticate, set Policy by typing the following command:
+    If you have multiple federated domains and have a preferred domain for your application against which users will authenticate, set Policy by typing the following command:
     
-   ```powershell
-      New-AzureADPolicy -Definition @("{`"HomeRealmDiscoveryPolicy`":{`"AccelerateToFederatedDomain`":true,`"PreferredDomain`":`"contoso.com`"}}")
-    -    DisplayName BasicAutoAccelerationPolicy -Type HomeRealmDiscoveryPolicy
-   ```
+       ```powershell
+     ` New-AzureADPolicy -Definition @("{`"HomeRealmDiscoveryPolicy`":{`"AccelerateToFederatedDomain`":true,`"PreferredDomain`":`"contoso.com`"}}")
+    -    Displ`ayName BasicAutoAccelerationPolicy -Type HomeRealmDiscoveryPolicy
+       ```
 
 4. Note object-id of policy you've just created
     ```powershell

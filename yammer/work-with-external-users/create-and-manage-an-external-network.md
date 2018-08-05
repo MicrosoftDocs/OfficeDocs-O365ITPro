@@ -32,24 +32,24 @@ External networks are essentially their own networks: each has its own admin cen
   
 2. Fill in the required settings:
     
-  - **Network Image:** Click **Choose File** to select an image to use in the header for your new external network. 
+      - **Network Image:** Click **Choose File** to select an image to use in the header for your new external network. 
     
-  - **Network Name:** Provide a name for your new external network, which will now have its own email address and URL. This name must be unique - no other company can use the same name. The URL will be
-```
-https://www.yammer.com/**external_network_name
-```
-with any spaces removed from the network name. You may want to include your company name, such as Contoso Customer Feedback. In this example, the URL would be 
-```
-https://www.yammer.com/contosocustomerfeedback
-```
+      - **Network Name:** Provide a name for your new external network, which will now have its own email address and URL. This name must be unique - no other company can use the same name. The URL will be
+        ```
+        https://www.yammer.com/**external_network_name
+        ```
+        with any spaces removed from the network name. You may want to include your company name, such as Contoso Customer Feedback. In this example, the URL would be 
+        ```
+        https://www.yammer.com/contosocustomerfeedback
+        ```
     
-  - **Network Description:** A clear and succinct description ensures users understand the basic purpose of this network. 
-    
-  - **Add a Network Image:** Upload a thumbnail image or logo that represents the new network. 
-    
-  - **Permissions:** Select whether membership is **Open** (where all members can invite new members) or **Closed** (where only admins can invite new members). You can also select whether or not members of your company's home network can join without an invitation. 
-    
-  - **Allow members to join without an invite:** When you select this, users can join without an invite. When you clear this checkbox, users in your home network must request approval before joining this external network. 
+      - **Network Description:** A clear and succinct description ensures users understand the basic purpose of this network. 
+        
+      - **Add a Network Image:** Upload a thumbnail image or logo that represents the new network. 
+        
+      - **Permissions:** Select whether membership is **Open** (where all members can invite new members) or **Closed** (where only admins can invite new members). You can also select whether or not members of your company's home network can join without an invitation. 
+        
+      - **Allow members to join without an invite:** When you select this, users can join without an invite. When you clear this checkbox, users in your home network must request approval before joining this external network. 
     
 3. Click **Create Network**. 
     
@@ -113,7 +113,5 @@ To get back to your home network, click the home network name at the end of the 
 4. At the bottom of the page, click **Delete External Network**, and then on the confirmation page, click **Delete**.
     
 ## See also
-<a name="BKMK_ManageSettings"> </a>
 
 [Manage Yammer security settings](../manage-security-and-compliance/yammer-security-settings.md)
-

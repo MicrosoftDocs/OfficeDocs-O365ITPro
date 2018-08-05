@@ -52,7 +52,7 @@ You can choose to enforce Office 365 sign-in for Yammer for all users in the net
   
 ## Use Yammer with other Office 365 services
 
-Yammer integrates seamlessly with other services in Office 365. For example, you can share [Meet Office 365 Video](https://support.office.com/article/ca1cc1a9-a615-46e1-b6a3-40dbd99939a6) with other users using Yammer and [Group and share documents in Office Delve](https://support.office.com/article/da0c5804-01ef-4edd-8b87-e576b19bef3e#BKMK_WorkTogetherByUsingYammer) from Delve using Yammer. 
+Yammer integrates seamlessly with other services in Office 365. For example, you can share [Stream or Office 365 Video](https://support.office.com/article/ca1cc1a9-a615-46e1-b6a3-40dbd99939a6) and [Group and share documents in Office Delve](https://support.office.com/article/da0c5804-01ef-4edd-8b87-e576b19bef3e#BKMK_WorkTogetherByUsingYammer) with other users using Yammer. 
   
 ## Make Yammer the default enterprise social network in SharePoint
 
@@ -80,28 +80,26 @@ While legacy Yammer username and password required a valid email address, users 
   
 ## Frequently asked questions
 
-1. **Can I access Office 365 and Yammer on my phone with just one sign-in account?**
+**Q: Can I access Office 365 and Yammer on my phone with just one sign-in account?**
     
-    Yes! Office 365 identity can be used to access Yammer from any device or app. You can use it to access Yammer from the browser, from Yammer Embed, from third party Yammer apps and the Yammer apps for your phone/tablet. And you will use the same Office 365 identity to access other Office 365 services such as OneDrive for Business or Outlook.
+    A: Yes! Office 365 identity can be used to access Yammer from any device or app. You can use it to access Yammer from the browser, from Yammer Embed, from third party Yammer apps and the Yammer apps for your phone/tablet. And you will use the same Office 365 identity to access other Office 365 services such as OneDrive for Business or Outlook.
     
-2. **Do users have to do anything to make this work?**
+**Q: Do users have to do anything to make this work?**
     
-    Your network users should access Yammer once with their Office 365 identity (this action connects the Office 365 identity to Yammer). After this, users should sign in to Yammer again on all of their devices and apps.
+    A: Your network users should access Yammer once with their Office 365 identity (this action connects the Office 365 identity to Yammer). After this, users should sign in to Yammer again on all of their devices and apps.
     
-3. **I'm using Office 365 SSO and the Office 365 sign-in for Yammer, so what happens if Office 365 is federated with an on-premises environment?**
+**Q: I'm using Office 365 SSO and the Office 365 sign-in for Yammer, so what happens if Office 365 is federated with an on-premises environment?**
     
-    The Office 365 sign-in for Yammer will respect any Office 365 federation setting automatically.
+    A: The Office 365 sign-in for Yammer will respect any Office 365 federation setting automatically.
     
-4. **Can I combine Yammer networks in order to take advantage of the new Office 365 sign-in for Yammer?**
+**Q: Can I combine Yammer networks in order to take advantage of the new Office 365 sign-in for Yammer?**
     
-    Yes, we recommend this. For more information, see [Network migration: Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md).
+    A: Yes, we recommend this. For more information, see [Network migration: Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md).
     
-## For more information
+## See also
 
-- [SharePoint enterprise social experience: Yammer and Outlook groups](../integrate-yammer-with-other-apps/yammer-and-newsfeed.md)
+[SharePoint enterprise social experience: Yammer and Outlook groups](../integrate-yammer-with-other-apps/yammer-and-newsfeed.md)
     
-- [Enforce office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md)
+[Enforce office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md)
     
-- [Manage Yammer users across their life cycle from Office 365](manage-users-across-their-lifecycle.md)
-    
-
+[Manage Yammer users across their life cycle from Office 365](manage-users-across-their-lifecycle.md)

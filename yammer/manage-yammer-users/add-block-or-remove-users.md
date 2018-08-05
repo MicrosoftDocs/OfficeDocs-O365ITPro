@@ -89,38 +89,38 @@ You can deactivate or permanently remove users, including users, including activ
     
 3. Select an action to take:
     
-  - **Deactivate this user:** This blocks the user from logging on until they verify their email address again. Without access to their verified email account, they cannot log back on to Yammer. User profile information, messages, and/or file uploads remain. This can be a useful option for contract employees that have completed their project but can be renewed again later. Deactivated users can reactivate their account within 90 days by enabling their email account and logging on to Yammer, where they will receive an email with links to reactivate. After 90 days, the account is permanently deleted. 
+      - **Deactivate this user:** This blocks the user from logging on until they verify their email address again. Without access to their verified email account, they cannot log back on to Yammer. User profile information, messages, and/or file uploads remain. This can be a useful option for contract employees that have completed their project but can be renewed again later. Deactivated users can reactivate their account within 90 days by enabling their email account and logging on to Yammer, where they will receive an email with links to reactivate. After 90 days, the account is permanently deleted. 
     
-  - **Permanently remove this user and keep messages:** This lets you remove the user and retain the messages and content they posted. 
+      - **Permanently remove this user and keep messages:** This lets you remove the user and retain the messages and content they posted. 
     
-  - **Permanently remove this user and messages:** This lets you remove the user and all the messages they posted. This cannot be reversed. 
+      - **Permanently remove this user and messages:** This lets you remove the user and all the messages they posted. This cannot be reversed. 
     
-  - **Erase this user. Wipe their name and personal information, but leave their messages. (Can't be undone after 14 days):** This deactivates the user for 14 days so the admin can evaluate files and messages before the user is permanently deleted. 
+      - **Erase this user. Wipe their name and personal information, but leave their messages. (Can't be undone after 14 days):** This deactivates the user for 14 days so the admin can evaluate files and messages before the user is permanently deleted. 
     
-    > [!NOTE]
-    > This option is typically used for executing a GDPR data subject request. Before using this option, read [Manage GDPR data subject requests in Yammer Enterprise](../manage-security-and-compliance/gdpr-requests-in-yammer-enterprise.md). For GDPR information for all of Office 365, see [Office 365 data subject requests for the GDPR.](https://go.microsoft.com/fwlink/?linkid=874693). 
+        > [!NOTE]
+        > This option is typically used for executing a GDPR data subject request. Before using this option, read [Manage GDPR data subject requests in Yammer Enterprise](../manage-security-and-compliance/gdpr-requests-in-yammer-enterprise.md). For GDPR information for all of Office 365, see [Office 365 data subject requests for the GDPR.](https://go.microsoft.com/fwlink/?linkid=874693). 
   
     All deletion options delete the following data:
     
-  - Who the person is following, what conversations and topics they're following, and who's following them
+      - Who the person is following, what conversations and topics they're following, and who's following them
     
-  - Bookmarks, language preferences, notification settings, and account activity
+      - Bookmarks, language preferences, notification settings, and account activity
     
-  - User's profile
+      - User's profile
     
-  - Group memberships
+      - Group memberships
     
-  - Org chart
+      - Org chart
     
-  - The list of networks they were a member of
+      - The list of networks they were a member of
     
     The first three deletion options leave the user's name in stored Yammer data. The only way to remove the user's name is to use the **Erase this user** option. 
     
 4. Click **Submit**.
     
-If there are any deactivated users, they are listed on the **Remove Users** page. You can reactivate or delete a user from this list. 
+    If there are any deactivated users, they are listed on the **Remove Users** page. You can reactivate or delete a user from this list. 
   
-![Deactivated user list](../media/162b43ed-acd1-4085-8073-b43845c30999.png)
+    ![Deactivated user list](../media/162b43ed-acd1-4085-8073-b43845c30999.png)
   
 Users can also delete their own Yammer account. For more information, see [Change my Yammer profile and settings](https://support.office.com/article/a3aeca0e-de34-4897-9b59-de6516542851.aspx).
   
@@ -247,6 +247,3 @@ Excel does not encode non-English characters in CSV files correctly. If you have
 [Manage Yammer users across their lifecycle from Office 365](manage-users-across-their-lifecycle.md)
   
 [Manage a group in Yammer](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2.aspx)
-  
-[Yammer - Admin Help](https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe)
-

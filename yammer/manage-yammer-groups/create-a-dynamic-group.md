@@ -35,7 +35,7 @@ Dynamic groups update automatically as people join, leave, or move within your o
 
 1. Create an Office 365 connected group in Yammer. 
     
-2. Use PowerShell to change membership management for an Active Directory group to make it dynamic. For instructions, see [Create attribute-based rules for dynamic group membership in Azure Active Directory](https://go.microsoft.com/fwlink/?linkId=869529)
+2. Use PowerShell to change membership management for an Active Directory group to make it dynamic. For instructions, see [Dynamic membership rules for groups in Azure Active Directory](https://go.microsoft.com/fwlink/?linkId=869529)
     
 ## FAQ
 

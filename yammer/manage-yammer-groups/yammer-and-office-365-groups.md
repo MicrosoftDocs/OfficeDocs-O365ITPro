@@ -33,9 +33,9 @@ For information on how to create and manage a group, see [Create a group in Yamm
 
 If you are interested in having Yammer integration with Office 365 Groups enabled in your Office 365 tenant, make sure you meet the following requirements:
   
-1. The Yammer's integration with Office 365 Groups is initially available only for 1:1 network configurations. This means you have one Yammer network that is associated with one Office 365 tenant.
+    - The Yammer's integration with Office 365 Groups is available only for 1:1 network configurations. This means you have one Yammer network that is associated with one Office 365 tenant.
     
-2. You must [enforce Office 365 identity](../configure-your-yammer-network/enforce-office-365-identity.md) for Yammer users. 
+    - You must [enforce Office 365 identity](../configure-your-yammer-network/enforce-office-365-identity.md) for Yammer users. 
     
 Only groups owned by users with group creation privileges are connected to Office 365. In other words, people who cannot create new Office 365-Connected Yammer groups today will not see the existing Yammer groups they own get connected to Office 365.
   
@@ -45,7 +45,7 @@ In a connected group, you can have group conversations in Yammer or in Outlook.
   
 You can send an email to a group in Yammer and it will appear in the group messages. Additionally, the Office 365 connected Yammer group's name is in the global address list (GAL) of your company. Your company can continue to use groups in Yammer and Groups in Outlook based on which group type better fits the scenario for a team.
   
-Also, just like today, email notifications may be sent to users depending on the preferences that they have set in their Yammer notification settings.﻿
+Also, just like today, email notifications may be sent to users depending on the preferences that they have set in their Yammer notification settings.
   
 ## Plans for additional integration with Office 365 Groups
 
@@ -107,7 +107,7 @@ A: As with all Office 365 groups, all the content associated with the group is d
   
  **Q: Can I have a group with dynamic membership in Yammer**
   
-A: Yes. Any Office 365 connected Yammer group can be converted to dynamic membership. See [this article](create-a-dynamic-group.md)for requirements and limitations.
+A: Yes. Any Office 365 connected Yammer group can be converted to dynamic membership. See [this article](create-a-dynamic-group.md) for requirements and limitations.
   
  **Q:** **In a new group, I see there are Yammer Files and a SharePoint Online Doc Library, are these the same thing?**
   
@@ -128,4 +128,3 @@ A: Yammer uses A/B Testing to inform product decisions which is a process that i
 [Create a group in Yammer](https://support.office.com/article/b407af4f-9a58-4b12-b43e-afbb1b07c889)
   
 [Manage a group in Yammer](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2.aspx)
-

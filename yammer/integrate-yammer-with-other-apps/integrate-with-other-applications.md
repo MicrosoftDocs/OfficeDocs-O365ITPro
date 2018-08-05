@@ -21,7 +21,7 @@ description: "Learn about group admin privileges and enterprise integrations for
 Yammer offers a variety of integrations to help make other applications more mobile and social. 
   
 > [!TIP]
-> For many integrations, it is helpful to know the [How do I find a Yammer group's feedID?](https://support.office.com/article/b0e49b2c-ca30-4025-b3bc-7bd764c3e2ec). 
+> For many integrations, it is helpful to know the [how to find a Yammer group's feedID](https://support.office.com/article/b0e49b2c-ca30-4025-b3bc-7bd764c3e2ec). 
   
 ### Yammer for SharePoint
 
@@ -37,7 +37,7 @@ You can [Add a Yammer feed to a Skype Meeting Broadcast](https://support.office.
   
 ### Yammer for Dynamics CRM
 
-Integrate Yammer with Microsoft Dynamics CRM Online to add a social layer to your existing CRM tool and jumpstart collaboration. Get information at [Configure Microsoft Dynamics CRM Online With Yammer](https://go.microsoft.com/fwlink/?linkid=868110).
+Integrate Yammer with Microsoft Dynamics CRM Online to add a social layer to your existing CRM tool and jumpstart collaboration. For more information, see [Configure Microsoft Dynamics CRM Online With Yammer](https://go.microsoft.com/fwlink/?linkid=868110).
   
 ### Yammer for Salesforce.com
 
@@ -52,9 +52,5 @@ Provide an HTTP interface to features available in the Yammer Web Application. G
 Check out this comprehensive list of all Yammer apps in the [App Directory](https://go.microsoft.com/fwlink/?LinkId=524143).
   
 ## See also
-<a name="EnterpriseIntegration"> </a>
 
-[Yammer - Admin Help](https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe)
-  
 [Yammer Developer Center](https://go.microsoft.com/fwlink/?LinkId=525064)
-

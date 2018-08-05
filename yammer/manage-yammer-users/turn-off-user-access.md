@@ -75,7 +75,4 @@ You can also automate this task by using PowerShell.
     
 ## See also
 
-[Delete your Yammer account](https://support.office.com/article/a3aeca0e-de34-4897-9b59-de6516542851.aspx#DeleteAccount)
-  
 [Add, block, or remove Yammer users](add-block-or-remove-users.md)
-

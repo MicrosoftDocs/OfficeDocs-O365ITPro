@@ -170,7 +170,6 @@ As we continue innovating Yammer, additional new capabilities are likely to be b
 > To see what's coming for Yammer, see the [Office 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=524076). 
   
 ## See also
-<a name="OptOut"> </a>
 
 [Add external participants to your Yammer conversations](add-external-participants.md)
   
@@ -179,6 +178,3 @@ As we continue innovating Yammer, additional new capabilities are likely to be b
 [Find external participants in a Yammer network](find-external-participants.md)
   
 [Control external participants in a Yammer network with Exchange Transport Rules](control-external-messaging-with-exchange.md)
-  
-[Yammer - Admin Help](https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe)
-

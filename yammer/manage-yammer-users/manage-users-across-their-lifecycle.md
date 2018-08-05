@@ -115,19 +115,19 @@ Users have a profile in both Office 365 and in Yammer.
   
 - To view their profile in Office 365, users can click on their profile picture and choose **My account**.
     
-![](../media/b8515994-9ea5-431b-b479-cd2820d5c213.png)
+    ![Office 365 profile picture](../media/b8515994-9ea5-431b-b479-cd2820d5c213.png)
   
-This lets them view and edit their **Personal info** for Office 365. 
+    This lets them view and edit their **Personal info** for Office 365. 
   
-![](../media/5f48f342-d9d3-4df6-9ee1-fd7c1895ec71.png)
+    ![Office 365 profile](../media/5f48f342-d9d3-4df6-9ee1-fd7c1895ec71.png)
   
 - To view their profile in Yammer, users can choose **Edit Settings**, and then **Profile**.
     
-![](../media/aea6c6d2-b386-48e8-9ab5-9bbe76064219.png)
+    ![Select Edit Settings/Profile to view your Yammer profile](../media/aea6c6d2-b386-48e8-9ab5-9bbe76064219.png)
   
- This lets them view and edit their user profile for Yammer. 
+     This lets them view and edit their user profile for Yammer. 
   
-![](../media/e9378a05-bb94-4775-9336-818333e65edf.png)
+    ![A sample user profile](../media/e9378a05-bb94-4775-9336-818333e65edf.png)
   
 There are a few key things to understand about how Yammer user profiles are updated from Azure Active Directory.
   
@@ -164,7 +164,7 @@ In Office 365, you can see the user properties that will be updated for Yammer i
 - **Edit email addresses** dialog box 
     - **Edit contact information** dialog box 
     
-![](../media/78cb9ff3-a1a3-4bff-be12-e584c36063f8.jpg)
+    ![](../media/78cb9ff3-a1a3-4bff-be12-e584c36063f8.jpg)
   
 In Yammer, you can see the user properties that will be updated for Yammer on the **Profile** page. These properties are in the following sections: 
   

@@ -69,8 +69,6 @@ You can control whether deleted messages are retained.
 
 If as a verified admin, you have a legal reason to view private messages, you can select to see them. For more information, see [Monitor private content in Yammer](monitor-private-content.md)
   
-## See Also
+## See also
 
 [Overview of security and compliance in Yammer](security-and-compliance.md)
-  
-

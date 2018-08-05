@@ -36,35 +36,35 @@ You grant and change admin roles in the Yammer admin center. In the following sc
   
 ![Screenshot showing the list of admins](../media/52935d22-dd99-418d-b0e7-9ba70c357042.png)
   
-## Yammer group admin
 <a name="bmk_group"> </a>
+## Yammer group admin
 
 |||
 |:-----|:-----|
 |**Tasks** <br/> |Manage the settings for the group, including name, description, image, and header colors. <br/><br> Manage the conversations and files in the group. <br/><br> Manage members and group admins. <br/><br> Post announcements<br/><br> For instructions for typical tasks to manage a Yammer group, see [Manage a group in Yammer](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2.aspx).  <br/> |
-|**Who can give this role to others** <br/> | Any Yammer user who creates a group is assigned the group admin role for the group automatically, and can add or remove other group admins. <br/><br> Verified admins can add or remove group admins in any groups.  <br/><br> Network admins can only add or remove group admins for groups they are a member of.  <br/><br> **Note:** Network admins and verified admins can disable the ability for Yammer users to create groups. In this case, they must assign the initial group admin, who then can do all group admin tasks for the group, including adding more group admins. For more information, see [Manage who can create Office 365 Groups](https://support.office.com/article/4c46c8cb-17d0-44b5-9776-005fced8e618)          |
+|**Who can give this role to others** <br/> | Any Yammer user who creates a group is assigned the group admin role for the group automatically, and can add or remove other group admins. <br/><br> Verified admins can add or remove group admins in any groups.  <br/><br> Network admins can only add or remove group admins for groups they are a member of.  <br/><br> **Note:** Network admins and verified admins can disable the ability for Yammer users to create groups. In this case, they must assign the initial group admin, who then can do all group admin tasks for the group, including adding more group admins. For more information, see [Manage who can create Office 365 Groups](https://support.office.com/article/4c46c8cb-17d0-44b5-9776-005fced8e618).          |
 |**Add or remove a group admin from a group** <br/> | On the group page, in the upper right corner, click the **Settings** icon, click **Manage Members and Admins**, select a user, and then click either **Make Admin**, or **Revoke Admin**.  <br/> |
    
-## Office 365 report reader
 <a name="bmk_reports"> </a>
+## Office 365 report reader
 
 |||
 |:-----|:-----|
 |**Tasks** <br/> | View usage reports for Yammer in the Office 365 usage reporting dashboard.  <br/><br> For information about accessing and interpreting reports, see <br>[Office 365 Reports in the Admin Center - Yammer activity report](https://support.office.com/article/C7C9F938-5B8E-4D52-B1A2-C7C32CB2312A)<br>[Office 365 Reports in the Admin Center - Yammer groups activity report](https://support.office.com/article/94dd92ec-ea73-43c6-b51f-2a11fd78aa31)<br>[Office 365 Reports in the Admin Center - Yammer device usage report](https://support.office.com/article/B793FFDD-EFFA-43D0-849A-B1CA2E899F38)  <br/> |
-|**Who can give this role to others** <br/> |This role is included in the Office 365 global admin role, and can be given to other users by an Office 365 global admin. For more information about this role, see [About Office 365 admin roles](https://support.office.com/article/f576-4f55-a1e0-87090b6aaa9d.aspx)  <br/> |
-|**Add or remove a report reader role** <br/> | In Office 365, go to **Admin** \> **Users** \> **Active Users** and select a user. <br><br>For details, see [Assign admin roles in Office 365 for business](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504) <br/> |
+|**Who can give this role to others** <br/> |This role is included in the Office 365 global admin role, and can be given to other users by an Office 365 global admin. For more information about this role, see [About Office 365 admin roles](https://support.office.com/article/f576-4f55-a1e0-87090b6aaa9d.aspx).  <br/> |
+|**Add or remove a report reader role** <br/> | In Office 365, go to **Admin** \> **Users** \> **Active Users** and select a user. <br><br>For details, see [Assign admin roles in Office 365 for business](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504). <br/> |
    
-## Yammer network admin
 <a name="bmk_network"> </a>
+## Yammer network admin
 
 |||
 |:-----|:-----|
-|**Tasks** <br/> | Configure network settings, including logo and colors, usage policy, what's included in user profiles.  <br/><br>  Manage internal users and outside guests, unlisted groups <br/><br>  Grant and revoke network admin role <br/><br>  For groups they are in, anything group admins can do. <br/><br>  For instructions for typical tasks for network admins, see the [Yammer - Admin Help](https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe).  <br/> |
+|**Tasks** <br/> | Configure network settings, including logo and colors, usage policy, what's included in user profiles.  <br/><br>  Manage internal users and outside guests, unlisted groups <br/><br>  Grant and revoke network admin role <br/><br>  For groups they are in, anything group admins can do. <br/><br>  For instructions for typical tasks for network admins, see the [Yammer admin help](../yammer-landing-page.md).  <br/> |
 |**Who can give this role to others** <br/> |People with the Office 365 global admin role, and Yammer verified admins and network admins can give other Yammer users the network admin role.  <br/> |
-|**Add a network admin** <br/> | In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**, and then in the **Appoint Additional Admins** section, enter the user's name. <br/><br>  Select **Make this user an admin**, and then click **Submit**.<br/><br>   **Remove a network admin** <<br/><br>  In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**, select the user's name, and then click **Remove**.  <br/> |
+|**Add a network admin** <br/> | In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**, and then in the **Appoint Additional Admins** section, enter the user's name. <br/><br>  Select **Make this user an admin**, and then click **Submit**.<br/><br>   **Remove a network admin** <br/><br>  In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**, select the user's name, and then click **Remove**.  <br/> |
    
-## Verified admin
 <a name="bmk_verified"> </a>
+## Verified admin
 
 |||
 |:-----|:-----|
@@ -72,8 +72,8 @@ You grant and change admin roles in the Yammer admin center. In the following sc
 |**Who can give this role to others** <br/> | An Office 365 global admin.  <br/><br>   A Yammer verified admin.  <br/> |
 |**Add or remove verified admins, without giving them the Office 365 global admin role** <br/> |1. In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**. <br/><br>2. If the user is already a network admin, their name will show up in the **Current Admins** list. Select **Grant Verified Admin**. <br/><br>  If user is not already a network admin:  <br/><br>  - In the **Appoint Additional Admins** section, search for them by name, and select **Make this user an admin**, and then click **Submit**. <br/><br>  - Find the user in the **Current Admin**s list, and click **Grant Verified Admin**. <br/><br>  **Change a verified admin who is not also an Office 365 global admin to be a network admin** <br/><br>  - In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**, and in the **Current Admins** section, in the row for the admin, click **Revoke Verified Admin**.  <br/><br>  **Remove all admin roles from a verified admin who is not also an Office 365 global admin** <br/><br>  In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**, and in the **Current Admins** section, in the row for the admin, click **Remove**.  <br/> |
    
-## Office 365 global admin
 <a name="bmk_global"> </a>
+## Office 365 global admin
 
 Anyone with the Office 365 global admin role is automatically a Yammer verified admin.
   
@@ -83,22 +83,22 @@ Anyone with the Office 365 global admin role is automatically a Yammer verified 
 |**Who can give this role to others** <br/> | Other people with the Office 365 global admin role.  <br/> |
 |**Add or remove the Office 365 global admin role** <br/> | To add an Office 365 global admin, see [Assign admin roles in Office 365 for business](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504).  <br/><br>  **Remove another Office 365 global admin** <br/><br>  - In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**, and in the row for the admin, click **Change Status of Office 365 Admins**. This takes you to the Office 365 page where you can change user's roles.  <br/> |
    
-## Troubleshooting admin roles
 <a name="Troubleshooting"> </a>
+## Troubleshooting admin roles - FAQ
 
-### Can I change my own admin role for Yammer?
+### Q: Can I change my own admin role for Yammer?
 
-No. Admins can't edit their own roles.
+A: No. Admins can't edit their own roles.
   
-### How can I find out who the network and verified admins are for our network?
+### Q: How can I find out who the network and verified admins are for our network?
 
-Non‐admin users can see all admins in the **Members** list in the **All Company** group. Admins have a blue start next to their name. 
+A: Non‐admin users can see all admins in the **Members** list in the **All Company** group. Admins have a blue start next to their name. 
   
 Admins can view the list of admins: in the Yammer admin center, select **Admins**. Admins can also export a list of admins to review who has Network Admin role, and who has the Verified Admin role. In the Yammer admin center, select **Export Users**. In the exported .ZIP file, open **Admins.csv**. 
   
-### I'm an Office 365 global admin, and when I log on to Yammer, why don't I see any admin tools?
+### Q: I'm an Office 365 global admin, and when I log on to Yammer, why don't I see any admin tools?
 
-Check the following troubleshooting options to determine why your admin isn't receiving emails from Yammer:
+A: Check the following troubleshooting options to determine why your admin isn't receiving emails from Yammer:
   
 1. Has the admin created a Yammer account?
     
@@ -112,14 +112,9 @@ Check the following troubleshooting options to determine why your admin isn't re
     
     An admin cannot have a generic email address and must be assigned to a real user. To regulate this, there are certain words that are not allowed in the email address of a Global Admin:
     
-  - admin, noreply, help, support, workfeed, feedback, yammer, api, abuse, postmaster, hostmaster, root, new, create, index, show, destroy, delete, and update
+      - admin, noreply, help, support, workfeed, feedback, yammer, api, abuse, postmaster, hostmaster, root, new, create, index, show, destroy, delete, and update
     
 4. Has your company added Yammer.com to the Safe Recipients list?
     
     Your email service could be blocking emails from the Yammer domain. Please check to make sure Yammer.com is on a Safe Recipients list at your company and is not otherwise prevented from delivering emails.
-    
-## See also
-<a name="Troubleshooting"> </a>
-
-[Yammer - Admin Help](https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe)
 

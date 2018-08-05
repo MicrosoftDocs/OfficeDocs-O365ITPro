@@ -215,11 +215,10 @@ Use this communication to reinforce how you want people to use Yammer.
 |We're ready to start collaborating more efficiently! Please sign in to Yammer today, using your [Contoso.com] email and regular password for that account. If you need your password reset for that account, please contact [IT department]. We've restructured the groups so that the content works for everyone, so please take some time to browse the groups and join the ones that make sense for you.  <br/> Questions or concerns? Join the new "One company - one Yammer network" group. We want your input to make our new consolidated network help your voice be heard.  <br/> |
    
 ## See also
-<a name="aftercommunicate"> </a>
 
 [Manage Office 365 with Office 365 PowerShell](https://docs.microsoft.com/en-us/office365/enterprise/powershell/manage-office-365-with-office-365-powershell)
   
 [External messaging](../work-with-external-users/add-external-participants.md)
   
-[](configure-yammer.md#ExternalNetworks)
+[External networks](configure-yammer.md#ExternalNetworks)
 

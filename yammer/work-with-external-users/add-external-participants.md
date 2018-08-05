@@ -107,15 +107,10 @@ If an external participants no longer wants to participate, they can unsubscribe
     
 - **Yammer inbox:** choose **Stop following in inbox** for the conversation in their Yammer inbox. 
     
-## See Also
-<a name="ExternalReply"> </a>
+## See lso
 
 [Find external participants in a Yammer network](find-external-participants.md)
   
 [External Yammer participants FAQ](external-messaging-faq.md)
   
-[Control external messaging with Exchange Transport Rules﻿﻿](control-external-messaging-with-exchange.md)
-  
-[Yammer - Admin Help](https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe)
-  
-
+[Control external messaging with Exchange Transport Rules](control-external-messaging-with-exchange.md)

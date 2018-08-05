@@ -36,14 +36,10 @@ Column **D** (external_participants) lists the users in other networks that part
     
 If you want to remove an external participant, you can use the information from the list to go to the conversation that they're included in and remove them from the conversation. See [Remove an external participant from a conversation](add-external-participants.md#RemoveExternal).
   
-## Related Topics
+## See also
 
 [Add external participants to your Yammer conversations](add-external-participants.md)
   
 [External Yammer participants FAQ](external-messaging-faq.md)
   
 [Control external participants in a Yammer network with Exchange Transport Rules](control-external-messaging-with-exchange.md)
-  
-[Yammer - Admin Help](https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe)
-  
-

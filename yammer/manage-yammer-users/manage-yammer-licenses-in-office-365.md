@@ -82,8 +82,8 @@ Below are some example Windows PowerShell script snippets that you can use to ma
   Get-MsolUser -All -UnlicensedUsersOnly
   ```
 
-## Start blocking users who don't have Yammer licenses
 <a name="StartBlocking"> </a>
+## Start blocking users who don't have Yammer licenses
 
 It takes just a few steps to start blocking Office 365 users who don't have Yammer licenses. However, turning this setting on can accidentally disrupt users' access to Yammer. So before you begin, do the following to make sure your Yammer users can continue working smoothly:
   

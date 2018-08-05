@@ -42,12 +42,9 @@ If you are currently using Temporary Mobile Passwords for specific scenarios or 
 |
 |
 |**Scenario**|**Replacement**|
-|:-----|:-----|
-|**Intranet Only Access.** Admin has blocked federated Yammer authentication from working for devices which connect from the Internet, only allowing authentication on their intranet. Temporary Mobile Passwords ensure users access credentials via the company intranet &amp; allows users to authenticate to the mobile app.  <br/> |**[AAD Conditional Access](https://support.office.com/article/https://docs.microsoft.com/en-us/azure/active-directory/active-directory-conditional-access.aspx).** AAD CA allows admins to restrict access to trusted networks and allows users to authenticate via AAD.  <br/> |
-|**Password Security on Untrusted Devices.** There's a risk that untrusted devices can be compromised &amp; expose corporate passwords to unauthorized users. Temporary Mobile Passwords offers a way to protect sensitive corporate passwords, by providing ephemeral login credentials that don't provide access to the entire O365 suite.  <br/> |**[AAD Conditional Access with Intune](https://support.office.com/article/https://docs.microsoft.com/en-us/azure/active-directory/active-directory-conditional-access.aspx).** With AAD CA, you can enforce multi-factor authentication--using multi-factor authentication helps protect resources from being accessed by an unauthorized user who might have gained access to the credentials of a valid user.  <br/> |
+|**Intranet Only Access.** Admin has blocked federated Yammer authentication from working for devices which connect from the Internet, only allowing authentication on their intranet. Temporary Mobile Passwords ensure users access credentials via the company intranet &amp; allows users to authenticate to the mobile app.  <br/> |**[AAD Conditional Access](https://docs.microsoft.com/en-us/intune/conditional-access).** AAD CA allows admins to restrict access to trusted networks and allows users to authenticate via AAD.  <br/> |
+|**Password Security on Untrusted Devices.** There's a risk that untrusted devices can be compromised &amp; expose corporate passwords to unauthorized users. Temporary Mobile Passwords offers a way to protect sensitive corporate passwords, by providing ephemeral login credentials that don't provide access to the entire O365 suite.  <br/> |**[AAD Conditional Access with Intune](https://docs.microsoft.com/en-us/intune/conditional-access-intune-common-ways-use).** With AAD CA, you can enforce multi-factor authentication--using multi-factor authentication helps protect resources from being accessed by an unauthorized user who might have gained access to the credentials of a valid user.  <br/> |
    
 ## To immediately disable Temporary Mobile Passwords for your network
 
 Open a support case using the Office 365 admin center and we would be happy to disable Temporary Mobile Passwords for your network.
-  
-

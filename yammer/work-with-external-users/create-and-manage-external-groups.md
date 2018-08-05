@@ -59,16 +59,14 @@ You can find external groups in your network the same way you find external user
 ## FAQ
 <a name="OptOut"> </a>
 
-### Q. Why don't I see an option for creating an external group?
+### Q: Why don't I see an option for creating an external group?
 
-A. If your administrator opted out of allowing external messaging, you won't be able to create external groups.
+A: If your administrator opted out of allowing external messaging, you won't be able to create external groups.
   
 ### Q: Can I create an external group on an external network?
 
-No. The creation of external groups is limited to canonical networks and is not available on external networks.
+A: No. The creation of external groups is limited to canonical networks and is not available on external networks.
   
 ## See also
-<a name="OptOut"> </a>
 
 [External messaging FAQ (Yammer)](external-messaging-faq.md)
-

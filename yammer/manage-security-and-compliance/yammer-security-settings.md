@@ -91,9 +91,7 @@ For more information about external messaging, see [External messaging FAQ (Yamm
 2. Look in the **Office 365 Connected Yammer Groups** section to see the status for your connected groups. 
     
 ## See also
-<a name="ExternalNetworksSecurity"> </a>
 
 [Set up a Yammer usage policy](set-up-a-usage-policy.md)
   
 [Overview of security and compliance in Yammer](security-and-compliance.md)
-

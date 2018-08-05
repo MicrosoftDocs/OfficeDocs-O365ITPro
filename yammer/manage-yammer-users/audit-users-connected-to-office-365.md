@@ -97,8 +97,6 @@ Param(
   Write-Host "Done." 
   
 ```
-
-|
    
 3. From a Azure Active Directory Module for Windows PowerShell command window, run the command as in the example below, passing the input file exported from Yammer and an output file location.
     
@@ -117,9 +115,9 @@ Param(
     
     Each of them are accounts that exist in Yammer, but not in Office 365 / Azure AD. For each of them, decide if you need to:
     
-  - Suspend the user account in Yammer if the user shouldn't have access.
+      - Suspend the user account in Yammer if the user shouldn't have access.
     
-  - Create the user in Office 365 / Azure AD.
+      - Create the user in Office 365 / Azure AD.
     
 2. After you have completed these operations, we recommend that you run these steps again from the start to confirm all the users are now found in Office 365 and Azure AD.
     

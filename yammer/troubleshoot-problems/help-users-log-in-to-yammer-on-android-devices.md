@@ -17,11 +17,11 @@ description: "Troubleshooting info for administrators helping users who can't lo
 
 # What to do when users cannot log in to Yammer on Android devices
 
- **I have an account but can't log in.**
+If users have a Yammer account, but can't log in on their device, they may need to update Android WebView.
   
-You might need to update Android WebView.
-  
-Make sure you've downloaded the latest version of [Android WebView](https://play.google.com/store/apps/details?id=com.google.android.webview&amp;hl=en)—a Chrome component that delivers security updates and lets Android apps show you content. If that doesn't work, your org's security certificate is probably outdated. Forward this article to your admin so he or she can resolve the issue.
+On an Android device, make sure you've downloaded the latest version of [Android WebView](https://play.google.com/store/apps/details?id=com.google.android.webview&amp;hl=en) — a Chrome component that delivers security updates and lets Android apps show you content. 
+
+If that doesn't work, your organization's security certificate is probably outdated. Forward this article to your IT admin so they can resolve the issue.
   
 ## Troubleshooting for Yammer and Office 365 Admins
 
