@@ -82,7 +82,7 @@ You can export your own data in Yammer Basic, and can choose to delete any data 
       
     - **Files folder:** This folder contain files that have been created or modified by you during the specified time period. Files are in their native format but are named with their Yammer ID. 
  
-To locate an exported file in Yammer, use the **Search** box in Yammer. For example, for a file named 12345678.ppx in the export, search for 1235678.ppx. Or, go to **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**files**/*file_number*, for example https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/files/12345678
+    To locate an exported file in Yammer, use the **Search** box in Yammer. For example, for a file named 12345678.ppx in the export, search for 1235678.ppx. Or, go to **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**files**/*file_number*, for example https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/files/12345678
     
 4. When your account activity data is ready, you'll receive a Yammer inbox message with a link to the data. Click the link to open it.
     
@@ -93,7 +93,7 @@ To locate an exported file in Yammer, use the **Search** box in Yammer. For exam
   
 **To locate and delete a specific message in Yammer:**
     
-1. Build the URL for the message. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**Threads**/**show?threadId=***thread_id*. For example, https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/Threads/show?threadId=1040647232.
+1. Build the URL for the message. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**Threads**/**show?threadId=** *thread_id*. For example, https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/Threads/show?threadId=1040647232.
     
 2. In the message, click the **More** icon ![More icon (...)](../media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **Delete**.
     
