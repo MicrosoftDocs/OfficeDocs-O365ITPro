@@ -22,9 +22,8 @@ As a verified admin, you can erase a user from Yammer to comply with a [General 
   
 To delete content to honor a GDPR data subject request, your network data retention setting must be set to **Hard Delete**.
   
-    
+  <a name="DataRetention"> </a>  
 ## Ensure your network data retention policy is set to Hard Delete before deleting a user or the user's data
-<a name="DataRetention"> </a>
 
 Yammer has data retention settings that either soft-delete or hard-delete data when a user deletes a message or file. If this is set to **Soft Delete**, data a user has deleted continues to be stored. If the Yammer data retention setting is set to **Hard Delete**, the deleted information is no longer stored in Yammer
   
@@ -43,9 +42,9 @@ If needed, change the settings to **Hard Delete**.
 2. Under **Content and Security** select **Data Retention**.
     
 3. Select **Hard Delete**.
-    
+
+<a name="RemoveUser"> </a>    
 ## Erase a user from your Yammer home network and external networks
-<a name="RemoveUser"> </a>
 
 > [!IMPORTANT]
 > When you erase a user, there is a 14-day window for you to review their files and messages in the home network before the user-identifying data is completely erased. If you want to review the user's messages and files, be sure to export user data prior to erasing the user's account, or within 14 days after selecting **Erase this user**. After the 14-day window, files and messages will continue to exist but will be marked as belonging to a former user.<br><br>After a user's account transitions from deactivated to removed, you can no longer associate user data with the user, which means you can no longer export and review their data. 
@@ -71,8 +70,8 @@ When you erase a user, the following user data is deleted:
     
 - The list of networks they were a member of
     
-## Remove a user from your home network and external network
 <a name="RemoveUserHomeExternal"> </a>
+## Remove a user from your home network and external network
 
 As an admin, you can remove a user from your home network and from any external networks they belong to. A user can also remove themself from an external network.
   
@@ -84,27 +83,27 @@ As an admin, you can remove a user from your home network and from any external 
     
     ![After you select a name, the remove user options are displayed.](../media/a48da79c-7f5f-479b-8b75-a3e67285c141.png)
   
-  - If you want to keep all the user's files and messages, select **Erase this user**.
+      - If you want to keep all the user's files and messages, select **Erase this user**.
     
-  - If you want to review the user's messages and files, and if you have already reviewed and deleted any messages or files in external groups, threads, or networks the user is a guest member in:
+      - If you want to review the user's messages and files, and if you have already reviewed and deleted any messages or files in external groups, threads, or networks the user is a guest member in:
     
-1. Select **Erase this user. Wipe their name and personal information, but leave their messages. (Can't be undone after 14 days):** This deactivates the user for 14 days so that you can export user data and evaluate home network files and messages before the user is permanently deleted. 
+        1. Select **Erase this user. Wipe their name and personal information, but leave their messages. (Can't be undone after 14 days):** This deactivates the user for 14 days so that you can export user data and evaluate home network files and messages before the user is permanently deleted. 
     
-    This option marks the user as deactivated. The deactivated user is listed on the **Remove Users** page. Within 14 days, you can reactivate the user. 
+        This option marks the user as deactivated. The deactivated user is listed on the **Remove Users** page. Within 14 days, you can reactivate the user. 
     
-    ![Deactivated user list](../media/162b43ed-acd1-4085-8073-b43845c30999.png)
+        ![Deactivated user list](../media/162b43ed-acd1-4085-8073-b43845c30999.png)
   
-    After 14 days, a message is sent to all the networks admins and verified admins informing them the user has been deleted.
+        After 14 days, a message is sent to all the networks admins and verified admins informing them the user has been deleted.
     
-2. Click **Submit**.
+        2. Click **Submit**.
     
-3. Within the 14 days, follow the directions in [Export data for one user](gdpr-requests-in-yammer-enterprise.md#ExportUser) and [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles).
+        3. Within the 14 days, follow the directions in [Export data for one user](gdpr-requests-in-yammer-enterprise.md#ExportUser) and [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles).
     
   - If you want to delete all a user's messages and files before you erase the user:
     
-1. Select **Permanently remove this user and remove their messages**, and then click **Submit**.
+        1. Select **Permanently remove this user and remove their messages**, and then click **Submit**.
     
-2. When that completes, select **Erase this user**. This removes the user's name and activity data.
+        2. When that completes, select **Erase this user**. This removes the user's name and activity data.
     
  **Remove a user from an external network (done by user)**
   
@@ -117,8 +116,8 @@ As an admin, you can remove a user from your home network and from any external 
     
 3. On the **Network** tab, click **Delete Account**.
     
-## Remove a user from a group including an external group
 <a name="RemoveGroup"> </a>
+## Remove a user from a group including an external group
 
 1. In the group, click **Members**.
     
@@ -131,23 +130,23 @@ As an admin, you can remove a user from your home network and from any external 
 
 - In the Yammer conversation, click **Remove Participants**. 
     
-## Reactivate a deactivated account after using Erase this user
 <a name="Reactivate"> </a>
+## Reactivate a deactivated account after using Erase this user
 
 When a user's account gets deactivated by using the **Erase this user** option, you have 14 days to reactivate the user. 
   
-- Go to the Yammer Admin center.
+1. Go to the Yammer Admin center.
     
-- Click **Remove Users**. 
+2. Click **Remove Users**. 
     
-- Go to the **Deactivated Users** section. This section will only be visible when there is at least one deactivated user account. 
+3. Go to the **Deactivated Users** section. This section will only be visible when there is at least one deactivated user account. 
     
-- Click **Reactivate** for each user you want to reactivated. 
+4. Click **Reactivate** for each user you want to reactivated. 
     
     After 14 days, the user cannot be reactivated.
     
-## Export data for one user
 <a name="ExportUser"> </a>
+## Export data for one user
 
 > [!NOTE]
 > You must export user data for each network the user is a member of. 
@@ -174,9 +173,9 @@ When a user's account gets deactivated by using the **Erase this user** option, 
 4. When the user's account activity data is ready, you'll receive a Yammer inbox message with a link to the data. Click the link to open it.
     
 Exported data does not contain bookmarked messages, group membership, followed or following users, followed topics, the user's notification, application, and language settings, and org chart. To find this data for an individual user, click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), click **People**, and click the name of the user whose data you want to view. This page shows the user's profile, conversations they've participated in, any files, images, and videos they have posted, along with their bookmarks, followed and following users, and followed topics.
-  
+
+<a name="DeleteMessagesFiles"> </a> 
 ## Delete specific messages or files
-<a name="DeleteMessagesFiles"> </a>
 
 If you have the ID for a message or file, you can go directly to it in Yammer and delete it.
   
@@ -207,8 +206,8 @@ The following table shows how to change or delete this data if needed.
 |User settings, including notification, application, and language settings  <br/> |When you select the [Erase a user from your Yammer home network and external networks](gdpr-requests-in-yammer-enterprise.md#RemoveUser) to remove a user from Yammer this information is deleted after the 14-day suspension period. As an admin, you can't change this information for a user.<br><br>A user can change their own settings. For steps, see [Change my Yammer profile and settings](https://support.office.com/article/a3aeca0e-de34-4897-9b59-de6516542851.aspx).  <br/> |
 |User profile  <br/> | If the user has a Yammer identity, there are two options: <br><br/>- When you select the [Erase a user from your Yammer home network and external networks](gdpr-requests-in-yammer-enterprise.md#RemoveUser) to remove the user from Yammer, this information is deleted in Yammer after the 14-day suspension period.<br><br/>- The user has full control of their own profile, and can modify the values. For information, see [Edit the user's profile and settings (done by user)](gdpr-requests-in-yammer-enterprise.md#EditProfile).<br><br/> If the user has an Office 365 identity, the Yammer user profile is pulled automatically from Office 365, which gets the profile information from Azure Active Directory (AAD). Yammer users can temporarily change their profiles in Yammer, but these changes are overwritten when there is a change in AAD, so to permanently change or delete a user's profile, you must change or delete directory data in Office 365 and AAD. See [Manage Yammer users across their lifecycle from Office 365](https://support.office.com/article/365-6c4c8fff-6444-404a-bffc-f9da0bcc3039.aspx) and [Add or change profile information for a user in Azure Active Directory](https://go.microsoft.com/fwlink/?LinkId=871865).  <br/> |
    
-## Edit the user's profile and settings (done by user)
 <a name="EditProfile"> </a>
+## Edit the user's profile and settings (done by user)
 
 A user can edit their own profile. Administrators can't change the user profile or settings. 
   
@@ -229,7 +228,6 @@ A user can edit their own profile. Administrators can't change the user profile 
   - To set preferences, select **Preferences**. 
     
 ## See also
-<a name="EditProfile"> </a>
 
 [Manage Yammer data compliance](manage-data-compliance.md)
   

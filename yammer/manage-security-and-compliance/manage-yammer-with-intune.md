@@ -22,7 +22,7 @@ When you subscribe to [Microsoft Intune](https://go.microsoft.com/fwlink/p/?Link
   
 ## Manage Yammer with MAM
 
-[Microsoft Intune](https://go.microsoft.com/fwlink/p/?LinkId=817224) provides mobile application management (MAM) capabilities for Yammer, Outlook, and other Office mobile apps for iOS and Android. 
+Microsoft Intune provides mobile application management (MAM) capabilities for Yammer, Outlook, and other Office mobile apps for iOS and Android. 
   
 This feature is especially helpful for organizations where devices and apps are used for both work and personal use and the device is not enrolled in MDM. When using Yammer with Intune, you can set up policies that apply to the Yammer app on Android and iOS devices to help protect your corporate data. For example, you can do the following:
   
@@ -50,14 +50,12 @@ This feature is especially helpful for organizations where devices and apps are 
   
 For more information about using Intune for mobile application management, see:
   
-- [Introduction to Intune](https://go.microsoft.com/fwlink/p/?LinkId=817226)
+- [What is Intune?](https://go.microsoft.com/fwlink/p/?LinkId=817226)
     
-- [What to know before you start Microsoft Intune](https://go.microsoft.com/fwlink/p/?LinkId=817230)
+- [Supported operating systems and browsers](https://go.microsoft.com/fwlink/p/?LinkId=817230)
     
-- [Protect app data using mobile app management policies with Microsoft Intune](https://go.microsoft.com/fwlink/p/?LinkId=823757)
+- [What are app data protection policies?](https://go.microsoft.com/fwlink/p/?LinkId=823757)
     
-- [Configure and deploy mobile application management policies in the Microsoft Intune console](https://go.microsoft.com/fwlink/p/?LinkId=817225)
-    
-- [Create and deploy mobile app management policies with Microsoft Intune](https://go.microsoft.com/fwlink/p/?LinkId=824652)
+- [How to create and assign app protection policies](https://go.microsoft.com/fwlink/p/?LinkId=817225)
     
 

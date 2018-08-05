@@ -56,6 +56,3 @@ You can use the Office 365 Management Activity API to download various Yammer au
 ## See also
 
 [Security FAQ](security-and-compliance.md#Security)
-  
-[Yammer - Admin Help](https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe)
-

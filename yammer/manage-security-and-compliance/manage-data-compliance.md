@@ -62,7 +62,7 @@ You can control whether deleted messages are retained.
     
 2. To prevent deleted data from being available in exported data, select **Hard Delete**. Or, to enable deleted data to appear in exported data, select **Soft Delete**.
     
-    Data can be permanently deleted by using the Developer API. For information, see the [Developer API](https://go.microsoft.com/fwlink/?linkid=874797) on the Yammer Developer Center. 
+    Data can be permanently deleted by using the Developer API. For information, see  [Develop apps for Yammer](https://go.microsoft.com/fwlink/?linkid=874797). 
     
 <a name="ContentMode"> </a>
 ## Content mode

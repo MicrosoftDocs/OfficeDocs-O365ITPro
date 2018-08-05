@@ -58,8 +58,8 @@ Here's a sample usage policy for you to start with.
 |:-----|
 | Welcome to Yammer! Our goal is to provide a collaborative environment to connect with colleagues and bridge our departments and geographic locations to share meaningful information.  <br/><br> **Your activity in this network is governed by the following requirements:**<br>- Everything in Yammer stays in Yammer! (No public posts or Tweets, and so on).<br>- Do not post confidential information into the main feed.<br>- Be respectful to other members. It is acceptable to disagree, but please do so in a respectful manner.<br>- Add value with each post. <br>- You are responsible for the material you post to Yammer.<br>- It is important to substantiate ideas, but please keep messages brief and to the point.<br><br>**Get started by following these best practices:**<br>- When you first join, select the colleagues you want to follow. Posts from these colleagues will appear in your Following feed. To see all company posts, select **All**.<br>- Fill out your profile information. Complete the **Expertise** and **Education** sections, and be sure to add a profile picture.<br>- Customize your email preferences in the **Notifications** section.<br>- Before asking a question, use the search bar and explore the Topics feed to explore existing content. This will help limit repetitive messages.<br>- Browse the Group directory and join groups that you find relevant. If a specific group does not exist, start a new one and invite members of your team to contribute. For best results, use groups as a replacement for existing email listservs.<br>- Add Topics, Links, pictures, and Events to posts when applicable.<br>- Use the Yammer FAQs, and How To Guide to help clarify common concerns.<br>- Take time to explore Yammer. You'll get the hang of it!<br><br>Post a question or send a private message to [Network Admin] with any specific questions.<br><br> To report an inappropriate post, go to [link].  <br/> |
    
+<a name="BrowserPolicy"> </a>
 ## Set up a Yammer browser policy
-<a name="SampleUsePolicy"> </a>
 
 You can add a custom link to your organization's browser policy. The link will be included in the banner that is automatically displayed for some obsolete browsers. Your organization's browser policy might include information such as restrictions on which current browser to use and where to get a current browser.
   
@@ -74,7 +74,6 @@ You can add a custom link to your organization's browser policy. The link will b
 2. Specify the URL where your organization's browser policy is defined.
     
 ## See also
-<a name="SampleUsePolicy"> </a>
 
 [Manage Yammer security settings](yammer-security-settings.md)
   
