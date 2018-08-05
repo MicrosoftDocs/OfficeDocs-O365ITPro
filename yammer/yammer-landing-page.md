@@ -105,7 +105,7 @@ Learn how to manage a Yammer network for your organization.
                     </div>
                     <div class="cardText">
                         <h3>New features</h3>
-                            <p><a href="/en-us/Yammer/manage-yammer-groups/live-events-in-yammer" data-linktype="absolute-path">Create live events in Yammer</a></p>
+                            <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-live-events" data-linktype="absolute-path">Create live events in Yammer</a></p>
                     </div>
                 </div>
             </div>
