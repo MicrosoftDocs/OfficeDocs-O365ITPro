@@ -35,13 +35,13 @@ External networks are essentially their own networks: each has its own admin cen
       - **Network Image:** Click **Choose File** to select an image to use in the header for your new external network. 
     
       - **Network Name:** Provide a name for your new external network, which will now have its own email address and URL. This name must be unique - no other company can use the same name. The URL will be
-        ```
-        https://www.yammer.com/**external_network_name
-        ```
+    
+        https://www&#46;yammer&#46;com/external_network_name
+
         with any spaces removed from the network name. You may want to include your company name, such as Contoso Customer Feedback. In this example, the URL would be 
-        ```
-        https://www<span></span>.yammer<span></span>.com/contosocustomerfeedback
-        ```
+    
+        https://www&#46;yammer&#46;com/contosocustomerfeedback
+     
     
       - **Network Description:** A clear and succinct description ensures users understand the basic purpose of this network. 
         
