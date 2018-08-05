@@ -40,7 +40,7 @@ External networks are essentially their own networks: each has its own admin cen
         ```
         with any spaces removed from the network name. You may want to include your company name, such as Contoso Customer Feedback. In this example, the URL would be 
         ```
-        https://www.yammer.com/contosocustomerfeedback
+        https://www<span></span>.yammer<span></span>.com/contosocustomerfeedback
         ```
     
       - **Network Description:** A clear and succinct description ensures users understand the basic purpose of this network. 
@@ -71,7 +71,7 @@ To get to an external network from your home network, click the Yammer settings 
   
 For example, if you select Contoso Customer Feedback in the first screenshot, you'll go to a new Yammer site for the Contoso Customer Feedback external network. The settings icon will have a blue dot to indicate you're in an external network. The URL will change to show the external network name. For example for the Contoso Customer Feedback external group, the URL is 
 ```
-https://yammer.com/ContosoCustomerFeedback
+https://yammer<span></span>.com/ContosoCustomerFeedback
 ```
   
 ![Settings menu for an external network](../media/1338f356-0650-477c-a1fd-653d15753fca.png)

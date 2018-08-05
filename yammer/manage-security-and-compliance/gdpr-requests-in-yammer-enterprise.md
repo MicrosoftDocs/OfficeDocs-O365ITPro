@@ -189,7 +189,7 @@ If you have the ID for a message or file, you can go directly to it in Yammer an
     
   - Use the **Search** box in Yammer. For example, for a file named 12345678.pptx in the export, search for 1235678.pptx. In the search results, click **Go to File**, and then click **Delete this File**.
     
-  - Or, build the URL for the file. Use https://www.yammer.com/\<network_name\>/#/files/\<file_number\>, for example https://www.yammer.com/contosomkt.onmicrosoft.com/#/files/12345678. On the Yammer page for the file, click **Delete this File**.
+  - Or, build the URL for the file. Use https://www.yammer.com/\<network_name\>/#/files/\<file_number\>, for example https://www.<span></span>yammer.<span></span>com/contosomkt<span></span>.onmicrosoft<span></span>.com/#/files/12345678. On the Yammer page for the file, click **Delete this File**.
     
 ## Find and delete user data not included in the per-user export
 <a name="OtherData"> </a>
