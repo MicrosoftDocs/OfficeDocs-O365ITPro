@@ -32,10 +32,10 @@ For information on how to create and manage a group, see [Create a group in Yamm
 ## Configuration requirements to enable Yammer integration with Office 365 Groups in your tenant
 
 If you are interested in having Yammer integration with Office 365 Groups enabled in your Office 365 tenant, make sure you meet the following requirements:
-  
-    - The Yammer's integration with Office 365 Groups is available only for 1:1 network configurations. This means you have one Yammer network that is associated with one Office 365 tenant.
+
+- Yammer integration with Office 365 Groups is available only for 1:1 network configurations. This means you have one Yammer network that is associated with one Office 365 tenant.
     
-    - You must [enforce Office 365 identity](../configure-your-yammer-network/enforce-office-365-identity.md) for Yammer users. 
+- You must [enforce Office 365 identity](../configure-your-yammer-network/enforce-office-365-identity.md) for Yammer users. 
     
 Only groups owned by users with group creation privileges are connected to Office 365. In other words, people who cannot create new Office 365-Connected Yammer groups today will not see the existing Yammer groups they own get connected to Office 365.
   

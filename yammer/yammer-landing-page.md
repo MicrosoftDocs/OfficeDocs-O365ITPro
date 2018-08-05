@@ -121,7 +121,9 @@ Learn how to manage a Yammer network for your organization.
                 <div class="card">
                     <div class="cardText">
                         <h3>Get started with Yammer</h3>
-                        <p><a href="/en-us/Yammer/get-started-with-yammer/admin-key-concepts" data-linktype="absolute-path">Admin key concepts</a></p>       <p><a href="/en-us/Yammer/get-started-with-yammer/admin-quick-start" data-linktype="absolute-path">Admin quick start</a></p>         <p><a href="/en-us/Yammer/get-started-with-yammer/acompare-options-for-a-free-trial" data-linktype="absolute-path">Free trial options</a></p>      <p><a href="https://support.office.com/en-us/yammer" data-linktype="absolute-path">Yammer end-user help</a></p>
+                        <p><a href="/en-us/Yammer/get-started-with-yammer/admin-key-concepts" data-linktype="absolute-path">Admin key concepts</a></p>       <p><a href="/en-us/Yammer/get-started-with-yammer/admin-quick-start" data-linktype="absolute-path">Admin quick start</a></p>         
+                        <p><a href="/en-us/Yammer/get-started-with-yammer/compare-options-for-a-free-trial" data-linktype="absolute-path">Free trial options</a></p>      
+                        <p><a href="https://support.office.com/en-us/yammer" data-linktype="absolute-path">Yammer end-user help</a></p>
                     </div>
                 </div>
             </div>
@@ -150,13 +152,13 @@ Learn how to manage a Yammer network for your organization.
                 <div class="card">
                     <div class="cardText">
                         <h3>Security and compliance</h3>
-                        <p><a href="/en-us/Yammer/manage-security-and-compliance/manage-security-and-compliance/security-and-compliance" data-linktype="absolute-path">Security and compliance overview</a></p>
+                        <p><a href="/en-us/Yammer/manage-security-and-compliance/security-and-compliance" data-linktype="absolute-path">Security and compliance overview</a></p>
                         <p><a href="/en-us/Yammer/manage-security-and-compliance/yammer-security-settings" data-linktype="absolute-path">Yammer security settings</a></p>
                         <p><a href="/en-us/Yammer/manage-security-and-compliance/export-Yammer-enterprise-data" data-linktype="absolute-path">Export Yammer Enterprise data</a></p>
                         <p><a href="/en-us/Yammer/manage-security-and-compliance/export-yammer-basic-data" data-linktype="absolute-path">Export Yammer Basic data</a></p>
                         <p><a href="/en-us/Yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise" data-linktype="absolute-path">GDPR: Yammer Enterprise</a></p>
                         <p><a href="/en-us/Yammer/manage-security-and-compliance/gdpr-requests-in-yammer-basic" data-linktype="absolute-path">GDPR: Yammer Basic</a></p>
-                        <p><a href="/en-us/Yammer/manage-security-and-compliance/manage-security-and-compliance/manage-data-compliance" data-linktype="absolute-path">Manage data compliance</a></p>
+                        <p><a href="/en-us/Yammer/manage-security-and-compliance/manage-data-compliance" data-linktype="absolute-path">Manage data compliance</a></p>
                         <p><a href="/en-us/Yammer/manage-security-and-compliance/monitor-private-content" data-linktype="absolute-path">Monitor private content</a></p>
                         <p><a href="/en-us/Yammer/manage-security-and-compliance/set-up-a-usage-policy" data-linktype="absolute-path">Set up a usage policy</a></p>
                         <p><a href="/en-us/Yammer/manage-security-and-compliance/track-yammer-events" data-linktype="absolute-path">Track Yammer events</a></p>
@@ -174,7 +176,7 @@ Learn how to manage a Yammer network for your organization.
                         <h3>Manage users</h3>
                         <p><a href="/en-us/Yammer/manage-yammer-users/manage-users-across-their-lifecycle" data-linktype="absolute-path">Manage Office 365 users</a></p>
                         <p><a href="/en-us/Yammer/manage-yammer-users/add-block-or-remove-users" data-linktype="absolute-path">Add, block, or remove users</a></p>
-                        <p><a href="/en-us/Yammer/manage-yammer-users/manage-yammer-licenses-in-Office-36" data-linktype="absolute-path">Manage Yammer licenses in Office 365</a></p>
+                        <p><a href="/en-us/Yammer/manage-yammer-users/manage-yammer-licenses-in-Office-365" data-linktype="absolute-path">Manage Yammer licenses in Office 365</a></p>
                         <p><a href="/en-us/Yammer/manage-yammer-users/audit-users-connected-to-office-365" data-linktype="absolute-path">Audit Office 365 users</a></p>
                         <p><a href="/en-us/Yammer/manage-yammer-users/manage-yammer-admins" data-linktype="absolute-path">Manage Yammer admins</a></p>
                         <p><a href="/en-us/Yammer/manage-yammer-users/office-365-sign-in" data-linktype="absolute-path">Office 365 sign-in</a></p>
@@ -224,9 +226,9 @@ Learn how to manage a Yammer network for your organization.
                 <div class="card">
                     <div class="cardText">
                         <h3>Integrate with other apps</h3>
-                        <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/integrate-yammer-with-other-apps/integrate-with-other-applications" data-linktype="absolute-path">Integrate with other applications</a></p> 
-                        <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/integrate-yammer-with-other-apps/yammer-and-newsfeed" data-linktype="absolute-path">Yammer and Newsfeed</a></p> 
-                        <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site" data-linktype="absolute-path">Embed a feed into a SharePoint site</a></p> 
+                        <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/integrate-with-other-applications" data-linktype="absolute-path">Integrate with other applications</a></p> 
+                        <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/yammer-and-newsfeed" data-linktype="absolute-path">Yammer and Newsfeed</a></p> 
+                        <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site" data-linktype="absolute-path">Embed a Yammer feed in a SharePoint site</a></p> 
                         <p><a href="/en-us/SharePoint/administration/administration" data-linktype="absolute-path">Yammer and SharePoint Server</a></p> 
                     </div>
                 </div>
@@ -240,9 +242,9 @@ Learn how to manage a Yammer network for your organization.
                 <div class="cardText">
                     <h3>Troubleshooting</h3>
                     <p><a href="/en-us/Yammer/troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices" data-linktype="absolute-path">Help Android users log in</a></p> 
-                    <p><a href="/en-us/Yammer/troubleshoot-problems/Xlimited-functionality-in-explorer-10-document-modeX" data-linktype="absolute-path">Internet Explorer 10 document mode</a></p> 
+                    <p><a href="/en-us/Yammer/troubleshoot-problems/limited-functionality-in-explorer-10-document-modeX" data-linktype="absolute-path">Internet Explorer 10 document mode</a></p> 
                     <p><a href="/en-us/Yammer/troubleshoot-problems/phasing-out-temporary-mobile-passwords" data-linktype="absolute-path">Phasing out temporary mobile passwords</a></p> 
-                    <p><a href="/en-us/Yammer/troubleshoot-problems/converting-yammer-notes-into-word-onlineXX" data-linktype="absolute-path">Convert notes to Word Online</a></p> 
+                    <p><a href="/en-us/Yammer/troubleshoot-problems/converting-yammer-notes-into-word-online" data-linktype="absolute-path">Convert notes to Word Online</a></p> 
                 </div>
             </div>
         </div>
