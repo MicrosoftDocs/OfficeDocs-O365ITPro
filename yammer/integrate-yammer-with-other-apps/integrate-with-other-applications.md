@@ -21,7 +21,7 @@ description: "Learn about group admin privileges and enterprise integrations for
 Yammer offers a variety of integrations to help make other applications more mobile and social. 
   
 > [!TIP]
-> For many integrations, it is helpful to know the [how to find a Yammer group's feedID](https://support.office.com/article/b0e49b2c-ca30-4025-b3bc-7bd764c3e2ec). 
+> For many integrations, it is helpful to know [how to find a Yammer group's feedID](https://support.office.com/article/b0e49b2c-ca30-4025-b3bc-7bd764c3e2ec). 
   
 ### Yammer for SharePoint
 
