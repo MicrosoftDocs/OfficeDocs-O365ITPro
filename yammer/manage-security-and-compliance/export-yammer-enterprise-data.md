@@ -66,11 +66,11 @@ As a verified admin, you can export Yammer Enterprise data to monitor usage and 
     
     ![Export page, showing export options](../media/9961176e-dcb5-453c-82a1-ff9d986877ad.png)
   
-  - **Date range:** Only data in the specified date range will be included. 
+      - **Date range:** Only data in the specified date range will be included. 
     
-  - **Include attachments**: If not selected, you'll get a list of files. If selected, you also get a **Files** folder with all files in their native format. 
+      - **Include attachments**: If not selected, you'll get a list of files. If selected, you also get a **Files** folder with all files in their native format. 
     
-  - **Include external networks**: If not selected, you'll only get data from your home network. If selected, you'll get a separate folder for the data from each network. Each network is identified by its ID, and the full network names are listed in **Networks.csv**. 
+      - **Include external networks**: If not selected, you'll only get data from your home network. If selected, you'll get a separate folder for the data from each network. Each network is identified by its ID, and the full network names are listed in **Networks.csv**. 
     
     ![Each network has its own folder, labeled with the network ID](../media/5b8e96a8-b8bf-4467-b6d2-6a0bb9175d3c.png)
   
@@ -141,15 +141,15 @@ If you have the ID for a message or file, you can go directly to it in Yammer, a
   
 - To find and delete a specific message in Yammer: 
     
-1. Build the URL for the message. Use https://www.yammer<span><span>.com/\<network_name\>/#/Threads/show?threadId=\<thread_id\>. For example, https://www.yammer.com/contosomkt.onmicrosoft<span><span>.com/#/Threads/show?threadId=1040647232.
+1. Build the URL for the message. Use <span><span>https://www.yammer<span><span>.com/\<network_name\>/#/Threads/show?threadId=\<thread_id\>. For example, <span><span>https://www.yammer.com/contosomkt.onmicrosoft<span><span>.com/#/Threads/show?threadId=1040647232.
     
 2. In the message, click the **More** icon ![More icon (...)](../media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **Delete**.
     
-- To find and delete a specific file in Yammer:
+To find and delete a specific file in Yammer:
     
-  - Use the **Search** box in Yammer. For example, for a file named 12345678.pptx in the export, search for 1235678.pptx. In the search results, click **Go to File** file, and then click **Delete this File**.
+      - Use the **Search** box in Yammer. For example, for a file named 12345678.pptx in the export, search for 1235678.pptx. In the search results, click **Go to File** file, and then click **Delete this File**.
     
-  -  Or, build the URL for the file. Use https://www.yammer<span><span>.com/\< network_name\>/#/files/\<file_number\>, for example https://www.yammer.com/contosomkt.onmicrosoft<span><span>.com/#/files/12345678. On the Yammer page for the file, click **Delete this File**.
+      -  Or, build the URL for the file. Use <span><span>https://www.yammer<span><span>.com/\< network_name\>/#/files/\<file_number\>, for example <span><span>https://www.yammer.com/contosomkt.onmicrosoft<span><span>.com/#/files/12345678. On the Yammer page for the file, click **Delete this File**.
     
 <a name="Automatic"> </a>
 ## Set up automatic data exports
