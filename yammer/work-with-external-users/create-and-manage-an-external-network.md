@@ -88,7 +88,7 @@ To get back to your home network, click the home network name at the end of the 
   
 2. In your external network, click the external network settings icon ![Settings icon for an external network](../media/e1f84edf-4842-4732-89b2-f7e46e4c94e1.png). 
     
-    Select **Network Admin** to configure and design your external network. For information on these settings, see [Yammer - Admin Help](https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe).
+    Select **Network Admin** to configure and design your external network. For information on these settings, see [Configure your Yammer network](../configure-your-yammer-network/configure-yammer.md).
     
     ![Admin menu for an external network](../media/afc2fe6a-f41d-4dc6-bce5-c59595997bcc.png)
   

@@ -100,9 +100,8 @@ As an admin, you can remove a user from your home network and from any external 
         3. Within the 14 days, follow the directions in [Export data for one user](gdpr-requests-in-yammer-enterprise.md#ExportUser) and [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles).
     
   - If you want to delete all a user's messages and files before you erase the user:
-    
+
         1. Select **Permanently remove this user and remove their messages**, and then click **Submit**.
-    
         2. When that completes, select **Erase this user**. This removes the user's name and activity data.
     
  **Remove a user from an external network (done by user)**

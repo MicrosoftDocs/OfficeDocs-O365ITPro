@@ -82,19 +82,19 @@ While legacy Yammer username and password required a valid email address, users 
 
 **Q: Can I access Office 365 and Yammer on my phone with just one sign-in account?**
     
-    A: Yes! Office 365 identity can be used to access Yammer from any device or app. You can use it to access Yammer from the browser, from Yammer Embed, from third party Yammer apps and the Yammer apps for your phone/tablet. And you will use the same Office 365 identity to access other Office 365 services such as OneDrive for Business or Outlook.
+A: Yes! Office 365 identity can be used to access Yammer from any device or app. You can use it to access Yammer from the browser, from Yammer Embed, from third party Yammer apps and the Yammer apps for your phone/tablet. And you will use the same Office 365 identity to access other Office 365 services such as OneDrive for Business or Outlook.
     
 **Q: Do users have to do anything to make this work?**
-    
-    A: Your network users should access Yammer once with their Office 365 identity (this action connects the Office 365 identity to Yammer). After this, users should sign in to Yammer again on all of their devices and apps.
+
+A: Your network users should access Yammer once with their Office 365 identity (this action connects the Office 365 identity to Yammer). After this, users should sign in to Yammer again on all of their devices and apps.
     
 **Q: I'm using Office 365 SSO and the Office 365 sign-in for Yammer, so what happens if Office 365 is federated with an on-premises environment?**
-    
-    A: The Office 365 sign-in for Yammer will respect any Office 365 federation setting automatically.
+
+A: The Office 365 sign-in for Yammer will respect any Office 365 federation setting automatically.
     
 **Q: Can I combine Yammer networks in order to take advantage of the new Office 365 sign-in for Yammer?**
-    
-    A: Yes, we recommend this. For more information, see [Network migration: Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md).
+
+A: Yes, we recommend this. For more information, see [Network migration: Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md).
     
 ## See also
 

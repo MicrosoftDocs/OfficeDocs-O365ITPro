@@ -146,8 +146,3 @@ The following procedures describe how to add a [group feed](embed-a-feed-into-a-
 7. Save and publish the SharePoint page. You should see a Yammer conversation thread, ready for you to start a discussion, similar to the following illustration.
     
     ![A Yammer page feed embedded in a SharePoint page](../media/b8697f24-f3f8-4817-8d9d-a39362008fa3.png)
-  
-## See also
-
-[Yammer - Admin Help](https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe)
-

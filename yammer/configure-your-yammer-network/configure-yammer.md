@@ -71,7 +71,7 @@ To access the Yammer network configuration tools:
     
   - **Don't allow anyone to upload or attach files**: This prevents people from uploading and attaching new files; however, existing attachments are not be affected.
     
-> [!TIPS]
+> [!TIP]
 > Any admin can delete any file, and group admins can delete files posted to the groups that they manage.<br><br>To delete files, a network admin can click the Yammer **Settings** icon and then click **Files**. This brings up the **Files** directory for the entire network. Group Admins can delete files posted to a group by going to the **Files** tab within the group they administer. 
   
 ## Enable or restrict the use of third-party apps
