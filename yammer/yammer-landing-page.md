@@ -12,7 +12,7 @@ ms.custom: Adm_Yammer
 ms.topic: landing-page
 ms.date: 8/3/18
 ---
-# Yammer admin
+# Yammer admin help
 
 Learn how to manage a Yammer network for your organization.
 
@@ -29,7 +29,7 @@ Learn how to manage a Yammer network for your organization.
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="/en-us/Yammer/get-started-with-yammer/admin-key-concepts">Get started managing your network</a></h3>
+                        <h3><a href="/en-us/Yammer/get-started-with-yammer/admin-key-concepts">Get started managing your Yammer network</a></h3>
                     </div>
                 </div>
             </div>
@@ -105,7 +105,7 @@ Learn how to manage a Yammer network for your organization.
                     </div>
                     <div class="cardText">
                         <h3>New features</h3>
-                            <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-live-events" data-linktype="absolute-path">Create live events in Yammer</a></p>
+                            <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-live-events" data-linktype="absolute-path">Yammer live events</a></p>
                     </div>
                 </div>
             </div>
