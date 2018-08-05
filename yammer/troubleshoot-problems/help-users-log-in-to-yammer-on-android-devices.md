@@ -73,7 +73,7 @@ Follow these 5 steps to verify whether you've got an SSL certificate that's miss
     
 4. Insert your FQDN in the following URL. Make sure that you replace only the letters FQDN without adding any additional characters:
     
-    https://www<span></span>.ssllabs<span></span>.com/ssltest/analyze<span></span>.html?d=FQDN&amp;hideResults=on&amp;latest
+    https&#58;//www&#46;ssllabs&#46;com/ssltest/analyze&#46;html?d=*FQDN*&amp;hideResults=on&amp;latest
     
 5. Copy, paste, and go to the URL that you just completed in step 4.
     

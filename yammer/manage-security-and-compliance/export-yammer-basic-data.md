@@ -50,9 +50,9 @@ Each user can export their own data in Yammer Basic. It is not possible to expor
     
   - **Files folder:** This folder contain files that have been created or modified by you during the specified time period. Files are in their native format but are named with their Yammer ID. 
     
-    To locate an exported file in Yammer, use the **Search** box in Yammer. For example, for a file named 12345678.ppx in the export, search for 1235678.ppx. Or, go to https://www.yammer.com/\< network_name\>/#/files/\<file_number\>, for example:
+    To locate an exported file in Yammer, use the **Search** box in Yammer. For example, for a file named 12345678.ppx in the export, search for 1235678.ppx. Or, go to **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**files**/*file_number*, for example:
 
-        https://www.yammer.com/contosomkt.onmicrosoft.com/#/files/12345678
+        https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/files/12345678
     
 4. When your account activity data is ready, you'll receive a Yammer inbox message with a link to the data. Click the link to open it.
     

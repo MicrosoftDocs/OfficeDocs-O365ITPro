@@ -63,7 +63,7 @@ Here's a sample usage policy for you to start with.
 
 You can add a custom link to your organization's browser policy. The link will be included in the banner that is automatically displayed for some obsolete browsers. Your organization's browser policy might include information such as restrictions on which current browser to use and where to get a current browser.
   
- For example, if the admin specifies the URL for the browser policy as http://www.<span></span>contoso<span></span>.com/IT/browserpolicy.<span></span>htm, this is what the user will see at the top of the page when they use an old browser: 
+ For example, if the admin specifies the URL for the browser policy as http&#58;//www&#46;contoso&#46;com/IT/browserpolicy&#46;htm, this is what the user will see at the top of the page when they use an old browser: 
   
 ![Example of custom browser policy URL in obsolete browser notification](../media/54b99150-36a7-496e-bb27-2bd03786517c.png)
   
