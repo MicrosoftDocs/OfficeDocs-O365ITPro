@@ -14,7 +14,7 @@ ms.date: 8/3/18
 ---
 # Yammer admin help
 
-Learn how to manage a Yammer network for your organization.
+Build communities and collaboration in your organization with Yammer.
 
 
 <ul class="panelContent cardsFTitle">
