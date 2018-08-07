@@ -20,7 +20,7 @@ Here are answers to frequently asked questions about consolidating multiple Yamm
 
 **Q: How do I know if I have multiple Yammer networks associated with one tenant?** 
 
-A: As a Yammer network admin, click the Yammer Settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click Network Migration. 
+A: As a Yammer network admin, click the Yammer Settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Network Migration**. 
 
 You’ll see two lists of domains. If you see domains on the bottom list, then you have multiple Yammer networks and you must consolidate all of them until all the domains show in the list on the top. 
 
@@ -63,9 +63,7 @@ A: There are both short-term and long term benefits:
 
     - Reduce Yammer administration cost: admins can manage one single Yammer service, rather than managing multiple Yammer networks.
 
-
     - Seamlessly manage Yammer from Office 365: admins can manage the Yammer service from Office 365 in the same way they currently manage other Office 365 services. For example, admins can manage the lifecycle of all Yammer users and domains centrally in Office 365. 
-
 
     - Suite connected groups: by integrating tightly with the Office 365 suite, a new group created in Yammer can be an Office 365 group. Therefore, features such as dynamic group membership will now be available to admins. Note that you need to [Enforce office 365 identity](../configure-your-yammer-network/enforce-office-365-identity.md) for Yammer users in order to use connected groups.
 
@@ -98,7 +96,7 @@ A: We understand that some organizations might have a variety of business and le
 - Create private groups. All messages shared in private groups will only be available to the members of that group. The group admin can decide who the members of the group are. For more information, see [Create a group in Yammer](https://support.office.com/en-us/article/create-a-group-in-yammer-b407af4f-9a58-4b12-b43e-afbb1b07c889).
 
 
-- Office 365 admins can remove Yammer licenses from specific users. For example they can remove licenses from all users whose email address uses the ‘contoso.com’ domain. Yammer admins can then choose to enforce licenses in Yammer. Any user that doesn’t have a Yammer license won’t be able to access Yammer. For more information, see [Manage Yammer user licenses in Office 365](../manage-yammer-users/manage-yammer-licences-in-offie-365.md).
+- Office 365 admins can remove Yammer licenses from specific users. For example they can remove licenses from all users whose email address uses the ‘contoso.com’ domain. Yammer admins can then choose to enforce licenses in Yammer. Any user that doesn’t have a Yammer license won’t be able to access Yammer. For more information, see [Manage Yammer user licenses in Office 365](../manage-yammer-users/manage-yammer-licences-in-office-365.md).
 
 
 - Organizations can decide to define organizational boundaries by splitting their Office 365 tenant into two or more separate tenants. 
