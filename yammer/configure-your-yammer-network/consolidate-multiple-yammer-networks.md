@@ -33,7 +33,9 @@ Here are the basic steps:
 |[Step 4: Perform the network migration](consolidate-multiple-yammer-networks.md#self-service) <br/> |Run the network migration tool once for each subsidiary network. The tool migrates all users from the subsidiary Yammer network into the parent Yammer network, and turns off the subsidiary network. It does not migrate any conversation or file data.  <br/> |
 |[Step 5: Make parent network changes](consolidate-multiple-yammer-networks.md#parentchanges) <br/> |Adjust the structure of your parent Yammer network so it meets the needs of users who will be joining it. Create groups, invite members to the groups, and upload files that you exported.  <br/> |
 |[Step 6: Communicate with all users after the migration](consolidate-multiple-yammer-networks.md#aftercommunicate) <br/> |Let everyone know the consolidated Yammer network is ready to use.  <br/> |
-   
+  
+For more information, see [FAQ: Consolidating multiple Yammer networks](faq-consolidate-multiple-yammer-networks.md).
+
 ## Step 1: Plan
 <a name="Plan"> </a>
 
@@ -215,6 +217,8 @@ Use this communication to reinforce how you want people to use Yammer.
 |We're ready to start collaborating more efficiently! Please sign in to Yammer today, using your [Contoso.com] email and regular password for that account. If you need your password reset for that account, please contact [IT department]. We've restructured the groups so that the content works for everyone, so please take some time to browse the groups and join the ones that make sense for you.  <br/> Questions or concerns? Join the new "One company - one Yammer network" group. We want your input to make our new consolidated network help your voice be heard.  <br/> |
    
 ## See also
+
+[FAQ: Consolidating multiple Yammer networks](faq-consolidate-multiple-yammer-networks.md)
 
 [Manage Office 365 with Office 365 PowerShell](https://docs.microsoft.com/en-us/office365/enterprise/powershell/manage-office-365-with-office-365-powershell)
   
