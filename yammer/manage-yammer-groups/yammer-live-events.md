@@ -20,8 +20,8 @@ description: "Learn what's needed to host live video events for Yammer users."
 ---
 # Live events in Yammer
 
-[!NOTE]
-The information in this topic applies to the public preview release of live events supported by Yammer, Teams, and Stream.
+> [!NOTE]
+> The information in this topic applies to the public preview release of live events supported by Yammer, Teams, and Stream.
 
 Yammer is where communities thrive - a community centered around leaders engaging with their employees, a community of common interest, a community of people who share an identity, or a community of learning and shared practices. To bring the members of a community together centered around an event, Yammer group admins can host a live video event using Yammer, Teams, and Stream. Each event includes Yammer conversations before, during, and after the event.
 
@@ -72,7 +72,8 @@ To view your event directly inside of Yammer, create the live event from an Offi
 
 For a Stream-only live event, create your live event directly from within Microsoft Stream.
 
-Important: This live event is not connected to either Yammer or Teams.
+> [!IMPORTANT]
+> This live event is not connected to either Yammer or Teams.
 
 The live event is produced using an external hardware or software encoder via Microsoft Stream. Use this option if you already have a production setup (for example, media mixers) that supports streaming to an RTMP service. This method is typically used in auditorium events, such as town halls, where a stream from a media mixer is broadcast to the audience.
 

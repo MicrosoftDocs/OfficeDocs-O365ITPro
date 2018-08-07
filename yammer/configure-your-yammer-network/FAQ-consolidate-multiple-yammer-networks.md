@@ -44,7 +44,7 @@ A: You must consolidate your Yammer networks by October 16, 2018.
 
 A: Starting October 16, 2018, if you haven’t consolidated your Yammer networks, the Yammer team will automatically consolidate the networks on your behalf. 
 
-> [IMPORTANT]
+> [!IMPORTANT]
 > We strongly encourage you to be proactive and consolidate the networks yourself. 
 
 When networks are consolidated, only users are migrated. Groups and data from the subsidiary networks are not migrated. When you consolidate your networks yourself, you can make sure you pick the right primary network. If you wait for Yammer to automatically consolidate the networks, the primary network selected may not be the one you wanted to have as the primary one. Consolidating your own networks also gives you the chance to export data from the subsidiary networks. 
