@@ -95,15 +95,15 @@ You can then view groups and users information from an Excel spreadsheet or anot
 
 Read this section to help troubleshoot groups issues that you're having in Kaizala.
   
-## I am unable to add groups through Bulk Upload Users feature
+### I am unable to add groups through Bulk Upload Users feature
 
 For each bulk upload activity, there is a unique job that gets created. From the Kaizala home page, go to **Groups**, **Bulk Upload Users** to view bulk upload jobs history. Find the job that you're having issues with and click on the job name to see if there's any errors. Read the error log to find any errors. Fix the errors and then try to re-run the bulk upload again. 
   
-## I already created a group from mobile app. How do I convert this to an organization group?
+### I already created a group from mobile app. How do I convert this to an organization group?
 
 By default, when a group is created from mobile app, it's created as a private group. You can convert this to an organization group from the **Settings** page in the Kaizala admin portal. You can also convert an organization group into a private group, but you can't convert a private group to organization group or vice-versa from the mobile app. 
   
-## I am a Kaizala organization admin. I converted an organization group to a private group, which I am not a member of, and now I can't see it anymore. Where did it go?
+### I am a Kaizala organization admin. I converted an organization group to a private group, which I am not a member of, and now I can't see it anymore. Where did it go?
 
 This is by design. Kaizala organization admins can only see the organization groups. You can't see other private groups unless you are a member or administrator of the group.
   
