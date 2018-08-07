@@ -1,4 +1,4 @@
 ---
-redirect_url: yammer-landing-page
+redirect_url: manage-yammer-users
 redirect_document_id: TRUE 
 ---

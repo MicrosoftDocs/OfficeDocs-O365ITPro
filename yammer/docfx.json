@@ -35,9 +35,11 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/Office365/Yammer/breadcrumb/toc.json",
+      "breadcrumb_path": "/Yammer/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/OfficeDocs-O365ITPro",
+      "feedback_product_url": "mailto:FTSDFeedback@microsoft.com" 
     },
     "fileMetadata": {},
     "template": [],
