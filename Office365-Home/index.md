@@ -15,6 +15,25 @@ description: Manage Office 365
                         <a href="#home-all"></a>
                         <ul id="home-all" class="cardsC">
                             <li>
+                                <a href="/office365/enterprise/cloud-adoption-and-hybrid-solutions">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img src="https://docs.microsoft.com/en-us/office/media/hub-tiles/Office365-EnterpriseCloud-400x140.svg" alt="A cloud symbol with a building and a green checkmark" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Office 365 Enterprise</h3>
+                                                    <p>Deploy and manage Office 365 Enterprise for your organization, either stand-alone or with your existing on-premises infrastructure.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
                                 <a href="https://support.office.com/office365admin">
                                     <div class="cardSize">
                                         <div class="cardPadding">
@@ -46,25 +65,6 @@ description: Manage Office 365
                                                 <div class="cardText">
                                                     <h3>Office 365 Security &amp; Compliance</h3>
                                                     <p>Protect your organization's data, and comply with legal and regulatory standards.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/office365/enterprise/cloud-adoption-and-hybrid-solutions">
-                                    <div class="cardSize">
-                                        <div class="cardPadding">
-                                            <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1"> 
-                                                        <img src="https://docs.microsoft.com/en-us/office/media/hub-tiles/Office365-EnterpriseCloud-400x140.svg" alt="A cloud symbol with a building and a green checkmark" />
-                                                    </div>
-                                                </div>
-                                                <div class="cardText">
-                                                    <h3>Enterprise Cloud Solutions</h3>
-                                                    <p>Solve business problems by using the Microsoft Cloud. Find information on the latest hybrid and security cloud solutions, cloud adoption, and more.</p>
                                                 </div>
                                             </div>
                                         </div>
