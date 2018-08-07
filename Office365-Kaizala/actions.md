@@ -28,13 +28,13 @@ You can design a custom Kaizala Action through the Action Designer interface wit
     
 2. Click on one of the available templates
     
-    a.  New Form - Use this template to collect form data from your group members. Form is available to be filled anytime
+    a.  **New Form** - Use this template to collect form data from your group members. Form is available to be filled anytime
     
-    b. New Survey - Use this template to request data from group members by creating a Survey Action with pre-filled questions. You can use this Action in the app to send this Actions at regular intervals
+    b.  **New Survey** - Use this template to request data from group members by creating a Survey Action with pre-filled questions. You can use this Action in the app to send this Actions at regular intervals
     
-    c. Feedback - Use this template to collect any type of feedback from a group
+    c.  **Feedback** - Use this template to collect any type of feedback from a group
     
-    d. Announcement﻿ - Use this template to make key announcements and share updates to a group
+    d.  **Announcement** - Use this template to make key announcements and share updates to a group
     
 3. Fill out the information on the page, and click or tap **Next**.
     
@@ -55,11 +55,11 @@ You can design a custom Kaizala Action through the Action Designer interface wit
 
 4. On the next page, Tap on check boxes to select, if you would want users to find:
     
-    a. Action introduction page (where users would find details about the Action)
+    a.  Action introduction page (where users would find details about the Action)
 
-    b. Summary page (where users can review their submissions before submitting their response
+    b.  Summary page (where users can review their submissions before submitting their response
 
-    c. Request for user's location as part of response
+    c.  Request for user's location as part of response
     
 ### Feedback &amp; Announcement Actions
 Do relevant customizations on Response View, Immersive View and Chat view.
