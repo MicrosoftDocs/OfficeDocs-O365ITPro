@@ -5,7 +5,7 @@ author: kwekua
 ms.date: 9/28/2017
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: Kaizala
 localization_priority: Normal
 search.appverid:
 - MOE150

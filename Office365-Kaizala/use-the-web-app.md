@@ -6,7 +6,7 @@ manager: scotv
 ms.date: 6/18/2018
 ms.audience: Consumer/IW
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: Kaizala
 localization_priority: Normal
 ms.assetid: cd0fa9fc-e4af-4c6e-a9a2-b6a4ad34d1fa
 description: "The Kaizala web app (preview) will allow you to access Kaizala from a browser window on your computer or mobile device. Before you can use the Kaizala web-app you need to have logged in to the Kaizala app on your mobile device. All the messages and actions you send from the Kaizala web app will go through the Kaizala app to your groups and contacts. The preview Web app is only available on Android devices."

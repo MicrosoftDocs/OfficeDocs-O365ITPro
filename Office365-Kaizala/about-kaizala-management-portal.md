@@ -6,7 +6,7 @@ manager: scotv
 ms.date: 12/1/2017
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: Kaizala
 localization_priority: Normal
 ms.assetid: 2046ddba-06fb-49c9-b6d6-a4777e8a556f
 description: "Microsoft Kaizala is a secure chat and messaging app that enables mobile users to send instant messages, Kaizala Actions, attachments such as pictures, documents, videos, audios and more. Microsoft Kaizala also lets you get instant feedback from your users about anything you want. With Kaizala Actions, you can send out polls and surveys to a few users or thousands, and once they respond, all responses are automatically aggregated and presented in an easy to view report, to help with decision making."
