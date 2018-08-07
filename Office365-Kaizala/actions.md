@@ -44,29 +44,29 @@ You can design a custom Kaizala Action through the Action Designer interface wit
 |Brief description  <br/> |This will be shown in Discover tab of Kaizala app to a user  <br/> |
 |Customize icon  <br/> |Choose the icon for your Kaizala Action.  <br/> |
    
-4. For a selected template, enter relevant details.
+4. For a selected template, enter relevant details described in the next section.
     
-    a. For **Survey** &amp; **Form** Actions: 
+### Survey &amp; Form Actions
+1. Enter card title. This title is shown on the card view of the Action, after an action has been posted
+
+2. Enter question details and choose Answer types. You can add more questions by clicking on 'Add More Question'. You can even choose to add questions on a new page.
+
+3. After you are done with entering question details. Click or tap on **Next**.
+
+4. On the next page, Tap on check boxes to select, if you would want users to find:
     
-        i.   Enter card title. This title is shown on the card view of the Action, after an action has been posted
+    a. Action introduction page (where users would find details about the Action)
+
+    b. Summary page (where users can review their submissions before submitting their response
+
+    c. Request for user's location as part of response
     
-        ii.  Enter question details and choose Answer types. You can add more questions by clicking on 'Add More Question'. You can even choose to add questions on a new page.
+### Feedback &amp; Announcement Actions
+Do relevant customizations on Response View, Immersive View and Chat view.
     
-        iii. After you are done with entering question details. Click or tap on **Next**.﻿ 
+1. After you are done, click **Submit**. Users will now be able to see the new Action's detail page. Action is in draft state.
     
-        iv.  On the next page, Tap on check boxes to select, if you would want users to find:
-    
-             1. Action introduction page (where users would find details about the Action)
-    
-             2. Summary page (where users can review their submissions before submitting their response
-    
-             3. Request for user's location as part of response
-    
-    b. For **Feedback** &amp; **Announcement** Actions﻿, do relevant customizations on Response View, Immersive View and Chat view. 
-    
-5. Once you are done, click **Submit**. Users will now be able to see the new Action's detail page. Action is in draft state.
-    
-6. You need to publish the Action. Read more [here ﻿](https://docs.microsoft.com/en-us/kaizala/actions/publish#steps-to-publish-an-action)for details on the publishing process.
+2. You need to publish the Action. Read more [here ﻿](https://docs.microsoft.com/en-us/kaizala/actions/publish#steps-to-publish-an-action)for details on the publishing process.
     
 ## Add Kaizala Action to a group
 
