@@ -45,7 +45,7 @@ A: In this case you should manually save your notes. You can also utilize the [D
   
 ### Q: Can I export my notes if I don't have files turned on for my network?
 
-A: Admins can [export all data](8c4651fa-12c2-4ced-b4ea-2200c0a630ed.md) from their networks including notes. 
+A: Admins can [export all data](../manage-security-and-complaince/export-yammer-enterprise-data.md) from their networks including notes. 
   
 ### Q: What will happen to Yammer conversations that reference a Note?
 
