@@ -16,7 +16,7 @@ description: "When users in your organization use Kaizala, consumer data is gene
 
 # Export or delete a user's organizational data in Kaizala
 
-When users in your organization use Kaizala, consumer data is generated and organizational data may be generated if the user participates in an enterprise group established by the organization. Admins can export user's organizational data from the Kaizala management portal. Kaizala users can export their private data from the Kaizala mobile app. Check out [Export or delete your data in the Kaizala mobile app](export-or-delete-your-data-in-the-mobile-app.md) for more info. 
+When users in your organization use Kaizala, consumer data is generated and organizational data may be generated if the user participates in an enterprise group established by the organization. Admins can export user's organizational data from the Kaizala management portal. Kaizala users can export their private data from the Kaizala mobile app. Check out [Export or delete your data in the Kaizala mobile app](export-or-delete-your-data.md) for more info. 
   
 ## How admins can export organizational data
 
