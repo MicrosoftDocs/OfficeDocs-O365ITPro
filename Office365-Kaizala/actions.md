@@ -3,22 +3,22 @@ title: "Kaizala Actions"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 4/24/2018
+ms.date: 8/3/2018
 ms.audience: Admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: Kaizala
 localization_priority: Normal
 search.appverid:
 - MOE150
 - MED150
 - MBS150
 ms.assetid: 1eacc59a-dd14-43e9-b6b0-3c78773d5496
-description: "Kaizala Action is a 'unit of work' that helps users get work done within a conversation context inside Kaizala. Some of these Actions like Job, Survey and Poll are shipped out-of-the-box, and provide scoped functionality. Once you publish the Actions, users can find them in the Kaizala app, and then they be used in a conversation context from the Action Palette."
+description: "Kaizala Action is a 'unit of work' that helps users get work done within a conversation context inside Kaizala. Some of these Actions like Job, Survey and Poll are shipped out-of-the-box, and provide scoped functionality. Once you publish the Actions, users can find them in the Kaizala app, and then they can be used in a conversation context from the Action Palette."
 ---
 
 # Kaizala Actions
 
-Kaizala Action is a 'unit of work' that helps users get work done within a conversation context inside Kaizala. Some of these Actions like Job, Survey and Poll are shipped out-of-the-box, and provide scoped functionality. Once you publish the Actions, users can find them in the Kaizala app, and then they be used in a conversation context from the Action Palette.
+Kaizala Action is a 'unit of work' that helps users get work done within a conversation context inside Kaizala. Some of these Actions like Job, Survey and Poll are shipped out-of-the-box, and provide scoped functionality. Once you publish the Actions, users can find them in the Kaizala app, and then they can be used in a conversation context from the Action Palette.
   
 You can design a custom Kaizala Action through the Action Designer interface within Kaizala management portal by building on the out-of-box Survey Action.
   
@@ -28,47 +28,45 @@ You can design a custom Kaizala Action through the Action Designer interface wit
     
 2. Click on one of the available templates
     
-1. New Form - Use this template to collect form data from your group members. Form is available to be filled anytime
+    a.  **New Form** - Use this template to collect form data from your group members. Form is available to be filled anytime
     
-2. New Survey - Use this template to request data from group members by creating a Survey Action with pre-filled questions. You can use this Action in the app to send this Actions at regular intervals
+    b.  **New Survey** - Use this template to request data from group members by creating a Survey Action with pre-filled questions. You can use this Action in the app to send this Actions at regular intervals
     
-3. Feedback - Use this template to collect any type of feedback from a group
+    c.  **Feedback** - Use this template to collect any type of feedback from a group
     
-4. Announcement﻿ - Use this template to make key announcements and share updates to a group
+    d.  **Announcement** - Use this template to make key announcements and share updates to a group
     
 3. Fill out the information on the page, and click or tap **Next**.
     
 |
-|
 |**Menu**|**What it's for**|
-|:-----|:-----|
 |Action Name  <br/> |This will be the name of the survey or poll that users see in their Kaizala mobile app.  <br/> |
 |Brief description  <br/> |This will be shown in Discover tab of Kaizala app to a user  <br/> |
 |Customize icon  <br/> |Choose the icon for your Kaizala Action.  <br/> |
    
-4. For a selected template, enter relevant details.
+4. For a selected template, enter relevant details described in the next section.
     
-1. For **Survey** &amp; **Form** Actions: 
-    
+### Survey &amp; Form Actions
 1. Enter card title. This title is shown on the card view of the Action, after an action has been posted
-    
+
 2. Enter question details and choose Answer types. You can add more questions by clicking on 'Add More Question'. You can even choose to add questions on a new page.
-    
-3. After you are done with entering question details. Click or tap on **Next**.﻿ 
-    
+
+3. After you are done with entering question details. Click or tap on **Next**.
+
 4. On the next page, Tap on check boxes to select, if you would want users to find:
     
-1. Action introduction page (where users would find details about the Action)
+    a.  Action introduction page (where users would find details about the Action)
+
+    b.  Summary page (where users can review their submissions before submitting their response
+
+    c.  Request for user's location as part of response
     
-2. Summary page (where users can review their submissions before submitting their response
+### Feedback &amp; Announcement Actions
+Do relevant customizations on Response View, Immersive View and Chat view.
     
-3. Request for user's location as part of response
+1. After you are done, click **Submit**. Users will now be able to see the new Action's detail page. Action is in draft state.
     
-2. For **Feedback** &amp; **Announcement** Actions﻿, do relevant customizations on Response View, Immersive View and Chat view. 
-    
-5. Once you are done, click **Submit**. Users will now be able to see the new Action's detail page. Action is in draft state.
-    
-6. You need to publish the Action. Read more [here ﻿](https://docs.microsoft.com/en-us/kaizala/actions/publish#steps-to-publish-an-action)for details on the publishing process.
+2. You need to publish the Action. Read more [here ﻿](https://docs.microsoft.com/en-us/kaizala/actions/publish#steps-to-publish-an-action)for details on the publishing process.
     
 ## Add Kaizala Action to a group
 

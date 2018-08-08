@@ -3,10 +3,10 @@ title: "Kaizala Users"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 7/17/2017
+ms.date: 7/11/2018
 ms.audience: Admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: Kaizala
 localization_priority: Normal
 search.appverid:
 - MOE150
@@ -20,7 +20,7 @@ description: "Before you can send instant messages, pictures, documents and setu
 
 Before you can send instant messages, pictures, documents and setup a new poll or survey, you'll have to create Kaizala users. You can add users individually or in bulk. For managing users in groups, check out [Kaizala groups](groups.md).
   
-## View all users in an Organization
+## View all users in an organization
 <a name="__top"> </a>
 
 On the Kaizala management portal, from the left navigation bar, choose **Users**. You'll see a list of all users that have possible access to your organization. This list contains all users who have been either been: 
@@ -51,7 +51,7 @@ Kaizala organization admins can define and manage user attributes for the organi
     
 - Once you've finalized the list of attributes, click **Save** to add the new changes to the organization's attribute list. 
     
-## Add Users in bulk to your organization
+## Add users in bulk to your organization
 <a name="__top"> </a>
 
 If you want to add several users without using the comma separated list, you can add multiple users using **Bulk upload**. 
@@ -96,7 +96,7 @@ If you want to add several users without using the comma separated list, you can
     
   - **Download** - clicking the icon downloads the original uploaded file. 
     
-## Export Users' data for your organization
+## Export users' data for your organization
 <a name="__top"> </a>
 
 - Click **Users** \> **Export Users**, and then select **Create New Request**. 
