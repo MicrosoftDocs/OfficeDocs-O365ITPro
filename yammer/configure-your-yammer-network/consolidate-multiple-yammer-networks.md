@@ -218,7 +218,7 @@ Use this communication to reinforce how you want people to use Yammer.
    
 ## See also
 
-[FAQ: Consolidating multiple Yammer networks](faq-consolidatefaq-consolidate-multiple-yammer-networks.md)
+[FAQ: Consolidating multiple Yammer networks](faq-consolidate-multiple-yammer-networks.md)
 
 [Manage Office 365 with Office 365 PowerShell](https://docs.microsoft.com/en-us/office365/enterprise/powershell/manage-office-365-with-office-365-powershell)
   
