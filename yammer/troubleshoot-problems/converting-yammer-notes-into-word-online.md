@@ -41,11 +41,11 @@ A: Yes.
   
 ### Q: What if my network doesn't have Files enabled?
 
-A: In this case you should manually save your notes. You can also utilize the [Data Export](https://support.office.com/en-us/article/monitoring-your-yammer-data-yammer-admin-guide-8c4651fa-12c2-4ced-b4ea-2200c0a630ed) or the [Data Export API](https://developer.yammer.com/docs/data-export-api) to get a full list of all notes on the network. You must complete this action by January 26th, 2018. 
+A: In this case you should manually save your notes. You can also [export all data](../manage-security-and-compliance/export-yammer-enterprise-data.md) or use the [Data Export API](https://developer.yammer.com/docs/data-export-api) to get a full list of all notes on the network. You must complete this action by January 26th, 2018. 
   
 ### Q: Can I export my notes if I don't have files turned on for my network?
 
-A: Admins can [export all data](8c4651fa-12c2-4ced-b4ea-2200c0a630ed.md) from their networks including notes. 
+A: Admins can [export all data](../manage-security-and-compliance/export-yammer-enterprise-data.md) from their networks including notes. 
   
 ### Q: What will happen to Yammer conversations that reference a Note?
 
