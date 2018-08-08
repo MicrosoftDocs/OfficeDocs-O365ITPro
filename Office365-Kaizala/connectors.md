@@ -6,7 +6,7 @@ manager: scotv
 ms.date: 6/12/2017
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: Kaizala
 localization_priority: Normal
 search.appverid:
 - MOE150

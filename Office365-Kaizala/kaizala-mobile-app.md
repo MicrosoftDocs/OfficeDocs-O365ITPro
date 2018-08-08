@@ -73,7 +73,7 @@ You can find all your recent conversations inside the **Chat** section and start
     
 ### Manage and create large groups for my organization
 
-The Kaizala management portal is a web based portal that provides management, reporting and extensibility capabilities for Kaizala. With the Kaizala management portal, your organization can quickly onboard thousands or millions of users to Kaizala, including employees, partners, vendors, or customers, with just their phone number. Learn more about the [Kaizala Management Portal](about-kaizala-management-portal.md)
+The Kaizala management portal is a web based portal that provides management, reporting and extensibility capabilities for Kaizala. With the Kaizala management portal, your organization can quickly onboard thousands or millions of users to Kaizala, including employees, partners, vendors, or customers, with just their phone number. Learn more about the [Kaizala Management Portal](kaizala-management-portal.md)
   
 ## Using Kaizala Actions
 

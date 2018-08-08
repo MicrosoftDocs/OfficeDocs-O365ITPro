@@ -5,7 +5,7 @@ author: kwekua
 ms.date: 6/7/2018
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: Kaizala
 localization_priority: Normal
 ms.assetid: d0a029fa-5ba1-400e-be9f-909befdef2f4
 description: "Kaizala is available in the following countries:"
