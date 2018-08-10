@@ -120,7 +120,7 @@ A: No. Because permissions restrict the audience to privileged members, external
   
 ### Q: Where does the data for external participants live?
 
-A: The conversation data is available to [verified admins](../get-started-with-yammer/admin-key-concepts.md#AdminPrivs) (by using data export) of any participant on the conversation. So if your employee is participating in a conversation on another network, because that conversation shows up in their inbox, it is available in your network's data export. For more information, see [Find external participants in a Yammer network](find-external-participants.md).
+A: The conversation data is available to [verified admins](../manage-yammer-users/manage-yammer-admins.md) (by using data export) of any participant on the conversation. So if your employee is participating in a conversation on another network, because that conversation shows up in their inbox, it is available in your network's data export. For more information, see [Find external participants in a Yammer network](find-external-participants.md).
   
 ### Q: When I add an external participant to a conversation do they enter my network?
 
@@ -128,7 +128,7 @@ A: No. External participants can only participate in conversations they have bee
   
 ### Q: What rights do verified admins have?
 
-A: [Verified admins](../get-started-with-yammer/admin-key-concepts.md#AdminPrivs) can remove all external participants from any conversation any time. They can also see which files and conversations are accessible to external users by using data export. For more information, see [Find external participants in a Yammer network.](find-external-participants.md)
+A: [Verified admins](../manage-yammer-users/manage-yammer-admins.md) can remove all external participants from any conversation any time. They can also see which files and conversations are accessible to external users by using data export. For more information, see [Find external participants in a Yammer network.](find-external-participants.md)
   
 ### Q: If I have keyword monitoring in place, will it apply to messages external participants post in my network?
 
