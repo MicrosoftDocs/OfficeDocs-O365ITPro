@@ -72,6 +72,25 @@ description: Manage Office 365
                                 </a>
                             </li>
                             <li>
+                                <a href="https://docs.microsoft.com/DeployOffice/deployment-guide-for-office-365-proplus">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img src="https://docs.microsoft.com/en-us/office/media/hub-tiles/Office-ManageUpdates-400x140.svg" alt="A computer with a download symbol" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Office 365 ProPlus</h3>
+                                                    <p>Find guidance about how to deploy Office 365 ProPlus from the cloud, from a local source, and with System Center Configuration Manager.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
                                 <a href="/office365/enterprise/powershell/manage-office-365-with-office-365-powershell">
                                     <div class="cardSize">
                                         <div class="cardPadding">
