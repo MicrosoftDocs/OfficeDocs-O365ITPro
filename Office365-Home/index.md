@@ -53,7 +53,7 @@ description: Manage Office 365
                                 </a>
                             </li>
                             <li>
-                                <a href="https://support.office.com/article/dcb83b2c-ac66-4ced-925d-50eb9698a0b2">
+                                <a href="/office365/SecurityCompliance/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
