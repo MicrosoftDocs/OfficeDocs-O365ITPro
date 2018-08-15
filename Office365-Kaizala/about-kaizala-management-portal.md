@@ -23,11 +23,11 @@ Microsoft Kaizala is a secure chat and messaging app that enables mobile users t
 To access the Kaizala management portal, sign in with your Azure active directory account here: [Kaizala Management Portal.](https://go.microsoft.com/fwlink/p/?linkid=852455) Once you're able to login, you'll be required to add your phone number to Kaizala. Once your phone number is authenticated, you can manage Kaizala in the management portal. 
   
 > [!IMPORTANT]
-> You can have more than one phone number added to the Azure Active Directory admin account. You can switch between these phone numbers in **Settings** to manage Kaizala groups and users respectively. . 
+> You can have more than one phone number added to the Azure Active Directory admin account. You can switch between these phone numbers in **Settings** to manage Kaizala groups and users respectively.
   
 ## Kaizala Management Portal
 
-The Kaizala management portal is a web based portal that provides management, reporting and extensibility capabilities for Kaizala. With the Kaizala management portal, your organization can quickly onboard thousands or millions of users to Kaizala, including employees, partners, vendors, or customers, with just phone number﻿. ﻿ You can create Kaizala groups and add users, and also view out-of-the-box reports for Kaizala Actions such as Jobs and Surveys. You need to have a Kaizala subscription before you can use Kaizala. First step login with your Azure Active Directory account. After successful login add your Kaizala registered phone number. Once your phone number is authenticated, you can manage Kaizala features.
+The Kaizala management portal is a web based portal that provides management, reporting and extensibility capabilities for Kaizala. With the Kaizala management portal, your organization can quickly onboard thousands or millions of users to Kaizala, including employees, partners, vendors, or customers, with just phone number. You can create Kaizala groups and add users, and also view out-of-the-box reports for Kaizala Actions such as Jobs and Surveys. You need to have a Kaizala subscription before you can use Kaizala. First step login with your Azure Active Directory account. After successful login add your Kaizala registered phone number. Once your phone number is authenticated, you can manage Kaizala features.
   
 The Kaizala management portal can be used by the following users:
   
@@ -39,8 +39,7 @@ The Kaizala management portal can be used by the following users:
     
 ![Screenshot: Kaizala management portal](media/f14b188f-e1a2-4a72-8ca1-d05fcada255a.png)
   
-|
-|
+
 |**Menu**|**What it's for**|
 |:-----|:-----|
 |[Kaizala Groups](groups.md) <br/> |Create and manage Kaizala groups.  <br/> |
