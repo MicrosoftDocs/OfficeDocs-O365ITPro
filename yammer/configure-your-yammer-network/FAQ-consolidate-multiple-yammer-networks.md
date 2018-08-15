@@ -96,7 +96,7 @@ A: We understand that some organizations might have a variety of business and le
 - Create private groups. All messages shared in private groups will only be available to the members of that group. The group admin can decide who the members of the group are. For more information, see [Create a group in Yammer](https://support.office.com/en-us/article/create-a-group-in-yammer-b407af4f-9a58-4b12-b43e-afbb1b07c889).
 
 
-- Office 365 admins can remove Yammer licenses from specific users. For example they can remove licenses from all users whose email address uses the ‘contoso.com’ domain. Yammer admins can then choose to enforce licenses in Yammer. Any user that doesn’t have a Yammer license won’t be able to access Yammer. For more information, see [Manage Yammer user licenses in Office 365](../manage-yammer-users/manage-yammer-licences-in-office-365.md).
+- Office 365 admins can remove Yammer licenses from specific users. For example they can remove licenses from all users whose email address uses the ‘contoso.com’ domain. Yammer admins can then choose to enforce licenses in Yammer. Any user that doesn’t have a Yammer license won’t be able to access Yammer. For more information, see [Manage Yammer user licenses in Office 365](../manage-yammer-users/manage-yammer-licenses-in-office-365.md).
 
 
 - Organizations can decide to define organizational boundaries by splitting their Office 365 tenant into two or more separate tenants. 
