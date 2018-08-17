@@ -5,9 +5,10 @@ author: kwekua
 ms.date: 9/28/2017
 ms.audience: ITPro
 ms.topic: article
-ms.prod: Kaizala
+ms.service: Kaizala
 localization_priority: Normal
 search.appverid:
+- MET150
 - MOE150
 - MED150
 - MBS150

@@ -6,9 +6,10 @@ manager: scotv
 ms.date: 8/3/2018
 ms.audience: Admin
 ms.topic: article
-ms.prod: Kaizala
+ms.service: Kaizala
 localization_priority: Normal
 search.appverid:
+- MET150
 - MOE150
 - MED150
 - MBS150
@@ -39,7 +40,7 @@ You can design a custom Kaizala Action through the Action Designer interface wit
 3. Fill out the information on the page, and click or tap **Next**.
     
 |
-|**Menu**|**What it's for**|
+|**Menu**|**What it's for** </br>|
 |Action Name  <br/> |This will be the name of the survey or poll that users see in their Kaizala mobile app.  <br/> |
 |Brief description  <br/> |This will be shown in Discover tab of Kaizala app to a user  <br/> |
 |Customize icon  <br/> |Choose the icon for your Kaizala Action.  <br/> |

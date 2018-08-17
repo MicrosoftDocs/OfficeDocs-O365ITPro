@@ -6,9 +6,10 @@ manager: scotv
 ms.date: 7/11/2018
 ms.audience: Admin
 ms.topic: article
-ms.prod: Kaizala
+ms.service: Kaizala
 localization_priority: Normal
 search.appverid:
+- MET150
 - MOE150
 - MED150
 - MBS150
@@ -175,8 +176,5 @@ There are 3 different user roles in Kaizala. Here are the available roles and wh
 |Publish or Unpublish Actions  <br/> |To all organization groups  <br/> |To own organization groups with admin role  <br/> |Not available  <br/> |
 |View Reports  <br/> |Reports for all organization groups  <br/> |Reports for all organization groups with direct admin privileges  <br/> |Not available  <br/> |
 |Manage groups to Organization mapping (in Settings page)  <br/> |All organization groups  <br/> |All groups with direct admin privileges  <br/> |Not available  <br/> |
-|||||
-|||||
-|||||
    
 

@@ -5,11 +5,13 @@ author: kwekua
 ms.date: 6/5/2018
 ms.audience: Admin
 ms.topic: article
-ms.prod: Kaizala
+ms.service: Kaizala
 localization_priority: Normal
 search.appverid:
+- MET150
 - MOE150
 - MED150
+- MBS150
 ms.assetid: 150ec214-a070-4e8a-8509-82f46d84bbb6
 description: "When users in your organization use Kaizala, consumer data is generated and organizational data may be generated if the user participates in an enterprise group established by the organization. Admins can export user's organizational data from the Kaizala management portal. Kaizala users can export their private data from the Kaizala mobile app. Check out Export or delete your data in the Kaizala mobile app for more info."
 ---

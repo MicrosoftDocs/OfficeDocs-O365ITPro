@@ -5,8 +5,13 @@ author: kwekua
 ms.date: 5/30/2018
 ms.audience: Consumer/IW
 ms.topic: article
-ms.prod: Kaizala
+ms.service: Kaizala
 localization_priority: Normal
+search.appverid:
+- MET150
+- MOE150
+- MED150
+- MBS150
 ms.assetid: 65f83dbc-4f10-4644-9b2d-9945c967684e
 description: "As a Kaizala user, you can export or delete your data from the Kaizala mobile app."
 ---
