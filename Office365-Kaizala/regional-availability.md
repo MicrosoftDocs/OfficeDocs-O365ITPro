@@ -5,8 +5,13 @@ author: kwekua
 ms.date: 6/7/2018
 ms.audience: ITPro
 ms.topic: article
-ms.prod: Kaizala
+ms.service: Kaizala
 localization_priority: Normal
+search.appverid:
+- MET150
+- MOE150
+- MED150
+- MBS150
 ms.assetid: d0a029fa-5ba1-400e-be9f-909befdef2f4
 description: "Kaizala is available in the following countries:"
 ---

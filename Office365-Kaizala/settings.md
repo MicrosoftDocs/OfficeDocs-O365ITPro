@@ -6,9 +6,10 @@ manager: scotv
 ms.date: 10/10/2017
 ms.audience: Admin
 ms.topic: article
-ms.prod: Kaizala
+ms.service: Kaizala
 localization_priority: Normal
 search.appverid:
+- MET150
 - MOE150
 - MED150
 - MBS150

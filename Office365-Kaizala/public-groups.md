@@ -8,6 +8,7 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 search.appverid:
+- MET150
 - MOE150
 - MED150
 - MBS150
