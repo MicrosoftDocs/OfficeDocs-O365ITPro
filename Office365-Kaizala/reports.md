@@ -7,6 +7,7 @@ ms.date: 3/8/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
+ms.custom: Kaizala
 localization_priority: Normal
 search.appverid:
 - MET150
@@ -14,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 93e22838-5c18-4181-8d12-eca6c0b4019c
-description: "The Kaizala Reports dashboard allows you to view reports and telemetry data for Kaizala actions. Global and group admins can view these reports for Organization mapped groups. Reporting isn't available for private conversations and groups. Data for all reports is displayed within 4 to 5 minutes. There is up to a 4 hour delay in reflecting reports after a group is first marked as an organizational group."
+description: "View reports and telemetry data for Kaizala actions. Global and group admins can view these reports for Organization mapped groups. Reporting isn't available for private conversations and groups. Data for all reports is displayed within 4 to 5 minutes. There is up to a 4 hour delay in reflecting reports after a group is first marked as an organizational group."
 ---
 
 # Kaizala Reports

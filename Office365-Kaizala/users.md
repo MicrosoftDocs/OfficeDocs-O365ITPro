@@ -7,6 +7,7 @@ ms.date: 7/11/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
+ms.custom: Kaizala
 localization_priority: Normal
 search.appverid:
 - MET150
@@ -14,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: ff03275f-00a0-4fa6-a1cf-1e97a8e79a0a
-description: "Before you can send instant messages, pictures, documents and setup a new poll or survey, you'll have to create Kaizala users. You can add users individually or in bulk. For managing users in groups, check out Kaizala groups."
+description: "Create Kaizala users to so they can send instant messages, pictures, documents and setup a new poll or survey."
 ---
 
 # Kaizala Users

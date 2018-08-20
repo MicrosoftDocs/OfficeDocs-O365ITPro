@@ -5,7 +5,8 @@ author: kwekua
 ms.date: 8/8/2017
 ms.audience: Admin
 ms.topic: article
-ms.service: o365-administration
+ms.service: Kaizala
+ms.custom: Kaizala
 localization_priority: Normal
 search.appverid:
 - MET150

@@ -6,6 +6,7 @@ ms.date: 5/30/2018
 ms.audience: Consumer/IW
 ms.topic: article
 ms.service: Kaizala
+ms.custom: Kaizala
 localization_priority: Normal
 search.appverid:
 - MET150

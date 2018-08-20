@@ -6,6 +6,7 @@ ms.date: 6/7/2018
 ms.audience: ITPro
 ms.topic: article
 ms.service: Kaizala
+ms.custom: Kaizala
 localization_priority: Normal
 search.appverid:
 - MET150
