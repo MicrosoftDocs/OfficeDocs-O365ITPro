@@ -48,7 +48,6 @@ The Kaizala management portal can be used by the following users:
 |
 |
 |**Menu**|**What it's for**|
-|:-----|:-----|
 |[Kaizala Groups](groups.md) <br/> |Create and manage Kaizala groups.  <br/> |
 |[Kaizala Users](users.md) <br/> |Add and manage Kaizala users.  <br/> |
 |[Organization Groups](settings.md) <br/> |Connect Kaizala groups to your organization to view reports and manage resources.  <br/> |
