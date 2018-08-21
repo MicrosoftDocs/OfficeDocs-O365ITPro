@@ -7,6 +7,7 @@ ms.date: 10/10/2017
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
+ms.custom: Kaizala
 localization_priority: Normal
 search.appverid:
 - MET150
@@ -14,12 +15,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 8a223b8e-995e-4788-8935-05100486d765
-description: "The Kaizala Settings page lets you map your Kaizala registered phone numbers to logged in office 365 account for which you would like to manage Groups, Actions, Connectors, View reports and do more."
+description: "The Kaizala Settings page lets you map your Kaizala registered phone numbers to logged in the Office 365 account for which you would like to manage Groups, Actions, Connectors, View reports and do more."
 ---
 
 # Kaizala Settings
 
-The Kaizala Settings page lets you map your Kaizala registered phone numbers to logged in office 365 account for which you would like to manage Groups, Actions, Connectors, View reports and do more.
+The Kaizala Settings page lets you map your Kaizala registered phone numbers to logged in the Office 365 account for which you would like to manage Groups, Actions, Connectors, View reports and do more.
   
 ## Add phone number
 

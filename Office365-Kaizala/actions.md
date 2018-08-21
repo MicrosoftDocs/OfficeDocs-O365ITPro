@@ -7,6 +7,7 @@ ms.date: 8/3/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
+ms.custom: Kaizala
 localization_priority: Normal
 search.appverid:
 - MET150
@@ -38,9 +39,10 @@ You can design a custom Kaizala Action through the Action Designer interface wit
     d.  **Announcement** - Use this template to make key announcements and share updates to a group
     
 3. Fill out the information on the page, and click or tap **Next**.
-    
-|
-|**Menu**|**What it's for** </br>|
+
+|||
+|:-----|:-----|    
+|**Menu** </br> |**What it's for** </br> |
 |Action Name  <br/> |This will be the name of the survey or poll that users see in their Kaizala mobile app.  <br/> |
 |Brief description  <br/> |This will be shown in Discover tab of Kaizala app to a user  <br/> |
 |Customize icon  <br/> |Choose the icon for your Kaizala Action.  <br/> |

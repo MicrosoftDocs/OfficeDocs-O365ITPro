@@ -7,6 +7,7 @@ ms.date: 9/15/2017
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
+ms.custom: Kaizala
 localization_priority: Normal
 search.appverid:
 - MET150

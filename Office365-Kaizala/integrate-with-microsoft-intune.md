@@ -7,6 +7,7 @@ ms.date: 8/2/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
+ms.custom: Kaizala
 localization_priority: Normal
 search.appverid:
 - MET150
@@ -14,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: d6215c0e-6c52-440f-9ae1-324f1a452182
-description: "Microsoft Intune has now been integrated into Kaizala. You can now protect your organization's Kaizala data using Intune. With Intune, you can:"
+description: "Protect your organization's Kaizala data using Intune."
 ---
 
 # Kaizala integration with Microsoft Intune
