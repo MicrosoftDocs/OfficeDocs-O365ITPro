@@ -15,7 +15,7 @@ description: Manage Office 365
                         <a href="#home-all"></a>
                         <ul id="home-all" class="cardsC">
                             <li>
-                                <a href="/office365/enterprise/cloud-adoption-and-hybrid-solutions">
+                                <a href="/office365/enterprise/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
