@@ -1,8 +1,8 @@
 ---
 title: "Kaizala regional availability"
-ms.author: kwekua
-author: kwekua
-ms.date: 6/7/2018
+ms.author: chucked
+author: chuckedmonson
+ms.date: 8/21/2018
 ms.audience: ITPro
 ms.topic: article
 ms.service: Kaizala
@@ -14,7 +14,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: d0a029fa-5ba1-400e-be9f-909befdef2f4
-description: "Kaizala is available in the following countries:"
+description: "Kaizala is available in the following countries."
 ---
 
 # Kaizala regional availability
@@ -22,14 +22,60 @@ description: "Kaizala is available in the following countries:"
 Kaizala is available in the following countries:
   
 1. India
-    
+ 
 2. Brazil
-    
+
 3. Kenya
-    
+
 4. Philippines
-    
+
 5. Bangladesh
+
+6. Mexico 
+
+7. Columbia
+
+8. Argentina 
+
+9. Chile
+
+10. South Africa 
+
+11. Nigeria 
+
+12. Egypt 
+
+13. Tanzania
+
+14. Uganda
+
+15. Ethiopia
+
+16. Rwanda
+
+17. Turkey
+
+18. Jordan
+
+19. Lebanon
+
+20. Saudi Arabia
+
+21. Israel
+
+22. Morocco
+
+23. Indonesia
+
+24. Singapore
+
+25. Malaysia
+
+26. Vietnam
+
+27. Thailand
+
+28. Cambodia
     
 ## Kaizala Preview
 
