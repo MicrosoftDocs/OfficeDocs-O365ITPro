@@ -6,11 +6,14 @@ manager: scotv
 ms.date: 2/13/2018
 ms.audience: Admin
 ms.topic: article
-ms.prod: Kaizala
+ms.service: Kaizala
+ms.custom: Kaizala
 localization_priority: Normal
 search.appverid:
+- MET150
 - MOE150
 - MED150
+- MBS150
 ms.assetid: c8f9ab98-e840-4fd9-9afd-415474db8fd9
 description: "Use the Kaizala content pack within Power Bi to gain insights on how your organization is using Kaizala. You can visualize and analyze Kaizala usage data, create custom reports and share the insights within your organization. Once the content pack is published, it'll be available through AppSource, and then imported through Power BI."
 ---

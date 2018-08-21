@@ -6,10 +6,16 @@ manager: scotv
 ms.date: 6/18/2018
 ms.audience: Consumer/IW
 ms.topic: article
-ms.prod: Kaizala
+ms.service: Kaizalams
+ms.custom: Kaizala
 localization_priority: Normal
+search.appverid:
+- MET150
+- MOE150
+- MED150
+- MBS150
 ms.assetid: cd0fa9fc-e4af-4c6e-a9a2-b6a4ad34d1fa
-description: "The Kaizala web app (preview) will allow you to access Kaizala from a browser window on your computer or mobile device. Before you can use the Kaizala web-app you need to have logged in to the Kaizala app on your mobile device. All the messages and actions you send from the Kaizala web app will go through the Kaizala app to your groups and contacts. The preview Web app is only available on Android devices."
+description: "The Kaizala web app (preview) allows you to access Kaizala from a browser window on your computer or mobile device. Before you can use the Kaizala web-app log in to the Kaizala app on your mobile device. All the messages and actions you send from the Kaizala web app will go through the Kaizala app to your groups and contacts. The preview Web app is only available on Android devices."
 ---
 
 # Use the Kaizala web app

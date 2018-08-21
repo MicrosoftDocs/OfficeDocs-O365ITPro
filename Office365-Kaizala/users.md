@@ -6,14 +6,16 @@ manager: scotv
 ms.date: 7/11/2018
 ms.audience: Admin
 ms.topic: article
-ms.prod: Kaizala
+ms.service: Kaizala
+ms.custom: Kaizala
 localization_priority: Normal
 search.appverid:
+- MET150
 - MOE150
 - MED150
 - MBS150
 ms.assetid: ff03275f-00a0-4fa6-a1cf-1e97a8e79a0a
-description: "Before you can send instant messages, pictures, documents and setup a new poll or survey, you'll have to create Kaizala users. You can add users individually or in bulk. For managing users in groups, check out Kaizala groups."
+description: "Create Kaizala users to so they can send instant messages, pictures, documents and setup a new poll or survey."
 ---
 
 # Kaizala Users
@@ -175,8 +177,5 @@ There are 3 different user roles in Kaizala. Here are the available roles and wh
 |Publish or Unpublish Actions  <br/> |To all organization groups  <br/> |To own organization groups with admin role  <br/> |Not available  <br/> |
 |View Reports  <br/> |Reports for all organization groups  <br/> |Reports for all organization groups with direct admin privileges  <br/> |Not available  <br/> |
 |Manage groups to Organization mapping (in Settings page)  <br/> |All organization groups  <br/> |All groups with direct admin privileges  <br/> |Not available  <br/> |
-|||||
-|||||
-|||||
    
 

@@ -6,7 +6,8 @@ manager: scotv
 ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
-ms.prod: Kaizala
+ms.service: Kaizala
+ms.custom: Kaizala
 localization_priority: Normal
 search.appverid:
 - MET150
@@ -14,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: f4a25f68-5699-47c1-a2e7-3a67fdc50258
-description: "Using the Kaizala mobile app, you can now quickly send or receive money. With the Bharat Interface for Money Unified Payment Interface (BHIM UPI), you no longer need the recipient's account information or IFS code. BHIM UPI allows you to make direct bank to bank money transactions by simply using the mobile number or a BHIM UPI ID (also known as Virtual Payment Address or VPA). Your BHIM UPI ID is your unique identifier on the BHIM UPI system. For example, your BHIM UPI ID on Kaizala will look like this: yourusername@contosobank. You can then share your BHIM UPI ID with anyone, and they can quickly transfer money to you. With a BHIM UPI ID, you don't need to share your phone number, bank account number of IFS code. You can also share your BHIM UPI ID with any merchant sites you shop on and they will send a make payment request to you."
+description: "Using the Kaizala mobile app, send or receive money."
 ---
 
 # Make payments through the Kaizala app
