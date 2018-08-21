@@ -1,0 +1,53 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.gif",
+          "**/*.svg",
+          "**/*.pdf"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "breadcrumb_path": "/Office365/Kaizala/breadcrumb/toc.json",
+      "extendBreadcrumb": true,
+      "searchScope": ["Office 365 Kaizala"],
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/OfficeDocs-O365ITPro",
+      "feedback_product_url": "https://kaizala.uservoice.com/" 
+    },
+    "fileMetadata": {},
+    "template": [],
+    "dest": "OfficeDocs-O365Kaizala",
+    "markdownEngineName": "markdig"
+  }
+}
