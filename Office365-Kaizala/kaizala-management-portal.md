@@ -1,8 +1,8 @@
 ---
-title: "Kaizala Management Portal"
-ms.author: kwekua
-author: kwekua
-manager: scotv
+title: Kaizala Management Portal
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
 ms.date: 7/11/2018
 ms.audience: ITPro
 ms.topic: article
@@ -15,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 2046ddba-06fb-49c9-b6d6-a4777e8a556f
-description: "Kaizala is a secure chat and messaging app that enables mobile users to send instant messages, Kaizala Actions, attachments such as pictures, documents, videos, audios and more."
+description: Learn how to send secure instant messages, Kaizala Actions, attachments such as pictures, documents, videos, audios and more.
 ---
 
 # Kaizala Management Portal

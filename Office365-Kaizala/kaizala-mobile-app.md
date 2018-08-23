@@ -1,7 +1,8 @@
 ---
-title: "About the Kaizala mobile app"
-ms.author: kwekua
-author: kwekua
+title: About the Kaizala mobile app
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
 ms.date: 9/28/2017
 ms.audience: ITPro
 ms.topic: article
@@ -14,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 122fdf32-9f15-465d-a905-6fae72d38b42
-description: "Kaizala is a secure chat and messaging app that enables mobile users to send instant messages, Kaizala Actions, attachments such as pictures, documents, videos, audios and more."
+description: Learn how to send secure instant messages, Kaizala Actions, attachments such as pictures, documents, videos, audios and more.
 ---
 
 # About the Kaizala mobile app

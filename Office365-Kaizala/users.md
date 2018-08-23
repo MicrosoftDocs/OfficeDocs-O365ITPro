@@ -1,8 +1,8 @@
 ---
-title: "Kaizala Users"
-ms.author: kwekua
-author: kwekua
-manager: scotv
+title: Kaizala users
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
 ms.date: 7/11/2018
 ms.audience: Admin
 ms.topic: article
@@ -15,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: ff03275f-00a0-4fa6-a1cf-1e97a8e79a0a
-description: "Create Kaizala users to so they can send instant messages, pictures, documents and setup a new poll or survey."
+description: Learn how to create Kaizala users so they can send instant messages, pictures, documents and setup a new poll or survey.
 ---
 
 # Kaizala Users

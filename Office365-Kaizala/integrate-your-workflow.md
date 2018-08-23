@@ -1,8 +1,8 @@
 ---
-title: "Integrate your workflow in Kaizala using Microsoft Flow"
-ms.author: kwekua
-author: kwekua
-manager: scotv
+title: Integrate your workflow in Kaizala using Microsoft Flow
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
 ms.date: 9/15/2017
 ms.audience: Admin
 ms.topic: article
@@ -15,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 883343d0-6b16-4725-a23d-bc69fb264356
-description: "Kaizala is available as a Connector on Microsoft Flow. Use Flow to automate workflow and improve productivity by allowing Kaizala to integrate with other services."
+description: Learn how to use Microsoft Flow to automate workflow and improve productivity by allowing Kaizala to integrate with other services.
 ---
 
 # Integrate your workflow in Kaizala using Microsoft Flow
