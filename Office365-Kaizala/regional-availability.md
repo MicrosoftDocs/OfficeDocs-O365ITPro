@@ -15,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: d0a029fa-5ba1-400e-be9f-909befdef2f4
-description: Learn which regional areas Kaizala is available.
+description: Learn which regional areas Kaizala is now available.
 ---
 
 # Kaizala regional availability

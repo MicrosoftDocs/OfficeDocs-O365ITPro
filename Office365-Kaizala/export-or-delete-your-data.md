@@ -3,7 +3,7 @@ title: Export or delete your data in the Kaizala mobile app
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 5/30/2018
+ms.date: 8/21/2018
 ms.audience: Consumer/IW
 ms.topic: article
 ms.service: Kaizala

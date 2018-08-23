@@ -3,7 +3,7 @@ title: Kaizala settings
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 10/10/2017
+ms.date: 8/21/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -18,7 +18,7 @@ ms.assetid: 8a223b8e-995e-4788-8935-05100486d765
 description: Use the Kaizala Settings page to map your Kaizala registered phone numbers in the Office 365 account.
 ---
 
-# Kaizala Settings
+# Kaizala settings
 
 The **Kaizala Settings** page lets you map your Kaizala registered phone numbers to logged in the Office 365 account for which you would like to manage Groups, Actions, Connectors, View reports and do more.
   

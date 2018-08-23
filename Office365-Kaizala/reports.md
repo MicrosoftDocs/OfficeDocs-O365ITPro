@@ -1,9 +1,9 @@
 ---
-title: Kaizala Reports
+title: Kaizala reports
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 3/8/2018
+ms.date: 8/21/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -18,11 +18,11 @@ ms.assetid: 93e22838-5c18-4181-8d12-eca6c0b4019c
 description: Learn how to view reports and telemetry data for Kaizala actions.
 ---
 
-# Kaizala Reports
+# Kaizala reports
 
-The Kaizala Reports dashboard allows you to view reports and telemetry data for Kaizala actions. Global and group admins can view these reports for Organization mapped groups. Reporting isn't available for private conversations and groups.
+The **Kaizala Reports** dashboard allows you to view reports and telemetry data for Kaizala actions. Global and group admins can view these reports for Organization mapped groups. Reporting isn't available for private conversations and groups.
   
-Data for all reports is displayed within 4 to 5 minutes. There is up to a 4 hour delay in reflecting reports after a group is first marked as an organizational group. 
+Data for all reports is displayed within 4 to 5 minutes. There is up to a 4-hour delay in reflecting reports after a group is first marked as an organizational group. 
   
 ![Dashboard](media/a4dc7619-40f0-4886-bf66-b59669d72251.jpg)
   

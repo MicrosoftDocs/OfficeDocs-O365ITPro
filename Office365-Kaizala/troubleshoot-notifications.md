@@ -2,7 +2,8 @@
 title: Troubleshoot Kaizala notifications
 ms.author: chucked
 author: chuckedmonson
-ms.date: 11/27/2017
+manager: serdars
+ms.date: 8/21/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala

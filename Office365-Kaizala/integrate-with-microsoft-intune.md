@@ -3,7 +3,7 @@ title: Kaizala integration with Microsoft Intune
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 8/2/2018
+ms.date: 8/21/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -15,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: d6215c0e-6c52-440f-9ae1-324f1a452182
-description: Learn how to protect your organization's Kaizala data by using Intune.
+description: Learn how to protect your organization's Kaizala data by using Microsoft Intune.
 ---
 
 # Kaizala integration with Microsoft Intune

@@ -1,9 +1,9 @@
 ---
-title: "Kaizala app age verification"
+title: Kaizala app age verification
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 4/26/2018
+ms.date: 8/21/2018
 ms.audience: Consumer/IW
 ms.topic: article
 ms.service: Kaizala
@@ -15,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 5d5ffe24-22f2-4136-afcd-6b351fc14fb5
-description: "You must be at least 16 years old to use the Kaizala app in your country without parental consent. You have to sign in with your birthdate to use this app."
+description: Learn about the Kaizala app age restriction and verification.
 ---
 
 # Kaizala app age verification

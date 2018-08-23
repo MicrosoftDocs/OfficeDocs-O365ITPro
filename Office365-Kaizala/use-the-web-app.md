@@ -3,7 +3,7 @@ title: Use the Kaizala web app
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 6/18/2018
+ms.date: 8/21/2018
 ms.audience: Consumer/IW
 ms.topic: article
 ms.service: Kaizalams
