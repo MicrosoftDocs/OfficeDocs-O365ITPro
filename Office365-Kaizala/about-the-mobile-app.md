@@ -1,7 +1,8 @@
 ---
 title: "About the Kaizala mobile app"
-ms.author: kwekua
-author: kwekua
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
 ms.date: 9/28/2017
 ms.audience: ITPro
 ms.topic: article

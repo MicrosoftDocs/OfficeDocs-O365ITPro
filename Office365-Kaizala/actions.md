@@ -1,8 +1,8 @@
 ---
 title: "Kaizala Actions"
-ms.author: kwekua
-author: kwekua
-manager: scotv
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
 ms.date: 8/3/2018
 ms.audience: Admin
 ms.topic: article
