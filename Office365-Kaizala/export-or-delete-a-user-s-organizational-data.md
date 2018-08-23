@@ -1,7 +1,8 @@
 ---
-title: "Export or delete a user's organizational data in Kaizala"
-ms.author: kwekua
-author: kwekua
+title: Export or delete a user's organizational data in Kaizala
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
 ms.date: 6/5/2018
 ms.audience: Admin
 ms.topic: article
@@ -14,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 150ec214-a070-4e8a-8509-82f46d84bbb6
-description: "When users in your organization use Kaizala, consumer data is generated and organizational data may be generated if the user participates in an enterprise group established by the organization. Admins can export user's organizational data from the Kaizala management portal. Kaizala users can export their private data from the Kaizala mobile app. Check out Export or delete your data in the Kaizala mobile app for more info."
+description: When users in your organization use Kaizala, consumer data is generated and organizational data may be generated if the user participates in an enterprise group established by the organization. Admins can export user's organizational data from the Kaizala management portal. Kaizala users can export their private data from the Kaizala mobile app. Check out Export or delete your data in the Kaizala mobile app for more info.
 ---
 
 # Export or delete a user's organizational data in Kaizala

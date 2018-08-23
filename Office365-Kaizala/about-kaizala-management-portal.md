@@ -1,8 +1,8 @@
 ---
 title: "About Kaizala Management Portal"
-ms.author: kwekua
-author: kwekua
-manager: scotv
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
 ms.date: 12/1/2017
 ms.audience: ITPro
 ms.topic: article

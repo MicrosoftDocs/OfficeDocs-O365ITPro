@@ -1,7 +1,8 @@
 ---
-title: "Export or delete your data in the Kaizala mobile app"
-ms.author: kwekua
-author: kwekua
+title: Export or delete your data in the Kaizala mobile app
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
 ms.date: 5/30/2018
 ms.audience: Consumer/IW
 ms.topic: article
@@ -14,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 65f83dbc-4f10-4644-9b2d-9945c967684e
-description: "As a Kaizala user, you can export or delete your data from the Kaizala mobile app."
+description: Learn how to export or delete your data from the Kaizala mobile app.
 ---
 
 # Export or delete your data in the Kaizala mobile app

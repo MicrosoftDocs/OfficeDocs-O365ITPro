@@ -1,8 +1,8 @@
 ---
-title: "Kaizala Groups"
-ms.author: kwekua
-author: kwekua
-manager: scotv
+title: Kaizala Groups
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
 ms.date: 1/9/2018
 ms.audience: Admin
 ms.topic: article
@@ -15,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 858bead0-f99b-4215-83c6-b8812bbe3edd
-description: "With Microsoft Kaizala, you can send instant messages, pictures, documents to other Kaizala users. You can also create Kaizala Actions, like polls and surveys and send to an individual user or a group. You can create Kaizala groups and add users to the groups individually or in bulk. The groups may be created either from the mobile app or through the Kaizala management portal. Bulk creation and management capability are only available through the Kaizala management portal."
+description: Learn how to send instant messages, pictures, and documents to groups of Kaizala users.
 ---
 
 # Kaizala Groups

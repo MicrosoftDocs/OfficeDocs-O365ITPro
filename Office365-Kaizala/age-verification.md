@@ -1,7 +1,8 @@
 ---
 title: "Kaizala app age verification"
-ms.author: kwekua
-author: kwekua
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
 ms.date: 4/26/2018
 ms.audience: Consumer/IW
 ms.topic: article
