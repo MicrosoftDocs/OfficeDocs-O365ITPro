@@ -26,22 +26,22 @@ Microsoft Kaizala is a secure chat and messaging app that enables mobile users t
   
 ## Access the Kaizala management portal
 
-To access the Kaizala management portal, sign in with your Azure active directory account here: [Kaizala Management Portal.](https://go.microsoft.com/fwlink/p/?linkid=852455) Once you're able to login, you'll be required to add your phone number to Kaizala. Once your phone number is authenticated, you can manage Kaizala in the management portal. 
+To access the Kaizala management portal, sign in with your Azure active directory account here: [Kaizala Management Portal](https://go.microsoft.com/fwlink/p/?linkid=852455). Once you're able to login, you'll be required to add your phone number to Kaizala. Once your phone number is authenticated, you can manage Kaizala in the management portal. 
   
 > [!IMPORTANT]
-> You can have more than one phone number added to the Azure Active Directory admin account. You can switch between these phone numbers in **Settings** to manage Kaizala groups and users respectively. . 
+> You can have more than one phone number added to the Azure Active Directory admin account. You can switch between these phone numbers in **Settings** to manage Kaizala groups and users respectively.
   
 ## Kaizala management portal
 
-The Kaizala management portal is a web based portal that provides management, reporting and extensibility capabilities for Kaizala. With the Kaizala management portal, your organization can quickly onboard thousands or millions of users to Kaizala, including employees, partners, vendors, or customers, with just phone number﻿. ﻿ You can create Kaizala groups and add users, and also view out-of-the-box reports for Kaizala Actions such as Jobs and Surveys. You need to have a Kaizala subscription before you can use Kaizala. First step login with your Azure Active Directory account. After successful login add your Kaizala registered phone number. Once your phone number is authenticated, you can manage Kaizala features.
+The Kaizala management portal is a web based portal that provides management, reporting and extensibility capabilities for Kaizala. With the Kaizala management portal, your organization can quickly onboard thousands or millions of users to Kaizala, including employees, partners, vendors, or customers, with just phone number. You can create Kaizala groups and add users, and also view out-of-the-box reports for Kaizala Actions such as Jobs and Surveys. You need to have a Kaizala subscription before you can use Kaizala. First step login with your Azure Active Directory account. After successful login add your Kaizala registered phone number. Once your phone number is authenticated, you can manage Kaizala features.
   
 The Kaizala management portal can be used by the following users:
   
-- **IT administrators** Use the portal to set up groups and manage users within these groups in a secure and compliant manner. For example, an administrator can add or remove users from a specific group, or remove a user from all organization groups, so that when an employee leaves, the person doesn't remain a member of organization groups, and doesn't have access to organization data. 
+- **IT administrators**  Use the portal to set up groups and manage users within these groups in a secure and compliant manner. For example, an administrator can add or remove users from a specific group, or remove a user from all organization groups, so that when an employee leaves, the person doesn't remain a member of organization groups, and doesn't have access to organization data. 
     
-- **Developers** Use the portal to either create a new Kaizala Action, or customize a Kaizala Action. Developers can also add a new Connector to integrate their internal or external systems with Kaizala. 
+- **Developers**  Use the portal to either create a new Kaizala Action, or customize a Kaizala Action. Developers can also add a new Connector to integrate their internal or external systems with Kaizala. 
     
-- **Business User** Can view built-in reports, with real-time data updates, for Kaizala Actions shared in organization groups. 
+- **Business User**  Can view built-in reports, with real-time data updates, for Kaizala Actions shared in organization groups. 
     
 ![Screenshot: Kaizala management portal](media/f14b188f-e1a2-4a72-8ca1-d05fcada255a.png)
   
