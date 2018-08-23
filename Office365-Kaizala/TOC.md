@@ -1,9 +1,9 @@
 
   
 
-# [Kaizala Management Portal](kaizala-management-portal.md)
+# [Kaizala management portal](kaizala-management-portal.md)
 ## [Groups](groups.md)
-## [Public Groups](public-groups.md)
+## [Public groups](public-groups.md)
 ## [Users](users.md)
 ## [Settings](settings.md)
 ## [Reports](reports.md)

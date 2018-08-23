@@ -1,9 +1,9 @@
 ---
-title: "Kaizala Users"
-ms.author: kwekua
-author: kwekua
-manager: scotv
-ms.date: 7/11/2018
+title: Kaizala users
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
+ms.date: 8/21/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -15,17 +15,17 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: ff03275f-00a0-4fa6-a1cf-1e97a8e79a0a
-description: "Create Kaizala users to so they can send instant messages, pictures, documents and setup a new poll or survey."
+description: Learn how to create Kaizala users so they can send instant messages, pictures, documents and setup a new poll or survey.
 ---
 
-# Kaizala Users
+# Kaizala users
 
 Before you can send instant messages, pictures, documents and setup a new poll or survey, you'll have to create Kaizala users. You can add users individually or in bulk. For managing users in groups, check out [Kaizala groups](groups.md).
   
 ## View all users in an organization
 <a name="__top"> </a>
 
-On the Kaizala management portal, from the left navigation bar, choose **Users**. You'll see a list of all users that have possible access to your organization. This list contains all users who have been either been: 
+On the Kaizala management portal, from the left navigation pane, choose **Users**. You'll see a list of all users that have possible access to your organization. This list contains all users who have been either been: 
   
 - uploaded directly through the **Upload User** process or by being a member of any organization groups mapped to your organization. 
     
@@ -37,7 +37,7 @@ Kaizala organization admins can define and manage user attributes for the organi
   
 ### Set up attributes for all users in the organization
 
-- Click or tap **Users** \> **More** and then select **Change Attributes** from the drop-down. 
+- Click or tap **Users** \> **More**, and then select **Change Attributes** from the drop-down menu. 
     
 - To add a new attribute, click on **Add New** and then select from a range of pre-defined suggested attributes or add a new attribute. 
     
@@ -132,7 +132,7 @@ If you want to add several users without using the comma separated list, you can
     
   - **Download** - Clicking the icon downloads the requested export file. 
     
-## Find a detailed view of user's profile in the Organization
+## Find a detailed view of user's profile in the organization
 <a name="__top"> </a>
 
 To find a detailed view of a user's profile:

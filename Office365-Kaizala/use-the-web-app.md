@@ -1,9 +1,9 @@
 ---
-title: "Use the Kaizala web app"
-ms.author: kwekua
-author: kwekua
-manager: scotv
-ms.date: 6/18/2018
+title: Use the Kaizala web app
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
+ms.date: 8/21/2018
 ms.audience: Consumer/IW
 ms.topic: article
 ms.service: Kaizalams
@@ -15,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: cd0fa9fc-e4af-4c6e-a9a2-b6a4ad34d1fa
-description: "The Kaizala web app (preview) allows you to access Kaizala from a browser window on your computer or mobile device. Before you can use the Kaizala web-app log in to the Kaizala app on your mobile device. All the messages and actions you send from the Kaizala web app will go through the Kaizala app to your groups and contacts. The preview Web app is only available on Android devices."
+description: Learn how to use the Kaizala web app to access Kaizala from a browser window on your computer or mobile device.
 ---
 
 # Use the Kaizala web app

@@ -1,7 +1,8 @@
 ---
-title: "Kaizala regional availability"
+title: Kaizala regional availability
 ms.author: chucked
 author: chuckedmonson
+manager: serdars
 ms.date: 8/21/2018
 ms.audience: ITPro
 ms.topic: article
@@ -14,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: d0a029fa-5ba1-400e-be9f-909befdef2f4
-description: "Kaizala is available in the following countries."
+description: Learn which regional areas Kaizala is now available.
 ---
 
 # Kaizala regional availability

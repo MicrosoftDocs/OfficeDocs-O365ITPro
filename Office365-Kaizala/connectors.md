@@ -1,9 +1,9 @@
 ---
-title: "Kaizala Connectors"
-ms.author: kwekua
-author: kwekua
-manager: scotv
-ms.date: 6/12/2017
+title: Kaizala connectors
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
+ms.date: 8/21/2018
 ms.audience: ITPro
 ms.topic: article
 ms.service: Kaizala
@@ -15,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 223791c8-718d-4669-8c5e-a76804ae1ddd
-description: "Kaizala Connector allows developers to integrate an organization's systems and processes with Kaizala using REST based APIs. For example, you can:"
+description: Learn how to use Kaizala connectors to integrate your organization's systems and processes with Kaizala using REST based APIs.
 ---
 
 # Kaizala Connectors

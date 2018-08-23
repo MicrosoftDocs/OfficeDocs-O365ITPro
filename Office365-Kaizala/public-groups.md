@@ -1,8 +1,9 @@
 ---
-title: "Kaizala Public Groups"
-ms.author: kwekua
-author: kwekua
-ms.date: 8/8/2017
+title: Kaizala public groups
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
+ms.date: 8/21/2017
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -14,18 +15,16 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 9bfde61a-6f8f-4aa8-aead-4ba0c10ed636
-description: "Kaizala public groups allow enterprises to expose a single channel on Kaizala where they can connect privately with a large set of Kaizala subscribers to:"
+description: Learn how to use Kaizala public groups to expose a single channel on Kaizala where users can connect privately with a large set of Kaizala subscribers.
 ---
 
-# Kaizala Public Groups
+# Kaizala public groups
 
-Kaizala public groups allow enterprises to expose a single channel on Kaizala where they can connect privately with a large set of Kaizala subscribers to:
-  
-- share and receive information and provide updates
+Kaizala public groups allow enterprises to expose a single channel on Kaizala where they can connect privately with a large set of Kaizala subscribers to share and receive information and provide updates.
     
 ## Create a public group
 
-- On the Kaizala management portal, from the left navigation bar, choose **Public Groups**, and then **Create new**, enter group picture and info, and click or tap **Create**.
+- On the Kaizala management portal, from the left navigation pane, choose **Public Groups**, and then **Create new**, enter group picture and info, and click or tap **Create**.
     
     ![Screenshot: create a public group page](media/aa7bc493-9039-4d62-8d25-625ac02dd509.png)
   

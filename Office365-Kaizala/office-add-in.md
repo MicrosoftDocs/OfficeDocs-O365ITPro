@@ -1,8 +1,9 @@
 ---
-title: "Kaizala Office Add-in"
-ms.author: kwekua
-author: kwekua
-ms.date: 12/29/2017
+title: Kaizala Office add-in
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
+ms.date: 8/21/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -14,10 +15,10 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 4cd01439-5da2-4a9f-b493-8f2e23e2fd91
-description: "The Kaizala Office add-in allows you to collect user data from your employees through Kaizala mobile app. Using the Kaizala Office add-in, you can share a table to pre-existing groups linked with your Kaizala account. The table is published as a survey on the Kaizala mobile app as survey questions. For each survey response submitted by a Kaizala app user, a row is added to the selected table in Excel."
+description: Learn how to use the Kaizala Office add-in to collect user data from your employees through Kaizala mobile app.
 ---
 
-# Kaizala Office Add-in
+# Kaizala Office add-in
 
 The Kaizala Office add-in allows you to collect user data from your employees through Kaizala mobile app. Using the Kaizala Office add-in, you can share a table to pre-existing groups linked with your Kaizala account. The table is published as a survey on the Kaizala mobile app as survey questions. For each survey response submitted by a Kaizala app user, a row is added to the selected table in Excel.
   

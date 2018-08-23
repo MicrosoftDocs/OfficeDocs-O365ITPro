@@ -1,9 +1,9 @@
 ---
-title: "Kaizala Groups"
-ms.author: kwekua
-author: kwekua
-manager: scotv
-ms.date: 1/9/2018
+title: Kaizala groups
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
+ms.date: 8/21/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -15,26 +15,26 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 858bead0-f99b-4215-83c6-b8812bbe3edd
-description: "With Microsoft Kaizala, you can send instant messages, pictures, documents to other Kaizala users. You can also create Kaizala Actions, like polls and surveys and send to an individual user or a group. You can create Kaizala groups and add users to the groups individually or in bulk. The groups may be created either from the mobile app or through the Kaizala management portal. Bulk creation and management capability are only available through the Kaizala management portal."
+description: Learn how to send instant messages, pictures, and documents to groups of Kaizala users.
 ---
 
-# Kaizala Groups
+# Kaizala groups
 
 With Microsoft Kaizala, you can send instant messages, pictures, documents to other Kaizala users. You can also create Kaizala Actions, like polls and surveys and send to an individual user or a group. You can create Kaizala groups and add users to the groups individually or in bulk. The groups may be created either from the mobile app or through the Kaizala management portal. Bulk creation and management capability are only available through the Kaizala management portal.
   
 Check out [Kaizala users](users.md) for information about adding users to Kaizala Groups. 
   
-## Kaizala Groups
+## Kaizala groups
 
 There are two type of Kaizala groups:
   
 ![Screenshot: Kaizala organization groups view](media/c05e9bd2-05cb-4178-a44a-053e01db36bc.png)
   
-- **Kaizala Organization Groups** These groups belong to your organization and are created in the Kaizala management portal. If these Kaizala groups were created through the mobile app, the group admins can link them to the organization through **Settings** page or from the private groups tab. Kaizala group admins can manage the groups that they are admins of. Office 365 global admins will have access and ability to manage all organization groups, even if they aren't a member or admin of the Kaizala group. 
+- **Kaizala organization groups** These groups belong to your organization and are created in the Kaizala management portal. If these Kaizala groups were created through the mobile app, the group admins can link them to the organization through **Settings** page or from the private groups tab. Kaizala group admins can manage the groups that they are admins of. Office 365 global admins will have access and ability to manage all organization groups, even if they aren't a member or admin of the Kaizala group. 
     
-- **Kaizala Private Groups** These are groups that aren't linked to any organization and are created on the mobile app. Kaizala private groups can't be managed in the Kaizala management portal. Only Kaizala group members and Kaizala group admins can view or manage private groups. To be able to manage these groups, the Kaizala group admin has to link them to an organization group. 
+- **Kaizala private groups** These are groups that aren't linked to any organization and are created on the mobile app. Kaizala private groups can't be managed in the Kaizala management portal. Only Kaizala group members and Kaizala group admins can view or manage private groups. To be able to manage these groups, the Kaizala group admin has to link them to an organization group. 
     
-## Create Kaizala Groups
+## Create Kaizala groups
 
 Follow the steps to create a new Kaizala group.
   
@@ -48,7 +48,7 @@ Follow the steps to create a new Kaizala group.
   
 Once you've added users to Kaizala Groups, you can now start sending surveys, polls and other actions on mobile app. Check out [creating a Kaizala Action](actions.md) for more details. 
   
-## Add multiple user phone numbers to a Kaizala Group
+## Add multiple user phone numbers to a Kaizala group
 
 If you want to add several users without using the comma separated list, you can add multiple users using **Bulk upload**. There are two types of groups: 
   
@@ -77,15 +77,15 @@ You can add these groups and users all at once from an Excel spreadsheet or othe
     
     ![Screenshot: Add a Kaizala  sub-group to a parent group](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
   
-### Remove a sub-group
+### Remove a Kaizala subgroup
 
 1. On the Kaizala management portal, from the left navigation bar, choose **Groups**, and then chose a group from the dropdown list and click or tap **Remove**. 
     
     ![Screenshot: Add a Kaizala  sub-group to a parent group](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
   
-## Export Kaizala Groups information
+## Export Kaizala group information
 
-You can export all Kaizala groups information to a CSV file.
+You can export all Kaizala group information to a CSV file.
   
 - On the Kaizala management portal, from the left navigation bar, choose **Groups**, and then chose **Bulk Upload Users**. 
     
@@ -93,7 +93,7 @@ You can export all Kaizala groups information to a CSV file.
     
 You can then view groups and users information from an Excel spreadsheet or another app that can open CSV files. [Add several users at the same time to Office 365 - Admin Help](https://support.office.com/article/1f5767ed-e717-4f24-969c-6ea9d412ca88#__toc316652088)
   
-## Troubleshooting Kaizala Groups
+## Troubleshooting Kaizala groups
 
 Read this section to help troubleshoot groups issues that you're having in Kaizala.
   

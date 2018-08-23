@@ -1,8 +1,9 @@
 ---
-title: "Troubleshoot Kaizala Notifications"
-ms.author: kwekua
-author: kwekua
-ms.date: 11/27/2017
+title: Troubleshoot Kaizala notifications
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
+ms.date: 8/21/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -14,10 +15,10 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 86393041-4729-4e92-963d-c3cafceaa735
-description: "Solve notification issues on certain devices. If you don't see your device's notification info in this list, check out your device manufacturers help pages for info on how to turn on notifications for apps on your device"
+description: Learn how to solve Kaizala notification issues on certain devices.
 ---
 
-# Troubleshoot Kaizala Notifications
+# Troubleshoot Kaizala notifications
 
 Some devices have certain notifications off by default so you might miss notifications from Kaizala. This topic discusses how to solve these notification issues on certain devices. If you don't see your device's notification info in this list, check out your device manufacturers help pages for info on how to turn on notifications for apps on your device
   

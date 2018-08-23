@@ -1,9 +1,9 @@
 ---
-title: "Make payments through the Kaizala app"
-ms.author: kwekua
-author: kwekua
-manager: scotv
-ms.date: 5/2/2018
+title: Make payments through the Kaizala app
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
+ms.date: 8/21/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -15,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: f4a25f68-5699-47c1-a2e7-3a67fdc50258
-description: "Using the Kaizala mobile app, send or receive money."
+description: Learn how to use the Kaizala mobile app to quickly send or receive money.
 ---
 
 # Make payments through the Kaizala app

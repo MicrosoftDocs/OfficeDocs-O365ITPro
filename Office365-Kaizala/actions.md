@@ -1,9 +1,9 @@
 ---
-title: "Kaizala Actions"
-ms.author: kwekua
-author: kwekua
-manager: scotv
-ms.date: 8/3/2018
+title: Kaizala Actions
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
+ms.date: 8/21/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -15,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 1eacc59a-dd14-43e9-b6b0-3c78773d5496
-description: "Kaizala Action is a 'unit of work' that helps users get work done within a conversation context inside Kaizala. Some of these Actions like Job, Survey and Poll are shipped out-of-the-box, and provide scoped functionality. Once you publish the Actions, users can find them in the Kaizala app, and then they can be used in a conversation context from the Action Palette."
+description: Learn how to use Kaizala Actions to help get work done within a conversation context inside Kaizala.
 ---
 
 # Kaizala Actions
