@@ -3,7 +3,7 @@ title: "Manage GDPR data subject requests in Yammer Basic"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 5/25/2018
+ms.date: 8/10/2018
 ms.audience: End User
 ms.topic: article
 ms.service: o365-administration
@@ -42,7 +42,7 @@ You can edit your own profile, change your notifications, delete your own accoun
       - To set preferences, select **Preferences**.
     
 ## Export your data
-<a name="EditProfile"> </a>
+<a name="ExportData"> </a>
 
 You can export your own data in Yammer Basic, and can choose to delete any data you posted. 
   
@@ -71,8 +71,10 @@ You can export your own data in Yammer Basic, and can choose to delete any data 
         This data can be used to link directly to a Yammer file. Files.csv does not contain the actual file. If you selected to include attachments in your export, files can be found in the **Files** folder of the .zip file. Use the ID from Files.csv to identify a specific file in the Files folder. 
     
     - **Groups.csv** For any group you created or modified during the specified date range, lists the Yammer ID, name, description, privacy status, whether the group is internal or external, link to the group, creation date, and updated date. This file also includes an aggregated total of the number of polls you voted, and what polls you created. 
-    
-    - **Messages.csv** For any message you sent or modified during the specified date range, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the full text of the message, attachments, and creation and deletion information. 
+- 
+    -|**LikedMessages.csv** For any message liked by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement.     
+
+    - **Messages.csv** For any message you sent or modified during the specified date range, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the full text of the message, attachments, and creation and deletion information. For announcements, includes the title of the announcement.
     
     - **Networks.csv** Lists all networks included in the export. 
     
@@ -86,8 +88,14 @@ You can export your own data in Yammer Basic, and can choose to delete any data 
     
 4. When your account activity data is ready, you'll receive a Yammer inbox message with a link to the data. Click the link to open it.
     
+### Troubleshoot data export
+
+- If the .zip file is corrupted and can't be unzipped, try again. If this doesn't work, [contact Support](https://go.microsoft.com/fwlink/?linkid=523736).
+
+- If the log.txt file shows export errors for one category of data, try again. If there are still errors, [contact Support](https://go.microsoft.com/fwlink/?linkid=523736).
+
 ## Delete specific messages or files
-<a name="EditProfile"> </a>
+<a name="DeleteMessagesFiles"> </a>
 
  If you have the ID for a message or file, you can go directly to it in Yammer and delete it. 
   
@@ -104,7 +112,7 @@ You can export your own data in Yammer Basic, and can choose to delete any data 
   - Or, build the URL for the file. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**files**/*file_number*, for example https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/files/12345678. On the Yammer page for the file, click **Delete this File**.
     
 ## Find and delete user data not included in the export
-<a name="EditProfile"> </a>
+<a name="OtherData"> </a>
 
 There is some user data that is not included in an export. The following table shows how to change or delete this data if needed. 
   
@@ -115,12 +123,12 @@ There is some user data that is not included in an export. The following table s
 |User settings, including notification, application, and language settings  <br/> |For steps, see [Edit your profile and settings](gdpr-requests-in-yammer-basic.md#EditProfile).  <br/> |
    
 ## Remove an invited guest from a conversation
-<a name="EditProfile"> </a>
+<a name="InvitedGuest"> </a>
 
 - In the Yammer conversation, click **Remove Participants**.
     
 ## Remove an invited user from a group
-<a name="EditProfile"> </a>
+<a name="InvitedUser"> </a>
 
 1. In the group, click **Members**.
     
@@ -129,7 +137,7 @@ There is some user data that is not included in an export. The following table s
 3. Click **Remove from Group**.
     
 ## Remove yourself from an external network
-<a name="EditProfile"> </a>
+<a name="RemoveSelfExternal"> </a>
 
 1. Click the Yammer ** Settings ** icon, and then click **Edit Settings**. ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png)
   
@@ -138,14 +146,14 @@ There is some user data that is not included in an export. The following table s
 3. Under **Actions**, for the network you want to be removed from, select **Delete account**. 
     
 ## Remove yourself from your home network
-<a name="EditProfile"> </a>
+<a name="RemoveSelfHome"> </a>
 
 1. Click the Yammer **Settings** icon, and then click **Edit Settings**. ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png)
   
 2. Select **Delete Your Yammer Account**.
     
 ## Inactive users are deleted
-<a name="EditProfile"> </a>
+<a name="InactiveUsers"> </a>
 
 Users that have been inactive for 12 months are suspended for 14 days and notified by email. To keep their Yammer account, they need to log on to Yammer. If they have not logged on to Yammer by the end of the 14 days, the user's account is deleted from Yammer, but their files and messages remain in Yammer. This means that if a user receives a notice that their account is being suspended, they have 14 days to review their files and messages and delete any that they would like to delete before leaving Yammer. 
   
