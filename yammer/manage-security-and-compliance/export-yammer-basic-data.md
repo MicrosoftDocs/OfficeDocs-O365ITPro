@@ -40,7 +40,9 @@ Each user can export their own data in Yammer Basic. It is not possible to expor
         
       - **Groups.csv** For any group you created or modified during the specified date range, lists the Yammer ID, name, description, privacy status, whether the group is internal or external, link to the group, creation date, and updated date. 
         
-      - **Messages.csv** For any message you sent or modified during the specified date range, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the full text of the message, attachments, and creation and deletion information. 
+       - **LikedMessages.csv** For any message you liked during the specified date range, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the full text of the message, attachments, and creation and deletion information. For announcements, includes the title of the announcement.
+
+        - **Messages.csv** For any message you sent or modified during the specified date range, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the full text of the message, attachments, and creation and deletion information. For announcements, includes the title of the announcement.
         
       - **Networks.csv** Lists all networks included in the export. 
         
@@ -55,4 +57,8 @@ Each user can export their own data in Yammer Basic. It is not possible to expor
     
 4. When your account activity data is ready, you'll receive a Yammer inbox message with a link to the data. Click the link to open it.
     
+## Troubleshoot data export
 
+- If the .zip file is corrupted and can't be unzipped, try again. If this doesn't work, [contact Support](https://go.microsoft.com/fwlink/?linkid=523736).
+
+- If the log.txt file shows export errors for one category of data, try again. If there are still errors, [contact Support](https://go.microsoft.com/fwlink/?linkid=523736).

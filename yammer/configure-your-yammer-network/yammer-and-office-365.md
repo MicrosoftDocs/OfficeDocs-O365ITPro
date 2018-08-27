@@ -179,7 +179,6 @@ You have the following options to move to a 1 tenant: 1 network configuration:
 Even after you move into a 1 tenant: 1 network configuration, you could accidentally move back to a 1 tenant: many networks configuration. Say, contoso.com acquires a company tailspin.com that has a free Yammer basic network. Contoso then adds tailspin.com to the Office 365 tenant, which will cause the tailspin.com network to be upgraded to Enterprise, and now the tenant is connected to 2 Yammer networks. We recommend that in such situations, you use the guidance above to get back to the recommended 1 tenant: 1 network configuration and regain all the benefits.
   
 ### Many Office 365 tenants associated with one Yammer network (many tenants: 1 network)
-<a name="OneTenantManyNetworks"> </a>
 
 You may have two or more Office 365 tenants that are associated with a single Yammer network. For example:
   
@@ -230,10 +229,11 @@ You have the following options to move out of this unsupported configuration:
 Even after you move into a 1 tenant: 1 network configuration, you could accidentally move back to a many tenants: 1 network configuration. Say, due to some reason the contoso.com network has an additional domain tailspin.com, which has not yet been added to the Office 365 tenant. In this situation, a new Office 365 tenant is created for tailspin.com. Now two tenants (contoso.com and tailspin.com) are connected to the same Yammer network. **To avoid getting into this situation, we strongly recommend that you add all the domains in your Yammer network to your Office 365 tenant.** If you do get into this situation, you can use the guidance above to get back to the recommended 1 tenant: 1 network configuration and regain all the benefits. 
   
 ### FAQ
-<a name="OneTenantManyNetworks"> </a>
 
  **Q: One of our users is redirected to the wrong Yammer network.**
   
-A: This can happen if your network is in an unsupported configuration with 1 tenant and many Yammer networks. You can either [consolidate your Yammer networks](consolidate-multiple-yammer-networks.md), or change the user's account, as explained in [A Yammer user is displayed as former member when you use Office 365 sign in for Yammer](https://go.microsoft.com/fwlink/?LinkId=871019).
+A: This can happen if your network is in an unsupported configuration with 1 tenant and many Yammer networks. For more information, read about the [1 tenant: many Yammer networks scenario](#OneTenantManyNetworks).
+
+You can either [consolidate your Yammer networks](consolidate-multiple-yammer-networks.md), or change the user's account, as explained in [A Yammer user is displayed as former member when you use Office 365 sign in for Yammer](https://go.microsoft.com/fwlink/?LinkId=871019).
   
 

@@ -104,7 +104,8 @@ The following types of data are not included in this export:
 - Bookmarked messages, group membership, followed or following users, or followed topics. To find this information for a user, click the user's name. 
     
 To find this data for an individual user, click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), click **People**, and click the name of the user whose data you want to view. This page shows the user's profile, conversations they've participated in, any files, images, and videos they have posted, along with their bookmarks, followed and following users, and followed topics.
-  
+ 
+
 <a name="ExportOneUser"> </a>
 ## Export data for one user
 
@@ -124,9 +125,11 @@ To find this data for an individual user, click the Yammer settings icon ![Yamme
 |**File** <br/> |**Contents** <br/> |
 |**log.txt** <br/> |Summarizes the number of entries in each .csv file, and lists any errors that occur during the export.  <br/> |
 |**request.txt** <br/> |Parameters use for the export.  <br/> |
+|**Broadcast.csv** <br/>|For any live event video posted by the user, includes the network ID, group ID and name, title, description, links to the video, and additional information about the video. <br/>The video content is not included in the export. The video is saved in Microsoft Stream. To edit metadata or delete the video, you can open the video in Microsoft Stream admin mode. For more information see [Admin capabilities in Microsoft Stream](https://docs.microsoft.com/en-us/stream/manage-content-permissions) and [Office 365 Data Subject Requests for the GDPR, Stream](https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365#stream)<br/>|
 |**Files.csv** <br/> | For any file added or modified by this user, lists the Yammer ID, type of file, name, description, and path to the file in Yammer, along with metadata including the group it was posted in. <br><br/> Files.csv does not contain the actual file. If you selected to include attachments in your export, files can be found in the **Files** folder of the zip file. The file ID in Files.csv can be used to identify the files in the **Files** folder or to go directly to the file in Yammer.  <br/> |
 |**Groups.csv** <br/> | For any group created or modified by the user, lists the Yammer group ID, name, description, privacy status, whether the group is internal or external, link to the group, creation date, and updated date. This file also includes the aggregated total number of polls the user voted on, and the polls the user created.  <br/> |
-|**Messages.csv** <br/> | For any message sent or modified by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. A list of polls you created will also be provided.  <br/> |
+|**LikedMessages.csv** <br/> | For any message liked by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement. <br/> |
+|**Messages.csv** <br/> | For any message sent or modified by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement. <br/> |
 |**Topics.csv** <br/> |For any topic created by the user during the specified date range, lists the creation information and a link to the topic.  <br/> |
 |**Files folder**.  <br/> | This folder contain files that have been created or modified by the user during the specified time period. Files are in their native format and are named with their Yammer ID. For example a PowerPoint presentation might be listed as 127815379.pptx.  <br/> |
    
@@ -134,6 +137,12 @@ To find this data for an individual user, click the Yammer settings icon ![Yamme
     
 Exported data does not contain bookmarked messages, group membership, followed or following users, followed topics, the user's notification, application, and language settings, and org chart. To find this data for an individual user, click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), click **People**, and click the name of the user whose data you want to view. This page shows the user's profile, conversations they've participated in, any files, images, and videos they have posted, along with their bookmarks, followed and following users, and followed topics.
   
+## Troubleshoot data export
+
+- If the .zip file is corrupted and can't be unzipped, try again. If this doesn't work, [contact Support](https://support.office.com/en-us/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
+
+- If the log.txt file shows export errors for one category of data, try again. If there are still errors, [contact Support](https://support.office.com/en-us/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
+ 
 <a name="DeleteMessagesFiles"> </a>
 ## Find and delete specific messages or files
 
