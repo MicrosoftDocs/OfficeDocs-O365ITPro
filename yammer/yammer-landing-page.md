@@ -214,6 +214,7 @@ Build communities and collaboration in your organization with Yammer.
                         <p><a href="https://support.office.com/en-us/article/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2" data-linktype="absolute-path">Manage a group in Yammer</a></p> 
                         <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-and-office-365-groups" data-linktype="absolute-path">Yammer and Office 365 groups</a></p> 
                         <p><a href="/en-us/Yammer/manage-yammer-groups/create-a-dynamic-group" data-linktype="absolute-path">Create a dynamic group</a></p> 
+                        <p><a href="https://support.office.com/en-us/article/201a78fd-67b8-42c3-9247-79e79f92b535" data-linktype="absolute-path">Export group members to a .csv file</a></p> 
                         <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-live-events" data-linktype="absolute-path">Live events in Yammer</a></p> 
                     </div>
                 </div>

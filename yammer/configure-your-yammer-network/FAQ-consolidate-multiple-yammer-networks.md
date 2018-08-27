@@ -16,7 +16,7 @@ description: Answers to frequently asked questions about consolidating multiple 
 
 # FAQ: Consolidating multiple Yammer networks
 
-Here are answers to frequently asked questions about consolidating multiple Yammer networks. This article only applies to you if you have multiple email domains in your Office 365 tenant and each email domain has its own Yammer network. 
+Here are answers to frequently asked questions about consolidating multiple Yammer networks. This article only applies to you if you have multiple email domains in your Office 365 tenant and those email domains are spread across two or more Yammer networks. This consolidation does not apply to external networks.
 
 **Q: How do I know if I have multiple Yammer networks associated with one tenant?** 
 
@@ -47,13 +47,13 @@ A: Starting October 16, 2018, if you haven’t consolidated your Yammer networks
 > [!IMPORTANT]
 > We strongly encourage you to be proactive and consolidate the networks yourself. 
 
-When networks are consolidated, only users are migrated. Groups and data from the subsidiary networks are not migrated. When you consolidate your networks yourself, you can make sure you pick the right primary network. If you wait for Yammer to automatically consolidate the networks, the primary network selected may not be the one you wanted to have as the primary one. Consolidating your own networks also gives you the chance to export data from the subsidiary networks. 
+When networks are consolidated, only users are migrated. Groups and data from the secondary networks are not migrated. When you consolidate your networks yourself, you can make sure you pick the right primary network. If you wait for Yammer to automatically consolidate the networks, the primary network selected may not be the one you wanted to have as the primary one. Consolidating your own networks also gives you the chance to export data from the secondary networks. 
 
 **Q: Why is Yammer asking customers to do this?**  
 
 A: Yammer is committed to building a more tightly integrated social experience within the Office 365 suite, and we can only accomplish this if we define the organizational boundaries the same way that the Office 365 suite does. 
 
-By doing the consolidation yourself you get to choose your primary network, and you can export data from subsidiary networks. 
+By doing the consolidation yourself you get to choose your primary network, and you can export data from secondary networks. 
 
 **Q: What benefits do I get after consolidating my networks?**  
 
@@ -81,9 +81,9 @@ A: There are both short-term and long term benefits:
 
 A: The actual technical process of consolidating Yammer networks takes minutes, so there won’t be any down time. 
 
-- **Users from subsidiary networks**: After the process is completed users from the subsidiary networks will log in and land in the primary network. When users from a subsidiary network land in the primary network, they’ll use the same user name, and their profile data will be exactly the same as it was in the subsidiary network. However, these users won’t find their existing groups or messages in the primary network.
+- **Users from secondary networks**: After the process is completed users from the secondary networks will log in and land in the primary network. When users from a secondary network land in the primary network, they’ll use the same user name, and their profile data will be exactly the same as it was in the secondary network. However, these users won’t find their existing groups or messages in the primary network.
 
-    Because users from the subsidiary networks will land in an existing, active Yammer network that is not the one they are used to seeing, we suggest that the admins manage these users’ expectations so that they are aware of why they are landing in a different, existing network, and that their previous content and groups have not been migrated. Sample notification text can be found in [Network migration - Consolidate multiple Yammer networks](consolidate-multiple-yammer-networks.md). 
+    Because users from the secondary networks will land in an existing, active Yammer network that is not the one they are used to seeing, we suggest that the admins manage these users’ expectations so that they are aware of why they are landing in a different, existing network, and that their previous content and groups have not been migrated. Sample notification text can be found in [Network migration - Consolidate multiple Yammer networks](consolidate-multiple-yammer-networks.md). 
 
 
 - **Users from the primary network**: Users from the primary network will not see any changes to their network other than seeing new users that are now part of the same Yammer network. 
@@ -102,7 +102,7 @@ A: We understand that some organizations might have a variety of business and le
 - Organizations can decide to define organizational boundaries by splitting their Office 365 tenant into two or more separate tenants. 
 
 
-**Q: What if I need to move data from the subsidiary Yammer networks to the primary Yammer network?**  
+**Q: What if I need to move data from the secondary Yammer networks to the primary Yammer network?**  
 
 A: Yammer doesn’t offer this functionality. We only offer the option to export all of one network’s data into a zip folder. However, there are Microsoft partners that provide this service. If you’re interested, please reach out to our support team so that we can put you in touch with our partners. To contact support, see Contact support for business products. Instructions for exporting data can be found in Export data from Yammer Enterprise and Export data from Yammer Basic. 
 

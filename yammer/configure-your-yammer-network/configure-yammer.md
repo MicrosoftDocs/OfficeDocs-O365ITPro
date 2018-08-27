@@ -3,7 +3,7 @@ title: "Configure your Yammer network"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 8/3/2018
+ms.date: 8/10/2018
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -87,9 +87,8 @@ The growing network of partners and developers in Yammer continue to build third
 ## Allow users to view an org chart in Yammer
 <a name="RestrictApps"> </a>
 
-The Org Chart is built from the reporting relationships that users add to their Yammer user profiles. This helps other users understand the management structure and company relationships of their coworkers.
+The org chart was deprecated for Office 365 Yammer networks in May 2018. Office charts are available in Skype for Business and Delve. For more information, see [Find info from a contact card in Skype for Business](https://support.office.com/en-us/article/Find-info-from-a-contact-card-in-Skype-for-Business-d797905c-66f0-4248-b473-c49e3c9a0767) and [How can I find people and information in Office Delve?](https://support.office.com/en-us/article/How-can-I-find-people-and-information-in-Office-Delve-5b8bffdd-a50a-430a-8570-09b39481887c)
   
-- On the **Configuration** page, in the **Enabled Features** section, select whether to allow **Org Chart**.
     
 ## Allow message translation
 <a name="RestrictApps"> </a>
