@@ -101,8 +101,8 @@ As an admin, you can remove a user from your home network and from any external 
     
   - If you want to delete all a user's messages and files before you erase the user:
 
-        1. Select **Permanently remove this user and remove their messages**, and then click **Submit**.
-        2. When that completes, select **Erase this user**. This removes the user's name and activity data.
+      1. Select **Permanently remove this user and remove their messages**, and then click **Submit**.
+      2. When that completes, select **Erase this user**. This removes the user's name and activity data.
     
  **Remove a user from an external network (done by user)**
   
