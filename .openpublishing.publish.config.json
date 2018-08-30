@@ -4,7 +4,7 @@
       "docset_name": "OfficeDocs-O365Admin",
       "build_source_folder": "Office365-Admin",
       "build_output_subfolder": "OfficeDocs-O365Admin",
-      "locale": "id-ID",
+      "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [
         "=o365-worldwide || =o365-21vianet || =o365-germany"
@@ -18,7 +18,7 @@
       "docset_name": "OfficeDocs-O365Home",
       "build_source_folder": "Office365-Home",
       "build_output_subfolder": "OfficeDocs-O365Home",
-      "locale": "id-ID",
+      "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
@@ -29,7 +29,7 @@
       "docset_name": "OfficeDocs-O365Kaizala",
       "build_source_folder": "Office365-Kaizala",
       "build_output_subfolder": "OfficeDocs-O365Kaizala",
-      "locale": "id-ID",
+      "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": true,
@@ -40,7 +40,7 @@
       "docset_name": "OfficeDocs-O365SmallBusiness",
       "build_source_folder": "Office365-SmallBusiness",
       "build_output_subfolder": "OfficeDocs-O365SmallBusiness",
-      "locale": "id-ID",
+      "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
@@ -51,7 +51,7 @@
       "docset_name": "OfficeDocs-Yammer",
       "build_source_folder": "yammer",
       "build_output_subfolder": "OfficeDocs-Yammer",
-      "locale": "id-ID",
+      "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": true,
@@ -70,7 +70,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.id-ID",
+      "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master",
       "branch_mapping": {}
     },
