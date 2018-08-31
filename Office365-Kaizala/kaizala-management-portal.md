@@ -3,7 +3,7 @@ title: Kaizala management portal
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 08/21/2018
+ms.date: 08/31/2018
 ms.audience: ITPro
 ms.topic: article
 ms.service: Kaizala
@@ -45,15 +45,15 @@ The Kaizala management portal can be used by the following users:
     
 ![Screenshot: Kaizala management portal](media/f14b188f-e1a2-4a72-8ca1-d05fcada255a.png)
   
-|
-|
-|**Menu**|**What it's for**|
-|[Kaizala Groups](groups.md) <br/> |Create and manage Kaizala groups.  <br/> |
-|[Kaizala Users](users.md) <br/> |Add and manage Kaizala users.  <br/> |
-|[Organization Groups](settings.md) <br/> |Connect Kaizala groups to your organization to view reports and manage resources.  <br/> |
-|[Public Groups](public-groups.md) <br/> |Connect with a large set of subscribers to send &amp; receive information.  <br/> |
-|[Kaizala Reports](reports.md) <br/> |View reports on Kaizala Actions.  <br/> |
-|[Kaizala Actions](actions.md) <br/> |Create new Kaizala Actions.  <br/> |
-|[Kaizala Connectors](connectors.md) <br/> |Integrate internal or external applications with Microsoft Kaizala using REST APIs.  <br/> |
+|Menu     |What it's for|
+|---------|-------------|
+|[Kaizala Groups](groups.md) |Create and manage Kaizala groups. |
+|[Kaizala Users](users.md)   |Add and manage Kaizala users. |
+|[Organization Groups](settings.md) |Connect Kaizala groups to your organization to view reports and manage resources. |
+|[Public Groups](public-groups.md)  |Connect with a large set of subscribers to send and receive information.  |
+|[Kaizala Reports](reports.md)  |View reports on Kaizala Actions.  |
+|[Kaizala Actions](actions.md)  |Create new Kaizala Actions.  |
+|[Kaizala Connectors](connectors.md) |Integrate internal or external applications with Microsoft Kaizala using REST APIs. |
    
+
 
