@@ -10,7 +10,7 @@ ms.assetid:
 ms.service: o365-administration
 ms.custom: Adm_Yammer
 ms.topic: landing-page
-ms.date: 8/3/18
+ms.date: 8/31/18
 ---
 # Yammer admin help
 
@@ -121,9 +121,10 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardText">
                         <h3>Get started with Yammer</h3>
-                        <p><a href="/en-us/Yammer/get-started-with-yammer/admin-key-concepts" data-linktype="absolute-path">Admin key concepts</a></p>       <p><a href="/en-us/Yammer/get-started-with-yammer/admin-quick-start" data-linktype="absolute-path">Admin quick start</a></p>         
-                        <p><a href="/en-us/Yammer/get-started-with-yammer/compare-options-for-a-free-trial" data-linktype="absolute-path">Free trial options</a></p>      
-                        <p><a href="https://support.office.com/en-us/yammer" data-linktype="absolute-path">Yammer end-user help</a></p>
+                        <p><a href="/en-us/Yammer/get-started-with-yammer/admin-key-concepts" data-linktype="absolute-path">Admin key concepts</a></p>       <p><a href="/en-us/Yammer/get-started-with-yammer/admin-quick-start" data-linktype="absolute-path">Admin quick start</a></p>                         <p><a href="https://support.office.com/en-us/yammer" data-linktype="absolute-path">Yammer end-user help</a></p>        
+                        <p><a href="/en-us/Yammer/get-started-with-yammer/compare-options-for-a-free-trial" data-linktype="absolute-path">Free trial options</a></p> 
+                         <p><a href="https://resources.techcommunity.microsoft.com/yammer-adoption-resources/" data-linktype="absolute-path">Yammer adoption resources</a></p>                          <p><a href="https://www.microsoft.com/en-us/microsoft-365/success/?rtc=2" data-linktype="absolute-path">Microsoft 365 Productivity Library</a></p>     
+
                     </div>
                 </div>
             </div>
