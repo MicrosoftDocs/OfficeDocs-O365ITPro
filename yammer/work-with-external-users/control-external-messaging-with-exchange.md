@@ -38,7 +38,7 @@ Here is an example of a simple rule you can create to disable external messaging
 4. In Choose a mode for this rule, select **Enforce**.
 5. Click **Save**.
 
-See [Q: Do all ETRs work with Yammer?](control-external-messaging-with-exchange.md#ETRswork) in the [External participants FAQ](external-messaging-faq.md).
+See [Q: Do all mail flow rules work with Yammer?](control-external-messaging-with-exchange.md#ETRswork).
   
 ## Step 2: Configure Yammer to use Exchange Online mail flow rules
 
@@ -53,11 +53,13 @@ See [Q: Do all ETRs work with Yammer?](control-external-messaging-with-exchange.
 ### Q: If I have on-premises Exchange Transport rules, will those work?
 
 A: No. Yammer only checks for mail flow rules established in Exchange Online. 
-  
+ 
+<a name="ETRswork"> </a> 
 ### Q: Do all Exchange Online mail flow rules work with Yammer?
-<a name="ETRswork"> </a>
 
-A: Not all ETRs from Exchange Online apply to Yammer. Yammer ignores the following conditions and actions (they are mostly about identifying spam messages):
+A:Not all mail flow rules from Exchange Online apply to Yammer. We suggest using the sample rule defined above. 
+
+Yammer ignores the following conditions and actions (they are mostly about identifying spam messages):
   
 - **Conditions**
     
@@ -79,10 +81,9 @@ A: Not all ETRs from Exchange Online apply to Yammer. Yammer ignores the followi
     
   - RemoveOME
     
-For any other mail flow rule you have in place that is not on this list, if you have configured Yammer to enforce your Exchange Online Exchange Transport Rules, Yammer will block external messaging and external groups. 
+For any other mail flow rule you have in place that is not on this list, if you have configured Yammer to enforce your Exchange Online mail flow rules, Yammer will block external messaging and external groups. 
   
 ### Q: Is this available to Yammer Basic networks?
-<a name="ETRswork"> </a>
 
 A: No. In order to apply mail flow rules, the Yammer network must be associated with an Office 365 tenant which includes Exchange Online, so that we know which mail flow rules to look at. Linking a Yammer network to Office 365 requires Yammer Enterprise.
   

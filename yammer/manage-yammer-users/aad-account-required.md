@@ -47,19 +47,22 @@ Set-MsolCompanySettings -AllowEmailVerifiedUsers $true -AllowAdHocSubscriptions 
  
 ### Step 2: Make sure users are aware that they will be asked to create a new password.  
 
-Users will be asked to create a new password the first time they try to log in after January 31, 2019. After creating their new password and validating their email address, they will have to use their new credentials to log in. Except for having to create a new password, this change will be completely transparent to users. Their data will not be affected in any way. They will continue to see all their groups, external networks, and content, just as they did before the change. 
+Users will be asked to create a new password the first time they try to log in after January 31, 2019. After creating their new password and validating their email address, they will have to use their new credentials to log in. 
+
+Except for having to create a new password, this change will be completely transparent to users. Their data will not be affected in any way. They will continue to see all their groups, external networks, and content, just as they did before the change. 
 
 **Identify affected users and notify them**  
 
 To identify which users you need to notify, follow the instructions in [Audit Yammer users](../aduit-users-connected-to-office-365.md) to get the contact information for users who currently are not using AAD credentials. 
 
-## FAQs: 
+## FAQ 
 
 **Q: Will this change users' experience?**
 
-A: If self-service signup is enabled, after January 31, this impacts the user’s next login in. The first time a user with legacy credentials tries to log in they will be asked to create a new password and validate their email address. After that they will always need to use their newly created AAD credentials when they log in to Yammer.  When they use their new AAD credentials to log in, their Yammer experience will be the same as it was before this change. They will have access to the same groups and external networks as they currently do.
- 
-If self-service signup is not enabled, users using legacy Yammer credentials won’t be able to log in after January 31 until the Office 365 admin manually creates an AAD account for these users and gives each user the new log-in information. 
+A: After January 31, 2019, the user's experience will change:
+- If self-service signup is enabled, this impacts the user’s next login in. The first time a user with legacy credentials tries to log in they will be asked to create a new password and validate their email address. After that they will always need to use their newly created AAD credentials when they log in to Yammer.  When they use their new AAD credentials to log in, their Yammer experience will be the same as it was before this change. They will have access to the same groups and external networks as they currently do.
+
+- If self-service signup is not enabled, users using legacy Yammer credentials won’t be able to log in after January 31 until the Office 365 admin manually creates an AAD account for these users and gives each user the new log-in information. 
 
 **Q: What happens if as an admin, I don’t take action by January 31?** 
 
