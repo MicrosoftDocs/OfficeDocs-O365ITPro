@@ -105,6 +105,7 @@ Build communities and collaboration in your organization with Yammer.
                     </div>
                     <div class="cardText">
                             <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-live-events" data-linktype="absolute-path">Yammer live events</a></p>
+
                             <p><a href="/en-us/Yammer/manage-yammer-users/AAD-account-required" data-linktype="absolute-path">AAD credentials will soon be required for log in</a></p>
                     </div>
                 </div>
