@@ -53,7 +53,7 @@ Except for having to create a new password, this change will be completely trans
 
 **Identify affected users and notify them**  
 
-To identify which users you need to notify, follow the instructions in [Audit Yammer users](../audit-users-connected-to-office-365.md) to get the contact information for users who currently are not using AAD credentials. 
+To identify which users you need to notify, follow the instructions in [Audit Yammer users](audit-users-connected-to-office-365.md) to get the contact information for users who currently are not using AAD credentials. 
 
 ## FAQ 
 
