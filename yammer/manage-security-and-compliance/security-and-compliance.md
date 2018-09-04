@@ -3,7 +3,7 @@ title: "Overview of security and compliance in Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 6/13/2018
+ms.date: 9/4/2018
 ms.audience: Admin
 ms.topic: reference
 ms.prod: office-online-server
@@ -56,7 +56,7 @@ Yammer Enterprise offers admins security and compliance tools that are not part 
 |**Task** <br/> |**How To** <br/> |
 |Set up a usage policy to ensure only appropriate content is posted.  <br/> |[Set up a Yammer usage policy](set-up-a-usage-policy.md) \*  <br/> |
 |Monitor keywords for unacceptable or inappropriate content so you can intervene if necessary.  <br/> |[Monitor Keywords](manage-data-compliance.md#MonitorKeywords)\*  <br/> [Monitor private content in Yammer](monitor-private-content.md) \*  <br/> |
-|Prevent specific data from being sent to external participants.  <br/> |[Control external messaging in a Yammer network with Exchange Transport Rules](../work-with-external-users/control-external-messaging-with-exchange.md) \*  <br/> |
+|Prevent specific data from being sent to external participants.  <br/> |[Disable external messaging in a Yammer network](../work-with-external-users/control-external-messaging-with-exchange.md) \*  <br/> |
    
 ### Monitor usage
 

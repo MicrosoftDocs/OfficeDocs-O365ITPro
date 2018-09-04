@@ -10,7 +10,7 @@ ms.assetid:
 ms.service: o365-administration
 ms.custom: Adm_Yammer
 ms.topic: landing-page
-ms.date: 8/31/18
+ms.date: 9/4/18
 ---
 # Yammer admin help
 
@@ -106,6 +106,8 @@ Build communities and collaboration in your organization with Yammer.
                     <div class="cardText">
                         <h3>New features</h3>
                             <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-live-events" data-linktype="absolute-path">Yammer live events</a></p>
+                        <h3>Other changes</h3>
+                            <p><a href="/en-us/Yammer/manage-yammer-users/AAD-account-required" data-linktype="absolute-path">AAD credentials will be required for log in</a></p>
                     </div>
                 </div>
             </div>
@@ -180,6 +182,7 @@ Build communities and collaboration in your organization with Yammer.
                         <p><a href="/en-us/Yammer/manage-yammer-users/audit-users-connected-to-office-365" data-linktype="absolute-path">Audit Office 365 users</a></p>
                         <p><a href="/en-us/Yammer/manage-yammer-users/manage-yammer-admins" data-linktype="absolute-path">Manage Yammer admins</a></p>
                         <p><a href="/en-us/Yammer/manage-yammer-users/office-365-sign-in" data-linktype="absolute-path">Office 365 sign-in</a></p>
+                        <p><a href="/en-us/Yammer/manage-yammer-users/AAD-account-required" data-linktype="absolute-path">AAD credentials will be required for log in</a></p>
                         <p><a href="/en-us/Yammer/manage-yammer-users/auto-acceleration-policy-for-signing-in" data-linktype="absolute-path">Auto-acceleration policy</a></p>
                         <p><a href="/en-us/Yammer/manage-yammer-users/turn-off-user-access" data-linktype="absolute-path">Turn off access for Office 365 users</a></p> 
     </div>
@@ -197,7 +200,7 @@ Build communities and collaboration in your organization with Yammer.
                         <p><a href="/en-us/Yammer/work-with-external-users/add-external-participants" data-linktype="absolute-path">Add external participants</a></p> 
                         <p><a href="/en-us/Yammer/work-with-external-users/create-and-manage-external-groups" data-linktype="absolute-path">Create and manage external groups</a></p> 
                         <p><a href="/en-us/Yammer/work-with-external-users/find-external-participants" data-linktype="absolute-path">Find external participants</a></p> 
-                        <p><a href="/en-us/Yammer/work-with-external-users/control-external-messaging-with-Exchange" data-linktype="absolute-path">Control external messaging</a></p> 
+                        <p><a href="/en-us/Yammer/work-with-external-users/control-external-messaging-with-Exchange" data-linktype="absolute-path">Disable external messaging</a></p> 
                         <p><a href="/en-us/Yammer/work-with-external-users/external-messaging-faq" data-linktype="absolute-path">External messaging FAQ</a></p> 
     </div>
         </div>

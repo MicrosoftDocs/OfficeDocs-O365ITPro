@@ -70,9 +70,9 @@ For more information about external messaging, see [External messaging FAQ (Yamm
 
 1. In the Yammer admin center, go to **Content and Security** \> **Security Settings**.
     
-2. In the **External Messaging** section, select whether to enforce your Exchange Online Exchange Transport Rules in Yammer. 
+2. In the **External Messaging** section, select whether to enforce your Exchange Online mail flow in Yammer. 
     
-    For information about this setting, see [Control external messaging in a Yammer network with Exchange Transport Rules](../work-with-external-users/control-external-messaging-with-exchange.md).
+    For information about this setting, see [Disable external messaging in a Yammer network](../work-with-external-users/control-external-messaging-with-exchange.md).
     
 ## Enforce Office 365 identity in Yammer
 <a name="ExternalNetworksSecurity"> </a>
