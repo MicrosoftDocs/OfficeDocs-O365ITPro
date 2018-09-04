@@ -10,7 +10,7 @@ ms.assetid:
 ms.service: o365-administration
 ms.custom: Adm_Yammer
 ms.topic: landing-page
-ms.date: 8/3/18
+ms.date: 9/4/18
 ---
 # Yammer admin help
 
@@ -104,8 +104,23 @@ Build communities and collaboration in your organization with Yammer.
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>New features</h3>
-                            <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-live-events" data-linktype="absolute-path">Yammer live events</a></p>
+                            <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-live-events" data-linktype="absolute-path">Yammer live events</a></p> <br/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag.svg" alt="What's new" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                            <p><a href="/en-us/Yammer/manage-yammer-users/AAD-account-required" data-linktype="absolute-path">AAD credentials will soon be required for log in</a></p>
                     </div>
                 </div>
             </div>
@@ -121,9 +136,9 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardText">
                         <h3>Get started with Yammer</h3>
-                        <p><a href="/en-us/Yammer/get-started-with-yammer/admin-key-concepts" data-linktype="absolute-path">Admin key concepts</a></p>       <p><a href="/en-us/Yammer/get-started-with-yammer/admin-quick-start" data-linktype="absolute-path">Admin quick start</a></p>         
-                        <p><a href="/en-us/Yammer/get-started-with-yammer/compare-options-for-a-free-trial" data-linktype="absolute-path">Free trial options</a></p>      
-                        <p><a href="https://support.office.com/en-us/yammer" data-linktype="absolute-path">Yammer end-user help</a></p>
+                        <p><a href="/en-us/Yammer/get-started-with-yammer/admin-key-concepts" data-linktype="absolute-path">Admin key concepts</a></p>       <p><a href="/en-us/Yammer/get-started-with-yammer/admin-quick-start" data-linktype="absolute-path">Admin quick start</a></p>                         <p><a href="https://support.office.com/en-us/yammer" data-linktype="absolute-path">Yammer end-user help</a></p>        
+                        <p><a href="/en-us/Yammer/get-started-with-yammer/compare-options-for-a-free-trial" data-linktype="absolute-path">Free trial options</a></p> 
+                         <p><a href="https://resources.techcommunity.microsoft.com/yammer-adoption-resources/" data-linktype="absolute-path">Yammer adoption resources</a></p>                          <p><a href="https://www.microsoft.com/en-us/microsoft-365/success/?products=yammer&rtc=2" data-linktype="absolute-path">Microsoft 365 productivity library</a></p>     
                     </div>
                 </div>
             </div>
@@ -180,6 +195,7 @@ Build communities and collaboration in your organization with Yammer.
                         <p><a href="/en-us/Yammer/manage-yammer-users/audit-users-connected-to-office-365" data-linktype="absolute-path">Audit Office 365 users</a></p>
                         <p><a href="/en-us/Yammer/manage-yammer-users/manage-yammer-admins" data-linktype="absolute-path">Manage Yammer admins</a></p>
                         <p><a href="/en-us/Yammer/manage-yammer-users/office-365-sign-in" data-linktype="absolute-path">Office 365 sign-in</a></p>
+                        <p><a href="/en-us/Yammer/manage-yammer-users/AAD-account-required" data-linktype="absolute-path">AAD credentials will be required for log in</a></p>
                         <p><a href="/en-us/Yammer/manage-yammer-users/auto-acceleration-policy-for-signing-in" data-linktype="absolute-path">Auto-acceleration policy</a></p>
                         <p><a href="/en-us/Yammer/manage-yammer-users/turn-off-user-access" data-linktype="absolute-path">Turn off access for Office 365 users</a></p> 
     </div>
@@ -197,7 +213,7 @@ Build communities and collaboration in your organization with Yammer.
                         <p><a href="/en-us/Yammer/work-with-external-users/add-external-participants" data-linktype="absolute-path">Add external participants</a></p> 
                         <p><a href="/en-us/Yammer/work-with-external-users/create-and-manage-external-groups" data-linktype="absolute-path">Create and manage external groups</a></p> 
                         <p><a href="/en-us/Yammer/work-with-external-users/find-external-participants" data-linktype="absolute-path">Find external participants</a></p> 
-                        <p><a href="/en-us/Yammer/work-with-external-users/control-external-messaging-with-Exchange" data-linktype="absolute-path">Control external messaging</a></p> 
+                        <p><a href="/en-us/Yammer/work-with-external-users/control-external-messaging-with-Exchange" data-linktype="absolute-path">Disable external messaging</a></p> 
                         <p><a href="/en-us/Yammer/work-with-external-users/external-messaging-faq" data-linktype="absolute-path">External messaging FAQ</a></p> 
     </div>
         </div>
@@ -210,9 +226,12 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardText">
                         <h3>Manage groups</h3>
-                        <p><a href="https://support.office.com/en-us/article/Create-a-group-in-Yammer-b407af4f-9a58-4b12-b43e-afbb1b07c889" data-linktype="absolute-path">Create a group in Yammer</a></p> 
-                        <p><a href="https://support.office.com/en-us/article/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2" data-linktype="absolute-path">Manage a group in Yammer</a></p> 
-                        <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-and-office-365-groups" data-linktype="absolute-path">Yammer and Office 365 groups</a></p> 
+                        <p><a href="https://support.office.com/en-us/article/Create-a-group-in-Yammer-b407af4f-9a58-4b12-b43e-afbb1b07c889" data-linktype="absolute-path">Create a Yammer group</a></p> 
+                        <p><a href="https://support.office.com/en-us/article/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2" data-linktype="absolute-path">Manage a Yammer group</a></p> 
+                        <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-and-office-365-groups" data-linktype="absolute-path">Yammer and Office 365 connected groups</a></p>                         
+                        <p><a href="https://support.office.com/en-us/article/delete-a-group-ca7f5a9e-ae4f-4cbe-a4bc-89c469d1726f?ui=en-US&rs=en-US&ad=US" data-linktype="absolute-path">Delete an Office 365 group</a></p> 
+                        <p><a href="https://support.office.com/en-us/article/office-365-groups-naming-policy-6ceca4d3-cad1-4532-9f0f-d469dfbbb552?ui=en-US&rs=en-US&ad=US" data-linktype="absolute-path">Office 365 groups naming policy</a></p> 
+                        <p><a href="https://support.office.com/en-us/article/manage-who-can-create-office-365-groups-4c46c8cb-17d0-44b5-9776-005fced8e618" data-linktype="absolute-path">Manage who can create Office 365 groups</a></p> 
                         <p><a href="/en-us/Yammer/manage-yammer-groups/create-a-dynamic-group" data-linktype="absolute-path">Create a dynamic group</a></p> 
                         <p><a href="https://support.office.com/en-us/article/201a78fd-67b8-42c3-9247-79e79f92b535" data-linktype="absolute-path">Export group members to a .csv file</a></p> 
                         <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-live-events" data-linktype="absolute-path">Live events in Yammer</a></p> 

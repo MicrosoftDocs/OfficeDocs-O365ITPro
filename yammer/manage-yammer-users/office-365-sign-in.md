@@ -3,7 +3,7 @@ title: "Office 365 sign-in for Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 3/22/2018
+ms.date: 9/4/2018
 ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration
@@ -22,13 +22,13 @@ Office 365 sign-in for Yammer lets users access Yammer with their Office 365 ide
   
 - You can easily manage the Yammer service in Office 365. For example, you can [Manage Yammer users across their life cycle from Office 365](manage-users-across-their-lifecycle.md), and you can manage Yammer administrators in Office 365.
     
-- Users can seamlessly use Yammer from Office 365. They can use Yammer without having to log in with a separate username and password, and they can quickly switch back and forth between Yammer and other Office 365 services including Outlook, SharePoint Online sites, and OneDrive for Business by using the Office 365 app launcherUNRESOLVED_TOKEN_VAL().
+- Users can seamlessly use Yammer from Office 365. They can use Yammer without having to log in with a separate username and password, and they can quickly switch back and forth between Yammer and other Office 365 services including Outlook, SharePoint Online sites, and OneDrive for Business by using the Office 365 app launcher.
     
 Here's a screenshot of the Office 365 app launcher that shows Yammer.
   
 ![The Office 365 app launcher with the Yammer app highlighted](../media/2a9e4707-3671-411d-81c1-723fcdd2b483.png)
   
-Yammer Enterprise continues to support legacy Yammer identity (login with email, password) for those users who have not yet been added to Office 365. We strongly recommend you add all Yammer users to Office 365.
+Until January 31, 2019, Yammer Enterprise continues to support legacy Yammer identity (login with email, password) for those users who have not yet been added to Office 365. We strongly recommend you add all Yammer users to Office 365. After January 31, 2019, users will be required to use their Azure Active Directory (AAD)credentials. For more information including how to identify users that don't yet have AAD credentials, see [AAD credentials will be required for Yammer Enterprise log in](aad-account-required.md).
   
 ## How it works
 
@@ -92,9 +92,9 @@ A: Your network users should access Yammer once with their Office 365 identity (
 
 A: The Office 365 sign-in for Yammer will respect any Office 365 federation setting automatically.
     
-**Q: Can I combine Yammer networks in order to take advantage of the new Office 365 sign-in for Yammer?**
+**Q: Can I combine Yammer networks in order to take advantage of Office 365 sign-in for Yammer?**
 
-A: Yes, we recommend this. For more information, see [Network migration: Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md).
+A: Yes, this is required as of October 26, 2018. For more information, see [Network migration: Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md).
     
 ## See also
 

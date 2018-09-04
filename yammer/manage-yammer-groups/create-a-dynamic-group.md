@@ -3,7 +3,7 @@ title: "Create a dynamic group in Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 3/7/2018
+ms.date: 9/4/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -50,5 +50,8 @@ A: Yes. Groups with dynamic membership do not have the **Join** and **Leave** bu
 ![Top navigation for dynamic groups that you are a member of](../media/9d0bb1db-2575-4bb9-bd02-869a05a7cc89.png)
   
 ![Top navigation for dynamic groups that you are not a member of](../media/d1d48f64-896e-466d-96f8-007f36188991.png)
-  
 
+**Q: What is the difference between an Office 365 connected group and a dynamic group?**
+A. For an [Office 365 connected group](yammer-and-office-365-groups.md), group membership changes made in any Office 365 app such as Outlook, are available in the group in Yammer. For a dynamic group, changes made in the group membership in Azure Active Directory (AAD) are available in the Yammer group. 
+
+Typically large organizations use dynamic groups if they use AAD to track department membership, roles, and location, and have Office 365 connected groups for each department, role, and location. Organizations which don't use AAD in this way typically don't use dynamic groups.
