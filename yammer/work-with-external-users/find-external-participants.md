@@ -3,7 +3,7 @@ title: "Find external messaging participants in a Yammer network"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 5/23/2018
+ms.date: 9/4/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -42,4 +42,4 @@ If you want to remove an external participant, you can use the information from 
   
 [External Yammer participants FAQ](external-messaging-faq.md)
   
-[Control external participants in a Yammer network with Exchange Transport Rules](control-external-messaging-with-exchange.md)
+[Disable external messaging in a Yammer network](control-external-messaging-with-exchange.md)

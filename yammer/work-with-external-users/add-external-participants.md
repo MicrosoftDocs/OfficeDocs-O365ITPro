@@ -3,7 +3,7 @@ title: "Add external messaging participants to your Yammer conversations"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 6/20/2018
+ms.date: 9/4/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -113,4 +113,4 @@ If an external participants no longer wants to participate, they can unsubscribe
   
 [External Yammer participants FAQ](external-messaging-faq.md)
   
-[Control external messaging with Exchange Transport Rules](control-external-messaging-with-exchange.md)
+[Disable external messaging in a Yammer network](control-external-messaging-with-exchange.md)

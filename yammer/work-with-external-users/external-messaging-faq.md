@@ -3,7 +3,7 @@ title: "External messaging FAQ - Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 5/2/2018
+ms.date: 9/4/2018
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -21,7 +21,7 @@ description: "Find answers to questions about adding external participants to yo
 
 You can include people outside of your Yammer network in your conversations and private messages that are posted in external groups. You add people as external participants, and they can reply to messages and posts in your Yammer network without having to join. 
   
-Find answers to frequently asked questions about external participants in this article. Or see [Add external participants to your Yammer conversations](add-external-participants.md), [Create and manage external groups in Yammer](create-and-manage-external-groups.md), [Find external participants in a Yammer network](find-external-participants.md), and [Control external messaging in a Yammer network with Exchange Transport Rules](control-external-messaging-with-exchange.md) for more information about working with external participants. 
+Find answers to frequently asked questions about external participants in this article. Or see [Add external participants to your Yammer conversations](add-external-participants.md), [Create and manage external groups in Yammer](create-and-manage-external-groups.md), [Find external participants in a Yammer network](find-external-participants.md), and [Disable external messaging in a Yammer network](control-external-messaging-with-exchange.md) for more information about working with external participants. 
   
     
 ## General questions
@@ -86,7 +86,7 @@ A: Privacy and security is really important to us, too. We've spent a long time 
   
 - **Clear UI warnings:** We've built warnings to ensure users are consciously aware before they add an external participant. When you add an external user to a conversation or reply to a conversation with an external participant, you'll see a clear warning in the UI. See [Add an external participant](add-external-participants.md#AddExternal).
     
-- **Exchange Transport Rules:** We've created an opt-in option for [verified admins](../manage-yammer-users/manage-yammer-admins.md) to enforce your Exchange Transport Rules (ETRs) in Yammer, providing a consistent experience across modes of communication. If your organization is concerned about external sharing, you likely already have ETRs defined in Exchange Online. See [Control external messaging in a Yammer network with Exchange Transport Rules](control-external-messaging-with-exchange.md).
+- **Exchange Online mail flow rules:** We've created an opt-out option for [verified admins](../manage-yammer-users/manage-yammer-admins.md) to turn off external messaging and external groups by enforcing Exchange Online mail flow rules (also known as Exchange Transport Rules) in Yammer, providing a consistent experience across modes of communication. If your organization is concerned about external sharing, you likely already have mail flow rules defined in Exchange Online. See [Disable messaging in a Yammer network](control-external-messaging-with-exchange.md).
     
 - **Remove users:** You can remove external participants from a conversation. Once removed, a user can't view that conversation anymore. Both network and group admins can remove users from conversations. See [Remove an external participant from a conversation](add-external-participants.md#RemoveExternal).
     
@@ -140,19 +140,17 @@ Yes. Keyword monitoring applies to any posts in your network, including those fr
 > [!NOTE]
 > Only Yammer Enterprise networks can opt out of external messaging. 
   
-### Q: I don't want External Messaging and External Groups enabled for my network. What options do I have to disable all of external messaging?
+### Q: I don't want external messaging and external groups enabled for my network. What options do I have to disable all of external messaging?
 
-As an admin, you can choose to have your Yammer network enforce your Exchange Transport Rules in Yammer. For more details on how this works, see [Control external messaging in a Yammer network with Exchange Transport Rules](control-external-messaging-with-exchange.md). If this security functionality is not sufficient, you also can block users:
-  
-- **Block users from creating external groups:** You have the option to block your users from creating external groups. This is the same control you use to block external messaging participants. Blocking users in this fashion ensures that content within your Yammer network will not be made visible to external users via external groups. This means that people in your network will not be able to create external groups. 
-    
-- **Allow inbound external groups only:** You can block users from creating external groups in their network, but still allow users to be invited to groups hosted on other networks. 
-    
-- **Firewall your Yammer network:** You can use a logical firewall to prevent users from creating or joining external groups in Yammer networks, such as partner or customer organizations, hosted in that other Yammer network. However, we highly discourage restricting messaging in this manner because it will cause users to seem difficult to reach and collaborate with, with the Yammer equivalent of having an email bounce, and it will limit engagement within Yammer. 
-    
-### Q: What is the user experience if I disable External Messaging?
+As an admin, you can choose to disable external messaging and external groups in your Yammer network. This blocks users from creating external groups in their home network, but still allows users to be invited to groups hosted on other networks. 
 
-If you decide to opt out of External Messaging by blocking your users from inviting external people to participate on your network, messages that begin on your network will not be able to be shared with external participants. Users on your network will still be able to receive messages from other networks; these messages will be available to the user in their Yammer inbox. They will be able to read and respond to these messages as normal. In addition, the full thread they are participating in (including all messages on the thread) will be available in your data export. This enables you to keep track of conversations your employees are having on other networks.
+To do this, you create an Exchange Online mail flow rule, and configure Yammer to enforce your rule. For instructions, see [Disable external messaging in a Yammer network](control-external-messaging-with-exchange.md). 
+
+If this security functionality is not sufficient, you can also choose to use a logical firewall to prevent users from creating or joining external groups in Yammer networks, such as partner or customer organizations, hosted in that other Yammer network. However, we highly discourage restricting messaging in this manner because it will cause users to seem difficult to reach and collaborate with, with the Yammer equivalent of having an email bounce, and it will limit engagement within Yammer. 
+    
+### Q: What is the user experience if I disable external messaging?
+
+If you decide to opt out of external messaging by using an Exchange Online mail flow rule, messages that begin on your network will not be able to be shared with external participants. Users on your network will still be able to receive messages from other networks; these messages will be available to the user in their Yammer inbox. They will be able to read and respond to these messages as normal. In addition, the full thread they are participating in (including all messages on the thread) will be available in your data export. This enables you to keep track of conversations your employees are having on other networks.
   
 If you decide to use a firewall to prevent external messages to your users, this means they are unable to send or receive messages from other networks. If someone tries to send a message to your users, that person will receive an error message and be prevented from sending the message.
   
@@ -177,4 +175,4 @@ As we continue innovating Yammer, additional new capabilities are likely to be b
   
 [Find external participants in a Yammer network](find-external-participants.md)
   
-[Control external participants in a Yammer network with Exchange Transport Rules](control-external-messaging-with-exchange.md)
+[Disable external messaging in a Yammer network](control-external-messaging-with-exchange.md)
