@@ -45,7 +45,7 @@
 ### [Disable external messaging](work-with-external-users/control-external-messaging-with-exchange.md)
 ### [External messaging FAQ](work-with-external-users/external-messaging-faq.md)
 ## [Manage Yammer groups](manage-yammer-groups/yammer-and-office-365-groups.md)
-### [Yammer and Office 365 Groups](manage-yammer-groups/yammer-and-office-365-groups.md)
+### [Yammer and Office 365 groups](manage-yammer-groups/yammer-and-office-365-groups.md)
 ### [Create a dynamic group](manage-yammer-groups/create-a-dynamic-group.md)
 ### [Live events in Yammer](manage-yammer-groups/yammer-live-events.md)
 ## [Integrate Yammer with other apps](integrate-yammer-with-other-apps/integrate-with-other-applications.md)

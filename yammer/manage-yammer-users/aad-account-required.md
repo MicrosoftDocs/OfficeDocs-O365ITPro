@@ -32,9 +32,7 @@ Self-service signup is turned on by default everywhere except in the European Un
 > [!IMPORTANT]
 > Admins that have self-service signup disabled must make sure that they enable it before January 31, or any users who try to log in using legacy Yammer credentials will not be able to log in. 
 
-### Step 1: Enable self-service signup
-
-This step is only required if you are in the European Union. 
+### Step 1: If self-service signup is not enabled, enable it
 
 Self-service signup can only be enabled by using Windows PowerShell. To enable self-service signup:
 1. Follow the instructions provided in [Directory self-service signup](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-self-service-signup). 
