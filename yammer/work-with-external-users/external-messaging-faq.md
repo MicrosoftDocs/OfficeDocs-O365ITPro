@@ -146,9 +146,7 @@ As an admin, you can choose to disable external messaging and external groups in
 
 To do this, you create an Exchange Online mail flow rule, and configure Yammer to enforce your rule. For instructions, see [Disable external messaging in a Yammer network](control-external-messaging-with-exchange.md). 
 
-If this security functionality is not sufficient, here are a few additional options:
-   
- - **Firewall your Yammer network:** You can use a logical firewall to prevent users from creating or joining external groups in Yammer networks, such as partner or customer organizations, hosted in that other Yammer network. However, we highly discourage restricting messaging in this manner because it will cause users to seem difficult to reach and collaborate with, with the Yammer equivalent of having an email bounce, and it will limit engagement within Yammer. 
+If this security functionality is not sufficient, you can also choose to use a logical firewall to prevent users from creating or joining external groups in Yammer networks, such as partner or customer organizations, hosted in that other Yammer network. However, we highly discourage restricting messaging in this manner because it will cause users to seem difficult to reach and collaborate with, with the Yammer equivalent of having an email bounce, and it will limit engagement within Yammer. 
     
 ### Q: What is the user experience if I disable external messaging?
 

@@ -27,7 +27,8 @@ You can set this up for your home Yammer network, or for external Yammer network
  
 ## Step 1: Define the mail flow rule in Exchange Online
 
-> [!IMPORTANT] Yammer only checks to see if any mail flow rules are defined: it does not check the content of the rules. However, Exchange Online does check the content of the rules, so you need to create a rule that won't impact mail flow.  
+> [!IMPORTANT] 
+> Yammer only checks to see if any mail flow rules are defined: it does not check the content of the rules. However, Exchange Online does check the content of the rules, so you need to create a rule that won't impact mail flow.  
 
 For steps to create a rule using the [Exchange admin center](https://docs.microsoft.com/en-us/exchange/exchange-admin-center), (see [Manage mail flow rules](https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/manage-mail-flow-rules).  
 
@@ -64,21 +65,15 @@ Yammer ignores the following conditions and actions (they are mostly about ident
 - **Conditions**
     
   - MessageSizeOver
-    
   - ContentCharacterSetContainsWord
-    
   - MessageTypeMatches
-    
   - SCLOver
-    
   - WithImportance
     
 - **Actions**
     
   - SetScl
-    
   - PrependSubject
-    
   - RemoveOME
     
 For any other mail flow rule you have in place that is not on this list, if you have configured Yammer to enforce your Exchange Online mail flow rules, Yammer will block external messaging and external groups. 
