@@ -58,7 +58,7 @@ A: No. Yammer only checks for mail flow rules established in Exchange Online.
 <a name="ETRswork"> </a> 
 ### Q: Do all Exchange Online mail flow rules work with Yammer?
 
-A:Not all mail flow rules from Exchange Online apply to Yammer. We suggest using the sample rule defined above. 
+A: Not all mail flow rules from Exchange Online apply to Yammer. We suggest using the sample rule defined above. 
 
 Yammer ignores the following conditions and actions (they are mostly about identifying spam messages):
   
