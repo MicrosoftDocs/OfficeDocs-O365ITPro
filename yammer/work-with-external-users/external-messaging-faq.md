@@ -133,41 +133,24 @@ A: [Verified admins](../manage-yammer-users/manage-yammer-admins.md) can remove 
 ### Q: If I have keyword monitoring in place, will it apply to messages external participants post in my network?
 
 Yes. Keyword monitoring applies to any posts in your network, including those from external participants.
-  
+
+<a name="OptOut"> </a> 
 ## Opt-out questions
-<a name="OptOut"> </a>
 
 > [!NOTE]
 > Only Yammer Enterprise networks can opt out of external messaging. 
   
 ### Q: I don't want external messaging and external groups enabled for my network. What options do I have to disable all of external messaging?
 
-There are two options: 
-- As an admin, you can choose to disable external messaging and external groups in your Yammer network. This blocks users from creating external groups in their home network, but still allows users to be invited to groups hosted on other networks. 
-    To do this, you create an Exchange Online mail flow rule, and configure Yammer to enforce your rule. For instructions, see [Disable external messaging in a Yammer network](control-external-messaging-with-exchange.md). 
-
-- If this security functionality is not sufficient, you can also choose to use a logical firewall to prevent users from creating or joining external groups in Yammer networks, such as partner or customer organizations, hosted in that other Yammer network.  For more information about setting up a logical firewall, see [Manage Yammer security settings](../manage-security-and-compliance/yammer-security-settings.md).
-
-    We discourage restricting messaging in this manner because it will cause users to seem difficult to reach and collaborate with, causing the Yammer equivalent of having an email bounce.
+As an admin, you can disable external messaging and external groups in your Yammer network. This blocks users from creating external groups in their home network, but still allows users to be invited to groups hosted on other networks. To do this, you create an Exchange Online mail flow rule, and configure Yammer to enforce mail flow rules. For instructions, see [Disable external messaging in a Yammer network](control-external-messaging-with-exchange.md). 
     
 ### Q: What is the user experience if I disable external messaging?
 
-If you opt out of external messaging by using an Exchange Online mail flow rule, messages that begin on your network will not be able to be shared with external participants. Users on your network will still be able to receive messages from other networks; these messages will be available to the user in their Yammer inbox. They will be able to read and respond to these messages as normal. In addition, the full thread they are participating in (including all messages on the thread) will be available in your data export. This enables you to keep track of conversations your employees are having on other networks.
-  
-If you instead use a logical firewall to prevent external messages to your users, this means they are unable to send or receive messages from other networks. If someone tries to send a message to your users, that person will receive an error message and be prevented from sending the message.
+When you opt out of external messaging by using an Exchange Online mail flow rule, messages that begin on your network will not be able to be shared with external participants. Users on your network will still be able to receive messages from other networks; these messages will be available to the user in their Yammer inbox. They will be able to read and respond to these messages as normal. In addition, the full thread they are participating in (including all messages on the thread) will be available in your data export. This enables you to keep track of conversations your employees are having on other networks.
   
 ### Q: Can I use external groups, but not external messaging?
 
-No, if you opt out for external messaging, you can't opt in for external groups. You opt out or in for both external messaging and external groups at the same time.
-  
-You use the same method to opt out of external participants and external groups. 
-  
-### Q: If I decide to use a logical firewall to prevent external messages to my users, what functionality will my network not receive?
-
-As we continue innovating Yammer, additional new capabilities are likely to be built as part of the External Messaging framework. Blocking external sharing and even more so, using a logical firewall to prevent external messages to your users, will leave some other future Yammer capabilities unavailable to customers. As we continue to work on Yammer, we will be sure to announce which features build on the External Messaging framework so companies know which features they will receive.
-  
-> [!TIP]
-> To see what's coming for Yammer, see the [Office 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=524076). 
+No, if you opt out for external messaging, you can't opt in for external groups. You opt out or in for both external messaging and external groups at the same time. You use the same method to opt out of external participants and external groups. 
   
 ## See also
 
