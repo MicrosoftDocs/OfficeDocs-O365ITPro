@@ -66,7 +66,7 @@ A: After January 31, 2019, the user's experience will change:
 
 A: If self-service sign-up is enabled, users will be redirected to the self-service signup flow and they will be able to create their own password, even if no action is taken. However, we recommend letting the users know in advance so they are not surprised by the change. 
 
-If self-service signup is not enabled, users using legacy Yammer credentials won’t be able to log in after January 31 unless you manually create at AAD account for them. 
+If self-service signup is not enabled, users using legacy Yammer credentials won’t be able to log in after January 31 unless you manually create an AAD account for them. 
 
 **Q: Will this impact guest users?** 
 
