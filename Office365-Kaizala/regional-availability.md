@@ -34,7 +34,7 @@ Kaizala is available in the following countries:
 
 6. Mexico 
 
-7. Columbia
+7. Colombia
 
 8. Argentina 
 
