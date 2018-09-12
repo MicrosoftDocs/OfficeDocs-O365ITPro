@@ -249,7 +249,8 @@ Build communities and collaboration in your organization with Yammer.
                         <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/integrate-with-other-applications" data-linktype="absolute-path">Integrate with other applications</a></p> 
                         <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/yammer-and-newsfeed" data-linktype="absolute-path">Yammer and Newsfeed</a></p> 
                         <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site" data-linktype="absolute-path">Embed a Yammer feed in a SharePoint site</a></p> 
-                        <p><a href="/en-us/SharePoint/administration/administration" data-linktype="absolute-path">Yammer and SharePoint Server</a></p> 
+                        <p><a href="/en-us/SharePoint/administration/administration" data-linktype="absolute-path">Yammer and SharePoint Server</a></p>                         
+                        <p><a href="https://developer.microsoft.com/yammer" data-linktype="absolute-path">Yammer developer documentation</a></p> 
                     </div>
                 </div>
             </div>
