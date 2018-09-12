@@ -31,7 +31,7 @@ To access the Yammer network configuration tools:
 ## Set the Yammer network name
 <a name="NetworkName"> </a>
 
-> [!Important] In Office 365 Yammer networks, the name in the Office 365 company profile overrides the **Network name** setting in Yammer. To change the Office 365 company profile settings, see [Change your organization's address, technical contact, and more](https://support.office.com/en-us/article/Change-your-organization-s-address-technical-contact-and-more-a36e5a52-4df2-479e-bb97-9e67b8483e10)
+> [!IMPORTANT] In Office 365 Yammer networks, the name in the Office 365 company profile overrides the **Network name** setting in Yammer. To change the Office 365 company profile settings, see [Change your organization's address, technical contact, and more](https://support.office.com/en-us/article/Change-your-organization-s-address-technical-contact-and-more-a36e5a52-4df2-479e-bb97-9e67b8483e10)
 
 - On the **Configuration** page, in the **Basics** section, specify the following: 
     
@@ -65,16 +65,16 @@ To access the Yammer network configuration tools:
   
 3. To restrict who can upload files, clear the **Allow people to upload and attach files in any format** checkbox. You'll then see three options: 
     
-  - **Allow people to upload and attach files in any format**
+      - **Allow people to upload and attach files in any format**
     
-  - **Only allow people to upload and attach image or video files**: Limits attachements to images and videos. Yammer determines file type by extension. 
+      - **Only allow people to upload and attach image or video files**: Limits attachements to images and videos. Yammer determines file type by extension. 
     
-     Yammer uses Azure Media Services to make videos viewable within the network. For more information, see [Azure Media Services](https://go.microsoft.com/fwlink/?LinkId=698736).
+         Yammer uses Azure Media Services to make videos viewable within the network. For more information, see [Azure Media Services](https://go.microsoft.com/fwlink/?LinkId=698736).
     
-  - **Don't allow anyone to upload or attach files**: This prevents people from uploading and attaching new files; however, existing attachments are not be affected.
+      - **Don't allow anyone to upload or attach files**: This prevents people from uploading and attaching new files; however, existing attachments are not be affected.
     
 > [!TIP]
-> Any admin can delete any file, and group admins can delete files posted to the groups that they manage.<br><br>To delete files, a network admin can click the Yammer **Settings** icon and then click **Files**. This brings up the **Files** directory for the entire network. Group Admins can delete files posted to a group by going to the **Files** tab within the group they administer. 
+> Any admin can delete any file, and group admins can delete files posted to the groups that they manage.<br><br>To delete files, a network admin can click the Yammer **Settings** icon and then click **Files**. This brings up the **Files** directory for the entire network. Group admins can delete files posted to a group by going to the **Files** tab within the group they administer. 
   
 ## Enable or restrict the use of third-party apps
 <a name="RestrictApps"> </a>
