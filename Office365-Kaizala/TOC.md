@@ -23,5 +23,5 @@
 ### [Troubleshoot notifications](troubleshoot-notifications.md)
 ### [Export or delete a user's data](export-or-delete-a-user-s-data.md)
 ### [Export or delete your data](export-or-delete-your-data.md)
-# [Kaizala for developers](kaizala-for-developers.md)
+## [Kaizala for developers](kaizala-for-developers.md)
 
