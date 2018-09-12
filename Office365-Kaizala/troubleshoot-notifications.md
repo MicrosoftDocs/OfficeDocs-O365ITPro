@@ -20,7 +20,7 @@ description: Learn how to solve Kaizala notification issues on certain devices.
 
 # Troubleshoot Kaizala notifications
 
-Some devices have certain notifications off by default so you might miss notifications from Kaizala. This topic discusses how to solve these notification issues on certain devices. If you don't see your device's notification info in this list, check out your device manufacturers help pages for info on how to turn on notifications for apps on your device
+Some devices have certain notifications off by default, so you might miss notifications from Kaizala. This topic discusses how to solve these notification issues on certain devices. If you don't see your device's notification info in this list, check your device manufacturer's help pages for info on how to turn on notifications for apps on your device.
   
 ## One Plus A3003
 
@@ -54,7 +54,7 @@ There are a couple of things you'll have to do to turn on the notifications on t
     
  **You'll also need to change an option in your Android 6.0 version and later.**
   
-1. Go to **Settings** and open the apps section, and then go to ** Advanced **.
+1. Go to **Settings** and open the apps section. Then go to ** Advanced **.
     
 2. Go to **Ignore Battery Optimizations**.
     
@@ -64,7 +64,7 @@ There are a couple of things you'll have to do to turn on the notifications on t
   
 1. Go to **Settings** \> **Battery**.
     
-2. Go to Kaizala and turn off **Freeze in background** \> **Automatically optimise when an abnormality is detected**
+2. Go to Kaizala and turn off **Freeze in background** \> **Automatically optimise when an abnormality is detected**.
     
 Now allow notifications.
   
@@ -78,9 +78,7 @@ Now auto-start for Kaizala.
     
 2. Go to **Startup Manager** and make sure **Startup in background** is turned on. 
     
-If you've tried all the above steps and you're still having issues, you can try the locking Kaizala in the recent apps overview panel. This will make sure that Kaizala is always running in the background. To do this, open Kaizala, hit the square (aka 'app overview') button on the navigation bar, then pull down on Kaizala to lock it into place.
-  
-1. Open Kaizala on your device, and tap **App overview** on the navigation bar, and then pull Kaizala donw to lock it to the apps overview panel. 
+If you've tried all the above steps and are still having issues, you can try locking Kaizala in the recent apps overview panel. This will make sure that Kaizala is always running in the background. To do this, open Kaizala, hit the square (aka 'app overview') button on the navigation bar, then pull down on Kaizala to lock it into place. 
     
 ## Xiaomi
 
@@ -90,13 +88,11 @@ If you've tried all the above steps and you're still having issues, you can try 
     
 ## Samsung Galaxy Grand 2
 
-You'll need to change an option in your Android 6.0 version and later.
-  
-Go to Settings Smart Manager -\> Battery Go to App Power Saving section and click on Detail button Land on App Power Saving page and turn it off for Kaizala
+You'll need to change an option in your Android with version 6.0 and later.
   
 1. Go to **Settings** \> **Battery**.
     
-2. Go to **App Power Saving** and tap on **Detail**.
+2. Go to **App Power Saving** and tap **Detail**.
     
 3. On the **App Power Saving** page, make sure it's turned off. 
     

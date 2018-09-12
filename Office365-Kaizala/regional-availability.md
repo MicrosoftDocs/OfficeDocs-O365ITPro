@@ -20,7 +20,7 @@ description: Learn which regional areas Kaizala is now available.
 
 # Kaizala regional availability
 
-Kaizala is available in the following countries:
+Kaizala is currently available in the following countries:
   
 1. India
  
