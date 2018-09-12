@@ -24,7 +24,7 @@ As a Kaizala user, you can export or delete your data from the Kaizala mobile ap
   
 ## Export your data from the Kaizala mobile app
 
-Follow the below steps to export your data using the Kaizala mobile app.
+Follow the steps mentioned below to export your data using the Kaizala mobile app:
   
 - From the Kaizala mobile app, go to **Me** \> **Settings** \> **Account Settings** \> **Download your Kaizala data**.
     
@@ -33,7 +33,7 @@ Follow the below steps to export your data using the Kaizala mobile app.
 ## Delete your user data from Kaizala mobile app
 <a name="BKMK_Todeletespecificpersonaldata"> </a>
 
-You can delete your Kaizala account and data from the Kaizala mobile app. When you delete your account from Kaizala the following happens:
+You can delete your Kaizala account and data from the Kaizala mobile app. When you delete your account from Kaizala, the following happens:
   
 - Your account is removed.
     
@@ -47,8 +47,8 @@ You can delete your Kaizala account and data from the Kaizala mobile app. When y
     
 - Follow the steps to delete your account on Kaizala.
     
-- For security reasons, you'll be asked to verify your account by entering your Kaizala registered mobile number before your account can be deleted.
+- For security reasons, you'll be asked to authenticate yourself by entering your Kaizala registered mobile number, before your account can be deleted.
     
-This will delete your data from the Kaizala mobile app, including profile information, membership in groups, contacts, and any Kaizala product and service data. Messages shared on any chat or group will still appear on other Kaizala mobile app's user's devices.
+This will delete your data from the Kaizala mobile app, including profile information, membership in groups, contacts, and any Kaizala product and service data. Messages shared on any chat or group will still appear on devices of other Kaizala mobile app users.
   
 
