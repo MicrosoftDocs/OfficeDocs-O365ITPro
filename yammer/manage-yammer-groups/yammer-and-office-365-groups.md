@@ -94,8 +94,12 @@ A: No. That setting is not available for Office 365 connected Yammer groups.
 
 **Q: Can I use an existing group or SharePoint site for an Office 365 connected Yammer group?**
 
-A: No, a new group and resources specific to that new group are created when you create an Office 365 connected group in Yammer. You can't connect it to an existing Office 365 group, an existing SharePoint site or SharePoint document library, or an existing OneNote notebook.
+A: No, a new group and resources specific to that new group are created when you create an Office 365 connected group in Yammer. You can't connect a new Yammer group to an existing Office 365 group, an existing SharePoint site or SharePoint document library, or an existing OneNote notebook.
   
+**Q: Can I hide an Office 365 connected group from the Global Address Book?**
+
+A: Yes. Set-mailbox -identity SMO-Teamwebsite -HiddenFromAddressListsEnabled $true
+
  **Q: Where can I create Office 365 connected Yammer groups?**
   
 A: Only in Yammer.

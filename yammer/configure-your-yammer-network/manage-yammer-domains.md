@@ -72,12 +72,13 @@ To change the displayed network name shown below, change the **name** in the Off
  
    ![List of Yammer groups on the Yammer page](../media/0a1125b1-74d2-4ea5-b8e4-6d52456a527e.jpg)
   
-## Change the default domain
-When the default domain changes in Office 365 to a verified domain, for example, contosoart.com, the primary domain of the corresponding Yammer network is updated. The updated Yammer primary domain, for example, contosoart.com, is used whenever you invite a new user to Yammer.
+## Change the Yammer primary domain
+
+If you have just one domain in Office 365, when the default domain changes in Office 365 to a verified domain, the primary domain of the corresponding Yammer network is updated. The updated Yammer primary domain, for example, contosoart.com, is used whenever you invite a new user to Yammer.
     
    ![The primary domain shows when you invite users to your Yammer group](../media/5d98c158-3ce4-4404-97e9-1557382216e8.png)
   
-If the default domain is the initial domain that ends with .onmicrosoft.com, or the Office 365 tenant is associated with more than one Yammer network, the primary domain of the corresponding Yammer network will not be updated.
+If the default domain is the initial domain that ends with .onmicrosoft.com, or if your Office 365 tenant has multiple domains, the primary domain of the corresponding Yammer network will not be updated.
   
 ## If your Yammer network has domains not verified on the Office 365 tenant
 

@@ -31,7 +31,8 @@ To access the Yammer network configuration tools:
 ## Set the Yammer network name
 <a name="NetworkName"> </a>
 
-> [!IMPORTANT] In Office 365 Yammer networks, the name in the Office 365 company profile overrides the **Network name** setting in Yammer. To change the Office 365 company profile settings, see [Change your organization's address, technical contact, and more](https://support.office.com/en-us/article/Change-your-organization-s-address-technical-contact-and-more-a36e5a52-4df2-479e-bb97-9e67b8483e10)
+> [!IMPORTANT] 
+> In Office 365 Yammer networks, the name in the Office 365 company profile overrides the **Network name** setting in Yammer. To change the Office 365 company profile settings, see [Change your organization's address, technical contact, and more](https://support.office.com/en-us/article/Change-your-organization-s-address-technical-contact-and-more-a36e5a52-4df2-479e-bb97-9e67b8483e10)
 
 - On the **Configuration** page, in the **Basics** section, specify the following: 
     

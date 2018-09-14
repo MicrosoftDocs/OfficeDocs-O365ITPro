@@ -104,7 +104,9 @@ A: We understand that some organizations might have a variety of business and le
 
 **Q: What if I need to move data from the secondary Yammer networks to the primary Yammer network?**  
 
-A: Yammer doesn’t offer this functionality. We only offer the option to export all of one network’s data into a zip folder. However, there are Microsoft partners that provide this service. If you’re interested, please reach out to our support team so that we can put you in touch with our partners. To contact support, see Contact support for business products. Instructions for exporting data can be found in Export data from Yammer Enterprise and Export data from Yammer Basic. 
+A: Yammer doesn’t offer this functionality. We only offer the option to export all of one network’s data into a zip folder. Instructions for exporting data can be found in [Export data from Yammer Enterprise](../manage-security-and-compliance/export-yammer-enterprise-data.md).
+
+There are Microsoft partners that can help you move data. If you’re interested, please reach out to your Microsoft Account Team, or [contact a partner](https://products.office.com/en-us/yammer/partners).  
 
 **Q: What happens if a new Yammer network is added after the due date?**  
 
