@@ -58,6 +58,10 @@ You can send an email to a group in Yammer and it will appear in the group messa
   
 Email notifications may be sent to users depending on the preferences that they have set in their Yammer notification settings. This applies both to connected and non-connected groups.
   
+## What happens when you create a new Office 365 connected Yammer group
+
+When you create an Office 365 connected group, in addition to your regular Yammer group features, the new Office 365 group is created, and a new SharePoint site and document library, OneNote notebook, and Planner are created for the group. These resources can be accessed from the Yammer group page in Yammer.
+
 ## Plans for additional integration with Office 365 Groups
 
 Yammer's integration with Office 365 Groups started in 2017. Subsequent phases will address remaining groups types, Office 365 tenants, and deliver integration with Outlook calendar and enhancements for SharePoint and Planner. The best place to stay informed of change management is to follow the Yammer updates on the [Office 365 Roadmap](https://fasttrack.microsoft.com/roadmap).
@@ -87,6 +91,10 @@ A: To start with, only private and public internal groups will be enabled. Exter
  **Q: Can I make my Office 365 connected Yammer group private and not list it in Group Directory (secret)?**
   
 A: No. That setting is not available for Office 365 connected Yammer groups.
+
+**Q: Can I use an existing group or SharePoint site for an Office 365 connected Yammer group?**
+
+A: No, a new group and resources specific to that new group are created when you create an Office 365 connected group in Yammer. You can't connect it to an existing Office 365 group, an existing SharePoint site or SharePoint document library, or an existing OneNote notebook.
   
  **Q: Where can I create Office 365 connected Yammer groups?**
   
