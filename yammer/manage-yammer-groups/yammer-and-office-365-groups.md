@@ -3,7 +3,7 @@ title: "Yammer and Office 365 Groups"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 8/31/2018
+ms.date: 9/14/2018
 ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration
@@ -21,7 +21,9 @@ description: "If your network is eligible, groups in Yammer can have access to O
 
 # Yammer and Office 365 Groups
 
-If your Yammer network is eligible, you can use Office 365 connected groups in Yammer. You can tell if a group in Yammer is an Office 365 connected group when you see the **Office 365 Resources** section in the right navigation of the Yammer group: 
+If your Yammer network is eligible, you can use Office 365 connected groups in Yammer. 
+
+You can tell if a group in Yammer is an Office 365 connected group when you see the **Office 365 Resources** section in the right navigation of the Yammer group: 
   
 ![Screenshot showing Office 365 Resources](../media/195dd76c-6007-469e-9242-7889a3b217a9.png)
 
@@ -66,11 +68,11 @@ When you create an Office 365 connected group, in addition to your regular Yamme
 
 Yammer's integration with Office 365 Groups started in 2017. Subsequent phases will address remaining groups types, Office 365 tenants, and deliver integration with Outlook calendar and enhancements for SharePoint and Planner. The best place to stay informed of change management is to follow the Yammer updates on the [Office 365 Roadmap](https://fasttrack.microsoft.com/roadmap).
   
-## FAQ
+## FAQ - Eligibility
 
  **Q: I'm an admin, how do I know if my Yammer network is configured correctly and eligible for Office 365 connected Yammer groups?**
   
-A: In the Yammer admin center, click **Security Settings**. In the **Office 365 Connected Yammer Groups** section, you'll see the status for your network. 
+A: In the Yammer admin center, go to **Network Admin > Security Settings**. In the **Office 365 Connected Yammer Groups** section, you'll see the status for your network. 
   
  **Q: Can I disable Office 365 Yammer Connected Groups?**
   
@@ -84,11 +86,26 @@ A: No. Groups created by people who you have restricted from creating Office 365
   
 A: No. The Office 365 connected Yammer groups experience will work only for Office 365 tenant that is associated with a single Yammer network. See [Network migration: Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md) for information on how to consolidate your Yammer networks. This  is required for all Yammer networks as of October 16, 2018.
   
- **Q: What kinds of Yammer groups can be Office 365 Groups?**
+  **Q: If I become eligible for connected groups, what happens?**
   
-A: To start with, only private and public internal groups will be enabled. External groups and private-unlisted groups will be included in a later wave.
+We will begin connecting your existing groups as new groups get created in your Yammer network.
+
+**Q: I don't want my existing groups to get connected to Office 365. Can I turn this off?**
   
- **Q: Can I make my Office 365 connected Yammer group private and not list it in Group Directory (secret)?**
+A: No, but you can [Manage who can create Office 365 Groups](https://support.office.com/article/4c46c8cb-17d0-44b5-9776-005fced8e618) which will also apply to the backfill for existing groups. Only groups owned by users with group creation privileges will be connected to Office 365. If you apply new a creation policy, this will not retroactively change groups that are connected to Office 365. This will only impact new groups moving forward. 
+
+ **Q: How does Office 365 First Release fit into Yammer integration with Office 365 Groups?**
+  
+A: Yammer uses A/B Testing to inform product decisions which is a process that includes all users in all networks. You cannot opt-in or opt-out to Yammer A/B Testing. Other Office 365 properties like SharePoint Online and Planner employ the Office 365 First Release program which may manage access to new capabilities and changes within that technology. For more information on Office 365 First Release program, see [How Office 365 commercial customers can get early access to new Office 2016 features](https://support.office.com/article/4dd8ba40-73c0-4468-b778-c7b744d03ead).
+  
+
+## FAQ - General
+
+**Q: What kinds of Yammer groups can be Office 365 connected Yammer groups?**
+  
+A: To start with, only private and public internal groups. External groups and private-unlisted groups will be included in a later wave.
+  
+ **Q: Can I make my Office 365 connected Yammer group private and not list it in the Group Directory (secret)?**
   
 A: No. That setting is not available for Office 365 connected Yammer groups.
 
@@ -98,27 +115,23 @@ A: No, a new group and resources specific to that new group are created when you
   
 **Q: Can I hide an Office 365 connected group from the Global Address Book?**
 
-A: Yes. Set-mailbox -identity SMO-Teamwebsite -HiddenFromAddressListsEnabled $true
+A: Yes. This requires using PowerShell. Use the following cmdlet:
+
+```Set-UnifiedGroup -Identity [group_name] -HiddenFromAddressListsEnabled $true```
+
+For more information about Set-UnifiedGroup, see [Set-UnifiedGroup](https://technet.microsoft.com/en-us/library/mt238274(v=exchg.160).asp).
 
  **Q: Where can I create Office 365 connected Yammer groups?**
   
-A: Only in Yammer.
+A: Office 365 connected Yammer groups can only be created in Yammer. Office 365 groups created in other locations do not include a Yammer group.
   
  **Q: Can I create an Office 365 connected Yammer group in the Office 365 admin center?**
   
-A: No, this will be added in later waves. However, for Office 365 connected groups, you can manage members and delete groups from the Office 365 admin center. Metadata updates can also be applied to groups from the admin center.
+A: No, this will be added in later waves. However, for Office 365 connected Yammer groups, you can manage members and delete groups from the Office 365 admin center. Metadata updates can also be applied to groups from the admin center.
   
- **Q: Can I add external users to** **Office 365 connected Yammer groups?**
+ **Q: Can I add external users to Office 365 connected Yammer groups?**
   
 A: No. This will cause a sync failure because external users are not managed by Azure AD.
-  
- **Q: I don't want my existing groups to get connected to Office 365. Can I turn this off?**
-  
-A: No, but you can [Manage who can create Office 365 Groups](https://support.office.com/article/4c46c8cb-17d0-44b5-9776-005fced8e618) which will also apply to the backfill for existing groups. Only groups owned by users with group creation privileges will be connected to Office 365. If you apply new a creation policy, this will not retroactively change groups that are connected to Office 365. This will only impact new groups moving forward. 
-  
- **Q: If I become eligible for connected groups, what happens?**
-  
-We will begin connecting your existing groups as new groups get created.
   
  **Q: How many members can my group have?**
   
@@ -126,15 +139,15 @@ A: More than 1,000.
   
  **Q: What happens if I delete an Office 365 connected Yammer group?**
   
-A: As with all Office 365 groups, all the content associated with the group is deleted. This includes the document library, OneNote notebook and Planner plans. See this article about [Delete a group](https://support.office.com/article/ca7f5a9e-ae4f-4cbe-a4bc-89c469d1726f) for details. 
+A: All the associated Office 365 content associated with the group is deleted. This includes the document library, OneNote notebook and Planner plans. These resources are soft-deleted, and can be restored by your administrator for up to 30 days. 
 
-The Office 365 resources are soft-deleted, and can be restored by your administrator for up to 30 days. For Yammer conversations in the group, if you have set your data retention settings to **Hard delete**, Yammer conversations can't be restored.
-  
- **Q: Can I have a group with dynamic membership in Yammer**
+For more information about deleting a group, see [Delete a group in Yammer](https://support.office.com/article/f03ab85a-c1d9-4611-ab92-a3b46d747053). 
+
+ **Q: Can I have an Office 365 connected Yammer group with dynamic membership**
   
 A: Yes. Any Office 365 connected Yammer group can be converted to dynamic membership. See [Create a dynamic group](create-a-dynamic-group.md) for requirements and limitations.
   
- **Q:** **In a new group, I see there are Yammer Files and a SharePoint Online Doc Library, are these the same thing?**
+ **Q:** **In a new connected group, I see there are Yammer Files and a SharePoint Online Doc Library, are these the same thing?**
   
 A: No, these are separate locations to store files but the members of the group have access to both locations. Files uploaded to Yammer are stored in Azure today and will remain so for the time being, while retaining all their current permissions and capabilities. With Office 365 connected Yammer groups, users will also be able to upload and store files in their group's SharePoint document library. 
   
@@ -144,12 +157,11 @@ We recommend storing content that needs the structure and management capabilitie
   
 A: Yes. Any new group created in Yammer will add the prefix and suffix from the group naming policy, and will not allow blocked words in the group name. For more information, see [Office 365 Groups naming policy](https://support.office.com/article/6ceca4d3-cad1-4532-9f0f-d469dfbbb552).
   
- **Q: How does Office 365 First Release fit into Yammer integration with Office 365 Groups?**
-  
-A: Yammer uses A/B Testing to inform product decisions which is a process that includes all users in all networks. You cannot opt-in nor opt-out to Yammer A/B Testing. Other Office 365 properties like SPO and Planner employ the Office 365 First Release program which may manage access to new capabilities and changes within that technology. For more information on Office 365 First Release program, see [How Office 365 commercial customers can get early access to new Office 2016 features](https://support.office.com/article/4dd8ba40-73c0-4468-b778-c7b744d03ead).
   
 ## See also
 
 [Create a group in Yammer](https://support.office.com/article/b407af4f-9a58-4b12-b43e-afbb1b07c889)
   
 [Manage a group in Yammer](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2.aspx)
+
+[Delete a group in Yammer](https://support.office.com/article/f03ab85a-c1d9-4611-ab92-a3b46d747053.aspx)
