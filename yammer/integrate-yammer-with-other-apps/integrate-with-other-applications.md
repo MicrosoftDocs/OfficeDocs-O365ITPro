@@ -27,9 +27,13 @@ Yammer offers a variety of integrations to help make other applications more mob
 
 Add Yammer feeds to your SharePoint sites with Yammer Embed. See [Embed a Yammer feed into a SharePoint site](embed-a-feed-into-a-sharepoint-site.md).
   
-## Yammer Embed and Yammer Connect
+## Yammer Embed
 
-Yammer Connect is a host of social plug‐ins that gives you the flexibility to extend Yammer's social functionality across enterprise applications. [Yammer Embed](https://go.microsoft.com/fwlink/?LinkId=524147) delivers Yammer feeds to existing business applications, such as Skype for Business, the company intranet, CRM tools, or content management systems. 
+ [Yammer Embed](https://go.microsoft.com/fwlink/?LinkId=524147) delivers Yammer feeds to existing business applications, such as Skype for Business, the company intranet, CRM tools, or content management systems. 
+
+## Yammer Connect
+
+The [Yammer connector](https://docs.microsoft.com/en-us/connectors/yammer/) is a host of social plug‐ins that gives you the flexibility to extend Yammer's social functionality across enterprise applications. 
   
 ## Yammer and Skype for Business
 

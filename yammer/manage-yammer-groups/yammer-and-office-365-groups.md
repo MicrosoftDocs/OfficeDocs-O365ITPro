@@ -94,7 +94,7 @@ A: Only in Yammer.
   
  **Q: Can I create an Office 365 connected Yammer group in the Office 365 admin center?**
   
-A: No, this will be added in later waves. However, you will be able to manage members and delete groups from the Office 365 admin center. Metadata updates can also be applied to groups from the admin center.
+A: No, this will be added in later waves. However, for Office 365 connected groups, you can manage members and delete groups from the Office 365 admin center. Metadata updates can also be applied to groups from the admin center.
   
  **Q: Can I add external users to** **Office 365 connected Yammer groups?**
   
@@ -106,7 +106,7 @@ A: No, but you can [Manage who can create Office 365 Groups](https://support.off
   
  **Q: If I become eligible for connected groups, what happens?**
   
-We will begin connecting your existing groups as new groups get connected.
+We will begin connecting your existing groups as new groups get created.
   
  **Q: How many members can my group have?**
   
@@ -115,10 +115,12 @@ A: More than 1,000.
  **Q: What happens if I delete an Office 365 connected Yammer group?**
   
 A: As with all Office 365 groups, all the content associated with the group is deleted. This includes the document library, OneNote notebook and Planner plans. See this article about [Delete a group](https://support.office.com/article/ca7f5a9e-ae4f-4cbe-a4bc-89c469d1726f) for details. 
+
+The Office 365 resources are soft-deleted, and can be restored by your administrator for up to 30 days. For Yammer conversations in the group, if you have set your data retention settings to **Hard delete**, Yammer conversations can't be restored.
   
  **Q: Can I have a group with dynamic membership in Yammer**
   
-A: Yes. Any Office 365 connected Yammer group can be converted to dynamic membership. See [this article](create-a-dynamic-group.md) for requirements and limitations.
+A: Yes. Any Office 365 connected Yammer group can be converted to dynamic membership. See [Create a dynamic group](create-a-dynamic-group.md) for requirements and limitations.
   
  **Q:** **In a new group, I see there are Yammer Files and a SharePoint Online Doc Library, are these the same thing?**
   
