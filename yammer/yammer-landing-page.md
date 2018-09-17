@@ -230,7 +230,6 @@ Build communities and collaboration in your organization with Yammer.
                         <p><a href="https://support.office.com/en-us/article/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2" data-linktype="absolute-path">Manage a Yammer group</a></p> 
                         <p><a href="https://support.office.com/en-us/article/f03ab85a-c1d9-4611-ab92-a3b46d747053" data-linktype="absolute-path">Delete a Yammer group</a></p> 
                         <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-and-office-365-groups" data-linktype="absolute-path">Yammer and Office 365 connected groups</a></p>                         
-                        <p><a href="https://support.office.com/en-us/article/delete-a-group-ca7f5a9e-ae4f-4cbe-a4bc-89c469d1726f?ui=en-US&rs=en-US&ad=US" data-linktype="absolute-path">Delete an Office 365 group</a></p> 
                         <p><a href="https://support.office.com/en-us/article/office-365-groups-naming-policy-6ceca4d3-cad1-4532-9f0f-d469dfbbb552?ui=en-US&rs=en-US&ad=US" data-linktype="absolute-path">Office 365 groups naming policy</a></p> 
                         <p><a href="https://support.office.com/en-us/article/manage-who-can-create-office-365-groups-4c46c8cb-17d0-44b5-9776-005fced8e618" data-linktype="absolute-path">Manage who can create Office 365 groups</a></p> 
                         <p><a href="/en-us/Yammer/manage-yammer-groups/create-a-dynamic-group" data-linktype="absolute-path">Create a dynamic group</a></p> 
