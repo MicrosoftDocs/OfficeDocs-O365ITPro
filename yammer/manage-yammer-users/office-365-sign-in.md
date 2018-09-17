@@ -94,7 +94,7 @@ A: The Office 365 sign-in for Yammer will respect any Office 365 federation sett
     
 **Q: Can I combine Yammer networks in order to take advantage of Office 365 sign-in for Yammer?**
 
-A: Yes, this is required as of October 26, 2018. For more information, see [Network migration: Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md).
+A: Yes, this is required as of October 16, 2018. For more information, see [Network migration: Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md).
     
 ## See also
 

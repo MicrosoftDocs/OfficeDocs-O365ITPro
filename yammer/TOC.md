@@ -46,6 +46,7 @@
 ### [External messaging FAQ](work-with-external-users/external-messaging-faq.md)
 ## [Manage Yammer groups](manage-yammer-groups/yammer-and-office-365-groups.md)
 ### [Yammer and Office 365 groups](manage-yammer-groups/yammer-and-office-365-groups.md)
+### [Delete a Yammer group](https://support.office.com/en-us/article/f03ab85a-c1d9-4611-ab92-a3b46d747053)
 ### [Create a dynamic group](manage-yammer-groups/create-a-dynamic-group.md)
 ### [Live events in Yammer](manage-yammer-groups/yammer-live-events.md)
 ## [Integrate Yammer with other apps](integrate-yammer-with-other-apps/integrate-with-other-applications.md)

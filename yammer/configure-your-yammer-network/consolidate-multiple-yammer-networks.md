@@ -16,7 +16,7 @@ description: Migrate one or more secondary Yammer networks into a primary Yammer
 
 # Network migration - Consolidate multiple Yammer networks
 
-If you have multiple email domains in your Office 365 tenant and those email domains are spread across two or more Yammer networks, consolidating into one Yammer network will be required as of September 26, 2018. 
+If you have multiple email domains in your Office 365 tenant and those email domains are spread across two or more Yammer networks, consolidating into one Yammer network will be required as of October 16, 2018. 
   
 This article is only necessary if you have multiple Yammer networks, for example if your company has multiple business units or subsidiaries, each with its own Yammer network. 
   
@@ -28,9 +28,9 @@ Here are the basic steps:
 |:-----|:-----|
 |**Step** <br/> |**Description** <br/> |
 |[Step 1: Plan](consolidate-multiple-yammer-networks.md#Plan) <br/> |Identify the Yammer networks to consolidate, identify data to export and upload, plan any needed changes to group structure and membership in the primary network, and plan communication with your users.  <br/> |
-|[Step 2: Export content from primary networks](consolidate-multiple-yammer-networks.md#Export) <br/> |Export all content from secondary Yammer networks. Migration only migrates users, not data. No-one can access the secondary network after the migration begins.  <br/> |
+|[Step 2: Export content from primary networks](consolidate-multiple-yammer-networks.md#Export) <br/> |IMPORTANT: Migration only migrates users, not content. <br/>Export all content from secondary Yammer networks that you might want to access later, as there won't be any way to access the content otherwise. No-one can access the secondary network after the migration begins. |
 |[Step 3: Communicate with all users before the migration](consolidate-multiple-yammer-networks.md#Precommunicate) <br/> |Use the sample communication below to let everyone on the secondary networks know the purpose of the change, the timing, what information will be kept, and the group structure in the primary network. Recommend that users save information they want to keep before the migration start date, such as files and data in conversations. Let primary network users know that more people are joining.  <br/> |
-|[Step 4: Perform the network migration](consolidate-multiple-yammer-networks.md#self-service) <br/> |Run the network migration tool once for each secondary network. The tool migrates all users from the secondary Yammer network into the primary Yammer network, and turns off the secondary network. It does not migrate any conversation or file data.  <br/> |
+|[Step 4: Perform the network migration](consolidate-multiple-yammer-networks.md#self-service) <br/> |Run the network migration tool once for each secondary network. The tool migrates all users from the secondary Yammer network into the primary Yammer network, and turns off the secondary network. It does not migrate any conversations or files.  <br/> |
 |[Step 5: Make primary network changes](consolidate-multiple-yammer-networks.md#parentchanges) <br/> |Adjust the structure of your primary Yammer network so it meets the needs of users who will be joining it. Create groups, invite members to the groups, and upload files that you exported.  <br/> |
 |[Step 6: Communicate with all users after the migration](consolidate-multiple-yammer-networks.md#aftercommunicate) <br/> |Let everyone know the consolidated Yammer network is ready to use.  <br/> |
   
@@ -114,6 +114,8 @@ For information about how to export all Yammer data for a secondary network, see
 <a name="Precommunicate"> </a>
 
 Use the sample communication below to let everyone on the secondary networks know the purpose of the change, the timing, what information will be kept, and the group structure in the primary network. Recommend that users save information they want to keep before the migration start date, such as files and data in conversations. Let primary network users know that more people are joining.
+
+To communicate with all users on a network, you can use the Yammer **All Company** group, or, to contact people by email, for Yammer Enterprise, you can export the Yammer users list. For instructions, see [Export data from Yammer Enterprise](https://docs.microsoft.com/en-us/yammer/manage-security-and-compliance/export-yammer-enterprise-data). For Yammer Basic, there is not a way to get all email addresses. In both Yammer Enterprise and Yammer Basic, you can get all email addresses in a specific group. For instructions, see [Export Yammer group members to a .csv file](https://support.office.com/en-us/article/export-yammer-group-members-to-a-csv-file-201a78fd-67b8-42c3-9247-79e79f92b535).
   
 ### Sample pre-migration communication to people currently using secondary Yammer networks
 
