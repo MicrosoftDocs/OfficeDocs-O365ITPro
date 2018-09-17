@@ -3,7 +3,7 @@ title: "Manage Yammer domains in Office 365"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 9/14/2018
+ms.date: 9/17/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -60,17 +60,20 @@ For instructions, follow the steps in [Remove a domain from Office 365](https://
 
 If instead you want to consolidate multiple domains into one Yammer network, see [Consolidate multiple Yammer networks](https://docs.microsoft.com/en-us/Yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) and [FAQ: Consolidating multiple Yammer networks](https://docs.microsoft.com/en-us/Yammer/configure-your-yammer-network/faq-consolidate-multiple-yammer-networks).
 
-## Change the domain for a Yammer network
-<a name="change"></a>
-
-When your Yammer domains are managed in Office 365, to change anything about the domain, you must make the change in the Office 365 admin center. You can't just change the Yammer network. For information about Office 365 domains, see [Office 365 domains FAQ](https://support.office.com/en-us/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
-
 ## Change the network name displayed in the left navigation in Yammer
 
 To change the displayed network name shown below, change the **name** in the Office 365 Organization profile. This overrides the **Network Name** set in the Yammer Network admin. For steps, see [Change your organization's address, technical contact, and more](https://support.office.com/en-us/article/Change-your-organization-s-address-technical-contact-and-more-a36e5a52-4df2-479e-bb97-9e67b8483e10).
  
    ![List of Yammer groups on the Yammer page](../media/0a1125b1-74d2-4ea5-b8e4-6d52456a527e.jpg)
   
+## Change the Yammer primary domain
+
+If you have just one domain in Office 365, when the default domain changes in Office 365 to a verified domain, the primary domain of the corresponding Yammer network is updated. 
+
+## Change the Yammer primary domain when you use a federated domain as your Office 365 default domain
+
+Contact Yammer support to help you do this domain setup. 
+
 ## If your Yammer network has domains not verified on the Office 365 tenant
 
 If your Yammer network has domains that are not verified on the corresponding Office 365 tenant, you can't manage your domains from Office 365. For example:
