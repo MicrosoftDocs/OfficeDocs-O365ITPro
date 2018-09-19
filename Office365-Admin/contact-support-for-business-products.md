@@ -53,7 +53,7 @@ description: "Learn how to get technical, billing, or account support for Office
     
 - **In the United Kingdom, call 0800 032 6417.**
     
-If your Office 365 or Microsoft 365 Business support phone number isn't listed above, use the dropdown menu below to choose your country or region.
+If your Office 365 or Microsoft 365 Business support phone number isn't listed above, use the dropdown menu below to choose your country or region. 
 > [!div class="op_single_selector"]
 
 > - **Select your country or region**
