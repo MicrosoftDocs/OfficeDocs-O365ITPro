@@ -10,6 +10,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_Yammer
 search.appverid:
+- MET150
 - MOE150
 - YAE150
 ms.assetid: 4f6763f4-23e2-43b0-a554-08931295e863

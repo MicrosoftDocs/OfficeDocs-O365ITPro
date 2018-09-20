@@ -12,10 +12,11 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_Yammer
 search.appverid:
+- MET150
 - MOE150
 - YAE150
 ms.assetid: 008f940b-6bec-47fc-bcc6-9c6133467562
-description: "Your Yammers users can log in seamelessly to Yammer, just like any other Office 365 service when you enforce Office 365 identity in Yammer."
+description: "When you enforce Office 365 identity in Yammer, all Yammer users use their Office 365 credentials to log in to Yammer."
 ---
 
 # Enforce Office 365 identity for Yammer users
