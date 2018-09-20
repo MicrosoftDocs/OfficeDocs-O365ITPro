@@ -9,7 +9,9 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_Yammer
-search.appverid: MOE150
+search.appverid: 
+- MET150
+- MOE150
 ms.assetid: 60850824-47ba-4927-91a7-268d28f5fb52
 description: "Change the color and images used in various parts of Yammer."
 ---

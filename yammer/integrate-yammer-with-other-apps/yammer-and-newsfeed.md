@@ -14,6 +14,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_Yammer
 search.appverid:
+- MET150
 - SPO160
 - MOE150
 - MED150

@@ -8,7 +8,9 @@ ms.audience: End User
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-search.appverid: MOE150
+search.appverid: 
+- MET150
+- MOE150
 ms.assetid: 87d0cd1c-306c-4b19-9f86-397c3c4615dc
 description: "In Yammer Basic, manage GDPR data subject requests."
 ---

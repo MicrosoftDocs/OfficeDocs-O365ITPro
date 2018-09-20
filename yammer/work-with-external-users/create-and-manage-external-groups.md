@@ -9,7 +9,9 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_Yammer
-search.appverid: YAE150
+search.appverid: 
+- MET150
+- YAE150
 ms.assetid: 9ccd15ce-0efc-4dc1-81bc-4a424ab6f92a
 description: "Learn about external groups in Yammer and how to opt out if you don't want external groups."
 ---

@@ -9,7 +9,8 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_Yammer
-search.appverid: MET150
+search.appverid: 
+- MET150
 ms.assetid: ca3f639d-2843-4ebb-9b54-95ebd2b8ecf1
 description: "When posting a message to Yammer using Internet Explorer 10 document mode, at-mentions and link previews are not available."
 ---

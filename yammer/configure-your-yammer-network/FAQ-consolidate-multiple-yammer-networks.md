@@ -9,7 +9,9 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_Yammer
-search.appverid: YAE150
+search.appverid: 
+- MET150
+- YAE150
 ms.assetid: a9a25f87-e643-41ce-9630-b74d10e40b1a
 description: Answers to frequently asked questions about consolidating multiple Yammer networks.
 ---

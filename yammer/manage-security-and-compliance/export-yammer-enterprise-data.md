@@ -9,7 +9,9 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_Yammer
-search.appverid: MOE150
+search.appverid: 
+- MET150
+- MOE150
 ms.assetid: b303d8f3-007d-4ad4-81f8-54fb1ecfb3f2
 description: "Verified admins can export data from Yammer Enterprise."
 ---
