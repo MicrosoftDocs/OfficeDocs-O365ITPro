@@ -10,6 +10,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_Yammer
 search.appverid:
+- MET150
 - MOE150
 - YAE150
 ms.assetid: 9e8cd010-829a-4d11-8a57-a8f735407604

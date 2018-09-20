@@ -9,7 +9,9 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_Yammer
-search.appverid: YAE150
+search.appverid: 
+- MET150
+- YAE150
 ms.assetid: a22c1b20-9231-4ce2-a916-392b1056d002
 description: Migrate one or more secondary Yammer networks into a primary Yammer Enterprise network (previously called 'Network merge').
 ---

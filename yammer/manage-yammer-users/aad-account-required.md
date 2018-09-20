@@ -8,6 +8,10 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+search.appverid:
+- MET150
+- MOE150
+- YAE150
 ms.custom: Adm_Yammer
 description: "Starting January 31, 2019, Yammer Enterprise users can no longer use legacy Yammer credentials. If self-service signup is enabled, users will be automatically prompted to change their password."
 ---

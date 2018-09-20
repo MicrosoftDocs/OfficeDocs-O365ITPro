@@ -9,7 +9,9 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_Yammer
-search.appverid: MOE150
+search.appverid: 
+- MOE150
+- MET150
 ms.assetid: a5f747cc-1306-450e-b8e2-23f465756f1e
 description: "Control how people access Yammer, set password policies, control who can create external networks, and enforce Office 365 identity."
 ---

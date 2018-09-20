@@ -9,7 +9,9 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_Yammer
-search.appverid: MOE150
+search.appverid: 
+- MET150
+- MOE150
 ms.assetid: 13ededd2-4e56-452d-acbd-aab0b2e5d9fc
 description: "Create a usage policy that users must accept before using Yammer."
 ---

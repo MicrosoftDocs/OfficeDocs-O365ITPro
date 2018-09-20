@@ -8,7 +8,9 @@ ms.audience: Admin
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
-search.appverid: MED150
+search.appverid: 
+- MET150
+- MED150
 ms.assetid: ed49e255-4e20-484d-a5da-96bd3bd24012
 description: "Support is ending for temporary mobile passwords. Learn how you can transition to AAD Conditional Acess to continue with similar functionality. "
 ---

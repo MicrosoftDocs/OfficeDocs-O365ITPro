@@ -9,7 +9,9 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_Yammer
-search.appverid: MOE150
+search.appverid: 
+- MOE150
+- MET150
 ms.assetid: 04ffd9c0-f004-498f-b058-3ea7da3b7311
 description: "Create and manage an external network to collaborate with people outside your company, such as customers, suppliers, and partners."
 ---

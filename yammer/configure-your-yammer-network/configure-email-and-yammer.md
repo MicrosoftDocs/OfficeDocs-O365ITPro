@@ -9,7 +9,9 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_Yammer
-search.appverid: MOE150
+search.appverid: 
+- MOE150
+- MET150
 ms.assetid: bf4e2476-25da-4c39-9371-f23ee988995c
 description: "For email and Yammer to work together, email setup must match Office 365 best practices."
 ---
