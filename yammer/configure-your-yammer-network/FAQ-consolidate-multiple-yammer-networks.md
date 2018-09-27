@@ -112,7 +112,7 @@ There are Microsoft partners that can help you move data. If you’re interested
 
 **Q: What happens if a new Yammer network is added after the due date?**  
 
-A: After October 16 2018, Yammer networks will be automatically consolidated every two weeks. 
+A: After October 16 2018, we will identify and consolidate new multiple Yammer networks weekly. We will choose the network with the most monthly usage as the primary network.  
 
    
 ## See also
