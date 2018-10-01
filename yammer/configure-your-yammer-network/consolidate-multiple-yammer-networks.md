@@ -173,7 +173,7 @@ The network migration has three steps that you will be guided through. Multiple 
     
     > [!CAUTION]
     > You cannot stop or reverse the migration. So be very sure that you have exported all of the data that you want and that you have chosen the correct network to migrate before you choose **Migrate**. If you are unsure, choose **Cancel** and go back to export your data or check the network name. 
-    > Please note, once you migrate a network, all content and data in the primary network will be lost. Make sure to export any files or documents you wish to keep before initiating the migration. 
+    > Please note, once you migrate a network, all content and data in the secondary network will be lost. Make sure to export any files or documents you wish to keep before initiating the migration. 
   
 8. On the **Status of network migrations** page, you can view the status for the migration. It lists the domains associated with the networks being migrated, the person who initiated the migration, the start and completed dates and times for the migration, and the status of the migration. You can see details about the network, such as the number of active users, the number of messages, and the external networks. 
     
