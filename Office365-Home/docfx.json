@@ -35,10 +35,13 @@
     "globalMetadata": {
       "breadcrumb_path": "/Office365/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "searchScope": ["Office 365"]
+      "searchScope": [
+        "Office 365"
+      ]
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "OfficeDocs-O365Home"
+    "dest": "OfficeDocs-O365Home",
+    "markdownEngineName": "markdig"
   }
 }

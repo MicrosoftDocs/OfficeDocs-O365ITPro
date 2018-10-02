@@ -64,7 +64,7 @@ description: Manage Office 365
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>Office 365 Security &amp; Compliance</h3>
-                                                    <p>Protect your organization's data, and comply with legal and regulatory standards.</p>
+                                                    <p>Protect your organization&#39;s data, and comply with legal and regulatory standards.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -108,8 +108,7 @@ description: Manage Office 365
                                         </div>
                                     </div>
                                 </a>
-                            </li>                           
-                        </ul>
+                            </li><br/>                        </ul>
                     </li>
                 </ul>
             </li>
