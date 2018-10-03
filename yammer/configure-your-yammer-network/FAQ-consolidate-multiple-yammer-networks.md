@@ -3,7 +3,7 @@ title: "FAQ: Consolidating multiple Yammer networks"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 8/6/2018
+ms.date: 10/2/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -109,6 +109,18 @@ A: We understand that some organizations might have a variety of business and le
 A: Yammer doesn’t offer this functionality. We only offer the option to export all of one network’s data into a zip folder. Instructions for exporting data can be found in [Export data from Yammer Enterprise](../manage-security-and-compliance/export-yammer-enterprise-data.md).
 
 There are Microsoft partners that can help you move data. If you’re interested, please reach out to your Microsoft Account Team, or [contact a partner](https://products.office.com/en-us/yammer/partners).  
+
+**Q: How can I become the administrator of a secondary network so that I can review and export content?**
+
+A: If you're not already a verified admin of the secondary network:
+
+1. Create a temporary Office 365 account in the secondary domain. For more information, see [Add a user](https://support.office.com/en-us/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
+
+2. Make this account an Office 365 Global Admin. This makes the account a Verified Admin in Yammer. It takes a while to sync. For more information, see [Assign admin roles in Office 365](https://support.office.com/en-us/article/Assign-admin-roles-in-Office-365-for-business-eac4d046-1afd-4f1a-85fc-8219c79e1504).
+
+3. Log into Yammer using the temporary account.
+  
+4. Perform a network export or other admin activities such as exporting group members.
 
 **Q: What happens if a new Yammer network is added after the due date?**  
 

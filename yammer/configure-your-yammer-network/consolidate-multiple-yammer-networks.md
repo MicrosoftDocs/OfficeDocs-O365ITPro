@@ -3,7 +3,7 @@ title: "Network migration - Consolidate multiple Yammer networks"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 9/9/2018
+ms.date: 10/3/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -38,32 +38,15 @@ Here are the basic steps:
   
 For more information, see [FAQ: Consolidating multiple Yammer networks](faq-consolidate-multiple-yammer-networks.md).
 
-## Step 1: Plan
-<a name="Plan"> </a>
-
-Here are the main questions to ask during the planning step:
+### Important things to know as you get started
   
-- Which Yammer networks need to be consolidated?
+- During the migration, only active and pending users, including the users' information, such as name and profile picture, are migrated. 
     
-- Which network should be the primary network, and which are the secondaries?
+    - If a user exists in a primary and secondary network, the user's account in the primary network will remain and if needed, will be promoted from a guest account to a regular account. The account in the secondary network will be deleted.
     
-- For each secondary network, what content needs to be exported and loaded onto the primary network? 
+- Groups, conversations, and files are not migrated. If you want any of this content from your secondary network, you must export it and upload it.
     
-- Who will do the actual migration, export the data, set up the group structure in the primary network, upload data, and communicate with users?
-    
-- What groups are necessary in the primary network for the users who are coming in from the secondary networks? Who should be in these groups? Who should be the admins for each group?
-    
-- What's the best way to communicate with the users before and after the consolidation? 
-    
-- What role should users have in planning the consolidation? Consider using a Yammer group on each secondary network to help plan the changes. 
-    
-- What's the timing? Do we need down-time? If so, what's the best time to schedule this?
-    
-Here's what you need to know to plan and organize your network consolidation.
-  
-- Only users with the global admin role in Office 365 can perform network consolidation. 
-    
-- When you export data from a secondary network, you'll end up with CSV files containing group, user, admin, file, and conversation information, plus a folder that includes all the files from the network. If you plan to use this information to upload data or set up groups in your primary network, you'll need someone to map the information to what's needed in the primary network, and someone who can use this mapping to set up Windows PowerShell scripts to load the data.
+- After a migration completes, no-one can access the secondary Yammer network.- Only users with the global admin role in Office 365 can perform network consolidation. 
     
 - The primary and secondary Yammer networks must be on verified domains in one Office 365 tenant. Consolidating Yammer networks across Office 365 tenants is not supported.
     
@@ -73,34 +56,37 @@ Here's what you need to know to plan and organize your network consolidation.
     
 - Multiple network migrations can be started back-to-back, without waiting for the previous ones to finish.
     
-- During the migration, active and pending users, including the users' information, such as name and profile picture, are migrated. 
-    
-- If a user exists in a primary and secondary network, the user's account in the primary network will remain and if needed, will be promoted from a guest account to a regular account. The account in the secondary network will be deleted.
-    
-- Groups, conversations, and files are not migrated.
-    
-- After a migration completes, no-one can access the secondary Yammer network.
-    
-### Example of network consolidation
+## Step 1: Plan
+<a name="Plan"> </a>
 
-Here's an example showing Contoso, Ltd. with subsidiaries, each one of which has its own Yammer network:
+Here are the main questions to ask during the planning step:
   
-- **Contoso.com** The primary network for Contoso, Ltd.; serves users with emails @contoso.com. 
+- Which Yammer networks need to be consolidated?
     
-- **Contoso_Sub.com** A secondary network for employees of a division of Contoso, Ltd.; serves users with emails @contoso_sub.com. 
+- Which network should be the primary network, and which are the secondaries?
+
+- What role should users have in planning the consolidation? Consider using a Yammer group on each secondary network to help plan the changes. 
     
-- **ContosoPharmaceuticals.com** A secondary network for employees of the Pharmaceutical division; serves users with emails @contosopharmaceuticals.com. 
+- What's the timing? Do we need down-time? If so, what's the best time to schedule this?
+
+- What's the best way to communicate with the users before and after the consolidation? 
+
+- What groups are necessary in the primary network for the users who are coming in from the secondary networks? Who should be in these groups? Who should be the admins for each group?
     
-Contoso, Ltd. wants to keep the pharmaceutical employees in their own network but wants to move employees from Contoso_Sub.com to Contoso.com. Contoso, Ltd. would migrate the users from the Contoso_Sub.com secondary network to the Contoso.com primary network.
-  
-The following illustration shows the Contoso_Sub secondary network before being migrated into the Contoso primary network.
-  
-![A secondary Yammer network and a primary Yammer network before a migration is performed to consolidate the users from the secondary into the primary network](../media/53972669-499c-4255-8098-25448a47b08c.png)
-  
-The following illustration shows the after state, where the users and any external networks and users have been migrated from Contoso_Sub to the Contoso, Ltd. network. Notice that the secondary network and its content are not available after migration.
-  
-![After a Yammer network migration, the users from the secondary network have been consolidated into the primary network. Any external networks have also been migrated (with users). The seecondary network (including all content) is no longer available.](../media/b76d79f6-8e1c-47bc-8b99-0e636dc30f91.png)
-  
+- For each secondary network, what content needs to be exported and loaded onto the primary network? 
+ 
+- Who will do each task: export the data from the secondary network, set up the group structure in the primary network, decide what data needs to be uploaded, upload that data, and communicate with users? Do you have the resources in-house to do this, or do you need a third-party to help?
+    
+    When you export data from a secondary network, you'll end up with CSV files containing group, user, admin, file, and conversation information, plus a folder that includes all the files from the network. 
+
+    If you plan to use this exported information to upload data or set up groups in your primary network, you'll need to:
+    1. Identify who can help you upload data. Someone from your secondary network will need to identify content that is important going forward and map it to where it needs to go in the parent network.  
+    2. Once you determine what content is important, identify the skillset required to bring the content into your primary network. If there is a small amount of data, it can be done manually. But if you have a lot of content in the secondary network, you will need someone comfortable using Windows PowerShell and the Yammer API. You may need to find a third-party to help you.
+        - If you need to create new groups with specific people from the secondary network, or adding users from your secondary network to existing groups in your primary network, for each group, you'll need to create .csv files with the group members to invite. 
+            - If you have just a few groups to add or modify, you can create these lists before migration (see Create a .csv file with emails for a group), and then for each group, invite members from your primary network after migration. 
+            - If you have many groups, you'll need a person who can use PowerShell and the Yammer API to generate the group membership changes from your secondary network before migration, and to set up the groups in your parent network.
+        - If you want to load files or messages from the secondary network, you'll need a person who can use Windows PowerShell and the Yammer API to write scripts to load the data.
+    
 ## Step 2: Export content from primary networks
 <a name="Export"> </a>
 
