@@ -3,7 +3,7 @@ title: Use the Kaizala web app
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 8/21/2018
+ms.date: 10/4/2018
 ms.audience: Consumer/IW
 ms.topic: article
 ms.service: Kaizalams
@@ -20,16 +20,16 @@ description: Learn how to use the Kaizala web app to access Kaizala from a brows
 
 # Use the Kaizala web app
 
-The Kaizala web app (preview) will allow you to access Kaizala from a browser on your computer or mobile device. Before you can use the Kaizala web-app you need to log in to the Kaizala app on your mobile device. All the messages and actions you send from the Kaizala web app will go through the mobile app to your groups and contacts. The preview Web app is only available on Android devices.
+The Kaizala web app (preview) will allow you to access Kaizala from a browser on your computer or mobile device. Before you can use the Kaizala web app you need to log in to the Kaizala app on your mobile device. All the messages and actions you send from the Kaizala web app will go through the mobile app to your groups and contacts. The preview web app is only available on Android devices.
   
 > [!IMPORTANT]
-> You're part of this preview if you can see **Kaizala Web** tab under the **Me** section of the app. The preview app is only available via invitation. We're working to expand the preview in the next few weeks. If you want to join the preview, consult your Microsoft partner or check out the Kaizala beta channel for an invite. 
+> You're part of this preview if you can see **Kaizala Web** tab under the **Me** section of the app. The preview app is only available via invitation. We're working to expand the preview. If you want to join the preview, consult your Microsoft partner or check out the Kaizala beta channel for an invite. 
   
 For more info about Kaizala, check out, [Microsoft Kaizala](https://go.microsoft.com/fwlink/?linkid=873406).
   
 ## Use the Kaizala Web app
 
-1. Make sure you're added to the Kaizala Web preview list through your Microsoft partner or through Kaizala's beta channel. If you see Kaizala Web tab under the Me section in Kaizala app, then you have access to the preview.
+1. Make sure you're added to the Kaizala Web preview list through your Microsoft partner or through the Kaizala beta channel. If you see **Kaizala Web** tab under the **Me** section in Kaizala app, then you have access to the preview.
     
 2. Download the latest Android App from the Google Play Store.
     
@@ -51,11 +51,11 @@ You can now use the Kaizala web app on your browser and the mobile app.
 
 - Chat list and the chat canvas.
     
-- Send, receive and view messages.
+- Send, receive, and view messages.
     
-- Send, receive and view attachments (including audio, video, document files). You can't use your computer's camera and microphone for creating new attachments.
+- Send, receive, and view attachments (including audio, video, document files). You can't use your computer's camera and microphone for creating new attachments.
     
-- View and respond to some out-of-the-box and custom actions: Let's meet, jobs, polls, surveys and announcements.
+- View and respond to some out-of-the-box and custom actions: Let's meet, jobs, polls, surveys, and announcements.
     
 ## Recommended setting on your mobile device
 
@@ -63,7 +63,7 @@ You can now use the Kaizala web app on your browser and the mobile app.
     
 - Connect to WiFi to avoid phone network data usage.
     
-- Disable battery optimizations on Kaizala - To do this, go to Kaizala Settings and optimize your notifications.
+- Disable battery optimizations on Kaizala. To do this, go to Kaizala settings and optimize your notifications.
     
 - Do not hard close the Kaizala app.
     
@@ -71,14 +71,14 @@ You can now use the Kaizala web app on your browser and the mobile app.
 
 - You can't create groups via the Web app currently.
     
-- Intune support: we can't open Intune protected groups on web app for data protection purposes.
+- Intune support: We can't open Intune protected groups on web app for data protection purposes.
     
-- You can't forward, share, or see group info. You also can't use "Reply to" functionality.
+- You can't forward, share, or see group information. You also can't use "Reply to" functionality.
     
 - iOS support.
     
 ## Report an issue or send feedback
 
-- Use report an issue in the **Me** tab, from the Web app to report an issue or send us feedback. 
+- To report an issue or send us feedback, from the web app, select **Report an issue** on the **Me** tab. 
     
 
