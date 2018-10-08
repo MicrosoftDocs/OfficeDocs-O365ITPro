@@ -44,4 +44,3 @@ When you're ready to buy Office 365, see [Buy your trial version of Office 365 f
 ## See also
 
 [Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
-
