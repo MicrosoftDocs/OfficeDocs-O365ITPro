@@ -50,8 +50,6 @@ If you're an Office 365 for business admin, you can verify which subscriptions y
     > If you have subscriptions that have expired or have been disabled, they'll be listed based on their current state. 
   
 ## See also
-
-[What Office 365 business product or license do I have?](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd.aspx)
   
 [Billing in Office 365 for business - Admin Help](../subscriptions-and-billing/subscriptions-and-billing.md)
 
