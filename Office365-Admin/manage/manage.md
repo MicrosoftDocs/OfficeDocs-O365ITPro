@@ -2,41 +2,202 @@
 title: "Manage"
 ms.author: supotter
 author: supotter
-ms.date: 1/1/1900
-ms.audience: ITPro
-ms.topic: article
+ms.date: 10/8/2018
+ms.audience: Admin
+ms.topic: landing-page
+layout: LandingPage
+ms.service: o365-administration
 ms.prod: office-online-server
 localization_priority: Normal
 ms.assetid: 9f818d7a-78b5-4490-b36c-e3bfe328dfc3
-description: "Start your article with a very short introduction (1 sentence). Put yourself in the reader's place - why are they here? What should they do?"
+description: "Quick links for the most common admin tasks in Office 365."
 ---
 
 # Manage
 
-Start your article with a very short introduction (1 sentence). Put yourself in the reader's place - why are they here? What should they do? 
-  
-1. Get straight to a quick list of steps to accomplish the task.
-    
-    If you need to explain a concept, or they have to do pre-requisite steps, add a quick summary below the step where they need it, and [link](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) to the concept or steps. 
-    
-2. Keep procedures short - preferably 5 or fewer steps, no more than 8.
-    
-3. Use **Ui style** for user interface elements or for text people need to enter. 
-    
-4. Use the verbs choose, select, or enter as actions, and format menus as **Menu** \> **Command**.
-    
-5. Optionally, add a screenshot for context (if UI is hard to locate, or it's needed to complete the task).
-    
-    Maximum width: 520 pixels. Use a standard theme, do not show any personal information, and crop to show only what's relevant. 
-    
-    ![Placeholder - maximum width for SOC article art is 520 pixels](../media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-If you want to add a video or screenshot, use a two-column grid and have the steps in the left and the video or screenshot in the right - see [Steps and video grid example](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx). 
-  
-Target no more than 500 words for an article.
-  
-## Example article
+Quick links for the most common admin tasks in Office 365.
 
-[Change my photo](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
-  
+<ul class="panelContent cardsFTitle">
+    <li>
+        <a href="../user-and-passwords/add-users-2">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/Office/media/icons/users-people.svg" alt="Add a user" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Add a user</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="https://support.office.com/article/eba0b4a2-c0ae-472c-99f6-bc63ee2425a8">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/key-permissions.svg" alt="Forgot username or password" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>I forgot my username or password</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="../user-and-passwords/remove-a-former-employee">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/user.svg" alt="Remove a former employee" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Remove a former employee</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+</ul>
+<ul class="panelContent cardsFTitle">
+    <li>
+        <a href="../domains/fix-issues-after-adding-your-domain-or-dns-records">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/toolbox.svg" alt="Fix issues" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Find and fix domain or DNS issues</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="../billing-and-subscriptions-0/cancel-your-subscription-0">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/cancel.svg" alt="Cancel" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Cancel your subscription</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+</ul>
 
+---
+
+<h2>Featured Articles</h2>
+<ul class="panelContent cardsW">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3>Microsoft Teams</h3>
+                            <p><a href="https://go.microsoft.com/fwlink/p/?linkid=863169">Overview of Microsoft Teams</a></p>
+                            <p><a href="https://docs.microsoft.com/en-us/MicrosoftTeams/Microsoft-Teams">Microsoft Teams</a></p>
+                            <p><a href="https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users">Let users contact external users</a></p>
+                            <p><a href="https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts">Let users contact Skype users</a></p>
+                            <p><a href="https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-skype-for-business-online/set-up-skype-for-business-online">Set up Skype for Business Online</a></p>
+                            <p><a href="https://support.office.com/article/8a0d4da8-9d58-44f9-9759-5c8f340cb3fb">Install Skype for Business on a PC</a></p>
+                            <p><a href="https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-skype-for-business-online/troubleshoot-problems-with-skype-for-business-online">Troubleshoot problems</a></p>
+                            <p><b>More tasks:</b> <a href="https://docs.microsoft.com/en-us/SkypeForBusiness/skype-for-business-online">Skype for Business Online Admin</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3>Email</h3>
+                            <p><a href="../user-and-passwords/add-users-2">Add a new employee</a></p>
+                            <p><a href="https://support.office.com/article/97748418-bbd5-4743-a05b-581f22a466dd">Fix email messages when they won't send</a></p>
+                            <p><a href="../troubleshoot-issues-for-office-365-admins/troubleshoot-email-issues">Troubleshoot email issues</a></p>
+                            <p><b>More tasks:</b> <a href="../email/email">Email in Office 365 for business</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3>OneDrive</h3>
+                            <p><a href="http://go.microsoft.com/fwlink/p/?LinkId=798319">Get the OneDrive sync client and mobile apps</a></p>
+                            <p><a href="https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49">Sync files with the OneDrive sync client in Windows</a></p>
+                            <p><a href="https://docs.microsoft.com/en-us/onedrive/manage-sharing">Manage sharing in OneDrive and SharePoint</a></p>
+                            <p><a href="https://docs.microsoft.com/en-us/onedrive/set-default-storage-space">Set the default storage space for OneDrive users</a></p>
+                            <p><a href="https://support.office.com/article/e12c6a8b-4bbe-4391-9c23-1a52b55a1967">Fix OneDrive sync problems</a></p>
+                            <p><b>More tasks:</b> <a href="https://support.office.com/article/3e21f8f0-e0a1-43be-aa3e-8c0236bf11bb">OneDrive in Office 365</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3>SharePoint</h3>
+                            <p><a href="https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off">Turn external sharing on or off for SharePoint Online</a></p>
+                            <p><a href="https://docs.microsoft.com/en-us/sharepoint/manage-sites-in-new-admin-center">Create and manage sites</a></p>
+                            <p><a href="https://docs.microsoft.com/en-us/sharepoint/planning-hub-sites">Intranet planning guide</a></p>
+                            <p><a href="https://docs.microsoft.com/en-us/sharepoint/manage-site-creation">Manage site creation</a></p>
+                            <p><a href="https://docs.microsoft.com/en-us/sharepoint/overview-of-search">Customize the search experience</a></p>
+                            <p><b>More tasks:</b> <a href="https://docs.microsoft.com/en-us/sharepoint/sharepoint-online">SharePoint Online</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3>Yammer</h3>
+                            <p><a href="https://support.office.com/article/b1745e3c-d4d7-4e20-a155-ebf85106b998">Office 365 sign-in for Yammer</a></p>
+                            <p><a href="https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039">Manage users from Office 365</a></p>
+                            <p><a href="https://support.office.com/article/008f940b-6bec-47fc-bcc6-9c6133467562">Office 365 identity for Yammer</a></p>
+                            <p><a href="https://support.office.com/article/4817d2fa-50f6-4f25-88a0-a312745768d4">Embed a Yammer feed into a SharePoint site</a></p>
+                            <p><b>More tasks:</b> <a href="https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe">Yammer admin center</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
