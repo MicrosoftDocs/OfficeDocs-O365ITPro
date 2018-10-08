@@ -14,7 +14,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Payment information for Sweden
 
-[Find another country or region](CernPayTest.md). <!--This should go to the parent "Pay for your Office 365 for business subscription" topic-->
+[Find another country or region](../pay-for-your-subscription.md).
 
 Please pay in SEK only and reference invoice number(s) on your payment remittance.
 
@@ -25,6 +25,4 @@ Please pay in SEK only and reference invoice number(s) on your payment remittanc
 **IBAN:** GB22CITI18500812207656  
 **SORT Code:** 185008  
 **Account Number:** 12207656  
-**Account Name:** MICROSOFT  
-
-
+**Account Name:** MICROSOFT 

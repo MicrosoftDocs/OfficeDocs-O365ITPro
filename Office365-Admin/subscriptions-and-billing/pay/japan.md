@@ -14,9 +14,6 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Payment information for Japan
 
-[Find another country or region](CernPayTest.md). <!--This should go to the parent "Pay for your Office 365 for business subscription" topic-->
+[Find another country or region](../pay-for-your-subscription.md).
 
 Please follow payment instruction on your invoice and reference invoice number(s) on the payment remittance.
-
-
-

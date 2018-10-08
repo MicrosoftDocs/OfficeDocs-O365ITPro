@@ -14,7 +14,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Payment information for China (PRC)
 
-[Find another country or region](CernPayTest.md). <!--This should go to the parent "Pay for your Office 365 for business subscription" topic-->
+[Find another country or region](../pay-for-your-subscription.md).
 
 Please pay in CNY and reference your company name and invoice number(s) on the payment remittance.
 
@@ -27,6 +27,3 @@ Please pay in CNY and reference your company name and invoice number(s) on the p
 **Account Number:** 1199527009  
 **Account Name:** MICROSOFT REGIONAL SALES CORP  
 **Remark: Pay through RMB RTGS channel in HK.**  
-
-
-

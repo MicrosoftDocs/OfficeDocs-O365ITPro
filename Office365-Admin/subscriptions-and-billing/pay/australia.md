@@ -14,7 +14,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Payment information for Australia
 
-[Find another country or region](CernPayTest.md). <!--This should go to the parent "Pay for your Office 365 for business subscription" topic-->
+[Find another country or region](../pay-for-your-subscription.md).
 
 Please pay in AUD only and reference your invoice number(s) on your invoice remittance.
 
@@ -25,6 +25,3 @@ Please pay in AUD only and reference your invoice number(s) on your invoice remi
 **BSB Code:** 242000  
 **Account Number:** 205565043  
 **Account Name:** MICROSOFT REGIONAL SALES CORP  
-
-
-

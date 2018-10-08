@@ -14,7 +14,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Payment information for Russia
 
-[Find another country or region](CernPayTest.md). <!--This should go to the parent "Pay for your Office 365 for business subscription" topic-->
+[Find another country or region](../pay-for-your-subscription.md).
 
 Please pay in RUB only and reference invoice number(s) on your payment remittance.
 
@@ -28,5 +28,3 @@ Please pay in RUB only and reference invoice number(s) on your payment remittanc
 **Account Number:** 40702810000702700004  
 **Corresponding Account:** 30101810300000000202 in OPERU Moskovsky GTU Bank of Russia  
 **Account Name:** Microsoft Payments Russia LLC
-
-

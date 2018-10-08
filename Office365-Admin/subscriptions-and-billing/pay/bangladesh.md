@@ -14,7 +14,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Payment information for Bangladesh
 
-[Find another country or region](CernPayTest.md). <!--This should go to the parent "Pay for your Office 365 for business subscription" topic-->
+[Find another country or region](../pay-for-your-subscription.md).
 
 Please pay in USD only and reference your invoice number(s) on your invoice remittance.
 
@@ -24,7 +24,3 @@ Please pay in USD only and reference your invoice number(s) on your invoice remi
 **SWIFT CODE:** CITISGSG  
 **Account Number:** 0-817543-138  
 **Account Name:** MICROSOFT REGIONAL SALES CORP  
-
-
-
-

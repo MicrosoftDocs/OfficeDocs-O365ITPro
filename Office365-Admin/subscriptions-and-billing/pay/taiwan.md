@@ -14,7 +14,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Payment information for Taiwan
 
-[Find another country or region](CernPayTest.md). <!--This should go to the parent "Pay for your Office 365 for business subscription" topic-->
+[Find another country or region](../pay-for-your-subscription.md). 
 
 Please pay in N.T. Dollars only and reference invoice number(s) on your payment remittance.
 
@@ -25,6 +25,3 @@ Please pay in N.T. Dollars only and reference invoice number(s) on your payment 
 **SWIFT Code:** CITITWTX  
 **Account Number:** 5038946139  
 **Account Name:** MICROSOFT TAIWAN CORPORATION    
-
-
-

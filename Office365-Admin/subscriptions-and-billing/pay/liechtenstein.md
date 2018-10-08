@@ -14,7 +14,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Payment information for Liechtenstein
 
-[Find another country or region](CernPayTest.md). <!--This should go to the parent "Pay for your Office 365 for business subscription" topic-->
+[Find another country or region](../pay-for-your-subscription.md).
 
 Please pay in CHF only and reference invoice number(s) on your payment remittance.
 
@@ -25,6 +25,3 @@ Please pay in CHF only and reference invoice number(s) on your payment remittanc
 **IBAN:** GB44CITI18500812207648  
 **Account Number:** 12207648  
 **Account Name:** MICROSOFT  
-
-
-

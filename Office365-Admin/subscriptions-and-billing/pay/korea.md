@@ -14,7 +14,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Payment information for Korea
 
-[Find another country or region](CernPayTest.md). <!--This should go to the parent "Pay for your Office 365 for business subscription" topic-->
+[Find another country or region](../pay-for-your-subscription.md).
 
 Please pay in KRW only and reference invoice number(s) on your payment remittance.
 
@@ -25,6 +25,3 @@ Please pay in KRW only and reference invoice number(s) on your payment remittanc
 **SWIFT Code:** CITIKRSX  
 **Account Number:** 5001296088  
 **Account Name:** MICROSOFT KOREA  
-
-
-

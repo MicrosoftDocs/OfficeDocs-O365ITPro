@@ -14,7 +14,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Payment information for Germany
 
-[Find another country or region](CernPayTest.md). <!--This should go to the parent "Pay for your Office 365 for business subscription" topic-->
+[Find another country or region](../pay-for-your-subscription.md).
 
 Please pay in EUR only and reference invoice number(s) on your payment remittance.
 
@@ -25,7 +25,4 @@ Please pay in EUR only and reference invoice number(s) on your payment remittanc
 **IBAN:** GB31CITI18500812207591  
 **SORT Code:** 185008  
 **Account Number:** 12207591  
-**Account Name:** MICROSOFT  
-
-
-
+**Account Name:** MICROSOFT 

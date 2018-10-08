@@ -14,7 +14,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Payment information for Cayman Islands
 
-[Find another country or region](CernPayTest.md). <!--This should go to the parent "Pay for your Office 365 for business subscription" topic-->
+[Find another country or region](../pay-for-your-subscription.md).
 
 Please pay in USD only and reference your invoice number(s) on the payment remittance.
 
@@ -25,6 +25,3 @@ Please pay in USD only and reference your invoice number(s) on the payment remit
 **SWIFT Code:** BOFAUS3N  
 **Account Number:** 4426587954  
 **Account Name:** Microsoft  
-
-
-

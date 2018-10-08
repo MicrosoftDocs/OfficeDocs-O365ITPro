@@ -14,7 +14,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Payment information for Mexico
 
-[Find another country or region](CernPayTest.md). <!--This should go to the parent "Pay for your Office 365 for business subscription" topic-->
+[Find another country or region](../pay-for-your-subscription.md).
 
 Please pay in Mexican Pesos only. For your payment to be processed, your company name and invoice(s) number must be provided on remittance payment.
 
@@ -26,5 +26,3 @@ Please pay in Mexican Pesos only. For your payment to be processed, your company
 **CLABE** 002180002337160225  
 **Account Number:** 0233716022  
 **Account Name:** Microsoft Payments Inc.
-
-

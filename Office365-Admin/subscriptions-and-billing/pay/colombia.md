@@ -14,7 +14,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Payment information for Colombia
 
-[Find another country or region](CernPayTest.md). <!--This should go to the parent "Pay for your Office 365 for business subscription" topic-->
+[Find another country or region](../pay-for-your-subscription.md).
 
 Please pay in Colombian Pesos only. For payment to be processed, your company name and invoice number(s) must be provided on remittance advice.
 
@@ -26,5 +26,3 @@ Please pay in Colombian Pesos only. For payment to be processed, your company na
 **NIT:** 800.198.591-3  
 **Account Number:** 0060534055  
 **Account Name:** Branch of Microsoft Colombia Inc.   
-
-

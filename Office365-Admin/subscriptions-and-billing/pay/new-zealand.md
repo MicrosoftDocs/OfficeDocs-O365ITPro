@@ -14,7 +14,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Payment information for New Zealand
 
-[Find another country or region](CernPayTest.md). <!--This should go to the parent "Pay for your Office 365 for business subscription" topic-->
+[Find another country or region](../pay-for-your-subscription.md).
 
 Please pay in NZD only and reference invoice number(s) on your payment remittance.
 
@@ -28,5 +28,3 @@ Please pay in NZD only and reference invoice number(s) on your payment remittanc
 **Suffix (2-digit):** 04  
 **Account Number:** 0026181  
 **Account Name:** MICROSOFT REGIONAL SALES CORP  
-
-

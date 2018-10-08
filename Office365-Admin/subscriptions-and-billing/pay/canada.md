@@ -14,7 +14,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Payment information for Canada
 
-[Find another country or region](CernPayTest.md). <!--This should go to the parent "Pay for your Office 365 for business subscription" topic-->
+[Find another country or region](../pay-for-your-subscription.md).
 
 Please pay in CAD only and reference your invoice number(s) on your payment remittance.
 
@@ -30,7 +30,3 @@ Bank of America, Lockbox 910430, PO Box 4090, STN A, Toronto ON M5W 0E9, Canada
 **SWIFT Code:** BOFACATT  
 **Account Number:** 45571239  
 **Account Name:** Microsoft  
-
-
-
-

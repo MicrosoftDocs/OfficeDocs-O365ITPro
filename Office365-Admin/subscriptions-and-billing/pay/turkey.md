@@ -14,7 +14,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Payment information for Turkey
 
-[Find another country or region](CernPayTest.md). <!--This should go to the parent "Pay for your Office 365 for business subscription" topic-->
+[Find another country or region](../pay-for-your-subscription.md).
 
 Please pay in TRY only and reference invoice number(s) on your payment remittance.
 
@@ -25,6 +25,3 @@ Please pay in TRY only and reference invoice number(s) on your payment remittanc
 **IBAN:** TR420009200000000092407039  
 **Account Number:** 92407039  
 **Account Name:** Microsoft Payments  
-
-
-
