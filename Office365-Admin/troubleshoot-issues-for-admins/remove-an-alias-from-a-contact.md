@@ -1,0 +1,60 @@
+---
+title: "Troubleshoot Remove an alias from a contact"
+ms.author: anfowler
+author: anfowler
+manager: scotv
+ms.date: 9/20/2017
+ms.audience: Admin
+ms.topic: troubleshooting
+f1_keywords:
+- 'O365P_AdminMailContact_TSAlias'
+- 'O365E_AdminMailContact_TSAlias'
+- 'AdminMailContact_TSAlias'
+ms.service: o365-administration
+localization_priority: None
+search.appverid:
+- BCS160
+- MET150
+- MOE150
+ms.assetid: 0baf335d-ea9b-428c-9573-d0878126f014
+description: "Learn how to remove an email alias from a contact using Exchange Online PowerShell."
+---
+
+# Troubleshoot: Remove an alias from a contact
+
+Did you get this error when you were creating a new user? "This email address is already being used as an alias for the contact \<contact name\>." This article will show you how to remove the email alias from the contact.
+  
+> [!CAUTION]
+> It is unusual for a contact to have an alias because it has to be added using Exchange Online PowerShell. You'll have to remove it using Exchange Online PowerShell. > If you're new to PowerShell, you can do this! The Exchange Online PowerShell commands used in this article will only remove an alias from a contact. 
+  
+## Remove the email alias from the contact using Exchange Online PowerShell
+<a name="bkmk_remove"> </a>
+
+Before you can do this procedure, you need the following:
+  
+- [Connect to Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?linkid=396554 )
+    
+- The display name of the contact
+    
+- The email address that you want to remove
+    
+1. In Exchange Online PowerShell, replace **Contact name** and **alias@contoso.com** with your values, and run the following command: 
+    
+  ```
+  Set-MailContact -Identity "Contact name" -Alias @{remove="alias@contoso.com"}
+  ```
+
+2. It may take a few minutes, but when the command has completed, the command prompt will return. You'll only get a message if there was an error.
+    
+3. Close the connection to Exchange Online PowerShell by running the following command:
+    
+  ```
+  Remove-PSSession $Session
+  ```
+
+## Did this solve your problem?
+<a name="bkmk_remove"> </a>
+
+Let us know if this did or didn't solve your problem by giving feedback at the bottom of this page: **Was this information helpful?**
+  
+

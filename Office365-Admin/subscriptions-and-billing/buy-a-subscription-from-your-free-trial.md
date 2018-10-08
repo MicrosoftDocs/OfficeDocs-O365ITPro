@@ -1,0 +1,95 @@
+---
+title: "Buy a subscription to Office 365 for business from your free trial"
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
+ms.date: 8/28/2018
+ms.audience: Admin
+ms.topic: article
+f1_keywords:
+- 'O365P_UpgradefromTrial'
+- 'O365M_UpgradefromTrial'
+- 'O365E_UpgradefromTrial'
+keywords:
+- 'trial,Trial,Buy,Buy'
+ms.service: o365-administration
+localization_priority: Normal
+ms.custom: Adm_O365
+search.appverid:
+- BCS160
+- MET150
+- MOE150
+- BEA160
+ms.assetid: 485fee6d-b22e-440a-9053-a4e7fa509c92
+description: "Purchase an Office 365 for business subscription. You can buy the same type of subscription that you tried, or a different plan."
+---
+
+# Buy a subscription to Office 365 for business from your free trial
+
+You've tried Office 365, and now you're ready to buy. You have two options when buying Office 365 from your trial version.
+  
+- [Buy the same plan as your trial](buy-a-subscription-from-your-free-trial.md#BKMK_Same)
+    
+- [Buy a different plan than your trial](buy-a-subscription-from-your-free-trial.md#BKMK_Different)
+    
+## Buy the same plan as your trial
+<a name="BKMK_Same"> </a>
+
+Check out the video below or follow the steps to complete your order.
+  
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2xYu4?autoplay=false]
+  
+It's easy, and, when you buy the same type of subscription as your trial version, you don't have to worry about losing your data, accounts, and configuration.
+  
+1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
+    
+    If you're using Office 365 Germany, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page. 
+    
+    If you're using Office 365 operated by 21Vianet, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=850626) page. 
+    
+2. On the **Subscriptions** page, select the **Buy now** button for the trial subscription that you want to buy. 
+    
+3. Complete the steps to check out.
+    
+## Buy a different plan than your trial
+<a name="BKMK_Different"> </a>
+
+If you purchase a different type of subscription that your trial, you will have to reassign your user licenses from your trial plan to your new plan (before your 90-day grace period ends after your trial plan expires) in order to retain your data, accounts, and configuration.
+  
+1. Sign in to Office 365 with your work or school account as a global admin. [Learn how to sign in](where-to-sign-in.md).
+    
+2. If you're not already on the start page, select **Office 365** in the top-left hand corner. 
+    
+    ![Button to navigate to the Office 365 Start Page](../media/2fc597ab-ae33-4e5a-aec1-e60e48beac62.png)
+  
+3. At the top right-hand corner of the page, under the navigation bar, select **Purchase**.
+    
+    ![Button to purchase your Office 365 trial](../media/73fba4ad-6879-460b-8ef1-f2efb2ee4104.png)
+  
+    > [!NOTE]
+    >  If you don't see the **Purchase** button on the page, it means you can't buy a different type of subscription from your trial. In this case, you will can do one of the following: > [Buy the same plan as your trial](buy-a-subscription-from-your-free-trial.md#BKMK_Same). > [Buy the plan you want](buy-another-subscription-0.md) and then [assign licences to your users for the new plan](assign-licenses-to-users.md). 
+  
+4. On the **Purchase subscriptions** page, you'll see the different plans that you can buy. The plan that you've been trying is identified by the **In Trial** banner. 
+    
+5. Select the subscription that you want to purchase and then select **Buy now**.
+    
+6. Complete the steps to check out.
+    
+## Still need help?
+<a name="BKMK_Different"> </a>
+
+[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
+  
+[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
+  
+[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
+  
+## See also
+<a name="BKMK_Different"> </a>
+
+[Extend your trial for Office 365 for business](extend-your-trial.md)
+  
+[Sign up for Office 365](../admin-overview/sign-up-for-office-365.md)
+  
+[Switch to a different Office 365 plan or subscription](switch-to-a-different-plan-0.md)
+

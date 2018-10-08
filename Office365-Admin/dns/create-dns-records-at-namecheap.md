@@ -1,0 +1,344 @@
+---
+title: "Create DNS records at Namecheap for Office 365"
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.date: 4/25/2018
+ms.audience: Admin
+ms.topic: get-started-article
+ms.service: o365-administration
+localization_priority: Normal
+ms.custom:
+- Adm_O365
+- Adm_O365_Setup
+search.appverid:
+- BCS160
+- MET150
+- MOE150
+ms.assetid: 54ae2002-b38e-43a1-82fa-3e49d78fda56
+
+description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Namecheap for Office 365."
+---
+
+# Create DNS records at Namecheap for Office 365
+
+ **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
+  
+If Namecheap is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
+  
+These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-1-1-internet.md#BKMK_NeedHelp).)
+  
+- [Add a TXT record for verification](create-dns-records-at-namecheap.md#BKMK_verify)
+    
+- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-namecheap.md#BKMK_add_MX)
+    
+- [Add the six CNAME records that are required for Office 365](create-dns-records-at-namecheap.md#BKMK_add_CNAME)
+    
+- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-namecheap.md#BKMK_add_TXT)
+    
+- [Add the two SRV records that are required for Office 365](create-dns-records-at-namecheap.md#BKMK_add_SRV)
+    
+After you add these records at Namecheap, your domain will be set up to work with Office 365 services.
+  
+> [!NOTE]
+>  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+  
+## Add a TXT record for verification
+<a name="BKMK_verify"> </a>
+
+Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
+  
+> [!NOTE]
+> This record is used only to verify that you own your domain; it doesn't affect anything else. You can delete it later, if you like. 
+  
+Follow the steps below.
+  
+1. To get started, go to your domains page at Namecheap by using [this link](https://www.namecheap.com/myaccount/login.aspx?ReturnUrl=%2f). You'll be prompted to Sign in and Continue.
+    
+    ![Namecheap-BP-Configure-1-1](../media/1827f9fc-4dc9-4f9d-a392-7817c47b00b3.png)
+  
+2. On the **Landing** page, under **Account**, select **Domain List** from the drop-down list. 
+    
+    ![Namecheap-BP-Configure-1-2](../media/3f457d64-4589-422c-ae34-fc24b0e819eb.png)
+  
+3. On the **Domain List** page, find the name of the domain that you want to edit, and then choose **Manage**.
+    
+    ![Namecheap-BP-Configure-1-3](../media/fb2020d8-707c-4148-835e-304ac6244d66.png)
+  
+4. Choose **Advanced DNS**.
+    
+    ![Namecheap-BP-Configure-1-4](../media/05a4f0b9-1d27-448e-9954-2b23304c5f65.png)
+  
+5. In the **HOST RECORDS** section, choose **ADD NEW RECORD**.
+    
+    ![Namecheap-BP-Configure-1-5](../media/8849abfe-deb6-4f6a-b56d-e69be9a28b0f.png)
+  
+6. In the **Type** drop-down, select **TXT Record**.
+    
+    > [!NOTE]
+    > The **Type** drop-down automatically appears when you choose **ADD NEW RECORD**. 
+  
+    ![Namecheap-BP-Verify-1-1](../media/a5b40973-19b5-4c32-8e1b-1521aa971836.png)
+  
+7. In the boxes for the new record, type or copy and paste the values from the following table.
+    
+    (Select the **TTL** value from the drop-down list.) 
+    
+|**Type**|**Host**|**Value**|**TTL**|
+|:-----|:-----|:-----|:-----|
+|TXT  <br/> |@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |30 min  <br/> |
+   
+    ![Namecheap-BP-Verify-1-2](../media/fe75c0fd-f85c-4bef-8068-edaf9779b7f1.png)
+  
+8. Choose the **Save Changes** (check mark) control. 
+    
+    ![Namecheap-BP-Verify-1-3](../media/b48d2c67-66b5-4aa4-8e59-0c764f236fac.png)
+  
+9. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
+    
+Now that you've added the record at your domain registrar's site, you'll go back to Office 365 and request Office 365 to look for the record.
+  
+When Office 365 finds the correct TXT record, your domain is verified.
+  
+1. Choose **Setup** \> **Domains**.
+    
+2. On the **Domains** page, choose the domain that you are verifying. 
+    
+    ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+  
+3. On the **Setup** page, choose **Start setup**.
+    
+    ![Start setup button](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
+  
+4. On the **Verify domain** page, choose **Verify**.
+    
+    ![Verify button](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
+  
+> [!NOTE]
+>  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+  
+[Back to top](create-dns-records-at-namecheap.md#BKMK_BackToTopTarget)
+  
+## Add an MX record so email for your domain will come to Office 365
+<a name="BKMK_add_MX"> </a>
+
+Follow the steps below.
+  
+1. To get started, go to your domains page at Namecheap by using [this link](https://www.namecheap.com/myaccount/login.aspx?ReturnUrl=%2f). You'll be prompted to Sign in and Continue.
+    
+    ![Namecheap-BP-Configure-1-1](../media/1827f9fc-4dc9-4f9d-a392-7817c47b00b3.png)
+  
+2. On the **Landing** page, under **Account**, select **Domain List** from the drop-down list. 
+    
+    ![Namecheap-BP-Configure-1-2](../media/3f457d64-4589-422c-ae34-fc24b0e819eb.png)
+  
+3. On the **Domain List** page, find the name of the domain that you want to edit, and then choose **Manage**.
+    
+    ![Namecheap-BP-Configure-1-3](../media/fb2020d8-707c-4148-835e-304ac6244d66.png)
+  
+4. Choose **Advanced DNS**.
+    
+    ![Namecheap-BP-Configure-1-4](../media/05a4f0b9-1d27-448e-9954-2b23304c5f65.png)
+  
+5. In the **MAIL SETTINGS** section, select **Custom MX** from the **Email Forwarding** drop-down list. 
+    
+    (You may have to scroll down.)
+    
+    ![Namecheap-BP-Configure-2-1](../media/40199e2c-42cf-4c3f-9936-3cbe5d4e81a4.png)
+  
+6. Choose **Add New Record**.
+    
+    ![Namecheap-BP-Configure-2-2-1](../media/8d169b81-ba48-4d51-84ea-a08fa1616457.png)
+  
+7. In the boxes for the new record, type or copy and paste the values, from the following table.
+    
+    (The **Priority** box is the unnamed box to the right of the **Value** box. Select the **TTL** value from the drop-down list.) 
+    
+|**Type**|**Host**|**Value**|**Priority**|**TTL**|
+|:-----|:-----|:-----|:-----|:-----|
+|MX Record  <br/> |@  <br/> |\< *domain-key*  \>.mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |30 min  <br/> |
+   
+    ![Namecheap-BP-Configure-2-2-2](../media/f3b76d62-5022-48c1-901b-8615a8571309.png)
+  
+8. Choose the **Save Changes** (check mark) control. 
+    
+    ![Namecheap-BP-Configure-2-3](../media/ef4e3112-36d2-47c8-a478-136a565dd71d.png)
+  
+9. If there are any other MX records, use the following two-step process to remove each of them:
+    
+    First, choose the **Delete icon** (trash can) for the record that you want to remove. 
+    
+    ![Namecheap-BP-Configure-2-4](../media/7a7a751f-29c2-495f-8f55-98ca37ce555a.png)
+  
+    Second, choose **Yes** to confirm the deletion. 
+    
+    ![Namecheap-BP-Configure-2-5](../media/85ebc0c7-8787-43ee-9e7b-647375b3345c.png)
+  
+    Remove all MX records except for the one that you added earlier in this procedure.
+    
+[Back to top](create-dns-records-at-namecheap.md#BKMK_BackToTopTarget)
+  
+## Add the six CNAME records that are required for Office 365
+<a name="BKMK_add_CNAME"> </a>
+
+Follow the steps below.
+  
+1. To get started, go to your domains page at Namecheap by using [this link](https://www.namecheap.com/myaccount/login.aspx?ReturnUrl=%2f). You'll be prompted to Sign in and Continue.
+    
+    ![Namecheap-BP-Configure-1-1](../media/1827f9fc-4dc9-4f9d-a392-7817c47b00b3.png)
+  
+2. On the **Landing** page, under **Account**, select **Domain List** from the drop-down list. 
+    
+    ![Namecheap-BP-Configure-1-2](../media/3f457d64-4589-422c-ae34-fc24b0e819eb.png)
+  
+3. On the **Domain List** page, find the name of the domain that you want to edit, and then choose **Manage**.
+    
+    ![Namecheap-BP-Configure-1-3](../media/fb2020d8-707c-4148-835e-304ac6244d66.png)
+  
+4. Choose **Advanced DNS**.
+    
+    ![Namecheap-BP-Configure-1-4](../media/05a4f0b9-1d27-448e-9954-2b23304c5f65.png)
+  
+5. In the **HOST RECORDS** section, choose **ADD NEW RECORD**.
+    
+    ![Namecheap-BP-Configure-1-5](../media/8849abfe-deb6-4f6a-b56d-e69be9a28b0f.png)
+  
+6. In the **Type** drop-down, select **CNAME Record**.
+    
+    > [!NOTE]
+    > The **Type** drop-down automatically appears when you choose **ADD NEW RECORD**. 
+  
+    ![Namecheap-BP-Configure-3-1](../media/0898f3b2-06ab-4364-a86a-a603a25b39f4.png)
+  
+7. In the empty boxes for the new record, select **CNAME** for the **Record Type**, and then type or copy and paste the values from the first row in the following table.
+    
+|**Type**|**Host**|**Value**|**TTL**|
+|:-----|:-----|:-----|:-----|
+|CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+|CNAME  <br/> |sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+|CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+|CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+|CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+|CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+   
+    ![Namecheap-BP-Configure-3-2](../media/f79c5679-34eb-4544-8517-caa2e8a4111a.png)
+  
+8. Choose the **Save Changes** (check mark) control. 
+    
+    ![Namecheap-BP-Configure-3-3](../media/91a5cce4-ca41-41ec-b976-aafe681a4d68.png)
+  
+9. Using the preceding four steps and the values from the other five rows in the table, add each of the other five CNAME records.
+    
+[Back to top](create-dns-records-at-namecheap.md#BKMK_BackToTopTarget)
+  
+## Add a TXT record for SPF to help prevent email spam
+<a name="BKMK_add_TXT"> </a>
+
+> [!IMPORTANT]
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+  
+Follow the steps below.
+  
+1. To get started, go to your domains page at Namecheap by using [this link](https://www.namecheap.com/myaccount/login.aspx?ReturnUrl=%2f). You'll be prompted to Sign in and Continue.
+    
+2. On the **Landing** page, under **Account**, select **Domain List** from the drop-down list. 
+    
+    ![Namecheap-BP-Configure-1-2](../media/3f457d64-4589-422c-ae34-fc24b0e819eb.png)
+  
+3. On the **Domain List** page, find the name of the domain that you want to edit and then choose **Manage**.
+    
+    ![Namecheap-BP-Configure-1-3](../media/fb2020d8-707c-4148-835e-304ac6244d66.png)
+  
+4. Choose **Advanced DNS**.
+    
+    ![Namecheap-BP-Configure-1-4](../media/05a4f0b9-1d27-448e-9954-2b23304c5f65.png)
+  
+5. In the **HOST RECORDS** section, choose **ADD NEW RECORD**.
+    
+    ![Namecheap-BP-Configure-1-5](../media/8849abfe-deb6-4f6a-b56d-e69be9a28b0f.png)
+  
+6. In the **Type** drop-down, select **TXT Record**.
+    
+    > [!NOTE]
+    > The **Type** drop-down automatically appears when you choose **ADD NEW RECORD**. 
+  
+    ![Namecheap-BP-Configure-4-1](../media/c5d1fddb-28b5-48ec-91c9-3e5d3955ac80.png)
+  
+7. In the boxes for the new record, type or copy and paste the following values from the following table.
+    
+    (Select the **TTL** value from the drop-down list.) 
+    
+|**Type**|**Host**|**Value**|**TTL**|
+|:-----|:-----|:-----|:-----|
+|TXT  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |30 min  <br/> |
+   
+    ![Namecheap-BP-Configure-4-2](../media/ea0829f1-990b-424b-b26e-9859468318dd.png)
+  
+8. Choose the **Save Changes** (check mark) control. 
+    
+    ![Namecheap-BP-Configure-4-3](../media/f2846c36-ace3-43d8-be5d-a65e2c267619.png)
+  
+[Back to top](create-dns-records-at-namecheap.md#BKMK_BackToTopTarget)
+  
+## Add the two SRV records that are required for Office 365
+<a name="BKMK_add_SRV"> </a>
+
+1. To get started, go to your domains page at Namecheap by using [this link](https://www.namecheap.com/myaccount/login.aspx?ReturnUrl=%2f). You'll be prompted to sign in.
+    
+    ![Namecheap-BP-Configure-1-1](../media/1827f9fc-4dc9-4f9d-a392-7817c47b00b3.png)
+  
+2. On the **Landing** page, under **Account**, select **Domain List** from the drop-down list. 
+    
+    ![Namecheap-BP-Configure-1-2](../media/3f457d64-4589-422c-ae34-fc24b0e819eb.png)
+  
+3. On the **Domain List** page, find the name of the domain that you want to edit and then choose **Manage**.
+    
+    ![Namecheap-BP-Configure-1-3](../media/fb2020d8-707c-4148-835e-304ac6244d66.png)
+  
+4. Choose **Advanced DNS**.
+    
+    ![Namecheap-BP-Configure-1-4](../media/05a4f0b9-1d27-448e-9954-2b23304c5f65.png)
+  
+5. In the **HOST RECORDS** section, choose **ADD NEW RECORD**.
+    
+    ![Namecheap-BP-Configure-1-5](../media/8849abfe-deb6-4f6a-b56d-e69be9a28b0f.png)
+  
+6. In the **Type** drop-down, select **SRV Record**.
+    
+    > [!NOTE]
+    > The **Type** drop-down automatically appears when you choose **ADD NEW RECORD**. 
+  
+    ![Namecheap-BP-Configure-5-1](../media/fd55cd7c-2243-4de1-8d39-2c3f7ea3ae51.png)
+  
+7. In the empty boxes for the new records, type or copy and paste the values from the first row in the following table.
+    
+|**Service**|**Protocol**|**Priority**|**Weight**|**Port**|**Target**|**TTL**|
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+|_sip  <br/> |_tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |30 min  <br/> |
+|_sipfederationtls  <br/> |_tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |30 min  <br/> |
+   
+    ![Namecheap-BP-Configure-5-2](../media/ff9566ea-0096-4b7f-873c-027080a23b56.png)
+  
+8. Choose the **Save Changes** (check mark) control. 
+    
+    ![Namecheap-BP-Configure-5-3](../media/48a8dee4-c66d-449d-8759-9e9784c82b13.png)
+  
+9. Using the preceding four steps and the values from the second row in the table, add the other SRV record.
+    
+> [!NOTE]
+>  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+  
+[Back to top](create-dns-records-at-namecheap.md#BKMK_BackToTopTarget)
+  
+## Still need help?
+<a name="BKMK_NeedHelp"> </a>
+
+[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
+  
+[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
+  
+[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
+  
+[Back to top](create-dns-records-at-namecheap.md#BKMK_BackToTopTarget)
+  
+

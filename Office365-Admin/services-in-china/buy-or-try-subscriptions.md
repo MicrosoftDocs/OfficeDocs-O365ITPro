@@ -1,0 +1,94 @@
+---
+title: "Buy or try subscriptions for Office 365 operated by 21Vianet"
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
+ms.date: 7/9/2018
+ms.audience: Admin
+ms.topic: article
+f1_keywords:
+- 'O365M_BuyAfterTry '
+- 'O365E_BuyAfterTry'
+ms.service: o365-administration
+localization_priority: Normal
+ms.custom: Adm_O365
+search.appverid:
+- MET150
+- GEA150
+ms.assetid: f9877a28-1434-4108-9e92-f29ef8ee5591
+description: "Learn how to try an Office 365 subscription or buy it right away, add subscriptions, or get add-ons to an existing Office 365 account operated by 21Vianet in China."
+---
+
+# Buy or try subscriptions for Office 365 operated by 21Vianet
+
+> [!NOTE]
+>  This article applies to Office 365 operated by 21Vianet in China. 
+  
+## What would you like to do?
+<a name="__top"> </a>
+
+> [Buy or try Office 365](buy-or-try-subscriptions.md#__toc382575759)
+    
+> [Buy your trial subscription](buy-or-try-subscriptions.md#BKMK_buy_trial)
+    
+> [Add subscriptions or add-ons to an existing Office 365 account](buy-or-try-subscriptions.md#__toc382575762)
+    
+> [Payment options](buy-or-try-subscriptions.md#__toc315336073)
+    
+## Buy or try Office 365
+<a name="__toc382575759"> </a>
+
+You can buy a subscription for Office 365 right away, or you can try Office 365 for up to 30 days. If you like it, you can buy your trial subscription and keep the domain, data, and configuration you set up in your trial.
+  
+1. Go to [Compare Office 365 for business plans](http://go.microsoft.com/fwlink/p/?linkid=393691&amp;clcid=0x409) and click the name of the plan you want to buy. Then, click **Buy now**. 
+    
+2. Create an account by filling out the **Just a few details** page. 
+    
+3. Follow the instructions to set up your 30-day trial or to complete your purchase.
+    
+## Buy your trial subscription
+<a name="BKMK_buy_trial"> </a>
+
+1. [Sign in to Office 365](https://go.microsoft.com/fwlink/p/?linkid=513813) with your work or school account. 
+    
+2. If you're not already on the start page, select **Office 365** in the top-left hand corner. 
+    
+    ![Button to navigate to the Office 365 Start Page](../media/2fc597ab-ae33-4e5a-aec1-e60e48beac62.png)
+  
+3. At the top right-hand corner of the page, under the navigation bar, select **Purchase**.
+    
+    ![Button to purchase your Office 365 trial](../media/73fba4ad-6879-460b-8ef1-f2efb2ee4104.png)
+  
+4. On the **Purchase subscriptions** page, you'll see the different plans that you can buy. The plan that you've been trying is identified by the **In Trial** banner. 
+    
+    > [!IMPORTANT]
+    > If you purchase a different plan from your trial plan, you have to reassign your licenses from your trial plan to your new plan (before your 90-day grace period ends after your trial plan expires) in order to retain your data, accounts, and configuration. Otherwise, you will lose your data, accounts, and configuration. 
+  
+5. Select the subscription that you want to purchase and then select **Buy now**.
+    
+6. Follow the steps to check out.
+    
+## Add subscriptions or add-ons to an existing Office 365 account
+<a name="__toc382575762"> </a>
+
+1. Go to **Admin** \> **Purchase services**.
+    
+2. Click **Buy now** next to each service that you'd like to purchase, and then click **Check out**.
+    
+3. Follow the instructions to complete your purchase.
+    
+## Payment options
+<a name="__toc315336073"> </a>
+
+You can pay for your subscription by:
+  
+- Invoice
+    
+- Online payment using Alipay or China UnionPay
+    
+Proof of payment will be provided in the form of Fapiaos. You can submit your Fapiao request to our [Fapiao system](https://go.microsoft.com/fwlink/p/?LinkId=395314) about three (3) days after you have paid. For more information, see [Apply for a Fapiao for Office 365 operated by 21Vianet](apply-for-a-fapiao.md).
+  
+> [!NOTE]
+>  International credit cards are not accepted. 
+  
+
