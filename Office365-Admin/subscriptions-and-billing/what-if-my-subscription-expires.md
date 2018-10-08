@@ -25,7 +25,7 @@ description: "Learn what happens to your data when your Office 365 for business 
 
 # What happens to my data and access when my Office 365 for business subscription ends?
 
-If your Office 365 subscription ends—either because it expires, or because you decide to cancel—your access to Office 365 services, applications, and customer data go through multiple states before the subscription is fully turned off, or  *deprovisioned*  . If you are aware of this progression, you'll be better equipped to return your subscription to an active state before it's too late, or—if you're leaving Office 365—back up your data before it is ultimately deleted. 
+If your Office 365 subscription ends—either because it expires, or because you decide to cancel—your access to Office 365 services, applications, and customer data go through multiple states before the subscription is fully turned off, or *deprovisioned*. If you are aware of this progression, you'll be better equipped to return your subscription to an active state before it's too late, or—if you're leaving Office 365—back up your data before it is ultimately deleted. 
   
 ## Office 365 for business: Subscription lifecycle
 
@@ -36,35 +36,7 @@ The following graphic shows what you can expect when a paid Office 365 for busin
 > [!NOTE]
 > **What is "customer data"?** Customer data, as defined in the [Microsoft Online Service Terms](https://go.microsoft.com/fwlink/p/?LinkId=613649), refers to all data, including all text, sound, or image files that are provided to Microsoft by, or on behalf of, the customer through the customer's use of Office 365 services. To learn more about the Office 365 protection of customer data, see the [Get started with the Microsoft Service Trust Portal](https://support.office.com/article/f30e2353-0bd6-41ed-8347-eea1fb8d2662). 
   
-### In this article:
-
-> 
-::: moniker range="o365-worldwide"
-
-[What are my options if my subscription is about to expire?](what-if-my-subscription-expires-0.md#BKMK_BeforeSubExpires1)
-
-::: moniker-end
-
-::: moniker range="o365-germany"
-
-[What are my options if my subscription is about to expire?](what-if-my-subscription-expires-0.md#BKMK_BeforeSubExpires2)
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-[What are my options if my subscription is about to expire?](what-if-my-subscription-expires-0.md#BKMK_BeforeSubExpires3)
-
-::: moniker-end
-
-> [What happens after my subscription expires?](what-if-my-subscription-expires-0.md#BKMK_AfterSubExpires)
-    
-> [What happens if I cancel a subscription?](what-if-my-subscription-expires-0.md#BKMK_CancelSub)
-    
-> [What happens to my subscription if I miss a payment?](what-if-my-subscription-expires-0.md#BKMK_SubDisabled)
-    
-> [What happens when my trial ends?](what-if-my-subscription-expires-0.md#BKMK_TrialEnds)
-    
+   
 ## What are my options if my subscription is about to expire?
 <a name="BKMK_BeforeSubExpires1"> </a>
 
@@ -101,9 +73,6 @@ Before the subscription actually reaches its expiration date, you have a few opt
   
 ::: moniker-end
 
-## What are my options if my subscription is about to expire?
-<a name="BKMK_BeforeSubExpires2"> </a>
-
 ::: moniker range="o365-germany"
 
 While a subscription is active, you and your end users have normal access to your data, Office 365 services like email and OneDrive for Business, and Office applications. As the Office 365 admin, you'll receive a series of notifications via email and in the Office 365 admin center as your subscription nears its expiration date.
@@ -136,9 +105,6 @@ Before the subscription actually reaches its expiration date, you have a few opt
 ![Close-up of a Subscription card that has Recurring billing turned on.](../media/984464dc-6b63-4b24-84e1-67f6c4b1d48e.png)
   
 ::: moniker-end
-
-## What are my options if my subscription is about to expire?
-<a name="BKMK_BeforeSubExpires3"> </a>
 
 ::: moniker range="o365-21vianet"
 
@@ -323,18 +289,7 @@ To learn how to convert your trial into a paid subscription, see [Buy or try sub
 > [!NOTE]
 > The information on this page is subject to the [Microsoft Policy Disclaimer and Change Notice](https://go.microsoft.com/fwlink/p/?LinkId=613651). Return to this site periodically to review any such changes. 
   
-## Get support
-<a name="BKMK_TrialEnds"> </a>
-
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
-  
 ## See Also
 <a name="BKMK_TrialEnds"> </a>
 
 [Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
-  
-
