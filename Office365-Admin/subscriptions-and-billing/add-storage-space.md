@@ -64,35 +64,35 @@ For information about setting site collection storage limits, see [Manage site c
   
 3. Choose one of the following:
     
-    **Buy add-ons**
+### Buy add-ons
     
-a. Choose **Buy add-ons**.
+1. Choose **Buy add-ons**.
     
     ![Buy add-ons link on the Subscriptions page of the Office 365 admin center.](../media/f5cbc3fa-90f7-4299-976d-2482f2c69755.png)
   
-b. On the **Purchase services** page, mouse over or tap **Office 365 Extra File Storage**, then choose **Buy now**.
+2. On the **Purchase services** page, mouse over or tap **Office 365 Extra File Storage**, then choose **Buy now**.
     
     ![Buy now button.](../media/7cca7cae-a7ab-4d73-b977-ee6725033382.png)
   
-c. Enter the number of user licenses that you need and, if shown, select a base subscription. Choose **Check out now**.
+3. Enter the number of user licenses that you need and, if shown, select a base subscription. Choose **Check out now**.
     
     ![Change quantity of user licenses for an add-on.](../media/844f9783-aed1-4a4f-a127-8c4a9386dee8.png)
   
-d. On the **How does this look?** page, verify the number of gigabytes of storage you selected, review the pricing information, and then choose **Next**.
+4. On the **How does this look?** page, verify the number of gigabytes of storage you selected, review the pricing information, and then choose **Next**.
     
-e. On the **Complete order** page, choose **Place order**.
+5. On the **Complete order** page, choose **Place order**.
     
-    **Change quantity**
+### Change quantity
     
-a. Choose **Change quantity**.
+1. Choose **Change quantity**.
     
     ![Change quantity link.](../media/96473f2b-6ff6-45ec-b1a3-d7b204ac1f6e.png)
   
-b. In the right pane, enter the total number of gigabytes that you need, then choose **Submit**.
+2. In the right pane, enter the total number of gigabytes that you need, then choose **Submit**.
     
     For example, if you currently have 100 gigabytes of extra file storage and you need an additional 100 gigabytes, you would enter **200** in the box. 
     
-c. Choose **Close**
+3. Choose **Close**
     
 ## Reduce storage
 <a name="__top"> </a>
@@ -153,4 +153,3 @@ Office 365 Extra File Storage is available for the following subscriptions:
 <a name="BKMK_eligible"> </a>
 
 [Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
-
