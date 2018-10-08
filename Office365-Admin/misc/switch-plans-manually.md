@@ -22,7 +22,7 @@ description: "Switch Office 365 for business subscriptions manually by buying a 
 
 ## Step 1: Decide how to switch plans
 
-The best way to switch all your users from one plan to another is to use the [Use the Switch plans button in Office 365](../subscriptions-and-billing/switch-to-a-different-plan-0.md#Switchbutton). Sometimes this isn't possible. Do a manual switch instead:
+The best way to switch all your users from one plan to another is to use the [Use the Switch plans button in Office 365](../subscriptions-and-billing/switch-to-a-different-plan.md#Switchbutton). Sometimes this isn't possible. Do a manual switch instead:
   
 - If the **Switch plans** button isn't there. 
     
@@ -143,6 +143,4 @@ If you moved only some users to a different subscription, [remove licenses](../s
 ## Call support to help you switch plans
 <a name="BKMK_CallSupport"> </a>
 
-![Phone](../media/88eae4a1-b8d9-4a12-bc4a-44af244f084b.png)[Call support](../contact-support-for-business-products.md)
-  
-
+![Phone](../media/88eae4a1-b8d9-4a12-bc4a-44af244f084b.png) [Call support](../contact-support-for-business-products.md)
