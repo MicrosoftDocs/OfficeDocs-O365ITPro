@@ -41,19 +41,9 @@ If your subscription expires, or was disabled by Microsoft, or if you cancelled 
     
 3. Enter your payment details. You can update your existing payment information here.
     
-  - If your subscription was expired, then after you submit your payment details, your subscription returns to an active state, and the **Next billing** date extends by either one month or one year, depending on your current subscription commitment. If you pay by credit card or bank account, your credit card or bank account will be charged for the extension. If you pay by invoice, you'll see the extension reflected on your next invoice. To make sure that your subscription doesn't expire again, follow the steps to [Turn Recurring billing on or off](renew-your-subscription-0.md#BKMK_Renew).
+  - If your subscription was expired, then after you submit your payment details, your subscription returns to an active state, and the **Next billing** date extends by either one month or one year, depending on your current subscription commitment. If you pay by credit card or bank account, your credit card or bank account will be charged for the extension. If you pay by invoice, you'll see the extension reflected on your next invoice. To make sure that your subscription doesn't expire again, follow the steps to [Turn Recurring billing on or off](renew-your-subscription.md#BKMK_Renew).
     
     > [!NOTE]
     > The ability to pay by bank account isn't available in some countries or regions. 
   
   - If your subscription was cancelled, or was disabled because a payment wasn't received, it returns to an active state, and your **Next billing** date stays the same. 
-    
-## Still need help?
-
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
-  
-

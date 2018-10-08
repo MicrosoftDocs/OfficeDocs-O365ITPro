@@ -34,9 +34,14 @@ description: "Learn how to switch to a new Office 365 for business subscription.
 
 # Switch to a different Office 365 for business plan
 
-|||
-|:-----|:-----|
-|When your business changes, or you need more Office 365 features, you can switch plans.  <br/> The easiest way to switch plans is to use the **Switch plans** button in the Office 365 admin center. However, using the **Switch plans** button isn't supported in all situations. In some cases, you might be able to switch plans manually.  <br/> |**Need something else?**         [Cancel your subscription](cancel-your-subscription.md)          [Upgrade Office 365 for home to a business subscription](https://support.office.com/article/9322ffb8-a35d-4407-8ebe-ed6ea0859b9f.aspx)          [Call Microsoft Support](../contact-support-for-business-products.md) <br/> |
+When your business changes, or you need more Office 365 features, you can switch plans.  
+
+The easiest way to switch plans is to use the **Switch plans** button in the Office 365 admin center. However, using the **Switch plans** button isn't supported in all situations. In some cases, you might be able to switch plans manually.
+
+**Need something else?**
+- [Cancel your subscription](cancel-your-subscription.md)
+- [Upgrade Office 365 for home to a business subscription](https://support.office.com/article/9322ffb8-a35d-4407-8ebe-ed6ea0859b9f.aspx)
+- [Call Microsoft Support](../contact-support-for-business-products.md)
    
 ## Use the Switch plans button in Office 365
 <a name="Switchbutton"> </a>
@@ -51,7 +56,7 @@ When you use the **Switch plans** button, you're led through the process of buyi
     
 2. Choose **Switch plans** to view the list of new plans that are available. 
     
-    [The Switch plans button isn't there](../misc/switch-plans-manually.md) | [I don't see the plan I want](switch-to-a-different-plan-0.md#BKMK_PlanNotThere)
+    [The Switch plans button isn't there](switch-to-a-different-plan.md#BKMK_ButtonNotThere) | [I don't see the plan I want](switch-to-a-different-plan.md#BKMK_PlanNotThere)
     
 3. Choose a plan to see the new total cost per month. Be sure to read the **key information**, then choose **Next** to check out. 
     
@@ -91,9 +96,4 @@ If you want to switch to a plan with fewer services, you can [switch plans manua
 ## Call support to help you switch plans
 <a name="BKMK_CallSupport"> </a>
 
-::: moniker range="o365-worldwide"
-
-![Phone](../media/88eae4a1-b8d9-4a12-bc4a-44af244f084b.png)[Call support](../contact-support-for-business-products.md)
-
-::: moniker-end
-
+![Phone](../media/88eae4a1-b8d9-4a12-bc4a-44af244f084b.png) [Call support](../contact-support-for-business-products.md)

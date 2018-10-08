@@ -55,15 +55,6 @@ If you prepaid for your subscription with a product key, your subscription will 
     > [!NOTE]
     >  You can only change the **Recurring billing** setting for active subscriptions. If your subscription has already expired or is disabled, you will need to [reactivate it](reactivate-your-subscription.md) before you can turn **Recurring billing** on or off. >  When **Recurring billing** is turned off, the subscription isn't cancelled right away. It remains active until it expires. You can view the expiration date on the subscription card, as shown below. >  To learn how to cancel the subscription right away, see [Cancel my subscription](cancel-your-subscription.md). 
   
-## Still need help?
-<a name="BKMK_Renew"> </a>
-
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
-  
 ## See also
 <a name="BKMK_Renew"> </a>
 
@@ -71,7 +62,7 @@ If you prepaid for your subscription with a product key, your subscription will 
   
 [Add, update, or remove a credit card or bank account in Office 365 for business](add-update-or-remove-credit-card-or-bank-account.md)
   
-[What happens to my data and access when my Office 365 for business subscription ends?](what-if-my-subscription-expires-0.md)
+[What happens to my data and access when my Office 365 for business subscription ends?](what-if-my-subscription-expires.md)
   
 [Enter your product key for Office 365 for business](../misc/enter-your-product-key.md)
   
