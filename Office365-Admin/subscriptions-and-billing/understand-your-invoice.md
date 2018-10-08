@@ -69,10 +69,10 @@ The following table describes the fields you might see on your invoice. Some fie
 |Charges|Page 1 of your invoice summarizes all charges for the invoice Billing Period. Page 2 shows the detailed charges for each subscription.|
 |Check|If you pay by invoice and check payment is offered in your country, the bottom of page 1 includes information about where to send your payment. Please reference the invoice number on your check.|
 |Credits|Page 1 of your invoice summarizes all credits for the invoice Billing Period. Page 2 shows the detailed credits for each subscription.|
-|Customer PO Number|Your Purchase Order (PO) number. If you update the PO number, future invoices will include it. [Change your purchase order number](understand-your-invoice.md#BKMK_ChangePONum). > [!NOTE]> You can't add a PO number to an existing invoice.           |
+|Customer PO Number|Your Purchase Order (PO) number. If you update the PO number, future invoices will include it. [Change your purchase order number](understand-your-invoice.md#BKMK_ChangePONum). <br/> **NOTE** You can't add a PO number to an existing invoice.           |
 |Days|Each billing transaction is associated with a Service Period. The Days column indicates the number of days in that service period.|
 |Discounts|Page 1 of your invoice summarizes all discounts for the invoice Billing Period. Page 2 shows the detailed discounts for each subscription.|
-|Due Date|The date when payment is due for the invoice. If your subscription is paid with a credit card or bank account, we will charge your credit card or banking account the day after the Invoice Date.> [!NOTE]> Paying by bank account is not available in some countries or regions.           |
+|Due Date|The date when payment is due for the invoice. If your subscription is paid with a credit card or bank account, we will charge your credit card or banking account the day after the Invoice Date. <br/> **NOTE** Paying by bank account is not available in some countries or regions.           |
 |Electronic Funds Transfer|If you selected "invoice" as the subscription payment method, page 1 contains the Microsoft bank account information for electronic (wire, ACH, SEPA, etc.) payments. Usually, your bank will have a reference field you complete when you send a payment. Please reference the invoice number shown in this field.|
 |Grand Total|This row includes the totals for all Charges, Discounts, Credits, SubTotal, Tax, and Total columns for all subscriptions listed on the invoice.|
 |Invoice Date|The date the invoice was created. The invoice date is the day after the end of your Billing Period. For example, if your Billing Period is Jan 15 - Feb 14, your Invoice Date is Feb 15.|
@@ -120,4 +120,3 @@ If you pay by invoice, you can add or change the purchase order (PO) number for 
 [Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
   
 [Minecraft: Education Edition payment options](https://go.microsoft.com/fwlink/p/?linkid=838761)
-
