@@ -54,10 +54,9 @@ If you're using Office 365 operated by 21Vianet in China, see [View your bill or
 
 To change the **Sold-To** address, see [Change your organization's address, technical contact email, and other information](../manage/change-address-contact-and-more.md).
   
+::: moniker range="o365-worldwide"
 ## Change your Bill-To address
 <a name="__top"> </a>
-
-::: moniker range="o365-worldwide"
 
 1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
     
@@ -85,10 +84,9 @@ To change the **Sold-To** address, see [Change your organization's address, tech
   
 ::: moniker-end
 
+::: moniker range="o365-germany"
 ## Change your Bill-To address
 <a name="__top"> </a>
-
-::: moniker range="o365-germany"
 
 1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
     
@@ -110,10 +108,9 @@ To change the **Sold-To** address, see [Change your organization's address, tech
   
 ::: moniker-end
 
+::: moniker range="o365-21vianet"
 ## Change your Bill-To address
 <a name="__top"> </a>
-
-::: moniker range="o365-21vianet"
 
 1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
     
@@ -185,20 +182,8 @@ You can also change the alternate email address of other global and billing admi
 3. In the **Edit user roles** pane, type the alternate email address you want to use, then choose **Save**.
     
     ![The Edit User Roles pane where you can change user roles and change the alternative email address.](../media/045419a8-4bc6-4e96-9f71-c87a0d579f03.png)
-  
-## Still need help? Contact support.
-<a name="BKMK_ContactSupport"> </a>
 
-As an admin for Office 365 for business, you get free access to our knowledgeable support agents for pre-sales, account, and billing support, as well as for help resolving technical issues. You can also [contact support](https://go.microsoft.com/fwlink/p/?LinkID=518322) on behalf of Office 365 users in your organization. 
-  
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
-  
 ## See also
 <a name="BKMK_ContactSupport"> </a>
 
 [Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
-
