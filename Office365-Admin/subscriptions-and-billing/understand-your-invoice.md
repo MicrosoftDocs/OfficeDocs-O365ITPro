@@ -69,7 +69,7 @@ The following table describes the fields you might see on your invoice. Some fie
 |Charges|Page 1 of your invoice summarizes all charges for the invoice Billing Period. Page 2 shows the detailed charges for each subscription.|
 |Check|If you pay by invoice and check payment is offered in your country, the bottom of page 1 includes information about where to send your payment. Please reference the invoice number on your check.|
 |Credits|Page 1 of your invoice summarizes all credits for the invoice Billing Period. Page 2 shows the detailed credits for each subscription.|
-|Customer PO Number|Your Purchase Order (PO) number. If you update the PO number, future invoices will include it. [Change your purchase order number](understand-your-invoice.md#BKMK_ChangePONum).> [!NOTE]> You can't add a PO number to an existing invoice.           |
+|Customer PO Number|Your Purchase Order (PO) number. If you update the PO number, future invoices will include it. [Change your purchase order number](understand-your-invoice.md#BKMK_ChangePONum). > [!NOTE]> You can't add a PO number to an existing invoice.           |
 |Days|Each billing transaction is associated with a Service Period. The Days column indicates the number of days in that service period.|
 |Discounts|Page 1 of your invoice summarizes all discounts for the invoice Billing Period. Page 2 shows the detailed discounts for each subscription.|
 |Due Date|The date when payment is due for the invoice. If your subscription is paid with a credit card or bank account, we will charge your credit card or banking account the day after the Invoice Date.> [!NOTE]> Paying by bank account is not available in some countries or regions.           |
@@ -111,17 +111,6 @@ If you pay by invoice, you can add or change the purchase order (PO) number for 
 3. At the bottom of the **Change payment details** pane, enter your PO number, then choose **Submit**.
     
     ![Screen shot of the Change payment details pane.](../media/c08bfeea-d3fc-4eb5-b7d1-d2b23e74b814.png)
-  
-## Still need help? Contact support.
-<a name="BKMK_ContactSupport"> </a>
-
-As an admin for Office 365 for business, you get free access to our knowledgeable support agents for pre-sales, account, and billing support, as well as for help resolving technical issues. You can also [contact support](https://go.microsoft.com/fwlink/p/?LinkID=518322) on behalf of Office 365 users in your organization. 
-  
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
   
 ## See also
 <a name="BKMK_ContactSupport"> </a>

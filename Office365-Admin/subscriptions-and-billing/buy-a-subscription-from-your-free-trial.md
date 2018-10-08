@@ -26,11 +26,10 @@ description: "Purchase an Office 365 for business subscription. You can buy the 
 
 # Buy a subscription to Office 365 for business from your free trial
 
-You've tried Office 365, and now you're ready to buy. You have two options when buying Office 365 from your trial version.
+You've tried Office 365, and now you're ready to buy. You have two options when buying Office 365 from your trial version:
   
-- [Buy the same plan as your trial](buy-a-subscription-from-your-free-trial.md#BKMK_Same)
-    
-- [Buy a different plan than your trial](buy-a-subscription-from-your-free-trial.md#BKMK_Different)
+- Buy the same plan as your trial
+- Buy a different plan than your trial
     
 ## Buy the same plan as your trial
 <a name="BKMK_Same"> </a>
@@ -56,7 +55,7 @@ It's easy, and, when you buy the same type of subscription as your trial version
 
 If you purchase a different type of subscription that your trial, you will have to reassign your user licenses from your trial plan to your new plan (before your 90-day grace period ends after your trial plan expires) in order to retain your data, accounts, and configuration.
   
-1. Sign in to Office 365 with your work or school account as a global admin. [Learn how to sign in](where-to-sign-in.md).
+1. Sign in to Office 365 with your work or school account as a global admin. [Learn how to sign in](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
     
 2. If you're not already on the start page, select **Office 365** in the top-left hand corner. 
     
@@ -67,29 +66,23 @@ If you purchase a different type of subscription that your trial, you will have 
     ![Button to purchase your Office 365 trial](../media/73fba4ad-6879-460b-8ef1-f2efb2ee4104.png)
   
     > [!NOTE]
-    >  If you don't see the **Purchase** button on the page, it means you can't buy a different type of subscription from your trial. In this case, you will can do one of the following: > [Buy the same plan as your trial](buy-a-subscription-from-your-free-trial.md#BKMK_Same). > [Buy the plan you want](buy-another-subscription-0.md) and then [assign licences to your users for the new plan](assign-licenses-to-users.md). 
+    >  If you don't see the **Purchase** button on the page, it means you can't buy a different type of subscription from your trial. In this case, you will can do one of the following: 
+<ul>
+<li>[Buy the same plan as your trial](buy-a-subscription-from-your-free-trial.md#BKMK_Same)</li>
+<li>[Buy the plan you want](buy-another-subscription.md) and then [assign licences to your users for the new plan](assign-licenses-to-users.md)</li></ul>
   
 4. On the **Purchase subscriptions** page, you'll see the different plans that you can buy. The plan that you've been trying is identified by the **In Trial** banner. 
     
 5. Select the subscription that you want to purchase and then select **Buy now**.
     
 6. Complete the steps to check out.
-    
-## Still need help?
-<a name="BKMK_Different"> </a>
-
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
   
 ## See also
-<a name="BKMK_Different"> </a>
+<a name="BKMK_SeeAlso"> </a>
 
 [Extend your trial for Office 365 for business](extend-your-trial.md)
   
 [Sign up for Office 365](../admin-overview/sign-up-for-office-365.md)
   
-[Switch to a different Office 365 plan or subscription](switch-to-a-different-plan-0.md)
+[Switch to a different Office 365 plan or subscription](switch-to-a-different-plan.md)
 

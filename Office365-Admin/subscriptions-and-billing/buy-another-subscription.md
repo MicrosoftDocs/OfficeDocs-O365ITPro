@@ -30,7 +30,7 @@ When you buy another Office 365 for business subscription through the Admin cent
   
 After purchasing a new subscription, you'll need to assign the users who you want to use that subscription a user license for it. To learn how, see [Assign licenses to users in Office 365 for business](assign-licenses-to-users.md).
   
-## Buy another Office 365 subscription for your organization
+## Buy another subscription
 
 1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
     
@@ -58,14 +58,6 @@ After purchasing a new subscription, you'll need to assign the users who you wan
     
 8. On the confirmation page, choose **Continue**.
     
-## Still need help?
-
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
-  
 ## Related Topics
 
 [Assign licenses to user in Office 365 for business](assign-licenses-to-users.md)

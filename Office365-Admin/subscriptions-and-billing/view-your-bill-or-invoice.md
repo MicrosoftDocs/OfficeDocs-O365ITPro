@@ -35,12 +35,12 @@ If you need help interpreting the charges you see on your bill, see [Understand 
   
  **Not an admin?** Contact your IT administrator for help. [Who has admin permissions in my business?](../admin-overview/admin-overview.md#bkmk_admin)
   
- **Have a problem with your bill?**[Contact support for business products](../contact-support-for-business-products.md) . 
+ **Have a problem with your bill?** [Contact support for business products](../contact-support-for-business-products.md). 
   
 ## View my bill or invoice
 <a name="BKMK_viewmybill"> </a>
 
-1. In the Admin Center, go to the [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page, or choose **Billing**\> **Bills**.
+1. In the Admin Center, go to the [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page, or choose **Billing** \> **Bills**.
     
     If you're using Office 365 Germany, go to this [Bills](https://go.microsoft.com/fwlink/p/?linkid=848040) page. 
     
@@ -64,7 +64,7 @@ If you need help interpreting the charges you see on your bill, see [Understand 
     
     ![Screen shot of the Invoice section of the Bill Details page in the Office 365 Admin Center.](../media/ef920095-f581-4d1a-bf92-a007c8fe7121.png)
   
-6. To print or save a PDF copy of the invoice, choose **View invoice (,pdf)**.
+6. To print or save a PDF copy of the invoice, choose **View invoice (.pdf)**.
     
 ## Stop receiving a copy of my billing statement in email
 <a name="BKMK_emailPDF"> </a>
@@ -78,15 +78,6 @@ By default, you will receive a copy of your billing statement as an email attach
 2. Under **Receive billing statement as email attachment?**, switch the toggle to **Off**.
     
     You can resume receiving the billing statement emails at any time by switching the toggle to **On**.
-    
-## Still need help?
-<a name="BKMK_ContactSupport"> </a>
-
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
   
 ## See also
 <a name="BKMK_ContactSupport"> </a>
