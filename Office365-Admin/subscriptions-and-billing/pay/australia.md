@@ -1,0 +1,30 @@
+
+---
+title: Payment information for Australia
+author: cmcatee-MSFT
+ms.author: cmcatee
+manager: mnirkhe
+audience: Admin
+ms.topic: reference
+ms.service: o365-administration
+localization_priority: Normal
+description: Learn where to send the payment for your subscription.
+ROBOTS: NOINDEX, NOFOLLOW
+---                                
+
+# Payment information for Australia
+
+[Find another country or region](CernPayTest.md). <!--This should go to the parent "Pay for your Office 365 for business subscription" topic-->
+
+Please pay in AUD only and reference your invoice number(s) on your invoice remittance.
+
+## Electronic Funds Transfer
+
+**Bank:** Citibank, Sydney  
+**SWIFT Code:** CITIAU2X  
+**BSB Code:** 242000  
+**Account Number:** 205565043  
+**Account Name:** MICROSOFT REGIONAL SALES CORP  
+
+
+
