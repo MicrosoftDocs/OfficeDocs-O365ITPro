@@ -55,10 +55,9 @@ The day your plan switch is complete, the billing on your old subscription will 
 ## Call support to help you switch plans
 <a name="BKMK_CallSupport"> </a>
 
-![Phone](../media/88eae4a1-b8d9-4a12-bc4a-44af244f084b.png)[Call Microsoft Support](../contact-support-for-business-products.md)
+![Phone](../media/88eae4a1-b8d9-4a12-bc4a-44af244f084b.png) [Call Microsoft Support](../contact-support-for-business-products.md)
   
 ## See also
 <a name="BKMK_CallSupport"> </a>
 
 [Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
-
