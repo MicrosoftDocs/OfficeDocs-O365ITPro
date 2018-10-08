@@ -227,7 +227,8 @@ Here's what to expect for you and your users if you cancel a subscription.
     
 To learn how to cancel, see [Cancel your Office 365 for business subscription](cancel-your-subscription.md).
   
- **Important:**If you want your subscription data to be deleted before the typical Disabled period is over, you can request expedited deprovisioning. When you request expedited deprovisioning, your subscription data is deleted within 3 days of cancellation. To use expedited deprovisioning, [call support](../contact-support-for-business-products.md).
+> [!IMPORTANT]
+> If you want your subscription data to be deleted before the typical Disabled period is over, you can request expedited deprovisioning. When you request expedited deprovisioning, your subscription data is deleted within 3 days of cancellation. To use expedited deprovisioning, [call support](../contact-support-for-business-products.md).
   
 ## What happens to my subscription if I miss a payment?
 <a name="BKMK_SubDisabled"> </a>
