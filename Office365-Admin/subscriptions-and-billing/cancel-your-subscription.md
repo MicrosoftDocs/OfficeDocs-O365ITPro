@@ -34,7 +34,7 @@ In some cases, you might have to [call support to cancel your subscription](../c
   
 - If you have more than 25 licenses assigned to users.
     
-- For any other subscriptions (like Microsoft Dynamics 365 or Microsoft Intune, or if the **Cancel subscription** option is unavailable. 
+- For any other subscriptions (like Microsoft Dynamics 365 or Microsoft Intune, or if the **Cancel subscription** option is unavailable). 
     
 > [!CAUTION]
 > If you cancel Office 365 before the end of your term, you may be subject to early termination fees. 
@@ -99,23 +99,13 @@ If you added your own domain name to use with Office 365, you must remove the do
 
 If you cancelled your subscription, and didn't move users to a different subscription that includes Office, Office 365 will run in reduced functionality mode. When this happens, users can only read and print documents, and Office 365 applications will show [Unlicensed Product notifications](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx). To avoid any confusion, have your users [uninstall Office](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) from their machines. 
   
-## Get support
-<a name="__top"> </a>
-
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
-  
 ## See also
 <a name="__top"> </a>
 
-[Renew your Office 365 for business subscription](renew-your-subscription-0.md)
+[Renew your Office 365 for business subscription](renew-your-subscription.md)
   
 [Reactivate your subscription](reactivate-your-subscription.md)
   
-[Switch to a different Office 365 plan or subscription](switch-to-a-different-plan-0.md)
+[Switch to a different Office 365 plan or subscription](switch-to-a-different-plan.md)
   
 [Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
-
