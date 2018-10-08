@@ -7,7 +7,6 @@ ms.audience: Admin
 ms.topic: landing-page
 layout: LandingPage
 ms.service: o365-administration
-ms.prod: office-online-server
 localization_priority: Normal
 ms.assetid: b9acfd4c-df82-4eb5-a652-232a6829870a
 description: "Learn about resources available for Office 365 admins."

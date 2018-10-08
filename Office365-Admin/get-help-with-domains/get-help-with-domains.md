@@ -21,7 +21,6 @@ f1_keywords:
 - 'O365E_DomainsMain_SetUpDomain'
 - 'O365E_DOM_Mgr_GenericHelpLink'
 ms.service: o365-administration
-ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_O365
 search.appverid:

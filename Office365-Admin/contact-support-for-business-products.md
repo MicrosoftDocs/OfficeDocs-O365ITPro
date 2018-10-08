@@ -12,7 +12,6 @@ f1_keywords:
 - 'O365E_GetSupportO365'
 - 'ms.cac.portal.contactsupport'
 ms.service: o365-administration
-ms.prod: office-online-server
 localization_priority: None
 ms.custom: Adm_O365
 search.appverid:

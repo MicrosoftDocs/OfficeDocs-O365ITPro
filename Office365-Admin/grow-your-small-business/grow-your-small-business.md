@@ -8,7 +8,6 @@ ms.audience: Admin
 ms.topic: landing-page
 layout: LandingPage
 ms.service: o365-administration
-ms.prod: office-online-server
 localization_priority: Normal
 search.appverid:
 - MET150

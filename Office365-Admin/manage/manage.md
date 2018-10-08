@@ -7,7 +7,6 @@ ms.audience: Admin
 ms.topic: landing-page
 layout: LandingPage
 ms.service: o365-administration
-ms.prod: office-online-server
 localization_priority: Normal
 ms.assetid: 9f818d7a-78b5-4490-b36c-e3bfe328dfc3
 description: "Quick links for the most common admin tasks in Office 365."

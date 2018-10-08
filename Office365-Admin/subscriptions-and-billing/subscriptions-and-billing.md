@@ -11,7 +11,6 @@ layout: LandingPage
 f1_keywords:
 - 'aka.ms/office365Billing'
 ms.service: o365-administration
-ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_O365
 search.appverid:
