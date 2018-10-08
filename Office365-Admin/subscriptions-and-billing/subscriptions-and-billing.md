@@ -154,7 +154,7 @@ Get admin help with billing in Office 365 for business.
                         <p><a href="buy-a-subscription-from-your-free-trial">Buy a subscription from your free trial</a></p>
                         <p><a href="buy-another-subscription">Buy another subscription</a></p>
                         <p><a href="buy-or-edit-an-add-on">Buy or edit and add-on</a></p>
-                        <p><a href="../domains/buy-a-domain-name">Buy a domain name</a></p>
+                        <p><a href="../get-help-with-domains/buy-a-domain-name">Buy a domain name</a></p>
                         <p><a href="add-storage-space">Add storage space for your subscription</a></p>
                     </div>
                 </div>
@@ -170,7 +170,7 @@ Get admin help with billing in Office 365 for business.
                         <p><a href="view-your-bill-or-invoice">View your bill</a></p>
                         <p><a href="understand-your-invoice">Understand your invoice</a></p>
                         <p><a href="pay-for-your-subscription">Pay for your subscription</a></p>
-                        <p><a href="add-update-or-remove-a-credit-card-or-bank-account">Manage credit cards or bank accounts</a></p>
+                        <p><a href="add-update-or-remove-credit-card-or-bank-account">Manage credit cards or bank accounts</a></p>
                         <p><a href="change-payment-method">Change your payment method</a></p>
                         <p><a href="change-your-billing-addresses">Change your billing addresses</a></p>
                         <p><a href="what-tax-will-i-be-charged">What tax will I be charged?</a></p>
