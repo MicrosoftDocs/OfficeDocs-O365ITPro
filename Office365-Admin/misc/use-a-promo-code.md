@@ -59,41 +59,21 @@ The following guidelines apply to promo codes for Office 365 for business subscr
 
 If you receive an error message after you enter your promo code, there may be a number of reasons. The following list describes the most common causes of error messages.
   
- **You made a typo when you entered the code.**
+- **You made a typo when you entered the code.** Pay close attention to any dashes, capital or lowercase letters or special symbols in the promo code. Promo codes should be entered exactly.
   
-Pay close attention to any dashes, capital or lowercase letters or special symbols in the promo code. Promo codes should be entered exactly.
+- **You are trying to apply the promo code to a subscription that is not new.** Promo codes are intended for new subscriptions. If you are trying to use one in an already active subscription, you will not see the option to apply your promo code. There is no way to apply a promo code after the purchase is complete.
   
- **You are trying to apply the promo code to a subscription that is not new.**
+- **The promo code has expired.** Campaigns are set up for a limited time. Promo codes have an expiration date. If the promo code you are trying to use exceeds the expiration date, it's no longer usable. There is no way to accept or replace expired promotion codes, but you can still purchase a subscription without one.
   
-Promo codes are intended for new subscriptions. If you are trying to use one in an already active subscription, you will not see the option to apply your promo code. There is no way to apply a promo code after the purchase is complete.
-  
- **The promo code has expired.**
-  
-Campaigns are set up for a limited time. Promo codes have an expiration date. If the promo code you are trying to use exceeds the expiration date, it's no longer usable. There is no way to accept or replace expired promotion codes, but you can still purchase a subscription without one.
-  
- **The promo code you are using is for the wrong geographical region.**
-  
-Some promo codes are only valid for a particular country or region. Promo codes don't work in a country or region other than the one for which they were created.
-  
-## Still need help? Contact support.
-<a name="BKMK_ContactSupport"> </a>
-
-As an admin for Office 365 for business, you get free access to our knowledgeable support agents for pre-sales, account, and billing support, as well as for help resolving technical issues. You can also [contact support](https://go.microsoft.com/fwlink/p/?LinkID=518322) on behalf of Office 365 users in your organization. 
-  
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
+- **The promo code you are using is for the wrong geographical region.** Some promo codes are only valid for a particular country or region. Promo codes don't work in a country or region other than the one for which they were created.
   
 ## See also
 <a name="BKMK_ContactSupport"> </a>
 
-[Buy a subscription to Office 365 for business from your free trial](../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md)
+[Buy a subscription from your free trial](../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md)
   
-[Buy another Office 365 for business subscription](../subscriptions-and-billing/buy-another-subscription-0.md)
+[Buy another subscription](../subscriptions-and-billing/buy-another-subscription.md)
   
 [Buy or edit an add-on for Office 365 for business](../subscriptions-and-billing/buy-or-edit-an-add-on.md)
   
 [Billing in Office 365 for business - Admin Help](../subscriptions-and-billing/subscriptions-and-billing.md)
-

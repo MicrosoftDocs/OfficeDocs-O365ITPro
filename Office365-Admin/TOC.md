@@ -116,7 +116,7 @@
 ## [Subscriptions and billing](subscriptions-and-billing/subscriptions-and-billing.md)
 ### [Extend your trial](subscriptions-and-billing/extend-your-trial.md)
 ### [Buy a subscription from your free trial](subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md)
-### [Buy another subscription](subscriptions-and-billing/buy-another-subscription-0.md)
+### [Buy another subscription](subscriptions-and-billing/buy-another-subscription.md)
 ### [Buy or edit an add-on](subscriptions-and-billing/buy-or-edit-an-add-on.md)
 ### [Add storage space](subscriptions-and-billing/add-storage-space.md)
 ### [View your bill or invoice](subscriptions-and-billing/view-your-bill-or-invoice.md)
