@@ -31,5 +31,3 @@ Licenses for Office 365 Business Essentials, Office 365 Business, Office 365 Bus
 2. On the Subscriptions page, select the subscription to which you want to add licenses, then choose the **Volume Licensing Service Center (VLSC)** link. 
     
 3. Follow the steps in the VLSC to complete your purchase.
-    
-

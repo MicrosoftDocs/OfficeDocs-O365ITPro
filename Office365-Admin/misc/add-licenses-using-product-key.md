@@ -28,7 +28,7 @@ Prepaid licenses are issued to you as a 25-character alphanumeric code. After yo
   
 To add licenses to Office 365 Small Business, Office 365 Small Business Premium, or Office 365 Midsize Business subscriptions, complete the following procedures in the order shown.
   
- **Add licenses to your Office 365 subscription**
+## Add licenses to your Office 365 subscription
   
 1. Sign in to Office 365 with your work or school account as a global admin. [Learn how to sign in](where-to-sign-in.md).
     
@@ -58,7 +58,7 @@ To add licenses to Office 365 Small Business, Office 365 Small Business Premium,
     
     ![On the "add users to office 365" page, choose whether to create user accounts now or later and then choose Next.](../media/d99c0691-cc13-4443-a3d0-aaf09a5448d4.png)
   
- **(Optional) Verify that the licenses have been added to the subscription**
+## Verify that the licenses have been added to the subscription (Optional)
   
 1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
     
@@ -73,4 +73,3 @@ To add licenses to Office 365 Small Business, Office 365 Small Business Premium,
 ## See also
 
 [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md)
-
