@@ -70,10 +70,9 @@ If you're moving from  *credit card or bank account to invoice*  , any outstandi
   
 ::: moniker-end
 
+::: moniker range="o365-worldwide"
 ## Change from invoice to credit card or bank account
 <a name="__top"> </a>
-
-::: moniker range="o365-worldwide"
 
 > [!TIP]
 > The following steps apply to individual subscriptions only. If you have multiple subscriptions in your organization, complete these steps for each subscription that you want to change. 
@@ -112,10 +111,9 @@ When you return to the **Subscriptions** page, you will see the old subscription
   
 ::: moniker-end
 
+::: moniker range="o365-germany"
 ## Change from invoice to credit card or bank account
 <a name="__top"> </a>
-
-::: moniker range="o365-germany"
 
 > [!TIP]
 > The following steps apply to individual subscriptions only. If you have multiple subscriptions in your organization, complete these steps for each subscription that you want to change. 
@@ -154,10 +152,9 @@ When you return to the **Subscriptions** page, you will see the old subscription
   
 ::: moniker-end
 
+::: moniker range="o365-worldwide"
 ## Change from credit card or bank account to invoice
 <a name="__top"> </a>
-
-::: moniker range="o365-worldwide"
 
 > [!NOTE]
 > The option to pay by invoice is only available if your Office 365 subscription costs over a certain amount (which varies by service location). A credit check might be required for larger invoice payments. To learn more, see [Pay for your Office 365 for business subscription](pay-for-your-subscription.md). 
@@ -185,10 +182,9 @@ When you return to the **Subscriptions** page, you will see the old subscription
   
 ::: moniker-end
 
+::: moniker range="o365-germany"
 ## Change from credit card or bank account to invoice
 <a name="__top"> </a>
-
-::: moniker range="o365-germany"
 
 > [!NOTE]
 > The option to pay by invoice is only available if your Office 365 subscription costs over a certain amount (which varies by service location). A credit check might be required for larger invoice payments. To learn more, see [Pay for your Office 365 for business subscription](pay-for-your-subscription.md). 
@@ -216,10 +212,9 @@ When you return to the **Subscriptions** page, you will see the old subscription
   
 ::: moniker-end
 
+::: moniker range="o365-worldwide"
 ## Verify which payment method is configured
 <a name="__top"> </a>
-
-::: moniker range="o365-worldwide"
 
 You can use the following steps at any time to verify the payment method that's configured for a subscription.
   
@@ -233,10 +228,9 @@ You can use the following steps at any time to verify the payment method that's 
    
 ::: moniker-end
 
+::: moniker range="o365-germany"
 ## Verify which payment method is configured
 <a name="__top"> </a>
-
-::: moniker range="o365-germany"
 
 You can use the following steps at any time to verify the payment method that's configured for a subscription.
   
@@ -266,15 +260,6 @@ When you purchase Office 365 operated by 21Vianet in China, you choose either to
 After you complete these steps, your payment method will be changed and your users will continue to have the same license assignments as before.
   
 ::: moniker-end
-
-## Still need help? Contact support.
-<a name="BKMK_ContactSupport"> </a>
-
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
   
 ## See also
 <a name="BKMK_ContactSupport"> </a>
