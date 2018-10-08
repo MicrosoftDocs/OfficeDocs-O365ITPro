@@ -40,7 +40,3 @@ Do you need more time to try out the features of Office 365 for business before 
 3. Complete the steps in the wizard.
     
 When you're ready to buy Office 365, see [Buy your trial version of Office 365 for business](buy-a-subscription-from-your-free-trial.md).
-  
-## See also
-
-[Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
