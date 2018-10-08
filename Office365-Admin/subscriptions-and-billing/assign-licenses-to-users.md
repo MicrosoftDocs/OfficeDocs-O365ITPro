@@ -34,7 +34,7 @@ description: "Learn how to assign licenses to one or multiple users in Office 36
 
 # Assign licenses to users in Office 365 for business
 
-## [To one user](#tab/)
+## [To one user](#tab/One)
   
 1. In the Admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.
     
@@ -56,7 +56,7 @@ description: "Learn how to assign licenses to one or multiple users in Office 36
 
 ![The product licenses pane showing which licenses the user has.](../media/fbab37fe-bcd5-4a5e-86bf-921879c963f7.png)
   
-## [To multiple users](#tab/)
+## [To multiple users](#tab/Multiple)
   
 1. In the Admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.
     
