@@ -14,7 +14,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Contact support for Greece
 
-[Find another country or region](CernSupportTest1.md). <!--This should go to the parent "Contact support" topic-->
+[Find another country or region](../contact-support-for-business-products.md).
 
 ## Phone number
 00800 4414 2831
