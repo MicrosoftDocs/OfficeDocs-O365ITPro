@@ -59,8 +59,6 @@ For more contact phone numbers by country or region, see [Contact support for bu
   
 ::: moniker-end
 
-## I have a question about my bill. How can I get help?
-
 ::: moniker range="o365-germany"
 
 Billing support is provided in German and English, Monday - Friday, from 9 AM to 5 PM Berlin (UTC+1).
@@ -71,17 +69,14 @@ For more contact phone numbers by country or region, [Contact support for busine
   
 ::: moniker-end
 
-## I have a question about my bill. How can I get help?
-
 ::: moniker range="o365-21vianet"
 
 For questions about Office 365 operated by 21Vianet, [Contact support for business products - Admin Help](../contact-support-for-business-products.md).
   
 ::: moniker-end
 
-## How do I update my credit card or bank account information?
-
 ::: moniker range="o365-worldwide"
+## How do I update my credit card or bank account information?
 
 See [Add, update, or remove a credit card or bank account in Office 365 for business](../subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account.md).
   
@@ -90,9 +85,8 @@ See [Add, update, or remove a credit card or bank account in Office 365 for busi
   
 ::: moniker-end
 
-## How do I update my credit card or bank account information?
-
 ::: moniker range="o365-germany"
+## How do I update my credit card or bank account information?
 
 See [Add, update, or remove a credit card or bank account in Office 365 for business](../subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account.md).
   
@@ -105,20 +99,18 @@ See [Add, update, or remove a credit card or bank account in Office 365 for busi
 
 Yes. See [Change your payment method for Office 365 for business](../subscriptions-and-billing/change-payment-method.md).
   
-## Can I change how frequently I pay for my subscription?
-
 ::: moniker range="o365-worldwide"
+## Can I change how frequently I pay for my subscription?
 
 Yes, but you'll need to [call support](../contact-support-for-business-products.md) for assistance. 
 
 ::: moniker-end
 
+::: moniker range="o365-worldwide"
 ## Can I get a copy of my billing statement sent via email?
 <a name="BKMK_emailPDF"> </a>
 
-::: moniker range="o365-worldwide"
-
-Yes. Do get your billing statement as an email attachment, use the following steps:
+Yes. To get your billing statement as an email attachment, use the following steps:
   
 1. In the Office 365 admin center, go to the [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page, or choose **Billing** \> **Billing notifications**.
     
@@ -128,12 +120,11 @@ Yes. Do get your billing statement as an email attachment, use the following ste
     
 ::: moniker-end
 
+::: moniker range="o365-germany"
 ## Can I get a copy of my billing statement sent via email?
 <a name="BKMK_emailPDF"> </a>
 
-::: moniker range="o365-germany"
-
-Yes. Do get your billing statement as an email attachment, use the following steps:
+Yes. To get your billing statement as an email attachment, use the following steps:
   
 1. In the Office 365 admin center, go to the [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853213) page, or choose **Billing** \> **Billing notifications**.
     
@@ -173,37 +164,33 @@ See [View your bill or get Fapiaos in Office 365 operated by 21Vianet](../servic
 
 ![The Bills page showing the current account balance for an order.](../media/3ccf8a2e-dacf-4ce3-9d97-1ad8db1d9159.png)
   
+::: moniker range="o365-worldwide"
 ## What taxes will I be charged?
 <a name="BKMK_emailPDF"> </a>
-
-::: moniker range="o365-worldwide"
 
 See [What tax will I be charged for Office 365?](../subscriptions-and-billing/apply-for-tax-exempt-status.md) to find out what tax you're charged, depending on your country or region. 
   
 ::: moniker-end
 
+::: moniker range="o365-worldwide"
 ## How do I apply for tax exempt status?
 <a name="BKMK_emailPDF"> </a>
-
-::: moniker range="o365-worldwide"
 
 You can [Apply for tax exempt status for Office 365 for business](../subscriptions-and-billing/apply-for-tax-exempt-status.md) by providing the proper documentation to Support. 
   
 ::: moniker-end
 
+::: moniker range="o365-germany"
 ## What taxes will I be charged?
 <a name="BKMK_emailPDF"> </a>
-
-::: moniker range="o365-germany"
 
 See [What tax will I be charged for Office 365?](../subscriptions-and-billing/apply-for-tax-exempt-status.md) to find out what tax you're charged, depending on your country or region. 
   
 ::: moniker-end
 
+::: moniker range="o365-germany"
 ## How do I apply for tax exempt status?
 <a name="BKMK_emailPDF"> </a>
-
-::: moniker range="o365-germany"
 
 You can [Apply for tax exempt status for Office 365 for business](../subscriptions-and-billing/apply-for-tax-exempt-status.md) by providing the proper documentation to Support. 
   
@@ -240,5 +227,3 @@ To learn more, see [View your bill or get Fapiaos in Office 365 operated by 21Vi
 <a name="BKMK_emailPDF"> </a>
 
 If you have only trial subscriptions or if you used a prepaid product key that you bought at a retail store or from an Office 365 partner, you won't have any bills.
-  
-
