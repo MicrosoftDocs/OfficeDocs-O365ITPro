@@ -23,17 +23,6 @@ description: "Learn how to try an Office 365 subscription or buy it right away, 
 
 > [!NOTE]
 >  This article applies to Office 365 operated by 21Vianet in China. 
-  
-## What would you like to do?
-<a name="__top"> </a>
-
-> [Buy or try Office 365](buy-or-try-subscriptions.md#__toc382575759)
-    
-> [Buy your trial subscription](buy-or-try-subscriptions.md#BKMK_buy_trial)
-    
-> [Add subscriptions or add-ons to an existing Office 365 account](buy-or-try-subscriptions.md#__toc382575762)
-    
-> [Payment options](buy-or-try-subscriptions.md#__toc315336073)
     
 ## Buy or try Office 365
 <a name="__toc382575759"> </a>
@@ -90,5 +79,3 @@ Proof of payment will be provided in the form of Fapiaos. You can submit your Fa
   
 > [!NOTE]
 >  International credit cards are not accepted. 
-  
-

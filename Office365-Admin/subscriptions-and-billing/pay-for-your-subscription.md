@@ -96,7 +96,6 @@ If you're not sure how much you owe, you can [check your bill and billing histor
  **Select your "bill-to" country or region from the dropdown menu below.**
   
 > [!div class="op_single_selector"]
-
 > - **Select your country or region**
 > - [Afghanistan](pay/afghanistan.md)
 > - [Albania](pay/albania.md)
@@ -276,15 +275,6 @@ If your original reasons for choosing invoice, credit card, or bank account have
   
 If your original reasons for choosing invoice or credit card have changed, for example, if you adjust your subscription so that the payment amount is lower so that you no longer qualify for invoice payments, you can change your payment method. For more information, see [Change your payment method for Office 365](change-payment-method.md).
   
-## Still need help? Contact support.
-<a name="BKMK_ContactSupport"> </a>
-
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
-  
 ## See also
 <a name="BKMK_ContactSupport"> </a>
 
@@ -293,4 +283,3 @@ If your original reasons for choosing invoice or credit card have changed, for e
 [Understand your invoice for Office 365 for business](understand-your-invoice.md)
   
 [Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
-
