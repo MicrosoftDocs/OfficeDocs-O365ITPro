@@ -48,7 +48,7 @@ Get admin help with billing in Office 365 for business.
         </a>
     </li>
     <li>
-        <a href="add-update-or-remove-a-credit-card-or-bank-account">
+        <a href="add-update-or-remove-credit-card-or-bank-account">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -86,7 +86,7 @@ Get admin help with billing in Office 365 for business.
 </ul>
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="renew-your-subscription-1">
+        <a href="renew-your-subscription">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -104,7 +104,7 @@ Get admin help with billing in Office 365 for business.
         </a>
     </li>
     <li>
-        <a href="cancel-your-subscription-0">
+        <a href="cancel-your-subscription">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -152,8 +152,8 @@ Get admin help with billing in Office 365 for business.
                     <div class="cardText">
                         <h3>Try or buy</h3>
                         <p><a href="extend-your-trial">Extend your trial</a></p>
-                        <p><a href="buy-a-subscription-from-your-free-trial-0">Buy a subscription from your free trial</a></p>
-                        <p><a href="buy-another-subscription-0">Buy another subscription</a></p>
+                        <p><a href="buy-a-subscription-from-your-free-trial">Buy a subscription from your free trial</a></p>
+                        <p><a href="buy-another-subscription">Buy another subscription</a></p>
                         <p><a href="buy-or-edit-an-add-on">Buy or edit and add-on</a></p>
                         <p><a href="../domains/buy-a-domain-name">Buy a domain name</a></p>
                         <p><a href="add-storage-space">Add storage space for your subscription</a></p>
@@ -172,7 +172,7 @@ Get admin help with billing in Office 365 for business.
                         <p><a href="understand-your-invoice">Understand your invoice</a></p>
                         <p><a href="pay-for-your-subscription">Pay for your subscription</a></p>
                         <p><a href="add-update-or-remove-a-credit-card-or-bank-account">Manage credit cards or bank accounts</a></p>
-                        <p><a href="change-your-payment-method">Change your payment method</a></p>
+                        <p><a href="change-payment-method">Change your payment method</a></p>
                         <p><a href="change-your-billing-addresses">Change your billing addresses</a></p>
                         <p><a href="what-tax-will-i-be-charged">What tax will I be charged?</a></p>
                         <p><a href="apply-for-tax-exempt-status">Apply for tax exempt status</a></p>
@@ -187,11 +187,11 @@ Get admin help with billing in Office 365 for business.
             <div class="card">
                 <div class="cardText">
                         <h3>Manage licenses</h3>
-                        <p><a href="licensing">Understand subscriptions and licenses</a></p>
+                        <p><a href="subscriptions-and-licenses">Understand subscriptions and licenses</a></p>
                         <p><a href="buy-licenses">Buy licenses for your subscription</a></p>
                         <p><a href="assign-licenses-to-users">Assign licenses to users</a></p>
                         <p><a href="remove-licenses-from-users">Remove licenses from users</a></p>
-                        <p><a href="remove-licenses-from-your-subscription">Remove licenses from your subscription</a></p>
+                        <p><a href="remove-licenses-from-subscription">Remove licenses from your subscription</a></p>
                         <p><a href="resolve-license-conflicts">Resolve license conflicts</a></p>
                     </div>
                 </div>
@@ -204,7 +204,7 @@ Get admin help with billing in Office 365 for business.
                 <div class="card">
                     <div class="cardText">
                         <h3>Switch or upgrade</h3>
-                        <p><a href="switch-to-a-different-plan-0">Switch to a different plan or subscription</a></p>
+                        <p><a href="switch-to-a-different-plan">Switch to a different plan or subscription</a></p>
                         <p><a href="what-does-switching-plans-do-to-my-service-and-billing">What does switching plans do to my service and billing?</a></p>
                         <p><a href="https://support.office.com/article/f9572348-43a2-43fa-a3d8-3b6c9c042147">Important information for Office 365 Enterprise E4 customers</a></p>
                     </div>
@@ -218,10 +218,10 @@ Get admin help with billing in Office 365 for business.
                 <div class="card">
                     <div class="cardText">
                         <h3>Renew or cancel</h3>
-                        <p><a href="renew-your-subscription-1">Renew your subscription</a></p>
+                        <p><a href="renew-your-subscription">Renew your subscription</a></p>
                         <p><a href="reactivate-your-subscription">Reactivate your subscription</a></p>
-                        <p><a href="cancel-your-subscription-0">Cancel your subscription</a></p>
-                        <p><a href="what-if-my-subscription-expires-0.md">What happens to my data and access when my subscription ends?</a></p>
+                        <p><a href="cancel-your-subscription">Cancel your subscription</a></p>
+                        <p><a href="what-if-my-subscription-expires">What happens to my data and access when my subscription ends?</a></p>
                     </div>
                 </div>
             </div>
