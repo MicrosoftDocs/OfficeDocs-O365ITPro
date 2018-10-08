@@ -54,7 +54,7 @@ You can resolve license conflicts by either buying more licenses or by removing 
     > [!NOTE]
     > You won't see the **Status** column if there are no conflicts. 
   
-![Status column on the Liceses page.](../media/c58c8b04-9c61-48fa-a1ae-6f072feac36a.png)
+![Status column on the Licenses page.](../media/c58c8b04-9c61-48fa-a1ae-6f072feac36a.png)
   
 3. On the subscriptions page, if you have multiple subscriptions, select the subscription that you need to purchase licenses for.
     
@@ -69,7 +69,7 @@ You can resolve license conflicts by either buying more licenses or by removing 
 For more information about buying more licenses, see [Buy licenses for your Office 365 for business subscription](buy-licenses.md).
   
 > [!NOTE]
-> You can also renew your organization's subscription if it has expired. If **Recurring billing** is turned off, when the subscription expires you'll have a license conflict for every user and every service in that subscription. You can resolve these conflicts by [renewing your company's subscription](renew-your-subscription-0.md). 
+> You can also renew your organization's subscription if it has expired. If **Recurring billing** is turned off, when the subscription expires you'll have a license conflict for every user and every service in that subscription. You can resolve these conflicts by [renewing your company's subscription](renew-your-subscription.md). 
   
 ### Remove licenses from users who don't need them
 
@@ -99,21 +99,9 @@ Complete the following steps to remove licenses from users who don't need them. 
   
 4. Choose **Remove licenses** \> **Yes** \> **Finish**.
     
-## Still need help? Contact support.
-<a name="BKMK_ContactSupport"> </a>
-
-As an admin for Office 365 for business, you get free access to our knowledgeable support agents for pre-sales, account, and billing support, as well as for help resolving technical issues. You can also [contact support](https://go.microsoft.com/fwlink/p/?LinkID=518322) on behalf of Office 365 users in your organization. 
-  
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
-  
 ## See also
 <a name="BKMK_ContactSupport"> </a>
 
 [Assign licenses to users in Office 365 for business](assign-licenses-to-users.md)
   
 [Remove licenses from users in Office 365 for business](remove-licenses-from-users.md)
-
