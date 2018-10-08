@@ -148,15 +148,6 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 |**I only have one credit card or bank account on my account and I want to remove it.** <br/> |If you only have one credit card or bank account, you'll get an error message when you try to remove it. To fix this, make sure that you're using a different payment method to pay for all of your subscriptions, then try removing the credit card or bank account again.  <br/> |
 |**I can't add my credit card or bank account.** <br/> |If you have trouble entering your credit card or bank account information, you can [contact support](../contact-support-for-business-products.md).  <br/> |
    
-## Still need help?
-<a name="BKMK_ContactSupport"> </a>
-
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
-  
 ## See also
 <a name="BKMK_ContactSupport"> </a>
 
