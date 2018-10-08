@@ -87,47 +87,21 @@ If you have a trial subscription, you must first buy your trial subscription, th
 ## Articles about managing licenses for Office 365 for business
 <a name="BKMK_No_link"> </a>
 
-::: moniker range="o365-worldwide"
-
-- [Understand subscriptions and licenses in Office 365 for business](subscriptions-and-licenses.md)
+- [Understand subscriptions and licenses](subscriptions-and-licenses.md)
     
-- [Assign licenses to users in Office 365 for business](assign-licenses-to-users.md)
+- [Assign licenses to users](assign-licenses-to-users.md)
     
-- [Remove licenses from users in Office 365 for business](remove-licenses-from-users.md)
+- [Remove licenses from users](remove-licenses-from-users.md)
     
-- [Remove licenses from your Office 365 for business subscription](remove-licenses-from-subscription.md)
+- [Remove licenses from your subscription](remove-licenses-from-subscription.md)
     
-- [Buy another Office 365 for business subscription](buy-another-subscription.md)
+- [Buy another subscription](buy-another-subscription.md)
     
 - [Buy or edit an add-on for Office 365 for business](buy-or-edit-an-add-on.md)
     
 - [Manage Yammer user licenses in Office 365](https://support.office.com/article/34a67e3a-3fd8-4e54-bffb-dd5ad0e48590.aspx)
-    
-::: moniker-end
-
-## Articles about managing licenses for Office 365 for business
-<a name="BKMK_No_link"> </a>
-
-::: moniker range="o365-germany"
-
-- [Understand subscriptions and licenses in Office 365 for business](subscriptions-and-licenses.md)
-    
-- [Assign licenses to users in Office 365 for business](assign-licenses-to-users.md)
-    
-- [Remove licenses from users in Office 365 for business](remove-licenses-from-users.md)
-    
-- [Remove licenses from your Office 365 for business subscription](remove-licenses-from-subscription.md)
-    
-- [Buy another Office 365 for business subscription](buy-another-subscription.md)
-    
-- [Buy or edit an add-on for Office 365 for business](buy-or-edit-an-add-on.md)
-    
-- [Manage Yammer user licenses in Office 365](https://support.office.com/article/34a67e3a-3fd8-4e54-bffb-dd5ad0e48590.aspx)
-    
-::: moniker-end
   
 ## See also
 <a name="BKMK_No_link"> </a>
 
 [Cancel Office 365 for business](cancel-your-subscription.md)
-

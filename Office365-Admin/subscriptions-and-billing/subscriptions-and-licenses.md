@@ -112,7 +112,7 @@ You don't need to assign licenses to resource mailboxes, room mailboxes, and sha
     
 - [Buy licenses for your subscription](buy-licenses.md)
     
-- [Buy another Office 365 for business subscription](buy-another-subscription-0.md)
+- [Buy another subscription](buy-another-subscription.md)
     
 - [Buy or edit an add-on for Office 365 for business](buy-or-edit-an-add-on.md)
     
@@ -121,14 +121,3 @@ You don't need to assign licenses to resource mailboxes, room mailboxes, and sha
 - [Resolve license conflicts](resolve-license-conflicts.md)
     
 - [Manage Yammer user licenses in Office 365](https://support.office.com/article/34a67e3a-3fd8-4e54-bffb-dd5ad0e48590.aspx)
-    
-## Still need help?
-<a name="BKMK_LicensingTopics"> </a>
-
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
-  
-

@@ -52,7 +52,7 @@ This section describes the reasons why the **Add/Remove licenses** link might no
 
 If a credit check is pending, you'll see a "Pending credit check" message, and you won't be able to remove licenses until the credit check is completed. If a credit check is pending, check back later to see if the credit check has completed. Credit checks typically take up to two working days to complete.
   
-After the credit check is complete, you should see the **Add/Remove licenses** link in the **Users** section. If so, go to [Remove user licenses](remove-licenses-from-subscription.md#BKMK_RemoveLicenses).
+After the credit check is complete, you should see the **Add/Remove licenses** link in the **Users** section. If so, go to [Remove licenses from your subscription](remove-licenses-from-subscription.md#BKMK_RemoveLicenses).
   
 ### You activated the subscription using a product key
 
@@ -72,56 +72,21 @@ If the subscription was purchased via a partner, you'll see the Volume Licensing
 ## Articles about managing licenses for your Office 365 for business subscription
 <a name="BKMK_No_link"> </a>
 
-::: moniker range="o365-worldwide"
-
-- [Understand subscriptions and licenses in Office 365 for business](subscriptions-and-licenses.md)
+- [Understand subscriptions and licenses](subscriptions-and-licenses.md)
     
-- [Remove licenses from users in Office 365 for business](remove-licenses-from-users.md)
+- [Remove licenses from users](remove-licenses-from-users.md)
     
-- [Assign licenses to users in Office 365 for business](assign-licenses-to-users.md)
+- [Assign licenses to users](assign-licenses-to-users.md)
     
-- [Buy licenses for your Office 365 for business subscription](buy-licenses.md)
+- [Buy licenses for your subscription](buy-licenses.md)
     
-- [Buy another Office 365 for business subscription](buy-another-subscription-0.md)
+- [Buy another subscription](buy-another-subscription.md)
     
 - [Buy or edit an add-on for Office 365 for business](buy-or-edit-an-add-on.md)
     
 - [Manage Yammer user licenses in Office 365](https://support.office.com/article/34a67e3a-3fd8-4e54-bffb-dd5ad0e48590.aspx)
     
-::: moniker-end
-
-## Articles about managing licenses for your Office 365 for business subscription
-<a name="BKMK_No_link"> </a>
-
-::: moniker range="o365-germany"
-
-- [Understand subscriptions and licenses in Office 365 for business](subscriptions-and-licenses.md)
-    
-- [Remove licenses from users in Office 365 for business](remove-licenses-from-users.md)
-    
-- [Assign licenses to users in Office 365 for business](assign-licenses-to-users.md)
-    
-- [Buy licenses for your Office 365 for business subscription](buy-licenses.md)
-    
-- [Buy another Office 365 for business subscription](buy-another-subscription-0.md)
-    
-- [Buy or edit an add-on for Office 365 for business](buy-or-edit-an-add-on.md)
-    
-- [Manage Yammer user licenses in Office 365](https://support.office.com/article/34a67e3a-3fd8-4e54-bffb-dd5ad0e48590.aspx)
-    
-::: moniker-end
-
-## Still need help?
-<a name="BKMK_No_link"> </a>
-
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
-  
 ## See also
 <a name="BKMK_No_link"> </a>
 
 [Cancel Office 365 for business](cancel-your-subscription.md)
-
