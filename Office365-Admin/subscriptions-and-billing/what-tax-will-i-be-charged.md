@@ -37,11 +37,11 @@ When you buy Office 365 services in the European Union, this purchase is subject
     
 You might qualify for VAT zero-rating:
   
-- **If you're in a European Union Member State outside Ireland:** You can provide your valid local VAT ID. This will entitle Microsoft Ireland Operations Ltd. to VAT zero-rate the transaction. However, you may have a local VAT accounting obligation, so please check with your tax advisers if you have any concerns. For instructions, see [Add your VAT ID (EU countries only)](what-tax-will-i-be-charged.md#__how_to_enter).
+- **If you're in a European Union Member State outside Ireland:** You can provide your valid local VAT ID. This will entitle Microsoft Ireland Operations Ltd. to VAT zero-rate the transaction. However, you may have a local VAT accounting obligation, so please check with your tax advisers if you have any concerns. For instructions, see "Add your VAT ID (EU countries only)" below.
     
 - **If you're in Ireland and you have relevant valid VAT exemption certification:** Microsoft Ireland Operations Ltd. may be entitled to exempt the transaction from VAT. If you don't, Microsoft Ireland Operations Ltd. applies the current Irish VAT rate, whether you provide a VAT ID or not. 
     
- **Add your VAT ID (EU countries only)**
+### Add your VAT ID (EU countries only)
   
 1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
     
@@ -77,15 +77,6 @@ In the United States and Canada, various tax rates apply depending on your locat
   
 If your billing is done by Microsoft Corporation ([see your invoice](view-your-bill-or-invoice.md)), and you signed up for Office 365 outside of the United States, Canada, and Puerto Rico, then tax is generally not charged.
   
-## Still need help? Contact support.
-<a name="BKMK_ContactSupport"> </a>
-
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
-  
 ## See also
 <a name="BKMK_ContactSupport"> </a>
 
@@ -96,4 +87,3 @@ If your billing is done by Microsoft Corporation ([see your invoice](view-your-b
 [Understand your invoice for Office 365 for business](understand-your-invoice.md)
   
 [Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
-
