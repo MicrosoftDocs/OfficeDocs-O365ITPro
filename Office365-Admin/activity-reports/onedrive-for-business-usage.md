@@ -3,7 +3,7 @@ title: "Office 365 Reports in the Admin Center - OneDrive for Business usage"
 ms.author: kaarins
 author: kaarins
 manager: pamgreen
-ms.date: 4/30/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

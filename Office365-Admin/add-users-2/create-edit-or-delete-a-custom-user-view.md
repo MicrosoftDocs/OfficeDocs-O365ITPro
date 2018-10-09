@@ -3,7 +3,7 @@ title: "Create, edit, or delete a custom user view in Office 365"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-ms.date: 9/24/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

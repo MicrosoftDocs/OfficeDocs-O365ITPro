@@ -3,7 +3,7 @@ title: "Find your Office 365 partner or reseller"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.date: 2/14/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

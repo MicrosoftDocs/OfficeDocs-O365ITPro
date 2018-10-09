@@ -3,7 +3,7 @@ title: "New Office 365 web experiences - working with your apps and online docum
 ms.author: anfowler
 author: anfowler
 manager: scotv
-ms.date: 8/9/2018
+
 ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration

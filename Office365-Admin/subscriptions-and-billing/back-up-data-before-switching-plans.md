@@ -3,7 +3,7 @@ title: "Back up data before switching O365 for business plans"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 7/6/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

@@ -3,7 +3,7 @@ title: "Manage who can create Office 365 Groups"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-ms.date: 6/29/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration

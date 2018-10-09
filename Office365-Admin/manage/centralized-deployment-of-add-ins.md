@@ -3,7 +3,7 @@ title: "Determine if Centralized Deployment of add-ins works for your Office 365
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.date: 8/6/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration

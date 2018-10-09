@@ -3,7 +3,7 @@ title: "Assign licenses to users in Office 365 for business"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 10/5/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

@@ -3,7 +3,7 @@ title: "Quick help Contacts"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 6/26/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

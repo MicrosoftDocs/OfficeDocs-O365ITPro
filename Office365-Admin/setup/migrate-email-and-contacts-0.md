@@ -3,7 +3,7 @@ title: "Migrate email and contacts to Office 365"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.date: 8/17/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

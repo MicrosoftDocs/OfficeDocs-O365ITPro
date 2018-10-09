@@ -3,7 +3,7 @@ title: "How to sign up for Office 365 - Admin Help"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 7/25/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -149,13 +149,3 @@ You don't need to cancel your Office 365 trial. If you don't buy the trial subsc
     
     When you sign up for Office 365, be sure to choose the best payment option for your organization. Changing payment options involves calling billing support.
     
-## Still need help?
-<a name="__top"> </a>
-
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
-  
-

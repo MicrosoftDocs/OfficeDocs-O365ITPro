@@ -3,7 +3,7 @@ title: Kaizala regional availability
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 8/21/2018
+
 ms.audience: ITPro
 ms.topic: article
 ms.service: Kaizala

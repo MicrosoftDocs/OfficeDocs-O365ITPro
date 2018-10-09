@@ -3,7 +3,7 @@ title: "Set up Office 365 file storage and sharing"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-ms.date: 9/26/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration

@@ -3,7 +3,7 @@ title: "Share calendars with external users"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-ms.date: 6/26/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

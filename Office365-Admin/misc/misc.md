@@ -2,7 +2,7 @@
 title: "Misc"
 ms.author: cmcatee
 author: cmcatee-MSFT
-ms.date: 1/1/1900
+
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server

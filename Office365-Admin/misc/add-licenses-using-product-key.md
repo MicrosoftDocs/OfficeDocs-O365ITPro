@@ -3,7 +3,7 @@ title: "Add licenses to a subscription paid for using a product key"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 7/6/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

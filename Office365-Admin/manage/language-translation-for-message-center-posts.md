@@ -3,7 +3,7 @@ title: "Language translation for Message center posts"
 ms.author: kfollis
 author: kfollis
 manager: mnirkhe
-ms.date: 3/8/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

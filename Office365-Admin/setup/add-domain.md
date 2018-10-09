@@ -3,7 +3,7 @@ title: "Add a domain to Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 7/31/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:

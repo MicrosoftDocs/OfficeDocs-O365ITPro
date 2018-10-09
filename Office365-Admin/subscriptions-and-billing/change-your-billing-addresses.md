@@ -3,7 +3,7 @@ title: "Change your billing addresses for Office 365 for business"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/29/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

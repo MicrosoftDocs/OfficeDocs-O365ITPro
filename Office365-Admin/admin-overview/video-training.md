@@ -2,7 +2,7 @@
 title: "Video training"
 ms.author: supotter
 author: supotter
-ms.date: 1/1/1900
+
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server

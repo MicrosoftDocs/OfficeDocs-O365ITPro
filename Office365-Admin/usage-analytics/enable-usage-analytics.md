@@ -3,7 +3,7 @@ title: "Enable Microsoft 365 usage analytics"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.date: 7/11/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

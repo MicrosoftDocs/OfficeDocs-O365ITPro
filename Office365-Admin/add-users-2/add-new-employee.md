@@ -3,7 +3,7 @@ title: "Add a new employee to Office 365"
 ms.author: supotter
 author: supotter
 manager: scotv
-ms.date: 12/15/2017
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

@@ -3,7 +3,7 @@ title: "About Microsoft 365 admin center preview"
 ms.author: anfowler
 author: anfowler
 manager: mnirkhe
-ms.date: 9/25/2018
+
 ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration

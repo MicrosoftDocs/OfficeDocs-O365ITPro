@@ -3,7 +3,7 @@ title: "Change your email address to use your custom domain"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 8/1/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:

@@ -3,7 +3,7 @@ title: "Troubleshoot Remove an email alias from a user"
 ms.author: anfowler
 author: anfowler
 manager: scotv
-ms.date: 12/16/2017
+
 ms.audience: Admin
 ms.topic: troubleshooting
 f1_keywords:

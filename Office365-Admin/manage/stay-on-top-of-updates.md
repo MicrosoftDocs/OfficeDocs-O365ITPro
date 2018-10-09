@@ -3,7 +3,7 @@ title: "Stay on top of Office 365 changes"
 ms.author: kfollis
 author: kfollis
 manager: mnirkhe
-ms.date: 5/31/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

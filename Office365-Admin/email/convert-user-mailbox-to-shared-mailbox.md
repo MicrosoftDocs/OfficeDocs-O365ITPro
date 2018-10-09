@@ -3,7 +3,7 @@ title: "Convert a user mailbox to a shared mailbox"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-ms.date: 6/29/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

@@ -3,7 +3,7 @@ title: "Set up your domain (host-specific instructions)"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/23/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:

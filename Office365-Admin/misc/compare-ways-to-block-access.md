@@ -3,7 +3,7 @@ title: "Compare ways to block access to Office 365"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-ms.date: 5/23/2017
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
