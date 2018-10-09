@@ -44,7 +44,6 @@ description: "Get technical and billing support using phone numbers listed for y
     
 If your Office 365 or Microsoft 365 Business support phone number isn't listed above, use the dropdown menu below to choose your country or region.
 > [!div class="op_single_selector"]
-
 > - **Select your country or region**
 > - [Afghanistan](support/afghanistan.md)
 > - [Aland Islands](support/aland-islands.md)
