@@ -397,7 +397,7 @@ Call support. If you encounter any problem with online request, phone support is
 
 21Vianet understands that receiving timely technical support from qualified professionals is a key aspect of cloud services. Equally important is the critical role that the customer's IT department plays in the support of its users.
   
- **Administrator roles and responsibilities**
+#### Administrator roles and responsibilities
   
 People with Office 365 administrator roles are the only ones in the customer's organization authorized to access the Admin section of the Office 365 operated by 21Vianet portal and to communicate directly with 21Vianet about Office 365 service requests.
   
@@ -423,7 +423,7 @@ The administrator's role is to:
     
 The administrator is expected to provide initial assistance for the customer's users. However, if the administrator is unable to resolve issues with the help of self-service support resources, he or she should [Contact support](contact-support-for-business-products.md#BKMK_ContactSupport_Gallatin).
   
- **21Vianet support role**
+#### 21Vianet support role
   
 21Vianet's support role is to:
   
