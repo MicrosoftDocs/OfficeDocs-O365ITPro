@@ -141,7 +141,7 @@ Learn about resources available for Office 365 admins.
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Easy, short videos for your small business</h3>
+                        <h3>Office 365 for your small business</h3>
                         <p>Get your small business set up and using Office 365.</p>
                     </div>
                 </div>
@@ -160,7 +160,7 @@ Learn about resources available for Office 365 admins.
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Office 365 basics</h3>
+                        <h3>Office 365 in the Enterprise</h3>
                         <p>Help users in your business get started with Office 365.</p>
                     </div>
                 </div>
