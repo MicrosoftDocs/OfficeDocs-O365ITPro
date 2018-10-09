@@ -24,6 +24,7 @@ description: "Understand what you need to know before you go through the sign up
 Sign up for Office 365 for business so your team can begin using the latest versions of Word, Excel, PowerPoint, and other Office Online programs in your business.
   
 Watch a quick overview of the three Office 365 for business plans is best for your business. or scroll down for more info.
+<br><br>
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/cf211808-67c3-4d4b-880a-3f582d70b4d1?autoplay=false]
   
@@ -34,7 +35,7 @@ Watch a quick overview of the three Office 365 for business plans is best for yo
 Sign up for Office 365 for business so your team can begin using the latest versions of Word, Excel, PowerPoint, and other Office Online programs in your business.
   
 Watch a quick overview of the three Office 365 for business plans is best for your business. or scroll down for more info.
-  
+<br><br>  
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/cf211808-67c3-4d4b-880a-3f582d70b4d1?autoplay=false]
   
 ::: moniker-end
@@ -72,16 +73,16 @@ Need help choosing? Sales consultants are available to answer your questions. Ju
   
 ::: moniker-end
 
-## Ready to sign up for a free trial or buy an Office 365 subscription?
+## Ready to sign up for a free trial or buy a subscription?
 <a name="__top"> </a>
 
 ::: moniker range="o365-worldwide"
 
 Go to [Compare all products](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2) to choose the plan you want to buy and to start the sign-up wizard. 
   
-If you start with a free Office 365 trial, you can [buy it later](../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md). All your users and data from the trial will still be there.
+If you start with a free trial, you can [buy it later](../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md). All your users and data from the trial will still be there.
   
-You don't need to cancel your Office 365 trial. If you don't buy the trial subscription, it automatically expires at the end of the Office 365 trial period, and all the information is permanently deleted.
+You don't need to cancel your trial. If you don't buy the trial subscription, it automatically expires at the end of the trial period, and all the information is permanently deleted.
   
 ::: moniker-end
 
@@ -90,9 +91,9 @@ You don't need to cancel your Office 365 trial. If you don't buy the trial subsc
 
 Go to [Compare all products](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2) to choose the plan you want to buy and to start the sign-up wizard. 
   
-If you start with a free Office 365 trial, you can [buy it later](../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md). All your users and data from the trial will still be there.
+If you start with a free trial, you can [buy it later](../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md). All your users and data from the trial will still be there.
   
-You don't need to cancel your Office 365 trial. If you don't buy the trial subscription, it automatically expires at the end of the Office 365 trial period, and all the information is permanently deleted.
+You don't need to cancel your trial. If you don't buy the trial subscription, it automatically expires at the end of the trial period, and all the information is permanently deleted.
   
 ::: moniker-end
 
