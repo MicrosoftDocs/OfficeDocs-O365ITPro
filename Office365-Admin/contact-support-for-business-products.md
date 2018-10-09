@@ -28,8 +28,7 @@ description: "Get technical and billing support using phone numbers listed for y
 
 ## [Phone support ](#tab/phone)
   
-|||
-|![Call support](media/3351acb8-be3b-478a-afbd-c0a50f4e1abd.png)           <br/> |Billing support is provided in English from 9 AM-5 PM (9 AM-6 PM in Australia), Monday-Friday.  <br/>Technical support is provided in English 24 hours a day, 7 days a week. <br/> Admins, have your account details ready when you call.  <br/> |
+|![Call support](media/3351acb8-be3b-478a-afbd-c0a50f4e1abd.png) |Billing support is provided in English from 9 AM-5 PM (9 AM-6 PM in Australia), Monday-Friday.  <br/>Technical support is provided in English 24 hours a day, 7 days a week. <br/> Admins, have your account details ready when you call.  <br/> |
    
 - **In the United States, call 1 800 865 9408.**
     
@@ -341,8 +340,11 @@ Here are some examples of billing and subscription management issues:
 ### Technical support
 
 Technical support for Office 365 operated by 21Vianet subscriptions provides assistance with basic installation, setup, and general technical usage. Some examples of these issues are listed in the following table.
-  
+
+|
+|
 |**Support category**|**Examples**|
+|:-----|:-----|
 |Installation and setup  <br/> | Exchange Online  <br/>  Office 365 mailbox migration  <br/>  Recipient configuration (mailbox permissions, configuring mail forwarding, configuring shared mailbox)  <br/>  Autodiscover configuration  <br/>  SharePoint Online  <br/>  Permissions and user groups  <br/>  Configuration of external users  <br/>  Skype for Business Online  <br/>  Installation and creating contacts  <br/>  Office 365 ProPlus  <br/>  Installation and setup  <br/> |
 |Configuration  <br/> | Service configuration issues  <br/>  Single sign-on (SSO)  <br/>  Active Directory synchronization  <br/> |
    
