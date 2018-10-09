@@ -3,7 +3,6 @@ title: "Add, update, or remove a credit card or bank account in Office 365 for b
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -61,6 +60,7 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 
 > [!NOTE]
 >  You don't need the CVV/CVN code to update the details of an existing credit card. 
+> 
 >  You can't change the number on an existing credit card or bank account. If for some reason the credit card or bank account number has changed, add it as a new credit card or bank account, select it as the payment option for your subscription, then remove the existing credit card or bank account. 
   
 1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
@@ -136,7 +136,8 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
   
 4. Choose **Submit**. If the credit card or bank account that you want to use isn't listed yet, choose **New credit card** or **New bank account** to add it. 
     
-    > [!VIDEO https://www.microsoft.com/videoplayer/embed/852072f0-ed6d-4589-a2b4-4dfe6e9394e3?autoplay=false]
+
+[!VIDEO https://www.microsoft.com/videoplayer/embed/852072f0-ed6d-4589-a2b4-4dfe6e9394e3?autoplay=false]
   
 ## Troubleshooting credit cards and bank accounts
 <a name="BKMK_TroubleshootCreditCards"> </a>
