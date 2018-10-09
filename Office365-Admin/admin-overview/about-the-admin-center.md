@@ -3,7 +3,6 @@ title: "About the Office 365 admin center"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 7/25/2018
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:
@@ -41,11 +40,11 @@ You use the Office 365 admin center to set up your organization in the cloud, ma
 
 1. Sign in to Office 365 at [office.com](https://www.office.com/) with the account that has [admin permissions](../add-users-2/about-admin-roles.md).
     
-::: moniker range="o365-germany"
+    ::: moniker range="o365-germany"
 
-If you're using Office 365 Germany, [sign in here](https://portal.office.de/) with your Office 365 admin account. 
+    If you're using Office 365 Germany, [sign in here](https://portal.office.de/) with your Office 365 admin account. 
 
-::: moniker-end
+    ::: moniker-end
 
     If you're using Office 365 operated by 21Vianet, [sign in to Office 365 operated by 21Vianet](https://login.partner.microsoftonline.cn) with your Office 365 admin account. 
     
@@ -64,7 +63,7 @@ Here are the features and settings you'll find in the left-hand navigation of th
 |
 |
 |**Menu**|**What it's for**|
-|:-----|:-----|
+|-----|-----|
 |**Home** <br/> |This is the landing page in the new Office 365 admin center. You'll see where to manage users, billing, service health, and reports.  <br/> |
 |**Users** <br/> |Create and manage users in your organization, like employees or students. You can also set their permission level or reset their passwords.  <br/> |
 |**Groups** <br/> |Create and manage groups in your organization., such as an Office 365 group, distribution list, security group, or shared mailbox. Learn how to [create and manage groups](https://support.office.com/article/93df5bd4-74c4-45e8-9625-56db92865a6e.aspx).  <br/> |
@@ -73,7 +72,7 @@ Here are the features and settings you'll find in the left-hand navigation of th
 |**Settings** <br/> |Manage global settings for apps like email, sites, and the Office suite. Change your password policy and expiration date. Add and update domain names like contoso.com. Change your organization profile and release preferences. And choose whether partners can access your Office 365 admin center.  <br/> |
 |**Reports** <br/> |See at a glance how your organization is using Office 365 with detailed reports on email use, Office activations, and more. Learn how to use the new [activity reports](../activity-reports/activity-reports.md).  <br/> |
 |**Health** <br/> |View the service health at a glance. You can also check out more details and the service health history. Check out [How to check Office 365 service health](https://support.office.com/article/932AD3AD-533C-418A-B938-6E44E8BC33B0).  <br/> Use Message center to keep track of upcoming changes to features and services. We post announcements there with information that helps you plan for change and understand how it may affect users. Get more details in [Message center in Office 365](../manage/message-center.md).  <br/> |
-|**Admin centers** <br/> |Open separate admin centers for Exchange, Skype for Business, SharePoint, Yammer, and Azure AD. Each admin center includes all available settings for that service.  <br/> For example, in the Exchange admin center, set up and manage email, calendars, distribution groups, and more. In the SharePoint admin center, create and manage site collections, site settings, and OneDrive for Business. In the Skype for Business admin center, set up instant messaging notifications, dial-in conferencing, and online presence.  <br/> Learn more about the [Exchange admin center](https://go.microsoft.com/fwlink/p/?LinkID=271807) and [SharePoint Admin Center](https://support.office.com/article/79eb0420-8cbd-4bcb-a90b-ddc7d3ab4b3a.aspx).  <br/> > [!NOTE]> The admin centers available to you depend on your plan and region.           |
+|**Admin centers** <br/> |Open separate admin centers for Exchange, Skype for Business, SharePoint, Yammer, and Azure AD. Each admin center includes all available settings for that service.  <br/> For example, in the Exchange admin center, set up and manage email, calendars, distribution groups, and more. In the SharePoint admin center, create and manage site collections, site settings, and OneDrive for Business. In the Skype for Business admin center, set up instant messaging notifications, dial-in conferencing, and online presence.  <br/> Learn more about the [Exchange admin center](https://go.microsoft.com/fwlink/p/?LinkID=271807) and [SharePoint Admin Center](https://support.office.com/article/79eb0420-8cbd-4bcb-a90b-ddc7d3ab4b3a.aspx).<br/> **Note:** The admin centers available to you depend on your plan and region.           |
    
 ## Common tasks in the admin center
 
