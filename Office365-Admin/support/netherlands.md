@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Netherlands
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -33,5 +32,3 @@ English: 24 hours a day, 7 days a week
 Alternative Phone Number: 020 203 5362
 
 Local call charges apply
-
-

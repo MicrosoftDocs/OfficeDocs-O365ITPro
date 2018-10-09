@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Thailand
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -31,7 +30,3 @@ English: Mon-Fri 9 AM-6 PM
 Thai: Mon-Fri 9 AM-5 PM
 
 English: 24 hours a day, 7 days a week
-
-
-
-

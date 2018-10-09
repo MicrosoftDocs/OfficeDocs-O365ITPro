@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Guatemala
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -31,7 +30,3 @@ Spanish: Mon-Fri 9 AM-5 PM
 ### Technical Support:
 
 Spanish: 24 hours a day, 7 days a week
-
-
-
-

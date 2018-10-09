@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for India
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -30,6 +29,4 @@ English: 24 hours a day, 7 days a week
 
 Alternative Phone Number: 1800 200 2052
 
-(Local toll-free)
-
-
+Local toll-free

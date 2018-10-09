@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Vatican City
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -35,4 +34,3 @@ English: 24 hours a day, 7 days a week
 Alternative Phone Number: 02 6943 0746
 
 Local call charges apply
-

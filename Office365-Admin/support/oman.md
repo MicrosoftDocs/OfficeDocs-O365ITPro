@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Oman
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -37,7 +36,3 @@ English: Mon-Fri 10 AM-6 PM
 Arabic: Sun-Thu 11 AM-8 PM
 
 English: 24 hours a day, 7 days a week
-
-
-
-

@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for New Caledonia
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -33,5 +32,3 @@ French: Mon-Fri 6 PM-7 AM
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-
-

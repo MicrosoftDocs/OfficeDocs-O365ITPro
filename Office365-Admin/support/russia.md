@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Russia
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -35,5 +34,3 @@ English: 24 hours a day, 7 days a week
 Alternative Phone Number: 499 922 86 23
 
 Local call charges apply
-
-

@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Romania
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -31,5 +30,3 @@ English: 24 hours a day, 7 days a week
 Alternative Phone Number: 372 741 961
 
 Local call charges apply
-
-

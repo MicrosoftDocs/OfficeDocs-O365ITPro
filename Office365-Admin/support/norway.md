@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Norway
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -31,5 +30,3 @@ English: 24 hours a day, 7 days a week
 Alternative Phone Number: 22 31 07 48
 
 Local call charges apply
-
-

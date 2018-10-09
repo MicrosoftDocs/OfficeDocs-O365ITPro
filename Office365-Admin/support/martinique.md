@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Martinique
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -33,4 +32,3 @@ French: Mon-Fri 6 AM-1 PM
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-

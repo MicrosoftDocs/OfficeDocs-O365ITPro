@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Canada
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -31,7 +30,3 @@ French: Mon-Fri 9 AM-5 PM ET
 English: 24 hours a day, 7 days a week
 
 French: Mon-Fri 9 AM-5 PM ET
-
-
-
-

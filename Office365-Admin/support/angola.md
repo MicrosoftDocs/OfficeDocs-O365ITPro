@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Angola
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -31,5 +30,3 @@ Portuguese: Mon-Fri 9 AM-10 PM
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-
-

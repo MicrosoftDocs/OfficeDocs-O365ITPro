@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Macau SAR
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -39,7 +38,3 @@ Cantonese: Mon-Fri 9 AM-5 PM
 Mandarin: Mon-Fri 9 AM-5 PM
 
 English: 24 hours a day, 7 days a week
-
-
-
-

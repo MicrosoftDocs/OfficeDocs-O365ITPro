@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Guinea-Bissau
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -31,10 +30,3 @@ Portuguese: 8 AM-9 PM
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-
-
-
-
-
-
-

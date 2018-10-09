@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Nepal
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -27,7 +26,3 @@ Not available by phone
 ### Technical Support:
 
 Not available by phone
-
-
-
-
