@@ -341,22 +341,19 @@ Here are some examples of billing and subscription management issues:
 
 Technical support for Office 365 operated by 21Vianet subscriptions provides assistance with basic installation, setup, and general technical usage. Some examples of these issues are listed in the following table.
 
-
 <table><tr><th>Support category</th><th>Examples</th></tr><tr><td>Installation and setup</td><td>Exchange Online <ul><li>Office 365 mailbox migration</li><li>Recipient configuration (mailbox permissions, configuring mail forwarding, configuring shared mailbox)</li><li>Autodiscover configuration</li></ul><p>SharePoint Online</p><ul><li>Permissions and user groups</li><li>Configuration of external users</li></ul> Skype for Business Online <ul><li>Installation and creating contacts</li></ul> Office 365 ProPlus <ul><li>Installation and setup</li></ul></td></tr><tr><td>Configuration</td><td>Service configuration issues <ul><li>Single sign-on (SSO)</li><li>Active Directory synchronization</li></ul></td></tr></table>
-
-|
-|
-|**Support category**|**Examples**|
-|:-----|:-----|
-|Installation and setup  <br/> | Exchange Online  <br/>  Office 365 mailbox migration  <br/>  Recipient configuration (mailbox permissions, configuring mail forwarding, configuring shared mailbox)  <br/>  Autodiscover configuration  <br/>  SharePoint Online  <br/>  Permissions and user groups  <br/>  Configuration of external users  <br/>  Skype for Business Online  <br/>  Installation and creating contacts  <br/>  Office 365 ProPlus  <br/>  Installation and setup  <br/> |
-|Configuration  <br/> | Service configuration issues  <br/>  Single sign-on (SSO)  <br/>  Active Directory synchronization  <br/> |
-   
+  
 > [!NOTE]
 > You can learn how to contact technical support here: [Contact support](contact-support-for-business-products.md#BKMK_ContactSupport_Gallatin). > Technical support does not include troubleshooting third-party services or add-ins. Learn about finding answers from other customers in the [Community](https://go.microsoft.com/fwlink/p/?linkid=842838). 
   
 ### Technical support case handling
 
 21Vianet assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table.
+
+<table><tr><th>Severity level</th><th>Operations and support description</th><th>Examples</th></tr>
+<tr><td>Sev A (Critical)</td><td>One or more services aren't accessible or are unusable. Production, operations, or deployment deadlines are severely affected, or there will be a severe impact on production or profitability. Multiple users or services are affected.</td><td><ul><li>Widespread problems sending or receiving mail.</li><li>SharePoint site down.</li><li>All users can't send instant messages, join or schedule Skype for Business Meetings, or make Skype for Business calls.</li></ul></td></tr>
+<tr><td>Sev B (High)</td><td>The service is usable but in an impaired fashion. The situation has moderate business impact and can be dealt with during business hours. A single user, customer, or service is partially affected.</td><td><ul><li>Send button in Outlook is garbled.</li><li>Setting is impossible from EAC (Exchange admin center) but possible in Windows PowerShell.</li></ul></td></tr>
+<tr><td>Sev C (Non-critical)</td><td>The situation has minimal business impact. The issue is important but does not have a significant current service or productivity impact for the customer. A single user is experiencing partial disruption, but an acceptable workaround exists.</td><td><ul><li>How to set user password that never expires.</li><li>User can't delete contact information in Exchange Online.</li></ul></td></tr></table>
   
 |**Severity level**|**Operations and support description**|**Examples**|
 |Sev A (Critical)  <br/> |One or more services aren't accessible or are unusable. Production, operations, or deployment deadlines are severely affected, or there will be a severe impact on production or profitability. Multiple users or services are affected.  <br/> | Widespread problems sending or receiving mail.  <br/>  SharePoint site down.  <br/>  All users can't send instant messages, join or schedule Skype for Business Meetings, or make Skype for Business calls.  <br/> |
