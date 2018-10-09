@@ -439,13 +439,4 @@ On your DNS host's website, you'll create two new SRV records, typically one at 
   
  **If you don't have a website that you use with your custom domain**, you can have Office 365 set up and manage DNS records for your domain instead of doing all the setup yourself. Learn about the [two options for setting up and managing DNS records for a custom domain](https://support.office.com/article/5980474a-097f-4f21-a864-21245314957f.aspx) in Office 365. 
   
-## Still need help?
-<a name="BKMK_NeedHelp"> </a>
-
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
-  
 
