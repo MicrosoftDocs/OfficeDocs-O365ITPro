@@ -401,7 +401,7 @@ Call support. If you encounter any problem with online request, phone support is
   
 People with Office 365 administrator roles are the only ones in the customer's organization authorized to access the Admin section of the Office 365 operated by 21Vianet portal and to communicate directly with 21Vianet about Office 365 service requests.
   
-With Office 365 you can designate several types of administrators who serve different functions. This service description uses the generic title administrator to refer to all categories of administrators. For more information about the types of administrator roles, see [Assigning admin roles in Office 365 operated by 21Vianet](https://support.office.com/article/d58b8089-cbfd-41ec-b64c-9cfcbef495ac.aspx).
+With Office 365 you can designate several types of administrators who serve different functions. This service description uses the generic title administrator to refer to all categories of administrators. For more information about the types of administrator roles, see [Assign admin roles in Office 365 for business](add-users-2/assign-admin-roles.md).
   
 The administrator is:
   
@@ -457,7 +457,7 @@ Scan this QR code to follow us on WeChat and get the latest updates for Office 3
 
 ::: moniker range="o365-germany"
 
-This article applies to customers of Office 365 Germany, which has domains ending onmicrosoft.de. For more information, see [Learn about Office 365 Germany](https://support.office.com/article/8a5a4bbc-667a-4cac-8769-d8ac9015db4c.aspx).
+This article applies to customers of Office 365 Germany, which has domains ending onmicrosoft.de. For more information, see [Learn about Office 365 Germany](admin-overview/learn-about-office-365-germany.md).
   
 As an admin for Office 365 Germany, you get free access to our knowledgeable support agents for help resolving technical issues, as well as for pre-sales, account, and billing support. You can also contact us on behalf of Office 365 Germany users in your organization.
   
