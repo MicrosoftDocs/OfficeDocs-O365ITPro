@@ -345,7 +345,8 @@ Technical support for Office 365 operated by 21Vianet subscriptions provides ass
 <table><tr><th>Support category</th><th>Examples</th></tr><tr><td>Installation and setup</td><td>Exchange Online <ul><li>Office 365 mailbox migration</li><li>Recipient configuration (mailbox permissions, configuring mail forwarding, configuring shared mailbox)</li><li>Autodiscover configuration</li></ul><p>SharePoint Online</p><ul><li>Permissions and user groups</li><li>Configuration of external users</li></ul> Skype for Business Online <ul><li>Installation and creating contacts</li></ul> Office 365 ProPlus <ul><li>Installation and setup</li></ul></td></tr><tr><td>Configuration</td><td>Service configuration issues <ul><li>Single sign-on (SSO)</li><li>Active Directory synchronization</li></ul></td></tr></table>
   
 > [!NOTE]
-> You can learn how to contact technical support here: [Contact support](contact-support-for-business-products.md#BKMK_ContactSupport_Gallatin). > Technical support does not include troubleshooting third-party services or add-ins. Learn about finding answers from other customers in the [Community](https://go.microsoft.com/fwlink/p/?linkid=842838). 
+> You can learn how to contact technical support here: [Contact support](contact-support-for-business-products.md#BKMK_ContactSupport_Gallatin). 
+> Technical support does not include troubleshooting third-party services or add-ins. Learn about finding answers from other customers in the [Community](https://go.microsoft.com/fwlink/p/?linkid=842838). 
   
 ### Technical support case handling
 
@@ -467,9 +468,9 @@ As an admin for Office 365 Germany, you get free access to our knowledgeable sup
 
 Assisted support options are for admins of Office 365 Germany subscribed organizations only. If you use Office 365 Germany at work or school, but you're not an admin, you can still get support in the community forums, or by contacting your admin or IT department.
 
-**Open an online request.** Save time by starting your service request online. In the Office 365 admin center, choose **Support** \> **New service request.** We'll help you find a solution or connect you to an expert who will contact you by email or phone.
+- **Open an online request.** Save time by starting your service request online. In the Office 365 admin center, choose **Support** \> **New service request.** We'll help you find a solution or connect you to an expert who will contact you by email or phone.
 
-**Call support.** We're here to talk. Admins, have your account details ready when you call support.
+- **Call support.** We're here to talk. Admins, have your account details ready when you call support.
 
 <table>
 <tr><th>Region</th><th>Phone number</th><th>Hours</th></tr>
@@ -479,6 +480,6 @@ Assisted support options are for admins of Office 365 Germany subscribed organiz
    
 ### Let our community help
 
-![Office 365 community forums](media/66a6efa4-f6a3-41d4-a853-4d41186c8b74.png) You can also [search the Office 365 for business community forums](https://go.microsoft.com/fwlink/p/?LinkId=518605) to find known issues and trending topics, or to post a new question. The community forums are monitored by trained Microsoft support agents who can help resolve your issue.
+You can also [search the Office 365 for business community forums](https://go.microsoft.com/fwlink/p/?LinkId=518605) to find known issues and trending topics, or to post a new question. The community forums are monitored by trained Microsoft support agents who can help resolve your issue.
    
 ::: moniker-end
