@@ -76,11 +76,11 @@ To change the **Sold-To** address, see [Change your organization's address, tech
     ![The change payment details pane when you pay by credit card or bank account.](../media/fda460f7-ca40-46d7-a2c8-d467d62a8d5f.png)
   
      *Invoice customers:*  On the **Change payment details** page, update your billing address, then choose **Submit**.
-  
-![Screen shot of the Change payment details pane.](../media/c08bfeea-d3fc-4eb5-b7d1-d2b23e74b814.png)
-  
-    > [!NOTE]
-    > The ability to pay an invoice by check isn't available in some countries or regions. 
+
+> [!NOTE]
+> The ability to pay an invoice by check isn't available in some countries or regions.   
+
+![Screen shot of the Change payment details pane.](../media/c08bfeea-d3fc-4eb5-b7d1-d2b23e74b814.png)   
   
 ::: moniker-end
 
