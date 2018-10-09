@@ -341,6 +341,9 @@ Here are some examples of billing and subscription management issues:
 
 Technical support for Office 365 operated by 21Vianet subscriptions provides assistance with basic installation, setup, and general technical usage. Some examples of these issues are listed in the following table.
 
+
+<table><tr><th>**Support category**</th><th>**Examples**</th></tr><tr><td>Installation and setup</td><td><p>Exchange Online</p><ul><li>Office 365 mailbox migration</li><li>Recipient configuration (mailbox permissions, configuring mail forwarding, configuring shared mailbox)</li><li>Autodiscover configuration</li></ul><p>SharePoint Online</p><ul><li>Permissions and user groups</li><li>Configuration of external users</li></ul>  <p>Skype for Business Online</p>  <ul><li>Installation and creating contacts</li></ul> <p>Office 365 ProPlus</p> <ul><li>Installation and setup</li></ul></td></tr><tr><td>Configuration</td><td><p>Service configuration issues</p>  <ul><li>Single sign-on (SSO)</li><li>Active Directory synchronization</li></ul></td></tr></table>
+
 |
 |
 |**Support category**|**Examples**|
