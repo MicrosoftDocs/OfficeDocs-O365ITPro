@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Moldova
 author: cmcatee-MSFT

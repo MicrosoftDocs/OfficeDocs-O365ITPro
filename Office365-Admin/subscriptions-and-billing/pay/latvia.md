@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Latvia
 author: cmcatee-MSFT

@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Qatar
 author: cmcatee-MSFT

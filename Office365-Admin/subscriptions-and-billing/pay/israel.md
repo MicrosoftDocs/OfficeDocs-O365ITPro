@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Israel
 author: cmcatee-MSFT

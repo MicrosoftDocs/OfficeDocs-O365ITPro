@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Romania
 author: cmcatee-MSFT

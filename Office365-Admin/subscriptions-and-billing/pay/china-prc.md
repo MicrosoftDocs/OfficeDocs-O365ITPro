@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for China (PRC)
 author: cmcatee-MSFT

@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Malaysia
 author: cmcatee-MSFT

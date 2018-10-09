@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for El Salvador
 author: cmcatee-MSFT

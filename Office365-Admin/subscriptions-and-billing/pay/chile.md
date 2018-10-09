@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Chile
 author: cmcatee-MSFT

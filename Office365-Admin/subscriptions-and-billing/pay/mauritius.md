@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Mauritius
 author: cmcatee-MSFT

@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Palestinian Authority
 author: cmcatee-MSFT

@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Croatia
 author: cmcatee-MSFT

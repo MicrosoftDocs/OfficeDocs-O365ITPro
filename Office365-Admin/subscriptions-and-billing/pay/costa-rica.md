@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Costa Rica
 author: cmcatee-MSFT

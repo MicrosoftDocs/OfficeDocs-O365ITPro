@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Angola
 author: cmcatee-MSFT

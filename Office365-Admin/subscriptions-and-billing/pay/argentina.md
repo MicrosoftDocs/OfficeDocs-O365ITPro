@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Argentina
 author: cmcatee-MSFT

@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Cameroon
 author: cmcatee-MSFT

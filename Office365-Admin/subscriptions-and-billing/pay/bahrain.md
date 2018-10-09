@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Bahrain
 author: cmcatee-MSFT

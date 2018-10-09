@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Netherlands
 author: cmcatee-MSFT

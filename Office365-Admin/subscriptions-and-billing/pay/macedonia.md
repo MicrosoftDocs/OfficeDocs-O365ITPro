@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Macedonia, Former Yugoslav Republic of
 author: cmcatee-MSFT

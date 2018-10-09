@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Paraguay
 author: cmcatee-MSFT

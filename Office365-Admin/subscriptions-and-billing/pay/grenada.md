@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Grenada
 author: cmcatee-MSFT

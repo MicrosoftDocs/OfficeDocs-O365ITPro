@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Vietnam
 author: cmcatee-MSFT

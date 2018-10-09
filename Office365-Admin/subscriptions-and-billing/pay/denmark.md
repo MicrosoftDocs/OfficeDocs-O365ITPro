@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Denmark
 author: cmcatee-MSFT

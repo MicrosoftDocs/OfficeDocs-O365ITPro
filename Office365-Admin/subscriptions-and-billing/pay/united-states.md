@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for United States
 author: cmcatee-MSFT

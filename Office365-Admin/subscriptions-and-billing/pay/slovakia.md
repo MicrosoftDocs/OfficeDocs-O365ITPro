@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Slovakia
 author: cmcatee-MSFT

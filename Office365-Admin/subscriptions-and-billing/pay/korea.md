@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Korea
 author: cmcatee-MSFT

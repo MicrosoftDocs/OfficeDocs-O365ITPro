@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Curacao
 author: cmcatee-MSFT

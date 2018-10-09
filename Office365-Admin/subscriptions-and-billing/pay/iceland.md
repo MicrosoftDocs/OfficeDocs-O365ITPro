@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Iceland
 author: cmcatee-MSFT

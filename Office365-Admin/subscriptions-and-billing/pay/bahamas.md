@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Bahamas
 author: cmcatee-MSFT

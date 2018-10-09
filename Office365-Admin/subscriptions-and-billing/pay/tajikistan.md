@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Tajikistan
 author: cmcatee-MSFT

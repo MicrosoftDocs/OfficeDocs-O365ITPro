@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Japan
 author: cmcatee-MSFT

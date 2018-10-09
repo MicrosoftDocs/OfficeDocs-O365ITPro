@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Trinidad and Tobago
 author: cmcatee-MSFT

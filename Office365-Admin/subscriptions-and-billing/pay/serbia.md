@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Serbia
 author: cmcatee-MSFT

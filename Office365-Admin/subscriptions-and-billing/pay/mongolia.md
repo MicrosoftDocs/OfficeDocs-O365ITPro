@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Mongolia
 author: cmcatee-MSFT

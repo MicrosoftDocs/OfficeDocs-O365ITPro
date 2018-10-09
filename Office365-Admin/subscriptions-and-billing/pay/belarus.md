@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Belarus
 author: cmcatee-MSFT

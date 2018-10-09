@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for South Africa
 author: cmcatee-MSFT

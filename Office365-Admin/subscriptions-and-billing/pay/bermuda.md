@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Bermuda
 author: cmcatee-MSFT

@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Zimbabwe
 author: cmcatee-MSFT

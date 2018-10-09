@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Spain
 author: cmcatee-MSFT

@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Afghanistan
 author: cmcatee-MSFT

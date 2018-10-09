@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Uzbekistan
 author: cmcatee-MSFT

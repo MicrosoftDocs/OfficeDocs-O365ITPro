@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Faroe Islands
 author: cmcatee-MSFT

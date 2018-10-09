@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Bolivia
 author: cmcatee-MSFT

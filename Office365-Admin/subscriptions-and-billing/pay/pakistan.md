@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Pakistan
 author: cmcatee-MSFT

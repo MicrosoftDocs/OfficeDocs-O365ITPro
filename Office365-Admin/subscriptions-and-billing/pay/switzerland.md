@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Switzerland
 author: cmcatee-MSFT

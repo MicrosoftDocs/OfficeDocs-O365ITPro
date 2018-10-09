@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Fiji
 author: cmcatee-MSFT

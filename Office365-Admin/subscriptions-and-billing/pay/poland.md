@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Poland
 author: cmcatee-MSFT

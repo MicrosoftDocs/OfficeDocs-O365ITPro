@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Russia
 author: cmcatee-MSFT

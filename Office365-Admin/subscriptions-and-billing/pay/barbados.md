@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Barbados
 author: cmcatee-MSFT

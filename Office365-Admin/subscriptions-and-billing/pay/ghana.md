@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Ghana
 author: cmcatee-MSFT

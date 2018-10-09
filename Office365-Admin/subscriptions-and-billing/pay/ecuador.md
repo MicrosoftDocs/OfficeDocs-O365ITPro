@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Ecuador
 author: cmcatee-MSFT

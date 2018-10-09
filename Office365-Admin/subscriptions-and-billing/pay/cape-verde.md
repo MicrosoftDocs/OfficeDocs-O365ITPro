@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Cape Verde
 author: cmcatee-MSFT

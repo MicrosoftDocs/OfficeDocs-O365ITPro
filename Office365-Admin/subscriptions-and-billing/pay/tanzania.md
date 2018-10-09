@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Tanzania
 author: cmcatee-MSFT

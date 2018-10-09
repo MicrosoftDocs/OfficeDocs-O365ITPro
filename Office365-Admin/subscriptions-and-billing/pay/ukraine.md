@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Ukraine
 author: cmcatee-MSFT

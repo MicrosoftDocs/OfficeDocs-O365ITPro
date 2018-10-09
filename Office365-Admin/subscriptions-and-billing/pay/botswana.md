@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Botswana
 author: cmcatee-MSFT

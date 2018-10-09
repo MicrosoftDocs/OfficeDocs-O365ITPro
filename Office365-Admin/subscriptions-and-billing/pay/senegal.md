@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Senegal
 author: cmcatee-MSFT

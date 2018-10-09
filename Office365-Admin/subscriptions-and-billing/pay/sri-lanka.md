@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Sri Lanka
 author: cmcatee-MSFT

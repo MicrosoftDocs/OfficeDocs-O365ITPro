@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Brunei
 author: cmcatee-MSFT

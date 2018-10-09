@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Hong Kong
 author: cmcatee-MSFT

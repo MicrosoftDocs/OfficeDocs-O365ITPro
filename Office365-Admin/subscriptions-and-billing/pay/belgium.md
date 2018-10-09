@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Belgium
 author: cmcatee-MSFT

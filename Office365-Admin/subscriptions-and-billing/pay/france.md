@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for France
 author: cmcatee-MSFT

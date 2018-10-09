@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Saint Kitts and Nevis
 author: cmcatee-MSFT

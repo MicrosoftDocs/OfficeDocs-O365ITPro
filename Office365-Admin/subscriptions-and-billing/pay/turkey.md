@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Turkey
 author: cmcatee-MSFT

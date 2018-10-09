@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Kazakhstan
 author: cmcatee-MSFT

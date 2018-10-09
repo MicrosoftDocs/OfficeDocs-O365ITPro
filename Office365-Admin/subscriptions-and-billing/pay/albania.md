@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Albania
 author: cmcatee-MSFT

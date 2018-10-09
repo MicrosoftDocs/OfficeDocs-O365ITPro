@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Honduras
 author: cmcatee-MSFT

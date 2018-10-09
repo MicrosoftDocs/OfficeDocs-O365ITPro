@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Saudi Arabia
 author: cmcatee-MSFT

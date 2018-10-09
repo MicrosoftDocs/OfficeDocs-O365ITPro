@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Ethiopia
 author: cmcatee-MSFT

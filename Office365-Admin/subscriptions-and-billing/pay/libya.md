@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Libya
 author: cmcatee-MSFT

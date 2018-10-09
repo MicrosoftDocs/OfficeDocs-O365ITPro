@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Canada
 author: cmcatee-MSFT

@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Portugal
 author: cmcatee-MSFT

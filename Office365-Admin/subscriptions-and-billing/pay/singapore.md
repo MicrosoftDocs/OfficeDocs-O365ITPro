@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Singapore
 author: cmcatee-MSFT

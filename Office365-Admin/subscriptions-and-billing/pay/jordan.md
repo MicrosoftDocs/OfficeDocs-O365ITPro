@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Jordan
 author: cmcatee-MSFT

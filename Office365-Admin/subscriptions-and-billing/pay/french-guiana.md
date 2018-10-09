@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for French Guiana
 author: cmcatee-MSFT

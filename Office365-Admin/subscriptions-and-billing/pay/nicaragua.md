@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Nicaragua
 author: cmcatee-MSFT

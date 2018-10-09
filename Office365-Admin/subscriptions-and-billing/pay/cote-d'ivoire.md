@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Côte d'Ivoire
 author: cmcatee-MSFT

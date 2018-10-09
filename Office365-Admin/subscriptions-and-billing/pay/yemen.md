@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Yemen
 author: cmcatee-MSFT

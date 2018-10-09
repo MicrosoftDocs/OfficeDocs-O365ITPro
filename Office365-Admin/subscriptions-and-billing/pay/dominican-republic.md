@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Dominican Republic
 author: cmcatee-MSFT

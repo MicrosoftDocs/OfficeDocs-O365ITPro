@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Thailand
 author: cmcatee-MSFT

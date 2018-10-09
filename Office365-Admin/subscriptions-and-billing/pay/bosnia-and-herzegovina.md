@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Bosnia and Herzegovina
 author: cmcatee-MSFT

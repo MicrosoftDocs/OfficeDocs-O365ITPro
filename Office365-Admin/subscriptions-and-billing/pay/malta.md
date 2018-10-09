@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Malta
 author: cmcatee-MSFT

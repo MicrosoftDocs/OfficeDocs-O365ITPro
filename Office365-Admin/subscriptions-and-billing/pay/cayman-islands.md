@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Cayman Islands
 author: cmcatee-MSFT

@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Saint Lucia
 author: cmcatee-MSFT

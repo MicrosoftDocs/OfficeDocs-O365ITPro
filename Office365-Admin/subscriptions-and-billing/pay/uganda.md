@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Uganda
 author: cmcatee-MSFT

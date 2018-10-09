@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Bangladesh
 author: cmcatee-MSFT

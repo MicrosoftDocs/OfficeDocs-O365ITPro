@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Belize
 author: cmcatee-MSFT

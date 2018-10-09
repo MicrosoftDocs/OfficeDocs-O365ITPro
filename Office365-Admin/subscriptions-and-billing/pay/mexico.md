@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Mexico
 author: cmcatee-MSFT

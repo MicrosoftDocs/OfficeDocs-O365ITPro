@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Uruguay
 author: cmcatee-MSFT

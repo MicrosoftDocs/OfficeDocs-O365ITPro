@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Slovenia
 author: cmcatee-MSFT

@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Panama
 author: cmcatee-MSFT

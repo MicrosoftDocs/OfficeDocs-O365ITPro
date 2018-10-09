@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Brazil
 author: cmcatee-MSFT

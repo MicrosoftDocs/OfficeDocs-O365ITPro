@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Austria
 author: cmcatee-MSFT

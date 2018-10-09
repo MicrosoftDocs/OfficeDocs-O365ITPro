@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Macao
 author: cmcatee-MSFT

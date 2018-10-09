@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Iraq
 author: cmcatee-MSFT

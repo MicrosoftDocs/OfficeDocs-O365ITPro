@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Colombia
 author: cmcatee-MSFT

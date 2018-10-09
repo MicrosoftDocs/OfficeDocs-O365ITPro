@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Indonesia
 author: cmcatee-MSFT

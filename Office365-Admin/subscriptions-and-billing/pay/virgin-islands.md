@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Virgin Islands, US
 author: cmcatee-MSFT

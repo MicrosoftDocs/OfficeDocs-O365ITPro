@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Guyana
 author: cmcatee-MSFT

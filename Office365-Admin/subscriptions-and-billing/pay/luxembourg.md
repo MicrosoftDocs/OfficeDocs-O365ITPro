@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Luxembourg
 author: cmcatee-MSFT

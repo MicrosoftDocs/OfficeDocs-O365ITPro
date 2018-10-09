@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Cyprus
 author: cmcatee-MSFT

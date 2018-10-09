@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Azerbaijan
 author: cmcatee-MSFT

@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Finland
 author: cmcatee-MSFT

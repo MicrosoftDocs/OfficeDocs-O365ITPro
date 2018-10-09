@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Liechtenstein
 author: cmcatee-MSFT

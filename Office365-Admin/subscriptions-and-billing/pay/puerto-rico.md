@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Puerto Rico
 author: cmcatee-MSFT

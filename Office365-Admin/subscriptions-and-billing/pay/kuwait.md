@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Kuwait
 author: cmcatee-MSFT

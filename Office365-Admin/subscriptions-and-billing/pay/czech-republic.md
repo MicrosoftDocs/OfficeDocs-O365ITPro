@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Czech Republic
 author: cmcatee-MSFT

@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Egypt
 author: cmcatee-MSFT

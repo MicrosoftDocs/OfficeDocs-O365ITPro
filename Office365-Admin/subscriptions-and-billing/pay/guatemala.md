@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Guatemala
 author: cmcatee-MSFT

@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Estonia
 author: cmcatee-MSFT

@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Nepal
 author: cmcatee-MSFT

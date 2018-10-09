@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Lithuania
 author: cmcatee-MSFT

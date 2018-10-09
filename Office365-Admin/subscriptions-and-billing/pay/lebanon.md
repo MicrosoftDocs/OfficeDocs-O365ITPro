@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Lebanon
 author: cmcatee-MSFT

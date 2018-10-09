@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Australia
 author: cmcatee-MSFT

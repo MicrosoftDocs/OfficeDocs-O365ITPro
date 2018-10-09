@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Sweden
 author: cmcatee-MSFT

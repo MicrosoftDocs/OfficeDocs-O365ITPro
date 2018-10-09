@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Peru
 author: cmcatee-MSFT

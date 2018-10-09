@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Democratic Republic of Congo
 author: cmcatee-MSFT

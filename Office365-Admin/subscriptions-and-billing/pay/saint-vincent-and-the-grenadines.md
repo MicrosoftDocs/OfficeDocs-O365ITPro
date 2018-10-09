@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Saint Vincent and the Grenadines
 author: cmcatee-MSFT

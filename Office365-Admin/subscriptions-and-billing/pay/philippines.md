@@ -1,4 +1,3 @@
-
 ---
 title: Payment information for Philippines
 author: cmcatee-MSFT
