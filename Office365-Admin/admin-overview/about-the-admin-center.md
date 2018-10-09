@@ -46,8 +46,12 @@ You use the Office 365 admin center to set up your organization in the cloud, ma
 
     ::: moniker-end
 
+    ::: moniker range="o365-21vianet"
+
     If you're using Office 365 operated by 21Vianet, [sign in to Office 365 operated by 21Vianet](https://login.partner.microsoftonline.cn) with your Office 365 admin account. 
     
+    ::: moniker-end
+
 2. Select the app launcher icon ![Office 365 app launcher icon](../media/0aaa6945-f9a4-4b13-bf5f-d5c5dbe978fb.png) in the upper-left and choose **Admin**.
     
     The **Admin** tile appears only to people who have Office 365 [admin permissions](../add-users-2/about-admin-roles.md). If you don't see the tile, then you don't have permissions to access the admin center for your organization.
@@ -60,8 +64,8 @@ The Office 365 admin center looks like this.
   
 Here are the features and settings you'll find in the left-hand navigation of the Office 365 admin center. Learn more about admin tasks in [Office 365 admin help](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791.aspx).
   
-|
-|
+
+
 |**Menu**|**What it's for**|
 |-----|-----|
 |**Home** <br/> |This is the landing page in the new Office 365 admin center. You'll see where to manage users, billing, service health, and reports.  <br/> |
