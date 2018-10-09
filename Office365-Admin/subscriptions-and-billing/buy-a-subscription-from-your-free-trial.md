@@ -76,7 +76,7 @@ If you purchase a different type of subscription that your trial, you will have 
     
 6. Complete the steps to check out.
 
-## See also
+## Related topics
 <a name="BKMK_SeeAlso"> </a>
 
 [Extend your trial for Office 365 for business](extend-your-trial.md)

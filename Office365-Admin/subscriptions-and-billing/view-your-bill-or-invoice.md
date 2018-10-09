@@ -79,14 +79,13 @@ By default, you will receive a copy of your billing statement as an email attach
     
     You can resume receiving the billing statement emails at any time by switching the toggle to **On**.
   
-## See also
+## Related topics
 <a name="BKMK_ContactSupport"> </a>
 
-[Pay by invoice, credit card, or bank account for Office 365 for business](pay-for-your-subscription.md)
+[Pay by invoice, credit card, or bank account](pay-for-your-subscription.md)
   
-[Add, update, or remove a credit card or bank account in Office 365 for business](add-update-or-remove-credit-card-or-bank-account.md)
+[Add, update, or remove a credit card or bank account](add-update-or-remove-credit-card-or-bank-account.md)
   
 [Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
   
 [Minecraft: Education Edition payment options](https://go.microsoft.com/fwlink/p/?linkid=838761)
-

@@ -63,7 +63,7 @@ When you sign in to the Office 365 admin center, you might see the following ale
     > [!NOTE]
     > When you use the **Pay now** feature, you'll be charged for the entire outstanding balance on your account, which could be more than the amount due shown elsewhere. 
   
-![The Payment details pane indicating the credit card has expired.](../media/a21457e4-1e7c-4ca2-b2e8-c69d27ca9d9f.png)
+    ![The Payment details pane indicating the credit card has expired.](../media/a21457e4-1e7c-4ca2-b2e8-c69d27ca9d9f.png)
   
 4. If you're not the credit card owner, you can select a different credit card or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
     
@@ -275,7 +275,7 @@ If your original reasons for choosing invoice, credit card, or bank account have
   
 If your original reasons for choosing invoice or credit card have changed, for example, if you adjust your subscription so that the payment amount is lower so that you no longer qualify for invoice payments, you can change your payment method. For more information, see [Change your payment method for Office 365](change-payment-method.md).
   
-## See also
+## Related topics
 <a name="BKMK_ContactSupport"> </a>
 
 [Add, update, or remove a credit card or bank account in Office 365 for business](add-update-or-remove-credit-card-or-bank-account.md)

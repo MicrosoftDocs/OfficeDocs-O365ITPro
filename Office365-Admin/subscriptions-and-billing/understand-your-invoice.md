@@ -112,7 +112,7 @@ If you pay by invoice, you can add or change the purchase order (PO) number for 
     
     ![Screen shot of the Change payment details pane.](../media/c08bfeea-d3fc-4eb5-b7d1-d2b23e74b814.png)
   
-## See also
+## Related topics
 <a name="BKMK_ContactSupport"> </a>
 
 [Pay for your Office 365 for business subscription](pay-for-your-subscription.md)

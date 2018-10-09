@@ -79,7 +79,7 @@ Standalone add-ons are not linked to a specific subscription. Standalone add-ons
     > [!TIP]
     > You can also use the up-arrow and down-arrow to change the quantity of user licenses or just enter the number you want in the box. 
   
-![Total licenses box and the submit button on the Add or remove licenses dialog box.](../media/dfee31e0-092d-4565-9bf5-ff3909b771e1.png)
+    ![Total licenses box and the submit button on the Add or remove licenses dialog box.](../media/dfee31e0-092d-4565-9bf5-ff3909b771e1.png)
   
 ### Update a standalone add-on
 
@@ -96,7 +96,7 @@ Standalone add-ons are not linked to a specific subscription. Standalone add-ons
     > [!TIP]
     > You can also use the up-arrow and down-arrow to change the quantity of licenses or just enter the number you want in the box. 
   
-![Total licenses box and the submit button on the Add or remove licenses dialog box.](../media/dfee31e0-092d-4565-9bf5-ff3909b771e1.png)
+    ![Total licenses box and the submit button on the Add or remove licenses dialog box.](../media/dfee31e0-092d-4565-9bf5-ff3909b771e1.png)
   
 ## Remove an add-on
 
@@ -124,9 +124,8 @@ For information about Skype for Business add-ons, see [Skype for Business and Mi
 |Domestic Calling Plan in Office 365  <br/> | Office 365 Enterprise E5  <br/> |
 |International Calling Plan in Office 365  <br/> | Office 365 Enterprise E5  <br/> |
   
-## See also
+## Related topics
 
 [Change storage space for your subscription](add-storage-space.md)
   
 [Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
-

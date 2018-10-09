@@ -149,7 +149,7 @@ Office 365 Extra File Storage is available for the following subscriptions:
     
 - Office 365 Business Premium
   
-## See also
+## Related topics
 <a name="BKMK_eligible"> </a>
 
 [Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)

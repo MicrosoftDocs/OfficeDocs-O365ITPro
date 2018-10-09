@@ -58,12 +58,10 @@ After purchasing a new subscription, you'll need to assign the users who you wan
     
 8. On the confirmation page, choose **Continue**.
     
-## Related Topics
+## Related topics
 
 [Assign licenses to user in Office 365 for business](assign-licenses-to-users.md)
   
 [Remove licenses from users in Office 365 for business](remove-licenses-from-users.md)
   
 [Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
-  
-
