@@ -3,7 +3,6 @@ title: "Office 365 Admin Mobile App"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 3/26/2018
 ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration
@@ -19,16 +18,16 @@ description: "Get the Office 365 Admin app and learn to manage Office 365 from y
 
 # Office 365 Admin Mobile App
 
-Are you an Office 365 admin that's usually on the go? Then check out the [Office 365 Admin app](https://go.microsoft.com/fwlink/?LinkID=627216). You can use the app to manage Office 365 from your phone or tablet. You can get the app from the Apple Store, Google Play, and from the Microsoft Store.
+Are you an admin who's usually on the go? Then check out the [Office 365 Admin app](https://go.microsoft.com/fwlink/?LinkID=627216). You can use the app to manage Office 365 from your phone or tablet. You can get the app from the Apple Store, Google Play, and from the Microsoft Store.
   
 > [!IMPORTANT]
-> If you're having trouble using the Office 365 Admin mobile app on iOS, Android, or Windows Phone, email feedback365@microsoft.com for help. 
+> If you're having trouble using the Admin mobile app on iOS, Android, or Windows Phone, email feedback365@microsoft.com for help. 
   
 ## Download the admin mobile app
 
 [Office 365 Admin mobile app](https://go.microsoft.com/fwlink/?LinkID=627216).
   
-## Office 365 Mobile Admin app video
+## Mobile Admin app video
 
 Check out this video on how to use and navigate the app.
   
@@ -40,7 +39,7 @@ Below are answers to some frequently asked questions people ask about the app.
   
 ## What do I need to do to be able to use the app?
 
-You must have a valid Office 365 Business subscription with admin privileges to sign in and use the app. The Office 365 Admin mobile app isn't an email client.
+You must have a valid Office 365 Business subscription with admin privileges to sign in and use the app. The Admin mobile app isn't an email client.
   
 ## Can I use the app with my Office 365 for home subscription?
 
@@ -77,13 +76,10 @@ You can try some common mobile app troubleshooting steps:
 
 We release beta features to the app for feedback to gauge how we can improve them before releasing worldwide. You can check out beta features by doing the following:
   
-- Go to Settings.
-    
-- Tap the app version number 5 times to unlock **More settings**.
-    
-- Turn on beta features to test out the latest stuff we've been working on. You'll need to restart the app for some beta features to show up.
-    
-- Leave feedback via the feedback tool in the app.
+1. Go to Settings.
+2. Tap the app version number 5 times to unlock **More settings**.
+3. Turn on beta features to test out the latest stuff we've been working on. You'll need to restart the app for some beta features to show up.
+4. Leave feedback via the feedback tool in the app.
     
 ## What do I do if my question isn't answered?
 
