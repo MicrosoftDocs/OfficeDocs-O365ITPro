@@ -3,7 +3,6 @@ title: "Office 365 admin overview"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-ms.date: 6/4/2018
 ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration
@@ -24,13 +23,11 @@ description: "Learn about the Office 365 admin center: how to sign in, who your 
 
 # Office 365 admin overview
 
- *Last updated 28 November, 2017* 
   
 When you [buy an Office 365 business plan](https://go.microsoft.com/fwlink/?linkid=856886), we give you a special Office 365 account that has admin permissions. This account is called an admin account.
   
 With this account you can access the Office 365 admin center to manage your business: add users, manage your subscription, reset passwords, and more. Try it!
   
-- 
 ::: moniker range="o365-worldwide"
 
  **Sign in with your Office 365 admin account at [https://aka.ms/admincenter](https://aka.ms/admincenter).**
@@ -49,7 +46,7 @@ Sign in with your Office 365 admin account at [https://portal.office.de/adminpor
 
 ::: moniker-end
 
-    If you get the message " **You don't have permission to access this page or perform this action**" then you aren't an Office 365 admin.
+If you get the message "**You don't have permission to access this page or perform this action**," you aren't an Office 365 admin.
     
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/3a4e19ee-1a2a-473f-8995-06de0052c169?autoplay=false]
   
