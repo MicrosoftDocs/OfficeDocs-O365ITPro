@@ -3,7 +3,7 @@ title: "Domains FAQ"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 8/8/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:

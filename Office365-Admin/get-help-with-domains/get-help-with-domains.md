@@ -3,7 +3,7 @@ title: "Get help with Office 365 domains"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/8/2018
+
 ms.audience: Admin
 ms.topic: landing-page
 layout: LandingPage

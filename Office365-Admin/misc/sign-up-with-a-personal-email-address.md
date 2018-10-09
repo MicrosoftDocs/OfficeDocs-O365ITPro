@@ -3,7 +3,7 @@ title: "Signing up for Office 365 with a personal email address"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/16/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

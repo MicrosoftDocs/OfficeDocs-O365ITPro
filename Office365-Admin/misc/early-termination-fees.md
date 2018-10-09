@@ -3,7 +3,7 @@ title: "Early termination fees"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 12/15/2015
+
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:

@@ -3,7 +3,7 @@ title: "Problems with your Office 365 for business product key?"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 7/2/2018
+
 ms.audience: Admin
 ms.topic: troubleshooting
 f1_keywords:

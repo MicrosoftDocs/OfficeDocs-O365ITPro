@@ -3,7 +3,7 @@ title: "Office 365 Reports in the Admin Center - Yammer groups activity report"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.date: 4/9/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

@@ -3,7 +3,7 @@ title: "Power BI in your organization"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/12/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

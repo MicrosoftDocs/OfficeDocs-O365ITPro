@@ -3,7 +3,7 @@ title: "Audit Yammer users in networks connected to Office 365"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 3/22/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

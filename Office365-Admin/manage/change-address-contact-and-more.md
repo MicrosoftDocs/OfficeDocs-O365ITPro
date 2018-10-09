@@ -3,7 +3,7 @@ title: "Change your organization's address, technical contact, and more"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-ms.date: 9/11/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

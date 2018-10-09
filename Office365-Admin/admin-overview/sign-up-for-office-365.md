@@ -3,7 +3,7 @@ title: "How to sign up for Office 365 - Admin Help"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 7/25/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

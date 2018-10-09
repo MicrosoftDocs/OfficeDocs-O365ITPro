@@ -3,7 +3,7 @@ title: "Create DNS records at eNomCentral for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/9/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:

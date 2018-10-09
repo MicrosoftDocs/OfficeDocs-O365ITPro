@@ -3,7 +3,7 @@ title: "Using Domain Connect"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/17/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:

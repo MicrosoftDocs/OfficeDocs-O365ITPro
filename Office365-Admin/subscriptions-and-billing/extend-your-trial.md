@@ -3,7 +3,7 @@ title: "Extend your trial for Office 365 for business"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/14/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

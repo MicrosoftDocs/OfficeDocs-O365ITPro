@@ -3,7 +3,7 @@ title: "Configure your Yammer network"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 8/10/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server

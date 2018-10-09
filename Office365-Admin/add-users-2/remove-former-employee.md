@@ -3,7 +3,7 @@ title: "Remove a former employee from Office 365"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 9/7/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

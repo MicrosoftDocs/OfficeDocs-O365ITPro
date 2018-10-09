@@ -3,7 +3,7 @@ title: "Delete a user from your organization"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-ms.date: 7/24/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

@@ -3,7 +3,7 @@ title: "Buy another Office 365 for business subscription"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 7/9/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

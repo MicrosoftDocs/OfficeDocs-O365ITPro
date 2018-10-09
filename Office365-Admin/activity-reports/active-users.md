@@ -3,7 +3,7 @@ title: "Office 365 Reports in the Admin Center - Active Users"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 8/16/2018
+
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:

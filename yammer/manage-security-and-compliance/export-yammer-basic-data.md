@@ -3,7 +3,7 @@ title: "Export data from Yammer Basic"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 4/13/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

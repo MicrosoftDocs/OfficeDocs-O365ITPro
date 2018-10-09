@@ -3,7 +3,7 @@ title: "License restrictions for Office 365"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/25/2017
+
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:

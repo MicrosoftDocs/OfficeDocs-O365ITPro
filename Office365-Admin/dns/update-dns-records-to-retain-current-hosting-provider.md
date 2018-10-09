@@ -3,7 +3,7 @@ title: "Update DNS records to keep your website with your current hosting provid
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 7/30/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

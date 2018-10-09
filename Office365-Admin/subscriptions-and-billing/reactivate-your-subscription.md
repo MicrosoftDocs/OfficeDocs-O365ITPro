@@ -3,7 +3,7 @@ title: "Reactivate your subscription"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 9/5/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

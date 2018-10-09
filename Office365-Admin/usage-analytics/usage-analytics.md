@@ -3,7 +3,7 @@ title: "Microsoft 365 usage analytics"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.date: 8/29/2018
+
 ms.audience: Admin
 ms.topic: reference
 f1_keywords:

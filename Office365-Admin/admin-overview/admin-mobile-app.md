@@ -3,7 +3,7 @@ title: "Office 365 Admin Mobile App"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 3/26/2018
+
 ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration

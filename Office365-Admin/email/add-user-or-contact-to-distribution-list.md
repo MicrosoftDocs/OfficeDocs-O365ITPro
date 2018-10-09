@@ -3,7 +3,7 @@ title: "Add a user or contact to an Office 365 distribution list"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 2/14/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

@@ -3,7 +3,7 @@ title: "What happens to my data and access when my Office 365 for business subsc
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 10/2/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

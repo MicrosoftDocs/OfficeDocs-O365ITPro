@@ -3,7 +3,7 @@ title: "GDPR simplified A guide for your small business"
 ms.author: supotter
 author: supotter
 manager: scotv
-ms.date: 5/23/2018
+
 ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration

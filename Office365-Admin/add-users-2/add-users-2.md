@@ -3,7 +3,7 @@ title: "Add users individually or in bulk to Office 365 - Admin Help"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.date: 9/26/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

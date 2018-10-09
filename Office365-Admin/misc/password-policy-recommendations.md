@@ -3,7 +3,7 @@ title: "Password policy recommendations for Office 365"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 6/26/2018
+
 ms.audience: Admin
 ms.topic: reference
 f1_keywords:
