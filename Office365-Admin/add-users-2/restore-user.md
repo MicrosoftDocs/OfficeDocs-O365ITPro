@@ -160,16 +160,7 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 5. Click **Restore**. Any conflicting proxy addresses are automatically removed from the user you are restoring.
     
 6. Review the results, and then select **Close**.
-    
-## Still need help?
-<a name="RestoreUserProxyConflict"> </a>
 
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
-  
 ## Related Topics
 <a name="RestoreUserProxyConflict"> </a>
 

@@ -230,16 +230,10 @@ If you changed your password, the password box might not appear until you delete
 For more troubleshooting information, see [Troubleshooting Skype for Business Online sign-in errors for administrators](https://support.office.com/article/cdd4801a-2fe1-4aab-bbb6-db5f95f972d1.aspx), [Need help signing in to Skype for Business?](https://support.office.com/article/448b8ea7-5b33-444a-afd4-175fc9930d05.aspx), and [Troubleshoot problems with Skype for Business Online](https://support.office.com/article/dce3356e-83a3-4718-88e7-59885bbaa911.aspx).
   
 ## Still need help? Contact support.
-<a name="BK_SupportBridge"> </a>
 
 As an admin for Office 365 for business, you get free access to our knowledgeable support agents for pre-sales, account, and billing support, as well as for help resolving technical issues. You can also [contact support](https://go.microsoft.com/fwlink/p/?LinkID=518322) on behalf of Office 365 users in your organization. 
   
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
-  
+
 > [!NOTE]
 > If you're using Office 365 operated by 21Vianet in China, please [contact the 21Vianet support team](https://go.microsoft.com/fwlink/p/?linkid=847978). 
   

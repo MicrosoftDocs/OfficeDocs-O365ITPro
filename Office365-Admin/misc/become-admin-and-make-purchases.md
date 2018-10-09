@@ -85,14 +85,3 @@ Now that you're the Office 365 administrator, you may want to do the following:
 |Contact others who already signed up  <br/> |Reach out to the other users and let them know that you're managing their Office 365 subscription and that they've been upgraded. [Follow these steps](../add-users-2/add-users-2.md) to see a list of **Active Users** and their email addresses.  <br/> |
 |Start using Office 365  <br/> |Visit the [Office 365 Learning Center](https://support.office.com/learn/office365-for-business) and learn how to sign in, check email, share documents, and more. You and your users can use this site to get started with Office 365.  <br/> |
 |Manage your Office 365 subscription  <br/> |Visit [Office 365 Admin help](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791.aspx) and learn common administrative tasks like adding and removing users, resetting passwords, and setting up mobile devices.  <br/> |
-   
-## Still need help?
-<a name="BKMK_WhatsNext"> </a>
-
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
-  
-
