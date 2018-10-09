@@ -28,7 +28,7 @@ description: "Get technical and billing support using phone numbers listed for y
 
 ## [Phone support ](#tab/phone)
   
-|![Call support](media/3351acb8-be3b-478a-afbd-c0a50f4e1abd.png) |Billing support is provided in English from 9 AM-5 PM (9 AM-6 PM in Australia), Monday-Friday.  <br/>Technical support is provided in English 24 hours a day, 7 days a week. <br/> Admins, have your account details ready when you call.  <br/> |
+![Call support](media/3351acb8-be3b-478a-afbd-c0a50f4e1abd.png)  Billing support is provided in English from 9 AM-5 PM (9 AM-6 PM in Australia), Monday-Friday.  <br/>Technical support is provided in English 24 hours a day, 7 days a week. <br/> Admins, have your account details ready when you call.  <br/> 
    
 - **In the United States, call 1 800 865 9408.**
     
@@ -466,20 +466,18 @@ As an admin for Office 365 Germany, you get free access to our knowledgeable sup
 
 Assisted support options are for admins of Office 365 Germany subscribed organizations only. If you use Office 365 Germany at work or school, but you're not an admin, you can still get support in the community forums, or by contacting your admin or IT department.
 
-<table>
-<tr><td>![Online](media/a6e08015-dad5-4ad0-9680-7794cfc0a147.png)</td><td><b>Open an online request.</b> Save time by starting your service request online. In the Office 365 admin center, choose <b>Support</b> \> <b>New service request.</b> We'll help you find a solution or connect you to an expert who will contact you by email or phone.</td></tr>
-<tr><td>![Call support](media/3351acb8-be3b-478a-afbd-c0a50f4e1abd.png)</td><td><b>Call support.</b> We're here to talk. Admins, have your account details ready when you call support.</td></tr>
-</table>  
+**Open an online request.** Save time by starting your service request online. In the Office 365 admin center, choose **Support** \> **New service request.** We'll help you find a solution or connect you to an expert who will contact you by email or phone.
+
+**Call support.** We're here to talk. Admins, have your account details ready when you call support.
 
 <table>
 <tr><th>Region</th><th>Phone number</th><th>Hours</th></tr>
 <tr><td>Germany</td><td>0800 589 2330 </td><td><p>Billing Support:<br/>German: Mon-Fri 9-5 Berlin<br/>English: Mon-Fri 9-5 Berlin</p><p>Technical Support:<br/>German: 24 hours a day, 7 days a week<br/>English: 24 hours a day, 7 days a week</p><p>Alternative Phone Number: 069 380 789 305 (Local call charges apply)</p></td></tr>
 <tr><td>All other markets within the European Economic Area</td><td>+49 69 380 789 305</td><td><p>Billing Support:<br/>German: Mon-Fri 9-5 Berlin(UTC+1)<br/>English: Mon-Fri 9-5 Berlin (UTC +1)</p><p>Technical Support:<br/>German: 24 hours a day, 7 days a week<br/>English: 24 hours a day, 7 days a week</p><p>Telephone support is available via international call to Germany. International call charges apply. Call charges can be avoided by submitting a support ticket through the Office 365 admin center.</p></td></tr>
 </table>
-
    
 ### Let our community help
 
-<table><tr><td>![Office 365 community forums](media/66a6efa4-f6a3-41d4-a853-4d41186c8b74.png)</td><td>You can also [search the Office 365 for business community forums](https://go.microsoft.com/fwlink/p/?LinkId=518605) to find known issues and trending topics, or to post a new question. The community forums are monitored by trained Microsoft support agents who can help resolve your issue.</td></tr></table>
+![Office 365 community forums](media/66a6efa4-f6a3-41d4-a853-4d41186c8b74.png) You can also [search the Office 365 for business community forums](https://go.microsoft.com/fwlink/p/?LinkId=518605) to find known issues and trending topics, or to post a new question. The community forums are monitored by trained Microsoft support agents who can help resolve your issue.
    
 ::: moniker-end
