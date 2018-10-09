@@ -354,20 +354,17 @@ Technical support for Office 365 operated by 21Vianet subscriptions provides ass
 <tr><td>Sev A (Critical)</td><td>One or more services aren't accessible or are unusable. Production, operations, or deployment deadlines are severely affected, or there will be a severe impact on production or profitability. Multiple users or services are affected.</td><td><ul><li>Widespread problems sending or receiving mail.</li><li>SharePoint site down.</li><li>All users can't send instant messages, join or schedule Skype for Business Meetings, or make Skype for Business calls.</li></ul></td></tr>
 <tr><td>Sev B (High)</td><td>The service is usable but in an impaired fashion. The situation has moderate business impact and can be dealt with during business hours. A single user, customer, or service is partially affected.</td><td><ul><li>Send button in Outlook is garbled.</li><li>Setting is impossible from EAC (Exchange admin center) but possible in Windows PowerShell.</li></ul></td></tr>
 <tr><td>Sev C (Non-critical)</td><td>The situation has minimal business impact. The issue is important but does not have a significant current service or productivity impact for the customer. A single user is experiencing partial disruption, but an acceptable workaround exists.</td><td><ul><li>How to set user password that never expires.</li><li>User can't delete contact information in Exchange Online.</li></ul></td></tr></table>
-  
-|**Severity level**|**Operations and support description**|**Examples**|
-|Sev A (Critical)  <br/> |One or more services aren't accessible or are unusable. Production, operations, or deployment deadlines are severely affected, or there will be a severe impact on production or profitability. Multiple users or services are affected.  <br/> | Widespread problems sending or receiving mail.  <br/>  SharePoint site down.  <br/>  All users can't send instant messages, join or schedule Skype for Business Meetings, or make Skype for Business calls.  <br/> |
-|Sev B (High)  <br/> |The service is usable but in an impaired fashion. The situation has moderate business impact and can be dealt with during business hours. A single user, customer, or service is partially affected.  <br/> | Send button in Outlook is garbled.  <br/>  Setting is impossible from EAC (Exchange admin center) but possible in Windows PowerShell.  <br/> |
-|Sev C (Non-critical)  <br/> |The situation has minimal business impact. The issue is important but does not have a significant current service or productivity impact for the customer. A single user is experiencing partial disruption, but an acceptable workaround exists.  <br/> | How to set user password that never expires.  <br/>  User can't delete contact information in Exchange Online.  <br/> |
    
 ### Technical support initial response times
 
 Initial response time is based on the severity levels described above. 21Vianet customer service team follow up with investigation and customer communication in reasonable rhythm according to severity levels. 21Vianet also expect customer to collaborate at reasonable level accordingly.
   
-|**Security level<sup>1</sup>**|**21Vianet customer support team Initial response**|**Customer responsibility**|
-|Sev A<sup>2</sup> (Critical)  <br/> |Initial Response: 1 hour or less; Follow up: continues effort until problem resolution.  <br/> |Provide solid business impact statement (see the severity A description and examples above); Allocate resource to ensure continues collaboration with 21Vianet customer support agent for the joint investigation and necessary communication; Provide accurate contact information and ensure reliable communication throughout the service request lifecycle.  <br/> |
-|Sev B (High)  <br/> |Initial Response: 1 business day or less.  <br/> |Provide accurate contact information and ensure reliable communication throughout the service request lifecycle.  <br/> |
-|Sev C (Medium)  <br/> |Initial Response: 3 business day or less.  <br/> |Provide accurate contact information and ensure reliable communication throughout the service request lifecycle.  <br/> |
+<table>
+<tr><th>Security level<sup>1</sup></th><th>21Vianet customer support team Initial response</th><th>Customer responsibility</th></tr>
+<tr><td>Sev A<sup>2</sup> (Critical)</td><td>Initial Response: 1 hour or less; Follow up: continues effort until problem resolution.</td><td>Provide solid business impact statement (see the severity A description and examples above); Allocate resource to ensure continues collaboration with 21Vianet customer support agent for the joint investigation and necessary communication; Provide accurate contact information and ensure reliable communication throughout the service request lifecycle.</td></tr>
+<tr><td>Sev B (High)</td><td>Initial Response: 1 business day or less.</td><td>Provide accurate contact information and ensure reliable communication throughout the service request lifecycle.</td></tr>
+<tr><td>Sev C (Medium)</td><td>Initial Response: 3 business day or less.</td><td>Provide accurate contact information and ensure reliable communication throughout the service request lifecycle.</td></tr>
+</table>
    
 <sup>1</sup> If the customer cannot provide required resource or make response for collaboration with 21Vianet customer support agent investigation in reasonable time, 21Vianet support team may lower down the severity level of a service request. 
   
@@ -468,17 +465,21 @@ As an admin for Office 365 Germany, you get free access to our knowledgeable sup
 ### Get assisted support
 
 Assisted support options are for admins of Office 365 Germany subscribed organizations only. If you use Office 365 Germany at work or school, but you're not an admin, you can still get support in the community forums, or by contacting your admin or IT department.
-  
-|||
-|![Online](media/a6e08015-dad5-4ad0-9680-7794cfc0a147.png) |**Open an online request.** Save time by starting your service request online. In the Office 365 admin center, choose **Support** \> **New service request.** We'll help you find a solution or connect you to an expert who will contact you by email or phone.  |
-|![Call support](media/3351acb8-be3b-478a-afbd-c0a50f4e1abd.png) |**Call support.** We're here to talk. Admins, have your account details ready when you callsupport.  |
-   
-|**Region**|**Phone number**|**Hours**|
-|Germany  <br/> |0800 589 2330  <br/> |Billing Support:          German: Mon-Fri 9-5 Berlin          English: Mon-Fri 9-5 Berlin  <br/> Technical Support:          German: 24 hours a day, 7 days a week          English: 24 hours a day, 7 days a week  <br/> Alternative Phone Number: 069 380 789 305 (Local call charges apply)  <br/> |
-|All other markets within the European Economic Area  <br/> |+49 69 380 789 305  <br/> |Billing Support:          German: Mon-Fri 9-5 Berlin (UTC+1)          English: Mon-Fri 9-5 Berlin (UTC +1)  <br/> Technical Support:          German: 24 hours a day, 7 days a week          English: 24 hours a day, 7 days a week  <br/> Telephone support is available via international call to Germany. International call charges apply. Call charges can be avoided by submitting a support ticket through the Office 365 admin center.  <br/> |
+
+<table>
+<tr><td>![Online](media/a6e08015-dad5-4ad0-9680-7794cfc0a147.png)</td><td><b>Open an online request.</b> Save time by starting your service request online. In the Office 365 admin center, choose <b>Support</b> \> <b>New service request.</b> We'll help you find a solution or connect you to an expert who will contact you by email or phone.</td></tr>
+<tr><td>![Call support](media/3351acb8-be3b-478a-afbd-c0a50f4e1abd.png)</td><td><b>Call support.</b> We're here to talk. Admins, have your account details ready when you call support.</td></tr>
+</table>  
+
+<table>
+<tr><th>Region</th><th>Phone number</th><th>Hours</th></tr>
+<tr><td>Germany</td><td>0800 589 2330 </td><td><p>Billing Support:<br/>German: Mon-Fri 9-5 Berlin<br/>English: Mon-Fri 9-5 Berlin</p><p>Technical Support:<br/>German: 24 hours a day, 7 days a week<br/>English: 24 hours a day, 7 days a week</p><p>Alternative Phone Number: 069 380 789 305 (Local call charges apply)</p></td></tr>
+<tr><td>All other markets within the European Economic Area</td><td>+49 69 380 789 305</td><td><p>Billing Support:<br/>German: Mon-Fri 9-5 Berlin(UTC+1)<br/>English: Mon-Fri 9-5 Berlin (UTC +1)</p><p>Technical Support:<br/>German: 24 hours a day, 7 days a week<br/>English: 24 hours a day, 7 days a week</p><p>Telephone support is available via international call to Germany. International call charges apply. Call charges can be avoided by submitting a support ticket through the Office 365 admin center.</p></td></tr>
+</table>
+
    
 ### Let our community help
 
-|![Office 365 community forums](media/66a6efa4-f6a3-41d4-a853-4d41186c8b74.png)  |You can also [search the Office 365 for business community forums](https://go.microsoft.com/fwlink/p/?LinkId=518605) to find known issues and trending topics, or to post a new question. The community forums are monitored by trained Microsoft support agents who can help resolve your issue. |
+<table><tr><td>![Office 365 community forums](media/66a6efa4-f6a3-41d4-a853-4d41186c8b74.png)</td><td>You can also [search the Office 365 for business community forums](https://go.microsoft.com/fwlink/p/?LinkId=518605) to find known issues and trending topics, or to post a new question. The community forums are monitored by trained Microsoft support agents who can help resolve your issue.</td></tr></table>
    
 ::: moniker-end
