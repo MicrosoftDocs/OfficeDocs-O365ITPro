@@ -3,7 +3,7 @@ title: "Add or remove members from Office 365 groups using the Office 365 admin 
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-ms.date: 8/29/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

@@ -3,7 +3,7 @@ title: "Changes to SharePoint.com DNS service"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 9/12/2018
+
 ms.audience: Admin
 ms.topic: conceptual
 ms.service: o365-administration

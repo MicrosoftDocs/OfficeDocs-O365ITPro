@@ -3,7 +3,7 @@ title: "Move email and data to Office 365 Business Premium"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/14/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration

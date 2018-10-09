@@ -3,7 +3,7 @@ title: "Office 365 Reports in the Admin Center - Mailbox usage"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 4/9/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

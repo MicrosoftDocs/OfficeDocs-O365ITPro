@@ -3,7 +3,7 @@ title: "Office 365 financial compliance"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 9/26/2018
+
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration

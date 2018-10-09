@@ -3,7 +3,7 @@ title: "Apply for a Fapiao for Office 365 operated by 21Vianet"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/1/2017
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

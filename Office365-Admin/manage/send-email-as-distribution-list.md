@@ -3,7 +3,7 @@ title: "Send email as a distribution list in Office 365"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 9/1/2017
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

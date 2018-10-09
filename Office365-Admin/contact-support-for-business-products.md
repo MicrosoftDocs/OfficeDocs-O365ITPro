@@ -3,7 +3,7 @@ title: "Contact support for business products - Admin Help"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 10/8/2018
+
 ms.audience: Admin
 ms.topic: troubleshooting
 f1_keywords:

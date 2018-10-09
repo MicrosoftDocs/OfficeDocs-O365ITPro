@@ -3,7 +3,7 @@ title: "Remove license from shared mailbox"
 ms.author: anfowler
 author: anfowler
 manager: scotv
-ms.date: 10/30/2017
+
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration

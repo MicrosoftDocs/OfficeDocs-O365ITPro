@@ -3,7 +3,7 @@ title: "Get the latest version of Microsoft 365 usage analytics"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.date: 7/9/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

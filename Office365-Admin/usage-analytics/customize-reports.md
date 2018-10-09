@@ -3,7 +3,7 @@ title: "Customize the reports in Microsoft 365 usage analytics"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.date: 8/28/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

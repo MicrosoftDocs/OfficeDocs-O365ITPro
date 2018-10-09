@@ -3,7 +3,7 @@ title: "Add customized help desk info to the Office 365 help pane"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-ms.date: 2/14/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

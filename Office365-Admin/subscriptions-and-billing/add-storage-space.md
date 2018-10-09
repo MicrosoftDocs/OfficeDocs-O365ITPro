@@ -3,7 +3,7 @@ title: "Add storage space for your subscription"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 7/20/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

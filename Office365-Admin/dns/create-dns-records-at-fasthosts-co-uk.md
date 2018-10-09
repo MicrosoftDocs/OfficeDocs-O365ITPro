@@ -3,7 +3,7 @@ title: "Create DNS records at Fasthosts.co.uk for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/8/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:

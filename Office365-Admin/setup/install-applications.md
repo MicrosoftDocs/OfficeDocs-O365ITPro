@@ -3,7 +3,7 @@ title: "Install Office applications"
 ms.author: supotter
 author: supotter
 manager: scotv
-ms.date: 1/5/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration

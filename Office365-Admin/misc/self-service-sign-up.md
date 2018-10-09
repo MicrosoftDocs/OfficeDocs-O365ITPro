@@ -3,7 +3,7 @@ title: "Using self-service sign up in your organization"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/29/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

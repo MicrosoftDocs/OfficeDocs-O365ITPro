@@ -3,7 +3,7 @@ title: "View your bill or invoice"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/28/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

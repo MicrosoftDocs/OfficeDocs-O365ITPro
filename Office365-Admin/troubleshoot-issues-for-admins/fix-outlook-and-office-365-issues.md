@@ -3,7 +3,7 @@ title: "Fix Outlook and Office 365 issues with Support and Recovery Assistant fo
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-ms.date: 8/21/2017
+
 ms.audience: End User
 ms.topic: troubleshooting
 f1_keywords:

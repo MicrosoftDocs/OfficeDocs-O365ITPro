@@ -3,7 +3,7 @@ title: "Manage deployment of Office 365 add-ins in the Office 365 admin center"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.date: 8/28/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:

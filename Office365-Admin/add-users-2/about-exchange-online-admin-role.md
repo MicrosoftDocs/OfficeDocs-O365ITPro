@@ -3,7 +3,7 @@ title: "About the Exchange Online admin role"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-ms.date: 12/29/2016
+
 ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration

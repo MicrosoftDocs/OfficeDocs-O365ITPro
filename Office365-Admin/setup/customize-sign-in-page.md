@@ -3,7 +3,7 @@ title: "Add your company branding to Office 365 Sign In page"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.date: 6/29/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

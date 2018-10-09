@@ -3,7 +3,7 @@ title: "Switch to a different Office 365 for business plan"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 7/20/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

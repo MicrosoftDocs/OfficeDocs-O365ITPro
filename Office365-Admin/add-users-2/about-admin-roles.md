@@ -3,7 +3,7 @@ title: "About Office 365 admin roles"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-ms.date: 8/1/2018
+
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:

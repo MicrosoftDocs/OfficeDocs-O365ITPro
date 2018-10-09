@@ -3,7 +3,7 @@ title: "Create and manage an external network in Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 3/15/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

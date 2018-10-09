@@ -3,7 +3,7 @@ title: "Change nameservers to set up Office 365 with Domain Monster"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/8/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration

@@ -3,7 +3,7 @@ title: "Change nameservers to set up Office 365 with Blacknight"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/29/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration

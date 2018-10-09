@@ -3,7 +3,7 @@ title: "Cancel Office 365 for business"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 7/6/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

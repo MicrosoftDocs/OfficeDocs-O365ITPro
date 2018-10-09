@@ -3,7 +3,7 @@ title: "Office 365 operated by 21Vianet"
 ms.author: LOREENL
 author: LoreenLa
 manager: pamgreen
-ms.date: 7/24/2018
+
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:

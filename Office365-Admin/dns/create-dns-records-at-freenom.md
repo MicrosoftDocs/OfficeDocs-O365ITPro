@@ -3,7 +3,7 @@ title: "Create DNS records at Freenom for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/28/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration

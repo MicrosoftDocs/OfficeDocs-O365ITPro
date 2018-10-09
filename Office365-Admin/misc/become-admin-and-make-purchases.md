@@ -3,7 +3,7 @@ title: "Become the admin and purchase Office 365 for your organization"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/14/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:

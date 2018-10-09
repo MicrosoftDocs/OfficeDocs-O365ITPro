@@ -3,7 +3,7 @@ title: "Add, update, or remove a credit card or bank account in Office 365 for b
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/9/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

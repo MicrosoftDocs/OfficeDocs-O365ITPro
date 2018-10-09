@@ -3,7 +3,7 @@ title: "Grow your small business with Office 365"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 10/8/2018
+
 ms.audience: Admin
 ms.topic: landing-page
 layout: LandingPage

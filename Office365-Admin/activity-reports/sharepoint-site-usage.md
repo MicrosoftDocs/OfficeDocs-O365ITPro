@@ -3,7 +3,7 @@ title: "Office 365 Reports in the Admin Center - SharePoint site usage"
 ms.author: kaarins
 author: kaarins
 manager: pamgreen
-ms.date: 4/9/2018
+
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:

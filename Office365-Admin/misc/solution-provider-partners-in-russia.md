@@ -3,7 +3,7 @@ title: "Microsoft Cloud Solution Provider Partners in Russia"
 ms.author: loreenl
 author: LoreenLa
 manager: pamgreen
-ms.date: 12/29/2016
+
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration

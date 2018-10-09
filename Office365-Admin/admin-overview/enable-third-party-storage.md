@@ -3,7 +3,7 @@ title: "Enable third-party storage in Office 365"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-ms.date: 7/20/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

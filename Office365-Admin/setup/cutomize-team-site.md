@@ -3,7 +3,7 @@ title: "Customize your team site for file storage and sharing"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-ms.date: 6/29/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration

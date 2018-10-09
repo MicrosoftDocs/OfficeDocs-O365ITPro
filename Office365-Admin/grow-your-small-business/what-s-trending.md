@@ -3,7 +3,7 @@ title: "What's trending"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 10/3/2018
+
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration

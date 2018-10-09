@@ -3,7 +3,7 @@ title: "Cortana integration with Office 365"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 7/25/2017
+
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:

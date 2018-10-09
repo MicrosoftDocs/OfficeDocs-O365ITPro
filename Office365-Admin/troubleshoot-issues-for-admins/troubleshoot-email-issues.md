@@ -3,7 +3,7 @@ title: "Troubleshoot email issues"
 ms.author: supotter
 author: supotter
 manager: scotv
-ms.date: 6/26/2018
+
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration

@@ -3,7 +3,7 @@ title: "Office 365 admin overview"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-ms.date: 6/4/2018
+
 ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration

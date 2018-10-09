@@ -3,7 +3,7 @@ title: "Change nameservers to set up Office 365 with Yahoo! Small Business"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/28/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:

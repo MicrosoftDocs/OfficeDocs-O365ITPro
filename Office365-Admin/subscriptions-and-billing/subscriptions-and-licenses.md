@@ -3,7 +3,7 @@ title: "Understand subscriptions and licenses in Office 365 for business"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 11/21/2017
+
 ms.audience: Admin
 ms.topic: conceptual
 ms.service: o365-administration

@@ -3,7 +3,7 @@ title: "Understand your e-Invoice for Office 365 for business (Taiwan)"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/1/2017
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

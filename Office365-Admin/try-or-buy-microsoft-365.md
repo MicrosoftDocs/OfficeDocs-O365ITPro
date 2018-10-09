@@ -3,7 +3,7 @@ title: "Try or buy a Microsoft 365 subscription"
 ms.author: anfowler
 author: anfowler
 manager: mnirkhe
-ms.date: 9/24/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

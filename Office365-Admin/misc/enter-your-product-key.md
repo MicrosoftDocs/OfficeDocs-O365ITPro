@@ -3,7 +3,7 @@ title: "Enter your product key for Office 365 Business Premium purchased from a 
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 10/2/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

@@ -3,7 +3,7 @@ title: "Add custom tiles to the app launcher"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-ms.date: 8/17/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

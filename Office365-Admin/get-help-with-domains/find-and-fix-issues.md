@@ -3,7 +3,7 @@ title: "Find and fix issues after adding your domain or DNS records in Office 36
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/28/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration

@@ -3,7 +3,7 @@ title: "Phasing out temporary mobile passwords in Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 6/30/2017
+
 ms.audience: Admin
 ms.topic: conceptual
 ms.service: o365-administration

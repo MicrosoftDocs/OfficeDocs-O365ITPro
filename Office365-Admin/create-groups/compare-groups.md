@@ -3,7 +3,7 @@ title: "Compare groups"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-ms.date: 8/29/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

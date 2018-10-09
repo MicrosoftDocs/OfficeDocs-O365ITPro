@@ -3,7 +3,7 @@ title: "Top 10 ways to secure Office 365 and Microsoft 365 Business plans from c
 ms.author: supotter
 author: supotter
 manager: scotv
-ms.date: 9/4/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
