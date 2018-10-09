@@ -33,7 +33,7 @@ Prepare to roll up your sleeves and block out a chunk of time on your calendar: 
 - You need to combine multiple subscriptions into one new one.
     
 > [!IMPORTANT]
->  If you need to [change your subscription plan](../subscriptions-and-billing/switch-to-a-different-plan-0.md) and can use the Switch plans wizard, or if you need to transfer to a new subscription plan in the same subscription family even when the Switch plans wizard doesn't work, you don't need to manually transfer your data, and there is no down time. 
+>  If you need to [change your subscription plan](../subscriptions-and-billing/switch-to-a-different-plan.md) and can use the Switch plans wizard, or if you need to transfer to a new subscription plan in the same subscription family even when the Switch plans wizard doesn't work, you don't need to manually transfer your data, and there is no down time. 
   
 |**Tasks**|**Steps**|
 |:-----|:-----|

@@ -181,7 +181,7 @@ To make and receive phone calls from people external to your business, you have 
     
 - **Option 2. Upgrade your plan, and buy Cloud PBX and the PSTN Calling plan**. 
     
-1. [Switch to the E1 or E3 plan](../subscriptions-and-billing/switch-to-a-different-plan-0.md) : 
+1. [Switch to the E1 or E3 plan](../subscriptions-and-billing/switch-to-a-different-plan.md) : 
     
   - Buy the E1 plan if you don't want to receive voicemail.
     

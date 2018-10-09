@@ -170,7 +170,7 @@ When you return to the **Subscriptions** page, you will see the old subscription
     > [!TIP]
     > If the **Change your payment method** link isn't displayed, it means that switching from credit card or bank account to invoice isn't available for the subscription because the subscription doesn't meet the minimum cost amount for billing by invoice. The minimum cost amount required to be billed by invoice varies by geographic location. 
   
-![The Change payment details pane for a subscription that is currently paid by credit card, but is eligible to change to invoice.](../media/85108efd-a3a2-41e7-994d-8bd273515d1c.png)
+    ![The Change payment details pane for a subscription that is currently paid by credit card, but is eligible to change to invoice.](../media/85108efd-a3a2-41e7-994d-8bd273515d1c.png)
   
 4. In the **Change your payment method** dialog box, choose **Continue**.
     
@@ -200,7 +200,7 @@ When you return to the **Subscriptions** page, you will see the old subscription
     > [!TIP]
     > If the **Change your payment method** link isn't displayed, it means that switching from credit card or bank account to invoice isn't available for the subscription because the subscription doesn't meet the minimum cost amount for billing by invoice. The minimum cost amount required to be billed by invoice varies by geographic location. 
   
-![The Change payment details pane for a subscription that is currently paid by credit card, but is eligible to change to invoice.](../media/85108efd-a3a2-41e7-994d-8bd273515d1c.png)
+    ![The Change payment details pane for a subscription that is currently paid by credit card, but is eligible to change to invoice.](../media/85108efd-a3a2-41e7-994d-8bd273515d1c.png)
   
 4. In the **Change your payment method** dialog box, choose **Continue**.
     
@@ -224,7 +224,7 @@ You can use the following steps at any time to verify the payment method that's 
     
 |||
 |:-----|:-----|
-|![Mayment method user interface shows that this subscription is configured to pay by invoice.](../media/32a4499f-14c4-46f6-9f61-0a6335f043ad.png)|![The Payment method section of a Subscription card for a subscription that pays by credit card.](../media/6c9d9cae-6086-4687-a979-bb971f35f1b4.png)|
+|![Payment method user interface shows that this subscription is configured to pay by invoice.](../media/32a4499f-14c4-46f6-9f61-0a6335f043ad.png)|![The Payment method section of a Subscription card for a subscription that pays by credit card.](../media/6c9d9cae-6086-4687-a979-bb971f35f1b4.png)|
    
 ::: moniker-end
 
@@ -239,8 +239,7 @@ You can use the following steps at any time to verify the payment method that's 
 2. Choose the subscription that you want to verify. The payment method that's configured for the subscription appears under **Payment method** and might look like one of the following screenshots: 
     
 |||
-|:-----|:-----|
-|![Mayment method user interface shows that this subscription is configured to pay by invoice.](../media/32a4499f-14c4-46f6-9f61-0a6335f043ad.png)|![The Payment method section of a Subscription card for a subscription that pays by credit card.](../media/6c9d9cae-6086-4687-a979-bb971f35f1b4.png)|
+|![Payment method user interface shows that this subscription is configured to pay by invoice.](../media/32a4499f-14c4-46f6-9f61-0a6335f043ad.png)|![The Payment method section of a Subscription card for a subscription that pays by credit card.](../media/6c9d9cae-6086-4687-a979-bb971f35f1b4.png)|
    
 ::: moniker-end
 
@@ -261,8 +260,7 @@ After you complete these steps, your payment method will be changed and your use
   
 ::: moniker-end
   
-## See also
+## Related topics
 <a name="BKMK_ContactSupport"> </a>
 
 [Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
-

@@ -33,7 +33,7 @@ Contributors: [![Peter Baumgartner](../media/e70dc696-c5f8-4717-a48b-9087431503e
   
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
   
-Are you removing your domain because you want to add it to a different Office 365 subscription plan? Or do you just want to cancel your subscription? You can [change your plan or subscription](../subscriptions-and-billing/switch-to-a-different-plan-0.md) or [cancel your subscription](../subscriptions-and-billing/cancel-your-subscription.md).
+Are you removing your domain because you want to add it to a different Office 365 subscription plan? Or do you just want to cancel your subscription? You can [change your plan or subscription](../subscriptions-and-billing/switch-to-a-different-plan.md) or [cancel your subscription](../subscriptions-and-billing/cancel-your-subscription.md).
   
 ### Step 1: Move users to another domain
 

@@ -29,9 +29,8 @@ If you qualify for tax exempt status in your country or region, please [contact 
 |Ireland  <br/> |13B/56A Tax Exemption Certificate  <br/> |
 |International organizations that hold tax exemption  <br/> |Certification/letter confirmation from relevant local tax authorities  <br/> |
    
-## See also
+## Related topics
 
 [What tax will I be charged for Office 365?](what-tax-will-i-be-charged.md)
   
 [Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
-

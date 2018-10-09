@@ -50,7 +50,7 @@ It could also happen because you haven't assigned a license to yourself or your 
   
     You'll see the services that you're licensed to use, such as the latest desktop version of Office, Project, Visio, SharePoint Online or OneDrive for Business, and Exchange Online. If you don't see **The latest desktop version of Office** in the list (or **Project** or **Visio** if you bought plans with those applications), see [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md).
     
-Not all Office 365 plans come with Office. If your organization has an Office 365 plan that doesn't include the latest desktop version of Office, as the admin, you can [switch to a different Office 365 plan or subscription](../subscriptions-and-billing/switch-to-a-different-plan-0.md). 
+Not all Office 365 plans come with Office. If your organization has an Office 365 plan that doesn't include the latest desktop version of Office, as the admin, you can [switch to a different Office 365 plan or subscription](../subscriptions-and-billing/switch-to-a-different-plan.md). 
   
 If you're not sure what plan you have, follow the steps in [What Office 365 for business subscription do I have?](../admin-overview/what-subscription-do-i-have-0.md) For a comparison of plans, see the [small business plans comparison](https://products.office.com/business/compare-office-365-for-business-plans) or [enterprise plans comparison](https://products.office.com/en-us/business/compare-more-office-365-for-business-plans).
   

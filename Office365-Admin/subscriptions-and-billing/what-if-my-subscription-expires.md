@@ -48,17 +48,17 @@ Before the subscription actually reaches its expiration date, you have a few opt
   
 - **Enable recurring billing for the subscription.**
     
-  - If **Recurring billing** is already turned on, you don't have to take any action. Your subscription will be billed on its **Next billing** date, and you'll be charged for an additional year or month, depending on your current payment frequency. If for any reason you've turned **Recurring billing**, you can always [turn Recurring billing back on](renew-your-subscription-0.md).
+  - If **Recurring billing** is already turned on, you don't have to take any action. Your subscription will be billed on its **Next billing** date, and you'll be charged for an additional year or month, depending on your current payment frequency. If for any reason you've turned **Recurring billing**, you can always [turn Recurring billing back on](renew-your-subscription.md).
     
-  - If you purchased Office 365 Business with a prepaid card, you can [turn on Recurring billing](renew-your-subscription-0.md) for your subscription. 
+  - If you purchased Office 365 Business with a prepaid card, you can [turn on Recurring billing](renew-your-subscription.md) for your subscription. 
     
   - If you're an Open Volume Licensing customer with a prepaid, one-year subscription, contact your partner to purchase a new product key. You'll receive instructions via email to activate your key in the [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). To learn how to find a new partner, or the partner you've worked with in the past, see [Find your Office 365 partner or reseller](../manage/find-your-partner-or-reseller.md).
     
-  - If you have Office 365 Business, see [Manage recurring billing for your subscription](renew-your-subscription-0.md).
+  - If you have Office 365 Business, see [Manage recurring billing for your subscription](renew-your-subscription.md).
     
 - **Let the subscription expire.**
     
-  - If you're paying by credit card or invoice and you don't want to continue your subscription, [turn Recurring billing off](renew-your-subscription-0.md). Your subscription will expire on its expiration date, and you can ignore all related email notifications.
+  - If you're paying by credit card or invoice and you don't want to continue your subscription, [turn Recurring billing off](renew-your-subscription.md). Your subscription will expire on its expiration date, and you can ignore all related email notifications.
     
   - If you're an Open Volume Licensing customer working with a partner, you can let your subscription expire by taking no action.
     
@@ -81,17 +81,17 @@ Before the subscription actually reaches its expiration date, you have a few opt
   
 - **Manage recurring billing for the subscription.**
     
-  - If **Recurring billing** is already turned on, you don't have to take any action. Your subscription will be billed on its **Next billing** date, and you'll be charged for an additional year or month, depending on your current payment frequency. If for any reason you've turned **Recurring billing** off, you can always [turn Recurring billing back on](renew-your-subscription-0.md).
+  - If **Recurring billing** is already turned on, you don't have to take any action. Your subscription will be billed on its **Next billing** date, and you'll be charged for an additional year or month, depending on your current payment frequency. If for any reason you've turned **Recurring billing** off, you can always [turn Recurring billing back on](renew-your-subscription.md).
     
-  - If you purchased Office 365 Business with a prepaid card, you can [turn on Recurring billing](renew-your-subscription-0.md) for your subscription. 
+  - If you purchased Office 365 Business with a prepaid card, you can [turn on Recurring billing](renew-your-subscription.md) for your subscription. 
     
   - If you're an Open Volume Licensing customer with a prepaid, one-year subscription, contact your partner to purchase a new product key. You'll receive instructions via email to activate your key in the [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). To learn how to find a new partner, or the partner you've worked with in the past, see [Find your Office 365 partner or reseller](../manage/find-your-partner-or-reseller.md).
     
-  - If you have Office 365 Business, see [Renew Office 365 for business](renew-your-subscription-0.md).
+  - If you have Office 365 Business, see [Renew Office 365 for business](renew-your-subscription.md).
     
 - **Let the subscription expire.**
     
-  - If you're paying by credit card or invoice and you don't want to continue your subscription, [turn Recurring billing off](renew-your-subscription-0.md). Your subscription will expire on its expiration date, and you can ignore all related email notifications.
+  - If you're paying by credit card or invoice and you don't want to continue your subscription, [turn Recurring billing off](renew-your-subscription.md). Your subscription will expire on its expiration date, and you can ignore all related email notifications.
     
   - If you're an Open Volume Licensing customer working with a partner, you can let your subscription expire by taking no action.
     

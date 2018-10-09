@@ -56,7 +56,7 @@ If there's an error message when you try to redeem a product key for **Office 36
 
 [Find and enter your product key for Office 365 for business](enter-your-product-key.md)
   
-[Renew Office 365 for business](../subscriptions-and-billing/renew-your-subscription-0.md)
+[Renew Office 365 for business](../subscriptions-and-billing/renew-your-subscription.md)
   
 [Buy licenses for your Office 365 for business subscription](../subscriptions-and-billing/buy-licenses.md)
 

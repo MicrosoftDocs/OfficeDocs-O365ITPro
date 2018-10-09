@@ -60,7 +60,8 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 <a name="BKMK_UpdateCreditCard"> </a>
 
 > [!NOTE]
->  You don't need the CVV/CVN code to update the details of an existing credit card. >  You can't change the number on an existing credit card or bank account. If for some reason the credit card or bank account number has changed, add it as a new credit card or bank account, select it as the payment option for your subscription, then remove the existing credit card or bank account. 
+>  You don't need the CVV/CVN code to update the details of an existing credit card. 
+>  You can't change the number on an existing credit card or bank account. If for some reason the credit card or bank account number has changed, add it as a new credit card or bank account, select it as the payment option for your subscription, then remove the existing credit card or bank account. 
   
 1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
     
@@ -73,7 +74,7 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
     > [!NOTE]
     >  If another admin purchased the subscription, you won't be able to update the credit card or bank account information for it. If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription. 
   
-![The Payment method section of the Subscription page, showing the Update payment details link.](../media/03839d72-773c-4030-88d0-484d1efe49c5.png)
+    ![The Payment method section of the Subscription page, showing the Update payment details link.](../media/03839d72-773c-4030-88d0-484d1efe49c5.png)
   
 3. Choose the drop down arrow under **Add or select a payment method**, pick the credit card or bank account that you want to update, then choose **Edit details**.
     
@@ -112,9 +113,9 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
     > [!NOTE]
     > You won't be able to remove a credit card or bank account if it's currently being used to pay for a subscription. If you try, you'll get a message that looks like this:
   
-![The error message that appears if you try to remove a credit card or bank account that is currently used to pay for an active subscription.](../media/29319a8b-af0b-4487-853b-6f47d6fe4a28.png)
+    ![The error message that appears if you try to remove a credit card or bank account that is currently used to pay for an active subscription.](../media/29319a8b-af0b-4487-853b-6f47d6fe4a28.png)
   
-> To remove the credit card or bank account, choose **Back** and follow the steps in this article to change the credit card or bank account that you're using to pay for the subscription. Then try removing the credit card or bank account again. 
+    > To remove the credit card or bank account, choose **Back** and follow the steps in this article to change the credit card or bank account that you're using to pay for the subscription. Then try removing the credit card or bank account again. 
   
 ## Change the credit card or bank account that you're using to pay for a subscription
 <a name="BKMK_DeleteCreditCard"> </a>
@@ -135,7 +136,7 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
   
 4. Choose **Submit**. If the credit card or bank account that you want to use isn't listed yet, choose **New credit card** or **New bank account** to add it. 
     
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/852072f0-ed6d-4589-a2b4-4dfe6e9394e3?autoplay=false]
+    > [!VIDEO https://www.microsoft.com/videoplayer/embed/852072f0-ed6d-4589-a2b4-4dfe6e9394e3?autoplay=false]
   
 ## Troubleshooting credit cards and bank accounts
 <a name="BKMK_TroubleshootCreditCards"> </a>
@@ -148,14 +149,13 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 |**I only have one credit card or bank account on my account and I want to remove it.** <br/> |If you only have one credit card or bank account, you'll get an error message when you try to remove it. To fix this, make sure that you're using a different payment method to pay for all of your subscriptions, then try removing the credit card or bank account again.  <br/> |
 |**I can't add my credit card or bank account.** <br/> |If you have trouble entering your credit card or bank account information, you can [contact support](../contact-support-for-business-products.md).  <br/> |
    
-## See also
+## Related topics
 <a name="BKMK_ContactSupport"> </a>
 
-[Change your payment method for Office 365 for business](change-payment-method.md)
+[Change your payment method](change-payment-method.md)
   
-[Change your billing addresses for Office 365 for business](change-your-billing-addresses.md)
+[Change your billing addresses](change-your-billing-addresses.md)
   
-[Cancel your subscription](https://support.office.com/article/https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a.aspx)
+[Cancel your subscription](cancel-your-subscription.md)
   
 [Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
-

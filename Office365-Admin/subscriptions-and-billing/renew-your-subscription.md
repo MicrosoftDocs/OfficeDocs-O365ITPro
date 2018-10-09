@@ -53,9 +53,11 @@ If you prepaid for your subscription with a product key, your subscription will 
     You can turn off **Recurring billing** by switching the toggle to **Off**.
     
     > [!NOTE]
-    >  You can only change the **Recurring billing** setting for active subscriptions. If your subscription has already expired or is disabled, you will need to [reactivate it](reactivate-your-subscription.md) before you can turn **Recurring billing** on or off. >  When **Recurring billing** is turned off, the subscription isn't cancelled right away. It remains active until it expires. You can view the expiration date on the subscription card, as shown below. >  To learn how to cancel the subscription right away, see [Cancel my subscription](cancel-your-subscription.md). 
+    >  You can only change the **Recurring billing** setting for active subscriptions. If your subscription has already expired or is disabled, you will need to [reactivate it](reactivate-your-subscription.md) before you can turn **Recurring billing** on or off. 
+    >  When **Recurring billing** is turned off, the subscription isn't cancelled right away. It remains active until it expires. You can view the expiration date on the subscription card, as shown below. 
+    >  To learn how to cancel the subscription right away, see [Cancel my subscription](cancel-your-subscription.md). 
   
-## See also
+## Related topics
 <a name="BKMK_Renew"> </a>
 
 [Reactivate your subscription](reactivate-your-subscription.md)
@@ -67,4 +69,3 @@ If you prepaid for your subscription with a product key, your subscription will 
 [Enter your product key for Office 365 for business](../misc/enter-your-product-key.md)
   
 [Buy your trial version of Office 365 for business](buy-a-subscription-from-your-free-trial.md)
-
