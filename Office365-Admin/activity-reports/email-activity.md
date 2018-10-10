@@ -39,7 +39,7 @@ For example, you can get a high level view of email traffic within your organiza
 
 You can get a view into your user's email activity by looking at the **Activity** and **Users** charts. 
   
-![Email activity - count of email sent, received and read](../media/21c1e082-317e-4b5e-b736-661ca5744def.png)
+![Email activity report](../media/21c1e082-317e-4b5e-b736-661ca5744def.png)
   
 |||
 |:-----|:-----|

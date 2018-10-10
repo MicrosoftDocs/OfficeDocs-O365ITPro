@@ -40,7 +40,7 @@ Watch this video for on overview: on how you can use the reports:
 1. 
 ::: moniker range="o365-worldwide"
 
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+Go to the [![Go to the Office 365 admin center](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
@@ -58,9 +58,7 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 2. In the Office 365 admin center, choose **Reports** \> **Usage**.
     
-3. Choose **Select a report** at the top of the dashboard to select from a list of all available reports. Or, click an at-a-glance activity widget for a service (email, OneDrive, etc) to see more information. 
-    
-    ![The Office 365 Usage dashboard](../media/68c222b0-9ec2-4285-9fd6-cb5abef270c5.png)
+3. Choose **Select a report** at the top of the dashboard to select from a list of all available reports. Or, click an at-a-glance activity widget for a service (email, OneDrive, etc) to see more information. <br/>![The Office 365 Usage dashboard](../media/68c222b0-9ec2-4285-9fd6-cb5abef270c5.png)
   
 ## Who can see Office 365 reports
 
@@ -148,13 +146,13 @@ Depending on your Office 365 subscription, here are the available reports.
     
 - To see who is licensed, unlicensed, or guest, go to **Users** \> **Active users**. Use the **Views** drop down box to filter your list. 
     
-    ![Choose the drop down box to filter your list of users.](../media/e24fd0c8-8906-440c-9614-393eff10b31d.png)
+    ![Filter your list of users](../media/e24fd0c8-8906-440c-9614-393eff10b31d.png)
   
 ## How to view usage information for a specific user
 
 Use the service reports to research how much a specific user is using the service. For example, to find out how much mailbox storage a specific user has consumed, open the Mailbox usage report, and sort the users by name. If you have thousands of users, export the report to Excel so you filter through the list quickly.
   
-![Use the filter to sort your list of users.](../media/a107f939-ca81-4d65-8cdf-41641da56508.png)
+![Sort your list of users](../media/a107f939-ca81-4d65-8cdf-41641da56508.png)
   
 You can't generate a report where you enter a user's account and then get a list which services they are using and how much.
   
@@ -162,17 +160,11 @@ You can't generate a report where you enter a user's account and then get a list
 
 If you want to hide user level information when you're generating your reports, you can quickly make that change in the Office 365 admin center.
   
-1. Go to the Office 365 admin center \> **Services &amp; add-ins**
-    
-    ![Go to Office 365 services and add-ins](../media/70ad5f01-2187-4b0c-a672-b00cebfa5ec3.png)
+1. Go to the Office 365 admin center \> **Services &amp; add-ins**. <br/>![Go to Office 365 services and add-ins](../media/70ad5f01-2187-4b0c-a672-b00cebfa5ec3.png)
   
-2. Select **Reports**
-    
-    ![Office 365 select to hide specific user data in reports](../media/1ff1e88f-030b-4546-a33c-03b1174db710.png)
+2. Select **Reports**. <br/>![Hide specific user data in reports](../media/1ff1e88f-030b-4546-a33c-03b1174db710.png)
   
-3. Set the toggle to **On** and **Save**.
-    
-    ![Office 365 reports - turn toggle on to hide user specific data](../media/6db7aa6b-19f7-47f4-9d0c-e1ca9f1036f3.png)
+3. Set the toggle to **On** and **Save**.<br/>![Office 365 reports - turn toggle on to hide user specific data](../media/6db7aa6b-19f7-47f4-9d0c-e1ca9f1036f3.png)
   
 Your user list will look like this:
   
