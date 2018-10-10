@@ -30,7 +30,7 @@ Are you an admin who's usually on the go? Then check out the [Office 365 Admin a
 ## Mobile Admin app video
 
 Check out this video on how to use and navigate the app.
-  
+<br/><br/> 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/05c1d439-9ec2-415f-9178-250f64dec64c?autoplay=false]
   
 ## Frequently asked questions

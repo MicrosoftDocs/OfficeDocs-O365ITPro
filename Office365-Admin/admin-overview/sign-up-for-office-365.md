@@ -23,7 +23,7 @@ description: "Understand what you need to know before you go through the sign up
 
 Sign up for Office 365 for business so your team can begin using the latest versions of Word, Excel, PowerPoint, and other Office Online programs in your business.
   
-Watch a quick overview of the three Office 365 for business plans is best for your business. or scroll down for more info.
+Watch a quick overview of the three Office 365 for business plans, or scroll down for more info.
 <br><br>
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/cf211808-67c3-4d4b-880a-3f582d70b4d1?autoplay=false]
@@ -58,7 +58,7 @@ Ready to sign up? [Select a Plan](https://products.office.com/zh-cn/business/com
 
 ::: moniker range="o365-worldwide"
 
-Before you buy, put some thought into the Office 365 plan you sign up for. This will help prevent growing pains later.
+Before you buy, put some thought into the plan you sign up for. This will help prevent growing pains later.
   
 Need help choosing? Sales consultants are available to answer your questions. Just go to [Compare all products](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2) and choose one of the contact support options listed at the left side of the page. 
   
@@ -67,7 +67,7 @@ Need help choosing? Sales consultants are available to answer your questions. Ju
 
 ::: moniker range="o365-germany"
 
-Before you buy, put some thought into the Office 365 plan you sign up for. This will help prevent growing pains later.
+Before you buy, put some thought into the plan you sign up for. This will help prevent growing pains later.
   
 Need help choosing? Sales consultants are available to answer your questions. Just go to [Compare all products](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2) and choose one of the contact support options listed at the left side of the page. 
   
@@ -111,7 +111,7 @@ You don't need to cancel your trial. If you don't buy the trial subscription, it
   
 - **A sign-in name (user ID):** This becomes your initial Office 365 email address, just to get you started quickly. 
     
-    This is the email address you use to sign in to Office 365. For example, if your business name is Fourth Coffee, you might choose rob@fourthcoffee.onmicrosoft.com for your user ID.
+    This is the email address you use to sign in. For example, if your business name is Fourth Coffee, you might choose rob@fourthcoffee.onmicrosoft.com for your user ID.
     
     Most people add their own custom domain to Office 365 shortly after they sign up so they can start getting email to it. For example, if you have a custom domain named fourthcoffee.com, you can set up your email address as rob@fourthcoffee.com.
     
