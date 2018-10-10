@@ -41,14 +41,9 @@ Below is a sample customer lockbox request.
     
 4. The support engineer logs into the customer lockbox request tool and sends you an email letting you know there's a pending customer lockbox request. All requests are reviewed and approved by Microsoft support managers before you get the request.
     
-5. The customer lockbox request tool sends you an email letting you know there's a pending lockbox request. If you reject or don't approve the request in 12 hours, access is automatically revoked.
-    
-    ![Screenshot: Sample customer lockbox email](../media/1e578e60-271f-4a1f-97ff-d54d0f08c4cd.png)
+5. The customer lockbox request tool sends you an email letting you know there's a pending lockbox request. If you reject or don't approve the request in 12 hours, access is automatically revoked.<br/>![Screenshot: Sample customer lockbox email](../media/1e578e60-271f-4a1f-97ff-d54d0f08c4cd.png)
   
-6. You log into the Office 365 admin center and approve the request.
-    
-    > [!IMPORTANT]
-    > We don't include any links in the customer lockbox email that requires you to login to Office 365. 
+6. You log into the Office 365 admin center and approve the request.<br/>IMPORTANT: We don't include any links in the customer lockbox email that requires you to login to Office 365. 
   
 7. The support engineer gets the approval message, logs into Exchange Online and fixes the issues. As soon as the issue is fixed, the customer lockbox request is closed and access is revoked, or once the support engineer starts the process, they have 4 hours to fix the issue before access is revoked.
     
@@ -62,13 +57,9 @@ You can turn customer lockbox requests on or off in the Office 365 admin center.
     
 3. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
     
-4. Navigate to **Settings** \> **Security &amp; privacy** and scroll to locate **Customer Lockbox**:
-    
-    ![Edit Customer Lockbox in the admin center](../media/23b4bc33-96c5-4ad0-a190-f18d24b4374d.png)
+4. Navigate to **Settings** \> **Security &amp; privacy** and scroll to locate **Customer Lockbox**.<br/>![Edit Customer Lockbox in the admin center](../media/23b4bc33-96c5-4ad0-a190-f18d24b4374d.png)
   
-5. Click **Edit** and move the toggle **On** or **Off** to turn lockbox requests on or off. 
-    
-    ![Require approval for Customer Lockbox](../media/ec03151d-9436-425c-9352-97ec8ae6b3a2.png)
+5. Click **Edit** and move the toggle **On** or **Off** to turn lockbox requests on or off.<br/>![Require approval for Customer Lockbox](../media/ec03151d-9436-425c-9352-97ec8ae6b3a2.png)
   
 ## Approve or deny a Customer Lockbox request in the Office 365 admin center
 
@@ -78,9 +69,7 @@ You can turn customer lockbox requests on or off in the Office 365 admin center.
     
 3. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
     
-4. Navigate to **Settings** \> **Support** \> **Service requests**.
-    
-    ![Data access requests](../media/b99ec47a-1b6f-4841-b831-abf2cb615f77.png)
+4. Navigate to **Settings** \> **Support** \> **Service requests**.<br/>![Data access requests](../media/b99ec47a-1b6f-4841-b831-abf2cb615f77.png)
   
 5. Select a customer lockbox request, and then select **Approve** or **Reject**.
     
