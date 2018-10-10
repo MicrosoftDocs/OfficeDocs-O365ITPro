@@ -1,9 +1,8 @@
 ---
 title: "Stay on top of Office 365 changes"
-ms.author: kfollis
-author: kfollis
-manager: mnirkhe
-
+ms.author: sirkkuw
+author: sirkkuw
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -35,8 +34,3 @@ With Office 365, you receive new product updates and features as they become ava
 |**Roadmap** <br/> |Visit the Office 365 Roadmap to learn about features that have been launched, are rolling out, are in development, have been cancelled, or previously released. The roadmap is the official site for Office 365 updates and changes.  <br/> |Visit the [Office 365 Roadmap](https://fasttrack.microsoft.com/roadmap) frequently and learn about planned updates and releases.  <br/> |
 |**Blogs** and **Community** <br/> |Visit Office Blogs, Microsoft Community, and Microsoft Tech Community to learn more details about changes in Office 365 and share experiences with other users.  <br/> |Visit [Office Blogs](https://blogs.office.com/). Visit [Microsoft Community](http://answers.microsoft.com). Visit [Microsoft Tech Community](https://techcommunity.microsoft.com).  <br/> |
    
-## Learn more
-
-Learn more about managing Office 365 at [Office 365 for business - Admin help](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791.aspx).
-  
-
