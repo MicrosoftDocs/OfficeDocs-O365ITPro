@@ -144,9 +144,7 @@ Depending on your Office 365 subscription, here are the available reports.
 
 - To see how many licenses you have assigned and unassigned, in the Office 365 admin center, go to **Billing** \> **Licenses**.
     
-- To see who is licensed, unlicensed, or guest, go to **Users** \> **Active users**. Use the **Views** drop down box to filter your list. 
-    
-    ![Filter your list of users](../media/e24fd0c8-8906-440c-9614-393eff10b31d.png)
+- To see who is licensed, unlicensed, or guest, go to **Users** \> **Active users**. Use the **Views** drop down box to filter your list.<br/> ![Filter your list of users](../media/e24fd0c8-8906-440c-9614-393eff10b31d.png)
   
 ## How to view usage information for a specific user
 
@@ -164,7 +162,7 @@ If you want to hide user level information when you're generating your reports, 
   
 2. Select **Reports**. <br/>![Hide specific user data in reports](../media/1ff1e88f-030b-4546-a33c-03b1174db710.png)
   
-3. Set the toggle to **On** and **Save**.<br/>![Office 365 reports - turn toggle on to hide user specific data](../media/6db7aa6b-19f7-47f4-9d0c-e1ca9f1036f3.png)
+3. Set the toggle to **On** and **Save**.<br/>![Turn toggle on to hide user specific data](../media/6db7aa6b-19f7-47f4-9d0c-e1ca9f1036f3.png)
   
 Your user list will look like this:
   

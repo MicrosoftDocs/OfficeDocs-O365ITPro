@@ -33,7 +33,7 @@ With Office 365, you receive new product updates and features as they become ava
 
 Any new release is first tested and validated by the feature team, then by the entire Office 365 feature team, followed by entire Microsoft. After internal testing and validation, the next step is a **Targeted release** (formerly known as First release) to customers who opt in. At each release ring, Microsoft collects feedback and further validates quality by monitoring key usage metrics. This series of progressive validation is in place to make sure the worldwide-release is as robust as possible. The releases are pictured in the following figure. 
   
-![Release validation rings for Office 365.](../media/73611ed3-2d8c-4e7b-8074-9f03b239f9ed.png)
+![Release validation rings for Office 365](../media/73611ed3-2d8c-4e7b-8074-9f03b239f9ed.png)
   
 For significant updates, Office customers are initially notified by the [Office 365 public roadmap](https://products.office.com/business/office-365-roadmap). As an update gets closer to rolling out, it is communicated through your [Office 365 Message Center](https://go.microsoft.com/fwlink/p/?LinkID=402336).
 
@@ -55,11 +55,11 @@ With this option, you and your users can be the first to see the latest updates 
   
 ### Targeted release for entire organization
 
-If you [Set up the release option in the Office 365 admin center](release-options-in-office-365.md#bkmk_setup) for this option, all your users will get the Targeted release experience. For organizations with more than 300 users, we recommend using a test subscription for this option. For test subscription information, please reach out to your Microsoft contact. 
+If you [Set up the release option in the Office 365 admin center](#set-up-the-release-option-in-the-office-365-admin-center) for this option, all your users will get the Targeted release experience. For organizations with more than 300 users, we recommend using a test subscription for this option. For test subscription information, please reach out to your Microsoft contact. 
   
 ### Targeted release for selected users
 
-If you [Set up the release option in the Office 365 admin center](release-options-in-office-365.md#bkmk_setup) for this option, you can define specific users, usually power users, to receive early access to features and functionality. 
+If you [Set up the release option in the Office 365 admin center](#set-up-the-release-option-in-the-office-365-admin-center) for this option, you can define specific users, usually power users, to receive early access to features and functionality. 
   
 ## Benefits of Targeted release
 
@@ -86,7 +86,7 @@ You can change how your organization receives Office 365 updates by following th
     
 2. Go to the [Office 365 admin center](../admin-overview/about-the-admin-center.md).
     
-3. Navigate to **Settings** \> **Organization profile**.<br/>![Navigate to Settings and then Organization profile.](../media/74ed60b3-c8b9-4752-a598-52d72cf46f46.png)
+3. Navigate to **Settings** \> **Organization profile**.<br/>![Navigate to Settings and then Organization profile](../media/74ed60b3-c8b9-4752-a598-52d72cf46f46.png)
   
 4. Next to **Release preferences**, click **Edit**.
     
