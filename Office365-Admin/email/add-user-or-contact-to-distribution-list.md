@@ -39,11 +39,11 @@ As the admin of an Office 365 organization, you may need to add one of your user
     
 5. In the **Members** section, click **Edit**.
     
-    ![Screenshot: Add a contact to a distribution list](../media/429062d8-9dcf-4d98-af9c-6fff8a18b198.png)
+    ![Add a contact to a distribution list](../media/429062d8-9dcf-4d98-af9c-6fff8a18b198.png)
   
 6. On the **View Members** page, click or tap **Add Members,** and select the **user or contact** you want to add to the distribution list. 
     
-    ![Screenshot: Add members to distribution list](../media/f79f59f8-1606-43fe-bae6-df74f5b6259d.png)
+    ![Add members to distribution list](../media/f79f59f8-1606-43fe-bae6-df74f5b6259d.png)
   
 7. Click **Save** and then **Close**.
     

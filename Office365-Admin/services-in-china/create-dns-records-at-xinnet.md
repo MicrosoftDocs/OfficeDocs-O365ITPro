@@ -105,11 +105,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 3. On the **Setup** page, choose **Start setup**.
     
-    ![Start setup button](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
+    ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
   
 4. On the **Verify domain** page, choose **Verify**.
     
-    ![Verify button](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
+    ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
   
 ## Add an MX record to route email
 <a name="BKMK_add_MX"> </a>

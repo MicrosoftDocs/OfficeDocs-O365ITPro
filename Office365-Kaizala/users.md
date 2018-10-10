@@ -29,7 +29,7 @@ On the Kaizala management portal, from the left navigation pane, choose **Users*
     
 You can also select up to 4 columns that can be shown for each user, by choosing **More** \> **Select Columns**. 
   
-![Screenshot: Add a Kaizala user's phone number](media/a2709c0c-0672-44a6-8918-388dab316b2a.png)
+![Add a Kaizala user's phone number](media/a2709c0c-0672-44a6-8918-388dab316b2a.png)
   
 Kaizala organization admins can define and manage user attributes for an organization. They can add custom user attributes (employee ID, manager, etc) in the Kaizala Management Portal, which makes it easier for admins and other users to identify a user.
   
@@ -39,7 +39,7 @@ Kaizala organization admins can define and manage user attributes for an organiz
     
 - To add a new attribute, select **Add New**. Then choose from a range of pre-defined suggested attributes or add a new one. 
     
-    ![Screenshot: Change attributes on Kaizala users, like name, phone number and job title.](media/661ce7d7-0ef7-4c40-a850-31fa44aed4ee.png)
+    ![Change attributes on Kaizala users, like name, phone number and job title.](media/661ce7d7-0ef7-4c40-a850-31fa44aed4ee.png)
   
   - You can decide whether it's optional or mandatory for users to enter data, for a list item selected from the suggested attributes.
     
@@ -64,7 +64,7 @@ If you want to add several users without using the comma separated list, you can
     
 - Click **Select a File** and choose the file you saved above. Finally click **Upload**. 
     
-    ![Screenshot: Bulk add users to Kaizala](media/8f4f5b63-ae6e-4aac-959f-a9022612a058.png)
+    ![Bulk add users to Kaizala](media/8f4f5b63-ae6e-4aac-959f-a9022612a058.png)
   
 - On the **Upload Users History** page, you can check the status of the uploaded file. Click **Refresh** to get the latest status. If the status is **Completed**, you can find the updated user list on the Users page. 
     
@@ -76,7 +76,7 @@ If you want to add several users without using the comma separated list, you can
 
 - Click **Users** \> **Add users**. Then select **View Import History** from the drop-down. 
     
-    ![Screenshot: Kaizala import history page](media/23cbc5fc-5b57-4ceb-ad9f-e165b52ebcbc.png)
+    ![Kaizala import history page](media/23cbc5fc-5b57-4ceb-ad9f-e165b52ebcbc.png)
   
 - On the **View Import History** page, you can find a list of all user upload operations. Each list item has the following info: 
     
@@ -101,7 +101,7 @@ If you want to add several users without using the comma separated list, you can
 
 - Click **Users** \> **Export Users**. Then select **Create New Request**. 
     
-    ![Screenshot: Create a new request to export Kaizala users](media/2f444aab-c793-478a-8197-6d9c331bc47b.png)
+    ![Create a new request to export Kaizala users](media/2f444aab-c793-478a-8197-6d9c331bc47b.png)
   
 - On the **Export History** page, you can check the status of the export request. Click **Refresh** to get the latest status. If the status is Completed, you can download the requested file by clicking on the download icon beside the specific request. 
     
@@ -112,7 +112,7 @@ If you want to add several users without using the comma separated list, you can
     
 - On the **Export History** page, you can find a list of all user upload operations. Each list-item has following info 
     
-    ![Screenshot: Kaizala export history page](media/9421c55c-52fc-4971-bb95-1bda020b353d.png)
+    ![Kaizala export history page](media/9421c55c-52fc-4971-bb95-1bda020b353d.png)
   
   - File Name
     

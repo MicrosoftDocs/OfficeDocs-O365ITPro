@@ -73,7 +73,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 3. On the **Add this TXT record to show you own** * **domain_name*** page, choose **Okay, I've added the record** and then, in the confirmation dialog box, choose **Finish**.
     
-    ![Start setup button](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
+    ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
   
 ## Change your domain's name servers
 <a name="BKMK_change_your_domain_s_1"> </a>

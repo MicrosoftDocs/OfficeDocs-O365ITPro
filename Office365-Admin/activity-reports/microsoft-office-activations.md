@@ -36,7 +36,7 @@ The Office Activation report gives you a view of which users have activated thei
     
 2. Click on the **Activations** widget on the **Reports** dashboard or select from the drop down. 
     
-    ![Screenshot: Click Mailbox usage to get to the mailbox usage report](../media/fee57a6a-c66e-4272-ab93-1f9f7b004eaa.png)
+    ![Click Mailbox usage to get to the mailbox usage report](../media/fee57a6a-c66e-4272-ab93-1f9f7b004eaa.png)
   
 ## Interpret the Office activations report
 

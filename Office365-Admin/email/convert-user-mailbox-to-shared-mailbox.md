@@ -56,11 +56,11 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
     
 3. On the user's page, expand **Mail Settings** and click **Convert to shared mailbox**. You won't see this option if the user doesn't have an Office 365 license assigned to them. Go assign them a license then come back to this step. 
     
-    ![Screenshot: Convert user mailbox to shared mailbox](../media/ab36c282-c689-4b3d-82eb-5912a8a33a20.png)
+    ![Convert user mailbox to shared mailbox](../media/ab36c282-c689-4b3d-82eb-5912a8a33a20.png)
   
 4. Click **Convert** to complete the conversion. 
     
-    ![Screenshot: Click or tap Convert to convert user mailbox to shared mailbox](../media/b705fff8-9b87-48cc-9cd4-bcc989a8c569.png)
+    ![Click or tap Convert to convert user mailbox to shared mailbox](../media/b705fff8-9b87-48cc-9cd4-bcc989a8c569.png)
   
 5. If the mailbox is smaller than 50GB, you can remove the [license from the user](../subscriptions-and-billing/remove-licenses-from-users.md), and stop paying for it. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor. The user won't be able to sign in using the old account.
     

@@ -103,11 +103,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 3. On the **Setup** page, choose **Start setup**.
     
-    ![Start setup button](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
+    ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
   
 4. On the **Verify domain** page, choose **Verify**.
     
-    ![Verify button](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
+    ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
@@ -155,7 +155,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 10. At the bottom of the page, select **Continue the procedure**.
     
-    ![Continue the procedure button](../media/4afc86e2-5364-4079-8240-21f1501cc55d.png)
+    ![Continue the procedure](../media/4afc86e2-5364-4079-8240-21f1501cc55d.png)
   
 ## Add the CNAME records that are required for Office 365
 <a name="bkmk_cname"> </a>
@@ -191,7 +191,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 6. Choose **Add**.
     
-    ![Add button](../media/ec719e57-b70a-4460-8ff4-9599f516ea5b.png)
+    ![Add](../media/ec719e57-b70a-4460-8ff4-9599f516ea5b.png)
   
 7. Repeat the steps 5 and 6 to create the other five CNAME records. For each record, type or copy and paste the values from the next row of the table above into the boxes for that record.
     
@@ -253,7 +253,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 9. At the bottom of the page, select **Continue the procedure**.
     
-    ![Continue the procedure button](../media/dbf7c390-d741-4999-a461-da269bd3ef40.png)
+    ![Continue the procedure](../media/dbf7c390-d741-4999-a461-da269bd3ef40.png)
   
 ## Add the two SRV records that are required for Office 365
 <a name="bkmk_srv"> </a>

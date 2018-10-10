@@ -3,7 +3,6 @@ title: "Office 365 Reports in the Admin Center - OneDrive for Business usage"
 ms.author: kaarins
 author: kaarins
 manager: pamgreen
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -22,7 +21,6 @@ search.appverid:
 - ODB150
 - ODB160
 ms.assetid: 0de3b312-c4e8-4e4b-a02d-32b2f726a680
-
 description: "Get the OneDrive for Business Usage Report to know about the total number of files and storage used across your organization. "
 ---
 
@@ -37,16 +35,11 @@ For example, the OneDrive card on the dashboard gives you a high-level view of t
   
 ## How do I get to the OneDrive Usage Report?
 
-1. In the Office 365 admin center, select **Reports** and then **Usage** from the left menu or click on the **Reports** widget. 
-    
-    ![Check out new Office 365 activity reports](../media/2554deff-b840-4aa5-b2b2-83683996fedc.png)
+1. In the Office 365 admin center, select **Reports** and then **Usage** from the left menu or click on the **Reports** widget.<br/>![Check out new Office 365 activity reports](../media/2554deff-b840-4aa5-b2b2-83683996fedc.png)
   
-2. Use the **Select a report** drop-drop at the top left and select **OneDrive usage**. 
-    
-    ![Select a report](../media/fb7bb8ea-eeb7-48c9-b739-601f41ddee16.png)
+2. Use the **Select a report** drop-drop at the top left and select **OneDrive usage**.<br/> ![Select a report](../media/fb7bb8ea-eeb7-48c9-b739-601f41ddee16.png)
   
 ## Interpret the OneDrive usage report
-<a name="ODBFu"> </a>
 
 You can get a view into OneDrive for Business usage by looking at the **Accounts**, **Files**, and **Storage** views. 
   

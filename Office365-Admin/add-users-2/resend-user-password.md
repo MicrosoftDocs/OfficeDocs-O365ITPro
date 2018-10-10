@@ -41,6 +41,6 @@ You must be an [Office 365 global admin or password administrator](about-admin-r
   
 6. Make sure you send the notification to an email address where your user can get it, and follow up with them to make sure they got it.
     
-    ![Screenshot: Send reset password notification email to user](../media/cc5110af-f9e8-4777-a0fc-9db76e0ddf73.png)
+    ![Send reset password notification email to user](../media/cc5110af-f9e8-4777-a0fc-9db76e0ddf73.png)
   
 

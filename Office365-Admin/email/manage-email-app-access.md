@@ -44,7 +44,7 @@ Use the mobile email access settings to choose which mobile apps people in your 
   
 4. Turn the toggle **On** to manage email app access options. 
     
-    ![Screenshot: Use the mobile email access settings to manage access to company email, calendar, and contacts on your employees' mobile devices.](../media/f031a555-32ee-43ff-a772-aa561781473b.png)
+    ![Use the mobile email access settings to manage access to company email, calendar, and contacts on your employees' mobile devices.](../media/f031a555-32ee-43ff-a772-aa561781473b.png)
   
 Choose how users in your organization use email apps on their devices:
   

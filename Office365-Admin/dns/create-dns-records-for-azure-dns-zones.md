@@ -124,11 +124,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 3. On the **Setup** page, choose **Start setup**.
     
-    ![Start setup button](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
+    ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
   
 4. On the **Verify domain** page, choose **Verify**.
     
-    ![Verify button](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
+    ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 

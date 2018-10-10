@@ -43,7 +43,7 @@ The Kaizala management portal can be used by the following users:
     
 - **Business User**  Can view built-in reports, with real-time data updates, for Kaizala Actions shared in organization groups. 
     
-![Screenshot: Kaizala management portal](media/f14b188f-e1a2-4a72-8ca1-d05fcada255a.png)
+![Kaizala management portal](media/f14b188f-e1a2-4a72-8ca1-d05fcada255a.png)
   
 |Menu     |What it's for|
 |---------|-------------|
