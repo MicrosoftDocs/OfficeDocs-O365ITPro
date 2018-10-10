@@ -26,7 +26,7 @@ description: "Keep your credit card information up-to-date to continue using Off
 
 You must be a Global Admin or a Billing Admin to do the tasks described in this article.
   
- **Not an admin?** Contact your IT administrator for help. [Who has admin permissions in my business?](../admin-overview/admin-overview.md#bkmk_admin)
+ **Not an admin?** Contact your IT administrator for help. [Who has admin permissions in my business?](../admin-overview/admin-overview.md#who-has-admin-permissions-in-my-business)
   
  **For Office 365 Home, Personal, or University**, see [Add, update, or remove credit cards and other ways to pay](https://support.microsoft.com/help/4026594).
   
@@ -34,7 +34,6 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 > Paying by using a bank account is not available in some countries or regions. 
   
 ## Add a new credit card or bank account
-<a name="BKMK_AddCreditCard"> </a>
 
 1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
     
@@ -56,7 +55,6 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
     > The new credit card or bank account will only be used for the Office 365 subscription you selected in step 2. If you have other subscriptions that you want to use the new credit card or bank account for, follow the steps in this article to change the credit card or bank account used to pay for each subscription. 
   
 ## Update an existing credit card or bank account
-<a name="BKMK_UpdateCreditCard"> </a>
 
 > [!NOTE]
 >  You don't need the CVV/CVN code to update the details of an existing credit card. 
@@ -82,21 +80,23 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
   
 4. Update your credit card or bank account information (name on the credit card or bank account, billing address. phone number, or expiration date) as needed, then choose **Submit**.
     
-5. A confirmation message should appear. If it doesn't, see [Troubleshooting credit cards and bank accounts](add-update-or-remove-credit-card-or-bank-account.md#BKMK_TroubleshootCreditCards).
+5. A confirmation message should appear. If it doesn't, see [Troubleshooting credit cards and bank accounts](#troubleshooting-credit-cards-and-bank-accounts).
     
     ![Screenshot showing the confirmation message: "Your payment method was successfully updated."](../media/23b4aa8e-f5d5-4535-92a2-9111a270f097.png)
   
 ## Remove a credit card or bank account
-<a name="BKMK_DeleteCreditCard"> </a>
 
 > [!NOTE]
 > You can remove a credit card or bank account, as long as you don't have an outstanding balance on the credit card or bank account, and you're not using it to pay for an active subscription. 
-  
+::: moniker range="o365-worldwide"
 1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
-    
-    If you're using Office 365 Germany, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page. 
-    
-    If you're using Office 365 operated by 21Vianet, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=850626) page. 
+::: moniker-end 
+::: moniker range="o365-germany"
+1. If you're using Office 365 Germany, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page. 
+::: moniker-end    
+::: moniker range="o365-21vianet"
+1. If you're using Office 365 operated by 21Vianet, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=850626) page.
+::: moniker-end
     
 2. Pick any subscription, then choose **Update payment details**.
     
@@ -140,7 +140,6 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 [!VIDEO https://www.microsoft.com/videoplayer/embed/852072f0-ed6d-4589-a2b4-4dfe6e9394e3?autoplay=false]
   
 ## Troubleshooting credit cards and bank accounts
-<a name="BKMK_TroubleshootCreditCards"> </a>
 
 |**Issue**|**Troubleshooting steps**|
 |:-----|:-----|
@@ -158,5 +157,3 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 [Change your billing addresses](change-your-billing-addresses.md)
   
 [Cancel your subscription](cancel-your-subscription.md)
-  
-[Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
