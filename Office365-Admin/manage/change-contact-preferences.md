@@ -3,7 +3,6 @@ title: "Change your contact preferences for communications from Microsoft"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -31,7 +30,7 @@ Read [Update your admin phone number and email address in Office 365](update-pho
   
 If you're looking for how to change company profile information, such as organization's name and address, primary company phone number, and technical contact information, see [Change your organization's address, technical contact email, and other information](change-address-contact-and-more.md).
   
- **To update your information**
+## To update your information
   
 1. Browse to your Office 365 admin center. 
     
@@ -58,10 +57,5 @@ For answers to billing questions, see:
     
 - [Add, update, or remove a credit card or bank account in Office 365 for business](../subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account.md)
     
-## See also
-<a name="__top"> </a>
 
-[About the Office 365 admin center](../admin-overview/about-the-admin-center.md)
-  
-[Office 365 for business - Admin help](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791.aspx)
 
