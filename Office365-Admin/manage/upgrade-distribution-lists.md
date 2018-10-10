@@ -18,7 +18,7 @@ description: "Learn how to upgrade one or many distribution lists to Office 365 
 
 # Upgrade distribution lists to Office 365 Groups in Outlook
   
-It's easy to upgrade distribution lists to Office 365 Groups in Outlook! This is a great way to give your organization's distribution lists all the features and functionality of Office 365 groups. [Why you should upgrade your distribution lists to groups in Outlook](https://support.office.com/article/7fb3d880-593b-4909-aafa-950dd50ce188.aspx)
+You can upgrade distribution lists to Office 365 Groups with Outlook. This is a great way to give your organization's distribution lists all the features and functionality of Office 365 groups. [Why you should upgrade your distribution lists to groups in Outlook](https://support.office.com/article/7fb3d880-593b-4909-aafa-950dd50ce188.aspx)
   
 You can upgrade DLs one at a time, or several at the same time.
   
