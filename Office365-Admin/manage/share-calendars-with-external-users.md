@@ -3,7 +3,6 @@ title: "Share calendars with external users"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -36,13 +35,9 @@ Calendar sharing is a global setting, meaning that you, the Office 365 admin, ca
     
 2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) and choose **Admin**.
     
-3. Navigate to **Settings** \> **Services &amp; add-ins**.
-    
-    ![On the left navigation pane, click Settings, and then click Services &amp; add-ins.](../media/cef4d157-820b-4d38-8a2a-b10e53458905.png)
+3. Navigate to **Settings** \> **Services &amp; add-ins**.<br/>![On the left navigation pane, click Settings, and then click Services &amp; add-ins.](../media/cef4d157-820b-4d38-8a2a-b10e53458905.png)
   
-4. On the **Services &amp; add-ins** page, click **Calendar**.
-    
-    ![On the Services &amp; add-ins page, click Calendar.](../media/66f038d7-0272-4b3f-8b48-39581818a868.png)
+4. On the **Services &amp; add-ins** page, click **Calendar**.<br/>![On the Services &amp; add-ins page, click Calendar.](../media/66f038d7-0272-4b3f-8b48-39581818a868.png)
   
 5. On the **Calendar** page that opens, do one of the following: 
     
@@ -50,11 +45,7 @@ Calendar sharing is a global setting, meaning that you, the Office 365 admin, ca
     
   - For **Let your users share their calendars with external users who have Office 365 or Exchange**, move the slider to **Off** to disable calendar sharing. 
     
-6. If you want to allow anonymous users (users without logon credentials) to access calendars via an email invitation, for **Allow anonymous users to access calendars with an email invitation**, move the slider to **On**.
-    
-    ![In the Calendar page, configure the settings as appropriate for your situation.](../media/50a3b91b-2c8b-459c-a37f-1ad5c5270b3a.png)
-  
-    When you select the check box to allow anonymous users, you'll have to decide what type of calendar information to make available to users. You can allow all information, or limit it. These choices specify the amount of information that your users can show on a case-by-case basis. Select one of the following:
+6. If you want to allow anonymous users (users without logon credentials) to access calendars via an email invitation, for **Allow anonymous users to access calendars with an email invitation**, move the slider to **On**.<br/>![In the Calendar page, configure the settings as appropriate for your situation.](../media/50a3b91b-2c8b-459c-a37f-1ad5c5270b3a.png)<br/>When you select the check box to allow anonymous users, you'll have to decide what type of calendar information to make available to users. You can allow all information, or limit it. These choices specify the amount of information that your users can show on a case-by-case basis. Select one of the following:
     
   - **Calendar free/busy information with time only**
     
