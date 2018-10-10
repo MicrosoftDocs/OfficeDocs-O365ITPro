@@ -1,9 +1,8 @@
 ---
 title: "Set up the Standard or Targeted release options in Office 365"
-ms.author: kfollis
-author: kfollis
-manager: mnirkhe
-
+ms.author: sirkkuw
+author: sirkkuw
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -32,15 +31,11 @@ With Office 365, you receive new product updates and features as they become ava
   
 ## How it works - release validation
 
-::: moniker range="o365-worldwide"
-
 Any new release is first tested and validated by the feature team, then by the entire Office 365 feature team, followed by entire Microsoft. After internal testing and validation, the next step is a **Targeted release** (formerly known as First release) to customers who opt in. At each release ring, Microsoft collects feedback and further validates quality by monitoring key usage metrics. This series of progressive validation is in place to make sure the worldwide-release is as robust as possible. The releases are pictured in the following figure. 
   
 ![Release validation rings for Office 365.](../media/73611ed3-2d8c-4e7b-8074-9f03b239f9ed.png)
   
 For significant updates, Office customers are initially notified by the [Office 365 public roadmap](https://products.office.com/business/office-365-roadmap). As an update gets closer to rolling out, it is communicated through your [Office 365 Message Center](https://go.microsoft.com/fwlink/p/?LinkID=402336).
-  
-::: moniker-end
 
 ## Standard release
 
@@ -81,9 +76,6 @@ Targeted release allows admins, change managers, or anyone else responsible for 
 - Use feature controls, where applicable, to control the release of updates to end users.
     
 ## Set up the release option in the Office 365 admin center
-<a name="bkmk_setup"> </a>
-
-::: moniker range="o365-worldwide"
 
 You can change how your organization receives Office 365 updates by following these steps. You have to be a global admin in Office 365 to opt in.
   
@@ -94,9 +86,7 @@ You can change how your organization receives Office 365 updates by following th
     
 2. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
     
-3. Navigate to **Settings** \> **Organization profile**.
-    
-    ![In the admin center, navigate to Settings and then Organization profile.](../media/74ed60b3-c8b9-4752-a598-52d72cf46f46.png)
+3. Navigate to **Settings** \> **Organization profile**.<br/>![In the admin center, navigate to Settings and then Organization profile.](../media/74ed60b3-c8b9-4752-a598-52d72cf46f46.png)
   
 4. Next to **Release preferences**, click **Edit**.
     
@@ -109,37 +99,19 @@ You can change how your organization receives Office 365 updates by following th
 8. Choose **Add people** to add users individually. Search for their names and click **+** to **Add**.
     
 9. When you're done adding users, click **Save** and then **Close**.
-    
-::: moniker-end
 
-::: moniker range="o365-worldwide"
-
- **To add users in bulk**
+## To add users in bulk
   
-1. Next to Release preferences, click **Actions** \> **+ Bulk add people for first release** under the Standard release heading. 
+1. Next to Release preferences, click **Actions** \> **+ Bulk add people for first release** under the **Standard release** heading. 
     
 2. Choose **Browse** to select a file containing each person's email address. 
     
 3. Click **Next** and then **Close**.
-    
-::: moniker-end
 
-## Get the Targeted release version of Office 2016
-<a name="bkmk_setup"> </a>
-
-::: moniker range="o365-worldwide"
+## Get the Targeted release version of Office
 
 To install a targeted release build of Office, [follow these steps](https://support.office.com/article/4dd8ba40-73c0-4468-b778-c7b744d03ead). This gives you early access to the new features of Office 2016 for Windows desktops.
   
-::: moniker-end
-
 ## Learn more
-<a name="bkmk_setup"> </a>
-
-::: moniker range="o365-worldwide"
 
 Learn more about upcoming Office 365 updates and releases on the [Office 365 public roadmap](http://roadmap.office.com/) and the notifications you receive in the [Office 365 Message Center](https://go.microsoft.com/fwlink/p/?LinkID=402336).
-  
-::: moniker-end
-
-
