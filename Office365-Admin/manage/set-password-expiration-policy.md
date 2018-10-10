@@ -3,7 +3,6 @@ title: "Set the password expiration policy for your organization"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -23,62 +22,36 @@ search.appverid:
 - MOE150
 - GEA150
 ms.assetid: 0f54736f-eb22-414c-8273-498a0918678f
-
 description: "Learn how to set a password expiration policy for your organization in Office 365 admin center. "
 ---
 
 # Set the password expiration policy for your organization
 
- *Last updated 11 January, 2018* 
-  
-|||
-|:-----|:-----|
-|![I forgot the username or password for the account I use with Office.](../media/d0ee024e-999d-438b-b72d-2e1779cf7f83.png)           <br/> |This article is for people who set password expiration policy for a business, school, or nonprofit.  <br/> **If you're a user, you don't have the permissions to set your password to never expire. Ask your work or school technical support to do the steps in this article for you.** <br/> |
+This article is for people who set password expiration policy for a business, school, or nonprofit.  
+
+If you're a user, you don't have the permissions to set your password to never expire. Ask your work or school technical support to do the steps in this article for you.
    
 As an admin, you can make user passwords expire after a certain number of days, or set passwords to never expire. By default, passwords are set to never expire.
   
 Only [Office 365 global admins](../add-users-2/about-admin-roles.md) can perform these steps. 
   
-1. 
-::: moniker range="o365-worldwide"
+1. ::: moniker range="o365-worldwide" Go to the [![Click here to go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).::: moniker-end
 
-Go to the [![Click here to go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+::: moniker range="o365-germany"Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).::: moniker-end
 
-::: moniker-end
+::: moniker range="o365-21vianet"Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).::: moniker-end
 
-::: moniker range="o365-germany"
-
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
-
-::: moniker-end
-
-2. In the Office 365 admin center, go to **Settings** \> **Security and privacy**. If you aren't an Office 365 global admin, you won't see the Security and privacy option. 
-    
-    ![Navigate to Security and Privacy.](../media/5f474a03-38a4-4833-9f4c-db769de8b8d9.png)
+2. In the Office 365 admin center, go to **Settings** \> **Security and privacy**. If you aren't an Office 365 global admin, you won't see the Security and privacy option. <br/> ![Navigate to Security and Privacy.](../media/5f474a03-38a4-4833-9f4c-db769de8b8d9.png)
   
-3. Click **Edit**. 
-    
-    ![Choose Edit.](../media/85ecde71-ecd2-4e02-ac1c-f27790c1869a.png)
+3. Click **Edit**. <br/>![Choose Edit.](../media/85ecde71-ecd2-4e02-ac1c-f27790c1869a.png)
   
-4. If you don't want users to have to change passwords, set **Passwords never expire** to **On**. 
-    
-    ![Set to On.](../media/a12c3844-d951-4484-8d2b-4120b059ea37.png)
+4. If you don't want users to have to change passwords, set **Passwords never expire** to **On**.<br/> ![Set to On.](../media/a12c3844-d951-4484-8d2b-4120b059ea37.png)
   
-5. If you want user passwords to expire, in the first box type how often passwords should expire. Choose a number of days from 14 to 730.
-    
-    ![Enter how often passwords should expire.](../media/eaca5b33-c8b5-4d8b-b7ac-4712a9d0500e.png)
+5. If you want user passwords to expire, in the first box type how often passwords should expire. Choose a number of days from 14 to 730.<br/>![Enter how often passwords should expire.](../media/eaca5b33-c8b5-4d8b-b7ac-4712a9d0500e.png)
   
 6. In the second box type when users are notified that their password will expire, and then click **Save**. Choose a number of days from 1 to 30. 
     
-7. When the user's password expires, they'll get a notification that appears in the lower right corner of their screen.
-    
-    ![An image of the notification the user sees when their password is going to expire.](../media/a9809116-305c-4300-99c5-a3703dd65c30.png)
+7. When the user's password expires, they'll get a notification that appears in the lower right corner of their screen.<br/>![An image of the notification the user sees when their password is going to expire.](../media/a9809116-305c-4300-99c5-a3703dd65c30.png)
   
 ## Important things you need to know about the password expiration feature
 
@@ -99,11 +72,5 @@ If you want to prevent your users from recycling old passwords, you can do so in
 This article is for setting the expiration policy for cloud-only users (Azure AD). It doesn't apply to hybrid identity users who use password hash sync, pass-through authentication or on-premises federation like ADFS.
   
 To learn how to synchronize user password hashes from on premises AD to Azure AD, see [Implement password hash synchronization with Azure AD Connect sync](https://go.microsoft.com/fwlink/?linkid=861077).
-  
-## Related articles
-
-[Set an individual user's password to never expire](../add-users-2/set-password-to-never-expire.md)
-  
-[Let people reset their own passwords in Office 365](../add-users-2/let-users-reset-passwords.md)
   
 
