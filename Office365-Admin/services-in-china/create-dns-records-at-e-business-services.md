@@ -166,9 +166,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **主机名** (host name): **lyncdiscover**
+        - **主机名** (host name): **lyncdiscover**
     
-  - **对应主机** (points to): **webdir.online.partner.lync.cn**
+        - **对应主机** (points to): **webdir.online.partner.lync.cn**
     
     3. Click **增加** (add). 
     
