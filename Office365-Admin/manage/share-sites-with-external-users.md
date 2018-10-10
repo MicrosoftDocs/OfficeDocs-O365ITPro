@@ -58,7 +58,7 @@ The ability to invite external users to SharePoint sites is enabled by default, 
   
 3. In the Office 365 admin center, type external in the search box on the Home page, and choose **Sites external sharing**.<br/>![Typing external sharing in the Search box](../media/ff7ae7ef-91e3-4ed0-bb39-d2a7cf75b4db.png)
   
-4. Next to **Let people outside your organization access your sites**, slide the slider to **On** to turn on external sharing.<br/>![Screenshot of the External Sharing dialog box](../media/848bff81-63a3-464c-a9f4-135c04800c7a.png)
+4. Next to **Let people outside your organization access your sites**, slide the slider to **On** to turn on external sharing.<br/>![External Sharing dialog box](../media/848bff81-63a3-464c-a9f4-135c04800c7a.png)
   
 5. To **Allow your users to send guest links for access to your organization's sites and documents**, slide the slider for this option to **On**.<br/>![Screenshot of External sharing turned on in the admin center](../media/4f5dd6a4-f1b6-44e8-b553-eba6231c2b8d.png)<br/>Change the slider to **Off** if you want to require users to sign in using a username and password. (For more information about user IDs for work or school accounts, see [What is my user ID and why do I need it?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4.aspx))
     

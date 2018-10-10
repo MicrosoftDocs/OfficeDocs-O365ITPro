@@ -152,7 +152,7 @@ The mail flow troubleshooter is a simplified version of message trace that also 
     
 3. Choose **Next**.
     
-    ![Screenshot of the beginning of the mail flow troubleshooter with the Next button selected.](../media/2d57820f-f7bc-4d46-830a-8b25c5d32931.png)
+    ![beginning of the mail flow troubleshooter with the Next button selected.](../media/2d57820f-f7bc-4d46-830a-8b25c5d32931.png)
   
 4. Choose one of the symptoms from the list.
     
@@ -160,7 +160,7 @@ The mail flow troubleshooter is a simplified version of message trace that also 
     
 6. Select the date the message was sent.
     
-    ![Screenshot of the input area of the mail flow troubleshooter. Admins are required to pick a symptom and add a sender and recipient email address before choosing Next to start the troubleshooter.](../media/4e7981e9-e3b1-4850-a9e2-229b77755a23.png)
+    ![input area of the mail flow troubleshooter. Admins are required to pick a symptom and add a sender and recipient email address before choosing Next to start the troubleshooter.](../media/4e7981e9-e3b1-4850-a9e2-229b77755a23.png)
   
 7. Choose **Next**.
     

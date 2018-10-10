@@ -27,7 +27,7 @@ You need to be an Office 365 global administrator or user management administrat
   
 Only users with a Yammer license will see a Yammer tile in the Office 365 app launcher. 
   
-![Screenshot of the Assign licenses section of Office 365 admin center with Yammer Enterprise license available to assign.](../media/33a074a6-6141-4293-89b2-17c0845c7020.png)
+![Assign licenses section of Office 365 admin center with Yammer Enterprise license available to assign.](../media/33a074a6-6141-4293-89b2-17c0845c7020.png)
   
 ## Manage Yammer licenses in the Office 365 admin center
 
