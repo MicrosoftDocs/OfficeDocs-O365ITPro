@@ -3,7 +3,6 @@ title: "Buy a subscription to Office 365 for business from your free trial"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -32,7 +31,6 @@ You've tried Office 365, and now you're ready to buy. You have two options when 
 - Buy a different plan than your trial
     
 ## Buy the same plan as your trial
-<a name="BKMK_Same"> </a>
 
 Check out the video below or follow the steps to complete your order.
   
@@ -51,7 +49,6 @@ It's easy, and, when you buy the same type of subscription as your trial version
 3. Complete the steps to check out.
     
 ## Buy a different plan than your trial
-<a name="BKMK_Different"> </a>
 
 If you purchase a different type of subscription that your trial, you will have to reassign your user licenses from your trial plan to your new plan (before your 90-day grace period ends after your trial plan expires) in order to retain your data, accounts, and configuration.
   
@@ -67,7 +64,7 @@ If you purchase a different type of subscription that your trial, you will have 
   
     > [!NOTE]
     > If you don't see the **Purchase** button on the page, it means you can't buy a different type of subscription from your trial. In this case, you will can do one of the following: 
-    > - [Buy the same plan as your trial](buy-a-subscription-from-your-free-trial.md#BKMK_Same)
+    > - [Buy the same plan as your trial](#buy-the-same-plan-as-your-trial)
     > - [Buy the plan you want](buy-another-subscription.md) and then [assign licences to your users for the new plan](assign-licenses-to-users.md)
   
 4. On the **Purchase subscriptions** page, you'll see the different plans that you can buy. The plan that you've been trying is identified by the **In Trial** banner. 
@@ -77,9 +74,8 @@ If you purchase a different type of subscription that your trial, you will have 
 6. Complete the steps to check out.
 
 ## Related topics
-<a name="BKMK_SeeAlso"> </a>
 
-[Extend your trial for Office 365 for business](extend-your-trial.md)
+[Extend your trial](extend-your-trial.md)
   
 [Sign up for Office 365](../admin-overview/sign-up-for-office-365.md)
   

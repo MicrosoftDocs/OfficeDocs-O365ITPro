@@ -3,7 +3,6 @@ title: "Buy or edit an add-on for Office 365 for business"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -106,7 +105,7 @@ You can cancel a standalone add-on the same way that you [cancel a subscription]
 
 The following table lists add-ons that are available for different editions of Office 365 for business.
   
-For information about Skype for Business add-ons, see [Skype for Business and Microsoft Teams add-on licensing](https://support.office.com/article/3ed752b1-5983-43f9-bcfd-760619ab40a7.aspx).
+For information about Skype for Business add-ons, see [Skype for Business and Microsoft Teams add-on licensing](https://docs.microsoft.com/en-us/SkypeForBusiness/skype-for-business-and-microsoft-teams-add-on-licensing/skype-for-business-and-microsoft-teams-add-on-licensing).
   
 ****
 
@@ -127,5 +126,3 @@ For information about Skype for Business add-ons, see [Skype for Business and Mi
 ## Related topics
 
 [Change storage space for your subscription](add-storage-space.md)
-  
-[Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)

@@ -28,7 +28,7 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
   
  **Not an admin?** Contact your IT administrator for help. [Who has admin permissions in my business?](../admin-overview/admin-overview.md#who-has-admin-permissions-in-my-business)
   
- **For Office 365 Home, Personal, or University**, see [Add, update, or remove credit cards and other ways to pay](https://support.microsoft.com/help/4026594).
+ **For Office 365 Home, or Personal**, see [Add, update, or remove credit cards and other ways to pay](https://support.microsoft.com/help/4026594).
   
 > [!NOTE]
 > Paying by using a bank account is not available in some countries or regions. 
@@ -88,15 +88,11 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 
 > [!NOTE]
 > You can remove a credit card or bank account, as long as you don't have an outstanding balance on the credit card or bank account, and you're not using it to pay for an active subscription. 
-::: moniker range="o365-worldwide"
+
 1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
-::: moniker-end 
-::: moniker range="o365-germany"
-1. If you're using Office 365 Germany, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page. 
-::: moniker-end    
-::: moniker range="o365-21vianet"
-1. If you're using Office 365 operated by 21Vianet, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=850626) page.
-::: moniker-end
+    If you're using Office 365 Germany, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page. 
+    
+    If you're using Office 365 operated by 21Vianet, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=850626) page.
     
 2. Pick any subscription, then choose **Update payment details**.
     
@@ -150,7 +146,6 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 |**I can't add my credit card or bank account.** <br/> |If you have trouble entering your credit card or bank account information, you can [contact support](../contact-support-for-business-products.md).  <br/> |
    
 ## Related topics
-<a name="BKMK_ContactSupport"> </a>
 
 [Change your payment method](change-payment-method.md)
   

@@ -3,7 +3,6 @@ title: "Buy licenses for your Office 365 for business subscription"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -33,7 +32,7 @@ description: "Learn how to add more licenses to your Office 365 for business sub
     
 2. On the **Subscriptions** page, choose the subscription that you want to add licenses to and then choose **Add/Remove licenses**.
     
-    [What if I don't see the Add/Remove licenses link?](buy-licenses.md#BKMK_No_link)
+    [What if I don't see the Add/Remove licenses link?](#what-if-i-dont-see-the-addremove-licenses-link)
     
 3. In the **Total licenses** box, enter the total number of licenses that you need for this subscription and then choose **Submit** \> **Close**. For example, if you have 100 licenses and you need to add 5 more, enter 105.
     
@@ -47,7 +46,6 @@ description: "Learn how to add more licenses to your Office 365 for business sub
 >  Paying by bank account is not available in some countries or regions. 
   
 ## What if I don't see the Add/Remove licenses link?
-<a name="BKMK_No_link"> </a>
 
 This section describes the reasons why the **Add/Remove licenses** link might not be available, and what you can do about it. 
   
@@ -55,7 +53,7 @@ This section describes the reasons why the **Add/Remove licenses** link might no
 
 If a credit check is pending, you'll see a "Pending credit check" message, and you won't be able to buy licenses until the credit check is completed. If a credit check is pending, check back later to see if the credit check has completed. Credit checks typically take up to two working days to complete.
   
-After the credit check is complete, you should see the **Add/Remove licenses** link in the **Users** section. If so, go to [Buy user licenses](buy-licenses.md#BKMK_HowToBuy).
+After the credit check is complete, you should see the **Add/Remove licenses** link in the **Users** section. If so, go to [Buy licenses for your Office 365 for business subscription](#buy-licenses-for-your-office-365-for-business-subscription).
   
 ### You activated the subscription using a product key
 
@@ -74,7 +72,6 @@ If the subscription was purchased via a Cloud Solution Provider (CSP) partner, y
 If you have a trial subscription, you must first buy your trial subscription, then you can add more licenses. A trial version of Office 365 will display the text "Trial". For more information, see [Buy a subscription to Office 365 for business from your free trial](buy-a-subscription-from-your-free-trial.md).
   
 ## What you need to know about buying licenses for your Office 365 for business subscription
-<a name="BKMK_No_link"> </a>
 
 - You need to be either a Global admin or a Billing admin. For more information, see [About Office 365 admin roles](../add-users-2/about-admin-roles.md).
     
@@ -86,8 +83,7 @@ If you have a trial subscription, you must first buy your trial subscription, th
     
 - If you buy new licenses in the middle of your billing period, your first billing statement might have a partial charge. The remaining amount will be included on your next billing statement.
     
-## Articles about managing licenses for Office 365 for business
-<a name="BKMK_No_link"> </a>
+## Articles about managing licenses
 
 - [Understand subscriptions and licenses](subscriptions-and-licenses.md)
     
@@ -99,11 +95,10 @@ If you have a trial subscription, you must first buy your trial subscription, th
     
 - [Buy another subscription](buy-another-subscription.md)
     
-- [Buy or edit an add-on for Office 365 for business](buy-or-edit-an-add-on.md)
+- [Buy or edit an add-on](buy-or-edit-an-add-on.md)
     
-- [Manage Yammer user licenses in Office 365](https://support.office.com/article/34a67e3a-3fd8-4e54-bffb-dd5ad0e48590.aspx)
+- [Manage Yammer user licenses in Office 365](https://docs.microsoft.com/en-us/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
   
-## See also
-<a name="BKMK_No_link"> </a>
+## Related topics
 
 [Cancel Office 365 for business](cancel-your-subscription.md)

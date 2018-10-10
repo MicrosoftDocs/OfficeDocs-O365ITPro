@@ -3,7 +3,6 @@ title: "Change your billing addresses for Office 365 for business"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -21,7 +20,7 @@ description: "Learn how to update your billing addresses for Office 365 for busi
 
 # Change your billing addresses for Office 365 for business
 
-Your Office 365 for business bill or invoice contains three addresses:
+Your bill or invoice contains three addresses:
   
 - **Sold-To Address** Your company name and address, as shown in your organization profile. 
     
@@ -50,13 +49,11 @@ If you're using Office 365 operated by 21Vianet in China, see [View your bill or
 ::: moniker-end
 
 ## Change your Sold-To address
-<a name="__top"> </a>
 
 To change the **Sold-To** address, see [Change your organization's address, technical contact email, and other information](../manage/change-address-contact-and-more.md).
   
-::: moniker range="o365-worldwide"
 ## Change your Bill-To address
-<a name="__top"> </a>
+::: moniker range="o365-worldwide"
 
 1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
     
@@ -85,8 +82,6 @@ To change the **Sold-To** address, see [Change your organization's address, tech
 ::: moniker-end
 
 ::: moniker range="o365-germany"
-## Change your Bill-To address
-<a name="__top"> </a>
 
 1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
     
@@ -109,8 +104,6 @@ To change the **Sold-To** address, see [Change your organization's address, tech
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
-## Change your Bill-To address
-<a name="__top"> </a>
 
 1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
     
@@ -129,7 +122,6 @@ To change the **Sold-To** address, see [Change your organization's address, tech
 ::: moniker-end
 
 ## Change your service usage address
-<a name="__top"> </a>
 
 1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
     
@@ -144,7 +136,6 @@ To change the **Sold-To** address, see [Change your organization's address, tech
 3. On the **Edit your service usage address** pane, update your address, then choose **Submit**.
     
 ## Change the alternate email address your billing notifications are sent to
-<a name="__top"> </a>
 
 By default, your organization's billing notifications are sent to the Office 365 email address and the alternate email address of every global and billing admin in your organization. Each admin can change their alternate email address by updating their profile information.
   
@@ -167,7 +158,6 @@ By default, your organization's billing notifications are sent to the Office 365
     ![The Contact details pane in edit mode.](../media/94825b5d-a6b3-4ea6-ac53-4dbf491f6c4f.png)
   
 ## Change the alternate email address for another admin
-<a name="__top"> </a>
 
 You can also change the alternate email address of other global and billing admins in your organization.
   
@@ -182,8 +172,3 @@ You can also change the alternate email address of other global and billing admi
 3. In the **Edit user roles** pane, type the alternate email address you want to use, then choose **Save**.
     
     ![The Edit User Roles pane where you can change user roles and change the alternative email address.](../media/045419a8-4bc6-4e96-9f71-c87a0d579f03.png)
-
-## Related topics
-<a name="BKMK_ContactSupport"> </a>
-
-[Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
