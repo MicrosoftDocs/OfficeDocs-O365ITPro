@@ -3,15 +3,13 @@ title: "Add storage space for your subscription"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365M_AddStorageSpace'
 - 'O365E_AddStorageSpace'
 - 'fwlink 799564'
-- 'campaign ID O365_Portal_Comm_Catalog_ExtraStorage_LearnMore
-'
+- 'campaign ID O365_Portal_Comm_Catalog_ExtraStorage_LearnMore'
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_O365
@@ -29,14 +27,13 @@ description: "Learn to add and reduce file storage in your Office 365 subscripti
 
 # Add storage space for your subscription
 
-If you start to run out of storage for your SharePoint Online site collections, you can add storage to your Office 365 subscription if your plan is [eligible](add-storage-space.md#BKMK_eligible).
+If you start to run out of storage for your SharePoint Online site collections, you can add storage to your subscription if your plan is [eligible](#is-my-plan-eligible-for-office-365-extra-file-storage).
   
 ## View available storage
-<a name="__top"> </a>
 
-1. Sign in to Office 365 with your work or school account as a global admin. [Learn how to sign in](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
+1. Sign in with your work or school account as a global admin. [Learn how to sign in](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
     
-2. Select the app launcher icon ![Office 365 app launcher icon](../media/0aaa6945-f9a4-4b13-bf5f-d5c5dbe978fb.png) in the upper-left and choose **Admin**.
+2. Select the app launcher icon ![app launcher icon](../media/0aaa6945-f9a4-4b13-bf5f-d5c5dbe978fb.png) in the upper-left and choose **Admin**.
     
 3. In the admin center, choose **Admin centers** \> **SharePoint**.
     
@@ -44,10 +41,9 @@ If you start to run out of storage for your SharePoint Online site collections, 
     
 After you've determined how much storage you're using, you can add or remove storage space for your subscription. To find out how much it will cost to add storage space, follow the steps in this article, and review the pricing information before you purchase.
   
-For information about setting site collection storage limits, see [Manage site collection storage limits](https://support.office.com/article/77389c2c-8e7e-4b16-ab97-1c7103784b08.aspx).
+For information about setting site collection storage limits, see [Manage site collection storage limits](https://docs.microsoft.com/en-us/sharepoint/manage-site-collection-storage-limits).
   
 ## Add storage
-<a name="__top"> </a>
 
 1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
     
@@ -68,7 +64,7 @@ For information about setting site collection storage limits, see [Manage site c
     
 1. Choose **Buy add-ons**.
     
-    ![Buy add-ons link on the Subscriptions page of the Office 365 admin center.](../media/f5cbc3fa-90f7-4299-976d-2482f2c69755.png)
+    ![Buy add-ons link on the Subscriptions page of the admin center.](../media/f5cbc3fa-90f7-4299-976d-2482f2c69755.png)
   
 2. On the **Purchase services** page, mouse over or tap **Office 365 Extra File Storage**, then choose **Buy now**.
     
@@ -95,7 +91,6 @@ For information about setting site collection storage limits, see [Manage site c
 3. Choose **Close**
     
 ## Reduce storage
-<a name="__top"> </a>
 
 If you have purchased extra file storage via the **Office 365 Extra File Storage** add-on, you can use these steps to reduce the extra storage space to as low as 1 gigabyte. To remove all of the extra storage space, you need to [contact support](../contact-support-for-business-products.md).
   
@@ -123,7 +118,6 @@ If you have purchased extra file storage via the **Office 365 Extra File Storage
 5. Choose **Close**.
     
 ## Is my plan eligible for Office 365 Extra File Storage?
-<a name="BKMK_eligible"> </a>
 
 Office 365 Extra File Storage is available for the following subscriptions:
   
@@ -148,8 +142,3 @@ Office 365 Extra File Storage is available for the following subscriptions:
 - Office 365 Business Essentials
     
 - Office 365 Business Premium
-  
-## Related topics
-<a name="BKMK_eligible"> </a>
-
-[Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)

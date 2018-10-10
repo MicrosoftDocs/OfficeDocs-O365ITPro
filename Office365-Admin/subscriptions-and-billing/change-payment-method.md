@@ -3,7 +3,6 @@ title: "Change your payment method for Office 365 for business"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -33,18 +32,18 @@ When you buy Office 365 for business, you choose to pay by credit card or bank a
 > [!IMPORTANT]
 > Paying by using a bank account is not available in Japan. 
   
- **Want to change your payment frequency?** If you want to change how frequently you pay for your Office 365 for business subscription, either from annual to monthly or monthly to annual, you'll need to [call Office 365 support](../contact-support-for-business-products.md) for help. 
+ **Want to change your payment frequency?** If you want to change how frequently you pay for your subscription, either from annual to monthly or monthly to annual, you'll need to [call Office 365 support](../contact-support-for-business-products.md) for help. 
   
  **Just want to change your credit card or bank account information?** See [Add, update, or remove a credit card or bank account in Office 365 for business](add-update-or-remove-credit-card-or-bank-account.md).
   
  **What if I have an outstanding balance?**
   
-If you're moving from  *invoice to credit card or bank account*  , your existing invoice charges won't be transferred to your credit card or bank account, so be sure to pay any outstanding invoice balance by wire transfer. In some regions, you can also pay your outstanding balance by check. See your invoice for more information about paying your outstanding balance. 
+If you're moving from *invoice to credit card or bank account*, your existing invoice charges won't be transferred to your credit card or bank account, so be sure to pay any outstanding invoice balance by wire transfer. In some regions, you can also pay your outstanding balance by check. See your invoice for more information about paying your outstanding balance. 
   
-If you're moving from  *credit card or bank account to invoice*  , any outstanding balance will be transferred to your next invoice. 
+If you're moving from *credit card or bank account to invoice*, any outstanding balance will be transferred to your next invoice. 
   
 > [!NOTE]
-> If you pay by credit card, and your credit card is declined, you'll receive an email letting you know that we were unable to process the payment. You can update your credit card information and immediately submit the payment by using the **Pay now** button on the **Subscriptions** page. For more information, see "What if my credit card has expired and my payment is past due?" in [Pay your bill for Office 365 or Azure](https://support.office.com/article/ff4d9218-09b3-4fb5-a622-43866e133feb.aspx). 
+> If you pay by credit card, and your credit card is declined, you'll receive an email letting you know that we were unable to process the payment. You can update your credit card information and immediately submit the payment by using the **Pay now** button on the **Subscriptions** page. For more information, see [What if my credit card was declined and my payment is past due?](pay-for-your-subscription.md#what-if-my-credit-card-was-declined-and-my-payment-is-past-due) 
   
 ::: moniker-end
 
@@ -55,24 +54,23 @@ When you buy Office 365 for business, you choose to pay by credit card or bank a
 > [!NOTE]
 > After you switch payment methods, your users will continue to have the same license assignments as before. 
   
- **Want to change your payment frequency?** If you want to change how frequently you pay for your Office 365 for business subscription, either from annual to monthly or monthly to annual, you'll need to [call Office 365 support](../contact-support-for-business-products.md) for help. 
+ **Want to change your payment frequency?** If you want to change how frequently you pay for your subscription, either from annual to monthly or monthly to annual, you'll need to [call Office 365 support](../contact-support-for-business-products.md) for help. 
   
  **Just want to change your credit card or bank account information?** See [Add, update, or remove a credit card or bank account in Office 365 for business](add-update-or-remove-credit-card-or-bank-account.md).
   
  **What if I have an outstanding balance?**
   
-If you're moving from  *invoice to credit card or bank account*  , your existing invoice charges won't be transferred to your credit card or bank account, so be sure to pay any outstanding invoice balance by wire transfer. In some regions, you can also pay your outstanding balance by check. See your invoice for more information about paying your outstanding balance. 
+If you're moving from *invoice to credit card or bank account*, your existing invoice charges won't be transferred to your credit card or bank account, so be sure to pay any outstanding invoice balance by wire transfer. In some regions, you can also pay your outstanding balance by check. See your invoice for more information about paying your outstanding balance. 
   
-If you're moving from  *credit card or bank account to invoice*  , any outstanding balance will be transferred to your next invoice. 
+If you're moving from *credit card or bank account to invoice*, any outstanding balance will be transferred to your next invoice. 
   
 > [!NOTE]
-> If you pay by credit card, and your credit card is declined, you'll receive an email letting you know that we were unable to process the payment. You can update your credit card information and immediately submit the payment by using the **Pay now** button on the **Subscriptions** page. For more information, see "What if my credit card has expired and my payment is past due?" in [Pay your bill for Office 365 or Azure](https://support.office.com/article/ff4d9218-09b3-4fb5-a622-43866e133feb.aspx). 
+> If you pay by credit card, and your credit card is declined, you'll receive an email letting you know that we were unable to process the payment. You can update your credit card information and immediately submit the payment by using the **Pay now** button on the **Subscriptions** page. For more information, see [What if my credit card was declined and my payment is past due?](pay-for-your-subscription.md#what-if-my-credit-card-was-declined-and-my-payment-is-past-due) 
   
 ::: moniker-end
 
 ::: moniker range="o365-worldwide"
 ## Change from invoice to credit card or bank account
-<a name="__top"> </a>
 
 > [!TIP]
 > The following steps apply to individual subscriptions only. If you have multiple subscriptions in your organization, complete these steps for each subscription that you want to change. 
@@ -113,7 +111,6 @@ When you return to the **Subscriptions** page, you will see the old subscription
 
 ::: moniker range="o365-germany"
 ## Change from invoice to credit card or bank account
-<a name="__top"> </a>
 
 > [!TIP]
 > The following steps apply to individual subscriptions only. If you have multiple subscriptions in your organization, complete these steps for each subscription that you want to change. 
@@ -154,10 +151,9 @@ When you return to the **Subscriptions** page, you will see the old subscription
 
 ::: moniker range="o365-worldwide"
 ## Change from credit card or bank account to invoice
-<a name="__top"> </a>
 
 > [!NOTE]
-> The option to pay by invoice is only available if your Office 365 subscription costs over a certain amount (which varies by service location). A credit check might be required for larger invoice payments. To learn more, see [Pay for your Office 365 for business subscription](pay-for-your-subscription.md). 
+> The option to pay by invoice is only available if your subscription costs over a certain amount (which varies by service location). A credit check might be required for larger invoice payments. To learn more, see [Pay for your Office 365 for business subscription](pay-for-your-subscription.md). 
   
 1. In the Admin Center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing**\> **Subscriptions**.
     
@@ -184,10 +180,9 @@ When you return to the **Subscriptions** page, you will see the old subscription
 
 ::: moniker range="o365-germany"
 ## Change from credit card or bank account to invoice
-<a name="__top"> </a>
 
 > [!NOTE]
-> The option to pay by invoice is only available if your Office 365 subscription costs over a certain amount (which varies by service location). A credit check might be required for larger invoice payments. To learn more, see [Pay for your Office 365 for business subscription](pay-for-your-subscription.md). 
+> The option to pay by invoice is only available if your subscription costs over a certain amount (which varies by service location). A credit check might be required for larger invoice payments. To learn more, see [Pay for your Office 365 for business subscription](pay-for-your-subscription.md). 
   
 1. In the Admin Center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page, or choose **Billing**\> **Subscriptions**.
     
@@ -214,7 +209,6 @@ When you return to the **Subscriptions** page, you will see the old subscription
 
 ::: moniker range="o365-worldwide"
 ## Verify which payment method is configured
-<a name="__top"> </a>
 
 You can use the following steps at any time to verify the payment method that's configured for a subscription.
   
@@ -230,7 +224,6 @@ You can use the following steps at any time to verify the payment method that's 
 
 ::: moniker range="o365-germany"
 ## Verify which payment method is configured
-<a name="__top"> </a>
 
 You can use the following steps at any time to verify the payment method that's configured for a subscription.
   
@@ -239,6 +232,7 @@ You can use the following steps at any time to verify the payment method that's 
 2. Choose the subscription that you want to verify. The payment method that's configured for the subscription appears under **Payment method** and might look like one of the following screenshots: 
     
 |||
+|:-----|:-----|
 |![Payment method user interface shows that this subscription is configured to pay by invoice.](../media/32a4499f-14c4-46f6-9f61-0a6335f043ad.png)|![The Payment method section of a Subscription card for a subscription that pays by credit card.](../media/6c9d9cae-6086-4687-a979-bb971f35f1b4.png)|
    
 ::: moniker-end
@@ -248,7 +242,7 @@ You can use the following steps at any time to verify the payment method that's 
 When you purchase Office 365 operated by 21Vianet in China, you choose either to pay by invoice, or by online payment using Alipay or China UnionPay. You can change your payment method later by calling support and going through the purchasing process again.
   
 > [!NOTE]
-> If your Office 365 subscription costs under a certain amount of money (this amount varies by service location), the invoice payment method is not available as an option. If your subscription costs over a certain amount of money, you will have the option to pay by invoice. A credit check may be required for larger invoice payments. 
+> If your subscription costs under a certain amount of money (this amount varies by service location), the invoice payment method is not available as an option. If your subscription costs over a certain amount of money, you will have the option to pay by invoice. A credit check may be required for larger invoice payments. 
   
 1. Call [the 21Vianet support team](../contact-support-for-business-products.md).
     
@@ -259,8 +253,3 @@ When you purchase Office 365 operated by 21Vianet in China, you choose either to
 After you complete these steps, your payment method will be changed and your users will continue to have the same license assignments as before.
   
 ::: moniker-end
-  
-## Related topics
-<a name="BKMK_ContactSupport"> </a>
-
-[Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)

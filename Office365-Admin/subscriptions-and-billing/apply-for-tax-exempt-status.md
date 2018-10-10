@@ -3,7 +3,6 @@ title: "Apply for tax exempt status for Office 365 for business"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -20,7 +19,7 @@ description: "Learn how to create a service request to establish tax exempt stat
 
 # Apply for tax exempt status for Office 365 for business
 
-If you qualify for tax exempt status in your country or region, please [contact support](../contact-support-for-business-products.md) to create a service request to establish tax exempt status for your Office 365 subscription. You'll have to provide the following documentation when you submit your request: 
+If you qualify for tax exempt status in your country or region, please [contact support](../contact-support-for-business-products.md) to create a service request to establish tax exempt status for your subscription. You'll have to provide the following documentation when you submit your request: 
   
 |**Location**|**Documentation**|
 |:-----|:-----|
@@ -31,6 +30,4 @@ If you qualify for tax exempt status in your country or region, please [contact 
    
 ## Related topics
 
-[What tax will I be charged for Office 365?](what-tax-will-i-be-charged.md)
-  
-[Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
+[What tax will I be charged?](what-tax-will-i-be-charged.md)
