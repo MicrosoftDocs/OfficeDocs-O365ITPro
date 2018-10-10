@@ -30,4 +30,4 @@ If you qualify for tax exempt status in your country or region, please [contact 
    
 ## Related topics
 
-[What tax will I be charged for Office 365?](what-tax-will-i-be-charged.md)
+[What tax will I be charged?](what-tax-will-i-be-charged.md)
