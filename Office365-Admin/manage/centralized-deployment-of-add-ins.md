@@ -101,7 +101,7 @@ When the tool finishes running, it produces an output file in comma-separated (.
     
 - Centralized Deployment ready - If the remaining items are true
     
-- Office SKU - The SKU of Office they are licensed for
+- Office plan - The plan of Office they are licensed for
     
 - Office Activated - If they have activated Office
     
