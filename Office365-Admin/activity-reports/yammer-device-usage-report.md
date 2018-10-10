@@ -3,7 +3,6 @@ title: "Office 365 Reports in the Admin Center - Yammer device usage report"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -37,7 +36,7 @@ The Yammer device usage reports give you information about which devices your us
     
 2. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
     
-3. Select **Reports** and then **Usage** from the left menu.<br/> ![On the admin page choose Reports and then usage](../media/e07a631e-3e05-4f17-affd-db5b7cb0bae2.png)
+3. Select **Reports** and then **Usage** from the left menu.<br/> ![Choose Reports and then usage](../media/e07a631e-3e05-4f17-affd-db5b7cb0bae2.png)
   
 4. Use the **Select a report** drop-drop at the top left and select **Yammer device usage**.<br/>![Select Yammer device usage](../media/4ce58c73-ac60-4036-862d-9cc3665245f0.png)
   
