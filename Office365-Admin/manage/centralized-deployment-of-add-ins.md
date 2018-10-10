@@ -139,7 +139,7 @@ The following table shows what assignments are supported within Centralized Depl
    
 Take a look at the following example where Sandra, Sheila, and the Sales Department group are assigned to an add-in. Because the West Coast Sales Department is a nested group, Bert and Fred aren't assigned to an add-in.
   
-![Diagram shows a box labeled Sales Dept, that contains names Joe and Bob, and it's connected to a box below it labeled West Coast Sales with names Bert and Fred. Next to the box is a red X. The names Sandra and Sheila are in the upper-right of the diagram.](../media/683094bb-1160-4cce-810d-26ef7264c592.png)
+![Diagram of sales department](../media/683094bb-1160-4cce-810d-26ef7264c592.png)
   
 |**User**|**How admin assigns the add-in**|**Assigned to an add-in?**|
 |:-----|:-----|:-----|
@@ -154,11 +154,11 @@ Take a look at the following example where Sandra, Sheila, and the Sales Departm
 
 The easiest way to detect if a group contains nested groups is to view the group contact card within Outlook. If you enter the group name within the **To** field of an email and then click the group name when it resolves, it will show you if it contains users or nested groups. In the example below, the **Members** tab of the Outlook contact card for the Test Group shows no users and only two sub groups. 
   
-![Screenshot of the Members tab of the of the Outlook contact card for the group named Test Group. Sub Group 1 and Sub Group 2 are shown as members.](../media/d9db88c4-d752-426c-a480-b11a5b3adcd6.png)
+![Members tab of Outlook contact card](../media/d9db88c4-d752-426c-a480-b11a5b3adcd6.png)
   
 You can do the opposite query by resolving the group to see if it's a member of any group. In the example below, you can see under the **Membership** tab of the Outlook contact card that Sub Group 1 is a member of the Test Group. 
   
-![Screenshot of the Membership tab of the Outlook contact card for the group named Sub Group 1, showing that Sub Group 1 is a member of the group named Test Group.](../media/a9f9b6ab-9c19-4822-9e3d-414ca068c42f.png)
+![Screenshot of the Membership tab of the Outlook contact card](../media/a9f9b6ab-9c19-4822-9e3d-414ca068c42f.png)
   
 Alternately, you can use the Azure Active Directory Graph API to run queries to find the list of groups within a group. For more information, see [Operations on groups | Graph API reference](https://go.microsoft.com/fwlink/p/?linkid=846342).
   
