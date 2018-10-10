@@ -3,7 +3,6 @@ title: "Message center in Office 365"
 ms.author: kfollis
 author: kfollis
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
