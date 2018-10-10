@@ -34,17 +34,17 @@ Use the mobile email access settings to choose which mobile apps people in your 
 > [!IMPORTANT]
 >  If you don't use this feature, there'll be no changes to your users' experience. They'll be able to use any mobile email app to access their Office 365 work or school account for email, calendar, and contacts from their mobile device. 
   
-1. [Sign in to Office 365](https://support.office.com/article/https://portal.office.com.aspx) with your work or school account. 
+1. Sign in to Office 365with your work or school account. 
     
 2. Click **Admin** to go to the Office 365 admin center. 
     
 3. Navigate to **Settings** \> **Services &amp; add-ins**.
     
-    ![In the navigation pane, click the Settings icon, and then click Services &amp; add-ins.](../media/192267c1-84ac-492c-aeba-7e653c7991db.png)
+    ![Click Settings, then click Services and add-ins](../media/192267c1-84ac-492c-aeba-7e653c7991db.png)
   
 4. Turn the toggle **On** to manage email app access options. 
     
-    ![Use the mobile email access settings to manage access to company email, calendar, and contacts on your employees' mobile devices.](../media/f031a555-32ee-43ff-a772-aa561781473b.png)
+    ![Mobile email access settings](../media/f031a555-32ee-43ff-a772-aa561781473b.png)
   
 Choose how users in your organization use email apps on their devices:
   

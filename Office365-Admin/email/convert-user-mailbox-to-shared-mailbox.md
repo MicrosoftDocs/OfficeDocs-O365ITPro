@@ -18,8 +18,6 @@ description: "Learn to convert a private mailbox to a shared mailbox that can be
 ---
 
 # Convert a user mailbox to a shared mailbox
-
- *Last updated: 4 June, 2018* 
   
 When you convert a user's mailbox to a shared mailbox, all of the existing email and calendar is retained. Only now it's in a shared mailbox where several people will be able to access it instead of one person. At a later date, you can convert a shared mailbox back to a user (private) mailbox.
   
@@ -60,7 +58,7 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
   
 4. Click **Convert** to complete the conversion. 
     
-    ![Click or tap Convert to convert user mailbox to shared mailbox](../media/b705fff8-9b87-48cc-9cd4-bcc989a8c569.png)
+    ![Click Convert to convert user mailbox to shared mailbox](../media/b705fff8-9b87-48cc-9cd4-bcc989a8c569.png)
   
 5. If the mailbox is smaller than 50GB, you can remove the [license from the user](../subscriptions-and-billing/remove-licenses-from-users.md), and stop paying for it. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor. The user won't be able to sign in using the old account.
     

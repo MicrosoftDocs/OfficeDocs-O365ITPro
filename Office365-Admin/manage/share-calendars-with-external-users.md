@@ -31,7 +31,7 @@ Calendar sharing is a global setting, meaning that you, the Office 365 admin, ca
   
 ## Enable calendar sharing using the Office 365 admin center
 
-1. [Sign in to Office 365](https://support.office.com/article/https://portal.office.com.aspx) with your work or school account. 
+1. Sign in to Office 365with your work or school account. 
     
 2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) and choose **Admin**.
     
