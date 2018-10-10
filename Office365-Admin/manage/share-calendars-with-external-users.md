@@ -33,11 +33,11 @@ Calendar sharing is a global setting, meaning that you, the Office 365 admin, ca
 
 1. Sign in to Office 365with your work or school account. 
     
-2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) and choose **Admin**.
+2. Select the app launcher icon ![App launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) and choose **Admin**.
     
-3. Navigate to **Settings** \> **Services &amp; add-ins**.<br/>![Click Settings, then Services and then add-ins.](../media/cef4d157-820b-4d38-8a2a-b10e53458905.png)
+3. Navigate to **Settings** \> **Services &amp; add-ins**.<br/>![Click Settings then Services and then add-ins](../media/cef4d157-820b-4d38-8a2a-b10e53458905.png)
   
-4. On the **Services &amp; add-ins** page, click **Calendar**.<br/>![On the Services and add-ins page, click Calendar](../media/66f038d7-0272-4b3f-8b48-39581818a868.png)
+4. On the **Services &amp; add-ins** page, click **Calendar**.<br/>![On the Services and add-ins page click Calendar](../media/66f038d7-0272-4b3f-8b48-39581818a868.png)
   
 5. On the **Calendar** page that opens, do one of the following: 
     

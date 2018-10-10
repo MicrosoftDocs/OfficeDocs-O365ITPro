@@ -30,7 +30,7 @@ You must be an Office 365 global admin or Exchange admin to upgrade a distributi
 
 2. Go to **Admin centers** \> **Exchange**. 
     
-3. In the Exchange Admin Center, go to **Recipients** \> **Groups**.<br/>You'll see a notice indicating you have distribution lists (also called **distribution groups** ) that are eligible to be upgraded to Office 365 groups.<br/> ![Click on Get started.](../media/8cf838b4-2644-401f-a366-08c1eea183eb.png)
+3. In the Exchange Admin Center, go to **Recipients** \> **Groups**.<br/>You'll see a notice indicating you have distribution lists (also called **distribution groups** ) that are eligible to be upgraded to Office 365 groups.<br/> ![Click on Get started](../media/8cf838b4-2644-401f-a366-08c1eea183eb.png)
   
 4. Select one or more distribution lists (also called a **distribution group** ) from the **groups** page.<br/>![Select a distribution group](../media/2c303433-d60b-4100-a6ae-5809b03a8cdb.png)
   
