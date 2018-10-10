@@ -3,7 +3,7 @@ title: "Create, edit, or delete a security group in the Office 365 admin center"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.date: 9/24/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

@@ -3,7 +3,7 @@ title: "Update your admin phone number and email address in Office 365"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 10/14/2017
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

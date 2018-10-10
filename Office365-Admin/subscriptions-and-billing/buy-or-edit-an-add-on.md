@@ -3,7 +3,7 @@ title: "Buy or edit an add-on for Office 365 for business"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/19/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

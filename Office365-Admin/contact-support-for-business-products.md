@@ -3,7 +3,7 @@ title: "Contact support for business products - Admin Help"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 10/8/2018
+
 ms.audience: Admin
 ms.topic: troubleshooting
 f1_keywords:
@@ -21,7 +21,6 @@ search.appverid:
 - BEA160
 - GEA150
 ms.assetid: 32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b
-
 description: "Get technical and billing support using phone numbers listed for your country/region or by submitting your service request online.  "
 ---
 # Contact support for business products - Admin Help
@@ -480,21 +479,18 @@ As an admin for Office 365 Germany, you get free access to our knowledgeable sup
 Assisted support options are for admins of Office 365 Germany subscribed organizations only. If you use Office 365 Germany at work or school, but you're not an admin, you can still get support in the community forums, or by contacting your admin or IT department.
   
 |||
-|:-----|:-----|
 |![Online](media/a6e08015-dad5-4ad0-9680-7794cfc0a147.png)           <br/> |**Open an online request.**         Save time by starting your service request online. In the Office 365 admin center, choose **Support** \> **New service request.** We'll help you find a solution or connect you to an expert who will contact you by email or phone.  <br/> |
 |![Call support](media/3351acb8-be3b-478a-afbd-c0a50f4e1abd.png)           <br/> |**Call support.**         We're here to talk. Admins, have your account details ready when you callsupport.  <br/> |
    
 |
 |
 |**Region**|**Phone number**|**Hours**|
-|:-----|:-----|:-----|
 |Germany  <br/> |0800 589 2330  <br/> |Billing Support:          German: Mon-Fri 9-5 Berlin          English: Mon-Fri 9-5 Berlin  <br/> Technical Support:          German: 24 hours a day, 7 days a week          English: 24 hours a day, 7 days a week  <br/> Alternative Phone Number: 069 380 789 305 (Local call charges apply)  <br/> |
 |All other markets within the European Economic Area  <br/> |+49 69 380 789 305  <br/> |Billing Support:          German: Mon-Fri 9-5 Berlin (UTC+1)          English: Mon-Fri 9-5 Berlin (UTC +1)  <br/> Technical Support:          German: 24 hours a day, 7 days a week          English: 24 hours a day, 7 days a week  <br/> Telephone support is available via international call to Germany. International call charges apply. Call charges can be avoided by submitting a support ticket through the Office 365 admin center.  <br/> |
    
 ### Let our community help
 
 |||
-|:-----|:-----|
 |![Office 365 community forums](media/66a6efa4-f6a3-41d4-a853-4d41186c8b74.png)           <br/> |You can also [search the Office 365 for business community forums](https://go.microsoft.com/fwlink/p/?LinkId=518605) to find known issues and trending topics, or to post a new question. The community forums are monitored by trained Microsoft support agents who can help resolve your issue.  <br/> |
    
 ::: moniker-end

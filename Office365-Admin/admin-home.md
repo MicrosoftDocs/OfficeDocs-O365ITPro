@@ -2,7 +2,7 @@
 title: "Admin home"
 ms.author: supotter
 author: supotter
-ms.date: 10/8/2018
+
 ms.audience: Admin
 ms.topic: landing-page
 layout: LandingPage

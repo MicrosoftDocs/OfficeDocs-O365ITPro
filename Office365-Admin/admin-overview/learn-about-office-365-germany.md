@@ -3,7 +3,6 @@ title: "Learn about Office 365 Germany"
 ms.author: loreenl
 author: LoreenLa
 manager: pamgreen
-ms.date: 8/31/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

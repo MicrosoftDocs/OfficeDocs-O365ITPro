@@ -3,7 +3,7 @@ title: "Previous webinar videos"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 8/13/2018
+
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration

@@ -3,7 +3,7 @@ title: "Add, change, or delete a subscription advisor partner"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.date: 9/24/2018
+
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:

@@ -2,7 +2,7 @@
 title: "Security and compliance"
 ms.author: supotter
 author: supotter
-ms.date: 7/12/2018
+
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server

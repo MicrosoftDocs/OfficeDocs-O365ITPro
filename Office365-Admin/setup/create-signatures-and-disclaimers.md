@@ -3,7 +3,7 @@ title: "Create organization-wide signatures and disclaimers"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-ms.date: 9/10/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

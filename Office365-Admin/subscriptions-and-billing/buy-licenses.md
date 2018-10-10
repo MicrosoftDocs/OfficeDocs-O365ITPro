@@ -3,7 +3,7 @@ title: "Buy licenses for your Office 365 for business subscription"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/8/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

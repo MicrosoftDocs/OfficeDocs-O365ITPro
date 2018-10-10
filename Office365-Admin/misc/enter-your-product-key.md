@@ -3,7 +3,6 @@ title: "Enter your product key for Office 365 Business Premium purchased from a 
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 10/2/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,26 +14,20 @@ search.appverid:
 - MOE150
 - BEA160
 ms.assetid: 0199dd39-7c46-4875-af9b-588df3a9afea
-description: "For Microsoft retail store customers, who purchased Office 365 for Business Premium: Redeem your product key to renew, activate, or add licenses to a subscription. "
+description: "Learn how to redeem an Office 365 Business Premium product key purchased at a retail store."
 ---
 
 # Enter your product key for Office 365 Business Premium purchased from a Microsoft store
 
-If you purchased Office 365 Business Premium from a [Microsoft retail store](https://www.microsoft.com/en-us/store/locations/find-a-store), this article helps you activate your subscription. 
-  
- **Need help immediately?**
-  
-[Call Microsoft Support](../contact-support-for-business-products.md) . 
+If you purchased Office 365 Business Premium from a retail store, this article helps you activate your subscription. 
   
  **Need something else?**
-  
- **For help with Office 365 Home, Personal, or University**, see [Using product keys with Office 365, Office 2016, or Office 2013](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759.aspx).
-  
+ **For help with Office 365 Home, or Personal**, see [Using product keys with Office](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759.aspx).  
  **Volume licensing customer?** If you bought Office 365 for business through a [Microsoft Open program](https://go.microsoft.com/fwlink/p/?LinkID=613298), see the article, [Enter your product key purchased from Microsoft Open](purchases-from-microsoft-open.md).
   
 ## Activate a new subscription
 
-1. Go to [https://office.com/setupkey](https://go.microsoft.com/fwlink/p/?LinkId=839911).
+1. Go to [office.com/setupkey](https://go.microsoft.com/fwlink/p/?LinkId=839911).
     
 2. Enter your product key, then choose **Next**.
     
@@ -42,15 +35,15 @@ If you purchased Office 365 Business Premium from a [Microsoft retail store](htt
     
 4. Enter a phone number to receive either a text or call to verify your identity.
     
-5. You can get a new domain, use a domain name you already own, or get a Microsoft domain. The steps can vary, so follow the prompts, depending on which option you choose.
+5. You can get a new domain, use a domain name you already own, or add a domain later. The steps can vary, so follow the prompts, depending on which option you choose.
     
 6. When you're finished, go to the [admin center](https://go.microsoft.com/fwlink/p/?linkid=837890) to manage your subscription. 
     
 ## Renew or add a user license to an existing subscription
 
-To renew or add a user license to your subscription with a product key, you need a new and unused key for the same Office 365 plan. Entering your original Office 365 product key won't work because a key that has already been redeemed can't be used again.
+To renew or add a user license to your existing Office 365 Business Premium subscription with a product key, you need a new and unused key for the same Office 365 plan. Entering your original Office 365 product key won't work because a key that has already been redeemed can't be used again.
   
-1. Go to [https://office.com/setupkey](https://go.microsoft.com/fwlink/p/?LinkId=839911).
+1. Go to [office.com/setupkey](https://go.microsoft.com/fwlink/p/?LinkId=839911).
     
 2. Enter your product key, then choose **Next**.
     
@@ -71,5 +64,3 @@ If you're new to Office 365 for business, learn how to [set up Office 365](../se
 Check out this list of common errors and solutions: [Problems with your Office 365 for business product key?](product-key-errors-and-solutions.md)
   
 Or, [call Microsoft Support](../contact-support-for-business-products.md).
-  
-

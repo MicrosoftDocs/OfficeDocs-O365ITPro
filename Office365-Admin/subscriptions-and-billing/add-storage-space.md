@@ -3,7 +3,7 @@ title: "Add storage space for your subscription"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 7/20/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -29,7 +29,7 @@ description: "Learn to add and reduce file storage in your Office 365 subscripti
 
 # Add storage space for your subscription
 
-If you start to run out of storage for your SharePoint Online site collections, you can add storage to your Office 365 subscription if your plan is [Is my plan eligible for Office 365 Extra File Storage?](add-storage-space.md#BKMK_eligible).
+If you start to run out of storage for your SharePoint Online site collections, you can add storage to your Office 365 subscription if your plan is [eligible](add-storage-space.md#BKMK_eligible).
   
 ## View available storage
 <a name="__top"> </a>

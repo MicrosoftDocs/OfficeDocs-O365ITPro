@@ -3,7 +3,7 @@ title: "Enable Modern Authentication for Office 2013 on Windows devices"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.date: 10/12/2017
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

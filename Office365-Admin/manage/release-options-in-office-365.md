@@ -3,7 +3,7 @@ title: "Set up the Standard or Targeted release options in Office 365"
 ms.author: kfollis
 author: kfollis
 manager: mnirkhe
-ms.date: 6/29/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

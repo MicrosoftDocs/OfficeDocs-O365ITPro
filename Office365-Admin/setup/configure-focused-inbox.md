@@ -3,7 +3,7 @@ title: "Configure Focused Inbox for everyone in your organization"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-ms.date: 6/4/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

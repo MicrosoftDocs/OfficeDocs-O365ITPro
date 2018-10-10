@@ -3,7 +3,7 @@ title: "Configure Clutter for your organization"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 1/3/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

@@ -3,7 +3,7 @@ title: "Manage GDPR data subject requests in Yammer Basic"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 8/10/2018
+
 ms.audience: End User
 ms.topic: article
 ms.service: o365-administration

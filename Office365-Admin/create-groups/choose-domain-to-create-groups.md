@@ -3,7 +3,7 @@ title: "Choose the domain to use when creating Office 365 Groups"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-ms.date: 6/4/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

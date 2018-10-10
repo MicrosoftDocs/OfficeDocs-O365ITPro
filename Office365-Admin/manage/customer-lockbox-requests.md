@@ -3,7 +3,7 @@ title: "Office 365 Customer Lockbox Requests"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 8/7/2018
+
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration

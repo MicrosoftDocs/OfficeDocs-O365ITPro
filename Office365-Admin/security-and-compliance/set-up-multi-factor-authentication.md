@@ -3,7 +3,7 @@ title: "Set up multi-factor authentication for Office 365 users"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.date: 6/29/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

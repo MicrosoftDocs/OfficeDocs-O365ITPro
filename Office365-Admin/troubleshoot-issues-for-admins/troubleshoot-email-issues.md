@@ -3,7 +3,7 @@ title: "Troubleshoot email issues"
 ms.author: supotter
 author: supotter
 manager: scotv
-ms.date: 6/26/2018
+
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration
@@ -51,15 +51,7 @@ When Office 365 can't deliver email you sent, you'll receive an email notificati
     
 - [Recover deleted items in a user mailbox - Admin Help](https://support.office.com/article/eb15194b-63ec-41b0-8d90-1823d3f558e4)
     
-## Still need help? Contact support.
 
-As an admin for Office 365 for business, you get free access to our knowledgeable support agents for pre-sales, account, and billing support, as well as for help resolving technical issues. You can also [contact support](https://go.microsoft.com/fwlink/p/?LinkID=518322) on behalf of Office 365 users in your organization. 
-  
-[![Get help from the Office 365 community forums](../media/12a746cc-184b-4288-908c-f718ce9c4ba5.png)](https://go.microsoft.com/fwlink/p/?LinkId=518605)
-  
-[![Admins: Sign in and create a service request](../media/10862798-181d-47a5-ae4f-3f8d5a2874d4.png)]( https://go.microsoft.com/fwlink/p/?LinkId=519124)
-  
-[![Admins: Call Support](../media/9f262e67-e8c9-4fc0-85c2-b3f4cfbc064e.png)](https://go.microsoft.com/fwlink/p/?LinkID=518322)
   
 > [!NOTE]
 > If you're using Office 365 operated by 21Vianet in China, please [contact the 21Vianet support team](https://go.microsoft.com/fwlink/p/?linkid=847978). 

@@ -3,7 +3,7 @@ title: "Get started with Office 365 for business"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-ms.date: 9/26/2018
+
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:

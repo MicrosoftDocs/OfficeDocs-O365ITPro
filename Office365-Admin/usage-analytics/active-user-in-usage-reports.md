@@ -3,7 +3,7 @@ title: "Active user in Office 365 usage reports"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.date: 8/17/2018
+
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration

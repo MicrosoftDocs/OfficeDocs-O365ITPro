@@ -3,7 +3,7 @@ title: "Office 365 and HIPAA compliance"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 7/3/2018
+
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration

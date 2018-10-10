@@ -3,7 +3,7 @@ title: "Troubleshoot Remove an alias from a distribution list"
 ms.author: anfowler
 author: anfowler
 manager: scotv
-ms.date: 10/13/2017
+
 ms.audience: Admin
 ms.topic: troubleshooting
 f1_keywords:

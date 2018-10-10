@@ -3,7 +3,7 @@ title: "Buy a subscription to Office 365 for business from your free trial"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/28/2018
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

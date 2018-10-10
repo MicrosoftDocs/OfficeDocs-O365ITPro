@@ -121,5 +121,19 @@ You don't need to cancel your trial. If you don't buy the trial subscription, it
     
     > [!IMPORTANT]
     >  When you sign up for Office 365, be sure to choose the best payment option for your organization. Changing payment options involves calling billing support. 
+<<<<<<< HEAD
 
 
+=======
+  
+- **A sign-in name (user ID):**
+    
+    This becomes your initial Office 365 email address, just to get you started quickly.
+    
+    This is the email address you will use to sign in to Office 365.
+    
+- **Payment information:**
+    
+    When you sign up for Office 365, be sure to choose the best payment option for your organization. Changing payment options involves calling billing support.
+    
+>>>>>>> Admin-Final-conversion

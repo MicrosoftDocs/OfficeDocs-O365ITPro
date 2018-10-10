@@ -3,7 +3,7 @@ title: "Get an Internet Content Provider (ICP) number for your public website"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 12/28/2017
+
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration

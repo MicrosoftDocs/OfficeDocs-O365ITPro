@@ -3,7 +3,7 @@ title: "Video Create DNS records at GoDaddy for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/27/2018
+
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration

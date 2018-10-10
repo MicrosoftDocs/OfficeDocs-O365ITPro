@@ -3,7 +3,7 @@ title: "Manage messages in Message center"
 ms.author: kfollis
 author: kfollis
 manager: mnirkhe
-ms.date: 6/26/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

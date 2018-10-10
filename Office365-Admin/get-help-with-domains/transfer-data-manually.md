@@ -3,7 +3,7 @@ title: "Transfer data manually between two Office 365 accounts"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/25/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

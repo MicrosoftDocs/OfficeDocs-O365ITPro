@@ -3,7 +3,7 @@ title: "Change your contact preferences for communications from Microsoft"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.date: 3/1/2017
+
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
