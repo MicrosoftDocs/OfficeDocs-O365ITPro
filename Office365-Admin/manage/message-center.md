@@ -55,7 +55,7 @@ Message center presents a view of all active messages in a table format, by defa
 |Message title  <br/> |Message titles are a brief description of an upcoming change. They are sometimes long and Message center can't display the full title. Hover your cursor over the message title and the entire title will display in a pop-up box.  <br/> |
 |Published  <br/> |Date that the message was published. If we make a change to an existing message, it also changes the published date.  <br/> |
 |Message ID  <br/> |Microsoft tracks our Message center posts by message ID. You can reference this ID if you want to give feedback or if you call Support about a particular message.  <br/> |
-|(No label)  <br/> |Clicking on the X in this column will dismiss the message and remove it from view. Don't worry, you can get it back by viewing dismissed messages. In that view, clicking ![Refresh icon](../media/4565dd14-7d6a-4c42-91b7-91cc34977a43.png) will restore the message to the active messages view.  <br/> |
+|(No label)  <br/> |Clicking on the X in this column will dismiss the message and remove it from view. Don't worry, you can get it back by viewing dismissed messages. In that view, clicking Refresh (![Refresh icon](../media/4565dd14-7d6a-4c42-91b7-91cc34977a43.png)) will restore the message to the active messages view.  <br/> |
    
 Head over to [Manage messages in Message center](manage-messages.md) to get more information on the things you can do with messages. 
   
@@ -105,19 +105,10 @@ To set your Message center preferences:
     
 3. Digest emails are turned on by default and are sent to your primary email address. To specify other email addresses to which the weekly email summary is sent, verify that **Send a weekly email digest of my messages**, is **On**. To stop receiving the weekly digest, change the setting to **Off**. Email notification for major updates is a separate control. If you want to receive email notices about major updates, verify that **Send me emails for major updates** is **On**. Change the setting to **Off** to stop getting email about major updates. You can select or deselect your primary email address, but you can't change it. You can enter other email addresses where you want to have the digest sent. Enter the email address for an Office 365 group or a distribution list if more than two people should get the digest email. 
     
-4. Click **Save** to keep your changes. 
-    
-![Message center preferences edit page](../media/9f6e22f0-fdd8-43d9-9d4f-f198c53033cc.png)
+4. Click **Save** to keep your changes.<br/> ![Message center preferences edit page](../media/9f6e22f0-fdd8-43d9-9d4f-f198c53033cc.png)
   
 We use machine translation to automatically display messages in your preferred language. Read [Language translation for Message center posts](language-translation-for-message-center-posts.md) for more information on how to set your language. 
   
 > [!NOTE]
 > The weekly digest and any posts that are emailed are sent in English-only. Recipients can use [Translator for Outlook](https://support.office.com/article/3d7e12ed-99d6-406e-a453-b9db0d9653fa.aspx) to read the message in their preferred language. 
   
-### Give feedback
-
-Your opinion matters to us. If you'd like to provide feedback about any Message center communication, open the message, then click on **Like** or **Dislike** at the bottom of the message and send us your thoughts! Feedback that you send using this method pertains specifically to the message content and the change that it announces. 
-  
-You can send feedback about Message center, or any Office 365 feature, by using the **Feedback** button that is available at the bottom of each Admin center page. Your feedback is tied to the page that you're on, but honestly, we read it all and will make sure your comments get to the right team. 
-  
-
