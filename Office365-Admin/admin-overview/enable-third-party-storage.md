@@ -27,7 +27,7 @@ You can enable third-party storage for your users in Office 365 so they can stor
 ## To enable or disable third-party storage services
 <a name="__toc379982113"> </a>
 
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. Go to the [ Office 365 admin center ](about-the-admin-center.md).
     

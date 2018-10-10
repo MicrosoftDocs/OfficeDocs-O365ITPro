@@ -52,7 +52,7 @@ If external sharing is turned off globally, any shared guest links will also sto
 
 The ability to invite external users to SharePoint sites is enabled by default, so site owners and site collection administrators can share team sites and sub-sites with external users at any time. 
   
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).<br/>![The Office 365 app launcher with the Admin app highlighted](../media/4eea9dbc-591b-48be-9916-322d41c6525b.png)
   
@@ -75,7 +75,7 @@ On the sites page of the sharing settings (Office 365 admin center) you can see 
   
 ### Edit the sharing settings of a particular site collection in the Office 365 admin center
 
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
 

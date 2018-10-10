@@ -82,9 +82,9 @@ You can change how your organization receives Office 365 updates by following th
 > [!IMPORTANT]
 > It can take up to 24 hours for the below changes to take effect in Office 365. If you opt out of targeted release after enabling it, your users may lose access to features that haven't reached the scheduled release yet. 
   
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
-2. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
+2. Go to the [Office 365 admin center](../admin-overview/about-the-admin-center.md).
     
 3. Navigate to **Settings** \> **Organization profile**.<br/>![In the admin center, navigate to Settings and then Organization profile.](../media/74ed60b3-c8b9-4752-a598-52d72cf46f46.png)
   

@@ -27,7 +27,7 @@ As the admin of an Office 365 organization, you may need to add one of your user
   
 ## Add a user or contact to a distribution list
 
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. Select the app launcher icon  and choose **Admin**.
     

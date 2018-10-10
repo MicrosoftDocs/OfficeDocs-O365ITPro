@@ -23,7 +23,7 @@ This article explains how to resend the notification email to a new user in Offi
   
 You must be an [Office 365 global admin or password administrator](about-admin-roles.md) to perform these steps. 
   
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
     

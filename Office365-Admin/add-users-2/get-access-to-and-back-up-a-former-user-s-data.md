@@ -39,7 +39,7 @@ To save the content, here's what you do:
     
 ## Part 1 - Get access to the former employee's OneDrive for Business documents
 
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. Go to the [Office 365 admin center](../admin-overview/about-the-admin-center.md).
     

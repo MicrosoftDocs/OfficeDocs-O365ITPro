@@ -53,7 +53,7 @@ You can turn customer lockbox requests on or off in the Office 365 admin center.
   
 1. To do these steps, you must be a Global Administrator, Customer Lockbox access approver or get Organization Management Role applied through RBAC.
     
-2. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+2. Sign in to Office 365 with your work or school account. 
     
 3. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
     
@@ -65,7 +65,7 @@ You can turn customer lockbox requests on or off in the Office 365 admin center.
 
 1. To do these steps, you must be a Global Administrator, Customer Lockbox access approver or get Organization Management Role applied through RBAC.
     
-2. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+2. Sign in to Office 365 with your work or school account. 
     
 3. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
     
