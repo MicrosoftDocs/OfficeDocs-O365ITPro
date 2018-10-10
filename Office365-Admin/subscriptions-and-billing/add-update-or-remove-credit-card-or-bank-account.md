@@ -109,7 +109,7 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
   
     > [!NOTE]
     > You won't be able to remove a credit card or bank account if it's currently being used to pay for a subscription. If you try, you'll get a message that looks like this:
-    > ![The error message that appears if you try to remove a credit card or bank account that is currently used to pay for an active subscription.](../media/29319a8b-af0b-4487-853b-6f47d6fe4a28.png)
+    > ![The error message that appears if you try to remove a credit card or bank account that is currently used to pay for an active subscription.](../media/29319a8b-af0b-4487-853b-6f47d6fe4a28.png) <br/>
     > To remove the credit card or bank account, choose **Back** and follow the steps in this article to change the credit card or bank account that you're using to pay for the subscription. Then try removing the credit card or bank account again. 
   
 ## Change the credit card or bank account that you're using to pay for a subscription
