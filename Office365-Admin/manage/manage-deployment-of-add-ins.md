@@ -64,7 +64,7 @@ Before you begin, see [Determine if Centralized Deployment of add-ins works for 
   
 1. [Where to sign in to Office 365 for business](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) with your work or school account. 
     
-2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left, and choose **Admin**.<br/> TIP: **Admin** appears only to Office 365 admins. 
+2. Select the app launcher icon ![App launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left, and choose **Admin**.<br/> TIP: **Admin** appears only to Office 365 admins. 
   
 3. In the navigation menu, choose **Settings** \> **Services &amp; add-ins**. 
     
@@ -80,13 +80,13 @@ Before you begin, see [Determine if Centralized Deployment of add-ins works for 
     
   - **I have a URL for the manifest file**: For this option, type the URL in the field provided. 
     
-![Screenshot shows the New Add-in dialog for Centralized Deployment](../media/b3abd42f-63d8-4a5f-8893-d1ae38f4e9b2.png)
+![Add-in dialog for Centralized Deployment](../media/b3abd42f-63d8-4a5f-8893-d1ae38f4e9b2.png)
   
 7. Select **Next**. 
     
 8. If you selected the option to add an add-in from the Office Store, you can now make your add-in selection in **Select an Add-in**. Notice that you can view available add-ins via categories of **Suggested for you**, **Rating**, or **Name**. Only free add-ins are available to add from the Office Store. Paid add-ins aren't supported currently.<br/> NOTE: With the Office Store option, updates and enhancements to the add-in will automatically be made available to users without your intervention. 
   
-![Screenshot shows the Select an Add-in dialog for the Office Store](../media/2a8de1f4-03b0-4ab6-aa99-4451ee30a64c.png)
+![Select an Add-in dialog for the Office Store](../media/2a8de1f4-03b0-4ab6-aa99-4451ee30a64c.png)
   
 9. The add-in is now enabled. On the page for the add-in, its status is **On**, like that shown for the Power BI Tiles add-in in the screenshot below. In **Who has access**, select **Edit** to specify who the add-in is deployed to. <br/>NOTES:<br/>By default, the add-in can't be deployed to anyone until you identify people or groups.<br/>Learn about the other states that apply to an add-in. See [Add-in states](manage-deployment-of-add-ins.md#BKMK_AddinStates) later in this topic. 
   

@@ -42,7 +42,7 @@ If you're ready to buy or renew Office 365 through Open Volume Licensing, or you
     
 2. Select the app launcher icon  in the upper-left and then choose **Admin**.<br/>Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
     
-3. Go to **Settings** \> **Partner relationships**.<br/>![Screenshot of the settings menu with "Partner relationships" highlighted](../media/9026f9ea-52b7-4a0c-a14e-daec23048318.png)
+3. Go to **Settings** \> **Partner relationships**.<br/>![Settings menu](../media/9026f9ea-52b7-4a0c-a14e-daec23048318.png)
   
 4. If you have a partner, the partner's name and relationship to your organization will be listed here. To view partner contact information (phone number and email address), click on the partner name. 
     

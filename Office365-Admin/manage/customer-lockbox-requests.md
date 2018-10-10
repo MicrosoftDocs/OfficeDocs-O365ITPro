@@ -41,7 +41,7 @@ Below is a sample customer lockbox request.
     
 4. The support engineer logs into the customer lockbox request tool and sends you an email letting you know there's a pending customer lockbox request. All requests are reviewed and approved by Microsoft support managers before you get the request.
     
-5. The customer lockbox request tool sends you an email letting you know there's a pending lockbox request. If you reject or don't approve the request in 12 hours, access is automatically revoked.<br/>![Screenshot: Sample customer lockbox email](../media/1e578e60-271f-4a1f-97ff-d54d0f08c4cd.png)
+5. The customer lockbox request tool sends you an email letting you know there's a pending lockbox request. If you reject or don't approve the request in 12 hours, access is automatically revoked.<br/>![Sample customer lockbox email](../media/1e578e60-271f-4a1f-97ff-d54d0f08c4cd.png)
   
 6. You log into the Office 365 admin center and approve the request.<br/>IMPORTANT: We don't include any links in the customer lockbox email that requires you to login to Office 365. 
   
@@ -67,7 +67,7 @@ You can turn customer lockbox requests on or off in the Office 365 admin center.
     
 2. Sign in to Office 365 with your work or school account. 
     
-3. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
+3. Go to the [Office 365 admin center](../admin-overview/about-the-admin-center.md).
     
 4. Navigate to **Settings** \> **Support** \> **Service requests**.<br/>![Data access requests](../media/b99ec47a-1b6f-4841-b831-abf2cb615f77.png)
   

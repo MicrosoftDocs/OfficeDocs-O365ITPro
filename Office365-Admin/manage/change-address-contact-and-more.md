@@ -36,11 +36,11 @@ Why is it impossible to change this information? Because the country or region w
   
 To other change information on your company's profile page:
   
-1. Go to the [![Click here to go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 2. Select your organization's name in the top right corner of the page.
     
-    ![Click the name of your business in the top right corner of the admin center.](../media/f9a9072e-bbed-47fa-9abc-aef58d77f6f1.png)
+    ![Click the name of your business](../media/f9a9072e-bbed-47fa-9abc-aef58d77f6f1.png)
   
 3. Choose **Edit** beside your organization's name. 
     
@@ -64,11 +64,11 @@ To other change information on your company's profile page:
 
 ### Admin info
   
-If you're an admin and want to change your alternate email address for resetting passwords or business email address, go to **Settings**![Settings: update your profile, install software and connect it to the cloud](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) and choose **Office 365** under Your app settings. 
+If you're an admin and want to change your alternate email address for resetting passwords or business email address, go to **Settings**![Settings](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) and choose **Office 365** under Your app settings. 
     
 ### User info
   
-If you're a user and want to change your individual language preference, go to **Settings**![Settings: update your profile, install software and connect it to the cloud](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **Office 365 settings**.
+If you're a user and want to change your individual language preference, go to **Settings**![Settings](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **Office 365 settings**.
     
 For more information, see [Change your contact preferences](change-contact-preferences.md) or [Change your display language](https://support.office.com/article/6f238bff-5252-441e-b32b-655d5d85d15b.aspx).
   

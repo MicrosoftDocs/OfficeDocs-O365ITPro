@@ -158,7 +158,7 @@ The easiest way to detect if a group contains nested groups is to view the group
   
 You can do the opposite query by resolving the group to see if it's a member of any group. In the example below, you can see under the **Membership** tab of the Outlook contact card that Sub Group 1 is a member of the Test Group. 
   
-![Screenshot of the Membership tab of the Outlook contact card](../media/a9f9b6ab-9c19-4822-9e3d-414ca068c42f.png)
+![Membership tab of the Outlook contact card](../media/a9f9b6ab-9c19-4822-9e3d-414ca068c42f.png)
   
 Alternately, you can use the Azure Active Directory Graph API to run queries to find the list of groups within a group. For more information, see [Operations on groups | Graph API reference](https://go.microsoft.com/fwlink/p/?linkid=846342).
   
