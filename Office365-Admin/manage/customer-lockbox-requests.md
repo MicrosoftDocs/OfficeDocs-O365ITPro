@@ -55,7 +55,7 @@ You can turn customer lockbox requests on or off in the Office 365 admin center.
     
 2. Sign in to Office 365 with your work or school account. 
     
-3. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
+3. Go to the [Office 365 admin center](../admin-overview/about-the-admin-center.md).
     
 4. Navigate to **Settings** \> **Security &amp; privacy** and scroll to locate **Customer Lockbox**.<br/>![Edit Customer Lockbox in the admin center](../media/23b4bc33-96c5-4ad0-a190-f18d24b4374d.png)
   

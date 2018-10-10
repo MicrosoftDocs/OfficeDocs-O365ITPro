@@ -32,9 +32,9 @@ You must be an Office 365 global admin or Exchange admin to upgrade a distributi
     
 3. In the Exchange Admin Center, go to **Recipients** \> **Groups**.<br/>You'll see a notice indicating you have distribution lists (also called **distribution groups** ) that are eligible to be upgraded to Office 365 groups.<br/> ![Click on Get started.](../media/8cf838b4-2644-401f-a366-08c1eea183eb.png)
   
-4. Select one or more distribution lists (also called a **distribution group** ) from the **groups** page.<br/>![Select a distribution group from the groups page](../media/2c303433-d60b-4100-a6ae-5809b03a8cdb.png)
+4. Select one or more distribution lists (also called a **distribution group** ) from the **groups** page.<br/>![Select a distribution group](../media/2c303433-d60b-4100-a6ae-5809b03a8cdb.png)
   
-5. Choose the upgrade icon.<br/>![Click or tap the Upgrade to Office 365 groups icon](../media/1e28cb3d-bff3-4be3-8329-1902d2d54720.png)
+5. Choose the upgrade icon.<br/>![Upgrade to Office 365 groups icon](../media/1e28cb3d-bff3-4be3-8329-1902d2d54720.png)
   
 6. On the information dialog, choose **Yes** to confirm the upgrade. The process begins immediately. Depending on the size and number of DLs you're upgrading, the process can take minutes or hours.<br/>If the distribution list can't be upgraded, a dialog appears saying so. See [Which distribution lists can be upgraded?](#which-distribution-lists-can-be-upgraded).
     
@@ -133,15 +133,9 @@ People with Office 365 global admin or Exchange admin rights.
   
 ### Why is the contact card still showing a distribution list? What should I do to prevent a upgraded distribution list from showing up in my auto suggest list?
 
-- For Outlook
+- For Outlook: When someone tries to send an email in Outlook by typing the Office 365 group name after migration, the recipient will be resolved as the distribution list instead of the Office 365 group. The contact card of the recipient will be the distribution lists contact card. This is because of the recipient cache or nick name cache in Outlook. The email will be sent successfully to the Office 365 group, but might cause confusion to the sender.<br/>You can perform the steps in this topic, [Information about the Outlook AutoComplete list](http://go.microsoft.com/fwlink/?LinkID=798736) to reset the cache, which will fix this issue. 
     
-  - When someone tries to send an email in Outlook by typing the Office 365 group name after migration, the recipient will be resolved as the distribution list instead of the Office 365 group. The contact card of the recipient will be the distribution lists contact card. This is because of the recipient cache or nick name cache in Outlook. The email will be sent successfully to the Office 365 group, but might cause confusion to the sender.
-    
-    You can perform the steps in this topic, [Information about the Outlook AutoComplete list](http://go.microsoft.com/fwlink/?LinkID=798736) to reset the cache, which will fix this issue. 
-    
-- For Outlook on the web
-    
-  - In case of Outlook on the web, the distribution list recipient will still remain in the cache. You can follow the steps in [Remove suggested name or email address from the Auto-Complete List](https://support.office.com/article/9E1419D9-E88F-445B-B07F-F558B8A37C58.aspx) to refresh the cache to see the Office 365 group contact card. 
+- For Outlook on the web: In case of Outlook on the web, the distribution list recipient will still remain in the cache. You can follow the steps in [Remove suggested name or email address from the Auto-Complete List](https://support.office.com/article/9E1419D9-E88F-445B-B07F-F558B8A37C58.aspx) to refresh the cache to see the Office 365 group contact card. 
     
 ### Do new group members get a welcome email in their inbox?
 

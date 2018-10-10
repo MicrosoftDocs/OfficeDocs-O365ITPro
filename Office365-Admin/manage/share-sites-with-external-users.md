@@ -56,11 +56,11 @@ The ability to invite external users to SharePoint sites is enabled by default, 
     
 2. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).<br/>![The Office 365 app launcher with the Admin app highlighted](../media/4eea9dbc-591b-48be-9916-322d41c6525b.png)
   
-3. In the Office 365 admin center, type external in the search box on the Home page, and choose **Sites external sharing**.<br/>![Screenshot of typing external sharing in the Search box on the Admin Center Home page](../media/ff7ae7ef-91e3-4ed0-bb39-d2a7cf75b4db.png)
+3. In the Office 365 admin center, type external in the search box on the Home page, and choose **Sites external sharing**.<br/>![Typing external sharing in the Search box](../media/ff7ae7ef-91e3-4ed0-bb39-d2a7cf75b4db.png)
   
-4. Next to **Let people outside your organization access your sites**, slide the slider to **On** to turn on external sharing.<br/>![Screenshot of the External Sharing dialog box when the "Let people outside your organization access your sites" setting is turned off.](../media/848bff81-63a3-464c-a9f4-135c04800c7a.png)
+4. Next to **Let people outside your organization access your sites**, slide the slider to **On** to turn on external sharing.<br/>![Screenshot of the External Sharing dialog box](../media/848bff81-63a3-464c-a9f4-135c04800c7a.png)
   
-5. To **Allow your users to send guest links for access to your organization's sites and documents**, slide the slider for this option to **On**.<br/>![Screenshot of External sharing turned on in the admin center.](../media/4f5dd6a4-f1b6-44e8-b553-eba6231c2b8d.png)<br/>Change the slider to **Off** if you want to require users to sign in using a username and password. (For more information about user IDs for work or school accounts, see [What is my user ID and why do I need it?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4.aspx))
+5. To **Allow your users to send guest links for access to your organization's sites and documents**, slide the slider for this option to **On**.<br/>![Screenshot of External sharing turned on in the admin center](../media/4f5dd6a4-f1b6-44e8-b553-eba6231c2b8d.png)<br/>Change the slider to **Off** if you want to require users to sign in using a username and password. (For more information about user IDs for work or school accounts, see [What is my user ID and why do I need it?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4.aspx))
     
 6. Choose **Save**.
     
@@ -79,21 +79,21 @@ On the sites page of the sharing settings (Office 365 admin center) you can see 
     
 2. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
 
-3. Navigate to **Resources** \> **Sites**.<br/>![Resources menu in Office 365 admin center with Sites selected](../media/8bd379ed-d3d1-4061-9127-159d7b142c22.png)
+3. Navigate to **Resources** \> **Sites**.<br/>![Resources menu in Office 365 admin center](../media/8bd379ed-d3d1-4061-9127-159d7b142c22.png)
   
-4. Select the sharing status ( **Share links and invitations** or **Not allowed**) next to the desired site collection.<br/>![List of SharePoint site collections with external sharing status for each site collection](../media/d48dc3b2-f26b-4e76-b32d-4c7ff9a0b2ae.png)
+4. Select the sharing status ( **Share links and invitations** or **Not allowed**) next to the desired site collection.<br/>![SharePoint site collections with external sharing status](../media/d48dc3b2-f26b-4e76-b32d-4c7ff9a0b2ae.png)
   
-5. In the sharing dialog box, next to **Sharing status**, click **Edit**.<br/>![Sharing status dialog box for a specific site collection with sharing turned off.](../media/a357ff16-6e62-434a-9ae5-7e9e60348c5e.png)
+5. In the sharing dialog box, next to **Sharing status**, click **Edit**.<br/>![Sharing status dialog box for a specific site collection](../media/a357ff16-6e62-434a-9ae5-7e9e60348c5e.png)
   
-6. Next to **Let people outside your organization access your sites**, slide the slider to **On** to turn on external sharing.<br/>![Screenshot of the External Sharing dialog box when the "Let people outside your organization access your sites" setting is turned off.](../media/848bff81-63a3-464c-a9f4-135c04800c7a.png)
+6. Next to **Let people outside your organization access your sites**, slide the slider to **On** to turn on external sharing.<br/>![External Sharing dialog box](../media/848bff81-63a3-464c-a9f4-135c04800c7a.png)
   
-7. To **Allow your users to send guest links for access to your organization's sites and documents**, slide the slider for this option to **On**.<br/>![Screenshot of External sharing turned on in the admin center.](../media/4f5dd6a4-f1b6-44e8-b553-eba6231c2b8d.png)<br/>Change the slider to **Off** if you want to require users to sign in using a username and password. (For more information about user IDs for work or school accounts, see [What is my user ID and why do I need it?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4.aspx))
+7. To **Allow your users to send guest links for access to your organization's sites and documents**, slide the slider for this option to **On**.<br/>![External sharing turned on in the admin center.](../media/4f5dd6a4-f1b6-44e8-b553-eba6231c2b8d.png)<br/>Change the slider to **Off** if you want to require users to sign in using a username and password. (For more information about user IDs for work or school accounts, see [What is my user ID and why do I need it?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4.aspx))
     
 8. Click **Save**.
     
 ### Revoke site access for individual users in the Office 365 admin center
 
-1. If you're not already in the External Sharing Sites screen, do steps 1-4 shown in [Edit the sharing settings of a particular site collection in the Office 365 admin center](share-sites-with-external-users.md#EditSharing_Preview). 
+1. If you're not already in the External Sharing Sites screen, do steps 1-4 shown in [Edit the sharing settings of a particular site collection in the Office 365 admin center](#edit-the-sharing-settings-of-a-particular-site-collection-in-the-office-365-admin-center). 
     
 2. Select the sharing status ( **Share links and invitations** or **Not allowed**) next to the desired site collection.
     
