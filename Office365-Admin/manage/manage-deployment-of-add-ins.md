@@ -84,13 +84,9 @@ Before you begin, see [Determine if Centralized Deployment of add-ins works for 
   
 7. Select **Next**. 
     
-8. If you selected the option to add an add-in from the Office Store, you can now make your add-in selection in **Select an Add-in**. Notice that you can view available add-ins via categories of **Suggested for you**, **Rating**, or **Name**. Only free add-ins are available to add from the Office Store. Paid add-ins aren't supported currently.<br/> NOTE: With the Office Store option, updates and enhancements to the add-in will automatically be made available to users without your intervention. 
+8. If you selected the option to add an add-in from the Office Store, you can now make your add-in selection in **Select an Add-in**. Notice that you can view available add-ins via categories of **Suggested for you**, **Rating**, or **Name**. Only free add-ins are available to add from the Office Store. Paid add-ins aren't supported currently.<br/> NOTE: With the Office Store option, updates and enhancements to the add-in will automatically be made available to users without your intervention.<br/> ![Select an Add-in dialog for the Office Store](../media/2a8de1f4-03b0-4ab6-aa99-4451ee30a64c.png)
   
-![Select an Add-in dialog for the Office Store](../media/2a8de1f4-03b0-4ab6-aa99-4451ee30a64c.png)
-  
-9. The add-in is now enabled. On the page for the add-in, its status is **On**, like that shown for the Power BI Tiles add-in in the screenshot below. In **Who has access**, select **Edit** to specify who the add-in is deployed to. <br/>NOTES:<br/>By default, the add-in can't be deployed to anyone until you identify people or groups.<br/>Learn about the other states that apply to an add-in. See [Add-in states](manage-deployment-of-add-ins.md#BKMK_AddinStates) later in this topic. 
-  
-![Centralized Deployment page for the Power BI Tiles add-in](../media/0faa60e8-1e71-4ed1-bbc1-5a2f85ebf981.png)
+9. The add-in is now enabled. On the page for the add-in, its status is **On**, like that shown for the Power BI Tiles add-in in the screenshot below. In **Who has access**, select **Edit** to specify who the add-in is deployed to. <br/>NOTES:<br/>By default, the add-in can't be deployed to anyone until you identify people or groups.<br/>Learn about the other states that apply to an add-in. See [Add-in states](manage-deployment-of-add-ins.md#BKMK_AddinStates) later in this topic.<br/>![Centralized Deployment page for the Power BI Tiles add-in](../media/0faa60e8-1e71-4ed1-bbc1-5a2f85ebf981.png)
   
 10. On the **Edit who has access** page, select either **Everyone** or **Specific Users/Groups**. Use the Search box to find the users or groups who you want to deploy the add-in to.<br/>![Edit who has access page for the Power BI Tiles add-in](../media/46571963-5938-4c7d-b60e-a3ad06758ddf.png)
   
@@ -98,7 +94,7 @@ Before you begin, see [Determine if Centralized Deployment of add-ins works for 
   
 This page will display the list of Graph scopes that the add-in requires in order to function. 
     
-12. When finished, choose **Save**, review the add-in settings, and then select **Close**. <br/>You now see your add-in along with other apps in Office 365.<br/>![Office 365 admin center deployed Add-In](../media/71bfd837-20bc-4517-9513-33fc70147669.png)
+12. When finished, choose **Save**, review the add-in settings, and then select **Close**. <br/>You now see your add-in along with other apps in Office 365.<br/>![Office 365 admin center deployed Add In](../media/71bfd837-20bc-4517-9513-33fc70147669.png)
   
 It's a good idea to inform the users and groups who you deployed the add-in to so that they know that it's available. Consider sending an email to them that describes when and how to use the add-in and explains how the add-in can help them do their job better. Include or link to relevant Help content or FAQs that might help if users have any problems with the add-in.
   
@@ -251,8 +247,8 @@ Word, Excel, and PowerPoint 2013 for Windows will support the same minor checks 
 Now that you've deployed the add-in, your end users can start using it in their Office applications (see [Start using your Office Add-in](https://support.office.com/article/82e665c4-6700-4b56-a3f3-ef5441996862.aspx)). The add-in will appear on all platforms that the add-in supports.
   
 If the add-in supports add-in commands, the commands appear on the Office ribbon. In the following example, the command **Search Citation** appears for the **Citations** add-in. 
-  
-![Office ribbon with the Search Citations command](../media/553b0c0a-65e9-4746-b3b0-8c1b81715a86.png)
+
+![Office ribbon with Search Citations](../media/553b0c0a-65e9-4746-b3b0-8c1b81715a86.png)
   
 If the deployed add-in doesn't support add-in commands or if you want to view all deployed add-ins, you can view them via **My Add-ins**. 
   
@@ -270,7 +266,7 @@ If the deployed add-in doesn't support add-in commands or if you want to view al
   
 2. Choose **My add-ins** in the left nav. 
     
-3. Look for an add-in that has a status set to **Installed by your administrator**.<br/>![An admin installed add-in in Outlook store.](../media/118a6c75-6a3e-4e6b-b9a0-06c0bd7c6e0c.png)
+3. Look for an add-in that has a status set to **Installed by your administrator**.<br/>![An admin installed add-in in Outlook store](../media/118a6c75-6a3e-4e6b-b9a0-06c0bd7c6e0c.png)
   
 ## Learn more
 
