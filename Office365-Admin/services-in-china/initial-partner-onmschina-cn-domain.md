@@ -3,7 +3,6 @@ title: "About your initial partner.onmschina.cn domain in Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:
