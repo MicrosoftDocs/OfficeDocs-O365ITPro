@@ -1,9 +1,8 @@
 ---
 title: "Language translation for Message center posts"
-ms.author: kfollis
-author: kfollis
-manager: mnirkhe
-
+ms.author: sirkkuw
+author: sirkkuw
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -26,13 +25,9 @@ Message center posts are written in English-only due to the timeliness of the in
   
 ## Set your preferred language
 
-1. From the Office 365 admin center or home page, select the settings icon in the upper-right corner of the window. 
-    
-    ![Screen shot: Settings panel depicting settings icon and language settings](../media/94f50d9b-e6ce-4a52-b6b1-8ddc55d2a859.PNG)
+1. From the Office 365 admin center or home page, select the settings icon in the upper-right corner of the window.<br/>![Screen shot: Settings panel depicting settings icon and language settings](../media/94f50d9b-e6ce-4a52-b6b1-8ddc55d2a859.PNG)
   
-2. Expand **Language and time zone** to show the available options. Select your desired language from the drop-down menu, then click **Save**. Office 365 will try to refresh and display the new language. If that doesn't happen immediately or if it seems that it's taking too long, you can either refresh your browser or sign out and then sign back in.
-    
-    ![A screenshot showing language preference settings](../media/31a3ade3-e25b-44da-b302-3107d8573b50.png)
+2. Expand **Language and time zone** to show the available options. Select your desired language from the drop-down menu, then click **Save**. Office 365 will try to refresh and display the new language. If that doesn't happen immediately or if it seems that it's taking too long, you can either refresh your browser or sign out and then sign back in.<br/>![A screenshot showing language preference settings](../media/31a3ade3-e25b-44da-b302-3107d8573b50.png)
   
 ## Machine translation in Message center
 
@@ -48,8 +43,6 @@ Whether the automatic translation setting is on or off, you can manually change 
   
 This language setting will persist while you're active in Message center, but will revert to your default language settings when you navigate away from Message center. 
   
-## Related Topics
 
-[Stay on top of Office 365 changes](stay-on-top-of-updates.md)
   
 

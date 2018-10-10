@@ -82,18 +82,18 @@ Office Online is supported for all Office 365 business plans. Office 365 ProPlus
 
 Using the Office 365 Centralized Deployment Compatibility Checker, you can verify whether the users on your tenant are set up to use Centralized Deployment for Word, Excel and PowerPoint. The Compatibility Checker is not required for Outlook support. Download the compatibility checker [here](https://aka.ms/officeaddindeploymentorgcompatibilitychecker).
   
-To run the compatibility checker, follow these steps:
+#### Run the compatibility checker
   
 1. Start an elevated PowerShell.exe window.
     
-2. Run the \<Import-Module O365CompatibilityChecker\> command without the brackets.
+2. Run the `\<Import-Module O365CompatibilityChecker\>` command without the brackets.
     
-3. Run the \< **Invoke-CompatibilityCheck\>** command without the brackets, which prompts you for  _TenantDomain_ (for example, TailspinToysIncorporated.onmicrosoft.com) and  _TenantAdmin_ credentials, and then requests consent. 
+3. Run the `\<Invoke-CompatibilityCheck\>` command without the brackets, which prompts you for  `_TenantDomain_` (for example, `TailspinToysIncorporated.onmicrosoft.com`) and  `_TenantAdmin_` credentials, and then requests consent. 
     
 > [!NOTE]
 > Depending on the number of users in your tenant, the checker could complete in minutes or hours. 
   
-When the tool finishes running, it produces an output file in comma-separated (.csv) format. The file is saved to C:\windows\system32 by default. The output file contains the following information:
+When the tool finishes running, it produces an output file in comma-separated (.csv) format. The file is saved to `C:\windows\system32` by default. The output file contains the following information:
   
 - User Name
     
@@ -124,7 +124,6 @@ Microsoft Exchange stores the add-in manifests within your organization's tenant
 Check with your organization's Exchange admin to find out which configuration is in use. OAuth connectivity per user can be verified by using the [Test-OAuthConnectivity](https://go.microsoft.com/fwlink/p/?linkid=846351) PowerShell cmdlet. 
   
 ## User and group assignments
-<a name="BKMK_UserAndGroupAssignments"> </a>
 
 The Centralized Deployment feature currently supports the majority of groups supported by Azure Active Directory, including Office 365 Groups, distribution lists, and security groups.
   
@@ -170,14 +169,7 @@ If you or your users encounter problems loading the add-in while using Office On
   
 |**Platform**|**Debug information**|
 |:-----|:-----|
-|Office Online  <br/> | Charles/Fiddler logs  <br/>  Tenant ID ( [learn how](https://support.office.com/article/6891b561-a52d-4ade-9f39-b492285e2c9b.aspx))  <br/>  CorrelationID. View the source of one of the office pages and look for the Correlation ID value and send it on:  <br/>  \<input name=" **wdCorrelationId**" type="hidden" value=" **{BC17079E-505F-3000-C177-26A8E27EB623}**"\>  <br/>  \<input name="user_id" type="hidden" value="1003bffd96933623"\> \</form\>  <br/> |
-|Rich clients (Windows, Mac)  <br/> | Charles/Fiddler logs  <br/>  Build numbers of the client app (preferably as a screenshot from File/Account)  <br/> |
+|Office Online  <br/> | Charles/Fiddler logs  <br/>  Tenant ID ( [learn how](https://support.office.com/article/6891b561-a52d-4ade-9f39-b492285e2c9b.aspx))  <br/>  CorrelationID. View the source of one of the office pages and look for the Correlation ID value and send it on:  <br/>`<input name=" **wdCorrelationId**" type="hidden" value=" **{BC17079E-505F-3000-C177-26A8E27EB623}**">`  <br/>  `<input name="user_id" type="hidden" value="1003bffd96933623"></form>`  <br/> |
+|Rich clients (Windows, Mac)  <br/> | Charles/Fiddler logs  <br/>  Build numbers of the client app (preferably as a screenshot from **File/Account**)  <br/> |
    
-## See also
-<a name="BKMK_UserAndGroupAssignments"> </a>
-
-[Deploy Office Add-ins in the Office 365 Admin Center](manage-deployment-of-add-ins.md)
-  
-[Use the Centralized Deployment PowerShell cmdlets to manage add-ins](https://support.office.com/article/94f4e86d-b8e5-42dd-b558-e6092f830ec9)
-  
 
