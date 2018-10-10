@@ -1,19 +1,21 @@
 ---
 title: "Manage messages in Message center"
-ms.author: kfollis
-author: kfollis
-manager: mnirkhe
-
+ms.author: sirkkuw
+author: sirkkuw
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.custom: Adm_O365
+ms.custom: 
+- Adm_O365
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
 - MOE150
-ms.assetid: 97af2932-0868-4ccf-8f6b-21a94946c58a
+ms.assetid: 97af2932-0868-4ccf-8f6b-21a94946c58a    
 description: "Learn to manage Message center messages to help with change management."
 ---
 
