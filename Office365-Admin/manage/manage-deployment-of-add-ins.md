@@ -3,7 +3,6 @@ title: "Manage deployment of Office 365 add-ins in the Office 365 admin center"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -81,19 +80,19 @@ Before you begin, see [Determine if Centralized Deployment of add-ins works for 
     
   - **I have a URL for the manifest file**: For this option, type the URL in the field provided. 
     
-![Screenshot shows the New Add-in dialog for Centralized Deployment. Options available are to add an add-in via the Office Store, browse for a manifest file, or type the URL for the manifest file.](../media/b3abd42f-63d8-4a5f-8893-d1ae38f4e9b2.png)
+![Screenshot shows the New Add-in dialog for Centralized Deployment](../media/b3abd42f-63d8-4a5f-8893-d1ae38f4e9b2.png)
   
 7. Select **Next**. 
     
 8. If you selected the option to add an add-in from the Office Store, you can now make your add-in selection in **Select an Add-in**. Notice that you can view available add-ins via categories of **Suggested for you**, **Rating**, or **Name**. Only free add-ins are available to add from the Office Store. Paid add-ins aren't supported currently.<br/> NOTE: With the Office Store option, updates and enhancements to the add-in will automatically be made available to users without your intervention. 
   
-![Screenshot shows the Select an Add-in dialog for the Office Store. A drop-down control for viewing available add-in shows categories of Suggested for you, Rating, and Name.](../media/2a8de1f4-03b0-4ab6-aa99-4451ee30a64c.png)
+![Screenshot shows the Select an Add-in dialog for the Office Store](../media/2a8de1f4-03b0-4ab6-aa99-4451ee30a64c.png)
   
 9. The add-in is now enabled. On the page for the add-in, its status is **On**, like that shown for the Power BI Tiles add-in in the screenshot below. In **Who has access**, select **Edit** to specify who the add-in is deployed to. <br/>NOTES:<br/>By default, the add-in can't be deployed to anyone until you identify people or groups.<br/>Learn about the other states that apply to an add-in. See [Add-in states](manage-deployment-of-add-ins.md#BKMK_AddinStates) later in this topic. 
   
-![Screenshot shows the Centralized Deployment page for the Power BI Tiles add-in. In the field labeled Who has access, the value is Currently unassigned and the cursor points to Edit.](../media/0faa60e8-1e71-4ed1-bbc1-5a2f85ebf981.png)
+![Centralized Deployment page for the Power BI Tiles add-in](../media/0faa60e8-1e71-4ed1-bbc1-5a2f85ebf981.png)
   
-10. On the **Edit who has access** page, select either **Everyone** or **Specific Users/Groups**. Use the Search box to find the users or groups who you want to deploy the add-in to.<br/>![Screenshot shows the Edit who has access page for the Power BI Tiles add-in. Options to select from are Everyone or Specific Users/Groups. To specify users or groups, use the Search box.](../media/46571963-5938-4c7d-b60e-a3ad06758ddf.png)
+10. On the **Edit who has access** page, select either **Everyone** or **Specific Users/Groups**. Use the Search box to find the users or groups who you want to deploy the add-in to.<br/>![Edit who has access page for the Power BI Tiles add-in](../media/46571963-5938-4c7d-b60e-a3ad06758ddf.png)
   
 11. For Single Sign-In add-ins only:
   
@@ -239,21 +238,13 @@ To be GDPR compliant for minors you need to ensure that one of following builds 
   
 Word, Excel, and PowerPoint 2013 for Windows will support the same minor checks if Active Directory Authentication Library (ADAL) is enabled. There are two options for compliance, as explained next.
   
-- **Enable ADAL**
-    
-    This article explains how to enable ADAL for Office 2013: [Using Office 365 modern authentication with Office clients](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).
-    
-    You also need to set the registry keys to enable ADAL as explained in [Enable Modern Authentication for Office 2013 on Windows devices](../security-and-compliance/enable-modern-authentication.md).
-    
-    Additionally, you need to install the following April updates for Office 2013:
+- **Enable ADAL**. This article explains how to enable ADAL for Office 2013: [Using Office 365 modern authentication with Office clients](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).<br/>You also need to set the registry keys to enable ADAL as explained in [Enable Modern Authentication for Office 2013 on Windows devices](../security-and-compliance/enable-modern-authentication.md).<br/>Additionally, you need to install the following April updates for Office 2013:
     
   - [Description of the security update for Office 2013: April 10, 2018](https://support.microsoft.com/help/4018330/description-of-the-security-update-for-office-2013-april-10-2018)
     
   - [April 3, 2018, update for Office 2013 (KB4018333)](https://support.microsoft.com/en-us/help/4018333/april-3-2018-update-for-office-2013-kb4018333)
     
-- **Don't enable ADAL**
-    
-    If you're unable to enable ADAL in Office 2013, then our recommendation is to use Group Policy to turn off the Store for the office clients. Information on how to turn off the app for Office settings is located [here](https://technet.microsoft.com/library/cc178992.aspx).
+- **Don't enable ADAL**. If you're unable to enable ADAL in Office 2013, then our recommendation is to use Group Policy to turn off the Store for the office clients. Information on how to turn off the app for Office settings is located [here](https://technet.microsoft.com/library/cc178992.aspx).
     
 ## End user experience with add-ins
 
@@ -261,7 +252,7 @@ Now that you've deployed the add-in, your end users can start using it in their 
   
 If the add-in supports add-in commands, the commands appear on the Office ribbon. In the following example, the command **Search Citation** appears for the **Citations** add-in. 
   
-![Screenshot shows a section of the Office ribbon with the Search Citations command highlighted in the Citations add-in.](../media/553b0c0a-65e9-4746-b3b0-8c1b81715a86.png)
+![Office ribbon with the Search Citations command](../media/553b0c0a-65e9-4746-b3b0-8c1b81715a86.png)
   
 If the deployed add-in doesn't support add-in commands or if you want to view all deployed add-ins, you can view them via **My Add-ins**. 
   
@@ -271,27 +262,21 @@ If the deployed add-in doesn't support add-in commands or if you want to view al
     
 2. Select the **Admin Managed** tab in the Office Add-ins window. 
     
-3. Double-click the add-in you deployed earlier (in this example, **Citations** ). 
-    
-    ![Screenshot shows the Admin Managed tab of the Office Add-ins page in an Office application. The Citations add-in is shown on the tab.](../media/fd36ba81-9882-40f0-9fce-74f991aa97d5.png)
+3. Double-click the add-in you deployed earlier (in this example, **Citations** ). <br/>![Admin Managed tab of the Office Add-ins page](../media/fd36ba81-9882-40f0-9fce-74f991aa97d5.png)
   
 ### In Outlook
 
-1. On the **Home** ribbon, choose **Store**.
-    
-    ![Store button in Outlook](../media/7e4af05a-17f7-46a3-a630-077b9657b7e6.png)
+1. On the **Home** ribbon, choose **Store**.<br/>![Store button in Outlook](../media/7e4af05a-17f7-46a3-a630-077b9657b7e6.png)
   
 2. Choose **My add-ins** in the left nav. 
     
-3. Look for an add-in that has a status set to **Installed by your administrator**.
-    
-    ![An admin installed add-in in Outlook store.](../media/118a6c75-6a3e-4e6b-b9a0-06c0bd7c6e0c.png)
+3. Look for an add-in that has a status set to **Installed by your administrator**.<br/>![An admin installed add-in in Outlook store.](../media/118a6c75-6a3e-4e6b-b9a0-06c0bd7c6e0c.png)
   
 ## Learn more
 
 Learn more about creating and building [Office Add-ins](https://go.microsoft.com/fwlink/p/?linkid=846362).
   
-[Use the Centralized Deployment PowerShell cmdlets to manage add-ins](https://support.office.com/article/94f4e86d-b8e5-42dd-b558-e6092f830ec9).
+[Use Centralized Deployment PowerShell cmdlets to manage add-ins](https://support.office.com/article/94f4e86d-b8e5-42dd-b558-e6092f830ec9).
   
 [Troubleshoot: User not seeing add-ins](../troubleshoot-issues-for-admins/user-not-seeing-add-ins.md)
 
