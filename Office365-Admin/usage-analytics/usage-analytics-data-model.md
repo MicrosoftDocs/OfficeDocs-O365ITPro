@@ -207,7 +207,7 @@ This table consists of month over month summary data about the usage or activity
 |TotalSites  <br/> |Number of sites that existed at the end of the timeframe.  <br/> |
 |DocumentCount  <br/> |Total number of documents that existed on the site at the end of the timeframe.  <br/> |
 |DiskQuota  <br/> |Total allocated storage quota summed across all sites at the end of the timeframe.  <br/> |
-|DiskUsed  <br/> |Total storage used summed across all sites at the end of the timeframe.  <br/> |
+|Diplansed  <br/> |Total storage used summed across all sites at the end of the timeframe.  <br/> |
 |ActivityType  <br/> |Number of sites that recorded the various types of file activity (any/active files/ files shared EXT/INT/files synched).  <br/> Any represents any of the file activity was performed.  <br/> |
 |SitesWithOwnerActivities  <br/> |Number of active sites, where the site owner performed a particular file activity on their own sites.  <br/> |
 |SitesWithNonOwnerActivities  <br/> |Number of active sites summed up for the month, where the users other than the site owner performed a particular file activity on sites.  <br/> |
@@ -226,7 +226,7 @@ This table provides data about the OneDrive accounts such as number of accounts,
 |TotalSites  <br/> |Number of OneDrive for Business accounts that existed at the end of the timeframe.  <br/> |
 |DocumentCount  <br/> |Total number of documents that existed across all OneDrive for Business accounts at the end of the timeframe  <br/> |
 |DiskQuota  <br/> |Total allocated storage quota summed across all OneDrive for Business accounts at the end of the timeframe.  <br/> |
-|DiskUsed  <br/> |Total storage used summed across all OneDrive account at the end of the timeframe .  <br/> |
+|Diplansed  <br/> |Total storage used summed across all OneDrive account at the end of the timeframe .  <br/> |
 |ActivityType  <br/> |Number of accounts that recorded the various types of file activity (any/active files/ files shared EXT/INT/files synched).  <br/> Any represents any of the file activity was performed  <br/> |
 |SitesWithOwnerActivities  <br/> |Number of active OneDrive for Business accounts, where the account owner performed a particular file activity on their own account.  <br/> |
 |SitesWithNonOwnerActivities  <br/> |Count of OneDrive for Business accounts where file activity was performed by users other than the owner of the account.  <br/> |

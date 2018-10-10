@@ -59,7 +59,7 @@ Below are some example Windows PowerShell script snippets that you can use to ma
     $License.ServiceStatus | ForEach {
        If ($_.ProvisioningStatus -eq "Disabled" -or  $_.ServicePlan.ServiceName -like "*YAMMER*") { $DisabledOptions += "$($_.ServicePlan.ServiceName)" } 
     }
-    $LicenseOptions = New-MsolLicenseOptions -AccountSkuId $License.AccountSkuId -DisabledPlans $DisabledOptions
+    $LicenseOptions = New-MsolLicenseOptions -AccountplanId $License.AccountplanId -DisabledPlans $DisabledOptions
      Set-MsolUserLicense -UserPrincipalName $UPN -LicenseOptions $LicenseOptions
   }
   

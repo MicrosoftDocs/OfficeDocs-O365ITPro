@@ -3,7 +3,6 @@ title: "Office 365 Customer Lockbox Requests"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration
@@ -21,9 +20,10 @@ description: "Learn about customer lockbox requests that allow you to control ho
 
 As an Office 365 admin, customer lockbox requests allows you to control how a Microsoft support engineer accesses your data. Sometimes if you run into an issue, you might need a Microsoft support engineer to help you fix it. In some cases, the support engineer will require access to your Office 365 content to troubleshoot and fix the issue. Customer lockbox requests allows you to control whether to give the support engineer access to your data. There's also an expiration time on the request and content access is removed after the support engineer has fixed the issue. Check out [Overview of security &amp; compliance in Office 365](https://support.office.com/article/DCB83B2C-AC66-4CED-925D-50EB9698A0B2) for more information about how Office 365 uses your data. 
   
- **Important** Customer lockbox capability is never used when troubleshooting doesn't require access to customer content. For a majority of support cases, resolution doesn't require the use of customer lockbox access. 
+ > [!IMPORTANT]
+> Customer lockbox capability is never used when troubleshooting doesn't require access to customer content. For a majority of support cases, resolution doesn't require the use of customer lockbox access. 
   
-Customer lockbox is included in the Office 365 E5 plan. If you don't have an Office 365 E5 plan, you can buy a separate Advanced Compliance SKU with any Office 365 Enterprise plan. Check out [Plans and pricing](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software) for more info. Customer lockbox works with Exchange Online, SharePoint Online, and OneDrive for Business. 
+Customer lockbox is included in the Office 365 Enterprise E5 plan. If you don't have an Office 365 Enterprise E5 plan, you can buy a separate Advanced Compliance plan with any Office 365 Enterprise plan. Check out [Plans and pricing](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software) for more info. Customer lockbox works with Exchange Online, SharePoint Online, and OneDrive for Business. 
   
 **Customer lockbox request overview video**
 
