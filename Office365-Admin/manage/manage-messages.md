@@ -59,9 +59,9 @@ See a message that someone else needs to act on? You can share the contents of t
   
 1. Click on the message to open it.
     
-2. Select **Share** from the action bar. ![A screenshot of the message center post action bar](../media/43f6adc4-8cf9-4437-8e25-dc9c7367301d.png)
+2. Select **Share** from the action bar.<br/>![A screenshot of the message center post action bar](../media/43f6adc4-8cf9-4437-8e25-dc9c7367301d.png)
   
-3. Enter up to two email addresses to share the message with. You can send to individual and to group email addresses. If you'd like to also receive a copy of the message in email, select **I would also like to receive this email**. The message will go to your primary email address in Office 365. If you'd like to add a personal message to provide recipients with more context, select **I would like to add a personal message** and enter your text. ![A screenshot of the message sharing screen](../media/c490096e-ba8b-412d-92ab-2dfed223da11.png)
+3. Enter up to two email addresses to share the message with. You can send to individual and to group email addresses. If you'd like to also receive a copy of the message in email, select **I would also like to receive this email**. The message will go to your primary email address in Office 365. If you'd like to add a personal message to provide recipients with more context, select **I would like to add a personal message** and enter your text.<br/>![A screenshot of the message sharing screen](../media/c490096e-ba8b-412d-92ab-2dfed223da11.png)
   
 4. Click on **Share** to send the email. 
     
