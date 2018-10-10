@@ -43,7 +43,7 @@ If you're moving from *invoice to credit card or bank account*, your existing in
 If you're moving from *credit card or bank account to invoice*, any outstanding balance will be transferred to your next invoice. 
   
 > [!NOTE]
-> If you pay by credit card, and your credit card is declined, you'll receive an email letting you know that we were unable to process the payment. You can update your credit card information and immediately submit the payment by using the **Pay now** button on the **Subscriptions** page. For more information, see [What if my credit card was declined and my payment is past due?](pay-for-your-subscription.md#what-if-my-credit-card-was-declined-and-my-payment-is-past-due). 
+> If you pay by credit card, and your credit card is declined, you'll receive an email letting you know that we were unable to process the payment. You can update your credit card information and immediately submit the payment by using the **Pay now** button on the **Subscriptions** page. For more information, see [What if my credit card was declined and my payment is past due?](pay-for-your-subscription.md#what-if-my-credit-card-was-declined-and-my-payment-is-past-due) 
   
 ::: moniker-end
 
@@ -65,7 +65,7 @@ If you're moving from *invoice to credit card or bank account*, your existing in
 If you're moving from *credit card or bank account to invoice*, any outstanding balance will be transferred to your next invoice. 
   
 > [!NOTE]
-> If you pay by credit card, and your credit card is declined, you'll receive an email letting you know that we were unable to process the payment. You can update your credit card information and immediately submit the payment by using the **Pay now** button on the **Subscriptions** page. For more information, see [What if my credit card was declined and my payment is past due?](pay-for-your-subscription.md#what-if-my-credit-card-was-declined-and-my-payment-is-past-due). 
+> If you pay by credit card, and your credit card is declined, you'll receive an email letting you know that we were unable to process the payment. You can update your credit card information and immediately submit the payment by using the **Pay now** button on the **Subscriptions** page. For more information, see [What if my credit card was declined and my payment is past due?](pay-for-your-subscription.md#what-if-my-credit-card-was-declined-and-my-payment-is-past-due) 
   
 ::: moniker-end
 
