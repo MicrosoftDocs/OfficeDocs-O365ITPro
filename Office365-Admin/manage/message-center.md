@@ -1,8 +1,8 @@
 ---
 title: "Message center in Office 365"
-ms.author: kfollis
-author: kfollis
-manager: mnirkhe
+ms.author: sirkkuw
+author: sirkkuw
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -35,7 +35,7 @@ Explore the tabbed sections of this article for more information on how to use M
 |Who can view posts in Message center?  <br/> |Users who have been assigned any admin role in Office 365 can view Message center posts. You can also assign the Message center reader role to users who should be able to read and share Message center posts without having any other admin privileges. See [About Office 365 admin roles](../add-users-2/about-admin-roles.md) to learn more about what each admin role can do. Message center posts can also be shared through email with non-admin users who may need to take action.  <br/> |
 |Is this the only way Microsoft will communicate changes about Office 365?  <br/> |No, there are many ways that we communicate changes in Office 365. Message center is the primary way that we communicate the timing of individual changes. See [Stay on top of Office 365 changes](stay-on-top-of-updates.md) for information about additional resources.  <br/> |
 |How can I see posts in my language?  <br/> |Message center posts are written in English-only due to the timeliness of the information we are posting, but you can control whether, by default, posts are shown in English or are automatically machine-translated to your preferred language. And, no matter which default view you choose, you can select to machine-translate posts to any language we support. See [Language translation for Message center posts](language-translation-for-message-center-posts.md) for more details.  <br/> |
-|Can I preview changes or features before they are rolled-out to my organization?  <br/> |Sometimes. Some changes and new features can be previewed by opting in to the Targeted release program. To opt-in, in the Office 365 Admin center, go to **Settings** \> **Organization profile** \> **Release preferences**. You can choose Targeted release for your entire organization, or just for selected users. See [Set up the Standard or Targeted release options in Office 365](release-options-in-office-365.md) for more information about the program.  <br/> |
+|Can I preview changes or features before they are rolled-out to my organization?  <br/> |Sometimes. Some changes and new features can be previewed by opting in to the Targeted release program. To opt-in, in the Office 365 Admin center, go to **Settings** \> **Organization profile** \> **Release preferences**. You can choose Targeted release for your entire organization, or just for selected users. See [Standard or Targeted release options in Office 365](release-options-in-office-365.md) for more information about the program.  <br/> |
 |Can I find out the exact date a change will be available to my organization?  <br/> |Unfortunately, we can't tell you the exact date a change will be made to your organization. In our Message center post, we will give as much information as we can on the timing of the release, based on our confidence level. We understand you want us to be more specific on timing of releases, and we're working on improvements to get better with that level of detail.  <br/> |
 |Are these messages specific to my organization?  <br/> |We do our best to make sure that you only see Message center posts that affect your organization. The Office 365 Roadmap includes all of the features we are currently working on and rolling out, but not all of these features apply to every Office 365 organization. For example, if a feature is rolling out only to educational institutions, we will target the Message center post ONLY to those organizations.  <br/> |
 |Can I get message center posts emailed instead?  <br/> |Yes! You can select to have a weekly digest emailed to you and up to two email addresses. If you need to have the digest go to more than two more people, you can send to an Office 365 group or distribution list. The emailed weekly digest is turned on by default. If you aren't getting your weekly digests, check your spam folder. See the **Set preferences** section of this article for more information on how to set up the weekly digest.  <br/> |
@@ -63,7 +63,7 @@ Head over to [Manage messages in Message center](manage-messages.md) to get more
 
 Because **Major updates** are most impactful to your organization, they are highlighted at the top of the Message center as shown in this graphic: 
   
-![Screen capture: Showing the major updates section of the Messge Center.](../media/e103cebc-e284-4f8f-81c3-c353ec850e8f.png)
+![Major updates section of the Messge Center.](../media/e103cebc-e284-4f8f-81c3-c353ec850e8f.png)
   
 Major updates are communicated at least 30 days in advance when an action is required.
   
@@ -91,7 +91,7 @@ Major updates are defined as:
     
 When you open a major update post to read it, you'll see a new gray header that has information specific to this major update, including the current roll-out status. In the example shown below, the major update has started Targeted release, it applies to targeted release customers only, and there are at least 40 days remaining before the feature moves into general availability.
   
-![Screen capture: Showing a major update post opened for reading.](../media/8e1b4527-e68d-4937-9145-c42faf72e08a.png)
+![Major update post opened for reading.](../media/8e1b4527-e68d-4937-9145-c42faf72e08a.png)
   
 ### Set preferences
 
