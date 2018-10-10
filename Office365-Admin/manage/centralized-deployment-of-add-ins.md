@@ -13,7 +13,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: b4527d49-4073-4b43-8274-31b7a3166f92
-
 description: "Determine if your Office 365 tenant and users meet the requirements, so that you can use Centralized Deployment to deploy Office add-ins."
 ---
 
