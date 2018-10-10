@@ -50,8 +50,6 @@ When Office 365 can't deliver email you sent, you'll receive an email notificati
 - [Email in Office 365 for business - Admin Help](https://support.office.com/article/5ff63bc1-308b-46de-a39b-cdc43ac117de.aspx)
     
 - [Recover deleted items in a user mailbox - Admin Help](https://support.office.com/article/eb15194b-63ec-41b0-8d90-1823d3f558e4)
-    
-
   
 > [!NOTE]
 > If you're using Office 365 operated by 21Vianet in China, please [contact the 21Vianet support team](https://go.microsoft.com/fwlink/p/?linkid=847978). 

@@ -35,20 +35,11 @@ It could also happen because you haven't assigned a license to yourself or your 
   
  **Check that you have a license**
   
-1. If you're not already signed in, go to [https://portal.office.com](https://portal.office.com) and sign in with your work or school account. 
-    
-    > [!NOTE]
-    > If you're unable to sign in with your work or school account, you may be signing in to the wrong Office 365 service, see [Where to sign in to Office 365 for business](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4). 
+1. If you're not already signed in, go to [https://portal.office.com](https://portal.office.com) and sign in with your work or school account.<br/>NOTE: If you're unable to sign in with your work or school account, you may be signing in to the wrong Office 365 service, see [Where to sign in to Office 365 for business](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4). 
   
-2. From the browser header, go to **Settings**![Settings: update your profile, install software and connect it to the cloud](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **My app settings** \> **Office 365**.
-    
-    ![Office 365 Settings pane](../media/13ea9957-8ba6-49d3-bf65-cd2e717317a1.png)
+2. From the browser header, go to **Settings**![Settings: update your profile, install software and connect it to the cloud](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **My app settings** \> **Office 365**.<br/>![Office 365 Settings pane](../media/13ea9957-8ba6-49d3-bf65-cd2e717317a1.png)
   
-3. On the My account page, select **Subscriptions**.
-    
-    ![Office 365 Subscriptions page](../media/a132e20f-de6c-461d-beb2-2d8cf1a04f1d.png)
-  
-    You'll see the services that you're licensed to use, such as the latest desktop version of Office, Project, Visio, SharePoint Online or OneDrive for Business, and Exchange Online. If you don't see **The latest desktop version of Office** in the list (or **Project** or **Visio** if you bought plans with those applications), see [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md).
+3. On the My account page, select **Subscriptions**.<br/>![Office 365 Subscriptions page](../media/a132e20f-de6c-461d-beb2-2d8cf1a04f1d.png)<br/>You'll see the services that you're licensed to use, such as the latest desktop version of Office, Project, Visio, SharePoint Online or OneDrive for Business, and Exchange Online. If you don't see **The latest desktop version of Office** in the list (or **Project** or **Visio** if you bought plans with those applications), see [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md).
     
 Not all Office 365 plans come with Office. If your organization has an Office 365 plan that doesn't include the latest desktop version of Office, as the admin, you can [switch to a different Office 365 plan or subscription](../subscriptions-and-billing/switch-to-a-different-plan.md). 
   
@@ -58,53 +49,39 @@ If you're not sure what plan you have, follow the steps in [What Office 365 for 
 
 When you install Office it's automatically linked to your Office 365 plan. This means if you recently switched plans you'll need to uninstall and then reinstall Office to associate it with your updated subscription. Use this easy fix tool and then follow the steps to reinstall Office.
   
-1. Click this easy fix button to uninstall Office.
-    
-    [![Easy fix download button indicating an automated fix is available](../media/8b46b28d-8630-458f-b31c-0bbe25e168ec.png)](https://aka.ms/diag_officeuninstall)
+1. Click this easy fix button to uninstall Office.<br/>[![Easy fix download indicating a fix is available](../media/8b46b28d-8630-458f-b31c-0bbe25e168ec.png)](https://aka.ms/diag_officeuninstall)
   
 2. For the remaining steps showing how to save and use the easy fix, follow the steps for your browser:
     
     **Edge or Internet Explorer**
     
-1. At the bottom of the browser window, select **Open** to open the **O15CTRRemove.diagcab** file. 
+    1. At the bottom of the browser window, select **Open** to open the **O15CTRRemove.diagcab** file.<br/>![Open the O15CTRRemove easy fix tool](../media/3de4a58b-7168-4a6c-a14e-b46e3510b254.png)<br/>If the file doesn't open automatically, choose **Save** \> **Open Folder**, and then double-click the file (it should start with " **O15CTRRemove**") to run the easy fix tool.
     
-    ![Select Open to open the O15CTRRemove.diagcab easy fix tool](../media/3de4a58b-7168-4a6c-a14e-b46e3510b254.png)
-  
-    If the file doesn't open automatically, choose **Save** \> **Open Folder**, and then double-click the file (it should start with " **O15CTRRemove**") to run the easy fix tool.
+    2. The Uninstall Microsoft Office wizard launches. Select **Next** and follow the prompts. 
     
-2. The Uninstall Microsoft Office wizard launches. Select **Next** and follow the prompts. 
+    3. When you see the **Uninstallation successful** screen, follow the prompt to restart your computer for the changes to take effect. Select **Next**.
     
-3. When you see the **Uninstallation successful** screen, follow the prompt to restart your computer for the changes to take effect. Select **Next**.
-    
-4. Restart your computer and then try installing Office again.
+    4. Restart your computer and then try installing Office again.
     
     **Chrome**
     
-1. In the lower-lower left corner select the **o15CTRRemove** file and from the drop down, select **Show in folder**.
+    1. In the lower-lower left corner select the **o15CTRRemove** file and from the drop down, select **Show in folder**.<br/>![Select Show in folder](../media/fedb929c-6474-4b00-970e-a5799bc09256.png)<br/>Double-click the download, **o15CTRRemove** to run the easy fix tool. 
     
-    ![From the dropdown, select Show in folder](../media/fedb929c-6474-4b00-970e-a5799bc09256.png)
-  
-    Double-click the download, **o15CTRRemove** to run the easy fix tool. 
+    2. The Uninstall Microsoft Office wizard launches. Select **Next** and follow the prompts. 
     
-2. The Uninstall Microsoft Office wizard launches. Select **Next** and follow the prompts. 
+    3. When you see the **Uninstallation successful** screen, follow the prompt to restart your computer for the changes to take effect. Select **Next**.
     
-3. When you see the **Uninstallation successful** screen, follow the prompt to restart your computer for the changes to take effect. Select **Next**.
-    
-4. Restart your computer and then try installing Office again.
+    4. Restart your computer and then try installing Office again.
     
     **Firefox**
     
-1. Select **Save File**, and then **OK**.
+    1. Select **Save File**, and then **OK**.<br/>![Save O15CTRRemove.diagcab file in Firefox](../media/b153dec9-ab5c-4be4-b3aa-4082761eeb51.png)<br/>In the upper-right browser window, select **Show all downloads**. In the Library, select **Downloads** \> **O15CTRRemove.diagcab**, and then select the folder icon. Double-click the ** O15CTRRemove.diagcab **.
     
-    ![Save O15CTRRemove.diagcab file in Firefox](../media/b153dec9-ab5c-4be4-b3aa-4082761eeb51.png)
-  
-    In the upper-right browser window, select **Show all downloads**. In the Library, select **Downloads** \> **O15CTRRemove.diagcab**, and then select the folder icon. Double-click the ** O15CTRRemove.diagcab **.
+    2. The Uninstall Microsoft Office wizard launches. Select **Next** and follow the prompts. 
     
-2. The Uninstall Microsoft Office wizard launches. Select **Next** and follow the prompts. 
+    3. When you see the **Uninstallation successful** screen, follow the prompt to restart your computer for the changes to take effect. Select **Next**.
     
-3. When you see the **Uninstallation successful** screen, follow the prompt to restart your computer for the changes to take effect. Select **Next**.
-    
-4. Restart your computer and then try installing Office again.
+    4. Restart your computer and then try installing Office again.
     
  **Install Office**
   
@@ -124,15 +101,11 @@ Email not working? Can't connect or not getting through? Expand an option below 
 
 If you're an Office 365 Midsize Business, Office 365 Business, or Office 365 Enterprise admin, you access and run the message trace tool through the Exchange admin center. To get there, do the following:
   
-1. [Where to sign in to Office 365 for business](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) with your work or school account. 
+1. Sign in to Office 365 for business with your work or school account. 
     
-2. Select the app launcher icon  in the upper-left and choose **Admin**.
+2. Select the app launcher icon  in the upper-left and choose **Admin**.<br/>Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
     
-    Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
-    
-3. Go to **Exchange**.
-    
-    ![Sceenshot of the Office 365 admin center with Exchange selected.](../media/239c294e-4f04-4c52-bd87-bbf343cb66b9.png)
+3. Go to **Exchange**.<br/>![Office 365 admin center with Exchange](../media/239c294e-4f04-4c52-bd87-bbf343cb66b9.png)
   
 4. Under **mail flow**, go to **message trace**.
     
@@ -146,27 +119,21 @@ If you're an Office 365 Small Business admin, do the following to find message t
 
 The mail flow troubleshooter is a simplified version of message trace that also checks for problems with your organization's domain settings. The tool can search for messages sent to or from your organization in the past week.
   
-1. [Go to the mail flow troubleshooter.](https://go.microsoft.com/fwlink/p/?LinkId=786903)
+1. [Go to the mail flow troubleshooter](https://go.microsoft.com/fwlink/p/?LinkId=786903)
     
 2. Sign in with a global admin account for your organization.
     
-3. Choose **Next**.
-    
-    ![beginning of the mail flow troubleshooter with the Next button selected.](../media/2d57820f-f7bc-4d46-830a-8b25c5d32931.png)
+3. Choose **Next**.<br/>![mail flow troubleshooter with Next button](../media/2d57820f-f7bc-4d46-830a-8b25c5d32931.png)
   
 4. Choose one of the symptoms from the list.
     
 5. Add the email addresses of the sender and recipient of the missing message. If you know part or all of the subject line, you can add that too, but it's not required.
     
-6. Select the date the message was sent.
-    
-    ![input area of the mail flow troubleshooter. Admins are required to pick a symptom and add a sender and recipient email address before choosing Next to start the troubleshooter.](../media/4e7981e9-e3b1-4850-a9e2-229b77755a23.png)
+6. Select the date the message was sent.<br/>![input area of the mail flow troubleshooter](../media/4e7981e9-e3b1-4850-a9e2-229b77755a23.png)
   
 7. Choose **Next**.
     
-8. The mail flow troubleshooter runs a series of tests and returns a result. If the troubleshooter found the missing message, the results page explains what happened and how you can fix the issue.
-    
-    ![Screenshot showing an example of the results of the mail flow troubleshooter.](../media/6a88dfdc-c114-449a-8fe0-a95ce7707f98.png)
+8. The mail flow troubleshooter runs a series of tests and returns a result. If the troubleshooter found the missing message, the results page explains what happened and how you can fix the issue.<br/>![Example of the results of the troubleshooter](../media/6a88dfdc-c114-449a-8fe0-a95ce7707f98.png)
   
 If the mail flow troubleshooter wasn't able to find your missing message, use message trace for more powerful search options.
   
@@ -213,17 +180,11 @@ Sometimes, the password box doesn't appear on the Skype for Business sign-in scr
   
 If you changed your password, the password box might not appear until you delete your old sign-in info . Here's how:
   
-1. In the Skype for Business main window, click the **Options** button ![The Options button in Skype for Business with the arrow on the right.](../media/9081f0c6-5c72-4b25-a6ea-ba18b1ae7ffa.png) and select **File** \> **Sign Out**.
-    
-    ![A screenshot showing the Skype for Business options menu with Sign Out selected.](../media/febd1252-cc5a-4c1b-a180-fae009e356c1.png)
+1. In the Skype for Business main window, click the **Options** button <br/>![The Options button in Skype for Business with the arrow on the right.](../media/9081f0c6-5c72-4b25-a6ea-ba18b1ae7ffa.png) and select **File** \> **Sign Out**.<br/>![Skype for Business options menu](../media/febd1252-cc5a-4c1b-a180-fae009e356c1.png)
   
-2. Click **Delete my sign-in info**, select **Yes**, and then click **Sign In**.
-    
-    ![The Skype for Business sign-in screen, with callouts pointing to the buttons for Delete my sign-in info and Sign In.](../media/4120ef5d-31d6-497b-8571-3f5cd735461f.png)
+2. Click **Delete my sign-in info**, select **Yes**, and then click **Sign In**.<br/>![Skype for Business sign-in screen](../media/4120ef5d-31d6-497b-8571-3f5cd735461f.png)
   
-3. Under **Password**, enter your password, and click **Sign In**.
-    
-    ![The Skype for Business sign-in screen, with callouts pointing to the password field and the Sign In button.](../media/36bc1512-0299-4af3-9ed0-a6f8f526897a.png)
+3. Under **Password**, enter your password, and click **Sign In**.<br/>![Skype for Business sign-in screen](../media/36bc1512-0299-4af3-9ed0-a6f8f526897a.png)
   
 ## Get more help with Skype for Business Online issues
 
