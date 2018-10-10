@@ -60,7 +60,7 @@ To set up a room or equipment mailbox, go to the Office 365 admin center. (You'l
     
 2. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
     
-3. Search for **rooms** or **equipment** or navigate to **Resources \> Rooms &amp; equipment**.<br/>![Go to Office 365 resources and select Rooms and equipment](../media/7fc34170-5425-468e-9ee9-3a1c5e54923f.png)
+3. Search for **rooms** or **equipment** or navigate to **Resources \> Rooms &amp; equipment**.<br/>![Office 365 resources](../media/7fc34170-5425-468e-9ee9-3a1c5e54923f.png)
   
 4. Click **Add**.
     

@@ -86,7 +86,7 @@ You can change how your organization receives Office 365 updates by following th
     
 2. Go to the [Office 365 admin center](../admin-overview/about-the-admin-center.md).
     
-3. Navigate to **Settings** \> **Organization profile**.<br/>![In the admin center, navigate to Settings and then Organization profile.](../media/74ed60b3-c8b9-4752-a598-52d72cf46f46.png)
+3. Navigate to **Settings** \> **Organization profile**.<br/>![Navigate to Settings and then Organization profile.](../media/74ed60b3-c8b9-4752-a598-52d72cf46f46.png)
   
 4. Next to **Release preferences**, click **Edit**.
     
