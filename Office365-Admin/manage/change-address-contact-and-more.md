@@ -1,9 +1,8 @@
 ---
 title: "Change your organization's address, technical contact, and more"
-ms.author: dianef
-author: dianef77
-manager: mnirkhe
-
+ms.author: sirkkuw
+author: sirkkuw
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -24,18 +23,16 @@ description: "Learn to make changes to your Office 365 company profile, such as 
 ---
 
 # Change your organization's address, technical contact, and more
-
- *Last updated 11 September, 2018* 
   
 You can make changes to your Office 365 company profile, such as your organization name, address, phone, and technical contact. You must be a global admin to update this information.
   
-|||
 |:-----|:-----|
 |![I forgot the username or password for the account I use with Office.](../media/d0ee024e-999d-438b-b72d-2e1779cf7f83.png)           <br/> |To change the address or country associated with your bill or subscription, see [Change your billing addresses for Office 365 for business](../subscriptions-and-billing/change-your-billing-addresses.md).  <br/> |
    
 ## Edit organization information
 
- **IMPORTANT**: It's impossible to change the country or region for your subscription. Instead, sign up for a new Office 365 account, and enter the desired country. 
+ > [!IMPORTANT]
+> It's impossible to change the country or region for your subscription. Instead, sign up for a new Office 365 account, and enter the desired country. 
   
 Why is it impossible to change this information? Because the country or region where your company is headquartered determines which services are available to you, the taxes and billing currency, and the location of the data center.
   
@@ -71,12 +68,10 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
     An explanation of each field is provided below.
     
 ## What do these fields mean?
-<a name="bkmk_what"> </a>
 
 |
 |
 |**Field**|**Description**|
-|:-----|:-----|
 |Name  <br/> | The name entered here is what users will see on the following pages:  <br/>  Sign-in page: If your users have set up other Microsoft accounts with their business or school email address, they may see the organization name on the sign-in page. This helps them distinguish between their work or school account and their other accounts, so they can identify which one to use when they sign in.  <br/>  Organization profile link and page: The link to your organization's profile displays the organization name.  <br/>  Yammer navigation: In Yammer, the left navigation uses the organization name as the name of the home Yammer network.  <br/> |
 |Address, City, State/Province, Postal code  <br/> |The address entered here is what you will see on your bill, under Sold To: The Sold To address on your bill is the same as your organization address on your profile page (see [Understand my bill for Office 365 for business](../subscriptions-and-billing/understand-your-invoice.md)).  <br/> |
 |Country or region  <br/> |This is the country or region where the company is headquartered. The selected country or region determines which services are available to you, the taxes and billing currency for your country or region, and the location of the data center closest to you (see [Microsoft Office license restrictions](https://office.microsoft.com/redir/FX103037529)).  <br/> > [!NOTE]> Once selected, the country or region cannot be changed. If you want to change the selection, you'll have to cancel your subscription and sign up again. For help with this process, contact [customer support](https://go.microsoft.com/fwlink/p/?linkid=518322).           |
@@ -85,7 +80,6 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 |Preferred language  <br/> |The preferred language determines the language for all communications that are sent from Microsoft to your organization. When you sign up, this setting determines the language used by SharePoint Online, which your users see on your team site. If you change the language preference setting after you sign up, all future communications are sent in the most recent language selected.  <br/> > [!NOTE]> The language used by SharePoint Online can't be changed.           |
    
 ## Change your profile and email signature
-<a name="__info_you_can_t"> </a>
 
 - **Admin info**
   
