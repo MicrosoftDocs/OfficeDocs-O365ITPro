@@ -113,7 +113,7 @@ This example turns Focused Inbox **Off** for Tim Matthews in the Contoso organiz
 1. 
 ::: moniker range="o365-worldwide"
 
-Go to the [![Click here to go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
