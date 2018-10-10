@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Pitcairn Islands
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -29,5 +28,3 @@ Technical Support:
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-
-

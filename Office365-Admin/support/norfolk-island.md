@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Norfolk Island
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -29,5 +28,3 @@ English: Mon-Fri 12 PM-8 PM
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-
-

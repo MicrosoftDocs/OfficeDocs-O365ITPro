@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Cape Verde (Cabo Verde)
 author: cmcatee-MSFT
 ms.author: cmcatee

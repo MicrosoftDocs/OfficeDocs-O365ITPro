@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Georgia
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -39,5 +38,3 @@ Russian: Mon-Fri 7 AM-8 PM Moscow
 English: 24 hours a day, 7 days a week
 
 Local call charges apply
-
-

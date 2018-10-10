@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Australia
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -30,6 +29,4 @@ English: 24 hours a day, 7 days a week
 
 Alternative Phone Number: 02 8223 9959
 
-(Local call charges apply)
-
-
+Local call charges apply

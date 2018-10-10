@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Haiti
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -33,5 +32,3 @@ French: Mon-Fri 2 AM-3 PM
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-
-

@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Puerto Rico
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -31,7 +30,3 @@ English: Mon-Fri 9 AM-5 PM
 Spanish: 24 hours a day, 7 days a week
 
 English: 24 hours a day, 7 days a week
-
-
-
-

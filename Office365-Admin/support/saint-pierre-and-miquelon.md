@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Saint Pierre and Miquelon
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -33,5 +32,3 @@ French: Mon-Fri 5 AM-6 PM
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-
-

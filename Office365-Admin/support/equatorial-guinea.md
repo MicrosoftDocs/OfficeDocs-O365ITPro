@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Equatorial Guinea
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -33,5 +32,3 @@ Spanish: Mon-Fri 8 AM-9 PM
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-
-

@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Gibraltar
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -29,5 +28,3 @@ English: Mon-Fri 11 AM-7 PM
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-
-

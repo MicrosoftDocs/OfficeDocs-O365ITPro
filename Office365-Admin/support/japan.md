@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Japan
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -51,4 +50,3 @@ Local call charges apply
 03 4332 5493 (Office 365 Enterprise)
 
 03 4332 6257 (Other Plans)
-

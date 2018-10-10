@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Timor-Leste
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -33,5 +32,3 @@ Portuguese: 24 hours a day, between Mon noon and Sat noon
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-
-

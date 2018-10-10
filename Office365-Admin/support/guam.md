@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Guam
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -29,10 +28,3 @@ English: Mon-Fri 3 AM-12 PM
 English: 24 hours a day, 7 days a week
 
 Local call charges apply
-
-
-
-
-
-
-

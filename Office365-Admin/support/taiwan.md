@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Taiwan
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -35,5 +34,3 @@ English: 24 hours a day, 7 days a week
 Alternative Phone Number: 02 2656 7301
 
 Local call charges apply
-
-

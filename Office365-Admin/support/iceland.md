@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Iceland
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -27,7 +26,3 @@ English: Mon-Fri 8 AM-4 PM
 ### Technical Support:
 
 English: 24 hours a day, 7 days a week
-
-
-
-

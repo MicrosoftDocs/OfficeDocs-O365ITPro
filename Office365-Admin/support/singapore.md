@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Singapore
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -31,5 +30,3 @@ English: 24 hours a day, 7 days a week
 Alternative Phone Number: 6622 1855
 
 Local call charges apply
-
-

@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Belgium
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -36,6 +35,4 @@ English: 24 hours a day, 7 days a week
 
 Alternative Phone Number: 02 200 88 84
 
-(Local call charges apply)
-
-
+Local call charges apply

@@ -3,7 +3,6 @@ title: "Add, update, or remove a credit card or bank account in Office 365 for b
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -61,6 +60,7 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 
 > [!NOTE]
 >  You don't need the CVV/CVN code to update the details of an existing credit card. 
+> 
 >  You can't change the number on an existing credit card or bank account. If for some reason the credit card or bank account number has changed, add it as a new credit card or bank account, select it as the payment option for your subscription, then remove the existing credit card or bank account. 
   
 1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
@@ -136,7 +136,8 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
   
 4. Choose **Submit**. If the credit card or bank account that you want to use isn't listed yet, choose **New credit card** or **New bank account** to add it. 
     
-    > [!VIDEO https://www.microsoft.com/videoplayer/embed/852072f0-ed6d-4589-a2b4-4dfe6e9394e3?autoplay=false]
+
+[!VIDEO https://www.microsoft.com/videoplayer/embed/852072f0-ed6d-4589-a2b4-4dfe6e9394e3?autoplay=false]
   
 ## Troubleshooting credit cards and bank accounts
 <a name="BKMK_TroubleshootCreditCards"> </a>
@@ -144,7 +145,7 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 |**Issue**|**Troubleshooting steps**|
 |:-----|:-----|
 |**I get an error message that says "The browser is currently set to block cookies."** <br/> |Set your browser to allow third-party cookies and try again.  <br/> |
-|**My credit card was declined.** <br/> |If you pay by credit card, and your credit card is declined, you'll receive an email letting you know that we were unable to process the payment. Double-check that the credit card details - card number, expiration date, name on the credit card, and address, including city, state, and ZIP code - appear exactly as they do on the credit card and your credit card statement. You can update your credit card information and immediately submit the payment by using the **Pay now** button on the **Subscriptions** page. For more information, see "What if my credit card has expired and my payment is past due?" in [Pay for your Office 365 for business subscription](pay-for-your-subscription.md).  <br/>  If you continue to see the "declined" message, contact your bank. It's possible that your credit card isn't active—for example, if you recently received the credit card in the mail with an updated expiration date, you may still need to activate it. Your bank can also tell you if your credit card is not approved for online, international, or recurring transactions.  <br/> |
+|**My credit card was declined.** <br/> |If you pay by credit card, and your credit card is declined, you'll receive an email letting you know that we were unable to process the payment. Double-check that the credit card details - card number, expiration date, name on the credit card, and address, including city, state, and ZIP code - appear exactly as they do on the credit card and your credit card statement. You can update your credit card information and immediately submit the payment by using the **Pay now** button on the **Subscriptions** page. For more information, see "What if my credit card has expired and my payment is past due?" in [Pay for your Office 365 for business subscription](pay-for-your-subscription.md).  <br/><br/>  If you continue to see the "declined" message, contact your bank. It's possible that your credit card isn't active—for example, if you recently received the credit card in the mail with an updated expiration date, you may still need to activate it. Your bank can also tell you if your credit card is not approved for online, international, or recurring transactions.  <br/> |
 |**I need to update a credit card or bank account number.** <br/> |You can't change the number on an existing credit card or bank account. If for some reason your credit card or bank account number has changed, first delete the existing credit card or bank account, then add a new one.  <br/> |
 |**I only have one credit card or bank account on my account and I want to remove it.** <br/> |If you only have one credit card or bank account, you'll get an error message when you try to remove it. To fix this, make sure that you're using a different payment method to pay for all of your subscriptions, then try removing the credit card or bank account again.  <br/> |
 |**I can't add my credit card or bank account.** <br/> |If you have trouble entering your credit card or bank account information, you can [contact support](../contact-support-for-business-products.md).  <br/> |

@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Tanzania
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -33,5 +32,3 @@ English: Mon-Fri 10 AM-6 PM
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-
-

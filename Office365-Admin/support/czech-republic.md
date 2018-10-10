@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Czech Republic
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -34,6 +33,4 @@ English: 24 hours a day, 7 days a week
 
 Alternative Phone Number: 239 016 433
 
-(Local call charges apply)
-
-
+Local call charges apply

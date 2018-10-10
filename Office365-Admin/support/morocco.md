@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Morocco
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -41,5 +40,3 @@ French: Mon-Fri 7 AM-8 PM
 English: 24 hours a day, 7 days a week
 
 Local call charges apply
-
-

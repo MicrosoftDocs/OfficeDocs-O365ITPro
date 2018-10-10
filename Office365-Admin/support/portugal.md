@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Portugal
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -33,5 +32,3 @@ English: 24 hours a day, 7 days a week
 Alternative Phone Number: 21 366 5030
 
 Local call charges apply
-
-

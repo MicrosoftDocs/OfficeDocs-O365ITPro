@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Lebanon
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -39,5 +38,3 @@ Arabic: Sun-Thu 10 AM-6 PM
 English: 24 hours a day, 7 days a week
 
 Local call charges apply
-
-

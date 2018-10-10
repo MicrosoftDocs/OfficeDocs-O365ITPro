@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Hungary
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -32,6 +31,4 @@ English: 24 hours a day, 7 days a week
 
 Alternative Phone Number: +36 1 778 9292
 
-(Local call charges apply)
-
-
+Local call charges apply

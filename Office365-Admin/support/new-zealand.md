@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for New Zealand
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -31,5 +30,3 @@ English: 24 hours a day, 7 days a week
 Alternative Phone Number: 09 912 7298
 
 Local call charges apply
-
-

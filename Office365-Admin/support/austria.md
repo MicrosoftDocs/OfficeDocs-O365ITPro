@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Austria
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -34,6 +33,4 @@ English: 24 hours a day, 7 days a week
 
 Alternative Phone Number: 01 206 09 15 78
 
-(Local call charges apply)
-
-
+Local call charges apply

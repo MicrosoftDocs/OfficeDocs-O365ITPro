@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Marshall Islands
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -29,4 +28,3 @@ English: Mon-Fri 1 PM-9 PM
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-

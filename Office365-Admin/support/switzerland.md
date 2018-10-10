@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Switzerland
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -43,5 +42,3 @@ English: 24 hours a day, 7 days a week
 Alternative Phone Number: 022 76 141 14
 
 Local call charges apply
-
-

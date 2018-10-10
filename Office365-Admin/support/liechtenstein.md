@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Liechtenstein
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -34,6 +33,4 @@ English: 24 hours a day, 7 days a week
 
 Alternative Phone Number: +41 22 76 141 14
 
-(Local call charges apply)
-
-
+Local call charges apply

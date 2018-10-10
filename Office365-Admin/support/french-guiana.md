@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for French Guiana
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -33,5 +32,3 @@ French: Mon-Fri 4 AM-5 PM
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-
-

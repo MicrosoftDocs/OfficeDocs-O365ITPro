@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Guyana
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -29,10 +28,3 @@ English: Mon-Fri 9 AM-5 PM
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-
-
-
-
-
-
-

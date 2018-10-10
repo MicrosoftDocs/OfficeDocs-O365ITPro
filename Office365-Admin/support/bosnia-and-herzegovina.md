@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Bosnia and Herzegovnia
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -34,6 +33,4 @@ English: 24 hours a day, 7 days a week
 
 Alternative Phone Number: +387 33 606 100
 
-(International call charges apply)
-
-
+International call charges apply

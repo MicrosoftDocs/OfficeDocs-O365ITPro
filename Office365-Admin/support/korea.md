@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Korea
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -35,5 +34,3 @@ English: 24 hours a day, 7 days a week
 Alternative Phone Number: 02 3483 1937
 
 Local call charges apply
-
-

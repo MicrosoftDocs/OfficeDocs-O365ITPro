@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Hong Kong SAR
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -37,5 +36,3 @@ Mandarin: Mon-Fri 9 AM-6 PM
 English: 24 hours a day, 7 days a week
 
 Local call charges apply
-
-

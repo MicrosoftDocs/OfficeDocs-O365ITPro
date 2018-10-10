@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Ghana
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -33,5 +32,3 @@ English: Mon-Fri 8 AM-4 PM
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-
-

@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Congo
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -37,5 +36,3 @@ French: Mon-Fri 8 AM-9 PM
 English: 24 hours a day, 7 days a week
 
 Local call charges apply
-
-
