@@ -26,8 +26,7 @@ description: "Learn to make changes to your Office 365 company profile, such as 
   
 You can make changes to your Office 365 company profile, such as your organization name, address, phone, and technical contact. You must be a global admin to update this information.
   
-|:-----|:-----|
-|![I forgot the username or password for the account I use with Office.](../media/d0ee024e-999d-438b-b72d-2e1779cf7f83.png)           <br/> |To change the address or country associated with your bill or subscription, see [Change your billing addresses for Office 365 for business](../subscriptions-and-billing/change-your-billing-addresses.md).  <br/> |
+To change the address or country associated with your bill or subscription, see [Change your billing addresses for Office 365 for business](../subscriptions-and-billing/change-your-billing-addresses.md).
    
 ## Edit organization information
 
@@ -38,8 +37,7 @@ Why is it impossible to change this information? Because the country or region w
   
 To other change information on your company's profile page:
   
-1. 
-::: moniker range="o365-worldwide"
+1. ::: moniker range="o365-worldwide"
 
 Go to the [![Click here to go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
