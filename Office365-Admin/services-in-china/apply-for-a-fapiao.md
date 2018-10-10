@@ -56,7 +56,7 @@ There are two ways to apply for a Fapiao:
     > [!NOTE]
     > The payment system is on a third-party platform and takes three days to synchronize the order and payment record. 
   
-![The Fapiao management system page that displays recent orders.](../media/b319767d-1d10-4cb4-b270-c5fbcee1368e.png)
+    ![The Fapiao management system page that displays recent orders.](../media/b319767d-1d10-4cb4-b270-c5fbcee1368e.png)
   
 3. Select the Fapiao type, enter the required information, then choose **Next**.
     

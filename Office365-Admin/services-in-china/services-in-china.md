@@ -118,7 +118,7 @@ If you would like to learn how to get started with general Office 365 services, 
 ## Exchange
 <a name="__exchange"> </a>
 
- New with Exchange 2013 Cumulative Update 5 (CU5), full-featured hybrid deployments between on-premises Exchange 2013 organizations and Office 365 services are now supported. Leveraging new improvements in the Hybrid Configuration wizard, Exchange 2013 CU5 supports the following hybrid features between your on-premises and Exchange Online organizations:  <br/><br/>   
+ New with Exchange 2013 Cumulative Update 5 (CU5), full-featured hybrid deployments between on-premises Exchange 2013 organizations and Office 365 services are now supported. Leveraging new improvements in the Hybrid Configuration wizard, Exchange 2013 CU5 supports the following hybrid features between your on-premises and Exchange Online organizations:  
 
 - Secure mail routing between on-premises and Exchange Online organizations. 
 - Mail routing with a shared domain namespace. For example, both on-premises and Exchange Online organizations use the @contoso.com SMTP domain. 
