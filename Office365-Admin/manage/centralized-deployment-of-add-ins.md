@@ -111,8 +111,8 @@ When the tool finishes running, it produces an output file in comma-separated (.
 The simplest way to detect if a user has Office 365 ProPlus installed and has been using it recently is to use the Microsoft Office Activations report, which is available in the Office 365 admin center. The report provides a list of all users who have activated Office 365 ProPlus within the last 7 days, 30 days, 90 days, or 180 days. For centralized deployment purposes, the desktop activations for Windows or Mac are the important columns in the report. You can export the report to Excel. For more information about the report, see [Office 365 Reports in the Admin Center - Microsoft Office activations](../activity-reports/microsoft-office-activations.md).
   
 If you don't want to use the Activations report, you can ask a user to open on their machine an Office application, such as Word, and then choose **File** \> **Account**. Under **Product Information**, you should see **Subscription Product** and **Microsoft Office 365 ProPlus**, as shown in the following image.
-  
-![Screenshot of part of the Product Information section in an Office application. Shows the application is a Subscription Product for Office 365 ProPlus.](../media/4bff2bb8-0690-4d22-ac1f-b8881807fa39.png)
+
+![Product information in an Office application](../media/4bff2bb8-0690-4d22-ac1f-b8881807fa39.png)
   
 For help with Office 365 ProPlus, see [Troubleshooting tips for Office 365 ProPlus](https://go.microsoft.com/fwlink/p/?linkid=846339).
   
