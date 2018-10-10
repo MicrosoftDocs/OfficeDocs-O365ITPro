@@ -294,9 +294,9 @@ Save time by starting your service request online. We'll help you find a solutio
 
 1. [Sign in with your Office 365 admin account](https://aka.ms/admincenter). If you get the message "**You don't have permission to access this page or perform this action**" then you aren't an Office 365 admin. [Who has admin permissions in my business?](overview-0/admin-overview.md#bkmk_admin).
     
-2. In the [Office 365 admin center](https://go.microsoft.com/fwlink/p/?linkid=837890), go to **Support** \> **New Service request**. 
-    
-3. In the **Need help?** pane, tell us what you need help with and press **Enter**. 
+2. In the [Office 365 admin center](https://go.microsoft.com/fwlink/p/?linkid=837890), choose the **Need help?** button.
+
+3. In the **Need help?** pane, tell us what you need help with, then press **Enter**. 
     
 4. If the results don't help, choose **Let us call you**. Confirm your contact number, then press **Call me**. The expected wait time for a call back is indicated in the **Need help?** pane. 
     

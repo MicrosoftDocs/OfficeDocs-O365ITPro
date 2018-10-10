@@ -59,6 +59,6 @@ After purchasing a new subscription, you'll need to assign the users who you wan
     
 ## Related topics
 
-[Assign licenses to user](assign-licenses-to-users.md)
+[Assign licenses to users](assign-licenses-to-users.md)
   
 [Remove licenses from users](remove-licenses-from-users.md)

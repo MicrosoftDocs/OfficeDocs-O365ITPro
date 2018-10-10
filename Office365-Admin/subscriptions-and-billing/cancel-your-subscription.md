@@ -60,7 +60,7 @@ If you switched your nameserver (NS) records to Office 365 when you set up your 
   
 If you didn't switch NS records when you set up your domain, when you change the MX record, your mail will start going to the new address right away.
   
-For more information, see [How does Office 365 manage my DNS records?](../setup/domains-faq.md#how-does-office-365-manage-my-dns-records). To change your NS records, see "Custom DNS records for the domain" in [Remove a domain from Office 365](../get-help-with-domains/remove-a-domain.md).
+For more information, see [How does Office 365 manage my DNS records?](../setup/domains-faq.md#how-does-office-365-manage-my-dns-records). To change your NS records, see [Remove a domain from Office 365](../get-help-with-domains/remove-a-domain.md).
   
 ## Step 1: Save your data
 
@@ -88,13 +88,13 @@ If you added your own domain name to use with your subscription, you must remove
   
 4. Review the important dates, provide feedback about why you are cancelling, then choose **Cancel subscription**.
     
-    Your subscription will now appear in a **Disabled** state, and will have reduced functionality until it is deleted. For more information about what you can expect when a paid Office 365 for business subscription is cancelled, see [What happens to my data and access when my Office 365 for business subscription ends?](what-if-my-subscription-expires-0.md)
+    Your subscription will now appear in a **Disabled** state, and will have reduced functionality until it is deleted. For more information about what you can expect when a paid Office 365 for business subscription is cancelled, see [What happens to my data and access when my Office 365 for business subscription ends?](what-if-my-subscription-expires.md)
     
 ## Step 3: Uninstall Office (optional)
 
 If you cancelled your subscription, and didn't move users to a different subscription that includes Office, Office 365 will run in reduced functionality mode. When this happens, users can only read and print documents, and Office 365 applications will show [Unlicensed Product notifications](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx). To avoid any confusion, have your users [uninstall Office](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) from their machines. 
   
-## See also
+## Related topics
 
 [Renew your subscription](renew-your-subscription.md)
   

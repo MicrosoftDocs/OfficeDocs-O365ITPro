@@ -27,8 +27,8 @@ description: "Purchase an Office 365 for business subscription. You can buy the 
 
 You've tried Office 365, and now you're ready to buy. You have two options when buying Office 365 from your trial version:
   
-- Buy the same plan as your trial
-- Buy a different plan than your trial
+- [Buy the same plan as your trial](#buy-the-same-plan-as-your-trial)
+- [Buy a different plan than your trial](#buy-a-different-plan-than-your-trial)
     
 ## Buy the same plan as your trial
 

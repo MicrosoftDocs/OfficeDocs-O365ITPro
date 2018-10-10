@@ -32,19 +32,19 @@ In most cases, these addresses are the same. If you need to change one or more o
   
 ::: moniker range="o365-worldwide"
 
-To learn more about your bill or invoice, see [View your bill or invoice for Office 365 for business](view-your-bill-or-invoice.md) and [Understand your invoice for Office 365 for business](understand-your-invoice.md).
+To learn more about your bill or invoice, see [View your bill or invoice](view-your-bill-or-invoice.md) and [Understand your invoice](understand-your-invoice.md).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-To learn more about your bill or invoice, see [View your bill or invoice for Office 365 for business](view-your-bill-or-invoice.md) and [Understand your invoice for Office 365 for business](understand-your-invoice.md).
+To learn more about your bill or invoice, see [View your bill or invoice](view-your-bill-or-invoice.md) and [Understand your invoice](understand-your-invoice.md).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-If you're using Office 365 operated by 21Vianet in China, see [View your bill or get Fapiaos in Office 365 operated by 21Vianet](../services-in-china/view-your-bill-or-get-a-fapiao.md).
+If you're using Office 365 operated by 21Vianet in China, see [View your bill or get Fapiaos for Office 365 operated by 21Vianet](../services-in-china/view-your-bill-or-get-a-fapiao.md).
 
 ::: moniker-end
 
@@ -139,7 +139,7 @@ To change the **Sold-To** address, see [Change your organization's address, tech
 
 By default, your organization's billing notifications are sent to the Office 365 email address and the alternate email address of every global and billing admin in your organization. Each admin can change their alternate email address by updating their profile information.
   
-1. Sign in to Office 365 with your work or school account as a global admin. [Learn how to sign in](where-to-sign-in.md).
+1. Sign in to Office 365 with your work or school account as a global admin. [Learn how to sign in](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
     
 2. Select the **User icon**, and choose **View account**.
     
