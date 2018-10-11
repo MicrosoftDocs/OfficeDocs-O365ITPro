@@ -221,7 +221,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
         - **主机名** (host name): **sip**
     
-        - ** 指向到 ** (points to): **sipdir.online.partner.lync.cn**
+        - **指向到** (points to): **sipdir.online.partner.lync.cn**
     
     3. Click **增加** (add). 
     
