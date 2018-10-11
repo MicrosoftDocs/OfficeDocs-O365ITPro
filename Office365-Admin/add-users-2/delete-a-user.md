@@ -63,7 +63,7 @@ Since the guided experience walks through the delete user process, here are the 
 1. 
 ::: moniker range="o365-worldwide"
 
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+Go to the [![Go to the Office 365 admin center](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).  
 
 ::: moniker-end
 
@@ -79,21 +79,17 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
-2. In the Admin center, select **Users**.
-    
-    ![Click on User.](../media/1596dc50-1d06-4b3a-83c3-2791d0856d6f.png)
+2. In the Admin center, select **Users**.  
+     ![Click on User](../media/1596dc50-1d06-4b3a-83c3-2791d0856d6f.png)
   
 3. On the **Active Users** page, choose the names of the users that you want to delete, and then select **Delete user**.
     
-    Your screen might look like either of the following:
+    Your screen might look like either of the following:  
     
-|||
-|:-----|:-----|
-|![Delete a user in Office 365.](../media/f1a7c975-bdb9-4533-94ed-cd227832f071.png)           <br/> |![Delete a user in Office 365.](../media/3eba7fa2-8cbe-43c1-b9fc-61556ec53fc3.png)           <br/> |
-   
-    Although you deleted the user's account, **you're still paying for the license**. See the next procedure to stop paying for the license. 
-    
-    Or, you can assign the license to another user. It won't be assigned to someone automatically.
+    ![Delete a user in Office 365](../media/f1a7c975-bdb9-4533-94ed-cd227832f071.png)           <br/> 
+    Or,  
+    ![Delete a user in Office 365](../media/3eba7fa2-8cbe-43c1-b9fc-61556ec53fc3.png)           <br/>  
+     Although you deleted the user's account, **you're still paying for the license**. See the next procedure to stop paying for the license.   Or, you can assign the license to another user. It won't be assigned to someone automatically.
     
 ### Stop paying for the license
 <a name="bkmk_stop"> </a>
@@ -102,10 +98,10 @@ If you are a User management admin, reducing the number of licenses is a separat
   
 1. In the Office 365 admin center, choose **Billing** \> **Subscriptions**. If you don't see this option, you aren't a global admin and can't do this step. 
     
-2. Choose the subscription (if you have more than one) and then choose **Add/Remove licenses** to delete the license so you don't pay for it until you hire another person. 
-    
-    ![Use the arrows to delete licenses from your subscription.](../media/40b7fdb8-09a9-4b1e-8473-832038a214bf.png)
-  
+2. Choose the subscription (if you have more than one) and then choose **Add/Remove licenses** to delete the license so you don't pay for it until you hire another person.  
+
+    ![Use the arrows to delete licenses from your subscription](../media/40b7fdb8-09a9-4b1e-8473-832038a214bf.png)  
+
     Later when you go through the steps to add another person to your business, you'll be prompted to buy a license at the same time, with just one click!
     
 ## Delete many users at the same time
