@@ -71,9 +71,9 @@ If you need help interpreting the charges you see on your bill, see [Understand 
 
 By default, you will receive a copy of your billing statement as an email attachment. You can choose to stop receiving a copy by email.
   
-1. In the Admin Center, go to the [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page, or choose **Billing** \> **Billing notifications**.
+1. In the Admin Center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=853212" target="_blank">Billing notifications</a> page, or choose **Billing** \> **Billing notifications**.
     
-    If you're using Office 365 Germany, go to this [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853213) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=853213" target="_blank">Billing notifications</a> page. 
     
 2. Under **Receive billing statement as email attachment?**, switch the toggle to **Off**.
     

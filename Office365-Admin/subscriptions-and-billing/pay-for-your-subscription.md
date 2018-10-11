@@ -3,7 +3,6 @@ title: "Pay for your Office 365 for business subscription"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -27,15 +26,14 @@ description: "Learn what payment options are available to pay for your Office 36
 
 # Pay for your Office 365 for business subscription
 
-When you set up your Office 365 for business subscription, you can choose to pay by using credit card or bank account payments, or to pay by invoice using check or electronic funds transfer (EFT) . Whichever method you choose, that is the payment method we will continue to use for subsequent billing periods, unless you [change your payment method](change-payment-method.md).
+When you set up your subscription, you can choose to pay by using credit card or bank account payments, or to pay by invoice using check or electronic funds transfer (EFT) . Whichever method you choose, that is the payment method we will continue to use for subsequent billing periods, unless you [change your payment method](change-payment-method.md).
   
 > [!NOTE]
 > Paying by bank account is not available in some countries or regions. 
   
 ## Pay by credit card or bank account
-<a name="BKMK_CreditCardsWork"> </a>
 
-When you pay by credit card or bank account, you'll be automatically charged for your Office 365 subscription the day after the invoice date, until the end of your subscription term. You can [update your credit card or bank account information](add-update-or-remove-credit-card-or-bank-account.md) whenever you need to. You can also choose to [Receive a copy of your billing statement in email](pay-for-your-subscription.md#BKMK_StatementEmail).
+When you pay by credit card or bank account, you'll be automatically charged for your subscription the day after the invoice date, until the end of your subscription term. You can [update your credit card or bank account information](add-update-or-remove-credit-card-or-bank-account.md) whenever you need to. You can also choose to [Receive a copy of your billing statement in email](#receive-a-copy-of-your-billing-statement-in-email).
   
 ### What if my credit card was declined and my payment is past due?
 
@@ -44,15 +42,15 @@ If you pay by credit card, and your credit card is declined, you'll receive an e
 > [!NOTE]
 > If you switch to a different credit card to pay the outstanding balance on your subscription, that card will be charged for all future automatic payments for that subscription. 
   
-When you sign in to the Office 365 admin center, you might see the following alert on the home page:
+When you sign in to the Admin center, you might see the following alert on the home page:
   
 ![The Billing widget on the Admin Center home page showing a past due balance.](../media/67389c51-8e36-4d3a-89e6-bee580050a9b.png)
   
  **To pay your outstanding balance**
   
-1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
-    If you're using Office 365 Germany, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     
 2. Choose the subscription that you want to change. In the **My bill** section, choose **Pay now**.
     
@@ -70,21 +68,20 @@ When you sign in to the Office 365 admin center, you might see the following ale
 5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, choose **Submit**. You'll see a confirmation message that says "Your payment method has been updated and all outstanding charges are settled. Thank you."
     
 ## Pay by invoice (check or EFT)
-<a name="BKMK_Invoicing"> </a>
 
-If your Office 365 subscription costs over a certain amount of money (this amount varies by service location), you'll have the option to pay by invoice by using a check or EFT. A credit check may be required for larger invoice payments. If a credit check is required, you'll be notified when you purchase your subscription. And, if you agree to be contacted, you'll get an email that includes more information about applying for credit approval. Credit checks are usually completed within two business days.
+If your subscription costs over a certain amount of money (this amount varies by service location), you'll have the option to pay by invoice by using a check or EFT. A credit check may be required for larger invoice payments. If a credit check is required, you'll be notified when you purchase your subscription. And, if you agree to be contacted, you'll get an email that includes more information about applying for credit approval. Credit checks are usually completed within two business days.
   
-If you pay by invoice for your subscription, you'll get an email that says your billing statement is ready to view. This email does not contain a copy of your billing statement. However, you can also choose to [Receive a copy of your billing statement in email](pay-for-your-subscription.md#BKMK_StatementEmail). Your billing statement includes details about your options for making a payment. If you enter a purchase order (PO) number when you buy a subscription, the number appears on your billing statement. For information about accessing billing statements, see [View your bill or invoice for Office 365 for business](view-your-bill-or-invoice.md). 
+If you pay by invoice for your subscription, you'll get an email that says your billing statement is ready to view. This email does not contain a copy of your billing statement. However, you can also choose to [Receive a copy of your billing statement in email](#receive-a-copy-of-your-billing-statement-in-email). Your billing statement includes details about your options for making a payment. If you enter a purchase order (PO) number when you buy a subscription, the number appears on your billing statement. For information about accessing billing statements, see [View your bill or invoice](view-your-bill-or-invoice.md). 
   
 > [!NOTE]
-> By default, your organization's billing notifications are sent to the Office 365 email address and the alternate email address of every global and billing admin in your organization. To change the alternate email address, see [Change your billing addresses for Office 365 for business](change-your-billing-addresses.md). 
+> By default, your organization's billing notifications are sent to the Office 365 email address and the alternate email address of every global and billing admin in your organization. To change the alternate email address, see [Change your billing addresses](change-your-billing-addresses.md). 
   
 ### Can I pay my bill online?
 
-Unfortunately, if your subscription is set up to pay by invoice, we can't accept online payments directly. You can, however, [change your payment method to credit card or bank account](change-payment-method.md), and the amount due will be automatically charged to your card or account after each service period. For Azure, see [How to change the credit card used to pay for an Azure subscription]( http://go.microsoft.com/fwlink/p/?LinkId=718057).
+Unfortunately, if your subscription is set up to pay by invoice, we can't accept online payments directly. You can, however, [change your payment method to credit card or bank account](change-payment-method.md), and the amount due will be automatically charged to your card or account after each service period. For Azure, see [How to change the credit card used to pay for an Azure subscription](http://go.microsoft.com/fwlink/p/?LinkId=718057).
   
 > [!NOTE]
-> If you're switching to pay by automatic credit card payments, be sure to first pay all outstanding balances. Check your billing statement for payment options and instructions. For more information, see [Understand your invoice for Office 365 for business](understand-your-invoice.md). 
+> If you're switching to pay by automatic credit card payments, be sure to first pay all outstanding balances. Check your billing statement for payment options and instructions. For more information, see [Understand your invoice](understand-your-invoice.md). 
   
 ### Where do I send my check or EFT payment?
 
@@ -128,7 +125,7 @@ If you're not sure how much you owe, you can [check your bill and billing histor
 > - [China (PRC)](pay/china--prc-.md)
 > - [Colombia](pay/colombia.md)
 > - [Costa Rica](pay/costa-rica.md)
-> - [Côte d'Ivoire](pay/côte-d'ivoire.md)
+> - [Côte d'Ivoire](pay/cote-d'ivoire.md)
 > - [Croatia](pay/croatia.md)
 > - [Curacao](pay/curacao.md)
 > - [Cyprus](pay/cyprus.md)
@@ -250,36 +247,29 @@ If you're not sure how much you owe, you can [check your bill and billing histor
 > - [Zimbabwe](pay/zimbabwe.md)
   
 ## Receive a copy of your billing statement in email
-<a name="BKMK_StatementEmail"> </a>
 
 You can choose to receive a copy of your billing statement as an email attachment. If you do, be aware that:
   
 - An email will be sent to both the primary and alternate email address for every person listed as a notification recipient.
     
-- You will receive two separate emails: one that lets you know that your bill is ready, with instructions to log on to the Office 365 Admin portal to view it, and a second email that contains the billing statement as an attachment.
+- You will receive two separate emails: one that lets you know that your bill is ready, with instructions to log on to the Admin center to view it, and a second email that contains the billing statement as an attachment.
     
  **To receive your billing statement in email**
   
-1. In the admin center, go to the [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page, or choose **Billing** \> **Billing notifications**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=853212" target="_blank">Billing notifications</a> page, or choose **Billing** \> **Billing notifications**.
     
-    If you're using Office 365 Germany, go to this [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853213) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=853213" target="_blank">Billing notifications</a> page. 
     
 2. Under **Do you want to receive the billing statement as an email attachment?**, switch the toggle to **On**.
     
     You can stop receiving the billing statement emails at any time by switching the toggle to **Off**.
     
 ## Need to switch payment methods?
-<a name="BKMK_StatementEmail"> </a>
 
-If your original reasons for choosing invoice, credit card, or bank account have changed, for example, if you adjust your subscription so that the payment amount is lower so that you no longer qualify for invoice payments, you can change your payment method. For more information, see [Change your payment method for Office 365](change-payment-method.md).
-  
-If your original reasons for choosing invoice or credit card have changed, for example, if you adjust your subscription so that the payment amount is lower so that you no longer qualify for invoice payments, you can change your payment method. For more information, see [Change your payment method for Office 365](change-payment-method.md).
+If your original reasons for choosing invoice, credit card, or bank account have changed, for example, if you adjust your subscription so that the payment amount is lower so that you no longer qualify for invoice payments, you can change your payment method. For more information, see [Change your payment method](change-payment-method.md).
   
 ## Related topics
-<a name="BKMK_ContactSupport"> </a>
 
-[Add, update, or remove a credit card or bank account in Office 365 for business](add-update-or-remove-credit-card-or-bank-account.md)
+[Add, update, or remove a credit card or bank account](add-update-or-remove-credit-card-or-bank-account.md)
   
-[Understand your invoice for Office 365 for business](understand-your-invoice.md)
-  
-[Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
+[Understand your invoice](understand-your-invoice.md)

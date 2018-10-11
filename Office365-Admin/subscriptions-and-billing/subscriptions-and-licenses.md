@@ -3,7 +3,6 @@ title: "Understand subscriptions and licenses in Office 365 for business"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: conceptual
 ms.service: o365-administration
@@ -20,7 +19,7 @@ description: "Learn about subscriptions and licenses in Office 365 for business,
 
 # Understand subscriptions and licenses in Office 365 for business
 
-This article explains the relationship between subscriptions and licenses in Office 365 for business, and provides additional information about [Find out who can assign licenses](subscriptions-and-licenses.md#BKMK_WhoCanAssign), [Understand what happens when you assign a license to someone](subscriptions-and-licenses.md#BKMK_WhatHappens), and [How many devices can people install Office on?](subscriptions-and-licenses.md#BKMK_HowManyDevices). It also includes links to [Understand licenses for non-user mailboxes](subscriptions-and-licenses.md#BKMK_NonUserMailboxes), and [Articles about managing licenses for Office 365 for business](subscriptions-and-licenses.md#BKMK_LicensingTopics).
+This article explains the relationship between subscriptions and licenses, and provides additional information about [who can assign licenses](#find-out-who-can-assign-licenses), [understanding what happens when you assign a license to someone](#understand-what-happens-when-you-assign-a-license-to-someone), and [how many devices can people install Office on](#how-many-devices-can-people-install-office-on). It also includes links to [understanding licenses for non-user mailboxes](#understand-licenses-for-non-user-mailboxes), and [articles about managing licenses](#articles-about-managing-licenses-for-office-365-for-business).
   
 When you buy a subscription to Office 365 for business, you sign up for a set of applications and services that you pay for on a monthly or annual basis. 
   
@@ -46,12 +45,11 @@ When someone leaves your organization, you can remove a license from that person
   
 ![Two small user icons with checkmarks, and one with an x next to it, indicating that a license was removed. To the right is a large orange user icon with a plus sign and an arrow pointing to it, indicating that it is replacing the one that was removed.](../media/2c3b5473-72eb-42c3-afe6-6eee2f3a2b0d.png)
   
-If you have more than one Office 365 for business subscription, you can assign licenses to different people for each subscription.
+If you have more than one subscription, you can assign licenses to different people for each subscription.
   
 ![A box for Visio Pro and one for Office 365 Business Premium. Dotted lines connect to four user icons below the boxes.](../media/1e60d97e-c27a-4508-b2f7-f587f4cd7e34.png)
   
 ## Find out who can assign licenses
-<a name="BKMK_WhoCanAssign"> </a>
 
 Different types of admins can work with licenses in different ways, depending on their roles. The following table lists the most common options. For a complete list of admin roles and privileges, see [About admin roles](../add-users-2/about-admin-roles.md).
   
@@ -64,7 +62,6 @@ Different types of admins can work with licenses in different ways, depending on
 |Password admin  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
    
 ## Understand what happens when you assign a license to someone
-<a name="BKMK_WhatHappens"> </a>
 
 The following table lists what automatically happens when you assign a license to someone:
   
@@ -76,7 +73,6 @@ The following table lists what automatically happens when you assign a license t
 |Office 365 ProPlus  <br/> |The person will be able to download Microsoft Office on up to 5 Macs or PCs, 5 tablets, and 5 smartphones.  <br/> |
    
 ## How many devices can people install Office on?
-<a name="BKMK_HowManyDevices"> </a>
 
 If your subscription includes any of the following products, each person can install Office on up to 5 PCs or Mac, 5 tablets, and 5 phones.
   
@@ -91,7 +87,6 @@ If your subscription includes any of the following products, each person can ins
 - Office 365 Enterprise E5
     
 ## Understand licenses for non-user mailboxes
-<a name="BKMK_NonUserMailboxes"> </a>
 
 You don't need to assign licenses to resource mailboxes, room mailboxes, and shared mailboxes, except when they are over their storage quota of 50 gigabytes (GB). For more about non-user mailboxes, see the following articles:
   
@@ -103,8 +98,7 @@ You don't need to assign licenses to resource mailboxes, room mailboxes, and sha
     
 - [Manage Equipment Mailboxes](https://go.microsoft.com/fwlink/p/?linkid=847435)
     
-## Articles about managing licenses for Office 365 for business
-<a name="BKMK_LicensingTopics"> </a>
+## Articles about managing licenses
 
 - [Assign licenses to users](assign-licenses-to-users.md)
     
@@ -114,10 +108,10 @@ You don't need to assign licenses to resource mailboxes, room mailboxes, and sha
     
 - [Buy another subscription](buy-another-subscription.md)
     
-- [Buy or edit an add-on for Office 365 for business](buy-or-edit-an-add-on.md)
+- [Buy or edit an add-on](buy-or-edit-an-add-on.md)
     
 - [Remove licenses from your subscription](remove-licenses-from-subscription.md)
     
 - [Resolve license conflicts](resolve-license-conflicts.md)
     
-- [Manage Yammer user licenses in Office 365](https://support.office.com/article/34a67e3a-3fd8-4e54-bffb-dd5ad0e48590.aspx)
+- [Manage Yammer user licenses](https://docs.microsoft.com/en-us/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)

@@ -55,19 +55,19 @@ If you don't see the **Switch plans** button, your Office 365 for business plan 
 
 ::: moniker range="o365-worldwide"
 
-To use the **Switch plans** button to switch plans automatically, all of your users need to be assigned valid licenses. If you have assigned more licenses than you have purchased, you'll see an alert on the [Licenses](https://go.microsoft.com/fwlink/p/?linkid=842264) page that says you have a licensing conflict that needs to be resolved. [Learn how to resolve license conflicts](../subscriptions-and-billing/resolve-license-conflicts.md). After you have resolved any licensing conflicts, you should see the **Switch plans** button. If not, you can [switch plans manually](switch-plans-manually.md), or [call support](../contact-support-for-business-products.md).
+To use the **Switch plans** button to switch plans automatically, all of your users need to be assigned valid licenses. If you have assigned more licenses than you have purchased, you'll see an alert on the <a href="https://go.microsoft.com/fwlink/p/?linkid=842264" target="_blank">Licenses</a> page that says you have a licensing conflict that needs to be resolved. [Learn how to resolve license conflicts](../subscriptions-and-billing/resolve-license-conflicts.md). After you have resolved any licensing conflicts, you should see the **Switch plans** button. If not, you can [switch plans manually](switch-plans-manually.md), or [call support](../contact-support-for-business-products.md).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-To use the **Switch plans** button to switch plans automatically, all of your users need to be assigned valid licenses. If you have assigned more licenses than you have purchased, you'll see an alert on the [Licenses](https://go.microsoft.com/fwlink/p/?linkid=848038) page that says you have a licensing conflict that needs to be resolved. [Learn how to resolve license conflicts](../subscriptions-and-billing/resolve-license-conflicts.md). After you have resolved any licensing conflicts, you should see the **Switch plans** button. If not, you can [switch plans manually](switch-plans-manually.md), or [call support](../contact-support-for-business-products.md).
+To use the **Switch plans** button to switch plans automatically, all of your users need to be assigned valid licenses. If you have assigned more licenses than you have purchased, you'll see an alert on the <a href="https://go.microsoft.com/fwlink/p/?linkid=848038" target="_blank">Licenses</a> page that says you have a licensing conflict that needs to be resolved. [Learn how to resolve license conflicts](../subscriptions-and-billing/resolve-license-conflicts.md). After you have resolved any licensing conflicts, you should see the **Switch plans** button. If not, you can [switch plans manually](switch-plans-manually.md), or [call support](../contact-support-for-business-products.md).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-To use the **Switch plans** button to switch plans automatically, all of your users need to be assigned valid licenses. If you have assigned more licenses than you have purchased, you'll see an alert on the [Licenses](https://go.microsoft.com/fwlink/p/?linkid=850625) page that says you have a licensing conflict that needs to be resolved. [Learn how to resolve license conflicts](../subscriptions-and-billing/resolve-license-conflicts.md). After you have resolved any licensing conflicts, you should see the **Switch plans** button. If not, you can [switch plans manually](switch-plans-manually.md), or [call support](../contact-support-for-business-products.md).
+To use the **Switch plans** button to switch plans automatically, all of your users need to be assigned valid licenses. If you have assigned more licenses than you have purchased, you'll see an alert on the <a href="https://go.microsoft.com/fwlink/p/?linkid=850625" target="_blank">Licenses</a> page that says you have a licensing conflict that needs to be resolved. [Learn how to resolve license conflicts](../subscriptions-and-billing/resolve-license-conflicts.md). After you have resolved any licensing conflicts, you should see the **Switch plans** button. If not, you can [switch plans manually](switch-plans-manually.md), or [call support](../contact-support-for-business-products.md).
 
 ::: moniker-end
 

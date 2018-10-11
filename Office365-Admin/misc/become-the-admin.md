@@ -25,7 +25,7 @@ description: "Learn to verify your email and domain ownership to become the admi
 
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
   
-### Step 1: Verify your email address
+## Step 1: Verify your email address
 
 1. Enter your email address in the prompt so we can send you a link to join the Office 365 account where your domain is currently added.
     
@@ -33,13 +33,13 @@ description: "Learn to verify your email and domain ownership to become the admi
     
 3. Follow the email link that shows your email address and a **Yes, that's me** button. 
     
-### Step 2: Create a new account
+## Step 2: Create a new account
 
 1. When you follow the **Yes, that's me** link in your email, you'll be brought to a page where you create a new account. 
     
 2. Fill in the user name and password field with what you want to use once you're done and click **Start**. 
     
-### Step 3: Verify domain ownership and become the admin
+## Step 3: Verify domain ownership and become the admin
 
 1. A wizard will open called **"Become the admin"**. If the wizard doesn't start for you look for the **Admin tile** and click on it. 
     

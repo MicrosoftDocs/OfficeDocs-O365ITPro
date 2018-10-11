@@ -3,7 +3,6 @@ title: "Reactivate your subscription"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -23,15 +22,15 @@ description: "Learn how to reactivate your Office 365 subscription when it expir
 
 # Reactivate your subscription
 
-If your subscription expires, or was disabled by Microsoft, or if you cancelled it in the middle of a subscription term, you can reactivate it in the Office 365 admin center.
+If your subscription expires, or was disabled by Microsoft, or if you cancelled it in the middle of a subscription term, you can reactivate it in the Admin center.
   
  **Not an admin?** Contact your administration to reactivate your subscription. 
   
-1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
-    If you're using Office 365 Germany, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=850626) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page. 
     
 2. Choose the subscription that you want to reactivate, then choose **Reactivate**.
     
@@ -41,7 +40,7 @@ If your subscription expires, or was disabled by Microsoft, or if you cancelled 
     
 3. Enter your payment details. You can update your existing payment information here.
     
-  - If your subscription was expired, then after you submit your payment details, your subscription returns to an active state, and the **Next billing** date extends by either one month or one year, depending on your current subscription commitment. If you pay by credit card or bank account, your credit card or bank account will be charged for the extension. If you pay by invoice, you'll see the extension reflected on your next invoice. To make sure that your subscription doesn't expire again, follow the steps to [Turn Recurring billing on or off](renew-your-subscription.md#BKMK_Renew).
+  - If your subscription was expired, then after you submit your payment details, your subscription returns to an active state, and the **Next billing** date extends by either one month or one year, depending on your current subscription commitment. If you pay by credit card or bank account, your credit card or bank account will be charged for the extension. If you pay by invoice, you'll see the extension reflected on your next invoice. To make sure that your subscription doesn't expire again, follow the steps to [Turn Recurring billing on or off](renew-your-subscription.md).
     
     > [!NOTE]
     > The ability to pay by bank account isn't available in some countries or regions. 
