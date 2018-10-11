@@ -78,15 +78,14 @@ You can access eNom, and create DNS, through the Google **Domains** page. Just f
     
 |**HOST**|**TXT VALUE**|**RECORD TYPE**|
 |:-----|:-----|:-----|
-|@  <br/> |
+|@  <br/> ||TXT  <br/> |
 > [!NOTE]
 > This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. 
   
 [How do I find this?](../get-help-with-domains/information-for-dns-records.md)
   
-|TXT  <br/> |
+
    
-    ![Google-Apps-eNom-Configure-1-8](../media/45a39c0f-2845-4edc-a129-0f71610faa33.png)
   
 12. Choose **Save**.
     
