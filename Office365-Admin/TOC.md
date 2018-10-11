@@ -1,6 +1,3 @@
-
-  
-
 # [Admin home](admin-home.md)
 ## [Grow your small business](grow-your-small-business/grow-your-small-business.md)
 ### [Previous webinar videos](grow-your-small-business/previous-webinar-videos.md)
@@ -246,7 +243,6 @@
 ### [Customize help desk](misc/customize-help-desk.md)
 ### [Cortana integration](misc/cortana-integration.md)
 ### [Power BI in your organization](misc/power-bi-in-your-organization.md)
-### [Become admin](misc/become-admin.md)
 ### [Sign up for online services](misc/sign-up-for-online-services.md)
 ### [Become admin and make purchases](misc/become-admin-and-make-purchases.md)
 ### [Solution Provider Partners in Russia](misc/solution-provider-partners-in-russia.md)
