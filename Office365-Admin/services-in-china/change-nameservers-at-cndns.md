@@ -48,9 +48,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
   - **主机名** (host name): **@**
     
-  - ** 记录类型 ** (record type): **TXT记录** (TXT record) 
+  - **记录类型** (record type): **TXT记录** (TXT record) 
     
-  - ** 记录值 ** (value): Paste **Destination or Points to Address** value that you just copied. 
+  - **记录值** (value): Paste **Destination or Points to Address** value that you just copied. 
     
     ![Add TXT record](../media/6b20a743-1d8b-463f-978a-d48f21846001.png)
   
