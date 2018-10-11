@@ -41,7 +41,7 @@ You can create up to 400 aliases for a user. No additional fees or licenses are 
 ## Add email aliases to a user
 <a name="AddEmailPreview"> </a>
 
-You must have [admin permissions](../add-users-2/about-admin-roles.md) in Office 365 to do this. 
+You must have [admin permissions](../add-users/about-admin-roles.md) in Office 365 to do this. 
   
 1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page, or choose **Users** \> **Active users**.
     

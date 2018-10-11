@@ -195,7 +195,7 @@ Learn about resources available for Office 365 admins.
                         <h3>Get started</h3><!-- These links to be replaced by docs.microsoft.com links when ready. -->
                         <p><a href="/overview-0/admin-overview">Who is my admin?</a></p>
                         <p><a href="/setup-and-install/plan-your-setup">Plan your setup</a></p>
-                        <p><a href="/user-and-passwords/add-users-2">Add users</a></p>
+                        <p><a href="/user-and-passwords/add-users">Add users</a></p>
                     </div>
                 </div>
             </div>

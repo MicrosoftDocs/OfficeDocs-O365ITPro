@@ -112,7 +112,7 @@ Error Code: 302
   
  **Cause:** The authorization code failed because the user who tried connecting to the content pack does not have the right level of authorization to access this data. 
   
- **To fix this error:** Provide the credentials of a user who is either a **global administrator**, **Exchange administrator**, **Skype for Business administrator,** or a **SharePoint administrator** to connect to the content pack. See [Office 365 admin roles](../add-users-2/about-admin-roles.md) for more information. 
+ **To fix this error:** Provide the credentials of a user who is either a **global administrator**, **Exchange administrator**, **Skype for Business administrator,** or a **SharePoint administrator** to connect to the content pack. See [Office 365 admin roles](../add-users/about-admin-roles.md) for more information. 
   
 ## Refresh failed
 <a name="bk_refreshfail"> </a>
