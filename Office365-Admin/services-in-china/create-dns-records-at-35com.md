@@ -143,7 +143,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
     2. On the **DNS服务在线协议** (DNS service agreement) page, read the agreement and click **同意** (agree). 
     
-    The DNS records page for your domain opens.
+        The DNS records page for your domain opens.
     
         ![Click "同意"](../media/d2e57676-77f8-4dff-9650-2532dbc83d47.png)
   
