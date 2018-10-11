@@ -41,11 +41,11 @@ description: "Learn how to add more licenses to your Office 365 for business sub
 ![Total licenses box and the Submit button.](../media/c15248ea-db28-4515-b71c-26145876787d.png)
   
 > [!NOTE]
->  If you pay for your subscription by credit card or bank account, any new licenses that you buy are available immediately after you receive an order confirmation. If you pay by invoice, you might have to wait for a credit check before your new licenses are available to use. 
+> - If you pay for your subscription by credit card or bank account, any new licenses that you buy are available immediately after you receive an order confirmation. If you pay by invoice, you might have to wait for a credit check before your new licenses are available to use. 
 > 
->  If you prepaid for your subscription with a product key, you can add more licenses by adding a credit card or bank account to cover the additional cost of the new licenses. After you have purchased the new licenses, we add a second subscription with the number of new licenses that you just added. For example, if you have a prepaid subscription with 5 licenses, and then bought 10 more licenses, you will see two subscriptions listed: one with the five prepaid licenses, and one with the 10 new licenses. 
+> - If you prepaid for your subscription with a product key, you can add more licenses by adding a credit card or bank account to cover the additional cost of the new licenses. After you have purchased the new licenses, we add a second subscription with the number of new licenses that you just added. For example, if you have a prepaid subscription with 5 licenses, and then bought 10 more licenses, you will see two subscriptions listed: one with the five prepaid licenses, and one with the 10 new licenses. 
 > 
->  Paying by bank account is not available in some countries or regions. 
+> - Paying by bank account is not available in some countries or regions. 
   
 ## What if I don't see the Add/Remove licenses link?
 

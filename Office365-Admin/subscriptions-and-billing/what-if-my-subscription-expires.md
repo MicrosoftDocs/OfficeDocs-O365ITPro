@@ -204,19 +204,19 @@ To learn how to cancel, see [Cancel your subscription](cancel-your-subscription.
 
 ::: moniker range="o365-worldwide"
 
-If you pay by check or electronic funds transfer and you miss a payment, your subscription will move directly into the expired state, and you'll see the text **Expired due to non-payment** on the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a>. You'll also see **Payment not received** under **My bill**.
+If you pay by check or electronic funds transfer and you miss a payment, your subscription will move directly into the expired state, and you'll see the text **Expired due to non-payment** on the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page. You'll also see **Payment not received** under **My bill**.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-If you pay by check or electronic funds transfer and you miss a payment, your subscription will move directly into the expired state, and you'll see the text **Expired due to non-payment** on the <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a>. You'll also see **Payment not received** under **My bill**.
+If you pay by check or electronic funds transfer and you miss a payment, your subscription will move directly into the expired state, and you'll see the text **Expired due to non-payment** on the <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. You'll also see **Payment not received** under **My bill**.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-If you pay by check or electronic funds transfer and you miss a payment, your subscription will move directly into the expired state, and you'll see the text **Expired due to non-payment** on the <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a>. You'll also see **Payment not received** under **My bill**.
+If you pay by check or electronic funds transfer and you miss a payment, your subscription will move directly into the expired state, and you'll see the text **Expired due to non-payment** on the <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page. You'll also see **Payment not received** under **My bill**.
 
 ::: moniker-end
 
