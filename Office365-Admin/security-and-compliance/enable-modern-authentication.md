@@ -30,8 +30,7 @@ To enable modern authentication for any devices running Windows (for example on 
   
 |
 |
-|**Registry key**|**Type**|**Value**|
-|:-----|:-----|:-----|
+|**Registry key**|**Type**|**Value** <br/>|
 |HKCU\SOFTWARE\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |1  <br/> |
 |HKCU\SOFTWARE\Microsoft\Office\15.0\Common\Identity\Version  <br/> |REG_DWORD  <br/> |1  <br/> |
    
@@ -45,8 +44,7 @@ To disable modern authentication on a device, set the following registry keys on
   
 |
 |
-|**Registry key**|**Type**|**Value**|
-|:-----|:-----|:-----|
+|**Registry key**|**Type**|**Value** <br/>|
 |HKCU\SOFTWARE\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |0  <br/> |
    
 ## Related Topics
