@@ -121,7 +121,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
   - **记录类型** (type): **MX**
     
-  - ** IP地址/主机名 ** (value): Paste the **Points to address** value rom Office 365:  *\<domain-key\>*  .mail.protection.partner.outlook.cn 
+  - **IP地址/主机名** (value): Paste the **Points to address** value rom Office 365:  *\<domain-key\>*  .mail.protection.partner.outlook.cn 
     
     > [!NOTE]
     > Get your  *\<domain-key\>*  from your Office 365 portal account. [How do I find this?](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
