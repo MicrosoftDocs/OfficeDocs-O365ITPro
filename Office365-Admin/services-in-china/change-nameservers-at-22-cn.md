@@ -54,7 +54,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
   - **记录类型** (type): **TXT**
     
-  - ** IP地址/主机名 ** (value): Paste **Destination or Points to Address** value that you just copied. 
+  - **IP地址/主机名** (value): Paste **Destination or Points to Address** value that you just copied. 
     
   - **线路类型** (network): Use the default value. 
     
