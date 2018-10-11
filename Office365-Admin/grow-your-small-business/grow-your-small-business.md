@@ -35,7 +35,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../setup-and-install/setup?tabs=BusEssentials">
+        <a href="../setup/setup?tabs=BusEssentials">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
