@@ -38,7 +38,7 @@ These are the main records to add.
     
 After you add these records at DNSCOM, your domain will be set up to work with Office 365 services, though not with the Skype for Business Online and Outlook Web App features mentioned above.
   
-If you have a SharePoint Online Public Website, you can [Add records at DNSCOM to set up your SharePoint Online Public Website](https://support.office.com/article/a6aa103b-d6ca-4752-bd60-b0c002d640cb), like www. *your_domain*  .com. 
+If you have a SharePoint Online Public Website, you can [set it up to use your custom domain for the website URL address](https://support.office.com/article/a6aa103b-d6ca-4752-bd60-b0c002d640cb), like www. *your_domain*  .com. 
   
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. 

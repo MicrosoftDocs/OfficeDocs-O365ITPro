@@ -167,7 +167,6 @@ Use the following table to learn more about feature support in different Exchang
 | All 2010 SP3   | Not supported   | Not supported   | Supported<sup>1</sup> | Supported   | Supported   |
 | At least one pre-2013 CU5 server   | Supported<sup>2</sup>  | Not supported   | Not supported | Supported   | Supported  |
 |||
-   
 <sup>1</sup> Separate searches are required for on-premises and Exchange Online mailboxes.  <br/> <sup>2</sup> MRM move-to-archive policies can be used for mailboxes located on an Exchange 2013 CU5 or greater server. 
 
 To learn more about configuring a hybrid deployment with Office 365 tenants hosted by 21Vianet, see the following topics: 

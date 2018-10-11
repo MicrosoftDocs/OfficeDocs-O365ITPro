@@ -38,7 +38,7 @@ These are the main records to add.
     
 After you add these records at CNDNS, your domain will be set up to work with Office 365 services, though not with the Skype for Business Online and Outlook Web App features mentioned above.
   
-If you have a SharePoint Online Public Website, you can [Add records at CNDNS to set up your SharePoint Online Public Website](https://support.office.com/article/d80ffb87-aa51-495c-8133-454d7b75253b), like www. *your_domain*  .com. 
+If you have a SharePoint Online Public Website, you can [set it up to use your custom domain for the website URL address](https://support.office.com/article/d80ffb87-aa51-495c-8133-454d7b75253b), like www. *your_domain*  .com. 
   
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. 

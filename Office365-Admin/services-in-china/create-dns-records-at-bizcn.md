@@ -37,7 +37,7 @@ These are the main records to add.
     
 After you add these records at BIZCN, your domain will be set up to work with Office 365 services.
   
-If you have a SharePoint Online Public Website, you can [Add records at BIZCN to set up your SharePoint Online Public Website](https://support.office.com/article/b3d443c9-f520-4e72-9e37-2ced53ae1a58), like www. *your_domain*  .com. 
+If you have a SharePoint Online Public Website, you can [set it up to use your custom domain for the website URL address](https://support.office.com/article/b3d443c9-f520-4e72-9e37-2ced53ae1a58), like www. *your_domain*  .com. 
   
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. 
