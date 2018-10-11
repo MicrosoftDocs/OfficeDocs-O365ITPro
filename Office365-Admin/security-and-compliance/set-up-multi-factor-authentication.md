@@ -28,7 +28,6 @@ description: "Learn how to set up multi-factor authentication for Office 365 use
 
 # Set up multi-factor authentication for Office 365 users
 
- *Last updated 4 June 2018* 
   
 This article describes how to set up multi-factor authentication (MFA) for Office 365 users. For more information about MFA, see [Plan for multi-factor authentication for Office 365 Deployments](multi-factor-authentication-plan.md) and [How Azure multi-factor authentication works](https://go.microsoft.com/fwlink/p/?LinkId=627437).
   
@@ -39,6 +38,7 @@ You get a free version of Azure multi-factor authentication as part of your Offi
 
 1. You must be an Office 365 global admin to do these steps.
     
+<<<<<<< HEAD
 2. 
 ::: moniker range="o365-worldwide"
 
@@ -57,6 +57,11 @@ Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
+=======
+2. Go to the [Admin center](https://admin.microsoft.com).]
+   For Office 365 Germany, go to [https://portal.office.de/adminportal/home](https://portal.office.de/adminportal/home).
+   For Office 365 operated by 21Vianet in China, go to [https://login.partner.microsoftonline.cn](https://login.partner.microsoftonline.cn)
+>>>>>>> supotter-conversion
 
 3. Go to **Users** \> **Active users**.
     
@@ -94,6 +99,7 @@ If you need to enable ADAL, run the following command:  `Set-OrganizationConfig 
   
 1. You must be an Office 365 global admin to do these steps.
     
+<<<<<<< HEAD
 2. 
 ::: moniker range="o365-worldwide"
 
@@ -113,6 +119,11 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
+=======
+2. Go to the [Admin center](https://admin.microsoft.com).]
+   For Office 365 Germany, go to [https://portal.office.de/adminportal/home](https://portal.office.de/adminportal/home).
+   For Office 365 operated by 21Vianet in China, go to [https://login.partner.microsoftonline.cn](https://login.partner.microsoftonline.cn)
+>>>>>>> supotter-conversion
 3. Go to **Users** \> **Active users**.
     
 4. Choose **More** \> **Setup Azure multi-factor auth**. If you don't see the **More** option, then you aren't a global admin for your subscription. 

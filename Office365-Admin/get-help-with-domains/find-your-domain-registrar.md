@@ -31,7 +31,7 @@ description: "Learn to find your domain registrar and DNS hosting provider using
 
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
   
-## [Domain registrar](#tab/registrar)
+## Domain registrar
   
 ### Find your domain name registrar
 
@@ -43,7 +43,7 @@ description: "Learn to find your domain registrar and DNS hosting provider using
     
 3. On the **Whois Search Results** page, locate the **Registrar** entry. This entry lists the organization that provides registrar service for your domain. 
     
-## [DNS hosting provider](#tab/dnshost)
+## DNS hosting provider
   
 ### Find your DNS hosting provider
 

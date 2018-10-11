@@ -3,7 +3,6 @@ title: "Assign licenses to users in Office 365 for business"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -108,11 +107,11 @@ If you have more than one subscription, and you have users who already have a li
 
 ![The replace existing product license assignments option in the assign products pane.](../media/69125d1e-603d-41ac-bd12-edfef62d744f.png)
   
-## Remove or reassign unused Office 365 licenses
+## Remove or reassign unused licenses
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/68578ae6-5249-44d5-9d1c-fc73d5d1543c?autoplay=false]
   
-## What you need to know about assigning licenses to users in Office 365 for business
+## What you need to know about assigning licenses to users
 
 - You need to be either a Global admin or a User management admin. For more information, see [About Office 365 admin roles](../add-users-2/about-admin-roles.md).
     
@@ -120,15 +119,9 @@ If you have more than one subscription, and you have users who already have a li
     
 - Use these steps to add a license to an existing user account. [Learn how to add a user account and assign a license at the same time](../add-users-2/add-users-2.md)
     
-::: moniker range="o365-21vianet"
-
-If you're using Office 365 operated by 21Vianet in China, see [Add, edit, delete or restore user accounts in Office 365 operated by 21Vianet - Admin Help](https://support.office.com/article/39772f78-1df9-4b82-a3e5-f8ad41e66807).
-
-::: moniker-end
-
 - Some services, like Sway, are automatically assigned to users, and don't need to be assigned individually.
     
-## Articles about managing licenses for Office 365 for business
+## Articles about managing licenses
 
 - [Understand subscriptions and licenses](subscriptions-and-licenses.md)
     
@@ -140,10 +133,10 @@ If you're using Office 365 operated by 21Vianet in China, see [Add, edit, delete
     
 - [Buy another subscription](buy-another-subscription.md)
     
-- [Buy or edit an add-on for Office 365 for business](buy-or-edit-an-add-on.md)
+- [Buy or edit an add-on](buy-or-edit-an-add-on.md)
     
-- [Manage Yammer user licenses in Office 365](https://support.office.com/article/34a67e3a-3fd8-4e54-bffb-dd5ad0e48590.aspx)
+- [Manage Yammer user licenses in Office 365](https://docs.microsoft.com/en-us/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
 
-## See Also
+## Related topics
 
-[Cancel Office 365 for business](cancel-your-subscription.md)
+[Cancel your subscription](cancel-your-subscription.md)

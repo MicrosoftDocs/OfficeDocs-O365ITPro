@@ -78,15 +78,14 @@ You can access GoDaddy, and create DNS, through the Google **Domains** page. Jus
     
 |****RECORD TYPE****|****HOST****|****TXT VALUE****|****TTL****|
 |:-----|:-----|:-----|:-----|
-|TXT  <br/> |@  <br/> |
+|TXT  <br/> |@  <br/> ||1 Hour  <br/> |
 > [!NOTE]
 > This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. 
   
 [How do I find this?](../get-help-with-domains/information-for-dns-records.md)
   
-|1 Hour  <br/> |
+
    
-    ![Google-Apps-Configure-1-8](../media/ae3bbbbb-6438-4c89-b24e-d53b7d56828b.png)
   
 12. Choose **Finish**.
     

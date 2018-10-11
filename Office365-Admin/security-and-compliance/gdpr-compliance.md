@@ -161,8 +161,9 @@ To get ready for the GDPR, here are some suggestions for next steps to take:
     
 - See [Additional resources](gdpr-compliance.md#BKMK_AdditionalResources) for more information. 
     
--     > [!IMPORTANT]
-    > Get legal advice appropriate for your company or organization. 
+
+> [!IMPORTANT]
+> Get legal advice appropriate for your company or organization.
   
 ## Additional resources
 <a name="BKMK_AdditionalResources"> </a>
