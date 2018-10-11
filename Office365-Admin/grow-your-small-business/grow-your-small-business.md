@@ -186,7 +186,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="https://support.officeppe.com/article/0c733865-2109-475d-a349-22a2809dcca7">
+        <a href="../security-and-compliance/hipaa-compliance.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
