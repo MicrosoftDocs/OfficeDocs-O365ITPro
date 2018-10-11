@@ -3,7 +3,6 @@ title: "Create DNS records at 22.cn for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -22,9 +21,9 @@ description: "Learn to setup your own DNS records at 22.cn for Office 365 operat
 # Create DNS records at 22.cn for Office 365
 
 > [!CAUTION]
-> The 22.cn website doesn't support SRV records, which means that several Skype for Business Online and Outlook Web App features won't work. No matter which Office 365 operated by 21Vianet plan you use, there are significant [Service limitations when your hosting provider does not support SRV, CNAME, TXT, or redirection](https://support.office.com/article/dfbb03e3-08c1-4c4e-b2f0-891665b29b77), and you may want to switch to a different DNS hosting provider. 
+> The 22.cn website doesn't support SRV records, which means that several Skype for Business Online and Outlook Web App features won't work. No matter which Office 365 operated by 21Vianet plan you use, there are significant [service limitations](https://support.office.com/article/dfbb03e3-08c1-4c4e-b2f0-891665b29b77), and you may want to switch to a different DNS hosting provider. 
   
-If despite the service limitations, you choose to manage your own Office 365 DNS records at 22.cn, follow the steps in this article to verify your domain and set up DNS records for email, Lync, and so on.
+If, despite the service limitations, you choose to manage your own Office 365 DNS records at 22.cn, follow the steps in this article to verify your domain and set up DNS records for email, Lync, and so on.
   
 These are the main records to add.
   
@@ -38,7 +37,7 @@ These are the main records to add.
     
 After you add these records at 22.cn, your domain will be set up to work with Office 365 services, though not with the Skype for Business Online and Outlook Web App features mentioned above.
   
-If you have a SharePoint Online Public Website, you can [set it up to use your custom domain for the website URL address](https://support.office.com/article/458df053-2c8f-4d96-9488-4d2f1aa01e68), like www. *your_domain*  .com. 
+If you have a SharePoint Online Public Website, you can [set it up to use your custom domain for the website URL address](https://support.office.com/article/458df053-2c8f-4d96-9488-4d2f1aa01e68), like www. *your_domain*.com. 
   
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. 
@@ -71,7 +70,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
   - **记录类型** (type): **TXT**
     
-  - ** IP地址/主机名 ** (value): Paste the **Destination or Points to Address** value from the table in Office 365, for example MS=ms  *XXXXXXX*  . [Gather the information you need to create Office 365 DNS records](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
+  - **IP地址/主机名** (value): Paste the **Destination or Points to Address** value from the table in Office 365, for example MS=ms  *XXXXXXX*. [How do I find this?](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
     
   - **线路类型** (network): Use the default value. 
     
@@ -125,9 +124,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
   - ** IP地址/主机名 ** (value): Paste the **Points to address** value rom Office 365:  *\<domain-key\>*  .mail.protection.partner.outlook.cn 
     
     > [!NOTE]
-    > Get your  *\<domain-key\>*  from your Office 365 portal account. 
-  
-[Gather the information you need to create Office 365 DNS records](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
+    > Get your  *\<domain-key\>*  from your Office 365 portal account. [How do I find this?](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
   
   - **优先级** (priority): **0**
     
@@ -141,86 +138,86 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 6. If you have any MX records for this domain that send email to someplace other than Office 365, remove them:
     
-1. On the row of the obsolete record, click **删除** (remove). 
+    1. On the row of the obsolete record, click **删除** (remove). 
     
-2. In the confirmation dialog box, click **确定** (OK). 
+    2. In the confirmation dialog box, click **确定** (OK). 
     
 ## Add CNAME records
 <a name="BKMK_add_CNAME"> </a>
 
 1. Add the email (Exchange) Autodiscover CNAME record.
     
-1. In your browser, go to the [your domains list at 22.cn](https://www.22.cn/) and sign in. 
+    1. In your browser, go to the [your domains list at 22.cn](https://www.22.cn/) and sign in. 
     
-    ![Sign in to 22.cn](../media/6aeb0d2e-4844-499d-9cdf-278c5490e40b.png)
+        ![Sign in to 22.cn](../media/6aeb0d2e-4844-499d-9cdf-278c5490e40b.png)
   
-2. In the right pane, click the name of the domain that you want to update.
+    2. In the right pane, click the name of the domain that you want to update.
     
-    ![Click the domain you want to update](../media/9118a9a5-0815-4254-be7e-fbfb3570af0e.png)
+        ![Click the domain you want to update](../media/9118a9a5-0815-4254-be7e-fbfb3570af0e.png)
   
-3. Click the **域名解析** (domain name resolution) tab. 
+    3. Click the **域名解析** (domain name resolution) tab. 
     
-    The DNS records page for your domain opens.
+        The DNS records page for your domain opens.
     
-    ![Click "域名解析"](../media/2fd80f2c-30ad-4ba3-a376-4afb54ae3ced.png)
+        ![Click "域名解析"](../media/2fd80f2c-30ad-4ba3-a376-4afb54ae3ced.png)
   
-4. On the DNS records page for your domain, make sure that the fields are set to precisely the following values for the empty record:
+    4. On the DNS records page for your domain, make sure that the fields are set to precisely the following values for the empty record:
     
-  - **主机记录** (host name): **autodiscover**
+        - **主机记录** (host name): **autodiscover**
     
-  - **记录类型** (type): **CNAME**
+        - **记录类型** (type): **CNAME**
     
-  - ** IP地址/主机名 ** (value): **autodiscover.partner.outlook.cn**
+        - **IP地址/主机名** (value): **autodiscover.partner.outlook.cn**
     
-  - **线路类型** (network): Use the default value. 
+        - **线路类型** (network): Use the default value. 
     
-    ![Click "CNAME"](../media/617dd0ac-867f-40d9-a021-e9d8edc36e8f.png)
+        ![Click "CNAME"](../media/617dd0ac-867f-40d9-a021-e9d8edc36e8f.png)
   
-5. Click **添加一条** (add). 
+    5. Click **添加一条** (add). 
     
-    ![Add CNAME record](../media/28aab97c-ab54-4f54-8a26-f8bef9bd5ddd.png)
+        ![Add CNAME record](../media/28aab97c-ab54-4f54-8a26-f8bef9bd5ddd.png)
   
 2. Add the Lync Autodiscover CNAME record.
     
-1. On the DNS records page for your domain, make sure that the fields are set to precisely the following values for the empty record:
+    1. On the DNS records page for your domain, make sure that the fields are set to precisely the following values for the empty record:
     
-  - **主机记录** (host name): **lyncdiscover**
+        - **主机记录** (host name): **lyncdiscover**
     
-  - **记录类型** (type): **CNAME**
+        - **记录类型** (type): **CNAME**
     
-  - ** IP地址/主机名 ** (value): **webdir.online.partner.lync.cn**
+        - **IP地址/主机名** (value): **webdir.online.partner.lync.cn**
     
-  - **线路类型** (network): Use the default value. 
+        - **线路类型** (network): Use the default value. 
     
-2. Click **添加一条** (add). 
+    2. Click **添加一条** (add). 
     
 3. Add the Lync SIP CNAME record.
     
-1. On the DNS records page for your domain, make sure that the fields are set to precisely the following values for the empty record:
+    1. On the DNS records page for your domain, make sure that the fields are set to precisely the following values for the empty record:
     
-  - **主机记录** (host name): **sip**
+        - **主机记录** (host name): **sip**
     
-  - **记录类型** (type): **CNAME**
+        - **记录类型** (type): **CNAME**
     
-  - ** IP地址/主机名 ** (value): **sipdir.online.partner.lync.cn**
+        - **IP地址/主机名** (value): **sipdir.online.partner.lync.cn**
     
-  - **线路类型** (network): Use the default value. 
+        - **线路类型** (network): Use the default value. 
     
-2. Click **添加一条** (add). 
+    2. Click **添加一条** (add). 
     
 4. Add the Office 365 MSOID CNAME record. This is an additional record that is required for Office 365.
     
-1. On the DNS records page for your domain, make sure that the fields are set to precisely the following values for the empty record:
+    1. On the DNS records page for your domain, make sure that the fields are set to precisely the following values for the empty record:
     
-  - **主机记录** (host name): **msoid**
+        - **主机记录** (host name): **msoid**
     
-  - **记录类型** (type): **CNAME**
+        - **记录类型** (type): **CNAME**
     
-  - ** IP地址/主机名 ** (value): **clientconfig.partner.microsoftonline-p.net.cn**
+        - **IP地址/主机名** (value): **clientconfig.partner.microsoftonline-p.net.cn**
     
-  - **线路类型** (network): Use the default value. 
+        - **线路类型** (network): Use the default value. 
     
-2. Click **添加一条** (add). 
+    2. Click **添加一条** (add). 
     
 ## Add a TXT record to help prevent spam
 <a name="BKMK_add_TXT"> </a>
@@ -245,7 +242,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
   - **记录类型** (type): **TXT**
     
-  - ** IP地址/主机名 ** (value): **v=spf1 include:spf.protection.partner.outlook.cn -all**
+  - **IP地址/主机名** (value): **v=spf1 include:spf.protection.partner.outlook.cn -all**
     
     ![Click "TXT"](../media/58ad8a10-fac6-4231-aca4-c7763873a8ef.png)
   
