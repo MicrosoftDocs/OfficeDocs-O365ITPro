@@ -16,7 +16,7 @@ search.appverid:
 - BCS160
 - MET150
 - MOE150
-ms.assetid: 19b67e2b-1b28-4432-8cca-394803fbdc87
+
 description: "Learn more about the "MSOID" CNAME record in Office 365 that directs you to the best server for authentication processes, so you'll getter a faster response. "
 ---
 
