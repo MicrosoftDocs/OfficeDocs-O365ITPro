@@ -30,11 +30,11 @@ If you're an Office 365 for business admin, you can verify which subscriptions y
   
  **Not an admin?** See [What Office 365 business product or license do I have?](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd.aspx).
   
-1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
-    If you're using Office 365 Germany, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=850626) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page. 
     
 2. If you have only one subscription, it will be displayed on the **Subscriptions** page, along with the subscription name, information about the subscription, and its status. In the following screenshot, you can see that I have an Office 365 Business subscription. 
     

@@ -112,7 +112,7 @@ Yes, but you'll need to [call support](../contact-support-for-business-products.
 
 Yes. To get your billing statement as an email attachment, use the following steps:
   
-1. In the Office 365 admin center, go to the [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page, or choose **Billing** \> **Billing notifications**.
+1. In the Office 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=853212" target="_blank">Billing notifications</a> page, or choose **Billing** \> **Billing notifications**.
     
 2. Under **Do you want to receive the billing statement as an email attachment?**, switch the toggle to **On**.
     
@@ -126,7 +126,7 @@ Yes. To get your billing statement as an email attachment, use the following ste
 
 Yes. To get your billing statement as an email attachment, use the following steps:
   
-1. In the Office 365 admin center, go to the [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853213) page, or choose **Billing** \> **Billing notifications**.
+1. In the Office 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=853213" target="_blank">Billing notifications</a> page, or choose **Billing** \> **Billing notifications**.
     
 2. Under **Do you want to receive the billing statement as an email attachment?**, switch the toggle to **On**.
     

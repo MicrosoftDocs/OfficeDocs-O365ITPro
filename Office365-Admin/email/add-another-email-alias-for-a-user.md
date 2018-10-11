@@ -43,11 +43,11 @@ You can create up to 400 aliases for a user. No additional fees or licenses are 
 
 You must have [admin permissions](../add-users-2/about-admin-roles.md) in Office 365 to do this. 
   
-1. In the Admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page, or choose **Users** \> **Active users**.
     
-    If you're using Office 365 Germany, go to this [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
     
 2. On the **Active Users** page, select the name of the person you want to edit. 
     

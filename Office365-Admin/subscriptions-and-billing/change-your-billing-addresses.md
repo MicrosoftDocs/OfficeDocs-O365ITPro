@@ -55,11 +55,11 @@ To change the **Sold-To** address, see [Change your organization's address, tech
 ## Change your Bill-To address
 ::: moniker range="o365-worldwide"
 
-1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
-    If you're using Office 365 Germany, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=850626) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page. 
     
 2. Select the subscription you want to change, then choose **Change payment details**.
     
@@ -83,11 +83,11 @@ To change the **Sold-To** address, see [Change your organization's address, tech
 
 ::: moniker range="o365-germany"
 
-1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
-    If you're using Office 365 Germany, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=850626) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page. 
     
 2. Select the subscription you want to change, then choose **Change payment details**.
     
@@ -105,11 +105,11 @@ To change the **Sold-To** address, see [Change your organization's address, tech
 
 ::: moniker range="o365-21vianet"
 
-1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
-    If you're using Office 365 Germany, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=850626) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page. 
     
 2. Select the subscription you want to change, then choose **Change payment details**.
     
@@ -123,11 +123,11 @@ To change the **Sold-To** address, see [Change your organization's address, tech
 
 ## Change your service usage address
 
-1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
-    If you're using Office 365 Germany, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=850626) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page. 
     
 2. Choose the subscription you want to change, choose **More actions**, then choose **Edit service usage address**.
     
@@ -161,9 +161,9 @@ By default, your organization's billing notifications are sent to the Office 365
 
 You can also change the alternate email address of other global and billing admins in your organization.
   
-1. In the Admin center, go to the [Billing Notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page, or choose **Billing** \> **Billing notifications**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=853212" target="_blank">Billing notifications</a> page, or choose **Billing** \> **Billing notifications**.
     
-    If you're using Office 365 Germany, go to this [Billing Notifications](https://go.microsoft.com/fwlink/p/?linkid=853213) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=853213" target="_blank">Billing notifications</a> page. 
     
     If you're using Office 365 operated by 21Vianet, go to this [Billing Notifications](https://go.microsoft.com/fwlink/p/?linkid=853215) page. 
     

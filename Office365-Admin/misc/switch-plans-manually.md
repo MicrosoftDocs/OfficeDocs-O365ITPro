@@ -46,11 +46,11 @@ Make sure you purchase a subscription for the same organization that the users a
   
 ## Step 3: Check your new subscription and licenses
 
-1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
-    If you're using Office 365 Germany, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=850626) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page. 
     
 2. **Verify that both subscriptions are listed and active**
     
@@ -88,11 +88,11 @@ The licenses for the current subscription will be removed later; you'll only pay
 ### Reassign a license for one user
 <a name="BKMK_ReassignOneUser"> </a>
 
-1. In the Admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page, or choose **Users** \> **Active users**.
     
-    If you're using Office 365 Germany, go to this [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
     
 2. On the **Active users** page, select the box next to the name of the user who you want to assign a license to. 
     
@@ -112,11 +112,11 @@ The licenses for the current subscription will be removed later; you'll only pay
 ### Reassign licenses for multiple users at once
 <a name="BKMK_ReassingMultipleUsers"> </a>
 
-1. In the Admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page, or choose **Users** \> **Active users**.
     
-    If you're using Office 365 Germany, go to this [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
     
 2. Select the boxes next to the names of the users who you want to replace existing licenses for.
     
