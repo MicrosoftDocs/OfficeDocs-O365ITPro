@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Argentina
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -30,6 +29,4 @@ Spanish: 24 hours a day, 7 days a week
 
 Alternative Phone Number: 011 5354 2347
 
-(Local call charges apply)
-
-
+Local call charges apply

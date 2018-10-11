@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Greenland
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -29,10 +28,3 @@ English: Mon-Fri 7 AM-3 PM
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-
-
-
-
-
-
-

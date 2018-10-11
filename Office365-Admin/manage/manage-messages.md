@@ -1,19 +1,21 @@
 ---
 title: "Manage messages in Message center"
-ms.author: kfollis
-author: kfollis
-manager: mnirkhe
-
+ms.author: sirkkuw
+author: sirkkuw
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.custom: Adm_O365
+ms.custom: 
+- Adm_O365
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
 - MOE150
-ms.assetid: 97af2932-0868-4ccf-8f6b-21a94946c58a
+ms.assetid: 97af2932-0868-4ccf-8f6b-21a94946c58a    
 description: "Learn to manage Message center messages to help with change management."
 ---
 
@@ -27,13 +29,13 @@ Click on a message to open it in the reading pane. You'll see the expiration dat
   
 Use the **Previous** and **Next** buttons to navigate between messages. 
   
-![Example message noting expiration date](../media/e47cd136-3f17-4559-be1c-2787ebb411dc.png)
+![Example message with expiration date](../media/e47cd136-3f17-4559-be1c-2787ebb411dc.png)
   
 ## Filter and sort
 
 Use the Views drop-down menu to select a filtered view of messages.
   
-![Message Center views menu expanded to show filters](../media/5df2d11b-2547-4430-ae75-5bbe48a5a139.png)
+![Message Center views menu with filters](../media/5df2d11b-2547-4430-ae75-5bbe48a5a139.png)
   
 You can click on any column heading to sort messages in ascending or descending order. For example, in this diagram the messages are sorted on the **Act by** date. 
   
@@ -57,9 +59,9 @@ See a message that someone else needs to act on? You can share the contents of t
   
 1. Click on the message to open it.
     
-2. Select **Share** from the action bar. ![A screenshot of the message center post action bar](../media/43f6adc4-8cf9-4437-8e25-dc9c7367301d.png)
+2. Select **Share** from the action bar.<br/>![Message center post action bar](../media/43f6adc4-8cf9-4437-8e25-dc9c7367301d.png)
   
-3. Enter up to two email addresses to share the message with. You can send to individual and to group email addresses. If you'd like to also receive a copy of the message in email, select **I would also like to receive this email**. The message will go to your primary email address in Office 365. If you'd like to add a personal message to provide recipients with more context, select **I would like to add a personal message** and enter your text. ![A screenshot of the message sharing screen](../media/c490096e-ba8b-412d-92ab-2dfed223da11.png)
+3. Enter up to two email addresses to share the message with. You can send to individual and to group email addresses. If you'd like to also receive a copy of the message in email, select **I would also like to receive this email**. The message will go to your primary email address in Office 365. If you'd like to add a personal message to provide recipients with more context, select **I would like to add a personal message** and enter your text.<br/>![Message sharing screen](../media/c490096e-ba8b-412d-92ab-2dfed223da11.png)
   
 4. Click on **Share** to send the email. 
     

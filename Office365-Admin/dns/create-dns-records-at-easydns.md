@@ -47,11 +47,11 @@ You'll need to add all of the following DNS records at your registrar's website 
    
 5. Choose **NEXT**. 
     
-    ![Next button](../media/171f96a6-d577-47e8-9e8a-8f684ffedb78.png)
+    ![Next](../media/171f96a6-d577-47e8-9e8a-8f684ffedb78.png)
   
 6. Check to make sure the record is correct, and then choose **CONFIRM**. 
     
-    ![Confirm button](../media/4316875b-ebed-46ed-8f0a-d9b6978b2a2d.png)
+    ![Confirm](../media/4316875b-ebed-46ed-8f0a-d9b6978b2a2d.png)
   
 7. Wait a few minutes before you continue, so that the record you just created can propagate across the Internet and be detected by Office 365.
     
@@ -89,11 +89,11 @@ You'll need to add all of the following DNS records at your registrar's website 
     
 5. Choose **NEXT**. 
     
-    ![Next button](../media/171f96a6-d577-47e8-9e8a-8f684ffedb78.png)
+    ![Next](../media/171f96a6-d577-47e8-9e8a-8f684ffedb78.png)
   
 6. Check to make sure the record is correct, and then choose **CONFIRM**. 
     
-    ![Confirm button](../media/4316875b-ebed-46ed-8f0a-d9b6978b2a2d.png)
+    ![Confirm](../media/4316875b-ebed-46ed-8f0a-d9b6978b2a2d.png)
   
 ## Add the required CNAME records
 
@@ -122,11 +122,11 @@ You'll need to add all of the following DNS records at your registrar's website 
    
 5. Choose **NEXT**. 
     
-    ![Next button](../media/171f96a6-d577-47e8-9e8a-8f684ffedb78.png)
+    ![Next](../media/171f96a6-d577-47e8-9e8a-8f684ffedb78.png)
   
 6. Check to make sure the record is correct, and then choose **CONFIRM**. 
     
-    ![Confirm button](../media/4316875b-ebed-46ed-8f0a-d9b6978b2a2d.png)
+    ![Confirm](../media/4316875b-ebed-46ed-8f0a-d9b6978b2a2d.png)
   
 ## Add a TXT record for SPF to help prevent email spam
 
@@ -150,11 +150,11 @@ You'll need to add all of the following DNS records at your registrar's website 
    
 5. Choose **NEXT**. 
     
-    ![Next button](../media/171f96a6-d577-47e8-9e8a-8f684ffedb78.png)
+    ![Next](../media/171f96a6-d577-47e8-9e8a-8f684ffedb78.png)
   
 6. Check to make sure the record is correct, and then choose **CONFIRM**. 
     
-    ![Confirm button](../media/4316875b-ebed-46ed-8f0a-d9b6978b2a2d.png)
+    ![Confirm](../media/4316875b-ebed-46ed-8f0a-d9b6978b2a2d.png)
   
 ## Add the two SRV records that are required for Office 365
 
@@ -182,10 +182,10 @@ You'll need to add all of the following DNS records at your registrar's website 
    
 5. Choose **NEXT**. 
     
-    ![Next button](../media/171f96a6-d577-47e8-9e8a-8f684ffedb78.png)
+    ![Next](../media/171f96a6-d577-47e8-9e8a-8f684ffedb78.png)
   
 6. Check to make sure the record is correct, and then choose **CONFIRM**. 
     
-    ![Confirm button](../media/4316875b-ebed-46ed-8f0a-d9b6978b2a2d.png)
+    ![Confirm](../media/4316875b-ebed-46ed-8f0a-d9b6978b2a2d.png)
   
 

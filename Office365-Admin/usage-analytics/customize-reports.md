@@ -124,7 +124,7 @@ You can start by connecting directly to the ODATA reporting APIs from Office 365
     
     This will download the data into your Power BI Desktop. Save this file and then you can start creating the reports you need.
     
-    ![Screenshot of the ODATA values available in the reporting API](../media/545b4d17-dbbd-4cfc-b75a-a8b27283d438.png)
+    ![ODATA values available in the reporting API](../media/545b4d17-dbbd-4cfc-b75a-a8b27283d438.png)
   
 ### Use the Microsoft 365 usage analytics template
 

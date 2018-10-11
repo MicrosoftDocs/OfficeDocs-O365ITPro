@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for United Kingdom
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -31,5 +30,3 @@ English: 24 hours a day, 7 days a week
 Alternative Phone Number: 0203 450 6455
 
 Local call charges apply
-
-

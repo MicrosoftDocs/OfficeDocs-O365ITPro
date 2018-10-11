@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Mexico
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -31,5 +30,3 @@ Spanish: 24 hours a day, 7 days a week
 Alternative Phone Number: 01 55 4738 6567
 
 Local call charges apply
-
-

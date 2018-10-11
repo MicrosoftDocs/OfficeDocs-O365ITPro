@@ -113,7 +113,7 @@ This example turns Focused Inbox **Off** for Tim Matthews in the Contoso organiz
 1. 
 ::: moniker range="o365-worldwide"
 
-Go to the [![Click here to go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
@@ -131,13 +131,13 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 2. Go to **Admin centers** \> **Exchange**. 
     
-3. In the Exchange admin center, navigate to **mail flow** \> **Rules**. Click ![Screenshot: EAC Add icon](../media/795e5bdd-48bb-433f-8e07-3c7a19f8eca2.gif) and then choose **Create a new rule...**. 
+3. In the Exchange admin center, navigate to **mail flow** \> **Rules**. Click ![EAC Add icon](../media/795e5bdd-48bb-433f-8e07-3c7a19f8eca2.gif) and then choose **Create a new rule...**. 
     
 4. After you're done creating the new rule, click **save** to start the rule. 
     
     The following image shows an example where all messages with the subject "Human Resources" are to be delivered to the Focused Inbox.
     
-![Screenshot: Create and save new Foucsed Inbox rule](../media/5de0d441-aade-41c8-aa19-3c14f945c1f6.png)
+![Create and save new Foucsed Inbox rule](../media/5de0d441-aade-41c8-aa19-3c14f945c1f6.png)
   
 ## Use PowerShell to create a transport rule to direct email messages to the Focused view for all your users
 

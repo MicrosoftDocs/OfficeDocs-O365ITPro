@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Bonaire
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -31,5 +30,3 @@ English: Mon-Fri 4 AM-noon
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-
-

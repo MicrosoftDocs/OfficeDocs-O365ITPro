@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Senegal
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -35,7 +34,3 @@ English: Mon-Fri 8 AM-4 PM
 French: Mon-Fri 7 AM-8 PM
 
 English: 24 hours a day, 7 days a week
-
-
-
-

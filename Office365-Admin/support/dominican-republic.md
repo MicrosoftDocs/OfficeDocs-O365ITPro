@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Dominican Republic
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -35,5 +34,3 @@ Spanish: 24 hours a day, 7 days a week
 Alternative Phone Number: 1 809 200 8794
 
 (Cellular toll-free)
-
-

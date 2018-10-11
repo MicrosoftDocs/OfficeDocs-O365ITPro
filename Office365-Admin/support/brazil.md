@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Brazil
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -37,5 +36,3 @@ Alternative Phone Number:
 0800 047 4958 (Local toll-free)
 
 11 4700 1999 (Local call charges apply)
-
-

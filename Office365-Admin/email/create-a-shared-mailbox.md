@@ -41,7 +41,7 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
 1. 
 ::: moniker range="o365-worldwide"
 
-In the Office 365 admin center, go to **Groups** \> [![Click here to go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox).
+In the Office 365 admin center, go to **Groups** \> [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox).
 
 ::: moniker-end
 
@@ -71,7 +71,7 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
   
 5. Choose the **+Add members** button. Put a check mark next to the people who you want to use this shared mailbox, and click **Save**.
     
-    ![Choose members to assign to the shared mailbox.](../media/e6c58953-f6d7-4f0b-97ba-308516bf2a94.png)
+    ![Assign members to the shared mailbox](../media/e6c58953-f6d7-4f0b-97ba-308516bf2a94.png)
   
 6. Choose **Close**.
     
@@ -83,7 +83,7 @@ By default, messages sent from the shared mailbox aren't saved to the Sent Items
   
 If you want to allow everyone to see the Sent email, in the Office 365 admin center, edit the shared mailbox settings, and choose **Sent items** \> **Edit**.
   
-![Choose Sent items \> Edit.](../media/09e28637-7900-4792-a71e-58248293cc5b.jpg)
+![Choose Sent items and then Edit](../media/09e28637-7900-4792-a71e-58248293cc5b.jpg)
   
 ## Add the shared mailbox to Outlook
 
@@ -132,7 +132,7 @@ You do not need to assign a license to the shared mailbox in order to forward em
 1. 
 ::: moniker range="o365-worldwide"
 
-On the [![Click here to go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
+On the [![Go to shared mailboxes in the admin center](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
 
 ::: moniker-end
 
@@ -147,7 +147,7 @@ On the [![Click here to go to shared mailboxes in the admin center.](../media/70
 1. 
 ::: moniker range="o365-worldwide"
 
-On the [![Click here to go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
+On the [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
 
 ::: moniker-end
 
@@ -196,7 +196,7 @@ A Group in Outlook is like a shared mailbox. For a comparison of the two, see [C
 ## Fix issues with creating shared mailboxes
 <a name="bkmk_Fix"> </a>
 
-- Error message: **The proxy address "smtp:\<shared mailbox name\>" is already being used by the proxy addresses or LegacyExchangeDN of "\<name\>." Please choose another proxy address**. 
+- Error message: **The proxy address `smtp:<shared mailbox name\>` is already being used by the proxy addresses or LegacyExchangeDN of `<name>`. Please choose another proxy address**. 
     
     This issue occurs when you're trying to give the shared mailbox a name that's already in use. For example, let's say you want shared mailboxes named info@domain1 and info@domain2. There are two ways you can do this:
     

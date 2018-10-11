@@ -54,7 +54,7 @@ Before you can run the audit script, you create an input file that contains the 
     
 ```powershell
 
-<#Copyright 2016  Microsoft Licensed under the Apache License, Version 2.0 (the "License");  you may not use this file except in compliance with the License.  You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0  Unless required by applicable law or agreed to in writing, software  distributed under the License is distributed on an "AS IS" BASIS,  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the License for the specific language governing permissions  and limitations under the License.  Yammer auditing tool for Office 365 looks for active Yammer accounts  that  are missing from Office 365 / Azure AD.  Takes User.csv file from Yammer Data Export as the input file.   Compares all Active Yammer accounts in the input file to user   lookup in Azure AD. User is searched by both email and proxyAddresses.   The output csv file is exactly matching the source file, but it includes  three new columns: exists_in_azure_ad, object_id and azure_licenses:  exists_in_azure_ad: Will be TRUE or FALSE, and signals that the user can be, or cannot be found in Office 365 / Azure AD  object_id: For users that can be found, lists the ObjectId in Azure AD  azure_licenses: For users that can be found, lists the SKUs assigned to the user in Azure AD. 
+<#Copyright 2016  Microsoft Licensed under the Apache License, Version 2.0 (the "License");  you may not use this file except in compliance with the License.  You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0  Unless required by applicable law or agreed to in writing, software  distributed under the License is distributed on an "AS IS" BASIS,  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the License for the specific language governing permissions  and limitations under the License.  Yammer auditing tool for Office 365 looks for active Yammer accounts  that  are missing from Office 365 / Azure AD.  Takes User.csv file from Yammer Data Export as the input file.   Compares all Active Yammer accounts in the input file to user   lookup in Azure AD. User is searched by both email and proxyAddresses.   The output csv file is exactly matching the source file, but it includes  three new columns: exists_in_azure_ad, object_id and azure_licenses:  exists_in_azure_ad: Will be TRUE or FALSE, and signals that the user can be, or cannot be found in Office 365 / Azure AD  object_id: For users that can be found, lists the ObjectId in Azure AD  azure_licenses: For users that can be found, lists the plans assigned to the user in Azure AD. 
 
 This information can be used to double check licenses are assigned correctly for each user.  
 
@@ -72,7 +72,7 @@ Param(
    }
    Write-Host "Loading all Office 365 users from Azure AD. This can take a while depending on the number of users..."
    $o365usershash = @{}
-   get-msoluser -All | Select userprincipalname,proxyaddresses,objectid,@{Name="licenses";Expression={$_.Licenses.AccountSkuId}} | ForEach-Object {
+   get-msoluser -All | Select userprincipalname,proxyaddresses,objectid,@{Name="licenses";Expression={$_.Licenses.AccountplanId}} | ForEach-Object {
        $o365usershash.Add($_.userprincipalname.ToUpperInvariant(), $_)
        $_.proxyaddresses | ForEach-Object {
            $email = ($_.ToUpperInvariant() -Replace "SMTP:(\\*)*", "").Trim()

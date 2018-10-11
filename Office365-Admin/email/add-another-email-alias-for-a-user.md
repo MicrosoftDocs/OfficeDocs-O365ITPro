@@ -63,7 +63,7 @@ You must have [admin permissions](../add-users-2/about-admin-roles.md) in Office
     > [!TIP]
     > The email alias must end with a domain from the drop-down list. To add another domain name to the list, see [Adding additional domains to Office 365](https://support.office.com/article/2d2fa996-b760-411d-a5cc-190d63f13207.aspx). 
   
-    ![The Edit email addresses and username pane showing the primary email address, and a new alias to be added.](../media/2518a8b8-1136-4639-b159-35ad21f61437.png)
+    ![The Edit email addresses and username pane](../media/2518a8b8-1136-4639-b159-35ad21f61437.png)
   
 5. When you're done, choose **Save**.
     

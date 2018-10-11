@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for UAE (United Arab Emirates)
 author: cmcatee-MSFT
 ms.author: cmcatee

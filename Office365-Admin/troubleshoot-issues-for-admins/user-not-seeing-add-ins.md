@@ -25,7 +25,7 @@ Now that you've deployed the add-in, your end users can start using it in their 
 
 If the add-in supports add-in commands, the commands appear on the Office ribbon. In the following example, the command appears for the People Graph add-in in the **Insert** tab. The add-in command can appear on any tab. 
   
-![A new add-in can appear in any tab, in this example it is People Graph in the Insert tab.](../media/bc8f7108-72b3-4a8f-abce-9c1d49757396.png)
+![People Graph in the Insert tab](../media/bc8f7108-72b3-4a8f-abce-9c1d49757396.png)
   
 If the deployed add-in doesn't support add-in commands or if you want to view all deployed add-ins, you can view them via **My Add-ins** from the ** Insert ** tab. 
   
@@ -33,13 +33,13 @@ If the deployed add-in doesn't support add-in commands or if you want to view al
   
 Then select the **Admin Managed** tab along the top in the Office Add-ins window. If add-in is not there, choose **Refresh** in the top right corner. 
   
-![In My add-ins, go to Admin Managed and choose Refresh if your Add-in is not present.](../media/528df843-448c-48c9-8c82-10f2cb632174.png)
+![Refresh if your Add-in is not present](../media/528df843-448c-48c9-8c82-10f2cb632174.png)
   
 ## For Outlook 2016
 
 On the **Home** ribbon, choose **Store**, as shown here. Choose **Admin-managed** in the left nav. 
   
-![On the Home ribbon, choose Store, as shown here. Choose Admin-managed in the left nav.](../media/6ed3bb85-e4e6-4161-8ce9-a693e3f8dfb5.png)
+![Choose Store](../media/6ed3bb85-e4e6-4161-8ce9-a693e3f8dfb5.png)
   
 Users can't see add-in? Try one of these:
   

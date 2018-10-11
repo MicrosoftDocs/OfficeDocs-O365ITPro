@@ -22,13 +22,12 @@ description: "Learn how to remove an email alias from a contact using Exchange O
 
 # Troubleshoot: Remove an alias from a contact
 
-Did you get this error when you were creating a new user? "This email address is already being used as an alias for the contact \<contact name\>." This article will show you how to remove the email alias from the contact.
+Did you get this error when you were creating a new user? "This email address is already being used as an alias for the contact `<contact name>`." This article will show you how to remove the email alias from the contact.
   
 > [!CAUTION]
 > It is unusual for a contact to have an alias because it has to be added using Exchange Online PowerShell. You'll have to remove it using Exchange Online PowerShell. > If you're new to PowerShell, you can do this! The Exchange Online PowerShell commands used in this article will only remove an alias from a contact. 
   
 ## Remove the email alias from the contact using Exchange Online PowerShell
-<a name="bkmk_remove"> </a>
 
 Before you can do this procedure, you need the following:
   
@@ -38,7 +37,7 @@ Before you can do this procedure, you need the following:
     
 - The email address that you want to remove
     
-1. In Exchange Online PowerShell, replace **Contact name** and **alias@contoso.com** with your values, and run the following command: 
+1. In Exchange Online PowerShell, replace **Contact name** and **`alias@contoso.com`** with your values, and run the following command: 
     
   ```
   Set-MailContact -Identity "Contact name" -Alias @{remove="alias@contoso.com"}
@@ -53,7 +52,6 @@ Before you can do this procedure, you need the following:
   ```
 
 ## Did this solve your problem?
-<a name="bkmk_remove"> </a>
 
 Let us know if this did or didn't solve your problem by giving feedback at the bottom of this page: **Was this information helpful?**
   

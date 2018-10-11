@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for American Samoa
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -29,5 +28,3 @@ English: Mon-Fri 6 AM-2 PM
 English: 24 hours a day, 7 days a week
 
 Local call charges apply
-
-

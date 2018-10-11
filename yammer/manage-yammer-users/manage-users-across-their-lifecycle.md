@@ -61,11 +61,11 @@ The process follows these steps:
   
 2. Click **Edit** next to **Sign-in status** to swtich between **Allow the user to sign in** and **Block the user from signing in**, as in this screenshot.
     
-    ![Screenshot of the Sign-in status dialog box in Office 365](../media/c06def75-bb12-4dea-ae2b-325ee410c5ed.png)
+    ![Sign-in status dialog box in Office 365](../media/c06def75-bb12-4dea-ae2b-325ee410c5ed.png)
   
 2. This action flows into Yammer, and the corresponding user is logged out of Yammer (on all devices). When this user tries to login to Yammer again from any device, he or she will be prompted to login with their Office 365 credentials. However, the user will not be able to login because their sign-in status is set to blocked. As a Yammer verified administrator, you can go to the Network Admin area, and look at the Account activity section to verify that the Yammer user has been logged out, as in the following screenshot, where the user has no active Yammer sessions.
     
-    ![Screenshot of the Account Activity for a user showing no active Yammer sessions (logged out)](../media/c0704de5-d3c4-4b34-9bbb-f3cf31799734.png)
+    ![Account Activity for a user showing no active Yammer sessions (logged out)](../media/c0704de5-d3c4-4b34-9bbb-f3cf31799734.png)
   
 ## Delete a user
 

@@ -3,7 +3,6 @@ title: "Extend your trial for Office 365 for business"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -39,4 +38,4 @@ Do you need more time to try out the features of Office 365 for business before 
   
 3. Complete the steps in the wizard.
     
-When you're ready to buy Office 365, see [Buy your trial version of Office 365 for business](buy-a-subscription-from-your-free-trial.md).
+When you're ready to buy, see [Buy your trial version of Office 365 for business](buy-a-subscription-from-your-free-trial.md).

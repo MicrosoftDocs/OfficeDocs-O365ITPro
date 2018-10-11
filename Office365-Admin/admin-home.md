@@ -108,7 +108,7 @@ Learn about resources available for Office 365 admins.
         </a>
     </li>
     <li>
-        <a href="https://docs.microsoft.com/en-us/microsoft-365/business/">
+        <a href="https://docs.microsoft.com/en-us/microsoft-365/#pivot=home&panel=home-all">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -129,63 +129,57 @@ Learn about resources available for Office 365 admins.
 
 ---
 
-<ul class="panelContent cardsW">
+<ul class="panelContent cardsF">
     <li>
-        <a href="https://go.microsoft.com/fwlink/?linkid=2004037">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/office-365-admin-help-center-smiling-people.jpg" alt="Photo of three people smiling and talking in an office" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/get-started.svg" alt="Small business" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Easy, short videos for your small business</h3>
-                        <p>Get your small business set up and using Office 365.</p>
+                        <h3>For your small business</h3>
+                        <p><a href="https://go.microsoft.com/fwlink/?linkid=2004037">Grow your small business with Office 365.</a></p>
                     </div>
                 </div>
             </div>
         </div>
-        </a>
     </li>
     <li>
-        <a href="https://go.microsoft.com/fwlink/?linkid=511461">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/office-365-admin-help-center-training-course.png" alt="Image of a business report" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/on-premises.svg" alt="Enterprise" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Office 365 basics</h3>
-                        <p>Help users in your business get started with Office 365.</p>
+                        <h3>For the Enterprise</h3>
+                        <p><a href="https://docs.microsoft.com/en-us/Office365/Enterprise/">Guidance for IT Professionals who are deploying, configuring, and managing Office 365 in enterprise organizations.</a></p>
                     </div>
                 </div>
             </div>
         </div>
-        </a>
     </li>
     <li>
-        <a href="https://go.microsoft.com/fwlink/?linkid=124250">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/office-365-admin-help-center-training-courses-laptop.png" alt="Photo of a person viewing the Office Training Center on laptop" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/education-tutorial.svg" alt="Training" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Office training center</h3>
-                        <p>Find training for all Office applications.</p>
+                        <h3>For everyone: Office training center</h3>
+                        <p><a href="https://go.microsoft.com/fwlink/?linkid=124250">Find training for all Office applications.</a></p>
                     </div>
                 </div>
             </div>
         </div>
-        </a>
     </li>
 </ul>
 
@@ -242,8 +236,8 @@ Learn about resources available for Office 365 admins.
                 <div class="card">
                     <div class="cardText">
                         <h3>Subscribe</h3><!-- These links to be replaced by docs.microsoft.com links when ready. -->
-                        <p><a href="/billing-and-subscriptions-0/buy-a-subscription-from-your-free-trial-0">Buy a subscription from your free trial</a></p>
-                        <p><a href="/billing-and-subscriptions-0/cancel-your-subscription-0">Cancel your subscription</a></p>
+                        <p><a href="/subscriptions-and-billing/buy-a-subscription-from-your-free-trial">Buy a subscription from your free trial</a></p>
+                        <p><a href="/subscriptions-and-billing/cancel-your-subscription">Cancel your subscription</a></p>
                     </div>
                 </div>
             </div>

@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Finland
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -30,6 +29,4 @@ English: 24 hours a day, 7 days a week
 
 Alternative Phone Number: 09 72 51 96 30
 
-(Local call charges apply)
-
-
+Local call charges apply

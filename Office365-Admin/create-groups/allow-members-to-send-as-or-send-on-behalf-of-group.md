@@ -44,11 +44,11 @@ This section explains how to allow users to send email as an Office 365 Group in
     
 4. In the Send As section, choose the **+** sign to add the users that you want to send as the Office 365 Group. 
     
-    ![Screenshot: Choose the plus sign to add the users that you want to send as the Office 365 Group](../media/1df167f6-1eff-4f98-9ecd-4230fab46557.png)
+    ![Choose the plus sign to add the users that you want to send as the Office 365 Group](../media/1df167f6-1eff-4f98-9ecd-4230fab46557.png)
   
 5. Type to search or pick a user from the list. Click **OK** and **Save**.
     
-    ![Screenshot: Type to search or pick a user from the list](../media/522919cf-664c-4a25-8076-c51c8c9fbe43.png)
+    ![Type to search or pick a user from the list](../media/522919cf-664c-4a25-8076-c51c8c9fbe43.png)
   
 Check the out the steps in [Send email from or on behalf of an Office 365 group](https://support.office.com/article/0f4964af-aec6-484b-a65c-0434df8cdb6b.aspx) to learn how to use Outlook and Outlook on the Web to send email from an Office 365 Group. 
   
@@ -69,17 +69,17 @@ This section explains how to allow users to send email on behalf of an Office 36
   
 1. In the EAC, go to **Recipients** \> **Groups**.
     
-2. Select **Edit**![Screenshot: Edit group icon](../media/0cfcb590-dc51-4b4f-9276-bb2ce300d87e.png) on the Office 365 Group that you want to allow users to send as. 
+2. Select **Edit**![Edit group icon](../media/0cfcb590-dc51-4b4f-9276-bb2ce300d87e.png) on the Office 365 Group that you want to allow users to send as. 
     
 3. Select **group delegation**.
     
 4. In the Send on Behalf section, choose the **+** sign to add the users that you want to send as the Office 365 Group. 
     
-    ![Screenshot: choose the plus sign to add the users that you want to send as the Office 365 Group](../media/2bae0579-8907-4d6b-8920-ddd6555897b4.png)
+    ![choose the plus sign to add the users that you want to send as the Office 365 Group](../media/2bae0579-8907-4d6b-8920-ddd6555897b4.png)
   
 5. Type to search or pick a user from the list. Click **OK** and **Save**.
     
-    ![Screenshot: Type to search or pick a user from the list](../media/522919cf-664c-4a25-8076-c51c8c9fbe43.png)
+    ![Type to search or pick a user from the list](../media/522919cf-664c-4a25-8076-c51c8c9fbe43.png)
   
     Check the out the steps in [Send email from or on behalf of an Office 365 group](https://support.office.com/article/0f4964af-aec6-484b-a65c-0434df8cdb6b.aspx) to learn how to use Outlook and Outlook on the Web to send email from an Office 365 Group. 
     

@@ -53,7 +53,7 @@ When you change your domain's email to come to Office 365, by updating your doma
 ## Change your email address to use your custom domain using the Office 365 admin center
 <a name="BKMK_PreviewAdminCenter"> </a>
 
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. Choose **Setup** \> **Domains**.
     

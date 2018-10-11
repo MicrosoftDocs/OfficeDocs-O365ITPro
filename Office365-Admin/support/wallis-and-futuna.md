@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Wallis and Futuna
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -33,5 +32,3 @@ French: Mon-Fri 7 PM-8 AM
 English: 24 hours a day, 7 days a week
 
 International call charges apply
-
-

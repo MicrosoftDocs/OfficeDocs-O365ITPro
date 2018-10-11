@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Germany
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -34,6 +33,4 @@ English: 24 hours a day, 7 days a week
 
 Alternative Phone Number: 069 380 789 508
 
-(Local call charges apply)
-
-
+Local call charges apply

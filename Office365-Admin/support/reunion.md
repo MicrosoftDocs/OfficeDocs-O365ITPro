@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Reunion
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -33,5 +32,3 @@ French: Mon-Fri 11 AM-11 PM
 English: 24 hours a day, 7 days a week
 
 Local call charges apply
-
-

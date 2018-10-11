@@ -3,7 +3,6 @@ title: "Update your admin phone number and email address in Office 365"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -24,22 +23,14 @@ This article explains how you, the admin, can change your business phone and ema
 If you're looking for how to change your company's profile information, such as company name and address, company phone number, and technical contact information, see [Change your organization's address, technical contact email, and other information](change-address-contact-and-more.md). 
   
 ## To update your name, phone number, and email address
-<a name="__top"> </a>
 
 Use the **Personal info** page to change your name, mobile phone number, and alternate email address. The alternate email address is used for important notifications, such as resetting your Office 365 admin password (not your computer admin password). 
   
 1. Browse to the Office 365 admin center.
     
-2. Click **Settings**![Settings: update your profile, install software and connect it to the cloud](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **Office 365 Settings** \> **Personal info**.
-    
-    ![Update your admin personal info](../media/de422327-dd57-47c5-a3a0-3ddbae805bb8.png)
+2. Click **Settings** ![Settings](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **Office 365 Settings** \> **Personal info**.<br/>![Update your admin personal info](../media/de422327-dd57-47c5-a3a0-3ddbae805bb8.png)
   
-3. On the **contact details** section, update your phone, primary email address and alternate email address. Make sure you use something different from your Office 365 email address for your alternate email address. 
-    
-    ![Use the contact details to update admin info](../media/f3e52395-e259-426b-9f50-679bceeb987e.png)
-  
-    > [!IMPORTANT]
-    > The alternate email address and the mobile phone number are needed for resetting your Office 365 admin password (not your computer admin password). 
+3. On the **contact details** section, update your phone, primary email address and alternate email address. Make sure you use something different from your Office 365 email address for your alternate email address.<br/>![Use contact details to update admin info](../media/f3e52395-e259-426b-9f50-679bceeb987e.png)<br/>**IMPORTANT:** The alternate email address and the mobile phone number are needed for resetting your Office 365 admin password (not your computer admin password). 
   
 For answers to billing questions, see:
   

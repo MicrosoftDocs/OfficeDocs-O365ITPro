@@ -64,7 +64,7 @@ There are a few different ways you can access a mailbox once you've been given a
     
 4. Once you've selected your users, click **Save**.
     
-![Screenshot: Allow another user to send email as this user](../media/b322f8ec-7b13-44aa-841f-3a6539136e26.png)
+![Allow another user to send email as this user](../media/b322f8ec-7b13-44aa-841f-3a6539136e26.png)
   
 ## Read email in another user's mailbox
 <a name="BKMK_ReadEmailAnotherUser"> </a>
@@ -77,7 +77,7 @@ There are a few different ways you can access a mailbox once you've been given a
     
 4. Once you've selected your users, click **Save**.
     
-![Screenshot: Add users to read and manage this user's mailbox](../media/e0316e42-f6aa-42fa-9a3e-31efadc5610a.png)
+![Add users to read and manage this user's mailbox](../media/e0316e42-f6aa-42fa-9a3e-31efadc5610a.png)
   
 ## Send email on behalf of another user
 <a name="BKMK_SendBehalflAnotherUser"> </a>
@@ -90,7 +90,7 @@ There are a few different ways you can access a mailbox once you've been given a
     
 4. Once you've selected your users, click **Save**.
     
-![Screenshot: Allow another user to send on behalf of this user](../media/92061d98-6376-476f-ac1b-d0d617141fc6.png)
+![Allow another user to send on behalf of this user](../media/92061d98-6376-476f-ac1b-d0d617141fc6.png)
   
 ## Send and read from Outlook and Outlook on the web for business
 <a name="BKMK_OutlookOWA"> </a>

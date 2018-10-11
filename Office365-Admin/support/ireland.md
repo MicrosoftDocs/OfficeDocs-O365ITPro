@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Ireland
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -30,6 +29,4 @@ English: 24 hours a day, 7 days a week
 
 Alternative Phone Number: 01 656 9837
 
-(Local call charges apply)
-
-
+Local call charges apply

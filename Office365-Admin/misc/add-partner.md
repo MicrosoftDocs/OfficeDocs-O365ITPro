@@ -74,7 +74,7 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
 
 ::: moniker range="o365-worldwide"
 
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
     
@@ -102,7 +102,7 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
 
 ::: moniker range="o365-germany"
 
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
     
@@ -130,7 +130,7 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
 
 ::: moniker range="o365-worldwide"
 
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
     
@@ -152,7 +152,7 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
 
 ::: moniker range="o365-germany"
 
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
     
@@ -174,7 +174,7 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
 
 ::: moniker range="o365-worldwide"
 
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
     
@@ -196,7 +196,7 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
 
 ::: moniker range="o365-germany"
 
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
     
@@ -216,7 +216,7 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
 
 ## View your partner relationships
 
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
     
@@ -228,7 +228,7 @@ If you don't have a partner, you'll see a message that says "We didn't find anyt
   
 ## Delete a partner from a subscription
 
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
     

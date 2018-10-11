@@ -33,7 +33,7 @@ description: "Learn how to buy a domain name in Office 365."
   
 ### Sign in and click Settings \> Domains \> Buy a domain
 
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. On the **Admin** page, on the left, choose **Setup**, and then **Domains**.
     

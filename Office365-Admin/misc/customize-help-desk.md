@@ -57,11 +57,11 @@ The help desk card consists of:
     
 3. Choose the settings icon, and then choose **Organization profile**.
     
-    ![Screenshot of the Settings menu with Organization profile selected](../media/4644cb10-9b10-4d60-ae01-0ff4316c6095.png)
+    ![Settings menu with Organization profile selected](../media/4644cb10-9b10-4d60-ae01-0ff4316c6095.png)
   
 4. Next to **Provide customized help desk contact info**, choose **Edit**.
     
-    ![Screenshot of the Edit option next to 'Provide customized help desk contact info'](../media/19d5ebc2-6ff8-4a76-8b3b-4a500f633666.png)
+    ![Edit option next to 'Provide customized help desk contact info'](../media/19d5ebc2-6ff8-4a76-8b3b-4a500f633666.png)
   
 5. Turn on the **Help desk card**.
     

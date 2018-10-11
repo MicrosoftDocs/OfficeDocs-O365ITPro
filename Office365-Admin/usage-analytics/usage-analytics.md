@@ -109,7 +109,7 @@ You can access detailed reports for each area by clicking on the data tables. Yo
 |:-----|
 |**Is it possible to aggregate the information in the content pack across multiple subscriptions?**|
 |:-----|
-|**Is it possible to see usage by SKU (i.e. E1, E3)?**|
+|**Is it possible to see usage by plan (i.e. E1, E3)?**|
 |:-----|
 |**Is it possible to integrate other data sets into the content pack?**|
 |:-----|

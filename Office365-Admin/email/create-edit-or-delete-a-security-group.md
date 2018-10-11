@@ -66,7 +66,7 @@ There are also [Groups in Exchange Online and SharePoint Online](create-edit-or-
     > [!TIP]
     > You can also enter text similar to add security group into the Tell me what you want to do ... search box and the **New Group** dialog will open if you choose **Add a group** from the Tasks list. 
   
-![In the admin center preview choose Groups and then Groups](../media/bb083666-22f7-41c1-b9d8-2b4a878118c4.png)
+![In the admin center choose Groups](../media/bb083666-22f7-41c1-b9d8-2b4a878118c4.png)
   
 2. On the **Groups** page, select a group, or select multiple groups by selecting the check box next to the Group names. 
     
@@ -83,7 +83,7 @@ There are also [Groups in Exchange Online and SharePoint Online](create-edit-or-
     > [!TIP]
     > You can also enter text similar to add security group into the **Tell me what you want to do ...** search box and the **New Group** dialog will open if you choose **Add a group** from the Tasks list. 
   
-![In the admin center preview choose Groups and then Groups](../media/bb083666-22f7-41c1-b9d8-2b4a878118c4.png)
+![In the admin center choose Groups](../media/bb083666-22f7-41c1-b9d8-2b4a878118c4.png)
   
 2. On the **Groups** page, select a group by clicking on its name. 
     

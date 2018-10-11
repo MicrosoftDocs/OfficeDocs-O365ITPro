@@ -49,13 +49,13 @@ You must have [admin permissions](../add-users-2/about-admin-roles.md) in Office
   
 5. Scroll down to **Mail Settings** and expand using the drop-down. Click or tap **Edit**
     
-    ![Screenshot: Chose Edit to configure email forwarding](../media/2e74ec77-681e-422f-905f-ffe15a1b80f1.png)
+    ![Chose Edit to configure email forwarding](../media/2e74ec77-681e-422f-905f-ffe15a1b80f1.png)
   
 6. On the Email forwarding page, select **Forward all email sent to this mailbox** toggle, enter the forwarding address, and choose whether you want to keep a copy of forwarded emails. If you don't see this option, make sure a license is assigned to the user account. Choose **Save**.
     
     **To forward to multiple email addresses**, [create a distribution list](../setup/create-distribution-lists.md), [add the addresses to it](add-user-or-contact-to-distribution-list.md), and then set up forwarding to point to the DL using the instructions in this article.
     
-    ![Screenshot: Enter forwarding email address](../media/9aa97b22-3951-4a9f-8483-231400d8821a.png)
+    ![Enter forwarding email address](../media/9aa97b22-3951-4a9f-8483-231400d8821a.png)
   
 7. Remember, don't delete the account of the user who's email you're forwarding or remove the license! 
     

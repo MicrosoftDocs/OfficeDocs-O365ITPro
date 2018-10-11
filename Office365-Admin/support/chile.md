@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Chile
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -30,6 +29,4 @@ Spanish: 24 hours a day, 7 days a week
 
 Alternative Phone Number: 123 002 000 05
 
-(Local call charges apply)
-
-
+Local call charges apply

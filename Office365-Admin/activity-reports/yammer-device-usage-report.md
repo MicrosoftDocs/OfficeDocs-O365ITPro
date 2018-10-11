@@ -3,7 +3,6 @@ title: "Office 365 Reports in the Admin Center - Yammer device usage report"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -33,17 +32,13 @@ The Yammer device usage reports give you information about which devices your us
   
 ## How do I get to the Yammer device usage report?
 
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
     
-3. Select **Reports** and then **Usage** from the left menu. 
-    
-    ![On the admin page choose Reports and then usage from the left navigation](../media/e07a631e-3e05-4f17-affd-db5b7cb0bae2.png)
+3. Select **Reports** and then **Usage** from the left menu.<br/> ![Choose Reports and then usage](../media/e07a631e-3e05-4f17-affd-db5b7cb0bae2.png)
   
-4. Use the **Select a report** drop-drop at the top left and select **Yammer device usage**.
-    
-    ![Select Yammer device usage from the Select a report drop-down](../media/4ce58c73-ac60-4036-862d-9cc3665245f0.png)
+4. Use the **Select a report** drop-drop at the top left and select **Yammer device usage**.<br/>![Select Yammer device usage](../media/4ce58c73-ac60-4036-862d-9cc3665245f0.png)
   
 ## Interpret the Yammer activity report
 
@@ -55,17 +50,9 @@ The device usage report contains the following information.
     
 - Each report has a date for when the report was generated. The reports usually reflect a 24 to 48 hour latency from time of activity.
     
-- You can view the **Users** chart to see the number of daily users by device type. 
-    
-    ![Screenshot of the Users view in the Yammer device usage chart](../media/ecfba1ec-fbea-4491-88da-1fb19b4d5629.png)
+- You can view the **Users** chart to see the number of daily users by device type.<br/>![Users view in the Yammer device usage chart](../media/ecfba1ec-fbea-4491-88da-1fb19b4d5629.png)<br/>![Yammer device usage report showing the Users view](../media/f396865a-ad6e-4f8b-a145-cc3865b352f4.png)
   
-    ![Screenshot of the Yammer device usage report showing the Users view](../media/f396865a-ad6e-4f8b-a145-cc3865b352f4.png)
-  
-- You can view the **Distribution** chart to see the number of users by device type. 
-    
-    ![Screenshot of the Distribution view in the Yammer device usage report](../media/7a0b152e-2d2b-4d23-8dc2-046be53b724f.png)
-  
-    ![Screenshot of the Yammer device usage report showing the distribution view](../media/780c351d-7a1d-451d-8c16-4c454ef58aa8.png)
+- You can view the **Distribution** chart to see the number of users by device type.<br/>![Distribution view in the Yammer device usage report](../media/7a0b152e-2d2b-4d23-8dc2-046be53b724f.png)<br/>![Yammer device usage report](../media/780c351d-7a1d-451d-8c16-4c454ef58aa8.png)
   
 - The **Details** table under the graph shows you a breakdown of the Yammer device usage at the per-user level. 
     
@@ -95,6 +82,6 @@ The device usage report contains the following information.
     
     If your organization's policies prevents you from viewing reports where user information is identifiable, you can change the privacy setting for all these reports. Check out the **How do I hide user level details?** section in the [Activity Reports in the Office 365 Admin Center](activity-reports.md).
     
-- You can also export the report data into an Excel .csv file, by clicking or tapping the **Export**![Office 365 reports - export your data to an Excel file](../media/816a224b-6ca7-4967-a135-4f6427f64dc8.JPG) link. This exports data of all users and enables you to do simple sorting and filtering for further analysis. If you have less than 2000 users, you can sort and filter within the table in the report itself. If you have more than 2000 users, in order to filter and sort, you will need to export the data. 
+- You can also export the report data into an Excel .csv file, by clicking or tapping the **Export**![Office 365 reports](../media/816a224b-6ca7-4967-a135-4f6427f64dc8.JPG) link. This exports data of all users and enables you to do simple sorting and filtering for further analysis. If you have less than 2000 users, you can sort and filter within the table in the report itself. If you have more than 2000 users, in order to filter and sort, you will need to export the data. 
     
 

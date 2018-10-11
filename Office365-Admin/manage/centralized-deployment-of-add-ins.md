@@ -3,7 +3,6 @@ title: "Determine if Centralized Deployment of add-ins works for your Office 365
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -14,7 +13,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: b4527d49-4073-4b43-8274-31b7a3166f92
-
 description: "Determine if your Office 365 tenant and users meet the requirements, so that you can use Centralized Deployment to deploy Office add-ins."
 ---
 
@@ -83,18 +81,18 @@ Office Online is supported for all Office 365 business plans. Office 365 ProPlus
 
 Using the Office 365 Centralized Deployment Compatibility Checker, you can verify whether the users on your tenant are set up to use Centralized Deployment for Word, Excel and PowerPoint. The Compatibility Checker is not required for Outlook support. Download the compatibility checker [here](https://aka.ms/officeaddindeploymentorgcompatibilitychecker).
   
-To run the compatibility checker, follow these steps:
+#### Run the compatibility checker
   
 1. Start an elevated PowerShell.exe window.
     
-2. Run the \<Import-Module O365CompatibilityChecker\> command without the brackets.
+2. Run the `\<Import-Module O365CompatibilityChecker\>` command without the brackets.
     
-3. Run the \< **Invoke-CompatibilityCheck\>** command without the brackets, which prompts you for  _TenantDomain_ (for example, TailspinToysIncorporated.onmicrosoft.com) and  _TenantAdmin_ credentials, and then requests consent. 
+3. Run the `\<Invoke-CompatibilityCheck\>` command without the brackets, which prompts you for  `_TenantDomain_` (for example, `TailspinToysIncorporated.onmicrosoft.com`) and  `_TenantAdmin_` credentials, and then requests consent. 
     
 > [!NOTE]
 > Depending on the number of users in your tenant, the checker could complete in minutes or hours. 
   
-When the tool finishes running, it produces an output file in comma-separated (.csv) format. The file is saved to C:\windows\system32 by default. The output file contains the following information:
+When the tool finishes running, it produces an output file in comma-separated (.csv) format. The file is saved to `C:\windows\system32` by default. The output file contains the following information:
   
 - User Name
     
@@ -102,7 +100,7 @@ When the tool finishes running, it produces an output file in comma-separated (.
     
 - Centralized Deployment ready - If the remaining items are true
     
-- Office SKU - The SKU of Office they are licensed for
+- Office plan - The plan of Office they are licensed for
     
 - Office Activated - If they have activated Office
     
@@ -113,8 +111,8 @@ When the tool finishes running, it produces an output file in comma-separated (.
 The simplest way to detect if a user has Office 365 ProPlus installed and has been using it recently is to use the Microsoft Office Activations report, which is available in the Office 365 admin center. The report provides a list of all users who have activated Office 365 ProPlus within the last 7 days, 30 days, 90 days, or 180 days. For centralized deployment purposes, the desktop activations for Windows or Mac are the important columns in the report. You can export the report to Excel. For more information about the report, see [Office 365 Reports in the Admin Center - Microsoft Office activations](../activity-reports/microsoft-office-activations.md).
   
 If you don't want to use the Activations report, you can ask a user to open on their machine an Office application, such as Word, and then choose **File** \> **Account**. Under **Product Information**, you should see **Subscription Product** and **Microsoft Office 365 ProPlus**, as shown in the following image.
-  
-![Screenshot of part of the Product Information section in an Office application. Shows the application is a Subscription Product for Office 365 ProPlus.](../media/4bff2bb8-0690-4d22-ac1f-b8881807fa39.png)
+
+![Product information in an Office application](../media/4bff2bb8-0690-4d22-ac1f-b8881807fa39.png)
   
 For help with Office 365 ProPlus, see [Troubleshooting tips for Office 365 ProPlus](https://go.microsoft.com/fwlink/p/?linkid=846339).
   
@@ -125,7 +123,6 @@ Microsoft Exchange stores the add-in manifests within your organization's tenant
 Check with your organization's Exchange admin to find out which configuration is in use. OAuth connectivity per user can be verified by using the [Test-OAuthConnectivity](https://go.microsoft.com/fwlink/p/?linkid=846351) PowerShell cmdlet. 
   
 ## User and group assignments
-<a name="BKMK_UserAndGroupAssignments"> </a>
 
 The Centralized Deployment feature currently supports the majority of groups supported by Azure Active Directory, including Office 365 Groups, distribution lists, and security groups.
   
@@ -142,7 +139,7 @@ The following table shows what assignments are supported within Centralized Depl
    
 Take a look at the following example where Sandra, Sheila, and the Sales Department group are assigned to an add-in. Because the West Coast Sales Department is a nested group, Bert and Fred aren't assigned to an add-in.
   
-![Diagram shows a box labeled Sales Dept, that contains names Joe and Bob, and it's connected to a box below it labeled West Coast Sales with names Bert and Fred. Next to the box is a red X. The names Sandra and Sheila are in the upper-right of the diagram.](../media/683094bb-1160-4cce-810d-26ef7264c592.png)
+![Diagram of sales department](../media/683094bb-1160-4cce-810d-26ef7264c592.png)
   
 |**User**|**How admin assigns the add-in**|**Assigned to an add-in?**|
 |:-----|:-----|:-----|
@@ -157,11 +154,11 @@ Take a look at the following example where Sandra, Sheila, and the Sales Departm
 
 The easiest way to detect if a group contains nested groups is to view the group contact card within Outlook. If you enter the group name within the **To** field of an email and then click the group name when it resolves, it will show you if it contains users or nested groups. In the example below, the **Members** tab of the Outlook contact card for the Test Group shows no users and only two sub groups. 
   
-![Screenshot of the Members tab of the of the Outlook contact card for the group named Test Group. Sub Group 1 and Sub Group 2 are shown as members.](../media/d9db88c4-d752-426c-a480-b11a5b3adcd6.png)
+![Members tab of Outlook contact card](../media/d9db88c4-d752-426c-a480-b11a5b3adcd6.png)
   
 You can do the opposite query by resolving the group to see if it's a member of any group. In the example below, you can see under the **Membership** tab of the Outlook contact card that Sub Group 1 is a member of the Test Group. 
   
-![Screenshot of the Membership tab of the Outlook contact card for the group named Sub Group 1, showing that Sub Group 1 is a member of the group named Test Group.](../media/a9f9b6ab-9c19-4822-9e3d-414ca068c42f.png)
+![Membership tab of the Outlook contact card](../media/a9f9b6ab-9c19-4822-9e3d-414ca068c42f.png)
   
 Alternately, you can use the Azure Active Directory Graph API to run queries to find the list of groups within a group. For more information, see [Operations on groups | Graph API reference](https://go.microsoft.com/fwlink/p/?linkid=846342).
   
@@ -171,14 +168,7 @@ If you or your users encounter problems loading the add-in while using Office On
   
 |**Platform**|**Debug information**|
 |:-----|:-----|
-|Office Online  <br/> | Charles/Fiddler logs  <br/>  Tenant ID ( [learn how](https://support.office.com/article/6891b561-a52d-4ade-9f39-b492285e2c9b.aspx))  <br/>  CorrelationID. View the source of one of the office pages and look for the Correlation ID value and send it on:  <br/>  \<input name=" **wdCorrelationId**" type="hidden" value=" **{BC17079E-505F-3000-C177-26A8E27EB623}**"\>  <br/>  \<input name="user_id" type="hidden" value="1003bffd96933623"\> \</form\>  <br/> |
-|Rich clients (Windows, Mac)  <br/> | Charles/Fiddler logs  <br/>  Build numbers of the client app (preferably as a screenshot from File/Account)  <br/> |
+|Office Online  <br/> | Charles/Fiddler logs  <br/>  Tenant ID ( [learn how](https://support.office.com/article/6891b561-a52d-4ade-9f39-b492285e2c9b.aspx))  <br/>  CorrelationID. View the source of one of the office pages and look for the Correlation ID value and send it on:  <br/>`<input name=" **wdCorrelationId**" type="hidden" value=" **{BC17079E-505F-3000-C177-26A8E27EB623}**">`  <br/>  `<input name="user_id" type="hidden" value="1003bffd96933623"></form>`  <br/> |
+|Rich clients (Windows, Mac)  <br/> | Charles/Fiddler logs  <br/>  Build numbers of the client app (preferably as a screenshot from **File/Account**)  <br/> |
    
-## See also
-<a name="BKMK_UserAndGroupAssignments"> </a>
-
-[Deploy Office Add-ins in the Office 365 Admin Center](manage-deployment-of-add-ins.md)
-  
-[Use the Centralized Deployment PowerShell cmdlets to manage add-ins](https://support.office.com/article/94f4e86d-b8e5-42dd-b558-e6092f830ec9)
-  
 

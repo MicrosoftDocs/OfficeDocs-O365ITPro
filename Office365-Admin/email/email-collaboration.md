@@ -64,7 +64,7 @@ The following table gives you a quick glance at the various types of groups and 
 |**Email arrives in user's personal Inbox?** <br/> |No. Users can subscribe to a group and then forward all Group messages to their inbox  <br/> |Yes. Email arrives in the inbox of all distribution group members.  <br/> |No. Email arrives in the Inbox of the shared mailbox.  <br/> |No. Email arrives in the public folder.  <br/> |
 |**Supported clients** <br/> | Outlook 2016  <br/>  Outlook 2013 (forward after subscribing)  <br/>  Outlook Web App  <br/>  Outlook 2010 (forward after subscribing)  <br/>  Outlook 2007 (forward after subscribing)  <br/> | Outlook 2016  <br/>  Outlook 2013  <br/>  Outlook Web App  <br/>  Outlook 2010  <br/>  Outlook 2007  <br/> | Outlook 2016  <br/>  Outlook 2013  <br/>  Outlook Web App  <br/>  Outlook 2010  <br/>  Outlook 2007  <br/> | Outlook 2016  <br/>  Outlook 2013  <br/>  Outlook Web App  <br/>  Outlook 2010  <br/>  Outlook 2007  <br/> |
    
-![Top of page Button](../media/02ce1b00-a60c-4984-9b0e-736f3ea66f8a.gif)[Summary of collaboration options](email-collaboration.md#BKMK_SUMMARYOFCOLLABORATIONOPTIONS)
+[Summary of collaboration options](email-collaboration.md#BKMK_SUMMARYOFCOLLABORATIONOPTIONS)
   
 ## Related topics
 <a name="BKMK_SUMMARYOFCOLLABORATIONOPTIONS"> </a>

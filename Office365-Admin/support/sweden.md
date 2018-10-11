@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Sweden
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -31,5 +30,3 @@ English: 24 hours a day, 7 days a week
 Alternative Phone Number: 08 5176 1966
 
 Local call charges apply
-
-

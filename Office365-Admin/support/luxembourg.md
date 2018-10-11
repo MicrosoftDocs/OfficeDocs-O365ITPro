@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Luxembourg
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -39,5 +38,3 @@ English: 24 hours a day, 7 days a week
 Alternative Phone Number: 24 87 15 10
 
 Local call charges apply
-
-

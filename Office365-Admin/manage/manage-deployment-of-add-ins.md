@@ -3,7 +3,6 @@ title: "Manage deployment of Office 365 add-ins in the Office 365 admin center"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -34,7 +33,7 @@ Centralized Deployment provides the following benefits:
     
 - When the relevant Office application starts, the add-in automatically downloads for the user. If the add-in supports add-in commands, the add-in automatically appears in the Ribbon within the Office application.
     
-- ﻿Add-ins will no longer appear for users if the admin turns off or deletes the add-in, or if the user is removed from Azure Active Directory or from a group that the add-in is assigned to.
+- Add-ins will no longer appear for users if the admin turns off or deletes the add-in, or if the user is removed from Azure Active Directory or from a group that the add-in is assigned to.
     
 > [!NOTE]
 >  For Word, Excel and PowerPoint use a [SharePoint App Catalog](https://dev.office.com/docs/add-ins/publish/publish-task-pane-and-content-add-ins-to-an-add-in-catalog) to deploy add-ins to users in an on-premises environment with no connection to Office 365 and/or support for SharePoint add-ins required. >  For Outlook use Exchange control panel to deploy in an on-premises environment without a connection to Office 365. > 
@@ -54,21 +53,18 @@ Depending on the size of the target audience, you may want to add or remove roll
 ## Deploy an Office add-in using the Office 365 admin center
 
 Before you begin, see [Determine if Centralized Deployment of add-ins works for your Office 365 organization](centralized-deployment-of-add-ins.md).
-  
- **Note:**
-  
-For Single Sign-In add-ins the users and groups assigned will also be shared with add-ins that share the same Azure App ID. Any changes to user assignments will also apply to those add-ins. The related add-ins will be shown on this page.﻿
+   
+> [!NOTE]
+> For Single Sign-In add-ins the users and groups assigned will also be shared with add-ins that share the same Azure App ID. Any changes to user assignments will also apply to those add-ins. The related add-ins will be shown on this page.
   
 ![List of Scopes](../media/0c131b91-d2a1-4515-838f-26b551b77dd2.png)
   
- **Note:** When the Global admin clicks Save, consent is written for all users in the tenant, not just those that the add-in has been assigned to. 
+ > [!NOTE]
+> When the Global admin clicks Save, consent is written for all users in the tenant, not just those that the add-in has been assigned to. 
   
 1. [Where to sign in to Office 365 for business](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) with your work or school account. 
     
-2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left, and choose **Admin**. 
-    
-    > [!TIP]
-    > **Admin** appears only to Office 365 admins. 
+2. Select the app launcher icon ![App launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left, and choose **Admin**.<br/> TIP: **Admin** appears only to Office 365 admins. 
   
 3. In the navigation menu, choose **Settings** \> **Services &amp; add-ins**. 
     
@@ -84,45 +80,25 @@ For Single Sign-In add-ins the users and groups assigned will also be shared wit
     
   - **I have a URL for the manifest file**: For this option, type the URL in the field provided. 
     
-![Screenshot shows the New Add-in dialog for Centralized Deployment. Options available are to add an add-in via the Office Store, browse for a manifest file, or type the URL for the manifest file.](../media/b3abd42f-63d8-4a5f-8893-d1ae38f4e9b2.png)
+![Add-in dialog for Centralized Deployment](../media/b3abd42f-63d8-4a5f-8893-d1ae38f4e9b2.png)
   
 7. Select **Next**. 
     
-8. If you selected the option to add an add-in from the Office Store, you can now make your add-in selection in **Select an Add-in**. Notice that you can view available add-ins via categories of **Suggested for you**, **Rating**, or **Name**. Only free add-ins are available to add from the Office Store. Paid add-ins aren't supported currently. 
-    
-    > [!NOTE]
-    > With the Office Store option, updates and enhancements to the add-in will automatically be made available to users without your intervention. 
+8. If you selected the option to add an add-in from the Office Store, you can now make your add-in selection in **Select an Add-in**. Notice that you can view available add-ins via categories of **Suggested for you**, **Rating**, or **Name**. Only free add-ins are available to add from the Office Store. Paid add-ins aren't supported currently.<br/> NOTE: With the Office Store option, updates and enhancements to the add-in will automatically be made available to users without your intervention.<br/> ![Select an Add-in dialog for the Office Store](../media/2a8de1f4-03b0-4ab6-aa99-4451ee30a64c.png)
   
-![Screenshot shows the Select an Add-in dialog for the Office Store. A drop-down control for viewing available add-in shows categories of Suggested for you, Rating, and Name.](../media/2a8de1f4-03b0-4ab6-aa99-4451ee30a64c.png)
+9. The add-in is now enabled. On the page for the add-in, its status is **On**, like that shown for the Power BI Tiles add-in in the screenshot below. In **Who has access**, select **Edit** to specify who the add-in is deployed to. <br/>NOTES:<br/>By default, the add-in can't be deployed to anyone until you identify people or groups.<br/>Learn about the other states that apply to an add-in. See [Add-in states](manage-deployment-of-add-ins.md#BKMK_AddinStates) later in this topic.<br/>![Centralized Deployment page for the Power BI Tiles add-in](../media/0faa60e8-1e71-4ed1-bbc1-5a2f85ebf981.png)
   
-9. The add-in is now enabled. On the page for the add-in, its status is **On**, like that shown for the Power BI Tiles add-in in the screenshot below. In **Who has access**, select **Edit** to specify who the add-in is deployed to. 
-    
-    > [!NOTE]
-    > By default, the add-in can't be deployed to anyone until you identify people or groups. 
-  
-    > [!TIP]
-    > Learn about the other states that apply to an add-in. See [Add-in states](manage-deployment-of-add-ins.md#BKMK_AddinStates) later in this topic. 
-  
-![Screenshot shows the Centralized Deployment page for the Power BI Tiles add-in. In the field labeled Who has access, the value is Currently unassigned and the cursor points to Edit.](../media/0faa60e8-1e71-4ed1-bbc1-5a2f85ebf981.png)
-  
-10. On the **Edit who has access** page, select either **Everyone** or **Specific Users/Groups**. Use the Search box to find the users or groups who you want to deploy the add-in to. 
-    
-    ![Screenshot shows the Edit who has access page for the Power BI Tiles add-in. Options to select from are Everyone or Specific Users/Groups. To specify users or groups, use the Search box.](../media/46571963-5938-4c7d-b60e-a3ad06758ddf.png)
+10. On the **Edit who has access** page, select either **Everyone** or **Specific Users/Groups**. Use the Search box to find the users or groups who you want to deploy the add-in to.<br/>![Edit who has access page for the Power BI Tiles add-in](../media/46571963-5938-4c7d-b60e-a3ad06758ddf.png)
   
 11. For Single Sign-In add-ins only:
   
 This page will display the list of Graph scopes that the add-in requires in order to function. 
     
-12. When finished, choose **Save**, review the add-in settings, and then select **Close**. 
-    
-    You now see your add-in along with other apps in Office 365.
-    
-    ![Office 365 admin center deployed Add-In](../media/71bfd837-20bc-4517-9513-33fc70147669.png)
+12. When finished, choose **Save**, review the add-in settings, and then select **Close**. <br/>You now see your add-in along with other apps in Office 365.<br/>![Office 365 admin center deployed Add In](../media/71bfd837-20bc-4517-9513-33fc70147669.png)
   
 It's a good idea to inform the users and groups who you deployed the add-in to so that they know that it's available. Consider sending an email to them that describes when and how to use the add-in and explains how the add-in can help them do their job better. Include or link to relevant Help content or FAQs that might help if users have any problems with the add-in.
   
 ### Considerations when assigning an add-in to users and groups
-<a name="BKMK_ConsiderationsWhenAssigning"> </a>
 
 Admins can assign an add-in to everyone or to specific users and groups. Each option has implications:
   
@@ -135,7 +111,6 @@ Admins can assign an add-in to everyone or to specific users and groups. Each op
 The option that is right for your organization depends on your configuration. However, we recommend making assignments via groups. As an admin, you might find it easier to manage add-ins using groups and control the membership of those groups rather than having to change the users assigned each time. On the other hand, in some situations, you may want to restrict access to a very small set of users and therefore make assignments to specific users. As a result, you will need to manage the assigned users manually.
   
 ### Add-in states
-<a name="BKMK_AddinStates"> </a>
 
 The following table describes the states that apply to an add-in.
   
@@ -148,7 +123,6 @@ The following table describes the states that apply to an add-in.
 Consider deleting an add-in if no one is using it any more. Turning off an add-in may make sense if an add-in is used only during specific times of the year.
   
 ### Security of Office add-ins
-<a name="BKMK_AddinStates"> </a>
 
 Office add-ins combine an XML manifest file that contains some metadata about the add-in, but most importantly points to a web application which contains all the code and logic. Add-ins can range in their capabilities. For example, add-ins can:
   
@@ -171,7 +145,6 @@ Updates for add-ins happen as follows:
 - **Office Store add-in:** When an admin selected an add-in from the Office Store, if an add-in updates in the Office Store, the add-in will update later in Centralized Deployment. The next time the relevant Office applications start, the add-in will update. The web application can change at any time. 
     
 ### Prevent add-in downloads by turning off the Office Store across all clients
-<a name="BKMK_AddinStates"> </a>
 
 As an organization you may wish to prevent the download of new Office add-ins from the Office Store. This can be used in conjunction with Centralized Deployment to ensure that only organization-approved add-ins are deployed to users within your organization.
   
@@ -261,29 +234,21 @@ To be GDPR compliant for minors you need to ensure that one of following builds 
   
 Word, Excel, and PowerPoint 2013 for Windows will support the same minor checks if Active Directory Authentication Library (ADAL) is enabled. There are two options for compliance, as explained next.
   
-- **Enable ADAL**
-    
-    This article explains how to enable ADAL for Office 2013: [Using Office 365 modern authentication with Office clients](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).
-    
-    You also need to set the registry keys to enable ADAL as explained in [Enable Modern Authentication for Office 2013 on Windows devices](../security-and-compliance/enable-modern-authentication.md).
-    
-    Additionally, you need to install the following April updates for Office 2013:
+- **Enable ADAL**. This article explains how to enable ADAL for Office 2013: [Using Office 365 modern authentication with Office clients](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).<br/>You also need to set the registry keys to enable ADAL as explained in [Enable Modern Authentication for Office 2013 on Windows devices](../security-and-compliance/enable-modern-authentication.md).<br/>Additionally, you need to install the following April updates for Office 2013:
     
   - [Description of the security update for Office 2013: April 10, 2018](https://support.microsoft.com/help/4018330/description-of-the-security-update-for-office-2013-april-10-2018)
     
   - [April 3, 2018, update for Office 2013 (KB4018333)](https://support.microsoft.com/en-us/help/4018333/april-3-2018-update-for-office-2013-kb4018333)
     
-- **Don't enable ADAL**
-    
-    If you're unable to enable ADAL in Office 2013, then our recommendation is to use Group Policy to turn off the Store for the office clients. Information on how to turn off the app for Office settings is located [here](https://technet.microsoft.com/library/cc178992.aspx).
+- **Don't enable ADAL**. If you're unable to enable ADAL in Office 2013, then our recommendation is to use Group Policy to turn off the Store for the office clients. Information on how to turn off the app for Office settings is located [here](https://technet.microsoft.com/library/cc178992.aspx).
     
 ## End user experience with add-ins
 
 Now that you've deployed the add-in, your end users can start using it in their Office applications (see [Start using your Office Add-in](https://support.office.com/article/82e665c4-6700-4b56-a3f3-ef5441996862.aspx)). The add-in will appear on all platforms that the add-in supports.
   
 If the add-in supports add-in commands, the commands appear on the Office ribbon. In the following example, the command **Search Citation** appears for the **Citations** add-in. 
-  
-![Screenshot shows a section of the Office ribbon with the Search Citations command highlighted in the Citations add-in.](../media/553b0c0a-65e9-4746-b3b0-8c1b81715a86.png)
+
+![Office ribbon with Search Citations](../media/553b0c0a-65e9-4746-b3b0-8c1b81715a86.png)
   
 If the deployed add-in doesn't support add-in commands or if you want to view all deployed add-ins, you can view them via **My Add-ins**. 
   
@@ -293,29 +258,21 @@ If the deployed add-in doesn't support add-in commands or if you want to view al
     
 2. Select the **Admin Managed** tab in the Office Add-ins window. 
     
-3. Double-click the add-in you deployed earlier (in this example, **Citations** ). 
-    
-    ![Screenshot shows the Admin Managed tab of the Office Add-ins page in an Office application. The Citations add-in is shown on the tab.](../media/fd36ba81-9882-40f0-9fce-74f991aa97d5.png)
+3. Double-click the add-in you deployed earlier (in this example, **Citations** ). <br/>![Admin Managed tab of the Office Add-ins page](../media/fd36ba81-9882-40f0-9fce-74f991aa97d5.png)
   
 ### In Outlook
 
-1. On the **Home** ribbon, choose **Store**.
-    
-    ![Store button in Outlook](../media/7e4af05a-17f7-46a3-a630-077b9657b7e6.png)
+1. On the **Home** ribbon, choose **Store**.<br/>![Store button in Outlook](../media/7e4af05a-17f7-46a3-a630-077b9657b7e6.png)
   
 2. Choose **My add-ins** in the left nav. 
     
-3. Look for an add-in that has a status set to **Installed by your administrator**.
-    
-    ![An admin installed add-in in Outlook store.](../media/118a6c75-6a3e-4e6b-b9a0-06c0bd7c6e0c.png)
+3. Look for an add-in that has a status set to **Installed by your administrator**.<br/>![An admin installed add-in in Outlook store](../media/118a6c75-6a3e-4e6b-b9a0-06c0bd7c6e0c.png)
   
 ## Learn more
 
 Learn more about creating and building [Office Add-ins](https://go.microsoft.com/fwlink/p/?linkid=846362).
   
-[Use the Centralized Deployment PowerShell cmdlets to manage add-ins](https://support.office.com/article/94f4e86d-b8e5-42dd-b558-e6092f830ec9).
+[Use Centralized Deployment PowerShell cmdlets to manage add-ins](https://support.office.com/article/94f4e86d-b8e5-42dd-b558-e6092f830ec9).
   
-## See also
-
 [Troubleshoot: User not seeing add-ins](../troubleshoot-issues-for-admins/user-not-seeing-add-ins.md)
 

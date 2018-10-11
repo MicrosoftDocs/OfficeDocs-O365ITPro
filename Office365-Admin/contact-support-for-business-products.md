@@ -3,7 +3,6 @@ title: "Contact support for business products - Admin Help"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: troubleshooting
 f1_keywords:
@@ -29,9 +28,7 @@ description: "Get technical and billing support using phone numbers listed for y
 
 ## [Phone support ](#tab/phone)
   
-|||
-|:-----|:-----|
-|![Call support](media/3351acb8-be3b-478a-afbd-c0a50f4e1abd.png)           <br/> |Billing support is provided in English from 9 AM-5 PM (9 AM-6 PM in Australia), Monday-Friday.  <br/>Technical support is provided in English 24 hours a day, 7 days a week. <br/> Admins, have your account details ready when you call.  <br/> |
+![Call support](media/3351acb8-be3b-478a-afbd-c0a50f4e1abd.png)  Billing support is provided in English from 9 AM-5 PM (9 AM-6 PM in Australia), Monday-Friday.  <br/>Technical support is provided in English 24 hours a day, 7 days a week. <br/> Admins, have your account details ready when you call.<br/> 
    
 - **In the United States, call 1 800 865 9408.**
     
@@ -294,11 +291,12 @@ If your Office 365 or Microsoft 365 Business support phone number isn't listed a
 ## [Online support](#tab/online)
   
 Save time by starting your service request online. We'll help you find a solution or connect you to an expert who will contact you by email or phone. [Learn about initial support response times](https://go.microsoft.com/fwlink/p/?LinkId=518251).
-1. [Sign in with your Office 365 admin account](https://aka.ms/admincenter). If you get the message " **You don't have permission to access this page or perform this action** " then you aren't an Office 365 admin. [Who has admin permissions in my business?](overview-0/admin-overview.md#bkmk_admin).
+
+1. [Sign in with your Office 365 admin account](https://aka.ms/admincenter). If you get the message "**You don't have permission to access this page or perform this action**" then you aren't an Office 365 admin. [Who has admin permissions in my business?](overview-0/admin-overview.md#bkmk_admin).
     
-2. In the [Office 365 admin center](https://portal.office.com/adminportal/home), go to **Support** \> **New Service request**. 
-    
-3. In the **Need help?** pane, tell us what you need help with and press **Enter**. 
+2. In the [Office 365 admin center](https://go.microsoft.com/fwlink/p/?linkid=837890), choose the **Need help?** button.
+
+3. In the **Need help?** pane, tell us what you need help with, then press **Enter**. 
     
 4. If the results don't help, choose **Let us call you**. Confirm your contact number, then press **Call me**. The expected wait time for a call back is indicated in the **Need help?** pane. 
     
@@ -310,7 +308,7 @@ Save time by starting your service request online. We'll help you find a solutio
 
 With every subscription of Office 365 operated by 21Vianet, 21Vianet support provides technical, pre-sales, billing and subscription support. Support is available both online through the Office 365 operated by 21Vianet portal, and by telephone for both paid and trial subscriptions.
   
-Authorized administrators can use the Office 365 operated by 21Vianet portal to submit service requests online and access support telephone numbers. For instructions, see [Contact support](contact-support-for-business-products.md#BKMK_ContactSupport_Gallatin).
+Authorized administrators can use the Office 365 operated by 21Vianet portal to submit service requests online and access support telephone numbers. For instructions, see [Contact support](#contact-support).
   
 The 21Vianet Office 365 technical support team troubleshoots only those issues that are related to Office 365 operated by 21Vianet. Issues that originate in customer networks fall outside of the Office 365 support boundaries, and in these cases, customers must work with their networking team for assistance.
   
@@ -320,11 +318,11 @@ Self-service support is available for all Office 365 operated by 21Vianet users,
   
 ### Pre-sales support
 
-Pre-sales support for Office 365 operated by 21Vianet provides assistance on subscription features and benefits, plan comparisons, pricing and licensing, and helps to identify the right solution to meet your business needs. In addition, pre-sales support can help you find a Partner, and purchase and sign up for a trial. You can call during local business hours, Monday through Friday. Pre-sales support can be accessed using the same phone number as with technical support. For instructions, see [Contact support](contact-support-for-business-products.md#BKMK_ContactSupport_Gallatin).
+Pre-sales support for Office 365 operated by 21Vianet provides assistance on subscription features and benefits, plan comparisons, pricing and licensing, and helps to identify the right solution to meet your business needs. In addition, pre-sales support can help you find a Partner, and purchase and sign up for a trial. You can call during local business hours, Monday through Friday. Pre-sales support can be accessed using the same phone number as with technical support. For instructions, see [Contact support](#contact-support).
   
 ### Billing and subscription management support
 
-Assistance for billing and subscription management issues is available online or by telephone during China business hours (Beijing Time), Monday through Friday. Billing and subscription management support can be accessed using the same phone number and online service request process as with technical support. The support telephone number can be found on the Office 365 operated by 21Vianet portal. For instructions, see [Contact support](contact-support-for-business-products.md#BKMK_ContactSupport_Gallatin).
+Assistance for billing and subscription management issues is available online or by telephone during China business hours (Beijing Time), Monday through Friday. Billing and subscription management support can be accessed using the same phone number and online service request process as with technical support. The support telephone number can be found on the Office 365 operated by 21Vianet portal. For instructions, see [Contact support](#contact-support).
   
 Here are some examples of billing and subscription management issues:
   
@@ -343,40 +341,35 @@ Here are some examples of billing and subscription management issues:
 ### Technical support
 
 Technical support for Office 365 operated by 21Vianet subscriptions provides assistance with basic installation, setup, and general technical usage. Some examples of these issues are listed in the following table.
+
+| Support category | Examples |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Installation and setup | Exchange Online  <ul><li>Office 365 mailbox migration</li><li>Recipient configuration (mailbox permissions, configuring mail forwarding, configuring shared mailbox)</li><li>Autodiscover configuration</li></ul> SharePoint Online <ul><li>Permissions and user groups</li><li>Configuration of external users</li></ul> Skype for Business Online  <ul><li>Installation and creating contacts</li></ul> Office 365 ProPlus  <ul><li>Installation and setup</li></ul> |
+| Configuration | Service configuration issues  <ul><li>Single sign-on (SSO)</li><li>Active Directory synchronization</li></ul> |
   
-|
-|
-|**Support category**|**Examples**|
-|:-----|:-----|
-|Installation and setup  <br/> | Exchange Online  <br/>  Office 365 mailbox migration  <br/>  Recipient configuration (mailbox permissions, configuring mail forwarding, configuring shared mailbox)  <br/>  Autodiscover configuration  <br/>  SharePoint Online  <br/>  Permissions and user groups  <br/>  Configuration of external users  <br/>  Skype for Business Online  <br/>  Installation and creating contacts  <br/>  Office 365 ProPlus  <br/>  Installation and setup  <br/> |
-|Configuration  <br/> | Service configuration issues  <br/>  Single sign-on (SSO)  <br/>  Active Directory synchronization  <br/> |
-   
 > [!NOTE]
-> You can learn how to contact technical support here: [Contact support](contact-support-for-business-products.md#BKMK_ContactSupport_Gallatin). > Technical support does not include troubleshooting third-party services or add-ins. Learn about finding answers from other customers in the [Community](https://go.microsoft.com/fwlink/p/?linkid=842838). 
+> You can learn how to contact technical support here: [Contact support](#contact-support). 
+> Technical support does not include troubleshooting third-party services or add-ins. Learn about finding answers from other customers in the [Community](https://go.microsoft.com/fwlink/p/?linkid=842838). 
   
 ### Technical support case handling
 
 21Vianet assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table.
-  
-|
-|
-|**Severity level**|**Operations and support description**|**Examples**|
-|:-----|:-----|:-----|
-|Sev A (Critical)  <br/> |One or more services aren't accessible or are unusable. Production, operations, or deployment deadlines are severely affected, or there will be a severe impact on production or profitability. Multiple users or services are affected.  <br/> | Widespread problems sending or receiving mail.  <br/>  SharePoint site down.  <br/>  All users can't send instant messages, join or schedule Skype for Business Meetings, or make Skype for Business calls.  <br/> |
-|Sev B (High)  <br/> |The service is usable but in an impaired fashion. The situation has moderate business impact and can be dealt with during business hours. A single user, customer, or service is partially affected.  <br/> | Send button in Outlook is garbled.  <br/>  Setting is impossible from EAC (Exchange admin center) but possible in Windows PowerShell.  <br/> |
-|Sev C (Non-critical)  <br/> |The situation has minimal business impact. The issue is important but does not have a significant current service or productivity impact for the customer. A single user is experiencing partial disruption, but an acceptable workaround exists.  <br/> | How to set user password that never expires.  <br/>  User can't delete contact information in Exchange Online.  <br/> |
+
+| Severity level | Operations and support description | Examples |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sev A (Critical) | One or more services aren't accessible or are unusable. Production, operations, or deployment deadlines are severely affected, or there will be a severe impact on production or profitability. Multiple users or services are affected. | <ul><li>Widespread problems sending or receiving mail.</li><li>SharePoint site down.</li> <li>All users can't send instant messages, join or schedule Skype for Business Meetings, or make Skype for Business calls.</li></ul> |
+| Sev B (High) | The service is usable but in an impaired fashion. The situation has moderate business impact and can be dealt with during business hours. A single user, customer, or service is partially affected. | <ul><li>Send button in Outlook is garbled.</li> <li>Setting is impossible from EAC (Exchange admin center) but possible in Windows PowerShell.</li></ul> |
+| Sev C (Non-critical) | The situation has minimal business impact. The issue is important but does not have a significant current service or productivity impact for the customer. A single user is experiencing partial disruption, but an acceptable workaround exists. | <ul><li>How to set user password that never expires.</li> <li>User can't delete contact information in Exchange Online.</li></ul> |
    
 ### Technical support initial response times
 
 Initial response time is based on the severity levels described above. 21Vianet customer service team follow up with investigation and customer communication in reasonable rhythm according to severity levels. 21Vianet also expect customer to collaborate at reasonable level accordingly.
   
-|
-|
-|**Security level<sup>1</sup>**|**21Vianet customer support team Initial response**|**Customer responsibility**|
-|:-----|:-----|:-----|
-|Sev A<sup>2</sup> (Critical)  <br/> |Initial Response: 1 hour or less; Follow up: continues effort until problem resolution.  <br/> |Provide solid business impact statement (see the severity A description and examples above); Allocate resource to ensure continues collaboration with 21Vianet customer support agent for the joint investigation and necessary communication; Provide accurate contact information and ensure reliable communication throughout the service request lifecycle.  <br/> |
-|Sev B (High)  <br/> |Initial Response: 1 business day or less.  <br/> |Provide accurate contact information and ensure reliable communication throughout the service request lifecycle.  <br/> |
-|Sev C (Medium)  <br/> |Initial Response: 3 business day or less.  <br/> |Provide accurate contact information and ensure reliable communication throughout the service request lifecycle.  <br/> |
+| Security level <sup>1</sup> | 21Vianet customer support team Initial response | Customer responsibility |
+|--------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sev A <sup>2</sup>  (Critical) | Initial Response: 1 hour or less; Follow up: continues effort until problem resolution. | Provide solid business impact statement (see the severity A description and examples above); Allocate resource to ensure continues collaboration with 21Vianet customer support agent for the joint investigation and necessary communication; Provide accurate contact information and ensure reliable communication throughout the service request lifecycle. |
+| Sev B (High) | Initial Response: 1 business day or less. | Provide accurate contact information and ensure reliable communication throughout the service request lifecycle. |
+| Sev C (Medium) | Initial Response: 3 business day or less. | Provide accurate contact information and ensure reliable communication throughout the service request lifecycle. |
    
 <sup>1</sup> If the customer cannot provide required resource or make response for collaboration with 21Vianet customer support agent investigation in reasonable time, 21Vianet support team may lower down the severity level of a service request. 
   
@@ -389,29 +382,27 @@ Severity A: 24\*7 continuous service
 Severity B/C: 9:00 ~24:00 (Beijing Time) a day, 365 days.
   
 ### Contact support
-<a name="BKMK_ContactSupport_Gallatin"> </a>
 
 > [!NOTE]
 > Assisted support options are for admins of Office 365 subscribed organizations only. If you use Office 365 but you're not an admin, you can still get support in the community forums, or by contacting your admin. 
   
- **Open an online request**
+#### Open an online request
   
 Save time by starting your service request online. In the Office 365 admin center, choose **Support** \> **New service request**. 
   
- **Call support**
+#### Call support
   
 Call support. If you encounter any problem with online request, phone support is available at (86) 400-089-0365.
   
 ### Shared support responsibilities
-<a name="BKMK_ContactSupport_Gallatin"> </a>
 
 21Vianet understands that receiving timely technical support from qualified professionals is a key aspect of cloud services. Equally important is the critical role that the customer's IT department plays in the support of its users.
   
- **Administrator roles and responsibilities**
+#### Administrator roles and responsibilities
   
 People with Office 365 administrator roles are the only ones in the customer's organization authorized to access the Admin section of the Office 365 operated by 21Vianet portal and to communicate directly with 21Vianet about Office 365 service requests.
   
-With Office 365 you can designate several types of administrators who serve different functions. This service description uses the generic title administrator to refer to all categories of administrators. For more information about the types of administrator roles, see [Assigning admin roles in Office 365 operated by 21Vianet](https://support.office.com/article/d58b8089-cbfd-41ec-b64c-9cfcbef495ac.aspx).
+With Office 365 you can designate several types of administrators who serve different functions. This service description uses the generic title administrator to refer to all categories of administrators. For more information about the types of administrator roles, see [Assign admin roles in Office 365 for business](add-users-2/assign-admin-roles.md).
   
 The administrator is:
   
@@ -431,9 +422,9 @@ The administrator's role is to:
     
 - Use self-service support resources to resolve support issues.
     
-The administrator is expected to provide initial assistance for the customer's users. However, if the administrator is unable to resolve issues with the help of self-service support resources, he or she should [Contact support](contact-support-for-business-products.md#BKMK_ContactSupport_Gallatin).
+The administrator is expected to provide initial assistance for the customer's users. However, if the administrator is unable to resolve issues with the help of self-service support resources, he or she should [Contact support](#contact-support).
   
- **21Vianet support role**
+#### 21Vianet support role
   
 21Vianet's support role is to:
   
@@ -452,12 +443,10 @@ The administrator is expected to provide initial assistance for the customer's u
 - Continually gather customer feedback on how to improve the service through surveys.
     
 ### Feature availability
-<a name="BKMK_ContactSupport_Gallatin"> </a>
 
 To view feature availability across Office 365 plans, see [Office 365 Service Description](https://go.microsoft.com/fwlink/p/?linkid=846911)
   
 ### Follow us on WeChat
-<a name="BKMK_ContactSupport_Gallatin"> </a>
 
 Scan this QR code to follow us on WeChat and get the latest updates for Office 365 operated by 21Vianet.
   
@@ -467,7 +456,7 @@ Scan this QR code to follow us on WeChat and get the latest updates for Office 3
 
 ::: moniker range="o365-germany"
 
-This article applies to customers of Office 365 Germany, which has domains ending onmicrosoft.de. For more information, see [Learn about Office 365 Germany](https://support.office.com/article/8a5a4bbc-667a-4cac-8769-d8ac9015db4c.aspx).
+This article applies to customers of Office 365 Germany, which has domains ending onmicrosoft.de. For more information, see [Learn about Office 365 Germany](admin-overview/learn-about-office-365-germany.md).
   
 As an admin for Office 365 Germany, you get free access to our knowledgeable support agents for help resolving technical issues, as well as for pre-sales, account, and billing support. You can also contact us on behalf of Office 365 Germany users in your organization.
   
@@ -477,20 +466,18 @@ As an admin for Office 365 Germany, you get free access to our knowledgeable sup
 ### Get assisted support
 
 Assisted support options are for admins of Office 365 Germany subscribed organizations only. If you use Office 365 Germany at work or school, but you're not an admin, you can still get support in the community forums, or by contacting your admin or IT department.
-  
-|||
-|![Online](media/a6e08015-dad5-4ad0-9680-7794cfc0a147.png)           <br/> |**Open an online request.**         Save time by starting your service request online. In the Office 365 admin center, choose **Support** \> **New service request.** We'll help you find a solution or connect you to an expert who will contact you by email or phone.  <br/> |
-|![Call support](media/3351acb8-be3b-478a-afbd-c0a50f4e1abd.png)           <br/> |**Call support.**         We're here to talk. Admins, have your account details ready when you callsupport.  <br/> |
-   
-|
-|
-|**Region**|**Phone number**|**Hours**|
-|Germany  <br/> |0800 589 2330  <br/> |Billing Support:          German: Mon-Fri 9-5 Berlin          English: Mon-Fri 9-5 Berlin  <br/> Technical Support:          German: 24 hours a day, 7 days a week          English: 24 hours a day, 7 days a week  <br/> Alternative Phone Number: 069 380 789 305 (Local call charges apply)  <br/> |
-|All other markets within the European Economic Area  <br/> |+49 69 380 789 305  <br/> |Billing Support:          German: Mon-Fri 9-5 Berlin (UTC+1)          English: Mon-Fri 9-5 Berlin (UTC +1)  <br/> Technical Support:          German: 24 hours a day, 7 days a week          English: 24 hours a day, 7 days a week  <br/> Telephone support is available via international call to Germany. International call charges apply. Call charges can be avoided by submitting a support ticket through the Office 365 admin center.  <br/> |
+
+- **Open an online request.** Save time by starting your service request online. In the Office 365 admin center, choose **Support** \> **New service request.** We'll help you find a solution or connect you to an expert who will contact you by email or phone.
+
+- **Call support.** We're here to talk. Admins, have your account details ready when you call support.
+
+| Region | Phone number | Hours |
+|-----------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Germany | 0800 589 2330 | Billing Support:  German: Mon-Fri 9-5 Berlin English: Mon-Fri 9-5 Berlin  Technical Support:  German: 24 hours a day, 7 days a week English: 24 hours a day, 7 days a week  Alternative Phone Number: 069 380 789 305 (Local call charges apply) |
+| All other markets within the European Economic Area | +49 69 380 789 305 | Billing Support:  German: Mon-Fri 9-5 Berlin(UTC+1) English: Mon-Fri 9-5 Berlin (UTC +1)  Technical Support:  German: 24 hours a day, 7 days a week English: 24 hours a day, 7 days a week  Telephone support is available via international call to Germany. International call charges apply. Call charges can be avoided by submitting a support ticket through the Office 365 admin center. |
    
 ### Let our community help
 
-|||
-|![Office 365 community forums](media/66a6efa4-f6a3-41d4-a853-4d41186c8b74.png)           <br/> |You can also [search the Office 365 for business community forums](https://go.microsoft.com/fwlink/p/?LinkId=518605) to find known issues and trending topics, or to post a new question. The community forums are monitored by trained Microsoft support agents who can help resolve your issue.  <br/> |
+You can also [search the Office 365 for business community forums](https://go.microsoft.com/fwlink/p/?LinkId=518605) to find known issues and trending topics, or to post a new question. The community forums are monitored by trained Microsoft support agents who can help resolve your issue.
    
 ::: moniker-end

@@ -1,5 +1,4 @@
-﻿
----                                
+﻿---                                
 title: Support information for Dominica
 author: cmcatee-MSFT
 ms.author: cmcatee
@@ -29,5 +28,3 @@ Spanish: Mon-Fri 11 AM-7 PM
 Spanish: 24 hours a day, 7 days a week
 
 International call charges apply
-
-

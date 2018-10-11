@@ -34,7 +34,7 @@ There could be a couple of issues here:
   
 - Make sure you've allowed people outside your organization to send emails to the distribution. From the Office 365 admin center, find the distribution list that you want to allow external people on and turn the toggle to **On**.
     
-    ![Screenshot: Turn on toggle to allow external members to send to a dl](../media/76a5fb05-d0b9-403d-80b2-8308ec8a567f.png)
+    ![Allow external members to send to a dl](../media/76a5fb05-d0b9-403d-80b2-8308ec8a567f.png)
   
 - External members don't receive email messages that are sent to a distribution list they're a member of, and the senders don't receive non-delivery message about the email. Read [External members don't receive email...](https://go.microsoft.com/fwlink/?LinkID=855988) for steps on how to fix this issue. 
     

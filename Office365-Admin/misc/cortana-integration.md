@@ -44,7 +44,7 @@ There are a few things to be aware of before you start using Cortana in Office 3
 
 If you don't want Cortana to access your organization's data, you can turn Cortana off in the Office 365 admin center. 
   
-1. [Sign in to Office 365](where-to-sign-in.md) with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
 2. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
     
