@@ -3,7 +3,7 @@ title: Kaizala reports
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 8/21/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -123,12 +123,12 @@ Some reports have drill-down support for hierarchical groups, that shows aggrega
   
 - Click or tap the arrow icon as shown below:
     
-    ![Screenshot: Kaizala job drill down. Allows you to see group and subgroup data for the report](media/e4dbff79-a196-4fbf-a67d-ab4f5a131f59.png)
+    ![Kaizala job drill down. Allows you to see group and subgroup data for the report](media/e4dbff79-a196-4fbf-a67d-ab4f5a131f59.png)
   
 ## Export Kaizala report data to a CSV file
 
 You can export your Kaizala report data to a CSV file using Power BI. To export the data, click the **…** on the top right corner of the graph and choose **Export**.
   
-![Screenshot: Export Kaizala report datat to a CSV file](media/447cbac6-24fa-4b11-b05f-a84758e55c39.png)
+![Export Kaizala report datat to a CSV file](media/447cbac6-24fa-4b11-b05f-a84758e55c39.png)
   
 

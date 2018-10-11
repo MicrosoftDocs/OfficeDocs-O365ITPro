@@ -3,7 +3,7 @@ title: Kaizala connectors
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 8/21/2018
+
 ms.audience: ITPro
 ms.topic: article
 ms.service: Kaizala
@@ -44,11 +44,11 @@ To create a new Kaizala Connector:
   
 - Navigate to **Connectors** on the left navigation bar. Click **New Connector** on the top right of the page. 
     
-    ![Screenshot: Create a Kaizala connector](media/fd2b88b1-3260-4392-81b9-d2b8e1ba40db.png)
+    ![Create a Kaizala connector](media/fd2b88b1-3260-4392-81b9-d2b8e1ba40db.png)
   
 - On the New Connector page, enter a **Connector Name** and a short description for the connector. Click or tap **Create**.
     
-    ![Screenshot: Sample Kaizala connector for marketing group](media/083806aa-81fe-45d7-bf7a-62de5232d7c9.png)
+    ![Sample Kaizala connector for marketing group](media/083806aa-81fe-45d7-bf7a-62de5232d7c9.png)
   
 Connector Id and Connector Secret are attributes that are used along with a generated, group-specific refresh token to make REST API calls, in specific Kaizala groups. You can also view these details from the connector details in the Kaizala admin portal.
   
@@ -60,7 +60,7 @@ To view Kaizala Connectors:
     
 2. By default, connectors created by the logged-in user are shown. To see all the Connectors in the organization, select **All Connectors** from the drop-down menu list. 
     
-    ![Screenshot: View Kaizala connectors](media/3e8f9ebe-2003-487f-a759-3cf17e876cec.png)
+    ![View Kaizala connectors](media/3e8f9ebe-2003-487f-a759-3cf17e876cec.png)
   
 ## Activate or deactivate Kaizala Connector
 

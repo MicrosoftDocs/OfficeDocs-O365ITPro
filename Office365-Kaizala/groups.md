@@ -3,7 +3,7 @@ title: Kaizala groups
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 8/21/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -28,7 +28,7 @@ Check out [Kaizala users](users.md) for information about adding users to Kaizal
 
 There are two type of Kaizala groups:
   
-![Screenshot: Kaizala organization groups view](media/c05e9bd2-05cb-4178-a44a-053e01db36bc.png)
+![Kaizala organization groups view](media/c05e9bd2-05cb-4178-a44a-053e01db36bc.png)
   
 - **Kaizala organization groups** These groups belong to your organization and are created via the Kaizala management portal. A group admin can link a Kaizala group, created through the mobile app, to an organization through the **Settings** page, or from the private groups tab. Kaizala group admins can only manage the groups that they are admins of. Conversely, Office 365 global admins will have access and ability to manage all organization groups; even those that they aren't even members of.
     
@@ -40,11 +40,11 @@ Follow the steps to create a new Kaizala group.
   
 - On the Kaizala management portal, from the left navigation bar, choose **Groups**. Then select **Create Group**, enter the group name and click or tap **Create**. 
     
-    ![Screenshot: Enter the name to create a new Kaizala group](media/f913453e-6a66-45bd-a51c-114ebf5be0d7.png)
+    ![Enter the name to create a new Kaizala group](media/f913453e-6a66-45bd-a51c-114ebf5be0d7.png)
   
 - On the **Users** tab, make sure the phone numbers are from the right region. Then enter a phone number in the text box for every user you want to add to this Kaizala Group. You can also enter a list of comma-separated phone numbers. Finally, click or tap **Add users**. For example, to add 3 users, enter: **99885544, 99885543, 99885542**. 
     
-    ![Screenshot: Add users to Kaizala groups](media/d71f75ba-24bb-443c-8cfe-f46a4c95d9b3.png)
+    ![Add users to Kaizala groups](media/d71f75ba-24bb-443c-8cfe-f46a4c95d9b3.png)
   
 Once you've added users to Kaizala Groups, you can now start sending surveys, polls, and other actions via the mobile app. Check out [creating a Kaizala Action](actions.md) for more details. 
   
@@ -56,7 +56,7 @@ If you want to add several users without using the comma separated list, you can
     
 - **Parent Group Mapping** Use this CSV template file to define the group hierarchy. Parent and child group name can be provided in the list to setup the groups as per required organization structure. This file is optional. The groups, for which the child group name doesn't exist in the template CSV file, are ignored in the parent group mapping file. 
     
-![Screenshot: Bulk add users to Kaizala](media/8f4f5b63-ae6e-4aac-959f-a9022612a058.png)
+![Bulk add users to Kaizala](media/8f4f5b63-ae6e-4aac-959f-a9022612a058.png)
   
 You can add multiple groups and users at once from an Excel spreadsheet or other file saved in CSV format. [Add several users at the same time to Office 365 - Admin Help](https://support.office.com/article/1f5767ed-e717-4f24-969c-6ea9d412ca88#__toc316652088)
   
@@ -75,13 +75,13 @@ You can add multiple groups and users at once from an Excel spreadsheet or other
 
 1. On the Kaizala management portal, from the left navigation bar, choose **Groups**. Then chose a group from the dropdown list and click or tap **Add Group**. 
     
-    ![Screenshot: Add a Kaizala  sub-group to a parent group](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
+    ![Add a Kaizala  sub-group to a parent group](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
   
 ### Remove a Kaizala subgroup
 
 1. On the Kaizala management portal, from the left navigation bar, choose **Groups**. Then chose a group from the dropdown list and click or tap **Remove**. 
     
-    ![Screenshot: Add a Kaizala  sub-group to a parent group](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
+    ![Add a Kaizala  sub-group to a parent group](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
   
 ## Export Kaizala group information
 

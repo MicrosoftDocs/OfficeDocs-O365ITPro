@@ -3,7 +3,7 @@ title: Use the Kaizala web app
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 10/4/2018
+
 ms.audience: Consumer/IW
 ms.topic: article
 ms.service: Kaizalams
@@ -37,13 +37,13 @@ For more info about Kaizala, check out, [Microsoft Kaizala](https://go.microsoft
     
 4. Enter your Kaizala phone number and select **Generate Code**. 
     
-![Screenshot: Sign in to Kaizala with your phone and select Generate code.](media/07f8a26f-a72c-455d-8031-5dcfe1e1701d.png)
+![Sign in to Kaizala with your phone and select Generate code.](media/07f8a26f-a72c-455d-8031-5dcfe1e1701d.png)
   
 5. From the Kaizala app on your mobile phone, go to **Me** \> **Kaizala Web** \> **Get your OTP**
   
 6. From the **Verify Code** page on your browser, enter the code. Then select **Verify &amp; Sign in**. 
   
-![Screenshot: Verify code to sign in to Kaizala](media/109dd1fc-3637-4802-a901-2dab6a20a234.png)
+![Verify code to sign in to Kaizala](media/109dd1fc-3637-4802-a901-2dab6a20a234.png)
   
 You can now use the Kaizala web app on your browser and the mobile app.
   

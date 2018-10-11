@@ -3,7 +3,7 @@ title: "Manage Yammer admins"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 5/15/2018
+
 ms.audience: Admin
 ms.topic: reference
 ms.prod: office-online-server

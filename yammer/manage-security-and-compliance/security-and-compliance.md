@@ -3,7 +3,7 @@ title: "Overview of security and compliance in Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 9/4/2018
+
 ms.audience: Admin
 ms.topic: reference
 ms.prod: office-online-server

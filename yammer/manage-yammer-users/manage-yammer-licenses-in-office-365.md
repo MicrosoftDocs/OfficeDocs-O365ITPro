@@ -3,7 +3,7 @@ title: "Manage Yammer user licenses in Office 365"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 3/2/2018
+
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -27,7 +27,7 @@ You need to be an Office 365 global administrator or user management administrat
   
 Only users with a Yammer license will see a Yammer tile in the Office 365 app launcher. 
   
-![Screenshot of the Assign licenses section of Office 365 admin center with Yammer Enterprise license available to assign.](../media/33a074a6-6141-4293-89b2-17c0845c7020.png)
+![Assign licenses section of Office 365 admin center with Yammer Enterprise license available to assign.](../media/33a074a6-6141-4293-89b2-17c0845c7020.png)
   
 ## Manage Yammer licenses in the Office 365 admin center
 
@@ -59,7 +59,7 @@ Below are some example Windows PowerShell script snippets that you can use to ma
     $License.ServiceStatus | ForEach {
        If ($_.ProvisioningStatus -eq "Disabled" -or  $_.ServicePlan.ServiceName -like "*YAMMER*") { $DisabledOptions += "$($_.ServicePlan.ServiceName)" } 
     }
-    $LicenseOptions = New-MsolLicenseOptions -AccountSkuId $License.AccountSkuId -DisabledPlans $DisabledOptions
+    $LicenseOptions = New-MsolLicenseOptions -AccountplanId $License.AccountplanId -DisabledPlans $DisabledOptions
      Set-MsolUserLicense -UserPrincipalName $UPN -LicenseOptions $LicenseOptions
   }
   
