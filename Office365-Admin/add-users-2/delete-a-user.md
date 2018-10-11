@@ -3,7 +3,6 @@ title: "Delete a user from your organization"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -20,7 +19,6 @@ search.appverid:
 - MOE150
 - GEA150
 ms.assetid: d5155593-3bac-4d8d-9d8b-f4513a81479e
-
 description: "Learn to delete a user account. Decide what to do with the user's email, OneDrive content, and whether to keep the product license or stop paying for it."
 ---
 
