@@ -200,7 +200,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 3. In the **纯域名列表** (domain list) section, make sure that the fields are set to precisely the following values for the empty record: 
     
-  - ** 类型 ** (type): **TXT**
+  - **类型** (type): **TXT**
     
   - **指向** (point to): **v=spf1 include:spf.protection.partner.outlook.cn -all**
     
