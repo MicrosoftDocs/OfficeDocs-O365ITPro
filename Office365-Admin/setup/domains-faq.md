@@ -32,34 +32,8 @@ description: "Learn more about domains in Office 365 by finding answers to your 
 # Domains FAQ
 
 This article contains answers to Frequently Asked Questions about domains in Office 365.
-  
+
 If you can't find an answer to your question, let us know by leaving a comment and we'll add it to the list.
-  
- **Last Updated:** 3/28/2018 
-  
-- [What is MX priority?](domains-faq.md#BKMK_whatismxpriority)
-    
-- [How can I validate SPF records for my domain?](domains-faq.md#BKMK_HowcanIvalidateSPFrecordsformydomain)
-    
-- [How does Office 365 manage my DNS records?](domains-faq.md#BKMK_HowdoesOffice365managemyDNSrecords)
-    
-- [What is a domain name?](domains-faq.md#bkmk_Whatisadomainname)
-    
-- [Can I transfer my domain away from Office 365 to another provider?](domains-faq.md#bkmk_CanItransfermydomainawayfromOffice365toanotherprovider)
-    
-- [How do I change how my DNS records are managed in Office 365?](domains-faq.md#bkmk_HowdoIchangehowmyDNSrecordsare)
-    
-- [What happens if my DNS provider doesn't support certain record types?](domains-faq.md#bkmk_WhathappensifmyDNSproviderdoesntsupport)
-    
-- [How do I change the default domain in Office 365?](domains-faq.md#bkmk_HowdoIchangethedefaultdomaininOffice365)
-    
-- [Can I add custom subdomains or multiple domains to Office 365?](domains-faq.md#bkmk_CanIaddcustomsubdomainsormultipledomainstoOffice365)
-    
-- [Why do I have an "onmicrosoft.com" domain?](domains-faq.md#bkmk_WhydoIhaveanonmicrosoft.comdomain)
-    
-- [How do I verify my nonprofit or education status?](domains-faq.md#bkmk_verifynonprofit)
-    
-- [Can I pilot Office 365 with just a few email addresses from my custom domain?](domains-faq.md#bkmk_pilot)
     
 ## What is MX priority?
 <a name="BKMK_whatismxpriority"> </a>
@@ -96,9 +70,28 @@ There are two options for DNS management with Office 365:
     
 2. You add DNS records for email and other Office 365 services at your DNS host yourself. **(Experts only)**
     
-|****1:** ** Office 365 creates and hosts the DNS records ****|**** 2: You manage the DNS records yourself ****|
-|:-----|:-----|
-|**Advantages** <br/>  You don't have to worry about making mistakes in the values you enter for the DNS records for Office 365 services.  <br/>  You have more flexibility in your choice of domain registrar and DNS host. Any provider that lets you change your nameserver records will work, even if the provider doesn't support all the required record types.  <br/>  When Office 365 adds new DNS records, you don't have to make updates.  <br/> **Disadvantages** <br/>  You can't change your DNS records to host email outside of Office 365.  <br/>  If you already use a public website with your domain for its address, like www.fourthcoffee.com, you must redirect people to that address from Office 365. Setting up redirection requires a static IP address, which is not always easily available for public websites.  <br/>  If your current domain registrar doesn't allow you to change your domain's nameserver records, you have to switch to a different registrar to use this DNS management option.  <br/> |**Advantages** <br/>  You control the DNS records for Office 365 services.  <br/>  If you have a public website with your domain for its address, like www.fourthcoffee.com, you don't have to worry about using redirection to make sure people can still get to your website after you set up your domain in Office 365.  <br/>  You have the flexibility to host email somewhere else, such as with an on-premises Exchange server.  <br/> **Disadvantages** <br/>  You have to set up the DNS records for Office 365 services yourself (unless you have a GoDaddy domain).  <br/>  If your current DNS host doesn't support all of the required record types for Office 365, some Office 365 features won't be available and you might need to switch to a different DNS host. Learn about the [potential service limitations](https://support.office.com/article/7ae9a655-041d-4724-aa92-60392ee390c2.aspx).  <br/>  When Office 365 changes requirements for DNS records, or adds new services, you have to make updates yourself at your DNS host.  <br/> |
+### Office 365 creates and hosts the DNS records 
+**Advantages** 
+- You don't have to worry about making mistakes in the values you enter for the DNS records for Office 365 services.  
+- You have more flexibility in your choice of domain registrar and DNS host. 
+- Any provider that lets you change your nameserver records will work, even if the provider doesn't support all the required record types.   
+- When Office 365 adds new DNS records, you don't have to make updates.  
+
+#### Disadvantages 
+- You can't change your DNS records to host email outside of Office 365. 
+- If you already use a public website with your domain for its address, like www.fourthcoffee.com, you must redirect people to that address from Office 365. 
+- Setting up redirection requires a static IP address, which is not always easily available for public websites. - If your current domain registrar doesn't allow you to change your domain's nameserver records, you have to switch to a different registrar to use this DNS management option.  
+
+ ### You manage the DNS records yourself 
+ #### Advantages
+- You control the DNS records for Office 365 services.   
+- If you have a public website with your domain for its address, like www.fourthcoffee.com, you don't have to worry about using redirection to make sure people can still get to your website after you set up your domain in Office 365.    
+- You have the flexibility to host email somewhere else, such as with an on-premises Exchange server.  
+ 
+#### Disadvantages
+You have to set up the DNS records for Office 365 services yourself (unless you have a GoDaddy domain). 
+-  If your current DNS host doesn't support all of the required record types for Office 365, some Office 365 features won't be available and you might need to switch to a different DNS host. Learn about the [potential service limitations](https://support.office.com/article/7ae9a655-041d-4724-aa92-60392ee390c2.aspx).   
+- When Office 365 changes requirements for DNS records, or adds new services, you have to make updates yourself at your DNS host. 
    
 ## What is a domain name?
 <a name="bkmk_Whatisadomainname"> </a>
@@ -361,117 +354,116 @@ You can, but there are limitations:
 - You need to manage your Office 365-related DNS records at your DNS hosting provider, rather than having Office 365 manage these records for you. To learn what this entails, see Add your domain to Office 365 when you want to manage your own DNS records.
     
 - Some Office 365 features won't be available:
-    
 - Users won't be able to see free/busy information for the users who are on the other email provider.
-    
 - Admins won't be able to administer everyone's accounts from one place.
-    
 - Users may not be able to use Office 365 spam filtering
+
+### How to set up an Office 365 pilot
     
 1. Sign in to the Office 365 admin center
     
-1. Sign in to Office 365 with your work or school account.
-    
-2. Choose **Setup** \> **Domains**. 
+    1. Sign in to Office 365 with your work or school account.
+        
+    2. Choose **Setup** \> **Domains**. 
     
 2. Verify that you own the domain you want to use
     
-1. On the **Domains** page, choose ** Add domain **. 
-    
-2. In the panel, type the domain, in this example cohowinery.com, and then choose **Next**. 
-    
-3. On the **Verify** domain page, follow the step-by-step instructions. 
-    
-4. In the drop-down list, select your DNS hosting provider, and follow the instructions to show that you own the domain.
-    
-5. Choose **Verify**. It takes between a few minutes and 72 hours for DNS changes to take effect. 
-    
-6. When verification is successful, you'll be asked to modify your DNS records.
+    1. On the **Domains** page, choose ** Add domain **. 
+        
+    2. In the panel, type the domain, in this example cohowinery.com, and then choose **Next**. 
+        
+    3. On the **Verify** domain page, follow the step-by-step instructions. 
+        
+    4. In the drop-down list, select your DNS hosting provider, and follow the instructions to show that you own the domain.
+        
+    5. Choose **Verify**. It takes between a few minutes and 72 hours for DNS changes to take effect. 
+        
+    6. When verification is successful, you'll be asked to modify your DNS records.
     
 3. Mark the domain as shared in Exchange Online
     
-1. Go to the ** Exchange admin center ** (EAC). 
-    
-2. In EAC, in the **Mail flow** section, click **Accepted domains**. 
-    
-3. Double-click the domain you want to modify.
-    
-4. In the window that opens, select **Internal Relay**. 
-    
-5. Click **Save**. This setting may require a few minutes to take effect. 
+    1. Go to the **Exchange admin center** (EAC). 
+        
+    2. In EAC, in the **Mail flow** section, click **Accepted domains**. 
+        
+    3. Double-click the domain you want to modify.
+        
+    4. In the window that opens, select **Internal Relay**. 
+        
+    5. Click **Save**. This setting may require a few minutes to take effect. 
     
 4. Optionally, unblock the existing email server
     
-1. Office 365 uses Exchange Online Protection (EOP) for spam protection. If EOP detects a high volume of spam being forwarded by your current mail server, it may block it, which would prevent forwarding from working. If you are confident with the spam protection your other email provider uses, you can whitelist their server in Office 365. However, this will also allow any spam that arrives through your original server to come through to the Office 365 mailboxes, and you won't be able to evaluate how well Office 365 prevents spam.
+    1. Office 365 uses Exchange Online Protection (EOP) for spam protection. If EOP detects a high volume of spam being forwarded by your current mail server, it may block it, which would prevent forwarding from working. If you are confident with the spam protection your other email provider uses, you can whitelist their server in Office 365. However, this will also allow any spam that arrives through your original server to come through to the Office 365 mailboxes, and you won't be able to evaluate how well Office 365 prevents spam.
     
-2. Go to Exchange admin center (EAC).
-    
-3. In EAC, choose ** Protection **, and then choose **Connection filter**. 
-    
-4. In the **IP Allow list**, choose **+**, and add the mail server IP address that you can get from your current email provider. 
+    2. Go to Exchange admin center (EAC).
+        
+    3. In EAC, choose ** Protection **, and then choose **Connection filter**. 
+        
+    4. In the **IP Allow list**, choose **+**, and add the mail server IP address that you can get from your current email provider. 
     
 5. Create user accounts and set the primary (reply-to) address
     
-1. Go to the Office 365 admin center.
-    
-2. On the left navigation bar, choose **Users** \> **Active Users**. 
-    
-3. Create the user accounts.
-    
-4. For each account choose **+ (New)**, and fill out the required information. 
-    
-5. To keep user's email the same as it is currently, the ** User name ** field should be exactly the same as the user's existing email address. 
-    
-6. Next to User name, select your custom domain name from the drop-down list.
-    
-7. Choose **Create** \> **Close**. 
-    
+    1. Go to the Office 365 admin center.
+        
+    2. On the left navigation bar, choose **Users** \> **Active Users**. 
+        
+    3. Create the user accounts.
+        
+    4. For each account choose **+ (New)**, and fill out the required information. 
+        
+    5. To keep user's email the same as it is currently, the ** User name ** field should be exactly the same as the user's existing email address. 
+        
+    6. Next to User name, select your custom domain name from the drop-down list.
+        
+    7. Choose **Create** \> **Close**. 
+        
 6. Update DNS records at your DNS hosting provider
     
-1. Sign in to your DNS hosting provider's website, and follow the [Create DNS records at any DNS hosting provider for Office 365 steps](../dns/create-dns-records-at-any-dns-hosting-provider-0.md). **Make the following exceptions:**
+    1. Sign in to your DNS hosting provider's website, and follow the [Create DNS records at any DNS hosting provider for Office 365 steps](../dns/create-dns-records-at-any-dns-hosting-provider-0.md). **Make the following exceptions:**
     
-1. Do not create a new MX record or change your existing MX record.
-    
-2. If you already have a Sender Policy Framework (SPF) record for your previous email provider, instead of creating a new SPF (TXT) record for Exchange Online, just add "include:outlook.com" to the current TXT record. For example, "v=spf1 mx include:adatum.com include:spf.protection.outlook.com ~all".
-    
-3. If you don't have an SPF record yet, modify the one recommended by Office 365 to include the domain for your current email provider, plus protection.outlook.com. This authorizes outgoing messages from both email systems.
-    
+        1. Do not create a new MX record or change your existing MX record.
+            
+        2. If you already have a Sender Policy Framework (SPF) record for your previous email provider, instead of creating a new SPF (TXT) record for Exchange Online, just add "include:outlook.com" to the current TXT record. For example, "v=spf1 mx include:adatum.com include:spf.protection.outlook.com ~all".
+            
+        3. If you don't have an SPF record yet, modify the one recommended by Office 365 to include the domain for your current email provider, plus protection.outlook.com. This authorizes outgoing messages from both email systems.
+            
 7. Set up email forwarding at your current provider
     
-1. At your current email provider, set up forwarding for your users email accounts to your onmicrosoft.com domain:
+    1. At your current email provider, set up forwarding for your users email accounts to your onmicrosoft.com domain:
+        
+    2. User A's mailbox should forward to usera@yourcompany.onmicrosoft.com
+        
+    3. User B's mailbox should forward to userb@yourcompany.onmicrosoft.com
+        
+    4. When you complete this step:
+        
+    5. All mail sent to usera@yourcompany.com and userb@yourcompany.com will be available in Office 365.
     
-2. User A's mailbox should forward to usera@yourcompany.onmicrosoft.com
-    
-3. User B's mailbox should forward to userb@yourcompany.onmicrosoft.com
-    
-4. When you complete this step:
-    
-5. All mail sent to usera@yourcompany.com and userb@yourcompany.com will be available in Office 365.
-    
-6. Notes:
-    
-1. Contact your current email provider for the exact steps for setting up forwarding.
-    
-2. You don't need to keep a copy of messages at the current email provider.
-    
-3. Most providers forward email leaving the Reply-to address of the sender intact, so that replies go to the original sender.
+    6. Notes:
+        
+        - Contact your current email provider for the exact steps for setting up forwarding.
+            
+        - You don't need to keep a copy of messages at the current email provider.
+            
+        - Most providers forward email leaving the Reply-to address of the sender intact, so that replies go to the original sender.
     
 8. Test mail flow
     
-1. Sign in to Outlook Web App using User A's credentials.
-    
-2. Perform the following tests:
-    
-3. Test local Office 365 email. For example, send an email to User B. This email should be delivered immediately. In this scenario, the message will not be routed to User B's mailbox on your original server because Office 365 sees the mailbox as being local.
-    
-4. Test email to someone who's on the other email system. For example, send an email to User C. This email should be delivered to User C's mailbox on your original mail server.
-    
-5. From an outside account, or from an employee's email account on the other email system, verify that forwarding is set up properly on the other email system. For example, from User C's origninal server account or a Hotmail account, send User A an email and verify that it arrives in User A's Office 365 mailbox.
-    
+    1. Sign in to Outlook Web App using User A's credentials.
+        
+    2. Perform the following tests:
+        
+    3. Test local Office 365 email. For example, send an email to User B. This email should be delivered immediately. In this scenario, the message will not be routed to User B's mailbox on your original server because Office 365 sees the mailbox as being local.
+        
+    4. Test email to someone who's on the other email system. For example, send an email to User C. This email should be delivered to User C's mailbox on your original mail server.
+        
+    5. From an outside account, or from an employee's email account on the other email system, verify that forwarding is set up properly on the other email system. For example, from User C's origninal server account or a Hotmail account, send User A an email and verify that it arrives in User A's Office 365 mailbox.
+        
 9. Move mailbox contents
     
-1. Since there are only two users to move, and since User A and User B are both using Outlook already, the email can be moved by opening the old .PST file in the new Outlook profile and copying the messages, calendar items, contacts, etc. as shown in Import Outlook items from an Outlook Data File (.pst). Once organized in the proper locations in the Office 365 mailbox, the items can all be accessed from any device, anywhere.
-    
-2. When more mailboxes are involved, or if the employees are not already using Outlook, you can use the migration tools available in the Exchange admin center. To get started, go to Exchange admin center and follow the directions in Migrate Email from an IMAP Server to Exchange Online Mailboxes.
+    1. Since there are only two users to move, and since User A and User B are both using Outlook already, the email can be moved by opening the old .PST file in the new Outlook profile and copying the messages, calendar items, contacts, etc. as shown in Import Outlook items from an Outlook Data File (.pst). Once organized in the proper locations in the Office 365 mailbox, the items can all be accessed from any device, anywhere.
+        
+    2. When more mailboxes are involved, or if the employees are not already using Outlook, you can use the migration tools available in the Exchange admin center. To get started, go to Exchange admin center and follow the directions in Migrate Email from an IMAP Server to Exchange Online Mailboxes.
     
 
