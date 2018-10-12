@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Oray"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -14,7 +13,6 @@ search.appverid:
 - MET150
 - GEA150
 ms.assetid: a97682c3-fa3b-457b-9bf1-ea8b7490941a
-
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when Oray is the DNS hosting provider."
 ---
 
@@ -35,7 +33,7 @@ Use the steps in the following table to get to the right spot in the Oray websit
   
 |**Task**|**What you'll see**|
 |:-----|:-----|
-| Go to the page that has the DNS records for your domain.  <br/>  In your browser, go to [your domains list at Oray](https://console.oray.com/domain/root) and sign in.  <br/>  In the right pane, in the **解析设置** (DNS record management) column for the domain that you want to update, click **DNS解析设置** (DNS record management).  <br/>  The DNS records page for your domain opens.  <br/> |![Sign in to Oray](../media/b55798c7-e143-454f-a3d3-7fd8733cba46.png)           <br/> ![Click "DNS解析设置"](../media/90257c23-ac07-4fab-83e7-7ae96693f667.png)           <br/> |
+|1.  Go to the page that has the DNS records for your domain.  <br/><br/>2.  In your browser, go to [your domains list at Oray](https://console.oray.com/domain/root) and sign in.  <br/><br/>3. In the right pane, in the **解析设置** (DNS record management) column for the domain that you want to update, click **DNS解析设置** (DNS record management).  <br/> <br/> The DNS records page for your domain opens.  <br/> |![Sign in to Oray](../media/b55798c7-e143-454f-a3d3-7fd8733cba46.png)           <br/> ![Click "DNS解析设置"](../media/90257c23-ac07-4fab-83e7-7ae96693f667.png)           <br/> |
    
 ## Add a TXT record to verify that you own the domain
 <a name="BKMK_add_a_record"> </a>
@@ -79,7 +77,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
-3. On the **Add this TXT record to show you own** * **domain_name*** page, choose **Okay, I've added the record** and then, in the confirmation dialog box, choose **Finish**.
+3. On the **Add this TXT record to show you own** ***domain_name*** page, choose **Okay, I've added the record** and then, in the confirmation dialog box, choose **Finish**.
     
     ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
   
@@ -89,7 +87,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 To complete setting up your domain with Office 365, you change your domain's NS records at your domain registrar to point to the Office 365 operated by 21Vianet primary and secondary name servers. This sets up Office 365 to update the domain's DNS records for you. We'll add all records so that email, Lync, and your public website work with your domain, and you'll be all set.
   
 > [!CAUTION]
-> When you change your domain's NS records to point to the Office 365 name servers, all the services that are currently associated with your domain are affected. For example, all email sent to your domain (like rob@ *your_domain*  .com) will start coming to Office 365 after you make this change. 
+> When you change your domain's NS records to point to the Office 365 name servers, all the services that are currently associated with your domain are affected. For example, all email sent to your domain (like rob@ *your_domain*.com) will start coming to Office 365 after you make this change. 
   
 1. In your browser, go to [your domains list at Oray](https://console.oray.com/domain/root) and sign in. 
     

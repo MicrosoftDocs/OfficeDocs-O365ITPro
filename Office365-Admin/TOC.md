@@ -1,6 +1,3 @@
-
-  
-
 # [Admin home](admin-home.md)
 ## [Grow your small business](grow-your-small-business/grow-your-small-business.md)
 ### [Previous webinar videos](grow-your-small-business/previous-webinar-videos.md)
@@ -177,7 +174,7 @@
 ### [View your bill or get a Fapiao](services-in-china/view-your-bill-or-get-a-fapiao.md)
 ### [Apply for a Fapiao](services-in-china/apply-for-a-fapiao.md)
 ### [Initial partner.onmschina.cn domain](services-in-china/initial-partner-onmschina-cn-domain.md)
-### [21vianet-csh](.md)
+### 21vianet-csh
 #### [Create DNS records when you manage your DNS records](services-in-china/create-dns-records-when-you-manage-your-dns-records.md)
 #### [Get an ICP number for your public website](services-in-china/get-an-icp-number-for-your-public-website.md)
 #### [Create DNS records at E-business Services](services-in-china/create-dns-records-at-e-business-services.md)
@@ -246,7 +243,6 @@
 ### [Customize help desk](misc/customize-help-desk.md)
 ### [Cortana integration](misc/cortana-integration.md)
 ### [Power BI in your organization](misc/power-bi-in-your-organization.md)
-### [Become admin](misc/become-admin.md)
 ### [Sign up for online services](misc/sign-up-for-online-services.md)
 ### [Become admin and make purchases](misc/become-admin-and-make-purchases.md)
 ### [Solution Provider Partners in Russia](misc/solution-provider-partners-in-russia.md)
