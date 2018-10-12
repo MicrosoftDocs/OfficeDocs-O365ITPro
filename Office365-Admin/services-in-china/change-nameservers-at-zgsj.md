@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with ZGSJ"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -61,9 +60,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     ![Click "增加TXT"](../media/9ac6b204-a5d9-48ac-ba11-82c1dee9620a.png)
   
-  - ** 主机名 ** (host name): Leave the box blank. 
+  - **主机名** (host name): Leave the box blank. 
     
-  - ** 值 ** (value): Paste **Destination or Points to Address** value that you just copied. 
+  - **值** (value): Paste **Destination or Points to Address** value that you just copied. 
     
     ![Add TXT record](../media/94520f94-5625-48e7-816e-34873243a0cc.png)
   
@@ -81,7 +80,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
-3. On the **Add this TXT record to show you own** * **domain_name*** page, choose **Okay, I've added the record** and then, in the confirmation dialog box, choose **Finish**.
+3. On the **Add this TXT record to show you own** ***domain_name*** page, choose **Okay, I've added the record** and then, in the confirmation dialog box, choose **Finish**.
     
     ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
   
@@ -91,7 +90,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 To complete setting up your domain with Office 365, you change your domain's NS records at your domain registrar to point to the Office 365 operated by 21Vianet primary and secondary name servers. This sets up Office 365 to update the domain's DNS records for you. We'll add all records so that email, Lync, and your public website work with your domain, and you'll be all set.
   
 > [!CAUTION]
-> When you change your domain's NS records to point to the Office 365 name servers, all the services that are currently associated with your domain are affected. For example, all email sent to your domain (like rob@ *your_domain*  .com) will start coming to Office 365 after you make this change. 
+> When you change your domain's NS records to point to the Office 365 name servers, all the services that are currently associated with your domain are affected. For example, all email sent to your domain (like rob@ *your_domain*.com) will start coming to Office 365 after you make this change. 
   
 1. In your browser, go to the [zgsj website](http://www.zgsj.com) and sign in. 
     

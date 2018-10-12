@@ -3,7 +3,6 @@ title: "Create DNS records at DNSPod for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -37,7 +36,7 @@ These are the main records to add.
     
 After you add these records at DNSPod, your domain will be set up to work with Office 365 services.
   
-If you have a SharePoint Online Public Website, you can [Add records at DNSPod to set up your SharePoint Online Public Website](https://support.office.com/article/6ead13cd-3e47-44ca-a7fa-a60436cc597b), like www. *your_domain*  .com. 
+If you have a SharePoint Online Public Website, you can [set it up to use your custom domain for the website URL address](https://support.office.com/article/6ead13cd-3e47-44ca-a7fa-a60436cc597b), like www. *your_domain*.com. 
   
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. 
@@ -68,11 +67,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
   - **主机记录** (host): **@**
     
-  - ** 记录类型 ** (record type): **TXT**
+  - **记录类型** (record type): **TXT**
     
   - **线路类型** (network): Use the default value. 
     
-  - **记录值** (record value): Paste **Destination or Points to Address** value from the table in Office 365, for example MS=ms  *XXXXXXX*  . [Gather the information you need to create Office 365 DNS records](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
+  - **记录值** (record value): Paste **Destination or Points to Address** value from the table in Office 365, for example MS=ms  *XXXXXXX*. [How do I find this?](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
     
   - **TTL**: **3600**
     
@@ -119,16 +118,14 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
   - **主机记录** (host): **@**
     
-  - ** 记录类型 ** (record type): **MX**
+  - **记录类型** (record type): **MX**
     
   - **线路类型** (network): Use the default value. 
     
   - **记录值** (record value): Paste the **Points to address** value from Office 365:  *\<domain-key\>*  .mail.protection.partner.outlook.cn 
     
     > [!NOTE]
-    > Get your  *\<domain-key\>*  from your Office 365 portal account. 
-  
-[Gather the information you need to create Office 365 DNS records](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
+    > Get your  *\<domain-key\>*  from your Office 365 portal account. [How do I find this?](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
   
   - **MX优先级** (MX priority): **1**
     
@@ -140,9 +137,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 6. If you have any MX records for this domain that send email to someplace other than Office 365, remove them:
     
-1. On the row of the obsolete record, click **删除** (remove). 
+    1. On the row of the obsolete record, click **删除** (remove). 
     
-2. In the confirmation dialog box, click **确定** (OK). 
+    2. In the confirmation dialog box, click **确定** (OK). 
     
 ## Add the CNAME records that are required for Office 365
 <a name="BKMK_add_CNAME"> </a>
@@ -159,79 +156,79 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 3. Add the email (Exchange) Autodiscover CNAME record.
     
-1. On the DNS records page for your domain, click **添加记录** (add a DNS record). 
+    1. On the DNS records page for your domain, click **添加记录** (add a DNS record). 
     
-    ![Click "添加记录"](../media/988b7551-4ac5-478f-9400-5c9bbcb79748.png)
+        ![Click "添加记录"](../media/988b7551-4ac5-478f-9400-5c9bbcb79748.png)
   
-2. Make sure that the fields are set to precisely the following values for the empty record:
+    2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **主机记录** (host): **autodiscover**
+        - **主机记录** (host): **autodiscover**
     
-  - ** 记录类型 ** (record type): **CNAME**
+        - **记录类型** (record type): **CNAME**
     
-  - **线路类型** (network): Use the default value. 
+        - **线路类型** (network): Use the default value. 
     
-  - **记录值** (record value): **autodiscover.partner.outlook.cn**
+         - **记录值** (record value): **autodiscover.partner.outlook.cn**
     
-  - **TTL**: **3600**
+        - **TTL**: **3600**
     
-    ![Add CNAME record](../media/22c6d668-d4f8-47de-9e0c-9c2076551d5c.png)
+        ![Add CNAME record](../media/22c6d668-d4f8-47de-9e0c-9c2076551d5c.png)
   
-3. Click **保存** (save). 
+    3. Click **保存** (save). 
     
 4. Add the Lync Autodiscover CNAME record.
     
-1. On the DNS records page for your domain, click **添加记录** (add a DNS record). 
+    1. On the DNS records page for your domain, click **添加记录** (add a DNS record). 
     
-2. Make sure that the fields are set to precisely the following values for the empty record:
+    2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **主机记录** (host): **lyncdiscover**
+        - **主机记录** (host): **lyncdiscover**
     
-  - ** 记录类型 ** (record type): **CNAME**
+        - **记录类型** (record type): **CNAME**
     
-  - **线路类型** (network): Use the default value. 
+        - **线路类型** (network): Use the default value. 
     
-  - **记录值** (record value): **webdir.online.partner.lync.cn**
+        - **记录值** (record value): **webdir.online.partner.lync.cn**
     
   - **TTL**: **3600**
     
-3. Click **保存** (save). 
+    3. Click **保存** (save). 
     
 5. Add the Lync SIP CNAME record.
     
-1. On the DNS records page for your domain, click **添加记录** (add a DNS record). 
+    1. On the DNS records page for your domain, click **添加记录** (add a DNS record). 
     
-2. Make sure that the fields are set to precisely the following values for the empty record:
+    2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **主机记录** (host): **sip**
+        - **主机记录** (host): **sip**
     
-  - ** 记录类型 ** (record type): **CNAME**
+        - **记录类型** (record type): **CNAME**
     
-  - **线路类型** (network): Use the default value. 
+        - **线路类型** (network): Use the default value. 
     
-  - **记录值** (record value): **sipdir.online.partner.lync.cn**
+        - **记录值** (record value): **sipdir.online.partner.lync.cn**
     
-  - **TTL**: **3600**
+        - **TTL**: **3600**
     
-3. Click **保存** (save). 
+    3. Click **保存** (save). 
     
-4. Add the Office 365 MSOID CNAME record. This is an additional record that is required for Office 365.
+    4. Add the Office 365 MSOID CNAME record. This is an additional record that is required for Office 365.
     
-1. On the DNS records page for your domain, click **添加记录** (add a DNS record). 
+        1. On the DNS records page for your domain, click **添加记录** (add a DNS record). 
     
-2. Make sure that the fields are set to precisely the following values for the empty record:
+        2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **主机记录** (host): **msoid**
+            - **主机记录** (host): **msoid**
     
-  - ** 记录类型 ** (record type): **CNAME**
+            - **记录类型** (record type): **CNAME**
     
-  - **线路类型** (network): Use the default value. 
+            - **线路类型** (network): Use the default value. 
     
-  - **记录值** (record value): **clientconfig.partner.microsoftonline-p.net.cn**
+            - **记录值** (record value): **clientconfig.partner.microsoftonline-p.net.cn**
     
-  - **TTL**: **3600**
+            - **TTL**: **3600**
     
-3. Click **保存** (save). 
+        3. Click **保存** (save). 
     
 ## Add a TXT record to help prevent spam
 <a name="BKMK_add_TXT"> </a>
@@ -254,7 +251,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
   - **主机记录** (host): **@**
     
-  - ** 记录类型 ** (record type): **TXT**
+  - **记录类型** (record type): **TXT**
     
   - **线路类型** (network): Use the default value. 
     
@@ -281,42 +278,42 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 3. Add the SIP SRV record for Lync federation.
     
-1. On the DNS records page for your domain, click **添加记录** (add a DNS record). 
+    1. On the DNS records page for your domain, click **添加记录** (add a DNS record). 
     
-    ![Click "添加记录"](../media/988b7551-4ac5-478f-9400-5c9bbcb79748.png)
+        ![Click "添加记录"](../media/988b7551-4ac5-478f-9400-5c9bbcb79748.png)
   
-2. Make sure that the fields are set to precisely the following values for the empty record:
+    2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **主机记录** (host): **_sipfederationtls._tcp**
+        - **主机记录** (host): **_sipfederationtls._tcp**
     
-  - ** 记录类型 ** (record type): **CNAME**
+        - **记录类型** (record type): **CNAME**
     
-  - **线路类型** (network): Use the default value. 
+        - **线路类型** (network): Use the default value. 
     
-  - **记录值** (record value): **100 1 5061 sipfed.online.partner.lync.cn**
+        - **记录值** (record value): **100 1 5061 sipfed.online.partner.lync.cn**
     
-  - **TTL**: **3600**
+        - **TTL**: **3600**
     
-    ![Add SRV record](../media/51ea67b3-0978-4016-8f84-c5bfae17eb0e.png)
+        ![Add SRV record](../media/51ea67b3-0978-4016-8f84-c5bfae17eb0e.png)
   
-3. Click **保存** (save). 
+    3. Click **保存** (save). 
     
 4. Add the SIP SRV record for Lync web conferencing.
     
-1. On the DNS records page for your domain, click **添加记录** (add a DNS record). 
+    1. On the DNS records page for your domain, click **添加记录** (add a DNS record). 
     
-2. Make sure that the fields are set to precisely the following values for the empty record:
+    2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **主机记录** (host): **_sip._tls**
+        - **主机记录** (host): **_sip._tls**
     
-  - ** 记录类型 ** (record type): **CNAME**
+        - **记录类型** (record type): **CNAME**
     
-  - **线路类型** (network): Use the default value. 
+        - **线路类型** (network): Use the default value. 
     
-  - **记录值** (record value): **100 1 443 sipdir.online.partner.lync.cn**
+        - **记录值** (record value): **100 1 443 sipdir.online.partner.lync.cn**
     
-  - **TTL**: **3600**
+        - **TTL**: **3600**
     
-3. Click **保存** (save). 
+    3. Click **保存** (save). 
     
 

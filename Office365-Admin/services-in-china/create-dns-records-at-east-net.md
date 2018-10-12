@@ -3,7 +3,6 @@ title: "Create DNS records at East.net for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -64,11 +63,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 4. In the **新增解析记录** (add a DNS record) section, make sure that the fields are set to precisely the following values for the empty record: 
     
-  - ** 主机名 ** (host name): Leave the box blank 
+  - **主机名** (host name): Leave the box blank 
     
   - **类型** (type): **TXT**
     
-  - **值** (value): Paste the **Destination or Points to Address** value from the table in Office 365, for example MS=ms  *XXXXXXX*  . [Gather the information you need to create Office 365 DNS records](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
+  - **值** (value): Paste the **Destination or Points to Address** value from the table in Office 365, for example MS=ms  *XXXXXXX*. [How do I find this?](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
     
     ![Select "TXT"](../media/67d6d897-0696-4f3c-a5bf-596132dc676e.png)
   
@@ -115,14 +114,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
   - **主机名** (host name): Leave the box blank. 
     
-  - ** 类型 ** (type): **MX**
+  - **类型** (type): **MX**
     
-  - ** 值 ** (value): Paste the **Points to address** value from Office 365:  *\<domain-key\>*  .mail.protection.partner.outlook.cn 
+  - **值** (value): Paste the **Points to address** value from Office 365:  *\<domain-key\>*  .mail.protection.partner.outlook.cn 
     
     > [!NOTE]
-    > Get your  *\<domain-key\>*  from your Office 365 portal account. 
-  
-[Gather the information you need to create Office 365 DNS records](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
+    > Get your  *\<domain-key\>*  from your Office 365 portal account. [How do I find this?](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
   
   - **优先级** (priority): **0**
     
@@ -134,78 +131,78 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 6. If you have any MX records for this domain that send email to someplace other than Office 365, remove them:
     
-1. In the **当前解析列表** (current DNS records) section, on the row of the obsolete record, click **删除** (remove). 
+    1. In the **当前解析列表** (current DNS records) section, on the row of the obsolete record, click **删除** (remove). 
     
-2. In the confirmation dialog box, click **OK**.
+    2. In the confirmation dialog box, click **OK**.
     
 ## Add CNAME records
 <a name="BKMK_add_CNAME"> </a>
 
 1. Add the email (Exchange) Autodiscover CNAME record.
     
-1. In your browser, go to [your domains list at east.net](http://www.east.net/service/domain/user) and sign in. 
+    1. In your browser, go to [your domains list at east.net](http://www.east.net/service/domain/user) and sign in. 
     
-    ![Sign in to east.net](../media/62d3e9d5-1fdc-45b9-bc72-0bde89168377.png)
+        ![Sign in to east.net](../media/62d3e9d5-1fdc-45b9-bc72-0bde89168377.png)
   
-2. In the right pane, in the **操作** (actions) column for the domain that you want to update, click **域名管理** (domain management). 
+    2. In the right pane, in the **操作** (actions) column for the domain that you want to update, click **域名管理** (domain management). 
     
-    ![Click "域名管理" (domain management) for your domain](../media/1c27e199-e615-4971-b985-57572ed0f4c5.png)
+        ![Click "域名管理" (domain management) for your domain](../media/1c27e199-e615-4971-b985-57572ed0f4c5.png)
   
-3. Click the **域名解析** (domain name resolution) tab. 
+    3. Click the **域名解析** (domain name resolution) tab. 
     
-    The DNS records page for your domain opens.
+        The DNS records page for your domain opens.
     
-    ![Click "域名解析" (domain name resolution)](../media/88907339-c195-41a0-9ac1-f903d2812af9.png)
+        ![Click "域名解析" (domain name resolution)](../media/88907339-c195-41a0-9ac1-f903d2812af9.png)
   
-4. On the DNS records page for your domain, in the **新增解析记录** (add a DNS record) section, make sure that the fields are set to precisely the following values for the empty record: 
+    4. On the DNS records page for your domain, in the **新增解析记录** (add a DNS record) section, make sure that the fields are set to precisely the following values for the empty record: 
     
-  - **主机名** (host name): **autodiscover**
+        - **主机名** (host name): **autodiscover**
     
-  - ** 类型 ** (type): **CNAME**
+        - **类型** (type): **CNAME**
     
-  - ** 值 ** (value): **autodiscover.partner.outlook.cn**
+        - **值** (value): **autodiscover.partner.outlook.cn**
     
-    ![Select "CNAME"](../media/04500bbe-e06b-434e-85b7-c54685e1d42f.png)
+        ![Select "CNAME"](../media/04500bbe-e06b-434e-85b7-c54685e1d42f.png)
   
-5. Click **新增** (add). 
+    5. Click **新增** (add). 
     
     ![Add CNAME record](../media/ad57a360-b75a-42d1-b529-e1e17e3acee1.png)
   
 2. Add the Lync Autodiscover CNAME record.
     
-1. On the DNS records page for your domain, in the **新增解析记录** (add a DNS record) section, make sure that the fields are set to precisely the following values for the empty record: 
+    1. On the DNS records page for your domain, in the **新增解析记录** (add a DNS record) section, make sure that the fields are set to precisely the following values for the empty record: 
     
-  - **主机名** (host name): **lyncdiscover**
+        - **主机名** (host name): **lyncdiscover**
     
-  - ** 类型 ** (type): **CNAME**
+        - **类型** (type): **CNAME**
     
-  - ** 值 ** (value): **webdir.online.partner.lync.cn**
+        - **值** (value): **webdir.online.partner.lync.cn**
     
-2. Click **新增** (add). 
+    2. Click **新增** (add). 
     
 3. Add the Lync SIP CNAME record.
     
-1. On the DNS records page for your domain, in the **新增解析记录** (add a DNS record) section, make sure that the fields are set to precisely the following values for the empty record: 
+    1. On the DNS records page for your domain, in the **新增解析记录** (add a DNS record) section, make sure that the fields are set to precisely the following values for the empty record: 
     
-  - **主机名** (host name): **sip**
+        - **主机名** (host name): **sip**
     
-  - ** 类型 ** (type): **CNAME**
+        - **类型** (type): **CNAME**
     
-  - ** 值 ** (value): **sipdir.online.partner.lync.cn**
+        - **值** (value): **sipdir.online.partner.lync.cn**
     
-2. Click **新增** (add). 
+    2. Click **新增** (add). 
     
 4. Add the Office 365 MSOID CNAME record. This is an additional record that is required for Office 365.
     
-1. On the DNS records page for your domain, in the **新增解析记录** (add a DNS record) section, make sure that the fields are set to precisely the following values for the empty record: 
+    1. On the DNS records page for your domain, in the **新增解析记录** (add a DNS record) section, make sure that the fields are set to precisely the following values for the empty record: 
     
-  - **主机名** (host name): **msoid**
+        - **主机名** (host name): **msoid**
     
-  - ** 类型 ** (type): **CNAME**
+        - **类型** (type): **CNAME**
     
-  - ** 值 ** (value): **clientconfig.partner.microsoftonline-p.net.cn**
+        - **值** (value): **clientconfig.partner.microsoftonline-p.net.cn**
     
-2. Click **新增** (add). 
+    2. Click **新增** (add). 
     
 ## Add a TXT record to help prevent spam
 <a name="BKMK_add_TXT"> </a>
@@ -226,7 +223,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 4. In the **新增解析记录** (add a DNS record) section, make sure that the fields are set to precisely the following values for the empty record: 
     
-  - ** 主机名 ** (host name): Leave the box blank. 
+  - **主机名** (host name): Leave the box blank. 
     
   - **类型** (type): **TXT**
     
@@ -243,44 +240,44 @@ When Office 365 finds the correct TXT record, your domain is verified.
 
 1. Add the SIP SRV record for Lync federation.
     
-1. In your browser, go to [your domains list at east.net](http://www.east.net/service/domain/user) and sign in. 
+    1. In your browser, go to [your domains list at east.net](http://www.east.net/service/domain/user) and sign in. 
     
-    ![Sign in to east.net](../media/62d3e9d5-1fdc-45b9-bc72-0bde89168377.png)
+        ![Sign in to east.net](../media/62d3e9d5-1fdc-45b9-bc72-0bde89168377.png)
   
-2. In the right pane, in the **操作** (actions) column for the domain that you want to update, click **域名管理** (domain management). 
+    2. In the right pane, in the **操作** (actions) column for the domain that you want to update, click **域名管理** (domain management). 
     
-    ![Click "域名管理" (domain management) for your domain](../media/1c27e199-e615-4971-b985-57572ed0f4c5.png)
+        ![Click "域名管理" (domain management) for your domain](../media/1c27e199-e615-4971-b985-57572ed0f4c5.png)
   
-3. Click the **域名解析** (domain name resolution) tab. 
+    3. Click the **域名解析** (domain name resolution) tab. 
     
-    The DNS records page for your domain opens.
+        The DNS records page for your domain opens.
     
-    ![Click "域名解析" (domain name resolution)](../media/88907339-c195-41a0-9ac1-f903d2812af9.png)
+        ![Click "域名解析" (domain name resolution)](../media/88907339-c195-41a0-9ac1-f903d2812af9.png)
   
-4. On the DNS records page for your domain, in the **新增解析记录** (add a DNS record) section, make sure that the fields are set to precisely the following values for the empty record: 
+    4. On the DNS records page for your domain, in the **新增解析记录** (add a DNS record) section, make sure that the fields are set to precisely the following values for the empty record: 
     
-  - **主机名** (host name): **_sipfederationtls._tcp**
+        - **主机名** (host name): **_sipfederationtls._tcp**
     
-  - ** 类型 ** (type): **SRV**
+        - **类型** (type): **SRV**
     
-  - **值** (value): **1 5061 sipfed.online.partner.lync.cn**
+        - **值** (value): **1 5061 sipfed.online.partner.lync.cn**
     
-    ![Select "SRV"](../media/74aa3363-0e1a-4b6b-b2e9-2a6605643526.png)
+        ![Select "SRV"](../media/74aa3363-0e1a-4b6b-b2e9-2a6605643526.png)
   
-5. Click **新增** (add). 
+    5. Click **新增** (add). 
     
     ![Add SRV record](../media/3e52bc42-efff-4acd-80b3-f7815ae5cd2e.jpg)
   
 2. Add the SIP SRV record for Lync web conferencing.
     
-1. On the DNS records page for your domain, in the **新增解析记录** (add a DNS record) section, make sure that the fields are set to precisely the following values for the empty record: 
+    1. On the DNS records page for your domain, in the **新增解析记录** (add a DNS record) section, make sure that the fields are set to precisely the following values for the empty record: 
     
-  - **主机名** (host name): **_sip._tls**
+        - **主机名** (host name): **_sip._tls**
     
-  - ** 类型 ** (type): **SRV**
+        - **类型** (type): **SRV**
     
-  - **值** (value): **1 443 sipdir.online.partner.lync.cn**
+        - **值** (value): **1 443 sipdir.online.partner.lync.cn**
     
-2. Click **新增** (add). 
+    2. Click **新增** (add). 
     
 

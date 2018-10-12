@@ -35,11 +35,11 @@ description: "Learn how to assign licenses to one or multiple users in Office 36
 
 ## [To one user](#tab/One)
   
-1. In the Admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page, or choose **Users** \> **Active users**.
     
-    If you're using Office 365 Germany, go to this [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
     
 2. Select the box next to the name of the user to whom you want to assign a license.
     
@@ -57,11 +57,11 @@ description: "Learn how to assign licenses to one or multiple users in Office 36
   
 ## [To multiple users](#tab/Multiple)
   
-1. In the Admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page, or choose **Users** \> **Active users**.
     
-    If you're using Office 365 Germany, go to this [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
     
 2. Select the boxes next to the names of the users who you want to assign licenses to.
     
@@ -85,11 +85,11 @@ description: "Learn how to assign licenses to one or multiple users in Office 36
 
 If you have more than one subscription, and you have users who already have a license for one subscription, but you want to move them to another subscription, you can replace their existing license with a different one.
   
-1. In the Admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page, or choose **Users** \> **Active users**.
     
-    If you're using Office 365 Germany, go to this [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
     
 2. Select the boxes next to the names of the users who you want to replace existing licenses for.
     
@@ -113,11 +113,11 @@ If you have more than one subscription, and you have users who already have a li
   
 ## What you need to know about assigning licenses to users
 
-- You need to be either a Global admin or a User management admin. For more information, see [About Office 365 admin roles](../add-users-2/about-admin-roles.md).
+- You need to be either a Global admin or a User management admin. For more information, see [About Office 365 admin roles](../add-users/about-admin-roles.md).
     
 - You can [assign licenses to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
     
-- Use these steps to add a license to an existing user account. [Learn how to add a user account and assign a license at the same time](../add-users-2/add-users-2.md)
+- Use these steps to add a license to an existing user account. [Learn how to add a user account and assign a license at the same time](../add-users/add-users.md)
     
 - Some services, like Sway, are automatically assigned to users, and don't need to be assigned individually.
     
@@ -135,7 +135,7 @@ If you have more than one subscription, and you have users who already have a li
     
 - [Buy or edit an add-on](buy-or-edit-an-add-on.md)
     
-- [Manage Yammer user licenses in Office 365](https://docs.microsoft.com/en-us/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
+- [Manage Yammer user licenses](https://docs.microsoft.com/en-us/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
 
 ## Related topics
 

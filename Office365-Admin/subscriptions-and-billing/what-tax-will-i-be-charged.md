@@ -3,7 +3,6 @@ title: "What tax will I be charged for Office 365?"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -23,7 +22,6 @@ description: "Find out how much tax you will be charged for your Office 365 for 
 Find out what tax you're charged in the following regions. You can also [apply for tax exempt status](apply-for-tax-exempt-status.md) by providing the proper documentation to Support. 
   
 ## Europe, the Middle East, and Africa (EMEA)
-<a name="__top"> </a>
 
 When you buy Office 365 services in the European Union, this purchase is subject to Value-Added Tax (VAT).
   
@@ -43,9 +41,9 @@ You might qualify for VAT zero-rating:
     
 ### Add your VAT ID (EU countries only)
   
-1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
-    If you're using Office 365 Germany, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     
 2. Choose the subscription name, and then choose **More actions** \> **Edit VAT number**.
     
@@ -56,7 +54,6 @@ You might qualify for VAT zero-rating:
     ![The Edit your service usage address page with the VAT number box at the bottom.](../media/34470bab-cda4-4618-a014-477bca28d740.png)
   
 ## Asia Pacific countries (APAC)
-<a name="__top"> </a>
 
 If you're billed by the Microsoft Regional Sales office, "Microsoft Regional Sales" appears on your invoice, and you're usually not charged a consumption or Value-Added Tax (VAT) tax unless it is a domestic sale.
   
@@ -71,19 +68,15 @@ If you're billed from another location, the current local tax is applied. You'll
 - Taiwan to Taiwan
     
 ## North, Central, and South America
-<a name="__top"> </a>
 
 In the United States and Canada, various tax rates apply depending on your location. In Puerto Rico, local Value-Added Tax (VAT) charges apply.
   
 If your billing is done by Microsoft Corporation ([see your invoice](view-your-bill-or-invoice.md)), and you signed up for Office 365 outside of the United States, Canada, and Puerto Rico, then tax is generally not charged.
   
 ## Related topics
-<a name="BKMK_ContactSupport"> </a>
 
-[Apply for tax exempt status for Office 365 for business](apply-for-tax-exempt-status.md)
+[Apply for tax exempt status](apply-for-tax-exempt-status.md)
   
-[View your bill for Office 365 for business](view-your-bill-or-invoice.md)
+[View your bill](view-your-bill-or-invoice.md)
   
-[Understand your invoice for Office 365 for business](understand-your-invoice.md)
-  
-[Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
+[Understand your invoice](understand-your-invoice.md)

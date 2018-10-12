@@ -2,7 +2,6 @@
 title: "Video training"
 ms.author: supotter
 author: supotter
-
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server

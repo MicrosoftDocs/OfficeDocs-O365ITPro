@@ -3,7 +3,6 @@ title: "View your bill or invoice"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -38,11 +37,10 @@ If you need help interpreting the charges you see on your bill, see [Understand 
  **Have a problem with your bill?** [Contact support for business products](../contact-support-for-business-products.md). 
   
 ## View my bill or invoice
-<a name="BKMK_viewmybill"> </a>
 
-1. In the Admin Center, go to the [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page, or choose **Billing** \> **Bills**.
+1. In the Admin Center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848039" target="_blank">Bills</a> page, or choose **Billing** \> **Bills**.
     
-    If you're using Office 365 Germany, go to this [Bills](https://go.microsoft.com/fwlink/p/?linkid=848040) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=848040" target="_blank">Bills</a> page. 
     
 2. Choose the month and date of the invoice you want, and then choose **View**.
     
@@ -67,25 +65,21 @@ If you need help interpreting the charges you see on your bill, see [Understand 
 6. To print or save a PDF copy of the invoice, choose **View invoice (.pdf)**.
     
 ## Stop receiving a copy of my billing statement in email
-<a name="BKMK_emailPDF"> </a>
 
 By default, you will receive a copy of your billing statement as an email attachment. You can choose to stop receiving a copy by email.
   
-1. In the Admin Center, go to the [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page, or choose **Billing** \> **Billing notifications**.
+1. In the Admin Center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=853212" target="_blank">Billing notifications</a> page, or choose **Billing** \> **Billing notifications**.
     
-    If you're using Office 365 Germany, go to this [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853213) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=853213" target="_blank">Billing notifications</a> page. 
     
 2. Under **Receive billing statement as email attachment?**, switch the toggle to **Off**.
     
     You can resume receiving the billing statement emails at any time by switching the toggle to **On**.
   
 ## Related topics
-<a name="BKMK_ContactSupport"> </a>
 
 [Pay by invoice, credit card, or bank account](pay-for-your-subscription.md)
   
 [Add, update, or remove a credit card or bank account](add-update-or-remove-credit-card-or-bank-account.md)
-  
-[Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
-  
+    
 [Minecraft: Education Edition payment options](https://go.microsoft.com/fwlink/p/?linkid=838761)

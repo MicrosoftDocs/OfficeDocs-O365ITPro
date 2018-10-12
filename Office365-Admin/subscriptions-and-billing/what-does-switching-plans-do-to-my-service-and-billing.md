@@ -3,7 +3,6 @@ title: "What does switching Office 365 plans do to my service and billing?"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -25,11 +24,11 @@ description: "Learn how switching subscriptions affects the Admins and users acc
 
 # What does switching Office 365 plans do to my service and billing?
 
-When you switch Office 365 for business plans automatically by using the **Switch plans** button, your services and billing are affected. 
+When you switch plans automatically by using the **Switch plans** button, your services and billing are affected. 
   
 ## Access to services
 
- **Admins** won't be able to use the Office 365 portal while the plan is being switched. This can take up to an hour. 
+ **Admins** won't be able to use the Admin center while the plan is being switched. This can take up to an hour. 
   
  **Users** will experience no interruption of service. They will continue to have the existing service until the switch is fully completed. 
   
@@ -53,11 +52,5 @@ The day your plan switch is complete, the billing on your old subscription will 
  **Switching from a prepaid subscription before it expires?** If the total cost of your new subscription is greater than or equal to the remaining value of your prepaid subscription, you won't lose any prepaid time. On the checkout page, you'll see a credit for your unused time. However, if the total cost of your new subscription is less than the remaining value of your current prepaid subscription, you'll forfeit some of your unused time. You'll be notified before you checkout, and you can wait to switch until closer to your prepaid subscription's expiration date. 
   
 ## Call support to help you switch plans
-<a name="BKMK_CallSupport"> </a>
 
 ![Phone](../media/88eae4a1-b8d9-4a12-bc4a-44af244f084b.png) [Call Microsoft Support](../contact-support-for-business-products.md)
-  
-## See also
-<a name="BKMK_CallSupport"> </a>
-
-[Billing in Office 365 for business - Admin Help](subscriptions-and-billing.md)
