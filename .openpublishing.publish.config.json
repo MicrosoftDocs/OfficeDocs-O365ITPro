@@ -81,13 +81,10 @@
       "branch_mapping": {}
     },
     {
-      "path_to_root": "_repo.en-us",
-      "url": "https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro-pr",
-      "branch": "live",
-      "branch_mapping": {
-        "live": "live",
-        "master": "master"
-      }
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch": "master",
+      "branch_mapping": {}
     }
   ],
   "branch_target_mapping": {
