@@ -105,7 +105,7 @@ Learn how to manage email for your Office 365 mailboxes.
                         <p><a href="https://support.office.com/article/d0cf6608-4862-4a7b-82fc-f5fef235c966">Video: Import email</a></p>
                         <p><a href="https://support.office.com/article/a3e3bddb-582e-4133-8670-e61b9f58627e">Migrate email and contacts</a></p>
                         <p><a href="create-a-shared-mailbox.md">Create shared mailboxes</a></p>
-                        <p><a href="add-another-email-address-for-a-user.md">Add additional email addresses to a user</a></p>
+                        <p><a href="add-another-email-alias-for-a-user.md">Add additional email addresses to a user</a></p>
                         <p><a href="https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-on-the-web/owa-for-devices-contact-sync">Let users sync email contacts with their iPhone or iPad</a></p>
                         <p><a href="https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4">Set up a multifunction device to send email</a></p>
                     </div>
@@ -123,7 +123,7 @@ Learn how to manage email for your Office 365 mailboxes.
                         <p><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/anti-spam-protection">Email anti-spam protection</a></p>
                         <p><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/block-email-spam-to-prevent-false-negatives">How to set up the spam filter settings to help block spam</a></p>
                         <p><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/anti-spam-and-anti-malware-protection">Anti-spam and anti-malware protection</a></p>
-                        <p><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0a">Prevent email from being marked as spam</a></p>
+                        <p><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0">Prevent email from being marked as spam</a></p>
                     </div>
                 </div>
             </div>
