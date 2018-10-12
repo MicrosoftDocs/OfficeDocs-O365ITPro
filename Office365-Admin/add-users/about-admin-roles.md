@@ -3,7 +3,6 @@ title: "About Office 365 admin roles"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:
@@ -29,7 +28,7 @@ description: "Admin roles map to business functions and give permissions to do s
 
 # About Office 365 admin roles
 
- *Last updated 1 August, 2018* 
+ 
   
 Office 365 comes with a set of admin roles that you can [assign](assign-admin-roles.md) to users in your organization. Each admin role maps to common business functions, and gives people in your organization permissions to do specific tasks in the Office 365 admin center. 
   
@@ -69,7 +68,6 @@ If you have a large business, you'll want to set roles in Azure Active Directory
 For a list and description of all the Azure Active Directory roles, see [Assigning administrator roles in Azure Activity Directory](https://go.microsoft.com/fwlink/?linkid=862394).
   
 ## What can the Office 365 admin roles do in Exchange Online, SharePoint Online, and Skype for Business Online?
-<a name="__which_services_do"> </a>
 
 Certain admin roles in Office 365 have a corresponding role in Exchange Online, SharePoint Online, and Skype for Business Online. The table below describes how these Office 365 admin roles translate into roles in the different Office 365 services.
   
@@ -88,7 +86,6 @@ Certain admin roles in Office 365 have a corresponding role in Exchange Online, 
 \*People with the password admin role can do the same tasks as people with the Exchange Help Desk role, however, they can't do message trace.
   
 ## Delegated administration
-<a name="__which_services_do"> </a>
 
 If you're working with a Microsoft partner, you can assign them admin roles. They in turn can assign users in your company - or their company - admin roles. You might want them to do this, for example, if they are setting up and managing Office 365 for you.
   
@@ -101,7 +98,6 @@ A partner can assign these roles:
 Before the partner can assign these roles to users, you must add the partner as a delegated admin to your Office 365 account. This process is initiated by an authorized partner. The partner sends you an email to ask you if you want to give them permission to act as a delegated admin. For instructions, see [Authorize or remove partner relationships](https://support.office.com/article/201ccb3b-6011-4bf1-a6b2-84e7cc1ee2d0.aspx).
   
 ## Related articles
-<a name="__which_services_do"> </a>
 
 [Assign admin roles in Office 365](assign-admin-roles.md)
   
