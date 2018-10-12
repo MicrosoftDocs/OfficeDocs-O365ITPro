@@ -49,17 +49,17 @@ Domain names, like contoso.com, are managed by using a worldwide system of domai
   
 ::: moniker-end
 
-> [What are domain names?](dns-basics-0.md#__toc386183972)
+> [What are domain names?](dns-basics.md#__toc386183972)
     
-> [Understand DNS record types](dns-basics-0.md#__toc386183973)
+> [Understand DNS record types](dns-basics.md#__toc386183973)
     
-> [How does DNS work?](dns-basics-0.md#__toc386183974)
+> [How does DNS work?](dns-basics.md#__toc386183974)
     
-> [Why add a domain in Office 365?](dns-basics-0.md#BKMK_WhyAdd)
+> [Why add a domain in Office 365?](dns-basics.md#BKMK_WhyAdd)
     
-> [The DNS records required for =Office 365](dns-basics-0.md#__toc386183977)
+> [The DNS records required for =Office 365](dns-basics.md#__toc386183977)
     
-> [How can I learn more?](dns-basics-0.md#bkmk_learnmore)
+> [How can I learn more?](dns-basics.md#bkmk_learnmore)
     
 ## What are domain names?
 <a name="__toc386183972"> </a>
@@ -93,7 +93,7 @@ DNS records stored at a DNS host for your domain are used to direct traffic for 
 ## How does DNS work?
 <a name="__toc386183974"> </a>
 
-Part of setting up your domain with a cloud service like Office 365 includes changing or adding [DNS records](dns-basics-0.md) for the domain. These changes are required because of how the Internet works with the DNS, Domain Name System, and domain names, to know where to send or find things, like email and websites. 
+Part of setting up your domain with a cloud service like Office 365 includes changing or adding [DNS records](dns-basics.md) for the domain. These changes are required because of how the Internet works with the DNS, Domain Name System, and domain names, to know where to send or find things, like email and websites. 
   
 The Internet is set up to use DNS, or Domain Name System, which lets us use familiar names, like contoso.com, to locate specific Internet locations that are actually, under the covers, labeled with hard-to-remember numbers called IP (Internet Protocol) addresses. IP addresses look something like 70.42.241.42, so you can see it's much easier to use a domain name to identify locations like email hosts and websites.
   
