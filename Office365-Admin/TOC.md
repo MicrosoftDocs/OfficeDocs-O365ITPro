@@ -12,7 +12,6 @@
 ### [What subscription do I have?](admin-overview/what-subscription-do-i-have-0.md)
 ### [Learn about Office 365 Germany](admin-overview/learn-about-office-365-germany.md)
 ### [Admin Mobile App](admin-overview/admin-mobile-app.md)
-### [Enable third-party storage](admin-overview/enable-third-party-storage.md)
 ## [Setup](setup/setup.md)
 ### [Plan your setup](setup/plan-your-setup.md)
 ### [Add domain](setup/add-domain.md)
