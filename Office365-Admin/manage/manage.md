@@ -17,7 +17,7 @@ Quick links for the most common admin tasks in Office 365.
 
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="../add-users/add-users">
+        <a href="../add-users/add-users.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -53,7 +53,7 @@ Quick links for the most common admin tasks in Office 365.
         </a>
     </li>
     <li>
-        <a href="../add-users/remove-former-employee">
+        <a href="../add-users/remove-former-employee.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -73,7 +73,7 @@ Quick links for the most common admin tasks in Office 365.
 </ul>
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="../get-help-with-domains/find-and-fix-issues">
+        <a href="../get-help-with-domains/find-and-fix-issues.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -91,7 +91,7 @@ Quick links for the most common admin tasks in Office 365.
         </a>
     </li>
     <li>
-        <a href="../subscriptions-and-billing/cancel-your-subscription">
+        <a href="../subscriptions-and-billing/cancel-your-subscription.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -139,7 +139,7 @@ Quick links for the most common admin tasks in Office 365.
                 <div class="card">
                     <div class="cardText">
                         <h3>Email</h3>
-                            <p><a href="../add-users/add-users">Add a new employee</a></p>
+                            <p><a href="../add-users/add-users.md">Add a new employee</a></p>
                             <p><a href="https://support.office.com/article/97748418-bbd5-4743-a05b-581f22a466dd">Fix email messages when they won't send</a></p>
                             <p><a href="../troubleshoot-issues-for-admins/troubleshoot-email-issues">Troubleshoot email issues</a></p>
                             <p><b>More tasks:</b> <a href="../email/email">Email in Office 365 for business</a></p>
