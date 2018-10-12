@@ -3,7 +3,6 @@ title: "Create DNS records at Hover for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 46ab4b10-6857-44b1-b08d-d1b5f45a69c6
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Hover for Office 365."
 ---
 

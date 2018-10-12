@@ -3,7 +3,6 @@ title: "Create DNS records at Fasthosts.co.uk for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 7fc2d2a9-418f-45b7-9c70-6218e388a3f2
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Fasthosts.co.uk for Office 365."
 ---
 

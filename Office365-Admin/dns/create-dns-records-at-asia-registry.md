@@ -3,7 +3,6 @@ title: "Create DNS records at Asia Registry for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 525fd8a3-e33c-4abb-8c3b-786f06484894
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Asia Registry for Office 365."
 ---
 

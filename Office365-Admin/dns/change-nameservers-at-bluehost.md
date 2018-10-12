@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Bluehost"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 7712b6af-329c-43a0-af7b-c4e4c1befb0e
-
 description: "Learn how you can set up Office 365 to manage your DNS records at Bluehost. "
 ---
 

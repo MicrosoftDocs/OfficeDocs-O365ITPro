@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Blacknight"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -16,7 +15,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 99a77a09-87fa-4d93-b5d6-ec25fc4cd3a1
-
 description: "Learn how you can set up Office 365 to manage your DNS records at Blacknight. "
 ---
 

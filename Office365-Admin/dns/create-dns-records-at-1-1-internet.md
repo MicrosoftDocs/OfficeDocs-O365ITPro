@@ -3,7 +3,6 @@ title: "Create DNS records at 1&amp;1 Internet for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -21,7 +20,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5762c3ca-1de2-4999-bfe5-4c5e25a8957e
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at 1&amp;1 Internet for Office 365."
 ---
 

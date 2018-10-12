@@ -22,15 +22,14 @@ search.appverid:
 - MOE150
 - GEA150
 ms.assetid: 758befc4-0888-4009-9f14-0d147402fd23
-
 description: "Use the admin center to set up your organization in the cloud, and manage users and subscriptions. Get started by signing in to the account with admin permissions."
 ---
 
 # About the Office 365 admin center
 
-|||
-|-----|-----|
-|![I forgot the username or password for the account I use with Office.](../media/d0ee024e-999d-438b-b72d-2e1779cf7f83.png)     <br/> |**If you purchased an Office 365 business plan AND you have [admin permissions](../add-users-2/about-admin-roles.md), you have access to the admin center**. This article is for you!  <br/> <br/>**If you are a user or have an Office 365 home plan, you do not have an admin center.** To set up Office 365, go to [Download and install or reinstall Office 365 or Office 2016 on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx).  <br/> |
+**If you purchased an Office 365 business plan AND you have [admin permissions](../add-users-2/about-admin-roles.md), you have access to the admin center**. This article is for you! 
+
+**If you are a user or have an Office 365 home plan, you do not have an admin center.** To set up Office 365, go to [Download and install or reinstall Office 365 or Office 2016 on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx).
    
 You use the admin center to set up your organization in the cloud, manage users, manage subscriptions, and much more. In this article, learn how to get to the admin center and learn about available features and settings.
 <br><br>  

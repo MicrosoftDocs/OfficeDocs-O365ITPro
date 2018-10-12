@@ -3,7 +3,6 @@ title: "Create DNS records at any DNS hosting provider for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -25,7 +24,6 @@ search.appverid:
 - BEA160
 - GEA150
 ms.assetid: 7b7b075d-79f9-4e37-8a9e-fb60c1d95166
-
 description: "Learn to verify your domain and create DNS records at any DNS hosting provider for Office 365."
 ---
 

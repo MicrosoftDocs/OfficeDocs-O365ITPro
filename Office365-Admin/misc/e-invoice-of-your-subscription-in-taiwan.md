@@ -21,7 +21,7 @@ description: "Learn about the Office 365 for business e-Invoice for Taiwan."
 
 # Understand your e-Invoice for Office 365 for business (Taiwan)
 
-e-Invoice is electronic invoice issued by seller after buyer purchases in accordance with Taiwan Tax Authority's e-Invoice requirements. Information is transmitted to Taiwan Tax Authority's Electronic Invoice Cloud for record keeping. For Taiwan e-Invoice related information, please refer here: [財政部電子發票整合服務平台](https://www.einvoice.nat.gov.tw/)
+e-Invoice is electronic invoice issued by seller after buyer purchases in accordance with Taiwan Tax Authority's e-Invoice requirements. Information is transmitted to Taiwan Tax Authority's Electronic Invoice Cloud for record keeping. For Taiwan e-Invoice related information, please refer here: <a href="https://www.einvoice.nat.gov.tw/" target="_blank">財政部電子發票整合服務平台</a>
   
 A sample copy of e-Invoice is included here:
   
@@ -57,7 +57,7 @@ After you have created your account, you may update your VAT ID through your Off
 
 If your receipt won Lucky Draw (only available to customers without VAT ID), we will send a hard copy directly to the addresses on file by registered mail.
   
-Otherwise, if you need the official paper copy of your e-Invoice, please contact [Customer Support](../contact-support-for-business-products.md). After we receive your request, we will mail the paper copy of the e-Invoice to the address on file.
+Otherwise, if you need the official paper copy of your e-Invoice, please [contact support](../contact-support-for-business-products.md). After we receive your request, we will mail the paper copy of the e-Invoice to the address on file.
   
 ## More questions?
 

@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Asia Registry"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: a507f23b-f070-40a2-856a-0d834ac1168d
-
 description: "Learn how you can set up Office 365 to manage your DNS records at Asia Registry. "
 ---
 

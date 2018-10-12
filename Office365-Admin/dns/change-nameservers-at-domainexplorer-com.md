@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with DomainExplorer.com"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 3ddca527-1891-40e5-922f-513af41598e4
-
 description: "Learn how you can set up Office 365 to manage the DNS records of your custom domain at DomainExplorer.com."
 ---
 

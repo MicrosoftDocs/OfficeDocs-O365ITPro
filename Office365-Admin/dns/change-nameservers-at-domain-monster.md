@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Domain Monster"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -16,7 +15,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: fc46b19e-c84d-4941-bcc6-6a3ac95fb5d5
-
 description: "Learn how you can set up Office 365 to manage the DNS records of your custom domain at Domain Monster."
 ---
 

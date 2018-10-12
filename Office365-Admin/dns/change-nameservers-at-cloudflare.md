@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Cloudflare"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -16,7 +15,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: fb8b07ce-6d9d-4616-96f0-20b093911531
-
 description: "Learn how you can set up Office 365 to manage the DNS records of your custom domain at Cloudflare."
 ---
 
