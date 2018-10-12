@@ -41,7 +41,7 @@ You can also expand **Products** to buy a version of Power BI.
 
 To enable the content pack, you have to be either a **global administrator**, **report reader**, **Exchange administrator**, **Skype for Business administrator**, or **SharePoint administrator**. 
   
-See [Office 365 admin roles](../add-users-2/about-admin-roles.md) for more information. 
+See [Office 365 admin roles](../add-users/about-admin-roles.md) for more information. 
   
 1. Sign in with your admin credentials, and go to the [Admin center](../admin-overview/about-the-admin-center.md).
     

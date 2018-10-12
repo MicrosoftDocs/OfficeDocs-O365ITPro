@@ -3,7 +3,6 @@ title: "Enter your Office 365 for business product key purchased from Microsoft 
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -28,9 +27,9 @@ If you purchased Office 365 for business from a [Microsoft Open program](https:/
   
  **Need something else?**
   
- **For help with Office 365 Home, Personal, or University**, see [Using product keys with Office 365, Office 2016, or Office 2013](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759.aspx).
+ **For help with Office 365 Home, or Personal**, see [Using product keys with Office 365, Office 2019, or Office 2016](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759.aspx).
   
- **For help with Office 365 for Business Premium purchased from a [Microsoft retail store](https://www.microsoft.com/en-us/store/locations/find-a-store)**, see [Enter your product key purchased from a Microsoft store](enter-your-product-key.md). 
+ **For help with Office 365 Business Premium purchased from a retail store**, see [Enter your product key purchased from a Microsoft store](enter-your-product-key.md). 
   
 ## Activate, renew, or add licenses to a subscription purchased from Microsoft Open
 
@@ -44,13 +43,13 @@ If you bought Office 365 from a Microsoft Open program, the system automatically
 2. Follow the link in the email to sign in with your work or school account, accept the Open License Agreement, and renew the subscription. For a step-by-step walkthrough, download the PDF guide, [Activate Online Services: Office 365 Subscription](https://go.microsoft.com/fwlink/p/?LinkId=618100), which covers how to activate a new subscription, renew an existing subscription, or add licenses to an existing subscription.
     
 > [!NOTE]
-> Volume licensing customers can also choose to activate Office 365 subscriptions in the [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). To learn how, download the PDF guide, [Activate Online Services in the Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=618096). 
+> Volume licensing customers can also choose to activate subscriptions in the [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). To learn how, download the PDF guide, [Activate Online Services in the Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=618096). 
   
 ## What's next?
 
 If you're new to Office 365 for business, learn how to [set up Office 365 for your organization](../setup/setup.md).
   
-## Still having trouble with Office 365 for business product keys?
+## Still having trouble with product keys?
 
 Check out this list of common errors and solutions: [Problems with your Office 365 for business product key?](product-key-errors-and-solutions.md)
   
@@ -59,5 +58,3 @@ Partners, see [Partners: use a product key to set up a customer subscription](ht
 Volume licensing customers can learn more by visiting [Microsoft Volume Licensing Service Center training and resources](https://go.microsoft.com/fwlink/p/?LinkId=618103).
   
 Or, if you want to talk to a person, [call Microsoft Support](../contact-support-for-business-products.md).
-  
-

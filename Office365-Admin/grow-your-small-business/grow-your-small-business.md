@@ -3,7 +3,6 @@ title: "Grow your small business with Office 365"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: landing-page
 layout: LandingPage
@@ -36,7 +35,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/setup-and-install/setup?tabs=BusEssentials">
+        <a href="../setup/setup?tabs=BusEssentials">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -54,7 +53,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="contact-support-for-business-products">
+        <a href="../contact-support-for-business-products">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -77,13 +76,13 @@ description: "Learn about features in Office 365 that help your boost your busin
 
 <ul class="panelContent cardsW">
     <li>
-        <a href="https://support.officeppe.com/article/485fee6d-b22e-440a-9053-a4e7fa509c92">
+        <a href="../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/a6f29274-004a-46af-a374-30e0d3d39ee8.png" alt="Convert your Office 365 trial" />
+                            <img src="../media/a6f29274-004a-46af-a374-30e0d3d39ee8.png" alt="Convert your Office 365 trial" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -102,7 +101,7 @@ description: "Learn about features in Office 365 that help your boost your busin
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/df56cbae-7c00-471d-bcc8-4f4bcb8d99f5.png" alt="Head to a Microsoft store" />
+                            <img src="../media/df56cbae-7c00-471d-bcc8-4f4bcb8d99f5.png" alt="Head to a Microsoft store" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -115,13 +114,13 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="https://support.officeppe.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816">
+        <a href="https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/711c4c19-dcbb-4d2a-a48a-f33035c28994.png" alt="Small business training" />
+                            <img src="../media/711c4c19-dcbb-4d2a-a48a-f33035c28994.png" alt="Small business training" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -158,7 +157,7 @@ description: "Learn about features in Office 365 that help your boost your busin
                     <div class="cardText">
                         <h3>Monthly webinar series </h3>
                         <p>Watch our latest monthly webinar on managing content with SharePoint and OneDrive. When should you use SharePoint or OneDrive?</p>
-                        <p>Check out the rest of our webinar series here: <a href="https://support.officeppe.com/article/34c1cfda-5a11-41b7-929d-fc2937fe8b61">Office 365 Webinars</a></p>
+                        <p>Check out the rest of our webinar series here: <a href="previous-webinar-videos.md">Office 365 Webinars</a></p>
                     </div>
                 </div>
             </div>
@@ -168,13 +167,13 @@ description: "Learn about features in Office 365 that help your boost your busin
 
 <ul class="panelContent cardsW">
     <li>
-        <a href="https://support.officeppe.com/article/298cd313-028d-4270-a91d-619d6576d7df">
+        <a href="tips-to-help-boost-your-business.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/ca97a937-ef4f-40c4-b848-3ad1d105446c.png" alt="How to be successful content" />
+                            <img src="../media/ca97a937-ef4f-40c4-b848-3ad1d105446c.png" alt="How to be successful content" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -187,13 +186,13 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="https://support.officeppe.com/article/0c733865-2109-475d-a349-22a2809dcca7">
+        <a href="../security-and-compliance/hipaa-compliance.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/3d42cb3c-29cd-43a6-8b7a-ee252f08e44e.png" alt="Office 365 and HIPAA compliance" />
+                            <img src="../media/3d42cb3c-29cd-43a6-8b7a-ee252f08e44e.png" alt="Office 365 and HIPAA compliance" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -206,13 +205,13 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="https://support.officeppe.com/article/68d1dca2-f1d6-4edc-8aff-318acfd47688">
+        <a href="what-s-trending">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/d2e91cf2-b27e-47a5-a091-9df370ac5d18.png" alt="Things to try" />
+                            <img src="../media/d2e91cf2-b27e-47a5-a091-9df370ac5d18.png" alt="Things to try" />
                         </div>
                     </div>
                     <div class="cardText">

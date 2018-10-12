@@ -134,11 +134,11 @@ As for existing employees and new employee contracts, a signature at the end of 
 
 Becoming compliant with the GDPR is about making sure that personal data is protected. The GDPR has a concept known as Privacy by Design and Default. This means that data protection should be "baked in" to a system and a product so that satisfying privacy concerns is second nature. 
   
-Like their larger counterparts, a small business needs convenience without sacrificing security. Microsoft 365 Business is part of Microsoft Office 365 and is designed for companies of fewer than 300 employees. Small companies can use the Office 365 cloud-based tools to improve business productivity. With Microsoft 365 Business, a small business can manage emails, documentation, and even meetings and events. It also has built-in security measures and device management, which are vital for GDPR compliance.
+Like their larger counterparts, a small business needs convenience without sacrificing security. Microsoft 365 Business is designed for companies of fewer than 300 employees. Small companies can use Microsoft cloud-based tools to improve business productivity. With Microsoft 365 Business, a small business can manage emails, documentation, and even meetings and events. It also has built-in security measures and device management, which are vital for GDPR compliance.
   
 Microsoft 365 Business can help you with the GDPR process in the following ways:
   
-- **Discover:** An important step to GDPR compliance is knowing what data you have. Office 365 has [Use Content Search in your eDiscovery workflow](https://support.office.com/article/55f31488-288a-473a-9b9e-831a11e3711a) which helps you find personal data across your Office applications. After you know what you're dealing with, you can plan to deal with it. 
+- **Discover:** An important step to GDPR compliance is knowing what data you have. 
     
 - **Manage:** Controlling access to data and managing its use is an integral part of GDPR. Microsoft 365 Business protects business data based on policies you want to apply to devices. Device management is vital in an age where employees work remotely. Microsoft 365 Business includes device management features that makes sure data is protected across all devices. For example, you can specify that all Windows 10 devices in your business are protected via Windows Defender. 
     

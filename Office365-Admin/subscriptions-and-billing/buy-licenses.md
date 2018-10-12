@@ -24,11 +24,11 @@ description: "Learn how to add more licenses to your Office 365 for business sub
 
 # Buy licenses for your Office 365 for business subscription
 
-1. In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
-    If you're using Office 365 Germany, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=850626) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page. 
     
 2. On the **Subscriptions** page, choose the subscription that you want to add licenses to and then choose **Add/Remove licenses**.
     
@@ -41,11 +41,11 @@ description: "Learn how to add more licenses to your Office 365 for business sub
 ![Total licenses box and the Submit button.](../media/c15248ea-db28-4515-b71c-26145876787d.png)
   
 > [!NOTE]
->  If you pay for your subscription by credit card or bank account, any new licenses that you buy are available immediately after you receive an order confirmation. If you pay by invoice, you might have to wait for a credit check before your new licenses are available to use. 
+> - If you pay for your subscription by credit card or bank account, any new licenses that you buy are available immediately after you receive an order confirmation. If you pay by invoice, you might have to wait for a credit check before your new licenses are available to use. 
 > 
->  If you prepaid for your subscription with a product key, you can add more licenses by adding a credit card or bank account to cover the additional cost of the new licenses. After you have purchased the new licenses, we add a second subscription with the number of new licenses that you just added. For example, if you have a prepaid subscription with 5 licenses, and then bought 10 more licenses, you will see two subscriptions listed: one with the five prepaid licenses, and one with the 10 new licenses. 
+> - If you prepaid for your subscription with a product key, you can add more licenses by adding a credit card or bank account to cover the additional cost of the new licenses. After you have purchased the new licenses, we add a second subscription with the number of new licenses that you just added. For example, if you have a prepaid subscription with 5 licenses, and then bought 10 more licenses, you will see two subscriptions listed: one with the five prepaid licenses, and one with the 10 new licenses. 
 > 
->  Paying by bank account is not available in some countries or regions. 
+> - Paying by bank account is not available in some countries or regions. 
   
 ## What if I don't see the Add/Remove licenses link?
 
@@ -75,9 +75,9 @@ If you have a trial subscription, you must first buy your trial subscription, th
   
 ## What you need to know about buying licenses for your Office 365 for business subscription
 
-- You need to be either a Global admin or a Billing admin. For more information, see [About Office 365 admin roles](../add-users-2/about-admin-roles.md).
+- You need to be either a Global admin or a Billing admin. For more information, see [About Office 365 admin roles](../add-users/about-admin-roles.md).
     
-- To buy a license and add a new user to your subscription at the same time, see [Add users individually or in bulk to Office 365 - Admin Help](../add-users-2/add-users-2.md).
+- To buy a license and add a new user to your subscription at the same time, see [Add users individually or in bulk to Office 365 - Admin Help](../add-users/add-users.md).
     
 - If you pay by credit card or bank account, the charge for buying new licenses will appear on your payment method in two days.
     
@@ -99,7 +99,7 @@ If you have a trial subscription, you must first buy your trial subscription, th
     
 - [Buy or edit an add-on](buy-or-edit-an-add-on.md)
     
-- [Manage Yammer user licenses in Office 365](https://docs.microsoft.com/en-us/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
+- [Manage Yammer user licenses](https://docs.microsoft.com/en-us/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
   
 ## Related topics
 

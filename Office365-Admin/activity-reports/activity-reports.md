@@ -74,7 +74,7 @@ People who have the following permissions:
     
 - Reports reader
     
-To learn more, see [About Office 365 admin roles](../add-users-2/about-admin-roles.md) and [Assign admin roles in Office 365](../add-users-2/assign-admin-roles.md).
+To learn more, see [About Office 365 admin roles](../add-users/about-admin-roles.md) and [Assign admin roles in Office 365](../add-users/assign-admin-roles.md).
   
 ## Which activity reports are available in the Office 365 admin center
 
