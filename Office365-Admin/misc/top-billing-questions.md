@@ -162,7 +162,14 @@ See [View your bill or get Fapiaos in Office 365 operated by 21Vianet](../servic
 ::: moniker range="o365-worldwide"
 ## What taxes will I be charged?
 
-See [What tax will I be charged for Office 365?](../subscriptions-and-billing/apply-for-tax-exempt-status.md) to find out what tax you're charged, depending on your country or region. 
+See [What tax will I be charged for Office 365?](../subscriptions-and-billing/what-tax-will-i-be-charged.md) to find out what tax you're charged, depending on your country or region. 
+  
+::: moniker-end
+
+::: moniker range="o365-germany"
+## What taxes will I be charged?
+
+See [What tax will I be charged for Office 365?](../subscriptions-and-billing/what-tax-will-i-be-charged.md) to find out what tax you're charged, depending on your country or region. 
   
 ::: moniker-end
 
@@ -170,13 +177,6 @@ See [What tax will I be charged for Office 365?](../subscriptions-and-billing/ap
 ## How do I apply for tax exempt status?
 
 You can [Apply for tax exempt status for Office 365 for business](../subscriptions-and-billing/apply-for-tax-exempt-status.md) by providing the proper documentation to Support. 
-  
-::: moniker-end
-
-::: moniker range="o365-germany"
-## What taxes will I be charged?
-
-See [What tax will I be charged for Office 365?](../subscriptions-and-billing/apply-for-tax-exempt-status.md) to find out what tax you're charged, depending on your country or region. 
   
 ::: moniker-end
 

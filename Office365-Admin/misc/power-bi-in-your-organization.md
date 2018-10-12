@@ -49,7 +49,7 @@ In this scenario, the user has an email address in your organization's domain (f
 There are no administrative actions your organization needs to take to take advantage of Power BI.
   
 > [!IMPORTANT]
-> If your organization has multiple email domains and you prefer all email address extensions to be in the same tenant, before any users create your primary tenant, add all email address domains to that tenant before any users create your primary tenant. There is no automated mechanism to move users across tenants after they have been created. For more information on this process, see [If I have multiple domains, can I control the Office 365 tenant that users are added to?](#if-i-have-multiple-domains-can-i-control-the-office-365-tenant-that-users-are-added-to) later in this article and [Add a domain to Office 365](../setup/add-domain.md)[Add your domain to Office 365] online. 
+> If your organization has multiple email domains and you prefer all email address extensions to be in the same tenant, before any users create your primary tenant, add all email address domains to that tenant before any users create your primary tenant. There is no automated mechanism to move users across tenants after they have been created. For more information on this process, see [If I have multiple domains, can I control the Office 365 tenant that users are added to?](#if-i-have-multiple-domains-can-i-control-the-office-365-tenant-that-users-are-added-to) later in this article and [Add a domain to Office 365](../setup/add-domain.md) online. 
   
 ## How will this change the way I manage identities for users in my organization today?
 
@@ -100,7 +100,7 @@ There are steps you can take as an admin to prevent users from joining your exis
   
 These steps require the use of Windows PowerShell. To get started with Windows PowerShell, see the [PowerShell getting started guide](https://go.microsoft.com/fwlink/p/?LinkID=286814).
   
-To perform the following steps, you must install the latest 64-bit version of the [Azure Active Directory Module for Windows PowerShell](https://go.microsoft.com/fwlink/p/?LinkID=236297).
+To perform the following steps, you must install the latest 64-bit version of the [Azure Active Directory Module for Windows PowerShell](https://www.powershellgallery.com/packages/AzureADPreview/2.0.2.5).
   
 After you click the link, click **Run** to run the installer package. 
   
@@ -111,7 +111,7 @@ To disable automatic tenant join for new users:  `Set-MsolCompanySettings -Allow
 To enable automatic tenant join for new users:  `Set-MsolCompanySettings -AllowEmailVerifiedUsers $true`
   
 > [!NOTE]
-> This blocking prevents new users in your organization from signing up for Power BI. Users that sign up for Power BI prior to disabling new signups for your organization will still retain their licenses. See the How Can I Remove Licenses? section for instructions on how you can remove access to Power BI for users that had previously signed up for the service. 
+> This blocking prevents new users in your organization from signing up for Power BI. Users that sign up for Power BI prior to disabling new signups for your organization will still retain their licenses. See the [How do I remove Power BI for users that already signed up?](#how-do-i-remove-power-bi-for-users-that-already-signed-up) for instructions on how you can remove access to Power BI for users that had previously signed up for the service. 
   
 ## How can I allow users to join my existing Office 365 tenant?
 
@@ -130,7 +130,7 @@ To disable automatic license distribution for existing users:  `Set-MsolCompanyS
 To enable automatic license distribution for existing users:  `Set-MsolCompanySettings -AllowAdHocSubscriptions $true`
   
 > [!NOTE]
-> The AllowAdHocSubscriptions flag is used to control several user capabilities in your organization, including the ability for users to sign up for the Azure Rights Management Service. Changing this flag will affect all of these capabilities. 
+> The *AllowAdHocSubscriptions* flag is used to control several user capabilities in your organization, including the ability for users to sign up for the Azure Rights Management Service. Changing this flag will affect all of these capabilities. 
   
 ## How can I allow my existing users to sign up for Power BI?
 
@@ -156,17 +156,17 @@ If a user signed up for Power BI but you no longer want them to have access to P
 
 Users who have joined your tenant as part of this program are assigned a unique license that you can filter on within your active user pane in the admin dashboard.
   
-To create this new view, in the Office 365 admin center, go to ** Users ** \> **Active Users**, and on the **Select a View** menu, select **New View**. Name your new view, and under **Assigned license**, select **Microsoft Power BI**. Once the new view has been created, you will be able to see all the users in your tenant who have enrolled in this program.
+To create this new view, in the Admin center, go to **Users** \> **Active Users**, and on the **Select a View** menu, select **New View**. Name your new view, and under **Assigned license**, select **Microsoft Power BI**. After the new view has been created, you will be able to see all the users in your tenant who have enrolled in this program.
   
 ## Are there any additional things I should be prepared for?
 
 You might experience an increase in password reset requests. For information about this process, see [Reset a user's password](../add-users/reset-passwords.md).
   
-You can remove a user from your tenant via the standard process in the Office 365 admin center. However, if the user still has an active email address from your organization, they will be able to rejoin unless you block all users from joining.
+You can remove a user from your tenant via the standard process in the Admin center. However, if the user still has an active email address from your organization, they will be able to rejoin unless you block all users from joining.
   
 ## Why did 1 million licenses for Microsoft Power BI show up in my Office 365 tenant?
 
-As a qualifying organization, users in your organization are eligible to use the Microsoft Power BI service and these licenses represent the available capacity for new Power BI users in your tenant. There is no charge for these licenses. If you've chosen to allow users to sign up for Power BI themselves, they will be assigned one of these available free licenses when they complete the sign up process. You can also choose to assign these licenses to users yourself through the Office 365 admin center.
+As a qualifying organization, users in your organization are eligible to use the Microsoft Power BI service and these licenses represent the available capacity for new Power BI users in your tenant. There is no charge for these licenses. If you've chosen to allow users to sign up for Power BI themselves, they will be assigned one of these available free licenses when they complete the sign up process. You can also choose to assign these licenses to users yourself through the Admin center.
   
 ## Is this free? Will I be charged for these licenses?
 
