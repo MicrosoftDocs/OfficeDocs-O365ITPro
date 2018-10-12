@@ -30,7 +30,6 @@ When you [buy an Office 365 business plan](https://go.microsoft.com/fwlink/?link
   
 With this account you can access the Office 365 admin center to manage your business: add users, manage your subscription, reset passwords, and more. Try it!
   
-- 
 ::: moniker range="o365-worldwide"
 
  **Sign in with your Office 365 admin account at [https://aka.ms/admincenter](https://aka.ms/admincenter).**
