@@ -54,7 +54,7 @@ Ready to sign up? [Select a Plan](https://products.office.com/zh-cn/business/com
 ::: moniker-end
 
 ## Choose a plan
-<a name="__top"> </a>
+
 
 ::: moniker range="o365-worldwide"
 
@@ -74,7 +74,7 @@ Need help choosing? Sales consultants are available to answer your questions. Ju
 ::: moniker-end
 
 ## Ready to sign up for a free trial or buy a subscription?
-<a name="__top"> </a>
+
 
 ::: moniker range="o365-worldwide"
 
@@ -98,7 +98,7 @@ You don't need to cancel your trial. If you don't buy the trial subscription, it
 ::: moniker-end
 
 ## You'll be asked for the following information when you sign up for Office 365 for business
-<a name="__top"> </a>
+
 
 - **The address and contact information for your subscription:**
     
