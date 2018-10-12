@@ -21,7 +21,7 @@ ms.assetid: c7228a3e-061f-4575-b1ef-adf1d1669870
 description: "Learn about the Office 365 admin center: how to sign in, who your admin is, and watch a video introduction about it."
 ---
 
-# Office 365 admin overview
+# Office 365 admin overview 
 
   
 When you [buy an Office 365 business plan](https://go.microsoft.com/fwlink/?linkid=856886), we give you a special account that has admin permissions. This account is called an admin account.
