@@ -23,7 +23,7 @@ If you purchased Office 365 Business Premium from a retail store, this article h
   
  **Need something else?**
  **For help with Office 365 Home, or Personal**, see [Using product keys with Office](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759.aspx).  
- **Volume licensing customer?** If you bought Office 365 for business through a [Microsoft Open program](https://go.microsoft.com/fwlink/p/?LinkID=613298), see the article, [Enter your product key purchased from Microsoft Open](purchases-from-microsoft-open.md).
+ **Volume licensing customer?** If you bought Office 365 for business through a [Microsoft Open License Program](https://go.microsoft.com/fwlink/p/?LinkID=613298), see the article, [Enter your product key purchased from Microsoft Open](purchases-from-microsoft-open.md).
   
 ## Activate a new subscription
 
@@ -37,7 +37,7 @@ If you purchased Office 365 Business Premium from a retail store, this article h
     
 5. You can get a new domain, use a domain name you already own, or add a domain later. The steps can vary, so follow the prompts, depending on which option you choose.
     
-6. When you're finished, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">admin center</a> to manage your subscription. 
+6. When you're finished, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">Admin center</a> to manage your subscription. 
     
 ## Renew or add a user license to an existing subscription
 
