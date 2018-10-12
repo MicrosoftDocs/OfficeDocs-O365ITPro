@@ -75,9 +75,9 @@ If you have a trial subscription, you must first buy your trial subscription, th
   
 ## What you need to know about buying licenses for your Office 365 for business subscription
 
-- You need to be either a Global admin or a Billing admin. For more information, see [About Office 365 admin roles](../add-users-2/about-admin-roles.md).
+- You need to be either a Global admin or a Billing admin. For more information, see [About Office 365 admin roles](../add-users/about-admin-roles.md).
     
-- To buy a license and add a new user to your subscription at the same time, see [Add users individually or in bulk to Office 365 - Admin Help](../add-users-2/add-users-2.md).
+- To buy a license and add a new user to your subscription at the same time, see [Add users individually or in bulk to Office 365 - Admin Help](../add-users/add-users.md).
     
 - If you pay by credit card or bank account, the charge for buying new licenses will appear on your payment method in two days.
     

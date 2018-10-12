@@ -216,7 +216,7 @@ To create this new view, in the Office 365 admin center, go to ** Users ** \> **
 ## Are there any additional things I should be prepared for?
 <a name="BKMK_AreThereAdditionalPrepareFor"> </a>
 
-You might experience an increase in password reset requests. For information about this process, see [Reset a user's password](../add-users-2/reset-passwords.md).
+You might experience an increase in password reset requests. For information about this process, see [Reset a user's password](../add-users/reset-passwords.md).
   
 You can remove a user from your tenant via the standard process in the Office 365 admin center. However, if the user still has an active email address from your organization, they will be able to rejoin unless you block all users from joining.
   

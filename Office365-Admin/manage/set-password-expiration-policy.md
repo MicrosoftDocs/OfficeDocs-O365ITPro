@@ -34,7 +34,7 @@ If you're a user, you don't have the permissions to set your password to never e
 As an admin, you can make user passwords expire after a certain number of days, or set passwords to never expire. By default, passwords are set to never expire.
   
 > [!IMPORTANT]
-> Only [Office 365 global admins](../add-users-2/about-admin-roles.md) can perform these steps. 
+> Only [Office 365 global admins](../add-users/about-admin-roles.md) can perform these steps. 
   
 1. Go to the [![Go to the Office 365 admin center](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 

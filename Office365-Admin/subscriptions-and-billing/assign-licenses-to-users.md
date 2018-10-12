@@ -113,11 +113,11 @@ If you have more than one subscription, and you have users who already have a li
   
 ## What you need to know about assigning licenses to users
 
-- You need to be either a Global admin or a User management admin. For more information, see [About Office 365 admin roles](../add-users-2/about-admin-roles.md).
+- You need to be either a Global admin or a User management admin. For more information, see [About Office 365 admin roles](../add-users/about-admin-roles.md).
     
 - You can [assign licenses to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
     
-- Use these steps to add a license to an existing user account. [Learn how to add a user account and assign a license at the same time](../add-users-2/add-users-2.md)
+- Use these steps to add a license to an existing user account. [Learn how to add a user account and assign a license at the same time](../add-users/add-users.md)
     
 - Some services, like Sway, are automatically assigned to users, and don't need to be assigned individually.
     

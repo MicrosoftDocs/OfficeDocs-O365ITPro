@@ -72,7 +72,7 @@ For more information about buying more licenses, see [Buy licenses for your subs
   
 ### Remove licenses from users who don't need them
 
-Complete the following steps to remove licenses from users who don't need them. You can optionally [delete a user account to free a license](../add-users-2/delete-a-user.md).
+Complete the following steps to remove licenses from users who don't need them. You can optionally [delete a user account to free a license](../add-users/delete-a-user.md).
   
 > [!IMPORTANT]
 > When you remove licenses, any user data associated with those licenses is deleted. 
