@@ -3,7 +3,6 @@ title: "Create DNS records at Wix for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -16,7 +15,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 7173c635-58b3-400f-95e0-97abe915565e
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Wix for Office 365."
 ---
 

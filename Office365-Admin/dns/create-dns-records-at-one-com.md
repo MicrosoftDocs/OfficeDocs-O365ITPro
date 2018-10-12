@@ -3,7 +3,6 @@ title: "Create DNS records at One.com for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -14,7 +13,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: a185414d-a469-4366-acbe-33880dfee05c
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at One.com for Office 365."
 ---
 

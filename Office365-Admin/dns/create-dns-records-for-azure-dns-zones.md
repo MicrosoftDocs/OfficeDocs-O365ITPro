@@ -3,7 +3,6 @@ title: "Create DNS records for Azure DNS zones"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -16,7 +15,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: fbcef2d7-ebaf-40d0-ba1f-cdaeff9f50ef
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Azure DNS zones for Office 365."
 ---
 

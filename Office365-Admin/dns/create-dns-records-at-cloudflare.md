@@ -3,7 +3,6 @@ title: "Create DNS records at Cloudflare for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -16,7 +15,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 84acd4fc-6eec-4d00-8bed-568f036ae2af
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Cloudflare for Office 365."
 ---
 

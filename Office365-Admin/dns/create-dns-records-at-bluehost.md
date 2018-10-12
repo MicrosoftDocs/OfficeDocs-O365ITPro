@@ -3,7 +3,6 @@ title: "Create DNS records at Bluehost for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 657934ff-d9d2-4563-9ccf-ef4832a03a99
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Bluehost for Office 365."
 ---
 

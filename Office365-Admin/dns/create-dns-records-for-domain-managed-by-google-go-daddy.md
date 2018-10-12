@@ -3,7 +3,6 @@ title: "Create DNS records when your domain is managed by Google (Go Daddy)"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration

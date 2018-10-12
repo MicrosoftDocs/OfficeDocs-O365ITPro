@@ -3,7 +3,6 @@ title: "Create DNS records at Network Solutions for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 1dc55f9f-5309-450f-acc3-b2b4119c8be3
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Network Solutions for Office 365."
 ---
 

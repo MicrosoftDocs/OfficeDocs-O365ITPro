@@ -3,7 +3,6 @@ title: "Create DNS records at DomainExplorer.com for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: a45405b8-2c00-44a9-b29c-0c28d80bb4ef
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at DomainExplorer.com for Office 365."
 ---
 
