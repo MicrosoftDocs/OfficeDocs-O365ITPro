@@ -36,7 +36,7 @@ Learn about resources available for Office 365 admins.
         </a>
     </li>
     <li>
-        <a href="/setup-and-install/setup?tabs=BusEssentials">
+        <a href="/setup/setup?tabs=BusEssentials">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -54,7 +54,7 @@ Learn about resources available for Office 365 admins.
         </a>
     </li>
     <li>
-        <a href="contact-support-for-business-products">
+        <a href="contact-support-for-business-products.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
