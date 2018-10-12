@@ -3,7 +3,6 @@ title: "Use your Office 365 promo code to reduce price"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -24,10 +23,9 @@ description: "Learn how to apply a promotional code to your Office 365 subscript
 
 # Use your Office 365 promo code to reduce price
 
-When you purchase an Office 365 for business subscription, you can use a promotional code to reduce the price. Read this article to see how to [Apply a promo code to your subscription](use-a-promo-code.md#BKMK_ApplyPromoCode), to learn about the [Promo code terms](use-a-promo-code.md#__promo_code_terms), and to [Troubleshooting promo codes](use-a-promo-code.md#__troubleshooting_promo_codes).
+When you purchase a subscription, you can use a promotional code to reduce the price. Read this article to see how to [Apply a promo code to your subscription](#apply-a-promo-code-to-your-subscription), to learn about the [Promo code terms](#promo-code-terms), and to [Troubleshoot promo codes](#troubleshooting-promo-codes).
   
 ## Apply a promo code to your subscription
-<a name="BKMK_ApplyPromoCode"> </a>
 
 1. Begin your purchase by either purchasing a new Office 365 subscription, or by adding services to an existing subscription.
     
@@ -35,14 +33,13 @@ When you purchase an Office 365 for business subscription, you can use a promoti
     
     ![Image of the Enter promo code text box](../media/ed3194b0-47ce-44a8-84de-fd01d005c920.png)
   
-3. Choose **apply**. You should see **Promo code successfully applied** beneath the box. If you see a different message, refer to [Troubleshooting promo codes](use-a-promo-code.md#__troubleshooting_promo_codes) to figure out why. 
+3. Choose **apply**. You should see **Promo code successfully applied** beneath the box. If you see a different message, refer to [Troubleshooting promo codes](#troubleshooting-promo-codes) to figure out why. 
     
 4. Continue checking out. On the **Order confirmation** page, you'll see **Discount from promo code** beside an amount. 
     
 At any time after you complete your purchase, you can see the discount created by your promo code on your bill. To learn more, see [View your bill for Office 365 for business](../subscriptions-and-billing/view-your-bill-or-invoice.md).
   
 ## Promo code terms
-<a name="__promo_code_terms"> </a>
 
 The following guidelines apply to promo codes for Office 365 for business subscriptions.
   
@@ -55,7 +52,6 @@ The following guidelines apply to promo codes for Office 365 for business subscr
 - **Promo code end dates** The promo end date is the last day a promo code for that campaign can be redeemed. Once your purchase is completed, the discounted price for your subscription applies for the whole term of the order. 
     
 ## Troubleshooting promo codes
-<a name="__troubleshooting_promo_codes"> </a>
 
 If you receive an error message after you enter your promo code, there may be a number of reasons. The following list describes the most common causes of error messages.
   
@@ -67,13 +63,10 @@ If you receive an error message after you enter your promo code, there may be a 
   
 - **The promo code you are using is for the wrong geographical region.** Some promo codes are only valid for a particular country or region. Promo codes don't work in a country or region other than the one for which they were created.
   
-## See also
-<a name="BKMK_ContactSupport"> </a>
+## Related topics
 
 [Buy a subscription from your free trial](../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md)
   
 [Buy another subscription](../subscriptions-and-billing/buy-another-subscription.md)
   
-[Buy or edit an add-on for Office 365 for business](../subscriptions-and-billing/buy-or-edit-an-add-on.md)
-  
-[Billing in Office 365 for business - Admin Help](../subscriptions-and-billing/subscriptions-and-billing.md)
+[Buy or edit an add-on](../subscriptions-and-billing/buy-or-edit-an-add-on.md)
