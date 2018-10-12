@@ -29,12 +29,8 @@ description: "Use the admin center to set up your organization in the cloud, and
 # About the Office 365 admin center
 
 |||
-|:-----|:-----|
-<<<<<<< HEAD
-|![I forgot the username or password for the account I use with Office.](../media/d0ee024e-999d-438b-b72d-2e1779cf7f83.png)           <br/> |**If you purchased an Office 365 business plan AND you have [admin permissions](../add-users-2/about-admin-roles.md), you have access to the admin center**. This article is for you!  <br/> <br/>**If you are a user or have an Office 365 home plan, you do not have an admin center.** To set up Office 365, go to [Download and install or reinstall Office 365 or Office 2016 on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx).  <br/> |
-=======
-|![I forgot the username or password for the account I use with Office.](../media/d0ee024e-999d-438b-b72d-2e1779cf7f83.png)           <br/> |**If you purchased an Office 365 business plan AND you have [admin permissions](../add-users/about-admin-roles.md), you have access to the Office 365 admin center**. This article is for you!  <br/> **If you are a user or have an Office 365 home plan, you do not have an admin center.** To set up Office 365, go to [Download and install or reinstall Office 365 or Office 2016 on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx).  <br/> |
->>>>>>> Admin-Final-conversion
+|-----|-----|
+|![I forgot the username or password for the account I use with Office.](../media/d0ee024e-999d-438b-b72d-2e1779cf7f83.png)     <br/> |**If you purchased an Office 365 business plan AND you have [admin permissions](../add-users-2/about-admin-roles.md), you have access to the admin center**. This article is for you!  <br/> <br/>**If you are a user or have an Office 365 home plan, you do not have an admin center.** To set up Office 365, go to [Download and install or reinstall Office 365 or Office 2016 on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx).  <br/> |
    
 You use the admin center to set up your organization in the cloud, manage users, manage subscriptions, and much more. In this article, learn how to get to the admin center and learn about available features and settings.
 <br><br>  
@@ -58,11 +54,7 @@ You use the admin center to set up your organization in the cloud, manage users,
 
 2. Select the app launcher icon ![Office 365 app launcher icon](../media/0aaa6945-f9a4-4b13-bf5f-d5c5dbe978fb.png) in the upper-left and choose **Admin**.
     
-<<<<<<< HEAD
-    The **Admin** tile appears only to people who have [admin permissions](../add-users-2/about-admin-roles.md). If you don't see the tile, then you don't have permissions to access the admin center for your organization.
-=======
     The **Admin** tile appears only to people who have Office 365 [admin permissions](../add-users/about-admin-roles.md). If you don't see the tile, then you don't have permissions to access the admin center for your organization.
->>>>>>> Admin-Final-conversion
     
 ## Admin center features and settings
 

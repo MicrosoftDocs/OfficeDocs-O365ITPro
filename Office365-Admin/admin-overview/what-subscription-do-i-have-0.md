@@ -31,7 +31,6 @@ If you're an admin, you can verify which subscriptions your organization has by 
   
 1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
-<<<<<<< HEAD
     ::: moniker range="o365-germany"
    
     If you're using Office 365 Germany, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page. 
@@ -39,9 +38,6 @@ If you're an admin, you can verify which subscriptions your organization has by 
     ::: moniker-end
 
     ::: moniker range="o365-21vianet"
-=======
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
->>>>>>> Admin-Final-conversion
     
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page. 
     
