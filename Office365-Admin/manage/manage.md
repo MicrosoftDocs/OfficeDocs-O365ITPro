@@ -53,7 +53,7 @@ Quick links for the most common admin tasks in Office 365.
         </a>
     </li>
     <li>
-        <a href="../add-users/remove-a-former-employee">
+        <a href="../add-users/remove-former-employee">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">

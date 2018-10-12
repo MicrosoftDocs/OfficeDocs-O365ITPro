@@ -2,7 +2,6 @@
 title: "Email"
 ms.author: supotter
 author: supotter
-
 ms.audience: Admin
 ms.topic: landing-page
 layout: LandingPage
@@ -107,7 +106,7 @@ Learn how to manage email for your Office 365 mailboxes.
                         <p><a href="https://support.office.com/article/a3e3bddb-582e-4133-8670-e61b9f58627e">Migrate email and contacts</a></p>
                         <p><a href="create-a-shared-mailbox">Create shared mailboxes</a></p>
                         <p><a href="add-another-email-address-for-a-user">Add additional email addresses to a user</a></p>
-                        <p><a href="https://support.office.com/article/de9cd26c-1a52-4fe1-b04c-b001693e20d6">Let users sync email contacts with their iPhone or iPad</a></p>
+                        <p><a href="https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-on-the-web/owa-for-devices-contact-sync">Let users sync email contacts with their iPhone or iPad</a></p>
                         <p><a href="https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4">Set up a multifunction device to send email</a></p>
                     </div>
                 </div>
@@ -120,11 +119,11 @@ Learn how to manage email for your Office 365 mailboxes.
                 <div class="card">
                     <div class="cardText">
                         <h3>Protect your email</h3>
-                        <p><a href="https://support.office.com/article/55c96b32-e086-4c9e-948b-a018b44510cb">Create, edit, or delete a security group</a></p>
-                        <p><a href="https://support.office.com/article/6a601501-a6a8-4559-b2e7-56b59c96a586">Email anti-spam protection</a></p>
-                        <p><a href="https://support.office.com/article/da21c0b6-e8f0-4cc8-af2e-5029a9433d59">How to set up the spam filter settings to help block spam</a></p>
-                        <p><a href="https://support.office.com/article/5ce5cf47-2120-4e51-a403-426a13358b7e?ui=en-US&rs=en-US&ad=US">Anti-spam and anti-malware protection</a></p>
-                        <p><a href="https://support.office.com/article/74aaade0-efc0-46ac-b949-f2d1d59256fa">Prevent false positive email marked as spam with a safelist or other techniques</a></p>
+                        <p><a href="create-edit-or-delete-a-security-group">Create, edit, or delete a security group</a></p>
+                        <p><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/anti-spam-protection">Email anti-spam protection</a></p>
+                        <p><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/block-email-spam-to-prevent-false-negatives">How to set up the spam filter settings to help block spam</a></p>
+                        <p><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/anti-spam-and-anti-malware-protection">Anti-spam and anti-malware protection</a></p>
+                        <p><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0a">Prevent email from being marked as spam</a></p>
                     </div>
                 </div>
             </div>
@@ -137,9 +136,9 @@ Learn how to manage email for your Office 365 mailboxes.
                     <div class="cardText">
                         <h3>Solve email connection and delivery problems</a></h3>
                         <p><a href="https://diagnostics.outlook.com/#/">Fix Outlook connection problems in Office 365 and Exchange Online</a></p>
-                        <p><a href="https://support.office.com/article/eb15194b-63ec-41b0-8d90-1823d3f558e4">Recover deleted items in a user's mailbox</a></p>
+                        <p><a href="https://docs.microsoft.com/en-us/office365/enterprise/recover-deleted-items-in-a-mailbox">Recover deleted items in a user's mailbox</a></p>
                         <p><a href="https://support.office.com/article/e7758b99-1896-41db-bf39-51e2dba21de6">Find and fix email delivery issues</a></p>
-                        <p><a href="https://support.office.com/article/40398b0b-bdd0-4afd-ab5e-b5ae6b7990bf">Find and fix issues (including issues with email) after adding your domain or DNS records</a></p>
+                        <p><a href="../get-help-with-domains/find-and-fix-issues.md">Find and fix issues (including issues with email) after adding your domain or DNS records</a></p>
                         <p><a href="https://support.office.com/article/51daa6b9-2e35-49c4-a0c9-df85bf8533c3">Look up NDR error codes in Email non-delivery reports</a></p>
                         <p><a href="https://go.microsoft.com/fwlink/?LinkID=618675">Troubleshoot Outlook issues</a></p>
                     </div>
@@ -154,9 +153,9 @@ Learn how to manage email for your Office 365 mailboxes.
                 <div class="cardText">
                         <h3>Resources for Enterprises</h3>
                         <p><a href="https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/mail-flow-best-practices">Mail flow best practices for Exchange Online and Office 365</a></p>
-                        <p><a href="https://support.office.com/article/0a4913fe-60fb-498f-9155-a86516418842">Ways to migrate multiple email accounts to Office 365</a></p>
-                        <p><a href="https://technet.microsoft.com/library/jj200581(v=exchg.150).aspx">Exchange hybrid deployment content</a></p>
-                        <p><a href="https://technet.microsoft.com/library/jj200580(v=exchg.150).aspx">Exchange Online</a></p>
+                        <p><a href="https://docs.microsoft.com/en-us/Exchange/mailbox-migration/mailbox-migration">Ways to migrate multiple email accounts to Office 365</a></p>
+                        <p><a href="https://docs.microsoft.com/en-us/exchange/exchange-hybrid">Exchange hybrid deployment content</a></p>
+                        <p><a href="https://docs.microsoft.com/en-us/exchange/exchange-online">Exchange Online</a></p>
                         <p><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/eop/exchange-online-protection-overview">Exchange Online Protection</a></p>
                     </div>
                 </div>
