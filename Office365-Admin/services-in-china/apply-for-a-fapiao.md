@@ -72,9 +72,11 @@ There are two ways to apply for a Fapiao:
     ![The Fapiao request form showing mailing information.](../media/bba500b4-a51d-477b-81a7-9113b08d39f1.png)
   
     **21Vianet Shanghai branch company address**
+
     Shanghai, Pudong New Area Keyuan Road No. 88, German Center, building 3, 657
 
     **Contact information**
+
     Zhu qin qin 021-28986102
    
 5. Verify that the information is correct, then choose **Confirm**.
