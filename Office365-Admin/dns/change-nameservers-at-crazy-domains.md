@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Crazy Domains"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: d939c8c9-cf26-4258-a957-881b482dba89
-
 description: "Learn how you can set up Office 365 to manage the DNS records of your custom domain at Crazy Domains."
 ---
 

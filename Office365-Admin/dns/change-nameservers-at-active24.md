@@ -15,7 +15,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 1637461a-74dc-4a1d-8cf8-606bd8684bd9
-
 description: "Learn how you can set up Office 365 to manage your DNS records at Active24. "
 ---
 

@@ -19,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 31efc571-c8b9-46fb-b42d-203c2fb25289
-
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when 22.cn is the DNS hosting provider."
 ---
 

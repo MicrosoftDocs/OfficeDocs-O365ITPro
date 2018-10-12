@@ -19,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 0acc30f5-7513-4586-b6d4-38ff78d3f95b
-
 description: "Learn how you can set up Office 365 to manage the DNS records of your custom domain with Aabaco Small Business."
 ---
 

@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Amazon Web Services (AWS)"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 0ddbe33c-81ea-4c02-8db9-e71d3810c0ec
-
 description: "Learn how you can set up Office 365 to manage your DNS records at Amazon Web Services (AWS). "
 ---
 

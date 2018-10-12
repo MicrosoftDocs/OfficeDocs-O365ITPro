@@ -24,7 +24,6 @@ search.appverid:
 - GEU150
 - GEA150
 ms.assetid: a8b487a9-2a45-4581-9dc4-5d28a47010a2
-
 description: "Learn how to add and set up your domain in Office 365 so that your services like email and Skype for Business Online use your own domain name."
 ---
 
