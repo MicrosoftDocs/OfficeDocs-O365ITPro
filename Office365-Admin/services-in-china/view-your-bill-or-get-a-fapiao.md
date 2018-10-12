@@ -20,7 +20,6 @@ description: "View your billing statement or invoice about your Office 365 opera
 You can view your billing statement or invoice for information about your Office 365 operated by 21Vianet subscription charges. You can also obtain a Fapiao (your final proof of purchase). You can submit your Fapiao request to our [Fapiao management system](https://go.microsoft.com/fwlink/p/?linkid=837465) about three days after you have paid. 
   
 ## Find your billing statement or request a Fapiao
-<a name="__top"> </a>
 
 1. [Sign in to Office 365](https://login.partner.microsoftonline.cn) with your work or school account as a global admin. 
     
@@ -38,5 +37,3 @@ You can view your billing statement or invoice for information about your Office
     
     > [!NOTE]
     > You need a registered account to access the [fapiao management system](https://go.microsoft.com/fwlink/p/?linkid=837465). If you haven't already set up an account, see [Apply for a Fapiao for Office 365 operated by 21Vianet](apply-for-a-fapiao.md). 
-  
-
