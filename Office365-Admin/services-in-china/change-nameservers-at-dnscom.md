@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with DNSCOM"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -49,7 +48,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 4. In the **纯域名列表** (domain list) section, make sure that the fields are set to precisely the following values for the empty record: 
     
-  - ** 类型 ** (type): **TXT**
+  - **类型** (type): **TXT**
     
   - **指向** (point to): Paste **Destination or Points to Address** value that you just copied. 
     
@@ -67,7 +66,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
-3. On the **Add this TXT record to show you own** * **domain_name*** page, choose **Okay, I've added the record** and then, in the confirmation dialog box, choose **Finish**.
+3. On the **Add this TXT record to show you own** ***domain_name*** page, choose **Okay, I've added the record** and then, in the confirmation dialog box, choose **Finish**.
     
     ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
   
@@ -77,7 +76,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 To complete setting up your domain with Office 365, you change your domain's NS records at your domain registrar to point to the Office 365 operated by 21Vianet primary and secondary name servers. This sets up Office 365 to update the domain's DNS records for you. We'll add all records so that email, Lync, and your public website work with your domain, and you'll be all set.
   
 > [!CAUTION]
-> When you change your domain's NS records to point to the Office 365 name servers, all the services that are currently associated with your domain are affected. For example, all email sent to your domain (like rob@ *your_domain*  .com) will start coming to Office 365 after you make this change. 
+> When you change your domain's NS records to point to the Office 365 name servers, all the services that are currently associated with your domain are affected. For example, all email sent to your domain (like rob@ *your_domain*.com) will start coming to Office 365 after you make this change. 
   
 1. In your browser, go to [DNSCOM domain management system](http://mgt.dns.com.cn/index.php) and sign in with your domain name and password. 
     
