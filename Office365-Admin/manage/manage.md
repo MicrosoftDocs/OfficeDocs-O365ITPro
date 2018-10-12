@@ -17,7 +17,7 @@ Quick links for the most common admin tasks in Office 365.
 
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="../user-and-passwords/add-users.md">
+        <a href="../add-users/add-users.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -53,7 +53,7 @@ Quick links for the most common admin tasks in Office 365.
         </a>
     </li>
     <li>
-        <a href="../user-and-passwords/remove-a-former-employee.md">
+        <a href="../add-users/remove-a-former-employee.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -73,7 +73,7 @@ Quick links for the most common admin tasks in Office 365.
 </ul>
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="../domains/fix-issues-after-adding-your-domain-or-dns-records.md">
+        <a href="../get-help-with-domains/find-and-fix-issues.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
