@@ -6,7 +6,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - MET150
@@ -51,7 +51,7 @@ If you have more than one subscription, you can assign licenses to different peo
   
 ## Find out who can assign licenses
 
-Different types of admins can work with licenses in different ways, depending on their roles. The following table lists the most common options. For a complete list of admin roles and privileges, see [About admin roles](../add-users-2/about-admin-roles.md).
+Different types of admins can work with licenses in different ways, depending on their roles. The following table lists the most common options. For a complete list of admin roles and privileges, see [About admin roles](../add-users/about-admin-roles.md).
   
 |**Admin role**|**Assign a license**|**Remove a license**|**Purchase more licenses**|**Delete an account**|
 |:-----|:-----|:-----|:-----|:-----|

@@ -11,7 +11,7 @@ f1_keywords:
 - 'O365M_ESUsersTypes'
 - 'O365E_ESUsersTypes'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - BCS160
 - MET150
@@ -41,12 +41,12 @@ On the **Active users** page in the Office 365 admin center, you can filter by t
    
 ## Related topics
 
-- [Add users in Office 365](../add-users-2/add-users-2.md)
+- [Add users in Office 365](../add-users/add-users.md)
     
 - [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md)
     
 - [Remove licenses from users in Office 365 for business](../subscriptions-and-billing/remove-licenses-from-users.md)
     
-- [Assigning admin roles in Office 365](../add-users-2/assign-admin-roles.md)
+- [Assigning admin roles in Office 365](../add-users/assign-admin-roles.md)
     
 

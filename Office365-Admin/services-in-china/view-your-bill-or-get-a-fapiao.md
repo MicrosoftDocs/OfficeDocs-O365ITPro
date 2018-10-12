@@ -3,11 +3,10 @@ title: "View your bill or get a Fapiao in Office 365 operated by 21Vianet"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - MET150

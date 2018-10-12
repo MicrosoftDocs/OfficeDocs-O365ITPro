@@ -6,7 +6,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -34,7 +34,7 @@ We recommend that you buy the licenses that you need for your subscription befor
     > [!NOTE]
     > You won't see the **Status** column if there are no conflicts. 
   
-![Status column on the Liceses page.](../media/c58c8b04-9c61-48fa-a1ae-6f072feac36a.png)
+    ![Status column on the Licenses page.](../media/c58c8b04-9c61-48fa-a1ae-6f072feac36a.png)
   
 ## How do I resolve license conflicts?
 
@@ -53,7 +53,7 @@ You can resolve license conflicts by either buying more licenses or by removing 
     > [!NOTE]
     > You won't see the **Status** column if there are no conflicts. 
   
-![Status column on the Licenses page.](../media/c58c8b04-9c61-48fa-a1ae-6f072feac36a.png)
+    ![Status column on the Licenses page.](../media/c58c8b04-9c61-48fa-a1ae-6f072feac36a.png)
   
 3. On the subscriptions page, if you have multiple subscriptions, select the subscription that you need to purchase licenses for.
     
@@ -72,7 +72,7 @@ For more information about buying more licenses, see [Buy licenses for your subs
   
 ### Remove licenses from users who don't need them
 
-Complete the following steps to remove licenses from users who don't need them. You can optionally [delete a user account to free a license](../add-users-2/delete-a-user.md).
+Complete the following steps to remove licenses from users who don't need them. You can optionally [delete a user account to free a license](../add-users/delete-a-user.md).
   
 > [!IMPORTANT]
 > When you remove licenses, any user data associated with those licenses is deleted. 
@@ -88,7 +88,7 @@ Complete the following steps to remove licenses from users who don't need them. 
     > [!NOTE]
     > You won't see the **Status** column if there are no conflicts. 
   
-![Status column on the Licenses page.](../media/c58c8b04-9c61-48fa-a1ae-6f072feac36a.png)
+    ![Status column on the Licenses page.](../media/c58c8b04-9c61-48fa-a1ae-6f072feac36a.png)
   
 3. You'll see a list of users who are assigned this license.
     

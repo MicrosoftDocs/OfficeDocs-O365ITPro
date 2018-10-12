@@ -3,13 +3,12 @@ title: "Change nameservers to set up Office 365 with CNDNS"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_DOM_CNDNS1'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - GEA150
@@ -49,9 +48,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
   - **主机名** (host name): **@**
     
-  - ** 记录类型 ** (record type): **TXT记录** (TXT record) 
+  - **记录类型** (record type): **TXT记录** (TXT record) 
     
-  - ** 记录值 ** (value): Paste **Destination or Points to Address** value that you just copied. 
+  - **记录值** (value): Paste **Destination or Points to Address** value that you just copied. 
     
     ![Add TXT record](../media/6b20a743-1d8b-463f-978a-d48f21846001.png)
   

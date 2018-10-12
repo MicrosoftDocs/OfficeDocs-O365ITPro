@@ -6,7 +6,7 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -32,7 +32,7 @@ Explore the tabbed sections of this article for more information on how to use M
 
 |**Question**|**Answer**|
 |:-----|:-----|
-|Who can view posts in Message center?  <br/> |Users who have been assigned any admin role in Office 365 can view Message center posts. You can also assign the Message center reader role to users who should be able to read and share Message center posts without having any other admin privileges. See [About Office 365 admin roles](../add-users-2/about-admin-roles.md) to learn more about what each admin role can do. Message center posts can also be shared through email with non-admin users who may need to take action.  <br/> |
+|Who can view posts in Message center?  <br/> |Users who have been assigned any admin role in Office 365 can view Message center posts. You can also assign the Message center reader role to users who should be able to read and share Message center posts without having any other admin privileges. See [About Office 365 admin roles](../add-users/about-admin-roles.md) to learn more about what each admin role can do. Message center posts can also be shared through email with non-admin users who may need to take action.  <br/> |
 |Is this the only way Microsoft will communicate changes about Office 365?  <br/> |No, there are many ways that we communicate changes in Office 365. Message center is the primary way that we communicate the timing of individual changes. See [Stay on top of Office 365 changes](stay-on-top-of-updates.md) for information about additional resources.  <br/> |
 |How can I see posts in my language?  <br/> |Message center posts are written in English-only due to the timeliness of the information we are posting, but you can control whether, by default, posts are shown in English or are automatically machine-translated to your preferred language. And, no matter which default view you choose, you can select to machine-translate posts to any language we support. See [Language translation for Message center posts](language-translation-for-message-center-posts.md) for more details.  <br/> |
 |Can I preview changes or features before they are rolled-out to my organization?  <br/> |Sometimes. Some changes and new features can be previewed by opting in to the Targeted release program. To opt-in, in the Office 365 Admin center, go to **Settings** \> **Organization profile** \> **Release preferences**. You can choose Targeted release for your entire organization, or just for selected users. See [Standard or Targeted release options in Office 365](release-options-in-office-365.md) for more information about the program.  <br/> |

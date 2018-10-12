@@ -7,7 +7,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -33,7 +33,7 @@ As the admin of an Office 365 organization, you might have company requirements 
     
 - Email forwarding requires that the  *from*  account has a license. If you're setting up email forwarding because the user has left your organization, another option is to [convert their mailbox to a shared mailbox](convert-user-mailbox-to-shared-mailbox.md). This way several people can access it. However, a shared mailbox cannot exceed 50GB. 
     
-You must have [admin permissions](../add-users-2/about-admin-roles.md) in Office 365 to do this. 
+You must have [admin permissions](../add-users/about-admin-roles.md) in Office 365 to do this. 
   
 1. [Sign in to Office 365](https://go.microsoft.com/fwlink/p/?LinkID=402333).
     

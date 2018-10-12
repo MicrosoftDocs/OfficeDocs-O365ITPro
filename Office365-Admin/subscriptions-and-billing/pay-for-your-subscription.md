@@ -8,7 +8,7 @@ ms.topic: article
 f1_keywords:
 - 'fwlink 808700 for SEPA UI glink 906 for older uI'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection:
 - Adm_O365_Top
 - strat_admin_top
@@ -122,7 +122,7 @@ If you're not sure how much you owe, you can [check your bill and billing histor
 > - [Cape Verde](pay/cape-verde.md)
 > - [Cayman Islands](pay/cayman-islands.md)
 > - [Chile](pay/chile.md)
-> - [China (PRC)](pay/china--prc-.md)
+> - [China (PRC)](pay/china-prc.md)
 > - [Colombia](pay/colombia.md)
 > - [Costa Rica](pay/costa-rica.md)
 > - [Côte d'Ivoire](pay/cote-d'ivoire.md)

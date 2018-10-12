@@ -11,7 +11,7 @@ f1_keywords:
 - 'O365M_SCDisableUserAccess'
 - 'O365E_SCDisableUserAccess'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - BCS160
 - MET150
@@ -34,9 +34,9 @@ When an employee leaves your organization, on good terms or bad, you need to blo
    
 ## Related topics
 
-- [Offboard a user from Office 365](../add-users-2/remove-former-employee.md)
+- [Offboard a user from Office 365](../add-users/remove-former-employee.md)
     
-- [Reset a user's password in Office 365](../add-users-2/reset-passwords.md)
+- [Reset a user's password in Office 365](../add-users/reset-passwords.md)
     
 - [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md)
     

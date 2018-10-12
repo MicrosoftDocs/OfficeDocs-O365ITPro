@@ -3,13 +3,12 @@ title: "Change nameservers to set up Office 365 with Now.cn"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_DOM_Now1'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - GEA150
@@ -35,7 +34,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 > [!NOTE]
 > This record is used only to verify that you own your domain; it doesn't affect anything else. You can delete it later, if you like. 
   
-1. In your browser, go to **http://www.now.cn/user/login.php?1&amp;page=%2Fdomain-admin%2Fdomain_list.php** and sign in. 
+1. In your browser, go to **http://<span></span>www.now.cn/user/login.php?1&amp;page=%2Fdomain-admin%2Fdomain_list.php** and sign in. 
     
     ![Sign in to Now.cn](../media/7525bdbc-9624-4eb5-be0a-87fa9e3fb9d2.png)
   
@@ -51,9 +50,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 4. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - ** Prior **: Use the default value.
+  - **Prior**: Use the default value.
     
-  - ** \*.\*.\*.\* **: Paste **Destination or Points to Address** value that you just copied. 
+  - **\*.\*.\*.\***: Paste **Destination or Points to Address** value that you just copied. 
     
     ![Add TXT record](../media/493bc4c7-c870-445e-9f6d-addb636448a7.png)
   
@@ -71,7 +70,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
-3. On the **Add this TXT record to show you own** * **domain_name*** page, choose **Okay, I've added the record** and then, in the confirmation dialog box, choose **Finish**.
+3. On the **Add this TXT record to show you own** ***domain_name*** page, choose **Okay, I've added the record** and then, in the confirmation dialog box, choose **Finish**.
     
     ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
   
@@ -81,9 +80,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
 To complete setting up your domain with Office 365, you change your domain's NS records at your domain registrar to point to the Office 365 operated by 21Vianet primary and secondary name servers. This sets up Office 365 to update the domain's DNS records for you. We'll add all records so that email, Lync, and your public website work with your domain, and you'll be all set.
   
 > [!CAUTION]
-> When you change your domain's NS records to point to the Office 365 name servers, all the services that are currently associated with your domain are affected. For example, all email sent to your domain (like rob@ *your_domain*  .com) will start coming to Office 365 after you make this change. 
+> When you change your domain's NS records to point to the Office 365 name servers, all the services that are currently associated with your domain are affected. For example, all email sent to your domain (like rob@ *your_domain*.com) will start coming to Office 365 after you make this change. 
   
-1. In your browser, go to your domains list at Now.cn ( **http://www.now.cn/user/login.php?1&amp;page=%2Fdomain-admin%2Fdomain_list.php** ) and sign in. 
+1. In your browser, go to your domains list at Now.cn (**http://<span></span>www.now.cn/user/login.php?1&amp;page=%2Fdomain-admin%2Fdomain_list.php**) and sign in. 
     
     ![Sign in to Now.cn](../media/7525bdbc-9624-4eb5-be0a-87fa9e3fb9d2.png)
   

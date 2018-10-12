@@ -9,7 +9,7 @@ ms.topic: get-started-article
 f1_keywords:
 - 'O365P_DOM_EBus1'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - GEA150
@@ -17,9 +17,9 @@ ms.assetid: b3cd782f-3553-4bad-b7bc-fb7e64832e9e
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when E-business Services is the DNS hosting provider."
 ---
 
-# Change nameservers to set up Office 365 with E-business Services
+# Change nameservers to set up Office 365 with E-business Services 
 
-Follow these instructions if you want Office 365 operated by 21Vianet to manage your Office 365 DNS records for you. (If you prefer, you can[manage all your DNS records at E-business Services](create-dns-records-at-e-business-services.md).)
+Follow these instructions if you want Office 365 operated by 21Vianet to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your DNS records at E-business Services](create-dns-records-at-e-business-services.md).)
   
 Here's what you need to do:
   
@@ -79,7 +79,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 To complete setting up your domain with Office 365, you change your domain's NS records at your domain registrar to point to the Office 365 operated by 21Vianet primary and secondary name servers. This sets up Office 365 to update the domain's DNS records for you. We'll add all records so that email, Lync, and your public website work with your domain, and you'll be all set.
   
 > [!CAUTION]
-> When you change your domain's NS records to point to the Office 365 name servers, all the services that are currently associated with your domain are affected. For example, all email sent to your domain (like rob@ *your_domain*  .com) will start coming to Office 365 after you make this change. 
+> When you change your domain's NS records to point to the Office 365 name servers, all the services that are currently associated with your domain are affected. For example, all email sent to your domain (like rob@ *your_domain*.com) will start coming to Office 365 after you make this change. 
   
 1. To get started, go to your domains page at E-business Services by using [this link](https://www.eb.com.cn/login?oauth_callback=https://www.eb.com.cn/user). You'll be prompted to sign in.
     

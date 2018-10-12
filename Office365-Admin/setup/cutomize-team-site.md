@@ -7,7 +7,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection:
 - Adm_O365_Top
 - strat_admin_top
@@ -110,7 +110,7 @@ As you manage your team site, you may have to add or remove users. Here's inform
   
 View a video on groups with [Understand and manage groups](https://support.office.com/article/9c1037b7-de0b-41cd-b8f0-79a95aac854d.aspx). 
   
-To add users to an Office 365 group, see [Add users individually or in bulk to Office 365 - Admin Help](../add-users-2/add-users-2.md).
+To add users to an Office 365 group, see [Add users individually or in bulk to Office 365 - Admin Help](../add-users/add-users.md).
   
 Learn how to handle access requests with [Set up and manage access requests ](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3.aspx).
   

@@ -3,7 +3,6 @@ title: "License restrictions for Office 365"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:
@@ -11,7 +10,7 @@ f1_keywords:
 - 'O365M_LicenseRestrictions'
 - 'O365E_LicenseRestrictions'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -24,10 +23,5 @@ description: "Learn about license restrictions for Office 365 and Office 365 ope
 ---
 
 # License restrictions for Office 365
-
-> [!NOTE]
-> This article has done its job, and will be retiring soon. To prevent "Page not found" woes, we're removing links we know about. If you've created links to this page, please remove them, and together we'll keep the web connected. 
   
 The availability of services and features in Office 365 varies by country or region. A service, such as Voice over Internet Protocol (VoIP), may be available in one country or region, and not available in another. Features within a service can be restricted for legal reasons in certain countries or regions. To see if a service or feature is available with or without restrictions, look for your country or region on the [Office 365 license restrictions](https://go.microsoft.com/fwlink/p/?linkid=235604) site. 
-  
-

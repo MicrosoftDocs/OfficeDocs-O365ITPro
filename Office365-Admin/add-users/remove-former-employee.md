@@ -18,7 +18,7 @@ f1_keywords:
 - 'O365E_SCBlockedUsers'
 - 'O365E_AdminODSettsSignOut'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection:
 - Adm_O365_Top
 - strat_admin_top
@@ -331,7 +331,7 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
     
     ![Use the arrows to delete licenses from your subscription.](../media/40b7fdb8-09a9-4b1e-8473-832038a214bf.png)
   
-    When you [add](add-users-2.md) another person to your business, you'll be prompted to buy a license at the same time, with just one click! 
+    When you [add](add-users.md) another person to your business, you'll be prompted to buy a license at the same time, with just one click! 
     
 For more information about managing user licenses for Office 365 for business, see [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md), and [Remove licenses from users in Office 365 for business](../subscriptions-and-billing/remove-licenses-from-users.md).
   

@@ -3,11 +3,10 @@ title: "Add licenses to a subscription purchased through the Volume Licensing Se
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -28,6 +27,6 @@ Licenses for Office 365 Business Essentials, Office 365 Business, Office 365 Bus
     
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page. 
     
-2. On the Subscriptions page, select the subscription to which you want to add licenses, then choose the **Volume Licensing Service Center (VLSC)** link. 
+2. On the **Subscriptions** page, select the subscription to which you want to add licenses, then choose the **Volume Licensing Service Center (VLSC)** link. 
     
 3. Follow the steps in the VLSC to complete your purchase.

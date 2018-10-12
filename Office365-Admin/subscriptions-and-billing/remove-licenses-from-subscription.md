@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_ProductLicenseRemove'
 - 'O365E_ProductLicenseRemove'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -62,9 +62,9 @@ If the subscription was purchased via a partner, you'll see the Volume Licensing
   
 ## What you need to know about removing licenses from users in Office 365 for business
 
-- You need to be either a Global admin or a User management admin. For more information, see [About Office 365 admin roles](../add-users-2/about-admin-roles.md).
+- You need to be either a Global admin or a User management admin. For more information, see [About Office 365 admin roles](../add-users/about-admin-roles.md).
     
-- Use these steps to add a license to an existing user account. [Learn how to add a user account and assign a license at the same time](../add-users-2/add-users-2.md).
+- Use these steps to add a license to an existing user account. [Learn how to add a user account and assign a license at the same time](../add-users/add-users.md).
     
 ## Articles about managing licenses for your subscription
 

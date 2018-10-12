@@ -3,13 +3,12 @@ title: "Change nameservers to set up Office 365 with BIZCN"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_DOM_BIZCN1'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - GEA150

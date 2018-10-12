@@ -3,7 +3,6 @@ title: "Create DNS records at BIZCN for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -11,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_BIZCN'
 - 'O365E_DOM_BIZCN'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - GEA150
@@ -37,7 +36,7 @@ These are the main records to add.
     
 After you add these records at BIZCN, your domain will be set up to work with Office 365 services.
   
-If you have a SharePoint Online Public Website, you can [Add records at BIZCN to set up your SharePoint Online Public Website](https://support.office.com/article/b3d443c9-f520-4e72-9e37-2ced53ae1a58), like www. *your_domain*  .com. 
+If you have a SharePoint Online Public Website, you can [set it up to use your custom domain for the website URL address](https://support.office.com/article/b3d443c9-f520-4e72-9e37-2ced53ae1a58), like www. *your_domain*.com. 
   
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. 
@@ -80,7 +79,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
   - **主机名** (host name): **@**
     
-  - **字符串记录** (value): Paste the **Destination or Points to Address** from the table in Office 365, for example MS=ms  *XXXXXXX*  . [Gather the information you need to create Office 365 DNS records](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
+  - **字符串记录** (value): Paste the **Destination or Points to Address** from the table in Office 365, for example MS=ms  *XXXXXXX*. [How do I find this?](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
     
     ![Add MX record](../media/664358f5-edd8-4113-b4ca-e45b32f6cf95.png)
   
@@ -144,9 +143,7 @@ Add an MX record so email for your domain will come to Office 365.
   - **对应MAIL主机名** (points to): Paste the **Points to address** value from Office 365:  *\<domain-key\>*  .mail.protection.partner.outlook.cn 
     
     > [!NOTE]
-    > Get your  *\<domain-key\>*  from your Office 365 portal account. 
-  
-[Gather the information you need to create Office 365 DNS records](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
+    > Get your  *\<domain-key\>*  from your Office 365 portal account. [How do I find this?](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
   
   - **TTL**: Use the default value.
     
@@ -187,55 +184,55 @@ Add the CNAME records that are required for Office 365. If additional CNAME reco
   
 6. Add the email (Exchange) Autodiscover CNAME record.
     
-1. On the DNS records page for your domain, click **增加别名** (add a CNAME record). 
+    1. On the DNS records page for your domain, click **增加别名** (add a CNAME record). 
     
-    ![Click "增加别名"](../media/b122a9e7-f6b2-4123-b91f-242dd80fdd30.png)
+        ![Click "增加别名"](../media/b122a9e7-f6b2-4123-b91f-242dd80fdd30.png)
   
-2. Make sure that the fields are set to precisely the following values for the empty record:
+    2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **别名** (alias): **autodiscover**
+        - **别名** (alias): **autodiscover**
     
-  - **对应主机名** (points to): **autodiscover.partner.outlook.cn**
+        - **对应主机名** (points to): **autodiscover.partner.outlook.cn**
     
-7. ![Add CNAME record](../media/a11316b1-f56d-4412-bb68-7fb7271bd8a5.png)
+        ![Add CNAME record](../media/a11316b1-f56d-4412-bb68-7fb7271bd8a5.png)
   
-8. Click **增加** (add). 
+7. Click **增加** (add). 
     
-9. Add the Lync Autodiscover CNAME record.
+8. Add the Lync Autodiscover CNAME record.
     
-1. On the DNS records page for your domain, click **增加别名** (add a CNAME record). 
+    1. On the DNS records page for your domain, click **增加别名** (add a CNAME record). 
     
-2. Make sure that the fields are set to precisely the following values for the empty record:
+    2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **别名** (alias): **lyncdiscover**
+        - **别名** (alias): **lyncdiscover**
     
-  - **对应主机名** (points to): **webdir.online.partner.lync.cn**
+        - **对应主机名** (points to): **webdir.online.partner.lync.cn**
     
-3. Click **增加** (add). 
+    3. Click **增加** (add). 
     
-10. Add the Lync SIP CNAME record.
+9. Add the Lync SIP CNAME record.
     
-1. On the DNS records page for your domain, click **增加别名** (add a CNAME record). 
+    1. On the DNS records page for your domain, click **增加别名** (add a CNAME record). 
     
-2. Make sure that the fields are set to precisely the following values for the empty record:
+    2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **别名** (alias): **sip**
+        - **别名** (alias): **sip**
     
-  - **对应主机名** (points to): **sipdir.online.partner.lync.cn**
+        - **对应主机名** (points to): **sipdir.online.partner.lync.cn**
     
-3. Click **增加** (add). 
+    3. Click **增加** (add). 
     
-11. Add the Office 365 MSOID CNAME record. This is an additional record that is required for Office 365.
+10. Add the Office 365 MSOID CNAME record. This is an additional record that is required for Office 365.
     
-1. On the DNS records page for your domain, click **增加别名** (add a CNAME record). 
+    1. On the DNS records page for your domain, click **增加别名** (add a CNAME record). 
     
-2. Make sure that the fields are set to precisely the following values for the empty record:
+    2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **别名** (alias): **msoid**
+        - **别名** (alias): **msoid**
     
-  - **对应主机名** (points to): **clientconfig.partner.microsoftonline-p.net.cn**
+        - **对应主机名** (points to): **clientconfig.partner.microsoftonline-p.net.cn**
     
-3. Click **增加** (add). 
+    3. Click **增加** (add). 
     
 ## Add a TXT record to help prevent spam
 <a name="BKMK_add_TXT"> </a>
@@ -303,46 +300,46 @@ Add the CNAME records that are required for Office 365. If additional CNAME reco
   
 6. Add the SIP SRV record for Lync federation.
     
-1. On the DNS records page for your domain, click **增加SRV记录** (add a CNAME record). 
+    1. On the DNS records page for your domain, click **增加SRV记录** (add a CNAME record). 
     
-    ![Select "增加SRV记录"](../media/df86cf80-0362-4fb2-ad6d-5a16e1d44974.png)
+        ![Select "增加SRV记录"](../media/df86cf80-0362-4fb2-ad6d-5a16e1d44974.png)
   
-2. Make sure that the fields are set to precisely the following values for the empty record:
+    2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **服务** (service): **sipfederationtls**
+        - **服务** (service): **sipfederationtls**
     
-  - **协议** (protocol): **TCP**
+        - **协议** (protocol): **TCP**
     
-  - **优先级** (priority): **99**
+        - **优先级** (priority): **99**
     
-  - **权重** (weight): **1**
+        - **权重** (weight): **1**
     
-  - **端口** (port): **5061**
+        - **端口** (port): **5061**
     
-  - **对应的主机名** (target): **sipfed.online.partner.lync.cn**
+        - **对应的主机名** (target): **sipfed.online.partner.lync.cn**
     
-    ![Add SRV record](../media/2486f17e-8ffb-45bb-9804-2a6d85d861f7.png)
+        ![Add SRV record](../media/2486f17e-8ffb-45bb-9804-2a6d85d861f7.png)
   
-3. Click **增加** (add). 
+    3. Click **增加** (add). 
     
 7. Add the SIP SRV record for Lync web conferencing.
     
-1. On the DNS records page for your domain, click **增加SRV记录** (add a CNAME record). 
+    1. On the DNS records page for your domain, click **增加SRV记录** (add a CNAME record). 
     
-2. Make sure that the fields are set to precisely the following values for the empty record:
+    2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **服务** (service): **sip**
+        - **服务** (service): **sip**
     
-  - **协议** (protocol): **TLS**
+        - **协议** (protocol): **TLS**
     
-  - **优先级** (priority): **99**
+        - **优先级** (priority): **99**
     
-  - **权重** (weight): **1**
+        - **权重** (weight): **1**
     
-  - **端口** (port): **443**
+        - **端口** (port): **443**
     
-  - **对应的主机名** (target): **sipdir.online.partner.lync.cn**
+        - **对应的主机名** (target): **sipdir.online.partner.lync.cn**
     
-3. Click **增加** (add). 
+    3. Click **增加** (add). 
     
 

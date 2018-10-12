@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365P_1stInfoRqrd'
 - 'O365P_1stDNSHoster'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection:
 - Adm_O365_Top
 - strat_admin_top
@@ -54,7 +54,7 @@ Here are the steps you'll do when you run the setup wizard:
     
     ![Verify your domain](../media/88dbfa4d-aef1-4686-8891-69d382519e91.png)
   
-3. Add your users. You can add users later, too; see [Add users individually or in bulk](../add-users-2/add-users-2.md).
+3. Add your users. You can add users later, too; see [Add users individually or in bulk](../add-users/add-users.md).
     
     > [!NOTE]
     > If you need to [assign admin permissions](https://support.office.com/article/F44FBE43-7E11-475B-A1B2-3F00719A853A.aspx) to the users you add in the wizard, you can do that later on the **Users** page. 
@@ -116,7 +116,7 @@ There are a couple of scenarios that include either migrating data or users from
     
 - **Or do you want to move to Office 365 gradually?** If you want to move to Office 365 in stages, then skip running the Office 365 setup wizard and consider adopting Office 365 features in the following order: 
     
-1. [Add your employees to Office 365](../add-users-2/add-users-2.md) so they can download and install the Office apps. 
+1. [Add your employees to Office 365](../add-users/add-users.md) so they can download and install the Office apps. 
     
 2. [Download and install the Office apps](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx) to use Word, Excel, and PowerPoint on your computer and devices. 
     

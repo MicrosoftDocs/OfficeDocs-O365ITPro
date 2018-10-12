@@ -3,7 +3,6 @@ title: "Create DNS records at Oray for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -11,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_Oray'
 - 'O365E_DOM_Oray'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - GEA150
@@ -37,7 +36,7 @@ These are the main records to add.
     
 After you add these records at Oray, your domain will be set up to work with Office 365 services.
   
-If you have a SharePoint Online Public Website, you can [Add records at Oray to set up your SharePoint Online Public Website](https://support.office.com/article/5815d187-c312-49b4-8d8b-f37bd90a68aa), like www. *your_domain*  .com. 
+If you have a SharePoint Online Public Website, you can [set it up to use your custom domain for the website URL address](https://support.office.com/article/5815d187-c312-49b4-8d8b-f37bd90a68aa), like www. *your_domain*.com. 
   
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. 
@@ -70,7 +69,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 5. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **说明** (value): Paste **Destination or Points to Address** value from the table in Office 365, for example MS=ms  *XXXXXXX*  . [Gather the information you need to create Office 365 DNS records](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
+  - **说明** (value): Paste **Destination or Points to Address** value from the table in Office 365, for example MS=ms  *XXXXXXX*. [How do I find this?](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
     
   - **TTL**: **3600**
     
@@ -122,9 +121,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
   - **邮件服务器** (mail server): Paste the **Points to address** value from Office 365:  *\<domain-key\>*  .mail.protection.partner.outlook.cn 
     
     > [!NOTE]
-    > Get your  *\<domain-key\>*  from your Office 365 portal account. 
-  
-[Gather the information you need to create Office 365 DNS records](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
+    > Get your  *\<domain-key\>*  from your Office 365 portal account. [How do I find this?](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
   
   - **优先级** (priority): **0**
     
@@ -136,92 +133,92 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 7. If you have any MX records for this domain that send email to someplace other than Office 365, remove them:
     
-1. Click the **MX记录** (MX record) tab. 
+    1. Click the **MX记录** (MX record) tab. 
     
-2. On the row of the obsolete record, click **删除** (remove). 
+    2. On the row of the obsolete record, click **删除** (remove). 
     
 ## Add CNAME records
 <a name="BKMK_add_CNAME"> </a>
 
 1. Add the email (Exchange) Autodiscover CNAME record.
     
-1. In your browser, go to [your domains list at Oray](https://console.oray.com/domain/root) and sign in. 
+    1. In your browser, go to [your domains list at Oray](https://console.oray.com/domain/root) and sign in. 
     
-    ![Sign in to Oray](../media/b55798c7-e143-454f-a3d3-7fd8733cba46.png)
+        ![Sign in to Oray](../media/b55798c7-e143-454f-a3d3-7fd8733cba46.png)
   
-2. In the right pane, in the **解析设置** (DNS record management) column for the domain that you want to update, click **DNS解析设置** (DNS record management). 
+    2. In the right pane, in the **解析设置** (DNS record management) column for the domain that you want to update, click **DNS解析设置** (DNS record management). 
     
-    The DNS records page for your domain opens.
+        The DNS records page for your domain opens.
     
-    ![Click "DNS解析设置"](../media/90257c23-ac07-4fab-83e7-7ae96693f667.png)
+        ![Click "DNS解析设置"](../media/90257c23-ac07-4fab-83e7-7ae96693f667.png)
   
-3. On the DNS records page for your domain, in the **无需带域名根** (subdomain name) box, type **autodiscover**, and then click **增加子域名** (add subdomain). 
+    3. On the DNS records page for your domain, in the **无需带域名根** (subdomain name) box, type **autodiscover**, and then click **增加子域名** (add subdomain). 
     
-4. Click the newly added subdomain name **autodiscover**.
+    4. Click the newly added subdomain name **autodiscover**.
     
-    ![Add subdomain name](../media/c810c388-131a-4019-bac5-db9730d92d92.png)
+        ![Add subdomain name](../media/c810c388-131a-4019-bac5-db9730d92d92.png)
   
-5. Click the **CNAME** tab. 
+    5. Click the **CNAME** tab. 
     
-    ![Click "CNAME"](../media/438c1a64-b28d-46f4-a1d5-46d7e7a33eed.png)
+        ![Click "CNAME"](../media/438c1a64-b28d-46f4-a1d5-46d7e7a33eed.png)
   
-6. Make sure that the fields are set to precisely the following values for the empty record:
+    6. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **CName (别名)**: **autodiscover.partner.outlook.cn**
+        - **CName (别名)**: **autodiscover.partner.outlook.cn**
     
-  - **TTL**: **3600**
+        - **TTL**: **3600**
     
     ![Add CNAME record](../media/9e09e3b3-104c-4a1a-b6f2-c72edfe8cdb8.png)
   
-7. Click **保存** (save). 
+    7. Click **保存** (save). 
     
 2. Add the Lync Autodiscover CNAME record.
     
-1. On the DNS records page for your domain, in the **无需带域名根** (subdomain name) box, type **lyncdiscover**, and then click **增加子域名** (add subdomain). 
+    1. On the DNS records page for your domain, in the **无需带域名根** (subdomain name) box, type **lyncdiscover**, and then click **增加子域名** (add subdomain). 
     
-2. Click the newly added subdomain name **lyncdiscover**.
+    2. Click the newly added subdomain name **lyncdiscover**.
     
-3. Click the **CNAME** tab. 
+    3. Click the **CNAME** tab. 
     
-4. Make sure that the fields are set to precisely the following values for the empty record:
+    4. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **CName (别名)**: **webdir.online.partner.lync.cn**
+        - **CName (别名)**: **webdir.online.partner.lync.cn**
     
-  - **TTL**: **3600**
+        - **TTL**: **3600**
     
-5. Click **保存** (save). 
+    5. Click **保存** (save). 
     
 3. Add the Lync SIP CNAME record.
     
-1. On the DNS records page for your domain, in the **无需带域名根** (subdomain name) box, type **sip**, and then click **增加子域名** (add subdomain). 
+    1. On the DNS records page for your domain, in the **无需带域名根** (subdomain name) box, type **sip**, and then click **增加子域名** (add subdomain). 
     
-2. Click the newly added subdomain name **sip**.
+    2. Click the newly added subdomain name **sip**.
     
-3. Click the **CNAME** tab. 
+    3. Click the **CNAME** tab. 
     
-4. Make sure that the fields are set to precisely the following values for the empty record:
+    4. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **CName (别名)**: **sipdir.online.partner.lync.cn**
+        - **CName (别名)**: **sipdir.online.partner.lync.cn**
     
-  - **TTL**: **3600**
+        - **TTL**: **3600**
     
-5. Click **保存** (save). 
+    5. Click **保存** (save). 
     
 4. Add the Office 365 MSOID CNAME record. This is an additional record that is required for Office 365.
     
-1. On the DNS records page for your domain, in the **无需带域名根** (subdomain name) box, type **msoid**, and then click **增加子域名** (add subdomain). 
+    1. On the DNS records page for your domain, in the **无需带域名根** (subdomain name) box, type **msoid**, and then click **增加子域名** (add subdomain). 
     
-2. Click the newly added subdomain name **msoid**.
+    2. Click the newly added subdomain name **msoid**.
     
-3. Click the **CNAME** tab. 
+    3. Click the **CNAME** tab. 
     
-4. Make sure that the fields are set to precisely the following values for the empty record:
+    4. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **CName (别名)**: **clientconfig.partner.microsoftonline-p.net.cn**
+        - **CName (别名)**: **clientconfig.partner.microsoftonline-p.net.cn**
     
-  - **TTL**: **3600**
+        - **TTL**: **3600**
     
-5. Click **保存** (save). 
+    5. Click **保存** (save). 
     
 ## Add a TXT record to help with spam prevention
 <a name="BKMK_add_TXT"> </a>
@@ -262,52 +259,52 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 1. Add the SIP SRV record for Lync federation.
     
-1. On the DNS records page for your domain, in the **无需带域名根** (subdomain name) box, type **_sipfederationtls._tcp**, and then click **增加子域名** (add subdomain). 
+    1. On the DNS records page for your domain, in the **无需带域名根** (subdomain name) box, type **_sipfederationtls._tcp**, and then click **增加子域名** (add subdomain). 
     
-    ![Add subdomain name](../media/c810c388-131a-4019-bac5-db9730d92d92.png)
+        ![Add subdomain name](../media/c810c388-131a-4019-bac5-db9730d92d92.png)
   
-2. Click the newly added subdomain name **_sipfederationtls._tcp**.
+    2. Click the newly added subdomain name **_sipfederationtls._tcp**.
     
-    ![Click "SRV记录"](../media/3368ba28-e99c-4c8f-a335-4658ed52b86b.png)
+        ![Click "SRV记录"](../media/3368ba28-e99c-4c8f-a335-4658ed52b86b.png)
   
-3. Click the **SRV记录** (SRV record) tab. 
+    3. Click the **SRV记录** (SRV record) tab. 
     
-4. Make sure that the fields are set to precisely the following values for the empty record:
+    4. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **主机名** (host name): **sipfed.online.partner.lync.cn**
+        - **主机名** (host name): **sipfed.online.partner.lync.cn**
     
-  - **优先** (priority): **100**
+        - **优先** (priority): **100**
     
-  - **权重** (weight): **1**
+        - **权重** (weight): **1**
     
-  - **端口** (port)): **5061**
+        - **端口** (port)): **5061**
     
-  - **TTL**: **3600**
+        - **TTL**: **3600**
     
     ![Add SRV record](../media/28719253-7f0e-4837-ab04-f27f41e6b157.png)
   
-5. Click **增加** (add). 
+    5. Click **增加** (add). 
     
 2. Add the SIP SRV record for Lync web conferencing.
     
-1. On the DNS records page for your domain, in the **无需带域名根** (subdomain name) box, type **_sip._tls**, and then click **增加子域名** (add subdomain). 
+    1. On the DNS records page for your domain, in the **无需带域名根** (subdomain name) box, type **_sip._tls**, and then click **增加子域名** (add subdomain). 
     
-2. Click the newly added subdomain name **_sip._tls**.
+    2. Click the newly added subdomain name **_sip._tls**.
     
-3. Click the **SRV记录** (SRV record) tab. 
+    3. Click the **SRV记录** (SRV record) tab. 
     
-4. Make sure that the fields are set to precisely the following values for the empty record:
+    4. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **主机名** (host name): **sipdir.online.partner.lync.cn**
+        - **主机名** (host name): **sipdir.online.partner.lync.cn**
     
-  - **优先** (priority): **100**
+        - **优先** (priority): **100**
     
-  - **权重** (weight): **1**
+        - **权重** (weight): **1**
     
-  - **端口** (port)): **443**
+        - **端口** (port)): **443**
     
-  - **TTL**: **3600**
+        - **TTL**: **3600**
     
-5. Click **增加** (add). 
+    5. Click **增加** (add). 
     
 

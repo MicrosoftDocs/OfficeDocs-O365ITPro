@@ -7,7 +7,7 @@ manager: scotv
 ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -139,7 +139,6 @@ Like their larger counterparts, a small business needs convenience without sacri
 Microsoft 365 Business can help you with the GDPR process in the following ways:
   
 - **Discover:** An important step to GDPR compliance is knowing what data you have. 
-//Microsoft 365 Business has [Use Content Search in your eDiscovery workflow](https://support.office.com/article/55f31488-288a-473a-9b9e-831a11e3711a) which helps you find personal data across your Office applications. After you know what data you have, you can plan to deal with it. 
     
 - **Manage:** Controlling access to data and managing its use is an integral part of GDPR. Microsoft 365 Business protects business data based on policies you want to apply to devices. Device management is vital in an age where employees work remotely. Microsoft 365 Business includes device management features that makes sure data is protected across all devices. For example, you can specify that all Windows 10 devices in your business are protected via Windows Defender. 
     

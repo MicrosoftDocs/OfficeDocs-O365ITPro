@@ -7,7 +7,7 @@ manager: scotv
 ms.audience: End User
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid: MET150
 ms.assetid: ba780859-0297-4114-a258-2b2809bab9e6
 description: "Learn how to access email from your mobile device."

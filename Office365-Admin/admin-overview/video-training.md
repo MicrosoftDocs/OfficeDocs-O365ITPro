@@ -2,11 +2,10 @@
 title: "Video training"
 ms.author: supotter
 author: supotter
-
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 33a458eb-302f-4be5-8844-2c6f345c582e
 description: "Start your article with a very short introduction (1 sentence). Put yourself in the reader's place - why are they here? What should they do?"
 ---

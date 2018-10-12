@@ -3,11 +3,10 @@ title: "Learn about Office 365 Germany"
 ms.author: loreenl
 author: LoreenLa
 manager: pamgreen
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - MET150
@@ -76,8 +75,7 @@ The following services and features are available in some [Office 365 Germany su
 ## General information
 
 |||
-|:-----|:-----|
-|||
+|-----|-----|
 |Sign in portal  <br/> |https://portal.office.de  <br/> |
 |Subscriptions, billing, and technical support  <br/> |Germany-based support available in German and English For details, see [Contact Office 365 for business support - Admin Help](https://go.microsoft.com/fwlink/p/?linkid=847976).  <br/> |
 |IP Addresses and URLs  <br/> |See [Office 365 Germany endpoints](https://support.office.com/article/8a113a50-0071-4155-bb8e-eba5a8dbd4c8).  <br/> |

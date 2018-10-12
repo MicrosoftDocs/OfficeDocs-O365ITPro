@@ -7,7 +7,7 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - MET150
@@ -39,7 +39,7 @@ Here's a quick overview:
 ## Step 1: Create an Office 365 account for the employee
 <a name="step1"> </a>
 
-For instructions, see [Add users individually or in bulk to Office 365 - Admin Help](add-users-2.md). When you set up your new employee, you can choose to send Office 365 log in details to the employee's personal account. This way, they'll receive an email from Microsoft Online Service Team that tells them how to log in to Office 365.
+For instructions, see [Add users individually or in bulk to Office 365 - Admin Help](add-users.md). When you set up your new employee, you can choose to send Office 365 log in details to the employee's personal account. This way, they'll receive an email from Microsoft Online Service Team that tells them how to log in to Office 365.
   
 ## Step 2: Give the employee their Office 365 user ID and password
 <a name="Step2"> </a>
@@ -80,6 +80,6 @@ And here's a quick reference to help get them started:
 
 [Remove a former employee from Office 365](remove-former-employee.md)
   
-[Add users individually or in bulk to Office 365](add-users-2.md)
+[Add users individually or in bulk to Office 365](add-users.md)
   
 

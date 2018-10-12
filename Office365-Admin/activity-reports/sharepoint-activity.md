@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_ReportsSPActivity'
 - 'O365E_ReportsSPActivity'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Strat_SP_admin
 search.appverid:
 - BCS160

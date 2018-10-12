@@ -6,7 +6,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -27,7 +27,7 @@ If you purchased Office 365 Business Premium from a retail store, this article h
   
 ## Activate a new subscription
 
-1. Go to [office.com/setupkey](https://go.microsoft.com/fwlink/p/?LinkId=839911).
+1. Go to <a href="https://go.microsoft.com/fwlink/p/?LinkId=839911" target="_blank">office.com/setupkey</a>.
     
 2. Enter your product key, then choose **Next**.
     
@@ -37,13 +37,13 @@ If you purchased Office 365 Business Premium from a retail store, this article h
     
 5. You can get a new domain, use a domain name you already own, or add a domain later. The steps can vary, so follow the prompts, depending on which option you choose.
     
-6. When you're finished, go to the [admin center](https://go.microsoft.com/fwlink/p/?linkid=837890) to manage your subscription. 
+6. When you're finished, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">admin center</a> to manage your subscription. 
     
 ## Renew or add a user license to an existing subscription
 
 To renew or add a user license to your existing Office 365 Business Premium subscription with a product key, you need a new and unused key for the same Office 365 plan. Entering your original Office 365 product key won't work because a key that has already been redeemed can't be used again.
   
-1. Go to [office.com/setupkey](https://go.microsoft.com/fwlink/p/?LinkId=839911).
+1. Go to <a href="https://go.microsoft.com/fwlink/p/?LinkId=839911" target="_blank">office.com/setupkey</a>.
     
 2. Enter your product key, then choose **Next**.
     
@@ -59,7 +59,7 @@ To renew or add a user license to your existing Office 365 Business Premium subs
 
 If you're new to Office 365 for business, learn how to [set up Office 365](../setup/setup.md).
   
-## Still having trouble with Office 365 Business Premium product keys?
+## Still having trouble with product keys?
 
 Check out this list of common errors and solutions: [Problems with your Office 365 for business product key?](product-key-errors-and-solutions.md)
   

@@ -3,7 +3,6 @@ title: "Early termination fees"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:
@@ -11,7 +10,7 @@ f1_keywords:
 - 'O365M_EarlyTermFee'
 - 'O365E_EarlyTermFee'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -19,7 +18,7 @@ search.appverid:
 - MOE150
 - BEA160
 ms.assetid: 6487d4de-401a-466f-8bc3-c0beb5cc40d3
-description: "Undersand the terms and conditions of early termination."
+description: "Understand the terms and conditions of early termination."
 ---
 
 # Early termination fees
@@ -33,5 +32,3 @@ description: "Undersand the terms and conditions of early termination."
   - Transition to a different licensing program.
     
   - Change partners.
-    
-

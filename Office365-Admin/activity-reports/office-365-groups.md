@@ -9,7 +9,7 @@ f1_keywords:
 - 'O365E_ReportsGroups
 O365M_ReportsGroups'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160

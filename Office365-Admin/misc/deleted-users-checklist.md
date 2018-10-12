@@ -14,7 +14,7 @@ f1_keywords:
 - 'O365E_SCDeleteUserChkList'
 - 'O365E_ESDeletedUserChkList'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - BCS160
 - MET150
@@ -33,15 +33,15 @@ You can remove a license from a user by searching for the user on the home page,
   
 ## Block sign in
 
-You can block the user so they can't sign-in to your Office 365 organization. You can search for the user on the home page, or from the **Active users** page, and then select them. From the user page, on the **Sign-in status** row, choose **Edit** and select **Sign-in blocked**. [Read full article](../add-users-2/assign-admin-roles.md).
+You can block the user so they can't sign-in to your Office 365 organization. You can search for the user on the home page, or from the **Active users** page, and then select them. From the user page, on the **Sign-in status** row, choose **Edit** and select **Sign-in blocked**. [Read full article](../add-users/assign-admin-roles.md).
   
 ## Get their data
 
-You can send this user's email to another employee or user in your organization by following these [steps](../add-users-2/remove-former-employee.md). You can also back up and save any data from the former employee by following these [steps](../add-users-2/get-access-to-and-back-up-a-former-user-s-data.md).
+You can send this user's email to another employee or user in your organization by following these [steps](../add-users/remove-former-employee.md). You can also back up and save any data from the former employee by following these [steps](../add-users/get-access-to-and-back-up-a-former-user-s-data.md).
   
 ## Delete user
 
-You can delete the user by searching for the user on the home page, or from the **Deleted users** page. Select the user and choose **Delete user**.[Read full article](../add-users-2/delete-a-user.md).
+You can delete the user by searching for the user on the home page, or from the **Deleted users** page. Select the user and choose **Delete user**.[Read full article](../add-users/delete-a-user.md).
   
 ## What to do with the unassigned license
 

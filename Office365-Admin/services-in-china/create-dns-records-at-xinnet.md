@@ -3,7 +3,6 @@ title: "Create DNS records at Xinnet for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -11,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_Xinnet'
 - 'O365E_DOM_Xinnet'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - GEA150
@@ -22,9 +21,9 @@ description: "Learn to setup your own DNS records at Xinnet for Office 365 opera
 # Create DNS records at Xinnet for Office 365
 
 > [!CAUTION]
-> The Xinnet website doesn't support SRV records, which means that several Lync Online and Outlook Web App features won't work. No matter which Office 365 operated by 21Vianet plan you use, there are significant [Service limitations when your hosting provider does not support SRV, CNAME, TXT, or redirection](https://support.office.com/article/dfbb03e3-08c1-4c4e-b2f0-891665b29b77), and you may want to switch to a different DNS hosting provider. 
+> The Xinnet website doesn't support SRV records, which means that several Lync Online and Outlook Web App features won't work. No matter which Office 365 operated by 21Vianet plan you use, there are significant [service limitations](https://support.office.com/article/dfbb03e3-08c1-4c4e-b2f0-891665b29b77), and you may want to switch to a different DNS hosting provider. 
   
-If despite the service limitations, you choose to manage your own Office 365 DNS records at Xinnet, follow the steps in this article to verify your domain and set up DNS records for email, Lync, and so on. here's how to set them up. 
+If, despite the service limitations, you choose to manage your own Office 365 DNS records at Xinnet, follow the steps in this article to verify your domain and set up DNS records for email, Lync, and so on. here's how to set them up. 
   
 These are the main records to add.
   
@@ -38,7 +37,7 @@ These are the main records to add.
     
 After you add these records at Xinnet, your domain will be set up to work with Office 365 services, though not with the Lync Online and Outlook Web App features mentioned above.
   
-If you have a SharePoint Online Public Website, you can [Add records at Xinnet to set up your SharePoint Online Public Website](https://support.office.com/article/911fe8a5-0488-4457-a024-94473b90431f), like www. *your_domain*  .com. 
+If you have a SharePoint Online Public Website, you can [set it up to use your custom domain for the website URL address](https://support.office.com/article/911fe8a5-0488-4457-a024-94473b90431f), like www. *your_domain*  .com. 
   
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. 
@@ -85,7 +84,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
   - **文本记录 (TXT)**: Leave the box blank.
     
-  - **文本内容** (value): Paste **Destination or Points to Address** value from the table in Office 365, for example MS=ms  *XXXXXXX*  . [Gather the information you need to create Office 365 DNS records](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
+  - **文本内容** (value): Paste **Destination or Points to Address** value from the table in Office 365, for example MS=ms  *XXXXXXX*. [How do I find this?](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
     
   - **TTL**: Use the default value.
     
@@ -151,9 +150,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
   - **目标主机** (target): Paste the **Points to address** value from Office 365:  *\<domain-key\>*  .mail.protection.partner.outlook.cn 
     
     > [!NOTE]
-    > Get your  *\<domain-key\>*  from your Office 365 portal account. 
-  
-[Gather the information you need to create Office 365 DNS records](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
+    > Get your  *\<domain-key\>*  from your Office 365 portal account. [How do I find this?](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
   
   - **优先级** (priority): **5**
     
@@ -165,98 +162,98 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 11. If you have any MX records for this domain that send email to someplace other than Office 365, remove them:
     
-1. On the row of the obsolete record, click **删除** (remove). 
+    1. On the row of the obsolete record, click **删除** (remove). 
     
-2. In the confirmation dialog box, click **OK**.
+    2. In the confirmation dialog box, click **OK**.
     
 ## Add the CNAME records required for Office 365
 <a name="BKMK_add_CNAME"> </a>
 
 1. Add the email (Exchange) Autodiscover CNAME record.
     
-1. In your browser, go to the [Xinnet website](http://www.xinnet.com) and sign in. 
+    1. In your browser, go to the [Xinnet website](http://www.xinnet.com) and sign in. 
     
-    ![Sign in to Xinnet](../media/c9d2c80e-0458-4131-88f3-9e1b094d0823.png)
+        ![Sign in to Xinnet](../media/c9d2c80e-0458-4131-88f3-9e1b094d0823.png)
   
-2. In the upper-right corner, click **进入我的账户** (access my account). 
+    2. In the upper-right corner, click **进入我的账户** (access my account). 
     
-    ![Click "进入我的账户'](../media/4fbb122f-a08b-4c93-9bfa-f1d059201d6b.png)
+        ![Click "进入我的账户'](../media/4fbb122f-a08b-4c93-9bfa-f1d059201d6b.png)
   
-3. In the left navigation pane, click **我的产品** (my products). 
+    3. In the left navigation pane, click **我的产品** (my products). 
     
-    ![Click "域名管理"](../media/ffc1dfdd-f291-4645-9030-ef84d76edbef.png)
+        ![Click "域名管理"](../media/ffc1dfdd-f291-4645-9030-ef84d76edbef.png)
   
-4. In the **常规管理** (general management) section, click **域名管理** (domain management). 
+    4. In the **常规管理** (general management) section, click **域名管理** (domain management). 
     
-5. In the right pane, click the **我的域名** (my domains) tab. 
+    5. In the right pane, click the **我的域名** (my domains) tab. 
     
-    ![Click "我的域名"](../media/b0bfbada-6e17-4857-b718-31a3fab89588.png)
+        ![Click "我的域名"](../media/b0bfbada-6e17-4857-b718-31a3fab89588.png)
   
-6. Select the check box next to the domain that you want to update.
+    6. Select the check box next to the domain that you want to update.
     
-    ![Click "mydns解析设置"](../media/07417e01-a4a7-4f74-a444-0bc80b9fb72d.png)
+        ![Click "mydns解析设置"](../media/07417e01-a4a7-4f74-a444-0bc80b9fb72d.png)
   
-7. Click **mydns解析设置** (DNS settings). 
+    7. Click **mydns解析设置** (DNS settings). 
     
     The DNS records page for your domain opens.
     
-8. On the DNS records page for your domain, in the **别名 (CNAME)** section, click **添加新的别名** (add a CNAME record). 
+    8. On the DNS records page for your domain, in the **别名 (CNAME)** section, click **添加新的别名** (add a CNAME record). 
     
     ![Click "添加新的别名"](../media/6a448693-e7d1-478e-b8a8-3664456fed19.png)
   
-9. Make sure that the fields are set to precisely the following values for the empty record:
+    9. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **别名 (CNAME)**: **autodiscover**
+        - **别名 (CNAME)**: **autodiscover**
     
-  - ** 别名主机 ** (points to): **autodiscover.partner.outlook.cn**
+        - **别名主机** (points to): **autodiscover.partner.outlook.cn**
     
-  - **TTL**: Use the default value.
+        - **TTL**: Use the default value.
     
     ![Add CNAME record](../media/6b9fb7d6-5936-41e0-9603-5068cbf8c4ec.png)
   
-10. Click **提交** (submit). 
+    10. Click **提交** (submit). 
     
 2. Add the Lync Autodiscover CNAME record.
     
-1. On the DNS records page for your domain, in the **别名 (CNAME)** section, click **添加新的别名** (add a CNAME record). 
+    1. On the DNS records page for your domain, in the **别名 (CNAME)** section, click **添加新的别名** (add a CNAME record). 
     
-2. Make sure that the fields are set to precisely the following values for the empty record:
+    2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **别名 (CNAME)**: **lyncdiscover**
+        - **别名 (CNAME)**: **lyncdiscover**
     
-  - ** 别名主机 ** (points to): **webdir.online.partner.lync.cn**
+        - **别名主机** (points to): **webdir.online.partner.lync.cn**
     
-  - **TTL**: Use the default value.
+        - **TTL**: Use the default value.
     
-3. Click **提交** (submit). 
+    3. Click **提交** (submit). 
     
 3. Add the Lync SIP CNAME record.
     
-1. On the DNS records page for your domain, in the **别名 (CNAME)** section, click **添加新的别名** (add a CNAME record). 
+    1. On the DNS records page for your domain, in the **别名 (CNAME)** section, click **添加新的别名** (add a CNAME record). 
     
-2. Make sure that the fields are set to precisely the following values for the empty record:
+    2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **别名 (CNAME)**: **sip**
+        - **别名 (CNAME)**: **sip**
     
-  - ** 别名主机 ** (points to): **sipdir.online.partner.lync.cn**
+        - **别名主机** (points to): **sipdir.online.partner.lync.cn**
     
-  - **TTL**: Use the default value.
+        - **TTL**: Use the default value.
     
-3. Click **提交** (submit). 
+    3. Click **提交** (submit). 
     
 4. Add the Office 365 MSOID CNAME record. This is an additional record that is required for Office 365.
     
-1. On the DNS records page for your domain, in the **别名 (CNAME)** section, click **添加新的别名** (add a CNAME record). 
+    1. On the DNS records page for your domain, in the **别名 (CNAME)** section, click **添加新的别名** (add a CNAME record). 
     
-2. Make sure that the fields are set to precisely the following values for the empty record:
+    2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **别名 (CNAME)**: **msoid**
+        - **别名 (CNAME)**: **msoid**
     
-  - ** 别名主机 ** (points to): **clientconfig.partner.microsoftonline-p.net.cn**
+        - **别名主机** (points to): **clientconfig.partner.microsoftonline-p.net.cn**
     
-  - **TTL**: Use the default value.
+        - **TTL**: Use the default value.
     
-3. Click **提交** (submit). 
+    3. Click **提交** (submit). 
     
 ## Add TXT record to help prevent spam
 <a name="BKMK_add_TXT"> </a>

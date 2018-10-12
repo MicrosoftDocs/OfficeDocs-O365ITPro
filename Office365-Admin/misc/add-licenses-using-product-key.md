@@ -3,11 +3,10 @@ title: "Add licenses to a subscription paid for using a product key"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -24,20 +23,20 @@ You can buy more licenses for Office 365 Small Business Premium from an online r
   
 ![Office 365 Small Business Premium](../media/87962c78-813b-4635-ae2c-2e8371723e86.png)
   
-Prepaid licenses are issued to you as a 25-character alphanumeric code. After you have purchased the licenses you need, you can add them to your Office 365 subscription.
+Prepaid licenses are issued to you as a 25-character alphanumeric code. After you have purchased the licenses you need, you can add them to your subscription.
   
 To add licenses to Office 365 Small Business, Office 365 Small Business Premium, or Office 365 Midsize Business subscriptions, complete the following procedures in the order shown.
   
-## Add licenses to your Office 365 subscription
+## Add licenses to your subscription
   
-1. Sign in to Office 365 with your work or school account as a global admin. [Learn how to sign in](where-to-sign-in.md).
+1. Sign in with your work or school account as a global admin. [Learn how to sign in](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
     
     > [!NOTE]
     > Signing into your Office 365 subscription establishes which subscription your product key will be applied to. 
   
 2. Select the app launcher icon ![Office 365 app launcher icon](../media/0aaa6945-f9a4-4b13-bf5f-d5c5dbe978fb.png) in the upper-left and choose **Admin**.
     
-3. Go to [https://portal.office.com/Commerce/ProductKeyStart.aspx](https://portal.office.com/Commerce/ProductKeyStart.aspx).
+3. Go to [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart).
     
 4. On the **Redeem product key** page, next to **Want to add this to an existing subscription?**, choose **Sign in**.
     
@@ -70,6 +69,6 @@ To add licenses to Office 365 Small Business, Office 365 Small Business Premium,
     
     The number of licenses that have been purchased are listed under **Licenses**.
     
-## See also
+## Related topics
 
-[Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md)
+[Assign licenses to users](../subscriptions-and-billing/assign-licenses-to-users.md)

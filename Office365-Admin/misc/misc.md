@@ -6,7 +6,7 @@ author: cmcatee-MSFT
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 3b585823-e196-4b33-b4da-82aa1bb28a28
 description: "Start your article with a very short introduction (1 sentence). Put yourself in the reader's place - why are they here? What should they do?"
 ---

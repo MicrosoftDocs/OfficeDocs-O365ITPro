@@ -8,7 +8,7 @@ ms.topic: article
 f1_keywords:
 - 'O365P_RemoveEXOLicense'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -71,17 +71,17 @@ description: "Learn how to remove licenses from user accounts in Office 365 for 
 
 ## What you need to know about removing licenses from users
 
-- You need to be either a Global admin or a User management admin. For more information, see [About Office 365 admin roles](../add-users-2/about-admin-roles.md).
+- You need to be either a Global admin or a User management admin. For more information, see [About Office 365 admin roles](../add-users/about-admin-roles.md).
     
 - You can [remove licenses from user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=848428).
     
-- You can also [delete user accounts](../add-users-2/delete-a-user.md) that have been assigned a license to make their license available to other users. When you delete a user account, their license is immediately available to be assigned to someone else. 
+- You can also [delete user accounts](../add-users/delete-a-user.md) that have been assigned a license to make their license available to other users. When you delete a user account, their license is immediately available to be assigned to someone else. 
 
 - When a user's license is removed, data that is associated with that user account is held for 30 days. After the 30 day grace period, the data is deleted and can't be recovered. Files that are saved in OneDrive or SharePoint Online are not deleted.
     
 - If you have an Enterprise subscription, like Office 365 Enterprise E3, Exchange Online lets you preserve the mailbox data of a deleted user account by using inactive mailboxes. For more information, see [Manage inactive mailboxes in Exchange Online](https://go.microsoft.com/fwlink/p/?linkid=848214).
     
-- For information about how to block a user's access to Office 365 data after their license has been removed and how to get access to the data afterwards, see [Remove a former employee](../add-users-2/remove-former-employee.md).
+- For information about how to block a user's access to Office 365 data after their license has been removed and how to get access to the data afterwards, see [Remove a former employee](../add-users/remove-former-employee.md).
     
 - If you remove a user's license and they still have Office installed, they'll see [Unlicensed Product notifications](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx) when they use Office. 
     

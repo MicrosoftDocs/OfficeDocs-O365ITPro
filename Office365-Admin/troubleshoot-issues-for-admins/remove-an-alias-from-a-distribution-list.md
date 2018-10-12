@@ -12,7 +12,7 @@ f1_keywords:
 - 'O365E_AdminDistList_TSAlias'
 - 'AdminDistList_TSAlias'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160

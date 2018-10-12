@@ -3,11 +3,10 @@ title: "Get an Internet Content Provider (ICP) number for your public website"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - GEA150
@@ -32,9 +31,9 @@ You can use one ICP number for multiple websites owned by the same company. If y
 
 There are two types of ICP numbers issued by the Chinese Ministry of Industry and Information Technology (MIIT) (中华人民共和国工业和信息化部) at the provincial level:
   
-- ICP license **** — for example, 京ICP证XXXXXXXX号 — is used for commercial (operational) websites. This applies to any website that allows a customer to purchase goods or services online. 
+- ICP license — for example, 京ICP证XXXXXXXX号 — is used for commercial (operational) websites. This applies to any website that allows a customer to purchase goods or services online. 
     
-- ICP filing **** — for example, 京ICP备XXXXXXXX号 — is used for non-commercial (informational) websites. This applies to websites that don't include direct sales. 
+- ICP filing — for example, 京ICP备XXXXXXXX号 — is used for non-commercial (informational) websites. This applies to websites that don't include direct sales. 
     
 ## Get a new ICP number
 <a name="__ref353434425"> </a>
@@ -83,15 +82,15 @@ Learn more about MIIT License Registration at **http://www.miibeian.gov.cn** (in
 
 After you receive the ICP license and the certificate, do the following:
   
-1. Copy or upload the certificate file **bazx.cert** to the directory **cert/.** This file must be accessible through the following link:  *http://your website IP or domain name* **/cert/bazs.cert**.
+1. Copy or upload the certificate file **bazx.cert** to the directory **cert/.** This file must be accessible through the following link:  *http://<span></span>your website IP or domain name*/cert/bazs.cert.
     
     > [!NOTE]
     >  If you can't upload the certificate to the directory, contact your provider. 
   
 2. At the bottom of your website's home page:
     
-1. Add the ICP number.
+    1. Add the ICP number.
     
-2. Add a link to MIIT License Registration at **http://www.miibeian.gov.cn** (in Chinese). 
+    2. Add a link to MIIT License Registration at **http://www.miibeian.gov.cn** (in Chinese). 
     
 

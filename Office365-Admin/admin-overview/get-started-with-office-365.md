@@ -3,7 +3,6 @@ title: "Get started with Office 365 for business"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:
@@ -17,7 +16,7 @@ f1_keywords:
 - 'O365E_GSO365'
 - 'O365E_GetStarted'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection:
 - Adm_O365_Top
 - strat_admin_top

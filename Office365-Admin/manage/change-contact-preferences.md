@@ -11,7 +11,7 @@ f1_keywords:
 - 'O365E_ChgContactPreferences'
 - 'ChgContactPreferences'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -42,10 +42,7 @@ If you're looking for how to change company profile information, such as organiz
     
 5. Choose the types of product-related communications you want to receive.
     
-6. Type the business phone, business mobile phone, or business email where you want to receive these communications.
-    
-    > [!NOTE]
-    >  You can use any email address, including your Office 365 email address, to receive these communications. If you don't add an email address for contact preferences, your alternate email address (on the **Personal info** page) will be used. 
+6. Type the business phone, business mobile phone, or business email where you want to receive these communications.<br/>You can use any email address, including your Office 365 email address, to receive these communications. If you don't add an email address for contact preferences, your alternate email address (on the **Personal info** page) will be used. 
   
 For Office 365 Enterprise, Office 365 Business Premium, and Office 365 Business Essentials, when you first signed up as an admin for Office 365, depending on the country or region of the users in your organization, your users may have been automatically signed up to receive product-related communications.
   

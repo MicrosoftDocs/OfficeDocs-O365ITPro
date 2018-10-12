@@ -3,7 +3,6 @@ title: "Create DNS records at Now.cn for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -11,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_Now'
 - 'O365E_DOM_Now'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - GEA150
@@ -22,9 +21,9 @@ description: "Learn to setup your own DNS records at Now.cn for Office 365 opera
 # Create DNS records at Now.cn for Office 365
 
 > [!CAUTION]
-> The Now.cn website doesn't support SRV records. which means that several Skype for Business Online and Outlook Web App features won't work. No matter which Office 365 operated by 21Vianet plan you use, if you manage your DNS records at Now.cn, there are significant [Service limitations when your hosting provider does not support SRV, CNAME, TXT, or redirection](https://support.office.com/article/dfbb03e3-08c1-4c4e-b2f0-891665b29b77), and you may want to switch to a different DNS hosting provider. 
+> The Now.cn website doesn't support SRV records. which means that several Skype for Business Online and Outlook Web App features won't work. No matter which Office 365 operated by 21Vianet plan you use, if you manage your DNS records at Now.cn, there are significant [service limitations](https://support.office.com/article/dfbb03e3-08c1-4c4e-b2f0-891665b29b77), and you may want to switch to a different DNS hosting provider. 
   
-If despite the service limitations, you choose to manage your own Office 365 DNS records at Now.cn, follow the steps in this article to verify your domain and set up DNS records for email, Lync, and so on.
+If, despite the service limitations, you choose to manage your own Office 365 DNS records at Now.cn, follow the steps in this article to verify your domain and set up DNS records for email, Lync, and so on.
   
 These are the main records to add.
   
@@ -38,7 +37,7 @@ These are the main records to add.
     
 After you add these records at Now.cn, your domain will be set up to work with Office 365 services, though not with the Skype for Business Online and Outlook Web App features mentioned above.
   
-If you have a SharePoint Online Public Website, you can [Add records at Now.cn to set up your SharePoint Online Public Website](https://support.office.com/article/d436861d-e28d-4f81-a51f-b33799234b11), like www. *your_domain*  .com. 
+If you have a SharePoint Online Public Website, you can [set it up to use your custom domain for the website URL address](https://support.office.com/article/d436861d-e28d-4f81-a51f-b33799234b11), like www. *your_domain*.com. 
   
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. 
@@ -67,9 +66,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 4. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - ** Prior **: Use the default value.
+  - **Prior**: Use the default value.
     
-  - ** \*.\*.\*.\* **: Paste **Destination or Points to Address** value rom the table in Office 365, for example MS=ms  *XXXXXXX*  . [Gather the information you need to create Office 365 DNS records](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
+  - **\*.\*.\*.\***: Paste **Destination or Points to Address** value rom the table in Office 365, for example MS=ms  *XXXXXXX*  . [How do I find this?](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
     
 5. Click **Add Subdomain**.
     
@@ -116,14 +115,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
   - **sub domain**: Leave the box blank.
     
-  - ** Prior **: **0**
+  - **Prior**: **0**
     
-  - ** \*.\*.\*.\* **: Paste the **Points to address** value from Office 365:  *\<domain-key\>*  .mail.protection.partner.outlook.cn 
+  - **\*.\*.\*.\***: Paste the **Points to address** value from Office 365:  *\<domain-key\>*  .mail.protection.partner.outlook.cn 
     
     > [!NOTE]
-    > Get your  *\<domain-key\>*  from your Office 365 portal account. 
-  
-[Gather the information you need to create Office 365 DNS records](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
+    > Get your  *\<domain-key\>*  from your Office 365 portal account. [How do I find this?](https://support.office.com/article/ffcc06d2-b50d-4072-95bb-f59013770e0e)
   
     ![Add MX record](../media/ab841ce7-041b-4cef-afd4-f4574e8168c8.png)
   
@@ -140,73 +137,73 @@ When Office 365 finds the correct TXT record, your domain is verified.
 
 1. Add the email (Exchange) Autodiscover CNAME record.
     
-1. In your browser, go to [your domains list at Now.cn](http://www.now.cn/user/login.php?1&amp;page=%2Fdomain-admin%2Fdomain_list.php) and sign in. 
+    1. In your browser, go to [your domains list at Now.cn](http://www.now.cn/user/login.php?1&amp;page=%2Fdomain-admin%2Fdomain_list.php) and sign in. 
     
-    ![Sign in to Now.cn](../media/7525bdbc-9624-4eb5-be0a-87fa9e3fb9d2.png)
+        ![Sign in to Now.cn](../media/7525bdbc-9624-4eb5-be0a-87fa9e3fb9d2.png)
   
-2. In the **功能管理** (management) column for the domain that you want to update, click **VDNS 解析** (VDNS management). 
+    2. In the **功能管理** (management) column for the domain that you want to update, click **VDNS 解析** (VDNS management). 
     
-    The DNS records page for your domain opens.
+        The DNS records page for your domain opens.
     
-    ![Click "VDNS 解析"](../media/32ce15a4-2764-4d1e-af54-b653d5ae95b3.png)
+        ![Click "VDNS 解析"](../media/32ce15a4-2764-4d1e-af54-b653d5ae95b3.png)
   
-3. On the DNS records page for your domain, in the **Type** drop-down list, select **CNAME**.
+    3. On the DNS records page for your domain, in the **Type** drop-down list, select **CNAME**.
     
     ![Select "CNAME"](../media/8901d098-1cbd-4427-8bde-10d7d1ec6332.png)
   
-4. Make sure that the fields are set to precisely the following values for the empty record:
+    4. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **sub domain**: **autodiscover**
+        - **sub domain**: **autodiscover**
     
-  - ** \*.\*.\*.\* **: **autodiscover.partner.outlook.cn**
+        - **\*.\*.\*.\***: **autodiscover.partner.outlook.cn**
     
-5. Click **Add Subdomain**.
+    5. Click **Add Subdomain**.
     
-6. Click **Restart VDNS** for the changes to take effect across the Internet. 
+    6. Click **Restart VDNS** for the changes to take effect across the Internet. 
     
     ![Add CNAME record](../media/08a5e988-19c0-47c5-8413-06543239287a.png)
   
 2. Add the Lync Autodiscover CNAME record.
     
-1. On the DNS records page for your domain, in the **Type** drop-down list, select **CNAME**.
+    1. On the DNS records page for your domain, in the **Type** drop-down list, select **CNAME**.
     
-2. Make sure that the fields are set to precisely the following values for the empty record:
+    2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **sub domain**: **lyncdiscover**
+        - **sub domain**: **lyncdiscover**
     
-  - ** \*.\*.\*.\* **: **webdir.online.partner.lync.cn**
+        - **\*.\*.\*.\***: **webdir.online.partner.lync.cn**
     
-3. Click **Add Subdomain**.
+    3. Click **Add Subdomain**.
     
-4. Click **Restart VDNS** for the changes to take effect across the Internet. 
+    4. Click **Restart VDNS** for the changes to take effect across the Internet. 
     
 3. Add the Lync SIP CNAME record.
     
-1. On the DNS records page for your domain, in the **Type** drop-down list, select **CNAME**.
+    1. On the DNS records page for your domain, in the **Type** drop-down list, select **CNAME**.
     
-2. Make sure that the fields are set to precisely the following values for the empty record:
+    2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **sub domain**: **sip**
+        - **sub domain**: **sip**
     
-  - ** \*.\*.\*.\* **: **sipdir.online.partner.lync.cn**
+        - **\*.\*.\*.\***: **sipdir.online.partner.lync.cn**
     
-3. Click **Add Subdomain**.
+    3. Click **Add Subdomain**.
     
-4. Click **Restart VDNS** for the changes to take effect across the Internet. 
+    4. Click **Restart VDNS** for the changes to take effect across the Internet. 
     
 4. Add the Office 365 MSOID CNAME record. This is an additional record that is required for Office 365.
     
-1. On the DNS records page for your domain, in the **Type** drop-down list, select **CNAME**.
+    1. On the DNS records page for your domain, in the **Type** drop-down list, select **CNAME**.
     
-2. Make sure that the fields are set to precisely the following values for the empty record:
+    2. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - **sub domain**: **msoid**
+        - **sub domain**: **msoid**
     
-  - ** \*.\*.\*.\* **: **clientconfig.partner.microsoftonline-p.net.cn**
+        - **\*.\*.\*.\***: **clientconfig.partner.microsoftonline-p.net.cn**
     
-3. Click **Add Subdomain**.
+    3. Click **Add Subdomain**.
     
-4. Click **Restart VDNS** for the changes to take effect across the Internet. 
+    4. Click **Restart VDNS** for the changes to take effect across the Internet. 
     
 ## Add a TXT record to help prevent spam
 <a name="BKMK_add_TXT"> </a>
@@ -227,9 +224,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 4. Make sure that the fields are set to precisely the following values for the empty record:
     
-  - ** Prior **: Use the default value.
+  - **Prior**: Use the default value.
     
-  - ** \*.\*.\*.\* **: **v=spf1 include:spf.protection.partner.outlook.cn -all**
+  - **\*.\*.\*.\***: **v=spf1 include:spf.protection.partner.outlook.cn -all**
     
     ![Add TXT record](../media/493bc4c7-c870-445e-9f6d-addb636448a7.png)
   

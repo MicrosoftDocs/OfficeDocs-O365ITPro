@@ -7,7 +7,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -69,7 +69,7 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 Let's say you've deleted a user account and now you want to convert their old mailbox to a share mailbox. Here's what you need to do:
   
-1. [Restore the user's account](../add-users-2/restore-user.md) . 
+1. [Restore the user's account](../add-users/restore-user.md) . 
     
 2. Make sure an Office 365 license is assigned to it.
     

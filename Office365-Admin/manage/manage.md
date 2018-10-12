@@ -7,7 +7,7 @@ ms.audience: Admin
 ms.topic: landing-page
 layout: LandingPage
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 9f818d7a-78b5-4490-b36c-e3bfe328dfc3
 description: "Quick links for the most common admin tasks in Office 365."
 ---
@@ -18,7 +18,7 @@ Quick links for the most common admin tasks in Office 365.
 
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="../user-and-passwords/add-users-2">
+        <a href="../user-and-passwords/add-users">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -140,7 +140,7 @@ Quick links for the most common admin tasks in Office 365.
                 <div class="card">
                     <div class="cardText">
                         <h3>Email</h3>
-                            <p><a href="../user-and-passwords/add-users-2">Add a new employee</a></p>
+                            <p><a href="../user-and-passwords/add-users">Add a new employee</a></p>
                             <p><a href="https://support.office.com/article/97748418-bbd5-4743-a05b-581f22a466dd">Fix email messages when they won't send</a></p>
                             <p><a href="../troubleshoot-issues-for-office-365-admins/troubleshoot-email-issues">Troubleshoot email issues</a></p>
                             <p><b>More tasks:</b> <a href="../email/email">Email in Office 365 for business</a></p>

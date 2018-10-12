@@ -3,7 +3,6 @@ title: "Office 365 operated by 21Vianet"
 ms.author: LOREENL
 author: LoreenLa
 manager: pamgreen
-
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:
@@ -14,7 +13,7 @@ f1_keywords:
 - 'O365E_LearnFeatures'
 - 'O365E_GAL_LearnGallatin'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - GEU150
@@ -41,7 +40,7 @@ Scan this QR code to follow us on WeChat and get the latest updates for Office 3
   
  **About services in Office 365 operated by 21Vianet**
   
-The sections below highlight some of the differences you will find in each service. Ultimately our goal is to achieve parity with global services. However, due to the unique nature of the China services - operated by a partner from datacenters inside China - there are some features that have not yet been enabled. Customers will see the services come closer to full feature parity over time. For a more detailed look at services available for each Office 365 plan operated by 21Vianet, see the [Office 365 Service Description](https://technet.microsoft.com/EN-US/library/mt651782.aspx).
+The sections below highlight some of the differences you will find in each service. Ultimately our goal is to achieve parity with global services. However, due to the unique nature of the China services - operated by a partner from datacenters inside China - there are some features that have not yet been enabled. Customers will see the services come closer to full feature parity over time. For a more detailed look at services available for each Office 365 plan operated by 21Vianet, see the [Office 365 Service Description](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-operated-by-21vianet).
   
 - [Office 365 Suite](services-in-china.md#__toc359591120)
     
@@ -66,7 +65,7 @@ If you would like to learn how to get started with general Office 365 services, 
 
 |||
 |:-----|:-----|
-|Custom domains  <br/> |Administrators can create and/or use custom domains registered through Chinese-specific domain providers. If you don't have a custom domain, you can [How to buy a domain name](https://support.office.com/article/a6689b24-eeca-41f1-afe6-19917936b73c.aspx) from a domain name registrar. If you already have one, [Find your domain registrar or DNS hosting provider](https://support.office.com/article/98b6bfa3-1b0b-4484-8a12-02061cc9f9c3).  <br/> Additionally, if you create a public website using the Office 365 SharePoint Online service, China Internet compliance policy requires that you get an Internet Content Provider (ICP) number. For more information, see [Get an Internet Content Provider (ICP) number for your public website](get-an-icp-number-for-your-public-website.md).  <br/> > [!NOTE]> Automatic validation for disallowed words in custom domain names is not available.           |
+|Custom domains  <br/> |Administrators can create and/or use custom domains registered through Chinese-specific domain providers. If you don't have a custom domain, you can [How to buy a domain name](https://support.office.com/article/a6689b24-eeca-41f1-afe6-19917936b73c.aspx) from a domain name registrar. If you already have one, [Find your domain registrar or DNS hosting provider](https://support.office.com/article/98b6bfa3-1b0b-4484-8a12-02061cc9f9c3).  <br/> Additionally, if you create a public website using the Office 365 SharePoint Online service, China Internet compliance policy requires that you get an Internet Content Provider (ICP) number. For more information, see [Get an Internet Content Provider (ICP) number for your public website](get-an-icp-number-for-your-public-website.md).  <br/> **Note:** Automatic validation for disallowed words in custom domain names is not available.           |
 |Subscriptions, billing, and technical support  <br/> |Provided by 21Vianet. For information on how to contact support, see [Contact Office 365 for business support](../contact-support-for-business-products.md).  <br/> |
 |Self-service password reset  <br/> |Available for admins only. For more information, see [Change or reset your password in Office 365 operated by 21Vianet](https://support.office.com/article/d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).  <br/> |
 |Security, privacy, compliance, and details on levels of support  <br/> |Provided by 21Vianet. You can find more information [here](http://www.ch.21vianet.com/c47/index.mdl).  <br/> |
@@ -119,10 +118,22 @@ If you would like to learn how to get started with general Office 365 services, 
 ## Exchange
 <a name="__exchange"> </a>
 
-|||
-|:-----|:-----|
-|Hybrid deployments  <br/> | New with Exchange 2013 Cumulative Update 5 (CU5), full-featured hybrid deployments between on-premises Exchange 2013 organizations and Office 365 services are now supported. Leveraging new improvements in the Hybrid Configuration wizard, Exchange 2013 CU5 supports the following hybrid features between your on-premises and Exchange Online organizations:  <br/>  Secure mail routing between on-premises and Exchange Online organizations.  <br/>  Mail routing with a shared domain namespace. For example, both on-premises and Exchange Online organizations use the @contoso.com SMTP domain.  <br/>  A unified global address list (GAL), also called a "shared address book."  <br/>  Free/busy and calendar sharing between on-premises and Exchange Online organizations.  <br/>  Centralized control of inbound and outbound mail flow. You can configure all inbound and outbound Exchange Online messages to be routed through the on-premises Exchange organization.  <br/>  A single Office Outlook Web App URL for both the on-premises and Exchange Online organizations.  <br/>  The ability to move existing on-premises mailboxes to the Exchange Online organization. Exchange Online mailboxes can also be moved back to the on-premises organization if needed.  <br/>  Centralized mailbox management using the on-premises Exchange admin center (EAC).  <br/>  MailTips, HD photo support for Outlook contacts, and multi-mailbox search between on-premises and Exchange Online organizations.  <br/>  Cloud-based message archiving for on-premises Exchange mailboxes.  <br/>  For organizations running older or mixed versions of Exchange Server, some hybrid features aren't fully supported for Office 365 tenants hosted by 21Vianet. Use the following table to learn more about hybrid feature support in different Exchange deployment scenarios:  <br/> |
-|
+ New with Exchange 2013 Cumulative Update 5 (CU5), full-featured hybrid deployments between on-premises Exchange 2013 organizations and Office 365 services are now supported. Leveraging new improvements in the Hybrid Configuration wizard, Exchange 2013 CU5 supports the following hybrid features between your on-premises and Exchange Online organizations:  
+
+- Secure mail routing between on-premises and Exchange Online organizations. 
+- Mail routing with a shared domain namespace. For example, both on-premises and Exchange Online organizations use the @contoso.com SMTP domain. 
+- A unified global address list (GAL), also called a "shared address book."  
+- Free/busy and calendar sharing between on-premises and Exchange Online organizations.  
+- Centralized control of inbound and outbound mail flow. You can configure all inbound and outbound Exchange Online messages to be routed through the on-premises Exchange organization. 
+- A single Office Outlook Web App URL for both the on-premises and Exchange Online organizations.  
+- The ability to move existing on-premises mailboxes to the Exchange Online organization. Exchange Online mailboxes can also be moved back to the on-premises organization if needed.  
+- Centralized mailbox management using the on-premises Exchange admin center (EAC).  
+- MailTips, HD photo support for Outlook contacts, and multi-mailbox search between on-premises and Exchange Online organizations. 
+- Cloud-based message archiving for on-premises Exchange mailboxes. 
+
+For organizations running older or mixed versions of Exchange Server, some hybrid features aren't fully supported for Office 365 tenants hosted by 21Vianet. Use the following table to learn more about hybrid feature support in different Exchange deployment scenarios:  <br/> 
+
+
 |**On-Premises Exchange Version**|**Exchange Hybrid Server Version**|**Hybrid Configuration Wizard Supported?**|**Supported Hybrid Features**|
 |:-----|:-----|:-----|:-----|
 | 2016  <br/> | N/A  <br/> | Yes  <br/> | All  <br/> |
@@ -140,23 +151,39 @@ If you would like to learn how to get started with general Office 365 services, 
 > [!IMPORTANT]
 >  Delegate calendar access, when a user or set of users is provided access to another user's calendar, isn't supported in hybrid deployments with Office 365 tenants hosted by 21Vianet. 
   
- Additionally, some Exchange messaging policy and compliance features aren't fully supported in hybrid deployments with Office 365 tenants hosted by 21Vianet. These features include:  <br/> [Messaging Records Management (MRM)](https://go.microsoft.com/fwlink/?LinkId=506754) <br/> [In-Place eDiscovery](https://go.microsoft.com/fwlink/?LinkID=506755) <br/> [In-Place Hold](https://go.microsoft.com/fwlink/?LinkId=506758) <br/> [In-Place Archiving](https://go.microsoft.com/fwlink/?LinkId=506759) <br/> [Mailbox auditing](https://go.microsoft.com/fwlink/?LinkId=506760) <br/>  Accessing online archives with [Outlook Web App (OWA)](https://go.microsoft.com/fwlink/?LinkId=506762) <br/>  Use the following table to learn more about feature support in different Exchange deployment scenarios:  <br/> 
-|
-|
+ Additionally, some Exchange messaging policy and compliance features aren't fully supported in hybrid deployments with Office 365 tenants hosted by 21Vianet. These features include: 
+- [Messaging Records Management (MRM)](https://go.microsoft.com/fwlink/?LinkId=506754) 
+- [In-Place eDiscovery](https://go.microsoft.com/fwlink/?LinkID=506755) 
+- [In-Place Hold](https://go.microsoft.com/fwlink/?LinkId=506758) 
+- [In-Place Archiving](https://go.microsoft.com/fwlink/?LinkId=506759)
+- [Mailbox auditing](https://go.microsoft.com/fwlink/?LinkId=506760)
+- Accessing online archives with [Outlook Web App (OWA)](https://go.microsoft.com/fwlink/?LinkId=506762) 
+
+Use the following table to learn more about feature support in different Exchange deployment scenarios: 
+
 |**On-Premises Exchange Version**|**MRM (split archive)**|**OWA access (split archive)**|**In-Place eDiscovery**|**Mailbox Auditing**|**In-Place Hold/Archiving**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-| All 2013 CU5  <br/> | Supported  <br/> | Not supported  <br/> | Supported  <br/> | Supported  <br/> | Supported  <br/> |
-| All 2010 SP3  <br/> | Not supported  <br/> | Not supported  <br/> | Supported <sup>1</sup> <br/> | Supported  <br/> | Supported  <br/> |
-| At least one pre-2013 CU5 server  <br/> | Supported <sup>2</sup> <br/> | Not supported  <br/> | Not supported  <br/> | Supported  <br/> | Supported  <br/> |
-   
-<sup>1</sup> Separate searches are required for on-premises and Exchange Online mailboxes.  <br/> <sup>2</sup> MRM move-to-archive policies can be used for mailboxes located on an Exchange 2013 CU5 or greater server.  <br/>  To learn more about configuring a hybrid deployment with Office 365 tenants hosted by 21Vianet, see the following topics:  <br/> [Hybrid Deployment Prerequisites](https://go.microsoft.com/fwlink/?LinkId=506764) <br/> [Certificate Requirements for Hybrid Deployments](https://go.microsoft.com/fwlink/?LinkId=506766) <br/> [Create a Hybrid Deployment with the Hybrid Configuration Wizard](https://go.microsoft.com/fwlink/?LinkId=506767) <br/> 
+| All 2013 CU5   | Supported   | Not supported  | Supported   | Supported | Supported  |
+| All 2010 SP3   | Not supported   | Not supported   | Supported<sup>1</sup> | Supported   | Supported   |
+| At least one pre-2013 CU5 server   | Supported<sup>2</sup>  | Not supported   | Not supported | Supported   | Supported  |
+|||
+<sup>1</sup> Separate searches are required for on-premises and Exchange Online mailboxes.  <br/> <sup>2</sup> MRM move-to-archive policies can be used for mailboxes located on an Exchange 2013 CU5 or greater server. 
+
+To learn more about configuring a hybrid deployment with Office 365 tenants hosted by 21Vianet, see the following topics: 
+- [Hybrid Deployment Prerequisites](https://go.microsoft.com/fwlink/?LinkId=506764)
+- [Certificate Requirements for Hybrid Deployments](https://go.microsoft.com/fwlink/?LinkId=506766) 
+- [Create a Hybrid Deployment with the Hybrid Configuration Wizard](https://go.microsoft.com/fwlink/?LinkId=506767)
+
 > [!IMPORTANT]
 >  The [Exchange Server Deployment Assistant](https://go.microsoft.com/fwlink/?LinkId=506768) is a free web-based tool that helps you configure a hybrid deployment between your on-premises organization and Office 365, or to migrate completely to Office 365. The tool asks you a small set of simple questions and then, based on your answers, creates a customized checklist with instructions to configure your hybrid deployment. We strongly recommend using the Deployment Assistant to configure a hybrid deployment. >  For organizations not wishing to upgrade to or add Exchange 2013 CU5 servers, Exchange 2013 SP1 organizations can configure shared calendar free/busy sharing between their on-premises and Exchange Online organizations. To configure this hybrid deployment feature, see [Configuring Exchange hybrid deployment features with Office 365 operated by 21Vianet](https://support.office.com/article/26e7cc26-c980-4cc5-a082-c333de544b6d). 
-  
- Coexistence and Free/Busy Sharing  <br/>  Sharing calendar free/busy information between two or more on-premises Exchange organizations or sharing between two 21Vianet Office 365 tenants isn't supported. This feature is coming soon!  <br/>  Calendar sharing  <br/>  Exchange 2013 SP1 and greater supports manually configuring Internet calendar sharing with other on-premises Exchange or Exchange Online organizations. For more details about configuring this feature manually, see [Enable Internet Calendar Publishing](https://go.microsoft.com/fwlink/?LinkId=506769).  <br/> |
-|Sharing Exchange contact data on Apple mobile devices to the Apple iCloud.  <br/> |This setting/feature is enabled by default. Administrators should turn this feature off to help prevent users from sharing Exchange data outside of your organization.  <br/> |
-|Exchange Hosted Email Encryption  <br/> |Not available.  <br/> |
-|Office 365 Message Encryption  <br/> |Coming soon.  <br/> |
+
+|||  
+|---|---|
+|Coexistence and Free/Busy Sharing|Sharing calendar free/busy information between two or more on-premises Exchange organizations or sharing between two 21Vianet Office 365 tenants isn't supported. This feature is coming soon! | 
+|Calendar sharing|Exchange 2013 SP1 and greater supports manually configuring Internet calendar sharing with other on-premises Exchange or Exchange Online organizations. For more details about configuring this feature manually, see [Enable Internet Calendar Publishing](https://go.microsoft.com/fwlink/?LinkId=506769). | 
+Sharing Exchange contact data on Apple mobile devices to the Apple iCloud. |This setting/feature is enabled by default. Administrators should turn this feature off to help prevent users from sharing Exchange data outside of your organization. |
+|Exchange Hosted Email Encryption  |Not available.  |
+|Office 365 Message Encryption  |Coming soon.  |
    
 ## Office Online
 <a name="__office_web_apps"> </a>
