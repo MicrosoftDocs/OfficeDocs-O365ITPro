@@ -41,6 +41,6 @@ If you cancel an Office 365 subscription before the end of your term, the subscr
     
  **Important** If you want your subscription data to be deleted before the typical Disabled period is over, you can request expedited deprovisioning. When you request expedited deprovisioning, your subscription data is deleted within 3 days of cancellation. To use expedited deprovisioning, [call support](../contact-support-for-business-products.md).
   
-To learn more, see [What happens to my data and access when my Office 365 for business subscription ends?](../subscriptions-and-billing/what-if-my-subscription-expires-0.md)
+To learn more, see [What happens to my data and access when my Office 365 for business subscription ends?](../subscriptions-and-billing/what-if-my-subscription-expires.md)
   
 
