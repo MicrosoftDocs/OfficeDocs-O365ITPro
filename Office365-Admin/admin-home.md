@@ -36,7 +36,7 @@ Learn about resources available for Office 365 admins.
         </a>
     </li>
     <li>
-        <a href="setup/setup.md#business-essentialstabbusessentials">
+        <a href="setup/setup.md#business-essentials">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -192,10 +192,10 @@ Learn about resources available for Office 365 admins.
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Get started</h3><!-- These links to be replaced by docs.microsoft.com links when ready. -->
-                        <p><a href="/overview-0/admin-overview">Who is my admin?</a></p>
-                        <p><a href="/setup-and-install/plan-your-setup">Plan your setup</a></p>
-                        <p><a href="/user-and-passwords/add-users">Add users</a></p>
+                        <h3>Get started</h3>
+                        <p><a href="/admin-overview/admin-overview">Who is my admin?</a></p>
+                        <p><a href="/setup/plan-your-setup">Plan your setup</a></p>
+                        <p><a href="/add-users/add-users">Add users</a></p>
                     </div>
                 </div>
             </div>
@@ -206,10 +206,10 @@ Learn about resources available for Office 365 admins.
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Troubleshoot</h3><!-- These links to be replaced by docs.microsoft.com links when ready. Exception is the fwlink for "Fix Office install issues"; per supotter, it remains.-->
+                        <h3>Troubleshoot</h3>
                         <p><a href="https://go.microsoft.com/fwlink/?linkid=522692">Fix Office install issues</a></p>
                         <p><a href="https://diagnostics.outlook.com/">Fix Outlook and Office 365 problems with Microsoft Support and Recovery Assistant for Office 365</a></p>
-                        <p><a href="/troubleshoot-issues-for-office-365-admins/troubleshoot-email-issues">Fix email issues</a></p>
+                        <p><a href="/troubleshoot-issues-for-admins/troubleshoot-email-issues">Fix email issues</a></p>
                         <p><a href="https://go.microsoft.com/fwlink/?linkid=866431">Fix OneDrive for Business sync issues</a></p>
                     </div>
                 </div>
@@ -221,8 +221,8 @@ Learn about resources available for Office 365 admins.
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Learn more</h3><!-- These links to be replaced by docs.microsoft.com links when ready. Exception is the fwlink for LinkedIn Learning; per supotter, it remains.-->
-                        <p><a href="https://go.microsoft.com/fwlink/?linkid=624102">Learn about the admin center</a></p>
+                        <h3>Learn more</h3>
+                        <p><a href="about-the-admin-center.md">Learn about the admin center</a></p>
                         <p><a href="https://docs.microsoft.com/en-us/MicrosoftTeams/Microsoft-Teams">Microsoft Teams documentation</a></p>
                         <p><a href="https://go.microsoft.com/fwlink/?linkid=853063">Advanced IT Pro training from LinkedIn Learning</a></p>
                     </div>
@@ -235,9 +235,9 @@ Learn about resources available for Office 365 admins.
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Subscribe</h3><!-- These links to be replaced by docs.microsoft.com links when ready. -->
-                        <p><a href="/subscriptions-and-billing/buy-a-subscription-from-your-free-trial">Buy a subscription from your free trial</a></p>
-                        <p><a href="/subscriptions-and-billing/cancel-your-subscription">Cancel your subscription</a></p>
+                        <h3>Subscribe</h3>
+                        <p><a href="subscriptions-and-billing/buy-a-subscription-from-your-free-trial">Buy a subscription from your free trial</a></p>
+                        <p><a href="subscriptions-and-billing/cancel-your-subscription">Cancel your subscription</a></p>
                     </div>
                 </div>
             </div>
