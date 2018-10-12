@@ -36,7 +36,7 @@ Learn about resources available for Office 365 admins.
         </a>
     </li>
     <li>
-        <a href="setup/setup.md#business-essentials">
+        <a href="setup/setup.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
