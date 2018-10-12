@@ -24,9 +24,8 @@ description: "Learn how to try an Office 365 subscription or buy it right away, 
 >  This article applies to Office 365 operated by 21Vianet in China. 
     
 ## Buy or try Office 365
-<a name="__toc382575759"> </a>
 
-You can buy a subscription for Office 365 right away, or you can try Office 365 for up to 30 days. If you like it, you can buy your trial subscription and keep the domain, data, and configuration you set up in your trial.
+You can buy a subscription right away, or you can try Office 365 for up to 30 days. If you like it, you can buy your trial subscription and keep the domain, data, and configuration you set up in your trial.
   
 1. Go to [Compare Office 365 for business plans](http://go.microsoft.com/fwlink/p/?linkid=393691&amp;clcid=0x409) and click the name of the plan you want to buy. Then, click **Buy now**. 
     
@@ -35,7 +34,6 @@ You can buy a subscription for Office 365 right away, or you can try Office 365 
 3. Follow the instructions to set up your 30-day trial or to complete your purchase.
     
 ## Buy your trial subscription
-<a name="BKMK_buy_trial"> </a>
 
 1. [Sign in to Office 365](https://go.microsoft.com/fwlink/p/?linkid=513813) with your work or school account. 
     
@@ -57,7 +55,6 @@ You can buy a subscription for Office 365 right away, or you can try Office 365 
 6. Follow the steps to check out.
     
 ## Add subscriptions or add-ons to an existing Office 365 account
-<a name="__toc382575762"> </a>
 
 1. Go to **Admin** \> **Purchase services**.
     
@@ -66,7 +63,6 @@ You can buy a subscription for Office 365 right away, or you can try Office 365 
 3. Follow the instructions to complete your purchase.
     
 ## Payment options
-<a name="__toc315336073"> </a>
 
 You can pay for your subscription by:
   
