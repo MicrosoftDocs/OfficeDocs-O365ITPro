@@ -3,7 +3,6 @@ title: "Troubleshoot User not seeing add-ins"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration
