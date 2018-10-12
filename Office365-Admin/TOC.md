@@ -141,7 +141,7 @@
 ### [What is a domain?](get-help-with-domains/what-is-a-domain.md)
 ### [Buy a domain name](get-help-with-domains/buy-a-domain-name.md)
 ### [Find your domain registrar](get-help-with-domains/find-your-domain-registrar.md)
-### [DNS basics](get-help-with-domains/dns-basics-0.md)
+### [DNS basics](get-help-with-domains/dns-basics.md)
 ### [Information for DNS records](get-help-with-domains/information-for-dns-records.md)
 ### [Find and fix issues](get-help-with-domains/find-and-fix-issues.md)
 ### [Domain Connect](get-help-with-domains/domain-connect.md)
