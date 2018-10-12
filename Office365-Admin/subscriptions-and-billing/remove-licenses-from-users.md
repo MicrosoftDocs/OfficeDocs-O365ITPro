@@ -8,7 +8,7 @@ ms.topic: article
 f1_keywords:
 - 'O365P_RemoveEXOLicense'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160

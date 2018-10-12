@@ -6,7 +6,7 @@ author: supotter
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 67f6c005-2bd0-4a47-ae73-908995554537
 description: "Start your article with a very short introduction (1 sentence). Put yourself in the reader's place - why are they here? What should they do?"
 ---

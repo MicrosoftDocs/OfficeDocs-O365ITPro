@@ -11,7 +11,7 @@ f1_keywords:
 - 'fwlink 799564'
 - 'campaign ID O365_Portal_Comm_Catalog_ExtraStorage_LearnMore'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160

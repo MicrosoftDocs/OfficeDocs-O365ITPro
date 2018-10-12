@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365E_AdminSettingsEmailApp
 O365M_AdminSettingsEmailApp'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - MOE150

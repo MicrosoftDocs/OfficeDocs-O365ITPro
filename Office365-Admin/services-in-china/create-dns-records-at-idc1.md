@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_IDC'
 - 'O365E_DOM_IDC'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - GEA150

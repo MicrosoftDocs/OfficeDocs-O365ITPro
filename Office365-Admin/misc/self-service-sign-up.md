@@ -9,7 +9,7 @@ ms.topic: article
 f1_keywords:
 - 'fwlink 530261'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160

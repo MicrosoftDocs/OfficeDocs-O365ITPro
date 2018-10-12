@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365P_1stInfoRqrd'
 - 'O365P_1stDNSHoster'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection:
 - Adm_O365_Top
 - strat_admin_top

@@ -14,7 +14,7 @@ f1_keywords:
 - 'BCS365_ZTDUploadCSV'
 - 'BCS365_DeployWindowsPrep'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160

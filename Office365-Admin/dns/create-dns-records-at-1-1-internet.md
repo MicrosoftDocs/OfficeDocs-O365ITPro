@@ -12,7 +12,7 @@ f1_keywords:
 - 'O365E_DomainsWizard_DNSRecordsLimitation'
 - 'O365E_DOM_One'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup

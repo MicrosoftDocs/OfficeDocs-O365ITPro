@@ -21,7 +21,7 @@ f1_keywords:
 - 'O365E_DNSMgr_CustomDNS'
 - 'O365E_ConfigWiz_Step1_CreateDNS'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - GEA150

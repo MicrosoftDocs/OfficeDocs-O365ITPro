@@ -11,7 +11,7 @@ f1_keywords:
 - 'O365M_DOM_Whiz'
 - 'O365E_DOM_Whiz'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
