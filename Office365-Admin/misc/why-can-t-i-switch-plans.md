@@ -31,7 +31,7 @@ If you don't see the **Switch plans** button, your plan can't be switched automa
   
 ::: moniker range="o365-worldwide"
 
- **Need something else?** [Buy another subscription](../subscriptions-and-billing/buy-another-subscription.md) | [Cancel your subscription](../subscriptions-and-billing/cancel-your-subscription.md) | [Billing in Office 365 for business - Admin Help](../subscriptions-and-billing/subscriptions-and-billing.md) | [Call support](../contact-support-for-business-products.md)
+ **Need something else?** [Buy another subscription](../subscriptions-and-billing/buy-another-subscription.md) | [Cancel your subscription](../subscriptions-and-billing/cancel-your-subscription.md) | [Subscriptions and billing](../subscriptions-and-billing/subscriptions-and-billing.md) | [Call support](../contact-support-for-business-products.md)
 
 ::: moniker-end
 
