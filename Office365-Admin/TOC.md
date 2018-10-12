@@ -174,7 +174,7 @@
 ### [View your bill or get a Fapiao](services-in-china/view-your-bill-or-get-a-fapiao.md)
 ### [Apply for a Fapiao](services-in-china/apply-for-a-fapiao.md)
 ### [Initial partner.onmschina.cn domain](services-in-china/initial-partner-onmschina-cn-domain.md)
-### [21vianet-csh](.md)
+### 21vianet-csh
 #### [Create DNS records when you manage your DNS records](services-in-china/create-dns-records-when-you-manage-your-dns-records.md)
 #### [Get an ICP number for your public website](services-in-china/get-an-icp-number-for-your-public-website.md)
 #### [Create DNS records at E-business Services](services-in-china/create-dns-records-at-e-business-services.md)
