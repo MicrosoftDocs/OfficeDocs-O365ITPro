@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with 1&amp;1 Internet"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
