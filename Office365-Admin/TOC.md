@@ -133,7 +133,7 @@
 ### [What does switching plans do to my service and billing?](subscriptions-and-billing/what-does-switching-plans-do-to-my-service-and-billing.md)
 ### [Back up data before switching plans](subscriptions-and-billing/back-up-data-before-switching-plans.md)
 ### [Cancel your subscription](subscriptions-and-billing/cancel-your-subscription.md)
-### [What if my subscription expires?](subscriptions-and-billing/what-if-my-subscription-expires-0.md)
+### [What if my subscription expires?](subscriptions-and-billing/what-if-my-subscription-expires.md)
 ### [Subscriptions and licenses](subscriptions-and-billing/subscriptions-and-licenses.md)
 ### [Buy licenses](subscriptions-and-billing/buy-licenses.md)
 ### [Assign licenses to users](subscriptions-and-billing/assign-licenses-to-users.md)

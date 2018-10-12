@@ -3,7 +3,6 @@ title: "Top billing questions for Office 365 for business"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -25,9 +24,9 @@ description: "Find answers to your top billing questions for Office 365 for busi
 
 # Top billing questions for Office 365 for business
 
-Have questions about your Office 365 for business billing statement? Here are the answers to the top billing questions.
+Have questions about your billing statement? Here are the answers to the top billing questions.
   
-If you can't find an answer to your question, or you have a problem with your bill, please [contact support](https://go.microsoft.com/fwlink/p/?linkid=518322) for assistance. 
+If you can't find an answer to your question, or you have a problem with your bill, please [contact support](../contact-support-for-business-products.md) for assistance. 
   
 ::: moniker range="o365-worldwide"
 
@@ -55,7 +54,7 @@ Billing support is provided in English, Monday - Friday, from 6 AM to 5 PM Pacif
     
 - In the United Kingdom, call 0 (800) 032-6417.
     
-For more contact phone numbers by country or region, see [Contact support for business products - Admin Help](../contact-support-for-business-products.md).
+For more contact phone numbers by country or region, see [Contact support for business products](../contact-support-for-business-products.md).
   
 ::: moniker-end
 
@@ -65,13 +64,13 @@ Billing support is provided in German and English, Monday - Friday, from 9 AM to
   
 - In Germany, call 0800 589 2330.
     
-For more contact phone numbers by country or region, [Contact support for business products - Admin Help](../contact-support-for-business-products.md).
+For more contact phone numbers by country or region, [Contact support for business products](../contact-support-for-business-products.md).
   
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-For questions about Office 365 operated by 21Vianet, [Contact support for business products - Admin Help](../contact-support-for-business-products.md).
+For questions about Office 365 operated by 21Vianet, [Contact support for business products](../contact-support-for-business-products.md).
   
 ::: moniker-end
 
@@ -108,7 +107,6 @@ Yes, but you'll need to [call support](../contact-support-for-business-products.
 
 ::: moniker range="o365-worldwide"
 ## Can I get a copy of my billing statement sent via email?
-<a name="BKMK_emailPDF"> </a>
 
 Yes. To get your billing statement as an email attachment, use the following steps:
   
@@ -122,7 +120,6 @@ Yes. To get your billing statement as an email attachment, use the following ste
 
 ::: moniker range="o365-germany"
 ## Can I get a copy of my billing statement sent via email?
-<a name="BKMK_emailPDF"> </a>
 
 Yes. To get your billing statement as an email attachment, use the following steps:
   
@@ -135,12 +132,10 @@ Yes. To get your billing statement as an email attachment, use the following ste
 ::: moniker-end
 
 ## How do I cancel a subscription?
-<a name="BKMK_emailPDF"> </a>
 
-There are two ways to cancel paid or trial subscriptions: You can cancel online, or cancel by calling support. To learn more about which method you can use, depending on your circumstances, see [Cancel Office 365 for business](../subscriptions-and-billing/cancel-your-subscription.md).
+There are two ways to cancel paid or trial subscriptions: You can cancel online, or cancel by calling support. To learn more about which method you can use, depending on your circumstances, see [Cancel your subscription](../subscriptions-and-billing/cancel-your-subscription.md).
   
 ## How do I see my current order balance?
-<a name="BKMK_emailPDF"> </a>
 
 The total that is displayed on the **Bills** page is the invoice balance - the total as of the invoice date. In the screenshot below, the invoice balance is $68.44. To see your current order balance, choose **View details** on your most recent order. 
   
@@ -166,7 +161,6 @@ See [View your bill or get Fapiaos in Office 365 operated by 21Vianet](../servic
   
 ::: moniker range="o365-worldwide"
 ## What taxes will I be charged?
-<a name="BKMK_emailPDF"> </a>
 
 See [What tax will I be charged for Office 365?](../subscriptions-and-billing/apply-for-tax-exempt-status.md) to find out what tax you're charged, depending on your country or region. 
   
@@ -174,7 +168,6 @@ See [What tax will I be charged for Office 365?](../subscriptions-and-billing/ap
 
 ::: moniker range="o365-worldwide"
 ## How do I apply for tax exempt status?
-<a name="BKMK_emailPDF"> </a>
 
 You can [Apply for tax exempt status for Office 365 for business](../subscriptions-and-billing/apply-for-tax-exempt-status.md) by providing the proper documentation to Support. 
   
@@ -182,7 +175,6 @@ You can [Apply for tax exempt status for Office 365 for business](../subscriptio
 
 ::: moniker range="o365-germany"
 ## What taxes will I be charged?
-<a name="BKMK_emailPDF"> </a>
 
 See [What tax will I be charged for Office 365?](../subscriptions-and-billing/apply-for-tax-exempt-status.md) to find out what tax you're charged, depending on your country or region. 
   
@@ -190,14 +182,12 @@ See [What tax will I be charged for Office 365?](../subscriptions-and-billing/ap
 
 ::: moniker range="o365-germany"
 ## How do I apply for tax exempt status?
-<a name="BKMK_emailPDF"> </a>
 
 You can [Apply for tax exempt status for Office 365 for business](../subscriptions-and-billing/apply-for-tax-exempt-status.md) by providing the proper documentation to Support. 
   
 ::: moniker-end
 
 ## How do I view and print my bill?
-<a name="BKMK_emailPDF"> </a>
 
 1. On the **Bills** page, choose a month and a year, and then choose **Show**.
     
@@ -224,6 +214,5 @@ To learn more, see [View your bill or get Fapiaos in Office 365 operated by 21Vi
 ::: moniker-end
 
 ## Why don't I see any bills?
-<a name="BKMK_emailPDF"> </a>
 
 If you have only trial subscriptions or if you used a prepaid product key that you bought at a retail store or from an Office 365 partner, you won't have any bills.
