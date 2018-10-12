@@ -2,7 +2,6 @@
 title: "Admin home"
 ms.author: supotter
 author: supotter
-
 ms.audience: Admin
 ms.topic: landing-page
 layout: LandingPage
@@ -54,7 +53,7 @@ Learn about resources available for Office 365 admins.
         </a>
     </li>
     <li>
-        <a href="contact-support-for-business-products">
+        <a href="contact-support-for-business-products.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
