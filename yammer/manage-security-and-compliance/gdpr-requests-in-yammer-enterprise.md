@@ -58,103 +58,6 @@ If needed, change the settings to **Hard Delete**.
     
 3. Select **Hard Delete**.
 
-<a name="RemoveUser"> </a>    
-## Erase a user from your Yammer home network and external networks
-
-> [!IMPORTANT]
-> When you erase a user, there is a 14-day window for you to review their files and messages in the home network before the user-identifying data is completely erased. If you want to review the user's messages and files, be sure to export user data prior to erasing the user's account, or within 14 days after selecting **Erase this user**. After the 14-day window, files and messages will continue to exist but will be marked as belonging to a former user.<br><br>After a user's account transitions from deactivated to removed, you can no longer associate user data with the user, which means you can no longer export and review their data. 
-  
-> [!IMPORTANT]
-> If you want to review and delete messages and files in external groups, external threads, and networks that the user is a guest member in, follow the instructions in [Export data for one user](gdpr-requests-in-yammer-enterprise.md#ExportUser) and [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles) *before*  erasing the user. As soon as you click **Erase this user**, you will no longer be able to associate the user with these messages and files. 
-  
-> [!IMPORTANT]
-> Removing a user from their home Yammer network will also remove them from all external networks. You must remove guest users separately in each external network they are a member of. 
-  
-When you erase a user, the following user data is deleted:
-  
-- Who the person is following, the connection to conversations and topics they were following, and the connection to users who were following them
-    
-- Bookmarks, language preferences, notification settings, and account activity
-    
-- Profile
-    
-- Group memberships
-    
-- The list of networks they were a member of
-    
-As an admin, you can remove a user from your home network and from any external networks they belong to. A user can also remove themself from an external network.
-  
- **Remove a user (done by admin)**
-  
-1. In the Yammer admin center, go to **Users** \> **Remove Users**.
-    
-2. Enter an existing user's name. After you select the user, the options for removal are displayed.
-    
-    ![After you select a name, the remove user options are displayed.](../media/a48da79c-7f5f-479b-8b75-a3e67285c141.png)
-  
-      - If you want to keep all the user's files and messages, select **Erase this user**.
-    
-      - If you want to review the user's messages and files, and if you have already reviewed and deleted any messages or files in external groups, threads, or networks the user is a guest member in:
-    
-        1. Select **Erase this user. Wipe their name and personal information, but leave their messages. (Can't be undone after 14 days):** This deactivates the user for 14 days so that you can export user data and evaluate home network files and messages before the user is permanently deleted.
-            
-        This option marks the user as deactivated. The deactivated user is listed on the **Remove Users** page. Within 14 days, you can reactivate the user. 
-    
-        ![Deactivated user list](../media/162b43ed-acd1-4085-8073-b43845c30999.png)
-  
-        After 14 days, a message is sent to all the networks admins and verified admins informing them the user has been deleted.
-    
-        2. Click **Submit**.
-        
-        3. In the confirmation dialog, click **Yes, Permanently Delete Account**. 
-    
-        4. Within the 14 days, follow the directions in [Export data for one user](gdpr-requests-in-yammer-enterprise.md#ExportUser) and [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles).
-    
-  - If you want to delete all a user's messages before you erase the user:
-
-      1. Select **Permanently remove this user and remove their messages**, and then click **Submit**.
-      2. When that completes, select **Erase this user**. This removes the user's name and activity data.
-    
- **Remove a user from an external network (done by user)**
-  
-> [!NOTE]
-> If the user wants to remove files or messages they posted on an external network, they should do so before they delete their account on the external network. 
-  
-1. Click the Settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png).
-    
-2. Click **Edit Settings**.
-    
-3. On the **Network** tab, click **Delete Account**.
-    
-<a name="RemoveGroup"> </a>
-## Remove a user from a group including an external group
-
-1. In the group, click **Members**.
-    
-2. Click the Settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) next to the user's name. 
-    
-3. Click **Remove from group**.
-    
-## Remove an external participant from a conversation
-<a name="RemoveThread"> </a>
-
-- In the Yammer conversation, click **Remove Participants**. 
-    
-<a name="Reactivate"> </a>
-## Reactivate a deactivated account after using Erase this user
-
-When a user's account gets deactivated by using the **Erase this user** option, you have 14 days to reactivate the user. 
-  
-1. Go to the Yammer Admin center.
-    
-2. Click **Remove Users**. 
-    
-3. Go to the **Deactivated Users** section. This section will only be visible when there is at least one deactivated user account. 
-    
-4. Click **Reactivate** for each user you want to reactivated. 
-    
-    After 14 days, the user cannot be reactivated.
-    
 <a name="ExportUser"> </a>
 ## Export data for one user
 
@@ -244,7 +147,107 @@ A user can edit their own profile. Administrators can't change the user profile 
     
   - To see what applications you've installed, select **My Applications**. 
     
-  - To set preferences, select **Preferences**. 
+  - To set preferences, select **Preferences**.
+    
+<a name="RemoveGroup"> </a>
+## Remove a user from a group including an external group
+
+1. In the group, click **Members**.
+    
+2. Click the Settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) next to the user's name. 
+    
+3. Click **Remove from group**.
+    
+## Remove an external participant from a conversation
+<a name="RemoveThread"> </a>
+
+- In the Yammer conversation, click **Remove Participants**. 
+    
+
+ 
+    
+<a name="RemoveUser"> </a>    
+## Erase a user from your Yammer home network and external networks
+
+> [!IMPORTANT]
+> When you erase a user, there is a 14-day window for you to review their files and messages in the home network before the user-identifying data is completely erased. If you want to review the user's messages and files, be sure to export user data prior to erasing the user's account, or within 14 days after selecting **Erase this user**. After the 14-day window, files and messages will continue to exist but will be marked as belonging to a former user.<br><br>After a user's account transitions from deactivated to removed, you can no longer associate user data with the user, which means you can no longer export and review their data. 
+  
+> [!IMPORTANT]
+> If you want to review and delete messages and files in external groups, external threads, and networks that the user is a guest member in, follow the instructions in [Export data for one user](gdpr-requests-in-yammer-enterprise.md#ExportUser) and [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles) *before*  erasing the user. As soon as you click **Erase this user**, you will no longer be able to associate the user with these messages and files. 
+  
+> [!IMPORTANT]
+> Removing a user from their home Yammer network will also remove them from all external networks. You must remove guest users separately in each external network they are a member of. 
+  
+When you erase a user, the following user data is deleted:
+  
+- Who the person is following, the connection to conversations and topics they were following, and the connection to users who were following them
+    
+- Bookmarks, language preferences, notification settings, and account activity
+    
+- Profile
+    
+- Group memberships
+    
+- The list of networks they were a member of
+    
+As an admin, you can remove a user from your home network and from any external networks they belong to. A user can also remove themself from an external network.
+  
+ **Remove a user (done by admin)**
+  
+1. In the Yammer admin center, go to **Users** \> **Remove Users**.
+    
+2. Enter an existing user's name. After you select the user, the options for removal are displayed.
+    
+    ![After you select a name, the remove user options are displayed.](../media/a48da79c-7f5f-479b-8b75-a3e67285c141.png)
+  
+      - If you want to keep all the user's files and messages, select **Erase this user**.
+    
+      - If you want to review the user's messages and files, and if you have already reviewed and deleted any messages or files in external groups, threads, or networks the user is a guest member in:
+    
+        1. Select **Erase this user. Wipe their name and personal information, but leave their messages. (Can't be undone after 14 days):** This deactivates the user for 14 days so that you can export user data and evaluate home network files and messages before the user is permanently deleted.
+            
+        This option marks the user as deactivated. The deactivated user is listed on the **Remove Users** page. Within 14 days, you can reactivate the user. 
+    
+        ![Deactivated user list](../media/162b43ed-acd1-4085-8073-b43845c30999.png)
+  
+        After 14 days, a message is sent to all the networks admins and verified admins informing them the user has been deleted.
+    
+        2. Click **Submit**.
+        
+        3. In the confirmation dialog, click **Yes, Permanently Delete Account**. 
+    
+        4. Within the 14 days, follow the directions in [Export data for one user](gdpr-requests-in-yammer-enterprise.md#ExportUser) and [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles).
+    
+  - If you want to delete all a user's messages before you erase the user:
+
+      1. Select **Permanently remove this user and remove their messages**, and then click **Submit**.
+      2. When that completes, select **Erase this user**. This removes the user's name and activity data.
+    
+ **Remove a user from an external network (done by user)**
+  
+> [!NOTE]
+> If the user wants to remove files or messages they posted on an external network, they should do so before they delete their account on the external network. 
+  
+1. Click the Settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png).
+    
+2. Click **Edit Settings**.
+    
+3. On the **Network** tab, click **Delete Account**.
+ 
+<a name="Reactivate"> </a>
+## Reactivate a deactivated account after using Erase this user
+
+When a user's account gets deactivated by using the **Erase this user** option, you have 14 days to reactivate the user. 
+  
+1. Go to the Yammer Admin center.
+    
+2. Click **Remove Users**. 
+    
+3. Go to the **Deactivated Users** section. This section will only be visible when there is at least one deactivated user account. 
+    
+4. Click **Reactivate** for each user you want to reactivated. 
+    
+    After 14 days, the user cannot be reactivated.
     
 ## See also
 
