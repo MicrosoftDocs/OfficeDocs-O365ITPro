@@ -3,7 +3,7 @@ title: "Manage GDPR data subject requests in Yammer Enterprise"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 5/25/2018
+ms.date: 10/11/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -18,9 +18,27 @@ description: "Erase all information about a Yammer user to comply with GDPR data
 
 # Manage GDPR data subject requests in Yammer Enterprise
 
-As a verified admin, you can erase a user from Yammer to comply with a [General Data Protection Regulation (GDPR) data subject request](https://go.microsoft.com/fwlink/?linkid=874693). You can decide whether to delete all files and messages created or modified by the user, or review files and messages and decide which to keep and which to delete. If you erase the user and keep the user's messages or files, the messages and files will be identified with an ID, but not with the user's name.
+As a verified admin, you can erase a user from Yammer to comply with a [General Data Protection Regulation (GDPR) data subject request](https://go.microsoft.com/fwlink/?linkid=874693). 
+
+> [!IMPORTANT]
+>To delete content to honor a GDPR data subject request, your network data retention setting must be set to **Hard Delete**.
+
+When you erase a user, personally identifying information about the user is removed. Any content associated with the user that isn't deleted will be identified with an ID, but not with the user's name.
+
+Choose the approach that makes sense for how to handle messages and files posted by the user, and **follow the steps in the order listed**.
+
+|||
+|:-----|:-----|
+|**Approach**|**Steps**|
+|Keep all messages and files created by the user.|1. Erase the user.|
+|Delete all messages created by the user, review files; user is not a member of any external networks|1. Do a per-user export of the user's data.<br>2. Remove user using the option to delete messages.<br>3. Erase the user.<br> 4. Within 14 days, review files and delete them manually.<br>5. Within 14 days, remove information not included in the per user export.|
+|Delete all messages created by the user, user is a member of external networks|1. Do a per-user export of the user's data for your home network, and for all external networks<br>2. For each external network, erase the user from that network, and within 14 days, review files and delete them manually and also remove information not included in the per user export.<br>3. For your home network, erase the user, and within 1 days, review files and delete them manually and also remove information not included in the per-user export|
+|Review files and messages created by the user and decide which to keep and which to delete; user is a member of external networks.|Repeat the following steps first for any external networks the user is a member of, and then for the home network:<br>1. Do a per-user export of the user's data.<br>2. Erase the user.<br> 3. Within 14 days, review files and messages and delete them manually.<br>Within 14 days, remove information not included in the per user export.|
+
+
+
   
-To delete content to honor a GDPR data subject request, your network data retention setting must be set to **Hard Delete**.
+
   
   <a name="DataRetention"> </a>  
 ## Ensure your network data retention policy is set to Hard Delete before deleting a user or the user's data
@@ -70,9 +88,6 @@ When you erase a user, the following user data is deleted:
     
 - The list of networks they were a member of
     
-<a name="RemoveUserHomeExternal"> </a>
-## Remove a user from your home network and external network
-
 As an admin, you can remove a user from your home network and from any external networks they belong to. A user can also remove themself from an external network.
   
  **Remove a user (done by admin)**
