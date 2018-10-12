@@ -3,7 +3,6 @@ title: "Create DNS records for Office 365 using Windows-based DNS"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -16,7 +15,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 9eec911d-5773-422c-9593-40e1147ffbde
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Windows-based DNS for Office 365."
 ---
 
