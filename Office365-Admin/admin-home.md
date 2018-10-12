@@ -54,7 +54,7 @@ Learn about resources available for Office 365 admins.
         </a>
     </li>
     <li>
-        <a href="contact-support-for-business-products">
+        <a href="contact-support-for-business-products.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -90,7 +90,7 @@ Learn about resources available for Office 365 admins.
         </a>
     </li>
     <li>
-        <a href="security-and-compliance/set-up-multi-factor-authentication">
+        <a href="security-and-compliance/set-up-multi-factor-authentication.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -193,9 +193,9 @@ Learn about resources available for Office 365 admins.
                 <div class="card">
                     <div class="cardText">
                         <h3>Get started</h3>
-                        <p><a href="/admin-overview/admin-overview">Who is my admin?</a></p>
-                        <p><a href="/setup/plan-your-setup">Plan your setup</a></p>
-                        <p><a href="/add-users/add-users">Add users</a></p>
+                        <p><a href="/admin-overview/admin-overview.md">Who is my admin?</a></p>
+                        <p><a href="/setup/plan-your-setup.md">Plan your setup</a></p>
+                        <p><a href="/add-users/add-users.md">Add users</a></p>
                     </div>
                 </div>
             </div>
@@ -209,7 +209,7 @@ Learn about resources available for Office 365 admins.
                         <h3>Troubleshoot</h3>
                         <p><a href="https://go.microsoft.com/fwlink/?linkid=522692">Fix Office install issues</a></p>
                         <p><a href="https://diagnostics.outlook.com/">Fix Outlook and Office 365 problems with Microsoft Support and Recovery Assistant for Office 365</a></p>
-                        <p><a href="/troubleshoot-issues-for-admins/troubleshoot-email-issues">Fix email issues</a></p>
+                        <p><a href="troubleshoot-issues-for-admins/troubleshoot-email-issues.md">Fix email issues</a></p>
                         <p><a href="https://go.microsoft.com/fwlink/?linkid=866431">Fix OneDrive for Business sync issues</a></p>
                     </div>
                 </div>
@@ -236,8 +236,8 @@ Learn about resources available for Office 365 admins.
                 <div class="card">
                     <div class="cardText">
                         <h3>Subscribe</h3>
-                        <p><a href="subscriptions-and-billing/buy-a-subscription-from-your-free-trial">Buy a subscription from your free trial</a></p>
-                        <p><a href="subscriptions-and-billing/cancel-your-subscription">Cancel your subscription</a></p>
+                        <p><a href="subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md">Buy a subscription from your free trial</a></p>
+                        <p><a href="subscriptions-and-billing/cancel-your-subscription.md">Cancel your subscription</a></p>
                     </div>
                 </div>
             </div>
