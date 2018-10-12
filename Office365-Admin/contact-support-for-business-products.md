@@ -292,9 +292,9 @@ If your Office 365 or Microsoft 365 Business support phone number isn't listed a
   
 Save time by starting your service request online. We'll help you find a solution or connect you to an expert who will contact you by email or phone. [Learn about initial support response times](https://go.microsoft.com/fwlink/p/?LinkId=518251).
 
-1. [Sign in with your Office 365 admin account](https://aka.ms/admincenter). If you get the message "**You don't have permission to access this page or perform this action**" then you aren't an Office 365 admin. [Who has admin permissions in my business?](overview-0/admin-overview.md#bkmk_admin).
+1. [Sign in with your Office 365 admin account](https://aka.ms/admincenter). If you get the message "**You don't have permission to access this page or perform this action**" then you aren't an Office 365 admin. [Who has admin permissions in my business?](admin-overview/admin-overview.md#who-has-admin-permissions-in-my-business).
     
-2. In the [Office 365 admin center](https://go.microsoft.com/fwlink/p/?linkid=837890), choose the **Need help?** button.
+2. In the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=837890), choose the **Need help?** button.
 
 3. In the **Need help?** pane, tell us what you need help with, then press **Enter**. 
     
@@ -314,7 +314,7 @@ The 21Vianet Office 365 technical support team troubleshoots only those issues t
   
 ### Community and self-service support options
 
-Self-service support is available for all Office 365 operated by 21Vianet users, and includes troubleshooting tools and videos, help articles and videos, as well as forums and wikis in the [Office 365 community](https://go.microsoft.com/fwlink/p/?linkid=842838). For more self-help resources, see [Learn about Office 365 operated by 21Vianet](office-365-operated-by-21vianet/office-365-operated-by-21vianet.md).
+Self-service support is available for all Office 365 operated by 21Vianet users, and includes troubleshooting tools and videos, help articles and videos, as well as forums and wikis in the [Office 365 community](https://go.microsoft.com/fwlink/p/?linkid=842838). For more self-help resources, see [Learn about Office 365 operated by 21Vianet](/services-in-china/services-in-china.md).
   
 ### Pre-sales support
 
