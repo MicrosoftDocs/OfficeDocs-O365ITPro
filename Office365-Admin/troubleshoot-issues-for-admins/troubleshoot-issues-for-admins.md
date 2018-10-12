@@ -74,7 +74,7 @@ When you install Office it's automatically linked to your Office 365 plan. This 
     
     **Firefox**
     
-    1. Select **Save File**, and then **OK**.<br/>![Save O15CTRRemove diagcab file in Firefox](../media/b153dec9-ab5c-4be4-b3aa-4082761eeb51.png)<br/>In the upper-right browser window, select **Show all downloads**. In the Library, select **Downloads** \> **O15CTRRemove.diagcab**, and then select the folder icon. Double-click the **O15CTRRemove.diagcab**.
+    1. Select **Save File**, and then **OK**.<br/>![Save O15CTRRemove diagcab file in Firefox](../media/b153dec9-ab5c-4be4-b3aa-4082761eeb51.png)  <br/>In the upper-right browser window, select **Show all downloads**. In the Library, select **Downloads** \> **O15CTRRemove.diagcab**, and then select the folder icon. Double-click the **O15CTRRemove.diagcab**.
     
     2. The Uninstall Microsoft Office wizard launches. Select **Next** and follow the prompts. 
     
@@ -86,7 +86,7 @@ When you install Office it's automatically linked to your Office 365 plan. This 
   
 To reinstall newer versions of Office, follow the steps in [Download and install or reinstall Office on your PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=SCL_DemsToken_262f265f-4c5e-4c46-852f-2a3890829d34).
   
-To reinstall Office 2016 or Office 2013, see [Download and install or reinstall Office 2016 or Office 2013](7c695b06-6d1a-4917-809c-98ce43f86479.md).
+To reinstall Office 2016 or Office 2013, see [Download and install or reinstall Office 2016 or Office 2013](https://support.office.com/article/download-and-install-or-reinstall-office-2016-or-office-2013-7c695b06-6d1a-4917-809c-98ce43f86479) .
   
 ## I have a different problem
 
