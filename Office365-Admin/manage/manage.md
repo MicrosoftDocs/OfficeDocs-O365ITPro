@@ -2,7 +2,6 @@
 title: "Manage"
 ms.author: supotter
 author: supotter
-
 ms.audience: Admin
 ms.topic: landing-page
 layout: LandingPage

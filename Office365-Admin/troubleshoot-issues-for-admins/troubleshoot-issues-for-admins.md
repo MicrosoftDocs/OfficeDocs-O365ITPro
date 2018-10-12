@@ -3,7 +3,6 @@ title: "Troubleshoot issues for Office 365 admins"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration
@@ -75,7 +74,7 @@ When you install Office it's automatically linked to your Office 365 plan. This 
     
     **Firefox**
     
-    1. Select **Save File**, and then **OK**.<br/>![Save O15CTRRemove.diagcab file in Firefox](../media/b153dec9-ab5c-4be4-b3aa-4082761eeb51.png)<br/>In the upper-right browser window, select **Show all downloads**. In the Library, select **Downloads** \> **O15CTRRemove.diagcab**, and then select the folder icon. Double-click the ** O15CTRRemove.diagcab **.
+    1. Select **Save File**, and then **OK**.<br/>![Save O15CTRRemove diagcab file in Firefox](../media/b153dec9-ab5c-4be4-b3aa-4082761eeb51.png)<br/>In the upper-right browser window, select **Show all downloads**. In the Library, select **Downloads** \> **O15CTRRemove.diagcab**, and then select the folder icon. Double-click the **O15CTRRemove.diagcab**.
     
     2. The Uninstall Microsoft Office wizard launches. Select **Next** and follow the prompts. 
     
