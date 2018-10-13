@@ -3,7 +3,6 @@ title: "Create DNS records at Network Information Center (NIC) for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 8b0ae817-f090-475f-92ba-1fb3239c1e63
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at NIC for Office 365."
 ---
 

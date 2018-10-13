@@ -3,7 +3,6 @@ title: "Create DNS records at GoDaddy for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -22,7 +21,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: f40a9185-b6d5-4a80-bb31-aa3bb0cab48a
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at GoDaddy for Office 365."
 ---
 

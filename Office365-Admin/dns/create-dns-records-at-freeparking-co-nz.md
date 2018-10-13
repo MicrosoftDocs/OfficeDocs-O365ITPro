@@ -3,7 +3,6 @@ title: "Create DNS records at Freeparking.co.nz for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: b22df8b4-7d3a-4327-af90-5bacbb3c11ee
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Freeparking.co.nz for Office 365."
 ---
 

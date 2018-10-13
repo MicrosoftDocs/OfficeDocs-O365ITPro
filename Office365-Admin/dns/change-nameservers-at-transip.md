@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with TransIP"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5d4ee399-0ad6-43c5-b977-4cba390b3f64
-
 description: "Learn to set up your Office 365 custom domain with TransIP if you want Office 365 to manage your DNS records. "
 ---
 

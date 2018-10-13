@@ -3,7 +3,6 @@ title: "Create DNS records at Google Domains for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 0db29490-2612-48bc-9b77-1862e7a41a8c
-
 description: "Learn to verify your domain and set up DNS records for email, Lync, and other services at Google Domains for Office 365."
 ---
 

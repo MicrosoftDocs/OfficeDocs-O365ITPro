@@ -3,7 +3,6 @@ title: "Troubleshooting distribution list issues"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration

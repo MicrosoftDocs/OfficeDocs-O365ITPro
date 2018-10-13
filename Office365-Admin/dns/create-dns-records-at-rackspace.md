@@ -3,7 +3,6 @@ title: "Create DNS records at Rackspace for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -14,7 +13,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 1f51b14b-78fc-4c77-8beb-c11fbdea3379
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Rackspace for Office 365."
 ---
 

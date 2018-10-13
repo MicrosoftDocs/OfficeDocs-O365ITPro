@@ -3,7 +3,6 @@ title: "Create DNS records at Names.co.uk for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: b6c15128-b456-49b4-8b5e-5b823c700f26
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Names.co.uk for Office 365."
 ---
 

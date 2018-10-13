@@ -3,7 +3,6 @@ title: "Troubleshoot User not seeing add-ins"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration
@@ -73,5 +72,5 @@ Users can't see add-in? Try one of these:
     
 ## See also
 
-[Manage deployment of Office 365 add-ins in the Office 365 admin center](737e8c86-be63-44d7-bf02-492fa7cd9c3f.md)
+[Manage deployment of Office 365 add-ins in the Office 365 admin center](https://support.office.com/article/737e8c86-be63-44d7-bf02-492fa7cd9c3f)
 

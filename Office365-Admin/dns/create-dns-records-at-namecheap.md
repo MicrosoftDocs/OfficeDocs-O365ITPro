@@ -3,7 +3,6 @@ title: "Create DNS records at Namecheap for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -16,7 +15,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 54ae2002-b38e-43a1-82fa-3e49d78fda56
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Namecheap for Office 365."
 ---
 

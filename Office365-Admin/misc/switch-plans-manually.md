@@ -67,7 +67,7 @@ Make sure you purchase a subscription for the same organization that the users a
   
     [What about the old licenses?](#what-about-the-old-licenses)
     
-## The new subscription isn't listed, or isn't active
+### The new subscription isn't listed, or isn't active
 
 - **If you purchased a subscription by invoice** and a credit check is required, it can take up to two working days before the subscription is available. 
     
@@ -75,7 +75,7 @@ Make sure you purchase a subscription for the same organization that the users a
     
 - **If you know you have an additional subscription**, and it's not listed here, or not listed under **ACTIVE**, [call support](../contact-support-for-business-products.md).
     
-## What about the old licenses?
+### What about the old licenses?
 
 The licenses for the current subscription will be removed later; you'll only pay for the new user licenses from then on.
   
@@ -121,7 +121,8 @@ The licenses for the current subscription will be removed later; you'll only pay
 5. Switch the toggle to the **On** position for the products you want to assign to these users. 
     
     > [!TIP]
-    >  To limit which services are available to the user, switch to toggles to the **Off** position for the services that you want to remove for that user. For example, if you want the user to have access to all available services except Skype for Business Online, you can switch the toggle for the Skype for Business Online service to the **Off** position. >  Any previous license assignments for the selected users will be removed. 
+    > - To limit which services are available to the user, switch to toggles to the **Off** position for the services that you want to remove for that user. For example, if you want the user to have access to all available services except Skype for Business Online, you can switch the toggle for the Skype for Business Online service to the **Off** position. 
+    > - Any previous license assignments for the selected users will be removed. 
   
     ![Setting license assignments for a user.](../media/5e53a979-6b08-4981-bb0b-fa657146334b.png)
   

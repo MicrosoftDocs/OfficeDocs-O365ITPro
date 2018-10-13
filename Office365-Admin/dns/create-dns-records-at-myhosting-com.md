@@ -3,7 +3,6 @@ title: "Create DNS records at myhosting.com for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: eaf0adf4-bb52-4152-9ab8-0ee26c30fd46
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at myhosting.com for Office 365."
 ---
 

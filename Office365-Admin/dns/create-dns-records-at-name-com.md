@@ -3,7 +3,6 @@ title: "Create DNS records at name.com for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 9ddcc2fc-9433-4335-8192-6ffb1f541087
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at name.com for Office 365."
 ---
 

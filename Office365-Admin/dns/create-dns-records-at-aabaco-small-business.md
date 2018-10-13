@@ -3,7 +3,6 @@ title: "Create DNS records at Aabaco Small Business for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 53d1daba-6a4f-4814-8a68-8ad3d031463e
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Aabaco Small Business for Office 365."
 ---
 

@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Wix"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration

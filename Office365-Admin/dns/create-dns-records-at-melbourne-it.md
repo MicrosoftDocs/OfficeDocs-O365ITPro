@@ -3,7 +3,6 @@ title: "Create DNS records at Melbourne IT for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 52f7a42f-e49c-42ca-910f-9448625f30a0
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Melbourne IT for Office 365."
 ---
 

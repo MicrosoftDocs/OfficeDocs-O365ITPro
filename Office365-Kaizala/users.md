@@ -23,7 +23,7 @@ description: Learn how to create Kaizala users such that they can send instant m
 Before you can send instant messages, pictures, and documents, or setup a new poll or survey, you'll have to create Kaizala users. You can add users individually or in bulk. For managing users in groups, check out [Kaizala groups](groups.md).
   
 ## View all users in an organization
-<a name="__top"> </a>
+
 
 On the Kaizala management portal, from the left navigation pane, choose **Users**. You'll see a list of all users that have possible access to your organization. This includes all users who were uploaded directly through the **Upload User** process, along with the members of organization groups, mapped to your organization. 
     
@@ -52,7 +52,7 @@ Kaizala organization admins can define and manage user attributes for an organiz
 - Once you've finalized the list of attributes, click **Save** to add the new changes to the organization's attribute list. 
     
 ## Add users in bulk to your organization
-<a name="__top"> </a>
+
 
 If you want to add several users without using the comma separated list, you can do so using **Bulk upload**. 
   
@@ -72,7 +72,7 @@ If you want to add several users without using the comma separated list, you can
 > You can update info for an existing user by re-uploading the file with updated data for that user. 
   
 ## Find history of all user upload operations
-<a name="__top"> </a>
+
 
 - Click **Users** \> **Add users**. Then select **View Import History** from the drop-down. 
     
@@ -97,7 +97,7 @@ If you want to add several users without using the comma separated list, you can
   - **Download** - clicking the icon downloads the originally uploaded file. 
     
 ## Export users' data for your organization
-<a name="__top"> </a>
+
 
 - Click **Users** \> **Export Users**. Then select **Create New Request**. 
     
@@ -106,7 +106,7 @@ If you want to add several users without using the comma separated list, you can
 - On the **Export History** page, you can check the status of the export request. Click **Refresh** to get the latest status. If the status is Completed, you can download the requested file by clicking on the download icon beside the specific request. 
     
 ## Find history of all export users operation
-<a name="__top"> </a>
+
 
 - Click **Users** \> **Export Users**. Then select **View Export History**. 
     
@@ -131,7 +131,7 @@ If you want to add several users without using the comma separated list, you can
   - **Download** - Clicking the icon downloads the requested export file. 
     
 ## Find a detailed view of user's profile in the organization
-<a name="__top"> </a>
+
 
 To find a detailed view of a user's profile:
   
@@ -140,7 +140,7 @@ To find a detailed view of a user's profile:
 - Click on the phone number for that user to see a detailed view.
     
 ## Remove a user from a Kaizala group
-<a name="__top"> </a>
+
 
 - Click **Users**. Then select a user from the user list for your organization. 
     
@@ -149,7 +149,7 @@ To find a detailed view of a user's profile:
 - On the details page for the user, click **Delete**. Clicking **Delete** will remove the user from the organization. Once you delete a user, they get removed from all organizational groups on Kaizala. All data, including messages, Kaizala Actions and attachments for these groups will be deleted from their device. 
     
 ## Kaizala user roles
-<a name="__top"> </a>
+
 
 There are 3 different user roles in Kaizala. Here are the available roles and what people assigned to them can do.
   

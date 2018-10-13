@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Strato"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -13,7 +12,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 8d1f0c62-5bec-44ac-8329-f985caefb367
-
 description: "Learn to set up your Office 365 custom domain with Strato if you want Office 365 to manage your DNS records. "
 ---
 

@@ -3,7 +3,6 @@ title: "Create DNS records at Media Temple for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -16,7 +15,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5831648d-f334-4cbe-919f-0dc02654eb3b
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Media Temple for Office 365."
 ---
 

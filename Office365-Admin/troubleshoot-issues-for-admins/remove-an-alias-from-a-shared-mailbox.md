@@ -3,7 +3,6 @@ title: "Troubleshoot Remove an alias from a shared mailbox"
 ms.author: anfowler
 author: anfowler
 manager: scotv
-
 ms.audience: Admin
 ms.topic: troubleshooting
 f1_keywords:
