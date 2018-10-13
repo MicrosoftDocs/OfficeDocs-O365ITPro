@@ -17,7 +17,7 @@ description: "Learn about the Office 365 security features that can be used to h
 
 # Office 365 HIPAA compliance
 
- **Using Office 365 to Manage HIPAA Security Rule Compliance in a Small Practice**
+ ## Using Office 365 to Manage HIPAA Security Rule Compliance in a Small Practice
   
 The Office 365 suite by Microsoft includes Word, Excel, PowerPoint, OneNote, Outlook, Publisher, and Access. Once you integrate the featured security products outlined in the Security Best Practices for Office 365 roadmap to your installed suite package, it does all the work for you.
   
@@ -42,7 +42,7 @@ The following table lists and describes various Office 365's security features t
 |[Mobile Device Management in Office 365](https://support.office.com/en-us/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |You can use Office 365 to help secure and manage any device that uses Exchange ActiveSync to sync with your organization's email, calendar, contacts, and tasks. Using the Office 365 and Exchange admin centers, you can perform common mobile device management tasks, like setting device access rules, viewing device reports, and remotely wiping devices that have been lost or stolen.  <br/> |
 |[Transport Rules in Office 365](https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules) <br/> |With Transport Rules, you can look for specific conditions in the messages that pass through your organization and take action on them. Transport rules let you apply your business policies to email messages. They can also help you secure messages, protect messaging systems, and prevent information loss. You can use the Exchange Admin Center or Windows PowerShell to manage Transport Rules.  <br/> |
    
- **Office 365** ** helps you meet the compliance requirements to the HIPAA Security Rule by: **
+ Office 365 helps you meet the compliance requirements to the HIPAA Security Rule by:
   
 - Entering into a business associate agreement (BAA) with the covered entities for Office 365 and Microsoft Dynamics CRM Online. This agreement ascertains the adherence of the business associate (Microsoft) to the prescriptions and recommendations of HIPAA.
     
@@ -52,7 +52,7 @@ The following table lists and describes various Office 365's security features t
     
 - Multi-factor authentication, which adds another layer of security over the traditional password based authentication. This prevents unfamiliar devices from logging in to an Office 365 or Outlook email account in the event of a password getting compromised.
     
- **Next steps** **:**
+## Next steps
   
 1. Get started with Office 365 for business and learn about all the things it has to offer.
     
