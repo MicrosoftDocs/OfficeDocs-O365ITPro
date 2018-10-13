@@ -18,7 +18,7 @@ description: "Erase all information about a Yammer user to comply with GDPR data
 
 # Manage GDPR data subject requests in Yammer Enterprise
 
-As a verified admin, you can erase a user from Yammer to comply with a [General Data Protection Regulation (GDPR) data subject request](https://go.microsoft.com/fwlink/?linkid=874693). When you erase a user, personally identifying information about the user is removed. This does not remove the user's messages or files. You can review a user's messages and files, and decide which ones to delete. Any content associated with the user that remains will be identified with an ID, but not with the user's name.
+As a verified admin, you can erase a user from Yammer to comply with a [General Data Protection Regulation (GDPR) data subject request](https://go.microsoft.com/fwlink/?linkid=874693). When you erase a user, personally identifying information about the user is removed. This does not remove the user's messages or files. You can review a user's messages and files in order to decide which ones to delete. Any content associated with the user that remains will be identified with an ID, but not with the user's name.
 
 > [!IMPORTANT] 
 > Before deleting data or erasing a user to honor a GDPR data subject request, your network data retention setting must be set to **Hard Delete**.
@@ -28,7 +28,7 @@ Choose the approach that makes sense for your situation, and **follow the steps 
 |||
 |:-----|:-----|
 |**Approach**|**Steps**|
-|Keep all messages and files created by the user.|Remove the user by using the **Erase the user** option. This removes the user from the home network and any external networks they belong to, but does not delete aany of their messages or files.|
+|Keep all messages and files created by the user.|Remove the user by using the **Erase the user** option. This removes the user from the home network and any external networks they belong to, but does not delete any of their messages or files.|
 |Delete all messages created by the user and decide which files to delete|1. Do one per-user export of the user's data for the home network, and one for each external network they belong to.<br>2. Review files in each external network's export, and delete the files as necessary.<br>3. Remove the user from each network by using the **Permanently remove this user, and remove their messages** option.<br>4. In the home network, use the **Erase the user** option.<br>5. Within 14 days, remove any files stored in Yammer in the home network as necessary, as well as any information not included in the per user export.*<br>6. If you are using connected groups, be sure to follow the [SharePoint GDPR instructions](https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365) to identify and review any files stored in SharePoint.|
 |Review files and messages created by the user and decide which to keep and which to delete|1. Do one per-user export of the user's data for the home network, and one for each external networks they belong to.<br>2. Review files and messages in each external network's export, and delete the files and messages as necessary.<br>3. In the home network, use the **Erase this user** option.<br>4. Within 14 days, remove any files or messages as necessary from the home network, as well as any information not included in the per user export.*<br>5. If you are using connected groups, be sure to follow the [SharePoint GDPR instructions](https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365) to identify and review any files stored in SharePoint.|
 
@@ -62,7 +62,7 @@ If needed, change the settings to **Hard Delete**.
 ## Export data for one user
 
 > [!NOTE]
-> You must export user data for each network the user is a member of. 
+> You must export user data for the home network, and for each external network the user is a member of. 
   
 1. In the Yammer admin center, go to **Content and Security** \> **Export User Data**.
     
@@ -78,12 +78,12 @@ If needed, change the settings to **Hard Delete**.
 |**log.txt** <br/> |Summarizes the number of entries in each .csv file, and lists any errors that occur during the export.  <br/> |
 |**request.txt** <br/> |Parameters use for the export.  <br/> |
 |**Broadcast.csv** <br/>|For any live event video posted by the user, includes the network ID, group ID and name, title, description, links to the video, and additional information about the video. <br><br/>The video content is not included in the export. The video is saved in Microsoft Stream. For GDPR information for Stream, see [Office 365 Data Subject Requests for the GDPR, Stream](https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365#stream)<br/>|
-|**Files.csv** <br/> | For any file added or modified by this user in Yammer, lists the Yammer ID, type of file, name, description, and path to the file, along with metadata including the group it was posted in.  <br><br/> Files.csv does not contain the actual files. Files in their native format can be found in the **Files** folder of the zip file. The file ID in Files.csv can be used to identify the files in the **Files** folder or to go directly to the file in Yammer.  <br/><br> For information about how to go directly to a specific file in Yammer, see [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles).  <br/> |
+|**Files.csv** <br/> | For any file added or modified by this user in Yammer, lists the Yammer ID, type of file, name, description, and path to the file, along with metadata including the group it was posted in and whether the file is stored in Yammer or in the SharePoint document library for the connected group.<br><br/> Files.csv does not contain the actual files.<br><br>Files that are stored in Yammer are exported in their native format to the **Files** folder of the zip file. Files that are stored in SharePoint are not exported. <br><br>The file ID in Files.csv can be used to identify the files in the **Files** folder or to go directly to the file in Yammer.  <br/><br> For information about how to go directly to a specific file in Yammer, see [Delete specific messages or files stored in Yammer](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles).  <br/> |
 |**Groups.csv** <br/> | For any group created or modified by the user, lists the Yammer group ID, name, description, privacy status, whether the group is internal or external, link to the group, creation date, and updated date. This file also includes the aggregated total number of polls the user voted on, and the polls the user created.  <br/> |
 |**LikedMessages.csv** <br/> | For any message liked by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement. <br/> |
 |**Messages.csv** <br/> | For any message sent or modified by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement. <br><br/> For information about how to go directly to a specific message in Yammer, see [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles).  <br/> |
 |**Topics.csv** <br/> |For any topic created by the user during the specified date range, lists the creation information and a link to the topic.  <br/> |
-|**Files folder**.  <br/> | This folder contain files that are stored in Yammer and have been created or modified by the user during the specified time period. It does not contain files for connected groups that are stored in SharePoint.<br><br>Files are in their native format and are named with their Yammer ID. For example a PowerPoint presentation might be listed as 127815379.pptx.  <br><br/> For information about how to go directly to a specific file in Yammer, see [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles).  <br/> |
+|**Files folder**.  <br/> | This folder contain files that are stored in Yammer and have been created or modified by the user during the specified time period. It does not contain files for connected groups that are stored in SharePoint.<br><br>Files are in their native format and are named with their Yammer ID. For example a PowerPoint presentation might be listed as 127815379.pptx.  <br><br/> For information about how to go directly to a specific file in Yammer, see [Delete specific messages or files stored  in Yammer](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles). For information about how to delete a specific file in SharePoint, see [Delete Yammer files stored in SharePoint](gdpr-requests-in-yammer-enterprise.md#DeleteSPFiles) <br/> |
    
 4. When the user's account activity data is ready, you'll receive a Yammer inbox message with a link to the data. Click the link to open it.
     
@@ -96,7 +96,7 @@ Exported data does not contain bookmarked messages, group membership, followed o
 - If the log.txt file shows export errors for one category of data, try again. If there are still errors, [contact Support](https://support.office.com/en-us/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
 
 <a name="DeleteMessagesFiles"> </a> 
-## Delete specific messages or files
+## Delete specific messages or files stored in Yammer
 
 If you have the ID for a message or a file stored in Yammer, you can go directly to it in Yammer and delete it.
   
@@ -111,9 +111,14 @@ If you have the ID for a message or a file stored in Yammer, you can go directly
   - Use the **Search** box in Yammer. For example, for a file named 12345678.pptx in the export, search for 1235678.pptx. In the search results, click **Go to File**, and then click **Delete this File**.
     
   - Or, build the URL for the file. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**files**/*file_number*, for example https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/files/12345678. On the Yammer page for the file, click **Delete this File**.
-    
-## Find and delete user data not included in the per-user export
+
+<a name="DeleteSPFiles"> </a>    
+## Delete Yammer files stored in SharePoint
+
+ - Use the **Search** box in Yammer. For example, for a file named 12345678.pptx in the export, search for 1235678.pptx. In the search results, click **Go to File**, and then click **Delete this File**. This deletes the Yammer metadata for the file, and deletes the file in the SharePoint document library.
+
 <a name="OtherData"> </a>
+## Find and delete user data not included in the per-user export
 
 There is some user data that is not included in an export. To find this data for a user, go to Yammer settings ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) \> **People**, and click the name of the user.
   
@@ -123,7 +128,7 @@ The following table shows how to change or delete this data if needed.
 
 |**Type of data**|**How to change or delete it**|
 |:-----|:-----|
-|Bookmarked messages, group membership, followed or following users, and followed topics  <br/> |When you select the [Erase a user from your Yammer home network and external networks](gdpr-requests-in-yammer-enterprise.md#RemoveUser) to remove a user from Yammer, this information is deleted after the 14-day suspension period. As an admin, you can't change this information for a user.  <br><br> A user can change or delete this information. For steps, see [Tips for staying organized in Yammer](https://support.office.com/article/40ae9666-75c0-4254-a84c-d87a9542f380.aspx).  <br/> |
+|Bookmarked messages, group membership, followed or following users, and followed topics  <br/> |When you select the [Erase a user from your Yammer home network and external networks](gdpr-requests-in-yammer-enterprise.md#RemoveUser) to remove a user from Yammer, this information is deleted after the 14-day suspension period. <br><br> A user can change or delete this information. For steps, see [Tips for staying organized in Yammer](https://support.office.com/article/40ae9666-75c0-4254-a84c-d87a9542f380.aspx).  <br/> |
 |User settings, including notification, application, and language settings  <br/> |When you select the [Erase a user from your Yammer home network and external networks](gdpr-requests-in-yammer-enterprise.md#RemoveUser) to remove a user from Yammer this information is deleted after the 14-day suspension period. As an admin, you can't change this information for a user.<br><br>A user can change their own settings. For steps, see [Change my Yammer profile and settings](https://support.office.com/article/a3aeca0e-de34-4897-9b59-de6516542851.aspx).  <br/> |
 |User profile  <br/> | If the user has a Yammer identity, there are two options: <br><br/>- When you select the [Erase a user from your Yammer home network and external networks](gdpr-requests-in-yammer-enterprise.md#RemoveUser) to remove the user from Yammer, this information is deleted in Yammer after the 14-day suspension period.<br><br/>- The user has full control of their own profile, and can modify the values. For information, see [Edit the user's profile and settings (done by user)](gdpr-requests-in-yammer-enterprise.md#EditProfile).<br><br/> If the user has an Office 365 identity, the Yammer user profile is pulled automatically from Office 365, which gets the profile information from Azure Active Directory (AAD). Yammer users can temporarily change their profiles in Yammer, but these changes are overwritten when there is a change in AAD, so to permanently change or delete a user's profile, you must change or delete directory data in Office 365 and AAD. See [Manage Yammer users across their lifecycle from Office 365](https://support.office.com/article/365-6c4c8fff-6444-404a-bffc-f9da0bcc3039.aspx) and [Add or change profile information for a user in Azure Active Directory](https://go.microsoft.com/fwlink/?LinkId=871865).  <br/> |
    
@@ -170,7 +175,7 @@ A user can edit their own profile. Administrators can't change the user profile 
 ## Erase a user from your Yammer home network and external networks
 
 > [!IMPORTANT]
-> When you erase a user, there is a 14-day window for you to review their files and messages in the home network before the user-identifying data is completely erased. If you want to review the user's messages and files, be sure to export user data prior to erasing the user's account, or within 14 days after selecting **Erase this user**. After the 14-day window, files and messages will continue to exist but will be marked as belonging to a former user.<br><br>After a user's account transitions from deactivated to removed, you can no longer associate user data with the user, which means you can no longer export and review their data. 
+> When you erase a user, there is a 14-day window for you to decide which files and messages to save or delete in the home network before the user-identifying data is completely erased. If you want to review and delete some or all of the user's messages and files, be sure to export user data and do the deletions before erasing the user's account, or within 14 days after selecting **Erase this user**. After the 14-day window, files and messages will continue to exist but will be marked as belonging to a former user.<br><br>After a user's account transitions from deactivated to removed, you can no longer associate user data with the user, which means you can no longer export and review their data. 
   
 > [!IMPORTANT]
 > If you want to review and delete messages and files in external groups, external threads, and networks that the user is a guest member in, follow the instructions in [Export data for one user](gdpr-requests-in-yammer-enterprise.md#ExportUser) and [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles) *before*  erasing the user. As soon as you click **Erase this user**, you will no longer be able to associate the user with these messages and files. 
