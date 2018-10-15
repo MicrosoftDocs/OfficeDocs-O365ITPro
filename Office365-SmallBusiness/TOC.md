@@ -9,7 +9,8 @@
 ## [Switch from G Suite](https://support.office.com/article/cff9f9fb-956e-4cb9-8b64-d7ebc1911123)
 # [Subscriptions and billing](..Admin/subscriptions-and-billing/subscriptions-and-billing)
 # [Add an employee](../Admin/add-users/add-new-employee)
-# [Remove a former employee](../Admin/add-users/remove-former-employee)
+# [Remove a former employee](../Admin/add-users/remove-former-employee?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
+# [Secure your business data](../Admin/security-and-compliance/secure-your-business-data?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
 # [GDPR, HIPAA, & Financial compliance]
 # [Office 365 Admin](../admin/admin-home)
 # [Office 365 Security & Compliance] (../office365/office365/securitycompliance)
