@@ -12,7 +12,7 @@ f1_keywords:
 - 'O365E_O365E_ManageDNS_SwitchDNSMgt'
 - 'O365E_ManageDNS_SwitchDNSMgt'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection:
 - Adm_O365_Top
 - strat_admin_top

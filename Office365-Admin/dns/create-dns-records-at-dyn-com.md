@@ -13,7 +13,7 @@ f1_keywords:
 - 'O365E_DOM_Nett'
 - 'O365E_DOM_DynCom'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup

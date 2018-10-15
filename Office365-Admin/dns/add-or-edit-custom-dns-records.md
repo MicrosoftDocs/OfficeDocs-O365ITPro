@@ -9,7 +9,7 @@ f1_keywords:
 - 'O365P_DomainsMain_CustomDNS'
 - 'O365P_DNSMgr_CustomDNS'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365_Setup
 search.appverid:
 - BCS160

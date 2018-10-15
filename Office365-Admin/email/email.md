@@ -6,7 +6,7 @@ ms.audience: Admin
 ms.topic: landing-page
 layout: LandingPage
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: f7449a18-1400-475a-b158-2668fef93bfe
 description: "Learn how to manage email for your Office 365 mailboxes."
 ---

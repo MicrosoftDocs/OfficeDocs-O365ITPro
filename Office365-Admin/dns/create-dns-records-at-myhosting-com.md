@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_myh'
 - 'O365E_DOM_myh'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup

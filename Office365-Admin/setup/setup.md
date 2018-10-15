@@ -16,7 +16,7 @@ f1_keywords:
 - 'O365E_HomeUpsellAdminSetup'
 - 'O365E_GSWUpsellAdminSetup'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection:
 - Adm_O365_Top
 - strat_admin_top

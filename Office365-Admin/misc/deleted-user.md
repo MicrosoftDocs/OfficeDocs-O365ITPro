@@ -11,7 +11,7 @@ f1_keywords:
 - 'O365M_ESDeletedUser'
 - 'O365E_ESDeletedUser'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - BCS160
 - MET150

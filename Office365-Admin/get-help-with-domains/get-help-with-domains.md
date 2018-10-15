@@ -20,7 +20,7 @@ f1_keywords:
 - 'O365E_DomainsMain_SetUpDomain'
 - 'O365E_DOM_Mgr_GenericHelpLink'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - MOE150

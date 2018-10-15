@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_ReportsOD4BUsage'
 - 'O365E_ReportsOD4BUsage'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Strat_OD_admin
 ms.custom: Adm_O365
 search.appverid:

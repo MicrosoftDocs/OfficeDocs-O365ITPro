@@ -7,7 +7,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - MOE150

@@ -6,7 +6,7 @@ manager: scotv
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - BCS160
 - MET150

@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DNSMgr_WhatIsExtraCNAMERec'
 - 'O365E_DNSMgr_WhatIsExtraCNAMERec'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - BCS160
 - MET150

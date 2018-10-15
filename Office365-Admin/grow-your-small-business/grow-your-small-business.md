@@ -7,7 +7,7 @@ ms.audience: Admin
 ms.topic: landing-page
 layout: LandingPage
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - MOE150
