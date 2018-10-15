@@ -55,20 +55,7 @@ For example, you can use the **Active Users** report to find out how many produc
 |7.  <br/> |You can change what information is displayed in the grid table with column controls.  <br/> If your subscription is operated by 21Vianet, then you will not see Yammer. <br/> ![User level filter options](../media/af8f0a7a-171f-4a65-baae-960f0cb8a5bf.png)|||
 
 
-The entries for the column option from step 7 are as follows
 
-|||
-|:-----|:-----|
-|**Column Name** <br/> |**Description** <br/> |
-|Username  <br/> |UPN  <br/> |
-|Display Name  <br/> |User's configured Display Name. Distinct from  *"First name, Last name"*  , and username  *(user@contoso.com)*  .  <br/> |
-|Licensed For  <br/> |This column will show a **True** or **False** value depending on whether the user has been enabled to use the service.  <br/> |
-|Last Activity Date  <br/> |Shows the latest date the user was active in the specific product. You can refer to the individual product user activity report to get clarity on details of activity within each product. See [Active user in Office 365 usage reports](../usage-analytics/active-user-in-usage-reports.md) for more information.  <br/> |
-|License Assign Date  <br/> |Date the user was assigned the specific product license.  <br/> |
-|Deleted  <br/> | This column will show a **True** or **False** value depending on whether the user was deleted in the selected reporting period.  <br/> |
-|Deleted Date  <br/> |Date the user was deleted  <br/> |
-|Products assigned  <br/> |Products the user has been licenced for and enabled to access.  <br/> |
-|||
    
 
 If your organization's policies prevents you from viewing reports where user information is identifiable, you can change the privacy setting for all these reports. Check out the **How do I hide user level details?** section in [Activity Reports in the Office 365 Admin Center](activity-reports.md).  
