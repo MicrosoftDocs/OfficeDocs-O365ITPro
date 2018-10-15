@@ -71,7 +71,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|:-----|
 |(leave blank)  <br/> |TXT  <br/> |3600          (seconds)  <br/> |MS=msXXXXXXXX  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![TXT Value for a new DNS record in Onamae](../media/f4f0c932-3659-47dd-90fc-919ed5657c86.png)
+ ![TXT Value for a new DNS record in Onamae](../media/f4f0c932-3659-47dd-90fc-919ed5657c86.png)
   
 6. Choose **Add**.
     
@@ -137,7 +137,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|:-----|
 |(leave blank)  <br/> |MX (Mail Exchanger)  <br/> |3600          (seconds)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-    ![MX value](../media/6a4e60a8-ba40-49ca-9677-264f787cb04d.png)
+ ![MX value](../media/6a4e60a8-ba40-49ca-9677-264f787cb04d.png)
   
 7. Choose **Add**.
     
@@ -185,7 +185,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |CNAME  <br/> |3600          (seconds)  <br/> |enterpriseregistration.windows.net  <br/> |
 |enterpriseenrollment  <br/> |CNAME  <br/> |3600          (seconds)  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-    ![CNAME value](../media/4456c3ba-df9c-4461-85fa-bb4f64c66d49.png)
+ ![CNAME value](../media/4456c3ba-df9c-4461-85fa-bb4f64c66d49.png)
   
 6. Choose **Add**.
     
@@ -235,7 +235,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |(leave blank)  <br/> | TXT  <br/> |3600 (seconds)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![TXT value](../media/5254895f-4272-45f9-9acc-ca0173a6a5a2.png)
+ ![TXT value](../media/5254895f-4272-45f9-9acc-ca0173a6a5a2.png)
   
 6. Choose **Add**.
     
@@ -281,7 +281,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip﻿  <br/> |_tls﻿  <br/> |(leave blank)﻿  <br/> |SRV (service)﻿  <br/> |3600          (seconds)﻿  <br/> |100﻿  <br/> |1﻿  <br/> |443﻿  <br/> |sipdir.online.lync.com  <br/> |
 |_sipfederationtls  <br/> |_tcp  <br/> |(leave blank)﻿  <br/> |SRV (service)  <br/> |3600          (seconds)  <br/> |100﻿  <br/> |1﻿  <br/> |5061﻿  <br/> |sipfed.online.lync.com  <br/> |
    
-    ![SRV values](../media/b7512d37-7b9b-4408-94ea-a5d62b159882.png)
+ ![SRV values](../media/b7512d37-7b9b-4408-94ea-a5d62b159882.png)
   
 6. Choose **Add**.
     
