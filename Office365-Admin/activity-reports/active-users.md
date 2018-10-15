@@ -54,6 +54,8 @@ For example, you can use the **Active Users** report to find out how many produc
 |6.  <br/> |You can also export the report data into an Excel .csv file, by clicking or tapping the **Export** ![Export your data to an Excel file](../media/816a224b-6ca7-4967-a135-4f6427f64dc8.JPG) link. This exports data of all users and enables you to do simple sorting and filtering for further analysis. If you have less than 2000 users, you can sort and filter within the table in the report itself. If you have more than 2000 users, in order to filter and sort, you will need to export the data.  <br/> |
 |7.  <br/> |You can change what information is displayed in the grid table with column controls.  <br/> If your subscription is operated by 21Vianet, then you will not see Yammer. <br/> ![User level filter options](../media/af8f0a7a-171f-4a65-baae-960f0cb8a5bf.png)|||
 
+
+The entries for the column option from step 7 are as follows
 |||
 |:-----|:-----|
 |**Column Name** <br/> |**Description** <br/> |
