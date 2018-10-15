@@ -157,7 +157,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!IMPORTANT]> Select the **Fully Qualified Domain Name** option and enter the value in this field.           > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |7200  <br/> |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-    ![WhizIn-BP-Configure-2-2](../media/06a3ed03-6b3e-4171-b17c-dda6fa4783cc.png)
+![WhizIn-BP-Configure-2-2](../media/06a3ed03-6b3e-4171-b17c-dda6fa4783cc.png)
   
 8. Choose **Add Record**.
     
@@ -224,7 +224,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration|enterpriseregistration.windows.net> [!IMPORTANT]> Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
 |enterpriseenrollment|enterpriseenrollment.manage.microsoft.com> [!IMPORTANT]> Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
    
-    ![WhizIn-BP-Configure-3-2](../media/4eeae047-d2f9-49c5-87e2-050df7b3d2d7.png)
+![WhizIn-BP-Configure-3-2](../media/4eeae047-d2f9-49c5-87e2-050df7b3d2d7.png)
   
 8. Choose **Add Record**.
     
@@ -277,7 +277,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |7200  <br/> |
    
-    ![WhizIn-BP-Configure-4-2](../media/f59dd9f8-0d1b-4e4f-af01-ae97a1f70d27.png)
+![WhizIn-BP-Configure-4-2](../media/f59dd9f8-0d1b-4e4f-af01-ae97a1f70d27.png)
   
 8. Choose **Add Record**.
     
@@ -324,7 +324,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip_tls. *domain* (Where  *domain*  is your  *domain_name*  .) |100|1|443|sipdir.online.lync.com> [!IMPORTANT]> Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
 |_sipfederationtls_tcp. *domain* (Where  *domain*  is your  *domain_name*  .) |100|1|5061|sipfed.online.lync.com> [!IMPORTANT]> Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
    
-    ![WhizIn-BP-Configure-5-2](../media/138c0cf8-9f09-4180-b871-b392888ce831.png)
+![WhizIn-BP-Configure-5-2](../media/138c0cf8-9f09-4180-b871-b392888ce831.png)
   
 8. Choose **Add Record**.
     
