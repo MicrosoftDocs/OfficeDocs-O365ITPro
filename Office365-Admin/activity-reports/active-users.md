@@ -56,8 +56,6 @@ For example, you can use the **Active Users** report to find out how many produc
 
 
 
-   
-
 If your organization's policies prevents you from viewing reports where user information is identifiable, you can change the privacy setting for all these reports. Check out the **How do I hide user level details?** section in [Activity Reports in the Office 365 Admin Center](activity-reports.md).  
    
 
