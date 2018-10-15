@@ -18,7 +18,7 @@
 ## [Secure your business data](../Admin/security-and-compliance/secure-your-business-data?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
 ## [GDPR, HIPAA, & Financial compliance]
 ## [Office 365 Security & Compliance](../office365/securitycompliance)
-# [Office 365 Admin](../admin/admin-home?target="_blank")
-# [Microsoft 365 Business](https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364?target=_blank)
+# [Office 365 Admin](../admin/admin-home&target="_blank")
+# [Microsoft 365 Business](https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364&target=_blank)
 
 
