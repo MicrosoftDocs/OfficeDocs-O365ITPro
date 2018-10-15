@@ -44,17 +44,17 @@ You must have [admin permissions](../add-users/about-admin-roles.md) to do this.
   
 1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page, or choose **Users** \> **Active users**.
 
-::: moniker range="o365-germany"
+    ::: moniker range="o365-germany"
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page. 
     
-::: moniker-end
+    ::: moniker-end
 
-::: moniker range="o365-21vianet"
+    ::: moniker range="o365-21vianet"
 
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
 
-::: moniker-end
+    ::: moniker-end
     
 2. On the **Active Users** page, select the name of the person you want to edit. 
     
