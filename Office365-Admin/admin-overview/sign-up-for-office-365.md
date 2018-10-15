@@ -24,6 +24,7 @@ description: "Understand what you need to know before you go through the sign up
 Sign up for Office 365 for business so your team can begin using the latest versions of Word, Excel, PowerPoint, and other Office Online programs in your business.
   
 Watch a quick overview of the three Office 365 for business plans, or scroll down for more info.
+<br><br>
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/cf211808-67c3-4d4b-880a-3f582d70b4d1?autoplay=false]
   
@@ -34,7 +35,7 @@ Watch a quick overview of the three Office 365 for business plans, or scroll dow
 Sign up for Office 365 for business so your team can begin using the latest versions of Word, Excel, PowerPoint, and other Office Online programs in your business.
   
 Watch a quick overview of the three Office 365 for business plans is best for your business. or scroll down for more info.
-
+<br><br>
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/cf211808-67c3-4d4b-880a-3f582d70b4d1?autoplay=false]
   
 ::: moniker-end
@@ -52,12 +53,6 @@ Ready to sign up? [Select a Plan](https://products.office.com/zh-cn/business/com
   
 ::: moniker-end
 
-<<<<<<< HEAD
-## Choose a plan
-
-
-=======
->>>>>>> cmcatee-conversion
 ::: moniker range="o365-worldwide"
 ## Choose a plan
 
@@ -76,12 +71,6 @@ Need help choosing? Sales consultants are available to answer your questions. Ju
   
 ::: moniker-end
 
-<<<<<<< HEAD
-## Ready to sign up for a free trial or buy a subscription?
-
-
-=======
->>>>>>> cmcatee-conversion
 ::: moniker range="o365-worldwide"
 ## Ready to sign up for a free trial or buy a subscription?
 
@@ -104,12 +93,7 @@ You don't need to cancel your trial. If you don't buy the trial subscription, it
   
 ::: moniker-end
 
-<<<<<<< HEAD
-## You'll be asked for the following information when you sign up for Office 365 for business
-
-=======
 ## You'll be asked for the following information when you sign up
->>>>>>> cmcatee-conversion
 
 - **The address and contact information for your subscription:**
     
