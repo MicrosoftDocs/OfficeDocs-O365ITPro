@@ -3,7 +3,6 @@ title: "Create a shared mailbox"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -24,7 +23,6 @@ description: "Create a shared mailbox to enable multiple users in your business 
 
 # Create a shared mailbox
 
- *Last updated: 11 July, 2018* 
   
 It's easy to create shared mailboxes so a group of people can monitor and send email from a common email addresses, like info@contoso.com. When a person in the group replies to a message sent to the shared mailbox, the email appears to be from the shared mailbox, not from the individual user.
   
@@ -32,30 +30,28 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
   
 ## Create a shared mailbox and add members
 
-**Create shared mailbox video**
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/6d993201-a718-4bad-8b4d-2660670aa87d?autoplay=false]
   
- **Try it!**
+**Try it!**
   
-1. 
-::: moniker range="o365-worldwide"
+    ::: moniker range="o365-worldwide"
 
-In the Office 365 admin center, go to **Groups** \> [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox).
+1. In the Office 365 admin center, go to **Groups** \> [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox).
 
-::: moniker-end
+    ::: moniker-end
 
-::: moniker range="o365-germany"
+    ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
-::: moniker-end
+    ::: moniker-end
 
-::: moniker range="o365-21vianet"
+    ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
-::: moniker-end
+    ::: moniker-end
 
     Sign in with an Office 365 global admin account or Exchange admin account. If you get the message " **You don't have permission to access this page or perform this action**" then you aren't an Office 365 admin. [Who has admin permissions in my business?](../admin-overview/admin-overview.md#bkmk_admin).
     
