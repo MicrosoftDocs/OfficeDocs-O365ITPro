@@ -38,7 +38,6 @@ You get a free version of Azure multi-factor authentication as part of your Offi
 
 1. You must be an Office 365 global admin to do these steps.
     
-<<<<<<< HEAD
 2. 
 ::: moniker range="o365-worldwide"
 
@@ -57,11 +56,6 @@ Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
-=======
-2. Go to the [Admin center](https://admin.microsoft.com).]
-   For Office 365 Germany, go to [https://portal.office.de/adminportal/home](https://portal.office.de/adminportal/home).
-   For Office 365 operated by 21Vianet in China, go to [https://login.partner.microsoftonline.cn](https://login.partner.microsoftonline.cn)
->>>>>>> supotter-conversion
 
 3. Go to **Users** \> **Active users**.
     
