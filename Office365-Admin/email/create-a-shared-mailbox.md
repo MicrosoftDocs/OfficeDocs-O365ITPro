@@ -42,17 +42,17 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
 
 ::: moniker range="o365-germany"
 
-    If you're using Office 365 Germany, go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-    If you're using Office 365 operated by 21Vianet, go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
-    Sign in with an Office 365 global admin account or Exchange admin account. If you get the message " **You don't have permission to access this page or perform this action**" then you aren't an admin. [Who has admin permissions in my business?](../admin-overview/admin-overview.md#bkmk_admin).
+Sign in with an Office 365 global admin account or Exchange admin account. If you get the message " **You don't have permission to access this page or perform this action**" then you aren't an admin. [Who has admin permissions in my business?](../admin-overview/admin-overview.md#bkmk_admin).
     
 2. On the **Add a mailbox** page, enter a name for the shared mailbox. Then the wizard chooses the email address, but you can edit it. 
     
