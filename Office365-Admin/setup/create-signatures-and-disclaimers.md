@@ -3,7 +3,6 @@ title: "Create organization-wide signatures and disclaimers"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -98,6 +97,6 @@ To gain these and other capabilities, use a third-party tool. Please do an inter
   
 ## More resources
 
-- [Organization-wide message disclaimers, signatures, footers, or headers in Office 365](https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/disclaimers-signatures-footers-or-headers) for information about using PowerShell. 
+- See [Organization-wide message disclaimers, signatures, footers, or headers in Office 365](https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/disclaimers-signatures-footers-or-headers) for information about using PowerShell. 
     
 
