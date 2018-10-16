@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with NoIP"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -16,7 +15,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: aa41cab1-f190-4504-9bb5-1f83b7ef53ce
-
 description: "Learn to set up your Office 365 custom domain with NoIP if you want Office 365 to manage your DNS records. "
 ---
 
@@ -33,7 +31,6 @@ Here's what you need to do. (Need more help? [Still need help?](change-nameserve
 - [Change your domain's nameserver (NS) records](change-nameservers-at-noip.md#BKMK_nameservers)
     
 ## Add a TXT record for verification
-<a name="BKMK_verify"> </a>
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -59,9 +56,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 |**TXT Record**|
 |:-----|
-|MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
-   
-    ![NoIP-BP-Verify-1-2](../media/3a7b6740-794c-4b3b-a140-518e1f04fa2a.png)
+|MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)
+    
+    
+![NoIP-BP-Verify-1-2](../media/3a7b6740-794c-4b3b-a140-518e1f04fa2a.png)
   
 5. Choose **Submit**.
     
@@ -91,7 +89,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Change your domain's nameserver (NS) records
-<a name="BKMK_nameservers"> </a>
 
 To complete setting up your domain with Office 365, you change your domain's NS records at your domain registrar to point to the Office 365 primary and secondary name servers. This sets up Office 365 to update the domain's DNS records for you. We'll add all records so that email, Skype for Business Online, and your public website work with your domain, and you'll be all set.
   
@@ -125,8 +122,8 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**Second empty box** <br/> |ns2.bdm.microsoftonline.com  <br/> |
 |**Third empty box** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Fourth empty box** <br/> |ns4.bdm.microsoftonline.com  <br/> |
-   
-    ![NoIP-BP-Redelegate-1-4](../media/2249d718-c4b0-4dfd-9fc7-2c9cd1afab3f.png)
+    
+![NoIP-BP-Redelegate-1-4](../media/2249d718-c4b0-4dfd-9fc7-2c9cd1afab3f.png)
   
 6. Choose **Set Nameservers**.
     

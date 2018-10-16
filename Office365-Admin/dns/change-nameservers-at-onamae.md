@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Onamae"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -14,7 +13,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 51a93b15-b8e5-42ca-af76-b6595c271e1a
-
 description: "Learn to set up your Office 365 custom domain with Onamae if you want Office 365 to manage your DNS records. "
 ---
 
@@ -32,7 +30,6 @@ To learn about webhosting and DNS for websites with Office 365, see [Use a publi
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
-<a name="bkmk_txt"> </a>
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -59,9 +56,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 |**Host name**|**Type**|**TTL**|**Value (Points to address or value)**|
 |:-----|:-----|:-----|:-----|
-|(leave blank)  <br/> |TXT  <br/> |3600          (seconds)  <br/> |MS=msXXXXXXXX  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|(leave blank)  <br/> |TXT  <br/> |3600          (seconds)  <br/> |MS=msXXXXXXXX  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)
    
-    ![TXT Value for a new DNS record in Onamae](../media/f4f0c932-3659-47dd-90fc-919ed5657c86.png)
+![TXT Value for a new DNS record in Onamae](../media/f4f0c932-3659-47dd-90fc-919ed5657c86.png)
   
 6. Choose **Add**.
     
@@ -101,7 +98,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Change your nameservers
-<a name="bkmk_ns"> </a>
 
 1. To get started, go to your domains page in Onamae by using [this link](https://navi.onamae.com/login). If necessary, select **Domain Navi Login**. You'll be prompted to log in.
     
@@ -111,9 +107,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![DNS related function settings in Onamae](../media/a98e91cf-5620-49a2-981b-912e53a277bb.png)
   
-3.  Select your domain with the check box and then select the radio button next to **Use another name server** below. 
+3.  Select your domain with the check box and then select the radio button next to **Use another name server** below.
     
-4. Enter the nameservers into the provided fields and then click " **Go to confirmation screen**"
+4. Enter the nameservers into the provided fields and then click "**Go to confirmation screen**."
     
 |||
 |:-----|:-----|
@@ -122,8 +118,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |**Name Server 3 (optional)** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Name Server 4 (optional)** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-5. Confirm that the nameservers are correct and click " **To set up**"
-    
-6. Click **Continue the procedure** on the next screen to finish. 
-    
+5. Confirm that the nameservers are correct and click "**To set up**."
 
+6. Click **Continue the procedure** on the next screen to finish.
