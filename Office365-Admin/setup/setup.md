@@ -158,7 +158,7 @@ If you're using Office 365 operated by 21Vianet, go to [this Admin center.](http
 
 1. To start the wizard, choose **Go to setup**.
     
-To learn more, see [Add users and domain to Office 365](add-domain.md).
+   To learn more, see [Add users and domain to Office 365](add-domain.md).
   
 ### 2. Import email
 

@@ -18,7 +18,7 @@
 ### [Domains FAQ](setup/domains-faq.md)
 ### [Install applications](setup/install-applications.md)
 ### [Migrate email and contacts](setup/migrate-email-and-contacts-admin.md)
-### [Set up Skype for Business Online](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/set-up-skype-for-business-online?toc=/office365/admin/setup/toc.json&bc=/office365/admin/setup/breadcrumb/toc.json)
+### [Set up Skype for Business Online](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/set-up-skype-for-business-online?toc=/setup/toc.json&bc=/setup/breadcrumb/toc.json)
 ### [Set up file storage and sharing](setup/set-up-file-storage-and-sharing.md)
 ### [Configure Focused Inbox](setup/configure-focused-inbox.md)
 ### [Cutomize team site](setup/cutomize-team-site.md)
