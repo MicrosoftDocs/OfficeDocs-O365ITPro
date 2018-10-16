@@ -63,84 +63,84 @@ For example, if you're using third-party add-ins with your current Office instal
 
 Some Office 365 plans don't include the full desktop versions of Office and the steps to upgrade are different if your plan doesn't include Office.
   
-### Click here to see which plans include desktop versions of Office and which don't
 
 Not sure which subscription plan you have? See [What Office 365 for business subscription do I have?](../admin-overview/what-subscription-do-i-have-0.md)
   
  **Subscriptions that include the fully installed Office applications**
   
- Office 365 Business 
+- Office 365 Business 
   
-Office 365 Business Premium
+- Office 365 Business Premium
   
-Office 365 ProPlus
+- Office 365 ProPlus
   
- Office 365 A5 
+- Office 365 A5 
   
- Office 365 ProPlus 
+- Office 365 ProPlus 
   
-Office 365 Enterprise E3
+- Office 365 Enterprise E3
   
-Office 365 Enterprise E4
+- Office 365 Enterprise E4
   
-Office 365 Enterprise E5
+- Office 365 Enterprise E5
   
- Office 365 Nonprofit Business Premium 
+- Office 365 Nonprofit Business Premium 
   
-Office 365 Nonprofit E3
+- Office 365 Nonprofit E3
   
-Office 365 Nonprofit E5
+- Office 365 Nonprofit E5
   
- Office 365 U.S. Government E3 
+- Office 365 U.S. Government E3 
   
-Office 365 U.S. Government E4
+- Office 365 U.S. Government E4
+  
+**Discontinued subscriptions:**
+  
+- Office 365 Small Business Premium
+  
+- Office 365 Mid-size Business
+  
+**Subscriptions that don't include the fully installed Office applications**
+  
+- Office 365 Business Essentials 
+  
+- Office 365 Enterprise E1 
+  
+- Office 365 A1 
+  
+- Office 365 Nonprofit Business Essentials 
+  
+- Office 365 Nonprofit E1
+  
+- Office 365 U.S. Government E1 
+  
+- Exchange Online Plan 1 
+  
+- Exchange Online Plan 2
+  
+- Project Online Essentials 
   
  **Discontinued subscriptions:**
   
-Office 365 Small Business Premium
-  
-Office 365 Mid-size Business
-  
- **Subscriptions that don't include the fully installed Office applications**
-  
- Office 365 Business Essentials 
-  
- Office 365 Enterprise E1 
-  
- Office 365 A1 
-  
- Office 365 Nonprofit Business Essentials 
-  
-Office 365 Nonprofit E1
-  
- Office 365 U.S. Government E1 
-  
- Exchange Online Plan 1 
-  
-Exchange Online Plan 2
-  
- Project Online Essentials 
-  
- **Discontinued subscriptions:**
-  
-Office 365 Small Business
+- Office 365 Small Business
   
 If your existing plan includes Office, move on to [Step 3 - Uninstall Office](upgrade-users-to-latest-office-client.md#BKMK_Step3).
   
 If your existing plan doesn't include Office, then select from the options below:
   
 ### Upgrade options for plans that don't include Office
- **Option 1 - Switch Office 365 subscriptions**
+
+ **Option 1: Switch Office 365 subscriptions**
     
  Switch to a subscription that includes Office. See [Switch to a different Office 365 for business plan](../subscriptions-and-billing/switch-to-a-different-plan.md).
     
-**Option 2 - Buy individual, one-time purchases of Office, or buy Office through a volume license**
+**Option 2: Buy individual, one-time purchases of Office, or buy Office through a volume license**
     
-    - Buy an individual, one-time purchase of Office. See [Office Home &amp; Business](https://products.office.com/home-and-business) or [Office Professional](https://products.office.com/professional)
+ - Buy an individual, one-time purchase of Office. See [Office Home &amp; Business](https://products.office.com/home-and-business) or [Office Professional](https://products.office.com/professional)
     
      OR
     
-    - Buy multiple copies of Office through a volume license. See, [Compare suites available through volume licensing](https://products.office.com/business/microsoft-office-volume-licensing-suites-comparison).
+ - Buy multiple copies of Office through a volume license. See, [Compare suites available through volume licensing](https://products.office.com/business/microsoft-office-volume-licensing-suites-comparison).
     
 ## Step 3 - Uninstall Office
 
