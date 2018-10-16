@@ -3,7 +3,6 @@ title: "Add a user or contact to an Office 365 distribution list"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -31,9 +30,11 @@ As the admin of an Office 365 organization, you may need to add one of your user
     
 2. Select the app launcher icon  and choose **Admin**.
     
-    Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
+    Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the apps available to you. From there, you can search for a specific app. 
     
-3. Choose **Groups**![See your new Office 365 groups in the admin center preview](../media/d434fa62-aff7-4d56-a0c2-2a49b95467a6.png) in the left navigation pane. 
+3. Choose **Groups** in the left navigation pane. 
+    
+    ![See your new Office 365 groups in the admin center preview](../media/d434fa62-aff7-4d56-a0c2-2a49b95467a6.png)
     
 4. On the Groups page, select the distribution list you want to add a contact to.
     
@@ -48,6 +49,7 @@ As the admin of an Office 365 organization, you may need to add one of your user
 7. Click **Save** and then **Close**.
     
 If you haven't created the [contact](../misc/contacts.md) yet, do that first as shown in this video. 
+<br><br>
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ed4e6095-9a6a-4d3d-999d-698c39bb7ec8?autoplay=false]
   
