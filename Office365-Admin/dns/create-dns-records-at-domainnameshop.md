@@ -73,7 +73,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|:-----|
 |﻿(leave blank)  <br/> |1 hour  <br/> |﻿TXT  <br/> |MS=msXXXXXXXX  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![TXT record in Domainnameshop](../media/f2ec5943-5b8d-4028-90f8-4a1344264e68.png)
+   ![TXT record in Domainnameshop](../media/f2ec5943-5b8d-4028-90f8-4a1344264e68.png)
   
 7. Choose the **+** (Add) button. 
     
@@ -126,7 +126,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|:-----|
 |﻿(leave blank)  <br/> |﻿1 hour  <br/> |﻿MX (Mail Exchanger)  <br/> |﻿10  <br/> ﻿For more information about priority, see [What is MX priority?](https://support.office.com/article/17d415c1-067e-4974-84d5-aaeaf3a0c0a9) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![MX record in Domainnameshop](../media/0062bbcb-afb0-4a77-9d9c-c595ab4027d4.png)
+   ![MX record in Domainnameshop](../media/0062bbcb-afb0-4a77-9d9c-c595ab4027d4.png)
   
 7. ﻿Choose the **+** (Add) button. 
     
@@ -206,7 +206,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |﻿(leave blank)  <br/> |1 hour  <br/> |﻿TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![TXT record in DNS record in Domainnameshop](../media/c4957cf7-ac21-4345-ad72-90fd879ac83c.png)
+   ![TXT record in DNS record in Domainnameshop](../media/c4957cf7-ac21-4345-ad72-90fd879ac83c.png)
   
 7. Choose the **+** (Add) button. 
     
@@ -238,7 +238,7 @@ To get started, go to your domains page in Domainnameshop by using [this link](h
 |_sip._tls  <br/> |﻿1 hour  <br/> |SRV (Service)  <br/> |﻿100  <br/> |﻿1  <br/> |﻿443  <br/> |sipdir.online.lync.com  <br/> |
 |_sipfederationtls._tcp  <br/> |﻿1 hour  <br/> |SRV (Service)  <br/> |﻿100  <br/> |﻿1  <br/> |﻿5061  <br/> |sipfed.online.lync.com  <br/> |
    
-    ![SRV record in Domainnameshop](../media/6ebbf167-229a-4c58-8a83-4d1e6223f553.png)
+   ![SRV record in Domainnameshop](../media/6ebbf167-229a-4c58-8a83-4d1e6223f553.png)
   
 6. Choose the **+** (Add) button. 
     

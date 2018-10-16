@@ -153,7 +153,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|:-----|
 |TXT  <br/> |1 hours  <br/> |@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![GandiNet-BP-Verify-1-1](../media/81376f64-3206-4eaa-9ca2-ba0d89266393.png)
+   ![GandiNet-BP-Verify-1-1](../media/81376f64-3206-4eaa-9ca2-ba0d89266393.png)
   
 7. Choose **Submit** to confirm your changes. 
     
@@ -315,7 +315,7 @@ Now that you have created the new zone file, you will add to it all of the DNS r
 |Type  <br/> |TTL  <br/> |Name  <br/> |Value  <br/> |MX Priority  <br/> |
 |MX  <br/> |1 hours  <br/> |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-    ![GandiNet-BP-Configure-2-1](../media/d05d2d09-bd6c-4d60-998c-3a9e8a0057e6.png)
+   ![GandiNet-BP-Configure-2-1](../media/d05d2d09-bd6c-4d60-998c-3a9e8a0057e6.png)
   
 7. Choose **Submit**.
     
@@ -377,7 +377,7 @@ Now that you have created the new zone file, you will add to it all of the DNS r
 |CNAME  <br/> |1 hours  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
 |CNAME  <br/> |1 hours  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-    ![GandiNet-BP-Configure-3-1](../media/a707be8b-a362-44ac-a1b6-0bca3fe94a90.png)
+   ![GandiNet-BP-Configure-3-1](../media/a707be8b-a362-44ac-a1b6-0bca3fe94a90.png)
   
 7. Choose **Submit**.
     
@@ -433,7 +433,7 @@ Now that you have created the new zone file, you will add to it all of the DNS r
 |Type  <br/> |TTL  <br/> |Name  <br/> |Value  <br/> |
 |TXT  <br/> |1 hours  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![GandiNet-BP-Configure-4-1](../media/2e5fc2a4-cd0d-4074-8552-08e07dcfa1ee.png)
+   ![GandiNet-BP-Configure-4-1](../media/2e5fc2a4-cd0d-4074-8552-08e07dcfa1ee.png)
   
 7. Choose **Submit**.
     
@@ -483,7 +483,7 @@ Now that you have created the new zone file, you will add to it all of the DNS r
 |SRV|1 hours|_sip._tls|100 1 443 sipdir.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
 |SRV|1 hours|_sipfederationtls._tcp|100 1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![GandiNet-BP-Configure-5-1](../media/5c43cffc-771e-494b-ab68-ad1fbd05e00a.png)
+   ![GandiNet-BP-Configure-5-1](../media/5c43cffc-771e-494b-ab68-ad1fbd05e00a.png)
   
 7. Choose **Submit**.
     

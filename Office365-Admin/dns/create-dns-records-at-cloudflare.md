@@ -114,7 +114,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|
 |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![Cloudflare-BP-Verify-1-3](../media/8594832d-1e81-492d-9fb3-26ffe019a8e9.png)
+   ![Cloudflare-BP-Verify-1-3](../media/8594832d-1e81-492d-9fb3-26ffe019a8e9.png)
   
 7. Choose **Save**.
     
@@ -170,7 +170,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |MX  <br/> |@  <br/> |30 minutes  <br/> |
    
-    ![Cloudflare-BP-Configure-2-1](../media/20d0a593-d50d-4d5e-b7e0-8ec31a27edc6.png)
+   ![Cloudflare-BP-Configure-2-1](../media/20d0a593-d50d-4d5e-b7e0-8ec31a27edc6.png)
   
 5. Choose **Click to configure**.
     
@@ -182,7 +182,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|
 | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |1  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-    ![Cloudflare-BP-Configure-2-3](../media/7b111d3a-2058-4694-a0a7-325c7a407838.png)
+   ![Cloudflare-BP-Configure-2-3](../media/7b111d3a-2058-4694-a0a7-325c7a407838.png)
   
 7. Choose **Save**. 
     
@@ -230,7 +230,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |30 minutes  <br/> |
 |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |30 minutes  <br/> |
    
-    ![Cloudflare-BP-Configure-3-1](../media/02d0ee6e-5eb6-4a41-80b0-d9f75bd6c7a9.png)
+   ![Cloudflare-BP-Configure-3-1](../media/02d0ee6e-5eb6-4a41-80b0-d9f75bd6c7a9.png)
   
 5. Choose the **DNS Traffic** icon to bypass the Cloudflare servers. 
     
@@ -284,7 +284,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|
 |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Cloudflare-BP-Configure-4-3](../media/27d199f6-95a6-4bf7-b42c-79f10158b413.png)
+   ![Cloudflare-BP-Configure-4-3](../media/27d199f6-95a6-4bf7-b42c-79f10158b413.png)
   
 7. Choose **Save Changes**.
     
@@ -317,7 +317,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|
 |SRV  <br/> |30 minutes  <br/> |
    
-    ![Cloudflare-BP-Configure-5-1](../media/c4b62e94-9abe-49f1-b047-1dbb31873515.png)
+   ![Cloudflare-BP-Configure-5-1](../media/c4b62e94-9abe-49f1-b047-1dbb31873515.png)
   
 5. Choose the first **Click to configure** box. 
     
@@ -330,7 +330,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip  <br/> |TLS  <br/> |Use your  *domain_name*  , for example, contoso.com  <br/> |
 |_sipfederationtls  <br/> |TCP  <br/> |Use your  *domain_name*  , for example, contoso.com  <br/> |
    
-    ![Cloudflare-BP-Configure-5-3](../media/0373fb6a-c73f-444f-b52d-f8f645708630.png)
+   ![Cloudflare-BP-Configure-5-3](../media/0373fb6a-c73f-444f-b52d-f8f645708630.png)
   
 7. Choose **Save**.
     
@@ -343,7 +343,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
 |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
    
-    ![Cloudflare-BP-Configure-5-5](../media/40e7b3bf-6eca-4b3f-b719-27b9c6baecc6.png)
+   ![Cloudflare-BP-Configure-5-5](../media/40e7b3bf-6eca-4b3f-b719-27b9c6baecc6.png)
   
 9. Choose **Save**.
     
