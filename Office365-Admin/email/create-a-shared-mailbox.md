@@ -52,7 +52,7 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
 
 ::: moniker-end
 
-Sign in with an Office 365 global admin account or Exchange admin account. If you get the message " **You don't have permission to access this page or perform this action**" then you aren't an admin. [Who has admin permissions in my business?](../admin-overview/admin-overview.md#bkmk_admin).
+   Sign in with an Office 365 global admin account or Exchange admin account. If you get the message " **You don't have permission to access this page or perform this action**" then you aren't an admin. [Who has admin permissions in my business?](../admin-overview/admin-overview.md#bkmk_admin).
     
 2. On the **Add a mailbox** page, enter a name for the shared mailbox. Then the wizard chooses the email address, but you can edit it. 
     
@@ -273,7 +273,7 @@ New-Mailbox -Shared -Name "Sales Department" -DisplayName "Sales Department" -Al
 See [Compare groups](../create-groups/compare-groups.md) for some guidance. 
   
 > [!IMPORTANT] 
-> Currently, it's not possible to migrate a shared mailbox to an Office 365 Group. Is this something you want? Let us know. **[Vote here](https://go.microsoft.com/fwlink/?linkid=871518)** ! 
+> Currently, it's not possible to migrate a shared mailbox to an Office 365 Group. Is this something you want? Let us know. **[Vote here](https://go.microsoft.com/fwlink/?linkid=871518)**! 
   
 We use your feedback to prioritize which features we work on. 
   
