@@ -3,7 +3,6 @@ title: "Remove license from shared mailbox"
 ms.author: anfowler
 author: anfowler
 manager: scotv
-
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration
@@ -14,16 +13,16 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: bb229ee9-e7be-4990-b3eb-354e75740496
-description: "Remove Office 365 license from a shared mailbox to assign it to another user. "
+description: "Remove license from a shared mailbox to assign it to another user. "
 ---
 
-# Remove license from shared mailbox
+# Remove a license from a shared mailbox
 
 Shared mailboxes don't need a license unless the mailbox has over 50GB of data. Follow these instructions to remove a license from a shared mailbox so that you can either assign it to a user or return the license so that you aren't paying for a license you don't need.
   
 ## Remove the license
 
-1. In the Office 365 admin center, go to **Users** \> **Active users**.
+1. In the admin center, go to **Users** \> **Active users**.
     
     > [!NOTE]
     > You'll need to remove the license from the Active users page. You can't remove the license from the Shared mailbox page because licenses are user settings. 
