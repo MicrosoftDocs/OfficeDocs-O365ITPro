@@ -3,7 +3,6 @@
 ## [Tips to help boost your business](../admin/grow-your-small-business/tips-to-help-boost-your-business?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
 ## [Webinar videos](../admin/grow-your-small-business/previous-webinar-videos?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
 ## [What's trending](../admin/grow-your-small-business/what-s-trending?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
-
 # Sign up
 ## [Sign up for Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 
 ## [Sign up for Office 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 
@@ -18,7 +17,7 @@
 ## [Secure your business data](../Admin/security-and-compliance/secure-your-business-data?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
 ## [GDPR, HIPAA, & Financial compliance]
 ## [Office 365 Security & Compliance](../office365/securitycompliance)
-# [Office 365 Admin](../admin/admin-home&target="_blank")
-# [Microsoft 365 Business](https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364&target=_blank)
+# [Office 365 Admin](../admin/admin-home?target="_blank")
+# [Microsoft 365 Business](https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364?target=_blank)
 
 
