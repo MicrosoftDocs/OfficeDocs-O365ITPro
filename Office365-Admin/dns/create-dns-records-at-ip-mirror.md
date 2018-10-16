@@ -109,7 +109,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 
 1. To get started, go to your domains page at IP Mirror by using [this link](https://customer.ipmirror.com/cctldbox/). You'll be prompted to log in first.
     
-2. In the ** Manage Domain ** column, choose **My Domains**.
+2. In the **Manage Domain** column, choose **My Domains**.
     
 3. On the **My Domains** page, choose **View All**.
     
@@ -135,7 +135,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |1  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![ipMirror-BP-Configure-2-2](../media/91b8c48f-4486-425d-a994-afdb251ebdb3.png)
+   ![ipMirror-BP-Configure-2-2](../media/91b8c48f-4486-425d-a994-afdb251ebdb3.png)
   
 9. Choose **Save**.
     
@@ -237,7 +237,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|
 |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![ipMirror-BP-Configure-4-2](../media/4bdba745-ebe0-4ab7-9214-8a8eecf6281a.png)
+   ![ipMirror-BP-Configure-4-2](../media/4bdba745-ebe0-4ab7-9214-8a8eecf6281a.png)
   
 9. Choose **Save**.
     
@@ -277,7 +277,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip._tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
 |_sipfederationtls._tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
    
-    ![ipMirror-BP-Configure-5-2](../media/2c7efc4f-375d-4cf8-a834-fae5cf50e916.png)
+   ![ipMirror-BP-Configure-5-2](../media/2c7efc4f-375d-4cf8-a834-fae5cf50e916.png)
   
 9. Choose **Save**.
     
