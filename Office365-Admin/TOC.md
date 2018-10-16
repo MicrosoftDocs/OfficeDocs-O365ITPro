@@ -61,7 +61,6 @@
 ### [Set up modern authentication (with Office 2013)](security-and-compliance/enable-modern-authentication.md)
 ### [GDPR compliance](security-and-compliance/gdpr-compliance.md)
 ### [HIPAA compliance](security-and-compliance/hipaa-compliance.md)
-### [HIPAA compliance](security-and-compliance/hipaa-compliance-0.md)
 ## [Activity reports](activity-reports/activity-reports.md)
 ### [Active Users](activity-reports/active-users.md)
 ### [Email activity](activity-reports/email-activity.md)
