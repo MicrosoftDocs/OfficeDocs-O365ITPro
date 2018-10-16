@@ -17,7 +17,7 @@
 ### [Add domain](setup/add-domain.md)
 ### [Domains FAQ](setup/domains-faq.md)
 ### [Install applications](setup/install-applications.md)
-### [Migrate email and contacts](setup/migrate-email-and-contacts-0.md)
+### [Migrate email and contacts](setup/migrate-email-and-contacts-admin.md)
 ### [Set up Skype for Business Online](setup/set-up-skype-for-business-online.md)
 ### [Set up file storage and sharing](setup/set-up-file-storage-and-sharing.md)
 ### [Configure Focused Inbox](setup/configure-focused-inbox.md)

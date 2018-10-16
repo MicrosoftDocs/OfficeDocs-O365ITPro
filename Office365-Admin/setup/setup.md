@@ -3,7 +3,6 @@ title: "Set up Office 365 for business"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -54,7 +53,6 @@ More at [Sign up for Office 365 Business Premium](https://support.office.com/art
   
 ### 2. Install Office
 
-1. 
 ::: moniker range="o365-worldwide"
 
 To install the Office apps, go to the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=837890).
@@ -73,13 +71,13 @@ If you're using Office 365 operated by 21Vianet, go to [this Admin center.](http
 
 ::: moniker-end
 
-2. To start the wizard, choose **Go to setup**.
+1. To start the wizard, choose **Go to setup**.
     
-3. Under **Install your Office apps**, choose **Get started**.
+2. Under **Install your Office apps**, choose **Get started**.
     
-4. Under **Microsoft Office Professional Plus**, choose **Install now**.
+3. Under **Microsoft Office Professional Plus**, choose **Install now**.
     
-5. Choose your language, and then **Install**.
+4. Choose your language, and then **Install**.
     
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/acce002c-0756-4b64-ac5d-2198ee96a9b1?autoplay=false]
   
@@ -140,7 +138,6 @@ More at [Use a public website](https://support.office.com/article/3325d50e-d131-
 
 In this step, you use the Setup wizard to create Office 365 accounts for your users and add your own domain. The wizard lets you personalize everyone's user ID and email for your business, like rob@contoso.com.
   
-1. 
 ::: moniker range="o365-worldwide"
 
 Go to the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=837890).
@@ -159,7 +156,7 @@ If you're using Office 365 operated by 21Vianet, go to [this Admin center.](http
 
 ::: moniker-end
 
-2. To start the wizard, choose **Go to setup**.
+1. To start the wizard, choose **Go to setup**.
     
 To learn more, see [Add users and domain to Office 365](add-domain.md).
   
@@ -173,7 +170,6 @@ For migration options, see [Migrate email and contacts to Office 365](migrate-em
 
 In addition to managing your Office 365 email in Outlook, you can connect other email accounts to Outlook, too, such as your Gmail and Yahoo accounts. This lets you manage all of your email in one place. You can connect up to 5 email accounts to Outlook.
   
-1. 
 ::: moniker range="o365-worldwide"
 
 Sign in to Office 365 with your work or school account at [https://www.office.com/signin](https://www.office.com/signin).
@@ -192,17 +188,17 @@ If you're using Office 365 operated by 21Vianet, sign in at [https://portal.part
 
 ::: moniker-end
 
-2. Choose **Mail**.
+1. Choose **Mail**.
     
-3. On the Outlook navigation bar, select **Settings**![Settings: update your profile, install software and connect it to the cloud](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **Options**.
+2. On the Outlook navigation bar, select **Settings**![Settings: update your profile, install software and connect it to the cloud](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **Options**.
     
-4. In the left pane, choose **Mail**, and under **Accounts**, choose **Connected accounts**.
+3. In the left pane, choose **Mail**, and under **Accounts**, choose **Connected accounts**.
     
     Not all features are available in every region. If you don't see the **Connected accounts** option, this feature may not be available for your account. 
     
-5. On the **Connect your email account** page, enter your full email address, such as rob@contoso.com, and the password of the email account you want to connect to Outlook. 
+4. On the **Connect your email account** page, enter your full email address, such as rob@contoso.com, and the password of the email account you want to connect to Outlook. 
     
-6. Choose **OK**.
+5. Choose **OK**.
     
     **IMPORTANT**: If you get a message that Outlook couldn't connect to the server for your other account, choose **Back** and make sure you entered the correct email address and password for your account. **Typos are really common!**
     
@@ -212,7 +208,6 @@ Need more detailed steps or help? See [Connect email accounts in Outlook on the 
 
 You and your team members can [download and install Skype for Business](https://support.office.com/article/8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx) on all of your PCs, Macs, tablets, and phones. Then you'll be able to see the online status of your coworkers, start chats from other Office applications, and host video meetings with up to 250 people. 
   
-1. 
 ::: moniker range="o365-worldwide"
 
 Go to [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).
@@ -231,9 +226,9 @@ If you're using Office 365 operated by 21Vianet, go to [https://portal.partner.m
 
 ::: moniker-end
 
-2. Sign in with your work or school account.
+1. Sign in with your work or school account.
     
-3. Select **Skype for Business** and choose **Install**.
+2. Select **Skype for Business** and choose **Install**.
     
 ### 5. Store files online
 
@@ -260,7 +255,6 @@ To take a tour of Office 365 and learn how to use all the Office mobile apps, se
 
 In this step, you use the Setup wizard to create accounts and add your own domain. The wizard lets you personalize everyone's user ID and email for your business, like rob@contoso.com.
   
-1. 
 ::: moniker range="o365-worldwide"
 
 Go to the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=837890).
@@ -279,13 +273,12 @@ If you're using Office 365 operated by 21Vianet, go to [this Admin center.](http
 
 ::: moniker-end
 
-2. To start the wizard, choose **Go to setup**.
+1. To start the wizard, choose **Go to setup**.
     
 ### 2. Install Office
 
 Once you've created accounts for other people in your business, you and your team members will be able to install the full desktop version of Office (Word, Excel, Outlook, etc.). Each person can install Office on up to 5 PCs or Macs.
   
-1. 
 ::: moniker range="o365-worldwide"
 
 Go to [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).
@@ -304,9 +297,9 @@ If you're using Office 365 operated by 21Vianet, go to [https://portal.partner.m
 
 ::: moniker-end
 
-2. Sign in with your work or school account.
+1. Sign in with your work or school account.
     
-3. Choose **Install**.
+2. Choose **Install**.
     
 Need more detailed steps or want to install the 64-bit version of Office? See [Step-by-step installation instructions](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx#BKMK_InstallSteps).
   
@@ -349,7 +342,6 @@ To take a tour of Office 365 and learn how to use all the Office mobile apps, se
 
 In this step, you sign in to the Office 365 portal and add your school domain to your Office 365 subscription. This will verify to Microsoft that you qualify for an education subscription.
   
-1. 
 ::: moniker range="o365-worldwide"
 
 Go to the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=837890).
@@ -368,7 +360,7 @@ If you're using Office 365 operated by 21Vianet, go to [this Admin center.](http
 
 ::: moniker-end
 
-2. To start the wizard, choose **Go to setup**.
+1. To start the wizard, choose **Go to setup**.
     
 For a walkthrough of what happens when you run the wizard, see [Using the Office 365 setup wizard](https://support.office.com/article/3c62a3b7-1680-41ca-943c-0ff01566bace.aspx).
   
@@ -410,11 +402,4 @@ Admins, have your account details ready when you call Microsoft Support.
    
 For other countries, see [Contact support for business products - Admin Help](../contact-support-for-business-products.md).
   
-## See also
-
-[Office 365 for business training](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816.aspx)
-  
-[Videos: Set up Office 365 Business Premium](https://support.office.com/article/26524a2c-1d65-48ab-8927-ae0b27370c62.aspx)
-  
-[Set up for Office 365 Home or Office 365 Personal](https://support.office.com/article/65415a24-3cbf-4f30-901d-9bf9eba7fce2.aspx)
 
