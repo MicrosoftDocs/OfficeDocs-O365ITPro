@@ -124,11 +124,9 @@ When you created the shared mailbox, you automatically created a shared calendar
 
 You do not need to assign a license to the shared mailbox in order to forward email that's sent to it. You can forward the messages to any valid email address or distribution list.
  
-::: moniker range="o365-worldwide"
+<!--There was previously a worldwide monikker for step 1, but nothing for Germany or 21Vianet. Is there a deep link to shared mailboxes for Germany or 21Vianet we can include?-->
  
 1. On the [![Go to shared mailboxes in the admin center](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
-
-::: moniker-end
 
 2. Choose **Email forwarding** \> **Edit**.
     
@@ -138,11 +136,9 @@ You do not need to assign a license to the shared mailbox in order to forward em
     
 ## Send automatic replies from a shared mailbox
 
-::: moniker range="o365-worldwide"
+<!--There was previously a worldwide monikker for step 1, but nothing for Germany or 21Vianet. Is there a deep link to shared mailboxes for Germany or 21Vianet we can include?-->
 
 1. On the [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
-
-::: moniker-end
 
 2. Choose **Automatic replies** \> **Edit**.
     
