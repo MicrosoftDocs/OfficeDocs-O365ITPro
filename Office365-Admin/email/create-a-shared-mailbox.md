@@ -52,23 +52,23 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
 
 ::: moniker-end
 
-   Sign in with an Office 365 global admin account or Exchange admin account. If you get the message " **You don't have permission to access this page or perform this action**" then you aren't an admin. [Who has admin permissions in my business?](../admin-overview/admin-overview.md#bkmk_admin).
+2. Sign in with an Office 365 global admin account or Exchange admin account. If you get the message " **You don't have permission to access this page or perform this action**" then you aren't an admin. [Who has admin permissions in my business?](../admin-overview/admin-overview.md#bkmk_admin).
     
-2. On the **Add a mailbox** page, enter a name for the shared mailbox. Then the wizard chooses the email address, but you can edit it. 
+3. On the **Add a mailbox** page, enter a name for the shared mailbox. Then the wizard chooses the email address, but you can edit it.
     
     ![Name your shared mailbox.](../media/e3035132-8986-4ec7-b7c0-f2752080d2c0.png)
   
-3. Click **Add**. It may take a few minutes before you can add members.
+4. Click **Add**. It may take a few minutes before you can add members.
     
-4. Under **Next steps**, choose **Add members to this mailbox**. Members are the people who will be able to view the incoming mail to this shared mailbox, and the outgoing replies.
+5. Under **Next steps**, choose **Add members to this mailbox**. Members are the people who will be able to view the incoming mail to this shared mailbox, and the outgoing replies.
     
     ![Choose Add Members](../media/a2a72e3d-6170-40fe-a94f-0af8fbef8ab2.png)
   
-5. Choose the **+Add members** button. Put a check mark next to the people who you want to use this shared mailbox, and click **Save**.
+6. Choose the **+Add members** button. Put a check mark next to the people who you want to use this shared mailbox, and click **Save**.
     
     ![Assign members to the shared mailbox](../media/e6c58953-f6d7-4f0b-97ba-308516bf2a94.png)
   
-6. Choose **Close**.
+7. Choose **Close**.
     
 You're done! You have a shared mailbox and it includes a shared calendar. Now go on to the next step: allow everyone to see the Sent email.
   
