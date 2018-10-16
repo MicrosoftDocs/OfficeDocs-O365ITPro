@@ -40,19 +40,19 @@ You get a free version of Azure multi-factor authentication as part of your Offi
     
 ::: moniker range="o365-worldwide"
 
-2: Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+2. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-2: Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+2. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-2: Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+2. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
