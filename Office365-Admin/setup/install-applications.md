@@ -3,7 +3,6 @@ title: "Install Office applications"
 ms.author: supotter
 author: supotter
 manager: scotv
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -22,11 +21,11 @@ Now that you have setup Office 365, you can set up the Office applications on yo
   
 Follow these links for information on how to set up: 
   
-- Install Office applications: [Install Office on your PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx)
+- Install Office applications:  [Install Office on your PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx)
     
-- Setup mobile devices:[Office 365 mobile setup - Help](https://support.office.com/article/7dabb6cb-0046-40b6-81fe-767e0b1f014f.aspx)
+- Setup mobile devices: [Office 365 mobile setup - Help](https://support.office.com/article/7dabb6cb-0046-40b6-81fe-767e0b1f014f.aspx)
     
-- Setup email in Outlook:[Windows](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) or [Mac](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx#PickTab=Outlook_for_Mac)
+- Setup email in Outlook: [Windows](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) or [Mac](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx#PickTab=Outlook_for_Mac)
     
 Having trouble? These troubleshooting resources can help: 
   

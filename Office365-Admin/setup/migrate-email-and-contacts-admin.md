@@ -3,12 +3,10 @@ title: "Migrate email and contacts to Office 365"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
-- 'O365P_MoveEmail
-'
+- 'O365P_MoveEmail'
 - 'O365M_MoveEmail
 O365P_MoveEmail
 O365E_MoveEmail'
@@ -36,7 +34,7 @@ description: "Learn to import contacts, calendars, emails  from Gmail or another
 
 Import or copy email from Gmail or another email provider to Office 365.
   
- **Want help with this?**[Contact Office 365 for business support](../contact-support-for-business-products.md) . 
+ **Want help with this?**  [Contact Office 365 for business support](../contact-support-for-business-products.md) . 
   
 You need to use a version of Outlook that is installed on your desktop for this task. Outlook is included in most Office 365 [plans](https://go.microsoft.com/fwlink/p/?LinkId=723731).
   
@@ -71,7 +69,6 @@ To start the process, open Outlook and choose **File** \> **Open &amp; Export** 
 ![File menu in Outlook 2016](../media/2f1c39a5-177e-4052-9dd8-90c0d140be2c.png)![Open &amp; Export command in Outlook 2016](../media/eecab6df-c372-45b1-8a8a-2f6d7af0dd68.png)![Import/Export button in Outlook 2016](../media/ed90ae47-20db-4be1-b0c0-826008432c6e.png)
   
 ## See other email accounts in Outlook
-<a name="ME_Connect"> </a>
 
 Just want to see your email from another provider (like Gmail, Yahoo, or Live.com) in Outlook? No need to import or migrate. You can set up Outlook or Outlook Web App so you can access your other accounts from the same place as your Office 365 mailbox and send, receive, and read email sent to those accounts.
   
@@ -86,7 +83,6 @@ Need more detailed steps? See [Add an account](https://support.office.com/articl
 [![Screenshot showing Outlook account information page in the backstage view.](../media/6a7fa106-1077-4351-9fe2-8eb00918b40a.png)](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)
   
 ## Multiple mailboxes: Admins can bulk import email, contacts, and calendars to Office 365
-<a name="BK_admin"> </a>
 
 Depending on your source email system, you can choose from several bulk migration methods. Read [Ways to migrate multiple email accounts to Office 365](https://support.office.com/article/0a4913fe-60fb-498f-9155-a86516418842) to decide which method works for you. 
   
