@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Register.com"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -16,11 +15,10 @@ ms.custom:
 - Adm_O365
 - Adm_O365_Setup
 search.appverid:
-- BCS160
+- BCS160****
 - MET150
 - MOE150
 ms.assetid: 65196b80-bbb6-42b6-b920-058349963c37
-
 description: "Learn to set up your Office 365 custom domain with Register.com if you want Office 365 to manage your DNS records. "
 ---
 
@@ -61,7 +59,7 @@ Follow the steps below or [watch the video (start at 0:43)](https://support.offi
 |||
 |:-----|:-----|
 |**Host Name** <br/> |**TXT Record** <br/> |
-|@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|@  <br/> |MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
 7. Choose **Continue**.
     
@@ -116,7 +114,7 @@ Ready to change your NS records so Office 365 can set up your domain? Follow the
 |Third row  <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |Fourth row  <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![Register-BP-Redelegate-1-1](../media/037e14af-0468-42d8-9fa0-adfd3ce6ada6.png)
+![Register-BP-Redelegate-1-1](../media/037e14af-0468-42d8-9fa0-adfd3ce6ada6.png)
   
 6. Choose **Continue**.
     

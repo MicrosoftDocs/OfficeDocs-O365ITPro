@@ -48,12 +48,12 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 3. 3.In the DNS section, in the boxes for the new record, type or copy and paste the values from the following table.
     
-    (Select the TTL and Type values from the drop-down lists.) 
+    (Select the TTL and Type values from the drop-down lists.)
     
 |||||
 |:-----|:-----|:-----|:-----|
 |**Name** <br/> |**TTL** <br/> |**Type** <br/> |**Value** <br/> |
-|@  <br/> |1 Hour  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|@  <br/> |1 Hour  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
 4. Choose **Save**.
     
@@ -100,14 +100,14 @@ To complete setting up your domain with Office 365, you change your domain's NS 
   
 4. In the **Primary nameserver** and **Secondary nameserver** boxes, type or copy and paste the values from the following table. 
     
-|||
+|
 |:-----|:-----|
 |**Primary nameserver** <br/> |ns1.bdm.microsoftonline.com  <br/> |
 |**Secondary nameserver** <br/> |ns2.bdm.microsoftonline.com  <br/> |
 |**Tertiary nameserver** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Nameserver 4** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![TransIP-BP-Redelegate-1-2](../media/bca6e3e0-b7ed-40e7-9cba-4afd4322c365.png)
+   ![TransIP-BP-Redelegate-1-2](../media/bca6e3e0-b7ed-40e7-9cba-4afd4322c365.png)
   
 5. Choose **Save**.
     

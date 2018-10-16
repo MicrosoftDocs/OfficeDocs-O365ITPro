@@ -64,9 +64,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 |**Host name**|**Type**|**Result**|
 |:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|(Leave this field empty.)  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![Entering values on the Add/Modify DNS Zone page](../media/22326005-de95-464d-8e33-08ea31a89b2d.png)
+![Entering values on the Add/Modify DNS Zone page](../media/22326005-de95-464d-8e33-08ea31a89b2d.png)
   
 4. Choose **Save**.
     
@@ -98,7 +98,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Change your domain's nameserver (NS) records
-<a name="BKMK_nameservers"> </a>
 
 To complete setting up your domain with Office 365, you change your domain's NS records at your domain registrar to point to the Office 365 primary and secondary name servers. This sets up Office 365 to update the domain's DNS records for you. We'll add all records so that email, Skype for Business Online, and your public website work with your domain, and you'll be all set.
   
@@ -133,9 +132,8 @@ To complete setting up your domain with Office 365, you change your domain's NS 
   - If there **ARE** nameservers already listed, [If there ARE nameservers already listed](change-nameservers-at-register365.md#BKMK_ProcedureWITH).
     
 ### If there are NO nameservers already listed
-<a name="BKMK_ProcedureWithOUT"> </a>
 
-1. In the first two boxes in the **New nameservers** area, type or copy and paste the values from the following table. 
+1. In the first two boxes in the **New nameservers** area, type or copy and paste the values from the following table.
     
 |||
 |:-----|:-----|
@@ -144,7 +142,8 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**Third nameserver** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Second nameserver** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![Register365-BP-Redelegate-1-4](../media/53388c99-ee26-431a-abfa-7a9bfb931c76.png)
+    
+![Register365-BP-Redelegate-1-4](../media/53388c99-ee26-431a-abfa-7a9bfb931c76.png)
   
 2. Choose **UPDATE**.
     
@@ -171,14 +170,12 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**Second nameserver** <br/> |ns2.bdm.microsoftonline.com  <br/> |
 |**Third nameserver** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Fourth nameserver** <br/> |ns4.bdm.microsoftonline.com  <br/> |
-   
-    ![Register365-BP-Redelegate-1-4](../media/53388c99-ee26-431a-abfa-7a9bfb931c76.png)
+       
+![Register365-BP-Redelegate-1-4](../media/53388c99-ee26-431a-abfa-7a9bfb931c76.png)
   
 3. Choose **UPDATE**.
     
     ![Register365-BP-Redelegate-1-5](../media/e1a0da99-ebcc-4ca0-9402-aaa4a2cdd5eb.png)
   
 > [!NOTE]
-> Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain. 
-  
-
+> Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain.
