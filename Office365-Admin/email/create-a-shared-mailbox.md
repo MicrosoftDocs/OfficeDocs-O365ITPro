@@ -34,23 +34,23 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
   
 **Try it!**
   
-    ::: moniker range="o365-worldwide"
+::: moniker range="o365-worldwide"
 
 1. In the Office 365 admin center, go to **Groups** \> [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox).
 
-    ::: moniker-end 
+::: moniker-end 
 
-    ::: moniker range="o365-germany"
+::: moniker range="o365-germany"
 
     If you're using Office 365 Germany, go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
-    ::: moniker-end
+::: moniker-end
 
-    ::: moniker range="o365-21vianet"
+::: moniker range="o365-21vianet"
 
     If you're using Office 365 operated by 21Vianet, go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
-    ::: moniker-end
+::: moniker-end
 
     Sign in with an Office 365 global admin account or Exchange admin account. If you get the message " **You don't have permission to access this page or perform this action**" then you aren't an admin. [Who has admin permissions in my business?](../admin-overview/admin-overview.md#bkmk_admin).
     
