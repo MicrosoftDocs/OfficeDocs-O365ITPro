@@ -6,8 +6,7 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
-- 'O365P_MoveEmail
-'
+- 'O365P_MoveEmail'
 - 'O365M_MoveEmail
 O365P_MoveEmail
 O365E_MoveEmail'
@@ -35,7 +34,7 @@ description: "Learn to import contacts, calendars, emails  from Gmail or another
 
 Import or copy email from Gmail or another email provider to Office 365.
   
- **Want help with this?**[Contact Office 365 for business support](../contact-support-for-business-products.md) . 
+ **Want help with this?**  [Contact Office 365 for business support](../contact-support-for-business-products.md) . 
   
 You need to use a version of Outlook that is installed on your desktop for this task. Outlook is included in most Office 365 [plans](https://go.microsoft.com/fwlink/p/?LinkId=723731).
   

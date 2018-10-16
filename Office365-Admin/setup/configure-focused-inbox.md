@@ -38,7 +38,7 @@ The following PowerShell example turns Focused Inbox **Off** in your organizatio
 3. Run the **Get-OrganizationConfig** cmdlet. 
     
   ```
-    Get-OrganizationConfig
+     Get-OrganizationConfig
   ```
 
 4. Look for **FocusedInboxOn** to view its current setting: 
@@ -48,7 +48,7 @@ The following PowerShell example turns Focused Inbox **Off** in your organizatio
 5. Run the following cmdlet to turn Focused Inbox off.
     
   ```
-    Set-OrganizationConfig -FocusedInboxOn $false
+     Set-OrganizationConfig -FocusedInboxOn $false
   ```
 
 6. Run the **Get-OrganizationConfig** cmdlet again and you'll see that FocusedInboxOn is set to $false, which means it's been turned off. 
@@ -84,7 +84,7 @@ This example turns Focused Inbox **Off** for Tim Matthews in the Contoso organiz
 3. Run the **Get-FocusedInbox** cmdlet. 
     
   ```
-    Get-FocusedInbox -Identity <tim@contoso.com>
+     Get-FocusedInbox -Identity <tim@contoso.com>
   ```
 
 4. Look for FocusedInboxOn to view its current setting:
@@ -94,13 +94,13 @@ This example turns Focused Inbox **Off** for Tim Matthews in the Contoso organiz
 5. Run the following cmdlet to turn Focused Inbox off.
     
   ```
-    Set-FocusedInbox -Identity <tim@contoso.com> -FocusedInboxOn $false
+     Set-FocusedInbox -Identity <tim@contoso.com> -FocusedInboxOn $false
   ```
 
 6. OR, run the following cmdlet to turn it on:
     
   ```
-    Set-FocusedInbox -Identity <tim@contoso.com> -FocusedInboxOn $true
+     Set-FocusedInbox -Identity <tim@contoso.com> -FocusedInboxOn $true
   ```
 
 ## Use the UI to create a transport rule to direct email messages to the Focused view for all your users
@@ -131,7 +131,7 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
     
     The following image shows an example where all messages with the subject "Human Resources" are to be delivered to the Focused Inbox.
     
-![Create and save new Foucsed Inbox rule](../media/5de0d441-aade-41c8-aa19-3c14f945c1f6.png)
+    ![Create and save new Foucsed Inbox rule](../media/5de0d441-aade-41c8-aa19-3c14f945c1f6.png)
   
 ## Use PowerShell to create a transport rule to direct email messages to the Focused view for all your users
 
@@ -142,7 +142,7 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 3. Run the following command to allow all messages from "Human Resources," for example, to be delivered to the Focused Inbox.
     
   ```
-   New-TransportRule -Name <name_of_the_rule> -SubjectContainsWords "Human Resources" -SetHeaderName "X-MS-Exchange-Organization-BypassFocusedInbox" -SetHeaderValue "true"
+     New-TransportRule -Name <name_of_the_rule> -SubjectContainsWords "Human Resources" -SetHeaderName "X-MS-Exchange-Organization-BypassFocusedInbox" -SetHeaderValue "true"
   ```
 
     > [!IMPORTANT]
