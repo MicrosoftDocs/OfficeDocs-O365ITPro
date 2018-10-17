@@ -38,17 +38,17 @@ Before you can do this procedure, you need the following:
     
 1. In Exchange Online PowerShell, replace **Group name** and **alias<span></span>@contoso.com** with your values, and run the following command: 
     
-  ```
-  Set-UnifiedGroup -Identity "Group name" -Alias @{remove="alias@contoso.com"}
-  ```
+   ```
+   Set-UnifiedGroup -Identity "Group name" -Alias @{remove="alias@contoso.com"}
+   ```
 
 2. It may take a few minutes, but when the command has completed, the command prompt will return. You'll only get a message if there was an error.
     
 3. Close the connection to Exchange Online PowerShell by running the following command:
-    
-  ```
-  Remove-PSSession $Session
-  ```
+     
+   ```
+   Remove-PSSession $Session
+   ```
 
 
 
