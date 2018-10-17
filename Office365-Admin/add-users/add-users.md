@@ -37,10 +37,8 @@ description: "Learn how to add users to Office 365, one at a time or multiple us
 
 The people on your team each need a user account before they can sign in and access [Office 365 for business](https://go.microsoft.com/fwlink/?LinkID=519395). The easiest way to add user accounts is to add them one at a time in the Office 365 admin center. After you do this step, your users will have Office 365 licenses, logon credentials, and Office 365 mailboxes.
   
-1. 
 ::: moniker range="o365-worldwide"
-
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1.  Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
