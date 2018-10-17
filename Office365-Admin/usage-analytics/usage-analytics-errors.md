@@ -3,11 +3,10 @@ title: "Troubleshooting Microsoft 365 usage analytics"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -21,26 +20,8 @@ description: "Learn how to troubleshoot issues with the Office 365 Adoption cont
 
 Explore the following list of error messages to get help with the most common issues with Microsoft 365 usage analytics.
   
-- [We are unable to process your request. You have to first subscribe to this data from the Office 365 Admin Portal](usage-analytics-errors.md#bk_unabletoprocess)
-    
-- [We are processing your data](usage-analytics-errors.md#bk_processing)
-    
-- [We are unable to process your request at this time. We are still preparing the data for your organization](usage-analytics-errors.md#bk_unabletoprocessrequest)
-    
-- [The tenant ID you provided is not in the correct format](usage-analytics-errors.md#bk_tenantidwrongformat)
-    
-- [The tenant ID you provided is not recognized by our system](usage-analytics-errors.md#bk_tennatidnotrecognized)
-    
-- [Please re-enter your credentials to sign in to Power BI again](usage-analytics-errors.md#bk_reentercreds)
-    
-- [You do not have the right authorization to access to this data. To be able to gain access to the data from this service you need to be either a global admin or any one of the product admins](usage-analytics-errors.md#bk_notanadmin)
-    
-- [Refresh failed](usage-analytics-errors.md#bk_refreshfail)
-    
-- [Failed to update data source credentials](usage-analytics-errors.md#bk_failedupdatecreds)
     
 ## We are unable to process your request. You have to first subscribe to this data from the Office 365 Admin Portal
-<a name="bk_unabletoprocess"> </a>
 
  **Error Code :** 422 
   
@@ -51,7 +32,6 @@ Explore the following list of error messages to get help with the most common is
  **To fix this error:** To subscribe to the data, go to the Office 365 admin center \> **Reports** \> **Usage** and locate the Office 365 Adoption tile on the main dashboard page. Select the **Get started** button and then in the **Reports** pane that opens, turn the **Make data available to the Office 365 Adoption content pack for Power BI** setting on and **Save**.
   
 ## We are processing your data
-<a name="bk_processing"> </a>
 
  **Where you will see this message:** In the **Office 365 Adoption** tile on the **Usage** dashboard in Office 365 Admin center. 
   
@@ -60,7 +40,6 @@ Explore the following list of error messages to get help with the most common is
  **To fix this:** Just be patient, but if the message does not change to **Your data is ready** after 3 days, [contact Office 365 for business support](../contact-support-for-business-products.md).
   
 ## We are unable to process your request at this time. We are still preparing the data for your organization
-<a name="bk_unabletoprocessrequest"> </a>
 
  **Error Code:** 423 
   
@@ -71,7 +50,6 @@ Explore the following list of error messages to get help with the most common is
  **To fix this:** Just be patient, but if the message does not change to **Your data is ready** even 3 days since initiation, [contact Office 365 for business support](../contact-support-for-business-products.md).
   
 ## The tenant ID you provided is not in the correct format
-<a name="bk_tenantidwrongformat"> </a>
 
  **Error Code:** 400 
   
@@ -82,7 +60,6 @@ Explore the following list of error messages to get help with the most common is
  **To fix this error:** Go to the Office 365 admin center \> **Reports** \> **Usage** and locate the Office 365 Adoption tile on the main dashboard page. The tenant id is listed on the tile. You can copy it from here and paste it in the dialog box for connecting to the content pack. 
   
 ## The tenant ID you provided is not recognized by our system
-<a name="bk_tennatidnotrecognized"> </a>
 
  **Error Code:** 404 
   
@@ -93,7 +70,6 @@ Explore the following list of error messages to get help with the most common is
  **To fix this error:** Go to the Office 365 admin center \> **Reports** \> **Usage** and locate the Office 365 Adoption tile on the main dashboard page. The tenant id is listed on the tile. You can copy it from here and paste it in the dialog box for connecting to the content pack. 
   
 ## Please re-enter your credentials to sign in to Power BI again
-<a name="bk_reentercreds"> </a>
 
 Error Code: 302
   
@@ -104,7 +80,6 @@ Error Code: 302
  **To fix this error:** Sign out of Power BI, and then sign in again. 
   
 ## You do not have the right authorization to access to this data. To be able to gain access to the data from this service you need to be either a global admin or any one of the product admins
-<a name="bk_notanadmin"> </a>
 
  **Error Code:** 403 
   
@@ -115,7 +90,6 @@ Error Code: 302
  **To fix this error:** Provide the credentials of a user who is either a **global administrator**, **Exchange administrator**, **Skype for Business administrator,** or a **SharePoint administrator** to connect to the content pack. See [Office 365 admin roles](../add-users/about-admin-roles.md) for more information. 
   
 ## Refresh failed
-<a name="bk_refreshfail"> </a>
 
  **Where you will see this message:** Email from Power BI or failed status in the refresh history. 
   
@@ -126,7 +100,6 @@ Error Code: 302
 If that doesn't work, clear the cache, and re-create the content pack.
   
 ## Failed to update data source credentials
-<a name="bk_failedupdatecreds"> </a>
 
  **Error Code:** 400 
   
@@ -138,19 +111,5 @@ If that doesn't work, clear the cache, and re-create the content pack.
   
 A global admin can turn MFA on or off, for instructions, see [Set up multi-factor authentication for Office 365 users](../security-and-compliance/set-up-multi-factor-authentication.md).
   
-## Related Topics
-<a name="bk_failedupdatecreds"> </a>
 
-[ Microsoft 365 usage analytics ](usage-analytics.md)
-  
-[Enable Microsoft 365 usage analytics](enable-usage-analytics.md)
-  
-[ Navigating and utilizing the reports in Microsoft 365 usage analytics ](navigate-and-utilize-reports.md)
-  
-[Customizing the reports in Microsoft 365 usage analytics](customize-reports.md)
-  
-[Active user in Office 365 usage reports](active-user-in-usage-reports.md)
-  
-[Microsoft 365 usage analytics data model](usage-analytics-data-model.md)
-  
 

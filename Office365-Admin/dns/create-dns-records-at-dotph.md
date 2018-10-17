@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_dotPH'
 - 'O365E_DOM_dotPH'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -80,7 +80,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![DotPH-BP-Verify-1-1](../media/bdfa16fe-ac27-4954-939e-86b68787ce14.png)
+   ![DotPH-BP-Verify-1-1](../media/bdfa16fe-ac27-4954-939e-86b68787ce14.png)
   
 5. Choose **Add**.
     
@@ -134,7 +134,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |MX  <br/> |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![DotPH-BP-Configure-2-1](../media/a032d938-e69c-4039-a62e-8f0f159c458d.png)
+   ![DotPH-BP-Configure-2-1](../media/a032d938-e69c-4039-a62e-8f0f159c458d.png)
   
 5. Choose **Add**.
     
@@ -183,8 +183,8 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |msoid  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
 |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
 |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
-   
-    ![DotPH-BP-Configure-3-1](../media/47b85426-89d5-4793-8ae1-17e5b8e4e5ed.png)
+  
+   ![DotPH-BP-Configure-3-1](../media/47b85426-89d5-4793-8ae1-17e5b8e4e5ed.png)
   
 5. Choose **Add**.
     
@@ -224,7 +224,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![DotPH-BP-Configure-4-1](../media/90075dd0-9e1d-4f9e-9b10-a5f3327dbeac.png)
+   ![DotPH-BP-Configure-4-1](../media/90075dd0-9e1d-4f9e-9b10-a5f3327dbeac.png)
   
 5. Choose **Add**.
     

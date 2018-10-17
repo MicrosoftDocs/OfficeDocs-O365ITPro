@@ -6,7 +6,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -27,5 +27,4 @@ Wix does not support pointing nameserver (NS) records to Office 365 at this time
 You could also choose to Transfer your domain to a different domain registrar. When you transfer the domain, you change who you send payments to in order to renew and keep your domain name.
   
 Request the transfer at the registrar that you want to move your domain to. Look on their website for an option such as **Transfer DNS**. Be aware that after they make the changes, it can take a few days update across the Internet.
-  
 

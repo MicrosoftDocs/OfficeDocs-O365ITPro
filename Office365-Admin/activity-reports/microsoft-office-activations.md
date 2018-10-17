@@ -9,7 +9,7 @@ f1_keywords:
 - 'O365M_ReportsOfficeActivations'
 - 'O365E_ReportsOfficeActivations'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -48,7 +48,8 @@ You can get a view into your organization's Office activations by looking at the
 |3  <br/> |The **Activations** chart shows you the count of Office activations on desktops and devices.  <br/> |
 |4  <br/> |The **Users** chart shows you the count of users that are enabled, and users that have activated the Office subscription on desktop or devices..  <br/> |
 |5  <br/> | On the **Activations** chart, the Y axis is the count of Office activations.  <br/>  On the **Users** chart, the Y axis is the user's performing activity of activating Office.  <br/>  The X axis on both charts is the selected date range for this specific report.  <br/> |
-|6  <br/> |You can filter charts you see by clicking on an item in the legend. For example, on the **Activations** chart, click or tap **Windows OS**, **Mac OS**, **Windows 10 mobile**, **iOS** or **Android**![Activation data for devices](../media/59d3ec6e-2a6e-4b21-8aac-c73038c47b9f.png) to see only the info related to each one. Changing this selection doesn't change the info in the grid table.  <br/> |
+|6  <br/> |You can filter charts you see by clicking on an item in the legend. For example, on the **Activations** chart, click or tap **Windows OS**, **Mac OS**, **Windows 10 mobile**, **iOS** or **Android** to see only the info related to each one. Changing this selection doesn't change the info in the grid table. <br/> ![Activation data for devices](../media/59d3ec6e-2a6e-4b21-8aac-c73038c47b9f.png)  <br/> |
 |7  <br/> | The table shows you a breakdown of Office activations at the user level. This is the list of all user's with the Office product assigned to them. You can add the additional columns to the table.  <br/> ![Office activations available columns](../media/bb3f0be7-b5b7-4e4f-8adc-0a1d1f51f086.png)<br/> **User name** is the email address of the user.  <br/> **Display Name** is the full name if the user.  <br/> **Product licenses** is the Office 365 products that are assigned to this user.  <br/> **Last activated date** refers to the date the user activated Office on a desktop or a device.  <br/> **Desktop activation** refers to the number of desktops a user a activated Office on.  <br/> **Device activation** refers to the number of desktops a user a activated Office on.  <br/>  If your organization's policies prevents you from viewing reports where user information is identifiable, you can change the privacy setting for all these reports. Check out the **Hide user details in the reports** section in the [Activity Reports in the Office 365 Admin Center](activity-reports.md).  <br/> |
+|||
    
 

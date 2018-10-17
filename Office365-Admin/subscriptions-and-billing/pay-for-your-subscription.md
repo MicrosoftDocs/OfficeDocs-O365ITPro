@@ -8,7 +8,7 @@ ms.topic: article
 f1_keywords:
 - 'fwlink 808700 for SEPA UI glink 906 for older uI'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection:
 - Adm_O365_Top
 - strat_admin_top

@@ -6,7 +6,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -121,7 +121,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |(your domain)﻿  <br/> |MX﻿  <br/> |10  <br/> For more information about priority, see [What is MX priority](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx)?﻿  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![One_MX_values](../media/03515b54-5b05-4f37-9261-7d5cafe3fb4d.png)
+![One_MX_values](../media/03515b54-5b05-4f37-9261-7d5cafe3fb4d.png)
   
 6. Select the green **+** icon to save the record. 
     
@@ -156,7 +156,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
 |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-    ![One_CNAME_values](../media/6177025e-408b-44a6-9ab8-3f6406828abe.png)
+ ![One_CNAME_values](../media/6177025e-408b-44a6-9ab8-3f6406828abe.png)
   
 5. Select the ﻿green **+** icon to save the record. 
     
@@ -189,7 +189,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|:-----|
 |(leave blank)  <br/> |TXT﻿  <br/> |3600 (seconds)  <br/> |(leave blank)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![One_TXT_SPF_values](../media/3c60057e-9a2f-4ebc-8b9d-6c37f54d6236.png)
+ ![One_TXT_SPF_values](../media/3c60057e-9a2f-4ebc-8b9d-6c37f54d6236.png)
   
 5. Select the green **+** icon to save the record. 
     
@@ -218,7 +218,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip._tls  <br/> |SRV (Service)  <br/> |3600 (seconds)  <br/> |100﻿  <br/> |1 443 sipdir.online.lync.com  <br/> |
 |_sipfederationtls._tcp  <br/> |SRV (Service)  <br/> |3600 (seconds)  <br/> |100﻿  <br/> |1 5061 sipfed.online.lync.com  <br/> |
    
-    ![One_SRV_values](../media/630e5c17-8971-471f-9f00-2b5f0e038b5c.png)
+![One_SRV_values](../media/630e5c17-8971-471f-9f00-2b5f0e038b5c.png)
   
 5. Select ﻿the green **+** icon to save the record. 
     

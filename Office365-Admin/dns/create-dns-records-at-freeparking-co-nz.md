@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_FreeP'
 - 'O365E_DOM_FreeP'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -97,7 +97,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|
 |Use your domain name (for example, fourthcoffee.com)  <br/> |Descriptive (TXT)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![FreeparkingNZ-BP-Verify-1-1](../media/927e8240-9cba-4431-bbc0-a016f5a44d0b.png)
+   ![FreeparkingNZ-BP-Verify-1-1](../media/927e8240-9cba-4431-bbc0-a016f5a44d0b.png)
   
 9. Choose **Continue**.
     
@@ -159,7 +159,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 | *All records*  <br/> |Caching Time (TTL)  <br/> |1 Hour  <br/> |
    
-    ![FreeparkingNZ-BP-Configure-1-4-2](../media/7caef32d-ba28-4d57-8ea3-7d694af5a47e.png)
+   ![FreeparkingNZ-BP-Configure-1-4-2](../media/7caef32d-ba28-4d57-8ea3-7d694af5a47e.png)
   
 7. Choose **Add another record**.
     
@@ -175,7 +175,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |Use your domain name (for example, fourthcoffee.com)  <br/> |Mail Server (MX)  <br/> |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> The **10** is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![FreeparkingNZ-BP-Configure-2-1](../media/39382d03-eade-406b-95c1-e400ed83ef19.png)
+   ![FreeparkingNZ-BP-Configure-2-1](../media/39382d03-eade-406b-95c1-e400ed83ef19.png)
   
 9. Choose **Continue**.
     
@@ -228,7 +228,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 | *All records*  <br/> |Caching Time (TTL)  <br/> |1 Hour  <br/> |
    
-    ![FreeparkingNZ-BP-Configure-1-4-2](../media/7caef32d-ba28-4d57-8ea3-7d694af5a47e.png)
+   ![FreeparkingNZ-BP-Configure-1-4-2](../media/7caef32d-ba28-4d57-8ea3-7d694af5a47e.png)
   
 7. Choose **Add another record**, and then add six new rows.
     
@@ -247,7 +247,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration. *domain_name*  <br/> The **enterpriseregistration** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, enterpriseregistration.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |enterpriseregistration.windows.net  <br/> |
 |enterpriseenrollment. *domain_name*  <br/> The **enterpriseenrollment** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, enterpriseenrollment.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-    ![FreeparkingNZ-BP-Configure-3-1](../media/aeee206c-2691-4f76-9b23-09d91c71e728.png)
+   ![FreeparkingNZ-BP-Configure-3-1](../media/aeee206c-2691-4f76-9b23-09d91c71e728.png)
   
 9. Choose **Continue**.
     
@@ -291,7 +291,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 | *All records*  <br/> |Caching Time (TTL)  <br/> |1 Hour  <br/> |
    
-    ![FreeparkingNZ-BP-Configure-1-4-2](../media/7caef32d-ba28-4d57-8ea3-7d694af5a47e.png)
+   ![FreeparkingNZ-BP-Configure-1-4-2](../media/7caef32d-ba28-4d57-8ea3-7d694af5a47e.png)
   
 7. Choose **Add another record**.
     
@@ -305,7 +305,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |Use your domain name (for example, fourthcoffee.com)  <br/> |Descriptive (TXT)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![FreeparkingNZ-BP-Configure-4-1](../media/8b9949cf-ba70-4e2c-9648-ed35b1ce6185.png)
+   ![FreeparkingNZ-BP-Configure-4-1](../media/8b9949cf-ba70-4e2c-9648-ed35b1ce6185.png)
   
 9. Choose **Continue**.
     
@@ -346,7 +346,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 | *All records*  <br/> |Caching Time (TTL)  <br/> |1 Hour  <br/> |
    
-    ![FreeparkingNZ-BP-Configure-1-4-2](../media/7caef32d-ba28-4d57-8ea3-7d694af5a47e.png)
+   ![FreeparkingNZ-BP-Configure-1-4-2](../media/7caef32d-ba28-4d57-8ea3-7d694af5a47e.png)
   
 7. Choose **Add another record**.
     
@@ -360,8 +360,8 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |_sip._tls. *domain_name*  <br/> The **_sip._tls** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, _sip._tls.fourthcoffee.com)  <br/> |Service (SRV)  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
 |_sipfederationtls._tcp. *domain_name*  <br/> The **_sipfederationtls._tcp** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, _sipfederationtls._tcp.fourthcoffee.com)  <br/> |Service (SRV)  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
-   
-    ![FreeparkingNZ-BP-Configure-5-1](../media/94a3eb0d-1a42-4b37-9b99-5ef6a67d5e33.png)
+  
+   ![FreeparkingNZ-BP-Configure-5-1](../media/94a3eb0d-1a42-4b37-9b99-5ef6a67d5e33.png)
   
 9. Choose **Continue**.
     

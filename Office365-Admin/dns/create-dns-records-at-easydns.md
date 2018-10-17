@@ -6,7 +6,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - MET150
@@ -108,7 +108,6 @@ You'll need to add all of the following DNS records at your registrar's website 
   
 4. Enter the following records in the text fields:
     
-1. 
 
 |**HOST**|**Address (Must end with a ".")**|
 |:-----|:-----|

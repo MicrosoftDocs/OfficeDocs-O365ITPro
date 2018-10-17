@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_name'
 - 'O365E_DOM_name'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -128,7 +128,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|:-----|
 |MX  <br/> |(Leave this field empty.)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Use the default value (300).  <br/> |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-    ![Name-BP-Configure-2-1](../media/11ba2160-fc8e-4196-bb15-2b7c6d49c8fc.png)
+   ![Name-BP-Configure-2-1](../media/11ba2160-fc8e-4196-bb15-2b7c6d49c8fc.png)
   
 5. Choose **Add Record**.
     
@@ -176,7 +176,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |Use the default value (300).  <br/> |
 |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |Use the default value (300).  <br/> |
    
-    ![Name-BP-Configure-3-1](../media/4e34caaf-b418-40ec-abfa-fe62175a87c2.png)
+   ![Name-BP-Configure-3-1](../media/4e34caaf-b418-40ec-abfa-fe62175a87c2.png)
   
 5. Choose **Add Record** to add the first record. 
     
@@ -199,7 +199,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     ![Name-BP-Configure-1-1](../media/1869b416-1d3f-4fb1-99c6-62b74ca7a4c7.png)
   
 2. Under **My Domains**, choose the name of the domain that you want to modify.
-    
+
     ![Name-BP-Configure-1-2](../media/c8b96e1e-aa35-4fb1-8209-450f587fec4d.png)
   
 3. In the **Details** column, choose ** DNS Records **. 
@@ -214,7 +214,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |TXT  <br/> |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |Use the default value (300).  <br/> |
    
-    ![Name-BP-Configure-4-1](../media/cbbfc071-840a-4ffa-a59e-0dfce03063cc.png)
+   ![Name-BP-Configure-4-1](../media/cbbfc071-840a-4ffa-a59e-0dfce03063cc.png)
   
 5. Choose **Add Record**.
     
@@ -246,16 +246,14 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |SRV|sip|1|Use the default value (300).|100|tls|443|sipdir.online.lync.com> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
 |SRV|sipfederationtls|1|Use the default value (300).|100|tcp|5061|sipfed.online.lync.com> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Name-BP-Configure-5-1](../media/d9a885fd-7300-45b6-ad4c-0b4bf1067560.png)
+   ![Name-BP-Configure-5-1](../media/d9a885fd-7300-45b6-ad4c-0b4bf1067560.png)
   
 5. Choose **Add Record**.
-    
+
     ![Name-BP-Configure-5-2](../media/a804d51d-8f57-4b0b-8bd6-a52eb1c87a97.png)
   
 6. Add the second SRV record:
-    
-    Use the values from the next row of the table above, and then choose **Add Record** to add the second record. 
-    
-> [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
 
+Use the values from the next row of the table above, and then choose **Add Record** to add the second record.
+>[!NOTE]
+>Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md).

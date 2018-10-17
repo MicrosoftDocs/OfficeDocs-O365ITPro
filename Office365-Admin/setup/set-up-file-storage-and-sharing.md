@@ -3,11 +3,10 @@ title: "Set up Office 365 file storage and sharing"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection:
 - Adm_O365_Top
 - strat_admin_top
@@ -30,10 +29,9 @@ One of the best ways to set up file storage and sharing for your business is to 
   
 Office 365 includes a basic team site for you to get started. You can immediately start storing files in OneDrive and collaborating on files in the team site.
   
-Last updated June 7, 2018
   
 ## Where you can store documents in Office 365
-<a name="BKMK_WhatDif"> </a>
+
 
 - OneDrive is designed for individual use, with the occasional sharing of files. 
     
@@ -55,10 +53,8 @@ Here are recommendations for what to store in each location when you use OneDriv
 > SharePoint also has other types of sites you can use for your business. You can use [communication sites](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb.aspx) in your intranet to publish information for a broad audience. And you can use [hub sites](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f.aspx) to connect sites in your intranet. 
   
 ## Start using OneDrive and your team site
-<a name="BKMK_WhatDif"> </a>
 
 ### Team members can store their own files in OneDrive
-<a name="bkmk_step1"> </a>
 
 Each person in your business who has an Office 365 license assigned (and SharePoint Online selected) gets OneDrive cloud storage. They can store business-related files here for access from any device, and they are only available to that user. For example, they might store a draft proposal, their meeting notes, or the script for a demo they're going to deliver.
   
@@ -93,7 +89,6 @@ Here's how each person on your team can set up OneDrive and share files.
     ![Email with link to share OneDrive folder](../media/750c92e1-f14f-404c-a6a3-2095e26c680c.png)
   
 ### Explore your team site
-<a name="bkmk_step1"> </a>
 
 Office 365 includes a basic team site with some features to help you get started. Only the people in your business can access this internal website.
   
@@ -111,10 +106,9 @@ Here's how you get to your team site:
     
   - The left-hand navigation menu to get to other areas on your team site, like the team document library.
     
-![SharePoint Online Team site home page](../media/fafe9a15-7e5c-470d-99a4-fd56b37064fa.png)
+    ![SharePoint Online Team site home page](../media/fafe9a15-7e5c-470d-99a4-fd56b37064fa.png)
   
 ### Upload files to your team site for online collaboration
-<a name="bkmk_step1"> </a>
 
 To help you get started storing and sharing files quickly, your team site comes with a place to store files. It's called the **Documents library** as in a "library of documents." 
   
@@ -141,7 +135,6 @@ Here are the steps to add files:
     If you need more storage space, see [Change storage space for your subscription](../subscriptions-and-billing/add-storage-space.md).
     
 ### Sync online files with your PC or Mac
-<a name="BKMK_Step4"> </a>
 
 Now that you have files on your team site, you can set them up to sync with your PC or Mac. This way, you can work on your files from your PC or Mac instead of working in Microsoft Edge, Chrome, or another browser. It's also useful to have a version of your files synced on your computer for situations when you need to get to a file and you aren't connected to the Internet.
   
@@ -179,7 +172,6 @@ Here's how to synchronize files on your team site with your desktop:
 7. Test the synchronization by opening a file in the team's folder on your computer. Make a change, and then choose **Save**.
     
 ## Best practices for file storage and sharing
-<a name="BKMK_WhatDif"> </a>
 
 Here are a few tips for getting the most from OneDrive or your SharePoint team site.
   
@@ -221,7 +213,6 @@ You can enable third-party storage for your users in Office 365 so they can stor
 4. Select **Allow people to use third-party hosted storage services** to turn this setting on or off. 
     
 ## Next steps
-<a name="BKMK_WhatDif"> </a>
 
 - [Customize your team site for file storage and sharing](cutomize-team-site.md) . This step-by-step tutorial shows you how to you can take advantage of more storage and collaboration features. 
     

@@ -3,11 +3,10 @@ title: "Add your company branding to Office 365 Sign In page"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -39,7 +38,4 @@ In addition to the sign-in page, you can customize the Access Panel page in Azur
   
 If you are ready to add branding, explore the customization options in the Azure content set: [Add company branding to your Sign-in and Access Panel pages](https://go.microsoft.com/fwlink/p/?LinkId=620077).
   
-## See also
-
-[Customize the Office 365 theme for your organization](customize-your-organization-theme.md)
 

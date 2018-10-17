@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_UD1'
 - 'O365E_DOM_UD1'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -56,9 +56,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 |**Subdomain**|**Record Type**|**Value**|
 |:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |TXT Record  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
-   
-    ![UnitedDomains-BP-Verify-1-1](../media/b596efe5-3a06-4104-ac26-8e470d69c2db.png)
+|(Leave this field empty.)  <br/> |TXT Record  <br/> |MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          <br/>
+
+   ![UnitedDomains-BP-Verify-1-1](../media/b596efe5-3a06-4104-ac26-8e470d69c2db.png)
   
 4. Choose the **Save** control that is indicated in the following illustration. 
     
@@ -125,9 +125,9 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |Second **NS** field  <br/> |ns2.bdm.microsoftonline.com  <br/> |
 |Third **NS** field  <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |Fourth **NS** field  <br/> |ns4.bdm.microsoftonline.com  <br/> |
-   
-    ![UnitedDomains-BP-Redelegate-1-2](../media/996bca3d-36fa-4eee-9ccf-b0198ee2675b.png)
-  
+
+   ![UnitedDomains-BP-Redelegate-1-2](../media/996bca3d-36fa-4eee-9ccf-b0198ee2675b.png)
+
 2. Choose **Save.**
     
     ![UnitedDomains-BP-Redelegate-1-3](../media/3dcda956-ee1f-419f-9358-e7b6801ac90e.png)

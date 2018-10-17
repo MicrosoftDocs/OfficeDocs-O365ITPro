@@ -3,11 +3,10 @@ title: "Microsoft 365 usage analytics data model"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -47,7 +46,6 @@ This API provides information about the monthly trend of usage of the various Of
 Expand the following sections to see the detailed information for each data table.
   
 ### Data table - User State
-<a name="bkmk_userstate"> </a>
 
 This table provides user level details for all users that have an license assigned to them during the last complete month. It brings in data from the Azure Active Directory.
   
@@ -79,7 +77,6 @@ This table provides user level details for all users that have an license assign
 |YAM_SuspensionDate  <br/> |Date the user entered the state of being suspended in Yammer.  <br/> |
    
 ### Data table - User Activity
-<a name="bkmk_userstate"> </a>
 
 This table contains data about each user who had an activity in any of the services in the previous month.
   
@@ -133,7 +130,6 @@ This table contains data about each user who had an activity in any of the servi
 |SFB_ConfPartSummary  <br/> |Number of conference sessions this user participated in.  <br/> |
    
 ### Data table - Tenant Product Usage
-<a name="bkmk_userstate"> </a>
 
 This table provides month over month adoption data in terms of enable, active, returning and first time users for each product within Office 365. The Office 365 value represent active usage in either of the products.
   
@@ -149,7 +145,6 @@ This table provides month over month adoption data in terms of enable, active, r
 |Content Date  <br/> |If timeframe shows current month, this value will represent the latest date of the current month for which data is available.  <br/> If Timeframe shows previous month, this value will represent the last date of the timeframe month.  <br/> |
    
 ### Data table - Tenant Product Activity
-<a name="bkmk_userstate"> </a>
 
 This table provides monthly totals of activity and active user count for various activity within the products.
   
@@ -164,7 +159,6 @@ This table provides monthly totals of activity and active user count for various
 |Content Date  <br/> |If timeframe shows current month, this value will represent the latest date of the current month for which data is available.  <br/> If Timeframe shows previous month, this value will represent the last date of the timeframe month.  <br/> |
    
 ### Data table - Tenant Mailbox Usage
-<a name="bkmk_userstate"> </a>
 
 This table consists of summary data across all licensed Exchange Online users who have a user mailboxes. It contains end of month state across all user mailboxes. The data in this table is not additive across multiple months. Latest month's data in this table represents the most recent state.
   
@@ -184,7 +178,6 @@ This table consists of summary data across all licensed Exchange Online users wh
 |Content Date  <br/> |If timeframe shows current month, this value will represent the latest date of the current month for which data is available.  <br/> If Timeframe shows previous month, this value will represent the last date of the timeframe month.  <br/> |
    
 ### Data table - Tenant Client Usage
-<a name="bkmk_userstate"> </a>
 
 This table provides month over month summary data about the clients that the users are using to connect to Exchange Online, Skype for Business and Yammer. This table does not yet have client use data for SharePoint Online and OneDrive for Business.
   
@@ -197,7 +190,6 @@ This table provides month over month summary data about the clients that the use
 |Content Date  <br/> |If timeframe shows current month, this value will represent the latest date of the current month for which data is available.  <br/> If Timeframe shows previous month, this value will represent the last date of the timeframe month.  <br/> |
    
 ### Data table - Tenant SharePoint Online Usage
-<a name="bkmk_sharepointusage"> </a>
 
 This table consists of month over month summary data about the usage or activity of SharePoint Online sites. This only covers Team Sites and Group sites. The end of month state of SharePoint Online sites is represented in this column, for example, if a user created a 5 documents and used 10 MB for total storage , and then deleted some files, and added more files so that at the end of month state for files is 7 total that use 5MB of storage, the value of represented in this table is end of month state. This table is hidden to avoid duplicate count of aggregations and is used as a source to create two reference tables.
   
@@ -216,7 +208,6 @@ This table consists of month over month summary data about the usage or activity
 |Content Date  <br/> |If timeframe shows current month, this value will represent the latest date of the current month for which data is available.  <br/> If Timeframe shows previous month, this value will represent the last date of the timeframe month.  <br/> |
    
 ### Data table - Tenant OneDrive Usage
-<a name="bkmk_tenantonedriveusage"> </a>
 
 This table provides data about the OneDrive accounts such as number of accounts, number of documents across OneDrive accounts, storage used, file count by activity type. The end of month state of OneDrive for Business accounts is represented in this table. For example, if a user created a 5 documents that used 10 MB of storage, and then deleted a few and added more files so that at the end of month he has 7 files that use 5 MB of storage, then the end of the month value is represented in this table at the end of the month.
   
@@ -235,13 +226,12 @@ This table provides data about the OneDrive accounts such as number of accounts,
 |Content Date  <br/> |If timeframe shows current month, this value will represent the latest date of the current month for which data is available.  <br/> If Timeframe shows previous month, this value will represent the last date of the timeframe month.  <br/> |
    
 ### Data table - Tenant Office 365 Groups Usage
-<a name="bkmk_tenantonedriveusage"> </a>
 
 This table provides data about how Office 365 Groups is used across the organization.
   
 ****
 
-|**Column name﻿**|**Column Description﻿**|
+|**Column name**|**Column Description**|
 |:-----|:-----|
 |TimeFrame  <br/> |Month value. There will be one row per product per month for the last 12 months including the current partial month.  <br/> |
 |GroupType  <br/> |Type of group (private/public/any).  <br/> |
@@ -251,7 +241,7 @@ This table provides data about how Office 365 Groups is used across the organiza
 |MBX_ActiveGroups  <br/> |Number of active mailbox groups.  <br/> |
 |MBX_TotalActivities  <br/> |Number of mailbox activities.  <br/> |
 |MBX_TotalItems  <br/> |Number of mailbox items.  <br/> |
-|MBX_StorageUsed  <br/> |Quantity ﻿of mailbox storage used.  <br/> |
+|MBX_StorageUsed  <br/> |Quantity of mailbox storage used.  <br/> |
 |SPO_TotalGroups  <br/> |Number of SharePoint groups.  <br/> |
 |SPO_ActiveGroups  <br/> |Number of active SharePoint groups.  <br/> |
 |SPO_FileAccessedActiveGroups  <br/> |Number of SharePoint groups which have file accessed activities.  <br/> |
@@ -265,7 +255,7 @@ This table provides data about how Office 365 Groups is used across the organiza
 |SPO_FileSharedExternallyActivities  <br/> |Number of SharePoint file shared externally activities.  <br/> |
 |SPO_TotalFiles  <br/> |Number of SharePoint files.  <br/> |
 |SPO_ActiveFiles  <br/> |Number of active SharePoint files.  <br/> |
-|SPO_StorageUsed  <br/> |Quantity ﻿of SharePoint storage used.  <br/> |
+|SPO_StorageUsed  <br/> |Quantity of SharePoint storage used.  <br/> |
 |YAM_TotalGroups  <br/> |Number of Yammer groups.  <br/> |
 |YAM_ActiveGroups  <br/> |Number of active Yammer groups.  <br/> |
 |YAM_LikedActiveGroups  <br/> |Number of Yammer groups which have like activities.  <br/> |
@@ -277,7 +267,6 @@ This table provides data about how Office 365 Groups is used across the organiza
 |YAM_ReadActivites  <br/> |Number of Yammer read activities.  <br/> |
    
 ### Data table - Tenant Office Activation
-<a name="bkmk_tenantonedriveusage"> </a>
 
 The table provides data about the number of Office subscription activations across the service plans, for example, Office Proplus, Visio, Project. It also provides data about number of activations per device (Android/iOS/Mac/PC).
   
@@ -294,14 +283,4 @@ The table provides data about the number of Office subscription activations acro
 |Timeframe  <br/> |This column has the date value. Used as Many to one relationship for Calendar table.  <br/> |
 |Content Date  <br/> |If timeframe shows current month, this value will represent the latest date of the current month for which data is available.  <br/> If Timeframe shows previous month, this value will represent the last date of the timeframe month.  <br/> |
    
-## Related Topics
-
-[Microsoft 365 usage analytics](usage-analytics.md)
-  
-[Enable Microsoft 365 usage analytics](enable-usage-analytics.md)
-  
-[Navigating and utilizing the reports in Microsoft 365 usage analytics](navigate-and-utilize-reports.md)
-  
-[Customizing﻿ the reports in Microsoft 365 usage analytics](customize-reports.md)
-  
 

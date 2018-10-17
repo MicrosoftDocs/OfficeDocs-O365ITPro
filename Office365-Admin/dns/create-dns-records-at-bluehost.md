@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_Bluehost'
 - 'O365E_DOM_Bluehost'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -110,7 +110,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|:-----|
 |@  <br/> |14400  <br/> |MX  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-    ![Select Type from the drop-down list](../media/70791420-d83c-4a5d-a46c-5cc3bc67f565.png)
+   ![Select Type from the drop-down list](../media/70791420-d83c-4a5d-a46c-5cc3bc67f565.png)
   
 5. Choose **add record**.
     
@@ -165,7 +165,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |14400  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
 |enterpriseenrollment  <br/> |14400  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-    ![Create the first CNAME record](../media/4f12e9b1-9dec-4bc2-aa15-8bffa71fe131.png)
+   ![Create the first CNAME record](../media/4f12e9b1-9dec-4bc2-aa15-8bffa71fe131.png)
   
 7. Choose **add record**.
     
@@ -199,7 +199,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |@  <br/> |14400  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Copy the TXT value](../media/b2dabd7a-ee3d-4209-aa1e-0233eb8cf3b9.png)
+   ![Copy the TXT value](../media/b2dabd7a-ee3d-4209-aa1e-0233eb8cf3b9.png)
   
 5. Choose **add record**.
     
@@ -227,7 +227,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip  <br/> |_tls  <br/> |@  <br/> |14400  <br/> |SRV  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
 |_sipfederationtls  <br/> |_tcp  <br/> |@  <br/> |14400  <br/> |SRV  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
    
-    ![Copy the value for the new record](../media/e2911bca-c00b-4b8a-837f-f1d438c474c4.png)
+   ![Copy the value for the new record](../media/e2911bca-c00b-4b8a-837f-f1d438c474c4.png)
   
 5. Choose **add record**.
     

@@ -9,7 +9,7 @@ ms.topic: article
 f1_keywords:
 - 'O365E_AdmSetSecPrivMFA'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection:
 - Adm_O365_Top
 - strat_admin_top
@@ -38,30 +38,23 @@ You get a free version of Azure multi-factor authentication as part of your Offi
 
 1. You must be an Office 365 global admin to do these steps.
     
-<<<<<<< HEAD
-2. 
 ::: moniker range="o365-worldwide"
 
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+2. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+2. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+2. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
-=======
-2. Go to the [Admin center](https://admin.microsoft.com).]
-   For Office 365 Germany, go to [https://portal.office.de/adminportal/home](https://portal.office.de/adminportal/home).
-   For Office 365 operated by 21Vianet in China, go to [https://login.partner.microsoftonline.cn](https://login.partner.microsoftonline.cn)
->>>>>>> supotter-conversion
 
 3. Go to **Users** \> **Active users**.
     

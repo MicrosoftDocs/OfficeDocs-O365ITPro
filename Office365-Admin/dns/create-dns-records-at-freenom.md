@@ -6,7 +6,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - BCS160
 - MET150
@@ -73,7 +73,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|:-----|
 |﻿(leave blank)  <br/> |﻿TXT  <br/> |﻿3600 (seconds)  <br/> |MS=msXXXXXXXX  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![Freenom TXT values for verification](../media/650098df-b3aa-47e5-9763-7fde24e34c3f.png)
+   ![Freenom TXT values for verification](../media/650098df-b3aa-47e5-9763-7fde24e34c3f.png)
   
 7. Choose **Save Changes**.
     
@@ -139,7 +139,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|:-----|
 |﻿(leave blank)  <br/> |﻿MX (Mail Exchanger)  <br/> |﻿3600 (seconds)  <br/> |\<domain-key\>.mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |﻿10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/17d415c1-067e-4974-84d5-aaeaf3a0c0a9) <br/> |
    
-    ![Freenom MX record](../media/8896c4a9-b3dd-45ed-9916-f7da2715ba8c.png)
+   ![Freenom MX record](../media/8896c4a9-b3dd-45ed-9916-f7da2715ba8c.png)
   
 9. ﻿Choose **Save Changes**.
     
@@ -181,7 +181,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |enterpriseregistration.windows.net  <br/> |
 |enterpriseenrollment  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-    ![Freenom CNAME values](../media/752fc682-e3f2-4b9c-9253-bf1ba2d414e9.png)
+   ![Freenom CNAME values](../media/752fc682-e3f2-4b9c-9253-bf1ba2d414e9.png)
   
 7. ﻿Choose **﻿Save Changes**.
     
@@ -223,7 +223,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |﻿(leave blank)  <br/> |﻿TXT  <br/> |﻿3600 (seconds)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Freenom TXT values for SPF](../media/1b3b1199-9104-4ca1-acdb-786d139c21ac.png)
+   ![Freenom TXT values for SPF](../media/1b3b1199-9104-4ca1-acdb-786d139c21ac.png)
   
 7. ﻿Choose **Save Changes**.
     

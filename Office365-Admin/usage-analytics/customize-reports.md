@@ -3,11 +3,10 @@ title: "Customize the reports in Microsoft 365 usage analytics"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -43,7 +42,7 @@ This example shows how to modify the **Adoption overview** report.
   
 4. At the top right of the report, click the title bar of the **Adoption overview** graph. 
     
-5. In the **Visualizations** area to the right, for the **FirstTimeUsers** column, click the ** X ** to the right to remove it. 
+5. In the **Visualizations** area to the right, for the **FirstTimeUsers** column, click the **X** to the right to remove it. 
     
 6. At the top right of the **Adoption overview** visual, click the Pin visual icon and in the dialog, click **Pin** \> **Existing dashboard**.
     
@@ -71,7 +70,7 @@ The following example shows how to create a new visual to track new Yammer users
   
 4. Click the bottom right of that visualization and drag to make it larger.
     
-5. In the ** Fields ** area to the right, expand the **Calendar** table. 
+5. In the **Fields** area to the right, expand the **Calendar** table. 
     
 6. Drag **MonthName** to the fields area, directly below the **Axis** heading in the **Visualizations** area. 
     
@@ -112,7 +111,7 @@ You can start by connecting directly to the ODATA reporting APIs from Office 365
     > [!NOTE]
     > The reporting APIs are in preview and are subject to change until they go into production. 
   
-![OData feed URL for Power BI desktop](../media/c0ef967e-a454-4eba-bc8e-61e113170053.png)
+    ![OData feed URL for Power BI desktop](../media/c0ef967e-a454-4eba-bc8e-61e113170053.png)
   
 3. Enter your Office 365 (organization or school) admin credentials to authenticate to Office 365 when prompted.
     
@@ -148,18 +147,4 @@ You can download the Power BI template file from the Microsoft download center [
     
 4. Follow [Getting started with Power BI](https://go.microsoft.com/fwlink/?linkid=849802) documentation to understand how to build reports, publish them to the Power BI service, and share with your organization. Following this path for customization and sharing may require additional Power BI licenses. See Power BI [licensing guidance](https://go.microsoft.com/fwlink/p/?linkid=849803) for details. 
     
-## Related Topics
-
-[Microsoft 365 usage analytics](usage-analytics.md)
-  
-[Enable Microsoft 365 usage analytics](enable-usage-analytics.md)
-  
-[Navigating and utilizing the reports in Microsoft 365 usage analytics](navigate-and-utilize-reports.md)
-  
-[Active user in Office 365 usage reports](active-user-in-usage-reports.md)
-  
-[Troubleshooting Microsoft 365 usage analytics](usage-analytics-errors.md)
-  
-[Microsoft 365 usage analytics data model](usage-analytics-data-model.md)
-  
 

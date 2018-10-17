@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_DE'
 - 'O365E_DOM_DE'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -77,7 +77,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|
 |@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![DomainExplorer-BP-Verify-1-2](../media/df68adf3-72ef-4823-bb35-5dc325365459.png)
+   ![DomainExplorer-BP-Verify-1-2](../media/df68adf3-72ef-4823-bb35-5dc325365459.png)
   
 5. Choose **Save Changes**.
     
@@ -131,7 +131,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-    ![DomainExplorer-BP-Configure-2-2](../media/84d188e6-8762-44c8-ab7a-55b8b2a0510c.png)
+   ![DomainExplorer-BP-Configure-2-2](../media/84d188e6-8762-44c8-ab7a-55b8b2a0510c.png)
   
 5. Choose **Save Changes**.
     
@@ -175,7 +175,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
 |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-    ![DomainExplorer-BP-Configure-3-1](../media/0e0bf1ef-e5a5-42b4-802d-58ade75cf388.png)
+   ![DomainExplorer-BP-Configure-3-1](../media/0e0bf1ef-e5a5-42b4-802d-58ade75cf388.png)
   
 5. Choose **Save Changes** to add rows, and then type or copy and paste the remaining values in the boxes for the new records. 
     
@@ -213,7 +213,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |@  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![DomainExplorer-BP-Configure-4-1](../media/2dec04a4-20b0-4864-9782-3fe92da1e815.png)
+   ![DomainExplorer-BP-Configure-4-1](../media/2dec04a4-20b0-4864-9782-3fe92da1e815.png)
   
 5. Choose **Save Changes**.
     
@@ -245,7 +245,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip  <br/> |_tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
 |_sipfederationtls  <br/> |_tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
    
-    ![DomainExplorer-BP-Configure-5-2](../media/ba7c9374-01b1-4a1f-b234-f0ded3641185.png)
+   ![DomainExplorer-BP-Configure-5-2](../media/ba7c9374-01b1-4a1f-b234-f0ded3641185.png)
   
 5. Choose **Save Changes**.
     

@@ -6,7 +6,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -127,7 +127,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |3600  <br/> |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![Active24-BP-Configure-2-2](../media/646f782f-46a9-4220-abe3-33492680260a.png)
+   ![Active24-BP-Configure-2-2](../media/646f782f-46a9-4220-abe3-33492680260a.png)
   
 6. Choose **Create**.
     
@@ -173,7 +173,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |3600  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
 |enterpriseenrollment  <br/> |3600  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-    ![Active24-BP-Configure-3-2](../media/51f796b3-67ed-4eba-a32f-cd283aa6ccba.png)
+   ![Active24-BP-Configure-3-2](../media/51f796b3-67ed-4eba-a32f-cd283aa6ccba.png)
   
 6. Choose **Create**.
     
@@ -211,7 +211,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |3600  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Active24-BP-Configure-4-2](../media/da9378c2-56a0-42a8-bea0-179bfa6cb414.png)
+   ![Active24-BP-Configure-4-2](../media/da9378c2-56a0-42a8-bea0-179bfa6cb414.png)
   
 6. Choose **Create**.
     

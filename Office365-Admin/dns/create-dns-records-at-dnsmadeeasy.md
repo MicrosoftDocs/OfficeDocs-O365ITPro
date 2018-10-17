@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_DNSMadeEasy'
 - 'O365E_DOM_DNSMadeEasy'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -117,7 +117,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |1800  <br/> |
    
-    ![DNSMadeEasy-BP-Configure-2-2](../media/69b53af9-1eec-435c-8434-1b6058c1ec82.png)
+   ![DNSMadeEasy-BP-Configure-2-2](../media/69b53af9-1eec-435c-8434-1b6058c1ec82.png)
   
 5. Choose **Submit**.
     
@@ -161,7 +161,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
 |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
    
-    ![DNSMadeEasy-BP-Configure-3-2](../media/de6dddcd-bf0a-4993-ab4c-a6d10167bf34.png)
+   ![DNSMadeEasy-BP-Configure-3-2](../media/de6dddcd-bf0a-4993-ab4c-a6d10167bf34.png)
   
 5. Choose **Submit**.
     
@@ -195,7 +195,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1800  <br/> |
    
-    ![DNSMadeEasy-BP-Configure-4-2](../media/b317bcb9-18c6-4609-a8f4-963823032669.png)
+   ![DNSMadeEasy-BP-Configure-4-2](../media/b317bcb9-18c6-4609-a8f4-963823032669.png)
   
 5. Choose **Submit**.
     
@@ -223,7 +223,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip._tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
 |_sipfederationtls._tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
    
-    ![DNSMadeEasy-BP-Configure-5-2](../media/e1155f94-575f-441a-9a61-d948391d42ca.png)
+   ![DNSMadeEasy-BP-Configure-5-2](../media/e1155f94-575f-441a-9a61-d948391d42ca.png)
   
 5. Choose **Submit**.
     

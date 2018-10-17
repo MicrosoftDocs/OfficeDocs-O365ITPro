@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_Aabaco'
 - 'O365E_DOM_Aabaco'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -53,12 +53,12 @@ Before you use your domain with Office 365, we have to make sure that you own it
 > [!NOTE]
 > This record is used only to verify that you own your domain; it doesn't affect anything else. You can delete it later, if you like. 
   
-1.     > [!IMPORTANT]
-    > Before you begin this procedure, make sure that you are logged out of any other Aabaco accounts that you may have. 
+> [!IMPORTANT]
+  > Before you begin this procedure, make sure that you are logged out of any other Aabaco accounts that you may have. 
   
-    To get started, go to your domains page at Aabaco Small Business by using [this link](https://www.luminate.com/services/). You'll be prompted to sign in first.
+   To get started, go to your domains page at Aabaco Small Business by using [this link](https://www.luminate.com/services/). You'll be prompted to sign in first.
     
-2. On the **My Services** page, in the section for the domain you're working with, choose **Domain**.
+1. On the **My Services** page, in the section for the domain you're working with, choose **Domain**.
     
 3. On the **Domain Control Panel** page, in the **TXT Records** section, choose **Add**.
     
@@ -68,7 +68,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|
 |@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> You must use the admin center to get this value. [How do I find this?](https://support.office.com/article/77f90d4a-dc7f-4f09-8972-c1b03ea85a67_.aspx)          |
    
-    ![Type or paste the DSN values on the Add TXT Record page](../media/ae8386df-6cec-4bbe-a280-9d3fc170d972.png)
+   ![Type or paste the DSN values on the Add TXT Record page](../media/ae8386df-6cec-4bbe-a280-9d3fc170d972.png)
   
 5. Choose **Add**.
     
@@ -92,10 +92,10 @@ When Office 365 finds the correct TXT record, your domain is verified.
 ## Add an MX record so email for your domain will come to Office 365
 <a name="BKMK_add_MX"> </a>
 
-1.     > [!IMPORTANT]
-    > Before you begin this procedure, make sure that you are logged out of any other Aabaco accounts that you may have. 
+ > [!IMPORTANT]
+  > Before you begin this procedure, make sure that you are logged out of any other Aabaco accounts that you may have. 
   
-    To get started, go to your domains page at Aabaco Small Business by using [this link](https://www.luminate.com/services/). You'll be prompted to sign in first.
+  To get started, go to your domains page at Aabaco Small Business by using [this link](https://www.luminate.com/services/). You'll be prompted to sign in first.
     
 2. On the **My Services** page, in the section for the domain you're working with, choose **Domain**.
     
@@ -111,7 +111,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|
 | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. [How do I find this?](77f90d4a-dc7f-4f09-8972-c1b03ea85a67.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-    ![Aabaco-BP-Configure-2-2](../media/c45cda65-86e0-4ed0-a589-a698cf655599.png)
+   ![Aabaco-BP-Configure-2-2](../media/c45cda65-86e0-4ed0-a589-a698cf655599.png)
   
 5. Choose **Add**.
     
@@ -128,10 +128,10 @@ When Office 365 finds the correct TXT record, your domain is verified.
 ## Add the six CNAME records that are required for Office 365
 <a name="BKMK_add_CNAME"> </a>
 
-1.     > [!IMPORTANT]
-    > Before you begin this procedure, make sure that you are logged out of any other Aabaco accounts that you may have. 
+ > [!IMPORTANT]
+   > Before you begin this procedure, make sure that you are logged out of any other Aabaco accounts that you may have. 
   
-    To get started, go to your domains page at Aabaco Small Business by using [this link](https://www.luminate.com/services/). You'll be prompted to sign in first.
+ To get started, go to your domains page at Aabaco Small Business by using [this link](https://www.luminate.com/services/). You'll be prompted to sign in first.
     
 2. On the **My Services** page, in the section for the domain you're working with, choose **Domain**.
     
@@ -155,7 +155,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
 |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
    
-    ![Aabaco-BP-Configure-3-2](../media/db4ff2a7-02b6-494c-bb30-a06a757b05a5.png)
+   ![Aabaco-BP-Configure-3-2](../media/db4ff2a7-02b6-494c-bb30-a06a757b05a5.png)
   
 5. Choose **Add**.
     
@@ -176,10 +176,10 @@ When Office 365 finds the correct TXT record, your domain is verified.
 > [!IMPORTANT]
 > You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [details and sample SPF records](https://docs.microsoft.com/en-us/office365/enterprise/external-domain-name-system-records). To validate your SPF record, you can use one of these [SPF validation tools](../setup/domains-faq.md). 
   
-1.     > [!IMPORTANT]
+ > [!IMPORTANT]
     > Before you begin this procedure, make sure that you are logged out of any other Aabaco accounts that you may have. 
   
-    To get started, go to your domains page at Aabaco Small Business by using [this link](https://www.luminate.com/services/). You'll be prompted to sign in first.
+ To get started, go to your domains page at Aabaco Small Business by using [this link](https://www.luminate.com/services/). You'll be prompted to sign in first.
     
 2. On the **My Services** page, in the section for the domain you're working with, choose **Domain**.
     
@@ -193,7 +193,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|
 |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Aabaco-BP-Configure-4-2](../media/62b89a12-fb10-4b79-b629-8282c56b78bb.png)
+   ![Aabaco-BP-Configure-4-2](../media/62b89a12-fb10-4b79-b629-8282c56b78bb.png)
   
 5. Choose **Add**.
     
@@ -202,10 +202,10 @@ When Office 365 finds the correct TXT record, your domain is verified.
 ## Add the two SRV records that are required for Office 365
 <a name="BKMK_add_SRV"> </a>
 
-1.     > [!IMPORTANT]
+ > [!IMPORTANT]
     > Before you begin this procedure, make sure that you are logged out of any other Aabaco accounts that you may have. 
   
-    To get started, go to your domains page at Aabaco Small Business by using [this link](https://www.luminate.com/services/). You'll be prompted to sign in first.
+ To get started, go to your domains page at Aabaco Small Business by using [this link](https://www.luminate.com/services/). You'll be prompted to sign in first.
     
 2. On the **My Services** page, in the section for the domain you're working with, choose **Domain**.
     
@@ -224,7 +224,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip._tls|sipdir.online.lync.com.> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |100|1|443|
 |_sipfederationtls._tcp|sipfed.online.lync.com.> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |100|1|5061|
    
-    ![Aabaco-BP-Configure-5-2](../media/65bb157b-0cfd-4c94-8ad5-1ca287eaed1d.png)
+   ![Aabaco-BP-Configure-5-2](../media/65bb157b-0cfd-4c94-8ad5-1ca287eaed1d.png)
   
 5. Choose **Add**.
     

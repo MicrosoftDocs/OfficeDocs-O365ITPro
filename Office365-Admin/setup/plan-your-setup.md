@@ -3,14 +3,13 @@ title: "Plan your setup of Office 365 for business"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_1stInfoRqrd'
 - 'O365P_1stDNSHoster'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection:
 - Adm_O365_Top
 - strat_admin_top
@@ -46,7 +45,7 @@ Here are the steps you'll do when you run the setup wizard:
   
 1. Add your domain, such as contoso.com.
     
-    When you signed up for Office 365, you got a user ID that includes an "onmicrosoft.com" domain. In this step, you can add your own domain so your user ID and email are personalized for your business, like rob@contoso.com. Domain setup can be confusing, but we'll guide you through it step by step. [What's a domain?](https://support.office.com/article/232d22cc-f4e3-4e1d-8445-2a4e9e848ebe.aspx)
+    When you signed up for Office 365, you got a user ID that includes an "onmicrosoft.com" domain. In this step, you can add your own domain so your user ID and email are personalized for your business, like rob@contoso.com. Domain setup can be confusing, but we'll guide you through it step by step. [What's a domain?](domains-faq.md#domains-faq)
     
     ![Add your domain](../media/9a2caeb3-7e4a-4d6a-bc9c-fb8e86687e7c.png)
   
@@ -57,7 +56,7 @@ Here are the steps you'll do when you run the setup wizard:
 3. Add your users. You can add users later, too; see [Add users individually or in bulk](../add-users/add-users.md).
     
     > [!NOTE]
-    > If you need to [assign admin permissions](https://support.office.com/article/F44FBE43-7E11-475B-A1B2-3F00719A853A.aspx) to the users you add in the wizard, you can do that later on the **Users** page. 
+    > If you need to [Assign admin roles in Office 365 for business](../add-users/assign-admin-roles.md) to the users you add in the wizard, you can do that later on the **Users** page. 
   
     ![Add users](../media/865a4703-15c5-46eb-8215-5c61748aaf08.png)
   
@@ -90,11 +89,11 @@ If you get stuck at any point, call us. [We're here to help!](../contact-support
 
 There are a couple of scenarios that include either migrating data or users from on-premises environments, or setting up a hybrid system that includes directory synchronization. If you are in this category, follow the instructions in these articles.
   
-- To set up directory synchronization with your on-premises Active Directory, see [Set up directory synchronization for Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846), and to understand the different identity models in Office 365, read [Understanding Office 365 identity and Azure Active Directory](https://support.office.com/article/06a189e7-5ec6-4af2-94bf-a22ea225a7a9).
+- To set up directory synchronization with your on-premises Active Directory, see [Set up directory synchronization for Office 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization), and to understand the different identity models in Office 365, read [Understanding Office 365 identity and Azure Active Directory](https://docs.microsoft.com/office365/enterprise/about-office-365-identity).
     
 - To set-up an Exchange hybrid, the full set of instructions that guide you through all the different ways of setting up a hybrid exchange (including setting up DNS records) can be found here: [Exchange Server Deployment Assistant](https://aka.ms/exdeploy)
     
-- To set up a SharePoint hybrid, particularly hybrid search and site features, see [Hybrid Search in SharePoint](https://support.office.com/article/1a7269ba-5aa7-481b-b608-030c58fa932e.aspx).
+- To set up a SharePoint hybrid, particularly hybrid search and site features, see [Hybrid Search in SharePoint](https://docs.microsoft.com/SharePoint/hybrid/hybrid-search-in-sharepoint).
     
 ## Do you want someone to help you set up Office 365?
 
@@ -104,7 +103,7 @@ There are a couple of scenarios that include either migrating data or users from
     
     ![A picture of the Need help? button in the admin center.](../media/794c0461-5a78-4c0a-92f0-62b8c5f205e3.png)
   
-  - **Call [Office 365 for Business Support](../contact-support-for-business-products.md) with your questions **. We're here to help! 
+  - **Call [Office 365 for Business Support](../contact-support-for-business-products.md) with your questions**. We're here to help! 
     
   - **Consider hiring a [Microsoft partner](https://go.microsoft.com/fwlink/?linkid=391089)**. If you're short on time, or have advanced requirements (like moving thousands of files to Office 365 cloud storage or integrating with other software), an experienced partner can be a big help. 
     
@@ -152,8 +151,8 @@ If you're going to use Office 365 for your email account, you can bring your exi
   
 |**How many mailboxes?**|**Recommendation**|
 |:-----|:-----|
-|Just a few  <br/> |If you don't want to use the setup wizard to migrate the mailboxes, you can let mailbox owners migrate their own email and contacts. See [Migrate email and contacts to Office 365 for business](migrate-email-and-contacts-0.md).  <br/> |
-|Several  <br/> |If you are migrating from Gmail, see [Migrate G Suite mailboxes to Office 365](https://support.office.com/article/665dc56c-581c-4e35-8028-6bc1e8497016).  <br/> If you are migrating from another email provider, including Exchange, see [Ways to migrate multiple email accounts to Office 365](https://support.office.com/article/0a4913fe-60fb-498f-9155-a86516418842).  <br/> |
+|Just a few  <br/> |If you don't want to use the setup wizard to migrate the mailboxes, you can let mailbox owners migrate their own email and contacts. See [Migrate email and contacts to Office 365 for business](migrate-email-and-contacts-admin.md).  <br/> |
+|Several  <br/> |If you are migrating from Gmail, see [Migrate G Suite mailboxes to Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrate-g-suite-mailboxes).  <br/> If you are migrating from another email provider, including Exchange, see [Ways to migrate multiple email accounts to Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/mailbox-migration).  <br/> |
    
 ## Plan for file storage and migration
 
@@ -189,7 +188,7 @@ To make and receive phone calls from people external to your business, you have 
     
 2. Buy the Cloud PBX add-on.
     
-3. Buy a [PSTN Calling plan](https://support.office.com/article/f47c6a97-bc8b-42e6-b5d4-ce6b41ed1918.aspx): you can only buy this after you buy the Cloud PBX add-on.
+3. Buy a [PSTN Calling plan](https://docs.microsoft.com/microsoftteams/what-are-calling-plans-in-office-365): you can only buy this after you buy the Cloud PBX add-on.
     
     This second option is ideal for businesses with several people who make and receive external phone calls.
     
@@ -199,30 +198,25 @@ There are other Skype for Business features you can add to your subscription, to
 
 Skype Meeting Broadcast is a feature that lets you produce, host, and broadcast meetings with up to 10,000 attendees. To learn more about how it works, see [What is Skype Meeting Broadcast?](https://support.office.com/article/c472c76b-21f1-4e4b-ab58-329a6c33757d.aspx)
   
-To use Skype Meeting Broadcast, you need to [enable](https://support.office.com/article/5299cce0-850e-42dc-b6ae-2d0ee775c4a9.aspx) it, [configure your network](https://support.office.com/article/dfa736b9-4920-4f48-b8c0-b5487ec6086f.aspx), and [schedule a practice meeting](https://support.office.com/article/c3995bc9-4d32-4f75-a004-3bc5c477e553.aspx) and have a user join it. 
+To use Skype Meeting Broadcast, you need to [enable](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/enable-skype-meeting-broadcast) it, [configure your network](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast), and [schedule a practice meeting](https://support.office.com/article/c3995bc9-4d32-4f75-a004-3bc5c477e553.aspx) and have a user join it. 
   
 ### IM with Skype contacts or other external Skype for Business users
 
 By default, everyone in the world who uses Skype for Business will be able to contact you, assuming they know your email address, your firewall is configured to allow it, and they have open communication policies.
   
-If you want to allow your users to communicate with some businesses but not others, see [Allow users to contact external Skype for Business users](https://support.office.com/article/b414873a-0059-4cd5-aea1-e5d0857dbc94.aspx).
+If you want to allow your users to communicate with some businesses but not others, see [Allow users to contact external Skype for Business users](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
   
-Skype for Business and the free Skype app are two different services. You can give your users permissions to search for and IM with people who are using the free Skype app. To do this, see [Let users add external contacts from Skype](https://support.office.com/article/08666236-1894-42ae-8846-e49232bbc460.aspx).
+Skype for Business and the free Skype app are two different services. You can give your users permissions to search for and IM with people who are using the free Skype app. To do this, see [Let users add external contacts from Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts).
   
 ### Choose who sees whether co-workers are online
 
-The presence feature shows who's online and what their availability is, such as available, busy, away, or presenting. You can choose the default settings for everyone in your business. For instructions, see [Configure presence in Skype for Business Online](https://support.office.com/article/ce59ac0b-8115-4c6b-8174-e3aef982d3cb.aspx).
+The presence feature shows who's online and what their availability is, such as available, busy, away, or presenting. You can choose the default settings for everyone in your business. For instructions, see [Configure presence in Skype for Business Online](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/configure-presence-in-skype-for-business-online).
   
 ## Plan for integration with Active Directory or other software
 
- **Do you want to integrate with your on-premises Active Directory?** You can integrate your on-premises Active Directory with Office 365 by using Azure Active Directory Connect. For instructions, see [Set up directory synchronization for Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846).
+ **Do you want to integrate with your on-premises Active Directory?** You can integrate your on-premises Active Directory with Office 365 by using Azure Active Directory Connect. For instructions, see [Set up directory synchronization for Office 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization).
   
  **Do you want to integrate Office 365 with software made by other companies?** If you need to integrate Office 365 with other software in your business, we recommend you consider [hiring a partner](https://go.microsoft.com/fwlink/?linkid=391089) to help you with your deployment. 
   
-## See Also
-
-[Set up Office 365 for business](setup.md)
-  
-[Set up Skype for Business Online](https://support.office.com/article/40296968-e779-4259-980b-c2de1c044c6e.aspx)
   
 

@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DNSMgr_OnMicrosoftDomain'
 - 'O365E_DNSMgr_OnMicrosoftDomain'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - GEA150
@@ -25,7 +25,7 @@ Office 365 operated by 21Vianet creates a domain for you, like contoso.partner.o
 Typically people use the initial domain while they're using a trial version, to try out the services or while they're getting things set up. You can continue to use the partner.onmschina.cn domain as long as you like; it'll still work for email and other services, even if you add a custom domain. But most people add their own domain, like fourthcoffee.com, to Office 365 before they start using Office 365 for their organization so they can use a friendly, memorable email address and user ID with the service. 
   
 ## You may have two initial domains: partner.onmschina.cn <br> and -public.sharepoint.cn
-<a name="__top"> </a>
+
 
 If you have a SharePoint Online Public Website, your Office 365 subscription may actually have two initial domains: the partner.onmschina.cn domain, that you chose when you signed up, and a SharePoint Online domain for your Public Website, created automatically for you.
   
@@ -38,7 +38,7 @@ If you have a SharePoint Online Public Website, your Office 365 subscription may
   
 
 ## Renaming or removing the partner.onmschina.cn domain
-<a name="__top"> </a>
+
 
  There are some limitations about the initial partner.onmschina.cn domain. 
   

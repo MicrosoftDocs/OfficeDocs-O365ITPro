@@ -6,7 +6,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -69,7 +69,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|:-----|
 |TXT﻿  <br/> |(leave blank)﻿  <br/> |MS=msXXXXXXXX  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |60 Minutes﻿  <br/> |
    
-    ![Rackspace_TXTforVerificationValues](../media/d00b252c-10d3-4a16-a7ac-fc75b292db18.png)
+![Rackspace_TXTforVerificationValues](../media/d00b252c-10d3-4a16-a7ac-fc75b292db18.png)
   
 5. Select **Add Record**.
     
@@ -114,7 +114,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|:-----|
 |MX﻿  <br/> |(leave blank)﻿  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |60 Minutes﻿  <br/> |
    
-    ![Rackspace_MXrecordValues](../media/d26b9323-82f5-4eac-a383-878ecb4dff79.png)
+![Rackspace_MXrecordValues](../media/d26b9323-82f5-4eac-a383-878ecb4dff79.png)
   
 5. Select **Add Record** to save the record. 
     
@@ -148,7 +148,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |CNAME﻿  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |60 Minutes  <br/> |
 |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |60 Minutes  <br/> |
    
-    ![Rackspace_CNAMErecordValues](../media/18eec053-af71-4583-80e3-739261ccbfa7.png)
+![Rackspace_CNAMErecordValues](../media/18eec053-af71-4583-80e3-739261ccbfa7.png)
   
 5. Select **Add Record** to save the record. 
     
@@ -178,7 +178,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |TXT  <br/> |(leave blank)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |60 Minutes  <br/> |
    
-    ![Rackspace_TXTforSPFValues](../media/f61aa5ff-357f-4e01-91bb-7501d338fb16.png)
+![Rackspace_TXTforSPFValues](../media/f61aa5ff-357f-4e01-91bb-7501d338fb16.png)
   
 5. Select **Add Record** to save the record. 
     
@@ -204,7 +204,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |SRV (Service)﻿  <br/> |sip  <br/> |tls  <br/> |(leave blank)  <br/> |sipdir.online.lync.com  <br/> |443﻿  <br/> |100﻿  <br/> |1﻿  <br/> |60 Minutes﻿  <br/> |
 |SRV (Service)﻿  <br/> |sipfederationtls  <br/> |tcp  <br/> |(leave blank)  <br/> |sipfed.online.lync.com  <br/> |5061﻿  <br/> |100﻿  <br/> |1﻿  <br/> |60 Minutes﻿  <br/> |
    
-    ![Rackspace_SRVrecordValues](../media/4ffbd17d-ca18-4220-a4cb-70b95a362d0d.png)
+ ![Rackspace_SRVrecordValues](../media/4ffbd17d-ca18-4220-a4cb-70b95a362d0d.png)
   
 5. Select **Add Record** to save the record. 
     

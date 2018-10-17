@@ -7,7 +7,7 @@ manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -50,18 +50,3 @@ An active user of Office products for [Microsoft 365 usage analytics](usage-anal
    
 MoMReturningUsers, FirstTimeUsers, &amp; CumulativeActiveUsers were reset starting January 1st 2018 with the inclusion of Microsoft Teams.
   
-## Related Topics
-
-[Microsoft 365 usage analytics](usage-analytics.md)
-  
-[Enable Microsoft 365 usage analytics](enable-usage-analytics.md)
-  
-[Navigating and utilizing the reports in Microsoft 365 usage analytics](navigate-and-utilize-reports.md)
-  
-[Customizing the reports in Microsoft 365 usage analytics](customize-reports.md)
-  
-[Troubleshooting Microsoft 365 usage analytics](usage-analytics-errors.md)
-  
-[Microsoft 365 usage analytics data model](usage-analytics-data-model.md)
-  
-

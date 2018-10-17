@@ -3,14 +3,13 @@ title: "Manage email app access in Office 365 admin center"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365E_AdminSettingsEmailApp
 O365M_AdminSettingsEmailApp'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - MOE150
@@ -20,11 +19,9 @@ ms.assetid: d00b6b83-1f14-4e9c-a2c5-dbd9a92816f4
 description: "Learn how to choose which mobile apps people can use to access email, calendar, and contacts."
 ---
 
-# Manage email app access in Office 365 admin center
+# Manage email app access in the admin center
 
-Use the mobile email access settings to choose which mobile apps people in your organization can use to access their Office 365 work or school account to access email, calendar and contacts.
-  
-Use the mobile email access settings to choose which mobile apps people in your organization can use to access their Office 365 work or school account for email, calendar and contacts
+Use the mobile email access settings to choose which mobile apps people in your organization can use to access their work or school account to access email, calendar and contacts.
   
 > [!IMPORTANT]
 > Your organization will have access to this setting unless you're using Microsoft Intune or you've configured mobile device management settings in the Exchange admin center. 
@@ -32,11 +29,11 @@ Use the mobile email access settings to choose which mobile apps people in your 
 ## Manage email app options
 
 > [!IMPORTANT]
->  If you don't use this feature, there'll be no changes to your users' experience. They'll be able to use any mobile email app to access their Office 365 work or school account for email, calendar, and contacts from their mobile device. 
+>  If you don't use this feature, there'll be no changes to your users' experience. They'll be able to use any mobile email app to access their work or school account for email, calendar, and contacts from their mobile device. 
   
-1. Sign in to Office 365with your work or school account. 
+1. Sign in to Office 365 with your work or school account. 
     
-2. Click **Admin** to go to the Office 365 admin center. 
+2. Click **Admin** to go to the admin center. 
     
 3. Navigate to **Settings** \> **Services &amp; add-ins**.
     

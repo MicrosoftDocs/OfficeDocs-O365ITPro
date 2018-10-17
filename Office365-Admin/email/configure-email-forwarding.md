@@ -3,11 +3,10 @@ title: "Configure email forwarding in Office 365"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -18,8 +17,6 @@ description: "Set up email forwarding to one or more email accounts using Office
 ---
 
 # Configure email forwarding in Office 365
-
- *Last updated 28 February, 2018* 
   
 As the admin of an Office 365 organization, you might have company requirements to set up email forwarding for a user's mailbox. Email forwarding lets you forward email messages sent to a user's mailbox to another user's mailbox inside or outside of your organization.
   
@@ -37,7 +34,7 @@ You must have [admin permissions](../add-users/about-admin-roles.md) in Office 3
   
 1. [Sign in to Office 365](https://go.microsoft.com/fwlink/p/?LinkID=402333).
     
-2. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
+2. Go to the [ Office 365 admin center](../admin-overview/about-the-admin-center.md).
     
 3. Select **Users**.
     

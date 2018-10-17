@@ -6,7 +6,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -86,7 +86,7 @@ Follow the steps below.
 |:-----|:-----|:-----|:-----|
 |TXT  <br/> |@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |30 min  <br/> |
    
-    ![Namecheap-BP-Verify-1-2](../media/fe75c0fd-f85c-4bef-8068-edaf9779b7f1.png)
+  ![Namecheap-BP-Verify-1-2](../media/fe75c0fd-f85c-4bef-8068-edaf9779b7f1.png)
   
 8. Choose the **Save Changes** (check mark) control. 
     
@@ -156,7 +156,7 @@ Follow the steps below.
 |:-----|:-----|:-----|:-----|:-----|
 |MX Record  <br/> |@  <br/> |\< *domain-key*  \>.mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |30 min  <br/> |
    
-    ![Namecheap-BP-Configure-2-2-2](../media/f3b76d62-5022-48c1-901b-8615a8571309.png)
+  ![Namecheap-BP-Configure-2-2-2](../media/f3b76d62-5022-48c1-901b-8615a8571309.png)
   
 8. Choose the **Save Changes** (check mark) control. 
     
@@ -219,7 +219,7 @@ Follow the steps below.
 |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
 |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
    
-    ![Namecheap-BP-Configure-3-2](../media/f79c5679-34eb-4544-8517-caa2e8a4111a.png)
+  ![Namecheap-BP-Configure-3-2](../media/f79c5679-34eb-4544-8517-caa2e8a4111a.png)
   
 8. Choose the **Save Changes** (check mark) control. 
     
@@ -270,7 +270,7 @@ Follow the steps below.
 |:-----|:-----|:-----|:-----|
 |TXT  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |30 min  <br/> |
    
-    ![Namecheap-BP-Configure-4-2](../media/ea0829f1-990b-424b-b26e-9859468318dd.png)
+  ![Namecheap-BP-Configure-4-2](../media/ea0829f1-990b-424b-b26e-9859468318dd.png)
   
 8. Choose the **Save Changes** (check mark) control. 
     
@@ -315,7 +315,7 @@ Follow the steps below.
 |_sip  <br/> |_tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |30 min  <br/> |
 |_sipfederationtls  <br/> |_tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |30 min  <br/> |
    
-    ![Namecheap-BP-Configure-5-2](../media/ff9566ea-0096-4b7f-873c-027080a23b56.png)
+ ![Namecheap-BP-Configure-5-2](../media/ff9566ea-0096-4b7f-873c-027080a23b56.png)
   
 8. Choose the **Save Changes** (check mark) control. 
     

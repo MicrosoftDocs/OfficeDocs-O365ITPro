@@ -3,18 +3,16 @@ title: "Change nameservers to set up Office 365 with One.com"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 536db9ab-a307-462c-b66f-6967a23330f0
-
 description: "Learn to set up your Office 365 custom domain with One.com if you want Office 365 to manage your DNS records. "
 ---
 
@@ -32,7 +30,6 @@ To learn about webhosting and DNS for websites with Office 365, see [Use a publi
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
-<a name="bkmk_txt"> </a>
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -51,19 +48,18 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     ![One_WebDNS](../media/a675d000-c681-4bbb-b0ac-4cf74a12ab86.png)
   
-4. 
-    
-    In the **Personal web DNS settings** section, enter the new TXT record. 
+4.     
+    In the **Personal web DNS settings** section, enter the new TXT record.
     
     (If records already exist, use the last row of boxes to enter the new record.)
     
-    U﻿nder **Type**, choose **TXT**, and then type or copy and paste the values from the table below into the boxes for the new record.
+    Under **Type**, choose **TXT**, and then type or copy and paste the values from the table below into the boxes for the new record.
     
-|**Domain﻿**|**Type**|**TTL**|**Priority**|**Value**|
+|**Domain**|**Type**|**TTL**|**Priority**|**Value**|
 |:-----|:-----|:-----|:-----|:-----|
-|( leave blank )  <br/> |TXT  <br/> |3600 (seconds)  <br/> |( leave blank )  <br/> |MS=msXXXXXXX  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
-   
-    ![One_VerificationTXT_values](../media/66589927-98e2-4acb-a333-baadf473db2b.png)
+|( leave blank )  <br/> |TXT  <br/> |3600 (seconds)  <br/> |( leave blank )  <br/> |MS=msXXXXXXX  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)
+    
+![One_VerificationTXT_values](../media/66589927-98e2-4acb-a333-baadf473db2b.png)
   
 5. Select the green **+** icon to save the record. 
     
@@ -91,7 +87,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Change nameservers
-<a name="bkmk_txt"> </a>
 
 1. Log in to your One.com control panel
     

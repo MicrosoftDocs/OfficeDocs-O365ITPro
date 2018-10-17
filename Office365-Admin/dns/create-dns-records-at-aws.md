@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_AWS'
 - 'O365E_DOM_AWS'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -114,7 +114,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |MX - Mail exchange  <br/> |No  <br/> |300  <br/> |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> The 0 is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Simple  <br/> |
    
-    ![AWS-BP-Configure-2-1](../media/94a71ce7-1b3b-4b1a-9ad3-9592db133075.png)
+   ![AWS-BP-Configure-2-1](../media/94a71ce7-1b3b-4b1a-9ad3-9592db133075.png)
   
 6. Choose **Create**.
     
@@ -163,7 +163,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
 |enterpriseenrollment  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
    
-    ![AWS-BP-Configure-3-1](../media/895c71bd-0e3a-425e-9681-98c1c67e714b.png)
+   ![AWS-BP-Configure-3-1](../media/895c71bd-0e3a-425e-9681-98c1c67e714b.png)
   
 6. Choose **Create**.
     
@@ -197,7 +197,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|
 |v=spf1 include:spf.protection.outlook.com -all  <br/> (The quotation marks required by the onscreen instructions are supplied automatically. You don't need to type them manually.)  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![AWS-BP-Configure-4-2](../media/beb3c086-eaf8-4245-9860-18512a3ff72e.png)
+   ![AWS-BP-Configure-4-2](../media/beb3c086-eaf8-4245-9860-18512a3ff72e.png)
   
 6. Choose **Save Record Set**.
     
@@ -225,7 +225,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip._tls|SRV - Service locator|No|300|100 1 443 sipdir.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |Simple|
 |_sipfederationtls._tcp|SRV - Service locator|No|300|100 1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |Simple|
    
-    ![AWS-BP-Configure-5-1](../media/c3f841d3-6076-428f-bb04-e71cc5f392fa.png)
+   ![AWS-BP-Configure-5-1](../media/c3f841d3-6076-428f-bb04-e71cc5f392fa.png)
   
 6. Choose **Create**.
     

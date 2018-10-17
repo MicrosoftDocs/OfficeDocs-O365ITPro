@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_UD'
 - 'O365E_DOM_UD'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -71,7 +71,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |TXT Record  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![UnitedDomains-BP-Verify-1-1](../media/b596efe5-3a06-4104-ac26-8e470d69c2db.png)
+![UnitedDomains-BP-Verify-1-1](../media/b596efe5-3a06-4104-ac26-8e470d69c2db.png)
   
 4. Choose the **Save** control that is indicated in the following illustration. 
     
@@ -119,7 +119,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |MX Record  <br/> |10  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> The 10 is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![UnitedDomains-BP-Configure-2-1](../media/6e24cc3f-fada-4d14-8358-f18ca83720ce.png)
+ ![UnitedDomains-BP-Configure-2-1](../media/6e24cc3f-fada-4d14-8358-f18ca83720ce.png)
   
 4. Choose the **Save** control that is indicated in the following illustration. 
     
@@ -159,7 +159,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |CNAME Record  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
 |enterpriseenrollment  <br/> |CNAME Record  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-    ![UnitedDomains-BP-Configure-3-2](../media/7773fdf5-24f7-49d1-87e9-eb4c53edae29.png)
+![UnitedDomains-BP-Configure-3-2](../media/7773fdf5-24f7-49d1-87e9-eb4c53edae29.png)
   
 5. When you've added the final new CNAME record, choose the **Save** control that is indicated in the following illustration. 
     
@@ -187,7 +187,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |(Leave this box empty.)  <br/> |TXT Record  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![UnitedDomains-BP-Configure-4-1](../media/6b86e269-e1b7-47bd-a87d-2e6d693ce865.png)
+![UnitedDomains-BP-Configure-4-1](../media/6b86e269-e1b7-47bd-a87d-2e6d693ce865.png)
   
 4. Choose the **Save** control that is indicated in the following illustration. 
     
@@ -215,7 +215,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip._tls|SRV Record|100 1 443 sipdir.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
 |_sipfederationtls._tcp|SRV Record|100 1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![UnitedDomains-BP-Configure-5-1](../media/9ba36aca-8567-4be8-823d-1f7a69a95993.png)
+![UnitedDomains-BP-Configure-5-1](../media/9ba36aca-8567-4be8-823d-1f7a69a95993.png)
   
 4. Choose **+ Add new record**.
     

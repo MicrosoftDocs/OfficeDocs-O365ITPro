@@ -6,7 +6,7 @@ ms.audience: Admin
 ms.topic: landing-page
 layout: LandingPage
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 9f818d7a-78b5-4490-b36c-e3bfe328dfc3
 description: "Quick links for the most common admin tasks in Office 365."
 ---
@@ -53,7 +53,11 @@ Quick links for the most common admin tasks in Office 365.
         </a>
     </li>
     <li>
+<<<<<<< HEAD
         <a href="../add-users/remove-a-former-employee.md">
+=======
+        <a href="../add-users/remove-former-employee.md">
+>>>>>>> cmcatee-conversion
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -141,7 +145,11 @@ Quick links for the most common admin tasks in Office 365.
                         <h3>Email</h3>
                             <p><a href="../add-users/add-users.md">Add a new employee</a></p>
                             <p><a href="https://support.office.com/article/97748418-bbd5-4743-a05b-581f22a466dd">Fix email messages when they won't send</a></p>
+<<<<<<< HEAD
                             <p><a href="../troubleshoot-issues-for-office-admins/troubleshoot-email-issues.md">Troubleshoot email issues</a></p>
+=======
+                            <p><a href="../troubleshoot-issues-for-admins/troubleshoot-email-issues.md">Troubleshoot email issues</a></p>
+>>>>>>> cmcatee-conversion
                             <p><b>More tasks:</b> <a href="../email/email.md">Email in Office 365 for business</a></p>
                     </div>
                 </div>
@@ -188,11 +196,11 @@ Quick links for the most common admin tasks in Office 365.
                 <div class="card">
                     <div class="cardText">
                         <h3>Yammer</h3>
-                            <p><a href="https://support.office.com/article/b1745e3c-d4d7-4e20-a155-ebf85106b998">Office 365 sign-in for Yammer</a></p>
-                            <p><a href="https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039">Manage users from Office 365</a></p>
-                            <p><a href="https://support.office.com/article/008f940b-6bec-47fc-bcc6-9c6133467562">Office 365 identity for Yammer</a></p>
-                            <p><a href="https://support.office.com/article/4817d2fa-50f6-4f25-88a0-a312745768d4">Embed a Yammer feed into a SharePoint site</a></p>
-                            <p><b>More tasks:</b> <a href="https://support.office.com/article/e1464355-1f97-49ac-b2aa-dd320b179dbe">Yammer admin center</a></p>
+                            <p><a href="https://docs.microsoft.com/en-us/yammer/manage-yammer-users/office-365-sign-in">Office 365 sign-in for Yammer</a></p>
+                            <p><a href="https://docs.microsoft.com/en-us/yammer/manage-yammer-users/manage-users-across-their-lifecycle">Manage Yammer users from Office 365</a></p>
+                            <p><a href="https://docs.microsoft.com/en-us/yammer/configure-your-yammer-network/enforce-office-365-identity">Enforce Office 365 identity for Yammer users</a></p>
+                            <p><a href="https://docs.microsoft.com/en-us/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site">Embed a Yammer feed into a SharePoint site</a></p>
+                            <p><b>More tasks:</b> <a href="https://docs.microsoft.com/en-us/yammer/yammer-landing-page">Yammer admin HELP</a></p>
                     </div>
                 </div>
             </div>

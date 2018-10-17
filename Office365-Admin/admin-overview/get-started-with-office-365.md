@@ -16,7 +16,7 @@ f1_keywords:
 - 'O365E_GSO365'
 - 'O365E_GetStarted'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection:
 - Adm_O365_Top
 - strat_admin_top
@@ -45,7 +45,7 @@ Your organization recently got Office 365, and now you need to use it so you can
 ::: moniker-end
 
 ## Training resources for your users
-<a name="__top"> </a>
+
 
 - [Employee quick start](https://support.office.com/article/b9700090-ce64-4046-ab92-ce8488a7bc0f.aspx)
     
@@ -58,7 +58,7 @@ Your organization recently got Office 365, and now you need to use it so you can
 - [Mobile setup](https://support.office.com/article/7dabb6cb-0046-40b6-81fe-767e0b1f014f.aspx)
     
 ## Training resources for you, the admin
-<a name="__top"> </a>
+
 
 Here are some resources to help you get started.
   
@@ -69,7 +69,7 @@ Here are some resources to help you get started.
 - [Contact support - Admin Help](../contact-support-for-business-products.md) : Call us, open an online request, or let the community help. 
     
 ## See also
-<a name="__top"> </a>
+
 
 [Set up Office 365 for business - Admin Help](../setup/setup.md)
 

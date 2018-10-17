@@ -6,7 +6,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -59,15 +59,15 @@ To change your domain's name servers at your domain registrar's website yourself
     
 2. Either create two nameserver records by using the values in the following table, or edit the existing nameserver records so that they match these values. An example of Azure assigned nameservers is shown below.
     
-|||
-|:-----|:-----|
-|**First nameserver** <br/> |Use the name server value assigned by Azure.  <br/> |
-|**Second nameserver** <br/> |Use the name server value assigned by Azure.  <br/> |
-   
-    ![Azure-BP-Redelegate-1-1](../media/3e4805ea-608a-4df9-8f68-1fbf70d13d08.png)
+
+
+**First nameserver:** Use the name server value assigned by Azure.  
+**Second nameserver:** Use the name server value assigned by Azure.  
+
+![Azure-BP-Redelegate-1-1](../media/3e4805ea-608a-4df9-8f68-1fbf70d13d08.png)
   
-    > [!TIP]
-    > You should use at least two name server records. If there are any other name servers listed at your domain registrar's website, you should delete them. 
+> [!TIP]
+> You should use at least two name server records. If there are any other name servers listed at your domain registrar's website, you should delete them. 
   
 3. Save your changes.
     
@@ -102,11 +102,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|:-----|:-----|
 |@  <br/> |TXT  <br/> |1  <br/> |Hours  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![Azure-BP-Verify-1-1](../media/7d5a253c-e88f-4565-a00a-79bba52f9970.png)
+![Azure-BP-Verify-1-1](../media/7d5a253c-e88f-4565-a00a-79bba52f9970.png)
   
 5. Choose **OK**.
-    
-    ![Azure-BP-Verify-1-2](../media/87550d02-5168-4e78-8c87-1cc29ac28e61.png)
   
 6. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
@@ -152,9 +150,8 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 |**Name**|**Type**|**TTL**|**TTL unit**|**Preference**|**Mail Exchange**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|@  <br/> |MX  <br/> |1  <br/> |Hours  <br/> |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
-   
-    ![Azure-BP-Configure-2-1](../media/712c23ae-9d38-4af2-94e0-0704e70744fe.png)
+|@  <br/> |MX  <br/> |1  <br/> |Hours  <br/> |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)     
+![Azure-BP-Configure-2-1](../media/712c23ae-9d38-4af2-94e0-0704e70744fe.png)
   
 5. Choose **OK**.
     
@@ -218,7 +215,8 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     Repeat this process until you have created all four CNAME records.
     
-7.     > [!IMPORTANT]
+7.  (Optional) Add 2 CNAME records for MDM
+> [!IMPORTANT]
     > If you have Mobile Device Management (MDM) for Office 365, then you must create two additional CNAME records. Follow the procedure that you used for the other four CNAME records, but supply the values from the following table. > (If you do not have MDM, you can skip this step.) 
   
 |**Name**|**Type**|**TTL**|**TTL unit**|**Alias**|
@@ -250,9 +248,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 |**Name**|**Type**|**TTL**|**TTL unit**|**Value**|
 |:-----|:-----|:-----|:-----|:-----|
-|@  <br/> |TXT  <br/> |1  <br/> |Hours  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
-   
-    ![Azure-BP-Configure-4-2](../media/78e84c43-e0ce-433f-8e74-9157fb093cca.png)
+|@  <br/> |TXT  <br/> |1  <br/> |Hours  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           
+
+![Azure-BP-Configure-4-2](../media/78e84c43-e0ce-433f-8e74-9157fb093cca.png)
   
 5. Choose **Save**.
     
@@ -282,9 +280,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |**Name**|**Type**|**TTL**|**TTL unit**|**Priority**|**Weight**|**Port**|**Target**|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |_sip._tls  <br/> |SRV  <br/> |1  <br/> |Hours  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
-|_sipfederationtls._tcp  <br/> |SRV  <br/> |1  <br/> |Hours  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
-   
-    ![Azure-BP-Configure-5-1](../media/a436e0b4-8bb8-4a66-9c22-4e3b2dcf54ff.png)
+|_sipfederationtls._tcp  <br/> |SRV  <br/> |1  <br/> |Hours  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> 
+
+![Azure-BP-Configure-5-1](../media/a436e0b4-8bb8-4a66-9c22-4e3b2dcf54ff.png)
   
 5. Choose ** OK **.
     

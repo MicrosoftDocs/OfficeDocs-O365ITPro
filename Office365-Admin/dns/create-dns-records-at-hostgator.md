@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_Hostgator'
 - 'O365E_DOM_Hostgator'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -165,7 +165,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|
 |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![Hostgator-BP-Configure-2-4](../media/cedfb530-eb60-4e0b-82cc-35a30c9c1287.png)
+   ![Hostgator-BP-Configure-2-4](../media/cedfb530-eb60-4e0b-82cc-35a30c9c1287.png)
   
 6. Choose **Add New Record**.
     
@@ -215,7 +215,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration. *domain_name*  .. (for example, enterpriseregistration.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
 |enterpriseenrollment. *domain_name*  .. (for example, enterpriseregistration.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-    ![Hostgator-BP-Configure-3-1](../media/9f9e988b-9f8a-4f7b-a6da-c04bd8e5da7c.png)
+   ![Hostgator-BP-Configure-3-1](../media/9f9e988b-9f8a-4f7b-a6da-c04bd8e5da7c.png)
   
 4. Choose **Add Record**.
     
@@ -255,7 +255,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |Use your  *domain_name*  . (for example, fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Hostgator-BP-Configure-4-1](../media/e3e6c591-2678-4b6a-b5ba-a03389a98906.png)
+   ![Hostgator-BP-Configure-4-1](../media/e3e6c591-2678-4b6a-b5ba-a03389a98906.png)
   
 4. Choose **Add Record**.
     
@@ -287,7 +287,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip._tls. *domain_name*  . (for example, _sip._tls.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |SRV  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
 |_sipfederationtls._tcp. *domain_name*  . (for example, _sipfederationtls._tcp.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |SRV  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
    
-    ![Hostgator-BP-Configure-5-1](../media/6a9e1afd-e9fa-4b37-b65e-689668f7eee9.png)
+   ![Hostgator-BP-Configure-5-1](../media/6a9e1afd-e9fa-4b37-b65e-689668f7eee9.png)
   
 4. Choose **Add Record**.
     

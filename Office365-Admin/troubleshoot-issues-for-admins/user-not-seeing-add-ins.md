@@ -6,7 +6,7 @@ manager: scotv
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -20,13 +20,13 @@ description: "Learn how to help your users troubleshoot centralized add-ins, if 
 
 Now that you've deployed the add-in, your end users can start using it in their Office applications. The add-in will appear on all platforms that the add-in supports.
   
-## For Word, PowerPoint and Excel 2016
+## For Word, PowerPoint, and Excel 2016
 
 If the add-in supports add-in commands, the commands appear on the Office ribbon. In the following example, the command appears for the People Graph add-in in the **Insert** tab. The add-in command can appear on any tab. 
   
 ![People Graph in the Insert tab](../media/bc8f7108-72b3-4a8f-abce-9c1d49757396.png)
   
-If the deployed add-in doesn't support add-in commands or if you want to view all deployed add-ins, you can view them via **My Add-ins** from the ** Insert ** tab. 
+If the deployed add-in doesn't support add-in commands or if you want to view all deployed add-ins, you can view them via **My Add-ins** from the **Insert** tab. 
   
 ![You can view add-ins in My Add-ins from the Insert tab.](../media/1395dfb5-5cbb-4f9c-851c-74991eb36e1a.png)
   
@@ -62,7 +62,7 @@ Users can't see add-in? Try one of these:
     
   - Please see further information regarding [minors using add-ins](https://support.office.com/en-us/article/Manage-deployment-of-Office-365-add-ins-in-the-Office-365-admin-center-737e8c86-be63-44d7-bf02-492fa7cd9c3f) if applicable. 
     
-- ** Check for nested groups **
+- **Check for nested groups**
     
   - Add-ins will no longer appear to the user if the user is removed from a group that the add-in is assigned to.
     

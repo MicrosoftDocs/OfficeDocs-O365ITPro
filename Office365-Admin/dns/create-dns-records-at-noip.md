@@ -6,7 +6,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -75,7 +75,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|
 |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![NoIP-BP-Verify-1-2](../media/3a7b6740-794c-4b3b-a140-518e1f04fa2a.png)
+  ![NoIP-BP-Verify-1-2](../media/3a7b6740-794c-4b3b-a140-518e1f04fa2a.png)
   
 5. Choose **Submit**.
     
@@ -126,7 +126,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|
 | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |5  <br/> (This is the default value.)  <br/> |
    
-    ![NoIP-BP-Configure-2-1](../media/7fdf72ed-d6ce-4074-98ca-df1e83eea349.png)
+ ![NoIP-BP-Configure-2-1](../media/7fdf72ed-d6ce-4074-98ca-df1e83eea349.png)
   
 4. Choose **Update Host**.
     
@@ -172,7 +172,7 @@ To create a CNAME record, NoIP requires a two-step process. First, you create a 
 |enterpriseregistration  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |enterpriseregistration.windows.net  <br/> |
 |enterpriseenrollment  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-    ![NoIP-BP-Configure-3-2-2](../media/660dfdfc-949e-419e-9b23-caeb3ac3d934.png)
+ ![NoIP-BP-Configure-3-2-2](../media/660dfdfc-949e-419e-9b23-caeb3ac3d934.png)
   
 5. Choose **DNS Alias (CNAME)**.
     
@@ -221,7 +221,7 @@ To create a CNAME record, NoIP requires a two-step process. First, you create a 
 |:-----|
 |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![NoIP-BP-Configure-4-2](../media/322de050-3a8a-4a5b-857e-7ec407a32201.png)
+  ![NoIP-BP-Configure-4-2](../media/322de050-3a8a-4a5b-857e-7ec407a32201.png)
   
 5. Choose **Update**.
     
@@ -256,7 +256,7 @@ To create a CNAME record, NoIP requires a two-step process. First, you create a 
 |sip  <br/> |TLS  <br/> |100  <br/> |1  <br/> |sipdir.online.lync.com  <br/> |443  <br/> |300  <br/> |
 |sipfederationtls  <br/> |TCP  <br/> |100  <br/> |1  <br/> |sipfed.online.lync.com  <br/> |5061  <br/> |300  <br/> |
    
-    ![NoIP-BP-Configure-5-2](../media/386af063-74d0-4da0-ae1d-57710f537649.png)
+  ![NoIP-BP-Configure-5-2](../media/386af063-74d0-4da0-ae1d-57710f537649.png)
   
 5. Choose **Submit**.
     

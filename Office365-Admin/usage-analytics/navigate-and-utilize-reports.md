@@ -3,11 +3,10 @@ title: "Navigate and utilize the reports in Microsoft 365 usage analytics"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -37,13 +36,13 @@ To get started with your reports, here are some tips:
     
     ![Hover over data points to view a callout with detailed information](../media/246cc14c-d1f7-43d4-b9b3-59f32d65e0b2.png)
   
-﻿The user who has instantiated the content pack will have the ability to edit the report to customize it to their needs. To customize the content pack: 
+    The user who has instantiated the content pack will have the ability to edit the report to customize it to their needs. To customize the content pack: 
   
 - Choose **Edit report** button at the top of the report, 
     
     ![Choose Edit report to edit your Power BI visualization](../media/18bcc787-0ed7-4c71-a2d2-ad66fdeb68ae.png)
   
-- Create your own ﻿visuals by using the underlying [datasets](usage-analytics-data-model.md).
+- Create your own visuals by using the underlying [datasets](usage-analytics-data-model.md).
     
 - Use PowerBI Desktop to bring in your own data sources.
     
@@ -65,12 +64,4 @@ You can find lots of additional information in the Power BI help documentation:
     
     Learn how to share reports with your colleagues, or people outside your organization. You can also share just a report, or a filtered version of the report.
     
-## Related Topics
-
-[Microsoft 365 usage analytics](usage-analytics.md)
-  
-[Enable Microsoft 365 usage analytics](enable-usage-analytics.md)
-  
-[Microsoft 365 usage analytics data ﻿model](usage-analytics-data-model.md)
-  
 

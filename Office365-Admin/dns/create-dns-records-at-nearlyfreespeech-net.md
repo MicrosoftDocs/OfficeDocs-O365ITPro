@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_NFS'
 - 'O365E_DOM_NFS'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -108,7 +108,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |MX  <br/> |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> The **0** is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |3600  <br/> |
    
-    ![NearlyFreeSpeech-BP-Configure-2-1](../media/82956d6b-ed21-4cd4-8d28-513f0f501a9b.png)
+  ![NearlyFreeSpeech-BP-Configure-2-1](../media/82956d6b-ed21-4cd4-8d28-513f0f501a9b.png)
   
 5. Choose **Add Record**.
     
@@ -154,7 +154,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
 |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
    
-    ![NearlyFreeSpeech-BP-Configure-3-1](../media/3d67c502-1c76-47de-b746-b947876cb3cb.png)
+ ![NearlyFreeSpeech-BP-Configure-3-1](../media/3d67c502-1c76-47de-b746-b947876cb3cb.png)
   
 5. Choose **Add Record**.
     
@@ -188,7 +188,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |3600  <br/> |
    
-    ![NearlyFreeSpeech-BP-Configure-4-1](../media/1d3efb49-6198-468d-a9e8-91b79dcd7722.png)
+ ![NearlyFreeSpeech-BP-Configure-4-1](../media/1d3efb49-6198-468d-a9e8-91b79dcd7722.png)
   
 5. Choose **Add Record**.
     
@@ -218,7 +218,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip._tls|SRV|100 1 443 sipdir.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |3600|
 |_sipfederationtls._tcp|SRV|100 1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |3600|
    
-    ![NearlyFreeSpeech-BP-Configure-5-1](../media/067aadd6-4828-44bc-a57b-258746b0a8d6.png)
+ ![NearlyFreeSpeech-BP-Configure-5-1](../media/067aadd6-4828-44bc-a57b-258746b0a8d6.png)
   
 5. Choose **Add Record**.
     

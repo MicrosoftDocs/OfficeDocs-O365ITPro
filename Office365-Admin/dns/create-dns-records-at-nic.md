@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_NIC'
 - 'O365E_DOM_NIC'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -120,7 +120,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|:-----|
 |MX  <br/> |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |1  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |1 Hour  <br/> |
    
-    ![NIC-BP-Configure-2-2](../media/b6ac4a39-e894-46c6-8008-08ed1d247eee.png)
+ ![NIC-BP-Configure-2-2](../media/b6ac4a39-e894-46c6-8008-08ed1d247eee.png)
   
 7. Choose **Save**.
     
@@ -172,7 +172,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |1 Hour  <br/> |
 |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |1 Hour  <br/> |
    
-    ![NIC-BP-Configure-3-2](../media/47b8500f-cec5-446f-a3b8-b8ece1233efb.png)
+![NIC-BP-Configure-3-2](../media/47b8500f-cec5-446f-a3b8-b8ece1233efb.png)
   
 7. Choose **Save**.
     
@@ -210,7 +210,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |TXT (Text)  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1 Hour  <br/> |
    
-    ![NIC-BP-Configure-4-2](../media/7e9195f0-8da5-4e6b-8fb2-8f657189f078.png)
+![NIC-BP-Configure-4-2](../media/7e9195f0-8da5-4e6b-8fb2-8f657189f078.png)
   
 7. Choose **Save**.
     
@@ -244,7 +244,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |SRV (Service)  <br/> |@  <br/> |sipdir.online.lync.com  <br/> |_tls  <br/> |_sip  <br/> |100  <br/> |1  <br/> |443  <br/> |1 Hour  <br/> |
 |SRV (Service)  <br/> |@  <br/> |sipfed.online.lync.com  <br/> |_tcp  <br/> |_sipfederationtls  <br/> |100  <br/> |1  <br/> |5061  <br/> |1 Hour  <br/> |
    
-    ![NIC-BP-Configure-5-2](../media/a47c45ea-02cc-49f6-89cd-6530f72175fd.png)
+ ![NIC-BP-Configure-5-2](../media/a47c45ea-02cc-49f6-89cd-6530f72175fd.png)
   
 7. Choose **Save**.
     

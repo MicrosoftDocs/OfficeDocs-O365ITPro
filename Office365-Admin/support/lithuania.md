@@ -6,7 +6,7 @@ manager: mnirkhe
 audience: Admin
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 description: Learn how to contact support for your country or region.
 ROBOTS: NOINDEX, NOFOLLOW
 ---

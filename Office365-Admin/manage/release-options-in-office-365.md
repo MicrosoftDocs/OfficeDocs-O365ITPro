@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_FirstRelease'
 - 'O365E_FirstRelease'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160

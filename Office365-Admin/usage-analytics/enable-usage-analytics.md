@@ -3,7 +3,6 @@ title: "Enable Microsoft 365 usage analytics"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -11,7 +10,7 @@ f1_keywords:
 - 'O365M_SettingsReportsPBI'
 - 'O365E_SettingsReportsPBI'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -37,7 +36,7 @@ If you don't already have Power BI, you can [sign up for the free Power BI servi
   
 You can also expand **Products** to buy a version of Power BI. 
   
-### Enable﻿ the content pack
+### Enable the content pack
 
 To enable the content pack, you have to be either a **global administrator**, **report reader**, **Exchange administrator**, **Skype for Business administrator**, or **SharePoint administrator**. 
   
@@ -73,9 +72,9 @@ To instantiate the content pack, you have to be either a **global administrator*
   
 6. Once the content pack is instantiated the Microsoft 365 usage analytics dashboard will be available in Power BI on the web. The initial loading of the dashboard will take between 2 to 30 minutes.
   
-T﻿enant level aggregates will be available in all reports. **User-level details will only become available after the 1st or 15th day of the calendar month after opting in**. This will impact the following reports - which will show tiles without data - until that point: 
+Tenant level aggregates will be available in all reports. **User-level details will only become available after the 1st or 15th day of the calendar month after opting in**. This will impact the following reports - which will show tiles without data - until that point: 
     
-    See [Navigating and utilizing the reports in Microsoft 365 usage analytics](navigate-and-utilize-reports.md) for tips on how to view and use these reports. 
+   See [Navigate and utilize the reports in Microsoft 365 usage analytics](navigate-and-utilize-reports.md#navigate-and-utilize-the-reports-in-microsoft-365-usage-analytics) for tips on how to view and use these reports. 
     
   - Exchange - User activity
     
@@ -98,7 +97,6 @@ T﻿enant level aggregates will be available in all reports. **User-level detail
   - Yammer usage
     
 ## Make the collected data anonymous
-<a name="bkmk_"> </a>
 
 To make the data that is collected for all reports anonymous, you have to be a global administrator. This will hide identifiable information such as user, group and site names in reports and in the content pack .
   
@@ -110,19 +108,4 @@ To make the data that is collected for all reports anonymous, you have to be a g
   
 3. Choose **Save**.
     
-## Related Topics
-<a name="bkmk_"> </a>
-
-[Microsoft 365 usage analytics](usage-analytics.md)
-  
-[Active user in Office 365 usage reports](active-user-in-usage-reports.md)
-  
-[Navigating and utilizing the reports in Microsoft 365 usage analytics](navigate-and-utilize-reports.md)
-  
-[Customizing the reports in Microsoft 365 usage analytics](customize-reports.md)
-  
-[Troubleshooting Microsoft 365 usage analytics](usage-analytics-errors.md)
-  
-[Microsoft 365 usage analytics data model](usage-analytics-data-model.md)
-  
 

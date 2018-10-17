@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_GoogleDomains'
 - 'O365E_DOM_GoogleDomains'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -100,13 +100,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
 
 1. To get started, go to your domains page at Google Domains by using [this link](https://domains.google.com/registrar). You'll be prompted to sign in. To do so:
     
-1. Choose **Sign In**.
+2. Choose **Sign In**.
     
-2. Enter your login credentials, and then again choose **Sign In**.
+3. Enter your login credentials, and then again choose **Sign In**.
+4. On the **Domains** page, in the **Domain** section, choose **Configure DNS** for the domain that you want to edit.
     
-2. On the **Domains** page, in the **Domain** section, choose **Configure DNS** for the domain that you want to edit. 
-    
-3.     > [!IMPORTANT]
+> [!IMPORTANT]
     > If you have a G Suite email account, you must first delete the MX records associated with that account. The G Suite MX records prevent you from adding any other MX records, including those required for Office 365. Note that deleting the G Suite records does not delete your G Suite account. To delete your G Suite MX records, use the following steps. 
   
 1. In the **Synthetic records** section, in the **G Suite** area, choose **Delete**.
@@ -179,7 +178,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |CNAME  <br/> |1H  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
 |enterpriseenrollment  <br/> |CNAME  <br/> |1H  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-    ![Type or paste values in the Custom resource records section](../media/cff9832a-6d57-421f-a183-55320974ed87.png)
+   ![Type or paste values in the Custom resource records section](../media/cff9832a-6d57-421f-a183-55320974ed87.png)
   
 4. Choose **Add**.
     
@@ -222,9 +221,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 |**Data**|
 |:-----|
-|v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+|v=spf1 include:spf.protection.outlook.com -all  <br/> 
+
+> [!NOTE]
+> We recommend copying and pasting this entry, so that all of the spacing stays correct.           
    
-    ![Type or paste values in the Custom resource records section](../media/4645cc4f-9fcc-4626-9674-072ed6fa34c2.png)
+   ![Type or paste values in the Custom resource records section](../media/4645cc4f-9fcc-4626-9674-072ed6fa34c2.png)
   
 6. Choose **Save**.
     
@@ -252,9 +254,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |**Name**|**Type**|**TTL**|**Data**|
 |:-----|:-----|:-----|:-----|
 |_sip._tls|SRV|1H|100 1 443 sipdir.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
-|_sipfederationtls._tcp|SRV|1H|100 1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+|_sipfederationtls._tcp|SRV|1H|100 1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**
+
+> We recommend copying and pasting this entry, so that all of the spacing stays correct.       
    
-    ![Type or paste values in the Custom resource records section](../media/429d06a9-c0af-4961-b7d2-7a8dea6db37e.png)
+   ![Type or paste values in the Custom resource records section](../media/429d06a9-c0af-4961-b7d2-7a8dea6db37e.png)
   
 4. Choose **Add**.
     

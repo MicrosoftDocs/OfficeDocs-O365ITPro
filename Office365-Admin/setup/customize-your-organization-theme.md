@@ -1,13 +1,12 @@
 ---
 title: "Customize the Office 365 theme for your organization"
 ms.author: twerner
-author: twernermsft
+author: twerner
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -24,7 +23,6 @@ Learn how to customize your theme in the Office 365 admin center. As the admin o
 ![Default Office 365 theme and Custom Office 365 theme](../media/e2cbc922-b424-4683-8c5c-fdbcbd0ce844.png)
   
 ## Customize your theme in the Office 365 admin center
-<a name="BKMK_changeyourthemepreview"> </a>
 
 1. [Sign in to Office 365](https://go.microsoft.com/fwlink/p/?LinkID=402333) with your [work or school account](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4.aspx).
     
@@ -66,7 +64,6 @@ Learn how to customize your theme in the Office 365 admin center. As the admin o
 You'll see your new theme on the Office 365 admin center right away and after a short delay, you'll see it throughout Office 365, including Outlook and SharePoint pages. You can remove your custom icon or custom colors at any time. Just return to the theme page and choose **Remove custom theming**
   
 ## Best Practices
-<a name="BKMK_changeyourthemepreview"> </a>
 
 When choosing custom colors, pick an **Accent color** that shows up well on a white or light background. The **Accent color** is used to color some links and buttons that show up on a white or light background. For example, the **Accent color** is used to color links in the app launcher. Additionally, the **Accent color** is used to color elements in a user's inbox and on their Office.com portal page. 
   
@@ -75,10 +72,8 @@ When choosing custom colors, pick a **Nav bar background color** and **Text and 
 The recommended contrast ratio between text, icon, or button color and background color is 4.5:1.
   
 ## See Also
-<a name="BKMK_changeyourthemepreview"> </a>
 
 [Add custom tiles to the My apps page and app launcher](../manage/customize-the-app-launcher.md)
   
-[Office 365 for business - Admin help](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791.aspx)
   
 

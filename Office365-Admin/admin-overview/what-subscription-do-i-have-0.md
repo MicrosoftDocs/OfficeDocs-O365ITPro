@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_WhatSubsIgot'
 - 'O365E_WhatSubsIgot'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
@@ -33,7 +33,7 @@ If you're an admin, you can verify which subscriptions your organization has by 
     
     ::: moniker range="o365-germany"
    
-    If you're using Office 365 Germany, go to this [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=847745) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
 
     ::: moniker-end
 
@@ -51,12 +51,11 @@ If you're an admin, you can verify which subscriptions your organization has by 
     
     If you have multiple subscriptions, select the one you want to see detailed information for. The subscription card will update with information about that subscription.
     
-    ![The Subscriptions page of the Office 365 admin center showing a list of multiple subscriptions grouped by their status.](../media/548ab8e9-bf9c-46d1-8c7c-ef5b631f3faa.png)
+    ![The Subscriptions page of the Admin center showing a list of multiple subscriptions grouped by their status.](../media/548ab8e9-bf9c-46d1-8c7c-ef5b631f3faa.png)
   
     > [!NOTE]
     > If you have subscriptions that have expired or have been disabled, they'll be listed based on their current state. 
   
-## See also
+## Related topics
   
-[Subscriptions and billing - Admin Help](../subscriptions-and-billing/subscriptions-and-billing.md)
-
+[Subscriptions and billing](../subscriptions-and-billing/subscriptions-and-billing.md)

@@ -9,7 +9,7 @@ ms.topic: get-started-article
 f1_keywords:
 - 'O365E_BecomeAdmin_FL544797'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 - MOE150

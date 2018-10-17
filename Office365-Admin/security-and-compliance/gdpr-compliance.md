@@ -7,7 +7,7 @@ manager: scotv
 ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.custom: Adm_O365
 search.appverid:
 - BCS160
@@ -24,20 +24,7 @@ The General Data Protection Regulation (GDPR) is a European Union (EU) regulatio
   
 This article helps you understand what the GDPR is, why it came about, and how Microsoft 365 Business can help your organization comply with the GDPR.
   
-In this article:
-  
-- [A quick overview of the GDPR](gdpr-compliance.md#BKMK_Overview)
-    
-- [GDPR terms](gdpr-compliance.md#BKMK_Terms)
-    
-- [Common small business questions about the GDPR](gdpr-compliance.md#BKMK_CommonQuestions)
-    
-- [Next steps](gdpr-compliance.md#BKMK_WhatNext)
-    
-- [Additional resources](gdpr-compliance.md#BKMK_AdditionalResources)
-    
 ## A quick overview of the GDPR
-<a name="BKMK_Overview"> </a>
 
 The GDPR is an EU regulation that updates and expands the earlier Data Protection Directive (DPD) first enacted in 1995. The GDPR is concerned with the privacy of an individual's data, be that individual a client, customer, employee, or business partner. The GDPR's goal is to strengthen personal data protection for EU citizens, whether they reside in the EU or elsewhere. The regulation sets out expectations and advises on how to achieve them. When the GDPR becomes enforceable in late May 2018, organizations must have measures in place that satisfy the requirements of the GDPR.
   
@@ -50,7 +37,6 @@ The GDPR is concerned with the following types of data:
 - **Sensitive personal data** This is data that adds more details to personal data. Examples include religion, trade union membership, ethnic origin, and so on. Sensitive personal data also includes biometric data and DNA. Under GDPR, sensitive data has more stringent protection rules than personal data. 
     
 ## GDPR terms
-<a name="BKMK_Terms"> </a>
 
 You'll see some terms referred to frequently in the GDPR. It's important to understand these terms.
   
@@ -79,7 +65,6 @@ The GDPR establishes data subject rights, which means that, with respect to thei
 - **Ask not to be subject to automated decision-making, including profiling:** The GDPR has strict rules about using data to profile people and automate decisions based on that profiling. 
     
 ## Common small business questions about the GDPR
-<a name="BKMK_CommonQuestions"> </a>
 
 ### I'm a sole proprietor - do I really have to worry about the GDPR?
 
@@ -130,7 +115,6 @@ The GDPR doesn't just affect customer data; it extends to employee data, too. Ne
 As for existing employees and new employee contracts, a signature at the end of a contract does not necessarily assume consent, especially when a non-affirmative clause is used in a contract. In this case, you must capture consent in an explicit manner associated with the clause. What this means depends on your employee contract, but you can use "legitimate interest" in some cases and add an employee data processing notice to make sure your employees are aware of what you will do with their data.
   
 ## Satisfy privacy concerns using Microsoft 365 Business
-<a name="BKMK_CommonQuestions"> </a>
 
 Becoming compliant with the GDPR is about making sure that personal data is protected. The GDPR has a concept known as Privacy by Design and Default. This means that data protection should be "baked in" to a system and a product so that satisfying privacy concerns is second nature. 
   
@@ -151,7 +135,6 @@ Microsoft 365 Business can help you with the GDPR process in the following ways:
 Customers, employees, and clients are becoming more aware of the importance of data privacy and now expect a company or organization to respect that privacy. Microsoft 365 Business provides you with the tools to achieve and maintain GDPR compliance without a massive upheaval to your business.
   
 ## Next steps
-<a name="BKMK_WhatNext"> </a>
 
 To get ready for the GDPR, here are some suggestions for next steps to take:
   
@@ -166,7 +149,6 @@ To get ready for the GDPR, here are some suggestions for next steps to take:
 > Get legal advice appropriate for your company or organization.
   
 ## Additional resources
-<a name="BKMK_AdditionalResources"> </a>
 
 [Microsoft Trust Center overview of the GDPR](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx)
   
