@@ -24,7 +24,7 @@ description: "Learn how to remove an email alias from a contact using Exchange O
 Did you get this error when you were creating a new user? "This email address is already being used as an alias for the contact \<contact name>." This article will show you how to remove the email alias from the contact.
   
 > [!CAUTION]
-> It is unusual for a contact to have an alias because it has to be added using Exchange Online PowerShell. You'll have to remove it using Exchange Online PowerShell. > If you're new to PowerShell, you can do this! The Exchange Online PowerShell commands used in this article will only remove an alias from a contact. 
+> It is unusual for a contact to have an alias because it has to be added using Exchange Online PowerShell. You'll have to remove it using Exchange Online PowerShell. <br><br> If you're new to PowerShell, you can do this! The Exchange Online PowerShell commands used in this article will only remove an alias from a contact. 
   
 ## Remove the email alias from the contact using Exchange Online PowerShell
 
