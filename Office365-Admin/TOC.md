@@ -17,9 +17,10 @@
 ### [Domains FAQ](setup/domains-faq.md)
 ### [Install applications](setup/install-applications.md)
 ### [Migrate email and contacts](setup/migrate-email-and-contacts-admin.md)
-### [Set up Skype for Business Online](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/set-up-skype-for-business-online?toc=../admin/setup/toc.json&bc=../admin/setup/breadcrumb/toc.json)
 
-### [Set up Skype for Business Online](/SkypeForBusiness/set-up-skype-for-business-online/set-up-skype-for-business-online?toc=/office365/admin/toc.json&bc=/office365/admin/breadcrumb/toc.json)
+### [Set up Skype for Business Online](/SkypeForBusiness/set-up-skype-for-business-online/set-up-skype-for-business-online?toc=/office365/admin/toc.json&bc=/office365/admin/setup/breadcrumb/toc.json)
+
+### [Set up Skype for Business Online](/SkypeForBusiness/set-up-skype-for-business-online/set-up-skype-for-business-online?toc=/office365/admin/toc.json&bc=/office365/breadcrumb/toc.json)
 
 ### [Set up Skype for Business Online](/SkypeForBusiness/set-up-skype-for-business-online/set-up-skype-for-business-online?toc=/office365/admin/toc.json)
 
