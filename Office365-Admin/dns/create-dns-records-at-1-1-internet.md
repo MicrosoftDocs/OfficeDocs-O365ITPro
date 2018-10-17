@@ -50,7 +50,6 @@ To learn about webhosting and DNS for websites with Office 365, see [Use a publi
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
-<a name="BKMK_verify"> </a>
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -76,7 +75,7 @@ Follow the steps below or [watch the video (start at 0:42)](https://support.offi
 ||||
 |:-----|:-----|:-----|
 |**Type** <br/> |**Prefix** <br/> |**Name Value** <br/> |
-|TXT  <br/> |(Leave this field blank)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|TXT  <br/> |(Leave this field blank)  <br/> |MS=ms *XXXXXXXX*  <br/> NOTE: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
 7. Choose **Save**.
     
@@ -117,35 +116,19 @@ Follow the steps below or [watch the video (start at 3:22)](https://support.offi
     
 4. In the **Domain Settings** area, choose **Edit DNS Settings**.
     
-5. In the **MX Records** section, in the ** Mail Exchanger (MX Record) ** area, select **Other mail server**.
-    
-    (You may have to scroll down.)
-    
-    ![1&amp;1-BP-Configure-2-1](../media/b0db72ae-9431-460f-ba7a-3268590b892e.png)
+5. In the **MX Records** section, in the ** Mail Exchanger (MX Record) ** area, select **Other mail server**.<br/>(You may have to scroll down.)<br/>![1&amp;1-BP-Configure-2-1](../media/b0db72ae-9431-460f-ba7a-3268590b892e.png) <br/>
   
-6. If there are any MX records already listed, delete each of them by selecting the record and then pressing the **Delete** key on your keyboard. 
-    
-    (If there are no MX records already listed, continue to the next step.)
-    
-    ![1&amp;1-BP-Configure-2-2](../media/4a39bac7-7310-481d-bda4-1dd5c220c60f.png)
+6. If there are any MX records already listed, delete each of them by selecting the record and then pressing the **Delete** key on your keyboard.<br/>(If there are no MX records already listed, continue to the next step.)<br/>![1&amp;1-BP-Configure-2-2](../media/4a39bac7-7310-481d-bda4-1dd5c220c60f.png)<br/>
   
 7. In the boxes for the **MX 1** record, type or copy and paste the values from the following table. 
     
 |**MX 1**|**Priority**|
 |:-----|:-----|
-| *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your \<domain-key\> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
-   
-    ![1&amp;1-BP-Configure-2-3](../media/3afb04d1-7bbf-4147-89ae-561e14ded26d.png)
+| *\<domain-key\>*  .mail.protection.outlook.com  <br/>  NOTE: Get your \<domain-key\> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | <br/>![1 and 1 - configure 2 and 3](../media/3afb04d1-7bbf-4147-89ae-561e14ded26d.png)<br/>
   
-8. Choose **Save**.
-    
-    (You may have to scroll down.)
-    
-    ![1&amp;1-BP-Configure-2-4](../media/355b3ba7-4d2b-45ed-aa17-ac4affb54fe3.png)
+8. Choose **Save**.<br/>(You may have to scroll down.)<br/>![1&amp;1-BP-Configure-2-4](../media/355b3ba7-4d2b-45ed-aa17-ac4affb54fe3.png)
   
-9. In the **Edit DNS Settings** dialog box, choose **Yes**.
-    
-    ![Clicking Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)
+9. In the **Edit DNS Settings** dialog box, choose **Yes**.<br/>![Clicking Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)
   
 ## Add the six CNAME records that are required for Office 365
 <a name="BKMK_add_CNAME"> </a>
@@ -166,123 +149,72 @@ Follow the steps below or [watch the video (start at 3:57)](https://support.offi
     
 2. Choose **Manage domains**.
     
-3. On the **Domain Center** page, find the domain that you want to update, and then choose **Manage Subdomains**.
-    
-    ![1&amp;1-BP-Configure-3-0](../media/d570d03f-5c38-463d-809e-5bb9e4fb2777.png)
-  
-    Now you'll create two subdomains and set an **Alias** value for each. 
-    
-    (This is required because 1&amp;1 Internet supports only one top-level CNAME record, but Office 365 requires several CNAME records.)
-    
-    First, you'll create the Autodiscover subdomain.
+3. On the **Domain Center** page, find the domain that you want to update, and then choose **Manage Subdomains**.<br/>![1&amp;1-BP-Configure-3-0](../media/d570d03f-5c38-463d-809e-5bb9e4fb2777.png) <br/>Now you'll create two subdomains and set an **Alias** value for each.<br/>(This is required because 1&amp;1 Internet supports only one top-level CNAME record, but Office 365 requires several CNAME records.)<br/>First, you'll create the Autodiscover subdomain.
     
 4. In the **Subdomain Overview** section, choose **Create Subdomain**.
     
     ![1&amp;1-BP-Configure-3-1](../media/95c63639-eb80-443d-8951-98e8b6cdcc4f.png)
   
-5. In the **Create Subdomain** box for the new subdomain, type or copy and paste only the **Create Subdomain** value from the following table. (You'll add the **Alias** value in a later step.) 
+5. In the **Create Subdomain** box for the new subdomain, type or copy and paste only the **Create Subdomain** value from the following table. (You'll add the **Alias** value in a later step.)<br/> 
+|**Create Subdomain**|**Alias**|
+|:-----|:-----|
+|autodiscover  <br/> |autodiscover.outlook.com  <br/> | <br/>![1&amp;1-BP-Configure-3-2](../media/9be45113-ebaf-48e6-983c-a7e6ff9eea45.png)
+  
+6. Choose **Create Subdomain**.<br/>![1&amp;1-BP-Configure-3-3](../media/1e7bc874-f174-4597-8c08-df611d16a74d.png)
+  
+7. In the **Subdomain Overview** section, locate the **autodiscover** subdomain that you just created, and then choose the **Panel (v)** control for that subdomain. <br/>![1&amp;1-BP-Configure-3-4](../media/10e2e446-3e54-4fb2-8a29-8c442536cc31.png)
+  
+8. In the **Subdomain Settings** area, choose **Edit DNS Settings**. <br/>![1&amp;1-BP-Configure-3-5](../media/5c602118-b89b-4897-9faf-0736be8a6a0d.png)
+  
+9. In the **A/AAAA Records (IP Addresses)** section, in the ** IP address (A Record) ** area, select **CNAME**.<br/>![1&amp;1-BP-Configure-3-6](../media/7f57f468-fbee-4440-a53d-3e334d8e5b71.png)
+  
+10. In the **Alias:** box, type or copy and paste only the **Alias** value from the following table.<br/> 
     
 |**Create Subdomain**|**Alias**|
 |:-----|:-----|
-|autodiscover  <br/> |autodiscover.outlook.com  <br/> |
-   
-    ![1&amp;1-BP-Configure-3-2](../media/9be45113-ebaf-48e6-983c-a7e6ff9eea45.png)
+|autodiscover  <br/> |autodiscover.outlook.com  <br/> |<br/>![1&amp;1-BP-Configure-3-7](../media/afac3118-3337-4f99-98dd-a7ca930230ce.png)
   
-6. Choose **Create Subdomain**.
-    
-    ![1&amp;1-BP-Configure-3-3](../media/1e7bc874-f174-4597-8c08-df611d16a74d.png)
+11. Select the check box for the **I am aware** disclaimer.<br/>![1&amp;1-BP-Configure-3-8-1](../media/6c4cac1a-23f2-4ff3-b2d1-3dca908638d2.png)
   
-7. In the **Subdomain Overview** section, locate the **autodiscover** subdomain that you just created, and then choose the **Panel (v)** control for that subdomain. 
-    
-    ![1&amp;1-BP-Configure-3-4](../media/10e2e446-3e54-4fb2-8a29-8c442536cc31.png)
+12. Choose **Save**.<br/>![1&amp;1-BP-Configure-3-8-2](../media/ea1dfc06-c175-4146-ab40-da4d162097e1.png)
   
-8. In the **Subdomain Settings** area, choose **Edit DNS Settings**.
+13. In the **Edit DNS Settings** dialog box, choose **Yes**.<br/>![Clicking Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)<br/>Now you'll create the second subdomain.
     
-    ![1&amp;1-BP-Configure-3-5](../media/5c602118-b89b-4897-9faf-0736be8a6a0d.png)
-  
-9. In the **A/AAAA Records (IP Addresses)** section, in the ** IP address (A Record) ** area, select **CNAME**.
-    
-    ![1&amp;1-BP-Configure-3-6](../media/7f57f468-fbee-4440-a53d-3e334d8e5b71.png)
-  
-10. In the **Alias:** box, type or copy and paste only the **Alias** value from the following table. 
-    
-|**Create Subdomain**|**Alias**|
-|:-----|:-----|
-|autodiscover  <br/> |autodiscover.outlook.com  <br/> |
-   
-    ![1&amp;1-BP-Configure-3-7](../media/afac3118-3337-4f99-98dd-a7ca930230ce.png)
-  
-11. Select the check box for the **I am aware** disclaimer. 
-    
-    ![1&amp;1-BP-Configure-3-8-1](../media/6c4cac1a-23f2-4ff3-b2d1-3dca908638d2.png)
-  
-12. Choose **Save**.
-    
-    ![1&amp;1-BP-Configure-3-8-2](../media/ea1dfc06-c175-4146-ab40-da4d162097e1.png)
-  
-13. In the **Edit DNS Settings** dialog box, choose **Yes**.
-    
-    ![Clicking Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)
-  
-    Now you'll create the second subdomain.
-    
-14. In the **Subdomain Overview** section, choose **Create Subdomain**.
-    
-    ![1&amp;1-BP-Configure-3-9](../media/49097a42-bc7c-4996-879e-0106adb1f6e0.png)
+14. In the **Subdomain Overview** section, choose **Create Subdomain**.<br/>![1&amp;1-BP-Configure-3-9](../media/49097a42-bc7c-4996-879e-0106adb1f6e0.png)
   
 15. In the **Create Subdomain** box for the new subdomain, type or copy and paste only the **Create Subdomain** value from the following table. (You'll add the **Alias** value in a later step.) 
     
 |**Create Subdomain**|**Alias**|
 |:-----|:-----|
-|msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |
-   
-    ![1&amp;1-BP-Configure-3-10](../media/6572a9c4-62d9-48e4-851e-a2a44732aebe.png)
+|msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> | <br/>![1&amp;1-BP-Configure-3-10](../media/6572a9c4-62d9-48e4-851e-a2a44732aebe.png)
   
-16. Choose **Create Subdomain**.
-    
-    ![1&amp;1-BP-Configure-3-11](../media/a3296395-14b5-4763-b55b-b414f963ef3b.png)
+16. Choose **Create Subdomain**.<br/>![1&amp;1-BP-Configure-3-11](../media/a3296395-14b5-4763-b55b-b414f963ef3b.png)
   
-17. In the **Subdomain Overview** section, find the **msoid** subdomain that you just created, and then choose the **Panel (v)** control for that subdomain. 
-    
-    ![1&amp;1-BP-Configure-3-12](../media/8e594d27-9f33-4ee4-9f25-e54c2f031978.png)
+17. In the **Subdomain Overview** section, find the **msoid** subdomain that you just created, and then choose the **Panel (v)** control for that subdomain.<br/> ![1&amp;1-BP-Configure-3-12](../media/8e594d27-9f33-4ee4-9f25-e54c2f031978.png)
   
-18. In the **Subdomain Settings** area, choose **Edit DNS Settings**.
-    
-    ![1&amp;1-BP-Configure-3-13](../media/600ded12-1849-4b8b-b95b-ec52c78ec1e0.png)
+18. In the **Subdomain Settings** area, choose **Edit DNS Settings**.<br/>![1&amp;1-BP-Configure-3-13](../media/600ded12-1849-4b8b-b95b-ec52c78ec1e0.png)
   
-19. In the **A/AAAA Records (IP Addresses)** section, in the ** IP address (A Record) ** area, select **CNAME**.
-    
-    ![1&amp;1-BP-Configure-3-14-1](../media/15b64d81-c9d7-40a9-86a4-8117119a1c3a.png)
+19. In the **A/AAAA Records (IP Addresses)** section, in the ** IP address (A Record) ** area, select **CNAME**.<br/>![1&amp;1-BP-Configure-3-14-1](../media/15b64d81-c9d7-40a9-86a4-8117119a1c3a.png)
   
 20. In the **Alias:** box, type or copy and paste only the **Alias** value from the following table. 
     
 |**Create Subdomain**|**Alias**|
 |:-----|:-----|
-|msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |
-   
-    ![1&amp;1-BP-Configure-3-14-2](../media/1703144e-7e98-4cd0-ad7f-08477981a6aa.png)
+|msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> | <br/>![1&amp;1-BP-Configure-3-14-2](../media/1703144e-7e98-4cd0-ad7f-08477981a6aa.png)
   
-21. Select the check box for the **I am aware** disclaimer. 
-    
-    ![1&amp;1-BP-Configure-3-15-1](../media/31d27d95-9cec-4392-88fd-bb877a4dba17.png)
+21. Select the check box for the **I am aware** disclaimer.<br/> ![1&amp;1-BP-Configure-3-15-1](../media/31d27d95-9cec-4392-88fd-bb877a4dba17.png)
   
-22. Choose **Save**.
-    
-    ![1&amp;1-BP-Configure-3-15-2](../media/58065c65-f1a2-47be-91b9-63a5b6231233.png)
+22. Choose **Save**.<br/>![1&amp;1-BP-Configure-3-15-2](../media/58065c65-f1a2-47be-91b9-63a5b6231233.png)
   
-23. In the **Edit DNS Settings** dialog box, choose **Yes**.
-    
-    ![Clicking Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)
+23. In the **Edit DNS Settings** dialog box, choose **Yes**. <br/>![Clicking Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)
   
 ### Additional CNAME records
 
 The additional CNAME records created in the following procedure enable Skype for Business Online services. You will employ the same steps that you used to create the two CNAME records you have already created.
   
-1. Create the third subdomain (Lyncdiscover).
+1. Create the third subdomain (Lyncdiscover).<br/>On the **Subdomain Overview** section, choose **Create Subdomain**.
     
-    On the **Subdomain Overview** section, choose **Create Subdomain**.
-    
-2. In the **Create Subdomain** box for the new subdomain, type or copy and paste only the **Create Subdomain** value from the following table. (You'll add the **Alias** value in a later step.) 
+2. In the **Create Subdomain** box for the new subdomain, type or copy and paste only the **Create Subdomain** value from the following table. (You'll add the **Alias** value in a later step.)<br/> 
     
 |**Create Subdomain**|**Alias**|
 |:-----|:-----|
@@ -292,13 +224,11 @@ The additional CNAME records created in the following procedure enable Skype for
     
 4. On the **Domain Center** page, choose **Manage Subdomains**.
     
-5. In the **Subdomain Overview** section, find the **lyncdiscover** subdomain that you just created, and then choose the **Panel (v)** control for that subdomain. 
-    
-    In the **Subdomain Settings** area, choose **Edit DNS Settings**.
+5. In the **Subdomain Overview** section, find the **lyncdiscover** subdomain that you just created, and then choose the **Panel (v)** control for that subdomain. <br/>In the **Subdomain Settings** area, choose **Edit DNS Settings**.
     
 6. In the **A/AAAA Records (IP Addresses)** section, in the ** IP address (A Record) ** area, select **CNAME**.
     
-7. In the **Alias:** box, type or copy and paste only the **Alias** value from the following table. 
+7. In the **Alias:** box, type or copy and paste only the **Alias** value from the following table. <br/>
     
 |**Create Subdomain**|**Alias**|
 |:-----|:-----|
@@ -308,11 +238,9 @@ The additional CNAME records created in the following procedure enable Skype for
     
 9. In the **Edit DNS Settings** dialog box, choose **Yes**.
     
-10. Create the fourth subdomain (SIP):
+10. Create the fourth subdomain (SIP): <br/>In the **Subdomain Overview** section, choose **Create Subdomain**.
     
-    In the **Subdomain Overview** section, choose **Create Subdomain**.
-    
-11. In the **Create Subdomain** box for the new subdomain, type or copy and paste only the **Create Subdomain** value from the following table. (You'll add the **Alias** value in a later step.) 
+11. In the **Create Subdomain** box for the new subdomain, type or copy and paste only the **Create Subdomain** value from the following table. (You'll add the **Alias** value in a later step.) <br/>
     
 |**Create Subdomain**|**Alias**|
 |:-----|:-----|
@@ -322,9 +250,7 @@ The additional CNAME records created in the following procedure enable Skype for
     
 13. On the **Domain Center** page, choose **Manage Subdomains**.
     
-14. In the **Subdomain Overview** section, find the **sip** subdomain that you just created, and then choose the **Panel (v)** control for that subdomain. 
-    
-    In the **Subdomain Settings** area, choose **Edit DNS Settings**.
+14. In the **Subdomain Overview** section, find the **sip** subdomain that you just created, and then choose the **Panel (v)** control for that subdomain. <br/>In the **Subdomain Settings** area, choose **Edit DNS Settings**.
     
 15. In the **A/AAAA Records (IP Addresses)** section, in the ** IP address (A Record) ** area, select **CNAME**.
     
@@ -349,7 +275,6 @@ The additional CNAME records created in the following procedure enable Skype for
 |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
 ## Add a TXT record for SPF to help prevent email spam
-<a name="BKMK_add_TXT"> </a>
 
 > [!IMPORTANT]
 > You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [External Domain Name System records for Office 365](https://support.office.com/article/c0531a6f-9e25-4f2d-ad0e-a70bfef09ac0). To validate your SPF record, you can use one of these[SPF validation tools](../setup/domains-faq.md). 
@@ -367,34 +292,21 @@ Follow the steps below or [watch the video (start at 5:09)](https://support.offi
     
 4. In the **Domain Settings** area, choose **Edit DNS Settings**.
     
-5. In the **TXT and SRV Records** section, choose **Add Record**.
+5. In the **TXT and SRV Records** section, choose **Add Record**. <br/>(You may have to scroll down.)
     
-    (You may have to scroll down.)
-    
-6. In the **Add Record** area, in the boxes for the new record, type or copy and paste the values from the following table. 
-    
-    (Select the **Type** value from the drop-down list.) 
+6. In the **Add Record** area, in the boxes for the new record, type or copy and paste the values from the following table. <br/>(Select the **Type** value from the drop-down list.) <br/>
     
 |**Type**|**Prefix**|**Name Value**|
 |:-----|:-----|:-----|
-|TXT  <br/> |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
-   
-    ![TXT record](../media/0b3ba3b4-64b9-4d68-9ee1-04eb3a17d4c5.png)
+|TXT  <br/> |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |  <br/>![TXT record](../media/0b3ba3b4-64b9-4d68-9ee1-04eb3a17d4c5.png)
   
-7. Choose **Save**.
-    
-    ![Add record](../media/0f222eb9-3bfd-4908-9a99-516cc6fb1d0e.png)
+7. Choose **Save**.<br/>![Add record](../media/0f222eb9-3bfd-4908-9a99-516cc6fb1d0e.png)
   
-8. Choose **Save**.
-    
-    ![Save record](../media/86ed1b59-31b2-4094-9cd4-32b94eb09e35.png)
+8. Choose **Save**.<br/>![Save record](../media/86ed1b59-31b2-4094-9cd4-32b94eb09e35.png)
   
-9. In the **Edit DNS Settings** dialog box, choose **Yes**.
-    
-    ![Clicking Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)
+9. In the **Edit DNS Settings** dialog box, choose **Yes**.<br/>![Clicking Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)
   
 ## Add the two SRV records that are required for Office 365
-<a name="BKMK_add_SRV"> </a>
 
 Follow the steps below or [watch the video (start at 5:51)](https://support.office.com/en-us/article/Video-Create-DNS-records-at-1-1-Internet-for-Office-365-543fb112-ecf5-47ae-b096-07f3f942a089?ui=en-US&amp;rs=en-US&amp;ad=US).
   
@@ -411,36 +323,20 @@ Follow the steps below or [watch the video (start at 5:51)](https://support.offi
     
 5. In the **TXT and SRV Records** section, choose **Add Record**.
     
-6. Add the first of the two SRV records.
-    
-    In the **Add Record** area, in the boxes for the new record, type or copy and paste the values from the first row in the following table. 
-    
-    (Select the **Type** and **TTL** values from the drop-down list.) 
+6. Add the first of the two SRV records.<br/>In the **Add Record** area, in the boxes for the new record, type or copy and paste the values from the first row in the following table. <br/>(Select the **Type** and **TTL** values from the drop-down list.) 
     
 |**Type**|**Service**|**Protocol**|**Name**|**Host**|**Priority**|**Weight**|**Port**|**TTL**|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |SRV  <br/> |sip  <br/> |tls  <br/> |(Leave this field empty.)  <br/> |sipdir.online.lync.com  <br/> |100  <br/> |1  <br/> |443  <br/> |3600 (1 h)  <br/> |
-|SRV  <br/> |sipfederationtls  <br/> |tcp  <br/> |(Leave this field empty.)  <br/> |sipfed.online.lync.com  <br/> |100  <br/> |1  <br/> |5061  <br/> |3600 (1 h)  <br/> |
-   
-    ![1&amp;1-BP-Configure-5-1](../media/087e337d-926b-42ff-b11d-b449cfaed76c.png)
+|SRV  <br/> |sipfederationtls  <br/> |tcp  <br/> |(Leave this field empty.)  <br/> |sipfed.online.lync.com  <br/> |100  <br/> |1  <br/> |5061  <br/> |3600 (1 h)  <br/> |  <br/>![1&amp;1-BP-Configure-5-1](../media/087e337d-926b-42ff-b11d-b449cfaed76c.png)
   
-7. Choose **Save**.
-    
-    ![1&amp;1-BP-Configure-5-2](../media/aa5f803d-fb24-48e0-976a-6759c5fd252c.png)
+7. Choose **Save**. <br/>![1&amp;1-BP-Configure-5-2](../media/aa5f803d-fb24-48e0-976a-6759c5fd252c.png)
   
-8. Choose **Save**.
-    
-    ![1&amp;1-BP-Configure-5-3](../media/097e7e95-4899-4878-b6e7-c3abd8193c52.png)
+8. Choose **Save**. <br/>![1&amp;1-BP-Configure-5-3](../media/097e7e95-4899-4878-b6e7-c3abd8193c52.png)
   
-9. In the **Edit DNS Settings** dialog box, choose **Yes**.
-    
-    ![Clicking Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)
+9. In the **Edit DNS Settings** dialog box, choose **Yes**. <br/>![Clicking Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)
   
-10. Add the other SRV record.
-    
-    In the **TXT and SRV Records** section, choose **Add Record**.
-    
-    In the **Add Record** area, create a record using the values from the other row in the table, and then again choose **Add**, **Save**, and **Yes** to complete the record. 
+10. Add the other SRV record. <br/>In the **TXT and SRV Records** section, choose **Add Record**. <br/>In the **Add Record** area, create a record using the values from the other row in the table, and then again choose **Add**, **Save**, and **Yes** to complete the record. 
     
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
