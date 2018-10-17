@@ -98,25 +98,25 @@ As a best practice, we recommend  *always*  staying current: uninstall the old A
 2. Check installed module:
     
   ```
-    Get-InstalledModule -Name "AzureAD*"
+  Get-InstalledModule -Name "AzureAD*"
   ```
 
 3. To uninstall a previous version of AzureADPreview or AzureAD, run this command:
   
 ```
-   Uninstall-Module AzureADPreview
+Uninstall-Module AzureADPreview
 ```
 
 or
   
 ```
-   Uninstall-Module AzureAD
+Uninstall-Module AzureAD
 ```
 
 4. To install the latest version of AzureADPreview, run this command:
   
 ```
-   Install-Module AzureADPreview
+Install-Module AzureADPreview
 ```
 
 At the message about an untrusted repository, type **Y**. It will take a minute or so for the new module to install.
@@ -144,16 +144,12 @@ The most common mistakes are not having the preview module and typos. Instead of
 2. Run the following commands. Press **Enter** after each command. 
     
   ```
-    Import-Module AzureADPreview
-  ```
-
-  ```
-    Connect-AzureAD
+  Import-Module AzureADPreview
+   Connect-AzureAD
   ```
 
   In the **Sign in to your Account** screen that opens, enter your Office 365 admin account and password to connect you to your service, and click **Sign in**.
-    
-  ![Enter your Office 365 credentials](../media/a2b4e2f3-436f-4a6c-b571-1a192698acea.png)
+ ![Enter your Office 365 credentials](../media/a2b4e2f3-436f-4a6c-b571-1a192698acea.png)
   
 3. Find the name of your security group from [Step 1: Create a security group for users who need to create Office 365 Groups](manage-creation-of-groups.md#CreateSecurityGroup) by using the following syntax: 
     
@@ -161,11 +157,15 @@ The most common mistakes are not having the preview module and typos. Instead of
     Get-AzureADGroup -SearchString "<Name of your security group>"
   ```
 
+
   For example, I named my group AllowedtoCreateGroups. So I would run:
     
+
+
   ```
     Get-AzureADGroup -SearchString "AllowedtoCreateGroups"
   ```
+
 
   This will display the properties of my AllowedtoCreateGroups security group.
     
