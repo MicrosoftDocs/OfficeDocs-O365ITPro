@@ -36,7 +36,7 @@ Before you can do this procedure, you need the following:
 - The name of the group   
 - The email address that you want to remove
     
-1. In Exchange Online PowerShell, replace **Group name** and **alias<span></span>@contoso.com** with your values, and run the following command: 
+1. In Exchange Online PowerShell, replace the group name and email address with your values, and run the following command: 
     
    ```
    Set-UnifiedGroup -Identity "Group name" -Alias @{remove="alias@contoso.com"}
