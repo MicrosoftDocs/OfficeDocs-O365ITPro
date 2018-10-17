@@ -216,9 +216,10 @@ If you changed your password, the password box might not appear until you delete
 ### Get more help with Skype for Business Online issues
 
 For more troubleshooting information, see [Troubleshooting Skype for Business Online sign-in errors for administrators](https://support.office.com/article/cdd4801a-2fe1-4aab-bbb6-db5f95f972d1.aspx), [Need help signing in to Skype for Business?](https://support.office.com/article/448b8ea7-5b33-444a-afd4-175fc9930d05.aspx), and [Troubleshoot problems with Skype for Business Online](https://support.office.com/article/dce3356e-83a3-4718-88e7-59885bbaa911.aspx).
-  
+
+::: moniker range="o365-21vianet"    
 
 > [!NOTE]
 > If you're using Office 365 operated by 21Vianet in China, please [contact the 21Vianet support team](https://go.microsoft.com/fwlink/p/?linkid=847978). 
   
-
+::: moniker-end
