@@ -20,7 +20,7 @@ description: "Learn how to add a member to a group, remove member from group, an
 
 # Add or remove members from Office 365 groups using the Office 365 admin center
   
-In Office 365, Group members typically create their own Groups, add themselves to Groups they want to join, or are invited by Group owners. If Group ownership changes, or if you determine that a member should be added or removed, as the admin you can also make that change. [What is an Office 365 Group?](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx)
+In Office 365, Group members typically createtheir own Groups, add themselves to Groups they want to join, or are invited by Group owners. If Group ownership changes, or if you determine that a member should be added or removed, as the admin you can also make that change. [What is an Office 365 Group?](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx)
   
  **Tip**: You can also [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
   
