@@ -3,7 +3,6 @@ title: "Assign admin roles in Office 365 for business"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -28,7 +27,7 @@ description: "Learn how to assign administrator roles to a user or multiple user
 
 # Assign admin roles in Office 365 for business
 
- *Last updated 13 October, 2017* 
+
   
 As the person who purchased your Office 365 business subscription, you are the global administrator. This means you have complete control over the Office 365 suite of products. To help you manage Office 365 for your business, you can assign users to administrator roles so they can perform tasks in the Office 365 admin center. For example, if you want help resetting passwords, you can assign someone to the Password administrator role.
   
@@ -36,10 +35,7 @@ As the person who purchased your Office 365 business subscription, you are the g
   
 ## Assign admin roles to a user in your business
 
-1. 
-::: moniker range="o365-worldwide"
-
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. ::: moniker range="o365-worldwide" Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
@@ -87,15 +83,13 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 5. When you have finished, choose **Save**.
     
 ## Assign admin roles to multiple users
-<a name="__toc324333274"> </a>
+
 
 If you know PowerShell, see [Assign roles to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/?linkid=854257). It's ideal for assigning roles to hundreds of users.
   
 Use the following instructions to assign roles to tens of users.
   
-1. 
-::: moniker range="o365-worldwide"
-
+1. ::: moniker range="o365-worldwide" 
 Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
@@ -121,7 +115,7 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 5. Choose the roles you want to assign, and the click **Save**.
     
 ## Didn't work for you?
-<a name="__toc324333274"> </a>
+
 
 Here are the top issues customers encounter when assigning admin roles:
   
@@ -130,9 +124,11 @@ Here are the top issues customers encounter when assigning admin roles:
 - You're using Office 365 Small Business, a version that's no longer available for purchase. These instructions apply to current Office 365 for business plans.
     
 ## Related Topics
-<a name="__toc324333274"> </a>
 
-[Assign roles to user accounts with Office 365 PowerShell](https://technet.microsoft.com/en-us/library/mt736914.aspx )[Authorize or remove partner relationships](https://support.office.com/article/201ccb3b-6011-4bf1-a6b2-84e7cc1ee2d0.aspx)
+
+[Assign roles to user accounts with Office 365 PowerShell](https://docs.microsoft.com/en-us/office365/enterprise/powershell/assign-roles-to-user-accounts-with-office-365-powershell)
+
+[Authorize or remove partner relationships](https://support.office.com/article/201ccb3b-6011-4bf1-a6b2-84e7cc1ee2d0.aspx)
   
 [About the Office 365 admin center](../admin-overview/about-the-admin-center.md)
   
