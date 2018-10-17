@@ -71,8 +71,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |||||
 |:-----|:-----|:-----|:-----|
 |**Record Type** <br/> |**Alias** or **Host Name** <br/> |**Value** <br/> |**TTL** <br/> |
-|TXT  <br/> |Do one of the following: Type **@** or leave the field empty or type your domain name.  <br/> > [!NOTE]> Different DNS hosts have different requirements for this field.           
-|MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  <br/> |
+|TXT  <br/> |Do one of the following: Type **@** or leave the field empty or type your domain name.  <br/> 
+> [!NOTE]> Different DNS hosts have different requirements for this field.           
+|MS=ms *XXXXXXXX*  <br/> 
+
+> [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  <br/> 
    
   - **If you create an MX record, use these values:**
     
@@ -180,8 +183,8 @@ On your DNS host's website, you'll create three new CNAME records, typically one
 |CNAME (Alias)  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |1 hour  <br/> |
 |CNAME (Alias)  <br/> |sip  <br/> |sipdir.online.lync.com  <br/> |1 hour  <br/> |
    
-    > [!NOTE]
-    > For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. > These records do not apply to Exchange, Lync, or Skype for Business hybrid deployments. 
+   > [!NOTE]
+   > For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. > These records do not apply to Exchange, Lync, or Skype for Business hybrid deployments. 
   
 2. When you've finished, save the records.
     
@@ -205,8 +208,8 @@ On your DNS host's website, you'll create three new CNAME records, typically one
 |CNAME (Alias)  <br/> |lyncdiscover  <br/> |webdir.online.skype.de  <br/> |1 hour  <br/> |
 |CNAME (Alias)  <br/> |sip  <br/> |sipdir.online.lync.de  <br/> |1 hour  <br/> |
    
-    > [!NOTE]
-    > For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. > These records do not apply to Exchange, Lync, or Skype for Business hybrid deployments. 
+   > [!NOTE]
+   > For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. > These records do not apply to Exchange, Lync, or Skype for Business hybrid deployments. 
   
 2. When you've finished, save the records.
     
@@ -230,8 +233,8 @@ On your DNS host's website, you'll create three new CNAME records, typically one
 |CNAME (Alias)  <br/> |lyncdiscover  <br/> |webdir.online.partner.lync.cn  <br/> |1 hour  <br/> |
 |CNAME (Alias)  <br/> |sip  <br/> |sipdir.online.partner.lync.cn  <br/> |1 hour  <br/> |
    
-    > [!NOTE]
-    > For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. > These records do not apply to Exchange, Lync, or Skype for Business hybrid deployments. 
+   > [!NOTE]
+   > For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. > These records do not apply to Exchange, Lync, or Skype for Business hybrid deployments. 
   
 2. When you've finished, save the records.
     
@@ -289,7 +292,7 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
 |**Record Type** <br/> |**Host** <br/> |**TXT Value** <br/> |**TTL** <br/> |
 |TXT (Text)  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1 hour  <br/> |
    
-    For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. 
+   For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. 
     
 2. When you've finished, save the record.
     
@@ -317,7 +320,7 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
 |**Record Type**|**Host**|**TXT Value**|**TTL**|
 |TXT (Text)|@|v=spf1 include:spf.protection.outlook.de -all> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1 hour|
    
-    For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. 
+   For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. 
     
 2. When you've finished, save the record.
     
@@ -345,7 +348,7 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
 |**Record Type**|**Host**|**TXT Value**|**TTL**|
 |TXT (Text)|@|v=spf1 include:spf.protection.partner.outlook.cn -all> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1 hour|
    
-    For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. 
+   For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. 
     
 2. When you've finished, save the record.
     
@@ -368,8 +371,16 @@ On your DNS host's website, you'll create two new SRV records, typically one at 
 |SRV (Service)  <br/> |@  <br/> (Or leave blank, if @ is not allowed)  <br/> |sipdir.online.lync.com  <br/> |_tls  <br/> |_sip  <br/> |100  <br/> |1  <br/> |443  <br/> |1 hour  <br/> |
 |SRV (Service)  <br/> |@  <br/> (Or leave blank, if @ is not allowed)  <br/> |sipfed.online.lync.com  <br/> |_tcp  <br/> |_sipfederationtls  <br/> |100  <br/> |1  <br/> |5061  <br/> |1 hour  <br/> |
    
-    > [!NOTE]
-    >  For **Name**: If your DNS host doesn't allow setting this to **@**, leave it blank. Use this approach  *only*  when your DNS host has separate fields for the Service and Protocol values. Otherwise, see the Service and Protocol notes below. >  For **Service** and **Protocol**: If your DNS host doesn't provide these fields for SRV records, you must specify the **Service** and **Protocol** values as the record's **Name** value. (Note: Depending on your DNS host, the **Name** field might be called something else, like: **Host**, **Hostname**, or **Subdomain**.) To set up the combined value, you create a single string, separating the values with a dot. >  For example: **Name**: _sip._tls >  For **Priority**, **Weight**, and **Port**: If your DNS host doesn't provide these fields for SRV records, you must specify them as the record's **Target** value. (Note: Depending on your DNS host, the **Target** field might be called something else, like: **Content**, **IP Address**, or **Target Host**.) To set up the combined value, you create a single string, separating the values with spaces and ending with a dot. The values must be included in this order: Priority, Weight, Port, Target. >  For example: **Target**: 100 1 443 sipdir.online.lync.com. >  Variation for **Priority**, **Weight**, and **Port**: Some DNS hosts provide some, but not all, of the required fields separately. For these DNS host sites, specify the values that aren't shown separately as a combined string, in order, for the record's **Target** value. (Note: Depending on your DNS host, the **Target** field might be called something else, like: **Content**, **IP Address**, or **Target Host**.) To set up the combined value, you create a single string for the fields that aren't shown individually, separating the values with spaces. The values must be included  *in order*  , leaving out the values that have separate fields available: Priority, Weight, Port, Target. >  For example, when Priority has a separate field, concatenate only the Weight, Port, and Target values: **Target**: 1 443 sipdir.online.lync.com >  For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. 
+  > [!NOTE]
+  >  For **Name**: If your DNS host doesn't allow setting this to **@**, leave it blank. Use this approach  *only*  when your DNS host has separate fields for the Service and Protocol values. Otherwise, see the Service and Protocol notes below. 
+
+>  For **Service** and **Protocol**: If your DNS host doesn't provide these fields for SRV records, you must specify the **Service** and **Protocol** values as the record's **Name** value. (Note: Depending on your DNS host, the **Name** field might be called something else, like: **Host**, **Hostname**, or **Subdomain**.) To set up the combined value, you create a single string, separating the values with a dot.  For example: **Name**: _sip._tls 
+
+>  For **Priority**, **Weight**, and **Port**: If your DNS host doesn't provide these fields for SRV records, you must specify them as the record's **Target** value. (Note: Depending on your DNS host, the **Target** field might be called something else, like: **Content**, **IP Address**, or **Target Host**.) To set up the combined value, you create a single string, separating the values with spaces and ending with a dot. The values must be included in this order: Priority, Weight, Port, Target. For example: **Target**: 100 1 443 sipdir.online.lync.com. 
+
+>  Variation for **Priority**, **Weight**, and **Port**: Some DNS hosts provide some, but not all, of the required fields separately. For these DNS host sites, specify the values that aren't shown separately as a combined string, in order, for the record's **Target** value. (Note: Depending on your DNS host, the **Target** field might be called something else, like: **Content**, **IP Address**, or **Target Host**.) To set up the combined value, you create a single string for the fields that aren't shown individually, separating the values with spaces. The values must be included  *in order*  , leaving out the values that have separate fields available: Priority, Weight, Port, Target. For example, when Priority has a separate field, concatenate only the Weight, Port, and Target values: **Target**: 1 443 sipdir.online.lync.com 
+
+> For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. 
   
 2. When you've finished, save the records.
     
@@ -393,8 +404,16 @@ On your DNS host's website, you'll create two new SRV records, typically one at 
 |SRV (Service)  <br/> |@  <br/> (Or leave blank, if @ is not allowed)  <br/> |sipdir.online.lync.de  <br/> |_tls  <br/> |_sip  <br/> |100  <br/> |1  <br/> |443  <br/> |1 hour  <br/> |
 |SRV (Service)  <br/> |@  <br/> (Or leave blank, if @ is not allowed)  <br/> |sipfed.online.lync.de  <br/> |_tcp  <br/> |_sipfederationtls  <br/> |100  <br/> |1  <br/> |5061  <br/> |1 hour  <br/> |
    
-    > [!NOTE]
-    >  For **Name**: If your DNS host doesn't allow setting this to **@**, leave it blank. Use this approach  *only*  when your DNS host has separate fields for the Service and Protocol values. Otherwise, see the Service and Protocol notes below. >  For **Service** and **Protocol**: If your DNS host doesn't provide these fields for SRV records, you must specify the **Service** and **Protocol** values as the record's **Name** value. (Note: Depending on your DNS host, the **Name** field might be called something else, like: **Host**, **Hostname**, or **Subdomain**.) To set up the combined value, you create a single string, separating the values with a dot. >  For example: **Name**: _sip._tls >  For **Priority**, **Weight**, and **Port**: If your DNS host doesn't provide these fields for SRV records, you must specify them as the record's **Target** value. (Note: Depending on your DNS host, the **Target** field might be called something else, like: **Content**, **IP Address**, or **Target Host**.) To set up the combined value, you create a single string, separating the values with spaces and ending with a dot. The values must be included in this order: Priority, Weight, Port, Target. >  For example: **Target**: 100 1 443 sipdir.online.lync.de. >  Variation for **Priority**, **Weight**, and **Port**: Some DNS hosts provide some, but not all, of the required fields separately. For these DNS host sites, specify the values that aren't shown separately as a combined string, in order, for the record's **Target** value. (Note: Depending on your DNS host, the **Target** field might be called something else, like: **Content**, **IP Address**, or **Target Host**.) To set up the combined value, you create a single string for the fields that aren't shown individually, separating the values with spaces. The values must be included  *in order*  , leaving out the values that have separate fields available: Priority, Weight, Port, Target. >  For example, when Priority has a separate field, concatenate only the Weight, Port, and Target values: **Target**: 1 443 sipdir.online.lync.de >  For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. 
+ > [!NOTE]
+ >  For **Name**: If your DNS host doesn't allow setting this to **@**, leave it blank. Use this approach  *only*  when your DNS host has separate fields for the Service and Protocol values. Otherwise, see the Service and Protocol notes below. 
+
+>  For **Service** and **Protocol**: If your DNS host doesn't provide these fields for SRV records, you must specify the **Service** and **Protocol** values as the record's **Name** value. (Note: Depending on your DNS host, the **Name** field might be called something else, like: **Host**, **Hostname**, or **Subdomain**.) To set up the combined value, you create a single string, separating the values with a dot. >  For example: **Name**: _sip._tls 
+
+>  For **Priority**, **Weight**, and **Port**: If your DNS host doesn't provide these fields for SRV records, you must specify them as the record's **Target** value. (Note: Depending on your DNS host, the **Target** field might be called something else, like: **Content**, **IP Address**, or **Target Host**.) To set up the combined value, you create a single string, separating the values with spaces and ending with a dot. The values must be included in this order: Priority, Weight, Port, Target. >  For example: **Target**: 100 1 443 sipdir.online.lync.de. 
+
+>  Variation for **Priority**, **Weight**, and **Port**: Some DNS hosts provide some, but not all, of the required fields separately. For these DNS host sites, specify the values that aren't shown separately as a combined string, in order, for the record's **Target** value. (Note: Depending on your DNS host, the **Target** field might be called something else, like: **Content**, **IP Address**, or **Target Host**.) To set up the combined value, you create a single string for the fields that aren't shown individually, separating the values with spaces. The values must be included  *in order*  , leaving out the values that have separate fields available: Priority, Weight, Port, Target. >  For example, when Priority has a separate field, concatenate only the Weight, Port, and Target values: **Target**: 1 443 sipdir.online.lync.de 
+
+>  For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. 
   
 2. When you've finished, save the records.
     
@@ -418,8 +437,16 @@ On your DNS host's website, you'll create two new SRV records, typically one at 
 |SRV (Service)  <br/> |@  <br/> (Or leave blank, if @ is not allowed)  <br/> |sipdir.online.partner.lync.cn  <br/> |_tls  <br/> |_sip  <br/> |100  <br/> |1  <br/> |443  <br/> |1 hour  <br/> |
 |SRV (Service)  <br/> |@  <br/> (Or leave blank, if @ is not allowed)  <br/> |sipfed.online.partner.lync.cn  <br/> |_tcp  <br/> |_sipfederationtls  <br/> |100  <br/> |1  <br/> |5061  <br/> |1 hour  <br/> |
    
-    > [!NOTE]
-    >  For **Name**: If your DNS host doesn't allow setting this to **@**, leave it blank. Use this approach  *only*  when your DNS host has separate fields for the Service and Protocol values. Otherwise, see the Service and Protocol notes below. >  For **Service** and **Protocol**: If your DNS host doesn't provide these fields for SRV records, you must specify the **Service** and **Protocol** values as the record's **Name** value. (Note: Depending on your DNS host, the **Name** field might be called something else, like: **Host**, **Hostname**, or **Subdomain**.) To set up the combined value, you create a single string, separating the values with a dot. >  For example: **Name**: _sip._tls >  For **Priority**, **Weight**, and **Port**: If your DNS host doesn't provide these fields for SRV records, you must specify them as the record's **Target** value. (Note: Depending on your DNS host, the **Target** field might be called something else, like: **Content**, **IP Address**, or **Target Host**.) To set up the combined value, you create a single string, separating the values with spaces and ending with a dot. The values must be included in this order: Priority, Weight, Port, Target. >  For example: **Target**: 100 1 443 sipdir.online.partner.lync.cn. >  Variation for **Priority**, **Weight**, and **Port**: Some DNS hosts provide some, but not all, of the required fields separately. For these DNS host sites, specify the values that aren't shown separately as a combined string, in order, for the record's **Target** value. (Note: Depending on your DNS host, the **Target** field might be called something else, like: **Content**, **IP Address**, or **Target Host**.) To set up the combined value, you create a single string for the fields that aren't shown individually, separating the values with spaces. The values must be included  *in order*  , leaving out the values that have separate fields available: Priority, Weight, Port, Target. >  For example, when Priority has a separate field, concatenate only the Weight, Port, and Target values: **Target**: 1 443 sipdir.online.partner.lync.cn >  For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. 
+ > [!NOTE]
+ >  For **Name**: If your DNS host doesn't allow setting this to **@**, leave it blank. Use this approach  *only*  when your DNS host has separate fields for the Service and Protocol values. Otherwise, see the Service and Protocol notes below. 
+
+>  For **Service** and **Protocol**: If your DNS host doesn't provide these fields for SRV records, you must specify the **Service** and **Protocol** values as the record's **Name** value. (Note: Depending on your DNS host, the **Name** field might be called something else, like: **Host**, **Hostname**, or **Subdomain**.) To set up the combined value, you create a single string, separating the values with a dot. >  For example: **Name**: _sip._tls 
+
+>  For **Priority**, **Weight**, and **Port**: If your DNS host doesn't provide these fields for SRV records, you must specify them as the record's **Target** value. (Note: Depending on your DNS host, the **Target** field might be called something else, like: **Content**, **IP Address**, or **Target Host**.) To set up the combined value, you create a single string, separating the values with spaces and ending with a dot. The values must be included in this order: Priority, Weight, Port, Target. >  For example: **Target**: 100 1 443 sipdir.online.partner.lync.cn. 
+
+>  Variation for **Priority**, **Weight**, and **Port**: Some DNS hosts provide some, but not all, of the required fields separately. For these DNS host sites, specify the values that aren't shown separately as a combined string, in order, for the record's **Target** value. (Note: Depending on your DNS host, the **Target** field might be called something else, like: **Content**, **IP Address**, or **Target Host**.) To set up the combined value, you create a single string for the fields that aren't shown individually, separating the values with spaces. The values must be included  *in order*  , leaving out the values that have separate fields available: Priority, Weight, Port, Target. >  For example, when Priority has a separate field, concatenate only the Weight, Port, and Target values: **Target**: 1 443 sipdir.online.partner.lync.cn 
+
+>  For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. 
   
 2. When you've finished, save the records.
     
