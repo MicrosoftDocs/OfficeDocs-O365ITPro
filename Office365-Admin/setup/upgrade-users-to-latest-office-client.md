@@ -124,7 +124,7 @@ Not sure which subscription plan you have? See [What Office 365 for business sub
   
 - Office 365 Small Business
   
-If your existing plan includes Office, move on to [Step 3 - Uninstall Office](upgrade-users-to-latest-office-client.md#BKMK_Step3).
+If your existing plan includes Office, move on to [Step 3 - Uninstall Office](#step-3---uninstall-office).
   
 If your existing plan doesn't include Office, then select from the options below:
   
