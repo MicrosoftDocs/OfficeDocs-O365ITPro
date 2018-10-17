@@ -3,7 +3,6 @@ title: "Create, edit, or delete a custom user view in Office 365"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -26,7 +25,7 @@ description: "Learn to use filters to create, edit, or delete custom user view i
 If you're a global or user management admin of Office 365, you can create custom user views to view a specific subset of users. These views are in addition to the standard set of views that come with Office 365. You can create, edit, or delete custom user views, and the custom views you create are available to all admins.
   
 ## Custom user views in the admin center
-<a name="Admincenterpreview"> </a>
+
 
 When you create, edit, or delete a custom user view, the changes will be shown in the **Filters** list of views that all admins in your company see when they click the **Users** page. You can create up to 50 custom views. 
   
@@ -34,7 +33,7 @@ When you create, edit, or delete a custom user view, the changes will be shown i
 >  Standard user views are displayed by default in the **Filters** drop-down list. The standard filters include **All users**, **Licensed users** **Sign-in allowed**, **Sign-in blocked**, **Unlicensed users**, **Users with errors**, **Billing admins**, **Global admins**, **Password admins**, **Service admins**, and **User management admins**. You can't edit or delete standard views. A few things to note about standard views: >  Some standard views display an unsorted list if there are more than 2,000 users in the list. To locate specific users in this list, use the search box. >  If you didn't purchase Office 365 from Microsoft, **Billing admins** don't appear in the standard views list. For more information, see [Assigning admin roles](assign-admin-roles.md). 
   
 ## Choose the filters for your custom user view
-<a name="Admincenterpreview"> </a>
+
 
 You can create and edit your custom views on the **Custom filter** page. If you select multiple filter options, you get results that contain users who match all the selected criteria. The following example shows you how to create a custom view named "Canadian users" that shows all users on a specific domain who are in Canada. 
   
@@ -64,7 +63,7 @@ You can also filter by additional user profile details used in your organization
 > If you create a custom view that returns more than 2,000 users, the resulting user list isn't sorted. In this case, use the search box to find users or **Edit filter** to refine your search. 
   
 ## Create a custom user view
-<a name="Admincenterpreview"> </a>
+
 
 1. Navigate to **Admin** \> **Office 365** \> **Users**.
     
@@ -75,7 +74,7 @@ You can also filter by additional user profile details used in your organization
 3. On the **Custom filter** page, enter the name for your filter, choose the conditions for your custom filter, and then click **Save** \> **Close**. Your custom view is now included in the drop-down list.
     
 ## Edit a custom user view
-<a name="Admincenterpreview"> </a>
+
 
 1. Navigate to **Admin** \> **Office 365** \> **Users**.
     
@@ -91,7 +90,7 @@ You can also filter by additional user profile details used in your organization
 4. On the **Custom filter** page, edit the information as needed, and then click **Save** \> **Close**.
     
 ## Delete a custom user view
-<a name="Admincenterpreview"> </a>
+
 
 1. Navigate to **Admin** \> **Office 365** \> **Users**.
     
