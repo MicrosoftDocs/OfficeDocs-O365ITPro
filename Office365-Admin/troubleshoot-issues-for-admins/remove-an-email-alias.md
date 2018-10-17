@@ -18,12 +18,12 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: dde511e8-0719-4b7a-8e56-d4dad0c308b3
-description: "Learn how to remove an email alias from a user in the Office 365 admin center."
+description: "Learn how to remove an email alias from a user in the admin center."
 ---
 
 # Troubleshoot: Remove an email alias from a user
 
-Did you get this error when you were creating a new user? "This email address is already being used as an alias for user `<user name>`." This article will show you how to remove the email alias from the user.
+Did you get this error when you were creating a new user? "This email address is already being used as an alias for user \<user name>." This article will show you how to remove the email alias from the user.
   
 > [!TIP]
 > Email addresses are how the internet knows where to send your email and all email addresses must be unique - across the entire internet no two email addresses can be the same. 
