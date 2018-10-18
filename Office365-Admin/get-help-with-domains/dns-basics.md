@@ -196,7 +196,7 @@ You can use your domain name in Office 365 with your email, public website, and 
     
 ::: moniker-end
 
-## The DNS records required for =Office 365
+## The DNS records required for Office 365
 <a name="__toc386183977"> </a>
 
 There are a number of DNS records required for Office 365 to work with your domain. In addition to setting up your domain's MX record so email will be sent to Office 365, there are records to help with tasks like making sure Outlook can automatically connect to the right Exchange server, setting up instant messaging, and helping to prevent spam email.
