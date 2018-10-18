@@ -67,7 +67,7 @@ Follow the steps below or [watch the video (start at 0:46)](https://support.offi
 |**Host Name** <br/> |**Record Type** <br/> |**Address** <br/> |
 |@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![eNom-BP-Verify-1-2](../media/e1f95529-46a6-40f9-9709-9fe66f373bcf.png)
+   ![eNom-BP-Verify-1-2](../media/e1f95529-46a6-40f9-9709-9fe66f373bcf.png)
   
 5. Choose **save**.
     
@@ -171,7 +171,7 @@ Ready to change your NS records so Office 365 can set up your domain? Follow the
 |**Name Server 3** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Name Server 4** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![eNom-BP-Redelegate-1-3](../media/5381bfe3-e2d3-43f5-a034-07e3a68a336b.png)
+   ![eNom-BP-Redelegate-1-3](../media/5381bfe3-e2d3-43f5-a034-07e3a68a336b.png)
   
 3. Choose **save**.
     

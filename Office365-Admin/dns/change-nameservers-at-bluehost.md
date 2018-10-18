@@ -115,7 +115,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**First empty row** <br/> |ns1.bdm.microsoftonline.com  <br/> |
 |**Second empty row** <br/> |ns2.bdm.microsoftonline.com  <br/> |
    
-    ![Bluehost-BP-Redelegate-1-3-1](../media/07b13d6d-a34e-45b5-afd5-48ebd4c1344f.png)
+   ![Bluehost-BP-Redelegate-1-3-1](../media/07b13d6d-a34e-45b5-afd5-48ebd4c1344f.png)
   
 2. Choose **Add Row**.
     
@@ -156,7 +156,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**First empty row** <br/> |ns1.bdm.microsoftonline.com  <br/> |
 |**Second empty row** <br/> |ns2.bdm.microsoftonline.com  <br/> |
    
-    ![Bluehost-BP-Redelegate-1-3](../media/1523debf-5eb0-4765-8e05-bcd56e375c20.png)
+   ![Bluehost-BP-Redelegate-1-3](../media/1523debf-5eb0-4765-8e05-bcd56e375c20.png)
   
 3. Choose **Add Row**.
     
@@ -169,7 +169,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**Third empty row** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Fourth empty row** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![Bluehost-BP-Redelegate-1-3-3](../media/480b32bb-af27-40a5-90c5-5617ed02bb41.png)
+   ![Bluehost-BP-Redelegate-1-3-3](../media/480b32bb-af27-40a5-90c5-5617ed02bb41.png)
   
 5. To add the fourth Nameserver record, choose **Add Row** again, and create a record using the values from the last row of the above table. 
     

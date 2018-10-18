@@ -30,8 +30,7 @@ When you redelegate your domain to Office 365 by changing your nameserver record
 3. Under the **TXT records** heading, click the edit button (wrench icon). 
     
 4. Enter the following records in the text fields:
-    
-1. 
+   
 
 |**Host**|**Text**|
 |:-----|:-----|
@@ -60,18 +59,15 @@ When you redelegate your domain to Office 365 by changing your nameserver record
 2. Under the **all domains** heading, click on **nameservers**. 
     
 3. Delete the existing nameserver records (if there are any) and add the following:
-    
-1. 
-||
-|:-----|
-|**Nameserver 1**|
-|:-----|
-|**Nameserver 2**|
-|:-----|
-|**Nameserver 3 (optional)**|
-|:-----|
-|**Nameserver 4 (optional)**|
-|:-----|
+
+|||
+|:-----|:-----|
+|**Nameserver 1**  |     ns1.bdm.microsoftonline.com    |
+|**Nameserver 2**    |      ns2.bdm.microsoftonline.com   |
+|**Nameserver 3 (optional)**   |    ns3.bdm.microsoftonline.com     |
+|**Nameserver 4 (optional)** |    ns4.bdm.microsoftonline.com     |
+
+
    
 4. Choose **NEXT**. 
     
