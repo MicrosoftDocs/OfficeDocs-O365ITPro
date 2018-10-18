@@ -133,7 +133,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|:-----|
 |TXT  <br/> |1 hours  <br/> |@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![GandiNet-BP-Verify-1-1](../media/81376f64-3206-4eaa-9ca2-ba0d89266393.png)
+   ![GandiNet-BP-Verify-1-1](../media/81376f64-3206-4eaa-9ca2-ba0d89266393.png)
   
 7. Choose **Submit** to confirm your changes. 
     
@@ -253,7 +253,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**DNS3** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**DNS4** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![GandiNet-BP-Redelegate-1-3](../media/6ef2bec6-d637-4e72-8ea6-8e47fb09f492.png)
+   ![GandiNet-BP-Redelegate-1-3](../media/6ef2bec6-d637-4e72-8ea6-8e47fb09f492.png)
   
 5. Choose **Submit**.
     
