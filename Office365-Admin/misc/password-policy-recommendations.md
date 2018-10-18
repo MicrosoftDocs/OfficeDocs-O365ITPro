@@ -20,9 +20,7 @@ description: "Learn how to make your organization more secure against password a
 ---
 
 # Password policy recommendations for Office 365
-
-Contributors: [![Kweku Ako Adjei](../media/7e9246c9-ba6a-42a0-97fc-b13eb4e10583.png)](https://go.microsoft.com/fwlink/?linkid=857182)
-  
+ 
 As the admin of an Office 365 organization, you're responsible for setting password policy for users in your organization. Setting password policy can be complicated and confusing, and this article provides recommendations to make your organization more secure against password attacks.
   
 To set a custom password complexity policy for your organization, see [Azure AD B2C: Configure complexity requirements for passwords](https://go.microsoft.com/fwlink/?linkid=864494).
