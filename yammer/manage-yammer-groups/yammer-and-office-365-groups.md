@@ -119,7 +119,7 @@ A: Yes. This requires using PowerShell. Use the following cmdlet:
 
 ```Set-UnifiedGroup -Identity [group_name] -HiddenFromAddressListsEnabled $true```
 
-For more information about Set-UnifiedGroup, see [Set-UnifiedGroup](https://technet.microsoft.com/en-us/library/mt238274(v=exchg.160).asp).
+For more information about Set-UnifiedGroup, see [Set-UnifiedGroup](https://technet.microsoft.com/en-us/library/mt238274(v=exchg.160).aspx).
 
  **Q: Where can I create Office 365 connected Yammer groups?**
   
