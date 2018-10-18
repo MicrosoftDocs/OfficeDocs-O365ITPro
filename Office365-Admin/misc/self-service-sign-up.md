@@ -3,7 +3,6 @@ title: "Using self-service sign up in your organization"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -22,7 +21,7 @@ description: "Learn about the Office 365 self-service sign up and available self
 
 # Using self-service sign up in your organization
 
-We're listening to your feedback and have made it easier for users in your organization to sign up for Office 365 and other online services from Microsoft. We call this new sign up process "self-service sign up" because your users can sign up to use services paid by your subscription, or use free services, without asking you to take action on their behalf.
+We're listening to your feedback and have made it easier for users in your organization to sign up for online services from Microsoft. We call this new sign up process "self-service sign up" because your users can sign up to use services paid by your subscription, or use free services, without asking you to take action on their behalf.
   
 ## How self-service sign up works
 
@@ -30,11 +29,11 @@ The following example describes how self-sign up works for a school. The same pr
   
 1. Students and faculty members have school email addresses that indicate they are associated with your institution. For example, the email address jakob@uw.edu may indicate a student from the University of Washington.
     
-2. Students and faculty go to [our web site](https://go.microsoft.com/fwlink/p/?LinkId=536628), and use their email address to sign up for the Office 365 services that your organization offers, such Office 365 ProPlus. They can also sign up for other free services that we offer.
+2. Students and faculty go to [our web site](https://go.microsoft.com/fwlink/p/?LinkId=536628), and use their email address to sign up for the services that your organization offers, such Office 365 ProPlus. They can also sign up for other free services that we offer.
     
 3. We validate their email address, and then they can get started using Office 365, Power BI, or other services right away.
     
-4. As the business admin, you will see who has signed up for a subscription by viewing the **Subscriptions** page in the Office 365 admin center. This way you can see when there are new or unrecognized licenses for services in your Office 365 tenant. 
+4. As the business admin, you will see who has signed up for a subscription by viewing the **Subscriptions** page in the Admin center. This way you can see when there are new or unrecognized licenses for services in your tenant. 
     
 ## Available self-service programs
 

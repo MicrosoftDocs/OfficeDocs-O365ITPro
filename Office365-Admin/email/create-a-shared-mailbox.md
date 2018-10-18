@@ -3,7 +3,6 @@ title: "Create a shared mailbox"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -23,8 +22,6 @@ description: "Create a shared mailbox to enable multiple users in your business 
 ---
 
 # Create a shared mailbox
-
- *Last updated: 11 July, 2018* 
   
 It's easy to create shared mailboxes so a group of people can monitor and send email from a common email addresses, like info@contoso.com. When a person in the group replies to a message sent to the shared mailbox, the email appears to be from the shared mailbox, not from the individual user.
   
@@ -32,48 +29,46 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
   
 ## Create a shared mailbox and add members
 
-**Create shared mailbox video**
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/6d993201-a718-4bad-8b4d-2660670aa87d?autoplay=false]
   
- **Try it!**
+**Try it!**
   
-1. 
 ::: moniker range="o365-worldwide"
 
-In the Office 365 admin center, go to **Groups** \> [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox).
+1. In the Office 365 admin center, go to **Groups** \> [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox).
 
-::: moniker-end
+::: moniker-end 
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
-    Sign in with an Office 365 global admin account or Exchange admin account. If you get the message " **You don't have permission to access this page or perform this action**" then you aren't an Office 365 admin. [Who has admin permissions in my business?](../admin-overview/admin-overview.md#bkmk_admin).
+2. Sign in with an Office 365 global admin account or Exchange admin account. If you get the message " **You don't have permission to access this page or perform this action**" then you aren't an admin. [Who has admin permissions in my business?](../admin-overview/admin-overview.md#bkmk_admin).
     
-2. On the **Add a mailbox** page, enter a name for the shared mailbox. Then the wizard chooses the email address, but you can edit it. 
+3. On the **Add a mailbox** page, enter a name for the shared mailbox. Then the wizard chooses the email address, but you can edit it.
     
     ![Name your shared mailbox.](../media/e3035132-8986-4ec7-b7c0-f2752080d2c0.png)
   
-3. Click **Add**. It may take a few minutes before you can add members.
+4. Click **Add**. It may take a few minutes before you can add members.
     
-4. Under **Next steps**, choose **Add members to this mailbox**. Members are the people who will be able to view the incoming mail to this shared mailbox, and the outgoing replies.
+5. Under **Next steps**, choose **Add members to this mailbox**. Members are the people who will be able to view the incoming mail to this shared mailbox, and the outgoing replies.
     
     ![Choose Add Members](../media/a2a72e3d-6170-40fe-a94f-0af8fbef8ab2.png)
   
-5. Choose the **+Add members** button. Put a check mark next to the people who you want to use this shared mailbox, and click **Save**.
+6. Choose the **+Add members** button. Put a check mark next to the people who you want to use this shared mailbox, and click **Save**.
     
     ![Assign members to the shared mailbox](../media/e6c58953-f6d7-4f0b-97ba-308516bf2a94.png)
   
-6. Choose **Close**.
+7. Choose **Close**.
     
 You're done! You have a shared mailbox and it includes a shared calendar. Now go on to the next step: allow everyone to see the Sent email.
   
@@ -81,17 +76,17 @@ You're done! You have a shared mailbox and it includes a shared calendar. Now go
 
 By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.
   
-If you want to allow everyone to see the Sent email, in the Office 365 admin center, edit the shared mailbox settings, and choose **Sent items** \> **Edit**.
+If you want to allow everyone to see the Sent email, in the admin center, edit the shared mailbox settings, and choose **Sent items** \> **Edit**.
   
 ![Choose Sent items and then Edit](../media/09e28637-7900-4792-a71e-58248293cc5b.jpg)
   
 ## Add the shared mailbox to Outlook
 
-If you have [How automapping works with shared mailboxes](create-a-shared-mailbox.md#bkmk_auto) enabled in your business (by default, most people do), the shared mailbox will appear in your user's Outlook app automatically after they close and restart Outlook. 
+If you have [automapping](create-a-shared-mailbox.md#bkmk_auto) enabled in your business (by default, most people do), the shared mailbox will appear in your user's Outlook app automatically after they close and restart Outlook. 
   
 To learn more, see:
   
-- [Open and use a shared mailbox in Outlook 2016 and Outlook 2013](https://support.office.com/article/d94a8e9e-21f1-4240-808b-de9c9c088afd.aspx)
+- [Open and use a shared mailbox in Outlook](https://support.office.com/article/d94a8e9e-21f1-4240-808b-de9c9c088afd.aspx)
     
 - [Add a shared mailbox to Outlook on the web](https://support.office.com/article/98b5a90d-4e38-415d-a030-f09a4cd28207.aspx)
     
@@ -128,13 +123,10 @@ When you created the shared mailbox, you automatically created a shared calendar
 ## Forward emails that are sent to a shared mailbox
 
 You do not need to assign a license to the shared mailbox in order to forward email that's sent to it. You can forward the messages to any valid email address or distribution list.
-  
-1. 
-::: moniker range="o365-worldwide"
-
-On the [![Go to shared mailboxes in the admin center](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
-
-::: moniker-end
+ 
+<!--There was previously a worldwide monikker for step 1, but nothing for Germany or 21Vianet. Is there a deep link to shared mailboxes for Germany or 21Vianet we can include?-->
+ 
+1. On the [![Go to shared mailboxes in the admin center](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
 
 2. Choose **Email forwarding** \> **Edit**.
     
@@ -144,12 +136,9 @@ On the [![Go to shared mailboxes in the admin center](../media/704ec302-c7c9-4b2
     
 ## Send automatic replies from a shared mailbox
 
-1. 
-::: moniker range="o365-worldwide"
+<!--There was previously a worldwide monikker for step 1, but nothing for Germany or 21Vianet. Is there a deep link to shared mailboxes for Germany or 21Vianet we can include?-->
 
-On the [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
-
-::: moniker-end
+1. On the [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
 
 2. Choose **Automatic replies** \> **Edit**.
     
@@ -181,7 +170,7 @@ A Group in Outlook is like a shared mailbox. For a comparison of the two, see [C
     
 - You can't give people outside your business (such as people with a Gmail account) access to your shared mailbox. If you want to do this, consider creating a group for Outlook instead. To learn more, see [Create an Office 365 group in the admin center](../create-groups/create-groups.md).
     
-- You can't access a shared mailbox from Outlook for iPhone or Android. The Outlook mobile app doesn't include the feature to access shared mailboxes, and it's not going to be added. If you want to access a shared mailbox from one of these devices, use your browser to open Outlook on the web, and access the shared mailbox that way. Or, create an Office 365 group instead for your shared mailbox. To learn more, see [Compare Groups](../create-groups/compare-groups.md).
+- You can't access a shared mailbox from Outlook for iPhone or Android. The Outlook mobile app doesn't include the feature to access shared mailboxes, and it's not going to be added. If you want to access a shared mailbox from one of these devices, use your browser to open Outlook on the web, and access the shared mailbox that way. Or, create a group instead for your shared mailbox. To learn more, see [Compare Groups](../create-groups/compare-groups.md).
     
 - You can't encrypt email sent from a shared mailbox. This is because a shared mailbox does not have its own security context (username/password) so it cannot be assigned a key. If more than one person is a member, and they send/receive emails they encrypted with their own keys, other members might be able to read the email and others might not, depending which public key the email was encrypted with.
     
@@ -196,7 +185,7 @@ A Group in Outlook is like a shared mailbox. For a comparison of the two, see [C
 ## Fix issues with creating shared mailboxes
 <a name="bkmk_Fix"> </a>
 
-- Error message: **The proxy address `smtp:<shared mailbox name\>` is already being used by the proxy addresses or LegacyExchangeDN of `<name>`. Please choose another proxy address**. 
+- Error message: **The proxy address "smtp:<shared mailbox name\>" is already being used by the proxy addresses or LegacyExchangeDN of "\<name>". Please choose another proxy address**. 
     
     This issue occurs when you're trying to give the shared mailbox a name that's already in use. For example, let's say you want shared mailboxes named info@domain1 and info@domain2. There are two ways you can do this:
     
@@ -226,7 +215,7 @@ To see what permissions you need to perform these steps, see the "User mailboxes
     
   - **Email address**
     
-3. To grant Full Access or Send As permissions, click **Add**, and then select the users you want to grant permissions to. You can use the CTRL key to select multiple users. Confused about which permission to use? See [Which permissions should you use?](create-a-shared-mailbox.md#TypesOfPerms).
+3. To grant Full Access or Send As permissions, click **Add**, and then select the users you want to grant permissions to. You can use the CTRL key to select multiple users. Confused about which permission to use? See [Which permissions should you use?](create-a-shared-mailbox.md#TypesOfPerms)
     
     > [!NOTE]
     > The Full Access permission allows a user to open the mailbox as well as create and modify items in it. The Send As permission allows anyone other than the mailbox owner to send email from this shared mailbox. Both permissions are required for successful shared mailbox operation. 
@@ -279,7 +268,8 @@ New-Mailbox -Shared -Name "Sales Department" -DisplayName "Sales Department" -Al
 
 See [Compare groups](../create-groups/compare-groups.md) for some guidance. 
   
- **IMPORTANT**: Currently it's not possible to migrate a shared mailbox to an Office 365 Group. Is this something you want? Let us know. **[Vote here](https://go.microsoft.com/fwlink/?linkid=871518)** ! 
+> [!IMPORTANT] 
+> Currently, it's not possible to migrate a shared mailbox to an Office 365 Group. Is this something you want? Let us know. **[Vote here](https://go.microsoft.com/fwlink/?linkid=871518)**! 
   
 We use your feedback to prioritize which features we work on. 
   

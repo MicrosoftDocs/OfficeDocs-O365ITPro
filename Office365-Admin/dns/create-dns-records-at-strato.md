@@ -3,7 +3,6 @@ title: "Create DNS records at Strato for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -13,7 +12,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 8f31403f-92eb-4126-8145-dff92db5f3cb
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Strato for Office 365."
 ---
 

@@ -3,7 +3,6 @@ title: "Create DNS records at Netregistry for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -15,7 +14,6 @@ search.appverid:
 - MOE150
 - BEA160
 ms.assetid: 48e09394-2287-4b3c-9853-21eadf61277e
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Netregistry for Office 365."
 ---
 
@@ -77,7 +75,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|
 |(leave blank)﻿  <br/> |3600 (seconds)  <br/> |"MS=msXXXXXXXX"  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![Netregistry_verificationTXTvalues](../media/cfe8b05a-fa8b-4dba-9554-7a3466e6c012.png)
+ ![Netregistry_verificationTXTvalues](../media/cfe8b05a-fa8b-4dba-9554-7a3466e6c012.png)
   
 6. Choose **Add record**.﻿
     
@@ -131,7 +129,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|:-----|
 |(leave blank)﻿  <br/> |3600 (seconds)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |(select the checkbox)  <br/> |10  <br/> For more information about priority, see What is MX priority?  <br/> |
    
-    ![Netregistry_MX_values](../media/518b3da6-4055-4e2d-b5ce-44a0fee25419.png)
+![Netregistry_MX_values](../media/518b3da6-4055-4e2d-b5ce-44a0fee25419.png)
   
 7. Choose **Add Record**.
     
@@ -167,7 +165,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |enterpriseregistration.windows.net  <br/> |
 |enterpriseenrollment  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-    ![Netregistry_CNAME_values](../media/93c479f0-3ce2-491a-9113-6dde1cd7131b.png)
+ ![Netregistry_CNAME_values](../media/93c479f0-3ce2-491a-9113-6dde1cd7131b.png)
   
 6. Choose **Add record**.
     
@@ -208,7 +206,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |(leave blank)﻿  <br/> |TXT﻿  <br/> |3600 (seconds)﻿  <br/> |"v=spf1 include:spf.protection.outlook.com -all"  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Netregistry_SPF-TXTvalues](../media/a369345a-d774-48bc-8160-b628ab8247f9.png)
+ ![Netregistry_SPF-TXTvalues](../media/a369345a-d774-48bc-8160-b628ab8247f9.png)
   
 6. Choose **Add Record**.
     
@@ -243,7 +241,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |SRV (service)﻿  <br/> |_sip._tls  <br/> |3600 (seconds)  <br/> |100﻿  <br/> |1﻿  <br/> |443﻿  <br/> |sipdir.online.lync.com  <br/> |
 |SRV﻿ (service)  <br/> |_sipfederationtls._tcp  <br/> |3600 (seconds)  <br/> |100﻿  <br/> |1﻿  <br/> |5061﻿  <br/> |sipfed.online.lync.com  <br/> |
    
-    ![Netregistry_SRV_values](../media/49292846-1598-4b8c-9940-db6e10675753.png)
+![Netregistry_SRV_values](../media/49292846-1598-4b8c-9940-db6e10675753.png)
   
 6. Choose **Add Record**.
     

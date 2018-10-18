@@ -3,7 +3,6 @@ title: "Create DNS records at Netfirms for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 967be009-94a4-46a9-8f0d-5ed15020d45a
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Netfirms for Office 365."
 ---
 
@@ -117,7 +115,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![Netfirms-BP-Configure-2-2](../media/485c9b77-6ebc-4c8e-b245-3eec54b110a4.png)
+ ![Netfirms-BP-Configure-2-2](../media/485c9b77-6ebc-4c8e-b245-3eec54b110a4.png)
   
 7. Choose **Add**.
     
@@ -159,7 +157,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
 |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-    ![Netfirms-BP-Configure-3-2](../media/c8e26900-742a-4a42-a60d-d638477f4043.png)
+ ![Netfirms-BP-Configure-3-2](../media/c8e26900-742a-4a42-a60d-d638477f4043.png)
   
 7. Choose **Add** to add the first record. 
     
@@ -195,7 +193,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|
 |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Netfirms-BP-Configure-4-2](../media/536b60c6-a59f-4c12-a3b6-6de4a5053914.png)
+  ![Netfirms-BP-Configure-4-2](../media/536b60c6-a59f-4c12-a3b6-6de4a5053914.png)
   
 7. Choose **Add**.
     

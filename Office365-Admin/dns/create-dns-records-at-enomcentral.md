@@ -3,7 +3,6 @@ title: "Create DNS records at eNomCentral for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: a6626053-a9c8-445b-81ee-eeb6672fae77
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at eNomCentral for Office 365."
 ---
 
@@ -80,7 +78,7 @@ Follow the steps below or [watch the video (start at 0:46)](https://support.offi
 |**Host Name** <br/> |**Record Type** <br/> |**Address** <br/> |
 |@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![eNom-BP-Verify-1-2](../media/e1f95529-46a6-40f9-9709-9fe66f373bcf.png)
+   ![eNom-BP-Verify-1-2](../media/e1f95529-46a6-40f9-9709-9fe66f373bcf.png)
   
 5. Choose **save**.
     
@@ -136,7 +134,7 @@ Follow the steps below or [watch the video (start at 3:40)](https://support.offi
 |:-----|:-----|:-----|
 |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-    ![eNom-BP-Configure-2-1](../media/c32e8954-8209-4f77-a3a8-4b7aeea325d5.png)
+   ![eNom-BP-Configure-2-1](../media/c32e8954-8209-4f77-a3a8-4b7aeea325d5.png)
   
 6. Choose **save**.
     
@@ -184,7 +182,7 @@ Follow the steps below or [watch the video (start at 4:24)](https://support.offi
 |enterpriseregistration  <br/> |CNAME (Alias)  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
 |enterpriseenrollment  <br/> |CNAME (Alias)  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-    ![eNom-BP-Configure-3-2](../media/672371c0-51af-44ba-bb18-80286b7676c1.png)
+   ![eNom-BP-Configure-3-2](../media/672371c0-51af-44ba-bb18-80286b7676c1.png)
   
 6. Choose **save**.
     
@@ -218,7 +216,7 @@ Follow the steps below or [watch the video (start at 5:12)](https://support.offi
 |:-----|:-----|:-----|
 |@  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![eNom-BP-Configure-4-1](../media/64c68697-258d-4044-84b1-c28f4a402e3b.png)
+   ![eNom-BP-Configure-4-1](../media/64c68697-258d-4044-84b1-c28f4a402e3b.png)
   
 5. Choose **save**.
     
@@ -252,7 +250,7 @@ Follow the steps below or [watch the video (start at 5:50)](https://support.offi
 |_sip  <br/> |_tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
 |_sipfederationtls  <br/> |_tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-    ![eNom-BP-Configure-5-2](../media/4d478f40-780f-43b9-940b-712b09da8c63.png)
+   ![eNom-BP-Configure-5-2](../media/4d478f40-780f-43b9-940b-712b09da8c63.png)
   
 6. Choose **save**
     

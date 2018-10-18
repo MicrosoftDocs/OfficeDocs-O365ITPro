@@ -3,7 +3,6 @@ title: "Create DNS records at Crazy Domains for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 6386d63e-b78f-4736-90e7-b99a2c116a9f
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Crazy Domains for Office 365."
 ---
 
@@ -159,7 +157,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |1  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![CrazyDomains-BP-Configure-2-3](../media/e27df6a6-19a6-4e58-9716-a74be1c3f8da.png)
+   ![CrazyDomains-BP-Configure-2-3](../media/e27df6a6-19a6-4e58-9716-a74be1c3f8da.png)
   
 9. Choose **Update**.
     
@@ -223,7 +221,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
 |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
    
-    ![CrazyDomains-BP-Configure-3-3](../media/81a7b837-3f4d-4565-89a9-380e4d318acf.png)
+   ![CrazyDomains-BP-Configure-3-3](../media/81a7b837-3f4d-4565-89a9-380e4d318acf.png)
   
 9. Choose **Add CNAME Record**.
     
@@ -279,7 +277,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|
 |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![CrazyDomains-BP-Configure-4-3](../media/e7fd524a-c94b-4cdd-b264-67abb532a71b.png)
+   ![CrazyDomains-BP-Configure-4-3](../media/e7fd524a-c94b-4cdd-b264-67abb532a71b.png)
   
 9. Choose **Update**.
     
@@ -325,7 +323,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |SRV Record  <br/> |_sip._tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
 |SRV Record  <br/> |_sipfederationtls._tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
    
-    ![CrazyDomains-BP-Configure-5-3](../media/cc0ea6eb-7358-434e-bd1a-2737725c6d41.png)
+   ![CrazyDomains-BP-Configure-5-3](../media/cc0ea6eb-7358-434e-bd1a-2737725c6d41.png)
   
 9. Choose **Add SRV Record**.
     

@@ -18,16 +18,16 @@ search.appverid:
 - MOE150
 - BEA160
 ms.assetid: fce1510d-9ea5-4aff-8752-1676ec7fede3
-description: "Learn how to apply a promotional code to your Office 365 subscription to reduce price, and how to troubleshoot promo code in case of any error."
+description: "Learn how to apply a promotional code to your Office 365 subscription to reduce price, and how to troubleshoot promo code in case of an error."
 ---
 
 # Use your Office 365 promo code to reduce price
 
-When you purchase a subscription, you can use a promotional code to reduce the price. Read this article to see how to [Apply a promo code to your subscription](#apply-a-promo-code-to-your-subscription), to learn about the [Promo code terms](#promo-code-terms), and to [Troubleshoot promo codes](#troubleshooting-promo-codes).
+When you purchase a subscription, you can use a promotional code to reduce the price. Read this article to learn how to apply a promo code to your subscription, to learn about the [Promo code terms](#promo-code-terms), and to [Troubleshoot promo codes](#troubleshooting-promo-codes).
   
 ## Apply a promo code to your subscription
 
-1. Begin your purchase by either purchasing a new Office 365 subscription, or by adding services to an existing subscription.
+1. Begin your purchase by either purchasing a new subscription, or by adding services to an existing subscription.
     
 2. When you check out, type your promo code in the **Enter promo code** box. 
     
@@ -37,7 +37,7 @@ When you purchase a subscription, you can use a promotional code to reduce the p
     
 4. Continue checking out. On the **Order confirmation** page, you'll see **Discount from promo code** beside an amount. 
     
-At any time after you complete your purchase, you can see the discount created by your promo code on your bill. To learn more, see [View your bill for Office 365 for business](../subscriptions-and-billing/view-your-bill-or-invoice.md).
+At any time after you complete your purchase, you can see the discount created by your promo code on your bill. To learn more, see [View your bill](../subscriptions-and-billing/view-your-bill-or-invoice.md).
   
 ## Promo code terms
 

@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Strato"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -13,13 +12,12 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 8d1f0c62-5bec-44ac-8329-f985caefb367
-
 description: "Learn to set up your Office 365 custom domain with Strato if you want Office 365 to manage your DNS records. "
 ---
 
 # Change nameservers to set up Office 365 with Strato
 
-[C﻿heck the Domains FAQ](../setup/domains-faq.md) if you don't find what you're looking for. 
+[Check the Domains FAQ](../setup/domains-faq.md) if you don't find what you're looking for.
   
 If Strato.com is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
@@ -31,7 +29,6 @@ To learn about webhosting and DNS for websites with Office 365, see [Use a publi
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
-<a name="bkmk_txt"> </a>
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -64,9 +61,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 7. In the boxes for the new record, type or copy and paste the following values.
     
-|**Prefix﻿**|**Type﻿**|**Value﻿**|
+|**Prefix**|**Type**|**Value**|
 |:-----|:-----|:-----|
-|(leave blank)﻿  <br/> |TXT﻿  <br/> |MS=msXXXXXXX  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|(leave blank)  <br/> |TXT  <br/> |MS=msXXXXXXX  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
 8. Select **Accept settings**.
     

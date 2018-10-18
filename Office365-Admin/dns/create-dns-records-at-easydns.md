@@ -3,7 +3,6 @@ title: "Create DNS records at easyDNS for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -109,7 +108,6 @@ You'll need to add all of the following DNS records at your registrar's website 
   
 4. Enter the following records in the text fields:
     
-1. 
 
 |**HOST**|**Address (Must end with a ".")**|
 |:-----|:-----|

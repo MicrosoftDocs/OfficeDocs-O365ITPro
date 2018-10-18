@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with 123-reg.co.uk"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 8d7237cc-be6b-4cc3-be67-e96d8eb232d1
-
 description: "Learn how you can set up Office 365 to manage your DNS records at 123-reg.co.uk. "
 ---
 

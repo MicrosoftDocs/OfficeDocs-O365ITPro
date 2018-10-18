@@ -3,6 +3,7 @@
 
 # [Microsoft Kaizala](kaizala-overview.md)
 ## [Kaizala app](kaizala-app.md)
+### [Enable or disable Kaizala Pro](enable-disable-kaizala.md)
 ### [Settings](settings.md)
 ### [Users](users.md)
 ### [Groups](groups.md)

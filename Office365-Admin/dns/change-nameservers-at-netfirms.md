@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Netfirms"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -36,7 +35,6 @@ Here's what you need to do. (Need more help? [Still need help?](change-nameserve
 - [Change your domain's nameserver (NS) records](change-nameservers-at-netfirms.md#BKMK_nameservers)
     
 ## Add a TXT record for verification
-<a name="BKMK_verify"> </a>
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -58,7 +56,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 ||
 |:-----|
 |**Content** <br/> |
-|MS=ms *XXXXXXXX*  <br/> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |
+|MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |
    
 7. Choose **Add**.
     
@@ -111,14 +109,12 @@ To complete setting up your domain with Office 365, you change your domain's NS 
   - If there **ARE** nameservers already listed, [If the correct nameservers are NOT already listed](change-nameservers-at-netfirms.md#BKMK_ProcedureWITH).
     
 ### If the correct nameservers ARE already listed
-<a name="BKMK_ProcedureWithOUT"> </a>
 
 - If the correct nameservers are already listed, you can skip this step.
     
     ![Netfirms-BP-Redelegate-1-2-2](../media/92583632-3ef5-4350-be6d-d9a32f2c29c1.png)
   
 ### If the correct nameservers are NOT already listed
-<a name="BKMK_ProcedureWITH"> </a>
 
 > [!CAUTION]
 > Follow these steps only if you have existing nameservers other than the four correct nameservers. (That is, delete only any current nameservers that are  *not*  named **ns1.bdm.microsoftonline.com**, **ns2.bdm.microsoftonline.com**, **ns3.bdm.microsoftonline.com**, or **ns4.bdm.microsoftonline.com**.) 
@@ -140,12 +136,11 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**Nameserver 3** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Nameserver 4** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![Netfirms-BP-Redelegate-1-4](../media/e9ff6407-3395-47d9-a7e7-325b78b53d3b.png)
+   ![Netfirms-BP-Redelegate-1-4](../media/e9ff6407-3395-47d9-a7e7-325b78b53d3b.png)
   
 4. Choose **Save**.
     
     ![Netfirms-BP-Redelegate-1-5](../media/6c40b569-a0cc-4a5e-8851-0d4b3b4eac70.png)
   
 > [!NOTE]
-> Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain. 
-
+> Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain.

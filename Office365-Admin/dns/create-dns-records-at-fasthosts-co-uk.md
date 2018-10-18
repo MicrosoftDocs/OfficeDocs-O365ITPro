@@ -3,7 +3,6 @@ title: "Create DNS records at Fasthosts.co.uk for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 7fc2d2a9-418f-45b7-9c70-6218e388a3f2
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Fasthosts.co.uk for Office 365."
 ---
 
@@ -114,7 +112,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-    ![FasthostsUK-BP-Configure-2-2](../media/47930740-2660-426b-832f-6847fb5a33b5.png)
+   ![FasthostsUK-BP-Configure-2-2](../media/47930740-2660-426b-832f-6847fb5a33b5.png)
   
 6. Choose **Save**.
     
@@ -162,7 +160,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
 |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-    ![FasthostsUK-BP-Configure-3-2](../media/995d90ae-298e-43e9-ba50-240cf17e946b.png)
+   ![FasthostsUK-BP-Configure-3-2](../media/995d90ae-298e-43e9-ba50-240cf17e946b.png)
   
 6. Choose **Save**.
     
@@ -198,7 +196,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|
 |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![FasthostsUK-BP-Configure-4-2](../media/50531996-80b7-48c1-b2f0-a654f0e6e203.png)
+   ![FasthostsUK-BP-Configure-4-2](../media/50531996-80b7-48c1-b2f0-a654f0e6e203.png)
   
 6. Choose **Save**.
     
@@ -228,7 +226,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip._tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
 |_sipfederationtls._tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
    
-    ![FasthostsUK-BP-Configure-5-2](../media/dab4b5f6-93b4-4ada-81f8-223bec86fc06.png)
+   ![FasthostsUK-BP-Configure-5-2](../media/dab4b5f6-93b4-4ada-81f8-223bec86fc06.png)
   
 6. Choose **Save**.
     

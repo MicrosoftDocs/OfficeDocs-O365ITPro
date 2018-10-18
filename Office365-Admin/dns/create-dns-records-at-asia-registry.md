@@ -3,7 +3,6 @@ title: "Create DNS records at Asia Registry for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 525fd8a3-e33c-4abb-8c3b-786f06484894
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Asia Registry for Office 365."
 ---
 
@@ -93,7 +91,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|
 |@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![AsiaRegistry-BP-Verify-1-1](../media/a9e44f32-8a50-4b58-ad97-b87bb618bd77.png)
+   ![AsiaRegistry-BP-Verify-1-1](../media/a9e44f32-8a50-4b58-ad97-b87bb618bd77.png)
   
 8. Choose **ADD** to save the record, which also automatically adds a new empty row. 
     
@@ -161,7 +159,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |@  <br/> |MX  <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-    ![AsiaRegistry-BP-Configure-2-1](../media/8c56db68-da62-4ad6-b025-5fa50d1d4583.png)
+   ![AsiaRegistry-BP-Configure-2-1](../media/8c56db68-da62-4ad6-b025-5fa50d1d4583.png)
   
 8. Choose **ADD** to save the record, which also automatically adds a new empty row. 
     
@@ -223,7 +221,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
 |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-    ![AsiaRegistry-BP-Configure-3-1](../media/4e054b56-0582-4e54-95a5-92678c068655.png)
+   ![AsiaRegistry-BP-Configure-3-1](../media/4e054b56-0582-4e54-95a5-92678c068655.png)
   
 8. Choose **ADD** to save the record, which also automatically adds a new empty row. 
     
@@ -277,7 +275,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |@  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![AsiaRegistry-BP-Configure-4-1](../media/f8be1015-29b5-41df-81ed-fb0a93108540.png)
+   ![AsiaRegistry-BP-Configure-4-1](../media/f8be1015-29b5-41df-81ed-fb0a93108540.png)
   
 8. Choose **ADD** to save the record, which also automatically adds a new empty row. 
     
@@ -325,7 +323,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip._tls|SRV|1 443 sipdir.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |100|
 |_sipfederationtls._tcp|SRV|1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |100|
    
-    ![AsiaRegistry-BP-Configure-5-1](../media/f5ba412d-380c-460a-806e-3a7d93205995.png)
+   ![AsiaRegistry-BP-Configure-5-1](../media/f5ba412d-380c-460a-806e-3a7d93205995.png)
   
 8. Choose **ADD** to save the record, which also automatically adds a new empty row. 
     

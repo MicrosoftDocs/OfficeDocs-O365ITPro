@@ -3,7 +3,6 @@ title: "Create DNS records at Media Temple for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -16,7 +15,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5831648d-f334-4cbe-919f-0dc02654eb3b
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Media Temple for Office 365."
 ---
 
@@ -141,7 +139,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |(This value cannot be changed.)  <br/> |MX  <br/> | *10 \<domain-key\>*  .mail.protection.outlook.com.  <br/> The  *10*  is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![MediaTemple-BP-Configure-2-1](../media/1fab65a4-1309-432e-aac2-39a94c45ba78.png)
+   ![MediaTemple-BP-Configure-2-1](../media/1fab65a4-1309-432e-aac2-39a94c45ba78.png)
   
 7. Choose **Save Changes**.
     
@@ -192,7 +190,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |lyncdiscover  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
 |msoid  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
    
-    ![MediaTemple-BP-Configure-3-1](../media/55a9fe55-2635-42e7-a9df-49c17981089c.png)
+   ![MediaTemple-BP-Configure-3-1](../media/55a9fe55-2635-42e7-a9df-49c17981089c.png)
   
 7. Choose **Save Changes**.
     
@@ -208,7 +206,8 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     Repeat this process until you have created all four CNAME records.
     
-10.     > [!IMPORTANT]
+10.     
+>[!IMPORTANT]
     > If you have Mobile Device Management (MDM) for Office 365, then you must create two additional CNAME records. Follow the procedure that you used for the other four CNAME records, but supply the values from the following table. > (If you do not have MDM, you can skip this step.) 
   
 |**Name**|**TTL**|**Type**|**Data**|
@@ -240,7 +239,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |(This value cannot be changed.)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![MediaTemple-BP-Configure-4-1](../media/09dfea1c-319f-456c-9894-ac13a1f9486f.png)
+   ![MediaTemple-BP-Configure-4-1](../media/09dfea1c-319f-456c-9894-ac13a1f9486f.png)
   
 7. Choose **Save Changes**.
     
@@ -290,4 +289,3 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
-  

@@ -3,7 +3,6 @@ title: "Create DNS records at Dreamhost for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -16,7 +15,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 9c0812e0-908b-4b41-a64b-77f0dbd3db7a
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Dreamhost for Office 365."
 ---
 
@@ -75,7 +73,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |(This field is optional.)  <br/> |
    
-    ![Dreamhost-BP-Verify-1-1](../media/ed4a7d43-eeeb-4ec8-849c-37f81315dc69.png)
+   ![Dreamhost-BP-Verify-1-1](../media/ed4a7d43-eeeb-4ec8-849c-37f81315dc69.png)
   
 5. Choose **Add Record Now!**
     
@@ -133,7 +131,7 @@ Follow the steps below.
 |:-----|
 |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> The 0 is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![Dreamhost-BP-Configure-2-3](../media/90da1816-e186-4016-ab22-7962f8b86add.png)
+   ![Dreamhost-BP-Configure-2-3](../media/90da1816-e186-4016-ab22-7962f8b86add.png)
   
 5. Choose **Change this domain to use custom MX records now!**
     
@@ -181,7 +179,7 @@ Follow the steps below.
 |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |(This field is optional.)  <br/> |
 |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |(This field is optional.)  <br/> |
    
-    ![Dreamhost-BP-Configure-3-1](../media/0c4cc587-ea24-47f2-8dc6-a35735b250e6.png)
+   ![Dreamhost-BP-Configure-3-1](../media/0c4cc587-ea24-47f2-8dc6-a35735b250e6.png)
   
 5. Choose **Add Record Now!**
     
@@ -221,7 +219,7 @@ Follow the steps below.
 |:-----|:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com-all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |(This field is optional.)  <br/> |
    
-    ![Dreamhost-BP-Configure-4-1](../media/cbc4bbca-bdbc-4dc9-b1b7-b55491eb1e53.png)
+   ![Dreamhost-BP-Configure-4-1](../media/cbc4bbca-bdbc-4dc9-b1b7-b55491eb1e53.png)
   
 5. Choose ** Add Record Now! **
     
@@ -259,7 +257,7 @@ Follow the steps below.
 |_sip._tls  <br/> |SRV  <br/> |100 1 443  <br/> sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |(This field is optional.)  <br/> |
 |_sipfederationtls._tcp  <br/> |SRV  <br/> |100 1 5061  <br/> sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |(This field is optional.)  <br/> |
    
-    ![Dreamhost-BP-Configure-5-1](../media/934eb79f-3617-4b72-802c-c42c7d165283.png)
+   ![Dreamhost-BP-Configure-5-1](../media/934eb79f-3617-4b72-802c-c42c7d165283.png)
   
 5. Choose **Add Record Now!**.
     

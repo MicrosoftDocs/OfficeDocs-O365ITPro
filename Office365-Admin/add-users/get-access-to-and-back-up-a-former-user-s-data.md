@@ -3,7 +3,6 @@ title: "Get access to and back up a former user's data"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -23,7 +22,7 @@ description: "Learn how to preserve an employee's files and emails when the pers
 
 # Get access to and back up a former user's data
 
- *12 January, 2018* 
+ 
   
 When an employee leaves your organization, you probably want to access their data - meaning their documents and emails - and either review it, back it up, or transfer ownership to a new employee.
   
@@ -52,7 +51,7 @@ To save the content, here's what you do:
     There are a few ways to copy files in Office 365. See [Video: Set up document storage and sharing in Office 365](https://support.office.com/article/6a41fb61-9c11-4adf-9b98-f7910fe1b0d2.aspx). Or, to sync your files, and then upload those files to your OneDrive for Business or your team site, see [Sync files with the new OneDrive sync client in Windows](https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49.aspx).
     
 ## Part 2 - Get access to the Outlook information of the former employee
-<a name="bkmk_export"> </a>
+
 
 To save the email messages, calendar, tasks, and contacts of the former employee, export the information to an Outlook Data File (.pst).
   
@@ -130,7 +129,7 @@ To give access of the email messages, calendar, tasks, and contacts of the forme
 Check out [Import email, contacts, and calendar from an Outlook .pst file](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac.aspx) for the steps for Outlook 2010. 
   
 ## Related Topics
-<a name="bkmk_import"> </a>
+
 
 [Remove a former employee from Office 365](remove-former-employee.md)
   

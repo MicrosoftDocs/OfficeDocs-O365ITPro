@@ -3,7 +3,6 @@ title: "Create DNS records at Network Solutions for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 1dc55f9f-5309-450f-acc3-b2b4119c8be3
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Network Solutions for Office 365."
 ---
 
@@ -90,7 +88,7 @@ Follow the steps below or [watch the video (start at 0:47)](https://support.offi
 |:-----|:-----|:-----|
 |@  <br/> (The system will change this value to **@ (None)** when you save the record.)  <br/> |3600  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![Type or paste values in the boxes for the new record](../media/8a76daab-b6ff-4c82-ba68-192b24fbb934.png)
+ ![Type or paste values in the boxes for the new record](../media/8a76daab-b6ff-4c82-ba68-192b24fbb934.png)
   
 7. Choose **Continue**.
     
@@ -159,7 +157,7 @@ Follow the steps below or [watch the video (start at 3:51)](https://support.offi
 |:-----|:-----|:-----|
 |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |3600  <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![Type or paste values in the boxes for the new record](../media/0bb96872-cc6e-4dfa-a649-fb7efbbf0012.png)
+ ![Type or paste values in the boxes for the new record](../media/0bb96872-cc6e-4dfa-a649-fb7efbbf0012.png)
   
 7. Choose **Continue**.
     
@@ -221,8 +219,8 @@ Follow the steps below or [watch the video (start at 4:43)](https://support.offi
 |msoid  <br/> |3600  <br/> |(No setting)  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
 |enterpriseregistration  <br/> |3600  <br/> |(No setting)  <br/> |enterpriseregistration.windows.net  <br/> **This value MUST end with a period (.)** <br/> |
 |enterpriseenrollment  <br/> |3600  <br/> |(No setting)  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> **This value MUST end with a period (.)** <br/> |
-   
-    ![Type or paste values for the new records](../media/5ce0b30c-b46c-4778-aa5a-fb5e2f0961c1.png)
+
+![Type or paste values for the new records](../media/5ce0b30c-b46c-4778-aa5a-fb5e2f0961c1.png)
   
 7. When you have added all of the CNAME records that you need, choose **Continue**.
     
@@ -271,7 +269,7 @@ Follow the steps below or [watch the video (start at 5:35)](https://support.offi
 |:-----|:-----|:-----|
 |@  <br/> (The system will change this value to **@ (None)** when you save the record.)  <br/> |3600  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Type or paste values for the new record](../media/11564eca-e2ee-4f17-af2b-a00eb7c157db.png)
+  ![Type or paste values for the new record](../media/11564eca-e2ee-4f17-af2b-a00eb7c157db.png)
   
 7. Choose **Continue**.
     
@@ -320,7 +318,7 @@ Follow the steps below or [watch the video (start at 6:18)](https://support.offi
 |_sip  <br/> |_tls  <br/> |3600  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
 |_sipfederationtls  <br/> |_tcp  <br/> |3600  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-    ![Type or paste values for the new records](../media/86968d1c-8e43-4e61-aeaa-37fc7d7ef7a7.png)
+![Type or paste values for the new records](../media/86968d1c-8e43-4e61-aeaa-37fc7d7ef7a7.png)
   
 7. Choose **Continue**.
     

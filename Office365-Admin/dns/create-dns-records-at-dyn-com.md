@@ -3,7 +3,6 @@ title: "Create DNS records at Dyn.com for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -23,7 +22,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 34e57a00-2a7d-469c-beec-089423f18369
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Dyn.com for Office 365."
 ---
 
@@ -73,7 +71,7 @@ To learn about webhosting and DNS for websites with Office 365, see [Use a publi
 |:-----|:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |﻿600  <br/> |﻿TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![Dyn-BP-Verify-1-1](../media/b3730b15-a313-4b4c-b91e-646eebb649e8.png)
+   ![Dyn-BP-Verify-1-1](../media/b3730b15-a313-4b4c-b91e-646eebb649e8.png)
   
 6. ﻿Choose **Create Record**.
     
@@ -123,7 +121,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |600  <br/> |MX  <br/> |10  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> The **10** is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-    ![Dyn-BP-Configure-2-1](../media/62ac77b7-c84d-426d-9ec4-a28d6479ad04.png)
+   ![Dyn-BP-Configure-2-1](../media/62ac77b7-c84d-426d-9ec4-a28d6479ad04.png)
   
 6. Choose **Create Record**.
     
@@ -165,7 +163,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |600  <br/> |CNAME  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
 |enterpriseenrollment  <br/> |600  <br/> |CNAME  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-    ![Dyn-BP-Configure-3-1](../media/1fd80695-d3d7-4298-9ebe-97a69f46f1b2.png)
+   ![Dyn-BP-Configure-3-1](../media/1fd80695-d3d7-4298-9ebe-97a69f46f1b2.png)
   
 6. Choose **Create Record**.
     
@@ -201,7 +199,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |600  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Dyn-BP-Configure-4-1](../media/f8511349-3ea2-40c3-9853-98e1a58a91b5.png)
+   ![Dyn-BP-Configure-4-1](../media/f8511349-3ea2-40c3-9853-98e1a58a91b5.png)
   
 6. Choose **Create Record**.
     
@@ -231,7 +229,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip._tls|600|SRV|100 1 443 sipdir.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
 |_sipfederationtls._tcp|600|SRV|100 1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Dyn-BP-Configure-5-1](../media/a6873411-f4ce-4327-9145-02d435930976.png)
+   ![Dyn-BP-Configure-5-1](../media/a6873411-f4ce-4327-9145-02d435930976.png)
   
 6. Choose **Create Record**.
     

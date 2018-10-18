@@ -3,7 +3,6 @@ title: "Create DNS records at Names.co.uk for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: b6c15128-b456-49b4-8b5e-5b823c700f26
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Names.co.uk for Office 365."
 ---
 
@@ -79,7 +77,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![NamesUK-BP-Verify-1-1](../media/91ed1f22-a796-418d-bbb0-345e2cd99bde.png)
+ ![NamesUK-BP-Verify-1-1](../media/91ed1f22-a796-418d-bbb0-345e2cd99bde.png)
   
 4. Choose **Save**.
     
@@ -131,7 +129,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |1  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![NamesUK-BP-Configure-2-1](../media/e211d73d-864f-4114-864b-8e636c69f595.png)
+![NamesUK-BP-Configure-2-1](../media/e211d73d-864f-4114-864b-8e636c69f595.png)
   
 4. Choose **Save**.
     
@@ -179,7 +177,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
 |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-    ![NamesUK-BP-Configure-3-1](../media/392772bf-2ed3-4959-9a9a-bb1611905e86.png)
+ ![NamesUK-BP-Configure-3-1](../media/392772bf-2ed3-4959-9a9a-bb1611905e86.png)
   
 4. Choose **Save**.
     
@@ -217,7 +215,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![NamesUK-BP-Configure-4-1](../media/cfc61387-630e-4aa0-8762-ef36eaeda44a.png)
+ ![NamesUK-BP-Configure-4-1](../media/cfc61387-630e-4aa0-8762-ef36eaeda44a.png)
   
 5. Choose **Save**.
     
@@ -247,7 +245,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip._tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
 |_sipfederationtls._tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
    
-    ![NamesUK-BP-Configure-5-1](../media/97a96523-005a-4058-9e12-19f6c3bf9b3b.png)
+   ![NamesUK-BP-Configure-5-1](../media/97a96523-005a-4058-9e12-19f6c3bf9b3b.png)
   
 4. Choose **Save**.
     

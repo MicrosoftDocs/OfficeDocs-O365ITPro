@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with United Domains"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 513cd5bc-46ad-48e8-bb11-af90b455d474
-
 description: "Learn to set up your Office 365 custom domain with United Domains if you want Office 365 to manage your DNS records. "
 ---
 
@@ -37,7 +35,6 @@ Here's what you need to do. (Need more help? [Still need help?](change-nameserve
 - [Change your domain's nameserver (NS) records](change-nameservers-at-united-domains.md#BKMK_nameservers)
     
 ## Add a TXT record for verification
-<a name="BKMK_verify"> </a>
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -46,7 +43,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 1. To get started, go to your domains page at United Domains by using [this link](https://www.uniteddomains.com/portfolio/index/domainlist/). You'll be prompted to log in.
     
-2. Under **My Domain List**, in the **Manage Settings** column, choose **DNS** for the domain that you want to edit. 
+2. Under **My Domain List**, in the **Manage Settings** column, choose **DNS** for the domain that you want to edit.
     
     ![UnitedDomains-BP-Configure-1-2](../media/4b888afd-1870-4f77-97b9-65d843f65442.png)
   
@@ -58,9 +55,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 |**Subdomain**|**Record Type**|**Value**|
 |:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |TXT Record  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
-   
-    ![UnitedDomains-BP-Verify-1-1](../media/b596efe5-3a06-4104-ac26-8e470d69c2db.png)
+|(Leave this field empty.)  <br/> |TXT Record  <br/> |MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          <br/>
+
+   ![UnitedDomains-BP-Verify-1-1](../media/b596efe5-3a06-4104-ac26-8e470d69c2db.png)
   
 4. Choose the **Save** control that is indicated in the following illustration. 
     
@@ -98,7 +95,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 > When you change your domain's NS records to point to the Office 365 name servers, all the services that are currently associated with your domain are affected. For example, all email sent to your domain (like rob@ *your_domain*  .com) will start coming to Office 365 after you make this change. 
   
 > [!IMPORTANT]
->  When you have completed the steps in this section, the  *only*  nameservers that should be listed are these four: >  ns1.bdm.microsoftonline.com >  ns2.bdm.microsoftonline.com >  ns3.bdm.microsoftonline.com >  ns4.bdm.microsoftonline.com >  The following procedure will show you how to delete any other, unwanted nameservers from the list, and also how to add the  *correct*  nameservers if they are not already in the list. 
+>  When you have completed the steps in this section, the  *only*  nameservers that should be listed are these four: **ns1.bdm.microsoftonline.com**, **ns2.bdm.microsoftonline.com**, **ns3.bdm.microsoftonline.com**, and **ns4.bdm.microsoftonline.com**. The following procedure will show you how to delete any other, unwanted nameservers from the list, and also how to add the  *correct*  nameservers if they are not already in the list.
   
 1. To get started, go to your domains page at United Domains by using [this link](https://www.uniteddomains.com/portfolio/index/domainlist/). You'll be prompted to log in.
     
@@ -127,9 +124,9 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |Second **NS** field  <br/> |ns2.bdm.microsoftonline.com  <br/> |
 |Third **NS** field  <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |Fourth **NS** field  <br/> |ns4.bdm.microsoftonline.com  <br/> |
-   
-    ![UnitedDomains-BP-Redelegate-1-2](../media/996bca3d-36fa-4eee-9ccf-b0198ee2675b.png)
-  
+
+   ![UnitedDomains-BP-Redelegate-1-2](../media/996bca3d-36fa-4eee-9ccf-b0198ee2675b.png)
+
 2. Choose **Save.**
     
     ![UnitedDomains-BP-Redelegate-1-3](../media/3dcda956-ee1f-419f-9358-e7b6801ac90e.png)

@@ -3,7 +3,6 @@ title: "Create DNS records at OVH for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -13,7 +12,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5176feef-36dc-4d84-842f-1f2b5a21ba96
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at OVH for Office 365."
 ---
 
@@ -135,7 +133,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|:-----|
 |MX  <br/> |(leave blank)  <br/> |3600 (seconds﻿)  <br/> |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |\<domain-key\>.mail.protection.outlook.com.  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![OVH MX record for mail](../media/6e2f5655-93e2-4620-8f19-c452e7edf8f0.png)
+  ![OVH MX record for mail](../media/6e2f5655-93e2-4620-8f19-c452e7edf8f0.png)
   
 7. Choose **Next**.
     
@@ -187,7 +185,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> |3600 seconds  <br/> |
 |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> |3600 seconds  <br/> |
    
-    ![OVH CNAME record](../media/516938b3-0b12-4736-a631-099e12e189f5.png)
+ ![OVH CNAME record](../media/516938b3-0b12-4736-a631-099e12e189f5.png)
   
 7. ﻿Choose **Next**.
     
@@ -229,7 +227,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |﻿TXT  <br/> |﻿(leave blank)  <br/> |﻿3600 (seconds)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![OVH Add TXT record for SPF](../media/f50466e9-1557-4548-8a39-e98978a5ee2e.png)
+![OVH Add TXT record for SPF](../media/f50466e9-1557-4548-8a39-e98978a5ee2e.png)
   
 7. ﻿Choose **Next**.
     
@@ -271,7 +269,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |SRV (Service)  <br/> |_sip﻿._tls  <br/> |100  <br/> |1  <br/> |443  <br/> |3600 (seconds)  <br/> |sipdir.online.lync.com.  <br/> |
 |SRV (Service)  <br/> |_sipfederationtls﻿._tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |3600 (seconds)  <br/> |sipfed.online.lync.com.  <br/> |
    
-    ![OVH SRV record](../media/73956b9e-9e4f-40a5-803e-c4ead2f77fa6.png)
+ ![OVH SRV record](../media/73956b9e-9e4f-40a5-803e-c4ead2f77fa6.png)
   
 7. ﻿Choose **Next**.
     

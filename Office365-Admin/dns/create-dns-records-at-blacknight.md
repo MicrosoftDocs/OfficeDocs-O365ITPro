@@ -3,7 +3,6 @@ title: "Create DNS records at Blacknight for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -16,7 +15,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 8362dc56-976b-41ee-bb00-4736ee2d8f91
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Blacknight for Office 365."
 ---
 
@@ -85,7 +83,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|:-----|
 |TXT  <br/> |(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Select **Custom** and enter the value **3600**.  <br/> |
    
-    ![Blacknight-BP-Verify-1-1](../media/b6c3c40b-d2ed-4efe-95ad-1213d57aae94.png)
+   ![Blacknight-BP-Verify-1-1](../media/b6c3c40b-d2ed-4efe-95ad-1213d57aae94.png)
   
 8. Choose **Finish**.
     
@@ -149,7 +147,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|:-----|
 |MX  <br/> |(Leave this field empty.)  <br/> |Very high (10)  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Select **Custom** and enter the value **3600**.  <br/> |
    
-    ![Blacknight-BP-Configure-2-1](../media/39b85283-78a7-4361-82da-31af7023c6e1.png)
+   ![Blacknight-BP-Configure-2-1](../media/39b85283-78a7-4361-82da-31af7023c6e1.png)
   
 8. Choose **Finish**.
     
@@ -209,7 +207,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
 |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
    
-    ![Blacknight-BP-Configure-3-1](../media/8029a021-0ac8-4d79-87e6-74dd125d998b.png)
+   ![Blacknight-BP-Configure-3-1](../media/8029a021-0ac8-4d79-87e6-74dd125d998b.png)
   
 8. Choose **Finish**.
     
@@ -255,7 +253,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |TXT  <br/> |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |Select **Custom** and enter the value **3600**.  <br/> |
    
-    ![Blacknight-BP-Configure-4-1](../media/90d8eb39-3191-4fe1-8bf0-e73b77250ed4.png)
+   ![Blacknight-BP-Configure-4-1](../media/90d8eb39-3191-4fe1-8bf0-e73b77250ed4.png)
   
 8. Choose **Finish**.
     
@@ -299,7 +297,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |SRV  <br/> |sip  <br/> |tls  <br/> |Custom (100)  <br/> |1  <br/> |sipdir.online.lync.com  <br/> |443  <br/> |Select **Custom** and enter the value **3600**.  <br/> |
 |SRV  <br/> |sipfederationtls  <br/> |tcp  <br/> |Custom (100)  <br/> |1  <br/> |sipfed.online.lync.com  <br/> |5061  <br/> |Select **Custom** and enter the value **3600**.  <br/> |
    
-    ![Blacknight-BP-Configure-5-1](../media/5f12d96a-bf5a-4e15-8958-7d107c745abd.png)
+   ![Blacknight-BP-Configure-5-1](../media/5f12d96a-bf5a-4e15-8958-7d107c745abd.png)
   
 8. Choose **Finish**.
     

@@ -25,16 +25,16 @@ Microsoft recommends that you complete the tasks listed in the following table t
   
 ||**Task**|**Office 365 Business Premium**|**Microsoft 365 Business**|
 |:-----|:-----|:-----|:-----|
-|1  <br/> |[1: Set up multi-factor authentication](secure-your-business-data.md#setup) <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
-|2  <br/> |[2: Train your users](secure-your-business-data.md#train) <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
-|3  <br/> |[3: Use dedicated admin accounts](secure-your-business-data.md#admin) <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
-|4  <br/> |[4: Raise the level of protection against malware in mail](secure-your-business-data.md#malware) <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
-|5  <br/> |[5: Protect against ransomware](secure-your-business-data.md#ransomware) <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
-|6  <br/> |[6: Stop auto-forwarding for email](secure-your-business-data.md#forwarding) <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
-|7  <br/> |[7: Use Office Message Encryption](secure-your-business-data.md#encryption) <br/> ||![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
-|8  <br/> |[8. Protect your email from phishing attacks](secure-your-business-data.md#phishing) <br/> ||![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
-|9  <br/> |[9: Protect against malicious attachments and files with ATP Safe Attachments](secure-your-business-data.md#atp) <br/> ||![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
-|10  <br/> |[10: Protect against phishing attacks with ATP Safe Links](secure-your-business-data.md#phishingatp) <br/> ||![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
+|1  <br/> |[Set up multi-factor authentication](secure-your-business-data.md#setup) <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
+|2  <br/> |[Train your users](secure-your-business-data.md#train) <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
+|3  <br/> |[Use dedicated admin accounts](secure-your-business-data.md#admin) <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
+|4  <br/> |[Raise the level of protection against malware in mail](secure-your-business-data.md#malware) <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
+|5  <br/> |[Protect against ransomware](secure-your-business-data.md#ransomware) <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
+|6  <br/> |[Stop auto-forwarding for email](secure-your-business-data.md#forwarding) <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
+|7  <br/> |[Use Office Message Encryption](secure-your-business-data.md#encryption) <br/> ||![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
+|8  <br/> |[Protect your email from phishing attacks](secure-your-business-data.md#phishing) <br/> ||![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
+|9  <br/> |[Protect against malicious attachments and files with ATP Safe Attachments](secure-your-business-data.md#atp) <br/> ||![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
+|10  <br/> |[Protect against phishing attacks with ATP Safe Links](secure-your-business-data.md#phishingatp) <br/> ||![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
    
 Before you begin, check your Office 365 Secure Score. Office 365 Secure Score analyzes your Office 365 organization's security based on your regular activities and security settings and assigns a score. Begin by taking note of your current score. Taking the actions recommended in this article increases your score. The goal is not to achieve the max score, but to be aware of opportunities to protect your environment that do not negatively affect productivity for your users. See [Introducing the Office 365 Secure Score](https://support.office.com/article/c9e7160f-2c34-4bd0-a548-5ddcc862eaef).
   
@@ -232,8 +232,7 @@ To create an ATP anti-phishing policy:
     
 |
 |
-|**Setting or option**|**Recommended setting**|
-|:-----|:-----|
+|**Setting or option**|**Recommended setting** <br/>
 |Name  <br/> |Domain and most valuable campaign staff  <br/> |
 |Description  <br/> |Ensure most important staff and our domain are not being impersonated.  <br/> |
 |Add users to protect  <br/> |Select **+ Add a condition, The recipient is**. Type user names or enter the email address of the candidate, campaign manager, and other important staff members. You can add up to 20 internal and external addresses that you want to protect from impersonation.  <br/> |
@@ -268,8 +267,7 @@ To create an ATP safe attachment policy:
     
 |
 |
-|**Setting or option**|**Recommended setting**|
-|:-----|:-----|
+|**Setting or option**|**Recommended setting** <br/>|
 |Name  <br/> |Block current and future emails with detected malware.  <br/> |
 |Description  <br/> |Block current and future emails and attachments with detected malware.  <br/> |
 |Save attachments unknown malware response  <br/> |Select **Block - Block the current and future emails and attachments with detected malware**.  <br/> |
@@ -315,8 +313,7 @@ To create a new policy targeted to all recipients in your domain:
     
 |
 |
-|**Setting or option**|**Recommended setting**|
-|:-----|:-----|
+|**Setting or option**|**Recommended setting** <br/>|
 |Name  <br/> |Safe links policy for all recipients in the domain  <br/> |
 |Select the action for unknown potentially malicious URLs in messages  <br/> |Select **On - URLs will be rewritten and checked against a list of known malicious links when user clicks on the link**.  <br/> |
 |Use Safe Attachments to scan downloadable content  <br/> |Select this box.  <br/> |

@@ -3,7 +3,6 @@ title: "Create DNS records at Dynadot for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 4d199a41-730f-4aac-bfd5-104727a4ab03
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Dynadot for Office 365."
 ---
 
@@ -77,7 +75,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|
 |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![Dynadot-BP-Verify-1-1](../media/7be98776-f41d-4317-b93a-afccf72d6590.png)
+   ![Dynadot-BP-Verify-1-1](../media/7be98776-f41d-4317-b93a-afccf72d6590.png)
   
 5. Choose **Save DNS**.
     
@@ -131,7 +129,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|
 | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-    ![Dynadot-BP-Configure-2-1](../media/d83422ba-8d89-43af-b503-e00854a22105.png)
+   ![Dynadot-BP-Configure-2-1](../media/d83422ba-8d89-43af-b503-e00854a22105.png)
   
 5. If there are any other MX records, delete each one by selecting it and then pressing the **Delete** key on your keyboard. 
     
@@ -169,7 +167,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
 |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-    ![Dynadot-BP-Configure-3-1](../media/e59bbaf7-ecab-4a12-893f-6f4a218f6dea.png)
+   ![Dynadot-BP-Configure-3-1](../media/e59bbaf7-ecab-4a12-893f-6f4a218f6dea.png)
   
 5. When you have added the last CNAME record, choose **Save DNS**.
     
@@ -203,7 +201,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|
 |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Dynadot-BP-Configure-4-1](../media/0e20d369-6dad-45b5-aa9f-3ba72ee7b3d8.png)
+   ![Dynadot-BP-Configure-4-1](../media/0e20d369-6dad-45b5-aa9f-3ba72ee7b3d8.png)
   
 5. Choose **Save DNS**.
     
@@ -235,7 +233,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip._tls|SRV|100 1 443 sipdir.online.lync.com> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
 |_sipfederationtls._tcp|SRV|100 1 5061 sipfed.online.lync.com> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Dynadot-BP-Configure-5-1](../media/2d721f42-eafc-4bb7-b377-d18c84b36057.png)
+   ![Dynadot-BP-Configure-5-1](../media/2d721f42-eafc-4bb7-b377-d18c84b36057.png)
   
 5. Choose **Save DNS**.
     

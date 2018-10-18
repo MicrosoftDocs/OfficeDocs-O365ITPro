@@ -3,7 +3,6 @@ title: "Create DNS records at Register.com for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 55bd8c38-3316-48ae-a368-4959b2c1684e
-
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Register.com for Office 365."
 ---
 
@@ -122,7 +120,7 @@ Follow the steps below or [watch the video (start at 3:32)](https://support.offi
 |:-----|:-----|:-----|
 |@  <br/> |High  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![Copy and paste the value from the table](../media/a1a15a14-c3dc-45dc-adcd-90fdb3f7455d.png)
+![Copy and paste the value from the table](../media/a1a15a14-c3dc-45dc-adcd-90fdb3f7455d.png)
   
 7. If there were any other MX records already listed, select each of those records to be deleted.
     
@@ -170,7 +168,7 @@ Follow the steps below or [watch the video (start at 4:23)](https://support.offi
 |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
 |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-    ![Copy and paste the DNS values from the table](../media/0e2b36b2-8a0b-4019-addf-301763f9a626.png)
+ ![Copy and paste the DNS values from the table](../media/0e2b36b2-8a0b-4019-addf-301763f9a626.png)
   
 8. When you have added all of the CNAME records that you need, choose **Continue**.
     
@@ -206,7 +204,7 @@ Follow the steps below or [watch the video (start at 5:12)](https://support.offi
 |:-----|:-----|
 |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]>  We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Copy and paste the values from the table](../media/b1dc5036-c13c-4306-b1e3-5a38a74643b7.png)
+ ![Copy and paste the values from the table](../media/b1dc5036-c13c-4306-b1e3-5a38a74643b7.png)
   
 7. Choose **Continue**.
     
@@ -244,7 +242,7 @@ Follow the steps below or [watch the video (start at 5:55)](https://support.offi
 |_sip  <br/> |_tls  <br/> |@  <br/> |High  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
 |_sipfederationtls  <br/> |_tcp  <br/> |@  <br/> |High  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-    ![Copy and paste the values from the table](../media/71304c81-5845-4a8f-b969-d9efc8721184.png)
+![Copy and paste the values from the table](../media/71304c81-5845-4a8f-b969-d9efc8721184.png)
   
 7. Choose **Add more SRV records**.
     

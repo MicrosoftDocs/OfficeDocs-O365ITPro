@@ -3,7 +3,6 @@ title: "Why can't I switch Office 365 for business plans?"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: troubleshooting
 f1_keywords:
@@ -26,30 +25,29 @@ description: "Understand the reasons why sometimes switching plans has to be don
 
 # Why can't I switch Office 365 for business plans?
 
-If you don't see the **Switch plans** button, your Office 365 for business plan can't be switched automatically. In some cases, you might be able to resolve the issue so that you can use the **Switch plans** button, or you might be able to [switch plans manually](switch-plans-manually.md), instead. Position your mouse over the info icon to view a message that explains why the **Switch plans** button is not available. Use the information in this article to resolve the issue. 
+If you don't see the **Switch plans** button, your plan can't be switched automatically. In some cases, you might be able to resolve the issue so that you can use the **Switch plans** button, or you might be able to [switch plans manually](switch-plans-manually.md), instead. Position your mouse over the info icon to view a message that explains why the **Switch plans** button is not available. Use the information in this article to resolve the issue. 
   
 ![The message indicating that the plan isn't eligible to switch plans automatically.](../media/2a03f4b2-6a12-46da-a308-89b11f2f1a20.png)
   
 ::: moniker range="o365-worldwide"
 
- **Need something else?**[Buy another Office 365 for business subscription](https://support.office.com/article/de3bd83c-286f-47cc-98ce-0d8ee20e8ac6.aspx) | [Cancel Office 365 for business](../subscriptions-and-billing/cancel-your-subscription.md) | [Billing in Office 365 for business - Admin Help](../subscriptions-and-billing/subscriptions-and-billing.md) | [Call support](../contact-support-for-business-products.md)
+ **Need something else?** [Buy another subscription](../subscriptions-and-billing/buy-another-subscription.md) | [Cancel your subscription](../subscriptions-and-billing/cancel-your-subscription.md) | [Subscriptions and billing](../subscriptions-and-billing/subscriptions-and-billing.md) | [Call support](../contact-support-for-business-products.md)
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
- **Need something else?**[Buy another Office 365 for business subscription](https://support.office.com/article/de3bd83c-286f-47cc-98ce-0d8ee20e8ac6.aspx) | [Cancel Office 365 for business](../subscriptions-and-billing/cancel-your-subscription.md) | [Call support](../contact-support-for-business-products.md)
+ **Need something else?** [Buy another subscription](../subscriptions-and-billing/buy-another-subscription.md) | [Cancel your subscription](../subscriptions-and-billing/cancel-your-subscription.md) | [Call support](../contact-support-for-business-products.md)
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
- **Need something else?**[Buy or try subscriptions for Office 365 operated by 21Vianet](../services-in-china/buy-or-try-subscriptions.md) | [Cancel Office 365 for business](../subscriptions-and-billing/cancel-your-subscription.md) | [Call support](../contact-support-for-business-products.md)
+ **Need something else?** [Buy or try subscriptions for Office 365 operated by 21Vianet](../services-in-china/buy-or-try-subscriptions.md) | [Cancel your subscription](../subscriptions-and-billing/cancel-your-subscription.md) | [Call support](../contact-support-for-business-products.md)
 
 ::: moniker-end
 
 ## Why isn't the Switch plans button available for my subscription?
-<a name="BKMK_WizardUnavailable"> </a>
 
 ### You can't switch subscriptions now because you have more users than licenses.
 
@@ -81,19 +79,19 @@ For example, in the following picture, the Skype for Business service has an inc
   
 ::: moniker range="o365-worldwide"
 
-To see if there are provisioning or service health issues, in the Office 365 admin center, go to the [Service health](https://go.microsoft.com/fwlink/p/?linkid=842900) page, or choose **Health** \> **Service health**.
+To see if there are provisioning or service health issues, in the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842900" target="_blank">Service health</a> page, or choose **Health** \> **Service health**.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-To see if there are provisioning or service health issues, in the Office 365 admin center, go to the [Service health](https://go.microsoft.com/fwlink/p/?linkid=848042) page, or choose **Health** \> **Service health**.
+To see if there are provisioning or service health issues, in the Office 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848042" target="_blank">Service health</a> page, or choose **Health** \> **Service health**.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-To see if there are provisioning or service health issues, in the Office 365 admin center, go to the [Service health](https://go.microsoft.com/fwlink/p/?linkid=850629) page, or choose **Health** \> **Service health**.
+To see if there are provisioning or service health issues, in the Office 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850629" target="_blank">Service health</a> page, or choose **Health** \> **Service health**.
 
 ::: moniker-end
 
@@ -112,7 +110,6 @@ You can [switch plans manually](switch-plans-manually.md) or [call support](../c
 You can [switch plans manually](switch-plans-manually.md) or [call support](../contact-support-for-business-products.md).
   
 ## Additional reasons the Switch plans button is unavailable
-<a name="BKMK_Reasons"> </a>
 
 ### You have a prepaid plan
 
@@ -142,8 +139,5 @@ If your plan isn't eligible to switch plans automatically, you might be able to 
 > Manually switching from an Office 365 Small Business, Office 365 Small Business Premium, or Office 365 Midsize Business plan is not supported. 
   
 ## Call support to help you switch plans
-<a name="BKMK_CallSupport"> </a>
 
-![Phone](../media/88eae4a1-b8d9-4a12-bc4a-44af244f084b.png)[Call support](../contact-support-for-business-products.md)
-  
-
+![Phone](../media/88eae4a1-b8d9-4a12-bc4a-44af244f084b.png) [Call support](../contact-support-for-business-products.md)

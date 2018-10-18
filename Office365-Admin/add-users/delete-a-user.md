@@ -24,7 +24,7 @@ description: "Learn to delete a user account. Decide what to do with the user's 
 
 # Delete a user from your organization
 
- *Last updated: 24 July, 2018* 
+
   
 ||
 |:-----|
@@ -40,9 +40,9 @@ Before you begin, think about what you want to do with the user's email and OneD
   
 |||
 |:-----|:-----|
-|Product licenses  <br/> |You can remove the license from the user and remove it from your subscriptions to stop paying for that license. If you select this option, the license will be removed automatically from your subscriptions.  <br/> **You can't remove the license** if you bought it through a Partner or volume licensing. If you are paying for an annual plan or if you are in the middle of a billing cycle, you won't be able to remove the license from your subscription until your commitment is completed.  <br/> |
-|OneDrive content  <br/> |If the user saved their files to OneDrive, you can give another user access to these files.  <br/> You'll need to move the files you want to keep within the retention period that is set for OneDrive files. **By default, the retention period is 30 days.** If you don't move the files within the retention period after deleting the user, the OneDrive content will be permanently deleted. To increase the number of days that you retain OneDrive files for deleted accounts, see [Set the OneDrive retention for deleted users](https://support.office.com/article/fa1641ea-9f03-4f34-a826-dbd8697e76fe.aspx).  <br/> **Important!** If the deleted user used a personal computer to download files from SharePoint and OneDrive, there's no way for you to wipe those files they stored on their computer. They will continue to have access to any files that were synced from OneDrive.           |
-|Email  <br/> | Giving another user access to the deleted user's email will convert the deleted user's mailbox to a shared mailbox. The new mailbox owner can then access the mailbox and monitor for new email. You'll also have the following options:  <br/>  Change the display name - We recommend changing the display name so that it will be easy to identify the shared mailbox in the Active users list.  <br/>  Turn on automatic replies - We've already written a polite automatic reply for you. You can send a different automatic replies to people within your organization and people from outside your organization.  <br/>  Clean up aliases - Aliases are additional email addresses for users. Some organizations don't use them, so if you don't have any you don't need to do anything else here. If the user does have aliases, we recommend removing them so that you can re-use those email addresses. Otherwise, you can't re-use those email addresses until the retention period for email has passed. By default, the retention period is 30 days. To increase the number of days that you retain email data for deleted accounts, see [Configure Deleted Items retention and Recoverable Items quotas](https://docs.microsoft.com/en-us/exchange/recipients/user-mailboxes/deleted-item-retention-and-recoverable-items-quotas).  <br/> |
+|Product licenses  <br/> |You can remove the license from the user and remove it from your subscriptions to stop paying for that license. If you select this option, the license will be removed automatically from your subscriptions.  <br/><br/> **You can't remove the license** if you bought it through a Partner or volume licensing. If you are paying for an annual plan or if you are in the middle of a billing cycle, you won't be able to remove the license from your subscription until your commitment is completed.  <br/> |
+|OneDrive content  <br/> |If the user saved their files to OneDrive, you can give another user access to these files.  <br/><br/> You'll need to move the files you want to keep within the retention period that is set for OneDrive files. **By default, the retention period is 30 days.** If you don't move the files within the retention period after deleting the user, the OneDrive content will be permanently deleted. To increase the number of days that you retain OneDrive files for deleted accounts, see [Set the OneDrive retention for deleted users](https://support.office.com/article/fa1641ea-9f03-4f34-a826-dbd8697e76fe.aspx).  <br/><br/> **Important!** If the deleted user used a personal computer to download files from SharePoint and OneDrive, there's no way for you to wipe those files they stored on their computer. They will continue to have access to any files that were synced from OneDrive.           |
+|Email  <br/> | Giving another user access to the deleted user's email will convert the deleted user's mailbox to a shared mailbox. The new mailbox owner can then access the mailbox and monitor for new email. You'll also have the following options:  <br/>  <br/>Change the display name - We recommend changing the display name so that it will be easy to identify the shared mailbox in the Active users list.  <br/>  Turn on automatic replies - We've already written a polite automatic reply for you. You can send a different automatic replies to people within your organization and people from outside your organization.  <br/> <br/> Clean up aliases - Aliases are additional email addresses for users. Some organizations don't use them, so if you don't have any you don't need to do anything else here. If the user does have aliases, we recommend removing them so that you can re-use those email addresses. Otherwise, you can't re-use those email addresses until the retention period for email has passed. By default, the retention period is 30 days. To increase the number of days that you retain email data for deleted accounts, see [Configure Deleted Items retention and Recoverable Items quotas](https://docs.microsoft.com/en-us/exchange/recipients/user-mailboxes/deleted-item-retention-and-recoverable-items-quotas).  <br/> |
 |Active Directory  <br/> |If your business uses **Active Directory** that is synchronizing with Azure AD, you need to delete the user account from Active Directory. You can't do it through Office 365. For instructions, see [Delete a User Account](https://go.microsoft.com/fwlink/?linkid=841808).  <br/> |
    
 ### Get started
@@ -56,7 +56,7 @@ Since the guided experience walks through the delete user process, here are the 
 3. Select the user you want to deleted, and in the flyout panel, select **Delete user**.
     
 ## User management admin: Delete one or more users from Office 365
-<a name="bkmk_useradmin"> </a>
+
 
  **IMPORTANT**: Don't delete a user's account if you've [converted it to a shared mailbox](../email/create-a-shared-mailbox.md) or if you've set up email forwarding on the account. Those functions need the account there. If you've converted it to a shared mailbox, you can [Stop paying for the license](delete-a-user.md#bkmk_stop) from it so you aren't paying for it. If you set up email forwarding, you cannot remove the license. Doing so will stop the email forwarding and inactivate the mailbox. 
   
@@ -92,7 +92,7 @@ Since the guided experience walks through the delete user process, here are the 
      Although you deleted the user's account, **you're still paying for the license**. See the next procedure to stop paying for the license.   Or, you can assign the license to another user. It won't be assigned to someone automatically.
     
 ### Stop paying for the license
-<a name="bkmk_stop"> </a>
+
 
 If you are a User management admin, reducing the number of licenses is a separate step that can only be performed by the global admin or billing admin: 
   
@@ -105,12 +105,12 @@ If you are a User management admin, reducing the number of licenses is a separat
     Later when you go through the steps to add another person to your business, you'll be prompted to buy a license at the same time, with just one click!
     
 ## Delete many users at the same time
-<a name="bkmk_useradmin"> </a>
+
 
 See the [Remove-MsolUser](https://go.microsoft.com/fwlink/?linkid=842230) PowerShell cmdlet. 
   
 ## What you need to know about deleting users
-<a name="bkmk_useradmin"> </a>
+
 
 - Only people who have [Office 365 global admin](about-admin-roles.md) or User management permissions for the business or school can delete user accounts. 
     
@@ -123,7 +123,7 @@ See the [Remove-MsolUser](https://go.microsoft.com/fwlink/?linkid=842230) PowerS
 - If you have an Enterprise subscription, like Office 365 Enterprise E3, you can preserve the mailbox data of a deleted Office 365 user account by turn it into an *inactive mailbox*. To learn more, see [Manage inactive mailboxes in Exchange Online](https://go.microsoft.com/fwlink/p/?linkid=848214).
     
 ## Fix issues with deleting a user
-<a name="bkmk_useradmin"> </a>
+
 
 Here are the most common issues people encounter:
   
@@ -138,7 +138,7 @@ Here are the most common issues people encounter:
 |**Do you want to delete Office 365 from your computer? Go to [Cancel your subscription](../subscriptions-and-billing/cancel-your-subscription.md).**|
    
 ## Related articles
-<a name="bkmk_useradmin"> </a>
+
 
 [Restore a user](restore-user.md)
   
