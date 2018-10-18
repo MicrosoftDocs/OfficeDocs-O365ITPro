@@ -102,7 +102,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |@  <br/> |1 Hour  <br/> |MX  <br/> |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> The **0** is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-    ![TransIP-BP-Configure-2-1](../media/22cf7c7c-c966-4129-b9e2-1ccd0d25728f.png)
+![TransIP-BP-Configure-2-1](../media/22cf7c7c-c966-4129-b9e2-1ccd0d25728f.png)
   
 4. Choose **Save**.
     
@@ -136,7 +136,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |1 Hour  <br/> |CNAME  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
 |enterpriseenrollment  <br/> |1 Hour  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-    ![TransIP-BP-Configure-3-1](../media/4862ce52-ece9-4033-81f5-a9d7d5eb4720.png)
+![TransIP-BP-Configure-3-1](../media/4862ce52-ece9-4033-81f5-a9d7d5eb4720.png)
   
 4. Choose **Save**.
     
@@ -160,7 +160,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |@  <br/> |1 Hour  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![TransIP-BP-Configure-4-1](../media/e4f9c374-dabf-43a6-acd5-2a085d11385c.png)
+![TransIP-BP-Configure-4-1](../media/e4f9c374-dabf-43a6-acd5-2a085d11385c.png)
   
 4. Choose **Save**.
     
@@ -182,7 +182,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip._tls|1 Hour|SRV|100 1 443 sipdir.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
 |_sipfederationtls._tcp|1 Hour|SRV|100 1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![TransIP-BP-Configure-5-1](../media/5a748443-05d3-43bd-acca-7364cfba232a.png)
+![TransIP-BP-Configure-5-1](../media/5a748443-05d3-43bd-acca-7364cfba232a.png)
   
 4. Choose **Save**.
     

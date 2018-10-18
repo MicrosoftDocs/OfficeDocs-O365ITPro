@@ -71,7 +71,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|
 |TXT  <br/> |(Leave this field blank.)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![DomainMonster-BP-Verify-1-1](../media/32e7e4ef-f51b-44ed-b5ad-a1508a95e82b.png)
+   ![DomainMonster-BP-Verify-1-1](../media/32e7e4ef-f51b-44ed-b5ad-a1508a95e82b.png)
   
 5. Choose **Add record**.
     
@@ -123,7 +123,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |MX  <br/> |(Leave this field blank.)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |1  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-    ![DomainMonster-BP-Configure-2-1](../media/68edbd1b-9818-4886-893f-f784b4e29ef8.png)
+   ![DomainMonster-BP-Configure-2-1](../media/68edbd1b-9818-4886-893f-f784b4e29ef8.png)
   
 5. Choose **Add Record**.
     
@@ -167,7 +167,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> |
 |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> |
    
-    ![DomainMonster-BP-Configure-3-1](../media/bc8668f5-c29a-4486-91fa-abefed7a0181.png)
+   ![DomainMonster-BP-Configure-3-1](../media/bc8668f5-c29a-4486-91fa-abefed7a0181.png)
   
 5. Choose **Add Record**.
     
@@ -203,7 +203,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |TXT  <br/> |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![DomainMonster-BP-Configure-4-1](../media/d14fa725-e501-436f-8dfb-376e91de3490.png)
+   ![DomainMonster-BP-Configure-4-1](../media/d14fa725-e501-436f-8dfb-376e91de3490.png)
   
 5. Choose **Add Record**.
     
@@ -238,7 +238,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |SRV  <br/> |_sip._tls  <br/> |sipdir.online.lync.com  <br/> |100  <br/> |1  <br/> |443  <br/> |
 |SRV  <br/> |_sipfederationtls._tcp  <br/> |sipfed.online.lync.com  <br/> |100  <br/> |1  <br/> |5061  <br/> |
    
-    ![DomainMonster-BP-Configure-5-1](../media/f32f07ec-d741-4cfe-a73d-ea77e0eced90.png)
+   ![DomainMonster-BP-Configure-5-1](../media/f32f07ec-d741-4cfe-a73d-ea77e0eced90.png)
   
 5. Choose **Add Record**.
     

@@ -137,7 +137,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |MX  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |1  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-    ![Enter the DNS values](../media/445bbaaa-200d-42af-9efe-1d50a12f1cb5.png)
+ ![Enter the DNS values](../media/445bbaaa-200d-42af-9efe-1d50a12f1cb5.png)
   
 6. Choose **Create**.
     
@@ -185,7 +185,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
 |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-    ![Create the CNAME records](../media/488400a4-2057-4f99-af18-e28687c2547c.png)
+ ![Create the CNAME records](../media/488400a4-2057-4f99-af18-e28687c2547c.png)
   
 6. Choose **Create**.
     
@@ -223,7 +223,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |TXT  <br/> |(This value is supplied automatically by the server.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Enter the DNS values](../media/e3f2a35e-de0a-4720-936e-ccdf060be8e6.png)
+  ![Enter the DNS values](../media/e3f2a35e-de0a-4720-936e-ccdf060be8e6.png)
   
 6. Choose **Create**.
     
@@ -259,7 +259,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |3600(Once this value is set, it is automatically applied to all of the DNS records in the domain.)|SRV|sip._tls. **This value MUST end with a period (.)**(Add this value before the  *domain_name*  shown in the **Host** field. For example, _sip._tls.contoso.com.) |100 443 sipdir.online.lync.com 1> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
 |3600(Once this value is set, it is automatically applied to all of the DNS records in the domain.)|SRV|_sipfederationtls._tcp. **This value MUST end with a period (.)**(Add this value before the  *domain_name*  shown in the **Host** field. For example, _sipfederationtls._tcp.contoso.com.) |100 5061 sipfed.online.lync.com 1> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Create SRV records](../media/c29cd6f1-e765-41eb-b3b0-b5969aeb5f63.png)
+ ![Create SRV records](../media/c29cd6f1-e765-41eb-b3b0-b5969aeb5f63.png)
   
 6. Choose **Create**.
     

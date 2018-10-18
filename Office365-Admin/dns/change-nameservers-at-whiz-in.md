@@ -75,9 +75,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 |**Host Name**|**Value**|**TTL**|
 |:-----|:-----|:-----|
-|@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |7200  <br/> |
+|@  <br/> |MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |7200  <br/> |
    
-    ![WhizIn-BP-Verify-1-2](../media/8310a995-a796-4ee4-bbe0-1cee5571ff6d.png)
+   ![WhizIn-BP-Verify-1-2](../media/8310a995-a796-4ee4-bbe0-1cee5571ff6d.png)
+    
   
 8. Choose **Add Record**.
     
@@ -112,10 +113,10 @@ When Office 365 finds the correct TXT record, your domain is verified.
 To complete setting up your domain with Office 365, you change your domain's NS records at your domain registrar to point to the Office 365 primary and secondary name servers. This sets up Office 365 to update the domain's DNS records for you. We'll add all records so that email, Skype for Business Online, and your public website work with your domain, and you'll be all set.
   
 > [!CAUTION]
-> When you change your domain's NS records to point to the Office 365 name servers, all the services that are currently associated with your domain are affected. For example, all email sent to your domain (like rob@ *your_domain*  .com) will start coming to Office 365 after you make this change. 
-  
+> When you change your domain's NS records to point to the Office 365 name servers, all the services that are currently associated with your domain are affected. For example, all email sent to your domain (like rob@ *your_domain*  .com) will start coming to Office 365 after you make this change.
+
 > [!IMPORTANT]
->  When you have completed the steps in this section, the  *only*  nameservers that should be listed are these four: >  ns1.bdm.microsoftonline.com >  ns2.bdm.microsoftonline.com >  ns3.bdm.microsoftonline.com >  ns4.bdm.microsoftonline.com >  The following procedure will show you how to delete any other, unwanted nameservers from the list, and also how to add the  *correct*  nameservers if they are not already in the list. 
+>  When you have completed the steps in this section, the  *only*  nameservers that should be listed are these four: **ns1.bdm.microsoftonline.com**, **ns2.bdm.microsoftonline.com**, **ns3.bdm.microsoftonline.com**, and **ns4.bdm.microsoftonline.com**. The following procedure will show you how to delete any other, unwanted nameservers from the list, and also how to add the  *correct*  nameservers if they are not already in the list. 
   
 1. To get started, go to your domains page at Whiz.in by using [this link](http://domain.whiz.in/). You'll be prompted to login first.
     
@@ -136,7 +137,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
     
     ![WhizIn-BP-Redelegate-1-3](../media/f447dfa7-e765-4cea-a66c-8042980f15ab.png)
   
-5.     > [!CAUTION]
+5.    > [!CAUTION]
     > Follow these steps  *only*  if you have existing nameservers other than the four  *correct*  nameservers. (That is, delete  *only*  any current nameservers that are  *not*  named **ns1.bdm.microsoftonline.com**, **ns2.bdm.microsoftonline.com**, **ns3.bdm.microsoftonline.com**, or **ns4.bdm.microsoftonline.com**.) 
   
     In the **Manage Name Servers** section, delete each nameserver in the list by selecting that nameserver and then pressing the **Delete** key on your keyboard. 
@@ -152,12 +153,13 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**Name Server 3** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Name Server 4** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![WhizIn-BP-Redelegate-1-5](../media/96c2d2d4-c254-416e-b41c-06dbabafe56f.png)
+    
+![WhizIn-BP-Redelegate-1-5](../media/96c2d2d4-c254-416e-b41c-06dbabafe56f.png)!
   
 7. Choose **Update Name Servers**.
     
-    ![WhizIn-BP-Redelegate-1-6](../media/a059851e-6783-4a15-9c38-83c28975c24f.png)
+   ![WhizIn-BP-Redelegate-1-6](../media/a059851e-6783-4a15-9c38-83c28975c24f.png)
   
 > [!NOTE]
-> Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain. 
+> Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain.
   

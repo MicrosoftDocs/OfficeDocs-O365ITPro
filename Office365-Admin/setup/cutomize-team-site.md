@@ -3,7 +3,6 @@ title: "Customize your team site for file storage and sharing"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -59,7 +58,6 @@ If you're storing a lot of data, see how to manage limits with [Manage large lis
 View a video on adding calendars to your site, see [Create a shared calendar in Office 365](https://support.office.com/article/61B96006-70E2-4535-A34F-EE4FC772F798.aspx).
   
 ## Customize the home page on your team site
-<a name="BKMK_Home"> </a>
 
 To give more visibility to data on a team site, you can customize the Home page to help you and your employees get to the information you need quickly. For example, you might have a links to employee OneDrive for Business folders, and links to Documents, Contacts, Tasks, Calendars, and a OneNote notebook where you store meeting agendas and notes.
   
@@ -76,7 +74,6 @@ You can see how to add pages to your site with [Add a page to a site](https://su
 To learn about team site settings, see [Manage your SharePoint team site settings](https://support.office.com/article/8376034D-D0C7-446E-9178-6AB51C58DF42.aspx).
   
 ## Create additional sites to organize and manage different clients
-<a name="BKMK_Home"> </a>
 
 Your team site shares almost everything with all members of the group associated with the site. If you want to have a separate site for specific customers, you can create additional team sites, and manage them using SharePoint hub sites. Here's more information. 
   
@@ -91,7 +88,6 @@ Ready to build a hub site, see [Create a hub site in SharePoint Online](https://
 To learn how to add sites to a hub site, see [Associate a SharePoint site with a hub site](https://support.office.com/article/ae0009fd-af04-4d3d-917d-88edb43efc05.aspx).
   
 ## Sharing files with the team
-<a name="BKMK_Home"> </a>
 
 While storage and organizing is a start, sharing with your team and external clients is also important. Here are some links to topics that will help you manage users and share your data. 
   
@@ -104,7 +100,6 @@ For best practices and tips with external users, see [Manage sharing with extern
 Learn about assigning permissions for sites, lists, libraries, and items in [Understanding permission levels in SharePoint](https://support.office.com/article/87ecbb0e-6550-491a-8826-c075e4859848.aspx).
   
 ## Managing users and groups
-<a name="BKMK_Home"> </a>
 
 As you manage your team site, you may have to add or remove users. Here's information to help you understand, add, and manage users on your team site. 
   
@@ -117,7 +112,6 @@ Learn how to handle access requests with [Set up and manage access requests ](ht
 To change and assign user permissions, see [Customize SharePoint site permissions](https://support.office.com/article/b1e3cd23-1a78-4264-9284-87fed7282048.aspx).
   
 ## Here are more topics you might be interested in
-<a name="BKMK_Home"> </a>
 
 - **Set up Office apps on your tablets and phones**. You need to do this so you can edit files that are stored on your team site from your tablet or phone. If you don't install the Office apps for your tablet or phone, you'll be able to view the files on your team site, but not edit them. 
     
@@ -129,9 +123,5 @@ To change and assign user permissions, see [Customize SharePoint site permission
     
 - [Learn more about using OneDrive](https://go.microsoft.com/fwlink/?LinkID=511458).
     
-## Related Topics
-<a name="BKMK_Home"> </a>
 
-[Set up Office 365 file storage and sharing](cutomize-team-site.md)
-  
 

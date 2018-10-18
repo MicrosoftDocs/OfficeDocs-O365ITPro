@@ -108,7 +108,6 @@ You'll need to add all of the following DNS records at your registrar's website 
   
 4. Enter the following records in the text fields:
     
-1. 
 
 |**HOST**|**Address (Must end with a ".")**|
 |:-----|:-----|

@@ -20,8 +20,6 @@ description: "Learn to fix issues relating to outlook, mobile devices, office se
 ---
 
 # Fix Outlook and Office 365 issues with Support and Recovery Assistant for Office 365
-
- *Last updated 1 August, 2017* 
   
 The Support and Recovery Assistant app can help you identify and fix several issues for the following apps and services.
   
@@ -42,12 +40,12 @@ The Support and Recovery Assistant app can help you identify and fix several iss
 - OneDrive for Business
     
 The following video shows how to use Support and Recovery Assistant to run diagnostic tests.
-  
+<br><br>  
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/81b008c5-ab43-4fab-abea-34d6bc7beb77?autoplay=false]
   
 ## Create an Outlook Profile
 
-To create or re-create your Outlook profile, install and run the **[Office 365 Support and Recovery Assistant](https://support.office.com/article/https://diagnostics.office.com/.aspx#/).**
+To create or re-create your Outlook profile, install and run the **[Office 365 Support and Recovery Assistant](https://diagnostics.outlook.com).**
   
 1. Log in with your Office 365 credentials.
     
@@ -75,7 +73,7 @@ The Support and Recovery Assistant will run some checks, and when you're ready w
     
 3. Select the support topic that best describes your issue, and then choose **Next**.
     
-4. Sign in with your Office 365 work or school account.
+4. Sign in with your work or school account.
     
 5. Wait for the series of tests to finish.
     
@@ -89,7 +87,7 @@ The Support and Recovery Assistant will run some checks, and when you're ready w
     
 ## What if I'm still having problems?
 
-If Support and Recovery Assistant for Office 365 can't fix your problem for you, we'll provide suggestions for next steps and help you get in touch with Office 365 support.
+If Support and Recovery Assistant for Office 365 can't fix your problem for you, we'll provide suggestions for next steps and help you get in touch with support.
   
 ## How do I use Support and Recovery Assistant with my mobile device, Outlook for Mac 2016, or Outlook for Mac 2011?
 

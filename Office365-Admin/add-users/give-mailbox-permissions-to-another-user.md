@@ -3,7 +3,6 @@ title: "Give mailbox permissions to another user in Office 365 - Admin Help"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -23,13 +22,7 @@ As the Office 365 admin, you may have company requirements to allow some users a
   
 If you're looking for information about creating and managing shared mailboxes, check out [Create a shared mailbox](../email/create-a-shared-mailbox.md).
   
-- [Send email from another user's mailbox](give-mailbox-permissions-to-another-user.md#BKMK_SendEmailAnotherUser)
-    
-- [Read email in another user's mailbox](give-mailbox-permissions-to-another-user.md#BKMK_ReadEmailAnotherUser)
-    
-- [Send email on behalf of another user](give-mailbox-permissions-to-another-user.md#BKMK_SendBehalflAnotherUser)
-    
-- [Send and read from Outlook and Outlook on the web for business](give-mailbox-permissions-to-another-user.md#BKMK_OutlookOWA)
+
     
 ## Looking to set up mailbox permissions?
 
@@ -39,11 +32,11 @@ Mailbox permissions allow you to give read/write access to a mailbox to another 
   
 The first step to setting up permissions is deciding which actions you want to allow the other user to take in the given mailbox. You can allow a user to read emails from the mailbox, send emails on behalf of another user, and send emails as if they were sent from that mailbox. Refer to the following articles on how to set up each type of permissions:
   
-- [Read email from another user's mailbox in Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Read-email-from-another-user-s-mailbox-in-Office-365-cb3b6a8a-c6e8-4342-803c-3e54b6428cc2?ui=en-US&amp;rs=en-US&amp;ad=US.aspx#bkmk_reademailanotheruser)
+- [Read email from another user's mailbox in Office 365](https://support.office.com/article/Read-email-from-another-user-s-mailbox-in-Office-365-cb3b6a8a-c6e8-4342-803c-3e54b6428cc2?#bkmk_reademailanotheruser)
     
-- [Send email from another user's mailbox in Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Send-email-from-another-user-s-mailbox-in-Office-365-2B828C5F-41AB-4904-97B9-3B63D8129C4E?ui=en-US&amp;rs=en-US&amp;ad=US.aspx#bkmk_sendemailanotheruser)
+- [Send email from another user's mailbox in Office 365](https://support.office.com/article/Send-email-from-another-user-s-mailbox-in-Office-365-2B828C5F-41AB-4904-97B9-3B63D8129C4E?#bkmk_sendemailanotheruser)
     
-- [Send email on behalf of a user in Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Send-email-on-behalf-of-another-user-in-Office-365-C5E7749D-244E-477F-998E-55D3876C22EC?ui=en-US&amp;rs=en-US&amp;ad=US.aspx#bkmk_sendbehalflanotheruser)
+- [Send email on behalf of a user in Office 365](https://support.office.com/article/Send-email-on-behalf-of-another-user-in-Office-365-C5E7749D-244E-477F-998E-55D3876C22EC?#bkmk_sendbehalflanotheruser)
     
  **Changing propagation:**
   
@@ -51,10 +44,10 @@ Once you've set up the permissions, it can take up to 60 minutes for the changes
   
  **How to use it once permissions are set up:**
   
-There are a few different ways you can access a mailbox once you've been given access. For help on this, refer to this article: [Access another person's mailbox](https://support.office.com/article/https://support.office.com/en-us/article/Access-another-person-s-mailbox-A909AD30-E413-40B5-A487-0EA70B763081.aspx)
+There are a few different ways you can access a mailbox once you've been given access. For help on this, refer to this article: [Access another person's mailbox](https://support.office.com/article/Access-another-person-s-mailbox-A909AD30-E413-40B5-A487-0EA70B763081.aspx)
   
 ## Send email from another user's mailbox
-<a name="BKMK_SendEmailAnotherUser"> </a>
+
 
 1. Go to Office 365 ** admin center ** \> **Users** \> **Active Users**.
     
@@ -67,7 +60,7 @@ There are a few different ways you can access a mailbox once you've been given a
 ![Allow another user to send email as this user](../media/b322f8ec-7b13-44aa-841f-3a6539136e26.png)
   
 ## Read email in another user's mailbox
-<a name="BKMK_ReadEmailAnotherUser"> </a>
+
 
 1. Go to Office 365 ** admin center ** \> **Users** \> **Active Users**.
     
@@ -80,7 +73,7 @@ There are a few different ways you can access a mailbox once you've been given a
 ![Add users to read and manage this user's mailbox](../media/e0316e42-f6aa-42fa-9a3e-31efadc5610a.png)
   
 ## Send email on behalf of another user
-<a name="BKMK_SendBehalflAnotherUser"> </a>
+
 
 1. Go to Office 365 ** admin center ** \> **Users** \> **Active Users**.
     
@@ -93,7 +86,7 @@ There are a few different ways you can access a mailbox once you've been given a
 ![Allow another user to send on behalf of this user](../media/92061d98-6376-476f-ac1b-d0d617141fc6.png)
   
 ## Send and read from Outlook and Outlook on the web for business
-<a name="BKMK_OutlookOWA"> </a>
+
 
 Want to know how to send email from another user's mailbox? Check out the following topics:
   

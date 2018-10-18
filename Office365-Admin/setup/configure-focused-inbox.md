@@ -3,7 +3,6 @@ title: "Configure Focused Inbox for everyone in your organization"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -20,11 +19,7 @@ description: "Learn to configure Focused Inbox for all or specific users of your
 
 # Configure Focused Inbox for everyone in your organization
 
- *Last updated: 27 February, 2017* 
-  
-|||
-|:-----|:-----|
-|![I forgot the username or password for the account I use with Office.](../media/d0ee024e-999d-438b-b72d-2e1779cf7f83.png)           <br/> |If you're responsible for configuring how email works for EVERYONE in a business this article is for you! It explains how to customize it or turn it off for your business, and answers questions about [FAQ for Focused Inbox](configure-focused-inbox.md#bkmk_faq).  <br/> If you would like to turn off Focused Inbox for just yourself, please see [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).  <br/> |
+  If you're responsible for configuring how email works for EVERYONE in a business this article is for you! It explains how to customize it or turn it off for your business, and answers questions about [FAQ for Focused Inbox](configure-focused-inbox.md#bkmk_faq).  <br/> If you would like to turn off Focused Inbox for just yourself, please see [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).  
    
 If you want to be sure that your users receive business-specific email messages, for example, from HR or payroll, you can configure Focused Inbox so these messages reach the Focused view. You can also control whether users in your organization see the Focused Inbox in their mailbox.
   
@@ -43,7 +38,7 @@ The following PowerShell example turns Focused Inbox **Off** in your organizatio
 3. Run the **Get-OrganizationConfig** cmdlet. 
     
   ```
-  Get-OrganizationConfig
+     Get-OrganizationConfig
   ```
 
 4. Look for **FocusedInboxOn** to view its current setting: 
@@ -53,7 +48,7 @@ The following PowerShell example turns Focused Inbox **Off** in your organizatio
 5. Run the following cmdlet to turn Focused Inbox off.
     
   ```
-  Set-OrganizationConfig -FocusedInboxOn $false
+     Set-OrganizationConfig -FocusedInboxOn $false
   ```
 
 6. Run the **Get-OrganizationConfig** cmdlet again and you'll see that FocusedInboxOn is set to $false, which means it's been turned off. 
@@ -63,7 +58,7 @@ The following PowerShell example turns Focused Inbox **Off** in your organizatio
 - In Step 5 above, run the following cmdlet to turn Focused Inbox on.
     
   ```
-  Set-OrganizationConfig -FocusedInboxOn $true
+    Set-OrganizationConfig -FocusedInboxOn $true
   ```
 
 ## What do users see after I turn on Focused Inbox?
@@ -89,7 +84,7 @@ This example turns Focused Inbox **Off** for Tim Matthews in the Contoso organiz
 3. Run the **Get-FocusedInbox** cmdlet. 
     
   ```
-  Get-FocusedInbox -Identity <tim@contoso.com>
+     Get-FocusedInbox -Identity <tim@contoso.com>
   ```
 
 4. Look for FocusedInboxOn to view its current setting:
@@ -99,18 +94,17 @@ This example turns Focused Inbox **Off** for Tim Matthews in the Contoso organiz
 5. Run the following cmdlet to turn Focused Inbox off.
     
   ```
-  Set-FocusedInbox -Identity <tim@contoso.com> -FocusedInboxOn $false
+     Set-FocusedInbox -Identity <tim@contoso.com> -FocusedInboxOn $false
   ```
 
 6. OR, run the following cmdlet to turn it on:
     
   ```
-  Set-FocusedInbox -Identity <tim@contoso.com> -FocusedInboxOn $true
+     Set-FocusedInbox -Identity <tim@contoso.com> -FocusedInboxOn $true
   ```
 
 ## Use the UI to create a transport rule to direct email messages to the Focused view for all your users
 
-1. 
 ::: moniker range="o365-worldwide"
 
 Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
@@ -129,15 +123,15 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
-2. Go to **Admin centers** \> **Exchange**. 
+1. Go to **Admin centers** \> **Exchange**. 
     
-3. In the Exchange admin center, navigate to **mail flow** \> **Rules**. Click ![EAC Add icon](../media/795e5bdd-48bb-433f-8e07-3c7a19f8eca2.gif) and then choose **Create a new rule...**. 
+1. In the Exchange admin center, navigate to **mail flow** \> **Rules**. Click ![EAC Add icon](../media/795e5bdd-48bb-433f-8e07-3c7a19f8eca2.gif) and then choose **Create a new rule...**. 
     
-4. After you're done creating the new rule, click **save** to start the rule. 
+1. After you're done creating the new rule, click **save** to start the rule. 
     
     The following image shows an example where all messages with the subject "Human Resources" are to be delivered to the Focused Inbox.
     
-![Create and save new Foucsed Inbox rule](../media/5de0d441-aade-41c8-aa19-3c14f945c1f6.png)
+    ![Create and save new Foucsed Inbox rule](../media/5de0d441-aade-41c8-aa19-3c14f945c1f6.png)
   
 ## Use PowerShell to create a transport rule to direct email messages to the Focused view for all your users
 
@@ -148,7 +142,7 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 3. Run the following command to allow all messages from "Human Resources," for example, to be delivered to the Focused Inbox.
     
   ```
-  New-TransportRule -Name <name_of_the_rule> -SubjectContainsWords "Human Resources" -SetHeaderName "X-MS-Exchange-Organization-BypassFocusedInbox" -SetHeaderValue "true"
+     New-TransportRule -Name <name_of_the_rule> -SubjectContainsWords "Human Resources" -SetHeaderName "X-MS-Exchange-Organization-BypassFocusedInbox" -SetHeaderValue "true"
   ```
 
     > [!IMPORTANT]
@@ -165,11 +159,9 @@ You can check email message headers to see if the email messages are landing in 
 We've received reports that Clutter suddenly stopped working for some users. If this happens, you can enable it again for specific users. See [Configure Clutter for your organization](../email/configure-clutter.md).
   
 ## FAQ for Focused Inbox
-<a name="bkmk_faq"> </a>
 
 Here are answers to Frequently Asked Questions about Focused Inbox. If you can't find an answer to your question, let us know by leaving a comment and we'll add it to the list.
   
- **Last Updated: 12 December, 2017**
   
 ### Can I control how I roll out Focused Inbox in my organization?
 

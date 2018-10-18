@@ -23,7 +23,7 @@ description: "Learn how to remove an email address from a shared mailbox in the 
 
 # Troubleshoot: Remove an alias from a shared mailbox
 
-Did you get this error when you were creating a new user? "This email address is already being used as an alias for the shared mailbox `<mailbox name>`." This article will show you how to remove the email address from the shared mailbox so you can re-use it. 
+Did you get this error when you were creating a new user? "This email address is already being used as an alias for the shared mailbox \<mailbox name>." This article will show you how to remove the email address from the shared mailbox so you can re-use it. 
   
 > [!TIP]
 > Email addresses are how the internet knows where to send your email and all email addresses must be unique - across the entire internet no two email addresses can be the same. 

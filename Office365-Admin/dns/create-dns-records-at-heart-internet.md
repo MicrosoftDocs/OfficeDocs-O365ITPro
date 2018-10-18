@@ -112,7 +112,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-    ![HeartInternet-BP-Configure-2-1](../media/05d1b532-3daa-43d9-be89-dcd15b9a38f5.png)
+   ![HeartInternet-BP-Configure-2-1](../media/05d1b532-3daa-43d9-be89-dcd15b9a38f5.png)
   
 6. Choose **Update DNS**.
     
@@ -154,7 +154,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
 |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-    ![HeartInternet-BP-Configure-3-1](../media/57714603-9278-4a55-904f-54b48d2ddec7.png)
+   ![HeartInternet-BP-Configure-3-1](../media/57714603-9278-4a55-904f-54b48d2ddec7.png)
   
 6. Choose **Update DNS**.
     
@@ -192,7 +192,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|
 |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![HeartInternet-BP-Configure-4-1](../media/2cec212d-db02-4d5b-bf78-7e4070748d6b.png)
+   ![HeartInternet-BP-Configure-4-1](../media/2cec212d-db02-4d5b-bf78-7e4070748d6b.png)
   
 6. Choose **Update DNS**.
     
@@ -222,7 +222,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |SIP  <br/> |TLS  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |443  <br/> |100  <br/> |1  <br/> |
 |_sipfederationtls  <br/> |TCP  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |5061  <br/> |100  <br/> |1  <br/> |
    
-    ![HeartInternet-BP-Configure-5-1](../media/71bbbf65-b7b5-4269-8e42-26bee16b9128.png)
+   ![HeartInternet-BP-Configure-5-1](../media/71bbbf65-b7b5-4269-8e42-26bee16b9128.png)
   
 6. Choose **Update DNS**.
     

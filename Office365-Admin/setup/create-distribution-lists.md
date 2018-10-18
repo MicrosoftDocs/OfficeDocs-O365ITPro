@@ -28,9 +28,7 @@ Distribution lists are sometimes called distribution groups.
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/e8747233-4f1c-4bf4-81cf-2a4ea9ccd80d?autoplay=false]
   
 ## Create a distribution list (group)
-<a name="CreateGroupClassic"> </a>
 
-1. 
 ::: moniker range="o365-worldwide"
 
 Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
@@ -49,25 +47,25 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
-2. Select the app launcher icon  and choose **Admin**.
+1. Select the app launcher icon  and choose **Admin**.
     
     Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
     
-3. Choose **Groups** in the left navigation pane. 
+2. Choose **Groups** in the left navigation pane. 
     
     ![See your new Office 365 groups in the admin center preview](../media/d434fa62-aff7-4d56-a0c2-2a49b95467a6.png)
   
-4. Under **Type** of group, select the dropdown and choose **Distribution list**.
+3. Under **Type** of group, select the dropdown and choose **Distribution list**.
     
     ![Add a group page - Choose the dropdown and choose distribution list](../media/fb663b0a-b6f2-4487-8bdd-0777ed50b735.png)
   
-5. Enter a name and add a description for your new distribution list.
+4. Enter a name and add a description for your new distribution list.
     
     You can choose whether you want people outside your organization to send email to the distribution list.
     
-6. When you're ready, click or tap **Add** to create the distribution list, and **Close** to view your distribution list. 
+5. When you're ready, click or tap **Add** to create the distribution list, and **Close** to view your distribution list. 
     
-7. To add users to your distribution list, see [Add a user or contact to an Office 365 distribution list](../email/add-user-or-contact-to-distribution-list.md).
+6. To add users to your distribution list, see [Add a user or contact to an Office 365 distribution list](../email/add-user-or-contact-to-distribution-list.md).
     
 Check out how to use distribution lists in Outlook 2016 and Outlook on the web in the [Use contact groups (formerly distribution lists) in Outlook](https://support.office.com/article/1c97fcb2-0ed4-41e6-b401-58f9d7d40e39.aspx) topic. 
   
