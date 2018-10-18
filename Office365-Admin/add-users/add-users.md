@@ -3,7 +3,6 @@ title: "Add users individually or in bulk to Office 365 - Admin Help"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -38,10 +37,8 @@ description: "Learn how to add users to Office 365, one at a time or multiple us
 
 The people on your team each need a user account before they can sign in and access [Office 365 for business](https://go.microsoft.com/fwlink/?LinkID=519395). The easiest way to add user accounts is to add them one at a time in the Office 365 admin center. After you do this step, your users will have Office 365 licenses, logon credentials, and Office 365 mailboxes.
   
-1. 
 ::: moniker range="o365-worldwide"
-
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1.  Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
@@ -93,21 +90,18 @@ Share the [Employee quick start guide](https://support.office.com/article/b97000
 
 [Contact Office 365 for business support](../contact-support-for-business-products.md) . 
   
-## Other tasks
-
-Get help with [my Office 365 account](https://support.office.com/article/af8c28fb-4774-4115-82eb-ab59b38e9674.aspx)
   
 ## Have hundreds or thousands of users to add?
-<a name="BK_Preview"> </a>
+
 
 To add multiple users at the same time, follow these steps:
   
-- **Use a spreadsheet to add people in bulk.** See [Add several users at the same time](https://docs.microsoft.com/en-us/office365/enterprise/add-several-users-at-the-same-time).
+- **Use a spreadsheet to add people in bulk.** See [Add several users at the same time](https://docs.microsoft.com/office365/enterprise/add-several-users-at-the-same-time).
     
-- **Automate adding accounts and assigning licenses.** See [Create user accounts with Office 365 PowerShell](https://docs.microsoft.com/en-us/office365/enterprise/powershell/create-user-accounts-with-office-365-powershell). Choose this method if you're already familiar with using Windows PowerShell cmdlets.
+- **Automate adding accounts and assigning licenses.** See [Create user accounts with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/create-user-accounts-with-office-365-powershell). Choose this method if you're already familiar with using Windows PowerShell cmdlets.
     
-- **Using ActiveDirectory?**[Set up directory synchronization for Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846). Use the Azure AD Connect tool to replicate Active Directory user accounts (and other Active Directory objects) in Office 365. The sync only adds the user accounts. You will need to assign licenses to the synced users before they can use email and other Office apps.
+- **Using ActiveDirectory?** [Set up directory synchronization for Office 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization). Use the Azure AD Connect tool to replicate Active Directory user accounts (and other Active Directory objects) in Office 365. The sync only adds the user accounts. You will need to assign licenses to the synced users before they can use email and other Office apps.
     
-- **Migrating from Exchange?**[Ways to migrate multiple email accounts to Office 365](https://support.office.com/article/0a4913fe-60fb-498f-9155-a86516418842). When you migrate multiple mailboxes to Office 365 by using either cutover, staged, or a hybrid Exchange method, you will add users automatically as part of the migration. The migration only adds the user accounts. You will need assign licenses to the users before they can use email and other Office apps.
+- **Migrating from Exchange?** [Ways to migrate multiple email accounts to Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/mailbox-migration). When you migrate multiple mailboxes to Office 365 by using either cutover, staged, or a hybrid Exchange method, you will add users automatically as part of the migration. The migration only adds the user accounts. You will need assign licenses to the users before they can use email and other Office apps.
     
 

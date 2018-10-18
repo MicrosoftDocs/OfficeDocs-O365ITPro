@@ -35,7 +35,6 @@ Here's what you need to do. (Need more help? [Still need help?](change-nameserve
 - [Change your domain's nameserver (NS) records](change-nameservers-at-united-domains.md#BKMK_nameservers)
     
 ## Add a TXT record for verification
-<a name="BKMK_verify"> </a>
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -44,7 +43,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 1. To get started, go to your domains page at United Domains by using [this link](https://www.uniteddomains.com/portfolio/index/domainlist/). You'll be prompted to log in.
     
-2. Under **My Domain List**, in the **Manage Settings** column, choose **DNS** for the domain that you want to edit. 
+2. Under **My Domain List**, in the **Manage Settings** column, choose **DNS** for the domain that you want to edit.
     
     ![UnitedDomains-BP-Configure-1-2](../media/4b888afd-1870-4f77-97b9-65d843f65442.png)
   
@@ -96,7 +95,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 > When you change your domain's NS records to point to the Office 365 name servers, all the services that are currently associated with your domain are affected. For example, all email sent to your domain (like rob@ *your_domain*  .com) will start coming to Office 365 after you make this change. 
   
 > [!IMPORTANT]
->  When you have completed the steps in this section, the  *only*  nameservers that should be listed are these four: >  ns1.bdm.microsoftonline.com >  ns2.bdm.microsoftonline.com >  ns3.bdm.microsoftonline.com >  ns4.bdm.microsoftonline.com >  The following procedure will show you how to delete any other, unwanted nameservers from the list, and also how to add the  *correct*  nameservers if they are not already in the list. 
+>  When you have completed the steps in this section, the  *only*  nameservers that should be listed are these four: **ns1.bdm.microsoftonline.com**, **ns2.bdm.microsoftonline.com**, **ns3.bdm.microsoftonline.com**, and **ns4.bdm.microsoftonline.com**. The following procedure will show you how to delete any other, unwanted nameservers from the list, and also how to add the  *correct*  nameservers if they are not already in the list.
   
 1. To get started, go to your domains page at United Domains by using [this link](https://www.uniteddomains.com/portfolio/index/domainlist/). You'll be prompted to log in.
     

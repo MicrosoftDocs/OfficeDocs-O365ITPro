@@ -46,7 +46,7 @@ Follow the steps below or [watch the video (start at 0:47)](https://support.offi
 1. To get started, go to your domains page at Network Solutions by using [this link](https://www.networksolutions.com/manage-it). You'll be prompted to log in.
     
     > [!IMPORTANT]
-    > Before you choose the **Login** button, first choose **Manage My Domain Names** in the **Log In to:** drop-down list. 
+    > Before you choose the **Login** button, first choose **Manage My Domain Names** in the **Log In to:** drop-down list.
   
     ![Choose Manage My Domain Names and log in to Network Solutions](../media/fda7d4a1-9445-4086-be9c-87c6983ef2aa.png)
   
@@ -118,7 +118,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 Ready to change your NS records so Office 365 can set up your domain? Follow the steps below or [watch the video (start at 2:23)](https://support.office.com/en-us/article/Video-Change-nameservers-to-set-up-Office-365-with-Network-Solutions-69b092e3-c026-4d19-a7d0-16cdb2d8b261?ui=en-US&amp;rs=en-US&amp;ad=US).
   
 > [!IMPORTANT]
->  When you have completed the steps in this section, the  *only*  nameservers that should be listed are these four: >  ns1.bdm.microsoftonline.com >  ns2.bdm.microsoftonline.com >  ns3.bdm.microsoftonline.com >  ns4.bdm.microsoftonline.com >  The following procedure will show you how to delete any other, unwanted nameservers from the list, and also how to add the  *correct*  nameservers if they are not already in the list. 
+>  When you have completed the steps in this section, the  *only*  nameservers that should be listed are these four: **ns1.bdm.microsoftonline.com**, **ns2.bdm.microsoftonline.com**, **ns3.bdm.microsoftonline.com**, and **ns4.bdm.microsoftonline.com**. The following procedure will show you how to delete any other, unwanted nameservers from the list, and also how to add the  *correct*  nameservers if they are not already in the list. 
   
 1. To get started, go to your domains page at Network Solutions by using [this link](https://www.networksolutions.com/manage-it). You'll be prompted to log in.
     
