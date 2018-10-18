@@ -3,7 +3,6 @@ title: "Password policy recommendations for Office 365"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: reference
 f1_keywords:
@@ -23,8 +22,6 @@ description: "Learn how to make your organization more secure against password a
 # Password policy recommendations for Office 365
 
 Contributors: [![Kweku Ako Adjei](../media/7e9246c9-ba6a-42a0-97fc-b13eb4e10583.png)](https://go.microsoft.com/fwlink/?linkid=857182)
-  
- *Last updated 1 December, 2017* 
   
 As the admin of an Office 365 organization, you're responsible for setting password policy for users in your organization. Setting password policy can be complicated and confusing, and this article provides recommendations to make your organization more secure against password attacks.
   
