@@ -61,7 +61,8 @@ A wizard guides you through the process, but here's a summary of each step.
 |![Number three in a pink circle.](../media/60fa378c-6ac1-4cbd-a782-2fa7ca619dc6.png)|**Verify domain ownership** Next, you'll verify to Office 365 that you own or manage the domain name (like contoso.com) that's associated with your organization's email addresses. Only the owner of the domain name has the authority to do this.  <br/> |
 |![Number 4 in a pink circle.](../media/1a0ff2ce-0942-405a-94e3-9bfeb1e5059e.png)|**Buy licenses** In the last step in the wizard, you'll buy Office 365 licenses for each person within your organization who's signed up for Skype Meetings with their work email.  <br/> For example, if two users have signed up for Skype Meetings with their work email, you'll need to buy two licenses—one for each of them.  <br/>
 
-  **Note** You can't manage Office 365 until after you've bought the licenses.           |
+  > [!NOTE]
+  > You can't manage Office 365 until after you've bought the licenses.           |
    
 ## Your Office 365 subscription 
 <a name="BKMK_BecomeAdmin"> </a>
