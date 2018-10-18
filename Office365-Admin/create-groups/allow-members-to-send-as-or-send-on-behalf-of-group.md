@@ -3,7 +3,6 @@ title: "Allow members to send as or send on behalf of a Group"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -32,7 +31,6 @@ The **Send on Behalf** permission lets a user send email on behalf of an Office 
 - [Allow members to send email on behalf of an Office 365 Group](allow-members-to-send-as-or-send-on-behalf-of-group.md#BKMK_SendonBehalfofGroup)
     
 ## Allow members to send email as an Office 365 Group
-<a name="BKMK_SendASGroup"> </a>
 
 This section explains how to allow users to send email as an Office 365 Group in the [Exchange admin center (EAC) in Exchange Online](http://go.microsoft.com/fwlink/?LinkID=837684).
   
@@ -63,7 +61,6 @@ Add-RecipientPermission traininggroup@contoso.com -AccessRights SendAs -Trustee 
 Check out [Using PowerShell with Exchange Online](https://go.microsoft.com/fwlink/?LinkID=402831) and [Connect to Exchange Online PowerShell](https://go.microsoft.com/fwlink/?LinkID=722415) for more details on using Exchange Online PowerShell. 
   
 ## Allow members to send email on behalf of an Office 365 Group
-<a name="BKMK_SendonBehalfofGroup"> </a>
 
 This section explains how to allow users to send email on behalf of an Office 365 Group in the Exchange admin center (EAC) in Exchange Online.
   
