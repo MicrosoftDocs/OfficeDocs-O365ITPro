@@ -62,7 +62,7 @@ A wizard guides you through the process, but here's a summary of each step.
 |![Number 4 in a pink circle.](../media/1a0ff2ce-0942-405a-94e3-9bfeb1e5059e.png)|**Buy licenses** In the last step in the wizard, you'll buy Office 365 licenses for each person within your organization who's signed up for Skype Meetings with their work email.  <br/> For example, if two users have signed up for Skype Meetings with their work email, you'll need to buy two licenses—one for each of them.  <br/>
 
   > [!NOTE]
-  > You can't manage Office 365 until after you've bought the licenses.           |
+  > You can't manage Office 365 until after you've bought the licenses.           
    
 ## Your Office 365 subscription 
 <a name="BKMK_BecomeAdmin"> </a>
