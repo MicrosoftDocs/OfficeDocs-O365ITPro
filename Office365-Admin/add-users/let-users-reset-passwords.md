@@ -3,7 +3,6 @@ title: "Let users reset their own passwords in Office 365"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -25,7 +24,7 @@ description: "Learn how you can reset your passwords using the self-service pass
 
 # Let users reset their own passwords in Office 365
 
- *Last updated 2 April, 2018* 
+ 
   
 |||
 |:-----|:-----|
@@ -45,10 +44,8 @@ Here are a few things you need to know:
 
 These steps turn on self-service password reset for everyone in your business.
   
-1. 
 ::: moniker range="o365-worldwide"
-
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1.  Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 

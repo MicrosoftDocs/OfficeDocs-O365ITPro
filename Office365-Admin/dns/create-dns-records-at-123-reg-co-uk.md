@@ -110,7 +110,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |@  <br/> |MX  <br/> |1  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your \<domain-key\> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![Copy and paste values from the table](../media/65366165-85a6-4a39-b9a7-6c5f47fbe790.png)
+   ![Copy and paste values from the table](../media/65366165-85a6-4a39-b9a7-6c5f47fbe790.png)
   
 6. Choose **Add**.
     
@@ -146,7 +146,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
 |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-    ![Copy and paste the values from the table](../media/24bf388c-5f7f-4fc0-b4ec-4b17226b6246.png)
+   ![Copy and paste the values from the table](../media/24bf388c-5f7f-4fc0-b4ec-4b17226b6246.png)
   
 6. Choose **Add**.
     
@@ -180,7 +180,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|
 |@  <br/> |TXT/SPF  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![123Reg-BP-Configure-4-1](../media/4697701c-eba0-4b03-8d75-4f7fc3bef94a.png)
+   ![123Reg-BP-Configure-4-1](../media/4697701c-eba0-4b03-8d75-4f7fc3bef94a.png)
   
 6. Choose **Add**.
     
@@ -209,7 +209,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip._tls|SRV|100|3600|1 443 sipdir.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
 |_sipfederationtls._tcp|SRV|100|3600|1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Copy and paste the values from the table](../media/c1786b86-52ef-4dca-8b99-b479554fa531.png)
+   ![Copy and paste the values from the table](../media/c1786b86-52ef-4dca-8b99-b479554fa531.png)
   
 6. Choose **Add**.
     

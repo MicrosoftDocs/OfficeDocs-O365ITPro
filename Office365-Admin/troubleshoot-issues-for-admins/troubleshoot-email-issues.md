@@ -13,16 +13,16 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 27deff23-8ab0-42e6-b827-5b9ce38f03f8
-description: "Get help for solving email connection and delivery problems in Office 365. "
+description: "Get help for solving email connection and delivery problems. "
 ---
 
 # Troubleshoot email issues
 
-When you run into problems with email, these resources can help you solve email connection and delivery problems in Office 365 .
+When you run into problems with email, these resources can help you solve email connection and delivery problems.
   
-First, check out **[Fix Outlook account problems in Office 365](https://go.microsoft.com/fwlink/?LinkId=724310)**. 
+First, check out **[these Outlook troubleshooters](https://go.microsoft.com/fwlink/?LinkId=724310)**. 
   
-There you'll find top solutions to Office 365 email issues, frequently asked questions answered by the Office team, the US support number, and a section where you can email us about your specific problem.
+There you'll find top solutions to email issues, frequently asked questions answered by the Office team, the US support number, and a section where you can email us about your specific problem.
   
 ## Look up help by error code
 
@@ -49,8 +49,11 @@ When Office 365 can't deliver email you sent, you'll receive an email notificati
 - [Email in Office 365 for business - Admin Help](https://support.office.com/article/5ff63bc1-308b-46de-a39b-cdc43ac117de.aspx)
     
 - [Recover deleted items in a user mailbox - Admin Help](https://support.office.com/article/eb15194b-63ec-41b0-8d90-1823d3f558e4)
-  
+
+
+::: moniker range="o365-21vianet"  
+
 > [!NOTE]
 > If you're using Office 365 operated by 21Vianet in China, please [contact the 21Vianet support team](https://go.microsoft.com/fwlink/p/?linkid=847978). 
   
-
+::: moniker-end
