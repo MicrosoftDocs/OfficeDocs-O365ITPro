@@ -35,7 +35,8 @@ As the person who purchased your Office 365 business subscription, you are the g
   
 ## Assign admin roles to a user in your business
 
-1. ::: moniker range="o365-worldwide" Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+::: moniker range="o365-worldwide"
+1.  Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
