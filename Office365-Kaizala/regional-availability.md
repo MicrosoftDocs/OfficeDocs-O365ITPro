@@ -21,62 +21,62 @@ description: Learn which regional areas Kaizala is now available.
 # Kaizala regional availability
 
 Kaizala is currently available in the following countries:
-  
-1. India
- 
-2. Brazil
 
-3. Kenya
+1. Argentina 
 
-4. Philippines
+2. Bangladesh
 
-5. Bangladesh
+3. Brazil
 
-6. Mexico 
+4. Cambodia
 
-7. Colombia
+5. Chile
 
-8. Argentina 
+6. Colombia
 
-9. Chile
+7. Egypt 
 
-10. South Africa 
+8. Ethiopia
 
-11. Nigeria 
+9. India
 
-12. Egypt 
+10. Indonesia
 
-13. Tanzania
+11. Israel
 
-14. Uganda
+12. Jordan
 
-15. Ethiopia
+13. Kenya
 
-16. Rwanda
+14. Lebanon
 
-17. Turkey
+15. Malaysia
 
-18. Jordan
+16. Mexico
 
-19. Lebanon
+17. Morocco
 
-20. Saudi Arabia
+18. Nigeria
 
-21. Israel
+19. Philippines
 
-22. Morocco
+20. Rwanda
 
-23. Indonesia
+21. Saudi Arabia
 
-24. Singapore
+22. Singapore
 
-25. Malaysia
+23. South Africa 
 
-26. Vietnam
+24. Tanzania
 
-27. Thailand
+25. Thailand
 
-28. Cambodia
+26. Turkey
+
+27. Uganda
+
+28. Vietnam
     
 ## Kaizala Preview
 
