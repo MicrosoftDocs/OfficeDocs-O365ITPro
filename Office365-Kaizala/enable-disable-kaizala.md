@@ -19,7 +19,7 @@ ms.assetid:
 description: Learn how to enable and disable the Kaizala app in the Kaizala management portal.
 ---
 
-# Enable and disable Kaizala 
+# Enable or disable Kaizala Pro for your organization 
 
 Microsoft Kaizala Pro is now commercially [available in 28 countries](regional-availability.md). If your organization is in one of these 28 countries, Kaizala Pro is enabled by default for your organization. For all organizations that are not in one of these countries, Kaizala Pro is disabled by default. The Office 365 administrator can choose to enable or disable Kaizala regardless of the default state. 
 
@@ -36,7 +36,8 @@ Enabling Kaizala Pro allows your organization users to:
 ![Prompt to add phone number in Kaizala management portal](media/prompt-to-add-phone-number.png)
 > [!NOTE]
 > Only the Office 365 administrator can enable or disable Kaizala Pro. 
-3. In the **Microsoft Kaizala for your Organization** section, use the **Disable** button to provide confirmation on the pop-up window and disable Kaizala Profor their account. 
+
+3. In the **Microsoft Kaizala for your Organization** section, use the **Disable** button to provide confirmation on the pop-up window and disable Kaizala Pro for their account. 
 ![Enable or disable Kaizala from the Settings page in Kaizala management portal](media/enable-disable-kaizala-from-settings-page.png)
 
 When Kaizala Pro is disabled, the user will see one of the messages in the following table based on who attempted to sign in (Office 365 admin or others), where the sign in was attempted (portal or app), and why Kaizala was disabled (explicitly Office 365 admin action or by default).
