@@ -77,10 +77,10 @@ If you want to buy a domain from a domain registrar other than GoDaddy, choose o
 If your domain is managed by a provider that doesn't support all the necessary DNS records, you can transfer it to a different registrar. When you transfer the domain, you change who you send payments to in order to renew and keep your domain name.
   
 Request the transfer at the registrar that you want to move your domain to. Look on their website for an option such as **Transfer DNS**. Be aware that after they make the changes, it can take a few days update across the Internet.
-  
+ ::: moniker range="o365-21vianet"
 ## How to buy a domain for Office 365 operated by 21Vianet
 
-::: moniker range="o365-21vianet"
+
 
 If you don't already have your own domain, you can easily buy one online at a domain name registrar, domain reseller, or even at your current Internet provider. You get a domain name when you sign up for Office 365 operated by 21Vianet, for example, contoso.partner.onmschina.cn. But you may want to use a custom domain name, like fourthcoffee.com.
   
@@ -96,12 +96,8 @@ After you register your domain (at a domain registrar), you sign in to Office 36
   
 > [!NOTE]
 > The SharePoint Online Public Website information in this article only applies if your organization purchased Office 365 prior to March 9, 2015. 
-  
-::: moniker-end
 
 ## Domain registrars that support all DNS records required for Office 365
-
-::: moniker range="o365-21vianet"
 
 - [Oray](https://oray.com/)
     
