@@ -37,7 +37,7 @@ Are you removing your domain because you want to add it to a different Office 36
   
 ### Step 1: Move users to another domain
 
-1. 
+
 ::: moniker range="o365-worldwide"
 
 Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
@@ -84,7 +84,7 @@ You can also use PowerShell to move users to another domain. See [Set-MsolUserPr
   
 ### Step 2: Move groups to another domain
 
-1. 
+
 ::: moniker range="o365-worldwide"
 
 Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
@@ -103,7 +103,7 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
-2. Choose **Groups** \> Groups. 
+2. Choose **Groups** \> **Groups**. 
     
 3. Select the box for any group or distribution listassociated with the domain that you want to remove.
     
@@ -115,7 +115,6 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
     
 ### Step 3: Remove the old domain
 
-1. 
 ::: moniker range="o365-worldwide"
 
 Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).

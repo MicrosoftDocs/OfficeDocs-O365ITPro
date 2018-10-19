@@ -68,7 +68,7 @@ Domain names are used in URLs and email addresses, and they have different level
   
 - **.com** is the top-level domain 
     
-- ** contoso ** is the second-level domain 
+- **contoso** is the second-level domain 
     
 - **mail** is the third-level domain 
     
@@ -155,11 +155,13 @@ Why might your domain's zone file be somewhere besides at your domain registrar?
 
 > [!NOTE]
 > If you set up your domain in Office 365 so that [Office 365 sets up and manages your DNS records](https://support.office.com/article/5980474a-097f-4f21-a864-21245314957f.aspx) for you, then as part of setup, you'll [change your domain's NS records to point to Office 365 name servers](https://support.office.com/article/b3627432-6872-4645-9cb7-5528bf32d6b5.aspx). 
-  
+ 
+
+::: moniker range="o365-worldwide"
 ## Why add a domain in Office 365?
 <a name="__toc386183974"> </a>
 
-::: moniker range="o365-worldwide"
+
 
 Adding a custom domain, like fourthcoffee.com, to Office 365 lets you use a shorter, more familiar email address and userID with the service. You're [given a domain to use](https://support.office.com/article/b9fc3018-8844-43f3-8db1-1b3a8e9cfd5a.aspx) when you sign up for a Office 365 account, but it includes "onmicrosoft.com." Many people prefer to add their organization or business domain if they plan to use Office 365 for email. 
   
@@ -176,10 +178,11 @@ You can use your domain name in Office 365 with your email, public website, and 
     
 ::: moniker-end
 
+::: moniker range="o365-germany"
 ## Why add a domain in Office 365?
 <a name="__toc386183974"> </a>
 
-::: moniker range="o365-germany"
+
 
 Adding a custom domain, like fourthcoffee.com, to Office 365 lets you use a shorter, more familiar email address and userID with the service. You're [given a domain to use](https://support.office.com/article/b9fc3018-8844-43f3-8db1-1b3a8e9cfd5a.aspx) when you sign up for a Office 365 account, but it includes "onmicrosoft.com." Many people prefer to add their organization or business domain if they plan to use Office 365 for email. 
   
