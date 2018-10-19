@@ -58,7 +58,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|
 |TXT  <br/> |(Leave this field blank.)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![DomainMonster-BP-Verify-1-1](../media/32e7e4ef-f51b-44ed-b5ad-a1508a95e82b.png)
+   ![DomainMonster-BP-Verify-1-1](../media/32e7e4ef-f51b-44ed-b5ad-a1508a95e82b.png)
   
 5. Choose **Add record**.
     
@@ -125,7 +125,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**Tertiary** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Quaternary** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![DomainMonster-BP-Redelegate-1-3](../media/978fcd4e-ab26-4dcc-ab27-ffcc3c228718.png)
+   ![DomainMonster-BP-Redelegate-1-3](../media/978fcd4e-ab26-4dcc-ab27-ffcc3c228718.png)
   
 6. Choose **Update Name Servers**.
     

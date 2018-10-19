@@ -124,7 +124,7 @@ Ready to change your NS records so Office 365 can set up your domain? Follow the
 |:-----|:-----|
 |**Name server 1** <br/> |ns1.bdm.microsoftonline.com  <br/> |
    
-    ![Entering a value in the Name server 1 box](../media/34509935-461f-427f-9796-c3cf840bd9be.png)
+   ![Entering a value in the Name server 1 box](../media/34509935-461f-427f-9796-c3cf840bd9be.png)
   
 2. In the **Additional name servers** drop-down list, choose **My secondary name servers**.
     
@@ -170,7 +170,7 @@ Ready to change your NS records so Office 365 can set up your domain? Follow the
 |**Name server 3** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Name server 4** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![Entering name server values](../media/52826bd1-0596-4103-a728-d5d28b9610d2.png)
+   ![Entering name server values](../media/52826bd1-0596-4103-a728-d5d28b9610d2.png)
   
 3. Choose **Save**.
     

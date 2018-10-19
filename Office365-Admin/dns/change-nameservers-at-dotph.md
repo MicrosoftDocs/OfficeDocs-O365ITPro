@@ -96,7 +96,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
   
 1. To get started, go to your domains page at dotPH by using [this link](https://www.dot.ph/domain_manager). You'll be prompted to log in first.
     
-2. On the ** Registered Domains ** page, in the **Domain** section, choose the name of the domain you are updating. 
+2. On the **Registered Domains** page, in the **Domain** section, choose the name of the domain you are updating. 
     
 3. In the **NameServers** section, choose **edit**.
     
@@ -126,7 +126,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**Nameserver 2** <br/> |ns2.bdm.microsoftonline.com  <br/> |157.56.81.41  <br/> |(Leave this field empty.)  <br/> |
 |**Nameserver 3 (optional)** <br/> |ns3.bdm.microsoftonline.com  <br/> |191.232.83.138  <br/> |(Leave this field empty.)  <br/> |
    
-    ![DotPH-BP-Redelegate-1-3](../media/40590b1a-1c03-499b-ab5f-ed3af4252fc7.png)
+   ![DotPH-BP-Redelegate-1-3](../media/40590b1a-1c03-499b-ab5f-ed3af4252fc7.png)
   
 2. Choose **Save Changes.**
     
@@ -158,7 +158,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**Nameserver 2** <br/> |ns2.bdm.microsoftonline.com  <br/> |157.56.81.41  <br/> |(Leave this field empty.)  <br/> |
 |**Nameserver 3 (optional)** <br/> |ns3.bdm.microsoftonline.com  <br/> |191.232.83.138  <br/> |(Leave this field empty.)  <br/> |
    
-    ![DotPH-BP-Redelegate-1-3](../media/40590b1a-1c03-499b-ab5f-ed3af4252fc7.png)
+   ![DotPH-BP-Redelegate-1-3](../media/40590b1a-1c03-499b-ab5f-ed3af4252fc7.png)
   
 3. Choose **Save Changes.**
     

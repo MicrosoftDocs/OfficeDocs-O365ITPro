@@ -76,7 +76,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|
 |(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![CrazyDomains-BP-Verify-1-3](../media/3867de97-6a98-4475-9bda-470bac75d483.png)
+   ![CrazyDomains-BP-Verify-1-3](../media/3867de97-6a98-4475-9bda-470bac75d483.png)
   
 9. Choose **Update**.
     
@@ -158,7 +158,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |ns3.bdm.microsoftonline.com  <br/> |(Leave this field empty.)  <br/> |
 |ns4.bdm.microsoftonline.com  <br/> |(Leave this field empty.)  <br/> |
    
-    ![CrazyDomains-BP-Redelegate-1-3](../media/125b4634-5aab-49e7-9e60-a0429e179622.png)
+   ![CrazyDomains-BP-Redelegate-1-3](../media/125b4634-5aab-49e7-9e60-a0429e179622.png)
   
 8. Add the other nameservers.
     

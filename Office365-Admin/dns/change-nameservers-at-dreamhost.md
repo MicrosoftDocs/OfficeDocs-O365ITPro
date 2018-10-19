@@ -62,7 +62,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |(This field is optional.)  <br/> |
    
-    ![Dreamhost-BP-Verify-1-1](../media/ed4a7d43-eeeb-4ec8-849c-37f81315dc69.png)
+   ![Dreamhost-BP-Verify-1-1](../media/ed4a7d43-eeeb-4ec8-849c-37f81315dc69.png)
   
 5. Choose **Add Record Now!**
     
@@ -132,7 +132,7 @@ In the following two steps, you will first remove all of the nameservers that ar
 |**Name Server 3 (optional)** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Name Server 2 (optional)** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![Dreamhost-BP-Redelegate-1-2](../media/10f6a2f4-63d4-49a8-b239-de7571f1b285.png)
+   ![Dreamhost-BP-Redelegate-1-2](../media/10f6a2f4-63d4-49a8-b239-de7571f1b285.png)
   
 3. Choose **Set the nameservers for  *domain_name*  ! **
     
