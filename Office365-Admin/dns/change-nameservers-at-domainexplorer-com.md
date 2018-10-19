@@ -64,7 +64,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|
 |@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![DomainExplorer-BP-Verify-1-2](../media/df68adf3-72ef-4823-bb35-5dc325365459.png)
+   ![DomainExplorer-BP-Verify-1-2](../media/df68adf3-72ef-4823-bb35-5dc325365459.png)
   
 5. Choose **Save Changes**.
     
@@ -142,7 +142,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**3** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**4** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![DomainExplorer-BP-Redelegate-1-3](../media/075c9975-d493-44c1-ba83-1dacb46809e2.png)
+   ![DomainExplorer-BP-Redelegate-1-3](../media/075c9975-d493-44c1-ba83-1dacb46809e2.png)
   
 2. Choose **Save Changes**
     
@@ -170,7 +170,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**3** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**4** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![DomainExplorer-BP-Redelegate-1-3](../media/075c9975-d493-44c1-ba83-1dacb46809e2.png)
+   ![DomainExplorer-BP-Redelegate-1-3](../media/075c9975-d493-44c1-ba83-1dacb46809e2.png)
   
 3. Choose **Save Changes**
     

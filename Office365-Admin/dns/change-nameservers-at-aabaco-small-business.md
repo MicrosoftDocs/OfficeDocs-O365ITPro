@@ -42,10 +42,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
 > [!NOTE]
 > This record is used only to verify that you own your domain; it doesn't affect anything else. You can delete it later, if you like. 
   
-1.     > [!IMPORTANT]
-    > Before you begin this procedure, make sure that you are logged out of any other Aabaco accounts that you may have. 
+> [!IMPORTANT]
+   > Before you begin this procedure, make sure that you are logged out of any other Aabaco accounts that you may have. 
   
-    To get started, go to your domains page at Aabaco Small Business by using [this link](https://www.luminate.com/services/). You'll be prompted to sign in first.
+   To get started, go to your domains page at Aabaco Small Business by using [this link](https://www.luminate.com/services/). You'll be prompted to sign in first.
     
 2. On the **My Services** page, in the section for the domain you're working with, choose **Domain**.
     
@@ -59,7 +59,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|
 |@  <br/> |MS=ms *XXXXXXXX*  <br/> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |
    
-    ![Type or paste the DSN values on the Add TXT Record page](../media/ae8386df-6cec-4bbe-a280-9d3fc170d972.png)
+   ![Type or paste the DSN values on the Add TXT Record page](../media/ae8386df-6cec-4bbe-a280-9d3fc170d972.png)
   
 5. Choose **Add**.
     
@@ -91,10 +91,10 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 > [!IMPORTANT]
 >  The following procedure will show you how to delete any other, unwanted nameservers from the list, and also how to add the correct nameservers if they are not already listed. >  When you have completed the steps in this section, the only nameservers that should be listed are these four: >  ns1.bdm.microsoftonline.com >  ns2.bdm.microsoftonline.com >  ns3.bdm.microsoftonline.com >  ns4.bdm.microsoftonline.com 
   
-1.     > [!IMPORTANT]
-    > Before you begin this procedure, make sure that you are logged out of any other Aabaco accounts that you may have. 
+> [!IMPORTANT]
+  > Before you begin this procedure, make sure that you are logged out of any other Aabaco accounts that you may have. 
   
-    To get started, go to your domains page at Aabaco Small Business by using [this link](https://www.luminate.com/services/). You'll be prompted to sign in first.
+ To get started, go to your domains page at Aabaco Small Business by using [this link](https://www.luminate.com/services/). You'll be prompted to sign in first.
     
 2. On the **My Services** page, in the section for the domain you're working with, choose **Domain**.
     

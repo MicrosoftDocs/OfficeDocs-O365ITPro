@@ -62,7 +62,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 
 Depending on whether you are creating a TXT record or an MX record, do one of the following:
   
-- **If you create a TXT record, use these values:**
+**If you create a TXT record, use these values:**
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -70,7 +70,7 @@ Depending on whether you are creating a TXT record or an MX record, do one of th
 |TXT  <br/> |Do one of the following: Type **@** or leave the field empty or type your domain name.  <br/> > [!NOTE]> Different DNS hosts have different requirements for this field.           
 |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  <br/> |
    
-- **If you create an MX record, use these values:**
+**If you create an MX record, use these values:**
     
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
@@ -116,8 +116,8 @@ To change your domain's nameservers at your domain registrar's website yourself,
 |First nameserver  <br/> |ns1.bdm.microsoftonline.com  <br/> |
 |Second nameserver  <br/> |ns2.bdm.microsoftonline.com  <br/> |
    
-    > [!TIP]
-    > You should use at least two nameserver records. If there are any other nameservers listed, you can either delete them, or change them to **ns3.bdm.microsoftonline.com** and **ns4.bdm.microsoftonline.com**. 
+   > [!TIP]
+   > You should use at least two nameserver records. If there are any other nameservers listed, you can either delete them, or change them to **ns3.bdm.microsoftonline.com** and **ns4.bdm.microsoftonline.com**. 
   
 3. Save your changes.
     
@@ -133,8 +133,8 @@ To change your domain's nameservers at your domain registrar's website yourself,
 |First nameserver  <br/> |ns1.bdm.microsoftonline.com  <br/> |
 |Second nameserver  <br/> |ns2.bdm.microsoftonline.com  <br/> |
    
-    > [!TIP]
-    > You should use at least two nameserver records. If there are any other nameservers listed, you can either delete them, or change them to **ns3.bdm.microsoftonline.com** and **ns4.bdm.microsoftonline.com**. 
+   > [!TIP]
+   > You should use at least two nameserver records. If there are any other nameservers listed, you can either delete them, or change them to **ns3.bdm.microsoftonline.com** and **ns4.bdm.microsoftonline.com**. 
   
 3. Save your changes.
     
@@ -150,8 +150,8 @@ To change your domain's nameservers at your domain registrar's website yourself,
 |First nameserver  <br/> |ns1.dns.partner.microsoftonline.cn  <br/> |
 |Second nameserver  <br/> |ns2.dns.partner.microsoftonline.cn  <br/> |
    
-    > [!TIP]
-    > You should use at least two nameserver records. If there are any other nameservers listed, you can either delete them, or change them to **ns3.dns.partner.microsoftonline.cn** and **ns4.dns.partner.microsoftonline.cn**. 
+   > [!TIP]
+   > You should use at least two nameserver records. If there are any other nameservers listed, you can either delete them, or change them to **ns3.dns.partner.microsoftonline.cn** and **ns4.dns.partner.microsoftonline.cn**. 
   
 3. Save your changes.
     

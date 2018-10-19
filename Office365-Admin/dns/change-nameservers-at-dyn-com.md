@@ -65,7 +65,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |600  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![Dyn-BP-Verify-1-1](../media/b3730b15-a313-4b4c-b91e-646eebb649e8.png)
+   ![Dyn-BP-Verify-1-1](../media/b3730b15-a313-4b4c-b91e-646eebb649e8.png)
   
 6. Choose **Create Record**.
     
@@ -132,7 +132,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**line 3** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**line 4** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![Dyn-BP-Redelegate-1-4](../media/84ee68f0-ac1c-4364-b749-cb979a02ba33.png)
+   ![Dyn-BP-Redelegate-1-4](../media/84ee68f0-ac1c-4364-b749-cb979a02ba33.png)
   
 6. Choose **Save Nameservers**.
     

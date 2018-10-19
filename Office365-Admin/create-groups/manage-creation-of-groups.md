@@ -215,8 +215,11 @@ The most common mistakes are not having the preview module and typos. Instead of
     $Setting["GroupCreationAllowedGroupId"] = (Get-AzureADGroup -SearchString "<Name of your security group>").objectid
   ```
 
-    For example, I named my group AllowedtoCreateGroups, so I would run this command:
+
+  
+  For example, I named my group AllowedtoCreateGroups, so I would run this command:
     
+
   ```
     $Setting["GroupCreationAllowedGroupId"] = (Get-AzureADGroup -SearchString "AllowedtoCreateGroups").objectid
   ```

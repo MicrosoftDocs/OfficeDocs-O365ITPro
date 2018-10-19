@@ -125,7 +125,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**Third line** <br/> |ns3.bdm.microsoftonline.com.  <br/> **This value MUST end with a period (.)** <br/> |
 |**Fourth line** <br/> |ns4.bdm.microsoftonline.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-    ![Ttype or paste the First line value in the Value box](../media/b63f41e0-51ef-4ab2-a4b8-ee7380e5ab35.png)
+   ![Type or paste the First line value in the Value box](../media/b63f41e0-51ef-4ab2-a4b8-ee7380e5ab35.png)
   
 8. Choose **Save Record Set**.
     

@@ -139,8 +139,8 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**First nameserver** <br/> |ns1.bdm.microsoftonline.com  <br/> |
 |**Second nameserver** <br/> |ns2.bdm.microsoftonline.com  <br/> |
    
-    > [!TIP]
-    > You should use at least two name server records. If there are any other name servers listed, you can either delete them or change them to **ns3.bdm.microsoftonline.com** and **ns4.bdm.microsoftonline.com**. 
+   > [!TIP]
+   > You should use at least two name server records. If there are any other name servers listed, you can either delete them or change them to **ns3.bdm.microsoftonline.com** and **ns4.bdm.microsoftonline.com**. 
   
 3. Save your changes.
     

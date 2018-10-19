@@ -27,20 +27,13 @@ If you choose to add a custom domain now, you get access to all the premium feat
   
 |**Feature**|**Office 365 with personal email**|**Office 365 with custom domain**|
 |:-----|:-----|:-----|
-|**OneDrive <sup>1, 2</sup>**|
-|:-----|
-|**Office applications: Word, Excel, PowerPoint, OneNote, Outlook, Access (PC only), Publisher (PC only)**|
-|:-----|
-|**Business applications <sup>3</sup> : Microsoft Connections, Invoicing, Listings, Bookings, MileIQ, and Outlook Customer Manager**|
-|:-----|
-|**Access to Office 365 Admin Center**|
-|:-----|
-|**Add Users**|
-|:-----|
-|**Office 365 services: Exchange Online, Skype for Business, Microsoft Teams, SharePoint Online**|
-|:-----|
-|**Security and Compliance tools**|
-|:-----|
+|**OneDrive <sup>1, 2</sup>**| [Personal OneDrive ](https://onedrive.live.com/about/en-us/plans/)| [OneDrive for Business](https://onedrive.live.com/about/en-us/business/) |
+|**Office applications: Word, Excel, PowerPoint, OneNote, Outlook, Access (PC only),**| Yes | Yes 
+|**Business applications <sup>3</sup> : Microsoft Connections, Invoicing, Listings, Bookings, MileIQ, and Outlook Customer Manager**| No | Yes 
+|**Access to Office 365 Admin Center**| Limited Access (Billing, Support, and Domain setup) | Yes
+|**Add Users**| No | Yes
+|**Office 365 services: Exchange Online, Skype for Business, Microsoft Teams, SharePoint Online**| No | Yes
+|**Security and Compliance tools**| No | Yes
    
  *1*  * *You will need to migrate your* [Personal OneDrive files over to OneDrive for Business](move-email-and-data-to-office-365-business-premium.md) *.* * 
   
