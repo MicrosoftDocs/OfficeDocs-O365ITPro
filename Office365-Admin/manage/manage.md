@@ -53,11 +53,7 @@ Quick links for the most common admin tasks in Office 365.
         </a>
     </li>
     <li>
-<<<<<<< HEAD
-        <a href="../add-users/remove-a-former-employee.md">
-=======
         <a href="../add-users/remove-former-employee.md">
->>>>>>> cmcatee-conversion
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -145,11 +141,7 @@ Quick links for the most common admin tasks in Office 365.
                         <h3>Email</h3>
                             <p><a href="../add-users/add-users.md">Add a new employee</a></p>
                             <p><a href="https://support.office.com/article/97748418-bbd5-4743-a05b-581f22a466dd">Fix email messages when they won't send</a></p>
-<<<<<<< HEAD
-                            <p><a href="../troubleshoot-issues-for-office-admins/troubleshoot-email-issues.md">Troubleshoot email issues</a></p>
-=======
                             <p><a href="../troubleshoot-issues-for-admins/troubleshoot-email-issues.md">Troubleshoot email issues</a></p>
->>>>>>> cmcatee-conversion
                             <p><b>More tasks:</b> <a href="../email/email.md">Email in Office 365 for business</a></p>
                     </div>
                 </div>
