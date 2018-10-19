@@ -36,7 +36,7 @@ Use these resources to get started using your own domain for email, websites, an
  
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="../setup/add-a-domain.md">
+        <a href="../setup/add-domain.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -92,7 +92,7 @@ Use these resources to get started using your own domain for email, websites, an
 </ul>
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="../setup/domains-faq.md">
+        <a href="../setup/domains-faq.md#why-do-i-have-an-onmicrosoftcom-domain">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -161,7 +161,7 @@ Use these resources to get started using your own domain for email, websites, an
                             <p><a href="find-your-domain-registrar.md">Find your domain's registrar</a></p>
                             <p><a href="buy-a-domain-name.md">Buy a domain name</a></p>
                             <p><a href="../setup/domains-faq.md#how-to-set-up-an-office-365-pilot">Set up a pilot with your custom domain for a few people in your company</a></p>
-                            <p><a href="using-domain-connect.md">Quickly add a GoDaddy domain to Office 365</a></p>
+                            <p><a href="domain-connect.md">Quickly add a GoDaddy domain to Office 365</a></p>
                             <p>Get step-by-step help to <a href="../dns/create-dns-records-at-any-dns-hosting-provider-0.md">add the required DNS records for Office 365 services</a></p>
                             <p><a href="https://docs.microsoft.com/en-us/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization">How to prepare a non-routable domain for directory synchronization</a></p>
                             <p><a href="../setup/domains-faq.md">Domains FAQ</a></p>
@@ -179,7 +179,8 @@ Use these resources to get started using your own domain for email, websites, an
                             <p><a href="../dns/create-dns-records-at-godaddy.md">Create DNS records at GoDaddy</a></p>
                             <p><a href="../dns/create-dns-records-at-1-1-internet.md">Create DNS records at 1&amp;1 Internet</a></p>
                             <p><a href="../dns/create-dns-records-at-network-solutions.md">Create DNS records at Network Solutions</a></p>
-                            <p>Help for many more popular providers: <a href="../dns/create-dns-records-at-any-dns-hosting-provider.md">Create DNS records for Office 365 when you manage your DNS records</a></p>
+                            <p>Help for many more popular providers:</p> 
+                            <P><a href="../dns/create-dns-records-at-any-dns-hosting-provider-0.md">Create DNS records for Office 365 when you manage your DNS records</a></p>
                     </div>
                 </div>
             </div>
@@ -194,7 +195,8 @@ Use these resources to get started using your own domain for email, websites, an
                             <p><a href="../dns/change-nameservers-at-1-1-internet.md">Change nameservers to set up Office 365 with 1&amp;1 Internet</a></p>
                             <p><a href="../dns/change-nameservers-at-network-solutions.md">Change nameservers to set up Office 365 with Network Solutions</a></p>
                             <p><a href="domain-connect.md">Quickly add a GoDaddy domain to Office 365</a></p>
-                            <p>Help for many more popular domain registrars: <a href="../get-help-with-domains/set-up-your-domain-host-specific-instructions.md">Change nameservers to Office 365 so records are set up for you</a></p>
+                            <p>Help for many more popular domain registrars:</P> 
+                            <p><a href="../get-help-with-domains/set-up-your-domain-host-specific-instructions.md">Change nameservers to Office 365 so records are set up for you</a></p>
                     </div>
                 </div>
             </div>
@@ -208,8 +210,8 @@ Use these resources to get started using your own domain for email, websites, an
                         <h3>Make changes</h3>
                             <p><a href="find-and-fix-issues.md">Find and fix issues after changing your domain name or DNS records</a></p>
                             <p><a href="../dns/add-or-edit-custom-dns-records.md">Add or edit custom DNS records in Office 365</a></p>
-                            <p><a href="../setup/domains-faq.md">Add custom subdomains or multiple domains in Office 365</a></p>
-                            <p><a href=../setup/domains-faq.md">Change how Office 365 manages DNS for your domain</a></p>
+                            <p><a href="../setup/domains-faq.md#can-i-add-custom-subdomains-or-multiple-domains-to-office-365">Add custom subdomains or multiple domains in Office 365</a></p>
+                            <p><a href="../setup/domains-faq.md#how-do-i-change-how-my-dns-records-are-managed-in-office-365">Change how Office 365 manages DNS for your domain</a></p>
                             <p><a href="remove-a-domain.md">Remove a domain</a></p>
                             <p><a href="https://docs.microsoft.com/en-us/office365/enterprise/office-365-integration">Office 365 integration with on-premises environments</a></p>
                             <p><a href="../contact-support-for-business-products.md">More questions? Call support or open a support ticket</a></p>
