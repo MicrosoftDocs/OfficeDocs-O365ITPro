@@ -89,8 +89,9 @@ If you know PowerShell, see [Assign roles to user accounts with Office 365 Power
   
 Use the following instructions to assign roles to tens of users.
   
-1. ::: moniker range="o365-worldwide" 
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+::: moniker range="o365-worldwide"
+
+1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
