@@ -49,17 +49,16 @@ Domain names, like contoso.com, are managed by using a worldwide system of domai
   
 ::: moniker-end
 
-> [What are domain names?](dns-basics.md#__toc386183972)
+> [What are domain names?](#what-are-domain-names)
     
-> [Understand DNS record types](dns-basics.md#__toc386183973)
+> [Understand DNS record types](#understand-dns-record-types)
     
-> [How does DNS work?](dns-basics.md#__toc386183974)
+> [How does DNS work?](#how-does-dns-work)
     
-> [Why add a domain in Office 365?](dns-basics.md#BKMK_WhyAdd)
+> [Why add a domain in Office 365?](#why-add-a-domain-in-office-365)
     
-> [The DNS records required for =Office 365](dns-basics.md#__toc386183977)
-    
-> [How can I learn more?](dns-basics.md#bkmk_learnmore)
+> [The DNS records required for Office 365](#the-dns-records-required-for-office-365)
+> [How can I learn more?](#how-can-i-learn-more)
     
 ## What are domain names?
 <a name="__toc386183972"> </a>

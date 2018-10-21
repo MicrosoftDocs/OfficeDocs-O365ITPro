@@ -25,6 +25,6 @@ For validation, an email is sent to the registrant's address.
   
 The email will look like this:
   
-![](../media/8bf27c08-510c-4d49-b152-8d047d038f1f.jpg)
+![Email example](../media/8bf27c08-510c-4d49-b152-8d047d038f1f.jpg)
   
 

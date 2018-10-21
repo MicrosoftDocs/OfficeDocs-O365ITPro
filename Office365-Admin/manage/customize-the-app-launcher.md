@@ -68,7 +68,7 @@ Your custom tile now appears in the app launcher on the **All** tab for you and 
 
 1. In the Office 365 admin center, search for **tiles** or use the left navigation pane by choosing **Settings** \> **Organization profile** \> **Add custom tiles for your organization** and click ![Edit](../media/41e7590d-1114-490c-9b0d-33fd602a7bb9.png)<br/>![Add custom tiles for your organization](../media/a0d86f6f-0283-4df1-8d81-4c9e0efdc91d.png)
   
-2. Update the **Tile name**, **URL**, **Description**, or **Image URL** for the custom tile (see [Add a custom tile to the app launcher](customize-the-app-launcher.md#bkmk_addtile)).
+2. Update the **Tile name**, **URL**, **Description**, or **Image URL** for the custom tile (see [Add a custom tile to the app launcher](#add-a-custom-tile-to-the-app-launcher)).
     
 3. Click **Update** \> **Close**. 
     

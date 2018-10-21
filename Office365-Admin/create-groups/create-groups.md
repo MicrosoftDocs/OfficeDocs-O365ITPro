@@ -28,7 +28,7 @@ While users can create an Office 365 group from Outlook or other apps, as the gl
 |![Are you in the right place?](../media/dce802aa-dcbc-4a4a-a975-44b960259f7c.png)           <br/> |**Are you looking for how to create an email group (distribution list) in Outlook?** <br/> If so, see [Create a contact group or distribution list in Outlook](https://support.office.com/article/88ff6c60-0a1d-4b54-8c9d-9e1a71bc3023.aspx).  <br/> |
 |||
    
-Because Office 365 groups needs to have a mailbox set up for it, there are a few important steps that you can't complete until after the mailbox is fully set up. See [Next steps](create-groups.md#bkmk_NextSteps) later in this article. 
+Because Office 365 groups needs to have a mailbox set up for it, there are a few important steps that you can't complete until after the mailbox is fully set up. See [Next steps](#next-steps) later in this article. 
   
 ## Create an Office 365 group
 
@@ -70,11 +70,11 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 There are a few steps that you can't finish until the group's mailbox is finished setting up:
   
-- [Add members to an Office 365 group](create-groups.md#bkmk_addmembers)
+- [Add members to an Office 365 group](#add-members-to-an-office-365-group)
     
-- [Send copies of conversations to group members' inboxes...](create-groups.md#bkmk_sendcopies)
+- [Send copies of conversations to group members' inboxes](#send-copies-of-conversations-to-group-members-inboxes)
     
-- [Let people outside the organization email the group (such as info@contoso.com)](create-groups.md#bkmk_let)
+- [Let people outside the organization email the group (such as info@contoso.com)](#let-people-outside-the-organization-email-the-group-such-as-infocontosocom)
     
 ### Add members to an Office 365 group
 
@@ -93,7 +93,7 @@ The Office 365 group will appear in Outlook with members assigned to it.
 > [!TIP]
 > Office 365 connected Yammer groups must be created in Yammer, but can be managed in the Office 365 admin center like other Office 365 groups. To learn more, see [Yammer and Office 365 Groups](https://support.office.com/article/d8c239dc-a48b-47ab-b85e-6b4b8191a869.aspx). 
   
-### Send copies of conversations to group members' inboxes...
+### Send copies of conversations to group members' inboxes
 
 If your group will be having a lot of meetings, you should turn this on so your group members can accept the meeting requests.
   
@@ -103,7 +103,7 @@ If your group will be having a lot of meetings, you should turn this on so your 
     
 3. Turn **Send copies of group conversations and events to group members' inboxes** to **On** if you want members to receive messages and calendar items in their own inbox,  *in addition to the group mailbox*  . 
     
-  - If you're creating a group email address such as info@contoso.com, it's important you understand how this setting works. See [How following group email works](create-groups.md#bkmk_how).
+  - If you're creating a group email address such as info@contoso.com, it's important you understand how this setting works. See [How following group email works](#how-following-group-email-works).
     
 4. Select **Save**.
     

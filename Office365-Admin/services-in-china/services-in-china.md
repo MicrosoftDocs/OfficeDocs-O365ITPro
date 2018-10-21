@@ -58,7 +58,7 @@ The sections below highlight some of the differences you will find in each servi
     
 - [Data Subject Requests for GDPR](services-in-china.md#BKMK_DSR)
     
-If you would like to learn how to get started with general Office 365 services, see [Get started with Office 365 for Business](../security-and-compliance/get-started-with-office-365.md).
+If you would like to learn how to get started with general Office 365 services, see [Get started](../admin-overview/get-started-with-office-365.md).
   
 ## Office 365 Suite
 <a name="__toc359591120"> </a>
