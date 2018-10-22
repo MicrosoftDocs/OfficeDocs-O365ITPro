@@ -131,7 +131,7 @@ You can also use the Power BI template file that corresponds to the Microsoft 36
   
 You can download the Power BI template file from the Microsoft download center [here](https://download.microsoft.com/download/1/7/0/170A5A35-9E0D-478D-828C-4CA2D9A9F092/Microsoft 365 Usage Analytics.pbit). After you have downloaded the Power BI template file follow these steps to get started:
   
-1. Open the pbit file. 
+1. Open the pbit file.
     
 2. Enter your tenant id value in the dialog.
     
@@ -139,7 +139,7 @@ You can download the Power BI template file from the Microsoft download center [
   
 3. Enter your admin credentials to authenticate to Office 365 when prompted.
     
-    See the [FAQ](usage-analytics.md#faq) for more information about who is allowed to access the Microsoft 365 usage analytics reports. 
+     for more information about who is allowed to access the Microsoft 365 usage analytics reports. 
     
     Once authorized, the data will be refreshed in the Power BI file.
     

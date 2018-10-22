@@ -153,7 +153,7 @@ Why might your domain's zone file be somewhere besides at your domain registrar?
 ::: moniker-end
 
 > [!NOTE]
-> If you set up your domain in Office 365 so that [Office 365 sets up and manages your DNS records](https://support.office.com/article/5980474a-097f-4f21-a864-21245314957f.aspx) for you, then as part of setup, you'll [change your domain's NS records to point to Office 365 name servers](https://support.office.com/article/b3627432-6872-4645-9cb7-5528bf32d6b5.aspx). 
+> If you set up your domain in Office 365 so that [Office 365 sets up and manages your DNS records](https://support.office.com/article/5980474a-097f-4f21-a864-21245314957f.aspx) for you, then as part of setup, you'll [change your domain's NS records to point to Office 365 name servers](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2). 
  
 
 ::: moniker range="o365-worldwide"
@@ -213,8 +213,7 @@ Or, if you're planning a deployment, you may want to review a list of all the DN
 [Get help with using domains in Office 365](get-help-with-domains.md) or check out one of the following: 
   
 - Not sure where your domain is registered? [Get help finding your domain registrar.](find-your-domain-registrar.md)
-    
-- [Learn what you should have on hand](https://support.office.com/article/5aaa52a3-ab4e-4a4e-80d8-dc5d4d80c8d1.aspx) before you get started setting up your domain in Office 365. 
+
     
 - Find out [why you have to complete the wizard steps](https://support.office.com/article/c4207bb0-9ed5-4149-a9dd-f617e1477824.aspx) before you can use your domain with Office 365. 
     

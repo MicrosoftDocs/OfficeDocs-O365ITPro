@@ -31,7 +31,7 @@ Start your article with a very short introduction (1 sentence). Put yourself in 
     
     ![Placeholder - maximum width for SOC article art is 520 pixels](../media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
   
-If you want to add a video or screenshot, use a two-column grid and have the steps in the left and the video or screenshot in the right - see [Steps and video grid example](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx). 
+If you want to add a video or screenshot, use a two-column grid and have the steps in the left and the video or screenshot in the right. 
   
 Target no more than 500 words for an article.
   

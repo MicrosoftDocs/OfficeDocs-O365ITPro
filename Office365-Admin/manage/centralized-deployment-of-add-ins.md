@@ -164,7 +164,7 @@ Alternately, you can use the Azure Active Directory Graph API to run queries to 
   
 ### Contacting Microsoft for support
 
-If you or your users encounter problems loading the add-in while using Office Online apps (Word Online, Excel Online, etc.), which were centrally deployed, you may need to contact Microsoft support ([learn how](https://support.office.com/article/56782beb-aeb9-4851-a97c-feaa0f9bfd8d.aspx)). Provide the following information about your Office 365 environment in the support ticket.
+If you or your users encounter problems loading the add-in while using Office Online apps (Word Online, Excel Online, etc.), which were centrally deployed, you may need to contact Microsoft support ([learn how](https://docs.microsoft.com/en-us/onedrive/find-your-office-365-tenant-id)).  Provide the following information about your Office 365 environment in the support ticket.
   
 |**Platform**|**Debug information**|
 |:-----|:-----|
