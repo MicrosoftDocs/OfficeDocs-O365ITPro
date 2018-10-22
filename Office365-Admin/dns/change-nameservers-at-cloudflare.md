@@ -43,7 +43,6 @@ Here's what you need to do. (Need more help? [Get support](https://support.offic
 - [Change your domain's nameserver (NS) records](fb8b07ce-6d9d-4616-96f0-20b093911531.md#BKMK_nameservers)
     
 ## Delete your Cloudflare domain
-<a name="BKMK_delete"> </a>
 
 When you signed up for Cloudflare, you added a domain by using the **Add Domains** process. 
   
@@ -76,7 +75,6 @@ After you remove your domain from Cloudflare, you will perform additional steps 
     ![Cloudflare-BP-Redelegate-1-3](../media/f58ea101-100c-43c7-b9f7-0c3c2272b960.png)
   
 ## Add a TXT or MX record for verification
-<a name="BKMK_verify"> </a>
 
 > [!IMPORTANT]
 > You must perform this procedure at the domain registrar where you purchased and registered your domain. 
@@ -134,7 +132,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Change your domain's nameserver (NS) records
-<a name="BKMK_nameservers"> </a>
 
 > [!IMPORTANT]
 > You must perform this procedure at the domain registrar where you purchased and registered your domain. 
@@ -163,7 +160,7 @@ To change your domain's name servers at your domain registrar's website yourself
   
 For example, here are some additional steps that might be required for email and website hosting:
   
-- Move all email addresses that use your domain to Office 365 before you change your NS records. Learn more: [Why should I add users to Office 365 while I'm adding my domain?](https://support.office.com/article/60253758-518f-4bd8-8ad9-c69de9ea535a.aspx)
+- Move all email addresses that use your domain to Office 365 before you change your NS records. 
     
 - Want to add a domain that's currently used with a website address, like www.fourthcoffee.com? You can take steps while you add the domain to keep its website hosted where the site is hosted now, so that people can still get to the website after you change the domain's NS records to point to Office 365.
     

@@ -3,7 +3,6 @@ title: "Add, change, or delete a subscription advisor partner"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:
@@ -98,8 +97,6 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
     
 ::: moniker-end
 
-## Add a partner at the time of purchase
-
 ::: moniker range="o365-germany"
 
 1. Sign in to Office 365 with your work or school account. 
@@ -126,6 +123,7 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
     
 ::: moniker-end
 
+
 ## Add a partner to an existing subscription
 
 ::: moniker range="o365-worldwide"
@@ -148,8 +146,6 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
     
 ::: moniker-end
 
-## Add a partner to an existing subscription
-
 ::: moniker range="o365-germany"
 
 1. Sign in to Office 365 with your work or school account. 
@@ -170,9 +166,24 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
     
 ::: moniker-end
 
-## Change the partner for a subscription
+::: moniker range="o365-21vianet"
 
-::: moniker range="o365-worldwide"
+This process is initiated by your authorized partner. The partner sends you an email to ask you if you want to give them permission to act as a partner of record. 
+  
+To accept this offer
+  
+1. Read the partner's terms in the email.
+    
+2. To authorize the agreement, click the link, which goes to an authorization page in Office 365.
+    
+3. Under **Partner Relationships**, choose **Yes** to authorize the partner to be your delegated admin, and then choose **Next**.
+    
+4. If the offer for partner relationship came with a trial subscription or a purchase offer, create your trial or subscription account.
+    
+::: moniker-end
+
+
+## Change the partner for a subscription
 
 1. Sign in to Office 365 with your work or school account. 
     
@@ -190,29 +201,6 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
     
 7. The partner ID displays on the **Subscription details** page. 
     
-::: moniker-end
-
-## Change the partner for a subscription
-
-::: moniker range="o365-germany"
-
-1. Sign in to Office 365 with your work or school account. 
-    
-2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
-    
-3. Choose **Billing** \> **Subscriptions**.
-    
-4. If you have multiple subscriptions, select the name of the subscription you want to edit.
-    
-5. Under the **Partner ID**, select **Edit partner of record**.
-    
-    ![Choose Edit partner of record](../media/89692ae0-5044-4a4e-b8ca-40788c638d99.png)
-  
-6. Type the new Microsoft Partner ID for the partner you're adding, select **Check ID**, and then **Submit**. You can get the partner's Microsoft Partner ID by asking the partner for it.
-    
-7. The partner ID displays on the **Subscription details** page. 
-    
-::: moniker-end
 
 ## View your partner relationships
 
@@ -247,10 +235,7 @@ If you don't have a partner, you'll see a message that says "We didn't find anyt
 You can't remove a reseller relationship yourself.
   
 If you are removing a reseller relationship the **Delete** option is grayed out, and you will have to ask your reseller partner to follow these instructions: [Remove a reseller relationship with partner](https://go.microsoft.com/fwlink/p/?linkid=870519).
-  
-::: moniker-end
 
-## Remove a reseller relationship
 
 ::: moniker range="o365-germany"
 
@@ -260,21 +245,10 @@ If you are removing a reseller relationship the **Delete** option is grayed out,
   
 ::: moniker-end
 
-## Add a partner relationship
-
 ::: moniker range="o365-21vianet"
 
-This process is initiated by your authorized partner. The partner sends you an email to ask you if you want to give them permission to act as a partner of record. 
+You can't remove a reseller relationship yourself.
   
-To accept this offer
+If you are removing a reseller relationship the **Delete** option is grayed out, and you will have to ask your reseller partner to follow these instructions: [Remove a reseller relationship with partner](https://go.microsoft.com/fwlink/p/?linkid=870519).
   
-1. Read the partner's terms in the email.
-    
-2. To authorize the agreement, click the link, which goes to an authorization page in Office 365.
-    
-3. Under **Partner Relationships**, choose **Yes** to authorize the partner to be your delegated admin, and then choose **Next**.
-    
-4. If the offer for partner relationship came with a trial subscription or a purchase offer, create your trial or subscription account.
-    
 ::: moniker-end
-

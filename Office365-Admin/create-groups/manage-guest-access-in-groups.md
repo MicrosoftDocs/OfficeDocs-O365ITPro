@@ -3,7 +3,6 @@ title: "Manage guest access in Office 365 Groups"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
