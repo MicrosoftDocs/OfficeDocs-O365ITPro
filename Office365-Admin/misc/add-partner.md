@@ -183,10 +183,8 @@ To accept this offer
 ::: moniker-end
 
 
-
 ## Change the partner for a subscription
 
-::: moniker range="o365-worldwide"
 
 1. Sign in to Office 365 with your work or school account. 
     
@@ -204,27 +202,6 @@ To accept this offer
     
 7. The partner ID displays on the **Subscription details** page. 
     
-::: moniker-end
-
-::: moniker range="o365-germany"
-
-1. Sign in to Office 365 with your work or school account. 
-    
-2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
-    
-3. Choose **Billing** \> **Subscriptions**.
-    
-4. If you have multiple subscriptions, select the name of the subscription you want to edit.
-    
-5. Under the **Partner ID**, select **Edit partner of record**.
-    
-    ![Choose Edit partner of record](../media/89692ae0-5044-4a4e-b8ca-40788c638d99.png)
-  
-6. Type the new Microsoft Partner ID for the partner you're adding, select **Check ID**, and then **Submit**. You can get the partner's Microsoft Partner ID by asking the partner for it.
-    
-7. The partner ID displays on the **Subscription details** page. 
-    
-::: moniker-end
 
 
 ### View your partner relationships
@@ -262,7 +239,7 @@ You can't remove a reseller relationship yourself.
 If you are removing a reseller relationship the **Delete** option is grayed out, and you will have to ask your reseller partner to follow these instructions: [Remove a reseller relationship with partner](https://go.microsoft.com/fwlink/p/?linkid=870519).
 
 
-  ::: moniker range="o365-germany"
+::: moniker range="o365-germany"
 
 You can't remove a reseller relationship yourself.
   
@@ -270,4 +247,10 @@ If you are removing a reseller relationship the **Delete** option is grayed out,
   
 ::: moniker-end
 
+::: moniker range="o365-21vianet"
 
+You can't remove a reseller relationship yourself.
+  
+If you are removing a reseller relationship the **Delete** option is grayed out, and you will have to ask your reseller partner to follow these instructions: [Remove a reseller relationship with partner](https://go.microsoft.com/fwlink/p/?linkid=870519).
+  
+::: moniker-end
