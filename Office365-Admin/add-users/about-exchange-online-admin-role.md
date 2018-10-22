@@ -33,7 +33,7 @@ Here are some of the key tasks users can do when they are assigned to the Exchan
     
 - Set up "[Send As](https://support.office.com/article/2B828C5F-41AB-4904-97B9-3B63D8129C4E.aspx)" and "[Send on Behalf](https://support.office.com/article/C5E7749D-244E-477F-998E-55D3876C22EC.aspx)" delegates for someone's mailbox. For example, an executive may want their assistant to have the ability to send mail on their behalf. 
     
-- [Create shared mailboxes](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) so a group of people can monitor and send email from a common email address. 
+[Create a shared mailbox](../email/create-a-shared-mailbox.md#create-a-shared-mailbox)so a group of people can monitor and send email from a common email address. 
     
 - [Office 365 email anti-spam protection](https://docs.microsoft.com/office365/securitycompliance/anti-spam-protection) and malware filters for the organization. 
     
@@ -46,14 +46,8 @@ If you have a large organization, the Exchange admin might want to assign users 
  For example, the Exchange admin might assign someone to the Discovery Management role group so they can perform searches of mailboxes for data that meets certain criteria. To learn more, see [Permissions in Exchange Online](https://docs.microsoft.com/exchange/permissions-exo/permissions-exo) and [Manage Role Groups](https://docs.microsoft.com/exchange/manage-role-groups-exchange-2013-help).
   
 ## Learn about other Office 365 admin roles
-
-- [About Office 365 admin roles](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
     
 - [About the SharePoint Online admin role](https://docs.microsoft.com/sharepoint/sharepoint-admin-role)
     
 - [About the Skype for Business admin role](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-online)
     
-## See also
-
-[Assign admin roles in Office 365](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
-
