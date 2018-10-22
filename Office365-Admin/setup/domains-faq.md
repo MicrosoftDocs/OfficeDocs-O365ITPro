@@ -3,7 +3,6 @@ title: "Domains FAQ"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -332,7 +331,7 @@ You can keep using the initial onmicrosoft.de domain even after you add your dom
 
 1. Choose **Setup** in the [Office 365 admin center](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791 .aspx) to start the wizard. (Be sure to sign in to Office 365 first.) 
     
-2. To become the Office 365 admin for your school, [follow these steps](../misc/become-admin.md) to find and choose the **Become an admin** option in Office 365. 
+2. To become the Office 365 admin for your school, [follow these steps](https://go.microsoft.com/fwlink/?LinkId=512141) to find and choose the **Become an admin** option in Office 365. 
     
 3. You'll be prompted to add a TXT DNS record at the DNS host website for your domain. Why? Because by signing in at the DNS host and adding a record for your domain, you prove to Office 365 that you own the domain name.
     
