@@ -83,7 +83,6 @@ To determine whether your Office installation is Click-to-run or MSI-base:
     ![Graphic that shows how to tell if Office 2013 install is click-to-run or MSI-based](../media/1e75143f-9e37-4e0c-9610-43a80771571e.png)
   
 ### Click-to-run based installations
-<a name="BK_ClickToRun"> </a>
 
 For Click-to-run based installations, you must have the following software installed, at file version listed below or a later file version. If your file version is not equal to or greater than the file version listed, update it using the steps below.
   
@@ -97,7 +96,6 @@ For Click-to-run based installations, you must have the following software insta
 |Iexplore.exe  <br/> |C:\Program Files\Internet Explorer  <br/> |varies  <br/> |
    
 ### MSI-based installations
-<a name="BK_MSI"> </a>
 
 For MSI-based installations, you must have the following software installed, at file version listed below or a later file version. If your file version is not equal to or greater than the file version listed, update it using the link in the Update KB Article column.
   
