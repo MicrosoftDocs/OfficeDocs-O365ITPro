@@ -1,5 +1,5 @@
 ---
-title: "Add, update, or remove a credit card or bank account in Office 365 for business"
+title: "Add, update, or remove a credit card or bank account"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

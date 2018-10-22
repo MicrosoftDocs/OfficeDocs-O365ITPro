@@ -25,12 +25,12 @@ The app launcher is personalized and helps users open and switch between the app
   
 Later in this article you will find two videos. [Admin overview video: Meet the Office 365 app launcher](new-web-experiencesapp-launcher.md#bkmk_Video) will show you the new experience so you can prepare for the change and [Snapshot video: Introducing new Office 365 web experiences](new-web-experiencesapp-launcher.md#bkmk_snapshot) is a brief video you can share with your users. 
   
-The videos introduce the Office 365 app launcher as well as highlight how [www.office.com](http://www.office.com) is an easy to remember URL to help users get started with all things Office 365 and specifically, working with online documents. Additionally, the Office 365 gallery page available from [www.office.com](http://www.office.com), helps you and your users better understand the apps, tools, and services that are part of your Office 365 subscriptions.
+The videos introduce the Office 365 app launcher as well as highlight how [www.office.com](https://www.office.com) is an easy to remember URL to help users get started with all things Office 365 and specifically, working with online documents. Additionally, the Office 365 gallery page available from [www.office.com](https://www.office.com), helps you and your users better understand the apps, tools, and services that are part of your Office 365 subscriptions.
   
 ## Admin overview video: Meet the Office 365 app launcher
 <a name="bkmk_Video"> </a>
 
-Check out the video of the new app launcher and [www.office.com](http://www.office.com) to see them in action. 
+Check out the video of the new app launcher and [www.office.com](https://www.office.com) to see them in action. 
   
 **Meet the new Office 365 app launcher**
 
@@ -80,7 +80,7 @@ No. With the new app launcher's more personalized default experience as well as 
 ### Are there additional resources to help me train my users?
 <a name="mcpttiles"> </a>
 
-Yes. We've created a ~5 minutes [Microsoft Mechanics video](https://youtu.be/9mEYBpUsb6k) to explain the new Office 365 app launcher experience, as well as the new Office 365 gallery and changes to [www.office.com](http://www.office.com). Additionally, you can listen to our archived [Microsoft Ignite session](https://m.youtube.com/watch?v=IMV97BwS5Xk) where we go into more depth on the new experiences and the customer challenges they are designed to help. 
+Yes. We've created a ~5 minutes [Microsoft Mechanics video](https://youtu.be/9mEYBpUsb6k) to explain the new Office 365 app launcher experience, as well as the new Office 365 gallery and changes to [www.office.com](https://www.office.com). Additionally, you can listen to our archived [Microsoft Ignite session](https://m.youtube.com/watch?v=IMV97BwS5Xk) where we go into more depth on the new experiences and the customer challenges they are designed to help. 
   
 ### How can I get an early look at new experiences coming to Office 365?
 <a name="mcpttiles"> </a>

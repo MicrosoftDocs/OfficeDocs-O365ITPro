@@ -1,5 +1,5 @@
 ---
-title: "Determine if Centralized Deployment of add-ins works for your Office 365 organization"
+title: "Determine if Centralized Deployment of add-ins works for your organization"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -16,7 +16,7 @@ ms.assetid: b4527d49-4073-4b43-8274-31b7a3166f92
 description: "Determine if your Office 365 tenant and users meet the requirements, so that you can use Centralized Deployment to deploy Office add-ins."
 ---
 
-# Determine if Centralized Deployment of add-ins works for your Office 365 organization
+# Determine if Centralized Deployment of add-ins works for your organization
 
 Centralized Deployment is the recommended and most feature-rich way for most customers to deploy Office add-ins to users and groups within your Office 365 organization. If you're an Office 365 admin, use this guidance to determine if your tenant and users meet the requirements so that you can use Centralized Deployment.
   

@@ -1,5 +1,5 @@
 ---
-title: "What happens to my data and access when my Office 365 for business subscription ends?"
+title: "What happens to my data and access when my subscription ends?"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

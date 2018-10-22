@@ -1,5 +1,5 @@
 ---
-title: "Enter your product key for Office 365 Business Premium purchased from a retail store"
+title: "Enter your product key for Office 365 Business Premium
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -17,7 +17,7 @@ ms.assetid: 0199dd39-7c46-4875-af9b-588df3a9afea
 description: "Learn how to redeem an Office 365 Business Premium product key purchased at a retail store."
 ---
 
-# Enter your product key for Office 365 Business Premium purchased from a retail store
+# Enter your product key for Office 365 Business Premium
 
 If you purchased Office 365 Business Premium from a retail store, this article helps you activate your subscription. 
   
