@@ -67,7 +67,7 @@ These steps are only for people using an Office 365 business plan. To do them, y
     
     ![Choose one or more users.](../media/f537b3c8-8bc7-44a6-a548-8969c4ab2d73.png)
   
-4. Click **Reset password**. 
+4. Click **Reset password** 
     
     ![The Reset password button.](../media/b2c7f0c6-3297-48a6-b77e-e6877222b9db.png)
   
