@@ -138,11 +138,7 @@ Why might your domain's zone file be somewhere besides at your domain registrar?
 ::: moniker-end
 
 > [!NOTE]
-<<<<<<< HEAD
-> If you set up your domain in Office 365 so that [Office 365 sets up and manages your DNS records](https://support.office.com/article/5980474a-097f-4f21-a864-21245314957f.aspx) for you, then as part of setup, you'll [change your domain's NS records to point to Office 365 name servers](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2). 
-=======
 > If you set up your domain in Office 365 so that [Office 365 sets up and manages your DNS records](../setup/domains-faq.md#how-does-office-365-manage-my-dns-records) for you, then as part of setup, you'll [Change DNS management to Office 365](../setup/domains-faq.md#change-dns-management-to-office-365). 
->>>>>>> Sirkkuw-conversion
  
 
 ::: moniker range="o365-worldwide"
