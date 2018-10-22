@@ -137,29 +137,29 @@ To complete setting up your domain with Office 365, you change your domain's NS 
     
     ![WhizIn-BP-Redelegate-1-3](../media/f447dfa7-e765-4cea-a66c-8042980f15ab.png)
   
-5.    > [!CAUTION]
+    > [!CAUTION]
     > Follow these steps  *only*  if you have existing nameservers other than the four  *correct*  nameservers. (That is, delete  *only*  any current nameservers that are  *not*  named **ns1.bdm.microsoftonline.com**, **ns2.bdm.microsoftonline.com**, **ns3.bdm.microsoftonline.com**, or **ns4.bdm.microsoftonline.com**.) 
   
     In the **Manage Name Servers** section, delete each nameserver in the list by selecting that nameserver and then pressing the **Delete** key on your keyboard. 
     
     ![WhizIn-BP-Redelegate-1-4](../media/310243be-8b29-464f-a9d0-23a49846c2de.png)
   
-6. In the **Name Server 1** to **Name Server 4** boxes, type or copy and paste the Office 365 nameserver values from the following table. 
+5. In the **Name Server 1** to **Name Server 4** boxes, type or copy and paste the Office 365 nameserver values from the following table. 
     
-|||
-|:-----|:-----|
-|**Name Server 1** <br/> |ns1.bdm.microsoftonline.com  <br/> |
-|**Name Server 2** <br/> |ns2.bdm.microsoftonline.com  <br/> |
-|**Name Server 3** <br/> |ns3.bdm.microsoftonline.com  <br/> |
-|**Name Server 4** <br/> |ns4.bdm.microsoftonline.com  <br/> |
+    |||
+    |:-----|:-----|
+    |**Name Server 1** <br/> |ns1.bdm.microsoftonline.com  <br/> |
+    |**Name Server 2** <br/> |ns2.bdm.microsoftonline.com  <br/> |
+    |**Name Server 3** <br/> |ns3.bdm.microsoftonline.com  <br/> |
+    |**Name Server 4** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
     
-![WhizIn-BP-Redelegate-1-5](../media/96c2d2d4-c254-416e-b41c-06dbabafe56f.png)!
+    ![WhizIn-BP-Redelegate-1-5](../media/96c2d2d4-c254-416e-b41c-06dbabafe56f.png)!
   
-7. Choose **Update Name Servers**.
+6. Choose **Update Name Servers**.
     
    ![WhizIn-BP-Redelegate-1-6](../media/a059851e-6783-4a15-9c38-83c28975c24f.png)
   
-> [!NOTE]
-> Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain.
+    > [!NOTE]
+    > Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain.
   

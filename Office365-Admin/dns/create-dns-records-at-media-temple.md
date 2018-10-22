@@ -135,9 +135,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Name**|**TTL**|**Type**|**Data**|
-|:-----|:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |(This value cannot be changed.)  <br/> |MX  <br/> | *10 \<domain-key\>*  .mail.protection.outlook.com.  <br/> The  *10*  is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**Name**|**TTL**|**Type**|**Data**|
+    |:-----|:-----|:-----|:-----|
+    |(Leave this field empty.)  <br/> |(This value cannot be changed.)  <br/> |MX  <br/> | *10 \<domain-key\>*  .mail.protection.outlook.com.  <br/> The  *10*  is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
    ![MediaTemple-BP-Configure-2-1](../media/1fab65a4-1309-432e-aac2-39a94c45ba78.png)
   
@@ -183,14 +183,14 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Name**|**TTL**|**Type**|**Data**|
-|:-----|:-----|:-----|:-----|
-|autodiscover  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|sip  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|lyncdiscover  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|msoid  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
+    |**Name**|**TTL**|**Type**|**Data**|
+    |:-----|:-----|:-----|:-----|
+    |autodiscover  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |sip  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |lyncdiscover  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |msoid  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
    
-   ![MediaTemple-BP-Configure-3-1](../media/55a9fe55-2635-42e7-a9df-49c17981089c.png)
+    ![MediaTemple-BP-Configure-3-1](../media/55a9fe55-2635-42e7-a9df-49c17981089c.png)
   
 7. Choose **Save Changes**.
     
@@ -205,15 +205,14 @@ When Office 365 finds the correct TXT record, your domain is verified.
     In the **Zone Records** section, choose **+ Add Row**, create a record using the values from the next row in the table, and then again choose **Save Changes** and **OK** to complete that record. 
     
     Repeat this process until you have created all four CNAME records.
-    
-10.     
->[!IMPORTANT]
+       
+    >[!IMPORTANT]
     > If you have Mobile Device Management (MDM) for Office 365, then you must create two additional CNAME records. Follow the procedure that you used for the other four CNAME records, but supply the values from the following table. > (If you do not have MDM, you can skip this step.) 
   
-|**Name**|**TTL**|**Type**|**Data**|
-|:-----|:-----|:-----|:-----|
-|enterpriseregistration  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> **This value MUST end with a period (.)** <br/> |
-|enterpriseenrollment  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> **This value MUST end with a period (.)** <br/> |
+    |**Name**|**TTL**|**Type**|**Data**|
+    |:-----|:-----|:-----|:-----|
+    |enterpriseregistration  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> **This value MUST end with a period (.)** <br/> |
+    |enterpriseenrollment  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> **This value MUST end with a period (.)** <br/> |
    
 ## Add a TXT record for SPF to help prevent email spam
 <a name="BKMK_add_TXT"> </a>
@@ -235,9 +234,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Host**|**TTL**|**Type**|**Data**|
-|:-----|:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |(This value cannot be changed.)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Host**|**TTL**|**Type**|**Data**|
+    |:-----|:-----|:-----|:-----|
+    |(Leave this field empty.)  <br/> |(This value cannot be changed.)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
    ![MediaTemple-BP-Configure-4-1](../media/09dfea1c-319f-456c-9894-ac13a1f9486f.png)
   
@@ -268,10 +267,10 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Name**|**TTL**|**Type**|**Data**|
-|:-----|:-----|:-----|:-----|
-|_sip._tls  <br/> |(This value cannot be changed.)  <br/> |SRV  <br/> |100 1 443 sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|_sipfederationtls._tcp  <br/> |(This value cannot be changed.)  <br/> |SRV  <br/> |100 1 5061 sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |**Name**|**TTL**|**Type**|**Data**|
+    |:-----|:-----|:-----|:-----|
+    |_sip._tls  <br/> |(This value cannot be changed.)  <br/> |SRV  <br/> |100 1 443 sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |_sipfederationtls._tcp  <br/> |(This value cannot be changed.)  <br/> |SRV  <br/> |100 1 5061 sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
     ![MediaTemple-BP-Configure-5-1](../media/46099213-80e5-4aa9-b337-35f4c3b5d63c.png)
   
@@ -287,5 +286,5 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the **Zone Records** section, choose **+Add Row**, create a record using the values from the next row in the table, and then again choose **Save Changes** and **OK** to complete the second record. 
     
-> [!NOTE]
-> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
+    > [!NOTE]
+    > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
