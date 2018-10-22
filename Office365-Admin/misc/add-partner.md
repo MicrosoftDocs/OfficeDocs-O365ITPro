@@ -185,7 +185,6 @@ To accept this offer
 
 ## Change the partner for a subscription
 
-
 1. Sign in to Office 365 with your work or school account. 
     
 2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
@@ -203,8 +202,7 @@ To accept this offer
 7. The partner ID displays on the **Subscription details** page. 
     
 
-
-### View your partner relationships
+## View your partner relationships
 
 1. Sign in to Office 365 with your work or school account. 
     
@@ -216,7 +214,7 @@ Your partners are listed on the **PARTNER RELATIONSHIPS** page.
   
 If you don't have a partner, you'll see a message that says "We didn't find anything to show here."
   
-### Delete a partner from a subscription
+## Delete a partner from a subscription
 
 1. Sign in to Office 365 with your work or school account. 
     
