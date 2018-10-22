@@ -3,7 +3,6 @@ title: "Add, change, or delete a subscription advisor partner"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:
@@ -98,8 +97,6 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
     
 ::: moniker-end
 
-## Add a partner at the time of purchase
-
 ::: moniker range="o365-germany"
 
 1. Sign in to Office 365 with your work or school account. 
@@ -126,6 +123,7 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
     
 ::: moniker-end
 
+
 ## Add a partner to an existing subscription
 
 ::: moniker range="o365-worldwide"
@@ -148,8 +146,6 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
     
 ::: moniker-end
 
-## Add a partner to an existing subscription
-
 ::: moniker range="o365-germany"
 
 1. Sign in to Office 365 with your work or school account. 
@@ -169,6 +165,24 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
 7. The partner ID displays on the **Subscriptions** page. 
     
 ::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+This process is initiated by your authorized partner. The partner sends you an email to ask you if you want to give them permission to act as a partner of record. 
+  
+To accept this offer
+  
+1. Read the partner's terms in the email.
+    
+2. To authorize the agreement, click the link, which goes to an authorization page in Office 365.
+    
+3. Under **Partner Relationships**, choose **Yes** to authorize the partner to be your delegated admin, and then choose **Next**.
+    
+4. If the offer for partner relationship came with a trial subscription or a purchase offer, create your trial or subscription account.
+    
+::: moniker-end
+
+
 
 ## Change the partner for a subscription
 
@@ -192,8 +206,6 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
     
 ::: moniker-end
 
-## Change the partner for a subscription
-
 ::: moniker range="o365-germany"
 
 1. Sign in to Office 365 with your work or school account. 
@@ -214,7 +226,8 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
     
 ::: moniker-end
 
-## View your partner relationships
+
+### View your partner relationships
 
 1. Sign in to Office 365 with your work or school account. 
     
@@ -226,7 +239,7 @@ Your partners are listed on the **PARTNER RELATIONSHIPS** page.
   
 If you don't have a partner, you'll see a message that says "We didn't find anything to show here."
   
-## Delete a partner from a subscription
+### Delete a partner from a subscription
 
 1. Sign in to Office 365 with your work or school account. 
     
@@ -247,12 +260,9 @@ If you don't have a partner, you'll see a message that says "We didn't find anyt
 You can't remove a reseller relationship yourself.
   
 If you are removing a reseller relationship the **Delete** option is grayed out, and you will have to ask your reseller partner to follow these instructions: [Remove a reseller relationship with partner](https://go.microsoft.com/fwlink/p/?linkid=870519).
-  
-::: moniker-end
 
-## Remove a reseller relationship
 
-::: moniker range="o365-germany"
+  ::: moniker range="o365-germany"
 
 You can't remove a reseller relationship yourself.
   
@@ -260,21 +270,4 @@ If you are removing a reseller relationship the **Delete** option is grayed out,
   
 ::: moniker-end
 
-## Add a partner relationship
-
-::: moniker range="o365-21vianet"
-
-This process is initiated by your authorized partner. The partner sends you an email to ask you if you want to give them permission to act as a partner of record. 
-  
-To accept this offer
-  
-1. Read the partner's terms in the email.
-    
-2. To authorize the agreement, click the link, which goes to an authorization page in Office 365.
-    
-3. Under **Partner Relationships**, choose **Yes** to authorize the partner to be your delegated admin, and then choose **Next**.
-    
-4. If the offer for partner relationship came with a trial subscription or a purchase offer, create your trial or subscription account.
-    
-::: moniker-end
 
