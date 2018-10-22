@@ -154,7 +154,7 @@ You must have [admin permissions](about-admin-roles.md) in Office 365 to do this
   
 3. On the **Deleted users** page, select the user that you want to restore, and then select **Restore**. 
     
-4. On the **Restore** page, follow the instructions to set the password
+4. On the **Restore** page, follow the instructions to set the password.
     
 5. Click **Restore**. Any conflicting proxy addresses are automatically removed from the user you are restoring.
     
