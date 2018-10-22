@@ -24,11 +24,6 @@ For example, if Allie Bellew is part of **Training** Office 365 Group in your or
   
 The **Send on Behalf** permission lets a user send email on behalf of an Office 365 Group. For example, if Donald Forster is a part of the **Marketing** Office 365 Group, and has **Send on Behalf** permissions and sends an email as the group, the email looks like it was sent by **Donald Forster on behalf of Marketing Team**.
   
-## What do you want to do?
-
-- [Allow members to send email as an Office 365 Group](allow-members-to-send-as-or-send-on-behalf-of-group.md#BKMK_SendASGroup)
-    
-- [Allow members to send email on behalf of an Office 365 Group](allow-members-to-send-as-or-send-on-behalf-of-group.md#BKMK_SendonBehalfofGroup)
     
 ## Allow members to send email as an Office 365 Group
 

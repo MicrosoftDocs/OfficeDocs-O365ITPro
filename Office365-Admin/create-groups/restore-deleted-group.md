@@ -3,7 +3,6 @@ title: "Restore a deleted Office 365 Group"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -19,8 +18,6 @@ description: "Learn how to restore a deleted Office 365 Group using the Exchange
 ---
 
 # Restore a deleted Office 365 Group
-
- *Last updated 29 August, 2018* 
   
 If you're a user who wants to restore an Office 365 group, ask the person in your business who has admin permissions to do these steps for you. In a large business, this is the internal help desk / technical support.  
    
