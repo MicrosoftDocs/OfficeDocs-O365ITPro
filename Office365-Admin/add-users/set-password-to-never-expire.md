@@ -20,11 +20,11 @@ description: "Learn how to set some individual user passwords to never expire, u
 
 # Set an individual user's password to never expire
 
- *Last updated 4 August, 2017* 
+  
   
 |||
 |:-----|:-----|
-|![I forgot the username or password for the account I use with Office.](../media/d0ee024e-999d-438b-b72d-2e1779cf7f83.png)           <br/> |This article is for people who set password expiration policy for a business, school, or nonprofit.  <br/> **If you're a user, you don't have the permissions to set your password to never expire. Ask your work or school technical support to do the steps in this article for you.** <br/> |
+![I forgot the username or password for the account I use with Office.](../media/d0ee024e-999d-438b-b72d-2e1779cf7f83.png)           <br/> |This article is for people who set password expiration policy for a business, school, or nonprofit.  <br/> **If you're a user, you don't have the permissions to set your password to never expire. Ask your work or school technical support to do the steps in this article for you.** <br/> |
    
 If you have company requirements to set some individual user passwords to never expire, you need to use Windows PowerShell. You can't do this in the Office 365 admin center.
   
@@ -90,13 +90,13 @@ Video on how to set up user passwords to never expire
   Set-MsolUser -UserPrincipalName <name of the account> -PasswordNeverExpires $true
   ```
 
-    For example, if the name of the account is Ina@contoso.com, you'd type the command like this:
+  For example, if the name of the account is Ina@contoso.com, you'd type the command like this:
     
   ```
   Set-MsolUser -UserPrincipalName Ina@contoso.com -PasswordNeverExpires $true
   ```
 
-    If you get a red error message, there's probably a typo or an extra space. Try again! Or, copy and paste the above to the PowerShell prompt, and use the arrow key to erase \<name of the account\> and enter the real name of the account.
+  If you get a red error message, there's probably a typo or an extra space. Try again! Or, copy and paste the above to the PowerShell prompt, and use the arrow key to erase \<name of the account\> and enter the real name of the account.
     
 5. When you're successful, the PowerShell prompt appears for the next command. It doesn't display anything like "done" or "success."
     
@@ -117,13 +117,13 @@ Video on how to set up user passwords to never expire
   Get-MSOLUser -UserPrincipalName <user ID> | Select PasswordNeverExpires
   ```
 
-    For example, to see the status for Ina@contoso.com, you'd type the following:
+  For example, to see the status for Ina@contoso.com, you'd type the following:
     
   ```
   Get-MSOLUser -UserPrincipalName Ina@contoso.com | Select PasswordNeverExpires
   ```
 
-    The following picture shows how I set the password to never expire, and then ran the command to verify it is now set to never expire:
+  The following picture shows how I set the password to never expire, and then ran the command to verify it is now set to never expire:
     
     ![This picture shows the commands to set the password to never expire, and then verify it was set.](../media/c0972196-5f4c-4f93-9ac9-15321eec5fdb.png)
   
@@ -144,7 +144,7 @@ The AzureADPreview module is required for a lot of procedures. As a best practic
   Install-Module AzureADPreview
   ```
 
-    At the message about an untrusted repository, type **Y**. It will take a minute or so for the new module to install.
+  At the message about an untrusted repository, type **Y**. It will take a minute or so for the new module to install.
     
 ## Related articles
 <a name="bkmk_preview"> </a>
