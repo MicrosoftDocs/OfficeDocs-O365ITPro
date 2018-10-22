@@ -55,7 +55,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|:-----|
 |﻿(leave blank)  <br/> |1 hour  <br/> |﻿TXT  <br/> |MS=msXXXXXXXX  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![TXT record in Domainnameshop](../media/f2ec5943-5b8d-4028-90f8-4a1344264e68.png)
+   ![TXT record in Domainnameshop](../media/f2ec5943-5b8d-4028-90f8-4a1344264e68.png)
   
 7. Choose the **+** (Add) button. 
     

@@ -290,11 +290,10 @@ For example, you could add the domains contoso.com and contosomarketing.com, and
 When you add a subdomain, it is automatically verified based on the parent domain that is being verified.
   
 When you add multiple domains to Office 365, you can host any of the services (like email) on any of the domains you've added.  *When you change your email to Office 365, by updating a domain's MX record, ALL email sent to that domain will start coming to Office 365.* 
-  
+ 
+::: moniker range="o365-worldwide"
 ## Why do I have an "onmicrosoft.com" domain?
 <a name="bkmk_CanIaddcustomsubdomainsormultipledomainstoOffice365"> </a>
-
-::: moniker range="o365-worldwide"
 
 Office 365 creates a domain for you, like  *contoso.onmicrosoft.com*  , when you sign up with the service. The user ID that you create when you sign up includes the domain, like  *alan@contoso.onmicrosoft.com*  . 
   
@@ -310,10 +309,9 @@ You can keep using the initial onmicrosoft.com domain even after you add your do
   
 ::: moniker-end
 
+::: moniker range="o365-germany"
 ## Why do I have an "onmicrosoft.de" domain?
 <a name="bkmk_CanIaddcustomsubdomainsormultipledomainstoOffice365"> </a>
-
-::: moniker range="o365-germany"
 
 Office 365 creates a domain for you, like  *contoso.onmicrosoft.de*  , when you sign up with the service. The user ID that you create when you sign up includes the domain, like  *alan@contoso.onmicrosoft.de*  . 
   

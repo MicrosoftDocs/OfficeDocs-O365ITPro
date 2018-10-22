@@ -20,11 +20,11 @@ description: "Learn about the transition to a new DNS provider to improve DNS re
 
 On October 15, 2017, we transitioned to a new DNS provider to improve DNS reliability for your SharePoint.com domains.
   
- **This is only applicable for SharePoint sites ending with ".sharepoint.com".**
+ **This is only applicable for SharePoint sites ending with  ".sharepoint.com".**
   
 If you need to find out how many DNS queries were received for your SharePoint domain names, please engage support.
   
-If you have hard-coded server addresses for SharePoint.com domains in your DNS configurations, please update them with the provided new server addresses before January 30th, 2018 or you will experience a service outage when trying to access SharePoint.com. **** No change is required for any other domain (like yourdomain.com) 
+If you have hard-coded server addresses for SharePoint.com domains in your DNS configurations, please update them with the provided new server addresses before January 30th, 2018 or you will experience a service outage when trying to access SharePoint.com.  No change is required for any other domain (like yourdomain.com) 
   
 ## Check to see which nameserver your organization is using
 

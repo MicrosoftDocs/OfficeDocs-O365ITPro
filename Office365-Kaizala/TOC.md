@@ -13,6 +13,7 @@
 ### [Age verification](age-verification.md)
 ### [Make payments](make-payments.md)
 ## [Kaizala management portal](kaizala-management-portal.md)
+### [Enable or disable Kaizala Pro](enable-disable-kaizala.md)
 ### [Reports](reports.md)
 ### [Actions](actions.md)
 ### [Connectors](connectors.md)

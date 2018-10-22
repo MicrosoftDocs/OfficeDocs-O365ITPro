@@ -27,8 +27,7 @@ description: "Learn how to assign administrator roles to a user or multiple user
 
 # Assign admin roles in Office 365 for business
 
-
-  
+ 
 As the person who purchased your Office 365 business subscription, you are the global administrator. This means you have complete control over the Office 365 suite of products. To help you manage Office 365 for your business, you can assign users to administrator roles so they can perform tasks in the Office 365 admin center. For example, if you want help resetting passwords, you can assign someone to the Password administrator role.
   
 ![Users](../media/a022e5e8-0b11-47b6-bac8-7527c4f6a202.png) For a list of customized admin roles and a description of what they can do in Office 365, see [About Office 365 admin roles](about-admin-roles.md).
@@ -42,13 +41,13 @@ As the person who purchased your Office 365 business subscription, you are the g
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
@@ -90,20 +89,21 @@ If you know PowerShell, see [Assign roles to user accounts with Office 365 Power
   
 Use the following instructions to assign roles to tens of users.
   
-1. ::: moniker range="o365-worldwide" 
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+::: moniker range="o365-worldwide"
+
+1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 

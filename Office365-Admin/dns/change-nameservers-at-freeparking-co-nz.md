@@ -72,7 +72,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|
 | *All records*  <br/> |Caching Time (TTL)  <br/> |1 Hour  <br/> |
    
-    ![FreeparkingNZ-BP-Configure-1-4-2](../media/7caef32d-ba28-4d57-8ea3-7d694af5a47e.png)
+   ![FreeparkingNZ-BP-Configure-1-4-2](../media/7caef32d-ba28-4d57-8ea3-7d694af5a47e.png)
   
 7. Choose **Add another record**.
     
@@ -86,7 +86,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|
 |Use your domain name (for example, fourthcoffee.com)  <br/> |Descriptive (TXT)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![FreeparkingNZ-BP-Verify-1-1](../media/927e8240-9cba-4431-bbc0-a016f5a44d0b.png)
+   ![FreeparkingNZ-BP-Verify-1-1](../media/927e8240-9cba-4431-bbc0-a016f5a44d0b.png)
   
 9. Choose **Continue**.
     
@@ -165,7 +165,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**Nameserver 3** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Nameserver 4** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![FreeparkingNZ-BP-Redelegate-1-4](../media/3d7d4615-4289-4ee8-b2bb-e78b0a829072.png)
+   ![FreeparkingNZ-BP-Redelegate-1-4](../media/3d7d4615-4289-4ee8-b2bb-e78b0a829072.png)
   
 7. Choose **Continue**.
     

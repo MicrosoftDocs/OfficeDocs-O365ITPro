@@ -49,17 +49,16 @@ Domain names, like contoso.com, are managed by using a worldwide system of domai
   
 ::: moniker-end
 
-> [What are domain names?](dns-basics.md#__toc386183972)
+> [What are domain names?](#what-are-domain-names)
     
-> [Understand DNS record types](dns-basics.md#__toc386183973)
+> [Understand DNS record types](#understand-dns-record-types)
     
-> [How does DNS work?](dns-basics.md#__toc386183974)
+> [How does DNS work?](#how-does-dns-work)
     
-> [Why add a domain in Office 365?](dns-basics.md#BKMK_WhyAdd)
+> [Why add a domain in Office 365?](#why-add-a-domain-in-office-365)
     
-> [The DNS records required for =Office 365](dns-basics.md#__toc386183977)
-    
-> [How can I learn more?](dns-basics.md#bkmk_learnmore)
+> [The DNS records required for Office 365](#the-dns-records-required-for-office-365)
+> [How can I learn more?](#how-can-i-learn-more)
     
 ## What are domain names?
 <a name="__toc386183972"> </a>
@@ -68,7 +67,7 @@ Domain names are used in URLs and email addresses, and they have different level
   
 - **.com** is the top-level domain 
     
-- ** contoso ** is the second-level domain 
+- **contoso** is the second-level domain 
     
 - **mail** is the third-level domain 
     
@@ -155,31 +154,13 @@ Why might your domain's zone file be somewhere besides at your domain registrar?
 
 > [!NOTE]
 > If you set up your domain in Office 365 so that [Office 365 sets up and manages your DNS records](https://support.office.com/article/5980474a-097f-4f21-a864-21245314957f.aspx) for you, then as part of setup, you'll [change your domain's NS records to point to Office 365 name servers](https://support.office.com/article/b3627432-6872-4645-9cb7-5528bf32d6b5.aspx). 
-  
-## Why add a domain in Office 365?
-<a name="__toc386183974"> </a>
+ 
 
 ::: moniker range="o365-worldwide"
-
-Adding a custom domain, like fourthcoffee.com, to Office 365 lets you use a shorter, more familiar email address and userID with the service. You're [given a domain to use](https://support.office.com/article/b9fc3018-8844-43f3-8db1-1b3a8e9cfd5a.aspx) when you sign up for a Office 365 account, but it includes "onmicrosoft.com." Many people prefer to add their organization or business domain if they plan to use Office 365 for email. 
-  
-> [!NOTE]
-> If you just want to download and use Office 365 apps, like Outlook or Word, you don't need to add a domain: [Install Office on your PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx). 
-  
-You can use your domain name in Office 365 with your email, public website, and instant messaging address.
-  
-- **Email:** Your domain name lets you customize your email, so you can use a shorter, easier-to-remember address than [the initial onmicrosoft.com email address](https://support.office.com/article/b9fc3018-8844-43f3-8db1-1b3a8e9cfd5a.aspx) that comes with your account. So instead of joe@contoso.onmicrosoft.com, the email address (which is also the work account that you use to sign in to Office 365) could be joe@contoso.com. 
-    
-- **Website:** If you have an Office 365 subscription that includes a SharePoint Online Public Website (no longer available for purchase), your public website comes with an initial address like this: contoso-public.sharepoint.com. If you set up your website for your business, you can use a custom domain name to rename the website address to something like www.contoso.com. 
-    
-- **Instant messaging:** Your Skype for Business Online address can also be customized to use your domain name, so people in your organization can connect with each other on Skype for Business Online by using a shorter, easier-to-remember address (like joe@contoso.com). 
-    
-::: moniker-end
-
 ## Why add a domain in Office 365?
 <a name="__toc386183974"> </a>
 
-::: moniker range="o365-germany"
+
 
 Adding a custom domain, like fourthcoffee.com, to Office 365 lets you use a shorter, more familiar email address and userID with the service. You're [given a domain to use](https://support.office.com/article/b9fc3018-8844-43f3-8db1-1b3a8e9cfd5a.aspx) when you sign up for a Office 365 account, but it includes "onmicrosoft.com." Many people prefer to add their organization or business domain if they plan to use Office 365 for email. 
   
@@ -196,7 +177,28 @@ You can use your domain name in Office 365 with your email, public website, and 
     
 ::: moniker-end
 
-## The DNS records required for =Office 365
+::: moniker range="o365-germany"
+## Why add a domain in Office 365?
+<a name="__toc386183974"> </a>
+
+
+
+Adding a custom domain, like fourthcoffee.com, to Office 365 lets you use a shorter, more familiar email address and userID with the service. You're [given a domain to use](https://support.office.com/article/b9fc3018-8844-43f3-8db1-1b3a8e9cfd5a.aspx) when you sign up for a Office 365 account, but it includes "onmicrosoft.com." Many people prefer to add their organization or business domain if they plan to use Office 365 for email. 
+  
+> [!NOTE]
+> If you just want to download and use Office 365 apps, like Outlook or Word, you don't need to add a domain: [Install Office on your PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx). 
+  
+You can use your domain name in Office 365 with your email, public website, and instant messaging address.
+  
+- **Email:** Your domain name lets you customize your email, so you can use a shorter, easier-to-remember address than [the initial onmicrosoft.com email address](https://support.office.com/article/b9fc3018-8844-43f3-8db1-1b3a8e9cfd5a.aspx) that comes with your account. So instead of joe@contoso.onmicrosoft.com, the email address (which is also the work account that you use to sign in to Office 365) could be joe@contoso.com. 
+    
+- **Website:** If you have an Office 365 subscription that includes a SharePoint Online Public Website (no longer available for purchase), your public website comes with an initial address like this: contoso-public.sharepoint.com. If you set up your website for your business, you can use a custom domain name to rename the website address to something like www.contoso.com. 
+    
+- **Instant messaging:** Your Skype for Business Online address can also be customized to use your domain name, so people in your organization can connect with each other on Skype for Business Online by using a shorter, easier-to-remember address (like joe@contoso.com). 
+    
+::: moniker-end
+
+## The DNS records required for Office 365
 <a name="__toc386183977"> </a>
 
 There are a number of DNS records required for Office 365 to work with your domain. In addition to setting up your domain's MX record so email will be sent to Office 365, there are records to help with tasks like making sure Outlook can automatically connect to the right Exchange server, setting up instant messaging, and helping to prevent spam email.

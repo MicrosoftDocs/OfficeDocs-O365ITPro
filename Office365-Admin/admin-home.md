@@ -192,9 +192,9 @@ Learn about resources available for Office 365 admins.
                 <div class="card">
                     <div class="cardText">
                         <h3>Get started</h3>
-                        <p><a href="/admin-overview/admin-overview.md">Who is my admin?</a></p>
-                        <p><a href="/setup/plan-your-setup.md">Plan your setup</a></p>
-                        <p><a href="/add-users/add-users.md">Add users</a></p>
+                        <p><a href="admin-overview/admin-overview.md">Who is my admin?</a></p>
+                        <p><a href="setup/plan-your-setup.md">Plan your setup</a></p>
+                        <p><a href="add-users/add-users.md">Add users</a></p>
                     </div>
                 </div>
             </div>
@@ -221,7 +221,7 @@ Learn about resources available for Office 365 admins.
                 <div class="card">
                     <div class="cardText">
                         <h3>Learn more</h3>
-                        <p><a href="about-the-admin-center.md">Learn about the admin center</a></p>
+                        <p><a href="admin-overview/about-the-admin-center.md">Learn about the admin center</a></p>
                         <p><a href="https://docs.microsoft.com/en-us/MicrosoftTeams/Microsoft-Teams">Microsoft Teams documentation</a></p>
                         <p><a href="https://go.microsoft.com/fwlink/?linkid=853063">Advanced IT Pro training from LinkedIn Learning</a></p>
                     </div>

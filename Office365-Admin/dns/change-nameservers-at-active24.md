@@ -60,7 +60,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|
 |(Leave this field empty.)  <br/> |3600  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-    ![Active24-BP-Verify-1-2](../media/ce5bc8bf-2809-4fe4-bcb8-2a281247ce35.png)
+   ![Active24-BP-Verify-1-2](../media/ce5bc8bf-2809-4fe4-bcb8-2a281247ce35.png)
   
 6. Choose **Create**.
     
@@ -137,7 +137,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**Nameserver4**|
 |:-----|
    
-    ![Active24-BP-Redelegate-1-4](../media/374aad76-a104-48ab-ab87-5cb939999c58.png)
+   ![Active24-BP-Redelegate-1-4](../media/374aad76-a104-48ab-ab87-5cb939999c58.png)
   
 7. Choose **Save**.
     

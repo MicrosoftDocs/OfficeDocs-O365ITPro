@@ -26,7 +26,7 @@ Learn more about how [Office 365 Germany is designed to meet compliance and regu
   
 ## What Microsoft online services are available in Office 365 Germany?
 
-Office 365 Germany plan offerings are aligned with global offers as much as possible. Exclusions include Yammer-related plans, plans that are nearing their end-of-life, and plans available by way of non-profit programs. Office 365 E5, SPE, and services listed in the [Coming soon](learn-about-office-365-germany.md#BK_ComingSoon) section will be available after general availability of Office 365 Germany. 
+Office 365 Germany plan offerings are aligned with global offers as much as possible. Exclusions include Yammer-related plans, plans that are nearing their end-of-life, and plans available by way of non-profit programs. Office 365 E5, SPE, and other services will be available after general availability of Office 365 Germany. 
   
 The following services and features are available in some [Office 365 Germany subscription plans](https://go.microsoft.com/fwlink/?linkid=839016). Additionally, see the [Online Services Terms](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=46).
   

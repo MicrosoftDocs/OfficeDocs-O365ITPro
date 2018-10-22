@@ -127,7 +127,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**3** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**4** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![Dynadot-BP-Redelegate-1-1-1](../media/a33cbdbb-6ee0-4ed1-aed7-ddd20e2d2413.png)
+   ![Dynadot-BP-Redelegate-1-1-1](../media/a33cbdbb-6ee0-4ed1-aed7-ddd20e2d2413.png)
   
 5. When you have added both values, choose **Enter Name Servers**.
     

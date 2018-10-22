@@ -129,8 +129,8 @@ Ready to change your NS records so Office 365 can set up your domain? Follow the
 |**Host Name** (3)  <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Host Name** (4)  <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![In Host Name, enter the nameserver values](../media/a598b9da-a935-4876-a81c-f1eac0ccc3fd.png)
-  
+   ![In Host Name, enter the nameserver values](../media/a598b9da-a935-4876-a81c-f1eac0ccc3fd.png)
+ 
 2. Add the other nameserver values.
     
     Choose **ADD** and then type or copy and paste the value from the next row of the table into the box for the record. 
@@ -175,7 +175,7 @@ Ready to change your NS records so Office 365 can set up your domain? Follow the
 |**Host Name** (3)  <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Host Name** (4)  <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-    ![Enter the nameserver values](../media/f4d0d8fe-613d-4f66-bf00-5334a3466120.png)
+   ![Enter the nameserver values](../media/f4d0d8fe-613d-4f66-bf00-5334a3466120.png)
   
 4. Choose **Save**.
     
