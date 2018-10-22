@@ -38,11 +38,9 @@ You'll need to add all of the following DNS records at your registrar's website 
   
 4. Enter the following records in the text fields:
     
-1. 
-
-|**Host**|**Text**|
-|:-----|:-----|
-|@  <br/> |MS=msXXXXXXXX (Use the value provided to you on the Admin Center Domains page)  <br/> |
+    |**Host**|**Text**|
+    |:-----|:-----|
+    |@  <br/> |MS=msXXXXXXXX (Use the value provided to you on the Admin Center Domains page)  <br/> |
    
 5. Choose **NEXT**. 
     
@@ -78,11 +76,9 @@ You'll need to add all of the following DNS records at your registrar's website 
   
 4. Enter the following records in the text fields:
     
-1. 
-
-|**MAIL FOR ZONE**|**MAIL SERVER**|**PREF**|
-|:-----|:-----|:-----|
-|@  <br/> |\<domain-key\>.mail.protection.outlook.com (Get your \<domain-key\> value from the Admin Center Domains page)  <br/> |0  <br/> |
+    |**MAIL FOR ZONE**|**MAIL SERVER**|**PREF**|
+    |:-----|:-----|:-----|
+    |@  <br/> |\<domain-key\>.mail.protection.outlook.com (Get your \<domain-key\> value from the Admin Center Domains page)  <br/> |0  <br/> |
    
 2. If you want to save your other MX records for backup purposes, copy them down somewhere. Before moving on, remove all other MX records here.
     
@@ -139,12 +135,10 @@ You'll need to add all of the following DNS records at your registrar's website 
     ![Click the wrench icon to edit the DNS settings](../media/eca85ee8-1359-4563-ad89-75bc82099d9f.png)
   
 4. Enter the following records in the text fields:
-    
-1. 
 
-|**Host**|**Text**|
-|:-----|:-----|
-|@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> |
+    |**Host**|**Text**|
+    |:-----|:-----|
+    |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> |
    
 5. Choose **NEXT**. 
     
@@ -170,13 +164,12 @@ You'll need to add all of the following DNS records at your registrar's website 
     ![Click the wrench icon to edit the DNS settings](../media/eca85ee8-1359-4563-ad89-75bc82099d9f.png)
   
 4. Enter the following records in the text fields:
-    
-1. 
 
-|**SERVICE**|**PROTO**|**HOST**|**PRI**|**WGT**|**PORT**|**TARGET(Must end with a ".")**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|_sip  <br/> |TLS  <br/> |@  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> |1800  <br/> |
-|_sipfederationtls  <br/> |TCP  <br/> |@  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> |1800  <br/> |
+
+    |**SERVICE**|**PROTO**|**HOST**|**PRI**|**WGT**|**PORT**|**TARGET(Must end with a ".")**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |_sip  <br/> |TLS  <br/> |@  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> |1800  <br/> |
+    |_sipfederationtls  <br/> |TCP  <br/> |@  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> |1800  <br/> |
    
 5. Choose **NEXT**. 
     

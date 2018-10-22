@@ -41,7 +41,7 @@ These are the main records to add. (Need more help? [Still need help?](create-dn
 After you add these records at Azure, your domain will be set up to work with Office 365 services.
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Change your domain's nameserver (NS) records
 <a name="BKMK_NS"> </a>
@@ -98,11 +98,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (Select the **Type** and **TTL unit** values from the drop-down lists.) 
     
-|**Name**|**Type**|**TTL**|**TTL unit**|**Value**|
-|:-----|:-----|:-----|:-----|:-----|
-|@  <br/> |TXT  <br/> |1  <br/> |Hours  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**Name**|**Type**|**TTL**|**TTL unit**|**Value**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |@  <br/> |TXT  <br/> |1  <br/> |Hours  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-![Azure-BP-Verify-1-1](../media/7d5a253c-e88f-4565-a00a-79bba52f9970.png)
+    ![Azure-BP-Verify-1-1](../media/7d5a253c-e88f-4565-a00a-79bba52f9970.png)
   
 5. Choose **OK**.
   
@@ -148,10 +148,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** and **TTL unit** values from the drop-down lists.) 
     
-|**Name**|**Type**|**TTL**|**TTL unit**|**Preference**|**Mail Exchange**|
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|@  <br/> |MX  <br/> |1  <br/> |Hours  <br/> |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)     
-![Azure-BP-Configure-2-1](../media/712c23ae-9d38-4af2-94e0-0704e70744fe.png)
+    |**Name**|**Type**|**TTL**|**TTL unit**|**Preference**|**Mail Exchange**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|
+    |@  <br/> |MX  <br/> |1  <br/> |Hours  <br/> |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.   [How do I find this?](../get-help-with-domains/information-for-dns-records.md)  
+   
+    ![Azure-BP-Configure-2-1](../media/712c23ae-9d38-4af2-94e0-0704e70744fe.png)
   
 5. Choose **OK**.
     
@@ -196,12 +197,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** and **TTL unit** values from the drop-down lists.) 
     
-|**Name**|**Type**|**TTL**|**TTL unit**|**Alias**|
-|:-----|:-----|:-----|:-----|:-----|
-|autodiscover  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |autodiscover.outlook.com  <br/> |
-|sip  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |sipdir.online.lync.com  <br/> |
-|lyncdiscover  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |webdir.online.lync.com  <br/> |
-|msoid  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    |**Name**|**Type**|**TTL**|**TTL unit**|**Alias**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |autodiscover  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |autodiscover.outlook.com  <br/> |
+    |sip  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |sipdir.online.lync.com  <br/> |
+    |lyncdiscover  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |webdir.online.lync.com  <br/> |
+    |msoid  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |clientconfig.microsoftonline-p.net  <br/> |
    
     ![Azure-BP-Configure-3-1](../media/a1c4d869-da97-43b3-952c-d513a20231dc.png)
   
@@ -215,9 +216,10 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     Repeat this process until you have created all four CNAME records.
     
-7.  (Optional) Add 2 CNAME records for MDM
+7.  (Optional) Add 2 CNAME records for MDM.
+
 > [!IMPORTANT]
-    > If you have Mobile Device Management (MDM) for Office 365, then you must create two additional CNAME records. Follow the procedure that you used for the other four CNAME records, but supply the values from the following table. > (If you do not have MDM, you can skip this step.) 
+> If you have Mobile Device Management (MDM) for Office 365, then you must create two additional CNAME records. Follow the procedure that you used for the other four CNAME records, but supply the values from the following table. > (If you do not have MDM, you can skip this step.) 
   
 |**Name**|**Type**|**TTL**|**TTL unit**|**Alias**|
 |:-----|:-----|:-----|:-----|:-----|
@@ -246,11 +248,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** and **TTL unit** values from the drop-down lists.) 
     
-|**Name**|**Type**|**TTL**|**TTL unit**|**Value**|
-|:-----|:-----|:-----|:-----|:-----|
-|@  <br/> |TXT  <br/> |1  <br/> |Hours  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           
+    |**Name**|**Type**|**TTL**|**TTL unit**|**Value**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |@  <br/> |TXT  <br/> |1  <br/> |Hours  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           
 
-![Azure-BP-Configure-4-2](../media/78e84c43-e0ce-433f-8e74-9157fb093cca.png)
+    ![Azure-BP-Configure-4-2](../media/78e84c43-e0ce-433f-8e74-9157fb093cca.png)
   
 5. Choose **Save**.
     
@@ -277,14 +279,14 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** and **TTL unit** values from the drop-down lists.) 
     
-|**Name**|**Type**|**TTL**|**TTL unit**|**Priority**|**Weight**|**Port**|**Target**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|_sip._tls  <br/> |SRV  <br/> |1  <br/> |Hours  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
-|_sipfederationtls._tcp  <br/> |SRV  <br/> |1  <br/> |Hours  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> 
+    |**Name**|**Type**|**TTL**|**TTL unit**|**Priority**|**Weight**|**Port**|**Target**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |_sip._tls  <br/> |SRV  <br/> |1  <br/> |Hours  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
+    |_sipfederationtls._tcp  <br/> |SRV  <br/> |1  <br/> |Hours  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> 
 
-![Azure-BP-Configure-5-1](../media/a436e0b4-8bb8-4a66-9c22-4e3b2dcf54ff.png)
+    ![Azure-BP-Configure-5-1](../media/a436e0b4-8bb8-4a66-9c22-4e3b2dcf54ff.png)
   
-5. Choose ** OK **.
+5. Choose **OK**.
     
     ![Azure-BP-Configure-5-2](../media/a35b6c8a-d001-4b3c-8a67-96b4890e564c.png)
   
@@ -293,5 +295,5 @@ When Office 365 finds the correct TXT record, your domain is verified.
     In the boxes for the new record, type or copy and paste the values from the second row of the table.
     
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
