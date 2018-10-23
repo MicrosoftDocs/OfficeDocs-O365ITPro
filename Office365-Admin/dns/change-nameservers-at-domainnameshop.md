@@ -51,9 +51,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 6. In the boxes for the new record, type or copy and paste the values from the following table. 
     
-|**﻿Host name**|**﻿TTL**|**﻿RR Type**|**﻿Data**|
+|**Host name**|**TTL**|**RR Type**|**Data**|
 |:-----|:-----|:-----|:-----|
-|﻿(leave blank)  <br/> |1 hour  <br/> |﻿TXT  <br/> |MS=msXXXXXXXX  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|(leave blank)  <br/> |1 hour  <br/> |TXT  <br/> |MS=msXXXXXXXX  This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)<br/>      |
    
    ![TXT record in Domainnameshop](../media/f2ec5943-5b8d-4028-90f8-4a1344264e68.png)
   
@@ -83,7 +83,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Change your nameservers
-<a name="bkmk_ns"> </a>
 
 1. Log in to the control panel at [https://www.domainnameshop.com/login](https://www.domainnameshop.com/login).
     
