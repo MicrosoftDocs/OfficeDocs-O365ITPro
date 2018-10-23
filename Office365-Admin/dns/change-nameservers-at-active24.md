@@ -119,6 +119,8 @@ To complete setting up your domain with Office 365, you change your domain's NS 
     ![Active24-BP-Redelegate-1-3](../media/2887993a-ff6d-4e3d-a0da-7ec5f6be45c9.png)
   
 6. Still in the **Nameservers** section, in the **Nameserver1** to **Nameserver4** boxes, type or copy and paste the values from the following table. Leave the **Ipv4** field empty for each nameserver.
+
+
  |||
  |:-----|:-----|
  |**Nameservers** <br/> |**Hostname** <br/> |
