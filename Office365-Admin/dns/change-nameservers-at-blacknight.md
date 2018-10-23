@@ -59,9 +59,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (Select the **DNS Record Type** value from the drop-down list.) 
     
-||||
-|**DNS Record Type**|**Domain**|**Data**|**TTL**|
+|||
 |:-----|:-----|:-----|:-----|
+|**DNS Record Type** <br/> |**Domain** <br/> |**Data** <br/> |**TTL** <br/> |
 |TXT  <br/> |(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> 
 > [!NOTE] 
 > This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Select **Custom** and enter the value **3600**.  <br/> |

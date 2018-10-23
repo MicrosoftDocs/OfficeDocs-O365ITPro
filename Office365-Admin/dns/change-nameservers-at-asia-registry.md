@@ -68,11 +68,12 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Host**|**Type**|**Content**|
-|:-----|:-----|:-----|
-|@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> 
+  |**Host**|**Type**|**Content**|
+  |:-----|:-----|:-----|
+  |@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> |
 
-> [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+> [!NOTE]
+> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)         
    
    ![AsiaRegistry-BP-Verify-1-1](../media/a9e44f32-8a50-4b58-ad97-b87bb618bd77.png)
   
@@ -142,13 +143,14 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 1. In the **Host Name** area, type or copy and paste the **Host Name** values from the following table. 
  
 |||   
-|**Host Name**|**IP Address**|
 |:-----|:-----|
+|**Host Name** <br/> |**IP Address** <br/>|
 |ns1.bdm.microsoftonline.com  <br/> |(Leave this field empty.)  <br/> |
 |ns2.bdm.microsoftonline.com  <br/> |(Leave this field empty.)  <br/> |
 |ns3.bdm.microsoftonline.com  <br/> |(Leave this field empty.)  <br/> |
 |ns4.bdm.microsoftonline.com  <br/> |(Leave this field empty.)  <br/> |
 |||
+
    
    ![AsiaRegistry-BP-Redelegate-1-3-1](../media/1402ab51-7974-4bd8-891d-0d3cd61e6a18.png)
   
