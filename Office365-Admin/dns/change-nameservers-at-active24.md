@@ -130,6 +130,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
  |**Nameserver4**  <br/> |ns4.bdm.microsoftonline.com  <br/> |
  |||
 
+
    
    ![Active24-BP-Redelegate-1-4](../media/374aad76-a104-48ab-ab87-5cb939999c58.png)
   
