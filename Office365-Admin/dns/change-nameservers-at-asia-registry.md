@@ -70,10 +70,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
   |**Host**|**Type**|**Content**|
   |:-----|:-----|:-----|
-  |@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> |
+  |@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX* This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |
 
-> [!NOTE]
-> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)         
+
    
    ![AsiaRegistry-BP-Verify-1-1](../media/a9e44f32-8a50-4b58-ad97-b87bb618bd77.png)
   

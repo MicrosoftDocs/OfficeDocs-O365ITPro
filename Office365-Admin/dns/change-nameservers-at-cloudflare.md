@@ -92,13 +92,13 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 |**Record Type**|**Alias or Host Name**|**Value**|**TTL**|
 |:-----|:-----|:-----|:-----|
-|TXT  <br/> |(Type or copy and paste either ** @ ** or your ** *domain_name* **.)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Set this value to **1 hour** or to the equivalent in minutes ( **60**), sections ( **3600**), and so on.  <br/> |
+|TXT  <br/> |(Type or copy and paste either ** @ ** or your ** *domain_name* **.)  <br/> |MS=ms *XXXXXXXX*  This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)<br/>  |Set this value to **1 hour** or to the equivalent in minutes ( **60**), sections ( **3600**), and so on.  <br/> |
    
 2. If you create an **MX** record, use the values in the following table. 
     
 |**Record Type**|**Alias or Host Name**|**Value**|**Priority**|**TTL**|
 |:-----|:-----|:-----|:-----|:-----|
-|MX|(Type or copy and paste either ** @ ** or your ** *domain_name* **.) |MS=ms *XXXXXXXX* > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |For **Priority**, to avoid conflicts with the MX record used for mail flow, use a lower priority for any existing MX records.|Set this value to **1 hour** or to the equivalent in minutes ( **60**), sections ( **3600**), and so on.|
+|MX|(Type or copy and paste either ** @ ** or your ** *domain_name* **.) |MS=ms *XXXXXXXX* This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |For **Priority**, to avoid conflicts with the MX record used for mail flow, use a lower priority for any existing MX records.|Set this value to **1 hour** or to the equivalent in minutes ( **60**), sections ( **3600**), and so on.|
    
 3. Save the record.
     
