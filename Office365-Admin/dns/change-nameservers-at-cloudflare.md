@@ -34,14 +34,6 @@ Follow these procedures if at least one of the following three statements descri
     
     Your domain is hosted at a DNS hosting provider or domain registrar that is not listed in the article [How to buy a domain name](../get-help-with-domains/buy-a-domain-name.md).
     
-Here's what you need to do. (Need more help? [Get support](https://support.office.com/article/fb8b07ce-6d9d-4616-96f0-20b093911531e.aspx#BKMK_NeedHelp).)
-  
-- [Delete your Cloudflare domain](fb8b07ce-6d9d-4616-96f0-20b093911531.md#BKMK_delete)
-    
-- [Add a TXT or MX record for verification](fb8b07ce-6d9d-4616-96f0-20b093911531.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](fb8b07ce-6d9d-4616-96f0-20b093911531.md#BKMK_nameservers)
-    
 ## Delete your Cloudflare domain
 
 When you signed up for Cloudflare, you added a domain by using the **Add Domains** process. 
