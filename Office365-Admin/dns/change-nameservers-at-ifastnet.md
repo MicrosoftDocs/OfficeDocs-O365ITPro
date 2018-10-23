@@ -22,14 +22,6 @@ description: "Learn how you can set up Office 365 to manage the DNS records of y
 
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for.
   
-Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at iFastNet](create-dns-records-at-ifastnet.md).)
-  
-([Still need help?](change-nameservers-at-ifastnet.md#BKMK_NeedHelp))
-  
-- [Add a TXT record for verification](change-nameservers-at-ifastnet.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-ifastnet.md#BKMK_nameservers)
-    
 ## Add a TXT record for verification
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.

@@ -28,11 +28,6 @@ description: "Learn how you can set up Office 365 to manage the DNS records of y
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at IP Mirror](create-dns-records-at-ip-mirror.md).)
   
-Here's what you need to do. ([Still need help?](change-nameservers-at-ip-mirror.md#BKMK_NeedHelp))
-  
-- [Add a TXT record for verification](change-nameservers-at-ip-mirror.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-ip-mirror.md#BKMK_nameservers)
     
 ## Add a TXT record for verification
 

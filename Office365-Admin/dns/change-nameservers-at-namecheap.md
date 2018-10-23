@@ -24,11 +24,6 @@ description: "Learn to set up your Office 365 custom domain with Namecheap if yo
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Namecheap](create-dns-records-at-namecheap.md).)
   
-Here's what you need to do. ([Still need help?](create-dns-records-at-1-1-internet.md#BKMK_NeedHelp))
-  
-- [Add a TXT record for verification](change-nameservers-at-namecheap.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-namecheap.md#BKMK_nameservers)
     
 ## Add a TXT record for verification
 

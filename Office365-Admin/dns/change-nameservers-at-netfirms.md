@@ -28,11 +28,6 @@ description: "Learn to set up your Office 365 custom domain with Netfirms if you
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Netfirms](create-dns-records-at-netfirms.md).)
   
-Here's what you need to do. (Need more help? [Still need help?](change-nameservers-at-netfirms.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](change-nameservers-at-netfirms.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-netfirms.md#BKMK_nameservers)
     
 ## Add a TXT record for verification
 
@@ -57,6 +52,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|
 |**Content** <br/> |
 |MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |
+||
    
 7. Choose **Add**.
     
