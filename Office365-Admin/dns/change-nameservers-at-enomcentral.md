@@ -58,7 +58,7 @@ Follow the steps below or [watch the video (start at 0:46)](https://support.offi
 ||||
 |:-----|:-----|:-----|
 |**Host Name** <br/> |**Record Type** <br/> |**Address** <br/> |
-|@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/>    |
+|@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/>    |
    
    ![eNom-BP-Verify-1-2](../media/e1f95529-46a6-40f9-9709-9fe66f373bcf.png)
   

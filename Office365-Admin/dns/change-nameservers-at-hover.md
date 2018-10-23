@@ -58,7 +58,7 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
 ||||
 |:-----|:-----|:-----|
 |Hostname  <br/> |Record Type  <br/> |Value  <br/> |
-|@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)    <br/>    |
+|@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)    <br/>    |
    
    ![Type or copy and paste DNS values](../media/3b0d19f9-4138-47a7-aab2-137ad120ded6.png)
   

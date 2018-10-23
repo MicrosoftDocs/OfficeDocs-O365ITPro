@@ -52,7 +52,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 |**Name**|**Type**|**Value**|**Comment**|
 |:-----|:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/>   |(This field is optional.)  <br/> |
+|(Leave this field empty.)  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/>   |(This field is optional.)  <br/> |
    
    ![Dreamhost-BP-Verify-1-1](../media/ed4a7d43-eeeb-4ec8-849c-37f81315dc69.png)
   

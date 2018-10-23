@@ -98,14 +98,14 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |||
 |:-----|:-----|:-----|:-----|
 |**Record Type** <br/> |**Alias or Host Name** <br/> |**Value** <br/> |**TTL** <br/> |
-|TXT  <br/> |(Type or copy and paste either **@** or your  *domain_name*  .)  <br/> |MS=ms *XXXXXXXX*  <br/> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  <br/> |
+|TXT  <br/> |(Type or copy and paste either **@** or your  *domain_name*  .)  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  <br/> |
    
 2. If you create an **MX** record, use these values: 
     
 |||
 |:-----|:-----|:-----|:-----|:-----|
 |**Record Type** <br/> |**Alias or Host Name** <br/> |**Value** <br/> |**Priority** <br/> |**TTL** <br/> |
-|MX  <br/> |(Type or copy and paste either **@** or your  *domain_name*  .)  <br/> |MS=ms *XXXXXXXX*  <br/> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |For **Priority**, to avoid conflicts with the MX record used for mail flow, use a lower priority than the priority for any existing MX records.  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  <br/> |
+|MX  <br/> |(Type or copy and paste either **@** or your  *domain_name*  .)  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |For **Priority**, to avoid conflicts with the MX record used for mail flow, use a lower priority than the priority for any existing MX records.  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  <br/> |
    
 3. Save the record.
     

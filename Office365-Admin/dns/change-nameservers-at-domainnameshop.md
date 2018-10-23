@@ -53,7 +53,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 |**Host name**|**TTL**|**RR Type**|**Data**|
 |:-----|:-----|:-----|:-----|
-|(leave blank)  <br/> |1 hour  <br/> |TXT  <br/> |MS=msXXXXXXXX  This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)<br/>      |
+|(leave blank)  <br/> |1 hour  <br/> |TXT  <br/> |MS=msXXXXXXXX  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)<br/>      |
    
    ![TXT record in Domainnameshop](../media/f2ec5943-5b8d-4028-90f8-4a1344264e68.png)
   

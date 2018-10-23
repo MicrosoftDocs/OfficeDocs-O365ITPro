@@ -50,7 +50,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 |**Record type**|**Hostname**|**Comment**|
 |:-----|:-----|:-----|
-|TXT  <br/> |(Leave this field blank.)  <br/> |MS=ms *XXXXXXXX* This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)           <br/> |
+|TXT  <br/> |(Leave this field blank.)  <br/> |MS=ms *XXXXXXXX* <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)           <br/> |
    
    ![DomainMonster-BP-Verify-1-1](../media/32e7e4ef-f51b-44ed-b5ad-a1508a95e82b.png)
   

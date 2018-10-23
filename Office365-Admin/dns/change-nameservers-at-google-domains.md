@@ -54,7 +54,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |||||
 |:-----|:-----|:-----|:-----|
 |**Name** <br/> |**Type** <br/> |**TTL** <br/> |**Data** <br/> |
-|@  <br/> |TXT  <br/> |1H  <br/> |MS=ms *XXXXXXXX* This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)       <br/>  |
+|@  <br/> |TXT  <br/> |1H  <br/> |MS=ms *XXXXXXXX* <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)       <br/>  |
    
 4. Choose **Add**.
     

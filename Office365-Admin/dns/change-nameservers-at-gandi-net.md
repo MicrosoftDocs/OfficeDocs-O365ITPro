@@ -113,7 +113,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 |**Type**|**TTL**|**Name**|**Value**|
 |:-----|:-----|:-----|:-----|
-|TXT  <br/> |1 hours  <br/> |@  <br/> |MS=ms *XXXXXXXX*  This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)  <br/>  |
+|TXT  <br/> |1 hours  <br/> |@  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)  <br/>  |
    
    ![GandiNet-BP-Verify-1-1](../media/81376f64-3206-4eaa-9ca2-ba0d89266393.png)
   

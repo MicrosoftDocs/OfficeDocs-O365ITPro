@@ -61,7 +61,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 |**Host**|**TTL**|**Type**|**Data**|
 |:-----|:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |600  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.       [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/>   |
+|(Leave this field empty.)  <br/> |600  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.       [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/>   |
    
    ![Dyn-BP-Verify-1-1](../media/b3730b15-a313-4b4c-b91e-646eebb649e8.png)
   

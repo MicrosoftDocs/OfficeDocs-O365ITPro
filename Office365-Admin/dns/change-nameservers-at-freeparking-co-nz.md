@@ -77,7 +77,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 |**Host Name**|**Record Type**|**Data**|
 |:-----|:-----|:-----|
-|Use your domain name (for example, fourthcoffee.com)  <br/> |Descriptive (TXT)  <br/> |MS=ms *XXXXXXXX* This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)  <br/>  |
+|Use your domain name (for example, fourthcoffee.com)  <br/> |Descriptive (TXT)  <br/> |MS=ms *XXXXXXXX* <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)  <br/>  |
    
    ![FreeparkingNZ-BP-Verify-1-1](../media/927e8240-9cba-4431-bbc0-a016f5a44d0b.png)
   
