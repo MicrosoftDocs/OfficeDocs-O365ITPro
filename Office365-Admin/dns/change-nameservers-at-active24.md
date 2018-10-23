@@ -122,11 +122,12 @@ To complete setting up your domain with Office 365, you change your domain's NS 
  |||
  |:-----|:-----|
  |**Nameservers** <br/> |**Hostname** <br/> |
- |**Nameserver1**  <br/> ns1.bdm.microsoftonline.com  <br/> |
- |**Nameserver2**  <br/> ns2.bdm.microsoftonline.com  <br/> |
- |**Nameserver3**  <br/> ns3.bdm.microsoftonline.com  <br/> |
- |**Nameserver4**  <br/> ns4.bdm.microsoftonline.com  <br/> |
+ |**Nameserver1**  <br/> |ns1.bdm.microsoftonline.com  <br/> |
+ |**Nameserver2**  <br/> |ns2.bdm.microsoftonline.com  <br/> |
+ |**Nameserver3**  <br/> |ns3.bdm.microsoftonline.com  <br/> |
+ |**Nameserver4**  <br/> |ns4.bdm.microsoftonline.com  <br/> |
  |||
+
    
    ![Active24-BP-Redelegate-1-4](../media/374aad76-a104-48ab-ab87-5cb939999c58.png)
   
