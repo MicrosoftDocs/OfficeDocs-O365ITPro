@@ -62,9 +62,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |||
 |:-----|:-----|:-----|:-----|
 |**DNS Record Type** <br/> |**Domain** <br/> |**Data** <br/> |**TTL** <br/> |
-|TXT  <br/> |(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> 
-> [!NOTE] 
-> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Select **Custom** and enter the value **3600**.  <br/> |
+|TXT  <br/> |(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  NOTE: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/>    |Select **Custom** and enter the value **3600**.  <br/> |
    
    ![Blacknight-BP-Verify-1-1](../media/b6c3c40b-d2ed-4efe-95ad-1213d57aae94.png)
   
