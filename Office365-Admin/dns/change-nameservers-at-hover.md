@@ -28,12 +28,6 @@ description: "Learn how you can set up Office 365 to manage the DNS records of y
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Hover](create-dns-records-at-hover.md).)
   
-Here's what you need to do. Follow the steps below or [watch the video](https://support.office.com/en-us/article/Video-Change-nameservers-to-set-up-Office-365-with-Hover-cc465fa7-0d19-439b-bca2-52d90b5e56a2?ui=en-US&amp;rs=en-US&amp;ad=US). ([Still need help?](change-nameservers-at-hover.md#BKMK_NeedHelp))
-  
-- [Add a TXT record at Hover to verify that you own the domain](change-nameservers-at-hover.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-hover.md#BKMK_nameservers)
-    
 ## Add a TXT record at Hover to verify that you own the domain
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
@@ -64,7 +58,7 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
 ||||
 |:-----|:-----|:-----|
 |Hostname  <br/> |Record Type  <br/> |Value  <br/> |
-|@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)    <br/>    |
    
    ![Type or copy and paste DNS values](../media/3b0d19f9-4138-47a7-aab2-137ad120ded6.png)
   

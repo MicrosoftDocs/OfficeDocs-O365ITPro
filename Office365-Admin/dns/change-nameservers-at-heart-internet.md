@@ -28,11 +28,6 @@ description: "Learn how you can set up Office 365 to manage the DNS records of y
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Heart Internet](create-dns-records-at-heart-internet.md).)
   
-Here's what you need to do. ([Still need help?](change-nameservers-at-heart-internet.md#BKMK_NeedHelp))
-  
-- [Add a TXT record for verification](change-nameservers-at-heart-internet.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-heart-internet.md#BKMK_nameservers)
     
 ## Add a TXT record for verification
 
@@ -56,7 +51,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |||
 |:-----|:-----|
 |**Subdomain** <br/> |**Text** <br/> |
-|(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX* This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)      <br/>   |
    
 6. Choose **Update DNS**.
     
