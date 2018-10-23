@@ -19,7 +19,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 31efc571-c8b9-46fb-b42d-203c2fb25289
-description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when 22.cn is the DNS hosting provider."
+description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when 1&1 Internet is the DNS hosting provider."
 ---
 
 # Change nameservers to set up Office 365 with 1&amp;1 Internet

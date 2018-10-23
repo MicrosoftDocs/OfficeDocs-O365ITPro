@@ -3,7 +3,6 @@ title: "Do an admin takeover in Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -58,6 +57,6 @@ description: "Learn to verify your email and domain ownership to become the admi
 
 YouTube: [3 steps to do an IT Admin Takeover for Power BI and Office 365](https://www.youtube.com/watch?v=xt5EsrQBZZk)
   
-[Become an admin in Office 365 Education](become-admin.md)
+[Become an admin in Office 365 Education](https://go.microsoft.com/fwlink/?LinkId=512141)
   
 

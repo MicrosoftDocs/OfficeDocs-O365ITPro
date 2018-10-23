@@ -69,10 +69,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (Choose the **Type** value from the drop-down list.) 
     
-|||||
-|:-----|:-----|:-----|:-----|
-|**Name** <br/> |**Type** <br/> |**TTL** <br/> |**Data** <br/> |
-|@  <br/> |TXT  <br/> |1H  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |||||
+    |:-----|:-----|:-----|:-----|
+    |**Name** <br/> |**Type** <br/> |**TTL** <br/> |**Data** <br/> |
+    |@  <br/> |TXT  <br/> |1H  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
 4. Choose **Add**.
     
@@ -105,28 +105,28 @@ When Office 365 finds the correct TXT record, your domain is verified.
 3. Enter your login credentials, and then again choose **Sign In**.
 4. On the **Domains** page, in the **Domain** section, choose **Configure DNS** for the domain that you want to edit.
     
-> [!IMPORTANT]
+    > [!IMPORTANT]
     > If you have a G Suite email account, you must first delete the MX records associated with that account. The G Suite MX records prevent you from adding any other MX records, including those required for Office 365. Note that deleting the G Suite records does not delete your G Suite account. To delete your G Suite MX records, use the following steps. 
   
-1. In the **Synthetic records** section, in the **G Suite** area, choose **Delete**.
+5. In the **Synthetic records** section, in the **G Suite** area, choose **Delete**.
     
     (You may have to scroll down.)
     
     ![Click Delete in the Synthetic records section](../media/bd276b5d-5667-4bb1-a233-2dc5194e7ace.png)
   
-2. Choose **Delete**.
+6. Choose **Delete**.
     
     ![Click Delete](../media/4413a45a-5b82-4ec6-82c6-0091f5be9696.png)
   
-4. In the **Custom resource records** section, in the boxes for the new record, type or copy and paste the values from the following table. 
+7. In the **Custom resource records** section, in the boxes for the new record, type or copy and paste the values from the following table. 
     
     (You may have to scroll down.)
     
     (Choose the **Type** value from the drop-down list.) 
     
-|**Name**|**Type**|**TTL**|**Data**|
-|:-----|:-----|:-----|:-----|
-|@  <br/> |MX  <br/> |1H  <br/> |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> The **0** is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    |**Name**|**Type**|**TTL**|**Data**|
+    |:-----|:-----|:-----|:-----|
+    |@  <br/> |MX  <br/> |1H  <br/> |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> The **0** is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **Note:** Get your \< *domain-key*  \> from your Office 365 portal account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
     ![Type or paste values in the Custom resource records section](../media/b660ca9e-984d-449f-ae59-a65fe4e2c6bd.png)
   
@@ -169,14 +169,14 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Choose the **Type** value from the drop-down list.) 
     
-|**Name**|**Type**|**TTL**|**Data**|
-|:-----|:-----|:-----|:-----|
-|autodiscover  <br/> |CNAME  <br/> |1H  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|sip  <br/> |CNAME  <br/> |1H  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|lyncdiscover  <br/> |CNAME  <br/> |1H  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|msoid  <br/> |CNAME  <br/> |1H  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
-|enterpriseregistration  <br/> |CNAME  <br/> |1H  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
-|enterpriseenrollment  <br/> |CNAME  <br/> |1H  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |**Name**|**Type**|**TTL**|**Data**|
+    |:-----|:-----|:-----|:-----|
+    |autodiscover  <br/> |CNAME  <br/> |1H  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |sip  <br/> |CNAME  <br/> |1H  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |lyncdiscover  <br/> |CNAME  <br/> |1H  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |msoid  <br/> |CNAME  <br/> |1H  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
+    |enterpriseregistration  <br/> |CNAME  <br/> |1H  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
+    |enterpriseenrollment  <br/> |CNAME  <br/> |1H  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
    ![Type or paste values in the Custom resource records section](../media/cff9832a-6d57-421f-a183-55320974ed87.png)
   
@@ -202,33 +202,33 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. Enter your login credentials, and then again choose **Sign In**.
     
-2. On the **Domains** page, in the **Domain** section, choose **Configure DNS** for the domain that you want to edit. 
+3. On the **Domains** page, in the **Domain** section, choose **Configure DNS** for the domain that you want to edit. 
     
-3. In the **Custom resource records** section, on the TXT record row, choose **Edit**. 
+4. In the **Custom resource records** section, on the TXT record row, choose **Edit**. 
     
     > [!IMPORTANT]
     > Google Domains stores TXT records as a set that may contain multiple records. When you have at least one other TXT record, such as the TXT record you used to verify your domain, you must add TXT new records to that record set. Any attempt to enter additional TXT records as separate entries will result in a **Duplicate record** error message. 
   
     ![Click Edit in the TXT record row](../media/eae14850-8d0c-4f29-8587-df8b36129d5f.png)
   
-4. Choose the **(+)** control. 
+5. Choose the **(+)** control. 
     
     ![Click the plus control](../media/628604cc-d2b2-42a5-bb5b-13c327b85d9f.png)
   
-5. In the boxes for the new record, type or copy and paste the values from the following table.
+6. In the boxes for the new record, type or copy and paste the values from the following table.
     
     (You may have to scroll down.)
     
-|**Data**|
-|:-----|
-|v=spf1 include:spf.protection.outlook.com -all  <br/> 
+    |**Data**|
+    |:-----|
+    |v=spf1 include:spf.protection.outlook.com -all  <br/> 
 
-> [!NOTE]
-> We recommend copying and pasting this entry, so that all of the spacing stays correct.           
+    > [!NOTE]
+    > We recommend copying and pasting this entry, so that all of the spacing stays correct.           
    
    ![Type or paste values in the Custom resource records section](../media/4645cc4f-9fcc-4626-9674-072ed6fa34c2.png)
   
-6. Choose **Save**.
+7. Choose **Save**.
     
     ![Click Save](../media/20c4c926-f062-4048-9265-bf752be54e0c.png)
   
@@ -237,13 +237,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
 
 1. To get started, go to your domains page at Google Domains by using [this link](https://domains.google.com/registrar). You'll be prompted to sign in. To do so:
     
-1. Choose **Sign In**.
+2. Choose **Sign In**.
     
-2. Enter your login credentials, and then again choose **Sign In**.
+3. Enter your login credentials, and then again choose **Sign In**.
     
-2. On the **Domains** page, in the **Domain** section, choose **Configure DNS** for the domain that you want to edit. 
+4. On the **Domains** page, in the **Domain** section, choose **Configure DNS** for the domain that you want to edit. 
     
-3. Add the first SRV record.
+5. Add the first SRV record.
     
     In the **Custom resource records** section, in the boxes for the new record, type or copy and paste the values from the following table. 
     
@@ -251,23 +251,23 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Choose the **Type** value from the drop-down list.) 
     
-|**Name**|**Type**|**TTL**|**Data**|
-|:-----|:-----|:-----|:-----|
-|_sip._tls|SRV|1H|100 1 443 sipdir.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
-|_sipfederationtls._tcp|SRV|1H|100 1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**
+    |**Name**|**Type**|**TTL**|**Data**|
+    |:-----|:-----|:-----|:-----|
+    |_sip._tls|SRV|1H|100 1 443 sipdir.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |_sipfederationtls._tcp|SRV|1H|100 1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**
 
-> We recommend copying and pasting this entry, so that all of the spacing stays correct.       
+    We recommend copying and pasting this entry, so that all of the spacing stays correct.       
    
    ![Type or paste values in the Custom resource records section](../media/429d06a9-c0af-4961-b7d2-7a8dea6db37e.png)
   
-4. Choose **Add**.
+6. Choose **Add**.
     
     ![Click Add](../media/89df6efd-e641-4441-baa2-d9a890424569.png)
   
-5. Add the other SRV record.
+7. Add the other SRV record.
     
     In the **Custom resource records** section, create a record by using the values from the second row in the table, and then again choose **Add** to complete that record. 
     
-> [!NOTE]
-> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
+    > [!NOTE]
+    > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
   

@@ -23,9 +23,7 @@ description: "Learn to track down any problems you run into while setting up a c
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
   
 Getting your domain set up to work with Office 365 can be challenging. The DNS system is nitpicky to work with, and the DNS setup for your domain affects important business activities, like email!
-  
-> [!TIP]
-> We can help you fix this! [Still need help?](find-and-fix-issues.md#BKMK_GetHelp). 
+
   
 ## What's going on?
 
@@ -50,7 +48,7 @@ There are a couple of common reasons that domain verification doesn't work as it
     
 2. **The record hasn't been saved.** At some DNS hosts, you have to take an extra step to save the zone file (where the DNS record is stored) so that it will update across the Internet. Make sure you've saved your changes so Office 365 can see and verify the record. 
     
-3. **The record hasn't updated across the Internet.** It typically only takes a few minutes for us to be able to see the new record, but occasionally it can take as long as a few hours. If you've waited longer than that, and you're sure the record value is correct, please [Still need help?](find-and-fix-issues.md#BKMK_GetHelp) so we can help sort out whatever's wrong. 
+3. **The record hasn't updated across the Internet.** It typically only takes a few minutes for us to be able to see the new record, but occasionally it can take as long as a few hours. 
     
 ## Outlook isn't working?
 <a name="BKMK_OutlookBroken"> </a>
@@ -70,8 +68,6 @@ What if you don't want to move email for everyone on your domain to Office 365? 
 There are a couple of scenarios when you just need to verify your organization's domain and not set up any services. For example, to prove to Office 365 that your organization qualifies for a school subscription.
   
 Check out the guidance in [Verify your Office 365 domain to prove ownership, nonprofit or education status, or to activate Yammer](https://support.office.com/article/87d1844e-aa47-4dc0-a61b-1b773fd4e590) to make sure you've completed all the required steps. It's a little different for each situation. 
-  
-If you've followed all the steps and Office 365 isn't validating your status or letting you complete the process, you'll need to [Still need help?](find-and-fix-issues.md#BKMK_GetHelp) to see what's going on and resolve the issue. 
   
 ## Services not working with your domain?
 <a name="BKMK_Test"> </a>

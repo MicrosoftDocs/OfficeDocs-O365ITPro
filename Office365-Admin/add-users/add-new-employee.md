@@ -25,14 +25,14 @@ You're in the right place if your new employee needs Office 365, and you're usin
   
  **No Office apps in your plan?** Follow the steps below, but skip the sections for installing apps. Use the [Online versions of Office](https://support.office.com/article/91a4ec74-67fe-4a84-a268-f6bdf3da1804.aspx) instead. 
   
-Here's a quick overview:
+Here's a quick overview: 
   
 |**Step**|**Why do this?**|
 |:-----|:-----|
-|[Step 1: Create an Office 365 account for the employee](add-new-employee.md#step1) <br/> |Each time a new employee joins your business, create an account for them so they can start using Office 365.  <br/> |
-|[Step 2: Give the employee their Office 365 user ID and password](add-new-employee.md#Step2) <br/> |When you create an account, you'll get an ID and password that you can pass to your employee so they can sign in.  <br/> |
-|[Step 3: Explain where to sign in to Office 365](add-new-employee.md#Step3) <br/> |The sign in location is [https://www.office.com](https://www.office.com) <br/> |
-|[Step 4: Help your employee get started](add-new-employee.md#Step4) <br/> |Let your employee know how to use OneDrive or any team sites in your organization.  <br/> |
+|[Step 1: Create an Office 365 account for the employee](#step-1:-create-an-office-365-account-for-the-employee) <br/> |Each time a new employee joins your business, create an account for them so they can start using Office 365.  <br/> |
+|[Step 2: Give the employee their Office 365 user ID and password](#step-2:-give-the-employee-their-office-365-user-id-and-password) <br/> |When you create an account, you'll get an ID and password that you can pass to your employee so they can sign in.  <br/> |
+|[Step 3: Explain where to sign in to Office 365](#step-3:-explain-where-to-sign-in-to-office-365) <br/> |The sign in location is [https://www.office.com](https://www.office.com) <br/> |
+|[Step 4: Help your employee get started](#step-4:-help-your-employee-get-started) <br/> |Let your employee know how to use OneDrive or any team sites in your organization.  <br/> |
    
 ## Step 1: Create an Office 365 account for the employee
 

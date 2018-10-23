@@ -19,12 +19,12 @@ description: "Learn about the latest in the Microsoft 365 Admin Center preview."
 
 The new Microsoft 365 admin center is built for IT teams as a simplified way to manage your Microsoft 365 and Office 365 services. The admin center provides a tailored experience based on the unique needs of your role or organization, improves efficiency for everyday tasks, and provides actionable insights that help you make data-driven decisions to deliver a better experience for your users.
   
-The Microsoft 365 admin center is the common entry point for all Microsoft 365 and Office 365 admins and can be accessed at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2024339). Specialist workspaces, like Security or Device management, allow for more granular control. For more information about how the admin centers will work together, see [What about the specific types of IT roles and other workspaces like Security, Device Management, or Exchange?](microsoft-365-admin-center-preview.md#bkmk-otherworkspaces) later in this article. 
+The Microsoft 365 admin center is the common entry point for all Microsoft 365 and Office 365 admins and can be accessed at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2024339). Specialist workspaces, like Security or Device management, allow for more granular control. For more information about how the admin centers will work together, see [What about the specific types of IT roles and other workspaces like Security, Device Management, or Exchange?](#what-about-the-specific-types-of-it-roles-and-other-workspaces-like-security-device-management-or-exchange) later in this article. 
   
 As new features become available in the Microsoft 365 admin center, you'll be able to opt in to the preview and share your feedback with Microsoft so that we can continue to improve the admin experience. If you opt in to the preview, there will be no impact to your users, and you can switch back to the classic admin center at any time.
   
 > [!NOTE]
-> Targeted release admins will have first access to new features in preview. New features in preview will then roll out to all admins. This means that you may not see the preview or it may look different than what is described in help articles. To be among the first to see new features, see [Participate in the preview](microsoft-365-admin-center-preview.md#bkmk-GetPreview) later in this article. 
+> Targeted release admins will have first access to new features in preview. New features in preview will then roll out to all admins. This means that you may not see the preview or it may look different than what is described in help articles. To be among the first to see new features, see Participate in the preview, below. 
     
 ## Participate in the preview
 
@@ -83,7 +83,7 @@ We're continuously adding new features to the Microsoft 365 admin center, fixing
   
   - You can perform quick tasks like resetting passwords for single or multiple users directly from the list view.
     
-  - The User's details and settings are now organized by the following tabs: **Account**, **Devices**, **Licenses**, **Apps**, **Mail**, and **OneDrive**. Previously, many of these settings were located across multiple screens. <br/>![Users detail pane in the admin center preview.](media/60c6b9d3-d62f-4b8d-97db-41ff247b1bf0.png)<br/>Curious to know how the classic admin center tasks map to the preview admin center? Check out [User management](microsoft-365-admin-center-preview.md#bkmk-doitUsermgmt) later in this article. 
+  - The User's details and settings are now organized by the following tabs: **Account**, **Devices**, **Licenses**, **Apps**, **Mail**, and **OneDrive**. Previously, many of these settings were located across multiple screens. <br/>![Users detail pane in the admin center preview.](media/60c6b9d3-d62f-4b8d-97db-41ff247b1bf0.png)<br/>Curious to know how the classic admin center tasks map to the preview admin center? Check out [User management](#user-management) later in this article. 
     
 - The **Services and add-ins** page has been updated to the new look and feel, but everything else works exactly the same. Of course, you should check out the command bar to see what new things you can do, like filtering and changing the list to compact view. In the navigation pane, go to **Settings** \> **Services &amp; add-ins** to check it out. <br/>![Settings and add-ins page in Microsoft 365 admin center preview](media/af9a3ed3-bfe6-438b-b4b5-2ca4164f8e3f.png)
   

@@ -3,7 +3,6 @@ title: "Plan for multi-factor authentication for Office 365 Deployments"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: conceptual
 ms.service: o365-administration
@@ -54,7 +53,6 @@ You get a different subset of capabilities depending on whether you have a cloud
 |Cloud only  <br/> |Azure Active Directory MFA (text or phone call)  <br/> |
 |Hybrid setup, managed on-premises  <br/> | If you manage user identity on-premises, you have the following choices:  <br/>  Physical or virtual smart card (AD FS)  <br/> [Azure MFA](https://go.microsoft.com/fwlink/p/?LinkId=526677) (module for AD FS)  <br/>  Azure AD MFA  <br/> |
    
-You can also use any other MFA solutions that are offered with your on-premises directory. For example, other [identity providers that are compatible with Azure AD federation](https://go.microsoft.com/fwlink/p/?LinkId=510953) might offer different MFA solutions that you can manage according to the identity provider's specifications. 
   
 The following figure shows how the updated Office 2013 device apps (on Windows) enable users to sign in with MFA. TheOffice 2013 device apps support multi-factor authentication through the use of the [Active Directory Authentication Library (ADAL)](https://go.microsoft.com/fwlink/p/?LinkId=526684). Azure AD hosts a webpage where users can sign in. The identity provider can be Azure AD or a federated identity provider like AD FS. The authentication for federated users follows these steps:
   
@@ -85,7 +83,6 @@ To determine whether your Office installation is Click-to-run or MSI-base:
     ![Graphic that shows how to tell if Office 2013 install is click-to-run or MSI-based](../media/1e75143f-9e37-4e0c-9610-43a80771571e.png)
   
 ### Click-to-run based installations
-<a name="BK_ClickToRun"> </a>
 
 For Click-to-run based installations, you must have the following software installed, at file version listed below or a later file version. If your file version is not equal to or greater than the file version listed, update it using the steps below.
   
@@ -99,7 +96,6 @@ For Click-to-run based installations, you must have the following software insta
 |Iexplore.exe  <br/> |C:\Program Files\Internet Explorer  <br/> |varies  <br/> |
    
 ### MSI-based installations
-<a name="BK_MSI"> </a>
 
 For MSI-based installations, you must have the following software installed, at file version listed below or a later file version. If your file version is not equal to or greater than the file version listed, update it using the link in the Update KB Article column.
   
@@ -141,7 +137,7 @@ To enable MFA, you have to complete the following:
   
  **Troubleshooting Azure Multi-Factor Authentication:**
   
-See [Troubleshoot Azure MFA](https://go.microsoft.com/fwlink/p/?LinkId=526697).
+See [Troubleshoot Azure MFA](https://support.microsoft.com/en-us/help/2937344/troubleshooting-azure-multi-factor-authentication-issues).
   
 [How to troubleshoot sign-in issues with Office 2013 modern authentication when you use AD FS](https://support.microsoft.com/en-us/kb/3052203/)
   
@@ -153,7 +149,7 @@ See [Troubleshoot Azure MFA](https://go.microsoft.com/fwlink/p/?LinkId=526697).
   
  **Client access filtering:**
   
-[Office 2013 and Office 365 ProPlus modern authentication and client access filtering policies : Things to know before onboarding](https://social.technet.microsoft.com/wiki/contents/articles/30253.office-2013-and-office-365-proplus-modern-authentication-and-client-access-filtering-policies-things-to-know-before-onboarding.aspx)
+[Office 2013 and Office 365 ProPlus modern authentication and client access filtering policies : Things to know before onboarding](https://social.technet.microsoft.com/wiki/contents/articles/30214.office-2013-and-office-365-proplus-modern-authentication-things-to-know-before-onboarding.aspx)
   
  **Which apps support MFA?**
   

@@ -34,7 +34,7 @@ To save the content, here's what you do:
   
 - To preserve a former employee's OneDrive for Business documents you 1) access the former employee's OneDrive for Business, and then 2) move the files.
     
-- To gain access to a former employee's email, you 1) [Part 2 - Get access to the Outlook information of the former employee](get-access-to-and-back-up-a-former-user-s-data.md#bkmk_export) information to a .pst file, and then 2) [Part 3 - Give access of former employee's email to another user](get-access-to-and-back-up-a-former-user-s-data.md#bkmk_import) into another employee's Outlook inbox. 
+- To gain access to a former employee's email, you 1) [export the user's Outlook email](#part-2---get-access-to-the-outlook-information-of-the-former-employee) information to a .pst file, and then 2) [import the email](#part-3---give-access-of-former-employees-email-to-another-user) into another employee's Outlook inbox. 
     
 ## Part 1 - Get access to the former employee's OneDrive for Business documents
 

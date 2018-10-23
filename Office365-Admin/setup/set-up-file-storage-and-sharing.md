@@ -128,7 +128,7 @@ Here are the steps to add files:
     
     ![Team site library with files](../media/05e4a103-6e66-4484-ab3a-4eac430c20d3.png)
   
-5. You can delete the files from your computer. In the next step, [Sync online files with your PC or Mac](set-up-file-storage-and-sharing.md#BKMK_Step4), you're going to create a new location for these files on your computer.
+5. You can delete the files from your computer. In the next step, [Sync online files with your PC or Mac](#sync-online-files-with-your-pc-or-mac), you're going to create a new location for these files on your computer.
     
     If you have a lot of files or large files to upload to your team site, read these tips on [uploading large or many files to a library](https://support.office.com/article/da549fb1-1fcb-4167-87d0-4693e93cb7a0.aspx#__toc384119242).
     

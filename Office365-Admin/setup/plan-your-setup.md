@@ -60,7 +60,7 @@ Here are the steps you'll do when you run the setup wizard:
   
     ![Add users](../media/865a4703-15c5-46eb-8215-5c61748aaf08.png)
   
-4. Migrate email and contacts from another email service that uses IMAP (such as Gmail). For more migration options, or if you just want to migrate your email later, see [Migrate email and contacts to Office 365](migrate-email-and-contacts-0.md).
+4. Migrate email and contacts from another email service that uses IMAP (such as Gmail). For more migration options, or if you just want to migrate your email later, see [Migrate email and contacts to Office 365](migrate-email-and-contacts-admin.md).
     
     ![Migrate email](../media/43083cd5-59d9-486d-a5c2-62ce1a88f407.png)
   
