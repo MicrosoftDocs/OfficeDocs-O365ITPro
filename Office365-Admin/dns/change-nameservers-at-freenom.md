@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Freenom"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
@@ -27,17 +26,10 @@ description: "Learn how you can set up Office 365 to manage the DNS records of y
   
 To learn about webhosting and DNS for websites with Office 365, see﻿ [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
   
-Here's what you need to do. (Need more help? [Still need help?](change-nameservers-at-dyn-com.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](change-nameservers-at-freenom.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-freenom.md#BKMK_nameservers)
-    
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
-<a name="BKMK_Verify"> </a>
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -66,9 +58,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 6. In the boxes for the new record, type or copy and paste the values from the following table. 
     
-|**﻿Name**|**﻿Type**|**﻿TTL**|**﻿Target**|
+|**Name**|**Type**|**TTL**|**Target**|
 |:-----|:-----|:-----|:-----|
-|﻿(leave blank)  <br/> |﻿TXT  <br/> |﻿3600 (seconds)  <br/> |MS=msXXXXXXXX  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|(leave blank)  <br/> |TXT  <br/> |3600 (seconds)  <br/> |MS=msXXXXXXXX  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/>   |
    
    ![Freenom TXT values for verification](../media/650098df-b3aa-47e5-9763-7fde24e34c3f.png)
   
@@ -100,7 +92,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Change your domain's nameserver (NS) records
-<a name="BKMK_nameservers"> </a>
 
 To complete setting up your domain with Office 365, you change your domain's NS records at your domain registrar to point to the Office 365 primary and secondary name servers. This sets up Office 365 to update the domain's DNS records for you. We'll add all records so that email, Skype for Business Online, and your public website work with your domain, and you'll be all set.
   

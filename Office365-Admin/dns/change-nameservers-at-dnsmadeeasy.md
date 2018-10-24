@@ -38,16 +38,7 @@ Follow these procedures if at least one of the following three statements descri
     
 - Your domain is hosted at a DNS hosting provider or domain registrar that is not listed in the article [How to buy a domain name](../get-help-with-domains/buy-a-domain-name.md).
     
-Here's what you need to do. (Need more help? [Still need help?](change-nameservers-at-dnsmadeeasy.md#BKMK_NeedHelp).)
-  
-- [Delete your DNSMadeEasy domain](change-nameservers-at-dnsmadeeasy.md#BKMK_delete)
-    
-- [Add a TXT or MX record for verification](change-nameservers-at-dnsmadeeasy.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-dnsmadeeasy.md#BKMK_nameservers)
-    
 ## Delete your DNSMadeEasy domain
-<a name="BKMK_delete"> </a>
 
 When you signed up for DNSMadeEasy, you added a domain by using the **Add Domains** process. 
   
@@ -81,7 +72,6 @@ After you remove your domain from DNSMadeEasy, you will perform additional steps
     ![DNSMadeEasy-BP-Redelegate-1-3](../media/1945eaba-65e3-4699-8c08-73f9950b3ee0.png)
   
 ## Add a TXT or MX record for verification
-<a name="BKMK_verify"> </a>
 
 > [!IMPORTANT]
 > You must perform this procedure at the domain registrar where you purchased and registered your domain. 
@@ -105,15 +95,17 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 1. If you create a **TXT** record, use these values: 
     
-|**Record Type**|**Alias or Host Name**|**Value**|**TTL**|
+|||
 |:-----|:-----|:-----|:-----|
-|TXT  <br/> |(Type or copy and paste either **@** or your  *domain_name*  .)  <br/> |MS=ms *XXXXXXXX*  <br/> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  <br/> |
+|**Record Type** <br/> |**Alias or Host Name** <br/> |**Value** <br/> |**TTL** <br/> |
+|TXT  <br/> |(Type or copy and paste either **@** or your  *domain_name*  .)  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  <br/> |
    
 2. If you create an **MX** record, use these values: 
     
-|**Record Type**|**Alias or Host Name**|**Value**|**Priority**|**TTL**|
+|||
 |:-----|:-----|:-----|:-----|:-----|
-|MX  <br/> |(Type or copy and paste either **@** or your  *domain_name*  .)  <br/> |MS=ms *XXXXXXXX*  <br/> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |For **Priority**, to avoid conflicts with the MX record used for mail flow, use a lower priority than the priority for any existing MX records.  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  <br/> |
+|**Record Type** <br/> |**Alias or Host Name** <br/> |**Value** <br/> |**Priority** <br/> |**TTL** <br/> |
+|MX  <br/> |(Type or copy and paste either **@** or your  *domain_name*  .)  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |For **Priority**, to avoid conflicts with the MX record used for mail flow, use a lower priority than the priority for any existing MX records.  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  <br/> |
    
 3. Save the record.
     
@@ -133,7 +125,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Change your domain's nameserver (NS) records
-<a name="BKMK_nameservers"> </a>
 
 > [!IMPORTANT]
 > You must perform this procedure at the domain registrar where you purchased and registered your domain. 

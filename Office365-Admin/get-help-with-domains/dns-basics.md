@@ -192,13 +192,7 @@ Or, if you're planning a deployment, you may want to review a list of all the DN
 Check out one of the following: 
   
 - Not sure where your domain is registered? [Get help finding your domain registrar.](find-your-domain-registrar.md)
-<<<<<<< HEAD
-
     
-- Find out [why you have to complete the wizard steps](https://support.office.com/article/c4207bb0-9ed5-4149-a9dd-f617e1477824.aspx) before you can use your domain with Office 365. 
-=======
-    
-- Find out  [why you have to complete the wizard steps](../setup/add-domain.md#add-a-domain-to-office-365)before you can use your domain with Office 365. 
->>>>>>> Sirkkuw-conversion
+- Find out [why you have to complete the wizard steps](../setup/add-domain.md#add-a-domain-to-office-365) before you can use your domain with Office 365. 
     
 

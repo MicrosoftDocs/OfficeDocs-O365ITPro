@@ -28,11 +28,6 @@ description: "Learn to set up your Office 365 custom domain with Network Informa
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Network Information Center (NIC)](create-dns-records-at-nic.md).)
   
-Here's what you need to do. (Need more help? [Still need help?](change-nameservers-at-nic.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](change-nameservers-at-nic.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-nic.md#BKMK_nameservers)
     
 ## Add a TXT record for verification
 
@@ -107,9 +102,9 @@ To complete setting up your domain with Office 365, you change your domain's NS 
   
 6. Depending on whether or not there are already nameservers listed, continue to one of the two following procedures:
     
-  - If there are **NO** nameservers already listed, [If there are NO nameservers already listed](change-nameservers-at-nic.md#BKMK_ProcedureWithOUT).
+  - If there are **NO** nameservers already listed, [If there are NO nameservers already listed](#if-there-are-no-nameservers-already-listed).
     
-  - If there **ARE** nameservers already listed, [If there ARE nameservers already listed](change-nameservers-at-nic.md#BKMK_ProcedureWITH).
+  - If there **ARE** nameservers already listed, [If there ARE nameservers already listed](#if-there-are-nameservers-already-listed).
     
 ### If there are NO nameservers already listed
 

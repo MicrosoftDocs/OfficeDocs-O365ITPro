@@ -29,12 +29,6 @@ description: "Learn how you can set up Office 365 to manage the DNS records of y
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Dynadot](create-dns-records-at-dynadot.md).)
   
-Here's what you need to do. (Need more help? [Still need help?](change-nameservers-at-dynadot.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](change-nameservers-at-dynadot.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-dynadot.md#BKMK_nameservers)
-    
 ## Add a TXT record for verification
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
@@ -58,11 +52,14 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (Choose the **Record Type** value from the drop-down list.) 
     
-|**Record Type**|**IP Address or Target Host**|
+|||
 |:-----|:-----|
-|TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|**Record Type** <br/> |**IP Address or Target Host** <br/> |
+|TXT  <br/> |MS=ms *XXXXXXXX* <br/> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/>   |
+|||
+
    
-    ![Dynadot-BP-Verify-1-1](../media/7be98776-f41d-4317-b93a-afccf72d6590.png)
+   ![Dynadot-BP-Verify-1-1](../media/7be98776-f41d-4317-b93a-afccf72d6590.png)
   
 5. Choose **Save DNS**.
     
