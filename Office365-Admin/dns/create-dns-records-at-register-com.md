@@ -28,17 +28,17 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If Register.com is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. Follow the steps below or [watch the video](https://support.office.com/en-us/article/Video-Create-DNS-records-at-Register-com-for-Office-365-7448dd9e-c0e7-4d5e-a7e9-f0e4715433c4?ui=en-US&amp;rs=en-US&amp;ad=US). (Need more help? [Still need help?](create-dns-records-at-register-com.md#BKMK_NeedHelp).)
+These are the main records to add. Follow the steps below or [watch the video](https://support.office.com/en-us/article/Video-Create-DNS-records-at-Register-com-for-Office-365-7448dd9e-c0e7-4d5e-a7e9-f0e4715433c4?ui=en-US&amp;rs=en-US&amp;ad=US).
   
-- [Add a TXT record at Register.com to verify that you own the domain](create-dns-records-at-register-com.md#BKMK_verify)
+- [Add a TXT record at Register.com to verify that you own the domain](#add-a-txt-record-at-registercom-to-verify-that-you-own-the-domain)
     
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-register-com.md#BKMK_add_MX)
+- [Add an MX record so email for your domain will come to Office 365](#add-an-mx-record-so-email-for-your-domain-will-come-to-office-365)
     
-- [Add the CNAME records that are required for Office 365](create-dns-records-at-register-com.md#BKMK_add_CNAME)
+- [Add the CNAME records that are required for Office 365](#add-the-cname-records-that-are-required-for-office-365)
     
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-register-com.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-register-com.md#BKMK_add_SRV)
+- [Add a TXT record for SPF to help prevent email spam](#add-a-txt-record-for-spf-to-help-prevent-email-spam)
+
+- [Add the two SRV records that are required for Office 365](#add-the-two-srv-records-that-are-required-for-office-365)
     
 After you add these records at Register.com, your domain will be set up to work with Office 365 services.
   
@@ -69,10 +69,10 @@ Follow the steps below or [watch the video (start at 0:44)](https://support.offi
     
 6. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|||
-|:-----|:-----|
-|**Host Name** <br/> |**TXT Record** <br/> |
-|@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |||
+    |:-----|:-----|
+    |**Host Name** <br/> |**TXT Record** <br/> |
+    |@  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
 7. Choose **Continue**.
     
@@ -116,11 +116,11 @@ Follow the steps below or [watch the video (start at 3:32)](https://support.offi
     
     (Select the **Priority** value from the drop-down list.) 
     
-|****Host Name****|****Priority****|****Mail Server****|
-|:-----|:-----|:-----|
-|@  <br/> |High  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |****Host Name****|****Priority****|****Mail Server****|
+    |:-----|:-----|:-----|
+    |@  <br/> |High  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/>**Note:** Get your \<*domain-key*\> from your Office 365 portal account. <br> [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-![Copy and paste the value from the table](../media/a1a15a14-c3dc-45dc-adcd-90fdb3f7455d.png)
+    ![Copy and paste the value from the table](../media/a1a15a14-c3dc-45dc-adcd-90fdb3f7455d.png)
   
 7. If there were any other MX records already listed, select each of those records to be deleted.
     
@@ -159,16 +159,16 @@ Follow the steps below or [watch the video (start at 4:23)](https://support.offi
     
     In the boxes for the new record, type or copy and paste the values from the first row of the following table.
     
-|****First field (unlabeled)****|****Points to****|
-|:-----|:-----|
-|autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
-|enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
-|enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |****First field (unlabeled)****|****Points to****|
+    |:-----|:-----|
+    |autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
+    |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
+    |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
- ![Copy and paste the DNS values from the table](../media/0e2b36b2-8a0b-4019-addf-301763f9a626.png)
+     ![Copy and paste the DNS values from the table](../media/0e2b36b2-8a0b-4019-addf-301763f9a626.png)
   
 8. When you have added all of the CNAME records that you need, choose **Continue**.
     
@@ -182,7 +182,7 @@ Follow the steps below or [watch the video (start at 4:23)](https://support.offi
 <a name="BKMK_add_TXT"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a single SPF record that includes both sets of values. Need examples? Check out these [External Domain Name System records for Office 365](https://support.office.com/article/c0531a6f-9e25-4f2d-ad0e-a70bfef09ac0#bkmk_spfrecords). To validate your SPF record, you can use one of these [SPF validation tools](../setup/domains-faq.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a single SPF record that includes both sets of values.  
   
 Follow the steps below or [watch the video (start at 5:12)](https://support.office.com/en-us/article/Video-Create-DNS-records-at-Register-com-for-Office-365-7448dd9e-c0e7-4d5e-a7e9-f0e4715433c4?ui=en-US&amp;rs=en-US&amp;ad=US).
   
@@ -200,11 +200,11 @@ Follow the steps below or [watch the video (start at 5:12)](https://support.offi
   
 6. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|****Host Name****|****TXT Record****|
-|:-----|:-----|
-|@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]>  We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |****Host Name****|****TXT Record****|
+    |:-----|:-----|
+    |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.  |
    
- ![Copy and paste the values from the table](../media/b1dc5036-c13c-4306-b1e3-5a38a74643b7.png)
+     ![Copy and paste the values from the table](../media/b1dc5036-c13c-4306-b1e3-5a38a74643b7.png)
   
 7. Choose **Continue**.
     
@@ -237,12 +237,12 @@ Follow the steps below or [watch the video (start at 5:55)](https://support.offi
     
     (Select the **Priority** value from the drop-down list.) 
     
-|****Service****|****Proto****|****Name****|****Priority****|****Weight****|****Port****|****Target****|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|_sip  <br/> |_tls  <br/> |@  <br/> |High  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|_sipfederationtls  <br/> |_tcp  <br/> |@  <br/> |High  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |****Service****|****Proto****|****Name****|****Priority****|****Weight****|****Port****|****Target****|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |_sip  <br/> |_tls  <br/> |@  <br/> |High  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |_sipfederationtls  <br/> |_tcp  <br/> |@  <br/> |High  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-![Copy and paste the values from the table](../media/71304c81-5845-4a8f-b969-d9efc8721184.png)
+    ![Copy and paste the values from the table](../media/71304c81-5845-4a8f-b969-d9efc8721184.png)
   
 7. Choose **Add more SRV records**.
     
