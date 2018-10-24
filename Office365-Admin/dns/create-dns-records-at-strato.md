@@ -17,21 +17,21 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
 
 # Create DNS records at Strato for Office 365
 
-[C﻿heck the Domains FAQ](../setup/domains-faq.md) if you don't find what you're looking for. 
+[Check the Domains FAQ](../setup/domains-faq.md) if you don't find what you're looking for. 
   
 If Strato.com is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
 These are the main records to add. 
   
-- [Add a TXT record for verification](create-dns-records-at-strato.md#bkmk_txt)
+- [Add a TXT record for verification](#add-a-txt-record-for-verification)
     
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-strato.md#bkmk_mx)
+- [Add an MX record so email for your domain will come to Office 365](#add-an-mx-record-so-email-for-your-domain-will-come-to-office-365)
     
-- [Add the CNAME records that are required for Office 365](create-dns-records-at-strato.md#bkmk_cname)
+- [Add the CNAME records that are required for Office 365](#add-the-cname-records-that-are-required-for-office-365)
     
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-strato.md#bkmk_spf)
+- [Add a TXT record for SPF to help prevent email spam](#add-a-txt-record-for-spf-to-help-prevent-email-spam)
     
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-strato.md#bkmk_srv)
+- [Add the two SRV records that are required for Office 365](#add-the-two-srv-records-that-are-required-for-office-365)
     
 After you add these records at Strato.com, your domain will be set up to work with Office 365 services.
   
@@ -74,9 +74,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 7. In the boxes for the new record, type or copy and paste the following values.
     
-|**Prefix﻿**|**Type﻿**|**Value﻿**|
-|:-----|:-----|:-----|
-|(leave blank)﻿  <br/> |TXT﻿  <br/> |MS=msXXXXXXX  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**Prefix**|**Type**|**Value**|
+    |:-----|:-----|:-----|
+    |(leave blank)  <br/> |TXT  <br/> |MS=msXXXXXXX  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.   [How do I find this?](../get-help-with-domains/information-for-dns-records.md)  |
    
 8. Select **Accept settings**.
     
@@ -137,9 +137,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     > [!NOTE]
     > You must include a period at the end of the **Address 1** value. 
   
-|**Type**|**Priority**|**Address 1 (Points to address or value)﻿**|
-|:-----|:-----|:-----|
-|MX  <br/> |high                    For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |\<domain-key\>.mail.protection.outlook.com.  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**Type**|**Priority**|**Address 1 (Points to address or value)**|
+    |:-----|:-----|:-----|
+    |MX  <br/> |high                    For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |\<domain-key\>.mail.protection.outlook.com.  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.   [How do I find this?](../get-help-with-domains/information-for-dns-records.md)   |
    
     ![Strato_MX_manage](../media/4bae897e-95ca-43d3-b729-f216e32bbc93.png)
   
@@ -168,79 +168,79 @@ You'll create the required CNAME records by creating the six subdomains first, a
   
 5. In this step, you'll create the six subdomains listed in the **Subdomain (Host name)** table below. Later in, step 7, you'll update each subdomain with its correct CNAME value. 
     
-1. Under **Settings (domain)**, expand **Create sub-domain**.
+6. Under **Settings (domain)**, expand **Create sub-domain**.
     
     ![Strato_subdomain_Expand](../media/2f0397d4-7ee6-44c0-afc5-1df60399a96f.png)
   
-2. In the **Name of the sub-domain** box, type the first s﻿ubdomain name from the **Subdomain (Host name)** table below. Then select **Create sub-domain**.
+7. In the **Name of the sub-domain** box, type the first subdomain name from the **Subdomain (Host name)** table below. Then select **Create sub-domain**.
     
     ![Strato_subdomain_Create](../media/b7c659d0-a5e5-4ad7-88ec-d83dc3318004.png)
   
-3. Repeat this step for each subdomain in the following table.
+8. Repeat this step for each subdomain in the following table.
     
-|**Subdomain (Host name)**|
-|:-----|
-|autodiscover  <br/> |
-|sip﻿  <br/> |
-|lyncdiscover  <br/> |
-|msoid  <br/> |
-|enterpriseregistration  <br/> |
-|enterpriseenrollment  <br/> |
+    |**Subdomain (Host name)**|
+    |:-----|
+    |autodiscover  <br/> |
+    |sip  <br/> |
+    |lyncdiscover  <br/> |
+    |msoid  <br/> |
+    |enterpriseregistration  <br/> |
+    |enterpriseenrollment  <br/> |
    
-6. Select **To the overview**.
+9. Select **To the overview**.
     
     ![Strato_ToOverview](../media/4f0dc974-fa74-4d9b-9b5a-0f133e0acdd3.png)
   
-7. Now you'll update each subdomain with its CNAME value. 
+10. Now you'll update each subdomain with its CNAME value. 
     
-1. Select the **+** icon next to your domain to expand the subdomain list. 
+11. Select the **+** icon next to your domain to expand the subdomain list. 
     
     ![Strato_expand_domain](../media/5d036677-a92b-4297-bfdc-77f8c5363b73.png)
   
-2. Next to a subdomain, select **manage**.
+12. Next to a subdomain, select **manage**.
     
     ![Strato_subdomain_manage](../media/f97b4f9a-cea0-4537-8439-e3151a0dc980.png)
   
-3. Expand **DNS management**.
+13. Expand **DNS management**.
     
     ![Strato_subdomain_Expand_DNS](../media/7cc4f400-00be-44d6-b56a-2d5611c9bf51.png)
   
-4. Next to **CNAME record**, select **manage**.
+14. Next to **CNAME record**, select **manage**.
     
     ![Strato_subdomain_CNAME_manage](../media/d323dba7-bdbb-445e-8eb9-40b452808b05.png)
   
-5. Select **Change CNAME entry**, and then enter the corresponding CNAME value from the table below. You must include a period at the end of the value. 
+15. Select **Change CNAME entry**, and then enter the corresponding CNAME value from the table below. You must include a period at the end of the value. 
   
-|**Subdomain (Host name)**|**Type**|**Value (Points to address or value)**|
-|:-----|:-----|:-----|
-|autodiscover  <br/> |CNAME  <br/> |autodiscover.outlook.com.  <br/> |
-|sip﻿  <br/> |CNAME  <br/> |sipdir.online.lync.com.  <br/> |
-|lyncdiscover  <br/> |CNAME  <br/> |webdir.online.lync.com.  <br/> |
-|msoid  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net.  <br/> |
-|enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net.  <br/> |
-|enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> |
+    |**Subdomain (Host name)**|**Type**|**Value (Points to address or value)**|
+    |:-----|:-----|:-----|
+    |autodiscover  <br/> |CNAME  <br/> |autodiscover.outlook.com.  <br/> |
+    |sip  <br/> |CNAME  <br/> |sipdir.online.lync.com.  <br/> |
+    |lyncdiscover  <br/> |CNAME  <br/> |webdir.online.lync.com.  <br/> |
+    |msoid  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net.  <br/> |
+    |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net.  <br/> |
+    |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> |
    
     ![Strato_subdomain_CNAME_values](../media/84b4bada-92dd-4de1-b2de-4bff05b16017.png)
   
-8. Select the **I am aware…** checkbox, and then select **Accept settings**.
+16. Select the **I am aware…** checkbox, and then select **Accept settings**.
     
     ![Strato_subdomain_CNAME_values](../media/55d9a738-396f-4575-bd8e-7ba5e03206ac.png)
   
-9. Select **To the overview**
+17. Select **To the overview**
     
     ![Strato_CNAME_values_ToOverview](../media/760448c2-44b3-4906-9304-32c35c85d7c1.png)
   
-10. Select **To the overview** again. 
+18. Select **To the overview** again. 
     
     ![Strato_CNAME_values_ToOverviewAgain](../media/a02c7269-2cb3-4c83-9a73-40f6fbdd8cc0.png)
   
-11. Select the **+** icon next to your domain to expand the subdomain list, and then repeat this entire step for each subdomain in the list. 
+19. Select the **+** icon next to your domain to expand the subdomain list, and then repeat this entire step for each subdomain in the list. 
     
 ## Add a TXT record for SPF to help prevent email spam
 <a name="bkmk_spf"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values.
   
 1. To get started, go to your domains page in Strato.com by using [this link](https://www.strato.com/apps/CustomerService). You'll be prompted to log in.
     
@@ -266,14 +266,14 @@ You'll create the required CNAME records by creating the six subdomains first, a
     
     ![strato_TXT_manage](../media/e01f9724-d26d-4253-a263-c4c9544c3962.png)
   
-7. In ﻿the boxes for the TXT record, type or copy and paste the values from the following table.
+7. In the boxes for the TXT record, type or copy and paste the values from the following table.
     
     > [!NOTE]
     > If records already exist, select the **+** button to add a new TXT record. 
   
-|**Prefix**|**Type﻿**|**Value﻿**|
-|:-----|:-----|:-----|
-|(leave blank)﻿  <br/> |TXT﻿  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Prefix**|**Type**|**Value**|
+    |:-----|:-----|:-----|
+    |(leave blank)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
     ![Strato_TXT SPF_values](../media/efdbfd3e-c568-40a0-b997-c5216fa8d891.png)
   
@@ -310,10 +310,10 @@ You'll create the required CNAME records by creating the six subdomains first, a
   
 7. Next to **SRV record**, select **Enabled**, and then in the boxes for the new record, type or copy and paste the values from the following table.
     
-|**Service**|**Protocol**|**Record type**|**Priority**|**Weight**|**Port**|**Target**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|sip﻿  <br/> |tls﻿  <br/> |SRV (Service)﻿  <br/> |100﻿  <br/> |1﻿  <br/> |443﻿  <br/> |sipdir.online.lync.com.  <br/> |
-|sipfederationtls  <br/> |tcp﻿  <br/> |SRV (Service)  <br/> |100﻿  <br/> |1﻿  <br/> |5061﻿  <br/> |sipfed.online.lync.com.  <br/> |
+    |**Service**|**Protocol**|**Record type**|**Priority**|**Weight**|**Port**|**Target**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |sip  <br/> |tls  <br/> |SRV (Service)  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> |
+    |sipfederationtls  <br/> |tcp﻿  <br/> |SRV (Service)  <br/> |100  <br/> |1 <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> |
    
     ![Strato_SRV_values](../media/bf5bca69-2fc4-4c46-8bac-14ec5dd6e5a3.png)
   

@@ -156,7 +156,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |:-----|:-----|:-----|:-----|
     |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/>**Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.   <br>**Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |7200  <br/> |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-![WhizIn-BP-Configure-2-2](../media/06a3ed03-6b3e-4171-b17c-dda6fa4783cc.png)
+    ![WhizIn-BP-Configure-2-2](../media/06a3ed03-6b3e-4171-b17c-dda6fa4783cc.png)
   
 8. Choose **Add Record**.
     
@@ -276,7 +276,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |:-----|:-----|:-----|
     |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |7200  <br/> |
    
-![WhizIn-BP-Configure-4-2](../media/f59dd9f8-0d1b-4e4f-af01-ae97a1f70d27.png)
+    ![WhizIn-BP-Configure-4-2](../media/f59dd9f8-0d1b-4e4f-af01-ae97a1f70d27.png)
   
 8. Choose **Add Record**.
     
