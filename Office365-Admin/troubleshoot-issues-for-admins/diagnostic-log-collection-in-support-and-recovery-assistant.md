@@ -1,5 +1,5 @@
 ---
-title: "Turn off diagnostic log collection in Support and Recovery Assistant for Office 365"
+title: "Turn off diagnostic log collection in Support and Recovery Assistant"
 ms.author: kfollis
 author: kfollis
 manager: mnirkhe

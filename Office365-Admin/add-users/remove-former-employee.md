@@ -49,13 +49,13 @@ If you need to get an employee out of Office 365 immediately, here's what you do
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
@@ -86,12 +86,10 @@ Here's a quick overview. Each step is explained in detail in this article.
 |||
 |:-----|:-----|
 |**Step** <br/> |**Why do this** <br/> |
-|||
 |1. [Save the contents of a former employee's mailbox](remove-former-employee.md#bkmk_preserve) <br/> |This is useful for the person who is going to take over the employee's work, or in case of litigation.  <br/> |
 |2. [Forward a former employee's email to another employee or convert to a shared mailbox](remove-former-employee.md#bkmk_forward) <br/> |This lets you keep the former employee's email address active. If you have customers or partners still sending email to the former employee's address, this gets them to the person taking over the work.  <br/> |
 |3. [Wipe and block a former employee's mobile device](remove-former-employee.md#bkmk_mobile) <br/> |Removes your business data from the phone or tablet.  <br/> |
-|||
-|4. [Block a former employee's access to Office 365 data](remove-former-employee.md#bkmk_block) <br/> |It prevents the person from accessing their old Office 365 mailbox and data.  <br/><br/> **TIP** When you block a user's access, you're still paying for their license. You have to delete the license from your subscription to stop paying for it (step 5).           |
+|4. [Block a former employee's access to Office 365 data](remove-former-employee.md#bkmk_block) <br/> |It prevents the person from accessing their old Office 365 mailbox and data.  <br/><br/> **Tip**: When you block a user's access, you're still paying for their license. You have to delete the license from your subscription to stop paying for it (step 5).           |
 |5. [Move the employee's OneDrive content](get-access-to-and-back-up-a-former-user-s-data.md) <br/> |If you only remove a user's license but don't delete the account, the content in the user's OneDrive will remain accessible to you even after 30 days.  <br/><br/> Before you delete the account, you should move the content of their OneDrive to another location that's easy for you to access. After you delete an employee's account, the content in their OneDrive is retained for **30** days. During that 30 days, however, you can restore the user's account, and gain access to their OneDrive content. If you restore the user's account, the OneDrive content will remain accessible to you even after 30 days.  <br/> |
 |5a. What if the person used their personal computer to access OneDrive and SharePoint?  <br/> |If they used a personal computer instead of a company-issued computer to download files from OneDrive and SharePoint, there's no way for you to wipe those files they stored.  <br/><br/> They will continue to have access to any files that were synced to their computer.  <br/> |
 |6. [Remove and delete the Office 365 license from a former employee](remove-former-employee.md#bkmk_remove) <br/> |When you remove a license, you can assign it to someone else. Or, you can delete the license so you don't pay for it until you hire another person.  <br/><br/> When you remove or delete a license, the user's old email, contacts, and calendar are retained for **30 days**, then permanently deleted. If you remove or delete a license but don't delete the account, the content in the user's OneDrive will remain accessible to you even after 30 days.  <br/> |
@@ -127,66 +125,66 @@ In this step, you assign the former employee's email address to another employee
     
 - Email forwarding requires that the former employee's account has a license.
     
-1. **IMPORTANT**: If you're setting up email forwarding or a shared mailbox, at the end, don't delete the former employee's account. The account needs to be there to anchor the email forwarding or shared mailbox. 
+ > [!IMPORTANT] 
+ > If you're setting up email forwarding or a shared mailbox, at the end, don't delete the former employee's account. The account needs to be there to anchor the email forwarding or shared mailbox. 
   
 ::: moniker range="o365-worldwide"  
-2. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
-3. In the Office 365 admin center, select **Users**. 
+2. In the Office 365 admin center, select **Users**. 
     
     ![Click on User.](../media/1596dc50-1d06-4b3a-83c3-2791d0856d6f.png)
   
-4. Choose the employee that you want to block.
+3. Choose the employee that you want to block.
     
     ![Choose the user you want to block](../media/d14e5265-24df-4fee-80f1-22900521e313.png)
   
-5. Click **Mail Settings**. Next to **Email Forwarding** choose **Edit**. 
+4. Click **Mail Settings**. Next to **Email Forwarding** choose **Edit**. 
     
     ![Choose Mail Settings and then choose Edit.](../media/fd3fa81a-e063-44ae-b411-5644365a9982.png)
   
-6. Turn on **Forward all email sent to this mailbox**. In the **Forwarding address** box, type the email address of the current employee (or shared mailbox) who's going to get the email. 
+5. Turn on **Forward all email sent to this mailbox**. In the **Forwarding address** box, type the email address of the current employee (or shared mailbox) who's going to get the email. 
     
     ![Add the email address of the current employee.](../media/d1525aa0-0c68-4337-ba18-95c40562cc52.png)
   
-7. Choose **Save**. 
+6. Choose **Save**. 
     
-8. Remember, don't delete the former employee's account.
+7. Remember, don't delete the former employee's account.
     
 ## Wipe and block a former employee's mobile device
 <a name="bkmk_mobile"> </a>
 
 If your former employee had a organization phone, you can use the Exchange admin center to wipe and block that device so that all organization data is removed from the device and it can no longer connect to Office 365.
   
-1. 
-::: moniker range="o365-worldwide"
 
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+::: moniker range="o365-worldwide"
+1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
@@ -209,26 +207,27 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 ## Block a former employee's access to Office 365 data
 <a name="bkmk_block"> </a>
 
- **IMPORTANT**: Blocking an account can take up to 24 hours to take effect. If you need to immediately prevent a user's sign-in access, you should [reset their password](reset-passwords.md) and then initiate a one-time event that will sign them out of Office 365 sessions across all devices. See [Sign out now!](remove-former-employee.md#bkmk_now)
+ > [!IMPORTANT] 
+ > Blocking an account can take up to 24 hours to take effect. If you need to immediately prevent a user's sign-in access, you should [reset their password](reset-passwords.md) and then initiate a one-time event that will sign them out of Office 365 sessions across all devices. See [Sign out now!](remove-former-employee.md#bkmk_now)
   
 To block a user from signing in and accessing Office 365 data:
   
-1. 
+
 ::: moniker range="o365-worldwide"
 
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
@@ -247,22 +246,22 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 If you have Office 365 email as part of your Office 365 subscription, you need to log in to the Exchange admin center to follow these steps to block your former employee from accessing their email.
   
-1. 
+
 ::: moniker range="o365-worldwide"
 
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
@@ -285,22 +284,22 @@ So you don't continue paying for a license after someone leaves your organizatio
   
 When you remove the license, all that user's data is held for 30 days. You can [access](get-access-to-and-back-up-a-former-user-s-data.md) the data, or [restore](restore-user.md) the account if the user comes back. After 30 days, all the user's data (except for documents stored on SharePoint Online) is deleted permanently from Office 365 and can't be recovered. 
   
-1. 
+ 
 ::: moniker range="o365-worldwide"
 
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
@@ -344,22 +343,22 @@ After you've saved and accessed all the former employee's user data, you can del
   
 1. Don't delete the account if you've set up email forwarding or converted it to a shared mailbox. Both need the account to anchor the forwarding or shared mailbox.
     
-2. 
+
 ::: moniker range="o365-worldwide"
 
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+2. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+2. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+2. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
@@ -413,4 +412,3 @@ The above operations can be done in 3 places:
 
 [Restore a user](restore-user.md)
   
-

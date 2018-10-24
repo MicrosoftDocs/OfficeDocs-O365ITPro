@@ -19,7 +19,7 @@ description: "Learn about subscriptions and licenses in Office 365 for business,
 
 # Understand subscriptions and licenses in Office 365 for business
 
-This article explains the relationship between subscriptions and licenses, and provides additional information about [who can assign licenses](#find-out-who-can-assign-licenses), [understanding what happens when you assign a license to someone](#understand-what-happens-when-you-assign-a-license-to-someone), and [how many devices can people install Office on](#how-many-devices-can-people-install-office-on). It also includes links to [understanding licenses for non-user mailboxes](#understand-licenses-for-non-user-mailboxes), and [articles about managing licenses](#articles-about-managing-licenses-for-office-365-for-business).
+This article explains the relationship between subscriptions and licenses, and provides additional information about [who can assign licenses](#find-out-who-can-assign-licenses), [understanding what happens when you assign a license to someone](#understand-what-happens-when-you-assign-a-license-to-someone), and [how many devices can people install Office on](#how-many-devices-can-people-install-office-on). It also includes links to [understanding licenses for non-user mailboxes](#understand-licenses-for-non-user-mailboxes), and [Articles about managing licenses](#articles-about-managing-licenses).
   
 When you buy a subscription to Office 365 for business, you sign up for a set of applications and services that you pay for on a monthly or annual basis. 
   

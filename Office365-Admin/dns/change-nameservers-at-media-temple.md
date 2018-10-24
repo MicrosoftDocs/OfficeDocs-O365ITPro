@@ -24,14 +24,6 @@ description: "Learn how you can set up Office 365 to manage the DNS records of y
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can manage all your Office 365 DNS records at Media Temple.).
   
-Here's what you need to do. ([Still need help?](change-nameservers-at-media-temple.md#BKMK_NeedHelp))
-  
-- [Lower the TTL value](change-nameservers-at-media-temple.md#BKMK_TTL)
-    
-- [Add a TXT record for verification](change-nameservers-at-media-temple.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-media-temple.md#BKMK_Nameserver)
-    
 ## Lower the TTL value
 
 By default, Media Temple uses a TTL of 43200 seconds (12 hours). To speed up the Office 365 verification process, we recommend setting the TTL to 3600 (1 hour). Since Media Temple does not support arbitrary TTL values, use the following procedure to lower the TTL during the interval required to verify your Office 365 DNS records. You only need to do this once, at the start of the verification process.

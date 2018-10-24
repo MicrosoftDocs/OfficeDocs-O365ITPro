@@ -3,7 +3,6 @@ title: "DNS basics"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -49,26 +48,13 @@ Domain names, like contoso.com, are managed by using a worldwide system of domai
   
 ::: moniker-end
 
-> [What are domain names?](dns-basics.md#__toc386183972)
-    
-> [Understand DNS record types](dns-basics.md#__toc386183973)
-    
-> [How does DNS work?](dns-basics.md#__toc386183974)
-    
-> [Why add a domain in Office 365?](dns-basics.md#BKMK_WhyAdd)
-    
-> [The DNS records required for =Office 365](dns-basics.md#__toc386183977)
-    
-> [How can I learn more?](dns-basics.md#bkmk_learnmore)
-    
 ## What are domain names?
-<a name="__toc386183972"> </a>
 
 Domain names are used in URLs and email addresses, and they have different levels. For example, mail.contoso.com is a domain name with the following three levels:
   
 - **.com** is the top-level domain 
     
-- ** contoso ** is the second-level domain 
+- **contoso** is the second-level domain 
     
 - **mail** is the third-level domain 
     
@@ -77,7 +63,6 @@ Why use a third-level domain? You might want to have different domain names for 
 Learn more about what you can do with domains for each type of offering in the [Office 365 service description for domains](https://go.microsoft.com/fwlink/?LinkId=402693).
   
 ## Understand DNS record types
-<a name="__toc386183973"> </a>
 
 DNS records stored at a DNS host for your domain are used to direct traffic for your domain. The following table describes frequently used DNS records and how they're used with Office 365.
   
@@ -91,7 +76,6 @@ DNS records stored at a DNS host for your domain are used to direct traffic for 
 |TTL (time-to-live)  <br/> |The amount of time that a nameserver keeps a DNS record before the server looks for an updated version.  <br/> |
    
 ## How does DNS work?
-<a name="__toc386183974"> </a>
 
 Part of setting up your domain with a cloud service like Office 365 includes changing or adding [DNS records](dns-basics.md) for the domain. These changes are required because of how the Internet works with the DNS, Domain Name System, and domain names, to know where to send or find things, like email and websites. 
   
@@ -154,12 +138,12 @@ Why might your domain's zone file be somewhere besides at your domain registrar?
 ::: moniker-end
 
 > [!NOTE]
-> If you set up your domain in Office 365 so that [Office 365 sets up and manages your DNS records](https://support.office.com/article/5980474a-097f-4f21-a864-21245314957f.aspx) for you, then as part of setup, you'll [change your domain's NS records to point to Office 365 name servers](https://support.office.com/article/b3627432-6872-4645-9cb7-5528bf32d6b5.aspx). 
-  
-## Why add a domain in Office 365?
-<a name="__toc386183974"> </a>
+> If you set up your domain in Office 365 so that [Office 365 sets up and manages your DNS records](../setup/domains-faq.md#how-does-office-365-manage-my-dns-records) for you, then as part of setup, you'll [Change DNS management to Office 365](../setup/domains-faq.md#change-dns-management-to-office-365). 
+ 
 
 ::: moniker range="o365-worldwide"
+## Why add a domain in Office 365?
+
 
 Adding a custom domain, like fourthcoffee.com, to Office 365 lets you use a shorter, more familiar email address and userID with the service. You're [given a domain to use](https://support.office.com/article/b9fc3018-8844-43f3-8db1-1b3a8e9cfd5a.aspx) when you sign up for a Office 365 account, but it includes "onmicrosoft.com." Many people prefer to add their organization or business domain if they plan to use Office 365 for email. 
   
@@ -176,10 +160,9 @@ You can use your domain name in Office 365 with your email, public website, and 
     
 ::: moniker-end
 
-## Why add a domain in Office 365?
-<a name="__toc386183974"> </a>
-
 ::: moniker range="o365-germany"
+## Why add a domain in Office 365?
+
 
 Adding a custom domain, like fourthcoffee.com, to Office 365 lets you use a shorter, more familiar email address and userID with the service. You're [given a domain to use](https://support.office.com/article/b9fc3018-8844-43f3-8db1-1b3a8e9cfd5a.aspx) when you sign up for a Office 365 account, but it includes "onmicrosoft.com." Many people prefer to add their organization or business domain if they plan to use Office 365 for email. 
   
@@ -197,7 +180,6 @@ You can use your domain name in Office 365 with your email, public website, and 
 ::: moniker-end
 
 ## The DNS records required for Office 365
-<a name="__toc386183977"> </a>
 
 There are a number of DNS records required for Office 365 to work with your domain. In addition to setting up your domain's MX record so email will be sent to Office 365, there are records to help with tasks like making sure Outlook can automatically connect to the right Exchange server, setting up instant messaging, and helping to prevent spam email.
   
@@ -206,14 +188,11 @@ You can [find a list of values](information-for-dns-records.md) to set up your d
 Or, if you're planning a deployment, you may want to review a list of all the DNS records required for Office 365, what their function is, and example values. Check out [External Domain Name System records for Office 365](https://support.office.com/article/c0531a6f-9e25-4f2d-ad0e-a70bfef09ac0).
   
 ## How can I learn more?
-<a name="bkmk_learnmore"> </a>
 
-[Get help with using domains in Office 365](get-help-with-domains.md) or check out one of the following: 
+Check out one of the following: 
   
 - Not sure where your domain is registered? [Get help finding your domain registrar.](find-your-domain-registrar.md)
     
-- [Learn what you should have on hand](https://support.office.com/article/5aaa52a3-ab4e-4a4e-80d8-dc5d4d80c8d1.aspx) before you get started setting up your domain in Office 365. 
-    
-- Find out [why you have to complete the wizard steps](https://support.office.com/article/c4207bb0-9ed5-4149-a9dd-f617e1477824.aspx) before you can use your domain with Office 365. 
+- Find out [why you have to complete the wizard steps](../setup/add-domain.md#add-a-domain-to-office-365) before you can use your domain with Office 365. 
     
 

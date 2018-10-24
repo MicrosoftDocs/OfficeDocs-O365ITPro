@@ -28,11 +28,6 @@ description: "Learn to set up your Office 365 custom domain with Network Solutio
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Network Solutions](create-dns-records-at-network-solutions.md).)
   
-Here's what you need to do. Follow the steps below or [watch the video](https://support.office.com/en-us/article/Video-Change-nameservers-to-set-up-Office-365-with-Network-Solutions-69b092e3-c026-4d19-a7d0-16cdb2d8b261?ui=en-US&amp;rs=en-US&amp;ad=US). [Still need help?](change-nameservers-at-network-solutions.md#BKMK_NeedHelp)
-  
-- [Add a TXT record at Network Solutions to verify that you own the domain](change-nameservers-at-network-solutions.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-network-solutions.md#BKMK_nameservers)
     
 ## Add a TXT record at Network Solutions to verify that you own the domain
 
@@ -141,9 +136,9 @@ Ready to change your NS records so Office 365 can set up your domain? Follow the
   
 5. Depending on whether or not there are already nameservers listed on the page that is displayed now, continue to one of the two following procedures:
     
-  - If there are **NO** nameservers already listed, [If there are NO nameservers already listed](change-nameservers-at-network-solutions.md#BKMK_ProcedureWithOUT).
+  - If there are **NO** nameservers already listed, [If there are NO nameservers already listed](#if-there-are-no-nameservers-already-listed).
     
-  - If there **ARE** nameservers already listed, [If there ARE nameservers already listed](change-nameservers-at-network-solutions.md#BKMK_ProcedureWITH).
+  - If there **ARE** nameservers already listed, [If there ARE nameservers already listed](#if-there-are-nameservers-already-listed).
     
 ### If there are NO nameservers already listed
 

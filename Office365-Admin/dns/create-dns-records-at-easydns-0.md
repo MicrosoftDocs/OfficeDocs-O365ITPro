@@ -33,11 +33,9 @@ NOTE: SRV Records are currently NOT available under all easyDNS service packages
     
 4. Enter the following records in the text fields:
     
-1. 
-
-|**Host**|**Text**|
-|:-----|:-----|
-|@  <br/> |MS=msXXXXXXXX (Use the value provided to you on the Admin Center Domains page)  <br/> |
+    |**Host**|**Text**|
+    |:-----|:-----|
+    |@  <br/> |MS=msXXXXXXXX (Use the value provided to you on the Admin Center Domains page)  <br/> |
    
 5. Choose **NEXT**. 
     
@@ -65,11 +63,9 @@ NOTE: SRV Records are currently NOT available under all easyDNS service packages
     
 4. Enter the following records in the text fields:
     
-1. 
-
-|**MAIL FOR ZONE**|**MAIL SERVER**|**PREF**|
-|:-----|:-----|:-----|
-|@  <br/> |\<domain-key\>.mail.protection.outlook.com (Get your \<domain-key\> value from the Admin Center Domains page)  <br/> |0  <br/> |
+    |**MAIL FOR ZONE**|**MAIL SERVER**|**PREF**|
+    |:-----|:-----|:-----|
+    |@  <br/> |\<domain-key\>.mail.protection.outlook.com (Get your \<domain-key\> value from the Admin Center Domains page)  <br/> |0  <br/> |
    
 2. If you want to save your other MX records for backup purposes, copy them down somewhere. Before moving on, remove all other MX records here.
     
@@ -86,17 +82,16 @@ NOTE: SRV Records are currently NOT available under all easyDNS service packages
 3. Under the **CNAME/Alias records** heading, click the edit button (wrench icon). 
     
 4. Enter the following records in the text fields:
-    
-1. 
 
-|**HOST**|**Address (Must end with a ".")**|
-|:-----|:-----|
-|autodiscover  <br/> |autodiscover.outlook.com.  <br/> |
-|sip  <br/> |sipdir.online.lync.com.  <br/> |
-|lyncdiscover  <br/> |webdir.online.lync.com.  <br/> |
-|msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> |
-|enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> |
-|enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> |
+
+    |**HOST**|**Address (Must end with a ".")**|
+    |:-----|:-----|
+    |autodiscover  <br/> |autodiscover.outlook.com.  <br/> |
+    |sip  <br/> |sipdir.online.lync.com.  <br/> |
+    |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> |
+    |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> |
+    |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> |
+    |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> |
    
 5. Choose **NEXT**. 
     
@@ -112,11 +107,9 @@ NOTE: SRV Records are currently NOT available under all easyDNS service packages
     
 4. Enter the following records in the text fields:
     
-1. 
-
-|**Host**|**Text**|
-|:-----|:-----|
-|@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> |
+    |**Host**|**Text**|
+    |:-----|:-----|
+    |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> |
    
 5. Choose **NEXT**. 
     
@@ -134,12 +127,10 @@ NOTE: SRV Records are currently NOT available under easyDNS' Domain Plus service
     
 4. Enter the following records in the text fields:
     
-1. 
-
-|**SERVICE**|**PROTO**|**HOST**|**PRI**|**WGT**|**PORT**|**TARGET(Must end with a ".")**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|_sip  <br/> |TLS  <br/> |@  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> |1800  <br/> |
-|_sipfederationtls  <br/> |TCP  <br/> |@  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> |1800  <br/> |
+    |**SERVICE**|**PROTO**|**HOST**|**PRI**|**WGT**|**PORT**|**TARGET(Must end with a ".")**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |_sip  <br/> |TLS  <br/> |@  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> |1800  <br/> |
+    |_sipfederationtls  <br/> |TCP  <br/> |@  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> |1800  <br/> |
    
 5. Choose **NEXT**. 
     

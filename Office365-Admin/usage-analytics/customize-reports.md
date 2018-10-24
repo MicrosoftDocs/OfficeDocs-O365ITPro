@@ -115,7 +115,7 @@ You can start by connecting directly to the ODATA reporting APIs from Office 365
   
 3. Enter your Office 365 (organization or school) admin credentials to authenticate to Office 365 when prompted.
     
-    See [FAQ](usage-analytics.md#bkmk_faq) for more information about who is allowed to access the Office 365 Adoption content pack reports. 
+    See the [FAQ](usage-analytics.md#faq) for more information about who is allowed to access the Office 365 Adoption content pack reports. 
     
 4. Once the connection is authorized, you will see the Navigator window that shows the datasets available to connect to.
     
@@ -139,7 +139,7 @@ You can download the Power BI template file from the Microsoft download center [
   
 3. Enter your admin credentials to authenticate to Office 365 when prompted.
     
-    See [FAQ](usage-analytics.md#bkmk_faq) for more information about who is allowed to access the Microsoft 365 usage analytics reports. 
+     for more information about who is allowed to access the Microsoft 365 usage analytics reports. 
     
     Once authorized, the data will be refreshed in the Power BI file.
     

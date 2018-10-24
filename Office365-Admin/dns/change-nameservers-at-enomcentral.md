@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with eNomCentral"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -30,14 +29,8 @@ description: "Learn how you can set up Office 365 to manage the DNS records of y
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at eNomCentral](create-dns-records-at-enomcentral.md).)
   
-Here's what you need to do. Follow the steps below or [watch the video](https://support.office.com/en-us/article/Video-Change-nameservers-to-set-up-Office-365-with-eNomCentral-4a83685c-5ebf-462b-9d4d-bbdd9f3ffddc?ui=en-US&amp;rs=en-US&amp;ad=US). (Need more help? [Still need help?](change-nameservers-at-enomcentral.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record at eNomCentral to verify that you own the domain](change-nameservers-at-enomcentral.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-enomcentral.md#BKMK_nameservers)
     
 ## Add a TXT record at eNomCentral to verify that you own the domain
-<a name="BKMK_verify"> </a>
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -65,7 +58,7 @@ Follow the steps below or [watch the video (start at 0:46)](https://support.offi
 ||||
 |:-----|:-----|:-----|
 |**Host Name** <br/> |**Record Type** <br/> |**Address** <br/> |
-|@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/>    |
    
    ![eNom-BP-Verify-1-2](../media/e1f95529-46a6-40f9-9709-9fe66f373bcf.png)
   
@@ -97,7 +90,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Change your domain's nameserver (NS) records
-<a name="BKMK_nameservers"> </a>
 
 To complete setting up your domain with Office 365, you change your domain's NS records at your domain registrar to point to the Office 365 primary and secondary name servers. This sets up Office 365 to update the domain's DNS records for you. We'll add all records so that email, Skype for Business Online, and your public website work with your domain, and you'll be all set.
   
@@ -127,12 +119,11 @@ Ready to change your NS records so Office 365 can set up your domain? Follow the
   
 5. Depending on whether or not there are already nameservers listed on the page that is displayed now, continue to one of the two following procedures:
     
-  - If there are **NO** nameservers already listed, [If there are NO nameservers already listed](change-nameservers-at-enomcentral.md#BKMK_ProcedureWithOUT).
+  - If there are **NO** nameservers already listed, [If there are NO nameservers already listed](#if-there-are-no-nameservers-already-listed).
     
-  - If there **ARE** nameservers already listed, [If there ARE nameservers already listed](change-nameservers-at-enomcentral.md#BKMK_ProcedureWITH).
+  - If there **ARE** nameservers already listed, [If there ARE nameservers already listed](#if-there-are-nameservers-already-listed).
     
 ### If there are NO nameservers already listed
-<a name="BKMK_ProcedureWithOUT"> </a>
 
 1. On the **Edit DNS Servers** page, type or copy and paste the nameserver values from the table below. 
     
@@ -142,8 +133,9 @@ Ready to change your NS records so Office 365 can set up your domain? Follow the
 |**Name Server 2** <br/> |ns2.bdm.microsoftonline.com  <br/> |
 |**Name Server 3** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Name Server 4** <br/> |ns4.bdm.microsoftonline.com  <br/> |
+|||
    
-    ![eNom-BP-Redelegate-1-3](../media/5381bfe3-e2d3-43f5-a034-07e3a68a336b.png)
+   ![eNom-BP-Redelegate-1-3](../media/5381bfe3-e2d3-43f5-a034-07e3a68a336b.png)
   
 2. Choose **save**.
     
@@ -153,7 +145,7 @@ Ready to change your NS records so Office 365 can set up your domain? Follow the
 > Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain. 
   
 ### If there ARE nameservers already listed
-<a name="BKMK_ProcedureWITH"> </a>
+
 
 > [!CAUTION]
 > Follow these steps  *only*  if you have existing nameservers other than the four  *correct*  nameservers. (That is, delete  *only*  any current nameservers that are  *not*  named **ns1.bdm.microsoftonline.com**, **ns2.bdm.microsoftonline.com**, **ns3.bdm.microsoftonline.com**, or **ns4.bdm.microsoftonline.com**.) 
@@ -170,6 +162,7 @@ Ready to change your NS records so Office 365 can set up your domain? Follow the
 |**Name Server 2** <br/> |ns2.bdm.microsoftonline.com  <br/> |
 |**Name Server 3** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Name Server 4** <br/> |ns4.bdm.microsoftonline.com  <br/> |
+|||
    
    ![eNom-BP-Redelegate-1-3](../media/5381bfe3-e2d3-43f5-a034-07e3a68a336b.png)
   

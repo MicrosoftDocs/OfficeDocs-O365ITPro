@@ -14,7 +14,7 @@ search.appverid:
 - MOE150
 - BEA160
 ms.assetid: 796f7eda-b1f8-479a-adee-bd9226ca47ec
-description: "Learn how to remove a license from your Office 365 for business subscription when the license is already assigned to someone."
+description: "Learn how to resolve license conflicts with your Office 365 for business subscription."
 ---
 
 # Resolve license conflicts in Office 365 for business

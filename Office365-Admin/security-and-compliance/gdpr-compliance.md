@@ -141,9 +141,7 @@ To get ready for the GDPR, here are some suggestions for next steps to take:
 - Evaluate your organization's readiness for the GDPR with the [Microsoft GDPR Assessment Tool](https://assessment.microsoft.com/gdpr-compliance).
     
 - Investigate [Microsoft 365 Business](https://www.microsoft.com/microsoft-365/business) as a solution for achieving and maintaining compliance with GDPR. 
-    
-- See [Additional resources](gdpr-compliance.md#BKMK_AdditionalResources) for more information. 
-    
+   
 
 > [!IMPORTANT]
 > Get legal advice appropriate for your company or organization.

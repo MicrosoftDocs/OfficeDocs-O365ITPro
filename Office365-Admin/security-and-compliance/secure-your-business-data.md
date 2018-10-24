@@ -1,5 +1,5 @@
 ---
-title: "Top 10 ways to secure Office 365 and Microsoft 365 Business plans from cyber threats"
+title: "Top 10 ways to secure Office 365 and Microsoft 365 Business plans"
 ms.author: supotter
 author: supotter
 manager: scotv
@@ -17,7 +17,7 @@ ms.assetid: de2da300-dbb6-4725-bb12-b85a9d296e75
 description: "Protect your business email and data from cyber threats, including ransomware, phishing, and malicious attachments. "
 ---
 
-# Top 10 ways to secure Office 365 and Microsoft 365 Business plans from cyber threats
+# Top 10 ways to secure Office 365 and Microsoft 365 Business plans
 
 If you are a small or medium-size organization using one of Microsoft's business plans and your type of organization is targeted by cyber criminals and hackers, use the guidance in this article to increase the security of your organization. This guidance helps your organization achieve the goals described in the Harvard Kennedy School [Cybersecurity Campaign Handbook](https://go.microsoft.com/fwlink/?linkid=2015598&amp;clcid=0x409).
   

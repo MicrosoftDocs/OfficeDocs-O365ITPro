@@ -28,17 +28,8 @@ description: "Learn how you can set up Office 365 to manage the DNS records of y
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Hostgator](create-dns-records-at-hostgator.md).)
   
-> [!IMPORTANT]
-> You must perform the first procedure in the following list, [Point your domain to your hosting account.](change-nameservers-at-hostgator.md#BKMK_PointDomain), before you add DNS records by using any of the other procedures in this article. ([Still need help?](change-nameservers-at-hostgator.md#BKMK_NeedHelp))
-  
-- [Point your domain to your hosting account.](change-nameservers-at-hostgator.md#BKMK_PointDomain)
-    
-- [Add a TXT record for verification](change-nameservers-at-hostgator.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-hostgator.md#BKMK_nameservers)
     
 ## Point your domain to your hosting account.
-<a name="BKMK_PointDomain"> </a>
 
 > [!IMPORTANT]
 > You must perform this procedure before you perform the procedure in the following section, **Add a TXT record for verification**.
@@ -97,7 +88,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |||||
 |:-----|:-----|:-----|:-----|
 |**Name** <br/> |**TTL** <br/> |**Type** <br/> |**TXT Data** <br/> |
-|Use your  *domain_name*  . (for example, fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |1  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|Use your  *domain_name*  . (for example, fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |1  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)     <br/>  |
    
 4. Choose **Add Record**.
     

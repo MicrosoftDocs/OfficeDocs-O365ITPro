@@ -34,16 +34,7 @@ Follow these procedures if at least one of the following three statements descri
     
     Your domain is hosted at a DNS hosting provider or domain registrar that is not listed in the article [How to buy a domain name](../get-help-with-domains/buy-a-domain-name.md).
     
-Here's what you need to do. (Need more help? [Get support](https://support.office.com/article/fb8b07ce-6d9d-4616-96f0-20b093911531e.aspx#BKMK_NeedHelp).)
-  
-- [Delete your Cloudflare domain](fb8b07ce-6d9d-4616-96f0-20b093911531.md#BKMK_delete)
-    
-- [Add a TXT or MX record for verification](fb8b07ce-6d9d-4616-96f0-20b093911531.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](fb8b07ce-6d9d-4616-96f0-20b093911531.md#BKMK_nameservers)
-    
 ## Delete your Cloudflare domain
-<a name="BKMK_delete"> </a>
 
 When you signed up for Cloudflare, you added a domain by using the **Add Domains** process. 
   
@@ -76,7 +67,6 @@ After you remove your domain from Cloudflare, you will perform additional steps 
     ![Cloudflare-BP-Redelegate-1-3](../media/f58ea101-100c-43c7-b9f7-0c3c2272b960.png)
   
 ## Add a TXT or MX record for verification
-<a name="BKMK_verify"> </a>
 
 > [!IMPORTANT]
 > You must perform this procedure at the domain registrar where you purchased and registered your domain. 
@@ -102,13 +92,13 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 |**Record Type**|**Alias or Host Name**|**Value**|**TTL**|
 |:-----|:-----|:-----|:-----|
-|TXT  <br/> |(Type or copy and paste either ** @ ** or your ** *domain_name* **.)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Set this value to **1 hour** or to the equivalent in minutes ( **60**), sections ( **3600**), and so on.  <br/> |
+|TXT  <br/> |(Type or copy and paste either **@** or your **domain_name**.)  <br/> |MS=ms XXXXXXXX  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/>  |Set this value to **1 hour** or to the equivalent in minutes ( **60**), sections ( **3600**), and so on.  <br/> |
    
 2. If you create an **MX** record, use the values in the following table. 
     
 |**Record Type**|**Alias or Host Name**|**Value**|**Priority**|**TTL**|
 |:-----|:-----|:-----|:-----|:-----|
-|MX|(Type or copy and paste either ** @ ** or your ** *domain_name* **.) |MS=ms *XXXXXXXX* > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |For **Priority**, to avoid conflicts with the MX record used for mail flow, use a lower priority for any existing MX records.|Set this value to **1 hour** or to the equivalent in minutes ( **60**), sections ( **3600**), and so on.|
+|MX|(Type or copy and paste either ** @ ** or your ** *domain_name* **.) |MS=ms *XXXXXXXX* This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |For **Priority**, to avoid conflicts with the MX record used for mail flow, use a lower priority for any existing MX records.|Set this value to **1 hour** or to the equivalent in minutes ( **60**), sections ( **3600**), and so on.|
    
 3. Save the record.
     
@@ -134,7 +124,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Change your domain's nameserver (NS) records
-<a name="BKMK_nameservers"> </a>
 
 > [!IMPORTANT]
 > You must perform this procedure at the domain registrar where you purchased and registered your domain. 
@@ -163,7 +152,7 @@ To change your domain's name servers at your domain registrar's website yourself
   
 For example, here are some additional steps that might be required for email and website hosting:
   
-- Move all email addresses that use your domain to Office 365 before you change your NS records. Learn more: [Why should I add users to Office 365 while I'm adding my domain?](https://support.office.com/article/60253758-518f-4bd8-8ad9-c69de9ea535a.aspx)
+- Move all email addresses that use your domain to Office 365 before you change your NS records. 
     
 - Want to add a domain that's currently used with a website address, like www.fourthcoffee.com? You can take steps while you add the domain to keep its website hosted where the site is hosted now, so that people can still get to the website after you change the domain's NS records to point to Office 365.
     

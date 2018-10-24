@@ -3,7 +3,6 @@ title: "Office 365 Groups naming policy"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -20,12 +19,7 @@ description: "Learn how to create a naming policy for Office 365 groups. "
 
 # Office 365 Groups naming policy
 
- *Last updated: 25 May, 2018* 
-  
-|
-|
-|**The information in topic applies to the public preview release of the groups naming policy feature.**|
-|:-----|
+**The information in topic applies to the public preview release of the groups naming policy feature.**|
    
 You use a group naming policy to enforce a consistent naming strategy for Office 365 groups created by users in your organization. A naming policy can help you and your users identify the function of the group, membership, geographic region, or who created the group. The naming policy can also help categorize groups in the address book. You can use the policy to block specific words from being used in group names and aliases.
   
@@ -163,9 +157,12 @@ At the message about an untrusted repository, type **Y**. It will take a minute 
   Connect-AzureAD
   ```
 
-    In the **Sign in to your Account** screen that opens, enter your Office 365 admin account and password to connect you to your service, and click **Sign in**.
+
+  In the **Sign in to your Account** screen that opens, enter your Office 365 admin account and password to connect you to your service, and click **Sign in**.
+
+
     
-    ![Enter your Office 365 credentials](../media/a2b4e2f3-436f-4a6c-b571-1a192698acea.png)
+  ![Enter your Office 365 credentials](../media/a2b4e2f3-436f-4a6c-b571-1a192698acea.png)
   
 Follow the steps in [Azure Active Directory cmdlets for configuring group settings](https://go.microsoft.com/fwlink/p/?LinkID=858519) to create group settings. 
   
@@ -205,7 +202,9 @@ Follow the steps in [Azure Active Directory cmdlets for configuring group settin
   Set-AzureADDirectorySetting -Id (Get-AzureADDirectorySetting | where -Property DisplayName -Value "Group.Unified" -EQ).id -DirectorySetting $Setting
   ```
 
-    That's it. You've set your naming policy and added your blocked words.
+
+
+ That's it. You've set your naming policy and added your blocked words.
     
 ## Naming policy experiences across Office 365 apps
 

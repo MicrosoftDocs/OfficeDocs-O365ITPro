@@ -1,5 +1,5 @@
 ---
-title: "Fix Outlook and Office 365 issues with Support and Recovery Assistant for Office 365"
+title: "Fix Outlook and Office 365 issues with Support and Recovery Assistant"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
