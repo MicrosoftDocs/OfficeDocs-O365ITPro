@@ -31,17 +31,6 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If you choose to manage your own Office 365 DNS records at dotPH despite the service limitations, follow the steps in this article to set up your DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-dotph.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-dotph.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-dotph.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-dotph.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-dotph.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-dotph.md#BKMK_add_SRV)
     
 After you add these records at dotPH, your domain will be set up to work with Office 365 services.
   
@@ -51,14 +40,13 @@ To learn about webhosting and DNS for websites with Office 365, see [Use a publi
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
-<a name="BKMK_verify"> </a>
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
 > [!NOTE]
 > This record is used only to verify that you own your domain; it doesn't affect anything else. You can delete it later, if you like. 
   
-1. To get started, go to your domains page at dotPH by using [this link](https://www.dot.ph/domains/account). You'll be prompted to log in first.
+1. To get started, go to your domains page at dotPH by using [this link](https://www.dot.ph/domain_manager). You'll be prompted to log in first.
     
     ![DotPH-BP-Configure-1-1](../media/c8fd1371-76bc-43b6-9a29-70f3c89fff4c.png)
   
@@ -78,7 +66,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 |**Domain**|**Type**|**Content**|
 |:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|(Leave this field empty.)  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)     <br/>     |
    
    ![DotPH-BP-Verify-1-1](../media/bdfa16fe-ac27-4954-939e-86b68787ce14.png)
   
@@ -110,9 +98,8 @@ When Office 365 finds the correct TXT record, your domain is verified.
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add an MX record so email for your domain will come to Office 365
-<a name="BKMK_add_MX"> </a>
 
-1. To get started, go to your domains page at dotPH by using [this link](https://www.dot.ph/domains/account). You'll be prompted to log in first.
+1. To get started, go to your domains page at dotPH by using [this link](https://www.dot.ph/domain_manager). You'll be prompted to log in first.
     
     ![DotPH-BP-Configure-1-1](../media/c8fd1371-76bc-43b6-9a29-70f3c89fff4c.png)
   
@@ -132,7 +119,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 |**Domain**|**Type**|**Weight**|**Content**|
 |:-----|:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |MX  <br/> |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|(Leave this field empty.)  <br/> |MX  <br/> |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **NOTE:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)        <br/> |
    
    ![DotPH-BP-Configure-2-1](../media/a032d938-e69c-4039-a62e-8f0f159c458d.png)
   
@@ -153,9 +140,8 @@ When Office 365 finds the correct TXT record, your domain is verified.
 8. Use the same two steps to delete any other MX records, until only the one that you created earlier in this procedure remains.
     
 ## Add the six CNAME records that are required for Office 365
-<a name="BKMK_add_CNAME"> </a>
 
-1. To get started, go to your domains page at dotPH by using [this link](https://www.dot.ph/domains/account). You'll be prompted to log in first.
+1. To get started, go to your domains page at dotPH by using [this link](https://www.dot.ph/domain_manager). You'll be prompted to log in first.
     
     ![DotPH-BP-Configure-1-1](../media/c8fd1371-76bc-43b6-9a29-70f3c89fff4c.png)
   
@@ -197,7 +183,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
     Repeat this process until you have created all six CNAME records.
     
 ## Add a TXT record for SPF to help prevent email spam
-<a name="BKMK_add_TXT"> </a>
 
 > [!IMPORTANT]
 > You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
@@ -222,7 +207,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 |**Domain**|**Type**|**Content**|
 |:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+|(Leave this field empty.)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **NOTE:** We recommend copying and pasting this entry, so that all of the spacing stays correct. <br/>           |
    
    ![DotPH-BP-Configure-4-1](../media/90075dd0-9e1d-4f9e-9b10-a5f3327dbeac.png)
   
@@ -231,10 +216,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     ![DotPH-BP-Configure-4-2](../media/43c1b524-3457-49ac-9632-a439a40fbc55.png)
   
 ## Add the two SRV records that are required for Office 365
-<a name="BKMK_add_SRV"> </a>
 
 > [!CAUTION]
-> The dotPH website doesn't support SRV records, which means several Skype for Business Online and Outlook Web App features won't work. No matter which Office 365 plan you use, if you manage your DNS records at dotPH, there are [significant service limitations](https://support.office.com/article/7ae9a655-041d-4724-aa92-60392ee390c2.aspx), and you might want to switch to a different DNS hosting provider. 
+> The dotPH website doesn't support SRV records, which means several Skype for Business Online and Outlook Web App features won't work. No matter which Office 365 plan you use, if you manage your DNS records at dotPH, there are [Significant service limitations](../setup/domains-faq.md#domains-faq), and you might want to switch to a different DNS hosting provider. 
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 

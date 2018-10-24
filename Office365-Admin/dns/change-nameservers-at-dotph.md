@@ -36,7 +36,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 > [!NOTE]
 > This record is used only to verify that you own your domain; it doesn't affect anything else. You can delete it later, if you like. 
   
-1. To get started, go to your domains page at dotPH by using[this link](https://www.dot.ph/domain_manager). You'll be prompted to log in first.
+1. To get started, go to your domains page at dotPH by using [this link](https://www.dot.ph/domain_manager). You'll be prompted to log in first.
     
 2. On the **Registered Domains** page, in the **Domain** section, choose the name of the domain you are updating. 
     

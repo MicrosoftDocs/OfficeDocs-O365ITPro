@@ -96,10 +96,6 @@ By default, the person who created the group is the group owner. Often a group w
     
 - To add hundreds or thousands of users to Office 365 groups, use the [Add-UnifiedGroupLinks](https://go.microsoft.com/fwlink/p/?LinkId=616191).
     
-- [Control guest access to Office 365 Groups](https://support.office.com/article/7c713d74-a144-4eab-92e7-d50df526ff96.aspx)
-    
-- [Manage guest access in admin portal](https://support.office.com/article/53abaec2-d84c-4f74-bfeb-f0867456c39e.aspx)
-    
 - [Assign a new owner to an orphaned group](https://support.office.com/article/86bb3db6-8857-45d1-95c8-f6d540e45732.aspx)
     
 ## Articles about managing groups
@@ -108,7 +104,6 @@ By default, the person who created the group is the group owner. Often a group w
     
 - [Why you should upgrade your distribution lists to groups in Outlook](https://support.office.com/article/7fb3d880-593b-4909-aafa-950dd50ce188.aspx)
     
-- [Manage guest access to Office 365 Groups](https://support.office.com/article/7c713d74-a144-4eab-92e7-d50df526ff96.aspx)
     
 - [Manage Office 365 Groups with PowerShell](https://support.office.com/article/aeb669aa-1770-4537-9de2-a82ac11b0540): this article introduces you to key cmdlets and provides examples
     
