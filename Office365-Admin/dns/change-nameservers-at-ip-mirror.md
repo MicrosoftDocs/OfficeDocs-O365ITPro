@@ -44,7 +44,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 > [!NOTE]
 > This record is used only to verify that you own your domain; it doesn't affect anything else. You can delete it later, if you like.
   
-1. To get started, go to your domains page at IP Mirror by using [this link](https://customer.ipmirror.com/cctldbox/). You'll be prompted to log in first.
+1. To get started, go to your domains page at IP Mirror by using [this link](https://portal.speednames.asia/portal/). You'll be prompted to log in first.
     
 2. In the **Manage Domain** column, choose **My Domains**.
     
@@ -100,7 +100,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 > [!IMPORTANT]
 >  The following procedure will show you how to delete any other, unwanted nameservers from the list, and also how to add the correct nameservers if they are not already listed. >  When you have completed the steps in this section, the only nameservers that should be listed are these four: **ns1.bdm.microsoftonline.com**, **ns2.bdm.microsoftonline.com**, **ns3.bdm.microsoftonline.com**, and **ns4.bdm.microsoftonline.com**. 
   
-1. To get started, go to your domains page at IP Mirror by using [this link](https://customer.ipmirror.com/cctldbox/). You'll be prompted to log in first.
+1. To get started, go to your domains page at IP Mirror by using [this link](https://portal.speednames.asia/portal/). You'll be prompted to log in first.
     
 2. In the **Manage Domain** column, choose **My Domains**.
     

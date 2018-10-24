@@ -23,21 +23,14 @@ description: "Learn how you can set up Office 365 operated by 21Vianet to manage
 
 Follow these instructions if you want Office 365 operated by 21Vianet to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your DNS records at CNDNS](create-dns-records-at-cndns.md).)
   
-Here's what you need to do:
-  
-- [Add a TXT record to verify that you own the domain](change-nameservers-at-cndns.md#BKMK_add_a_record)
-    
-- [Change your domain's nameserver records](change-nameservers-at-cndns.md#BKMK_change_your_domain_s_1)
-    
 ## Add a TXT record to verify that you own the domain
-<a name="BKMK_add_a_record"> </a>
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
 > [!NOTE]
 > This record is used only to verify that you own your domain; it doesn't affect anything else. You can delete it later, if you like. 
   
-1. In your browser, go to [your domains list at CNDNS](http://www.cndns.com/userpanel/dme_mng/dme_lst.asp) and sign in. 
+1. In your browser, go to [your domains list at CNDNS](https://www.cndns.com/) and sign in. 
     
     ![Sign in to CNDNS](../media/e9a982be-5751-49ca-a6e5-c227eedffc7e.png)
   
@@ -59,9 +52,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 4. Click **立即添加** (add). 
     
-Now that you've added the record at your domain registrar's site, you'll go back to Office 365 and request Office 365 to look for the record.
-  
-When Office 365 finds the correct TXT record, your domain is verified.
+    Now that you've added the record at your domain registrar's site, you'll go back to Office 365 and request Office 365 to look for the record.
+      
+    When Office 365 finds the correct TXT record, your domain is verified.
   
 1. Choose **Setup** \> **Domains**.
     
@@ -74,14 +67,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
     ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
   
 ## Change your domain's nameserver records
-<a name="BKMK_change_your_domain_s_1"> </a>
 
 To complete setting up your domain with Office 365, you change your domain's NS records at your domain registrar to point to the Office 365 operated by 21Vianet primary and secondary name servers. This sets up Office 365 to update the domain's DNS records for you. We'll add all records so that email, Lync, and your public website work with your domain, and you'll be all set.
   
 > [!CAUTION]
 > When you change your domain's NS records to point to the Office 365 name servers, all the services that are currently associated with your domain are affected. For example, all email sent to your domain (like rob@ *your_domain*  .com) will start coming to Office 365 after you make this change. 
   
-1. In your browser, go to [your domains list at CNDNS](http://www.cndns.com/userpanel/dme_mng/dme_lst.asp) and sign in. 
+1. In your browser, go to [your domains list at CNDNS](https://www.cndns.com/) and sign in. 
     
     ![Sign in to CNDNS](../media/e9a982be-5751-49ca-a6e5-c227eedffc7e.png)
   

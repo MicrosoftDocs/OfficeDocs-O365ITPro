@@ -123,7 +123,7 @@ To enable MFA, you have to complete the following:
     
   - Set up Azure MFA with third-party directory services.
     
-    See the [Azure AD federation compatibility list](https://go.microsoft.com/fwlink/p/?LinkId=510953) for information on specific identity providers accepted to this program. 
+    See the [Advanced scenarios with Azure Multi-Factor Authentication and third-party VPN solutions](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfaserver-nps-vpn) for information on specific identity providers accepted to this program. 
     
 2. [Set up multi-factor authentication for Office 365](set-up-multi-factor-authentication.md)
     
