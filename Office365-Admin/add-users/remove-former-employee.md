@@ -86,7 +86,6 @@ Here's a quick overview. Each step is explained in detail in this article.
 |||
 |:-----|:-----|
 |**Step** <br/> |**Why do this** <br/> |
-|
 |1. [Save the contents of a former employee's mailbox](remove-former-employee.md#bkmk_preserve) <br/> |This is useful for the person who is going to take over the employee's work, or in case of litigation.  <br/> |
 |2. [Forward a former employee's email to another employee or convert to a shared mailbox](remove-former-employee.md#bkmk_forward) <br/> |This lets you keep the former employee's email address active. If you have customers or partners still sending email to the former employee's address, this gets them to the person taking over the work.  <br/> |
 |3. [Wipe and block a former employee's mobile device](remove-former-employee.md#bkmk_mobile) <br/> |Removes your business data from the phone or tablet.  <br/> |
