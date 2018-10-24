@@ -8,6 +8,7 @@
 ### [Groups](groups.md)
 ### [Public groups](public-groups.md)
 ### [Kaizala mobile app](kaizala-mobile-app.md)
+### [Chat history](chat-history.md)
 ### [Use the web app](use-the-web-app.md)
 ### [Regional availability](regional-availability.md)
 ### [Age verification](age-verification.md)
