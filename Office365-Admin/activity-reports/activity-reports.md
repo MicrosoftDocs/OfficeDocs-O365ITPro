@@ -84,30 +84,28 @@ Depending on your Office 365 subscription, here are the available reports.
 - [Mailbox usage](mailbox-usage.md)
     
 - [Office activations](microsoft-office-activations.md)
-    
-### Click here to see more reports
 
-[Active Users](active-users.md)
+- [Active Users](active-users.md)
   
-[Email apps usage](email-apps-usage.md)
+- [Email apps usage](email-apps-usage.md)
   
-[Office 365 groups](office-365-groups.md)
+- [Office 365 groups](office-365-groups.md)
   
-[OneDrive for Business user activity](onedrive-for-business-activity.md)
+- [OneDrive for Business user activity](onedrive-for-business-activity.md)
   
-[OneDrive for Business usage](onedrive-for-business-usage.md)
+- [OneDrive for Business usage](onedrive-for-business-usage.md)
   
-[SharePoint site usage](sharepoint-site-usage.md)
+- [SharePoint site usage](sharepoint-site-usage.md)
   
-[SharePoint activity](sharepoint-activity.md)
+- [SharePoint activity](sharepoint-activity.md)
   
-[Skype for Business Online activity](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/activity-report)
+- [Skype for Business Online activity](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/activity-report)
   
-[Skype for Business Online conference organized activity](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/conference-organizer-activity-report )
+- [Skype for Business Online conference organized activity](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/conference-organizer-activity-report )
   
-[Skype for Business Online conference participant activity](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/conference-participant-activity-report )
+- [Skype for Business Online conference participant activity](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/conference-participant-activity-report )
   
-[Skype for Business Online peer-to-peer activity](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/peer-to-peer-activity-report )
+- [Skype for Business Online peer-to-peer activity](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/peer-to-peer-activity-report )
   
 ::: moniker range="o365-worldwide"
 
@@ -157,7 +155,7 @@ You can't generate a report where you enter a user's account and then get a list
 
 If you want to hide user level information when you're generating your reports, you can quickly make that change in the Office 365 admin center.
   
-1. Go to the Office 365 admin center \> **Services &amp; add-ins**. <br/>![Go to Office 365 services and add-ins](../media/70ad5f01-2187-4b0c-a672-b00cebfa5ec3.png)
+1. Go to the Admin center \> **Services &amp; add-ins**. <br/>![Go to Office 365 services and add-ins](../media/70ad5f01-2187-4b0c-a672-b00cebfa5ec3.png)
   
 2. Select **Reports**. <br/>![Hide specific user data in reports](../media/1ff1e88f-030b-4546-a33c-03b1174db710.png)
   
