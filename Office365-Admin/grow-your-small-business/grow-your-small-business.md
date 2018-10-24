@@ -113,7 +113,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </div>
         </a>
     </li>
-        <li>
+     </li>
         <a href="../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md">
         <div class="cardSize">
             <div class="cardPadding">
