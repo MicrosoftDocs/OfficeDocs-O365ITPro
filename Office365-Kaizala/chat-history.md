@@ -16,7 +16,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 
-description: Learn how to use the chat history feature in Kaizala.
+description: Learn how to enable and disable the chat history feature in Kaizala.
 ---
 
 # Chat history in Kaizala
