@@ -11,8 +11,15 @@ f1_keywords:
 - 'O365E_ProductKeyFAQ'
 - 'O365E_O365P_ProductKeyFAQ'
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_UI_Elements
+- EU_O365_UI_Elements
+ms.custom:
+- Adm_O365
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150

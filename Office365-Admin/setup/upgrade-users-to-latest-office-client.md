@@ -10,6 +10,11 @@ f1_keywords:
 - 'fwlink 824861; CampaignID O365_Comm_SR_UpgradeOffice'
 ms.service: o365-administration
 localization_priority: Priority
+ms.custom:
+- Core_O365Admin_Migration
+- MiniMaven
+- O365_OfficeClient
+- Strat_O365_OfficeClient
 search.appverid:
 - BCS160
 - MET150

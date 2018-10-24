@@ -10,7 +10,10 @@ f1_keywords:
 - 'O365M_RecoPasswordSettings'
 - 'O365E_RecoPasswordSettings'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.custom:
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150

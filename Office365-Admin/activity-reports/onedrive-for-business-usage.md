@@ -10,9 +10,19 @@ f1_keywords:
 - 'O365M_ReportsOD4BUsage'
 - 'O365E_ReportsOD4BUsage'
 ms.service: o365-administration
-localization_priority: Priority
-ms.collection: Strat_OD_admin
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_UI_Elements
+- IT_OneDriveAdmin
+- IT_OneDriveAdmin_Top
+- Strat_OD_admin
+ms.custom:
+- Adm_O365
+- Adm_O365_FullSet
+- Core_O365Admin_Migration
+- MiniMaven
+- Strat_OD_admin
 search.appverid:
 - BCS160
 - MET150

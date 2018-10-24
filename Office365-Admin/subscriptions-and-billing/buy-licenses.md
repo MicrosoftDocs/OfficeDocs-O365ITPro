@@ -10,8 +10,15 @@ f1_keywords:
 - 'O365M_BuyLicensesBusSubscr'
 - 'O365E_BuyLicensesBusSubscr'
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_UI_Elements
+ms.custom:
+- Adm_O365
+- Core_O365Admin_Migration
+- MiniMaven
+- SaRA
 search.appverid:
 - BCS160
 - MET150

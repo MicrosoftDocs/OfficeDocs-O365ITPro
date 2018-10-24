@@ -11,13 +11,20 @@ f1_keywords:
 - 'O365E_O365E_ManageDNS_SwitchDNSMgt'
 - 'O365E_ManageDNS_SwitchDNSMgt'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Core
 - Adm_O365_Top
 - strat_admin_top
 ms.custom:
 - Adm_O365
 - Adm_O365_Top
+- Core_O365Admin_Migration
+- domainsfaq
+- domainstoptier
+- MiniMaven
+- strat_admin_top
 search.appverid:
 - BCS160
 - MET150

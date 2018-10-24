@@ -11,8 +11,12 @@ f1_keywords:
 - 'O365E_AdminMESG_TSAlias'
 - 'AdminMESG_TSAlias'
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- Adm_O365
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150

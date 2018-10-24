@@ -20,12 +20,20 @@ f1_keywords:
 - 'O365E_DomainsMain_SetUpDomain'
 - 'O365E_DOM_Mgr_GenericHelpLink'
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Core
+- Adm_UI_Elements
+ms.custom:
+- Adm_O365
+- Adm_O365_FullSet
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
+- MET150
 - MOE150
-- MED150
-- MBS150
+- GEA150
 ms.assetid: 28343f3a-dcee-41b6-9b97-5b0f4999b7ef
 description: "Get started using your own domain for email, websites, and accounts in Office 365. Learn about domains, make changes to your domain, integrate email and websites, and get tools and tips."
 ---

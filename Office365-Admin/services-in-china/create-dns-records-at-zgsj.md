@@ -10,7 +10,11 @@ f1_keywords:
 - 'O365M_DOM_ZGSJ'
 - 'O365E_DOM_ZGSJ'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection: Adm_UI_Elements
+ms.custom:
+- Core_O365Admin_Migration
+- domainsgallatin
 search.appverid:
 - MET150
 - GEA150

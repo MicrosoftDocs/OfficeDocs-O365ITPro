@@ -10,8 +10,14 @@ f1_keywords:
 - 'O365M_BusSubscriptionsBuy'
 - 'O365E_BusSubscriptionsBuy'
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_UI_Elements
+ms.custom:
+- Adm_O365
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150

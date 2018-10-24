@@ -10,8 +10,13 @@ f1_keywords:
 - 'O365M_ReportsPBIConnect'
 - 'O365E_ReportsPBIConnect'
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- Adm_O365
+- ContentPack
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - MET150
 - MOE150

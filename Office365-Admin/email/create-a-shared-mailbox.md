@@ -8,11 +8,15 @@ ms.topic: get-started-article
 f1_keywords:
 - 'O365P_SharedMB'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection:
 - Adm_O365_Top
 - strat_admin_top
-ms.custom: Adm_O365_Top
+ms.custom:
+- Adm_O365_Top
+- Core_O365Admin_Migration
+- MiniMaven
+- strat_admin_top
 search.appverid:
 - BCS160
 - MET150
