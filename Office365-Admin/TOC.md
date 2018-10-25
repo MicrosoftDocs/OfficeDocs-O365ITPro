@@ -216,7 +216,6 @@
 ### [Changes to SharePoint.com DNS service](misc/changes-to-sharepoint-com-dns-service.md)
 ### [Required DNS Records for Office 365 GCC](misc/required-dns-records-for-office-365-gcc.md)
 ### [Device list](misc/device-list.md)
-### [Troubleshoot AutoPilot device errors](misc/troubleshoot-autopilot-device-errors.md)
 ### [Password policy recommendations](misc/password-policy-recommendations.md)
 ### [Integrated Apps](misc/integrated-apps.md)
 ### [Become the admin](misc/become-the-admin.md)
