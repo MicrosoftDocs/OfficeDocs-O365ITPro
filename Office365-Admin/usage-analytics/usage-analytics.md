@@ -106,7 +106,7 @@ The majority of the reports display data for the previous 12 months. However, so
 
 ### What data is included in the content pack?
 
-The data in the content pack currently covers the same set of activity metrics available in the [activity reports](../activity-reports/activity-reports.md#). As reports are added to the activity reports, they will be added to the content pack in a future release.
+The data in the content pack currently covers the same set of activity metrics available in the [Activity Reports](../activity-reports/activity-reports.md#activity-reports-in-the-office-365-admin-center). As reports are added to the activity reports, they will be added to the content pack in a future release.
 
 ### How does the data in the content pack differ from the data in the usage reports?
 
@@ -117,7 +117,7 @@ In addition, user level details in the content pack are only available for the l
 
 ### When should I use the content pack and when the usage reports?
 
-The [activity reports](../activity-reports/activity-reports.md)  are a good starting point to understand usage and adoption of Office 365. The content pack combines the Office 365 usage data and your organization’s Active Directory information and enables admins to analyze the data set using the visual analytics capabilities of Power BI. This enables admins to not just visualize and analyze Office 365 usage data, but also slice it by Active Directory properties such as departments, location etc. They can also create custom reports and share the insights within their organization. 
+The [Activity Reports](../activity-reports/activity-reports.md#activity-reports-in-the-office-365-admin-center)  are a good starting point to understand usage and adoption of Office 365. The content pack combines the Office 365 usage data and your organization’s Active Directory information and enables admins to analyze the data set using the visual analytics capabilities of Power BI. This enables admins to not just visualize and analyze Office 365 usage data, but also slice it by Active Directory properties such as departments, location etc. They can also create custom reports and share the insights within their organization. 
 
 ### How often is the data refreshed? 
 
