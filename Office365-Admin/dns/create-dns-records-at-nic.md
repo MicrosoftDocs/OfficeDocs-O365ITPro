@@ -36,17 +36,17 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If Network Information Center (NIC) is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business online, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-nic.md#BKMK_NeedHelp).)
+These are the main records to add.
   
-- [Add a TXT record for verification](create-dns-records-at-nic.md#BKMK_verify)
+- [Add a TXT record for verification](#add-a-txt-record-for-verification)
     
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-nic.md#BKMK_add_MX)
+- [Add an MX record so email for your domain will come to Office 365](#add-an-mx-record-so-email-for-your-domain-will-come-to-office-365)
+
+- [Add the CNAME records that are required for Office 365](#add-the-cname-records-that-are-required-for-office-365)
     
-- [Add the CNAME records that are required for Office 365](create-dns-records-at-nic.md#BKMK_add_CNAME)
+- [Add a TXT record for SPF to help prevent email spam](#add-a-txt-record-for-spf-to-help-prevent-email-spam)
     
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-nic.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-nic.md#BKMK_add_SRV)
+- [Add the two SRV records that are required for Office 365](#add-the-two-srv-records-that-are-required-for-office-365)
     
 After you add these records at NIC, your domain will be set up to work with Office 365 services.
   
@@ -79,10 +79,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (Select the TTL value from the drop-down list.)
     
-|||||
-|:-----|:-----|:-----|:-----|
-|**TYPE** <br/> |**HOST** <br/> |**TXT Value** <br/> |**TTL** <br/> |
-|TXT  <br/> |@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |1 Hour  <br/> |
+    |||||
+    |:-----|:-----|:-----|:-----|
+    |**TYPE** <br/> |**HOST** <br/> |**TXT Value** <br/> |**TTL** <br/> |
+    |TXT  <br/> |@  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |1 Hour  <br/> |
    
 7. Choose **Save**.
     
@@ -124,11 +124,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **TTL** value from the drop-down list.) 
     
-|**TYPE**|**HOST**|**POINTS TO**|**PRIORITY**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|
-|MX  <br/> |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |1  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |1 Hour  <br/> |
+    |**TYPE**|**HOST**|**POINTS TO**|**PRIORITY**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |MX  <br/> |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your \<*domain-key*\> from your Office 365 portal account. <br> [How do I find this?](../get-help-with-domains/information-for-dns-records.md) |1  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |1 Hour  <br/> |
    
- ![NIC-BP-Configure-2-2](../media/b6ac4a39-e894-46c6-8008-08ed1d247eee.png)
+    ![NIC-BP-Configure-2-2](../media/b6ac4a39-e894-46c6-8008-08ed1d247eee.png)
   
 7. Choose **Save**.
     
@@ -171,16 +171,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **TTL** value from the drop-down list.) 
     
-|**TYPE**|**HOST**|**POINTS TO**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com  <br/> |1 Hour  <br/> |
-|CNAME  <br/> |sip  <br/> |sipdir.online.lync.com  <br/> |1 Hour  <br/> |
-|CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |1 Hour  <br/> |
-|CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |1 Hour  <br/> |
-|CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |1 Hour  <br/> |
-|CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |1 Hour  <br/> |
-   
-![NIC-BP-Configure-3-2](../media/47b8500f-cec5-446f-a3b8-b8ece1233efb.png)
+    |**TYPE**|**HOST**|**POINTS TO**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com  <br/> |1 Hour  <br/> |
+    |CNAME  <br/> |sip  <br/> |sipdir.online.lync.com  <br/> |1 Hour  <br/> |
+    |CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |1 Hour  <br/> |
+    |CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |1 Hour  <br/> |
+    |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |1 Hour  <br/> |
+    |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |1 Hour  <br/> |
+       
+    ![NIC-BP-Configure-3-2](../media/47b8500f-cec5-446f-a3b8-b8ece1233efb.png)
   
 7. Choose **Save**.
     
@@ -214,11 +214,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **TTL** value from the drop-down list.) 
     
-|**TYPE**|**HOST**|**TXT VALUE**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|TXT (Text)  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1 Hour  <br/> |
+    |**TYPE**|**HOST**|**TXT VALUE**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |TXT (Text)  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/>**Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct. |1 Hour  <br/> |
    
-![NIC-BP-Configure-4-2](../media/7e9195f0-8da5-4e6b-8fb2-8f657189f078.png)
+    ![NIC-BP-Configure-4-2](../media/7e9195f0-8da5-4e6b-8fb2-8f657189f078.png)
   
 7. Choose **Save**.
     
@@ -246,14 +246,14 @@ When Office 365 finds the correct TXT record, your domain is verified.
     In the boxes for the first new record, type or copy and paste the values from the first row in the following table.
     
     (Select the **TTL** values from the drop-down list.) 
-    
-|**TYPE**|**NAME**|**TARGET**|**PROTOCOL**|**SERVICE**|**PRIORITY**|**WEIGHT**|**PORT**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|SRV (Service)  <br/> |@  <br/> |sipdir.online.lync.com  <br/> |_tls  <br/> |_sip  <br/> |100  <br/> |1  <br/> |443  <br/> |1 Hour  <br/> |
-|SRV (Service)  <br/> |@  <br/> |sipfed.online.lync.com  <br/> |_tcp  <br/> |_sipfederationtls  <br/> |100  <br/> |1  <br/> |5061  <br/> |1 Hour  <br/> |
-   
- ![NIC-BP-Configure-5-2](../media/a47c45ea-02cc-49f6-89cd-6530f72175fd.png)
-  
+        
+    |**TYPE**|**NAME**|**TARGET**|**PROTOCOL**|**SERVICE**|**PRIORITY**|**WEIGHT**|**PORT**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |SRV (Service)  <br/> |@  <br/> |sipdir.online.lync.com  <br/> |_tls  <br/> |_sip  <br/> |100  <br/> |1  <br/> |443  <br/> |1 Hour  <br/> |
+    |SRV (Service)  <br/> |@  <br/> |sipfed.online.lync.com  <br/> |_tcp  <br/> |_sipfederationtls  <br/> |100  <br/> |1  <br/> |5061  <br/> |1 Hour  <br/> |
+       
+    ![NIC-BP-Configure-5-2](../media/a47c45ea-02cc-49f6-89cd-6530f72175fd.png)
+      
 7. Choose **Save**.
     
     ![NIC-BP-Configure-5-3](../media/0734119a-4c6a-43d2-a3f6-a3ac694e321e.png)

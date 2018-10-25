@@ -22,21 +22,21 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
 
 # Create DNS records at One.com for Office 365
 
-[C﻿heck the Domains FAQ ](../setup/domains-faq.md) if you don't find what you're looking for. 
+[Check the Domains FAQ ](../setup/domains-faq.md) if you don't find what you're looking for. 
   
 If One.com is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
 These are the main records to add.
   
-- [Add a TXT record for verification](create-dns-records-at-one-com.md#bkmk_txt)
+- [Add a TXT record for verification](#add-a-txt-record-for-verification)
     
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-one-com.md#bkmk_mx)
+- [Add an MX record so email for your domain will come to Office 365](#add-an-mx-record-so-email-for-your-domain-will-come-to-office-365)
     
-- [Add the CNAME records that are required for Office 365](create-dns-records-at-one-com.md#bkmk_cname)
+- [Add the CNAME records that are required for Office 365](#add-the-cname-records-that-are-required-for-office-365)
+
+- [Add a TXT record for SPF to help prevent email spam](#add-a-txt-record-for-spf-to-help-prevent-email-spam)
     
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-one-com.md#bkmk_spf)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-one-com.md#bkmk_srv)
+- [Add the two SRV records that are required for Office 365](#add-the-two-srv-records-that-are-required-for-office-365)
     
 After you add these records at One.com, your domain will be set up to work with Office 365 services.
   
@@ -69,11 +69,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (If records already exist, use the last row of boxes to enter the new record.)
     
-    U﻿nder **Type**, choose **TXT**, and then copy and paste the values from the table below into the boxes for the new record.
+    Under **Type**, choose **TXT**, and then copy and paste the values from the table below into the boxes for the new record.
     
-|**Domain﻿**|**Type**|**TTL**|**Priority**|**Value**|
-|:-----|:-----|:-----|:-----|:-----|
-|( leave blank )  <br/> |TXT  <br/> |3600 (seconds)  <br/> |( leave blank )  <br/> |MS=msXXXXXXX  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**Domain**|**Type**|**TTL**|**Priority**|**Value**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |( leave blank )  <br/> |TXT  <br/> |3600 (seconds)  <br/> |( leave blank )  <br/> |MS=msXXXXXXX  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)   |
    
     ![One_VerificationTXT_values](../media/66589927-98e2-4acb-a333-baadf473db2b.png)
   
@@ -119,13 +119,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 4. Delete any existing MX records by choosing the red **-** icon next to each record. 
     
-5. In the ﻿ **Personal mail DNS settings** section, enter the new MX record. Under **Type**, choose **MX**, and then type or copy and paste the values from the table below into the boxes for the new record.
+5. In the **Personal mail DNS settings** section, enter the new MX record. Under **Type**, choose **MX**, and then type or copy and paste the values from the table below into the boxes for the new record.
     
-|**Domain﻿**|**Type﻿**|**Priority﻿**|**Server﻿**|
-|:-----|:-----|:-----|:-----|
-|(your domain)﻿  <br/> |MX﻿  <br/> |10  <br/> For more information about priority, see [What is MX priority](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx)?﻿  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
-   
-![One_MX_values](../media/03515b54-5b05-4f37-9261-7d5cafe3fb4d.png)
+    |**Domain﻿**|**Type﻿**|**Priority﻿**|**Server﻿**|
+    |:-----|:-----|:-----|:-----|
+    |(your domain)  <br/> |MX  <br/> |10  <br/> For more information about priority, see [What is MX priority](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx)?  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.   [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+       
+    ![One_MX_values](../media/03515b54-5b05-4f37-9261-7d5cafe3fb4d.png)
   
 6. Select the green **+** icon to save the record. 
     
@@ -144,25 +144,25 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![One_WebDNS](../media/a675d000-c681-4bbb-b0ac-4cf74a12ab86.png)
   
-4. In the **﻿Personal mail DNS settings section**, enter the new CNAME records. 
+4. In the **Personal mail DNS settings section**, enter the new CNAME records. 
     
     Under **Type**, choose **CNAME**, and then type or copy and paste the values from the table below into the boxes for the new record.
     
     > [!NOTE]
-    > ﻿If records already exist in the **Personal web DNS settings** section, use the last row of boxes to enter a new record. 
+    > If records already exist in the **Personal web DNS settings** section, use the last row of boxes to enter a new record. 
   
-|**Domain (Hostname)﻿**|**Type﻿**|**Value (Destination)﻿**|
-|:-----|:-----|:-----|
-|autodiscover  <br/> |CNAME﻿  <br/> |autodiscover.outlook.com  <br/> |
-|sip  <br/> |CNAME  <br/> |sipdir.online.lync.com  <br/> |
-|lyncdiscover  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
-|msoid  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
-|enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
-   
- ![One_CNAME_values](../media/6177025e-408b-44a6-9ab8-3f6406828abe.png)
+    |**Domain (Hostname)**|**Type**|**Value (Destination)**|
+    |:-----|:-----|:-----|
+    |autodiscover  <br/> |CNAME  <br/> |autodiscover.outlook.com  <br/> |
+    |sip  <br/> |CNAME  <br/> |sipdir.online.lync.com  <br/> |
+    |lyncdiscover  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
+    |msoid  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
+    |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+       
+     ![One_CNAME_values](../media/6177025e-408b-44a6-9ab8-3f6406828abe.png)
   
-5. Select the ﻿green **+** icon to save the record. 
+5. Select the green **+** icon to save the record. 
     
 6. Repeat the previous steps to create the other five CNAME records. For each record, type of copy and paste the values from the next row of the table above into the boxes for that record.
     
@@ -170,7 +170,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="bkmk_spf"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
   
 1. You'll be prompted to log in. To get started, go to your domains page in One.com by using [this link](https://login.one.com/cp/). 
     
@@ -189,11 +189,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     > [!NOTE]
     > If records already exist in the **Personal web DNS settings** section, use the last row of boxes to enter a new record. 
   
-|**Domain﻿**|**Type﻿**|**TTL﻿**|**Priority**|**Value﻿**|
-|:-----|:-----|:-----|:-----|:-----|
-|(leave blank)  <br/> |TXT﻿  <br/> |3600 (seconds)  <br/> |(leave blank)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
-   
- ![One_TXT_SPF_values](../media/3c60057e-9a2f-4ebc-8b9d-6c37f54d6236.png)
+    |**Domain**|**Type**|**TTL**|**Priority**|**Value**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |(leave blank)  <br/> |TXT  <br/> |3600 (seconds)  <br/> |(leave blank)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+       
+     ![One_TXT_SPF_values](../media/3c60057e-9a2f-4ebc-8b9d-6c37f54d6236.png)
   
 5. Select the green **+** icon to save the record. 
     
@@ -215,20 +215,19 @@ When Office 365 finds the correct TXT record, your domain is verified.
 4. In the **Personal web DNS settings** section, enter the new SRV record. Under **Type**, choose **SRV**, and then type or copy and paste the values from the table below into the boxes for the new record.
     
     > [!NOTE]
-    > ﻿If records already exist in the **Personal web DNS settings** section, use the last row of boxes to enter a new record. 
+    > If records already exist in the **Personal web DNS settings** section, use the last row of boxes to enter a new record. 
   
-|**Domain﻿**|**Type﻿**|**TTL﻿**|**Priority﻿**|**Value (Destination)﻿**|
-|:-----|:-----|:-----|:-----|:-----|
-|_sip._tls  <br/> |SRV (Service)  <br/> |3600 (seconds)  <br/> |100﻿  <br/> |1 443 sipdir.online.lync.com  <br/> |
-|_sipfederationtls._tcp  <br/> |SRV (Service)  <br/> |3600 (seconds)  <br/> |100﻿  <br/> |1 5061 sipfed.online.lync.com  <br/> |
-   
-![One_SRV_values](../media/630e5c17-8971-471f-9f00-2b5f0e038b5c.png)
+    |**Domain**|**Type**|**TTL**|**Priority**|**Value (Destination)**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |_sip._tls  <br/> |SRV (Service)  <br/> |3600 (seconds)  <br/> |100  <br/> |1 443 sipdir.online.lync.com  <br/> |
+    |_sipfederationtls._tcp  <br/> |SRV (Service)  <br/> |3600 (seconds)  <br/> |100  <br/> |1 5061 sipfed.online.lync.com  <br/> |
+       
+    ![One_SRV_values](../media/630e5c17-8971-471f-9f00-2b5f0e038b5c.png)
   
-5. Select ﻿the green **+** icon to save the record. 
+5. Select the green **+** icon to save the record. 
     
 6. Repeat the previous steps to create the other SRV record. Type or copy and paste the values from the second row of the table above into the boxes for the second record.
     
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
-

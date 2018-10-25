@@ -33,17 +33,17 @@ If NoIP is your DNS hosting provider, follow the steps in this article to verify
 > [!IMPORTANT]
 > You need a NoIP  *Plus Managed DNS*  account or better to create all the DNS record types required for Office 365. If your account does not meet this requirement, you will be able to create all record types except for the CNAME records required for Exchange OnlineExchange Online and Skype for Business. 
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-noip.md#BKMK_NeedHelp).)
+These are the main records to add. 
   
-- [Add a TXT record for verification](create-dns-records-at-noip.md#BKMK_verify)
+- [Add a TXT record for verification](#add-a-txt-record-for-verification)
     
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-noip.md#BKMK_add_MX)
+- [Add an MX record so email for your domain will come to Office 365](#add-an-mx-record-so-email-for-your-domain-will-come-to-office-365)
     
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-noip.md#BKMK_add_CNAME)
+- [Add the six CNAME records that are required for Office 365](#add-the-six-cname-records-that-are-required-for-office-365)
     
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-noip.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-noip.md#BKMK_add_SRV)
+- [Add a TXT record for SPF to help prevent email spam](#add-a-txt-record-for-spf-to-help-prevent-email-spam)
+
+- [Add the two SRV records that are required for Office 365](#add-the-two-srv-records-that-are-required-for-office-365)
     
 After you add these records at NoIP, your domain will be set up to work with Office 365 services.
   
@@ -76,12 +76,12 @@ Before you use your domain with Office 365, we have to make sure that you own it
     ![NoIP-BP-Verify-1-1](../media/cf8ef84a-fea8-4036-8127-d965a2d91253.png)
   
 4. In the **TXT record** section, in the boxes for the new record, type or copy and paste the values from the following table. 
-    
-|**TXT Record**|
-|:-----|
-|MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
-   
-  ![NoIP-BP-Verify-1-2](../media/3a7b6740-794c-4b3b-a140-518e1f04fa2a.png)
+        
+    |**TXT Record**|
+    |:-----|
+    |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.    [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+       
+    ![NoIP-BP-Verify-1-2](../media/3a7b6740-794c-4b3b-a140-518e1f04fa2a.png)
   
 5. Choose **Submit**.
     
@@ -128,11 +128,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-|**MX Record**|**MX Priority**|
-|:-----|:-----|
-| *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |5  <br/> (This is the default value.)  <br/> |
+    |**MX Record**|**MX Priority**|
+    |:-----|:-----|
+    | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md) |5  <br/> (This is the default value.)  <br/> |
    
- ![NoIP-BP-Configure-2-1](../media/7fdf72ed-d6ce-4074-98ca-df1e83eea349.png)
+    ![NoIP-BP-Configure-2-1](../media/7fdf72ed-d6ce-4074-98ca-df1e83eea349.png)
   
 4. Choose **Update Host**.
     
@@ -169,16 +169,16 @@ To create a CNAME record, NoIP requires a two-step process. First, you create a 
     
     In the **Host Information** section, in the box for the new record, type or copy and paste the first **Hostname** value from the following table. 
     
-|**Hostname**|**Domain**|**Target**|
-|:-----|:-----|:-----|
-|autodiscover  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |autodiscover.outlook.com  <br/> |
-|sipdir  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |sipdir.online.lync.com  <br/> |
-|webdir  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |webdir.online.lync.com  <br/> |
-|clientconfig  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |clientconfig.microsoftonline-p.net  <br/> |
-|enterpriseregistration  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
-   
- ![NoIP-BP-Configure-3-2-2](../media/660dfdfc-949e-419e-9b23-caeb3ac3d934.png)
+    |**Hostname**|**Domain**|**Target**|
+    |:-----|:-----|:-----|
+    |autodiscover  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |autodiscover.outlook.com  <br/> |
+    |sipdir  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |sipdir.online.lync.com  <br/> |
+    |webdir  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |webdir.online.lync.com  <br/> |
+    |clientconfig  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    |enterpriseregistration  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |enterpriseregistration.windows.net  <br/> |
+    |enterpriseenrollment  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+       
+    ![NoIP-BP-Configure-3-2-2](../media/660dfdfc-949e-419e-9b23-caeb3ac3d934.png)
   
 5. Choose **DNS Alias (CNAME)**.
     
@@ -202,7 +202,7 @@ To create a CNAME record, NoIP requires a two-step process. First, you create a 
 <a name="BKMK_add_TXT"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
   
 1. To get started, go to your domains page at NoIP by using [this link](https://www.noip.com/login?ref_url=%2Fmembers%2Fdns%2F). You'll be prompted to Sign In.
     
@@ -223,11 +223,11 @@ To create a CNAME record, NoIP requires a two-step process. First, you create a 
     
     On that new line (under the existing value), type or copy and paste the value from the following table, making sure to add double-quotes to the start and end of the value. (You can see an example in the screenshot below the table.)
     
-|**TXT Record**|
-|:-----|
-|v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
-   
-  ![NoIP-BP-Configure-4-2](../media/322de050-3a8a-4a5b-857e-7ec407a32201.png)
+    |**TXT Record**|
+    |:-----|
+    |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+       
+    ![NoIP-BP-Configure-4-2](../media/322de050-3a8a-4a5b-857e-7ec407a32201.png)
   
 5. Choose **Update**.
     
@@ -257,12 +257,12 @@ To create a CNAME record, NoIP requires a two-step process. First, you create a 
     
     (Select the **Protocol** value in the **Protocol** row.) 
     
-|**Service**|**Protocol**|**Priority**|**Weight**|**Target**|**Port**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|sip  <br/> |TLS  <br/> |100  <br/> |1  <br/> |sipdir.online.lync.com  <br/> |443  <br/> |300  <br/> |
-|sipfederationtls  <br/> |TCP  <br/> |100  <br/> |1  <br/> |sipfed.online.lync.com  <br/> |5061  <br/> |300  <br/> |
-   
-  ![NoIP-BP-Configure-5-2](../media/386af063-74d0-4da0-ae1d-57710f537649.png)
+    |**Service**|**Protocol**|**Priority**|**Weight**|**Target**|**Port**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |sip  <br/> |TLS  <br/> |100  <br/> |1  <br/> |sipdir.online.lync.com  <br/> |443  <br/> |300  <br/> |
+    |sipfederationtls  <br/> |TCP  <br/> |100  <br/> |1  <br/> |sipfed.online.lync.com  <br/> |5061  <br/> |300  <br/> |
+       
+    ![NoIP-BP-Configure-5-2](../media/386af063-74d0-4da0-ae1d-57710f537649.png)
   
 5. Choose **Submit**.
     

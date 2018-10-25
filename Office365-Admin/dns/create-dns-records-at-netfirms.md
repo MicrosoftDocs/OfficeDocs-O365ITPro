@@ -39,17 +39,17 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If despite the service limitations you choose to manage your own Office 365 DNS records at Netfirms, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-netfirms.md#BKMK_NeedHelp).)
+These are the main records to add. 
   
-- [Add a TXT record for verification](create-dns-records-at-netfirms.md#BKMK_verify)
+- [Add a TXT record for verification](#add-a-txt-record-for-verification)
     
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-netfirms.md#BKMK_add_MX)
+- [Add an MX record so email for your domain will come to Office 365](#add-an-mx-record-so-email-for-your-domain-will-come-to-office-365)
     
-- [Add the CNAME records that are required for Office 365](create-dns-records-at-netfirms.md#BKMK_add_CNAME)
+- [Add the CNAME records that are required for Office 365](#add-the-cname-records-that-are-required-for-office-365)
     
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-netfirms.md#BKMK_add_TXT)
+- [Add a TXT record for SPF to help prevent email spam](#add-a-txt-record-for-spf-to-help-prevent-email-spam)
     
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-netfirms.md#BKMK_add_SRV)
+- [Add the two SRV records that are required for Office 365](#add-the-two-srv-records-that-are-required-for-office-365)
     
 After you add these records at Netfirms, your domain will be set up to work with Office 365 services, though not with the Skype for Business Online and Outlook Web App mentioned above.
   
@@ -78,10 +78,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 6. Under **Content**, in the box for the new record, type or copy and paste the value from the following table.
     
-||
-|:-----|
-|**Content** <br/> |
-|MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    ||
+    |:-----|
+    |**Content** <br/> |
+    |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
 7. Choose **Add**.
     
@@ -119,11 +119,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 6. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|**Priority**|**Host**|**Points To:**|
-|:-----|:-----|:-----|
-|0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
-   
- ![Netfirms-BP-Configure-2-2](../media/485c9b77-6ebc-4c8e-b245-3eec54b110a4.png)
+    |**Priority**|**Host**|**Points To:**|
+    |:-----|:-----|:-----|
+    |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your \<*domain-key*\> from your Office 365 portal account. <br> [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+       
+    ![Netfirms-BP-Configure-2-2](../media/485c9b77-6ebc-4c8e-b245-3eec54b110a4.png)
   
 7. Choose **Add**.
     
@@ -156,16 +156,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the boxes for the new record, type or copy and paste the values from the first row of the following table.
     
-|**Host**|**Points To:**|
-|:-----|:-----|
-|autodiscover  <br/> |autodiscover.outlook.com  <br/> |
-|sip  <br/> |sipdir.online.lync.com  <br/> |
-|lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
-|msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |
-|enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
-   
- ![Netfirms-BP-Configure-3-2](../media/c8e26900-742a-4a42-a60d-d638477f4043.png)
+    |**Host**|**Points To:**|
+    |:-----|:-----|
+    |autodiscover  <br/> |autodiscover.outlook.com  <br/> |
+    |sip  <br/> |sipdir.online.lync.com  <br/> |
+    |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
+    |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
+    |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+       
+    ![Netfirms-BP-Configure-3-2](../media/c8e26900-742a-4a42-a60d-d638477f4043.png)
   
 7. Choose **Add** to add the first record. 
     
@@ -197,11 +197,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 6. Under **Content**, in the box for the new record, type or copy and paste the value from the following table.
     
-|**Content**|
-|:-----|
-|v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
-   
-  ![Netfirms-BP-Configure-4-2](../media/536b60c6-a59f-4c12-a3b6-6de4a5053914.png)
+    |**Content**|
+    |:-----|
+    |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct. |
+       
+    ![Netfirms-BP-Configure-4-2](../media/536b60c6-a59f-4c12-a3b6-6de4a5053914.png)
   
 7. Choose **Add**.
     
