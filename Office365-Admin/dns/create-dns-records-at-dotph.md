@@ -226,7 +226,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 ## Add the two SRV records that are required for Office 365
 
 > [!CAUTION]
-> The dotPH website doesn't support SRV records, which means several Skype for Business Online and Outlook Web App features won't work. No matter which Office 365 plan you use, if you manage your DNS records at dotPH, there are [Significant service limitations](../setup/domains-faq.md#domains-faq), and you might want to switch to a different DNS hosting provider. 
+> The dotPH website doesn't support SRV records, which means several Skype for Business Online and Outlook Web App features won't work. No matter which Office 365 plan you use, if you manage your DNS records at dotPH, there are [Significant service limitations](../setup/domains-faq.md), and you might want to switch to a different DNS hosting provider. 
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 

@@ -252,7 +252,7 @@ More at [Upload files to a library](https://support.office.com/article/da549fb1-
   
 ### Get started using Office
 
-To take a tour of Office 365 and learn how to use all the Office mobile apps, see [How to get started using Office](../security-and-compliance/get-started-with-office-365.md).
+To take a tour of Office 365 and learn how to use all the Office mobile apps, see [Get started](../admin-overview/get-started-with-office-365.md).
   
 ## [Business](#tab/Business)
   
@@ -331,7 +331,7 @@ More at [Upload files to a library](https://support.office.com/article/da549fb1-
   
 ### Get started using Office
 
-To take a tour of Office 365 and learn how to use all the Office mobile apps, see [How to get started using Office](../security-and-compliance/get-started-with-office-365.md).
+To take a tour of Office 365 and learn how to use all the Office mobile apps, see [Get started](../admin-overview/get-started-with-office-365.md).
   
 ## [Education](#tab/Education)
   

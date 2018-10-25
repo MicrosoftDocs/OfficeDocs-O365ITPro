@@ -79,7 +79,7 @@ To instantiate the content pack, you have to be either a **global administrator*
   
 Tenant level aggregates will be available in all reports. **User-level details will only become available after the 1st or 15th day of the calendar month after opting in**. This will impact the following reports - which will show tiles without data - until that point: 
     
-   See [Navigate and utilize the reports in Microsoft 365 usage analytics](navigate-and-utilize-reports.md#navigate-and-utilize-the-reports-in-microsoft-365-usage-analytics) for tips on how to view and use these reports. 
+    See [Navigate and utilize the reports in Microsoft 365 usage analytics](navigate-and-utilize-reports.md) for tips on how to view and use these reports. 
     
   - Exchange - User activity
     
