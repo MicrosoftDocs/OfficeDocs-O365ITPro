@@ -21,14 +21,8 @@ description: "Learn how you can set up Office 365 operated by 21Vianet to manage
 
 # Change nameservers to set up Office 365 with 35COM
 
-Follow these instructions if you want Office 365 operated by 21Vianet to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your DNS records at 35COM](create-dns-records-at-35com.md).)
+Follow the instructions below if you want Office 365 operated by 21Vianet to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your DNS records at 35COM](create-dns-records-at-35com.md).)
   
-Here's what you need to do:
-  
-- [Add a TXT record to verify that you own the domain](change-nameservers-at-35com.md#BKMK_add_a_record)
-    
-- [Change your domain's nameserver records](change-nameservers-at-35com.md#BKMK_change_your_domain_s_1)
-    
 ## Add a TXT record to verify that you own the domain
 <a name="BKMK_add_a_record"> </a>
 

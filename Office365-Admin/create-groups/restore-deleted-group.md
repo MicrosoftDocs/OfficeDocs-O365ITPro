@@ -45,7 +45,7 @@ When a group is restored, the following content is restored:
     
 - Teams
     
-You can also [Permanently delete an Office 365 group](restore-deleted-group.md#bkmk_perm) if you can't wait the 30 days for the retention period to expire for the content to be permanently deleted. 
+You can also [Permanently delete an Office 365 group](#permanently-delete-an-office-365-group) if you can't wait the 30 days for the retention period to expire for the content to be permanently deleted. 
   
 ## Restore an Office 365 Group using the Exchange admin center
 

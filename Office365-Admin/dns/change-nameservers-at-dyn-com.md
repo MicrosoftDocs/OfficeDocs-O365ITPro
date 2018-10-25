@@ -40,11 +40,6 @@ description: "Learn how you can set up Office 365 to manage the DNS records of y
   
 Follow these instructions if you want Office 365 to manage your Office 365Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Dyn.com](create-dns-records-at-dyn-com.md).)
   
-Here's what you need to do. (Need more help? [Still need help?](change-nameservers-at-dyn-com.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](change-nameservers-at-dyn-com.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-dyn-com.md#BKMK_nameservers)
     
 ## Add a TXT record for verification
 

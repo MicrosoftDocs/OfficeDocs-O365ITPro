@@ -73,12 +73,6 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 There are a few steps that you can't finish until the group's mailbox is finished setting up:
   
-- [Add members to an Office 365 group](#add-members-to-an-office-365-group)
-    
-- [Send copies of conversations to group members' inboxes](#send-copies-of-conversations-to-group-members-inboxes)
-    
-- [Let people outside the organization email the group (such as info@contoso.com)](#let-people-outside-the-organization-email-the-group-such-as-infocontosocom)
-    
 ### Add members to an Office 365 group
 
 1. Refresh your Office 365 admin center page so your new Office 365 group appears.
@@ -110,7 +104,7 @@ If your group will be having a lot of meetings, you should turn this on so your 
     
 4. Select **Save**.
     
-### Let people outside the organization email the group (such as info@contoso.com)
+### Let people outside the organization email the group
 
 This option is great if you want to have a group email address such as info@contoso.com.
   

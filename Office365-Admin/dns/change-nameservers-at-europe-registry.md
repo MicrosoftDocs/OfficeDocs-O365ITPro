@@ -83,8 +83,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
-  
-[Back to top](change-nameservers-at-europe-registry.md#BKMK_BackToTopTarget)
+
   
 ## Change your domain's nameserver (NS) records
 
@@ -145,8 +144,7 @@ Ready to change your NS records so Office 365 can set up your domain? Follow the
   
 > [!NOTE]
 > Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain. 
-  
-[Back to top](change-nameservers-at-europe-registry.md#BKMK_BackToTopTarget)
+
   
 ### If there ARE nameservers already listed
 
@@ -200,6 +198,5 @@ Ready to change your NS records so Office 365 can set up your domain? Follow the
   
 > [!NOTE]
 > Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain. 
-  
-[Back to top](change-nameservers-at-europe-registry.md#BKMK_BackToTopTarget)
+
   

@@ -25,18 +25,6 @@ description: "Learn to setup your own DNS records at BIZCN for Office 365 operat
 # Create DNS records at BIZCN for Office 365
 
 If BIZCN is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Lync, and so on.
-  
-These are the main records to add.
-  
-- [Add a TXT record for verification](create-dns-records-at-bizcn.md#BKMK_verify_domain)
-    
-- [Add an MX record to route email](create-dns-records-at-bizcn.md#BKMK_add_MX)
-    
-- [Add CNAME records](create-dns-records-at-bizcn.md#BKMK_add_CNAME)
-    
-- [Add a TXT record to help prevent spam](create-dns-records-at-bizcn.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-bizcn.md#BKMK_add_SRV)
     
 After you add these records at BIZCN, your domain will be set up to work with Office 365 services.
   

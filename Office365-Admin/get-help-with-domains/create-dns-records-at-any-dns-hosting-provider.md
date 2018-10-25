@@ -68,21 +68,18 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
   - **If you create a TXT record, use these values:**
     
-|||||
+||||
 |:-----|:-----|:-----|:-----|
-|**Record Type** <br/> |**Alias** or **Host Name** <br/> |**Value** <br/> |**TTL** <br/> |
-|TXT  <br/> |Do one of the following: Type **@** or leave the field empty or type your domain name.  <br/> 
-> [!NOTE]> Different DNS hosts have different requirements for this field.           
-|MS=ms *XXXXXXXX*  <br/> 
-
-> [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  <br/> 
+|**Record Type**|**Alias** or **Host Name**|**Value**|**TTL**|
+|TXT|Do one of the following: Type **@** or leave the field empty or type your domain name.  <br/> 
+**Note:**Different DNS hosts have different requirements for this field. |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.  <br/>        [How do I find this?](../get-help-with-domains/information-for-dns-records.md)     <br/>     |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  |
    
   - **If you create an MX record, use these values:**
     
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Record Type**|**Alias** or **Host Name**|**Value**|**Priority**|**TTL**|
-|MX|Type either **@** or your domain name. |MS=ms *XXXXXXXX* > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |For **Priority**, to avoid conflicts with the MX record used for mail flow, use a lower priority than the priority for any existing MX records.For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx)|Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. |
+|MX|Type either **@** or your domain name. |MS=ms *XXXXXXXX* <br/> **Note:**This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.    <br/>       [How do I find this?](../get-help-with-domains/information-for-dns-records.md)     <br/>     |For **Priority**, to avoid conflicts with the MX record used for mail flow, use a lower priority than the priority for any existing MX records. <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. |
    
 2. Save the record.
     
@@ -110,7 +107,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 ## Add MX record to route email
 <a name="BKMK_add_MX"> </a>
 
-Add an MX record so email for your domain will come to Office 365.  *When you update your domain's MX record, all new email for anyone who uses your domain will now come to Office 365*  . Any email you already have will stay at your current email host, unless you decide to [migrate email and contacts](../setup/migrate-email-and-contacts-0.md) to Office 365. 
+Add an MX record so email for your domain will come to Office 365.  *When you update your domain's MX record, all new email for anyone who uses your domain will now come to Office 365*. Any email you already have will stay at your current email host, unless you decide to [migrate email and contacts to Office 365](../setup/migrate-email-and-contacts-admin.md) to Office 365. 
   
 > [!TIP]
 > Instead of switching all of your company's email to Office 365, you can [pilot Office 365 email](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7.aspx) with just a few email addresses. 
@@ -278,7 +275,7 @@ On your DNS host's website, you'll create three new CNAME records, typically one
 ::: moniker range="o365-worldwide"
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values.
   
 On your DNS host's website, edit the existing SPF record or create a new TXT record for SPF.
   
@@ -306,7 +303,7 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
 ::: moniker range="o365-germany"
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
   
 On your DNS host's website, edit the existing SPF record or create a new TXT record for SPF.
   
@@ -318,7 +315,7 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
 |||||
 |:-----|:-----|:-----|:-----|
 |**Record Type**|**Host**|**TXT Value**|**TTL**|
-|TXT (Text)|@|v=spf1 include:spf.protection.outlook.de -all> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1 hour|
+|TXT (Text)|@|v=spf1 include:spf.protection.outlook.de -all <br/>  We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1 hour|
    
    For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. 
     
@@ -334,7 +331,7 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
 ::: moniker range="o365-21vianet"
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
   
 On your DNS host's website, edit the existing SPF record or create a new TXT record for SPF.
   

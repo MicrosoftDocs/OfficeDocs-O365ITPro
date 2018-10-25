@@ -200,6 +200,6 @@ Check out one of the following:
   
 - Not sure where your domain is registered? [Get help finding your domain registrar.](find-your-domain-registrar.md)
     
-- Find out [why you have to complete the wizard steps](../setup/add-domain.md#add-a-domain-to-office-365) before you can use your domain with Office 365. 
+- Find out [why you have to complete the wizard steps](../setup/add-domain.md) before you can use your domain with Office 365. 
     
 

@@ -31,7 +31,7 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
    
 If you host your own DNS records using Windows-based DNS, follow the steps in this article to set up your records for email, Skype for Business Online, and so on.
   
-To get started, you need to [find the DNS records for your domain in Windows-based DNS](create-dns-records-using-windows-based-dns.md#BKMK_find_your_dns_1) so you can update them. Also, if you're planning to synchronize your on-premises Active Directory with Office 365, [Non-routable email address used as a UPN in your on-prem Active Directory](create-dns-records-using-windows-based-dns.md#BKMK_ADNote).
+To get started, you need to [find your DNS records in Windows-based DNS](#find-your-dns-records-in-windows-based-dns) so you can update them. Also, if you're planning to synchronize your on-premises Active Directory with Office 365, see [Non-routable email address used as a UPN in your on-prem Active Directory](#non-routable-email-address-used-as-a-upn-in-your-on-prem-active-directory).
   
 ouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   

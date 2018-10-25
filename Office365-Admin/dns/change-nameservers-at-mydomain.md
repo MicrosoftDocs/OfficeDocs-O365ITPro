@@ -103,11 +103,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
     
     ![MyDomain-BP-Redelegate-1-2-1](../media/f869fb26-54dc-4b66-8378-a78a79b582bd.png)
   
-6. Depending on whether or not there are already nameservers listed on the page that is displayed now, continue to one of the two following procedures:
-    
-  - If the correct nameservers **ARE** already listed, [If the correct nameservers ARE already listed](change-nameservers-at-mydomain.md#BKMK_ProcedureWithOUT).
-    
-  - If the correct nameservers are **NOT** already listed, [If the correct nameservers are NOT already listed](change-nameservers-at-mydomain.md#BKMK_ProcedureWITH).
+6. Depending on whether or not there are already nameservers listed on the page that is displayed now, continue to one of the two following procedures.
     
 ### If the correct nameservers ARE already listed
 

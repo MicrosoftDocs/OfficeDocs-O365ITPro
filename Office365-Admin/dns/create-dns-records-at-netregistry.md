@@ -33,7 +33,7 @@ These are the main records to add.
     
 - [Add an MX record so email for your domain will come to Office 365](#add-an-mx-record-so-email-for-your-domain-will-come-to-office-365)
 
-- [[Add the CNAME records that are required for Office 365](create-dns-records-at-netregistry.md#bkmk_cname)](#add-the-cname-records-that-are-required-for-office-365)
+- [Add the CNAME records that are required for Office 365](#add-the-cname-records-that-are-required-for-office-365)
     
 - [Add a TXT record for SPF to help prevent email spam](#add-a-txt-record-for-spf-to-help-prevent-email-spam)
     
