@@ -196,36 +196,3 @@ description: "Learn about features in Office 365 that help your boost your busin
     </li>
 </ul>
 
-
----
-
-<ul class="panelContent cardsW">
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <iframe src="https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid= RE2mEti&AutoPlayVideo=false?height=415?width=740" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="" style="width: 740px; height: 415px;"></iframe>
-                        </div>
-                    </div>
-                    <div class="cardText">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardText">
-                        <h3>Monthly webinar series </h3>
-                        <p>Watch our latest monthly webinar on managing content with SharePoint and OneDrive. When should you use SharePoint or OneDrive?</p>
-                        <p>Check out the rest of our webinar series here: <a href="previous-webinar-videos.md">Office 365 Webinars</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-</ul>
