@@ -19,18 +19,18 @@ description: "Watch montly webinar videos related to Office. "
 ---
 
 # Office 365 webinar videos
-##Latest webinar
+Latest webinar
   
 **Manage content with SharePoint and OneDrive**
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mEti?autoplay=false]
   
   
-##Previous webinars
+****
+Previous webinars
 
 **Learn about Microsoft 365**
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mry4?autoplay=false]
   
-****
   
 **Simplify your business communications with Microsoft Teams**
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mBX8?autoplay=false]
