@@ -170,7 +170,7 @@ If you're using Office 365 operated by 21Vianet, go to [this Admin center.](http
 
 Move your existing email and contacts from other email systems to your Office 365 mailbox so you can see it all in one place.
   
-For migration options, see [Migrate email and contacts to Office 365](migrate-email-and-contacts-0.md).
+For migration options, see [Migrate email and contacts](migrate-email-and-contacts-admin.md).
   
 ### 3. Connect email accounts
 

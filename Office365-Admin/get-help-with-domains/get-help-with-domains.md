@@ -188,7 +188,7 @@ Use these resources to get started using your own domain for email, websites, an
                             <p><a href="../dns/create-dns-records-at-1-1-internet.md">Create DNS records at 1&amp;1 Internet</a></p>
                             <p><a href="../dns/create-dns-records-at-network-solutions.md">Create DNS records at Network Solutions</a></p>
                             <p><b>Help for many more popular providers:</b></p> 
-                            <P><a href="../dns/create-dns-records-at-any-dns-hosting-provider.md">Create DNS records for Office 365 when you manage your DNS records</a></p>
+                            <P><a href="create-dns-records-at-any-dns-hosting-provider-0.md">Create DNS records for Office 365 when you manage your DNS records</a></p>
                     </div>
                 </div>
             </div>

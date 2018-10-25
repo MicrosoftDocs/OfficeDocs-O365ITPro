@@ -68,21 +68,18 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
   - **If you create a TXT record, use these values:**
     
-|||||
+||||
 |:-----|:-----|:-----|:-----|
-|**Record Type** <br/> |**Alias** or **Host Name** <br/> |**Value** <br/> |**TTL** <br/> |
-|TXT  <br/> |Do one of the following: Type **@** or leave the field empty or type your domain name.  <br/> 
-> [!NOTE]> Different DNS hosts have different requirements for this field.           
-|MS=ms *XXXXXXXX*  <br/> 
-
-> [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  <br/> 
+|**Record Type**|**Alias** or **Host Name**|**Value**|**TTL**|
+|TXT|Do one of the following: Type **@** or leave the field empty or type your domain name.  <br/> 
+**Note:**Different DNS hosts have different requirements for this field. |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.  <br/>        [How do I find this?](../get-help-with-domains/information-for-dns-records.md)     <br/>     |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  |
    
   - **If you create an MX record, use these values:**
     
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Record Type**|**Alias** or **Host Name**|**Value**|**Priority**|**TTL**|
-|MX|Type either **@** or your domain name. |MS=ms *XXXXXXXX* > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |For **Priority**, to avoid conflicts with the MX record used for mail flow, use a lower priority than the priority for any existing MX records.For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx)|Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. |
+|MX|Type either **@** or your domain name. |MS=ms *XXXXXXXX* <br/> **Note:**This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.    <br/>       [How do I find this?](../get-help-with-domains/information-for-dns-records.md)     <br/>     |For **Priority**, to avoid conflicts with the MX record used for mail flow, use a lower priority than the priority for any existing MX records. <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. |
    
 2. Save the record.
     
@@ -318,7 +315,7 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
 |||||
 |:-----|:-----|:-----|:-----|
 |**Record Type**|**Host**|**TXT Value**|**TTL**|
-|TXT (Text)|@|v=spf1 include:spf.protection.outlook.de -all> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1 hour|
+|TXT (Text)|@|v=spf1 include:spf.protection.outlook.de -all <br/>  We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1 hour|
    
    For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. 
     
