@@ -32,7 +32,6 @@ description: "Learn how a global admin can change a user's Office 365 email addr
 You may need to change someone's Office 365 email address and display name if, for example, they get married and their last name changes.
   
 ## Change a user's email address
-<a name="ChangeUserNamePreview"> </a>
 
 You must be an [Office 365 global admin](about-admin-roles.md) to do these steps. 
   

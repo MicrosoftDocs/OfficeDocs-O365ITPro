@@ -42,7 +42,6 @@ After you add these records at Aabaco Small Business, your domain will be set up
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
-<a name="BKMK_verify"> </a>
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -62,7 +61,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     |**Hostname:**|**Text:**|
     |:-----|:-----|
-    |@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> You must use the admin center to get this value. [Get help with Office 365 domains](../get-help-with-domains/get-help-with-domains.md#get-help-with-office-365-domains)        |
+    |@  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** You must use the admin center to get this value.[Get help with Office 365 domains](../get-help-with-domains/get-help-with-domains.md)   <br/>     |
    
     ![Type or paste the DSN values on the Add TXT Record page](../media/ae8386df-6cec-4bbe-a280-9d3fc170d972.png)
   
@@ -105,7 +104,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**Mail Server**|**Select priority**|
     |:-----|:-----|
-    | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your \< *domain-key*  \> from your Office 365 portal account. [How do I find this?](77f90d4a-dc7f-4f09-8972-c1b03ea85a67.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your \< *domain-key*  \> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/get-help-with-domains.md)      |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
    ![Aabaco-BP-Configure-2-2](../media/c45cda65-86e0-4ed0-a589-a698cf655599.png)
   
