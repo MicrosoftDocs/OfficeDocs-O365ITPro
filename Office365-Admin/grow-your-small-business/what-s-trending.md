@@ -33,6 +33,6 @@ Learn what's new, popular, and on the horizon, in Office 365 this quarter.
   
 [![Person studying content on computers](../media/6655548d-1190-40b6-8dc0-188eda02e84b.png)](https://support.office.com/article/cc0e480f-973e-4412-a27b-8a52108d6d51.aspx)
   
-[New G Suite training](https://fasttrack.microsoft.com/roadmap)
+[New G Suite training](https://support.office.com/article/switch-from-g-suite-to-office-365-cff9f9fb-956e-4cb9-8b64-d7ebc1911123)
   
 
