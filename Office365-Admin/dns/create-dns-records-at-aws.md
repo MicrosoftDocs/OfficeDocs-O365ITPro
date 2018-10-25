@@ -37,18 +37,6 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If AWS is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype Online for Business, and so on.
   
-These are the main records to add.
-  
-- [Add a TXT record for verification](create-dns-records-at-aws.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-aws.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-aws.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-aws.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-aws.md#BKMK_add_SRV)
-    
 After you add these records at AWS, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).

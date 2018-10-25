@@ -36,18 +36,6 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If DomainExplorer.com is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-domainexplorer-com.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-domainexplorer-com.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-domainexplorer-com.md#BKMK_add_MX)
-    
-- [Add the CNAME records that are required for Office 365](create-dns-records-at-domainexplorer-com.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-domainexplorer-com.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-domainexplorer-com.md#BKMK_add_SRV)
-    
 After you add these records at DomainExplorer.com, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
@@ -197,8 +185,8 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="BKMK_add_TXT"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
-  
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
+
 1. To get started, go to your domains page at DomainExplorer.com by using [this link](http://domainexplorer.com/domain-manager/default.aspx). You'll be prompted to login.
     
     ![DomainExplorer-BP-Configure-1-1](../media/2730d63a-e547-4eb7-9c7f-cb7a32d79909.png)

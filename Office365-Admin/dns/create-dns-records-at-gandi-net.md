@@ -37,32 +37,8 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If Gandi.net is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-There are two main parts to this process: first you will verify your domain, and then you will add DNS records to it. (Need more help? [Still need help?](create-dns-records-at-gandi-net.md#BKMK_NeedHelp).)
-  
- **Verify your domain**
-  
-- [Create a zone file for Office 365 verification](create-dns-records-at-gandi-net.md#BKMK_CreateVerifyZone)
-    
-- [Add a TXT record for verification](create-dns-records-at-gandi-net.md#BKMK_AddVerifyTXT)
-    
-- [Activate the zone file for Office 365 verification](create-dns-records-at-gandi-net.md#BKMK_ActivateVerifyZone)
-    
-- [Verify your domain with Office 365](create-dns-records-at-gandi-net.md#BKMK_VerifyDomain)
-    
- **Add DNS records to your domain**
-  
-- [Create a zone file for Office 365 DNS records](create-dns-records-at-gandi-net.md#BKMK_CreateDNSzone)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-gandi-net.md#BKMK_AddMX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-gandi-net.md#BKMK_AddCNAMEs)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-gandi-net.md#BKMK_AddSpamTXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-gandi-net.md#BKMK_AddSRVs)
-    
-- [Activate the zone file for Office 365 DNS records](create-dns-records-at-gandi-net.md#BKMK_ActivateDNSzone)
-    
+There are two main parts to this process: first you will verify your domain, and then you will add DNS records to it. 
+
 To verify and configure your domain for Office 365, you need to add several DNS records to that domain, using what is called a zone file. You cannot edit an active Gandi.net zone file. Instead, you will make  *only one copy*  of the active Gandi.net zone file for the purpose of verifying your domain, and then create  *only one other copy*  in which you will create  *all*  of your DNS records for Office 365. 
   
 When you have completed both of these tasks, your Gandi.net domain will be set up to work with Office 365 services.
@@ -70,7 +46,7 @@ When you have completed both of these tasks, your Gandi.net domain will be set u
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Create a zone file for Office 365 verification
 <a name="BKMK_CreateVerifyZone"> </a>
@@ -120,7 +96,7 @@ Now that you have created the zone file, go on to the next section, where you wi
 ## Add a TXT record for verification
 <a name="BKMK_AddVerifyTXT"> </a>
 
-If you have not already done so, complete the [Create a zone file for Office 365 verification](create-dns-records-at-gandi-net.md#BKMK_CreateVerifyZone) procedure in the first section of this article before you begin the procedure in this section. 
+If you have not already done so, complete the [Create a zone file for Office 365 verification](#create-a-zone-file-for-office-365-verification) procedure in the first section of this article before you begin the procedure in this section. 
   
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -172,7 +148,7 @@ Now that you have created the TXT file that Office 365 will use to verify your G
 ## Activate the zone file for Office 365 verification
 <a name="BKMK_ActivateVerifyZone"> </a>
 
-If you have not already done so, complete the procedures in the first two sections of this article ([Create a zone file for Office 365 verification](create-dns-records-at-gandi-net.md#BKMK_CreateVerifyZone) and [Add a TXT record for verification](create-dns-records-at-gandi-net.md#BKMK_AddVerifyTXT)) before you begin the procedure in this section.
+If you have not already done so, complete the procedures in the first two sections of this article ([Create a zone file for Office 365 verification](#create-a-zone-file-for-office-365-verification) and [Add a TXT record for verification](#add-a-txt-record-for-verification)) before you begin the procedure in this section.
   
 Now you will update your Gandi.net default settings, so that the Office 365 verification zone file becomes the active zone file for the domain that you're changing.
   
@@ -214,7 +190,7 @@ To complete the process of verifying your Gandi.net domain with Office 365, foll
 ## Verify your domain with Office 365
 <a name="BKMK_VerifyDomain"> </a>
 
-If you have not already done so, complete the procedures in the first three sections of this article ([Create a zone file for Office 365 verification](create-dns-records-at-gandi-net.md#BKMK_CreateVerifyZone), [Add a TXT record for verification](create-dns-records-at-gandi-net.md#BKMK_AddVerifyTXT), and [Activate the zone file for Office 365 verification](create-dns-records-at-gandi-net.md#BKMK_ActivateVerifyZone)) before you begin the procedure in this section.
+If you have not already done so, complete the procedures in the first three sections of this article ([Create a zone file for Office 365 verification](#create-a-zone-file-for-office-365-verification), [Add a TXT record for verification](#add-a-txt-record-for-verification), and [Activate the zone file for Office 365 verification](#activate-the-zone-file-for-office-365-verification)) before you begin the procedure in this section.
   
 Now that you've added the record at your domain registrar's site, you'll go back to Office 365 and request Office 365 to look for the record.
   
@@ -242,7 +218,7 @@ Now that you have verified your Gandi.net domain with Office 365, you can go on 
 ## Create a zone file for Office 365 DNS records
 <a name="BKMK_CreateDNSzone"> </a>
 
-If you have not yet verified your Gandi.net domain with Office 365, do so now by following the procedures in the first four sections of this article, beginning with [Create a zone file for Office 365 verification](create-dns-records-at-gandi-net.md#BKMK_CreateVerifyZone).
+If you have not yet verified your Gandi.net domain with Office 365, do so now by following the procedures in the first four sections of this article, beginning with [Create a zone file for Office 365 verification](#create-a-zone-file-for-office-365-verification).
   
 The zone file that you will create now is where you will create the DNS records that you need for Office 365. Your Office 365 account will not work without these records. When you have finished creating  *all of*  your DNS records, you will designate this zone file as your active Gandi.net zone file, using it instead of the zone file that you created to verify your domain in the previous sections. 
   
@@ -286,7 +262,7 @@ Now that you have created the new zone file, you will add to it all of the DNS r
 <a name="BKMK_AddMX"> </a>
 
 > [!IMPORTANT]
-> Before you create DNS records for your Gandi.net domain, you must first verify your domain with Office 365 (see the first four sections of this article) and then [Create a zone file for Office 365 DNS records](create-dns-records-at-gandi-net.md#BKMK_CreateDNSzone) in which you will create the DNS records. When you have created all of the records that you need, you will [Activate the zone file for Office 365 DNS records](create-dns-records-at-gandi-net.md#BKMK_ActivateDNSzone). 
+> Before you create DNS records for your Gandi.net domain, you must first verify your domain with Office 365 (see the first four sections of this article) and then [Create a zone file for Office 365 DNS records](#create-a-zone-file-for-office-365-verification) in which you will create the DNS records. When you have created all of the records that you need, you will [activate the zone file for Office 365 DNS records](#activate-the-zone-file-for-office-365-dns-records). 
   
 1. To get started, go to your domains page at Gandi.net by using [this link](https://www.gandi.net/admin/domain). You'll be prompted to log in first.
     
@@ -343,7 +319,7 @@ Now that you have created the new zone file, you will add to it all of the DNS r
 <a name="BKMK_AddCNAMEs"> </a>
 
 > [!IMPORTANT]
-> Before you create DNS records for your Gandi.net domain, you must first verify your domain with Office 365 (see the first four sections of this article) and then [Create a zone file for Office 365 DNS records](create-dns-records-at-gandi-net.md#BKMK_CreateDNSzone) in which you will create the DNS records. When you have created all of the records that you need, you will [Activate the zone file for Office 365 DNS records](create-dns-records-at-gandi-net.md#BKMK_ActivateDNSzone). 
+> Before you create DNS records for your Gandi.net domain, you must first verify your domain with Office 365 (see the first four sections of this article) and then [Create a zone file for Office 365 DNS records](#create-a-zone-file-for-office-365-verification) in which you will create the DNS records. When you have created all of the records that you need, you will [Activate the zone file for Office 365 DNS records](#activate-the-zone-file-for-office-365-dns-records). 
   
 1. To get started, go to your domains page at Gandi.net by using [this link](https://www.gandi.net/admin/domain). You'll be prompted to log in first.
     
@@ -401,10 +377,10 @@ Now that you have created the new zone file, you will add to it all of the DNS r
 <a name="BKMK_AddSpamTXT"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
   
 > [!IMPORTANT]
-> Before you create DNS records for your Gandi.net domain, you must first verify your domain with Office 365 (see the first four sections of this article) and then [Create a zone file for Office 365 DNS records](create-dns-records-at-gandi-net.md#BKMK_CreateDNSzone) in which you will create the DNS records. When you have created all of the records that you need, you will [Activate the zone file for Office 365 DNS records](create-dns-records-at-gandi-net.md#BKMK_ActivateDNSzone). 
+> Before you create DNS records for your Gandi.net domain, you must first verify your domain with Office 365 (see the first four sections of this article) and then [Create a zone file for Office 365 DNS records](#create-a-zone-file-for-office-365-verification) in which you will create the DNS records. When you have created all of the records that you need, you will [activate the zone file for Office 365 DNS records](#activate-the-zone-file-for-office-365-dns-records). 
   
 1. To get started, go to your domains page at Gandi.net by using [this link](https://www.gandi.net/admin/domain). You'll be prompted to log in first.
     
@@ -451,7 +427,7 @@ Now that you have created the new zone file, you will add to it all of the DNS r
 <a name="BKMK_AddSRVs"> </a>
 
 > [!IMPORTANT]
-> Before you create DNS records for your Gandi.net domain, you must first verify your domain with Office 365 (see the first four sections of this article) and then [Create a zone file for Office 365 DNS records](create-dns-records-at-gandi-net.md#BKMK_CreateDNSzone) in which you will create the DNS records. When you have created all of the records that you need, you will [Activate the zone file for Office 365 DNS records](create-dns-records-at-gandi-net.md#BKMK_ActivateDNSzone). 
+> Before you create DNS records for your Gandi.net domain, you must first verify your domain with Office 365 (see the first four sections of this article) and then [Create a zone file for Office 365 DNS records](#create-a-zone-file-for-office-365-verification) in which you will create the DNS records. When you have created all of the records that you need, you will [activate the zone file for Office 365 DNS records](#activate-the-zone-file-for-office-365-dns-records). 
   
 1. To get started, go to your domains page at Gandi.net by using [this link](https://www.gandi.net/admin/domain). You'll be prompted to log in first.
     

@@ -40,18 +40,6 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
 > The MyDomain website doesn't support SRV records, which means several Skype for Business Online and Outlook Web App features won't work. No matter which Office 365 plan you use, if you manage your DNS records at MyDomain, there are [significant service limitations](https://support.office.com/article/7ae9a655-041d-4724-aa92-60392ee390c2.aspx), and you might want to switch to a different DNS hosting provider. 
   
 If you choose to manage your own Office 365 DNS records at MyDomain despite the service limitations, follow the steps in this article to set up your DNS records for email, Skype for Business Online, and so on.
-  
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-mydomain.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-mydomain.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-mydomain.md#BKMK_add_MX)
-    
-- [Add the CNAME records that are required for Office 365](create-dns-records-at-mydomain.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-mydomain.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-mydomain.md#BKMK_add_SRV)
     
 After you add these records at MyDomain, your domain will be set up to work with Office 365 services.
   

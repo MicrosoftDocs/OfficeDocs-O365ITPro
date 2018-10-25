@@ -26,18 +26,7 @@ description: "Learn to setup your own DNS records at East.net for Office 365 ope
 
 If east.net is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Lync, and so on.
   
-These are the main records to add.
-  
-- [Add a TXT record for verification](create-dns-records-at-east-net.md#BKMK_verify_domain)
-    
-- [Add an MX record to route email](create-dns-records-at-east-net.md#BKMK_add_MX)
-    
-- [Add CNAME records](create-dns-records-at-east-net.md#BKMK_add_CNAME)
-    
-- [Add a TXT record to help prevent spam](create-dns-records-at-east-net.md#BKMK_add_TXT)
-    
-- [Add SRV records](create-dns-records-at-east-net.md#BKMK_add_SRV)
-    
+T
 After you add these records at east.net, your domain will be set up to work with Office 365 services.
   
 > [!NOTE]

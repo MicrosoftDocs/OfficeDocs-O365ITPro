@@ -36,18 +36,6 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If Aabaco Small Business is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. (Need more help? [Get support](../contact-support-for-business-products.md).)
-  
-- [Add a TXT record for verification](create-dns-records-at-aabaco-small-business.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-aabaco-small-business.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-aabaco-small-business.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-aabaco-small-business.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-aabaco-small-business.md#BKMK_add_SRV)
-    
 After you add these records at Aabaco Small Business, your domain will be set up to work with Office 365 services.
   
 > [!NOTE]

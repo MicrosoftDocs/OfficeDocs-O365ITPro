@@ -38,18 +38,8 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
 > [!CAUTION]
 > Note that 1&amp;1 Internet doesn't allow a domain to have both an MX record and a top-level Autodiscover CNAME record. This limits the ways in which you can configure Exchange Online for Office 365. There is a workaround, but we recommend employing it **only** if you already have experience with creating subdomains at 1&amp;1 Internet. > If despite this [service limitation](https://support.office.com/article/7ae9a655-041d-4724-aa92-60392ee390c2.aspx) you choose to manage your own Office 365 DNS records at 1&amp;1 Internet, follow the steps in this article to verify your domain and to set up DNS records for email, Skype for Business Online, and so on. 
   
-These are the main records to add. Follow the steps below or [watch the video](https://support.office.com/en-us/article/Video-Create-DNS-records-at-1-1-Internet-for-Office-365-543fb112-ecf5-47ae-b096-07f3f942a089?ui=en-US&amp;rs=en-US&amp;ad=US)(Need more help? [Still need help?](create-dns-records-at-1-1-internet.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-1-1-internet.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-1-1-internet.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-1-1-internet.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-1-1-internet.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-1-1-internet.md#BKMK_add_SRV)
-    
+Follow the steps below or [watch the video](https://support.office.com/en-us/article/Video-Create-DNS-records-at-1-1-Internet-for-Office-365-543fb112-ecf5-47ae-b096-07f3f942a089?ui=en-US&amp;rs=en-US&amp;ad=US)
+
 After you add these records at 1&amp;1 Internet, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).

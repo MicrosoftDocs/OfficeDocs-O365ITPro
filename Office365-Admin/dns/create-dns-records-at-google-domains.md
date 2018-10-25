@@ -36,18 +36,6 @@ description: "Learn to verify your domain and set up DNS records for email, Lync
   
 If Google Domains is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Lync, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-google-domains.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-google-domains.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-google-domains.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-google-domains.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-google-domains.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-google-domains.md#BKMK_add_SRV)
-    
 After you add these records at Google Domains, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
@@ -100,8 +88,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
-  
-[Back to top](create-dns-records-at-google-domains.md#BKMK_BackToTopTarget)
+
   
 ## Add an MX record so email for your domain will come to Office 365
 <a name="BKMK_add_MX"> </a>

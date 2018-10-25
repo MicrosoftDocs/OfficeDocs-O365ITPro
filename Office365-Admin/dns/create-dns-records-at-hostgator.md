@@ -37,20 +37,8 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
 If Hostgator is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
 > [!IMPORTANT]
-> You must perform the first procedure in the following list, [Point your domain to your hosting account](create-dns-records-at-hostgator.md#BKMK_PointDomain), before you add DNS records by using any of the other procedures in this article. > (Need more help? [Still need help?](create-dns-records-at-hostgator.md#BKMK_NeedHelp).) 
-  
-- [Point your domain to your hosting account](create-dns-records-at-hostgator.md#BKMK_PointDomain)
-    
-- [Add a TXT record for verification](create-dns-records-at-hostgator.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-hostgator.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-hostgator.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-hostgator.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-hostgator.md#BKMK_add_SRV)
-    
+> You must perform the first procedurebelow, [Point your domain to your hosting account](#point-your-domain-to-your-hosting-account), before you add DNS records by using any of the other procedures in this article. 
+
 After you make all of these changes at Hostgator, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
@@ -94,7 +82,7 @@ Follow these steps to associate your domain and hosting accounts.
 <a name="BKMK_verify"> </a>
 
 > [!IMPORTANT]
-> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](create-dns-records-at-hostgator.md#BKMK_PointDomain). 
+> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](#point-your-domain-to-your-hosting-account). 
   
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -142,7 +130,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="BKMK_add_MX"> </a>
 
 > [!IMPORTANT]
-> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](create-dns-records-at-hostgator.md#BKMK_PointDomain). 
+> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](#point-your-domain-to-your-hosting-account). 
   
 1. To get started, go to your cPanel page at Hostgator. You'll be prompted to log in first.
     
@@ -195,7 +183,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="BKMK_add_CNAME"> </a>
 
 > [!IMPORTANT]
-> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](create-dns-records-at-hostgator.md#BKMK_PointDomain). 
+> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](#point-your-domain-to-your-hosting-account). 
   
 1. To get started, go to your cPanel page at Hostgator. You'll be prompted to log in first.
     
@@ -242,7 +230,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 > You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a single SPF record that includes both sets of values. Need examples? Check out these [External Domain Name System records for Office 365](https://support.office.com/article/c0531a6f-9e25-4f2d-ad0e-a70bfef09ac0#bkmk_spfrecords). To validate your SPF record, you can use one of these [SPF validation tools](../setup/domains-faq.md). 
   
 > [!IMPORTANT]
-> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](create-dns-records-at-hostgator.md#BKMK_PointDomain). 
+> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](#point-your-domain-to-your-hosting-account). 
   
 1. To get started, go to your cPanel page at Hostgator. You'll be prompted to log in first.
     
@@ -271,7 +259,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="BKMK_add_SRV"> </a>
 
 > [!IMPORTANT]
-> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](create-dns-records-at-hostgator.md#BKMK_PointDomain). 
+> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](#point-your-domain-to-your-hosting-account). 
   
 1. To get started, go to your cPanel page at Hostgator. You'll be prompted to log in first.
     

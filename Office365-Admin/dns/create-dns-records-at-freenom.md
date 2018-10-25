@@ -27,17 +27,7 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If despite the service limitations, you choose to manage your own Office 365 DNS records at Freenom, follow the steps in this article to verify your domain and set up DNS records for email and other services.
   
-﻿These are the main records to add.
-  
-- [ Add a TXT record for verification ](create-dns-records-at-freenom.md#bkmk_txt)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-freenom.md#bkmk_mx)
-    
-- [Add the CNAME records that are required for Office 365](create-dns-records-at-freenom.md#bkmk_cname)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-freenom.md#bkmk_spf)
-    
-To learn about webhosting and DNS for websites with Office 365, see﻿ [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
+To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
@@ -198,8 +188,8 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="bkmk_spf"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
-  
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
+
 1. To get started, go to your domains page in Freenom by using [this link](https://my.freenom.com/). You'll be prompted to log in.
     
     ![Freenom login](../media/90a32855-bfdd-4dfe-881c-b9a36b2f0582.png)

@@ -29,19 +29,7 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
   
 If DreamHost is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Lync, and so on.
-  
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-dreamhost.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-dreamhost.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-dreamhost.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-dreamhost.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-dreamhost.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-dreamhost.md#BKMK_add_SRV)
-    
+ 
 After you add these records at DreamHost, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
@@ -108,7 +96,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
-[Back to top](create-dns-records-at-dreamhost.md#BKMK_BackToTopTarget)
+
   
 ## Add an MX record so email for your domain will come to Office 365
 <a name="BKMK_add_MX"> </a>
@@ -150,8 +138,7 @@ Follow the steps below.
 7. If you have deleted any records, choose **Update your custom MX records now!**
     
     ![Dreamhost-BP-Configure-2-6](../media/177462be-0686-47b7-a389-025dfc8d6526.png)
-  
-[Back to top](create-dns-records-at-dreamhost.md#BKMK_BackToTopTarget)
+
   
 ## Add the six CNAME records that are required for Office 365
 <a name="BKMK_add_CNAME"> </a>
@@ -192,14 +179,13 @@ Follow the steps below.
     ![Dreamhost-BP-Configure-3-2](../media/b5d4f939-de6d-4d1f-a20a-4eb5fe715281.png)
   
 6. Using the preceding two steps and the values from the other five rows in the table, add each of the other five CNAME records.
-    
-[Back to top](create-dns-records-at-dreamhost.md#BKMK_BackToTopTarget)
+
   
 ## Add a TXT record for SPF to help prevent email spam
 <a name="BKMK_add_TXT"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values.
   
 Follow the steps below.
   
@@ -233,7 +219,6 @@ Follow the steps below.
   
 6. Using the preceding two steps and the values from the second row in the table, add the other SRV record.
     
-[Back to top](create-dns-records-at-dreamhost.md#BKMK_BackToTopTarget)
   
 ## Add the two SRV records that are required for Office 365
 <a name="BKMK_add_SRV"> </a>
@@ -273,6 +258,5 @@ Follow the steps below.
     
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
-  
-[Back to top](create-dns-records-at-dreamhost.md#BKMK_BackToTopTarget)
+
   
