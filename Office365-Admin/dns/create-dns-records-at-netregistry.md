@@ -29,22 +29,22 @@ If Netregistry is your DNS hosting provider, follow the steps in this article to
   
 These are the main records to add.
   
-- [Add a TXT record for verification](create-dns-records-at-netregistry.md#bkmk_txt)
+- [Add a TXT record for verification](#add-a-txt-record-for-verification)
     
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-netregistry.md#bkmk_mx)
+- [Add an MX record so email for your domain will come to Office 365](#add-an-mx-record-so-email-for-your-domain-will-come-to-office-365)
+
+- [Add the CNAME records that are required for Office 365](#add-the-cname-records-that-are-required-for-office-365)
     
-- [Add the CNAME records that are required for Office 365](create-dns-records-at-netregistry.md#bkmk_cname)
+- [Add a TXT record for SPF to help prevent email spam](#add-a-txt-record-for-spf-to-help-prevent-email-spam)
     
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-netregistry.md#bkmk_spf)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-netregistry.md#bkmk_srv)
+- [Add the two SRV records that are required for Office 365](#add-the-two-srv-records-that-are-required-for-office-365)
     
 After you add these records at Netregistry, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
 <a name="bkmk_txt"> </a>
@@ -70,18 +70,18 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     ![Netregistry_TXT_select](../media/eb1761e6-9deb-4631-8deb-bc5d09926722.png)
   
-5.     > [!NOTE]
+    > [!NOTE]
     > You must use quotation marks before and after the entry in the TXT box. 
   
     In the **New TXT Record** form, type or copy and paste the values from the following table. 
     
-|**Name**|**TTL (SEC)**|**TXT (Points to address or value)﻿**|
-|:-----|:-----|:-----|
-|(leave blank)﻿  <br/> |3600 (seconds)  <br/> |"MS=msXXXXXXXX"  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
-   
- ![Netregistry_verificationTXTvalues](../media/cfe8b05a-fa8b-4dba-9554-7a3466e6c012.png)
+    |**Name**|**TTL (SEC)**|**TXT (Points to address or value)**|
+    |:-----|:-----|:-----|
+    |(leave blank)  <br/> |3600 (seconds)  <br/> |"MS=msXXXXXXXX"  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)  |
+       
+    ![Netregistry_verificationTXTvalues](../media/cfe8b05a-fa8b-4dba-9554-7a3466e6c012.png)
   
-6. Choose **Add record**.﻿
+6. Choose **Add record**.
     
 Now that you've added the record at your domain registrar's site, you'll go back to Office 365 and request Office 365 to look for the record.
   
@@ -129,11 +129,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 6. In the **New MX Record** form, type or copy and paste the values from the following table. 
     
-|**Name﻿**|**TTL﻿ (SEC)**|**Exchange (Points to address or value)**|**Is host fully qualified?**|**Preference (Priority﻿)**|
-|:-----|:-----|:-----|:-----|:-----|
-|(leave blank)﻿  <br/> |3600 (seconds)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |(select the checkbox)  <br/> |10  <br/> For more information about priority, see What is MX priority?  <br/> |
-   
-![Netregistry_MX_values](../media/518b3da6-4055-4e2d-b5ce-44a0fee25419.png)
+    |**Name**|**TTL (SEC)**|**Exchange (Points to address or value)**|**Is host fully qualified?**|**Preference (Priority)**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |(leave blank)  <br/> |3600 (seconds)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)      |(select the checkbox)  <br/> |10  <br/> For more information about priority, see What is MX priority?  <br/> |
+       
+    ![Netregistry_MX_values](../media/518b3da6-4055-4e2d-b5ce-44a0fee25419.png)
   
 7. Choose **Add Record**.
     
@@ -160,17 +160,17 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 5. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|**Name﻿**|**Type﻿**|**TTL﻿**|**HOST (Points to or address value)﻿**|
-|:-----|:-----|:-----|:-----|
-|autodiscover﻿  <br/> |CNAME﻿  <br/> |3600 (seconds)  <br/> |autodiscover.outlook.com  <br/> |
-|sip﻿  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |sipdir.online.lync.com  <br/> |
-|lyncdiscover﻿  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |webdir.online.lync.com  <br/> |
-|msoid﻿  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |clientconfig.microsoftonline-p.net  <br/> |
-|enterpriseregistration  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
-   
- ![Netregistry_CNAME_values](../media/93c479f0-3ce2-491a-9113-6dde1cd7131b.png)
-  
+    |**Name**|**Type**|**TTL**|**HOST (Points to or address value)**|
+    |:-----|:-----|:-----|:-----|
+    |autodiscover  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |autodiscover.outlook.com  <br/> |
+    |sip  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |sipdir.online.lync.com  <br/> |
+    |lyncdiscover  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |webdir.online.lync.com  <br/> |
+    |msoid  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    |enterpriseregistration  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |enterpriseregistration.windows.net  <br/> |
+    |enterpriseenrollment  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+       
+    ![Netregistry_CNAME_values](../media/93c479f0-3ce2-491a-9113-6dde1cd7131b.png)
+      
 6. Choose **Add record**.
     
     ![Netregistry_CNAME_values_AddRecord](../media/046c8c64-ea71-4530-9fc6-69f0c70993b6.png)
@@ -183,7 +183,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="bkmk_spf"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values.
   
 1. To get started, go to your domains page in Netregistry by using [this link](https://theconsole.netregistry.com.au/). You'll be prompted to log in.
     
@@ -206,11 +206,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     > [!NOTE]
     > You must use quotation marks before and after the entry in the TXT box. 
   
-|**Name﻿**|**Type﻿**|**TTL﻿**|**TXT Data (Target)﻿**|
-|:-----|:-----|:-----|:-----|
-|(leave blank)﻿  <br/> |TXT﻿  <br/> |3600 (seconds)﻿  <br/> |"v=spf1 include:spf.protection.outlook.com -all"  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Name**|**Type**|**TTL**|**TXT Data (Target)**|
+    |:-----|:-----|:-----|:-----|
+    |(leave blank)  <br/> |TXT  <br/> |3600 (seconds)  <br/> |"v=spf1 include:spf.protection.outlook.com -all"  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
- ![Netregistry_SPF-TXTvalues](../media/a369345a-d774-48bc-8160-b628ab8247f9.png)
+    ![Netregistry_SPF-TXTvalues](../media/a369345a-d774-48bc-8160-b628ab8247f9.png)
   
 6. Choose **Add Record**.
     
@@ -240,22 +240,22 @@ When Office 365 finds the correct TXT record, your domain is verified.
     > [!NOTE]
     > The Name field is a combination of the service (for example, _sip) and protocol (for example, _tls). 
   
-|**Type﻿**|**Name﻿**|**TTL (SEC)﻿**|**Priority﻿**|**Weight﻿**|**Port﻿**|**Target﻿**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|SRV (service)﻿  <br/> |_sip._tls  <br/> |3600 (seconds)  <br/> |100﻿  <br/> |1﻿  <br/> |443﻿  <br/> |sipdir.online.lync.com  <br/> |
-|SRV﻿ (service)  <br/> |_sipfederationtls._tcp  <br/> |3600 (seconds)  <br/> |100﻿  <br/> |1﻿  <br/> |5061﻿  <br/> |sipfed.online.lync.com  <br/> |
-   
-![Netregistry_SRV_values](../media/49292846-1598-4b8c-9940-db6e10675753.png)
+    |**Type**|**Name**|**TTL (SEC)**|**Priority**|**Weight**|**Port**|**Target**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |SRV (service)  <br/> |_sip._tls  <br/> |3600 (seconds)  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
+    |SRV (service)  <br/> |_sipfederationtls._tcp  <br/> |3600 (seconds)  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
+       
+    ![Netregistry_SRV_values](../media/49292846-1598-4b8c-9940-db6e10675753.png)
   
 6. Choose **Add Record**.
     
     ![Netregistry_SRV_values_AddRecord](../media/abc82061-939f-4757-87e4-0e8f9e43ebcb.png)
   
-7. Repeat the previous steps to create the other SRV record.﻿
+7. Repeat the previous steps to create the other SRV record.
     
     Type or copy and paste the values from the second row of the table above into the boxes for the second record.
     
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 

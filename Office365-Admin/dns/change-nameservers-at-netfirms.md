@@ -106,11 +106,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
     
     ![Netfirms-BP-Redelegate-1-2-1](../media/94de7177-f059-4e89-9552-2fee901595bf.png)
   
-6. Depending on whether or not there are already nameservers listed on the page that is displayed now, continue to one of the two following procedures:
-    
-  - If there are **NO** nameservers already listed, [If the correct nameservers ARE already listed](change-nameservers-at-netfirms.md#BKMK_ProcedureWithOUT).
-    
-  - If there **ARE** nameservers already listed, [If the correct nameservers are NOT already listed](change-nameservers-at-netfirms.md#BKMK_ProcedureWITH).
+6. Depending on whether or not there are already nameservers listed on the page that is displayed now, continue to one of the two following procedures.
     
 ### If the correct nameservers ARE already listed
 

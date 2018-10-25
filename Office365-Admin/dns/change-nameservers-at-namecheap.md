@@ -127,11 +127,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
     
     ![Namecheap-BP-Redelegate-1-2](../media/7df56295-fdb3-472f-9442-13f780c2c93e.png)
   
-6. Depending on whether or not there are already nameservers listed on the page that is displayed now, continue to one of the two following procedures:
-    
-  - If there are **NO** nameservers already listed, [If there are NO nameservers already listed](change-nameservers-at-network-solutions.md#BKMK_ProcedureWithOUT).
-    
-  - If there **ARE** nameservers already listed, [If there ARE nameservers already listed](change-nameservers-at-network-solutions.md#BKMK_ProcedureWITH).
+6. Depending on whether or not there are already nameservers listed on the page that is displayed now, continue to one of the two following procedures.
     
 ### If there are NO nameservers already listed
 <a name="BKMK_ProcedureWithOUT"> </a>

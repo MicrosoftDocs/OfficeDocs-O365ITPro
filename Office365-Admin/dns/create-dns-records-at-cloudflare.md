@@ -30,20 +30,6 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If Cloudflare is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-cloudflare.md#BKMK_NeedHelp).)
-  
-- [Change your domain's nameserver (NS) records](create-dns-records-at-cloudflare.md#BKMK_Nameservers)
-    
-- [Add a TXT record for verification](create-dns-records-at-cloudflare.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-cloudflare.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-cloudflare.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-cloudflare.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-cloudflare.md#BKMK_add_SRV)
-    
 After you add these records at Cloudflare, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
@@ -67,10 +53,10 @@ To change your domain's name servers at your domain registrar's website yourself
     
 2. Either create two nameserver records by using the values in the following table, or edit the existing nameserver records so that they match these values.
     
-|||
-|:-----|:-----|
-|First nameserver  <br/> |Use the nameserver value provided by Cloudflare.  <br/> |
-|Second nameserver  <br/> |Use the nameserver value provided by Cloudflare.  <br/> |
+    |||
+    |:-----|:-----|
+    |First nameserver  <br/> |Use the nameserver value provided by Cloudflare.  <br/> |
+    |Second nameserver  <br/> |Use the nameserver value provided by Cloudflare.  <br/> |
    
     > [!TIP]
     > You should use at least two name server records. If there are any other name servers listed, you should delete them. 
@@ -104,9 +90,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (Select the **Type** and **TTL** values from the drop-down lists.) 
     
-|**Type**|**Name**|**Automatic TTL**|
-|:-----|:-----|:-----|
-|TXT  <br/> |@  <br/> |30 minutes  <br/> |
+    |**Type**|**Name**|**Automatic TTL**|
+    |:-----|:-----|:-----|
+    |TXT  <br/> |@  <br/> |30 minutes  <br/> |
    
     ![Cloudflare-BP-Verify-1-1](../media/d88562c8-a146-4d3c-954c-6f5d8871afc2.png)
   
@@ -116,11 +102,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 6. On the **Add Record: TXT content** page, in the box for the new record, type or copy and paste the value from the following table. 
     
-|**Content**|
-|:-----|
-|MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**Content**|
+    |:-----|
+    |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-   ![Cloudflare-BP-Verify-1-3](../media/8594832d-1e81-492d-9fb3-26ffe019a8e9.png)
+    ![Cloudflare-BP-Verify-1-3](../media/8594832d-1e81-492d-9fb3-26ffe019a8e9.png)
   
 7. Choose **Save**.
     
@@ -172,11 +158,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** and **TTL** values from the drop-down lists.) 
     
-|**Type**|**Name**|**Automatic TTL**|
-|:-----|:-----|:-----|
-|MX  <br/> |@  <br/> |30 minutes  <br/> |
+    |**Type**|**Name**|**Automatic TTL**|
+    |:-----|:-----|:-----|
+    |MX  <br/> |@  <br/> |30 minutes  <br/> |
    
-   ![Cloudflare-BP-Configure-2-1](../media/20d0a593-d50d-4d5e-b7e0-8ec31a27edc6.png)
+    ![Cloudflare-BP-Configure-2-1](../media/20d0a593-d50d-4d5e-b7e0-8ec31a27edc6.png)
   
 5. Choose **Click to configure**.
     
@@ -184,11 +170,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 6. On the **Add Record: MX content** page, in the boxes for the new record, type or copy and paste the values from the following table. 
     
-|**Server**|**Priority**|
-|:-----|:-----|
-| *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |1  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    |**Server**|**Priority**|
+    |:-----|:-----|
+    | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.   [How do I find this?](../get-help-with-domains/information-for-dns-records.md)   |1  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-   ![Cloudflare-BP-Configure-2-3](../media/7b111d3a-2058-4694-a0a7-325c7a407838.png)
+    ![Cloudflare-BP-Configure-2-3](../media/7b111d3a-2058-4694-a0a7-325c7a407838.png)
   
 7. Choose **Save**. 
     
@@ -227,16 +213,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** and **TTL** values from the drop-down lists.) 
     
-|**Type**|**Name**|**Domain name**|**Automatic TTL**|
-|:-----|:-----|:-----|:-----|
-|CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com  <br/> |30 minutes  <br/> |
-|CNAME  <br/> |sip  <br/> |sipdir.online.lync.com  <br/> |30 minutes  <br/> |
-|CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |30 minutes  <br/> |
-|CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |30 minutes  <br/> |
-|CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |30 minutes  <br/> |
-|CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |30 minutes  <br/> |
-   
-   ![Cloudflare-BP-Configure-3-1](../media/02d0ee6e-5eb6-4a41-80b0-d9f75bd6c7a9.png)
+    |**Type**|**Name**|**Domain name**|**Automatic TTL**|
+    |:-----|:-----|:-----|:-----|
+    |CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com  <br/> |30 minutes  <br/> |
+    |CNAME  <br/> |sip  <br/> |sipdir.online.lync.com  <br/> |30 minutes  <br/> |
+    |CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |30 minutes  <br/> |
+    |CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |30 minutes  <br/> |
+    |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |30 minutes  <br/> |
+    |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |30 minutes  <br/> |
+       
+    ![Cloudflare-BP-Configure-3-1](../media/02d0ee6e-5eb6-4a41-80b0-d9f75bd6c7a9.png)
   
 5. Choose the **DNS Traffic** icon to bypass the Cloudflare servers. 
     
@@ -256,7 +242,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="BKMK_add_TXT"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
   
 1. To get started, go to your domains page at Cloudflare by using [this link](https://www.cloudflare.com/a/login). You'll be prompted to log in first.
     
@@ -274,9 +260,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** and **TTL** values from the drop-down lists.) 
     
-|**Type**|**Name**|**Automatic TTL**|
-|:-----|:-----|:-----|
-|TXT  <br/> |@  <br/> |30 minutes  <br/> |
+    |**Type**|**Name**|**Automatic TTL**|
+    |:-----|:-----|:-----|
+    |TXT  <br/> |@  <br/> |30 minutes  <br/> |
    
     ![Cloudflare-BP-Configure-4-1](../media/e7b07179-48f7-4ff0-b4a0-300c560bdd98.png)
   
@@ -286,9 +272,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 6. On the **Add Record: TXT content** page, in the box for the new record, type or copy and paste the value from the following table. 
     
-|**Content**|
-|:-----|
-|v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Content**|
+    |:-----|
+    |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
    ![Cloudflare-BP-Configure-4-3](../media/27d199f6-95a6-4bf7-b42c-79f10158b413.png)
   
@@ -318,12 +304,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
 4. Add the first of the two SRV records.
     
     In the DNS Records area, in the boxes for the new records, choose the values from the first row in the following table.
-    
-|**Type**|**TTL**|
-|:-----|:-----|
-|SRV  <br/> |30 minutes  <br/> |
+        
+    |**Type**|**TTL**|
+    |:-----|:-----|
+    |SRV  <br/> |30 minutes  <br/> |
    
-   ![Cloudflare-BP-Configure-5-1](../media/c4b62e94-9abe-49f1-b047-1dbb31873515.png)
+    ![Cloudflare-BP-Configure-5-1](../media/c4b62e94-9abe-49f1-b047-1dbb31873515.png)
   
 5. Choose the first **Click to configure** box. 
     
@@ -331,12 +317,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 6. On the **Add Record: SRV name** page, in the boxes for the new record, type or copy and paste the values from the first row of the following table. 
     
-|**Service name**|**Protocol**|**Name**|
-|:-----|:-----|:-----|
-|_sip  <br/> |TLS  <br/> |Use your  *domain_name*  , for example, contoso.com  <br/> |
-|_sipfederationtls  <br/> |TCP  <br/> |Use your  *domain_name*  , for example, contoso.com  <br/> |
+    |**Service name**|**Protocol**|**Name**|
+    |:-----|:-----|:-----|
+    |_sip  <br/> |TLS  <br/> |Use your  *domain_name*  , for example, contoso.com  <br/> |
+    |_sipfederationtls  <br/> |TCP  <br/> |Use your  *domain_name*  , for example, contoso.com  <br/> |
    
-   ![Cloudflare-BP-Configure-5-3](../media/0373fb6a-c73f-444f-b52d-f8f645708630.png)
+    ![Cloudflare-BP-Configure-5-3](../media/0373fb6a-c73f-444f-b52d-f8f645708630.png)
   
 7. Choose **Save**.
     
@@ -344,12 +330,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 8. On the **Add Record: SRV content** page, in the boxes for the new record, type or copy and paste the values from the first row of the following table. 
     
-|**Priority**|**Weight**|**Port**|**Target**|
-|:-----|:-----|:-----|:-----|
-|100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
-|100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
+    |**Priority**|**Weight**|**Port**|**Target**|
+    |:-----|:-----|:-----|:-----|
+    |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
+    |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
    
-   ![Cloudflare-BP-Configure-5-5](../media/40e7b3bf-6eca-4b3f-b719-27b9c6baecc6.png)
+    ![Cloudflare-BP-Configure-5-5](../media/40e7b3bf-6eca-4b3f-b719-27b9c6baecc6.png)
   
 9. Choose **Save**.
     
@@ -361,7 +347,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 11. Add the other SRV record.
     
-    In the ** DNS Records ** section, in the empty row, create the next record by copying and pasting the **Service name**, **Protocol**, and **Name** values from the second row of the table to the first screen, copying and pasting the **Priority**, **Weight**, **Port**, and **Target** values from the second row of the table to the next screen, and then again choosing **Add Record** to complete that record. 
+    In the **DNS Records** section, in the empty row, create the next record by copying and pasting the **Service name**, **Protocol**, and **Name** values from the second row of the table to the first screen, copying and pasting the **Priority**, **Weight**, **Port**, and **Target** values from the second row of the table to the next screen, and then again choosing **Add Record** to complete that record. 
     
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 

@@ -109,9 +109,9 @@ To complete setting up your domain with Office 365, you change your domain's NS 
   
 6. Depending on whether or not the correct nameservers are already listed on the page that is displayed now, continue to one of the two following procedures:
     
-  - If the correct nameservers **ARE** already listed, [If the correct nameservers ARE already listed](change-nameservers-at-heart-internet.md#BKMK_ProcedureWithOUT).
+  - If the correct nameservers **ARE** already listed,[go here](#if-the-correct-nameservers-are-already-listed).
     
-  - If the correct nameservers are **NOT** already listed, [If the correct nameservers are NOT already listed](change-nameservers-at-heart-internet.md#BKMK_ProcedureWITH).
+  - If the correct nameservers are **NOT** already listed, [go here](#if-the-correct-nameservers-are-not-already-listed).
     
 ### If the correct nameservers ARE already listed
 

@@ -30,24 +30,12 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If Blacknight is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. Follow the steps below. (Need more help? [Still need help?](create-dns-records-at-1-1-internet.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-blacknight.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-blacknight.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-blacknight.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-blacknight.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-blacknight.md#BKMK_add_SRV)
-    
 After you add these records at Blacknight, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
 <a name="BKMK_verify"> </a>
@@ -85,9 +73,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (Select the **DNS Record Type** value from the drop-down list.) 
     
-|**DNS Record Type**|**Domain**|**Data**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|TXT  <br/> |(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Select **Custom** and enter the value **3600**.  <br/> |
+    |**DNS Record Type**|**Domain**|**Data**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |TXT  <br/> |(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Select **Custom** and enter the value **3600**.  <br/> |
    
    ![Blacknight-BP-Verify-1-1](../media/b6c3c40b-d2ed-4efe-95ad-1213d57aae94.png)
   
@@ -149,11 +137,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **DNS Record Type** and **Preference** values from the drop-down lists.) 
     
-|**DNS Record Type**|**Mail domain**|**Preference**|**Mail exchanger**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|
-|MX  <br/> |(Leave this field empty.)  <br/> |Very high (10)  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Select **Custom** and enter the value **3600**.  <br/> |
+    |**DNS Record Type**|**Mail domain**|**Preference**|**Mail exchanger**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |MX  <br/> |(Leave this field empty.)  <br/> |Very high (10)  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Select **Custom** and enter the value **3600**.  <br/> |
    
-   ![Blacknight-BP-Configure-2-1](../media/39b85283-78a7-4361-82da-31af7023c6e1.png)
+    ![Blacknight-BP-Configure-2-1](../media/39b85283-78a7-4361-82da-31af7023c6e1.png)
   
 8. Choose **Finish**.
     
@@ -204,16 +192,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **DNS Record Type** from the drop-down list.) 
     
-|**DNS Record Type**|**Domain**|**Canonical name**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
-|CNAME  <br/> |sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
-|CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
-|CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
-|CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
-|CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
-   
-   ![Blacknight-BP-Configure-3-1](../media/8029a021-0ac8-4d79-87e6-74dd125d998b.png)
+    |**DNS Record Type**|**Domain**|**Canonical name**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
+    |CNAME  <br/> |sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
+    |CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
+    |CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
+    |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
+    |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
+       
+    ![Blacknight-BP-Configure-3-1](../media/8029a021-0ac8-4d79-87e6-74dd125d998b.png)
   
 8. Choose **Finish**.
     
@@ -227,7 +215,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="BKMK_add_TXT"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
   
 1. To get started, go to your domains page at Blacknight by using [this link](https://cp.blacknight.com/servlet/Turbine/frm/single/). You'll be prompted to login first.
     
@@ -255,11 +243,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 7. In the boxes for the new record, type or copy and paste the value from the following table.
     
-|**DNS Record Type**|**Domain**|**Data**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|TXT  <br/> |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |Select **Custom** and enter the value **3600**.  <br/> |
+    |**DNS Record Type**|**Domain**|**Data**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |TXT  <br/> |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/>**Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |Select **Custom** and enter the value **3600**.  <br/> |
    
-   ![Blacknight-BP-Configure-4-1](../media/90d8eb39-3191-4fe1-8bf0-e73b77250ed4.png)
+    ![Blacknight-BP-Configure-4-1](../media/90d8eb39-3191-4fe1-8bf0-e73b77250ed4.png)
   
 8. Choose **Finish**.
     
@@ -298,12 +286,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Choose the **DNS Record Type**, **Protocol**, and **Preference** values from the drop-down lists. The **Protocol** list is the unlabeled drop-down list to the right of the **Service** box. The **Port** field is the unlabeled box to the right of the first **Server Host** field.) 
     
-|**DNS Record Type**|**Service**|**Protocol**|**Preference**|**Weight**|**Data**|**Port**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|SRV  <br/> |sip  <br/> |tls  <br/> |Custom (100)  <br/> |1  <br/> |sipdir.online.lync.com  <br/> |443  <br/> |Select **Custom** and enter the value **3600**.  <br/> |
-|SRV  <br/> |sipfederationtls  <br/> |tcp  <br/> |Custom (100)  <br/> |1  <br/> |sipfed.online.lync.com  <br/> |5061  <br/> |Select **Custom** and enter the value **3600**.  <br/> |
+    |**DNS Record Type**|**Service**|**Protocol**|**Preference**|**Weight**|**Data**|**Port**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |SRV  <br/> |sip  <br/> |tls  <br/> |Custom (100)  <br/> |1  <br/> |sipdir.online.lync.com  <br/> |443  <br/> |Select **Custom** and enter the value **3600**.  <br/> |
+    |SRV  <br/> |sipfederationtls  <br/> |tcp  <br/> |Custom (100)  <br/> |1  <br/> |sipfed.online.lync.com  <br/> |5061  <br/> |Select **Custom** and enter the value **3600**.  <br/> |
    
-   ![Blacknight-BP-Configure-5-1](../media/5f12d96a-bf5a-4e15-8958-7d107c745abd.png)
+    ![Blacknight-BP-Configure-5-1](../media/5f12d96a-bf5a-4e15-8958-7d107c745abd.png)
   
 8. Choose **Finish**.
     
@@ -312,5 +300,5 @@ When Office 365 finds the correct TXT record, your domain is verified.
 9. To add the other SRV record, choose **Add New DNS Record** again, create a record using the values from the second row in the table, and then again choose **Finish** to complete the record. 
     
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   

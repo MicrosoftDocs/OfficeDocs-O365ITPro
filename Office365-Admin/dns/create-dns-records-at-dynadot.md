@@ -54,7 +54,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     ![Dynadot-BP-Configure-1-1](../media/e5602931-f9f7-4466-b134-0d35e4b45150.png)
   
-2. On the **Manage** page, find the name of the domain that you want to edit, and then, in the **Name Server** column, choose the ** *NS: name servers* ** link. 
+2. On the **Manage** page, find the name of the domain that you want to edit, and then, in the **Name Server** column, choose the ***NS: name servers*** link. 
     
     ![Dynadot-BP-Configure-1-2](../media/8de8f5c5-a71a-48ef-84c2-e16bf7422b13.png)
   
@@ -66,11 +66,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (Choose the **Record Type** value from the drop-down list.) 
     
-|**Record Type**|**IP Address or Target Host**|
-|:-----|:-----|
-|TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)    <br/>      |
+    |**Record Type**|**IP Address or Target Host**|
+    |:-----|:-----|
+    |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)    <br/>      |
    
-   ![Dynadot-BP-Verify-1-1](../media/7be98776-f41d-4317-b93a-afccf72d6590.png)
+    ![Dynadot-BP-Verify-1-1](../media/7be98776-f41d-4317-b93a-afccf72d6590.png)
   
 5. Choose **Save DNS**.
     
@@ -107,7 +107,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Dynadot-BP-Configure-1-1](../media/e5602931-f9f7-4466-b134-0d35e4b45150.png)
   
-2. On the **Manage** page, find the name of the domain that you want to edit, and then, in the **Name Server** column, choose the ** *NS: name servers* ** link. 
+2. On the **Manage** page, find the name of the domain that you want to edit, and then, in the **Name Server** column, choose the ***NS: name servers*** link. 
     
     ![Dynadot-BP-Configure-1-2](../media/8de8f5c5-a71a-48ef-84c2-e16bf7422b13.png)
   
@@ -119,11 +119,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-|**Mail Host**|**Distance**|
-|:-----|:-----|
-| *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)   <br/>       |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
-   
-   ![Dynadot-BP-Configure-2-1](../media/d83422ba-8d89-43af-b503-e00854a22105.png)
+    |**Mail Host**|**Distance**|
+    |:-----|:-----|
+    | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)   <br/>       |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+       
+    ![Dynadot-BP-Configure-2-1](../media/d83422ba-8d89-43af-b503-e00854a22105.png)
   
 5. If there are any other MX records, delete each one by selecting it and then pressing the **Delete** key on your keyboard. 
     
@@ -139,7 +139,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Dynadot-BP-Configure-1-1](../media/e5602931-f9f7-4466-b134-0d35e4b45150.png)
   
-2. On the **Manage** page, find the name of the domain that you want to edit, and then, in the **Name Server** column, choose the ** *NS: name servers* ** link. 
+2. On the **Manage** page, find the name of the domain that you want to edit, and then, in the **Name Server** column, choose the ***NS: name servers*** link. 
     
     ![Dynadot-BP-Configure-1-2](../media/8de8f5c5-a71a-48ef-84c2-e16bf7422b13.png)
   
@@ -151,16 +151,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Choose the **Record Type** value from the drop-down list.) 
     
-|**Subdomain**|**Record Type**|**IP Address or Target Host**|
-|:-----|:-----|:-----|
-|autodiscover  <br/> |CNAME  <br/> |autodiscover.outlook.com  <br/> |
-|sip  <br/> |CNAME  <br/> |sipdir.online.lync.com  <br/> |
-|lyncdiscover  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
-|msoid  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
-|enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |**Subdomain**|**Record Type**|**IP Address or Target Host**|
+    |:-----|:-----|:-----|
+    |autodiscover  <br/> |CNAME  <br/> |autodiscover.outlook.com  <br/> |
+    |sip  <br/> |CNAME  <br/> |sipdir.online.lync.com  <br/> |
+    |lyncdiscover  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
+    |msoid  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
+    |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-   ![Dynadot-BP-Configure-3-1](../media/e59bbaf7-ecab-4a12-893f-6f4a218f6dea.png)
+    ![Dynadot-BP-Configure-3-1](../media/e59bbaf7-ecab-4a12-893f-6f4a218f6dea.png)
   
 5. When you have added the last CNAME record, choose **Save DNS**.
     
@@ -171,13 +171,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
 ## Add a TXT record for SPF to help prevent email spam
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values.
   
 1. To get started, go to your domains page at Dynadot by using [this link](https://www.dynadot.com/account/domain/name/server.html). You'll be prompted to sign in first.
     
     ![Dynadot-BP-Configure-1-1](../media/e5602931-f9f7-4466-b134-0d35e4b45150.png)
   
-2. On the **Manage** page, find the name of the domain that you want to edit, and then, in the **Name Server** column, choose the ** *NS: name servers* ** link. 
+2. On the **Manage** page, find the name of the domain that you want to edit, and then, in the **Name Server** column, choose the ***NS: name servers*** link. 
     
     ![Dynadot-BP-Configure-1-2](../media/8de8f5c5-a71a-48ef-84c2-e16bf7422b13.png)
   
@@ -189,9 +189,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Choose the **Record Type** value from the drop-down list.) 
     
-|**Record Type**|**IP Address or Target Host**|
-|:-----|:-----|
-|TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.     <br/>      |
+    |**Record Type**|**IP Address or Target Host**|
+    |:-----|:-----|
+    |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.     <br/>      |
    
    ![Dynadot-BP-Configure-4-1](../media/0e20d369-6dad-45b5-aa9f-3ba72ee7b3d8.png)
   
@@ -207,7 +207,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Dynadot-BP-Configure-1-1](../media/e5602931-f9f7-4466-b134-0d35e4b45150.png)
   
-2. On the **Manage** page, find the name of the domain that you want to edit, and then, in the **Name Server** column, choose the ** *NS: name servers* ** link. 
+2. On the **Manage** page, find the name of the domain that you want to edit, and then, in the **Name Server** column, choose the ***NS: name servers*** link. 
     
     ![Dynadot-BP-Configure-1-2](../media/8de8f5c5-a71a-48ef-84c2-e16bf7422b13.png)
   
@@ -219,12 +219,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Choose the **Record Type** value from the drop-down list.) 
     
-|**Subdomain**|**Record Type**|**IP Address or Target Host**|
-|:-----|:-----|:-----|
-|_sip._tls|SRV|100 1 443 sipdir.online.lync.com **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
-|_sipfederationtls._tcp|SRV|100 1 5061 sipfed.online.lync.com **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Subdomain**|**Record Type**|**IP Address or Target Host**|
+    |:-----|:-----|:-----|
+    |_sip._tls|SRV|100 1 443 sipdir.online.lync.com **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |_sipfederationtls._tcp|SRV|100 1 5061 sipfed.online.lync.com **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-   ![Dynadot-BP-Configure-5-1](../media/2d721f42-eafc-4bb7-b377-d18c84b36057.png)
+    ![Dynadot-BP-Configure-5-1](../media/2d721f42-eafc-4bb7-b377-d18c84b36057.png)
   
 5. Choose **Save DNS**.
     

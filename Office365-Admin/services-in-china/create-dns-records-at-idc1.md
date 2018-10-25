@@ -29,16 +29,7 @@ description: "Learn to setup your own DNS records at IDC1 Services for Office 36
   
 If despite the service limitations, you choose to manage your own Office 365 DNS records at IDC1, follow the steps in this article to verify your domain and set up DNS records for email, Lync, and so on.
   
-These are the main records to add.
-  
-- [Add a TXT record for verification](create-dns-records-at-idc1.md#BKMK_verify_domain)
-    
-- [Add an MX record to route email](create-dns-records-at-idc1.md#BKMK_add_MX)
-    
-- [Add CNAME records](create-dns-records-at-idc1.md#BKMK_add_CNAME)
-    
-- [Add a TXT record to help prevent spam](create-dns-records-at-idc1.md#BKMK_add_TXT)
-    
+
 After you add these records at IDC1, your domain will be set up to work with Office 365 services, though not with the Skype for Business Online and Outlook Web App features mentioned above.
   
 If you have a SharePoint Online Public Website, you can [set it up to use your custom domain for the website URL address](https://support.office.com/article/5fe093d7-7511-4af5-895a-b7aac802fc51), like www. *your_domain*.com. 

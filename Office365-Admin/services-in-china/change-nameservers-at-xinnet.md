@@ -21,13 +21,8 @@ description: "Learn how you can set up Office 365 operated by 21Vianet to manage
 
 # Change nameservers to set up Office 365 with Xinnet
 
-Follow these instructions if you want Office 365 operated by 21Vianet to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your DNS records at Xinnet](create-dns-records-at-xinnet.md).)
-  
-Here's what you need to do:
-  
-- [Add a TXT record to verify that you own the domain](change-nameservers-at-xinnet.md#BKMK_add_a_record)
-    
-- [Change your domain's name servers](change-nameservers-at-xinnet.md#BKMK_change_your_domain_s_1)
+Follow the instructions below if you want Office 365 operated by 21Vianet to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your DNS records at Xinnet](create-dns-records-at-xinnet.md).)
+
     
 ## Add a TXT record to verify that you own the domain
 <a name="BKMK_add_a_record"> </a>
