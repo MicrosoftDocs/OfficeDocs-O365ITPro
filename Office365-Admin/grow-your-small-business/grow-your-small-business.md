@@ -138,7 +138,6 @@ description: "Learn about features in Office 365 that help your boost your busin
 </ul>
 
 ---
-## Get set up
 
 <ul class="panelContent cardsFTitle">
     <li>
@@ -195,11 +194,6 @@ description: "Learn about features in Office 365 that help your boost your busin
         </div>
         </a>
     </li>
-</ul>
-
-## Key resources
-
-<ul class="panelContent cardsFTitle">
     <li>
         <a href="previous-webinar-videos">
         <div class="cardSize">
@@ -211,7 +205,7 @@ description: "Learn about features in Office 365 that help your boost your busin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Montly webinar series</h3>
+                        <h3>Monthly webinar series</h3>
                     </div>
                 </div>
             </div>
