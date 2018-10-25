@@ -22,7 +22,7 @@ description: "Read articles to save time, boost your productivity, and be more s
 
 When you're running your own business, there're a lot of things to keep track of. Read these articles to save time, boost your productivity, and be more successful in running your business.
 
-<ul class="panelContent cardsH">
+<ul class="panelContent cardsD">
     <li>
         <a href="https://go.microsoft.com/fwlink/?linkid=2004110">
         <div class="cardSize">

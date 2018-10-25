@@ -22,7 +22,7 @@ description: "Read about what's new, currently popular, and on the horizon, in O
 
 Learn what's new, popular, and on the horizon, in Office 365 this quarter.
   
-<ul class="panelContent cardsH">
+<ul class="panelContent cardsD">
     <li>
         <a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426.aspx">
         <div class="cardSize">
