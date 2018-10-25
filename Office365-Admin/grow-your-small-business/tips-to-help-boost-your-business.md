@@ -20,7 +20,7 @@ description: "Read articles to save time, boost your productivity, and be more s
 
 # Tips to help boost your business
 
-When you're running your own business, there're a lot of things to keep track of. Read these articles to save time, boost your productivity, and be more successful in running your business.
+When you're running your own business, there are a lot of things to keep track of. Read these articles to save time, boost your productivity, and be more successful in running your business.
   
 [![Conceptual art image](../media/8b3ea2b0-e7e9-4547-813a-33babed3bb84.png)](https://support.office.com/article/e9da47c4-9b89-4b49-b945-a204aeea6726.aspx)
   
