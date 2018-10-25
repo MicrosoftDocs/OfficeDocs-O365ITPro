@@ -105,7 +105,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**Mail Server**|**Select priority**|
     |:-----|:-----|
-    | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your \<*domain-key*\> from your Office 365 portal account. [How do I find this?](77f90d4a-dc7f-4f09-8972-c1b03ea85a67.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    | \<*domain-key*\>  .mail.protection.outlook.com  <br/> **Note:** Get your \<*domain-key*\> from your Office 365 portal account. [How do I find this?](77f90d4a-dc7f-4f09-8972-c1b03ea85a67.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
     ![Aabaco-BP-Configure-2-2](../media/c45cda65-86e0-4ed0-a589-a698cf655599.png)
   
