@@ -169,7 +169,7 @@ description: "Learn about features in Office 365 that help your boost your busin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Set up videos</h3>
+                        <h3>Get started with set up</h3>
                     </div>
                 </div>
             </div>
