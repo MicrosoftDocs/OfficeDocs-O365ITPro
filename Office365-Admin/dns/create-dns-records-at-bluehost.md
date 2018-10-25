@@ -57,18 +57,18 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (You may have to scroll down.)
     
-3. In the ** *domain_name* ** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
+3. In the ***domain_name*** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
     
 4. On the ** DNS Zone Editor ** page, in the **Add DNS Record** area, in the boxes for the new record, type or copy and paste the values from the following table. 
     
     (Select the **Type** value from the drop-down list.) 
     
-|||||
-|:-----|:-----|:-----|:-----|
-|**Host Record** <br/> |**TTL** <br/> |**Type** <br/> |**TXT Value** <br/> |
-|@  <br/> |14400  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |||||
+    |:-----|:-----|:-----|:-----|
+    |**Host Record** <br/> |**TTL** <br/> |**Type** <br/> |**TXT Value** <br/> |
+    |@  <br/> |14400  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-5. Choose ** add record **.
+5. Choose **add record**.
     
 6. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
@@ -96,15 +96,15 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-3. In the ** *domain_name* ** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
+3. In the ***domain_name*** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
     
 4. On the **DNS Zone Editor** page, in the **Add DNS Record** area, in the boxes for the new record, type or copy and paste the values from the following table. 
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Host Record**|**TTL**|**Type**|**Points To**|**Priority**|
-|:-----|:-----|:-----|:-----|:-----|
-|@  <br/> |14400  <br/> |MX  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    |**Host Record**|**TTL**|**Type**|**Points To**|**Priority**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |@  <br/> |14400  <br/> |MX  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/>**Note:** Get your \<*domain-key*\> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
    ![Select Type from the drop-down list](../media/70791420-d83c-4a5d-a46c-5cc3bc67f565.png)
   
@@ -133,7 +133,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-3. In the ** *domain_name* ** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
+3. In the ***domain_name*** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
     
 4. In the **A (Host)** records section, find the row for the **autodiscover** record, and then choose **delete** for that row. 
     
@@ -152,16 +152,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Host Record**|**TTL**|**Type**|**Points To**|
-|:-----|:-----|:-----|:-----|
-|autodiscover  <br/> |14400  <br/> |CNAME  <br/> |autodiscover.outlook.com  <br/> |
-|sip  <br/> |14400  <br/> |CNAME  <br/> |sipdir.online.lync.com  <br/> |
-|lyncdiscover  <br/> |14400  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
-|msoid  <br/> |14400  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
-|enterpriseregistration  <br/> |14400  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |14400  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |**Host Record**|**TTL**|**Type**|**Points To**|
+    |:-----|:-----|:-----|:-----|
+    |autodiscover  <br/> |14400  <br/> |CNAME  <br/> |autodiscover.outlook.com  <br/> |
+    |sip  <br/> |14400  <br/> |CNAME  <br/> |sipdir.online.lync.com  <br/> |
+    |lyncdiscover  <br/> |14400  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
+    |msoid  <br/> |14400  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    |enterpriseregistration  <br/> |14400  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
+    |enterpriseenrollment  <br/> |14400  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-   ![Create the first CNAME record](../media/4f12e9b1-9dec-4bc2-aa15-8bffa71fe131.png)
+    ![Create the first CNAME record](../media/4f12e9b1-9dec-4bc2-aa15-8bffa71fe131.png)
   
 7. Choose **add record**.
     
@@ -185,17 +185,17 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-3. In the ** *domain_name* ** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
+3. In the ***domain_name*** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
     
 4. On the **DNS Zone Editor** page, in the **Add DNS Record** area, in the boxes for the new record, type or copy and paste the values from the following table. 
     
     (Select the **Type** value from the drop-down list.) 
-    
-|**Host Record**|**TTL**|**Type**|**TXT Value**|
-|:-----|:-----|:-----|:-----|
-|@  <br/> |14400  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+        
+    |**Host Record**|**TTL**|**Type**|**TXT Value**|
+    |:-----|:-----|:-----|:-----|
+    |@  <br/> |14400  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/>**Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-   ![Copy the TXT value](../media/b2dabd7a-ee3d-4209-aa1e-0233eb8cf3b9.png)
+    ![Copy the TXT value](../media/b2dabd7a-ee3d-4209-aa1e-0233eb8cf3b9.png)
   
 5. Choose **add record**.
     
@@ -210,7 +210,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-3. In the ** *domain_name* ** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
+3. In the ***domain_name*** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
     
 4. Create the first of the two SRV records.
     
@@ -218,12 +218,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Service**|**Protocol**|**Host**|**TTL**|**Type**|**Priority**|**Weight**|**Port**|**Points To**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|_sip  <br/> |_tls  <br/> |@  <br/> |14400  <br/> |SRV  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
-|_sipfederationtls  <br/> |_tcp  <br/> |@  <br/> |14400  <br/> |SRV  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
+    |**Service**|**Protocol**|**Host**|**TTL**|**Type**|**Priority**|**Weight**|**Port**|**Points To**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |_sip  <br/> |_tls  <br/> |@  <br/> |14400  <br/> |SRV  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
+    |_sipfederationtls  <br/> |_tcp  <br/> |@  <br/> |14400  <br/> |SRV  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
    
-   ![Copy the value for the new record](../media/e2911bca-c00b-4b8a-837f-f1d438c474c4.png)
+    ![Copy the value for the new record](../media/e2911bca-c00b-4b8a-837f-f1d438c474c4.png)
   
 5. Choose **add record**.
     

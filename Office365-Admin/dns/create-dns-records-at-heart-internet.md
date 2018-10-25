@@ -63,10 +63,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (You may have to scroll down.) 
     
-|||
-|:-----|:-----|
-|**Subdomain** <br/> |**Text** <br/> |
-|(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |||
+    |:-----|:-----|
+    |**Subdomain** <br/> |**Text** <br/> |
+    |(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
 6. Choose **Update DNS**.
     
@@ -104,9 +104,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-|**Subdomain**|**Mail server**|**Priority**|
-|:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    |**Subdomain**|**Mail server**|**Priority**|
+    |:-----|:-----|:-----|
+    |(Leave this field empty.)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your \<*domain-key*\> from your Office 365 portal account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
    ![HeartInternet-BP-Configure-2-1](../media/05d1b532-3daa-43d9-be89-dcd15b9a38f5.png)
   
@@ -141,16 +141,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-|**Subdomain**|**Address**|
-|:-----|:-----|
-|autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
-|enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
-|enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |**Subdomain**|**Address**|
+    |:-----|:-----|
+    |autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
+    |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
+    |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-   ![HeartInternet-BP-Configure-3-1](../media/57714603-9278-4a55-904f-54b48d2ddec7.png)
+    ![HeartInternet-BP-Configure-3-1](../media/57714603-9278-4a55-904f-54b48d2ddec7.png)
   
 6. Choose **Update DNS**.
     
@@ -184,9 +184,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-|**Subdomain**|**Text**|
-|:-----|:-----|
-|(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Subdomain**|**Text**|
+    |:-----|:-----|
+    |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/>**Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
    ![HeartInternet-BP-Configure-4-1](../media/2cec212d-db02-4d5b-bf78-7e4070748d6b.png)
   
@@ -213,12 +213,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Service** and **Proto** values from the drop-down lists. For the **Service** value for the second record, choose **(Enter your own)** in the drop-down list, and then type or copy and paste the value **_sipfederationtls** ) 
     
-|**Service**|**Proto**|**Server**|**Port**|**Pri**|**Wei**|
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|SIP  <br/> |TLS  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |443  <br/> |100  <br/> |1  <br/> |
-|_sipfederationtls  <br/> |TCP  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |5061  <br/> |100  <br/> |1  <br/> |
+    |**Service**|**Proto**|**Server**|**Port**|**Pri**|**Wei**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|
+    |SIP  <br/> |TLS  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |443  <br/> |100  <br/> |1  <br/> |
+    |_sipfederationtls  <br/> |TCP  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |5061  <br/> |100  <br/> |1  <br/> |
    
-   ![HeartInternet-BP-Configure-5-1](../media/71bbbf65-b7b5-4269-8e42-26bee16b9128.png)
+    ![HeartInternet-BP-Configure-5-1](../media/71bbbf65-b7b5-4269-8e42-26bee16b9128.png)
   
 6. Choose **Update DNS**.
     

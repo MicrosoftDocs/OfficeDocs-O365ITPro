@@ -71,10 +71,10 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
   
 5. In the boxes for the new record, select **TXT** for the **Record Type**, and then type or copy and paste the values from the following table.
     
-||||
-|:-----|:-----|:-----|
-|Hostname  <br/> |Record Type  <br/> |Value  <br/> |
-|@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    ||||
+    |:-----|:-----|:-----|
+    |Hostname  <br/> |Record Type  <br/> |Value  <br/> |
+    |@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
     ![Type or copy and paste DNS values](../media/3b0d19f9-4138-47a7-aab2-137ad120ded6.png)
   
@@ -128,9 +128,9 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
   
 5. In the boxes for the new record, select **MX** for the **Record Type**, and then type or copy and paste the values from the following table.
     
-|**Hostname**|**Record Type**|**Priority**|**Hostname**|
-|:-----|:-----|:-----|:-----|
-|@  <br/> |MX  <br/> |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**Hostname**|**Record Type**|**Priority**|**Hostname**|
+    |:-----|:-----|:-----|:-----|
+    |@  <br/> |MX  <br/> |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
     ![Type or copy and paste DNS values](../media/2c8915fa-04a8-4d2a-a8ae-a79de0c8ef99.png)
   
@@ -175,14 +175,14 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
   
 5. In the empty boxes for the new record, select **CNAME** for the **Record Type**, and then type or copy and paste the values from the first row in the following table.
     
-|**Hostname**|**Record Type**|**Target Host**|
-|:-----|:-----|:-----|
-|autodiscover  <br/> |CNAME  <br/> |autodiscover.outlook.com  <br/> |
-|sip  <br/> |CNAME  <br/> |sipdir.online.lync.com  <br/> |
-|lyncdiscover  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
-|msoid  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
-|enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |**Hostname**|**Record Type**|**Target Host**|
+    |:-----|:-----|:-----|
+    |autodiscover  <br/> |CNAME  <br/> |autodiscover.outlook.com  <br/> |
+    |sip  <br/> |CNAME  <br/> |sipdir.online.lync.com  <br/> |
+    |lyncdiscover  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
+    |msoid  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
+    |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
     ![Type or copy and paste DNS values](../media/6ae607f8-d26e-47f0-a0f2-3487d37e8c7f.png)
   
@@ -218,9 +218,9 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
   
 5. In the boxes for the new record, select **TXT** for the **Record Type**, and then type or copy and paste the values from the following table.
     
-|**Hostname**|**Record Type**|**Value**|
-|:-----|:-----|:-----|
-|@  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Hostname**|**Record Type**|**Value**|
+    |:-----|:-----|:-----|
+    |@  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/>**Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
     ![Type or copy and paste DNS values](../media/ed36b9e0-aaa9-45fb-804d-7d4e82ba0c7f.png)
   
@@ -253,10 +253,10 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
   
 5. In the empty boxes for the new record, select **SRV** for the **Record Type**, and then type or copy and paste the values from the first row in the following table.
     
-|**Hostname**|**Record Type**|**Priority**|**Weight**|**Port**|**Target**|
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|_sip._tls  <br/> |SRV  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
-|_sipfederationtls._tcp  <br/> |SRV  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
+    |**Hostname**|**Record Type**|**Priority**|**Weight**|**Port**|**Target**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|
+    |_sip._tls  <br/> |SRV  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
+    |_sipfederationtls._tcp  <br/> |SRV  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
    
     ![Type or copy and paste DNS values](../media/67562cd6-c598-4c37-af53-626f153c0197.png)
   
@@ -267,5 +267,5 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
 7. Using the preceding three steps and the values from the second row in the table, add the other SRV record.
     
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   

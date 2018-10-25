@@ -63,10 +63,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 5. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|||
-|:-----|:-----|
-|**Host Name** <br/> |**Value** <br/> |
-|@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |||
+    |:-----|:-----|
+    |**Host Name** <br/> |**Value** <br/> |
+    |@  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
 6. Choose **Save**.
     
@@ -104,11 +104,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 5. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|**Host Name**|**Points To**|**Priority**|
-|:-----|:-----|:-----|
-|@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    |**Host Name**|**Points To**|**Priority**|
+    |:-----|:-----|:-----|
+    |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your \< *domain-key*  \> from your Office 365 portal account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-   ![FasthostsUK-BP-Configure-2-2](../media/47930740-2660-426b-832f-6847fb5a33b5.png)
+    ![FasthostsUK-BP-Configure-2-2](../media/47930740-2660-426b-832f-6847fb5a33b5.png)
   
 6. Choose **Save**.
     
@@ -147,16 +147,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the boxes for the new record, type or copy and paste the values from the first row of the following table.
     
-|**Host Name**|**Points To**|
-|:-----|:-----|
-|autodiscover  <br/> |autodiscover.outlook.com  <br/> |
-|sip  <br/> |sipdir.online.lync.com  <br/> |
-|lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
-|msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |
-|enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |**Host Name**|**Points To**|
+    |:-----|:-----|
+    |autodiscover  <br/> |autodiscover.outlook.com  <br/> |
+    |sip  <br/> |sipdir.online.lync.com  <br/> |
+    |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
+    |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
+    |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-   ![FasthostsUK-BP-Configure-3-2](../media/995d90ae-298e-43e9-ba50-240cf17e946b.png)
+    ![FasthostsUK-BP-Configure-3-2](../media/995d90ae-298e-43e9-ba50-240cf17e946b.png)
   
 6. Choose **Save**.
     
@@ -188,9 +188,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 5. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|**Host Name**|**Value**|
-|:-----|:-----|
-|@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Host Name**|**Value**|
+    |:-----|:-----|
+    |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
    ![FasthostsUK-BP-Configure-4-2](../media/50531996-80b7-48c1-b2f0-a654f0e6e203.png)
   
@@ -217,12 +217,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the boxes for the new record, type or copy and paste the values from the first row of the following table.
     
-|**Host Name**|**Priority**|**Weight**|**Port**|**Target**|
-|:-----|:-----|:-----|:-----|:-----|
-|_sip._tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
-|_sipfederationtls._tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
+    |**Host Name**|**Priority**|**Weight**|**Port**|**Target**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |_sip._tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
+    |_sipfederationtls._tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
    
-   ![FasthostsUK-BP-Configure-5-2](../media/dab4b5f6-93b4-4ada-81f8-223bec86fc06.png)
+    ![FasthostsUK-BP-Configure-5-2](../media/dab4b5f6-93b4-4ada-81f8-223bec86fc06.png)
   
 6. Choose **Save**.
     

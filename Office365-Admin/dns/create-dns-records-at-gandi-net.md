@@ -87,7 +87,7 @@ This first zone file is used only to help verify that you own your domain; it do
     
     ![GandiNet-BP-Configure-1-5-2](../media/f038fc81-9751-405a-972e-d6a6c2232033.png)
   
-8. On the **Zones \>** ** *zone_name* ** page, choose **Create a new version**.
+8. On the **Zones \>** ***zone_name*** page, choose **Create a new version**.
     
     ![GandiNet-BP-Configure-1-6](../media/35c7f396-5981-4763-b43a-e7355bcc3106.png)
   
@@ -133,11 +133,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (Select the **Type**, **TTL**, and **hours** values from the drop-down lists.) 
     
-|**Type**|**TTL**|**Name**|**Value**|
-|:-----|:-----|:-----|:-----|
-|TXT  <br/> |1 hours  <br/> |@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**Type**|**TTL**|**Name**|**Value**|
+    |:-----|:-----|:-----|:-----|
+    |TXT  <br/> |1 hours  <br/> |@  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-   ![GandiNet-BP-Verify-1-1](../media/81376f64-3206-4eaa-9ca2-ba0d89266393.png)
+    ![GandiNet-BP-Verify-1-1](../media/81376f64-3206-4eaa-9ca2-ba0d89266393.png)
   
 7. Choose **Submit** to confirm your changes. 
     
@@ -252,7 +252,7 @@ The zone file that you will create now is where you will create the DNS records 
     
     ![GandiNet-BP-Configure-1-16-2](../media/a43366f5-0c4e-4885-969d-c534d8fb8649.png)
   
-8. On the **Zones \>** ** *zone_name* ** page, choose **Create a new version**.
+8. On the **Zones \>** ***zone_name*** page, choose **Create a new version**.
     
     ![GandiNet-BP-Configure-1-17](../media/613fd204-3a51-4f60-8caa-7aba391836eb.png)
   
@@ -294,12 +294,12 @@ Now that you have created the new zone file, you will add to it all of the DNS r
     
     (Select the **Type**, **TTL**, and **hours** values from the drop-down lists.) 
     
-||||||
-|:-----|:-----|:-----|:-----|:-----|
-|Type  <br/> |TTL  <br/> |Name  <br/> |Value  <br/> |MX Priority  <br/> |
-|MX  <br/> |1 hours  <br/> |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    ||||||
+    |:-----|:-----|:-----|:-----|:-----|
+    |Type  <br/> |TTL  <br/> |Name  <br/> |Value  <br/> |MX Priority  <br/> |
+    |MX  <br/> |1 hours  <br/> |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/>**Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-   ![GandiNet-BP-Configure-2-1](../media/d05d2d09-bd6c-4d60-998c-3a9e8a0057e6.png)
+    ![GandiNet-BP-Configure-2-1](../media/d05d2d09-bd6c-4d60-998c-3a9e8a0057e6.png)
   
 7. Choose **Submit**.
     
@@ -351,17 +351,17 @@ Now that you have created the new zone file, you will add to it all of the DNS r
     
     (Select the **Type**, **TTL**, and **hours** values from the drop-down lists.) 
     
-|||||
-|:-----|:-----|:-----|:-----|
-|Type  <br/> |TTL  <br/> |Name  <br/> |Value  <br/> |
-|CNAME  <br/> |1 hours  <br/> |autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|CNAME  <br/> |1 hours  <br/> |sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|CNAME  <br/> |1 hours  <br/> |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|CNAME  <br/> |1 hours  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
-|CNAME  <br/> |1 hours  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
-|CNAME  <br/> |1 hours  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |||||
+    |:-----|:-----|:-----|:-----|
+    |Type  <br/> |TTL  <br/> |Name  <br/> |Value  <br/> |
+    |CNAME  <br/> |1 hours  <br/> |autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |CNAME  <br/> |1 hours  <br/> |sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |CNAME  <br/> |1 hours  <br/> |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |CNAME  <br/> |1 hours  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
+    |CNAME  <br/> |1 hours  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
+    |CNAME  <br/> |1 hours  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-   ![GandiNet-BP-Configure-3-1](../media/a707be8b-a362-44ac-a1b6-0bca3fe94a90.png)
+    ![GandiNet-BP-Configure-3-1](../media/a707be8b-a362-44ac-a1b6-0bca3fe94a90.png)
   
 7. Choose **Submit**.
     
@@ -412,10 +412,10 @@ Now that you have created the new zone file, you will add to it all of the DNS r
     
     (Select the **Type**, **TTL**, and **hours** values from the drop-down lists.) 
     
-|||||
-|:-----|:-----|:-----|:-----|
-|Type  <br/> |TTL  <br/> |Name  <br/> |Value  <br/> |
-|TXT  <br/> |1 hours  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |||||
+    |:-----|:-----|:-----|:-----|
+    |Type  <br/> |TTL  <br/> |Name  <br/> |Value  <br/> |
+    |TXT  <br/> |1 hours  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
    ![GandiNet-BP-Configure-4-1](../media/2e5fc2a4-cd0d-4074-8552-08e07dcfa1ee.png)
   
@@ -461,13 +461,13 @@ Now that you have created the new zone file, you will add to it all of the DNS r
     
     (Select the **Type**, **TTL**, and **hours** values from the drop-down lists.) 
     
-|||||
-|:-----|:-----|:-----|:-----|
-|Type|TTL|Name|Value|
-|SRV|1 hours|_sip._tls|100 1 443 sipdir.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
-|SRV|1 hours|_sipfederationtls._tcp|100 1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |||||
+    |:-----|:-----|:-----|:-----|
+    |Type|TTL|Name|Value|
+    |SRV|1 hours|_sip._tls|100 1 443 sipdir.online.lync.com. **This value MUST end with a period (.)** **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |SRV|1 hours|_sipfederationtls._tcp|100 1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)** **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-   ![GandiNet-BP-Configure-5-1](../media/5c43cffc-771e-494b-ab68-ad1fbd05e00a.png)
+    ![GandiNet-BP-Configure-5-1](../media/5c43cffc-771e-494b-ab68-ad1fbd05e00a.png)
   
 7. Choose **Submit**.
     
@@ -519,5 +519,5 @@ If you  *have*  now verified your domain and created all of the MX, CNAME, SPF, 
     ![GandiNet-BP-Configure-1-21](../media/f4c330e8-2cbc-4aa6-9962-aea4cd1e766e.png)
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   

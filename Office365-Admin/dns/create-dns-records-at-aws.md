@@ -67,10 +67,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     > [!TIP]
     > The quotation marks required by the onscreen instructions are supplied automatically. You don't need to type them manually. 
   
-|||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Name** <br/> |**Type** <br/> |**Alias** <br/> |**TTL (Seconds)** <br/> |**Value** <br/> |**Routing Policy** <br/> |
-|(Leave this field empty.)  <br/> |TXT - Text  <br/> |No  <br/> |300  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Simple  <br/> |
+    |||||||
+    |:-----|:-----|:-----|:-----|:-----|:-----|
+    |**Name** <br/> |**Type** <br/> |**Alias** <br/> |**TTL (Seconds)** <br/> |**Value** <br/> |**Routing Policy** <br/> |
+    |(Leave this field empty.)  <br/> |TXT - Text  <br/> |No  <br/> |300  <br/> |MS=ms *XXXXXXXX*  <br/>**Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Simple  <br/> |
    
 6. Choose **Create**.
     
@@ -106,11 +106,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Choose the **Type** and **Routing Policy** values from the drop-down lists.) 
     
-|**Name**|**Type**|**Alias**|**TTL (Seconds)**|**Value**|**Routing Policy**|
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |MX - Mail exchange  <br/> |No  <br/> |300  <br/> |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> The 0 is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Simple  <br/> |
-   
-   ![AWS-BP-Configure-2-1](../media/94a71ce7-1b3b-4b1a-9ad3-9592db133075.png)
+    |**Name**|**Type**|**Alias**|**TTL (Seconds)**|**Value**|**Routing Policy**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|
+    |(Leave this field empty.)  <br/> |MX - Mail exchange  <br/> |No  <br/> |300  <br/> |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> The 0 is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your \<*domain-key*\> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Simple  <br/> |
+       
+    ![AWS-BP-Configure-2-1](../media/94a71ce7-1b3b-4b1a-9ad3-9592db133075.png)
   
 6. Choose **Create**.
     
@@ -150,16 +150,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Choose the **Type** and **Routing Policy** values from the drop-down lists.) 
     
-|**Name**|**Type**|**Alias**|**TTL (Seconds)**|**Value**|**Routing Policy**|
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|autodiscover  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
-|sip  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
-|lyncdiscover  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
-|msoid  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
-|enterpriseregistration  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
-|enterpriseenrollment  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
+    |**Name**|**Type**|**Alias**|**TTL (Seconds)**|**Value**|**Routing Policy**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|
+    |autodiscover  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
+    |sip  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
+    |lyncdiscover  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
+    |msoid  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
+    |enterpriseregistration  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
+    |enterpriseenrollment  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
    
-   ![AWS-BP-Configure-3-1](../media/895c71bd-0e3a-425e-9681-98c1c67e714b.png)
+    ![AWS-BP-Configure-3-1](../media/895c71bd-0e3a-425e-9681-98c1c67e714b.png)
   
 6. Choose **Create**.
     
@@ -189,11 +189,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 5. In the **Edit Record Set** area, at the end of the current entry in the **Value:** box for the existing record, press Enter on your keyboard to create a new line; and then, on that new line (under the existing value), type or copy and paste the value from the following table. (You can see an example in the illustration below the table.) 
     
-|**Value:**|
-|:-----|
-|v=spf1 include:spf.protection.outlook.com -all  <br/> (The quotation marks required by the onscreen instructions are supplied automatically. You don't need to type them manually.)  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Value:**|
+    |:-----|
+    |v=spf1 include:spf.protection.outlook.com -all  <br/> (The quotation marks required by the onscreen instructions are supplied automatically. You don't need to type them manually.)  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-   ![AWS-BP-Configure-4-2](../media/beb3c086-eaf8-4245-9860-18512a3ff72e.png)
+    ![AWS-BP-Configure-4-2](../media/beb3c086-eaf8-4245-9860-18512a3ff72e.png)
   
 6. Choose **Save Record Set**.
     
@@ -216,12 +216,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Choose the **Type** and **Routing Policy** values from the drop-down lists.) 
     
-|**Name**|**Type**|**Alias**|**TTL (Seconds)**|**Value**|**Routing Policy**|
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|_sip._tls|SRV - Service locator|No|300|100 1 443 sipdir.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |Simple|
-|_sipfederationtls._tcp|SRV - Service locator|No|300|100 1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |Simple|
+    |**Name**|**Type**|**Alias**|**TTL (Seconds)**|**Value**|**Routing Policy**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|
+    |_sip._tls|SRV - Service locator|No|300|100 1 443 sipdir.online.lync.com. **This value MUST end with a period (.)**><br> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |Simple|
+    |_sipfederationtls._tcp|SRV - Service locator|No|300|100 1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**<br> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |Simple|
    
-   ![AWS-BP-Configure-5-1](../media/c3f841d3-6076-428f-bb04-e71cc5f392fa.png)
+    ![AWS-BP-Configure-5-1](../media/c3f841d3-6076-428f-bb04-e71cc5f392fa.png)
   
 6. Choose **Create**.
     

@@ -62,7 +62,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     |**Hostname:**|**Text:**|
     |:-----|:-----|
-    |@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> You must use the admin center to get this value. [How do I find this?](https://support.office.com/article/77f90d4a-dc7f-4f09-8972-c1b03ea85a67_.aspx)          |
+    |@  <br/> |MS=ms *XXXXXXXX*  <br/>**Note:** You must use the admin center to get this value. [How do I find this?](https://support.office.com/article/77f90d4a-dc7f-4f09-8972-c1b03ea85a67_.aspx)          |
    
     ![Type or paste the DSN values on the Add TXT Record page](../media/ae8386df-6cec-4bbe-a280-9d3fc170d972.png)
   
@@ -105,9 +105,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**Mail Server**|**Select priority**|
     |:-----|:-----|
-    | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your \< *domain-key*  \> from your Office 365 portal account. [How do I find this?](77f90d4a-dc7f-4f09-8972-c1b03ea85a67.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your \<*domain-key*\> from your Office 365 portal account. [How do I find this?](77f90d4a-dc7f-4f09-8972-c1b03ea85a67.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-   ![Aabaco-BP-Configure-2-2](../media/c45cda65-86e0-4ed0-a589-a698cf655599.png)
+    ![Aabaco-BP-Configure-2-2](../media/c45cda65-86e0-4ed0-a589-a698cf655599.png)
   
 5. Choose **Add**.
     
@@ -151,7 +151,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
     |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
    
-   ![Aabaco-BP-Configure-3-2](../media/db4ff2a7-02b6-494c-bb30-a06a757b05a5.png)
+    ![Aabaco-BP-Configure-3-2](../media/db4ff2a7-02b6-494c-bb30-a06a757b05a5.png)
   
 5. Choose **Add**.
     
@@ -187,9 +187,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**Hostname:**|**Text:**|
     |:-----|:-----|
-    |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-    ![Aabaco-BP-Configure-4-2](../media/62b89a12-fb10-4b79-b629-8282c56b78bb.png)
+     ![Aabaco-BP-Configure-4-2](../media/62b89a12-fb10-4b79-b629-8282c56b78bb.png)
   
 5. Choose **Add**.
     

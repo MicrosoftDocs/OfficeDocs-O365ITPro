@@ -70,10 +70,10 @@ Follow the steps below or [watch the video (start at 0:42)](https://support.offi
     
     (Select the **Type** value from the drop-down list.) 
     
-||||
-|:-----|:-----|:-----|
-|**Type** <br/> |**Prefix** <br/> |**Name Value** <br/> |
-|TXT  <br/> |(Leave this field blank)  <br/> |MS=ms *XXXXXXXX*  <br/> NOTE: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    ||||
+    |:-----|:-----|:-----|
+    |**Type** <br/> |**Prefix** <br/> |**Name Value** <br/> |
+    |TXT  <br/> |(Leave this field blank)  <br/> |MS=ms *XXXXXXXX*  <br/> NOTE: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
 7. Choose **Save**.
     
@@ -120,9 +120,11 @@ Follow the steps below or [watch the video (start at 3:22)](https://support.offi
   
 7. In the boxes for the **MX 1** record, type or copy and paste the values from the following table. 
     
-|**MX 1**|**Priority**|
-|:-----|:-----|
-| *\<domain-key\>*  .mail.protection.outlook.com  <br/>  NOTE: Get your \<domain-key\> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | <br/>![1 and 1 - configure 2 and 3](../media/3afb04d1-7bbf-4147-89ae-561e14ded26d.png)<br/>
+    |**MX 1**|**Priority**|
+    |:-----|:-----|
+    | *\<domain-key\>*  .mail.protection.outlook.com  <br/>  NOTE: Get your \<domain-key\> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | 
+    
+    ![1 and 1 - configure 2 and 3](../media/3afb04d1-7bbf-4147-89ae-561e14ded26d.png)<br/>
   
 8. Choose **Save**.<br/>(You may have to scroll down.)<br/>![1&amp;1-BP-Configure-2-4](../media/355b3ba7-4d2b-45ed-aa17-ac4affb54fe3.png)
   
@@ -153,10 +155,13 @@ Follow the steps below or [watch the video (start at 3:57)](https://support.offi
     
     ![1&amp;1-BP-Configure-3-1](../media/95c63639-eb80-443d-8951-98e8b6cdcc4f.png)
   
-5. In the **Create Subdomain** box for the new subdomain, type or copy and paste only the **Create Subdomain** value from the following table. (You'll add the **Alias** value in a later step.)<br/> 
-|**Create Subdomain**|**Alias**|
-|:-----|:-----|
-|autodiscover  <br/> |autodiscover.outlook.com  <br/> | <br/>![1&amp;1-BP-Configure-3-2](../media/9be45113-ebaf-48e6-983c-a7e6ff9eea45.png)
+5. In the **Create Subdomain** box for the new subdomain, type or copy and paste only the **Create Subdomain** value from the following table. (You'll add the **Alias** value in a later step.)
+
+    |**Create Subdomain**|**Alias**|
+    |:-----|:-----|
+    |autodiscover  <br/> |autodiscover.outlook.com   | 
+
+    ![1&amp;1-BP-Configure-3-2](../media/9be45113-ebaf-48e6-983c-a7e6ff9eea45.png)
   
 6. Choose **Create Subdomain**.<br/>![1&amp;1-BP-Configure-3-3](../media/1e7bc874-f174-4597-8c08-df611d16a74d.png)
   
@@ -164,13 +169,15 @@ Follow the steps below or [watch the video (start at 3:57)](https://support.offi
   
 8. In the **Subdomain Settings** area, choose **Edit DNS Settings**. <br/>![1&amp;1-BP-Configure-3-5](../media/5c602118-b89b-4897-9faf-0736be8a6a0d.png)
   
-9. In the **A/AAAA Records (IP Addresses)** section, in the ** IP address (A Record) ** area, select **CNAME**.<br/>![1&amp;1-BP-Configure-3-6](../media/7f57f468-fbee-4440-a53d-3e334d8e5b71.png)
+9. In the **A/AAAA Records (IP Addresses)** section, in the **IP address (A Record)** area, select **CNAME**.<br/>![1&amp;1-BP-Configure-3-6](../media/7f57f468-fbee-4440-a53d-3e334d8e5b71.png)
   
 10. In the **Alias:** box, type or copy and paste only the **Alias** value from the following table.<br/> 
     
-|**Create Subdomain**|**Alias**|
-|:-----|:-----|
-|autodiscover  <br/> |autodiscover.outlook.com  <br/> |<br/>![1&amp;1-BP-Configure-3-7](../media/afac3118-3337-4f99-98dd-a7ca930230ce.png)
+    |**Create Subdomain**|**Alias**|
+    |:-----|:-----|
+    |autodiscover  <br/> |autodiscover.outlook.com   |
+
+    ![1&amp;1-BP-Configure-3-7](../media/afac3118-3337-4f99-98dd-a7ca930230ce.png)
   
 11. Select the check box for the **I am aware** disclaimer.<br/>![1&amp;1-BP-Configure-3-8-1](../media/6c4cac1a-23f2-4ff3-b2d1-3dca908638d2.png)
   
@@ -182,9 +189,11 @@ Follow the steps below or [watch the video (start at 3:57)](https://support.offi
   
 15. In the **Create Subdomain** box for the new subdomain, type or copy and paste only the **Create Subdomain** value from the following table. (You'll add the **Alias** value in a later step.) 
     
-|**Create Subdomain**|**Alias**|
-|:-----|:-----|
-|msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> | <br/>![1&amp;1-BP-Configure-3-10](../media/6572a9c4-62d9-48e4-851e-a2a44732aebe.png)
+    |**Create Subdomain**|**Alias**|
+    |:-----|:-----|
+    |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> | 
+    
+    ![1&amp;1-BP-Configure-3-10](../media/6572a9c4-62d9-48e4-851e-a2a44732aebe.png)
   
 16. Choose **Create Subdomain**.<br/>![1&amp;1-BP-Configure-3-11](../media/a3296395-14b5-4763-b55b-b414f963ef3b.png)
   
@@ -192,13 +201,15 @@ Follow the steps below or [watch the video (start at 3:57)](https://support.offi
   
 18. In the **Subdomain Settings** area, choose **Edit DNS Settings**.<br/>![1&amp;1-BP-Configure-3-13](../media/600ded12-1849-4b8b-b95b-ec52c78ec1e0.png)
   
-19. In the **A/AAAA Records (IP Addresses)** section, in the ** IP address (A Record) ** area, select **CNAME**.<br/>![1&amp;1-BP-Configure-3-14-1](../media/15b64d81-c9d7-40a9-86a4-8117119a1c3a.png)
+19. In the **A/AAAA Records (IP Addresses)** section, in the **IP address (A Record)** area, select **CNAME**.<br/>![1&amp;1-BP-Configure-3-14-1](../media/15b64d81-c9d7-40a9-86a4-8117119a1c3a.png)
   
 20. In the **Alias:** box, type or copy and paste only the **Alias** value from the following table. 
     
-|**Create Subdomain**|**Alias**|
-|:-----|:-----|
-|msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> | <br/>![1&amp;1-BP-Configure-3-14-2](../media/1703144e-7e98-4cd0-ad7f-08477981a6aa.png)
+    |**Create Subdomain**|**Alias**|
+    |:-----|:-----|
+    |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> | 
+    
+    ![1&amp;1-BP-Configure-3-14-2](../media/1703144e-7e98-4cd0-ad7f-08477981a6aa.png)
   
 21. Select the check box for the **I am aware** disclaimer.<br/> ![1&amp;1-BP-Configure-3-15-1](../media/31d27d95-9cec-4392-88fd-bb877a4dba17.png)
   
@@ -214,9 +225,9 @@ The additional CNAME records created in the following procedure enable Skype for
     
 2. In the **Create Subdomain** box for the new subdomain, type or copy and paste only the **Create Subdomain** value from the following table. (You'll add the **Alias** value in a later step.)<br/> 
     
-|**Create Subdomain**|**Alias**|
-|:-----|:-----|
-|lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
+    |**Create Subdomain**|**Alias**|
+    |:-----|:-----|
+    |lyncdiscover   |webdir.online.lync.com  |
    
 3. Choose **Create Subdomain**.
     
@@ -228,9 +239,9 @@ The additional CNAME records created in the following procedure enable Skype for
     
 7. In the **Alias:** box, type or copy and paste only the **Alias** value from the following table. <br/>
     
-|**Create Subdomain**|**Alias**|
-|:-----|:-----|
-|lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
+    |**Create Subdomain**|**Alias**|
+    |:-----|:-----|
+    |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
    
 8. Select the check box for the **I am aware** disclaimer, and then choose **Save**.
     
@@ -240,9 +251,9 @@ The additional CNAME records created in the following procedure enable Skype for
     
 11. In the **Create Subdomain** box for the new subdomain, type or copy and paste only the **Create Subdomain** value from the following table. (You'll add the **Alias** value in a later step.) <br/>
     
-|**Create Subdomain**|**Alias**|
-|:-----|:-----|
-|sip  <br/> |sipdir.online.lync.com  <br/> |
+    |**Create Subdomain**|**Alias**|
+    |:-----|:-----|
+    |sip  <br/> |sipdir.online.lync.com  <br/> |
    
 12. Choose **Create Subdomain**.
     
@@ -254,9 +265,9 @@ The additional CNAME records created in the following procedure enable Skype for
     
 16. In the **Alias:** box, type or copy and paste only the **Alias** value from the following table. 
     
-|**Create Subdomain**|**Alias**|
-|:-----|:-----|
-|sip  <br/> |sipdir.online.lync.com  <br/> |
+    |**Create Subdomain**|**Alias**|
+    |:-----|:-----|
+    |sip  <br/> |sipdir.online.lync.com  <br/> |
    
 17. Select the check box for the **I am aware** disclaimer, and then choose **Save**.
     
@@ -294,9 +305,11 @@ Follow the steps below or [watch the video (start at 5:09)](https://support.offi
     
 6. In the **Add Record** area, in the boxes for the new record, type or copy and paste the values from the following table. <br/>(Select the **Type** value from the drop-down list.) <br/>
     
-|**Type**|**Prefix**|**Name Value**|
-|:-----|:-----|:-----|
-|TXT  <br/> |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |  <br/>![TXT record](../media/0b3ba3b4-64b9-4d68-9ee1-04eb3a17d4c5.png)
+    |**Type**|**Prefix**|**Name Value**|
+    |:-----|:-----|:-----|
+    |TXT  <br/> |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           | 
+    
+    ![TXT record](../media/0b3ba3b4-64b9-4d68-9ee1-04eb3a17d4c5.png)
   
 7. Choose **Save**.<br/>![Add record](../media/0f222eb9-3bfd-4908-9a99-516cc6fb1d0e.png)
   
@@ -323,10 +336,12 @@ Follow the steps below or [watch the video (start at 5:51)](https://support.offi
     
 6. Add the first of the two SRV records.<br/>In the **Add Record** area, in the boxes for the new record, type or copy and paste the values from the first row in the following table. <br/>(Select the **Type** and **TTL** values from the drop-down list.) 
     
-|**Type**|**Service**|**Protocol**|**Name**|**Host**|**Priority**|**Weight**|**Port**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|SRV  <br/> |sip  <br/> |tls  <br/> |(Leave this field empty.)  <br/> |sipdir.online.lync.com  <br/> |100  <br/> |1  <br/> |443  <br/> |3600 (1 h)  <br/> |
-|SRV  <br/> |sipfederationtls  <br/> |tcp  <br/> |(Leave this field empty.)  <br/> |sipfed.online.lync.com  <br/> |100  <br/> |1  <br/> |5061  <br/> |3600 (1 h)  <br/> |  <br/>![1&amp;1-BP-Configure-5-1](../media/087e337d-926b-42ff-b11d-b449cfaed76c.png)
+    |**Type**|**Service**|**Protocol**|**Name**|**Host**|**Priority**|**Weight**|**Port**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |SRV  <br/> |sip  <br/> |tls  <br/> |(Leave this field empty.)  <br/> |sipdir.online.lync.com  <br/> |100  <br/> |1  <br/> |443  <br/> |3600 (1 h)  <br/> |
+    |SRV  <br/> |sipfederationtls  <br/> |tcp  <br/> |(Leave this field empty.)  <br/> |sipfed.online.lync.com  <br/> |100  <br/> |1  <br/> |5061  <br/> |3600 (1 h)  <br/> |  
+    
+    ![1&amp;1-BP-Configure-5-1](../media/087e337d-926b-42ff-b11d-b449cfaed76c.png)
   
 7. Choose **Save**. <br/>![1&amp;1-BP-Configure-5-2](../media/aa5f803d-fb24-48e0-976a-6759c5fd252c.png)
   

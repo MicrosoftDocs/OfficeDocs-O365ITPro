@@ -72,10 +72,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 8. In the **TXT Records** section, in the boxes for the new record, type or copy and paste the following values. 
     
-|||
-|:-----|:-----|
-|**Host** <br/> |**Description** <br/> |
-|(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)   <br/>       |
+    |||
+    |:-----|:-----|
+    |**Host** <br/> |**Description** <br/> |
+    |(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)   <br/>       |
    
 9. Choose **Save**.
     
@@ -128,7 +128,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |:-----|:-----|:-----|
     |(Leave this field empty.)  <br/> |1  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your *\<domain-key\>* from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)    <br/>      |
    
-       ![ipMirror-BP-Configure-2-2](../media/91b8c48f-4486-425d-a994-afdb251ebdb3.png)
+    ![ipMirror-BP-Configure-2-2](../media/91b8c48f-4486-425d-a994-afdb251ebdb3.png)
   
 9. Choose **Save**.
     
@@ -228,7 +228,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |:-----|:-----|
     |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:**> We recommend copying and pasting this entry, so that all of the spacing stays correct.   <br/>        |
        
-       ![ipMirror-BP-Configure-4-2](../media/4bdba745-ebe0-4ab7-9214-8a8eecf6281a.png)
+    ![ipMirror-BP-Configure-4-2](../media/4bdba745-ebe0-4ab7-9214-8a8eecf6281a.png)
   
 9. Choose **Save**.
     
@@ -267,7 +267,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |_sip._tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
     |_sipfederationtls._tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
        
-       ![ipMirror-BP-Configure-5-2](../media/2c7efc4f-375d-4cf8-a834-fae5cf50e916.png)
+    ![ipMirror-BP-Configure-5-2](../media/2c7efc4f-375d-4cf8-a834-fae5cf50e916.png)
   
 9. Choose **Save**.
     

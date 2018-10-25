@@ -33,7 +33,7 @@ If Namecheap is your DNS hosting provider, follow the steps in this article to v
 After you add these records at Namecheap, your domain will be set up to work with Office 365 services.
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
 <a name="BKMK_verify"> </a>
@@ -76,11 +76,11 @@ Follow the steps below.
     
     (Select the **TTL** value from the drop-down list.) 
     
-|**Type**|**Host**|**Value**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|TXT  <br/> |@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |30 min  <br/> |
-   
-  ![Namecheap-BP-Verify-1-2](../media/fe75c0fd-f85c-4bef-8068-edaf9779b7f1.png)
+    |**Type**|**Host**|**Value**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |TXT  <br/> |@  <br/> |MS=ms *XXXXXXXX*  <br/>**Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |30 min  <br/> |
+       
+    ![Namecheap-BP-Verify-1-2](../media/fe75c0fd-f85c-4bef-8068-edaf9779b7f1.png)
   
 8. Choose the **Save Changes** (check mark) control. 
     
@@ -107,7 +107,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
 
   
 ## Add an MX record so email for your domain will come to Office 365
@@ -145,11 +145,11 @@ Follow the steps below.
     
     (The **Priority** box is the unnamed box to the right of the **Value** box. Select the **TTL** value from the drop-down list.) 
     
-|**Type**|**Host**|**Value**|**Priority**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|
-|MX Record  <br/> |@  <br/> |\< *domain-key*  \>.mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |30 min  <br/> |
-   
-  ![Namecheap-BP-Configure-2-2-2](../media/f3b76d62-5022-48c1-901b-8615a8571309.png)
+    |**Type**|**Host**|**Value**|**Priority**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |MX Record  <br/> |@  <br/> |\<*domain-key*\>.mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |30 min  <br/> |
+       
+    ![Namecheap-BP-Configure-2-2-2](../media/f3b76d62-5022-48c1-901b-8615a8571309.png)
   
 8. Choose the **Save Changes** (check mark) control. 
     
@@ -202,16 +202,16 @@ Follow the steps below.
   
 7. In the empty boxes for the new record, select **CNAME** for the **Record Type**, and then type or copy and paste the values from the first row in the following table.
     
-|**Type**|**Host**|**Value**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-|CNAME  <br/> |sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-|CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-|CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-|CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-|CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-   
-  ![Namecheap-BP-Configure-3-2](../media/f79c5679-34eb-4544-8517-caa2e8a4111a.png)
+    |**Type**|**Host**|**Value**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+    |CNAME  <br/> |sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+    |CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+    |CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+    |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+    |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+       
+    ![Namecheap-BP-Configure-3-2](../media/f79c5679-34eb-4544-8517-caa2e8a4111a.png)
   
 8. Choose the **Save Changes** (check mark) control. 
     
@@ -257,11 +257,11 @@ Follow the steps below.
     
     (Select the **TTL** value from the drop-down list.) 
     
-|**Type**|**Host**|**Value**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|TXT  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |30 min  <br/> |
-   
-  ![Namecheap-BP-Configure-4-2](../media/ea0829f1-990b-424b-b26e-9859468318dd.png)
+    |**Type**|**Host**|**Value**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |TXT  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |30 min  <br/> |
+       
+    ![Namecheap-BP-Configure-4-2](../media/ea0829f1-990b-424b-b26e-9859468318dd.png)
   
 8. Choose the **Save Changes** (check mark) control. 
     
@@ -299,12 +299,12 @@ Follow the steps below.
   
 7. In the empty boxes for the new records, type or copy and paste the values from the first row in the following table.
     
-|**Service**|**Protocol**|**Priority**|**Weight**|**Port**|**Target**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|_sip  <br/> |_tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |30 min  <br/> |
-|_sipfederationtls  <br/> |_tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |30 min  <br/> |
-   
- ![Namecheap-BP-Configure-5-2](../media/ff9566ea-0096-4b7f-873c-027080a23b56.png)
+    |**Service**|**Protocol**|**Priority**|**Weight**|**Port**|**Target**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |_sip  <br/> |_tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |30 min  <br/> |
+    |_sipfederationtls  <br/> |_tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |30 min  <br/> |
+       
+    ![Namecheap-BP-Configure-5-2](../media/ff9566ea-0096-4b7f-873c-027080a23b56.png)
   
 8. Choose the **Save Changes** (check mark) control. 
     
@@ -313,7 +313,7 @@ Follow the steps below.
 9. Using the preceding four steps and the values from the second row in the table, add the other SRV record.
     
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 
   

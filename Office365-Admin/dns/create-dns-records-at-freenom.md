@@ -30,7 +30,7 @@ If despite the service limitations, you choose to manage your own Office 365 DNS
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
 <a name="bkmk_txt"> </a>
@@ -62,11 +62,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 6. In the boxes for the new record, type or copy and paste the values from the following table. 
     
-|**﻿Name**|**﻿Type**|**﻿TTL**|**﻿Target**|
-|:-----|:-----|:-----|:-----|
-|﻿(leave blank)  <br/> |﻿TXT  <br/> |﻿3600 (seconds)  <br/> |MS=msXXXXXXXX  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**Name**|**Type**|**TTL**|**Target**|
+    |:-----|:-----|:-----|:-----|
+    |(leave blank)  <br/> |TXT  <br/> |3600 (seconds)  <br/> |MS=msXXXXXXXX  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-   ![Freenom TXT values for verification](../media/650098df-b3aa-47e5-9763-7fde24e34c3f.png)
+    ![Freenom TXT values for verification](../media/650098df-b3aa-47e5-9763-7fde24e34c3f.png)
   
 7. Choose **Save Changes**.
     
@@ -128,13 +128,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 8. In the boxes for the new record, type or copy and paste the values from the first row of the following table. 
     
-|**﻿Name**|**﻿Type**|**﻿TTL**|**﻿Target**|**﻿Priority**|
-|:-----|:-----|:-----|:-----|:-----|
-|﻿(leave blank)  <br/> |﻿MX (Mail Exchanger)  <br/> |﻿3600 (seconds)  <br/> |\<domain-key\>.mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |﻿10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/17d415c1-067e-4974-84d5-aaeaf3a0c0a9) <br/> |
+    |**Name**|**Type**|**TTL**|**Target**|**Priority**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |(leave blank)  <br/> |MX (Mail Exchanger)  <br/> |3600 (seconds)  <br/> |\<domain-key\>.mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.   [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/17d415c1-067e-4974-84d5-aaeaf3a0c0a9) <br/> |
    
    ![Freenom MX record](../media/8896c4a9-b3dd-45ed-9916-f7da2715ba8c.png)
   
-9. ﻿Choose **Save Changes**.
+9. Choose **Save Changes**.
     
     ![Freenom MX record Save Changes](../media/7aa0a464-d136-417f-be40-48d3f728eeb7.png)
   
@@ -165,18 +165,18 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 6. Create the first CNAME record. In the boxes for the new record, type or copy and paste the values from the first row of the following table. 
     
-|**﻿Name**|**﻿Record type**|**﻿TTL**|**﻿Target**|
-|:-----|:-----|:-----|:-----|
-|autodiscover  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |autodiscover.outlook.com  <br/> |
-|sip  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |sipdir.online.lync.com  <br/> |
-|lyncdiscover  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |webdir.online.lync.com  <br/> |
-|msoid  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |clientconfig.microsoftonline-p.net  <br/> |
-|enterpriseregistration  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |**Name**|**Record type**|**TTL**|**Target**|
+    |:-----|:-----|:-----|:-----|
+    |autodiscover  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |autodiscover.outlook.com  <br/> |
+    |sip  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |sipdir.online.lync.com  <br/> |
+    |lyncdiscover  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |webdir.online.lync.com  <br/> |
+    |msoid  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    |enterpriseregistration  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |enterpriseregistration.windows.net  <br/> |
+    |enterpriseenrollment  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-   ![Freenom CNAME values](../media/752fc682-e3f2-4b9c-9253-bf1ba2d414e9.png)
+    ![Freenom CNAME values](../media/752fc682-e3f2-4b9c-9253-bf1ba2d414e9.png)
   
-7. ﻿Choose **﻿Save Changes**.
+7. Choose **Save Changes**.
     
     ![Freenom CNAME Save Changes](../media/68103fd2-0f5f-4aac-a875-25157c6bbdd2.png)
   
@@ -212,13 +212,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 6. In the boxes for the new record, type or copy and paste the following values. 
     
-|**﻿Name**|**﻿Record type**|**﻿TTL**|**﻿Target**|
-|:-----|:-----|:-----|:-----|
-|﻿(leave blank)  <br/> |﻿TXT  <br/> |﻿3600 (seconds)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Name**|**Record type**|**TTL**|**Target**|
+    |:-----|:-----|:-----|:-----|
+    |(leave blank)  <br/> |TXT  <br/> |3600 (seconds)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/>**Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-   ![Freenom TXT values for SPF](../media/1b3b1199-9104-4ca1-acdb-786d139c21ac.png)
+    ![Freenom TXT values for SPF](../media/1b3b1199-9104-4ca1-acdb-786d139c21ac.png)
   
-7. ﻿Choose **Save Changes**.
+7. Choose **Save Changes**.
     
     ![Freenom TXT record for SPF Save Changes](../media/e2fc52b1-0dcb-4595-9a4c-fca5e2ef9f97.png)
   

@@ -43,7 +43,7 @@ After you add these records at GoDaddy, your domain will be set up to work with 
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
 <a name="BKMK_verify"> </a>
@@ -79,10 +79,10 @@ Follow the steps below or [watch the video (start at 0:43)](https://support.offi
     
     (Select the **TTL** value from the drop-down list.) 
     
-|||||
-|:-----|:-----|:-----|:-----|
-|Record type  <br/> |Host  <br/> |TXT Value  <br/> |TTL  <br/> |
-|TXT (Text)  <br/> |@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |1 hour  <br/> |
+    |||||
+    |:-----|:-----|:-----|:-----|
+    |Record type  <br/> |Host  <br/> |TXT Value  <br/> |TTL  <br/> |
+    |TXT (Text)  <br/> |@  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |1 hour  <br/> |
    
    ![GoDaddy-BP-Verify-1-1](../media/fad2470b-c347-4682-bc92-5f4fc60d92e1.png)
   
@@ -146,9 +146,9 @@ Follow the steps below or [watch the video (start at 3:36)](https://support.offi
     
     (Select the **TTL** value from the drop-down list.) 
     
-|**Record type**|**Host**|**Points to**|**Priority**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|
-|MX (Mail Exchanger)  <br/> |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |1 hour  <br/> |
+    |**Record type**|**Host**|**Points to**|**Priority**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |MX (Mail Exchanger)  <br/> |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |1 hour  <br/> |
    
    ![GoDaddy-BP-Configure-2-1](../media/c0d17b39-0315-48ce-99c5-541bdc52e10a.png)
   
@@ -199,14 +199,14 @@ Follow the steps below or [watch the video (start at 4:27)](https://support.offi
     
     (Select the **TTL** value from the drop-down list.) 
     
-|**Record type**|**Host**|**Points to**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|CNAME (Alias)  <br/> |autodiscover  <br/> |autodiscover.outlook.com  <br/> |1 hour  <br/> |
-|CNAME (Alias)  <br/> |sip  <br/> |sipdir.online.lync.com  <br/> |1 hour  <br/> |
-|CNAME (Alias)  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |1 hour  <br/> |
-|CNAME (Alias)  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |1 hour  <br/> |
-|CNAME (Alias)  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |1 hour  <br/> |
-|CNAME (Alias)  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |1 hour  <br/> |
+    |**Record type**|**Host**|**Points to**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |CNAME (Alias)  <br/> |autodiscover  <br/> |autodiscover.outlook.com  <br/> |1 hour  <br/> |
+    |CNAME (Alias)  <br/> |sip  <br/> |sipdir.online.lync.com  <br/> |1 hour  <br/> |
+    |CNAME (Alias)  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |1 hour  <br/> |
+    |CNAME (Alias)  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |1 hour  <br/> |
+    |CNAME (Alias)  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |1 hour  <br/> |
+    |CNAME (Alias)  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |1 hour  <br/> |
    
    ![GoDaddy-BP-Configure-3-1](../media/bdb9a8da-ecc2-48f5-b0f2-1252aeed07a1.png)
   
@@ -262,11 +262,11 @@ Follow the steps below or [watch the video (start at 5:15)](https://support.offi
     
     (Select the **TTL** value from the drop-down lists.) 
     
-|**Record type**|**Host**|**TXT Value**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|TXT (Text)  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1 hour  <br/> |
+    |**Record type**|**Host**|**TXT Value**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |TXT (Text)  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1 hour  <br/> |
    
-   ![GoDaddy-BP-Configure-4-1](../media/7c724f02-c9b3-42ab-b9c0-78959fa6ffad.png)
+    ![GoDaddy-BP-Configure-4-1](../media/7c724f02-c9b3-42ab-b9c0-78959fa6ffad.png)
   
 7. Choose **Finish**.
     
@@ -307,12 +307,12 @@ Follow the steps below or [watch the video (start at 5:59)](https://support.offi
     
     (Select the **Record type** and **TTL** values from the drop-down lists.) 
     
-|****Record type****|****Name****|****Target****|****Protocol****|****Service****|****Priority****|****Weight****|****Port****|****TTL****|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|SRV (Service)  <br/> |@  <br/> |sipdir.online.lync.com  <br/> |_tls  <br/> |_sip  <br/> |100  <br/> |1  <br/> |443  <br/> |1 hour  <br/> |
-|SRV (Service)  <br/> |@  <br/> |sipfed.online.lync.com  <br/> |_tcp  <br/> |_sipfederationtls  <br/> |100  <br/> |1  <br/> |5061  <br/> |1 hour  <br/> |
+    |**Record type**|**Name**|**Target**|**Protocol**|**Service**|**Priority**|**Weight**|**Port**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |SRV (Service)  <br/> |@  <br/> |sipdir.online.lync.com  <br/> |_tls  <br/> |_sip  <br/> |100  <br/> |1  <br/> |443  <br/> |1 hour  <br/> |
+    |SRV (Service)  <br/> |@  <br/> |sipfed.online.lync.com  <br/> |_tcp  <br/> |_sipfederationtls  <br/> |100  <br/> |1  <br/> |5061  <br/> |1 hour  <br/> |
    
-   ![GoDaddy-BP-Configure-5-1](../media/a1b15ab1-eb6a-4672-90d1-7ac3e0beb223.png)
+    ![GoDaddy-BP-Configure-5-1](../media/a1b15ab1-eb6a-4672-90d1-7ac3e0beb223.png)
   
 7. Choose **Add Another**.
     
@@ -333,6 +333,6 @@ Follow the steps below or [watch the video (start at 5:59)](https://support.offi
     ![GoDaddy-BP-Configure-5-4](../media/feaf0204-4228-4dc0-93e2-3f80aaabcec3.png)
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 

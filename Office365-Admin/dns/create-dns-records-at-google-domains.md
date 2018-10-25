@@ -68,7 +68,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     |||||
     |:-----|:-----|:-----|:-----|
     |**Name** <br/> |**Type** <br/> |**TTL** <br/> |**Data** <br/> |
-    |@  <br/> |TXT  <br/> |1H  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |@  <br/> |TXT  <br/> |1H  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
 4. Choose **Add**.
     
@@ -121,7 +121,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**Name**|**Type**|**TTL**|**Data**|
     |:-----|:-----|:-----|:-----|
-    |@  <br/> |MX  <br/> |1H  <br/> |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> The **0** is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **Note:** Get your \< *domain-key*  \> from your Office 365 portal account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    |@  <br/> |MX  <br/> |1H  <br/> |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> The **0** is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **Note:** Get your \<*domain-key*\> from your Office 365 portal account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
     ![Type or paste values in the Custom resource records section](../media/b660ca9e-984d-449f-ae59-a65fe4e2c6bd.png)
   
@@ -173,7 +173,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |enterpriseregistration  <br/> |CNAME  <br/> |1H  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
     |enterpriseenrollment  <br/> |CNAME  <br/> |1H  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-   ![Type or paste values in the Custom resource records section](../media/cff9832a-6d57-421f-a183-55320974ed87.png)
+    ![Type or paste values in the Custom resource records section](../media/cff9832a-6d57-421f-a183-55320974ed87.png)
   
 4. Choose **Add**.
     
@@ -248,12 +248,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**Name**|**Type**|**TTL**|**Data**|
     |:-----|:-----|:-----|:-----|
-    |_sip._tls|SRV|1H|100 1 443 sipdir.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |_sip._tls|SRV|1H|100 1 443 sipdir.online.lync.com. **This value MUST end with a period (.)** **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
     |_sipfederationtls._tcp|SRV|1H|100 1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**
 
     We recommend copying and pasting this entry, so that all of the spacing stays correct.       
    
-   ![Type or paste values in the Custom resource records section](../media/429d06a9-c0af-4961-b7d2-7a8dea6db37e.png)
+    ![Type or paste values in the Custom resource records section](../media/429d06a9-c0af-4961-b7d2-7a8dea6db37e.png)
   
 6. Choose **Add**.
     

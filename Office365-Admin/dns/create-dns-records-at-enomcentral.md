@@ -69,11 +69,11 @@ Follow the steps below or [watch the video (start at 0:46)](https://support.offi
     
     (Select the **Record Type** value from the drop-down list.) 
     
-||||
-|:-----|:-----|:-----|
-|**Host Name** <br/> |**Record Type** <br/> |**Address** <br/> |
-|@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
-   
+    ||||
+    |:-----|:-----|:-----|
+    |**Host Name** <br/> |**Record Type** <br/> |**Address** <br/> |
+    |@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+       
    ![eNom-BP-Verify-1-2](../media/e1f95529-46a6-40f9-9709-9fe66f373bcf.png)
   
 5. Choose **save**.
@@ -126,10 +126,10 @@ Follow the steps below or [watch the video (start at 3:40)](https://support.offi
   
 5. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|**Host Name**|**Address**|**Pref**|
-|:-----|:-----|:-----|
-|@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
-   
+    |**Host Name**|**Address**|**Pref**|
+    |:-----|:-----|:-----|
+    |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+       
    ![eNom-BP-Configure-2-1](../media/c32e8954-8209-4f77-a3a8-4b7aeea325d5.png)
   
 6. Choose **save**.
@@ -167,18 +167,18 @@ Follow the steps below or [watch the video (start at 4:24)](https://support.offi
   
 5. In the boxes for the six new records, type or copy and paste the following values.
     
-    (Select the **Record Type** value from the drop-down list.) 
-    
-|**Host Name**|**Record Type**|**Address**|
-|:-----|:-----|:-----|
-|autodiscover  <br/> |CNAME (Alias)  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|sip  <br/> |CNAME (Alias)  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|lyncdiscover  <br/> |CNAME (Alias)  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|msoid  <br/> |CNAME (Alias)  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
-|enterpriseregistration  <br/> |CNAME (Alias)  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
-|enterpriseenrollment  <br/> |CNAME (Alias)  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
+        (Select the **Record Type** value from the drop-down list.) 
+        
+    |**Host Name**|**Record Type**|**Address**|
+    |:-----|:-----|:-----|
+    |autodiscover  <br/> |CNAME (Alias)  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |sip  <br/> |CNAME (Alias)  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |lyncdiscover  <br/> |CNAME (Alias)  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |msoid  <br/> |CNAME (Alias)  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
+    |enterpriseregistration  <br/> |CNAME (Alias)  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
+    |enterpriseenrollment  <br/> |CNAME (Alias)  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-   ![eNom-BP-Configure-3-2](../media/672371c0-51af-44ba-bb18-80286b7676c1.png)
+    ![eNom-BP-Configure-3-2](../media/672371c0-51af-44ba-bb18-80286b7676c1.png)
   
 6. Choose **save**.
     
@@ -208,9 +208,9 @@ Follow the steps below or [watch the video (start at 5:12)](https://support.offi
     
     (Select the **Record Type** value from the drop-down list.) 
     
-|**Host Name**|**Record Type**|**Address**|
-|:-----|:-----|:-----|
-|@  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Host Name**|**Record Type**|**Address**|
+    |:-----|:-----|:-----|
+    |@  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/>**Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
    ![eNom-BP-Configure-4-1](../media/64c68697-258d-4044-84b1-c28f4a402e3b.png)
   
@@ -241,12 +241,12 @@ Follow the steps below or [watch the video (start at 5:50)](https://support.offi
   
 5. In the boxes for the two new records, type or copy and paste the values from the following table.
     
-|**Service**|**Protocol**|**Priority**|**Weight**|**Port**|**Target          (Hostname)**|
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|_sip  <br/> |_tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|_sipfederationtls  <br/> |_tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |**Service**|**Protocol**|**Priority**|**Weight**|**Port**|**Target          (Hostname)**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|
+    |_sip  <br/> |_tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |_sipfederationtls  <br/> |_tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-   ![eNom-BP-Configure-5-2](../media/4d478f40-780f-43b9-940b-712b09da8c63.png)
+    ![eNom-BP-Configure-5-2](../media/4d478f40-780f-43b9-940b-712b09da8c63.png)
   
 6. Choose **save**
     
