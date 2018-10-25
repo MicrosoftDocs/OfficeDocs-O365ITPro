@@ -60,7 +60,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md">
+        <a href="../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json&view=o365-worldwide">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -79,7 +79,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="tips-to-help-boost-your-business.md">
+        <a href="tips-to-help-boost-your-business.md?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json&view=o365-worldwide">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -177,7 +177,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../contact-support-for-business-products">
+        <a href="../contact-support-for-business-products?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json&view=o365-worldwide">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -195,7 +195,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="previous-webinar-videos">
+        <a href="previous-webinar-videos?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json&view=o365-worldwide">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
