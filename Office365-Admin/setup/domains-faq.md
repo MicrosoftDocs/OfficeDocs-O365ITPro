@@ -412,7 +412,7 @@ You can, but there are limitations:
         
 6. Update DNS records at your DNS hosting provider
     
-    1. Sign in to your DNS hosting provider's website, and follow the [Create DNS records at any DNS hosting provider for Office 365 steps](../get-help-with-domains/create-dns-records-at-any-dns-hosting-provider-0.md). **Make the following exceptions:**
+    1. Sign in to your DNS hosting provider's website, and follow the [Create DNS records at any DNS hosting provider for Office 365 steps](../get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md). **Make the following exceptions:**
     
         1. Do not create a new MX record or change your existing MX record.
             

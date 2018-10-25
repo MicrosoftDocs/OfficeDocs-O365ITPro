@@ -126,7 +126,7 @@
 ### [Domain Connect](get-help-with-domains/domain-connect.md)
 ### [Set up your domain (host-specific instructions)](get-help-with-domains/set-up-your-domain-host-specific-instructions.md)
 ### [Change nameservers at any domain registrar](get-help-with-domains/change-nameservers-at-any-domain-registrar.md)
-### [Create DNS records at any DNS hosting provider](get-help-with-domains/create-dns-records-at-any-dns-hosting-provider-0.md)
+### [Create DNS records at any DNS hosting provider](get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md)
 ### [Remove a domain](get-help-with-domains/remove-a-domain.md)
 ### [Transfer data manually](get-help-with-domains/transfer-data-manually.md)
 ## [Create groups](create-groups/create-groups.md)

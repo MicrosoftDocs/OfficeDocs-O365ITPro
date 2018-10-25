@@ -110,7 +110,7 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
     
     ![Add these records](../media/81862586-7393-4ad3-9d4e-d7183e91b1b9.png)
   
-    If the portal doesn't recognize your registrar, you can [follow these general instructions.](../get-help-with-domains/create-dns-records-at-any-dns-hosting-provider-0.md)
+    If the portal doesn't recognize your registrar, you can [follow these general instructions.](../get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md)
     
     Check our list of [host-specific instructions](https://support.office.com/article/ae950c9e-e8d9-4108-b0cb-449156998580) to find your host and follow the steps to add all the records you need. 
     
