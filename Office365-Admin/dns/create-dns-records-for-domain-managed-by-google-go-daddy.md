@@ -6,10 +6,17 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -26,7 +33,7 @@ To migrate your mail accounts to Office 365, you need to create a DNS record at 
   
 If you purchased your domain through Google while signing up for your **Google Apps for Work** account, your DNS records are managed by Google but registered with GoDaddy. 
   
-You can access GoDaddy, and create DNS, through the Google **Domains** page. Just follow the steps in this article. (Need more help? [Still need help?](create-dns-records-for-domain-managed-by-google-go-daddy.md#BKMK_NeedHelp).)
+You can access GoDaddy, and create DNS, through the Google **Domains** page. Just follow the steps in this article. 
   
 ## Create the DNS record
 
@@ -53,7 +60,7 @@ You can access GoDaddy, and create DNS, through the Google **Domains** page. Jus
 6. On the **Domains** page, choose **Advanced DNS settings**.
     
     > [!NOTE]
-    > If you didn't purchase a domain name through Google while signing up for your **Google Apps for Work** account, you won't have **Advanced DNS settings** on your **Domains** page. Instead, you must go directly to your domain host's web site to access your DNS settings and to perform this and the following steps. [See Access DNS records from a partner host](https://support.google.com/a/answer/54693?hl=en) for more information. 
+    > If you didn't purchase a domain name through Google while signing up for your **Google Apps for Work** account, you won't have **Advanced DNS settings** on your **Domains** page. Instead, you must go directly to your domain host's web site to access your DNS settings and to perform this and the following steps. See [Access your G Suite domain settings](https://support.google.com/a/answer/54693?hl=en) for more information. 
   
     ![Google-Apps-Configure-1-3](../media/93504e2e-ab6b-4545-b9da-198c723bc825.png)
   
@@ -65,7 +72,7 @@ You can access GoDaddy, and create DNS, through the Google **Domains** page. Jus
     
     ![Google-Apps-Configure-1-5](../media/6e9cdab4-9691-4ddc-b6d4-cbb9e0cf9d96.png)
   
-9. On the **Domains** page, choose your ** *domain_name* **. 
+9. On the **Domains** page, choose your ***domain_name***. 
     
     ![Google-Apps-Configure-1-6](../media/9f81e100-24bf-4692-a3b9-0eb5b35ef097.png)
   
@@ -75,16 +82,15 @@ You can access GoDaddy, and create DNS, through the Google **Domains** page. Jus
   
 11. On the **Add Zone Record** page, in the boxes for the new record, type or copy and paste the following values. 
     
-|****RECORD TYPE****|****HOST****|****TXT VALUE****|****TTL****|
-|:-----|:-----|:-----|:-----|
-|TXT  <br/> |@  <br/> ||1 Hour  <br/> |
-> [!NOTE]
-> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. 
-  
-[How do I find this?](../get-help-with-domains/information-for-dns-records.md)
-  
+    |****RECORD TYPE****|****HOST****|****TXT VALUE****|****TTL****|
+    |:-----|:-----|:-----|:-----|
+    |TXT  <br/> |@  <br/> ||1 Hour  <br/> |
 
-   
+    > [!NOTE]
+    > This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. 
+  
+    [How do I find this?](../get-help-with-domains/information-for-dns-records.md)
+  
   
 12. Choose **Finish**.
     

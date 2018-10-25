@@ -6,7 +6,8 @@ author: kfollis
 ms.audience: Admin
 ms.topic: hub-page
 ms.service: o365-administration
-localization_priority: None
+localization_priority: Normal
+ms.custom: Core_O365Admin_Migration
 search.appverid:
 - MET150
 - MOE150

@@ -10,7 +10,11 @@ f1_keywords:
 - 'O365M_DOM_CNDNS'
 - 'O365E_DOM_CNDNS'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection: Adm_UI_Elements
+ms.custom:
+- Core_O365Admin_Migration
+- domainsgallatin
 search.appverid:
 - MET150
 - GEA150
@@ -25,16 +29,6 @@ description: "Learn to setup your own DNS records at CNDNS for Office 365 operat
   
 If, despite the service limitations, you choose to manage your own Office 365 DNS records at CNDNS, follow the steps in this article to verify your domain and set up DNS records for email, Lync, and so on. here's how to set them up. 
   
-These are the main records to add.
-  
-- [Add a TXT record for verification](create-dns-records-at-cndns.md#BKMK_verify_domain)
-    
-- [Add an MX record to route email](create-dns-records-at-cndns.md#BKMK_add_MX)
-    
-- [Add CNAME records](create-dns-records-at-cndns.md#BKMK_add_CNAME)
-    
-- [Add a TXT record to help prevent spam](create-dns-records-at-cndns.md#BKMK_add_TXT)
-    
 After you add these records at CNDNS, your domain will be set up to work with Office 365 services, though not with the Skype for Business Online and Outlook Web App features mentioned above.
   
 If you have a SharePoint Online Public Website, you can [set it up to use your custom domain for the website URL address](https://support.office.com/article/d80ffb87-aa51-495c-8133-454d7b75253b), like www. *your_domain*.com. 
@@ -43,14 +37,13 @@ If you have a SharePoint Online Public Website, you can [set it up to use your c
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. 
   
 ## Add a TXT record for verification
-<a name="BKMK_verify_domain"> </a>
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
 > [!NOTE]
 > This record is used only to verify that you own your domain; it doesn't affect anything else. You can delete it later, if you like. 
   
-1. In your browser, go to [your domains list at CNDNS](http://www.cndns.com/userpanel/dme_mng/dme_lst.asp) and sign in. 
+1. In your browser, go to [your domains list at CNDNS](https://www.cndns.com/) and sign in. 
     
     ![Sign in to CNDNS](../media/e9a982be-5751-49ca-a6e5-c227eedffc7e.png)
   
@@ -72,9 +65,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 4. Click **立即添加** (add). 
     
-Now that you've added the record at your domain registrar's site, you'll go back to Office 365 and request Office 365 to look for the record.
-  
-When Office 365 finds the correct TXT record, your domain is verified.
+    Now that you've added the record at your domain registrar's site, you'll go back to Office 365 and request Office 365 to look for the record.
+      
+    When Office 365 finds the correct TXT record, your domain is verified.
   
 1. Choose **Setup** \> **Domains**.
     
@@ -91,9 +84,8 @@ When Office 365 finds the correct TXT record, your domain is verified.
     ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
   
 ## Add an MX record to route email
-<a name="BKMK_add_MX"> </a>
 
-1. In your browser, go to [your domains list at CNDNS](http://www.cndns.com/userpanel/dme_mng/dme_lst.asp) and sign in. 
+1. In your browser, go to [your domains list at CNDNS](https://www.cndns.com/) and sign in. 
     
     ![Sign in to CNDNS](../media/e9a982be-5751-49ca-a6e5-c227eedffc7e.png)
   
@@ -127,11 +119,10 @@ When Office 365 finds the correct TXT record, your domain is verified.
     2. In the **操作** (actions) column, click **删除** (remove). 
     
 ## Add CNAME records
-<a name="BKMK_add_CNAME"> </a>
 
 1. Add the email (Exchange) Autodiscover CNAME record.
     
-    1. In your browser, go to [your domains list at CNDNS](http://www.cndns.com/userpanel/dme_mng/dme_lst.asp) and sign in. 
+    1. In your browser, go to [your domains list at CNDNS](https://www.cndns.com/) and sign in. 
     
         ![Sign in to CNDNS](../media/e9a982be-5751-49ca-a6e5-c227eedffc7e.png)
   
@@ -190,9 +181,8 @@ When Office 365 finds the correct TXT record, your domain is verified.
     2. Click **立即添加** (add). 
     
 ## Add a TXT record to help prevent spam
-<a name="BKMK_add_TXT"> </a>
 
-1. In your browser, go to [your domains list at CNDNS](http://www.cndns.com/userpanel/dme_mng/dme_lst.asp) and sign in. 
+1. In your browser, go to [your domains list at CNDNS](https://www.cndns.com/) and sign in. 
     
     ![Sign in to CNDNS](../media/e9a982be-5751-49ca-a6e5-c227eedffc7e.png)
   

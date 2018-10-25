@@ -9,13 +9,19 @@ f1_keywords:
 - 'O365M_PasswordExp'
 - 'O365E_PasswordExp'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection:
+- Adm_O365
 - Adm_O365_Top
+- Adm_UI_Elements
 - strat_admin_top
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Top
+- Core_O365Admin_Migration
+- MiniMaven
+- strat_admin_top
 search.appverid:
 - BCS160
 - MET150

@@ -8,8 +8,13 @@ ms.topic: get-started-article
 f1_keywords:
 - 'O365P_O365GroupsAdmin'
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- Adm_O365
+- Adm_O365_FullSet
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -23,10 +28,8 @@ description: "Learn to create and delete Office 365 groups, add and remove group
   
 While users can create an Office 365 group from Outlook or other apps, as the global admin, you may need to create or delete groups, add or remove members, and customize how they work. The Office 365 admin center is the place to do this.
   
-|||
-|:-----|:-----|
-|![Are you in the right place?](../media/dce802aa-dcbc-4a4a-a975-44b960259f7c.png)           <br/> |**Are you looking for how to create an email group (distribution list) in Outlook?** <br/> If so, see [Create a contact group or distribution list in Outlook](https://support.office.com/article/88ff6c60-0a1d-4b54-8c9d-9e1a71bc3023.aspx).  <br/> |
-|||
+**Are you looking for how to create an email group (distribution list) in Outlook?** <br/> If so, see [Create a contact group or distribution list in Outlook](https://support.office.com/article/88ff6c60-0a1d-4b54-8c9d-9e1a71bc3023.aspx).  
+
    
 Because Office 365 groups needs to have a mailbox set up for it, there are a few important steps that you can't complete until after the mailbox is fully set up. See [Next steps](#next-steps) later in this article. 
   

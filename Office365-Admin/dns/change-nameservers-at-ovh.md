@@ -6,7 +6,11 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection: Adm_O365_Domain_Registrars
+ms.custom:
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150

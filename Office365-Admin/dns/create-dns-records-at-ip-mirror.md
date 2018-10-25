@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_IPMirror'
 - 'O365E_DOM_IPMirror'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -28,19 +36,6 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If IP Mirror is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-ip-mirror.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-ip-mirror.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-ip-mirror.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-ip-mirror.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-ip-mirror.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-ip-mirror.md#BKMK_add_SRV)
-    
-After you add these records at IP Mirror, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
   
@@ -48,7 +43,6 @@ To learn about webhosting and DNS for websites with Office 365, see [Use a publi
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
-<a name="BKMK_verify"> </a>
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -58,7 +52,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 > [!IMPORTANT]
 > Some IP Mirror accounts are restricted to a limit of 10 DNS records. To ensure that your account is not affected by that limit, we recommend deleting this record once your domain is verified. 
   
-1. To get started, go to your domains page at IP Mirror by using [this link](https://customer.ipmirror.com/cctldbox/). You'll be prompted to log in first.
+1. To get started, go to your domains page at IP Mirror by using [this link](https://portal.speednames.asia/portal/). You'll be prompted to log in first.
     
 2. In the **Manage Domain** column, choose **My Domains**.
     
@@ -81,7 +75,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |||
 |:-----|:-----|
 |**Host** <br/> |**Description** <br/> |
-|(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)   <br/>       |
    
 9. Choose **Save**.
     
@@ -105,9 +99,8 @@ When Office 365 finds the correct TXT record, your domain is verified.
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add an MX record so email for your domain will come to Office 365
-<a name="BKMK_add_MX"> </a>
 
-1. To get started, go to your domains page at IP Mirror by using [this link](https://customer.ipmirror.com/cctldbox/). You'll be prompted to log in first.
+1. To get started, go to your domains page at IP Mirror by using [this link](https://portal.speednames.asia/portal/). You'll be prompted to log in first.
     
 2. In the **Manage Domain** column, choose **My Domains**.
     
@@ -131,11 +124,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 8. In the boxes for the new record, type or copy and paste the following values.
     
-|**Host**|**Priority**|**Mail server**|
-|:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |1  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**Host**|**Priority**|**Mail server**|
+    |:-----|:-----|:-----|
+    |(Leave this field empty.)  <br/> |1  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your *\<domain-key\>* from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)    <br/>      |
    
-   ![ipMirror-BP-Configure-2-2](../media/91b8c48f-4486-425d-a994-afdb251ebdb3.png)
+       ![ipMirror-BP-Configure-2-2](../media/91b8c48f-4486-425d-a994-afdb251ebdb3.png)
   
 9. Choose **Save**.
     
@@ -160,9 +153,8 @@ When Office 365 finds the correct TXT record, your domain is verified.
     ![ipMirror-BP-Configure-2-3](../media/e02c9201-ab32-4e81-a5b8-227c1b9c18f9.png)
   
 ## Add the six CNAME records that are required for Office 365
-<a name="BKMK_add_CNAME"> </a>
 
-1. To get started, go to your domains page at IP Mirror by using [this link](https://customer.ipmirror.com/cctldbox/). You'll be prompted to log in first.
+1. To get started, go to your domains page at IP Mirror by using [this link](https://portal.speednames.asia/portal/). You'll be prompted to log in first.
     
 2. In the ** Manage Domain ** column, choose **My Domains**.
     
@@ -186,14 +178,14 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 8. In the boxes for the new records, type or copy and paste the following values.
     
-|**Alias Name**|**Is an alias for**|
-|:-----|:-----|
-|autodiscover  <br/> |autodiscover.outlook.com  <br/> |
-|sip  <br/> |sipdir.online.lync.com  <br/> |
-|lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
-|msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |
-|enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |**Alias Name**|**Is an alias for**|
+    |:-----|:-----|
+    |autodiscover  <br/> |autodiscover.outlook.com  <br/> |
+    |sip  <br/> |sipdir.online.lync.com  <br/> |
+    |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
+    |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
+    |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
     ![ipMirror-BP-Configure-3-2](../media/c442b576-4a1d-4f15-bcc1-fe7ff589e67f.png)
   
@@ -204,12 +196,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     ![ipMirror-BP-Configure-3-3](../media/db10f2d6-7594-456e-93a0-e6f80b122f3a.png)
   
 ## Add a TXT record for SPF to help prevent email spam
-<a name="BKMK_add_TXT"> </a>
 
 > [!IMPORTANT]
 > You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a single SPF record that includes both sets of values. Need examples? Check out these [External Domain Name System records for Office 365](https://support.office.com/article/c0531a6f-9e25-4f2d-ad0e-a70bfef09ac0#bkmk_spfrecords). To validate your SPF record, you can use one of these [SPF validation tools](../setup/domains-faq.md). 
   
-1. To get started, go to your domains page at IP Mirror by using [this link](https://customer.ipmirror.com/cctldbox/). You'll be prompted to log in first.
+1. To get started, go to your domains page at IP Mirror by using [this link](https://portal.speednames.asia/portal/). You'll be prompted to log in first.
     
 2. In the ** Manage Domain ** column, choose **My Domains**.
     
@@ -233,11 +224,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 8. In the box for the new record, type or copy and paste the following values.
     
-|**Host**|**Description**|
-|:-----|:-----|
-|(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
-   
-   ![ipMirror-BP-Configure-4-2](../media/4bdba745-ebe0-4ab7-9214-8a8eecf6281a.png)
+    |**Host**|**Description**|
+    |:-----|:-----|
+    |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:**> We recommend copying and pasting this entry, so that all of the spacing stays correct.   <br/>        |
+       
+       ![ipMirror-BP-Configure-4-2](../media/4bdba745-ebe0-4ab7-9214-8a8eecf6281a.png)
   
 9. Choose **Save**.
     
@@ -246,11 +237,10 @@ When Office 365 finds the correct TXT record, your domain is verified.
     ![ipMirror-BP-Configure-4-3](../media/d35c4c69-b14c-4072-b6a6-fd2fbb7c3453.png)
   
 ## Add the two SRV records that are required for Office 365
-<a name="BKMK_add_SRV"> </a>
 
-1. To get started, go to your domains page at IP Mirror by using [this link](https://customer.ipmirror.com/cctldbox/). You'll be prompted to log in first.
+1. To get started, go to your domains page at IP Mirror by using [this link](https://portal.speednames.asia/portal/). You'll be prompted to log in first.
     
-2. In the ** Manage Domain ** column, choose **My Domains**.
+2. In the **Manage Domain** column, choose **My Domains**.
     
 3. On the **My Domains** page, choose **View All**.
     
@@ -272,12 +262,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 8. In the boxes for the new records, type or copy and paste the following values.
     
-|**Host**|**Priority**|**Weight**|**Port**|**Target**|
-|:-----|:-----|:-----|:-----|:-----|
-|_sip._tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
-|_sipfederationtls._tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
-   
-   ![ipMirror-BP-Configure-5-2](../media/2c7efc4f-375d-4cf8-a834-fae5cf50e916.png)
+    |**Host**|**Priority**|**Weight**|**Port**|**Target**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |_sip._tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
+    |_sipfederationtls._tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
+       
+       ![ipMirror-BP-Configure-5-2](../media/2c7efc4f-375d-4cf8-a834-fae5cf50e916.png)
   
 9. Choose **Save**.
     

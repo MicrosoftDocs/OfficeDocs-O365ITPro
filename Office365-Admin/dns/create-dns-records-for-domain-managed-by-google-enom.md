@@ -6,10 +6,16 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -26,7 +32,7 @@ To migrate your mail accounts to Office 365, you need to create a DNS record at 
   
 If you purchased your domain through Google while signing up for your **Google Apps for Work** account, your DNS records are managed by Google but registered with eNom. 
   
-You can access eNom, and create DNS, through the Google **Domains** page. Just follow the steps in this article. (Need more help? [Still need help?](create-dns-records-for-domain-managed-by-google-enom.md#BKMK_NeedHelp).)
+You can access eNom, and create DNS, through the Google **Domains** page. Just follow the steps in this article. 
   
 ## Create the DNS record
 
@@ -53,7 +59,7 @@ You can access eNom, and create DNS, through the Google **Domains** page. Just f
 6. On the **Domains** page, choose **Advanced DNS settings**.
     
     > [!NOTE]
-    > If you didn't purchase a domain name through Google while signing up for your **Google Apps for Work** account, you won't have **Advanced DNS settings** on your **Domains** page. Instead, you must go directly to your domain host's web site to access your DNS settings and to perform this and the following steps. [See Access DNS records from a partner host](https://support.google.com/a/answer/54693?hl=en) for more information. 
+    > If you didn't purchase a domain name through Google while signing up for your **Google Apps for Work** account, you won't have **Advanced DNS settings** on your **Domains** page. Instead, you must go directly to your domain host's web site to access your DNS settings and to perform this and the following steps. See [Access your G Suite domain settings](https://support.google.com/a/answer/54693?hl=en) for more information. 
   
     ![Google-Apps-eNom-Configure-1-3](../media/b244b29c-e479-40be-b380-4ffa0f74b421.png)
   
@@ -65,7 +71,7 @@ You can access eNom, and create DNS, through the Google **Domains** page. Just f
     
     ![Google-Apps-eNom-Configure-1-5](../media/08b74652-8cdb-4560-a5fd-0899f86deee8.png)
   
-9. On the ** *domain_name* ** page, in the **Host Records** section, choose **Edit**.
+9. On the ***domain_name*** page, in the **Host Records** section, choose **Edit**.
     
     ![Google-Apps-eNom-Configure-1-6](../media/d54fec18-b9d1-4796-8397-0393c964eade.png)
   
@@ -75,16 +81,14 @@ You can access eNom, and create DNS, through the Google **Domains** page. Just f
   
 11. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|**HOST**|**TXT VALUE**|**RECORD TYPE**|
-|:-----|:-----|:-----|
-|@  <br/> ||TXT  <br/> |
-> [!NOTE]
-> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. 
-  
-[How do I find this?](../get-help-with-domains/information-for-dns-records.md)
-  
+    |**HOST**|**TXT VALUE**|**RECORD TYPE**|
+    |:-----|:-----|:-----|
+    |@  <br/> ||TXT  <br/> |
 
-   
+    > [!NOTE]
+    > This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. 
+  
+    [How do I find this?](../get-help-with-domains/information-for-dns-records.md)
   
 12. Choose **Save**.
     

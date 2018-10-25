@@ -12,7 +12,14 @@ f1_keywords:
 - 'O365M_DomainsSetup_WhyNeedDNSRecs'
 - 'O365E_DomainsSetup_WhyNeedDNSRecs'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365_Domain_Core
+- Adm_UI_Elements
+ms.custom:
+- Adm_O365_FullSet
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - MET150
 - MOE150

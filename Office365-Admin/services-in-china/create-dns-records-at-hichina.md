@@ -10,7 +10,11 @@ f1_keywords:
 - 'O365M_DOM_HiChina'
 - 'O365E_DOM_HiChina'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection: Adm_UI_Elements
+ms.custom:
+- Core_O365Admin_Migration
+- domainsgallatin
 search.appverid:
 - MET150
 - GEA150

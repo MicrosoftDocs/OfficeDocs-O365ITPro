@@ -6,8 +6,13 @@ manager: scotv
 ms.audience: Admin
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- Adm_O365
+- Adm_O365_FullSet
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -118,7 +123,7 @@ To enable MFA, you have to complete the following:
     
   - Set up Azure MFA with third-party directory services.
     
-    See the [Azure AD federation compatibility list](https://go.microsoft.com/fwlink/p/?LinkId=510953) for information on specific identity providers accepted to this program. 
+    See the [Advanced scenarios with Azure Multi-Factor Authentication and third-party VPN solutions](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfaserver-nps-vpn) for information on specific identity providers accepted to this program. 
     
 2. [Set up multi-factor authentication for Office 365](set-up-multi-factor-authentication.md)
     

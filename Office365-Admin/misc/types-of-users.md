@@ -11,7 +11,12 @@ f1_keywords:
 - 'O365M_ESUsersTypes'
 - 'O365E_ESUsersTypes'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection: Adm_UI_Elements
+ms.custom:
+- Core_O365Admin_Migration
+- EmptyState
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150

@@ -11,8 +11,11 @@ f1_keywords:
 - 'O365P_EditNSRecs_ChangeNSWhy'
 - 'O365P_DomainsNSPanels_ChangeNSRecords'
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- Adm_O365
+- Core_O365Admin_Migration
 search.appverid:
 - MET150
 - MOE150

@@ -15,13 +15,19 @@ f1_keywords:
 - 'ms.exch.owap.LicenseAssign'
 - 'ms.exch.owab.LicenseAssign'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection:
+- Adm_O365
 - Adm_O365_Top
+- Adm_UI_Elements
 - strat_admin_top
 ms.custom:
 - Adm_O365
 - Adm_O365_Top
+- Core_O365Admin_Migration
+- MiniMaven
+- SaRA
+- strat_admin_top
 search.appverid:
 - MET150
 - MOE150

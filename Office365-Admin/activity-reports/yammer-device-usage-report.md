@@ -9,7 +9,11 @@ f1_keywords:
 - 'O365M_ReportsYammerClients'
 - 'O365E_ReportsYammerClients'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_UI_Elements
+- Adm_Yammer
 ms.custom:
 - Adm_O365
 - Adm_Yammer

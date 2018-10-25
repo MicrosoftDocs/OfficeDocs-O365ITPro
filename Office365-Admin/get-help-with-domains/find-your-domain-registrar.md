@@ -15,8 +15,17 @@ f1_keywords:
 - 'O365E_DomainsVerify_WhereDNS'
 - 'O365E_1stRun_LocateDNSProvider'
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365_Setup
+localization_priority: Normal
+ms.collection:
+- Adm_O365_Domain_Core
+- Adm_O365_Setup
+- Adm_UI_Elements
+ms.custom:
+- Adm_O365_FullSet
+- Adm_O365_Setup
+- Core_O365Admin_Migration
+- domainstoptier
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150

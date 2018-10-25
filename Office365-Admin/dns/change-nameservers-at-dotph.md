@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_dotPH1'
 - 'O365E_DOM_dotPH1'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -36,7 +44,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 > [!NOTE]
 > This record is used only to verify that you own your domain; it doesn't affect anything else. You can delete it later, if you like. 
   
-1. To get started, go to your domains page at dotPH by using[this link](https://www.dot.ph/domain_manager). You'll be prompted to log in first.
+1. To get started, go to your domains page at dotPH by using [this link](https://www.dot.ph/domain_manager). You'll be prompted to log in first.
     
 2. On the **Registered Domains** page, in the **Domain** section, choose the name of the domain you are updating. 
     

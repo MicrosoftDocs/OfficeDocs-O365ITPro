@@ -10,8 +10,16 @@ f1_keywords:
 - 'O365M_ReportsSPActivity'
 - 'O365E_ReportsSPActivity'
 ms.service: o365-administration
-localization_priority: Priority
-ms.collection: Strat_SP_admin
+localization_priority: Normal
+ms.collection:
+- Adm_SPO
+- SharePoint_Online
+- Strat_SP_admin
+ms.custom:
+- Adm_O365_FullSet
+- Core_O365Admin_Migration
+- MiniMaven
+- Strat_SP_admin
 search.appverid:
 - BCS160
 - MET150

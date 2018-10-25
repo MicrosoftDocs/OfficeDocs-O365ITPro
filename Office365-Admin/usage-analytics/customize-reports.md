@@ -6,8 +6,13 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- Adm_O365
+- ContentPack
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -106,7 +111,7 @@ You can start by connecting directly to the ODATA reporting APIs from Office 365
   
 1. Go to **get data** \> **Other** \> **ODATA Feed** \> **Connect**.
     
-2. In the URL window enter https://reports.office.com/pbi/v1.0/\<tenantid\>
+2. In the URL window enter "https://<i></i>reports.office.com/pbi/v1.0/\<tenantid\>"
     
     > [!NOTE]
     > The reporting APIs are in preview and are subject to change until they go into production. 
@@ -129,7 +134,7 @@ You can start by connecting directly to the ODATA reporting APIs from Office 365
 
 You can also use the Power BI template file that corresponds to the Microsoft 365 usage analytics reports as a starting point to connect to the data. The advantage of using the pbit file is that it has the connection string already established. You can also take advantage of all the custom measures that are created, on top of the data that the base schema returns and build on it further.
   
-You can download the Power BI template file from the Microsoft download center [here](https://download.microsoft.com/download/1/7/0/170A5A35-9E0D-478D-828C-4CA2D9A9F092/Microsoft 365 Usage Analytics.pbit). After you have downloaded the Power BI template file follow these steps to get started:
+You can download the Power BI template file from the Microsoft download center from: "https://<i></i>download.microsoft.com/download/1/7/0/170A5A35-9E0D-478D-828C-4CA2D9A9F092/Microsoft 365 Usage Analytics.pbit". After you have downloaded the Power BI template file follow these steps to get started:
   
 1. Open the pbit file.
     

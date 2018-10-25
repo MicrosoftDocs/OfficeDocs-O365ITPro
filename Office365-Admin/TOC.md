@@ -239,7 +239,7 @@
 ### [Add partner](misc/add-partner.md)
 ### [Self-service sign up](misc/self-service-sign-up.md)
 ### [Top billing questions](misc/top-billing-questions.md)
-## [DNS](dns/dns.md)
+## DNS
 ### [Change nameservers at 1&amp;1 Internet](dns/change-nameservers-at-1-1-internet.md)
 ### [Change nameservers at 123-reg.co.uk](dns/change-nameservers-at-123-reg-co-uk.md)
 ### [Change nameservers at Aabaco Small Business](dns/change-nameservers-at-aabaco-small-business.md)

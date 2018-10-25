@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_Yahoo'
 - 'O365E_DOM_Yahoo'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -30,7 +38,7 @@ If Yahoo! Small Business has been your DNS hosting provider, you should be aware
   
 Follow the steps in this article to create an account at Aabaco, where you can make DNS changes and renew your domain or domains.
   
-You must create your Aabaco account before you can [Create DNS records at Aabaco Small Business for Office 365](create-dns-records-at-aabaco-small-business.md).
+You must create your Aabaco account before you can [create DNS records](create-dns-records-at-aabaco-small-business.md).
   
 ## Create an Aabaco Small Business account
 
