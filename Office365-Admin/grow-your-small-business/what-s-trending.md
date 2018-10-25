@@ -30,7 +30,7 @@ Learn what's new, popular, and on the horizon, in Office 365 this quarter.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="../media/fc5f4fa7-bc5b-4c07-9059-fb1c51e06c2e.png" alt="Picture of smiling woman" />
+                            <img src="../media/OFC18-FirstLine-Realtor3-117-367x227.jpg" alt="Picture of smiling woman" />
                         </div>
                     </div>
                     <div class="cardText">
