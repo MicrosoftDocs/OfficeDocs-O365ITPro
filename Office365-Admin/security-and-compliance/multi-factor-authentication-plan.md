@@ -75,7 +75,7 @@ This is detailed in the following figure:
   
 ## Software requirements
 
-To enable MFA for Office 2013 client apps, you must have the following software installed (the version listed below, or a later version) based on whether you have a [Click-to-run based installations](multi-factor-authentication-plan.md#BK_ClickToRun) or an [MSI-based installations](multi-factor-authentication-plan.md#BK_MSI).
+To enable MFA for Office 2013 client apps, you must have the following software installed (the version listed below, or a later version) based on whether you have a [Click-to-run based installations](#click-to-run-based-installations) or an [MSI-based installations](#msi-based-installations).
   
 To determine whether your Office installation is Click-to-run or MSI-base:
   
