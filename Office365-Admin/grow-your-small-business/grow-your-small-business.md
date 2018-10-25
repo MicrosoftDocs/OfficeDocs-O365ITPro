@@ -85,7 +85,7 @@ description: "Learn about features in Office 365 that help your boost your busin
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="../media/ca97a937-ef4f-40c4-b848-3ad1d105446c.png" alt="How to be successful content" />
+                            <img src="../media/ca97a937-ef4f-40c4-b848-3ad1d105446c.png" alt="A small building growing into a larger one" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -104,7 +104,7 @@ description: "Learn about features in Office 365 that help your boost your busin
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="../media/3d42cb3c-29cd-43a6-8b7a-ee252f08e44e.png" alt="Office 365 and HIPAA compliance" />
+                            <img src="../media/3d42cb3c-29cd-43a6-8b7a-ee252f08e44e.png" alt="A person, a chat bubble, and a building" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -123,7 +123,7 @@ description: "Learn about features in Office 365 that help your boost your busin
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="../media/d2e91cf2-b27e-47a5-a091-9df370ac5d18.png" alt="Things to try" />
+                            <img src="../media/d2e91cf2-b27e-47a5-a091-9df370ac5d18.png" alt="Laptop computers with Word, Excel and PowerPoint" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -213,7 +213,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="what-s-trending">
+        <a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426.aspx">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
