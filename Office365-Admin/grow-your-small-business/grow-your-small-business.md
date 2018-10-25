@@ -138,6 +138,7 @@ description: "Learn about features in Office 365 that help your boost your busin
 </ul>
 
 ---
+## Get set up
 
 <ul class="panelContent cardsFTitle">
     <li>
@@ -159,17 +160,17 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="what-s-trending">
+        <a href="https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone.svg" alt="What's new megaphone" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/get-started.svg" alt="Get started hand" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>See what's new</h3>
+                        <h3>Set up videos</h3>
                     </div>
                 </div>
             </div>
@@ -196,3 +197,61 @@ description: "Learn about features in Office 365 that help your boost your busin
     </li>
 </ul>
 
+## Key resources
+
+<ul class="panelContent cardsFTitle">
+    <li>
+        <a href="previous-webinar-videos">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/video-play.svg" alt="Video play" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Montly webinar series</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="what-s-trending">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone.svg" alt="What's new megaphone" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>See what's new</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/document.svg" alt="Document" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Check out Office templates</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+</ul>
