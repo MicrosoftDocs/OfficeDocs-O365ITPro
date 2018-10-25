@@ -98,7 +98,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../security-and-compliance/hipaa-compliance.md">
+        <a href="https://support.office.com/en-us/article/using-outlook-and-teams-together-9bc459c4-ce13-479b-b88b-b8ae49092732">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -108,8 +108,8 @@ description: "Learn about features in Office 365 that help your boost your busin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Office 365 and HIPAA</h3>
-                        <p>Read on for how medical providers are using Office 365 in their business.</p>
+                        <h3>Work better together</h3>
+                        <p>Learn how Microsoft Teams and Outlook can help you work better with customers and partners.</p>
                     </div>
                 </div>
             </div>
@@ -159,24 +159,6 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../contact-support-for-business-products">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/headset.svg" alt="Contact support" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Contact support</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-    <li>
         <a href="what-s-trending">
         <div class="cardSize">
             <div class="cardPadding">
@@ -188,6 +170,24 @@ description: "Learn about features in Office 365 that help your boost your busin
                     </div>
                     <div class="cardText">
                         <h3>See what's new</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="../contact-support-for-business-products">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/headset.svg" alt="Contact support" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Contact support</h3>
                     </div>
                 </div>
             </div>
