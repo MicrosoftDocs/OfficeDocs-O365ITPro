@@ -71,7 +71,7 @@ Follow these steps to associate your domain and hosting accounts.
 ## Add a TXT record for verification
 
 > [!IMPORTANT]
-> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account.](change-nameservers-at-hostgator.md#BKMK_PointDomain).
+> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account.](#point-your-domain-to-your-hosting-account).
   
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -83,7 +83,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     (Each hosted account at Hostgator is assigned a unique cPanel address. Your cPanel address should look like this: https://YourSiteAddress:secure-port-number. The sign-up email you received from Hostgator will specify that address.)
     
     > [!IMPORTANT]
-    > To have a cPanel associated with your domain, you need a hosting account with Hostgator. To get started with Office 365, you can either purchase a hosting account from Hostgator or [Change your domain's nameserver (NS) records](change-nameservers-at-hostgator.md#BKMK_nameservers) to point to Office 365. 
+    > To have a cPanel associated with your domain, you need a hosting account with Hostgator. To get started with Office 365, you can either purchase a hosting account from Hostgator or [change your domain's nameserver (NS) records](#change-your-domains-nameserver-ns-records) to point to Office 365. 
   
 2. On the **Control Panel** page, in the **Domains** area, choose **Advanced DNS Zone Editor**.
     

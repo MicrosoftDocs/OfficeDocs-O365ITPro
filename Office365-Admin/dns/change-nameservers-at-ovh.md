@@ -24,13 +24,7 @@ description: "Learn to set up your Office 365 custom domain with OVH if you want
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you.
-  
-(Need more help? [Still need help?](change-nameservers-at-1-1-internet.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](change-nameservers-at-ovh.md#bkmk_txt)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-ovh.md#bkmk_ns)
-    
+      
 ## Add a TXT record for verification
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.

@@ -27,7 +27,7 @@ We have introduced a number of changes to Office 365 in the web to simplify and 
   
 The app launcher is personalized and helps users open and switch between the apps they use most. The apps that users see are still based on the licenses their admin has assigned. However, the main view emphasizes the most used applications across Office 365. It also highlights additional apps relevant to your users. For example, teachers and students may see education-specific apps.
   
-Later in this article you will find two videos. [Admin overview video: Meet the Office 365 app launcher](new-web-experiencesapp-launcher.md#bkmk_Video) will show you the new experience so you can prepare for the change and [Snapshot video: Introducing new Office 365 web experiences](new-web-experiencesapp-launcher.md#bkmk_snapshot) is a brief video you can share with your users. 
+Later in this article you will find two videos. [Admin overview video: Meet the Office 365 app launcher](#admin-overview-video-meet-the-office-365-app-launcher) will show you the new experience so you can prepare for the change and [Snapshot video: Introducing new Office 365 web experiences](#snapshot-video-introducing-new-office-365-web-experiences) is a brief video you can share with your users. 
   
 The videos introduce the Office 365 app launcher as well as highlight how [www.office.com](https://www.office.com) is an easy to remember URL to help users get started with all things Office 365 and specifically, working with online documents. Additionally, the Office 365 gallery page available from [www.office.com](https://www.office.com), helps you and your users better understand the apps, tools, and services that are part of your Office 365 subscriptions.
   

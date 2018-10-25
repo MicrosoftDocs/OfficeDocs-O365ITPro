@@ -36,18 +36,6 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If Europe Registry is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-europe-registry.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-europe-registry.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-europe-registry.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-europe-registry.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-europe-registry.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-europe-registry.md#BKMK_add_SRV)
-    
 After you add these records at Europe Registry, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
@@ -77,10 +65,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 7. In the boxes for the new record, type or copy and paste the values from the following table.
     
-||||
-|:-----|:-----|:-----|
-|**Host** <br/> |**Type** <br/> |**Content** <br/> |
-|@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    ||||
+    |:-----|:-----|:-----|
+    |**Host** <br/> |**Type** <br/> |**Content** <br/> |
+    |@  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
 8. Choose **ADD**.
     
@@ -122,9 +110,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Host**|**Type**|**Content**|**Priority**|
-|:-----|:-----|:-----|:-----|
-|@  <br/> |MX  <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          **This value MUST end with a period (.)** <br/> |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    |**Host**|**Type**|**Content**|**Priority**|
+    |:-----|:-----|:-----|:-----|
+    |@  <br/> |MX  <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **Note:** Get your \<*domain-key*\> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)  **This value MUST end with a period (.)** <br/> |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
    ![EuropeRegistry-BP-Configure-2-1](../media/49ac2f57-5d96-4e04-8000-747d47a5a61e.png)
   
@@ -165,16 +153,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Host**|**Type**|**Content**|
-|:-----|:-----|:-----|
-|autodiscover  <br/> |CNAME  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|sip  <br/> |CNAME  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|lyncdiscover  <br/> |CNAME  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|msoid  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
-|enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
-|enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |**Host**|**Type**|**Content**|
+    |:-----|:-----|:-----|
+    |autodiscover  <br/> |CNAME  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |sip  <br/> |CNAME  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |lyncdiscover  <br/> |CNAME  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |msoid  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
+    |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
+    |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-   ![EuropeRegistry-BP-Configure-3-1](../media/cdfb4e42-27d7-4626-afc7-62337da9e78d.png)
+    ![EuropeRegistry-BP-Configure-3-1](../media/cdfb4e42-27d7-4626-afc7-62337da9e78d.png)
   
 8. Choose **ADD**.
     
@@ -206,9 +194,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Host**|**Type**|**Content**|
-|:-----|:-----|:-----|
-|@  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Host**|**Type**|**Content**|
+    |:-----|:-----|:-----|
+    |@  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
    ![EuropeRegistry-BP-Configure-4-1](../media/b024abfc-1232-4261-ad15-e1775d7eab50.png)
   
@@ -239,12 +227,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Host**|**Type**|**Content**|**Priority**|
-|:-----|:-----|:-----|:-----|
-|_sip._tls|SRV|1 443 sipdir.online.lync.com.> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           **This value MUST end with a period (.)**|100|
-|_sipfederationtls._tcp|SRV|1 5061 sipfed.online.lync.com.> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           **This value MUST end with a period (.)**|100|
+    |**Host**|**Type**|**Content**|**Priority**|
+    |:-----|:-----|:-----|:-----|
+    |_sip._tls|SRV|1 443 sipdir.online.lync.com.<br>**Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           **This value MUST end with a period (.)**|100|
+    |_sipfederationtls._tcp|SRV|1 5061 sipfed.online.lync.com. <br>**Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           **This value MUST end with a period (.)**|100|
    
-   ![EuropeRegistry-BP-Configure-5-1](../media/e53e3791-008d-4ee8-aeff-742f36597373.png)
+    ![EuropeRegistry-BP-Configure-5-1](../media/e53e3791-008d-4ee8-aeff-742f36597373.png)
   
 8. Choose **ADD**.
     

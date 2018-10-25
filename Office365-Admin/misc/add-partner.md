@@ -238,6 +238,7 @@ You can't remove a reseller relationship yourself.
   
 If you are removing a reseller relationship the **Delete** option is grayed out, and you will have to ask your reseller partner to follow these instructions: [Remove a reseller relationship with partner](https://go.microsoft.com/fwlink/p/?linkid=870519).
 
+::: moniker-end
 
 ::: moniker range="o365-germany"
 

@@ -36,7 +36,7 @@ This article is for people who have an Office 365 for business subscription. You
   
 If you need help interpreting the charges you see on your bill, see [Understand your invoice](understand-your-invoice.md) for a detailed walkthrough. 
   
- **Not an admin?** Contact your IT administrator for help. [Who has admin permissions in my business?](../admin-overview/admin-overview.md#bkmk_admin)
+ **Not an admin?** Contact your IT administrator for help. 
   
  **Have a problem with your bill?** [Contact support for business products](../contact-support-for-business-products.md). 
   

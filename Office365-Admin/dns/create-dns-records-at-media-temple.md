@@ -30,20 +30,6 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If Media Temple is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-media-temple.md#BKMK_NeedHelp).)
-  
-- [Lower the TTL value](create-dns-records-at-media-temple.md#BKMK_TTL)
-    
-- [Add a TXT record for verification](create-dns-records-at-media-temple.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-media-temple.md#BKMK_add_MX)
-    
-- [Add the four CNAME records that are required for Office 365](create-dns-records-at-media-temple.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-media-temple.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-media-temple.md#BKMK_add_SRV)
-    
 After you add these records at Media Temple, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
@@ -98,10 +84,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (Select the **Type** value from the drop-down list.) 
     
-|||||
-|:-----|:-----|:-----|:-----|
-|**Name** <br/> |**TTL** <br/> |**Type** <br/> |**Data** <br/> |
-|(Leave this field empty.)  <br/> |(This value cannot be changed.)  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |||||
+    |:-----|:-----|:-----|:-----|
+    |**Name** <br/> |**TTL** <br/> |**Type** <br/> |**Data** <br/> |
+    |(Leave this field empty.)  <br/> |(This value cannot be changed.)  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
 7. Choose **Save Changes**.
     
@@ -143,7 +129,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**Name**|**TTL**|**Type**|**Data**|
     |:-----|:-----|:-----|:-----|
-    |(Leave this field empty.)  <br/> |(This value cannot be changed.)  <br/> |MX  <br/> | *10 \<domain-key\>*  .mail.protection.outlook.com.  <br/> The  *10*  is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |(Leave this field empty.)  <br/> |(This value cannot be changed.)  <br/> |MX  <br/> | *10 \<domain-key\>*  .mail.protection.outlook.com.  <br/> The  *10*  is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your \<*domain-key*\> from your Office 365 portal account. <br> [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
    ![MediaTemple-BP-Configure-2-1](../media/1fab65a4-1309-432e-aac2-39a94c45ba78.png)
   
@@ -242,7 +228,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**Host**|**TTL**|**Type**|**Data**|
     |:-----|:-----|:-----|:-----|
-    |(Leave this field empty.)  <br/> |(This value cannot be changed.)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |(Leave this field empty.)  <br/> |(This value cannot be changed.)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
    ![MediaTemple-BP-Configure-4-1](../media/09dfea1c-319f-456c-9894-ac13a1f9486f.png)
   

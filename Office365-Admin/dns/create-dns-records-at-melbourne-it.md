@@ -35,18 +35,6 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
   
 If Melbourne IT is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
-  
-These are the main records to add. Follow the steps below or [watch the video](https://support.office.com/en-us/article/Video-Create-DNS-records-at-Melbourne-IT-for-Office-365-255a7d5e-92b0-47bc-8ab8-51dad28414c2?ui=en-US&amp;rs=en-US&amp;ad=US). (Need more help? [Still need help?](create-dns-records-at-melbourne-it.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-melbourne-it.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-melbourne-it.md#BKMK_add_MX)
-    
-- [Add the CNAME records that are required for Office 365](create-dns-records-at-melbourne-it.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-melbourne-it.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-melbourne-it.md#BKMK_add_SRV)
     
 After you add these records at Melbourne IT, your domain will be set up to work with Office 365 services.
   
@@ -85,11 +73,11 @@ Follow the steps below or [watch the video (start at :51)](https://support.offic
   
 5. Scroll down to the **TXT Records** section and, in the boxes for the new record, type or copy and paste the following values. 
     
-|**HOSTNAME**|**TXT VALUE**|
-|:-----|:-----|
-|Use your domain name.  <br/> Example: contoso.com.  <br/> **This value MUST end with a period (.)** <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**HOSTNAME**|**TXT VALUE**|
+    |:-----|:-----|
+    |Use your domain name.  <br/> Example: contoso.com.  <br/> **This value MUST end with a period (.)** <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-   ![MelbourneIT-BP-Verify-1-1](../media/9ac3a867-51ff-4e86-872e-d7813dea24cd.png)
+    ![MelbourneIT-BP-Verify-1-1](../media/9ac3a867-51ff-4e86-872e-d7813dea24cd.png)
   
 6. Choose the **Add** button indicated in the following illustration. 
     
@@ -155,11 +143,11 @@ Follow the steps below or [watch the video (start at 4:03)](https://support.offi
   
 5. Scroll down to the **MX Records** section. In the boxes for the new record, type or paste the following values. 
     
-|**HOSTNAME**|**ADDRESS**|**PRIORITY**|
-|:-----|:-----|:-----|
-|Use your domain name.  <br/> Example: contoso.com.  <br/> **This value MUST end with a period (.)** <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    |**HOSTNAME**|**ADDRESS**|**PRIORITY**|
+    |:-----|:-----|:-----|
+    |Use your domain name.  <br/> Example: contoso.com.  <br/> **This value MUST end with a period (.)** <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-   ![MelbourneIT-BP-Configure-2-1](../media/84dfe64d-1998-4b3b-be86-fe55eea5ea7a.png)
+    ![MelbourneIT-BP-Configure-2-1](../media/84dfe64d-1998-4b3b-be86-fe55eea5ea7a.png)
   
 6. Choose the **Add** button indicated in the following illustration. 
     
@@ -214,16 +202,16 @@ Follow the steps below or [watch the video (start at 4:57)](https://support.offi
     
     (Choose the **TYPE** value from the drop-down list.) 
     
-|**HOSTNAME**|**POINTS TO**|**TYPE**|
-|:-----|:-----|:-----|
-|autodiscover. ** *domain_name* **.  <br/> The "autodiscover" value must be added to the beginning of your domain name as a single string, and separated by a period.          For example:          autodiscover.fourthcoffee.com.  <br/> **This value MUST end with a period (.)** <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |CNAME  <br/> |
-|sip. ** *domain_name* **.  <br/> The "sip" value must be added to the beginning of your domain name as a single string, and separated by a period.          For example:          sip.fourthcoffee.com.  <br/> **This value MUST end with a period (.)** <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |CNAME  <br/> |
-|lyncdiscover. ** *domain_name* **.  <br/> The "lyncdiscover" value must be added to the beginning of your domain name as a single string, and separated by a period.          For example:          lyncdiscover.fourthcoffee.com.  <br/> **This value MUST end with a period (.)** <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |CNAME  <br/> |
-|msoid. ** *domain_name* **.  <br/> The "msoid" value must be added to the beginning of your domain name as a single string, and separated by a period.          For example:          msoid.fourthcoffee.com.  <br/> **This value MUST end with a period (.)** <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |CNAME  <br/> |
-|enterpriseregistration. ** *domain_name* **.  <br/> The "enterpriseregistration" value must be added to the beginning of your domain name as a single string, and separated by a period.          For example:          enterpriseregistration.fourthcoffee.com.  <br/> **This value MUST end with a period (.)** <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |CNAME  <br/> |
-|The "enterpriseenrollment" value must be added to the beginning of your domain name as a single string, and separated by a period.          For example:          enterpriseenrollment.fourthcoffee.com.  <br/> **This value MUST end with a period (.)** <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |CNAME  <br/> |
-   
-   ![MelbourneIT-BP-Configure-3-1](../media/c87425a2-bbe2-4fda-b628-e30d9f8d31ea.png)
+    |**HOSTNAME**|**POINTS TO**|**TYPE**|
+    |:-----|:-----|:-----|
+    |autodiscover. ***domain_name***.  <br/> The "autodiscover" value must be added to the beginning of your domain name as a single string, and separated by a period.          For example:          autodiscover.fourthcoffee.com.  <br/> **This value MUST end with a period (.)** <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |CNAME  <br/> |
+    |sip. ***domain_name***.  <br/> The "sip" value must be added to the beginning of your domain name as a single string, and separated by a period.          For example:          sip.fourthcoffee.com.  <br/> **This value MUST end with a period (.)** <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |CNAME  <br/> |
+    |lyncdiscover. ***domain_name***.  <br/> The "lyncdiscover" value must be added to the beginning of your domain name as a single string, and separated by a period.          For example:          lyncdiscover.fourthcoffee.com.  <br/> **This value MUST end with a period (.)** <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |CNAME  <br/> |
+    |msoid. ***domain_name***.  <br/> The "msoid" value must be added to the beginning of your domain name as a single string, and separated by a period.          For example:          msoid.fourthcoffee.com.  <br/> **This value MUST end with a period (.)** <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |CNAME  <br/> |
+    |enterpriseregistration. ***domain_name***.  <br/> The "enterpriseregistration" value must be added to the beginning of your domain name as a single string, and separated by a period.          For example:          enterpriseregistration.fourthcoffee.com.  <br/> **This value MUST end with a period (.)** <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |CNAME  <br/> |
+    |The "enterpriseenrollment" value must be added to the beginning of your domain name as a single string, and separated by a period.          For example:          enterpriseenrollment.fourthcoffee.com.  <br/> **This value MUST end with a period (.)** <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |CNAME  <br/> |
+       
+    ![MelbourneIT-BP-Configure-3-1](../media/c87425a2-bbe2-4fda-b628-e30d9f8d31ea.png)
   
 6. Choose the **Add** button indicated in the following illustration to add the first record. 
     
@@ -251,7 +239,7 @@ Follow the steps below or [watch the video (start at 4:57)](https://support.offi
 <a name="BKMK_add_TXT"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
   
 Follow the steps below or [watch the video (start at 6:01)](https://support.office.com/en-us/article/Video-Create-DNS-records-at-Melbourne-IT-for-Office-365-255a7d5e-92b0-47bc-8ab8-51dad28414c2?ui=en-US&amp;rs=en-US&amp;ad=US).
   
@@ -273,13 +261,13 @@ Follow the steps below or [watch the video (start at 6:01)](https://support.offi
     
     ![MelbourneIT-BP-Configure-1-4](../media/76dfbf8f-cc9d-4f14-a3aa-37972269e682.png)
   
-5. Scroll down to the ** TXT Records ** section. In the boxes for the new record, type or copy and paste the following values. 
+5. Scroll down to the **TXT Records** section. In the boxes for the new record, type or copy and paste the following values. 
     
-|**HOSTNAME**|**TXT VALUE**|
-|:-----|:-----|
-|Use your domain name.  <br/> Example: contoso.com.  <br/> **This value MUST end with a period (.)** <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**HOSTNAME**|**TXT VALUE**|
+    |:-----|:-----|
+    |Use your domain name.  <br/> Example: contoso.com.  <br/> **This value MUST end with a period (.)** <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-   ![MelbourneIT-BP-Configure-4-1](../media/29fe8d56-cbbf-43a6-bf17-39407c7a2edc.png)
+    ![MelbourneIT-BP-Configure-4-1](../media/29fe8d56-cbbf-43a6-bf17-39407c7a2edc.png)
   
 6. Choose the **Add** button indicated in the following illustration. 
     
@@ -324,12 +312,12 @@ Follow the steps below or [watch the video (start at 6:47)](https://support.offi
     
     In the boxes for the new record, type or copy and paste the values from the first row of the following table.
     
-|**Name**|**Priority**|**Port**|**Weight**|**Service**|**Protocol**|**Target**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Use your domain name.  <br/> Example: contoso.com.  <br/> **This value MUST end with a period (.)** <br/> |100  <br/> |443  <br/> |1  <br/> |_sip  <br/> |_tls  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|Use your domain name.  <br/> Example: contoso.com.  <br/> **This value MUST end with a period (.)** <br/> |100  <br/> |5061  <br/> |1  <br/> |_sipfederationtls  <br/> |_tcp  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |**Name**|**Priority**|**Port**|**Weight**|**Service**|**Protocol**|**Target**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |Use your domain name.  <br/> Example: contoso.com.  <br/> **This value MUST end with a period (.)** <br/> |100  <br/> |443  <br/> |1  <br/> |_sip  <br/> |_tls  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |Use your domain name.  <br/> Example: contoso.com.  <br/> **This value MUST end with a period (.)** <br/> |100  <br/> |5061  <br/> |1  <br/> |_sipfederationtls  <br/> |_tcp  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-   ![MelbourneIT-BP-Configure-5-1](../media/222807cb-55d9-4848-805d-eee7740b45fe.png)
+    ![MelbourneIT-BP-Configure-5-1](../media/222807cb-55d9-4848-805d-eee7740b45fe.png)
   
 6. Choose the **Add** button indicated in the following illustration to add the first record. 
     

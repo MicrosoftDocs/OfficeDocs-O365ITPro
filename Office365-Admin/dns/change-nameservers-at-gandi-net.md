@@ -82,7 +82,7 @@ Now that you have created the zone file, go on to the next section, where you wi
 ## Add a TXT record for verification
 
 > [!IMPORTANT]
-> If you have not already done so, complete the [Create a zone file for Office 365 verification](change-nameservers-at-gandi-net.md#BKMK_CreateVerifyZone) procedure in the first section of this article before you begin the procedure in this section. 
+> If you have not already done so, complete the [Create a zone file for Office 365 verification](#create-a-zone-file-for-office-365-verification) procedure in the first section of this article before you begin the procedure in this section. 
   
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -134,7 +134,7 @@ Now that you have created the TXT file that Office 365 will use to verify your G
 ## Activate the zone file for Office 365 verification
 
 > [!IMPORTANT]
-> If you have not already done so, complete the procedures in the first two sections of this article ([Create a zone file for Office 365 verification](change-nameservers-at-gandi-net.md#BKMK_CreateVerifyZone) and [Add a TXT record for verification](change-nameservers-at-gandi-net.md#BKMK_AddVerifyTXT)) before you begin the procedure in this section. 
+> If you have not already done so, complete the procedures in the first two sections of this article ([Create a zone file for Office 365 verification](#create-a-zone-file-for-office-365-verification) and [Add a TXT record for verification](#add-a-txt-record-for-verification)) before you begin the procedure in this section. 
   
 Now you will update your Gandi.net default settings, so that the Office 365 verification zone file becomes the active zone file for the domain that you're changing.
   
@@ -176,7 +176,7 @@ To complete the process of verifying your Gandi.net domain with Office 365, foll
 ## Verify your domain with Office 365
 
 > [!IMPORTANT]
-> If you have not already done so, complete the procedures in the first three sections of this article ([Create a zone file for Office 365 verification](change-nameservers-at-gandi-net.md#BKMK_CreateVerifyZone), [Add a TXT record for verification](change-nameservers-at-gandi-net.md#BKMK_AddVerifyTXT), and [Activate the zone file for Office 365 verification](change-nameservers-at-gandi-net.md#BKMK_ActivateVerifyZone)) before you begin the procedure in this section. 
+> If you have not already done so, complete the procedures in the first three sections of this article before you begin the procedure in this section. 
   
 Now that you've added the record at your domain registrar's site, you'll go back to Office 365 and request Office 365 to look for the record.
   
@@ -204,7 +204,7 @@ Now that you have verified your Gandi.net domain with Office 365, you can go on 
 ## Change your domain's nameserver (NS) records
 
 > [!IMPORTANT]
-> If you have not yet verified your Gandi.net domain with Office 365, do so now by following the procedures in the first four sections of this article, beginning with [Create a zone file for Office 365 verification](change-nameservers-at-gandi-net.md#BKMK_CreateVerifyZone). 
+> If you have not yet verified your Gandi.net domain with Office 365, do so now by following the procedures in the first four sections of this article, beginning with [Create a zone file for Office 365 verification](#create-a-zone-file-for-office-365-verification). 
   
 To complete setting up your domain with Office 365, you change your domain's NS records at your domain registrar to point to the Office 365 primary and secondary name servers. This sets up Office 365 to update the domain's DNS records for you. We'll add all records so that email, Skype for Business Online, and your public website work with your domain, and you'll be all set.
   

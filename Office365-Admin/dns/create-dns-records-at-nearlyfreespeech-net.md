@@ -36,18 +36,6 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If NearlyFreeSpeech.net is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-nearlyfreespeech-net.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-nearlyfreespeech-net.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-nearlyfreespeech-net.md#BKMK_add_MX)
-    
-- [Add the CNAME records that are required for Office 365](create-dns-records-at-nearlyfreespeech-net.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-nearlyfreespeech-net.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-nearlyfreespeech-net.md#BKMK_add_SRV)
-    
 After you add these records at NearlyFreeSpeech.net, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
@@ -73,11 +61,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (Select the **Type** value from the drop-down list.) 
     
-|||||
-|:-----|:-----|:-----|:-----|
-|Name  <br/> |Type  <br/> |Data  <br/> |TTL  <br/> |
-|(Leave this field empty.)  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |3600  <br/> |
-   
+    |||||
+    |:-----|:-----|:-----|:-----|
+    |Name  <br/> |Type  <br/> |Data  <br/> |TTL  <br/> |
+    |(Leave this field empty.)  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |3600  <br/> |
+       
 5. Choose **Add Record**.
     
 6. Choose **Click here to continue...** to return to the DNS page. 
@@ -112,11 +100,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Name**|**Type**|**Data**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |MX  <br/> |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> The **0** is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |3600  <br/> |
-   
-  ![NearlyFreeSpeech-BP-Configure-2-1](../media/82956d6b-ed21-4cd4-8d28-513f0f501a9b.png)
+    |**Name**|**Type**|**Data**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |(Leave this field empty.)  <br/> |MX  <br/> |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> The **0** is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **Note:** Get your \<*domain-key*\> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |3600  <br/> |
+       
+    ![NearlyFreeSpeech-BP-Configure-2-1](../media/82956d6b-ed21-4cd4-8d28-513f0f501a9b.png)
   
 5. Choose **Add Record**.
     
@@ -153,16 +141,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Name**|**Type**|**Data**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|autodiscover  <br/> |CNAME  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-|sip  <br/> |CNAME  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-|lyncdiscover  <br/> |CNAME  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-|msoid  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-|enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-|enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-   
- ![NearlyFreeSpeech-BP-Configure-3-1](../media/3d67c502-1c76-47de-b746-b947876cb3cb.png)
+    |**Name**|**Type**|**Data**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |autodiscover  <br/> |CNAME  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+    |sip  <br/> |CNAME  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+    |lyncdiscover  <br/> |CNAME  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+    |msoid  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+    |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+    |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+       
+    ![NearlyFreeSpeech-BP-Configure-3-1](../media/3d67c502-1c76-47de-b746-b947876cb3cb.png)
   
 5. Choose **Add Record**.
     
@@ -192,11 +180,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Name**|**Type**|**Data**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |3600  <br/> |
-   
- ![NearlyFreeSpeech-BP-Configure-4-1](../media/1d3efb49-6198-468d-a9e8-91b79dcd7722.png)
+    |**Name**|**Type**|**Data**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |(Leave this field empty.)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |3600  <br/> |
+       
+    ![NearlyFreeSpeech-BP-Configure-4-1](../media/1d3efb49-6198-468d-a9e8-91b79dcd7722.png)
   
 5. Choose **Add Record**.
     
@@ -221,12 +209,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Choose the **Type** value from the drop-down list.) 
     
-|**Name**|**Type**|**Data**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|_sip._tls|SRV|100 1 443 sipdir.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |3600|
-|_sipfederationtls._tcp|SRV|100 1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |3600|
-   
- ![NearlyFreeSpeech-BP-Configure-5-1](../media/067aadd6-4828-44bc-a57b-258746b0a8d6.png)
+    |**Name**|**Type**|**Data**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |_sip._tls|SRV|100 1 443 sipdir.online.lync.com. **This value MUST end with a period (.)**<br> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |3600|
+    |_sipfederationtls._tcp|SRV|100 1 5061 sipfed.online.lync.com. **This value MUST end with a period (.)**<br> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct. |3600|
+       
+    ![NearlyFreeSpeech-BP-Configure-5-1](../media/067aadd6-4828-44bc-a57b-258746b0a8d6.png)
   
 5. Choose **Add Record**.
     

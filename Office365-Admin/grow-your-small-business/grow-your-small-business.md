@@ -242,6 +242,7 @@ description: "Learn about features in Office 365 that help your boost your busin
                     </div>
                     <div class="cardText">
                         <h3>Check out Office templates</h3>
+
                     </div>
                 </div>
             </div>
