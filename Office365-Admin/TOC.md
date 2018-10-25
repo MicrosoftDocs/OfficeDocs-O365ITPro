@@ -216,6 +216,7 @@
 ### [Password policy recommendations](misc/password-policy-recommendations.md)
 ### [Integrated Apps](misc/integrated-apps.md)
 ### [Become the admin](misc/become-the-admin.md)
+### [Become the admin and make purchases](misc/become-admin-and-make-purchases.md)
 ### [Customize help desk](misc/customize-help-desk.md)
 ### [Cortana integration](misc/cortana-integration.md)
 ### [Power BI in your organization](misc/power-bi-in-your-organization.md)
