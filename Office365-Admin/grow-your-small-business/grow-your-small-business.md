@@ -4,6 +4,7 @@ ms.author: kwekua
 author: kwekua
 manager: scotv
 ms.audience: Admin
+ms.topic: hub-page
 layout: HubPage
 ms.service: o365-administration
 localization_priority: Normal
