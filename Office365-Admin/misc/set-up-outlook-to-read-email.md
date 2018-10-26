@@ -11,7 +11,11 @@ f1_keywords:
 - 'O365M_GSWOutlookSetup'
 - 'O365E_GSWOutlookSetup'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.custom:
+- Core_O365Admin_Migration
+- GSTips
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -74,6 +78,6 @@ Your subscription name is displayed on the page.
   
 ![Go to Billling to view your subscriptions](../media/871a31e7-98bf-406e-9098-1a2da6a7cab0.gif)
   
-Read [full article](../admin-overview/what-subscription-do-i-have-0.md).
+Read [full article](../admin-overview/what-subscription-do-i-have.md).
   
 

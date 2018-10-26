@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_NFS1'
 - 'O365E_DOM_NFS1'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -28,12 +36,6 @@ description: "Learn to set up your Office 365 custom domain with NearlyFreeSpeec
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at NearlyFreeSpeech.net](create-dns-records-at-nearlyfreespeech-net.md).)
   
-Here's what you need to do. ([Still need help?](change-nameservers-at-nearlyfreespeech-net.md#BKMK_NeedHelp))
-  
-- [Add a TXT record for verification](change-nameservers-at-nearlyfreespeech-net.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-nearlyfreespeech-net.md#BKMK_nameservers)
-    
 ## Add a TXT record for verification
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
@@ -54,7 +56,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |||||
 |:-----|:-----|:-----|:-----|
 |Name  <br/> |Type  <br/> |Data  <br/> |TTL  <br/> |
-|(Leave this field empty  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |3600  <br/> |
+|(Leave this field empty  <br/> |TXT  <br/> |MS=ms *XXXXXXXX* **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/>           |3600  <br/> |
    
 5. Choose **Add record**.
     

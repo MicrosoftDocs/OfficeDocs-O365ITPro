@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_Whiz'
 - 'O365E_DOM_Whiz'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -27,18 +35,17 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
   
 If Whiz.in is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
+
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-whiz-in.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-whiz-in.md#BKMK_verify)
+- [Add a TXT record for verification](#add-a-txt-record-for-verification)
     
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-whiz-in.md#BKMK_add_MX)
+- [Add an MX record so email for your domain will come to Office 365](#add-an-mx-record-so-email-for-your-domain-will-come-to-office-365)
     
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-whiz-in.md#BKMK_add_CNAME)
+- [Add the six CNAME records that are required for Office 365](#add-the-six-cname-records-that-are-required-for-office-365)
     
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-whiz-in.md#BKMK_add_TXT)
+- [Add a TXT record for SPF to help prevent email spam](#add-a-txt-record-for-spf-to-help-prevent-email-spam)
     
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-whiz-in.md#BKMK_add_SRV)
+- [Add the two SRV records that are required for Office 365](#add-the-two-srv-records-that-are-required-for-office-365)
     
 After you add these records at Whiz.in, your domain will be set up to work with Office 365 services.
   
@@ -76,7 +83,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     ![WhizIn-BP-Configure-1-4](../media/f94b8ccc-e677-4825-b432-fc26781e1596.png)
   
-5. In the **Manage Records for** ** *domain_name* ** section, choose the **TXT Records** tab. 
+5. In the **Manage Records for** ***domain_name*** section, choose the **TXT Records** tab. 
     
     ![WhizIn-BP-Verify-1-1-1](../media/541c2f15-cebf-472b-80c6-a4312fb65f10.png)
   
@@ -86,9 +93,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 7. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|**Host Name**|**Value**|**TTL**|
-|:-----|:-----|:-----|
-|@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |7200  <br/> |
+    |**Host Name**|**Value**|**TTL**|
+    |:-----|:-----|:-----|
+    |@  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.    [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |7200  <br/> |
    
     ![WhizIn-BP-Verify-1-2](../media/8310a995-a796-4ee4-bbe0-1cee5571ff6d.png)
   
@@ -143,7 +150,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![WhizIn-BP-Configure-1-4](../media/f94b8ccc-e677-4825-b432-fc26781e1596.png)
   
-5. In the **Manage Records for** ** *domain_name* ** section, choose the **MX Records** tab. 
+5. In the **Manage Records for** ***domain_name*** section, choose the **MX Records** tab. 
     
     ![WhizIn-BP-Configure-2-1-1](../media/e1ed3c2e-9b41-44d3-8cf0-38c14a0d22f2.png)
   
@@ -153,11 +160,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 7. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|**Zone**|**Value**|**TTL**|**MX Priority**|
-|:-----|:-----|:-----|:-----|
-|@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!IMPORTANT]> Select the **Fully Qualified Domain Name** option and enter the value in this field.           > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |7200  <br/> |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    |**Zone**|**Value**|**TTL**|**MX Priority**|
+    |:-----|:-----|:-----|:-----|
+    |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/>**Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.   <br>**Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |7200  <br/> |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-![WhizIn-BP-Configure-2-2](../media/06a3ed03-6b3e-4171-b17c-dda6fa4783cc.png)
+    ![WhizIn-BP-Configure-2-2](../media/06a3ed03-6b3e-4171-b17c-dda6fa4783cc.png)
   
 8. Choose **Add Record**.
     
@@ -165,11 +172,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 9. If there are any other MX records listed in the **List of MX Records** area, delete each of them. 
     
-    Find the first record to be deleted and, in the **Name** field, choose the ** *domain_name.* **
+    Find the first record to be deleted and, in the **Name** field, choose the ***domain_name.***
     
     ![WhizIn-BP-Configure-2-4](../media/76caf95a-a217-4fa9-bb9c-43396b5ed3e7.png)
   
-10. In the ** *domain_name* ** ** MX Record Details ** area, choose **Delete Record**.
+10. In the ***domain_name*** **MX Record Details** area, choose **Delete Record**.
     
     ![WhizIn-BP-Configure-2-5](../media/cd594eae-5c38-45fd-a956-224b022fa3cc.png)
   
@@ -203,7 +210,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![WhizIn-BP-Configure-1-4](../media/f94b8ccc-e677-4825-b432-fc26781e1596.png)
   
-5. In the **Manage Records for** ** *domain_name* ** section, choose the **CNAME Records** tab. 
+5. In the **Manage Records for** ***domain_name*** section, choose the **CNAME Records** tab. 
     
     ![WhizIn-BP-Configure-3-1-1](../media/403a2397-8360-4362-b628-a893aba0cb85.png)
   
@@ -215,16 +222,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the boxes for the new record, type or copy and paste the values from the first row of the following table.
     
-|**Host Name**|**Value**|**TTL**|
-|:-----|:-----|:-----|
-|autodiscover|autodiscover.outlook.com> [!IMPORTANT]> Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
-|sip|sipdir.online.lync.com> [!IMPORTANT]> Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
-|lyncdiscover|webdir.online.lync.com> [!IMPORTANT]> Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
-|msoid|clientconfig.microsoftonline-p.net> [!IMPORTANT]> Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
-|enterpriseregistration|enterpriseregistration.windows.net> [!IMPORTANT]> Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
-|enterpriseenrollment|enterpriseenrollment.manage.microsoft.com> [!IMPORTANT]> Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
+    |**Host Name**|**Value**|**TTL**|
+    |:-----|:-----|:-----|
+    |autodiscover|autodiscover.outlook.com<br>**Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
+    |sip|sipdir.online.lync.com<br> **Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
+    |lyncdiscover|webdir.online.lync.com<br> **Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
+    |msoid|clientconfig.microsoftonline-p.net<br>**Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
+    |enterpriseregistration|enterpriseregistration.windows.net<br> **Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
+    |enterpriseenrollment|enterpriseenrollment.manage.microsoft.com<br> **Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
    
-![WhizIn-BP-Configure-3-2](../media/4eeae047-d2f9-49c5-87e2-050df7b3d2d7.png)
+    ![WhizIn-BP-Configure-3-2](../media/4eeae047-d2f9-49c5-87e2-050df7b3d2d7.png)
   
 8. Choose **Add Record**.
     
@@ -240,8 +247,8 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="BKMK_add_TXT"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
-  
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
+
 1. To get started, go to your domains page at Whiz.in by using [this link](http://domain.whiz.in/). You'll be prompted to login first.
     
     > [!IMPORTANT]
@@ -263,7 +270,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![WhizIn-BP-Configure-1-4](../media/f94b8ccc-e677-4825-b432-fc26781e1596.png)
   
-5. In the **Manage Records for** ** *domain_name* ** section, choose the **TXT Records** tab. 
+5. In the **Manage Records for** ***domain_name*** section, choose the **TXT Records** tab. 
     
     ![WhizIn-BP-Configure-4-1-1](../media/e5076053-e072-43c4-9c81-4745b3f796d6.png)
   
@@ -273,11 +280,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 7. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|**Host Name**|**Value**|**TTL**|
-|:-----|:-----|:-----|
-|@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |7200  <br/> |
+    |**Host Name**|**Value**|**TTL**|
+    |:-----|:-----|:-----|
+    |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |7200  <br/> |
    
-![WhizIn-BP-Configure-4-2](../media/f59dd9f8-0d1b-4e4f-af01-ae97a1f70d27.png)
+    ![WhizIn-BP-Configure-4-2](../media/f59dd9f8-0d1b-4e4f-af01-ae97a1f70d27.png)
   
 8. Choose **Add Record**.
     
@@ -307,7 +314,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![WhizIn-BP-Configure-1-4](../media/f94b8ccc-e677-4825-b432-fc26781e1596.png)
   
-5. In the **Manage Records for** ** *domain_name* ** section, choose the **SRV Records** tab. 
+5. In the **Manage Records for** ***domain_name*** section, choose the **SRV Records** tab. 
     
     ![WhizIn-BP-Configure-5-1-1](../media/28d30c89-29c2-4c74-879d-356ca7d9aed9.png)
   
@@ -319,12 +326,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the boxes for the new record, type or copy and paste the values from the first row of the following table.
     
-|**Service Record Name**|**Priority**|**Weight**|**Port**|**Target**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|_sip_tls. *domain* (Where  *domain*  is your  *domain_name*  .) |100|1|443|sipdir.online.lync.com> [!IMPORTANT]> Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
-|_sipfederationtls_tcp. *domain* (Where  *domain*  is your  *domain_name*  .) |100|1|5061|sipfed.online.lync.com> [!IMPORTANT]> Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
+    |**Service Record Name**|**Priority**|**Weight**|**Port**|**Target**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|
+    |_sip_tls. *domain* (Where  *domain*  is your  *domain_name*.) |100|1|443|sipdir.online.lync.com<br> **Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
+    |_sipfederationtls_tcp. *domain* (Where  *domain*  is your  *domain_name*.) |100|1|5061|sipfed.online.lync.com<br> **Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
    
-![WhizIn-BP-Configure-5-2](../media/138c0cf8-9f09-4180-b871-b392888ce831.png)
+    ![WhizIn-BP-Configure-5-2](../media/138c0cf8-9f09-4180-b871-b392888ce831.png)
   
 8. Choose **Add Record**.
     

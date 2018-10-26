@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_Fast'
 - 'O365E_DOM_Fast'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -28,18 +36,6 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If Fasthosts.co.uk is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-fasthosts-co-uk.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-fasthosts-co-uk.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-fasthosts-co-uk.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-fasthosts-co-uk.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-fasthosts-co-uk.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-fasthosts-co-uk.md#BKMK_add_SRV)
-    
 After you add these records at Fasthosts.co.uk, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
@@ -67,10 +63,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 5. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|||
-|:-----|:-----|
-|**Host Name** <br/> |**Value** <br/> |
-|@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |||
+    |:-----|:-----|
+    |**Host Name** <br/> |**Value** <br/> |
+    |@  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
 6. Choose **Save**.
     
@@ -108,11 +104,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 5. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|**Host Name**|**Points To**|**Priority**|
-|:-----|:-----|:-----|
-|@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    |**Host Name**|**Points To**|**Priority**|
+    |:-----|:-----|:-----|
+    |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your \< *domain-key*  \> from your Office 365 portal account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-   ![FasthostsUK-BP-Configure-2-2](../media/47930740-2660-426b-832f-6847fb5a33b5.png)
+    ![FasthostsUK-BP-Configure-2-2](../media/47930740-2660-426b-832f-6847fb5a33b5.png)
   
 6. Choose **Save**.
     
@@ -151,16 +147,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the boxes for the new record, type or copy and paste the values from the first row of the following table.
     
-|**Host Name**|**Points To**|
-|:-----|:-----|
-|autodiscover  <br/> |autodiscover.outlook.com  <br/> |
-|sip  <br/> |sipdir.online.lync.com  <br/> |
-|lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
-|msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |
-|enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |**Host Name**|**Points To**|
+    |:-----|:-----|
+    |autodiscover  <br/> |autodiscover.outlook.com  <br/> |
+    |sip  <br/> |sipdir.online.lync.com  <br/> |
+    |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
+    |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
+    |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-   ![FasthostsUK-BP-Configure-3-2](../media/995d90ae-298e-43e9-ba50-240cf17e946b.png)
+    ![FasthostsUK-BP-Configure-3-2](../media/995d90ae-298e-43e9-ba50-240cf17e946b.png)
   
 6. Choose **Save**.
     
@@ -192,9 +188,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 5. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|**Host Name**|**Value**|
-|:-----|:-----|
-|@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Host Name**|**Value**|
+    |:-----|:-----|
+    |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
    ![FasthostsUK-BP-Configure-4-2](../media/50531996-80b7-48c1-b2f0-a654f0e6e203.png)
   
@@ -221,12 +217,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the boxes for the new record, type or copy and paste the values from the first row of the following table.
     
-|**Host Name**|**Priority**|**Weight**|**Port**|**Target**|
-|:-----|:-----|:-----|:-----|:-----|
-|_sip._tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
-|_sipfederationtls._tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
+    |**Host Name**|**Priority**|**Weight**|**Port**|**Target**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |_sip._tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
+    |_sipfederationtls._tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
    
-   ![FasthostsUK-BP-Configure-5-2](../media/dab4b5f6-93b4-4ada-81f8-223bec86fc06.png)
+    ![FasthostsUK-BP-Configure-5-2](../media/dab4b5f6-93b4-4ada-81f8-223bec86fc06.png)
   
 6. Choose **Save**.
     

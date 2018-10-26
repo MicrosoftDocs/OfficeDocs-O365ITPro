@@ -8,11 +8,15 @@ ms.topic: get-started-article
 f1_keywords:
 - 'O365P_SharedMB'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection:
 - Adm_O365_Top
 - strat_admin_top
-ms.custom: Adm_O365_Top
+ms.custom:
+- Adm_O365_Top
+- Core_O365Admin_Migration
+- MiniMaven
+- strat_admin_top
 search.appverid:
 - BCS160
 - MET150
@@ -52,7 +56,7 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
 
 ::: moniker-end
 
-2. Sign in with an Office 365 global admin account or Exchange admin account. If you get the message " **You don't have permission to access this page or perform this action**" then you aren't an admin. [Who has admin permissions in my business?](../admin-overview/admin-overview.md#bkmk_admin).
+2. Sign in with an Office 365 global admin account or Exchange admin account. If you get the message " **You don't have permission to access this page or perform this action**" then you aren't an admin. 
     
 3. On the **Add a mailbox** page, enter a name for the shared mailbox. Then the wizard chooses the email address, but you can edit it.
     
@@ -82,7 +86,7 @@ If you want to allow everyone to see the Sent email, in the admin center, edit t
   
 ## Add the shared mailbox to Outlook
 
-If you have [automapping](create-a-shared-mailbox.md#bkmk_auto) enabled in your business (by default, most people do), the shared mailbox will appear in your user's Outlook app automatically after they close and restart Outlook. 
+If you have automapping enabled in your business (by default, most people do), the shared mailbox will appear in your user's Outlook app automatically after they close and restart Outlook. 
   
 To learn more, see:
   
@@ -191,7 +195,7 @@ A Group in Outlook is like a shared mailbox. For a comparison of the two, see [C
     
   - Use Windows PowerShell. See this blog post for instructions: [Create Shared Mailboxes with Same Alias at Different Domains in Office 365](https://www.cogmotive.com/blog/office-365-tips/create-shared-mailboxes-with-same-alias-at-different-domains-in-office-365)
     
-  - Or, name the second shared mailbox something different from the start to get around the error. Then in the [How to create a shared mailbox in the Exchange Admin Center](create-a-shared-mailbox.md#bkmk_EAC), rename the shared mailbox to what you want it to be.
+  - Or, name the second shared mailbox something different from the start to get around the error. Then in the [Admin Center](#how-to-create-a-shared-mailbox-in-the-exchange-admin-center), rename the shared mailbox to what you want it to be.
     
 ## How automapping works with shared mailboxes
 <a name="bkmk_auto"> </a>

@@ -7,8 +7,13 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- Adm_O365
+- Adm_O365_FullSet
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -69,7 +74,7 @@ Video on how to set up user passwords to never expire
 
 5. At the message about an untrusted repository, type **Y**.
     
-    If you already have AzureADPreview installed, see the [Update preview version of Azure Active Directory Module for Windows PowerShell](set-password-to-never-expire.md#bkmk_preview) about how to uninstall the old version and get the new one. Otherwise, you're ready to go! 
+    If you already have AzureADPreview installed, see the [Update preview version of Azure Active Directory Module for Windows PowerShell](#update-preview-version-of-azure-active-directory-module-for-windows-powershell) about how to uninstall the old version and get the new one. Otherwise, you're ready to go! 
     
 ## Set a user's password to never expire
 <a name="__toc378845826"> </a>

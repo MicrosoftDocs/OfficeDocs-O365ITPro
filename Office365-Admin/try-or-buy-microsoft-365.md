@@ -7,7 +7,8 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.custom: Core_O365Admin_Migration
 search.appverid:
 - MET150
 - MOE150

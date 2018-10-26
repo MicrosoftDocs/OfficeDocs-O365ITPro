@@ -11,7 +11,11 @@ f1_keywords:
 - 'O365M_DomainsSetup_InUse'
 - 'O365E_DomainsSetup_InUse'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection: Adm_UI_Elements
+ms.custom:
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -20,7 +24,7 @@ ms.assetid: 4f374dc7-b96c-49c7-80ed-554716ba0138
 description: "Learn to use work or school email to sign up for Microsoft online services without involving their IT department. "
 ---
 
-# Your domain may be in use if someone else in your organization signed up with it
+# Your domain may be in use if someone else signed up with it
 
 Users with a work or school email can [sign up for some Microsoft online services](self-service-sign-up.md) without involving their IT department. For example, services like Office 365, Power BI, and Rights Management Services. By completing self-service signup, which they do by providing their work or school email address, they have access to functionality included in the service but they can't administer the service (add users, add licenses, manage the domain, and so on). 
   

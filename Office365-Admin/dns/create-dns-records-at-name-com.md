@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_name'
 - 'O365E_DOM_name'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -28,24 +36,12 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If name.com is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-name-com.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-name-com.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-name-com.md#BKMK_add_MX)
-    
-- [Add the CNAME records that are required for Office 365](create-dns-records-at-name-com.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-name-com.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-name-com.md#BKMK_add_SRV)
-    
 After you add these records at name.com, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
 <a name="BKMK_verify"> </a>
@@ -71,10 +67,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (Select the **Type** value from the drop-down list.) 
     
-|||||
-|:-----|:-----|:-----|:-----|
-|**Type** <br/> |**Host** <br/> |**Answer** <br/> |**TTL** <br/> |
-|TXT  <br/> |(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Use the default value (300).  <br/> |
+    |||||
+    |:-----|:-----|:-----|:-----|
+    |**Type** <br/> |**Host** <br/> |**Answer** <br/> |**TTL** <br/> |
+    |TXT  <br/> |(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Use the default value (300).  <br/> |
    
     ![Name-BP-Verify-1-1](../media/0c352fd3-cf84-439f-a481-0705e225cc54.png)
   
@@ -103,7 +99,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add an MX record so email for your domain will come to Office 365
 <a name="BKMK_add_MX"> </a>
@@ -124,9 +120,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Type**|**Host**|**Answer**|**TTL**|**Prio**|
-|:-----|:-----|:-----|:-----|:-----|
-|MX  <br/> |(Leave this field empty.)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Use the default value (300).  <br/> |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    |**Type**|**Host**|**Answer**|**TTL**|**Prio**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |MX  <br/> |(Leave this field empty.)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Use the default value (300).  <br/> |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
    ![Name-BP-Configure-2-1](../media/11ba2160-fc8e-4196-bb15-2b7c6d49c8fc.png)
   
@@ -167,14 +163,14 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Type**|**Host**|**Answer**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com  <br/> |Use the default value (300).  <br/> |
-|CNAME  <br/> |sip  <br/> |sipdir.online.lync.com  <br/> |Use the default value (300).  <br/> |
-|CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |Use the default value (300).  <br/> |
-|CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |Use the default value (300).  <br/> |
-|CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |Use the default value (300).  <br/> |
-|CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |Use the default value (300).  <br/> |
+    |**Type**|**Host**|**Answer**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com  <br/> |Use the default value (300).  <br/> |
+    |CNAME  <br/> |sip  <br/> |sipdir.online.lync.com  <br/> |Use the default value (300).  <br/> |
+    |CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |Use the default value (300).  <br/> |
+    |CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |Use the default value (300).  <br/> |
+    |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |Use the default value (300).  <br/> |
+    |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |Use the default value (300).  <br/> |
    
    ![Name-BP-Configure-3-1](../media/4e34caaf-b418-40ec-abfa-fe62175a87c2.png)
   
@@ -192,7 +188,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="BKMK_add_TXT"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
   
 1. To get started, go to your domains page at name.com by using [this link](https://www.name.com/account/domain). You'll be prompted to log in first.
     
@@ -210,9 +206,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Type**|**Host**|**Answer**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|TXT  <br/> |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |Use the default value (300).  <br/> |
+    |**Type**|**Host**|**Answer**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |TXT  <br/> |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |Use the default value (300).  <br/> |
    
    ![Name-BP-Configure-4-1](../media/cbbfc071-840a-4ffa-a59e-0dfce03063cc.png)
   
@@ -241,10 +237,10 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Type**|**Service**|**Weight**|**TTL**|**Prio**|**Protocol**|**Port**|**Target**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|SRV|sip|1|Use the default value (300).|100|tls|443|sipdir.online.lync.com> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
-|SRV|sipfederationtls|1|Use the default value (300).|100|tcp|5061|sipfed.online.lync.com> [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Type**|**Service**|**Weight**|**TTL**|**Prio**|**Protocol**|**Port**|**Target**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |SRV|sip|1|Use the default value (300).|100|tls|443|sipdir.online.lync.com <br> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |SRV|sipfederationtls|1|Use the default value (300).|100|tcp|5061|sipfed.online.lync.com <br>**Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
    ![Name-BP-Configure-5-1](../media/d9a885fd-7300-45b6-ad4c-0b4bf1067560.png)
   
@@ -255,5 +251,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
 6. Add the second SRV record:
 
 Use the values from the next row of the table above, and then choose **Add Record** to add the second record.
+
 >[!NOTE]
 >Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md).

@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_Hostgator1'
 - 'O365E_DOM_Hostgator1'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -28,17 +36,8 @@ description: "Learn how you can set up Office 365 to manage the DNS records of y
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Hostgator](create-dns-records-at-hostgator.md).)
   
-> [!IMPORTANT]
-> You must perform the first procedure in the following list, [Point your domain to your hosting account.](change-nameservers-at-hostgator.md#BKMK_PointDomain), before you add DNS records by using any of the other procedures in this article. ([Still need help?](change-nameservers-at-hostgator.md#BKMK_NeedHelp))
-  
-- [Point your domain to your hosting account.](change-nameservers-at-hostgator.md#BKMK_PointDomain)
-    
-- [Add a TXT record for verification](change-nameservers-at-hostgator.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-hostgator.md#BKMK_nameservers)
     
 ## Point your domain to your hosting account.
-<a name="BKMK_PointDomain"> </a>
 
 > [!IMPORTANT]
 > You must perform this procedure before you perform the procedure in the following section, **Add a TXT record for verification**.
@@ -72,7 +71,7 @@ Follow these steps to associate your domain and hosting accounts.
 ## Add a TXT record for verification
 
 > [!IMPORTANT]
-> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account.](change-nameservers-at-hostgator.md#BKMK_PointDomain).
+> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account.](#point-your-domain-to-your-hosting-account).
   
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -84,7 +83,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     (Each hosted account at Hostgator is assigned a unique cPanel address. Your cPanel address should look like this: https://YourSiteAddress:secure-port-number. The sign-up email you received from Hostgator will specify that address.)
     
     > [!IMPORTANT]
-    > To have a cPanel associated with your domain, you need a hosting account with Hostgator. To get started with Office 365, you can either purchase a hosting account from Hostgator or [Change your domain's nameserver (NS) records](change-nameservers-at-hostgator.md#BKMK_nameservers) to point to Office 365. 
+    > To have a cPanel associated with your domain, you need a hosting account with Hostgator. To get started with Office 365, you can either purchase a hosting account from Hostgator or [change your domain's nameserver (NS) records](#change-your-domains-nameserver-ns-records) to point to Office 365. 
   
 2. On the **Control Panel** page, in the **Domains** area, choose **Advanced DNS Zone Editor**.
     
@@ -97,7 +96,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |||||
 |:-----|:-----|:-----|:-----|
 |**Name** <br/> |**TTL** <br/> |**Type** <br/> |**TXT Data** <br/> |
-|Use your  *domain_name*  . (for example, fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |1  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|Use your  *domain_name*  . (for example, fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |1  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)     <br/>  |
    
 4. Choose **Add Record**.
     

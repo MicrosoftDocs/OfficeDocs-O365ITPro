@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_myh'
 - 'O365E_DOM_myh'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -28,18 +36,6 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If myhosting.com is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-myhosting-com.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-myhosting-com.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-myhosting-com.md#BKMK_add_MX)
-    
-- [Add the CNAME records that are required for Office 365](create-dns-records-at-myhosting-com.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-myhosting-com.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-myhosting-com.md#BKMK_add_SRV)
-    
 After you add these records at myhosting.com, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
@@ -69,10 +65,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (Select the **DNS Record Type** value from the drop-down list.) 
     
-|||||
-|:-----|:-----|:-----|:-----|
-|**DNS Record Type** <br/> |**Domain** <br/> |**Data** <br/> |**TTL** <br/> |
-|TXT  <br/> |(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Select **Custom** and enter the value **3600**.  <br/> |
+    |||||
+    |:-----|:-----|:-----|:-----|
+    |**DNS Record Type** <br/> |**Domain** <br/> |**Data** <br/> |**TTL** <br/> |
+    |TXT  <br/> |(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Select **Custom** and enter the value **3600**.  <br/> |
    
 7. Choose **Finish**.
     
@@ -110,11 +106,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **DNS Record Type** and **Preference** values from the drop-down lists.) 
     
-|**DNS Record Type**|**Mail domain**|**Preference**|**Mail exchanger**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|
-|MX  <br/> |(Leave this field empty.)  <br/> |Very high (10)  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Select **Custom** and enter the value **3600**.  <br/> |
+    |**DNS Record Type**|**Mail domain**|**Preference**|**Mail exchanger**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |MX  <br/> |(Leave this field empty.)  <br/> |Very high (10)  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/>**Note:** Get your \<*domain-key*\> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Select **Custom** and enter the value **3600**.  <br/> |
    
-   ![MyHosting-BP-Configure-2-1](../media/e8740f03-5fcb-42b3-9a08-c28210f32b3a.png)
+    ![MyHosting-BP-Configure-2-1](../media/e8740f03-5fcb-42b3-9a08-c28210f32b3a.png)
   
 7. Choose **Finish**.
     
@@ -151,14 +147,14 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **DNS Record Type** value from the drop-down list.) 
     
-|**DNS Record Type**|**Domain**|**Canonical name**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
-|CNAME  <br/> |sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
-|CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
-|CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
-|CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
-|CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
+    |**DNS Record Type**|**Domain**|**Canonical name**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
+    |CNAME  <br/> |sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
+    |CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
+    |CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
+    |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
+    |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
   
    ![MyHosting-BP-Configure-3-1](../media/a602666a-cad1-4d95-adb3-ff160a1d360b.png)
   
@@ -189,12 +185,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
 6. In the boxes for the new record, type or copy and paste the values from the following table.
     
     (Select the **DNS Record Type** value from the drop-down list.) 
-    
-|**DNS Record Type**|**Domain**|**Data**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|TXT  <br/> |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |Select **Custom** and enter the value **3600**.  <br/> |
+        
+    |**DNS Record Type**|**Domain**|**Data**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |TXT  <br/> |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |Select **Custom** and enter the value **3600**.  <br/> |
    
-   ![MyHosting-BP-Configure-4-1](../media/c9587d45-0643-4750-a8e4-112f7f200644.png)
+    ![MyHosting-BP-Configure-4-1](../media/c9587d45-0643-4750-a8e4-112f7f200644.png)
   
 7. Choose **Finish**.
     
@@ -219,12 +215,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Choose the **DNS Record Type**, **Protocol**, and **Preference** values from the drop-down lists. The **Protocol** list is the unlabeled drop-down list to the right of the **Service** box. The **Port** field is the unlabeled box to the right of the first **Server Host** field.) 
     
-|**DNS Record Type**|**Service**|**Protocol**|**Preference**|**Weight**|**Server Host**|**Port**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|SRV  <br/> |sip  <br/> |tls  <br/> |Custom (100)  <br/> |1  <br/> |sipdir.online.lync.com.  <br/> |443  <br/> |Select **Custom** and enter the value **3600**.  <br/> |
-|SRV  <br/> |sipfederationtls  <br/> |tcp  <br/> |Custom (100)  <br/> |1  <br/> |sipfed.online.lync.com.  <br/> |5061  <br/> |Select **Custom** and enter the value **3600**.  <br/> |
+    |**DNS Record Type**|**Service**|**Protocol**|**Preference**|**Weight**|**Server Host**|**Port**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |SRV  <br/> |sip  <br/> |tls  <br/> |Custom (100)  <br/> |1  <br/> |sipdir.online.lync.com.  <br/> |443  <br/> |Select **Custom** and enter the value **3600**.  <br/> |
+    |SRV  <br/> |sipfederationtls  <br/> |tcp  <br/> |Custom (100)  <br/> |1  <br/> |sipfed.online.lync.com.  <br/> |5061  <br/> |Select **Custom** and enter the value **3600**.  <br/> |
    
-   ![MyHosting-BP-Configure-5-1](../media/286f2f3a-c3b9-4b23-98c3-289e367e4085.png)
+    ![MyHosting-BP-Configure-5-1](../media/286f2f3a-c3b9-4b23-98c3-289e367e4085.png)
   
 7. Choose **Finish**.
     

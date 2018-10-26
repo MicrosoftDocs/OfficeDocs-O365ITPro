@@ -9,13 +9,18 @@ ms.topic: article
 f1_keywords:
 - 'O365E_AdmSetSecPrivMFA'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection:
+- Adm_O365
 - Adm_O365_Top
 - strat_admin_top
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Top
+- Core_O365Admin_Migration
+- MiniMaven
+- strat_admin_top
 search.appverid:
 - BCS160
 - MET150
@@ -92,31 +97,24 @@ If you need to enable ADAL, run the following command:  `Set-OrganizationConfig 
   
 1. You must be an Office 365 global admin to do these steps.
     
-<<<<<<< HEAD
-2. 
 ::: moniker range="o365-worldwide"
 
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+2. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+2. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+2. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
-=======
-2. Go to the [Admin center](https://admin.microsoft.com).]
-   For Office 365 Germany, go to [https://portal.office.de/adminportal/home](https://portal.office.de/adminportal/home).
-   For Office 365 operated by 21Vianet in China, go to [https://login.partner.microsoftonline.cn](https://login.partner.microsoftonline.cn)
->>>>>>> supotter-conversion
 3. Go to **Users** \> **Active users**.
     
 4. Choose **More** \> **Setup Azure multi-factor auth**. If you don't see the **More** option, then you aren't a global admin for your subscription. 

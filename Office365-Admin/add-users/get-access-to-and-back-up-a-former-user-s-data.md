@@ -10,8 +10,13 @@ f1_keywords:
 - 'O365M_SCBlockedUserData'
 - 'O365E_SCBlockedUserData'
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- Adm_O365
+- Core_O365Admin_Migration
+- MiniMaven
+- ScenarioChain
 search.appverid:
 - BCS160
 - MET150

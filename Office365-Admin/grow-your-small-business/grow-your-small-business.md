@@ -7,7 +7,10 @@ ms.audience: Admin
 ms.topic: landing-page
 layout: LandingPage
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.custom:
+- Core_O365Admin_Migration
+- SMB_SuccessCenter
 search.appverid:
 - MET150
 - MOE150
@@ -15,79 +18,22 @@ ms.assetid: e540a435-e3c5-4c7c-a116-2eb638827a7f
 description: "Learn about features in Office 365 that help your boost your business, read about industry content, and find out what's trending."
 ---
 # Grow your small business with Office 365
-<ul class="panelContent cardsFTitle">
-    <li>
-        <a href="https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/sign-up.svg" alt="Buy Office" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Buy Office</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-    <li>
-        <a href="../setup/setup?tabs=BusEssentials">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/get-started.svg" alt="Setup" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Setup</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-    <li>
-        <a href="../contact-support-for-business-products">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/headset.svg" alt="Contact support" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Contact support</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-</ul>
 
----
 
 <ul class="panelContent cardsW">
     <li>
-        <a href="../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md">
+        <a href="https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="../media/a6f29274-004a-46af-a374-30e0d3d39ee8.png" alt="Convert your Office 365 trial" />
+                            <img src="../media/711c4c19-dcbb-4d2a-a48a-f33035c28994.png" alt="Small business training" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Convert your Office 365 trial</h3>
-                        <p>Ready to convert your Office 365 trial subscription?</p>
+                        <h3>Small business training</h3>
+                        <p>Office 365 video training to help run your business.</p>
                     </div>
                 </div>
             </div>
@@ -114,66 +60,32 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816">
+        <a href="../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json&view=o365-worldwide">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="../media/711c4c19-dcbb-4d2a-a48a-f33035c28994.png" alt="Small business training" />
+                            <img src="../media/a6f29274-004a-46af-a374-30e0d3d39ee8.png" alt="Convert your Office 365 trial" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Small business training</h3>
-                        <p>Office 365 video training to help run your business.</p>
+                        <h3>Convert your Office 365 trial</h3>
+                        <p>Ready to convert your Office 365 trial subscription?</p>
                     </div>
                 </div>
             </div>
         </div>
         </a>
     </li>
-</ul>
-
-<ul class="panelContent cardsW">
     <li>
+        <a href="tips-to-help-boost-your-business.md?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json&view=o365-worldwide">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <iframe src="https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid= RE2mEti&AutoPlayVideo=false?height=415?width=740" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="" style="width: 740px; height: 415px;"></iframe>
-                        </div>
-                    </div>
-                    <div class="cardText">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardText">
-                        <h3>Monthly webinar series </h3>
-                        <p>Watch our latest monthly webinar on managing content with SharePoint and OneDrive. When should you use SharePoint or OneDrive?</p>
-                        <p>Check out the rest of our webinar series here: <a href="previous-webinar-videos.md">Office 365 Webinars</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-</ul>
-
-<ul class="panelContent cardsW">
-    <li>
-        <a href="tips-to-help-boost-your-business.md">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="../media/ca97a937-ef4f-40c4-b848-3ad1d105446c.png" alt="How to be successful content" />
+                            <img src="../media/ca97a937-ef4f-40c4-b848-3ad1d105446c.png" alt="A small building growing into a larger one" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -186,18 +98,18 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../security-and-compliance/hipaa-compliance.md">
+        <a href="https://support.office.com/en-us/article/using-outlook-and-teams-together-9bc459c4-ce13-479b-b88b-b8ae49092732">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="../media/3d42cb3c-29cd-43a6-8b7a-ee252f08e44e.png" alt="Office 365 and HIPAA compliance" />
+                            <img src="../media/3d42cb3c-29cd-43a6-8b7a-ee252f08e44e.png" alt="A person, a chat bubble, and a building" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Office 365 and HIPAA</h3>
-                        <p>Read on for how medical providers are using Office 365 in their business.</p>
+                        <h3>Work better together</h3>
+                        <p>Learn how Microsoft Teams and Outlook can help you work better with customers and partners.</p>
                     </div>
                 </div>
             </div>
@@ -205,18 +117,131 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="what-s-trending">
+        <a href="https://support.office.com/en-us/article/4414eaaf-0478-48be-9c42-23adc4716658">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="../media/d2e91cf2-b27e-47a5-a091-9df370ac5d18.png" alt="Things to try" />
+                            <img src="../media/d2e91cf2-b27e-47a5-a091-9df370ac5d18.png" alt="Laptop computers with Word, Excel and PowerPoint" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>What's trending</h3>
-                        <p>What's popular in Office 365 for business this month.</p>
+                        <h3>Install Office</h3>
+                        <p>Install the Office apps to get more done on your desktop, laptop, or mobile device.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+</ul>
+
+---
+
+<ul class="panelContent cardsFTitle">
+    <li>
+        <a href="https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/sign-up.svg" alt="Buy Office" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Buy Office</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/get-started.svg" alt="Get started hand" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Get started with set up</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="../contact-support-for-business-products?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json&view=o365-worldwide">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/headset.svg" alt="Contact support" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Contact support</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="previous-webinar-videos?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json&view=o365-worldwide">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/video-play.svg" alt="Video play" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Monthly webinar series</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426.aspx">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone.svg" alt="What's new megaphone" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>See what's new</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/document.svg" alt="Document" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Check out Office templates</h3>
                     </div>
                 </div>
             </div>

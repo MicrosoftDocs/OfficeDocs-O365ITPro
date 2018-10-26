@@ -6,8 +6,12 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- Adm_O365
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - MET150
 - MOE150
@@ -105,15 +109,15 @@ You'll need to add all of the following DNS records at your registrar's website 
 4. Enter the following records in the text fields:
     
 
-|**HOST**|**Address (Must end with a ".")**|
-|:-----|:-----|
-|autodiscover  <br/> |autodiscover.outlook.com.  <br/> |
-|sip  <br/> |sipdir.online.lync.com.  <br/> |
-|lyncdiscover  <br/> |webdir.online.lync.com.  <br/> |
-|msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> |
-|enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> |
-|enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> |
-   
+    |**HOST**|**Address (Must end with a ".")**|
+    |:-----|:-----|
+    |autodiscover  <br/> |autodiscover.outlook.com.  <br/> |
+    |sip  <br/> |sipdir.online.lync.com.  <br/> |
+    |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> |
+    |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> |
+    |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> |
+    |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> |
+       
 5. Choose **NEXT**. 
     
     ![Next](../media/171f96a6-d577-47e8-9e8a-8f684ffedb78.png)

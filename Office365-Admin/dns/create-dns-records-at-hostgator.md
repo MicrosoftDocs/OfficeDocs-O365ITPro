@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_Hostgator'
 - 'O365E_DOM_Hostgator'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -29,20 +37,8 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
 If Hostgator is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
 > [!IMPORTANT]
-> You must perform the first procedure in the following list, [Point your domain to your hosting account](create-dns-records-at-hostgator.md#BKMK_PointDomain), before you add DNS records by using any of the other procedures in this article. > (Need more help? [Still need help?](create-dns-records-at-hostgator.md#BKMK_NeedHelp).) 
-  
-- [Point your domain to your hosting account](create-dns-records-at-hostgator.md#BKMK_PointDomain)
-    
-- [Add a TXT record for verification](create-dns-records-at-hostgator.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-hostgator.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-hostgator.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-hostgator.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-hostgator.md#BKMK_add_SRV)
-    
+> You must perform the first procedurebelow, [Point your domain to your hosting account](#point-your-domain-to-your-hosting-account), before you add DNS records by using any of the other procedures in this article. 
+
 After you make all of these changes at Hostgator, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
@@ -86,7 +82,7 @@ Follow these steps to associate your domain and hosting accounts.
 <a name="BKMK_verify"> </a>
 
 > [!IMPORTANT]
-> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](create-dns-records-at-hostgator.md#BKMK_PointDomain). 
+> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](#point-your-domain-to-your-hosting-account). 
   
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -106,10 +102,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (Select the **Type** value from the drop-down list.) 
     
-|||||
-|:-----|:-----|:-----|:-----|
-|**Name** <br/> |**TTL** <br/> |**Type** <br/> |**TXT Data** <br/> |
-|Use your  *domain_name*  . (for example, fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |1  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |||||
+    |:-----|:-----|:-----|:-----|
+    |**Name** <br/> |**TTL** <br/> |**Type** <br/> |**TXT Data** <br/> |
+    |Use your  *domain_name*. (for example, fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |1  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
 4. Choose **Add Record**.
     
@@ -134,7 +130,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="BKMK_add_MX"> </a>
 
 > [!IMPORTANT]
-> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](create-dns-records-at-hostgator.md#BKMK_PointDomain). 
+> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](#point-your-domain-to-your-hosting-account). 
   
 1. To get started, go to your cPanel page at Hostgator. You'll be prompted to log in first.
     
@@ -143,7 +139,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     > [!IMPORTANT]
     > To have a cPanel associated with your domain, you need a hosting account with Hostgator. To get started with Office 365, you can either purchase a hosting account from Hostgator or [redelegate your nameservers to point to Office 365](change-nameservers-at-hostgator.md). 
   
-2. On the **Control Panel** page, in the **Mail** area, choose ** MX Entry **.
+2. On the **Control Panel** page, in the **Mail** area, choose **MX Entry**.
     
     (You may have to scroll down.)
     
@@ -161,11 +157,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-|**Priority**|**Destination**|
-|:-----|:-----|
-|0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. > [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**Priority**|**Destination**|
+    |:-----|:-----|
+    |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your \< *domain-key*  \> from your Office 365 portal account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-   ![Hostgator-BP-Configure-2-4](../media/cedfb530-eb60-4e0b-82cc-35a30c9c1287.png)
+    ![Hostgator-BP-Configure-2-4](../media/cedfb530-eb60-4e0b-82cc-35a30c9c1287.png)
   
 6. Choose **Add New Record**.
     
@@ -187,7 +183,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="BKMK_add_CNAME"> </a>
 
 > [!IMPORTANT]
-> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](create-dns-records-at-hostgator.md#BKMK_PointDomain). 
+> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](#point-your-domain-to-your-hosting-account). 
   
 1. To get started, go to your cPanel page at Hostgator. You'll be prompted to log in first.
     
@@ -206,16 +202,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Name**|**TTL**|**Type**|**CNAME**|
-|:-----|:-----|:-----|:-----|
-|autodiscover. *domain_name*  . (for example, autodiscover.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |autodiscover.outlook.com  <br/> |
-|sip. *domain_name*  . (for example, sip.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |sipdir.online.lync.com  <br/> |
-|lyncdiscover. *domain_name*  . (for example, lyncdiscover.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
-|msoid. *domain_name*  . (for example, msoid.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
-|enterpriseregistration. *domain_name*  .. (for example, enterpriseregistration.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment. *domain_name*  .. (for example, enterpriseregistration.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |**Name**|**TTL**|**Type**|**CNAME**|
+    |:-----|:-----|:-----|:-----|
+    |autodiscover. *domain_name*. (for example, autodiscover.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |autodiscover.outlook.com  <br/> |
+    |sip. *domain_name*. (for example, sip.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |sipdir.online.lync.com  <br/> |
+    |lyncdiscover. *domain_name*. (for example, lyncdiscover.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
+    |msoid. *domain_name*. (for example, msoid.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    |enterpriseregistration. *domain_name*. (for example, enterpriseregistration.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
+    |enterpriseenrollment. *domain_name*. (for example, enterpriseregistration.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-   ![Hostgator-BP-Configure-3-1](../media/9f9e988b-9f8a-4f7b-a6da-c04bd8e5da7c.png)
+    ![Hostgator-BP-Configure-3-1](../media/9f9e988b-9f8a-4f7b-a6da-c04bd8e5da7c.png)
   
 4. Choose **Add Record**.
     
@@ -234,7 +230,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 > You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a single SPF record that includes both sets of values. Need examples? Check out these [External Domain Name System records for Office 365](https://support.office.com/article/c0531a6f-9e25-4f2d-ad0e-a70bfef09ac0#bkmk_spfrecords). To validate your SPF record, you can use one of these [SPF validation tools](../setup/domains-faq.md). 
   
 > [!IMPORTANT]
-> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](create-dns-records-at-hostgator.md#BKMK_PointDomain). 
+> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](#point-your-domain-to-your-hosting-account). 
   
 1. To get started, go to your cPanel page at Hostgator. You'll be prompted to log in first.
     
@@ -251,11 +247,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Name**|**TTL**|**Type**|**TXT Data**|
-|:-----|:-----|:-----|:-----|
-|Use your  *domain_name*  . (for example, fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Name**|**TTL**|**Type**|**TXT Data**|
+    |:-----|:-----|:-----|:-----|
+    |Use your  *domain_name*. (for example, fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-   ![Hostgator-BP-Configure-4-1](../media/e3e6c591-2678-4b6a-b5ba-a03389a98906.png)
+    ![Hostgator-BP-Configure-4-1](../media/e3e6c591-2678-4b6a-b5ba-a03389a98906.png)
   
 4. Choose **Add Record**.
     
@@ -263,7 +259,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="BKMK_add_SRV"> </a>
 
 > [!IMPORTANT]
-> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](create-dns-records-at-hostgator.md#BKMK_PointDomain). 
+> Before you perform this procedure, you must first perform the procedure in the first section of this article, [Point your domain to your hosting account](#point-your-domain-to-your-hosting-account). 
   
 1. To get started, go to your cPanel page at Hostgator. You'll be prompted to log in first.
     
@@ -282,10 +278,10 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Type** value from the drop-down list.) 
     
-|**Name**|**TTL**|**Type**|**Priority**|**Weight**|**Port**|**Target**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|_sip._tls. *domain_name*  . (for example, _sip._tls.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |SRV  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
-|_sipfederationtls._tcp. *domain_name*  . (for example, _sipfederationtls._tcp.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |SRV  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
+    |**Name**|**TTL**|**Type**|**Priority**|**Weight**|**Port**|**Target**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |_sip._tls. *domain_name*. (for example, _sip._tls.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |SRV  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
+    |_sipfederationtls._tcp. *domain_name*. (for example, _sipfederationtls._tcp.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |SRV  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
    
    ![Hostgator-BP-Configure-5-1](../media/6a9e1afd-e9fa-4b37-b65e-689668f7eee9.png)
   

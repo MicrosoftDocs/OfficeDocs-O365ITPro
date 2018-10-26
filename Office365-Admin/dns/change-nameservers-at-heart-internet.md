@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_HI1'
 - 'O365E_DOM_HI1'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -28,11 +36,6 @@ description: "Learn how you can set up Office 365 to manage the DNS records of y
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Heart Internet](create-dns-records-at-heart-internet.md).)
   
-Here's what you need to do. ([Still need help?](change-nameservers-at-heart-internet.md#BKMK_NeedHelp))
-  
-- [Add a TXT record for verification](change-nameservers-at-heart-internet.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-heart-internet.md#BKMK_nameservers)
     
 ## Add a TXT record for verification
 
@@ -56,7 +59,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |||
 |:-----|:-----|
 |**Subdomain** <br/> |**Text** <br/> |
-|(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX* <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)      <br/>   |
    
 6. Choose **Update DNS**.
     
@@ -106,9 +109,9 @@ To complete setting up your domain with Office 365, you change your domain's NS 
   
 6. Depending on whether or not the correct nameservers are already listed on the page that is displayed now, continue to one of the two following procedures:
     
-  - If the correct nameservers **ARE** already listed, [If the correct nameservers ARE already listed](change-nameservers-at-heart-internet.md#BKMK_ProcedureWithOUT).
+  - If the correct nameservers **ARE** already listed,[go here](#if-the-correct-nameservers-are-already-listed).
     
-  - If the correct nameservers are **NOT** already listed, [If the correct nameservers are NOT already listed](change-nameservers-at-heart-internet.md#BKMK_ProcedureWITH).
+  - If the correct nameservers are **NOT** already listed, [go here](#if-the-correct-nameservers-are-not-already-listed).
     
 ### If the correct nameservers ARE already listed
 

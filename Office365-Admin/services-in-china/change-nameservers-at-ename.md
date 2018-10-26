@@ -8,7 +8,10 @@ ms.topic: get-started-article
 f1_keywords:
 - 'O365P_DOM_ENAME1'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.custom:
+- Core_O365Admin_Migration
+- domainsgallatin
 search.appverid:
 - MET150
 - GEA150
@@ -18,13 +21,8 @@ description: "Learn how you can set up Office 365 operated by 21Vianet to manage
 
 # Change nameservers to set up Office 365 with ENAME
 
-Follow these instructions if you want Office 365 operated by 21Vianet to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your DNS records at ENAME](create-dns-records-at-ename.md).)
-  
-Here's what you need to do:
-  
-- [Add a record to verify your domain](change-nameservers-at-ename.md#BKMK_add_a_record)
-    
-- [Change your domain's nameserver records](change-nameservers-at-ename.md#BKMK_change_your_domain_s_1)
+Follow the instructions below if you want Office 365 operated by 21Vianet to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your DNS records at ENAME](create-dns-records-at-ename.md).)
+
     
 ## Add a record to verify your domain
 <a name="BKMK_add_a_record"> </a>

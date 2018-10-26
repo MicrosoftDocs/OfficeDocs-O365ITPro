@@ -7,8 +7,15 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365_Setup
+localization_priority: Normal
+ms.collection:
+- Adm_O365_Domain_Core
+- Adm_O365_Setup
+ms.custom:
+- Adm_O365_FullSet
+- Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -27,18 +34,18 @@ Getting your domain set up to work with Office 365 can be challenging. The DNS s
   
 ## What's going on?
 
-- [Can't verify your domain?](find-and-fix-issues.md#BKMK_verify)
+- [Can't verify your domain?](#cant-verify-your-domain)
     
-- [Outlook isn't working?](find-and-fix-issues.md#BKMK_OutlookBroken)
+- [Outlook isn't working?](#outlook-isnt-working)
     
-- [Everyone's email got switched to Office 365 and you only wanted YOUR email to switch?](find-and-fix-issues.md#BKMK_EmailSwitched)
+- [Everyone's email got switched to Office 365 and you only wanted YOUR email to switch?](#everyones-email-got-switched-to-office-365-and-you-only-wanted-your-email-to-switch)
+
+- [Can't confirm non-profit or school account status?](#cant-confirm-non-profit-or-school-account-status)
+
+- [Services not working with your domain?](#services-not-working-with-your-domain)
     
-- [Can't confirm non-profit or school account status?](find-and-fix-issues.md#BKMK_validateAcct)
-    
-- [Services not working with your domain?](find-and-fix-issues.md#BKMK_Test)
-    
-- [Accessing your website isn't working?](find-and-fix-issues.md#BKMK_Website)
-    
+- [Accessing your website isn't working?](#accessing-your-website-isnt-working)
+
 ## Can't verify your domain?
 <a name="BKMK_verify"> </a>
 

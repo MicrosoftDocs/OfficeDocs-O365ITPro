@@ -6,8 +6,13 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- Adm_O365
+- Adm_O365_FullSet
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -33,7 +38,7 @@ Here are some of the key tasks users can do when they are assigned to the Exchan
     
 - Set up "[Send As](https://support.office.com/article/2B828C5F-41AB-4904-97B9-3B63D8129C4E.aspx)" and "[Send on Behalf](https://support.office.com/article/C5E7749D-244E-477F-998E-55D3876C22EC.aspx)" delegates for someone's mailbox. For example, an executive may want their assistant to have the ability to send mail on their behalf. 
     
-[Create a shared mailbox](../email/create-a-shared-mailbox.md#create-a-shared-mailbox)so a group of people can monitor and send email from a common email address. 
+- [Create a shared mailbox](../email/create-a-shared-mailbox.md) so a group of people can monitor and send email from a common email address. 
     
 - [Office 365 email anti-spam protection](https://docs.microsoft.com/office365/securitycompliance/anti-spam-protection) and malware filters for the organization. 
     

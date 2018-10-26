@@ -6,8 +6,12 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- Adm_O365
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -22,22 +26,12 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If Domainnameshop is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-- [Add a TXT record for verification](create-dns-records-at-domainnameshop.md#bkmk_txt)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-domainnameshop.md#bkmk_mx)
-    
-- [﻿Add the CNAME records that are required for Office 365](create-dns-records-at-domainnameshop.md#bkmk_cname)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-domainnameshop.md#bkmk_spf)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-domainnameshop.md#bkmk_srv)
-    
 After you add these records at Domainnameshop, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
 <a name="bkmk_txt"> </a>
@@ -69,11 +63,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 6. In the boxes for the new record, type or copy and paste the values from the following table. 
     
-|**﻿Host name**|**﻿TTL**|**﻿RR Type**|**﻿Data**|
-|:-----|:-----|:-----|:-----|
-|﻿(leave blank)  <br/> |1 hour  <br/> |﻿TXT  <br/> |MS=msXXXXXXXX  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**Host name**|**TTL**|**RR Type**|**Data**|
+    |:-----|:-----|:-----|:-----|
+    |(leave blank)  <br/> |1 hour  <br/> |TXT  <br/> |MS=msXXXXXXXX  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-   ![TXT record in Domainnameshop](../media/f2ec5943-5b8d-4028-90f8-4a1344264e68.png)
+    ![TXT record in Domainnameshop](../media/f2ec5943-5b8d-4028-90f8-4a1344264e68.png)
   
 7. Choose the **+** (Add) button. 
     
@@ -122,13 +116,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 6. In the boxes for the new record, type or copy and paste the values from the following table. 
     
-|**﻿Host name**|**﻿TTL**|**﻿RR Type**|**﻿Parameters (Priority)**|**﻿Data (Target)**|
-|:-----|:-----|:-----|:-----|:-----|
-|﻿(leave blank)  <br/> |﻿1 hour  <br/> |﻿MX (Mail Exchanger)  <br/> |﻿10  <br/> ﻿For more information about priority, see [What is MX priority?](https://support.office.com/article/17d415c1-067e-4974-84d5-aaeaf3a0c0a9) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**Host name**|**TTL**|**RR Type**|**Parameters (Priority)**|**Data (Target)**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |(leave blank)  <br/> |1 hour  <br/> |MX (Mail Exchanger)  <br/> |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/17d415c1-067e-4974-84d5-aaeaf3a0c0a9) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-   ![MX record in Domainnameshop](../media/0062bbcb-afb0-4a77-9d9c-c595ab4027d4.png)
+    ![MX record in Domainnameshop](../media/0062bbcb-afb0-4a77-9d9c-c595ab4027d4.png)
   
-7. ﻿Choose the **+** (Add) button. 
+7. Choose the **+** (Add) button. 
     
     ![Add MX record in Domainnameshop](../media/60ea145e-b643-4cae-80ac-e16cd0262410.png)
   
@@ -159,14 +153,14 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 6. In the boxes for the new record, type or copy and paste the values from the following table. 
     
-|**﻿Host name**|**﻿TTL**|**﻿RR Type**|**﻿Data (Target)**|
-|:-----|:-----|:-----|:-----|
-|autodiscover  <br/> |﻿1 hour  <br/> |﻿CNAME  <br/> |autodiscover.outlook.com  <br/> |
-|autodiscover  <br/> |﻿1 hour  <br/> |CNAME  <br/> |sipdir.online.lync.com  <br/> |
-|autodiscover  <br/> |﻿1 hour  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
-|msoid  <br/> |﻿1 hour  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
-|enterpriseregistration  <br/> |﻿1 hour  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |﻿1 hour  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |**Host name**|**TTL**|**RR Type**|**Data (Target)**|
+    |:-----|:-----|:-----|:-----|
+    |autodiscover  <br/> |1 hour  <br/> |CNAME  <br/> |autodiscover.outlook.com  <br/> |
+    |autodiscover  <br/> |1 hour  <br/> |CNAME  <br/> |sipdir.online.lync.com  <br/> |
+    |autodiscover  <br/> |1 hour  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
+    |msoid  <br/> |1 hour  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    |enterpriseregistration  <br/> |1 hour  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
+    |enterpriseenrollment  <br/> |1 hour  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
     ![RR record values in Domainnameshop](../media/71bfc469-23a9-4805-b64b-28098f9757e8.png)
   
@@ -178,7 +172,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="bkmk_spf"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
   
 1. To get started, go to your domains page in Domainnameshop by using [this link](https://www.domainnameshop.com/login). You'll be prompted to log in. 
     
@@ -202,11 +196,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 6. In the boxes for the new record, type or copy and paste the values from the following table. 
     
-|**﻿Host name**|**﻿TTL**|**﻿RR Type**|**﻿Data (Target)**|
-|:-----|:-----|:-----|:-----|
-|﻿(leave blank)  <br/> |1 hour  <br/> |﻿TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Host name**|**TTL**|**RR Type**|**Data (Target)**|
+    |:-----|:-----|:-----|:-----|
+    |(leave blank)  <br/> |1 hour  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-   ![TXT record in DNS record in Domainnameshop](../media/c4957cf7-ac21-4345-ad72-90fd879ac83c.png)
+    ![TXT record in DNS record in Domainnameshop](../media/c4957cf7-ac21-4345-ad72-90fd879ac83c.png)
   
 7. Choose the **+** (Add) button. 
     
@@ -233,18 +227,18 @@ To get started, go to your domains page in Domainnameshop by using [this link](h
   
 5. In the boxes for the new record, type or copy and paste the values from the following table. 
     
-|**﻿Host name**|**﻿TTL**|**﻿RR Type**|**﻿Parameters (Priority)**|**Parameters (Weight)**|**Parameters (Port)**|**﻿Data**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|_sip._tls  <br/> |﻿1 hour  <br/> |SRV (Service)  <br/> |﻿100  <br/> |﻿1  <br/> |﻿443  <br/> |sipdir.online.lync.com  <br/> |
-|_sipfederationtls._tcp  <br/> |﻿1 hour  <br/> |SRV (Service)  <br/> |﻿100  <br/> |﻿1  <br/> |﻿5061  <br/> |sipfed.online.lync.com  <br/> |
-   
-   ![SRV record in Domainnameshop](../media/6ebbf167-229a-4c58-8a83-4d1e6223f553.png)
+    |**Host name**|**TTL**|**RR Type**|**Parameters (Priority)**|**Parameters (Weight)**|**Parameters (Port)**|**Data**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |_sip._tls  <br/> |1 hour  <br/> |SRV (Service)  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
+    |_sipfederationtls._tcp  <br/> |1 hour  <br/> |SRV (Service)  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
+       
+    ![SRV record in Domainnameshop](../media/6ebbf167-229a-4c58-8a83-4d1e6223f553.png)
   
 6. Choose the **+** (Add) button. 
     
 7. Repeat the previous steps to create the other SRV record. Type or copy and paste the values from the second row of the table above into the boxes for the second record
     
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 

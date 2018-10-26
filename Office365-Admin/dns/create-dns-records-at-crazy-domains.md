@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_Crazy'
 - 'O365E_DOM_Crazy'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -28,24 +36,12 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If Crazy Domains is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-crazy-domains.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-crazy-domains.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-crazy-domains.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-crazy-domains.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-crazy-domains.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-crazy-domains.md#BKMK_add_SRV)
-    
 After you add these records at Crazy Domains, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
 <a name="BKMK_verify"> </a>
@@ -85,9 +81,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 8. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|**Sub Domain**|**Text Record**|
-|:-----|:-----|
-|(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**Sub Domain**|**Text Record**|
+    |:-----|:-----|
+    |(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
     ![CrazyDomains-BP-Verify-1-3](../media/3867de97-6a98-4475-9bda-470bac75d483.png)
   
@@ -133,7 +129,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![CrazyDomains-BP-Configure-1-3](../media/4dd7bb74-c8ed-4b4a-b4c1-d9538fc6bd9a.png)
   
-4. In the ** DNS Settings ** section, choose the drop-down list icon. 
+4. In the **DNS Settings** section, choose the drop-down list icon. 
     
     ![CrazyDomains-BP-Configure-1-4-1](../media/c7573fbf-467d-49c1-abb6-8c7b9b4af83d.png)
   
@@ -153,10 +149,10 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Priority** value from the drop-down list.) 
     
-|**Mail For Zone**|**Priority**|**Assigned To Server**|
-|:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |1  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
-   
+    |**Mail For Zone**|**Priority**|**Assigned To Server**|
+    |:-----|:-----|:-----|
+    |(Leave this field empty.)  <br/> |1  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+       
    ![CrazyDomains-BP-Configure-2-3](../media/e27df6a6-19a6-4e58-9716-a74be1c3f8da.png)
   
 9. Choose **Update**.
@@ -192,7 +188,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![CrazyDomains-BP-Configure-1-3](../media/4dd7bb74-c8ed-4b4a-b4c1-d9538fc6bd9a.png)
   
-4. In the ** DNS Settings ** section, choose the drop-down list icon. 
+4. In the **DNS Settings** section, choose the drop-down list icon. 
     
     ![CrazyDomains-BP-Configure-1-4-1](../media/c7573fbf-467d-49c1-abb6-8c7b9b4af83d.png)
   
@@ -212,16 +208,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the boxes for the new record, type or copy and paste the values from the first row of the following table.
     
-|**Sub Domain**|**Alias for**|
-|:-----|:-----|
-|autodiscover  <br/> |autodiscover.outlook.com  <br/> |
-|sip  <br/> |sipdir.online.lync.com  <br/> |
-|lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
-|msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |
-|enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
+    |**Sub Domain**|**Alias for**|
+    |:-----|:-----|
+    |autodiscover  <br/> |autodiscover.outlook.com  <br/> |
+    |sip  <br/> |sipdir.online.lync.com  <br/> |
+    |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
+    |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
+    |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
    
-   ![CrazyDomains-BP-Configure-3-3](../media/81a7b837-3f4d-4565-89a9-380e4d318acf.png)
+    ![CrazyDomains-BP-Configure-3-3](../media/81a7b837-3f4d-4565-89a9-380e4d318acf.png)
   
 9. Choose **Add CNAME Record**.
     
@@ -241,7 +237,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="BKMK_add_TXT"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
   
 1. To get started, go to your domains page at Crazy Domains by using [this link](https://manage.crazydomains.com/members/domains/). You'll be prompted to log in first.
     
@@ -255,7 +251,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![CrazyDomains-BP-Configure-1-3](../media/4dd7bb74-c8ed-4b4a-b4c1-d9538fc6bd9a.png)
   
-4. In the ** DNS Settings ** section, choose the drop-down list icon. 
+4. In the **DNS Settings** section, choose the drop-down list icon. 
     
     ![CrazyDomains-BP-Configure-1-4-1](../media/c7573fbf-467d-49c1-abb6-8c7b9b4af83d.png)
   
@@ -273,11 +269,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 8. In the boxes for the new record, type or paste the values from the following table.
     
-|**Sub Domain**|**Text Record**|
-|:-----|:-----|
-|(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Sub Domain**|**Text Record**|
+    |:-----|:-----|
+    |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-   ![CrazyDomains-BP-Configure-4-3](../media/e7fd524a-c94b-4cdd-b264-67abb532a71b.png)
+    ![CrazyDomains-BP-Configure-4-3](../media/e7fd524a-c94b-4cdd-b264-67abb532a71b.png)
   
 9. Choose **Update**.
     
@@ -298,7 +294,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![CrazyDomains-BP-Configure-1-3](../media/4dd7bb74-c8ed-4b4a-b4c1-d9538fc6bd9a.png)
   
-4. In the ** DNS Settings ** section, choose the drop-down list icon. 
+4. In the **DNS Settings** section, choose the drop-down list icon. 
     
     ![CrazyDomains-BP-Configure-1-4-1](../media/c7573fbf-467d-49c1-abb6-8c7b9b4af83d.png)
   
@@ -318,12 +314,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the boxes for the new record, type or copy and paste the values from the first row of the following table.
     
-|**Record Type**|**Sub Domain**|**Priority**|**Weight**|**Port**|**Target**|
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|SRV Record  <br/> |_sip._tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
-|SRV Record  <br/> |_sipfederationtls._tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
+    |**Record Type**|**Sub Domain**|**Priority**|**Weight**|**Port**|**Target**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|
+    |SRV Record  <br/> |_sip._tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
+    |SRV Record  <br/> |_sipfederationtls._tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
    
-   ![CrazyDomains-BP-Configure-5-3](../media/cc0ea6eb-7358-434e-bd1a-2737725c6d41.png)
+    ![CrazyDomains-BP-Configure-5-3](../media/cc0ea6eb-7358-434e-bd1a-2737725c6d41.png)
   
 9. Choose **Add SRV Record**.
     
@@ -338,5 +334,5 @@ When Office 365 finds the correct TXT record, your domain is verified.
     ![CrazyDomains-BP-Configure-5-5](../media/f0bb1dd6-3772-4293-bf74-710f635e0658.png)
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   

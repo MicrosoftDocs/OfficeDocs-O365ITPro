@@ -6,10 +6,16 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -24,11 +30,6 @@ description: "Learn to set up your Office 365 custom domain with Namecheap if yo
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Namecheap](create-dns-records-at-namecheap.md).)
   
-Here's what you need to do. ([Still need help?](create-dns-records-at-1-1-internet.md#BKMK_NeedHelp))
-  
-- [Add a TXT record for verification](change-nameservers-at-namecheap.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-namecheap.md#BKMK_nameservers)
     
 ## Add a TXT record for verification
 
@@ -126,11 +127,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
     
     ![Namecheap-BP-Redelegate-1-2](../media/7df56295-fdb3-472f-9442-13f780c2c93e.png)
   
-6. Depending on whether or not there are already nameservers listed on the page that is displayed now, continue to one of the two following procedures:
-    
-  - If there are **NO** nameservers already listed, [If there are NO nameservers already listed](change-nameservers-at-network-solutions.md#BKMK_ProcedureWithOUT).
-    
-  - If there **ARE** nameservers already listed, [If there ARE nameservers already listed](change-nameservers-at-network-solutions.md#BKMK_ProcedureWITH).
+6. Depending on whether or not there are already nameservers listed on the page that is displayed now, continue to one of the two following procedures.
     
 ### If there are NO nameservers already listed
 <a name="BKMK_ProcedureWithOUT"> </a>

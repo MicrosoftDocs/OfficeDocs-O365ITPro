@@ -10,8 +10,13 @@ f1_keywords:
 - 'O365M_ReportsPBIConnect'
 - 'O365E_ReportsPBIConnect'
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- Adm_O365
+- ContentPack
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - MET150
 - MOE150
@@ -69,11 +74,11 @@ To share the dashboards with others both the user who is sharing and the user th
 
 ### Who can connect to Microsoft 365 usage analytics?
 
-You have to be either a **global administrator**, **report reader**, **Exchange administrator**, **Skype for Business administrator**, or **SharePoint administrator**  in order to establish the connection to the content pack. See [Office 365 admin roles](../add-users/about-admin-roles.md#about-office-365-admin-roles) for more information.
+You have to be either a **global administrator**, **report reader**, **Exchange administrator**, **Skype for Business administrator**, or **SharePoint administrator**  in order to establish the connection to the content pack. See [Office 365 admin roles](../add-users/about-admin-roles.md) for more information.
 
 ### Who can customize the usage analytics dashboards and reports?
 
-Only the user who made the initial connection to the content pack can customize the dashboard or create new reports in the Power BI web interface. See [Customizing the reports in Microsoft 365 usage analytics](customize-reports.md#customize-the-reports-in-microsoft-365-usage-analytics) for instructions.
+Only the user who made the initial connection to the content pack can customize the dashboard or create new reports in the Power BI web interface. See [Customizing the reports in Microsoft 365 usage analytics](customize-reports.md) for instructions.
 
 ### Can I only customize the dashboards and reports from the Power BI web interface?
 
@@ -101,7 +106,7 @@ The majority of the reports display data for the previous 12 months. However, so
 
 ### What data is included in the content pack?
 
-The data in the content pack currently covers the same set of activity metrics available in the [activity reports](../activity-reports/activity-reports.md#activity-reports-in-the-office-365-admin-center). As reports are added to the activity reports, they will be added to the content pack in a future release.
+The data in the content pack currently covers the same set of activity metrics available in the [Activity Reports](../activity-reports/activity-reports.md). As reports are added to the activity reports, they will be added to the content pack in a future release.
 
 ### How does the data in the content pack differ from the data in the usage reports?
 
@@ -112,7 +117,7 @@ In addition, user level details in the content pack are only available for the l
 
 ### When should I use the content pack and when the usage reports?
 
-The [activity reports](../activity-reports/activity-reports.md#activity-reports-in-the-office-365-admin-center)  are a good starting point to understand usage and adoption of Office 365. The content pack combines the Office 365 usage data and your organization’s Active Directory information and enables admins to analyze the data set using the visual analytics capabilities of Power BI. This enables admins to not just visualize and analyze Office 365 usage data, but also slice it by Active Directory properties such as departments, location etc. They can also create custom reports and share the insights within their organization. 
+The [Activity Reports](../activity-reports/activity-reports.md)  are a good starting point to understand usage and adoption of Office 365. The content pack combines the Office 365 usage data and your organization’s Active Directory information and enables admins to analyze the data set using the visual analytics capabilities of Power BI. This enables admins to not just visualize and analyze Office 365 usage data, but also slice it by Active Directory properties such as departments, location etc. They can also create custom reports and share the insights within their organization. 
 
 ### How often is the data refreshed? 
 
@@ -124,7 +129,7 @@ The **Content date** column in each dataset represents the freshness date of the
 
 ### How is an active user defined?
 
-The definition of active user is the same as the definition of [active user](../activity-reports/active-users.md#office-365-reports-in-the-admin-center---active-users) in the activity reports.
+The definition of active user is the same as the definition of [active user](../activity-reports/active-users.md) in the activity reports.
 
 ### What SharePoint site collections are included in the SharePoint reports?
 
@@ -167,7 +172,7 @@ In the content pack, usage is represented at the per product level. Data about t
 
 You can use Power BI Desktop to connect to the Office 365 APIs (in preview) to bring additional data sources to combine with the content pack data.
 
-Fore more information see the [Customize document](customize-reports.md#customize-the-reports-in-microsoft-365-usage-analytics).
+Fore more information see the [Customize document](customize-reports.md).
 
 ### Is it possible to see the "Top Users" reports for a specific timeframe?
 
@@ -179,7 +184,7 @@ This is currently not on the roadmap.
 
 ### I have a specific question about the data I'm seeing for my organization. Who can I reach out to?
 
-You can use the feedback button in the Office 365 Admin center activity overview page, or you can open a [support case](../contact-support-for-business-products.md#contact-support-for-business-products---admin-help) to get help with the content pack. 
+You can use the feedback button in the Office 365 Admin center activity overview page, or you can open a [support case](../contact-support-for-business-products.md) to get help with the content pack. 
 
 ### How can partners access the data?
 

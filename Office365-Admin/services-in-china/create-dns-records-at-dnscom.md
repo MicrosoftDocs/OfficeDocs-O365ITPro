@@ -10,7 +10,11 @@ f1_keywords:
 - 'O365M_DOM_DNSCOM'
 - 'O365E_DOM_DNSCOM'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection: Adm_UI_Elements
+ms.custom:
+- Core_O365Admin_Migration
+- domainsgallatin
 search.appverid:
 - MET150
 - GEA150
@@ -25,16 +29,6 @@ description: "Learn to setup your own DNS records at DNSCOM for Office 365 opera
   
 If, despite the service limitations, you choose to manage your own Office 365 DNS records at DNSCOM, follow the steps in this article to verify your domain and set up DNS records for email, Lync, and so on.
   
-These are the main records to add.
-  
-- [Add a TXT record for verification](create-dns-records-at-dnscom.md#BKMK_verify_domain)
-    
-- [Add an MX record to route email](create-dns-records-at-dnscom.md#BKMK_add_MX)
-    
-- [Add CNAME records](create-dns-records-at-dnscom.md#BKMK_add_CNAME)
-    
-- [Add a TXT record to help prevent spam](create-dns-records-at-dnscom.md#BKMK_add_TXT)
-    
 After you add these records at DNSCOM, your domain will be set up to work with Office 365 services, though not with the Skype for Business Online and Outlook Web App features mentioned above.
   
 If you have a SharePoint Online Public Website, you can [set it up to use your custom domain for the website URL address](https://support.office.com/article/a6aa103b-d6ca-4752-bd60-b0c002d640cb), like www. *your_domain*.com. 

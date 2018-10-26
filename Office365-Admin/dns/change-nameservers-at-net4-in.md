@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_Net41'
 - 'O365E_DOM_Net41'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -28,11 +36,6 @@ description: "Learn to set up your Office 365 custom domain with Net4.in if you 
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Net4.in](https://support.office.com/article/944b89b6-8cc5-441f-add2-6b14160773c5.aspx).)
   
-Here's what you need to do. ([Still need help?](change-nameservers-at-net4-in.md#BKMK_NeedHelp))
-  
-- [Add a TXT record for verification](change-nameservers-at-net4-in.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-net4-in.md#BKMK_nameservers)
     
 ## Add a TXT record for verification
 
@@ -60,7 +63,7 @@ Here's what you need to do. ([Still need help?](change-nameservers-at-net4-in.md
     
 |**TTL**|**Type**|**Host**|**Data**|
 |:-----|:-----|:-----|:-----|
-|3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |TXT  <br/> |(This value is supplied automatically by server.)  <br/> |MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |TXT  <br/> |(This value is supplied automatically by server.)  <br/> |MS=ms *XXXXXXXX* **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)     <br/>       |
    
    ![Enter DNS values](../media/38bf58d2-7371-452d-a3d2-ca43857eddd2.png)
   

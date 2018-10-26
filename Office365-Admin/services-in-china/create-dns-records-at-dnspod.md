@@ -10,7 +10,11 @@ f1_keywords:
 - 'O365M_DOM_DNSPod'
 - 'O365E_DOM_DNSPod'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection: Adm_UI_Elements
+ms.custom:
+- Core_O365Admin_Migration
+- domainsgallatin
 search.appverid:
 - MET150
 - GEA150
@@ -21,19 +25,7 @@ description: "Learn to setup your own DNS records at DNSPod for Office 365 opera
 # Create DNS records at DNSPod for Office 365
 
 If DNSPod is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Lync, and so on.
-  
-These are the main records to add.
-  
-- [Add a TXT record for verification](create-dns-records-at-dnspod.md#BKMK_verify_domain)
-    
-- [Add MX record](create-dns-records-at-dnspod.md#BKMK_add_MX)
-    
-- [Add the CNAME records that are required for Office 365](create-dns-records-at-dnspod.md#BKMK_add_CNAME)
-    
-- [Add a TXT record to help prevent spam](create-dns-records-at-dnspod.md#BKMK_add_TXT)
-    
-- [Add SRV records](create-dns-records-at-dnspod.md#BKMK_add_SRV)
-    
+ 
 After you add these records at DNSPod, your domain will be set up to work with Office 365 services.
   
 If you have a SharePoint Online Public Website, you can [set it up to use your custom domain for the website URL address](https://support.office.com/article/6ead13cd-3e47-44ca-a7fa-a60436cc597b), like www. *your_domain*.com. 

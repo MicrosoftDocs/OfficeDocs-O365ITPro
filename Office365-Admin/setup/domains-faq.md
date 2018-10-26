@@ -11,13 +11,20 @@ f1_keywords:
 - 'O365E_O365E_ManageDNS_SwitchDNSMgt'
 - 'O365E_ManageDNS_SwitchDNSMgt'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Core
 - Adm_O365_Top
 - strat_admin_top
 ms.custom:
 - Adm_O365
 - Adm_O365_Top
+- Core_O365Admin_Migration
+- domainsfaq
+- domainstoptier
+- MiniMaven
+- strat_admin_top
 search.appverid:
 - BCS160
 - MET150
@@ -35,7 +42,6 @@ This article contains answers to Frequently Asked Questions about domains in Off
 If you can't find an answer to your question, let us know by leaving a comment and we'll add it to the list.
     
 ## What is MX priority?
-<a name="BKMK_whatismxpriority"> </a>
 
 Mail is delivered to the mail exchange server with the lowest preference number (highest priority), so the MX record you use for mail routing should have the lowest preference number, typically 0 or  *High*  priority. 
   
@@ -50,18 +56,16 @@ Mail is delivered to the mail exchange server with the lowest preference number 
 - If you have more than one, make sure the MX record for mail routing is higher priority than the one used for validating that you own the domain.
     
 ## How can I validate SPF records for my domain?
-<a name="BKMK_HowcanIvalidateSPFrecordsformydomain"> </a>
 
 It's important that you have or create **only one TXT record for SPF**. If you already have an SPF record, you should append the new Office 365 values to it, rather than create a new one. After you've added or updated your SPF record for Office 365 email, you should check to make sure that the syntax is correct with one of these tools: 
   
-- [SPF Record Testing Tools](http://www.kitterman.com/spf/validate.mdl)
+- [SPF Record Testing Tools](http://www.kitterman.com/spf/validate.html)
     
 - [SPF Surveyor](https://dmarcian.com/spf-survey/)
     
 - [Dig web interface](http://digwebinterface.com/)
     
 ## How does Office 365 manage my DNS records?
-<a name="BKMK_HowdoesOffice365managemyDNSrecords"> </a>
 
 There are two options for DNS management with Office 365:
   
@@ -93,7 +97,7 @@ You have to set up the DNS records for Office 365 services yourself (unless you 
 - When Office 365 changes requirements for DNS records, or adds new services, you have to make updates yourself at your DNS host. 
    
 ## What is a domain name?
-<a name="bkmk_Whatisadomainname"> </a>
+
 
 A domain is a unique name that appears after the **@** sign in email addresses, and after **www.** in web addresses. It typically takes the form of your organization's name and a standard Internet suffix, such as  *yourbusiness.com*  or  *stateuniversity.edu.* 
   
@@ -102,7 +106,6 @@ Using a custom domain like " **rob@contoso.com** " with Office 365 can help buil
 You can [buy a domain in Office 365 and we'll set it up automatically](../get-help-with-domains/buy-a-domain-name.md), or you can buy or bring one you already own from a domain registrar.
   
 ## Can I transfer my domain away from Office 365 to another provider?
-<a name="bkmk_CanItransfermydomainawayfromOffice365toanotherprovider"> </a>
 
 Yes, but you can't transfer an Office 365 domain to another registrar until 60 days after you registered it with Office 365.
   
@@ -129,7 +132,6 @@ Follow the steps below to get the code at Office 365, and then go to the other d
 8. To finish the process, go back to the Admin center **Domains** page and choose **Complete Domain Transfer**. 
     
 ## How do I change how my DNS records are managed in Office 365?
-<a name="bkmk_HowdoIchangehowmyDNSrecordsare"> </a>
 
 ### Change DNS management to a DNS host outside Office 365
 
@@ -180,7 +182,6 @@ Follow the steps below to get the code at Office 365, and then go to the other d
 4. After you've updated the nameservers, **wait at least an hour**. Then, back in the wizard in Office 365, choose **Verify**.
     
 ## What happens if my DNS provider doesn't support certain record types?
-<a name="bkmk_WhathappensifmyDNSproviderdoesntsupport"> </a>
 
 If you manage your own DNS records and your DNS host does not support all the DNS records that Office 365 needs, some Office 365 features won't work. We recommend that you transfer your domain to a registrar that supports all required DNS records.
   
@@ -229,7 +230,6 @@ Providers that support all required DNS records:
  **If SPF/TXT records are not supported**, other people may be able to use your domain to send spam or other malicious email. SPF records work by identifying the servers that are authorized to send email from your domain. 
   
 ## How do I change the default domain in Office 365?
-<a name="bkmk_HowdoIchangethedefaultdomaininOffice365"> </a>
 
 You must have at least one custom domain that you've added to Office 365 before you can choose a default domain.
   
@@ -262,7 +262,6 @@ You cannot change the name of your initial  *.partner.onmschina.cn*  domain.
 ::: moniker-end
 
 ## Can I add custom subdomains or multiple domains to Office 365?
-<a name="bkmk_CanIaddcustomsubdomainsormultipledomainstoOffice365"> </a>
 
 ::: moniker range="o365-worldwide"
 
@@ -292,7 +291,6 @@ When you add multiple domains to Office 365, you can host any of the services (l
  
 ::: moniker range="o365-worldwide"
 ## Why do I have an "onmicrosoft.com" domain?
-<a name="bkmk_CanIaddcustomsubdomainsormultipledomainstoOffice365"> </a>
 
 Office 365 creates a domain for you, like  *contoso.onmicrosoft.com*  , when you sign up with the service. The user ID that you create when you sign up includes the domain, like  *alan@contoso.onmicrosoft.com*  . 
   
@@ -310,7 +308,6 @@ You can keep using the initial onmicrosoft.com domain even after you add your do
 
 ::: moniker range="o365-germany"
 ## Why do I have an "onmicrosoft.de" domain?
-<a name="bkmk_CanIaddcustomsubdomainsormultipledomainstoOffice365"> </a>
 
 Office 365 creates a domain for you, like  *contoso.onmicrosoft.de*  , when you sign up with the service. The user ID that you create when you sign up includes the domain, like  *alan@contoso.onmicrosoft.de*  . 
   
@@ -327,7 +324,6 @@ You can keep using the initial onmicrosoft.de domain even after you add your dom
 ::: moniker-end
 
 ## How do I verify my nonprofit or education status?
-<a name="bkmk_verifynonprofit"> </a>
 
 1. Choose **Setup** in the [Office 365 admin center](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791 .aspx) to start the wizard. (Be sure to sign in to Office 365 first.) 
     
@@ -342,7 +338,6 @@ Have a nonprofit and want to get Office 365? [Make sure your organization qualif
 Want to know more about becoming the Office 365 admin for your school? [Learn all about it](https://go.microsoft.com/fwlink/?LinkId=512141).
   
 ## Can I pilot Office 365 with just a few email addresses from my custom domain?
-<a name="bkmk_pilot"> </a>
 
 You can, but there are limitations:
   
@@ -417,7 +412,7 @@ You can, but there are limitations:
         
 6. Update DNS records at your DNS hosting provider
     
-    1. Sign in to your DNS hosting provider's website, and follow the [Create DNS records at any DNS hosting provider for Office 365 steps](../dns/create-dns-records-at-any-dns-hosting-provider-0.md). **Make the following exceptions:**
+    1. Sign in to your DNS hosting provider's website, and follow the [Create DNS records at any DNS hosting provider for Office 365 steps](../get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md). **Make the following exceptions:**
     
         1. Do not create a new MX record or change your existing MX record.
             

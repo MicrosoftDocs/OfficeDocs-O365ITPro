@@ -10,7 +10,11 @@ f1_keywords:
 - 'O365M_DOM_22cn'
 - 'O365E_DOM_22cn'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection: Adm_UI_Elements
+ms.custom:
+- Core_O365Admin_Migration
+- domainsgallatin
 search.appverid:
 - MET150
 - GEA150
@@ -24,17 +28,7 @@ description: "Learn to setup your own DNS records at 22.cn for Office 365 operat
 > The 22.cn website doesn't support SRV records, which means that several Skype for Business Online and Outlook Web App features won't work. No matter which Office 365 operated by 21Vianet plan you use, there are significant [service limitations](https://support.office.com/article/dfbb03e3-08c1-4c4e-b2f0-891665b29b77), and you may want to switch to a different DNS hosting provider. 
   
 If, despite the service limitations, you choose to manage your own Office 365 DNS records at 22.cn, follow the steps in this article to verify your domain and set up DNS records for email, Lync, and so on.
-  
-These are the main records to add.
-  
-- [Add a TXT record for verification](create-dns-records-at-22-cn.md#BKMK_verify_domain)
-    
-- [Add MX record](create-dns-records-at-22-cn.md#BKMK_add_MX)
-    
-- [Add CNAME records](create-dns-records-at-22-cn.md#BKMK_add_CNAME)
-    
-- [Add a TXT record to help prevent spam](create-dns-records-at-22-cn.md#BKMK_add_TXT)
-    
+     
 After you add these records at 22.cn, your domain will be set up to work with Office 365 services, though not with the Skype for Business Online and Outlook Web App features mentioned above.
   
 If you have a SharePoint Online Public Website, you can [set it up to use your custom domain for the website URL address](https://support.office.com/article/458df053-2c8f-4d96-9488-4d2f1aa01e68), like www. *your_domain*.com. 

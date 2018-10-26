@@ -33,13 +33,21 @@ f1_keywords:
 - 'O365E_DomainsMain_AddDomain'
 - 'O365E_DomainsDNSSettings_ConfigDNS'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection:
-- Adm_O365_Top
-- strat_admin_top
-ms.custom:
 - Adm_O365_Setup
 - Adm_O365_Top
+- Adm_UI_Elements
+- strat_admin_top
+ms.custom:
+- Adm_O365_FullSet
+- Adm_O365_Setup
+- Adm_O365_Top
+- Core_O365Admin_Migration
+- domainstoptier
+- MiniMaven
+- SaRA
+- strat_admin_top
 search.appverid:
 - BCS160
 - MET150
@@ -102,7 +110,7 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
     
     ![Add these records](../media/81862586-7393-4ad3-9d4e-d7183e91b1b9.png)
   
-    If the portal doesn't recognize your registrar, you can [follow these general instructions.](../dns/create-dns-records-at-any-dns-hosting-provider-0.md)
+    If the portal doesn't recognize your registrar, you can [follow these general instructions.](../get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md)
     
     Check our list of [host-specific instructions](https://support.office.com/article/ae950c9e-e8d9-4108-b0cb-449156998580) to find your host and follow the steps to add all the records you need. 
     

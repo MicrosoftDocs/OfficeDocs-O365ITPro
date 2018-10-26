@@ -17,13 +17,19 @@ f1_keywords:
 - 'O365E_SCBlockedUsers'
 - 'O365E_AdminODSettsSignOut'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection:
+- Adm_O365
 - Adm_O365_Top
 - strat_admin_top
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Top
+- Core_O365Admin_Migration
+- MiniMaven
+- ScenarioChain
+- strat_admin_top
 search.appverid:
 - BCS160
 - MET150
@@ -71,7 +77,7 @@ Within an hour - or after they click out of the current Office 365 page they are
   
 To use PowerShell to sign out a user immediately, see [Revoke-AzureADUserAllRefreshToken](https://go.microsoft.com/fwlink/?linkid=841345) cmdlet. 
   
-For more information about how long it takes to get someone out of email, see [What you need to know about terminating an employee's email session](remove-former-employee.md#bkmk_session).
+For more information about how long it takes to get someone out of email, see [What you need to know about terminating an employee's email session](#what-you-need-to-know-about-terminating-an-employees-email-session).
   
 ## Overview of all the steps to remove an employee and secure data
 <a name="bkmk_now"> </a>
@@ -86,16 +92,14 @@ Here's a quick overview. Each step is explained in detail in this article.
 |||
 |:-----|:-----|
 |**Step** <br/> |**Why do this** <br/> |
-|
-|1. [Save the contents of a former employee's mailbox](remove-former-employee.md#bkmk_preserve) <br/> |This is useful for the person who is going to take over the employee's work, or in case of litigation.  <br/> |
-|2. [Forward a former employee's email to another employee or convert to a shared mailbox](remove-former-employee.md#bkmk_forward) <br/> |This lets you keep the former employee's email address active. If you have customers or partners still sending email to the former employee's address, this gets them to the person taking over the work.  <br/> |
-|3. [Wipe and block a former employee's mobile device](remove-former-employee.md#bkmk_mobile) <br/> |Removes your business data from the phone or tablet.  <br/> |
-|
-|4. [Block a former employee's access to Office 365 data](remove-former-employee.md#bkmk_block) <br/> |It prevents the person from accessing their old Office 365 mailbox and data.  <br/><br/> **Tip**: When you block a user's access, you're still paying for their license. You have to delete the license from your subscription to stop paying for it (step 5).           |
+|1. [Save the contents of a former employee's mailbox](#save-the-contents-of-a-former-employees-mailbox) <br/> |This is useful for the person who is going to take over the employee's work, or in case of litigation.  <br/> |
+|2. [Forward a former employee's email to another employee or convert to a shared mailbox](#forward-a-former-employees-email-to-another-employee-or-convert-to-a-shared-mailbox) <br/> |This lets you keep the former employee's email address active. If you have customers or partners still sending email to the former employee's address, this gets them to the person taking over the work.  <br/> |
+|3. [Wipe and block a former employee's mobile device](#wipe-and-block-a-former-employees-mobile-device) <br/> |Removes your business data from the phone or tablet.  <br/> |
+|4. [Block a former employee's access to Office 365 data](#block-a-former-employees-access-to-office-365-data)<br/> |It prevents the person from accessing their old Office 365 mailbox and data.  <br/><br/> **Tip**: When you block a user's access, you're still paying for their license. You have to delete the license from your subscription to stop paying for it (step 5).           |
 |5. [Move the employee's OneDrive content](get-access-to-and-back-up-a-former-user-s-data.md) <br/> |If you only remove a user's license but don't delete the account, the content in the user's OneDrive will remain accessible to you even after 30 days.  <br/><br/> Before you delete the account, you should move the content of their OneDrive to another location that's easy for you to access. After you delete an employee's account, the content in their OneDrive is retained for **30** days. During that 30 days, however, you can restore the user's account, and gain access to their OneDrive content. If you restore the user's account, the OneDrive content will remain accessible to you even after 30 days.  <br/> |
 |5a. What if the person used their personal computer to access OneDrive and SharePoint?  <br/> |If they used a personal computer instead of a company-issued computer to download files from OneDrive and SharePoint, there's no way for you to wipe those files they stored.  <br/><br/> They will continue to have access to any files that were synced to their computer.  <br/> |
-|6. [Remove and delete the Office 365 license from a former employee](remove-former-employee.md#bkmk_remove) <br/> |When you remove a license, you can assign it to someone else. Or, you can delete the license so you don't pay for it until you hire another person.  <br/><br/> When you remove or delete a license, the user's old email, contacts, and calendar are retained for **30 days**, then permanently deleted. If you remove or delete a license but don't delete the account, the content in the user's OneDrive will remain accessible to you even after 30 days.  <br/> |
-|7. [Delete a former employee's user account](remove-former-employee.md#bkmk_delete) <br/> |This removes the account from your Office 365 admin center. Keeps things clean.  <br/> |
+|6. [Remove and delete the Office 365 license from a former employee](#remove-and-delete-the-office-365-license-from-a-former-employee)<br/> |When you remove a license, you can assign it to someone else. Or, you can delete the license so you don't pay for it until you hire another person.  <br/><br/> When you remove or delete a license, the user's old email, contacts, and calendar are retained for **30 days**, then permanently deleted. If you remove or delete a license but don't delete the account, the content in the user's OneDrive will remain accessible to you even after 30 days.  <br/> |
+|7. [Delete a former employee's user account](#delete-a-former-employees-user-account)<br/> |This removes the account from your Office 365 admin center. Keeps things clean.  <br/> |
    
 ## Save the contents of a former employee's mailbox
 <a name="bkmk_preserve"> </a>
@@ -210,7 +214,7 @@ If your former employee had a organization phone, you can use the Exchange admin
 <a name="bkmk_block"> </a>
 
  > [!IMPORTANT] 
- > Blocking an account can take up to 24 hours to take effect. If you need to immediately prevent a user's sign-in access, you should [reset their password](reset-passwords.md) and then initiate a one-time event that will sign them out of Office 365 sessions across all devices. See [Sign out now!](remove-former-employee.md#bkmk_now)
+ > Blocking an account can take up to 24 hours to take effect. If you need to immediately prevent a user's sign-in access, you should [reset their password](reset-passwords.md) and then initiate a one-time event that will sign them out of Office 365 sessions across all devices. See [Sign out now!](#sign-out-now)
   
 To block a user from signing in and accessing Office 365 data:
   

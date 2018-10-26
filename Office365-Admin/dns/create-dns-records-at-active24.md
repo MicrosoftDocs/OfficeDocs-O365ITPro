@@ -6,10 +6,16 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -24,18 +30,6 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If Active24 is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-active24.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-active24.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-active24.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-active24.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-active24.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-active24.md#BKMK_add_SRV)
-    
 After you add these records at Active24, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
@@ -59,7 +53,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     ![Active24-BP-Configure-1-2](../media/487b9930-6a61-46b5-824b-1f87026210ce.png)
   
-3. Under **Domain details:  *domain_name* **, choose **DNS administration**.
+3. Under **Domain details:  *(**domain_name***, choose **DNS administration**.
     
     ![Active24-BP-Configure-1-3](../media/0220173b-f73d-4659-a7d1-6f607afbb6d8.png)
   
@@ -69,10 +63,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 5. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|**Name**|**TTL**|**Text**|
-|:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |3600  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
-   
+    |**Name**|**TTL**|**Text**|
+    |:-----|:-----|:-----|
+    |(Leave this field empty.)  <br/> |3600  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+       
     ![Active24-BP-Verify-1-2](../media/ce5bc8bf-2809-4fe4-bcb8-2a281247ce35.png)
   
 6. Choose **Create**.
@@ -100,7 +94,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add an MX record so email for your domain will come to Office 365
 <a name="BKMK_add_MX"> </a>
@@ -113,7 +107,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Active24-BP-Configure-1-2](../media/487b9930-6a61-46b5-824b-1f87026210ce.png)
   
-3. Under **Domain details:  *domain_name* **, choose **DNS administration**.
+3. Under **Domain details: ***domain_name***, choose **DNS administration**.
     
     ![Active24-BP-Configure-1-3](../media/0220173b-f73d-4659-a7d1-6f607afbb6d8.png)
   
@@ -123,9 +117,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 5. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|**Name**|**TTL**|**Priority**|**MailServer**|
-|:-----|:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |3600  <br/> |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**Name**|**TTL**|**Priority**|**MailServer**|
+    |:-----|:-----|:-----|:-----|
+    |(Leave this field empty.)  <br/> |3600  <br/> |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
    ![Active24-BP-Configure-2-2](../media/646f782f-46a9-4220-abe3-33492680260a.png)
   
@@ -152,7 +146,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Active24-BP-Configure-1-2](../media/487b9930-6a61-46b5-824b-1f87026210ce.png)
   
-3. Under **Domain details:  *domain_name* **, choose **DNS administration**.
+3. Under **Domain details:  ***domain_name***, choose **DNS administration**.
     
     ![Active24-BP-Configure-1-3](../media/0220173b-f73d-4659-a7d1-6f607afbb6d8.png)
   
@@ -164,16 +158,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the boxes for the new records, type or copy and paste the values from the first row of the following table.
     
-|**Name**|**TTL**|**Alias to**|
-|:-----|:-----|:-----|
-|autodiscover  <br/> |3600  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|sip  <br/> |3600  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|lyncdiscover  <br/> |3600  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|msoid  <br/> |3600  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
-|enterpriseregistration  <br/> |3600  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
-|enterpriseenrollment  <br/> |3600  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |**Name**|**TTL**|**Alias to**|
+    |:-----|:-----|:-----|
+    |autodiscover  <br/> |3600  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |sip  <br/> |3600  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |lyncdiscover  <br/> |3600  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |msoid  <br/> |3600  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
+    |enterpriseregistration  <br/> |3600  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
+    |enterpriseenrollment  <br/> |3600  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
-   ![Active24-BP-Configure-3-2](../media/51f796b3-67ed-4eba-a32f-cd283aa6ccba.png)
+    ![Active24-BP-Configure-3-2](../media/51f796b3-67ed-4eba-a32f-cd283aa6ccba.png)
   
 6. Choose **Create**.
     
@@ -187,8 +181,8 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="BKMK_add_TXT"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
-  
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
+
 1. To get started, go to your domains page at Active24 by using [this link](https://customer.active24.com/login.jsp). You'll be prompted to Log In first.
     
     ![Active24-BP-Configure-1-1](../media/33a223fd-57af-415c-9c5d-df18b1dee13d.png)
@@ -197,7 +191,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Active24-BP-Configure-1-2](../media/487b9930-6a61-46b5-824b-1f87026210ce.png)
   
-3. Under **Domain details:  *domain_name* **, choose **DNS administration**.
+3. Under **Domain details:  ***domain_name***, choose **DNS administration**.
     
     ![Active24-BP-Configure-1-3](../media/0220173b-f73d-4659-a7d1-6f607afbb6d8.png)
   
@@ -207,11 +201,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 5. In the boxes for the new record, type or copy and paste the values from the following table.
     
-|**Name**|**TTL**|**Text**|
-|:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |3600  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Name**|**TTL**|**Text**|
+    |:-----|:-----|:-----|
+    |(Leave this field empty.)  <br/> |3600  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-   ![Active24-BP-Configure-4-2](../media/da9378c2-56a0-42a8-bea0-179bfa6cb414.png)
+    ![Active24-BP-Configure-4-2](../media/da9378c2-56a0-42a8-bea0-179bfa6cb414.png)
   
 6. Choose **Create**.
     
@@ -228,7 +222,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Active24-BP-Configure-1-2](../media/487b9930-6a61-46b5-824b-1f87026210ce.png)
   
-3. Under **Domain details:  *domain_name* **, choose **DNS administration**.
+3. Under **Domain details:  ***domain_name***, choose **DNS administration**.
     
     ![Active24-BP-Configure-1-3](../media/0220173b-f73d-4659-a7d1-6f607afbb6d8.png)
   
@@ -240,10 +234,10 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the boxes for the new records, type or copy and paste the values from the first row of the following table.
     
-|**Name**|**TTL**|**Priority**|**Weight**|**Port**|**Target**|
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|_sip._tls  <br/> |3600  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-|_sipfederationtls._tcp  <br/> |3600  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |**Name**|**TTL**|**Priority**|**Weight**|**Port**|**Target**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|
+    |_sip._tls  <br/> |3600  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |_sipfederationtls._tcp  <br/> |3600  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
     ![Active24-BP-Configure-5-2](../media/47f6b0d8-c39f-4028-8339-038a7f20a5a3.png)
   

@@ -8,7 +8,10 @@ ms.topic: get-started-article
 f1_keywords:
 - 'O365P_DOM_Oray1'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.custom:
+- Core_O365Admin_Migration
+- domainsgallatin
 search.appverid:
 - MET150
 - GEA150
@@ -18,13 +21,8 @@ description: "Learn how you can set up Office 365 operated by 21Vianet to manage
 
 # Change nameservers to set up Office 365 with Oray
 
-Follow these instructions if you want Office 365 operated by 21Vianet to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your DNS records at Oray](create-dns-records-at-oray.md).)
-  
-Here's what you need to do:
-  
-- [Add a TXT record to verify that you own the domain](change-nameservers-at-oray.md#BKMK_add_a_record)
-    
-- [Change your domain's nameserver records](change-nameservers-at-oray.md#BKMK_change_your_domain_s_1)
+Follow the instructions below if you want Office 365 operated by 21Vianet to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your DNS records at Oray](create-dns-records-at-oray.md).)
+
     
 ## Find your DNS records at Oray
 <a name="BKMK_find_your_dns"> </a>
@@ -45,7 +43,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 1. On the Oray website, open the DNS records page for your domain. 
     
-    To find the DNS records page for your domain, see [Find your DNS records at Oray](change-nameservers-at-oray.md#BKMK_find_your_dns).
+    To find the DNS records page for your domain, see [Find your DNS records at Oray](#find-your-dns-records-at-oray).
     
 2. In the **域名解析设置** (DNS record management) list, click the **@** subdomain name. 
     

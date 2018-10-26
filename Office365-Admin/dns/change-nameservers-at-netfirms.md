@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_Netf1'
 - 'O365E_DOM_Netf1'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -28,11 +36,6 @@ description: "Learn to set up your Office 365 custom domain with Netfirms if you
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Netfirms](create-dns-records-at-netfirms.md).)
   
-Here's what you need to do. (Need more help? [Still need help?](change-nameservers-at-netfirms.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](change-nameservers-at-netfirms.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-netfirms.md#BKMK_nameservers)
     
 ## Add a TXT record for verification
 
@@ -57,6 +60,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|
 |**Content** <br/> |
 |MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |
+||
    
 7. Choose **Add**.
     
@@ -102,11 +106,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
     
     ![Netfirms-BP-Redelegate-1-2-1](../media/94de7177-f059-4e89-9552-2fee901595bf.png)
   
-6. Depending on whether or not there are already nameservers listed on the page that is displayed now, continue to one of the two following procedures:
-    
-  - If there are **NO** nameservers already listed, [If the correct nameservers ARE already listed](change-nameservers-at-netfirms.md#BKMK_ProcedureWithOUT).
-    
-  - If there **ARE** nameservers already listed, [If the correct nameservers are NOT already listed](change-nameservers-at-netfirms.md#BKMK_ProcedureWITH).
+6. Depending on whether or not there are already nameservers listed on the page that is displayed now, continue to one of the two following procedures.
     
 ### If the correct nameservers ARE already listed
 

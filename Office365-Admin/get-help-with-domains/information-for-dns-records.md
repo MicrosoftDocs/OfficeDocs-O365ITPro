@@ -7,13 +7,20 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection:
+- Adm_O365_Domain_Core
+- Adm_O365_Setup
 - Adm_O365_Top
 - strat_admin_top
 ms.custom:
+- Adm_O365_FullSet
 - Adm_O365_Setup
 - Adm_O365_Top
+- Core_O365Admin_Migration
+- domainstoptier
+- MiniMaven
+- strat_admin_top
 search.appverid:
 - BCS160
 - MET150
@@ -41,7 +48,7 @@ description: "Learn to find the values/information you need to create DNS record
     
 4. Copy the **TXT value** shown. It looks like this: **MS=msXXXXXXXX**. 
     
-5. Go to [Create DNS records at any DNS hosting provider for Office 365](../dns/create-dns-records-at-any-dns-hosting-provider-0.md), and select your DNS host from the list of registrars to see the step-by-step instructions.
+5. Go to [Create DNS records at any DNS hosting provider](create-dns-records-at-any-dns-hosting-provider.md), and select your DNS host from the list of registrars to see the step-by-step instructions.
     
 6. Follow the steps for creating the TXT record (or MX record) at your DNS host, then verify the domain back in Office 365.
     
@@ -61,6 +68,6 @@ description: "Learn to find the values/information you need to create DNS record
     
     The groups of DNS records that are listed on the page depend on your choices listed under **Domain purpose**.
     
-4. Go to [Create DNS records at any DNS provider for Office 365](https://support.office.com/article/b0f3fdca-8a80-4e8e-9ef3-61e8a2a9ab23.aspx), and then select your DNS host from the list of registrars to see step-by-step instructions for adding records at that DNS host's website.
+4. Go to [Create DNS records at any DNS hosting provider](create-dns-records-at-any-dns-hosting-provider.md), and then select your DNS host from the list of registrars to see step-by-step instructions for adding records at that DNS host's website.
     
 5. Follow the steps for creating the records at your DNS host.

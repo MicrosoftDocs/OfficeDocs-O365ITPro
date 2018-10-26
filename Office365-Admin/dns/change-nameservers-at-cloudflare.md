@@ -6,10 +6,16 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -33,14 +39,6 @@ Follow these procedures if at least one of the following three statements descri
 - You want Office 365 to manage your DNS records for you. (If you prefer, you can [manage your own DNS records](create-dns-records-at-cloudflare.md).
     
     Your domain is hosted at a DNS hosting provider or domain registrar that is not listed in the article [How to buy a domain name](../get-help-with-domains/buy-a-domain-name.md).
-    
-Here's what you need to do. (Need more help? [Get support](https://support.office.com/article/fb8b07ce-6d9d-4616-96f0-20b093911531e.aspx#BKMK_NeedHelp).)
-  
-- [Delete your Cloudflare domain](fb8b07ce-6d9d-4616-96f0-20b093911531.md#BKMK_delete)
-    
-- [Add a TXT or MX record for verification](fb8b07ce-6d9d-4616-96f0-20b093911531.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](fb8b07ce-6d9d-4616-96f0-20b093911531.md#BKMK_nameservers)
     
 ## Delete your Cloudflare domain
 
@@ -100,13 +98,13 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 |**Record Type**|**Alias or Host Name**|**Value**|**TTL**|
 |:-----|:-----|:-----|:-----|
-|TXT  <br/> |(Type or copy and paste either ** @ ** or your ** *domain_name* **.)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Set this value to **1 hour** or to the equivalent in minutes ( **60**), sections ( **3600**), and so on.  <br/> |
+|TXT  <br/> |(Type or copy and paste either **@** or your **domain_name**.)  <br/> |MS=ms XXXXXXXX  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/>  |Set this value to **1 hour** or to the equivalent in minutes ( **60**), sections ( **3600**), and so on.  <br/> |
    
 2. If you create an **MX** record, use the values in the following table. 
     
 |**Record Type**|**Alias or Host Name**|**Value**|**Priority**|**TTL**|
 |:-----|:-----|:-----|:-----|:-----|
-|MX|(Type or copy and paste either ** @ ** or your ** *domain_name* **.) |MS=ms *XXXXXXXX* > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |For **Priority**, to avoid conflicts with the MX record used for mail flow, use a lower priority for any existing MX records.|Set this value to **1 hour** or to the equivalent in minutes ( **60**), sections ( **3600**), and so on.|
+|MX|(Type or copy and paste either ** @ ** or your ** *domain_name* **.) |MS=ms *XXXXXXXX* This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |For **Priority**, to avoid conflicts with the MX record used for mail flow, use a lower priority for any existing MX records.|Set this value to **1 hour** or to the equivalent in minutes ( **60**), sections ( **3600**), and so on.|
    
 3. Save the record.
     

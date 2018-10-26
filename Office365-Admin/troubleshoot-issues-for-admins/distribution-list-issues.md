@@ -6,7 +6,10 @@ manager: scotv
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.custom:
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150

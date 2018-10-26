@@ -8,8 +8,15 @@ ms.topic: article
 f1_keywords:
 - 'O365E_ReportsODActivity'
 ms.service: o365-administration
-localization_priority: Priority
-ms.collection: Strat_OD_admin
+localization_priority: Normal
+ms.collection:
+- IT_OneDriveAdmin
+- IT_OneDriveAdmin_Top
+- Strat_OD_admin
+ms.custom:
+- Core_O365Admin_Migration
+- MiniMaven
+- Strat_OD_admin
 search.appverid:
 - BCS160
 - MET150

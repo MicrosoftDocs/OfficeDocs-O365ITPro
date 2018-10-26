@@ -6,10 +6,16 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -24,22 +30,10 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If Namecheap is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-1-1-internet.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-namecheap.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-namecheap.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-namecheap.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-namecheap.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-namecheap.md#BKMK_add_SRV)
-    
 After you add these records at Namecheap, your domain will be set up to work with Office 365 services.
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
 <a name="BKMK_verify"> </a>
@@ -82,11 +76,11 @@ Follow the steps below.
     
     (Select the **TTL** value from the drop-down list.) 
     
-|**Type**|**Host**|**Value**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|TXT  <br/> |@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |30 min  <br/> |
-   
-  ![Namecheap-BP-Verify-1-2](../media/fe75c0fd-f85c-4bef-8068-edaf9779b7f1.png)
+    |**Type**|**Host**|**Value**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |TXT  <br/> |@  <br/> |MS=ms *XXXXXXXX*  <br/>**Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |30 min  <br/> |
+       
+    ![Namecheap-BP-Verify-1-2](../media/fe75c0fd-f85c-4bef-8068-edaf9779b7f1.png)
   
 8. Choose the **Save Changes** (check mark) control. 
     
@@ -113,9 +107,8 @@ When Office 365 finds the correct TXT record, your domain is verified.
     ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
-  
-[Back to top](create-dns-records-at-namecheap.md#BKMK_BackToTopTarget)
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+
   
 ## Add an MX record so email for your domain will come to Office 365
 <a name="BKMK_add_MX"> </a>
@@ -152,11 +145,11 @@ Follow the steps below.
     
     (The **Priority** box is the unnamed box to the right of the **Value** box. Select the **TTL** value from the drop-down list.) 
     
-|**Type**|**Host**|**Value**|**Priority**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|
-|MX Record  <br/> |@  <br/> |\< *domain-key*  \>.mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |30 min  <br/> |
-   
-  ![Namecheap-BP-Configure-2-2-2](../media/f3b76d62-5022-48c1-901b-8615a8571309.png)
+    |**Type**|**Host**|**Value**|**Priority**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |MX Record  <br/> |@  <br/> |\<*domain-key*\>.mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |30 min  <br/> |
+       
+    ![Namecheap-BP-Configure-2-2-2](../media/f3b76d62-5022-48c1-901b-8615a8571309.png)
   
 8. Choose the **Save Changes** (check mark) control. 
     
@@ -173,8 +166,7 @@ Follow the steps below.
     ![Namecheap-BP-Configure-2-5](../media/85ebc0c7-8787-43ee-9e7b-647375b3345c.png)
   
     Remove all MX records except for the one that you added earlier in this procedure.
-    
-[Back to top](create-dns-records-at-namecheap.md#BKMK_BackToTopTarget)
+
   
 ## Add the six CNAME records that are required for Office 365
 <a name="BKMK_add_CNAME"> </a>
@@ -210,31 +202,30 @@ Follow the steps below.
   
 7. In the empty boxes for the new record, select **CNAME** for the **Record Type**, and then type or copy and paste the values from the first row in the following table.
     
-|**Type**|**Host**|**Value**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-|CNAME  <br/> |sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-|CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-|CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-|CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-|CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
-   
-  ![Namecheap-BP-Configure-3-2](../media/f79c5679-34eb-4544-8517-caa2e8a4111a.png)
+    |**Type**|**Host**|**Value**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+    |CNAME  <br/> |sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+    |CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+    |CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+    |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+    |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |
+       
+    ![Namecheap-BP-Configure-3-2](../media/f79c5679-34eb-4544-8517-caa2e8a4111a.png)
   
 8. Choose the **Save Changes** (check mark) control. 
     
     ![Namecheap-BP-Configure-3-3](../media/91a5cce4-ca41-41ec-b976-aafe681a4d68.png)
   
 9. Using the preceding four steps and the values from the other five rows in the table, add each of the other five CNAME records.
-    
-[Back to top](create-dns-records-at-namecheap.md#BKMK_BackToTopTarget)
+
   
 ## Add a TXT record for SPF to help prevent email spam
 <a name="BKMK_add_TXT"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
-  
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
+
 Follow the steps below.
   
 1. To get started, go to your domains page at Namecheap by using [this link](https://www.namecheap.com/myaccount/login.aspx?ReturnUrl=%2f). You'll be prompted to Sign in and Continue.
@@ -266,17 +257,15 @@ Follow the steps below.
     
     (Select the **TTL** value from the drop-down list.) 
     
-|**Type**|**Host**|**Value**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|TXT  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |30 min  <br/> |
-   
-  ![Namecheap-BP-Configure-4-2](../media/ea0829f1-990b-424b-b26e-9859468318dd.png)
+    |**Type**|**Host**|**Value**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |TXT  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |30 min  <br/> |
+       
+    ![Namecheap-BP-Configure-4-2](../media/ea0829f1-990b-424b-b26e-9859468318dd.png)
   
 8. Choose the **Save Changes** (check mark) control. 
     
     ![Namecheap-BP-Configure-4-3](../media/f2846c36-ace3-43d8-be5d-a65e2c267619.png)
-  
-[Back to top](create-dns-records-at-namecheap.md#BKMK_BackToTopTarget)
   
 ## Add the two SRV records that are required for Office 365
 <a name="BKMK_add_SRV"> </a>
@@ -310,12 +299,12 @@ Follow the steps below.
   
 7. In the empty boxes for the new records, type or copy and paste the values from the first row in the following table.
     
-|**Service**|**Protocol**|**Priority**|**Weight**|**Port**|**Target**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|_sip  <br/> |_tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |30 min  <br/> |
-|_sipfederationtls  <br/> |_tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |30 min  <br/> |
-   
- ![Namecheap-BP-Configure-5-2](../media/ff9566ea-0096-4b7f-873c-027080a23b56.png)
+    |**Service**|**Protocol**|**Priority**|**Weight**|**Port**|**Target**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |_sip  <br/> |_tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |30 min  <br/> |
+    |_sipfederationtls  <br/> |_tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |30 min  <br/> |
+       
+    ![Namecheap-BP-Configure-5-2](../media/ff9566ea-0096-4b7f-873c-027080a23b56.png)
   
 8. Choose the **Save Changes** (check mark) control. 
     
@@ -324,7 +313,7 @@ Follow the steps below.
 9. Using the preceding four steps and the values from the second row in the table, add the other SRV record.
     
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
-[Back to top](create-dns-records-at-namecheap.md#BKMK_BackToTopTarget)
+
   

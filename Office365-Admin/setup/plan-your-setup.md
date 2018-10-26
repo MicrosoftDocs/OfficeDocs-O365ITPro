@@ -9,13 +9,18 @@ f1_keywords:
 - 'O365P_1stInfoRqrd'
 - 'O365P_1stDNSHoster'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection:
+- Adm_O365_Setup
 - Adm_O365_Top
 - strat_admin_top
 ms.custom:
+- Adm_O365_FullSet
 - Adm_O365_Setup
 - Adm_O365_Top
+- Core_O365Admin_Migration
+- MiniMaven
+- strat_admin_top
 search.appverid:
 - MET150
 - MOE150
@@ -45,7 +50,7 @@ Here are the steps you'll do when you run the setup wizard:
   
 1. Add your domain, such as contoso.com.
     
-    When you signed up for Office 365, you got a user ID that includes an "onmicrosoft.com" domain. In this step, you can add your own domain so your user ID and email are personalized for your business, like rob@contoso.com. Domain setup can be confusing, but we'll guide you through it step by step. [What's a domain?](domains-faq.md#domains-faq)
+    When you signed up for Office 365, you got a user ID that includes an "onmicrosoft.com" domain. In this step, you can add your own domain so your user ID and email are personalized for your business, like rob@contoso.com. Domain setup can be confusing, but we'll guide you through it step by step. [What's a domain?](domains-faq.md)
     
     ![Add your domain](../media/9a2caeb3-7e4a-4d6a-bc9c-fb8e86687e7c.png)
   

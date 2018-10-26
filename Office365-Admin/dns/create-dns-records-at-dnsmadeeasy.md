@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_DNSMadeEasy'
 - 'O365E_DOM_DNSMadeEasy'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -28,18 +36,6 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If DNSMadeEasy is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-dnsmadeeasy.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-dnsmadeeasy.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-dnsmadeeasy.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-dnsmadeeasy.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-dnsmadeeasy.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-dnsmadeeasy.md#BKMK_add_SRV)
-    
 After you add these records at DNSMadeEasy, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
@@ -68,10 +64,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 4. In the **Add TXT Records** area, in the boxes for the new record, type or copy and paste the values from the following table. 
     
-||||
-|:-----|:-----|:-----|
-|**Name** <br/> |**Value** <br/> |**TTL** <br/> |
-|(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |1800  <br/> |
+    ||||
+    |:-----|:-----|:-----|
+    |**Name** <br/> |**Value** <br/> |**TTL** <br/> |
+    |(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |1800  <br/> |
    
 5. Choose **Submit**.
     
@@ -113,11 +109,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-|**Name**|**Server**|**MX Level**|**TTL**|
-|:-----|:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **This value MUST end with a period (.)** <br/> > [!NOTE]> Get your \< *domain-key*  \> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |1800  <br/> |
+    |**Name**|**Server**|**MX Level**|**TTL**|
+    |:-----|:-----|:-----|:-----|
+    |(Leave this field empty.)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your \<*domain-key*\> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |1800  <br/> |
    
-   ![DNSMadeEasy-BP-Configure-2-2](../media/69b53af9-1eec-435c-8434-1b6058c1ec82.png)
+    ![DNSMadeEasy-BP-Configure-2-2](../media/69b53af9-1eec-435c-8434-1b6058c1ec82.png)
   
 5. Choose **Submit**.
     
@@ -152,16 +148,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the **Add CNAME Records** area, in the boxes for the new record, type or copy and paste the values from the first row in the following table. 
     
-|**Name**|**Alias to**|**TTL**|
-|:-----|:-----|:-----|
-|autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
-|sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
-|lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
-|msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
-|enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
-|enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
+    |**Name**|**Alias to**|**TTL**|
+    |:-----|:-----|:-----|
+    |autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
+    |sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
+    |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
+    |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
+    |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
+    |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
    
-   ![DNSMadeEasy-BP-Configure-3-2](../media/de6dddcd-bf0a-4993-ab4c-a6d10167bf34.png)
+    ![DNSMadeEasy-BP-Configure-3-2](../media/de6dddcd-bf0a-4993-ab4c-a6d10167bf34.png)
   
 5. Choose **Submit**.
     
@@ -191,11 +187,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 4. In the **Add TXT Records** area, in the boxes for the new record, type or copy and paste the values from the following table. 
     
-|**Name**|**Value**|**TTL**|
-|:-----|:-----|:-----|
-|(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1800  <br/> |
+    |**Name**|**Value**|**TTL**|
+    |:-----|:-----|:-----|
+    |(Leave this field empty.)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1800  <br/> |
    
-   ![DNSMadeEasy-BP-Configure-4-2](../media/b317bcb9-18c6-4609-a8f4-963823032669.png)
+    ![DNSMadeEasy-BP-Configure-4-2](../media/b317bcb9-18c6-4609-a8f4-963823032669.png)
   
 5. Choose **Submit**.
     
@@ -218,12 +214,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the **Add SRV Records** area, in the boxes for the new record, type or copy and paste the values from the first row in the following table. 
     
-|**Name**|**Priority**|**Weight**|**Port**|**Host**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|_sip._tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
-|_sipfederationtls._tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
+    |**Name**|**Priority**|**Weight**|**Port**|**Host**|**TTL**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|
+    |_sip._tls  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
+    |_sipfederationtls._tcp  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |1800  <br/> |
    
-   ![DNSMadeEasy-BP-Configure-5-2](../media/e1155f94-575f-441a-9a61-d948391d42ca.png)
+    ![DNSMadeEasy-BP-Configure-5-2](../media/e1155f94-575f-441a-9a61-d948391d42ca.png)
   
 5. Choose **Submit**.
     

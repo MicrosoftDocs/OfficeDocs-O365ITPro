@@ -6,8 +6,12 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- Adm_O365
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -26,15 +30,15 @@ Rackspace Cloud is not a domain registrar, but if you have a domain registered w
   
 These are the main records to add.
   
-- [Add a TXT record for verification](create-dns-records-at-rackspace.md#bkmk_txt)
+- [Create DNS records at Rackspace for Office 365](#create-dns-records-at-rackspace-for-office-365)
     
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-rackspace.md#bkmk_mx)
+- [Add an MX record so email for your domain will come to Office 365](#add-an-mx-record-so-email-for-your-domain-will-come-to-office-365)
     
-- [Add the CNAME records that are required for Office 365](create-dns-records-at-rackspace.md#bkmk_cname)
+- [Add the CNAME records that are required for Office 365](#add-the-cname-records-that-are-required-for-office-365)
     
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-rackspace.md#bkmk_spf)
+- [Add a TXT record for SPF to help prevent email spam](#add-a-txt-record-for-spf-to-help-prevent-email-spam)
     
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-rackspace.md#bkmk_srv)
+- [Add the two SRV records that are required for Office 365](#add-the-two-srv-records-that-are-required-for-office-365)
     
 After you add these records at Rackspace, your domain will be set up to work with Office 365 services.
   
@@ -65,11 +69,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 4. Choose **Add Record**. Next to **Record Type**, choose **TXT**. In the boxes for the new record, type or copy and paste the following values. 
     
-|**Record Type﻿**|**Hostname**|**Text﻿**|**Time to Live (TTL)﻿**|
-|:-----|:-----|:-----|:-----|
-|TXT﻿  <br/> |(leave blank)﻿  <br/> |MS=msXXXXXXXX  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |60 Minutes﻿  <br/> |
+    |**Record Type**|**Hostname**|**Text**|**Time to Live (TTL)**|
+    |:-----|:-----|:-----|:-----|
+    |TXT  <br/> |(leave blank)  <br/> |MS=msXXXXXXXX  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)   |60 Minutes  <br/> |
    
-![Rackspace_TXTforVerificationValues](../media/d00b252c-10d3-4a16-a7ac-fc75b292db18.png)
+    ![Rackspace_TXTforVerificationValues](../media/d00b252c-10d3-4a16-a7ac-fc75b292db18.png)
   
 5. Select **Add Record**.
     
@@ -110,11 +114,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 4. Choose **Add Record**. Next to **Record Type**, choose **MX**. In the boxes for the new record, type or copy and paste the following values.
     
-|**Record Type﻿**|**Hostname﻿**|**Mailserver Domain﻿**|**Priority﻿**|**Time to Live (TTL)﻿**|
-|:-----|:-----|:-----|:-----|:-----|
-|MX﻿  <br/> |(leave blank)﻿  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |60 Minutes﻿  <br/> |
+    |**Record Type**|**Hostname**|**Mailserver Domain**|**Priority**|**Time to Live (TTL)**|
+    |:-----|:-----|:-----|:-----|:-----|
+    |MX  <br/> |(leave blank)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)   |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |60 Minutes  <br/> |
    
-![Rackspace_MXrecordValues](../media/d26b9323-82f5-4eac-a383-878ecb4dff79.png)
+    ![Rackspace_MXrecordValues](../media/d26b9323-82f5-4eac-a383-878ecb4dff79.png)
   
 5. Select **Add Record** to save the record. 
     
@@ -139,16 +143,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 4. Choose **Add Record**. Next to **Record Type**, choose **CNAME**. In the boxes for the new record, type or copy and paste the following values.
     
-|**Record Type**|**Hostname﻿**|**Target (Domain)﻿**|**Time to Live (TTL)﻿**|
-|:-----|:-----|:-----|:-----|
-|CNAME﻿  <br/> |autodiscover  <br/> |autodiscover.outlook.com  <br/> |60 Minutes  <br/> |
-|CNAME﻿  <br/> |sip﻿  <br/> |sipdir.online.lync.com  <br/> |60 Minutes  <br/> |
-|CNAME﻿  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |60 Minutes  <br/> |
-|CNAME﻿  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |60 Minutes  <br/> |
-|CNAME﻿  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |60 Minutes  <br/> |
-|CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |60 Minutes  <br/> |
-   
-![Rackspace_CNAMErecordValues](../media/18eec053-af71-4583-80e3-739261ccbfa7.png)
+    |**Record Type**|**Hostname**|**Target (Domain)**|**Time to Live (TTL)**|
+    |:-----|:-----|:-----|:-----|
+    |CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com  <br/> |60 Minutes  <br/> |
+    |CNAME  <br/> |sip  <br/> |sipdir.online.lync.com  <br/> |60 Minutes  <br/> |
+    |CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |60 Minutes  <br/> |
+    |CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |60 Minutes  <br/> |
+    |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |60 Minutes  <br/> |
+    |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |60 Minutes  <br/> |
+       
+    ![Rackspace_CNAMErecordValues](../media/18eec053-af71-4583-80e3-739261ccbfa7.png)
   
 5. Select **Add Record** to save the record. 
     
@@ -158,9 +162,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="bkmk_spf"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
   
-1. To get started, go to your domains page in Rackspace by using[ this link ](https://login.Rackspace.com). You'll be prompted to log in.
+1. To get started, go to your domains page in Rackspace by using [this link](https://login.Rackspace.com). You'll be prompted to log in.
     
     ![Rackspace_login](../media/30de8e2a-755e-4532-b15f-1b98b64e3f8c.png)
   
@@ -174,11 +178,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 4. Choose **Add Record**. Next to **Record Type**, choose **TXT**. In the boxes for the new record, type or copy and paste the following values.
     
-|**Record Type**|**Hostname**|**Text**|**Time to Live (TTL)**|
-|:-----|:-----|:-----|:-----|
-|TXT  <br/> |(leave blank)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |60 Minutes  <br/> |
-   
-![Rackspace_TXTforSPFValues](../media/f61aa5ff-357f-4e01-91bb-7501d338fb16.png)
+    |**Record Type**|**Hostname**|**Text**|**Time to Live (TTL)**|
+    |:-----|:-----|:-----|:-----|
+    |TXT  <br/> |(leave blank)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/>**NOte:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |60 Minutes  <br/> |
+       
+    ![Rackspace_TXTforSPFValues](../media/f61aa5ff-357f-4e01-91bb-7501d338fb16.png)
   
 5. Select **Add Record** to save the record. 
     
@@ -199,12 +203,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 4. Choose **Add Record**. Next to **Record Type**, choose **SRV**. In the boxes for the new record, type or copy and paste the following values. 
     
-|**Record Type﻿**|**Service﻿**|**Protocol﻿**|**Hostname﻿**|**Target Domain﻿**|**Port﻿**|**Priority﻿**|**Weight﻿**|**Time to Live (TTL﻿)**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|SRV (Service)﻿  <br/> |sip  <br/> |tls  <br/> |(leave blank)  <br/> |sipdir.online.lync.com  <br/> |443﻿  <br/> |100﻿  <br/> |1﻿  <br/> |60 Minutes﻿  <br/> |
-|SRV (Service)﻿  <br/> |sipfederationtls  <br/> |tcp  <br/> |(leave blank)  <br/> |sipfed.online.lync.com  <br/> |5061﻿  <br/> |100﻿  <br/> |1﻿  <br/> |60 Minutes﻿  <br/> |
-   
- ![Rackspace_SRVrecordValues](../media/4ffbd17d-ca18-4220-a4cb-70b95a362d0d.png)
+    |**Record Type**|**Service**|**Protocol**|**Hostname**|**Target Domain**|**Port**|**Priority**|**Weight**|**Time to Live (TTL)**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+    |SRV (Service)  <br/> |sip  <br/> |tls  <br/> |(leave blank)  <br/> |sipdir.online.lync.com  <br/> |443  <br/> |100  <br/> |1  <br/> |60 Minutes  <br/> |
+    |SRV (Service)  <br/> |sipfederationtls  <br/> |tcp  <br/> |(leave blank)  <br/> |sipfed.online.lync.com  <br/> |5061  <br/> |100  <br/> |1  <br/> |60 Minutes  <br/> |
+       
+     ![Rackspace_SRVrecordValues](../media/4ffbd17d-ca18-4220-a4cb-70b95a362d0d.png)
   
 5. Select **Add Record** to save the record. 
     

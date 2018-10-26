@@ -10,7 +10,11 @@ f1_keywords:
 - 'O365M_DOM_ENAME'
 - 'O365E_DOM_ENAME'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection: Adm_UI_Elements
+ms.custom:
+- Core_O365Admin_Migration
+- domainsgallatin
 search.appverid:
 - MET150
 - GEA150
@@ -24,16 +28,7 @@ description: "Learn to setup your own DNS records at ENAME Services for Office 3
 > The ENAME website doesn't support SRV records, which means that several Lync Online and Outlook Web App features won't work. No matter which Office 365 operated by 21Vianet plan you use, there are significant [service limitations](https://support.office.com/article/dfbb03e3-08c1-4c4e-b2f0-891665b29b77), and you may want to switch to a different DNS hosting provider. 
   
 If, despite the service limitations, you choose to manage your own Office 365 DNS records at ENAME, follow the steps in this article to verify your domain and set up DNS records for email, Lync, and so on.
-  
-These are the main records to add.
-  
-- [Add a TXT record for verification](create-dns-records-at-ename.md#BKMK_verify_domain)
-    
-- [Add an MX record to route email](create-dns-records-at-ename.md#BKMK_add_MX)
-    
-- [Add CNAME records](create-dns-records-at-ename.md#BKMK_add_CNAME)
-    
-- [Add a TXT record to help prevent spam](create-dns-records-at-ename.md#BKMK_add_TXT)
+ 
     
 After you add these records at ENAME, your domain will be set up to work with Office 365 services, though not with the Lync Online and Outlook Web App features mentioned above.
   

@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Fasthosts.co.uk"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -11,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_Fast1'
 - 'O365E_DOM_Fast1'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -30,14 +37,7 @@ description: "Learn how you can set up Office 365 to manage the DNS records of y
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Fasthosts.co.uk](create-dns-records-at-fasthosts-co-uk.md).)
   
-Here's what you need to do. (Need more help? [Still need help?](change-nameservers-at-fasthosts-co-uk.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](change-nameservers-at-fasthosts-co-uk.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-fasthosts-co-uk.md#BKMK_nameservers)
-    
 ## Add a TXT record for verification
-<a name="BKMK_verify"> </a>
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   
@@ -59,7 +59,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |||
 |:-----|:-----|
 |**Host Name** <br/> |**Value** <br/> |
-|@  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+|@  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/>    |
    
 6. Choose **Save**.
     
@@ -81,7 +81,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Change your domain's nameserver (NS) records
-<a name="BKMK_nameservers"> </a>
 
 To complete setting up your domain with Office 365, you change your domain's NS records at your domain registrar to point to the Office 365 primary and secondary name servers. This sets up Office 365 to update the domain's DNS records for you. We'll add all records so that email, Skype for Business Online, and your public website work with your domain, and you'll be all set.
   
@@ -122,8 +121,9 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**Name server 2** <br/> |ns2.bdm.microsoftonline.com  <br/> |
 |**Name server 3** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Name server 4** <br/> |ns4.bdm.microsoftonline.com  <br/> |
+|||
    
-    ![FasthostsUK-BP-Redelegate-1-4](../media/8e3bfed3-85a9-444a-8208-e434d04a6520.png)
+   ![FasthostsUK-BP-Redelegate-1-4](../media/8e3bfed3-85a9-444a-8208-e434d04a6520.png)
   
 7. Choose **Update Name Server Details.**
     

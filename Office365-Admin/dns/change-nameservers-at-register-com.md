@@ -10,12 +10,20 @@ f1_keywords:
 - 'O365M_DOM_Reg1'
 - 'O365E_DOM_Reg1'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
-- BCS160****
+- BCS160
 - MET150
 - MOE150
 ms.assetid: 65196b80-bbb6-42b6-b920-058349963c37
@@ -28,14 +36,7 @@ description: "Learn to set up your Office 365 custom domain with Register.com if
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Register.com](create-dns-records-at-register-com.md).)
   
-Here's what you need to do. Follow the steps below or [watch the video](https://support.office.com/en-us/article/Video-Change-nameservers-to-set-up-Office-365-with-Register-com-eeb5935f-52bf-4f8d-8cc5-8d6899b07d4b?ui=en-US&amp;rs=en-US&amp;ad=US). (Need more help? [Still need help?](change-nameservers-at-register-com.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record at Register.com to verify that you own the domain](change-nameservers-at-register-com.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-register-com.md#BKMK_nameservers)
-    
 ## Add a TXT record at Register.com to verify that you own the domain
-<a name="BKMK_verify"> </a>
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
   

@@ -6,10 +6,16 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
 ms.custom:
 - Adm_O365
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -34,16 +40,8 @@ Follow these instructions if at least one of the following three statements desc
     
 - Your domain is hosted at a DNS hosting provider or domain registrar that is not listed in the article [How to buy a domain name](../get-help-with-domains/buy-a-domain-name.md).
     
-Here's what you need to do. (Need more help? [Still need help?](change-nameservers-at-azure.md#BKMK_NeedHelp).)
-  
-- [Return your domain to your registrar's default nameservers](change-nameservers-at-azure.md#BKMK_Default)
-    
-- [Add a TXT or MX record for verification](change-nameservers-at-azure.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-azure.md#BKMK_nameservers)
     
 ## Return your domain to your registrar's default nameservers
-<a name="BKMK_Default"> </a>
 
 The domain that you added to Azure was purchased from a separate domain registrar; Azure does not offer domain registration services. To verify and redelegate your domain to Office 365, you first need to return your domain to your Domain Registrar's default nameservers.
   
@@ -62,7 +60,6 @@ After you return your domain to your registrar's default nameservers, you will p
 > Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain. 
   
 ## Add a TXT or MX record for verification
-<a name="BKMK_verify"> </a>
 
 > [!NOTE]
 > You must perform this procedure at the domain registrar where you purchased and registered your domain. 
@@ -86,15 +83,19 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 1. If you create a **TXT** record, use the values in the following table. 
     
-|**Record Type**|**Alias or Host Name**|**Value**|**TTL**|
+|||
 |:-----|:-----|:-----|:-----|
+|**Record Type** <br/> |**Alias or Host Name** <br/> |**Value** <br/> |**TTL** <br/> |
 |TXT  <br/> |(Type or copy and paste either ** @ ** or your  * **domain_name*** .)  <br/> |MS=ms *XXXXXXXX*  <br/> |Set this value to **1 hour** or to the equivalent in minutes **(60)**, sections **(3600)**, and so on.  <br/> |
+|||
    
 2. If you create an **MX** record, use the values in the following table. 
     
-|**Record Type**|**Alias or Host Name**|**Value**|**Priority**|**TTL**|
+|||
 |:-----|:-----|:-----|:-----|:-----|
-|MX  <br/> |(Type or copy and paste either ** @ ** or your  * **domain_name*** .)  <br/> |MS=ms *XXXXXXXX*  <br/> |For **Priority**,,to avoid conflicts with the MX record used for mail flow, use a lower priority for any existing MX records.  <br/> |Set this value to **1 hour** or to the equivalent in minutes **(60)**, sections **(3600)**, and so on.  <br/> |
+**Record Type** <br/> |**Alias or Host Name** <br/> |**Value** <br/> |**Priority** <br/> |**TTL** <br/> |
+|MX  <br/> |(Type or copy and paste either ** @ ** or your  * **domain_name*** .)  <br/> |MS=ms *XXXXXXXX*  <br/> |For **Priority**,to avoid conflicts with the MX record used for mail flow, use a lower priority for any existing MX records.  <br/> |Set this value to **1 hour** or to the equivalent in minutes **(60)**, sections **(3600)**, and so on.  <br/> |
+|||
    
 3. Save the record.
     
@@ -120,7 +121,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Change your domain's nameserver (NS) records
-<a name="BKMK_nameservers"> </a>
 
 To complete setting up your domain with Office 365, you change your domain's NS records at your domain registrar to point to the Office 365 primary and secondary name servers. This sets up Office 365 to update the domain's DNS records for you. We'll add all records so that email, Skype for Business Online, and your public website work with your domain, and you'll be all set.
   
@@ -138,6 +138,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |:-----|:-----|
 |**First nameserver** <br/> |ns1.bdm.microsoftonline.com  <br/> |
 |**Second nameserver** <br/> |ns2.bdm.microsoftonline.com  <br/> |
+|||
    
    > [!TIP]
    > You should use at least two name server records. If there are any other name servers listed, you can either delete them or change them to **ns3.bdm.microsoftonline.com** and **ns4.bdm.microsoftonline.com**. 

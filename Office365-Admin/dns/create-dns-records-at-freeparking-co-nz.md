@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_FreeP'
 - 'O365E_DOM_FreeP'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -28,24 +36,12 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If FreeParking.co.nz is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. (Need more help? [Still need help?](create-dns-records-at-freeparking-co-nz.md#BKMK_NeedHelp).)
-  
-- [Add a TXT record for verification](create-dns-records-at-freeparking-co-nz.md#BKMK_verify)
-    
-- [Add an MX record so email for your domain will come to Office 365](create-dns-records-at-freeparking-co-nz.md#BKMK_add_MX)
-    
-- [Add the six CNAME records that are required for Office 365](create-dns-records-at-freeparking-co-nz.md#BKMK_add_CNAME)
-    
-- [Add a TXT record for SPF to help prevent email spam](create-dns-records-at-freeparking-co-nz.md#BKMK_add_TXT)
-    
-- [Add the two SRV records that are required for Office 365](create-dns-records-at-freeparking-co-nz.md#BKMK_add_SRV)
-    
 After you add these records at FreeParking.co.nz, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add a TXT record for verification
 <a name="BKMK_verify"> </a>
@@ -79,9 +75,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (Select the **Data** value from the drop-down list.) 
     
-|**Host Name**|**Record Type**|**Data**|
-|:-----|:-----|:-----|
-| *All records*  <br/> |Caching Time (TTL)  <br/> |1 Hour  <br/> |
+    |**Host Name**|**Record Type**|**Data**|
+    |:-----|:-----|:-----|
+    | *All records*  <br/> |Caching Time (TTL)  <br/> |1 Hour  <br/> |
    
     ![FreeparkingNZ-BP-Configure-1-4-2](../media/7caef32d-ba28-4d57-8ea3-7d694af5a47e.png)
   
@@ -93,11 +89,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (Select the **Record Type** value from the drop-down list.) 
     
-|**Host Name**|**Record Type**|**Data**|
-|:-----|:-----|:-----|
-|Use your domain name (for example, fourthcoffee.com)  <br/> |Descriptive (TXT)  <br/> |MS=ms *XXXXXXXX*  <br/> > [!NOTE]> This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**Host Name**|**Record Type**|**Data**|
+    |:-----|:-----|:-----|
+    |Use your domain name (for example, fourthcoffee.com)  <br/> |Descriptive (TXT)  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-   ![FreeparkingNZ-BP-Verify-1-1](../media/927e8240-9cba-4431-bbc0-a016f5a44d0b.png)
+    ![FreeparkingNZ-BP-Verify-1-1](../media/927e8240-9cba-4431-bbc0-a016f5a44d0b.png)
   
 9. Choose **Continue**.
     
@@ -126,7 +122,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
   
 > [!NOTE]
->  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+> Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Add an MX record so email for your domain will come to Office 365
 <a name="BKMK_add_MX"> </a>
@@ -155,11 +151,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Data** value from the drop-down list.) 
     
-|**Host Name**|**Record Type**|**Data**|
-|:-----|:-----|:-----|
-| *All records*  <br/> |Caching Time (TTL)  <br/> |1 Hour  <br/> |
+    |**Host Name**|**Record Type**|**Data**|
+    |:-----|:-----|:-----|
+    | *All records*  <br/> |Caching Time (TTL)  <br/> |1 Hour  <br/> |
    
-   ![FreeparkingNZ-BP-Configure-1-4-2](../media/7caef32d-ba28-4d57-8ea3-7d694af5a47e.png)
+    ![FreeparkingNZ-BP-Configure-1-4-2](../media/7caef32d-ba28-4d57-8ea3-7d694af5a47e.png)
   
 7. Choose **Add another record**.
     
@@ -171,11 +167,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-|**Host Name**|**Record Type**|**First Data Field (Preference)**|**Second Data Field (Target)**|
-|:-----|:-----|:-----|:-----|
-|Use your domain name (for example, fourthcoffee.com)  <br/> |Mail Server (MX)  <br/> |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> The **10** is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> > [!NOTE]> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |**Host Name**|**Record Type**|**First Data Field (Preference)**|**Second Data Field (Target)**|
+    |:-----|:-----|:-----|:-----|
+    |Use your domain name (for example, fourthcoffee.com)  <br/> |Mail Server (MX)  <br/> |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> The **10** is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-   ![FreeparkingNZ-BP-Configure-2-1](../media/39382d03-eade-406b-95c1-e400ed83ef19.png)
+    ![FreeparkingNZ-BP-Configure-2-1](../media/39382d03-eade-406b-95c1-e400ed83ef19.png)
   
 9. Choose **Continue**.
     
@@ -224,9 +220,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Data** value from the drop-down list.) 
     
-|**Host Name**|**Record Type**|**Data**|
-|:-----|:-----|:-----|
-| *All records*  <br/> |Caching Time (TTL)  <br/> |1 Hour  <br/> |
+    |**Host Name**|**Record Type**|**Data**|
+    |:-----|:-----|:-----|
+    | *All records*  <br/> |Caching Time (TTL)  <br/> |1 Hour  <br/> |
    
    ![FreeparkingNZ-BP-Configure-1-4-2](../media/7caef32d-ba28-4d57-8ea3-7d694af5a47e.png)
   
@@ -238,16 +234,16 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-|**Host Name**|**Record Type**|**Data**|
-|:-----|:-----|:-----|
-|autodiscover. *domain_name*  <br/> The **autodiscover** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, autodiscover.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |autodiscover.outlook.com  <br/> |
-|sip. *domain_name*  <br/> The **sip** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, sip.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |sipdir.online.lync.com  <br/> |
-|lyncdiscover. *domain_name*  <br/> The **lyncdiscover** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, lyncdiscover.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |webdir.online.lync.com  <br/> |
-|msoid. *domain_name*  <br/> The **msoid** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, msoid.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |clientconfig.microsoftonline-p.net  <br/> |
-|enterpriseregistration. *domain_name*  <br/> The **enterpriseregistration** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, enterpriseregistration.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment. *domain_name*  <br/> The **enterpriseenrollment** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, enterpriseenrollment.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |**Host Name**|**Record Type**|**Data**|
+    |:-----|:-----|:-----|
+    |autodiscover. *domain_name*  <br/> The **autodiscover** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, autodiscover.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |autodiscover.outlook.com  <br/> |
+    |sip. *domain_name*  <br/> The **sip** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, sip.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |sipdir.online.lync.com  <br/> |
+    |lyncdiscover. *domain_name*  <br/> The **lyncdiscover** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, lyncdiscover.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |webdir.online.lync.com  <br/> |
+    |msoid. *domain_name*  <br/> The **msoid** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, msoid.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    |enterpriseregistration. *domain_name*  <br/> The **enterpriseregistration** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, enterpriseregistration.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |enterpriseregistration.windows.net  <br/> |
+    |enterpriseenrollment. *domain_name*  <br/> The **enterpriseenrollment** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, enterpriseenrollment.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
    
-   ![FreeparkingNZ-BP-Configure-3-1](../media/aeee206c-2691-4f76-9b23-09d91c71e728.png)
+    ![FreeparkingNZ-BP-Configure-3-1](../media/aeee206c-2691-4f76-9b23-09d91c71e728.png)
   
 9. Choose **Continue**.
     
@@ -261,7 +257,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="BKMK_add_TXT"> </a>
 
 > [!IMPORTANT]
-> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. Need examples? Check out these [](external-domain-name-system-records.md#BKMK_SPFrecords). To validate your SPF record, you can use one of these [SPF validation tools](92a43f6a-4651-455a-a1cc-300684bedcfa.md). 
+> You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values.
   
 1. To get started, go to your domains page at Freeparking.co.nz by using [this link](https://secure.freeparking.co.nz/services/manage). You'll be prompted to log in first.
     
@@ -301,11 +297,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Record Type** value from the drop-down list.) 
     
-|**Host Name**|**Record Type**|**Data**|
-|:-----|:-----|:-----|
-|Use your domain name (for example, fourthcoffee.com)  <br/> |Descriptive (TXT)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+    |**Host Name**|**Record Type**|**Data**|
+    |:-----|:-----|:-----|
+    |Use your domain name (for example, fourthcoffee.com)  <br/> |Descriptive (TXT)  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/>**Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-   ![FreeparkingNZ-BP-Configure-4-1](../media/8b9949cf-ba70-4e2c-9648-ed35b1ce6185.png)
+    ![FreeparkingNZ-BP-Configure-4-1](../media/8b9949cf-ba70-4e2c-9648-ed35b1ce6185.png)
   
 9. Choose **Continue**.
     
@@ -356,11 +352,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (Select the **Record Type** value from the drop-down list. To view the names of the fields under **Data**, point to each field.)
     
-|**Host Name**|**Record Type**|**First Data Field (Priority)**|**Second Data Field (Weight)**|**Third Data Field (Port)**|**Fourth Data Field (Target)**|
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|_sip._tls. *domain_name*  <br/> The **_sip._tls** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, _sip._tls.fourthcoffee.com)  <br/> |Service (SRV)  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
-|_sipfederationtls._tcp. *domain_name*  <br/> The **_sipfederationtls._tcp** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, _sipfederationtls._tcp.fourthcoffee.com)  <br/> |Service (SRV)  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
-  
+    |**Host Name**|**Record Type**|**First Data Field (Priority)**|**Second Data Field (Weight)**|**Third Data Field (Port)**|**Fourth Data Field (Target)**|
+    |:-----|:-----|:-----|:-----|:-----|:-----|
+    |_sip._tls. *domain_name*  <br/> The **_sip._tls** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, _sip._tls.fourthcoffee.com)  <br/> |Service (SRV)  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
+    |_sipfederationtls._tcp. *domain_name*  <br/> The **_sipfederationtls._tcp** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, _sipfederationtls._tcp.fourthcoffee.com)  <br/> |Service (SRV)  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
+      
    ![FreeparkingNZ-BP-Configure-5-1](../media/94a3eb0d-1a42-4b37-9b99-5ef6a67d5e33.png)
   
 9. Choose **Continue**.

@@ -6,8 +6,13 @@ manager: scotv
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- Adm_O365
+- Adm_O365_FullSet
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -50,7 +55,7 @@ It could also happen because you haven't assigned a license to yourself or your 
     
 Not all Office 365 plans come with Office. If your organization has an Office 365 plan that doesn't include the latest desktop version of Office, as the admin, you can [switch to a different Office 365 plan or subscription](../subscriptions-and-billing/switch-to-a-different-plan.md). 
   
-If you're not sure what plan you have, follow the steps in [What subscription do I have?](../admin-overview/what-subscription-do-i-have-0.md) For a comparison of plans, see the [small business plans comparison](https://products.office.com/business/compare-office-365-for-business-plans) or [enterprise plans comparison](https://products.office.com/en-us/business/compare-more-office-365-for-business-plans).
+If you're not sure what plan you have, follow the steps in [What subscription do I have?](../admin-overview/what-subscription-do-i-have.md) For a comparison of plans, see the [small business plans comparison](https://products.office.com/business/compare-office-365-for-business-plans) or [enterprise plans comparison](https://products.office.com/en-us/business/compare-more-office-365-for-business-plans).
   
 ### I recently switched Office 365 plans and now get messages I can't use Office
 

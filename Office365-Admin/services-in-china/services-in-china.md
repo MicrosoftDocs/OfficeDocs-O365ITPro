@@ -13,7 +13,9 @@ f1_keywords:
 - 'O365E_LearnFeatures'
 - 'O365E_GAL_LearnGallatin'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection: Adm_UI_Elements
+ms.custom: Core_O365Admin_Migration
 search.appverid:
 - MET150
 - GEU150
@@ -42,33 +44,17 @@ Scan this QR code to follow us on WeChat and get the latest updates for Office 3
   
 The sections below highlight some of the differences you will find in each service. Ultimately our goal is to achieve parity with global services. However, due to the unique nature of the China services - operated by a partner from datacenters inside China - there are some features that have not yet been enabled. Customers will see the services come closer to full feature parity over time. For a more detailed look at services available for each Office 365 plan operated by 21Vianet, see the [Office 365 Service Description](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-operated-by-21vianet).
   
-- [Office 365 Suite](services-in-china.md#__toc359591120)
-    
-- [SharePoint Online](services-in-china.md#BKMK_SharePointOnline)
-    
-- [Outlook Web App](services-in-china.md#__outlook_web_app)
-    
-- [OneNote](services-in-china.md#_OneNote)
-    
-- [Exchange](services-in-china.md#__exchange)
-    
-- [Office Online](services-in-china.md#__office_web_apps)
-    
-- [Skype for Business](services-in-china.md#__lync)
-    
-- [Data Subject Requests for GDPR](services-in-china.md#BKMK_DSR)
     
 If you would like to learn how to get started with general Office 365 services, see [Get started](../admin-overview/get-started-with-office-365.md).
   
 ## Office 365 Suite
-<a name="__toc359591120"> </a>
 
 |||
 |:-----|:-----|
 |Custom domains  <br/> |Administrators can create and/or use custom domains registered through Chinese-specific domain providers. If you don't have a custom domain, you can [How to buy a domain name](https://support.office.com/article/a6689b24-eeca-41f1-afe6-19917936b73c.aspx) from a domain name registrar. If you already have one, [Find your domain registrar or DNS hosting provider](https://support.office.com/article/98b6bfa3-1b0b-4484-8a12-02061cc9f9c3).  <br/> Additionally, if you create a public website using the Office 365 SharePoint Online service, China Internet compliance policy requires that you get an Internet Content Provider (ICP) number. For more information, see [Get an Internet Content Provider (ICP) number for your public website](get-an-icp-number-for-your-public-website.md).  <br/> **Note:** Automatic validation for disallowed words in custom domain names is not available.           |
 |Subscriptions, billing, and technical support  <br/> |Provided by 21Vianet. For information on how to contact support, see [Contact Office 365 for business support](../contact-support-for-business-products.md).  <br/> |
 |Self-service password reset  <br/> |Available for admins only. For more information, see [Change or reset your password in Office 365 operated by 21Vianet](https://support.office.com/article/d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).  <br/> |
-|Security, privacy, compliance, and details on levels of support  <br/> |Provided by 21Vianet. You can find more information [here](http://www.ch.21vianet.com/c47/index.mdl).  <br/> |
+|Security, privacy, compliance, and details on levels of support  <br/> |Provided by 21Vianet.  <br/> |
 |Office Desktop Setup  <br/> |Office desktop setup is not available for Office 2010 and Office 2007. However, administrators can [Configure current Office desktop applications to work with Office 365](https://support.office.com/article/85646aba-7e6c-4e24-a047-8fd9ce4f9d2e).  <br/> |
 |Mobile and device support\*  <br/> | Coming soon are the following mobile features:  <br/>  Mobile Device Management (MDM)  <br/>  Blackberry Business Cloud Services (BBCS) is not available, but you can use Exchange ActiveSync devices or an offering from Research in Motion (RIM, the BlackBerry wireless email solution) to run Blackberry Enterprise Server (BES).  <br/>  For more information on mobile support, see [Set up and manage mobile access for your users](https://support.office.com/article/01fff219-4492-40f2-82d3-fd2ffc0ad802).  <br/> |
 |Office Lens  <br/> |Not available.  <br/> |
@@ -81,7 +67,6 @@ If you would like to learn how to get started with general Office 365 services, 
 \*Optional services provided directly by Microsoft, and subject to Microsoft's Terms of Service and privacy statements.
   
 ## SharePoint Online
-<a name="BKMK_SharePointOnline"> </a>
 
 |||
 |:-----|:-----|
@@ -101,7 +86,6 @@ If you would like to learn how to get started with general Office 365 services, 
 \*Optional services provided directly by Microsoft, and subject to Microsoft's Terms of Service and privacy statements.
   
 ## Outlook Web App
-<a name="__outlook_web_app"> </a>
 
 |||
 |:-----|:-----|
@@ -116,7 +100,6 @@ If you would like to learn how to get started with general Office 365 services, 
 |Connected Accounts  <br/> |Connecting to other accounts such as Hotmail (Outlook.com) is coming soon.  <br/> |
    
 ## Exchange
-<a name="__exchange"> </a>
 
  New with Exchange 2013 Cumulative Update 5 (CU5), full-featured hybrid deployments between on-premises Exchange 2013 organizations and Office 365 services are now supported. Leveraging new improvements in the Hybrid Configuration wizard, Exchange 2013 CU5 supports the following hybrid features between your on-premises and Exchange Online organizations:  
 
@@ -147,11 +130,13 @@ For organizations running older or mixed versions of Exchange Server, some hybri
 | 2007  <br/> | 2013 SP1 or 2010 SP3No  <br/> | N/A  <br/> | Not supported  <br/> |
 | 2003  <br/> | 2013 SP1/CU5  <br/> | N/A  <br/> | Not supported  <br/> |
 | 2003  <br/> | 2010 SP3  <br/> | No  <br/> | None  <br/> |
+
    
 > [!IMPORTANT]
 >  Delegate calendar access, when a user or set of users is provided access to another user's calendar, isn't supported in hybrid deployments with Office 365 tenants hosted by 21Vianet. 
   
- Additionally, some Exchange messaging policy and compliance features aren't fully supported in hybrid deployments with Office 365 tenants hosted by 21Vianet. These features include: 
+ Additionally, some Exchange messaging policy and compliance features aren't fully supported in hybrid deployments with Office 365 tenants hosted by 21Vianet. These features include:
+
 - [Messaging Records Management (MRM)](https://go.microsoft.com/fwlink/?LinkId=506754) 
 - [In-Place eDiscovery](https://go.microsoft.com/fwlink/?LinkID=506755) 
 - [In-Place Hold](https://go.microsoft.com/fwlink/?LinkId=506758) 
@@ -163,10 +148,11 @@ Use the following table to learn more about feature support in different Exchang
 
 |**On-Premises Exchange Version**|**MRM (split archive)**|**OWA access (split archive)**|**In-Place eDiscovery**|**Mailbox Auditing**|**In-Place Hold/Archiving**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-| All 2013 CU5   | Supported   | Not supported  | Supported   | Supported | Supported  |
-| All 2010 SP3   | Not supported   | Not supported   | Supported<sup>1</sup> | Supported   | Supported   |
-| At least one pre-2013 CU5 server   | Supported<sup>2</sup>  | Not supported   | Not supported | Supported   | Supported  |
+| All 2013 CU5  <br/> | Supported <br/>  | Not supported <br/>  | Supported <br/>  | Supported  <br/> | Supported <br/> |
+| All 2010 SP3 <br/>  | Not supported <br/>  | Not supported <br/>  | Supported<sup>1</sup> <br/> | Supported  <br/> | Supported <br/>  |
+| At least one pre-2013 CU5 server  <br/> | Supported<sup>2</sup> <br/> | Not supported  <br/> | Not supported <br/> | Supported  <br/> | Supported <br/> |
 |||
+
 <sup>1</sup> Separate searches are required for on-premises and Exchange Online mailboxes.  <br/> <sup>2</sup> MRM move-to-archive policies can be used for mailboxes located on an Exchange 2013 CU5 or greater server. 
 
 To learn more about configuring a hybrid deployment with Office 365 tenants hosted by 21Vianet, see the following topics: 
@@ -186,7 +172,6 @@ Sharing Exchange contact data on Apple mobile devices to the Apple iCloud. |This
 |Office 365 Message Encryption  |Coming soon.  |
    
 ## Office Online
-<a name="__office_web_apps"> </a>
 
 |||
 |:-----|:-----|
@@ -195,14 +180,12 @@ Sharing Exchange contact data on Apple mobile devices to the Apple iCloud. |This
 |Ability to translate text or pages  <br/> |This feature is available, but off by default. Administrators do have the ability to turn it on, but will get a warning message indicating that it could make data accessible outside of your country.  <br/> |
    
 ## Office client
-<a name="__office_client"> </a>
 
 |||
 |:-----|:-----|
 |Manage account (from within the Office client)  <br/> |This feature, and others like it that are intended to go to your Office 365 portal, currently point to the worldwide Office 365 portal, and you cannot sign in with your Office 365 operated by 21Vianet account. This is a known issue that is being fixed. In the meantime, you can use the URL https://portal.partner.microsoftonline.cn/ to sign into your account and manage settings from there. For more information, see [Manage your Office 365 Pro Plus account for Office 365 operated by 21Vianet](https://support.office.com/article/fbe473d3-69de-4d0c-aecb-b9c2d0d45bc8.aspx).  <br/> |
    
 ## OneNote
-<a name="_OneNote"> </a>
 
 |||
 |:-----|:-----|
@@ -221,7 +204,6 @@ Sharing Exchange contact data on Apple mobile devices to the Apple iCloud. |This
 |Share notebook experience and sharing notification  <br/> |Not available.  <br/> |
    
 ## Skype for Business
-<a name="__lync"> </a>
 
 |||
 |:-----|:-----|
@@ -239,7 +221,6 @@ Sharing Exchange contact data on Apple mobile devices to the Apple iCloud. |This
 | Conferencing devices:  <br/>  Polycom CX5100 Unified Conference Station  <br/>  Logitech ConferenceCam CC3000e  <br/>  Polycom CX7000  <br/>  Polycom CX3000  <br/>  Logitech BCC950 ConferenceCam  <br/>  Polycom CX5000 HD  <br/> |Not available.  <br/> |
    
 ## Data Subject Requests for GDPR
-<a name="BKMK_DSR"> </a>
 
 GDPR grants individuals (or, data subjects) certain rights in connection with the processing of their personal data, including the right to correct inaccurate data, erase data or restrict its processing, receive their data and fulfill a request to transmit their data to another controller. The Tenant Administrator role for Office 365 operated by 21Vianet can request data on behalf of a data subject in the following ways:
   

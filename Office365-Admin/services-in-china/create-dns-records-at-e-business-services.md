@@ -11,7 +11,11 @@ f1_keywords:
 - 'O365M_DOM_EBus'
 - 'O365E_DOM_EBus'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection: Adm_UI_Elements
+ms.custom:
+- Core_O365Admin_Migration
+- domainsgallatin
 search.appverid:
 - MET150
 - GEA150
@@ -26,16 +30,6 @@ description: "Learn to setup your own DNS records at E-business Services for Off
   
 If, despite the service limitations, you choose to manage your own Office 365 DNS records at E-business Services, follow the steps in this article to verify your domain and set up DNS records for email, Lync, and so on.
   
-These are the main records to add.
-  
-- [Add a TXT record for verification](create-dns-records-at-e-business-services.md#BKMK_verify_domain)
-    
-- [Add an MX record to route email](create-dns-records-at-e-business-services.md#BKMK_add_MX)
-    
-- [Add the CNAME records that are required for Office 365](create-dns-records-at-e-business-services.md#BKMK_add_CNAME)
-    
-- [Add a TXT record to help prevent spam](create-dns-records-at-e-business-services.md#BKMK_add_TXT)
-    
 After you add these records at E-business Services, your domain will be set up to work with Office 365 Service, though not with the Lync Online and Outlook Web App features mentioned above.
   
 If you have a SharePoint Online Public Website, you can [set it up to use your custom domain for the website URL address](https://support.office.com/article/26bc0b35-6fee-44b6-9b55-df974ae63ed0), like www. *your_domain*  .com. 

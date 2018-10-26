@@ -3,11 +3,13 @@ title: "Change nameservers to set up Office 365 with easyDNS"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.custom:
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - MET150
 - MOE150
@@ -32,8 +34,9 @@ When you redelegate your domain to Office 365 by changing your nameserver record
 4. Enter the following records in the text fields:
    
 
-|**Host**|**Text**|
+|||
 |:-----|:-----|
+|**Host** <br/> |**Text** <br/>|
 |@  <br/> |MS=msXXXXXXXX (Use the value provided to you on the Admin Center Domains page)  <br/> |
    
 5. Choose **NEXT**. 

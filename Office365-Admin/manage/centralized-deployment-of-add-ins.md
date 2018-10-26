@@ -6,8 +6,12 @@ manager: scotv
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Priority
-ms.custom: Adm_O365
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- Adm_O365
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -164,7 +168,7 @@ Alternately, you can use the Azure Active Directory Graph API to run queries to 
   
 ### Contacting Microsoft for support
 
-If you or your users encounter problems loading the add-in while using Office Online apps (Word Online, Excel Online, etc.), which were centrally deployed, you may need to contact Microsoft support ([learn how](../contact-support-for-business-products.md#contact-support-for-business-products---admin-help)). Provide the following information about your Office 365 environment in the support ticket.
+If you or your users encounter problems loading the add-in while using Office Online apps (Word Online, Excel Online, etc.), which were centrally deployed, you may need to contact Microsoft support ([learn how](../contact-support-for-business-products.md)). Provide the following information about your Office 365 environment in the support ticket.
   
 |**Platform**|**Debug information**|
 |:-----|:-----|

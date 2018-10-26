@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_MD1'
 - 'O365E_DOM_MD1'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -28,12 +36,6 @@ description: "Learn how you can set up Office 365 to manage the DNS records of y
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at MyDomain](create-dns-records-at-mydomain.md).)
   
-Here's what you need to do. ([Still need help?](change-nameservers-at-mydomain.md#BKMK_NeedHelp))
-  
-- [Add a TXT record for verification](change-nameservers-at-mydomain.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-mydomain.md#BKMK_nameservers)
-    
 ## Add a TXT record for verification
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.
@@ -101,11 +103,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
     
     ![MyDomain-BP-Redelegate-1-2-1](../media/f869fb26-54dc-4b66-8378-a78a79b582bd.png)
   
-6. Depending on whether or not there are already nameservers listed on the page that is displayed now, continue to one of the two following procedures:
-    
-  - If the correct nameservers **ARE** already listed, [If the correct nameservers ARE already listed](change-nameservers-at-mydomain.md#BKMK_ProcedureWithOUT).
-    
-  - If the correct nameservers are **NOT** already listed, [If the correct nameservers are NOT already listed](change-nameservers-at-mydomain.md#BKMK_ProcedureWITH).
+6. Depending on whether or not there are already nameservers listed on the page that is displayed now, continue to one of the two following procedures.
     
 ### If the correct nameservers ARE already listed
 

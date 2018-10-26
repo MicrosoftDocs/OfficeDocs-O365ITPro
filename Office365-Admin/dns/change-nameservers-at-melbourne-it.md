@@ -10,10 +10,18 @@ f1_keywords:
 - 'O365M_DOM_MIT1'
 - 'O365E_DOM_MIT1'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.collection:
+- Adm_O365
+- Adm_O365_Domain_Registrars
+- Adm_O365_Setup
+- Adm_UI_Elements
 ms.custom:
 - Adm_O365
+- Adm_O365_FullSet
 - Adm_O365_Setup
+- Core_O365Admin_Migration
+- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -28,12 +36,6 @@ description: "Learn how you can set up Office 365 to manage the DNS records of y
   
 Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Melbourne IT](create-dns-records-at-melbourne-it.md).)
   
-Here's what you need to do. Follow the steps below or [watch the video](https://support.office.com/en-us/article/Video-Change-nameservers-to-set-up-Office-365-with-Melbourne-IT-bb98833b-1e7f-4d35-9533-20e37da2187b?ui=en-US&amp;rs=en-US&amp;ad=US). ([Still need help?](change-nameservers-at-melbourne-it.md#BKMK_NeedHelp))
-  
-- [Add a TXT record at Melbourne IT to verify that you own the domain](change-nameservers-at-melbourne-it.md#BKMK_verify)
-    
-- [Change your domain's nameserver (NS) records](change-nameservers-at-melbourne-it.md#BKMK_nameservers)
-    
 ## Add a TXT record at Melbourne IT to verify that you own the domain
 
 Before you use your domain with Office 365, we have to make sure that you own it. Your ability to log in to your account at your domain registrar and create the DNS record proves to Office 365 that you own the domain.

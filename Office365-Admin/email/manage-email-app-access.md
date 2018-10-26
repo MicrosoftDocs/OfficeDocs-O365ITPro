@@ -9,7 +9,8 @@ f1_keywords:
 - 'O365E_AdminSettingsEmailApp
 O365M_AdminSettingsEmailApp'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
+ms.custom: Core_O365Admin_Migration
 search.appverid:
 - MET150
 - MOE150
