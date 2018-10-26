@@ -186,10 +186,6 @@ On your DNS host's website, you'll create three new CNAME records, typically one
 2. When you've finished, save the records.
     
 ::: moniker-end
-
-## Add three CNAME records
-<a name="BKMK_add_MX"> </a>
-
 ::: moniker range="o365-germany"
 
 Follow the steps below to add the three CNAME records that are required for Office 365. If additional CNAME records are listed in Office 365, add those following the same general steps shown here.
@@ -211,9 +207,6 @@ On your DNS host's website, you'll create three new CNAME records, typically one
 2. When you've finished, save the records.
     
 ::: moniker-end
-
-## Add three CNAME records
-<a name="BKMK_add_MX"> </a>
 
 ::: moniker range="o365-21vianet"
 
@@ -252,9 +245,6 @@ On your DNS host's website, you'll create three new CNAME records, typically one
 |CNAME (Alias)  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |1 hour  <br/> |
    
 ::: moniker-end
-
-## Add two CNAME records for Mobile Device Management (MDM) for Office 365
-<a name="BKMK_add_MX"> </a>
 
 ::: moniker range="o365-germany"
 
@@ -297,9 +287,6 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
     
 ::: moniker-end
 
-## Add a TXT record for SPF to help prevent email spam
-<a name="BKMK_add_MX"> </a>
-
 ::: moniker range="o365-germany"
 
 > [!IMPORTANT]
@@ -324,9 +311,6 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
 3. To validate your SPF record, use one of these [SPF validation tools](https://support.office.com/article/92a43f6a-4651-455a-a1cc-300684bedcfa.aspx).
     
 ::: moniker-end
-
-## Add a TXT record for SPF to help prevent email spam
-<a name="BKMK_add_MX"> </a>
 
 ::: moniker range="o365-21vianet"
 
@@ -386,8 +370,6 @@ On your DNS host's website, you'll create two new SRV records, typically one at 
   
 ::: moniker-end
 
-## Add two SRV records
-<a name="BKMK_add_MX"> </a>
 
 ::: moniker range="o365-germany"
 
@@ -419,8 +401,6 @@ On your DNS host's website, you'll create two new SRV records, typically one at 
   
 ::: moniker-end
 
-## Add two SRV records
-<a name="BKMK_add_MX"> </a>
 
 ::: moniker range="o365-21vianet"
 
