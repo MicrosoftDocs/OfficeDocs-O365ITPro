@@ -69,7 +69,7 @@ For example, if you're using third-party add-ins with your current Office instal
 Some Office 365 plans don't include the full desktop versions of Office and the steps to upgrade are different if your plan doesn't include Office.
   
 
-Not sure which subscription plan you have? See [What Office 365 for business subscription do I have?](../admin-overview/what-subscription-do-i-have-0.md)
+Not sure which subscription plan you have? See [What Office 365 for business subscription do I have?](../admin-overview/what-subscription-do-i-have.md)
   
  **Subscriptions that include the fully installed Office applications**
   
