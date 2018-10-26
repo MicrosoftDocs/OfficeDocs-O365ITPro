@@ -3,7 +3,7 @@ title: Use the Kaizala web app
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-
+ms.date: 10/27/2018
 ms.audience: Consumer/IW
 ms.topic: article
 ms.service: Kaizalams
@@ -25,7 +25,7 @@ The Kaizala web app (preview) will allow you to access Kaizala from a browser on
 > [!IMPORTANT]
 > You're part of this preview if you can see **Kaizala Web** tab under the **Me** section of the app. The preview app is only available via invitation. We're working to expand the preview. If you want to join the preview, consult your Microsoft partner or check out the Kaizala beta channel for an invite. 
   
-For more info about Kaizala, check out, [Microsoft Kaizala](https://go.microsoft.com/fwlink/?linkid=873406).
+For more info about Kaizala, check out, [Microsoft Kaizala](https://products.office.com/business/microsoft-kaizala).
   
 ## Use the Kaizala Web app
 
