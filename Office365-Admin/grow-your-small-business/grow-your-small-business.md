@@ -60,7 +60,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json">
+        <a href="../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md " target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -79,7 +79,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="tips-to-help-boost-your-business.md?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json">
+        <a href="tips-to-help-boost-your-business.md" target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -178,7 +178,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../contact-support-for-business-products?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json">
+        <a href="../contact-support-for-business-products" target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -255,7 +255,7 @@ description: "Learn about features in Office 365 that help your boost your busin
 ### Admin tasks
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="../Admin/add-users/add-new-employee?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json">
+        <a href="../Admin/add-users/add-new-employee" target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -273,7 +273,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../Admin/add-users/remove-former-employee?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json">
+        <a href="../Admin/add-users/remove-former-employee" target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -291,7 +291,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../Admin/security-and-compliance/secure-your-business-data?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json">
+        <a href="../Admin/security-and-compliance/secure-your-business-data" target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -327,7 +327,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="previous-webinar-videos?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json">
+        <a href="previous-webinar-videos" target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
