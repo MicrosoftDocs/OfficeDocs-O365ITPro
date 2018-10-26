@@ -1,5 +1,5 @@
 ---
-title: "Enter your product key for Office 365 Business Premium
+title: "Enter your product key for Office 365 Business Premium"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
