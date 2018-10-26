@@ -71,7 +71,7 @@ Learn about resources available for Office 365 admins.
         </a>
     </li>
     <li>
-        <a href="  ">
+        <a href="https://docs.microsoft.com/en-us/Office365/Enterprise/">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -81,7 +81,7 @@ Learn about resources available for Office 365 admins.
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Office 365 in the Enterprise **(Needs link)**</h3>
+                        <h3>Office 365 in the Enterprise</h3>
                     </div>
                 </div>
             </div>
