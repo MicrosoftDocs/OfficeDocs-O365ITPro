@@ -170,7 +170,7 @@ Use these resources to get started using your own domain for email, websites, an
                             <p><a href="buy-a-domain-name.md">Buy a domain name</a></p>
                             <p><a href="../setup/domains-faq.md#how-to-set-up-an-office-365-pilot">Set up a pilot with your custom domain for a few people in your company</a></p>
                             <p><a href="domain-connect.md">Quickly add a GoDaddy domain to Office 365</a></p>
-                            <p>Get step-by-step help to <a href="../create-dns-records-at-any-dns-hosting-provider.md">add the required DNS records for Office 365 services</a></p>
+                            <p>Get step-by-step help to <a href="create-dns-records-at-any-dns-hosting-provider.md">add the required DNS records for Office 365 services</a></p>
                             <p><a href="https://docs.microsoft.com/en-us/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization">How to prepare a non-routable domain for directory synchronization</a></p>
                             <p><a href="../setup/domains-faq.md">Domains FAQ</a></p>
                     </div>
@@ -188,7 +188,7 @@ Use these resources to get started using your own domain for email, websites, an
                             <p><a href="../dns/create-dns-records-at-1-1-internet.md">Create DNS records at 1&amp;1 Internet</a></p>
                             <p><a href="../dns/create-dns-records-at-network-solutions.md">Create DNS records at Network Solutions</a></p>
                             <p><b>Help for many more popular providers:</b></p> 
-                            <P><a href="create-dns-records-at-any-dns-hosting-provider-0.md">Create DNS records for Office 365 when you manage your DNS records</a></p>
+                            <P><a href="create-dns-records-at-any-dns-hosting-provider.md">Create DNS records for Office 365 when you manage your DNS records</a></p>
                     </div>
                 </div>
             </div>
@@ -234,7 +234,7 @@ Use these resources to get started using your own domain for email, websites, an
                 <div class="card">
                     <div class="cardText">
                         <h3>More videos</h3>
-                            <p><a href="../dns/create-dns-records-at-godaddy-0.md">Set up a GoDaddy domain in Office 365</a></p>
+                            <p><a href="../dns/create-dns-records-at-godaddy.md">Set up a GoDaddy domain in Office 365</a></p>
                     </div>
                 </div>
             </div>
