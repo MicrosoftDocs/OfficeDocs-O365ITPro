@@ -21,8 +21,8 @@ description: "Learn more about the "MSOID" CNAME record in Office 365 that direc
 # What's the purpose of the Office 365 CNAME record for MSOID?
 
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
-  
- **NOTE: The following only Applies to **Office 365 operated by 21Vianet.****
+> [!NOTE]
+> The following only Applies to **Office 365 operated by 21Vianet.
   
 You may wonder why you need to add the "MSOID" CNAME record in Office 365. This is a record that has to be added for all custom domains, no matter which subscription you use. Why do you need it? It's a little technical, but essentially, it's so that you'll be directed to the best server for certain authentication processes, so you'll get faster response.
   

@@ -170,7 +170,7 @@ Use these resources to get started using your own domain for email, websites, an
                             <p><a href="buy-a-domain-name.md">Buy a domain name</a></p>
                             <p><a href="../setup/domains-faq.md#how-to-set-up-an-office-365-pilot">Set up a pilot with your custom domain for a few people in your company</a></p>
                             <p><a href="domain-connect.md">Quickly add a GoDaddy domain to Office 365</a></p>
-                            <p>Get step-by-step help to <a href="../dns/create-dns-records-at-any-dns-hosting-provider.md">add the required DNS records for Office 365 services</a></p>
+                            <p>Get step-by-step help to <a href="../create-dns-records-at-any-dns-hosting-provider.md">add the required DNS records for Office 365 services</a></p>
                             <p><a href="https://docs.microsoft.com/en-us/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization">How to prepare a non-routable domain for directory synchronization</a></p>
                             <p><a href="../setup/domains-faq.md">Domains FAQ</a></p>
                     </div>
