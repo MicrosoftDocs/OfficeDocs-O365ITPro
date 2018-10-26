@@ -195,7 +195,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 > [!IMPORTANT]
 > You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
   
-1. To get started, go to your domains page at dotPH by using [this link](https://www.dot.ph/domains/account). You'll be prompted to log in first.
+1. To get started, go to your domains page at dotPH by using [dotPH](https://www.dot.ph/). You'll be prompted to log in first.
     
     ![DotPH-BP-Configure-1-1](../media/c8fd1371-76bc-43b6-9a29-70f3c89fff4c.png)
   
