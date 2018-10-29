@@ -60,7 +60,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json">
+        <a href="/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -178,7 +178,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../office365/admin/contact-support-for-business-products">
+        <a href="/office365/admin/contact-support-for-business-products">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -274,7 +274,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../office365/admin/remove-former-employee">
+        <a href="/office365/admin/remove-former-employee">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -292,7 +292,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../office365/admin/security-and-compliance/secure-your-business-data">
+        <a href="/office365/admin/security-and-compliance/secure-your-business-data">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -328,7 +328,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../office365/admin/previous-webinar-videos">
+        <a href="/office365/admin/previous-webinar-videos">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -346,7 +346,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../office365/admin/admin-home">
+        <a href="/office365/admin/admin-home">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
