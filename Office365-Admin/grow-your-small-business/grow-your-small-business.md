@@ -22,7 +22,7 @@ description: "Learn about features in Office 365 that help your boost your busin
 
 <ul class="panelContent cardsW">
     <li>
-        <a href="https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816">
+        <a href="https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816" target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -60,7 +60,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json">
+        <a href="/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json" target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
