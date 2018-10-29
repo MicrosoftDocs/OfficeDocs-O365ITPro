@@ -178,7 +178,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../contact-support-for-business-products" target="_blank">
+        <a href="../contact-support-for-business-products">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -256,7 +256,7 @@ description: "Learn about features in Office 365 that help your boost your busin
 
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="../Admin/add-users/add-new-employee" target="_blank">
+        <a href="../Admin/add-users/add-new-employee">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -274,7 +274,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../Admin/add-users/remove-former-employee" target="_blank">
+        <a href="../Admin/add-users/remove-former-employee">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -292,7 +292,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../Admin/security-and-compliance/secure-your-business-data" target="_blank">
+        <a href="../Admin/security-and-compliance/secure-your-business-data">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -328,7 +328,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="previous-webinar-videos" target="_blank">
+        <a href="previous-webinar-videos">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
