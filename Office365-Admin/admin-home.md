@@ -135,12 +135,12 @@ Learn about resources available for Office 365 admins.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/get-started.svg" alt="Small business" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/small-business.svg" alt="Small business" />
                         </div>
                     </div>
                     <div class="cardText">
                         <h3>For your small business</h3>
-                        <p><a href="/office365/admin/grow-your-small-business/grow-your-small-business" target="_blank">Grow your small business with Office 365.</a></p>
+                        <p><a href="/office365/admin/grow-your-small-business/grow-your-small-business/?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json" target="_blank">Grow your small business with Office 365.</a></p>
                     </div>
                 </div>
             </div>
