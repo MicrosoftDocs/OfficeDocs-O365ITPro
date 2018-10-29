@@ -178,7 +178,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/admin/contact-support-for-business-products">
+        <a href="/office365/admin/contact-support-for-business-products.md">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -256,7 +256,7 @@ description: "Learn about features in Office 365 that help your boost your busin
 
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="/office365/admin/add-users/add-new-employee">
+        <a href="/office365/admin/add-users/add-new-employee.md">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -274,7 +274,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/admin/remove-former-employee">
+        <a href="/office365/admin/remove-former-employee.md">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -292,7 +292,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/admin/security-and-compliance/secure-your-business-data">
+        <a href="/office365/admin/security-and-compliance/secure-your-business-data.md">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -328,7 +328,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/admin/previous-webinar-videos">
+        <a href="/office365/admin/previous-webinar-videos.md">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -346,7 +346,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/admin/admin-home">
+        <a href="/office365/admin/admin-home.md">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
