@@ -33,7 +33,7 @@ You can add and manage DNS records using the administrative tools at your domain
   
 Click your domain host below for the exact steps. If you're not sure who your host is, see [Find your domain registrar](find-your-domain-registrar.md).
   
-[I need general instructions, because my domain host isn't on this list. ](../create-dns-records-at-any-dns-hosting-provider.md)
+[I need general instructions, because my domain host isn't on this list. ](create-dns-records-at-any-dns-hosting-provider.md)
   
 |**Manage your own DNS records**|**Let Office 365 manage your DNS records**|
 |:-----|:-----|

@@ -60,7 +60,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json&view=o365-worldwide">
+        <a href="../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -79,7 +79,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="tips-to-help-boost-your-business.md?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json&view=o365-worldwide">
+        <a href="tips-to-help-boost-your-business.md?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -138,114 +138,229 @@ description: "Learn about features in Office 365 that help your boost your busin
 </ul>
 
 ---
+### Get set up
 
 <ul class="panelContent cardsFTitle">
     <li>
         <a href="https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/sign-up.svg" alt="Buy Office" />
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="https://docs.microsoft.com/en-us/office/media/icons/sign-up.svg" alt="Buy Office" />
+                            </div>
                         </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Buy Office</h3>
+                        <div class="cardText">
+                            <h3>Buy Office</h3>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
         </a>
     </li>
     <li>
         <a href="https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/get-started.svg" alt="Get started hand" />
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="https://docs.microsoft.com/en-us/office/media/icons/get-started.svg" alt="Get started hand" />
+                            </div>
                         </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Get started with set up</h3>
+                        <div class="cardText">
+                            <h3>Get started with set up</h3>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
         </a>
     </li>
     <li>
-        <a href="../contact-support-for-business-products?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json&view=o365-worldwide">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/headset.svg" alt="Contact support" />
+        <a href="../contact-support-for-business-products" target="_blank">
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="https://docs.microsoft.com/en-us/office/media/icons/headset.svg" alt="Contact support" />
+                            </div>
                         </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Contact support</h3>
+                        <div class="cardText">
+                            <h3>Contact support</h3>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
         </a>
     </li>
     <li>
-        <a href="previous-webinar-videos?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json&view=o365-worldwide">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/video-play.svg" alt="Video play" />
+        <a href="https://support.office.com/article/cff9f9fb-956e-4cb9-8b64-d7ebc1911123">
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="https://docs.microsoft.com/en-us/office/media/icons/migration.svg" alt="Migration - two documents and an arrow between them" />
+                            </div>
                         </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Monthly webinar series</h3>
+                        <div class="cardText">
+                            <h3>Switch from GSuite</h3>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
         </a>
     </li>
     <li>
         <a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426.aspx">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone.svg" alt="What's new megaphone" />
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone.svg" alt="What's new megaphone" />
+                            </div>
                         </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>See what's new</h3>
+                        <div class="cardText">
+                            <h3>See what's new</h3>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
         </a>
     </li>
     <li>
-        <a href="https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/document.svg" alt="Document" />
+        <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364">
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="https://docs.microsoft.com/en-us/office/media/icons/caret-right-blue.svg" alt="Right arrow - go" />
+                            </div>
                         </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Check out Office templates</h3>
+                        <div class="cardText">
+                            <h3>Looking for Microsoft 365 Business?</h3>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </a>
+    </li>
+</ul>
+
+---
+### Admin tasks
+
+<ul class="panelContent cardsFTitle">
+    <li>
+        <a href="../Admin/add-users/add-new-employee" target="_blank">
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="https://docs.microsoft.com/en-us/office/media/icons/user-accounts.svg" alt="User accounts" />
+                            </div>
+                        </div>
+                        <div class="cardText">
+                            <h3>Add an employee</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="../Admin/add-users/remove-former-employee" target="_blank">
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="https://docs.microsoft.com/en-us/office/media/icons/cancel.svg" alt="Remove - X" />
+                            </div>
+                        </div>
+                        <div class="cardText">
+                            <h3>Remove a former employee</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="../Admin/security-and-compliance/secure-your-business-data" target="_blank">
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="https://docs.microsoft.com/en-us/office/media/icons/security.svg" alt="Security shield" />
+                            </div>
+                        </div>
+                        <div class="cardText">
+                            <h3>Secure your business data</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="https://support.office.com/article/6d4259dd-0933-4117-94b6-36c602e3460d">
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="https://docs.microsoft.com/en-us/office/media/icons/task-checklist-planning.svg" alt="Tasks, checklists" />
+                            </div>
+                        </div>
+                        <div class="cardText">
+                            <h3>Admin task videos</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="previous-webinar-videos" target="_blank">
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="https://docs.microsoft.com/en-us/office/media/icons/video-play.svg" alt="Video play" />
+                            </div>
+                        </div>
+                        <div class="cardText">
+                            <h3>Monthly webinar series</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="../admin/admin-home">
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="https://docs.microsoft.com/en-us/office/media/icons/help.svg" alt="Help" />
+                            </div>
+                        </div>
+                        <div class="cardText">
+                            <h3>More help for Office 365 admins</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </a>
     </li>
 </ul>
