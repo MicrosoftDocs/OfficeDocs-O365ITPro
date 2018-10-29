@@ -140,7 +140,7 @@ Learn about resources available for Office 365 admins.
                     </div>
                     <div class="cardText">
                         <h3>For your small business</h3>
-                        <p><a href="https://go.microsoft.com/fwlink/?linkid=2004037">Grow your small business with Office 365.</a></p>
+                        <p><a href="/office365/admin/grow-your-small-business/grow-your-small-business" target="_blank">Grow your small business with Office 365.</a></p>
                     </div>
                 </div>
             </div>
