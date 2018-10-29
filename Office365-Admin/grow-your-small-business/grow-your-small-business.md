@@ -178,7 +178,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../contact-support-for-business-products"?target="_blank">
+        <a href="../contact-support-for-business-products">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -193,7 +193,7 @@ description: "Learn about features in Office 365 that help your boost your busin
                     </div>
                 </div>
             </div>
-        </a>
+        < target="_blank" /a>
     </li>
     <li>
         <a href="https://support.office.com/article/cff9f9fb-956e-4cb9-8b64-d7ebc1911123">
