@@ -328,7 +328,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/admin/previous-webinar-videos">
+        <a href="/office365/admin/grow-your-small-business/previous-webinar-videos">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
