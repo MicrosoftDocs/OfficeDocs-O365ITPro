@@ -41,7 +41,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="https://go.microsoft.com/fwlink/?linkid=874598">
+        <a href="https://go.microsoft.com/fwlink/?linkid=874598" target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -79,7 +79,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="tips-to-help-boost-your-business?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json">
+        <a href="tips-to-help-boost-your-business?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json" target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -117,7 +117,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="https://support.office.com/en-us/article/4414eaaf-0478-48be-9c42-23adc4716658">
+        <a href="https://support.office.com/en-us/article/4414eaaf-0478-48be-9c42-23adc4716658" target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -142,7 +142,7 @@ description: "Learn about features in Office 365 that help your boost your busin
 
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2">
+        <a href="https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2" target="_blank">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -196,7 +196,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="https://support.office.com/article/cff9f9fb-956e-4cb9-8b64-d7ebc1911123">
+        <a href="https://support.office.com/article/cff9f9fb-956e-4cb9-8b64-d7ebc1911123" target="_blank">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -214,7 +214,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426.aspx">
+        <a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426.aspx" target="_blank">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -232,7 +232,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364">
+        <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -256,7 +256,7 @@ description: "Learn about features in Office 365 that help your boost your busin
 
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="/office365/admin/add-users/add-new-employee">
+        <a href="/office365/admin/add-users/add-new-employee" target="_blank">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -274,7 +274,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/admin/remove-former-employee">
+        <a href="/office365/add-users/remove-former-employee" target="_blank">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -292,7 +292,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/admin/security-and-compliance/secure-your-business-data">
+        <a href="/office365/admin/security-and-compliance/secure-your-business-data" target="_blank">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -310,7 +310,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="https://support.office.com/article/6d4259dd-0933-4117-94b6-36c602e3460d">
+        <a href="https://support.office.com/article/6d4259dd-0933-4117-94b6-36c602e3460d" target="_blank">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -346,7 +346,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/admin/admin-home">
+        <a href="/office365/admin/admin-home" target="_blank">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
