@@ -1,5 +1,5 @@
 ---
-title: Kaizala users
+title: Create Kaizala users
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
@@ -18,7 +18,7 @@ ms.assetid: ff03275f-00a0-4fa6-a1cf-1e97a8e79a0a
 description: Learn how to create Kaizala users such that they can send instant messages, pictures, and documents, or setup a new poll or survey.
 ---
 
-# Kaizala users
+# Create Kaizala users
 
 Before you can send instant messages, pictures, and documents, or setup a new poll or survey, you'll have to create Kaizala users. You can add users individually or in bulk. For managing users in groups, check out [Kaizala groups](groups.md).
   
