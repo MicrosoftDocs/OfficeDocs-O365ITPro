@@ -256,7 +256,7 @@ description: "Learn about features in Office 365 that help your boost your busin
 
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="../office365/admin/add-users/add-new-employee">
+        <a href="/office365/admin/add-users/add-new-employee">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
