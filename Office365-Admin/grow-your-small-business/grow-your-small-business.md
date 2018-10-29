@@ -274,7 +274,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="../Admin/add-users/remove-former-employee">
+        <a href="../add-users/remove-former-employee">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
