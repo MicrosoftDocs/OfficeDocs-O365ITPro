@@ -34,7 +34,7 @@ description: Manage Office 365
                                 </a>
                             </li>
                             <li>
-                                <a href="https://support.office.com/office365admin">
+                                <a href="https://docs.microsoft.com/en-us/office365/admin/admin-home">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
