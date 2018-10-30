@@ -10,7 +10,7 @@ ms.assetid:
 ms.service: o365-administration
 ms.custom: Adm_Yammer
 ms.topic: landing-page
-
+ms.date: 9/4/18
 ---
 # Yammer admin help
 

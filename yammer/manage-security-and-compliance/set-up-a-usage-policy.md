@@ -3,7 +3,7 @@ title: "Set up a Yammer usage policy"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-
+ms.date: 5/7/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

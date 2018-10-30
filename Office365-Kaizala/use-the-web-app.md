@@ -3,7 +3,11 @@ title: Use the Kaizala web app
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
+<<<<<<< HEAD
 ms.date: 10/27/2018
+=======
+ms.date: 10/4/2018
+>>>>>>> parent of 9c68766f... Merge pull request #78 from MicrosoftDocs/pebaum_working_final_conversion
 ms.audience: Consumer/IW
 ms.topic: article
 ms.service: Kaizalams
