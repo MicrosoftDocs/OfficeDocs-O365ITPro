@@ -61,7 +61,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     |**Hostname:**|**Text:**|
     |:-----|:-----|
-    |@  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** You must use the admin center to get this value.[Get help with Office 365 domains](../get-help-with-domains/get-help-with-domains.md)   <br/>     |
+    |@  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** You must use the admin center to get this value. [Get help with Office 365 domains](../get-help-with-domains/get-help-with-domains.md)   <br/>     |
    
     ![Type or paste the DSN values on the Add TXT Record page](../media/ae8386df-6cec-4bbe-a280-9d3fc170d972.png)
   
