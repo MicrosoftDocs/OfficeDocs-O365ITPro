@@ -71,17 +71,17 @@ Learn about resources available for Office 365 admins.
         </a>
     </li>
     <li>
-        <a href="https://docs.microsoft.com/en-us/Office365/Enterprise/">
+        <a href="/office365/admin/manage/stay-on-top-of-updates/">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/on-premises-building.svg" alt="Office 365 in the Enterprise" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone.svg" alt="What's new in Office 365?" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Office 365 in the Enterprise</h3>
+                        <h3>What's new?</h3>
                     </div>
                 </div>
             </div>
@@ -135,12 +135,12 @@ Learn about resources available for Office 365 admins.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/get-started.svg" alt="Small business" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/small-business.svg" alt="Small business" />
                         </div>
                     </div>
                     <div class="cardText">
                         <h3>For your small business</h3>
-                        <p><a href="/office365/admin/grow-your-small-business/grow-your-small-business" target="_blank">Grow your small business with Office 365.</a></p>
+                        <p><a href="/office365/admin/grow-your-small-business/grow-your-small-business/?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json" target="_blank">Grow your small business with Office 365.</a></p>
                     </div>
                 </div>
             </div>
