@@ -41,6 +41,16 @@ Enabling Kaizala Pro allows your organization users to:
 
 When Kaizala Pro is disabled, users will see the following messages.
 
+
+|Column1  |Column2  |Column3  |
+|---------|---------|---------|
+|Management portal          |Microsoft Kaizala Pro is disabled for your organization. Enable to allow login with work account. [Learn more](kaizala-management-portal.md)         |![Message in the Office 365 admin center that Kaizala is disabled](media/disabled-message-tenant-admin-portal.png)         |
+|Row2     |         |         |
+|Row3     |         |         |
+|Row4     |         |         |
+
+
+
 |End point  |Office 365 admin |Message   |
 |-----------|-----------------|----------|
 |Management portal     |Microsoft Kaizala Pro is disabled for your organization. Enable to allow login with work account. [Learn more](kaizala-management-portal.md) |![Message in the Office 365 admin center that Kaizala is disabled](media/disabled-message-tenant-admin-portal.png)    |
