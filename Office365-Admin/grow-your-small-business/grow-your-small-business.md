@@ -79,7 +79,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="tips-to-help-boost-your-business?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json" target="_blank">
+        <a href="tips-to-help-boost-your-business" target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
