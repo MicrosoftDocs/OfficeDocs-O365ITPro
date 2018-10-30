@@ -3,7 +3,7 @@ title: "Office 365 sign-in for Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-
+ms.date: 9/4/2018
 ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration

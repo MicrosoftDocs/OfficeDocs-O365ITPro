@@ -3,7 +3,7 @@ title: Kaizala content pack
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-
+ms.date: 8/21/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala

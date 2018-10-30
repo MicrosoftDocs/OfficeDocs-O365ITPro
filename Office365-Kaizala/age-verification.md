@@ -3,7 +3,7 @@ title: Kaizala app age verification
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-
+ms.date: 8/21/2018
 ms.audience: Consumer/IW
 ms.topic: article
 ms.service: Kaizala
