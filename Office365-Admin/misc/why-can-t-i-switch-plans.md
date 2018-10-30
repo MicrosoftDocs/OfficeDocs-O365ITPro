@@ -26,7 +26,7 @@ search.appverid:
 - BEA160
 - GEA150
 ms.assetid: e81e09d2-cd52-4212-8550-5405864b6d62
-description: "Understand the reasons why sometimes switching plans has to be done manually or by calling Support."
+description: "Understand the reasons why sometimes switching plans has to be done manually or by calling support."
 ---
 
 # Why can't I switch Office 365 for business plans?
