@@ -5,7 +5,7 @@
 ## [Kaizala app](kaizala-app.md)
 ### [Kaizala mobile app](kaizala-mobile-app.md)
 ### [Chat history](chat-history.md)
-### [Use the web app](use-the-web-app.md)
+### [Use Kaizala Web](use-the-web-app.md)
 ### [Regional availability](regional-availability.md)
 ### [Age verification](age-verification.md)
 ### [Make payments](make-payments.md)
