@@ -3,7 +3,7 @@ title: "Network migration - Consolidate multiple Yammer networks"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-
+ms.date: 10/3/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

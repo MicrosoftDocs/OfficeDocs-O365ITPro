@@ -3,7 +3,7 @@ title: Microsoft Kaizala
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-
+ms.date: 09/14/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
