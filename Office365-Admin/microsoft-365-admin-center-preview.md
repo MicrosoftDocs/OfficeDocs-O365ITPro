@@ -89,7 +89,7 @@ We're continuously adding new features to the Microsoft 365 admin center, fixing
   - The User's details and settings are now organized by the following tabs: **Account**, **Devices**, **Licenses**, **Apps**, **Mail**, and **OneDrive**. Previously, many of these settings were located across multiple screens. <br/>![Users detail pane in the admin center preview.](media/60c6b9d3-d62f-4b8d-97db-41ff247b1bf0.png)<br/>Curious to know how the classic admin center tasks map to the preview admin center? Check out [User management](#user-management) later in this article. 
     
   
-## October 2018
+### October 2018
 
 - There's a new way to buy subscriptions in the Microsoft 365 admin center. Go to **Purchase services** to see the completely redesigned shopping experience that makes it easy to search, compare plans, and other great new features that helps make purchasing a subscription easier. <br/>![Purchase services plan comparison in Microsoft 365 admin center preview](media/0ad5acf1-8ffc-44bf-aac2-c21269910e65.png)
 
