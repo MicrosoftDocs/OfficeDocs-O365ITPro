@@ -4,11 +4,11 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 10/19/2018
+ms.date: 10/31/2018
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
-ms.reviewer: nitinjms2
+ms.reviewer: ramarut
 localization_priority: Normal
 search.appverid:
 - MET150
@@ -39,21 +39,13 @@ Enabling Kaizala Pro allows your organization users to:
 > [!NOTE]
 > Only the Office 365 administrator can enable or disable Kaizala Pro.
 
-When Kaizala Pro is disabled, users will see one of the messages in the following table based on who attempted to sign in (Office 365 admin or others), where the sign in was attempted (portal or app), and why Kaizala was disabled (explicitly Office 365 admin action or by default).
+When Kaizala Pro is disabled, users will see the following messages.
 
-### Disabled explicitly by admin
-
-|End point  |Office 365 admin |Others  |
-|-----------|-------------|------------------|
-|Management portal     |Microsoft Kaizala Pro is disabled for your organization. Enable to allow login with work account. [Learn more](kaizala-management-portal.md)   |Login with work account is disabled for your organization. Contact your Office 365 administrator to enable Kaizala Pro. [Learn more](kaizala-management-portal.md)    |
-|App     |Login with work account is disabled for your organization. Contact your Office 365 administrator to enable Kaizala Pro. [Learn more](kaizala-management-portal.md)   |Login with work account is disabled for your organization. Contact your Office 365 administrator to enable Kaizala Pro. [Learn more](kaizala-management-portal.md)    |
-
-### Disabled by default (not part of commercially available countries)
-
-|End point  |Office 365 admin |Others  |
-|-----------|-------------|------------------|
-|Management portal     |Microsoft Kaizala Pro is disabled for your organization. Enable to allow login with work account. [Learn more](kaizala-management-portal.md)   |Login with work account is disabled for your organization. Contact your Office 365 administrator to enable Kaizala Pro. [Learn more](kaizala-management-portal.md)    |
-|App     |Login with work account is disabled for your organization. Contact your Office 365 administrator to enable Kaizala Pro. [Learn more](kaizala-management-portal.md)   |Login with work account is disabled for your organization. Contact your Office 365 administrator to enable Kaizala Pro. [Learn more](kaizala-management-portal.md)  |
+|End point  |Role |Message  |
+|---------|---------|---------|
+|Management portal  |Office 365 admin    |![Message in the Office 365 admin center that Kaizala is disabled](media/disabled-message-tenant-admin-portal.png)   |
+|Management portal  |Other users        |![Message in the Office 365 admin center that Kaizala is disabled](media/disabled-message-other-admins-portal.png)   |
+|Mobile app     |All users        |![Message on a user's device that Kaizala is disabled](media/disabled-message-users-app.jpg)  <br>(Note: The message displayed varies depending on the version of the app.)       |
 
 Once disabled, users in the organization will no longer be able to sign in using Office 365 on the Kaizala app or the Kaizala management portal. However, users can continue to use the Kaizala app for their personal use (without signing in to their work account).
 

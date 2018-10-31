@@ -3,7 +3,7 @@ title: "Add external messaging participants to your Yammer conversations"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-
+ms.date: 9/4/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

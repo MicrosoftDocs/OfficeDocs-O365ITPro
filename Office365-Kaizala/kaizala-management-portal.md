@@ -3,7 +3,7 @@ title: Kaizala management portal
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-
+ms.date: 08/31/2018
 ms.audience: ITPro
 ms.topic: article
 ms.service: Kaizala
