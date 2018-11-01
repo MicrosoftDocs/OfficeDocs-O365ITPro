@@ -37,11 +37,11 @@ The Kaizala management portal is a web based portal that provides management, re
   
 The Kaizala management portal can be used by the following users:
   
-- **IT administrators**  Use the portal to set up groups and manage users within these groups in a secure and compliant manner. For example, an administrator can add or remove users from a specific group, or remove a user from all organization groups, so that when an employee leaves, the person doesn't remain a member of organization groups, and doesn't have access to organization data. 
+- **IT administrators** -- Use to set up groups and manage users within these groups in a secure and compliant manner. For example, an administrator can add or remove users from a specific group, or remove a user from all organization groups, so that when an employee leaves, the person doesn't remain a member of organization groups, and doesn't have access to organization data. 
     
-- **Developers**  Use the portal to either create a new Kaizala Action, or customize a Kaizala Action. Developers can also add a new Connector to integrate their internal or external systems with Kaizala. 
+- **Developers** -- Use to either create a new Kaizala Action or customize a Kaizala Action. Developers can also add a new connector to integrate their internal or external systems with Kaizala. 
     
-- **Business User**  Can view built-in reports, with real-time data updates, for Kaizala Actions shared in organization groups. 
+- **Business User** -- Use to view built-in reports, with real-time data updates, for Kaizala Actions shared in organization groups. 
     
 ![Kaizala management portal](media/f14b188f-e1a2-4a72-8ca1-d05fcada255a.png)
   
@@ -53,7 +53,7 @@ The Kaizala management portal can be used by the following users:
 |[Public Groups](public-groups.md)  |Connect with a large set of subscribers to send and receive information.  |
 |[Kaizala Reports](reports.md)  |View reports on Kaizala Actions.  |
 |[Kaizala Actions](actions.md)  |Create new Kaizala Actions.  |
-|[Kaizala Connectors](connectors.md) |Integrate internal or external applications with Microsoft Kaizala using REST APIs. |
+|[Kaizala Connectors](connectors.md) |Integrate internal or external applications with Kaizala using REST APIs. |
    
 
 

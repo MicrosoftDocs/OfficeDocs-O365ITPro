@@ -1,5 +1,5 @@
 ---
-title: Use Kaizala Web
+title: Kaizala Web
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
@@ -19,7 +19,7 @@ ms.assetid: cd0fa9fc-e4af-4c6e-a9a2-b6a4ad34d1fa
 description: Learn how to use Kaizala Web to access Kaizala from a browser window on your computer or mobile device.
 ---
 
-# Use Kaizala Web
+# Kaizala Web
 
 Kaizala Web (Preview) will allow you to access Kaizala from a browser on your computer. Before you can use Kaizala Web, you need to log in to the Kaizala app on your mobile device. Kaizala Web is simply an extension of your phone; the web app mirrors conversations and messages from your mobile device.
   
