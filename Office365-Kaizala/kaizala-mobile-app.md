@@ -3,10 +3,11 @@ title: Kaizala mobile app
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 8/21/2018
+ms.date: 11/01/2018
 ms.audience: ITPro
 ms.topic: article
 ms.service: Kaizala
+ms.reviewer:
 ms.custom: Kaizala
 localization_priority: Normal
 search.appverid:
@@ -78,45 +79,45 @@ You can find all your recent conversations inside the **Chat** section, from whe
 
 The Kaizala management portal is a web-based portal that provides access to management, reporting and extensibility features of Kaizala. With it, your organization can quickly onboard thousands, even millions of users to Kaizala. This can include employees, partners, vendors, or customers. All you would need is their phone numbers. Learn more about the [Kaizala Management Portal](kaizala-management-portal.md)
   
-## Using Kaizala Actions
+## Use Kaizala Actions
 
 You can send **Actions** by tapping the \<palette\> icon from the top right corner of a conversation. Built in Kaizala Actions help you coordinate frequently-used tasks for common workflow scenarios. You can find and use Kaizala Actions from the **Discover** page in the app. The available Kaizala Actions include: 
   
-- **Announcement** Use the announcement action to make key announcements or share updates with your team. Announcements are a great way to share a message across groups in an organization or in a public group. Engage with your audience about the announcement using likes and comments. 
+- **Announcement** -- Use to make key announcements or share updates with your team. Announcements are a great way to share a message across groups in an organization or in a public group. Engage with your audience about the announcement using likes and comments. 
     
-- **Job** Chat messages used to assign jobs to people and track their completion status. The job creator and the assignee, can add quick comments to indicate the progress of the work. Other members of the group can also comment on the job and status. 
+- **Job** -- Use to assign jobs to people and track their completion status through chat messages. The job creator and the assignee, can add quick comments to indicate the progress of the work. Other members of the group can also comment on the job and status. 
     
-- **Let's Meet** Used to send quick meeting invitations. The invitee can respond to the invite within the chat and confirm whether they can meet. 
+- **Let's Meet** -- Use to send quick meeting invitations. The invitee can respond to the invite within the chat and confirm whether they can meet. 
     
-- **Live Location** Use this Kaizala action to request for the location of a colleague or friend. Users get a choice to share their location with you for a specified duration of time. Location can be tracked in real-time. 
+- **Live Location** -- Use to request for the location of a colleague or friend. Users get a choice to share their location with you for a specified duration of time. Location can be tracked in real-time. 
     
-- **Photo with Location** The Photo with Location action allows you to share real-time photo information with others, along with the GPS coordinates which show where the photo was taken. For example, with a single tap, team members can share a geo-tagged picture with others. This can be used to confirm that a specific task has been completed at a specific location. It can also be used for location-based attendance. 
+- **Photo with Location** -- Use to share real-time photo information with others, along with the GPS coordinates which show where the photo was taken. For example, with a single tap, team members can share a geo-tagged picture with others. This can be used to confirm that a specific task has been completed at a specific location. It can also be used for location-based attendance. 
     
-- **Share Location** This action allows you to share location of your team members or phonebook contacts using Kaizala. This helps in coordinating with all team members. 
+- **Share Location** -- Use to share the location of your team members or phonebook contacts using Kaizala. This helps in coordinating with all team members. 
     
-- **Quick Poll** With a Quick Poll action, you can design a custom poll to gather information from your team or from your customers. Respondents can then respond to the poll quickly and easily. Responses are updated in real-time and are presented in an easy-to-read way. You can also create poll questions with predefined responses. 
+- **Quick Poll** -- Use to design a custom poll to gather information from your team or from your customers. Respondents can then respond to the poll quickly and easily. Responses are updated in real-time and are presented in an easy-to-read way. You can also create poll questions with predefined responses. 
     
-- **Request Location** Allows you to request the current location of Kaizala users. This helps in areas of marking attendance, or tracking the presence of your team at any point in time.
+- **Request Location** -- Use to request the current location of Kaizala users. This helps in areas of marking attendance, or tracking the presence of your team at any point in time.
     
-- **Submit Bill** Allows you to quickly capture the photo of an invoice and share it with details. 
+- **Submit Bill** -- Use to quickly capture the photo of an invoice and share it with details. 
     
-- **Survey** A poll and a survey are similar in all respects but the following: 
+- **Survey** -- Use a poll and a survey in similar ways except for the following: 
     
-  -  In a poll, you can only ask one question. In a survey you can ask multiple questions. 
+  - In a poll, you can only ask one question. In a survey you can ask multiple questions. 
     
   - In a poll, you can only set the multiple choice format for a response. Conversely, in a survey, you can choose multiple formats for responses: multiple choice, text, numbers or even an image.
     
-- **Checklist** The checklist action allows you to share a list of tasks with a person or a group, and have them individually complete each task. 
+- **Checklist** -- Use to share a list of tasks with a person or a group, and have them individually complete each task. 
     
-    create to-do lists and capture everyone's status
+  -  Create to-do lists and capture everyone's status.
     
 ## Discover more Kaizala Actions
 
-We regularly release new Actions, and you can discover them by going to **Discover** \> **Kaizala**.
+We regularly release new Kaizala Actions, and you can discover them by going to **Discover** \> **Kaizala**.
   
-## Kaizala custom actions
+## Create Kaizala custom actions
 
-You can also create custom Kaizala actions. Write to kaizalaDev@microsoft.com to learn more. Common custom Kaizala Actions are:
+You can also create custom Kaizala actions. Contact kaizalaDev@microsoft.com to learn more. Common custom Kaizala Actions are:
   
 - Share feedback
     
@@ -131,17 +132,19 @@ Public groups let you send feedback or report issues to the organizations you wa
 ## Privacy
 
 You can block someone from contacting you on Kaizala. Blocked contacts will no longer be able to send you messages. To block a contact, go to their profile in the Kaizala app. Then go to the profile settings icon on the top right corner, and select **Block**. You can find the list of blocked contacts in **Blocked Contacts** in **Settings**. You can also unblock any contacts from there.
-  
-## I can't connect to Kaizala
 
-You may not be able to connect to Kaizala because your phone isn't connected to the Internet.
+## Frequently asked questions
+
+### I can't connect to Kaizala
+
+You might not be able to connect to Kaizala because your phone isn't connected to the Internet.
   
 - Make sure you have a working data plan on your cellular network or a Wi-Fi connection with access to Internet.
     
-## I'm seeing "Upgrade now to use this feature" when I'm trying to use Kaizala
+### I'm seeing "Upgrade now to use this feature" when I'm trying to use Kaizala
 
 This means that the message you received isn't supported by the version of the app that you are using. Most likely, you will have received this from another user who is on a newer version of Kaizala.
   
-- In order to resolve this and see the unsupported message, please upgrade Kaizala to the latest version from the app store.
+- To resolve this and see the unsupported message, you need to upgrade Kaizala to the latest version from the app store.
     
 
