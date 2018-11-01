@@ -23,6 +23,7 @@ search.appverid:
 ms.assetid: 9b497c85-d0a4-4735-80fa-d3565bc05bd1
 description: "Learn how to remove licenses from user accounts in Office 365 for business subscription. "
 ---
+<!-- Clone: AgentUniversity\admin\Remove-licenses-users.md -->
 
 # Remove licenses from users in Office 365 for business
 
