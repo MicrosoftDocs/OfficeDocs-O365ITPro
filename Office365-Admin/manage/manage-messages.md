@@ -31,7 +31,7 @@ Click on a message to open it in the reading pane. You'll see the expiration dat
 Use the **Previous** and **Next** buttons to navigate between messages. 
   
 ![Example message with expiration date](../media/e47cd136-3f17-4559-be1c-2787ebb411dc.png)
-  
+
 ## Filter and sort
 
 Use the Views drop-down menu to select a filtered view of messages.
@@ -41,6 +41,12 @@ Use the Views drop-down menu to select a filtered view of messages.
 You can click on any column heading to sort messages in ascending or descending order. For example, in this diagram the messages are sorted on the **Act by** date. 
   
 ![Message center sorted by Act by column](../media/10342802-0bd7-4dd3-9003-e86ff226f85a.png)
+
+## Give feedback on a post
+
+In the Message center, you can select a message to see details. 
+If you want to provide feedback on the message, click either the **Like** or **Dislike** icon and provide feedback in the text box that appears. Do not provide any personal information. You can optionally choose **It's OK to contact me about this feedback** and then choose **Send**.
+![Provide feedback on a message center post.](../media/Providefeedback-on-message-center-post.png)
   
 ## Share a message
 
