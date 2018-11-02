@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: a428f6cf-e471-418a-a4e9-518bea7c2cd5
 description: "Learn to setup your own DNS records at East.net for Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Create DNS records at East.net for Office 365

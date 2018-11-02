@@ -16,7 +16,8 @@ search.appverid:
 - MET150
 - GEA150
 ms.assetid: c80a315a-af87-4996-94b9-fd2194f58a93
-description: "Learn how to submit your Fapiao request to the 21Vianet Fapiao management system after making a payment in the Office 365 operated by 21Vianet in China. "
+description: "Learn how to submit your Fapiao request to the 21Vianet Fapiao management system after making a payment in the Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Apply for a Fapiao for Office 365 operated by 21Vianet

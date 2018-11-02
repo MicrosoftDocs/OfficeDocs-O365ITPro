@@ -32,6 +32,7 @@ search.appverid:
 ms.assetid: 0669bf14-414d-4f51-8231-6b710ce7980b
 ROBOTS: NOINDEX
 description: "Learn to create DNS records for Office 365 operated by 21Vianet when your manage your DNS records. "
+monikerRange: 'o365-21vianet'
 ---
 
 # Create DNS records for Office 365 when you manage your DNS records

@@ -17,6 +17,7 @@ search.appverid:
 - GEA150
 ms.assetid: c29d38b5-53a6-4bd9-b7aa-ce12c902da83
 description: "View your billing statement or invoice about your Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # View your bill or get a Fapiao in Office 365 operated by 21Vianet

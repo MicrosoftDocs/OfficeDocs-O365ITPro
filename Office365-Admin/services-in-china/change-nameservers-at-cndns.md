@@ -17,6 +17,7 @@ search.appverid:
 - GEA150
 ms.assetid: c279f6dd-d38a-48a8-bbb0-b014aa9adcda
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when CNDNS is the DNS hosting provider."
+monikerRange: 'o365-21vianet'
 ---
 
 # Change nameservers to set up Office 365 with CNDNS

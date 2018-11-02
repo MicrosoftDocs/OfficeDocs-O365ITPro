@@ -23,6 +23,7 @@ search.appverid:
 ms.assetid: a8ab5061-3346-4da0-bb7c-5260822b53ae
 
 description: "Learn more about Office 365 operated by 21Vianet that is designed to meet the needs for secure, reliable and scalable cloud services in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Office 365 operated by 21Vianet

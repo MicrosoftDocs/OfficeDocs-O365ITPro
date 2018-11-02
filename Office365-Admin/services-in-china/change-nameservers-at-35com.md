@@ -17,6 +17,7 @@ search.appverid:
 - GEA150
 ms.assetid: d1b5cc0d-47a2-46d7-a5ad-cb6a4b864e3b
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when 35COM is the DNS hosting provider."
+monikerRange: 'o365-21vianet'
 ---
 
 # Change nameservers to set up Office 365 with 35COM

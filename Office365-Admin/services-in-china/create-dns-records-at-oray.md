@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: bc8e0427-72ea-4d98-9f13-3ea98edc5972
 description: "Learn to setup your own DNS records at Oray for Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Create DNS records at Oray for Office 365
