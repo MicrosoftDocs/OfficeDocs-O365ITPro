@@ -15,6 +15,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 68d1dca2-f1d6-4edc-8aff-318acfd47688
+ROBOTS: NOINDEX
 description: "Read about what's new, currently popular, and on the horizon, in Office 365."
 ---
 

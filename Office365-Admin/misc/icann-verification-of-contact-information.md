@@ -16,6 +16,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 0413dcce-26be-4b8c-b3fa-73ac1ac4fb35
+ROBOTS: NOINDEX
 description: "Learn how to validate your contact information to comply with ICANN regulations."
 ---
 

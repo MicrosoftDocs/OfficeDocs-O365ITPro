@@ -15,6 +15,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: d3adf0cf-d581-4452-a5b3-6e0d16a34daa
+ROBOTS: NOINDEX
 description: "Get a list of Microsoft Cloud Solutions providers in Russia."
 ---
 

@@ -22,6 +22,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 0dc55430-98d6-4cbe-ba69-1a4ad29a967d
+ROBOTS: NOINDEX
 description: "Learn about types of users in the Office 365 admin center. "
 ---
 

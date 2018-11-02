@@ -22,6 +22,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: e64ceac2-ae62-4d29-a9ee-6aab9870ae2b
+ROBOTS: NOINDEX
 description: "Learn how to create contacts in the Office 365 admin center and manage your global address list."
 ---
 
