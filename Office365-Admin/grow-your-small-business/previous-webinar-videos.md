@@ -15,6 +15,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 34c1cfda-5a11-41b7-929d-fc2937fe8b61
+ROBOTS: NOINDEX
 description: "Watch montly webinar videos related to Office. "
 ---
 

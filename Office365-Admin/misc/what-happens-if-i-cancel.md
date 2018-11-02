@@ -25,6 +25,7 @@ search.appverid:
 - BEA160
 - GEA150
 ms.assetid: b9d801c8-65fa-4a87-84a1-2b6e3f88d2a1
+ROBOTS: NOINDEX
 description: "Learn what happens to your Office 365 subscription if you cancel it before the end of your term. "
 ---
 

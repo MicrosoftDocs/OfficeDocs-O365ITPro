@@ -18,6 +18,7 @@ search.appverid:
 - MOE150
 - BEA160
 ms.assetid: eb0d0680-5677-41a0-8c46-4b9d47f1c209
+ROBOTS: NOINDEX
 description: "Switch Office 365 for business subscriptions manually by buying a new subscription and ensuring that both the subscriptions are listed and active."
 ---
 

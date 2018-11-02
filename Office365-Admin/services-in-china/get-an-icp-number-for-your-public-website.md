@@ -14,6 +14,7 @@ search.appverid:
 - MET150
 - GEA150
 ms.assetid: bfa6e6b8-3301-4da8-b9e4-1a7c36aabd10
+ROBOTS: NOINDEX
 description: "This topic applies to Office 365 operated by 21Vianet in China. This is how you get an Internet Content Provider (ICP) number for your public website."
 ---
 

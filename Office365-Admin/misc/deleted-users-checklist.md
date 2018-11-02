@@ -25,6 +25,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 6016b50e-2b6e-4164-b565-2fde401fda3a
+ROBOTS: NOINDEX
 description: "Follow this checklist while deleting a user's Office 365 account."
 ---
 

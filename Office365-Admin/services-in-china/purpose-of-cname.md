@@ -15,6 +15,7 @@ search.appverid:
 - BCS160
 - MET150
 - MOE150
+ROBOTS: NOINDEX
 description: "Learn more about the 'MSOID' CNAME record in Office 365 that directs you to the best server for authentication processes, so you'll getter a faster response."
 ---
 

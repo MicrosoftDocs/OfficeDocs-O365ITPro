@@ -25,6 +25,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 89502322-bfbb-43d6-9207-4030f8ce26e0
+ROBOTS: NOINDEX
 description: "Learn how to share your Office 365 sites and documents with external users. "
 ---
 

@@ -16,6 +16,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: f1951923-6f81-4e06-9744-0dd214a8bd69
+ROBOTS: NOINDEX
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at easyDNS for Office 365."
 ---
 
