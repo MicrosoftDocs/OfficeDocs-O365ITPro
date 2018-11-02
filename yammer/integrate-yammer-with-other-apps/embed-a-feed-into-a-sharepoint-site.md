@@ -3,7 +3,7 @@ title: "Embed a Yammer feed into a SharePoint site"
 ms.author: loreenl
 author: LoreenLa
 manager: pamgreen
-
+ms.date: 8/10/2018
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
