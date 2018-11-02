@@ -17,6 +17,7 @@ search.appverid:
 - GEA150
 ms.assetid: fe56c6c8-6b67-4fc4-a9c4-ddc572351e5d
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when DNSPod is the DNS hosting provider."
+monikerRange: 'o365-21vianet'
 ---
 
 # Change nameservers to set up Office 365 with DNSPod

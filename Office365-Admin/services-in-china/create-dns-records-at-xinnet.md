@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: 36ecc37f-fd4f-44d6-a013-7dba396e8ccc
 description: "Learn to setup your own DNS records at Xinnet for Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Create DNS records at Xinnet for Office 365

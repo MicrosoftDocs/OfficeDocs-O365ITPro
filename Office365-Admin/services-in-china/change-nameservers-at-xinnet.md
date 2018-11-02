@@ -17,6 +17,7 @@ search.appverid:
 - GEA150
 ms.assetid: acc7a119-8ba9-4ff0-aeab-6fd91b037ccc
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when Xinnet is the DNS hosting provider."
+monikerRange: 'o365-21vianet'
 ---
 
 # Change nameservers to set up Office 365 with Xinnet

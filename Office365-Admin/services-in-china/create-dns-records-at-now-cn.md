@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: f169e878-8362-4e42-9cb5-f9b26049f468
 description: "Learn to setup your own DNS records at Now.cn for Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Create DNS records at Now.cn for Office 365

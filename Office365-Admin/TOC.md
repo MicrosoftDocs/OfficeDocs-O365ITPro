@@ -141,7 +141,7 @@
 ### [Remove an alias  from a contact](troubleshoot-issues-for-admins/remove-an-alias-from-a-contact.md)
 ### [Remove an alias from a mail-enabled security group](troubleshoot-issues-for-admins/remove-an-alias-from-a-mail-enabled-security-group.md)
 ### [Remove an alias from a distribution list](troubleshoot-issues-for-admins/remove-an-alias-from-a-distribution-list.md)
-## [Services in China](services-in-china/services-in-china.md)
+## [Office 365 operated by 21Vianet](services-in-china/services-in-china.md)
 ### [Buy or try subscriptions](services-in-china/buy-or-try-subscriptions.md)
 ### [View your bill or get a Fapiao](services-in-china/view-your-bill-or-get-a-fapiao.md)
 ### [Apply for a Fapiao](services-in-china/apply-for-a-fapiao.md)

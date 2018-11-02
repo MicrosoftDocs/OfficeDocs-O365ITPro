@@ -17,6 +17,7 @@ search.appverid:
 - GEA150
 ms.assetid: 992a2ba5-77f6-4286-8907-039e3c3f575c
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when ZGSJ is the DNS hosting provider."
+monikerRange: 'o365-21vianet'
 ---
 
 # Change nameservers to set up Office 365 with ZGSJ

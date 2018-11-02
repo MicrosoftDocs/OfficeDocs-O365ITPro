@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: 1ee3e051-20fc-4258-936c-3a45f654f703
 description: "Learn to setup your own DNS records at DNSPod for Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Create DNS records at DNSPod for Office 365

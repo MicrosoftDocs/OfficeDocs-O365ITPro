@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: f4e5581e-9ae2-488a-9c2e-911028c4a177
 description: "Learn to setup your own DNS records at IDC1 Services for Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Create DNS records at IDC1 for Office 365

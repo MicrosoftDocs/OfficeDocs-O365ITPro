@@ -17,6 +17,7 @@ search.appverid:
 - GEA150
 ms.assetid: cb9ac07b-71d8-4448-8b13-cf7f0bd87e00
 description: "Learn how you can set up Office 365 to manage your DNS records, when BIZCN is the DNS hosting provider."
+monikerRange: 'o365-21vianet'
 ---
 
 # Change nameservers to set up Office 365 with BIZCN

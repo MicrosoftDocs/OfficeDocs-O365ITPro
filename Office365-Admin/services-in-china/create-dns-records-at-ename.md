@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: 50193085-0f1d-4bf2-9c76-1f62b78b835e
 description: "Learn to setup your own DNS records at ENAME Services for Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Create DNS records at ENAME for Office 365

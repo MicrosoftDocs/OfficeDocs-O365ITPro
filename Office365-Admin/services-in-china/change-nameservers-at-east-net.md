@@ -17,6 +17,7 @@ search.appverid:
 - GEA150
 ms.assetid: 136102cb-46fe-4100-8c60-e05aa97a6414
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when East.net is the DNS hosting provider."
+monikerRange: 'o365-21vianet'
 ---
 
 # Change nameservers to set up Office 365 with East.net
