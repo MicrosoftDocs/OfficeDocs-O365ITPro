@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: ce8cce16-9d20-4b1b-aefd-86d4dceb6ed6
 description: "Learn to setup your own DNS records at CNDNS for Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Create DNS records at CNDNS for Office 365

@@ -17,6 +17,7 @@ search.appverid:
 - GEA150
 ms.assetid: a9891ca0-0d20-4614-b77c-9a7a5c7e4b54
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when SUNDNS is the DNS hosting provider."
+monikerRange: 'o365-21vianet'
 ---
 
 # Change nameservers to set up Office 365 with SUNDNS

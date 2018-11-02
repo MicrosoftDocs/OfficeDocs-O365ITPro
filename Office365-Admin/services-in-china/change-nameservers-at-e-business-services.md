@@ -18,6 +18,7 @@ search.appverid:
 - GEA150
 ms.assetid: b3cd782f-3553-4bad-b7bc-fb7e64832e9e
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when E-business Services is the DNS hosting provider."
+monikerRange: 'o365-21vianet'
 ---
 
 # Change nameservers to set up Office 365 with E-business Services 

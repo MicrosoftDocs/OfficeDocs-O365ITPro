@@ -17,6 +17,7 @@ search.appverid:
 - GEA150
 ms.assetid: aa17fe0b-bfa7-41b8-a145-25dbc7c375a3
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when ENAME is the DNS hosting provider."
+monikerRange: 'o365-21vianet'
 ---
 
 # Change nameservers to set up Office 365 with ENAME

@@ -17,6 +17,7 @@ search.appverid:
 - GEA150
 ms.assetid: 39751f12-6a14-4dfc-b665-c988f93ffb3d
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when Now.cn is the DNS hosting provider."
+monikerRange: 'o365-21vianet'
 ---
 
 # Change nameservers to set up Office 365 with Now.cn

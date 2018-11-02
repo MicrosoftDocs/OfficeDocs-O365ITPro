@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: bb6be17f-c497-4c72-9e0d-861b0dc83739
 description: "Learn to setup your own DNS records at West263 for Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Create DNS records at West263 for Office 365

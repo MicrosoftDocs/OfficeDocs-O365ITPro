@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: fcc15118-0d19-4517-a315-ffabc9a0290a
 description: "Learn to setup your own DNS records at BIZCN for Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Create DNS records at BIZCN for Office 365

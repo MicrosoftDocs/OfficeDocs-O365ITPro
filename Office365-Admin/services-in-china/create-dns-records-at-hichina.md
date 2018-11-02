@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: 0d38b34f-c31d-4b26-81e1-1df83b2592ae
 description: "Learn to setup your own DNS records at HiChina Services for Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Create DNS records at HiChina for Office 365

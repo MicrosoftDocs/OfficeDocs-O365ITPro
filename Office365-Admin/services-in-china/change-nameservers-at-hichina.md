@@ -17,6 +17,7 @@ search.appverid:
 - GEA150
 ms.assetid: 3c28f260-4814-432c-bc2e-9dade767a88d
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when HiChina is the DNS hosting provider."
+monikerRange: 'o365-21vianet'
 ---
 
 # Change nameservers to set up Office 365 with HiChina
