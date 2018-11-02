@@ -130,6 +130,7 @@
 ### [Restore deleted Group](create-groups/restore-deleted-group.md)
 ### [Manage guest access in Groups](create-groups/manage-guest-access-in-groups.md)
 ## [Troubleshoot](troubleshoot-issues-for-admins/troubleshoot-issues-for-admins.md)
+### [Troubleshoot Office installation issues](troubleshoot-issues-for-admins/troubleshoot-office-installation-issues.md)
 ### [Fix Outlook and Office 365 issues](troubleshoot-issues-for-admins/fix-outlook-and-office-365-issues.md)
 ### [Diagnostic log collection in Support and Recovery Assistant](troubleshoot-issues-for-admins/diagnostic-log-collection-in-support-and-recovery-assistant.md)
 ### [Troubleshoot email issues](troubleshoot-issues-for-admins/troubleshoot-email-issues.md)
