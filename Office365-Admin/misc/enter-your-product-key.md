@@ -18,6 +18,7 @@ search.appverid:
 - MOE150
 - BEA160
 ms.assetid: 0199dd39-7c46-4875-af9b-588df3a9afea
+ROBOTS: NOINDEX
 description: "Learn how to redeem an Office 365 Business Premium product key purchased at a retail store." 
 
 ---

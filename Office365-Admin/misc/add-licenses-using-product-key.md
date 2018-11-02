@@ -18,6 +18,7 @@ search.appverid:
 - MOE150
 - BEA160
 ms.assetid: 4fb4bd7e-3920-4ce0-98fb-0c06e3fedf53
+ROBOTS: NOINDEX
 description: "Learn how to add licenses to your Office 365 subscription."
 ---
 

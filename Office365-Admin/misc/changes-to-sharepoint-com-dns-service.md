@@ -17,6 +17,7 @@ search.appverid:
 - MET150
 - SPO160
 ms.assetid: 7d4ae748-f504-44c8-b958-c79c1486801c
+ROBOTS: NOINDEX
 description: "Learn about the transition to a new DNS provider to improve DNS reliability for your SharePoint.com domains."
 ---
 

@@ -22,6 +22,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: f1369214-9880-48c0-923c-d28eb795ef7b
+ROBOTS: NOINDEX
 description: "Learn to access GoDaddy and create DNS through the Google Domains page."
 ---
 

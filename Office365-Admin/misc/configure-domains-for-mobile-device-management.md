@@ -25,6 +25,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: a6186b4f-d673-4a1c-989e-9cbc6055dfb8
+ROBOTS: NOINDEX
 description: "Learn to manage Windows Phone devices with your Office 365 custom domain by adding DNS records. "
 ---
 

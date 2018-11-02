@@ -13,6 +13,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5cb45d81-fdcf-4fde-8601-a09666353cc4
+ROBOTS: NOINDEX
 description: "Learn about the DNS records required for Office 365 U.S. Government GCC High. "
 ---
 

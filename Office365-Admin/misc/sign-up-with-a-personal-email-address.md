@@ -12,6 +12,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 20816b8b-8b21-458f-81c1-320b8116597e
+ROBOTS: NOINDEX
 description: "Learn how to sign up for Office 365 with your personal email address, if you don't prefer to add a custom domain. "
 ---
 

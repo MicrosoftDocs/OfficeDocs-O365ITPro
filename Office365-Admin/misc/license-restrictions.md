@@ -25,6 +25,7 @@ search.appverid:
 - BEA160
 - GEA150
 ms.assetid: dd78a6f2-d06b-4417-89b8-0391221d1b63
+ROBOTS: NOINDEX
 description: "Learn about license restrictions for Office 365 and Office 365 operated by 21Vianet in China."
 ---
 
