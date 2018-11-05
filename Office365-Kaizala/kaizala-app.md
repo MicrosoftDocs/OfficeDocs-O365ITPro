@@ -1,0 +1,26 @@
+---
+title: Kaizala app
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
+ms.date: 09/13/2018
+ms.audience: Admin
+ms.topic: article
+ms.service: Kaizala
+ms.custom: Kaizala
+localization_priority: Normal
+search.appverid:
+- MET150
+- MOE150
+- MED150
+- MBS150
+ms.assetid: 
+description: Learn about the Kaizala app and how to send secure instant messages, Kaizala Actions, attachments, and more.
+---
+
+# Kaizala app
+
+Microsoft Kaizala is a mobile chat-based communication platform that connects your first-line workers with your information workers in the modern workplace. Kaizala makes it easy to connect and coordinate with not just your field workers but also with your members, customers, and distributors. It lets you efficiently manage work or collect data from individuals or large groups, even if they’re not in your organization. 
+  
+[Download Kaizala for your mobile phone](https://go.microsoft.com/fwlink/p/?linkid=851074), and learn about how to use the mobile app here: [About the Kaizala mobile app](kaizala-mobile-app.md).
+

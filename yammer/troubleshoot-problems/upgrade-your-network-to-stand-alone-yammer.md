@@ -40,7 +40,7 @@ Qualifying Office 365 customers who are looking for more granular control over t
 - The ability to export network data for reporting, retention, and analysis
     
 ## How to upgrade
-<a name="__top"> </a>
+
 
 You can activate Yammer Enterprise through the Office 365 admin portal by following these steps.
   
@@ -55,7 +55,7 @@ Upon activation, your Office 365 Global Administrators will become administrator
 For more information about the upgrade to Yammer Enterprise, see [Yammer Plans &amp; Pricing](https://about.yammer.com/pricing/). 
   
 ## Determine your Yammer Enterprise upgrade strategy
-<a name="__top"> </a>
+
 
 Your Yammer service includes a private network or collection of private networks that are organized by email domain. Yammer creates a network for every unique email domain in your organization so at sign-in, users will be routed to the Yammer network that matches their email address. For example, john@contoso.com would be in the  *contoso.com*  network. 
   

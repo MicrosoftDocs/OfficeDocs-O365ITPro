@@ -46,7 +46,7 @@ Once your domain is set up in Office 365, your Yammer network is automatically c
   
     b. In the **Network** section choose **Network Migration**.
     
-    ![Screenshot of the Network Migration menu item for Yammer Admins](../media/f9ae9328-9cb2-46f7-9bce-26bcdc29b3fa.png)
+    ![Network Migration menu item for Yammer Admins](../media/f9ae9328-9cb2-46f7-9bce-26bcdc29b3fa.png)
   
     c. In the **Step 1 of 3 - Check/Add Verified Domains** page, you'll see the list of domains on the Yammer network. 
     

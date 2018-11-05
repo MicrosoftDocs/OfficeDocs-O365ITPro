@@ -15,7 +15,7 @@ description: Manage Office 365
                         <a href="#home-all"></a>
                         <ul id="home-all" class="cardsC">
                             <li>
-                                <a href="/office365/enterprise/cloud-adoption-and-hybrid-solutions">
+                                <a href="/office365/enterprise/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -34,7 +34,7 @@ description: Manage Office 365
                                 </a>
                             </li>
                             <li>
-                                <a href="https://support.office.com/office365admin">
+                                <a href="https://docs.microsoft.com/en-us/office365/admin/admin-home">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -53,7 +53,7 @@ description: Manage Office 365
                                 </a>
                             </li>
                             <li>
-                                <a href="https://support.office.com/article/dcb83b2c-ac66-4ced-925d-50eb9698a0b2">
+                                <a href="/office365/SecurityCompliance/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -64,7 +64,26 @@ description: Manage Office 365
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>Office 365 Security &amp; Compliance</h3>
-                                                    <p>Protect your organization's data, and comply with legal and regulatory standards.</p>
+                                                    <p>Protect your organization&#39;s data, and comply with legal and regulatory standards.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://docs.microsoft.com/DeployOffice/deployment-guide-for-office-365-proplus">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img src="https://docs.microsoft.com/en-us/office/media/hub-tiles/Office-ManageUpdates-400x140.svg" alt="A computer with a download symbol" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Office 365 ProPlus</h3>
+                                                    <p>Find guidance about how to deploy Office 365 ProPlus from the cloud, from a local source, and with System Center Configuration Manager.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -89,8 +108,7 @@ description: Manage Office 365
                                         </div>
                                     </div>
                                 </a>
-                            </li>                           
-                        </ul>
+                            </li><br/>                        </ul>
                     </li>
                 </ul>
             </li>
