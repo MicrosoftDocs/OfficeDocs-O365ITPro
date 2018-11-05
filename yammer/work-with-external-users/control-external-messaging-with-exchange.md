@@ -35,7 +35,7 @@ For steps to create a rule using the [Exchange admin center](https://docs.micros
 
 Here is an example of a simple rule you can create to disable external messaging in Yammer that won't impact email flow:
 1. In **Name**, enter a name such as "Disable Yammer external messaging and external groups"
-2. **In Apply this rule if**, select "TThe recipient address includes...", and then specify **notanemail@notadomain.com**. Note that the exact value doesn't matter: it just must be in valid email format. 
+2. **In Apply this rule if**, select "The recipient address includes...", and then specify **notanemail@notadomain.com**. Note that the exact value doesn't matter: it just must be in valid email format. 
 3.  In Do the following, select **Reject the message with the explanation** and add an explanation such as "This disables external groups and messaging in Yammer".
 4. In Choose a mode for this rule, select **Enforce**.
 5. Click **Save**.
