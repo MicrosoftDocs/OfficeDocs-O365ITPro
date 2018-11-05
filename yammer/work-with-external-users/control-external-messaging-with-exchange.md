@@ -3,7 +3,7 @@ title: "Disable external messaging in a Yammer network"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 9/4/2018
+ms.date: 11/5/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
