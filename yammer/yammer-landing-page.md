@@ -109,21 +109,6 @@ Build communities and collaboration in your organization with Yammer.
                 </div>
             </div>
         </div>
-    </li><li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone-blue.svg" alt="What's new" data-linktype="external">
-                        </div>
-                    </div>
-                    <div class="cardText">
-                            <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-live-events" data-linktype="absolute-path">Yammer live events</a></p> <br/>
-                    </div>
-                </div>
-            </div>
-        </div>
     </li>
     <li>
         <div class="cardSize">
@@ -136,6 +121,21 @@ Build communities and collaboration in your organization with Yammer.
                     </div>
                     <div class="cardText">
                             <p><a href="/en-us/Yammer/manage-yammer-users/AAD-account-required" data-linktype="absolute-path">AAD credentials will soon be required for log in</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li><li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone-blue.svg" alt="What's new" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                            <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-live-events" data-linktype="absolute-path">Yammer live events</a></p> <br/>
                     </div>
                 </div>
             </div>
