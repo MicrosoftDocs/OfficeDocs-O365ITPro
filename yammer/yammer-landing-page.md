@@ -10,7 +10,7 @@ ms.assetid:
 ms.service: o365-administration
 ms.custom: Adm_Yammer
 ms.topic: landing-page
-ms.date: 11/5/18
+ms.date: 9/4/18
 ---
 # Yammer admin help
 
@@ -111,17 +111,17 @@ Build communities and collaboration in your organization with Yammer.
             </div>
         </div>
     </li>
-<li>
+    <li>
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us//office/media/icons/flag-blue.svg" alt="What's new" data-linktype="external">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag.svg" alt="What's new" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
-                            <p><a href="http://support.office.com/en-us/article/12116b2c-a9f4-40a5-bf6f-5e2d82f16d58" data-linktype="absolute-path">What's new in Yammer</a></p> <br/>
+                            <p><a href="/en-us/Yammer/manage-yammer-users/AAD-account-required" data-linktype="absolute-path">AAD credentials will soon be required for log in</a></p>
                     </div>
                 </div>
             </div>
@@ -142,22 +142,7 @@ Build communities and collaboration in your organization with Yammer.
             </div>
         </div>
     </li>    
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag.svg" alt="What's new" data-linktype="external">
-                        </div>
-                    </div>
-                    <div class="cardText">
-                            <p><a href="/en-us/Yammer/manage-yammer-users/AAD-account-required" data-linktype="absolute-path">AAD credentials will soon be required for log in</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
+
 </ul>
 <hr>
 <h2>Featured Articles</h2>
