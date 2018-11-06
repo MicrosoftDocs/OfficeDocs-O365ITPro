@@ -3,7 +3,7 @@ title: "Add, block, or remove Yammer users"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 5/25/2018
+ms.date: 11/5/2018
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -90,7 +90,10 @@ You can deactivate or permanently remove users, including users, including activ
     
 3. Select an action to take:
     
-      - **Deactivate this user:** This blocks the user from logging on until they verify their email address again. Without access to their verified email account, they cannot log back on to Yammer. User profile information, messages, and/or file uploads remain. This can be a useful option for contract employees that have completed their project but can be renewed again later. Deactivated users can reactivate their account within 90 days by enabling their email account and logging on to Yammer, where they will receive an email with links to reactivate. After 90 days, the account is permanently deleted. 
+      - **Deactivate this user:** 
+          - If the user is not using Azure Active Directory (AAD) credentials, this blocks the user from logging on until they verify their email address again. Without access to their verified email account, they cannot log back on to Yammer. User profile information, messages, and/or file uploads remain. This can be a useful option for contract employees that have completed their project but can be renewed again later. Deactivated users can reactivate their account within 90 days by enabling their email account and logging on to Yammer, where they will receive an email with links to reactivate. After 90 days, the account is permanently deleted.
+
+          - If the user is using AAD credentials, first use this action to deactivate the user and then also follow the instructions in [Block users]https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#block-users. 
     
       - **Permanently remove this user and keep messages:** This lets you remove the user and retain the messages and content they posted. 
     
