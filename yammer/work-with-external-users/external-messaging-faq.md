@@ -3,7 +3,7 @@ title: "External messaging FAQ - Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 9/4/2018
+ms.date: 11/5/2018
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -142,7 +142,11 @@ Yes. Keyword monitoring applies to any posts in your network, including those fr
   
 ### Q: I don't want external messaging and external groups enabled for my network. What options do I have to disable all of external messaging?
 
-As an admin, you can disable external messaging and external groups in your Yammer network. This blocks users from creating external groups in their home network, but still allows users to be invited to groups hosted on other networks. To do this, you create an Exchange Online mail flow rule, and configure Yammer to enforce mail flow rules. For instructions, see [Disable external messaging in a Yammer network](control-external-messaging-with-exchange.md). 
+As an admin, you can disable external messaging and external groups in your Yammer network. This blocks users from creating external groups in their home network, and blocks users from being invited to and joining groups hosted on other networks. To do this, you create an Exchange Online mail flow rule, and configure Yammer to enforce mail flow rules. For instructions, see [Disable external messaging in a Yammer network](control-external-messaging-with-exchange.md). 
+
+### Q: How do I disable external messaging and external groups in my network but still allow users to join other organization's external groups?
+
+If you want users to be able to join an external networks but not allow external messaging on your network, you need to disable Exchange Transport Rules on the Yammer network, and [contact support](https://docs.microsoft.com/office365/admin/contact-support-for-business-products) to set external messaging to "Enabled-Inbound Only." 
     
 ### Q: What is the user experience if I disable external messaging?
 
