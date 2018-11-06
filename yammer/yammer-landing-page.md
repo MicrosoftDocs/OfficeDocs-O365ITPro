@@ -10,7 +10,7 @@ ms.assetid:
 ms.service: o365-administration
 ms.custom: Adm_Yammer
 ms.topic: landing-page
-ms.date: 9/4/18
+ms.date: 11/5/18
 ---
 # Yammer admin help
 
@@ -95,6 +95,21 @@ Build communities and collaboration in your organization with Yammer.
 <h2>What&#39;s new</h2>
 <ul class="panelContent cardsF">
     <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us//office/media/icons/flag-blue.svg" alt="What's new" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                            <p><a href="http://support.office.com/en-us/article/12116b2c-a9f4-40a5-bf6f-5e2d82f16d58" data-linktype="absolute-path">What's new in Yammer</a></p> <br/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li><li>
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
