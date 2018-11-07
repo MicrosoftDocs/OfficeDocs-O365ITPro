@@ -1,7 +1,7 @@
 ---
 title: "Grow your small business with Office 365"
 ms.author: kwekua
-author: kwekua
+author: supotter
 manager: scotv
 ms.audience: Admin
 ms.topic: landing-page
