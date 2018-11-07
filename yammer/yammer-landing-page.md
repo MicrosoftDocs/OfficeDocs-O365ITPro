@@ -94,17 +94,18 @@ Build communities and collaboration in your organization with Yammer.
 <hr>
 <h2>What&#39;s new</h2>
 <ul class="panelContent cardsF">
-    <li>
+
+   <li>
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone-blue.svg" alt="What's new" data-linktype="external">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag-blue.svg" alt="What's new" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
-                            <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-live-events" data-linktype="absolute-path">Yammer live events</a></p> <br/>
+                            <p><a href="https://support.office.com/en-us/article/what-s-new-in-yammer-12116b2c-a9f4-40a5-bf6f-5e2d82f16d58" data-linktype="absolute-path">What's new in Yammer</a></p> <br/>
                     </div>
                 </div>
             </div>
@@ -125,7 +126,23 @@ Build communities and collaboration in your organization with Yammer.
                 </div>
             </div>
         </div>
-    </li>
+    </li><li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone-blue.svg" alt="What's new" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                            <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-live-events" data-linktype="absolute-path">Yammer live events</a></p> <br/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>    
+
 </ul>
 <hr>
 <h2>Featured Articles</h2>
