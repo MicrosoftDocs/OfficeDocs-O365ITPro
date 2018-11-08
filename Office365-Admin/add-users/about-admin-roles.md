@@ -41,6 +41,7 @@ Here are the available roles and what people assigned to them can do.
 > [!TIP]
 > For a detailed list of what tasks each of these roles can and cannot do, and how they overlap with roles in other Microsoft services, see [Administrator role permissions in Azure Active Directory.](https://go.microsoft.com/fwlink/?linkid=862394)
 
+|:-----|:-----|
 |**Role** <br/> |**What they do in Office 365** <br/> |
 |![Global admin](../media/cbdb29d5-8d68-452a-8ccd-b337e5c86cec.png) **Global administrator** <br/> |Accesses all administrative features in the Office 365 suite of services in your plan, including Skype for Business. By default the person who signs up to buy Office 365 becomes a global admin.  <br/> Global admins are the only admins who can assign other admin roles. You can have more than one global admin in your organization. **As a best practice** we recommend that only a few people in your company have this role. It reduces the risk to your business.  <br/><br/> **Tip:** Make sure everyone who is a global admin in your organization has a mobile phone number and alternate email address in their contact info. Check out [Change your organization's address, technical contact email, and other information](../manage/change-address-contact-and-more.md) for more details.  <br/> |
 |![Credit card](../media/d00b0009-51f5-410b-bb0b-7ab36102b03c.png) **Billing administrator** <br/> |Makes purchases, manages subscriptions, manages support tickets, and monitors service health.  <br/> |
