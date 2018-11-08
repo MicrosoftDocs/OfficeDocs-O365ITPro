@@ -81,7 +81,7 @@ Learn about resources available for Office 365 admins.
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>What's new?</h3>
+                        <h3>Get new features</h3>
                     </div>
                 </div>
             </div>
