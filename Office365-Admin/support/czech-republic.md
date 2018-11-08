@@ -27,7 +27,7 @@ English: Mon-Fri 9 AM-6 PM
 
 ### Technical Support:
 
-Czech: Mon-Fri 8 AM-9 PM
+Czech: Mon-Fri 8 AM-6 PM
 
 English: 24 hours a day, 7 days a week
 

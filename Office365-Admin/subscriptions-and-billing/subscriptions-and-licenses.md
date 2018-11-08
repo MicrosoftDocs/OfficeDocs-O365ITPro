@@ -20,6 +20,7 @@ search.appverid:
 ms.assetid: 7ac93507-0e38-4398-8bfe-9c1d123cb387
 description: "Learn about subscriptions and licenses in Office 365 for business, and know who can assign licenses and what happens when you assign a license to someone. "
 ---
+<!-- Clone: AgentUniversity\admin\understand-licenses.md -->
 
 # Understand subscriptions and licenses in Office 365 for business
 
