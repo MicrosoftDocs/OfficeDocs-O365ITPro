@@ -80,7 +80,7 @@ When you're running your own business, there're a lot of things to keep track of
         </a>
     </li>
     <li>
-        <a href="../security-and-compliance/gdpr-compliance.md">
+        <a href="../admin/security-and-compliance/gdpr-compliance.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
