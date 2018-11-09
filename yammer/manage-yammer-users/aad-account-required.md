@@ -74,4 +74,8 @@ If self-service signup is not enabled, users using legacy Yammer credentials won
 
 **Q: Will this impact guest users?** 
 
-A: No, this change will not impact guest users. 
+A: No, this change will not impact guest users.
+
+**Q. Do I have to buy an Office 365 license for each user that currently doesn't have an AAD account?**
+
+A. No. If you enable self-service signup before January 19, 2019, the AAD account is created for the user when they change their password. If you wait until after January 19, you'll have to create the AAD account yourself. No Office 365 license is required. 

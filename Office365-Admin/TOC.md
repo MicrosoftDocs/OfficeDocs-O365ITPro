@@ -146,7 +146,7 @@
 ### [View your bill or get a Fapiao](services-in-china/view-your-bill-or-get-a-fapiao.md)
 ### [Apply for a Fapiao](services-in-china/apply-for-a-fapiao.md)
 ### [Initial partner.onmschina.cn domain](services-in-china/initial-partner-onmschina-cn-domain.md)
-## [What's new](manage/stay-on-top-of-updates.md)
+## [Get new features](manage/stay-on-top-of-updates.md)
 ### [Release options in Office 365](manage/release-options-in-office-365.md)
 ### [Message center](manage/message-center.md)
 ### [Manage messages](manage/manage-messages.md)

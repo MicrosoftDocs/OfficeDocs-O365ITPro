@@ -69,7 +69,7 @@ To access the Yammer network configuration tools:
     
       - **Allow people to upload and attach files in any format**
     
-      - **Only allow people to upload and attach image or video files**: Limits attachements to images and videos. Yammer determines file type by extension. 
+      - **Only allow people to upload and attach image or video files**: Limits attachments to images and videos. Yammer determines file type by extension. 
     
          Yammer uses Azure Media Services to make videos viewable within the network. For more information, see [Azure Media Services](https://go.microsoft.com/fwlink/?LinkId=698736).
     
