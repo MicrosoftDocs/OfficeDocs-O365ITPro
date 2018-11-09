@@ -27,7 +27,7 @@ English: Mon-Fri 8 AM-6 PM
 
 ### Technical Support:
 
-Polish: Mon-Fri 8 AM-9 PM
+Polish: Mon-Fri 8 AM-6 PM
 
 English: 24 hours a day, 7 days a week
 

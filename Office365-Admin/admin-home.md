@@ -77,11 +77,11 @@ Learn about resources available for Office 365 admins.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone.svg" alt="What's new in Office 365?" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/radar.svg" alt="Get new features" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>What's new?</h3>
+                        <h3>Get new features</h3>
                     </div>
                 </div>
             </div>

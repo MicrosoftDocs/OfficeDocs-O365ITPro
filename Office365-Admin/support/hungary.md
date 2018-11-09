@@ -25,7 +25,7 @@ English: Mon-Fri 9 AM-5 PM
 
 ### Technical Support:
 
-Hungarian: Mon-Fri 8 AM-9 PM
+Hungarian: Mon-Fri 8 AM-6 PM
 
 English: 24 hours a day, 7 days a week
 
