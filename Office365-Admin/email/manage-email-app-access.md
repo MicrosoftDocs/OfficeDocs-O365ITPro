@@ -17,7 +17,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: d00b6b83-1f14-4e9c-a2c5-dbd9a92816f4
-ROBOTS: NOINDEX
+ROBOTS: NOINDEX, NOFOLLOW
 description: "Learn how to choose which mobile apps people can use to access email, calendar, and contacts."
 ---
 
