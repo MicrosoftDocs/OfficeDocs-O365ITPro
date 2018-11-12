@@ -10,7 +10,7 @@ localization_priority: Normal
 ms.custom: Core_O365Admin_Migration
 search.appverid: MET150
 ms.assetid: ba780859-0297-4114-a258-2b2809bab9e6
-ROBOTS: NOINDEX
+ROBOTS: NOINDEX, NOFOLLOW
 description: "Learn how to access email from your mobile device."
 ---
 
