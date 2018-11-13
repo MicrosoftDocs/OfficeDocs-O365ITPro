@@ -49,8 +49,6 @@
 ### [Add user or contact to distribution list](email/add-user-or-contact-to-distribution-list.md)
 ### [Configure Clutter](email/configure-clutter.md)
 ### [Remove license from shared mailbox](email/remove-license-from-shared-mailbox.md)
-### [Manage email app access](email/manage-email-app-access.md)
-### [Access email from a mobile device](email/access-email-from-a-mobile-device.md)
 ## [Secure your business data](security-and-compliance/secure-your-business-data.md)
 ### [Plan for modern authentication](security-and-compliance/multi-factor-authentication-plan.md)
 ### [Set up multi-factor authentication](security-and-compliance/set-up-multi-factor-authentication.md)

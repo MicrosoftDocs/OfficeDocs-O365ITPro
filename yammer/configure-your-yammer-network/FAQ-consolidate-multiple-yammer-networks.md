@@ -3,7 +3,7 @@ title: "FAQ: Consolidating multiple Yammer networks"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 10/2/2018
+ms.date: 11/9/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
