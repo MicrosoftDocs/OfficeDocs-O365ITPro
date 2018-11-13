@@ -3,7 +3,7 @@ title: "Manage Yammer user licenses in Office 365"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-
+ms.date: 11/7/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -59,7 +59,7 @@ Below are some example Windows PowerShell script snippets that you can use to ma
     $License.ServiceStatus | ForEach {
        If ($_.ProvisioningStatus -eq "Disabled" -or  $_.ServicePlan.ServiceName -like "*YAMMER*") { $DisabledOptions += "$($_.ServicePlan.ServiceName)" } 
     }
-    $LicenseOptions = New-MsolLicenseOptions -AccountplanId $License.AccountplanId -DisabledPlans $DisabledOptions
+    $LicenseOptions = New-MsolLicenseOptions -AccountSkuId $License.AccountSkuId -DisabledPlans $DisabledOptions
      Set-MsolUserLicense -UserPrincipalName $UPN -LicenseOptions $LicenseOptions
   }
   

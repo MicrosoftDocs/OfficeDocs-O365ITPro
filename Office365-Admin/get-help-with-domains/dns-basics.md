@@ -26,6 +26,7 @@ search.appverid:
 - GEA150
 - BSA160
 ms.assetid: 854b6b2b-0255-4089-8019-b765cff70377
+ROBOTS: NOINDEX
 description: "Learn about domains and their associated DNS records to help you manage your Office 365 domains."
 ---
 

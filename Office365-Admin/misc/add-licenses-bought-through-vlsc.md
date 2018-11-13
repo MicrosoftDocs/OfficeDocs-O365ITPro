@@ -18,6 +18,7 @@ search.appverid:
 - MOE150
 - BEA160
 ms.assetid: 82ba88fa-ebdf-4d44-a7b3-cea82b25d71a
+ROBOTS: NOINDEX
 description: "Learn how to add licenses to your Office 365 subscription purchased through the third-party partner, recognized by Microsoft."
 ---
 

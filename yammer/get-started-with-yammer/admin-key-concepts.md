@@ -3,7 +3,7 @@ title: "Yammer admin key concepts"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-
+ms.date: 8/3/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

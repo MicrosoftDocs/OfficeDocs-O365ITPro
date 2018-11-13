@@ -3,7 +3,7 @@ title: "Converting Yammer notes into Word Online documents"
 ms.author: v-irpast
 author: IrenePasternack
 manager: laurapamgreenwi
-
+ms.date: 2/27/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

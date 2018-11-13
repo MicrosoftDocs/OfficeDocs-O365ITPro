@@ -14,6 +14,7 @@ search.appverid:
 - MET150
 - PWB150
 ms.assetid: d7941332-8aec-4e5e-87e8-92073ce73dc5
+ROBOTS: NOINDEX
 description: "Learn about Power BI and how users in your organization can use this business analytics service."
 ---
 

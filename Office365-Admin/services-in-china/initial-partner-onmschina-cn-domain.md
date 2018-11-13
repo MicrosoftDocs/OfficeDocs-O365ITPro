@@ -19,7 +19,9 @@ search.appverid:
 - MET150
 - GEA150
 ms.assetid: 7152fc7d-7784-458b-9d90-1806b8d86751
+ROBOTS: NOINDEX
 description: "Sign up with Office 365 operated by 21Vianet and get the partner.onmschina.cn domain. You can use the domain with Office 365 email addresses, team sites, and Lync."
+monikerRange: 'o365-21vianet'
 ---
 
 # About your initial partner.onmschina.cn domain in Office 365

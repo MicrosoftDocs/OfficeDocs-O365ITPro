@@ -3,7 +3,7 @@ title: "Manage Yammer data compliance"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-
+ms.date: 5/29/2018
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -62,6 +62,8 @@ You can control whether deleted messages are retained.
 1. In the Yammer admin center, go to **Content and Security** \> **Data Retention**.
     
 2. To prevent deleted data from being available in exported data, select **Hard Delete**. Or, to enable deleted data to appear in exported data, select **Soft Delete**.
+    
+    Data can be permanently deleted by using the Developer API. To do this you export the data to identify the data that needs to be permanently deleted, and then write a custom PowerShell script to loop through the specific items to delete. For information, see the REST API section of  [Develop apps for Yammer](https://go.microsoft.com/fwlink/?linkid=874797). 
     
 <a name="ContentMode"> </a>
 ## Content mode

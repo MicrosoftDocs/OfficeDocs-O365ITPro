@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: 0aad2dc1-e09a-4370-ac5a-b47b41d23f65
 description: "Learn to setup your own DNS records at SUNDNS for Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Create DNS records at SUNDNS for Office 365

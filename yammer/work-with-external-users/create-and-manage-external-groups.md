@@ -3,7 +3,7 @@ title: "Create and manage external groups in Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-
+ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

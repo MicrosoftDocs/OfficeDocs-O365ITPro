@@ -3,7 +3,7 @@ title: "Configure your Yammer network"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-
+ms.date: 11/6/2018
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -69,12 +69,15 @@ To access the Yammer network configuration tools:
     
       - **Allow people to upload and attach files in any format**
     
-      - **Only allow people to upload and attach image or video files**: Limits attachements to images and videos. Yammer determines file type by extension. 
+      - **Only allow people to upload and attach image or video files**: Limits attachments to images and videos. Yammer determines file type by extension. 
     
          Yammer uses Azure Media Services to make videos viewable within the network. For more information, see [Azure Media Services](https://go.microsoft.com/fwlink/?LinkId=698736).
     
       - **Don't allow anyone to upload or attach files**: This prevents people from uploading and attaching new files; however, existing attachments are not be affected.
     
+> [!NOTE]
+> When files are stored in Yammer, there is no virus check. An admin can export the files and perform an offline virus scan on them, and this process can be automated with custom scripting.<br><br>For Office 365 connected Yammer groups that store files in SharePoint, virus checking is done as the file is uploaded. For more information, see [Virus dectection in SharePoint Online](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo).
+
 > [!TIP]
 > Any admin can delete any file, and group admins can delete files posted to the groups that they manage.<br><br>To delete files, a network admin can click the Yammer **Settings** icon and then click **Files**. This brings up the **Files** directory for the entire network. Group admins can delete files posted to a group by going to the **Files** tab within the group they administer. 
   

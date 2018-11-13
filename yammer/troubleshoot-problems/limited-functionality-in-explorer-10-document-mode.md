@@ -3,7 +3,7 @@ title: "Limited functionality in Yammer in Internet Explorer 10 document mode"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-
+ms.date: 3/3/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

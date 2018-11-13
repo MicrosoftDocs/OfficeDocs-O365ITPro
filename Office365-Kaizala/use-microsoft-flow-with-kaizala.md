@@ -3,7 +3,7 @@ title: Integrate your workflow in Kaizala using Microsoft Flow
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-
+ms.date: 8/21/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala

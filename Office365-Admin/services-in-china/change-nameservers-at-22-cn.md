@@ -17,6 +17,7 @@ search.appverid:
 - GEA150
 ms.assetid: acdd92ba-13b2-4264-b532-ccd3d266860b
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when 22.cn is the DNS hosting provider."
+monikerRange: 'o365-21vianet'
 ---
 
 # Change nameservers to set up Office 365 with 22.cn

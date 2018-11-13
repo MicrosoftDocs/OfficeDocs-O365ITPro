@@ -3,7 +3,7 @@ title: "Integrate Yammer with other applications"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-
+ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: reference
 ms.prod: office-online-server
@@ -14,7 +14,7 @@ search.appverid:
 - MOE150
 - YAE150
 ms.assetid: 37b730d6-99ad-43a2-967a-2eb52f48bdba
-description: "Learn about group admin privileges and enterprise integrations for Yammer, including Directory Sync, single sign-in, and Office 365 sign-in for Yammer."
+description: "Learn about putting Yammer feeds in other applications, and using other applications with Yammer."
 ---
 
 # Integrate Yammer with other applications

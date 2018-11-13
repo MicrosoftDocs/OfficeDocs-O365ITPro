@@ -34,8 +34,9 @@ search.appverid:
 - BEA160
 - GEA150
 ms.assetid: 997596b5-4173-4627-b915-36abac6786dc
-description: "Learn how to assign licenses to one or multiple users in Office 365 for business, move users to a new subscription, or remove or reassign unused Office 365 licenses."
+description: "Learn how to assign licenses to one or multiple users in Office 365 for business, or move users to a new subscription."
 ---
+<!-- Clone: AgentUniversity\admin\Assign-licenses-users.md -->
 
 # Assign licenses to users in Office 365 for business
 

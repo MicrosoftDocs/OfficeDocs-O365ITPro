@@ -18,6 +18,7 @@ search.appverid:
 - GEA150
 ms.assetid: 0f3e7bbb-1ee7-46cf-994e-db4228198e2c
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when IDC1 is the DNS hosting provider."
+monikerRange: 'o365-21vianet'
 ---
 
 # Change nameservers to set up Office 365 with IDC1

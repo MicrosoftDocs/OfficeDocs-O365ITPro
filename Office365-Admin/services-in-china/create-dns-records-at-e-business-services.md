@@ -21,6 +21,7 @@ search.appverid:
 - GEA150
 ms.assetid: 02969edd-320f-48d8-9933-2770a71f4b89
 description: "Learn to setup your own DNS records at E-business Services for Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Create DNS records at E-business Services for Office 365

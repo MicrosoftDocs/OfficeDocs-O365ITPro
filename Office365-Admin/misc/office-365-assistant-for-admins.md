@@ -12,6 +12,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 3c557e78-31a0-4382-b1f6-325c53269de7
+ROBOTS: NOINDEX
 description: "Learn how to use the Office 365 Assistant to get help from inside the admin center."
 ---
 

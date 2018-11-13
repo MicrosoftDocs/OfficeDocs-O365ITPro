@@ -18,6 +18,7 @@ search.appverid:
 - MOE150
 - BEA160
 ms.assetid: d7138188-086e-4a54-a155-11fa953c3930
+ROBOTS: NOINDEX
 description: "Learn how to activate, renew, or add licenses to an Office 365 for business subscription."
 ---
 

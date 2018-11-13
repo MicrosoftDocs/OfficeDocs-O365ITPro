@@ -22,6 +22,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: b8c5f0f6-eefd-4d9d-b508-7ef2d84b626b
+ROBOTS: NOINDEX
 description: "Learn how to remove an email alias from a distribution list using Exchange Online PowerShell. "
 ---
 

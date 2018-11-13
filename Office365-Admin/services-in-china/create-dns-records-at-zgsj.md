@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: df5380a5-1b61-4650-8a9a-51e1d712869c
 description: "Learn to setup your own DNS records at ZGSJ for Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Create DNS records at ZGSJ for Office 365

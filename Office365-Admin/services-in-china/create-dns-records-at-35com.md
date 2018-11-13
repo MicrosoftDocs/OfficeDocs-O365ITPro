@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: dfa8ce0b-9c06-4de8-b0f0-835920f25375
 description: "Learn to setup your own DNS records at 35COM for Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Create DNS records at 35COM for Office 365

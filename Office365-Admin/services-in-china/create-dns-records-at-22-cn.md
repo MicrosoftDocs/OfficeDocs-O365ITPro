@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: e59285bf-fdc2-4149-9bdf-4cbe354fa5e8
 description: "Learn to setup your own DNS records at 22.cn for Office 365 operated by 21Vianet in China."
+monikerRange: 'o365-21vianet'
 ---
 
 # Create DNS records at 22.cn for Office 365

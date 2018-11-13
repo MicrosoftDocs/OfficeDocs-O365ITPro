@@ -28,33 +28,36 @@ As new features become available in the Microsoft 365 admin center, you'll be ab
 > Targeted release admins will have first access to new features in preview. New features in preview will then roll out to all admins. This means that you may not see the preview or it may look different than what is described in help articles. To be among the first to see new features, see Participate in the preview, below. 
     
 ## Participate in the preview
+We would love for you to participate in the Microsoft 365 admin center preview so you can prepare for change and give us feedback.
 
-We would love for you to participate in the Microsoft 365 admin center preview. While in preview, you can give Microsoft feedback about your experience by selecting **Give feedback** right next to the **Need help?** button at the bottom of every page. Tell us what you like and what we could do better. In addition, you may get pop-up surveys from time-to-time asking about your overall impressions or a particular experience that's newly released. You can also give feedback at the end of this article by clicking **Was this information helpful?**
+### Turn on Targeted release
+
+1. Sign in at [admin.microsoft.com](https://admin.microsoft.com), go to the navigation pane and select **Settings** \> **Organization Profile**.
+    
+2. Go to the **Release preferences** card, and then select **Edit**. 
+    
+3.  Select either **Targeted release for everyone** or **Targeted release for selected users**. If you choose Targeted release for selected users, make sure that you add your admin account (and any other admins in your org who want to participate) to the list of selected users.
+    
+### Switch to preview and back again
+
+- When the Microsoft 365 admin center preview is available to you, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. You can opt-in to the preview using the toggle or you can select the **Try the preview** link from any page in the classic Microsoft 365 admin center. If you sign out of the admin center while still in preview, we'll remember that selection and you'll sign back into the preview admin center. <br/>![Try Preview toggle from the classic admin center.](media/fa656a85-bd6f-4559-ab36-cdbf14e65a32.png)
+  
+- Switch back to the classic admin center from the **Home** page by turning the **Preview on** toggle to **Off**. <br/>![Screen capture: The Preview toggle from the Home page in Microsoft 365 Admin Center preview.](media/2f76101d-37bb-4bcf-8cba-a143e880cf94.png)
+
+While in preview, you can give Microsoft feedback about your experience by selecting **Give feedback** right next to the **Need help?** button at the bottom of every page. Tell us what you like and what we could do better. In addition, you may get pop-up surveys from time-to-time asking about your overall impressions or a particular experience that's newly released. You can also give feedback at the end of this article by clicking **Was this information helpful?**
   
 If you want to be an early adopter in the preview, you'll need to turn on Targeted release, and then when the preview is available you can switch to the preview to check it out and provide feedback.
   
 > [!NOTE]
 > Access to the preview will be rolled out to all Microsoft 365 admins. Admins who are in the Targeted release group in their organization will get the preview first. Being in Targeted release does not guarantee you will see the toggle immediately, but you will get it sooner than those in Standard release. 
   
-## Turn on Targeted release
 
-1. In the Microsoft 365 admin center, go to the navigation pane and select **Settings** \> **Organization Profile**.
-    
-2. Go to the **Release preferences** card, and then select **Edit**. 
-    
-3.  Select either **Targeted release for everyone** or **Targeted release for selected users**. If you choose Targeted release for selected users, make sure that you add your admin account (and any other admins in your org who want to participate) to the list of selected users.
-    
-## Switch to preview &amp; back again
-
-- When the Microsoft 365 admin center preview is available to you, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. You can opt in to the preview using the toggle or you can select the **Try the preview** link from any page in the classic Microsoft 365 admin center. If you sign out of the admin center while still in preview, we'll remember that selection and you'll sign back into the preview admin center. <br/>![Try Preview toggle from the classic admin center.](media/fa656a85-bd6f-4559-ab36-cdbf14e65a32.png)
-  
-- Switch back to the classic admin center from the **Home** page by turning the **Preview on** toggle to **Off**. <br/>![Screen capture: The Preview toggle from the Home page in Microsoft 365 Admin Center preview.](media/2f76101d-37bb-4bcf-8cba-a143e880cf94.png)
   
 ## What's added and what's new?
 
 We're continuously adding new features to the Microsoft 365 admin center, fixing issues we learn about, and making changes based on your feedback. As the new admin center is getting built, you'll want to know about what's getting added, what's new, and what's being removed. Take a look below to see what's available for you today.
   
-## September 2018
+### September 2018
 
 - **Home improvements** The Home page has been completely re-done and we can't wait for you to try it out and see what you think. This is your personal Home page and you won't affect the Home pages of other admins in your organization. <br/>![Screen capture: Microsoft 365 Admin Center Preview Home Page.](media/d1a497f1-30e6-4c1a-9bb2-d4d7895906da.png)
   
@@ -74,8 +77,7 @@ We're continuously adding new features to the Microsoft 365 admin center, fixing
   
   - **Switch plans** is now called ** Upgrades ** and finally the subscription upgrades happen behind the scenes so you don't have to watch the upgrade complete. Lastly, there is no longer a license limitation on upgrades. 
     
-  - There's a new way to buy subscriptions in the Microsoft 365 admin center. Go to **Purchase services** to see the completely redesigned shopping experience that makes it easy to search, compare plans, and other great new features that helps make purchasing a subscription easier. <br/>![Purchase services plan comparison in Microsoft 365 admin center preview](media/0ad5acf1-8ffc-44bf-aac2-c21269910e65.png)
-  
+    
 - **User management** We've made a lot of changes to user management to help you get your work done faster. We've updated the ** Active users ** page and the user's details pane. Here's some of the more awesome changes: 
     
   - There's a new design and new layout to the **Active users** page. Don't like the way the list looks? Select **Change view** (next to **Filter**) and you can change the list from **Normal list** to **Compact list**. Compact list is especially helpful if you've got a lot of users in your organization. <br/>![Active users page in preview](media/4dd9f1c9-ef23-4194-9ff8-5206ba2930f8.png)
@@ -86,13 +88,18 @@ We're continuously adding new features to the Microsoft 365 admin center, fixing
     
   - The User's details and settings are now organized by the following tabs: **Account**, **Devices**, **Licenses**, **Apps**, **Mail**, and **OneDrive**. Previously, many of these settings were located across multiple screens. <br/>![Users detail pane in the admin center preview.](media/60c6b9d3-d62f-4b8d-97db-41ff247b1bf0.png)<br/>Curious to know how the classic admin center tasks map to the preview admin center? Check out [User management](#user-management) later in this article. 
     
-- The **Services and add-ins** page has been updated to the new look and feel, but everything else works exactly the same. Of course, you should check out the command bar to see what new things you can do, like filtering and changing the list to compact view. In the navigation pane, go to **Settings** \> **Services &amp; add-ins** to check it out. <br/>![Settings and add-ins page in Microsoft 365 admin center preview](media/af9a3ed3-bfe6-438b-b4b5-2ca4164f8e3f.png)
   
+### October 2018
+
+- There's a new way to buy subscriptions in the Microsoft 365 admin center. Go to **Purchase services** to see the completely redesigned shopping experience that makes it easy to search, compare plans, and other great new features that helps make purchasing a subscription easier. <br/>![Purchase services plan comparison in Microsoft 365 admin center preview](media/0ad5acf1-8ffc-44bf-aac2-c21269910e65.png)
+
+- The **Services and add-ins** page has been updated to the new look and feel, but everything else works exactly the same. Of course, you should check out the command bar to see what new things you can do, like filtering and changing the list to compact view. In the navigation pane, go to **Settings** \> **Services &amp; add-ins** to check it out. <br/>![Settings and add-ins page in Microsoft 365 admin center preview](media/af9a3ed3-bfe6-438b-b4b5-2ca4164f8e3f.png)
+
 ## You used to do it this way...now you'll do it this way
 
 As we optimize existing features, that functionality may move to a different place in the admin center or if we've changed the name of the feature we'll include that information in this section. If the feature has been removed, we'll also let you know what the work-around or mitigation for that feature is.
   
-## Home page cards
+### Home page cards
 
 We know that you used the Home page cards as one of the main ways to navigate around the admin center, so here's a breakdown of how the preview Home page cards map to the classic Home page cards.
   
@@ -124,7 +131,7 @@ The following cards aren't available in admin center preview, so here's how you 
 |Business center  <br/> |You can still get to the Business center from the Office.com home page.  <br/> |
 |Help users get started  <br/> |**Helping your users get started** is being integrated with setup experiences and the setup guides. For example, if you complete the OneDrive setup guide, in the last step, you can email your end users a link to the training for OneDrive.  <br/> |
    
-## User management
+### User management
 
 |**Classic admin center**|**Preview admin center**|
 |:-----|:-----|
@@ -136,7 +143,7 @@ The following cards aren't available in admin center preview, so here's how you 
 |**User details** \> **Roles** <br/> |**User details** \> **Account** \> **Manage roles** <br/> |
 |**Office installs** <br/> |**User details** \> **Account** \> **Office activations** <br/> |
    
-## Billing
+### Billing
 
 |**Classic admin center**|**Preview admin center**|
 |:-----|:-----|
@@ -148,11 +155,11 @@ The following cards aren't available in admin center preview, so here's how you 
 
 Don't see your questions answered here? Go to **Was this information helpful?** at the bottom of this page and ask your question. 
   
-## Can I do everything in the preview that I can do in the classic admin center?
+### Can I do everything in the preview that I can do in the classic admin center?
 
 Yes. The preview is fully functional and has all the capabilities of the classic admin center.
   
-## Which Microsoft 365 plans are available to trial or buy?
+### Which Microsoft 365 plans are available to trial or buy?
 
 Microsoft 365 is a complete, intelligent solution that includes Office 365, Windows 10, and Enterprise Mobility + Security that empowers everyone to be creative and work together, securely. The following Microsoft 365 subscriptions are available in the admin center for you to try or buy now:
   
@@ -164,13 +171,22 @@ Microsoft 365 is a complete, intelligent solution that includes Office 365, Wind
     
 For more information, see [Try or buy a Microsoft 365 subscription](try-or-buy-microsoft-365.md).
   
-## I found a bug or I want to request a feature enhancement. How do I let Microsoft know?
+### I found a bug or I want to request a feature enhancement. How do I let Microsoft know?
 
 We love to hear from you! Reporting bugs and sharing feedback helps us make the Microsoft 365 admin center better. To give feedback, click the **Feedback** button on the bottom of the page and use the form to send us your thoughts. Select the checkbox and confirm your email address if you want someone from the Microsoft 365 admin center team to follow up on your comments. We can't promise to follow up on every piece of feedback, but we're going to try! 
   
 You can also give feedback from outside of the admin center on our UserVoice forum. You can use this page to make feature suggestions that can be voted on by other forum users: [UserVoice forum for admin center preview](https://go.microsoft.com/fwlink/?linkid=2024994).
   
-## What about the specific types of IT roles and other workspaces like Security, Device Management, or Exchange?
+### In user management, why are assigning licenses and enabling apps & services functionality now seperated?
+
+In the classic admin center if you wanted to prevent a user from using an app or service that they were licensed to use, you had to turn that app or service off for every assigned license that included that app or service. Microsoft received feedback that this was confusing, because the admins thought that they had turned off the service.
+
+In Microsoft 365 admin center preview, we fixed that issue. Now if you turn a service or app off, it is turned off for all licenses - you no longer have to turn the feature off for each license the user has. <br/>![Sceen capture showing the side-by-side comparison of the Licenses and Apps tabs in the user details pane.](media/488955e9-5d5c-447f-80f2-3a63c71fd3e5.png)
+
+> [!NOTE]
+> When an app or service is enabled for a user, we'll turn that service on in an eligible assigned license.  Admins can no longer control which apps are associated with a particular user-assigned license. 
+
+### What about the specific types of IT roles and other workspaces like Security, Device Management, or Exchange?
 
 The Microsoft 365 admin center is the common entry point for all teams and roles managing Microsoft 365. The experience, information, and controls are tailored and customizable for each admin and role. Additionally, specialist workspaces allow for deep, granular control. These specialist workspaces include SharePoint, Teams &amp; Skype, Exchange, Security, Compliance, Device Management, and Azure Active Directory. You can find the specialist workspaces from the navigation pane in the Microsoft 365 admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2024339).
   

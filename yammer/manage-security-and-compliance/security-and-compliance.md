@@ -3,7 +3,7 @@ title: "Overview of security and compliance in Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-
+ms.date: 11/6/2018
 ms.audience: Admin
 ms.topic: reference
 ms.prod: office-online-server
@@ -34,6 +34,7 @@ Yammer Enterprise offers admins security and compliance tools that are not part 
 |Manage users and maintain single identity for users across all of Office 365.  <br/> |[Add, block, or remove Yammer users](../manage-yammer-users/add-block-or-remove-users.md) \*  <br/> [Enforce office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md) \*  <br/> |
 |Provide secured access to Yammer on iOS and Android devices, and control device access to protect corporate data by using Microsoft Intune.  <br/> |[Monitor account activity and device usage for a single user](../manage-yammer-users/add-block-or-remove-users.md#AccountActivity)\*  <br/> [Manage Yammer with Microsoft Intune](manage-yammer-with-intune.md) \*  <br/> |
 |Use multiple levels of admin roles so you can assign the correct permissions to match employee's roles.  <br/> |[Manage Yammer admins](../manage-yammer-users/manage-yammer-admins.md) \*  <br/> |
+|Prevent or limit file uploads|[Configure your Yammer network](../configure-your-yammer-network/configure-yammer.md) \*|
 |Control external network access.  <br/> |[Manage Yammer security settings](yammer-security-settings.md) \*  <br/> |
 |Track changes to users, groups, and admins.  <br/> |[Track Yammer Events in the Office 365 Audit log and with the Management Activity API](track-yammer-events.md) \*  <br/> |
    

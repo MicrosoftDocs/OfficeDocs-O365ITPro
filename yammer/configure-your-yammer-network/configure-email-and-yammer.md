@@ -3,7 +3,7 @@ title: "Configure email and Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-
+ms.date: 3/16/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration

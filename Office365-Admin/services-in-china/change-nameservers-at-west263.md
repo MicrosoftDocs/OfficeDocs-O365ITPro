@@ -17,6 +17,7 @@ search.appverid:
 - GEA150
 ms.assetid: 4453dad6-79c1-4bfc-9d3b-771a328793a2
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when West263 is the DNS hosting provider."
+monikerRange: 'o365-21vianet'
 ---
 
 # Change nameservers to set up Office 365 with West263
