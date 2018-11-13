@@ -30,7 +30,7 @@ When you add a subscription through the admin center, the new subscription will 
   
 ## Trial or buy a Microsoft 365 subscription
 
-1. Sign in to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2024339), and then go to ** Billing ** \> **Purchase services**.
+1. Sign in to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2024339), and then go to **Billing** \> **Purchase services**.
     
 2. On the **Purchase services** page, find the Microsoft 365 plan that you want to try or buy. 
     
