@@ -13,19 +13,20 @@ search.appverid:
 - MOE150
 - FRP150
 ms.assetid: 739574d7-2c5b-4911-a549-f56ecc7d3b48
-description: "Learn about the latest in the Microsoft 365 Admin Center preview."
+description: "Learn about how to participate in the preview and get your questions answered."
 ---
 
 # About Microsoft 365 admin center preview
 
 The new Microsoft 365 admin center is built for IT teams as a simplified way to manage your Microsoft 365 and Office 365 services. The admin center provides a tailored experience based on the unique needs of your role or organization, improves efficiency for everyday tasks, and provides actionable insights that help you make data-driven decisions to deliver a better experience for your users.
+
+[!NOTE]
+> Check out [What's new in preview?](whats-new-in-preview.md) for a list of the features we've released ecah month for the Microsoft 365 admin center preview.
   
 The Microsoft 365 admin center is the common entry point for all Microsoft 365 and Office 365 admins and can be accessed at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2024339). Specialist workspaces, like Security or Device management, allow for more granular control. For more information about how the admin centers will work together, see [What about the specific types of IT roles and other workspaces like Security, Device Management, or Exchange?](#what-about-the-specific-types-of-it-roles-and-other-workspaces-like-security-device-management-or-exchange) later in this article. 
   
 As new features become available in the Microsoft 365 admin center, you'll be able to opt in to the preview and share your feedback with Microsoft so that we can continue to improve the admin experience. If you opt in to the preview, there will be no impact to your users, and you can switch back to the classic admin center at any time.
   
-> [!NOTE]
-> Targeted release admins will have first access to new features in preview. New features in preview will then roll out to all admins. This means that you may not see the preview or it may look different than what is described in help articles. To be among the first to see new features, see Participate in the preview, below. 
     
 ## Participate in the preview
 We would love for you to participate in the Microsoft 365 admin center preview so you can prepare for change and give us feedback.
