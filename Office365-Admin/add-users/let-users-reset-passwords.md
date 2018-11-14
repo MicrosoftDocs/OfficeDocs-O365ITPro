@@ -81,7 +81,15 @@ These steps turn on self-service password reset for everyone in your business.
     ![Choose All](../media/1a7ad5c4-1dbe-46b9-9ed0-5507b62023d0.png)
   
 6. When your users sign in to Office 365, they will be prompted to enter additional contact information that will help them reset their password in the future.
-    
+
+::: moniker range="o365-worldwide"
+
+Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue.
+
+Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end
+
 ## Related articles
 
 [Set the password expiration policy for your organization](../manage/set-password-expiration-policy.md)
