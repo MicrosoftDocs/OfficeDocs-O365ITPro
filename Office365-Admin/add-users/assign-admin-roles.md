@@ -67,6 +67,14 @@ As the person who purchased your Office 365 business subscription, you are the g
     ![Choose the Edit button next to Roles.](../media/f6256997-9ac2-4b78-95fa-564c6b715f3b.png)
   
 5. Choose **Customized administrator** to see a list of roles we've customized for you. For a description of each role, see [About Office 365 admin roles.](about-admin-roles.md)
+
+::: moniker range="o365-worldwide"
+
+Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue.
+
+Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end
     
 ## More info about admin role settings
 
