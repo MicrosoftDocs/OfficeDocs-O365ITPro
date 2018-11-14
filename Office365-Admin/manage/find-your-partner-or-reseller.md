@@ -48,7 +48,15 @@ If you're ready to buy or renew Office 365 through Open Volume Licensing, or you
     
 3. Go to **Settings** \> **Partner relationships**.<br/>![Settings menu](../media/9026f9ea-52b7-4a0c-a14e-daec23048318.png)
   
-4. If you have a partner, the partner's name and relationship to your organization will be listed here. To view partner contact information (phone number and email address), click on the partner name. 
+4. If you have a partner, the partner's name and relationship to your organization will be listed here. To view partner contact information (phone number and email address), click on the partner name.
+
+::: moniker range="o365-worldwide"
+
+Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue.
+
+Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end
     
 ## More resources
 
