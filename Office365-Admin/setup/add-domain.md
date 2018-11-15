@@ -123,7 +123,7 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
 
 Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue.
 
-Go to the [Microsoft Stores page](https://www.microsoft.com/en-us/store/locations/events-for-businesses?icid=en_us_events_events-for-business_cta3) and choose your location to schedule an appointment.
+Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
 
 ::: moniker-end
     

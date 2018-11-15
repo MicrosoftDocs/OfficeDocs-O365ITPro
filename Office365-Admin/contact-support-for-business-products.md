@@ -26,7 +26,8 @@ search.appverid:
 - BEA160
 - GEA150
 ms.assetid: 32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b
-description: "Get technical and billing support using phone numbers listed for your region or locale, or by submitting your service request online."
+description: "Get technical and billing support using phone numbers listed for your region or locale, or by submitting your service request online, or by visiting a Microsoft store."
+feedback_system: None 
 ---
 # Contact support for business products - Admin Help
 
