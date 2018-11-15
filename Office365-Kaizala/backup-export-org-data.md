@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 11/15/2018
+ms.date: 11/16/2018
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -58,7 +58,7 @@ To export organization data:
 3. Locate the **Export chat history** option and select **View**. The **Export** option is shown to you.  
 ![Screenshot of Reports page showing export chat history in Kaizala management portal](media/export-chat-history.png)
 4. Select the group and the date range for which you want to export the data and click **Export**. You can view the status of export process in the **Request History** section. After the **Status** column displays the **Completed** status, select the download icon in the **SPO Path** column to download the file. 
-5.	You will be taken to your group shared on Microsoft SharePoint where you can download Chat Messages and Action Card responses directly. 
+5. You will be taken to your group shared on Microsoft SharePoint where you can download Chat Messages and Action Card responses directly. 
 ![Screenshot of chat and action card responses in Kaizala management portal](media/chat-history-responses.png)
 
 > [!NOTE]
