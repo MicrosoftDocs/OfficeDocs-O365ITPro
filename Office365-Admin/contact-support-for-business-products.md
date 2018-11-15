@@ -311,11 +311,11 @@ Save time by starting your service request online. We'll help you find a solutio
   
 You can now make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your Office 365 or Microsoft 365 issue.
 
-1. Go to the [Microsoft Stores schedule](https://www.microsoft.com/en-us/store/locations/answer-desk) page, and choose **Schedule an appointment**.
+1. Go to the [Microsoft Stores schedule](https://go.microsoft.com/fwlink/?LinkID=2041482) page, and choose **Schedule an appointment**.
 
 2. Enter your location and choose search to find a Microsoft Store near you.
 
-3. Choose your store, then choose **Schedule service appointment**.
+3. Choose your store, then choose **Schedule service appointment now**.
     
 ---
 
