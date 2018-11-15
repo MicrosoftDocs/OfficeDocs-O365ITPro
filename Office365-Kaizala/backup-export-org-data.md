@@ -57,12 +57,13 @@ To export organization data:
 ![Screenshot report options in Kaizala management portal](media/report-options.png)
 3. Locate the **Export chat history** option and select **View**. The **Export** option is shown to you.  
 ![Screenshot of Reports page showing export chat history in Kaizala management portal](media/export-chat-history.png)
-4. Select the group and the date range for which you want to export the data and click **Export**. You can view the status of export process in the **Request History** section. After the **Status** column displays the **Completed** status, select the download icon in the **SPO Path** column to download the file. 
-5. You will be taken to your group shared on Microsoft SharePoint where you can download Chat Messages and Action Card responses directly. 
+4. Select the group and the date range for which you want to export the data and click **Export**. You can view the status of export process in the **Request History** section. After the **Status** column displays the **Completed** status, select the download icon in the **SPO Path** column to download the file.
+5. You will be taken to your group shared on Microsoft SharePoint where you can download Chat Messages and Action Card responses directly.
+
 ![Screenshot of chat and action card responses in Kaizala management portal](media/chat-history-responses.png)
 
 > [!NOTE]
 > After the creation of a group in Kaizala, the data backup will be enabled only if the following three conditions are met:  
-- Organization admin has enabled backup in the Kaizala management portal. 
-- The group shared on Microsoft SharePoint has been created. Because the groups are created automatically on SharePoint, allow 10-15 minutes for provisioning of the group shared on SharePoint. 
-- The group has at least one attachment sent on it for Microsoft SharePoint to provision the group.  
+>- Organization admin has enabled backup in the Kaizala management portal. 
+>- The group shared on Microsoft SharePoint has been created. Because the groups are created automatically on SharePoint, allow 10-15 minutes for provisioning of the group shared on SharePoint. 
+>- The group has at least one attachment sent on it for Microsoft SharePoint to provision the group.  
