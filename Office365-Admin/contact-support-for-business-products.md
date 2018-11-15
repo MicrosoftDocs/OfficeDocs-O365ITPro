@@ -315,7 +315,7 @@ You can now make an appointment at your local Microsoft Store with an Answer Des
 
 2. Enter your location and choose search to find a Microsoft Store near you.
 
-3. Choose your store, then choose **Schedule service appointment**.
+3. Choose your store, then choose **Schedule service appointment now**.
     
 ---
 
