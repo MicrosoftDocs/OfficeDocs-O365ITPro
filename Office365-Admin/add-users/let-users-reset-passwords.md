@@ -23,18 +23,10 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5bc3f460-13cc-48c0-abd6-b80bae72d04a
-
 description: "Learn how you can reset your passwords using the self-service password reset tool."
 ---
 
 # Let users reset their own passwords in Office 365
-
- 
-  
-|||
-|:-----|:-----|
-|![I forgot the username or password for the account I use with Office.](../media/d0ee024e-999d-438b-b72d-2e1779cf7f83.png)           <br/> |This article is for people who set password policy for a business, school, or nonprofit.  <br/> **If you're a user looking to reset or change your password, see [I forgot the username or password for the account I use with Office](https://support.office.com/article/https://support.office.com/en-US/article/I-forgot-the-username-or-password-for-the-account-I-use-with-Office-eba0b4a2-c0ae-472c-99f6-bc63ee2425a8.aspx#bkmk_buschangepw).** <br/> |
-   
 Getting crushed with people asking you to reset their passwords? As the Office 365 admin, you can let people use the [self-service password reset tool](https://go.microsoft.com/fwlink/p/?LinkId=522677) so you don't have to reset passwords for them. Less work for you! 
   
 Here are a few things you need to know:
