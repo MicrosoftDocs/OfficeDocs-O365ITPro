@@ -3,7 +3,7 @@ title: "Include a Yammer feed in a SharePoint page"
 ms.author: v-irpast
 author: v-irpast
 manager: pamgreen
-ms.date: 11/15/2018
+ms.date: 11/16/2018
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -85,9 +85,9 @@ The following procedures describe how to add a group feed, my feed, or page feed
   
 2. Copy the script from the window.
    
- **Prepare the script for a my feed**
+     **Prepare the script for a my feed**
    
-1. Edit the following script to use your Yammer network instead of contoso.com, and then paste it into the script editor web part.
+    1. Edit the following script to use your Yammer network instead of contoso.com, and then paste it into the script editor web part.
     
   ```
   <div id="embedded-my-feed" style="height:400px;width:500px;"></div> 
@@ -99,14 +99,14 @@ The following procedures describe how to add a group feed, my feed, or page feed
   
   ```
 
-    > [!NOTE]
-    > You can also change the height and width parameters to the height and width you prefer. 
+        > [!NOTE]
+        > You can also change the height and width parameters to the height and width you prefer. 
 
- **Prepare the script for a page feed**
+     **Prepare the script for a page feed**
   
-1. Go to the page that you want to embed. Copy the URL to the page.
+    1. Go to the page that you want to embed. Copy the URL to the page.
     
-2. Edit the following script to use your Yammer network instead of contoso.com and to use the URL to the page that you want to discuss.
+    2. Edit the following script to use your Yammer network instead of contoso.com and to use the URL to the page that you want to discuss.
     
   ```
   <div id="embedded-feed" style="height:400px;width:500px;"></div> 
@@ -120,13 +120,13 @@ The following procedures describe how to add a group feed, my feed, or page feed
   
   ```
 
-  > [!NOTE]
-  > You can also change the height and width parameters to the height and width you prefer. 
+      > [!NOTE]
+      > You can also change the height and width parameters to the height and width you prefer. 
 
-This example shows an open graph feed for a web page, but you can create feeds for other open-graph objects. The list of valid object types is at [Schema \> Supported Object Types](https://go.microsoft.com/fwlink/?LinkId=525586). If you are interested in using the Yammer Embed widget to add Yammer feeds to your SharePoint pages, see [Add the Yammer Embed widget to a SharePoint page](https://go.microsoft.com/fwlink/?LinkId=525587).
+    This example shows an open graph feed for a web page, but you can create feeds for other open-graph objects. The list of valid object types is at [Schema \> Supported Object Types](https://go.microsoft.com/fwlink/?LinkId=525586). If you are interested in using the Yammer Embed widget to add Yammer feeds to your SharePoint pages, see [Add the Yammer Embed widget to a SharePoint page](https://go.microsoft.com/fwlink/?LinkId=525587).
     
-### Step 3: Save and publish the SharePoint page. 
+### Step 3: Paste the script in, and publish the SharePoint page. 
 
-- On the SharePoint page, click **Publish**.
+- On the SharePoint page, paste in the script, and then click **Publish**.
     
    
