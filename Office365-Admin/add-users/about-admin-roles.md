@@ -39,7 +39,7 @@ Office 365 comes with a set of admin roles that you can [assign](assign-admin-ro
 Here are the available roles and what people assigned to them can do.
   
 > [!TIP]
-> For a detailed list of what tasks each of these roles can and cannot do, and how they overlap with roles in other Microsoft services, see [Administrator role permissions in Azure Active Directory.](https://go.microsoft.com/fwlink/?linkid=862394)
+> For a detailed list of what tasks each of these roles can and cannot do, and how they overlap with roles in other Microsoft services, see [Administrator role permissions in Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=862394).
   
 |||
 |:-----|:-----|
