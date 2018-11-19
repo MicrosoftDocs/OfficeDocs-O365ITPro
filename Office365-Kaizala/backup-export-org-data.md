@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 11/16/2018
+ms.date: 11/19/2018
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -66,4 +66,4 @@ To export organization data:
 > After the creation of a group in Kaizala, the data backup will be enabled only if the following three conditions are met:  
 >- Organization admin has enabled backup in the Kaizala management portal. 
 >- The group shared on Microsoft SharePoint has been created. Because the groups are created automatically on SharePoint, allow 10-15 minutes for provisioning of the group shared on SharePoint. 
->- The group has at least one attachment sent on it for Microsoft SharePoint to provision the group.  
+>- Repository for media backup will be created as soon as the first attachment is sent in a group.  
