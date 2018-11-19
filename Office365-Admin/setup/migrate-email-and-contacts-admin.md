@@ -54,7 +54,7 @@ Follow these steps to import email, contacts, and calendar from Gmail into Outlo
 
 Follow these steps to export email, contacts and calendars from Outlook to a .pst file, and then import that file to Outlook with Office 365:
   
-1. [Export email, contacts, and calendar](https://support.office.com/article/d791fe88-5c67-44c5-a3f6-a484508082a1)
+1. [Export email, contacts, and calendar](https://support.office.com/article/14252b52-3075-4e9b-be4e-ff9ef1068f91)
     
 2. [Import mail, contacts, and calendar](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
     
