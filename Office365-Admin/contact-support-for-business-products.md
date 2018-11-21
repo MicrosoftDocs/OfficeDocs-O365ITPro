@@ -37,11 +37,11 @@ feedback_system: None
   
 ![Call support](media/3351acb8-be3b-478a-afbd-c0a50f4e1abd.png)  Billing support is provided in English from 9 AM-5 PM (9 AM-6 PM in Australia), Monday-Friday.  <br/>Technical support is provided in English 24 hours a day, 7 days a week. <br/> Admins, have your account details ready when you call.<br/> 
    
-- **In the United States, call 1 800 865 9408.**
+- **In the United States, call 1 888 405 8668.**
     
 - **In Australia, call 1 800 197 503.**
     
-- **In Canada, call 1 800 865 9408.**
+- **In Canada, call 1 888 405 8668.**
     
 - **In the United Kingdom, call 0800 032 6417.**
     
