@@ -37,13 +37,13 @@ feedback_system: None
   
 ![Call support](media/3351acb8-be3b-478a-afbd-c0a50f4e1abd.png)  Billing support is provided in English from 9 AM-5 PM (9 AM-6 PM in Australia), Monday-Friday.  <br/>Technical support is provided in English 24 hours a day, 7 days a week. <br/> Admins, have your account details ready when you call.<br/> 
    
-- **In the United States, call 1 800 865 9408.**
+- **In the United States, call 1 888 405 8668.**
     
-- **In Australia, call 1 800 197 503.**
+- **In Australia, call 1 888 197 503.**
     
-- **In Canada, call 1 800 865 9408.**
+- **In Canada, call 1 888 405 8668.**
     
-- **In the United Kingdom, call 0800 032 6417.**
+- **In the United Kingdom, call 0888 032 6417.**
     
 If your Office 365 or Microsoft 365 Business support phone number isn't listed above, use the dropdown menu below to choose your country or region.
 > [!div class="op_single_selector"]
@@ -490,7 +490,7 @@ Assisted support options are for admins of Office 365 Germany subscribed organiz
 
 | Region | Phone number | Hours |
 |-----------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Germany | 0800 589 2330 | Billing Support:  German: Mon-Fri 9-5 Berlin English: Mon-Fri 9-5 Berlin  Technical Support:  German: 24 hours a day, 7 days a week English: 24 hours a day, 7 days a week  Alternative Phone Number: 069 380 789 305 (Local call charges apply) |
+| Germany | 0888 589 2330 | Billing Support:  German: Mon-Fri 9-5 Berlin English: Mon-Fri 9-5 Berlin  Technical Support:  German: 24 hours a day, 7 days a week English: 24 hours a day, 7 days a week  Alternative Phone Number: 069 380 789 305 (Local call charges apply) |
 | All other markets within the European Economic Area | +49 69 380 789 305 | Billing Support:  German: Mon-Fri 9-5 Berlin(UTC+1) English: Mon-Fri 9-5 Berlin (UTC +1)  Technical Support:  German: 24 hours a day, 7 days a week English: 24 hours a day, 7 days a week  Telephone support is available via international call to Germany. International call charges apply. Call charges can be avoided by submitting a support ticket through the Office 365 admin center. |
    
 ### Let our community help
