@@ -23,18 +23,10 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5bc3f460-13cc-48c0-abd6-b80bae72d04a
-
 description: "Learn how you can reset your passwords using the self-service password reset tool."
 ---
 
 # Let users reset their own passwords in Office 365
-
- 
-  
-|||
-|:-----|:-----|
-|![I forgot the username or password for the account I use with Office.](../media/d0ee024e-999d-438b-b72d-2e1779cf7f83.png)           <br/> |This article is for people who set password policy for a business, school, or nonprofit.  <br/> **If you're a user looking to reset or change your password, see [I forgot the username or password for the account I use with Office](https://support.office.com/article/https://support.office.com/en-US/article/I-forgot-the-username-or-password-for-the-account-I-use-with-Office-eba0b4a2-c0ae-472c-99f6-bc63ee2425a8.aspx#bkmk_buschangepw).** <br/> |
-   
 Getting crushed with people asking you to reset their passwords? As the Office 365 admin, you can let people use the [self-service password reset tool](https://go.microsoft.com/fwlink/p/?LinkId=522677) so you don't have to reset passwords for them. Less work for you! 
   
 Here are a few things you need to know:
@@ -81,7 +73,15 @@ These steps turn on self-service password reset for everyone in your business.
     ![Choose All](../media/1a7ad5c4-1dbe-46b9-9ed0-5507b62023d0.png)
   
 6. When your users sign in to Office 365, they will be prompted to enter additional contact information that will help them reset their password in the future.
-    
+
+::: moniker range="o365-worldwide"
+
+Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue.
+
+Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end
+
 ## Related articles
 
 [Set the password expiration policy for your organization](../manage/set-password-expiration-policy.md)

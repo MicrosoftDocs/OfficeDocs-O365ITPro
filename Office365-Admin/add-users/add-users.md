@@ -110,5 +110,11 @@ To add multiple users at the same time, follow these steps:
 - **Using ActiveDirectory?** [Set up directory synchronization for Office 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization). Use the Azure AD Connect tool to replicate Active Directory user accounts (and other Active Directory objects) in Office 365. The sync only adds the user accounts. You will need to assign licenses to the synced users before they can use email and other Office apps.
     
 - **Migrating from Exchange?** [Ways to migrate multiple email accounts to Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/mailbox-migration). When you migrate multiple mailboxes to Office 365 by using either cutover, staged, or a hybrid Exchange method, you will add users automatically as part of the migration. The migration only adds the user accounts. You will need assign licenses to the users before they can use email and other Office apps.
-    
 
+::: moniker range="o365-worldwide"
+
+Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue.
+
+Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end

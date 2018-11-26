@@ -155,11 +155,11 @@ The following cards aren't available in admin center preview, so here's how you 
 
 Don't see your questions answered here? Go to **Was this information helpful?** at the bottom of this page and ask your question. 
   
-## Can I do everything in the preview that I can do in the classic admin center?
+### Can I do everything in the preview that I can do in the classic admin center?
 
 Yes. The preview is fully functional and has all the capabilities of the classic admin center.
   
-## Which Microsoft 365 plans are available to trial or buy?
+### Which Microsoft 365 plans are available to trial or buy?
 
 Microsoft 365 is a complete, intelligent solution that includes Office 365, Windows 10, and Enterprise Mobility + Security that empowers everyone to be creative and work together, securely. The following Microsoft 365 subscriptions are available in the admin center for you to try or buy now:
   
@@ -171,13 +171,22 @@ Microsoft 365 is a complete, intelligent solution that includes Office 365, Wind
     
 For more information, see [Try or buy a Microsoft 365 subscription](try-or-buy-microsoft-365.md).
   
-## I found a bug or I want to request a feature enhancement. How do I let Microsoft know?
+### I found a bug or I want to request a feature enhancement. How do I let Microsoft know?
 
 We love to hear from you! Reporting bugs and sharing feedback helps us make the Microsoft 365 admin center better. To give feedback, click the **Feedback** button on the bottom of the page and use the form to send us your thoughts. Select the checkbox and confirm your email address if you want someone from the Microsoft 365 admin center team to follow up on your comments. We can't promise to follow up on every piece of feedback, but we're going to try! 
   
 You can also give feedback from outside of the admin center on our UserVoice forum. You can use this page to make feature suggestions that can be voted on by other forum users: [UserVoice forum for admin center preview](https://go.microsoft.com/fwlink/?linkid=2024994).
   
-## What about the specific types of IT roles and other workspaces like Security, Device Management, or Exchange?
+### In user management, why are assigning licenses and enabling apps & services functionality now seperated?
+
+In the classic admin center if you wanted to prevent a user from using an app or service that they were licensed to use, you had to turn that app or service off for every assigned license that included that app or service. Microsoft received feedback that this was confusing, because the admins thought that they had turned off the service.
+
+In Microsoft 365 admin center preview, we fixed that issue. Now if you turn a service or app off, it is turned off for all licenses - you no longer have to turn the feature off for each license the user has. <br/>![Sceen capture showing the side-by-side comparison of the Licenses and Apps tabs in the user details pane.](media/488955e9-5d5c-447f-80f2-3a63c71fd3e5.png)
+
+> [!NOTE]
+> When an app or service is enabled for a user, we'll turn that service on in an eligible assigned license.  Admins can no longer control which apps are associated with a particular user-assigned license. 
+
+### What about the specific types of IT roles and other workspaces like Security, Device Management, or Exchange?
 
 The Microsoft 365 admin center is the common entry point for all teams and roles managing Microsoft 365. The experience, information, and controls are tailored and customizable for each admin and role. Additionally, specialist workspaces allow for deep, granular control. These specialist workspaces include SharePoint, Teams &amp; Skype, Exchange, Security, Compliance, Device Management, and Azure Active Directory. You can find the specialist workspaces from the navigation pane in the Microsoft 365 admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2024339).
   

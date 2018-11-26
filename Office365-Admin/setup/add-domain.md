@@ -12,8 +12,7 @@ f1_keywords:
 - 'O365P_DomainsVerify_RecordExplain'
 - 'O365P_DomainsSetup_ExplainEmailUpdate localOnly'
 - 'O365P_DomainsMainUI_AddDomain'
-- 'O365P_DomainsMain_NoRedelegation
-'
+- 'O365P_DomainsMain_NoRedelegation'
 - 'O365P_DomainsMain_AddDomain'
 - 'O365P_1stExplainEmailUpdate'
 - 'O365M_DomainVerify_TXTRecordNoEffect'
@@ -119,5 +118,13 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
     If you want to wait for later, scroll to the bottom and choose **Skip this step**.
     
 7. Click **Finish** - you're done! 
+
+::: moniker range="o365-worldwide"
+
+Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue.
+
+Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end
     
 
