@@ -83,6 +83,7 @@ These steps are only for people using an Office 365 business plan. To do them, y
 
 ::: moniker range="o365-worldwide"
 
+> [!TIP]
 Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to get help.
 
 Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.

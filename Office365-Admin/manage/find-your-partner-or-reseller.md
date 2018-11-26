@@ -52,6 +52,7 @@ If you're ready to buy or renew Office 365 through Open Volume Licensing, or you
 
 ::: moniker range="o365-worldwide"
 
+> [!TIP]
 Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue.
 
 Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
