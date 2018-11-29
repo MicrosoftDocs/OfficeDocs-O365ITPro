@@ -77,7 +77,7 @@ If you want to buy a domain from a domain registrar other than GoDaddy, choose o
   
 |||
 |:-----|:-----|
-|[1&amp;1](https://www.1and1.com/ ) <br/> [123-reg](https://www.123-reg.co.uk/ ) <br/> [BlueHost](https://www.bluehost.com/products/domains ) <br/> [HostGator](https://www.hostgator.com/domains/ ) <br/> [MediaTemple](https://mediatemple.net/domains/ ) <br/> [HostEurope](https://www.hosteurope.de/en/ ) <br/> |[Domain Factory](https://www.df.eu/ ) <br/> [Heart Internet](https://www.heartinternet.uk/ ) <br/> [Network Solutions](https://go.microsoft.com/fwlink/?LinkId=402475) <br/> [Register.com]( https://go.microsoft.com/fwlink/?LinkId=402476) <br/> [Melbourne IT]( https://go.microsoft.com/fwlink/?LinkId=513080) <br/> |
+|[1&amp;1 IONOS](https://www.1and1.com/ ) <br/> [123-reg](https://www.123-reg.co.uk/ ) <br/> [BlueHost](https://www.bluehost.com/products/domains ) <br/> [HostGator](https://www.hostgator.com/domains/ ) <br/> [MediaTemple](https://mediatemple.net/domains/ ) <br/> [HostEurope](https://www.hosteurope.de/en/ ) <br/> |[Domain Factory](https://www.df.eu/ ) <br/> [Heart Internet](https://www.heartinternet.uk/ ) <br/> [Network Solutions](https://go.microsoft.com/fwlink/?LinkId=402475) <br/> [Register.com]( https://go.microsoft.com/fwlink/?LinkId=402476) <br/> [Melbourne IT]( https://go.microsoft.com/fwlink/?LinkId=513080) <br/> |
 |||
    
 ### Transfer your domain to a different domain registrar

@@ -17,6 +17,7 @@
 ### [Public groups](public-groups.md)
 ### [Reports](reports.md)
 ### [Actions](actions.md)
+### [Back up and export organization data](backup-export-org-data.md)
 ### [Connectors](connectors.md)
 ### [Office Add-in](office-add-in.md)
 ### [Use Microsoft Flow with Kaizala](use-microsoft-flow-with-kaizala.md)

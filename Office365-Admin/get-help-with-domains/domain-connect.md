@@ -42,7 +42,7 @@ In the wizard, we'll just confirm that you own the domain, and then automaticall
   
 ## Registrars with Domain Connect
 
-- [1&amp;1](https://www.1and1.com/)
+- [1&amp;1 IONOS](https://www.1and1.com/)
     
 - [GoDaddy](https://www.godaddy.com/)
     
