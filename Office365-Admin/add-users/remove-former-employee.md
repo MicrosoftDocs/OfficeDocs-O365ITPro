@@ -30,6 +30,7 @@ ms.custom:
 - MiniMaven
 - ScenarioChain
 - strat_admin_top
+- MSStore_Link
 search.appverid:
 - BCS160
 - MET150
@@ -85,9 +86,7 @@ For more information about how long it takes to get someone out of email, see [W
 ::: moniker range="o365-worldwide"
 
 > [!TIP]
-Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help.
-
-Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
 
 ::: moniker-end
 
