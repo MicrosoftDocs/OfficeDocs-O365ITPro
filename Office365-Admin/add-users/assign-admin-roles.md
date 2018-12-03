@@ -22,6 +22,7 @@ ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
 - strat_admin_top
+- MSStore_Link
 search.appverid:
 - BCS160
 - MET150
@@ -70,9 +71,8 @@ As the person who purchased your Office 365 business subscription, you are the g
 
 ::: moniker range="o365-worldwide"
 
-Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue.
-
-Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+> [!TIP]
+> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
 
 ::: moniker-end
     
