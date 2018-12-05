@@ -8,6 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
 localization_priority: Normal
+ms.service: yammer
 ms.custom: Adm_Yammer
 search.appverid:
 - MET150

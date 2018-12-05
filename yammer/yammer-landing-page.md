@@ -7,10 +7,10 @@ author: IrenePasternack
 manager: jhendr
 layout: LandingPage
 ms.assetid: 
-ms.service: o365-administration
+ms.service: yammer
 ms.custom: Adm_Yammer
 ms.topic: landing-page
-ms.date: 9/4/18
+ms.date: 11/27/18
 ---
 # Yammer admin help
 
@@ -43,11 +43,47 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/success.svg" alt="Adoption resources" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/lightbulb-idea-capture.svg" alt="Yammer adoption resources" />
                         </div>
                     </div>
                     <div class="cardText">
                         <h3><a href="https://resources.techcommunity.microsoft.com/yammer-adoption-resources/">Yammer adoption resources</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>    
+<li>
+        <a href="  ">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/chat.svg" alt="Yammer technical community resources" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="https://techcommunity.microsoft.com/t5/Yammer/ct-p/Yammer">Yammer technical community</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+<li>
+        <a href="  ">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/blog-site.svg" alt="Yammer blog" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="https://techcommunity.microsoft.com/t5/Yammer-Blog/bg-p/YammerBlog">Yammer blog</a></h3>
                     </div>
                 </div>
             </div>
