@@ -1,5 +1,5 @@
 ---
-title: "Grow your small business with Office 365"
+title: "Build your small business with Office 365"
 ms.author: kwekua
 author: supotter
 manager: scotv
@@ -274,7 +274,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/admin/add-users/remove-former-employee" target="_blank">
+        <a href="/office365/admin/add-users/remove-former-employee?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json" target="_blank">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
