@@ -9,7 +9,7 @@ ms.topic: article
 f1_keywords:
 - 'O365M_YammerGov'
 - 'O365E_YammerGov'
-ms.service: o365-administration
+ms.service: yammer
 localization_priority: Normal
 ms.custom: Adm_Yammer
 search.appverid:

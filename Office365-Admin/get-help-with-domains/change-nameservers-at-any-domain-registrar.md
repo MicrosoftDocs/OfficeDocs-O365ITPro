@@ -104,6 +104,8 @@ When Office 365 finds the correct TXT record, your domain is verified.
 <a name="BKMK_nameservers"> </a>
 
 When you get to the last step of the domains setup wizard in Office 365, you have one task remaining. To set up your domain with Office 365 services, like email, you change your domain's nameserver (or NS) records at your domain registrar to point to the Office 365 primary and secondary nameservers. Then, because Office 365 hosts your DNS, the required DNS records for your services are set up automatically for you. You can update the nameserver records yourself by following the steps your domain registrar may provide in the help content at their website. If you're not familiar with DNS, contact support at the domain registrar.
+
+::: moniker range="o365-worldwide"
   
 To change your domain's nameservers at your domain registrar's website yourself, follow these steps:
   
@@ -123,23 +125,10 @@ To change your domain's nameservers at your domain registrar's website yourself,
     
 > [!CAUTION]
 > When you change your domain's NS records to point to the Office 365 nameservers, all the services that are currently associated with your domain are affected. If you skipped any steps of the wizard, such as adding email addresses, or if you're using your domain for blogs, shopping carts, or other services, there are additional steps that are required. Otherwise this change could result in service downtime, such as lack of email access or your current website being inaccessible. 
-  
-1. Find the area on the domain registrar's website where you can edit the nameservers for your domain.
-    
-2. Create two nameserver records, or edit the existing nameserver records to match the following values:
-    
-|||
-|:-----|:-----|
-|First nameserver  <br/> |ns1.bdm.microsoftonline.com  <br/> |
-|Second nameserver  <br/> |ns2.bdm.microsoftonline.com  <br/> |
-   
-   > [!TIP]
-   > You should use at least two nameserver records. If there are any other nameservers listed, you can either delete them, or change them to **ns3.bdm.microsoftonline.com** and **ns4.bdm.microsoftonline.com**. 
-  
-3. Save your changes.
-    
-> [!CAUTION]
-> When you change your domain's NS records to point to the Office 365 nameservers, all the services that are currently associated with your domain are affected. If you skipped any steps of the wizard, such as adding email addresses, or if you're using your domain for blogs, shopping carts, or other services, there are additional steps that are required. Otherwise this change could result in service downtime, such as lack of email access or your current website being inaccessible. 
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
   
 1. Find the area on the domain registrar's website where you can edit the nameservers for your domain.
     
@@ -157,6 +146,8 @@ To change your domain's nameservers at your domain registrar's website yourself,
     
 > [!CAUTION]
 > When you change your domain's NS records to point to the Office 365 operated by 21Vianet nameservers, all the services that are currently associated with your domain are affected. If you skipped any steps of the wizard, such as adding email addresses, or if you're using your domain for blogs, shopping carts, or other services, there are additional steps that are required. Otherwise this change could result in service downtime, such as lack of email access or your current website being inaccessible. 
+
+::: moniker-end
   
 For example, here are some additional steps that might be required for email and website hosting:
   

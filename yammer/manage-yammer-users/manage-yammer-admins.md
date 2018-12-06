@@ -7,6 +7,7 @@ ms.date: 5/15/2018
 ms.audience: Admin
 ms.topic: reference
 ms.prod: office-online-server
+ms.service: yammer
 localization_priority: Normal
 ms.custom: Adm_Yammer
 search.appverid:

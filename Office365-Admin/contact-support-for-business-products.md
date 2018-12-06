@@ -19,6 +19,7 @@ ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
 - MiniMaven
+- MSStore_Link
 search.appverid:
 - BCS160
 - MET150
@@ -26,7 +27,8 @@ search.appverid:
 - BEA160
 - GEA150
 ms.assetid: 32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b
-description: "Get technical and billing support using phone numbers listed for your region or locale, or by submitting your service request online."
+description: "Get technical and billing support using phone numbers listed for your region or locale, or by submitting your service request online, or by visiting a Microsoft store."
+feedback_system: None 
 ---
 # Contact support for business products - Admin Help
 
@@ -152,7 +154,7 @@ If your Office 365 or Microsoft 365 Business support phone number isn't listed a
 > - [Iraq](support/iraq.md)
 > - [Ireland](support/ireland.md)
 > - [Isle of Man](support/isle-of-man.md)
-> - [Israel]/support/israel.md)
+> - [Israel](support/israel.md)
 > - [Italy](support/italy.md)
 > - [Jamaica](support/jamaica.md)
 > - [Jan Mayen](support/jan-mayen.md)
@@ -310,11 +312,11 @@ Save time by starting your service request online. We'll help you find a solutio
   
 You can now make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your Office 365 or Microsoft 365 issue.
 
-1. Go to the [Microsoft Stores schedule](https://www.microsoft.com/en-us/store/locations/answer-desk) page, and choose **Schedule an appointment**.
+1. Go to the [Microsoft Stores schedule](https://go.microsoft.com/fwlink/?LinkID=2041482) page, and choose **Schedule an appointment**.
 
 2. Enter your location and choose search to find a Microsoft Store near you.
 
-3. Choose your store, then choose **Schedule service appointment**.
+3. Choose your store, then choose **Schedule service appointment now**.
     
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Create DNS records at 1&amp;1 Internet for Office 365"
+title: "Create DNS records at 1&1 IONOS for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -28,19 +28,19 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5762c3ca-1de2-4999-bfe5-4c5e25a8957e
-description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at 1&amp;1 Internet for Office 365."
+description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at 1&1 IONOS for Office 365."
 ---
 
-# Create DNS records at 1&amp;1 Internet for Office 365
+# Create DNS records at 1&1 IONOS for Office 365
 
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
   
 > [!CAUTION]
-> Note that 1&amp;1 Internet doesn't allow a domain to have both an MX record and a top-level Autodiscover CNAME record. This limits the ways in which you can configure Exchange Online for Office 365. There is a workaround, but we recommend employing it **only** if you already have experience with creating subdomains at 1&amp;1 Internet. > If despite this [service limitation](https://support.office.com/article/7ae9a655-041d-4724-aa92-60392ee390c2.aspx) you choose to manage your own Office 365 DNS records at 1&amp;1 Internet, follow the steps in this article to verify your domain and to set up DNS records for email, Skype for Business Online, and so on. 
+> Note that 1&1 IONOS doesn't allow a domain to have both an MX record and a top-level Autodiscover CNAME record. This limits the ways in which you can configure Exchange Online for Office 365. There is a workaround, but we recommend employing it **only** if you already have experience with creating subdomains at 1&1 IONOS. > If despite this [service limitation](https://support.office.com/article/7ae9a655-041d-4724-aa92-60392ee390c2.aspx) you choose to manage your own Office 365 DNS records at 1&1 IONOS, follow the steps in this article to verify your domain and to set up DNS records for email, Skype for Business Online, and so on. 
   
 Follow the steps below or [watch the video](https://support.office.com/en-us/article/Video-Create-DNS-records-at-1-1-Internet-for-Office-365-543fb112-ecf5-47ae-b096-07f3f942a089?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-After you add these records at 1&amp;1 Internet, your domain will be set up to work with Office 365 services.
+After you add these records at 1&1 IONOS, your domain will be set up to work with Office 365 services.
   
 To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
   
@@ -56,7 +56,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 Follow the steps below or [watch the video (start at 0:42)](https://support.office.com/en-us/article/Video-Create-DNS-records-at-1-1-Internet-for-Office-365-543fb112-ecf5-47ae-b096-07f3f942a089?ui=en-US&amp;rs=en-US&amp;ad=US).
   
-1. To get started, go to your domains page at 1&amp;1 Internet by using [this link](https://my.1and1.com/). You'll be prompted to log in.
+1. To get started, go to your domains page at 1&1 IONOS by using [this link](https://my.1and1.com/). You'll be prompted to log in.
     
 2. Choose **Manage domains**.
     
@@ -106,7 +106,7 @@ Follow the steps below or [watch the video (start at 3:22)](https://support.offi
 > [!NOTE]
 > If you've registered with 1und1.de, [sign in here](https://go.microsoft.com/fwlink/?linkid=859152). 
   
-1. To get started, go to your domains page at 1&amp;1 Internet by using [this link](https://my.1and1.com/). You'll be prompted to log in.
+1. To get started, go to your domains page at 1&1 IONOS by using [this link](https://my.1and1.com/). You'll be prompted to log in.
     
 2. Choose **Manage domains**.
     
@@ -133,10 +133,10 @@ Follow the steps below or [watch the video (start at 3:22)](https://support.offi
 ## Add the six CNAME records that are required for Office 365
 <a name="BKMK_add_CNAME"> </a>
 
-1&amp;1 Internet requires a workaround so that you can use an MX record together with the CNAME records that are required for Office 365 email services. This workaround requires you to create a set of subdomains at 1&amp;1 Internet, and to assign them to CNAME records.
+1&1 IONOS requires a workaround so that you can use an MX record together with the CNAME records that are required for Office 365 email services. This workaround requires you to create a set of subdomains at 1&1 IONOS, and to assign them to CNAME records.
   
 > [!IMPORTANT]
-> Make sure that you have at least two available subdomains before starting this procedure. We recommend this solution only if you already have experience with creating subdomains at 1&amp;1 Internet. 
+> Make sure that you have at least two available subdomains before starting this procedure. We recommend this solution only if you already have experience with creating subdomains at 1&1 IONOS. 
   
 ### Basic CNAME records
 
@@ -145,11 +145,11 @@ Follow the steps below or [watch the video (start at 3:57)](https://support.offi
 > [!NOTE]
 > If you've registered with 1und1.de, [sign in here](https://go.microsoft.com/fwlink/?linkid=859152). 
   
-1. To get started, go to your domains page at 1&amp;1 Internet by using [this link](https://my.1and1.com/). You'll be prompted to log in.
+1. To get started, go to your domains page at 1&1 IONOS by using [this link](https://my.1and1.com/). You'll be prompted to log in.
     
 2. Choose **Manage domains**.
     
-3. On the **Domain Center** page, find the domain that you want to update, and then choose **Manage Subdomains**.<br/>![1&amp;1-BP-Configure-3-0](../media/d570d03f-5c38-463d-809e-5bb9e4fb2777.png) <br/>Now you'll create two subdomains and set an **Alias** value for each.<br/>(This is required because 1&amp;1 Internet supports only one top-level CNAME record, but Office 365 requires several CNAME records.)<br/>First, you'll create the Autodiscover subdomain.
+3. On the **Domain Center** page, find the domain that you want to update, and then choose **Manage Subdomains**.<br/>![1&amp;1-BP-Configure-3-0](../media/d570d03f-5c38-463d-809e-5bb9e4fb2777.png) <br/>Now you'll create two subdomains and set an **Alias** value for each.<br/>(This is required because 1&1 IONOS supports only one top-level CNAME record, but Office 365 requires several CNAME records.)<br/>First, you'll create the Autodiscover subdomain.
     
 4. In the **Subdomain Overview** section, choose **Create Subdomain**.
     
@@ -293,7 +293,7 @@ Follow the steps below or [watch the video (start at 5:09)](https://support.offi
 > [!NOTE]
 > If you've registered with 1und1.de, [sign in here](https://go.microsoft.com/fwlink/?linkid=859152). 
   
-1. To get started, go to your domains page at 1&amp;1 Internet by using [this link](https://my.1and1.com/). You'll be prompted to log in.
+1. To get started, go to your domains page at 1&1 IONOS by using [this link](https://my.1and1.com/). You'll be prompted to log in.
     
 2. Choose **Manage domains**.
     
@@ -324,7 +324,7 @@ Follow the steps below or [watch the video (start at 5:51)](https://support.offi
 > [!NOTE]
 > If you've registered with 1und1.de, [sign in here](https://go.microsoft.com/fwlink/?linkid=859152). 
   
-1. To get started, go to your domains page at 1&amp;1 Internet by using [this link](https://my.1and1.com/). You'll be prompted to log in.
+1. To get started, go to your domains page at 1&1 IONOS by using [this link](https://my.1and1.com/). You'll be prompted to log in.
     
 2. Choose **Manage domains**.
     
