@@ -1,5 +1,5 @@
 ---
-title: "Build your small business with Office 365"
+title: "Grow your small business with Office 365"
 ms.author: kwekua
 author: supotter
 manager: scotv
@@ -17,7 +17,7 @@ search.appverid:
 ms.assetid: e540a435-e3c5-4c7c-a116-2eb638827a7f
 description: "Learn about features in Office 365 that help your boost your business, read about industry content, and find out what's trending."
 ---
-# Grow your small business with Office 365
+# Build your small business with Office 365
 
 
 <ul class="panelContent cardsW">
