@@ -79,7 +79,7 @@ There are three primary models of provisioning in Office 365 Groups: Open, IT-le
 | IT-led         | Users request a group from IT. IT can guide them in selecting the best collaboration tools for their needs |
 | Controlled     | Group creation restricted to specific people, teams or services (See: [Control who can create ](https://support.office.com/en-us/article/manage-who-can-create-office-365-groups-4c46c8cb-17d0-44b5-9776-005fced8e618) |
 
-|                 |                                                              |
+| Stage           | Description                                                  |
 | --------------- | ------------------------------------------------------------ |
 | Decision points | - Which provisioning  model fits your organization requirements? <br />- Does your organization require limiting group creation to administrators?<br />- Does your organization require limiting group creation to security group members? <br />- Does your organization require some groups to be created dynamically based on user attributes e.g department? |
 | Next Steps      | - Document your organization’s requirements for group and team creation <br />- Plan to implement these requirements as a part of your groups rollout. <br />- Communicate and publish your policies to inform end users of the behavior they can expect.<br />- Plan to implement dynamic membership where applicable |
@@ -97,7 +97,7 @@ There are three primary models of provisioning in Office 365 Groups: Open, IT-le
 - Communicate the restore process to your users
 - Train your helpdesk team
 - Track upcoming groups that will be deleted using PowerShell script
-|                 |                                                              |
+| Stage           | Description                                                  |
 | --------------- | ------------------------------------------------------------ |
 | Decision points | - Do you require that certain assets to be archived for long term storage?  <br />- Do you have certain retention requirements for your organization? |
 | Next Steps      | - Communicate and publish the delete and restore policies to inform users of the behavior they can expect <br />- Document your organizations requirements for monitoring deleted groups.<br />- Plan to implement these requirements as part of your groups rollout. |
@@ -111,9 +111,9 @@ There are three primary models of provisioning in Office 365 Groups: Open, IT-le
 - Use attributes with values
 - Don’t be too creative, total name length has a maximum of 264 characters
 - Upload your organization specific blocked words to restrict usage
-|                 |                                                              |
+| Stage           | Description                                                  |
 | --------------- | ------------------------------------------------------------ |
-| Decision points | - Does your organization require a specific naming convention for groups?<br />- Does your organization require the naming convention across all workloads?<br />- Does your organization have specific words that you want to prevent users from using?  |
+| Decision points | - Does your organization require a specific naming convention for groups?<br />- Does your organization require the naming convention across all workloads?<br />- Does your organization have specific words that you want to prevent users from using? |
 | Next Steps      | - Document your organization’s requirements for naming Office 365 groups. <br />- Plan to implement these requirements as part of your groups rollout.<br />- Communicate and publish the naming policies and standards to inform end users. |
 
 #### *Resources*
@@ -126,9 +126,9 @@ There are three primary models of provisioning in Office 365 Groups: Open, IT-le
 - Communicate renewal process to group owners
 - Onboard your helpdesk team
 - Ensure groups have multiple owners & configure email for orphan groups
-|                 |                                                              |
+| Stage           | Description                                                  |
 | --------------- | ------------------------------------------------------------ |
-| Decision points | - Does your organization require specifying an expiration date for teams?<br />- Determine the strategy for dealing with orphan groups?  |
+| Decision points | - Does your organization require specifying an expiration date for teams?<br />- Determine the strategy for dealing with orphan groups? |
 | Next Steps      | - Document your organization’s requirements for group expiration, data retention, and archiving.<br />- Plan to implement these requirements as part of your groups rollout.<br />- Plan to implement a custom job to report on groups that have single owners or are ownerless |
 
 #### *Resources*
@@ -140,7 +140,7 @@ There are three primary models of provisioning in Office 365 Groups: Open, IT-le
 - Enable guest access! Block for specific groups if required.
 - Govern using allow/block guest domains, guest inviter role, access reviews, terms of use
 - Track guest user activity via audit logs
-|                 |                                                              |
+| Stage           | Description                                                  |
 | --------------- | ------------------------------------------------------------ |
 | Decision points | - Do you have specific domains you wish to block or allow guest users from?<br />- Do you need to restrict the ability to add guests to teams on a per-group basis?<br />- Does your organization require to present relevant disclaimers for legal or compliance requirements?<br />- Does your organization have the need to reduce administrative over-head of adding and removing users?<br />- Does your organization expect audit controls for guest/external access? |
 | Next Steps      | - Document requirements for guest/external access for certain classified groups including the retention period and occurrence.<br />- Document organization’s requirements for which groups will require terms of use and access review. <br />- Perform reviews to efficiently manage group memberships for both internal and guest users |
@@ -159,10 +159,10 @@ There are three primary models of provisioning in Office 365 Groups: Open, IT-le
 - Retention policies can be defined independently of labels
 - Audit groups activities: creation, deletion, etc.
 - Control group privacy and guest access based on classification
-|                 |                                                              |
+| Stage           | Description                                                  |
 | --------------- | ------------------------------------------------------------ |
 | Decision points | - Does your organization require the classifications of all content?<br />- Does your organization require content to be retained for a specific period of time?<br />- Does your organization require specific data retention policies be ap-plied to groups?<br />- Does your organization expect to require the ability to archive inactive groups to preserve the content?<br />- Do group creators need the ability to assign organization-specific classifications to teams? |
-| Next Steps      | - Document your organization’s requirements for classification. <br />- Determine the policies to be enforced based on the classification e.g. sensitivity, retention, guest access<br />- Define the sensitivity labels for your organization and what protection settings you want associated.<br />- Define a label policy to control which users and groups see those labels<br />- Plan to implement these requirements as a part of your groups rollout  |
+| Next Steps      | - Document your organization’s requirements for classification. <br />- Determine the policies to be enforced based on the classification e.g. sensitivity, retention, guest access<br />- Define the sensitivity labels for your organization and what protection settings you want associated.<br />- Define a label policy to control which users and groups see those labels<br />- Plan to implement these requirements as a part of your groups rollout |
 
 #### *Resources*
 - [Configure Group settings](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-accessmanagement-groups-settings-cmdlets)
@@ -179,7 +179,7 @@ There are three primary models of provisioning in Office 365 Groups: Open, IT-le
 #### *Guidance*
 - Easily upgrade all your eligible DL in seconds via the Exchange Admin center or using PowerShell cmdlets.
 - Connect existing SharePoint team sites to new Office 365 Groups
-|                 |                                                              |
+| Stage           | Description                                                  |
 | --------------- | ------------------------------------------------------------ |
 | Decision points | - Does your organization have distribution lists that are [not eligible]() for upgrade?<br />- Determine which type of group is the distribution list best migrated to? |
 | Next Steps      | - Identify which distribution lists would be candidates for upgrading to Office 365 Groups  <br />- Analyze your existing SharePoint team sites to see which sites are ready to be group-connected<br />- Let other teams in your company know that you upgraded your distribution group and what steps you took to make it successful! |
@@ -199,7 +199,7 @@ There are three primary models of provisioning in Office 365 Groups: Open, IT-le
 - Monitor group activity across group mailbox conversations, group site/files activity, details around group membership including external member counts.
 - Monitor regularly to reach out to group owners of active groups to learn uses cases and amplify them internally
 - Leverage Power BI content packs for additional insights
-|                 |                                                              |
+| Stage           | Description                                                  |
 | --------------- | ------------------------------------------------------------ |
 | Decision points | - Does your organization require regular reports to understand usage of Office 365 groups?<br />- Does your organization require reporting on all groups that have external members? |
 | Next Steps      | - Document your organization’s requirements for regularly review groups activity reports. |
@@ -221,21 +221,21 @@ Office 365 Groups provides a rich set of governance capabilities your organizati
 
 ### Small business	
 Consider an organization that has deployed Office 365 with at least Exchange Online and SharePoint Online licenses that includes the Business Essentials and Business Premium plans, and the Enterprise E1, E3 and E5 plans with no Azure Active Director Premium licensing
-|                 |                                                              |
+| Stage | Description |
 | --------------- | ------------------------------------------------------------ |
 | Guidance | - Consider a self-service provisioning model <br />- Groups in Outlook & SharePoint sites are [private by default](https://techcommunity.microsoft.com/t5/Office-365-Groups/Groups-in-Outlook-and-Group-connected-team-sites-are-now-private/m-p/186395)<br />- Groups can be created by upgrading existing distribution lists (DLs) either one-by-one or in bulk via PowerShell.See [Upgrade distribution lists to Office 365 Groups](https://support.office.com/en-us/article/Upgrade-distribution-lists-to-Office-365-Groups-in-Outlook-787D7A75-E201-46F3-A242-F698162FF09F)<br />- Enable guest access but govern using allow/block guest domains.<br />- Use group reporting to gain insights on how users are using groups.<br />- Consider [creating an org-wide team Microsoft Teams]() as a way for everyone to be a part of a single team for collaboration |
 | Next Steps      | - Consider using [site designs and site scripts](#bookmark1) to define the default design to controls using the actions defined within the [JSON schema reference](#bookmark2)<br />- Review [groups reporting](https://support.office.com/en-us/article/Office-365-Reports-in-the-admin-center-Office-365-groups-a27f1a99-3557-4f85-9560-a28e3d822a40)<br />  - Track total groups and inactive/active groups<br />  - Track both Exchange and SharePoint storage used<br />- View group activity across group mailbox conversations, group site/files activity, etc. |
 
 ### Medium-sized business 	
 In addition to the above recommendations consider the following for medium-sized business who has deployed Office 365 with at least an Enterprise E3/E5 with Azure Active Directory Premium P1 licenses
-|                 |                                                              |
+| Stage | Description |
 | --------------- | ------------------------------------------------------------ |
 | Guidance | - Decide on an Open or IT-led provisioning model.  <br />- Consider creating certain groups tied to [dynamic memberships rules](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-dynamic-membership) based on Azure AD attributes like Department<br />- Define classifications within your organization e.g. Highly Confidential, Confidential (default), General<br />- Define the policies based on classification such as retention and sensitivity<br />- SharePoint is the content service for every Office 365 Group. Consider designing and [Deploying SharePoint Online sites for three tiers of protection](https://docs.microsoft.com/en-us/office365/enterprise/deploy-sharepoint-online-sites-for-three-tiers-of-protection) (baseline, sensitive, and highly confidential). For more information about these three tiers of protection, see [Secure SharePoint Online sites and files](https://docs.microsoft.com/en-us/office365/enterprise/secure-sharepoint-online-sites-and-files).<br />- Both public and private groups are listed in the GAL by default. Deter-mine which groups you want to appear in the GAL specifically groups created outside of Microsoft Teams.  Use the [Set-UnifiedGroup](https://technet.microsoft.com/library/mt238274(v=exchg.160).aspx) cmdlet's "HiddenFromAddressListsEnabled" or “HidefromExchangeC-lients” to hide specific groups. |
 | Next Steps      | - Define [Usage guidelines](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-accessmanagement-groups-settings-cmdlets) to educate your users about best practices that help keep their groups effective, and educate them on internal content policies. E.g. understanding classifications, policies and procedures. <br />-	Define group lifecycle period that groups must be renewed or will be deleted - [expiry policy]()<br />- Consider creating the following custom jobs to implement policies based on classifications<br />  - Set Privacy to Private<br />  - Disable external membership/sharing <br />  - Emails to notify group members for groups with [no owner](https://support.office.com/en-us/article/Assign-a-new-owner-to-an-orphaned-group-86bb3db6-8857-45d1-95c8-f6d540e45732)<br />  - Enforce ownership policy (min. 2 owners)<br />- Define retention policies for groups based on classification. <br />  - Overview of retention policies<br />  - Using Powershell to identify groups with a classification and [Set-RetentionCompliancePolicy](https://docs.microsoft.com/en-us/powershell/module/exchange/policy-and-compliance-retention/set-retentioncompliancepolicy?view=exchange-ps)<br />- Consider using [site designs and site scripts](#bookmark3) to define the controls using the actions defined within the [JSON schema reference.](#bookmark4)<br />- Consider building [a simple site directory using a site design](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-trigger-flow-tutorial) and Micro-soft Flow. Whenever a site is created using this site design, details of the site are captured and written to a list. |
 
 ### Regulated or Enterprise 	
 In addition to the above recommendations consider the following for highly regulated or large enter-prises such as government, financial services, or healthcare who has deployed Office 365 with at least an Enterprise E3/E5 with Azure Active Directory Premium P1/P2 licences.
-|                 |                                                              |
+| Stage | Description |
 | --------------- | ------------------------------------------------------------ |
 | Guidance | - Define policies for data governance of the SharePoint site associated to the group based on classification<br />  - [Protect SharePoint Online files with Office 365 labels and DLP](https://docs.microsoft.com/en-us/office365/enterprise/protect-sharepoint-online-files-with-office-365-labels-and-dlp)<br />  - [Protect SharePoint Online files with Azure Information Protection](https://docs.microsoft.com/en-us/office365/enterprise/protect-sharepoint-online-files-with-azure-information-protection)<br />- Group site provisioned in region tied to user’s Preferred Data Location ([multi-geo](https://docs.microsoft.com/en-us/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365))<br />- Membership reviews for groups with external members ([access reviews](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-azure-ad-controls-access-reviews-overview))<br />- Ensure employees or guest users see relevant disclaimers for legal or compliance requirements before getting access. ([terms of use](https://docs.microsoft.com/en-us/azure/active-directory/governance/active-directory-tou))<br />- Identify and report on Office 365 groups with a certain [classification that also have external users](https://techcommunity.microsoft.com/t5/Office-365-Groups/Sample-Powershell-to-identify-groups-with-HBI-classification-and/m-p/215561)<br />- Secret groups where memberships needed to be hidden must be created using the [New-UnifiedGroup](https://technet.microsoft.com/en-us/library/mt219359(v=exchg.160).aspx) cmdlet (using the HiddenGroup-MembershipEnabled switch) on Group creation.<br />- Define the [sensitivity labels](https://docs.microsoft.com/en-us/Office365/SecurityCompliance/sensitivity-labels) for the organization to [Restrict access to content by using encryption](https://docs.microsoft.com/en-us/Office365/SecurityCompliance/encryption-sensitivity-labels) and publish to specific Office 365 Groups.<br />- Prevent sensitive content from leaving your organization on devices running Windows using [sensitivity labels with Windows Information Protection](https://docs.microsoft.com/en-us/windows/security/information-protection/windows-information-protection/how-wip-works-with-labels?branch=vsts17546553) |
 | Next Steps      | - Use site design and site scripts to define the default [actions](https://developer.microsoft.com/en-us/office/blogs/site-scripts-site-designs-summer-2018-update/) that occur when a new site is created. E.g. [Configure external sharing setting](https://github.com/SharePoint/sp-dev-site-scripts/tree/master/samples/site-apply-external-sharing-setting) or [Trigger a Microsoft Flow to call an Azure function](https://github.com/SharePoint/sp-dev-site-scripts/tree/master/samples/site-azure-function) to apply configurations that are not supported natively. <br />- Document requirements to [Protect SharePoint Online files with Office 365 labels and DLP](https://docs.microsoft.com/en-us/office365/enterprise/protect-sharepoint-online-files-with-office-365-labels-and-dlp) to sites associated to Office 365 Groups. <br />- Document organization requirements to [Secure SharePoint Online sites and files](https://docs.microsoft.com/en-us/office365/securitycompliance/secure-sharepoint-online-sites-and-files) that are connected to Office 365 groups. <br />- Document organization requirements to publish [sensitivity labels](https://docs.microsoft.com/en-us/Office365/SecurityCompliance/sensitivity-labels) to specific users or groups to protect content. |
