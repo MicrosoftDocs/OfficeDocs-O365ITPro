@@ -7,8 +7,8 @@ ms.date: 5/15/2018
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
-- 'fwlink fro UI'
-ms.service: o365-administration
+- 'fwlink from UI'
+ms.service: yammer
 localization_priority: Normal
 ms.custom: Adm_Yammer
 search.appverid:
