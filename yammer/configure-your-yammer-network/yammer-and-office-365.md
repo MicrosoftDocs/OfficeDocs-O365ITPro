@@ -6,7 +6,7 @@ manager: pamgreen
 ms.date: 3/28/2018
 ms.audience: Admin
 ms.topic: overview
-ms.service: o365-administration
+ms.service: yammer
 localization_priority: Normal
 ms.custom: Adm_Yammer
 search.appverid:

@@ -8,7 +8,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.custom: Core_O365Admin_Migration
+ms.custom: 
+- Core_O365Admin_Migration
+- MSStore_Link
 search.appverid:
 - BCS160
 - MET150
@@ -43,9 +45,8 @@ Before you begin, check your Office 365 Secure Score. Office 365 Secure Score an
 
 ::: moniker range="o365-worldwide"
 
-Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to get help.
-
-Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+> [!TIP]
+> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
 
 ::: moniker-end
   
@@ -107,7 +108,7 @@ Your Office 365 or Microsoft 365 environment includes protection against malware
   
 1. Go to [https://protection.office.com](https://protection.office.com) and sign in with your admin account credentials. 
     
-2. In the Office 365 Security &amp; Compliance Center, in the left navigation pane, under **Threat management**, choose ** Policy ** \> **Anti-Malware**.
+2. In the Office 365 Security &amp; Compliance Center, in the left navigation pane, under **Threat management**, choose **Policy** \> **Anti-Malware**.
     
 3. Double-click the default policy to edit this company-wide policy.
     

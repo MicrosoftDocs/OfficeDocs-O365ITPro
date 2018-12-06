@@ -10,7 +10,7 @@ f1_keywords:
 - 'spoe_YammerSwitch'
 - 'O365E_YammerSwitch'
 - 'O365E_YammerOn            '
-ms.service: o365-administration
+ms.service: yammer
 localization_priority: Normal
 ms.custom: Adm_Yammer
 search.appverid:

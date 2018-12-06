@@ -19,6 +19,7 @@ ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
 - MiniMaven
+- MSStore_Link
 search.appverid:
 - BCS160
 - MET150
@@ -153,7 +154,7 @@ If your Office 365 or Microsoft 365 Business support phone number isn't listed a
 > - [Iraq](support/iraq.md)
 > - [Ireland](support/ireland.md)
 > - [Isle of Man](support/isle-of-man.md)
-> - [Israel](/support/israel.md)
+> - [Israel](support/israel.md)
 > - [Italy](support/italy.md)
 > - [Jamaica](support/jamaica.md)
 > - [Jan Mayen](support/jan-mayen.md)

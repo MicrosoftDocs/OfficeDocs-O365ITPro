@@ -27,10 +27,14 @@ description: "Learn to verify your email and domain ownership to become the admi
 # Do an admin takeover in Office 365
 
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
+
+If you are an admin and want to take over an unmanaged or "shadow" tenant create by users who used self-service sign-up, you can do this with an internal admin takeover.
   
 ## Step 1: Verify your email address
 
-1. Enter your email address in the prompt so we can send you a link to join the Office 365 account where your domain is currently added.
+1. Create a user context in the unmanaged tenant through signing up with such as Power BI. For convenience of example, these steps assume that path.
+
+2. Open the [Power BI site](https://powerbi.com) and select **Start Free**. Enter a user account that uses the domain name for the organization; for example, `admin@fourthcoffee.xyz`. After you enter in the verification code, check your email for the confirmation code.
     
 2. Once you receive your email, [Sign out of Office 365](https://login.microsoftonline.com/logout.srf) from your current account. 
     
