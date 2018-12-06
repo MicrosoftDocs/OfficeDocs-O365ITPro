@@ -18,7 +18,7 @@ search.appverid:
 - MOE150
 - BSA160
 ms.assetid: 
-description: "Learn how to plan for Office 365 Groups governance"
+description: "Learn how to plan for Office 365 Groups governance."
 ---
 
 # Plan for Office 365 Groups governance
