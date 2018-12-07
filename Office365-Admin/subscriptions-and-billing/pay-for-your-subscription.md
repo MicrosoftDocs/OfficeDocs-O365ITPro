@@ -82,7 +82,7 @@ If you pay by invoice for your subscription, you'll get an email that says your 
   
 ### Can I pay my bill online?
 
-Unfortunately, if your subscription is set up to pay by invoice, we can't accept online payments directly. You can, however, [change your payment method to credit card or bank account](change-payment-method.md), and the amount due will be automatically charged to your card or account after each service period. For Azure, see [How to change the credit card used to pay for an Azure subscription](http://go.microsoft.com/fwlink/p/?LinkId=718057).
+Unfortunately, if your subscription is set up to pay by invoice, we can't accept online payments directly. You can, however, [change your payment method to credit card or bank account](change-payment-method.md), and the amount due will be automatically charged to your card or account after each service period. For Azure, see [How to change the credit card used to pay for an Azure subscription](https://go.microsoft.com/fwlink/p/?LinkId=718057).
   
 > [!NOTE]
 > If you're switching to pay by automatic credit card payments, be sure to first pay all outstanding balances. Check your billing statement for payment options and instructions. For more information, see [Understand your invoice](understand-your-invoice.md). 
@@ -92,7 +92,7 @@ Unfortunately, if your subscription is set up to pay by invoice, we can't accept
 > [!NOTE]
 > Payment by check is only available in a few countries. You can follow the payment instructions below for your country, or [check your invoice](understand-your-invoice.md). 
   
-If you're not sure how much you owe, you can [check your bill and billing history online](view-your-bill-or-invoice.md). For Azure, see [How to download your Azure billing invoice and daily usage data](http://go.microsoft.com/fwlink/p/?LinkId=718058).
+If you're not sure how much you owe, you can [check your bill and billing history online](view-your-bill-or-invoice.md). For Azure, see [How to download your Azure billing invoice and daily usage data](https://go.microsoft.com/fwlink/p/?LinkId=718058).
   
  **Select your "bill-to" country or region from the dropdown menu below.**
   

@@ -59,11 +59,11 @@ Mail is delivered to the mail exchange server with the lowest preference number 
 
 It's important that you have or create **only one TXT record for SPF**. If you already have an SPF record, you should append the new Office 365 values to it, rather than create a new one. After you've added or updated your SPF record for Office 365 email, you should check to make sure that the syntax is correct with one of these tools: 
   
-- [SPF Record Testing Tools](http://www.kitterman.com/spf/validate.html)
+- [SPF Record Testing Tools](https://www.kitterman.com/spf/validate.html)
     
 - [SPF Surveyor](https://dmarcian.com/spf-survey/)
     
-- [Dig web interface](http://digwebinterface.com/)
+- [Dig web interface](https://digwebinterface.com/)
     
 ## How does Office 365 manage my DNS records?
 

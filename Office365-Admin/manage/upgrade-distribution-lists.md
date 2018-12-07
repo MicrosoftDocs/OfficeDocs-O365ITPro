@@ -72,7 +72,7 @@ For example, if you want to upgrade a DLs with SMTP address dl1@contoso.com, run
 `Upgrade-DistributionGroup -DlIdentities dl1@contoso.com`
   
 > [!NOTE]
-> You can also upgrade a single distribution list to an Office 365 group using the [New-UnifiedGroup](http://go.microsoft.com/fwlink/?LinkID=786379) PowerShell cmdlet 
+> You can also upgrade a single distribution list to an Office 365 group using the [New-UnifiedGroup](https://go.microsoft.com/fwlink/?LinkID=786379) PowerShell cmdlet 
   
 ### Upgrade multiple DLs in a batch
 

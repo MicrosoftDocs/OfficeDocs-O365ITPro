@@ -121,4 +121,4 @@ To install a targeted release build of Office, [follow these steps](https://supp
   
 ## Learn more
 
-Learn more about upcoming Office 365 updates and releases on the [Office 365 public roadmap](http://roadmap.office.com/) and the notifications you receive in the [Office 365 Message Center](https://go.microsoft.com/fwlink/p/?LinkID=402336).
+Learn more about upcoming Office 365 updates and releases on the [Office 365 public roadmap](https://roadmap.office.com/) and the notifications you receive in the [Office 365 Message Center](https://go.microsoft.com/fwlink/p/?LinkID=402336).
