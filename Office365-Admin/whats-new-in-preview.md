@@ -23,14 +23,14 @@ We're continuously adding new features to the Microsoft 365 admin center preview
 Want to know how to participate in the preview? Checkout [About the Microsoft 365 admin center preview](microsoft-365-admin-center-preview.md).
   
 ## November 2018
-- The Search box is back! And we moved it slightly. It's still at the top of the Home page, but it's now on the right-side of the page near the **Add card** button. <br> ![Screen capture explaining that the search box is located in the upper right-side of the Home page.](../media/M365PreviewSearchBox.png)
+- The Search box is back! And we moved it slightly. It's still at the top of the Home page, but it's now on the right-side of the page near the **Add card** button. <br> ![Screen capture explaining that the search box is located in the upper right-side of the Home page.](media/M365PreviewSearchBox.png)
 
 - We've added cards for the dashboard. Just go to the admin center and select **Add card** to see the new cards: 
     - **Office 365 Active users report** - Monitor the usage of the Office 365 services you've purchased.
     - **Office 365 software** - Install or deploy Office 365 ProPlus software and see how many licensed users have activated it.
     - **Azure Active Directory** - Gives you quick access to common Azure AD tasks like self-serve password resets, customizing sign-in, and adding apps.
-- The **Export users** quick task has been added to command bar on the Active users page. ![Screen capture showing Export users on the command bar next to Refresh.](../media/M365PreviewExportUsersQT.png)
-- Purchase services has additional enhancements for November. And they are ALL good! To get there, go to Billing > Purchase services. <br>![Screen capture showing purchase services page with 3 new enhancements.](../media/M365PreviewBillingPurchasServices.png)
+- The **Export users** quick task has been added to command bar on the Active users page. ![Screen capture showing Export users on the command bar next to Refresh.](media/M365PreviewExportUsersQT.png)
+- Purchase services has additional enhancements for November. And they are ALL good! To get there, go to Billing > Purchase services. <br>![Screen capture showing purchase services page with 3 new enhancements.](media/M365PreviewBillingPurchasServices.png)
     >1. At the top of the page, you can pivot between Business and Education plans. That will help you find what you're looking for.
     >2. We added a search box so you don't have to scroll endlessly to find what you're looking for. 
     >3. Finally, we logically sorted the plans you can purchase into sections that you can expand and collapse. Don't need purchase any of the **Office apps and services**? Collapse that section and focus on Microsoft 365 plans.
