@@ -71,7 +71,7 @@ Learn what's new, popular, and on the horizon, in Office 365 this quarter.
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>New G Suite  training</h3>
+                        <h3>New G Suite training</h3>
                     </div>
                 </div>
             </div>
