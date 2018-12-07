@@ -150,5 +150,6 @@
 ### [Manage messages](manage/manage-messages.md)
 ### [Language translation for Message center posts](manage/language-translation-for-message-center-posts.md)
 ### [Microsoft 365 admin center preview](microsoft-365-admin-center-preview.md) 
+#### [What's new in preview](whats-new-in-preview.md)
 #### [Try or buy Microsoft 365](try-or-buy-microsoft-365.md)
 ## [Contact support for business products](contact-support-for-business-products.md)
