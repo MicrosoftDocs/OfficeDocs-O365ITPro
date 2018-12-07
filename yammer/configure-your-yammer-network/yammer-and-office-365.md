@@ -3,7 +3,7 @@ title: "About Yammer networks and Office 365 tenants"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 3/28/2018
+ms.date: 12/6/2018
 ms.audience: Admin
 ms.topic: overview
 ms.service: yammer
@@ -22,7 +22,7 @@ description: "Understand the relationship between a Yammer network and an Office
 For the best end-user and management experience, it is required that one Office 365 tenant is associated with just one Yammer network. If you are not in this configuration, we recommend you consolidate your networks/tenants to move to this state.
   
 > [!NOTE]
-> Have you recently received a communication from Yammer stating that your Office 365 tenant is associated with two or more Yammer networks? If you are wondering what that means, read this article for context, and the more detailed [blog post from Yammer support](https://go.microsoft.com/fwlink/?LinkID=786898) for information about what actions you can take. 
+> Have you recently received a communication from Yammer stating that your Office 365 tenant is associated with two or more Yammer networks? If you are wondering what that means, read this article for context, and the more detailed [blog post from Yammer support](https://askyammer.github.io/post/2016-04-15-your-office365-tenant-is-associated-with-two-or-more-canonical-home-yammer-networks/) for information about what actions you can take. 
   
 ## The changing role of Yammer network
 
