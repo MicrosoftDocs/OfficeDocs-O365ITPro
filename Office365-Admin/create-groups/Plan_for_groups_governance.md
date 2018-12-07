@@ -17,11 +17,10 @@ search.appverid:
 - MET150
 - MOE150
 - BSA160
-ms.assetid: 
 description: "Learn how to plan for Office 365 Groups governance."
 ---
 
-# Plan for Office 365 Groups governance
+# Plan for governance in Office 365 Groups 
 
 Office 365 Groups has a rich set of tools to implement any governance capabilities your organization might require. This article guides IT Pros to ask the right questions to determine their requirements for governance and how to meet them based on their organizational profile.
 
@@ -105,7 +104,7 @@ There are three primary models of provisioning in Office 365 Groups: Open, IT-le
 | IT-led         | Users request a group from IT. IT can guide them in selecting the best collaboration tools for their needs. |
 | Controlled     | Group creation restricted to specific people, teams or services. To learn more, see [Manage who can create Office 365 Groups](https://support.office.com/en-us/article/manage-who-can-create-office-365-groups-4c46c8cb-17d0-44b5-9776-005fced8e618). |
 
-
+Your organization might have specific requirements to implement strict controls on who can create groups. Use the following table to help make the decision on which provisioning model fits your organization.
 
 | Stage           | Description                                                  |
 | --------------- | ------------------------------------------------------------ |
@@ -228,11 +227,11 @@ Note: Limiting group and team creation can slow users productivity because many 
 - [SharePoint Modernization Scanner](https://github.com/SharePoint/sp-dev-modernization/tree/master/Tools/SharePoint.Modernization) (a tool located on GitHub)
 
 ### Groups reporting
-#### *Guidance*
-- You can use the Groups activity reports to gain insights into the activity of Office 365 Groups in your organization and see how many Office 365 Groups are being created and used.
-- Monitor group activity across group mailbox conversations, group site/files activity, details around group membership including external member counts.
-- Monitor regularly to reach out to group owners of active groups to learn uses cases and amplify them internally.
-- Leverage Power BI content packs for additional insights.
+> [!TIP]
+>- You can use the Groups activity reports to gain insights into the activity of Office 365 Groups in your organization and see how many Office 365 Groups are being created and used.
+>- Monitor group activity across group mailbox conversations, group site/files activity, details around group membership including external member counts.
+>- Monitor regularly to reach out to group owners of active groups to learn uses cases and amplify them internally.
+>- Leverage Power BI content packs for additional insights.
 
 | Stage           | Description                                                  |
 | --------------- | ------------------------------------------------------------ |
@@ -280,11 +279,11 @@ In addition to the above recommendations consider the following for highly regul
 
 ## Groups Management Capability Planning Checklist
 
-A number of groups-related controls can be administered through AAD.
+A number of groups-related controls can be administered through Azure Active Directory. To learn more about configuring group settings, see [Azure Active Directory cmdlets for configuring group settings](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-settings-cmdlets). 
 
-Use the following table to determine which capabilities you will need to deploy your organizations requirements. It will help you plan ahead.
+Use the following table to determine which capabilities you will need to deploy your organizations requirements. It will help you determine which licenses you need so you can plan ahead.
 
-| **Capability**      | **Details**                                    | **Azure AD Premium license required** | **Check?** |
+| **Capability**      | **Details**                                    | **Azure AD Premium license required** | **Decision** |
 | ------------------- | ---------------------------------------------- | ------------------------------------- | ------------ |
 | Group naming policy | Use Prefix-Suffix–based, Custom Blocked Words. | P1                                    |           |
 | Group classification | Assign classifications to teams. | P1                                    |           |

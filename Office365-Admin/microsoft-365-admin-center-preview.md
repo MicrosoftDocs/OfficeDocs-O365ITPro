@@ -20,28 +20,20 @@ description: "Learn about how to participate in the preview and get your questio
 
 The new Microsoft 365 admin center is built for IT teams as a simplified way to manage your Microsoft 365 and Office 365 services. The admin center provides a tailored experience based on the unique needs of your role or organization, improves efficiency for everyday tasks, and provides actionable insights that help you make data-driven decisions to deliver a better experience for your users.
 
-[!NOTE]
-> Check out [What's new in preview?](whats-new-in-preview.md) for a list of the features we've released ecah month for the Microsoft 365 admin center preview.
+> [!NOTE]
+> Check out [What's new in preview?](whats-new-in-preview.md) for a list of the features we've released ecah month.
   
 The Microsoft 365 admin center is the common entry point for all Microsoft 365 and Office 365 admins and can be accessed at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2024339). Specialist workspaces, like Security or Device management, allow for more granular control. For more information about how the admin centers will work together, see [What about the specific types of IT roles and other workspaces like Security, Device Management, or Exchange?](#what-about-the-specific-types-of-it-roles-and-other-workspaces-like-security-device-management-or-exchange) later in this article. 
   
-As new features become available in the Microsoft 365 admin center, you'll be able to opt in to the preview and share your feedback with Microsoft so that we can continue to improve the admin experience. If you opt in to the preview, there will be no impact to your users, and you can switch back to the classic admin center at any time.
+As new features become available in the Microsoft 365 admin center, you'll be able to opt-in to the preview and share your feedback with Microsoft so that we can continue to improve the admin experience. If you opt-in to the preview, there will be no impact to your users, and you can switch back to the classic admin center at any time.
   
     
 ## Participate in the preview
 We would love for you to participate in the Microsoft 365 admin center preview so you can prepare for change and give us feedback.
 
-### Turn on Targeted release
-
-1. Sign in at [admin.microsoft.com](https://admin.microsoft.com), go to the navigation pane and select **Settings** \> **Organization Profile**.
-    
-2. Go to the **Release preferences** card, and then select **Edit**. 
-    
-3.  Select either **Targeted release for everyone** or **Targeted release for selected users**. If you choose Targeted release for selected users, make sure that you add your admin account (and any other admins in your org who want to participate) to the list of selected users.
-    
 ### Switch to preview and back again
 
-When the Microsoft 365 admin center preview is available to you, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. 
+The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. 
 
 1. From top-right corner of any page in the classic admin center, select **Try the preview**. From the Home page, you turn it on through a toggle. On all other pages, just select the link. <br/>![Screen capture: The Preview toggle from the Home page in Microsoft 365 Admin Center preview.](media/2f76101d-37bb-4bcf-8cba-a143e880cf94.png)
 
@@ -52,10 +44,7 @@ When the Microsoft 365 admin center preview is available to you, you can opt in 
 4. You can also give feedback at the end of this article by clicking **Was this information helpful?**
 
 5. Switch back to the classic admin center by navigating back to the preview admin center's **Home** page, and then switch the **Preview on** toggle to **Off**.
-   
-> [!NOTE]
-> Access to the preview will be rolled out to all Microsoft 365 admins. Admins who are in the Targeted release group in their organization will get the preview first. Being in Targeted release does not guarantee you will see the toggle immediately, but you will get it sooner than those in Standard release. 
-   
+     
 ## Frequently asked questions
 
 Don't see your questions answered here? Go to **Was this information helpful?** at the bottom of this page and ask your question. 

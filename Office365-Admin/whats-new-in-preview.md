@@ -16,10 +16,25 @@ ms.assetid: 739574d7-2c5b-4911-a549-f56ecc7d3b48
 description: "Microsoft 365 admin center preview - learn about the features that were added this month."
 ---
 
-#What's new in Microsoft 365 admin center preview
+# What's new in Microsoft 365 admin center preview
 
 We're continuously adding new features to the Microsoft 365 admin center preview, fixing issues we learn about, and making changes based on your feedback. As the new admin center is getting built, you'll want to know about what's getting added, what's new, and what's being removed. Take a look below to see what's available for you today.
+
+Want to know how to participate in the preview? Checkout [About the Microsoft 365 admin center preview](microsoft-365-admin-center-preview.md).
   
+## November 2018
+- The Search box is back! And we moved it slightly. It's still at the top of the Home page, but it's now on the right-side of the page near the **Add card** button. <br> ![Screen capture explaining that the search box is located in the upper right-side of the Home page.](media\M365Preview_SearchBox.png)
+
+- We've added cards for the dashboard. Just go to the admin center and select **Add card** to see the new cards: 
+    - **Office 365 Active users report** - Monitor the usage of the Office 365 services you've purchased.
+    - **Office 365 software** - Install or deploy Office 365 ProPlus software and see how many licensed users have activated it.
+    - **Azure Active Directory** - Gives you quick access to common Azure AD tasks like self-serve password resets, customizing sign-in, and adding apps.
+- The **Export users** quick task has been added to command bar on the Active users page. ![Screen capture showing Export users on the command bar next to Refresh.](media\M365Preview_ExportUsersQT.png)
+- Purchase services has additional enhancements for November. And they are ALL good! To get there, go to Billing > Purchase services. <br>![Screen capture showing purchase services page with 3 new enhancements.](media\M365Preview_BillingPurchasServices.png)
+    >1. At the top of the page, you can pivot between Business and Education plans. That will help you find what you're looking for.
+    >2. We added a search box so you don't have to scroll endlessly to find what you're looking for. 
+    >3. Finally, we logically sorted the plans you can purchase into sections that you can expand and collapse. Don't need purchase any of the **Office apps and services**? Collapse that section and focus on Microsoft 365 plans.
+
 ## October 2018
 
 - There's a new way to buy subscriptions in the Microsoft 365 admin center. Go to **Purchase services** to see the completely redesigned shopping experience that makes it easy to search, compare plans, and other great new features that helps make purchasing a subscription easier. <br/>![Purchase services plan comparison in Microsoft 365 admin center preview](media/0ad5acf1-8ffc-44bf-aac2-c21269910e65.png)
