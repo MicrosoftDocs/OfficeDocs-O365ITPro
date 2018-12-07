@@ -1,1 +1,1 @@
-#[Grow your business](../admin/grow-your-small-business/grow-your-small-business)
+# [Grow your business](grow-your-small-business/grow-your-small-business.md)
