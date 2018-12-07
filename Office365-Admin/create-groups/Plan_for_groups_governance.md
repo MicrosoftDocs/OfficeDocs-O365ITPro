@@ -40,7 +40,7 @@ There are three main communication modalities supported by Office 365 Groups. Gr
 - [Microsoft Teams](https://support.office.com/en-us/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2?ui=en-US&rs=en-US&ad=US): a persistent chat-based workspace where you can have informal, real-time, conversations around a variety of topics, organized by specific sub-groups 
 - [Yammer](https://support.office.com/en-us/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2?ui=en-US&rs=en-US&ad=US): enterprise social experience for collaboration
 
-Note: Creating a new group via other teamwork applications - such as SharePoint, Planner or Stream - will create an Office 365 Group with an Outlook communication modality with the ability to connect to Microsoft Teams.  
+> [!Note] Creating a new group via other teamwork applications - such as SharePoint, Planner or Stream - will create an Office 365 Group with an Outlook communication modality with the ability to connect to Microsoft Teams.  
 
 Depending on where an Office 365 Group is created, certain resources are provisioned automatically, such as:
 - Inbox – For email conversations between your members. This inbox has an email address and can be set to accept messages from people outside the group and even outside your organiza-tion, much like a traditional distribution list.
@@ -54,9 +54,9 @@ Depending on where an Office 365 Group is created, certain resources are provisi
 
 To learn more about which resources are created for each group, visit [Learn about Office 365 Groups](https://support.office.com/en-us/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 
-Note: When a new Office 365 Group is created via Yammer or Teams, the the group isn't visible in Outlook or the address book because the primary communication between those users happens in their respective clients. 
+> [!Note] When a new Office 365 Group is created via Yammer or Teams, the the group isn't visible in Outlook or the address book because the primary communication between those users happens in their respective clients. 
 
-Note: When a new Yammer group is created, the Office 365 group does not create a group mailbox or calendar resource. Therefore, a Yammer group cannot be connected to Microsoft Teams. See [Yammer and Groups](#bookmark)
+> [!Important] When a new Yammer group is created, the Office 365 group does not create a group mailbox or calendar resource. Therefore, a Yammer group cannot be connected to Microsoft Teams. See [Yammer and Groups](#bookmark)
 
 ## Where to start a conversation
 There are multiple places to have a conversation within Office 365. Understanding where to start a conversation can help organizations define a strategy for communication.
@@ -111,7 +111,7 @@ Your organization might have specific requirements to implement strict controls 
 | Decision points | - Which provisioning model fits your organization requirements? <br />- Does your organization require limiting group creation to administrators?<br />- Does your organization require limiting group creation to security group members? <br />- Does your organization require some groups to be created dynamically based on user attributes e.g department? |
 | Next Steps      | - Document your organization’s requirements for group and team creation. <br />- Plan to implement these requirements as a part of your groups rollout. <br />- Communicate and publish your policies to inform users of the behavior they can expect.<br />- Plan to implement dynamic membership where applicable. |
 
-Note: Limiting group and team creation can slow users productivity because many Office 365 services require that groups be created for the service to function. To learn more, see [Why control who creates Office 365 Groups?](https://docs.microsoft.com/en-us/office365/admin/create-groups/manage-creation-of-groups?view=o365-worldwide%23why-control-who-creates-office-365-groups)
+> [!Important] Limiting group and team creation can slow users productivity because many Office 365 services require that groups be created for the service to function. To learn more, see [Why control who creates Office 365 Groups?](https://docs.microsoft.com/en-us/office365/admin/create-groups/manage-creation-of-groups?view=o365-worldwide%23why-control-who-creates-office-365-groups)
 
 #### *Resources*
 - [Manage who can create Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups?view=o365-worldwide)
@@ -167,7 +167,7 @@ Note: Limiting group and team creation can slow users productivity because many 
 
 ### Group guest access
 #### *Guidance*
-- Enable guest access! Block for specific groups if required.
+- Enable guest access at the tenant level. If needed, block for specific groups.
 - Govern using allow/block guest domains, guest inviter role, access reviews, terms of use.
 - Track guest user activity via audit logs.
 
@@ -177,12 +177,13 @@ Note: Limiting group and team creation can slow users productivity because many 
 | Next Steps      | - Document requirements for guest/external access for certain classified groups including the retention period and occurrence.<br />- Document organization’s requirements for which groups will require terms of use and access review. <br />- Perform reviews to efficiently manage group memberships for both internal and guest users. |
 
 #### *Resources*
+- [Manage guest access in Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups)
 - [Guest access in Office 365 groups](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
-- [Guest access in Office 365 groups – Admin Help](https://support.office.com/article/Guest-access-to-Office-365-groups-Admin-Help-7c713d74-a144-4eab-92e7-d50df526ff96?ui=en-US&rs=en-US&ad=US)
+- [Guest access in Office 365 groups – Admin Help](https://support.office.com/article/Guest-access-to-Office-365-groups-Admin-Help-7c713d74-a144-4eab-92e7-d50df526ff96)
 - [Azure AD access reviews](https://docs.microsoft.com/azure/active-directory/active-directory-azure-ad-controls-perform-access-review)
 - [Azure Active Directory Terms of Use feature](https://docs.microsoft.com/azure/active-directory/active-directory-tou)
 - [Google Federation  ](https://docs.microsoft.com/azure/active-directory/b2b/google-federation)
-- [Authorize guest access in Microsoft Teams](https://na01.safelinks.protection.outlook.com/?url=https%25253A%25252F%25252Fdocs.microsoft.com%25252Fen-us%25252Fmicrosoftteams%25252Fteams-dependencies&data=02%25257C01%25257C%25257C4e9b4fd0821b4648353c08d61a746dee%25257C72f988bf86f141af91ab2d7cd011db47%25257C1%25257C0%25257C636725484699802243&sdata=hH5%25252FFKdcvZBM5WpXne4QUDlRyEC56t9g2R%25252BcOMLsxbk%25253D&reserved=0)
+- [Authorize guest access in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/teams-dependencies)
 
 ### Group policies & information protection
 #### *Guidance*
