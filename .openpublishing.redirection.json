@@ -2,17 +2,17 @@
 
   "redirections": [
       {
-        "source_path": "https://docs.microsoft.com/office365/admin/grow-your-small-business/grow-your-small-business",
+        "source_path": "https://docs.microsoft.com/office365/admin/grow-your-small-business/grow-your-small-business.md",
         "redirect_url": "https://docs.microsoft.com/office365/smallbusiness/grow-your-small-business/grow-your-small-business.md",
                 "redirect_document_id": true
       },
       {
-        "source_path": "https://docs.microsoft.com/office365/admin/grow-your-small-business/tips-to-help-boost-your-business",
+        "source_path": "https://docs.microsoft.com/office365/admin/grow-your-small-business/tips-to-help-boost-your-business.md",
         "redirect_url": "https://docs.microsoft.com/office365/smallbusiness/grow-your-small-business/tips-to-help-boost-your-business.md",
         "redirect_document_id": true
       },
       {
-        "source_path": "https://docs.microsoft.com/office365/admin/grow-your-small-business/previous-webinar-videos",
+        "source_path": "https://docs.microsoft.com/office365/admin/grow-your-small-business/previous-webinar-videos.md",
         "redirect_url": "https://docs.microsoft.com/office365/smallbusiness/grow-your-small-business/previous-webinar-videos.md",
         "redirect_document_id": true
       }
