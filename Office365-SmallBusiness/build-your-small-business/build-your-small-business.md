@@ -1,5 +1,5 @@
 ---
-title: "Grow your small business with Office 365"
+title: "Build your small business with Office 365"
 ms.author: kwekua
 author: supotter
 manager: scotv

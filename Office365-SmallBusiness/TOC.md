@@ -1,1 +1,1 @@
-# [Grow your business](grow-your-small-business/grow-your-small-business.md)
+# [Build your business](build-your-small-business/build-your-small-business.md)
