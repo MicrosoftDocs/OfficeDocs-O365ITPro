@@ -258,7 +258,7 @@ Office 365 groups is built on the advanced security and compliance capabilities 
 - [Bulk create and publish retention labels by using PowerShell](https://docs.microsoft.com/en-us/office365/securitycompliance/bulk-create-publish-labels-using-powershell)
 
 ### Upgrade traditional collaboration tools 
-For years organizations have relied on distribution groups to communicate and collaborate with groups of people both inside and outside the company. Now, however, Office 365 Groups in Outlook offer a more powerful solution for collaboration. In addition being able to connect an Office 365 group to an existing SharePoint site is important if you want to modernize that site.
+For years organizations have relied on distribution groups to communicate and collaborate with groups of people both inside and outside the company. Now, however, Office 365 Groups in Outlook offer a more powerful solution for collaboration. In addition, being able to connect an Office 365 group to an existing SharePoint site is important if you want to modernize that site.
 
 >[!Tip]
 >- Easily upgrade all your eligible distribution lists in seconds via the Exchange Admin center, or using PowerShell cmdlets.
@@ -308,7 +308,7 @@ The Office 365 Reports dashboard shows you the activity overview across the Offi
 
 Office 365 Groups provides a rich set of governance capabilities your organization might require. Consider the following organization profiles as guidance to understand best practices, ask the right questions to determine the requirements for governance, and how to meet them.
 
-**Consider the following organization profiles**
+**Consider the following organization profiles:**
 - [Small Business](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#small-business)
 - [Medium-sized Business](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#medium-sized-business)
 - [Regulated or Enterprise](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#regulated-or-enterprise)

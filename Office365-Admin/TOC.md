@@ -120,6 +120,7 @@
 ### [Transfer data manually](get-help-with-domains/transfer-data-manually.md)
 ## [Groups](create-groups/create-groups.md)
 ### [Compare groups](create-groups/compare-groups.md)
+### [Plan for governance in Office 365 Groups](create-groups/plan_for_groups_governance.md)
 ### [Manage creation of Groups](create-groups/manage-creation-of-groups.md)
 ### [Choose domain to create Groups](create-groups/choose-domain-to-create-groups.md)
 ### [Groups naming policy](create-groups/groups-naming-policy.md)
