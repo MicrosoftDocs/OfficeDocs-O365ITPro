@@ -91,7 +91,7 @@ There are multiple places to have a conversation within Office 365. Understandin
 
 Office 365 Groups has a rich set of tools to implement any governance capabilities your organization might require. The following section describes the capabilities, recommends best practices, and provides guidance to ask the right questions to determine the requirements for governance, and how to meet them.
 
-In this section:
+**In this section**:
 - [Control who can create Office 365 Groups](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#control-who-can-create-office-365-groups)
 - [Group soft delete and restore](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#group-soft-delete-and-restore)
 - [Group naming policy](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#group-naming-policy)
