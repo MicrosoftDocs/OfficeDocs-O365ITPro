@@ -91,7 +91,7 @@ There are multiple places to have a conversation within Office 365. Understandin
 
 Office 365 Groups has a rich set of tools to implement any governance capabilities your organization might require. The following section describes the capabilities, recommends best practices, and provides guidance to ask the right questions to determine the requirements for governance, and how to meet them.
 
-In this section:
+**In this section**:
 - [Control who can create Office 365 Groups](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#control-who-can-create-office-365-groups)
 - [Group soft delete and restore](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#group-soft-delete-and-restore)
 - [Group naming policy](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#group-naming-policy)
@@ -202,7 +202,7 @@ Once you set a group to expire:
 |![image desc](../media/next_steps.png)|Next steps|<ul><li>Document your organization’s requirements for group expiration, data retention, and archiving.</li><li>Plan to implement these requirements as part of your groups rollout.</li><li>Plan to implement a custom job to report on groups that have single owners or are ownerless. </li></ul>|
 
 > [!Important] 
->TWhen you change the expiration policy, the service recalculates the expiration date for each group. It always starts counting from the date when the group was created, and then applies the new expiration policy. 
+>When you change the expiration policy, the service recalculates the expiration date for each group. It always starts counting from the date when the group was created, and then applies the new expiration policy. 
 
 #### *Resources*
 - [Office 365 Group Expiration Policy](https://support.office.com/article/Office-365-Group-Expiration-Policy-8d253fe5-0e09-4b3c-8b5e-f48def064733?ui=en-US&rs=en-US&ad=US)
@@ -258,7 +258,7 @@ Office 365 groups is built on the advanced security and compliance capabilities 
 - [Bulk create and publish retention labels by using PowerShell](https://docs.microsoft.com/en-us/office365/securitycompliance/bulk-create-publish-labels-using-powershell)
 
 ### Upgrade traditional collaboration tools 
-For years organizations have relied on distribution groups to communicate and collaborate with groups of people both inside and outside the company. Now, however, Office 365 Groups in Outlook offer a more powerful solution for collaboration. In addition being able to connect an Office 365 group to an existing SharePoint site is important if you want to modernize that site.
+For years organizations have relied on distribution groups to communicate and collaborate with groups of people both inside and outside the company. Now, however, Office 365 Groups in Outlook offer a more powerful solution for collaboration. In addition, being able to connect an Office 365 group to an existing SharePoint site is important if you want to modernize that site.
 
 >[!Tip]
 >- Easily upgrade all your eligible distribution lists in seconds via the Exchange Admin center, or using PowerShell cmdlets.
@@ -308,7 +308,7 @@ The Office 365 Reports dashboard shows you the activity overview across the Offi
 
 Office 365 Groups provides a rich set of governance capabilities your organization might require. Consider the following organization profiles as guidance to understand best practices, ask the right questions to determine the requirements for governance, and how to meet them.
 
-**Consider the following organization profiles**
+**Consider the following organization profiles:**
 - [Small Business](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#small-business)
 - [Medium-sized Business](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#medium-sized-business)
 - [Regulated or Enterprise](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#regulated-or-enterprise)
