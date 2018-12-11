@@ -140,7 +140,7 @@ Learn about resources available for Office 365 admins.
                     </div>
                     <div class="cardText">
                         <h3>For your small business</h3>
-                        <p><a href="/office365/smallbusiness/grow-your-small-business/grow-your-small-business" target="_blank">Build your small business with Office 365.</a></p>
+                        <p><a href="/office365/smallbusiness/build-your-small-business/build-your-small-business" target="_blank">Build your small business with Office 365.</a></p>
                     </div>
                 </div>
             </div>
