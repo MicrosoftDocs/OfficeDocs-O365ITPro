@@ -166,11 +166,11 @@ description: "Learn about features in Office 365 that help your boost your busin
                     <div class="card">
                         <div class="cardImageOuter">
                             <div class="cardImage">
-                                <img src="https://docs.microsoft.com/en-us/office/media/icons/get-started.svg" alt="Get started hand"/>
+                                <img src="https://docs.microsoft.com/en-us/office/media/icons/education-tutorial.svg" alt="Training resources represented by a graduation cap."/>
                             </div>
                         </div>
                         <div class="cardText">
-                            <h3>Get started with set up</h3>
+                            <h3>Training for everyone</h3>
                         </div>
                     </div>
                 </div>
