@@ -21,9 +21,9 @@ description: Learn how to enable and disable the chat history feature in Kaizala
 
 # Chat history in Kaizala
 
-Have you ever wanted your group members to view earlier sent messages, even when they become a member later? This might be true when you want to keep all your announcements, memos, and surveys visible to every member at any point of time.
+Have you ever felt that you wanted your group members to view messages that were sent before they joined? Kaizala now lets you do that.
 
-Kaizala lets you do that. The chat history feature in Kaizala enables admins to let older messages be visible to new group members whenever they join.
+Chat History feature in Kaizala enables Group Admins to let older messages be visible to new group members. New members can also like, comment or respond to previously sent Kaizala Actions such as announcements, polls, surveys, training, etc. that were shared before they joined the group.
 
 ## Enable group chat history
 
