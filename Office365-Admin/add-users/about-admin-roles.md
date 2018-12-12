@@ -84,7 +84,7 @@ Certain admin roles in Office 365 have a corresponding role in Exchange Online, 
 |:-----|:-----|:-----|:-----|:-----|
 |global admin  <br/> |Exchange Online admin  <br/> Company admin  <br/> |SharePoint Online admin  <br/> |Skype for Business admin  <br/> |Security &amp; Compliance Center admin (member of OrganizationManagement role group)  <br/> |
 |billing admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
-|password admin  <br/> |Help Desk admin\*  <br/> |N/A  <br/> |Help desk admin  <br/> |N/A  <br/> |
+|helpdesk/password admin  <br/> |Help Desk admin\*  <br/> |N/A  <br/> |Help desk admin  <br/> |N/A  <br/> |
 |service admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
 |user management admin  <br/> |N/A  <br/> |N/A  <br/> |Skype for Business admin  <br/> |N/A  <br/> |
 |Exchange administrator  <br/> |Exchange Online admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
@@ -92,7 +92,7 @@ Certain admin roles in Office 365 have a corresponding role in Exchange Online, 
 |Skype for Business administrator  <br/> |N/A  <br/> |N/A  <br/> |Skype for Business admin  <br/> |N/A  <br/> |
 |Compliance administrator  <br/> |Organization Management  <br/> |N/A  <br/> |N/A  <br/> |Compliance admin  <br/> |
    
-\*People with the password admin role can do the same tasks as people with the Exchange Help Desk role, however, they can't do message trace.
+\*People with the helpdesk/password admin role can do the same tasks as people with the Exchange Help Desk role, however, they can't do message trace.
   
 ## Delegated administration
 
@@ -102,7 +102,7 @@ A partner can assign these roles:
   
 - Full administration, which has privileges equivalent to a global admin.
     
-- Limited administration, which has privileges equivalent to a password admin.
+- Limited administration, which has privileges equivalent to a helpdesk/password admin.
     
 Before the partner can assign these roles to users, you must add the partner as a delegated admin to your Office 365 account. This process is initiated by an authorized partner. The partner sends you an email to ask you if you want to give them permission to act as a delegated admin. For instructions, see [Authorize or remove partner relationships](https://support.office.com/article/201ccb3b-6011-4bf1-a6b2-84e7cc1ee2d0.aspx).
   
