@@ -3,7 +3,7 @@ title: "AAD credentials will be required for Yammer Enterprise log in"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 9/4/2018
+ms.date: 12/13/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -78,4 +78,4 @@ A: No, this change will not impact guest users.
 
 **Q. Do I have to buy an Office 365 license for each user that currently doesn't have an AAD account?**
 
-A. No. If you enable self-service signup before January 19, 2019, the AAD account is created for the user when they change their password. If you wait until after January 19, you'll have to create the AAD account yourself. No Office 365 license is required. 
+A. No. If you enable self-service signup before January 31, 2019, the AAD account is created for the user when they change their password. If you wait until after January 31, you'll have to create the AAD account yourself. No Office 365 license is required. 
