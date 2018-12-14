@@ -28,8 +28,8 @@ To include a Yammer feed in a SharePoint page, your organization should have an 
 
 - For SharePoint Servers 2013 and 2016 and for classic pages in SharePoint Server 2019, you can use Yammer Embed within a script editor web part to add a group feed, user feed, topic feed, Yammer home feed, or an open graph object feed that adds a discussion about an object such as web page. 
   
-   > [!NOTE]
-    > When you add a Yammer My Feed/Home feed to a SharePoint page, you'll see slightly different messages than the ones included in the home feed available in Yammer web, desktop, or mobile. On the SharePoint page, users will see messages from all threads in groups they are a member of and all threads in the All Company group. In Yammer web, desktop, and mobile, users can select **Discovery**, **All**, or **Following** feeds, but these aren't available in SharePoint pages. The My Feed/Home feed type is closest to the All feed, but doesn't include public posts in public groups the user doesn't belong to.
+> [!NOTE]
+> When you add a Yammer My Feed/Home feed to a SharePoint page, you'll see slightly different messages than the ones included in the home feed available in Yammer web, desktop, or mobile. On the SharePoint page, users will see messages from all threads in groups they are a member of and all threads in the All Company group. In Yammer web, desktop, and mobile, users can select **Discovery**, **All**, or **Following** feeds, but these aren't available in SharePoint pages. The My Feed/Home feed type is closest to the All feed, but doesn't include public posts in public groups the user doesn't belong to.
 
 Yammer does not have to be the social collaboration tool for SharePoint in order to embed a Yammer feed, but if you want to make Yammer the primary social experience for SharePoint, see [Integrate Yammer with on-premises SharePoint environments](https://go.microsoft.com/fwlink/?LinkID=524180).
 
@@ -38,7 +38,8 @@ For instructions for how to use the Yammer Conversations or Yammer Highlights we
 
 These web parts inherit the page theme, and are usable from mobile devices. 
 
->[!NOTE] The SharePoint Conversations web part is currently in Targeted Release, and may not yet be available for your organization.
+>[!NOTE] 
+> The SharePoint Conversations web part is currently in Targeted Release, and may not yet be available for your organization.
 
 ## Add a Yammer feed to a modern page in SharePoint Server 2019
 
