@@ -16,10 +16,10 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 
-description: Learn how to enable and disable the chat history feature in Kaizala.
+description: Learn how to enable and disable Microsoft Teams interop in Kaizala.
 ---
 
 # Teams interop with Kaizala
 
 > [!NOTE]
-> The article is currently in development and will be available soon.
+> This article is currently in development and will be available soon.
