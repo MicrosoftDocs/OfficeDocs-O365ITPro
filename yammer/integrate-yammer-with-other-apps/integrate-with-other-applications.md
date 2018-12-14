@@ -3,7 +3,7 @@ title: "Integrate Yammer with other applications"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 3/23/2018
+ms.date: 12/13/2018
 ms.audience: Admin
 ms.topic: reference
 ms.prod: office-online-server
@@ -27,7 +27,7 @@ Yammer offers a variety of integrations to help make other applications more mob
   
 ## Yammer for SharePoint
 
-Add Yammer feeds to your SharePoint sites with Yammer Embed. See [Embed a Yammer feed into a SharePoint site](embed-a-feed-into-a-sharepoint-site.md).
+Add Yammer feeds to your SharePoint pages. For instructions, see [Include a Yammer feed in a SharePoint page](embed-a-feed-into-a-sharepoint-site.md).
   
 ## Yammer Embed
 
