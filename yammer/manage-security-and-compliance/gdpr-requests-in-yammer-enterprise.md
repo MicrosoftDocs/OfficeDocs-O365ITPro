@@ -3,7 +3,7 @@ title: "Manage GDPR data subject requests in Yammer Enterprise"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 10/11/2018
+ms.date: 12/13/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -229,7 +229,8 @@ As an admin, you can remove a user from your home network and from any external 
       2. When that completes, select **Erase this user**. This removes the user's name and activity data.
     
  **Remove a user from an external network (done by user)**
-  
+ 
+After a user removes themself from an external network, they will no longer be able to view the external network. However, their identity will still be there, so this option should not be used for a GDPR deletion.
 > [!NOTE]
 > If the user wants to remove files or messages they posted on an external network, they should do so before they delete their account on the external network. 
   
@@ -237,7 +238,7 @@ As an admin, you can remove a user from your home network and from any external 
     
 2. Click **Edit Settings**.
     
-3. On the **Network** tab, click **Delete Account**.
+3. On the **Networks** tab, in the line for the external network, click **Leave Network**.
  
 <a name="Reactivate"> </a>
 ## Reactivate a deactivated account after using Erase this user
