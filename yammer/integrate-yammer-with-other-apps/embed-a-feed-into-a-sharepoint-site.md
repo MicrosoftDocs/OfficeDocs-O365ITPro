@@ -38,7 +38,8 @@ For instructions for how to use the Yammer Conversations or Yammer Highlights we
 
 These web parts inherit the page theme, and are usable from mobile devices. 
 
->[!NOTE] The SharePoint Conversations web part is currently in [Targeted Release](https://docs.microsoft.com/en-us/office365/admin/manage/release-options-in-office-365?view=o365-worldwide), and may not yet be available for your organization.
+>[!NOTE] 
+> The SharePoint Conversations web part is currently in [Targeted Release](https://docs.microsoft.com/en-us/office365/admin/manage/release-options-in-office-365?view=o365-worldwide), and may not yet be available for your organization.
 
 ## Add a Yammer feed to a modern page in SharePoint Server 2019
 
