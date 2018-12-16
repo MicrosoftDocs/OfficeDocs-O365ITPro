@@ -3,7 +3,7 @@ title: "Include a Yammer feed in a SharePoint page"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 12/13/2018
+ms.date: 12/15/2018
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -39,7 +39,7 @@ For instructions for how to use the Yammer Conversations or Yammer Highlights we
 These web parts inherit the page theme, and are usable from mobile devices. 
 
 >[!NOTE] 
-> The SharePoint Conversations web part is currently in Targeted Release, and may not yet be available for your organization.
+> The SharePoint Conversations web part is currently in [Targeted Release](https://docs.microsoft.com/en-us/office365/admin/manage/release-options-in-office-365?view=o365-worldwide), and may not yet be available for your organization.
 
 ## Add a Yammer feed to a modern page in SharePoint Server 2019
 
@@ -133,8 +133,8 @@ The following procedures describe how to add a group feed, my feed, or page feed
   
   ```
 
-      > [!NOTE]
-      > You can also change the height and width parameters to the height and width you prefer. 
+ > [!NOTE]
+ > You can also change the height and width parameters to the height and width you prefer. 
 
     This example shows an open graph feed for a web page, but you can create feeds for other open-graph objects. The list of valid object types is at [Schema \> Supported Object Types](https://go.microsoft.com/fwlink/?LinkId=525586). If you are interested in using the Yammer Embed widget to add Yammer feeds to your SharePoint pages, see [Add the Yammer Embed widget to a SharePoint page](https://go.microsoft.com/fwlink/?LinkId=525587).
     
