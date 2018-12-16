@@ -83,7 +83,7 @@ If needed, change the settings to **Hard Delete**.
 |**LikedMessages.csv** <br/> | For any message liked by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement. <br/> |
 |**Messages.csv** <br/> | For any message sent or modified by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement. <br><br/> For information about how to go directly to a specific message in Yammer, see [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles).  <br/> |
 |**Topics.csv** <br/> |For any topic created by the user during the specified date range, lists the creation information and a link to the topic.  <br/> |
-|**Files folder**.  <br/> | This folder contains files that are stored in Yammer and have been created or modified by the user during the specified time period. It does not contain Yammer files for connected groups that are stored in SharePoint.<br><br>Files are in their native format and are named with their Yammer ID. For example, a PowerPoint presentation might be listed as 127815379.pptx.  <br><br/> For information about how to delete a specific file, see [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles).  <br/> |
+|**Files folder**.  <br/> | This folder contains files that are stored in Yammer and have been created or modified by the user during the specified time period. It does not contain Yammer files that are stored in SharePoint.<br><br>Files are in their native format and are named with their Yammer ID. For example, a PowerPoint presentation might be listed as 127815379.pptx.  <br><br/> For information about how to delete a specific file, see [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles).  <br/> |
    
 4. When the user's account activity data is ready, you'll receive a Yammer inbox message with a link to the data. Click the link to open it.
     
@@ -98,7 +98,10 @@ Exported data does not contain bookmarked messages, group membership, followed o
 <a name="DeleteMessagesFiles"> </a> 
 ## Delete specific messages or files 
 
-Use the Yammer file ID from the export to go directly to the file in Yammer and delete it.
+Use the Yammer file ID from the export to go directly to the file in Yammer and delete it. 
+
+> [!IMPORTANT]
+> For Yammer files stored in SharePoint, delete the files from Yammer in order to remove the Yammer metadata as well as the file.
   
 **To locate and delete a specific message:**
     
@@ -111,9 +114,6 @@ Use the Yammer file ID from the export to go directly to the file in Yammer and 
   - Use the **Search** box in Yammer. For example, for a file named 12345678.pptx in the export, search for 1235678.pptx. In the search results, click **Go to File**, and then click **Delete this File**.
  
   - You can also build the URL for the file. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**files**/*file_number*, for example https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/files/12345678. On the Yammer page for the file, click **Delete this File**. 
-
-> [!IMPORTANT]
-> Don't delete a file directly from SharePoint, as the Yammer metadata will not be deleted.
 
 <a name="OtherData"> </a>
 ## Find and delete user data not included in the per-user export

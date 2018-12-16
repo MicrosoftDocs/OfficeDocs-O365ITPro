@@ -3,7 +3,7 @@ title: "Export data from Yammer Enterprise"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 5/25/2018
+ms.date: 12/16/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -86,7 +86,7 @@ As a verified admin, you can export Yammer Enterprise data to monitor usage and 
 |**log.txt** <br/> |Summary of the export.  <br/> |
 |**request.txt** <br/> |The parameters of the export.  <br/> |
 |**Admins.csv** <br/> | Lists the name, email, and type of all Yammer admins for each selected network.  <br/> |
-|**Files.csv** <br/> |For any file added or modified by from Yammer during this date range, lists the Yammer ID, type of file, name, description, and path to the file, along with metadata including the group it was posted in. The storage_path column shows whether the file is stored in Yammer or SharePoint. The download_url gives a path to download the file. If the file is stored in Yammer, the path column shows the location of the file in Yammer. <br><br/> Files.csv does not contain the actual files.<br><br>Files that are stored in Yammer are exported in their native format to the **Files** folder of the zip file. Files that are stored in SharePoint are not exported. <br><br>The file_ID column in Files.csv can be used to identify the files in the **Files** folder or to go directly to the file in Yammer.  For information about how to go directly to a specific file, see [Delete specific messages or files](export-yammer-enterprise-data.md#DeleteMessagesFiles).  <br><br> For files that are stored in SharePoint, use the download_url column to download the file. Or, you can use [Content Search in Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search) to find files stored in SharePoint and created or modified by a specific user. <br><br>To delete a file, whether it is saved in Yammer or SharePoint, always delete it from  Yammer. This erases the metadata in Yammer as well as the metadata and file in SharePoint. If you delete the file from SharePoint directly, the Yammer metadata still remains.  <br/> |
+|**Files.csv** <br/> |For any file added or modified by from Yammer during this date range, lists the Yammer ID, type of file, name, description, and path to the file, along with metadata including the group it was posted in. The storage_path column shows whether the file is stored in Yammer or SharePoint. The download_url gives a path to download the file. If the file is stored in Yammer, the path column shows the location of the file in Yammer. <br><br/> Files.csv does not contain the actual files.<br><br>Files that are stored in Yammer are exported in their native format to the **Files** folder of the zip file. Files that are stored in SharePoint are not exported. <br><br>The file_ID column in Files.csv can be used to identify the files in the **Files** folder or to go directly to the file in Yammer.  For information about how to go directly to a specific file, see [Delete specific messages or files](export-yammer-enterprise-data.md#DeleteMessagesFiles).  <br><br> For files that are stored in SharePoint, use the download_url column to download the file. Or, you can use [Content Search in Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search) to find files stored in SharePoint during the specified date range. <br><br>To delete a file, whether it is saved in Yammer or SharePoint, always delete it from  Yammer. This erases the metadata in Yammer as well as the metadata and file in SharePoint. If you delete the file from SharePoint directly, the Yammer metadata still remains.  <br/> |
 |**Groups.csv** <br/> | For any group created or modified during the specified date range, lists the Yammer ID, name, description, privacy status, whether the group is internal or external, link to the group, who created the group, creation date, and updated date.  <br/> |
 |**Messages.csv** <br/> |For any message sent or modified during the specified date range, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, attachments, and creation and deletion information.<br><br/>For information about how to go directly to a specific message in Yammer, see [Find and delete specific messages or files](export-yammer-enterprise-data.md#DeleteMessagesFiles).  <br/> |
 |**MessageThreadsOutbound.csv** <br/> |Includes IDs of external participants in outbound messages.  <br/> |
@@ -95,7 +95,7 @@ As a verified admin, you can export Yammer Enterprise data to monitor usage and 
 |**Pages.csv** <br/> | For any page created or modified during the specified date range, lists the IDs, dates, and owners of the page.  <br/> |
 |**Topics.csv** <br/> | For any topic created during the specified date range, lists the creation information and a link to the topic.  <br/> |
 |**Users.csv** <br/> | For any user who joined, or was deleted or suspended during the specified date range, lists email, job-title, location, department, a link to the user, and information about the users current state.<br><br/>A user is who is in the soft_delete state means the user is either <br><br/> - pending, if there are no joined_at, suspended_at, or deleted_at values)<br><br/>- suspended (deactivated), if there is a suspended_at value, but no deleted_at value <br><br/>- deleted, if there is a deleted_at value<br><br/>Guest users can be identified in the user export by reviewing the email address field. If the email address doesn't match the domain of the home network, the user is aguest.<br><br/>The api_url is the URL used to obtain user metadata. For more information about using the data in this field, see the [Yammer developer documentation](https://go.microsoft.com/fwlink/?linkid=874691).  <br/> |
-|**Files folder:** <br/> | This folder contains files that are stored in Yammer and have been created or modified during the specified time period. It does not contain Yammer files for connected groups that are stored in SharePoint.<br><br>Files are in their native format and are named with their Yammer ID. For example, a PowerPoint presentation might be listed as 127815379.pptx. Yammer files stored in SharePoint are not included. <br/> |
+|**Files folder:** <br/> | This folder contains files that are stored in Yammer and have been created or modified during the specified time period. It does not contain Yammer files stored in SharePoint.<br><br>Files are in their native format and are named with their Yammer ID. For example, a PowerPoint presentation might be listed as 127815379.pptx.  <br/> |
    
 The following types of data are not included in this export:
   
@@ -133,7 +133,7 @@ To find this data for an individual user, click the Yammer settings icon ![Yamme
 |**LikedMessages.csv** <br/> | For any message liked by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement. <br/> |
 |**Messages.csv** <br/> | For any message sent or modified by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement. <br/> |
 |**Topics.csv** <br/> |For any topic created by the user during the specified date range, lists the creation information and a link to the topic.  <br/> |
-|**Files folder**.  <br/> | This folder contains files that are stored in Yammer and have been created or modified by the user during the specified time period. It does not contain Yammer files for connected groups that are stored in SharePoint.<br><br>Files are in their native format and are named with their Yammer ID. For example, a PowerPoint presentation might be listed as 127815379.pptx. Yammer files stored in SharePoint are not included.<br/> |
+|**Files folder**.  <br/> | This folder contains files that are stored in Yammer and have been created or modified by the user during the specified time period. It does not contain Yammer files that are stored in SharePoint.<br><br>Files are in their native format and are named with their Yammer ID. For example, a PowerPoint presentation might be listed as 127815379.pptx. <br/> |
    
 4. When the user's account activity data is ready, you'll receive a Yammer inbox message with a link to the data. Click the link to open it.
     
@@ -148,14 +148,17 @@ Exported data does not contain bookmarked messages, group membership, followed o
 <a name="DeleteMessagesFiles"> </a>
 ## Find and delete specific messages or files
 
-If you have the ID for a message or file, you can go directly to it in Yammer, and delete it if needed.
+Use the Yammer file ID from the export to go directly to the file in Yammer and delete it. 
+
+> [!IMPORTANT]
+> For Yammer files stored in SharePoint, delete the files from Yammer in order to remove the Yammer metadata as well as the file.
   
-To find and delete a specific message in Yammer: 
+To find and delete a specific message: 
 1. Build the URL for the message. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**Threads**/**show?threadId=** *thread_id*. For example, https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/Threads/show?threadId=1040647232.
 
 2. In the message, click the **More** icon ![More icon (...)](../media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **Delete**.
     
-To find and delete a specific file in Yammer:
+To find and delete a specific file:
 
 - Use the **Search** box in Yammer. For example, for a file named 12345678.pptx in the export, search for 1235678.pptx. In the search results, click **Go to File** file, and then click **Delete this File**.
 
