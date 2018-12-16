@@ -112,7 +112,7 @@ Use the Yammer file ID from the export to go directly to the file in Yammer and 
  
   - You can also build the URL for the file. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**files**/*file_number*, for example https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/files/12345678. On the Yammer page for the file, click **Delete this File**. 
 
->[!IMPORTANT]
+> [!IMPORTANT]
 > Don't delete a file directly from SharePoint, as the Yammer metadata will not be deleted.
 
 <a name="OtherData"> </a>
