@@ -3,7 +3,7 @@ title: "Include a Yammer feed in a SharePoint page"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 12/13/2018
+ms.date: 12/15/2018
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -28,8 +28,8 @@ To include a Yammer feed in a SharePoint page, your organization should have an 
 
 - For SharePoint Servers 2013 and 2016 and for classic pages in SharePoint Server 2019, you can use Yammer Embed within a script editor web part to add a group feed, user feed, topic feed, Yammer home feed, or an open graph object feed that adds a discussion about an object such as web page. 
   
-   > [!NOTE]
-    > When you add a Yammer My Feed/Home feed to a SharePoint page, you'll see slightly different messages than the ones included in the home feed available in Yammer web, desktop, or mobile. On the SharePoint page, users will see messages from all threads in groups they are a member of and all threads in the All Company group. In Yammer web, desktop, and mobile, users can select **Discovery**, **All**, or **Following** feeds, but these aren't available in SharePoint pages. The My Feed/Home feed type is closest to the All feed, but doesn't include public posts in public groups the user doesn't belong to.
+> [!NOTE]
+> When you add a Yammer My Feed/Home feed to a SharePoint page, you'll see slightly different messages than the ones included in the home feed available in Yammer web, desktop, or mobile. On the SharePoint page, users will see messages from all threads in groups they are a member of and all threads in the All Company group. In Yammer web, desktop, and mobile, users can select **Discovery**, **All**, or **Following** feeds, but these aren't available in SharePoint pages. The My Feed/Home feed type is closest to the All feed, but doesn't include public posts in public groups the user doesn't belong to.
 
 Yammer does not have to be the social collaboration tool for SharePoint in order to embed a Yammer feed, but if you want to make Yammer the primary social experience for SharePoint, see [Integrate Yammer with on-premises SharePoint environments](https://go.microsoft.com/fwlink/?LinkID=524180).
 
@@ -132,8 +132,8 @@ The following procedures describe how to add a group feed, my feed, or page feed
   
   ```
 
-      > [!NOTE]
-      > You can also change the height and width parameters to the height and width you prefer. 
+ > [!NOTE]
+ > You can also change the height and width parameters to the height and width you prefer. 
 
     This example shows an open graph feed for a web page, but you can create feeds for other open-graph objects. The list of valid object types is at [Schema \> Supported Object Types](https://go.microsoft.com/fwlink/?LinkId=525586). If you are interested in using the Yammer Embed widget to add Yammer feeds to your SharePoint pages, see [Add the Yammer Embed widget to a SharePoint page](https://go.microsoft.com/fwlink/?LinkId=525587).
     
