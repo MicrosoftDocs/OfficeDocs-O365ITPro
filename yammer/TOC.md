@@ -51,7 +51,7 @@
 ### [Live events in Yammer](manage-yammer-groups/yammer-live-events.md)
 ## [Integrate Yammer with other apps](integrate-yammer-with-other-apps/integrate-with-other-applications.md)
 ### [Integrate with other applications](integrate-yammer-with-other-apps/integrate-with-other-applications.md)
-### [Embed a feed into a SharePoint site](integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site.md)
+### [Add a Yammer feed in a SharePoint page](integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site.md)
 ### [Yammer and Newsfeed](integrate-yammer-with-other-apps/yammer-and-newsfeed.md)
 ## [Troubleshoot problems](troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices.md)
 ### [Help users log in to Yammer on Android devices](troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices.md)
