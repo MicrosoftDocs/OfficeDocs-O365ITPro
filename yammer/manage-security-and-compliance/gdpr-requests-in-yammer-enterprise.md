@@ -96,23 +96,24 @@ Exported data does not contain bookmarked messages, group membership, followed o
 - If the log.txt file shows export errors for one category of data, try again. If there are still errors, [contact Support](https://support.office.com/en-us/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
 
 <a name="DeleteMessagesFiles"> </a> 
-## Delete specific messages or Yammer files stored in Yammer or SharePoint
+## Delete specific messages or files 
 
 Use the Yammer file ID from the export to go directly to the file in Yammer and delete it.
   
-**To locate and delete a specific message stored in Yammer:**
+**To locate and delete a specific message:**
     
 1. Build the URL for the message. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**Threads**/**show?threadId=** *thread_id*. For example, http&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/threads/show?threadID=135893.
   
 2. In the message, click the **More** icon ![More icon (...)](../media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **Delete**.
     
-**To locate and delete a specific file stored in Yammer or SharePoint:**
+**To locate and delete a specific Yammer file stored in Yammer or SharePoint:**
     
   - Use the **Search** box in Yammer. For example, for a file named 12345678.pptx in the export, search for 1235678.pptx. In the search results, click **Go to File**, and then click **Delete this File**.
  
   - You can also build the URL for the file. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**files**/*file_number*, for example https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/files/12345678. On the Yammer page for the file, click **Delete this File**. 
 
->[!IMPORTANT] Don't delete a file directly from SharePoint, as the Yammer metadata will not be deleted.
+>[!IMPORTANT]
+> Don't delete a file directly from SharePoint, as the Yammer metadata will not be deleted.
 
 <a name="OtherData"> </a>
 ## Find and delete user data not included in the per-user export
@@ -164,9 +165,6 @@ A user can edit their own profile. Administrators can't change the user profile 
 <a name="RemoveThread"> </a>
 
 - In the Yammer conversation, click **Remove Participants**. 
-    
-
- 
     
 <a name="RemoveUser"> </a>    
 ## Erase a user from your Yammer home network and external networks
