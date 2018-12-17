@@ -25,7 +25,6 @@ search.appverid:
 - BEA160
 - GEA150
 ms.assetid: 8652f539-3123-4a8f-b9bd-6aa2f0e0372d
-ROBOTS: NOINDEX
 description: "Learn how to change the payment method or payment frequency for your Office 365 for business subscription."
 ---
 

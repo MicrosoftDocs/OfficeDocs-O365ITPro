@@ -340,7 +340,7 @@ To take a tour of Office 365 and learn how to use all the Office mobile apps, se
 
 - **First, verify that you qualify for an education subscription** Follow the steps to [Verify your Office 365 domain to prove ownership, nonprofit or education status, or to activate Yammer](https://support.office.com/article/87d1844e-aa47-4dc0-a61b-1b773fd4e590), so Office 365 can give you the go-ahead for using an education plan. Then you can get Office 365 set up for your school by following the guidance in this article.
     
-- **Get help?** If you want help with a more advanced deployment, **[FastTrack](https://fasttrack.office.com/onboard)** is a great place to start. You can also [find a partner](https://go.microsoft.com/fwlink/p/?linkid=391089) to help you. 
+- **Get help?** If you want help with a more advanced deployment, **[FastTrack](https://www.microsoft.com/en-us/fasttrack/microsoft-365/office-365)** is a great place to start. You can also [find a partner](https://go.microsoft.com/fwlink/p/?linkid=391089) to help you. 
     
 - **Plan** These tools and resources will help you get your network, directory, and users ready for Office 365: [Get your organization ready for Office 365 Enterprise](https://support.office.com/article/712fced7-f9d0-4fde-8b79-286262a5d0bc).
     

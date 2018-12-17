@@ -1,5 +1,5 @@
 ---
-title: "Change nameservers to set up Office 365 with 1&amp;1 Internet"
+title: "Change nameservers to set up Office 365 with 1&1 IONOS"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -30,11 +30,11 @@ ms.assetid: 31efc571-c8b9-46fb-b42d-203c2fb25289
 description: "Learn how you can set up Office 365 operated by 21Vianet to manage your DNS records, when 1&1 Internet is the DNS hosting provider."
 ---
 
-# Change nameservers to set up Office 365 with 1&amp;1 Internet
+# Change nameservers to set up Office 365 with 1&1 IONOS
 
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
   
-Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at 1&amp;1 Internet](create-dns-records-at-1-1-internet.md).) 
+Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at 1&1 IONOS](create-dns-records-at-1-1-internet.md).) 
   
 Here's what you need to do. Follow the steps below or [watch the video](https://support.office.com/en-us/article/Video-Change-nameservers-to-set-up-Office-365-with-1-1-Internet-0ef1b3b5-d27a-4004-8ca1-fbe0453a0ea3?ui=en-US&amp;rs=en-US&amp;ad=US). 
   
@@ -50,7 +50,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 Follow the steps below or [watch the video (start at 0:42)](https://support.office.com/en-us/article/Video-Change-nameservers-to-set-up-Office-365-with-1-1-Internet-0ef1b3b5-d27a-4004-8ca1-fbe0453a0ea3?ui=en-US&amp;rs=en-US&amp;ad=US).
   
-1. To get started, go to your domains page at 1&amp;1 Internet by using [this link](https://account.1and1.com/?redirect_url=https%3A%2F%2Fmy.1and1.com%2F). You'll be prompted to log in. 
+1. To get started, go to your domains page at 1&1 IONOS by using [this link](https://account.1and1.com/?redirect_url=https%3A%2F%2Fmy.1and1.com%2F). You'll be prompted to log in. 
     
 2. Under **MY DOMAINS**, select **Manage domains**.
     
@@ -103,7 +103,7 @@ Ready to change your NS records so Office 365 can set up your domain? Follow the
 > [!IMPORTANT]
 >  The following procedure will show you how to delete any other, unwanted nameservers from the list, and also how to add the correct nameservers if they are not already listed. >  When you have completed the steps in this section, the only nameservers that should be listed are these four: >  ns1.bdm.microsoftonline.com >  ns2.bdm.microsoftonline.com >  ns3.bdm.microsoftonline.com >  ns4.bdm.microsoftonline.com 
   
-1. To get started, go to your domains page at 1&amp;1 Internet by using [this link](https://account.1and1.com/?redirect_url=https%3A%2F%2Fmy.1and1.com%2F). You'll be prompted to log in. 
+1. To get started, go to your domains page at 1&1 IONOS by using [this link](https://account.1and1.com/?redirect_url=https%3A%2F%2Fmy.1and1.com%2F). You'll be prompted to log in. 
     
 2. Under **MY DOMAINS**, select **Manage domains**.
     

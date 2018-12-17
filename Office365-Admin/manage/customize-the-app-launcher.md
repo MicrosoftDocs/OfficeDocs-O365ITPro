@@ -51,7 +51,7 @@ You can add your own custom tiles to the app launcher that point to SharePoint s
   
 7. Enter a **Description** for the tile. You see this when you select the tile on the My apps page and choose App details. 
     
-8. Enter an **Image URL** for the tile. The image appears on the My apps page and app launcher.<br/>TIP: The image should be 60x60 pixels and be available to everyone in your organization. 
+8. Enter an **Image URL** for the tile. The image appears on the My apps page and app launcher.<br/>TIP: The image should be 60x60 pixels and be available to everyone in your organization without requiring authentication.
   
 9. Choose **Save** to create the custom tile. 
     

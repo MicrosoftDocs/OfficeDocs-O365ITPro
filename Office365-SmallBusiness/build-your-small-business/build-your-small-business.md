@@ -1,7 +1,7 @@
 ---
-title: "Grow your small business with Office 365"
+title: "Build your small business with Office 365"
 ms.author: kwekua
-author: kwekua
+author: supotter
 manager: scotv
 ms.audience: Admin
 ms.topic: landing-page
@@ -15,10 +15,9 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: e540a435-e3c5-4c7c-a116-2eb638827a7f
-ROBOTS: NOINDEX
 description: "Learn about features in Office 365 that help your boost your business, read about industry content, and find out what's trending."
 ---
-# Grow your small business with Office 365
+# Build your small business with Office 365
 
 
 <ul class="panelContent cardsW">
@@ -80,7 +79,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/admin/grow-your-small-business/tips-to-help-boost-your-business" target="_blank">
+        <a href="/office365/smallbusiness/grow-your-small-business/tips-to-help-boost-your-business" target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -90,7 +89,7 @@ description: "Learn about features in Office 365 that help your boost your busin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Boost your business</h3>
+                        <h3>Tips and ways to boost your business</h3>
                         <p>Read for articles and insights on growing your business.</p>
                     </div>
                 </div>
@@ -99,7 +98,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="https://support.office.com/en-us/article/using-outlook-and-teams-together-9bc459c4-ce13-479b-b88b-b8ae49092732">
+        <a href="https://support.office.com/en-us/article/using-outlook-and-teams-together-9bc459c4-ce13-479b-b88b-b8ae49092732 "target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -161,17 +160,17 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816">
+        <a href="https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816" target="_blank">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
                         <div class="cardImageOuter">
                             <div class="cardImage">
-                                <img src="https://docs.microsoft.com/en-us/office/media/icons/get-started.svg" alt="Get started hand"/>
+                                <img src="https://docs.microsoft.com/en-us/office/media/icons/education-tutorial.svg" alt="Training resources represented by a graduation cap."/>
                             </div>
                         </div>
                         <div class="cardText">
-                            <h3>Get started with set up</h3>
+                            <h3>Training for everyone</h3>
                         </div>
                     </div>
                 </div>
@@ -179,7 +178,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/admin/contact-support-for-business-products">
+        <a href="/office365/admin/contact-support-for-business-products?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json" target="_blank">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -257,7 +256,7 @@ description: "Learn about features in Office 365 that help your boost your busin
 
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="/office365/admin/add-users/add-new-employee" target="_blank">
+        <a href="/office365/admin/add-users/add-new-employee?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json" target="_blank">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -275,7 +274,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/admin/add-users/remove-former-employee" target="_blank">
+        <a href="/office365/admin/add-users/remove-former-employee?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json" target="_blank">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -293,7 +292,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/admin/security-and-compliance/secure-your-business-data" target="_blank">
+        <a href="/office365/admin/security-and-compliance/secure-your-business-data?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json" target="_blank">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">
@@ -329,7 +328,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/admin/grow-your-small-business/previous-webinar-videos">
+        <a href="/office365/smallbusiness/grow-your-small-business/previous-webinar-videos" target="_blank">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">

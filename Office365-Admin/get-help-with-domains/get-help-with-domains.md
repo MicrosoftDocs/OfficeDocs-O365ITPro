@@ -185,7 +185,7 @@ Use these resources to get started using your own domain for email, websites, an
                     <div class="cardText">
                         <h3>Create DNS records for Office 365</h3>
                             <p><a href="../dns/create-dns-records-at-godaddy.md">Create DNS records at GoDaddy</a></p>
-                            <p><a href="../dns/create-dns-records-at-1-1-internet.md">Create DNS records at 1&amp;1 Internet</a></p>
+                            <p><a href="../dns/create-dns-records-at-1-1-internet.md">Create DNS records at 1&1 IONOS</a></p>
                             <p><a href="../dns/create-dns-records-at-network-solutions.md">Create DNS records at Network Solutions</a></p>
                             <p><b>Help for many more popular providers:</b></p> 
                             <P><a href="create-dns-records-at-any-dns-hosting-provider.md">Create DNS records for Office 365 when you manage your DNS records</a></p>
@@ -200,7 +200,7 @@ Use these resources to get started using your own domain for email, websites, an
                 <div class="card">
                     <div class="cardText">
                         <h3>Change nameservers to Office 365</h3>
-                            <p><a href="../dns/change-nameservers-at-1-1-internet.md">Change nameservers to set up Office 365 with 1&amp;1 Internet</a></p>
+                            <p><a href="../dns/change-nameservers-at-1-1-internet.md">Change nameservers to set up Office 365 with 1&1 IONOS</a></p>
                             <p><a href="../dns/change-nameservers-at-network-solutions.md">Change nameservers to set up Office 365 with Network Solutions</a></p>
                             <p><a href="domain-connect.md">Quickly add a GoDaddy domain to Office 365</a></p>
                             <p><b>Help for many more popular domain registrars:</b></P> 
