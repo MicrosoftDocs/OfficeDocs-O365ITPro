@@ -1,4 +1,4 @@
-****---
+---
 title: "Assign licenses to users in Office 365 for business"
 ms.author: cmcatee
 author: cmcatee-MSFT
