@@ -1,5 +1,5 @@
 ---
-title: Wlecome to Kaizala
+title: Welcome to Kaizala
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
