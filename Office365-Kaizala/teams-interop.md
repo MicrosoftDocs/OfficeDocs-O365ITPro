@@ -24,9 +24,9 @@ Kaizala is designed to connect an organization’s external network (such as ven
 
 The first step is to enable interoperability (interop) between two Kaizala users within the same organization for individual messages.
 
-Based on feedback from partners and customers, we will increase the scope of interop and include rich message types for groups (such as attachments). We will update our documentation here.
+Based on feedback from partners and customers, we will increase the scope of interop and include rich message types for groups (such as attachments). We will update this article with the latest changes.
 
-## How Microsoft Teams interop works
+## How interop works with Microsoft Teams 
 
 ### Conditions for interop to work 
 
