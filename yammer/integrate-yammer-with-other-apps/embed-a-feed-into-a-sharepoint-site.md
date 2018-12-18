@@ -3,7 +3,7 @@ title: "Include a Yammer feed in a SharePoint page"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 12/5/2018
+ms.date: 12/15/2018
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -18,18 +18,28 @@ ms.assetid: 4817d2fa-50f6-4f25-88a0-a312745768d4
 description: "You can add a Yammer feed to a modern or classic SharePoint site page."
 ---
 
-# Include a Yammer feed in a SharePoint site
+# Include a Yammer feed in a SharePoint page
 
-To include a Yammer feed in a SharePoint page, your organization should have an active Yammer network (for example: http&#58;//www&#46;yammer&#46;com/contoso&#46;com). Yammer does not have to be the social collaboration tool for SharePoint in order to embed a Yammer feed, but if you want to make Yammer the primary social experience for SharePoint, see [Integrate Yammer with on-premises SharePoint environments](https://go.microsoft.com/fwlink/?LinkID=524180).
+To include a Yammer feed in a SharePoint page, your organization should have an active Yammer network (for example: http&#58;//www&#46;yammer&#46;com/contoso&#46;com). 
 
-- For SharePoint Online, use the Yammer Conversations or Yammer Highlights web part. See [Use a Yammer web part in a SharePoint Online page](https://support.office.com/article/a53cfa0c-3d09-42c8-a286-1038a81c59da). These web parts inherit the page theme, and are usable from mobile devices. Note that the SharePoint Conversations web part is currently in preview, and may not yet be available for your organization.
+- For SharePoint Online, you can use the Yammer Highlights web part for a display of recent conversations, or the Yammer Conversations web part so that page viewers can engage in the conversation without leaving SharePoint. 
 
-- For SharePoint Server 2019 modern pages, you can add the following types of Yammer feeds: group, person, topic, or Yammer home feed.
+- For SharePoint Server 2019 modern pages, you can use the Yammer web part to add a group, user, topic, or Yammer home feed.
 
-- For SharePoint Servers 2013 and 2016 and for classic pages in SharePoint Server 2019, you can also include topic feeds, and open graph object feeds to add a discussion about an object such as web page. 
+- For SharePoint Servers 2013 and 2016 and for classic pages in SharePoint Server 2019, you can use Yammer Embed within a script editor web part to add a group feed, user feed, topic feed, Yammer home feed, or an open graph object feed that adds a discussion about an object such as web page. 
   
-   > [!NOTE]
-    > When you add a Yammer My Feed/Home feed to a SharePoint page, you'll see slightly different messages than the ones included in the home feed available in Yammer web, desktop, or mobile. On the SharePoint page, users will see messages from all threads in groups they are a member of and all threads in the All Company group. In Yammer web, desktop, and mobile, users can select **Discovery**, **All**, or **Following** feeds, but these aren't available in SharePoint pages. The My Feed/Home feed type is closest to the All feed, but doesn't include public posts in public groups the user doesn't belong to.
+> [!NOTE]
+> When you add a Yammer My Feed/Home feed to a SharePoint page, you'll see slightly different messages than the ones included in the home feed available in Yammer web, desktop, or mobile. On the SharePoint page, users will see messages from all threads in groups they are a member of and all threads in the All Company group. In Yammer web, desktop, and mobile, users can select **Discovery**, **All**, or **Following** feeds, but these aren't available in SharePoint pages. The My Feed/Home feed type is closest to the All feed, but doesn't include public posts in public groups the user doesn't belong to.
+
+Yammer does not have to be the social collaboration tool for SharePoint in order to embed a Yammer feed, but if you want to make Yammer the primary social experience for SharePoint, see [Integrate Yammer with on-premises SharePoint environments](https://go.microsoft.com/fwlink/?LinkID=524180).
+
+## Add a Yammer feed to a page in SharePoint Online
+For instructions for how to use the Yammer Conversations or Yammer Highlights web part, see [Use a Yammer web part in a SharePoint Online page](https://support.office.com/article/a53cfa0c-3d09-42c8-a286-1038a81c59da). 
+
+These web parts inherit the page theme, and are usable from mobile devices. 
+
+>[!NOTE] 
+> The SharePoint Conversations web part is currently in [Targeted Release](https://docs.microsoft.com/en-us/office365/admin/manage/release-options-in-office-365?view=o365-worldwide), and may not yet be available for your organization.
 
 ## Add a Yammer feed to a modern page in SharePoint Server 2019
 
@@ -57,6 +67,8 @@ There are three basic steps:
 2. Copy and edit a simple script that identifies the type of feed you want and the Yammer network you are using.
     
 3. Paste the script into the web part and publish your SharePoint page. 
+
+When a Yammer feed is added using this method, the feed can't be viewed when using a mobile browser or if third-party cookies aren't enabled. For more information about browser support when using a Yammer feed in a script editor web part, see [Yammer Embed requirements](https://developer.yammer.com/docs/requirements).
     
 ### Step 1: Set up the web part 
 
@@ -121,8 +133,8 @@ The following procedures describe how to add a group feed, my feed, or page feed
   
   ```
 
-      > [!NOTE]
-      > You can also change the height and width parameters to the height and width you prefer. 
+ > [!NOTE]
+ > You can also change the height and width parameters to the height and width you prefer. 
 
     This example shows an open graph feed for a web page, but you can create feeds for other open-graph objects. The list of valid object types is at [Schema \> Supported Object Types](https://go.microsoft.com/fwlink/?LinkId=525586). If you are interested in using the Yammer Embed widget to add Yammer feeds to your SharePoint pages, see [Add the Yammer Embed widget to a SharePoint page](https://go.microsoft.com/fwlink/?LinkId=525587).
     
