@@ -152,7 +152,7 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/block.svg" alt="New Yammer conversations web part" data-linktype="external">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/blocks.svg" alt="New Yammer conversations web part" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -168,7 +168,7 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag.svg" alt="AAD account required" data-linktype="external">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/sign-up.svg" alt="AAD account required" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -204,7 +204,7 @@ Build communities and collaboration in your organization with Yammer.
                         </div>
                     </div>
                     <div class="cardText">
-                            <p><a href="https://support.office.com/en-us/article/what-s-new-in-yammer-12116b2c-a9f4-40a5-bf6f-5e2d82f16d58" data-linktype="absolute-path">Release notes for app and mobile versions</a></p> <br/>
+                            <p><a href="https://support.office.com/en-us/article/what-s-new-in-yammer-12116b2c-a9f4-40a5-bf6f-5e2d82f16d58" data-linktype="absolute-path">Release notes for desktop, web, and mobile versions</a></p> <br/>
                     </div>
                 </div>
             </div>
