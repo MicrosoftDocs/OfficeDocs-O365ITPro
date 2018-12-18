@@ -1,9 +1,9 @@
 ---
-title: Wlecome to Kaizala
+title: Welcome to Kaizala
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 12/12/2018
+ms.date: 12/17/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
