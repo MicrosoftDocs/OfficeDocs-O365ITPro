@@ -32,9 +32,7 @@ Enabling Kaizala Pro allows your organization users to:
 ## To enable or disable Kaizala Pro
 
 1. In the [Kaizala management portal](https://manage.kaiza.la/), sign in using your Office 365 account, and then go to the **Settings** page to view whether Kaizala Pro is in an enabled or disabled state and to modify the state if needed. 
-2. Skip the prompt to add phone number (when no phone numbers are mapped already) by closing the pop up window.
-![Prompt to add phone number in Kaizala management portal](media/prompt-to-add-phone-number.png)
-3. The **Microsoft Kaizala for your Organization** section provides an option to toggle the current setting. Select the **Disable** button and provide confirmation on the pop-up window to disable Kaizala Pro for the account. Use the same procedure to enable Kaizala Pro. 
+2. The **Microsoft Kaizala for your Organization** section provides an option to toggle the current setting. Select the **Disable** button and provide confirmation on the pop-up window to disable Kaizala Pro for the account. Use the same procedure to enable Kaizala Pro. 
 ![Enable or disable Kaizala from the Settings page in Kaizala management portal](media/enable-disable-kaizala-from-settings-page.png)
 > [!NOTE]
 > Only the Office 365 administrator can enable or disable Kaizala Pro.
