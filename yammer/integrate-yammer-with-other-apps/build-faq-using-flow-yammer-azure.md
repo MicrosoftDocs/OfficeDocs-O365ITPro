@@ -20,7 +20,10 @@ description: "Integrate Flow, Yammer, and the Azure QnA service to build a FAQ k
 
 # Create a FAQ knowledge base in Yammer by using QnA Maker and Flow
 
-This article provides steps to set up a Yammer group to provide automated answers to questions posted in the group. This solution integrates Yammer with Azure QnA Maker and Microsoft Flow. QnA Maker is a service that answers user's natural language questions by matching them with the best possible answers from an existing list of questions and answers. Microsoft Flow is used to provide the necessary workflow between QnA maker and Yammer to handle questions that don't already have answers defined. 
+This article provides steps to set up a Yammer group to provide automated answers to questions posted in the group. This solution integrates Yammer with Azure QnA Maker and Microsoft Flow, and uses SharePoint Online and Outlook features available to all Yammer Office 365 connected groups.  
+
+- QnA Maker, a service that builds a question and answer service from your semi-structured content, is used to find relevant answers for user's natural language questions. 
+- Microsoft Flow provides the necessary workflow between QnA maker, the Yammer group, SharePoint Online, and Outlook to handle questions that don't already have answers defined and store new questions and answers. 
 
 Once you have this integration set up with a small list of questions and answers, users will be able to post questions in the group and receive automatic answers. If a user asks a question that doesn't have a clear match, the proposed answer is forwarded to a specific person to verify. Each verified answer is included as a response to the question, and also expands the knowledge base so it can be used for future questions.
 
