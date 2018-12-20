@@ -227,7 +227,7 @@ In this step you'll create the structure for the list of questions and answers, 
  
    ![Import page, showing importing in progress](../media/kb/flow-importing.png)
  
-    a. After the Flow has successfully imported, click **Open flow**.
+    a. After the flow has successfully imported, click **Open flow**.
  
    ![Flow page, showing Open flow link](../media/kb/flow-imported.png)
  
@@ -255,18 +255,37 @@ In this step you'll create the structure for the list of questions and answers, 
 
    ![Initialize variable for the Knowledge Base ID](../media/kb/flow-intialize-variable.png)
  
-    d. Initialize **Approval Assigned To**, and fill the value with your Office 365 work email. This sets you up as the official approver of suggested answers from the QnA Maker for your knowledge base. This is useful while you're building and testing your integration, and you can change it later to the person who will be responsible for verifying proposed answers.
+    d. Initialize **Approval Assigned To**, and fill the value with your Office 365 work email. 
+
+    This sets you up as the official approver of suggested answers from the QnA Maker for your knowledge base. This is useful while you're building and testing your integration, and you can change it later to the person who will be responsible for verifying proposed answers.
  
    ![Initialize variable for Approval Assigned To](../media/kb/flow-approval-assigned-to-variable.png)
  
     e. Find the **Create item** node and paste in the SharePoint Site URL. To find **Create item**: 
-        i. Click **Check if the message is a question**
-        ii. Under the **If yes** condition, click **Apply to each answer**.
-        iii. At the top of the page, click **Check the confidence level**.
-        iv. In the **If no** section, click **Create item**.
-        v. Paste the SharePoint Site URL in the **Site Address** text box.
-    
-       ![Create item, showing the Site Address field](../media/kb/flow-sp-create-item.png)
+
+      1. Click **Check if the message is a question**.
+   
+      ![Flow, showing location of Check if the message is a question](../media/kb/flow-sp-check-if-question.png)
+
+      2. Under the **If yes** condition, click **Apply to each answer**.   
+      
+      ![Flow, showing location of Apply to each answer](../media/kb/flow-sp-if-yes.png)
+
+      3. Click **Check the confidence level**.   
+     
+      ![Flow, showing location of Check the confidence level](../media/kb/flow-sp-con-level.png)
+
+      4. In the **If no** section, click **If Approved**.   
+     
+      ![Flow, showing location of If Approved](../media/kb/flow-sp-if-approved.png)
+
+      5. In the **If no** section, click **Create item**.   
+      
+      ![Flow, showing location of Create item](../media/kb/flow-sp-if-no-createitem.png)
+
+       6. Paste the SharePoint Site URL in the **Site Address** text box.   
+      
+      ![Flow Create item, showing the location of the Site Address field](../media/kb/flow-sp-create-item.png)
  
     f. Click **Save**.
 
@@ -274,16 +293,14 @@ In this step you'll create the structure for the list of questions and answers, 
 
 ## Step 5: Import and update the flow that adds items from Yammer to QNA Maker
 
-1. Upload the **AddItemToQnAMakerFlow.zip** flow package that you downloaded in Step 1.
-
-2. To import this Flow, use the same process you used to import the previous Flow.
+1. To import **AddItemToQnAMakerFlow.zip** flow package that you downloaded in Step 1, use the same process you used to import the previous Flow.
  
    ![Import package to Flow](../media/kb/flow-2-create-as-new.png)
  
 > [!NOTE]
 > Instead of creating a new SharePoint Connection, you can select the one you created earlier. 
 
-3. Update the flow.
+2. Update the flow.
 
     a. Click the first node, and paste the SharePoint Site URL into the **Site Address** text box.
 
@@ -293,7 +310,7 @@ In this step you'll create the structure for the list of questions and answers, 
  
    ![Initialize Knowledge Base Id and Cognitive Services ID](../media/kb/flow-2-variables.png)
  
-4. To save the flow, click **Save**.
+3. To save the flow, click **Save**.
 
 ## Step 6: Try it! Ask sample questions in the Yammer group
 
