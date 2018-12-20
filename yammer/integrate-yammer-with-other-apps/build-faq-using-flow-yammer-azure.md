@@ -20,7 +20,7 @@ description: "Integrate Flow, Yammer, and the Azure QnA service to build a FAQ k
 
 # Create a FAQ knowledge base in Yammer by using QnA Maker and Flow
 
-This article provides steps to set up a Yammer connected group to provide automated answers to questions posted in the group by integrating Yammer with Azure QnA Maker and Microsoft Flow. Azure QnA Maker is a service that answers user's natural language questions by matching them with the best possible answers from an existing list of questions and answers. Microsoft Flow is used to provide the necessary workflow between QnA maker and Yammer to handle questions that don't already have answers defined. 
+This article provides steps to set up a Yammer group to provide automated answers to questions posted in the group. This solution integrates Yammer with Azure QnA Maker and Microsoft Flow. QnA Maker is a service that answers user's natural language questions by matching them with the best possible answers from an existing list of questions and answers. Microsoft Flow is used to provide the necessary workflow between QnA maker and Yammer to handle questions that don't already have answers defined. 
 
 Once you have this integration set up with a small list of questions and answers, users will be able to post questions in the group and receive automatic answers. If a user asks a question that doesn't have a clear match, the proposed answer is forwarded to a specific person to verify. Each verified answer is included as a response to the question, and also expands the knowledge base so it can be used for future questions.
 
@@ -34,11 +34,21 @@ After you get the integration working with the sample content provided, you can 
 
 - Office 365 connected groups turned on for your Yammer network.
 
+- A Yammer Office 365 connected group to use for the automated knowledge base. Because this group will be connected to QnA Maker, it should be a group dedicated to the knowledge base.
+
 ## Step 1: Download files needed for this integration
 
-This article has associated Flow files and an Excel spreadsheet containing sample questions and answers. These files are available on the [Microsoft Download Center](https://downloads.microsoft.com).
+This article has two associated flow packages, an Excel spreadsheet containing sample questions and answers, and a video showing the steps for the entire integration.
 
-ADD STEPS HERE ONCE WE HAVE THE FILES POSTED ON THE DOWNLOAD CENTER
+1. Download the files from [Technical community: Yammer FAQ integration](https://downloads.microsoft.com).
+
+2. Double-click the YammerFAQIntegration.ZIP file to unzip the files. You'll see the following files:
+
+|**File**|**Description**|
+|:-------|:--------------|
+|QnA Maker Sample FAQ.xlsx|Sample questions to seed the automated knowledge base.|
+|YammerFAQs.zip|Zip file containing a package for the flow that connects Yammer to QnAMaker.|
+|AddItemToQNAMaker.zip|Zip file containing a package for the flow that connects the group's SharePoint list to QnAMaker.|
 
 ## Step 2: Use QnA Maker to create a knowledge base
 
@@ -112,7 +122,7 @@ In this step, you'll use the Microsoft Azure QnA Maker web service to create an 
 
 In this step you'll create the structure for the list of questions and answers, and populate it with some sample questions and answers. Once you get the integration working with the sample, you can replace the content of the list with questions and answers that apply to your own content.
 
-1. Open an Office 365 connected Group in Yammer and click **SharePoint Site**.
+1. Open an Office 365 connected group in Yammer and click **SharePoint Site**.
 
    ![Sample of Office 365 connected Yammer group page](../media/kb/yammer-group-o365-resources.png)
 
@@ -146,17 +156,13 @@ In this step you'll create the structure for the list of questions and answers, 
  
 5. In your new list, upload your a few questions and answers. There is a sample set of questions and answers in the download you can use as you experiment with your integration.
 
-## Step 4: Import and update the Yammer FAQs flow
+## Step 4: Update the flow that connects your Yammer group with QnA Maker
 
-In this step you customize the flow that connects your Yammer group with QnA Maker.
-
-1. Download the Yammer FAQs flow.
-
-2. Open https://flow.microsoft.com, and sign in with your work account.
+1. Open https://flow.microsoft.com, and sign in with your work account.
  
    ![Sign in to https://flow.microsoft.com](../media/kb/flow-sign-in.png)
  
-3. Upload the package.
+2. Upload the **YammerFAQs.zip** flow package that you downloaded in Step 1.
 
     a. Click **My flows**.
  
@@ -170,7 +176,7 @@ In this step you customize the flow that connects your Yammer group with QnA Mak
 
    ![Import package page, showing the file being uploaded](../media/kb/flow-import-package-uploading.png)
  
-4. After the package has been uploaded, modify the **IMPORT SETUP** configuration for the **Related resources**.
+3. After the package has been uploaded, modify the **IMPORT SETUP** configuration for the **Related resources**.
  
    ![Import package page, showing the Import Setup column](../media/kb/flow-create-as-new.png)
  
@@ -198,7 +204,7 @@ In this step you customize the flow that connects your Yammer group with QnA Mak
  
     g. The **QnA Maker** connection you just created will appear. Select it, then click **Save**.
 
-5. Use the steps under step 4 above as a guide to configure the rest of the connections (shown in the red rectangles in the picture below). Refer to the screenshots below for all the connections to help you search for and locate the appropriate connections.
+4. Use the steps under step 4 above as a guide to configure the rest of the connections (shown in the red rectangles in the picture below). Refer to the screenshots below for all the connections to help you search for and locate the appropriate connections.
  
    ![Related resources page, showing the Import Setup column](../media/kb/flow-setup-others.png)
  
@@ -214,7 +220,7 @@ In this step you customize the flow that connects your Yammer group with QnA Mak
  
        ![SharePoint connector](../media/kb/flow-new-sharepoint-connection.png)
  
-6. At the bottom of the page, click **Import**.
+5. At the bottom of the page, click **Import**.
  
    ![Import page, showing importing in progress](../media/kb/flow-importing.png)
  
@@ -222,7 +228,7 @@ In this step you customize the flow that connects your Yammer group with QnA Mak
  
    ![Flow page, showing Open flow link](../media/kb/flow-imported.png)
  
-7. Update the Flow.
+6. Update the Flow.
  
    ![Flow page showing steps of flow](../media/kb/flow-yammer-faqs.png)
  
@@ -250,29 +256,31 @@ In this step you customize the flow that connects your Yammer group with QnA Mak
  
    ![Initialize variable for Approval Assigned To](../media/kb/flow-approval-assigned-to-variable.png)
  
-    e. Find the **Create item**: Check if the message is a question -> If yes -> Apply to each answer -> Check the confidence level -> If no -> If approved -> If no. Paste the SharePoint Site URL in the **Site Address** text box.
+    e. Find the **Create item** node and paste in the SharePoint Site URL. To find **Create item**: 
+        i. Click **Check if the message is a question**
+        ii. Under the **If yes** condition, click **Apply to each answer**.
+        iii. At the top of the page, click **Check the confidence level**.
+        iv. In the **If no** section, click **Create item**.
+        v. Paste the SharePoint Site URL in the **Site Address** text box.
     
-   ![Create item, showing the Site Address field](../media/kb/flow-sp-create-item.png)
+       ![Create item, showing the Site Address field](../media/kb/flow-sp-create-item.png)
  
     f. Click **Save**.
 
    ![Flow, showing the Save button](../media/kb/flow-save.png)
- 
 
-## Step 5: Import and update the Add Item to QnA Maker flow
+## Step 5: Import and update the flow that adds items from Yammer to QNA Maker
 
-In this step you customize the flow that adds items from Yammer to QnA Maker.
-
-1. Download the **Add Item To QnAMaker Flow**.
+1. Upload the **AddItemToQnAMakerFlow.zip** flow package that you downloaded in Step 1.
 
 2. To import this Flow, use the same process you used to import the previous Flow.
  
    ![Import package to Flow](../media/kb/flow-2-create-as-new.png)
  
-> [!NOTE
+> [!NOTE]
 > Instead of creating a new SharePoint Connection, you can select the one you created earlier. 
 
-3. Update the Flow.
+3. Update the flow.
 
     a. Click the first node, and paste the SharePoint Site URL into the **Site Address** text box.
 
@@ -282,7 +290,7 @@ In this step you customize the flow that adds items from Yammer to QnA Maker.
  
    ![Initialize Knowledge Base Id and Cognitive Services ID](../media/kb/flow-2-variables.png)
  
-4. Save the Flow.
+4. To save the flow, click **Save**.
 
 ## Step 6: Try it! Ask sample questions in the Yammer group
 
@@ -349,3 +357,4 @@ Wait up to two minutes for an answer.
 
 Now that you have done this once, replace the content with appropriate content for your organization.
 
+Thank you to Todd Snodgrass, Microsoft MVP, for developing this integration.
