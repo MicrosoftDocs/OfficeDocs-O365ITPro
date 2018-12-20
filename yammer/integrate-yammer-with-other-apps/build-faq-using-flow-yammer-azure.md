@@ -38,7 +38,7 @@ After you get the integration working with the sample content provided, you can 
 
 ## Step 1: Download files needed for this integration
 
-This article has two associated flow packages, an Excel spreadsheet containing sample questions and answers, and a video showing the steps for the entire integration.
+This article has two associated flow packages, an Excel spreadsheet containing sample questions and answers, and a 22-minute video showing the steps for the entire integration.
 
 1. Download the files from [Technical community: Yammer FAQ integration](https://downloads.microsoft.com).
 
