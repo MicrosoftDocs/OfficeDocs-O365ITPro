@@ -56,12 +56,12 @@ If you're simply looking for the steps to download and install or reinstall Offi
 For issues when installing Office, try downloading the [Support and Recovery Assistant for Office 365](https://diagnostics.office.com/) tool. 
   
 [![Download the Microsoft Support and Recovery Assistant for Office 365](../media/86a40ac5-ffa9-4704-b37b-3a858cf997cc.png)](https://diagnostics.office.com/)
-If this tool doesn't resolve your issue, choose a troubleshooting category from the options below.
-  
-> [!TIP]
-> This article is for Office installation issues. Try one of these links if you're looking for help with:
-  
-[Outlook](https://support.office.com/article/6995fb57-b8e7-43e9-be75-6a98e1b11c3d.aspx) (for email issues), [Skype for Business](https://support.office.com/article/4fbe07ce-6b15-4a06-bcf0-baea57890410.aspx), or [OneDrive for Business](https://support.office.com/article/1eaa32e9-3229-47c2-b363-0a5306cb8c37.aspx). 
 
 For more troubleshooting options, see [Troubleshoot installation issues](https://support.office.com/article/fbbf663b-1e76-46d2-a417-0aa78ed2fb9a).
+  
+
+> [!TIP]
+> This article is for Office installation issues. Try one of these links if you're looking for help with
+[Outlook](https://support.office.com/article/6995fb57-b8e7-43e9-be75-6a98e1b11c3d.aspx) (for email issues), [Skype for Business](https://support.office.com/article/4fbe07ce-6b15-4a06-bcf0-baea57890410.aspx), or [OneDrive for Business](https://support.office.com/article/1eaa32e9-3229-47c2-b363-0a5306cb8c37.aspx). 
+
   

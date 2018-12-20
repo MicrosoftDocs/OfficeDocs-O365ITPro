@@ -9,6 +9,7 @@ ms.topic: article
 ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_Yammer
+ms.service: yammer
 search.appverid:
 - MET150
 - MOE150

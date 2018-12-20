@@ -6,7 +6,7 @@ manager: pamgreen
 ms.date: 6/30/2017
 ms.audience: Admin
 ms.topic: conceptual
-ms.service: o365-administration
+ms.service: yammer
 localization_priority: Normal
 search.appverid: 
 - MET150
