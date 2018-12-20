@@ -357,4 +357,4 @@ Wait up to two minutes for an answer.
 
 Now that you have done this once, replace the content with appropriate content for your organization.
 
-Thank you to Todd Snodgrass, Microsoft MVP, for developing this integration.
+Thank you to Todd Baginski, Microsoft MVP, for developing this integration.
