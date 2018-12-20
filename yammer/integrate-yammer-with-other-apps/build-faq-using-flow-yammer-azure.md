@@ -318,8 +318,8 @@ Wait up to two minutes for an answer.
  
    ![Knowledge base showing how new question is added](../media/kb/qna-maker-2-2.png)
  
-> [!NOTE]
-> If you ask the same question again, you will get the answer im../media/kbtely. 
+    > [!NOTE]
+    > If you ask the same question again, you will get the answer immediately. 
 
 3. Ask a question that is not in the knowledge base: 
 **Can we create a live event in a Yammer group?**
@@ -342,8 +342,8 @@ Wait up to two minutes for an answer.
  
    ![Knowledge base showing how new question is added](../media/kb/qna-maker-item-added.png)
  
-> [!NOTE]
-> If you ask the same question again, you will get the answer im../media/kbtely. 
+    > [!NOTE]
+    > If you ask the same question again, you will get the answer immediately. 
 
 ## Step 7: Replace the sample content with your own
 
