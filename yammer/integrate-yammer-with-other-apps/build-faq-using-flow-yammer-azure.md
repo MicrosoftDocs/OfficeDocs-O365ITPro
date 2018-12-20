@@ -317,7 +317,7 @@ Wait up to two minutes for an answer.
  
    ![Knowledge base showing how new question is added](media/qna-maker-2-2.png)
  
-> [!NOTE}
+> [!NOTE]
 > If you ask the same question again, you will get the answer immediately. 
 
 3. Ask a question that is not in the knowledge base: 
