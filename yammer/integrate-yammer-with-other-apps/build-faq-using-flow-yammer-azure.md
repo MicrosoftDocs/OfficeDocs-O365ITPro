@@ -20,9 +20,9 @@ description: "Integrate Flow, Yammer, and the Azure QnA service to build a FAQ k
 
 # Create a FAQ knowledge base in Yammer by using QnA Maker and Flow
 
-Use a Yammer connected group as a knowledge base providing automated answers to questions posted in the group. Azure QnA Maker is a service that answers user's natural language questions by matching them with the best possible answers from an existing list of questions and answers. Microsoft Flow is used to provide the necessary workflow between QnA maker and Yammer to handle questions that don't already have answers defined. 
+This article provides steps to set up a Yammer connected group to provide automated answers to questions posted in the group by integrating Yammer with Azure QnA Maker and Microsoft Flow. Azure QnA Maker is a service that answers user's natural language questions by matching them with the best possible answers from an existing list of questions and answers. Microsoft Flow is used to provide the necessary workflow between QnA maker and Yammer to handle questions that don't already have answers defined. 
 
-Once you have this integration set up with a small list of questions and answers set up in the SharePoint site for a Yammer group, users will be able to post questions in the group and receive automatic answers. If a user asks a question that QnA Maker isn't sure there's a good answer for, the proposed answer is forwarded to a specific person to verify. Each verified answer is included as a response in the group, and also expands the knowledge base.
+Once you have this integration set up with a small list of questions and answers, users will be able to post questions in the group and receive automatic answers. If a user asks a question that doesn't have a clear match, the proposed answer is forwarded to a specific person to verify. Each verified answer is included as a response to the question, and also expands the knowledge base so it can be used for future questions.
 
 After you get the integration working with the sample content provided, you can replace the content with relevant questions and answers for your organization.
 
