@@ -41,7 +41,7 @@ Office 365 includes a basic team site for you to get started. You can immediatel
 
 - OneDrive is designed for individual use, with the occasional sharing of files. 
     
-- A SharePoint team site is designed for sharing and collaborating on files regularly. A team site is ideal for storing files that have shared ownership where several people own the files and might collaborate on them. In a business with only a handful of employees, you might only need one team site. 
+- A SharePoint team site is designed for sharing and collaborating on files regularly. A team site is ideal for storing files that have shared ownership where several people own the files and might collaborate on them. Create a Microsoft Team to add a SharePoint site. [Learn more at Create a team in Teams](https://support.office.com/article/174adf5f-846b-4780-b765-de1a0a737e2b).
     
 Both OneDrive and team sites provide anywhere access for you and your employees.
   
