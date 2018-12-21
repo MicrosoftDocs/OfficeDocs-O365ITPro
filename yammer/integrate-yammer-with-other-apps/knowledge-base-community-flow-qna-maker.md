@@ -15,16 +15,16 @@ search.appverid:
 - MOE150
 - YAE150
 ms.assetid: 37b730d6-99ad-43a2-967a-2eb52f48bdba
-description: "Integrate Flow, Yammer, and the Azure QnA service to build a FAQ knowledge base to automatically answer and build answers to frequently asked questions."
+description: "Integrate Yammer, Azure QnA Maker, and Microsoft Flow to build a knowledge base to automatically answer questions posed in the Yammer group."
 ---
 
-# Create a knowledge-based in Yammer by using QnA Maker and Flow
+# Create a knowledge-based community in Yammer by using QnA Maker and Flow
 
 This article provides steps to set up a Yammer group to provide automated answers to questions posted in the group. This solution integrates Yammer with Azure QnA Maker and Microsoft Flow, and uses SharePoint Online and Outlook features available to all Yammer Office 365 connected groups.  
 
 - QnA Maker, a service that builds a question and answer service from your semi-structured content, is used to find relevant answers for user's natural language questions. 
 
-- Microsoft Flow provides the necessary workflow between QnA maker, the Yammer group, SharePoint Online, and Outlook to handle questions that don't already have answers defined and store new questions and answers. 
+- Flow provides the necessary workflow between QnA maker, the Yammer group, SharePoint Online, and Outlook to handle questions that don't already have answers defined and store new questions and answers. 
 
 Once you have this integration set up with a small list of questions and answers, users will be able to post questions in the group and receive automatic answers. If a user asks a question that doesn't have a clear match, the proposed answer is forwarded to a specific person to verify. Each verified answer is included as a response to the question, and also expands the knowledge base so it can be used for future questions.
 
@@ -44,13 +44,13 @@ After you get the integration working with the sample content provided, you can 
 
 This article has two associated flow packages and an Excel spreadsheet containing sample questions and answers.
 
-1. Download the files from [Technical community: Yammer FAQ integration](https://downloads.microsoft.com).
+1. [Download the files from the Yammer technical community](https://downloads.microsoft.com).
 
-2. Double-click the YammerFAQIntegration.ZIP file to unzip the files. You'll see the following files:
+2. Double-click the Knowledge-based-community-files.ZIP file to unzip the files. You'll see the following files:
 
 |**File**|**Description**|
 |:-------|:--------------|
-|QnA Maker Sample FAQ.xlsx|Sample questions to seed the automated knowledge base.|
+|SampleFAQs.xlsx|Sample questions to seed the automated knowledge base.|
 |YammerFAQs.zip|Zip file containing a package for the flow that connects Yammer to QnAMaker.|
 |AddItemToQNAMaker.zip|Zip file containing a package for the flow that connects the group's SharePoint list to QnAMaker.|
 
@@ -82,7 +82,7 @@ In this step, you'll use the Microsoft Azure QnA Maker web service to create an 
    
      ![QnA Maker resource management keys page](../media/kb/azure-cognitive-services.png)
  
-   h. Copy  the value for **KEY 1**. This value will be used to initialize the **Cognitive Services Key** variable in the Yammer FAQs Flow that will be imported and updated later.
+   h. Copy  the value for **KEY 1**. This value will be used to initialize the **Cognitive Services Key** variable in the Yammer FAQs flow that will be imported and updated later.
 
 3. Go back to the knowledge base create page that you opened.
 
@@ -94,7 +94,7 @@ In this step, you'll use the Microsoft Azure QnA Maker web service to create an 
   
      ![QnA Maker step 3, Name your kb](../media/kb/create-kb-step-3.png)
  
-5. Populate the kb with a base source by clicking **+ Add file** and uploading the Sample QnA FAQ.xls file.
+5. Populate the kb with a base source by clicking **+ Add file** and uploading the SampleFAQs.xlsx file that you downloaded in Step 1.
 
    ![QnA Maker step 4, Populate your kb](../media/kb/create-kb-step-4.png)
  
@@ -112,7 +112,7 @@ In this step, you'll use the Microsoft Azure QnA Maker web service to create an 
  
     a. Click **Publish**.
  
-    b. From the **Success** page, copy the three strings indicated in red rectangles above. You'll use these to initialize variables in the Yammer FAQs Flow.
+    b. From the **Success** page, copy the three strings indicated in red rectangles above. You'll use these to initialize variables in the Yammer FAQs flow.
 
    ![Success message from QnA Maker](../media/kb/kb-publish-success.png)
 
@@ -130,7 +130,7 @@ In this step you'll create the structure for the list of questions and answers, 
 
    ![Sample of Office 365 connected Yammer group page](../media/kb/yammer-group-o365-resources.png)
 
-2. Copy the site URL. You'll use this to configure the **Create item** node of the Yammer FAQs Flow.
+2. Copy the site URL. You'll use this to configure the **Create item** node of the Yammer FAQs flow.
 
    ![SharePoint site associated with the Office 365 connected group, showing URL for later use](../media/kb/sp-site.png)
 
@@ -232,7 +232,7 @@ In this step you'll create the structure for the list of questions and answers, 
  
    ![Flow page, showing Open flow link](../media/kb/flow-imported.png)
  
-6. Update the Flow.
+6. Update the flow.
  
    ![Flow page showing steps of flow](../media/kb/flow-yammer-faqs.png)
  
@@ -294,7 +294,7 @@ In this step you'll create the structure for the list of questions and answers, 
 
 ## Step 5: Import and update the flow that adds items from Yammer to QNA Maker
 
-1. To import **AddItemToQnAMakerFlow.zip** flow package that you downloaded in Step 1, use the same process you used to import the previous Flow.
+1. To import **AddItemToQnAMakerFlow.zip** flow package that you downloaded in Step 1, use the same process you used to import the previous flow.
  
    ![Import package to Flow](../media/kb/flow-2-create-as-new.png)
  
@@ -343,7 +343,7 @@ Wait up to two minutes for an answer.
  
    ![Yammer conversation showing the answer to the previous question](../media/kb/yammer-qa-2-2.png)
  
-    d. The question asked will be added to the knowledge base by the Flow so that the question can be answered quicker in the future.
+    d. The question asked will be added to the knowledge base by the flow so that the question can be answered quicker in the future.
  
    ![Knowledge base showing how new question is added](../media/kb/qna-maker-2-2.png)
  
@@ -359,15 +359,15 @@ Wait up to two minutes for an answer.
  
    ![Approval email with suggested answer pending approval](../media/kb/outlook-reject.png)
  
-    b. A new answer will be provided in the Yammer conversation
+    b. A new answer will be provided in the Yammer conversation,
  
    ![Yammer conversation showing new answer](../media/kb/yammer-qa-3-2.png)
  
-    c. The question asked will be added to the QnA list by the Yammer FAQs Flow.
+    c. The question asked will be added to the QnA list by the Yammer FAQs flow.
  
    ![QnA list showing the new question](../media/kb/sp-qna-item-added.png)
  
-    d. Finally, the newly added SharePoint list item will be added to the knowledge base by the Add Item to QnA Marker Flow.
+    d. Finally, the newly added SharePoint list item will be added to the knowledge base by the Add Item to QnA Marker flow.
  
    ![Knowledge base showing how new question is added](../media/kb/qna-maker-item-added.png)
  
