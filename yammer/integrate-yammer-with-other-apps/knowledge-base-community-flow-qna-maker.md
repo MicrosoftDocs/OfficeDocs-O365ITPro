@@ -44,7 +44,7 @@ After you get the integration working with the sample content provided, you can 
 
 This article has two associated flow packages and an Excel spreadsheet containing sample questions and answers.
 
-1. [Download the files from the Yammer technical community](https://downloads.microsoft.com).
+1. [Download the files from the Yammer technical community](https://go.microsoft.com/fwlink/?linkid=2054570).
 
 2. Double-click the Knowledge-based-community-files.ZIP file to unzip the files. You'll see the following files:
 
