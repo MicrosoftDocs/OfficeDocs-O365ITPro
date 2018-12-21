@@ -358,7 +358,7 @@ If you had previously created a Group settings object, and need to change the va
   For example, let's change from the  *AllowedtoCreateGroups*  group we previously set, to a different group we had created with an ObjectId of **3054dce3-37e6-437a-a817-2363272cac1c**: 
     
   ```
-  $settings["GroupCreationAllowedGroupId"] = "3054dce3-37e6-437a-a817-2363272cac1c"
+  $setting["GroupCreationAllowedGroupId"] = "3054dce3-37e6-437a-a817-2363272cac1c"
   ```
 
   After configuring your settings, you will be returned to a prompt in the Windows Azure Active Directory Module.
