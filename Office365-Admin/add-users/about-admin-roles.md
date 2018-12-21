@@ -49,7 +49,7 @@ Here are the available roles and what people assigned to them can do.
 |![Customer Lockbox access approver](../media/649cfe55-9b3f-434d-8630-01ac80a52a12.png)           <br/> **Customer Lockbox access approver** <br/> |Manages [Customer Lockbox](../manage/customer-lockbox-requests.md) requests in your organization. They receive email notifications for Customer Lockbox requests and can approve/deny requests from the Microsoft 365 Admin Center. They can also can turn on/off the Customer Lockbox feature.  <br/><br/> Only global admins can reset the passwords of people assigned to this role.  <br/> |
 |![Exchange Online](../media/4e3ecf0d-8366-4a96-9f39-9faa46543cf3.png) **[Exchange administrator](about-exchange-online-admin-role.md)** <br/> |Manages mailboxes and anti-spam policies for your business, using the Exchange admin center. Can view all the [activity reports](../activity-reports/activity-reports.md) in the Office 365 admin center.  <br/><br/> Someone with BOTH the Exchange admin role and the user management role can create and manage Office 365 groups in the Office 365 admin center.  <br/><br/> To learn more, see [About the Exchange Online admin role](about-exchange-online-admin-role.md).  <br/> |
 |![Credit card](../media/d00b0009-51f5-410b-bb0b-7ab36102b03c.png) **License administrator** <br/> |Adds, removes, and updates license assignments for users, groups (using group based licensing), and manages the usage location of users.  <br/><br/> People in this role can't purchase or manage subscriptions, create or manage groups, or create or manage users beyond the usage location.  <br/> |
-|![Key, permissions](../media/3bacb7b2-49c1-4f61-81a4-4e55769ed149.png) **Password administrator** <br/> |Resets passwords, manages support tickets, and monitors service health. Password admins can't reset passwords for global admins.  <br/> |
+|![Key, permissions](../media/3bacb7b2-49c1-4f61-81a4-4e55769ed149.png) **Helpdesk administrator (Password administrator)** <br/> |Resets passwords, manages support tickets, and monitors service health. Helpdesk admins can't reset passwords for global admins. Only other global admins can do that. <br/> |
 |**Power BI administrator** <br/> |A person assigned to the Power BI admin role will have access to Office 365 Power BI usage metrics. They'll also be able to control your organization's usage of Power BI features. For more information about administering Power BI, see [Administering Power BI in your organization](https://go.microsoft.com/fwlink/p/?LinkId=842955).  <br/> |
 |![Reporting reader admin](../media/9370edc6-4a93-48d3-b829-c826db15813a.png) **Reports reader** <br/> |Can view all the [activity reports](../activity-reports/activity-reports.md) in the Office 365 admin center and any reports exposed through the reporting APIs.  <br/> |
 |**Message Center reader** <br/> |Monitors changes to the service and can view all posts to the [Message center in Office 365](../manage/message-center.md) and share Message center posts with others through email. Users assigned this role also have read-only access to some admin center resources, such as users, groups, domains, and subscriptions  <br/> |
@@ -84,7 +84,7 @@ Certain admin roles in Office 365 have a corresponding role in Exchange Online, 
 |:-----|:-----|:-----|:-----|:-----|
 |global admin  <br/> |Exchange Online admin  <br/> Company admin  <br/> |SharePoint Online admin  <br/> |Skype for Business admin  <br/> |Security &amp; Compliance Center admin (member of OrganizationManagement role group)  <br/> |
 |billing admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
-|password admin  <br/> |Help Desk admin\*  <br/> |N/A  <br/> |Help desk admin  <br/> |N/A  <br/> |
+|helpdesk/password admin  <br/> |Help Desk admin\*  <br/> |N/A  <br/> |Help desk admin  <br/> |N/A  <br/> |
 |service admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
 |user management admin  <br/> |N/A  <br/> |N/A  <br/> |Skype for Business admin  <br/> |N/A  <br/> |
 |Exchange administrator  <br/> |Exchange Online admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
@@ -92,7 +92,7 @@ Certain admin roles in Office 365 have a corresponding role in Exchange Online, 
 |Skype for Business administrator  <br/> |N/A  <br/> |N/A  <br/> |Skype for Business admin  <br/> |N/A  <br/> |
 |Compliance administrator  <br/> |Organization Management  <br/> |N/A  <br/> |N/A  <br/> |Compliance admin  <br/> |
    
-\*People with the password admin role can do the same tasks as people with the Exchange Help Desk role, however, they can't do message trace.
+\*People with the helpdesk/password admin role can do the same tasks as people with the Exchange Help Desk role, however, they can't do message trace.
   
 ## Delegated administration
 
@@ -102,7 +102,7 @@ A partner can assign these roles:
   
 - Full administration, which has privileges equivalent to a global admin.
     
-- Limited administration, which has privileges equivalent to a password admin.
+- Limited administration, which has privileges equivalent to a helpdesk/password admin.
     
 Before the partner can assign these roles to users, you must add the partner as a delegated admin to your Office 365 account. This process is initiated by an authorized partner. The partner sends you an email to ask you if you want to give them permission to act as a delegated admin. For instructions, see [Authorize or remove partner relationships](https://support.office.com/article/201ccb3b-6011-4bf1-a6b2-84e7cc1ee2d0.aspx).
   

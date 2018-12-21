@@ -10,7 +10,7 @@ ms.assetid:
 ms.service: yammer
 ms.custom: Adm_Yammer
 ms.topic: landing-page
-ms.date: 11/27/18
+ms.date: 12/13/18
 ---
 # Yammer admin help
 
@@ -43,7 +43,7 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/lightbulb-idea-capture.svg" alt="Yammer adoption resources" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/best-practices.svg" alt="Yammer adoption resources" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -130,18 +130,33 @@ Build communities and collaboration in your organization with Yammer.
 <hr>
 <h2>What&#39;s new</h2>
 <ul class="panelContent cardsF">
-
-   <li>
+<li>
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag-blue.svg" alt="What's new" data-linktype="external">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/cloud.svg" alt="File storage changes" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
-                            <p><a href="https://support.office.com/en-us/article/what-s-new-in-yammer-12116b2c-a9f4-40a5-bf6f-5e2d82f16d58" data-linktype="absolute-path">What's new in Yammer</a></p> <br/>
+                            <p><a href="https://support.office.com/en-us/article/how-do-i-tell-where-my-yammer-files-are-being-stored-fadfdefa-e00d-40b6-94cb-a9ddb171a443" data-linktype="absolute-path">File storage changes</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>    
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/blocks.svg" alt="New Yammer conversations web part" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                            <p><a href="https://support.office.com/en-us/article/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da?ui=en-US&rs=en-US&ad=US" data-linktype="absolute-path">New Yammer conversations web part for SharePoint</a></p>
                     </div>
                 </div>
             </div>
@@ -153,7 +168,7 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag.svg" alt="What's new" data-linktype="external">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/sign-up.svg" alt="AAD account required" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -162,13 +177,14 @@ Build communities and collaboration in your organization with Yammer.
                 </div>
             </div>
         </div>
-    </li><li>
+    </li>
+    <li>
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone-blue.svg" alt="What's new" data-linktype="external">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone-blue.svg" alt="Live events" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -178,6 +194,23 @@ Build communities and collaboration in your organization with Yammer.
             </div>
         </div>
     </li>    
+   <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag-blue.svg" alt="Release notes" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                            <p><a href="https://support.office.com/en-us/article/what-s-new-in-yammer-12116b2c-a9f4-40a5-bf6f-5e2d82f16d58" data-linktype="absolute-path">Release notes for desktop, web, and mobile versions</a></p> <br/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    
 
 </ul>
 <hr>
@@ -301,8 +334,8 @@ Build communities and collaboration in your organization with Yammer.
                         <h3>Integrate with other apps</h3>
                         <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/integrate-with-other-applications" data-linktype="absolute-path">Integrate with other applications</a></p> 
                         <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/yammer-and-newsfeed" data-linktype="absolute-path">Yammer and Newsfeed</a></p> 
-                        <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site" data-linktype="absolute-path">Embed a Yammer feed in a SharePoint site</a></p> 
-                        <p><a href="/en-us/SharePoint/administration/administration" data-linktype="absolute-path">Yammer and SharePoint Server</a></p> 
+                        <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site" data-linktype="absolute-path">Include a Yammer feed in a SharePoint page</a></p> 
+                        <p><a href="https://docs.microsoft.com/en-us/SharePoint/administration/integrate-yammer-with-on-premises-sharepoint-server-environments" data-linktype="absolute-path">Yammer and SharePoint Server</a></p> 
                         <p><a href="https://docs.microsoft.com/en-us/connectors/yammer/" data-linktype="absolute-path">Use the Yammer connector in other apps</a></p>
                         <p><a href="https://developer.microsoft.com/yammer" data-linktype="absolute-path">Yammer developer documentation</a></p> 
                     </div>
