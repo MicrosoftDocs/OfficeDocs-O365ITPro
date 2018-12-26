@@ -108,39 +108,39 @@ Depending on your Office 365 subscription, here are the available reports.
   
 - [Skype for Business Online activity](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/activity-report)
   
-- [Skype for Business Online conference organized activity](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/conference-organizer-activity-report )
+- [Skype for Business Online conference organized activity](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/conference-organizer-activity-report)
   
-- [Skype for Business Online conference participant activity](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/conference-participant-activity-report )
+- [Skype for Business Online conference participant activity](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/conference-participant-activity-report)
   
-- [Skype for Business Online peer-to-peer activity](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/peer-to-peer-activity-report )
+- [Skype for Business Online peer-to-peer activity](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/peer-to-peer-activity-report)
   
 ::: moniker range="o365-worldwide"
 
-[Yammer activity](yammer-activity-report.md)
+- [Yammer activity](yammer-activity-report.md)
 
 ::: moniker-end
 
 ::: moniker range="o365-worldwide"
 
-[Yammer device usage](yammer-device-usage-report.md)
+- [Yammer device usage](yammer-device-usage-report.md)
 
 ::: moniker-end
 
 ::: moniker range="o365-worldwide"
 
-[Yammer groups activity report](yammer-groups-activity-report.md)
+- [Yammer groups activity report](yammer-groups-activity-report.md)
 
 ::: moniker-end
 
 ::: moniker range="o365-worldwide"
 
-[Microsoft Teams user activity](microsoft-teams-user-activity.md)
+- [Microsoft Teams user activity](microsoft-teams-user-activity.md)
 
 ::: moniker-end
 
 ::: moniker range="o365-worldwide"
 
-[Microsoft Teams device usage](microsoft-teams-device-usage.md)
+- [Microsoft Teams device usage](microsoft-teams-device-usage.md)
 
 ::: moniker-end
 

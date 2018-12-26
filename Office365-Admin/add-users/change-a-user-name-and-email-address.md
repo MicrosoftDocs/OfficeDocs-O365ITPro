@@ -64,11 +64,15 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
 6. You'll see a big yellow warning that you're about to change the person's sign-in information. Choose **Save**, then **Close**.
     
 7. Tell the person the following information:
-    
+ 
+  - This change may take a while to take effect.
+  
   - What their new username is. They'll need it to sign in to Office 365.
     
   - If they are using Skype for Business Online, tell them they will need to reschedule any Skype for Business Online meetings that they organized, and that they will need to tell their external contacts to update the old contact information.
-    
+
+  - If they are using OneDrive, tell them that the URL to this location has been changed. If they have OneNote notebooks in their OneDrive, then they may need to close and reopen them in OneNote. If they have shared files from their OneDrive, then the links to the files may not work and the user can reshare.    
+  
   - If their password changed too, tell them that they will be prompted to enter the new password on their mobile device, or it won't sync.
     
 ## Change a user's display name

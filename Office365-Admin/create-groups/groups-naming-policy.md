@@ -23,7 +23,10 @@ description: "Learn how to create a naming policy for Office 365 groups. "
 
 # Office 365 Groups naming policy
 
-**The information in topic applies to the public preview release of the groups naming policy feature.**|
+**The information in topic applies to the public preview release of the groups naming policy feature.**
+
+> [!IMPORTANT]
+> Before you begin, you must have already created your group settings using [Azure Active Directory cmdlets](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-settings-cmdlets).
    
 You use a group naming policy to enforce a consistent naming strategy for Office 365 groups created by users in your organization. A naming policy can help you and your users identify the function of the group, membership, geographic region, or who created the group. The naming policy can also help categorize groups in the address book. You can use the policy to block specific words from being used in group names and aliases.
   
@@ -168,7 +171,7 @@ At the message about an untrusted repository, type **Y**. It will take a minute 
     
   ![Enter your Office 365 credentials](../media/a2b4e2f3-436f-4a6c-b571-1a192698acea.png)
   
-Follow the steps in [Azure Active Directory cmdlets for configuring group settings](https://go.microsoft.com/fwlink/p/?LinkID=858519) to create group settings. 
+Follow the steps in [Azure Active Directory cmdlets for configuring group settings](https://go.microsoft.com/fwlink/p/?LinkID=858519) to configure group settings. 
   
  **View the current settings**
   

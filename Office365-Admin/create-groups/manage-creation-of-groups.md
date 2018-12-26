@@ -37,11 +37,11 @@ This article explains how to disable the ability to create groups **in all Offic
     
 - Yammer
     
-- Microsoft Teams: Both admins and users won't be able to create teams.
+- Microsoft Teams
     
-- StaffHub: Both admins and managers won't be able to create teams.
+- StaffHub
     
-- Planner: Users won't be able to create a new plan in Planner web and mobile apps.
+- Planner
     
 - PowerBI
     
@@ -63,23 +63,27 @@ To control who creates Office 365 Groups, you use Windows PowerShell, which is a
   A conflicting object with one or more of the specified property values is present in the directory.
   ```
 
-- The steps in this article don't prevent members of the following roles from creating Office 365 Groups in the Office 365 admin center. **However, it does prevent them from creating Office 365 Groups from the apps and it prevents them from creating teams (because you can't create teams in the Office 365 admin center).**
+- The steps in this article doesn't prevent members of certain roles from creating Office 365 Groups. Office 365 Global admins may create Office 365 Groups via any means, such as the Office 365 Admin center, Planner, Teams, Exchange, and SharePoint Online. Other roles may create Office 365 Groups via limited means, listed below.
+        
+  - Exchange Administrator: Exchange Admin center, Azure AD
     
-  - Office 365 Global admins
+  - Partner Tier1 Support: Office 365 Admin center, Exchange Admin center, Azure AD
     
-  - Mailbox Administrator
+  - Partner Tier2 Support: Office 365 Admin center, Exchange Admin center, Azure AD
     
-  - Partner Tier1 Support
-    
-  - Partner Tier2 Support
-    
-  - Directory Writers
+  - Directory Writers: Azure AD
+
+  - SharePoint Administrator: SharePoint Admin center, Azure AD
+  
+  - Teams Service Administrator: Teams Admin center, Azure AD
+  
+  - User Management Administrator: Office 365 Admin center, Azure AD
     
     If you're a member of one of these roles, you can create Office 365 Groups for restricted users, and then assign the user as the owner of the group.
     
 - It's important that you use a **security group** - as described in Step 1 of this article - to restrict who can create Office 365 groups. Don't try to use an Office 365 Group for this. If you try to use an Office 365 Group, members won't be able to create a group from SharePoint because it checks for a security group. 
     
-- Setting  `Set-MSOLCompanySettings -UsersPermissionToCreateGroupsEnabled $True` only enables permissions for users to create Security groups, not Office 365 groups. For more information about this cmdlet, see [Set-Msolcompanysettings](https://go.microsoft.com/fwlink/?linkid=854599).
+- Setting `Set-MSOLCompanySettings -UsersPermissionToCreateGroupsEnabled $True` only enables permissions for users to create Security groups, not Office 365 groups. For more information about this cmdlet, see [Set-Msolcompanysettings](https://go.microsoft.com/fwlink/?linkid=854599).
     
 - Let's say you do the steps in this article and give some people the ability to create Office 365 Groups. But for some reason they still can't create an Office 365 group using Outlook. Check that they aren't being blocked through their [OWA mailbox policy](https://go.microsoft.com/fwlink/?linkid=852135). It provides additional controls to block the creation of Office 365 groups using Outlook.
     
@@ -103,9 +107,9 @@ As a best practice, we recommend  *always*  staying current: uninstall the old A
   
 2. Check installed module:
     
-  ```
-  Get-InstalledModule -Name "AzureAD*"
-  ```
+```
+Get-InstalledModule -Name "AzureAD*"
+```
 
 3. To uninstall a previous version of AzureADPreview or AzureAD, run this command:
   
@@ -149,104 +153,97 @@ The most common mistakes are not having the preview module and typos. Instead of
     
 2. Run the following commands. Press **Enter** after each command. 
     
-  ```
-  Import-Module AzureADPreview
-   Connect-AzureAD
-  ```
+```
+Import-Module AzureADPreview
+Connect-AzureAD
+```
 
   In the **Sign in to your Account** screen that opens, enter your Office 365 admin account and password to connect you to your service, and click **Sign in**.
  ![Enter your Office 365 credentials](../media/a2b4e2f3-436f-4a6c-b571-1a192698acea.png)
   
 3. Find the name of your security group from [Step 1: Create a security group for users who need to create Office 365 Groups](#step-1-create-a-security-group-for-users-who-need-to-create-office-365-groups) by using the following syntax: 
     
-  ```
-    Get-AzureADGroup -SearchString "<Name of your security group>"
-  ```
+```
+Get-AzureADGroup -SearchString "<Name of your security group>"
+```
 
-
-  For example, I named my group AllowedtoCreateGroups. So I would run:
+For example, I named my group AllowedtoCreateGroups. So I would run:
     
+```
+Get-AzureADGroup -SearchString "AllowedtoCreateGroups"
+```
 
-
-  ```
-    Get-AzureADGroup -SearchString "AllowedtoCreateGroups"
-  ```
-
-
-  This will display the properties of my AllowedtoCreateGroups security group.
+This will display the properties of my AllowedtoCreateGroups security group.
     
-  ![Group information through Azure AD PowerShell](../media/c68aea8b-53c3-4103-900b-d8e6f9fbf2d7.png)
+![Group information through Azure AD PowerShell](../media/c68aea8b-53c3-4103-900b-d8e6f9fbf2d7.png)
   
   You can see that the **ObjectID** property value of my AllowedtoCreateGroups group is  `afc88...` You don't need to write down the **ObjectID** of your security group, but you'll need to be able to recognize it in a later step. 
     
 4. Run this command:
     
-  ```
-    $Template = Get-AzureADDirectorySettingTemplate | where {$_.DisplayName -eq 'Group.Unified'}
-  ```
+```
+$Template = Get-AzureADDirectorySettingTemplate | where {$_.DisplayName -eq 'Group.Unified'}
+```
 
 5. Run this command:
     
-  ```
-    $Setting = $Template.CreateDirectorySetting()
-  ```
+```
+$Setting = $Template.CreateDirectorySetting()
+```
 
 6. Run this command:
     
-  ```
-    New-AzureADDirectorySetting -DirectorySetting $Setting
-  ```
+```
+New-AzureADDirectorySetting -DirectorySetting $Setting
+```
 
-  If you get an error like this skip to step 7. The error message means you don't need to do step 6.
+If you get an error like this skip to step 7. The error message means you don't need to do step 6.
     
-  ![If you get an error message, skip to step 7.](../media/f00ddf3f-a58f-4cc0-8d70-8ee60cfc5c92.png)
+![If you get an error message, skip to step 7.](../media/f00ddf3f-a58f-4cc0-8d70-8ee60cfc5c92.png)
   
-  Otherwise, upon successful completion, the cmdlet returns the ID of the new settings object.
+Otherwise, upon successful completion, the cmdlet returns the ID of the new settings object.
     
 7. Run this command:
     
-  ```
-    $Setting = Get-AzureADDirectorySetting -Id (Get-AzureADDirectorySetting | where -Property DisplayName -Value "Group.Unified" -EQ).id
-  ```
+```
+$Setting = Get-AzureADDirectorySetting -Id (Get-AzureADDirectorySetting | where -Property DisplayName -Value "Group.Unified" -EQ).id
+```
 
 8. Run this command:
     
-  ```
-    $Setting["EnableGroupCreation"] = $False
-  ```
+```
+$Setting["EnableGroupCreation"] = $False
+```
 
 9. Use this syntax:
     
-  ```
-    $Setting["GroupCreationAllowedGroupId"] = (Get-AzureADGroup -SearchString "<Name of your security group>").objectid
-  ```
+```
+$Setting["GroupCreationAllowedGroupId"] = (Get-AzureADGroup -SearchString "<Name of your security group>").objectid
+```
 
-
-  
-  For example, I named my group AllowedtoCreateGroups, so I would run this command:
+For example, I named my group AllowedtoCreateGroups, so I would run this command:
     
-
-  ```
-    $Setting["GroupCreationAllowedGroupId"] = (Get-AzureADGroup -SearchString "AllowedtoCreateGroups").objectid
-  ```
+```
+$Setting["GroupCreationAllowedGroupId"] = (Get-AzureADGroup -SearchString "AllowedtoCreateGroups").objectid
+```
 
 10. Run this command:
     
-  ```
-    Set-AzureADDirectorySetting -Id (Get-AzureADDirectorySetting | where -Property DisplayName -Value "Group.Unified" -EQ).id -DirectorySetting $Setting
-  ```
+```
+Set-AzureADDirectorySetting -Id (Get-AzureADDirectorySetting | where -Property DisplayName -Value "Group.Unified" -EQ).id -DirectorySetting $Setting
+```
 
 11. To verify your security group CAN create groups, and everyone else in your organization can't, run this command:
     
-  ```
-    (Get-AzureADDirectorySetting).Values
-  ```
+```
+(Get-AzureADDirectorySetting).Values
+```
 
-  The result should look like this (but with the **ID** value for your security group - this is where you need to be able to recognize it): 
+The result should look like this (but with the **ID** value for your security group - this is where you need to be able to recognize it): 
     
-  ![This is what your settings will look like when you're done.](../media/952cd982-5139-4080-9add-24bafca0830c.png)
+![This is what your settings will look like when you're done.](../media/952cd982-5139-4080-9add-24bafca0830c.png)
   
-  Only members of the **AllowedtoCreateGroups** security group ( **Afc88abb.....** ) can create groups. No one else can, as indicated by **EnableGroupCreation = False**.
+Only members of the **AllowedtoCreateGroups** security group ( **Afc88abb.....** ) can create groups. No one else can, as indicated by **EnableGroupCreation = False**.
     
 ## Step 3: Verify that it works
 
@@ -256,11 +253,11 @@ The most common mistakes are not having the preview module and typos. Instead of
     
 3. In Planner, in choose **New Plan** to create a plan. 
     
-    ![In Planner, choose New plan.](../media/4cf6163e-bf86-4ece-9cba-409df7f6d193.png)
+![In Planner, choose New plan.](../media/4cf6163e-bf86-4ece-9cba-409df7f6d193.png)
   
 4. You should get a message that you can't create a plan:
     
-    ![Message that you can't create a plan.](../media/9add4ae1-4e3b-4f4f-90ea-5af94d8018d1.png)
+![Message that you can't create a plan.](../media/9add4ae1-4e3b-4f4f-90ea-5af94d8018d1.png)
   
 ## What should I do if it doesn't work?
 
@@ -273,9 +270,8 @@ If this doesn't fix the problem, [call us for help](../contact-support-for-busin
 Let's say after a while you want to remove the limit you put on who can create groups. Run this command:
   
 ```
-  $SettingId = Get-AzureADDirectorySetting -All $True | where-object {$_.DisplayName -eq "Group.Unified"}
+$SettingId = Get-AzureADDirectorySetting -All $True | where-object {$_.DisplayName -eq "Group.Unified"}
 Remove-AzureADDirectorySetting -Id $SettingId.Id
-
 ```
 
 ## More information on managing groups
@@ -294,8 +290,8 @@ Several Office 365 services **require** the ability to create Office 365 Groups 
   
 You might want tighter control of Office 365 Group creation and prefer that not everyone can create them - that only users of Office 365 services that require Office 365 Groups creation are allowed to create them.
   
-> [!NOTE]
-> Note that while you have the ability to control which users can create Office 365 Groups, it does not impact the ability of all licensed users to participate in group activities, such as creating tasks in Planner or responding to conversations in Outlook. 
+>[!NOTE]
+>Note that while you have the ability to control which users can create Office 365 Groups, it does not impact the ability of all licensed users to participate in group activities, such as creating tasks in Planner or responding to conversations in Outlook. 
   
 ### Edit an existing Group settings object
 
@@ -303,85 +299,85 @@ If you had previously created a Group settings object, and need to change the va
   
 1. Open a Windows PowerShell window on your computer and run the following command:
     
-  ```
-  Import-Module AzureADPreview
-  Connect-AzureAD
-  ```
+```
+Import-Module AzureADPreview
+Connect-AzureAD
+```
 
 
-  In the **Sign in to your Account** screen that opens, enter your credentials to connect you to your service, and click **Sign in**.
+In the **Sign in to your Account** screen that opens, enter your credentials to connect you to your service, and click **Sign in**.
     
-  ![Enter your Office 365 credentials](../media/a2b4e2f3-436f-4a6c-b571-1a192698acea.png)
+![Enter your Office 365 credentials](../media/a2b4e2f3-436f-4a6c-b571-1a192698acea.png)
   
 2. After connecting to your Office 365 service, you first need to **reference the Group settings object that contains the configuration settings**. To do this, you will need the ObjectId for it. If you don't know the ObjectId, you can search for it by typing and entering the following cmdlet: 
     
-  ```
-  Get-AzureADDirectorySetting
-  ```
+```
+Get-AzureADDirectorySetting
+```
 
- This will display the current Group settings object, including its ObjectId.
+This will display the current Group settings object, including its ObjectId.
     
- ![Example of values that might appear](../media/619b0a53-1070-43e4-9df6-3970b21a2ce0.png)
+![Example of values that might appear](../media/619b0a53-1070-43e4-9df6-3970b21a2ce0.png)
   
- ![Find Group Settings object](../media/064dc2a5-705b-442f-a9d3-3a70491be412.png)
+![Find Group Settings object](../media/064dc2a5-705b-442f-a9d3-3a70491be412.png)
   
 3. After finding the ObjectID for the Groups Settings object, you can use it to **select the Group settings object that contains your settings**. Type and enter the following cmdlet: 
     
-  ```
-  $setting=Get-AzureADDirectorySetting -Id <ObjectId>
-  ```
+```
+$setting=Get-AzureADDirectorySetting -Id <ObjectId>
+```
 
-  For example, using the ObjectId in the graphic above
+For example, using the ObjectId in the graphic above
     
-  ```
-  $setting=Get-AzureADDirectorySetting -id d634c419-bde2-4ebb-880e-a1dc4a1904cb
-  ```
+```
+$setting=Get-AzureADDirectorySetting -id d634c419-bde2-4ebb-880e-a1dc4a1904cb
+```
 
-  You will be returned to a prompt in the Windows Azure Active Directory Module.
+You will be returned to a prompt in the Windows Azure Active Directory Module.
     
 4. After selecting the Group settings object, you should **check the current configuration values** by typing and entering the following: 
     
-  ```
-  $setting.values
-  ```
+```
+$setting.values
+```
 
-  ![Screenshot of list of the current configuration values](../media/4ace7a26-aa9e-481d-8af1-8cce66e75127.png)
-  
-  This will display the setting values for the Group settings object and will return you to a prompt in the Windows Azure Active Directory Module. In the example above  *GroupCreationAllowedGroupId*  indicates that members of the security group **1f8f32...** can create groups. And because  *EnableGroupCreation*  = "False" no one else in the company can create groups. 
+![Screenshot of list of the current configuration values](../media/4ace7a26-aa9e-481d-8af1-8cce66e75127.png)
+
+This will display the setting values for the Group settings object and will return you to a prompt in the Windows Azure Active Directory Module. In the example above  *GroupCreationAllowedGroupId*  indicates that members of the security group **1f8f32...** can create groups. And because  *EnableGroupCreation*  = "False" no one else in the company can create groups. 
     
 5. Now you can **make specific changes to the Group setting values**. As an example, you can use the following cmdlet if you want to point to a different group to allow Group creation: 
     
-  ```
-  $settings["GroupCreationAllowedGroupId"] = "<object ID for the new group>"
-  ```
+```
+$settings["GroupCreationAllowedGroupId"] = "<object ID for the new group>"
+```
 
-  For example, let's change from the  *AllowedtoCreateGroups*  group we previously set, to a different group we had created with an ObjectId of **3054dce3-37e6-437a-a817-2363272cac1c**: 
-    
-  ```
-  $settings["GroupCreationAllowedGroupId"] = "3054dce3-37e6-437a-a817-2363272cac1c"
-  ```
+For example, let's change from the  *AllowedtoCreateGroups*  group we previously set, to a different group we had created with an ObjectId of **3054dce3-37e6-437a-a817-2363272cac1c**:
+  
+```
+$settings["GroupCreationAllowedGroupId"] = "3054dce3-37e6-437a-a817-2363272cac1c"
+```
 
-  After configuring your settings, you will be returned to a prompt in the Windows Azure Active Directory Module.
+After configuring your settings, you will be returned to a prompt in the Windows Azure Active Directory Module.
     
 6. After configuring your new settings, you can **apply the settings directly to the Group settings object** by typing and entering the following: 
     
-  ```
-  Set-AzureADDirectorySetting -Id <object ID for the new group> -DirectorySetting $Setting
-  ```
+```
+Set-AzureADDirectorySetting -Id <object ID for the new group> -DirectorySetting $Setting
+```
 
-  For example, using the ObjectID of the Group settings object we are editing:
-    
-  ```
-  Set-AzureADDirectorySetting -Id d634c419-bde2-4ebb-880e-a1dc4a1904cb -DirectorySetting $Setting
-  ```
+For example, using the ObjectID of the Group settings object we are editing:
 
-  You will be returned to a prompt in the Windows Azure Active Directory Module.
+```
+Set-AzureADDirectorySetting -Id d634c419-bde2-4ebb-880e-a1dc4a1904cb -DirectorySetting $Setting
+```
+
+You will be returned to a prompt in the Windows Azure Active Directory Module.
     
 7. You can **verify that you Group settings have been updated** by running the $settings.values cmdlet and verifying the values. 
     
-    ![Group settings object with changed value](../media/0d0fec8d-28d4-4612-96de-3e416eb2fdd7.png)
-  
-    Notice that the  *GroupCreationAllowedGroupId*  setting has changed to your new group. 
+  ![Group settings object with changed value](../media/0d0fec8d-28d4-4612-96de-3e416eb2fdd7.png)
+
+  Notice that the  *GroupCreationAllowedGroupId*  setting has changed to your new group. 
     
 ## Related articles
 
