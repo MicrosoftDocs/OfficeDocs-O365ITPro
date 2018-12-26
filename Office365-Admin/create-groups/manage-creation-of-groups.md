@@ -352,7 +352,7 @@ $settings["GroupCreationAllowedGroupId"] = "<object ID for the new group>"
 ```
 
 For example, let's change from the  *AllowedtoCreateGroups*  group we previously set, to a different group we had created with an ObjectId of **3054dce3-37e6-437a-a817-2363272cac1c**:
-    
+  
 ```
 $settings["GroupCreationAllowedGroupId"] = "3054dce3-37e6-437a-a817-2363272cac1c"
 ```
