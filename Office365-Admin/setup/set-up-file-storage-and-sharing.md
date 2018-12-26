@@ -45,7 +45,7 @@ Office 365 includes a basic team site for you to get started. You can immediatel
     
 Both OneDrive and team sites provide anywhere access for you and your employees.
   
-![A diagram of how you can use two types of storage: OneDrive or Team sites](../media/7493131e-665f-4dbd-9a60-f5612aea7e42.png)
+![A diagram that shows how Office 365 products can use OneDrive or Team sites](../media/7493131e-665f-4dbd-9a60-f5612aea7e42.png)
   
 Here are recommendations for what to store in each location when you use OneDrive and team sites together:
   
