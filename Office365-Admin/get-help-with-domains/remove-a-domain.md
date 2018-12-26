@@ -111,7 +111,7 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 2. Choose **Groups** \> **Groups**. 
     
-3. Select the box for any group or distribution listassociated with the domain that you want to remove.
+3. Select the box for any group or distribution list associated with the domain that you want to remove.
     
 4. In the right pane, next to the group name, choose **Edit**.
     
