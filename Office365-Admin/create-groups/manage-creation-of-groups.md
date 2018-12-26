@@ -85,7 +85,7 @@ To control who creates Office 365 Groups, you use Windows PowerShell, which is a
     
 ## Install the preview version of the Azure Active Directory PowerShell for Graph
 
- **IMPORTANT**: You cannot install both the preview and GA versions on the same computer at the same time **.**
+ **IMPORTANT**: You cannot install both the preview and GA versions on the same computer at the same time (The module Installation can be done on Windows 10, Windows Server 2016)**.**
   
 As a best practice, we recommend  *always*  staying current: uninstall the old AzureADPreview or old AzureAD version and get the latest one. 
   
