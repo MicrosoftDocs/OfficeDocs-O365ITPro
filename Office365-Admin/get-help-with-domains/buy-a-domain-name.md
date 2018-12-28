@@ -37,6 +37,8 @@ description: "Learn how to buy a domain name in Office 365."
 
 # Buy a domain name in Office 365
 
+You can buy and use a custom domain name if you have an Office 365 Business, Business Premium, or Business Essentials subscription.
+
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
   
 ### Sign in and click Settings \> Domains \> Buy a domain
