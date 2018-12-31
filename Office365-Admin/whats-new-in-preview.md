@@ -24,7 +24,7 @@ Want to know how to participate in the preview? Checkout [About the Microsoft 36
 ## December 2018
 - **Services & add-ins** - In October we updated **Settings** \> **Services & add-ins** with our new design style, but all of the settings pages were still in the classic style. This month, we've started updating the actual settings to the new design. Check out **Bookings** to see the new look.
 - **User management** - Manage username, alias, primary email address.
-- We've added two Home cards to the library. You can read thier full descriptions in the library.
+- We've added two Home cards to the library. You can read their full descriptions in the library.
     - **Intune Device enrollment**
     - **Domains**
 - **Recommendations** - You might see a new recommendation pop-up in your admin center. Of course, you'll only see recommendations if we think it will benefit your organization. But don't wait until we show you the recommendation - you can add it from the card library.
