@@ -17,11 +17,19 @@ description: "Microsoft 365 admin center preview - learn about the features that
 ---
 
 # What's new in Microsoft 365 admin center preview
-
 We're continuously adding new features to the Microsoft 365 admin center preview, fixing issues we learn about, and making changes based on your feedback. As the new admin center is getting built, you'll want to know about what's getting added, what's new, and what's being removed. Take a look below to see what's available for you today.
 
 Want to know how to participate in the preview? Checkout [About the Microsoft 365 admin center preview](microsoft-365-admin-center-preview.md).
   
+## December 2018
+- **Services & add-ins** - In October we updated **Settings** \> **Services & add-ins** with our new design style, but all of the settings pages were still in the classic style. This month, we've started updating the actual settings to the new design. Check out **Bookings** to see the new look.
+- **User management** - Manage username, alias, primary email address.
+- We've added two Home cards to the library. You can read thier full descriptions in the library.
+    - **Intune Device enrollment**
+    - **Domains**
+- **Recommendations** - You might see a new recommendation pop-up in your admin center. Of course, you'll only see recommendations if we think it will benefit your organization. But don't wait until we show you the recommendation - you can add it from the card library.
+    - **Protect sensitive info** - We recommend creating a data loss prevention (DLP) policy to detect when items containing sensitive info are shared with people outside your organization.
+
 ## November 2018
 - The Search box is back! And we moved it slightly. It's still at the top of the Home page, but it's now on the right-side of the page near the **Add card** button. <br> ![Screen capture explaining that the search box is located in the upper right-side of the Home page.](media/M365PreviewSearchBox.png)
 
@@ -115,10 +123,11 @@ The following cards aren't available in admin center preview, so here's how you 
 |**View** \> **Add custom view** <br/> |**Filter** \> **New filter** <br/> |
 |**User details** \> **Sign-in status** <br/> |Select the quick action under the user's name: **Edit sign in status** <br/> |
 |**User details** \> **Product licenses** <br/> |**User details** \> **Licenses**. In addition, on the Licenses tab you can't turn the apps, products or services off or on for a particular license.  <br/> |
-|**User details** \> ** Product licenses ** \> Turn off services, products, or apps for a user  <br/> |**User details** \> **Apps**. If you turn a service or app off, it is turned off for all licenses the user has - you no longer have to turn the feature off for each individual license the user has.  <br/> |
+|**User details** \> **Product licenses** \> Turn off services, products, or apps for a user  <br/> |**User details** \> **Apps**. If you turn a service or app off, it is turned off for all licenses the user has - you no longer have to turn the feature off for each individual license the user has.  <br/> |
 |**User details** \> **Group memberships** <br/> |**User details** \> **Account** \> **Manage groups** <br/> |
 |**User details** \> **Roles** <br/> |**User details** \> **Account** \> **Manage roles** <br/> |
 |**Office installs** <br/> |**User details** \> **Account** \> **Office activations** <br/> |
+|**Reset password** <br/> |**Home** \> **User management** card \> Select the drop-down menu \> **Reset password** <br><br> OR <br><br>**Users** \> **Active users** \> Select at least one user \> **Reset password** <br/> |
    
 ### Billing
 

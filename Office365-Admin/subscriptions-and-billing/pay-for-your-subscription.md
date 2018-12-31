@@ -129,7 +129,7 @@ If you're not sure how much you owe, you can [check your bill and billing histor
 > - [China (PRC)](pay/china-prc.md)
 > - [Colombia](pay/colombia.md)
 > - [Costa Rica](pay/costa-rica.md)
-> - [Côte d'Ivoire](pay/cote-d'ivoire.md)
+> - [Côte d'Ivoire](pay/cote-divoire.md)
 > - [Croatia](pay/croatia.md)
 > - [Curacao](pay/curacao.md)
 > - [Cyprus](pay/cyprus.md)

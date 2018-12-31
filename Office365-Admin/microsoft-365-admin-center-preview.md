@@ -35,7 +35,7 @@ We would love for you to participate in the Microsoft 365 admin center preview s
 
 The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. 
 
-1. From top-right corner of any page in the classic admin center, select **Try the preview**. From the Home page, you turn it on through a toggle. On all other pages, just select the link. <br/>![Screen capture: The Preview toggle from the Home page in Microsoft 365 Admin Center preview.](media/2f76101d-37bb-4bcf-8cba-a143e880cf94.png)
+1. From top-right corner of any page in the classic admin center, select **Try the preview**. From the Home page, you turn it on through a toggle. On all other pages, just select the link. <br/> ![Screen capture: The Preview toggle from the Home page next to the Add card button.](media/2f76101d-37bb-4bcf-8cba-a143e880cf94.png)
 
 2. It may take a minute for the page to refresh. 
 
@@ -71,6 +71,29 @@ We love to hear from you! Reporting bugs and sharing feedback helps us make the 
   
 You can also give feedback from outside of the admin center on our UserVoice forum. You can use this page to make feature suggestions that can be voted on by other forum users: [UserVoice forum for admin center preview](https://go.microsoft.com/fwlink/?linkid=2024994).
   
+### Where's the search box?
+We added the Search box back in November. It's still at the top of the Home page, but it's now on the right-side of the page near the **Add card** button. <br> ![Screen capture explaining that the search box is located in the upper right-side of the Home page near add card.](media/M365PreviewSearchBox.png)
+
+### How do I get back to the classic admin center?
+Although you can switch to Preview from any page inside the classic admin center, in the Preview admin center you can only switch back to the classic admin center from the **Home** page. Navigate back to the preview admin center's **Home** page, and then switch the **Preview on** toggle to **Off**.
+ <br/> ![Screen capture: The Preview toggle from the Home page next to the Add card button.](media/2f76101d-37bb-4bcf-8cba-a143e880cf94.png)
+
+### How do I add cards to the **Home** page?
+Select the **Add card** button at the top of the admin center Home page. 
+<br> ![Screen capture explaining that the Add card link is located in the upper right-side of the Home page next to Search.](media/M365PreviewSearchBox.png)
+
+When the card library is open, drag the cards to the **Home** page. <br> ![Screen capture showing the cards that are available in the card library. This will vary depending on your licenses](media/M365PreviewCardLibrary.png)
+
+
+### The password reset button used to be on the Active user card. Where did it go?
+It is still on the **User management** card, it's just a little hidden. Select the drop-down menu next to the **Edit user** button. <br> ![Screen capture explaining that the **Password reset** link is under the drop-down menu.](media/M365PreviewHomeUserMgmtCard.png)
+
+
+### What happened to my custom views in Active users?
+They are still there, we just now call them **Filters**. It's located at the far right of the page between **Search** and **Change view**. <br> ![Screen capture showing the open Filters menu with custom filters Contoso.com, contoso.ca, HR Department, and Executives as examples.](media/M365PreviewFilterNew.png)
+
+When you have a filter applied to your **Active users** list, where the link used to say **Filters** it now shows the name of the filter. In this example, the HR Department filter has been applied. <br> ![Scren capture showing the **HR Department** filter applied.](media/M365PreviewFilterActive.png)
+
 ### In user management, why are assigning licenses and enabling apps & services functionality now seperated?
 
 In the classic admin center if you wanted to prevent a user from using an app or service that they were licensed to use, you had to turn that app or service off for every assigned license that included that app or service. Microsoft received feedback that this was confusing, because the admins thought that they had turned off the service.
