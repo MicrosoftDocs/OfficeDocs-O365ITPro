@@ -51,7 +51,7 @@ We use your feedback to prioritize which features we work on.
 ## More articles about managing groups
 
     
-- [Plan for governance in Office 365 Groups](../manage/Plan_for_groups_governance.md)
+- [Plan for governance in Office 365 Groups](Plan-for-groups-governance.md)]
 - [Upgrade distribution lists to Office 365 Groups in Outlook](../manage/upgrade-distribution-lists.md)
     
 - [Why you should upgrade your distribution lists to groups in Outlook](https://support.office.com/article/7fb3d880-593b-4909-aafa-950dd50ce188.aspx)
