@@ -204,7 +204,7 @@ Build communities and collaboration in your organization with Yammer.
                         </div>
                     </div>
                     <div class="cardText">
-                            <p><a href="https://support.office.com/en-us/article/what-s-new-in-yammer-12116b2c-a9f4-40a5-bf6f-5e2d82f16d58" data-linktype="absolute-path">Release notes for desktop, web, and mobile versions</a></p> <br/>
+                            <p><a href="https://support.office.com/en-us/article/what-s-new-in-yammer-12116b2c-a9f4-40a5-bf6f-5e2d82f16d58" data-linktype="absolute-path">Release notes for Yammer clients</a></p> <br/>
                     </div>
                 </div>
             </div>
