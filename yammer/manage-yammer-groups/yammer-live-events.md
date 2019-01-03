@@ -64,10 +64,10 @@ There are two ways live events can be produced. The requirements for using live 
 Who can create live events is controlled by Stream and Teams settings and licenses. No permissions are controlled in Yammer settings. The requirements depend on the production methods you plan to use.
 
 - **Quick start production**:
-    To create a quick start live event, users must have a Teams license and specific policies set in Teams. For requirements, see [Who can create and schedule live events in Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#who-can-create-and-schedule-live-events). For steps to set policies in PowerShell, see [Use PowerShell to set live events policies in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-teams-live-events-policies-using-powershell). 
+    To create a quick start live event, users must have a Teams license and specific policies set in Teams. For requirements, see [Who can create and schedule live events in Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#who-can-create-and-schedule-live-events). For steps to set policies, see [Set up live events policies](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-3-set-up-live-events-policies). 
 
 - **External encoder production**:
-    To create an external encoder event, users must have a Stream license and permission to create live events. By default, only Microsoft Stream administrators can create external encoder live events. Use the Stream admin settings to give permission to specific unrestricted users. For steps to grant or remove permissions in Stream, see [Administration controls for live events in Stream](https://docs.microsoft.com/en-us/stream/live-event-administration).
+    To create an external encoder event, users must have a Stream license and permission to create live events. By default, only Microsoft Stream administrators can create external encoder live events. Use the Stream admin settings to give permission to specific users. For steps to grant or remove permissions in Stream, see [Administration controls for live events in Stream](https://docs.microsoft.com/en-us/stream/live-event-administration).
  
 ### Restrict creation of live events in Yammer
 
@@ -75,14 +75,14 @@ You can prevent creation of quick start live events, external encoder live event
 
 - To prevent just quick start live events, remove permissions in Teams for live event scheduling. If a user does not have a license or permission to create a live event in Teams, when they create a live event in Yammer, the quick start options are unavailable.
 
-- To prevent just external encorder live events, don't give permissions to unrestricted users. If a user does not have a license or permission to create a live event in Stream, when they try to create a live event in Yammer, the external encoder options are unavailable.
+- To prevent just external encorder live events, don't give permissions to any users. If a user does not have a license or permission to create a live event in Stream, when they try to create a live event in Yammer, the external encoder options are unavailable.
 
 - To prevent both quick start and external encoder live events, make sure Yammer users do not have permission to create live events in Stream and Teams.
 
 ## See also
 
+[Organize a live event in Yammer](https://support.office.com/article/organize-a-live-event-in-yammer-105dd7af-9caf-4a5e-8a44-56d203e96551)
+
 [Microsoft Teams live event overview](https://support.office.com/article/microsoft-teams-live-events-overview-d077fec2-a058-483e-9ab5-1494afda578a?ui=en-US&rs=en-US&ad=US)
 
 [Microsoft Stream live event overview](https://docs.microsoft.com/en-us/stream/live-event-overview)
-
-[Organize a live event in Yammer](https://support.office.com/article/organize-a-live-event-in-yammer-105dd7af-9caf-4a5e-8a44-56d203e96551)
