@@ -106,7 +106,7 @@ Even though both Kaizala and Teams are part of Office 365, there are different c
 - Both Kaizala and Microsoft Teams are at compliance Tier C everywhere Kaizala is live.
 - Both Kaizala and Microsoft Teams are geo-regional compliant everywhere Kaizala is live.
 - In other places where Kaizala is not live, the setting for interop is automatically disabled. The admin can always turn it on.
-- The organization admin can turn interop off or on from the **Settings** tab in the Kaizala management portal as shown in the following example.
+- The organization admin can turn interop off or on from the **Settings** tab in the Kaizala management portal as shown in the following screenshot.
 
 ![Screenshot of interop settings page in Kaizala management portal](media/interop-settings-teams.png)
 
