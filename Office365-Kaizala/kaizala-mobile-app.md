@@ -129,7 +129,7 @@ You can also create custom Kaizala actions. Contact kaizalaDev@microsoft.com to 
 
 Public groups let you send feedback or report issues to the organizations you want to connect with. Most organizations' end users connect with them directly and access custom Actions to improve productivity, speed, and flow of information etc. You can find and subscribe to public groups from the **Discover** \> **Public Groups** page in the Kaizala app. Tap a public group's name, and select **Subscribe to this Public Group**.
 
-## Deleting messages in Kaizala
+## Delete messages in Kaizala
 
 On Kaizala you can delete any message just for yourself, or delete a message sent by you for everyone who has received that message.
 
