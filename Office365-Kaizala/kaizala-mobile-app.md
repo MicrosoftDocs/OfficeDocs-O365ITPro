@@ -3,7 +3,7 @@ title: Kaizala mobile app
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 01/04/2019
+ms.date: 01/07/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: Kaizala
@@ -83,31 +83,31 @@ The Kaizala management portal is a web-based portal that provides access to mana
 
 You can send **Actions** by tapping the \<palette\> icon from the top right corner of a conversation. Built in Kaizala Actions help you coordinate frequently-used tasks for common workflow scenarios. You can find and use Kaizala Actions from the **Discover** page in the app. The available Kaizala Actions include: 
   
-- **Announcement** -- Use to make key announcements or share updates with your team. Announcements are a great way to share a message across groups in an organization or in a public group. Engage with your audience about the announcement using likes and comments. 
+- **Announcement** - Use to make key announcements or share updates with your team. Announcements are a great way to share a message across groups in an organization or in a public group. Engage with your audience about the announcement using likes and comments. 
     
-- **Job** -- Use to assign jobs to people and track their completion status through chat messages. The job creator and the assignee, can add quick comments to indicate the progress of the work. Other members of the group can also comment on the job and status. 
+- **Job** - Use to assign jobs to people and track their completion status through chat messages. The job creator and the assignee, can add quick comments to indicate the progress of the work. Other members of the group can also comment on the job and status. 
     
-- **Let's Meet** -- Use to send quick meeting invitations. The invitee can respond to the invite within the chat and confirm whether they can meet. 
+- **Let's Meet** - Use to send quick meeting invitations. The invitee can respond to the invite within the chat and confirm whether they can meet. 
     
-- **Live Location** -- Use to request for the location of a colleague or friend. Users get a choice to share their location with you for a specified duration of time. Location can be tracked in real-time. 
+- **Live Location** - Use to request for the location of a colleague or friend. Users get a choice to share their location with you for a specified duration of time. Location can be tracked in real-time. 
     
-- **Photo with Location** -- Use to share real-time photo information with others, along with the GPS coordinates which show where the photo was taken. For example, with a single tap, team members can share a geo-tagged picture with others. This can be used to confirm that a specific task has been completed at a specific location. It can also be used for location-based attendance. 
+- **Photo with Location** - Use to share real-time photo information with others, along with the GPS coordinates which show where the photo was taken. For example, with a single tap, team members can share a geo-tagged picture with others. This can be used to confirm that a specific task has been completed at a specific location. It can also be used for location-based attendance. 
     
-- **Share Location** -- Use to share the location of your team members or phonebook contacts using Kaizala. This helps in coordinating with all team members. 
+- **Share Location** - Use to share the location of your team members or phonebook contacts using Kaizala. This helps in coordinating with all team members. 
     
-- **Quick Poll** -- Use to design a custom poll to gather information from your team or from your customers. Respondents can then respond to the poll quickly and easily. Responses are updated in real-time and are presented in an easy-to-read way. You can also create poll questions with predefined responses. 
+- **Quick Poll** - Use to design a custom poll to gather information from your team or from your customers. Respondents can then respond to the poll quickly and easily. Responses are updated in real-time and are presented in an easy-to-read way. You can also create poll questions with predefined responses. 
     
-- **Request Location** -- Use to request the current location of Kaizala users. This helps in areas of marking attendance, or tracking the presence of your team at any point in time.
+- **Request Location** - Use to request the current location of Kaizala users. This helps in areas of marking attendance, or tracking the presence of your team at any point in time.
     
-- **Submit Bill** -- Use to quickly capture the photo of an invoice and share it with details. 
+- **Submit Bill** - Use to quickly capture the photo of an invoice and share it with details. 
     
-- **Survey** -- Use a poll and a survey in similar ways except for the following: 
+- **Survey** - Use a poll and a survey in similar ways except for the following: 
     
   - In a poll, you can only ask one question. In a survey you can ask multiple questions. 
     
   - In a poll, you can only set the multiple choice format for a response. Conversely, in a survey, you can choose multiple formats for responses: multiple choice, text, numbers or even an image.
     
-- **Checklist** -- Use to share a list of tasks with a person or a group, and have them individually complete each task. 
+- **Checklist** - Use to share a list of tasks with a person or a group, and have them individually complete each task. 
     
   -  Create to-do lists and capture everyone's status.
     
@@ -139,7 +139,7 @@ This allows you to delete any message you have sent in a 1:1 chat or a group. It
 
 When you delete a message for everyone it is replaced with text *“You deleted this message”* for you and when that message is successfully deleted for recipients it is replaced with text *“This message was deleted”*. 
 
-In organization groups admins can delete for everyone messages sent by other group members as well. In this case for recipients the message is replaced with text *“Admin deleted this message”.
+In organization groups admins can delete for everyone messages sent by other group members as well. In this case for recipients the message is replaced with text *“Admin deleted this message”*.
 
 To delete a message for everyone:
 
