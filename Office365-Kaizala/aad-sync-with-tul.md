@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 01/03/2018
+ms.date: 01/08/2018
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -21,23 +21,21 @@ description: Learn how to enable and disable Azure Active Directory (AAD) sync f
 
 # AAD sync with Kaizala Tenant User List
 
-The Azure Active Directory (AAD) sync feature lets you sync user information in AAD with the Kaizala Tenant User List (TUL). As an admin, you can import data and sync changes occurring in your on-premises AAD. You can use this feature for:
+The Azure Active Directory (AAD) sync feature lets you sync user information in AAD with the Kaizala Tenant User List (TUL). As an admin, you can import data and sync changes occurring in your AAD. You can use this feature for:
 
-- **User management** - Any new user changes in the directory is automatically synced with the organization admin and associated groups. For example, if a user’s phone number is changed in the AAD, the information will be updated in TUL as well as in the organization groups. Similarly, if a user is deleted from the organization’s AAD, the user is automatically removed from TUL and the organization groups.
+- **User management** - Any user changes in AAD are automatically synced with the organization directory and associated groups. For example, if a user’s phone number is changed in the AAD, the information will be updated in the organization directory. Similarly, if a user is deleted from the organization’s AAD, the user is automatically removed from the organization group.
 
 - **Dynamic group management** - Allows you to dynamically create and manage groups based on rules and user attributes. For example, you can set a rule to create a group for employees with the *Senior Manager* designation in the *Finance* department.
 
-### Prerequisites
+### Prerequisite
 
-- You must be a Kaizala organization admin with a Kaizala Pro license. 
-- Your organization must also have licenses for Microsoft Exchange and SharePoint Online.
+You must be a Kaizala organization admin with a Kaizala Pro license. 
 
 ## How the AAD sync feature works
 
-- Any new users added in the AAD of the organization will be added automatically to the TUL.
-- Users deleted from the AAD will be automatically removed from the TUL and all organization groups.
-- Any information change in the AAD will sync with the TUL. For example, if the phone number of a user is changed in the AAD, the number will be automatically updated in all the organization groups. 
-- You can import data from a CSV file. However, imported data can be edited unlike AAD synced data that is updated directly only from the directory.
+- New users added in the AAD of the organization are automatically added to the organization directory.
+- Users deleted from the AAD are automatically removed from the organization directory and all organization groups.
+- Any information change in the AAD will sync with the TUL. For example, if designation of a user is changed in the AAD, the change is automatically reflected in the organization directory. 
 
 ## Configure the AAD-TUL sync
 
@@ -52,7 +50,7 @@ To configure the AAD and Kaizala TUL sync:
 ![Screenshot of the Add Users window in AAD Sync.](media/aad-sync-configure.png)
 
 4. Under **AAD Sync**, in the **Manage Mapping** section:
-   - Review and edit name, phone number, and city information of the user to sync with ADD Attribute.
+   - Review and edit name, phone number, and city information of the user to sync with ADD attribute.
    - Select **Add New Attribute** to add more information. 
 
 ![Screenshot of the Manage Mapping window in AAD Sync.](media/aad-sync-attributes.png)
@@ -61,6 +59,8 @@ To configure the AAD and Kaizala TUL sync:
    - Select **One-time** to sync just once.
    - Select **Recurring** to sync every day. 
 
-6. Select **Next** to start the ADD-TUL data sync. You can check the logs to see the frequency. 
+6. Select **Next** to start the ADD-TUL data sync. 
    > [!NOTE]
    > After you select **Next**, the sync process will start and it will take some time for the process to complete. The AAD sync will happen regularly based on the frequency set by you.
+
+7. You can check the sync status through logs.
