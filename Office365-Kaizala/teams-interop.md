@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 01/03/2019
+ms.date: 01/08/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -20,22 +20,19 @@ description: Learn how to enable and disable interop between Kaizala and Microso
 ---
 # Interop between Kaizala and Microsoft Teams
 
-Kaizala is designed to connect an organization’s external network (such as vendors) with its internal employees (such as information workers). The overarching goal is to let Kaizala users chat with Microsoft Teams users.
+Kaizala-Teams interop is an initiative that will help your organization complete the workflows between your inner loop (for example, information workers) and your outer loop (for example, vendors). The overarching goal here is to let Kaizala users chat with Microsoft Teams users.
 
-The first step is to enable interoperability (interop) between two Kaizala users within the same organization for individual messages.
-
-Based on feedback from partners and customers, we will increase the scope of interop and include rich message types for groups (such as attachments). Watch this article for details about improvements in the interop feature.
+We are starting with enabling interop on all text messages in [organization chats](https://support.office.com/article/organization-chats-and-groups-in-kaizala-c8a7855c-d232-4914-811c-f6708734dcc3). Our intent is to expand to enable interop with Teams-only users, for all message types and groups. Watch this article for details about improvements in the interop feature.
 
 ## How interop works with Microsoft Teams 
 
 ### Conditions for interop to work 
 
-- Currently, users must be registered on Kaizala and be on Microsoft Teams. Once registered, the user does not need to open Kaizala.
-- Our goal is to let Kaizala and Microsoft Teams users interop while being only on Microsoft Teams.
+For the first phase, users must be registered on both Kaizala and Microsoft Teams. We are working to enable interop between Kaizala and Teams-only users.
 
 ### Set up interop with Microsoft Teams   
 
-Interop with Microsoft Teams is automatically set up for organizational one-on-one chat *(Link to org chat - TBD)*.
+Interop with Microsoft Teams is automatically set up for [organizational one-on-one chat](https://support.office.com/en-us/article/organization-chats-and-groups-in-kaizala-c8a7855c-d232-4914-811c-f6708734dcc3).
 
 To set up interop with Microsoft Teams:
 
@@ -66,7 +63,6 @@ After interop ends, users can still chat independently on Microsoft Teams after 
 
 ### Experience of interop with Microsoft Teams 
 
-- You can see if interop is enabled in a message on the chat canvas.
 - Messages sent in individual chat on Kaizala will be visible on Microsoft Teams.
 - You will see a notification if you message an unsupported client. For example, if you send a GIF file in Microsoft Teams, it will be visible as an unsupported message on Kaizala.
 - Any message deleted on Microsoft Teams is also deleted on Kaizala.
@@ -94,7 +90,7 @@ The following shows the interop experience for Microsoft Teams users.
 |Message     |Text     |Text message        |
 |Message     |Attachment        |Unsupported message with redirection to Kaizala |
 |Message     |GIF         |Unsupported message with redirection to Kaizala  |
-|Message     |Rich text (for example, formatted text, URL)         |Unsupported message with redirection to Kaizala |
+|Message     |Rich text (for example, formatted text, URL)         |URLs and emojis are supported. Teams formatted text is shown as simple text on Kaizala |
 |Message     |All other message types         |None         |
 |Action      |Edit         |If unsupported, then unsupported message <br> If text, reply to the original message |
 |Action      |Delete         |If unsupported, message will not be deleted <br> If text, message will be deleted |
