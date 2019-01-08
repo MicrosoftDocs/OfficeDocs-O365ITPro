@@ -103,7 +103,16 @@ For each bulk upload activity, there is a unique job that gets created. From the
   
 ### I already created a group from mobile app. How do I convert this to an organization group?
 
-By default, when a group is created from the mobile app, it's created as a private group. You can convert it to an organization group from the **Settings** page in the Kaizala admin portal. You can also convert an organization group into a private group, but you can't convert a private group to an organization group or vice-versa from the mobile app. 
+By default, when a group is created from the mobile app, it's created as a private group. You can convert it to an organization group 
+* Using [Kaizala Management portal](https://manage.kaiza.la)
+  * Click on Groups in left navigation bar 
+  * Click on 'Private' tab on groups page 
+  * Select a group and click on 'Map to Organization'
+* Using Kaizala mobile app
+  * Click on chats and open group
+  * Tap on group name 
+  * Find more(:) icon
+  * Tap on 'Add to organization'
   
 ### I am a Kaizala organization admin. I converted an organization group to a private group, which I am not a member of, and now I can't see it anymore. Where did it go?
 
