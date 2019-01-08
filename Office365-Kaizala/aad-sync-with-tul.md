@@ -35,7 +35,7 @@ You must be a Kaizala organization admin with a Kaizala Pro license.
 
 - New users added in the AAD of the organization are automatically added to the organization directory.
 - Users deleted from the AAD are automatically removed from the organization directory and all organization groups.
-- Any information change in the AAD will sync with the TUL. For example, if designation of a user is changed in the AAD, the change is automatically reflected in the organization directory. 
+- Any information changed in the AAD will sync with the TUL. For example, if designation of a user is changed in the AAD, the change is automatically reflected in the organization directory. 
 
 ## Configure the AAD-TUL sync
 
