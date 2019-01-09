@@ -176,7 +176,7 @@ To set up automatic recurring exports, use the Yammer API. For information about
   
 [Office 365 Reports in the Admin Center - Yammer activity report](https://support.office.com/article/c7c9f938-5b8e-4d52-b1a2-c7c32cb2312a)
   
-[Export Yammer group members to a .csv file](https://support.office.com/en-us/article/export-yammer-group-members-to-a-csv-file-201a78fd-67b8-42c3-9247-79e79f92b535)
+[Export Yammer group members and email addresses to a .csv file](https://support.office.com/en-us/article/export-yammer-group-members-to-a-csv-file-201a78fd-67b8-42c3-9247-79e79f92b535)
 
 [Audit Yammer user data](../manage-yammer-users/audit-users-connected-to-office-365.md)
   

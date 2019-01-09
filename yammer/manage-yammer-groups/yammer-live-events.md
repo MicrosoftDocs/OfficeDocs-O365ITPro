@@ -3,7 +3,7 @@ title: "Live events in Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 1/4/2019
+ms.date: 1/7/2019
 ms.audience: Admin
 ms.topic: overview
 ms.service: yammer
