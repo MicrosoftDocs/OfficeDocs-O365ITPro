@@ -3,7 +3,7 @@ title: "Add, block, or remove Yammer users"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 11/5/2018
+ms.date: 1/7/2019
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -251,3 +251,5 @@ Excel does not encode non-English characters in CSV files correctly. If you have
 [Manage Yammer users across their lifecycle from Office 365](manage-users-across-their-lifecycle.md)
   
 [Manage a group in Yammer](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2.aspx)
+
+[Remove a user from a group](https://support.office.com/en-us/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2#removemember)
