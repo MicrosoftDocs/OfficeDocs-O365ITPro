@@ -122,11 +122,11 @@ If you want to add several users without using the comma separated list, you can
     
   - **Status** of the exported file. This can be one of the following values : 
     
-  - **Queued** - the request has been queued. 
+    - **Queued** - the request has been queued. 
     
-  - **Completed** - the file has either been successfully exported, or partially exported due to some errors. 
+    - **Completed** - the file has either been successfully exported, or partially exported due to some errors. 
     
-  - **Failed** - the file wasn't exported successfully. Download the error log file for the upload to check out any issues. 
+    - **Failed** - the file wasn't exported successfully. Download the error log file for the upload to check out any issues. 
     
   - **Download** - Clicking the icon downloads the requested export file. 
     
