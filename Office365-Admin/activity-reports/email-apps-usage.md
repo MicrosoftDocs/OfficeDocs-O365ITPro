@@ -6,8 +6,8 @@ manager: scotv
 
 ms.audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365E_ReportsEmailClients
+:
+- 'O365E_ReportsEmaf1_keywordsilClients
 O365M_ReportsEmailClients'
 ms.service: o365-administration
 localization_priority: Normal

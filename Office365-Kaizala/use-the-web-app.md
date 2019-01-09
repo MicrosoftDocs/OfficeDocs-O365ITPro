@@ -3,7 +3,7 @@ title: Kaizala Web
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 10/31/2018
+ms.date: 01/03/2019
 ms.audience: Consumer/IW
 ms.topic: article
 ms.service: Kaizalams
@@ -51,37 +51,28 @@ You can now use Kaizala on your browser and the mobile app.
 ## What's available in Kaizala Web (Preview)?
 
 - Send, receive, and view messages.
-
 - Send, receive, and view attachments (including image, video, and document files). You can't use your computer's camera and microphone for creating new attachments.
-    
 - View and respond to some out-of-the-box and custom actions.
-
 - Use Reply-to functionality.
-
 - Copy-and-paste or drag-and-drop files to attach (including image, video, and document files).
-
 - Start 1:1 chats.
-    
+- Create a new group from the web app.
+- Receive browser notifications for new messages and updates
+
 ## Recommended setting on your mobile device
 
 - Have your phone on charge while using the web app for an extended period (to avoid app going into sleep mode).
-    
-- Connect to WiFi to avoid phone network data usage.
-    
+- Connect to WiFi to avoid phone network data usage.  
 - Disable battery optimizations on Kaizala. To do this, go to Kaizala settings and optimize your notifications.
-    
 - Do not hard close the Kaizala app.
     
 ## What's not available in Kaizala Web (Preview)?
 
-- You can't create groups via the web app currently. (Coming soon)
-
-- Browser notification for new messages. (Coming soon)
-    
-- Intune support: We can't open Intune protected groups on the web app for data protection purposes.
-    
-- You can't forward, share, or see group information. 
-    
+- Likes and comments support. (Coming soon)
+- Forward and delete functionality. (Coming soon)
+- Profile and group information. (Coming soon)
+- Intune support: We can't open Intune protected groups on the web app for data protection purposes. 
+  
 ## Report an issue or send feedback
 
 - To report an issue or send us feedback, from Kaizala Web, select **Report an issue** on the **Me** tab, or click the **Smiley** icon on the top-right. 

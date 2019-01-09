@@ -24,7 +24,7 @@ description: "Learn to convert a private mailbox to a shared mailbox that can be
   
 When you convert a user's mailbox to a shared mailbox, all of the existing email and calendar is retained. Only now it's in a shared mailbox where several people will be able to access it instead of one person. At a later date, you can convert a shared mailbox back to a user (private) mailbox.
   
- **Here are some really important things to you need to know:**
+ **Here are some really important things that you need to know:**
   
 - The user mailbox you're converting needs a license assigned to it before you convert it to a shared mailbox. Otherwise, you won't see the option to convert the mailbox. If you've removed the license, add it back so you can convert the mailbox. After converting the mailbox to a shared one, you can remove the license from the user's account.
     
