@@ -3,7 +3,7 @@ title: "Yammer admin key concepts"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 8/3/2018
+ms.date: 1/9/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -107,7 +107,7 @@ A: Yammer's system requirements are consistent with those of Office 365. See the
 #### Mobile and desktop requirements
 <a name="bk_MobileDesktop"> </a>
 
-- iOS 9 and above
+- iOS 11.0 and above
     
 - Android v4.4 and higher
     
