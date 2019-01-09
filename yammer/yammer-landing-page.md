@@ -168,6 +168,22 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/process-flow.svg" alt="Integration example: Yammer, Flow, and Azure QnA Maker" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                            <p><a href="/en-us/Yammer/integrate-with-other-applications/knowledge-base-community-flow-qna-maker" data-linktype="absolute-path">Integration example: Yammer, Flow, and Azure QnA Maker</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
                             <img src="https://docs.microsoft.com/en-us/office/media/icons/sign-up.svg" alt="AAD account required" data-linktype="external">
                         </div>
                     </div>

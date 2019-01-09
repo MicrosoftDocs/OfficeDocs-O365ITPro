@@ -3,7 +3,7 @@ title: "Create a knowledge-based commnity in Yammer by using QnA Maker and Flow"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 12/19/2018
+ms.date: 1/9/2018
 ms.audience: Admin
 ms.topic: reference
 ms.prod: office-online-server
@@ -28,7 +28,7 @@ This article provides steps to set up a Yammer group to provide automated answer
 
 Once you have this integration set up with a small list of questions and answers, users will be able to post questions in the group and receive automatic answers. If a user asks a question that doesn't have a clear match, the proposed answer is forwarded to a specific person to verify. Each verified answer is included as a response to the question, and also expands the knowledge base so it can be used for future questions.
 
-After you get the integration working with the sample content provided, you can replace the content with relevant questions and answers for your organization.
+After you get the integration working with the sample content provided, you can replace the sample content with relevant questions and answers for your organization.
 
 ## Prerequisites
 
@@ -36,7 +36,7 @@ After you get the integration working with the sample content provided, you can 
 
 - An Office 365 license: Business Essentials/Premium or Enterprise E1/E3/E5.
 
-- Office 365 connected groups turned on for your Yammer network.
+- Office 365 connected groups enabled for your Yammer network.
 
 - A Yammer Office 365 connected group to use for the automated knowledge base. Because this group will be connected to QnA Maker, it should be a group dedicated to the knowledge base.
 
@@ -76,7 +76,8 @@ In this step, you'll use the Microsoft Azure QnA Maker web service to create an 
    e. Select values for the other fields and then click **Create**.
 
    f. After the deployment finishes, go to the Resource group.
-        ![QnA Maker resource group page](../media/kb/create-qna-maker.png)
+
+     ![QnA Maker resource group page](../media/kb/create-qna-maker.png)
  
    g. Open the **Cognitive Services** resource, and then click **Keys**.
    
@@ -158,7 +159,7 @@ In this step you'll create the structure for the list of questions and answers, 
  
    ![Sample Answer column](../media/kb/sp-qna-add-column-answer.png)
  
-5. In your new list, upload your a few questions and answers. There is a sample set of questions and answers in the download you can use as you experiment with your integration.
+5. In your new list, upload a few questions and answers. There is a sample set of questions and answers in the SampleFAQs.xlsx file in the download that you can use as you experiment with your integration.
 
 ## Step 4: Update the flow that connects your Yammer group with QnA Maker
 
@@ -242,15 +243,15 @@ In this step you'll create the structure for the list of questions and answers, 
  
     b. Use the values you collected earlier to initialize the variables:
 
-       - **Knowledge Base** 
+      - **Knowledge Base** 
 
-            - Id
+         - Id
 
-            - Service Host
+         - Service Host
 
-            - Endpoint Key
+         - Endpoint Key
 
-       - **Cognitive Services Key**
+      - **Cognitive Services Key**
 
     c. To initialize a variable's value, click an Initialize variable node, and then paste the value into the **Value** box.
 
@@ -284,7 +285,7 @@ In this step you'll create the structure for the list of questions and answers, 
       
       ![Flow, showing location of Create item](../media/kb/flow-sp-if-no-createitem.png)
 
-       6. Paste the SharePoint Site URL in the **Site Address** text box.   
+      6. Paste the SharePoint Site URL in the **Site Address** text box.   
       
       ![Flow Create item, showing the location of the Site Address field](../media/kb/flow-sp-create-item.png)
  
@@ -305,11 +306,11 @@ In this step you'll create the structure for the list of questions and answers, 
 
     a. Click the first node, and paste the SharePoint Site URL into the **Site Address** text box.
 
-   ![SharePoint Connector showing the site address](../media/kb/flow-when-new-item-created.png)
+       ![SharePoint Connector showing the site address](../media/kb/flow-when-new-item-created.png)
  
     b. Use the values you collected earlier to initialize **Knowledge Base Id** and **Cognitive Services Key**.
  
-   ![Initialize Knowledge Base Id and Cognitive Services ID](../media/kb/flow-2-variables.png)
+       ![Initialize Knowledge Base Id and Cognitive Services ID](../media/kb/flow-2-variables.png)
  
 3. To save the flow, click **Save**.
 
@@ -359,7 +360,7 @@ Wait up to two minutes for an answer.
  
    ![Approval email with suggested answer pending approval](../media/kb/outlook-reject.png)
  
-    b. A new answer will be provided in the Yammer conversation,
+    b. A new answer will be provided in the Yammer conversation.
  
    ![Yammer conversation showing new answer](../media/kb/yammer-qa-3-2.png)
  
@@ -376,6 +377,6 @@ Wait up to two minutes for an answer.
 
 ## Step 7: Replace the sample content with your own
 
-Now that you have done this once, replace the content with appropriate content for your organization.
+Now that you have the integration working with sample content, replace the sample content with appropriate content for your organization.
 
 Thank you to Todd Baginski, Microsoft MVP, for developing this integration.

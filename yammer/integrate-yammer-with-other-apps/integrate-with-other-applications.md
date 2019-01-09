@@ -3,7 +3,7 @@ title: "Integrate Yammer with other applications"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 12/13/2018
+ms.date: 1/9/2019
 ms.audience: Admin
 ms.topic: reference
 ms.prod: office-online-server
