@@ -188,7 +188,7 @@ Build communities and collaboration in your organization with Yammer.
                         </div>
                     </div>
                     <div class="cardText">
-                            <p><a href="/en-us/Yammer/manage-yammer-users/AAD-account-required" data-linktype="absolute-path">AAD credentials will be required January 31 for log in</a></p>
+                            <p><a href="/en-us/Yammer/manage-yammer-users/AAD-account-required" data-linktype="absolute-path">AAD credentials will be required as of January 31</a></p>
                     </div>
                 </div>
             </div>
