@@ -3,7 +3,7 @@ title: "Create a knowledge-based commnity in Yammer by using QnA Maker and Flow"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 1/9/2018
+ms.date: 1/9/2019
 ms.audience: Admin
 ms.topic: reference
 ms.prod: office-online-server
