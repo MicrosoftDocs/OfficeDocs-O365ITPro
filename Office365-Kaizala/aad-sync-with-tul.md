@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 01/08/2018
+ms.date: 01/09/2018
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -21,7 +21,7 @@ description: Learn how to enable and disable Azure Active Directory (AAD) sync f
 
 # AAD sync with Kaizala Tenant User List
 
-The Azure Active Directory (AAD) sync feature lets you sync user information in AAD with the Kaizala Tenant User List (TUL). As an admin, you can import data and sync changes occurring in your AAD. You can use this feature for:
+The Azure Active Directory (AAD) sync feature lets you sync user information in AAD with the Kaizala Tenant User List (TUL), which serves as your organization directory. As an admin, you can import data and sync changes occurring in your AAD. You can use this feature for:
 
 - **User management** - Any user changes in AAD are automatically synced with the organization directory and associated groups. For example, if a user’s phone number is changed in the AAD, the information will be updated in the organization directory. Similarly, if a user is deleted from the organization’s AAD, the user is automatically removed from the organization group.
 
