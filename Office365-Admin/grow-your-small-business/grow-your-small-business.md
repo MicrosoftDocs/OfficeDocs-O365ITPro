@@ -52,7 +52,7 @@ description: "Learn about features in Office 365 that help your boost your busin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Head to a Microsoft store</h3>
+                        <h3>Head to a Microsoft Store</h3>
                         <p>Free training and classes to help you boost your Office 365 knowledge.</p>
                     </div>
                 </div>
