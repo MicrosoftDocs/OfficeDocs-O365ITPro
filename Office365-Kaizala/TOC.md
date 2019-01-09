@@ -18,6 +18,7 @@
 ### [Reports](reports.md)
 ### [Actions](actions.md)
 ### [Back up and export organization data](backup-export-org-data.md)
+### [AAD sync with Tenant User List](aad-sync-with-tul.md)
 ### [Connectors](connectors.md)
 ### [Office Add-in](office-add-in.md)
 ### [Use Microsoft Flow with Kaizala](use-microsoft-flow-with-kaizala.md)
