@@ -172,7 +172,7 @@ Build communities and collaboration in your organization with Yammer.
                         </div>
                     </div>
                     <div class="cardText">
-                            <p><a href="/en-us/Yammer/integrate-with-other-apps/knowledge-base-community-flow-qna-maker" data-linktype="absolute-path">Integration example: Yammer, Flow, and Azure QnA Maker</a></p>
+                            <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker" data-linktype="absolute-path">Integration example: Yammer, Flow, and Azure QnA Maker</a></p>
                     </div>
                 </div>
             </div>
