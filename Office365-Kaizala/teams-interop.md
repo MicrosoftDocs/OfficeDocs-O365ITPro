@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 01/08/2019
+ms.date: 01/09/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -82,6 +82,8 @@ The following shows the interop experience for Microsoft Teams users.
 |Message     |Attachment         |Unsupported message with redirection to Kaizala  |
 |Message     |Other non-message event         |None         |
 |Action      |Reply To         |Simple text message or unsupported card |
+|Read receipts   |Read receipts are visible for messages sent on Kaizala   |None   |
+|Notifications   |Notification of message received on Kaizala |Notifications will appear for Teams as well |
 
 ##### Messages sent in Microsoft Teams
 
@@ -94,6 +96,8 @@ The following shows the interop experience for Microsoft Teams users.
 |Message     |All other message types         |None         |
 |Action      |Edit         |If unsupported, then unsupported message <br> If text, reply to the original message |
 |Action      |Delete         |If unsupported, message will not be deleted <br> If text, message will be deleted |
+|Read receipts   |Message sent on Teams   |Read receipts is not visible on Kaizala (we are working to enable this)   |
+|Notifications   |Notification of message received on Kaizala |Notifications will appear for Kaizala as well |
 
 ## Compliance in Microsoft Teams interop
 
