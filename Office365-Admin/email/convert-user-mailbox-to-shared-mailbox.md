@@ -66,7 +66,11 @@ Here's how you convert a mailbox to a shared mailbox:
 5. If the mailbox is smaller than 50GB, you can remove the [license from the user](../subscriptions-and-billing/remove-licenses-from-users.md), and stop paying for it. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor. The user won't be able to sign in using the old account.
     
 6. For everything else you need to know about shared mailboxes, please see [Create a shared mailbox](create-a-shared-mailbox.md).
-    
+
+>[!NOTE]
+
+>If you are a global admin, you will have to use Powershell to change a user mailbox to a shared mailbox on premises. You can use the command ```   set mailbox - type shared   ```.
+
 ## Convert the mailbox of a deleted user
 
 Let's say you've deleted a user account and now you want to convert their old mailbox to a share mailbox. Here's what you need to do:
