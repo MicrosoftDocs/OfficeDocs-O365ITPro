@@ -49,11 +49,11 @@ See [Office 365 admin roles](../add-users/about-admin-roles.md) for more informa
   
 1. Sign in with your admin credentials, and go to the [Admin center](../admin-overview/about-the-admin-center.md).
     
-2. In the admin center, expand the left nav, and go to **Reports** \> **Usage**.
+2. In the admin center, expand the left nav, and go to **Services & add-ins**.
     
-3. On the **Usage** page, locate the **Microsoft 365 usage analytics** card, and choose **Get started**.
+3. On the **Services & add-ins** page, scroll down and click on **Reports**.
     
-4. On the Reports panel that opens, set **Make data available the Microsoft 365 usage analytics for Power BI** to **On** \> **Save**. 
+4. On the Reports panel that opens, set **Make data available the Microsoft 365 usage analytics for Power BI** to **On** and select **Save**. 
   
 This initiates the data collection process and will complete in 2 to 48 hours depending on the size of your tenant. The **Go to Power BI** button will be enabled (no longer gray) when data collection is complete. 
     
