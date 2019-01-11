@@ -114,9 +114,7 @@ A: Yammer's system requirements are consistent with those of Office 365. See the
 - Windows 7 SP1 or later
     
 - MAC OS 10.10 or later
-    
-- Windows 10 phone
-    
+      
 ### Q: Can I have a Yammer network where some users have Office 365 licenses and some users don't?
 <a name="Requirements"> </a>
 
