@@ -28,6 +28,8 @@ The user will not be allowed to post the message.
 
 - Any current external participants are blocked from using external conversations or threads that they may have been participating in.
 
+- No new external groups can be created.
+
 You can set this up for your home Yammer network, or for external Yammer networks.
   
  
