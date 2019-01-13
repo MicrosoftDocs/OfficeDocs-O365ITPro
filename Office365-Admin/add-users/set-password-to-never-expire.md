@@ -23,139 +23,62 @@ ms.assetid: f493e3af-e1d8-4668-9211-230c245a0466
 description: "Learn how to set some individual user passwords to never expire, using Windows PowerShell."
 ---
 
-# Set an individual user's password to never expire
+## Set password expiration policies in Azure AD
 
-  
-  
-|||
-|:-----|:-----|
-![I forgot the username or password for the account I use with Office.](../media/d0ee024e-999d-438b-b72d-2e1779cf7f83.png)           <br/> |This article is for people who set password expiration policy for a business, school, or nonprofit.  <br/> **If you're a user, you don't have the permissions to set your password to never expire. Ask your work or school technical support to do the steps in this article for you.** <br/> |
-   
-If you have company requirements to set some individual user passwords to never expire, you need to use Windows PowerShell. You can't do this in the Office 365 admin center.
-  
-If you're new to Windows PowerShell, you can do this! The PowerShell commands used in this article will only change a person's password expiration.
-  
-**Video on how to set up user passwords to never expire**
+A global administrator for a Microsoft cloud service can use the Microsoft Azure AD Module for Windows PowerShell to set user passwords not to expire. You can also use Windows PowerShell cmdlets to remove the never-expires configuration or to see which user passwords are set to never expire. 
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/f84252d0-e20b-45ed-981c-4c2b69f781de?autoplay=false]
-  
-Video on how to set up user passwords to never expire
-  
-> [!IMPORTANT]
-> You can only do these steps on user accounts that aren't synchronized through directory synchronization. 
-  
-## Install the required PowerShell modules
+This guidance applies to other providers, such as Intune and Office 365, which also rely on Azure AD for identity and directory services. Password expiration is the only part of the policy that can be changed.
 
-1. Install the 64-bit version of the Microsoft Online Services Sign-in Assistant: [Microsoft Online Services Sign-in Assistant for IT Professionals RTW](https://go.microsoft.com/fwlink/p/?LinkId=286152).
-    
-2. Install the 64-bit version of the Windows Azure Active Directory Module for Windows PowerShell with these steps:
-    
-  - Open the [Azure Active Directory Connection](https://go.microsoft.com/fwlink/?linkid=854265) web page. 
-    
-  - In **Files in Download** at the bottom of the page, click **Download** for the **AdministrationConfig-V1.1.166.0-GA.msi** file, and then install it. 
-    
-3. Open Windows PowerShell as an administrator:
-    
-1. In your search bar, type Windows PowerShell.
-    
-2. Right-click on **Windows PowerShell** and select **Run as Administrator**.
-    
-    ![Open PowerShell as "Run as administrator."](../media/52517af8-c7b0-4c8f-b2f3-0f82f9d5ace1.png)
-  
-3. The Windows PowerShell window will pop open. The prompt C:\Windows\system32 means you opened it as an administrator.
-    
-    ![What PowerShell looks like when you first open it.](../media/246a4acc-149d-4b96-b8a3-2d702fee1ddc.png)
-  
-4. As a best practice, we recommend installing the latest AzureADPreview module. Type the following command at the PowerShell prompt:
-    
-  ```
-  Install-Module AzureADPreview
-  ```
+> [!NOTE]
+> Only passwords for user accounts that are not synchronized through directory synchronization can be configured to not expire. For more information about directory synchronization, see [Connect AD with Azure AD](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+>
 
-5. At the message about an untrusted repository, type **Y**.
-    
-    If you already have AzureADPreview installed, see the [Update preview version of Azure Active Directory Module for Windows PowerShell](#update-preview-version-of-azure-active-directory-module-for-windows-powershell) about how to uninstall the old version and get the new one. Otherwise, you're ready to go! 
-    
-## Set a user's password to never expire
-<a name="__toc378845826"> </a>
+## Set or check the password policies by using PowerShell
 
-1. If you haven't already, open a Windows PowerShell window on your computer (it doesn't matter if it's a normal Windows PowerShell window, or one you opened by selecting **Run as administrator**).
-    
-2. Run the following command:
-    
-  ```
-  Connect-MsolService
-  ```
+To get started, you need to [download and install the Azure AD PowerShell module](https://docs.microsoft.com/powershell/module/Azuread/?view=azureadps-2.0). After you have it installed, you can use the following steps to configure each field.
 
-3. In the **Sign in to your account** page that opens, sign in with your Office 365 admin account, and click **Sign in**.
-    
-4. Run the following command to set the password of one user to never expire:
-    
-  ```
-  Set-MsolUser -UserPrincipalName <name of the account> -PasswordNeverExpires $true
-  ```
+### Check the expiration policy for a password
 
-  For example, if the name of the account is Ina@contoso.com, you'd type the command like this:
-    
-  ```
-  Set-MsolUser -UserPrincipalName Ina@contoso.com -PasswordNeverExpires $true
-  ```
+1. Connect to Windows PowerShell by using your company administrator credentials.
+1. Execute one of the following commands:
 
-  If you get a red error message, there's probably a typo or an extra space. Try again! Or, copy and paste the above to the PowerShell prompt, and use the arrow key to erase \<name of the account\> and enter the real name of the account.
-    
-5. When you're successful, the PowerShell prompt appears for the next command. It doesn't display anything like "done" or "success."
-    
-## Find out whether a user's password is set to never expire
-<a name="__toc378845827"> </a>
+   * To see if a single user’s password is set to never expire, run the following cmdlet by using the UPN (for example, *aprilr@contoso.onmicrosoft.com*) or the user ID of the user you want to check: `Get-AzureADUser -ObjectId <user ID> | Select-Object @{N="PasswordNeverExpires";E={$_.PasswordPolicies -contains "DisablePasswordExpiration"}}`
+   * To see the **Password never expires** setting for all users, run the following cmdlet: `Get-AzureADUser -All $true | Select-Object UserPrincipalName, @{N="PasswordNeverExpires";E={$_.PasswordPolicies -contains "DisablePasswordExpiration"}}`
 
-1. Run the following command:
-    
-  ```
-  Connect-MsolService
-  ```
+### Set a password to expire
 
-2. In the **Sign in to your account** page that opens, enter your admin credentials to connect to the service, and click **Sign in**.
-    
-3. Run the following command:
-    
-  ```
-  Get-MSOLUser -UserPrincipalName <user ID> | Select PasswordNeverExpires
-  ```
+1. Connect to Windows PowerShell by using your company administrator credentials.
+1. Execute one of the following commands:
 
-  For example, to see the status for Ina@contoso.com, you'd type the following:
-    
-  ```
-  Get-MSOLUser -UserPrincipalName Ina@contoso.com | Select PasswordNeverExpires
-  ```
+   * To set the password of one user so that the password expires, run the following cmdlet by using the UPN or the user ID of the user: `Set-AzureADUser -ObjectId <user ID> -PasswordPolicies None`
+   * To set the passwords of all users in the organization so that they expire, use the following cmdlet: `Get-AzureADUser -All $true | Set-AzureADUser -PasswordPolicies None`
 
-  The following picture shows how I set the password to never expire, and then ran the command to verify it is now set to never expire:
-    
-    ![This picture shows the commands to set the password to never expire, and then verify it was set.](../media/c0972196-5f4c-4f93-9ac9-15321eec5fdb.png)
-  
-## Update preview version of Azure Active Directory Module for Windows PowerShell
-<a name="bkmk_preview"> </a>
+### Set a password to never expire
 
-The AzureADPreview module is required for a lot of procedures. As a best practice, we recommend  *always*  staying current: uninstall the old AzureADPreview version and get the latest one before you run PowerShell commands. 
-  
-1. To uninstall a previous version, run this command:
-    
-  ```
-  Uninstall-Module AzureADPreview
-  ```
+1. Connect to Windows PowerShell by using your company administrator credentials.
+1. Execute one of the following commands:
 
-2. To install the latest version, run this command:
-    
-  ```
-  Install-Module AzureADPreview
-  ```
+   * To set the password of one user to never expire, run the following cmdlet by using the UPN or the user ID of the user: `Set-AzureADUser -ObjectId <user ID> -PasswordPolicies DisablePasswordExpiration`
+   * To set the passwords of all the users in an organization to never expire, run the following cmdlet: `Get-AzureADUser -All $true | Set-AzureADUser -PasswordPolicies DisablePasswordExpiration`
 
-  At the message about an untrusted repository, type **Y**. It will take a minute or so for the new module to install.
-    
-## Related articles
-<a name="bkmk_preview"> </a>
+   > [!WARNING]
+   > Passwords set to `-PasswordPolicies DisablePasswordExpiration` still age based on the `pwdLastSet` attribute. If you set the user passwords to never expire and then 90+ days go by, the passwords expire. Based on the `pwdLastSet` attribute, if you change the expiration to `-PasswordPolicies None`, all passwords that have a `pwdLastSet` older than 90 days require the user to change them the next time they sign in. This change can affect a large number of users. 
 
-[Set the password expiration policy for your organization](../manage/set-password-expiration-policy.md)
-  
-[Let people reset their own passwords in Office 365](let-users-reset-passwords.md)
+## Next steps
+
+The following articles provide additional information about password reset through Azure AD:
+
+* [How do I complete a successful rollout of SSPR?](howto-sspr-deployment.md)
+* [Reset or change your password](../user-help/active-directory-passwords-update-your-own-password.md).
+* [Register for self-service password reset](../user-help/active-directory-passwords-reset-register.md).
+* [Do you have a licensing question?](concept-sspr-licensing.md)
+* [What data is used by SSPR and what data should you populate for your users?](howto-sspr-authenticationdata.md)
+* [What authentication methods are available to users?](concept-sspr-howitworks.md#authentication-methods)
+* [What is password writeback and why do I care about it?](howto-sspr-writeback.md)
+* [How do I report on activity in SSPR?](howto-sspr-reporting.md)
+* [What are all of the options in SSPR and what do they mean?](concept-sspr-howitworks.md)
+* [I think something is broken. How do I troubleshoot SSPR?](active-directory-passwords-troubleshoot.md)
+* [I have a question that was not covered somewhere else](active-directory-passwords-faq.md)
+
   
 
