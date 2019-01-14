@@ -51,7 +51,7 @@ To control who creates Office 365 Groups, you use Windows PowerShell, which is a
   
 ## What you need to know before you begin
 
-- Doing the steps in this article requires a subscription to Azure Active Directory (Azure AD) Premium. **The administrator who configures the settings, and the members of the affected groups, must have Azure AD Premium licenses assigned to them**. For more information see [Getting started with Azure Active Directory Premium](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-get-started-premium).
+- Doing the steps in this article requires a subscription to Azure Active Directory (Azure AD) Premium. **The administrator who configures the settings, and the members of the group(s) assigned the self-service creation permission, must have Azure AD Premium licenses assigned to them**. For more information see [Getting started with Azure Active Directory Premium](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-get-started-premium). In addition, see [Learn about Office 365 Groups - Features & Licensing](https://support.office.com/en-us/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2#ID0EAACAAA=Features_&_Licensing) in the section "Granular self-service group creation controls".
     
 - Do not try to use the GA version - Azure Active Directory PowerShell for Graph - to perform the steps in this article. It won't work.
     
@@ -382,5 +382,5 @@ You will be returned to a prompt in the Windows Azure Active Directory Module.
 ## Related articles
 
 [Getting started with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=808033)
-  
 
+[Learn about Office 365 Groups](https://support.office.com/en-us/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
