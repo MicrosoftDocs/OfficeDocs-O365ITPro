@@ -3,12 +3,11 @@ title: "Office 365 Reports in the Admin Center - Email apps usage"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
-:
-- 'O365E_ReportsEmaf1_keywordsilClients
-O365M_ReportsEmailClients'
+f1_keywords:
+- 'O365M_ReportsEmailClients'
+- 'O365E_ReportsEmailClients'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
