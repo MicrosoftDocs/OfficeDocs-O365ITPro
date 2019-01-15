@@ -23,7 +23,7 @@ description: "Learn how to sign up for a trial Office 365 for business subscript
 
 You can sign up for a trial Office 365 business subscription for free. You can try it out for 30 days.
 
-## Buy the same plan as your trial
+## Sign up for an Office 365 Business Premium trial subscription
 
 Check out the video below or follow the steps to complete your trial signup.
   
