@@ -10,7 +10,7 @@ ms.assetid:
 ms.service: yammer
 ms.custom: Adm_Yammer
 ms.topic: landing-page
-ms.date: 12/13/18
+ms.date: 1/14/19
 ---
 # Yammer admin help
 
@@ -255,7 +255,7 @@ Build communities and collaboration in your organization with Yammer.
                         <p><a href="/en-us/Yammer/configure-your-yammer-network/customize-the-look-of-yammer" data-linktype="absolute-path">Customize the look</a></p> 
                         <p><a href="/en-us/Yammer/configure-your-yammer-network/configure-email-and-yammer" data-linktype="absolute-path">Configure email and Yammer</a></p> 
                         <p><a href="/en-us/Yammer/configure-your-yammer-network/enforce-office-365-identity" data-linktype="absolute-path">Enforce Office 365 identity</a></p> 
-                        <p><a href="/en-us/Yammer/configure-your-yammer-network/yammer-and-office-365" data-linktype="absolute-path">Yammer and Office 365</a></p> 
+                        <p><a href="/en-us/Yammer/configure-your-yammer-network/yammer-and-office-365" data-linktype="absolute-path">Yammer networks and Office 365 tenants</a></p> 
                         <p><a href="/en-us/Yammer/configure-your-yammer-network/manage-yammer-domains" data-linktype="absolute-path">Manage Yammer domains</a></p> 
                         <p><a href="/en-us/Yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks" data-linktype="absolute-path">Consolidate multiple networks</a></p> <p><a href="/en-us/Yammer/configure-your-yammer-network/FAQ-consolidate-multiple-yammer-networks" data-linktype="absolute-path">FAQ: Consolidating multiple networks</a></p>              
                     </div>
