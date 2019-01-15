@@ -79,6 +79,7 @@
 ### [Share calendars with external users](manage/share-calendars-with-external-users.md)
 ### [Customer Lockbox Requests](manage/customer-lockbox-requests.md)
 ## [Subscriptions and billing](subscriptions-and-billing/subscriptions-and-billing.md)
+### [Sign up for an Office 365 trial subscription](subscriptions-and-billing/sign-up-for-office-365-trial.md)
 ### [Extend your trial](subscriptions-and-billing/extend-your-trial.md)
 ### [Buy a subscription from your free trial](subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md)
 ### [Buy another subscription](subscriptions-and-billing/buy-another-subscription.md)

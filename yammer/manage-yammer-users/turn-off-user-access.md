@@ -3,7 +3,7 @@ title: "Turn off Yammer access for Office 365 users"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 5/15/2018
+ms.date: 1/11/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -75,5 +75,7 @@ You can also automate this task by using PowerShell.
 3. See [Disable access to services with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?LinkID=717080) for detailed instructions for how to disable services, including Yammer, for one, or many users. 
     
 ## See also
+
+[Can I unsubscribe myself from Yammer?](https://support.office.com/articles/981ecaf7-8a7d-4312-a845-bd343e925073)
 
 [Add, block, or remove Yammer users](add-block-or-remove-users.md)
