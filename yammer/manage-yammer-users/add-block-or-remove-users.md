@@ -126,8 +126,6 @@ You can deactivate or permanently remove users, including users, including activ
   
     ![Deactivated user list](../media/162b43ed-acd1-4085-8073-b43845c30999.png)
   
-Users can also delete their own Yammer account. For more information, see [Change my Yammer profile and settings](https://support.office.com/article/a3aeca0e-de34-4897-9b59-de6516542851.aspx).
-  
 ## Monitor account activity and device usage for a single user
 <a name="AccountActivity"> </a>
 
@@ -246,10 +244,10 @@ Excel does not encode non-English characters in CSV files correctly. If you have
   
 ## See also
 
-[Delete your Yammer account](https://support.office.com/article/a3aeca0e-de34-4897-9b59-de6516542851.aspx#DeleteAccount)
-  
 [Manage Yammer users across their lifecycle from Office 365](manage-users-across-their-lifecycle.md)
   
 [Manage a group in Yammer](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2.aspx)
+
+[Can I unsubscribe myself from Yammer?](https://support.office.com/articles/981ecaf7-8a7d-4312-a845-bd343e925073)
 
 [Remove a user from a group](https://support.office.com/en-us/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2#removemember)

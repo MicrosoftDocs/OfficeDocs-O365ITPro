@@ -389,7 +389,7 @@ For example, if a guest object for meganb@contoso.com exists in Azure Active Dir
 ### In a hybrid Office 365 organization, do guest users who are members of an Office 365 Group sync back to on-premises Exchange servers?
 <a name="BKMK_MakeGuestsVisibleGAL"> </a>
 
-No guest users who are members of a group aren't synched back to on-premises along with the group.
+No. Guest users who are members of a group aren't synched back to on-premises along with the group.
   
 ### Can mail contacts be added to groups?
 <a name="BKMK_MakeGuestsVisibleGAL"> </a>

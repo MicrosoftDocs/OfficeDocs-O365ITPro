@@ -84,7 +84,7 @@ description: "Learn how to remove licenses from user accounts in Office 365 for 
 
 - When a user's license is removed, data that is associated with that user account is held for 30 days. After the 30 day grace period, the data is deleted and can't be recovered. Files that are saved in OneDrive or SharePoint Online are not deleted.
     
-- If you have an Enterprise subscription, like Office 365 Enterprise E3, Exchange Online lets you preserve the mailbox data of a deleted user account by using inactive mailboxes. For more information, see [Manage inactive mailboxes in Exchange Online](https://go.microsoft.com/fwlink/p/?linkid=848214).
+- If you have an Enterprise subscription, like Office 365 Enterprise E3, Exchange Online lets you preserve the mailbox data of a deleted user account by using [inactive mailboxes](https://docs.microsoft.com/en-us/office365/securitycompliance/inactive-mailboxes-in-office-365). For more information, see [Manage inactive mailboxes in Exchange Online](https://docs.microsoft.com/en-us/office365/securitycompliance/create-and-manage-inactive-mailboxes).
     
 - For information about how to block a user's access to Office 365 data after their license has been removed and how to get access to the data afterwards, see [Remove a former employee](../add-users/remove-former-employee.md).
     

@@ -359,5 +359,5 @@ Use the following table to determine which capabilities you will need to deploy 
 | Data loss prevention policy | Identify sensitive information across Office 365 group connected sites and prevent the accidental sharing. **Note:** Using this feature requires licensing of Office 365 Enterprise E3 or above. | No                                    |     TBD      |
 | Archive and restore | Archive a team when it’s no longer active but you want to keep it around for reference or to reactivate in the future. | No                                    |   TBD        |
 | Access Reviews | Perform reviews to efficiently manage group memberships for both internal and guest users | P2                                    |   TBD       |
-| Terms of Use | A simple method that organizations can use to present information to end users. This presentation ensures users see relevant disclaimers for legal or compliance requirements. | P2                                    |         TBD  |
+| Terms of Use | A simple method that organizations can use to present information to end users. This presentation ensures users see relevant disclaimers for legal or compliance requirements. | P1                                    |         TBD  |
 

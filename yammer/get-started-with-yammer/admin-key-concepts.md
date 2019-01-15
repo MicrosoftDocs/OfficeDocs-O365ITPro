@@ -3,7 +3,7 @@ title: "Yammer admin key concepts"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 1/9/2019
+ms.date: 1/10/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -109,14 +109,12 @@ A: Yammer's system requirements are consistent with those of Office 365. See the
 
 - iOS 11.0 and above
     
-- Android v4.4 and higher
+- Android v5.0 and higher
     
 - Windows 7 SP1 or later
     
 - MAC OS 10.10 or later
-    
-- Windows 10 phone
-    
+      
 ### Q: Can I have a Yammer network where some users have Office 365 licenses and some users don't?
 <a name="Requirements"> </a>
 
