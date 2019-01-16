@@ -3,7 +3,7 @@ title: Kaizala mobile app
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 01/07/2019
+ms.date: 01/16/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: Kaizala
