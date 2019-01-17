@@ -261,7 +261,7 @@ The following example shows how to create the shared mailbox Sales Department an
     
 2. Connect to [Exchange Online PowerShell](https://go.microsoft.com/fwlink/?linkid=856791).
     
-3. Run the following command:
+3. Run the following commands:
     
 ```
 New-Mailbox -Shared -Name "Sales Department" -DisplayName "Sales Department" -Alias Sales | Set-Mailbox -GrantSendOnBehalfTo MarketingSG
