@@ -15,7 +15,7 @@
 ### [Customize the look](configure-your-yammer-network/customize-the-look-of-yammer.md)
 ### [Configure email and Yammer](configure-your-yammer-network/configure-email-and-yammer.md)
 ### [Enforce Office 365 identity](configure-your-yammer-network/enforce-office-365-identity.md)
-### [Yammer and Office 365](configure-your-yammer-network/yammer-and-office-365.md)
+### [Yammer neworks and Office 365 tenants](configure-your-yammer-network/yammer-and-office-365.md)
 ### [Manage Yammer domains](configure-your-yammer-network/manage-yammer-domains.md)
 ### [Consolidate multiple Yammer networks](configure-your-yammer-network/consolidate-multiple-yammer-networks.md)
 ### [FAQ: Consolidating multiple Yammer networks](configure-your-yammer-network/faq-consolidate-multiple-yammer-networks.md)

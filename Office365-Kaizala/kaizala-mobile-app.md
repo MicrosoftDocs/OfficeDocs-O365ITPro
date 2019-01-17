@@ -3,7 +3,7 @@ title: Kaizala mobile app
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 11/01/2018
+ms.date: 01/16/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: Kaizala
@@ -20,6 +20,9 @@ description: Learn how to send secure instant messages, Kaizala Actions, and att
 ---
 
 # Kaizala mobile app
+
+> [!NOTE]
+> Looking for help for end users? See the [Kaizala help center](https://support.office.com/article/get-to-know-kaizala-22700f1d-274f-4533-8956-247c733f6ae6).
 
 Microsoft Kaizala is a secure chat and messaging app that enables mobile users to send instant messages, Kaizala Actions, and attachments such as pictures, documents, videos, audios and more. Microsoft Kaizala also lets you get instant feedback from your users about anything you want. Using Kaizala Actions, you can send out polls and surveys to any number of users (few or thousands). All received responses are automatically aggregated and presented in an easy-to-view report, which helps in decision making.
   
@@ -83,31 +86,31 @@ The Kaizala management portal is a web-based portal that provides access to mana
 
 You can send **Actions** by tapping the \<palette\> icon from the top right corner of a conversation. Built in Kaizala Actions help you coordinate frequently-used tasks for common workflow scenarios. You can find and use Kaizala Actions from the **Discover** page in the app. The available Kaizala Actions include: 
   
-- **Announcement** -- Use to make key announcements or share updates with your team. Announcements are a great way to share a message across groups in an organization or in a public group. Engage with your audience about the announcement using likes and comments. 
+- **Announcement** - Use to make key announcements or share updates with your team. Announcements are a great way to share a message across groups in an organization or in a public group. Engage with your audience about the announcement using likes and comments. 
     
-- **Job** -- Use to assign jobs to people and track their completion status through chat messages. The job creator and the assignee, can add quick comments to indicate the progress of the work. Other members of the group can also comment on the job and status. 
+- **Job** - Use to assign jobs to people and track their completion status through chat messages. The job creator and the assignee, can add quick comments to indicate the progress of the work. Other members of the group can also comment on the job and status. 
     
-- **Let's Meet** -- Use to send quick meeting invitations. The invitee can respond to the invite within the chat and confirm whether they can meet. 
+- **Let's Meet** - Use to send quick meeting invitations. The invitee can respond to the invite within the chat and confirm whether they can meet. 
     
-- **Live Location** -- Use to request for the location of a colleague or friend. Users get a choice to share their location with you for a specified duration of time. Location can be tracked in real-time. 
+- **Live Location** - Use to request for the location of a colleague or friend. Users get a choice to share their location with you for a specified duration of time. Location can be tracked in real-time. 
     
-- **Photo with Location** -- Use to share real-time photo information with others, along with the GPS coordinates which show where the photo was taken. For example, with a single tap, team members can share a geo-tagged picture with others. This can be used to confirm that a specific task has been completed at a specific location. It can also be used for location-based attendance. 
+- **Photo with Location** - Use to share real-time photo information with others, along with the GPS coordinates which show where the photo was taken. For example, with a single tap, team members can share a geo-tagged picture with others. This can be used to confirm that a specific task has been completed at a specific location. It can also be used for location-based attendance. 
     
-- **Share Location** -- Use to share the location of your team members or phonebook contacts using Kaizala. This helps in coordinating with all team members. 
+- **Share Location** - Use to share the location of your team members or phonebook contacts using Kaizala. This helps in coordinating with all team members. 
     
-- **Quick Poll** -- Use to design a custom poll to gather information from your team or from your customers. Respondents can then respond to the poll quickly and easily. Responses are updated in real-time and are presented in an easy-to-read way. You can also create poll questions with predefined responses. 
+- **Quick Poll** - Use to design a custom poll to gather information from your team or from your customers. Respondents can then respond to the poll quickly and easily. Responses are updated in real-time and are presented in an easy-to-read way. You can also create poll questions with predefined responses. 
     
-- **Request Location** -- Use to request the current location of Kaizala users. This helps in areas of marking attendance, or tracking the presence of your team at any point in time.
+- **Request Location** - Use to request the current location of Kaizala users. This helps in areas of marking attendance, or tracking the presence of your team at any point in time.
     
-- **Submit Bill** -- Use to quickly capture the photo of an invoice and share it with details. 
+- **Submit Bill** - Use to quickly capture the photo of an invoice and share it with details. 
     
-- **Survey** -- Use a poll and a survey in similar ways except for the following: 
+- **Survey** - Use a poll and a survey in similar ways except for the following: 
     
   - In a poll, you can only ask one question. In a survey you can ask multiple questions. 
     
   - In a poll, you can only set the multiple choice format for a response. Conversely, in a survey, you can choose multiple formats for responses: multiple choice, text, numbers or even an image.
     
-- **Checklist** -- Use to share a list of tasks with a person or a group, and have them individually complete each task. 
+- **Checklist** - Use to share a list of tasks with a person or a group, and have them individually complete each task. 
     
   -  Create to-do lists and capture everyone's status.
     
@@ -128,7 +131,43 @@ You can also create custom Kaizala actions. Contact kaizalaDev@microsoft.com to 
 ## Find and subscribe to public groups
 
 Public groups let you send feedback or report issues to the organizations you want to connect with. Most organizations' end users connect with them directly and access custom Actions to improve productivity, speed, and flow of information etc. You can find and subscribe to public groups from the **Discover** \> **Public Groups** page in the Kaizala app. Tap a public group's name, and select **Subscribe to this Public Group**.
-  
+
+## Delete messages in Kaizala
+
+On Kaizala you can delete any message just for yourself, or delete a message sent by you for everyone who has received that message.
+
+### Delete sent messages for everyone
+
+This allows you to delete any message you have sent in a 1:1 chat or a group. It is very useful when either there was a mistake in the message, or the message was sent to the wrong chat. 
+
+When you delete a message for everyone it is replaced with text *“You deleted this message”* for you and when that message is successfully deleted for recipients it is replaced with text *“This message was deleted”*. 
+
+In organization groups admins can delete for everyone messages sent by other group members as well. In this case for recipients the message is replaced with text *“Admin deleted this message”*.
+
+To delete a message for everyone:
+
+1. Open the Kaizala app, and go to the 1:1 chat or group containing the message you want to delete for everyone.
+2. Tap and hold to select the message.
+3. Select **Delete** from the toolbar or menu options.
+4. Tap **Delete for Everyone**.
+
+> [!NOTE]
+> - For messages to be successfully deleted for everyone you and the recipients must be using a version of the app that supports this feature.
+> - Recipients may be able to see your message before it is deleted or if deletion was not successful.
+> - You will be allowed to delete a message for everyone only for about an hour after you have sent the message.
+> - You will not be notified if deleting for everyone was not successful.
+
+### Delete any message for yourself
+
+This allows you to delete your copy of messages you’ve sent or received from your phone. It has no effect on the chat of other recipients and they will continue to see the messages on their phone.
+
+To delete a message for yourself:
+
+1.	Open the Kaizala app and go to the 1:1 chat or group containing the message you want to delete for yourself.
+2.	Tap and hold to select the message.
+3.	Select **Delete** from the the toolbar or menu options.
+4.	Tap **Delete for Me**.
+
 ## Privacy
 
 You can block someone from contacting you on Kaizala. Blocked contacts will no longer be able to send you messages. To block a contact, go to their profile in the Kaizala app. Then go to the profile settings icon on the top right corner, and select **Block**. You can find the list of blocked contacts in **Blocked Contacts** in **Settings**. You can also unblock any contacts from there.
