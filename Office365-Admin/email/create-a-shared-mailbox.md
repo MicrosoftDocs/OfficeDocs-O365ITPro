@@ -264,7 +264,8 @@ The following example shows how to create the shared mailbox Sales Department an
 3. Run the following command:
     
 ```
-New-Mailbox -Shared -Name "Sales Department" -DisplayName "Sales Department" -Alias Sales | Set-Mailbox -GrantSendOnBehalfTo MarketingSG | Add-MailboxPermission -User MarketingSG -AccessRights FullAccess -InheritanceType All
+New-Mailbox -Shared -Name "Sales Department" -DisplayName "Sales Department" -Alias Sales | Set-Mailbox -GrantSendOnBehalfTo MarketingSG
+Add-MailboxPermission -Identity "Sales Department" -User MarketingSG -AccessRights FullAccess -InheritanceType All
 ```
 
 ## Should I create a shared mailbox or an Office 365 Group for Outlook?
