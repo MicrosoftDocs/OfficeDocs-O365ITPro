@@ -84,7 +84,7 @@ Video on how to set up user passwords to never expire
 2. Run the following command:
     
   ```
-  Connect-MsolService
+  Connect-AzureAD
   ```
 
 3. In the **Sign in to your account** page that opens, sign in with your Office 365 admin account, and click **Sign in**.
@@ -92,13 +92,13 @@ Video on how to set up user passwords to never expire
 4. Run the following command to set the password of one user to never expire:
     
   ```
-  Set-MsolUser -UserPrincipalName <name of the account> -PasswordNeverExpires $true
+  Set-AzureADUser -ObjectID <name of the account> --PasswordPolicies DisablePasswordExpiration
   ```
 
   For example, if the name of the account is Ina@contoso.com, you'd type the command like this:
     
   ```
-  Set-MsolUser -UserPrincipalName Ina@contoso.com -PasswordNeverExpires $true
+  Set-AzureADUser -ObjectID Ina@contoso.com --PasswordPolicies DisablePasswordExpiration
   ```
 
   If you get a red error message, there's probably a typo or an extra space. Try again! Or, copy and paste the above to the PowerShell prompt, and use the arrow key to erase \<name of the account\> and enter the real name of the account.
@@ -111,7 +111,7 @@ Video on how to set up user passwords to never expire
 1. Run the following command:
     
   ```
-  Connect-MsolService
+  Connect-AzureAD 
   ```
 
 2. In the **Sign in to your account** page that opens, enter your admin credentials to connect to the service, and click **Sign in**.
@@ -119,13 +119,13 @@ Video on how to set up user passwords to never expire
 3. Run the following command:
     
   ```
-  Get-MSOLUser -UserPrincipalName <user ID> | Select PasswordNeverExpires
+  Get-AzureADUser -UserPrincipalName <user ID> | Select PasswordNeverExpires
   ```
 
   For example, to see the status for Ina@contoso.com, you'd type the following:
     
   ```
-  Get-MSOLUser -UserPrincipalName Ina@contoso.com | Select PasswordNeverExpires
+  Get-AzureADUser -UserPrincipalName Ina@contoso.com | Select PasswordNeverExpires
   ```
 
   The following picture shows how I set the password to never expire, and then ran the command to verify it is now set to never expire:
