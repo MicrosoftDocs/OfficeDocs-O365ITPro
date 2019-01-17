@@ -75,7 +75,7 @@ A: There are both short-term and long term benefits:
 
 - Additional benefits coming soon 
 
-    - Document management through SharePoint. For more information, see the [Office 365 roadmap](https://go.microsoft.com/fwlink/p/?LinkId=509914). 
+    - Document management through SharePoint. For more information, see the [Microsoft 365 roadmap](https://go.microsoft.com/fwlink/p/?LinkId=509914). 
 
     - Live events: Yammer is delivering a new live event experience for leaders to host live events that includes video and discussion before, during, and after the event. For more information, see [Live events in Yammer](../manage-yammer-groups/yammer-live-events.md).
 

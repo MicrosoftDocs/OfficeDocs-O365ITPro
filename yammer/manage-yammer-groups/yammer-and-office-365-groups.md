@@ -40,7 +40,7 @@ Office 365 connected groups have many advantages over non-connected Yammer group
 - Monitor group usage with the Office 365 groups activity report. ([Office 365 Groups activity report](https://support.office.com/en-us/article/Office-365-Reports-in-the-admin-center-Office-365-groups-a27f1a99-3557-4f85-9560-a28e3d822a40))
 - Create optional groups naming policies. ([Office 365 Groups naming policy](https://support.office.com/en-us/article/office-365-groups-naming-policy-6ceca4d3-cad1-4532-9f0f-d469dfbbb552?ui=en-US&rs=en-US&ad=US))
 - Use the optional group expiration policy to help clean up unused groups. ([Office 365 Group Expiration Policy](https://support.office.com/en-us/article/Office-365-Group-Expiration-Policy-8d253fe5-0e09-4b3c-8b5e-f48def064733))
-- Use planned additional features that will only be available with connected groups. This includes getting local data center residency for newly uploaded files that are stored in SharePoint. ([Office 365 Roadmap](https://fasttrack.microsoft.com/roadmap))
+- Use planned additional features that will only be available with connected groups. This includes getting local data center residency for newly uploaded files that are stored in SharePoint. ([Microsoft 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914))
   
 ## Yammer configuration required to use Office 365 connected groups 
 
@@ -86,7 +86,7 @@ Email notifications for Yammer messages may be sent to users depending on the pr
   
 ## Plans for additional integration with Office 365 groups
 
-Yammer's integration with Office 365 Groups started in 2017. Subsequent phases will address remaining groups types and deliver integration with Outlook calendar and enhancements for SharePoint and Planner. The best place to stay informed of change management is to follow the Yammer updates on the [Office 365 Roadmap](https://fasttrack.microsoft.com/roadmap).
+Yammer's integration with Office 365 Groups started in 2017. Subsequent phases will address remaining groups types and deliver integration with Outlook calendar and enhancements for SharePoint and Planner. The best place to stay informed of change management is to follow the Yammer updates on the [Microsoft 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914).
   
 ## FAQ - Network eligibility
 

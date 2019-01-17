@@ -85,7 +85,7 @@ This article describes the key concepts you should know, and key decisions you s
     
     Check the [Office 365 Service health dashboard](https://portal.office.com/servicestatus) to see real-time status of the Yammer service. 
     
-10. Yammer is always changing. To stay current on what's happening, regularly review the [Office 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914). 
+10. Yammer is always changing. To stay current on what's happening, regularly review the [Microsoft 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914). 
     
 11. Learn more.
     
@@ -144,4 +144,4 @@ A: As part of Yammer development methodology, we A/B test all aspects of Yammer 
 ### Q: What's the roadmap for Yammer?
 <a name="Requirements"> </a>
 
-A: Yammer rapid release and iterative development methodology means that change is constant. The items currently being developed and their stage of development and testing are available in the [Office 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914).
+A: Yammer rapid release and iterative development methodology means that change is constant. The items currently being developed and their stage of development and testing are available in the [Microsoft 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914).

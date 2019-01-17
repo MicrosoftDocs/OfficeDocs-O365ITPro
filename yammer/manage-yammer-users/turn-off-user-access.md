@@ -76,6 +76,6 @@ You can also automate this task by using PowerShell.
     
 ## See also
 
-[Can I unsubscribe myself from Yammer?](https://support.office.com/articles/981ecaf7-8a7d-4312-a845-bd343e925073)
+[Can I unsubscribe myself from Yammer?](https://support.office.com/article/981ecaf7-8a7d-4312-a845-bd343e925073)
 
 [Add, block, or remove Yammer users](add-block-or-remove-users.md)
