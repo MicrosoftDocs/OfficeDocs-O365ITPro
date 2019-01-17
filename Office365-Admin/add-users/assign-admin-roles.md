@@ -35,7 +35,7 @@ description: "Learn how to assign administrator roles to a user or multiple user
 
 # Assign admin roles in Office 365 for business
 > [!TIP]
-> The steps in this article apply to Preview admin center. If they don't match what you see in your admin center, turn on Preview. 
+> The Admin Center is changing. If your experience doesn’t match the details in this article, check out [https://aka.ms/aboutM365preview](https://aka.ms/aboutM365preview).  
  
 As the person who purchased your Office 365 business subscription, you are the global administrator. This means you have complete control over the Office 365 suite of products. To help you manage Office 365 for your business, you can assign users to administrator roles so they can perform tasks in the Office 365 admin center. For example, if you want help resetting passwords, you can assign someone to the Password administrator role.
   
