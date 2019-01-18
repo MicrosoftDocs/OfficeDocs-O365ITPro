@@ -44,7 +44,7 @@ As the person who purchased your Office 365 business subscription, you are the g
 ## Assign admin roles to a user in your business
 
 ::: moniker range="o365-worldwide"
-1.  In the admin center, go to the [Active users](https://portal.office.com/adminportal/home) page
+1.  In the admin center, go to the [Active users](https://portal.office.com/adminportal/home) page.
 
 ::: moniker-end
 
