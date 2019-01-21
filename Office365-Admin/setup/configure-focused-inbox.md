@@ -134,7 +134,7 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
     
 1. After you're done creating the new rule, click **save** to start the rule. 
     
-    The following image shows an example where all messages with the subject "Human Resources" are to be delivered to the Focused Inbox.
+    The following image shows an example where all messages with the subject "Payroll Department" are to be delivered to the Focused Inbox.
     
     ![Create and save new Foucsed Inbox rule](../media/5de0d441-aade-41c8-aa19-3c14f945c1f6.png)
   
@@ -144,10 +144,10 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
     
 2. You need to be assigned permissions before you can perform this procedure or procedures. To see what permissions you need, see the "Transport rules" entry in [Messaging policy and compliance permissions](https://go.microsoft.com/fwlink/p/?LinkId=829796).
     
-3. Run the following command to allow all messages from "Human Resources," for example, to be delivered to the Focused Inbox.
+3. Run the following command to allow all messages from "Payroll Department" for example, to be delivered to the Focused Inbox.
     
   ```
-     New-TransportRule -Name <name_of_the_rule> -SubjectContainsWords "Human Resources" -SetHeaderName "X-MS-Exchange-Organization-BypassFocusedInbox" -SetHeaderValue "true"
+     New-TransportRule -Name <name_of_the_rule> -SubjectContainsWords "Payroll Department" -SetHeaderName "X-MS-Exchange-Organization-BypassFocusedInbox" -SetHeaderValue "true"
   ```
 
     > [!IMPORTANT]
