@@ -36,16 +36,20 @@ You can set this up for your home Yammer network, or for external Yammer network
 ## Step 1: Define the mail flow rule in Exchange Online
 
 > [!IMPORTANT] 
-> Yammer only checks to see if any mail flow rules are defined: it does not check the content of the rules. However, Exchange Online does check the content of the rules, so you need to create a rule that won't impact mail flow.  
+> Yammer only checks to see if a rule based on the specified criteria and actionis defined: it does not check the name of the rule. However, Exchange Online does check the content of the rules, so you need to create a rule that won't impact other (non Yammer) mail flow.  
 
 For steps to create a rule using the [Exchange admin center](https://docs.microsoft.com/en-us/exchange/exchange-admin-center), (see [Manage mail flow rules](https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/manage-mail-flow-rules).  
 
-Here is an example of a simple rule you can create to disable external messaging in Yammer that won't impact email flow:
-1. In **Name**, enter a name such as "Disable Yammer external messaging and external groups"
-2. **In Apply this rule if**, select "The recipient address includes...", and then specify **notanemail@notadomain.com**. Note that the exact value doesn't matter: it just must be in valid email format. 
-3.  In Do the following, select **Reject the message with the explanation** and add an explanation such as "This disables external groups and messaging in Yammer".
-4. In Choose a mode for this rule, select **Enforce**.
-5. Click **Save**.
+Here is a simple rule you can create to disable external messaging in Yammer that won't  impact other (non Yammer) email flow:
+1. Click on **+**, and select **Create new rule...**
+2. Click on the **More options...** link at the bottom of the dialog
+3. In **Name**, enter a name such as "Disable Yammer external messaging and external groups"
+4. **In Apply this rule if**, select "This sender..." + "is this person", and then specify **Yammer@yammer.com;notifications@yammer.com** in the "Check names" field. Confirm the entry with a click on the "Check name" button and close the dialog with a click on "OK".
+5. **add condition**, select "This recipient..." + "is external/internal", and then select the recipient location as "Outside the organization"
+6.  In "Do the following", select **Redirect the message to...** + **hosted quarantine**
+7. In "Choose a mode for this rule", ensure the option **Enforce** is selected.
+8. Click **Save**.
+
 
 See [Q: Do all mail flow rules work with Yammer?](control-external-messaging-with-exchange.md#ETRswork).
   
@@ -56,7 +60,10 @@ See [Q: Do all mail flow rules work with Yammer?](control-external-messaging-wit
 2. Under **External Messaging**, select **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer**. (Mail flow rules are also known as Exchange Transport Rules.)
     
 3. Choose **Save**.
-    
+
+> [!IMPORTANT] 
+> The change may take up to 30 minutes. During this period users will still be able to create external groups. With the checkbox selected Yammer will show this message "(Last synced at: )". This message can be ignored, as it is not updated even after the change was successful.
+
 ## FAQ for mail flow rules and Yammer
 
 ### Q: If I have on-premises Exchange Transport rules, will those work?
