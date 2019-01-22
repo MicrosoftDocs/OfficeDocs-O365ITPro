@@ -136,7 +136,8 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
     
     The following image shows an example where all messages with the subject "Payroll Department" are to be delivered to the Focused Inbox.
     
-    ![Create and save new Foucsed Inbox rule](../media/5de0d441-aade-41c8-aa19-3c14f945c1f6.png)
+   ![focused inbox payroll](https://user-images.githubusercontent.com/45987684/51494051-67ebdf00-1ddd-11e9-9685-5e9d20abade2.PNG)
+
   
 ## Use PowerShell to create a transport rule to direct email messages to the Focused view for all your users
 
