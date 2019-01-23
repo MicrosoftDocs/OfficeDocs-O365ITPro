@@ -128,15 +128,19 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
-1. Go to **Admin centers** \> **Exchange**. 
+ 1. Go to **Admin centers** \> **Exchange**. 
     
-1. In the Exchange admin center, navigate to **mail flow** \> **Rules**. Click ![EAC Add icon](../media/795e5bdd-48bb-433f-8e07-3c7a19f8eca2.gif) and then choose **Create a new rule...**. 
+ 2. In the Exchange admin center, navigate to **mail flow** \> **Rules**. Click ![EAC Add icon](../media/795e5bdd-48bb-433f-8e07-3c7a19f8eca2.gif) and then choose **Create a new rule...**. 
+
+ 3.Navigate to  **Apply this Rule if** \> **The Sender is...** \> Choose the **Sender** from People Picker.
+
+ 4. Under Add action, Navigate to **Do the following** \> **Modify the message Properties...** \>  **Set a message header** \> Update the text  with **X-MS-Exchange-Organization-BypassFocusedInbox** and set the value to **true** 
+
+ 5. After you're done creating the new rule, click **save** to start the rule. 
     
-1. After you're done creating the new rule, click **save** to start the rule. 
+    The following image shows an example where all messages From "Payroll Department" are to be delivered to the Focused Inbox.
     
-    The following image shows an example where all messages with the subject "Human Resources" are to be delivered to the Focused Inbox.
-    
-    ![Create and save new Foucsed Inbox rule](../media/5de0d441-aade-41c8-aa19-3c14f945c1f6.png)
+    ![focusedinbox payroll](https://user-images.githubusercontent.com/45987684/51585358-0de33a80-1eff-11e9-8596-91728e8d8729.PNG)
   
 ## Use PowerShell to create a transport rule to direct email messages to the Focused view for all your users
 
@@ -144,10 +148,10 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
     
 2. You need to be assigned permissions before you can perform this procedure or procedures. To see what permissions you need, see the "Transport rules" entry in [Messaging policy and compliance permissions](https://go.microsoft.com/fwlink/p/?LinkId=829796).
     
-3. Run the following command to allow all messages from "Human Resources," for example, to be delivered to the Focused Inbox.
+3. Run the following command to allow all messages from "Payroll Department," for example, to be delivered to the Focused Inbox.
     
   ```
-     New-TransportRule -Name <name_of_the_rule> -SubjectContainsWords "Human Resources" -SetHeaderName "X-MS-Exchange-Organization-BypassFocusedInbox" -SetHeaderValue "true"
+     New-TransportRule -Name <name_of_the_rule> -From "Payroll Department" -SetHeaderName "X-MS-Exchange-Organization-BypassFocusedInbox" -SetHeaderValue "true"
   ```
 
     > [!IMPORTANT]
