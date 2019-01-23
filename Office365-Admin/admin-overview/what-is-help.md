@@ -9,7 +9,6 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - Adm_O365
-- MiniMaven
 search.appverid:
 - MET150
 - MOE150
@@ -23,11 +22,20 @@ description: "Learn what type of help we provide for the admin center."
 
 # What is Help?
 
+## M365 "Need Help" pane
+Clicking the "Need Help" button in the M365 Admin Center opens a search box where you can describe a issue you're having or search for help articles.
+
+In this example, we searched for *verify my domain*. 
+The help pane returned an Insight card and a few articles we think will help you.
+
+![help pane](../../images/helppane.PNG) 
+
+
 
 We provide the following help for the admin center: 
 
 1. In-app help (help bubbles, Learn more links, framing content, consequences)
 2. Web help
-3. Self-help minimaven
-4. Self-help chatbot
-5. Training (?)
+3. Self-help minimaven 
+1. Self-help chatbot
+1. Training (?)
