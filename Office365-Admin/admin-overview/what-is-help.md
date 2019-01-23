@@ -39,6 +39,8 @@ Context-sensitive help (CSH) links provide a quick pathway to official help cont
 In this example, as users complete a recommendation to set up sensitivity labels in their organization, the CSH link “Show me where these labels appear” takes them to [this document](https://go.microsoft.com/fwlink/?linkid=2005245) to give customers insight into where the labels will appear to their users.
 ![CSH](../media/what-is-help/cshexample.png)
 
+
+
 ### Toolboxes
 Toolboxes provide users with an aggregated list of tasks related to managing a larger scenario. Each entry includes a description of the task and links directly to the in-app feature where that task is performed.
 
@@ -62,5 +64,5 @@ We provide the following help for the admin center:
 1. In-app help (help bubbles, Learn more links, framing content, consequences)
 2. Web help
 3. Self-help minimaven 
-1. Self-help chatbot
+1. Self-help using the Office Assistant
 1. Training (?)
