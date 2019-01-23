@@ -22,6 +22,10 @@ description: "Learn what type of help we provide for the admin center."
 
 # What is Help?
 
+
+
+
+
 ## In-app help
 ### Help bubbles
 Help bubbles provide on-the-spot help as users encounter potentially unfamiliar concepts or need additional information about a setting (such as user impact or effect of different values). If needed, bubbles also include links to additional content.
