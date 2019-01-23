@@ -1,7 +1,6 @@
 ---
-title: "What is help"
+title: "What is Help?"
 ms.author: dianef
-author: dianef77
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
@@ -10,11 +9,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - Adm_O365
-- Adm_O365_FullSet
 - MiniMaven
-description: ""
-ROBOTS: NOINDEX
+search.appverid:
+- MET150
+- MOE150
+- BEA160
+- GEA150
 
+ROBOTS: NOINDEX
+description: "Learn what type of help we provide for the admin center."
 ---
 
 # What is Help?
@@ -22,4 +25,3 @@ ROBOTS: NOINDEX
 We provide the following help in the admin center: 
 
 1.  
-  
