@@ -19,9 +19,15 @@ search.appverid:
 ROBOTS: NOINDEX
 description: "Learn what type of help we provide for the admin center."
 ---
+<!-- The following is just placeholder text from Madhura's mail. We need to add images/examples of each -->
 
 # What is Help?
 
-We provide the following help in the admin center: 
 
-1.  
+We provide the following help for the admin center: 
+
+1. In-app help (help bubbles, Learn more links, framing content, consequences)
+2. Web help
+3. Self-help minimaven
+4. Self-help chatbot
+5. Training (?)
