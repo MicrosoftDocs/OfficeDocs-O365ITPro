@@ -116,20 +116,20 @@ This example turns Focused Inbox **Off** for Tim Matthews in the Contoso organiz
     
 3. After you're done creating the new rule, click **Save** to start the rule. 
     
-    The following image shows an example where all messages with the subject "Human Resources" are to be delivered to the Focused Inbox.
+    The following image shows an example where all messages From "Payroll Department" are to be delivered to the Focused Inbox.
     
-    ![Create and save new Foucsed Inbox rule](../media/5de0d441-aade-41c8-aa19-3c14f945c1f6.png)
+    ![focusedinbox payroll](../media/focusedinbox-transport-rule.PNG)
   
 ## Use PowerShell to create a transport rule to direct email messages to the Focused view for all your users
 
 1. [Connect to Exchange Online using remote PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=396554).
     
 2. You need to be assigned permissions before you can perform this procedure or procedures. To see what permissions you need, see the "Transport rules" entry in [Messaging policy and compliance permissions](https://go.microsoft.com/fwlink/p/?LinkId=829796).
-    
-3. Use X-MS-Exchange-Organization-BypassFocusedInbox to allow messages that meet certain criteria to be delivered to the Focused Inbox. For example, the following command allows messages that contain "Human Resources" in the subject line to be delivered to the Focused Inbox.
+
+3. Run the following command to allow all messages from "Payroll Department," for example, to be delivered to the Focused Inbox.
     
   ```
-     New-TransportRule -Name <name_of_the_rule> -SubjectContainsWords "Human Resources" -SetHeaderName "X-MS-Exchange-Organization-BypassFocusedInbox" -SetHeaderValue "true"
+     New-TransportRule -Name <name_of_the_rule> -From "Payroll Department" -SetHeaderName "X-MS-Exchange-Organization-BypassFocusedInbox" -SetHeaderValue "true"
   ```
 
     
@@ -150,7 +150,7 @@ We've received reports that Clutter suddenly stopped working for some users. If 
   
 ## FAQ for Focused Inbox
 
-Here are answers to Frequently Asked Questions about Focused Inbox. If you can't find an answer to your question, let us know by leaving a comment and we'll add it to the list.
+Here are answers to Frequently Asked Questions about Focused Inbox. 
   
   
 ### Can I control how I roll out Focused Inbox in my organization?
