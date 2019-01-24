@@ -150,7 +150,7 @@ We've received reports that Clutter suddenly stopped working for some users. If 
   
 ## FAQ for Focused Inbox
 
-Here are answers to Frequently Asked Questions about Focused Inbox. If you can't find an answer to your question, let us know by leaving a comment and we'll add it to the list.
+Here are answers to Frequently Asked Questions about Focused Inbox. 
   
   
 ### Can I control how I roll out Focused Inbox in my organization?
