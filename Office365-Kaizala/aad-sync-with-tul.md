@@ -43,7 +43,7 @@ To configure the AAD and Kaizala TUL sync:
 
 1. Log in to the [Kaizala management portal](http://manage.kaiza.la).
 
-2. From the menu on the left, select **Users**.
+2. From the menu on the left, select **Directory**.
 
 3. Select **Add Users**, and then select **Configure AAD Sync**.
 

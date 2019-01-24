@@ -53,13 +53,13 @@ Before you begin, think about what you want to do with the user's email and OneD
    
 ### Get started
 
-Since the guided experience walks through the delete user process, here are the steps to get started.
+Since the guided experience walks through the steps to delete a user, here's how to get started.
   
 1. Sign in to Office 365 with your global admin account.
     
-2. Go to **Users** \> **Active users**.
+2. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** > **Active Users**.
     
-3. Select the user you want to deleted, and in the flyout panel, select **Delete user**.
+3. Select the user you want to delete, choose  **Delete user**.
     
 ## User management admin: Delete one or more users from Office 365
 
@@ -68,47 +68,36 @@ Since the guided experience walks through the delete user process, here are the 
   
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Office 365 admin center](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).  
+1. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** > **Active Users**.  
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page, or choose **Users** > **Active Users**.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page, or choose **Users** > **Active Users**.
 
 ::: moniker-end
 
-2. In the Admin center, select **Users**.  
-
-     ![Click on User](../media/1596dc50-1d06-4b3a-83c3-2791d0856d6f.png)
-
-3. On the **Active Users** page, choose the names of the users that you want to delete, and then select **Delete user**.
-    
-    Your screen might look like either of the following:  
-    
-    ![Delete a user in Office 365](../media/f1a7c975-bdb9-4533-94ed-cd227832f071.png)           <br/> 
-    Or,  
-    ![Delete a user in Office 365](../media/3eba7fa2-8cbe-43c1-b9fc-61556ec53fc3.png)           <br/>  
+ 3. Choose the names of the users that you want to delete, and then choose **Delete user**.
+   <br/>  
      Although you deleted the user's account, **you're still paying for the license**. See the next procedure to stop paying for the license.   Or, you can assign the license to another user. It won't be assigned to someone automatically.
     
 ### Stop paying for the license
 
 
-If you are a User management admin, reducing the number of licenses is a separate step that can only be performed by the global admin or billing admin: 
+Reducing the number of licenses is a separate step that can only be performed by the global admin or billing admin. 
   
-1. In the Office 365 admin center, choose **Billing** \> **Subscriptions**. If you don't see this option, you aren't a global admin and can't do this step. 
+1. In the admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** > **Subscriptions**. If you don't see this option, you aren't a global admin or billing admin, and can't do this step. 
     
 2. Choose the subscription (if you have more than one) and then choose **Add/Remove licenses** to delete the license so you don't pay for it until you hire another person.  
 
-    ![Use the arrows to delete licenses from your subscription](../media/40b7fdb8-09a9-4b1e-8473-832038a214bf.png)  
-
-    Later when you go through the steps to add another person to your business, you'll be prompted to buy a license at the same time, with just one click!
+   Later when you go through the steps to add another person to your business, you'll be prompted to buy a license at the same time, with just one click!
     
 ## Delete many users at the same time
 

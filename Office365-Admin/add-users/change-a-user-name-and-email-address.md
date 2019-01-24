@@ -1,8 +1,8 @@
 ---
 title: "Change a user name and email address in Office 365"
-ms.author: kwekua
-author: kwekua
-manager: scotv
+ms.author: dianef
+author: dianef
+manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -35,15 +35,14 @@ You may need to change someone's Office 365 email address and display name if, f
 
 You must be an [Office 365 global admin](about-admin-roles.md) to do these steps. 
   
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page, or choose **Users** \> **Active users**.
+1. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** > **Active Users**.
     
+2. Choose the user. In the flyout pane, next to **Username / Email**, choose **Edit**. 
     
-    
-2. On the **Active Users** page, select the name of the person you want to edit. 
-    
-3. On the right, in the **Username / Email Aliases** row, choose **Edit**.
-    
-4. In the **Alias** box, type the first part of the new email address. If you added your own domain to Office 365, you can choose the domain for the new email alias by using the drop-down list. Then choose **Add**. 
+3. In the first box, type the first part of the new email address. If you added your own domain to Office 365, you can choose the domain for the new email alias by using the drop-down list. 
+
+4. Choose **Save changes**.
+
     
     **IMPORTANT**: 
     
@@ -78,15 +77,15 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
 ## Change a user's display name
 
 
-1. Next to the person's display name, choose **Edit**.
+1. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** > **Active Users**.
     
-    ![Close-up of the Display name row, with a hand pointing to the Edit button.](../media/f93aefa1-f74d-49f3-836c-ec155e1721ad.png)
-  
-2. Type a new name for the person and then choose **Save**.
+2. Select the name of the person. In the flyout pane, next to **Contact information**, choose **Edit**.  
+
+3. Type a new name for the person and then choose **Save**.
     
     If you get the error message " **We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name.
     
-    ![The edit contact pane where you can type a new first, last, and display name.](../media/61bd5d52-3a2c-467c-acf3-0c41ae02e54f.png)
+    
   
 ## Did you get "A parameter cannot be found that matches parameter name 'EmailAddresses"?
 
