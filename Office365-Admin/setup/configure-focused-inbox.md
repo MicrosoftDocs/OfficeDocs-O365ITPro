@@ -36,7 +36,7 @@ You use PowerShell to turn Focused Inbox on or off for everyone in your organiza
   
 The following PowerShell example turns Focused Inbox **Off** in your organization. However, it doesn't block the availability of the feature for your users. If they want, they can still re-enable Focused Inbox again on each of their clients. 
   
-1. [Connect to Exchange Online using remote PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=396554)
+1. [Connect to Exchange Online using remote PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=396554).
     
 2. You need to be assigned permissions before you can perform this procedure or procedures. To see what permissions you need, see the "Transport rules" entry in [Messaging policy and compliance permissions](https://go.microsoft.com/fwlink/p/?LinkId=829796).
     
@@ -82,11 +82,11 @@ When a user decides to start using Focused Inbox, Clutter gets disabled automati
 
 This example turns Focused Inbox **Off** for Tim Matthews in the Contoso organization. However, it doesn't block the availability of the feature to him. If his wants, he can still re-enable Focused Inbox again on each of his clients. 
   
-1. [Connect to Exchange Online using remote PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=396554)
+1. [Connect to Exchange Online using remote PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=396554).
     
 2. You need to be assigned permissions before you can perform this procedure or procedures. To see what permissions you need, see the "Transport rules" entry in the Messaging policy and compliance permissions topic.
     
-3. Run the **Get-FocusedInbox** cmdlet. 
+3. Run the **Get-FocusedInbox** cmdlet, for example: 
     
   ```
      Get-FocusedInbox -Identity <tim@contoso.com>
@@ -96,7 +96,7 @@ This example turns Focused Inbox **Off** for Tim Matthews in the Contoso organiz
     
     ![Response from PowerShell on state of Focused Inbox.](../media/419d8caa-89b9-45c5-91d9-8c023297456e.png)
   
-5. Run the following cmdlet to turn Focused Inbox off.
+5. Run the following cmdlet to turn Focused Inbox off:
     
   ```
      Set-FocusedInbox -Identity <tim@contoso.com> -FocusedInboxOn $false
@@ -110,33 +110,13 @@ This example turns Focused Inbox **Off** for Tim Matthews in the Contoso organiz
 
 ## Use the UI to create a transport rule to direct email messages to the Focused view for all your users
 
-::: moniker range="o365-worldwide"
 
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
-
-::: moniker-end
-
-::: moniker range="o365-germany"
-
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
-
-::: moniker-end
-
- 1. Go to **Admin centers** \> **Exchange**. 
+=======
+1. Go to [Admin centers > Exchange](https://go.microsoft.com/fwlink/?linkid=2059104).
     
- 2. In the Exchange admin center, navigate to **mail flow** \> **Rules**. Click ![EAC Add icon](../media/795e5bdd-48bb-433f-8e07-3c7a19f8eca2.gif) and then choose **Create a new rule...**. 
-
- 3.Navigate to  **Apply this Rule if** \> **The Sender is...** \> Choose the **Sender** from People Picker.
-
- 4. Under Add action, Navigate to **Do the following** \> **Modify the message Properties...** \>  **Set a message header** \> Update the text  with **X-MS-Exchange-Organization-BypassFocusedInbox** and set the value to **true** 
-
- 5. After you're done creating the new rule, click **save** to start the rule. 
+2. In the Exchange admin center, navigate to **mail flow** \> **Rules**. Click ![EAC Add icon](../media/795e5bdd-48bb-433f-8e07-3c7a19f8eca2.gif) and then choose **Create a new rule...**. 
+    
+3. After you're done creating the new rule, click **Save** to start the rule. 
     
     The following image shows an example where all messages From "Payroll Department" are to be delivered to the Focused Inbox.
     
@@ -144,24 +124,27 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
   
 ## Use PowerShell to create a transport rule to direct email messages to the Focused view for all your users
 
-1. [Connect to Exchange Online using remote PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=396554)
+1. [Connect to Exchange Online using remote PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=396554).
     
 2. You need to be assigned permissions before you can perform this procedure or procedures. To see what permissions you need, see the "Transport rules" entry in [Messaging policy and compliance permissions](https://go.microsoft.com/fwlink/p/?LinkId=829796).
-    
+
 3. Run the following command to allow all messages from "Payroll Department," for example, to be delivered to the Focused Inbox.
     
   ```
      New-TransportRule -Name <name_of_the_rule> -From "Payroll Department" -SetHeaderName "X-MS-Exchange-Organization-BypassFocusedInbox" -SetHeaderValue "true"
   ```
 
-    > [!IMPORTANT]
-    > In this example, both "X-MS-Exchange-Organization-BypassFocusedInbox" and "true" is case sensitive. > Focused inbox will honor the X-header that bypasses clutter, so if you use this setting in Clutter, it will also be used in Focused Inbox. 
-  
-    For detailed syntax and parameter information, see [New-TransportRule](https://go.microsoft.com/fwlink/p/?LinkId=830194).
     
+    
+
+> [!IMPORTANT]
+> In this example, both "X-MS-Exchange-Organization-BypassFocusedInbox" and "true" are case sensitive.
+> Also, Focused Inbox will honor the X-header that bypasses Clutter, so if you use this setting in Clutter, it will be used in Focused Inbox. 
+> For detailed syntax and parameter information, see [New-TransportRule](https://go.microsoft.com/fwlink/p/?LinkId=830194).
+
 ### How do you know this worked?
 
-You can check email message headers to see if the email messages are landing in the Inbox due to the Focused Inbox transport rule bypass. Pick an email message from a mailbox in your organization that has the Focused Inbox transport rule applied. Look at the headers stamped on the message, and you should see the **X-MS-Exchange-Organization-BypassFocusedInbox: true** header. This means the bypass is working. Check out the [View the Internet header information for an email message](https://go.microsoft.com/fwlink/p/?LinkId=822530) topic for info on how to find the header information. 
+You can check email message headers to see if the email messages are landing in the Inbox due to the Focused Inbox transport rule bypass. Pick an email message from a mailbox in your organization that has the Focused Inbox transport rule applied. Look at the headers stamped on the message, and you should see the **X-MS-Exchange-Organization-BypassFocusedInbox: true** header. This means the bypass is working. Check out the [View the Internet header information for an email message](https://go.microsoft.com/fwlink/p/?LinkId=822530) article for info on how to find the header information. 
   
 ## Turn on/off Clutter
 
@@ -169,7 +152,7 @@ We've received reports that Clutter suddenly stopped working for some users. If 
   
 ## FAQ for Focused Inbox
 
-Here are answers to Frequently Asked Questions about Focused Inbox. If you can't find an answer to your question, let us know by leaving a comment and we'll add it to the list.
+Here are answers to Frequently Asked Questions about Focused Inbox. 
   
   
 ### Can I control how I roll out Focused Inbox in my organization?
