@@ -57,12 +57,7 @@ The help pane returned an Insight card and a few articles we think will help you
 
 ![Need help](../media/what-is-help/helppane.png)
 
+Or, you can use the O365 Assistant. Just click the toggle at the top of the "Need Help" pane to turn it on. Enter your query adn we'll help get you to the right answer to your question.   
 
+![Chatbot](../media/what-is-help/chatbot.png)
 
-We provide the following help for the admin center: 
-
-1. In-app help (help bubbles, Learn more links, framing content, consequences)
-2. Web help
-3. Self-help minimaven 
-1. Self-help using the Office Assistant
-1. Training (?)
