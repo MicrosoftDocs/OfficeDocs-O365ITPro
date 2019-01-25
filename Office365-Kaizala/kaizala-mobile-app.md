@@ -3,7 +3,7 @@ title: Kaizala mobile app
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 01/16/2019
+ms.date: 01/25/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: Kaizala
@@ -131,42 +131,6 @@ You can also create custom Kaizala actions. Contact kaizalaDev@microsoft.com to 
 ## Find and subscribe to public groups
 
 Public groups let you send feedback or report issues to the organizations you want to connect with. Most organizations' end users connect with them directly and access custom Actions to improve productivity, speed, and flow of information etc. You can find and subscribe to public groups from the **Discover** \> **Public Groups** page in the Kaizala app. Tap a public group's name, and select **Subscribe to this Public Group**.
-
-## Delete messages in Kaizala
-
-On Kaizala you can delete any message just for yourself, or delete a message sent by you for everyone who has received that message.
-
-### Delete sent messages for everyone
-
-This allows you to delete any message you have sent in a 1:1 chat or a group. It is very useful when either there was a mistake in the message, or the message was sent to the wrong chat. 
-
-When you delete a message for everyone it is replaced with text *“You deleted this message”* for you and when that message is successfully deleted for recipients it is replaced with text *“This message was deleted”*. 
-
-In organization groups admins can delete for everyone messages sent by other group members as well. In this case for recipients the message is replaced with text *“Admin deleted this message”*.
-
-To delete a message for everyone:
-
-1. Open the Kaizala app, and go to the 1:1 chat or group containing the message you want to delete for everyone.
-2. Tap and hold to select the message.
-3. Select **Delete** from the toolbar or menu options.
-4. Tap **Delete for Everyone**.
-
-> [!NOTE]
-> - For messages to be successfully deleted for everyone you and the recipients must be using a version of the app that supports this feature.
-> - Recipients may be able to see your message before it is deleted or if deletion was not successful.
-> - You will be allowed to delete a message for everyone only for about an hour after you have sent the message.
-> - You will not be notified if deleting for everyone was not successful.
-
-### Delete any message for yourself
-
-This allows you to delete your copy of messages you’ve sent or received from your phone. It has no effect on the chat of other recipients and they will continue to see the messages on their phone.
-
-To delete a message for yourself:
-
-1.	Open the Kaizala app and go to the 1:1 chat or group containing the message you want to delete for yourself.
-2.	Tap and hold to select the message.
-3.	Select **Delete** from the the toolbar or menu options.
-4.	Tap **Delete for Me**.
 
 ## Privacy
 
