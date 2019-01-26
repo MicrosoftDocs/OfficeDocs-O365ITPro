@@ -47,12 +47,20 @@ This article explains how to disable the ability to create groups **in all Offic
     
  **The best way to do this is to create a security group, and then only the people in that security group will be able to create Office 365 Groups and teams in these apps.** This article walks you through these steps. 
   
-To control who creates Office 365 Groups, you use Windows PowerShell, which is a lot like typing commands at the C:\ prompt in the old DOS environment. If you've never used PowerShell, this task is a great introduction to using it. We walk you through what you need to do, step-by-step.
+To manage who creates Office 365 Groups, you use Windows PowerShell, which is a lot like typing commands at the C:\ prompt in the old DOS environment. If you've never used PowerShell, this task is a great introduction to using it. We walk you through what you need to do, step-by-step.
   
+## Licensing requirements
+
+To manage who creates Office 365 Groups, the following people need Azure AD Premium licenses assigned to them:
+
+- The admin who configures these group creation settings.
+- The members of the specific group (such as a Security group) who are allowed to create other Office 365 Groups.
+
+The following people don't need Azure AD Premium licenses assigned to them: 
+- People who are members of Office 365 groups and who don't have the ability to create other Office 365 groups.
+
 ## What you need to know before you begin
 
-- Doing the steps in this article requires a subscription to Azure Active Directory (Azure AD) Premium. **The administrator who configures the settings, and the members of the affected groups, must have Azure AD Premium licenses assigned to them**. For more information see [Getting started with Azure Active Directory Premium](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-get-started-premium).
-    
 - Do not try to use the GA version - Azure Active Directory PowerShell for Graph - to perform the steps in this article. It won't work.
     
 - The PowerShell commands in this article only change who can create Office 365 Groups. They won't affect the rest of your Office 365 environment.

@@ -38,6 +38,13 @@ The group naming policy consists of the following features:
     
 - **Custom Blocked Words** You can upload a set of blocked words specific to their organization that would be blocked in groups created by users. (For example: "CEO, Payroll, HR"). 
     
+## Licensing requirements
+
+To use the Groups naming policy feature, the following people need an Azure Active Directory Premium P1 license:
+- Everyone who is a member of the group.
+- The person who creates the group.  
+
+
 ## Prefix-Suffix Naming policy
 
 Prefixes and suffixes can either be fixed strings or user attributes.
@@ -102,9 +109,7 @@ Selective administrators are exempted from these policies, across all group work
     
 - Directory writers
     
-## Licensing
 
-Group naming policy requires Azure Active Directory Premium P1 license for unique users that are members of Office 365 groups.
   
 ## Install the preview version of the Azure Active Directory PowerShell for Graph
 
