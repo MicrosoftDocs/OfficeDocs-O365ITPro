@@ -27,7 +27,7 @@ Microsoft Kaizala requires connectivity to the internet. Organizations, if requi
 > - Endpoint data is updated with new IP addresses and URLs published 30 days in advance of being active.
 > - Endpoint data might also be updated if needed to address support escalations, security incidents, or other immediate operational requirements.
 
-The endpoint data in the following table lists URLs and IP address ranges required for connectivity from a user’s device to Kaizala and related services. It does not include network connections from Microsoft into a customer network, sometimes called hybrid or inbound network connections.
+The following table shows endpoint URLs and IP address ranges required for connectivity from a user’s device to Kaizala and related services. It does not include network connections from Microsoft into a customer network, sometimes called hybrid or inbound network connections.
 
 | No. | Endpoint URLs | IP addresses | Ports | Notes|
 |--------|-----|-----------|----|------------|
