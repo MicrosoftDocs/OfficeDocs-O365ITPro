@@ -6,7 +6,6 @@ manager: pamgreen
 ms.date: 1/9/2019
 ms.audience: Admin
 ms.topic: reference
-ms.prod: office-online-server
 localization_priority: Normal
 ms.service: yammer
 ms.custom: Adm_Yammer

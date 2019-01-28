@@ -109,11 +109,11 @@ In this step, you create a SharePoint list to store the sentiment data that Azur
 
 <a name="create-cognitive-service"></a>
 
-## Step 4: Create Cognitive Service
+## Step 4: Create a Cognitive Service
 
 Create a Cognitive Service to perform sentiment analysis for the messsages posted in the Yammer group.
 
-1. In a web rbowser, open the [Azure Portal](https://portal.azure.com). 
+1. In a web browser, open the [Azure Portal](https://portal.azure.com). 
 
 2. Click **+ Create a resource**, then enter **Cognitive Services** in the search box. 
     
@@ -128,7 +128,7 @@ Create a Cognitive Service to perform sentiment analysis for the messsages poste
     ![Cognitive Services introductory page](../media/sa/create-cognitiveservice-2.png)
 
 
-3. Create Cognitive Services 
+3. Create a Cognitive Service 
  
     ![Cognitive Services detail page](../media/sa/create-cognitiveservice-detail.png)
 
