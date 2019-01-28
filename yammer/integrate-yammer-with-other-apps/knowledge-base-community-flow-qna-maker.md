@@ -6,7 +6,6 @@ manager: pamgreen
 ms.date: 1/9/2019
 ms.audience: Admin
 ms.topic: reference
-ms.prod: office-online-server
 localization_priority: Normal
 ms.service: yammer
 ms.custom: Adm_Yammer
@@ -14,7 +13,6 @@ search.appverid:
 - MET150
 - MOE150
 - YAE150
-ms.assetid: 37b730d6-99ad-43a2-967a-2eb52f48bdba
 description: "Integrate Yammer, Azure QnA Maker, and Microsoft Flow to build a knowledge base to automatically answer questions posed in the Yammer group."
 ---
 
