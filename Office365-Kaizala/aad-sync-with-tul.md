@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 01/10/2018
+ms.date: 01/29/2018
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -27,9 +27,12 @@ The Azure Active Directory (AAD) sync feature lets you sync user information in 
 
 - **Dynamic group management** - Allows you to dynamically create and manage groups based on rules and user attributes. For example, you can set a rule to create a group for employees with the *Senior Manager* designation in the *Finance* department.
 
-### Prerequisite
+### Prerequisites
 
-You must be a Kaizala organization admin with a Kaizala Pro license. 
+- You must be a Kaizala organization admin with a Kaizala Pro license.
+- You must have the **MobilePhone** or **BusinessPhone** field in AAD populated with phone numbers and the country code. Use either of these formats:
+  - <*country code*><*phone number*> (for example, +911234567890)
+  - <*country code*>-<*phone number*> (for example, +91-1234567890)
 
 ## How the AAD sync feature works
 

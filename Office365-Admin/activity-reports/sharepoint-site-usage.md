@@ -11,7 +11,8 @@ f1_keywords:
 - 'O365E_ReportsSPSiteUsage'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_UI_Elements
 - SharePoint_Online
 - Strat_SP_admin

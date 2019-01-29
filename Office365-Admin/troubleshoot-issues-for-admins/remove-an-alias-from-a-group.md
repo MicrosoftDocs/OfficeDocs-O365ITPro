@@ -12,7 +12,9 @@ f1_keywords:
 - 'AdminGroups_TSAlias'
 ms.service: o365-administration
 localization_priority: None
-ms.collection: Adm_O365
+ms.collection: 
+- M365-subscription-management 
+- Adm_O365
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration

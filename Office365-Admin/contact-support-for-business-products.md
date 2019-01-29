@@ -12,7 +12,8 @@ f1_keywords:
 - 'ms.cac.portal.contactsupport'
 ms.service: o365-administration
 localization_priority: None
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365
 - Adm_UI_Elements
 ms.custom:
@@ -306,7 +307,7 @@ Save time by starting your service request online. We'll help you find a solutio
 
 3. In the **Need help?** pane, tell us what you need help with, then press **Enter**. 
     
-4. If the results don't help, choose **Let us call you**. Confirm your contact number, then press **Call me**. The expected wait time for a call back is indicated in the **Need help?** pane. 
+4. If the results don't help, choose **New service request by phone**. Confirm your contact number, then press **Call me**. The expected wait time for a call back is indicated in the **Need help?** pane. 
 
 ## [In-store support](#tab/instore)
   
