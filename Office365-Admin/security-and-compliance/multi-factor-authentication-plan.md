@@ -7,7 +7,9 @@ ms.audience: Admin
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection: 
+- M365-subscription-management 
+- Adm_O365
 ms.custom:
 - Adm_O365
 - Adm_O365_FullSet

@@ -12,7 +12,8 @@ f1_keywords:
 - 'ms.cac.portal.contactsupport'
 ms.service: o365-administration
 localization_priority: None
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365
 - Adm_UI_Elements
 ms.custom:

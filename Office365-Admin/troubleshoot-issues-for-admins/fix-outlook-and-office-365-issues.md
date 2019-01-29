@@ -11,7 +11,8 @@ f1_keywords:
 - 'O365E_SARALearn'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_UI_Elements
 - EU_O365_UI_Elements
 ms.custom:
