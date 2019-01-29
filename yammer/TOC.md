@@ -63,6 +63,7 @@
 ### [Yammer and SharePoint Server](https://docs.microsoft.com/SharePoint/administration/integrate-yammer-with-on-premises-sharepoint-server-environments)
 ### [Yammer and Newsfeed](integrate-yammer-with-other-apps/yammer-and-newsfeed.md)
 ### [Knowledge-base community using Flow and QnA Maker](integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker.md)
+### [Sentiment analysis using Flow and Azure Cognitive Services](integrate-yammer-with-other-apps/sentiment-analysis-flow-azure.md)
 ## [Troubleshoot problems](troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices.md)
 ### [Help users log in to Yammer on Android devices](troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices.md)
 ### [Limited functionality in Explorer 10 document mode](troubleshoot-problems/limited-functionality-in-explorer-10-document-mode.md)
