@@ -1,5 +1,5 @@
 ---
-title: "Identify negative comments in a Yammer group by using Azure Cognitive Services and Flow"
+title: "Identify sentiment of comments in a Yammer group by using Azure Cognitive Services and Flow"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
@@ -13,14 +13,14 @@ search.appverid:
 - MET150
 - MOE150
 - YAE150
-description: "Integrate Yammer, Azure Cognitive Services, and Microsoft Flow to set up notifications when negative comments are posted in a Yammer group."
+description: "Integrate Yammer, Azure Cognitive Services, and Microsoft Flow to set up notifications when negative or positive comments are posted in a Yammer group."
 ---
 
-# Identify negative comments in a Yammer group by using Azure Cognitive Services and Flow
+# Identify sentiment of comments in a Yammer group by using Azure Cognitive Services and Flow
 
-This article shows you how to set up a Yammer group to collect feedback and ideas for continued improvement, and have one person in your organization notified immediately if negative feedback is posted. This solution uses Azure Cognitive Services to analyze the posted messages, and uses Microsoft Flow to connect Yammer, Azure Cognitive Services, SharePoint Online and Outlook.  
+This article shows you how to set up a Yammer group to collect feedback and ideas for continued improvement, and have one person in your organization notified immediately when a specific sentiment, such as positive or negative feedback is posted. This solution uses Azure Cognitive Services to analyze the posted messages, and uses Microsoft Flow to connect Yammer, Azure Cognitive Services, SharePoint Online and Outlook.  
 
-Once you have this integration set up with examples of positive and negative feedback, an email will be sent to a designated person whenever a negative message is posted so that a response can be posted quickly.
+Once you have this integration set up with examples of positive and negative feedback, an email will be sent to a designated person whenever a negative message is posted so that a response can be posted quickly. You can easily modify the integration to send email to track other types of opinions.
 
 ## Prerequisites
 

@@ -168,11 +168,11 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/process-flow.svg" alt="Integration example: Yammer, Flow, and Azure QnA Maker" data-linktype="external">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/lightbulb-idea-capture.svg" alt="Integration example: Knowledge base community" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
-                            <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker" data-linktype="absolute-path">Integration example: Yammer, Flow, and Azure QnA Maker</a></p>
+                            <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker" data-linktype="absolute-path">Integration example: Knowledge base community</a></p>
                     </div>
                 </div>
             </div>
@@ -184,7 +184,23 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/sign-up.svg" alt="AAD account required" data-linktype="external">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/trend-graph.svg" alt="Integration example: Sentiment analysis" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                            <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker" data-linktype="absolute-path">Integration example: Sentiment analysis</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/key-permissions.svg" alt="AAD account required" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -200,7 +216,7 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone-blue.svg" alt="Live events" data-linktype="external">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone.svg" alt="Live events" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -216,7 +232,7 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag-blue.svg" alt="Release notes" data-linktype="external">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag.svg" alt="Release notes" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
