@@ -10,7 +10,8 @@ f1_keywords:
 - 'O365P_DNSMgr_CustomDNS'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365_Domain_Core
 - Adm_O365_Setup
 ms.custom:

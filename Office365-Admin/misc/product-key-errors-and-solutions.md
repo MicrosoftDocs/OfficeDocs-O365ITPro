@@ -12,7 +12,8 @@ f1_keywords:
 - 'O365E_O365P_ProductKeyFAQ'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365
 - Adm_UI_Elements
 - EU_O365_UI_Elements

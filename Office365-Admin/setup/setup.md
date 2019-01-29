@@ -16,7 +16,8 @@ f1_keywords:
 - 'O365E_GSWUpsellAdminSetup'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365_Setup
 - Adm_O365_Top
 - Adm_UI_Elements
