@@ -29,7 +29,7 @@ Microsoft Kaizala requires connectivity to the internet. Organizations, if requi
 
 The following table shows endpoint URLs and IP address ranges required for connectivity from a user’s device to Kaizala and related services. It does not include network connections from Microsoft into a customer network, sometimes called hybrid or inbound network connections.
 
-| No. | Endpoint URLs | IP addresses | Ports | Notes|
+| No. | Endpoint URLs | IP addresses | Port | Notes|
 |--------|-----|-----------|----|------------|
 | 1 | kms.kaiza.la, manage.kaiza.la, join.kaiza.la, j.kaiza.la, webapp.kaiza.la |52.109.56.16, 52.109.56.17, 52.109.60.5, 52.109.60.6, 52.109.20.50, 52.109.20.52, 52.109.16.26, 52.109.16.27, 52.109.76.83,52.109.76.84, 52.109.88.113, 52.109.88.114, 52.109.124.45, 52.109.124.46, 52.109.120.89, 52.109.120.90, 52.109.56.12, 52.109.56.13   |443 | These are static IP addresses for Kaizala service endpoint, Kaizala management portal, Kaizala web app, and joining URLs |
 | 2 | cdn.inc-000.kms.osi.office.net, cdn.ins-000.kms.osi.office.net, cdn.scus-000.kms.osi.office.net, cdn.ncus-000.kms.osi.office.net, cdn.kascore-neu.osi.office.net, cdn.kascore-weu.osi.office.net, cdn.kascore-sea.osi.office.net, cdn.kascore-ea.osi.officeppe.net, osiziinclysithea001.blob.core.windows.net | |443 | Used for mostly storing documents and images generated within Kaizala |
