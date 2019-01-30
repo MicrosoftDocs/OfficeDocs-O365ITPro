@@ -10,7 +10,8 @@ f1_keywords:
 - 'O365P_1stDNSHoster'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365_Setup
 - Adm_O365_Top
 - strat_admin_top
@@ -106,8 +107,7 @@ There are a couple of scenarios that include either migrating data or users from
     
   - **Ask for help and we'll call you**. After you buy Office 365, you can access your Office 365 admin center (you don't need to run setup to get to it). At the bottom of your Office 365 admin center page, choose **Need help?** Describe your problem, and we'll call you. 
     
-    ![A picture of the Need help? button in the admin center.](../media/794c0461-5a78-4c0a-92f0-62b8c5f205e3.png)
-  
+      
   - **Call [Office 365 for Business Support](../contact-support-for-business-products.md) with your questions**. We're here to help! 
     
   - **Consider hiring a [Microsoft partner](https://go.microsoft.com/fwlink/?linkid=391089)**. If you're short on time, or have advanced requirements (like moving thousands of files to Office 365 cloud storage or integrating with other software), an experienced partner can be a big help. 

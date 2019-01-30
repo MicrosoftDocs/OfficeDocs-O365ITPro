@@ -12,7 +12,9 @@ f1_keywords:
 - 'campaign ID O365_Portal_Comm_Catalog_ExtraStorage_LearnMore'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection: 
+- M365-subscription-management 
+- Adm_O365
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration

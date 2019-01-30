@@ -8,7 +8,8 @@ ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365
 - Adm_O365_Domain_Core
 ms.custom:
