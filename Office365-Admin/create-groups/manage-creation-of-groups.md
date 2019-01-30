@@ -52,12 +52,12 @@ To manage who creates Office 365 Groups, you use Windows PowerShell, which is a 
   
 ## Licensing requirements
 
-To manage who creates Office 365 Groups, the following people need Azure AD Premium licenses assigned to them:
+To manage who creates Office 365 Groups, the following people need Azure AD Premium licenses or Azure AD Basic EDU licenses assigned to them:
 
 - The admin who configures these group creation settings.
 - The members of the specific group (such as a Security group) who are allowed to create other Office 365 Groups.
 
-The following people don't need Azure AD Premium licenses assigned to them: 
+The following people don't need Azure AD Premium or Azure AD Basic EDU licenses assigned to them: 
 - People who are members of Office 365 groups and who don't have the ability to create other Office 365 groups.
 
 ## What you need to know before you begin
