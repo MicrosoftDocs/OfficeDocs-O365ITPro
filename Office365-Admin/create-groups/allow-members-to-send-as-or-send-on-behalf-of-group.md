@@ -1,8 +1,8 @@
 ---
 title: "Allow members to send as or send on behalf of a Group"
-ms.author: dianef
-author: dianef77
-manager: mnirkhe
+ms.author: mikeplum
+author: MikePlumleyMSFT
+manager: pamgreen
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration

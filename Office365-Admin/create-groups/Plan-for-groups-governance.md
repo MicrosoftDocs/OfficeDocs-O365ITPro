@@ -1,8 +1,8 @@
 ---
 title: "Plan for Office 365 Groups governance"
-ms.author: dianef
-author: dianef77
-manager: mnirkhe
+ms.author: mikeplum
+author: MikePlumleyMSFT
+manager: pamgreen
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
