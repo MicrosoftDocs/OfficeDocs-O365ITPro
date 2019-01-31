@@ -34,7 +34,9 @@ description: "Use the admin center to set up your organization in the cloud, and
 
 # About the Office 365 admin center
 
-![Notice and a link to let you know the Admin Center is changing. If your experience doesn't match the details in this article, check out https://aboutM365preview.][(../media/O365-Admin-AdminCenterChanging.png)](../microsoft-365-admin-center-preview.md)
+[![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+
+[![Notice and a link to let you know the Admin Center is changing. If your experience doesn't match the details in this article, check out https://aboutM365preview.][(../media/O365-Admin-AdminCenterChanging.png)](../microsoft-365-admin-center-preview.md)
 
 **If you purchased an Office 365 business plan AND you have admin permissions, you have access to the admin center**. This article is for you! 
 
