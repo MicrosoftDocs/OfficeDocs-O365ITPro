@@ -37,7 +37,7 @@ feedback_system: None
 
 ## [Phone support ](#tab/phone)
   
-![Call support](media/call-center-agent.png)  Billing support is provided in English from 9 AM-5 PM (9 AM-6 PM in Australia), Monday-Friday.  <br/>Technical support is provided in English 24 hours a day, 7 days a week. <br/> Admins, have your account details ready when you call.<br/> 
+Billing support is provided in English from 9 AM-5 PM (9 AM-6 PM in Australia), Monday-Friday.  <br/>Technical support is provided in English 24 hours a day, 7 days a week. <br/> Admins, have your account details ready when you call.<br/> 
    
 - **In the United States, call 1 800 865 9408.**
     
