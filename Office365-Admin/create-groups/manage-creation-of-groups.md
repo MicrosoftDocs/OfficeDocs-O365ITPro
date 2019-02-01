@@ -139,7 +139,7 @@ Leave the PowerShell window open for Step 3, below.
   
 ## Step 3: Run PowerShell commands
 
-Copy the script below into a text editor, such as Notepad, or the [Windows PowerShell ISE](https://docs.microsoft.com/en-us/powershell/scripting/components/ise/introducing-the-windows-powershell-ise).
+Copy the script below into a text editor, such as Notepad, or the [Windows PowerShell ISE](https://docs.microsoft.com/powershell/scripting/components/ise/introducing-the-windows-powershell-ise).
 
 Replace *<SecurityGroupName>* with the name of the security group that you created. For example:
 
@@ -223,3 +223,5 @@ Try the same procedure again with a member of the security group.
 [Getting started with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=808033)
   
 [Set-ExecutionPolicy](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy)
+
+[Azure Active Directory cmdlets for configuring group settings](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-settings-cmdlets)
