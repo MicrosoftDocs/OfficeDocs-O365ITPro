@@ -72,7 +72,7 @@ Let's say you want to control what sub-domains Office 365 groups are created in.
 - All other users in the groups.contoso.com domain. Use this command:
     
   ```
-  New-EmailAddressPolicy -Name OtherGroups -IncludeUnifiedGroupRecipients -EnabledPrimarySMTPAddressTemplates "SMTP:@groups.contoso.com" -Priority 3
+  New-EmailAddressPolicy -Name OtherGroups -IncludeUnifiedGroupRecipients -EnabledPrimarySMTPAddressTemplate "SMTP:@groups.contoso.com" -Priority 3
   ```
 
 ## Change email address policies
