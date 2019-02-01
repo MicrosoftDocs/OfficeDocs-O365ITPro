@@ -118,6 +118,23 @@ This option is great if you want to have a group email address such as info@cont
     
 4. Choose **Save**.
     
+## Who can create Office 365 Groups
+
+All Office 365 users can create Office 365 Groups by default:
+  
+- Users can create up to 250 Office 365 Groups each.
+    
+- Office 365 admins have no limit on the number of Office 365 Groups that they can create.
+    
+- The default maximum number of Office 365 Groups that an Office 365 organization can have is currently 500,000, but can be increased by request. For more information on Office 365 Groups limits, see [Office 365 Groups - Admin help](https://support.office.com/article/3f780e8e-61aa-4287-830d-ff6209cbc192.aspx).
+    
+Several Office 365 services **require** the ability to create Office 365 Groups for specific functions. For example, a group is created automatically when a plan is created using Microsoft Planner. This means users can inadvertently create a lot of groups as they experiment with creating plans. 
+  
+You might want tighter control of Office 365 Group creation and prefer that not everyone can create them - that only users of Office 365 services that require Office 365 Groups creation are allowed to create them.
+  
+>[!NOTE]
+>Note that while you have the ability to [control which users can create Office 365 Groups](manage-creation-of-groups.md), it does not impact the ability of all licensed users to participate in group activities, such as creating tasks in Planner or responding to conversations in Outlook. 
+
 ## How following group email works
 
 It's important to understand how this setting works, especially if you're using a group inbox for a shared email address such as info@contoso.com.
