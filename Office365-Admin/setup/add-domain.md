@@ -61,7 +61,7 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
 
  **[Check the Domains FAQ](domains-faq.md)** if you don't find what you're looking for. 
   
- *You must be an Admin of a [business or enterprise plan](https://products.office.com/business/office) to add a domain.*
+ *To Add/Modifyt or remove domains you **must** be a **Global Administrator** of a [business or enterprise plan](https://products.office.com/business/office).*
   
 ::: moniker range="o365-worldwide"
 
