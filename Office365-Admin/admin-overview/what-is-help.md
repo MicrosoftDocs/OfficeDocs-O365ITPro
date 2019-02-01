@@ -34,7 +34,7 @@ Help bubbles provide on-the-spot help if you encounter potentially unfamiliar co
 In this example, a help bubble is used in the New Group wizard to provide detailed information about each of the group types to help the user decide which best suits their needs.
 ![Help bubble](../media/what-is-help/helpbubble.png)
 
-## Links to learn more
+## Links to documentation
 Links provide a quick pathway to official help content. Rather than interrupt their workflow by forcing them to hunt online for answers, links take you to articles based on the page you're currently using. You can discover more about a feature or the learn about the ramifications of a specific setting.
 
 In this example, as you complete a recommendation to set up sensitivity labels in their organization, the link “Show me where these labels appear” takes you to [this document](https://go.microsoft.com/fwlink/?linkid=2005245) so you can learn where the labels will appear to your users.
@@ -51,7 +51,7 @@ In this example, the GDPR Toolbox in the Office 365 Security & Compliance Center
 
 
 ## M365 "Need Help" pane
-Clicking the "Need Help" button in the M365 Admin Center opens a search box where you can describe a issue you're having or search for help articles.
+Clicking the "Need Help" button in the Microsoft 365 admin center opens a search box where you can describe a issue you're having or search for help articles.
 
 In this example, we searched for *verify my domain*. 
 The help pane returned an Insight card and a few articles we think will help you.
