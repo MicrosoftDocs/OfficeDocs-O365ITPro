@@ -31,13 +31,13 @@ We've included tips and help throughout the admin center so you can find the inf
 ## Help bubbles
 Help bubbles provide on-the-spot help if you encounter potentially unfamiliar concepts or need additional information about a setting (such as user impact or effect of different values). If needed, bubbles also include links to additional content.
 
-In this example, a help bubble is used in the New Group wizard to provide detailed information about each of the group types to help the user decide which best suits their needs.
+In this example, a help bubble is used in the New Group wizard to provide detailed information about each of type of group so you can decide which one best suits your needs. 
 ![Help bubble](../media/what-is-help/helpbubble.png)
 
 ## Links to documentation
-Links provide a quick pathway to official help content. Rather than interrupt their workflow by forcing them to hunt online for answers, links take you to articles based on the page you're currently using. You can discover more about a feature or the learn about the ramifications of a specific setting.
+Links provide a quick pathway to official help content. Rather than interrupt your workflow by forcing you to hunt online for answers, links take you to articles based on the page you're currently using. You can discover more about a feature or the learn about the ramifications of a specific setting.
 
-In this example, as you complete a recommendation to set up sensitivity labels in their organization, the link “Show me where these labels appear” takes you to [this document](https://go.microsoft.com/fwlink/?linkid=2005245) so you can learn where the labels will appear to your users.
+In this example, as you complete a recommendation to set up sensitivity labels, the link “Show me where these labels appear” takes you to [this document](https://go.microsoft.com/fwlink/?linkid=2005245) so you can learn where the labels will appear to your users.
 ![CSH](../media/what-is-help/cshexample.png)
 
 
