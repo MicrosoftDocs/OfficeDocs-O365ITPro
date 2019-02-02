@@ -1,8 +1,8 @@
 ---
 title: "Compare groups"
-ms.author: dianef
-author: dianef77
-manager: mnirkhe
+ms.author: mikeplum
+author: MikePlumleyMSFT
+manager: pamgreen
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -14,7 +14,9 @@ f1_keywords:
 - 'O365E_ESTypesOfGroups'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_UI_Elements
+ms.collection: 
+- M365-subscription-management 
+ - Adm_UI_Elements
 ms.custom:
 - Core_O365Admin_Migration
 - EmptyState

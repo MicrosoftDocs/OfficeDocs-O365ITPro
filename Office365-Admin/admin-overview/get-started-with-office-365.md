@@ -17,7 +17,8 @@ f1_keywords:
 - 'O365E_GetStarted'
 ms.service: o365-administration
 localization_priority: Priority
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365_Top
 - strat_admin_top
 ms.custom:

@@ -1,13 +1,15 @@
 ---
 title: "Choose the domain to use when creating Office 365 Groups"
-ms.author: dianef
-author: dianef77
-manager: mnirkhe
+ms.author: mikeplum
+author: MikePlumleyMSFT
+manager: pamgreen
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection: 
+- M365-subscription-management 
+- Adm_O365
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -70,7 +72,7 @@ Let's say you want to control what sub-domains Office 365 groups are created in.
 - All other users in the groups.contoso.com domain. Use this command:
     
   ```
-  New-EmailAddressPolicy -Name OtherGroups -IncludeUnifiedGroupRecipients -EnabledPrimarySMTPAddressTemplates "SMTP:@groups.contoso.com" -Priority 3
+  New-EmailAddressPolicy -Name OtherGroups -IncludeUnifiedGroupRecipients -EnabledPrimarySMTPAddressTemplate "SMTP:@groups.contoso.com" -Priority 3
   ```
 
 ## Change email address policies

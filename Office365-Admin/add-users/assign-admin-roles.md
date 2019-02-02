@@ -9,7 +9,8 @@ f1_keywords:
 - 'O365P_AssignAdminPermissions'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365
 - Adm_O365_Top
 - Adm_UI_Elements
@@ -98,8 +99,6 @@ As the person who purchased your Office 365 business subscription, you are the g
 If you know PowerShell, see [Assign roles to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/?linkid=854257). It's ideal for assigning roles to hundreds of users.
   
 Use the following instructions to assign roles to tens of users.
-  
-::: moniker range="o365-worldwide"
 
 ::: moniker range="o365-worldwide"
 1.  In the admin center, go to the [Active users](https://portal.office.com/adminportal/home) page

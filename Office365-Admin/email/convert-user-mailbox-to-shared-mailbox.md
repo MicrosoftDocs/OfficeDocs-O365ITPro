@@ -7,7 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection: 
+- M365-subscription-management 
+- Adm_O365
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -110,8 +112,11 @@ We've addressed most of the reasons why this happens but it still CAN happen, al
 > [!NOTE]
 > If you are an Organization Management or Recipient Management, you will have to use Powershell to change a user mailbox to a shared mailbox on-premises. You can use the command ```   Set-Mailbox -Type Shared   ```
 
+> [!TIP]
+> See the workaround in this support solution for instances when [shared mailboxes are unexpectedly converted to user mailboxes](https://support.microsoft.com/en-us/help/2710029/shared-mailboxes-are-unexpectedly-converted-to-user-mailboxes-after-di)
+  
 ## Related Topics
 
 [Create a shared mailbox](create-a-shared-mailbox.md)
-  
+ 
 
