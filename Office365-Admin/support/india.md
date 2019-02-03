@@ -16,7 +16,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 [Find another country or region](../contact-support-for-business-products.md).
 
 ## Phone number
-000 800 440 2038
+0124 4158000
 
 ## Hours
 ### Billing Support:
@@ -27,6 +27,10 @@ English: Mon-Fri 9 AM-6 PM
 
 English: 24 hours a day, 7 days a week
 
-Alternative Phone Number: 1800 200 2052
+Alternative Phone Number: 1800 102 1100 or 1800 111 1100
 
-Local toll-free
+Local toll-free: +91 80 40103000
+
+> [!TIP]
+
+   > You can use also visit https://www.microsoft.com/en-in/contact.aspx to get more contact information for support in India.
