@@ -52,18 +52,16 @@ We use your feedback to prioritize which features we work on.
   
 ## More articles about managing groups
 
-    
-- [Plan for governance in Office 365 Groups](Plan-for-groups-governance.md)]
-- [Upgrade distribution lists to Office 365 Groups in Outlook](../manage/upgrade-distribution-lists.md)
-    
-- [Why you should upgrade your distribution lists to groups in Outlook](https://support.office.com/article/7fb3d880-593b-4909-aafa-950dd50ce188.aspx)
-    
-- [Manage Office 365 Groups with PowerShell](https://support.office.com/article/aeb669aa-1770-4537-9de2-a82ac11b0540): this article introduces you to key cmdlets and provides examples
-    
-- [Create a Distribution Group Naming Policy](https://go.microsoft.com/fwlink/p/?LinkId=616615)
-    
-- [Manage dynamic distribution groups](https://technet.microsoft.com/en-us/library/bb123722%28v=exchg.150%29.aspx)
-    
-- [Public folders in Office 365 and Exchange Online](https://technet.microsoft.com/en-us/library/jj200758%28v=exchg.150%29.aspx)
-    
+- [Plan for governance in Office 365 Groups](Plan-for-groups-governance.md)
 
+- [Upgrade distribution lists to Office 365 Groups in Outlook](../manage/upgrade-distribution-lists.md)
+
+- [Why you should upgrade your distribution lists to groups in Outlook](https://support.office.com/article/7fb3d880-593b-4909-aafa-950dd50ce188.aspx)
+
+- [Manage Office 365 Groups with PowerShell](https://support.office.com/article/aeb669aa-1770-4537-9de2-a82ac11b0540): this article introduces you to key cmdlets and provides examples
+
+- [Create a Distribution Group Naming Policy](https://go.microsoft.com/fwlink/p/?LinkId=616615)
+
+- [Manage dynamic distribution groups](https://technet.microsoft.com/en-us/library/bb123722%28v=exchg.150%29.aspx)
+
+- [Public folders in Office 365 and Exchange Online](https://technet.microsoft.com/en-us/library/jj200758%28v=exchg.150%29.aspx)
