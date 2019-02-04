@@ -43,7 +43,10 @@ Any new release is first tested and validated by the feature team, then by the e
   
 ![Release validation rings for Office 365](../media/73611ed3-2d8c-4e7b-8074-9f03b239f9ed.png)
   
-For significant updates, Office customers are initially notified by the [Office 365 public roadmap](https://products.office.com/business/office-365-roadmap). As an update gets closer to rolling out, it is communicated through your [Office 365 Message Center](https://go.microsoft.com/fwlink/p/?LinkID=402336).
+For significant updates, see the [Microsoft 365 Roadmap](https://www.microsoft.com/microsoft-365/roadmap). As an update gets closer to rolling out, it is communicated through your [Office 365 Message Center](https://admin.microsoft.com/Adminportal/Home#/MessageCenter).
+
+> [!NOTE]
+> You need an Office 365 or Azure AD account to access the Office 365 Message Center from within Office 365.
 
 ## Standard release
 
