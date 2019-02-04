@@ -21,7 +21,7 @@ description: Learn how to use Kaizala Web to access Kaizala from a browser windo
 
 # Kaizala Web
 
-Kaizala Web (Preview) will allow you to access Kaizala from a browser on your computer. Before you can use Kaizala Web, you need to log in to the Kaizala app on your mobile device. Kaizala Web is simply an extension of your phone; the web app mirrors conversations and messages from your mobile device.
+Kaizala Web (Preview) allows you to access Kaizala through a browser on your computer. It gives you many of the same features as the Kaizala app. Before you can use Kaizala Web, you need to log in to the Kaizala app on your mobile device.
   
 > [!IMPORTANT]
 > You're part of this preview if you can see the **Kaizala Web** tab under the **Me** section of the app. If you want to join the preview, make sure to install the latest version of Kaizala on your phone. 
@@ -36,45 +36,48 @@ For more info about Kaizala, see [Microsoft Kaizala](https://products.office.com
     
 3. Go to https://webapp.kaiza.la/ in your Microsoft Edge or Google Chrome web browser.
     
-4. Enter your Kaizala phone number, and select **Generate Code**. 
+4. Enter your Kaizala phone number, and then select **Generate Code**. 
     
-![Sign in to Kaizala with your phone and select Generate code.](media/07f8a26f-a72c-455d-8031-5dcfe1e1701d.png)
+   ![Sign in to Kaizala with your phone and select Generate code.](media/07f8a26f-a72c-455d-8031-5dcfe1e1701d.png)
   
 5. From the Kaizala app on your mobile phone, go to **Me** \> **Kaizala Web** to view the pairing code.
   
 6. From the **Verify Code** page on your browser, enter the pairing code, and then select **Verify &amp; Sign in**. 
   
-![Verify code to sign in to Kaizala](media/109dd1fc-3637-4802-a901-2dab6a20a234.png)
+   ![Verify code to sign in to Kaizala](media/109dd1fc-3637-4802-a901-2dab6a20a234.png)
   
 You can now use Kaizala on your browser and the mobile app.
   
 ## What's available in Kaizala Web (Preview)?
 
 - Send, receive, and view messages.
-- Send, receive, and view attachments (including image, video, and document files). You can't use your computer's camera and microphone for creating new attachments.
-- View and respond to some out-of-the-box and custom actions.
-- Use Reply-to functionality.
-- Copy-and-paste or drag-and-drop files to attach (including image, video, and document files).
+- Send, receive, and view attachments (including image, video, and document files). You can't use your computer's camera or microphone for creating new attachments.
+- View and respond to certain types of actions.
+- Reply to other people.
+- Copy-and-paste or drag-and-drop files, including images, videos and files.
 - Start 1:1 chats.
-- Create a new group from the web app.
-- Receive browser notifications for new messages and updates
+- Create a new group.
+- Receive browser notifications for new messages and updates.
 
 ## Recommended setting on your mobile device
 
-- Have your phone on charge while using the web app for an extended period (to avoid app going into sleep mode).
-- Connect to WiFi to avoid phone network data usage.  
-- Disable battery optimizations on Kaizala. To do this, go to Kaizala settings and optimize your notifications.
-- Do not hard close the Kaizala app.
+- Charge your phone while using the web app for an extended period. This prevents the app from going into sleep mode.
+- Connect to WiFi so you don’t use your cellular data.  
+- Disable battery optimization in Kaizala.
+- Don’t force the Kaizala app to close.
     
 ## What's not available in Kaizala Web (Preview)?
 
-- Likes and comments support. (Coming soon)
-- Forward and delete functionality. (Coming soon)
-- Profile and group information. (Coming soon)
-- Intune support: We can't open Intune protected groups on the web app for data protection purposes. 
+Not everything is available today in Kaizala Web (Preview). Here are some of the features coming soon:
+
+- Likes and comments. 
+- Forward and delete functionality. 
+- Profile and group information. 
+- Intune support. To keep your data safe, Intune-protected groups aren’t currently available.
   
 ## Report an issue or send feedback
 
-- To report an issue or send us feedback, from Kaizala Web, select **Report an issue** on the **Me** tab, or click the **Smiley** icon on the top-right. 
+We want to hear from you. To report an issue or send us feedback from Kaizala Web, go to **Me** > **Report an issue**, or select the **Smiley** icon on the upper-right portion of the app window.
+
     
 
