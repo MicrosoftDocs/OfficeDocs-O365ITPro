@@ -3,7 +3,7 @@ title: "Identify sentiment of comments in a Yammer group by using Azure Cognitiv
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 1/27/2019
+ms.date: 2/4/2019
 ms.audience: Admin
 ms.topic: reference
 localization_priority: Normal
@@ -297,5 +297,5 @@ Post message in Yammer discussion group to trigger the Yammmer Sentiment Analysi
 
 **Please note that it takes a few minutes for the flow to execute after the messages are posted to Yammer.**   
 
-Thank you to Tim McDaniel, Microsoft MVP, for developing this integration.
+Thank you to Todd Baginski, Microsoft MVP, and Chris Bortlik for developing this integration.
 
