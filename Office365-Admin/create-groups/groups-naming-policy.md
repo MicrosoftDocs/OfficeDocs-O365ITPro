@@ -191,11 +191,11 @@ In the output, check the values for `CustomBlockedWordsList`, `EnableMSStandardB
   
 Copy the script below into a text editor, such as Notepad, or the [Windows PowerShell ISE](https://docs.microsoft.com/powershell/scripting/components/ise/introducing-the-windows-powershell-ise).
 
-Replace *<WordList>* with the list of words that you want to block. For example:
+Replace *\<WordList\>* with the list of words that you want to block. For example:
 
 `$BlockedWords = "Payroll,CEO,HR"`
 
-Replace *<PrefixSuffixNaming>* with the prefix and suffix information that you want to require. For example:
+Replace *\<PrefixSuffixNaming\>* with the prefix and suffix information that you want to require. For example:
 
 `$PrefixSuffix = "Grp_[Department]_[GroupName]_[CountryOrRegion]"`
 
