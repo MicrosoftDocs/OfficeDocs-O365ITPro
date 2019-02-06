@@ -26,7 +26,7 @@ description: "Get an overview of Office 365 Message center and its role in chang
 
 To keep track of upcoming feature releases or issues, go to [Message center](https://go.microsoft.com/fwlink/?linkid=2070717). That's where we post official announcements about new and changed features to enable you to take a proactive approach to change management. Each post gives you a high-level overview of a planned change and how it may affect your users, and links out to more detailed information to help you prepare.
   
-To open Message center:
+To open the Message center:
 
 - In the admin center, go to **Health** > [Message center](https://go.microsoft.com/fwlink/?linkid=2070717).
 
@@ -44,7 +44,7 @@ You can also use the [Office 365 Admin app](https://go.microsoft.com/fwlink/p/?l
 |Who can view posts in Message center?  <br/> |Users who have been assigned any admin role in Office 365 can view Message center posts. You can also assign the Message center reader role to users who should be able to read and share Message center posts without having any other admin privileges. And you can assign the Message Center Privacy reader role to people who should see notifications about data breaches. See [About Office 365 admin roles](../add-users/about-admin-roles.md) to learn more about what each admin role can do. <br/><br/>Most Message center posts can be shared through email with non-admin users who may need to take action. This option is not available for data privacy posts that the Message Center Privacy reader views. <br/> |
 |Is this the only way Microsoft will communicate changes about Office 365?  <br/> |No, there are many ways that we communicate changes in Office 365. Message center is the primary way that we communicate the timing of individual changes. See [Stay on top of Office 365 changes](stay-on-top-of-updates.md) for information about additional resources.  <br/> |
 |How can I see posts in my language?  <br/> |Message center posts are written in English-only due to the timeliness of the information we are posting, but you can control whether, by default, posts are shown in English or are automatically machine-translated to your preferred language. And, no matter which default view you choose, you can select to machine-translate posts to any language we support. See [Language translation for Message center posts](language-translation-for-message-center-posts.md) for more details.  <br/> |
-|Can I preview changes or features before they are rolled-out to my organization?  <br/> |Sometimes. Some changes and new features can be previewed by opting in to the Targeted release program. To opt-in, in the Office 365 Admin center, go to **Settings** \> **Organization profile** \> **Release preferences**. You can choose Targeted release for your entire organization, or just for selected users. See [Standard or Targeted release options in Office 365](release-options-in-office-365.md) for more information about the program.  <br/> |
+|Can I preview changes or features before they are rolled-out to my organization?  <br/> |Sometimes. Some changes and new features can be previewed by opting in to the Targeted release program. To opt-in, in the admin center, go to **Settings** \> **Organization profile** \> **Release preferences**. You can choose Targeted release for your entire organization, or just for selected users. See [Standard or Targeted release options in Office 365](release-options-in-office-365.md) for more information about the program.  <br/> |
 |Can I find out the exact date a change will be available to my organization?  <br/> |Unfortunately, we can't tell you the exact date a change will be made to your organization. In our Message center post, we will give as much information as we can on the timing of the release, based on our confidence level. We understand you want us to be more specific on timing of releases, and we're working on improvements to get better with that level of detail.  <br/> |
 |Are these messages specific to my organization?  <br/> |We do our best to make sure that you only see Message center posts that affect your organization. The Office 365 Roadmap includes all of the features we are currently working on and rolling out, but not all of these features apply to every Office 365 organization. For example, if a feature is rolling out only to educational institutions, we will target the Message center post ONLY to those organizations.  <br/> |
 |Can I get message center posts emailed instead?  <br/> |Yes! You can select to have a weekly digest emailed to you and up to two email addresses. If you need to have the digest go to more than two more people, you can send to an Office 365 group or distribution list. The emailed weekly digest is turned on by default. If you aren't getting your weekly digests, check your spam folder. See the **Set preferences** section of this article for more information on how to set up the weekly digest.  <br/> |
@@ -97,13 +97,16 @@ Major updates are defined as:
     
 - Changes to where your data is stored
     
-When you open a major update post to read it, you'll see a new gray header that has information specific to this major update, including the current roll-out status. In the example shown below, the major update has started Targeted release, it applies to targeted release customers only, and there are at least 40 days remaining before the feature moves into general availability.
+When you open a major update post to read it, you'll see a new gray header that has information specific to this major update, including the current roll-out status. In the following image, the major update has started Targeted release, it applies to targeted release customers only, and there are at least 40 days remaining before the feature moves into general availability.
   
 ![Major update post opened for reading.](../media/8e1b4527-e68d-4937-9145-c42faf72e08a.png)
   
 ### Set preferences
 
-If administration is distributed across your organization, you may not want or need to see posts about all Office 365 services. Each admin can set preferences that control which messages are displayed in Message center. You can also opt-in to receive a weekly digest of messages in email, to make sure you never miss an important post. 
+If administration is distributed across your organization, you may not want or need to see posts about all Office 365 services. Each admin can:
+- Set preferences that control which messages are displayed in Message center.
+- Filter messages
+- Opt-in to receive a weekly digest of messages in email, to make sure you never miss an important post. 
 
 >[!Tip]
 > Data privacy messages that the Message Center Privacy reader gets are not included in the weekly digest. 
