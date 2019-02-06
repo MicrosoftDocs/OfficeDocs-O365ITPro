@@ -21,6 +21,12 @@ We're continuously adding new features to the Microsoft 365 admin center preview
 
 Want to know how to participate in the preview? Checkout [About the Microsoft 365 admin center preview](microsoft-365-admin-center-preview.md).
   
+## January 2019 - Happy New Year!
+- **Feedback update** We re-combined Licenses & apps in the user details pane. This was a direct result of feedback that we received from you. Check out the fix and tell us what you think. **Users > Active users > Edit or Add user > Licenses and Apps**. 
+- Still adding in **Services & add-ins** - We've updated more of the **Settings > Services & add-ins** pages. Try Integrated Apps or Reports to see the latest. 
+- **Searching for improvements?** Look no further than the **Search** box in the command bar. It's been updated to let you search for tasks. For example, try "password reset" or "add a user".  
+
+
 ## December 2018
 - **Services & add-ins** - In October we updated **Settings** \> **Services & add-ins** with our new design style, but all of the settings pages were still in the classic style. This month, we've started updating the actual settings to the new design. Check out **Bookings** to see the new look.
 - **User management** - Manage username, alias, primary email address.
