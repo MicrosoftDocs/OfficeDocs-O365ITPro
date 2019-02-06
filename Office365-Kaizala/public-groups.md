@@ -21,6 +21,13 @@ description: Learn how to use Kaizala public groups to expose a single channel o
 # Kaizala public groups
 
 Kaizala public groups allow enterprises to expose a single channel on Kaizala, where they can connect privately with a large set of Kaizala subscribers. These channels can be used to share and receive information and/or provide updates.
+
+# Kaizala Public Groups Types
+
+- **Admins**: Users that can accept or reject subscribers. Also, have the ability to add or remove members and manage the settings on Kaizala
+- **Members**: Users that have been added by administrators into a public group.
+- **Subscribers**:  Users that have searched and finded a public group and wants to be part of it. In some cases it needs the approval of the public group admin.
+
     
 ## Create a public group
 
