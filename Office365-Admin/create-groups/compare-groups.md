@@ -84,4 +84,3 @@ Currently it's not possible to migrate a shared mailbox to an Office 365 Group. 
 ## Related topics
 
 [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)
-
