@@ -18,7 +18,7 @@ f1_keyword: MACDashWhatsNew
 ---
 
 # What's new in Microsoft 365 admin center preview
-We're continuously adding new features to the Microsoft 365 admin center preview, fixing issues we learn about, and making changes based on your feedback. As the new admin center is getting built, you'll want to know about what's getting added, what's new, and what's being removed. Take a look below to see what's available for you today.
+We're continuously adding new features to the Microsoft 365 admin center preview, fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today.
 
 Want to know how to participate in the preview? Checkout [About the Microsoft 365 admin center preview](microsoft-365-admin-center-preview.md).
   
@@ -26,14 +26,9 @@ Want to know how to participate in the preview? Checkout [About the Microsoft 36
 - Still adding in **Services & add-ins** - We've updated more of the **Settings > Services & add-ins** pages. Try Integrated Apps or Reports to see the latest. 
 - **Searching for improvements?** Look no further than the **Search** box in the command bar. It's been updated to let you search for tasks. For example, try "password reset" or "add a user".  
 
-### Feedback update O'the Month - Licenses and apps
-Starting this month, we're going to spotlight a bug fix or feature request that was driven by your feedback. 
+### Featured Feedback Fix - Licenses and apps
 
-We re-combined **Licenses & apps** in the user details pane. This is actually a double-whammy feedback fix. We separated the two features initially based on feedback from admins that it was confusing that if a service or app was turned off on one license, it may not have been turned off in another license assigned to the user that app was still accessible by the user. 
-
-But then we received feedback from you that you didn't like them separated, so we put them back together. Peanut butter and chocolate. Licenses and apps. We get it now.
-
-But don't worry, we kept the functionality where if you turn off one app or service in a license, it turns it off for all licenses assigned to that user.
+We re-combined **Licenses & apps** in the user details pane. This is actually a double-whammy feedback fix. We initially separated the two features to provide space for the details of all license and all app possibilities.  Through preview feedback, we heard from that separating licenses and apps into two panes added confusion.  We listened, and brought licenses and apps back together into one tab.  Now you can make sure that an app is turned off in all licenses assigned to a user in one pane.  Milk and cookies.  Licenses and apps.  We get it now.
 
 Check it out: **Users > Active users > Edit or Add user > Licenses and Apps**. 
 
