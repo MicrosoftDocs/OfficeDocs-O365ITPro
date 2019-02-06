@@ -45,7 +45,7 @@ Office 365 groups are used for collaboration between users, both inside and outs
 
 You can add users external to your company to an Office 365 group as long as this has been [enabled by the administrator](manage-guest-access-in-groups.md). You can also allow external senders to send email to the group email address.
 
-Office 365 groups can be [configured for dynamic membership in Azure Active Directory](/azure/active-directory/users-groups-roles/groups-change-type), allowing group members to be added or removed automatically based on user attributes such as department, location, title, etc.
+Office 365 groups can be [configured for dynamic membership in Azure Active Directory](../azure/active-directory/users-groups-roles/groups-change-type), allowing group members to be added or removed automatically based on user attributes such as department, location, title, etc.
 
 Office 365 groups can be accessed through mobile apps such as Outlook for iOS and Outlook for Android.
 
@@ -53,7 +53,7 @@ Group members can send as or send on behalf of the group email address if this h
 
 ## Distribution lists
 
-[Distribution lists](/exchange/recipients-in-exchange-online/manage-distribution-groups/manage-distribution-groups) are used for sending notifications to a list of people. They can receive external email if enabled by the administrator.
+[Distribution lists](../../exchange/recipients-in-exchange-online/manage-distribution-groups/manage-distribution-groups) are used for sending notifications to a list of people. They can receive external email if enabled by the administrator.
 
 Distribution groups are best for situations where you need to broadcast information to a set group of people, such as "People in Building A" or "Everyone at Contoso."
 
