@@ -119,8 +119,9 @@
 ### [Create DNS records at any DNS hosting provider](get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md)
 ### [Remove a domain](get-help-with-domains/remove-a-domain.md)
 ### [Transfer data manually](get-help-with-domains/transfer-data-manually.md)
-## [Groups](create-groups/create-groups.md)
+## Groups
 ### [Compare groups](create-groups/compare-groups.md)
+### [Create an Office 365 Group](create-groups/create-groups.md)
 ### [Plan for governance in Office 365 Groups](create-groups/plan-for-groups-governance.md)
 ### [Manage creation of Groups](create-groups/manage-creation-of-groups.md)
 ### [Choose domain to create Groups](create-groups/choose-domain-to-create-groups.md)
