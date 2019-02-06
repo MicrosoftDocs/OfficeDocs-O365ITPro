@@ -22,10 +22,18 @@ We're continuously adding new features to the Microsoft 365 admin center preview
 Want to know how to participate in the preview? Checkout [About the Microsoft 365 admin center preview](microsoft-365-admin-center-preview.md).
   
 ## January 2019 - Happy New Year!
-- **Feedback update** We re-combined Licenses & apps in the user details pane. This was a direct result of feedback that we received from you. Check out the fix and tell us what you think. **Users > Active users > Edit or Add user > Licenses and Apps**. 
+- **Feedback update** 
 - Still adding in **Services & add-ins** - We've updated more of the **Settings > Services & add-ins** pages. Try Integrated Apps or Reports to see the latest. 
 - **Searching for improvements?** Look no further than the **Search** box in the command bar. It's been updated to let you search for tasks. For example, try "password reset" or "add a user".  
 
+### Feedback update O'the Month - Licenses and apps
+Starting this month, we're going to spotlight a bug fix or feature request that was driven by your feedback. 
+
+We re-combined Licenses & apps in the user details pane. This is actually a double-whammy feedback fix. We separated the two features initially based on feedback from admins that it was confusing that if a service or app was turned off on one license, it may not have been turned off in another license assigned to the user that app was still accessible by the user. 
+
+But then we received feedback from you that you didn't like them separated, so we put them back together. Peanut butter and chocolate. Licenses and apps. We get it now.
+
+Check it out: **Users > Active users > Edit or Add user > Licenses and Apps**. 
 
 ## December 2018
 - **Services & add-ins** - In October we updated **Settings** \> **Services & add-ins** with our new design style, but all of the settings pages were still in the classic style. This month, we've started updating the actual settings to the new design. Check out **Bookings** to see the new look.
