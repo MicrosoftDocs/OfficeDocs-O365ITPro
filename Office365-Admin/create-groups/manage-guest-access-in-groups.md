@@ -104,17 +104,14 @@ By default, the Sharing option in your organization is turned on. This option al
 ## Use PowerShell to control guest access
 <a name="bkmk_UsePowerShell"> </a>
 
-### Install the preview version of the Azure Active Directory PowerShell for Graph
+## Install the preview version of the Azure Active Directory PowerShell for Graph
 
- **IMPORTANT**: You cannot install both the preview and GA versions on the same computer at the same time **.**
+These procedures require the the preview version of the Azure Active Directory PowerShell for Graph. The GA version will not work.
+
+> [!IMPORTANT]
+> You cannot install both the preview and GA versions on the same computer at the same time.
   
 As a best practice, we recommend  *always*  staying current: uninstall the old AzureADPreview or old AzureAD version and get the latest one. 
-  
-1. Open Windows PowerShell as an administrator:
-    
-    The Windows PowerShell window will pop open. The prompt C:\Windows\system32 means you opened it as an administrator.
-    
-    ![What PowerShell looks like when you first open it.](../media/246a4acc-149d-4b96-b8a3-2d702fee1ddc.png)
   
 1. In your search bar, type Windows PowerShell.
     
@@ -124,147 +121,84 @@ As a best practice, we recommend  *always*  staying current: uninstall the old A
   
 2. Check installed module:
     
-  ```
-  Get-InstalledModule -Name "AzureAD*"
-  ```
+    ```
+    Get-InstalledModule -Name "AzureAD*"
+    ```
 
 3. To uninstall a previous version of AzureADPreview or AzureAD, run this command:
   
-```
-   Uninstall-Module AzureADPreview
-```
+    ```
+    Uninstall-Module AzureADPreview
+    ```
 
-or
+    or
   
-```
-   Uninstall-Module AzureAD
-```
+    ```
+    Uninstall-Module AzureAD
+    ```
 
 4. To install the latest version of AzureADPreview, run this command:
   
+    ```
+    Install-Module AzureADPreview
+    ```
+
+    At the message about an untrusted repository, type **Y**. It will take a minute or so for the new module to install.
+
+Leave the PowerShell window open for Step 3, below.
+
+### Configure guest Access
+
+Copy the script below into a text editor, such as Notepad, or the [Windows PowerShell ISE](https://docs.microsoft.com/powershell/scripting/components/ise/introducing-the-windows-powershell-ise).
+
+Update the script as follows:
+
+To let group members outside the organization access group content, set `$AllowGuestsToAccessGroups = "True"`, otherwise set `$AllowGuestsToAccessGroups = "False"`.
+
+To let group owners add people outside the organization to groups, set `$AllowToAddGuests = "True"`, otherwise, set `$AllowToAddGuests = "True"`.
+
+Save the file as ExternalGroupAccess.ps1. 
+
+In the PowerShell window, navigate to the location where you saved the file (type "CD <FileLocation>").
+
+Run the script by typing:
+
+`.\ExternalGroupAccess.ps1`
+
+and sign in with your administrator account when prompted.
+
+```PowerShell
+$AllowGuestsToAccessGroups = "True"
+
+$AllowToAddGuests = "True"
+
+Connect-AzureAD
+
+try
+    {
+        $template = Get-AzureADDirectorySettingTemplate | ? {$_.displayname -eq "group.unified"}
+        $settingsCopy = $template.CreateDirectorySetting()
+        New-AzureADDirectorySetting -DirectorySetting $settingsCopy
+        $settingsObjectID = (Get-AzureADDirectorySetting | Where-object -Property Displayname -Value "Group.Unified" -EQ).id
+    }
+catch
+    {
+        $settingsObjectID = (Get-AzureADDirectorySetting | Where-object -Property Displayname -Value "Group.Unified" -EQ).id       
+    }
+
+$settingsCopy = Get-AzureADDirectorySetting -Id $settingsObjectID
+
+$settingsCopy["AllowGuestsToAccessGroups"] = $AllowGuestsToAccessGroups
+
+$settingsCopy["AllowToAddGuests"] = $AllowToAddGuests
+
+Set-AzureADDirectorySetting -Id $settingsObjectID -DirectorySetting $settingsCopy
+
+(Get-AzureADDirectorySetting -Id $settingsObjectID).Values
 ```
-   Install-Module AzureADPreview
-```
 
-At the message about an untrusted repository, type **Y**. It will take a minute or so for the new module to install.
-  
-### Allow or block guest access to all Office 365 groups
-<a name="BKMK_UsePowerShellControlGuestAccess"> </a>
+The last line of the script will display the updated settings:
 
-1. Did you install the **AzureADPreview** module, as instructed in the above section "Install the preview version of the Azure Active Directory Module for Windows PowerShell"? Not having the most current **preview** version is the #1 reason these steps don't work for people. 
-    
-2. If you haven't already, open a Windows PowerShell window on your computer (it doesn't matter if it's a normal Windows PowerShell window, or one you opened by selecting **Run as administrator**).
-    
-3. Run the following commands. Press **Enter** after each command. 
-    
-  ```
-  Import-Module AzureADPreview
-  ```
-
-  ```
-  Connect-AzureAD
-  ```
-
-    In the **Sign in to your Account** screen that opens, enter your Office 365 admin account and password to connect you to your service, and click **Sign in**.
-    
-    ![Enter your Office 365 credentials](../media/a2b4e2f3-436f-4a6c-b571-1a192698acea.png)
-  
-4. Run the following command:
-    
-     `$template = Get-AzureADDirectorySettingTemplate | ? {$_.displayname -eq "group.unified"}`
-    
-5. See if you already have an AzureADDirectorySetting object, and if so, save the Object ID. Run this command:
-    
-     `$settingsObjectID = (Get-AzureADDirectorySetting | Where-object -Property Displayname -Value "Group.Unified" -EQ).id`
-    
-    IF, and ONLY if, that cmdlet displays an error saying the object doesn't exist, create one using these cmdlets:
-    
-     `$template = Get-AzureADDirectorySettingTemplate | ? {$_.displayname -eq "group.unified"}`
-    
-     `$settingsCopy = $template.CreateDirectorySetting()`
-    
-     `New-AzureADDirectorySetting -DirectorySetting $settingsCopy`
-    
-     `$settingsObjectID = (Get-AzureADDirectorySetting | Where-object -Property Displayname -Value "Group.Unified" -EQ).id`
-    
-6. Copy the AzureADDirectorySetting object back into the local $settingsCopy variable:
-    
-     `$settingsCopy = Get-AzureADDirectorySetting -Id $settingsObjectID`
-    
-    This is only a COPY of the settings; changes won't take effect until you copy it BACK to the AzureADDirectorySetting object.
-    
-7. Set the option to allow guests to access O365 groups:
-    
-     `$settingsCopy["AllowGuestsToAccessGroups"] = "true"`
-    
-8. Finally, (as mentioned above) for the change to take effect you must copy the settings BACK to the AzureADDirectorySetting object:
-    
-     `Set-AzureADDirectorySetting -Id $settingsObjectID -DirectorySetting $settingsCopy`
-    
-9. To verify the change took effect, retrieve the value from the AzureADDirectorySetting object (don't just look at the local copy in $settingsCopy):
-    
-     `(Get-AzureADDirectorySetting -Id $settingsObjectID).Values`
-    
-    The results should look like this:
-    
-    ![AllowGuestsToAccessGroups should be set to True](../media/ece812dc-1bd4-414e-b70d-dd3d726d15b9.png)
-  
-### Allow guests to be added to all Office 365 groups
-<a name="BKMK_UsePowerShellControlAddingGuests"> </a>
-
-1. Did you install the **AzureADPreview** module, as instructed in the above section "Install the preview version of the Azure Active Directory Module for Windows PowerShell"? Not having the most current **preview** version is the #1 reason these steps don't work for people. 
-    
-2. If you haven't already, open a Windows PowerShell window on your computer (it doesn't matter if it's a normal Windows PowerShell window, or one you opened by selecting **Run as administrator**).
-    
-3. Run the following commands. Press **Enter** after each command. 
-    
-  ```
-  Import-Module AzureADPreview
-  ```
-
-  ```
-  Connect-AzureAD
-  ```
-
-    In the **Sign in to your Account** screen that opens, enter your Office 365 admin account and password to connect you to your service, and click **Sign in**.
-    
-    ![Enter your Office 365 credentials](../media/a2b4e2f3-436f-4a6c-b571-1a192698acea.png)
-  
-4. Run the following command:
-    
-     `$template = Get-AzureADDirectorySettingTemplate | ? {$_.displayname -eq "group.unified"}`
-    
-5. See if you already have an AzureADDirectorySetting object, and if so save the Object ID
-    
-     `$settingsObjectID = (Get-AzureADDirectorySetting | Where-object -Property Displayname -Value "Group.Unified" -EQ).id`
-    
-    IF, and ONLY if, that cmdlet displays an error saying the object doesn't exist, create one using these commands:
-    
-     `$template = Get-AzureADDirectorySettingTemplate | ? {$_.displayname -eq "group.unified"}`
-    
-     `$settingsCopy = $template.CreateDirectorySetting()`
-    
-     `New-AzureADDirectorySetting -DirectorySetting $settingsCopy`
-    
-     `$settingsObjectID = (Get-AzureADDirectorySetting | Where-object -Property Displayname -Value "Group.Unified" -EQ).id`
-    
-6. Copy the AzureADDirectorySetting object back into the local $settingsCopy variable:
-    
-     `$settingsCopy = Get-AzureADDirectorySetting -Id $settingsObjectID`
-    
-    This is only a COPY of the settings; changes won't take effect until you copy it BACK to the AzureADDirectorySetting object.
-    
-7. Set the option to allow guests to be added to all O365 groups:
-    
-     `$settingsCopy["AllowToAddGuests"] = "true"`
-    
-8. Finally, (as mentioned above) in order for the change to take effect you must copy the settings BACK to the AzureADDirectorySetting object:
-    
-     `Set-AzureADDirectorySetting -Id $settingsObjectID -DirectorySetting $settingsCopy`
-    
-9. To verify the change took effect, retrieve the value from the AzureADDirectorySetting object (don't just look at the local copy in $settingsCopy):
-    
-     `(Get-AzureADDirectorySetting -Id $settingsObjectID).Values`
     
 ### Allow or block guest users from a specific group
 <a name="BKMK_UsePowerShellControlAddingGuests"> </a>
