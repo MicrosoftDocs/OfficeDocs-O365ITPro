@@ -28,9 +28,9 @@ Want to know how to participate in the preview? Checkout [About the Microsoft 36
 
 ### Featured Feedback Fix - Licenses and apps
 
-We re-combined **Licenses & apps** in the user details pane. This is actually a double-whammy feedback fix. We initially separated the two features to provide space for the details of all license and all app possibilities.  Through preview feedback, we heard from that separating licenses and apps into two panes added confusion.  We listened, and brought licenses and apps back together into one tab.  Now you can make sure that an app is turned off in all licenses assigned to a user in one pane.  Milk and cookies.  Licenses and apps.  We get it now.
+We re-combined **Licenses and apps** in the user details pane based on your feedback. We initially separated the two features to provide space for the details of all license and all app possibilities.  We heard from you that separating licenses and apps into two panes added confusion.  We listened, and brought licenses and apps back together into one tab.  Now you can make sure that an app is turned off in all licenses assigned to a user in one pane.  Milk and cookies.  Licenses and apps.  We get it now.
 
-Check it out: **Users > Active users > Edit or Add user > Licenses and Apps**. 
+Check it out: **Users > Active users > Edit** or **Add user > Licenses and Apps**. 
 
 ## December 2018
 - **Services & add-ins** - In October we updated **Settings** \> **Services & add-ins** with our new design style, but all of the settings pages were still in the classic style. This month, we've started updating the actual settings to the new design. Check out **Bookings** to see the new look.
