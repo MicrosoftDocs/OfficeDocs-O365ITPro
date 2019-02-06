@@ -14,6 +14,7 @@ search.appverid:
 - FRP150
 ms.assetid: 739574d7-2c5b-4911-a549-f56ecc7d3b48
 description: "Microsoft 365 admin center preview - learn about the features that were added this month."
+f1_keyword: MACDashWhatsNew
 ---
 
 # What's new in Microsoft 365 admin center preview
@@ -22,14 +23,13 @@ We're continuously adding new features to the Microsoft 365 admin center preview
 Want to know how to participate in the preview? Checkout [About the Microsoft 365 admin center preview](microsoft-365-admin-center-preview.md).
   
 ## January 2019 - Happy New Year!
-- **Feedback update** 
 - Still adding in **Services & add-ins** - We've updated more of the **Settings > Services & add-ins** pages. Try Integrated Apps or Reports to see the latest. 
 - **Searching for improvements?** Look no further than the **Search** box in the command bar. It's been updated to let you search for tasks. For example, try "password reset" or "add a user".  
 
 ### Feedback update O'the Month - Licenses and apps
 Starting this month, we're going to spotlight a bug fix or feature request that was driven by your feedback. 
 
-We re-combined Licenses & apps in the user details pane. This is actually a double-whammy feedback fix. We separated the two features initially based on feedback from admins that it was confusing that if a service or app was turned off on one license, it may not have been turned off in another license assigned to the user that app was still accessible by the user. 
+We re-combined **Licenses & apps** in the user details pane. This is actually a double-whammy feedback fix. We separated the two features initially based on feedback from admins that it was confusing that if a service or app was turned off on one license, it may not have been turned off in another license assigned to the user that app was still accessible by the user. 
 
 But then we received feedback from you that you didn't like them separated, so we put them back together. Peanut butter and chocolate. Licenses and apps. We get it now.
 
