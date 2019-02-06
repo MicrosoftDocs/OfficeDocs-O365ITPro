@@ -33,6 +33,8 @@ We re-combined Licenses & apps in the user details pane. This is actually a doub
 
 But then we received feedback from you that you didn't like them separated, so we put them back together. Peanut butter and chocolate. Licenses and apps. We get it now.
 
+But don't worry, we kept the functionality where if you turn off one app or service in a license, it turns it off for all licenses assigned to that user.
+
 Check it out: **Users > Active users > Edit or Add user > Licenses and Apps**. 
 
 ## December 2018
