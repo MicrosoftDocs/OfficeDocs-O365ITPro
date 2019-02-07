@@ -14,13 +14,24 @@ search.appverid:
 - FRP150
 ms.assetid: 739574d7-2c5b-4911-a549-f56ecc7d3b48
 description: "Microsoft 365 admin center preview - learn about the features that were added this month."
+f1_keyword: MACDashWhatsNew
 ---
 
 # What's new in Microsoft 365 admin center preview
-We're continuously adding new features to the Microsoft 365 admin center preview, fixing issues we learn about, and making changes based on your feedback. As the new admin center is getting built, you'll want to know about what's getting added, what's new, and what's being removed. Take a look below to see what's available for you today.
+We're continuously adding new features to the Microsoft 365 admin center preview, fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today.
 
 Want to know how to participate in the preview? Checkout [About the Microsoft 365 admin center preview](microsoft-365-admin-center-preview.md).
   
+## January 2019 - Happy New Year!
+- Still adding in **Services & add-ins** - We've updated more of the **Settings > Services & add-ins** pages. Try Integrated Apps or Reports to see the latest. 
+- **Searching for improvements?** Look no further than the **Search** box in the command bar. It's been updated to let you search for tasks. For example, try "password reset" or "add a user".  
+
+### Featured Feedback Fix - Licenses and apps
+
+We re-combined **Licenses and apps** in the user details pane based on your feedback. We initially separated the two features to provide space for the details of all license and all app possibilities.  We heard from you that separating licenses and apps into two panes added confusion.  We listened, and brought licenses and apps back together into one tab.  Now you can make sure that an app is turned off in all licenses assigned to a user in one pane.  Milk and cookies.  Licenses and apps.  We get it now.
+
+Check it out: **Users > Active users > Edit** or **Add user > Licenses and Apps**. 
+
 ## December 2018
 - **Services & add-ins** - In October we updated **Settings** \> **Services & add-ins** with our new design style, but all of the settings pages were still in the classic style. This month, we've started updating the actual settings to the new design. Check out **Bookings** to see the new look.
 - **User management** - Manage username, alias, primary email address.
