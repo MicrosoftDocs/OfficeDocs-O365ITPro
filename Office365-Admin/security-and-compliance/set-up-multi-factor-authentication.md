@@ -75,16 +75,26 @@ You get a free version of Azure multi-factor authentication as part of your Offi
 6. In the dialog box that opens, choose **enable multi-factor auth**.
     
 ## Allow MFA users to create App passwords for Office client apps
-<a name="bkmk_setupmfa"> </a>
 
 > [!IMPORTANT]
 > App passwords are not supported for Office 365 operated by 21Vianet. 
   
 MFA is enabled per user. This means that if a user has MFA-enabled, they won't be able to use a non-browser client, such as Outlook 2013 with Office 365, until they create an app password. An app password is a password that is created within the Azure portal and that allows the user to bypass MFA and continue to use their application.
   
-All Office 2016 client applications support MFA through the use of the Active Directory Authentication Library (ADAL). This means that app passwords aren't required for Office 2016 clients. However, if you find that this is not the case, make sure your Office 365 subscription is enabled for ADAL. Connect to [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?linkid=534121) and run the following command:  `Get-OrganizationConfig | Format-Table name, *OAuth*`
+All Office 2016 client applications support MFA through the use of the Active Directory Authentication Library (ADAL). This means that app passwords aren't required for Office 2016 clients. However, if you find that this is not the case, make sure your Office 365 subscription is enabled for ADAL. Connect to [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?linkid=534121) and run the following command: 
+
+
+    ```
+    Get-OrganizationConfig | Format-Table name, *OAuth*
+    ```
   
-If you need to enable ADAL, run the following command:  `Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true`
+If you need to enable ADAL, run the following command:
+
+
+    ```
+    Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true
+    ```
+  
   
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
     
