@@ -143,7 +143,7 @@ Leave the PowerShell window open for Step 3, below.
 
 Copy the script below into a text editor, such as Notepad, or the [Windows PowerShell ISE](https://docs.microsoft.com/powershell/scripting/components/ise/introducing-the-windows-powershell-ise).
 
-Replace *<SecurityGroupName>* with the name of the security group that you created. For example:
+Replace *\<SecurityGroupName\>* with the name of the security group that you created. For example:
 
 `$GroupName = "Group Creators"`
 
