@@ -113,7 +113,7 @@ In this step, you'll use the Microsoft Azure QnA Maker web service to create an 
  
     a. Click **Publish**.
  
-    b. From the **Success** page, copy the three strings indicated in red rectangles above. You'll use these to initialize variables in the Yammer FAQs flow.
+    b. From the **Success** page, copy the three strings indicated in red rectangles below. You'll use these to initialize variables in the Yammer FAQs flow.
 
    ![Success message from QnA Maker](../media/kb/kb-publish-success.png)
 
