@@ -84,18 +84,19 @@ MFA is enabled per user. This means that if a user has MFA-enabled, they won't b
 All Office 2016 client applications support MFA through the use of the Active Directory Authentication Library (ADAL). This means that app passwords aren't required for Office 2016 clients. However, if you find that this is not the case, make sure your Office 365 subscription is enabled for ADAL. Connect to [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?linkid=534121) and run the following command: 
 
 
-    ```
+    
     Get-OrganizationConfig | Format-Table name, *OAuth*
-    ```
+    
   
 If you need to enable ADAL, run the following command:
 
 
-    ```
+    
     Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true
-    ```
+    
   
-  
+Here's how to allow your users to create App passwords: 
+
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
     
 2. **IMPORTANT**: Before you select a user, choose **More (...)** \> **Setup Azure multi-factor authentication**.  
@@ -124,7 +125,6 @@ If you need to enable ADAL, run the following command:
 5. Choose **Save**, then choose **Close**.
     
 ## Manage MFA user settings
-<a name="bkmk_setupmfa"> </a>
 
 1. You must be an Office 365 global admin to do these steps.
     
@@ -143,7 +143,6 @@ If you need to enable ADAL, run the following command:
 5. Choose **Save**, then choose **Close**.
     
 ## Bulk update users in MFA
-<a name="bkmk_setupmfa"> </a>
 
 You can bulk update the status for existing people by using a CSV file. The CSV file is used only for enabling or disabling MFA, based on the user names present in the file. It is not used to create new users.
   
