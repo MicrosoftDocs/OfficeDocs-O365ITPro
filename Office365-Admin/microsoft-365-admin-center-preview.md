@@ -61,7 +61,7 @@ Microsoft 365 is a complete, intelligent solution that includes Office 365, Wind
     
 - Microsoft 365 Enterprise E3
     
-- (Coming soon!) Microsoft 365 Enterprise E5
+- Microsoft 365 Enterprise E5
     
 For more information, see [Try or buy a Microsoft 365 subscription](try-or-buy-microsoft-365.md).
   
@@ -93,12 +93,6 @@ It is still on the **User management** card, it's just a little hidden. Select t
 They are still there, we just now call them **Filters**. It's located at the far right of the page between **Search** and **Change view**. <br> ![Screen capture showing the open Filters menu with custom filters Contoso.com, contoso.ca, HR Department, and Executives as examples.](media/M365PreviewFilterNew.png)
 
 When you have a filter applied to your **Active users** list, where the link used to say **Filters** it now shows the name of the filter. In this example, the HR Department filter has been applied. <br> ![Scren capture showing the **HR Department** filter applied.](media/M365PreviewFilterActive.png)
-
-### In user management, why are assigning licenses and enabling apps & services functionality now seperated?
-
-In the classic admin center if you wanted to prevent a user from using an app or service that they were licensed to use, you had to turn that app or service off for every assigned license that included that app or service. Microsoft received feedback that this was confusing, because the admins thought that they had turned off the service.
-
-In Microsoft 365 admin center preview, we fixed that issue. Now if you turn a service or app off, it is turned off for all licenses - you no longer have to turn the feature off for each license the user has. <br/>![Sceen capture showing the side-by-side comparison of the Licenses and Apps tabs in the user details pane.](media/488955e9-5d5c-447f-80f2-3a63c71fd3e5.png)
 
 > [!NOTE]
 > When an app or service is enabled for a user, we'll turn that service on in an eligible assigned license.  Admins can no longer control which apps are associated with a particular user-assigned license. 
