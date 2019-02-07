@@ -44,7 +44,7 @@ You get a free version of Azure multi-factor authentication as part of your Offi
 
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
     
-4. BEFORE you select a user, choose **More (...)** \> **Setup Azure multi-factor auth**.  
+4. BEFORE you select a user, choose **More (...)** \> **Setup Azure multi-factor authentication**.  
 
 - If you're using the preview version of the admin center, you can find the option for MFA here:  
 
@@ -88,12 +88,12 @@ If you need to enable ADAL, run the following command:  `Set-OrganizationConfig 
   
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
     
-1. BEFORE you select a user, choose **More (...)** \> **Setup Azure multi-factor auth**.  
+1. **IMPORTANT**: Before you select a user, choose **More (...)** \> **Setup Azure multi-factor authentication**.  
 
 - If you're using the preview version of the admin center, you can find the option for MFA here:  
 
 
-- ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/More-button-for-MFA.png)
+ ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/More-button-for-MFA.png)
  
 - In the classic version, you'll find it here:
     
