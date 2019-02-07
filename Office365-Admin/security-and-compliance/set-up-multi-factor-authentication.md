@@ -1,8 +1,8 @@
 ---
 title: "Set up multi-factor authentication for Office 365 users"
-ms.author: sirkkuw
-author: Sirkkuw
-manager: scotv
+ms.author: Dianef
+author: Dianef
+manager: mnirkhe
 
 ms.audience: Admin
 ms.topic: article
@@ -42,33 +42,23 @@ You get a free version of Azure multi-factor authentication as part of your Offi
 ## Set up multi-factor authentication in the Office 365 admin center
 <a name="bkmk_setupmfa"> </a>
 
-1. You must be an Office 365 global admin to do these steps.
+1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
     
-::: moniker range="o365-worldwide"
+4. BEFORE you select a user, choose **More (...)** \> **Setup Azure multi-factor auth**.  
 
-2. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+- If you're using the preview version of the admin center, you can find the option for MFA here:  
 
-::: moniker-end
 
-::: moniker range="o365-germany"
-
-2. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-2. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
-
-::: moniker-end
-
-3. Go to **Users** \> **Active users**.
-    
-4. Choose **More** \> **Setup Azure multi-factor auth**. If you don't see the **More** option, then you aren't a global admin for your subscription. 
+- ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/More-button-for-MFA.png)
+ 
+- In the classic version, you'll find it here:
     
     ![The More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/fefd9f5b-562a-4359-805f-eab923d438c1.png)
   
-5. Find the people for whom you want to enable MFA. In order to see everyone, you might need to change the **Multi-Factor Auth status** view at the top. 
+> [!Tip]
+> If you don't see the **More (...)** option, then you aren't a global admin for your subscription.
+
+1. Find the people for whom you want to enable MFA. In order to see everyone, you might need to change the **Multi-Factor Auth status** view at the top. 
     
     The views have the following values, based on the MFA state of the users:
     
@@ -96,32 +86,23 @@ All Office 2016 client applications support MFA through the use of the Active Di
   
 If you need to enable ADAL, run the following command:  `Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true`
   
-1. You must be an Office 365 global admin to do these steps.
+1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
     
-::: moniker range="o365-worldwide"
+1. BEFORE you select a user, choose **More (...)** \> **Setup Azure multi-factor auth**.  
 
-2. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+- If you're using the preview version of the admin center, you can find the option for MFA here:  
 
-::: moniker-end
 
-::: moniker range="o365-germany"
-
-2. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-2. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
-
-::: moniker-end
-
-3. Go to **Users** \> **Active users**.
-    
-4. Choose **More** \> **Setup Azure multi-factor auth**. If you don't see the **More** option, then you aren't a global admin for your subscription. 
+- ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/More-button-for-MFA.png)
+ 
+- In the classic version, you'll find it here:
     
     ![The More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/fefd9f5b-562a-4359-805f-eab923d438c1.png)
   
+> [!Tip]
+> If you don't see the **More (...)** option, then you aren't a global admin for your subscription.
+    
+ 
 5. On the **multi-factor authentication** page, choose **service settings**.
     
     ![The multi-factor authentication page with a hand pointing to the service settings link.](../media/98fb3542-8f43-4e3b-9a06-c6a091973188.png)
