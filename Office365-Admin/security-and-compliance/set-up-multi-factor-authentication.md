@@ -32,7 +32,7 @@ ms.assetid: 8f0454b2-f51a-4d9c-bcde-2c48e41621c6
 description: "Learn how to set up multi-factor authentication for Office 365 users and manage the user settings. "
 ---
 
-# Set up multi-factor authentication for Office 365 users
+# Set up multi-factor authentication
 
   
 This article describes how to set up multi-factor authentication (MFA) for Office 365 users. For more information about MFA, see [Plan for multi-factor authentication for Office 365 Deployments](multi-factor-authentication-plan.md) and [How Azure multi-factor authentication works](https://go.microsoft.com/fwlink/p/?LinkId=627437).
@@ -44,12 +44,12 @@ You get a free version of Azure multi-factor authentication as part of your Offi
 
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
     
-4. BEFORE you select a user, choose **More (...)** \> **Setup Azure multi-factor authentication**.  
+2. **IMPORTANT**: BEFORE you select a user, choose **More (...)** \> **Setup Azure multi-factor authentication**.  
 
 - If you're using the preview version of the admin center, you can find the option for MFA here:  
 
 
-- ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/More-button-for-MFA.png)
+     ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/More-button-for-MFA.png)
  
 - In the classic version, you'll find it here:
     
@@ -58,7 +58,7 @@ You get a free version of Azure multi-factor authentication as part of your Offi
 > [!Tip]
 > If you don't see the **More (...)** option, then you aren't a global admin for your subscription.
 
-1. Find the people for whom you want to enable MFA. In order to see everyone, you might need to change the **Multi-Factor Auth status** view at the top. 
+3. Find the people for whom you want to enable MFA. In order to see everyone, you might need to change the **Multi-Factor Auth status** view at the top. 
     
     The views have the following values, based on the MFA state of the users:
     
@@ -68,11 +68,11 @@ You get a free version of Azure multi-factor authentication as part of your Offi
     
   - **Enforced** The person may or may not have completed registration. If they have completed the registration process, then they are using MFA. Otherwise, theywill be prompted to complete the process the next time they sign in. 
     
-6. Select the check box next to the people for whom you want to enable MFA.
+4. Select the check box next to the people for whom you want to enable MFA.
     
-7. On the right, under **quick steps**, you'll see **Enable** and **Manage user settings**. Choose **Enable**.
+5. On the right, under **quick steps**, you'll see **Enable** and **Manage user settings**. Choose **Enable**.
     
-8. In the dialog box that opens, choose **enable multi-factor auth**.
+6. In the dialog box that opens, choose **enable multi-factor auth**.
     
 ## Allow MFA users to create App passwords for Office client apps
 <a name="bkmk_setupmfa"> </a>
@@ -88,12 +88,12 @@ If you need to enable ADAL, run the following command:  `Set-OrganizationConfig 
   
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
     
-1. **IMPORTANT**: Before you select a user, choose **More (...)** \> **Setup Azure multi-factor authentication**.  
+2. **IMPORTANT**: Before you select a user, choose **More (...)** \> **Setup Azure multi-factor authentication**.  
 
 - If you're using the preview version of the admin center, you can find the option for MFA here:  
 
 
- ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/More-button-for-MFA.png)
+     ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/More-button-for-MFA.png)
  
 - In the classic version, you'll find it here:
     
@@ -103,15 +103,15 @@ If you need to enable ADAL, run the following command:  `Set-OrganizationConfig 
 > If you don't see the **More (...)** option, then you aren't a global admin for your subscription.
     
  
-5. On the **multi-factor authentication** page, choose **service settings**.
+3. On the **multi-factor authentication** page, choose **service settings**.
     
     ![The multi-factor authentication page with a hand pointing to the service settings link.](../media/98fb3542-8f43-4e3b-9a06-c6a091973188.png)
   
-6. Under **app passwords**, choose **Allow users to create app passwords to sign into non-browser apps**.
+4. Under **app passwords**, choose **Allow users to create app passwords to sign into non-browser apps**.
     
     People can then use client Office apps after they create a new password.
     
-7. Choose **Save**, then choose **Close**.
+5. Choose **Save**, then choose **Close**.
     
 ## Manage MFA user settings
 <a name="bkmk_setupmfa"> </a>
