@@ -3,7 +3,7 @@ title: Kaizala groups
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 8/21/2018
+ms.date: 9/21/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -73,13 +73,15 @@ You can add multiple groups and users at once from an Excel spreadsheet or other
     
 ## Add a Kaizala subgroup
 
-1. On the Kaizala management portal, from the left navigation bar, choose **Groups**. Choose a group from the dropdown list, and then click or tap **Add Group**. 
+1. On the Kaizala management portal, from the left navigation bar, choose **Groups**.
+2. Choose a group from the drop-down list, and then click or tap **Add Group**. 
     
     ![Add a Kaizala  sub-group to a parent group](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
   
 ### Remove a Kaizala subgroup
 
-1. On the Kaizala management portal, from the left navigation bar, choose **Groups**. Choose a group from the dropdown list, and then click or tap **Remove**. 
+1. On the Kaizala management portal, from the left navigation bar, choose **Groups**.
+2. Choose a group from the drop-down list, and then click or tap **Remove**. 
     
     ![Add a Kaizala  sub-group to a parent group](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
   
@@ -87,9 +89,9 @@ You can add multiple groups and users at once from an Excel spreadsheet or other
 
 You can export all Kaizala group information to a CSV file.
   
-- On the Kaizala management portal, from the left navigation bar, choose **Groups**, and then choose **Bulk Upload Users**. 
+1. On the Kaizala management portal, from the left navigation bar, choose **Groups**, and then choose **Bulk Upload Users**. 
     
-- Click or tap **Export Existing Groups**. 
+2. Click or tap **Export Existing Groups**. 
     
 You can then view groups and users information from an Excel spreadsheet or another app that can open CSV files. For more information, see [Add several users at the same time to Office 365 - Admin Help](https://support.office.com/article/1f5767ed-e717-4f24-969c-6ea9d412ca88#__toc316652088).
   
