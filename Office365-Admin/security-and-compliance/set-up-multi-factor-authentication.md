@@ -171,4 +171,20 @@ After you enable MFA on your tenant, give the following instructions to people t
     
 - [Create an app password for Office 365](https://support.office.com/article/3e7c860f-bda4-4441-a618-b53953ee1183.aspx)
     
+<br/>
 
+## What is  conditional access in Azure Active Directory?
+<a name="bkmk_setupmfa"> </a>
+Since security is nowadays the highest concern for organizations using the cloud, you can empower your users to be productive wherever and whenever read more on the following link:
+
+
+- [Azure Active Directory Conditional Access](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview)
+- [Conditions in Azure Active Directory Conditional Access](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/conditions)
+
+
+## How to configure MFA for specific apps with Azure AD Conditional Access
+<a name="bkmk_setupmfa"> </a>
+
+On the following link you can get the information about how to set up this properly, check them out!
+- [QuickStart](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/app-based-mfa)
+- [Conditional Controls](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/controls)
