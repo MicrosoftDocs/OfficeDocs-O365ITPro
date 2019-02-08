@@ -39,10 +39,6 @@ This article describes how to set up multi-factor authentication (MFA) for Offic
   
 You get a free version of Azure multi-factor authentication as part of your Office 365 for business subscription. For a list of features included in your version of Office 365, see [How to get Azure Multi-Factor Authentication](https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-authentication-versions-plans).
 
-## How to Enable MFA with conditional Access
-
-[![Watch the video](https://i.ytimg.com/vi/eLAYBwjCGoA/sddefault.jpg)](https://youtu.be/eLAYBwjCGoA)
-
 
   
 ## Set up multi-factor authentication in the Office 365 admin center
@@ -178,6 +174,16 @@ After you enable MFA on your tenant, give the following instructions to people t
 - [Create an app password for Office 365](https://support.office.com/article/3e7c860f-bda4-4441-a618-b53953ee1183.aspx)
     
 <br/>
+
+## How to Enable MFA with conditional Access
+
+[![Watch the video](https://i.ytimg.com/vi/eLAYBwjCGoA/sddefault.jpg)](https://youtu.be/eLAYBwjCGoA)
+
+## Planning Conditional Access in your organization?
+
+Please enter the following link and Search for "Conditional Access", click on it and you'll get our kickoff documentation in word format.
+
+[Azure Active Directory deployment plans](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-deployment-plans)
 
 ## What is  conditional access in Azure Active Directory?
 <a name="bkmk_setupmfa"> </a>
