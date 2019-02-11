@@ -73,10 +73,13 @@ You can add multiple groups and users at once from an Excel spreadsheet or other
     
 ## Add a Kaizala subgroup
 
-1. On the Kaizala management portal, from the left navigation bar, choose **Groups**.
-2. Choose a group from the drop-down list, and then click or tap **Add Group**. 
+1. On the Kaizala management portal, from the left navigation bar, choose **Groups**. Select a group you want to modify. 
+2. Select **Sub-Groups** from the top navigation bar of the group. Then choose a group you want to link from the drop-down list and click or tap **Add Group**. 
     
     ![Add a Kaizala  sub-group to a parent group](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
+    
+    > [!NOTE]
+    > The dropdown list remains empty if you don't have any available groups to link. So make sure you have an group available to link. Create one before you try to add it as a subgroup.
   
 ### Remove a Kaizala subgroup
 
@@ -84,12 +87,24 @@ You can add multiple groups and users at once from an Excel spreadsheet or other
 2. Choose a group from the drop-down list, and then click or tap **Remove**. 
     
     ![Add a Kaizala  sub-group to a parent group](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
+    
+## Add a connector
+
+1. On the Kaizala management portal, from the left navigation bar, choose **Groups**. Select a Group where you want to add a connector.
+2. Select **Connectors** from the top navigation bar of the Group. Then choose a connector you want to link from the dropdown list and click or tap **Add connector**. 
+
+## Add an action
+
+1. On the Kaizala management portal, from the left navigation bar, choose **Groups**. Select a Group where you want to add a connector.
+2. Select **Actions** from the top navigation bar of the Group. Then choose an action you want to link from the dropdown list and click or tap **Add action**.
+3. Select an action you want to add and check which roles may send this action
+4. Publish the action    
   
 ## Export Kaizala group information
 
 You can export all Kaizala group information to a CSV file.
   
-1. On the Kaizala management portal, from the left navigation bar, choose **Groups**, and then choose **Bulk Upload Users**. 
+- On the Kaizala management portal, from the left navigation bar, choose **Groups**. Then choose **Bulk Upload Users**. 
     
 2. Click or tap **Export Existing Groups**. 
     
