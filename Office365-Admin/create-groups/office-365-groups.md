@@ -77,7 +77,7 @@ Managing your Office 365 Groups is more effective when you have actionable infor
 
 ## Which Office 365 plans include Groups?
 
-Any Office 365 subscription that has Exchange Online and SharePoint Online will support groups. That includes the Business Essentials and Business Premium plans, and the Enterprise E1, E3 and E5 plans. Group users need an Exchange Online license at minimum.
+Any Office 365 subscription that has Exchange Online and SharePoint Online will support groups. That includes the Business Essentials and Business Premium plans, and the Enterprise E1, E3 and E5 plans. Group users need an Exchange Online license at minimum. The Group takes on the licensing of the person who creates the Group (also known as the "organizer" of the Group). As long as the organizer has the proper license for whatever features you want the Group to have, that license will convey to the Group.
 
 If you have an Exchange-only plan you can still get the shared Inbox and shared Calendar features of groups in Outlook but you won’t get the document library, Planner or any of the other capabilities. If you want to use advanced security or compliance features for the shared mailbox created with a group, you need to assign an Exchange Online Plan 1 with Exchange Online Archiving or Exchange Online Plan 2 license to the mailbox.
 
