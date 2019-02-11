@@ -34,6 +34,8 @@ description: "Use the admin center to set up your organization in the cloud, and
 
 # About the Office 365 admin center
 
+[![Label to let you know the Admin Center is changing and you can find more details at aka.ms/aboutM365preview.](../media/O365-Admin-AdminCenterChanging.png)](../microsoft-365-admin-center-preview.md)
+
 **If you purchased an Office 365 business plan AND you have admin permissions, you have access to the admin center**. This article is for you! 
 
 **If you are a user or have an Office 365 home plan, you do not have an admin center.** To set up Office 365, go to [Download and install or reinstall Office 365 or Office 2016 on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx).

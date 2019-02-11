@@ -155,7 +155,10 @@ Updates for add-ins happen as follows:
     
 - **Office Store add-in:** When an admin selected an add-in from the Office Store, if an add-in updates in the Office Store, the add-in will update later in Centralized Deployment. The next time the relevant Office applications start, the add-in will update. The web application can change at any time. 
     
-### Prevent add-in downloads by turning off the Office Store across all clients
+### Prevent add-in downloads by turning off the Office Store across all clients (Except Outlook)
+
+> [!NOTE]
+> Outlook add-in installation is managed by a [different process](https://technet.microsoft.com/en-us/library/jj943754%28v=exchg.150%29.aspx).
 
 As an organization you may wish to prevent the download of new Office add-ins from the Office Store. This can be used in conjunction with Centralized Deployment to ensure that only organization-approved add-ins are deployed to users within your organization.
   
@@ -200,9 +203,7 @@ Support for turning off the Office Store is available in the following versions:
 This does not prevent an administrator from using Centralized Deployment to assign an add-in from the Office Store.
   
 To prevent a user from signing in with a Microsoft account, you can restrict logon to use only the organizational account. For more information, look [here](https://technet.microsoft.com/EN-US/library/jj683102%28v=office.16%29.aspx).
-  
-> [!NOTE]
-> Outlook add-in installation is managed by a [different process](https://technet.microsoft.com/en-us/library/jj943754%28v=exchg.150%29.aspx). 
+ 
   
 ## Minors and acquiring add-ins from the Store
 

@@ -74,8 +74,7 @@ Add the SIP CNAME record.
 - In the **New Resource Record** dialog box, make sure that the fields are set to precisely the following values:  
     - Host Name: sip
     - Type: CNAME
-    - Address: sip
-    - dir.online.lync.com
+    - Address: sipdir.online.lync.com
 - Choose **OK**.
 
 Add the Skype for Business Online Autodiscover CNAME record.  

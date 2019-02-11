@@ -58,7 +58,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 2. Enter your login credentials, and then again choose **Sign In**.
     
-2. On the **Domains** page, in the **Domain** section, choose **Configure DNS** for the domain that you want to edit. 
+2. On the **My domains** page, find the domain you want to use with Office 365, and click the **MANAGE** link next to it. In the left navigation, click **DNS**.
     
 3. In the ** Custom resource records ** section, in the boxes for the new record, type or copy and paste the values from the following table. 
     
