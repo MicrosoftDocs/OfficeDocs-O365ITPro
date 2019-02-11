@@ -3,7 +3,7 @@ title: Kaizala content pack
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 8/21/2018
+ms.date: 2/7/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -20,7 +20,7 @@ description: Learn how to use the Kaizala content pack within Power BI to gain i
 
 # Kaizala content pack
 
-Use the Kaizala content pack within Power BI, to gain insights on how your organization is using Kaizala. You can visualize and analyze Kaizala usage data, create custom reports, and share the insights within your organization. Once the content pack is published, it'll be available through AppSource, and can then be imported through Power BI.
+Use the Kaizala content pack within Power BI to gain insights on how your organization is using Kaizala. You can visualize and analyze Kaizala usage data, create custom reports, and share the insights within your organization. Once the content pack is published, it'll be available through AppSource, and can then be imported through Power BI.
   
 - Visualize data exactly how you want to.
     
@@ -32,7 +32,7 @@ Use the Kaizala content pack within Power BI, to gain insights on how your organ
     
 ## Use Kaizala content packs
 
-Make sure Power BI is part of your Office 365 subscription. You'll have to sign in with your Office 365 account to access Power Bi.
+Make sure Power BI is part of your Office 365 subscription. You'll have to sign in with your Office 365 account to access Power BI.
   
 1. Log into PowerBI.com with your Office 365 account.
     
@@ -54,12 +54,12 @@ Make sure Power BI is part of your Office 365 subscription. You'll have to sign 
     
 10. Choose to import one particular instance of the action or all instances of that action type. For example, you may want data of one instance of a custom survey or aggregate responses from all instances where this survey was sent.
     
-11. Once you click "Submit", data will be downloaded from the content pack, under the pseudonym "Kaizala Reports", to your workspace. Rename the report and start using Power BI's rich feature set to mold data as you see fit.
+11. Once you select **Submit**, data will be downloaded from the content pack, under the pseudonym "Kaizala Reports", to your workspace. Rename the report and start using the Power BI rich feature set to mold data as you see fit.
     
 ## Creating custom reports from Kaizala's content packs
 
-Once you have imported data from the Kaizala content pack, it is within your Power BI instance. Power BI provides a rich set of visualizations to connect your data, resulting in a unique view of the report. You can also import third party visuals to create custom reports for your organization.
+Once you have imported data from the Kaizala content pack, it is within your Power BI instance. Power BI provides a rich set of visualizations to connect your data, resulting in a unique view of the report. You can also import third-party visuals to create custom reports for your organization.
   
-To learn more about power BI's feature set, check out [Power BI's Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning/) resources. 
+To learn more about the Power BI feature set, see [Power BI's Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning/) resources. 
   
 

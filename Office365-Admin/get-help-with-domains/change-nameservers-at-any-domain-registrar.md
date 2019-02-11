@@ -11,7 +11,8 @@ f1_keywords:
 - 'O365E_DOM_Gen1'
 ms.service: o365-administration
 localization_priority: Priority
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365_Top
 - strat_admin_top
 ms.custom:
@@ -153,7 +154,19 @@ For example, here are some additional steps that might be required for email and
   
 - Move all email addresses that use your domain to Office 365 before you change your NS records.
     
-- Want to add a domain that's currently used with a website address, like www.fourthcoffee.com? You can take steps while you add the domain to keep its website hosted where the site is hosted now so people can still get to the website after you change the domain's NS records to point to Office 365.
+- Want to add a domain that's currently used with a website address, like www.fourthcoffee.com? You can take below steps while you add the domain to keep its website hosted where the site is hosted now so people can still get to the website after you change the domain's NS records to point to Office 365.
+
+1.Sign in to Office 365 with your work or school account.
+
+2.Choose Setup > Domains.
+
+3.On the Domains page, select a domain.
+
+4.Under DNS settings, choose Custom Records, and then choose New custom record.
+
+5.Choose the type of DNS record you want to add, and type the information for the new record.
+
+Choose Save.
     
 > [!NOTE]
 > Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain. 

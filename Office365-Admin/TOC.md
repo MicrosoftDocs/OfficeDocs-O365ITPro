@@ -79,6 +79,7 @@
 ### [Share calendars with external users](manage/share-calendars-with-external-users.md)
 ### [Customer Lockbox Requests](manage/customer-lockbox-requests.md)
 ## [Subscriptions and billing](subscriptions-and-billing/subscriptions-and-billing.md)
+### [Sign up for an Office 365 trial subscription](subscriptions-and-billing/sign-up-for-office-365-trial.md)
 ### [Extend your trial](subscriptions-and-billing/extend-your-trial.md)
 ### [Buy a subscription from your free trial](subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md)
 ### [Buy another subscription](subscriptions-and-billing/buy-another-subscription.md)
@@ -118,8 +119,9 @@
 ### [Create DNS records at any DNS hosting provider](get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md)
 ### [Remove a domain](get-help-with-domains/remove-a-domain.md)
 ### [Transfer data manually](get-help-with-domains/transfer-data-manually.md)
-## [Groups](create-groups/create-groups.md)
+## Groups
 ### [Compare groups](create-groups/compare-groups.md)
+### [Create an Office 365 Group](create-groups/create-groups.md)
 ### [Plan for governance in Office 365 Groups](create-groups/plan-for-groups-governance.md)
 ### [Manage creation of Groups](create-groups/manage-creation-of-groups.md)
 ### [Choose domain to create Groups](create-groups/choose-domain-to-create-groups.md)
