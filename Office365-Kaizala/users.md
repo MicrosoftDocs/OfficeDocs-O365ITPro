@@ -25,7 +25,7 @@ Before you can send instant messages, pictures, and documents, or setup a new po
 ## View all users in an organization
 
 
-On the Kaizala management portal, from the left navigation pane, choose **Users**. You'll see a list of all users that have possible access to your organization. This includes all users who were uploaded directly through the **Upload User** process, along with the members of organization groups, mapped to your organization. 
+On the Kaizala management portal, from the left navigation pane, choose **Directory**. You'll see a list of all users that have possible access to your organization. This includes all users who were uploaded directly through the **Import Multiple Users** process, along with the members of organization groups, mapped to your organization. 
     
 You can also select up to 4 columns that can be shown for each user, by choosing **More** \> **Select Columns**. 
   
@@ -35,7 +35,7 @@ Kaizala organization admins can define and manage user attributes for an organiz
   
 ### Set up attributes for all users in the organization
 
-- Click or tap **Users** \> **More**. Then select **Change Attributes** from the drop-down menu. 
+- Click or tap **Directory** \> **More**. Then select **Change Attributes** from the drop-down menu. 
     
 - To add a new attribute, select **Add New**. Then choose from a range of pre-defined suggested attributes or add a new one. 
     
@@ -56,7 +56,7 @@ Kaizala organization admins can define and manage user attributes for an organiz
 
 If you want to add several users without using the comma separated list, you can do so using **Bulk upload**. 
   
-- Click **Users** \> **Add Users**. Then select **Import Multiple Users**. 
+- Click **Directory** \> **Add Users**. Then select **Import Multiple Users**. 
     
 - On the **Import Multiple Users** page, download the CSV template. [Add several users at the same time to Office 365 - Admin Help](https://support.office.com/article/1f5767ed-e717-4f24-969c-6ea9d412ca88#__toc316652088).
     
@@ -74,7 +74,7 @@ If you want to add several users without using the comma separated list, you can
 ## Find history of all user upload operations
 
 
-- Click **Users** \> **Add users**. Then select **View Import History** from the drop-down. 
+- Click **Directory** \> **Add users**. Then select **View Import History** from the drop-down. 
     
     ![Kaizala import history page](media/23cbc5fc-5b57-4ceb-ad9f-e165b52ebcbc.png)
   
@@ -99,7 +99,7 @@ If you want to add several users without using the comma separated list, you can
 ## Export users' data for your organization
 
 
-- Click **Users** \> **Export Users**. Then select **Create New Request**. 
+- Click **Directory** \> **Export Users**. Then select **Create New Request**. 
     
     ![Create a new request to export Kaizala users](media/2f444aab-c793-478a-8197-6d9c331bc47b.png)
   
@@ -108,7 +108,7 @@ If you want to add several users without using the comma separated list, you can
 ## Find history of all export users operation
 
 
-- Click **Users** \> **Export Users**. Then select **View Export History**. 
+- Click **Directory** \> **Export Users**. Then select **View Export History**. 
     
 - On the **Export History** page, you can find a list of all user upload operations. Each list-item has following info 
     
@@ -122,11 +122,11 @@ If you want to add several users without using the comma separated list, you can
     
   - **Status** of the exported file. This can be one of the following values : 
     
-  - **Queued** - the request has been queued. 
+    - **Queued** - the request has been queued. 
     
-  - **Completed** - the file has either been successfully exported, or partially exported due to some errors. 
+    - **Completed** - the file has either been successfully exported, or partially exported due to some errors. 
     
-  - **Failed** - the file wasn't exported successfully. Download the error log file for the upload to check out any issues. 
+    - **Failed** - the file wasn't exported successfully. Download the error log file for the upload to check out any issues. 
     
   - **Download** - Clicking the icon downloads the requested export file. 
     
@@ -135,14 +135,14 @@ If you want to add several users without using the comma separated list, you can
 
 To find a detailed view of a user's profile:
   
-- Click **Users**. Then select a user from the user list for your organization. 
+- Click **Directory**. Then select a user from the user list for your organization. 
     
 - Click on the phone number for that user to see a detailed view.
     
 ## Remove a user from a Kaizala group
 
 
-- Click **Users**. Then select a user from the user list for your organization. 
+- Click **Directory**. Then select a user from the user list for your organization. 
     
 - Click on the phone number for that user to see a detailed view.
     
