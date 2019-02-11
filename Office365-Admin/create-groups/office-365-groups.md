@@ -49,7 +49,7 @@ Groups have the following roles:
 
 People in the following Office 365 admin roles can create and manage groups in the admin center: global admin, Exchange admin, user management admin. You can't be a delegated admin (for example, a consultant who is an admin on behalf of).
 
-As an administrator, you can [specify who can create groups](manage-creation-of-groups.md), [create a naming policy for groups in your organization](groups-naming-policy.md), [choose which domain to use when creating a group](choose-domain-to-create-groups), and [manage guest access to groups](manage-guest-access-in-groups.md).
+As an administrator, you can [specify who can create groups](manage-creation-of-groups.md), [create a naming policy for groups in your organization](groups-naming-policy.md), [choose which domain to use when creating a group](choose-domain-to-create-groups.md), and [manage guest access to groups](manage-guest-access-in-groups.md).
 
 You can also [recover a deleted group](restore-deleted-group.md) (within 30 days of deletion). If you prefer a more automated way to manage the lifecycle of your Office 365 Groups you can use expiration policies to expire groups at a specific time interval. The group's owners will get an email 30, 15 and 1 day before the group expiration that allows them to easily renew the group if it's still needed. See: [Office 365 Group Expiration Policy](https://support.office.com/article/8d253fe5-0e09-4b3c-8b5e-f48def064733).
 
