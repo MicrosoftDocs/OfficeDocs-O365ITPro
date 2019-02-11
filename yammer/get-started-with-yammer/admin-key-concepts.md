@@ -3,10 +3,10 @@ title: "Yammer admin key concepts"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 8/3/2018
+ms.date: 1/10/2019
 ms.audience: Admin
 ms.topic: article
-ms.service: o365-administration
+ms.service: yammer
 localization_priority: Normal
 ms.custom: Adm_Yammer
 search.appverid:
@@ -85,7 +85,7 @@ This article describes the key concepts you should know, and key decisions you s
     
     Check the [Office 365 Service health dashboard](https://portal.office.com/servicestatus) to see real-time status of the Yammer service. 
     
-10. Yammer is always changing. To stay current on what's happening, regularly review the [Office 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914). 
+10. Yammer is always changing. To stay current on what's happening, regularly review the [Microsoft 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914). 
     
 11. Learn more.
     
@@ -107,16 +107,14 @@ A: Yammer's system requirements are consistent with those of Office 365. See the
 #### Mobile and desktop requirements
 <a name="bk_MobileDesktop"> </a>
 
-- iOS 9 and above
+- iOS 11.0 and above
     
-- Android v4.4 and higher
+- Android v5.0 and higher
     
 - Windows 7 SP1 or later
     
 - MAC OS 10.10 or later
-    
-- Windows 10 phone
-    
+      
 ### Q: Can I have a Yammer network where some users have Office 365 licenses and some users don't?
 <a name="Requirements"> </a>
 
@@ -146,4 +144,4 @@ A: As part of Yammer development methodology, we A/B test all aspects of Yammer 
 ### Q: What's the roadmap for Yammer?
 <a name="Requirements"> </a>
 
-A: Yammer rapid release and iterative development methodology means that change is constant. The items currently being developed and their stage of development and testing are available in the [Office 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914).
+A: Yammer rapid release and iterative development methodology means that change is constant. The items currently being developed and their stage of development and testing are available in the [Microsoft 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914).

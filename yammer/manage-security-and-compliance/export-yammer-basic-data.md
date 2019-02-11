@@ -6,7 +6,7 @@ manager: pamgreen
 ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
-ms.service: o365-administration
+ms.service: yammer
 localization_priority: Normal
 ms.assetid: 872612f0-780a-47ed-9daf-da5af065c5e6
 description: "Users can export their own data in Yammer Basic."

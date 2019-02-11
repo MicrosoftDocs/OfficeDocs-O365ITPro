@@ -7,7 +7,9 @@ ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection: 
+- M365-subscription-management 
+- Adm_O365
 ms.custom:
 - Adm_O365
 - Adm_O365_FullSet
@@ -18,25 +20,25 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 36f9cdd1-e64c-421b-a7e4-4a54d16440a2
-description: "Learn about customer lockbox requests that allow you to control how a Microsoft support engineer can access your data when you run into an issue."
+description: "Learn about Customer Lockbox requests that allow you to control how a Microsoft support engineer can access your data when you run into an issue."
 ---
 
 # Office 365 Customer Lockbox Requests
 
-As an Office 365 admin, customer lockbox requests allows you to control how a Microsoft support engineer accesses your data. Sometimes if you run into an issue, you might need a Microsoft support engineer to help you fix it. In some cases, the support engineer will require access to your Office 365 content to troubleshoot and fix the issue. Customer lockbox requests allows you to control whether to give the support engineer access to your data. There's also an expiration time on the request and content access is removed after the support engineer has fixed the issue. Check out [Overview of security &amp; compliance in Office 365](https://support.office.com/article/DCB83B2C-AC66-4CED-925D-50EB9698A0B2) for more information about how Office 365 uses your data. 
+As an Office 365 admin, Customer Lockbox requests allows you to control how a Microsoft support engineer accesses your data. Sometimes if you run into an issue, you might need a Microsoft support engineer to help you fix it. In some cases, the support engineer will require access to your Office 365 content to troubleshoot and fix the issue. Customer Lockbox requests allows you to control whether to give the support engineer access to your data. There's also an expiration time on the request and content access is removed after the support engineer has fixed the issue. Check out [Overview of security &amp; compliance in Office 365](https://support.office.com/article/DCB83B2C-AC66-4CED-925D-50EB9698A0B2) for more information about how Office 365 uses your data. 
   
  > [!IMPORTANT]
-> Customer lockbox capability is never used when troubleshooting doesn't require access to customer content. For a majority of support cases, resolution doesn't require the use of customer lockbox access. 
+> Customer Lockbox capability is never used when troubleshooting doesn't require access to customer content. For a majority of support cases, resolution doesn't require the use of Customer Lockbox access. 
   
-Customer lockbox is included in the Office 365 Enterprise E5 plan. If you don't have an Office 365 Enterprise E5 plan, you can buy a separate Advanced Compliance plan with any Office 365 Enterprise plan. Check out [Plans and pricing](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software) for more info. Customer lockbox works with Exchange Online, SharePoint Online, and OneDrive for Business. 
+Customer Lockbox is included in the Office 365 Enterprise E5 plan. If you don't have an Office 365 Enterprise E5 plan, you can buy a separate Advanced Compliance plan with any Office 365 Enterprise plan. Check out [Plans and pricing](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software) for more info. Customer Lockbox works with Exchange Online, SharePoint Online, and OneDrive for Business. 
   
-**Customer lockbox request overview video**
+**Customer Lockbox request overview video**
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/8fecf10b-1f03-4849-8b67-76d3d2a43f26?autoplay=false]
   
 ## Example of a Customer Lockbox Request
 
-Below is a sample customer lockbox request.
+Below is a sample Customer Lockbox request.
   
 1. Someone at your company or school has an issue with their Office 365 mailbox.
     
@@ -44,17 +46,17 @@ Below is a sample customer lockbox request.
     
 3. The support engineer reviews your service request, and needs access to your Exchange Online content to repair the issue.
     
-4. The support engineer logs into the customer lockbox request tool and sends you an email letting you know there's a pending customer lockbox request. All requests are reviewed and approved by Microsoft support managers before you get the request.
+4. The support engineer logs into the Customer Lockbox request tool and sends you an email letting you know there's a pending Customer Lockbox request. All requests are reviewed and approved by Microsoft support managers before you get the request.
     
-5. The customer lockbox request tool sends you an email letting you know there's a pending lockbox request. If you reject or don't approve the request in 12 hours, access is automatically revoked.<br/>![Sample customer lockbox email](../media/1e578e60-271f-4a1f-97ff-d54d0f08c4cd.png)
+5. The Customer Lockbox request tool sends you an email letting you know there's a pending lockbox request. If you reject or don't approve the request in 12 hours, access is automatically revoked.<br/>![Sample Customer Lockbox email](../media/1e578e60-271f-4a1f-97ff-d54d0f08c4cd.png)
   
-6. You log into the Office 365 admin center and approve the request.<br/>IMPORTANT: We don't include any links in the customer lockbox email that requires you to login to Office 365. 
+6. You log into the Office 365 admin center and approve the request.<br/>IMPORTANT: We don't include any links in the Customer Lockbox email that requires you to login to Office 365. 
   
-7. The support engineer gets the approval message, logs into Exchange Online and fixes the issues. As soon as the issue is fixed, the customer lockbox request is closed and access is revoked, or once the support engineer starts the process, they have 4 hours to fix the issue before access is revoked.
+7. The support engineer gets the approval message, logs into Exchange Online and fixes the issues. As soon as the issue is fixed, the Customer Lockbox request is closed and access is revoked, or once the support engineer starts the process, they have 4 hours to fix the issue before access is revoked.
     
 ## Turn Customer Lockbox request on or off in the Office 365 admin center
 
-You can turn customer lockbox requests on or off in the Office 365 admin center. When you turn on customer lockbox requests, Microsoft is required to obtain your approval prior to accessing your content to fix an issue. To turn customer lockbox requests on or off:
+You can turn Customer Lockbox requests on or off in the Office 365 admin center. When you turn on Customer Lockbox requests, Microsoft is required to obtain your approval prior to accessing your content to fix an issue. To turn Customer Lockbox requests on or off:
   
 1. To do these steps, you must be a Global Administrator, Customer Lockbox access approver or get Organization Management Role applied through RBAC.
     
@@ -76,6 +78,6 @@ You can turn customer lockbox requests on or off in the Office 365 admin center.
     
 4. Navigate to **Settings** \> **Support** \> **Service requests**.<br/>![Data access requests](../media/b99ec47a-1b6f-4841-b831-abf2cb615f77.png)
   
-5. Select a customer lockbox request, and then select **Approve** or **Reject**.
+5. Select a Customer Lockbox request, and then select **Approve** or **Reject**.
     
 

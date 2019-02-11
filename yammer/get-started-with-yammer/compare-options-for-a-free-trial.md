@@ -6,7 +6,7 @@ manager: pamgreen
 ms.date: 5/25/2018
 ms.audience: Admin
 ms.topic: article
-ms.service: o365-administration
+ms.service: yammer
 localization_priority: Normal
 ms.custom: Adm_Yammer
 search.appverid:
@@ -91,6 +91,6 @@ Follow the instructions in [Buy a subscription to Office 365 for business from y
   
 ### Q: What's the roadmap for Yammer?
 
-**A:** Yammer and Office 365 use a rapid release and iterative development methodology, so change is constant. The items currently being developed and their stage of development and testing are available here: [Office 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914).
+**A:** Yammer and Office 365 use a rapid release and iterative development methodology, so change is constant. The items currently being developed and their stage of development and testing are available here: [Microsoft 365 Roadmap](https://www.microsoft.com/microsoft-365/roadmap).
   
 

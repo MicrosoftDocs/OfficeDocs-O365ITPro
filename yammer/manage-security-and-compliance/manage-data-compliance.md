@@ -8,6 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
 localization_priority: Normal
+ms.service: yammer
 ms.custom: Adm_Yammer
 search.appverid:
 - MET150
@@ -55,15 +56,19 @@ Monitor group create|has created|Matthew has created the Easter Region Sales gro
 <a name="DataRetention"> </a>
 ## Data retention
 
-You can control whether deleted messages are retained.
+You can control whether deleted messages and files stored in Yammer are retained and available in data exports.
   
- **Set whether to save deleted messages**
+ **Set whether to retain deleted messages and files stored in Yammer**
   
 1. In the Yammer admin center, go to **Content and Security** \> **Data Retention**.
     
 2. To prevent deleted data from being available in exported data, select **Hard Delete**. Or, to enable deleted data to appear in exported data, select **Soft Delete**.
     
-    Data can be permanently deleted by using the Developer API. To do this you export the data to identify the data that needs to be permanently deleted, and then write a custom PowerShell script to loop through the specific items to delete. For information, see the REST API section of  [Develop apps for Yammer](https://go.microsoft.com/fwlink/?linkid=874797). 
+    Retained data stored in Yammer can be permanently deleted by using the Yammer Developer API. To do this you export the data to identify the data that needs to be permanently deleted, and then write a custom PowerShell script to loop through the specific items to delete. For information, see the REST API section of  [Develop apps for Yammer](https://go.microsoft.com/fwlink/?linkid=874797). 
+
+ **Set whether to retain deleted files stored in SharePoint**
+
+For Yammer files saved in SharePoint, Office 365 data retention settings apply. For more information, see [Overview of retention policies](https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies).
     
 <a name="ContentMode"> </a>
 ## Content mode

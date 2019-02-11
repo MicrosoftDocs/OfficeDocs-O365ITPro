@@ -3,10 +3,10 @@ title: "FAQ: Consolidating multiple Yammer networks"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 11/9/2018
+ms.date: 1/11/2019
 ms.audience: Admin
 ms.topic: article
-ms.service: o365-administration
+ms.service: yammer
 localization_priority: Normal
 ms.custom: Adm_Yammer
 search.appverid: 
@@ -75,7 +75,7 @@ A: There are both short-term and long term benefits:
 
 - Additional benefits coming soon 
 
-    - Document management through SharePoint. For more information, see the [Office 365 roadmap](https://go.microsoft.com/fwlink/p/?LinkId=509914). 
+    - Document management through SharePoint. For more information, see the [Microsoft 365 roadmap](https://go.microsoft.com/fwlink/p/?LinkId=509914). 
 
     - Live events: Yammer is delivering a new live event experience for leaders to host live events that includes video and discussion before, during, and after the event. For more information, see [Live events in Yammer](../manage-yammer-groups/yammer-live-events.md).
 
@@ -83,7 +83,7 @@ A: There are both short-term and long term benefits:
 
 A: The actual technical process of consolidating Yammer networks takes minutes, so there won’t be any down time. 
 
-- **Users from secondary networks**: After the process is completed users from the secondary networks will log in and land in the primary network. When users from a secondary network land in the primary network, they’ll use the same user name, and their profile data will be exactly the same as it was in the secondary network. However, these users won’t find their existing groups or messages in the primary network.
+- **Users from secondary networks**: After the process is completed users from the secondary networks will log in and land in the primary network. When users from a secondary network land in the primary network, they’ll use the same user name, and their profile data will be exactly the same as it was in the secondary network. However, these users won’t find their existing groups or messages in the primary network, and they any following relationships that were established in the secondary network are not preserved.
 
     Because users from the secondary networks will land in an existing, active Yammer network that is not the one they are used to seeing, we suggest that the admins manage these users’ expectations so that they are aware of why they are landing in a different, existing network, and that their previous content and groups have not been migrated. Sample notification text can be found in [Network migration - Consolidate multiple Yammer networks](consolidate-multiple-yammer-networks.md). 
 

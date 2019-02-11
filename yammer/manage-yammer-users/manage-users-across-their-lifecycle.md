@@ -3,10 +3,10 @@ title: "Manage Yammer users across their lifecycle from Office 365"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 5/25/2018
+ms.date: 1/7/2019
 ms.audience: Admin
 ms.topic: article
-ms.service: o365-administration
+ms.service: yammer
 localization_priority: Normal
 ms.custom: Adm_Yammer
 search.appverid:
@@ -187,8 +187,18 @@ A: Yes. If a user's Yammer profile does not include a picture, the profile will 
 
 A: Yes.
   
+### Q: What happens when a user leaves the company?
+
+A. When a user leaves the company and Azure Active Directory is updated, their Yammer profile content is replaced with their start and end dates, and their title is changed to **Former member**. All the messages and files they posted remain in Yammer. 
+
+   ![Yammer profile content](../media/yam_former_member.png)
+
 ### Q: My company has a configuration where not all Yammer users are yet in Office 365. How does life cycle management work in this case?
 
 A: The users who log on to Yammer with Office 365 credentials can be managed in Office 365. You can continue to manage the users who don't use their Office 365 credentials the same way you manage them today. Eventually, when you move everyone to Office 365, you will have one single place to manage all your users (including those who use Yammer).
   
+## See also
 
+[Manage a Yammer group](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+
+[Remove a user from a group](https://support.office.com/en-us/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2#removemember)
