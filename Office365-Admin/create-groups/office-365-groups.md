@@ -59,7 +59,7 @@ If you have a lot of users, such as in a large corporation or enterprise, you ma
 
 ## Group limits
 
-Group Limits:
+The following limits apply to Office 365 Groups:
 
 |Maximum...|Value|
 |:---------|:----|
@@ -85,13 +85,13 @@ If you have a Yammer-only plan you will still have the conversations feed in the
 
 Office 365 Groups works with Azure Active Directory (AAD). The Groups features you get depends on which Azure Active Directory subscription you have. While most group features are available with the Azure Acitve Directory license that comes with Office 365, the following groups features require group owners and members to have Azure Active Directory Premium P1:
 
-[Dynamic group membership](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-dynamic-membership)
-[Granular self-service group creation controls](manage-creation-of-groups.md)
-[Group Naming Policy](groups-naming-policy.md)
-[Group Expiry](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-lifecycle)
-[Usage Guidelines](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-groups-with-powershell#link-to-your-office-365-groups-usage-guidelines)
-[Sensitivity labels](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels)
-[Self-service group management via myapps.microsoft.com](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-self-service-management)
+- [Dynamic group membership](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-dynamic-membership)
+- [Granular self-service group creation controls](manage-creation-of-groups.md)
+- [Group Naming Policy](groups-naming-policy.md)
+- [Group Expiry](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-lifecycle)
+- [Usage Guidelines](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-groups-with-powershell#link-to-your-office-365-groups-usage-guidelines)
+- [Sensitivity labels](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels)
+- [Self-service group management via myapps.microsoft.com](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-self-service-management)
 
 > [!IMPORTANT]
 > For all the Groups features, if you have an Azure AD Premium subscription, users can join the group whether or not they have an AAD P1 license assigned to them. Licensing isn't enforced.
