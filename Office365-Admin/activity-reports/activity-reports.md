@@ -47,7 +47,7 @@ Watch this video for on overview: on how you can use the reports:
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
 
 ::: moniker-end
 
