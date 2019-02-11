@@ -1,5 +1,5 @@
 ---
-title: "Office 365 Reports in the Admin Center - Yammer device usage report"
+title: "Office 365 Reports in the admin center - Yammer device usage report"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -26,20 +26,20 @@ ms.assetid: b793ffdd-effa-43d0-849a-b1ca2e899f38
 description: "Get the Yammer device usage report to know about which devices your users are using Yammer on. "
 ---
 
-# Office 365 Reports in the Admin Center - Yammer device usage report
+# Office 365 Reports in the admin center - Yammer device usage report
 
-The new Office 365 **Reports** dashboard shows you the activity overview across the Office 365 products in your organization. It enables you to drill in to individual product level reports to give you more granular insight about the activities within each product. Check out [the Reports overview topic](activity-reports.md).
+The Office 365 **Reports** dashboard shows you the activity overview across the products in your organization. It enables you to drill in to individual product level reports to give you more granular insight about the activities within each product. Check out [the Reports overview topic](activity-reports.md).
   
 The Yammer device usage reports give you information about which devices your users are using Yammer on. You can view the number of daily users by device type, and number of users by device type. You can view both over a selected time period. You can also view details per user.
   
 > [!NOTE]
-> You must be a global administrator in Office 365 or an Exchange, SharePoint, Skype for Business administrator, or reports reader to see Office 365 reports. 
+> You must be a global administrator in Office 365 or an Exchange, SharePoint, Skype for Business administrator, or reports reader to see reports. 
   
 ## How do I get to the Yammer device usage report?
 
 1. Sign in to Office 365 with your work or school account. 
     
-2. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
+2. Go to the [Microsoft 365 admin center](../admin-overview/about-the-admin-center.md).
     
 3. Select **Reports** and then **Usage** from the left menu.<br/> ![Choose Reports and then usage](../media/e07a631e-3e05-4f17-affd-db5b7cb0bae2.png)
   
@@ -85,8 +85,8 @@ The device usage report contains the following information.
     
   - **Other** indicates if the user has used Yammer on another device, not listed previously. 
     
-    If your organization's policies prevents you from viewing reports where user information is identifiable, you can change the privacy setting for all these reports. Check out the **How do I hide user level details?** section in the [Activity Reports in the Office 365 Admin Center](activity-reports.md).
+    If your organization's policies prevents you from viewing reports where user information is identifiable, you can change the privacy setting for all these reports. Check out the **How do I hide user level details?** section in [Activity reports in the microsoft 365 admin center](activity-reports.md).
     
-- You can also export the report data into an Excel .csv file, by clicking or tapping the **Export**  ![Office 365 reports](../media/816a224b-6ca7-4967-a135-4f6427f64dc8.JPG) link. This exports data of all users and enables you to do simple sorting and filtering for further analysis. If you have less than 2000 users, you can sort and filter within the table in the report itself. If you have more than 2000 users, in order to filter and sort, you will need to export the data. 
+- You can also export the report data into an Excel .csv file, by clicking or tapping the **Export** ![Export button](../media/816a224b-6ca7-4967-a135-4f6427f64dc8.JPG) link. This exports data of all users and enables you to do simple sorting and filtering for further analysis. If you have less than 2000 users, you can sort and filter within the table in the report itself. If you have more than 2000 users, in order to filter and sort, you will need to export the data. 
     
 
