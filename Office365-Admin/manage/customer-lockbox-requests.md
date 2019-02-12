@@ -64,7 +64,7 @@ You can turn Customer Lockbox requests on or off in the Office 365 admin center.
     
 3. Go to the [Office 365 admin center](../admin-overview/about-the-admin-center.md).
     
-4. Navigate to **Settings** \> **Security &amp; privacy** and scroll to locate **Customer Lockbox**.<br/>![Edit Customer Lockbox in the admin center](../media/23b4bc33-96c5-4ad0-a190-f18d24b4374d.png)
+4. Navigate to **Support** \>\> **Customer Lockbox Request**.<br/>![Edit Customer Lockbox in the admin center](../media/52288552-56b9db00-2964-11e9-9db4-f72db1315ebe.png)
   
 5. Click **Edit** and move the toggle **On** or **Off** to turn lockbox requests on or off.<br/>![Require approval for Customer Lockbox](../media/ec03151d-9436-425c-9352-97ec8ae6b3a2.png)
   
