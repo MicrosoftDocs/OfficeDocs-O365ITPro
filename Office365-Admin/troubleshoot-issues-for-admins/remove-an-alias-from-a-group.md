@@ -44,8 +44,9 @@ Before you can do this procedure, you need the following:
     
 1. In Exchange Online PowerShell, replace the group name and email address with your values, and run the following command: 
     
-   
+   ```
    Set-UnifiedGroup -Identity "Group name" -EmailAddresses @{remove="alias@contoso.com"}
+   ```
 
 2. It may take a few minutes, but when the command has completed, the command prompt will return. You'll only get a message if there was an error.
     
