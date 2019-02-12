@@ -112,7 +112,7 @@ Yes, but you can't transfer an Office 365 domain to another registrar until 60 d
   
 Follow the steps below to get the code at Office 365, and then go to the other domain registrar's website to set up transferring your domain name to that registrar.
   
-1. In the Admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
+1. In the admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
     
     If you're using Office 365 Germany, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=854615) page. 
     
@@ -130,7 +130,7 @@ Follow the steps below to get the code at Office 365, and then go to the other d
     
 7. After the transfer is complete, you'll renew your domain at the new domain registrar.
     
-8. To finish the process, go back to the Admin center **Domains** page and choose **Complete Domain Transfer**. 
+8. To finish the process, go back to the admin center **Domains** page and choose **Complete Domain Transfer**. 
     
 ## How do I change how my DNS records are managed in Office 365?
 
@@ -144,7 +144,7 @@ Follow the steps below to get the code at Office 365, and then go to the other d
     
 2. Follow a link to go to the domains setup wizard:
     
-1. In the Admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
+1. In the admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
     
     If you're using Office 365 Germany, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=854615) page. 
     
@@ -164,7 +164,7 @@ Follow the steps below to get the code at Office 365, and then go to the other d
 
 1. Follow a link to go to the domains setup wizard:
     
-1. In the Admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
+1. In the admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
     
     If you're using Office 365 Germany, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=854615) page. 
     
@@ -234,7 +234,7 @@ Providers that support all required DNS records:
 
 You must have at least one custom domain that you've added to Office 365 before you can choose a default domain.
   
-1. In the Admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
+1. In the admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
     
     If you're using Office 365 Germany, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=854615) page. 
     
@@ -326,7 +326,7 @@ You can keep using the initial onmicrosoft.de domain even after you add your dom
 
 ## How do I verify my nonprofit or education status?
 
-1. Choose **Setup** in the [Office 365 admin center](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791 .aspx) to start the wizard. (Be sure to sign in to Office 365 first.) 
+1. Choose **Setup** in the [Microsoft 365 admin center](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791 .aspx) to start the wizard. (Be sure to sign in to Office 365 first.) 
     
 2. To become the Office 365 admin for your school, [follow these steps](https://go.microsoft.com/fwlink/?LinkId=512141) to find and choose the **Become an admin** option in Office 365. 
     
@@ -336,7 +336,7 @@ You can keep using the initial onmicrosoft.de domain even after you add your dom
     
 Have a nonprofit and want to get Office 365? [Make sure your organization qualifies](https://www.microsoft.com/en-us/nonprofits/eligibility) and then sign up for the service. 
   
-Want to know more about becoming the Office 365 admin for your school? [Learn all about it](https://go.microsoft.com/fwlink/?LinkId=512141).
+Want to know more about becoming the admin for your school? [Learn all about it](https://go.microsoft.com/fwlink/?LinkId=512141).
   
 ## Can I pilot Office 365 with just a few email addresses from my custom domain?
 
@@ -353,7 +353,7 @@ You can, but there are limitations:
 
 ### How to set up an Office 365 pilot
     
-1. Sign in to the Office 365 admin center
+1. Sign in to the Microsoft 365 admin center
     
     1. Sign in to Office 365 with your work or school account.
         
@@ -397,7 +397,7 @@ You can, but there are limitations:
     
 5. Create user accounts and set the primary (reply-to) address
     
-    1. Go to the Office 365 admin center.
+    1. Go to the Microsoft 365 admin center.
         
     2. On the left navigation bar, choose **Users** \> **Active Users**. 
         

@@ -36,9 +36,9 @@ There are two ways to apply for a Fapiao:
     
     Or
     
-2. You can apply for a Fapiao from the <a href="https://portal.partner.microsoftonline.cn" target="_blank">Admin center</a>.
+2. You can apply for a Fapiao from the <a href="https://portal.partner.microsoftonline.cn" target="_blank">admin center</a>.
     
-    ![The Bills page in the Office 365 Admin Center.](../media/a6e3b953-abd4-46aa-a910-08c517915a21.png)
+    ![The Bills page in the Microsoft 365 admin center.](../media/a6e3b953-abd4-46aa-a910-08c517915a21.png)
   
 ## Step 2: Register with the 21Vianet Fapiao management system
 
@@ -70,7 +70,7 @@ There are two ways to apply for a Fapiao:
   
     > [!NOTE]
     > - For a normal VAT Fapiao, you only need to enter the buyer's name.
-    > - If necessary, you can apply for a Fapiao with different a title. However, you can only apply one Fapiao title for one bill in the system. If you want to split the Fapiao into different amounts or titles, please <a href="https://portal.partner.microsoftonline.cn/Support/SupportOverview.aspx" target="_blank">submit your request in the Admin center</a>.
+    > - If necessary, you can apply for a Fapiao with different a title. However, you can only apply one Fapiao title for one bill in the system. If you want to split the Fapiao into different amounts or titles, please <a href="https://portal.partner.microsoftonline.cn/Support/SupportOverview.aspx" target="_blank">submit your request in the admin center</a>.
     > - The next time you apply for a Fapiao, the system automatically presents the previous Fapiao information.
     > - If you need a purchase certificate or a refund, the payer name and the Fapiao title must match.
     
@@ -108,9 +108,9 @@ When Fapiao is out of use, the system will display a notice, and will indicate t
 
 You can check the progress of your Fapiao request, and find out why you haven't received the Fapiao.
   
-If you want to change the Fapiao title, please send the Fapiao back to us and we will reissue the Fapiao. You can submit the request through the <a href="https://portal.partner.microsoftonline.cn/Support/SupportOverview.aspx" target="_blank">Admin center</a>.
+If you want to change the Fapiao title, please send the Fapiao back to us and we will reissue the Fapiao. You can submit the request through the <a href="https://portal.partner.microsoftonline.cn/Support/SupportOverview.aspx" target="_blank">admin center</a>.
   
-![The Office 365 Admin Center support form used to send a Fapiao back to request a title change.](../media/2a413e9e-f30b-4f26-adbf-6287cc217a0f.png)
+![The admin center support form used to send a Fapiao back to request a title change.](../media/2a413e9e-f30b-4f26-adbf-6287cc217a0f.png)
   
 ### How do I change my login email address and password?
 
@@ -132,7 +132,7 @@ If you want to change the Fapiao title, please send the Fapiao back to us and we
     
 3. Choose the month of the invoice you want, then choose **View**. The order ID is displayed.
     
-    ![The Bills page in the Office 365 Admin Center.](../media/78ceda62-c72a-4516-b251-736b568ec6a3.png)
+    ![The Bills page in the admin center.](../media/78ceda62-c72a-4516-b251-736b568ec6a3.png)
   
 ### What if I enter the wrong email address when I register?
 

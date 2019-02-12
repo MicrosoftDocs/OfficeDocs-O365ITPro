@@ -1,5 +1,5 @@
 ---
-title: "Back up data before switching O365 for business plans"
+title: "Back up data before switching Office 365 for business plans"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -23,7 +23,7 @@ ms.assetid: a1da52c9-2167-4973-9e6d-492314a79b87
 description: "Backup Outlook, OneDrive, Yammer, and SharePoint content before switching Office 365 subscriptions or if a user leaves the organization."
 ---
 
-# Back up data before switching O365 for business plans
+# Back up data before switching Office 365 for business plans
 
 If a user will be switched to another subscription that has fewer data-related services or a user leaves the organization, a copy of their data that's stored in Office 365 can be downloaded before they are switched to the new subscription.
   

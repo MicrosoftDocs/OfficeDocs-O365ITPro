@@ -32,7 +32,7 @@ If you want to be sure that your users receive business-specific email messages,
   
 ## Turn Focused Inbox On or Off in your organization
 
-You use PowerShell to turn Focused Inbox on or off for everyone in your organization. Do you want to do this in the Office 365 admin center? Let our Engineering team know. **[Vote here!](https://go.microsoft.com/fwlink/?linkid=862489)**
+You use PowerShell to turn Focused Inbox on or off for everyone in your organization. Do you want to do this in the Microsoft 365 admin center? Let our Engineering team know. **[Vote here!](https://go.microsoft.com/fwlink/?linkid=862489)**
   
  **To turn off Focused Inbox:**
   

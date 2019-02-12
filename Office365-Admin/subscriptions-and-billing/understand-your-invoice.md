@@ -30,7 +30,7 @@ description: "Learn how to interpret the charges, billing, and payment informati
 
 # Understand your invoice for Office 365 for business
 
-Each month you'll receive an email that tells you that your new billing statement is available in the Admin center. [Learn how to find and view your bill or invoice](view-your-bill-or-invoice.md).
+Each month you'll receive an email that tells you that your new billing statement is available in the admin center. [Learn how to find and view your bill or invoice](view-your-bill-or-invoice.md).
   
 Your invoice contains two pages. Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support.
   
@@ -48,7 +48,7 @@ Before you view your invoice, it's helpful to understand a few key billing conce
   
 ### Invoice balance vs. order balance
 
- **Invoice balance** is the amount shown on your invoice, and is only the amount due for that particular billing period. Your total **order balance** is the sum of all unpaid invoices. You can view your order balance in the **Billing** section of the Admin center. 
+ **Invoice balance** is the amount shown on your invoice, and is only the amount due for that particular billing period. Your total **order balance** is the sum of all unpaid invoices. You can view your order balance in the **Billing** section of the admin center. 
   
 ### Billing frequency vs. invoice frequency
 
@@ -99,7 +99,7 @@ If you pay by invoice, you can add or change the purchase order (PO) number for 
 > [!NOTE]
 > You can't add a PO number to an existing invoice. The PO number will appear on all future invoices. 
   
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     

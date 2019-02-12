@@ -54,7 +54,7 @@ Here are recommendations for what to store in each location when you use OneDriv
 |:-----|:-----|:-----|
 |**Storage location** <br/> |**What it's for** <br/> |**What to store here** <br/> |
 |**OneDrive** <br/> |Storing content in OneDrive is like storing files on your computer; no one else can easily access them.  <br/> For more info, see [What is OneDrive for Business?](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2.aspx) <br/> |Business files that other team members won't need to collaborate on or access regularly.  <br/> |
-|**SharePoint team sites** <br/> |Collaboration. When you create an Office 365 group (for example, in the Office 365 admin center, in Outlook, or by creating a team in Microsoft Teams) a SharePoint team site is created for that group. Likewise, when you create a new SharePoint team site from the SharePoint home page or from the new SharePoint admin center preview, it also creates an Office 365 group. For more info see [What is a SharePoint team site?](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e.aspx) and [Create a team site in SharePoint Online](https://support.office.com/article/ef10c1e7-15f3-42a3-98aa-b5972711777d.aspx).  <br/> |Files that have shared ownership. We recommend separate team sites for each unit of work in your organization. For example, to keep personnel and financial documents private to a small team, create a separate team site.  <br/> |
+|**SharePoint team sites** <br/> |Collaboration. When you create an Office 365 group (for example, in the Microsoft 365 admin center, in Outlook, or by creating a team in Microsoft Teams) a SharePoint team site is created for that group. Likewise, when you create a new SharePoint team site from the SharePoint home page or from the new SharePoint admin center preview, it also creates an Office 365 group. For more info see [What is a SharePoint team site?](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e.aspx) and [Create a team site in SharePoint Online](https://support.office.com/article/ef10c1e7-15f3-42a3-98aa-b5972711777d.aspx).  <br/> |Files that have shared ownership. We recommend separate team sites for each unit of work in your organization. For example, to keep personnel and financial documents private to a small team, create a separate team site.  <br/> |
    
 > [!NOTE]
 > SharePoint also has other types of sites you can use for your business. You can use [communication sites](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb.aspx) in your intranet to publish information for a broad audience. And you can use [hub sites](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f.aspx) to connect sites in your intranet. 
@@ -71,7 +71,7 @@ Here's how each person on your team can set up OneDrive and share files.
   
 ![Office 365 home screen with OneDrive select](../media/4e38655d-958c-4517-b622-052c1799b95b.png)
   
-1. Go to [office.com](https://portal.office.com) to sign in, and sign in with your user name and password. 
+1. Go to [office.com](https://admin.microsoft.com) to sign in, and sign in with your user name and password. 
     
 2. On the Office 365 home page, choose **OneDrive**.
     
@@ -101,7 +101,7 @@ Office 365 includes a basic team site with some features to help you get started
   
 Here's how you get to your team site:
   
-1. Go to [office.com](https://portal.office.com) to sign in, and sign in with your user name and password. 
+1. Go to [office.com](https://admin.microsoft.com) to sign in, and sign in with your user name and password. 
     
 2. On the Office 365 home screen, choose SharePoint and then choose your team site link on the left-hand navigation menu. 
     
@@ -213,7 +213,7 @@ You can enable third-party storage for your users in Office 365 so they can stor
   
 1. Sign in to Office 365 with your work or school account. 
     
-2. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
+2. Go to the [Microsoft 365 admin center ](../admin-overview/about-the-admin-center.md).
     
 3. Go to **Settings** \> **Services and add-ins** \> **Office Online**.
     

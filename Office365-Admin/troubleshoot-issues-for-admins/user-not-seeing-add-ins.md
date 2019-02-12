@@ -77,5 +77,4 @@ Users can't see add-in? Try one of these:
     
 ## See also
 
-[Manage deployment of Office 365 add-ins in the Office 365 admin center](https://support.office.com/article/737e8c86-be63-44d7-bf02-492fa7cd9c3f)
-
+[Manage deployment of Office 365 add-ins in the Microsoft 365 admin center](../manage/manage-deployment-of-add-ins.md)

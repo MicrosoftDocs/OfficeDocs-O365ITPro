@@ -42,7 +42,7 @@ description: "Learn how to switch to a new Office 365 for business subscription.
 
 When your business changes, or you need more features, you can switch plans.  
 
-The easiest way to switch plans is to use the **Switch plans** button in the Admin center. However, using the **Switch plans** button isn't supported in all situations. In some cases, you might be able to switch plans manually.
+The easiest way to switch plans is to use the **Switch plans** button in the admin center. However, using the **Switch plans** button isn't supported in all situations. In some cases, you might be able to switch plans manually.
 
 **Need something else?**
 - [Cancel your subscription](cancel-your-subscription.md)
@@ -53,7 +53,7 @@ The easiest way to switch plans is to use the **Switch plans** button in the Adm
 
 When you use the **Switch plans** button, you're led through the process of buying a new plan that you can switch your current plan to, all users are automatically assigned licenses in the new plan, and your old plan is canceled for you. 
   
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     

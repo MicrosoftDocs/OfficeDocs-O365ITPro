@@ -47,13 +47,13 @@ If you pay by credit card, and your credit card is declined, you'll receive an e
 > [!NOTE]
 > If you switch to a different credit card to pay the outstanding balance on your subscription, that card will be charged for all future automatic payments for that subscription. 
   
-When you sign in to the Admin center, you might see the following alert on the home page:
+When you sign in to the admin center, you might see the following alert on the home page:
   
-![The Billing widget on the Admin Center home page showing a past due balance.](../media/67389c51-8e36-4d3a-89e6-bee580050a9b.png)
+![The Billing widget on the admin center home page showing a past due balance.](../media/67389c51-8e36-4d3a-89e6-bee580050a9b.png)
   
  **To pay your outstanding balance**
   
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     
@@ -257,7 +257,7 @@ You can choose to receive a copy of your billing statement as an email attachmen
   
 - An email will be sent to both the primary and alternate email address for every person listed as a notification recipient.
     
-- You will receive two separate emails: one that lets you know that your bill is ready, with instructions to log on to the Admin center to view it, and a second email that contains the billing statement as an attachment.
+- You will receive two separate emails: one that lets you know that your bill is ready, with instructions to log on to the admin center to view it, and a second email that contains the billing statement as an attachment.
     
  **To receive your billing statement in email**
   

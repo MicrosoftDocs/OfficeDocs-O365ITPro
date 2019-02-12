@@ -32,7 +32,7 @@ The app launcher is personalized and helps users open and switch between the app
   
 Later in this article you will find two videos. [Admin overview video: Meet the Office 365 app launcher](#admin-overview-video-meet-the-office-365-app-launcher) will show you the new experience so you can prepare for the change and [Snapshot video: Introducing new Office 365 web experiences](#snapshot-video-introducing-new-office-365-web-experiences) is a brief video you can share with your users. 
   
-The videos introduce the Office 365 app launcher as well as highlight how [www.office.com](https://www.office.com) is an easy to remember URL to help users get started with all things Office 365 and specifically, working with online documents. Additionally, the Office 365 gallery page available from [www.office.com](https://www.office.com), helps you and your users better understand the apps, tools, and services that are part of your Office 365 subscriptions.
+The videos introduce the Office 365 app launcher as well as highlight how [www.office.com](https://www.office.com) is an easy to remember URL to help users get started with all things Office 365 and specifically, working with online documents. Additionally, the Office 365 gallery page available from [www.office.com](https://www.office.com), helps you and your users better understand the apps, tools, and services that are part of your subscriptions.
   
 ## Admin overview video: Meet the Office 365 app launcher
 <a name="bkmk_Video"> </a>
@@ -48,7 +48,7 @@ Meet the new Office 365 app launcher
 ## Snapshot video: Introducing new Office 365 web experiences
 <a name="bkmk_snapshot"> </a>
 
-Check out this video that you can share with your users on how they can get the most out of the Office 365 app launcher, gallery and Office.com.
+Check out this video that you can share with your users on how they can get the most out of the app launcher, gallery and Office.com.
   
 [Introducing new Office 365 web experiences](https://go.microsoft.com/fwlink/?linkid=862453).
   
@@ -79,7 +79,7 @@ Access to all Outlook modules is consolidated in the main view of the app launch
 
 After your users see the new launcher for the first time, apps in the main view will stay the same, unless a user chooses to customize their apps or an administrator adds or removes licenses. If you have difficulty finding an app, click **All your apps** and search or look through the alphabetized list of apps available. The apps section on www.office.com, however, will reflect apps recently used outside of a user's default apps. 
   
-### Is the Pin to Top feature to pin apps to the Office 365 navbar still available?
+### Is the Pin to Top feature to pin apps to the navbar still available?
 <a name="mcpttiles"> </a>
 
 No. With the new app launcher's more personalized default experience as well as the low usage of the pin to top feature in the current experience, we removed the capability. To help ensure that you have access to your most relevant apps, any application that is used recently from the top will be pinned to the main view of your new launcher. Another option for one-click access to get started with your favorite applications is to sign-in at www.office.com. The app section at the top of the page includes all of your most used applications.
@@ -87,7 +87,7 @@ No. With the new app launcher's more personalized default experience as well as 
 ### Are there additional resources to help me train my users?
 <a name="mcpttiles"> </a>
 
-Yes. We've created a ~5 minutes [Microsoft Mechanics video](https://youtu.be/9mEYBpUsb6k) to explain the new Office 365 app launcher experience, as well as the new Office 365 gallery and changes to [www.office.com](https://www.office.com). Additionally, you can listen to our archived [Microsoft Ignite session](https://m.youtube.com/watch?v=IMV97BwS5Xk) where we go into more depth on the new experiences and the customer challenges they are designed to help. 
+Yes. We've created a ~5 minutes [Microsoft Mechanics video](https://youtu.be/9mEYBpUsb6k) to explain the new app launcher experience, as well as the new Office 365 gallery and changes to [www.office.com](https://www.office.com). Additionally, you can listen to our archived [Microsoft Ignite session](https://m.youtube.com/watch?v=IMV97BwS5Xk) where we go into more depth on the new experiences and the customer challenges they are designed to help. 
   
 ### How can I get an early look at new experiences coming to Office 365?
 <a name="mcpttiles"> </a>

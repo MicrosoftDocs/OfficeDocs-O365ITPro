@@ -25,12 +25,12 @@ search.appverid:
 - MOE150
 ms.assetid: 0dc55430-98d6-4cbe-ba69-1a4ad29a967d
 ROBOTS: NOINDEX
-description: "Learn about types of users in the Office 365 admin center. "
+description: "Learn about types of users in the admin center. "
 ---
 
 # Quick help: Types of users
 
-On the **Active users** page in the Office 365 admin center, you can filter by the following types of users. 
+On the **Active users** page in the Microsoft 365 admin center, you can filter by the following types of users. 
   
 |||
 |:-----|:-----|

@@ -35,7 +35,7 @@ When you switch plans automatically by using the **Switch plans** button, your s
   
 ## Access to services
 
- **Admins** won't be able to use the Admin center while the plan is being switched. This can take up to an hour. 
+ **Admins** won't be able to use the admin center while the plan is being switched. This can take up to an hour. 
   
  **Users** will experience no interruption of service. They will continue to have the existing service until the switch is fully completed. 
   

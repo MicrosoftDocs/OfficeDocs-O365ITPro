@@ -26,7 +26,7 @@ description: "Learn to move data over to your new business identity."
 
 # Move email and data to Office 365 Business Premium
 
-When you upgrade to Office 365 Business Premium, we give you a brand new  *business identity*  . You get a new email account, and a separate OneDrive account for your business data. 
+When you upgrade to Office 365 Business Premium, we give you a brand new  *business identity*. You get a new email account, and a separate OneDrive account for your business data. 
   
 If you want to move some of your personal data over to your new business identity, follow the instructions below.
   
@@ -40,7 +40,7 @@ If you want to move some of your personal data over to your new business identit
 3. Copy the files that you want to use with Office 365 for business to the local folder that you created in step 1.
     
  **Import OneDrive files to Office 365 for business**
-1. Go to [portal.office.com](https://go.microsoft.com/fwlink/?LinkId=816877) and sign in with your Office 365 Business user name and password. 
+1. Go to [admin.microsoft.com](https://go.microsoft.com/fwlink/?LinkId=816877) and sign in with your Office 365 Business user name and password. 
     
 2. Select the **app launcher** icon in the upper-left and then choose **OneDrive**.
     

@@ -25,15 +25,15 @@ description: "Learn to change the default theme of Office 365 and customize it t
 
 # Customize the Office 365 theme for your organization
 
-Learn how to customize your theme in the Office 365 admin center. As the admin of your Office 365 for business subscription, you can change the default theme that appears in the top navigation bar for everyone in the organization. You can add your company logo, colors, and a link to match the rest of your brand. You can see here the default theme and custom theme result in Office 365.
+Learn how to customize your theme in the Microsoft 365 admin center. As the admin of your Office 365 for business subscription, you can change the default theme that appears in the top navigation bar for everyone in the organization. You can add your company logo, colors, and a link to match the rest of your brand. You can see here the default theme and custom theme result in Office 365.
   
 ![Default Office 365 theme and Custom Office 365 theme](../media/e2cbc922-b424-4683-8c5c-fdbcbd0ce844.png)
   
-## Customize your theme in the Office 365 admin center
+## Customize your theme in the admin center
 
 1. [Sign in to Office 365](https://go.microsoft.com/fwlink/p/?LinkID=402333) with your [work or school account](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4.aspx).
     
-2. Navigate to the Office 365 admin center
+2. Navigate to the Microsoft 365 admin center.
     
 3. Choose to **Settings**![Settings: update your profile, install software and connect it to the cloud](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **Organization profile**.
     
@@ -68,7 +68,7 @@ Learn how to customize your theme in the Office 365 admin center. As the admin o
     
 6. Click or tap **Save**.
     
-You'll see your new theme on the Office 365 admin center right away and after a short delay, you'll see it throughout Office 365, including Outlook and SharePoint pages. You can remove your custom icon or custom colors at any time. Just return to the theme page and choose **Remove custom theming**
+You'll see your new theme on the admin center right away and after a short delay, you'll see it throughout Office 365, including Outlook and SharePoint pages. You can remove your custom icon or custom colors at any time. Just return to the theme page and choose **Remove custom theming**
   
 ## Best Practices
 

@@ -62,19 +62,19 @@ More at [Sign up for Office 365 Business Premium](https://support.office.com/art
 
 ::: moniker range="o365-worldwide"
 
-To install the Office apps, go to the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=837890).
+To install the Office apps, go to the [admin center](https://go.microsoft.com/fwlink/p/?linkid=837890).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-If you're using Office 365 Germany, go to [this Admin center](https://go.microsoft.com/fwlink/p/?linkid=848041).
+If you're using Office 365 Germany, go to [this admin center](https://go.microsoft.com/fwlink/p/?linkid=848041).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-If you're using Office 365 operated by 21Vianet, go to [this Admin center.](https://go.microsoft.com/fwlink/p/?linkid=850627)
+If you're using Office 365 operated by 21Vianet, go to [this admin center.](https://go.microsoft.com/fwlink/p/?linkid=850627)
 
 ::: moniker-end
 
@@ -130,7 +130,7 @@ More at [Import email with Outlook](https://support.office.com/article/6a3771d4-
 
 Office 365 doesn't include a public website for your business. If you want to set one up, consider using a Microsoft partner, such as GoDaddy or WIX.
   
-1. From the Admin center, go to **Resources**, and then choose **Public website**.
+1. From the admin center, go to **Resources**, and then choose **Public website**.
     
 2. Choose **Learn more** under one of the options, and then sign up with a website partner and use their tools to set up and design your site. 
     
@@ -147,19 +147,19 @@ In this step, you use the Setup wizard to create Office 365 accounts for your us
   
 ::: moniker range="o365-worldwide"
 
-Go to the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=837890).
+Go to the [admin center](https://go.microsoft.com/fwlink/p/?linkid=837890).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-If you're using Office 365 Germany, go to [this Admin center](https://go.microsoft.com/fwlink/p/?linkid=848041).
+If you're using Office 365 Germany, go to [this admin center](https://go.microsoft.com/fwlink/p/?linkid=848041).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-If you're using Office 365 operated by 21Vianet, go to [this Admin center.](https://go.microsoft.com/fwlink/p/?linkid=850627).
+If you're using Office 365 operated by 21Vianet, go to [this admin center.](https://go.microsoft.com/fwlink/p/?linkid=850627).
 
 ::: moniker-end
 
@@ -217,7 +217,7 @@ You and your team members can [download and install Skype for Business](https://
   
 ::: moniker range="o365-worldwide"
 
-Go to [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).
+Go to [https://admin.microsoft.com/OLS/MySoftware.aspx](https://admin.microsoft.com/OLS/MySoftware.aspx).
 
 ::: moniker-end
 
@@ -264,19 +264,19 @@ In this step, you use the Setup wizard to create accounts and add your own domai
   
 ::: moniker range="o365-worldwide"
 
-Go to the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=837890).
+Go to the [admin center](https://go.microsoft.com/fwlink/p/?linkid=837890).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-If you're using Office 365 Germany, go to [this Admin center](https://go.microsoft.com/fwlink/p/?linkid=848041).
+If you're using Office 365 Germany, go to [this admin center](https://go.microsoft.com/fwlink/p/?linkid=848041).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-If you're using Office 365 operated by 21Vianet, go to [this Admin center.](https://go.microsoft.com/fwlink/p/?linkid=850627).
+If you're using Office 365 operated by 21Vianet, go to [this admin center.](https://go.microsoft.com/fwlink/p/?linkid=850627).
 
 ::: moniker-end
 
@@ -288,7 +288,7 @@ Once you've created accounts for other people in your business, you and your tea
   
 ::: moniker range="o365-worldwide"
 
-Go to [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).
+Go to [https://admin.microsoft.com/OLS/MySoftware.aspx](https://admin.microsoft.com/OLS/MySoftware.aspx).
 
 ::: moniker-end
 
@@ -347,23 +347,23 @@ To take a tour of Office 365 and learn how to use all the Office mobile apps, se
     
 ### 1. Add your school domain or connect your directory
 
-In this step, you sign in to the Office 365 portal and add your school domain to your Office 365 subscription. This will verify to Microsoft that you qualify for an education subscription.
+In this step, you sign in to the Office 365 portal and add your school domain to your subscription. This will verify to Microsoft that you qualify for an education subscription.
   
 ::: moniker range="o365-worldwide"
 
-Go to the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=837890).
+Go to the [admin center](https://go.microsoft.com/fwlink/p/?linkid=837890).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-If you're using Office 365 Germany, go to [this Admin center](https://go.microsoft.com/fwlink/p/?linkid=848041).
+If you're using Office 365 Germany, go to [this admin center](https://go.microsoft.com/fwlink/p/?linkid=848041).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-If you're using Office 365 operated by 21Vianet, go to [this Admin center.](https://go.microsoft.com/fwlink/p/?linkid=850627).
+If you're using Office 365 operated by 21Vianet, go to [this admin center.](https://go.microsoft.com/fwlink/p/?linkid=850627).
 
 ::: moniker-end
 

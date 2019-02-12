@@ -32,7 +32,7 @@ To learn more about Power BI compliance, see the [Microsoft Trust Center](https:
   
 ## How do users sign up for Power BI?
 
-As an administrator, you can sign up for Power BI through the [Power BI web site](https://powerbi.microsoft.com/en-us/). You can also sign up through the purchase services page on the Office 365 admin center. When an administrator signs up for Power BI, they can assign user subscription licenses to users who should have access.
+As an administrator, you can sign up for Power BI through the [Power BI web site](https://powerbi.microsoft.com/en-us/). You can also sign up through the purchase services page on the Microsoft 365 admin center. When an administrator signs up for Power BI, they can assign user subscription licenses to users who should have access.
   
 Additionally, individual users in your organization may be able to sign up for Power BI through the [Power BI web site](https://powerbi.microsoft.com/en-us/). When a user in your organization signs up for Power BI, that user is assigned a Power BI license automatically.
   
@@ -144,7 +144,7 @@ To allow your existing users to sign up for Power BI, run the opposite command a
 
 If a user signed up for Power BI but you no longer want them to have access to Power BI, you can remove the Power BI license for that user.
   
-1. Navigate to the <a href="https://admin.microsoft.com" target="_blank">Admin Center</a>.
+1. Navigate to the <a href="https://admin.microsoft.com" target="_blank">admin center</a>.
     
 2. In the left navigation bar, click **Users** then **Active Users**.
     
@@ -160,17 +160,17 @@ If a user signed up for Power BI but you no longer want them to have access to P
 
 Users who have joined your tenant as part of this program are assigned a unique license that you can filter on within your active user pane in the admin dashboard.
   
-To create this new view, in the Admin center, go to **Users** \> **Active Users**, and on the **Select a View** menu, select **New View**. Name your new view, and under **Assigned license**, select **Microsoft Power BI**. After the new view has been created, you will be able to see all the users in your tenant who have enrolled in this program.
+To create this new view, in the admin center, go to **Users** \> **Active Users**, and on the **Select a View** menu, select **New View**. Name your new view, and under **Assigned license**, select **Microsoft Power BI**. After the new view has been created, you will be able to see all the users in your tenant who have enrolled in this program.
   
 ## Are there any additional things I should be prepared for?
 
 You might experience an increase in password reset requests. For information about this process, see [Reset a user's password](../add-users/reset-passwords.md).
   
-You can remove a user from your tenant via the standard process in the Admin center. However, if the user still has an active email address from your organization, they will be able to rejoin unless you block all users from joining.
+You can remove a user from your tenant via the standard process in the admin center. However, if the user still has an active email address from your organization, they will be able to rejoin unless you block all users from joining.
   
 ## Why did 1 million licenses for Microsoft Power BI show up in my Office 365 tenant?
 
-As a qualifying organization, users in your organization are eligible to use the Microsoft Power BI service and these licenses represent the available capacity for new Power BI users in your tenant. There is no charge for these licenses. If you've chosen to allow users to sign up for Power BI themselves, they will be assigned one of these available free licenses when they complete the sign up process. You can also choose to assign these licenses to users yourself through the Admin center.
+As a qualifying organization, users in your organization are eligible to use the Microsoft Power BI service and these licenses represent the available capacity for new Power BI users in your tenant. There is no charge for these licenses. If you've chosen to allow users to sign up for Power BI themselves, they will be assigned one of these available free licenses when they complete the sign up process. You can also choose to assign these licenses to users yourself through the admin center.
   
 ## Is this free? Will I be charged for these licenses?
 

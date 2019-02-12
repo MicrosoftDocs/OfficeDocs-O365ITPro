@@ -56,11 +56,11 @@ It could also happen because you haven't assigned a license to yourself or your 
 
     ![Office 365 Subscriptions page](../media/a132e20f-de6c-461d-beb2-2d8cf1a04f1d.png)<br/>You'll see the services that you're licensed to use, such as the latest desktop version of Office, Project, Visio, SharePoint Online or OneDrive for Business, and Exchange Online. If you don't see **The latest desktop version of Office** in the list (or **Project** or **Visio** if you bought plans with those applications), see [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md).
     
-Not all Office 365 plans come with Office. If your organization has an Office 365 plan that doesn't include the latest desktop version of Office, as the admin, you can [switch to a different Office 365 plan or subscription](../subscriptions-and-billing/switch-to-a-different-plan.md). 
+Not all Office 365 plans come with Office. If your organization has a plan that doesn't include the latest desktop version of Office, as the admin, you can [switch to a different Office 365 plan or subscription](../subscriptions-and-billing/switch-to-a-different-plan.md). 
   
 If you're not sure what plan you have, follow the steps in [What subscription do I have?](../admin-overview/what-subscription-do-i-have.md) For a comparison of plans, see the [small business plans comparison](https://products.office.com/business/compare-office-365-for-business-plans) or [enterprise plans comparison](https://products.office.com/en-us/business/compare-more-office-365-for-business-plans).
   
-### I recently switched Office 365 plans and now get messages I can't use Office
+### I recently switched plans and now get messages I can't use Office
 
 When you install Office it's automatically linked to your Office 365 plan. This means if you recently switched plans you'll need to uninstall and then reinstall Office to associate it with your updated subscription. Use this easy fix tool and then follow the steps to reinstall Office.
   
@@ -126,11 +126,11 @@ If you're an Office 365 Midsize Business, Office 365 Business, or Office 365 Ent
   
 1. Sign in to Office 365 for business with your work or school account. 
     
-2. Select the app launcher icon  in the upper-left and choose **Admin**.<br/><br/>Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
+2. Select the app launcher icon  in the upper-left and choose **Admin**.<br/><br/>Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the apps available to you. From there, you can search for a specific app. 
     
 3. Go to **Exchange**.
 
-    ![Office 365 admin center with Exchange](../media/239c294e-4f04-4c52-bd87-bbf343cb66b9.png)
+    ![Microsoft 365 admin center with Exchange](../media/239c294e-4f04-4c52-bd87-bbf343cb66b9.png)
   
 4. Under **mail flow**, go to **message trace**.
     
