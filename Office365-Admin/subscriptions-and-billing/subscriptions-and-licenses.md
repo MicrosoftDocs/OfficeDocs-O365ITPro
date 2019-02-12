@@ -7,7 +7,9 @@ ms.audience: Admin
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection: 
+- M365-subscription-management 
+- Adm_O365
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -52,7 +54,7 @@ When someone leaves your organization, you can remove a license from that person
   
 If you have more than one subscription, you can assign licenses to different people for each subscription.
   
-![A box for Visio Pro and one for Office 365 Business Premium. Dotted lines connect to four user icons below the boxes.](../media/1e60d97e-c27a-4508-b2f7-f587f4cd7e34.png)
+![Visio Pro and O365 Business Premium connected to multiple user icons.](../media/1e60d97e-c27a-4508-b2f7-f587f4cd7e34.png)
   
 ## Find out who can assign licenses
 

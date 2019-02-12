@@ -2,7 +2,7 @@
 title: "Troubleshoot Remove an alias from a contact"
 ms.author: anfowler
 author: anfowler
-manager: scotv
+manager: mnirkhe
 ms.audience: Admin
 ms.topic: troubleshooting
 f1_keywords:

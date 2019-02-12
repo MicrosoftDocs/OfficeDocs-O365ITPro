@@ -14,14 +14,33 @@ search.appverid:
 - FRP150
 ms.assetid: 739574d7-2c5b-4911-a549-f56ecc7d3b48
 description: "Microsoft 365 admin center preview - learn about the features that were added this month."
+f1_keyword: MACDashWhatsNew
 ---
 
 # What's new in Microsoft 365 admin center preview
-
-We're continuously adding new features to the Microsoft 365 admin center preview, fixing issues we learn about, and making changes based on your feedback. As the new admin center is getting built, you'll want to know about what's getting added, what's new, and what's being removed. Take a look below to see what's available for you today.
+We're continuously adding new features to the Microsoft 365 admin center preview, fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today.
 
 Want to know how to participate in the preview? Checkout [About the Microsoft 365 admin center preview](microsoft-365-admin-center-preview.md).
   
+## January 2019 - Happy New Year!
+- Still adding in **Services & add-ins** - We've updated more of the **Settings > Services & add-ins** pages. Try Integrated Apps or Reports to see the latest. 
+- **Searching for improvements?** Look no further than the **Search** box in the command bar. It's been updated to let you search for tasks. For example, try "password reset" or "add a user".  
+
+### Featured Feedback Fix - Licenses and apps
+
+We re-combined **Licenses and apps** in the user details pane based on your feedback. We initially separated the two features to provide space for the details of all license and all app possibilities.  We heard from you that separating licenses and apps into two panes added confusion.  We listened, and brought licenses and apps back together into one tab.  Now you can make sure that an app is turned off in all licenses assigned to a user in one pane.  Milk and cookies.  Licenses and apps.  We get it now.
+
+Check it out: **Users > Active users > Edit** or **Add user > Licenses and Apps**. 
+
+## December 2018
+- **Services & add-ins** - In October we updated **Settings** \> **Services & add-ins** with our new design style, but all of the settings pages were still in the classic style. This month, we've started updating the actual settings to the new design. Check out **Bookings** to see the new look.
+- **User management** - Manage username, alias, primary email address.
+- We've added two Home cards to the library. You can read their full descriptions in the library.
+    - **Intune Device enrollment**
+    - **Domains**
+- **Recommendations** - You might see a new recommendation pop-up in your admin center. Of course, you'll only see recommendations if we think it will benefit your organization. But don't wait until we show you the recommendation - you can add it from the card library.
+    - **Protect sensitive info** - We recommend creating a data loss prevention (DLP) policy to detect when items containing sensitive info are shared with people outside your organization.
+
 ## November 2018
 - The Search box is back! And we moved it slightly. It's still at the top of the Home page, but it's now on the right-side of the page near the **Add card** button. <br> ![Screen capture explaining that the search box is located in the upper right-side of the Home page.](media/M365PreviewSearchBox.png)
 
@@ -115,10 +134,11 @@ The following cards aren't available in admin center preview, so here's how you 
 |**View** \> **Add custom view** <br/> |**Filter** \> **New filter** <br/> |
 |**User details** \> **Sign-in status** <br/> |Select the quick action under the user's name: **Edit sign in status** <br/> |
 |**User details** \> **Product licenses** <br/> |**User details** \> **Licenses**. In addition, on the Licenses tab you can't turn the apps, products or services off or on for a particular license.  <br/> |
-|**User details** \> ** Product licenses ** \> Turn off services, products, or apps for a user  <br/> |**User details** \> **Apps**. If you turn a service or app off, it is turned off for all licenses the user has - you no longer have to turn the feature off for each individual license the user has.  <br/> |
+|**User details** \> **Product licenses** \> Turn off services, products, or apps for a user  <br/> |**User details** \> **Apps**. If you turn a service or app off, it is turned off for all licenses the user has - you no longer have to turn the feature off for each individual license the user has.  <br/> |
 |**User details** \> **Group memberships** <br/> |**User details** \> **Account** \> **Manage groups** <br/> |
 |**User details** \> **Roles** <br/> |**User details** \> **Account** \> **Manage roles** <br/> |
 |**Office installs** <br/> |**User details** \> **Account** \> **Office activations** <br/> |
+|**Reset password** <br/> |**Home** \> **User management** card \> Select the drop-down menu \> **Reset password** <br><br> OR <br><br>**Users** \> **Active users** \> Select at least one user \> **Reset password** <br/> |
    
 ### Billing
 

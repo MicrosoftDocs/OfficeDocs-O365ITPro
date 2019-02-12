@@ -28,22 +28,35 @@ Data for all reports is displayed within 4 to 5 minutes. You can experience dela
   
 The following reports are currently available on the dashboard:
   
-- **Usage Telemetry**
+- **Usage Trends**
+
+- **Activity Report**
     
-- **Survey Report**
+- **Surveys**
     
-- **Survey Detailed Report**
+- **Detailed Survey Reports**
     
-- **Poll Detailed Report**
+- **Recurrent Surveys**
     
-- **Job Report**
+- **Polls**
+
+- **Attendance Card**
+
+- **Jobs**
+
+- **Training Card**
+
+- **Location Cards**
     
-- **Location Report**
+- **Export Chat History**
+
+- **Export Tenant Data**
+
     
 > [!NOTE]
 > Kaizala group admins will see reports for their organization groups. Kaizala organization admins will be able to see reports for all organization groups. Reports are available only for group admins. Members can't see reports for any group. 
   
-## Usage telemetry
+## Usage trends
 
 To view the report on usage telemetry, navigate to **Reports** from the navigation bar. From there, go to the tile **Usage Telemetry**. This report displays the following information for organization groups: 
   
@@ -51,7 +64,7 @@ To view the report on usage telemetry, navigate to **Reports** from the navigati
     
 - ﻿Growth trends of the types of messages sent within your group﻿.
     
-## Survey report
+## Surveys
 
 To view survey reports, navigate to the home page. Go to **Reports** from the navigation bar. Select the **Survey Report** tile from the list of available reports. This report displays the following information for organization groups: 
   
@@ -73,7 +86,7 @@ The following filters are available in a survey report:
     
 - Survey created date - filter reports based on when a survey was created. Select a specific date or a date range.
     
-## Survey detailed report
+## Detailed Survey reports
 
 To view a survey detailed report, navigate to **Reports** page from the home screen. Select the **Survey Detailed Report**  tile. In the dialog, choose the group and survey from the drop-down lists. The report consists of 5 tabs:
   
@@ -89,11 +102,11 @@ To view a survey detailed report, navigate to **Reports** page from the home scr
     
 - Images - view all the photos collected via a survey in a single plac﻿e.
     
-## Poll Detailed Report
+## Polls
 
 To view a poll detailed report, navigate to **Reports** page from the home screen. Select the **Poll Detailed Report**  tile. In the dialog, choose the group and poll title from the drop down lists. The report consists of only 1 tab which shows the summary and detailed analysis of choices made for that poll's question. 
   
-## Job report
+## Jobs
 
 To view job reports, from the home page, go to **Reports** from the navigation bar. Select the **Job Report** tile from the list of available reports and select an organization group from the drop down list. The report consists of 3 tabs: 
   
@@ -103,7 +116,7 @@ To view job reports, from the home page, go to **Reports** from the navigation b
     
 - Group wise jobs status - how many jobs are Not-Started, Partially-Complete, or Completed for each group.
     
-## Location Report
+## Location Cards
 
 To view a location report, from the home page, go to **Reports** from the navigation bar. Select the **Location Report** tile from the list of available reports. This report displays the following information for organization groups: 
   
