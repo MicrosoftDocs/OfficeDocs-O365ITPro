@@ -24,8 +24,6 @@ description: "Send email to a group of people without having to type each indivi
 ---
 
 # Create distribution lists in the Microsoft 365 admin center
-
- *Last updated 28 February, 2018* 
   
 Used when you want to send email to group of people without having to type each individual recipient's name, distribution lists are organized by a particular discussion subject (such as "Marketing") or by users who share common work that requires them to communicate frequently. They also provide a way for you to automatically forward email to multiple email addresses.
   

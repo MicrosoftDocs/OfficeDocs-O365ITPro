@@ -3,7 +3,6 @@ title: "Reset Office 365 business passwords"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -40,7 +39,6 @@ description: "Learn how to reset password for a user in Office 365 business subs
 
 # Reset Office 365 business passwords
 
- *Last updated 26 March, 2018* 
   
 ## Let users reset their own passwords
 
