@@ -98,7 +98,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
-    ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
 3. On the **Setup** page, choose **Start setup**.
     
@@ -131,7 +131,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**MX Record**|**MX Priority**|
     |:-----|:-----|
-    | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md) |5  <br/> (This is the default value.)  <br/> |
+    | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md) |5  <br/> (This is the default value.)  <br/> |
    
     ![NoIP-BP-Configure-2-1](../media/7fdf72ed-d6ce-4074-98ca-df1e83eea349.png)
   

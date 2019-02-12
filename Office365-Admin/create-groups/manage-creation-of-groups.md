@@ -50,13 +50,13 @@ This article explains how to disable the ability to create groups **in all Offic
     
 You can restrict Office 365 Group creation to the members of a particular security group. To configure this, you use Windows PowerShell. This article walks you through the needed steps.
   
-The steps in this article doesn't prevent members of certain roles from creating Office 365 Groups. Office 365 Global admins may create Office 365 Groups via any means, such as the Office 365 Admin center, Planner, Teams, Exchange, and SharePoint Online. Other roles may create Office 365 Groups via limited means, listed below.
+The steps in this article doesn't prevent members of certain roles from creating Groups. Office 365 Global admins may create Groups via any means, such as the Microsoft 365 Admin center, Planner, Teams, Exchange, and SharePoint Online. Other roles may create Groups via limited means, listed below.
         
   - Exchange Administrator: Exchange Admin center, Azure AD
     
-  - Partner Tier1 Support: Office 365 Admin center, Exchange Admin center, Azure AD
+  - Partner Tier1 Support: Microsoft 365 Admin center, Exchange Admin center, Azure AD
     
-  - Partner Tier2 Support: Office 365 Admin center, Exchange Admin center, Azure AD
+  - Partner Tier2 Support: Microsoft 365 Admin center, Exchange Admin center, Azure AD
     
   - Directory Writers: Azure AD
 
@@ -64,37 +64,37 @@ The steps in this article doesn't prevent members of certain roles from creating
   
   - Teams Service Administrator: Teams Admin center, Azure AD
   
-  - User Management Administrator: Office 365 Admin center, Azure AD
+  - User Management Administrator: Microsoft 365 Admin center, Azure AD
     
 If you're a member of one of these roles, you can create Office 365 Groups for restricted users, and then assign the user as the owner of the group.
 
 ## Licensing requirements
 
-To manage who creates Office 365 Groups, the following people need Azure AD Premium licenses or Azure AD Basic EDU licenses assigned to them:
+To manage who creates Groups, the following people need Azure AD Premium licenses or Azure AD Basic EDU licenses assigned to them:
 
 - The admin who configures these group creation settings
-- The members of the security group who are allowed to create Office 365 Groups
+- The members of the security group who are allowed to create Groups
 
 The following people don't need Azure AD Premium or Azure AD Basic EDU licenses assigned to them:
 
-- People who are members of Office 365 groups and who don't have the ability to create other Office 365 groups.
+- People who are members of Office 365 groups and who don't have the ability to create other groups.
 
 ## Step 1: Create a security group for users who need to create Office 365 Groups
 
-Only one security group in your organization can be used to control who is able to create Office 365 Groups. But, you can nest other security groups as members of this group. For example, the group named Allow Group Creation is the designated security group, and the groups named Microsoft Planner Users and Exchange Online Users are members of that group.
+Only one security group in your organization can be used to control who is able to create Groups. But, you can nest other security groups as members of this group. For example, the group named Allow Group Creation is the designated security group, and the groups named Microsoft Planner Users and Exchange Online Users are members of that group.
 
 Admins in the roles listed above do not need to be members of this group: they retain thier ability to create groups.
 
 > [!IMPORTANT]
-> Be sure to use a **security group** to restrict who can create Office 365 groups. If you try to use an Office 365 Group, members won't be able to create a group from SharePoint because it checks for a security group. 
+> Be sure to use a **security group** to restrict who can create groups. If you try to use an Office 365 Group, members won't be able to create a group from SharePoint because it checks for a security group. 
     
 1. In the Microsoft 365 admin center, create a group of type **Security group**. Remember the name of the group! You'll need it later.
     
     ![Create a security group in the admin center.](../media/bd2b3f5b-6521-4780-b94a-2aea2c18254e.png)
   
-2. Add people or other security groups who you want to be able to create Office 365 Groups groups in your org.
+2. Add people or other security groups who you want to be able to create Groups in your org.
     
-For detailed instructions, see [Create, edit, or delete a security group in the Office 365 admin center](../email/create-edit-or-delete-a-security-group.md).
+For detailed instructions, see [Create, edit, or delete a security group in the admin center](../email/create-edit-or-delete-a-security-group.md).
   
 ## Step 2: Install the preview version of the Azure Active Directory PowerShell for Graph
 

@@ -22,7 +22,7 @@ description: "Learn how to send email as a distribution list in Office 365."
 
 In Office 365, you can send email as a distribution list. When a person who is a member of the distribution list replies to a message sent to the distribution list, the email appears to be from the distribution list, not from the individual user. This topic shows you how to do this.
   
-## Send email as a distribution list in Office 365
+## Send email as a distribution list
 
 Before you perform these steps, make sure you've been added to an Office 365 distribution list and you've have been granted Send as permission on it.
   

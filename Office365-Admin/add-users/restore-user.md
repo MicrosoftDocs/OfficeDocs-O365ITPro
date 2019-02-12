@@ -51,29 +51,29 @@ You must have [admin permissions](about-admin-roles.md) in Office 365 to do this
  
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center.](https://admin.microsoft.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
-2. In the Admin center, go to **Users** \> **Deleted users**.
+2. In the admin center, go to **Users** \> **Deleted users**.
     
     ![Choose Users \> Deleted users.](../media/bd041355-906e-440b-b1ce-00cabf12d490.png)
   
 3. On the **Deleted users** page, choose the names of the users that you want to restore, and then select **Restore**.
     
-    ![Restore a user in Office 365.](../media/ab9119f4-b5a4-4f29-8397-67734ed86165.png)
+    ![Restore a user.](../media/ab9119f4-b5a4-4f29-8397-67734ed86165.png)
   
 4. Follow the prompts to set the password.
     
@@ -91,23 +91,23 @@ To fix this, replace the active user account with the one that you are restoring
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center.](https://admin.microsoft.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
-2. In the Admin center, go to **Users** \> **Deleted users**.
+2. In the admin center, go to **Users** \> **Deleted users**.
     
     ![Choose Users \> Deleted users.](../media/bd041355-906e-440b-b1ce-00cabf12d490.png)
   
@@ -138,23 +138,23 @@ You must have [admin permissions](about-admin-roles.md) in Office 365 to do this
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center.](https://admin.microsoft.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
-2. In the Admin center, go to **Users** \> **Deleted users**.
+2. In the admin center, go to **Users** \> **Deleted users**.
     
     ![Choose Users \> Deleted users.](../media/bd041355-906e-440b-b1ce-00cabf12d490.png)
   

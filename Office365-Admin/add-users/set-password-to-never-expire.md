@@ -3,7 +3,6 @@ title: "Set an individual user's password to never expire"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -79,7 +78,3 @@ To get started, you need to [download and install the Azure AD PowerShell module
 
    > [!WARNING]
    > Passwords set to `-PasswordPolicies DisablePasswordExpiration` still age based on the `pwdLastSet` attribute. If you set the user passwords to never expire and then 90+ days go by, the passwords expire. Based on the `pwdLastSet` attribute, if you change the expiration to `-PasswordPolicies None`, all passwords that have a `pwdLastSet` older than 90 days require the user to change them the next time they sign in. This change can affect a large number of users. 
-
-
-  
-

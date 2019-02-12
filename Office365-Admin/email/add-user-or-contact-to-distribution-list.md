@@ -34,13 +34,13 @@ As the admin of an Office 365 organization, you may need to add one of your user
 
 1. Sign in to Office 365 with your work or school account. 
     
-2. Select the app launcher icon  and choose **Admin**.
+2. Select the app launcher icon and choose **Admin**.
     
     Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the apps available to you. From there, you can search for a specific app. 
     
 3. Choose **Groups** in the left navigation pane. 
     
-    ![See your new Office 365 groups in the admin center preview](../media/d434fa62-aff7-4d56-a0c2-2a49b95467a6.png)
+    ![See your new Office 365 groups in the admin center](../media/d434fa62-aff7-4d56-a0c2-2a49b95467a6.png)
     
 4. On the Groups page, select the distribution list you want to add a contact to.
     

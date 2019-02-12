@@ -79,7 +79,7 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. In the Office 365 admin center, choose **Setup** \> **Domains**.
+1. In the Microsoft 365 admin center, choose **Setup** \> **Domains**.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
@@ -122,7 +122,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**Name**|**Type**|**TTL**|**Data**|
     |:-----|:-----|:-----|:-----|
-    |@  <br/> |MX  <br/> |1H  <br/> |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> The **0** is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **Note:** Get your \<*domain-key*\> from your Office 365 portal account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    |@  <br/> |MX  <br/> |1H  <br/> |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> The **0** is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **Note:** Get your \<*domain-key*\> from your Office 365 account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
     ![Type or paste values in the Custom resource records section](../media/b660ca9e-984d-449f-ae59-a65fe4e2c6bd.png)
   

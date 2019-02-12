@@ -88,7 +88,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
-    ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    ![Domain name selected in admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
 3. On the **Setup** page, choose **Start setup**.
     
@@ -156,17 +156,17 @@ For example, here are some additional steps that might be required for email and
     
 - Want to add a domain that's currently used with a website address, like www.fourthcoffee.com? You can take below steps while you add the domain to keep its website hosted where the site is hosted now so people can still get to the website after you change the domain's NS records to point to Office 365.
 
-1.Sign in to Office 365 with your work or school account.
+1. Sign in to Office 365 with your work or school account.
 
-2.Choose Setup > Domains.
+2. Choose **Setup** > **Domains**.
 
-3.On the Domains page, select a domain.
+3. On the Domains page, select a domain.
 
-4.Under DNS settings, choose Custom Records, and then choose New custom record.
+4. Under **DNS settings**, choose **Custom Records**, and then choose **New custom record**.
 
-5.Choose the type of DNS record you want to add, and type the information for the new record.
+5. Choose the type of DNS record you want to add, and type the information for the new record.
 
-Choose Save.
+6. Choose **Save**.
     
 > [!NOTE]
 > Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain. 

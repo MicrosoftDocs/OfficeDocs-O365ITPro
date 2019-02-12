@@ -25,30 +25,30 @@ ms.assetid: 74a1ef8b-3844-4d08-9980-9f8f7a36000f
 description: "Learn to create and delete Office 365 groups, add and remove group members, and customize how the group works."
 ---
 
-# Create an Office 365 group in the admin center
+# Create an Office 365 group in the Microsoft 365 admin center
   
-While users can create an Office 365 group from Outlook or other apps, as an admin, you may need to create or delete groups, add or remove members, and customize how they work. The Office 365 admin center is the place to do this. 
+While users can create an Office 365 group from Outlook or other apps, as an admin, you may need to create or delete groups, add or remove members, and customize how they work. The Microsoft 365 admin center is the place to do this. 
 
 > [!TIP]
-> Office 365 connected Yammer groups must be created in Yammer, but can be managed in the Office 365 admin center like other Office 365 groups. To learn more, see [Yammer and Office 365 Groups](https://support.office.com/article/d8c239dc-a48b-47ab-b85e-6b4b8191a869.aspx). 
+> Office 365 connected Yammer groups must be created in Yammer, but can be managed in the Microsoft 365 admin center like other Office 365 groups. To learn more, see [Yammer and Office 365 Groups](https://support.office.com/article/d8c239dc-a48b-47ab-b85e-6b4b8191a869.aspx). 
 
 ## Create an Office 365 group
 
 ::: moniker range="o365-worldwide"
 
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+Go to the [admin center.](https://admin.microsoft.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+Go to the [admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+Go to the [admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
@@ -76,11 +76,11 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 Once the group has been created, you can add members and configure additional settings:
   
-### Add members to an Office 365 group
+### Add members to a group
 
 Users can [add themselves or request approval](https://support.office.com/article/Join-a-group-in-Outlook-2e59e19c-b872-44c8-ae84-0acc4b79c45d), or you can add them now.
 
-1. In the Office 365 admin center, refresh the page so your new Office 365 group appears.
+1. In the admin center, refresh the page so your new group appears.
 
 2. Click the group that you want to add members to.
     
@@ -92,7 +92,7 @@ Users can [add themselves or request approval](https://support.office.com/articl
     
 6. Click **Close** three times. 
     
-The Office 365 group will appear in Outlook with members assigned to it.
+The group will appear in Outlook with members assigned to it.
   
 ### Send copies of conversations to group members' inboxes
   
@@ -102,7 +102,7 @@ When you turn this setting on, group members will get a copy of group emails and
 
 Group members can opt out of receiving these emails by choosing to stop following the group in Outlook.
 
-1. In the Office 365 admin center groups list, click the group you want to change, and then click **Edit** next to the group name.
+1. In the admin center groups list, click the group you want to change, and then click **Edit** next to the group name.
 
 2. Turn **Send copies of group conversations and events to group members' inboxes** to **On** if you want members to receive copies of group messages and calendar items in their own inbox.
 
@@ -112,7 +112,7 @@ Group members can opt out of receiving these emails by choosing to stop followin
 
 This option is great if you want to have a company email address such as info@contoso.com.
   
-1. Refresh your Office 365 admin center page so your new Office 365 group appears.
+1. Refresh your admin center page so your new group appears.
     
 2. Select the group you want to change, and then select **Edit** next to the group name. 
     

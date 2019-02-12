@@ -114,7 +114,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
-    ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
 3. On the **Setup** page, choose **Start setup**.
     
@@ -163,7 +163,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**Zone**|**Value**|**TTL**|**MX Priority**|
     |:-----|:-----|:-----|:-----|
-    |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/>**Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.   <br>**Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |7200  <br/> |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/>**Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.   <br>**Note:** Get your  *\<domain-key\>*  from your Office 365 account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |7200  <br/> |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
     ![WhizIn-BP-Configure-2-2](../media/06a3ed03-6b3e-4171-b17c-dda6fa4783cc.png)
   

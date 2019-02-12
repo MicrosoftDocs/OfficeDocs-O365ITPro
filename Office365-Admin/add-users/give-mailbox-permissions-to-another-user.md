@@ -55,7 +55,7 @@ There are a few different ways you can access a mailbox once you've been given a
 ## Send email from another user's mailbox
 
 
-1. Go to Office 365 ** admin center ** \> **Users** \> **Active Users**.
+1. Go to the Microsoft 365 **admin center** \> **Users** \> **Active Users**.
     
 2. Choose the user you want, and then click on **Edit** next to **Mailbox permissions**.
     
@@ -68,7 +68,7 @@ There are a few different ways you can access a mailbox once you've been given a
 ## Read email in another user's mailbox
 
 
-1. Go to Office 365 ** admin center ** \> **Users** \> **Active Users**.
+1. Go to the **admin center** \> **Users** \> **Active Users**.
     
 2. Click or tap on the user you want, and then click or tap on **mailbox permissions**.
     
@@ -81,7 +81,7 @@ There are a few different ways you can access a mailbox once you've been given a
 ## Send email on behalf of another user
 
 
-1. Go to Office 365 ** admin center ** \> **Users** \> **Active Users**.
+1. Go to the **admin center** \> **Users** \> **Active Users**.
     
 2. Choose the user you want, and then click or tap on **Edit** next to **Mailbox permissions**.
     
@@ -99,5 +99,3 @@ Want to know how to send email from another user's mailbox? Check out the follow
 - [Manage another person's mail and calendar items](https://support.office.com/article/afb79d6b-2967-43b9-a944-a6b953190af5.aspx)
     
 - [Send email from another person or group](https://support.office.com/article/0f4964af-aec6-484b-a65c-0434df8cdb6b.aspx)
-    
-

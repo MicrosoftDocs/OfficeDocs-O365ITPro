@@ -100,7 +100,7 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. In the Office 365 admin center, choose **Setup** \> **Domains**.
+1. In the Microsoft 365 admin center, choose **Setup** \> **Domains**.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
@@ -130,7 +130,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**Name**|**TTL**|**Type**|**Data**|
     |:-----|:-----|:-----|:-----|
-    |(Leave this field empty.)  <br/> |(This value cannot be changed.)  <br/> |MX  <br/> | *10 \<domain-key\>*  .mail.protection.outlook.com.  <br/> The  *10*  is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your \<*domain-key*\> from your Office 365 portal account. <br> [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |(Leave this field empty.)  <br/> |(This value cannot be changed.)  <br/> |MX  <br/> | *10 \<domain-key\>*  .mail.protection.outlook.com.  <br/> The  *10*  is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your \<*domain-key*\> from your Office 365 account. <br> [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
    ![MediaTemple-BP-Configure-2-1](../media/1fab65a4-1309-432e-aac2-39a94c45ba78.png)
   

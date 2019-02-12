@@ -29,8 +29,6 @@ description: "Learn how to preserve an employee's files and emails when the pers
 
 # Get access to and back up a former user's data
 
- 
-  
 When an employee leaves your organization, you probably want to access their data - meaning their documents and emails - and either review it, back it up, or transfer ownership to a new employee.
   
 If you only remove a user's license but don't delete the account, the content in the user's OneDrive will remain accessible to you even after 30 days.
@@ -47,7 +45,7 @@ To save the content, here's what you do:
 
 1. Sign in to Office 365 with your work or school account. 
     
-2. Go to the [Office 365 admin center](../admin-overview/about-the-admin-center.md).
+2. Go to the [Microsoft 365 admin center](../admin-overview/about-the-admin-center.md).
     
 3. Go to Active users and select the user.
     

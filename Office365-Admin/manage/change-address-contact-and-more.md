@@ -44,7 +44,7 @@ Why is it impossible to change this information? Because the country or region w
   
 To other change information on your company's profile page:
   
-1. Go to the [![Go to the Office 365 admin center](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://portal.office.com/adminportal/home).
 
 2. Select your organization's name in the top right corner of the page.<br/>![Select your business](../media/f9a9072e-bbed-47fa-9abc-aef58d77f6f1.png)
   

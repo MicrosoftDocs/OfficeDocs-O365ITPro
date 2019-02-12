@@ -32,11 +32,11 @@ description: "Learn to verify which subscriptions your organization has by going
 
 # What subscription do I have?
 
-If you're an admin, you can verify which subscriptions your organization has by going to the **Subscriptions** page in the admin center. 
+If you're an admin, you can verify which subscriptions your organization has by going to the **Subscriptions** page in the Microsoft 365 admin center. 
   
  **Not an admin?** See [What Office 365 business product or license do I have?](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd.aspx)
   
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
     ::: moniker range="o365-germany"
    
@@ -58,7 +58,7 @@ If you're an admin, you can verify which subscriptions your organization has by 
     
     If you have multiple subscriptions, select the one you want to see detailed information for. The subscription card will update with information about that subscription.
     
-    ![The Subscriptions page of the Admin center showing a list of multiple subscriptions grouped by their status.](../media/548ab8e9-bf9c-46d1-8c7c-ef5b631f3faa.png)
+    ![The Subscriptions page of the admin center showing a list of multiple subscriptions grouped by their status.](../media/548ab8e9-bf9c-46d1-8c7c-ef5b631f3faa.png)
   
     > [!NOTE]
     > If you have subscriptions that have expired or have been disabled, they'll be listed based on their current state. 

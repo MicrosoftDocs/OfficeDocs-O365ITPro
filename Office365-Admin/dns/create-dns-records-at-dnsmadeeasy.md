@@ -78,7 +78,7 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. In the Office 365 admin center, choose **Setup** \> **Domains**.
+1. In the Microsoft 365 admin center, choose **Setup** \> **Domains**.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
@@ -112,7 +112,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**Name**|**Server**|**MX Level**|**TTL**|
     |:-----|:-----|:-----|:-----|
-    |(Leave this field empty.)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your \<*domain-key*\> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |1800  <br/> |
+    |(Leave this field empty.)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your \<*domain-key*\> from your Office 365 account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |1800  <br/> |
    
     ![DNSMadeEasy-BP-Configure-2-2](../media/69b53af9-1eec-435c-8434-1b6058c1ec82.png)
   

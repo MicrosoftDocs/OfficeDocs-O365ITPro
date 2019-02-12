@@ -96,7 +96,7 @@ If you get the error message " **A parameter cannot be found that matches parame
 ## Did you get "We're sorry, the user couldn't be edited. Review the user information and try again"?
 
 
-If you get the error message " **We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name. Find the Office 365 global admin in your business and ask them to make the change.
+If you get the error message " **We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name. Find the global admin in your business and ask them to make the change.
   
 ## More information on changing or adding email addresses
 

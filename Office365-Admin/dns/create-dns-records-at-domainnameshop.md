@@ -83,7 +83,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
-    ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
 3. On the **Setup** page, choose **Start setup**.
     
@@ -120,7 +120,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**Host name**|**TTL**|**RR Type**|**Parameters (Priority)**|**Data (Target)**|
     |:-----|:-----|:-----|:-----|:-----|
-    |(leave blank)  <br/> |1 hour  <br/> |MX (Mail Exchanger)  <br/> |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/17d415c1-067e-4974-84d5-aaeaf3a0c0a9) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |(leave blank)  <br/> |1 hour  <br/> |MX (Mail Exchanger)  <br/> |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/17d415c1-067e-4974-84d5-aaeaf3a0c0a9) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
     ![MX record in Domainnameshop](../media/0062bbcb-afb0-4a77-9d9c-c595ab4027d4.png)
   

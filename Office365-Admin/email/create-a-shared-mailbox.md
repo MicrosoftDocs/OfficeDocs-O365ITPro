@@ -41,23 +41,23 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
   
 ::: moniker range="o365-worldwide"
 
-1. In the Office 365 admin center, go to **Groups** \> [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox).
+1. In the Microsoft 365 admin center, go to **Groups** \> [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://admin.microsoft.com/adminportal/home?ref=SharedMailbox).
 
 ::: moniker-end 
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
-2. Sign in with an Office 365 global admin account or Exchange admin account. If you get the message " **You don't have permission to access this page or perform this action**" then you aren't an admin. 
+2. Sign in with an Office 365 global admin account or Exchange admin account. If you get the message "**You don't have permission to access this page or perform this action**" then you aren't an admin. 
     
 3. On the **Add a mailbox** page, enter a name for the shared mailbox. Then the wizard chooses the email address, but you can edit it.
     
@@ -131,7 +131,7 @@ You do not need to assign a license to the shared mailbox in order to forward em
  
 <!--There was previously a worldwide monikker for step 1, but nothing for Germany or 21Vianet. Is there a deep link to shared mailboxes for Germany or 21Vianet we can include?-->
  
-1. On the [![Go to shared mailboxes in the admin center](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
+1. On the [![Go to shared mailboxes in the admin center](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://admin.microsoft.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
 
 2. Choose **Email forwarding** \> **Edit**.
     
@@ -143,7 +143,7 @@ You do not need to assign a license to the shared mailbox in order to forward em
 
 <!--There was previously a worldwide monikker for step 1, but nothing for Germany or 21Vianet. Is there a deep link to shared mailboxes for Germany or 21Vianet we can include?-->
 
-1. On the [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
+1. On the [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://admin.microsoft.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
 
 2. Choose **Automatic replies** \> **Edit**.
     
@@ -196,7 +196,7 @@ A Group in Outlook is like a shared mailbox. For a comparison of the two, see [C
     
   - Use Windows PowerShell. See this blog post for instructions: [Create Shared Mailboxes with Same Alias at Different Domains in Office 365](https://www.cogmotive.com/blog/office-365-tips/create-shared-mailboxes-with-same-alias-at-different-domains-in-office-365)
     
-  - Or, name the second shared mailbox something different from the start to get around the error. Then in the [Admin Center](#how-to-create-a-shared-mailbox-in-the-exchange-admin-center), rename the shared mailbox to what you want it to be.
+  - Or, name the second shared mailbox something different from the start to get around the error. Then in the [admin center](#how-to-create-a-shared-mailbox-in-the-exchange-admin-center), rename the shared mailbox to what you want it to be.
     
 ## How automapping works with shared mailboxes
 <a name="bkmk_auto"> </a>
@@ -205,10 +205,10 @@ Automapping is set on the user's mailbox, not the shared mailbox.
   
 This means if you try to use a security group to manage who has access to the shared mailbox, automapping won't work. So, if you want automapping, you have to assign permissions explicitly.
   
-## How to create a shared mailbox in the Exchange Admin Center
+## How to create a shared mailbox in the Exchange admin center
 <a name="bkmk_EAC"> </a>
 
-Some customers do all their mailbox management in the Exchange Admin Center. Here are instructions for how to create shared mailboxes using that interface.
+Some customers do all their mailbox management in the Exchange admin center. Here are instructions for how to create shared mailboxes using that interface.
   
 To see what permissions you need to perform these steps, see the "User mailboxes" entry in [Recipients permissions](https://technet.microsoft.com/en-us/library/dd638132%28v=exchg.160%29.aspx).
   

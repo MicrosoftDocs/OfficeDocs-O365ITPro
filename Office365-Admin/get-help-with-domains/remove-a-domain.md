@@ -47,19 +47,19 @@ Are you removing your domain because you want to add it to a different Office 36
 
 ::: moniker range="o365-worldwide"
 
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
@@ -94,19 +94,19 @@ You can also use PowerShell to move users to another domain. See [Set-MsolUserPr
 
 ::: moniker range="o365-worldwide"
 
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
@@ -124,19 +124,19 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker range="o365-worldwide"
 
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 

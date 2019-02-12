@@ -33,7 +33,7 @@ We know that organizations today are using a diverse toolset. There’s the team
 
 This concept is referred to as “Shadow IT” and poses a significant risk to organizations. It reduces the ability to uniformly manage user access, ensure security, and service compliance needs. Office 365 Groups empowers users and reduces the risk of shadow IT by providing in a single step many of the tools needed to collaborate.
 
-Office 365 Groups lets you choose a set of people with which you wish to collaborate, and easily set up a collection of resources for those people to share. Manually assigning permissions to resources is a thing of the past as adding members to the Office 365 Group automatically grants the needed permissions to all assets provided by the group.
+Office 365 Groups lets you choose a set of people with which you wish to collaborate, and easily set up a collection of resources for those people to share. Manually assigning permissions to resources is a thing of the past as adding members to the Group automatically grants the needed permissions to all assets provided by the group.
 
 ## Technical Architecture 
 
@@ -43,9 +43,9 @@ There are three main communication modalities supported by Office 365 Groups. Gr
 - [Yammer](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2): enterprise social experience for collaboration
 
 > [!NOTE] 
-> Creating a new group via other teamwork applications - such as SharePoint, Planner or Stream - will create an Office 365 Group with an Outlook communication modality with the ability to connect to Microsoft Teams.  
+> Creating a new group via other teamwork applications - such as SharePoint, Planner or Stream - will create a Group with an Outlook communication modality with the ability to connect to Microsoft Teams.  
 
-Depending on where an Office 365 Group is created, certain resources are provisioned automatically, such as:
+Depending on where a Group is created, certain resources are provisioned automatically, such as:
 - [Inbox](https://support.office.com/article/have-a-group-conversation-in-outlook-a0482e24-a769-4e39-a5ba-a7c56e828b22) - For email conversations between your members. This inbox has an email address and can be set to accept messages from people outside the group and even outside your organization, much like a traditional distribution list.
  - [Calendar](https://support.office.com/article/schedule-a-meeting-on-a-group-calendar-in-outlook-0cf1ad68-1034-4306-b367-d75e9818376a) – For scheduling events related to the group
 - [SharePoint Team Site](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) – A central repository for information, links and content relating to your group
@@ -83,7 +83,7 @@ There are multiple places to have a conversation within Office 365. Understandin
   - Upgrade DLs to Office 365 Groups – [Why you should upgrade?](https://support.office.com/article/why-you-should-upgrade-your-distribution-lists-to-groups-in-outlook-7fb3d880-593b-4909-aafa-950dd50ce188)
 
 - SharePoint – Core content collaboration experience for all Office 365 Groups
-  - Every Office 365 Group gets a connected SharePoint team site
+  - Every Group gets a connected SharePoint team site
   - Share content, create customized pages and author news 
   - [Connect](https://docs.microsoft.com/en-us/sharepoint/dev/features/groupify/groupify-overview) existing SharePoint team sites to new Office 365 Groups 
 
@@ -114,7 +114,7 @@ Groups can be created by end-users from multiple end-points including Outlook, S
 >- Consider using dynamic membership to configure Security group’s members to control group creation.
 >- Assess which groups scenarios can managed via a dynamic membership and allow self-service for the rest.
 
-There are three primary models of provisioning in Office 365 Groups: Open, IT-led or Controlled. The following table describes the advantages of each model.
+There are three primary models of provisioning in Groups: Open, IT-led or Controlled. The following table describes the advantages of each model.
 
 | Model          | Advantages                                                   |
 | -------------- | ------------------------------------------------------------ |
@@ -172,7 +172,7 @@ A naming policy can help you and your users identify the function of the group, 
 |         |         |         |
 |---------|---------|---------|
 |![image desc](../media/decision_point.png)|Decision points|<ul><li>Does your organization require a specific naming convention for groups?</li><li>Does your organization require the naming convention across all workloads?</li><li>Does your organization have specific words that you want to prevent users from using?</li></ul>|
-|![image desc](../media/next_steps.png)|Next steps|<ul><li>Document your organization’s requirements for naming Office 365 groups. </li><li> Plan to implement these requirements as part of your groups rollout.</li><li> Communicate and publish the naming policies and standards to inform users.</li></ul>|
+|![image desc](../media/next_steps.png)|Next steps|<ul><li>Document your organization’s requirements for naming groups. </li><li> Plan to implement these requirements as part of your groups rollout.</li><li> Communicate and publish the naming policies and standards to inform users.</li></ul>|
 
 > [!Important] 
 >The naming policy is applied to groups that are created across all groups workloads (like Outlook, Microsoft Teams, SharePoint, Planner, Yammer, etc). It gets applied to both the group name and group alias. It gets applied when a user creates a group and when group name or alias is edited for an existing group.
@@ -188,11 +188,11 @@ Administrators can specify an expiration period and any group that reaches the e
 Once you set a group to expire:
 - Owners of the group are notified to renew the group as the expiration nears
 - Any group that is not renewed is deleted
-- Any Office 365 group that is deleted can be restored within 30 days by the group owners or the administrator
+- Any group that is deleted can be restored within 30 days by the group owners or the administrator
 
 > [!Tip]
 > - Pilot with specific groups initially.
-> - Choose inactive groups based on the activity report in Office Admin center.
+> - Choose inactive groups based on the activity report in Microsoft 365 admin center.
 > - Communicate renewal process to group owners.
 > - Onboard your helpdesk team.
 > - Ensure groups have multiple owners and configure email for orphan groups.
@@ -211,7 +211,7 @@ Once you set a group to expire:
 - [Configure the expiration policy for Office 365 groups](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-lifecycle)
 
 ### Group guest access
-Admins can control whether to allow guest access to Office 365 Groups for their whole organization or for individual Office 365 groups. They can also control who can allow guests to be added to groups.
+Admins can control whether to allow guest access to Groups for their whole organization or for individual groups. They can also control who can allow guests to be added to groups.
 >[!Tip]
 >- Enable guest access at the tenant level. If needed, block for specific groups.
 >- Govern using allow/block guest domains, guest inviter role, access reviews, terms of use.
@@ -260,10 +260,10 @@ Office 365 groups is built on the advanced security and compliance capabilities 
 - [Bulk create and publish retention labels by using PowerShell](https://docs.microsoft.com/en-us/office365/securitycompliance/bulk-create-publish-labels-using-powershell)
 
 ### Upgrade traditional collaboration tools 
-For years organizations have relied on distribution groups to communicate and collaborate with groups of people both inside and outside the company. Now, however, Office 365 Groups in Outlook offer a more powerful solution for collaboration. In addition, being able to connect an Office 365 group to an existing SharePoint site is important if you want to modernize that site.
+For years organizations have relied on distribution groups to communicate and collaborate with groups of people both inside and outside the company. Now, however, Office 365 Groups in Outlook offer a more powerful solution for collaboration. In addition, being able to connect a group to an existing SharePoint site is important if you want to modernize that site.
 
 >[!Tip]
->- Easily upgrade all your eligible distribution lists in seconds via the Exchange Admin center, or using PowerShell cmdlets.
+>- Easily upgrade all your eligible distribution lists in seconds via the Exchange admin center, or using PowerShell cmdlets.
 >- Connect existing SharePoint team sites to new Office 365 Groups.
 
 |         |         |         |
@@ -284,7 +284,7 @@ For years organizations have relied on distribution groups to communicate and co
 ### Groups reporting
 The Office 365 Reports dashboard shows you the activity overview across the Office 365 products in your organization. It enables you to drill in to individual product level reports to give you more granular insight about the activities within each product. 
 > [!TIP]
->- You can use the Groups activity reports to gain insights into the activity of Office 365 Groups in your organization and see how many Office 365 Groups are being created and used.
+>- You can use the Groups activity reports to gain insights into the activity of Office 365 Groups in your organization and see how many Groups are being created and used.
 >-The Office 365 groups report can be viewed for trends over the last 7 days, 30 days, 90 days, or 180 days. 
 >- Monitor group activity across group mailbox conversations, group site/files activity, details around group membership including external member counts.
 >- Monitor regularly to reach out to group owners of active groups to learn uses cases and amplify them internally.

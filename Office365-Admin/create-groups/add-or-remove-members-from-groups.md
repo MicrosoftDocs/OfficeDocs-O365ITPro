@@ -21,7 +21,7 @@ search.appverid:
 - MOE150
 - BSA160
 ms.assetid: e186d224-a324-4afa-8300-0e4fc0c3000a
-description: "Learn how to add a member to a group, remove member from group, and manage group owner status in the Office 365 admin center."
+description: "Learn how to add a member to a group, remove member from group, and manage group owner status in the admin center."
 ---
 
 # Add or remove members from Office 365 groups using the admin center
@@ -30,9 +30,9 @@ In Office 365, Group members typically create their own Groups, add themselves t
   
  **Tip**: You can also [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
   
-## Add a member to a Group in the Office 365 admin center
+## Add a member to a Group in the admin center
 
-1. Sign in to Office 365 using your global admin or Exchange admin account. Browse to the Office 365 admin center. If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
+1. Sign in to Office 365 using your global admin or Exchange admin account. Browse to the Microsoft 365 admin center. If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
     
 2. In the left navigation pane, choose **Groups** \> **Groups**.
     
@@ -46,12 +46,12 @@ In Office 365, Group members typically create their own Groups, add themselves t
     
 6. Click **Save**.
     
-## Remove a member from a Group in the Office 365 admin center
+## Remove a member from a Group in the admin center
 
 > [!NOTE]
 > When you remove a member from a private group, it takes 5 minutes for the person to be blocked from the group (after membership changes are fully replicated among domain controllers). 
   
-1. Browse to the Office 365 admin center.
+1. Browse to the admin center.
     
 2. In the left navigation pane, choose **Groups** \> **Groups**.
     
@@ -67,9 +67,9 @@ In Office 365, Group members typically create their own Groups, add themselves t
 
 By default, the person who created the group is the group owner. Often a group will have multiple owners for backup support or other reasons. Members can be promoted to owner status and owners can be demoted to member status.
   
-### Promote a member to owner status in the Office 365 admin center
+### Promote a member to owner status in the admin center
 
-1. Navigate to the Office 365 admin center.
+1. Navigate to the admin center.
     
 2. In the left navigation pane, choose **Groups** \> **Groups**.
     
@@ -83,9 +83,9 @@ By default, the person who created the group is the group owner. Often a group w
     
 7. Click **Save**.
     
-### Remove owner status in the Office 365 admin center
+### Remove owner status in the admin center
 
-1. Navigate to the Office 365 admin center.
+1. Navigate to the admin center.
     
 2. In the left navigation pane, choose **Groups** \> **Groups**.
     
@@ -101,7 +101,7 @@ By default, the person who created the group is the group owner. Often a group w
 
 - [Manage groups dynamically in Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=847632): see the section "How can I manage the membership of a group dynamically?"
     
-- To add hundreds or thousands of users to Office 365 groups, use the [Add-UnifiedGroupLinks](https://go.microsoft.com/fwlink/p/?LinkId=616191).
+- To add hundreds or thousands of users to groups, use the [Add-UnifiedGroupLinks](https://go.microsoft.com/fwlink/p/?LinkId=616191).
     
 - [Assign a new owner to an orphaned group](https://support.office.com/article/86bb3db6-8857-45d1-95c8-f6d540e45732.aspx)
     
@@ -115,5 +115,3 @@ By default, the person who created the group is the group owner. Often a group w
 - [Manage Office 365 Groups with PowerShell](https://support.office.com/article/aeb669aa-1770-4537-9de2-a82ac11b0540): this article introduces you to key cmdlets and provides examples
     
 - [Create a Distribution Group Naming Policy](https://go.microsoft.com/fwlink/p/?LinkId=616615)
-    
-

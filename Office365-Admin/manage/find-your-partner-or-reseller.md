@@ -26,7 +26,7 @@ description: "Learn how to find a new Office 365 partner, or get contact informa
 
 # Find your Office 365 partner or reseller
 
-As an Office 365 admin, you can work with a partner to purchase, activate, and renew Office 365 subscriptions through a Microsoft Open Volume Licensing program. 
+As an admin, you can work with a partner to purchase, activate, and renew Office 365 subscriptions through a Microsoft Open Volume Licensing program. 
   
  **Not sure if Open Volume Licensing is for you?** Check out the [Microsoft Open Programs overview](https://go.microsoft.com/fwlink/p/?LinkId=613298).
   
@@ -41,7 +41,7 @@ If you're ready to buy or renew Office 365 through Open Volume Licensing, or you
 ## Find contact information for a partner you've worked with in the past
 
 > [!NOTE]
-> In some cases, you can findinformation in the Office 365 admin center for partners you've worked with in the past. Keep in mind that this information may be out of date. As a best practice, we recommend contacting the person or department responsible for purchasing in your organization to find out which partner you should work with. 
+> In some cases, you can findinformation in the Microsoft 365 admin center for partners you've worked with in the past. Keep in mind that this information may be out of date. As a best practice, we recommend contacting the person or department responsible for purchasing in your organization to find out which partner you should work with. 
   
 ## Get partner info in the admin center
 

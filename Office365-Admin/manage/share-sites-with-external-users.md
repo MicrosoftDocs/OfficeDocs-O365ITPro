@@ -59,15 +59,15 @@ The answers to these questions will help you plan your strategy for content shar
 
 If external sharing is turned off globally, any shared guest links will also stop working. If the feature is later reactivated, these links will resume working. 
   
-## Enable external sharing for all SharePoint sites in the Office 365 admin center
+## Enable external sharing for all SharePoint sites in the Microsoft 365 admin center
 
 The ability to invite external users to SharePoint sites is enabled by default, so site owners and site collection administrators can share team sites and sub-sites with external users at any time. 
   
 1. Sign in to Office 365 with your work or school account. 
     
-2. Go to the [Office 365 admin center](../admin-overview/about-the-admin-center.md).<br/>![Office 365 app launcher with the Admin app](../media/4eea9dbc-591b-48be-9916-322d41c6525b.png)
+2. Go to the [Microsoft 365 admin center](../admin-overview/about-the-admin-center.md).<br/>![Office 365 app launcher with the Admin app](../media/4eea9dbc-591b-48be-9916-322d41c6525b.png)
   
-3. In the Office 365 admin center, type external in the search box on the Home page, and choose **Sites external sharing**.<br/>![Type external sharing in the Search box](../media/ff7ae7ef-91e3-4ed0-bb39-d2a7cf75b4db.png)
+3. In the admin center, type external in the search box on the Home page, and choose **Sites external sharing**.<br/>![Type external sharing in the Search box](../media/ff7ae7ef-91e3-4ed0-bb39-d2a7cf75b4db.png)
   
 4. Next to **Let people outside your organization access your sites**, slide the slider to **On** to turn on external sharing.<br/>![External Sharing dialog box](../media/848bff81-63a3-464c-a9f4-135c04800c7a.png)
   
@@ -77,20 +77,20 @@ The ability to invite external users to SharePoint sites is enabled by default, 
     
 ## Fine tune settings for individual sites
 
-When you enable sharing on SharePoint sites, sharing is enabled for all sites in the tenant. But from the Office 365 admin center you can fine tune the sharing settings to disallow sharing on those sites where more stringent control is necessary or to revoke individual user access to specific sites. 
+When you enable sharing on SharePoint sites, sharing is enabled for all sites in the tenant. But from the admin center you can fine tune the sharing settings to disallow sharing on those sites where more stringent control is necessary or to revoke individual user access to specific sites. 
   
 > [!NOTE]
 >  If external sharing is turned off for the entire SharePoint Online environment, you will not be able to turn it on for specific site collections. 
   
-On the sites page of the sharing settings (Office 365 admin center) you can see a list of all the site collections currently active in your tenant along with the sharing settings for each site collection. 
+On the sites page of the sharing settings (admin center) you can see a list of all the site collections currently active in your tenant along with the sharing settings for each site collection. 
   
-## Edit the sharing settings of a particular site collection in the Office 365 admin center
+## Edit the sharing settings of a particular site collection in the admin center
 
 1. Sign in to Office 365 with your work or school account. 
     
-2. Go to the [Office 365 admin center](../admin-overview/about-the-admin-center.md).
+2. Go to the [admin center](../admin-overview/about-the-admin-center.md).
 
-3. Navigate to **Resources** \> **Sites**.<br/>![Resources menu in Office 365 admin center](../media/8bd379ed-d3d1-4061-9127-159d7b142c22.png)
+3. Navigate to **Resources** \> **Sites**.<br/>![Resources menu in the admin center](../media/8bd379ed-d3d1-4061-9127-159d7b142c22.png)
   
 4. Select the sharing status ( **Share links and invitations** or **Not allowed**) next to the desired site collection.<br/>![SharePoint site collections with sharing status](../media/d48dc3b2-f26b-4e76-b32d-4c7ff9a0b2ae.png)
   
@@ -102,9 +102,9 @@ On the sites page of the sharing settings (Office 365 admin center) you can see 
     
 8. Click **Save**.
     
-## Revoke site access for individual users in the Office 365 admin center
+## Revoke site access for individual users in the admin center
 
-1. If you're not already in the External Sharing Sites screen, do steps 1-4 shown in [Edit the sharing settings of a particular site collection in the Office 365 admin center](#edit-the-sharing-settings-of-a-particular-site-collection-in-the-office-365-admin-center). 
+1. If you're not already in the External Sharing Sites screen, do steps 1-4 shown in [Edit the sharing settings of a particular site collection in the admin center](#edit-the-sharing-settings-of-a-particular-site-collection-in-the-office-365-admin-center). 
     
 2. Select the sharing status ( **Share links and invitations** or **Not allowed**) next to the desired site collection.
     

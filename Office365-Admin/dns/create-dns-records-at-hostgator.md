@@ -116,7 +116,7 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. In the Office 365 admin center, choose **Setup** \> **Domains**.
+1. In the Microsoft 365 admin center, choose **Setup** \> **Domains**.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
@@ -160,7 +160,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**Priority**|**Destination**|
     |:-----|:-----|
-    |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your \< *domain-key*  \> from your Office 365 portal account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your \< *domain-key*  \> from your Office 365 account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
     ![Hostgator-BP-Configure-2-4](../media/cedfb530-eb60-4e0b-82cc-35a30c9c1287.png)
   

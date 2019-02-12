@@ -32,7 +32,7 @@ description: "Learn how you can have more than one email address, called email a
   
 This article is for Office 365 global admins who have business subscriptions. It's not for home users.
   
-A primary email address in Office 365 is usually the email address a user was assigned when their Office 365 was created. When the user sends email to someone else, their primary email address is what typically appears in the  *From*  field in email apps. They can also have more than one email address associated with their Office 365 for business account. These additional addresses are called aliases. 
+A primary email address in Office 365 is usually the email address a user was assigned when their account was created. When the user sends email to someone else, their primary email address is what typically appears in the  *From*  field in email apps. They can also have more than one email address associated with their Office 365 for business account. These additional addresses are called aliases. 
   
 For example, let's say Jenna has the email address jenna@contosoco.com, but she also wants to receive email at jen@contosoco.com because some people refer to her by that name. You can create aliases for her so that both email addresses go to Jenna's inbox.
 <br><br>  
@@ -48,7 +48,7 @@ You can create up to 400 aliases for a user. No additional fees or licenses are 
 
 You must have [admin permissions](../add-users/about-admin-roles.md) to do this. 
   
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page, or choose **Users** \> **Active users**.
+1. In the admin center, go to the <a href="" target="_blank">Active users</a> page, or choose **Users** \> **Active users**.
 
     ::: moniker range="o365-germany"
     

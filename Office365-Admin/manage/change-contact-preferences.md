@@ -39,9 +39,9 @@ If you're looking for how to change company profile information, such as organiz
   
 ## To update your information
   
-1. Browse to your Office 365 admin center. 
+1. Browse to the Microsoft 365 admin center. 
     
-2. Click or tap **Settings** ![Settings in the Office 365 header](../media/e42e6de0-06b3-4760-a112-24e0b2f0f322.png) in the top right of the header. 
+2. Click or tap **Settings** ![Settings](../media/e42e6de0-06b3-4760-a112-24e0b2f0f322.png) in the top right of the header. 
     
 3. Click or tap **Office 365** under **My app settings**.
     

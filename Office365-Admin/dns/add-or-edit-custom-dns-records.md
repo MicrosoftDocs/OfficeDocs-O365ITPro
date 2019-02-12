@@ -44,6 +44,6 @@ description: "Learn how to edit or add a custom DNS record in Office 365. "
     
 6. Choose **Save**.
     
-![Click Domains on Office 365 Admin page](../media/57fa88ba-f4e5-477b-9c45-b75978237f3e.png)
+![Click Domains in the admin center](../media/57fa88ba-f4e5-477b-9c45-b75978237f3e.png)
   
 

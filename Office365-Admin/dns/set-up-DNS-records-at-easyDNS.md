@@ -41,7 +41,7 @@ NOTE: SRV Records are currently NOT available under all easyDNS service packages
     
     |**Host**|**Text**|
     |:-----|:-----|
-    |@  <br/> |MS=msXXXXXXXX (Use the value provided to you on the Admin Center Domains page)  <br/> |
+    |@  <br/> |MS=msXXXXXXXX (Use the value provided to you on the admin center Domains page)  <br/> |
    
 5. Choose **NEXT**. 
     
@@ -51,7 +51,7 @@ NOTE: SRV Records are currently NOT available under all easyDNS service packages
     
 8. Now that you've added the record at your domain registrar's site, you'll go back to Office 365 and request Office 365 to look for the record.
     
-9. In the Admin Center, choose **Setup** \> **Domains**
+9. In the admin center, choose **Setup** \> **Domains**
     
 10. On the **Domains** page, choose the domain that you are verifying. 
     
@@ -71,7 +71,7 @@ NOTE: SRV Records are currently NOT available under all easyDNS service packages
     
     |**MAIL FOR ZONE**|**MAIL SERVER**|**PREF**|
     |:-----|:-----|:-----|
-    |@  <br/> |\<domain-key\>.mail.protection.outlook.com (Get your \<domain-key\> value from the Admin Center Domains page)  <br/> |0  <br/> |
+    |@  <br/> |\<domain-key\>.mail.protection.outlook.com (Get your \<domain-key\> value from the admin center Domains page)  <br/> |0  <br/> |
    
 2. If you want to save your other MX records for backup purposes, copy them down somewhere. Before moving on, remove all other MX records here.
     

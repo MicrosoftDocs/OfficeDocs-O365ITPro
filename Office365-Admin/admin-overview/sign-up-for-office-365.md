@@ -41,7 +41,7 @@ Watch a quick overview of the three Office 365 for business plans, or scroll dow
 
 Sign up for Office 365 for business so your team can begin using the latest versions of Word, Excel, PowerPoint, and other Office Online programs in your business.
   
-Watch a quick overview of the three Office 365 for business plans is best for your business. or scroll down for more info.
+Watch a quick overview of the three plans best for your business. or scroll down for more info.
 <br><br>
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/cf211808-67c3-4d4b-880a-3f582d70b4d1?autoplay=false]
   

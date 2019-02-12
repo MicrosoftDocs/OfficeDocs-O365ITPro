@@ -38,19 +38,19 @@ Here's how you convert a mailbox to a shared mailbox:
  
 ::: moniker range="o365-worldwide"
  
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 

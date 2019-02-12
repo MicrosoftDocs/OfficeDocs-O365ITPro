@@ -48,24 +48,24 @@ We strongly recommend that you set up self-service password reset. This way you 
   
 ## Reset an Office 365 business password for someone else
 
-These steps are only for people using an Office 365 business plan. To do them, you need to sign in with your Office 365 admin account. [What's an Office 365 admin account?](../admin-overview/admin-overview.md)
+These steps are only for people using an Office 365 business plan. To do them, you need to sign in with your Office 365 admin account. [What's an admin account?](../admin-overview/admin-overview.md)
   
  
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
@@ -103,13 +103,13 @@ These steps are only for people using an Office 365 business plan. To do them, y
     
 3. Sign out of Office 365: click on your name in the upper right corner (in the above image, shown as **Diane**) \> **Sign out**. 
     
-4. Now sign in again to Office 365: type your user name \> **Next** \> and then choose **Forgot password**. 
+4. Now sign in again: type your user name \> **Next** \> and then choose **Forgot password**. 
     
     ![Choose Forgot my password](../media/06a9e4b6-8fcd-45fe-9f37-b33511bc72fb.png)
   
 5. Follow the steps in the wizard to reset your password. It uses your alternate contact info to verify you're the right person to reset your password. 
     
-- If you forgot your password and can't sign in to Office 365: 
+- If you forgot your password and can't sign in: 
     
   - Ask another global admin in your business to reset your password for you.
     
@@ -120,7 +120,7 @@ These steps are only for people using an Office 365 business plan. To do them, y
 
 These steps work for a business with tens of users. If you have hundreds or thousands of users, see the next section on resetting passwords in bulk.
   
-1. In the Office 365 admin center, go to [Users \> Active users](https://go.microsoft.com/fwlink/?linkid=866448).
+1. In the admin center, go to [Users \> Active users](https://go.microsoft.com/fwlink/?linkid=866448).
     
 2. Choose the box at top to select everyone in your business. Then unselect yourself. You can't reset your own password at the same time you reset everyone else's password.
     

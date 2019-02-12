@@ -1,5 +1,5 @@
 ---
-title: "Manage email app access in Office 365 admin center"
+title: "Manage email app access in Microsoft 365 admin center"
 ms.author: kwekua
 author: kwekua
 manager: scotv
@@ -21,7 +21,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 description: "Learn how to choose which mobile apps people can use to access email, calendar, and contacts."
 ---
 
-# Manage email app access in the admin center
+# Manage email app access in the Microsoft 365 admin center
 
 Use the mobile email access settings to choose which mobile apps people in your organization can use to access their work or school account to access email, calendar and contacts.
   

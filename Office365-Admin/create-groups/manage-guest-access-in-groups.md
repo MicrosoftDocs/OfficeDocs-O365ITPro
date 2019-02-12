@@ -23,15 +23,15 @@ description: "Learn how to add guests to an Office 365 Group, view guest users, 
 
 # Manage guest access in Office 365 Groups
 
-By default, guest access is turned on for your organization. When it's turned on, everyone in your organization can add guest users to an Office 365 Group. The guests will have access to all Office 365 Group features.
+By default, guest access is turned on for your organization. When it's turned on, everyone in your organization can add guest users to an Office 365 Group. The guests will have access to all Group features.
   
-Admins can control whether to allow guest access to Office 365 Groups for their whole organization or for individual Office 365 groups. They can also control who can allow guests to be added to groups.
+Admins can control whether to allow guest access to Groups for their whole organization or for individual groups. They can also control who can allow guests to be added to groups.
   
-## Manage guest access in the admin portal
+## Manage guest access in the admin center
 
 ### View guest users
 
-1. Sign in with your Office 365 global admin account at [https://portal.office.com/adminportal/home](https://portal.office.com/adminportal/home#/homepage).
+1. Sign in with your Office 365 global admin account at [https://admin.microsoft.com/adminportal/home](https://admin.microsoft.com/adminportal/home#/homepage).
     
 2. Go to **Users** \> **Guest users**.
     
@@ -41,7 +41,7 @@ Admins can control whether to allow guest access to Office 365 Groups for their 
 
 If the guest already exists in your directory (see above) you can add them to your groups from the Office Admin Center or the Exchange Admin Center.
   
-1. Sign in with your Office 365 global admin account at [https://portal.office.com/adminportal/home](https://portal.office.com/adminportal/home#/homepage).
+1. Sign in with your Office 365 global admin account at [https://admin.microsoft.com/adminportal/home](https://admin.microsoft.com/adminportal/home#/homepage).
     
 2. Go to **Groups** \> **Groups**.
     
@@ -76,7 +76,7 @@ However, even if the SharePoint external sharing setting is turned off, the file
 
 By default, the Sharing option in your organization is turned on. This option allows guests to be added to your organization. To turn it off:
   
-1. Sign in with your Office 365 global admin account at [https://portal.office.com/adminportal/home](https://portal.office.com/adminportal/home#/homepage).
+1. Sign in with your admin account at [https://admin.microsoft.com/adminportal/home](https://admin.microsoft.com/adminportal/home#/homepage).
     
 2. In the navigation menu, choose **Settings** then **Security &amp; privacy**. 
     
@@ -87,7 +87,7 @@ By default, the Sharing option in your organization is turned on. This option al
 ### Manage who can add guest users
 <a name="BKMK_UsetheadminCtr"> </a>
 
-1. Sign in with your Office 365 admin account at [https://portal.office.com/adminportal/home](https://portal.office.com/adminportal/home#/homepage).
+1. Sign in with your admin account at [https://admin.microsoft.com/adminportal/home](https://admin.microsoft.com/adminportal/home#/homepage).
     
 2. In the navigation menu, choose **Settings** then **Services &amp; add-ins**.
     
@@ -95,9 +95,9 @@ By default, the Sharing option in your organization is turned on. This option al
     
     ![Office 365 groups](../media/e25a7920-254c-4da3-bc5f-a8c7f6b61423.png)
   
-4. On the **Office 365 Groups** page, set the toggle to **On** or **Off**, depending on whether you want to let people outside your organization access Office 365 group resources.
+4. On the **Office 365 Groups** page, set the toggle to **On** or **Off**, depending on whether you want to let people outside your organization access group resources.
     
-    If you turn this toggle on, you'll see another option to control whether you want to let group owners add people outside your organization to Office 365 groups. Set this toggle to **On** if you want to let group owners add guest users. 
+    If you turn this toggle on, you'll see another option to control whether you want to let group owners add people outside your organization to groups. Set this toggle to **On** if you want to let group owners add guest users. 
     
     ![Let people outside my organization access Office 365 groups and resources](../media/76c1f529-1b0d-4e9d-907a-2def05e602ad.png)
   
@@ -220,7 +220,7 @@ The last line of the script will display the updated settings:
   Connect-AzureAD
   ```
 
-    In the **Sign in to your Account** screen that opens, enter your Office 365 admin account and password to connect you to your service, and click **Sign in**.
+    In the **Sign in to your Account** screen that opens, enter your admin account and password to connect you to your service, and click **Sign in**.
     
     ![Enter your Office 365 credentials](../media/a2b4e2f3-436f-4a6c-b571-1a192698acea.png)
   
@@ -271,12 +271,12 @@ For more information, see [Allow/Block guest access to Office 365 groups](https:
 
 - An Office 365 Group owner can add guest users if this option has been enabled for your organization.
     
-- Global admins can add guest users to any Office 365 groups in the organization.
+- Global admins can add guest users to any groups in the organization.
     
 ### How can a global admin add a new guest user to the organization?
 <a name="BKMK_Whocanaddguests"> </a>
 
-- Owners of an Office 365 group and global admins who are owners of the group can add guest users to Office 365 groups through Outlook on Web.
+- Owners of an Office 365 group and global admins who are owners of the group can add guest users to groups through Outlook on Web.
     
 - Sharing a file with a guest from a SharePoint site or an Office 365 group. See [Share group files](https://support.office.com/article/749bc73b-90c9-4760-9b6f-9aa1cf01b403.aspx).
     
@@ -290,7 +290,7 @@ Yes, global admins can use Azure active directory Powershell cmdlets to disable 
 ### How long until the guest user settings take effect in the Office 365 organization?
 <a name="BKMK_Whocanaddguests"> </a>
 
-The guest settings are set in Azure active directory. It takes 2 to 24 hours for the changes to be effective across your Office 365 organization.
+The guest settings are set in Azure active directory. It takes 2 to 24 hours for the changes to be effective across your organization.
   
 ### Can I share a group document library with an external user who isn't a member of the group?
 <a name="BKMK_Whocanaddguests"> </a>
@@ -350,7 +350,7 @@ Yes. The guests won't receive a welcome email message, but they will have all th
 ## See Also
 <a name="bkmk_UsePowerShell"> </a>
 
-[Manage Group membership in the Office 365 admin center](add-or-remove-members-from-groups.md)
+[Manage Group membership in the admin center](add-or-remove-members-from-groups.md)
   
 [Allow/Deny guest access to Office 365 groups based on their domain](https://go.microsoft.com/fwlink/?linkid=854001)
   

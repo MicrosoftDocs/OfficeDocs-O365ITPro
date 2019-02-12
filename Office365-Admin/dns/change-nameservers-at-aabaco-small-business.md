@@ -60,7 +60,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 |**Hostname:**|**Text:**|
 |:-----|:-----|
-|@  <br/> |MS=ms *XXXXXXXX*  <br/> Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |
+|@  <br/> |MS=ms *XXXXXXXX*  <br/> Get your  *\<domain-key\>*  from your Office 365 account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |
    
    ![Type or paste the DSN values on the Add TXT Record page](../media/ae8386df-6cec-4bbe-a280-9d3fc170d972.png)
   
@@ -72,7 +72,7 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. In the Office 365 admin center, choose **Setup** \> **Domains**.
+1. In the Microsoft 365 admin center, choose **Setup** \> **Domains**.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     

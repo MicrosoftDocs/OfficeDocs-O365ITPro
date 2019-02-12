@@ -40,7 +40,7 @@ You must have [admin permissions](../add-users/about-admin-roles.md) in Office 3
   
 1. [Sign in to Office 365](https://go.microsoft.com/fwlink/p/?LinkID=402333).
     
-2. Go to the [ Office 365 admin center](../admin-overview/about-the-admin-center.md).
+2. Go to the [Microsoft 365 admin center](../admin-overview/about-the-admin-center.md).
     
 3. Select **Users**.
     
@@ -63,5 +63,3 @@ You must have [admin permissions](../add-users/about-admin-roles.md) in Office 3
 7. Remember, don't delete the account of the user who's email you're forwarding or remove the license! 
     
 All email sent to this mailbox will now be forwarded to Albellew@contoso.com.
-  
-
