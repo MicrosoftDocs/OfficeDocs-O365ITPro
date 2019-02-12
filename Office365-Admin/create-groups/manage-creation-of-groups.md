@@ -161,34 +161,25 @@ and sign in with your administrator account when prompted.
 
 ```PowerShell
 $GroupName = "<SecurityGroupName>"
-$AllowGroupCreation = "False"
 
 Connect-AzureAD
 
-try
-    {
-        $template = Get-AzureADDirectorySettingTemplate | ? {$_.displayname -eq "group.unified"}
-        $settingsCopy = $template.CreateDirectorySetting()
-        New-AzureADDirectorySetting -DirectorySetting $settingsCopy
-        $settingsObjectID = (Get-AzureADDirectorySetting | Where-object -Property Displayname -Value "Group.Unified" -EQ).id
-    }
-catch
-    {
-        $settingsObjectID = (Get-AzureADDirectorySetting | Where-object -Property Displayname -Value "Group.Unified" -EQ).id       
-    }
+$settingsObjectID = (Get-AzureADDirectorySetting | Where-object -Property Displayname -Value "Group.Unified" -EQ).id
+if(!$settingsObjectID)
+{
+	  $template = Get-AzureADDirectorySettingTemplate | Where-object {$_.displayname -eq "group.unified"}
+    $settingsCopy = $template.CreateDirectorySetting()
+    New-AzureADDirectorySetting -DirectorySetting $settingsCopy
+    $settingsObjectID = (Get-AzureADDirectorySetting | Where-object -Property Displayname -Value "Group.Unified" -EQ).id
+}
 
 $settingsCopy = Get-AzureADDirectorySetting -Id $settingsObjectID
+$settingsCopy["EnableGroupCreation"] = $False
 
-$settingsCopy["EnableGroupCreation"] = $AllowGroupCreation
-
-If ($GroupName -eq "")
-    {
-        $SettingsCopy["GroupCreationAllowedGroupId"] = ""
-    }
-Else
-    {
-        $SettingsCopy["GroupCreationAllowedGroupId"] = (Get-AzureADGroup -SearchString $GroupName).objectid
-    }
+if($GroupName)
+{
+	$settingsCopy["GroupCreationAllowedGroupId"] = (Get-AzureADGroup -SearchString $GroupName).objectid
+}
 
 Set-AzureADDirectorySetting -Id $settingsObjectID -DirectorySetting $settingsCopy
 
