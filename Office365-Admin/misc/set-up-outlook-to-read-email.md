@@ -40,7 +40,7 @@ Read [full article](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c
   
 ## How do I install the Office apps, including Outlook?
 
-1. Go to [portal.office.com/OLS/MySoftware](https://portal.office.com/OLS/MySoftware.aspx).
+1. Go to [admin.microsoft.com/OLS/MySoftware](https://admin.microsoft.com/OLS/MySoftware.aspx).
     
 2. Sign in with your work or school account.
     

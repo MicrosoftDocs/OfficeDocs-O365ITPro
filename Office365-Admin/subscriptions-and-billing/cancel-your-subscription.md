@@ -24,12 +24,12 @@ search.appverid:
 - MOE150
 - BEA160
 ms.assetid: b1bc0bef-4608-4601-813a-cdd9f746709a
-description: "Learn how you cancel your Office 365 for business trial or paid subscription by using the Office 365 admin portal, or calling the Support."
+description: "Learn how you cancel your Office 365 for business trial or paid subscription by using the admin center, or calling the Support."
 ---
 
 # Cancel Office 365 for business
 
-You can cancel your trial or paid subscription online in the Admin center at any time, if you have fewer than 25 licenses assigned to users. Any prorated credit will be returned to you within the next billing cycle.
+You can cancel your trial or paid subscription online in the admin center at any time, if you have fewer than 25 licenses assigned to users. Any prorated credit will be returned to you within the next billing cycle.
   
 In some cases, you might have to [call support to cancel your subscription](../contact-support-for-business-products.md):
   
@@ -81,7 +81,7 @@ Your users lose access to their data when the cancellation becomes effective, so
 
 If you added your own domain name to use with your subscription, you must remove the domain before you cancel your subscription. For more information, see [Remove a domain from Office 365](../get-help-with-domains/remove-a-domain.md).
   
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     

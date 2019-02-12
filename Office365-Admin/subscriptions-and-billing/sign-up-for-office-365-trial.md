@@ -43,4 +43,4 @@ Check out the video below or follow the steps to complete your trial signup.
 
 6. The signup process may take several minutes to complete. Once it's complete, select **You're ready to go**.
 
-You'll get an email with details on how to start using your Office 365 subscription.
+You'll get an email with details on how to start using your subscription.

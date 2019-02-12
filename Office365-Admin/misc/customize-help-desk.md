@@ -32,10 +32,10 @@ description: "Create custom help desk card in the admin center and add customize
 
 # Add customized help desk info to the Office 365 help pane
 
-As an Office 365 admin, you can streamline user support by adding customized contact information to the help pane. Users in need of help will be able to access your organization's custom support contact info with a single click of the help icon.
+As an admin, you can streamline user support by adding customized contact information to the help pane. Users in need of help will be able to access your organization's custom support contact info with a single click of the help icon.
   
 > [!NOTE]
-> If you are an Office 365 admin looking for technical or billing support from Microsoft, see [Contact Office 365 for business support](../contact-support-for-business-products.md). 
+> If you are an admin looking for technical or billing support from Microsoft, see [Contact Office 365 for business support](../contact-support-for-business-products.md). 
   
 ![Example of an organization's custom support contact info.](../media/5b03f91d-64da-4c55-8ccb-2fb6151cb424.png)
   

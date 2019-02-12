@@ -40,11 +40,11 @@ To renew by using a product key that you bought from a retail store or Office 36
   
 ## Turn Recurring billing on or off
 
-If you pay by credit card or bank account, **Recurring billing** is turned on by default. When **Recurring billing** is on, your subscription will continue to be billed each year on the day you subscribed. You can turn it off or back on again in the Admin center if your subscription is active. 
+If you pay by credit card or bank account, **Recurring billing** is turned on by default. When **Recurring billing** is on, your subscription will continue to be billed each year on the day you subscribed. You can turn it off or back on again in the admin center if your subscription is active. 
   
 If you prepaid for your subscription with a product key, your subscription will expire at the end of subscription term. You can turn on **Recurring billing** and provide credit card or bank account information so that your subscription will continue to be billed every year on the day you subscribed. You also have the option to pay every month, or to pay for the entire year up front. Your credit card or bank account will not be charged until your initial subscription term has expired. 
   
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     

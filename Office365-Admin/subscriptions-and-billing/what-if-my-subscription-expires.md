@@ -44,7 +44,7 @@ The following graphic shows what you can expect when a paid Office 365 for busin
    
 ## What are my options if my subscription is about to expire?
 
-While a subscription is active, you and your end users have normal access to your data, services like email and OneDrive for Business, and Office applications. As the admin, you'll receive a series of notifications via email and in the Admin center as your subscription nears its expiration date.
+While a subscription is active, you and your end users have normal access to your data, services like email and OneDrive for Business, and Office applications. As the admin, you'll receive a series of notifications via email and in the admin center as your subscription nears its expiration date.
   
 Before the subscription actually reaches its expiration date, you have a few options:
 
@@ -71,7 +71,7 @@ Before the subscription actually reaches its expiration date, you have a few opt
 - **Cancel before the subscription expires.** For details, see [Cancel your subscription](cancel-your-subscription.md).
     
 > [!TIP]
-> You can view your subscription's **Next billing** date on the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page in the Admin center. 
+> You can view your subscription's **Next billing** date on the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page in the admin center. 
   
 ::: moniker-end
 
@@ -99,7 +99,7 @@ Before the subscription actually reaches its expiration date, you have a few opt
     
 > [!TIP]
 > You can view your subscription's **Next billing** date on the <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a>
- page in the Admin center. 
+ page in the admin center. 
   
 ::: moniker-end
 
@@ -112,7 +112,7 @@ Before the subscription actually reaches its expiration date, you have a few opt
 - **Cancel before the subscription expires.** For details, see [Cancel Office 365 for business](cancel-your-subscription.md).
     
 > [!TIP]
-> You can view your subscription's **Next billing** date on the <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page in the Admin center. 
+> You can view your subscription's **Next billing** date on the <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page in the admin center. 
   
 ::: moniker-end
 
@@ -145,7 +145,7 @@ Here's what you can expect when your subscription is in each state.
 
 In this state, users have normal access the Office 365 portal, Office applications, and services such as email and SharePoint Online.
   
-As an admin, you still have access to the Admin center. Don't worry—global or billing admins can [reactivate the subscription](reactivate-your-subscription.md) and continue using Office 365. If you don't reactivate, be sure to [back up your data](back-up-data-before-switching-plans.md).
+As an admin, you still have access to the admin center. Don't worry—global or billing admins can [reactivate the subscription](reactivate-your-subscription.md) and continue using Office 365. If you don't reactivate, be sure to [back up your data](back-up-data-before-switching-plans.md).
   
  **State:** ![Disabled](../media/7ae975a5-aab2-4ca6-91ce-88db6cc2748f.png)
   
@@ -169,7 +169,7 @@ As an admin, you still have access to the Admin center. Don't worry—global or 
 
 ::: moniker range="o365-worldwide"
 
-In this state, your access decreases significantly. Your users can't sign in, or access services like email or SharePoint Online. Office applications eventually move into a read-only, reduced functionality mode and display [Unlicensed Product notifications](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx). You can still sign in and get to the Admin center, but can't assign licenses to users. Your customer data, including all user data, email, and files on team sites, is available only to you and other admins.
+In this state, your access decreases significantly. Your users can't sign in, or access services like email or SharePoint Online. Office applications eventually move into a read-only, reduced functionality mode and display [Unlicensed Product notifications](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx). You can still sign in and get to the admin center, but can't assign licenses to users. Your customer data, including all user data, email, and files on team sites, is available only to you and other admins.
 
 ::: moniker-end
 
@@ -183,7 +183,7 @@ As a global or billing admin, you can [reactivate the subscription](reactivate-y
   
 Admins and users no longer have access to the services or Office applications that came with the subscription. All customer data—from user data to documents and email—is permanently deleted and unable to be recovered in any way.
   
-At this point, you can't reactivate the subscription. However, as a global or billing admin, you can still access the Admin center to manage other subscriptions, or to buy new subscriptions to meet your business needs.
+At this point, you can't reactivate the subscription. However, as a global or billing admin, you can still access the admin center to manage other subscriptions, or to buy new subscriptions to meet your business needs.
   
 > [!NOTE]
 > Adding a new subscription of the same type that has been deprovisioned does not restore the data that was associated with the deprovisioned subscription. 
@@ -197,7 +197,7 @@ If you cancel your subscription before its term end date, the subscription skips
   
 Here's what to expect for you and your users if you cancel a subscription.
   
-- **Admin access** Admins can still sign in and access the Admin center, and buy other subscriptions as needed. As a global or billing admin, you have 90 days to [reactivate the subscription](reactivate-your-subscription.md) with all data intact. 
+- **Admin access** Admins can still sign in and access the admin center, and buy other subscriptions as needed. As a global or billing admin, you have 90 days to [reactivate the subscription](reactivate-your-subscription.md) with all data intact. 
     
 - **User access** Your users won't be able to use services like OneDrive for Business, or access customer data—for example, email or documents on team sites. Office applications, like Word and Excel, will eventually move into a read-only, reduced functionality mode and display [Unlicensed Product notifications](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
     

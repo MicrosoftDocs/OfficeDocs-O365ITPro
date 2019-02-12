@@ -31,11 +31,11 @@ You can view your billing statement or invoice for information about your Office
     
 2. Select the app launcher icon ![Office 365 app launcher icon](../media/0aaa6945-f9a4-4b13-bf5f-d5c5dbe978fb.png) in the upper-left and choose **Admin**.
     
-3. In the Admin center, choose **Billing** \> **Bills**.
+3. In the admin center, choose **Billing** \> **Bills**.
     
 4. Choose the month and date of the invoice you want, and then choose **View**.
     
-    ![The Invoice section of the Bill Details page in the Office 365 Admin Center.](../media/38d214cb-7bbc-406c-949e-7dcd9b8cd924.png)
+    ![The Invoice section of the Bill Details page in the Microsoft 365 admin center.](../media/38d214cb-7bbc-406c-949e-7dcd9b8cd924.png)
   
   - To view, print, or save a PDF copy of the invoice, choose **View Invoice (.pdf)**.
     

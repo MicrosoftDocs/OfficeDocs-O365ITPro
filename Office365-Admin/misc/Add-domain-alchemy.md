@@ -14,7 +14,7 @@ description: "Add domain alchemy"
 # Section Header
 Here is the body text.
   
-1. In the Admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
+1. In the admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
  
 2. Choose **Add domain**.
     

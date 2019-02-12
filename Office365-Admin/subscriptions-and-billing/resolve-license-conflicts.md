@@ -30,7 +30,7 @@ We recommend that you buy the licenses that you need for your subscription befor
   
 ## How do I view license conflicts?
 
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842264" target="_blank">Licenses</a> page, or choose **Billing** \> **Licenses**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842264" target="_blank">Licenses</a> page, or choose **Billing** \> **Licenses**.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=848038" target="_blank">Licenses</a> page. 
     
@@ -49,7 +49,7 @@ You can resolve license conflicts by either buying more licenses or by removing 
   
 ### Buy more licenses
 
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842264" target="_blank">Licenses</a> page, or choose **Billing** \> **Licenses**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842264" target="_blank">Licenses</a> page, or choose **Billing** \> **Licenses**.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=848038" target="_blank">Licenses</a> page. 
     
@@ -84,7 +84,7 @@ Complete the following steps to remove licenses from users who don't need them. 
 > [!IMPORTANT]
 > When you remove licenses, any user data associated with those licenses is deleted. 
   
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842264" target="_blank">Licenses</a> page, or choose **Billing** \> **Licenses**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842264" target="_blank">Licenses</a> page, or choose **Billing** \> **Licenses**.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=848038" target="_blank">Licenses</a> page. 
     

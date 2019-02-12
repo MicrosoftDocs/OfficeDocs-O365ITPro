@@ -25,12 +25,12 @@ search.appverid:
 - MOE150
 ms.assetid: e64ceac2-ae62-4d29-a9ee-6aab9870ae2b
 ROBOTS: NOINDEX
-description: "Learn how to create contacts in the Office 365 admin center and manage your global address list."
+description: "Learn how to create contacts in the admin center and manage your global address list."
 ---
 
 # Quick help: Contacts
 
-If you need shared contacts that everyone in your organization can get to, create them in the Office 365 admin center. The contacts you create here can be seen by you and your users as part of the global address list.
+If you need shared contacts that everyone in your organization can get to, create them in the Microsoft 365 admin center. The contacts you create here can be seen by you and your users as part of the global address list.
   
 ## How do I add contacts in the admin center?
 
@@ -58,7 +58,7 @@ No. Only **Global** and **Exchange** administrators can create, edit, or delete 
   
 ## Can I use this to manage my business clients?
 
-You can use Office 365 contacts however you like but there are limitations. Learn about [other ways to manage contacts](ways-to-manage-contacts.md)
+You can use Office 365 contacts however you like, but there are limitations. Learn about [other ways to manage contacts](ways-to-manage-contacts.md)
   
 ## How do I bulk import organizational contacts?
 

@@ -62,7 +62,7 @@ Check it out: **Users > Active users > Edit** or **Add user > Licenses and Apps*
 
 ## September 2018
 
-- **Home improvements** The Home page has been completely re-done and we can't wait for you to try it out and see what you think. This is your personal Home page and you won't affect the Home pages of other admins in your organization. <br/>![Screen capture: Microsoft 365 Admin Center Preview Home Page.](media/d1a497f1-30e6-4c1a-9bb2-d4d7895906da.png)
+- **Home improvements** The Home page has been completely re-done and we can't wait for you to try it out and see what you think. This is your personal Home page and you won't affect the Home pages of other admins in your organization. <br/>![Screen capture: Microsoft 365 admin center preview Home Page.](media/d1a497f1-30e6-4c1a-9bb2-d4d7895906da.png)
   
   - You can add, remove, and move home page cards around the Home page. Click **+ Add card** in the top right corner to see which cards are available in the card library, and then drag them anywhere on the Home page. Don't like where it landed? Click and drag it to where you want it. You don't even have to save any more. 
     
@@ -70,7 +70,7 @@ Check it out: **Users > Active users > Edit** or **Add user > Licenses and Apps*
     
   - Most of the cards are informative and actionable, which means that you'll be provided with just-in-time information to help you do your daily tasks faster and smarter.
     
-  - The navigation pane has been re-organized and you can customize it for your quick tasks. Just select **Edit** from the bottom of the navigation pane to start customizing. <br/>![Microsoft 365 Admin Center Preview navigation pane](media/7d5568cc-9ce8-40b2-aa87-e777fcd455e3.png)
+  - The navigation pane has been re-organized and you can customize it for your quick tasks. Just select **Edit** from the bottom of the navigation pane to start customizing. <br/>![Microsoft 365 admin center preview navigation pane](media/7d5568cc-9ce8-40b2-aa87-e777fcd455e3.png)
   
 - **Billing** You'll probably notice some of the biggest changes to the Microsoft 365 admin center in the Billing section. You can manage subscriptions and apps you've bought from Microsoft or another vendor, including new experiences for inventory management, order history, payment methods, and invoicing. 
     

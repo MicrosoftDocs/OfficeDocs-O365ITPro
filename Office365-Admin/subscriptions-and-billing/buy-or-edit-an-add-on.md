@@ -34,7 +34,7 @@ Several of the Office 365 for business plans have add-ons that you can buy for y
   
 ## Buy an add-on
 
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     
@@ -44,7 +44,7 @@ Several of the Office 365 for business plans have add-ons that you can buy for y
     
 3. On the bottom-left corner of the subscription details, choose **Add-ons** \> **Buy add-ons**.
     
-    ![Buy add-ons link on the Subscriptions page of the Office 365 admin center.](../media/f5cbc3fa-90f7-4299-976d-2482f2c69755.png)
+    ![Buy add-ons link on the Subscriptions page of the admin center.](../media/f5cbc3fa-90f7-4299-976d-2482f2c69755.png)
   
 4. On the **Purchase services** page, mouse over or tap the add-on subscription that you want to buy, and then choose **Buy now**.
     
@@ -64,7 +64,7 @@ Standalone add-ons are not linked to a specific subscription. Standalone add-ons
   
 ### Update a traditional add-on
 
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     
@@ -89,7 +89,7 @@ Standalone add-ons are not linked to a specific subscription. Standalone add-ons
   
 ### Update a standalone add-on
 
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
     

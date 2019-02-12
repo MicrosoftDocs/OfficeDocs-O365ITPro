@@ -87,19 +87,19 @@ For example, in the following picture, the Skype for Business service has an inc
   
 ::: moniker range="o365-worldwide"
 
-To see if there are provisioning or service health issues, in the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842900" target="_blank">Service health</a> page, or choose **Health** \> **Service health**.
+To see if there are provisioning or service health issues, in the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842900" target="_blank">Service health</a> page, or choose **Health** \> **Service health**.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-To see if there are provisioning or service health issues, in the Office 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848042" target="_blank">Service health</a> page, or choose **Health** \> **Service health**.
+To see if there are provisioning or service health issues, in the Microsoft 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848042" target="_blank">Service health</a> page, or choose **Health** \> **Service health**.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-To see if there are provisioning or service health issues, in the Office 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850629" target="_blank">Service health</a> page, or choose **Health** \> **Service health**.
+To see if there are provisioning or service health issues, in the Microsoft 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850629" target="_blank">Service health</a> page, or choose **Health** \> **Service health**.
 
 ::: moniker-end
 

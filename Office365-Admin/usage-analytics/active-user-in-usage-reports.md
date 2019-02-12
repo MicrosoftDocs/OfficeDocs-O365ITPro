@@ -3,7 +3,6 @@ title: "Active user in Office 365 usage reports"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -28,12 +27,12 @@ description: "Learn about an active user of Office 365 usage analytics, activity
 
 ## Active user in usage reports
 
-An active user of Office products for [Microsoft 365 usage analytics](usage-analytics.md) and the [Activity Reports in the Office 365 admin center](../activity-reports/activity-reports.md) is defined as follows. 
+An active user of Office products for [Microsoft 365 usage analytics](usage-analytics.md) and the [Activity Reports in the admin center](../activity-reports/activity-reports.md) is defined as follows. 
   
 |**Product**|**Definition of an active user**|**Notes**|
 |:-----|:-----|:-----|
 |Exchange Online  <br/> |Any user who has read or sent an email.  <br/> |No calendar information is represented, this will be added in an upcoming update.  <br/> |
-|SharePoint Online  <br/> |Any user who has interacted with a file by creating, modifying, viewing, deleting, sharing internally or externally, or synchronizing to clients on any site or viewed a page on any site.  <br/> |The active user metric for SharePoint Online in the Office 365 Adoption content pack only reflect users who did file activity against a SharePoint Team site or a Group site. The content pack will be updated to synchronize the definition to the same as that on the usage reports in Admin center.  <br/> |
+|SharePoint Online  <br/> |Any user who has interacted with a file by creating, modifying, viewing, deleting, sharing internally or externally, or synchronizing to clients on any site or viewed a page on any site.  <br/> |The active user metric for SharePoint Online in the Office 365 Adoption content pack only reflect users who did file activity against a SharePoint Team site or a Group site. The content pack will be updated to synchronize the definition to the same as that on the usage reports in the admin center.  <br/> |
 |OneDrive for Business  <br/> |Any user who has interacted with a file by creating, modifying, viewing, deleting, sharing internally or externally, or synchronizing to clients.  <br/> ||
 |Yammer  <br/> |Any user who has read, posted, or liked a message on Yammer.  <br/> ||
 |Skype for Business  <br/> |Any user who has participated in a peer-to-peer session (including instant messaging, audio and video calls, application sharing, and file transfers) or who has organized or participated in a conference.  <br/> ||

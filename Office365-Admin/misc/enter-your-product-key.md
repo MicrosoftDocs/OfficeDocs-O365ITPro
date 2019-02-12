@@ -45,7 +45,7 @@ If you purchased Office 365 Business Premium from a retail store, this article h
     
 5. You can get a new domain, use a domain name you already own, or add a domain later. The steps can vary, so follow the prompts, depending on which option you choose.
     
-6. When you're finished, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">Admin center</a> to manage your subscription. 
+6. When you're finished, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">admin center</a> to manage your subscription. 
     
 ## Renew or add a user license to an existing subscription
 

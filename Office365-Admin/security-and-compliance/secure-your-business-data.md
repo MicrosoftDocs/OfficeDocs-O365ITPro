@@ -133,7 +133,7 @@ You can protect against ransomware by creating one or more mail flow rules to bl
     
 To create a mail transport rule:
   
-1. In the Office 365 admin center, click **Admin centers** \> **Exchange**.
+1. In the Microsoft 365 admin center, click **Admin centers** \> **Exchange**.
     
 2. In the **mail flow** category, click **rules**.
     
@@ -166,7 +166,7 @@ Hackers who gain access to a user's mailbox can exfiltrate mail by configuring t
   
 To create a mail transport rule:
   
-1. In the Office 365 admin center, click **Admin centers** \> **Exchange**.
+1. In the Microsoft 365 admin center, click **Admin centers** \> **Exchange**.
     
 2. In the **mail flow** category, click **rules**.
     

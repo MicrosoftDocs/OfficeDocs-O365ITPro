@@ -83,7 +83,7 @@ If you're moving from *credit card or bank account to invoice*, any outstanding 
   
 When you change from paying by invoice to paying by credit card or bank account, we automatically create a new subscription for you, move your users to the new subscription, and then disable your old subscription. Don't worry, your users won't see a disruption in service and all of their information will be available through the new subscription.
   
-1. In the Admin Center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing**\> **Subscriptions**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing**\> **Subscriptions**.
     
 2. Choose the subscription that you want to change. In the **Payment details** section, choose **Change payment details**.
     
@@ -123,7 +123,7 @@ When you return to the **Subscriptions** page, you will see the old subscription
   
 When you change from paying by invoice to paying by credit card or bank account, we automatically create a new subscription for you, move your users to the new subscription, and then disable your old subscription. Don't worry, your users won't see a disruption in service and all of their information will be available through the new subscription.
   
-1. In the Admin Center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page, or choose **Billing**\> **Subscriptions**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page, or choose **Billing**\> **Subscriptions**.
     
 2. Choose the subscription that you want to change. In the **Payment details** section, choose **Change payment details**.
     
@@ -161,7 +161,7 @@ When you return to the **Subscriptions** page, you will see the old subscription
 > [!NOTE]
 > The option to pay by invoice is only available if your subscription costs over a certain amount (which varies by service location). A credit check might be required for larger invoice payments. To learn more, see [Pay for your Office 365 for business subscription](pay-for-your-subscription.md). 
   
-1. In the Admin Center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing**\> **Subscriptions**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing**\> **Subscriptions**.
     
 2. Choose the subscription that you want to change. In the **Payment method** section, choose **Change payment details**.
     
@@ -190,7 +190,7 @@ When you return to the **Subscriptions** page, you will see the old subscription
 > [!NOTE]
 > The option to pay by invoice is only available if your subscription costs over a certain amount (which varies by service location). A credit check might be required for larger invoice payments. To learn more, see [Pay for your Office 365 for business subscription](pay-for-your-subscription.md). 
   
-1. In the Admin Center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page, or choose **Billing**\> **Subscriptions**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page, or choose **Billing**\> **Subscriptions**.
     
 2. Choose the subscription that you want to change. In the **Payment method** section, choose **Change payment details**.
     
@@ -218,7 +218,7 @@ When you return to the **Subscriptions** page, you will see the old subscription
 
 You can use the following steps at any time to verify the payment method that's configured for a subscription.
   
-1. In the Admin Center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing**\> **Subscriptions**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing**\> **Subscriptions**.
     
 2. Choose the subscription that you want to verify. The payment method that's configured for the subscription appears under **Payment method** and might look like one of the following screenshots: 
     
@@ -233,7 +233,7 @@ You can use the following steps at any time to verify the payment method that's 
 
 You can use the following steps at any time to verify the payment method that's configured for a subscription.
   
-1. In the Admin Center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page, or choose **Billing**\> **Subscriptions**.
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page, or choose **Billing**\> **Subscriptions**.
     
 2. Choose the subscription that you want to verify. The payment method that's configured for the subscription appears under **Payment method** and might look like one of the following screenshots: 
     
