@@ -119,7 +119,7 @@
 ### [Create DNS records at any DNS hosting provider](get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md)
 ### [Remove a domain](get-help-with-domains/remove-a-domain.md)
 ### [Transfer data manually](get-help-with-domains/transfer-data-manually.md)
-## Groups
+## [Groups](create-groups/office-365-groups.md)
 ### [Compare groups](create-groups/compare-groups.md)
 ### [Create an Office 365 Group](create-groups/create-groups.md)
 ### [Plan for governance in Office 365 Groups](create-groups/plan-for-groups-governance.md)
@@ -128,6 +128,7 @@
 ### [Groups naming policy](create-groups/groups-naming-policy.md)
 ### [Allow members to send as or send on behalf of Group](create-groups/allow-members-to-send-as-or-send-on-behalf-of-group.md)
 ### [Add or remove members from groups](create-groups/add-or-remove-members-from-groups.md)
+### [Office 365 Group Expiration Policy](create-groups/office-365-groups-expiration-policy.md)
 ### [Restore deleted Group](create-groups/restore-deleted-group.md)
 ### [Manage guest access in Groups](create-groups/manage-guest-access-in-groups.md)
 ## [Troubleshoot](troubleshoot-issues-for-admins/troubleshoot-issues-for-admins.md)
