@@ -134,7 +134,7 @@ There are a couple of scenarios that include either migrating data or users from
 
 Each person in your business can install the Office 2016 suite of apps (Word, Excel, PowerPoint, and so on) on up to 5 PCs and Macs. See the operating system and computer requirements for installing [Office 2016 suites](https://go.microsoft.com/fwlink/?LinkId=534827) for business. 
   
-Office 365 mobile apps can be installed on iOS, Android, and Windows devices. You can find information on mobile device and browser support in [System requirements for Office](https://go.microsoft.com/fwlink/?LinkId=534827).
+Mobile apps can be installed on iOS, Android, and Windows devices. You can find information on mobile device and browser support in [System requirements for Office](https://go.microsoft.com/fwlink/?LinkId=534827).
   
 ## Plan for email
 

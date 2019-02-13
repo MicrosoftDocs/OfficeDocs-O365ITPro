@@ -1,5 +1,5 @@
 ---
-title: "Office 365 Admin Mobile App"
+title: "Microsoft 365 Admin Mobile App"
 ms.author: kwekua
 author: kwekua
 manager: scotv
@@ -23,7 +23,7 @@ ms.assetid: e16f6421-2a1a-4142-bf9d-9846600a060a
 description: "Get the Office 365 Admin app and learn to manage Office 365 from your phone or tablet."
 ---
 
-# Office 365 Admin Mobile App
+# Microsoft 365 Admin Mobile App
 
 Are you an admin who's usually on the go? Then check out the [Office 365 Admin app](https://go.microsoft.com/fwlink/?LinkID=627216). You can use the app to manage Office 365 from your phone or tablet. You can get the app from the Apple Store, Google Play, and from the Microsoft Store.
   
@@ -32,7 +32,7 @@ Are you an admin who's usually on the go? Then check out the [Office 365 Admin a
   
 ## Download the admin mobile app
 
-[Office 365 Admin mobile app](https://go.microsoft.com/fwlink/?LinkID=627216).
+[Microsoft 365 Admin mobile app](https://go.microsoft.com/fwlink/?LinkID=627216).
   
 ## Mobile Admin app video
 
