@@ -44,7 +44,8 @@ description: "Learn to find your domain registrar and DNS hosting provider using
   
 ### Find your domain name registrar
 
- **Note:** Domain names ending with two-letter combinations (like  *.ca*  or  *.jp*  ) won't work with this tool. 
+>[!NOTE]
+> Only domains ending in *.COM*, *.NET*, and *.EDU* work with this tool.
   
 1. On the [InterNIC search page]( https://go.microsoft.com/fwlink/p/?LinkId=402770), in the **Whois Search** box, type your domain. For example,  *contoso.com.* 
     
@@ -56,7 +57,8 @@ description: "Learn to find your domain registrar and DNS hosting provider using
   
 ### Find your DNS hosting provider
 
- **Note:** Domain names ending with two-letter combinations (like  *.ca*  or  *.jp*  ) won't work with this tool. 
+>[!NOTE]
+> Only domains ending in *.COM*, *.NET*, and *.EDU* work with this tool.
   
 1. On the [InterNIC search page]( https://go.microsoft.com/fwlink/p/?LinkId=402770), in the **Whois Search** box, type your domain. For example, contoso.com. 
     
