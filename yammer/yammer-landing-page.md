@@ -101,7 +101,7 @@ Build communities and collaboration in your organization with Yammer.
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://support.office.com/en-us/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b">We're here to help</a></h3>
+                        <h3><a href="https://docs.microsoft.com/office365/admin/contact-support-for-business-products">We're here to help</a></h3>
                     </div>
                 </div>
             </div>
