@@ -4,11 +4,11 @@ This topic covers deployment and configuration guidance for features only curren
 
 Customer Lockbox ensures that no one at Microsoft can access customer content to perform a service operation without the customer’s explicit approval. Customer Lockbox brings the customer into the approval workflow for such access to customer content.
 
-Occasionally, Microsoft engineers are involved during the support process to troubleshoot and help fix customer reported issues. In most cases these are fixed through extensive telemetry and debugging tools we have in place for our services; however, a few of these cases may require Microsoft engineer to access customer content to determine root cause and fix the issue. Customer Lockbox requires the engineer to request access from the customer as a final step in the approval workflow.
+Occasionally, Microsoft engineers are involved during the support process to troubleshoot and help fix customer reported issues. In most cases these are fixed through extensive telemetry and debugging tools that Microsoft has in place for our services. However, a few of these cases may require a Microsoft engineer to access customer content to determine root cause and fix the issue. Customer Lockbox requires the engineer to request access from the customer as a final step in the approval workflow.
 
-Organizations have the option to approve or deny these requests, thereby exercising control over if and when a Microsoft engineer may access their data.
+Organizations have the option to approve or deny these requests, thereby exercising control over if and when a Microsoft engineer can access their data.
 
-Customer lockbox works with Exchange Online, SharePoint Online, and OneDrive for business. For support for more Office 365 workloads submit your feedback on Office 365 [UserVoice](https://office365.uservoice.com/).
+Customer Lockbox supports requests to access data in Exchange Online, SharePoint Online, and OneDrive for Business. To recommend support for other Office 365 services, please submit a request at  [Office 365 UserVoice](https://office365.uservoice.com/).
 
 ## Customer Lockbox workflow
 
