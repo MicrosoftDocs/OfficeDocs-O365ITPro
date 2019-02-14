@@ -39,17 +39,21 @@ With Office 365, you receive new product updates and features as they become ava
   
 ## How it works - release validation
 
-Any new release is first tested and validated by the feature team, then by the entire Office 365 feature team, followed by entire Microsoft. After internal testing and validation, the next step is a **Targeted release** (formerly known as First release) to customers who opt in. At each release ring, Microsoft collects feedback and further validates quality by monitoring key usage metrics. This series of progressive validation is in place to make sure the worldwide-release is as robust as possible. The releases are pictured in the following figure. 
+Any new release is first tested and validated by the feature team, then by the entire Office 365 feature team, followed by all of Microsoft. After internal testing and validation, the next step is a **Targeted release** (formerly known as First release) to customers who opt in. At each release ring, Microsoft collects feedback and further validates quality by monitoring key usage metrics. This series of progressive validation is in place to make sure the worldwide-release is as robust as possible. The releases are pictured in the following figure. 
   
 ![Release validation rings for Office 365](../media/73611ed3-2d8c-4e7b-8074-9f03b239f9ed.png)
   
-For significant updates, Office customers are initially notified by the [Office 365 public roadmap](https://products.office.com/business/office-365-roadmap). As an update gets closer to rolling out, it is communicated through your [Office 365 Message Center](https://go.microsoft.com/fwlink/p/?LinkID=402336).
+For significant updates, Office customers are initially notified by the [Microsoft 365 Roadmap](https://products.office.com/business/office-365-roadmap). As an update gets closer to rolling out, it is communicated through your [Office 365 Message Center](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter).
+
+> [!NOTE]
+> You need an Office 365 or Azure AD account to access your Message Center through the [Office 365 Admin Center](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center). Office 365 home plan users do not have an admin center.
+
 
 ## Standard release
 
 This is the default option where you and your users receive the latest updates when they're released broadly to all Office 365 customers.
   
-A good practice is to leave majority of users in **Standard release** and IT Pros and power users in **Targeted release** to evaluate new features and prepare teams to support business users and executives. 
+A good practice is to leave the majority of users in **Standard release** and IT Pros and power users in **Targeted release** to evaluate new features and prepare teams to support business users and executives. 
   
 > [!NOTE]
 > If you switch from targeted release back to standard release track, your users may lose access to features that haven't reached standard release yet. 
@@ -122,4 +126,4 @@ To install a targeted release build of Office, [follow these steps](https://supp
   
 ## Learn more
 
-Learn more about upcoming Office 365 updates and releases on the [Office 365 public roadmap](http://roadmap.office.com/) and the notifications you receive in the [Office 365 Message Center](https://go.microsoft.com/fwlink/p/?LinkID=402336).
+Discover how to [manage messages](https://docs.microsoft.com/office365/admin/manage/message-center) in your [Office 365 Message Center](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter) to get notifications about upcoming Office 365 updates and releases.

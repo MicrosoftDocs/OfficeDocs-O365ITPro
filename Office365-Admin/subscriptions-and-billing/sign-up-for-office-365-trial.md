@@ -1,7 +1,7 @@
 ---
-title: "Resolve license conflicts in Office 365 for business"
+title: "Sign up for an Office 365 trial subscription"
 ms.author: kwekua
-author: kwekua-MSFT
+author: kwekua
 manager: scotv
 ms.audience: Admin
 ms.topic: office-365-trial

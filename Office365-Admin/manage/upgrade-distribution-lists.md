@@ -94,13 +94,24 @@ For example, if you want to upgrade five DLs with SMTP address `dl1@contoso.com`
 
 There are two ways in which you can upgrade all the eligible DLs.
   
+> [!NOTE]
+> The Upgrade-DistributionGroup cmdlet doesn't receive data from the pipeline, for this reason it's required to use "foreach-object{}" operator to run successfully.
+
 1. Get the eligible DLs in the tenant and upgrade them using the upgrade command:
     
-`Get-EligibleDistributionGroupForMigration | Upgrade-DistributionGroup` 
+```
+Get-EligibleDistributionGroupForMigration | Foreach-Object{ 
+    Upgrade-DistributionGroup -DlIdentities $_.PrimarySMTPAddress 
+} 
+``` 
   
 2. Get the list of all DLs and upgrade only the eligible DLs:
   
-`Get-DistributionGroup | Upgrade-DistributionGroup`
+```
+Get-DistributionGroup| Foreach-Object{ 
+    Upgrade-DistributionGroup -DlIdentities $_.PrimarySMTPAddress 
+} 
+```
   
 ## FAQ about upgrading distribution lists to Office 365 Groups in Outlook
 
@@ -126,7 +137,7 @@ You can only upgrade cloud-managed, simple, non-nested distribution lists. The t
 ### How do I check which DLs are eligible for upgrade?
 
 If you want to check whether a DL is eligible or not, you can run the below command:
-  
+
 `Get-DistributionGroup \<DL SMTP address\> | Get-EligibleDistributionGroup` 
   
 If you want to check which DLs are eligible for upgrade just run the following command:
