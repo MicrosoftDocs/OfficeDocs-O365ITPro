@@ -227,7 +227,7 @@ Follow the steps below or [watch the video (start at 4:43)](https://support.offi
     |lyncdiscover  <br/> |3600  <br/> |(No setting)  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
     |msoid  <br/> |3600  <br/> |(No setting)  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
     |enterpriseregistration  <br/> |3600  <br/> |(No setting)  <br/> |enterpriseregistration.windows.net  <br/> **This value MUST end with a period (.)** <br/> |
-    |enterpriseenrollment  <br/> |3600  <br/> |(No setting)  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> **This value MUST end with a period (.)** <br/> |
+    |enterpriseenrollment  <br/> |3600  <br/> |(No setting)  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> **This value MUST end with a period (.)** <br/> |
     
     ![Type or paste values for the new records](../media/5ce0b30c-b46c-4778-aa5a-fb5e2f0961c1.png)
   

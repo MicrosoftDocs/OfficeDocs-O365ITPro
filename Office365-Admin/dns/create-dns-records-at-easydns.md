@@ -119,7 +119,7 @@ You'll need to add all of the following DNS records at your registrar's website 
     |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> |
     |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> |
     |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> |
-    |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> |
+    |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> |
        
 5. Choose **NEXT**. 
     

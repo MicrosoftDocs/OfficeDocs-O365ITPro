@@ -177,7 +177,7 @@ To create a CNAME record, NoIP requires a two-step process. First, you create a 
     |webdir  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |webdir.online.lync.com  <br/> |
     |clientconfig  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |clientconfig.microsoftonline-p.net  <br/> |
     |enterpriseregistration  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |enterpriseregistration.windows.net  <br/> |
-    |enterpriseenrollment  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |enterpriseenrollment  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
        
     ![NoIP-BP-Configure-3-2-2](../media/660dfdfc-949e-419e-9b23-caeb3ac3d934.png)
   
