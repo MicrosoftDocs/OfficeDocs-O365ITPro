@@ -282,7 +282,7 @@ The additional CNAME records created in the following procedure enable Skype for
 |**Create Subdomain**|**Alias**|
 |:-----|:-----|
 |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+|enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
    
 ## Add a TXT record for SPF to help prevent email spam
 
