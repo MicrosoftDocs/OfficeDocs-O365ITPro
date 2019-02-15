@@ -127,7 +127,7 @@ Figure - Audit log search for actions performed by Microsoft engineer
 
 #### Which Office 365 services does Customer Lockbox apply to?
 
-Customer lockbox is currently supported in Exchange Online, SharePoint Online, and OneDrive for Business.
+Customer Lockbox is currently supported in Exchange Online, SharePoint Online, and OneDrive for Business.
 
 #### Is Customer Lockbox available to all Office 365 customers?
 
