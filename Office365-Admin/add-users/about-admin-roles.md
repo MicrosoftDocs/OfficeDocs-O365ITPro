@@ -45,7 +45,7 @@ Here are the available roles and what people assigned to them can do.
 |||
 |:-----|:-----|
 |**Role** <br/> |**What they do in Office 365** <br/> |
-|![Global admin](../media/cbdb29d5-8d68-452a-8ccd-b337e5c86cec.png) **Global administrator** <br/> |Accesses all administrative features in the Office 365 suite of services in your plan, including Skype for Business. By default the person who signs up to buy Office 365 becomes a global admin.  <br/> Global admins are the only admins who can assign other admin roles, and only global admins can manage the accounts of other global admins. You can have more than one global admin in your organization. **As a best practice** we recommend that only a few people in your company have this role. It reduces the risk to your business.  <br/><br/> **Tip:** Make sure everyone who is a global admin in your organization has a mobile phone number and alternate email address in their contact info. Check out [Change your organization's address, technical contact email, and other information](../manage/change-address-contact-and-more.md) for more details.  <br/> |
+|![Global admin](../media/cbdb29d5-8d68-452a-8ccd-b337e5c86cec.png) **Global administrator** <br/> |Accesses all administrative features in the Office 365 suite of services in your plan, including Skype for Business. By default, the person who signs up to buy Office 365 becomes a global admin.  <br/> Global admins are the only admins who can assign other admin roles, and only global admins can manage the accounts of other global admins. You can have more than one global admin in your organization. **As a best practice**, we recommend that only a few people in your company have this role. It reduces the risk to your business.  <br/><br/> **Tip:** Make sure everyone who is a global admin in your organization has a mobile phone number and alternate email address in their contact info. Check out [Change your organization's address, technical contact email, and other information](../manage/change-address-contact-and-more.md) for more details.  <br/> |
 |![Credit card](../media/d00b0009-51f5-410b-bb0b-7ab36102b03c.png) **Billing administrator** <br/> |Makes purchases, manages subscriptions, opens and manages support tickets, and monitors service health.  <br/> |
 |![Customer Lockbox access approver](../media/649cfe55-9b3f-434d-8630-01ac80a52a12.png)           <br/> **Customer Lockbox access approver** <br/> |Manages [Customer Lockbox](../manage/customer-lockbox-requests.md) requests in your organization. They receive email notifications for Customer Lockbox requests and can approve/deny requests from the Microsoft 365 admin center. They can also can turn on/off the Customer Lockbox feature.  <br/><br/> This role has no access to view, create, or manage support tickets. <br/><br/>Only global admins can reset the passwords of people assigned to this role.  <br/> |
 |![Exchange Online](../media/4e3ecf0d-8366-4a96-9f39-9faa46543cf3.png) **[Exchange administrator](about-exchange-online-admin-role.md)** <br/> |Manages mailboxes and anti-spam policies for your business, using the Exchange admin center. Can view all the [activity reports](../activity-reports/activity-reports.md) in the admin center, manage support tickets, and monitor service health. <br/><br/> Someone with BOTH the Exchange admin role and the user management role can create and manage Office 365 groups in the admin center.  <br/><br/> To learn more, see [About the Exchange Online admin role](about-exchange-online-admin-role.md).  <br/> |
@@ -83,7 +83,7 @@ Certain admin roles have a corresponding role in Exchange Online, SharePoint Onl
   
 |**Office 365 admin role**|**Translates to this in Exchange Online …**|**Translates to this in SharePoint Online …**|**Translates to this in Skype for Business Online.....**|**Translates to this in the Security &amp; Compliance Center...**|
 |:-----|:-----|:-----|:-----|:-----|
-|global admin  <br/> |Exchange Online admin  <br/> Company admin  <br/> |SharePoint Online admin  <br/> |Skype for Business admin  <br/> |Security &amp; Compliance Center admin (member of OrganizationManagement role group)  <br/> |
+|global admin  <br/> |Exchange Online admin  <br/> Company admin  <br/> |SharePoint Online admin  <br/> |Skype for Business admin  <br/> |Security &amp; Compliance Center admin (member of Organization Management role group)  <br/> |
 |billing admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
 |helpdesk/password admin  <br/> |Help Desk admin\*  <br/> |N/A  <br/> |Help desk admin  <br/> |N/A  <br/> |
 |service admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
@@ -97,7 +97,7 @@ Certain admin roles have a corresponding role in Exchange Online, SharePoint Onl
   
 ## Delegated administration
 
-If you're working with a Microsoft partner, you can assign them admin roles. They in turn can assign users in your company - or their company - admin roles. You might want them to do this, for example, if they are setting up and managing Office 365 for you.
+If you're working with a Microsoft partner, you can assign them admin roles. They, in turn, can assign users in your company - or their company - admin roles. You might want them to do this, for example, if they are setting up and managing Office 365 for you.
   
 A partner can assign these roles:
   

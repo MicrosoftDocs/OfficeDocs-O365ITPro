@@ -170,11 +170,6 @@ After you enable MFA on your tenant, give the following instructions to people t
     
 - [Create an app password for Office 365](https://support.office.com/article/3e7c860f-bda4-4441-a618-b53953ee1183.aspx)
     
-
-## How to Enable MFA with conditional Access
-
-[![Watch the video](https://i.ytimg.com/vi/eLAYBwjCGoA/sddefault.jpg)](https://youtu.be/eLAYBwjCGoA)
-
 ## Planning Conditional Access in your organization?
 
 Please enter the following link and Search for "Conditional Access", click on it and you'll get our kickoff documentation in word format.
