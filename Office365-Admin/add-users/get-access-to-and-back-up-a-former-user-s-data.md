@@ -58,7 +58,9 @@ To save the content, here's what you do:
     There are a few ways to copy files in Office 365. See [Video: Set up document storage and sharing in Office 365](https://support.office.com/article/6a41fb61-9c11-4adf-9b98-f7910fe1b0d2.aspx). Or, to sync your files, and then upload those files to your OneDrive for Business or your team site, see [Sync files with the new OneDrive sync client in Windows](https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49.aspx).
     > [!NOTE]
     > You can move up to 500 MB of files and folders at a time.
-    > When you use Move to with documents that have version history, only the latest version is moved. To move earlier versions, you need to restore and move each one. 
+    > When you use Move to with documents that have version history, only the latest version is moved. To move earlier versions, you need to restore and move each one.
+    
+6. To revoke your permission back from user's OneDrive, You need to go to User Profiles on Sharepoint Admin Center & remove yourself from user's Sharepoint Site Collection Owners.
     
 ## Part 2 - Get access to the Outlook information of the former employee
 
