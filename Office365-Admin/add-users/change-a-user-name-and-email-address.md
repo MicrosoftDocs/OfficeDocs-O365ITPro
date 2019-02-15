@@ -1,13 +1,14 @@
 ---
 title: "Change a user name and email address in Office 365"
-ms.author: kwekua
-author: kwekua
-manager: scotv
+ms.author: dianef
+author: dianef
+manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365
 - Adm_O365_Top
 - strat_admin_top
@@ -37,9 +38,7 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
   
 1. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** > **Active Users**.
     
-    
-    
-2. Select the name of the person, choose **More (...)** > **Edit username**. 
+2. Choose the user. In the flyout pane, next to **Username / Email**, choose **Edit**. 
     
 3. In the first box, type the first part of the new email address. If you added your own domain to Office 365, you can choose the domain for the new email alias by using the drop-down list. 
 
@@ -81,7 +80,7 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
 
 1. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** > **Active Users**.
     
-2. Select the name of the person, choose **More (...)** > **Edit contact informationo**. 
+2. Select the name of the person. In the flyout pane, next to **Contact information**, choose **Edit**.  
 
 3. Type a new name for the person and then choose **Save**.
     

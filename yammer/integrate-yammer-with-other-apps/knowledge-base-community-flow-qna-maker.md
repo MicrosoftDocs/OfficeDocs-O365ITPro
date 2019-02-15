@@ -3,10 +3,9 @@ title: "Create a knowledge-based commnity in Yammer by using QnA Maker and Flow"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 1/9/2019
+ms.date: 2/8/2019
 ms.audience: Admin
 ms.topic: reference
-ms.prod: office-online-server
 localization_priority: Normal
 ms.service: yammer
 ms.custom: Adm_Yammer
@@ -14,7 +13,6 @@ search.appverid:
 - MET150
 - MOE150
 - YAE150
-ms.assetid: 37b730d6-99ad-43a2-967a-2eb52f48bdba
 description: "Integrate Yammer, Azure QnA Maker, and Microsoft Flow to build a knowledge base to automatically answer questions posed in the Yammer group."
 ---
 
@@ -29,6 +27,8 @@ This article provides steps to set up a Yammer group to provide automated answer
 Once you have this integration set up with a small list of questions and answers, users will be able to post questions in the group and receive automatic answers. If a user asks a question that doesn't have a clear match, the proposed answer is forwarded to a specific person to verify. Each verified answer is included as a response to the question, and also expands the knowledge base so it can be used for future questions.
 
 After you get the integration working with the sample content provided, you can replace the sample content with relevant questions and answers for your organization.
+
+For more ideas about how to use this integration to help with any situation where many people have similar questions such as new employee onboarding, self-help for IT problems, event planning, or communicating about organizational changes, see [Crowdsourcing to Create a Knowledge Base in Yammer](https://techcommunity.microsoft.com/t5/Yammer-Blog/Crowdsourcing-to-Create-a-Knowledge-Base-in-Yammer/ba-p/314869).
 
 ## Prerequisites
 
@@ -113,7 +113,7 @@ In this step, you'll use the Microsoft Azure QnA Maker web service to create an 
  
     a. Click **Publish**.
  
-    b. From the **Success** page, copy the three strings indicated in red rectangles above. You'll use these to initialize variables in the Yammer FAQs flow.
+    b. From the **Success** page, copy the three strings indicated in red rectangles below. You'll use these to initialize variables in the Yammer FAQs flow.
 
    ![Success message from QnA Maker](../media/kb/kb-publish-success.png)
 

@@ -3,7 +3,7 @@ title: "Find external messaging participants in a Yammer network"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 9/4/2018
+ms.date: 2/12/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -14,18 +14,16 @@ search.appverid:
 - MOE150
 - YAE150
 ms.assetid: 9e8cd010-829a-4d11-8a57-a8f735407604
-description: "Yammer admins can use the data export tool to find external participants in a network and find conversations that users are participating in on other networks."
+description: "Yammer admins can use data export to find external participants in a network."
 ---
 
 # Find external messaging participants in a Yammer network
 
-Your users need the flexibility to [add external participants](add-external-participants.md) to conversations in your Yammer network. As an admin, you need to know who those participants are and what they're saying in case you need to make a change. Verified Admins can see which conversations and files in their network are visible to external participants and can identify conversations in which their employees are participating on other Yammer networks. This article helps you find the external participants in your Yammer network so you can stay in control. 
-  
-If you are a verified admin, you can use the data export tool to find external participants in your network and find conversations that your users are participating in on other networks.
+Your users need the flexibility to [add external participants](add-external-participants.md) to conversations in your Yammer network. Verified Admins can use data export to find the names of external participants, and see which conversations and files in their own network are visible to external participants.  
   
 1. In the Yammer admin center, go to **Content and Security** \> **Export data**.
     
-    You'll only see this option if you are a Verified Admin in the Yammer network.
+    You'll only see this option if you are a verified admin in the Yammer network.
     
     For more information, see [Export Yammer Enterprise data](../manage-security-and-compliance/export-yammer-enterprise-data.md).
     

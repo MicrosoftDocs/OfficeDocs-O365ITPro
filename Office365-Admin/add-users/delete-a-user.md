@@ -7,7 +7,8 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365
 - Adm_O365_Top
 - Adm_UI_Elements
@@ -59,7 +60,7 @@ Since the guided experience walks through the steps to delete a user, here's how
     
 2. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** > **Active Users**.
     
-3. Select the user you want to delete, choose **More(...)** > **Delete user**.
+3. Select the user you want to delete, choose  **Delete user**.
     
 ## User management admin: Delete one or more users from Office 365
 
@@ -84,9 +85,7 @@ Since the guided experience walks through the steps to delete a user, here's how
 
 ::: moniker-end
 
-2. *.  
-
- 3. Choose the names of the users that you want to delete, and then choose **More(...)** > **Delete user**.
+ 3. Choose the names of the users that you want to delete, and then choose **Delete user**.
    <br/>  
      Although you deleted the user's account, **you're still paying for the license**. See the next procedure to stop paying for the license.   Or, you can assign the license to another user. It won't be assigned to someone automatically.
     

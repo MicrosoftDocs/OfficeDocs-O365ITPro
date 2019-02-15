@@ -191,7 +191,7 @@ A: Yes.
 
 A. When a user leaves the company and Azure Active Directory is updated, their Yammer profile content is replaced with their start and end dates, and their title is changed to **Former member**. All the messages and files they posted remain in Yammer. 
 
-    ![](../media/yam_former_member.jpg)
+   ![Yammer profile content](../media/yam_former_member.png)
 
 ### Q: My company has a configuration where not all Yammer users are yet in Office 365. How does life cycle management work in this case?
 

@@ -9,7 +9,8 @@ f1_keywords:
 - 'O365E_ReportsODActivity'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - IT_OneDriveAdmin
 - IT_OneDriveAdmin_Top
 - Strat_OD_admin

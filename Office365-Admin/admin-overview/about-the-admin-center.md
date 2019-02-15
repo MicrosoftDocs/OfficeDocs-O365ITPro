@@ -11,7 +11,8 @@ f1_keywords:
 - 'O365E_AboutAdminCenter'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365
 - Adm_O365_Top
 - Adm_UI_Elements
@@ -32,6 +33,8 @@ description: "Use the admin center to set up your organization in the cloud, and
 ---
 
 # About the Office 365 admin center
+
+[![Label to let you know the Admin Center is changing and you can find more details at aka.ms/aboutM365preview.](../media/O365-Admin-AdminCenterChanging.png)](../microsoft-365-admin-center-preview.md)
 
 **If you purchased an Office 365 business plan AND you have admin permissions, you have access to the admin center**. This article is for you! 
 

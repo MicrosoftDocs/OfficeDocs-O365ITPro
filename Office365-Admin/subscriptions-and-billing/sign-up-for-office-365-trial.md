@@ -1,13 +1,15 @@
 ---
-title: "Resolve license conflicts in Office 365 for business"
+title: "Sign up for an Office 365 trial subscription"
 ms.author: kwekua
-author: kwekua-MSFT
+author: kwekua
 manager: scotv
 ms.audience: Admin
 ms.topic: office-365-trial
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection: 
+- M365-subscription-management 
+- Adm_O365
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
