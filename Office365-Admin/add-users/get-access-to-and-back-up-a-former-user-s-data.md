@@ -136,8 +136,8 @@ To give access of the email messages, calendar, tasks, and contacts of the forme
 Check out [Import email, contacts, and calendar from an Outlook .pst file](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac.aspx) for the steps for Outlook 2010. 
   
 ## Related Topics
-
-
 [Remove a former employee from Office 365](remove-former-employee.md)
+
+[Add and remove admins on a OneDrive account](https://github.com/MicrosoftDocs/OfficeDocs-SharePoint/blob/live/SharePoint/SharePointOnline/manage-user-profiles.md#add-and-remove-admins-on-a-onedrive-account)
   
 
