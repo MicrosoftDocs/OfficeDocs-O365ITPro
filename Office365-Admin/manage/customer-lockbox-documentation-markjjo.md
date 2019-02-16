@@ -185,10 +185,6 @@ Only a global administrator in your organization can specify who can approve Cus
 
 Each Customer Lockbox request contains an Office 365 service request number. You can contact Microsoft Support and reference this service number to get more information about the request.
 
-#### What happens if I don’t respond to a Customer Lockbox request in a timely manner?
-
-Customer Lockbox requests have a default duration of 12 hours, after which they expire and can't be acted on.
-
 #### When a Customer Lockbox request is approved, how long are the permissions valid?
 
 Currently, the maximum period for the access permissions that are granted to the Microsoft engineer is 4 hours. The Microsoft engineer can also request a shorter period.
@@ -201,9 +197,9 @@ All Customer Lockbox requests can be viewed in the Microsoft 365 admin center.
 
 The Compliance Center Activity Feed will contain log activities of Customer Lockbox. Customers can cross-reference the Customer Lockbox log activities from the activity feed against the email request they receive.
 
-#### What happens to requests where a customer does not respond to Customer Lockbox request?
+#### What happens when a customer doesn't respond to a Customer Lockbox request?
 
-Customer lockbox requests have a validity of twelve (12) hours. Requests that are not acted on within 12 hours expire and cannot be approved.
+Customer Lockbox requests have a default duration of 12 hours. If you don't respond to a request within 12 hour, the request expires and can't be acted on.
 
 #### What does Microsoft when a customer rejects a Customer Lockbox request?
 
