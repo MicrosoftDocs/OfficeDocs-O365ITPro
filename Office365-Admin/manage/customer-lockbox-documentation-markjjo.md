@@ -91,17 +91,19 @@ Audit records that correspond to the Customer Lockbox requests are logged in the
 > [!NOTE]
 > You have to be assigned the View-Only Audit Logs or Audit Logs role in Exchange Online to search the Office 365 audit log. For more information, see [Search the audit log in the Office 365 Security & Compliance Center](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#before-you-begin).
 
-### Decisions on Customer Lockbox access requests
+### Audit record for a Customer Lockbox access request
 
-Approver actions on Customer Lockbox are logged to the Audit logs with this information:
+When a person in your organization approves or denies a Customer Lockbox request, an audit record is logged in the Office 365 audit log. This record contains the following information. 
 
-| Date       | Date time when the request was approved                          |
-| ---------- | ---------------------------------------------------------------- |
-| IP address | The IP Address of the machine approver used to approve a request |
-| User       | BOXServiceAccount@\[customerforest\].prod.outlook.com            |
-| Activity   | Set-AccessToCustomerDataRequest                                  |
-| Item       | Guid of the customer lockbox request                             |
+| Audit record property| Description|
+|:---------- |:----------|
+| Date       | The date and time when the request was approved or denied.
+| IP address | The IP address of the machine the approver used to approve or deny a request. |
+| User       | The service account BOXServiceAccount@\[customerforest\].prod.outlook.com.            |
+| Activity   | Set-AccessToCustomerDataRequest; this is the correspond                                 |
+| Item       | The Guid of the Customer Lockbox request                             |
 
+The following screenshot shows an example of an audit log record the corresponds to 
 ![](c:\\GitHub\\OfficeDocs-O365ITPro-pr\\Office365-Admin\\manage/media/image9.png)
 
 Figure - Audit log detail for approver action
@@ -209,7 +211,7 @@ If a customer rejects a Customer Lockbox request, no access to customer content 
 
 No. Microsoft takes third-party requests for customer data very seriously. As a cloud service provider, we always advocate for the privacy of customer data. In the event we get a subpoena, we always attempt to redirect the third party to the customer to obtain the information. (Please read Brad Smith's blog: [Protecting customer data from government snooping](https://blogs.microsoft.com/blog/2013/12/04/protecting-customer-data-from-government-snooping/)). We periodically publish [detailed information](https://www.microsoft.com/en-us/corporate-responsibility/lerr) about the law enforcement requests that we do receive.
 
-Also, see the [Microsoft Trust Center](https://www.microsoft.com/en-us/trustcenter/default.aspx) regarding third-party data requests and the "Disclosure of Customer Data" section in the [Online Services Terms (OST)](https://www.microsoft.com/Licensing/product-licensing/products.aspx) for more information.
+Also, see the [Microsoft Trust Center](https://www.microsoft.com/en-us/trustcenter/default.aspx) regarding third-party data requests and the "Disclosure of Customer Data" section in the [Online Services Terms](https://www.microsoft.com/Licensing/product-licensing/products.aspx) for more information.
 
 #### How does Microsoft ensure that a member of its staff doesn't have standing access to customer content in Office 365 applications?
 
@@ -217,7 +219,7 @@ Microsoft implements extensive preventive measures through access control system
 
 Office 365 uses an access control system called *Lockbox* to process requests for permissions that grant the ability to perform operational and administrative functions within the service. An operator must request access to customer content using Lockbox, which then requires a second person to take action on the request (e.g., approve it) before access is granted. That second person can't be the requestor and must be designated to approve access to customer content. Only if the request is approved does the operator acquire temporary access to customer content. After the elevation period expires, the access is revoked by Lockbox.
 
-Please refer to the [ Online Services Terms (OST) ](https://www.microsoft.com/licensing/product-licensing/products) for more details about our general security practices.
+Please refer to the [ Online Services Terms](https://www.microsoft.com/licensing/product-licensing/products) for more details about our general security practices.
 
 #### Under what circumstances do Microsoft engineers need access to my content?
 
