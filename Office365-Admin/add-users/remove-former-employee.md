@@ -51,7 +51,7 @@ description: "Follow this checklist to remove an employee from Office 365 and se
 If you need to get an employee out of Office 365 immediately, here's what you do:
   
 ::: moniker range="o365-worldwide"
-1. Go to the [Microsoft 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://admin.microsoft.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
 
 ::: moniker-end
 
