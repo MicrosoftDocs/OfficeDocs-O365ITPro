@@ -34,7 +34,7 @@ The **Send on Behalf** permission lets a user send email on behalf of an Office 
 > You can configure **Send as** or **Send on behalf** for a given user, but not both. If you configure both, it will default to **Send as**.
 
 > [!TIP]
-> Check the out the steps in [Send email from or on behalf of an Office 365 group](https://support.office.com/article/0f4964af-aec6-484b-a65c-0434df8cdb6b.aspx) to learn how to use Outlook and Outlook on the Web to send email from an Office 365 Group.
+> Check out the steps in [Send email from or on behalf of an Office 365 group](https://support.office.com/article/0f4964af-aec6-484b-a65c-0434df8cdb6b.aspx) to learn how to use Outlook and Outlook on the Web to send email from an Office 365 Group.
     
 ## Allow members to send email as an Office 365 Group
 
