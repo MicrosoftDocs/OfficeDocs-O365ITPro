@@ -161,6 +161,7 @@ and sign in with your administrator account when prompted.
 
 ```PowerShell
 $GroupName = "<SecurityGroupName>"
+$AllowGroupCreation = "False"
 
 Connect-AzureAD
 
@@ -174,7 +175,7 @@ if(!$settingsObjectID)
 }
 
 $settingsCopy = Get-AzureADDirectorySetting -Id $settingsObjectID
-$settingsCopy["EnableGroupCreation"] = $False
+$settingsCopy["EnableGroupCreation"] = $AllowGroupCreation
 
 if($GroupName)
 {
