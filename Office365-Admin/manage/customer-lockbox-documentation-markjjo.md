@@ -8,9 +8,11 @@ Occasionally, Microsoft engineers are involved during the support process to tro
 
 Customer Lockbox supports requests to access data in Exchange Online, SharePoint Online, and OneDrive for Business. To recommend support for other Office 365 services, please submit a request at [Office 365 UserVoice](https://office365.uservoice.com/).
 
-## Customer Lockbox workflow
+**Customer Lockbox request overview video**
 
-\[Customer Lockbox overview video\]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/8fecf10b-1f03-4849-8b67-76d3d2a43f26?autoplay=false]
+
+## Customer Lockbox workflow
 
 The following outlines the typical workflow when a Customer Lockbox request is initiated by a Microsoft engineer:
 
@@ -24,7 +26,7 @@ The following outlines the typical workflow when a Customer Lockbox request is i
 
 5. After a Microsoft Support manager approves the request, Customer Lockbox sends the designated approver at the customer's organization an email notification about the pending access request from Microsoft.
 
-> ![](c:\\GitHub\\OfficeDocs-O365ITPro-pr\\Office365-Admin\\manage/media/image1.png)
+    ![Example of a Customer Lockbox email notification](../media/CustomerLockbox1.png)
 
   > [!NOTE]
 > Anyone who is assigned the [Customer Lockbox access approver](../add-users/about-admin-roles.md) admin role in Microsoft 365 admin center can approve Customer Lockbox requests.
@@ -48,16 +50,15 @@ An Office 365 administrator can turn on Customer Lockbox controls in the Microso
 > [!NOTE]
 > To perform the following procedure, you must be a global administrator in your Microsoft 365 or Office 365 organization, or be assigned the **Customer Lockbox access approver** admin role.
 
-1.  Go to [https://admin.microsoft.com](https://admin.microsoft.com) and sign in with your work or school account.
+1. Go to [https://admin.microsoft.com](https://admin.microsoft.com) and sign in with your work or school account.
 
-2.  Click **Settings > Security & privacy**.
+2. Click **Settings > Security & privacy**.
     
-    ![](c:\\GitHub\\OfficeDocs-O365ITPro-pr\\Office365-Admin\\manage/media/image2.png)
+    ![Edit the Customer Lockbox settings in the admin center](../media/CustomerLockbox2.png)
 
+3. On the **Customer Lockbox** tile, click **Edit**, and then move the toggle to **On** or **Off** to turn the feature on or off.
 
-3.  On the **Customer Lockbox** tile, click **Edit**, and then move the toggle to **On** or **Off** to turn the feature on or off.
-
-![](c:\\GitHub\\OfficeDocs-O365ITPro-pr\\Office365-Admin\\manage/media/image4.png)
+    ![Require approval for Customer Lockbox](../media/CustomerLockbox4.png)
 
 ## Approve or deny a Customer Lockbox request
 
@@ -66,23 +67,21 @@ An Office 365 administrator can turn on Customer Lockbox controls in the Microso
 
 1.  Go to [https://admin.microsoft.com](https://admin.microsoft.com) and sign in with your work or school account.
 
-3.  Click **Support > Customer Lockbox Requests** to view the list of requests
+2.  Click **Support > Customer Lockbox Requests**.
     
-    ![](c:\\GitHub\\OfficeDocs-O365ITPro-pr\\Office365-Admin\\manage/media/image5.png)
+    ![Click Support, then click Customer Lockbox Requests](../media/CustomerLockbox5.png)
 
-4.  Select a Customer Lockbox request, and then click **Approve** or **Deny**.
+    A list of Customer Lockbox requests are displayed.
+
+    ![List of Customer Lockbox requests](../media/CustomerLockbox6.png)
+
+3.  Select a Customer Lockbox request, and then click **Approve** or **Deny**.
     
-    ![](c:\\GitHub\\OfficeDocs-O365ITPro-pr\\Office365-Admin\\manage/media/image6.png)
+    ![Approve or deny Customer Lockbox requests](../media/CustomerLockbox7.png)
 
-Figure - Customer Lockbox requests list
+    A confirmation message about the approval of the Customer Lockbox request is displayed.
 
-![](c:\\GitHub\\OfficeDocs-O365ITPro-pr\\Office365-Admin\\manage/media/image7.png)
-
-Figure - Customer Lockbox request details
-
-![](c:\\GitHub\\OfficeDocs-O365ITPro-pr\\Office365-Admin\\manage/media/image8.png)
-
-Figure - Customer Lockbox request approval confirmation message
+    ![Approve or deny Customer Lockbox requests](../media/CustomerLockbox8.png)
 
 ## Auditing Customer Lockbox requests 
 
@@ -104,9 +103,8 @@ When a person in your organization approves or denies a Customer Lockbox request
 | Item       | The Guid of the Customer Lockbox request                             |
 
 The following screenshot shows an example of an audit log record the corresponds to 
-![](c:\\GitHub\\OfficeDocs-O365ITPro-pr\\Office365-Admin\\manage/media/image9.png)
 
-Figure - Audit log detail for approver action
+![Audit record for an approved Customer Lockbox](../media/CustomerLockbox9.png)
 
 ### Microsoft engineer sample actions
 
@@ -119,11 +117,10 @@ Microsoft engineer actions that access customer content – performed when a Cus
 | Activity   | Name of the activity performed                        |
 | Item       | \<empty\>                                             |
 
-All actions performed by a Microsoft engineer can be filtered by using “Microsoft Operator” for User field:
+All actions performed by a Microsoft engineer can be filtered by using “Microsoft Operator” in the **User** field.
 
-![](c:\\GitHub\\OfficeDocs-O365ITPro-pr\\Office365-Admin\\manage/media/image10.png)
+![Filter on "Microsoft Operator" to display audit records](../media/CustomerLockbox10.png)
 
-Figure - Audit log search for actions performed by Microsoft engineer
 
 ## Frequently asked questions
 
