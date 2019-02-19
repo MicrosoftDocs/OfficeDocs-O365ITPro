@@ -216,7 +216,7 @@ Microsoft implements extensive preventive measures through access control system
 
 Office 365 uses an access control system called *Lockbox* to process requests for permissions that grant the ability to perform operational and administrative functions within the service. An operator must request access to customer content using Lockbox, which then requires a second person to take action on the request (e.g., approve it) before access is granted. That second person can't be the requestor and must be designated to approve access to customer content. Only if the request is approved does the operator acquire temporary access to customer content. After the elevation period expires, the access is revoked by Lockbox.
 
-Please refer to the [ Online Services Terms](https://www.microsoft.com/licensing/product-licensing/products) for more details about our general security practices.
+Please refer to the [Online Services Terms](https://www.microsoft.com/licensing/product-licensing/products) for more details about our general security practices.
 
 #### Under what circumstances do Microsoft engineers need access to my content?
 
