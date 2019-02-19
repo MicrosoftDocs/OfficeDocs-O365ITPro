@@ -142,7 +142,7 @@ If you want to check whether a DL is eligible or not, you can run the below comm
   
 If you want to check which DLs are eligible for upgrade just run the following command:
   
-`Get-EligibleDistributionGroup`
+`Get-EligibleDistributionGroupForMigration`
   
 ### Who can run the upgrade scripts?
 
