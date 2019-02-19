@@ -56,6 +56,9 @@ To save the content, here's what you do:
 5. Copy the files to your own OneDrive for Business or a common location.
     
     There are a few ways to copy files in Office 365. See [Video: Set up document storage and sharing in Office 365](https://support.office.com/article/6a41fb61-9c11-4adf-9b98-f7910fe1b0d2.aspx). Or, to sync your files, and then upload those files to your OneDrive for Business or your team site, see [Sync files with the new OneDrive sync client in Windows](https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49.aspx).
+    > [!NOTE]
+    > You can move up to 500 MB of files and folders at a time.
+    > When you use Move to with documents that have version history, only the latest version is moved. To move earlier versions, you need to restore and move each one. 
     
 ## Part 2 - Get access to the Outlook information of the former employee
 
@@ -136,8 +139,8 @@ To give access of the email messages, calendar, tasks, and contacts of the forme
 Check out [Import email, contacts, and calendar from an Outlook .pst file](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac.aspx) for the steps for Outlook 2010. 
   
 ## Related Topics
-
-
 [Remove a former employee from Office 365](remove-former-employee.md)
+
+[Add and remove admins on a OneDrive account](https://github.com/MicrosoftDocs/OfficeDocs-SharePoint/blob/live/SharePoint/SharePointOnline/manage-user-profiles.md#add-and-remove-admins-on-a-onedrive-account)
   
 
