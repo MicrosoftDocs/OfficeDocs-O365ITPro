@@ -1,7 +1,7 @@
 ---
 title: "Remove license from shared mailbox"
 ms.author: anfowler
-author: anfowler
+author: adefowler
 manager: scotv
 ms.audience: Admin
 ms.topic: troubleshooting

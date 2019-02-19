@@ -1,9 +1,8 @@
 ---
 title: "New Office 365 web experiences - working with your apps and online documents"
 ms.author: anfowler
-author: anfowler
-manager: scotv
-
+author: adefowler
+manager: mnirkhe
 ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration
@@ -18,7 +17,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: f7985f7b-c1f6-4cb7-b2ba-079a6375b379
-ROBOTS: NOINDEX
 description: "Learn about Office 365 app launcher and how it helps users open and switch between apps they use most."
 ---
 

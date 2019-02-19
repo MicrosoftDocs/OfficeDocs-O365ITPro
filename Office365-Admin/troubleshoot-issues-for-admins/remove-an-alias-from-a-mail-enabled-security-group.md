@@ -1,8 +1,8 @@
 ---
 title: "Troubleshoot Remove an alias from a mail-enabled security group"
 ms.author: anfowler
-author: anfowler
-manager: scotv
+author: adefowler
+manager: mnirkhe
 ms.audience: Admin
 ms.topic: troubleshooting
 f1_keywords:
@@ -22,7 +22,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 2e48210f-f725-451d-b71f-d56f27a947d3
-ROBOTS: NOINDEX
 description: "Learn how to remove an email alias from a mail-enabled security group using Exchange Online PowerShell."
 ---
 

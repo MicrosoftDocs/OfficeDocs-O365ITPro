@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Remove an alias from a group"
 ms.author: anfowler
-author: anfowler
+author: adefowler
 manager: scotv
 ms.audience: Admin
 ms.topic: troubleshooting

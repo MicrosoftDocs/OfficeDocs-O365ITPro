@@ -1,8 +1,8 @@
 ---
 title: "Troubleshoot Remove an alias from a contact"
 ms.author: anfowler
-author: anfowler
-manager: mnirkhe
+author: adefowler
+manager: scotv
 ms.audience: Admin
 ms.topic: troubleshooting
 f1_keywords:
@@ -19,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 0baf335d-ea9b-428c-9573-d0878126f014
-ROBOTS: NOINDEX
 description: "Learn how to remove an email alias from a contact using Exchange Online PowerShell."
 ---
 
