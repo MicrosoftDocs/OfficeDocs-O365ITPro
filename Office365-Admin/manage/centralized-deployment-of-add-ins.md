@@ -7,7 +7,9 @@ ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection: 
+- M365-subscription-management 
+- Adm_O365
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -28,29 +30,22 @@ It can take up to 24 hours for an add-in to show up for client for all users.
   
 ## Requirements
 
-Centralized deployment of add-ins requires that the users have Exchange Online, and active Exchange Online mailboxes, and Office 365 ProPlus. Specifically the following are the requirements necessary to use the Centralized Deployment feature:
-  
-- Your users must be using Office ProPlus 2016 on the following operating systems:
+Centralized deployment of add-ins requires that the users have Exchange Online and active Exchange Online mailboxes. Specifically the following are the requirements necessary to use the Centralized Deployment feature:
+
+- For Word, Excel, and PowerPoint add-ins, your users must be using one of the following:
+  - On a Windows device, Version 1704 or later of Office 365 ProPlus.
+  - On a Mac, Version 15.34 or later.
+- For Outlook, your users must be using one of the following: 
+  - Version 1701 or later of Office 365 ProPlus.
+  - Version 1808 or later of Office Professional Plus 2019 or Office Standard 2019.
+  - Version 16.0.4494.1000 or later of Office Professional Plus 2016 (MSI) or Office Standard 2016 (MSI)\*
+  - Version 15.0.4937.1000 of later of Office Professional Plus 2013 (MSI) or Office Standard 2013 (MSI)\*
     
-  - On Windows: Office build 16.0.8067 or later
-    
-  - On Mac: Office build 15.34.17051500 or later
-    
-- For Outlook they must use one of the following versions:
-    
-  - 2013 Click to Run version: 15.0.4819.1000 or later
-    
-  - 2013 MSI version: 15.0.4937.1000 or later\*
-    
-  - 2016 Click to Run version: 16.0.7726.5702 or later
-    
-  - 2016 MSI version: 16.0.4494.1000 or later\*
-    
-    \*In MSI version of Outlook, admin-installed add-ins will show in the appropriate ribbon in Outlook but doesn't show the add-in in 'My add-ins' section
+    \*In MSI versions of Outlook, admin-installed add-ins will show in the appropriate ribbon in Outlook but doesn't show the add-in in 'My add-ins' section.
     
 - Your directory must be federated to Azure Active Directory.
     
-- Your users must sign into Office 2016 using their Organizational ID.
+- Your users must sign into Office using their Organizational ID.
     
 - Your user's Exchange mailbox must be OAuth enabled.
     
@@ -72,7 +67,7 @@ Centralized Deployment doesn't support the following:
 
 The following table shows the clients that currently support the Centralized Deployment feature.
   
-|**Office application**|**2016 - Windows**|**Office Online**|**2016 - Mac**|
+|**Office application**|**Windows**|**Office Online**|**Mac**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |![checkmark](../media/5277fbec-0a8f-4bd0-b906-d6ddee85a46c.png)           <br/> |![checkmark](../media/5277fbec-0a8f-4bd0-b906-d6ddee85a46c.png)           <br/> |![checkmark](../media/5277fbec-0a8f-4bd0-b906-d6ddee85a46c.png)           <br/> |
 |Excel  <br/> |![checkmark](../media/5277fbec-0a8f-4bd0-b906-d6ddee85a46c.png)           <br/> |![checkmark](../media/5277fbec-0a8f-4bd0-b906-d6ddee85a46c.png)           <br/> |![checkmark](../media/5277fbec-0a8f-4bd0-b906-d6ddee85a46c.png)           <br/> |

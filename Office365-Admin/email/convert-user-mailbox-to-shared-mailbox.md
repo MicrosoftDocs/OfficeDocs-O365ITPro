@@ -7,7 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection: 
+- M365-subscription-management 
+- Adm_O365
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -24,7 +26,7 @@ description: "Learn to convert a private mailbox to a shared mailbox that can be
   
 When you convert a user's mailbox to a shared mailbox, all of the existing email and calendar is retained. Only now it's in a shared mailbox where several people will be able to access it instead of one person. At a later date, you can convert a shared mailbox back to a user (private) mailbox.
   
- **Here are some really important things to you need to know:**
+ **Here are some really important things that you need to know:**
   
 - The user mailbox you're converting needs a license assigned to it before you convert it to a shared mailbox. Otherwise, you won't see the option to convert the mailbox. If you've removed the license, add it back so you can convert the mailbox. After converting the mailbox to a shared one, you can remove the license from the user's account.
     
@@ -52,20 +54,22 @@ Here's how you convert a mailbox to a shared mailbox:
 
 ::: moniker-end
 
-2. On the **Active users** page, select the user whose mailbox you want to convert. 
+2. In the admin center, expand **Admin centers** \> **Exchange**.
     
-3. On the user's page, expand **Mail Settings** and click **Convert to shared mailbox**. You won't see this option if the user doesn't have an Office 365 license assigned to them. Go assign them a license then come back to this step. 
+3. Choose **Recipients** \> **Mailboxes**.
     
-    ![Convert user mailbox to shared mailbox](../media/ab36c282-c689-4b3d-82eb-5912a8a33a20.png)
+ ![exchadmin](https://user-images.githubusercontent.com/45987684/50208592-923e1d00-0397-11e9-8089-974fe1028b97.PNG)
+ 
+4. Choose the User mailbox. Under **Convert to Shared Mailbox**, click **Convert**.
+
+ ![covnerttoshared](https://user-images.githubusercontent.com/45987684/50208599-966a3a80-0397-11e9-8148-8d2595343709.PNG)
   
-4. Click **Convert** to complete the conversion. 
-    
-    ![Click Convert to convert user mailbox to shared mailbox](../media/b705fff8-9b87-48cc-9cd4-bcc989a8c569.png)
-  
+
 5. If the mailbox is smaller than 50GB, you can remove the [license from the user](../subscriptions-and-billing/remove-licenses-from-users.md), and stop paying for it. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor. The user won't be able to sign in using the old account.
     
 6. For everything else you need to know about shared mailboxes, please see [Create a shared mailbox](create-a-shared-mailbox.md).
-    
+
+
 ## Convert the mailbox of a deleted user
 
 Let's say you've deleted a user account and now you want to convert their old mailbox to a share mailbox. Here's what you need to do:
@@ -104,9 +108,15 @@ Here's why: if you convert the mailbox in the cloud, it can get converted, but o
 Usually this is not a problem, but there are some scenarios where the attributes on-premises (which think that the mailbox is the user mailbox) can overwrite the new cloud version of those attributes, and as a result the mailbox might convert back. This is a problem because user mailboxes require licenses **or they are soft deleted after 30 days**! 
   
 We've addressed most of the reasons why this happens but it still CAN happen, although infrequently. It's best to be safe and move the mailbox back to on-premises. 
+
+> [!NOTE]
+> If you are an Organization Management or Recipient Management, you will have to use Powershell to change a user mailbox to a shared mailbox on-premises. You can use the command ```   Set-Mailbox -Type Shared   ```
+
+> [!TIP]
+> See the workaround in this support solution for instances when [shared mailboxes are unexpectedly converted to user mailboxes](https://support.microsoft.com/en-us/help/2710029/shared-mailboxes-are-unexpectedly-converted-to-user-mailboxes-after-di)
   
 ## Related Topics
 
 [Create a shared mailbox](create-a-shared-mailbox.md)
-  
+ 
 

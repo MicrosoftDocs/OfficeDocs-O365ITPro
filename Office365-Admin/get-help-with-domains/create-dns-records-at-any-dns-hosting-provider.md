@@ -11,7 +11,8 @@ f1_keywords:
 - 'O365E_DOM_Gen'
 ms.service: o365-administration
 localization_priority: Priority
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365_Top
 - strat_admin_top
 ms.custom:
@@ -242,7 +243,7 @@ On your DNS host's website, you'll create three new CNAME records, typically one
 |:-----|:-----|:-----|:-----|
 |**Record Type** <br/> |**Host** <br/> |**Points to** <br/> |**TTL** <br/> |
 |CNAME (Alias)  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |1 hour  <br/> |
-|CNAME (Alias)  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |1 hour  <br/> |
+|CNAME (Alias)  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |1 hour  <br/> |
    
 ::: moniker-end
 
@@ -255,7 +256,7 @@ On your DNS host's website, you'll create three new CNAME records, typically one
 |:-----|:-----|:-----|:-----|
 |**Record Type** <br/> |**Host** <br/> |**Points to** <br/> |**TTL** <br/> |
 |CNAME (Alias)  <br/> |enterpriseregistration  <br/> |enterpriseregistration.microsoftonline.de  <br/> |1 hour  <br/> |
-|CNAME (Alias)  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |1 hour  <br/> |
+|CNAME (Alias)  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |1 hour  <br/> |
    
 ::: moniker-end
 

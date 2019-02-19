@@ -11,7 +11,8 @@ f1_keywords:
 - 'O365E_DOM_Net4'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365
 - Adm_O365_Domain_Registrars
 - Adm_O365_Setup
@@ -179,7 +180,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
     |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |
     |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
-    |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
        
     ![Create the CNAME records](../media/488400a4-2057-4f99-af18-e28687c2547c.png)
   

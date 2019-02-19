@@ -14,7 +14,9 @@ f1_keywords:
 - 'O365E_GAL_LearnGallatin'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_UI_Elements
+ms.collection: 
+- M365-subscription-management 
+ - Adm_UI_Elements
 ms.custom: Core_O365Admin_Migration
 search.appverid:
 - MET150

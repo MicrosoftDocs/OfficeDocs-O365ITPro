@@ -7,7 +7,9 @@ ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365_Domain_Registrars
+ms.collection: 
+- M365-subscription-management 
+ - Adm_O365_Domain_Registrars
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -187,7 +189,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> |3600 seconds  <br/> |
     |CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> |3600 seconds  <br/> |
     |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> |3600 seconds  <br/> |
-    |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> |3600 seconds  <br/> |
+    |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> |3600 seconds  <br/> |
    
     ![OVH CNAME record](../media/516938b3-0b12-4736-a631-099e12e189f5.png)
   
