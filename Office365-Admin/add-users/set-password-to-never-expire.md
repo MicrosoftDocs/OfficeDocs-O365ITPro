@@ -36,9 +36,9 @@ This guidance applies to other providers, such as Intune and Office 365, which a
 >
 
 > [!TIP]
-> All this Cmdlets requires the download and install of this AzureAD module into your local computer.
-> To do this you can execute powershell in an elevated console. (Click on windows/Type "Powershell" right click and "execute as administrator")
-> Finally run : 
+> All these cmdlets requires the download and install of this AzureAD module into your local computer.
+> To do this you can run powershell in an elevated console. (Click on windows/Type "Powershell" right click and "run as administrator")
+> Finally run: 
 >  ``` 
 >  Install-Module AzureAD
 > ```
@@ -60,7 +60,7 @@ In orden to do this steps you will open a powershell Console as administrator, l
 
 `Get-Module -ListAvailable | where{ $_.Name -eq "AzureAD"`}
 
-This Cmdlet will search inside all the available modules and will search for the one that contains a name of "AzureAD".
+This cmdlet will search inside all the available modules and will search for the one that contains a name of "AzureAD".
 
 ### 2. Update it or install it 
 If not, you can **install it**.
@@ -79,19 +79,19 @@ Install-Module AzureAD -Force
 
 
 ## 3. Connect to the AzureAD
-To do this last previous step, on the Powershell Console run the following Cmdlet:
+To do this last previous step, on the Powershell Console run the following cmdlet:
 
 ```
 Connect-AzureAD
 ```
 
-And login with an Office 365 Global Administrator account
+And login with an Office 365 Global Administrator account.
 
 ## Password Policies management by using PowerShell
 
 ### How to check the expiration policy for a password
 
-* Execute one of the following commands:
+* Run one of the following commands:
 
    * To see if a single user’s password is set to never expire, run the following cmdlet by using the UPN (for example, *aprilr@contoso.onmicrosoft.com*) or the user ID of the user you want to check:
 ```
@@ -114,7 +114,7 @@ Get-AzureADUser -All $true | Select-Object UserprincipalName,@{
  }
 ```  
 
-* To get a Report of all the users With PasswordNeverExpires in Html on the desktop of the current user with name  **ReportPasswordNeverExpires.html**
+* To get a report of all the users with PasswordNeverExpires in Html on the desktop of the current user with name  **ReportPasswordNeverExpires.html**
 
 
 ```
@@ -123,7 +123,7 @@ Get-AzureADUser -All $true | Select-Object UserprincipalName,@{
 } | ConvertTo-Html | Out-File $env:userprofile\Desktop\ReportPasswordNeverExpires.html
 ```  
 
-* To get a Report of all the users With PasswordNeverExpires in CSV on the desktop of the current user with name **ReportPasswordNeverExpires.csv**
+* To get a report of all the users with PasswordNeverExpires in CSV on the desktop of the current user with name **ReportPasswordNeverExpires.csv**
 
 
 ```
@@ -135,7 +135,7 @@ Get-AzureADUser -All $true | Select-Object UserprincipalName,@{
 
 ### Set a password to expire
 
-Execute one of the following commands:
+Run one of the following commands:
 
    * To set the password of one user so that the password expires, run the following cmdlet by using the UPN or the user ID of the user:
 
@@ -147,7 +147,7 @@ Execute one of the following commands:
 
 ### Set a password to never expire
 
-Execute one of the following commands:
+Run one of the following commands:
 
    * To set the password of one user to never expire, run the following cmdlet by using the UPN or the user ID of the user: 
 
