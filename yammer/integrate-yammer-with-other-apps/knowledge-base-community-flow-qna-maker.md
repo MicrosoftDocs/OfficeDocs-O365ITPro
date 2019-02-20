@@ -97,6 +97,9 @@ In this step, you'll use the Microsoft Azure QnA Maker web service to create an 
  
 5. Populate the kb with a base source by clicking **+ Add file** and uploading the SampleFAQs.xlsx file that you downloaded in Step 1.
 
+    > [!NOTE]
+    > You must customize the SampleFAQs to language in which you want your KB. 
+
    ![QnA Maker step 4, Populate your kb](../media/kb/create-kb-step-4.png)
  
 6. Click **Create your kb**.
