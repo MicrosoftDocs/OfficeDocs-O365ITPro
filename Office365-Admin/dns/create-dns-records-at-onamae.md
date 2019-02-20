@@ -190,7 +190,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |lyncdiscover  <br/> |CNAME  <br/> |3600          (seconds)  <br/> |webdir.online.lync.com  <br/> |
     |msoid  <br/> |CNAME  <br/> |3600          (seconds)  <br/> |clientconfig.microsoftonline-p.net  <br/> |
     |enterpriseregistration  <br/> |CNAME  <br/> |3600          (seconds)  <br/> |enterpriseregistration.windows.net  <br/> |
-    |enterpriseenrollment  <br/> |CNAME  <br/> |3600          (seconds)  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |enterpriseenrollment  <br/> |CNAME  <br/> |3600          (seconds)  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
        
     ![CNAME value](../media/4456c3ba-df9c-4461-85fa-bb4f64c66d49.png)
   

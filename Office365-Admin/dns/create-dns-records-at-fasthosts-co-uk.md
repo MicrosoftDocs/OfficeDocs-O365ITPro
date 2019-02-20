@@ -155,7 +155,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
     |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |
     |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
-    |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
    
     ![FasthostsUK-BP-Configure-3-2](../media/995d90ae-298e-43e9-ba50-240cf17e946b.png)
   

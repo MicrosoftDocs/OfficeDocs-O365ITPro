@@ -221,7 +221,7 @@ You'll create the required CNAME records by creating the six subdomains first, a
     |lyncdiscover  <br/> |CNAME  <br/> |webdir.online.lync.com.  <br/> |
     |msoid  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net.  <br/> |
     |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net.  <br/> |
-    |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> |
+    |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> |
    
     ![Strato_subdomain_CNAME_values](../media/84b4bada-92dd-4de1-b2de-4bff05b16017.png)
   

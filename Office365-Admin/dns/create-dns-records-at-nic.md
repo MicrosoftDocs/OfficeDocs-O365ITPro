@@ -179,7 +179,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |1 Hour  <br/> |
     |CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |1 Hour  <br/> |
     |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |1 Hour  <br/> |
-    |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |1 Hour  <br/> |
+    |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |1 Hour  <br/> |
        
     ![NIC-BP-Configure-3-2](../media/47b8500f-cec5-446f-a3b8-b8ece1233efb.png)
   

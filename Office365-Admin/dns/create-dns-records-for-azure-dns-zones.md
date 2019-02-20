@@ -231,7 +231,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |**Name**|**Type**|**TTL**|**TTL unit**|**Alias**|
 |:-----|:-----|:-----|:-----|:-----|
 |enterpriseregistration  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+|enterpriseenrollment  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
    
 ## Add a TXT record for SPF to help prevent email spam
 <a name="BKMK_add_TXT"> </a>

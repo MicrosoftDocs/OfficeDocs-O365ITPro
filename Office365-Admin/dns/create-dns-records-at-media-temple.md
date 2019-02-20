@@ -205,7 +205,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |**Name**|**TTL**|**Type**|**Data**|
     |:-----|:-----|:-----|:-----|
     |enterpriseregistration  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> **This value MUST end with a period (.)** <br/> |
-    |enterpriseenrollment  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> **This value MUST end with a period (.)** <br/> |
+    |enterpriseenrollment  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> **This value MUST end with a period (.)** <br/> |
    
 ## Add a TXT record for SPF to help prevent email spam
 <a name="BKMK_add_TXT"> </a>

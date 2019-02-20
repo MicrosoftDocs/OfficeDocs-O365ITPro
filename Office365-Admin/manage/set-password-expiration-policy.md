@@ -70,7 +70,9 @@ Here are some things to know about how this feature currently works as of Januar
 ## Prevent last password from being used again
 
 If you want to prevent your users from recycling old passwords, you can do so in Azure AD. See [Password policies and restrictions in Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=860842).
-  
+
+In addition, also see this link: https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee?view=o365-worldwide#wipe-and-block-a-former-employees-mobile-device
+
 ## Synchronize user passwords hashes from an on-premises Active Directory to Azure AD (Office 365)
 
 This article is for setting the expiration policy for cloud-only users (Azure AD). It doesn't apply to hybrid identity users who use password hash sync, pass-through authentication or on-premises federation like ADFS.
