@@ -41,17 +41,13 @@ To manage and deploy devices through Windows Autopilot, you'll need a .csv file 
 Columns in the device list file must have the following headers in the specified order:
   
 - Column A: Device Serial Number
-    
-- Column B: Windows Product ID
-    
+
+- Column B: leave blank
+
 - Column C: Hardware Hash
-    
+
 You can get this information from your hardware vendor, or you can use the [Get-WindowsAutoPilotInfo PowerShell script](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) that will generate a CSV file. 
-  
-The following figure is an example .csv file.
-  
-![An example device list  .csv file.](../media/21c72cca-a60d-4330-8edc-9d64f79a3adf.png)
-  
+
 When you add devices, you also need to add them to a Profile. A profile is used to apply AutoPilot deployment profiles to a device or a group of devices.
   
 ## Related Topics
@@ -62,4 +58,3 @@ When you add devices, you also need to add them to a Profile. A profile is used 
   
 [Manage Microsoft 365 Business](https://support.office.com/article/27ff1678-865a-4707-8145-e1155aa815d6)
   
-
