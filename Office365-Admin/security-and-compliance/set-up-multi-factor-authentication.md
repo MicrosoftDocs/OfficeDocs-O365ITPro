@@ -160,34 +160,11 @@ You can bulk update the status for existing people by using a CSV file. The CSV 
 6. After the file is verified, choose the **Next** arrow to update the accounts. 
     
 7. When the process is finished, choose the **Done** checkmark. 
-    
+
 ## Instructions for your users after MFA is set up
-<a name="bkmk_setupmfa"> </a>
 
 After you enable MFA on your tenant, give the following instructions to people to set up their second sign-in method for Office 365:
   
 - [Set up 2-step verification for Office 365](https://support.office.com/article/ace1d096-61e5-449b-a875-58eb3d74de14.aspx)
-    
+
 - [Create an app password for Office 365](https://support.office.com/article/3e7c860f-bda4-4441-a618-b53953ee1183.aspx)
-    
-## Planning Conditional Access in your organization?
-
-Please enter the following link and Search for "Conditional Access", click on it and you'll get our kickoff documentation in word format.
-
-[Azure Active Directory deployment plans](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-deployment-plans)
-
-## What is  conditional access in Azure Active Directory?
-<a name="bkmk_setupmfa"> </a>
-Since security is nowadays the highest concern for organizations using the cloud, you can empower your users to be productive wherever and whenever read more on the following link:
-
-
- - [Azure Active Directory Conditional Access](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview)
-- [Conditions in Azure Active Directory Conditional Access](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/conditions)
-
-
- ## How to configure MFA for specific apps with Azure AD Conditional Access
-<a name="bkmk_setupmfa"> </a>
-
- On the following link you can get the information about how to set up this properly, check them out!
-- [QuickStart](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/app-based-mfa)
-- [Conditional Controls](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/controls)
