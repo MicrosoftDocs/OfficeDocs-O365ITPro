@@ -6,11 +6,12 @@ Customer Lockbox ensures that no one at Microsoft can access customer content to
 
 Occasionally, Microsoft engineers are involved during the support process to troubleshoot and fix customer reported issues. In most cases, issues are4 fixed through extensive telemetry and debugging tools that Microsoft has in place for its services. However, there may be cases that require a Microsoft engineer to access customer content to determine the root cause and fix the issue. Customer Lockbox requires the engineer to request access from the customer as a final step in the approval workflow. This gives organizations the option to approve or deny these requests, which gives them direct control of whether or not a Microsoft engineer can access their data.
 
-Customer Lockbox supports requests to access data in Exchange Online, SharePoint Online, and OneDrive for Business. To recommend support for other Office 365 services, please submit a request at [Office 365 UserVoice](https://office365.uservoice.com/).
-
 **Customer Lockbox request overview video**
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/8fecf10b-1f03-4849-8b67-76d3d2a43f26?autoplay=false]
+
+> [!NOTE]
+> Customer Lockbox supports requests to access data in Exchange Online, SharePoint Online, and OneDrive for Business. To recommend support for other Office 365 services, please submit a request at [Office 365 UserVoice](https://office365.uservoice.com/).
 
 ## Customer Lockbox workflow
 
@@ -90,36 +91,90 @@ Audit records that correspond to the Customer Lockbox requests are logged in the
 > [!NOTE]
 > You have to be assigned the View-Only Audit Logs or Audit Logs role in Exchange Online to search the Office 365 audit log. For more information, see [Search the audit log in the Office 365 Security & Compliance Center](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#before-you-begin).
 
+### Search the audit log for activity related to Customer Lockbox requests
+
+
+
+
+Here's how to create an audit log search query to return audit records related to Customer Lockbox:
+
+
+
+**Activities** - Leave this field blank so that the search returns audit records for all activities. This is necessary to return any audit records related to the **Set-Mailbox** cmdlet.
+
+**Start date** and **End date** - Select a date range that's applicable to your investigation.
+
+**Users** - Unless you're investigating a email forwarding issue for a specific user, leave this field blank. This will help you identify if email forwarding was set up for any user.
+
+**File, folder, or site** - Leave this field blank.
+
+After you run the search, click **Filter results** on the search results page. In the box under **Activity** column header, type **Set-Mailbox** so that only audit records related to the **Set-Mailbox** cmdlet are displayed.
+
+
+1. Go to [https://protection.office.com](https://protection.office.com).
+  
+2. Sign in to Office 365 using your work or school account.
+
+3. In the left pane of the Security & Compliance Center, click **Search & investigation** > **Audit log search**.
+    
+    The **Audit log search** page is displayed. 
+    
+    ![Configure criteria and then click Search to run the search](media/8639d09c-2843-44e4-8b4b-9f45974ff7f1.png)
+  
+4. Configure the following search criteria. Note that each troubleshooting scenario in this article will recommend specific guidance for configuring these fields.
+    
+    a. **Activities** - Leave this field blank so that the search returns audit records for all activities. This is necessary to return any audit records related to Customer Lockbox requests and corresponding activity performed by Microsoft engineers.
+    
+    b. **Start date** and **End date** - Select a date and time range to display the events that occurred within that period.
+
+    c. **Users** - Leave this field blank.
+    
+    d. **File, folder, or site** - Leave this field blank.
+    
+5. Click **Search** to run the search using your search criteria. 
+    
+    The search results are loaded, and after a few moments they are displayed under **Results** on the **Audit log search** page.
+
+6. Click **Filter results** on the search results page, and do one of the following things:
+
+   - To display audit records related to an approver in your organization approving or denying a Customer Lockbox request: In the box under the **Activity** column, type **Set-AccessToCustomerDataRequest**.
+   
+   - To display audit records related to a Microsoft engineer performing actions in response to an approved Customer Lockbox request: In the box under the **User** column, type **Microsoft Operator**. Note that the action performed by the engineer is displayed int the **Activity** column.
+
+      ![Filter on "Microsoft Operator" to display audit records](../media/CustomerLockbox10.png)
+
+7. In the list of results, click an audit record to display it.
+
 ### Audit record for a Customer Lockbox access request
 
 When a person in your organization approves or denies a Customer Lockbox request, an audit record is logged in the Office 365 audit log. This record contains the following information. 
 
 | Audit record property| Description|
 |:---------- |:----------|
-| Date       | The date and time when the request was approved or denied.
+| Date       | The date and time when the Customer Lockbox request was approved or denied.
 | IP address | The IP address of the machine the approver used to approve or deny a request. |
 | User       | The service account BOXServiceAccount@\[customerforest\].prod.outlook.com.            |
-| Activity   | Set-AccessToCustomerDataRequest; this is the correspond                                 |
+| Activity   | Set-AccessToCustomerDataRequest; this is the auditing activity that is logged when you approve or deny a Ccustomer Lockbox request.                                |
 | Item       | The Guid of the Customer Lockbox request                             |
 
-The following screenshot shows an example of an audit log record the corresponds to 
+The following screenshot shows an example of an audit log record that corresponds to an approved Customer Lockbox request. If a Customer Lockbox request was denied, then the value of **ApprovalDecision** parameter would be **Deny**.
 
-![Audit record for an approved Customer Lockbox](../media/CustomerLockbox9.png)
+![Audit record for an approved Customer Lockbox request](../media/CustomerLockbox9.png)
 
-### Microsoft engineer sample actions
+> [!TIP]
+> To display more detailed information in an audit record, click **More information**.
 
-Microsoft engineer actions that access customer content – performed when a Customer Lockbox request has been approved – are also logged to the Audit Logs with this information:
+### Audit record for an action performed by a Microsoft engineer
 
-| Date       | Date time when the action was performed               |
-| ---------- | ----------------------------------------------------- |
-| IP address | The IP Address of the machine Microsoft engineer used |
-| User       | Microsoft Operator                                    |
-| Activity   | Name of the activity performed                        |
+As previously explained, the actions performed by a Microsoft engineer after a Customer Lockbox request is approved (and that may result in accessing customer content) are logged in the audit log. These records contain the following information.
+
+| Audit record property| Description|
+|:---------- |:----------|
+| Date       | Date time when the action was performed. Note that the time that this action was performed will be within 4 hours of when the Customer Lockbox request was approved.              |
+| IP address | The IP Address of the machine Microsoft engineer used. |
+| User       | Microsoft Operator; this value indicates that this record is related to a Customer Lockbox request.                                  |
+| Activity   | Name of the activity performed by the Microsoft engineer.|
 | Item       | \<empty\>                                             |
-
-All actions performed by a Microsoft engineer can be filtered by using “Microsoft Operator” in the **User** field.
-
-![Filter on "Microsoft Operator" to display audit records](../media/CustomerLockbox10.png)
 
 
 ## Frequently asked questions
