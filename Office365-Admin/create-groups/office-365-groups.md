@@ -83,21 +83,13 @@ Managing your Office 365 Groups is more effective when you have actionable infor
 
 ## Which Office 365 plans include Groups?
 
-Any Office 365 subscription that has Exchange Online and SharePoint Online will support groups. That includes the Business Essentials and Business Premium plans, and the Enterprise E1, E3 and E5 plans. Group users need an Exchange Online license at minimum. The Group takes on the licensing of the person who creates the Group (also known as the "organizer" of the Group). As long as the organizer has the proper license for whatever features you want the Group to have, that license will convey to the Group.
+Any Office 365 subscription that has Exchange Online and SharePoint Online will support groups. That includes the Business Essentials and Business Premium plans, and the Enterprise E1, E3 and E5 plans. The Group takes on the licensing of the person who creates the Group (also known as the "organizer" of the Group). As long as the organizer has the proper license for whatever features you want the Group to have, that license will convey to the Group.
 
-If you have an Exchange-only plan you can still get the shared Inbox and shared Calendar features of groups in Outlook but you won’t get the document library, Planner or any of the other capabilities. If you want to use advanced security or compliance features for the shared mailbox created with a group, you need to assign an Exchange Online Plan 1 with Exchange Online Archiving or Exchange Online Plan 2 license to the mailbox.
+If you have an Exchange-only plan you can still get the shared Inbox and shared Calendar features of groups in Outlook but you won’t get the document library, Planner or any of the other capabilities.
 
 If you have a Yammer-only plan you will still have the conversations feed in the Yammer group but you won't get the document library, Planner, or any of the other capabilities.
 
-Office 365 Groups works with Azure Active Directory (AAD). The Groups features you get depends on which Azure Active Directory subscription you have. While most group features are available with the Azure Acitve Directory license that comes with Office 365, the following groups features require group owners and members to have Azure Active Directory Premium P1:
-
-- [Dynamic group membership](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-dynamic-membership)
-- [Granular self-service group creation controls](manage-creation-of-groups.md)
-- [Group Naming Policy](groups-naming-policy.md)
-- [Group Expiry](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-lifecycle)
-- [Usage Guidelines](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-groups-with-powershell#link-to-your-office-365-groups-usage-guidelines)
-- [Sensitivity labels](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels)
-- [Self-service group management via myapps.microsoft.com](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-self-service-management)
+Office 365 Groups works with Azure Active Directory (AAD). The Groups features you get depends on which Azure Active Directory subscription you have, and what license(s) is assigned to the organizer of the Group. 
 
 > [!IMPORTANT]
 > For all the Groups features, if you have an Azure AD Premium subscription, users can join the group whether or not they have an AAD P1 license assigned to them. Licensing isn't enforced.
