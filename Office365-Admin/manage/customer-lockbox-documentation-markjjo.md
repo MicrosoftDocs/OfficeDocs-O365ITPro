@@ -4,7 +4,7 @@ This article provides deployment and configuration guidance for a feature that i
 
 Customer Lockbox ensures that no one at Microsoft can access customer content to perform a service operation without the customer’s explicit approval. Customer Lockbox brings the customer into the approval workflow for requests to access their content.
 
-Occasionally, Microsoft engineers are involved during the support process to troubleshoot and fix customer reported issues. In most cases, issues are4 fixed through extensive telemetry and debugging tools that Microsoft has in place for its services. However, there may be cases that require a Microsoft engineer to access customer content to determine the root cause and fix the issue. Customer Lockbox requires the engineer to request access from the customer as a final step in the approval workflow. This gives organizations the option to approve or deny these requests, which gives them direct control of whether or not a Microsoft engineer can access their data.
+Occasionally, Microsoft engineers are involved during the support process to troubleshoot and fix customer reported issues. In most cases, issues are fixed through extensive telemetry and debugging tools that Microsoft has in place for its services. However, there may be cases that require a Microsoft engineer to access customer content to determine the root cause and fix the issue. Customer Lockbox requires the engineer to request access from the customer as a final step in the approval workflow. This gives organizations the option to approve or deny these requests, which gives them direct control of whether or not a Microsoft engineer can access their data.
 
 **Customer Lockbox request overview video**
 
