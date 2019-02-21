@@ -110,7 +110,6 @@ Here's how to create an audit log search query to return audit records related t
 
 After you run the search, click **Filter results** on the search results page. In the box under **Activity** column header, type **Set-Mailbox** so that only audit records related to the **Set-Mailbox** cmdlet are displayed.
 
-
 1. Go to [https://protection.office.com](https://protection.office.com).
   
 2. Sign in to Office 365 using your work or school account.
@@ -119,7 +118,7 @@ After you run the search, click **Filter results** on the search results page. I
     
     The **Audit log search** page is displayed. 
     
-    ![Configure criteria and then click Search to run the search](media/8639d09c-2843-44e4-8b4b-9f45974ff7f1.png)
+    ![Audit log search page](../media/auditlogsearch1.png)
   
 4. Configure the following search criteria. Note that each troubleshooting scenario in this article will recommend specific guidance for configuring these fields.
     
