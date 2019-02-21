@@ -105,7 +105,7 @@ Here's how to create an audit log search query to return audit records related t
     
     ![Audit log search page](../media/auditlogsearch1.png)
   
-4. Configure the following search criteria. Note that each troubleshooting scenario in this article will recommend specific guidance for configuring these fields.
+4. Configure the following search criteria:
     
     a. **Activities** - Leave this field blank so that the search returns audit records for all activities. This is necessary to return any audit records related to Customer Lockbox requests and corresponding activity performed by Microsoft engineers.
     
