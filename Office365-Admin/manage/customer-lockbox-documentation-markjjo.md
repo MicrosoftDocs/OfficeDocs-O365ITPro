@@ -93,22 +93,7 @@ Audit records that correspond to the Customer Lockbox requests are logged in the
 
 ### Search the audit log for activity related to Customer Lockbox requests
 
-
-
-
 Here's how to create an audit log search query to return audit records related to Customer Lockbox:
-
-
-
-**Activities** - Leave this field blank so that the search returns audit records for all activities. This is necessary to return any audit records related to the **Set-Mailbox** cmdlet.
-
-**Start date** and **End date** - Select a date range that's applicable to your investigation.
-
-**Users** - Unless you're investigating a email forwarding issue for a specific user, leave this field blank. This will help you identify if email forwarding was set up for any user.
-
-**File, folder, or site** - Leave this field blank.
-
-After you run the search, click **Filter results** on the search results page. In the box under **Activity** column header, type **Set-Mailbox** so that only audit records related to the **Set-Mailbox** cmdlet are displayed.
 
 1. Go to [https://protection.office.com](https://protection.office.com).
   
@@ -153,7 +138,7 @@ When a person in your organization approves or denies a Customer Lockbox request
 | Date       | The date and time when the Customer Lockbox request was approved or denied.
 | IP address | The IP address of the machine the approver used to approve or deny a request. |
 | User       | The service account BOXServiceAccount@\[customerforest\].prod.outlook.com.            |
-| Activity   | Set-AccessToCustomerDataRequest; this is the auditing activity that is logged when you approve or deny a Ccustomer Lockbox request.                                |
+| Activity   | Set-AccessToCustomerDataRequest; this is the auditing activity that is logged when you approve or deny a Customer Lockbox request.                                |
 | Item       | The Guid of the Customer Lockbox request                             |
 
 The following screenshot shows an example of an audit log record that corresponds to an approved Customer Lockbox request. If a Customer Lockbox request was denied, then the value of **ApprovalDecision** parameter would be **Deny**.
