@@ -74,6 +74,22 @@ Your users lose access to their data when the cancellation becomes effective, so
 If you added your own domain name to use with your subscription, you must remove the domain before you cancel your subscription. For more information, see [Remove a domain from Office 365](../get-help-with-domains/remove-a-domain.md).
 
 ::: moniker range="o365-worldwide"
+
+### Use the admin center (preview) to cancel your subscription
+
+The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
+
+2. Find the subscription that you want to cancel, under **Settings & Actions**, choose **Cancel subscription**.
+
+3. Review the important dates, provide feedback about why you are cancelling, then choose **Cancel subscription**.
+
+    Your subscription will now appear in a **Disabled** state, and will have reduced functionality until it is deleted. For more information about what you can expect when a paid Office 365 for business subscription is cancelled, see [What happens to my data and access when my Office 365 for business subscription ends?](what-if-my-subscription-expires.md)
+
+::: moniker-end
+
+::: moniker range="o365-worldwide"
 ### Use the old admin center to cancel your subscription
 ::: moniker-end
   
@@ -92,22 +108,6 @@ If you added your own domain name to use with your subscription, you must remove
 4. Review the important dates, provide feedback about why you are cancelling, then choose **Cancel subscription**.
 
     Your subscription will now appear in a **Disabled** state, and will have reduced functionality until it is deleted. For more information about what you can expect when a paid Office 365 for business subscription is cancelled, see [What happens to my data and access when my Office 365 for business subscription ends?](what-if-my-subscription-expires.md)
-
-::: moniker range="o365-worldwide"
-
-### Use the admin center (preview) to cancel your subscription
-
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
-
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
-
-2. Find the subscription that you want to cancel, under **Settings & Actions**, choose **Cancel subscription**.
-
-3. Review the important dates, provide feedback about why you are cancelling, then choose **Cancel subscription**.
-
-    Your subscription will now appear in a **Disabled** state, and will have reduced functionality until it is deleted. For more information about what you can expect when a paid Office 365 for business subscription is cancelled, see [What happens to my data and access when my Office 365 for business subscription ends?](what-if-my-subscription-expires.md)
-
-::: moniker-end
 
 ## Step 3: Uninstall Office (optional)
 

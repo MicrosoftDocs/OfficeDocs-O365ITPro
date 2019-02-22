@@ -32,24 +32,6 @@ description: "Learn how to remove licenses from user accounts in Office 365 for 
 ## Remove licenses from one user
 
 ::: moniker range="o365-worldwide"
-### Use the old admin center to remove licenses from one user
-::: moniker-end
-  
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
-
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
-
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
-
-2. Pick the user from whom you want to remove the license.
-
-3. On the right, in the **Product licenses** row, choose **Edit**.
-
-4. In the **Product licenses** pane, switch the toggle to the **Off** position for the license you want to remove from the user. For example, switching off Office 365 Enterprise E3 license will remove that license from the user and all of the services under that license.
-
-5. At the bottom of the **Product licenses** pane, choose **Save** \> **Close** \> **Close**.
-
-::: moniker range="o365-worldwide"
   
 ### Use the admin center (preview) to remove licenses from one user
 
@@ -67,10 +49,8 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
 ::: moniker-end
 
-## Remove licenses from multiple users
-
 ::: moniker range="o365-worldwide"
-### Use the old admin center to remove licenses from multiple users
+### Use the old admin center to remove licenses from one user
 ::: moniker-end
   
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
@@ -79,13 +59,15 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
 
-2. Select the boxes next to the names of the users from whom you want to remove all licenses.
+2. Pick the user from whom you want to remove the license.
 
-3. In the **Bulk actions** pane, choose **Edit product licenses**.
+3. On the right, in the **Product licenses** row, choose **Edit**.
 
-4. In the **Replace existing products** pane, choose **Replace existing product license assignments** \> **Next**.
+4. In the **Product licenses** pane, switch the toggle to the **Off** position for the license you want to remove from the user. For example, switching off Office 365 Enterprise E3 license will remove that license from the user and all of the services under that license.
 
-5. At the bottom of the **Replace existing products** pane, select the **Remove all product licenses from the selected users.** check box, then choose **Replace** \> **Close** \> **Close**.
+5. At the bottom of the **Product licenses** pane, choose **Save** \> **Close** \> **Close**.
+
+## Remove licenses from multiple users
 
 ::: moniker range="o365-worldwide"
 
@@ -104,6 +86,24 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 5. At the bottom of the **Replace existing products** pane, select the **Remove all product licenses from the selected users.** check box, then choose **Replace** \> **Close**.
 
 ::: moniker-end
+
+::: moniker range="o365-worldwide"
+### Use the old admin center to remove licenses from multiple users
+::: moniker-end
+  
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+2. Select the boxes next to the names of the users from whom you want to remove all licenses.
+
+3. In the **Bulk actions** pane, choose **Edit product licenses**.
+
+4. In the **Replace existing products** pane, choose **Replace existing product license assignments** \> **Next**.
+
+5. At the bottom of the **Replace existing products** pane, select the **Remove all product licenses from the selected users.** check box, then choose **Replace** \> **Close** \> **Close**.
 
 ## What you need to know about removing licenses from users
 

@@ -39,6 +39,26 @@ After purchasing a new subscription, you'll need to assign the users who you wan
 ## Buy another subscription
 
 ::: moniker range="o365-worldwide"
+
+### Use the admin center (preview) to buy another subscription
+
+The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=868433" target="_blank">Purchase services</a> page.
+
+2. On the **Purchase services** page, choose the subscription that you want to buy, then choose **Buy**.
+
+3. Enter the number of licenses that you need, and choose whether to pay each month or for the whole year. Choose whether you want to automatically assign licenses to everyone who does not currently have a license. Then choose **Check out now**.
+
+4. Your cart opens. If your cart disappears from the screen, choose **Cart** to reopen it, review the order and then choose **Check Out**.
+
+5. Review the pricing information and choose **Next**.
+
+6. Provide your payment information, and then choose **Place order** \> **Go to Admin Home**.
+
+::: moniker-end
+
+::: moniker range="o365-worldwide"
 ### Use the old admin center to buy another subscription
 ::: moniker-end
 
@@ -67,26 +87,6 @@ After purchasing a new subscription, you'll need to assign the users who you wan
 7. Provide your payment information, and then choose **Place order**.
 
 8. On the confirmation page, choose **Go to Admin Home**.
-
-::: moniker range="o365-worldwide"
-
-### Use the admin center (preview) to buy another subscription
-
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
-
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=868433" target="_blank">Purchase services</a> page.
-
-2. On the **Purchase services** page, choose the subscription that you want to buy, then choose **Buy**.
-
-3. Enter the number of licenses that you need, and choose whether to pay each month or for the whole year. Choose whether you want to automatically assign licenses to everyone who does not currently have a license. Then choose **Check out now**.
-
-4. Your cart opens. If your cart disappears from the screen, choose **Cart** to reopen it, review the order and then choose **Check Out**.
-
-5. Review the pricing information and choose **Next**.
-
-6. Provide your payment information, and then choose **Place order** \> **Go to Admin Home**.
-
-::: moniker-end
 
 ## Related topics
 

@@ -37,6 +37,18 @@ If you're an admin, you can verify which subscriptions your organization has by 
  **Not an admin?** See [What Office 365 business product or license do I have?](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd.aspx)
 
 ::: moniker range="o365-worldwide"
+
+## Use the admin center (preview) to determine what subscriptions you have
+
+The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
+
+2. Your subscriptions are displayed on the **Products & services** page, together with the subscription name, information about the subscription, and its status. To see a condensed view, choose **Table view**.
+
+::: moniker-end
+
+::: moniker range="o365-worldwide"
 ## Use the old admin center to determine what subscriptions you have
 ::: moniker-end
   
@@ -58,18 +70,6 @@ If you're an admin, you can verify which subscriptions your organization has by 
   
     > [!NOTE]
     > If you have subscriptions that have expired or have been disabled, they'll be listed based on their current state.
-
-::: moniker range="o365-worldwide"
-
-## Use the admin center (preview) to determine what subscriptions you have
-
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
-
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
-
-2. Your subscriptions are displayed on the **Products & services** page, together with the subscription name, information about the subscription, and its status. To see a condensed view, choose **Table view**.
-
-::: moniker-end
 
 ## Related topics
   
