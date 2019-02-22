@@ -7,7 +7,7 @@ Customer Lockbox ensures that no one at Microsoft can access customer content to
 
 Occasionally, Microsoft engineers are involved during the support process to troubleshoot and fix customer reported issues. In most cases, issues are fixed through extensive telemetry and debugging tools that Microsoft has in place for its services. However, there may be cases that require a Microsoft engineer to access customer content to determine the root cause and fix the issue. Customer Lockbox requires the engineer to request access from the customer as a final step in the approval workflow. This gives organizations the option to approve or deny these requests, which gives them direct control of whether or not a Microsoft engineer can access their data.
 
-### Customer Lockbox request overview video
+### Customer Lockbox overview video
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/8fecf10b-1f03-4849-8b67-76d3d2a43f26?autoplay=false]
 
