@@ -1,6 +1,7 @@
 # Customer Lockbox in Office 365
 
-This article provides deployment and configuration guidance for a feature that is currently available only for organizations that have a Microsoft 365 E5 or Office 365 E5 subscription, or that have an Information Protection and Compliance or Advanced Compliance add-on subscription.
+> [!NOTE]
+> This article provides deployment and configuration guidance for a feature that is currently available only for organizations that have a Microsoft 365 E5 or Office 365 E5 subscription, or that have an Information Protection and Compliance or Advanced Compliance add-on subscription.
 
 Customer Lockbox ensures that no one at Microsoft can access customer content to perform a service operation without the customer’s explicit approval. Customer Lockbox brings the customer into the approval workflow for requests to access their content.
 
@@ -15,7 +16,7 @@ Occasionally, Microsoft engineers are involved during the support process to tro
 
 ## Customer Lockbox workflow
 
-The following outlines the typical workflow when a Customer Lockbox request is initiated by a Microsoft engineer:
+The following steps outline the typical workflow when a Customer Lockbox request is initiated by a Microsoft engineer:
 
 1. Someone at an organization has an issue with their Office 365 mailbox.
 
