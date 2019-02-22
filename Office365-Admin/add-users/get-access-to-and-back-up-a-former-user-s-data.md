@@ -60,6 +60,8 @@ To save the content, here's what you do:
     > You can move up to 500 MB of files and folders at a time.
     > When you use Move to with documents that have version history, only the latest version is moved. To move earlier versions, you need to restore and move each one. 
     
+6. To revoke your permission from a user's OneDrive, you need to go to User Profiles on SharePoint Admin Center and remove yourself from the user's SharePoint Site Collection Owners.
+    
 ## Part 2 - Get access to the Outlook information of the former employee
 
 
