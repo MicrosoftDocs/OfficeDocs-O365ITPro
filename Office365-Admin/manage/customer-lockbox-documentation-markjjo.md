@@ -7,7 +7,7 @@ Customer Lockbox ensures that no one at Microsoft can access customer content to
 
 Occasionally, Microsoft engineers are involved during the support process to troubleshoot and fix customer reported issues. In most cases, issues are fixed through extensive telemetry and debugging tools that Microsoft has in place for its services. However, there may be cases that require a Microsoft engineer to access customer content to determine the root cause and fix the issue. Customer Lockbox requires the engineer to request access from the customer as a final step in the approval workflow. This gives organizations the option to approve or deny these requests, which gives them direct control of whether or not a Microsoft engineer can access their data.
 
-**Customer Lockbox request overview video**
+### Customer Lockbox request overview video
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/8fecf10b-1f03-4849-8b67-76d3d2a43f26?autoplay=false]
 
@@ -30,15 +30,15 @@ The following steps outline the typical workflow when a Customer Lockbox request
 
     ![Example of a Customer Lockbox email notification](../media/CustomerLockbox1.png)
 
-  > [!NOTE]
-> Anyone who is assigned the [Customer Lockbox access approver](../add-users/about-admin-roles.md) admin role in Microsoft 365 admin center can approve Customer Lockbox requests.
+   > [!NOTE]
+   > Anyone who is assigned the [Customer Lockbox access approver](../add-users/about-admin-roles.md) admin role in Microsoft 365 admin center can approve Customer Lockbox requests.
 
 7. The approver signs in to the Microsoft 365 admin center and approves the request. Note that this step triggers the creation of an audit record that can be retrieved by searching the Office 365 audit log. For more information, see the [Auditing Customer Lockbox requests](#auditing-customer-lockbox-requests) section.
 
-  If the customer rejects the request or the request isn’t approved within 12 hours (at which time the request expires), no access is granted to the Microsoft engineer.
+   If the customer rejects the request or the request isn’t approved within 12 hours (at which time the request expires), no access is granted to the Microsoft engineer.
 
-  > [!IMPORTANT]
-> We don't include any links in the Customer Lockbox email notification that requires you to sign in to Office 365.
+   > [!IMPORTANT]
+   > We don't include any links in the Customer Lockbox email notification that requires you to sign in to Office 365.
 
 8. After the customer approves the request, the Microsoft engineer receives the approval message, logs into Exchange Online, and fixes the customer's issue. Microsoft engineers have the requested duration to fix the issue after which the access is automatically revoked. 
  
