@@ -35,57 +35,10 @@ This guidance applies to other providers, such as Intune and Office 365, which a
 > Only passwords for user accounts that are not synchronized through directory synchronization can be configured to not expire. For more information about directory synchronization, see [Connect AD with Azure AD](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
 >
 
-> [!TIP]
-> All these cmdlets requires the download and install of this AzureAD module into your local computer.
-> To do this you can run powershell in an elevated console. (Click on windows/Type "Powershell" right click and "run as administrator")
-> Finally run: 
->  ``` 
->  Install-Module AzureAD
-> ```
-
-
->
-
-## Preliminary steps
-Before running any of the below scripts are required two steps:
-1. Make sure the AzureAD Powershell Module is present
-2. Update it or install it 
-3. Connect to the AzureAD
-
-
-Now let's go over all of those steps
-
-###  1. Make sure the AzureAD Powershell Module is present
-In orden to do this steps you will open a powershell Console as administrator, look for the AzureAD module by running:
-
-`Get-Module -ListAvailable | where{ $_.Name -eq "AzureAD"`}
-
-This cmdlet will search inside all the available modules and will search for the one that contains a name of "AzureAD".
-
-### 2. Update it or install it 
-If not, you can **install it**.
-```
-Install-Module AzureAD
-```
-And you will get this:
-
-![Image](../media/InstallingAzureADModule.png)
-
-If yes, you can **update it**, 
-```
-Install-Module AzureAD -Force
-```
 
 
 
-## 3. Connect to the AzureAD
-To do this last previous step, on the Powershell Console run the following cmdlet:
 
-```
-Connect-AzureAD
-```
-
-And login with an Office 365 Global Administrator account.
 
 ## Password Policies management by using PowerShell
 
@@ -93,7 +46,7 @@ And login with an Office 365 Global Administrator account.
 
 * Run one of the following commands:
 
-   * To see if a single user’s password is set to never expire, run the following cmdlet by using the UPN (for example, *aprilr@contoso.onmicrosoft.com*) or the user ID of the user you want to check:
+   * To see if a single user’s password is set to never expire, run the following cmdlet by using the UPN (for example, *user@contoso.onmicrosoft.com*) or the user ID of the user you want to check:
 ```
 Get-AzureADUser -ObjectId <user id or UPN> | Select-Object UserprincipalName,@{
     N="PasswordNeverExpires";E={$_.PasswordPolicies -contains "DisablePasswordExpiration"}
