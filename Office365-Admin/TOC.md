@@ -77,7 +77,7 @@
 ### [Upgrade distribution lists](manage/upgrade-distribution-lists.md)
 ### [Share sites with external users](manage/share-sites-with-external-users.md)
 ### [Share calendars with external users](manage/share-calendars-with-external-users.md)
-### [Customer Lockbox Requests](manage/customer-lockbox-requests.md)
+### [Customer Lockbox requests](manage/customer-lockbox-requests.md)
 ## [Subscriptions and billing](subscriptions-and-billing/subscriptions-and-billing.md)
 ### [Sign up for an Office 365 trial subscription](subscriptions-and-billing/sign-up-for-office-365-trial.md)
 ### [Extend your trial](subscriptions-and-billing/extend-your-trial.md)
