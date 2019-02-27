@@ -1,5 +1,5 @@
 ---
-title: "What is Help?"
+title: "What are the many ways Help is available in the Microsoft 365 admin center?"
 ms.author: dianef
 manager: mnirkhe
 ms.audience: Admin
@@ -18,13 +18,14 @@ search.appverid:
 - GEA150
 
 ROBOTS: NOINDEX
-description: "Learn what type of help we provide for the admin center."
+description: "Learn about all the ways you can get help using the Microsoft  365 admin center."
 ---
-<!-- The following is just placeholder text from Madhura's mail. We need to add images/examples of each -->
 
-# What is Help?
+# What are the many ways Help is available in the Microsoft 365 admin center?
 
-We've included tips and help throughout the admin center so you can find the information you need. This article explains what help is available 
+Sometimes you'll need to do something in the admin center but you aren't sure how to get it done.  We've got your back!  Help is available in the Microsoft 365 admin center at various points and in different ways for just these situations.  
+
+For example, if you need help understanding some text, there are tooltips and help bubbles. And if you want more information about something, there are links to articles. If you aren't sure how to get something done or where to start, click the “Need Help” button in the lower right corner of the admin center and enter a query. You'll get self-help in the form of intelligent insights based on what has helped other customers who've entered the a similar query.  Or, if your prefer,you can use our virtual assistant and engage in a conversational chat to get help. 
 
 
 
@@ -50,15 +51,19 @@ In this example, the GDPR Toolbox in the Office 365 Security & Compliance Center
 ![Toolboxes](../media/what-is-help/toolboxesexample.png)
 
 
-## M365 "Need Help" pane
-Clicking the "Need Help" button in the Microsoft 365 admin center opens a search box where you can describe a issue you're having or search for help articles.
+## Microsft 365 "Need Help" pane
+Clicking the "Need Help" button in the Microsoft 365 admin center opens a search box where you can insert a query.
 
 In this example, we searched for *verify my domain*. 
-The help pane returned an Insight card and a few articles we think will help you.
+The help pane returned an Insight card and a few articles we think will help you.  The insight is powered by Machine Learning that helps us surface a solution that has been helpful to other admins who have entered similar queries. 
 
 ![Need help](../media/what-is-help/helppane.png)
 
-Or, you can use the O365 Assistant. Just click the toggle at the top of the "Need Help" pane to turn it on. Enter your query and we'll help get you to the right answer to your question.   
+Or, you can use the O365 Assistant. Just click the toggle at the top of the "Need Help" pane to turn it on. 
+
+The O365 Assistant is a chatbot that provides a conversational interface for getting help. Enter your query and the chatbot will ask clarifying questions to get you to the right answer for your specific situation.  Think of it as your virtual helper to discover solutions and complete tasks. 
+
+For example, if I enter "reset password" the chatbot asks me questions about whether I want to reset my own password or someone else's.    
 
 ![Chatbot](../media/what-is-help/chatbot.png)
 
