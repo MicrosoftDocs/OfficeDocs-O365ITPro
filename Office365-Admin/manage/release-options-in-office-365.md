@@ -46,7 +46,7 @@ Any new release is first tested and validated by the feature team, then by the e
 For significant updates, Office customers are initially notified by the [Microsoft 365 Roadmap](https://products.office.com/business/office-365-roadmap). As an update gets closer to rolling out, it is communicated through your [Office 365 Message Center](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter).
 
 > [!NOTE]
-> You need an Office 365 or Azure AD account to access your Message Center through the [Office 365 Admin Center](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center). Office 365 home plan users do not have an admin center.
+> You need an Office 365 or Azure AD account to access your Message Center through the [Admin Center](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center). Office 365 home plan users do not have an admin center.
 
 
 ## Standard release

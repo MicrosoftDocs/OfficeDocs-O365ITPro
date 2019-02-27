@@ -37,7 +37,7 @@ One of the best ways to set up file storage and sharing for your business is to 
 Office 365 includes a basic team site for you to get started. You can immediately start storing files in OneDrive and collaborating on files in the team site.
 
 > [!NOTE]
-> The basic team site is still provided but is now hidden. It can only be accessed from the Office 365 admin center or the SharePoint Online admin center.
+> The basic team site is still provided but is now hidden. It can only be accessed from the Microsoft 365 admin center or the SharePoint Online admin center.
   
 ## Where you can store documents in Office 365
 
