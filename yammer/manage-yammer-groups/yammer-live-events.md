@@ -55,15 +55,17 @@ There are two ways live events can be produced. The requirements for using live 
 
 - You must have either a public Yammer Office 365 connected group, or a private Yammer Office 365 connected group that includes everyone who will be invited to the live event. For more information, see [Create a group in Yammer](https://support.office.com/en-us/article/create-a-group-in-yammer-b407af4f-9a58-4b12-b43e-afbb1b07c889) and [Manage a group in Yammer](https://support.office.com/en-us/article/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). The All Company group can’t be used for live events.
 
-## Requirements for live event participants
+## Requirements for live event attendees
 
-- Everyone who participates in a Yammer live event must have an Office 365 subscription that includes a license for Yammer (Office 365 A3, A5, F1, E1, E3, or E5).
+- Everyone who attends a Yammer live event must have an Office 365 subscription that includes a license for Yammer (Office 365 A3, A5, F1, E1, E3, or E5).
 
-- Everyone with a Yammer license can participate in live events in public groups. For live events in private groups, participants must be members of the private group in which the live event is hosted. 
+- Everyone with a Yammer license can attend live events in public groups. For live events in private groups, attendees must be members of the private group in which the live event is hosted. 
 
-## Permissions for creating live events in Yammer
+## Permissions for scheduling, creating, and producing live events in Yammer
 
-Who can create live events is controlled by Stream and Teams settings and licenses. No permissions are controlled in Yammer settings. The requirements depend on the production methods you plan to use.
+Who can create and produce live events is controlled by Stream and Teams settings and licenses. These permissions are not controlled in Yammer settings. The requirements depend on the production methods you plan to use.
+
+A Teams license is required to schedule a Yammer live event.
 
 - **Events produced in Teams**:
     The person who presents or produces the event must have a Teams license and specific policies set in Teams. For requirements, see [Who can create and schedule live events in Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#who-can-create-and-schedule-live-events). For steps to set policies, see [Set up live events policies](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-3-set-up-live-events-policies). 
