@@ -23,11 +23,13 @@ description: "Learn about all the ways you can get help using the Microsoft  365
 
 # What are the many ways Help is available in the Microsoft 365 admin center?
 
-Sometimes you'll need to do something in the admin center but you aren't sure how to get it done.  We've got your back!  Help is available in the Microsoft 365 admin center at various points and in different ways for just these situations.  
+We've tried to design the admin center so you can complete a task quickly. But despite our best efforts, sometimes it just isn't clear how to get something done. For those situations, we've got your back: we provide additional help and tips at various points in the admin center and in different ways.  
 
-For example, if you need help understanding some text, there are tooltips and help bubbles. And if you want more information about something, there are links to articles. If you aren't sure how to get something done or where to start, click the “Need Help” button in the lower right corner of the admin center and enter a query. You'll get self-help in the form of intelligent insights based on what has helped other customers who've entered the a similar query.  Or, if your prefer,you can use our virtual assistant and engage in a conversational chat to get help. 
+For example, if you need help understanding some text in the admin center, there are tooltips and help bubbles. Or if you want more information about what's on the page, there are links to articles. 
 
+If you aren't sure how to get something done or where to start, click the “Need Help” button in the lower right corner of the admin center and enter a query. You'll get self-help in the form of intelligent insights based on what has helped other customers who've entered the a similar query.  Or, if your prefer, you can use our virtual assistant and engage in a conversational chat to get help. 
 
+Here's more information about all the ways you can get help to complete a task quickly. 
 
 ## Help bubbles
 Help bubbles provide on-the-spot help if you encounter potentially unfamiliar concepts or need additional information about a setting (such as user impact or effect of different values). If needed, bubbles also include links to additional content.
