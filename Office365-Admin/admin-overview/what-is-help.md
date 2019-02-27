@@ -23,7 +23,7 @@ description: "Learn about all the ways you can get help using the Microsoft  365
 
 # What are the many ways Help is available in the Microsoft 365 admin center?
 
-We've tried to design the admin center so you can complete a task quickly. But despite our best efforts, sometimes it just isn't clear how to get something done. For those situations, we've got your back: we provide additional help and tips at various points in the admin center and in different ways.  
+We've tried to design the admin center so you can complete a task quickly. But despite our best efforts, sometimes it just isn't clear how to get something done. For those situations, we've got your back! We provide tips throughout the admin center, as well as a virtual assistant to answer your questions.  
 
 For example, if you need help understanding some text in the admin center, there are tooltips and help bubbles. Or if you want more information about what's on the page, there are links to articles. 
 
