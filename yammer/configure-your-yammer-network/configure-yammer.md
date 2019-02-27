@@ -108,5 +108,7 @@ The org chart was deprecated for Office 365 Yammer networks in May 2018. Office 
 <a name="RestrictApps"> </a>
 
 This feature gives users the option to translate messages from [any language supported by Microsoft Translator](https://www.microsoft.com/en-us/translator/languages.aspx) into the network's default language. To enable this feature, the network admin must accept a Terms and Services agreement in order to use Microsoft's proprietary translation technology. This feature is disabled by default. 
+
+When this is enabled, users will see a **Translate** option right under any message that has been posted in a language different than the language they have selected in **Preferences** in their Yammer settings.
   
 - On the **Configuration** page, in the **Enabled Features** section, select whether to allow **Message Translation**.
