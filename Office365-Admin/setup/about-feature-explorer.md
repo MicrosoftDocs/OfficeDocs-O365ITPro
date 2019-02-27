@@ -13,7 +13,7 @@ ms.collection:
 description: "Learn how the Feature explorer in Microsoft 365 helps admins discover, learn, and take action."
 ---
 
-# What is it?
+## What is it?
 
 Placeholder text.
     
