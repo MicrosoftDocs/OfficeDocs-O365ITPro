@@ -1,9 +1,10 @@
 ---
 title: "What is Help?"
 ms.author: dianef
+layout: LandingPage
 manager: mnirkhe
 ms.audience: Admin
-ms.topic: article
+ms.topic: landing-page
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
@@ -27,6 +28,65 @@ description: "Learn what type of help we provide for the admin center."
 We've included tips and help throughout the admin center so you can find the information you need. This article explains what help is available 
 
 
+<ul class="panelContent cardsW">
+    <li>
+        <a href=" ">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="../media/M365_WhatisHelp_IntegratedHelp.png" alt="Integrated help" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Integrated help</h3>
+                        <p>Short text description for link.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="  ">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="../media/M365_WhatisHelp_IntelligentAssistance.png" alt="Intelligent assistance" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Intelligent assistance</h3>
+                        <p>Short text description for link.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="  ">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="../media/M365_WhatisHelp_ArticlesGuides.png" alt="Guides and articles" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Guides and articles</h3>
+                        <p>Short text description for link.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+</ul>
 
 ## Help bubbles
 Help bubbles provide on-the-spot help if you encounter potentially unfamiliar concepts or need additional information about a setting (such as user impact or effect of different values). If needed, bubbles also include links to additional content.
