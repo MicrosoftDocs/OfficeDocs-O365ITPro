@@ -8,6 +8,8 @@ ms.topic: overview
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Core_O365Admin_Migration
+ms.collection: 
+- M365-subscription-management 
 search.appverid:
 - MET150
 - MOE150

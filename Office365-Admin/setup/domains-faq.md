@@ -94,7 +94,7 @@ There are two options for DNS management with Office 365:
  
 #### Disadvantages
 You have to set up the DNS records for Office 365 services yourself (unless you have a GoDaddy domain). 
--  If your current DNS host doesn't support all of the required record types for Office 365, some Office 365 features won't be available and you might need to switch to a different DNS host. Learn about the [potential service limitations](https://support.office.com/article/7ae9a655-041d-4724-aa92-60392ee390c2.aspx).   
+-  If your current DNS host doesn't support all of the required record types for Office 365, some Office 365 features won't be available and you might need to switch to a different DNS host. 
 - When Office 365 changes requirements for DNS records, or adds new services, you have to make updates yourself at your DNS host. 
    
 ## What is a domain name?

@@ -1,9 +1,8 @@
 ---
 title: "Try or buy a Microsoft 365 subscription"
 ms.author: anfowler
-author: anfowler
+author: adefowler
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
