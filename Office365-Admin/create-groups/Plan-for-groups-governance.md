@@ -103,7 +103,7 @@ Office 365 Groups has a rich set of tools to implement any governance capabiliti
 - [Upgrade traditional collaboration tools](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#upgrade-traditional-collaboration-tools)
 - [Groups reporting](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#groups-reporting)
 
-### Control who can create Office 365 Groups
+### <a name="control-who-can-create-office-365-groups"></a>Control who can create Office 365 Groups
 Groups can be created by end-users from multiple end-points including Outlook, SharePoint, Microsoft Teams, and other environments. 
 
 ![image desc](../media/04.png)
@@ -138,7 +138,7 @@ Your organization might have specific requirements to implement strict controls 
 - [How to change the default setting of Office 365 Groups for Outlook, to public or private](https://support.office.com/article/office-365-groups-in-outlook-private-by-default-36236e39-26d3-420b-b0ac-8072d2d2bedc)
 - [Syncing Security Groups with team membership ](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Syncing-Security-Groups-with-team-membership/ba-p/241959)
 
-### Group soft delete and restore
+### <a name="group-soft-delete-and-restore"></a>Group soft delete and restore
 If you've deleted an Office 365 group, by default it's retained for 30 days. This 30-day period is called "soft-delete" because you can still restore the group. After 30 days, the group and associated content is permanently deleted and cannot be restored.
 
 > [!Tip]
@@ -159,7 +159,7 @@ If you've deleted an Office 365 group, by default it's retained for 30 days. Thi
 - [Restore a deleted Office 365 group in Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-restore-deleted)
 - [Delete groups using the Remove-UnifiedGroup cmdlet](https://technet.microsoft.com/en-us/library/mt238270%28v=exchg.160%29.aspx) 
 
-### Group naming policy
+### <a name="group-naming-policy"></a>Group naming policy
 A naming policy can help you and your users identify the function of the group, membership, geographic region, or who created the group. The naming policy can also help categorize groups in the address book. You can use the policy to block specific words from being used in group names and aliases.
 
 > [!Tip]
@@ -182,7 +182,7 @@ A naming policy can help you and your users identify the function of the group, 
 - [Enforce a naming policy for Office 365 groups in Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=868340)  
 - [Azure Active Directory cmdlets for configuring group settings](https://go.microsoft.com/fwlink/?linkid=868341)  
 
-### Group expiration policy
+### <a name="group-expiration-policy"></a>Group expiration policy
 Administrators can specify an expiration period and any group that reaches the end of that period, and is not renewed, will be deleted. The expiration period begins when the group is created, or on the date it was last renewed. Group owners will automatically be sent an email before the expiration that allows them to renew the group for another expiration interval.
 
 Once you set a group to expire:
@@ -210,7 +210,7 @@ Once you set a group to expire:
 - [Office 365 Group Expiration Policy](https://support.office.com/article/Office-365-Group-Expiration-Policy-8d253fe5-0e09-4b3c-8b5e-f48def064733?ui=en-US&rs=en-US&ad=US)
 - [Configure the expiration policy for Office 365 groups](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-lifecycle)
 
-### Group guest access
+### <a name="group-guest-access"></a>Group guest access
 Admins can control whether to allow guest access to Office 365 Groups for their whole organization or for individual Office 365 groups. They can also control who can allow guests to be added to groups.
 >[!Tip]
 >- Enable guest access at the tenant level. If needed, block for specific groups.
@@ -232,7 +232,7 @@ Admins can control whether to allow guest access to Office 365 Groups for their 
 - [Google Federation  ](https://docs.microsoft.com/azure/active-directory/b2b/google-federation)
 - [Authorize guest access in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/teams-dependencies)
 
-### Group policies & information protection
+### <a name="group-policies--information-protection"></a>Group policies & information protection
 Office 365 groups is built on the advanced security and compliance capabilities of Office 365 and supports classifications, auditing and reporting, compliance content search, e-discovery, Legal Hold, and retention policies.
 >[!Tip]
 >- Configure classification, usage guidelines, and labels aligned with your organization's needs.
@@ -259,7 +259,7 @@ Office 365 groups is built on the advanced security and compliance capabilities 
 - [Run a Content Search in the Office 365 Security & Compliance Center](https://docs.microsoft.com/Office365/SecurityCompliance/content-search)
 - [Bulk create and publish retention labels by using PowerShell](https://docs.microsoft.com/en-us/office365/securitycompliance/bulk-create-publish-labels-using-powershell)
 
-### Upgrade traditional collaboration tools 
+### <a name="upgrade-traditional-collaboration-tools"></a>Upgrade traditional collaboration tools 
 For years organizations have relied on distribution groups to communicate and collaborate with groups of people both inside and outside the company. Now, however, Office 365 Groups in Outlook offer a more powerful solution for collaboration. In addition, being able to connect an Office 365 group to an existing SharePoint site is important if you want to modernize that site.
 
 >[!Tip]
@@ -281,7 +281,7 @@ For years organizations have relied on distribution groups to communicate and co
 - [Analyze and use the scanner data](https://docs.microsoft.com/en-us/sharepoint/dev/transform/modernize-connect-to-office365-group-scanner)
 - [SharePoint Modernization Scanner](https://github.com/SharePoint/sp-dev-modernization/tree/master/Tools/SharePoint.Modernization) (a tool located on GitHub)
 
-### Groups reporting
+### <a name="groups-reporting"></a>Groups reporting
 The Office 365 Reports dashboard shows you the activity overview across the Office 365 products in your organization. It enables you to drill in to individual product level reports to give you more granular insight about the activities within each product. 
 > [!TIP]
 >- You can use the Groups activity reports to gain insights into the activity of Office 365 Groups in your organization and see how many Office 365 Groups are being created and used.
