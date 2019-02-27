@@ -23,7 +23,7 @@ description: "Learn about all the ways you can get help using the Microsoft  365
 
 # What are the many ways Help is available in the Microsoft 365 admin center?
 
-We've tried to design the admin center so you can complete a task quickly. But despite our best efforts, sometimes it just isn't clear how to get something done. For those situations, we've got your back! We provide tips throughout the admin center, as well as a virtual assistant to answer your questions.  
+We've tried to design the admin center so you can complete a task quickly. But sometimes it just isn't clear how to get something done. For those situations, we've got your back! We provide tips throughout the admin center, as well as a virtual assistant to answer your questions.  
 
 For example, if you need help understanding some text in the admin center, there are tooltips and help bubbles. Or if you want more information about what's on the page, there are links to articles. 
 
@@ -31,7 +31,7 @@ If you aren't sure how to get something done or where to start, click the “Nee
 
 Here's more information about all the ways you can get help to complete a task quickly. 
 
-## Help bubbles
+## Integrated help
 Help bubbles provide on-the-spot help if you encounter potentially unfamiliar concepts or need additional information about a setting (such as user impact or effect of different values). If needed, bubbles also include links to additional content.
 
 In this example, a help bubble is used in the New Group wizard to provide detailed information about each of type of group so you can decide which one best suits your needs. 
@@ -44,16 +44,7 @@ In this example, as you complete a recommendation to set up sensitivity labels, 
 ![CSH](../media/what-is-help/cshexample.png)
 
 
-
-## Toolboxes
-Toolboxes provide an aggregated list of tasks related to managing a larger scenario. Each entry includes a description of the task and links directly to the in-app feature where that task is performed.
-
-In this example, the GDPR Toolbox in the Office 365 Security & Compliance Center provides links to features that will help you discover, govern, protect, and monitor the personal data in the organization (all common requirements for GDPR compliance).
-
-![Toolboxes](../media/what-is-help/toolboxesexample.png)
-
-
-## Microsft 365 "Need Help" pane
+## Modern self-help powered by AI
 Clicking the "Need Help" button in the Microsoft 365 admin center opens a search box where you can insert a query.
 
 In this example, we searched for *verify my domain*. 
@@ -61,7 +52,6 @@ The help pane returned an Insight card and a few articles we think will help you
 
 ![Need help](../media/what-is-help/helppane.png)
 
-## Chatbot: Your virtual assistant
 
 For those times when you don't quite know how to get something done in your specific situation, try out the O365 Assistant. Just click the toggle at the top of the "Need Help" pane to turn it on. 
 
@@ -70,4 +60,6 @@ The O365 Assistant provides a conversational interface for getting help. Enter y
 For example, if I enter "reset password" the chatbot asks me questions about whether I want to reset my own password or someone else's.    
 
 ![Chatbot](../media/what-is-help/chatbot.png)
+
+## Articles and guides
 
