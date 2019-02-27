@@ -1,8 +1,8 @@
 ---
 title: "Troubleshoot Remove an email alias from a user"
 ms.author: anfowler
-author: anfowler
-manager: scotv
+author: adefowler
+manager: mnirkhe
 ms.audience: Admin
 ms.topic: troubleshooting
 f1_keywords:

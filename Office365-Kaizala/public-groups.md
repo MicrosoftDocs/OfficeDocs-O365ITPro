@@ -26,7 +26,7 @@ Kaizala public groups allow enterprises to expose a single channel on Kaizala, w
 
 - **Admins**: Users that can accept or reject subscribers. Also, have the ability to add or remove members and manage the settings on Kaizala
 - **Members**: Users that have been added by administrators into a public group.
-- **Subscribers**:  Users that have searched and finded a public group and wants to be part of it. In some cases it needs the approval of the public group admin.
+- **Subscribers**:  Users that have searched and found a public group and wants to be part of it. In some cases it needs the approval of the public group admin.
 
 #Kaizala Demo Page
 
