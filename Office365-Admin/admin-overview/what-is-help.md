@@ -59,7 +59,9 @@ The help pane returned an Insight card and a few articles we think will help you
 
 ![Need help](../media/what-is-help/helppane.png)
 
-Or, you can use the O365 Assistant. Just click the toggle at the top of the "Need Help" pane to turn it on. 
+## Chatbot: A virtual assistant
+
+For those times when you don't quite know how to get something done in your specific situation, try out the O365 Assistant. Just click the toggle at the top of the "Need Help" pane to turn it on. 
 
 The O365 Assistant is a chatbot that provides a conversational interface for getting help. Enter your query and the chatbot will ask clarifying questions to get you to the right answer for your specific situation.  Think of it as your virtual helper to discover solutions and complete tasks. 
 
