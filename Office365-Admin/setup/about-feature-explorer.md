@@ -13,6 +13,10 @@ ms.collection:
 description: "Learn how the Feature explorer in Microsoft 365 helps admins discover, learn, and take action."
 ---
 
+# Discover, learn, and take action with Feature explorer
+
+Placeholder text.
+
 ## What is it?
 
 Placeholder text.
