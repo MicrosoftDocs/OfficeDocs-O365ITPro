@@ -94,6 +94,8 @@ Help is integrated throughout the admin center so it's there right when you need
 
 ![Help bubble](../media/what-is-help/manageroles.png)
 
+The above image shows there's help provided in three ways:  
+
 1. **Inline help text**. Static content that’s up front and is used to relay info that’s critical to the task at hand. For example, providing an overview of a feature or setting, explaining the user impact or outcome of a specific action, describing next steps, and more.
 2. **Links to articles**. Provide a quick pathway to official help content. Rather than interrupt your workflow by forcing you to hunt online for answers, links take you to contextual articles based on the page you're currently using. 
 3. **Tips**. Provide on-the-spot help if you encounter potentially unfamiliar concepts or need additional information about a setting (such as the effect of different values). If needed, tips also include links to additional content.
@@ -113,4 +115,3 @@ Or, for those times when you don't quite know how to get something done in your 
 
 Whether you're looking for comprehensive deployment guides, quick step-by-step procedures, or PowerShell cmdlets, we've got it all on the web. We update content on the web every day so you always have the latest information. Check out our articles and guides at the [Microsoft Docs](https://docs.microsoft.com/Office365/index?view=o365-worldwide) site.
 
-![Articles](../media/what-is-help/articles.png)
