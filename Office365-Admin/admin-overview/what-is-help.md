@@ -1,5 +1,5 @@
 ---
-title: "What are the many ways Help is available in the Microsoft 365 admin center?"
+title: "What are the many ways help is available in the Microsoft 365 admin center?"
 ms.author: dianef
 layout: LandingPage
 manager: mnirkhe
@@ -25,7 +25,7 @@ description: "Learn about all the ways you can get help using the Microsoft  365
 
 # What are the many ways Help is available in the Microsoft 365 admin center?
 
-We've tried to design the admin center so you can complete a task quickly. But sometimes it just isn't clear how to get something done. For those situations, we've got your back! We provide tips throughout the admin center, as well as a intelligent assistance to answer your questions.  
+We've tried to design the admin center so you can complete a task quickly. But, sometimes you may have difficulty in finding the right task, need help with a term or an acronym, need more context before embarking on a task flow, or simply may not be sure of the scope and impact of your actions as an admin.  To cover those situations, we provide modern help and intelligent assistance throughout the Microsoft 365 admin center in these ways:   
  
 
 
@@ -96,14 +96,14 @@ Help is integrated throughout the admin center so it's right there when you need
 
 The above image shows three types of help in the admin center:  
 
-1. **Inline help text**. Relays info critical to the task at hand. 
+1. **Inline help text**. Provides info critical to the task at hand. 
 2. **Link to article**. Provides a quick pathway to official documentation so you can learn more. 
-3. **Help bubble**. Provides on-the-spot help if you encounter potentially unfamiliar concepts or need additional information about a setting (such as the effect of different values). If needed, help bubbles also include links to additional content.
+3. **Help bubble and tooltips**. Provide on-the-spot help if you encounter potentially unfamiliar concepts or need additional information about a setting (such as the effect of different values). Some bubbles may also include links to additional content.
 
 ## Modern self-help powered by AI
 
 Clicking the "Need Help" button in the Microsoft 365 admin center opens our modern self-help experience powered by artificial intelligence. For example, if you search for *verify my domain* 
-you'll get the steps plus few articles we think will help you.  This is powered by machine learning that helps us surface a solution that has been helpful to other admins who have entered similar queries. 
+you'll get the steps plus few articles we think will help you.  We use machine learning to surface the closest solution that has been found to be of help to other admins who have entered similar queries. 
 
 Or, for those times when you don't quite know how to get something done in your specific situation, use the O365 Assistant. Just click the toggle at the top of the "Need Help" pane to turn it on. The O365 Assistant provides a conversational interface for getting help. Enter your query and the chatbot will ask clarifying questions to get you to the right answer for your specific situation.  Think of it as your virtual helper to discover solutions and complete tasks. 
 
@@ -113,5 +113,5 @@ Or, for those times when you don't quite know how to get something done in your 
 
 ## Guides and articles
 
-Whether you're looking for comprehensive deployment guides, quick step-by-step procedures, or PowerShell cmdlets, we've got it all on the web. We update content every day so you always have the latest information. Check out our articles and guides at the [Microsoft Docs](https://docs.microsoft.com/Office365/index?view=o365-worldwide) site.
+Additionally, if you're looking for comprehensive deployment guides, quick step-by-step procedures, or PowerShell cmdlets, look us up on the web. We update content frequently and try to provide you with the latest information. Check out our articles and guides at the [Microsoft 365 Documentation](https://docs.microsoft.com/microsoft-365/) site.
 
