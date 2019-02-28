@@ -25,7 +25,7 @@ description: "Learn about all the ways you can get help using the Microsoft  365
 
 # What are the many ways Help is available in the Microsoft 365 admin center?
 
-We've tried to design the admin center so you can complete a task quickly. But sometimes it just isn't clear how to get something done. For those situations, we've got your back! We provide tips throughout the admin center, as well as a virtual assistant to answer your questions.  
+We've tried to design the admin center so you can complete a task quickly. But sometimes it just isn't clear how to get something done. For those situations, we've got your back! We provide tips throughout the admin center, as well as a intelligent assistance to answer your questions.  
  
 
 
@@ -90,7 +90,7 @@ We've tried to design the admin center so you can complete a task quickly. But s
 </ul>
 
 ## Integrated help
-Help is integrated throughout the admin center so it's there right when you need it.
+Help is integrated throughout the admin center so it's right there when you need it.
 
 ![Integrated help](../media/what-is-help/manageroles.png)
 
