@@ -94,14 +94,14 @@ There are multiple places to have a conversation within Office 365. Understandin
 Office 365 Groups has a rich set of tools to implement any governance capabilities your organization might require. The following section describes the capabilities, recommends best practices, and provides guidance to ask the right questions to determine the requirements for governance, and how to meet them.
 
 **In this section**:
-- [Control who can create Office 365 Groups](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#control-who-can-create-office-365-groups)
-- [Group soft delete and restore](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#group-soft-delete-and-restore)
-- [Group naming policy](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#group-naming-policy)
-- [Group expiration policy](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#group-expiration-policy)
-- [Group guest access](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#group-guest-access)
-- [Group policies & information protection](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#group-policies--information-protection)
-- [Upgrade traditional collaboration tools](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#upgrade-traditional-collaboration-tools)
-- [Groups reporting](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#groups-reporting)
+- [Control who can create Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/plan-for-groups-governance#control-who-can-create-office-365-groups)
+- [Group soft delete and restore](https://docs.microsoft.com/office365/admin/create-groups/plan-for-groups-governance#group-soft-delete-and-restore)
+- [Group naming policy](https://docs.microsoft.com/office365/admin/create-groups/plan-for-groups-governance#group-naming-policy)
+- [Group expiration policy](https://docs.microsoft.com/office365/admin/create-groups/plan-for-groups-governance#group-expiration-policy)
+- [Group guest access](https://docs.microsoft.com/office365/admin/create-groups/plan-for-groups-governance#group-guest-access)
+- [Group policies & information protection](https://docs.microsoft.com/office365/admin/create-groups/plan-for-groups-governance#group-policies--information-protection)
+- [Upgrade traditional collaboration tools](https://docs.microsoft.com/office365/admin/create-groups/plan-for-groups-governance#upgrade-traditional-collaboration-tools)
+- [Groups reporting](https://docs.microsoft.com/office365/admin/create-groups/plan-for-groups-governance#groups-reporting)
 
 ### <a name="control-who-can-create-office-365-groups"></a>Control who can create Office 365 Groups
 Groups can be created by end-users from multiple end-points including Outlook, SharePoint, Microsoft Teams, and other environments. 
