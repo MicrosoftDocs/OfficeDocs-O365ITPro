@@ -98,7 +98,7 @@ The above image shows three types of help in the admin center:
 
 1. **Inline help text**. Relays info critical to the task at hand. 
 2. **Links to articles**. Provide a quick pathway to official documentation so you can learn more. 
-3. **Tips**. Provide on-the-spot help if you encounter potentially unfamiliar concepts or need additional information about a setting (such as the effect of different values). If needed, tips also include links to additional content.
+3. **Help bubbles**. Provide on-the-spot help if you encounter potentially unfamiliar concepts or need additional information about a setting (such as the effect of different values). If needed, help bubbles also include links to additional content.
 
 ## Modern self-help powered by AI
 
