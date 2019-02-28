@@ -60,6 +60,22 @@ To save the content, here's what you do:
     > You can move up to 500 MB of files and folders at a time.
     > When you use Move to with documents that have version history, only the latest version is moved. To move earlier versions, you need to restore and move each one. 
     
+## Removing Access
+
+1. Sign in to https://admin.microsoft.com as a global or SharePoint admin. (If you see a message that you don't have permission to access the page, you don't have Office 365 administrator permissions in your organization.)
+
+2. In the left pane, under Admin centers, select SharePoint.
+
+3. In the left pane, select user profiles.
+
+4. Under People, select Manage User Profiles.
+
+5. Enter the user's name and select Find.
+
+6. Right-click the user, and then select Manage site collection owners.
+
+7. Remove admins for the OneDrive, and then select OK.
+    
 ## Part 2 - Get access to the Outlook information of the former employee
 
 
