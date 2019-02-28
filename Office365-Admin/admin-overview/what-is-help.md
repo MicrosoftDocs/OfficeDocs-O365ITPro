@@ -23,7 +23,7 @@ description: "Learn about all the ways you can get help using the Microsoft  365
 ---
 <!-- The following is just placeholder text from Madhura's mail. We need to add images/examples of each -->
 
-# What are the many ways Help is available in the Microsoft 365 admin center?
+# What are the many ways help is available in the Microsoft 365 admin center?
 
 We've tried to design the admin center so you can complete a task quickly. But, sometimes you may have difficulty in finding the right task, need help with a term or an acronym, need more context before embarking on a task flow, or simply may not be sure of the scope and impact of your actions as an admin.  To cover those situations, we provide modern help and intelligent assistance throughout the Microsoft 365 admin center in these ways:   
  
@@ -35,15 +35,17 @@ We've tried to design the admin center so you can complete a task quickly. But, 
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="../media/what-is-help/M365_WhatisHelp_IntegratedHelp.png" alt="Integrated help" />
+                    <a href="what-is-help.md#integrated-help">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="../media/what-is-help/M365_WhatisHelp_IntegratedHelp.png" alt="Integrated help" />
+                            </div>
                         </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Integrated help</h3>
-                        <p><a href="what-is-help.md#integrated-help">Tips in the admin center</a></p>
-                    </div>
+                        <div class="cardText">
+                            <h3>Integrated help</h3>
+                            <p>Help in the admin center</p>
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>
@@ -54,15 +56,17 @@ We've tried to design the admin center so you can complete a task quickly. But, 
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="../media/what-is-help/M365_WhatisHelp_IntelligentAssistance.png" alt="Intelligent assistance" />
+                    <a href="what-is-help.md#modern-self-help-powered-by-ai">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="../media/what-is-help/M365_WhatisHelp_IntelligentAssistance.png" alt="Intelligent assistance" />
+                            </div>
                         </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Intelligent assistance</h3>
-                        <p><a href="what-is-help.md#modern-self-help-powered-by-ai">Self-help powered by AI</a></p>
-                    </div>
+                        <div class="cardText">
+                            <h3>Intelligent assistance</h3>
+                            <p>Self-help powered by AI</p>
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>
@@ -73,15 +77,17 @@ We've tried to design the admin center so you can complete a task quickly. But, 
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="../media/what-is-help/M365_WhatisHelp_ArticlesGuides.png" alt="Guides and articles" />
+                    <a href="what-is-help.md#guides-and-articles">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="../media/what-is-help/M365_WhatisHelp_ArticlesGuides.png" alt="Guides and articles" />
+                            </div>
                         </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Guides and articles</h3>
-                        <p><a href="what-is-help.md#guides-and-articles">Comprehensive content on the web</a></p>
-                    </div>
+                        <div class="cardText">
+                            <h3>Guides and articles</h3>
+                            <p>Comprehensive content on the web</p>
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>
@@ -109,7 +115,7 @@ Or, for those times when you don't quite know how to get something done in your 
 
 ![Modern self-help](../media/what-is-help/chatinsights.png)
  
-
+Of course, sometimes questions are best answered by humans. If the chatbot doesn't have the answer, we'll get you connected to our support engineers. 
 
 ## Guides and articles
 
