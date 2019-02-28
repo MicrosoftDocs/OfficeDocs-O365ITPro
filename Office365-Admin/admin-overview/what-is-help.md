@@ -92,9 +92,9 @@ We've tried to design the admin center so you can complete a task quickly. But s
 ## Integrated help
 Help is integrated throughout the admin center so it's there right when you need it.
 
-![Help bubble](../media/what-is-help/manageroles.png)
+![Integrated help](../media/what-is-help/manageroles.png)
 
-The above image shows there's help provided in three ways:  
+The above image shows three types of help in the admin center:  
 
 1. **Inline help text**. Static content that’s up front and is used to relay info that’s critical to the task at hand. For example, providing an overview of a feature or setting, explaining the user impact or outcome of a specific action, describing next steps, and more.
 2. **Links to articles**. Provide a quick pathway to official help content. Rather than interrupt your workflow by forcing you to hunt online for answers, links take you to contextual articles based on the page you're currently using. 
@@ -107,7 +107,7 @@ you'll get the steps plus few articles we think will help you.  This is powered 
 
 Or, for those times when you don't quite know how to get something done in your specific situation, use the O365 Assistant. Just click the toggle at the top of the "Need Help" pane to turn it on. The O365 Assistant provides a conversational interface for getting help. Enter your query and the chatbot will ask clarifying questions to get you to the right answer for your specific situation.  Think of it as your virtual helper to discover solutions and complete tasks. 
 
-![Need help](../media/what-is-help/chatinsights.png)
+![Modern self-help](../media/what-is-help/chatinsights.png)
  
 
 
