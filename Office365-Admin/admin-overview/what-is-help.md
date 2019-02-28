@@ -99,16 +99,14 @@ Help is integrated throughout the admin center so it's there right when you need
 3. **Tips**. Provide on-the-spot help if you encounter potentially unfamiliar concepts or need additional information about a setting (such as the effect of different values). If needed, tips also include links to additional content.
 
 ## Modern self-help powered by AI
-Clicking the "Need Help" button in the Microsoft 365 admin center opens a our modern self-help experience. For example, if you search for *verify my domain*. 
-The help pane returned an Insight card and a few articles we think will help you.  The insight is powered by Machine Learning that helps us surface a solution that has been helpful to other admins who have entered similar queries. 
+
+Clicking the "Need Help" button in the Microsoft 365 admin center opens our modern self-help experience powered by artificial intelligence. For example, if you search for *verify my domain* 
+you'll get the steps plus few articles we think will help you.  This is powered by machine learning that helps us surface a solution that has been helpful to other admins who have entered similar queries. 
+
+Or, for those times when you don't quite know how to get something done in your specific situation, use the O365 Assistant. Just click the toggle at the top of the "Need Help" pane to turn it on. The O365 Assistant provides a conversational interface for getting help. Enter your query and the chatbot will ask clarifying questions to get you to the right answer for your specific situation.  Think of it as your virtual helper to discover solutions and complete tasks. 
 
 ![Need help](../media/what-is-help/chatinsights.png)
-
-Or, for those times when you don't quite know how to get something done in your specific situation, use the O365 Assistant. Just click the toggle at the top of the "Need Help" pane to turn it on. 
-
-The O365 Assistant provides a conversational interface for getting help. Enter your query and the chatbot will ask clarifying questions to get you to the right answer for your specific situation.  Think of it as your virtual helper to discover solutions and complete tasks. 
-
-For example, if I enter "reset password" the chatbot asks me questions about whether I want to reset my own password or someone else's.    
+ 
 
 
 ## Guides and articles
