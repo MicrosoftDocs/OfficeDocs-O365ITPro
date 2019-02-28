@@ -94,14 +94,14 @@ There are multiple places to have a conversation within Office 365. Understandin
 Office 365 Groups has a rich set of tools to implement any governance capabilities your organization might require. The following section describes the capabilities, recommends best practices, and provides guidance to ask the right questions to determine the requirements for governance, and how to meet them.
 
 **In this section**:
-- [Control who can create Office 365 Groups](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#control-who-can-create-office-365-groups)
-- [Group soft delete and restore](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#group-soft-delete-and-restore)
-- [Group naming policy](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#group-naming-policy)
-- [Group expiration policy](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#group-expiration-policy)
-- [Group guest access](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#group-guest-access)
-- [Group policies & information protection](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#group-policies--information-protection)
-- [Upgrade traditional collaboration tools](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#upgrade-traditional-collaboration-tools)
-- [Groups reporting](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#groups-reporting)
+- [Control who can create Office 365 Groups](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#control-who-can-create-office-365-groups)
+- [Group soft delete and restore](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#group-soft-delete-and-restore)
+- [Group naming policy](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#group-naming-policy)
+- [Group expiration policy](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#group-expiration-policy)
+- [Group guest access](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#group-guest-access)
+- [Group policies & information protection](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#group-policies--information-protection)
+- [Upgrade traditional collaboration tools](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#upgrade-traditional-collaboration-tools)
+- [Groups reporting](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#groups-reporting)
 
 ### <a name="control-who-can-create-office-365-groups"></a>Control who can create Office 365 Groups
 Groups can be created by end-users from multiple end-points including Outlook, SharePoint, Microsoft Teams, and other environments. 
@@ -268,7 +268,7 @@ For years organizations have relied on distribution groups to communicate and co
 
 |         |         |         |
 |---------|---------|---------|
-|![image desc](../media/decision_point.png)|Decision points|<ul><li>Does your organization have distribution lists that are [not eligible](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists?view=o365-worldwide#how-do-i-check-which-dls-are-eligible-for-upgrade) for upgrade?<li>Determine which type of group is the distribution list best migrated to?</li></ul>|
+|![image desc](../media/decision_point.png)|Decision points|<ul><li>Does your organization have distribution lists that are [not eligible](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists#how-do-i-check-which-dls-are-eligible-for-upgrade) for upgrade?<li>Determine which type of group is the distribution list best migrated to?</li></ul>|
 |![image desc](../media/next_steps.png)|Next steps|<ul><li>Identify which distribution lists would be candidates for upgrading to Office 365 Groups.</li><li>Analyze your existing SharePoint team sites to see which sites are ready to be group-connected.</li><li>Let other teams in your company know that you upgraded your distribution group and what steps you took to make it successful!</li></ul>|
 
 
@@ -311,9 +311,9 @@ The Office 365 Reports dashboard shows you the activity overview across the Offi
 Office 365 Groups provides a rich set of governance capabilities your organization might require. Consider the following organization profiles as guidance to understand best practices, ask the right questions to determine the requirements for governance, and how to meet them.
 
 **Consider the following organization profiles:**
-- [Small Business](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#small-business)
-- [Medium-sized Business](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#medium-sized-business)
-- [Regulated or Enterprise](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance?view=o365-worldwide#regulated-or-enterprise)
+- [Small Business](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#small-business)
+- [Medium-sized Business](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#medium-sized-business)
+- [Regulated or Enterprise](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#regulated-or-enterprise)
 
 
 ### Small business	
