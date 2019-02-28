@@ -1,9 +1,10 @@
 ---
-title: "What is Help?"
+title: "What are the many ways help is available in the Microsoft 365 admin center?"
 ms.author: dianef
+layout: LandingPage
 manager: mnirkhe
 ms.audience: Admin
-ms.topic: article
+ms.topic: landing-page
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
@@ -18,47 +19,105 @@ search.appverid:
 - GEA150
 
 ROBOTS: NOINDEX
-description: "Learn what type of help we provide for the admin center."
+description: "Learn about all the ways you can get help using the Microsoft  365 admin center."
 ---
 <!-- The following is just placeholder text from Madhura's mail. We need to add images/examples of each -->
 
-# What is Help?
+# What are the many ways help is available in the Microsoft 365 admin center?
 
-We've included tips and help throughout the admin center so you can find the information you need. This article explains what help is available 
-
-
-
-## Help bubbles
-Help bubbles provide on-the-spot help if you encounter potentially unfamiliar concepts or need additional information about a setting (such as user impact or effect of different values). If needed, bubbles also include links to additional content.
-
-In this example, a help bubble is used in the New Group wizard to provide detailed information about each of type of group so you can decide which one best suits your needs. 
-![Help bubble](../media/what-is-help/helpbubble.png)
-
-## Links to documentation
-Links provide a quick pathway to official help content. Rather than interrupt your workflow by forcing you to hunt online for answers, links take you to articles based on the page you're currently using. You can discover more about a feature or the learn about the ramifications of a specific setting.
-
-In this example, as you complete a recommendation to set up sensitivity labels, the link “Show me where these labels appear” takes you to [this document](https://go.microsoft.com/fwlink/?linkid=2005245) so you can learn where the labels will appear to your users.
-![CSH](../media/what-is-help/cshexample.png)
+We've tried to design the admin center so you can complete a task quickly. But, sometimes you may have difficulty finding the right task, need help with a term or an acronym, need more context before embarking on a task flow, or simply may not be sure of the scope and impact of your actions as an admin.  To cover those situations, we provide modern help and intelligent assistance throughout the Microsoft 365 admin center in these ways:   
+ 
 
 
+<ul class="panelContent cardsW">
+    <li>
+        <a href=" ">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <a href="what-is-help.md#integrated-help">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="../media/what-is-help/M365_WhatisHelp_IntegratedHelp.png" alt="Integrated help" />
+                            </div>
+                        </div>
+                        <div class="cardText">
+                            <h3>Integrated help</h3>
+                            <p>Help in the admin center</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="  ">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <a href="what-is-help.md#modern-self-help-powered-by-ai">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="../media/what-is-help/M365_WhatisHelp_IntelligentAssistance.png" alt="Intelligent assistance" />
+                            </div>
+                        </div>
+                        <div class="cardText">
+                            <h3>Intelligent assistance</h3>
+                            <p>Self-help powered by AI</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="  ">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <a href="what-is-help.md#guides-and-articles">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="../media/what-is-help/M365_WhatisHelp_ArticlesGuides.png" alt="Guides and articles" />
+                            </div>
+                        </div>
+                        <div class="cardText">
+                            <h3>Guides and articles</h3>
+                            <p>Comprehensive content on the web</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+</ul>
 
-## Toolboxes
-Toolboxes provide an aggregated list of tasks related to managing a larger scenario. Each entry includes a description of the task and links directly to the in-app feature where that task is performed.
+## Integrated help
+Help is integrated throughout the admin center so it's right there when you need it.
 
-In this example, the GDPR Toolbox in the Office 365 Security & Compliance Center provides links to features that will help you discover, govern, protect, and monitor the personal data in the organization (all common requirements for GDPR compliance).
+![Integrated help](../media/what-is-help/manageroles.png)
 
-![Toolboxes](../media/what-is-help/toolboxesexample.png)
+The above image shows three types of help in the admin center:  
 
+1. **Inline help text**. Provides info critical to the task at hand. 
+2. **Link to article**. Provides a quick pathway to official documentation so you can learn more. 
+3. **Help bubble**. Provides on-the-spot help if you encounter potentially unfamiliar concepts or need additional information about a setting (such as the effect of different values). Some bubbles may also include links to additional content.
 
-## M365 "Need Help" pane
-Clicking the "Need Help" button in the Microsoft 365 admin center opens a search box where you can describe a issue you're having or search for help articles.
+## Modern self-help powered by AI
 
-In this example, we searched for *verify my domain*. 
-The help pane returned an Insight card and a few articles we think will help you.
+Clicking the "Need Help" button in the Microsoft 365 admin center opens our modern self-help experience powered by artificial intelligence. For example, if you search for *verify my domain* 
+you'll get the steps plus few articles we think will help you.  We use machine learning to surface the closest solution that has been found to be of help to other admins who have entered similar queries. 
 
-![Need help](../media/what-is-help/helppane.png)
+Or, for those times when you don't quite know how to get something done in your specific situation, use the O365 Assistant. Just click the toggle at the top of the "Need Help" pane to turn it on. The O365 Assistant provides a conversational interface for getting help. Enter your query and the chatbot will ask clarifying questions to get you to the right answer for your specific situation.  Think of it as your virtual helper to discover solutions and complete tasks. 
 
-Or, you can use the O365 Assistant. Just click the toggle at the top of the "Need Help" pane to turn it on. Enter your query and we'll help get you to the right answer to your question.   
+![Modern self-help](../media/what-is-help/chatinsights.png)
+ 
+Of course, sometimes questions are best answered by humans. If our modern self-help doesn't have the answer, you always have the option to contact our support agents. 
 
-![Chatbot](../media/what-is-help/chatbot.png)
+## Guides and articles
+
+Additionally, if you're looking for comprehensive deployment guides, quick step-by-step procedures, or PowerShell cmdlets, look us up on the web. We update content frequently and try to provide you with the latest information. Check out our articles and guides at the [Microsoft 365 Documentation](https://docs.microsoft.com/microsoft-365/) site.
 
