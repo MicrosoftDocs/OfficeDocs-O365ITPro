@@ -113,6 +113,6 @@ For example, if I enter "reset password" the chatbot asks me questions about whe
 
 ## Guides and articles
 
-Whether you're looking for comprehensive deployment guides, quick step-by-step procedures, or PowerShell cmdlets, we've got it all on the web. Our guide and articles are thoroughly reviewed and tested by our content developers to ensure you always have the most up to date and accurate information. Check out our articles and guides at the [Microsoft Docs](https://docs.microsoft.com/Office365/index?view=o365-worldwide) site.
+Whether you're looking for comprehensive deployment guides, quick step-by-step procedures, or PowerShell cmdlets, we've got it all on the web. We update content on the web every day so you always have the latest information. Check out our articles and guides at the [Microsoft Docs](https://docs.microsoft.com/Office365/index?view=o365-worldwide) site.
 
 ![Articles](../media/what-is-help/articles.png)
