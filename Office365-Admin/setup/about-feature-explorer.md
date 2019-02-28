@@ -20,19 +20,15 @@ Placeholder text.
 ## What is it?
 
 Placeholder text.
-    
+
 ## What are the benefits?
 
-Placeholder text. 
-      
+Placeholder text.
+
 ## How does it work?
 
 Placeholder text.
-    
+
 ## Showcase
 
 Check out this cool stuff!
-    
-
-    
-
