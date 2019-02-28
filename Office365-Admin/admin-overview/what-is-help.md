@@ -37,12 +37,12 @@ We've tried to design the admin center so you can complete a task quickly. But s
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="../media/M365_WhatisHelp_IntegratedHelp.png" alt="Integrated help" />
+                            <img src="../media/what-is-help/M365_WhatisHelp_IntegratedHelp.png" alt="Integrated help" />
                         </div>
                     </div>
                     <div class="cardText">
                         <h3>Integrated help</h3>
-                        <p>Short text description for link.</p>
+                        <p><a href="what-is-help.md#integrated-help" target="_blank">Tips in the admin center</a></p>
                     </div>
                 </div>
             </div>
@@ -56,12 +56,12 @@ We've tried to design the admin center so you can complete a task quickly. But s
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="../media/M365_WhatisHelp_IntelligentAssistance.png" alt="Intelligent assistance" />
+                            <img src="../media/what-is-help/M365_WhatisHelp_IntelligentAssistance.png" alt="Intelligent assistance" />
                         </div>
                     </div>
                     <div class="cardText">
                         <h3>Intelligent assistance</h3>
-                        <p>Short text description for link.</p>
+                        <p><a href="what-is-help.md#intelligent-assistance" target="_blank">Self-help powered by AI</a></p>
                     </div>
                 </div>
             </div>
@@ -75,12 +75,12 @@ We've tried to design the admin center so you can complete a task quickly. But s
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="../media/M365_WhatisHelp_ArticlesGuides.png" alt="Guides and articles" />
+                            <img src="../media/what-is-help/M365_WhatisHelp_ArticlesGuides.png" alt="Guides and articles" />
                         </div>
                     </div>
                     <div class="cardText">
                         <h3>Guides and articles</h3>
-                        <p>Short text description for link.</p>
+                        <p><a href="what-is-help.md#guides-and-articles" target="_blank">Comprehensive content on the web</a></p>
                     </div>
                 </div>
             </div>
