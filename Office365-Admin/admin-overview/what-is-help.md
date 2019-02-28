@@ -115,7 +115,7 @@ Or, for those times when you don't quite know how to get something done in your 
 
 ![Modern self-help](../media/what-is-help/chatinsights.png)
  
-Of course, sometimes questions are best answered by humans. If the chatbot doesn't have the answer, we'll get you connected to our support engineers. 
+Of course, sometimes questions are best answered by humans. If our modern self-help doesn't have the answer, we'll get you connected to our support engineers. 
 
 ## Guides and articles
 
