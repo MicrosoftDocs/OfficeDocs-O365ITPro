@@ -3,7 +3,7 @@ title: "Manage Yammer domains in Office 365"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 9/17/2018
+ms.date: 3/1/19
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -70,6 +70,9 @@ To change the displayed network name shown below, change the **name** in the Off
 ## Change the Yammer primary domain
 
 If you have just one domain in Office 365, when the default domain changes in Office 365 to a verified domain, the primary domain of the corresponding Yammer network is updated. 
+
+   >[!NOTE]
+   >If you change the primary domain in O365 to the .onmicrosoft.com domain, Yammer will not update the primary domain to the .onmicrosoft.com domain. Automatic domain updates in Yammer are only for non .onmicrosoft.com domains.
 
 ## Change the Yammer primary domain when you use a federated domain as your Office 365 default domain
 
