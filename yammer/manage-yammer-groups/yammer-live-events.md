@@ -3,7 +3,7 @@ title: "Live events in Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 2/26/2019
+ms.date: 3/1/2019
 ms.audience: Admin
 ms.topic: overview
 ms.service: yammer
@@ -25,7 +25,7 @@ description: "Learn what's needed to host live video events for Yammer users."
 
 Yammer is where communities thrive - a community centered around leaders engaging with their employees, a community of common interest, a community of people who share an identity, or a community of learning and shared practices. To bring the members of a community together centered around an event, Yammer group admins can host a live video event using Yammer, Microsoft Teams, and Microsoft Stream. Each live event includes Yammer conversations before, during, and after the event.
 
-Due to the open nature of Yammer conversations, Yammer is a particularly well-suited to foster connection and engagement between leaders and employees at every level in your organization. Hosting your next live event in your Leadership Connection community is a great way for leadership teams to drive alignment of your people around shared purpose and goals. Leaders realize that organizations who do this well have an advantage in attracting and retaining an engaged workforce.
+Due to the open nature of Yammer conversations, Yammer is particularly well-suited to foster connection and engagement between leaders and employees at every level in your organization. Hosting your next live event in your Leadership Connection community is a great way for leadership teams to drive alignment of your people around shared purpose and goals. Leaders realize that organizations who do this well have an advantage in attracting and retaining an engaged workforce.
 
 You can create a public group to reach all employees, or use a private group so that only those with membership in the group can participate. Before the event, you have a place in Yammer to direct employees and/or group members to where you can show preview clips to generate buzz, announce an open call for questions in a Q&A segment, or just a place for people to chat about the upcoming event. 
 
@@ -44,7 +44,7 @@ Live events can be created and viewed in Yammer, Stream, or Teams. This article 
 There are two ways live events can be produced. The requirements for using live events in Yammer depend on which video production methods you intend to use in your organization.
 
 - Produce your live event in Teams, and use Teams to share content from the presenter's webcams and screens. This is used for simple events when all you need is the audio and video devices connected to the PC, or when you're inviting a remote presenter for the event. Presenters use their own web cams and can share their screen as input for the event. This type of event requires use of Teams.
->![NOTE]
+> [!NOTE]
 > These events are in preview in Yammer. Attendees can't watch them there yet. For now, they can watch and comment in Microsoft Teams, or follow the conversation in Yammer.
 
 - Produce your live event with external video input. This type of event is typically used for large scale events such as executive town halls, where a single stream from a media mixer is broadcasted to the audience. This type of event requires use of Stream.
