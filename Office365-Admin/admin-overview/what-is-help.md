@@ -1,5 +1,5 @@
 ---
-title: "How to get help for the Microsoft 365 admin center"
+title: "How to get help in the Microsoft 365 admin center"
 ms.author: dianef
 layout: LandingPage
 manager: mnirkhe
@@ -23,7 +23,7 @@ description: "Learn about all the ways you can get help using the Microsoft  365
 ---
 <!-- The following is just placeholder text from Madhura's mail. We need to add images/examples of each -->
 
-# How to get help for the Microsoft 365 admin center
+# How to get help in the Microsoft 365 admin center
 
 We've tried to design the admin center so you can complete a task quickly. But, sometimes you may have difficulty finding the right task, need help with a term or an acronym, need more context before embarking on a task flow, or simply may not be sure of the scope and impact of your actions as an admin.  To cover those situations, we provide modern help and intelligent assistance throughout the Microsoft 365 admin center in these ways:   
  
