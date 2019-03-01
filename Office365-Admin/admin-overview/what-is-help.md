@@ -19,7 +19,7 @@ search.appverid:
 - GEA150
 
 ROBOTS: NOINDEX
-description: "Learn about all the ways you can get help using the Microsoft  365 admin center."
+description: "Learn about all the ways you can get help using the Microsoft 365 admin center."
 ---
 <!-- The following is just placeholder text from Madhura's mail. We need to add images/examples of each -->
 
