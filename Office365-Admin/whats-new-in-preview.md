@@ -29,11 +29,11 @@ This month, we're going to focus on all the improvements we've made to the areas
 - **Payment methods** - We heard your feedback that updating your payment method was difficult and we've made a lot of changes around it. Go to **Billing** > **Payment methods**. You can easily see your payment methods, like your Visa card, and which subscription it is associated with. In your list of payment methods, select the **More** menu (3 little dots next to the expiration date), and then select **View subscriptions**. You can also edit and delete your payment methods using the **More** menu.
 - **Billing account** - Targeted release customers will see the new Billing account page first and then we'll roll it out to world-wide. When it's available for you, go to **Billing** > **Billing account**. What can you do on the new billing account page? I'm glad you asked:
     - Update the address and other contat information in your organizational profile directly from this page. You don't have to go to **Settings** > **Organization profile**, unless you want to.
-    - And we're making life easier for Direct or Volume licensing, you can accept and review customer agreements. You can also connect with other orgs (that you manage?) allowing you to link the orgs together to share licenses and resources.
-- And we've also done a few smaller enhancements and bug fixes:
+    - And we're making life easier for Direct or Volume licensing customers, you can accept and review customer agreements from **Billing accounts**. You can also connect with other orgs (that you manage?) allowing you to link the orgs together to share licenses and resources.
+- We've also done a few smaller enhancements and bug fixes:
     - Reactivate a subscription with an Invoice payment
     - Edit the service usage address for your subscriptions
-    - And on the Inventory details page, we've added some notification enhancements, we link you to the actual page where you can do the work, and there are more actions on teh inventory details card. Go to **Billing** > **Bills** > **View details** on any invoice.
+    - And on the Inventory details page, we've added some notification enhancements, we link you to the actual page where you can do the work, and there are more actions on the inventory details card. Go to **Billing** > **Bills** > **View details** on any invoice.
 
 ## January 2019 - Happy New Year!
 - Still adding in **Services & add-ins** - We've updated more of the **Settings > Services & add-ins** pages. Try Integrated Apps or Reports to see the latest. 
