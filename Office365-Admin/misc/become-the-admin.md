@@ -71,6 +71,7 @@ If you are an admin and want to take over an unmanaged or "shadow" tenant create
     
 > [!NOTE]
 > If someone in the account signed up to use Office Online at work (instead of one of the other subscriptions, like Power BI), you'd be prompted to and required to buy licenses for them as part of becoming the admin for the domain. But you can add or remove licenses after you finish the admin setup. 
+Please note that taking over the shadow tenant will not impact any existing services. The rest of the information and services will remain as is.
   
 ## Some Terminology:
 
