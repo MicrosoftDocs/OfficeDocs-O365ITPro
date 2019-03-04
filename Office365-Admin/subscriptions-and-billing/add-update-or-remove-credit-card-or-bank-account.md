@@ -38,6 +38,8 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
   
 > [!NOTE]
 > Paying by using a bank account is not available in some countries or regions. 
+>
+> You must use a credit card issued from the same country as your tenant. 
   
 ## Add a new credit card or bank account
 
@@ -66,6 +68,8 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 >  You don't need the CVV/CVN code to update the details of an existing credit card. 
 > 
 >  You can't change the number on an existing credit card or bank account. If for some reason the credit card or bank account number has changed, add it as a new credit card or bank account, select it as the payment option for your subscription, then remove the existing credit card or bank account. 
+>
+> You must use a credit card issued from the same country as your tenant.
   
 1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
     
