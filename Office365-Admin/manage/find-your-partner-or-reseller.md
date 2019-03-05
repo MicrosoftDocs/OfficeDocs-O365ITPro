@@ -45,6 +45,13 @@ If you're ready to buy or renew Office 365 through Open Volume Licensing, or you
   
 ## Get partner info in the admin center
 
+::: moniker range="o365-worldwide"
+
+> [!TIP]
+> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end
+
 1. Sign in to Office 365 with your work or school account as a global admin. [Where to sign in to Office 365 for business](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
     
 2. Select the app launcher icon  in the upper-left and then choose **Admin**.<br/>Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
@@ -52,13 +59,6 @@ If you're ready to buy or renew Office 365 through Open Volume Licensing, or you
 3. Go to **Settings** \> **Partner relationships**.<br/>![Settings menu](../media/9026f9ea-52b7-4a0c-a14e-daec23048318.png)
   
 4. If you have a partner, the partner's name and relationship to your organization will be listed here. To view partner contact information (phone number and email address), click on the partner name.
-
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
     
 ## More resources
 

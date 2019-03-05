@@ -74,6 +74,13 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
   
 ::: moniker-end
 
+::: moniker range="o365-worldwide"
+
+> [!TIP]
+> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end
+
 1. In the Admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
     
     If you're using Office 365 Germany, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=854615) page. 
@@ -118,11 +125,4 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
     
     If you want to wait for later, scroll to the bottom and choose **Skip this step**.
     
-7. Click **Finish** - you're done! 
-
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
+7. Click **Finish** - you're done!
