@@ -26,6 +26,9 @@ description: "Learn to set registry keys to enable modern authentication for dev
 # Enable Modern Authentication for Office 2013 on Windows devices
 
 To enable modern authentication for any Windows devices that have Office 2013 installed, you need to set specific registry keys.
+
+> [!NOTE]
+> You must have certain software version. For more information, please check [Plan for multi-factor authentication for Office 365 Deployments - Software requirements](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan?view=o365-worldwide#software-requirements).
   
 ## Enable modern authentication for Office 2013 clients
 
