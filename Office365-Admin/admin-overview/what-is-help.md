@@ -111,7 +111,7 @@ The above image shows three types of help in the admin center:
 Clicking the "Need Help" button in the Microsoft 365 admin center opens our modern self-help experience powered by artificial intelligence. For example, if you search for *verify my domain* 
 you'll get the steps plus few articles we think will help you.  We use machine learning to surface the closest solution that has been found to be of help to other admins who have entered similar queries. 
 
-Or, for those times when you don't quite know how to get something done in your specific situation, use the O365 Assistant. Just click the toggle at the top of the "Need Help" pane to turn it on. The O365 Assistant provides a conversational interface for getting help. Enter your query and the chatbot will ask clarifying questions to get you to the right answer for your specific situation.  Think of it as your virtual helper to discover solutions and complete tasks. 
+Or, for those times when you don't quite know how to get something done in your specific situation, use the O365 Assistant. This experience is currently available only in English. Just click the toggle at the top of the "Need Help" pane to turn it on. The O365 Assistant provides a conversational interface for getting help. Enter your query and the chatbot will ask clarifying questions to get you to the right answer for your specific situation.  Think of it as your virtual helper to discover solutions and complete tasks. 
 
 ![Modern self-help](../media/what-is-help/chatinsights.png)
  
