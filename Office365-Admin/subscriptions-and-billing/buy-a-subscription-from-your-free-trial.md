@@ -37,14 +37,14 @@ You've tried Office 365, and now you're ready to buy. You have two options when 
   
 - [Buy the same plan as your trial](#buy-the-same-plan-as-your-trial)
 - [Buy a different plan than your trial](#buy-a-different-plan-than-your-trial)
-- 
+
 - ::: moniker range="o365-worldwide"
 
 > [!TIP]
 > Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
 
 ::: moniker-end
-    
+
 ## Buy the same plan as your trial
 
 Check out the video below or follow the steps to complete your order.
