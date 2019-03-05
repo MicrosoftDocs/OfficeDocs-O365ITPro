@@ -31,7 +31,7 @@ description: "Learn about the types of groups you can use in Office 365."
 
 # Compare groups
 
-In the **Groups** section of the Office 365 admin center, you can create and manage these types of groups: 
+In the **Groups** section of the Microsoft 365 admin center, you can create and manage these types of groups: 
 
 - **Office 365 groups** are used for collaboration between users, both inside and outside your company.
 - **Distribution lists** are used for sending notifications to a list of people.
