@@ -14,7 +14,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
- - Adm_UI_Elements
+- Adm_UI_Elements
 ms.custom:
 - Core_O365Admin_Migration
 - EmptyState
