@@ -95,7 +95,7 @@ The growing network of partners and developers in Yammer continue to build third
     > [!NOTE]
     > This setting does not apply to Office 365 connectors that can be added to Office 365 groups. To disable use of these connectors in Yammer, use the following PowerShell command:  
     ```Set-OrganizationConfig -ConnectorsEnabledforYammer:$false```<br>
-    For more information, see [Manage Office 365 Groups with PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-groups-with-powershell.
+    For more information, see [Manage Office 365 Groups with PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-groups-with-powershell).
 )
   
 ## Allow users to view an org chart in Yammer
