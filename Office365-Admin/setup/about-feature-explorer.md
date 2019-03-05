@@ -23,9 +23,9 @@ Get the most out of the services you purchased and ensure your users are secure 
 
 ### Discover
 
-Determine ramifications before taking action, thanks to at-a-glance information such as user impact, prerequisites, effort to implement, and security and adoption statistics. Need more information before you begin a task? <b>Learn more</b> links provide easy access to more comprehensive articles.
+Discover consequences before taking action, thanks to at-a-glance information such as user impact, prerequisites, effort to implement, and security and adoption statistics. Need more information before you begin a task? <b>Learn more</b> links provide easy access to more comprehensive articles.
 
-When you're ready to start a task
+When you're ready to start a task, just click a link to launch a wizard.
 
 ### Learn
 
@@ -39,6 +39,6 @@ Text here
 
 Placeholder text.
 
-## Showcase
+## Feature explorer showcase: Multi-Factor Authentication
 
-Check out this cool stuff!
+Multi-factor authentication (MFA) helps safeguard access to data and applications while maintaining simplicity for users. It provides additional security by requiring a second form of authentication and delivers strong authentication through a range of easy-to-use authentication methods, such as security questions and a password.
