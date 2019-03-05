@@ -28,7 +28,7 @@ description: "Learn to set registry keys to enable modern authentication for dev
 To enable modern authentication for any Windows devices that have Office 2013 installed, you need to set specific registry keys.
 
 > [!NOTE]
-> You must have certain software version. For more information, please check [Plan for multi-factor authentication for Office 365 Deployments - Software requirements](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan?view=o365-worldwide#software-requirements).
+> You must have certain software version. For more information, please check [Plan for multi-factor authentication for Office 365 Deployments - Software requirements](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#software-requirements).
   
 ## Enable modern authentication for Office 2013 clients
 
@@ -57,7 +57,8 @@ To disable modern authentication on a device, set the following registry keys on
 |HKCU\SOFTWARE\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |0  <br/> |
    
 ## Related Topics
-
 [Sign in to Office 2013 with a second verification method](https://support.office.com/article/2b856342-170a-438e-9a4f-3c092394d3cb.aspx)
+
+[Plan for multi-factor authentication for Office 365 Deployments](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan)
   
 
