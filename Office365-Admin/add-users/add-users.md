@@ -1,5 +1,5 @@
 ---
-title: "Add users individually or in bulk to Office 365 - Admin Help"
+title: "Add users individually or in bulk to Office 365"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -42,33 +42,33 @@ ms.assetid: 1970f7d6-03b5-442f-b385-5880b9c256ec
 description: "Learn how to add users to Office 365, one at a time or multiple users at the same time from a CSV file."
 ---
 
-# Add users individually or in bulk to Office 365 - Admin Help
+# Add users individually or in bulk to Office 365
 
 [![Label to let you know the Admin Center is changing and you can find more details at aka.ms/aboutM365preview.](../media/O365-Admin-AdminCenterChanging.png)](../microsoft-365-admin-center-preview.md)
 
 The people on your team each need a user account before they can sign in and access [Office 365 for business](https://go.microsoft.com/fwlink/?LinkID=519395). The easiest way to add user accounts is to add them one at a time in the Microsoft 365 admin center. After you do this step, your users will have Office 365 licenses, sign in credentials, and Office 365 mailboxes.
   
 ::: moniker range="o365-worldwide"
-1.  In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** > **Active Users**.
+1.  In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page, or choose **Users** > **Active Users**.
+1. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page, or choose **Users** > **Active Users**.
+1. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page.
 
 ::: moniker-end
 
 2. Choose **Add a user**.
     
   
-Fill in the information for the user. Choose **Add** when you are done. 
+In the New user dialog, fill in the following information. Choose **Add** when you are done. 
   
 - **Name** Fill in first, last, display name, and user name. 
     
@@ -84,7 +84,6 @@ Fill in the information for the user. Choose **Add** when you are done.
     
 - **Product licenses** Expand this section and select the appropriate license. If you don't have any licenses available, you can still add a user and buy additional licenses. 
     
-![Screenshot of fields to fill out when you add a user to Office 365 for business](../media/86a46e4a-107e-4607-82fc-bbc3218d344a.png)
   
 After you add a user, you'll get an email notification from the Microsoft Online Services Team. The email will contain the person's Office 365 user ID and password so they can sign in to Office 365. You need to tell your new user about their sign-in information. Use your normal process for communicating new passwords.
   

@@ -43,27 +43,27 @@ As the person who purchased your Office 365 business subscription, you are the g
 ## Assign admin roles to a user in your business
 
 ::: moniker range="o365-worldwide"
-1.  In the admin center, go to the [Active users](https://admin.microsoft.com/adminportal/home) page.
+1.  In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the [Active users](https://portal.office.de/adminportal/home) page.
+1. In the admin center, go to the **Users** > [Active users](https://portal.office.de/adminportal/home) page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1.In the admin center, go to the [Active users](https://login.partner.microsoftonline.cn) page.
+1.In the admin center, go to the **Users** > [Active users](https://login.partner.microsoftonline.cn) page.
 
 ::: moniker-end
 
-2. On the **Active users** page, choose the user whose administrator role you want to change. In the flyout pane, next to **Roles**, choose **Edit**. 
+2. On the **Active users** page, choose the user whose administrator role you want to change, and then choose **Manage roles**. 
     
-    If you don't see the **Edit** option, then you don't have global admin permissions and can't assign admin roles to other people. Ask a global admin in your business to assign roles for you. In a small business, the business owner (the person who purchased Office 365) is a global admin. In a large business, key people in the IT department are global admins.
+    If you don't see the **Manage roles** option, then you don't have global admin permissions and can't assign admin roles to other people. Ask a global admin in your business to assign roles for you. In a small business, the business owner (the person who purchased Office 365) is a global admin. In a large business, key people in the IT department are global admins.
 
-3. Choose **Customized administrator** to see a list of roles we've customized for you. For a description of each role, see [About Office 365 admin roles.](about-admin-roles.md)
+3. Choose one of the roles we've customized for you. For a description of each role, see [About Office 365 admin roles.](about-admin-roles.md)
 
 ::: moniker range="o365-worldwide"
 
