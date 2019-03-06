@@ -1,5 +1,5 @@
 # Overview
-A repository to hold the help reference content for Microsoft Teams and Skype for Business. The expert knowledge around Microsoft Teams and Skype for Business is distributed amongst customers, MVPs, partners, product teams, support, and other community members. This open repo is designed to provide a mechanism for those that wish to contribute their knowledge back into the docs so others can benefit.
+A repository to hold the help reference content for Office 365, Kaizala and Yammer. The expert knowledge around Microsoft Office 365 is distributed amongst customers, MVPs, partners, product teams, support, and other community members. This open repo is designed to provide a mechanism for those that wish to contribute their knowledge back into the docs so others can benefit.
 
 # Learn How To Contribute
 Anyone who is interested can contribute to the topics.
