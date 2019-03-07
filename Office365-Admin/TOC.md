@@ -15,7 +15,7 @@
 ### [Migrate email and contacts](setup/migrate-email-and-contacts-admin.md)
 ### [Set up Skype for Business Online](/SkypeForBusiness/set-up-skype-for-business-online/set-up-skype-for-business-online?toc=/office365/admin/setup/toc.json&bc=/office365/admin/setup/breadcrumb/toc.json)
 ### [Set up file storage and sharing](setup/set-up-file-storage-and-sharing.md)
-### [Cutomize team site](setup/cutomize-team-site.md)
+### [Customize team site](setup/customize-team-site.md)
 ### [Upgrade users to latest Office client](setup/upgrade-users-to-latest-office-client.md)
 ### [Customize Sign-in page](setup/customize-sign-in-page.md)
 ### [Create distribution lists](setup/create-distribution-lists.md)
