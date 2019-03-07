@@ -136,6 +136,22 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/task-list-planning-blue.svg" alt="Rich text formatting" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                            <p><a href="/en-us/Yammer/get-started-yammer/rich-text-formatting" data-linktype="absolute-path">Rich text formatting</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li> 
+<li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
                             <img src="https://docs.microsoft.com/en-us/office/media/icons/cloud.svg" alt="File storage changes" data-linktype="external">
                         </div>
                     </div>
