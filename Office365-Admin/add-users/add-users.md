@@ -96,7 +96,7 @@ Fill in the information for the user. Choose **Add** when you are done.
 After you add a user, you'll get an email notification from the Microsoft Online Services Team. The email will contain the person's Office 365 user ID and password so they can sign in to Office 365. You need to tell your new user about their Office 365 sign in information. Use your normal process for communicating new passwords.
 
 > [!NOTE]
->After migration you need to activate Office 365 user accounts by assigning licences. If you don't assign a license to a user, their mailbox will be disabled after a grace period of 30 days. See how to [assign licenses to users](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc) using the Office 365 admin center.
+>If you create users by migrating mail boxes, you will need to activate Office 365 user accounts by assigning licenses. If you don't assign a license to a user, their mailbox will be disabled after a grace period of 30 days. See how to [assign licenses to users](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc) using the Office 365 admin center.
 
 ### Video: Add and manage users in the Office 365 admin center
 
