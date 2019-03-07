@@ -136,7 +136,7 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/task-list-planning-blue.svg" alt="Rich text formatting" data-linktype="external">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/task-list-planning.svg" alt="Rich text formatting" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
