@@ -1,5 +1,5 @@
 ---
-title: "Discover, learn, and take action with Feature explorer"
+title: "Optimize administration with the Setup hub"
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-description: "Learn how the Feature explorer in Microsoft 365 helps admins discover, learn, and take action."
+description: "Learn how the Setup hub in Microsoft 365 helps admins discover, learn, and take action."
 ---
 
 # Optimize administration with the Setup hub
 
-Get the most out of the services you purchased and ensure your users are secure and productive with a new, proactive approach to onboarding and administration task management. Whether you're a small or medium business or a large enterprise, the Setup hub is built for modern IT teams. The Setup hub boosts efficiency and optimizes onboarding experiences by curating tasks and related information based on your admin role, and then surfaces it in a single location&mdash;so you see only the tasks that matter to you.
+Get the most out of the services you purchased and ensure your users are secure and productive with a new, proactive approach to onboarding and administration task management. Whether you're a small business or a large enterprise, the Setup hub is built for modern IT teams. The Setup hub boosts efficiency and optimizes onboarding experiences by curating tasks and related information based on your admin role, and then surfaces it in a single location&mdash;so you see only the tasks that matter to you.
 
 [Video placeholder]
 
@@ -25,7 +25,7 @@ The Setup hub eliminates the need to dig through disparate information to find w
 
 ### A single location to discover, learn, and take action
 
-It can be a challenge for admins to discover what capabilities are available across Microsoft 365, determine user impact, and then figure out how to enable those capabilities. The Setup hub addresses this challenge by providing a common source for both learning and taking action.
+It can be a challenge for admins to discover the capabilities that are available across Microsoft 365, determine user impact, and then figure out how to enable those capabilities. The Setup hub addresses this challenge by providing a common source for both learning and taking action.
 
 The Setup hub provides a logical grouping of tasks related to your admin function. If you're a billing admin, for example, you'll see only billing-related tasks. Each task supplies at-a-glance information such as task description, user impact, prerequisites, effort to implement, and security and adoption statistics to help you understand consequences and impact before proceeding.
 
@@ -33,7 +33,7 @@ The Setup hub provides a logical grouping of tasks related to your admin functio
 
 ### Focused learning, at your own pace
 
-Besides curating tasks based on your admin role, the Setup hub also curates information specific to each task. We've taken the guesswork out of figuring out what you need to know in order to confidently proceed. You get a consistent learning experience that helps you focus on relevant information and not waste time digging through extraneous, unrelated documentation in multiple locations.
+Besides curating tasks based on your admin role, the Setup hub also curates information specific to each task. We've taken the guesswork out of figuring out what you need to know to confidently proceed. You get a consistent learning experience that helps you focus on relevant information and not waste time digging through extraneous documentation in multiple locations.
 
 In addition to at-a-glance overview and impact information for each task, you'll find **Learn more** links for easy access to more comprehensive articles. And since the list of tasks are always visible, you can return to the Setup hub at any time to deep dive and explore resources further.
 
@@ -41,7 +41,7 @@ In addition to at-a-glance overview and impact information for each task, you'll
 
 Quickly setting up users so they can be productive is not easy. Onboarding experiences are often ambiguous, and it's not always clear what your course of action should be or what the end goal is.
 
-The Setup hub optimizes onboarding by giving you clarity on the end goal, information to help you make decisions, and clear next steps. When you're ready to take action, just click a **Get started** link to launch a guided flow that will walk you through the task.
+The Setup hub optimizes onboarding by providing clarity on the end goal, information to help you make decisions, and clear next steps. When you're ready to take action on a task, just click a **Get started** link to launch a guided flow that will walk you through the steps.
 
 If you're multi-tasking, working on tasks over several days, or if there are multiple admins working on tasks, you can track completion by seeing at a glance which tasks have been completed and which tasks still require attention. IT teams also benefit from built-in delegation, sharing, permissions, and collaboration.
 
