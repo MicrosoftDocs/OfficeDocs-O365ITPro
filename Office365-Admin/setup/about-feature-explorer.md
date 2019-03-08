@@ -23,39 +23,36 @@ Get the most out of the services you purchased and ensure your users are secure 
 
 The Setup hub eliminates the need to dig through disparate information to find what you need by providing a coordinated, compiled set of information and tasks that cross the entire Microsoft 365 stack.
 
-Discover and learn about Microsoft 365 capabilities at your own pace, understand consequences and impact before taking action, and proceed with next steps when you're ready. The Setup hub also tracks task completion by letting you see at a glance which tasks have been completed and which tasks still require attention. IT teams also benefit from built-in delegation, sharing, permissions, and collaboration.
+### A single location to discover, learn, and take action
 
-### Discover and learn about onboarding options from a central location 
+It can be a challenge for admins to discover what capabilities are available across Microsoft 365, determine user impact, and then figure out how to enable those capabilities. The Setup hub addresses this challenge by providing a common source for both learning and taking action.
 
-Understand consequences before taking action with at-a-glance information such as user impact, prerequisites, effort to implement, and security and adoption statistics. Need more information before you begin a task? **Learn more** links provide easy access to more comprehensive articles.
+The Setup hub provides a logical grouping of tasks related to your admin function. If you're a billing admin, for example, you'll see only billing-related tasks. Each task supplies at-a-glance information such as task description, user impact, prerequisites, effort to implement, and security and adoption statistics to help you understand consequences and impact before proceeding.
 
-Logical grouping of tasks
+**Tim: Should we address scenarios or pivots here as a way of grouping? I'm not sure what's going to be available in March.**
 
-When you're ready to start a task, just click a link to launch a wizard.
+### Focused learning, at your own pace
 
-### Learn about capabilities at your own pace
+Besides curating tasks based on your admin role, the Setup hub also curates information specific to each task. We've taken the guesswork out of figuring out what you need to know in order to confidently proceed. You get a consistent learning experience that helps you focus on what you need to know and not waste time digging through extraneous, unrelated information in multiple locations.
 
-Single location
+In addition to at-a-glance overview and impact information for each task, you'll find **Learn more** links for easy access to more comprehensive articles. And since the list of tasks are always visible, you can return to the Setup hub at any time to deep dive and explore resources further.
 
-Provides built-in education.
+### A clear path for taking action
 
-Show schematic of how we’re making it easier for them.
+Quickly setting up users so they can be productive is not easy. Onboarding experiences are often ambiguous, and it's not always clear what your course of action should be or what the end goal is.
 
-### Get a clear path for taking action
+The Setup hub optimizes onboarding by giving you clarity on the end goal, information to help you make decisions, and clear next steps. When you're ready to take action, just click a **Get started** link to launch a guided flow that will walk you through the task.
 
-Offers immediate action.
-Provides clear next steps.
-Provides actions for SMB and Enterprise.
+If you're multi-tasking, working on tasks over several days, or if there are multiple admins working on tasks, you can track completion by seeing at a glance which tasks have been completed and which tasks still require attention. IT teams also benefit from built-in delegation, sharing, permissions, and collaboration.
 
 ## How does the Setup hub work?
 
-We offer a way to discover what's available and let you know what needs to be done.
-A collection of wizards and onboarding experiences.
-Pivots to help you focus on scenarios (secure your business) or workloads (Exchange, SharePoint, etc.).
-Tasks relevant to you and what you need to do.
+Info from Tim here. Talk about workflow of admins when they get to the Setup hub. What do they see? How do we (Microsoft) identify what needs to be done so we can display appropriate tasks? How to they proceed? Talk about how pivots work (if they're in this release). Talk about how guided flows walk you through tasks when you click **Get started**. Etc.
 
-## Setup hub [functionality] showcase: Multi-Factor Authentication
+## Setup hub showcase: Multi-Factor Authentication
 
 Multi-factor authentication (MFA) helps safeguard access to data and applications while maintaining simplicity for users. It provides additional security by requiring a second form of authentication and delivers strong authentication through a range of easy-to-use authentication methods, such as security questions and a password.
 
-[Placeholder for video.]
+If you're a global admin **(Tim: Is this correct? How about other admins?)**, when you access the Setup hub you'll see a task for making sign-in more secure.
+
+[Video placeholder]
