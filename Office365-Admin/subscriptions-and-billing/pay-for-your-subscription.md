@@ -34,7 +34,7 @@ description: "Learn what payment options are available to pay for your Office 36
 When you set up your subscription, you can choose to pay by using credit card or bank account payments, or to pay by invoice using check or electronic funds transfer (EFT) . Whichever method you choose, that is the payment method we will continue to use for subsequent billing periods, unless you [change your payment method](change-payment-method.md).
   
 > [!NOTE]
-> Paying by bank account is not available in some countries or regions. 
+> Paying by bank account is not available in some countries or regions.
   
 ## Pay by credit card or bank account
 
@@ -42,63 +42,78 @@ When you pay by credit card or bank account, you'll be automatically charged for
   
 ### What if my credit card was declined and my payment is past due?
 
-If you pay by credit card, and your credit card is declined, you'll receive an email letting you know that we were unable to process the payment. This can happen for several reasons, including if the credit card has expired. We'll continue to retry the transaction every few days. If those attempts fail, you'll continue to receive email alerts about those failures. You can use the **Pay now** feature at any time to change your credit card information and immediately resubmit the payment. 
+If you pay by credit card, and your credit card is declined, you'll receive an email letting you know that we were unable to process the payment. This can happen for several reasons, including if the credit card has expired. We'll continue to retry the transaction every few days. If those attempts fail, you'll continue to receive email alerts about those failures. You can use the **Pay now** feature at any time to change your credit card information and immediately resubmit the payment.
   
 > [!NOTE]
-> If you switch to a different credit card to pay the outstanding balance on your subscription, that card will be charged for all future automatic payments for that subscription. 
-  
-When you sign in to the Admin center, you might see the following alert on the home page:
-  
-![The Billing widget on the Admin Center home page showing a past due balance.](../media/67389c51-8e36-4d3a-89e6-bee580050a9b.png)
-  
- **To pay your outstanding balance**
-  
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
-    
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
-    
-2. Choose the subscription that you want to change. In the **My bill** section, choose **Pay now**.
-    
-    ![The My bill section of a subscription card showing a balance due.](../media/5da2ce79-662d-4c4a-a842-284efba38977.png)
-  
-3. If you're the credit card owner, you can change the expiration date for the card, choose a different card, or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
-    
+> If you switch to a different credit card to pay the outstanding balance on your subscription, that card will be charged for all future automatic payments for that subscription.
+
+::: moniker range="o365-worldwide"
+
+#### Use the admin center (preview) to pay your outstanding balance
+
+The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
+
+2. Find the subscription with the outstanding balance. In the **Billing** section, choose **Pay now**.
+
+3. If you're the credit card owner, you can change the expiration date for the card, pick a different card, or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
+
     > [!NOTE]
-    > When you use the **Pay now** feature, you'll be charged for the entire outstanding balance on your account, which could be more than the amount due shown elsewhere. 
+    > When you use the **Pay now** feature, you'll be charged for the entire outstanding balance on your account, which could be more than the amount due shown elsewhere.
+
+4. If you're not the credit card owner, you can choose a different credit card or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
+
+5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, choose **Submit payment**.
+
+::: moniker-end
+
+::: moniker range="o365-worldwide"
+#### Use the old admin center to pay your outstanding balance
+::: moniker-end
   
-    ![The Payment details pane indicating the credit card has expired.](../media/a21457e4-1e7c-4ca2-b2e8-c69d27ca9d9f.png)
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
+
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
+
+2. Choose the subscription that you want to change. In the **My bill** section, choose **Pay now**.
   
-4. If you're not the credit card owner, you can select a different credit card or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
-    
+3. If you're the credit card owner, you can change the expiration date for the card, pick a different card, or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
+
+    > [!NOTE]
+    > When you use the **Pay now** feature, you'll be charged for the entire outstanding balance on your account, which could be more than the amount due shown elsewhere.
+
+4. If you're not the credit card owner, you can choose a different credit card or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
+
 5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, choose **Submit**. You'll see a confirmation message that says "Your payment method has been updated and all outstanding charges are settled. Thank you."
-    
+
 ## Pay by invoice (check or EFT)
 
 If your subscription costs over a certain amount of money (this amount varies by service location), you'll have the option to pay by invoice by using a check or EFT. A credit check may be required for larger invoice payments. If a credit check is required, you'll be notified when you purchase your subscription. And, if you agree to be contacted, you'll get an email that includes more information about applying for credit approval. Credit checks are usually completed within two business days.
   
-If you pay by invoice for your subscription, you'll get an email that says your billing statement is ready to view. This email does not contain a copy of your billing statement. However, you can also choose to [Receive a copy of your billing statement in email](#receive-a-copy-of-your-billing-statement-in-email). Your billing statement includes details about your options for making a payment. If you enter a purchase order (PO) number when you buy a subscription, the number appears on your billing statement. For information about accessing billing statements, see [View your bill or invoice](view-your-bill-or-invoice.md). 
+If you pay by invoice for your subscription, you'll get an email that says your billing statement is ready to view. This email does not contain a copy of your billing statement. However, you can also choose to [Receive a copy of your billing statement in email](#receive-a-copy-of-your-billing-statement-in-email). Your billing statement includes details about your options for making a payment. If you enter a purchase order (PO) number when you buy a subscription, the number appears on your billing statement. For information about accessing billing statements, see [View your bill or invoice](view-your-bill-or-invoice.md).
   
 > [!NOTE]
-> By default, your organization's billing notifications are sent to the Office 365 email address and the alternate email address of every global and billing admin in your organization. To change the alternate email address, see [Change your billing addresses](change-your-billing-addresses.md). 
+> By default, your organization's billing notifications are sent to the Office 365 email address and the alternate email address of every global and billing admin in your organization. To change the alternate email address, see [Change your billing addresses](change-your-billing-addresses.md).
   
 ### Can I pay my bill online?
 
 Unfortunately, if your subscription is set up to pay by invoice, we can't accept online payments directly. You can, however, [change your payment method to credit card or bank account](change-payment-method.md), and the amount due will be automatically charged to your card or account after each service period. For Azure, see [How to change the credit card used to pay for an Azure subscription](http://go.microsoft.com/fwlink/p/?LinkId=718057).
   
 > [!NOTE]
-> If you're switching to pay by automatic credit card payments, be sure to first pay all outstanding balances. Check your billing statement for payment options and instructions. For more information, see [Understand your invoice](understand-your-invoice.md). 
+> If you're switching to pay by automatic credit card payments, be sure to first pay all outstanding balances. Check your billing statement for payment options and instructions. For more information, see [Understand your invoice](understand-your-invoice.md).
   
 ### Where do I send my check or EFT payment?
 
 > [!NOTE]
-> Payment by check is only available in a few countries. You can follow the payment instructions below for your country, or [check your invoice](understand-your-invoice.md). 
+> Payment by check is only available in a few countries. You can follow the payment instructions below for your country, or [check your invoice](understand-your-invoice.md).
   
 If you're not sure how much you owe, you can [check your bill and billing history online](view-your-bill-or-invoice.md). For Azure, see [How to download your Azure billing invoice and daily usage data](http://go.microsoft.com/fwlink/p/?LinkId=718058).
   
- **Select your "bill-to" country or region from the dropdown menu below.**
+ **Choose your "bill-to" country or region from the dropdown menu below.**
   
 > [!div class="op_single_selector"]
-> - **Select your country or region**
+> - **Choose your country or region**
 > - [Afghanistan](pay/afghanistan.md)
 > - [Albania](pay/albania.md)
 > - [Algeria](pay/algeria.md)
@@ -256,19 +271,19 @@ If you're not sure how much you owe, you can [check your bill and billing histor
 You can choose to receive a copy of your billing statement as an email attachment. If you do, be aware that:
   
 - An email will be sent to both the primary and alternate email address for every person listed as a notification recipient.
-    
-- You will receive two separate emails: one that lets you know that your bill is ready, with instructions to log on to the Admin center to view it, and a second email that contains the billing statement as an attachment.
-    
- **To receive your billing statement in email**
+
+- You will receive two separate emails: one that lets you know that your bill is ready, with instructions to log on to the admin center to view it, and a second email that contains the billing statement as an attachment.
+
+### To receive your billing statement in email
   
-1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=853212" target="_blank">Billing notifications</a> page, or choose **Billing** \> **Billing notifications**.
-    
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=853213" target="_blank">Billing notifications</a> page. 
-    
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=853212" target="_blank">Billing notifications</a> page.
+
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=853213" target="_blank">Billing notifications</a> page.
+
 2. Under **Do you want to receive the billing statement as an email attachment?**, switch the toggle to **On**.
-    
+
     You can stop receiving the billing statement emails at any time by switching the toggle to **Off**.
-    
+
 ## Need to switch payment methods?
 
 If your original reasons for choosing invoice, credit card, or bank account have changed, for example, if you adjust your subscription so that the payment amount is lower so that you no longer qualify for invoice payments, you can change your payment method. For more information, see [Change your payment method](change-payment-method.md).
