@@ -36,9 +36,9 @@ You may need to change someone's Office 365 email address and display name if, f
 
 You must be an [Office 365 global admin](about-admin-roles.md) to do these steps. 
   
-1. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** > **Active Users**.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. Choose the user. In the flyout pane, next to **Username / Email**, choose **Edit**. 
+2. Choose the user > **More (...)**. 
     
 3. In the first box, type the first part of the new email address. If you added your own domain to Office 365, you can choose the domain for the new email alias by using the drop-down list. 
 
@@ -52,8 +52,14 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
   - If you get the error message " **We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name. 
     
     ![The Edit email addresses and username pane showing the primary email address, and a new alias to be added.](../media/2518a8b8-1136-4639-b159-35ad21f61437.png)
+
+## Set the primary email address 
   
-5. Choose **Set as Primary** for the email address that you want to set as the primary email address for that person. 
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+    
+2. Choose the user > **More (...)** > **Manage email aliases**. 
+
+1. Choose **Set as Primary** for the email address that you want to set as the primary email address for that person. 
     
     **IMPORTANT**: You won't see this option to Set as Primary if you purchased Office 365 from GoDaddy or another Partner service that provides a management console. Instead, sign in to the GoDaddy / partner's management console to set the primary alias. 
     
@@ -78,11 +84,11 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
 ## Change a user's display name
 
 
-1. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** > **Active Users**.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. Select the name of the person. In the flyout pane, next to **Contact information**, choose **Edit**.  
+2. Select the user > **More (...)** > **Edit contact information**. .  
 
-3. Type a new name for the person and then choose **Save**.
+3. In the Display name box, type a new name for the person and then choose **Save**.
     
     If you get the error message " **We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name.
     
