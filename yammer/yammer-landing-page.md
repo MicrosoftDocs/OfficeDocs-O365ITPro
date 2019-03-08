@@ -140,7 +140,7 @@ Build communities and collaboration in your organization with Yammer.
                         </div>
                     </div>
                     <div class="cardText">
-                            <p><a href="/en-us/Yammer/get-started-yammer/rich-text-formatting" data-linktype="absolute-path">Rich text formatting</a></p>
+                            <p><a href="/en-us/Yammer/get-started-with-yammer/rich-text-formatting" data-linktype="absolute-path">Rich text formatting</a></p>
                     </div>
                 </div>
             </div>
