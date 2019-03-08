@@ -15,7 +15,7 @@ description: "Learn how the Feature explorer in Microsoft 365 helps admins disco
 
 # Optimize administration with the Setup hub
 
-Get the most out of the services you purchased and ensure your users are secure and productive with a new, proactive approach to administration task management. Whether you're a small or medium business or a large enterprise, the Setup hub is built for modern IT teams. The Setup hub boosts efficiency and optimizes onboarding experiences by curating tasks and related information based on your admin role, and then surfaces it in a single location&mdash;so you see only the tasks that matter to you.
+Get the most out of the services you purchased and ensure your users are secure and productive with a new, proactive approach to onboarding and administration task management. Whether you're a small or medium business or a large enterprise, the Setup hub is built for modern IT teams. The Setup hub boosts efficiency and optimizes onboarding experiences by curating tasks and related information based on your admin role, and then surfaces it in a single location&mdash;so you see only the tasks that matter to you.
 
 [Video placeholder]
 
@@ -33,7 +33,7 @@ The Setup hub provides a logical grouping of tasks related to your admin functio
 
 ### Focused learning, at your own pace
 
-Besides curating tasks based on your admin role, the Setup hub also curates information specific to each task. We've taken the guesswork out of figuring out what you need to know in order to confidently proceed. You get a consistent learning experience that helps you focus on what you need to know and not waste time digging through extraneous, unrelated information in multiple locations.
+Besides curating tasks based on your admin role, the Setup hub also curates information specific to each task. We've taken the guesswork out of figuring out what you need to know in order to confidently proceed. You get a consistent learning experience that helps you focus on relevant information and not waste time digging through extraneous, unrelated documentation in multiple locations.
 
 In addition to at-a-glance overview and impact information for each task, you'll find **Learn more** links for easy access to more comprehensive articles. And since the list of tasks are always visible, you can return to the Setup hub at any time to deep dive and explore resources further.
 
@@ -53,6 +53,6 @@ Info from Tim here. Talk about workflow of admins when they get to the Setup hub
 
 Multi-factor authentication (MFA) helps safeguard access to data and applications while maintaining simplicity for users. It provides additional security by requiring a second form of authentication and delivers strong authentication through a range of easy-to-use authentication methods, such as security questions and a password.
 
-If you're a global admin **(Tim: Is this correct? How about other admins?)**, when you access the Setup hub you'll see a task for making sign-in more secure.
+If you're a global admin **(Tim: Is this correct? How about other admins?)**, when you access the Setup hub you'll see a task for making sign-in more secure. **[Tim to add more detailed info about MFA functionality in the Setup hub.]**
 
 [Video placeholder]
