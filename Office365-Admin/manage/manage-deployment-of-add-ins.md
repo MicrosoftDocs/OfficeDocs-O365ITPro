@@ -192,7 +192,7 @@ A user who tries to access the store will see the following message: **Sorry, Of
   
 Support for turning off the Office Store is available in the following versions:
   
-- Windows: 16.0.9001 - Currently available in monthly channel. Available in semi-annual release in July 2018.
+- Windows: 16.0.9001 - Currently available.
     
 - Mac: 16.10.18011401 - Currently available.
     

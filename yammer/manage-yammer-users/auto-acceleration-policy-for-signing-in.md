@@ -22,7 +22,7 @@ description: "Create an auto-acceleration policy to improve Office 365 sign-in f
 
 # Improve Office 365 sign-in for Yammer with auto-acceleration policy
 
-To improve the Office 365 sign-in experience for Yammer, use Auto-acceleration Policy to accelerate directly to ADFS federated domain bypassing Office 365 login page. 
+To improve the Office 365 sign-in experience for Yammer, use the Auto-acceleration policy to accelerate directly to the ADFS federated domain, bypassing the Office 365 login page. 
   
 ## Prerequisites
 
@@ -30,7 +30,7 @@ To improve the Office 365 sign-in experience for Yammer, use Auto-acceleration P
     
 - Download and Install PackageManagement PowerShell Modules Preview from [here](https://www.microsoft.com/en-us/download/details.aspx?id=49186).
     
-- Download and Install Azure Active Directory V2 PowerShell Module - Public Preview Release [(](https://www.powershellgallery.com/packages/AzureADPreview/2.0.0.85)[Reference](https://www.powershellgallery.com/packages/AzureADPreview/2.0.0.85)[)](https://www.powershellgallery.com/packages/AzureADPreview/2.0.0.85).
+- Download and Install Azure Active Directory V2 PowerShell Module [(](https://www.powershellgallery.com/packages/AzureADPreview/2.0.0.85)[Reference](https://www.powershellgallery.com/packages/AzureADPreview/2.0.0.85)[)](https://www.powershellgallery.com/packages/AzureADPreview/2.0.0.85).
     
 - Open administrative AAD Powershell and run following commands:
     
@@ -38,8 +38,8 @@ To improve the Office 365 sign-in experience for Yammer, use Auto-acceleration P
     Save-Module -Name AzureADPreview -Path <path>
     ```
 
-     >![Important]:
-    >The  `Save-Module` command will download the module from the Internet. You need a working internet connection on the computer where you are running these commands. 
+    >![Important]:
+    >The `Save-Module` command will download the module from the Internet. You need a working internet connection on the computer where you are running these commands. 
 
   
     ```powershell

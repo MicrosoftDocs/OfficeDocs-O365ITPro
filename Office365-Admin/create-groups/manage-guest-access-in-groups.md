@@ -350,7 +350,7 @@ Yes. The guests won't receive a welcome email message, but they will have all th
 ## See Also
 <a name="bkmk_UsePowerShell"> </a>
 
-[Manage Group membership in the admin center](add-or-remove-members-from-groups.md)
+[Manage Group membership in the Microsoft 365 admin center](add-or-remove-members-from-groups.md)
   
 [Allow/Deny guest access to Office 365 groups based on their domain](https://go.microsoft.com/fwlink/?linkid=854001)
   

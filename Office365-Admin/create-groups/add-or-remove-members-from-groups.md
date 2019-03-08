@@ -21,7 +21,7 @@ search.appverid:
 - MOE150
 - BSA160
 ms.assetid: e186d224-a324-4afa-8300-0e4fc0c3000a
-description: "Learn how to add a member to a group, remove member from group, and manage group owner status in the admin center."
+description: "Learn how to add a member to a group, remove member from group, and manage group owner status in the Microsoft 365 admin center."
 ---
 
 # Add or remove members from Office 365 groups using the admin center
