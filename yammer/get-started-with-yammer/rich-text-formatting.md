@@ -38,6 +38,6 @@ If you don't have rich text, here's what the bottom of the message looks like:
 
 ## Implications for export
 
-When you export formatted messages using [Export Network Data](../manage-security-and-compliance/export-yammer-enterprise-data.md) two columns are included in messages.csv and messageVersions.csv:
-- **body**: includes unformatted text
-- **html_body**: includes text formatted with HTML
+When you export formatted messages using [Export Network Data](../manage-security-and-compliance/export-yammer-enterprise-data.md) two columns for the message text are included in messages.csv and messageVersions.csv:
+- **body**: includes the unformatted message text 
+- **html_body**: includes the message text formatted with HTML
