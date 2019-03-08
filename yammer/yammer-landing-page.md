@@ -216,22 +216,6 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/key-permissions.svg" alt="AAD account required" data-linktype="external">
-                        </div>
-                    </div>
-                    <div class="cardText">
-                            <p><a href="/en-us/Yammer/manage-yammer-users/AAD-account-required" data-linktype="absolute-path">AAD credentials will be required as of January 31</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
                             <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone.svg" alt="Live events" data-linktype="external">
                         </div>
                     </div>
