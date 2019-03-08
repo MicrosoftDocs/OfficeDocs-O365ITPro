@@ -136,6 +136,22 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/task-list-planning.svg" alt="Rich text formatting" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                            <p><a href="/en-us/Yammer/get-started-yammer/rich-text-formatting" data-linktype="absolute-path">Rich text formatting</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li> 
+<li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
                             <img src="https://docs.microsoft.com/en-us/office/media/icons/cloud.svg" alt="File storage changes" data-linktype="external">
                         </div>
                     </div>
@@ -189,22 +205,6 @@ Build communities and collaboration in your organization with Yammer.
                     </div>
                     <div class="cardText">
                             <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/sentiment-analysis-flow-azure" data-linktype="absolute-path">Integration example: Sentiment analysis</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/key-permissions.svg" alt="AAD account required" data-linktype="external">
-                        </div>
-                    </div>
-                    <div class="cardText">
-                            <p><a href="/en-us/Yammer/manage-yammer-users/AAD-account-required" data-linktype="absolute-path">AAD credentials will be required as of January 31</a></p>
                     </div>
                 </div>
             </div>
