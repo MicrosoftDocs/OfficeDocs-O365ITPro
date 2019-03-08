@@ -57,7 +57,7 @@ The process follows these steps:
     
     To do this:
     
-1. In the Office 365 admin portal, select a user and choose **Edit User**. The **Sign-in status** is shown in the user details, as in this screenshot. 
+1. In the Microsoft 365 admin center, select a user and choose **Edit User**. The **Sign-in status** is shown in the user details, as in this screenshot. 
     
     ![Screenshot of a users's sign-in status in Office 365](../media/3003a58e-1294-460a-a174-2be67b1dc462.png)
   
@@ -146,11 +146,11 @@ There are a few key things to understand about how Yammer user profiles are upda
 
 - **The language setting in Yammer is not updated automatically.**
     
-The Office 365 administrator can edit user properties from the Office 365 admin center.
+The Office 365 administrator can edit user properties from the Microsoft 365 admin center.
   
  **To edit user properties in Office 365**
   
-1. In the Office 365 admin center, go to the **Users** section, and select or search for a user, as shown in the following screenshot. 
+1. In the Microsoft 365 admin center, go to the **Users** section, and select or search for a user, as shown in the following screenshot. 
     
     ![](../media/b045e652-c971-46c2-a37a-a2d2cc872838.jpg)
   

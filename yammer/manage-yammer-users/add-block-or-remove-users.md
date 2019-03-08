@@ -163,7 +163,7 @@ There are two ways to block users from Yammer:
     
     1. In the Yammer admin center, go to **Users** \> **Block Users** and enter the email addresses of the users to block. 
     
-    2. In the Office 365 admin center, remove the **Yammer** license for the user. For steps, see [Turn off Yammer access for Office 365 users](turn-off-user-access.md) and see [Manage Yammer licenses in Office 365](manage-yammer-licenses-in-office-365.md). 
+    2. In the Microsoft 365 admin center, remove the **Yammer** license for the user. For steps, see [Turn off Yammer access for Office 365 users](turn-off-user-access.md) and see [Manage Yammer licenses in Office 365](manage-yammer-licenses-in-office-365.md). 
     
 <a name="BouncedEmails"> </a>
 ## Bounced emails
