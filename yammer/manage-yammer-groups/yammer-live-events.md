@@ -79,6 +79,12 @@ You can prevent creation of live events produced in teams, live events produced 
 
 - To prevent both types of live events, make sure Yammer users do not have permission to create live events in Teams and in Stream.
 
+## FAQ
+
+**Q: How many participants can view a live event at once?**
+
+A. Currently the limit is 10,000 participants.
+
 
 ## See also
 
