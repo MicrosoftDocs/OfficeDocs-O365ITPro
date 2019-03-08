@@ -3,7 +3,7 @@ title: Kaizala settings
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 8/21/2018
+ms.date: 2/21/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -20,16 +20,30 @@ description: Use the Kaizala Settings page to map your Kaizala registered phone 
 
 # Kaizala settings
 
-The **Kaizala Settings** page lets you map your Kaizala registered phone numbers to the Office 365 account, for which you would like to manage Groups, Actions, Connectors, View reports and do more.
+The **Kaizala Settings** page lets you connect your Kaizala registered phone numbers with an Office 365 account. This lets you manage groups, Actions, connectors, view reports, and much more. You can also configure compliance and tenant policies on this page.
   
-## Add phone number
+## Registered numbers
 
 To add a phone number in the Kaizala management portal:
   
 1. On the Kaizala management portal, select Settings.
     
-2. Select **Phone number**. Enter the phone number and then choose **Generate PIN**.
+2. Select **Add Phone number**. Enter the phone number and select **Generate PIN**.
     
-3. Once you get the PIN on your mobile phone, return to this screen. Enter the PIN and finally select **Verify PIN**.
+3. Kaizala will text a PIN to your mobile phone. Enter it into the screen and select **Verify PIN**.
     
+## Compliance
+
+Organization admins control if Kaizala backs up the data belonging to groups, including messages, attachments, and actions.
+
+## Tenant policy
+
+Admins also control the tenant policy for their organizations, including:
+
+- Access (require Office 365 account sign-in to access groups)
+- Intune (require Microsoft Intune policy sign-in to access groups)
+- Copy (disable copy of messages and action cards in all organization groups)
+- Share (disable sharing of messages and action cards from all organization groups)
+- Forward (disable forwarding of messages and action cards from all organization groups)
+- Invitations (do not allow SMS invitations to be sent to invited users)
 

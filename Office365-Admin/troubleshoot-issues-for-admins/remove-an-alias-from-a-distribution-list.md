@@ -1,8 +1,8 @@
 ---
 title: "Troubleshoot Remove an alias from a distribution list"
 ms.author: anfowler
-author: anfowler
-manager: scotv
+author: adefowler
+manager: mnirkhe
 ms.audience: Admin
 ms.topic: troubleshooting
 f1_keywords:
@@ -12,7 +12,9 @@ f1_keywords:
 - 'AdminDistList_TSAlias'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection: 
+- M365-subscription-management 
+- Adm_O365
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -22,7 +24,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: b8c5f0f6-eefd-4d9d-b508-7ef2d84b626b
-ROBOTS: NOINDEX
 description: "Learn how to remove an email alias from a distribution list using Exchange Online PowerShell. "
 ---
 

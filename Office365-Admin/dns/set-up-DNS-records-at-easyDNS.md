@@ -7,7 +7,9 @@ ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection: 
+- M365-subscription-management 
+- Adm_O365
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -95,7 +97,7 @@ NOTE: SRV Records are currently NOT available under all easyDNS service packages
     |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> |
     |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> |
     |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> |
-    |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> |
+    |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> |
    
 5. Choose **NEXT**. 
     

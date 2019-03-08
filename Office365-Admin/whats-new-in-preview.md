@@ -1,5 +1,5 @@
 ---
-title: "What's new in preview?"
+title: "What's new in the Microsoft 365 admin center?"
 ms.author: anfowler
 author: anfowler
 manager: mnirkhe
@@ -8,19 +8,43 @@ ms.topic: overview
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Core_O365Admin_Migration
+ms.collection: 
+- M365-subscription-management 
 search.appverid:
 - MET150
 - MOE150
 - FRP150
 ms.assetid: 739574d7-2c5b-4911-a549-f56ecc7d3b48
 description: "Microsoft 365 admin center preview - learn about the features that were added this month."
+f1_keyword: MACDashWhatsNew
 ---
 
 # What's new in Microsoft 365 admin center preview
-We're continuously adding new features to the Microsoft 365 admin center preview, fixing issues we learn about, and making changes based on your feedback. As the new admin center is getting built, you'll want to know about what's getting added, what's new, and what's being removed. Take a look below to see what's available for you today.
+We're continuously adding new features to the Microsoft 365 admin center preview, fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today.
 
 Want to know how to participate in the preview? Checkout [About the Microsoft 365 admin center preview](microsoft-365-admin-center-preview.md).
   
+## February 2019 - Billing & Subscriptions Edition
+This month, we're going to focus on all the improvements we've made to the areas affectionately referred to as "Billing and subscriptions". In the past, you probably didn't refer to those things affectionately, but we think you will now...
+- **Payment methods** - We heard your feedback that updating your payment method was difficult and we've made a lot of changes around it. Go to **Billing** > **Payment methods**. You can easily see your payment methods, like your Visa card, and which subscription it is associated with. In your list of payment methods, select the **More** menu (3 little dots next to the expiration date), and then select **View subscriptions**. You can also edit and delete your payment methods using the **More** menu.
+- **Billing account** - Targeted release customers will see the new Billing account page first and then we'll roll it out to world-wide. When it's available for you, go to **Billing** > **Billing account**. What can you do on the new billing account page? I'm glad you asked:
+    - Update the address and other contat information in your organizational profile directly from this page. You don't have to go to **Settings** > **Organization profile**, unless you want to.
+    - And we're making life easier for Direct or Volume licensing customers, you can accept and review customer agreements from **Billing accounts**. You can also connect with other orgs (that you manage?) allowing you to link the orgs together to share licenses and resources.
+- We've also done a few smaller enhancements and bug fixes:
+    - Reactivate a subscription with an Invoice payment
+    - Edit the service usage address for your subscriptions
+    - And on the Inventory details page, we've added some notification enhancements, we link you to the actual page where you can do the work, and there are more actions on the inventory details card. Go to **Billing** > **Bills** > **View details** on any invoice.
+
+## January 2019 - Happy New Year!
+- Still adding in **Services & add-ins** - We've updated more of the **Settings > Services & add-ins** pages. Try Integrated Apps or Reports to see the latest. 
+- **Searching for improvements?** Look no further than the **Search** box in the command bar. It's been updated to let you search for tasks. For example, try "password reset" or "add a user".  
+
+### Featured Feedback Fix - Licenses and apps
+
+We re-combined **Licenses and apps** in the user details pane based on your feedback. We initially separated the two features to provide space for the details of all license and all app possibilities.  We heard from you that separating licenses and apps into two panes added confusion.  We listened, and brought licenses and apps back together into one tab.  Now you can make sure that an app is turned off in all licenses assigned to a user in one pane.  Milk and cookies.  Licenses and apps.  We get it now.
+
+Check it out: **Users > Active users > Edit** or **Add user > Licenses and Apps**. 
+
 ## December 2018
 - **Services & add-ins** - In October we updated **Settings** \> **Services & add-ins** with our new design style, but all of the settings pages were still in the classic style. This month, we've started updating the actual settings to the new design. Check out **Bookings** to see the new look.
 - **User management** - Manage username, alias, primary email address.

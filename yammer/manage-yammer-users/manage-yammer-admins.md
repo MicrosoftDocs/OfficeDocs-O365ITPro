@@ -3,7 +3,7 @@ title: "Manage Yammer admins"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 5/15/2018
+ms.date: 2/22/2019
 ms.audience: Admin
 ms.topic: reference
 ms.prod: office-online-server
@@ -94,7 +94,7 @@ A: No. Admins can't edit their own roles.
   
 ### Q: How can I find out who the network and verified admins are for our network?
 
-A: Non‐admin users can see all admins in the **Members** list in the **All Company** group. Admins have a blue start next to their name. 
+A: Non‐admin users can see all admins in the **Members** list in the **All Company** group. Admins have a  next to their name. They can also see a list of admins at **https://yammer.com/***your_network***/admin**.
   
 Admins can view the list of admins: in the Yammer admin center, select **Admins**. Admins can also export a list of admins to review who has Network Admin role, and who has the Verified Admin role. In the Yammer admin center, select **Export Users**. In the exported .ZIP file, open **Admins.csv**. 
   

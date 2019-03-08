@@ -32,8 +32,9 @@ f1_keywords:
 - 'O365E_DomainsMain_AddDomain'
 - 'O365E_DomainsDNSSettings_ConfigDNS'
 ms.service: o365-administration
-localization_priority: Normal
-ms.collection:
+localization_priority: Priority
+ms.collection: 
+- M365-subscription-management
 - Adm_O365_Setup
 - Adm_O365_Top
 - Adm_UI_Elements
@@ -60,8 +61,7 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
 
  **[Check the Domains FAQ](domains-faq.md)** if you don't find what you're looking for. 
   
- *You must be an Admin of a [business or enterprise plan](https://products.office.com/business/office) to add a domain.*
-  
+ *To Add, modify or remove domains you **must** be a **Global Administrator** of a [business or enterprise plan](https://products.office.com/business/office). These changes affect the whole tenant, *Customized administrators* or *regular users* won't be able to make these changes.*  
 ::: moniker range="o365-worldwide"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/dda6df6d-37b0-41ff-905b-089448355a31?autoplay=false]
@@ -72,6 +72,13 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/dda6df6d-37b0-41ff-905b-089448355a31?autoplay=false]
   
+::: moniker-end
+
+::: moniker range="o365-worldwide"
+
+> [!TIP]
+> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
 ::: moniker-end
 
 1. In the Admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
@@ -118,11 +125,4 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
     
     If you want to wait for later, scroll to the bottom and choose **Skip this step**.
     
-7. Click **Finish** - you're done! 
-
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
+7. Click **Finish** - you're done!

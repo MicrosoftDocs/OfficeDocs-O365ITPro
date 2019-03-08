@@ -9,7 +9,8 @@ f1_keywords:
 - 'O365P_SharedMB'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365_Top
 - strat_admin_top
 ms.custom:
@@ -37,6 +38,13 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/6d993201-a718-4bad-8b4d-2660670aa87d?autoplay=false]
   
 **Try it!**
+
+::: moniker range="o365-worldwide"
+
+> [!TIP]
+> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end
   
 ::: moniker range="o365-worldwide"
 
@@ -261,10 +269,11 @@ The following example shows how to create the shared mailbox Sales Department an
     
 2. Connect to [Exchange Online PowerShell](https://go.microsoft.com/fwlink/?linkid=856791).
     
-3. Run the following command:
+3. Run the following commands:
     
 ```
-New-Mailbox -Shared -Name "Sales Department" -DisplayName "Sales Department" -Alias Sales | Set-Mailbox -GrantSendOnBehalfTo MarketingSG | Add-MailboxPermission -User MarketingSG -AccessRights FullAccess -InheritanceType All
+New-Mailbox -Shared -Name "Sales Department" -DisplayName "Sales Department" -Alias Sales | Set-Mailbox -GrantSendOnBehalfTo MarketingSG
+Add-MailboxPermission -Identity "Sales Department" -User MarketingSG -AccessRights FullAccess -InheritanceType All
 ```
 
 ## Should I create a shared mailbox or an Office 365 Group for Outlook?

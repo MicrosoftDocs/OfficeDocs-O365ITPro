@@ -7,7 +7,8 @@ ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365
 - Adm_O365_Domain_Registrars
 - Adm_O365_Setup
@@ -92,7 +93,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     ![Azure-BP-Configure-1-1](../media/ed377cad-0c47-4f9f-b322-c3e06b309b1f.png)
   
-2. On the **Dashboard** page, in the **All resources** area, choose the domain that you want to update. 
+2. Using the **search bar** on the **Dashboard** page, type in **DNS zones**. In the results display, click on **DNS zones** under the **Services** portion. Once you've been redirected, choose the domain that you want to update.
     
     ![Azure-BP-Configure-1-2](../media/eb4baad2-92d7-49c9-95e5-1dd8510d5ec9.png)
   
@@ -230,7 +231,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |**Name**|**Type**|**TTL**|**TTL unit**|**Alias**|
 |:-----|:-----|:-----|:-----|:-----|
 |enterpriseregistration  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+|enterpriseenrollment  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
    
 ## Add a TXT record for SPF to help prevent email spam
 <a name="BKMK_add_TXT"> </a>

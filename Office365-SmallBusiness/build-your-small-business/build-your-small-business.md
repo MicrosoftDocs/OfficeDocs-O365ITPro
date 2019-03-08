@@ -51,7 +51,7 @@ description: "Learn about features in Office 365 that help your boost your busin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Head to a Microsoft store</h3>
+                        <h3>Head to a Microsoft Store</h3>
                         <p>Free training and classes to help you boost your Office 365 knowledge.</p>
                     </div>
                 </div>
@@ -79,7 +79,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/smallbusiness/build-your-small-business/tips-to-help-boost-your-business" target="_blank">
+        <a href="https://support.office.com/en-us/article/build-your-business-with-office-and-microsoft-365-48d9fc59-ef0f-4246-a714-044ed6d6228e" target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -89,8 +89,8 @@ description: "Learn about features in Office 365 that help your boost your busin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Tips and ways to boost your business</h3>
-                        <p>Read for articles and insights on growing your business.</p>
+                        <h3>Launch, grow, and run your business</h3>
+                        <p>Find tips and templates to help you accomplish your business tasks.</p>
                     </div>
                 </div>
             </div>
@@ -328,7 +328,7 @@ description: "Learn about features in Office 365 that help your boost your busin
         </a>
     </li>
     <li>
-        <a href="/office365/smallbusiness/grow-your-small-business/previous-webinar-videos" target="_blank">
+        <a href="/office365/smallbusiness/build-your-small-business/previous-webinar-videos" target="_blank">
             <div class="cardSize">
                 <div class="cardPadding">
                     <div class="card">

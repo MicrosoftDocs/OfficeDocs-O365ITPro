@@ -14,7 +14,8 @@ f1_keywords:
 - '365E_CannotDeleteDomain_ChangeDefault'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365_Domain_Core
 - Adm_O365_Setup
 ms.custom:
@@ -58,6 +59,13 @@ When you change your domain's email to come to Office 365, by updating your doma
   
 ## Change your email address to use your custom domain using the Office 365 admin center
 <a name="BKMK_PreviewAdminCenter"> </a>
+
+::: moniker range="o365-worldwide"
+
+> [!TIP]
+> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end
 
 1. Sign in to Office 365 with your work or school account. 
     

@@ -1,8 +1,8 @@
 ---
 title: "Set up multi-factor authentication for Office 365 users"
-ms.author: sirkkuw
-author: Sirkkuw
-manager: scotv
+ms.author: Dianef
+author: Dianef
+manager: mnirkhe
 
 ms.audience: Admin
 ms.topic: article
@@ -10,7 +10,8 @@ f1_keywords:
 - 'O365E_AdmSetSecPrivMFA'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365
 - Adm_O365_Top
 - strat_admin_top
@@ -31,7 +32,7 @@ ms.assetid: 8f0454b2-f51a-4d9c-bcde-2c48e41621c6
 description: "Learn how to set up multi-factor authentication for Office 365 users and manage the user settings. "
 ---
 
-# Set up multi-factor authentication for Office 365 users
+# Set up multi-factor authentication
 
   
 This article describes how to set up multi-factor authentication (MFA) for Office 365 users. For more information about MFA, see [Plan for multi-factor authentication for Office 365 Deployments](multi-factor-authentication-plan.md) and [How Azure multi-factor authentication works](https://go.microsoft.com/fwlink/p/?LinkId=627437).
@@ -41,33 +42,22 @@ You get a free version of Azure multi-factor authentication as part of your Offi
 ## Set up multi-factor authentication in the Office 365 admin center
 <a name="bkmk_setupmfa"> </a>
 
-1. You must be an Office 365 global admin to do these steps.
+1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
     
-::: moniker range="o365-worldwide"
+2. **IMPORTANT**: BEFORE you select a user, choose **More (...)** \> **Setup Azure multi-factor authentication**.  
 
-2. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+- If you're using the preview version of the admin center, you can find the option for MFA here:  
 
-::: moniker-end
-
-::: moniker range="o365-germany"
-
-2. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-2. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
-
-::: moniker-end
-
-3. Go to **Users** \> **Active users**.
-    
-4. Choose **More** \> **Setup Azure multi-factor auth**. If you don't see the **More** option, then you aren't a global admin for your subscription. 
+     ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/More-button-for-MFA.png)
+ 
+- In the classic version, you'll find it here:
     
     ![The More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/fefd9f5b-562a-4359-805f-eab923d438c1.png)
   
-5. Find the people for whom you want to enable MFA. In order to see everyone, you might need to change the **Multi-Factor Auth status** view at the top. 
+> [!Tip]
+> If you don't see the **More (...)** option, then you aren't a global admin for your subscription.
+
+3. Find the people for whom you want to enable MFA. In order to see everyone, you might need to change the **Multi-Factor Auth status** view at the top. 
     
     The views have the following values, based on the MFA state of the users:
     
@@ -77,62 +67,63 @@ You get a free version of Azure multi-factor authentication as part of your Offi
     
   - **Enforced** The person may or may not have completed registration. If they have completed the registration process, then they are using MFA. Otherwise, theywill be prompted to complete the process the next time they sign in. 
     
-6. Select the check box next to the people for whom you want to enable MFA.
+4. Select the check box next to the people for whom you want to enable MFA.
     
-7. On the right, under **quick steps**, you'll see **Enable** and **Manage user settings**. Choose **Enable**.
+5. On the right, under **quick steps**, you'll see **Enable** and **Manage user settings**. Choose **Enable**.
     
-8. In the dialog box that opens, choose **enable multi-factor auth**.
+6. In the dialog box that opens, choose **enable multi-factor auth**.
     
 ## Allow MFA users to create App passwords for Office client apps
-<a name="bkmk_setupmfa"> </a>
 
 > [!IMPORTANT]
 > App passwords are not supported for Office 365 operated by 21Vianet. 
   
 MFA is enabled per user. This means that if a user has MFA-enabled, they won't be able to use a non-browser client, such as Outlook 2013 with Office 365, until they create an app password. An app password is a password that is created within the Azure portal and that allows the user to bypass MFA and continue to use their application.
   
-All Office 2016 client applications support MFA through the use of the Active Directory Authentication Library (ADAL). This means that app passwords aren't required for Office 2016 clients. However, if you find that this is not the case, make sure your Office 365 subscription is enabled for ADAL. Connect to [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?linkid=534121) and run the following command:  `Get-OrganizationConfig | Format-Table name, *OAuth*`
-  
-If you need to enable ADAL, run the following command:  `Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true`
-  
-1. You must be an Office 365 global admin to do these steps.
+All Office 2016 client applications support MFA through the use of the Active Directory Authentication Library (ADAL). This means that app passwords aren't required for Office 2016 clients. However, if you find that this is not the case, make sure your Office 365 subscription is enabled for ADAL. Connect to [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?linkid=534121) and run the following command: 
+
+
     
-::: moniker range="o365-worldwide"
-
-2. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
-
-::: moniker-end
-
-::: moniker range="o365-germany"
-
-2. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-2. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
-
-::: moniker-end
-
-3. Go to **Users** \> **Active users**.
+    Get-OrganizationConfig | Format-Table name, *OAuth*
     
-4. Choose **More** \> **Setup Azure multi-factor auth**. If you don't see the **More** option, then you aren't a global admin for your subscription. 
+  
+If you need to enable ADAL, run the following command:
+
+
+    
+    Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true
+    
+  
+Here's how to allow your users to create App passwords: 
+
+1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
+    
+2. **IMPORTANT**: Before you select a user, choose **More (...)** \> **Setup Azure multi-factor authentication**.  
+
+- If you're using the preview version of the admin center, you can find the option for MFA here:  
+
+
+     ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/More-button-for-MFA.png)
+ 
+- In the classic version, you'll find it here:
     
     ![The More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/fefd9f5b-562a-4359-805f-eab923d438c1.png)
   
-5. On the **multi-factor authentication** page, choose **service settings**.
+> [!Tip]
+> If you don't see the **More (...)** option, then you aren't a global admin for your subscription.
+    
+ 
+3. On the **multi-factor authentication** page, choose **service settings**.
     
     ![The multi-factor authentication page with a hand pointing to the service settings link.](../media/98fb3542-8f43-4e3b-9a06-c6a091973188.png)
   
-6. Under **app passwords**, choose **Allow users to create app passwords to sign into non-browser apps**.
+4. Under **app passwords**, choose **Allow users to create app passwords to sign into non-browser apps**.
     
     People can then use client Office apps after they create a new password.
     
-7. Choose **Save**, then choose **Close**.
+5. Choose **Save**, then choose **Close**.
     
 ## Manage MFA user settings
-<a name="bkmk_setupmfa"> </a>
 
 1. You must be an Office 365 global admin to do these steps.
     
@@ -151,7 +142,6 @@ If you need to enable ADAL, run the following command:  `Set-OrganizationConfig 
 5. Choose **Save**, then choose **Close**.
     
 ## Bulk update users in MFA
-<a name="bkmk_setupmfa"> </a>
 
 You can bulk update the status for existing people by using a CSV file. The CSV file is used only for enabling or disabling MFA, based on the user names present in the file. It is not used to create new users.
   
@@ -170,14 +160,11 @@ You can bulk update the status for existing people by using a CSV file. The CSV 
 6. After the file is verified, choose the **Next** arrow to update the accounts. 
     
 7. When the process is finished, choose the **Done** checkmark. 
-    
+
 ## Instructions for your users after MFA is set up
-<a name="bkmk_setupmfa"> </a>
 
 After you enable MFA on your tenant, give the following instructions to people to set up their second sign-in method for Office 365:
   
 - [Set up 2-step verification for Office 365](https://support.office.com/article/ace1d096-61e5-449b-a875-58eb3d74de14.aspx)
-    
-- [Create an app password for Office 365](https://support.office.com/article/3e7c860f-bda4-4441-a618-b53953ee1183.aspx)
-    
 
+- [Create an app password for Office 365](https://support.office.com/article/3e7c860f-bda4-4441-a618-b53953ee1183.aspx)

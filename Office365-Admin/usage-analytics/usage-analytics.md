@@ -11,7 +11,9 @@ f1_keywords:
 - 'O365E_ReportsPBIConnect'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection: 
+- M365-subscription-management 
+- Adm_O365
 ms.custom:
 - Adm_O365
 - ContentPack
@@ -150,7 +152,7 @@ The data in the content pack can be retrieved through the Office 365 APIs (in pr
 
 ### Are there plans to expand the content pack to show usage data from other Microsoft products?
 
-This is considered for future improvements. Check the [Office 365 Roadmap](https://go.microsoft.com/fwlink/p/?linkid=848862) for updates.
+This is considered for future improvements. Check the [Microsoft 365 Roadmap](https://www.microsoft.com/microsoft-365/roadmap) for updates.
 
 ### How can I pivot by company information in Active Directory?
 

@@ -14,7 +14,8 @@ f1_keywords:
 - 'O365E_E_Learn_AdminSetup_AdminPasswordRecommendations'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365
 - Adm_O365_Top
 - Adm_UI_Elements
@@ -49,6 +50,12 @@ We strongly recommend that you set up self-service password reset. This way you 
 
 These steps are only for people using an Office 365 business plan. To do them, you need to sign in with your Office 365 admin account. [What's an Office 365 admin account?](../admin-overview/admin-overview.md)
   
+::: moniker range="o365-worldwide"
+
+> [!TIP]
+> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end
  
 ::: moniker range="o365-worldwide"
 
@@ -81,13 +88,6 @@ These steps are only for people using an Office 365 business plan. To do them, y
 5. Follow text on page.
     
     ![Create a password.](../media/dc90e67d-65ec-49d1-a3af-8bc53b59b4fb.png)
-
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
   
 ## Reset my Office 365 tenant admin password
 <a name="bkmk_forgot"> </a>

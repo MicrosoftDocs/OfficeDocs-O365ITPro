@@ -7,7 +7,9 @@ ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection: 
+- M365-subscription-management 
+- Adm_O365
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -160,7 +162,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |autodiscover  <br/> |1 hour  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
     |msoid  <br/> |1 hour  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
     |enterpriseregistration  <br/> |1 hour  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
-    |enterpriseenrollment  <br/> |1 hour  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |enterpriseenrollment  <br/> |1 hour  <br/> |CNAME  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
    
     ![RR record values in Domainnameshop](../media/71bfc469-23a9-4805-b64b-28098f9757e8.png)
   

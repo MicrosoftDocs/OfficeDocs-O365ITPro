@@ -7,7 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection: 
+- M365-subscription-management 
+- Adm_O365
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -66,7 +68,8 @@ Here's how you convert a mailbox to a shared mailbox:
 5. If the mailbox is smaller than 50GB, you can remove the [license from the user](../subscriptions-and-billing/remove-licenses-from-users.md), and stop paying for it. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor. The user won't be able to sign in using the old account.
     
 6. For everything else you need to know about shared mailboxes, please see [Create a shared mailbox](create-a-shared-mailbox.md).
-    
+
+
 ## Convert the mailbox of a deleted user
 
 Let's say you've deleted a user account and now you want to convert their old mailbox to a share mailbox. Here's what you need to do:
@@ -105,9 +108,15 @@ Here's why: if you convert the mailbox in the cloud, it can get converted, but o
 Usually this is not a problem, but there are some scenarios where the attributes on-premises (which think that the mailbox is the user mailbox) can overwrite the new cloud version of those attributes, and as a result the mailbox might convert back. This is a problem because user mailboxes require licenses **or they are soft deleted after 30 days**! 
   
 We've addressed most of the reasons why this happens but it still CAN happen, although infrequently. It's best to be safe and move the mailbox back to on-premises. 
+
+> [!NOTE]
+> If you are an Organization Management or Recipient Management, you will have to use Powershell to change a user mailbox to a shared mailbox on-premises. You can use the command ```   Set-Mailbox -Type Shared   ```
+
+> [!TIP]
+> See the workaround in this support solution for instances when [shared mailboxes are unexpectedly converted to user mailboxes](https://support.microsoft.com/en-us/help/2710029/shared-mailboxes-are-unexpectedly-converted-to-user-mailboxes-after-di)
   
 ## Related Topics
 
 [Create a shared mailbox](create-a-shared-mailbox.md)
-  
+ 
 

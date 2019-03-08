@@ -10,7 +10,7 @@ ms.assetid:
 ms.service: yammer
 ms.custom: Adm_Yammer
 ms.topic: landing-page
-ms.date: 12/13/18
+ms.date: 1/14/19
 ---
 # Yammer admin help
 
@@ -101,7 +101,7 @@ Build communities and collaboration in your organization with Yammer.
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://support.office.com/en-us/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b">We're here to help</a></h3>
+                        <h3><a href="https://docs.microsoft.com/office365/admin/contact-support-for-business-products">We're here to help</a></h3>
                     </div>
                 </div>
             </div>
@@ -130,6 +130,22 @@ Build communities and collaboration in your organization with Yammer.
 <hr>
 <h2>What&#39;s new</h2>
 <ul class="panelContent cardsF">
+<li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/task-list-planning.svg" alt="Rich text formatting" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                            <p><a href="/en-us/Yammer/get-started-with-yammer/rich-text-formatting" data-linktype="absolute-path">Rich text formatting</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li> 
 <li>
         <div class="cardSize">
             <div class="cardPadding">
@@ -168,11 +184,11 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/sign-up.svg" alt="AAD account required" data-linktype="external">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/lightbulb-idea-capture.svg" alt="Integration example: Knowledge base community" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
-                            <p><a href="/en-us/Yammer/manage-yammer-users/AAD-account-required" data-linktype="absolute-path">AAD credentials will soon be required for log in</a></p>
+                            <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker" data-linktype="absolute-path">Integration example: Knowledge base community</a></p>
                     </div>
                 </div>
             </div>
@@ -184,7 +200,23 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone-blue.svg" alt="Live events" data-linktype="external">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/trend-graph.svg" alt="Integration example: Sentiment analysis" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                            <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/sentiment-analysis-flow-azure" data-linktype="absolute-path">Integration example: Sentiment analysis</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone.svg" alt="Live events" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -200,11 +232,11 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag-blue.svg" alt="Release notes" data-linktype="external">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag.svg" alt="Release notes" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
-                            <p><a href="https://support.office.com/en-us/article/what-s-new-in-yammer-12116b2c-a9f4-40a5-bf6f-5e2d82f16d58" data-linktype="absolute-path">Release notes for desktop, web, and mobile versions</a></p> <br/>
+                            <p><a href="https://support.office.com/en-us/article/what-s-new-in-yammer-12116b2c-a9f4-40a5-bf6f-5e2d82f16d58" data-linktype="absolute-path">Release notes for Yammer clients</a></p> <br/>
                     </div>
                 </div>
             </div>
@@ -239,7 +271,7 @@ Build communities and collaboration in your organization with Yammer.
                         <p><a href="/en-us/Yammer/configure-your-yammer-network/customize-the-look-of-yammer" data-linktype="absolute-path">Customize the look</a></p> 
                         <p><a href="/en-us/Yammer/configure-your-yammer-network/configure-email-and-yammer" data-linktype="absolute-path">Configure email and Yammer</a></p> 
                         <p><a href="/en-us/Yammer/configure-your-yammer-network/enforce-office-365-identity" data-linktype="absolute-path">Enforce Office 365 identity</a></p> 
-                        <p><a href="/en-us/Yammer/configure-your-yammer-network/yammer-and-office-365" data-linktype="absolute-path">Yammer and Office 365</a></p> 
+                        <p><a href="/en-us/Yammer/configure-your-yammer-network/yammer-and-office-365" data-linktype="absolute-path">Yammer networks and Office 365 tenants</a></p> 
                         <p><a href="/en-us/Yammer/configure-your-yammer-network/manage-yammer-domains" data-linktype="absolute-path">Manage Yammer domains</a></p> 
                         <p><a href="/en-us/Yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks" data-linktype="absolute-path">Consolidate multiple networks</a></p> <p><a href="/en-us/Yammer/configure-your-yammer-network/FAQ-consolidate-multiple-yammer-networks" data-linktype="absolute-path">FAQ: Consolidating multiple networks</a></p>              
                     </div>
@@ -333,9 +365,11 @@ Build communities and collaboration in your organization with Yammer.
                     <div class="cardText">
                         <h3>Integrate with other apps</h3>
                         <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/integrate-with-other-applications" data-linktype="absolute-path">Integrate with other applications</a></p> 
-                        <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/yammer-and-newsfeed" data-linktype="absolute-path">Yammer and Newsfeed</a></p> 
                         <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site" data-linktype="absolute-path">Include a Yammer feed in a SharePoint page</a></p> 
-                        <p><a href="https://docs.microsoft.com/en-us/SharePoint/administration/integrate-yammer-with-on-premises-sharepoint-server-environments" data-linktype="absolute-path">Yammer and SharePoint Server</a></p> 
+                        <p><a href="https://docs.microsoft.com/en-us/SharePoint/administration/integrate-yammer-with-on-premises-sharepoint-server-environments" data-linktype="absolute-path">Yammer and SharePoint Server</a></p>
+                        <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/yammer-and-newsfeed" data-linktype="absolute-path">Yammer and Newsfeed</a></p> 
+                        <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker" data-linktype="absolute-path">Knowledge-base community using Flow and QnA Maker</a></p>  
+                        <p><a href="/en-us/Yammer/integrate-yammer-with-other-apps/sentiment-analysis-flow-azure" data-linktype="absolute-path">Sentiment analysis using Flow and Azure Cognitive Services</a></p>  
                         <p><a href="https://docs.microsoft.com/en-us/connectors/yammer/" data-linktype="absolute-path">Use the Yammer connector in other apps</a></p>
                         <p><a href="https://developer.microsoft.com/yammer" data-linktype="absolute-path">Yammer developer documentation</a></p> 
                     </div>
@@ -353,6 +387,7 @@ Build communities and collaboration in your organization with Yammer.
                     <p><a href="/en-us/Yammer/troubleshoot-problems/limited-functionality-in-explorer-10-document-modeX" data-linktype="absolute-path">Internet Explorer 10 document mode</a></p> 
                     <p><a href="/en-us/Yammer/troubleshoot-problems/phasing-out-temporary-mobile-passwords" data-linktype="absolute-path">Phasing out temporary mobile passwords</a></p> 
                     <p><a href="/en-us/Yammer/troubleshoot-problems/converting-yammer-notes-into-word-online" data-linktype="absolute-path">Convert notes to Word Online</a></p> 
+                    <p><a href="https://support.office.com/article/981ecaf7-8a7d-4312-a845-bd343e925073">Can I unsubscribe myself from Yammer?</a></p>
                 </div>
             </div>
         </div>

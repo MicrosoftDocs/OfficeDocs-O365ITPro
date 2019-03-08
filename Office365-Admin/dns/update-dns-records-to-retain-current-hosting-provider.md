@@ -7,7 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365_Domain_Core
+ms.collection: 
+- M365-subscription-management 
+ - Adm_O365_Domain_Core
 ms.custom:
 - Adm_O365_FullSet
 - Core_O365Admin_Migration

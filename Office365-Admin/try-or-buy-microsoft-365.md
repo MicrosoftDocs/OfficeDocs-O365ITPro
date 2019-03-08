@@ -1,9 +1,8 @@
 ---
 title: "Try or buy a Microsoft 365 subscription"
 ms.author: anfowler
-author: anfowler
+author: adefowler
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -29,6 +28,10 @@ Microsoft 365 is a complete solution that combines Office 365 and Windows 10 wit
 When you add a subscription through the admin center, the new subscription will be associated with the same organization (domain namespace) as your existing subscription. This makes it easier to move users in your organization between subscriptions or assign them a user license for the additional subscription they need.
   
 ## Trial or buy a Microsoft 365 subscription
+
+Watch the video below to sign up for a trial Microsoft 365 subscription. 
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2Kjyz?autoplay=false]
 
 1. Sign in to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2024339), and then go to **Billing** \> **Purchase services**.
     

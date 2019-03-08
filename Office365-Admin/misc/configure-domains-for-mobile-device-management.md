@@ -11,7 +11,8 @@ f1_keywords:
 - 'O365E_MDMConfigDomains'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365
 - Adm_O365_Domain_Core
 - Adm_UI_Elements
@@ -37,7 +38,7 @@ Find your domain registrar in the list provided in [Create DNS records for Offic
   
 |**Host name**|**Record type**|**Address**|**TTL**|
 |:-----|:-----|:-----|:-----|
-|EnterpriseEnrollment  <br/> |CNAME  <br/> |EnterpriseEnrollment.manage.microsoft.com  <br/> |3600  <br/> |
+|EnterpriseEnrollment  <br/> |CNAME  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |3600  <br/> |
 |EnterpriseRegistration  <br/> |CNAME  <br/> |EnterpriseRegistration.windows.net  <br/> |3600  <br/> |
    
 If your registrar or DNS host isn't listed, follow the general steps in [Create DNS records at any DNS hosting provider for Office 365](https://support.office.com/article/e21a9a4a-7b14-42cb-b39b-03aee92da95f).

@@ -3,7 +3,7 @@ title: "Manage Yammer users across their lifecycle from Office 365"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 5/25/2018
+ms.date: 2/25/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -22,6 +22,8 @@ description: "Manage Yammer Enterprise users in Office 365. Activate Yammer, the
 As a global Office 365 administrator, you control the life cycle for Yammer users from Office 365. When you create users in Office 365, they can log on to Yammer with their Office 365 credentials. When a user is deleted from Office 365, he or she is automatically deactivated or suspended in Yammer. When a user is restored in Office 365, he or she is reactivated in Yammer. 
   
 The user's profile properties (such as name and department) from Azure Active Directory are automatically populated in the user's Yammer profile, and any changes to the profile properties in Azure Active Directory are reflected in Yammer as well. While Yammer users can change their profile in Yammer, the user's changes will be overwritten if the properties change in Azure Active Directory.
+
+The user's Yammer language setting is taken from Office 365 when the user's Yammer account is activated. If the user changes their Office 365 language setting or if the setting is changed directly in Azure Active Directory, Yammer does not pick up this change. The user can change their Yammer language setting in their Yammer profile on the **Preferences** tab.
   
 ## Create a user
 
@@ -41,7 +43,7 @@ The process follows these steps:
   
 4. A new Yammer user is created for the Office 365 user.
     
-5. The user's profile properties from Azure Active Directory are automatically populated in the user's Yammer profile.
+5. The user's profile properties and language setting from Azure Active Directory are automatically populated in the user's Yammer profile.
     
 ## Block a user
 
@@ -141,6 +143,8 @@ There are a few key things to understand about how Yammer user profiles are upda
 - **Email address updates in Azure AD are reflected in Yammer:** Any updates to the user's email in Azure AD are updated in Yammer. The updated email domain should match one of the domains on the Yammer network. 
     
 - **What happens if a Yammer user doesn't have an email address:** If none of the emails for the user match the domains on the Yammer network, or if the user does not have any email address in Azure AD, the Yammer user profile is updated to denote that the user does not have email, so that their colleagues are aware of this (if a user hovers over a person in Yammer, they will see in the hover card that the person does not have an email). 
+
+- **The language setting in Yammer is not updated automatically.**
     
 The Office 365 administrator can edit user properties from the Office 365 admin center.
   
@@ -187,8 +191,18 @@ A: Yes. If a user's Yammer profile does not include a picture, the profile will 
 
 A: Yes.
   
+### Q: What happens when a user leaves the company?
+
+A. When a user leaves the company and Azure Active Directory is updated, their Yammer profile content is replaced with their start and end dates, and their title is changed to **Former member**. All the messages and files they posted remain in Yammer. 
+
+   ![Yammer profile content](../media/yam_former_member.png)
+
 ### Q: My company has a configuration where not all Yammer users are yet in Office 365. How does life cycle management work in this case?
 
 A: The users who log on to Yammer with Office 365 credentials can be managed in Office 365. You can continue to manage the users who don't use their Office 365 credentials the same way you manage them today. Eventually, when you move everyone to Office 365, you will have one single place to manage all your users (including those who use Yammer).
   
+## See also
 
+[Manage a Yammer group](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+
+[Remove a user from a group](https://support.office.com/en-us/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2#removemember)

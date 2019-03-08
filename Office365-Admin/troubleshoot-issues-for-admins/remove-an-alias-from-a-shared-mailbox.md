@@ -1,8 +1,8 @@
 ---
 title: "Troubleshoot Remove an alias from a shared mailbox"
 ms.author: anfowler
-author: anfowler
-manager: scotv
+author: adefowler
+manager: mnirkhe
 ms.audience: Admin
 ms.topic: troubleshooting
 f1_keywords:
@@ -12,7 +12,9 @@ f1_keywords:
 - 'AdminSharedMbx_TSAlias'
 ms.service: o365-administration
 localization_priority: None
-ms.collection: Adm_O365
+ms.collection: 
+- M365-subscription-management 
+- Adm_O365
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration

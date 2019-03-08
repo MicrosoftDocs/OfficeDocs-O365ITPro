@@ -11,7 +11,8 @@ f1_keywords:
 - 'O365E_DOM_Gen'
 ms.service: o365-administration
 localization_priority: Priority
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365_Top
 - strat_admin_top
 ms.custom:
@@ -109,8 +110,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
 
 Add an MX record so email for your domain will come to Office 365.  *When you update your domain's MX record, all new email for anyone who uses your domain will now come to Office 365*. Any email you already have will stay at your current email host, unless you decide to [migrate email and contacts to Office 365](../setup/migrate-email-and-contacts-admin.md) to Office 365. 
   
-> [!TIP]
-> Instead of switching all of your company's email to Office 365, you can [pilot Office 365 email](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7.aspx) with just a few email addresses. 
   
  **Task**
   
@@ -242,7 +241,7 @@ On your DNS host's website, you'll create three new CNAME records, typically one
 |:-----|:-----|:-----|:-----|
 |**Record Type** <br/> |**Host** <br/> |**Points to** <br/> |**TTL** <br/> |
 |CNAME (Alias)  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |1 hour  <br/> |
-|CNAME (Alias)  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |1 hour  <br/> |
+|CNAME (Alias)  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |1 hour  <br/> |
    
 ::: moniker-end
 
@@ -255,7 +254,7 @@ On your DNS host's website, you'll create three new CNAME records, typically one
 |:-----|:-----|:-----|:-----|
 |**Record Type** <br/> |**Host** <br/> |**Points to** <br/> |**TTL** <br/> |
 |CNAME (Alias)  <br/> |enterpriseregistration  <br/> |enterpriseregistration.microsoftonline.de  <br/> |1 hour  <br/> |
-|CNAME (Alias)  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |1 hour  <br/> |
+|CNAME (Alias)  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |1 hour  <br/> |
    
 ::: moniker-end
 
@@ -283,8 +282,8 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
     
 2. When you've finished, save the record.
     
-3. To validate your SPF record, use one of these [SPF validation tools](https://support.office.com/article/92a43f6a-4651-455a-a1cc-300684bedcfa.aspx).
-    
+3. To validate your SPF record, use one of these [SPF validation tools](https://docs.microsoft.com/office365/admin/setup/domains-faq#how-can-i-validate-spf-records-for-my-domain)
+
 ::: moniker-end
 
 ::: moniker range="o365-germany"
@@ -308,7 +307,7 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
     
 2. When you've finished, save the record.
     
-3. To validate your SPF record, use one of these [SPF validation tools](https://support.office.com/article/92a43f6a-4651-455a-a1cc-300684bedcfa.aspx).
+3. To validate your SPF record, use one of these [SPF validation tools](https://docs.microsoft.com/office365/admin/setup/domains-faq#how-can-i-validate-spf-records-for-my-domain)
     
 ::: moniker-end
 
@@ -333,7 +332,7 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
     
 2. When you've finished, save the record.
     
-3. To validate your SPF record, use one of these [SPF validation tools](https://support.office.com/article/92a43f6a-4651-455a-a1cc-300684bedcfa.aspx).
+3. To validate your SPF record, use one of these [SPF validation tools](https://docs.microsoft.com/office365/admin/setup/domains-faq#how-can-i-validate-spf-records-for-my-domain)
     
 ::: moniker-end
 

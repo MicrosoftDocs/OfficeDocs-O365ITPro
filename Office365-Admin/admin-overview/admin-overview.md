@@ -7,7 +7,8 @@ ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365
 - Adm_O365_Top
 - strat_admin_top
@@ -59,7 +60,7 @@ If you get the message "**You don't have permission to access this page or perfo
 
 When looking for your admin to reset your password, delete an account, or do other tasks, here's who you should contact:
   
-- **Universities and schools**: Contact your technical support team. Usually you can find a link on your university site. At smaller schools, there may be just a couple technical people who have admin permissions. 
+- **Universities and schools**: Contact your technical support team. Usually you can find a link on your university site. At smaller schools, there may be just a few individuals who have admin permissions. 
     
 - **Large businesses**: Contact your internal help desk / technical support. 
     

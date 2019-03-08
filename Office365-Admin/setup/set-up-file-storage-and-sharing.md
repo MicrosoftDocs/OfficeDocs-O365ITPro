@@ -7,7 +7,8 @@ ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365_Setup
 - Adm_O365_Top
 - strat_admin_top
@@ -34,7 +35,9 @@ description: "Learn how to use OneDrive for Business and a team site for file st
 One of the best ways to set up file storage and sharing for your business is to use OneDrive for Business and a team site together. This is ideal if you have a small business with a few employees.
   
 Office 365 includes a basic team site for you to get started. You can immediately start storing files in OneDrive and collaborating on files in the team site.
-  
+
+> [!NOTE]
+> The basic team site is still provided but is now hidden. It can only be accessed from the Office 365 admin center or the SharePoint Online admin center.
   
 ## Where you can store documents in Office 365
 
@@ -220,7 +223,7 @@ You can enable third-party storage for your users in Office 365 so they can stor
     
 ## Next steps
 
-- [Customize your team site for file storage and sharing](cutomize-team-site.md) . This step-by-step tutorial shows you how to you can take advantage of more storage and collaboration features. 
+- [Customize your team site for file storage and sharing](customize-team-site.md) . This step-by-step tutorial shows you how to you can take advantage of more storage and collaboration features. 
     
 - **Set up Office apps on your tablets and phones.**You need to do this so you can **edit** files that are stored in OneDrive and on team sites from your tablet or phone. If you don't install the Office apps for your tablet or phone, you'll be able to view the files but not edit them. 
     

@@ -13,7 +13,8 @@ keywords:
 - 'trial,Trial,Buy,Buy'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection:
+ms.collection: 
+- M365-subscription-management
 - Adm_O365
 - Adm_UI_Elements
 ms.custom:
@@ -36,7 +37,14 @@ You've tried Office 365, and now you're ready to buy. You have two options when 
   
 - [Buy the same plan as your trial](#buy-the-same-plan-as-your-trial)
 - [Buy a different plan than your trial](#buy-a-different-plan-than-your-trial)
-    
+
+- ::: moniker range="o365-worldwide"
+
+> [!TIP]
+> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end
+
 ## Buy the same plan as your trial
 
 Check out the video below or follow the steps to complete your order.
@@ -58,6 +66,10 @@ It's easy, and, when you buy the same type of subscription as your trial version
 ## Buy a different plan than your trial
 
 If you purchase a different type of subscription that your trial, you will have to reassign your user licenses from your trial plan to your new plan (before your 90-day grace period ends after your trial plan expires) in order to retain your data, accounts, and configuration.
+
+Check out the video below or follow the steps to complete your order.
+  
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2KbLb?autoplay=false]
   
 1. Sign in to Office 365 with your work or school account as a global admin. [Learn how to sign in](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
     
@@ -79,13 +91,6 @@ If you purchase a different type of subscription that your trial, you will have 
 5. Select the subscription that you want to purchase and then select **Buy now**.
     
 6. Complete the steps to check out.
-
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
 
 ## Related topics
 
