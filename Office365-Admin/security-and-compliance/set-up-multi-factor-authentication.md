@@ -3,7 +3,6 @@ title: "Set up multi-factor authentication for Office 365 users"
 ms.author: Dianef
 author: Dianef
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -34,7 +33,6 @@ description: "Learn how to set up multi-factor authentication for Office 365 use
 
 # Set up multi-factor authentication
 
-  
 This article describes how to set up multi-factor authentication (MFA) for Office 365 users. For more information about MFA, see [How Azure multi-factor authentication works](https://go.microsoft.com/fwlink/p/?LinkId=627437).
   
 You get a free version of Azure multi-factor authentication as part of your Office 365 for business subscription. For a list of features included in your version of Office 365, see [How to get Azure Multi-Factor Authentication](https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-authentication-versions-plans).
@@ -78,7 +76,7 @@ You get a free version of Azure multi-factor authentication as part of your Offi
 > [!IMPORTANT]
 > App passwords are not supported for Office 365 operated by 21Vianet. 
   
-MFA is enabled per user. This means that if a user has MFA-enabled, they won't be able to use a non-browser client, such as Outlook 2013 with Office 365, until they create an app password. An app password is a password that is created within the Azure portal and that allows the user to bypass MFA and continue to use their application.
+MFA is enabled per user. This means that if a user has MFA-enabled with a text message or a phone call, they won't be able to use a non-browser client, such as Outlook 2013 with Office 365, until they create an app password. An app password is a password that is created within the Azure portal and that allows the user to bypass MFA and continue to use their application.
   
 All Office 2016 client applications support MFA through the use of the Active Directory Authentication Library (ADAL). This means that app passwords aren't required for Office 2016 clients. However, if you find that this is not the case, make sure your Office 365 subscription is enabled for ADAL. Connect to [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?linkid=534121) and run the following command: 
 
