@@ -3,7 +3,7 @@ title: "Integrate Yammer with other applications"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 2/19/2019
+ms.date: 3/8/2019
 ms.audience: Admin
 ms.topic: reference
 ms.prod: office-online-server
@@ -39,11 +39,11 @@ The [Yammer connector](https://docs.microsoft.com/connectors/yammer/) is a host 
   
 ## Yammer and Flow
 
-[Microsoft Flow](https://docs.microsoft.com/flow/) can be used with Yammer. For example, you could set up a flow to post to Yammer whenever a SharePoint site is updated. 
+[Microsoft Flow](https://docs.microsoft.com/flow/) can be used with Yammer.  
 
-- For a list of flow templates for connecting flow and Yammer, see [Flow Yammer templates](https://flow.microsoft.com/connectors/shared_yammer/yammer/). 
+- For a list of Flow templates for connecting Flow and Yammer, see [Flow Yammer templates](https://flow.microsoft.com/connectors/shared_yammer/yammer/). Examples include using an RSS feed to send news to a Yammer group, posting to Yammer if new tweets match with a hashtag, posting to SharePoint when a message is posted in a group, posting to Yammer for a selected item or when a new item is posted in SharePoint, sending email when a new message is posted, and posting to Yammer from Facebook and Twitter.
 
-- For detailed examples, see: 
+- For other examples using Flow, see: 
     - [Create a knowledge-based community in Yammer by using QnA Maker and Flow](knowledge-base-community-flow-qna-maker.md)
     - [Identify sentiment of comments in a Yammer group by using Azure Cognitive Services and Flow](sentiment-analysis-flow-azure.md).
 
