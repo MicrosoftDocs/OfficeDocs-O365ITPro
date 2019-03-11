@@ -81,16 +81,15 @@ MFA is enabled per user. This means that if a user has MFA-enabled with a text m
 All Office 2016 client applications support MFA through the use of the Active Directory Authentication Library (ADAL). This means that app passwords aren't required for Office 2016 clients. However, if you find that this is not the case, make sure your Office 365 subscription is enabled for ADAL. Connect to [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?linkid=534121) and run the following command: 
 
 
-    
+```powershell
     Get-OrganizationConfig | Format-Table name, *OAuth*
-    
+```    
   
 If you need to enable ADAL, run the following command:
 
-
-    
+```powershell
     Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true
-    
+```   
   
 Here's how to allow your users to create App passwords: 
 
