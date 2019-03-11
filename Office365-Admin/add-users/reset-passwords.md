@@ -57,7 +57,7 @@ These steps are only for people using an Office 365 business plan. To do them, y
  
 ::: moniker range="o365-worldwide"
 
-1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
+1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
 
 ::: moniker-end
 
@@ -73,38 +73,32 @@ These steps are only for people using an Office 365 business plan. To do them, y
 
 ::: moniker-end
 
-2. Go to [Users \> Active users](https://go.microsoft.com/fwlink/?linkid=866448).
+2. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-3. Select your users.
+3. On the **Active users** page, choose the user and then choose **Reset password**.
     
-    ![Choose one or more users.](../media/f537b3c8-8bc7-44a6-a548-8969c4ab2d73.png)
-  
-4. Click **Reset password**. 
+4. Follow the instructions on the **Reset password** page to auto-generate a new password for the user or create one for them, and then click **Reset**.  
     
-    ![The Reset password button.](../media/b2c7f0c6-3297-48a6-b77e-e6877222b9db.png)
-  
-5. Follow text on page.
-    
-    ![Create a password.](../media/dc90e67d-65ec-49d1-a3af-8bc53b59b4fb.png)
+5. Enter an email address the user can get to so they receive the new password, and follow up with them to make sure they got it.
+ 
   
 ## Reset my Office 365 tenant admin password
-<a name="bkmk_forgot"> </a>
 
 - Use these steps if you forgot your password but you're able to sign in to Office 365 because, for example, your password is saved in your browser: 
     
-1. In Office 365, choose **Settings** \> **Office 365** \> **Personal info**. 
-    
-    ![An image that shows where to click on Settings.](../media/5d13d864-09dd-45be-b60e-28a977ecc13e.png)
-  
-2. Double-check that your **Contact details** and **Alternate email** are accurate. If not, change them now. 
-    
-3. Sign out of Office 365: click on your name in the upper right corner (in the above image, shown as **Diane**) \> **Sign out**. 
-    
-4. Now sign in again: type your user name \> **Next** \> and then choose **Forgot password**. 
-    
-    ![Choose Forgot my password](../media/06a9e4b6-8fcd-45fe-9f37-b33511bc72fb.png)
-  
-5. Follow the steps in the wizard to reset your password. It uses your alternate contact info to verify you're the right person to reset your password. 
+    1. In Office 365, choose **Settings** \> **Office 365** \> **Personal info**. 
+        
+        ![An image that shows where to click on Settings.](../media/5d13d864-09dd-45be-b60e-28a977ecc13e.png)
+      
+    2. Double-check that your **Contact details** and **Alternate email** are accurate. If not, change them now. 
+        
+    3. Sign out of Office 365: click on your name in the upper right corner (in the above image, shown as **Diane**) \> **Sign out**. 
+        
+    4. Now sign in again: type your user name \> **Next** \> and then choose **Forgot password**. 
+        
+        ![Choose Forgot my password](../media/06a9e4b6-8fcd-45fe-9f37-b33511bc72fb.png)
+      
+    5. Follow the steps in the wizard to reset your password. It uses your alternate contact info to verify you're the right person to reset your password. 
     
 - If you forgot your password and can't sign in: 
     
@@ -117,19 +111,17 @@ These steps are only for people using an Office 365 business plan. To do them, y
 
 These steps work for a business with tens of users. If you have hundreds or thousands of users, see the next section on resetting passwords in bulk.
   
-1. In the admin center, go to [Users \> Active users](https://go.microsoft.com/fwlink/?linkid=866448).
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
 2. Choose the box at top to select everyone in your business. Then unselect yourself. You can't reset your own password at the same time you reset everyone else's password.
     
-    ![Choose the box at top to select everyone in your organization.](../media/e82efe16-24d7-4812-aad4-f5bd5c72ea66.png)
-  
-3. On the right side of page, choose **Reset passwords**. 
+3. Choose **Reset passwords**. 
+
+4. Follow the instructions on the **Reset password** page, and choose **Reset**.  If you opted for auto-generating the passwords, the new temporary passwords will be displayed.   
     
-    ![Choose Reset passwords](../media/dbbf2f03-28a8-4c1b-a64d-6c821dbd3a7e.png)
-  
-4. Follow text on rest of page.
+5. Enter an email address where you can receive the temporary passwords. You'll need to notify your users what their temporary passwords are.
     
-    ![Create a password.](../media/dc90e67d-65ec-49d1-a3af-8bc53b59b4fb.png)
+
   
 ## Reset Office 365 business passwords in bulk
 <a name="bkmk_forgot"> </a>

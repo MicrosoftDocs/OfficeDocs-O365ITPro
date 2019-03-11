@@ -50,42 +50,38 @@ Here are a couple of tips:
 - If your business uses Active Directory, see [How to troubleshoot deleted user accounts in Office 365](https://support.microsoft.com/kb/2619308) for instructions on restoring a user account. 
     
 ## Restore one or more user accounts
-<a name="__toc336346186"> </a>
 
-You must have [admin permissions](about-admin-roles.md) in Office 365 to do this. 
+You must be a global admin or user management admin in Office 365 to do these steps. 
   
  
 ::: moniker range="o365-worldwide"
 
-1. Go to the [Microsoft 365 admin center.](https://admin.microsoft.com/adminportal/home).
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2071581" target="_blank">Deleted users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
 1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
+1. In the admin center, go to **Users** \> **Deleted users**.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
 1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
+1. In the admin center, go to **Users** \> **Deleted users**.
 
 ::: moniker-end
 
-2. In the admin center, go to **Users** \> **Deleted users**.
+3. On the **Deleted users** page, choose the names of the users who you want to restore, and then select **Restore**.
     
-    ![Choose Users \> Deleted users.](../media/bd041355-906e-440b-b1ce-00cabf12d490.png)
-  
-3. On the **Deleted users** page, choose the names of the users that you want to restore, and then select **Restore**.
-    
-    ![Restore a user.](../media/ab9119f4-b5a4-4f29-8397-67734ed86165.png)
-  
-4. Follow the prompts to set the password.
+ 
+4. Follow the prompts to set their password, and then choose **Restore**.
     
 5. If the user is successfully restored, click **Send email and close**. If you encounter a name conflict or proxy address conflict, see the instructions below for how to restore those accounts.
     
-After you've restored a user, make sure you reset the user's password; see [Reset a user's password](reset-passwords.md).
+After you've restored a user, make sure you notify them that their password changed and you follow up with them.
   
 ## Restore a user that has a user name conflict
 <a name="RestoreUserNameConflict"> </a>
@@ -97,34 +93,31 @@ To fix this, replace the active user account with the one that you are restoring
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [Microsoft 365 admin center.](https://admin.microsoft.com/adminportal/home).
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2071581" target="_blank">Deleted users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
 1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
+1. In the admin center, go to **Users** \> **Deleted users**.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
 1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
+1. In the admin center, go to **Users** \> **Deleted users**.
 
 ::: moniker-end
 
-2. In the admin center, go to **Users** \> **Deleted users**.
-    
-    ![Choose Users \> Deleted users.](../media/bd041355-906e-440b-b1ce-00cabf12d490.png)
   
 3. On the **Deleted users** page, choose the names of the users that you want to restore, and then select **Restore**.
     
     > [!NOTE]
     > If two or more users fail to be restored, an error message advises you that the restore operation failed for some users. View the log to see which users were not restored, and then restore the failed accounts one at a time. 
   
-4. Follow the prompts to set the password.
-    
-5. Click **Restore**.
+4. Follow the prompts to set the password and click **Restore**.
     
 6. A message pops up that says there was a problem restoring the account. Do one of the following:
     
@@ -135,7 +128,6 @@ To fix this, replace the active user account with the one that you are restoring
 7. Review the results, and then select **Close**.
     
 ## Restore a user that has a proxy address conflict
-<a name="RestoreUserProxyConflict"> </a>
 
 A proxy address conflict occurs when you delete a user account that contains a proxy address, assign the same proxy address to another account, and then try to restore the deleted account. Follow the steps below to fix this issue.
   
@@ -144,36 +136,31 @@ You must have [admin permissions](about-admin-roles.md) in Office 365 to do this
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [Microsoft 365 admin center.](https://admin.microsoft.com/adminportal/home).
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2071581" target="_blank">Deleted users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
 1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
+1. In the admin center, go to **Users** \> **Deleted users**.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
 1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
+1. In the admin center, go to **Users** \> **Deleted users**.
 
 ::: moniker-end
 
-2. In the admin center, go to **Users** \> **Deleted users**.
-    
-    ![Choose Users \> Deleted users.](../media/bd041355-906e-440b-b1ce-00cabf12d490.png)
-  
 3. On the **Deleted users** page, select the user that you want to restore, and then select **Restore**. 
     
-4. On the **Restore** page, follow the instructions to set the password.
-    
-5. Click **Restore**. Any conflicting proxy addresses are automatically removed from the user you are restoring.
+4. On the **Restore** page, follow the instructions to set the password and click **Restore**. Any conflicting proxy addresses are automatically removed from the user you are restoring.
     
 6. Review the results, and then select **Close**.
 
 ## Related Topics
-<a name="RestoreUserProxyConflict"> </a>
 
 [Delete a user](delete-a-user.md)
   
