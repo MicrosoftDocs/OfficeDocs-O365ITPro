@@ -35,7 +35,7 @@ description: "Learn how to set up multi-factor authentication for Office 365 use
 # Set up multi-factor authentication
 
   
-This article describes how to set up multi-factor authentication (MFA) for Office 365 users. For more information about MFA, see [Plan for multi-factor authentication for Office 365 Deployments](multi-factor-authentication-plan.md) and [How Azure multi-factor authentication works](https://go.microsoft.com/fwlink/p/?LinkId=627437).
+This article describes how to set up multi-factor authentication (MFA) for Office 365 users. For more information about MFA, see [How Azure multi-factor authentication works](https://go.microsoft.com/fwlink/p/?LinkId=627437).
   
 You get a free version of Azure multi-factor authentication as part of your Office 365 for business subscription. For a list of features included in your version of Office 365, see [How to get Azure Multi-Factor Authentication](https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-authentication-versions-plans).
   
@@ -48,7 +48,7 @@ You get a free version of Azure multi-factor authentication as part of your Offi
 
 - If you're using the preview version of the admin center, you can find the option for MFA here:  
 
-     ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/More-button-for-MFA.png)
+     ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/mfamenu.png)
  
 - In the classic version, you'll find it here:
     
@@ -103,7 +103,7 @@ Here's how to allow your users to create App passwords:
 - If you're using the preview version of the admin center, you can find the option for MFA here:  
 
 
-     ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/More-button-for-MFA.png)
+     ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/mfamenu.png)
  
 - In the classic version, you'll find it here:
     
