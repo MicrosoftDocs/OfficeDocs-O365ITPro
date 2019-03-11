@@ -37,11 +37,7 @@ As the admin of an Office 365 organization, you might have company requirements 
 ## Configure email forwarding
 
  Before you set up email forwarding, note the following: 
-  
-- **To forward to multiple email addresses**, you can ask the user to set up a rule in Outlook to forward to the addresses. To learn more, see [Use rules to automatically forward messages](https://support.office.com/article/use-rules-to-automatically-forward-messages-45aa9664-4911-4f96-9663-ece42816d746). 
-    
-     Or, in the admin center, [create a distribution list](../setup/create-distribution-lists.md), [add the addresses to it](add-user-or-contact-to-distribution-list.md), and then set up forwarding to point to the DL using the instructions in this article.
-    
+
 - Once you set up email forwarding, only **new** emails sent to the  *from*  mailbox will be fowarded. 
     
 - Email forwarding requires that the  *from*  account has a license. If you're setting up email forwarding because the user has left your organization, another option is to [convert their mailbox to a shared mailbox](convert-user-mailbox-to-shared-mailbox.md). This way several people can access it. However, a shared mailbox cannot exceed 50GB. 
@@ -71,12 +67,12 @@ You must have [admin permissions](../add-users/about-admin-roles.md) in Office 3
  
 3. Choose the **Mail** tab and then choose **Manage email forwarding**. 
   
-4. On the Manage email forwarding page, set the toggle to **On**, enter the forwarding address, and choose whether you want to keep a copy of forwarded emails. If you don't see this option, make sure a license is assigned to the user account. Choose **Save**.
+4. On the **Manage email forwarding** page, set the toggle to **On**, enter the forwarding address, and choose whether you want to keep a copy of forwarded emails. If you don't see this option, make sure a license is assigned to the user account. Choose **Save**.
     
     **To forward to multiple email addresses**, you can ask the user to set up a rule in Outlook to forward to the addresses. To learn more, see [Use rules to automatically forward messages](https://support.office.com/article/use-rules-to-automatically-forward-messages-45aa9664-4911-4f96-9663-ece42816d746). 
     
      Or, in the admin center, [create a distribution list](../setup/create-distribution-lists.md), [add the addresses to it](add-user-or-contact-to-distribution-list.md), and then set up forwarding to point to the DL using the instructions in this article.
     
-5. Remember, don't delete the account of the user who's email you're forwarding or remove their license! 
+5. Don't delete the account of the user who's email you're forwarding or remove their license!  If you do, email forwarding will stop. 
     
 

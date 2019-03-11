@@ -66,7 +66,7 @@ When you change your domain's email to come to Office 365, by updating your doma
 
 ::: moniker-end
 
-You must have global admin account to perform these steps. 
+You must have a global admin account to perform these steps. 
 
 ::: moniker range="o365-worldwide"
 
