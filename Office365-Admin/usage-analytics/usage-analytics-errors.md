@@ -28,7 +28,7 @@ description: "Learn how to troubleshoot issues with the Office 365 Adoption cont
 Explore the following list of error messages to get help with the most common issues with Microsoft 365 usage analytics.
   
     
-## We are unable to process your request. You have to first subscribe to this data from the Office 365 Admin Portal
+## We are unable to process your request. You have to first subscribe to this data from the Microsoft 365 admin center
 
  **Error Code :** 422 
   
@@ -42,7 +42,7 @@ Explore the following list of error messages to get help with the most common is
 
  **Where you will see this message:** In the **Office 365 Adoption** tile on the **Usage** dashboard in the Microsoft 365 admin center. 
   
- **Cause:** When you [opt in to seeing data in the content pack](enable-usage-analytics.md) from the Office 365 admin portal, the Office 365 system starts generating historical usage data for your organization. Depending on the size of your tenant, this step could take anywhere between 2 hours to 48 hours. 
+ **Cause:** When you [opt in to seeing data in the content pack](enable-usage-analytics.md) from the Microsoft 365 admin center, the Office 365 system starts generating historical usage data for your organization. Depending on the size of your tenant, this step could take anywhere between 2 hours to 48 hours. 
   
  **To fix this:** Just be patient, but if the message does not change to **Your data is ready** after 3 days, [contact Office 365 for business support](../contact-support-for-business-products.md).
   

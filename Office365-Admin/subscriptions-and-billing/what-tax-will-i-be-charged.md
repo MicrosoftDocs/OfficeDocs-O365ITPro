@@ -25,40 +25,56 @@ description: "Find out how much tax you will be charged for your Office 365 for 
 
 # What tax will I be charged for Office 365?
 
-Find out what tax you're charged in the following regions. You can also [apply for tax exempt status](apply-for-tax-exempt-status.md) by providing the proper documentation to Support. 
+Find out what tax you're charged in the following regions. You can also [apply for tax exempt status](apply-for-tax-exempt-status.md) by providing the proper documentation to Support.
   
 ## Europe, the Middle East, and Africa (EMEA)
 
 When you buy Office 365 services in the European Union, this purchase is subject to Value-Added Tax (VAT).
   
 - If you're located in a European Union Member State and you do not provide your valid local VAT ID, Microsoft Ireland Operations Ltd. will apply current local VAT rate, based on the billing country your account is set to.
-    
+
 - If you're located in Switzerland or Liechtenstein, the current Swiss VAT rate is applied, whether you provide your VAT ID or not.
-    
+
 - Generally, if you're located in an EMEA country outside the European Union and Switzerland/Liechtenstein, VAT is not charged by Microsoft Ireland Operations Ltd.
-    
+
 - Before we can validate your VAT ID, it must be available for verification in the VAT Information Exchange System (VIES). If your VAT ID cannot be verified, please contact your local tax authority.
-    
+
 You might qualify for VAT zero-rating:
   
 - **If you're in a European Union Member State outside Ireland:** You can provide your valid local VAT ID. This will entitle Microsoft Ireland Operations Ltd. to VAT zero-rate the transaction. However, you may have a local VAT accounting obligation, so please check with your tax advisers if you have any concerns. For instructions, see "Add your VAT ID (EU countries only)" below.
-    
-- **If you're in Ireland and you have relevant valid VAT exemption certification:** Microsoft Ireland Operations Ltd. may be entitled to exempt the transaction from VAT. If you don't, Microsoft Ireland Operations Ltd. applies the current Irish VAT rate, whether you provide a VAT ID or not. 
-    
+
+- **If you're in Ireland and you have relevant valid VAT exemption certification:** Microsoft Ireland Operations Ltd. may be entitled to exempt the transaction from VAT. If you don't, Microsoft Ireland Operations Ltd. applies the current Irish VAT rate, whether you provide a VAT ID or not.
+
 ### Add your VAT ID (EU countries only)
+
+::: moniker range="o365-worldwide"
   
-1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
-    
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. 
-    
+#### Use the admin center (preview) to add your VAT ID
+
+The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
+
+2. Find the subscription card for the subscription you want to update.
+
+3. In the **Settings & Actions** section, choose **Edit service usage address**.
+
+4. On the **Edit your service usage address** page, enter your VAT ID in the **VAT number** box, and then choose **Save**.
+
+::: moniker-end
+
+::: moniker range="o365-worldwide"
+#### Use the old admin center to add your VAT ID
+::: moniker-end
+  
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
+
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
+
 2. Choose the subscription name, and then choose **More actions** \> **Edit VAT number**.
-    
-    ![Close up of the More actions menu.](../media/f16a3f1c-9f92-4a2b-89ff-6cff053edbbf.png)
   
 3. On the **Edit your service usage address** page, enter your VAT ID in the **VAT number** box, and then choose **Submit**.
-    
-    ![The Edit your service usage address page with the VAT number box at the bottom.](../media/34470bab-cda4-4618-a014-477bca28d740.png)
-  
+
 ## Asia Pacific countries (APAC)
 
 If you're billed by the Microsoft Regional Sales office, "Microsoft Regional Sales" appears on your invoice, and you're usually not charged a consumption or Value-Added Tax (VAT) tax unless it is a domestic sale.
@@ -66,13 +82,13 @@ If you're billed by the Microsoft Regional Sales office, "Microsoft Regional Sal
 If you're billed from another location, the current local tax is applied. You'll see the following [on your invoice](view-your-bill-or-invoice.md):
   
 - Singapore to Singapore
-    
+
 - Korea to Korea
-    
+
 - Japan to Japan
-    
+
 - Taiwan to Taiwan
-    
+
 ## North, Central, and South America
 
 In the United States and Canada, various tax rates apply depending on your location. In Puerto Rico, local Value-Added Tax (VAT) charges apply.

@@ -11,7 +11,7 @@ f1_keywords:
 - 'O365E_O365E_ManageDNS_SwitchDNSMgt'
 - 'O365E_ManageDNS_SwitchDNSMgt'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
@@ -417,9 +417,9 @@ You can, but there are limitations:
     
         1. Do not create a new MX record or change your existing MX record.
             
-        2. If you already have a Sender Policy Framework (SPF) record for your previous email provider, instead of creating a new SPF (TXT) record for Exchange Online, just add "include:outlook.com" to the current TXT record. For example, "v=spf1 mx include:adatum.com include:spf.protection.outlook.com ~all".
+        2. If you already have a Sender Policy Framework (SPF) record for your previous email provider, instead of creating a new SPF (TXT) record for Exchange Online, just add "include:spf.protection.outlook.com" to the current TXT record. For example, "v=spf1 mx include:adatum.com include:spf.protection.outlook.com ~all".
             
-        3. If you don't have an SPF record yet, modify the one recommended by Office 365 to include the domain for your current email provider, plus protection.outlook.com. This authorizes outgoing messages from both email systems.
+        3. If you don't have an SPF record yet, modify the one recommended by Office 365 to include the domain for your current email provider, plus spf.protection.outlook.com. This authorizes outgoing messages from both email systems.
             
 7. Set up email forwarding at your current provider
     

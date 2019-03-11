@@ -36,7 +36,7 @@ While users can create an Office 365 group from Outlook or other apps, as an adm
 
 ::: moniker range="o365-worldwide"
 
-Go to the [admin center.](https://admin.microsoft.com/adminportal/home).
+Go to the [Microsoft 365 admin center.](https://admin.microsoft.com).
 
 ::: moniker-end
 
@@ -102,7 +102,7 @@ When you turn this setting on, group members will get a copy of group emails and
 
 Group members can opt out of receiving these emails by choosing to stop following the group in Outlook.
 
-1. In the admin center groups list, click the group you want to change, and then click **Edit** next to the group name.
+1. In the Microsoft 365 admin center groups list, select the group you want to change, and then click **Edit** next to the group name.
 
 2. Turn **Send copies of group conversations and events to group members' inboxes** to **On** if you want members to receive copies of group messages and calendar items in their own inbox.
 

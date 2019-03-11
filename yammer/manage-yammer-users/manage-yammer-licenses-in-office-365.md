@@ -19,7 +19,7 @@ description: "Yammer is moving from a licensing model where the entire Office 36
 
 # Manage Yammer user licenses in Office 365
 
-When you assign user licenses as part of a bundled Office 365 subscription plan such as Office 365 Enterprise E3, the Yammer license is automatically assigned to the user. You can remove or assign Yammer licenses for specific users in the Office 365 admin center or by using Windows PowerShell cmdlets for Office 365.
+When you assign user licenses as part of a bundled Office 365 subscription plan such as Office 365 Enterprise E3, the Yammer license is automatically assigned to the user. You can remove or assign Yammer licenses for specific users in the Microsoft 365 admin center or by using Windows PowerShell cmdlets for Office 365.
   
 You can block users who don't have Yammer licenses from accessing Yammer by turning on the security setting **Block Office 365 users without Yammer licenses** (see [Start blocking users who don't have Yammer licenses](manage-yammer-licenses-in-office-365.md#StartBlocking)).
   
@@ -27,13 +27,13 @@ You need to be an Office 365 global administrator or user management administrat
   
 Only users with a Yammer license will see a Yammer tile in the Office 365 app launcher. 
   
-![Assign licenses section of Office 365 admin center with Yammer Enterprise license available to assign.](../media/33a074a6-6141-4293-89b2-17c0845c7020.png)
+![Assign licenses section of Microsoft 365 admin center with Yammer Enterprise license available to assign.](../media/33a074a6-6141-4293-89b2-17c0845c7020.png)
   
-## Manage Yammer licenses in the Office 365 admin center
+## Manage Yammer licenses in the Microsoft 365 admin center
 
 You assign or remove the Yammer license to users the same way you assign any other Office 365 Enterprise E3 license.
   
-- Sign in to Office 365 Enterprise E3, navigate to the Office 365 admin center, and on the **Users** \> **Active Users** page, assign or remove the Yammer license for users. 
+- Sign in to Office 365 Enterprise E3, navigate to the Microsoft 365 admin center, and on the **Users** \> **Active Users** page, assign or remove the Yammer license for users. 
     
 See [Assign licenses to users in Office 365 for business](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc) and [Remove licenses from users in Office 365 for business](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1) for more information. 
   

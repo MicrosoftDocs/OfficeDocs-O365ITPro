@@ -21,7 +21,7 @@ description: "Starting January 31, 2019, Yammer Enterprise users can no longer u
 Starting January 31, 2019, Yammer Enterprise users that try to log in using legacy Yammer credentials instead of an Azure Active Directory (AAD) account will be redirected to a new sign up flow and will be asked to create a new password. After completing the required steps, an AAD account with no Office 365 licenses will be automatically created for the user. This process is called self-service signup.  
 
 - After changing their password, these users will be able to access your Yammer network, and will have access to all their groups and data. 
-- After the AAD account is created for a user, admins can manage the user from the Office 365 admin center.  
+- After the AAD account is created for a user, admins can manage the user from the Microsoft 365 admin center.  
 
 As a Yammer admin, if you want to prevent these users who don’t have Office 365 licenses from accessing your Yammer network, you can choose to enforce Office 365 licenses. For instructions, see [Enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md).
  

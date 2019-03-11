@@ -47,6 +47,12 @@ description: "Follow this checklist to remove an employee from Office 365 and se
   
 ## Sign out now!
 
+::: moniker range="o365-worldwide"
+
+> [!TIP]
+> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end
 
 If you need to get an employee out of Office 365 immediately, here's what you do:
   
@@ -83,13 +89,6 @@ For more information about how long it takes to get someone out of email, see [W
   
 ## Overview of all the steps to remove an employee and secure data
 <a name="bkmk_now"> </a>
-
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
 
 A question we often get is, "What should I do to protect data when an employee leaves the organization?" This article explains how to block access to Office 365 and the steps you should take to secure your data.
   
