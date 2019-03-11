@@ -54,7 +54,7 @@ You can create up to 400 aliases for a user. No additional fees or licenses are 
 
 You must have [admin permissions](../add-users/about-admin-roles.md) to do this. 
   
-1. In the admin center, go to the <a href="" target="_blank">Active users</a> page, or choose **Users** \> **Active users**.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
     ::: moniker range="o365-germany"
     
@@ -68,45 +68,42 @@ You must have [admin permissions](../add-users/about-admin-roles.md) to do this.
 
     ::: moniker-end
     
-2. On the **Active Users** page, select the name of the person you want to edit. 
+2. On the **Active Users** page, select the user > **Manage email aliases**. You won't see this option if the person doesn't have a license assigned to them. 
     
-3. On the right, in the **Username / Email Aliases** row, choose **Edit**.
+3. Choose **+ Add an alias** and enter a new alias for the user.   
     
     > [!Important] 
     > If you get the error message "**A parameter cannot be found that matches parameter name 'EmailAddresses**," it means that it's taking a bit longer to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the set up process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.
     
-4. On the **Edit email addresses** page, in the text box under **Alias**, type the first part of the new email alias. If you added your own domain to Office 365, you can choose the domain for the new email alias by using the drop-down list. Then choose **Add**.
-    
+  
     > [!IMPORTANT]
     > If you purchased your subscription from GoDaddy or another Partner, to set the new alias as the primary, you must go to the GoDaddy/partner management console. 
   
     > [!TIP]
     > The email alias must end with a domain from the drop-down list. To add another domain name to the list, see [Add a domain to Office 365](https://support.office.com/article/2d2fa996-b760-411d-a5cc-190d63f13207.aspx). 
   
-    ![The Edit email addresses and username pane](../media/2518a8b8-1136-4639-b159-35ad21f61437.png)
-  
-5. When you're done, choose **Save**.
+     
+5. When you're done, choose **Save changes**.
     
 6. Wait 24 hours for the new aliases to populate throughout Office 365.
     
     The user now has a primary address and an alias. All mail sent to Eliza@NodPublishers.com and Sales@NodPublishers.com will go to Eliza's Inbox.
     
-    ![This user has a primary address and two aliases.](../media/df6af45a-37a2-4d31-88f3-c788ac978643.png)
   
 7. **When the user replies, the *From*  address will be her primary email alias.** For example, let's say a message is sent to Sales@NodPublishers.com, and it arrives in Eliza's inbox. When Eliza replies to the message, her primary email address will appear as the sender, not Sales@NodPublishers.com. 
     
 ## Did you get "A parameter cannot be found that matches parameter name 'EmailAddresses"?
-<a name="AddEmailPreview"> </a>
+
 
 If you get the error message "**A parameter cannot be found that matches parameter name 'EmailAddresses**" it means that it's taking a bit longer to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the set up process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.
   
 ## Did you purchase your subscription from GoDaddy or another Partner?
-<a name="AddEmailPreview"> </a>
+
 
 If you purchased your subscription from GoDaddy or another Partner, to set the new alias as the primary, you must go to the GoDaddy/partner management console.
   
 ## See Also
-<a name="AddEmailPreview"> </a>
+
 
 [Send email from a different address](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e.aspx)
   
