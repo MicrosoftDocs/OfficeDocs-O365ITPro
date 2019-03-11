@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 03/09/2019
+ms.date: 03/11/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -40,6 +40,6 @@ Organizations can send up to 10,000 SMS messages. If the limit is exhausted, thi
 
 Recipients can receive up to three SMS messages per phone number. If a user has received three texts, this feature does not send more SMS messages to them when they are added to groups or reminded by admins.
 
-## Feedback
+## Let us know
 
-For any feedback, suggestions, or requests, let us know at [kaizalafeedback@microsoft.com](mailto:kaizalafeedback@microsoft.com).
+For any feedback, suggestions, or requests about this feature, let us know at [kaizalafeedback@microsoft.com](mailto:kaizalafeedback@microsoft.com).
