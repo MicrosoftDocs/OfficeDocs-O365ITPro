@@ -3,7 +3,7 @@ title: Export or delete a user's organizational data in Kaizala
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 8/21/2018
+ms.date: 12/21/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -51,6 +51,6 @@ To remove a user from Kaizala, follow the steps below:
     
 The user will be removed from all the groups which belong to your organization. Their data, including messages and content shared on the organization groups, and any Kaizala Actions, will be deleted from the user's device. You have 30 days to restore the account before the user's data is permanently deleted.
   
-If the user originally had access to the Kaizala management portal, they'll no longer have it if they have also been removed from the Azure Active Directory (AAD).
+If the user originally had access to the Kaizala management portal, they'll no longer have it if they have also been removed from the Azure Active Directory (Azure AD).
   
 
