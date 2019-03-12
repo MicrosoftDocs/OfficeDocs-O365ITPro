@@ -25,7 +25,7 @@ Kaizala is commercially available internationally, except in the following count
 - Cuba
 - Iran
 - North Korea
-- People's Republic of China
+- China
 - Region of Crimea 
 - Russia
 - Sudan 
