@@ -32,7 +32,7 @@ In Office 365, Group members typically create their own Groups, add themselves t
   
 ## Add a member to a Group in the admin center
 
-1. Sign in to Office 365 using your global admin or Exchange admin account. Browse to the Microsoft 365 admin center. If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
+1. Sign in to the Microsoft 365 admin center using your global admin or Exchange admin account. If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
     
 2. In the left navigation pane, choose **Groups** \> **Groups**.
     
