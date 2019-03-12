@@ -21,7 +21,7 @@ description: Learn how to enable and disable the Kaizala app in the Kaizala mana
 
 # Enable or disable Kaizala Pro for your organization 
 
-Microsoft Kaizala Pro is commercially [available internationally](regional-availability.md). If Kaizala Pro is available in your area, it’s enabled by default for your organization. For all organizations located somewhere else, Kaizala Pro is disabled by default. In any case, the Office 365 administrator can always enable or disable Kaizala Pro. 
+Microsoft Kaizala Pro is commercially [available internationally](regional-availability.md). If Kaizala Pro is available in your area, it will be visible in the Office 365 app launcher and is enabled by default for your organization. For organizations located somewhere else, Kaizala Pro is disabled by default. In any case, the Office 365 administrator can always enable or disable Kaizala Pro. 
 
 The Office 365 administrator can control whether members of an organization can use Office 365 to log in to the Kaizala app and the Kaizala management portal. 
 
