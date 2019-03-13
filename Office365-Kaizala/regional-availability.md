@@ -3,7 +3,7 @@ title: Kaizala regional availability
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 8/21/2018
+ms.date: 03/16/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: Kaizala
@@ -19,6 +19,7 @@ description: Learn which regional areas Kaizala is now available.
 ---
 
 # Kaizala regional availability
+
 Kaizala is currently available in the following countries:
 
 1. Argentina 
@@ -55,5 +56,8 @@ If your country isn't listed above, you can still try out the preview version of
 > [!NOTE]
 > There's no support for the Kaizala preview app.
 
-## Download links
-If any other information needed go to [https://products.office.com/en-in/business/microsoft-kaizala](https://products.office.com/en-in/business/microsoft-kaizala)
+Kaizala is available on all Android and iOS stores worldwide as a free App.
+
+## More information
+
+For more information, see [https://products.office.com/en-in/business/microsoft-kaizala](https://products.office.com/en-in/business/microsoft-kaizala).
