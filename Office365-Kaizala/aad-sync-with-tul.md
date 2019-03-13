@@ -1,10 +1,10 @@
 ---
-title: Azure Active Directory sync with the Kaizala Tenant User List
+title: Azure Active Directory sync with the Kaizala Directory
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 02/29/2019
+ms.date: 03/12/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -16,10 +16,10 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 
-description: Learn how to enable and disable Azure Active Directory (Azure AD) sync feature in Kaizala.
+description: Learn how to enable and disable Azure Active Directory (Azure AD) and Kaizala Directory sync feature in Kaizala.
 ---
 
-# Azure Active Directory sync with Kaizala Directory
+# Azure Active Directory sync with the Kaizala Directory
 
 The Azure Active Directory (Azure AD) sync feature lets you sync user information in Azure AD with the Kaizala Directory, which serves as your organization directory. As an admin, you can import data and sync changes occurring in the Azure AD. You can use this feature for:
 
@@ -40,7 +40,7 @@ The Azure Active Directory (Azure AD) sync feature lets you sync user informatio
 - Users deleted from the Azure AD are automatically removed from the organization directory and all organization groups.
 - Any information changed in the Azure AD will sync with the Kaizala Directory. For example, if designation of a user is changed in the Azure AD, the change is automatically reflected in the organization directory. 
 
-## Configure the Azure AD-Kaizala Directory sync
+## Configure the Azure AD and Kaizala Directory sync
 
 To configure the Azure AD and Kaizala Directory sync:
 
@@ -53,7 +53,7 @@ To configure the Azure AD and Kaizala Directory sync:
 ![Screenshot of the Add Users window in Azure AD sync.](media/aad-sync-configure.png)
 
 4. Under **AAD Sync**, in the **Manage Mapping** section:
-   - Review and edit name, phone number, and city information of the user to sync with ADD attribute.
+   - Review and edit name, phone number, and city information of the user to sync with Azure AD attribute.
    - Select **Add New Attribute** to add more information. 
 
 ![Screenshot of the Manage Mapping window in Azure AD sync.](media/aad-sync-attributes.png)
@@ -62,7 +62,7 @@ To configure the Azure AD and Kaizala Directory sync:
    - Select **One-time** to sync just once.
    - Select **Recurring** to sync every day. 
 
-6. Select **Next** to start the Azure AD-Directory data sync. 
+6. Select **Next** to start the Azure AD-Kaizala Directory data sync. 
    > [!NOTE]
    > After you select **Next**, the sync process will start and it will take some time for the process to complete. The Azure AD sync will happen regularly based on the frequency set by you.
 
