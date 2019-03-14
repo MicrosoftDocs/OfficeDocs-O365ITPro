@@ -46,7 +46,6 @@ Here's how you convert a mailbox to a shared mailbox:
 
 1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home), and then expand **Admin centers** \> **Exchange**.
 
-
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
@@ -82,7 +81,7 @@ Let's say you've deleted a user account and now you want to convert their old ma
     
 ## Convert a shared mailbox back to a user's (private) mailbox
 
-1. ::: moniker range="o365-worldwide"
+::: moniker range="o365-worldwide"
  
 1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
 
@@ -91,7 +90,6 @@ Let's say you've deleted a user account and now you want to convert their old ma
 ::: moniker range="o365-germany"
 
 1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home), and then expand **Admin centers** \> **Exchange**.
-
 
 ::: moniker-end
 
