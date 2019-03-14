@@ -5,6 +5,8 @@ author: skjerland
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: conceptual
+f1_keywords:
+- 'MACSetupESOverview'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
