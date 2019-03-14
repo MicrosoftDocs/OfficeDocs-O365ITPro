@@ -38,32 +38,26 @@ Here's how you convert a mailbox to a shared mailbox:
  
 ::: moniker range="o365-worldwide"
  
-1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home), and then expand **Admin centers** \> **Exchange**.
+
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn), and then expand **Admin centers** \> **Exchange**.
 
 ::: moniker-end
 
-2. In the admin center, expand **Admin centers** \> **Exchange**.
-    
 3. Choose **Recipients** \> **Mailboxes**.
     
- ![exchadmin](https://user-images.githubusercontent.com/45987684/50208592-923e1d00-0397-11e9-8089-974fe1028b97.PNG)
- 
-4. Choose the User mailbox. Under **Convert to Shared Mailbox**, click **Convert**.
-
- ![covnerttoshared](https://user-images.githubusercontent.com/45987684/50208599-966a3a80-0397-11e9-8148-8d2595343709.PNG)
-  
+4. Choose the User mailbox. Under **Convert to Shared Mailbox**, click **Convert**. 
 
 5. If the mailbox is smaller than 50GB, you can remove the [license from the user](../subscriptions-and-billing/remove-licenses-from-users.md), and stop paying for it. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor. The user won't be able to sign in using the old account.
     
@@ -87,9 +81,25 @@ Let's say you've deleted a user account and now you want to convert their old ma
 6. Add members to the shared mailbox.
     
 ## Convert a shared mailbox back to a user's (private) mailbox
-<a name="bkmk_deleted"> </a>
 
-1. In the admin center, expand **Admin centers** \> **Exchange**.
+1. ::: moniker range="o365-worldwide"
+ 
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home), and then expand **Admin centers** \> **Exchange**.
+
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn), and then expand **Admin centers** \> **Exchange**.
+
+::: moniker-end
     
 2. Choose **Recipients** \> **Shared**.
     
@@ -113,7 +123,7 @@ We've addressed most of the reasons why this happens but it still CAN happen, al
 > If you are an Organization Management or Recipient Management, you will have to use Powershell to change a user mailbox to a shared mailbox on-premises. You can use the command ```   Set-Mailbox -Type Shared   ```
 
 > [!TIP]
-> See the workaround in this support solution for instances when [shared mailboxes are unexpectedly converted to user mailboxes](https://support.microsoft.com/en-us/help/2710029/shared-mailboxes-are-unexpectedly-converted-to-user-mailboxes-after-di)
+> See the workaround in this support solution for instances when [shared mailboxes are unexpectedly converted to user mailboxes](https://support.microsoft.com/help/2710029/shared-mailboxes-are-unexpectedly-converted-to-user-mailboxes-after-di)
   
 ## Related Topics
 
