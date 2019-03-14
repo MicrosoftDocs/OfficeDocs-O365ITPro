@@ -38,15 +38,15 @@ Did you get this error when you were creating a new user? "This email address is
 
 Before you begin, make sure you've noted which user you need to remove the email address from.
   
-1. From the Microsoft 365 admin center, you can find the user a couple of different ways:
+1. There are two ways you can find a user's account information: 
     
-  - From the admin center **Home** page, type the user's name into the **search** field, and then select them from the list. It will open the user card. 
+  - Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>, type the user's name into the **search** field, and then select them from the list. It will open the user card. 
     
-  - Go to Active **Users**, and then select the user from the list of users. 
+  - Or, in the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page. 
     
-2. In the **Username / Email** and **Aliases** section, select **Edit**. 
+2. Choose **Manage email aliases**.  
     
-3. In the **Aliases** section, remove the email address by clicking the remove (wastebin) icon, and then **Save**. 
+3. Choose the alias you want to remove and click the remove (wastebin) icon, and then **Save changes**. 
     
     > [!NOTE]
     > You can't remove the primary email address. If you need to remove the primary email address, create a second email address for this user and click **Set as primary**. Then you can remove the user's email address. 

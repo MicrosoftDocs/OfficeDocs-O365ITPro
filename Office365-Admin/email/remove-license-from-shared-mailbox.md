@@ -35,25 +35,35 @@ Shared mailboxes don't need a license unless the mailbox has over 50GB of data. 
 
 ::: moniker-end
 
-1. In the admin center, go to **Users** \> **Active users**.
-    
-    > [!NOTE]
-    > You'll need to remove the license from the Active users page. You can't remove the license from the Shared mailbox page because licenses are user settings. 
-  
-2. Select the shared mailbox to view the user details.
-    
-3. Next to **Product licenses**, select **Edit**.
-    
-4. Toggle the license **Off**, and then select **Save**.
-    
-5. When you return to the **Active users**' page, it may take a few minutes for the user's status to refresh to **Unlicensed**. 
-    
-## Next steps
+::: moniker range="o365-worldwide"
 
-After you've removed the license, you can do the following:
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+::: moniker-end
+ 
+
+::: moniker range="o365-germany"
+    
+ 1.   If you're using Office 365 Germany, in the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page. 
+    
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+ 1.   If you're using Office 365 operated by 21Vianet, in the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
+
+::: moniker-end 
+
+    > [!NOTE]
+    > You need to remove the license from the Active users page. You can't remove the license from the Shared mailbox page because licenses are user settings. 
   
-[Remove licenses from your Office 365 for business subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md)
-  
-[Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md)
-  
+2. Choose the shared mailbox > **Manage product licenses**. 
+    
+3. One the **Licenses and Apps** tab, expand **Licenses** and uncheck the box for the license you want to remove.
+    
+4. Choose **Save changes**.
+    
+5. When you return to the **Active users** page, the status of the shared mailbox will be **Unlicensed**. 
+
+6. You're still paying for the license. To stop paying for it, [remove the license from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md). 
 

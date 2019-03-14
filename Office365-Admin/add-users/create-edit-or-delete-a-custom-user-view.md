@@ -35,11 +35,15 @@ If you're a global or user management admin of Office 365, you can create custom
 
 When you create, edit, or delete a custom user view, the changes will be shown in the **Filters** list of views that all admins in your company see when they click the **Users** page. You can create up to 50 custom views. 
   
-> [!NOTE]
->  Standard user views are displayed by default in the **Filters** drop-down list. The standard filters include **All users**, **Licensed users** **Sign-in allowed**, **Sign-in blocked**, **Unlicensed users**, **Users with errors**, **Billing admins**, **Global admins**, **Password admins**, **Service admins**, and **User management admins**. You can't edit or delete standard views. A few things to note about standard views: >  Some standard views display an unsorted list if there are more than 2,000 users in the list. To locate specific users in this list, use the search box. >  If you didn't purchase Office 365 from Microsoft, **Billing admins** don't appear in the standard views list. For more information, see [Assigning admin roles](assign-admin-roles.md). 
+> [!TIP]
+>  Standard user views are displayed by default in the **Filters** drop-down list. The standard filters include **All users**, **Licensed users** **Sign-in allowed**, **Sign-in blocked**, **Unlicensed users**, **Users with errors**, **Billing admins**, **Global admins**, **Password admins**, **Service admins**, and **User management admins**. You can't edit or delete standard views. 
+
+A few things to note about standard views: 
+
+- Some standard views display an unsorted list if there are more than 2,000 users in the list. To locate specific users in this list, use the search box. 
+- If you didn't purchase Office 365 from Microsoft, **Billing admins** don't appear in the standard views list. For more information, see [Assigning admin roles](assign-admin-roles.md). 
   
 ## Choose the filters for your custom user view
-
 
 You can create and edit your custom views on the **Custom filter** page. If you select multiple filter options, you get results that contain users who match all the selected criteria. The following example shows you how to create a custom view named "Canadian users" that shows all users on a specific domain who are in Canada. 
   
@@ -65,48 +69,30 @@ You can also filter by additional user profile details used in your organization
     
 - **Unlicensed users with Exchange mailboxes or archives** Select this box to show user accounts that were created in Exchange Online and have an Exchange mailbox, but weren't assigned an Office 365 license. The results of this filter include users who have or who were assigned an Exchange archive. 
     
-> [!NOTE]
+> [!TIP]
 > If you create a custom view that returns more than 2,000 users, the resulting user list isn't sorted. In this case, use the search box to find users or **Edit filter** to refine your search. 
   
 ## Create a custom user view
 
-
-1. Navigate to **Admin** \> **Office 365** \> **Users**.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. On the **Active users** page, click **Filters** and select **Add custom filter**.
+2. On the **Active users** page, click **Filters** and select **New filter**.
     
-    ![Add custom filter](../media/a16229d7-0476-4559-a637-43532c410726.png)
   
-3. On the **Custom filter** page, enter the name for your filter, choose the conditions for your custom filter, and then click **Save** \> **Close**. Your custom view is now included in the drop-down list.
+3. On the **Custom filter** page, enter the name for your filter, choose the conditions for your custom filter, and then click **Add**. Your custom view is now included in the drop-down list of filters.
     
-## Edit a custom user view
+## Edit or delete a custom user view
 
 
-1. Navigate to **Admin** \> **Office 365** \> **Users**.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. On the **Active users** page, click the drop-down arrow next to the **Filters** box and select the custom view that you want to edit. 
+2. On the **Active users** page, click **Filter** > choose the filter you want to change, and then choose **Edit filter**. 
     
-    > [!NOTE]
+    > [!TIP]
     > You can edit only custom views. 
   
-3. Click **Edit this filter**.
-    
-    ![Delete custom filter](../media/115f62a6-2224-418c-888e-2374dcfd7f57.png)
   
-4. On the **Custom filter** page, edit the information as needed, and then click **Save** \> **Close**.
+4. On the **Custom filter** page, edit the information as needed, and then click **Save**. Or, to delete the filter, at the bottom of the page choose **Delete**. 
     
-## Delete a custom user view
-
-
-1. Navigate to **Admin** \> **Office 365** \> **Users**.
-    
-2. On the **Active users** page, click the drop-down arrow next to the **Filters** box and select the custom view that you want to delete. 
-    
-    > [!NOTE]
-    > You can delete only custom views. 
-  
-3. Click **Edit this filter**.
-    
-4. On the **Custom filter** page, at the bottom of the page, click **Delete custom filter**, and then click **Close**.
     
 

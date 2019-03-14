@@ -58,7 +58,6 @@ Your initial email address in Office 365 operated by 21Vianet includes partner.o
 When you change your domain's email to come to Office 365, by updating your domain's MX record during setup, ALL email sent to that domain will start coming to Office 365. Make sure you've added users and created mailboxes in Office 365 for everyone who has email on your domain BEFORE you change the MX record. Don't want to move email for everyone on your domain to Office 365? You can take steps to [pilot Office 365 with just a few email addresses instead](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7.aspx).
   
 ## Change your email address to use your custom domain using the Microsoft 365 admin center
-<a name="BKMK_PreviewAdminCenter"> </a>
 
 ::: moniker range="o365-worldwide"
 
@@ -67,20 +66,48 @@ When you change your domain's email to come to Office 365, by updating your doma
 
 ::: moniker-end
 
-1. Sign in to Office 365 with your work or school account. 
+You must have a global admin account to perform these steps. 
+
+::: moniker range="o365-worldwide"
+
+1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
+
+::: moniker-end
+
+::: moniker range="o365-germany"
     
-2. Choose **Setup** \> **Domains**.
+ 1.   If you're using Office 365 Germany, go to <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">https://portal.office.de/adminportal/home?ref=homepage</a>. 
     
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+ 1.   If you're using Office 365 operated by 21Vianet, go to  <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">https://portal.partner.microsoftonline.cn/adminportal/home?ref=homepage</a>. 
+
+ ::: moniker-end 
+
+
+2. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+   
+::: moniker range="o365-germany"
+    
+ 2.   If you're using Office 365 Germany, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
+    
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+ 2.   If you're using Office 365 operated by 21Vianet, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2007048" target="_blank">Domains</a> page. 
+
+::: moniker-end 
+
 3. On the **Domains** page, choose **Add domain**.
     
-    ![On the Domains page, choose Add domain](../media/68d68f29-db6e-4050-89e3-73a65f204b8d.png)
-  
 4. Follow the steps to confirm that you own your domain and to change your email address.
     
 You'll be guided to get everything set up correctly with your domain in Office 365.
   
 ## See Also
-<a name="BKMK_PreviewAdminCenter"> </a>
 
 [Buy a custom domain using Office 365](../get-help-with-domains/buy-a-domain-name.md)
  
