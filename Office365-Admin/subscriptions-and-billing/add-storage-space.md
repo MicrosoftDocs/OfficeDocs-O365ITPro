@@ -130,11 +130,7 @@ Office 365 Extra File Storage is available for the following subscriptions:
   
 - Office 365 Enterprise E1
     
-- Office 365 Enterprise E2 
-    
 - Office 365 Enterprise E3
-    
-- Office 365 Enterprise E4
     
 - Office 365 Enterprise E5
     
