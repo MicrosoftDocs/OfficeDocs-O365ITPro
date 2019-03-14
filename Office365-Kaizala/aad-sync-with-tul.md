@@ -19,9 +19,9 @@ ms.assetid:
 description: Learn how to enable and disable Azure Active Directory (Azure AD) sync feature in Kaizala.
 ---
 
-# Azure Active Directory sync with Kaizala Tenant User List
+# Azure Active Directory sync with Kaizala Directory
 
-The Azure Active Directory (Azure AD) sync feature lets you sync user information in Azure AD with the Kaizala Tenant User List (TUL), which serves as your organization directory. As an admin, you can import data and sync changes occurring in the Azure AD. You can use this feature for:
+The Azure Active Directory (Azure AD) sync feature lets you sync user information in Azure AD with the Kaizala Directory, which serves as your organization directory. As an admin, you can import data and sync changes occurring in the Azure AD. You can use this feature for:
 
 - **User management** - Any user changes in Azure AD are automatically synced with the organization directory and associated groups. For example, if a user’s phone number is changed in Azure AD, the information will be updated in the organization directory. Similarly, if a user is deleted from the organization’s Azure AD, the user is automatically removed from the organization group.
 
@@ -38,11 +38,11 @@ The Azure Active Directory (Azure AD) sync feature lets you sync user informatio
 
 - New users added in the Azure AD of the organization are automatically added to the organization directory.
 - Users deleted from the Azure AD are automatically removed from the organization directory and all organization groups.
-- Any information changed in the Azure AD will sync with the TUL. For example, if designation of a user is changed in the Azure AD, the change is automatically reflected in the organization directory. 
+- Any information changed in the Azure AD will sync with the Kaizala Directory. For example, if designation of a user is changed in the Azure AD, the change is automatically reflected in the organization directory. 
 
-## Configure the Azure AD-TUL sync
+## Configure the Azure AD-Kaizala Directory sync
 
-To configure the Azure AD and Kaizala TUL sync:
+To configure the Azure AD and Kaizala Directory sync:
 
 1. Log in to the [Kaizala management portal](http://manage.kaiza.la).
 
@@ -62,7 +62,7 @@ To configure the Azure AD and Kaizala TUL sync:
    - Select **One-time** to sync just once.
    - Select **Recurring** to sync every day. 
 
-6. Select **Next** to start the Azure AD-TUL data sync. 
+6. Select **Next** to start the Azure AD-Directory data sync. 
    > [!NOTE]
    > After you select **Next**, the sync process will start and it will take some time for the process to complete. The Azure AD sync will happen regularly based on the frequency set by you.
 
