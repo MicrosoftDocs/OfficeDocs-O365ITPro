@@ -3,7 +3,7 @@ title: "Configure your Yammer network"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 2/19/2019
+ms.date: 3/6/2019
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -87,7 +87,7 @@ To access the Yammer network configuration tools:
 
 The growing network of partners and developers in Yammer continue to build third-party applications using the Yammer API. To find the list of current apps, including integrations with Microsoft SharePoint, Microsoft Flow, Microsoft Dynamics, and many more business applications, click **App Directory** on your main Yammer page or go directly to the [App Directory](https://go.microsoft.com/fwlink/?LinkId=524143).
   
-- On the **Configuration** page, in the **Enabled Features** section, specify whether to allow 3rd party applications 
+- On the **Configuration** page, in the **Enabled Features** section, specify whether to allow 3rd party applications.
     
     > [!CAUTION]
     > Clearing this setting prevents users from adding or accessing these applications. Note that all users, including verified admins, will lose access to apps that were added prior to clearing this setting. 
@@ -97,7 +97,20 @@ The growing network of partners and developers in Yammer continue to build third
     ```Set-OrganizationConfig -ConnectorsEnabledforYammer:$false```<br>
     For more information, see [Manage Office 365 Groups with PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-groups-with-powershell).
 )
-  
+
+## Allow Tenor GIFs in messages
+
+By default, users can attach GIFs provided by Tenor, a third-party, to posts. You can turn this off.
+
+- On the **Configuration** page, in the **Enabled Features** section, specify whether to **Allow Tenor GIFs in messages**.
+
+
+## Control how links are displayed
+
+By default Yammer attempts to fetch link metadata such as title, summary, and preview image for new URLs posted in messages. Existing URLs will retain any existing metadata. You can turn this off.
+
+- On the **Configuration** page, in the **Enabled Features** section, specify whether to **Fetch metadata for links**.
+
 ## Allow users to view an org chart in Yammer
 <a name="RestrictApps"> </a>
 
