@@ -55,17 +55,19 @@ Kaizala is currently available in the following countries:
 
 Beginning in mid-April 2019, Kaizala Pro will be commercially available internationally, except in the following countries or regions:
 
-• Cuba 
-• Iran 
-• North Korea 
-• People's Republic of China 
-• Sudan 
-• Syria 
-• Region of Crimea 
-• Russia 
+- Cuba 
+- Iran 
+- North Korea 
+- People's Republic of China 
+- Sudan 
+- Syria 
+- Region of Crimea 
+- Russia 
 
 ## Kaizala Preview
+
 If Kaizala Pro isn't yet available in your country or region, you can still try out the preview version of Kaizala.
+
 > [!NOTE]
 > There's no support for the Kaizala preview app.
 
