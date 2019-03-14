@@ -50,19 +50,19 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
 
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2066847" target="_blank">Shared mailbox</a> page.
+2. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2066847" target="_blank">Shared mailbox</a> page.
 
 ::: moniker-end 
 
 ::: moniker range="o365-germany"
 
-1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a> > **Groups** > **Shared mailbox**. 
+2. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a> > **Groups** > **Shared mailbox**. 
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a> > **Groups** > **Shared mailbox**. 
+2. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a> > **Groups** > **Shared mailbox**. 
 
 ::: moniker-end
     
