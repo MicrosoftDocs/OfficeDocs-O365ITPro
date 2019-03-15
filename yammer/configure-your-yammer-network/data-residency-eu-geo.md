@@ -32,7 +32,7 @@ Yammer Data Residency in the European Union (EU) offers local data residency
 
 The following Yammer features are not available for tenants in the EU Geo:
 
-- [All external messaging features](../work-with-external-users/external-messaging-faq.md) features:
+- [All external messaging features](../work-with-external-users/external-messaging-faq.md):
 
     - Only users in your Office 365 tenant can participate in your Yammer Enterprise network.
 
