@@ -140,7 +140,7 @@ Build communities and collaboration in your organization with Yammer.
                         </div>
                     </div>
                     <div class="cardText">
-                            <p><a href="/en-us/Yammer/configure-your-yammer-network/data-residency-eu-geo" data-linktype="absolute-path">Data residency in the EU Geo</a></p>
+                            <p><a href="/en-us/Yammer/manage-security-and-compliance/data-residency-eu-geo" data-linktype="absolute-path">Data residency in the EU Geo</a></p>
                     </div>
                 </div>
             </div>
