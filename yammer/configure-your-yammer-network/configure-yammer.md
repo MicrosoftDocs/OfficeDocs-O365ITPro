@@ -103,14 +103,14 @@ The growing network of partners and developers in Yammer continue to build third
 
 By default, users can attach GIFs provided by Tenor, a third-party, to posts. You can turn this off. Disabling this feature may impact engagement.
 
-- On the **Configuration** page, in the **Enabled Features** section, disable **Show Tenor GIFs Search**.
+- On the **Configuration** page, in the **Enabled Features** section, enable or disable **Show Tenor GIFs Search**.
 
 <a name="LinkMetadata"> </a>
 ## Control how links are displayed
 
 By default, when creating a message with a URL, Yammer will fetch content associated with third-party websites, including title, summary, images, and GIFs. Existing URLs that are cached remain until the cache expires. You can turn off the display of this data for links. Disabling this feature may impact engagement. 
 
-- On the **Configuration** page, in the **Enabled Features** section, specify whether to **Fetch URL Content**.
+- On the **Configuration** page, in the **Enabled Features** section, enable or disable **Fetch URL Content**.
 
 ## Allow users to view an org chart in Yammer
 <a name="RestrictApps"> </a>
