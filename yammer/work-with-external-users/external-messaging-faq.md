@@ -24,7 +24,7 @@ You can include people outside of your Yammer network in your conversations and 
 Find answers to frequently asked questions about external participants in this article. Or see [Add external participants to your Yammer conversations](add-external-participants.md), [Create and manage external groups in Yammer](create-and-manage-external-groups.md), [Find external participants in a Yammer network](find-external-participants.md), and [Disable external messaging in a Yammer network](control-external-messaging-with-exchange.md) for more information about working with external participants. 
  
 >[!NOTE] 
->External messaging, including exernal networks, external groups, and external participants, is not available for tenants in the [EU Geo](../configure-your-yammer-network/data-residency-eu-geo.md).
+>External messaging, including exernal networks, external groups, and external participants, is not available for Yammer Enterprise networks in the [EU Geo](../configure-your-yammer-network/data-residency-eu-geo.md).
     
 ## General questions
 <a name="General"> </a>

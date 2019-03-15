@@ -28,9 +28,9 @@ Yammer Data Residency in the European Union (EU) offers local data residency
 > - For a new Yammer Enterprise network, Microsoft will store Yammer message bodies and files in legacy Yammer Groups at rest only in the Yammer Enterprise network Geo.
 > - Files in Office 365 Connected Groups will be stored in SharePoint Online per your SharePoint Online data residency policy. 
 
-## Features not available for tenants in the EU Geo
+## Features not available for Yammer Enterprise networks in the EU Geo
 
-The following Yammer features are not available for tenants in the EU Geo:
+The following Yammer features are not available for Yammer Enterprise networks in the EU Geo:
 
 - [All external messaging features](../work-with-external-users/external-messaging-faq.md):
 
