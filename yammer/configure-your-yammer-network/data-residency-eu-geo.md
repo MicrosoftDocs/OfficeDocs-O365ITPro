@@ -19,7 +19,7 @@ description: "Data ."
 ---
 
 # Data residency in the European Union Geo (Preview)
-Yammer Data Residency in the European Union (EU) offers local data residency to help organizations in the EU meet their data residency requirement. It is a commitment to store certain types of customer data at rest within the EU geographical area (Geo). Customer data stored at rest in the EU may be stored in any of the data center locations assigned to the EU Geo and is not bound to one specific EU country.
+Yammer Data Residency in the European Union (EU) offers local data residency to help organizations in the EU meet their data residency requirements. It is a commitment to store certain types of customer data at rest within the EU geographical area (Geo). Customer data stored at rest in the EU may be stored in any of the data center locations assigned to the EU Geo and is not bound to one specific EU country.
 
 > [!NOTE]
 
