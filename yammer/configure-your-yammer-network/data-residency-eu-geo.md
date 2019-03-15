@@ -48,12 +48,11 @@ The following Yammer features are not available for tenants in the EU Geo:
 
 Push notifications require sending data to a third party notification service (Apple or Google), which might be outside Europe.  
 
-## FAQ
-
 <a name="geodata"></a>
-**Q: How do I know if my Yammer network stores data in the EU?**
 
-A: Log in to Yammer as a Verified Admin, click the **Settings** icon, click **Network Admin**, and then click **Success**. In the **New Network Checklist** section: 
+##  Determine which Geo your network is in
+
+Log in to Yammer as a Verified Admin, click the **Settings** icon, click **Network Admin**, and then click **Success**. In the **New Network Checklist** section: 
 
 - If your network is in the EU, you'll see **Yammer network activated in the EU Geo**. 
 
