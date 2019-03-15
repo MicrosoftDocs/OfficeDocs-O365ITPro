@@ -32,33 +32,23 @@ Yammer Data Residency in the European Union (EU) offers local data residency
 
 The following Yammer features are not available for tenants in the EU Geo:
 
-- [External messaging](../work-with-external-users/external-messaging-faq.md), including external groups and networks
+- [All external messaging features](../work-with-external-users/external-messaging-faq.md) features:
 
-- [Posting to Yammer groups by sending email](https://support.office.com/article/058d1bc1-3492-47c5-bde2-29ea294acdb6)
+    - Only users in your Office 365 tenant can participate in your Yammer Enterprise network.
+
+    - External guests can’t participate in your Yammer Enterprise network.
+
+    - Your users can’t participate in other Yammer networks.
+
+    - External groups can't be created.
+
+- [Post to Yammer by sending an email message](https://support.office.com/article/058d1bc1-3492-47c5-bde2-29ea294acdb6)
 
 ## Data that isn't stored in the EU Geo
 
-For the following types of data, Microsoft can't control storage:
-
-- Push notifications are sent from Yammer to Android and iOS mobile devices. Storage for notifications sent to devices is controlled by Google and Apple. Yammer admins can't disable push notifications.  
-
-- Data transmitted to Tenor when users search for GIFs to add to Yammer messages. This feature can be disabled by a Yammer network admin. For steps to disable this feature, see [Configure your Yammer network](configure-yammer.md#TenorGIFs).
-
-- Link metadata for links posted in Yammer messages, including the title, summary, and preview image for the link. Existing URLs that are cached remain until the cache expires. For steps to disable this feature, see [Configure your Yammer network](configure-yammer.md#LinkMetadata). 
+Push notifications require sending data to a third party notification service (Apple or Google), which might be outside Europe.  
 
 ## FAQ
-
-**Q: Are additional Geos planned?**
-
-A: Microsoft will continue to invest in additional Geos to meet the requirements and needs of our customers, but we do not have the timing or a list of additional Geos at this time. Please reach out to your Microsoft account team to share your requirements. 
-
-**Q: Does Yammer offer Multi-Geo data residency?**
-
-A: No. Yammer does not offer Multi-Geo data residency.
-
-**Q: How is my data handled during Preview?** 
-
-A: All Office 365 Data Protection terms are adhered to during Preview. 
 
 <a name="geodata"></a>
 **Q: How do I know if my Yammer network stores data in the EU?**
