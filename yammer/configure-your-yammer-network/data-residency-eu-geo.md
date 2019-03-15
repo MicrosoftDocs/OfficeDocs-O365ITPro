@@ -25,7 +25,7 @@ Yammer Data Residency in the European Union (EU) offers local data residency
 
 > Yammer data residency in the EU Geo is in Preview. Once Preview is finished:
 > - The country you enroll in Office 365 from will determine which Geo your network is associated with. 
-> - For a new Yammer Enterprise network, Microsoft will store Yammer message bodies and files in legacy Yammer Groups at rest only in the Yammer Enterprise network Geo.
+> - For a new Yammer Enterprise network, Microsoft will store Yammer message bodies and files in legacy Yammer Groups at rest in the Yammer Enterprise network Geo.
 > - Files in Office 365 Connected Groups will be stored in SharePoint Online per your SharePoint Online data residency policy. 
 
 ## Features not available for Yammer Enterprise networks in the EU Geo
@@ -44,9 +44,9 @@ The following Yammer features are not available for Yammer Enterprise networks i
 
 - [Post to Yammer by sending an email message](https://support.office.com/article/058d1bc1-3492-47c5-bde2-29ea294acdb6)
 
-## Data that isn't stored in the EU Geo
+## Mobile push notifications
 
-Push notifications require sending data to a third party notification service (Apple or Google), which might be outside Europe.  
+Mobile push notifications require sending data to a third party notification service (Apple or Google), which might be outside Europe.  
 
 <a name="geodata"></a>
 
@@ -56,7 +56,7 @@ Log in to Yammer as a Verified Admin, click the **Settings** icon, click **Netwo
 
 - If your network is in the EU, you'll see **Yammer network activated in the EU Geo**. 
 
-- if your network is in the US, you'll see **Yammer network activated in the US Geo**. 
+- If your network is in the US, you'll see **Yammer network activated in the US Geo**. 
 
 ## See also
 
