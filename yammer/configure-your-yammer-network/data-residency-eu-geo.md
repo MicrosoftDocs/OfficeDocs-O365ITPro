@@ -21,30 +21,30 @@ description: "Data ."
 # Data residency in the European Union Geo (Preview)
 Yammer Data Residency in the European Union (EU) offers local data residency to help organizations in the EU meet their data residency requirement. It is a commitment to store certain types of customer data at rest within the EU geographical area (Geo). Customer data stored at rest in the EU may be stored in any of the data center locations assigned to the EU Geo and is not bound to one specific EU country.
 
->[!NOTE]
+> [!NOTE]
 
->Yammer data residency in the EU Geo is in Preview. Once Preview is finished:
->- The country you enroll in Office 365 from will determine which Geo your network is associated with. 
->- For a new Yammer Enterprise network, Microsoft will store Yammer message bodies and files in legacy Yammer Groups at rest only in the Yammer Enterprise network Geo.
->- Files in Office 365 Connected Groups will be stored in SharePoint Online per your SharePoint Online data residency policy. 
+> Yammer data residency in the EU Geo is in Preview. Once Preview is finished:
+> - The country you enroll in Office 365 from will determine which Geo your network is associated with. 
+> - For a new Yammer Enterprise network, Microsoft will store Yammer message bodies and files in legacy Yammer Groups at rest only in the Yammer Enterprise network Geo.
+> - Files in Office 365 Connected Groups will be stored in SharePoint Online per your SharePoint Online data residency policy. 
 
 ## Features not available for tenants in the EU Geo
 
 The following Yammer features are not available for tenants in the EU Geo:
 
-- [external messaging](../work-with-external-users/external-messaging-faq.md), including external groups and networks
+- [External messaging](../work-with-external-users/external-messaging-faq.md), including external groups and networks
 
-- [posting to Yammer groups by sending email](https://support.office.com/article/058d1bc1-3492-47c5-bde2-29ea294acdb6)
+- [Posting to Yammer groups by sending email](https://support.office.com/article/058d1bc1-3492-47c5-bde2-29ea294acdb6)
 
 ## Data that isn't stored in the EU Geo
 
-Certain types of data can't be stored in the EU:
+For the following types of data, Microsoft can't control storage:
 
 - Push notifications are sent from Yammer to Android and iOS mobile devices. Storage for notifications sent to devices is controlled by Google and Apple. Yammer admins can't disable push notifications.  
 
 - Data transmitted to Tenor when users search for GIFs to add to Yammer messages. This feature can be disabled by a Yammer network admin. For steps to disable this feature, see [Configure your Yammer network](configure-yammer.md#TenorGIFs).
 
-- Link metadata for links posted in Yammer messages, including the title, summary, and preview image for the link. For steps to disable this feature, see [Configure your Yammer network](configure-yammer.md#LinkMetadata).
+- Link metadata for links posted in Yammer messages, including the title, summary, and preview image for the link. Existing URLs that are cached remain until the cache expires. For steps to disable this feature, see [Configure your Yammer network](configure-yammer.md#LinkMetadata). 
 
 ## FAQ
 

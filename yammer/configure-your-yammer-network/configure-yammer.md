@@ -108,7 +108,7 @@ By default, users can attach GIFs provided by Tenor, a third-party, to posts. Yo
 <a name="LinkMetadata"> </a>
 ## Control how links are displayed
 
-By default, when creating a message with a URL, Yammer will fetch content associated with third-party websites, including title, summary, images, and GIFs. You can turn this off. Disabling this feature may impact engagement. 
+By default, when creating a message with a URL, Yammer will fetch content associated with third-party websites, including title, summary, images, and GIFs. Existing URLs that are cached remain until the cache expires. You can turn off the display of this data for links. Disabling this feature may impact engagement. 
 
 - On the **Configuration** page, in the **Enabled Features** section, specify whether to **Fetch URL Content**.
 
