@@ -3,7 +3,7 @@ title: "Disable external messaging in a Yammer network"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 1/11/19
+ms.date: 3/15/19
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -19,7 +19,7 @@ description: "Disable external messaging in a Yammer network by using an Exchang
 
 # Disable external messaging in a Yammer network
 
-By default in Yammer, users can add external participants to their Yammer conversations with external messaging. Organizations can disable external messaging and use of external groups by creating a mail flow rule in Exchange online and configuring Yammer to use it.  
+By default in Yammer Yammer Enterprise networks in the US Geo, users can add external participants to their Yammer conversations with external messaging. Organizations can disable external messaging and use of external groups by creating a mail flow rule in Exchange online and configuring Yammer to use it.  
 
 When you have set up a mail flow rule and configured Yammer to use it, external messaging is disabled. This means:
 

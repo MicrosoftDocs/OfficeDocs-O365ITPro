@@ -3,7 +3,7 @@ title: "Create and manage external groups in Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 2/12/2019
+ms.date: 3/15/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -31,6 +31,9 @@ External groups are marked with a globe icon in the left navigation.
 ![Yammer navigation bar showing an External Groups section](../media/de2688e8-0ee9-485d-a7c3-cf0a15f623ef.png)
   
 Users invited to participate in an external group hosted on a different network are required to accept the invitation before being able to view any content in the group.
+
+>[!NOTE] 
+>This feature is not available for Yammer Enterprise networks in the [EU Geo](../manage-security-and-compliance/data-residency-eu-geo.md).
   
 ## Create an external group
 
