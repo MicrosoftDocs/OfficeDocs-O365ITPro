@@ -19,6 +19,7 @@
 ### [Manage Yammer domains](configure-your-yammer-network/manage-yammer-domains.md)
 ### [Consolidate multiple Yammer networks](configure-your-yammer-network/consolidate-multiple-yammer-networks.md)
 ### [FAQ: Consolidating multiple Yammer networks](configure-your-yammer-network/faq-consolidate-multiple-yammer-networks.md)
+### [Data residency in EU Geo](configure-your-yammer-network/data-residency-eu-geo.md)
 ## [Manage security and compliance](manage-security-and-compliance/security-and-compliance.md)
 ### [Security and compliance overview](manage-security-and-compliance/security-and-compliance.md)
 ### [Yammer security settings](manage-security-and-compliance/yammer-security-settings.md)
