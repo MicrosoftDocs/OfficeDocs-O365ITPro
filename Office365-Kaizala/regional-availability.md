@@ -51,8 +51,17 @@ Kaizala is currently available in the following countries:
 27. Uganda
 28. Vietnam
 
-<!--->
-Upcoming worldwide release Beginning in mid-April 2019, Kaizala Pro will be commercially available internationally, except in the following countries or regions: Cuba Iran North Korea People's Republic of China Sudan Syria Region of Crimea Russia 
+<!---
+Upcoming worldwide release
+Beginning in mid-April 2019, Kaizala Pro will be commercially available internationally, except in the following countries or regions:
+Cuba
+Iran
+North Korea
+People's Republic of China
+Sudan
+Syria
+Region of Crimea
+Russia 
 --->
 
 ## Kaizala Preview
