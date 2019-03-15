@@ -290,7 +290,7 @@ Build communities and collaboration in your organization with Yammer.
                         <p><a href="/en-us/Yammer/configure-your-yammer-network/yammer-and-office-365" data-linktype="absolute-path">Yammer networks and Office 365 tenants</a></p> 
                         <p><a href="/en-us/Yammer/configure-your-yammer-network/manage-yammer-domains" data-linktype="absolute-path">Manage Yammer domains</a></p> 
                         <p><a href="/en-us/Yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks" data-linktype="absolute-path">Consolidate multiple networks</a></p> <p><a href="/en-us/Yammer/configure-your-yammer-network/FAQ-consolidate-multiple-yammer-networks" data-linktype="absolute-path">FAQ: Consolidating multiple networks</a></p>
-                        <p><a href="/en-us/Yammer/configure-your-yammer-network/data-residency-eu-geo"> data-linktype="absolute-path">Data residency in the EU Geo</a></p>               
+                        <p><a href="/en-us/Yammer/configure-your-yammer-network/data-residency-eu-geo" data-linktype="absolute-path">Data residency in the EU Geo</a></p>               
                     </div>
                 </div>
             </div>
