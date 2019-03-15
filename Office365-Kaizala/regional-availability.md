@@ -51,13 +51,28 @@ Kaizala is currently available in the following countries:
 27. Uganda
 28. Vietnam
 
+<!---
+Upcoming worldwide release
+Beginning in mid-April 2019, Kaizala Pro will be commercially available internationally, except in the following countries or regions:
+Cuba
+Iran
+North Korea
+People's Republic of China
+Sudan
+Syria
+Region of Crimea
+Russia 
+--->
+
 ## Kaizala Preview
-If your country isn't listed above, you can still try out the preview version of Kaizala.
+
+If Kaizala Pro isn't yet available in your country or region, you can still try out the preview version of Kaizala.
+
 > [!NOTE]
 > There's no support for the Kaizala preview app.
 
-Kaizala is available on all Android and iOS stores worldwide as a free App.
+Kaizala is available as a free app on [Android and iOS](https://products.office.com/business/microsoft-kaizala) worldwide.
 
 ## More information
 
-For more information, see [https://products.office.com/en-in/business/microsoft-kaizala](https://products.office.com/en-in/business/microsoft-kaizala).
+For more information, see [Microsoft Kaizala product page](https://products.office.com/business/microsoft-kaizala).
