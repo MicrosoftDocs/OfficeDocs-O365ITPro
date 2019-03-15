@@ -98,27 +98,27 @@ The growing network of partners and developers in Yammer continue to build third
     For more information, see [Manage Office 365 Groups with PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-groups-with-powershell).
 )
 
+<a name="TenorGIFs"> </a>
 ## Allow Tenor GIFs in messages
 
-By default, users can attach GIFs provided by Tenor, a third-party, to posts. You can turn this off.
+By default, users can attach GIFs provided by Tenor, a third-party, to posts. You can turn this off. Disabling this feature may impact engagement.
 
-- On the **Configuration** page, in the **Enabled Features** section, specify whether to **Allow Tenor GIFs in messages**.
+- On the **Configuration** page, in the **Enabled Features** section, disable **Show Tenor GIFs Search**.
 
-
+<a name="LinkMetadata"> </a>
 ## Control how links are displayed
 
-By default Yammer attempts to fetch link metadata such as title, summary, and preview image for new URLs posted in messages. Existing URLs will retain any existing metadata. You can turn this off.
+By default, when creating a message with a URL, Yammer will fetch content associated with third-party websites, including title, summary, images, and GIFs. You can turn this off. Disabling this feature may impact engagement. 
 
-- On the **Configuration** page, in the **Enabled Features** section, specify whether to **Fetch metadata for links**.
+- On the **Configuration** page, in the **Enabled Features** section, specify whether to **Fetch URL Content**.
 
 ## Allow users to view an org chart in Yammer
 <a name="RestrictApps"> </a>
 
 The org chart was deprecated for Office 365 Yammer networks in May 2018. Office charts are available in Skype for Business and Delve. For more information, see [Find info from a contact card in Skype for Business](https://support.office.com/en-us/article/Find-info-from-a-contact-card-in-Skype-for-Business-d797905c-66f0-4248-b473-c49e3c9a0767) and [How can I find people and information in Office Delve?](https://support.office.com/en-us/article/How-can-I-find-people-and-information-in-Office-Delve-5b8bffdd-a50a-430a-8570-09b39481887c)
   
-    
+<a name="MessageTranslation"> </a>    
 ## Allow message translation
-<a name="RestrictApps"> </a>
 
 This feature gives users the option to translate messages from [any language supported by Microsoft Translator](https://www.microsoft.com/en-us/translator/languages.aspx) into the network's default language. To enable this feature, the network admin must accept a Terms and Services agreement in order to use Microsoft's proprietary translation technology. This feature is disabled by default. 
 

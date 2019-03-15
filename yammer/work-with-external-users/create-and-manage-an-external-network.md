@@ -3,7 +3,7 @@ title: "Create and manage an external network in Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 3/15/2018
+ms.date: 3/15/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -21,6 +21,9 @@ description: "Create and manage an external network to collaborate with people o
 If you have permission, you can create an external Yammer network to collaborate with people outside your company, such as customers, suppliers, and partners. People with external email addresses must be invited into or request access to an external network. When they join the external network, they can only see content posted specifically to that external network. That means they will not have access to your home network. 
   
 External networks are essentially their own networks: each has its own admin center and has its own admins. 
+
+>[!NOTE] 
+>This feature is not available for tenants in the [EU Geo](../configure-your-yammer-network/data-residency-eu-geo.md).
   
 ## Create an external network
 <a name="ExternalNetworks"> </a>

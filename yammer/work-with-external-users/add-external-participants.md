@@ -3,7 +3,7 @@ title: "Add external messaging participants to your Yammer conversations"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 9/4/2018
+ms.date: 3/15/19
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -19,6 +19,9 @@ description: "Use Yammer's external messaging to communicate with outside partne
 # Add external messaging participants to your Yammer conversations
 
 Sometimes you need to communicate with outside partners, suppliers, or customers. You can add external participants to conversations in Yammer so that you can work with the people you need, even if they aren't in your Yammer network. For example, you can add external participants to a discussion or use instant messaging to quickly get a response. External participants can view and download files that have been uploaded to the conversation, and upload files. You'll be able to see when a conversation includes an external participant, and you can remove an external participant when you need to.
+
+>[!NOTE] 
+>This feature is not available for tenants in the [EU Geo](../configure-your-yammer-network/data-residency-eu-geo.md).
   
 Here's how to work with external participants in Yammer:
   

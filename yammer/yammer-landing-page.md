@@ -136,6 +136,22 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/globe-internet.svg" alt="Data residency in the EU Geo" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                            <p><a href="/en-us/Yammer/configure-your-yammer-network/data-residency-eu-geo" data-linktype="absolute-path">Data residency in the EU Geo</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li> 
+<li><li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
                             <img src="https://docs.microsoft.com/en-us/office/media/icons/task-list-planning.svg" alt="Rich text formatting" data-linktype="external">
                         </div>
                     </div>
