@@ -46,6 +46,8 @@ When a group is restored, the following content is restored:
 - Planner
     
 - Teams
+
+- Yammer group and group content (If the Office 365 group was created from Yammer)
     
 You can also [Permanently delete an Office 365 group](#permanently-delete-an-office-365-group) if you can't wait the 30 days for the retention period to expire for the content to be permanently deleted. 
   
