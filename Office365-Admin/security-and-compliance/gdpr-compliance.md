@@ -38,7 +38,7 @@ The GDPR is all about data and how it's used. Think of data as having a life cyc
   
 The GDPR is concerned with the following types of data: 
   
-- **Personal data:** If you can link data to an individual and identify them, then that data is considered personal with respect to the GDPR. Examples of personal data include name, address, date of birth, and IP address. 
+- **Personal data:** If you can link data to an individual and identify them, then that data is considered personal with respect to the GDPR. Examples of personal data include name, address, date of birth, and IP address. The GDPR considers even encoded information (also known as “pseudonymous” information) to be personal data, regardless of how obscure or technical the data is, if the data can be linked to an individual.
     
 - **Sensitive personal data** This is data that adds more details to personal data. Examples include religion, trade union membership, ethnic origin, and so on. Sensitive personal data also includes biometric data and DNA. Under GDPR, sensitive data has more stringent protection rules than personal data. 
     
