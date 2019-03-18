@@ -96,7 +96,7 @@ A: Our privacy policy is publicly shared and available here, as part of the: [Mi
 ### Q: What is Yammer's security policy?
 <a name="SecurityPolicy"> </a>
 
-A: Yammer is included in the [Office 365 Trust Center](https://go.microsoft.com/fwlink/?LinkID=715692).
+A: Yammer is included in the [Office 365 Trust Center](https://go.microsoft.com/fwlink/?linkid=2083681).
   
 ### Q: Who has access to the data?
 <a name="SecurityPolicy"> </a>
