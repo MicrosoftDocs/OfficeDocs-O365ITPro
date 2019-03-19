@@ -34,8 +34,8 @@ To improve the Office 365 sign-in experience for Yammer, use the Auto-accelerati
     
 - Open administrative AAD Powershell and run following commands:
 
-     >[!Important]:
-     >The `Save-Module` command will download the module from the Internet. You need a working internet connection on the computer where you are running these commands. 
+     > [!IMPORTANT]
+     > The `Save-Module` command will download the module from the Internet. You need a working internet connection on the computer where you are running these commands. 
     
     ```powershell
     Save-Module -Name AzureADPreview -Path <path>
