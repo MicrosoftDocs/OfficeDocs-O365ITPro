@@ -87,8 +87,6 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
     
 4. Choose how you want to verify that you own the domain.
     
-    ![Choose your verification method](../media/92003868-53ed-4817-8f9b-19fdf73ac9c3.png)
-  
     1. If your domain is registered at GoDaddy or 1&amp;1, choose **Sign in** and Office 365 [will set up your records automatically](../get-help-with-domains/domain-connect.md).
     
     2. You can have an email sent to the registered contact for the domain with a verification code. If you don't recognize or have access to the email on record, you can use option 3.
@@ -99,17 +97,12 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
     
     1. Choose **Add the DNS records for me** if you want Office to configure your DNS automatically. 
     
-    ![Add records for me](../media/030dc259-bd34-4a53-ab4e-c29b09c9322b.png)
   
-    2. Choose **I'll add the DNS records myself** if you want to attach only specific Office 365 services to your domain or if you want to skip this for now and do this later. 
-    
-    ![Add records myself](../media/272f600f-5266-40c9-ac4b-d85b130abbc8.png)
-  
-    Choose this option if you know exactly what you're doing.
+    2. Choose **I'll add the DNS records myself** if you want to attach only specific Office 365 services to your domain or if you want to skip this for now and do this later. **Choose this option if you know exactly what you're doing.**
     
 6. If you chose to  *add DNS records yourself*  , choose **Next** and you'll see a page with all the records that you need to add to your registrars website to set up your domain. 
     
-    ![Add these records](../media/81862586-7393-4ad3-9d4e-d7183e91b1b9.png)
+  
   
     If the portal doesn't recognize your registrar, you can [follow these general instructions.](../get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md)
     

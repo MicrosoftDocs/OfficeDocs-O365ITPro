@@ -53,7 +53,7 @@ After you add the two records, you'll need to complete [setting up Mobile Device
   
 - Or in the admin center \> **Home** page, type mobile device management in the **Search** box. 
     
-    ![Search for mobile device management in the admin center](../media/cd0ebf15-ef79-4eaa-ab5b-041ac0bd4e5b.png)
+   
   
 ## See also
 

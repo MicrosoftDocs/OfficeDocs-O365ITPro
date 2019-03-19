@@ -76,15 +76,15 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
-    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    
   
 3. On the **Setup** page, choose **Start setup**.
     
-    ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
+    
   
 4. On the **Verify domain** page, choose **Verify**.
     
-    ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
+    
   
 ## Add an MX record to route email
 

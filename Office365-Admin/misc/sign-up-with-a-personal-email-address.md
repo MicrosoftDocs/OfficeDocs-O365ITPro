@@ -46,6 +46,5 @@ If you choose to add a custom domain now, you get access to all the premium feat
 
 Click **Add a domain** in the Users tile of the [admin center](https://admin.microsoft.com/adminportal/Home?idp=msa):
   
-![Add a domain - Users tile - admin center](../media/c72e10b2-b1d1-491d-be4a-c4bc5eaa0467.png)
-  
+
 
