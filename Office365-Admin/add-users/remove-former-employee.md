@@ -37,7 +37,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 44d96212-4d90-4027-9aa9-a95eddb367d1
-
 description: "Follow this checklist to remove an employee from Office 365 and secure data. "
 ---
 

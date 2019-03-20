@@ -20,7 +20,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 613a845c-4b71-41de-b331-acdcf5b6625d
-
 description: "Learn to configure Focused Inbox for all or specific users of your organization. "
 ---
 
