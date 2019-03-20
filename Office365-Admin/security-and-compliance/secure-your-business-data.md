@@ -3,7 +3,6 @@ title: "Top 10 ways to secure Office 365 and Microsoft 365 Business plans"
 ms.author: supotter
 author: supotter
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,7 +15,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: de2da300-dbb6-4725-bb12-b85a9d296e75
-
 description: "Protect your business email and data from cyber threats, including ransomware, phishing, and malicious attachments. "
 ---
 
@@ -133,7 +131,7 @@ You can protect against ransomware by creating one or more mail flow rules to bl
     
 To create a mail transport rule:
   
-1. In the Office 365 admin center, click **Admin centers** \> **Exchange**.
+1. In the Microsoft 365 admin center, click **Admin centers** \> **Exchange**.
     
 2. In the **mail flow** category, click **rules**.
     
@@ -166,7 +164,7 @@ Hackers who gain access to a user's mailbox can exfiltrate mail by configuring t
   
 To create a mail transport rule:
   
-1. In the Office 365 admin center, click **Admin centers** \> **Exchange**.
+1. In the Microsoft 365 admin center, click **Admin centers** \> **Exchange**.
     
 2. In the **mail flow** category, click **rules**.
     

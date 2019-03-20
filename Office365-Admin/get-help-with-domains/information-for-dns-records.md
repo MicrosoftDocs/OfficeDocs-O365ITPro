@@ -3,7 +3,6 @@ title: "Gather the information you need to create Office 365 DNS records"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration

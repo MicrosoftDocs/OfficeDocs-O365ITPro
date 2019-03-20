@@ -31,7 +31,7 @@ If you choose to add a custom domain now, you get access to all the premium feat
 |**OneDrive <sup>1, 2</sup>**| [Personal OneDrive ](https://onedrive.live.com/about/en-us/plans/)| [OneDrive for Business](https://onedrive.live.com/about/en-us/business/) |
 |**Office applications: Word, Excel, PowerPoint, OneNote, Outlook, Access (PC only),**| Yes | Yes 
 |**Business applications <sup>3</sup> : Microsoft Connections, Invoicing, Listings, Bookings, MileIQ, and Outlook Customer Manager**| No | Yes 
-|**Access to Office 365 Admin Center**| Limited Access (Billing, Support, and Domain setup) | Yes
+|**Access to Microsoft 365 admin center**| Limited Access (Billing, Support, and Domain setup) | Yes
 |**Add Users**| No | Yes
 |**Office 365 services: Exchange Online, Skype for Business, Microsoft Teams, SharePoint Online**| No | Yes
 |**Security and Compliance tools**| No | Yes
@@ -44,7 +44,7 @@ If you choose to add a custom domain now, you get access to all the premium feat
   
 ## How to add a domain
 
-Click **Add a domain** in the Users tile of the [Admin Center](https://portal.office.com/adminportal/Home?idp=msa):
+Click **Add a domain** in the Users tile of the [Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage?idp=msa):
   
 ![Add a domain - Users tile - Admin Center](../media/c72e10b2-b1d1-491d-be4a-c4bc5eaa0467.png)
   

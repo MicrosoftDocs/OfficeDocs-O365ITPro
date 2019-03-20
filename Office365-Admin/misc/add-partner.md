@@ -12,13 +12,11 @@ f1_keywords:
 - 'O365P_AddChangeSubAdvisPartner'
 - 'O365M_LearnMoreDelegatedAdmin'
 - 'O365M_ESPartnerAuth'
-- 'O365M_AddRemoveDelegatedAdmin
-'
+- 'O365M_AddRemoveDelegatedAdmin'
 - 'O365M_AddChangeSubAdvisPartner'
 - 'O365E_LearnMoreDelegatedAdmin'
 - 'O365E_ESPartnerAuth'
-- 'O365E_AddRemoveDelegatedAdmin
-'
+- 'O365E_AddRemoveDelegatedAdmin'
 - 'O365E_AddChangeSubAdvisPartner'
 ms.service: o365-administration
 localization_priority: Normal

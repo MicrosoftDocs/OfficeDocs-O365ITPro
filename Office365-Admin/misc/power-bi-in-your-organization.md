@@ -32,7 +32,7 @@ To learn more about Power BI compliance, see the [Microsoft Trust Center](https:
   
 ## How do users sign up for Power BI?
 
-As an administrator, you can sign up for Power BI through the [Power BI web site](https://powerbi.microsoft.com/en-us/). You can also sign up through the purchase services page on the Office 365 admin center. When an administrator signs up for Power BI, they can assign user subscription licenses to users who should have access.
+As an administrator, you can sign up for Power BI through the [Power BI web site](https://powerbi.microsoft.com/en-us/). You can also sign up through the purchase services page on the Microsoft 365 admin center. When an administrator signs up for Power BI, they can assign user subscription licenses to users who should have access.
   
 Additionally, individual users in your organization may be able to sign up for Power BI through the [Power BI web site](https://powerbi.microsoft.com/en-us/). When a user in your organization signs up for Power BI, that user is assigned a Power BI license automatically.
   
