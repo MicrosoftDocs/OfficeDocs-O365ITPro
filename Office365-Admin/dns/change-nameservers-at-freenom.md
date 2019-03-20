@@ -19,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 03599896-4b0a-4edb-abfb-ca3f16325d84
-
 description: "Learn how you can set up Office 365 to manage the DNS records of your custom domain at Freenom."
 ---
 

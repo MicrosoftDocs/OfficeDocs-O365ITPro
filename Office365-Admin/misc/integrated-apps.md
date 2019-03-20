@@ -3,7 +3,6 @@ title: "Turning Integrated Apps on or off"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

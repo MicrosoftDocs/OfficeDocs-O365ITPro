@@ -28,7 +28,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 68a08e94-26c2-4df2-9216-026b8ec907ca
-
 description: "Learn how you can set up Office 365 to manage the DNS records of your custom domain at Google Domains."
 ---
 

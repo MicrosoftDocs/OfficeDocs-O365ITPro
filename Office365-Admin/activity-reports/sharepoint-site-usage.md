@@ -3,7 +3,6 @@ title: "Office 365 Reports in the Admin Center - SharePoint site usage"
 ms.author: kaarins
 author: kaarins
 manager: pamgreen
-
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:
@@ -28,7 +27,6 @@ search.appverid:
 - SPO160
 - BSA160
 ms.assetid: 4ecfb843-e5d5-464d-8bf6-7ed512a9b213
-
 description: "Get the SharePoint site usage report to know how many files users store in SharePoint sites, how many are actively used, and the total storage consumed. "
 ---
 

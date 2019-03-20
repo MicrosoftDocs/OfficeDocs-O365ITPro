@@ -28,7 +28,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: d7ed2a40-a724-47da-b42c-ae526c8ff5c1
-
 description: "Learn how you can set up Office 365 to manage the DNS records of your custom domain at dotPH."
 ---
 

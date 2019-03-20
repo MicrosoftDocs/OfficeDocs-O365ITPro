@@ -28,7 +28,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: e525d8b5-53eb-4581-ba5e-57d900aad4f0
-
 description: "Learn how you can set up Office 365 to manage the DNS records of your custom domain at eNomCentral."
 ---
 
