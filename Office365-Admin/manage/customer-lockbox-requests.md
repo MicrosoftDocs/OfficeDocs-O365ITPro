@@ -229,7 +229,7 @@ Global administrators and anyone assigned the Customer Lockbox access approver a
 
 #### How do I opt-in to Customer Lockbox?
 
-A global administrator can enable and configure Customer Lockbox in the Microsoft 365 or Office 365 admin center.
+A global administrator can enable and configure Customer Lockbox in the Microsoft 365 or Microsoft 365 admin center.
 
 #### If I approve a Customer Lockbox request, what can the engineer do and how will I know what the Microsoft engineer did?
 

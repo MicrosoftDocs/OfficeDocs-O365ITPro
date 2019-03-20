@@ -28,21 +28,21 @@ description: "Learn how to troubleshoot issues with the Office 365 Adoption cont
 Explore the following list of error messages to get help with the most common issues with Microsoft 365 usage analytics.
   
     
-## We are unable to process your request. You have to first subscribe to this data from the Office 365 Admin Portal
+## We are unable to process your request. You have to first subscribe to this data from the Microsoft 365 admin center
 
  **Error Code :** 422 
   
  **Where you will see this message:** In Power BI when you are connecting to the Office 365 Adoption public preview content pack or when directly calling the Office 365 Reporting APIs. 
   
- **Cause:** Before you can connect to the content pack you have to subscribe to the data from the Office 365 Admin center. If this step isn't done first, you won't be able to connect to the content pack, even if you provide your Office 365 tenant id. 
+ **Cause:** Before you can connect to the content pack you have to subscribe to the data from the Microsoft 365 admin center. If this step isn't done first, you won't be able to connect to the content pack, even if you provide your Office 365 tenant id. 
   
- **To fix this error:** To subscribe to the data, go to the Office 365 admin center \> **Reports** \> **Usage** and locate the Office 365 Adoption tile on the main dashboard page. Select the **Get started** button and then in the **Reports** pane that opens, turn the **Make data available to the Office 365 Adoption content pack for Power BI** setting on and **Save**.
+ **To fix this error:** To subscribe to the data, go to the Microsoft 365 admin center \> **Reports** \> **Usage** and locate the Office 365 Adoption tile on the main dashboard page. Select the **Get started** button and then in the **Reports** pane that opens, turn the **Make data available to the Office 365 Adoption content pack for Power BI** setting on and **Save**.
   
 ## We are processing your data
 
- **Where you will see this message:** In the **Office 365 Adoption** tile on the **Usage** dashboard in Office 365 Admin center. 
+ **Where you will see this message:** In the **Office 365 Adoption** tile on the **Usage** dashboard in Microsoft 365 admin center. 
   
- **Cause:** When you [opt in to seeing data in the content pack](enable-usage-analytics.md) from the O365 Admin portal, the Office 365 system starts generating historical usage data for your organization. Depending on the size of your tenant, this step could take anywhere between 2 hours to 48 hours. 
+ **Cause:** When you [opt in to seeing data in the content pack](enable-usage-analytics.md) from the O365 admin center, the Office 365 system starts generating historical usage data for your organization. Depending on the size of your tenant, this step could take anywhere between 2 hours to 48 hours. 
   
  **To fix this:** Just be patient, but if the message does not change to **Your data is ready** after 3 days, [contact Office 365 for business support](../contact-support-for-business-products.md).
   
@@ -64,7 +64,7 @@ Explore the following list of error messages to get help with the most common is
   
  **Cause:** The tenant id is a guid and has to be in the format of xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx. If you enter any other string in the tenant input box you will get this error. 
   
- **To fix this error:** Go to the Office 365 admin center \> **Reports** \> **Usage** and locate the Office 365 Adoption tile on the main dashboard page. The tenant id is listed on the tile. You can copy it from here and paste it in the dialog box for connecting to the content pack. 
+ **To fix this error:** Go to the Microsoft 365 admin center \> **Reports** \> **Usage** and locate the Office 365 Adoption tile on the main dashboard page. The tenant id is listed on the tile. You can copy it from here and paste it in the dialog box for connecting to the content pack. 
   
 ## The tenant ID you provided is not recognized by our system
 
@@ -74,7 +74,7 @@ Explore the following list of error messages to get help with the most common is
   
  **Cause:** The tenant id you provided is not valid or does not exist. 
   
- **To fix this error:** Go to the Office 365 admin center \> **Reports** \> **Usage** and locate the Office 365 Adoption tile on the main dashboard page. The tenant id is listed on the tile. You can copy it from here and paste it in the dialog box for connecting to the content pack. 
+ **To fix this error:** Go to the Microsoft 365 admin center \> **Reports** \> **Usage** and locate the Office 365 Adoption tile on the main dashboard page. The tenant id is listed on the tile. You can copy it from here and paste it in the dialog box for connecting to the content pack. 
   
 ## Please re-enter your credentials to sign in to Power BI again
 

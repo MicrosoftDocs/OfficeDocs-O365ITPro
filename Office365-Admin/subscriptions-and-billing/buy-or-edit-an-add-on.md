@@ -70,7 +70,7 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
 3. On the bottom-left corner of the subscription details, choose **Add-ons** \> **Buy add-ons**.
 
-    ![Buy add-ons link on the Subscriptions page of the Office 365 admin center.](../media/f5cbc3fa-90f7-4299-976d-2482f2c69755.png)
+    ![Buy add-ons link on the Subscriptions page of the Microsoft 365 admin center.](../media/f5cbc3fa-90f7-4299-976d-2482f2c69755.png)
   
 4. On the **Purchase services** page, mouse over or tap the add-on subscription that you want to buy, and then choose **Buy now**.
 
