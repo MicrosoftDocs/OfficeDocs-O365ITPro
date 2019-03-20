@@ -3,7 +3,6 @@ title: "Quick help Types of users"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

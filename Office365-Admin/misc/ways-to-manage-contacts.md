@@ -3,7 +3,6 @@ title: "Quick help Ways to manage contacts"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: reference
 f1_keywords:

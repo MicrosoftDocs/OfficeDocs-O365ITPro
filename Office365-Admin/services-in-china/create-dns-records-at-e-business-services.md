@@ -3,7 +3,6 @@ title: "Create DNS records at E-business Services for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:

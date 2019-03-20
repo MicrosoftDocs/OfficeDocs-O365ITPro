@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Register365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -29,7 +28,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 1f97c190-2d14-440a-acc3-a21bfbe9c120
-
 description: "Learn to set up your Office 365 custom domain with Register365 if you want Office 365 to manage your DNS records. "
 ---
 
