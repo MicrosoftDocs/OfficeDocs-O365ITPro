@@ -1,5 +1,5 @@
 ---
-title: "Create distribution lists in the Office 365 admin center"
+title: "Create distribution lists in the Microsoft 365 admin center"
 ms.author: kwekua
 author: kwekua
 manager: scotv
@@ -23,7 +23,7 @@ ms.assetid: b1ffe755-59e5-4369-826d-825f145a8400
 description: "Send email to a group of people without having to type each individual recipient's name by creating distribution list (group).   "
 ---
 
-# Create distribution lists in the Office 365 admin center
+# Create distribution lists in the Microsoft 365 admin center
 
  *Last updated 28 February, 2018* 
   
@@ -37,7 +37,7 @@ Distribution lists are sometimes called distribution groups.
 
 ::: moniker range="o365-worldwide"
 
-Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 

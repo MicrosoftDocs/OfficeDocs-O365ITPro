@@ -1,5 +1,5 @@
 ---
-title: "Create, edit, or delete a security group in the Office 365 admin center"
+title: "Create, edit, or delete a security group in the Microsoft 365 admin center"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv

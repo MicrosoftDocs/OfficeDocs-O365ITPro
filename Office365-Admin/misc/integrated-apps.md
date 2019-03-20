@@ -40,7 +40,7 @@ Here's how to turn Integrated Apps on or off.
   
 1. Log on to Office 365 using your work or school account.
     
-2. Go to the Office 365 admin center, and from the left navigation bar, click **Settings** \> **Services &amp; add-ins**
+2. Go to the Microsoft 365 admin center, and from the left navigation bar, click **Settings** \> **Services &amp; add-ins**
     
 3. On the **Integrated apps** page, use the toggle to turn Integrated Apps on or off. 
     

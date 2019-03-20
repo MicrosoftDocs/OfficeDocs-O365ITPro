@@ -49,4 +49,4 @@ If you are currently using Temporary Mobile Passwords for specific scenarios or 
    
 ## To immediately disable Temporary Mobile Passwords for your network
 
-Open a support case using the Office 365 admin center and we would be happy to disable Temporary Mobile Passwords for your network.
+Open a support case using the Microsoft 365 admin center and we would be happy to disable Temporary Mobile Passwords for your network.

@@ -28,7 +28,7 @@ search.appverid:
 - MOE150
 - BEA160
 ms.assetid: 2ae3ea58-4fce-4592-91d6-46e9ae3ec218
-description: "Find your invoice or billing statement in the Office 365 admin center. You can also save and print a copy of your bill."
+description: "Find your invoice or billing statement in the Microsoft 365 admin center. You can also save and print a copy of your bill."
 ---
 <!-- Clone: AgentUniversity\commerce\how-to-download-invoice.md -->
 
@@ -50,7 +50,7 @@ If you need help interpreting the charges you see on your bill, see [Understand 
     
 2. Choose the month and date of the invoice you want, and then choose **View**.
     
-    ![Screen shot of the Bills page in the Office 365 Admin Center.](../media/93e9bd66-b09a-4f68-b4bd-b2d87fde78d1.png)
+    ![Screen shot of the Bills page in the Microsoft 365 admin center.](../media/93e9bd66-b09a-4f68-b4bd-b2d87fde78d1.png)
   
 3. Choose an order, and then choose **View Details**.
     
@@ -66,7 +66,7 @@ If you need help interpreting the charges you see on your bill, see [Understand 
     
 5. To view the invoice for a specific month, choose a month and a year, then choose **Show**.
     
-    ![Screen shot of the Invoice section of the Bill Details page in the Office 365 Admin Center.](../media/ef920095-f581-4d1a-bf92-a007c8fe7121.png)
+    ![Screen shot of the Invoice section of the Bill Details page in the Microsoft 365 admin center.](../media/ef920095-f581-4d1a-bf92-a007c8fe7121.png)
   
 6. To print or save a PDF copy of the invoice, choose **View invoice (.pdf)**.
     

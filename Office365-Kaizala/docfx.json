@@ -43,7 +43,7 @@
       "searchScope": ["Office 365 Kaizala"],
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-O365ITPro",
-      "feedback_product_url": "https://kaizala.uservoice.com/" 
+      "feedback_product_url": "mailto:kaizalafeedback@microsoft.com" 
     },
     "fileMetadata": {},
     "template": [],

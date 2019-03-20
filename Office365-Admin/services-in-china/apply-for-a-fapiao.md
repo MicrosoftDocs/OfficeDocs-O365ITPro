@@ -38,7 +38,7 @@ There are two ways to apply for a Fapiao:
     
 2. You can apply for a Fapiao from the <a href="https://portal.partner.microsoftonline.cn" target="_blank">Admin center</a>.
     
-    ![The Bills page in the Office 365 Admin Center.](../media/a6e3b953-abd4-46aa-a910-08c517915a21.png)
+    ![The Bills page in the Microsoft 365 admin center.](../media/a6e3b953-abd4-46aa-a910-08c517915a21.png)
   
 ## Step 2: Register with the 21Vianet Fapiao management system
 
@@ -110,7 +110,7 @@ You can check the progress of your Fapiao request, and find out why you haven't 
   
 If you want to change the Fapiao title, please send the Fapiao back to us and we will reissue the Fapiao. You can submit the request through the <a href="https://portal.partner.microsoftonline.cn/Support/SupportOverview.aspx" target="_blank">Admin center</a>.
   
-![The Office 365 Admin Center support form used to send a Fapiao back to request a title change.](../media/2a413e9e-f30b-4f26-adbf-6287cc217a0f.png)
+![The Microsoft 365 admin center support form used to send a Fapiao back to request a title change.](../media/2a413e9e-f30b-4f26-adbf-6287cc217a0f.png)
   
 ### How do I change my login email address and password?
 
@@ -132,7 +132,7 @@ If you want to change the Fapiao title, please send the Fapiao back to us and we
     
 3. Choose the month of the invoice you want, then choose **View**. The order ID is displayed.
     
-    ![The Bills page in the Office 365 Admin Center.](../media/78ceda62-c72a-4516-b251-736b568ec6a3.png)
+    ![The Bills page in the Microsoft 365 admin center.](../media/78ceda62-c72a-4516-b251-736b568ec6a3.png)
   
 ### What if I enter the wrong email address when I register?
 

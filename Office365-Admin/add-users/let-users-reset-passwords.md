@@ -51,7 +51,7 @@ Here are a few things you need to know:
 These steps turn on self-service password reset for everyone in your business.
   
 ::: moniker range="o365-worldwide"
-1.  Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1.  Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 

@@ -19,7 +19,7 @@ description: "When you add or remove verified domains in Office 365, they are au
 
 # Manage Yammer domains in Office 365
 
-As the Office 365 administrator, you manage Yammer domains in Office 365 from the **Domains** link in the Office 365 admin center. When you add or remove a domain in Office 365, it will be automatically added to or removed from the corresponding Yammer network, usually within minutes. 
+As the Office 365 administrator, you manage Yammer domains in Office 365 from the **Domains** link in the Microsoft 365 admin center. When you add or remove a domain in Office 365, it will be automatically added to or removed from the corresponding Yammer network, usually within minutes. 
   
 - If you just have one domain, or don't have a legacy Yammer network from before you started using Office 365, once your domain is set up in Office 365, your Yammer network is automatically created.
     

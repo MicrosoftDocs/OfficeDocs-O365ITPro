@@ -32,7 +32,7 @@ To open the Message center:
 
 The dashboard card always displays the last three messages that we posted and links to the full Message center page. 
   
-![Message center card in Office 365 admin center](../media/422efca7-8c35-486a-ad48-68b0e699dece.png)
+![Message center card in Microsoft 365 admin center](../media/422efca7-8c35-486a-ad48-68b0e699dece.png)
   
 You can also use the [Office 365 Admin app](https://go.microsoft.com/fwlink/p/?linkid=627216) on your mobile device to view Message center, which is a great way to stay current with push notifications. 
   
