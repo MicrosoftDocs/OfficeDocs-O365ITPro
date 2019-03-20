@@ -42,9 +42,9 @@ Qualifying Office 365 customers who are looking for more granular control over t
 ## How to upgrade
 
 
-You can activate Yammer Enterprise through the Office 365 admin portal by following these steps.
+You can activate Yammer Enterprise through the Microsoft 365 admin center by following these steps.
   
-1. Navigate to the Office 365 admin center.
+1. Navigate to the Microsoft 365 admin center.
     
 2. Under included services, click **Yes, activate Yammer Enterprise for my network**.
     

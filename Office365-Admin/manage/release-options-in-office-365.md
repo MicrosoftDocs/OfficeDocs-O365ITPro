@@ -27,7 +27,7 @@ search.appverid:
 - BEA160
 - GEA150
 ms.assetid: 3b3adfa4-1777-4ff0-b606-fb8732101f47
-description: "Learn how to set up the release option for new product and features updates in the Office 365 admin center."
+description: "Learn how to set up the release option for new product and features updates in the Microsoft 365 admin center."
 ---
 
 # Set up the Standard or Targeted release options in Office 365
@@ -46,7 +46,7 @@ Any new release is first tested and validated by the feature team, then by the e
 For significant updates, Office customers are initially notified by the [Microsoft 365 Roadmap](https://products.office.com/business/office-365-roadmap). As an update gets closer to rolling out, it is communicated through your [Office 365 Message Center](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter).
 
 > [!NOTE]
-> You need an Office 365 or Azure AD account to access your Message Center through the [Office 365 Admin Center](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center). Office 365 home plan users do not have an admin center.
+> You need an Office 365 or Azure AD account to access your Message Center through the [Microsoft 365 admin center](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center). Office 365 home plan users do not have an admin center.
 
 
 ## Standard release
@@ -67,11 +67,11 @@ With this option, you and your users can be the first to see the latest updates 
   
 ### Targeted release for entire organization
 
-If you [Set up the release option in the Office 365 admin center](#set-up-the-release-option-in-the-office-365-admin-center) for this option, all your users will get the Targeted release experience. For organizations with more than 300 users, we recommend using a test subscription for this option. For test subscription information, please reach out to your Microsoft contact. 
+If you [Set up the release option in the Microsoft 365 admin center](#set-up-the-release-option-in-the-office-365-admin-center) for this option, all your users will get the Targeted release experience. For organizations with more than 300 users, we recommend using a test subscription for this option. For test subscription information, please reach out to your Microsoft contact. 
   
 ### Targeted release for selected users
 
-If you [Set up the release option in the Office 365 admin center](#set-up-the-release-option-in-the-office-365-admin-center) for this option, you can define specific users, usually power users, to receive early access to features and functionality. 
+If you [Set up the release option in the Microsoft 365 admin center](#set-up-the-release-option-in-the-office-365-admin-center) for this option, you can define specific users, usually power users, to receive early access to features and functionality. 
   
 ## Benefits of Targeted release
 
@@ -87,7 +87,7 @@ Targeted release allows admins, change managers, or anyone else responsible for 
     
 - Use feature controls, where applicable, to control the release of updates to end users.
     
-## Set up the release option in the Office 365 admin center
+## Set up the release option in the Microsoft 365 admin center
 
 You can change how your organization receives Office 365 updates by following these steps. You have to be a global admin in Office 365 to opt in.
   
@@ -96,7 +96,7 @@ You can change how your organization receives Office 365 updates by following th
   
 1. Sign in to Office 365 with your work or school account. 
     
-2. Go to the [Office 365 admin center](../admin-overview/about-the-admin-center.md).
+2. Go to the [Microsoft 365 admin center](../admin-overview/about-the-admin-center.md).
     
 3. Navigate to **Settings** \> **Organization profile**.<br/>![Navigate to Settings and then Organization profile](../media/74ed60b3-c8b9-4752-a598-52d72cf46f46.png)
   

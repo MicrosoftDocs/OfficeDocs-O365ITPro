@@ -70,11 +70,11 @@ To use room or equipment mailboxes, open Outlook from your computer or sign in t
     
 ## Set up room and equipment mailboxes
 
-To set up a room or equipment mailbox, go to the Office 365 admin center. (You'll need to have admin permission to do this.) Create the mailbox and let everyone know they can start reserving it for meetings and events.
+To set up a room or equipment mailbox, go to the Microsoft 365 admin center. (You'll need to have admin permission to do this.) Create the mailbox and let everyone know they can start reserving it for meetings and events.
   
 1. Sign in to Office 365 with your work or school account. 
     
-2. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
+2. Go to the [ Microsoft 365 admin center ](../admin-overview/about-the-admin-center.md).
     
 3. Search for **rooms** or **equipment** or navigate to **Resources \> Rooms &amp; equipment**.<br/>![Office 365 resources](../media/7fc34170-5425-468e-9ee9-3a1c5e54923f.png)
   

@@ -48,7 +48,7 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
   
 ::: moniker range="o365-worldwide"
 
-1. In the Office 365 admin center, go to **Groups** \> [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox).
+1. In the Microsoft 365 admin center, go to **Groups** \> [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://admin.microsoft.com/AdminPortal/Home#/homepage?ref=SharedMailbox).
 
 ::: moniker-end 
 
@@ -138,7 +138,7 @@ You do not need to assign a license to the shared mailbox in order to forward em
  
 <!--There was previously a worldwide monikker for step 1, but nothing for Germany or 21Vianet. Is there a deep link to shared mailboxes for Germany or 21Vianet we can include?-->
  
-1. On the [![Go to shared mailboxes in the admin center](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
+1. On the [![Go to shared mailboxes in the admin center](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://admin.microsoft.com/AdminPortal/Home#/homepage?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
 
 2. Choose **Email forwarding** \> **Edit**.
     
@@ -150,7 +150,7 @@ You do not need to assign a license to the shared mailbox in order to forward em
 
 <!--There was previously a worldwide monikker for step 1, but nothing for Germany or 21Vianet. Is there a deep link to shared mailboxes for Germany or 21Vianet we can include?-->
 
-1. On the [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://portal.office.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
+1. On the [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://admin.microsoft.com/AdminPortal/Home#/homepage?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
 
 2. Choose **Automatic replies** \> **Edit**.
     

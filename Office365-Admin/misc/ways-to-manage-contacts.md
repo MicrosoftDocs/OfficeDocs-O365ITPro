@@ -29,7 +29,7 @@ search.appverid:
 - MOE150
 ms.assetid: 32639d73-981f-48c2-951c-62ab12b7b48c
 ROBOTS: NOINDEX
-description: "Learn how to manage your contacts in the Office 365 admin center."
+description: "Learn how to manage your contacts in the Microsoft 365 admin center."
 ---
 
 # Quick help: Ways to manage contacts

@@ -36,19 +36,19 @@ While users can create an Office 365 group from Outlook or other apps, as an adm
 
 ::: moniker range="o365-worldwide"
 
-Go to the [![Go to the Microsoft 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
+Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
+Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
