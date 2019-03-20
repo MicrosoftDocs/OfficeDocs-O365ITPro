@@ -10,9 +10,9 @@ f1_keywords:
 - 'O365M_ReportsYammerActivity'
 - 'O365M_ReportsUsageOverview'
 - 'O365E_ReportsYammerActivity'
-- 'O365E_ReportsUsageOverview
-O365M_ReportsUsageOverview
-O365P_ReportsUsageOverview'
+- 'O365E_ReportsUsageOverview'
+- 'O365M_ReportsUsageOverview'
+- 'O365P_ReportsUsageOverview'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
