@@ -29,7 +29,7 @@ search.appverid:
 - MOE150
 - GEA150
 ms.assetid: 0f54736f-eb22-414c-8273-498a0918678f
-description: "Learn how to set a password expiration policy for your organization in Office 365 admin center. "
+description: "Learn how to set a password expiration policy for your organization in Microsoft 365 admin center. "
 ---
 
 # Set the password expiration policy for your organization
@@ -43,9 +43,9 @@ As an admin, you can make user passwords expire after a certain number of days, 
 > [!IMPORTANT]
 > Only [Office 365 global admins](../add-users/about-admin-roles.md) can perform these steps. 
   
-1. Go to the [![Go to the Office 365 admin center](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [![Go to the Microsoft 365 admin center](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
-2. In the Office 365 admin center, go to **Settings** \> **Security and privacy**. If you aren't an Office 365 global admin, you won't see the Security and privacy option. <br/> ![Navigate to Security and Privacy](../media/5f474a03-38a4-4833-9f4c-db769de8b8d9.png)
+2. In the Microsoft 365 admin center, go to **Settings** \> **Security and privacy**. If you aren't an Office 365 global admin, you won't see the Security and privacy option. <br/> ![Navigate to Security and Privacy](../media/5f474a03-38a4-4833-9f4c-db769de8b8d9.png)
   
 3. Click **Edit**. <br/>![Choose Edit](../media/85ecde71-ecd2-4e02-ac1c-f27790c1869a.png)
   

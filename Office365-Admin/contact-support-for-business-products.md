@@ -407,7 +407,7 @@ Severity B/C: 9:00 ~24:00 (Beijing Time) a day, 365 days.
   
 #### Open an online request
   
-Save time by starting your service request online. In the Office 365 admin center, choose **Support** \> **New service request**. 
+Save time by starting your service request online. In the Microsoft 365 admin center, choose **Support** \> **New service request**. 
   
 #### Call support
   
@@ -486,14 +486,14 @@ As an admin for Office 365 Germany, you get free access to our knowledgeable sup
 
 Assisted support options are for admins of Office 365 Germany subscribed organizations only. If you use Office 365 Germany at work or school, but you're not an admin, you can still get support in the community forums, or by contacting your admin or IT department.
 
-- **Open an online request.** Save time by starting your service request online. In the Office 365 admin center, choose **Support** \> **New service request.** We'll help you find a solution or connect you to an expert who will contact you by email or phone.
+- **Open an online request.** Save time by starting your service request online. In the Microsoft 365 admin center, choose **Support** \> **New service request.** We'll help you find a solution or connect you to an expert who will contact you by email or phone.
 
 - **Call support.** We're here to talk. Admins, have your account details ready when you call support.
 
 | Region | Phone number | Hours |
 |-----------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Germany | 0800 589 2330 | Billing Support:  German: Mon-Fri 9-5 Berlin English: Mon-Fri 9-5 Berlin  Technical Support:  German: 24 hours a day, 7 days a week English: 24 hours a day, 7 days a week  Alternative Phone Number: 069 380 789 305 (Local call charges apply) |
-| All other markets within the European Economic Area | +49 69 380 789 305 | Billing Support:  German: Mon-Fri 9-5 Berlin(UTC+1) English: Mon-Fri 9-5 Berlin (UTC +1)  Technical Support:  German: 24 hours a day, 7 days a week English: 24 hours a day, 7 days a week  Telephone support is available via international call to Germany. International call charges apply. Call charges can be avoided by submitting a support ticket through the Office 365 admin center. |
+| All other markets within the European Economic Area | +49 69 380 789 305 | Billing Support:  German: Mon-Fri 9-5 Berlin(UTC+1) English: Mon-Fri 9-5 Berlin (UTC +1)  Technical Support:  German: 24 hours a day, 7 days a week English: 24 hours a day, 7 days a week  Telephone support is available via international call to Germany. International call charges apply. Call charges can be avoided by submitting a support ticket through the Microsoft 365 admin center. |
    
 ### Let our community help
 

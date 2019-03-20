@@ -25,7 +25,7 @@ search.appverid:
 - MOE150
 - GEA150
 ms.assetid: 1cbe2c00-ca65-4fb9-9663-1bbfa58ebe44
-description: "Learn how to get an email activity report using the Office 365 Reports dashboard in the Office 365 admin center."
+description: "Learn how to get an email activity report using the Office 365 Reports dashboard in the Microsoft 365 admin center."
 ---
 
 # Office 365 Reports in the Admin Center - Email activity
@@ -39,7 +39,7 @@ For example, you can get a high level view of email traffic within your organiza
   
 ## How to get to the email activity report
 
-1. Go to the Office 365 admin center \> **Reports**
+1. Go to the Microsoft 365 admin center \> **Reports**
     
 2. Click on the **Email Activity** widget on the **Reports** dashboard or select from the drop down. <br/>![Admin center reports - select Email activity](../media/e49cca5e-f84d-4f3d-bb34-973203bb2047.png)
   
@@ -57,7 +57,7 @@ You can get a view into your user's email activity by looking at the **Activity*
 |4.  <br/> |The **User** chart enables you to understand the trend of the amount of unique users who are generating the email activities. You can look at the trend of users performing send, reading or receiving email activities.  <br/> |
 |5.  <br/> | On the **Activity** chart, the Y axis is the count of activity of the type email sent, email received and email read.  <br/>  On the **Users** activity chart, the Y axis is the user's performing activity of the type email sent, email received and email read.  <br/>  The X axis on both charts is the selected date range for this specific report.  <br/> |
 |6.  <br/> |You can filter the series you see on the chart by clicking on an item in the legend. For example, on the **Activity** chart, click or tap **Sent**, **Received** or **Read** ![Filter charts for specific related data](../media/a3a9cb3d-b8b1-4c6a-9f6f-18aebf74c3a0.png) to see only the info related to each one. Changing this selection doesn't change the info in the grid table.  <br/> |
-|7.  <br/> | The table shows you a breakdown of the email activities at the per-user level. This shows all users that have an Exchange product assigned to them and their email activities. <br/> <br/> **User name** is the email address of the user.  <br/> **Display Name** is the full name if the user.  <br/> **Deleted** refers to the user whose current state is deleted, but was active during some part of the reporting period of the report.  <br/> **Deleted date** is the date the user was deleted.  <br/> **Last activity date** refers to the last time the user performed a read or send email activity.  <br/> **Send actions** is the number of times an email send action was recorded for the user.  <br/> **Receive actions** is the number of times an email received action was recorded for the user.  <br/> **Read actions** is the number of times an email read action was recorded for the user.  <br/> **Product assigned** is the Office 365 products that are assigned to this user.  <br/>  If your organization's policies prevents you from viewing reports where user information is identifiable, you can change the privacy setting for all these reports. Check out the **How do I hide user level details?** section in the [Activity Reports in the Office 365 Admin Center Preview](activity-reports.md).  <br/> |
+|7.  <br/> | The table shows you a breakdown of the email activities at the per-user level. This shows all users that have an Exchange product assigned to them and their email activities. <br/> <br/> **User name** is the email address of the user.  <br/> **Display Name** is the full name if the user.  <br/> **Deleted** refers to the user whose current state is deleted, but was active during some part of the reporting period of the report.  <br/> **Deleted date** is the date the user was deleted.  <br/> **Last activity date** refers to the last time the user performed a read or send email activity.  <br/> **Send actions** is the number of times an email send action was recorded for the user.  <br/> **Receive actions** is the number of times an email received action was recorded for the user.  <br/> **Read actions** is the number of times an email read action was recorded for the user.  <br/> **Product assigned** is the Office 365 products that are assigned to this user.  <br/>  If your organization's policies prevents you from viewing reports where user information is identifiable, you can change the privacy setting for all these reports. Check out the **How do I hide user level details?** section in the [Activity Reports in the Microsoft 365 admin center Preview](activity-reports.md).  <br/> |
 |8.  <br/> |You can also export the report data into an Excel .csv file, by clicking or tapping the **Export** ![Office 365 reports](../media/816a224b-6ca7-4967-a135-4f6427f64dc8.JPG) link. This exports data of all users and enables you to do simple sorting and filtering for further analysis. If you have less than 2000 users, you can sort and filter within the table in the report itself. If you have more than 2000 users, in order to filter and sort, you will need to export the data.  <br/> |
 |||
    

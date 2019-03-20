@@ -76,7 +76,7 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
   
 3. Mouse over or tap the subscription that you want to buy, and then choose **Buy Now**.
 
-    ![Buy now link on the purchase services page of the Office 365 admin center.](../media/f344c0a8-c58f-461d-b8e9-cddbb18f8ee8.png)
+    ![Buy now link on the purchase services page of the Microsoft 365 admin center.](../media/f344c0a8-c58f-461d-b8e9-cddbb18f8ee8.png)
   
 4. Enter the number of user licenses you need, chose whether to pay each month or for the whole year, and then choose **Add to Cart**.
 

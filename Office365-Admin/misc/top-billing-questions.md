@@ -116,7 +116,7 @@ Yes, but you'll need to [call support](../contact-support-for-business-products.
 
 Yes. To get your billing statement as an email attachment, use the following steps:
   
-1. In the Office 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=853212" target="_blank">Billing notifications</a> page, or choose **Billing** \> **Billing notifications**.
+1. In the Microsoft 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=853212" target="_blank">Billing notifications</a> page, or choose **Billing** \> **Billing notifications**.
     
 2. Under **Do you want to receive the billing statement as an email attachment?**, switch the toggle to **On**.
     
@@ -129,7 +129,7 @@ Yes. To get your billing statement as an email attachment, use the following ste
 
 Yes. To get your billing statement as an email attachment, use the following steps:
   
-1. In the Office 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=853213" target="_blank">Billing notifications</a> page, or choose **Billing** \> **Billing notifications**.
+1. In the Microsoft 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=853213" target="_blank">Billing notifications</a> page, or choose **Billing** \> **Billing notifications**.
     
 2. Under **Do you want to receive the billing statement as an email attachment?**, switch the toggle to **On**.
     
@@ -197,7 +197,7 @@ You can [Apply for tax exempt status for Office 365 for business](../subscriptio
 
 1. On the **Bills** page, choose a month and a year, and then choose **Show**.
     
-    ![Screen shot of the Invoice section of the Bill Details page in the Office 365 Admin Center.](../media/ef920095-f581-4d1a-bf92-a007c8fe7121.png)
+    ![Screen shot of the Invoice section of the Bill Details page in the Microsoft 365 admin center.](../media/ef920095-f581-4d1a-bf92-a007c8fe7121.png)
   
 2. To print or save a PDF copy of the bill, choose **View invoice (.pdf)**, and then print the PDF.
     

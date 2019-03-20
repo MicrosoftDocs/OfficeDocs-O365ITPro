@@ -50,7 +50,7 @@ To create a new Kaizala Connector:
     
     ![Sample Kaizala connector for marketing group](media/083806aa-81fe-45d7-bf7a-62de5232d7c9.png)
   
-Connector Id and Connector Secret are attributes that are used along with a generated, group-specific refresh token to make REST API calls, in specific Kaizala groups. You can also view these details from the connector details in the Kaizala admin portal.
+Connector Id and Connector Secret are attributes that are used along with a generated, group-specific refresh token to make REST API calls, in specific Kaizala groups. You can also view these details from the connector details in the Kaizala admin center.
   
 ## View Kaizala Connectors
 

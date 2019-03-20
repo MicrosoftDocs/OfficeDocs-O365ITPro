@@ -1,5 +1,5 @@
 ---
-title: "About the Office 365 admin center"
+title: "About the Microsoft 365 admin center"
 ms.author: kwekua
 author: kwekua
 manager: scotv
@@ -32,7 +32,7 @@ ms.assetid: 758befc4-0888-4009-9f14-0d147402fd23
 description: "Use the admin center to set up your organization in the cloud, and manage users and subscriptions. Get started by signing in to the account with admin permissions."
 ---
 
-# About the Office 365 admin center
+# About the Microsoft 365 admin center
 
 [![Label to let you know the Admin Center is changing and you can find more details at aka.ms/aboutM365preview.](../media/O365-Admin-AdminCenterChanging.png)](../microsoft-365-admin-center-preview.md)
 
@@ -92,7 +92,7 @@ Here are the features and settings you'll find in the left-hand navigation of th
     
 - Get help with billing: [Billing in Office 365 for business](../subscriptions-and-billing/subscriptions-and-billing.md)
     
-- See activity reports: [Activity Reports in the Office 365 Admin Center Preview](../activity-reports/activity-reports.md)
+- See activity reports: [Activity Reports in the Microsoft 365 admin center Preview](../activity-reports/activity-reports.md)
     
 - Manage Office 365 groups: [Create and manage Office 365 groups in Admin Center](../create-groups/create-groups.md)
     

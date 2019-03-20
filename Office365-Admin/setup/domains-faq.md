@@ -326,7 +326,7 @@ You can keep using the initial onmicrosoft.de domain even after you add your dom
 
 ## How do I verify my nonprofit or education status?
 
-1. Choose **Setup** in the [Office 365 admin center](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791 .aspx) to start the wizard. (Be sure to sign in to Office 365 first.) 
+1. Choose **Setup** in the [Microsoft 365 admin center](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791 .aspx) to start the wizard. (Be sure to sign in to Office 365 first.) 
     
 2. To become the Office 365 admin for your school, [follow these steps](https://go.microsoft.com/fwlink/?LinkId=512141) to find and choose the **Become an admin** option in Office 365. 
     
@@ -353,7 +353,7 @@ You can, but there are limitations:
 
 ### How to set up an Office 365 pilot
     
-1. Sign in to the Office 365 admin center
+1. Sign in to the Microsoft 365 admin center
     
     1. Sign in to Office 365 with your work or school account.
         
@@ -397,7 +397,7 @@ You can, but there are limitations:
     
 5. Create user accounts and set the primary (reply-to) address
     
-    1. Go to the Office 365 admin center.
+    1. Go to the Microsoft 365 admin center.
         
     2. On the left navigation bar, choose **Users** \> **Active Users**. 
         

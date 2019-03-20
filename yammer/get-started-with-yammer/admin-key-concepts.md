@@ -83,7 +83,7 @@ This article describes the key concepts you should know, and key decisions you s
     
     For admin support options, if you need more help than [Yammer admin help](../yammer-landing-page.md) provides, you can [Contact support for business products - Admin Help](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
     
-    Check the [Office 365 Service health dashboard](https://portal.office.com/servicestatus) to see real-time status of the Yammer service. 
+    Check the [Office 365 Service health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see real-time status of the Yammer service. 
     
 10. Yammer is always changing. To stay current on what's happening, regularly review the [Microsoft 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914). 
     
