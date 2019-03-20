@@ -3,7 +3,6 @@ title: "Quick help Deleted user"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

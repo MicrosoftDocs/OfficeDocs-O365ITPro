@@ -28,7 +28,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 6b71d0f1-778d-4691-9876-35191329ffc5
-
 description: "Learn how you can set up Office 365 to manage the DNS records of your custom domain at Dynadot."
 ---
 

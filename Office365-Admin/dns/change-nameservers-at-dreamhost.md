@@ -22,7 +22,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 7e170116-e550-430b-aba9-c317de2d35ed
-
 description: "Learn how you can set up Office 365 to manage the DNS records of your custom domain at Dreamhost."
 ---
 
