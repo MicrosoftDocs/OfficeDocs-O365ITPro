@@ -70,12 +70,12 @@ If you're a member of one of these roles, you can create Office 365 Groups for r
 
 ## Licensing requirements
 
-To manage who creates Office 365 Groups, the following people need Azure AD Premium licenses or Azure AD Basic EDU licenses assigned to them:
+To manage who creates Office 365 Groups, the following people need Azure AD Premium licenses or Azure AD Basic licenses assigned to them:
 
 - The admin who configures these group creation settings
 - The members of the security group who are allowed to create Office 365 Groups
 
-The following people don't need Azure AD Premium or Azure AD Basic EDU licenses assigned to them:
+The following people don't need Azure AD Premium or Azure AD Basic licenses assigned to them:
 
 - People who are members of Office 365 groups and who don't have the ability to create other Office 365 groups.
 
