@@ -3,7 +3,6 @@ title: "Set an individual user's password to never expire"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -21,7 +20,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: f493e3af-e1d8-4668-9211-230c245a0466
-
 description: "Learn how to set some individual user passwords to never expire, using Windows PowerShell."
 ---
 

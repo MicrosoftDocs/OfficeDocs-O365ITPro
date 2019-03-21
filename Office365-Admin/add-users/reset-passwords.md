@@ -3,7 +3,6 @@ title: "Reset Office 365 business passwords"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

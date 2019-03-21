@@ -3,7 +3,6 @@ title: "Office 365 Reports in the Admin Center - Yammer activity report"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

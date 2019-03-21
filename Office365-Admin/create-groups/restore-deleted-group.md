@@ -19,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: b7c66b59-657a-4e1a-8aa0-8163b1f4eb54
-
 description: "Learn how to restore a deleted Office 365 Group using the Exchange admin center. "
 ---
 
