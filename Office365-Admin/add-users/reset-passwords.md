@@ -17,7 +17,6 @@ ms.collection:
 - M365-subscription-management
 - Adm_O365
 - Adm_O365_Top
-- TopSMBIssues
 - Adm_UI_Elements
 - strat_admin_top
 ms.custom:
@@ -25,6 +24,7 @@ ms.custom:
 - Adm_O365_FullSet
 - Adm_O365_Top
 - Core_O365Admin_Migration
+- TopSMBIssues
 - MiniMaven
 - strat_admin_top
 - MSStore_Link
