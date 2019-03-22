@@ -25,8 +25,6 @@ description: "Create a room or equipment mailbox so that everyone in your organi
 
 # Idle timeout session
 
-Idle session timeout provides an Office 365 administrator to configure a threshold at which a user is warned and subsequently signed out of SharePoint or OneDrive after a period of inactivity as illustrated below.
-
 As an Office 365 admin, you can configure an idle timeout setting that automatically signs users of the online Office apps when they’ve been inactive​. You can control how long that inactive period is.
   
 ## Configure idle session timeout
