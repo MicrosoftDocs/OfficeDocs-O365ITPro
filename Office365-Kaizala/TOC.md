@@ -19,7 +19,7 @@
 ### [Reports](reports.md)
 ### [Actions](actions.md)
 ### [Back up and export organization data](backup-export-org-data.md)
-### [Azure AD sync with Tenant User List](aad-sync-with-tul.md)
+### [Azure AD sync with Kaizala Directory](aad-sync-with-tul.md)
 ### [URLs and IP address ranges](urls-and-ip-address-ranges.md)
 ### [Connectors](connectors.md)
 ### [Office Add-in](office-add-in.md)

@@ -72,7 +72,7 @@ You can choose from the following top level domains for your domain.
     
 - org.uk
     
-![On the Manage domains page, click Buy domain](../media/16d6b3ba-ce13-496e-a7c0-1d99479dd203.png)
+
   
 ### Buy a domain from another domain registrar
 
