@@ -19,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: b7c66b59-657a-4e1a-8aa0-8163b1f4eb54
-
 description: "Learn how to restore a deleted Office 365 Group using the Exchange admin center. "
 ---
 
@@ -61,13 +60,13 @@ You can also [Permanently delete an Office 365 group](#permanently-delete-an-off
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
     

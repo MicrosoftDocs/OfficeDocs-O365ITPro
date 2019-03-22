@@ -31,7 +31,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 8b2e3bca-c11b-4c10-a6d0-cdc09a83ccb9
-
 description: "Learn how you can set up Office 365 to manage the DNS records of your custom domain at Dyn.com."
 ---
 

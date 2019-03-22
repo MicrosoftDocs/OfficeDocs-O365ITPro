@@ -40,12 +40,12 @@ Follow the steps to generate an archive file which will contain multiple CSV fil
 
 To completely remove a user's organizational data from Kaizala, you can remove them via the Kaizala management portal. Once the user is deleted, their information will be deleted from organizational groups in Kaizala. However, data within non-organizational groups will remain.
   
-### Remove a user from Kaizala admin portal
+### Remove a user from Kaizala admin center
 
 To remove a user from Kaizala, follow the steps below:
 (Note: You must be a member of the global admin role group to complete these steps.)
   
-1. Sign in to the Kaizala admin portal.
+1. Sign in to the Kaizala admin center.
     
 2. Select **Users**. Then choose the phone number that you want to delete and select **Delete**.
     

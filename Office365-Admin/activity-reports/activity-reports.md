@@ -3,7 +3,6 @@ title: "Activity Reports in the Microsoft 365 admin center"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:
@@ -11,9 +10,9 @@ f1_keywords:
 - 'O365M_ReportsYammerActivity'
 - 'O365M_ReportsUsageOverview'
 - 'O365E_ReportsYammerActivity'
-- 'O365E_ReportsUsageOverview
-O365M_ReportsUsageOverview
-O365P_ReportsUsageOverview'
+- 'O365E_ReportsUsageOverview'
+- 'O365M_ReportsUsageOverview'
+- 'O365P_ReportsUsageOverview'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
@@ -53,13 +52,13 @@ Watch this video for on overview: on how you can use the reports:
 
 ::: moniker range="o365-germany"
 
-1. Go to the [admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 

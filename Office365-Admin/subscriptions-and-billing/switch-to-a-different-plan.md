@@ -34,7 +34,6 @@ search.appverid:
 - BEA160
 - GEA150
 ms.assetid: 73318661-8f33-478b-bcc7-fb8d69dbb22a
-
 description: "Learn how to switch to a new Office 365 for business subscription."
 ---
 

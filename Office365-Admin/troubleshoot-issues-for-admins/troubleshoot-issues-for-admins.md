@@ -42,7 +42,7 @@ It could also happen because you haven't assigned a license to yourself or your 
   
  **Check that you have a license**
   
-1. If you're not already signed in, go to [https://portal.office.com](https://portal.office.com) and sign in with your work or school account.
+1. If you're not already signed in, go to [https://admin.microsoft.com](https://admin.microsoft.com) and sign in with your work or school account.
 
     > [!NOTE]
     > If you're unable to sign in with your work or school account, you may be signing in to the wrong Office 365 service, see [Where to sign in to Office 365 for business](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).

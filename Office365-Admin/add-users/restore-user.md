@@ -3,7 +3,6 @@ title: "Restore a user in Office 365"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -62,14 +61,14 @@ You must be a global admin or user management admin in Office 365 to do these st
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 1. In the admin center, go to **Users** \> **Deleted users**.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 1. In the admin center, go to **Users** \> **Deleted users**.
 
 ::: moniker-end
@@ -99,14 +98,14 @@ To fix this, replace the active user account with the one that you are restoring
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 1. In the admin center, go to **Users** \> **Deleted users**.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 1. In the admin center, go to **Users** \> **Deleted users**.
 
 ::: moniker-end
@@ -142,14 +141,14 @@ You must have [admin permissions](about-admin-roles.md) in Office 365 to do this
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 1. In the admin center, go to **Users** \> **Deleted users**.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 1. In the admin center, go to **Users** \> **Deleted users**.
 
 ::: moniker-end

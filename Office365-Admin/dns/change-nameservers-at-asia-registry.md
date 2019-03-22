@@ -99,8 +99,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
-    
-  
+      
 3. On the **Setup** page, choose **Start setup**.
     
     

@@ -3,7 +3,6 @@ title: "Quick help Deleted user"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -14,7 +13,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
- - Adm_UI_Elements
+- Adm_UI_Elements
 ms.custom:
 - Core_O365Admin_Migration
 - EmptyState
