@@ -37,4 +37,4 @@ As an Office 365 admin, you can configure an idle timeout setting that automatic
   
 4. On the **Idle Session Timeout** select the toggle to turn it on. You can choose a default setting or choose your own custom time.
 
-Once a user reaches the idle timeout session when they're using the online Office apps, they'll get a notification that they're about to be signed out. If they don't stay signed out, they'll be automatically signed out of all online Office apps that they're using.
+Once a user reaches the idle timeout session when they're using the online Office apps, they'll get a notification that they're about to be signed out. If they don't stay signed in, they'll be automatically signed out of all online Office apps that they're using.
