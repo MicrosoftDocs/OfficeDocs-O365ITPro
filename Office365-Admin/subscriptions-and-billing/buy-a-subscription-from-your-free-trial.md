@@ -20,6 +20,7 @@ ms.collection:
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
+- TopSMBIssues
 - MiniMaven
 - MSStore_Link
 search.appverid:
