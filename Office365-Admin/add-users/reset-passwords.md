@@ -17,6 +17,7 @@ ms.collection:
 - M365-subscription-management
 - Adm_O365
 - Adm_O365_Top
+- TopSMBIssues
 - Adm_UI_Elements
 - strat_admin_top
 ms.custom:
