@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 01/09/2019
+ms.date: 03/26/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -20,15 +20,15 @@ description: Learn how to enable and disable interop between Kaizala and Microso
 ---
 # Interop between Kaizala and Microsoft Teams
 
-Kaizala-Teams interop is an initiative that will help your organization complete the workflows between your inner loop (for example, information workers) and your outer loop (for example, vendors). The overarching goal here is to let Kaizala users chat with Microsoft Teams users.
+Kaizala-Teams interop enables organizations to connect information workers who collaborate and communicate using Microsoft Teams with mobile-only workers using Microsoft Kaizala. With interop, a field worker can initiate a chat from Microsoft Kaizala with a desk worker using Microsoft Teams and can send or receive messages seamlessly.
 
-We are starting with enabling interop on all text messages in [organization chats](https://support.office.com/article/organization-chats-and-groups-in-kaizala-c8a7855c-d232-4914-811c-f6708734dcc3). Our intent is to expand to enable interop with Teams-only users, for all message types and groups. Watch this article for details about improvements in the interop feature.
+This feature enables interop on all text messages in [organization chats](https://support.office.com/article/organization-chats-and-groups-in-kaizala-c8a7855c-d232-4914-811c-f6708734dcc3). This feature will expand to enable interop with Teams-only users, for all message types and groups. Watch this article for details about improvements in the interop feature.
 
 ## How interop works with Microsoft Teams 
 
 ### Conditions for interop to work 
 
-For the first phase, users must be registered on both Kaizala and Microsoft Teams. We are working to enable interop between Kaizala and Teams-only users.
+For the first phase, users must be registered on both Kaizala and Microsoft Teams. The ability to enable interop between Kaizala and Teams-only users will be coming.
 
 ### Set up interop with Microsoft Teams   
 
@@ -96,26 +96,27 @@ The following shows the interop experience for Microsoft Teams users.
 |Message     |All other message types         |None         |
 |Action      |Edit         |If unsupported, then unsupported message <br> If text, reply to the original message |
 |Action      |Delete         |If unsupported, message will not be deleted <br> If text, message will be deleted |
-|Read receipts   |Message sent on Teams   |Read receipts is not visible on Kaizala (we are working to enable this)   |
+|Read receipts   |Message sent on Teams   |Read receipts is not visible on Kaizala (this ability will be coming)   |
 |Notifications   |Notification of message received on Kaizala |Notifications will appear for Kaizala as well |
 
 ## Compliance in Microsoft Teams interop
 
-Even though both Kaizala and Teams are part of Office 365, there are different compliance requirements for each platform. It is therefore critical to ensure that only the right people see the right kinds of data and messages.
+There are differences between Kaizala and Microsoft Teams with respect to compliance in specific regions. For more details about compliance, see [Office 365 compliance framework](http://download.microsoft.com/download/1/4/3/1434ABAB-B8E9-412D-8C3A-187B5FCB7A2F/Compliance%20Framework%20document.pdf).
 
-- Both Kaizala and Microsoft Teams are at compliance Tier C everywhere Kaizala is live.
-- Both Kaizala and Microsoft Teams are geo-regional compliant everywhere Kaizala is live.
-- In other places where Kaizala is not live, the setting for interop is automatically disabled. The admin can always turn it on.
+- Both Kaizala and Microsoft Teams are at compliance Tier C everywhere Kaizala is generally available. (Kaizala is commercially available [28 markets](regional-availability.md)).
+- Both Kaizala and Microsoft Teams are geo-regional compliant everywhere Kaizala is generally available.
+- In other places where Kaizala is not generally available, the setting for interop is automatically disabled. The admin can always turn it on.
 - The organization admin can turn interop off or on from the **Settings** tab in the Kaizala management portal as shown in the following screenshot.
 
 ![Screenshot of interop settings page in Kaizala management portal](media/interop-settings-teams.png)
 
 ## What’s next in Microsoft Teams interop
 
-While we’ve taken small steps to implement full interop between Microsoft Teams and Kaizala, we intend to refine this feature, including:
+These are the first steps to implement full interop between Microsoft Teams and Kaizala. This feature will be refined to include:
 
 - Support for attachments in interop.
 - Ability of Kaizala to interop with a Microsoft Teams-only user.
 
+This feature has begun flighting for select enterprise organizations. If you want to be part of this flighting, send a request to [kaizalafeedback@microsoft.com](mailto:kaizalafeedback@microsoft.com).
 
 
