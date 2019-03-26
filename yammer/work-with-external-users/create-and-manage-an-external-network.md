@@ -3,7 +3,7 @@ title: "Create and manage an external network in Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 3/15/2018
+ms.date: 3/15/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -21,6 +21,9 @@ description: "Create and manage an external network to collaborate with people o
 If you have permission, you can create an external Yammer network to collaborate with people outside your company, such as customers, suppliers, and partners. People with external email addresses must be invited into or request access to an external network. When they join the external network, they can only see content posted specifically to that external network. That means they will not have access to your home network. 
   
 External networks are essentially their own networks: each has its own admin center and has its own admins. 
+
+>[!NOTE] 
+>This feature is not available for Yammer Enterprise networks in the [EU Geo](../manage-security-and-compliance/data-residency-eu-geo.md).
   
 ## Create an external network
 <a name="ExternalNetworks"> </a>
@@ -30,7 +33,7 @@ External networks are essentially their own networks: each has its own admin cen
     ![Settings menu, with permission to create external networks](../media/76058573-115f-43a3-b073-59ba5d3b28d0.png)
   
     > [!NOTE]
-    > The Yammer admins for your home network control whether all users or only admins can set up external networks. If **Create a New Network** is not visible, it means your Yammer admins have configured your Yammer network to only allow Yammer network and verified admins to create an external network.<br><br>To ask one of your home network admins for help setting up an external network, look in the **All Company** group in your home network. Admins have blue stars by their names. 
+    > The Yammer admins for your home network control whether all users or only admins can set up external networks. If **Create a New Network** is not visible, it means your Yammer admins have configured your Yammer network to only allow Yammer network and verified admins to create an external network.<br><br>To find a home network admin for help setting up an external network, in your browser go to **https://yammer.com/***your_network***/admin** to find the list of Yammer admins.  
   
 2. Fill in the required settings:
     

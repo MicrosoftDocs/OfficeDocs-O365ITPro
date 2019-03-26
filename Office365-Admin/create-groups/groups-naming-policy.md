@@ -25,8 +25,6 @@ description: "Learn how to create a naming policy for Office 365 groups. "
 
 # Office 365 Groups naming policy
 
-**The information in topic applies to the public preview release of the groups naming policy feature.**
-
 You use a group naming policy to enforce a consistent naming strategy for Office 365 groups created by users in your organization. A naming policy can help you and your users identify the function of the group, membership, geographic region, or who created the group. The naming policy can also help categorize groups in the address book. You can use the policy to block specific words from being used in group names and aliases.
   
 The naming policy is applied to groups that are created across all groups workloads (like Outlook, Microsoft Teams, SharePoint, Planner, Yammer, etc). It gets applied to both the group name and group alias. It gets applied when a user creates a group and when group name or alias is edited for an existing group.
@@ -279,7 +277,7 @@ Microsoft Stream shows the naming policy decorated name when the user types a gr
   
 ## Outlook iOS and Android App
 
-Groups created in Outlook apps are compliant with naming policy. Outlook mobile app doesn't yet show the preview of the naming policy and doesn't return the custom blocked word errors, when the user enters the group name. However, naming policy will be automatically applied on clicking create/edit and users will be presented with errors if there are custom blocked words in the group name or alias.
+Groups created in Outlook apps are compliant with naming policy. Outlook mobile shows the naming policy preview when entering the Group name. When a user enters a custom blocked word, an error message is shown on creating the group, so the user can remove the blocked word.
   
 ## Planner
 
@@ -333,9 +331,9 @@ Azure Active Directory PowerShell cmdlets are compliant with naming policy. User
 
 Exchange admin center is compliant with naming policy. On create or edit actions, users will get appropriate error messages with suggested prefixes and suffixes and for custom blocked words if naming convention isn't used in the group names and group alias.
   
-## Office 365 Admin center
+## Microsoft 365 Admin center
 
-Office 365 Admin center is compliant with naming policy. On create or edit actions, naming policy will automatically get applied. Users will get appropriate errors when they enter custom blocked words. Office 365 Admin center doesn't yet show the preview of the naming policy and doesn't return the custom blocked word errors, when the user enters the group name.
+Microsoft 365 Admin center is compliant with naming policy. On create or edit actions, naming policy will automatically get applied. Users will get appropriate errors when they enter custom blocked words. Microsoft 365 Admin center doesn't yet show the preview of the naming policy and doesn't return the custom blocked word errors, when the user enters the group name.
   
 ## Azure Active Directory portal
 

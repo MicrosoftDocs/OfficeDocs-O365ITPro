@@ -93,7 +93,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
-    ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
 3. On the **Setup** page, choose **Start setup**.
     
@@ -183,7 +183,7 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
     |lyncdiscover  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
     |msoid  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
     |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
-    |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
    
     ![Type or copy and paste DNS values](../media/6ae607f8-d26e-47f0-a0f2-3487d37e8c7f.png)
   

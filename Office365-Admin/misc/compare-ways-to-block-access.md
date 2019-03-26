@@ -3,7 +3,6 @@ title: "Compare ways to block access to Office 365"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -21,7 +20,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5785d21d-1abd-4571-a04a-8cc5a65ca9b5
-
 ROBOTS: NOINDEX
 description: "Learn how to block access to Office 365 when an employee leaves your organization."
 ---

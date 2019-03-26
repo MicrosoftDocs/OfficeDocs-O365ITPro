@@ -114,7 +114,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
-    ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
 3. On the **Setup** page, choose **Start setup**.
     
@@ -230,7 +230,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |lyncdiscover|webdir.online.lync.com<br> **Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
     |msoid|clientconfig.microsoftonline-p.net<br>**Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
     |enterpriseregistration|enterpriseregistration.windows.net<br> **Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
-    |enterpriseenrollment|enterpriseenrollment.manage.microsoft.com<br> **Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
+    |enterpriseenrollment|enterpriseenrollment-s.manage.microsoft.com<br> **Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
    
     ![WhizIn-BP-Configure-3-2](../media/4eeae047-d2f9-49c5-87e2-050df7b3d2d7.png)
   

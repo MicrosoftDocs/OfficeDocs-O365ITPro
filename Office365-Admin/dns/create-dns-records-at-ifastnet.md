@@ -85,7 +85,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
-    ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
 3. On the **Setup** page, choose **Start setup**.
     
@@ -181,7 +181,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |CNAME  <br/> |lyncdiscover. *domain_name*  . (For example, lyncdiscover.fourthcoffee.com.  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |webdir.online.lync.com  <br/> |
     |CNAME  <br/> |msoid. *domain_name*  . (For example, msoid.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |msoid.online.lync.com  <br/> |
     |CNAME  <br/> |enterpriseregistration. *domain_name*  . (For example, enterpriseregistration.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |enterpriseregistration.windows.net  <br/> |
-    |CNAME  <br/> |enterpriseenrollment. *domain_name*  . (For example, enterpriseenrollment.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |CNAME  <br/> |enterpriseenrollment. *domain_name*  . (For example, enterpriseenrollment.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
    
     ![iFast-BP-Configure-3-1](../media/023389cc-adc1-4f67-ba01-0fdaa0d2005d.png)
   

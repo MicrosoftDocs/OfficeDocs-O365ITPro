@@ -37,7 +37,7 @@ Multi-factor authentication (MFA) is a method of authentication that requires th
     
 ## Multi-factor authentication in Office 365
 
-Office 365 uses multi-factor authentication to help provide the extra security and is managed from the Office 365 admin center. Office 365 offers the following subset of Azure multi-factor authentication capabilities as a part of the subscription: 
+Office 365 uses multi-factor authentication to help provide the extra security and is managed from the Microsoft 365 admin center. Office 365 offers the following subset of Azure multi-factor authentication capabilities as a part of the subscription: 
   
 - The ability to enable and enforce multi-factor authentication for end users
     

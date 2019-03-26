@@ -23,7 +23,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c7228a3e-061f-4575-b1ef-adf1d1669870
-description: "Learn about the Office 365 admin center: how to sign in, who your admin is, and watch a video introduction about it."
+description: "Learn about the Microsoft 365 admin center: how to sign in, who your admin is, and watch a video introduction about it."
 ---
 
 # Office 365 admin overview 
@@ -60,7 +60,7 @@ If you get the message "**You don't have permission to access this page or perfo
 
 When looking for your admin to reset your password, delete an account, or do other tasks, here's who you should contact:
   
-- **Universities and schools**: Contact your technical support team. Usually you can find a link on your university site. At smaller schools, there may be just a couple technical people who have admin permissions. 
+- **Universities and schools**: Contact your technical support team. Usually you can find a link on your university site. At smaller schools, there may be just a few individuals who have admin permissions. 
     
 - **Large businesses**: Contact your internal help desk / technical support. 
     

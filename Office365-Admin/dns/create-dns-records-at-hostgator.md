@@ -116,7 +116,7 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. In the Office 365 admin center, choose **Setup** \> **Domains**.
+1. In the Microsoft 365 admin center, choose **Setup** \> **Domains**.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
@@ -210,7 +210,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |lyncdiscover. *domain_name*. (for example, lyncdiscover.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
     |msoid. *domain_name*. (for example, msoid.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
     |enterpriseregistration. *domain_name*. (for example, enterpriseregistration.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
-    |enterpriseenrollment. *domain_name*. (for example, enterpriseregistration.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |enterpriseenrollment. *domain_name*. (for example, enterpriseregistration.fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |3600  <br/> |CNAME  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
    
     ![Hostgator-BP-Configure-3-1](../media/9f9e988b-9f8a-4f7b-a6da-c04bd8e5da7c.png)
   

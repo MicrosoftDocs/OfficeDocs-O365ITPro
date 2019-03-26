@@ -3,7 +3,7 @@ title: "Find external messaging participants in a Yammer network"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 2/12/2019
+ms.date: 3/15/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -19,7 +19,10 @@ description: "Yammer admins can use data export to find external participants in
 
 # Find external messaging participants in a Yammer network
 
-Your users need the flexibility to [add external participants](add-external-participants.md) to conversations in your Yammer network. Verified Admins can use data export to find the names of external participants, and see which conversations and files in their own network are visible to external participants.  
+Verified Admins can use data export to find the names of [external participants](add-external-participants.md), and see which conversations and files in their own network are visible to external participants.
+
+>[!NOTE] 
+>Yammer Enterprise networks in the [EU Geo](../manage-security-and-compliance/data-residency-eu-geo.md) do not have external participants.
   
 1. In the Yammer admin center, go to **Content and Security** \> **Export data**.
     

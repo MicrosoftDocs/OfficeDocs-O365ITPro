@@ -3,7 +3,6 @@ title: "Office 365 Reports in the Admin Center - Active Users"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:
@@ -23,8 +22,7 @@ search.appverid:
 - MOE150
 - GEA150
 ms.assetid: fc1cf1d0-cd84-43fd-adb7-a4c4dfa8112d
-
-description: "Learn how to get an Active Users report using the Office 365 Reports dashboard in the Office 365 admin center and find out how many product licenses are being used."
+description: "Learn how to get an Active Users report using the Office 365 Reports dashboard in the Microsoft 365 admin center and find out how many product licenses are being used."
 ---
 
 # Office 365 Reports in the Admin Center - Active Users
@@ -38,7 +36,7 @@ For example, you can use the **Active Users** report to find out how many produc
   
 ## How to get to the Active Users report
 
-1. Go to the Office 365 admin center \> **Reports** \> and click **Usage**.
+1. Go to the Microsoft 365 admin center \> **Reports** \> and click **Usage**.
     
     ![In the admin center, click reports, then usage](../media/1e7dbaa2-155e-476a-b50a-7ae7a7393611.png)
   
@@ -63,6 +61,6 @@ For example, you can use the **Active Users** report to find out how many produc
 
 
 
-If your organization's policies prevents you from viewing reports where user information is identifiable, you can change the privacy setting for all these reports. Check out the **How do I hide user level details?** section in [Activity Reports in the Office 365 Admin Center](activity-reports.md).  
+If your organization's policies prevents you from viewing reports where user information is identifiable, you can change the privacy setting for all these reports. Check out the **How do I hide user level details?** section in [Activity Reports in the Microsoft 365 admin center](activity-reports.md).  
    
 

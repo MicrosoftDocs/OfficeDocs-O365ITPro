@@ -123,7 +123,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
-    ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
 3. On the **Setup** page, choose **Start setup**.
     
@@ -231,7 +231,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |**Name**|**Type**|**TTL**|**TTL unit**|**Alias**|
 |:-----|:-----|:-----|:-----|:-----|
 |enterpriseregistration  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+|enterpriseenrollment  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
    
 ## Add a TXT record for SPF to help prevent email spam
 <a name="BKMK_add_TXT"> </a>

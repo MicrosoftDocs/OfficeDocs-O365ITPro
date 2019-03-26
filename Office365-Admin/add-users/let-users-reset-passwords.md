@@ -41,10 +41,17 @@ Here are a few things you need to know:
     
 ## Let people reset their own passwords in Office 365
 
+::: moniker range="o365-worldwide"
+
+> [!TIP]
+> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end
+
 These steps turn on self-service password reset for everyone in your business.
   
 ::: moniker range="o365-worldwide"
-1.  Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1.  Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -75,13 +82,6 @@ These steps turn on self-service password reset for everyone in your business.
     ![Choose All](../media/1a7ad5c4-1dbe-46b9-9ed0-5507b62023d0.png)
   
 6. When your users sign in to Office 365, they will be prompted to enter additional contact information that will help them reset their password in the future.
-
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
 
 ## Related articles
 

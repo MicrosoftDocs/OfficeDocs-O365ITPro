@@ -3,7 +3,6 @@ title: "Active user in Office 365 usage reports"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -28,7 +27,7 @@ description: "Learn about an active user of Office 365 usage analytics, activity
 
 ## Active user in usage reports
 
-An active user of Office products for [Microsoft 365 usage analytics](usage-analytics.md) and the [Activity Reports in the Office 365 admin center](../activity-reports/activity-reports.md) is defined as follows. 
+An active user of Office products for [Microsoft 365 usage analytics](usage-analytics.md) and the [Activity Reports in the Microsoft 365 admin center](../activity-reports/activity-reports.md) is defined as follows. 
   
 |**Product**|**Definition of an active user**|**Notes**|
 |:-----|:-----|:-----|
@@ -39,7 +38,7 @@ An active user of Office products for [Microsoft 365 usage analytics](usage-anal
 |Skype for Business  <br/> |Any user who has participated in a peer-to-peer session (including instant messaging, audio and video calls, application sharing, and file transfers) or who has organized or participated in a conference.  <br/> ||
 |Office  <br/> |Any user who has activated their Office 365 Pro Plus, Visio Pro or Project Pro subscription on at least one device.  <br/> ||
 |Office 365 Groups  <br/> |Any group member that has mailbox activity (if a message has been sent to the group)  <br/> |This definition will be enhanced with group site file activity and Yammer group activity (file activity on group site and message posted to Yammer group associated with the group.) This data is currently not available in the Office 365 Adoption content pack  <br/> |
-|Microsoft Teams  <br/> |Any user who has participated in chat messages, private chat messages, calls, or meetings.  <br/> ||
+|Microsoft Teams  <br/> |Any user who has participated in chat messages, private chat messages, calls,meetings or other activity. Other activity is defined as the number of other team activities by the user some of which include, and not limited to: liking messages, apps, working on files, searching, following teams and channel and favoriting them.  <br/> ||
    
 ## Adoption Metrics
 

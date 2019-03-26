@@ -3,7 +3,7 @@ title: "Integrate Yammer with other applications"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 1/9/2019
+ms.date: 3/8/2019
 ms.audience: Admin
 ms.topic: reference
 ms.prod: office-online-server
@@ -27,7 +27,7 @@ Yammer offers a variety of integrations to help make other applications more mob
   
 ## Yammer for SharePoint
 
-Add Yammer feeds to your SharePoint pages. For instructions, see [Include a Yammer feed in a SharePoint page](embed-a-feed-into-a-sharepoint-site.md).
+Add Yammer feeds to your SharePoint pages. For instructions, see [Use a Yammer web part in SharePoint Online](https://support.office.com/article/a53cfa0c-3d09-42c8-a286-1038a81c59da) and [Include a Yammer feed in a SharePoint page](embed-a-feed-into-a-sharepoint-site.md).
   
 ## Yammer Embed
 
@@ -39,21 +39,18 @@ The [Yammer connector](https://docs.microsoft.com/connectors/yammer/) is a host 
   
 ## Yammer and Flow
 
-[Microsoft Flow](https://docs.microsoft.com/flow/) can be used with Yammer. For example, you could set up a flow to post to Yammer whenever a SharePoint site is updated. 
+[Microsoft Flow](https://docs.microsoft.com/flow/) can be used with Yammer.  
 
-- For a list of flow templates for connecting flow and Yammer, see [Flow Yammer templates](https://flow.microsoft.com/connectors/shared_yammer/yammer/). 
+- For a list of Flow templates for connecting Flow and Yammer, see [Flow Yammer templates](https://flow.microsoft.com/connectors/shared_yammer/yammer/). Examples include using an RSS feed to send news to a Yammer group, posting to Yammer if new tweets match with a hashtag, posting to SharePoint when a message is posted in a group, posting to Yammer for a selected item or when a new item is posted in SharePoint, sending email when a new message is posted, and posting to Yammer from Facebook and Twitter.
 
-- For a detailed example of integrating Flow, Yammer, and Azure QnA Maker to set up a Yammer group to provide automated answers to questions posted in the group, see [Create a knowledge-based community in Yammer by using QnA Maker and Flow](knowledge-base-community-flow-qna-maker.md).
-
+- For other examples using Flow, see: 
+    - [Create a knowledge-based community in Yammer by using QnA Maker and Flow](knowledge-base-community-flow-qna-maker.md)
+    - [Identify sentiment of comments in a Yammer group by using Azure Cognitive Services and Flow](sentiment-analysis-flow-azure.md).
 
 ## Yammer and Skype for Business
 
 You can [Add a Yammer feed to a Skype Meeting Broadcast](https://support.office.com/article/0d92d1c4-4032-4b5b-bee4-cdeab1aea7c0), or [use Skype for business from within Yammer](https://support.office.com/article/e221b8ae-9647-4b46-b79e-257c36b1a1f8.aspx).
   
-## Yammer and Azure QnA Maker
-
-For a detailed example of integrating Flow, Yammer, and Azure QnA Maker to set up a Yammer group to provide automated answers to questions posted in the group, see [Create a knowledge-based community in Yammer by using QnA Maker and Flow](knowledge-base-community-flow-qna-maker.md).
-
 ## Yammer for Dynamics CRM
 
 Integrate Yammer with Microsoft Dynamics CRM Online to add a social layer to your existing CRM tool and jumpstart collaboration. For more information, see [Configure Microsoft Dynamics CRM Online With Yammer](https://go.microsoft.com/fwlink/?linkid=868110).

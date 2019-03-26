@@ -29,7 +29,12 @@ description: "Learn how to preserve an employee's files and emails when the pers
 
 # Get access to and back up a former user's data
 
- 
+::: moniker range="o365-worldwide"
+
+> [!TIP]
+> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end
   
 When an employee leaves your organization, you probably want to access their data - meaning their documents and emails - and either review it, back it up, or transfer ownership to a new employee.
   
@@ -47,7 +52,7 @@ To save the content, here's what you do:
 
 1. Sign in to Office 365 with your work or school account. 
     
-2. Go to the [Office 365 admin center](../admin-overview/about-the-admin-center.md).
+2. Go to the [Microsoft 365 admin center](../admin-overview/about-the-admin-center.md).
     
 3. Go to Active users and select the user.
     

@@ -28,8 +28,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5e605518-086a-4f58-95c7-8622666ad347
-description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Gandi.net for Office 365.
-"
+description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at Gandi.net for Office 365."
 ---
 
 # Create DNS records at Gandi.net for Office 365
@@ -201,7 +200,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
-    ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
 3. On the **Setup** page, choose **Start setup**.
     
@@ -360,7 +359,7 @@ Now that you have created the new zone file, you will add to it all of the DNS r
     |CNAME  <br/> |1 hours  <br/> |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
     |CNAME  <br/> |1 hours  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
     |CNAME  <br/> |1 hours  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
-    |CNAME  <br/> |1 hours  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |CNAME  <br/> |1 hours  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
     ![GandiNet-BP-Configure-3-1](../media/a707be8b-a362-44ac-a1b6-0bca3fe94a90.png)
   

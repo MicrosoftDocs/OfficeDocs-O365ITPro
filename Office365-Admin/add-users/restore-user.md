@@ -3,7 +3,6 @@ title: "Restore a user in Office 365"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -34,6 +33,12 @@ description: "Learn how to restore deleted Office 365 user accounts and all asso
 
 # Restore a user in Office 365
 
+::: moniker range="o365-worldwide"
+
+> [!TIP]
+> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end
    
 When you restore a user account within 30 days after deleting it, the account and all associated data are restored. The user can sign in with the same work or school account. Their mailbox will be fully restored. To find out how much time remains before a specific user account can no longer be restored, [contact us](../contact-support-for-business-products.md).
   
@@ -51,7 +56,7 @@ You must have [admin permissions](about-admin-roles.md) in Office 365 to do this
  
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -91,7 +96,7 @@ To fix this, replace the active user account with the one that you are restoring
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -138,7 +143,7 @@ You must have [admin permissions](about-admin-roles.md) in Office 365 to do this
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 

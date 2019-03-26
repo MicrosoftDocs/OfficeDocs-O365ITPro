@@ -112,7 +112,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
-    ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
 3. On the **Setup** page, choose **Start setup**.
     
@@ -242,7 +242,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |lyncdiscover. *domain_name*  <br/> The **lyncdiscover** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, lyncdiscover.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |webdir.online.lync.com  <br/> |
     |msoid. *domain_name*  <br/> The **msoid** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, msoid.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |clientconfig.microsoftonline-p.net  <br/> |
     |enterpriseregistration. *domain_name*  <br/> The **enterpriseregistration** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, enterpriseregistration.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |enterpriseregistration.windows.net  <br/> |
-    |enterpriseenrollment. *domain_name*  <br/> The **enterpriseenrollment** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, enterpriseenrollment.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |enterpriseenrollment. *domain_name*  <br/> The **enterpriseenrollment** value must be added as a single string to the beginning of your domain_name.  <br/> Use a period (.) to separate values (for example, enterpriseenrollment.fourthcoffee.com)  <br/> |Alias (CNAME)  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
    
     ![FreeparkingNZ-BP-Configure-3-1](../media/aeee206c-2691-4f76-9b23-09d91c71e728.png)
   

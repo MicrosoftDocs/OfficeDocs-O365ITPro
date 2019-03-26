@@ -138,11 +138,11 @@ You can only upgrade cloud-managed, simple, non-nested distribution lists. The t
 
 If you want to check whether a DL is eligible or not, you can run the below command:
 
-`Get-DistributionGroup \<DL SMTP address\> | Get-EligibleDistributionGroup` 
+`Get-DistributionGroup \<DL SMTP address\> | Get-EligibleDistributionGroupForMigration` 
   
 If you want to check which DLs are eligible for upgrade just run the following command:
   
-`Get-EligibleDistributionGroup`
+`Get-EligibleDistributionGroupForMigration`
   
 ### Who can run the upgrade scripts?
 

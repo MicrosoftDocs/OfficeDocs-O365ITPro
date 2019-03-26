@@ -3,7 +3,6 @@ title: "Reset Office 365 business passwords"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -25,6 +24,7 @@ ms.custom:
 - Adm_O365_FullSet
 - Adm_O365_Top
 - Core_O365Admin_Migration
+- TopSMBIssues
 - MiniMaven
 - strat_admin_top
 - MSStore_Link
@@ -50,10 +50,16 @@ We strongly recommend that you set up self-service password reset. This way you 
 
 These steps are only for people using an Office 365 business plan. To do them, you need to sign in with your Office 365 admin account. [What's an Office 365 admin account?](../admin-overview/admin-overview.md)
   
+::: moniker range="o365-worldwide"
+
+> [!TIP]
+> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end
  
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -82,13 +88,6 @@ These steps are only for people using an Office 365 business plan. To do them, y
 5. Follow text on page.
     
     ![Create a password.](../media/dc90e67d-65ec-49d1-a3af-8bc53b59b4fb.png)
-
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
   
 ## Reset my Office 365 tenant admin password
 <a name="bkmk_forgot"> </a>
@@ -120,7 +119,7 @@ These steps are only for people using an Office 365 business plan. To do them, y
 
 These steps work for a business with tens of users. If you have hundreds or thousands of users, see the next section on resetting passwords in bulk.
   
-1. In the Office 365 admin center, go to [Users \> Active users](https://go.microsoft.com/fwlink/?linkid=866448).
+1. In the Microsoft 365 admin center, go to [Users \> Active users](https://go.microsoft.com/fwlink/?linkid=866448).
     
 2. Choose the box at top to select everyone in your business. Then unselect yourself. You can't reset your own password at the same time you reset everyone else's password.
     

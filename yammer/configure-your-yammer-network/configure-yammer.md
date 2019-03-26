@@ -3,7 +3,7 @@ title: "Configure your Yammer network"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 11/6/2018
+ms.date: 3/6/2019
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -87,20 +87,41 @@ To access the Yammer network configuration tools:
 
 The growing network of partners and developers in Yammer continue to build third-party applications using the Yammer API. To find the list of current apps, including integrations with Microsoft SharePoint, Microsoft Flow, Microsoft Dynamics, and many more business applications, click **App Directory** on your main Yammer page or go directly to the [App Directory](https://go.microsoft.com/fwlink/?LinkId=524143).
   
-- On the **Configuration** page, in the **Enabled Features** section, specify whether to allow 3rd party applications 
+- On the **Configuration** page, in the **Enabled Features** section, specify whether to allow 3rd party applications.
     
     > [!CAUTION]
     > Clearing this setting prevents users from adding or accessing these applications. Note that all users, including verified admins, will lose access to apps that were added prior to clearing this setting. 
-  
+
+    > [!NOTE]
+    > This setting does not apply to Office 365 connectors that can be added to Office 365 groups. To disable use of these connectors in Yammer, use the following PowerShell command:  
+    ```Set-OrganizationConfig -ConnectorsEnabledforYammer:$false```<br>
+    For more information, see [Manage Office 365 Groups with PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-groups-with-powershell).
+)
+
+<a name="TenorGIFs"> </a>
+## Allow Tenor GIFs in messages
+
+By default, users can attach GIFs provided by Tenor, a third-party, to posts. You can turn this off. Disabling this feature may impact engagement.
+
+- On the **Configuration** page, in the **Enabled Features** section, enable or disable **Show Tenor GIFs Search**.
+
+<a name="LinkMetadata"> </a>
+## Control how links are displayed
+
+By default, when creating a message with a URL, Yammer will fetch content associated with third-party websites, including title, summary, images, and GIFs. Existing URLs that are cached remain until the cache expires. You can turn off the display of this data for links. Disabling this feature may impact engagement. 
+
+- On the **Configuration** page, in the **Enabled Features** section, enable or disable **Fetch URL Content**.
+
 ## Allow users to view an org chart in Yammer
 <a name="RestrictApps"> </a>
 
 The org chart was deprecated for Office 365 Yammer networks in May 2018. Office charts are available in Skype for Business and Delve. For more information, see [Find info from a contact card in Skype for Business](https://support.office.com/en-us/article/Find-info-from-a-contact-card-in-Skype-for-Business-d797905c-66f0-4248-b473-c49e3c9a0767) and [How can I find people and information in Office Delve?](https://support.office.com/en-us/article/How-can-I-find-people-and-information-in-Office-Delve-5b8bffdd-a50a-430a-8570-09b39481887c)
   
-    
+<a name="MessageTranslation"> </a>    
 ## Allow message translation
-<a name="RestrictApps"> </a>
 
 This feature gives users the option to translate messages from [any language supported by Microsoft Translator](https://www.microsoft.com/en-us/translator/languages.aspx) into the network's default language. To enable this feature, the network admin must accept a Terms and Services agreement in order to use Microsoft's proprietary translation technology. This feature is disabled by default. 
+
+When this is enabled, users will see a **Translate** option right under any message that has been posted in a language different than the language they have selected in **Preferences** in their Yammer settings.
   
 - On the **Configuration** page, in the **Enabled Features** section, select whether to allow **Message Translation**.

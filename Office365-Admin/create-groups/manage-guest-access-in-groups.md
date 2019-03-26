@@ -27,11 +27,11 @@ By default, guest access is turned on for your organization. When it's turned on
   
 Admins can control whether to allow guest access to Office 365 Groups for their whole organization or for individual Office 365 groups. They can also control who can allow guests to be added to groups.
   
-## Manage guest access in the admin portal
+## Manage guest access in the admin center
 
 ### View guest users
 
-1. Sign in with your Office 365 global admin account at [https://portal.office.com/adminportal/home](https://portal.office.com/adminportal/home#/homepage).
+1. Sign in with your Office 365 global admin account at [https://admin.microsoft.com/AdminPortal/Home#/homepage](https://admin.microsoft.com/AdminPortal/Home#/homepage#/homepage).
     
 2. Go to **Users** \> **Guest users**.
     
@@ -41,7 +41,7 @@ Admins can control whether to allow guest access to Office 365 Groups for their 
 
 If the guest already exists in your directory (see above) you can add them to your groups from the Office Admin Center or the Exchange Admin Center.
   
-1. Sign in with your Office 365 global admin account at [https://portal.office.com/adminportal/home](https://portal.office.com/adminportal/home#/homepage).
+1. Sign in with your Office 365 global admin account at [https://admin.microsoft.com/AdminPortal/Home#/homepage](https://admin.microsoft.com/AdminPortal/Home#/homepage#/homepage).
     
 2. Go to **Groups** \> **Groups**.
     
@@ -76,7 +76,7 @@ However, even if the SharePoint external sharing setting is turned off, the file
 
 By default, the Sharing option in your organization is turned on. This option allows guests to be added to your organization. To turn it off:
   
-1. Sign in with your Office 365 global admin account at [https://portal.office.com/adminportal/home](https://portal.office.com/adminportal/home#/homepage).
+1. Sign in with your Office 365 global admin account at [https://admin.microsoft.com/AdminPortal/Home#/homepage](https://admin.microsoft.com/AdminPortal/Home#/homepage#/homepage).
     
 2. In the navigation menu, choose **Settings** then **Security &amp; privacy**. 
     
@@ -87,7 +87,7 @@ By default, the Sharing option in your organization is turned on. This option al
 ### Manage who can add guest users
 <a name="BKMK_UsetheadminCtr"> </a>
 
-1. Sign in with your Office 365 admin account at [https://portal.office.com/adminportal/home](https://portal.office.com/adminportal/home#/homepage).
+1. Sign in with your Office 365 admin account at [https://admin.microsoft.com/AdminPortal/Home#/homepage](https://admin.microsoft.com/AdminPortal/Home#/homepage#/homepage).
     
 2. In the navigation menu, choose **Settings** then **Services &amp; add-ins**.
     
@@ -350,7 +350,7 @@ Yes. The guests won't receive a welcome email message, but they will have all th
 ## See Also
 <a name="bkmk_UsePowerShell"> </a>
 
-[Manage Group membership in the Office 365 admin center](add-or-remove-members-from-groups.md)
+[Manage Group membership in the Microsoft 365 admin center](add-or-remove-members-from-groups.md)
   
 [Allow/Deny guest access to Office 365 groups based on their domain](https://go.microsoft.com/fwlink/?linkid=854001)
   

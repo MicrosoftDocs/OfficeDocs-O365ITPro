@@ -3,7 +3,7 @@ title: "Manage Yammer users across their lifecycle from Office 365"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 1/7/2019
+ms.date: 2/25/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -22,6 +22,8 @@ description: "Manage Yammer Enterprise users in Office 365. Activate Yammer, the
 As a global Office 365 administrator, you control the life cycle for Yammer users from Office 365. When you create users in Office 365, they can log on to Yammer with their Office 365 credentials. When a user is deleted from Office 365, he or she is automatically deactivated or suspended in Yammer. When a user is restored in Office 365, he or she is reactivated in Yammer. 
   
 The user's profile properties (such as name and department) from Azure Active Directory are automatically populated in the user's Yammer profile, and any changes to the profile properties in Azure Active Directory are reflected in Yammer as well. While Yammer users can change their profile in Yammer, the user's changes will be overwritten if the properties change in Azure Active Directory.
+
+The user's Yammer language setting is taken from Office 365 when the user's Yammer account is activated. If the user changes their Office 365 language setting or if the setting is changed directly in Azure Active Directory, Yammer does not pick up this change. The user can change their Yammer language setting in their Yammer profile on the **Preferences** tab.
   
 ## Create a user
 
@@ -41,7 +43,7 @@ The process follows these steps:
   
 4. A new Yammer user is created for the Office 365 user.
     
-5. The user's profile properties from Azure Active Directory are automatically populated in the user's Yammer profile.
+5. The user's profile properties and language setting from Azure Active Directory are automatically populated in the user's Yammer profile.
     
 ## Block a user
 
@@ -55,7 +57,7 @@ The process follows these steps:
     
     To do this:
     
-1. In the Office 365 admin portal, select a user and choose **Edit User**. The **Sign-in status** is shown in the user details, as in this screenshot. 
+1. In the Microsoft 365 admin center, select a user and choose **Edit User**. The **Sign-in status** is shown in the user details, as in this screenshot. 
     
     ![Screenshot of a users's sign-in status in Office 365](../media/3003a58e-1294-460a-a174-2be67b1dc462.png)
   
@@ -141,12 +143,14 @@ There are a few key things to understand about how Yammer user profiles are upda
 - **Email address updates in Azure AD are reflected in Yammer:** Any updates to the user's email in Azure AD are updated in Yammer. The updated email domain should match one of the domains on the Yammer network. 
     
 - **What happens if a Yammer user doesn't have an email address:** If none of the emails for the user match the domains on the Yammer network, or if the user does not have any email address in Azure AD, the Yammer user profile is updated to denote that the user does not have email, so that their colleagues are aware of this (if a user hovers over a person in Yammer, they will see in the hover card that the person does not have an email). 
+
+- **The language setting in Yammer is not updated automatically.**
     
-The Office 365 administrator can edit user properties from the Office 365 admin center.
+The Office 365 administrator can edit user properties from the Microsoft 365 admin center.
   
  **To edit user properties in Office 365**
   
-1. In the Office 365 admin center, go to the **Users** section, and select or search for a user, as shown in the following screenshot. 
+1. In the Microsoft 365 admin center, go to the **Users** section, and select or search for a user, as shown in the following screenshot. 
     
     ![](../media/b045e652-c971-46c2-a37a-a2d2cc872838.jpg)
   

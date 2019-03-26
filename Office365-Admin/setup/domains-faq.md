@@ -11,7 +11,7 @@ f1_keywords:
 - 'O365E_O365E_ManageDNS_SwitchDNSMgt'
 - 'O365E_ManageDNS_SwitchDNSMgt'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
@@ -94,7 +94,7 @@ There are two options for DNS management with Office 365:
  
 #### Disadvantages
 You have to set up the DNS records for Office 365 services yourself (unless you have a GoDaddy domain). 
--  If your current DNS host doesn't support all of the required record types for Office 365, some Office 365 features won't be available and you might need to switch to a different DNS host. Learn about the [potential service limitations](https://support.office.com/article/7ae9a655-041d-4724-aa92-60392ee390c2.aspx).   
+-  If your current DNS host doesn't support all of the required record types for Office 365, some Office 365 features won't be available and you might need to switch to a different DNS host. 
 - When Office 365 changes requirements for DNS records, or adds new services, you have to make updates yourself at your DNS host. 
    
 ## What is a domain name?
@@ -326,7 +326,7 @@ You can keep using the initial onmicrosoft.de domain even after you add your dom
 
 ## How do I verify my nonprofit or education status?
 
-1. Choose **Setup** in the [Office 365 admin center](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791 .aspx) to start the wizard. (Be sure to sign in to Office 365 first.) 
+1. Choose **Setup** in the [Microsoft 365 admin center](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791 .aspx) to start the wizard. (Be sure to sign in to Office 365 first.) 
     
 2. To become the Office 365 admin for your school, [follow these steps](https://go.microsoft.com/fwlink/?LinkId=512141) to find and choose the **Become an admin** option in Office 365. 
     
@@ -353,7 +353,7 @@ You can, but there are limitations:
 
 ### How to set up an Office 365 pilot
     
-1. Sign in to the Office 365 admin center
+1. Sign in to the Microsoft 365 admin center
     
     1. Sign in to Office 365 with your work or school account.
         
@@ -397,7 +397,7 @@ You can, but there are limitations:
     
 5. Create user accounts and set the primary (reply-to) address
     
-    1. Go to the Office 365 admin center.
+    1. Go to the Microsoft 365 admin center.
         
     2. On the left navigation bar, choose **Users** \> **Active Users**. 
         
@@ -417,9 +417,9 @@ You can, but there are limitations:
     
         1. Do not create a new MX record or change your existing MX record.
             
-        2. If you already have a Sender Policy Framework (SPF) record for your previous email provider, instead of creating a new SPF (TXT) record for Exchange Online, just add "include:outlook.com" to the current TXT record. For example, "v=spf1 mx include:adatum.com include:spf.protection.outlook.com ~all".
+        2. If you already have a Sender Policy Framework (SPF) record for your previous email provider, instead of creating a new SPF (TXT) record for Exchange Online, just add "include:spf.protection.outlook.com" to the current TXT record. For example, "v=spf1 mx include:adatum.com include:spf.protection.outlook.com ~all".
             
-        3. If you don't have an SPF record yet, modify the one recommended by Office 365 to include the domain for your current email provider, plus protection.outlook.com. This authorizes outgoing messages from both email systems.
+        3. If you don't have an SPF record yet, modify the one recommended by Office 365 to include the domain for your current email provider, plus spf.protection.outlook.com. This authorizes outgoing messages from both email systems.
             
 7. Set up email forwarding at your current provider
     

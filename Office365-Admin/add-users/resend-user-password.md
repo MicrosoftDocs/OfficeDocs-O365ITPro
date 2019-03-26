@@ -3,7 +3,6 @@ title: "Resend a user's password in Office 365 - Admin Help"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -31,7 +30,7 @@ You must be an [Office 365 global admin or password administrator](about-admin-r
   
 1. Sign in to Office 365 with your work or school account. 
     
-2. Go to the [ Office 365 admin center ](../admin-overview/about-the-admin-center.md).
+2. Go to the [ Microsoft 365 admin center ](../admin-overview/about-the-admin-center.md).
     
 3. Select **Users**.
     

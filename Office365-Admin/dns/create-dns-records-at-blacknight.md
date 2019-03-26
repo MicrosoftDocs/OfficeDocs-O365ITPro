@@ -94,7 +94,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
-    ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
 3. On the **Setup** page, choose **Start setup**.
     
@@ -200,7 +200,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
     |CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
     |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
-    |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
+    |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |Select **Custom** and enter the value **3600**.  <br/> |
        
     ![Blacknight-BP-Configure-3-1](../media/8029a021-0ac8-4d79-87e6-74dd125d998b.png)
   

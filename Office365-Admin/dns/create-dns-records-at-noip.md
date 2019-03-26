@@ -98,7 +98,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
-    ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
 3. On the **Setup** page, choose **Start setup**.
     
@@ -177,7 +177,7 @@ To create a CNAME record, NoIP requires a two-step process. First, you create a 
     |webdir  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |webdir.online.lync.com  <br/> |
     |clientconfig  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |clientconfig.microsoftonline-p.net  <br/> |
     |enterpriseregistration  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |enterpriseregistration.windows.net  <br/> |
-    |enterpriseenrollment  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |enterpriseenrollment  <br/> |Select your  *domain_name*  , for example, contoso.com.  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
        
     ![NoIP-BP-Configure-3-2-2](../media/660dfdfc-949e-419e-9b23-caeb3ac3d934.png)
   

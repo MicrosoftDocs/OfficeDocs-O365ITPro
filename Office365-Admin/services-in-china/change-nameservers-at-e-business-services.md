@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with E-business Services"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -65,7 +64,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **Manage domains** page, in the **Action** column for the domain you are verifying, choose **Start setup**.
     
-    ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
 3. On the **Add this TXT record to show you own** * **domain_name*** page, choose **Okay, I've added the record** and then, in the confirmation dialog box, choose **Finish**.
     

@@ -94,7 +94,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
-    ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
 3. On the **Setup** page, choose **Start setup**.
     
@@ -180,7 +180,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
     |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |
     |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
-    |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |
+    |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
        
     ![Create the CNAME records](../media/488400a4-2057-4f99-af18-e28687c2547c.png)
   
