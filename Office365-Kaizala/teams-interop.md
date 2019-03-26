@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 03/26/2019
+ms.date: 03/27/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -36,7 +36,7 @@ Interop with Microsoft Teams is automatically set up for [organizational one-on-
 
 To set up interop with Microsoft Teams:
 
-1. Link an Office 365 or work account on Kaizala (tap **Me** > **Linked Accounts** > Sign in to Office 365).
+1. Link an Office 365 or work account on Kaizala (tap **Me** > **Linked Accounts** > sign in to Office 365).
 2. On the home screen, tap **Start a chat**.
 3. Search for a recipient using an Office 365 name, and start an individual chat from the organizational directory.
 4. A cross-chat with Microsoft Teams is automatically enabled.
@@ -103,7 +103,7 @@ The following shows the interop experience for Microsoft Teams users.
 
 There are differences between Kaizala and Microsoft Teams with respect to compliance in specific regions. For more details about compliance, see [Office 365 compliance framework](http://download.microsoft.com/download/1/4/3/1434ABAB-B8E9-412D-8C3A-187B5FCB7A2F/Compliance%20Framework%20document.pdf).
 
-- Both Kaizala and Microsoft Teams are at compliance Tier C everywhere Kaizala is generally available. (Kaizala is commercially available [28 markets](regional-availability.md)).
+- Both Kaizala and Microsoft Teams are at compliance Tier C everywhere Kaizala is generally available. (Kaizala is commercially available [28 markets](regional-availability.md).)
 - Both Kaizala and Microsoft Teams are geo-regional compliant everywhere Kaizala is generally available.
 - In other places where Kaizala is not generally available, the setting for interop is automatically disabled. The admin can always turn it on.
 - The organization admin can turn interop off or on from the **Settings** tab in the Kaizala management portal as shown in the following screenshot.
