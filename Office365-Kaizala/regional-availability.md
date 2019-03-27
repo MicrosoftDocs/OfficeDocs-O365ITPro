@@ -49,7 +49,8 @@ Kaizala is currently available in the following countries:
 25. Thailand
 26. Turkey
 27. Uganda
-28. Vietnam
+28. U.S.A
+29. Vietnam
 
 <!---
 Upcoming worldwide release
