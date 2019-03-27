@@ -57,7 +57,7 @@ Your initial email address in Office 365 operated by 21Vianet includes partner.o
 
 When you change your domain's email to come to Office 365, by updating your domain's MX record during setup, ALL email sent to that domain will start coming to Office 365. Make sure you've added users and created mailboxes in Office 365 for everyone who has email on your domain BEFORE you change the MX record. Don't want to move email for everyone on your domain to Office 365? You can take steps to [pilot Office 365 with just a few email addresses instead](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7.aspx).
   
-## Change your email address to use your custom domain using the Office 365 admin center
+## Change your email address to use your custom domain using the Microsoft 365 admin center
 <a name="BKMK_PreviewAdminCenter"> </a>
 
 ::: moniker range="o365-worldwide"

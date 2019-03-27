@@ -211,7 +211,7 @@ How customers get into this configuration: Typically, large customers find thems
    
 You have the following options to move out of this unsupported configuration:
   
-- Add all the relevant domains to one tenant using the Office 365 admin center. In the example above, you would ensure that both contoso.com and fabrikam.com are on the same tenant. At the end, you will reach the following state:
+- Add all the relevant domains to one tenant using the Microsoft 365 admin center. In the example above, you would ensure that both contoso.com and fabrikam.com are on the same tenant. At the end, you will reach the following state:
     
 |**Domains on the Office 365 tenant**|**Domains on the Yammer network**|
 |:-----|:-----|

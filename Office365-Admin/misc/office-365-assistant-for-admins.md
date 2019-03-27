@@ -2,7 +2,6 @@
 title: "Office 365 Assistant for admins"
 ms.author: kfollis
 author: kfollis
-
 ms.audience: Admin
 ms.topic: hub-page
 ms.service: o365-administration

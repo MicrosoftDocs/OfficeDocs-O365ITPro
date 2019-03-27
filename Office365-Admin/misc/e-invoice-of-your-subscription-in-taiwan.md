@@ -40,21 +40,21 @@ For commercial purchases, we apply taxes in addition to the quoted price of our 
   
 ## When will e-Invoice start for my Office 365 services?
 
-Microsoft will replace current computerized invoice with e-Invoice on **September 15th**. For billing prior to September 15th, paper copy tax invoices are mailed directly to customers. After September 15th, e-Invoice will be offered in your Office 365 admin center for view, download, and print, and will no longer be mailed directly to you. 
+Microsoft will replace current computerized invoice with e-Invoice on **September 15th**. For billing prior to September 15th, paper copy tax invoices are mailed directly to customers. After September 15th, e-Invoice will be offered in your Microsoft 365 admin center for view, download, and print, and will no longer be mailed directly to you. 
   
 ## Where can I find my e-Invoice?
 
-You can view, download, and print your e-Invoice the day after your bill is ready, through your Office 365 admin center, together with your monthly bill. [View your bill](../subscriptions-and-billing/view-your-bill-or-invoice.md).
+You can view, download, and print your e-Invoice the day after your bill is ready, through your Microsoft 365 admin center, together with your monthly bill. [View your bill](../subscriptions-and-billing/view-your-bill-or-invoice.md).
   
 ## How do I update my VAT ID?
 
-You can update your VAT ID at the time of onboarding, or through your Office 365 admin center after you onboard.
+You can update your VAT ID at the time of onboarding, or through your Microsoft 365 admin center after you onboard.
   
 At the time of account creation, in **Step 1**, Welcome, Let's get to know you, **page 2**, Where will you be using this?, below **Service Recipient Address** information, you can add your 8 digit **VAT ID**. If you do not have a VAT ID, please enter "00000000".
   
-After you have created your account, you may update your VAT ID through your Office 365 admin center by following these steps:
+After you have created your account, you may update your VAT ID through your Microsoft 365 admin center by following these steps:
   
-1. In the Office 365 admin center, choose **Billing** \> **Subscriptions**.
+1. In the Microsoft 365 admin center, choose **Billing** \> **Subscriptions**.
     
 2. Choose a subscription, then choose **More Actions**.
     

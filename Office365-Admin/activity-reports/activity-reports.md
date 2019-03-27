@@ -1,9 +1,8 @@
 ---
-title: "Activity Reports in the Office 365 admin center"
+title: "Activity Reports in the Microsoft 365 admin center"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:
@@ -11,9 +10,9 @@ f1_keywords:
 - 'O365M_ReportsYammerActivity'
 - 'O365M_ReportsUsageOverview'
 - 'O365E_ReportsYammerActivity'
-- 'O365E_ReportsUsageOverview
-O365M_ReportsUsageOverview
-O365P_ReportsUsageOverview'
+- 'O365E_ReportsUsageOverview'
+- 'O365M_ReportsUsageOverview'
+- 'O365P_ReportsUsageOverview'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
@@ -33,7 +32,7 @@ ms.assetid: 0d6dfb17-8582-4172-a9a9-aed798150263
 description: "Get a periodic report of how people in your organization are using Office 365 services. Usage Overview dashboard lets you drill into each chart for more insights."
 ---
 
-# Activity Reports in the Office 365 admin center
+# Activity Reports in the Microsoft 365 admin center
 
 You can easily see how people in your business are using Office 365 services. For example, you can identify who is using a service a lot and reaching quotas, or who may not need an Office 365 license at all.
   
@@ -47,7 +46,7 @@ Watch this video for on overview: on how you can use the reports:
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Office 365 admin center](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [![Go to the Microsoft 365 admin center](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -63,7 +62,7 @@ Watch this video for on overview: on how you can use the reports:
 
 ::: moniker-end
 
-2. In the Office 365 admin center, choose **Reports** \> **Usage**.
+2. In the Microsoft 365 admin center, choose **Reports** \> **Usage**.
     
 3. Choose **Select a report** at the top of the dashboard to select from a list of all available reports. Or, click an at-a-glance activity widget for a service (email, OneDrive, etc) to see more information. <br/>![The Office 365 Usage dashboard](../media/68c222b0-9ec2-4285-9fd6-cb5abef270c5.png)
   
@@ -83,7 +82,7 @@ People who have the following permissions:
     
 To learn more, see [About Office 365 admin roles](../add-users/about-admin-roles.md) and [Assign admin roles in Office 365](../add-users/assign-admin-roles.md).
   
-## Which activity reports are available in the Office 365 admin center
+## Which activity reports are available in the Microsoft 365 admin center
 
 Depending on your Office 365 subscription, here are the available reports.
   
@@ -147,7 +146,7 @@ Depending on your Office 365 subscription, here are the available reports.
 
 ## How to view licensing information
 
-- To see how many licenses you have assigned and unassigned, in the Office 365 admin center, go to **Billing** \> **Licenses**.
+- To see how many licenses you have assigned and unassigned, in the Microsoft 365 admin center, go to **Billing** \> **Licenses**.
     
 - To see who is licensed, unlicensed, or guest, go to **Users** \> **Active users**. Use the **Views** drop down box to filter your list.<br/> ![Filter your list of users](../media/e24fd0c8-8906-440c-9614-393eff10b31d.png)
   
@@ -161,7 +160,7 @@ You can't generate a report where you enter a user's account and then get a list
   
 ## Hide user details in the reports
 
-If you want to hide user level information when you're generating your reports, you can quickly make that change in the Office 365 admin center.
+If you want to hide user level information when you're generating your reports, you can quickly make that change in the Microsoft 365 admin center.
   
 1. Go to the Admin center \> **Services &amp; add-ins**. <br/>![Go to Office 365 services and add-ins](../media/70ad5f01-2187-4b0c-a672-b00cebfa5ec3.png)
   

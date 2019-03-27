@@ -26,6 +26,7 @@ ms.custom:
 - Adm_O365
 - Adm_O365_Top
 - Core_O365Admin_Migration
+- TopSMBIssues
 - MiniMaven
 - SaRA
 - strat_admin_top

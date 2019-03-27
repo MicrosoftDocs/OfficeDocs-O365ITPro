@@ -37,7 +37,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 44d96212-4d90-4027-9aa9-a95eddb367d1
-
 description: "Follow this checklist to remove an employee from Office 365 and secure data. "
 ---
 
@@ -57,7 +56,7 @@ description: "Follow this checklist to remove an employee from Office 365 and se
 If you need to get an employee out of Office 365 immediately, here's what you do:
   
 ::: moniker range="o365-worldwide"
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -73,7 +72,7 @@ If you need to get an employee out of Office 365 immediately, here's what you do
 
 ::: moniker-end
 
-2. In the Office 365 admin center, choose the user, and reset their password (don't send it to them).
+2. In the Microsoft 365 admin center, choose the user, and reset their password (don't send it to them).
     
 3. While still at the user's properties page, expand **OneDrive Settings**, and then choose **Initiate**. 
     
@@ -107,7 +106,7 @@ Here's a quick overview. Each step is explained in detail in this article.
 |5. [Move the employee's OneDrive content](get-access-to-and-back-up-a-former-user-s-data.md) <br/> |If you only remove a user's license but don't delete the account, the content in the user's OneDrive will remain accessible to you even after 30 days.  <br/><br/> Before you delete the account, you should move the content of their OneDrive to another location that's easy for you to access. After you delete an employee's account, the content in their OneDrive is retained for **30** days. During that 30 days, however, you can restore the user's account, and gain access to their OneDrive content. If you restore the user's account, the OneDrive content will remain accessible to you even after 30 days.  <br/> |
 |5a. What if the person used their personal computer to access OneDrive and SharePoint?  <br/> |If they used a personal computer instead of a company-issued computer to download files from OneDrive and SharePoint, there's no way for you to wipe those files they stored.  <br/><br/> They will continue to have access to any files that were synced to their computer.  <br/> |
 |6. [Remove and delete the Office 365 license from a former employee](#remove-and-delete-the-office-365-license-from-a-former-employee)<br/> |When you remove a license, you can assign it to someone else. Or, you can delete the license so you don't pay for it until you hire another person.  <br/><br/> When you remove or delete a license, the user's old email, contacts, and calendar are retained for **30 days**, then permanently deleted. If you remove or delete a license but don't delete the account, the content in the user's OneDrive will remain accessible to you even after 30 days.  <br/> |
-|7. [Delete a former employee's user account](#delete-a-former-employees-user-account)<br/> |This removes the account from your Office 365 admin center. Keeps things clean.  <br/> |
+|7. [Delete a former employee's user account](#delete-a-former-employees-user-account)<br/> |This removes the account from your Microsoft 365 admin center. Keeps things clean.  <br/> |
    
 ## Save the contents of a former employee's mailbox
 <a name="bkmk_preserve"> </a>
@@ -143,7 +142,7 @@ In this step, you assign the former employee's email address to another employee
  > If you're setting up email forwarding or a shared mailbox, at the end, don't delete the former employee's account. The account needs to be there to anchor the email forwarding or shared mailbox. 
   
 ::: moniker range="o365-worldwide"  
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -159,7 +158,7 @@ In this step, you assign the former employee's email address to another employee
 
 ::: moniker-end
 
-2. In the Office 365 admin center, select **Users**. 
+2. In the Microsoft 365 admin center, select **Users**. 
     
     ![Click on User.](../media/1596dc50-1d06-4b3a-83c3-2791d0856d6f.png)
   
@@ -186,7 +185,7 @@ If your former employee had a organization phone, you can use the Exchange admin
   
 
 ::: moniker range="o365-worldwide"
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -202,11 +201,11 @@ If your former employee had a organization phone, you can use the Exchange admin
 
 ::: moniker-end
 
-2. In the Office 365 admin center, in the lower-left navigation pane, expand **Admin centers** and select **Exchange**. 
+2. In the Microsoft 365 admin center, in the lower-left navigation pane, expand **Admin centers** and select **Exchange**. 
     
     Your screen might look like one of the following images:
     
-    ![Office 365 admin centers](../media/0df0cf37-04b2-4051-8d45-8594587c5fa8.png)
+    ![Microsoft 365 admin centers](../media/0df0cf37-04b2-4051-8d45-8594587c5fa8.png)
   
 3. In the Exchange admin center, navigate to **Recipients** \> **Mailboxes**. 
     
@@ -229,7 +228,7 @@ To block a user from signing in and accessing Office 365 data:
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -245,7 +244,7 @@ To block a user from signing in and accessing Office 365 data:
 
 ::: moniker-end
 
-2. In the Office 365 admin center, select **Users**. 
+2. In the Microsoft 365 admin center, select **Users**. 
     
     ![Click on User.](../media/1596dc50-1d06-4b3a-83c3-2791d0856d6f.png)
   
@@ -263,7 +262,7 @@ If you have Office 365 email as part of your Office 365 subscription, you need t
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -279,11 +278,11 @@ If you have Office 365 email as part of your Office 365 subscription, you need t
 
 ::: moniker-end
 
-2. In the Office 365 admin center, in the lower-left navigation pane, expand **Admin centers** and select **Exchange**. 
+2. In the Microsoft 365 admin center, in the lower-left navigation pane, expand **Admin centers** and select **Exchange**. 
     
     Your screen might look like one of the following images:
     
-    ![Office 365 admin centers](../media/0df0cf37-04b2-4051-8d45-8594587c5fa8.png)
+    ![Microsoft 365 admin centers](../media/0df0cf37-04b2-4051-8d45-8594587c5fa8.png)
   
 3. In the Exchange admin center, navigate to **Recipients** \> **Mailboxes**. 
     
@@ -301,7 +300,7 @@ When you remove the license, all that user's data is held for 30 days. You can [
  
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -317,7 +316,7 @@ When you remove the license, all that user's data is held for 30 days. You can [
 
 ::: moniker-end
 
-2. In the Office 365 admin center, select **Users**. 
+2. In the Microsoft 365 admin center, select **Users**. 
     
     ![Click on User.](../media/1596dc50-1d06-4b3a-83c3-2791d0856d6f.png)
   
@@ -333,7 +332,7 @@ When you remove the license, all that user's data is held for 30 days. You can [
     
  **To reduce the number of licenses you're paying for** until you hire another person, do the following: 
   
-1. In the Office 365 admin center, choose **Billing** \> **Subscriptions**. 
+1. In the Microsoft 365 admin center, choose **Billing** \> **Subscriptions**. 
     
 2. Choose **Add/Remove** licenses to delete the license so you don't pay for it until you hire another person. 
     
@@ -360,7 +359,7 @@ After you've saved and accessed all the former employee's user data, you can del
 
 ::: moniker range="o365-worldwide"
 
-2. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+2. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 

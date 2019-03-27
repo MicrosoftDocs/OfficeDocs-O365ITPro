@@ -113,7 +113,7 @@ The data in the content pack currently covers the same set of activity metrics a
 ### How does the data in the content pack differ from the data in the usage reports?
 
 
-The underlying data you see in the content pack matches the data you see in the activity reports in the Office 365 admin center. The key differences are that in the admin portal data is available for the last 7/30/90/180 days while the content pack presents data on a monthly basis for up to 12 months.
+The underlying data you see in the content pack matches the data you see in the activity reports in the Microsoft 365 admin center. The key differences are that in the admin center data is available for the last 7/30/90/180 days while the content pack presents data on a monthly basis for up to 12 months.
 
 In addition, user level details in the content pack are only available for the last complete month for users who were assigned a product license and performed an activity.
 
@@ -186,7 +186,7 @@ This is currently not on the roadmap.
 
 ### I have a specific question about the data I'm seeing for my organization. Who can I reach out to?
 
-You can use the feedback button in the Office 365 Admin center activity overview page, or you can open a [support case](../contact-support-for-business-products.md) to get help with the content pack. 
+You can use the feedback button in the Microsoft 365 admin center activity overview page, or you can open a [support case](../contact-support-for-business-products.md) to get help with the content pack. 
 
 ### How can partners access the data?
 
