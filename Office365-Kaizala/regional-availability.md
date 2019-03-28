@@ -20,7 +20,7 @@ description: Learn which regional areas Kaizala is now available.
 
 # Kaizala regional availability
 
-Kaizala is currently available in the following countries:
+Kaizala Pro is currently available in the following countries:
 
 1. Argentina 
 2. Bangladesh
