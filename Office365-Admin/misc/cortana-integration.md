@@ -63,7 +63,7 @@ If you don't want Cortana to access your organization's data, you can turn Corta
 
 There are a few things to be aware of before you start using Cortana in Office 365. If you run into issues, check out [these troubleshooting tips](https://go.microsoft.com/fwlink/?LinkId=620763).
   
-- To use Cortana in Office 365 scenarios, you must set up the Windows 10 Outlook Universal Mail and Calendar apps with Office 365. You can also use Cortana with the Outlook desktop app.
+- You can add your Outlook or Office 365 account as a connected service to Cortana and add reminders and tasks to your lists in Microsoft To-Do. You can also use Cortana to read and search messages in the Outlook desktop app.
     
 - Cortana with Office 365 only works on Windows 10 devices and is available in only certain languages and markets today.
     
