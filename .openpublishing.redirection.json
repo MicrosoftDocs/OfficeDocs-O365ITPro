@@ -15,6 +15,11 @@
         "source_path": "office365/admin/grow-your-small-business/previous-webinar-videos.md",
         "redirect_url": "https://docs.microsoft.com/office365/smallbusiness/build-your-small-business/previous-webinar-videos",
         "redirect_document_id": true
+      },
+      {
+        "source_path": "office365/yammer/manage-security-and-compliance/data-residency-eu-geo.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/yammer/manage-security-and-compliance/data-residency",
+        "redirect_document_id": true
       }
   ]
 }

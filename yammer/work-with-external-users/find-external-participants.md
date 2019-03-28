@@ -22,7 +22,7 @@ description: "Yammer admins can use data export to find external participants in
 Verified Admins can use data export to find the names of [external participants](add-external-participants.md), and see which conversations and files in their own network are visible to external participants.
 
 >[!NOTE] 
->Yammer Enterprise networks in the [EU Geo](../manage-security-and-compliance/data-residency-eu-geo.md) do not have external participants.
+>Yammer Enterprise networks in the [EU Geo](../manage-security-and-compliance/data-residency.md) do not have external participants.
   
 1. In the Yammer admin center, go to **Content and Security** \> **Export data**.
     
