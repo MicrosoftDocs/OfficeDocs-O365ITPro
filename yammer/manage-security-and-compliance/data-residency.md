@@ -19,7 +19,7 @@ description: "Data residency for Yammer Enterprise is currently in preview for t
 ---
 
 # Data residency
-Yammer offers local data residency to help meet data residency requirements. We commit to store message bodies and files attached to messages at rest within a specific geographical area (Geo). The country you enroll in Office 365 from will determine which Geo your Yammer Enterprise network is associated with.
+Yammer offers local data residency to help meet data residency requirements. We commit to store message bodies and files attached to messages at rest within a specific geographical area (Geo). The country you enroll in Office 365 from will determine which Geo your Yammer Enterprise network is associated with. For a new Yammer Enterprise network, Microsoft will store Yammer message bodies and files in legacy Yammer Groups at rest in the Yammer Enterprise network Geo. 
 
 Yammer files are saved either in Yammer cloud storage, or for Office 365 connected groups, some Yammer files are stored in SharePoint. Yammer files saved in SharePoint will be stored in SharePoint Online per your SharePoint Online data residency policy.
 
@@ -27,9 +27,7 @@ Mobile push notifications require sending data to a third party notification se
 
 ## Data residency in the EU Geo (Preview)
 
-Yammer data residency in the EU Geo is in Preview. Once Preview is finished:
- - The country you enroll in Office 365 from will determine which Geo your network is associated with. 
- - For a new Yammer Enterprise network, Microsoft will store Yammer message bodies and files in legacy Yammer Groups at rest in the Yammer Enterprise network Geo. 
+Yammer data residency in the EU Geo is in Preview. 
 
 ### Features not available for Yammer networks in the EU Geo
 
