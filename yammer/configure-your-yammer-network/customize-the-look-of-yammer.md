@@ -25,7 +25,7 @@ To make your Yammer network your own, change the colors and images used in vario
 |**Part of Yammer** <br/> |**How to customize it** <br/> |
 |Yammer header <br/>- For users who use their Office 365 identity to log in to Yammer, the header is controlled by the Office 365 theme.  <br/> |[Customize the Office 365 theme for your organization](https://support.office.com/article/8275da91-7a48-4591-94ab-3123a3f79530) <br/> |
 |Yammer header: <br/>- For network guests and Yammer Basic users <br/> |[Customize the Yammer header for people who sign-in to Yammer not using their Office 365 identity](customize-the-look-of-yammer.md#YammerHeader) <br/> |
-|Email logo for notification emails sent by Yammer to users  <br/> |[Customize the notification email logo](customize-the-look-of-yammer.md#EmailLogo) <br/> |
+|Email logo for notification emails sent by Yammer to users  <br/> |[Customize the notification email logo](customize-the-look-of-yammer.md#NotificationLogo) <br/> |
 |Group header colors and logo  <br/> |[Define the group's look](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2.aspx) <br/> |
 |External network logo  <br/> |[Create and manage an external network in Yammer](../work-with-external-users/create-and-manage-an-external-network.md) <br/> |
    
