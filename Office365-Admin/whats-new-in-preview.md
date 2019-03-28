@@ -21,9 +21,21 @@ f1_keyword: MACDashWhatsNew
 
 # What's new in Microsoft 365 admin center preview
 We're continuously adding new features to the Microsoft 365 admin center preview, fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today.
-
 Want to know how to participate in the preview? Checkout [About the Microsoft 365 admin center preview](microsoft-365-admin-center-preview.md).
   
+## March 2019 - We've officially released the admin center!
+Well, if you missed the exciting news, we've officially release the new and improved Microsoft 365 admin center! Here's the blog post where we announced it: [The new Microsoft 365 admin center available today](https://techcommunity.microsoft.com/t5/Microsoft-365-Blog/The-new-Microsoft-365-admin-center-available-today/ba-p/377870). 
+<br> ![Screen capture showing the home page of the Microsoft 365 admin center.](media/M365AC-HomePage.png) <br>
+
+You can see all the cool new features we're starting to roll out this month, not all of the features will be available to everyone yet, but here's a list of the features and updates we released in March:
+- **New limited admin roles** - We've released 4 new limited admin roles this month so that you can give users only the access they need:
+    - **Kaizala admin**: Users in this role have permission to perform all management tasks within Microsoft Kaizala, including create and manage users in Kaizala directory, manage Kaizala groups, manage action cards and connectors, and create service requests.
+    - **Search admin**: Users in this role have full access to all Microsoft Search management features in the Microsoft 365 admin center. Search admins can delegate the Search admin and Search editor roles to users, and create and manage content, like bookmarks, Q&As, and locations. Additionally, these users can view the message center, monitor service health, and create service requests.
+    - **Search editor**: Users in this role can create, manage, and delete content for Microsoft Search in the Microsoft 365 admin center, including bookmarks, Q&As, and locations.
+    - **Password admin**: OK, I know you're thinking "But there's already a password admin role!" Well, there *used to be* a password admin, but since that role wasn't specifically scoped to resetting passwords and could do quite a bit more, we renamed that password admin "helpdesk admin" - and then created a new password admin role. Here's what the NEW password admin role can do: Users in this role can reset passwords for non-admin users and users assigned the Directory reader role, Guest inviter role, and other Password admins. That's it! Just resetting passwords.
+- **Billing & subscriptions** - Y'all didn't think we were done with improving Billing & subscriptions, did you? Because we're not! In fact, this month we added added the ability to manage your partner relationships to **Billing** > **Billing acccounts**. From here you can review your partner relationships across Advisor, CSP, and Indirect resellers. You can also accept new partner relationship requests, including delegated admin permissions. 
+
+
 ## February 2019 - Billing & Subscriptions Edition
 This month, we're going to focus on all the improvements we've made to the areas affectionately referred to as "Billing and subscriptions". In the past, you probably didn't refer to those things affectionately, but we think you will now...
 - **Payment methods** - We heard your feedback that updating your payment method was difficult and we've made a lot of changes around it. Go to **Billing** > **Payment methods**. You can easily see your payment methods, like your Visa card, and which subscription it is associated with. In your list of payment methods, select the **More** menu (3 little dots next to the expiration date), and then select **View subscriptions**. You can also edit and delete your payment methods using the **More** menu.
