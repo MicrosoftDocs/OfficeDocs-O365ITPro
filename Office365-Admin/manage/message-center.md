@@ -41,7 +41,7 @@ You can also use the [Office 365 Admin app](https://go.microsoft.com/fwlink/p/?l
 
 |**Question**|**Answer**|
 |:-----|:-----|
-|Who can view posts in Message center?  <br/> |Users who have been assigned any admin role in Office 365 can view Message center posts. You can also assign the Message center reader role to users who should be able to read and share Message center posts without having any other admin privileges.  <br/><br/>Most Message center posts can be shared through email with non-admin users who may need to take action.  <br/> |
+|Who can view posts in Message center?  <br/> |Most users who have been assigned any admin role in Office 365 can view Message center posts. Here's a list of which admin roles don't have access the Message center. You can also assign the Message center reader role to users who should be able to read and share Message center posts without having any other admin privileges.  <br/><br/>Most Message center posts can be shared through email with non-admin users who may need to take action.  <br/> |
 |Is this the only way Microsoft will communicate changes about Office 365?  <br/> |No, there are many ways that we communicate changes in Office 365. Message center is the primary way that we communicate the timing of individual changes. See [Stay on top of Office 365 changes](stay-on-top-of-updates.md) for information about additional resources.  <br/> |
 |How can I see posts in my language?  <br/> |Message center posts are written in English-only due to the timeliness of the information we are posting, but you can control whether, by default, posts are shown in English or are automatically machine-translated to your preferred language. And, no matter which default view you choose, you can select to machine-translate posts to any language we support. See [Language translation for Message center posts](language-translation-for-message-center-posts.md) for more details.  <br/> |
 |Can I preview changes or features before they are rolled-out to my organization?  <br/> |Sometimes. Some changes and new features can be previewed by opting in to the Targeted release program. To opt-in, in the admin center, go to **Settings** \> **Organization profile** \> **Release preferences**. You can choose Targeted release for your entire organization, or just for selected users. See [Standard or Targeted release options in Office 365](release-options-in-office-365.md) for more information about the program.  <br/> |
@@ -124,3 +124,14 @@ We use machine translation to automatically display messages in your preferred l
 > [!NOTE]
 > The weekly digest and any posts that are emailed are sent in English-only. Recipients can use [Translator for Outlook](https://support.office.com/article/3d7e12ed-99d6-406e-a453-b9db0d9653fa.aspx) to read the message in their preferred language. 
   
+### Admin roles that don't have access to the Message center
+- Compliance administrator
+- Conditional access administrator
+- Customer lockBox access approver
+- Device administrators
+- Directory readers
+- Directory synchronization accounts
+- Directory writers
+- Intune service administrator
+- Privileged role administrator
+- Reports reader
