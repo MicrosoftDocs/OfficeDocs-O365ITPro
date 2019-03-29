@@ -58,7 +58,7 @@ Depending on where an Office 365 Group is created, certain resources are provisi
 To learn more about which resources are created for each group, visit [Learn about Office 365 Groups](https://support.office.com/en-us/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 
 > [!NOTE] 
-> When a new Office 365 Group is created via Yammer or Teams, the the group isn't visible in Outlook or the address book because the primary communication between those users happens in their respective clients. 
+> When a new Office 365 Group is created via Yammer or Teams, the group isn't visible in Outlook or the address book because the primary communication between those users happens in their respective clients. 
 
 > [!IMPORTANT] 
 > When a new Yammer group is created, the Office 365 group does not create a group mailbox or calendar resource. Therefore, a Yammer group cannot be connected to Microsoft Teams. See [Yammer and Groups](#bookmark)
