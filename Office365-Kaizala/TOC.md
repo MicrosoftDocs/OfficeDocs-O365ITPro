@@ -28,5 +28,5 @@
 ### [Integrate with Microsoft Intune](integrate-with-microsoft-intune.md)
 ### [Troubleshoot notifications](troubleshoot-notifications.md)
 ### [Export or delete a user's data](export-or-delete-a-user-s-data.md)
-## [Kaizala for developers](kaizala-for-developers.md)
+## [Kaizala for developers](https://docs.microsoft.com/kaizala/developer-platform)
 
