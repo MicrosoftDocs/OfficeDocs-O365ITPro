@@ -56,14 +56,14 @@ Centralized Deployment doesn't support the following:
   - Version 1701 or later of Office 365 ProPlus.
   - Version 1808 or later of Office Professional Plus 2019 or Office Standard 2019.
   - Version 16.0.4494.1000 or later of Office Professional Plus 2016 (MSI) or Office Standard 2016 (MSI)\*
-  - Version 15.0.4937.1000 of later of Office Professional Plus 2013 (MSI) or Office Standard 2013 (MSI)\*
+  - Version 15.0.4937.1000 or later of Office Professional Plus 2013 (MSI) or Office Standard 2013 (MSI)\*
     
-    \*In MSI versions of Outlook, admin-installed add-ins will show in the appropriate ribbon in Outlook but doesn't show the add-in in 'My add-ins' section.
+    \*MSI versions of Outlook show admin-installed add-ins in the appropriate Outlook ribbon, not the "My add-ins" section.
     
 
 #### Find out if Office 365 ProPlus is installed
 
-To use Office 365 ProPlus, a user must have an Office 365 account and been assigned a license. For more information, see [Overview of Office 365 ProPlus](https://go.microsoft.com/fwlink/p/?linkid=846328)..
+To use Office 365 ProPlus, a user must have an Office 365 account and must have been assigned a license. For more information, see [Overview of Office 365 ProPlus](https://go.microsoft.com/fwlink/p/?linkid=846328).
 
 The simplest way to detect if a user has Office 365 ProPlus installed and has been using it recently is to use the Microsoft Office Activations report, which is available in the Microsoft 365 admin center. The report provides a list of all users who have activated Office 365 ProPlus within the last 7 days, 30 days, 90 days, or 180 days. For centralized deployment purposes, the desktop activations for Windows or Mac are the important columns in the report. You can export the report to Excel. For more information about the report, see [Office 365 Reports in the Admin Center - Microsoft Office activations](../activity-reports/microsoft-office-activations.md).
   
