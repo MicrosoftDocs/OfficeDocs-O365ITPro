@@ -3,7 +3,6 @@ title: "Device list CSV-file"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:

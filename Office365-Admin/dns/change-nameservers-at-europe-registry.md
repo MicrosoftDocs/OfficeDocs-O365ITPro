@@ -28,7 +28,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: e14b40a1-d964-4611-8b81-21aeed256fb4
-
 description: "Learn how you can set up Office 365 to manage the DNS records of your custom domain at Europe Registry."
 ---
 

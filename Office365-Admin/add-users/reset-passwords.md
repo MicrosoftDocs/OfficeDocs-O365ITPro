@@ -3,7 +3,6 @@ title: "Reset Office 365 business passwords"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -25,6 +24,7 @@ ms.custom:
 - Adm_O365_FullSet
 - Adm_O365_Top
 - Core_O365Admin_Migration
+- TopSMBIssues
 - MiniMaven
 - strat_admin_top
 - MSStore_Link

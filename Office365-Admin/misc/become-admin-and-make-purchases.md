@@ -20,7 +20,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 48b26596-9e5b-4e5a-a64f-7430eb2a1e45
-
 description: "Learn how to become the admin and get Office 365 subscription for your organization. "
 ---
 

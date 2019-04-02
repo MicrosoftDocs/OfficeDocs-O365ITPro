@@ -3,7 +3,6 @@ title: "Quick help Contacts"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
