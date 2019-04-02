@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 04/02/2019
+ms.date: 04/03/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -16,18 +16,18 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 
-description: Learn how to enable and disable Azure Active Directory (Azure AD) and Kaizala Directory sync feature in Kaizala.
+description: Learn about the administrator role in Kaizala.
 ---
 
 # About Kaizala administrator role in Office 365
 
-Global administrators in Office 365 can assign users the Kaizala administrator role for help with administering Kaizala. The global administrator already has all the permissions of Kaizala administrator. The role assignment can be done from the Microsoft 365 admin center. 
+Global administrators in Office 365 can assign users the Kaizala administrator role for help with administering Kaizala. The global administrator already has all the permissions of Kaizala administrator. The role assignment can be done from the [Microsoft 365 admin center](http://admin.microsoft.com). 
 
 ![Screenshot of selecting Kaizala administrator in the Microsoft 365 admin center](media/admin-role-in-admin-center.png)
 
 Users in this role have permission to perform all management tasks within Microsoft Kaizala, including create and manage users in the Kaizala directory, manage Kaizala groups, and manage action cards, connectors, and settings at an organizational level.
 
-Users with this role can sign in to the Microsoft 365 admin center and can manage Kaizala service requests.
+Users with this role can sign in to the [Microsoft 365 admin center](http://admin.microsoft.com) and can manage Kaizala service requests.
 
 > [!NOTE]
 > Global administrators and Kaizala administrators need to be assigned a Kaizala license to use all available features on the Kaizala management portal. 
