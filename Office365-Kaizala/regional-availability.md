@@ -3,7 +3,7 @@ title: Kaizala regional availability
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 03/16/2019
+ms.date: 04/04/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: Kaizala
@@ -15,7 +15,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: d0a029fa-5ba1-400e-be9f-909befdef2f4
-description: Learn which regional areas Kaizala is now available.
+description: Learn which regional areas Kaizala Pro is now available.
 ---
 
 # Kaizala regional availability
@@ -51,18 +51,18 @@ Kaizala Pro is currently available in the following countries:
 27. Uganda
 28. Vietnam
 
-<!---
-Upcoming worldwide release
-Beginning in mid-April 2019, Kaizala Pro will be commercially available internationally, except in the following countries or regions:
-Cuba
-Iran
-North Korea
-People's Republic of China
-Sudan
-Syria
-Region of Crimea
-Russia 
---->
+## Upcoming worldwide release
+
+Beginning in May 2019, Kaizala Pro will be commercially available internationally, with the exception of the following countries or regions:
+
+- Cuba
+- Iran
+- North Korea
+- People's Republic of China
+- Sudan
+- Syria
+- Region of Crimea
+- Russia 
 
 ## Kaizala Preview
 
