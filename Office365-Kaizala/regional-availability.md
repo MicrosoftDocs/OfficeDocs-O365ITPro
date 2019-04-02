@@ -20,7 +20,7 @@ description: Learn which regional areas Kaizala Pro is now available.
 
 # Kaizala regional availability
 
-Microsoft Kaizala Pro is currently available in the following 28 countries:
+Microsoft Kaizala Pro is currently available in the following countries:
 
 1. Argentina 
 2. Bangladesh
