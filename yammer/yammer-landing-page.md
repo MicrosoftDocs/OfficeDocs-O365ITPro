@@ -140,7 +140,7 @@ Build communities and collaboration in your organization with Yammer.
                         </div>
                     </div>
                     <div class="cardText">
-                            <p><a href="/en-us/Yammer/manage-security-and-compliance/data-residency-eu-geo" data-linktype="absolute-path">Data residency in the EU Geo</a></p>
+                            <p><a href="/en-us/Yammer/manage-security-and-compliance/data-residency" data-linktype="absolute-path">Data residency in the EU Geo</a></p>
                     </div>
                 </div>
             </div>
@@ -312,7 +312,7 @@ Build communities and collaboration in your organization with Yammer.
                         <p><a href="/en-us/Yammer/manage-security-and-compliance/set-up-a-usage-policy" data-linktype="absolute-path">Set up a usage policy</a></p>
                         <p><a href="/en-us/Yammer/manage-security-and-compliance/track-yammer-events" data-linktype="absolute-path">Track Yammer events</a></p>
                         <p><a href="/en-us/Yammer/manage-security-and-compliance/manage-yammer-with-intune" data-linktype="absolute-path">Manage Yammer with Intune</a></p>
-                        <p><a href="/en-us/Yammer/manage-security-and-compliance/data-residency-eu-geo" data-linktype="absolute-path">Data residency in the EU Geo</a></p>
+                        <p><a href="/en-us/Yammer/manage-security-and-compliance/data-residency" data-linktype="absolute-path">Data residency</a></p>
     </div>
         </div>
             </div>

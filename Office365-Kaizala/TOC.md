@@ -18,6 +18,7 @@
 ### [Public groups](public-groups.md)
 ### [Reports](reports.md)
 ### [Actions](actions.md)
+### [Interop with Microsoft Teams](teams-interop.md)
 ### [Back up and export organization data](backup-export-org-data.md)
 ### [Azure AD sync with Kaizala Directory](aad-sync-with-tul.md)
 ### [URLs and IP address ranges](urls-and-ip-address-ranges.md)
@@ -28,5 +29,5 @@
 ### [Integrate with Microsoft Intune](integrate-with-microsoft-intune.md)
 ### [Troubleshoot notifications](troubleshoot-notifications.md)
 ### [Export or delete a user's data](export-or-delete-a-user-s-data.md)
-## [Kaizala for developers](kaizala-for-developers.md)
+## [Kaizala for developers](https://docs.microsoft.com/kaizala/developer-platform)
 
