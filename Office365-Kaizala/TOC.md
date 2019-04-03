@@ -12,6 +12,7 @@
 ### [Make payments](make-payments.md)
 ## [Kaizala management portal](kaizala-management-portal.md)
 ### [Enable or disable Kaizala Pro](enable-disable-kaizala.md)
+### [Administrator role](admin-role.md)
 ### [Settings](settings.md)
 ### [Users](users.md)
 ### [Groups](groups.md)
