@@ -25,7 +25,7 @@ Want to know how to participate in the preview? Checkout [About the Microsoft 36
   
 ## March 2019 - We've officially released the admin center!
 Well, if you missed the exciting news, we've officially release the new and improved Microsoft 365 admin center! Here's the blog post where we announced it: [The new Microsoft 365 admin center available today](https://techcommunity.microsoft.com/t5/Microsoft-365-Blog/The-new-Microsoft-365-admin-center-available-today/ba-p/377870). For March, we'll rely on the blog post for you to check out the features released - plus, you can also read the post for the features that are getting released in the near future, which we're not allowed to do in core content. 
-<br> ![Screen capture showing the home page of the Microsoft 365 admin center.](media/M365AC-HomePage.png) <br>
+<br> ![Screen capture of the home page of the Microsoft 365 admin center.](media/M365AC-HomePage.png) <br>
 We do have one change to the **Billing & subscriptions** area that we'd like to mention. I mean, y'all didn't think we were done with improving it, did you? Because we're not! In fact, this month we added added the ability to manage your partner relationships to **Billing** > **Billing acccounts**. From here you can review your partner relationships across Advisor, CSP, and Indirect resellers. You can also accept new partner relationship requests, including delegated admin permissions. 
 
 As always, your feedback is important to us, so keep it coming! On any page in the admin center, you can give feedback by selecting **Give feedback** in the bottom-right, next to **Need help?**
