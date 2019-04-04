@@ -15,7 +15,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: e540a435-e3c5-4c7c-a116-2eb638827a7f
-description: "Learn about features in Office 365 that help your boost your business, read about industry content, and find out what's trending."
+description: "Run your small business with Office 365 email, manage your calendar, and enjoy enterprise grade security."
 ---
 # Build your small business with Office 365
 
