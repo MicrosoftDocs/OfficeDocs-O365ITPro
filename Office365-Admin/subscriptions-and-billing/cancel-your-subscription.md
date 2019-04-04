@@ -17,7 +17,6 @@ ms.collection:
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
-- TopSMBIssues
 - MiniMaven
 search.appverid:
 - BCS160

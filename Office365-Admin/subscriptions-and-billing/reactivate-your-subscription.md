@@ -16,6 +16,7 @@ ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
 - MiniMaven
+- TopSMBIssues
 search.appverid:
 - BCS160
 - MET150

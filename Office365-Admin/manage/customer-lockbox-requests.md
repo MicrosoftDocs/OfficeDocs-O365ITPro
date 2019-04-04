@@ -1,8 +1,8 @@
 ---
 title: "Office 365 Customer Lockbox Requests"
-ms.author: kwekua
-author: kwekua
-manager: scotv
+ms.author: robmazz
+author: robmazz
+manager: laurawi
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration
