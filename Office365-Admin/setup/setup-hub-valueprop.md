@@ -12,7 +12,7 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-description: "Learn how the Setup hub in Microsoft 365 helps admins discover, learn, and take action."
+description: "Learn how the new Setup experience in Microsoft 365 helps admins discover, learn, and take action."
 ---
 
 # Optimize administration with the new Setup experience
