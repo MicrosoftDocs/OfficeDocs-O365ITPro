@@ -3,7 +3,6 @@ title: "Office 365 Reports in the Admin Center - SharePoint activity"
 ms.author: kaarins
 author: kaarins
 manager: pamgreen
-
 ms.audience: Admin
 ms.topic: overview
 f1_keywords:
@@ -29,13 +28,12 @@ search.appverid:
 - SPO160
 - BSA160
 ms.assetid: a91c958f-1279-499d-9959-12f0de08dc8f
-
 description: "Get the SharePoint activity usage report to know about the activity of every SharePoint user, the number of files shared, and the storage utilization."
 ---
 
 # Office 365 Reports in the Admin Center - SharePoint activity
 
-As an Office 365 admin, the **Reports** dashboard shows you the activity overview across various Office 365 products in your organization. It enables you to drill in to get more granular insight about the activities specific to each product. Check out the [Activity Reports in the Office 365 Admin Center](activity-reports.md).
+As an Office 365 admin, the **Reports** dashboard shows you the activity overview across various Office 365 products in your organization. It enables you to drill in to get more granular insight about the activities specific to each product. Check out the [Activity Reports in the Microsoft 365 admin center](activity-reports.md).
   
 For example, you can understand the activity of every user licensed to use SharePoint by looking at their interaction with files. It also helps you to understand the level of collaboration going on by looking at the number of files shared.
   
@@ -49,7 +47,7 @@ If you want to understand the amount of activity happening against each SharePoi
   
 ## How do I get to the to the SharePoint activity report?
 
-1. In the Office 365 admin center, select **Reports** from the left menu or click on the **Reports** widget.<br/>![Check out new Office 365 activity reports](../media/2554deff-b840-4aa5-b2b2-83683996fedc.png)
+1. In the Microsoft 365 admin center, select **Reports** from the left menu or click on the **Reports** widget.<br/>![Check out new Office 365 activity reports](../media/2554deff-b840-4aa5-b2b2-83683996fedc.png)
   
 2. Use the **Select a report** drop-drop at the top left and select **SharePoint activity**.<br/> ![Select a report](../media/fb7bb8ea-eeb7-48c9-b739-601f41ddee16.png)
   

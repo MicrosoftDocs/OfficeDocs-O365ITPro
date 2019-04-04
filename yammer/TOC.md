@@ -31,6 +31,7 @@
 ### [Set up a usage policy](manage-security-and-compliance/set-up-a-usage-policy.md)
 ### [Track Yammer events](manage-security-and-compliance/track-yammer-events.md)
 ### [Manage Yammer with Intune](manage-security-and-compliance/manage-yammer-with-intune.md)
+### [Data residency](manage-security-and-compliance/data-residency.md)
 ## [Manage Yammer users](manage-yammer-users/manage-users-across-their-lifecycle.md)
 ### [Manage Office 365 users](manage-yammer-users/manage-users-across-their-lifecycle.md)
 ### [Add, block, or remove users](manage-yammer-users/add-block-or-remove-users.md)

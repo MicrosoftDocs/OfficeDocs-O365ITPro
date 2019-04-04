@@ -3,7 +3,6 @@ title: "Active user in Office 365 usage reports"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -28,7 +27,7 @@ description: "Learn about an active user of Office 365 usage analytics, activity
 
 ## Active user in usage reports
 
-An active user of Office products for [Microsoft 365 usage analytics](usage-analytics.md) and the [Activity Reports in the Office 365 admin center](../activity-reports/activity-reports.md) is defined as follows. 
+An active user of Office products for [Microsoft 365 usage analytics](usage-analytics.md) and the [Activity Reports in the Microsoft 365 admin center](../activity-reports/activity-reports.md) is defined as follows. 
   
 |**Product**|**Definition of an active user**|**Notes**|
 |:-----|:-----|:-----|

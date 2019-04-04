@@ -29,7 +29,7 @@ search.appverid:
 - MOE150
 - GEA150
 ms.assetid: 0f54736f-eb22-414c-8273-498a0918678f
-description: "Learn how to set a password expiration policy for your organization in Office 365 admin center. "
+description: "Learn how to set a password expiration policy for your organization in Microsoft 365 admin center. "
 ---
 
 # Set the password expiration policy for your organization
@@ -38,24 +38,24 @@ This article is for people who set password expiration policy for a business, sc
 
 If you're a user, you don't have the permissions to set your password to never expire. Ask your work or school technical support to do the steps in this article for you.
    
-As an admin, you can make user passwords expire after a certain number of days, or set passwords to never expire. By default, passwords are set to never expire.
-  
+As an admin, you can make user passwords expire after a certain number of days, or set passwords to never expire. 
+> [!Tip]
+> By default, passwords are set to never expire. Current research strongly indicates that mandated password changes do more harm than good. They drive users to choose weaker passwords, re-use passwords, or update old passwords in ways that are easily guessed by hackers.  
+
 > [!IMPORTANT]
 > Only [Office 365 global admins](../add-users/about-admin-roles.md) can perform these steps. 
   
-1. Go to the [![Go to the Office 365 admin center](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
-
-2. In the Office 365 admin center, go to **Settings** \> **Security and privacy**. If you aren't an Office 365 global admin, you won't see the Security and privacy option. <br/> ![Navigate to Security and Privacy](../media/5f474a03-38a4-4833-9f4c-db769de8b8d9.png)
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2072756" target="_blank">Security and privacy</a> page. If you aren't an Office 365 global admin, you won't see the Security and privacy option. 
   
-3. Click **Edit**. <br/>![Choose Edit](../media/85ecde71-ecd2-4e02-ac1c-f27790c1869a.png)
+2. Click **Edit**. <br/>![Choose Edit](../media/85ecde71-ecd2-4e02-ac1c-f27790c1869a.png)
   
-4. If you don't want users to have to change passwords, set **Passwords never expire** to **On**.<br/> ![Set to On](../media/a12c3844-d951-4484-8d2b-4120b059ea37.png)
+3. If you don't want users to have to change passwords, set **Passwords never expire** to **On**.<br/> ![Set to On](../media/a12c3844-d951-4484-8d2b-4120b059ea37.png)
   
-5. If you want user passwords to expire, in the first box type how often passwords should expire. Choose a number of days from 14 to 730.<br/>![Enter how often passwords should expire](../media/eaca5b33-c8b5-4d8b-b7ac-4712a9d0500e.png)
+4. If you want user passwords to expire, in the first box type how often passwords should expire. Choose a number of days from 14 to 730.<br/>![Enter how often passwords should expire](../media/eaca5b33-c8b5-4d8b-b7ac-4712a9d0500e.png)
   
-6. In the second box type when users are notified that their password will expire, and then click **Save**. Choose a number of days from 1 to 30. 
+5. In the second box type when users are notified that their password will expire, and then click **Save**. Choose a number of days from 1 to 30. 
     
-7. When the user's password expires, they'll get a notification that appears in the lower right corner of their screen.<br/>![Notification the user sees](../media/a9809116-305c-4300-99c5-a3703dd65c30.png)
+6. When the user's password expires, they'll get a notification that appears in the lower right corner of their screen.<br/>![Notification the user sees](../media/a9809116-305c-4300-99c5-a3703dd65c30.png)
   
 ## Important things you need to know about the password expiration feature
 
@@ -71,13 +71,13 @@ Here are some things to know about how this feature currently works as of Januar
 
 If you want to prevent your users from recycling old passwords, you can do so in Azure AD. See [Password policies and restrictions in Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=860842).
 
-In addition, if an employee used a mobile device to access Office 365, you can wipe it to ensure the password is no longer stored and recycled from there. To learn more, see [Wipe and block a former employee's mobile device](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee?view=o365-worldwide#wipe-and-block-a-former-employees-mobile-device).
+In addition, if an employee used a mobile device to access Office 365, you can wipe it to ensure the password is no longer stored and recycled from there. To learn more, see [Wipe and block a former employee's mobile device](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee?view=o365-worldwide#wipe-and-block-a-former-employees-mobile-device).
 
 
 ## Synchronize user passwords hashes from an on-premises Active Directory to Azure AD (Office 365)
 
 This article is for setting the expiration policy for cloud-only users (Azure AD). It doesn't apply to hybrid identity users who use password hash sync, pass-through authentication or on-premises federation like ADFS.
   
-To learn how to synchronize user password hashes from on premises AD to Azure AD, see [Implement password hash synchronization with Azure AD Connect sync](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization).
+To learn how to synchronize user password hashes from on premises AD to Azure AD, see [Implement password hash synchronization with Azure AD Connect sync](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization).
   
 

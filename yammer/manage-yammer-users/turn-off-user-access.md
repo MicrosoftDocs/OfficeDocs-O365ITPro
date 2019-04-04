@@ -41,7 +41,7 @@ For detailed information about enforcing Office 365 identity in Yammer and Power
 
 1. Sign in to Office 365 with your work or school account. 
     
-2. Go to the Office 365 admin center.
+2. Go to the Microsoft 365 admin center.
     
 3. On the Home page, click **Active users**.
     

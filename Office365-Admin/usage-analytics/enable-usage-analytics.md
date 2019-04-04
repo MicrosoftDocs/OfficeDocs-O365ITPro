@@ -33,7 +33,7 @@ Microsoft 365 usage analytics is also available for Office 365 US Government Com
   
 ## Steps to enable Microsoft 365 usage analytics
 
-To get started with Microsoft 365 usage analytics you must first make the data available in the Office 365 admin center, then instantiate the content pack in Power BI.
+To get started with Microsoft 365 usage analytics you must first make the data available in the Microsoft 365 admin center, then instantiate the content pack in Power BI.
   
 ### Get Power BI
 
