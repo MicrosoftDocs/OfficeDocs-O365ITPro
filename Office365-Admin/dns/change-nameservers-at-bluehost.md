@@ -50,7 +50,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (You may have to scroll down.) 
     
-3. In the  * **domain_name*** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
+3. In the **domain_name** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
     
 4. On the **DNS Zone Editor** page, in the Add DNS Record area, in the boxes for the new record, type or copy and paste the values from the following table. 
     
@@ -93,11 +93,11 @@ To complete setting up your domain with Office 365, you change your domain's NS 
   
 1. To get started, go to your domains page at Bluehost by using [this link](https://my.bluehost.com/cgi/dm). You'll be prompted to log in first.
     
-2. On the **domains** page, in the ** *domain_name* ** area, select the checkbox for your domain, and then choose **name servers**.
+2. On the **domains** page, in the **domain_name** area, select the checkbox for your domain, and then choose **name servers**.
     
     ![Bluehost-BP-Redelegate-1-1](../media/8f384386-197c-4272-9675-82037922dac4.png)
   
-3. In the ** *domain_name* ** area, choose **Use Custom Nameservers**.
+3. In the **domain_name** area, choose **Use Custom Nameservers**.
     
     ![Bluehost-BP-Redelegate-1-2](../media/9fb47d21-c4ce-4eee-af90-c9569870a329.png)
   
