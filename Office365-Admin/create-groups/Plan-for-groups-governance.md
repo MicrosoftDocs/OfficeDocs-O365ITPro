@@ -311,10 +311,9 @@ The Office 365 Reports dashboard shows you the activity overview across the Offi
 Office 365 Groups provides a rich set of governance capabilities your organization might require. Consider the following organization profiles as guidance to understand best practices, ask the right questions to determine the requirements for governance, and how to meet them.
 
 **Consider the following organization profiles:**
-- [Small Business](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#small-business)
-- [Medium-sized Business](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#medium-sized-business)
-- [Regulated or Enterprise](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#regulated-or-enterprise)
-
+- Small Business
+- Medium-sized Business
+- Regulated or Enterprise
 
 ### Small business	
 Consider an organization that has deployed Office 365 with at least Exchange Online and SharePoint Online licenses that includes the Business Essentials and Business Premium plans, and the Enterprise E1, E3 and E5 plans with no Azure Active Director Premium licensing.
