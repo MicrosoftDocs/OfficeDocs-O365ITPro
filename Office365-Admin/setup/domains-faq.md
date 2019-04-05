@@ -102,7 +102,7 @@ You have to set up the DNS records for Office 365 services yourself (unless you 
 
 A domain is a unique name that appears after the **@** sign in email addresses, and after **www.** in web addresses. It typically takes the form of your organization's name and a standard Internet suffix, such as  *yourbusiness.com*  or  *stateuniversity.edu.* 
   
-Using a custom domain like " **rob@contoso.com** " with Office 365 can help build credibility and recognition for your brand. 
+Using a custom domain like "**rob@contoso.com**" with Office 365 can help build credibility and recognition for your brand. 
   
 You can [buy a domain in Office 365 and we'll set it up automatically](../get-help-with-domains/buy-a-domain-name.md), or you can buy or bring one you already own from a domain registrar.
   
@@ -293,9 +293,9 @@ When you add multiple domains to Office 365, you can host any of the services (l
 ::: moniker range="o365-worldwide"
 ## Why do I have an "onmicrosoft.com" domain?
 
-Office 365 creates a domain for you, like  *contoso.onmicrosoft.com*  , when you sign up with the service. The user ID that you create when you sign up includes the domain, like  *alan@contoso.onmicrosoft.com*  . 
+Office 365 creates a domain for you, like *contoso.onmicrosoft.com*, when you sign up with the service. The user ID that you create when you sign up includes the domain, like *alan@contoso.onmicrosoft.com*. 
   
- **If you want to have your email look like  *alan@contoso.com*  : **[buy the domain](../get-help-with-domains/buy-a-domain-name.md) or just follow the steps in [Add your users and domain to Office 365](add-domain.md) if you own it already. 
+ **If you want to have your email look like *alan@contoso.com*:** [buy the domain](../get-help-with-domains/buy-a-domain-name.md) or just follow the steps in [Add your users and domain to Office 365](add-domain.md) if you own it already. 
   
 - **You can't rename the onmicrosoft domain after sign-up.** For example, if the initial domain you chose was fourthcoffee.onmicrosoft.com, you can't change it to be fabrikam.onmicrosoft.com. To use a different onmicrosoft.com domain, you'd have to start a new subscription with Office 365. 
     
@@ -310,9 +310,9 @@ You can keep using the initial onmicrosoft.com domain even after you add your do
 ::: moniker range="o365-germany"
 ## Why do I have an "onmicrosoft.de" domain?
 
-Office 365 creates a domain for you, like  *contoso.onmicrosoft.de*  , when you sign up with the service. The user ID that you create when you sign up includes the domain, like  *alan@contoso.onmicrosoft.de*  . 
+Office 365 creates a domain for you, like *contoso.onmicrosoft.de*, when you sign up with the service. The user ID that you create when you sign up includes the domain, like *alan@contoso.onmicrosoft.de*. 
   
- **If you want to have your email look like  *alan@contoso.de*  : **[buy the domain](../get-help-with-domains/buy-a-domain-name.md) or just follow the steps in [Add your users and domain to Office 365](add-domain.md) if you own it already. 
+ **If you want to have your email look like *alan@contoso.de*:** [buy the domain](../get-help-with-domains/buy-a-domain-name.md) or just follow the steps in [Add your users and domain to Office 365](add-domain.md) if you own it already. 
   
 - **You can't rename the onmicrosoft domain after sign-up.** For example, if the initial domain you chose was fourthcoffee.onmicrosoft.de, you can't change it to be fabrikam.onmicrosoft.de. To use a different onmicrosoft.de domain, you'd have to start a new subscription with Office 365. 
     
@@ -361,7 +361,7 @@ You can, but there are limitations:
     
 2. Verify that you own the domain you want to use
     
-    1. On the **Domains** page, choose ** Add domain **. 
+    1. On the **Domains** page, choose **Add domain**. 
         
     2. In the panel, type the domain, in this example cohowinery.com, and then choose **Next**. 
         
@@ -391,7 +391,7 @@ You can, but there are limitations:
     
     2. Go to Exchange admin center (EAC).
         
-    3. In EAC, choose ** Protection **, and then choose **Connection filter**. 
+    3. In EAC, choose **Protection**, and then choose **Connection filter**. 
         
     4. In the **IP Allow list**, choose **+**, and add the mail server IP address that you can get from your current email provider. 
     
@@ -405,7 +405,7 @@ You can, but there are limitations:
         
     4. For each account choose **+ (New)**, and fill out the required information. 
         
-    5. To keep user's email the same as it is currently, the ** User name ** field should be exactly the same as the user's existing email address. 
+    5. To keep user's email the same as it is currently, the **User name** field should be exactly the same as the user's existing email address. 
         
     6. Next to User name, select your custom domain name from the drop-down list.
         
