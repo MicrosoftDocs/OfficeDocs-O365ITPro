@@ -266,13 +266,13 @@ You cannot change the name of your initial  *.partner.onmschina.cn*  domain.
 
 ::: moniker range="o365-worldwide"
 
-Yes! To add subdomains, you must manage your own DNS settings at your registrar's website. If you are letting Microsoft manage your DNS settings with NS records, you can't add subdomains.
+Yes! To add subdomains, you must manage your own DNS settings at your registrar's website. If you are letting Microsoft manage your DNS settings with NS records, or if you bought the domain from Microsoft, you can't add subdomains.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Yes! To add subdomains, you must manage your own DNS settings at your registrar's website. If you are letting Microsoft manage your DNS settings with NS records, you can't add subdomains.
+Yes! To add subdomains, you must manage your own DNS settings at your registrar's website. If you are letting Microsoft manage your DNS settings with NS records, or if you bought the domain from Microsoft, you can't add subdomains.
 
 ::: moniker-end
 
