@@ -102,7 +102,7 @@ This table contains data about each user who had an activity in any of the servi
 |EXO_MeetingSent  <br/> |Number of meetings sent.  <br/> |
 |ODB_FileViewedModified  <br/> |Number of files this user interacted with on any OneDrive for Business (for example, created, updated, deleted, viewed, or downloaded).  <br/> |
 |ODB_FileSynched  <br/> |Number of files this user synchronized on any OneDrive for Business.  <br/> |
-|ODB_FileSharedInternally  <br/> |Number of files this user shared internally from any OneDrive for Business.  <br/> |
+|ODB_FileSharedInternally  <br/> |Number of files this user shared internally from any OneDrive for Business, or with users within groups (that might include external users).  <br/> |
 |ODB_FileSharedExternally  <br/> |Number of files this user shared externally from any OneDrive for Business.  <br/> |
 |ODB_AccessByOwner  <br/> |Number of files the user interacted with that reside on their own OneDrive for Business.  <br/> |
 |ODB_AccessOthers  <br/> |Number of files this user interacted with which reside on another user's OneDrive for Business.  <br/> |
@@ -114,13 +114,13 @@ This table contains data about each user who had an activity in any of the servi
 |SPO_GroupAccessByOthers  <br/> |Number of files the user interacted with that reside on a group site that another user owns.  <br/> |
 |SPO_OtherFileViewedModified  <br/> |Number of files with which this user interacted on any other site.  <br/> |
 |SPO_OtherFileSynched  <br/> |Number of files this user synchronized from any other site.  <br/> |
-|SPO_OtherFileSharedInternally  <br/> |Number of files this user shared internally from any other site.  <br/> |
+|SPO_OtherFileSharedInternally  <br/> |Number of files this user shared internally from any other site, or with users within groups (that might include external users). <br/> |
 |SPO_OtherFileSharedExternally  <br/> |Number of files this user shared externally from any other site.  <br/> |
 |SPO_OtherAccessedByOwner  <br/> |Number of sites the user interacted with that reside on other site that they own.  <br/> |
 |SPO_OtherAccessedByOthers  <br/> |Number of sites the user interacted with that reside on other site that another user owns.  <br/> |
 |SPO_TeamFileViewedModified  <br/> |Number of files with which this user interacted on any team site.  <br/> |
 |SPO_TeamFileSynched  <br/> |Number of files this user synchronized from any team site.  <br/> |
-|SPO_TeamFileSharedInternally  <br/> |Number of files this user shared internally from any team site.  <br/> |
+|SPO_TeamFileSharedInternally  <br/> |Number of files this user shared internally from any team site, or with users within groups (that might include external users).  <br/> |
 |SPO_TeamFileSharedExternally  <br/> |Number of files this user shared externally from any team site.  <br/> |
 |SPO_TeamAccessByOwner  <br/> |Number of files the user interacted with that reside on a team site that they own.  <br/> |
 |SPO_TeamAccessByOthers  <br/> |Number of files the user interacted with that reside on a team site that another user owns.  <br/> |
@@ -253,12 +253,12 @@ This table provides data about how Office 365 Groups is used across the organiza
 |SPO_ActiveGroups  <br/> |Number of active SharePoint groups.  <br/> |
 |SPO_FileAccessedActiveGroups  <br/> |Number of SharePoint groups which have file accessed activities.  <br/> |
 |SPO_FileSyncedActiveGroups  <br/> |Number of SharePoint groups which have file synchronized activities.  <br/> |
-|SPO_FileSharedInternallyActiveGroups  <br/> |Number of SharePoint groups which have shared internally activities.  <br/> |
+|SPO_FileSharedInternallyActiveGroups  <br/> |Number of SharePoint groups which have shared activities internally, or with groups (that might include external users).  <br/> |
 |SPO_FileSharedExternallyActiveGroups  <br/> |Number of SharePoint groups which have shared externally activities.  <br/> |
 |SPO_TotalActivities  <br/> |Number of SharePoint activities.  <br/> |
 |SPO_FileAccessedActivities  <br/> |Number of SharePoint file accessed activities.  <br/> |
 |SPO_FileSyncedActivities  <br/> |Number of SharePoint file synchronized activities.  <br/> |
-|SPO_FileSharedInternallyActivities  <br/> |Number of SharePoint file shared internally activities.  <br/> |
+|SPO_FileSharedInternallyActivities  <br/> |Number of SharePoint file shared activities internally, or with groups (that might include external members).  <br/> |
 |SPO_FileSharedExternallyActivities  <br/> |Number of SharePoint file shared externally activities.  <br/> |
 |SPO_TotalFiles  <br/> |Number of SharePoint files.  <br/> |
 |SPO_ActiveFiles  <br/> |Number of active SharePoint files.  <br/> |
