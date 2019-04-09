@@ -146,13 +146,25 @@ To access the Training Action Card:
 
    ![Screenshot of sharing the training card](media/share-training.png)
 
-
 ### Step 2 – Send reminders to defaulters
 
+With Kaizala, you can help people stay on tracking by sending them reminders for completing the training within deadlines.
+ 
+To send a reminder:
+
+1. Tap the published action in your conversation.
+2. Tap **Remind people to respond** at the bottom of the page.
 
 ### Step 3 – Report to track completion and performance
 
+Group admins can use the Kaizala action card to check how many people have taken this training. 
+ 
+To check reports on training:
 
+1. Tap the training action card in the group chat window. 
+2. Tap **Insights** to see how many people have finished the training. 
+
+   ![Screenshot of training card with insights](media/training-insights.png)
 
 ## Collect employee feedback with Kaizala
 
