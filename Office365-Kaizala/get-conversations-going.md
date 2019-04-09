@@ -16,12 +16,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 
-description: Learn how to enable and disable the chat history feature in Kaizala.
+description: Learn how to move and create groups and invite others to Kaizala.
 ---
 
 # Get conversations going with Kaizala
 
-Your workforce in the office and in the field needs to communicate and coordinate to get work done. Often this communication happens over unsecured personal messaging apps – putting your organization’s data security at risk. 
+Your workforce in the office and in the field needs to communicate and coordinate to get work done. Often this communication happens over unsecured personal messaging apps, putting your organization’s data security at risk. 
 
 Use Microsoft Kaizala to “secure chat” and enable your organization to connect and coordinate across the value chain while retaining complete ownership of work-related chat data. Connect your organization in Kaizala groups that mirror your way of working. 
 
@@ -101,10 +101,68 @@ The operation can be done manually on the Kaizala management portal using the **
 
    ![Screenshot of Add Users window](media/add-users.png)
 
+#### Add multiple user phone numbers to a Kaizala group using bulk upload
+
+If you want to add several users without using the comma separated list, you can do so using bulk upload. This requires preparing a User Group Mapping CSV file.
+
+> [!IMPORTANT]
+> IT help might be required. Consider contacting your organization IT admins to help with these steps.
+
+**User Group Mapping CSV** – Use this CSV template file to enter the group name, users' phone numbers, and user type. You can add multiple groups at a time. The CSV template file contains relevant instructions and examples. Read the instructions carefully before filling and uploading the file. This file is mandatory and must be uploaded before proceeding to the next step.
+
+![Screenshot of Import Multiple Users window](media/import-multiple-users.png)
+
+You can add multiple groups and users at once from an Excel spreadsheet or other file saved in CSV format.
+
+1. Click or tap **Groups**, and then click or tap **Bulk Upload Users**.
+2. On the **Bulk Upload Users** page, download the User Group Mapping CSV template file. Follow the steps to add your groups and user phone numbers. If you want to define group hierarchy, download and use the Parent Group Mapping CSV template file. Save the file to a location that you'll remember.
+3. On the **Bulk Upload Users** page, select the file you saved previously, and select **Upload**.
+
+   > [!NOTE]
+   > If there are problems with the file, they are displayed in the panel. Select the job time stamp link to see the detailed logs.
+
+4. If there aren't any problems with the file, click **Upload** to upload your groups and users' info.
+
 ### Step 2 – Onboard group admins/champs who will drive and curate group
 
+For every group that you decide to create, you should identify admins or champs who will manage the group and be the group steward.
+ 
+Key responsibilities of the group admin or champ are:
 
+- **User engagement** – share training and how-to materials.
+- **Content moderation** – share and implement guidelines on appropriate usage. 
+- **Helping users** –  with how to perform queries.
+- **User management** – remove or add users. 
+
+Your corporate communication team or senior team members are most likely to fit these roles.
+
+Here are some guidelines for admins or champs.
 
 ## Invite others to chat securely
 
+Evangelize Kaizala in your organization and onboard users on your work groups.
 
+You can invite others in two easy steps.
+
+### Step 1 – Communicate through existing digital channels
+
+Now that your existing groups have been migrated to Kaizala, and groups have been created mirroring the organization way of working, it’s time to invite everyone to Kaizala.
+
+- Create awareness and motivation to move to Kaizala by using digital channels, such as:
+  - Your existing consumer app groups
+  - Company intranet
+  - Company email
+- Start with sending out Kaizala posters to help your employees learn what is Kaizala, and why they should move their work chats to it. 
+- Here are some resources for you to consider. LINK TO RESOURCES
+
+### Step 2 – Create buzz through on-the-ground activities
+
+While initiatives on digital channels are great for driving awareness and imparting how to knowledge on Kaizala, on-the-ground activities can be especially important for driving a buzz at the workplace that positively influences the workforce to adopt Kaizala.
+
+- Create a positive buzz for Kaizala at your organization by using these on-the-ground initiatives: 
+  - Kaizala posters – download here
+  - Kaizala rolling Visuals for lobbies and receptions – download here
+  - Kaizala activations desk – download here. 
+- Here are some resources for you to consider. LINK TO RESOURCES
+
+With the conversations about Kaizala going, now [connect your value chain](connect-value-chain.md).
