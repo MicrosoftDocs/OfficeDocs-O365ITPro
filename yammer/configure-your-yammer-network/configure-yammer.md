@@ -108,7 +108,7 @@ By default, users can attach GIFs provided by Tenor, a third-party, to posts.
 
 You can turn off this feature so that users do not see GIFs from Tenor. 
 
-- On the **Configuration** page, in the **Enabled Features** section, enable or disable **Show Tenor GIFs Search**.
+- On the **Configuration** page, in the **Enabled Features** section, enable or disable **Show Tenor GIFs Search**. 
 
 <a name="LinkMetadata"> </a>
 ## Control how links are displayed
