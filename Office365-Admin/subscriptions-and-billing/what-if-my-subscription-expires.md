@@ -137,7 +137,7 @@ Here's what you can expect when your subscription is in each state.
 
 ::: moniker-end
 
-In this state, users have normal access the Office 365 portal, Office applications, and services such as email and SharePoint Online.
+In this state, users have normal access to the Office 365 portal, Office applications, and services such as email and SharePoint Online.
   
 As an admin, you still have access to the admin center. Don't worry—global or billing admins can [reactivate the subscription](reactivate-your-subscription.md) and continue using Office 365. If you don't reactivate, be sure to [back up your data](back-up-data-before-switching-plans.md).
   
