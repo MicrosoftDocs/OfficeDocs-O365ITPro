@@ -25,7 +25,7 @@ With Microsoft Kaizala you can bring your unconnected workforce and partners int
 
 First, to get the organization’s directory in place, you will need to:
 
-- **[Create the company phonebook]**(#create-the-company-phonebook) – With Kaizala you can digitize your company’s entire phone directory with phone numbers and key attributes about all your employees and value chain networks. Also, empower each employee to be able to search and connect with anyone within your organization.
+- [Create the company phonebook](#create-the-company-phonebook) – With Kaizala you can digitize your company’s entire phone directory with phone numbers and key attributes about all your employees and value chain networks. Also, empower each employee to be able to search and connect with anyone within your organization.
 - **Invite people to install Kaizala** – Evangelize Kaizala in your organization to positively influence people to install Kaizala.
 
 ## Create the company phonebook
@@ -47,7 +47,7 @@ You can create the company phonebook with Kaizala in two easy steps:
 4. Download the User upload CSV template. Prepare the template with details of the users (phone number and user attributes) to upload to Kaizala phonebook.
    - **User CSV** – Use this CSV template file to enter the users' phone numbers, and user details. The CSV template file contains relevant instructions and examples. Read the instructions carefully before filling and uploading the file. This file is mandatory and must be uploaded before proceeding to the next step.
 
-   ![Screenshot of Import Multiple Users window](media/import-multiple-users.png)
+     ![Screenshot of Import Multiple Users window](media/import-multiple-users.png)
 5. Upload the prepared CSV file, and select **Upload**.
 6. Your users are now uploaded. 
 
@@ -70,7 +70,7 @@ You can invite people to install Kaizala in three easy steps:
 - Start with sending out Kaizala posters to help your employees learn what is Kaizala, and why they should install it.
 - Here are some resources for you to consider. LINK TO RESOURCES
 
-### Step 3 – Create buzz through on ground activities
+### Step 3 – Create buzz through on-the-ground activities
 
 - While initiatives on digital channels are great for driving awareness and imparting how to knowledge on Kaizala, on-the-ground activities can be especially important for driving a buzz at the workplace that positively influences the workforce to adopt Kaizala.
 - Here is a list of on-the-ground initiatives to create a positive buzz for Kaizala at your organization: 
