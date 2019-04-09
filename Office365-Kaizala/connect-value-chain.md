@@ -97,12 +97,12 @@ Key responsibilities of the group admin or champ are:
 - **Helping users** –  with how to perform queries.
 - **User management** – remove or add users. 
 
-Your corporate communication team or senior team members are most likely to fit these roles.
+Your corporate communications team or senior team members are most likely to fit these roles.
 
 Here are some guidelines for admins or champs.
 
 > [!TIP]
-> Set up RSS feeds for drawing in organization related content from across channels such as social media, websites, and blogs, to have them show up in the group automatically. Follow these steps here.
+> Set up RSS feeds for drawing in organization related content from across channels such as social media, websites, and blogs, to have them show up in the group automatically. Follow [these steps here](https://docs.microsoft.com/kaizala/businesssolutions/corporatecommunications/getrssfeedsonkaizala/displayrssfeedsinkaizalagroups).
 
 ## Conduct trainings on Kaizala
 
@@ -140,11 +140,11 @@ To access the Training Action Card:
 9. When all the training content and the knowledge test questions are added to the training card, select **Next**.
 10. Enter training options such as training expiry, results visibility options, attempts, and so on.
 
-   ![Screenshot of Training Options window](media/training-options.png)
+    ![Screenshot of Training Options window](media/training-options.png)
  
 11. When the training options have been set, you’re all set to share the training with the people in the company connect group. 
 
-   ![Screenshot of sharing the training card](media/share-training.png)
+    ![Screenshot of sharing the training card](media/share-training.png)
 
 ### Step 2 – Send reminders to defaulters
 
@@ -167,6 +167,47 @@ To check reports on training:
    ![Screenshot of training card with insights](media/training-insights.png)
 
 ## Collect employee feedback with Kaizala
+
+The company connect group also serves as a convenient mobile channel to collect feedback on relevant issues, decisions, and policies, especially for workforce preforming in mobile-only unstructured environments.
+
+Kaizala allows for collection of feedback from employees, partners, suppliers, and customers through feedback forms, polls, and surveys. All responses are automatically aggregated to enable you to draw insights based on responses collected. 
+
+You can collect feedback through the company connect group in two easy steps.
+
+### Step 1 – Collect employee feedback 
+
+To collect feedback, you can design a custom Kaizala Action through the Action Designer interface within the Kaizala management portal. 
+
+1. Log on to the [Kaizala management portal](https://manage.kaiza.la/).
+2. Create a Kaizala Action: Go to **Actions** from the left navigation bar, and select **New Action** from the upper-right of the page.
+3. Select the Feedback template for the new action. 
+4. Fill out feedback action card name and description, and the tap **Next**.
+5. Do relevant customizations on Response View, Immersive View, and Chat view. (Add questions and answer options and format.) 
+6. After you are done, tap **Submit**. Users will now be able to see the details page of the new action. 
+7. At this moment, the action is in draft state.
+8. You need to publish the action. To publish an action:
+   - When your action is successfully uploaded, it is available in draft state.
+   - You need to stage the uploaded version in order to [test and debug](https://docs.microsoft.com/kaizala/actions/test) your action.
+   - After you have tested your action, you can activate the action. The action moves to the active state.
+   - Read more about the [lifecycle of a Kaizala Action](https://docs.microsoft.com/kaizala/actions/actionlifecycle).
+
+### Step 2 – Onboard communications team to analyze feedback
+
+Make sure your organization corporate communications team or relevant other team is onboarded to the group as an *admin*.
+
+This will allow the admins to perform various roles such as:
+
+- **Content curation** – share timely surveys for feedback collection.
+- **Content moderation** – share and implement guidelines on appropriate usage. 
+- **Helping users** – with how to perform queries.
+
+Your corporate communications team or senior team members are most likely to fit these roles.
+
+Here are some guidelines for admins or champs.
+
+
+With the connect your value chain in place, now [digitize your everyday tasks](digitize-tasks.md).
+
 
 
 
