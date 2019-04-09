@@ -1,5 +1,5 @@
 ---
-title: "Create, edit, or delete a security group in the Office 365 admin center"
+title: "Create, edit, or delete a security group in the Microsoft 365 admin center"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -27,8 +27,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 55c96b32-e086-4c9e-948b-a018b44510cb
-description: "Learn to create, edit,or delete a security group. 
-"
+description: "Learn to create, edit,or delete a security group."
 ---
 
 # Create, edit, or delete a security group in the admin center

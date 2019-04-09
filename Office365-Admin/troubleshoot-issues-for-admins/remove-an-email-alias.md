@@ -38,7 +38,7 @@ Did you get this error when you were creating a new user? "This email address is
 
 Before you begin, make sure you've noted which user you need to remove the email address from.
   
-1. From the Office 365 admin center, you can find the user a couple of different ways:
+1. From the Microsoft 365 admin center, you can find the user a couple of different ways:
     
   - From the admin center **Home** page, type the user's name into the **search** field, and then select them from the list. It will open the user card. 
     

@@ -1,5 +1,5 @@
 ---
-title: "Manage email app access in Office 365 admin center"
+title: "Manage email app access in Microsoft 365 admin center"
 ms.author: kwekua
 author: kwekua
 manager: scotv

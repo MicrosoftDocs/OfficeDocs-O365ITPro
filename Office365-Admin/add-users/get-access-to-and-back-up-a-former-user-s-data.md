@@ -52,7 +52,7 @@ To save the content, here's what you do:
 
 1. Sign in to Office 365 with your work or school account. 
     
-2. Go to the [Office 365 admin center](../admin-overview/about-the-admin-center.md).
+2. Go to the [Microsoft 365 admin center](../admin-overview/about-the-admin-center.md).
     
 3. Go to Active users and select the user.
     

@@ -1,8 +1,8 @@
 ---
 title: "Office 365 Customer Lockbox Requests"
-ms.author: kwekua
-author: kwekua
-manager: scotv
+ms.author: robmazz
+author: robmazz
+manager: laurawi
 ms.audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration
@@ -217,7 +217,7 @@ Customer content is the data created by users of Office 365 services and applica
 
   - Inferences, and all subsequent inferences, if customer content remains
 
-For additional information about customer content in Office 365, see the [Office 365 Trust Center](http://trust.office365.com/).
+For additional information about customer content in Office 365, see the [Office 365 Trust Center](https://products.office.com/en-US/business/office-365-trust-center-privacy/).
 
 #### Who is notified when there is a request to access my content?
 
@@ -229,7 +229,7 @@ Global administrators and anyone assigned the Customer Lockbox access approver a
 
 #### How do I opt-in to Customer Lockbox?
 
-A global administrator can enable and configure Customer Lockbox in the Microsoft 365 or Office 365 admin center.
+A global administrator can enable and configure Customer Lockbox in the Microsoft 365 or Microsoft 365 admin center.
 
 #### If I approve a Customer Lockbox request, what can the engineer do and how will I know what the Microsoft engineer did?
 

@@ -22,7 +22,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 7e170116-e550-430b-aba9-c317de2d35ed
-
 description: "Learn how you can set up Office 365 to manage the DNS records of your custom domain at Dreamhost."
 ---
 
@@ -77,7 +76,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
-    ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
 3. On the **Setup** page, choose **Start setup**.
     

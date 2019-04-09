@@ -20,6 +20,7 @@ ms.collection:
 ms.custom:
 - Adm_O365_Setup
 - Adm_O365_Top
+- TopSMBIssues
 search.appverid:
 - MET150
 - MOE150

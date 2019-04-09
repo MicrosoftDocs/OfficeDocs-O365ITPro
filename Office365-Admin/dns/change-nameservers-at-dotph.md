@@ -28,7 +28,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: d7ed2a40-a724-47da-b42c-ae526c8ff5c1
-
 description: "Learn how you can set up Office 365 to manage the DNS records of your custom domain at dotPH."
 ---
 
@@ -70,7 +69,7 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. in the Office 365 admin center, choose **Setup** \> **Domains**.
+1. in the Microsoft 365 admin center, choose **Setup** \> **Domains**.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     

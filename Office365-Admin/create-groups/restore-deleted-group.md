@@ -19,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: b7c66b59-657a-4e1a-8aa0-8163b1f4eb54
-
 description: "Learn how to restore a deleted Office 365 Group using the Exchange admin center. "
 ---
 
@@ -46,6 +45,8 @@ When a group is restored, the following content is restored:
 - Planner
     
 - Teams
+
+- Yammer group and group content (If the Office 365 group was created from Yammer)
     
 You can also [Permanently delete an Office 365 group](#permanently-delete-an-office-365-group) if you can't wait the 30 days for the retention period to expire for the content to be permanently deleted. 
   
@@ -53,19 +54,19 @@ You can also [Permanently delete an Office 365 group](#permanently-delete-an-off
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Microsoft 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
     

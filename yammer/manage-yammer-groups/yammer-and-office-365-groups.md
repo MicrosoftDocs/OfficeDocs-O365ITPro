@@ -140,9 +140,9 @@ For more information about Set-UnifiedGroup, see [Set-UnifiedGroup](https://tech
   
 A: Office 365 connected Yammer groups can only be created in Yammer. Office 365 groups created in other locations do not include a Yammer group.
   
- **Q: Can I create an Office 365 connected Yammer group from the Office 365 admin center?**
+ **Q: Can I create an Office 365 connected Yammer group from the Microsoft 365 admin center?**
   
-A: No, this will be added in later waves. However, for Office 365 connected Yammer groups, you can manage members and delete groups from the Office 365 admin center. Metadata updates can also be applied to groups from the admin center.
+A: No, this will be added in later waves. However, for Office 365 connected Yammer groups, you can manage members and delete groups from the Microsoft 365 admin center. Metadata updates can also be applied to groups from the admin center.
   
  **Q: Can I add external users to Office 365 connected Yammer groups?**
   

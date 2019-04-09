@@ -3,7 +3,6 @@ title: "Configure domains for Mobile Device Management for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -47,11 +46,11 @@ If your registrar or DNS host isn't listed, follow the general steps in [Create 
 
 After you add the two records, you'll need to complete [setting up Mobile Device Management for Office 365](https://portal.office.com/EAdmin/Device/IntuneInventory.aspx). Although Mobile Device Management is available in Office 365, it is a separate online service. You can navigate to it two ways:
   
-- From the Office 365 admin center, navigate to **Admin Centers** \> **Security &amp; Compliance Center**. Then navigate to **Security policies** \> **Device management** and click **Let's get started**.
+- From the Microsoft 365 admin center, navigate to **Admin Centers** \> **Security &amp; Compliance Center**. Then navigate to **Security policies** \> **Device management** and click **Let's get started**.
     
     ![Set up Mobile Device Management for Office 365](../media/368e1026-9aa5-431b-a722-8f7cf528f263.png)
   
-- Or in the Office 365 admin center \> **Home** page, type mobile device management in the **Search** box. 
+- Or in the Microsoft 365 admin center \> **Home** page, type mobile device management in the **Search** box. 
     
     ![Search for mobile device management in the admin center](../media/cd0ebf15-ef79-4eaa-ab5b-041ac0bd4e5b.png)
   

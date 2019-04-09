@@ -3,7 +3,6 @@ title: "Transfer data manually between two Office 365 accounts"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -20,7 +19,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 7dc5d983-84b2-4802-bef0-602ae1780a42
-
 description: "Find how to transfer data manually between two Office 365 accounts when you changed the plan or company name, or combined multiple subscriptions into one."
 ---
 

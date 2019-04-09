@@ -1,8 +1,8 @@
 ---
 title: "Change your organization's address, technical contact, and more"
-ms.author: sirkkuw
-author: sirkkuw
-manager: scotv
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -26,36 +26,31 @@ search.appverid:
 - MOE150
 - GEA150
 ms.assetid: a36e5a52-4df2-479e-bb97-9e67b8483e10
-description: "Learn to make changes to your Office 365 company profile, such as organization name, address, phone, technical contact, and email."
+description: "Learn how to make changes to your organization profile, such as organization name, address, phone, technical contact, and email."
 ---
 
 # Change your organization's address, technical contact, and more
   
-You can make changes to your Office 365 company profile, such as your organization name, address, phone, and technical contact. **You must be a global admin to update this information.**
+You can make changes to your organization profile, such as your organization name, address, phone, and technical contact. **You must be a global admin to update this information.**
   
-To change the address or country associated with your bill or subscription, see [Change your billing addresses for Office 365 for business](../subscriptions-and-billing/change-your-billing-addresses.md).
-   
+To change the address associated with your bill or subscription, see [Change your billing addresses for Office 365 for business](../subscriptions-and-billing/change-your-billing-addresses.md).
+
 ## Edit organization information
 
- > [!IMPORTANT]
-> It's impossible to change the country or region for your subscription. Instead, sign up for a new Office 365 account, and enter the desired country. 
-  
-Why is it impossible to change this information? Because the country or region where your company is headquartered determines which services are available to you, the taxes and billing currency, and the location of the data center.
-  
-To other change information on your company's profile page:
-  
-1. Go to the [![Go to the Office 365 admin center](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+> [!IMPORTANT]
+> You can't change the country or region for your subscription. That's because the country or region where your organization is headquartered determines which services are available to you, the taxes and billing currency, and the location of the data center. To change your organization's country or region, sign up for a new account, choose the desired country or region, and purchase a new subscription.
 
-2. Select your organization's name in the top right corner of the page.<br/>![Select your business](../media/f9a9072e-bbed-47fa-9abc-aef58d77f6f1.png)
+To change other information on your company's profile page:
   
-3. Choose **Edit** beside your organization's name. 
-    
+1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2067339" target="_blank">Organization profile</a> page, or choose your organization's name at the top of the page.
+
+3. Choose **Edit** beside your organization's name.
+
 4. Update your organization's information and choose **Save**.
-    
-    An explanation of each field is provided below.
-    
-## What do these fields mean?
 
+    An explanation of each field is provided below.
+
+## What do these fields mean?
 
 |**Field**  |**Description**  |
 |---------|---------|
@@ -65,21 +60,19 @@ To other change information on your company's profile page:
 |Phone  <br/>     | This is the primary number for your company. It's usually the number of your company headquarters.  <br/>        |
 |Technical contact  <br/> |This is the email address for the primary technical person who administers your Office 365 subscription. This is the person who will receive communications about Office 365 service status.  <br/> |
 |Preferred language  <br/> |The preferred language determines the language for all communications that are sent from Microsoft to your organization. When you sign up, this setting determines the language used by SharePoint Online, which your users see on your team site. If you change the language preference setting after you sign up, all future communications are sent in the most recent language selected.  <br/> NOTE: The language used by SharePoint Online can't be changed.           |
-   
+
 ## Change your profile and email signature
 
 ### Admin info
   
-If you're an admin and want to change your alternate email address for resetting passwords or business email address, go to **Settings**![Settings](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) and choose **Office 365** under Your app settings. 
-    
+If you're an admin and want to change your alternate email address for resetting passwords or business email address, go to **Settings**![Settings](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) and under **Your app settings**, choose **Office 365**.
+
 ### User info
   
 If you're a user and want to change your individual language preference, go to **Settings** ![Settings](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **Office 365 settings**.
-    
+
 For more information, see [Change your contact preferences](change-contact-preferences.md) or [Change your display language](https://support.office.com/article/6f238bff-5252-441e-b32b-655d5d85d15b.aspx).
   
 ### Email signatures
   
 You can change your email signature in Outlook Web App. For more information, see [Mail settings](https://support.office.com/article/30c69a79-efc6-42d2-b740-4bf1c1f8a01c.aspx).
-    
-

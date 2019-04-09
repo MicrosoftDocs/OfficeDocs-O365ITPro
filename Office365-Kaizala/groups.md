@@ -3,7 +3,7 @@ title: Kaizala groups
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 2/11/2019
+ms.date: 2/21/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -20,45 +20,45 @@ description: Learn how to send instant messages, pictures, and documents to grou
 
 # Kaizala groups
 
-With Microsoft Kaizala, you can send instant messages, pictures, and documents to other Kaizala users. You can also create Kaizala Actions, like polls and surveys, and send them to an individual user or a group. You can create Kaizala groups and add users to them individually or in bulk. The groups can be created either both from the mobile app and the Kaizala management portal. However, bulk creation and management capabilities are only available through the Kaizala management portal.
+You can create Kaizala groups from the mobile app and the management portal. You can add members to groups one at a time, or through a bulk upload. Keep in mind, bulk uploads are only possible through the Kaizala management portal.
   
 For information about how to add users to Kaizala groups, see [Kaizala users](users.md). 
   
 ## Kaizala groups
 
-There are two type of Kaizala groups:
+There are two types of Kaizala groups:
   
 ![Kaizala organization groups view](media/c05e9bd2-05cb-4178-a44a-053e01db36bc.png)
   
-- **Organization groups** - These groups belong to your organization and are created by using the Kaizala management portal. A group admin can link a Kaizala group, created through the mobile app, to an organization through the **Settings** page, or from the **Private Groups** tab. Kaizala group admins can only manage the groups for which they are admins. Conversely, Office 365 global admins have access and the ability to manage all organization groups, even those for which they aren't members.
+- **Organization groups** belong to your organization and are created in the Kaizala management portal. A group admin can link a Kaizala group, created through the mobile app, to an organization through the **Settings** page, or from the **Private Groups** tab. As the name implies, public group admins only oversee specific public groups. Conversely, Office 365 global admins can manage all organization groups, even those for which they aren't members.
     
-- **Private groups** - These are the groups that aren't linked to any organization and are created by using the mobile app. Kaizala private groups can't be managed via the Kaizala management portal. Only Kaizala group members and Kaizala group admins can view or manage private groups. To be able to manage these groups, the Kaizala group admin has to link them to an organization group. 
+- **Private groups** aren't linked to any organization and are created in the mobile app. They can't be managed via the Kaizala management portal. Only Kaizala group members and admins can view or manage private groups. To manage these groups, the Kaizala group admin must link them to an organization group. 
     
 ## Create Kaizala groups
 
-Follow the steps to create a new Kaizala group.
+Follow these steps to create a new Kaizala group.
   
 1. On the Kaizala management portal, from the left navigation bar, choose **Groups**. Select **Create Group**, enter the group name, and then click or tap **Create**. 
     
     ![Enter the name to create a new Kaizala group](media/f913453e-6a66-45bd-a51c-114ebf5be0d7.png)
   
-2. On the **Users** tab, make sure the phone numbers are from the correct region. Enter a phone number in the text box for every user you want to add to this Kaizala group. You can also enter a list of comma-separated phone numbers. Finally, click or tap **Add users**. For example, to add three users, enter: **99885544, 99885543, 99885542**. 
+2. On the **Users** tab, make sure the phone numbers are from the correct region. Enter a phone number in the box for each user. You can also enter a list of comma-separated phone numbers. For example, to add three users, enter: **99885544, 99885543, 99885542**. Finally, click or tap **Add users**. 
     
     ![Add users to Kaizala groups](media/d71f75ba-24bb-443c-8cfe-f46a4c95d9b3.png)
   
-Once you've added users to Kaizala groups, you can start sending surveys, polls, and other actions by using the mobile app. For more information, see [Kaizala Actions](actions.md). 
+Once you've added users to Kaizala groups, you can start sending surveys, polls, and other actions in the mobile app. For more information, see [Kaizala Actions](actions.md). 
   
 ## Add multiple user phone numbers to a Kaizala group
 
-If you want to add several users without using the comma separated list, you can do so using **Bulk upload**. There are two types of group mapping: 
+**Bulk upload** lets you add several users at once without creating a comma-separated list. There are two types of group mapping:
   
-- **User Group Mapping** - Use this CSV template file to enter the group name, users' phone numbers, and user type. You can add multiple groups at a time. The CSV template file contains relevant instructions and examples. Read the instructions carefully before filling and uploading the file. This file is mandatory and must be uploaded before proceeding to the next step. 
+- **User Group Mapping** - Use this CSV template to enter the group name, users' phone numbers and user type. You can add multiple groups at a time. The CSV template contains relevant instructions and examples. Read the instructions carefully before filling out the file. 
     
-- **Parent Group Mapping** - Use this CSV template file to define the group hierarchy. Parent and child group name can be provided in the list to set up the groups to fit the required organization structure. This file is optional. The groups, for which the child group name doesn't exist in the template CSV file, are ignored in the parent group mapping file. 
+- **Parent Group Mapping** - Use this CSV template to define the group hierarchy. Parent and child group names can mirror your company’s structure. This file is optional. The groups, for which the child group name doesn't exist in the template, are ignored in the parent group mapping file. 
     
    ![Bulk add users to Kaizala](media/8f4f5b63-ae6e-4aac-959f-a9022612a058.png)
   
-You can add multiple groups and users at once from an Excel spreadsheet or other file saved in CSV format. [Add several users at the same time to Office 365 - Admin Help](https://support.office.com/article/1f5767ed-e717-4f24-969c-6ea9d412ca88#__toc316652088)
+You can add multiple groups and users at once from an Excel spreadsheet or other file saved in CSV format. For more information, see [Add several users at the same time to Office 365 - Admin Help](https://support.office.com/article/1f5767ed-e717-4f24-969c-6ea9d412ca88#__toc316652088).
   
 1. Click or tap **Groups**, and then click or tap **Bulk Upload Users**. 
     

@@ -3,7 +3,6 @@ title: "Change nameservers to set up Office 365 with Register365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -29,7 +28,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 1f97c190-2d14-440a-acc3-a21bfbe9c120
-
 description: "Learn to set up your Office 365 custom domain with Register365 if you want Office 365 to manage your DNS records. "
 ---
 
@@ -87,7 +85,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
-    ![Domain name selected in Office 365 Admin Center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
 3. On the **Setup** page, choose **Start setup**.
     
