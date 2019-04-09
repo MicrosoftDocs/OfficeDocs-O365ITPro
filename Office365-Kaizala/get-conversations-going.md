@@ -27,9 +27,9 @@ Use Microsoft Kaizala to “secure chat” and enable your organization to conne
 
 To engage your workforce and value chain, set up company connect groups:
 
-- Move your existing groups to Kaizala
-- Create work groups to meaningfully connect your organization
-- Invite others to chat securely
+- [Move your existing groups to Kaizala](#move-your-existing-groups-to-kaizala)
+- [Create work groups to meaningfully connect your organization](#create-work-groups-to-meaningfully-connect-your-organization)
+- [Invite others to chat securely](#invite-others-to-chat-securely)
 
 ## Move your existing groups to Kaizala
 
@@ -86,10 +86,23 @@ You can connect users across your organization in two easy steps.
 
 ### Step 1 – Create groups (bulk upload users from management portal)
 
+1. On the Kaizala management portal, from the left navigation bar, select **Groups**.
+2. Select **Create Group**, enter the group name, and then click or tap **Create**.
 
+   ![Screenshot of Create Group window](media/create-group.png)
 
+#### If number of users to be added are few 
+
+The operation can be done manually on the Kaizala management portal using the **Users** tab.
+
+1. On the **Users** tab, make sure the phone numbers are from the correct region.
+2. Enter a phone number in the text box for every user you want to add to this Kaizala group. You can also enter a list of comma-separated phone numbers.
+3. Finally, click or tap **Add users**. For example, to add three users, enter: 99885544, 99885543, 99885542.
+
+   ![Screenshot of Add Users window](media/add-users.png)
 
 ### Step 2 – Onboard group admins/champs who will drive and curate group
+
 
 
 ## Invite others to chat securely
