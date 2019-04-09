@@ -25,14 +25,14 @@ With Microsoft Kaizala you can bring your unconnected workforce and partners int
 
 First, to get the organization’s directory in place, you will need to:
 
-- **Create the company phonebook** - With Kaizala you can digitize your company’s entire phone directory with phone numbers and key attributes about all your employees and value chain networks. Also, empower each employee to be able to search and connect with anyone within your organization.
-- **Invite people to install Kaizala** - Evangelize Kaizala in your organization to positively influence people to install Kaizala.
+- **Create the company phonebook** – With Kaizala you can digitize your company’s entire phone directory with phone numbers and key attributes about all your employees and value chain networks. Also, empower each employee to be able to search and connect with anyone within your organization.
+- **Invite people to install Kaizala** – Evangelize Kaizala in your organization to positively influence people to install Kaizala.
 
 ## Create the company phonebook
 
 Add users your organization's Kaizala phonebook. These users can be employees, vendors, suppliers, or partners across the value chain. There is no need for these users to have an organization email ID. 
 
-Create the company phonebook with Kaizala in two easy steps:
+You can create the company phonebook with Kaizala in two easy steps:
 
 ### Step 1 – Collect phone numbers & user info
 
@@ -45,21 +45,22 @@ Create the company phonebook with Kaizala in two easy steps:
 2. Select **Add users in Bulk**.
 3. Select **Add users to Phonebook**.
 4. Download the User upload CSV template. Prepare the template with details of the users (phone number and user attributes) to upload to Kaizala phonebook.
-   - **User CSV** - Use this CSV template file to enter the users' phone numbers, and user details. The CSV template file contains relevant instructions and examples. Read the instructions carefully before filling and uploading the file. This file is mandatory and must be uploaded before proceeding to the next step.
+   - **User CSV** – Use this CSV template file to enter the users' phone numbers, and user details. The CSV template file contains relevant instructions and examples. Read the instructions carefully before filling and uploading the file. This file is mandatory and must be uploaded before proceeding to the next step.
+
    ![Screenshot of Import Multiple Users window](media/import-multiple-users.png)
 5. Upload the prepared CSV file, and select **Upload**.
 6. Your users are now uploaded. 
 
 ## Invite people to install Kaizala
 
-Invite people to install Kaizala in three easy steps:
+You can invite people to install Kaizala in three easy steps:
 
-## Step 1 – Send SMS invites for installing Kaizala
+### Step 1 – Send SMS invites for installing Kaizala
 
 - You can quickly send an invite to any contact that's not using Kaizala.
 - Click or tap **Invite** to send a text message to invite any contact to install Kaizala.
 
-## Step 2 – Communicate through existing digital channels
+### Step 2 – Communicate through existing digital channels
 
 - Now that the company phonebook has been formed in Kaizala, it’s time to invite everyone to install Kaizala.
 - Awareness and motivation to move to Kaizala can both be created using digital channels, such as:
@@ -69,7 +70,7 @@ Invite people to install Kaizala in three easy steps:
 - Start with sending out Kaizala posters to help your employees learn what is Kaizala, and why they should install it.
 - Here are some resources for you to consider. LINK TO RESOURCES
 
-## Step 3 – Create buzz through on ground activities
+### Step 3 – Create buzz through on ground activities
 
 - While initiatives on digital channels are great for driving awareness and imparting how to knowledge on Kaizala, on-the-ground activities can be especially important for driving a buzz at the workplace that positively influences the workforce to adopt Kaizala.
 - Here is a list of on-the-ground initiatives to create a positive buzz for Kaizala at your organization: 
@@ -78,4 +79,4 @@ Invite people to install Kaizala in three easy steps:
   - Kaizala activations desk – download here 
 - Here are some additional resources for you to consider. LINK TO RESOURCES
 
-With the organization’s directory in place, now get the conversations going.
+With the organization’s directory in place, now [get the conversations going](get-conversations-going.md).
