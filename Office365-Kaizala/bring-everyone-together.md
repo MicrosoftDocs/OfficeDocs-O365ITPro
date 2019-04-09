@@ -26,13 +26,13 @@ With Microsoft Kaizala you can bring your unconnected workforce and partners int
 First, to get the organization’s directory in place, you will need to:
 
 - [Create the company phonebook](#create-the-company-phonebook) – With Kaizala you can digitize your company’s entire phone directory with phone numbers and key attributes about all your employees and value chain networks. Also, empower each employee to be able to search and connect with anyone within your organization.
-- **Invite people to install Kaizala** – Evangelize Kaizala in your organization to positively influence people to install Kaizala.
+- [Invite people to install Kaizala](#invite-people-to-install-kaizala) – Evangelize Kaizala in your organization to positively influence people to install Kaizala.
 
 ## Create the company phonebook
 
 Add users your organization's Kaizala phonebook. These users can be employees, vendors, suppliers, or partners across the value chain. There is no need for these users to have an organization email ID. 
 
-You can create the company phonebook with Kaizala in two easy steps:
+You can create the company phonebook with Kaizala in two easy steps.
 
 ### Step 1 – Collect phone numbers and user info
 
