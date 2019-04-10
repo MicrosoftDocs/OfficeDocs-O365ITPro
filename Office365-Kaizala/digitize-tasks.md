@@ -30,9 +30,9 @@ Kaizala forms and surveys are a great way to efficiently collect data from your 
 
 Get rid of pen and paper and go digital:
 
-- Get work done with Kaizala Actions
-- Get your workforce up to speed on Kaizala Actions
-- Create your own Kaizala Actions 
+- [Get work done with Kaizala Actions](#get-work-done-with-kaizala-actions)
+- [Get your workforce up to speed on Kaizala Actions](#get-your-workforce-up-to-speed-on-kaizala-actions)
+- [Create your own Kaizala Actions](#create-your-own-kaizala-actions)
 
 ## Get work done with Kaizala Actions
 
