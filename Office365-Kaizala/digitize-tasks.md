@@ -47,7 +47,7 @@ Get work done in three easy steps.
 Use the following steps to quickly create a survey to collect data from your workforce in the field. 
 
 1. In the group conversation, in the chat box at the bottom of the page, tap the paperclip icon.
-2. Select the survey option, and then proceed to enter the survey details such as title.
+2. Select the **Survey** option, and then proceed to enter the survey details such as title.
 3. Use the **Add a question** button to enter questions for your feedback form.
 
    ![Screenshot of creating a question in a survey](media/survey-enter-question.png)
@@ -56,7 +56,7 @@ Use the following steps to quickly create a survey to collect data from your wor
    
    ![Screenshot of the response types available in a survey](media/survey-response-type.png)
 
-   Finally, pick your survey options sucha as expiry and result visibility.
+   Finally, pick your survey options such as expiry and result visibility.
 
    ![Screenshot of the options available in a survey](media/survey-options.png)
 
@@ -67,15 +67,37 @@ Use the following steps to quickly create a survey to collect data from your wor
 5. The Survey action card can be used for several scenarios where data from mobile or remote workforce needs to be collected and reported on. Some examples are collecting sales data from field agents, conducting remote audits, and conducting a status check on operations. 
 6. Detailed reporting on all surveys sent out to your employees (organization) suppliers and partners (value chain) can be viewed on the Kaizala management portal under the **Analytics** section > **Surveys** tab. 
 
-   ![Screenshot of survey reporting in the Kaizala management portal](media/portal analytics.png)
+   ![Screenshot of survey reporting in the Kaizala management portal](media/portal-analytics.png)
 
 ### Step 2 – Send a poll to collect user preferences
 
+Use the following steps to quickly create a survey to collect data from your workforce in the field.
+ 
+1. In the group conversation, in the chat box at the bottom of the page, tap the paperclip icon.
+2. Select the **Quick Poll** option, and then proceed to enter the poll details such as questions and answer choices.
 
+   ![Screenshot of creating a question in a quick poll](media/poll-enter-question.png)
+
+3. Employees tap to respond to the poll.
+
+   ![Screenshot of an employee quick poll](media/poll-respond.png)
+
+4. Detailed reporting on all surveys sent out to your employees (organization) suppliers and partners (value chain) can be viewed on the Kaizala management portal under the **Analytics** section > **Surveys** tab. 
 
 ### Step 3 – Send a job and effectively manage tasks
 
+Use the following steps to quickly create a survey to collect data from your workforce in the field. 
 
+1. In the group conversation, in the chat box at the bottom of the page, tap the paperclip icon.
+2. Select the **Job** option, and then proceed to enter the job details such as job description and due date.
+
+   ![Screenshot of a job form](media/job-form.png)
+
+3. Employees tap to respond to the poll.
+
+   ![Screenshot of how an employee can update job status](media/job-status.png)
+
+4. Detailed reporting on all surveys sent out to your employees (organization) suppliers and partners (value chain) can be viewed on the Kaizala management portal under the **Analytics** section > **Surveys** tab. 
 
 ## Get your workforce up to speed on Kaizala Actions
 
