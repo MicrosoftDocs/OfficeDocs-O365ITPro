@@ -135,7 +135,8 @@ Add the SIP SRV record for Skype for Business Online web conferencing.  <br/>
 -  On the DNS Manager page for your domain, go to **Action** \> **Other New Records**. 
 -   In the **Resource Record Type** window, choose **Service Location (SRV)**, and then click **Create Record**. 
 -   In the **New Resource Record** dialog box, make sure that the fields are set to precisely the following values:  
-    -  Service: _sipProtocol: _tls
+    -  Service: _sip
+    -  Protocol: _tls
     -  Priority: 100
     -  Weight: 1
     -  Port: 443Target (Hostname): sipdir.online.lync.com
@@ -147,7 +148,8 @@ Add the SIP SRV record for Skype for Business Online federation.
 -  In the **Resource Record Type** window, choose **Service Location (SRV)**, and then click **Create Record**. 
 -   In the **New Resource Record** dialog box, make sure that the fields are set to precisely the following values:  
     -  Service: _sipfederationtls
-    -  Protocol: _tcpPriority: 100
+    -  Protocol: _tcp
+    -  Priority: 100
     -  Weight: 1
     -  Port: 5061
     -  Target (Hostname): sipfed.online.lync.com
