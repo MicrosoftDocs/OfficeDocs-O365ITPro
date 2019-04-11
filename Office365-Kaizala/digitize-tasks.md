@@ -38,7 +38,7 @@ Get rid of pen and paper and go digital:
 
 Kaizala makes it easy to connect and coordinate with your field workers, wherever they are. Efficiently manage work or collect data from individuals or large groups, even if they’re not in your organization.
 
-(VIDEO)
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2JDVf] 
 
 Get work done in three easy steps.
 
@@ -149,7 +149,7 @@ To create a new Kaizala Action:
    - Request for user's location as part of the response.
 5. Do relevant customizations on Response View, Immersive View, and Chat view.
 6. After you are done, click or tap **Submit**. Users will now be able to see the detail page of the new action. At this moment, the action is in draft state.
-7. You need to publish the action. Read [details on the publishing process](https://docs.microsoft.com/kaizala/actions/publish#steps-to-publish-an-action).
+7. You need to publish the action. Learn about [the publishing process](https://docs.microsoft.com/kaizala/actions/publish#steps-to-publish-an-action).
 
 ### Step 2 – Add Kaizala Action to a group
 
