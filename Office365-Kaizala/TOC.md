@@ -2,6 +2,11 @@
   
 
 # [Microsoft Kaizala](kaizala-overview.md)
+## [Get started](get-started-kaizala.md)
+### [Bring everyone together](bring-everyone-together.md)
+### [Get conversations going](get-conversations-going.md)
+### [Connect your value chain](connect-value-chain.md)
+### [Digitize everyday tasks](digitize-tasks.md)
 ## [Kaizala app](kaizala-app.md)
 ### [Kaizala mobile app](kaizala-mobile-app.md)
 ### [Chat history](chat-history.md)
