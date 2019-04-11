@@ -109,8 +109,8 @@ Use the following step to quickly get your workforce up to speed on Kaizala Acti
 
 Send out information materials about Kaizala actions on Kaizala and other communication channels like email using the following resources:
 
-- Posters and infographics – (LINK HERE)
-- Email templates  – (LINK HERE) 
+- Posters and infographics – (**NEED LINK HERE**)
+- Email templates  – (**NEED LINK HERE**) 
 
 ## Create your own Kaizala Actions 
 
