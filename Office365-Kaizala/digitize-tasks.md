@@ -38,10 +38,26 @@ Get rid of pen and paper and go digital:
 
 Kaizala makes it easy to connect and coordinate with your field workers, wherever they are. Efficiently manage work or collect data from individuals or large groups, even if they’re not in your organization.
 
+(VIDEO)
+
 Get work done in three easy steps.
 
 ### Step 1 – Send a survey to collect data from the field
 
+Use the following steps to quickly create a survey to collect data from your workforce in the field. 
+
+1. In the group conversation, in the chat box at the bottom of the page, tap the paperclip icon.
+2. Select the survey option, and then proceed to enter the survey details such as title.
+3. Use the **Add a question** button to enter questions for your feedback form.
+
+   ![Screenshot of Create Group window](media/create-group.png)
+
+   Kaizala allows you to enter question responses as multiple choice, drop-down selection, free text, image, numeric, phone number, and date options.
+   
+   Finally, pick your survey options sucha as expiry and result visibility.
+4. Once the questions required to be included in the feedback form are included, go ahead and share the survey with the group. Admins can track how many people have answered the feedback by clicking on the survey card in the chat window. 
+5. The Survey action card can be used for several scenarios where data from mobile or remote workforce needs to be collected and reported on. Some examples are collecting sales data from field agents, conducting remote audits, and conducting a status check on operations. 
+6. Detailed reporting on all surveys sent out to your employees (organization) suppliers and partners (value chain) can be viewed on the Kaizala management portal under the **Analytics** section > **Surveys** tab. 
 
 ### Step 2 – Send a poll to collect user preferences
 
