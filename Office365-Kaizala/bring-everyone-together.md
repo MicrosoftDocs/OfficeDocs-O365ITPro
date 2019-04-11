@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 04/09/2019
+ms.date: 04/10/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -48,12 +48,13 @@ You can create the company phonebook with Kaizala in two easy steps.
    - **User CSV** – Use this CSV template file to enter the users' phone numbers, and user details. The CSV template file contains relevant instructions and examples. Read the instructions carefully before filling and uploading the file. This file is mandatory and must be uploaded before proceeding to the next step.
 
      ![Screenshot of Import Multiple Users window](media/import-multiple-users.png)
+
 5. Upload the prepared CSV file, and select **Upload**.
 6. Your users are now uploaded. 
 
 ## Invite people to install Kaizala
 
-You can invite people to install Kaizala in three easy steps:
+You can invite people to install Kaizala in three easy steps.
 
 ### Step 1 – Send SMS invites for installing Kaizala
 
@@ -68,15 +69,15 @@ You can invite people to install Kaizala in three easy steps:
   - Company intranet
   - Company emails 
 - Start with sending out Kaizala posters to help your employees learn what is Kaizala, and why they should install it.
-- Here are some resources for you to consider. LINK TO RESOURCES
+- Here are some resources for you to consider. (**NEED LINK HERE**)
 
 ### Step 3 – Create buzz through on-the-ground activities
 
 - While initiatives on digital channels are great for driving awareness and imparting how to knowledge on Kaizala, on-the-ground activities can be especially important for driving a buzz at the workplace that positively influences the workforce to adopt Kaizala.
 - Here is a list of on-the-ground initiatives to create a positive buzz for Kaizala at your organization: 
-  - Kaizala posters – download here
-  - Kaizala rolling Visuals for lobbies and receptions – download here
-  - Kaizala activations desk – download here 
-- Here are some additional resources for you to consider. LINK TO RESOURCES
+  - Kaizala posters – download here. (**NEED LINK HERE**)
+  - Kaizala rolling Visuals for lobbies and receptions – download here. (**NEED LINK HERE**)
+  - Kaizala activations desk – download here. (**NEED LINK HERE**)
+- Here are some additional resources for you to consider. (**NEED LINK HERE**)
 
 With the organization’s directory in place, now [get the conversations going](get-conversations-going.md).

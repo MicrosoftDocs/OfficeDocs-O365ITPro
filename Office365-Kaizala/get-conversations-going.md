@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 04/09/2019
+ms.date: 04/10/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -43,6 +43,8 @@ You can move conversations to Kaizala in three easy steps.
 2. Enter a name for your group, and then tap **Next**.
 3. Tap **Done** to create your group.
 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2LbYp] 
+
 > [!TIP]
 > Personalize your groups by using your group photographs for group icon.
 
@@ -53,11 +55,13 @@ You can move conversations to Kaizala in three easy steps.
 3. On the **Group Info** page, tap **Invite People**.
 4. Tap **Share** to send the link to existing groups on consumer messaging apps.
 
+   ![Screenshot of invitation to a group](media/invite-people.png)
+
 > [!NOTE]
 > Anyone who receives the link can join the group. 
 
 > [!TIP]
-> Share these posters and training materials in the consumer messaging apps groups to educate users about this change and accelerate adoption.
+> Share these posters and training materials (**NEED LINK HERE**) in the consumer messaging apps groups to educate users about this change and accelerate adoption.
 
 ### Step 3 – Map your group to the organization 
 
@@ -72,8 +76,8 @@ You’ll need to link this group to your organization to ensure data security an
 
 **Resources**
 
-- Template posters for sharing to consumer app groups
-- Template posters for Office 365 app sign in and group org mapping
+- Template posters for sharing to consumer app groups (**NEED LINK HERE**)
+- Template posters for Office 365 app sign in and group org mapping (**NEED LINK HERE**)
 
 ## Create work groups to meaningfully connect your organization
 
@@ -153,16 +157,16 @@ Now that your existing groups have been migrated to Kaizala, and groups have bee
   - Company intranet
   - Company email
 - Start with sending out Kaizala posters to help your employees learn what is Kaizala, and why they should move their work chats to it. 
-- Here are some resources for you to consider. LINK TO RESOURCES
+- Here are some resources for you to consider. (**NEED LINK HERE**)
 
 ### Step 2 – Create buzz through on-the-ground activities
 
 While initiatives on digital channels are great for driving awareness and imparting how to knowledge on Kaizala, on-the-ground activities can be especially important for driving a buzz at the workplace that positively influences the workforce to adopt Kaizala.
 
 - Create a positive buzz for Kaizala at your organization by using these on-the-ground initiatives: 
-  - Kaizala posters – download here
-  - Kaizala rolling Visuals for lobbies and receptions – download here
-  - Kaizala activations desk – download here. 
-- Here are some resources for you to consider. LINK TO RESOURCES
+  - Kaizala posters – download here. (**NEED LINK HERE**)
+  - Kaizala rolling Visuals for lobbies and receptions – download here. (**NEED LINK HERE**)
+  - Kaizala activations desk – download here. (**NEED LINK HERE**)
+- Here are some resources for you to consider. (**NEED LINK HERE**)
 
 With the conversations about Kaizala going, now [connect your value chain](connect-value-chain.md).

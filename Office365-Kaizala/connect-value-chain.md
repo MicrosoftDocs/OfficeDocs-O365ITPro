@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 04/10/2019
+ms.date: 04/12/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -99,7 +99,7 @@ Key responsibilities of the group admin or champ are:
 
 Your corporate communications team or senior team members are most likely to fit these roles.
 
-Here are some guidelines for admins or champs.
+Here are some guidelines for admins or champs. (**NEED LINK HERE**)
 
 > [!TIP]
 > Set up RSS feeds for drawing in organization related content from across channels such as social media, websites, and blogs, to have them show up in the group automatically. Follow [these steps here](https://docs.microsoft.com/kaizala/businesssolutions/corporatecommunications/getrssfeedsonkaizala/displayrssfeedsinkaizalagroups).
@@ -183,6 +183,19 @@ To collect feedback, you can design a custom Kaizala Action through the Action D
 3. Select the Feedback template for the new action. 
 4. Fill out feedback action card name and description, and the tap **Next**.
 5. Do relevant customizations on Response View, Immersive View, and Chat view. (Add questions and answer options and format.) 
+
+   **Example of Response View**
+
+   ![Screenshot of feedback card in response view](media/response-view.png)
+
+   **Example of Immersive View**
+
+   ![Screenshot of feedback card in immersive view](media/immersive-view.png)
+
+   **Example of Chat View**
+
+   ![Screenshot of feedback card in chat view](media/chat-view.png)
+
 6. After you are done, tap **Submit**. Users will now be able to see the details page of the new action. 
 7. At this moment, the action is in draft state.
 8. You need to publish the action. To publish an action:
@@ -203,8 +216,7 @@ This will allow the admins to perform various roles such as:
 
 Your corporate communications team or senior team members are most likely to fit these roles.
 
-Here are some guidelines for admins or champs.
-
+Here are some guidelines for admins or champs. (**NEED LINK HERE**)
 
 With the connect your value chain in place, now [digitize your everyday tasks](digitize-tasks.md).
 
