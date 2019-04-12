@@ -51,7 +51,7 @@ When a group is restored, the following content is restored:
 You can also [Permanently delete an Office 365 group](#permanently-delete-an-office-365-group) if you can't wait the 30 days for the retention period to expire for the content to be permanently deleted. 
 
 > [!NOTE]
-> The owner of the deleted Office 365 group also be able to restore the group. To restore an office 365 Group using owner permission without administrator permission, see [Restore an Office 365 Group using PowerShell](#restore-an-office-365-group-using-powershell).
+> The owner of the deleted Office 365 group is also able to restore the group. To restore an office 365 group using owner permission without administrator permission, see [Restore an Office 365 Group using PowerShell](#restore-an-office-365-group-using-powershell).
 
 ## Restore an Office 365 Group using the Exchange admin center
 
@@ -93,7 +93,7 @@ You must have Office 365 global administrator or Exchange administrator permissi
     
 ## Restore an Office 365 Group using PowerShell
 
-You must have Office 365 global administrator permissions, or need to be an owner of the deleted Office 365 Group.
+You must have Office 365 global administrator permission, or need to be an owner of the deleted Office 365 group.
 
 > [!IMPORTANT]
 > If you use Remove-MsolGroup in PowerShell to delete a group, this will delete the group permanently. When using PowerShell to delete groups, it's best practice to use **Remove-AzureADMSGroup** to soft-delete the Office 365 group. That way you can restore it if needed. 
