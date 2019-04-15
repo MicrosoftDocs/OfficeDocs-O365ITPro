@@ -31,4 +31,5 @@
 ### [Troubleshoot notifications](troubleshoot-notifications.md)
 ### [Export or delete a user's data](export-or-delete-a-user-s-data.md)
 ## [Kaizala for developers](https://docs.microsoft.com/kaizala/developer-platform)
+## [Feedback & support](https://docs.microsoft.com/en-us/kaizala/feedback)
 
