@@ -53,25 +53,23 @@ To save the content, here's what you do:
 1. Sign in to Office 365 with your work or school account. 
     
 2. Go to the [Microsoft 365 admin center](../admin-overview/about-the-admin-center.md).
-    
-3. Go to Active users and select the user.
-    
-4. Expand **OneDrive Settings** in the user details pane, and then click **Access files**.
-    
-5. Copy the files to your own OneDrive for Business or a common location.
-    
-    There are a few ways to copy files in Office 365. See [Video: Set up document storage and sharing in Office 365](https://support.office.com/article/6a41fb61-9c11-4adf-9b98-f7910fe1b0d2.aspx). Or, to sync your files, and then upload those files to your OneDrive for Business or your team site, see [Sync files with the new OneDrive sync client in Windows](https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49.aspx).
+
+3. Choose **User management** and on the **Active users** page select the user.
+
+4. Choose **OneDrive** and under **Get access to files**, click **Create link to files**.
+
+5. Click the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. You can also share the link with another user to download the files.
+
     > [!NOTE]
     > You can move up to 500 MB of files and folders at a time.
     > When you use Move to with documents that have version history, only the latest version is moved. To move earlier versions, you need to restore and move each one. 
     
 ## Part 2 - Get access to the Outlook information of the former employee
 
-
 To save the email messages, calendar, tasks, and contacts of the former employee, export the information to an Outlook Data File (.pst).
   
 1. [Add the former employee's email](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) to your Outlook (If you [reset the user's password](reset-passwords.md), you can set it to something only you know.)
-    
+
 2. In Outlook, choose **File**.
     
     ![This is what the ribbon looks like in Outlook 2016.](../media/d7f66ed3-9861-4521-b410-e86a58ab15a7.png)
