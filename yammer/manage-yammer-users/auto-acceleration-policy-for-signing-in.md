@@ -3,7 +3,7 @@ title: "Improve Office 365 sign-in for Yammer with auto-acceleration policy"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 3/19/2019
+ms.date: 4/15/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -28,7 +28,7 @@ To improve the Office 365 sign-in experience for Yammer, use the Auto-accelerati
 
 - You must be a global administrator in Office 365 to run the PowerShell commands.
     
-- Download and Install Azure Active Directory V2 PowerShell Module [(](https://www.powershellgallery.com/packages/AzureAD/2.0.2.16).
+- Download and Install the [Azure Active Directory V2 PowerShell Module](https://www.powershellgallery.com/packages/AzureAD/2.0.2.16).
     
 - Open administrative AAD Powershell and run following commands:
 
@@ -56,7 +56,7 @@ To improve the Office 365 sign-in experience for Yammer, use the Auto-accelerati
      connect-AzureAD [-tenantID | -tenantDomain] <tenant name>
      ```
 
-    ![Examnple sign-in using admin credentials.](../media/7f7c2ac7-b7dc-4ee1-b5c6-32b3c2ae6dc1.jpg)
+    ![Example sign-in using admin credentials.](../media/7f7c2ac7-b7dc-4ee1-b5c6-32b3c2ae6dc1.jpg)
   
 2. Check that no policy of the same name exists already.
     
