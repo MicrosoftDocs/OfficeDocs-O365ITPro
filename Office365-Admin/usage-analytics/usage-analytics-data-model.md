@@ -108,7 +108,7 @@ This table contains data about each user who had an activity in any of the servi
 |ODB_AccessOthers  <br/> |Number of files this user interacted with which reside on another user's OneDrive for Business.  <br/> |
 |SPO_GroupFileViewedModified  <br/> |Number of files with this user interacted on any group site.  <br/> |
 |SPO_GroupFileSynched  <br/> |Number of files this user synchronized on any group site.  <br/> |
-|SPO_GroupFileSharedInternally  <br/> |Number of files this user shared internally from any group site.  <br/> |
+|SPO_GroupFileSharedInternally  <br/> |The count of files that have been shared with users within the organization, or with users within groups (that might include external users).  <br/> |
 |SPO_GroupFileSharedExternally  <br/> |Number of files this user shared externally from any group site.  <br/> |
 |SPO_GroupAccessByOwner  <br/> |Number of files the user interacted with that reside on a group site that they own.  <br/> |
 |SPO_GroupAccessByOthers  <br/> |Number of files the user interacted with that reside on a group site that another user owns.  <br/> |
