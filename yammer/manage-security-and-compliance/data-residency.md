@@ -63,3 +63,5 @@ The following Yammer features are not available for Yammer networks in the EU Ge
 ## See also
 
 [Where is your Office 365 data located](https://go.microsoft.com/fwlink/?linkid=2083810)
+
+[How do I tell where my Yammer files are being stored?](https://support.office.com/article/how-do-i-tell-where-my-yammer-files-are-being-stored-fadfdefa-e00d-40b6-94cb-a9ddb171a443) 
