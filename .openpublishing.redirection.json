@@ -20,6 +20,17 @@
         "source_path": "office365/yammer/manage-security-and-compliance/data-residency-eu-geo.md",
         "redirect_url": "https://docs.microsoft.com/en-us/yammer/manage-security-and-compliance/data-residency",
         "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365/Admin/admin-overview/get-started-with-office-365.md",
+        "redirect_url": "https://support.office.com/en-us/article/set-up-your-small-business-6ab4bbcd-79cf-4000-a0bd-d42ce4d12816",
+                "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365/Admin/microsoft-365-admin-center-preview.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/Office365/Admin/whats-new-in-preview",
+                "redirect_document_id": true
       }
+      
   ]
 }
