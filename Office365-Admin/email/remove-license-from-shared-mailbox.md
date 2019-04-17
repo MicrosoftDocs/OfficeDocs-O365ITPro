@@ -54,8 +54,8 @@ Shared mailboxes don't need a license unless the mailbox has over 50GB of data. 
 
 ::: moniker-end 
 
-    > [!NOTE]
-    > You need to remove the license from the Active users page. You can't remove the license from the Shared mailbox page because licenses are user settings. 
+   > [!NOTE]
+   > You need to remove the license from the Active users page. You can't remove the license from the Shared mailbox page because licenses are user settings. 
   
 2. Choose the shared mailbox > **Manage product licenses**. 
     

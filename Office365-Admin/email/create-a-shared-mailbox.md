@@ -46,9 +46,11 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
 
 ::: moniker-end
   
+1. Sign in with an Office 365 global admin account or Exchange admin account. If you get the message "**You don't have permission to access this page or perform this action**" then you aren't an admin. 
+
 ::: moniker range="o365-worldwide"
 
-1. In the Microsoft 365 admin center, go to **Groups** \> [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://admin.microsoft.com/adminportal/home?ref=SharedMailbox).
+2. In the admin center, go to **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2066847" target="_blank">Shared mailbox</a>.
 
 ::: moniker-end 
 
@@ -63,10 +65,8 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
 1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
-
-2. Sign in with an Office 365 global admin account or Exchange admin account. If you get the message "**You don't have permission to access this page or perform this action**" then you aren't an admin. 
     
-3. On the **Add a mailbox** page, enter a name for the shared mailbox. Then the wizard chooses the email address, but you can edit it.
+3. On the **Shared mailboxes** page, choose **+ Add a mailbox**. Enter a name for the shared mailbox. Then the wizard chooses the email address, but you can edit it.
     
     ![Name your shared mailbox.](../media/e3035132-8986-4ec7-b7c0-f2752080d2c0.png)
   
@@ -138,11 +138,27 @@ You do not need to assign a license to the shared mailbox in order to forward em
  
 <!--There was previously a worldwide monikker for step 1, but nothing for Germany or 21Vianet. Is there a deep link to shared mailboxes for Germany or 21Vianet we can include?-->
  
-1. On the [![Go to shared mailboxes in the admin center](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://admin.microsoft.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
+::: moniker range="o365-worldwide"
 
-2. Choose **Email forwarding** \> **Edit**.
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2066847" target="_blank">Shared mailbox</a> page.
+
+::: moniker-end 
+
+::: moniker range="o365-germany"
+
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a> > **Groups** > **Shared mailbox**. 
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a> > **Groups** > **Shared mailbox**. 
+
+::: moniker-end
+
+2. Choose the shared mailbox you want to edit, then choose **Email forwarding** \> **Edit**.
     
-3. Set the toggle to **On**, and enter 1 email address to forward the messages to. It can be any valid email address. To forward to multiple addresses, you need to create a distribution list of the addresses, and then enter the name of the distribution list.
+3. Set the toggle to **On**, and enter 1 email address to forward the messages to. It can be any valid email address. To forward to multiple addresses, you need to [create a distribution list](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists?view=o365-worldwide) for the addresses, and then enter the name of the distribution list in this box.
     
 4. Choose **Save**.
     
@@ -150,9 +166,25 @@ You do not need to assign a license to the shared mailbox in order to forward em
 
 <!--There was previously a worldwide monikker for step 1, but nothing for Germany or 21Vianet. Is there a deep link to shared mailboxes for Germany or 21Vianet we can include?-->
 
-1. On the [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://admin.microsoft.com/adminportal/home?ref=SharedMailbox) page choose the shared mailbox you want to edit. 
+::: moniker range="o365-worldwide"
 
-2. Choose **Automatic replies** \> **Edit**.
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2066847" target="_blank">Shared mailbox</a> page.
+
+::: moniker-end 
+
+::: moniker range="o365-germany"
+
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a> > **Groups** > **Shared mailbox**. 
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a> > **Groups** > **Shared mailbox**. 
+
+::: moniker-end
+
+2. Choose the shared mailbox you want to edit, then choose **Automatic replies** \> **Edit**.
     
 3. Set the toggle to **On**, and choose whether to send the reply to people inside your organization or outside your organization.
     
@@ -218,8 +250,8 @@ This means if you try to use a security group to manage who has access to the sh
 Some customers do all their mailbox management in the Exchange admin center. Here are instructions for how to create shared mailboxes using that interface.
   
 To see what permissions you need to perform these steps, see the "User mailboxes" entry in [Recipients permissions](https://technet.microsoft.com/en-us/library/dd638132%28v=exchg.160%29.aspx).
-  
-1. In the Exchange admin center, go to **Recipients** \> **Shared** \> **Add**.
+
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a> > **Recipients** \> **Shared** \> **Add**.
     
 2. Fill-in the required fields:
     
@@ -236,9 +268,9 @@ To see what permissions you need to perform these steps, see the "User mailboxes
     
 ### Use the EAC to edit shared mailbox delegation
 
-1. Go to **Recipients** \> **Shared** \> **Edit**. 
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a> > **Recipients** \> **Shared** \> **Edit**. 
     
-2. Click **Mailbox delegation**
+2. Click **Mailbox delegation**.
     
 3. To grant or remove Full Access and Send As permissions, click **Add** or **Remove** and then select the users you want to grant permissions to. 
     
@@ -248,7 +280,7 @@ To see what permissions you need to perform these steps, see the "User mailboxes
 4. Click **Save** to save your changes. 
     
 ### Which permissions should you use?
-<a name="TypesOfPerms"> </a>
+
 
 - **Full Access** The Full Access permission lets a user sign in to the shared mailbox and act as the owner of that mailbox. While signed in, the user can create calendar items; read, view, delete, and change email messages; create tasks and calendar contacts. However, a user with Full Access permission can't send email from the shared mailbox unless they also have Send As or Send on Behalf permission. 
     
@@ -259,7 +291,7 @@ To see what permissions you need to perform these steps, see the "User mailboxes
 - **Send on Behalf** The Send on Behalf permission lets a user send email on behalf of the shared mailbox. For example, if John logs into the shared mailbox Reception Building 32 and sends an email, it look like the mail was sent by "John on behalf of Reception Building 32". You can't use the EAC to grant Send on Behalf permissions, you must use the [Set-Mailbox](https://technet.microsoft.com/en-us/library/bb123981%28v=exchg.160%29.aspx) cmdlet with the  *GrantSendonBehalf*  parameter. 
     
 ## Use the Exchange Management Shell to create a shared mailbox
-<a name="bkmk_EAC"> </a>
+
 
 Use the [New-Mailbox](https://technet.microsoft.com/en-us/library/aa997663%28v=exchg.160%29.aspx) PowerShell cmdlet to create shared mailboxes. To use this cmdlet, you need to connect to Exchange Online PowerShell. 
   
@@ -277,7 +309,6 @@ Add-MailboxPermission -Identity "Sales Department" -User MarketingSG -AccessRigh
 ```
 
 ## Should I create a shared mailbox or an Office 365 Group for Outlook?
-<a name="bkmk_EAC"> </a>
 
 See [Compare groups](../create-groups/compare-groups.md) for some guidance. 
   
