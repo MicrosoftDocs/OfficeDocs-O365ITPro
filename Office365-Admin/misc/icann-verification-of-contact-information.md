@@ -3,7 +3,6 @@ title: "ICANN Verification of Contact Information"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration

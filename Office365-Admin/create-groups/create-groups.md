@@ -42,13 +42,13 @@ Go to the [Microsoft 365 admin center.](https://admin.microsoft.com).
 
 ::: moniker range="o365-germany"
 
-Go to the [admin center](https://portal.office.de/adminportal/home).
+Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [admin center](https://login.partner.microsoftonline.cn).
+Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 

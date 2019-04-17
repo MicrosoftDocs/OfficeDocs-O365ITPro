@@ -20,7 +20,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: f493e3af-e1d8-4668-9211-230c245a0466
-
 description: "Learn how to set some individual user passwords to never expire, using Windows PowerShell."
 ---
 

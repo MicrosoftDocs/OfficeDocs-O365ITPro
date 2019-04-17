@@ -31,7 +31,7 @@ Admins can control whether to allow guest access to Groups for their whole organ
 
 ### View guest users
 
-1. Sign in with your Office 365 global admin account at [https://admin.microsoft.com/adminportal/home](https://admin.microsoft.com/adminportal/home#/homepage).
+1. Sign in with your Office 365 global admin account at [https://admin.microsoft.com/AdminPortal/Home#/homepage](https://admin.microsoft.com/AdminPortal/Home#/homepage#/homepage).
     
 2. Go to **Users** \> **Guest users**.
     
@@ -41,7 +41,7 @@ Admins can control whether to allow guest access to Groups for their whole organ
 
 If the guest already exists in your directory (see above) you can add them to your groups from the Office Admin Center or the Exchange Admin Center.
   
-1. Sign in with your Office 365 global admin account at [https://admin.microsoft.com/adminportal/home](https://admin.microsoft.com/adminportal/home#/homepage).
+1. Sign in with your Office 365 global admin account at [https://admin.microsoft.com/AdminPortal/Home#/homepage](https://admin.microsoft.com/AdminPortal/Home#/homepage#/homepage).
     
 2. Go to **Groups** \> **Groups**.
     

@@ -103,7 +103,7 @@ If you do not wish to see this every time you deploy, check the box before choos
 
 ![Centralized Deployment page for just me deployments](../media/centralizeddeploymentstep7.png)
 
-If you've deployed the add-in to members of your orgnisation other than yourself, follow the instructions displayed in order to effectively announce the deployment of the add-in. <br/>You now see your add-in along with other apps in Office 365.<br/>![Admin center deployed Add In](../media/centralizeddeploymentstep8.png)
+If you've deployed the add-in to members of your orgnization other than yourself, follow the instructions displayed in order to effectively announce the deployment of the add-in. <br/>You now see your add-in along with other apps in Office 365.<br/>![Admin center deployed Add In](../media/centralizeddeploymentstep8.png)
   
 It's a good idea to inform the users and groups who you deployed the add-in to so that they know that it's available. Consider sending an email to them that describes when and how to use the add-in and explains how the add-in can help them do their job better. Include or link to relevant Help content or FAQs that might help if users have any problems with the add-in.
   

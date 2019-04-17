@@ -28,7 +28,6 @@ search.appverid:
 - SPO160
 - BSA160
 ms.assetid: a91c958f-1279-499d-9959-12f0de08dc8f
-
 description: "Get the SharePoint activity usage report to know about the activity of every SharePoint user, the number of files shared, and the storage utilization."
 ---
 

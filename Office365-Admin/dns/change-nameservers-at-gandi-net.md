@@ -28,7 +28,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: e79106cd-5cd1-4d2b-8b60-e6378ec75b51
-
 description: "Learn how you can set up Office 365 to manage the DNS records of your custom domain at Gandi.net."
 ---
 

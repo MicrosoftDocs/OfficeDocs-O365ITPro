@@ -3,7 +3,6 @@ title: "Set up Outlook to read email"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:

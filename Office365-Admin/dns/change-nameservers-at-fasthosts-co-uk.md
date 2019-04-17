@@ -28,7 +28,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: fdf005a0-eb03-4eb1-aa77-5e9b5dfbe749
-
 description: "Learn how you can set up Office 365 to manage the DNS records of your custom domain at Fasthosts.co.uk."
 ---
 
