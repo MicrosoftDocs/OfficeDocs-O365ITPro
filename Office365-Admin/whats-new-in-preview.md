@@ -15,13 +15,12 @@ search.appverid:
 - MOE150
 - FRP150
 ms.assetid: 739574d7-2c5b-4911-a549-f56ecc7d3b48
-description: "Microsoft 365 admin center preview - learn about the features that were added this month."
+description: "Microsoft 365 admin center - learn about the features that were added this month."
 f1_keyword: MACDashWhatsNew
 ---
 
-# What's new in Microsoft 365 admin center preview
-We're continuously adding new features to the Microsoft 365 admin center preview, fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today.
-Want to know how to participate in the preview? Checkout [About the Microsoft 365 admin center preview](microsoft-365-admin-center-preview.md).
+# What's new in Microsoft 365 admin center
+We're continuously adding new features to the Microsoft 365 admin center, fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today.
   
 ## March 2019 - We've officially released the admin center!
 Well, if you missed the exciting news, we've officially release the new and improved Microsoft 365 admin center! Here's the blog post where we announced it: [The new Microsoft 365 admin center available today](https://techcommunity.microsoft.com/t5/Microsoft-365-Blog/The-new-Microsoft-365-admin-center-available-today/ba-p/377870). For March, we'll rely on the blog post for you to check out the features released - plus, you can also read the post for the features that are getting released in the near future, which we're not allowed to do in core content. 

@@ -3,7 +3,6 @@
 ### [Sign up for Office 365](admin-overview/sign-up-for-office-365.md)
 ### [Video training](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 
 ### [About the admin center](admin-overview/about-the-admin-center.md)
-### [Get started](admin-overview/get-started-with-office-365.md)
 ### [What subscription do I have?](admin-overview/what-subscription-do-i-have.md)
 ### [Learn about Office 365 Germany](admin-overview/learn-about-office-365-germany.md)
 ### [Admin Mobile App](admin-overview/admin-mobile-app.md)
