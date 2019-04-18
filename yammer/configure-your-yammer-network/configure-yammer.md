@@ -106,16 +106,16 @@ By default, users can attach GIFs provided by Tenor, a third-party, to posts.
 > [!NOTE]
 > The GIF search in Yammer defaults to Tenor's "young audience" and "strict" filters in order to keep GIFs appropriate in a school or work setting. If you see inappropriate GIFs in a search, send email to support@tenor.com with a link to the GIF.
 
-You can turn off this feature so that users do not see GIFs from Tenor. Note that disabling this feature may impact engagement.
+You can turn off this feature so that users do not see GIFs from Tenor. 
 
-- On the **Configuration** page, in the **Enabled Features** section, enable or disable **Show Tenor GIFs Search**.
+- On the **Configuration** page, in the **Enabled Features** section, enable or disable **Show Tenor GIFs Search**. 
 
 <a name="LinkMetadata"> </a>
 ## Control how links are displayed
 
 By default, when creating a message with a URL, Yammer will fetch content associated with third-party websites, including title, summary, images, and GIFs. Existing URLs that are cached remain until the cache expires. 
 
-You can turn off the display of this data for links. Note that disabling this feature may impact engagement. 
+You can turn off the display of this data for links. 
 
 - On the **Configuration** page, in the **Enabled Features** section, enable or disable **Fetch URL Content**.
 

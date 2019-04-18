@@ -17,7 +17,7 @@
         "redirect_document_id": true
       },
       {
-        "source_path": "office365/yammer/manage-security-and-compliance/data-residency-eu-geo.md",
+        "source_path": "yammer/manage-security-and-compliance/data-residency-eu-geo.md",
         "redirect_url": "https://docs.microsoft.com/en-us/yammer/manage-security-and-compliance/data-residency",
         "redirect_document_id": true
       },
@@ -30,6 +30,14 @@
         "source_path": "Office365/Admin/microsoft-365-admin-center-preview.md",
         "redirect_url": "https://docs.microsoft.com/en-us/Office365/Admin/whats-new-in-preview",
                 "redirect_document_id": true
+        "source_path": "yammer/integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker.md",
+        "redirect_url": "https://techcommunity.microsoft.com/t5/Yammer-Resources/Create-a-knowledge-based-community-in-Yammer-by-using-QnA-Maker/ta-p/393467",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "yammer/integrate-yammer-with-other-apps/sentiment-analysis-flow-azure.md",
+        "redirect_url": "https://techcommunity.microsoft.com/t5/Yammer-Resources/Identify-sentiment-of-comments-in-a-Yammer-group-by-using-Azure/ta-p/393398",
+        "redirect_document_id": true
       }
       
   ]

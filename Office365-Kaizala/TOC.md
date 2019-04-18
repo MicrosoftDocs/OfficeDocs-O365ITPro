@@ -20,6 +20,7 @@
 ### [Reports](reports.md)
 ### [Actions](actions.md)
 ### [Interop with Microsoft Teams](teams-interop.md)
+### [Invite users to install Kaizala through SMS](invite-users-to-install-and-register.md)
 ### [Back up and export organization data](backup-export-org-data.md)
 ### [Azure AD sync with Kaizala Directory](aad-sync-with-tul.md)
 ### [URLs and IP address ranges](urls-and-ip-address-ranges.md)
