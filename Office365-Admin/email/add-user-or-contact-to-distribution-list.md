@@ -32,27 +32,19 @@ As the admin of an Office 365 organization, you may need to add one of your user
   
 ## Add a user or contact to a distribution list
 
-1. Sign in to Office 365 with your work or school account. 
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
-2. Select the app launcher icon and choose **Admin**.
+2. On the Groups page, select the distribution list you want to add a contact to.
     
-    Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the apps available to you. From there, you can search for a specific app. 
-    
-3. Choose **Groups** in the left navigation pane. 
-    
-    ![See your new Office 365 groups in the admin center](../media/d434fa62-aff7-4d56-a0c2-2a49b95467a6.png)
-    
-4. On the Groups page, select the distribution list you want to add a contact to.
-    
-5. In the **Members** section, click **Edit**.
+3. In the **Members** section, click **Edit**.
     
     ![Add a contact to a distribution list](../media/429062d8-9dcf-4d98-af9c-6fff8a18b198.png)
   
-6. On the **View Members** page, click or tap **Add Members,** and select the **user or contact** you want to add to the distribution list. 
+4. On the **View Members** page, click or tap **Add Members,** and select the **user or contact** you want to add to the distribution list. 
     
     ![Add members to distribution list](../media/f79f59f8-1606-43fe-bae6-df74f5b6259d.png)
   
-7. Click **Save** and then **Close**.
+5. Click **Save** and then **Close**.
     
 If you haven't created the [contact](../misc/contacts.md) yet, do that first as shown in this video. 
 <br><br>
