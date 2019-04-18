@@ -92,10 +92,10 @@ You must have [admin permissions](../add-users/about-admin-roles.md) to do this.
   
 7. **When the user replies, the *From*  address will be her primary email alias.** For example, let's say a message is sent to Sales@NodPublishers.com, and it arrives in Eliza's inbox. When Eliza replies to the message, her primary email address will appear as the sender, not Sales@NodPublishers.com. 
     
-## Did you get "A parameter cannot be found that matches parameter name 'EmailAddresses"?
+## Did you get "A parameter cannot be found that matches parameter name EmailAddresses"?
 
 
-If you get the error message "**A parameter cannot be found that matches parameter name 'EmailAddresses**" it means that it's taking a bit longer to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the set up process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.
+If you get the error message "**A parameter cannot be found that matches parameter name EmailAddresses**" it means that it's taking a bit longer to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the set up process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.
   
 ## Did you purchase your subscription from GoDaddy or another Partner?
 
