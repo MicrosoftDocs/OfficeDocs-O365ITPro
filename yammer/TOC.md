@@ -54,7 +54,7 @@
 ### [Create a Yammer group](https://support.office.com/article/b407af4f-9a58-4b12-b43e-afbb1b07c889)
 ### [Manage a Yammer group](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2)
 ### [Delete a Yammer group](https://support.office.com/article/f03ab85a-c1d9-4611-ab92-a3b46d747053)
-### [Create a dynamic group](https://support.office.com/article/manage-yammer-groups/create-a-dynamic-group.md)
+### [Create a dynamic group](manage-yammer-groups/create-a-dynamic-group.md)
 ### [Office 365 groups naming policy](https://docs.microsoft.com/office365/admin/create-groups/groups-naming-policy)
 ### [Export members to CSV](https://support.office.com/article/201a78fd-67b8-42c3-9247-79e79f92b535)
 ### [Live events in Yammer](manage-yammer-groups/yammer-live-events.md)
