@@ -29,7 +29,10 @@ The user's Yammer language setting is taken from Office 365 when the user's Yamm
 
 As of March 2019, we are in process of transitioning how Yammer users are created. During the transition, which will occur during 2019, the process will be different for existing Office 365 users and new Office 365 users.
 
-- **Old way**: Yammer users are created when they use Yammer for the first time. 
+- **Pre-March 2019**: Yammer users are created when they use Yammer for the first time. 
+ 
+    > [!NOTE]
+    > During the rest of 2019, Office 365 users who have not yet used Yammer will be converted to "pending" Yammer users. 
 
     ![Diagram that shows when an Office 365 admin creates a user, the user can log on to Office 365 then navigate to Yammer from the App Launcher, at which point the user is created in Yammer.](../media/410ab6f2-e8ed-4b66-a8cf-f087b3e57ec3.png)
 
@@ -43,9 +46,7 @@ As of March 2019, we are in process of transitioning how Yammer users are create
     
     4. A new Yammer user is created for the Office 365 user. The user's profile properties and language setting from Azure Active Directory are automatically populated in the user's Yammer profile.
 
-    In this scenario, the Yammer user interface frequently prompts users to invite co-workers to Yammer.
-
-- **New way**: When **Enforce Office 365 identity** is selected in Yammer, as users are added to Office 365, they are automatically added as new pending users in Yammer. Their status changes from **Pending** to **Active** the first time they use Yammer.
+- **New way**: When **Enforce Office 365 identity** is selected in Yammer, as Yammer-eligible users are added to Office 365, they are automatically added as new pending users in Yammer. Their status changes from **Pending** to **Active** the first time they use Yammer.
 
     ![Diagram that shows new process for creating a Yammer user, where the new user is created automically as "pending" in Yammer](../media/yam_newuserprocess.jpg)
 
@@ -55,16 +56,14 @@ As of March 2019, we are in process of transitioning how Yammer users are create
     
     2. A pending user is created in Office 365. The first time the user uses Yammer, the pending user becomes an active user.
 
-    In this scenario, Yammer doesn't prompt the user to invite co-workers.
 
 - **During transition**: Different actions are taken for different user categories:
 
     |**Type of user**|**Yammer network configuration**|**Way that they are added**| 
     |:-----|:-----|:-----|
     |New users added to your Office 365 tenant|**Enforce Office 365 identity** selected|Users are automatically added as pending users in Yammer. 
-    | Existing users in your Office 365 tenant|**Enforce Office 365 identity** selected|Office 365 users must still use Yammer in order to be added as a Yammer user. During transition, you will still see prompts to invite users to your Yammer network.|
+    | Existing users in your Office 365 tenant|**Enforce Office 365 identity** selected|Office 365 users must still use Yammer in order to be added as a Yammer user. |
 
-    In this scenario, Yammer prompts users to invite co-workers.
     
 ## Block a user
 
@@ -119,7 +118,7 @@ The process follows these steps:
   
 ## Restore a user
 
-An administrator can also restore a user in Office 365, and the user will be reactivated in Yammer. The following diagram shows how this works:
+When an administrator restores a Yammer-eligible user in Office 365, the user will be reactivated in Yammer. The following diagram shows how this works:
   
 ![Diagram that shows when an Office 365 admin restores a user, the user is then activated again in Yammer.](../media/f2dbf5f2-ba25-419e-802c-ac89e0bdeb7f.png)
   
