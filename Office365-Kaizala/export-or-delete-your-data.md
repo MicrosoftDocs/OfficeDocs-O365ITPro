@@ -3,7 +3,7 @@ title: Export or delete your data in the Kaizala mobile app
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 8/21/2018
+ms.date: 4/21/2019
 ms.audience: Consumer/IW
 ms.topic: article
 ms.service: Kaizala
@@ -26,7 +26,7 @@ As a Kaizala user, you can export or delete your data from the Kaizala mobile ap
 
 Follow the steps mentioned below to export your data using the Kaizala mobile app:
   
-- From the Kaizala mobile app, go to **Me** \> **Settings** \> **Account Settings** \> **Download your Kaizala data**.
+- From the Kaizala mobile app, go to **Chats** \> **More** \> **Settings** \> **Account Settings** \> **Download your Kaizala data**.
     
 - Follow the steps to download your Kaizala data to an archive file. Once the file is ready, you'll get access to a link which will help you download the zip file containing multiple CSVs. The CSV files will contain your user data.
     
@@ -43,7 +43,7 @@ You can delete your Kaizala account and data from the Kaizala mobile app. When y
     
  **Follow the steps below to delete your Kaizala account and data.**
   
-- From the Kaizala mobile app, go to **Me** \> **Settings** \> **Account Settings** \> **Delete account**.
+- From the Kaizala mobile app, go to **Chats** \> **More** \> **Settings** \> **Account Settings** \> **Delete account**.
     
 - Follow the steps to delete your account on Kaizala.
     
