@@ -175,7 +175,7 @@ Follow the steps below.
    
 
   
-7. Repeat these step to add the CNAME record until you have created all six of the CNAME records.
+6. Repeat these steps to add the next CNAME record until you have created all six of the CNAME records.
     
 
   
