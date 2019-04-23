@@ -106,7 +106,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 ## Add an MX record so email for your domain will come to Office 365
 <a name="BKMK_add_MX"> </a>
 
-Follow the steps below 
+Follow the steps below.
   
 1. To get started, go to your domains page at GoDaddy by using [this link](https://account.godaddy.com/products/?go_redirect=disabled). You'll be prompted to log in.
     
