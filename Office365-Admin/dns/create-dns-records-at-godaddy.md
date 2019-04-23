@@ -68,7 +68,7 @@ Follow the steps below.
     
     ![GoDaddy-BP-Configure-1-4](https://user-images.githubusercontent.com/45987684/56527673-ffb3b300-651b-11e9-91c2-83dc9fe5ca30.PNG)
   
-4. Choose **TXT (Text)** from the drop-down list, In the boxes for the new record, type or copy and paste the values from the following table.
+4. Choose **TXT (Text)** from the drop-down list. In the boxes for the new record, type or copy and paste the values from the following table.
     
     |||||
     |:-----|:-----|:-----|:-----|
