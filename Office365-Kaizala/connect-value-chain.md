@@ -21,12 +21,12 @@ description: Learn how to enable and disable the chat history feature in Kaizala
 
 # Connect your value chain in Kaizala
 
-Microsoft Kaizala enables you to create company connect groups to establish a mobile communication channel with your entire mobile workforce, partners, and customers.
+Microsoft Kaizala lets you create groups to establish a mobile communication channel with your entire workforce, partners, and customers.
 
 You can use these groups to:
 
-- Share corporate communications on policy, initiatives, and announcements.
-- Conduct required workforce trainings and conduct surveys.
+- Raise awareness about corporate policies, initiatives, and announcements.
+- Conduct workforce trainings and surveys.
 - Collect feedback from employees, partners, and customers.
 
 Engage your workforce by creating a company connect hub with Kaizala: 
@@ -37,38 +37,38 @@ Engage your workforce by creating a company connect hub with Kaizala:
 
 ## Create company connect groups
 
-Setting up a company connect group essentially involves setting up a one-way communication channel between the organization and the workforce. This allows the organization to broadcast important announcements and updates and information with the workforce.
+Think of a “company connect group” as a one-way communication channel between the organization and workers. This allows the company to broadcast important information to the workforce.
 
-In Kaizala, a company connect can be set up by following these easy steps.
+In Kaizala, a company connect group can be set up by following these easy steps.
 
 ### Step 1 – Create a hub and spoke group
  
-A hub and spoke group in Kaizala is a unique group where members of the group can interact with the admin of the group on a one-to-one basis, but the interactions cannot be seen by other group members. 
+A hub and spoke group in Kaizala is a unique group where members can interact with the admin of the group on a one-to-one basis, but the interactions cannot be seen by other group members. 
 
 > [!NOTE]
-> Hub and spoke groups can only be created on the Kaizala management portal. 
+> You can only create hub and spoke groups through the Kaizala management portal. 
 
 Key characteristics of a hub and spoke group:
 
-- Admin can connect with any number of members and send and seek information.
-- Members cannot see each other or interact with each other.
-- Members can communicate with admins only through admin-defined custom cards such as giving feedback, share your requirement, and so on.
+- Admins can connect with any number of members.
+- Members cannot see or interact with each other.
+- Members can communicate with admins only through admin-defined custom cards such as giving feedback and sharing requirements.
 - Members can subscribe to a public group using a link.
-- Group can either be managed (group admins can view, manage, and invite subscribers) or public (subscribers can invite other subscribers; group admins cannot view or manage subscribers).
+- Groups can either be managed (group admins can view, manage and invite subscribers) or public (subscribers can invite other subscribers; group admins cannot view or manage subscribers).
 
 To create a hub and spoke group:
 
 1. On the Kaizala management portal, from the left navigation bar, choose **Groups**.
-2. Select **Create Group**, from the drop-down menu, select **Public Group**.
+2. Select **Create Group**, and from the drop-down menu, select **Public Group**.
 
    ![Screenshot of Create a public group window](media/create-public-group.png)
 
-3. Enter the group name, short description, and long description for your company connect group. 
-4. If you'd like, enter a welcome message, which subscribers will get once they join the group.
+3. Enter the group name, and a short and long description. 
+4. If you'd like, enter a welcome message, which subscribers will see when they join.
 5. Choose between two group types: **Managed** or **Public**.
-   - **Managed** group type allows the group admins to view, manage, and invite subscribers.
-   - **Public** group type allows subscribers to also invite other subscribers. Group admins cannot view or manage subscribers.
-6. If only a few users need to be added, consider adding them manually through the **Users** tab.
+   - **Managed** groups type allow the group admins to view, manage, and invite subscribers.
+   - **Public** groups type allow subscribers to also invite other subscribers. Group admins cannot view or manage subscribers.
+6. If only a few users need to be added, add them manually through the **Users** tab.
 7. On the **Users** tab, make sure the phone numbers are from the correct region. Enter a phone number in the text box for every user you want to add to this Kaizala group. You can also enter a list of comma-separated phone numbers. Finally, click or tap Add users. For example, to add three users, enter: 99885544, 99885543, 99885542.
 
    ![Screenshot of Add Users window](media/add-users.png)
@@ -76,7 +76,7 @@ To create a hub and spoke group:
 ### Step 2 – Add your employees to the group
 
 
-If you want to add several users without using the comma separated list, you can do so using bulk upload.
+If you want to add several users without using the comma separated list, use bulk upload.
 
 **User Group Mapping CSV** – Use this CSV template file to enter the group name, users' phone numbers, and user type. You can add multiple groups at a time. The CSV template file contains relevant instructions and examples. Read the instructions carefully before filling and uploading the file. This file is mandatory and must be uploaded before proceeding to the next step.
 
@@ -88,67 +88,64 @@ You can add multiple groups and users at once from an Excel spreadsheet or other
 
 ### Step 3 – Onboard the content moderation team
 
-For the company connect group created in step 1, identify admins or champs who will manage the content on the group and moderate it. 
+For the company connect group created in step 1, identify admins or champs who will manage and moderate group content. 
 
 Key responsibilities of the group admin or champ are:
 
 - **User engagement** – share training and how-to materials.
 - **Content moderation** – share and implement guidelines on appropriate usage. 
-- **Helping users** –  with how to perform queries.
-- **User management** – remove or add users. 
+- **Helping users** –  show how to perform queries.
+- **User management** – remove or add members. 
 
 Your corporate communications team or senior team members are most likely to fit these roles.
 
 Here are some guidelines for admins or champs. (**NEED LINK HERE**)
 
 > [!TIP]
-> Set up RSS feeds for drawing in organization related content from across channels such as social media, websites, and blogs, to have them show up in the group automatically. Follow [these steps here](https://docs.microsoft.com/kaizala/businesssolutions/corporatecommunications/getrssfeedsonkaizala/displayrssfeedsinkaizalagroups).
+> You can set up RSS feeds to automatically post organizational content from across channels such as social media, websites and blogs. Follow [these steps here](https://docs.microsoft.com/kaizala/businesssolutions/corporatecommunications/getrssfeedsonkaizala/displayrssfeedsinkaizalagroups).
 
 ## Conduct trainings on Kaizala
 
-The company connect group serves as a great channel to share employee trainings, especially for workforce performing in unstructured mobile-only environments. (Think about your field sales agents, or your front-line workforce.)
-Kaizala not only allows you to share important trainings to be shared with employees, but also helps you track training completion in the workforce and send reminders to people yet to complete the trainings. 
+The company connect group is a great way to share training, especially for workers in unstructured mobile-only environments. (Think about your field sales agents, or your front-line workforce.) Kaizala not only allows you to share important content, but it also helps you track training progress, and it reminds to people to complete the curriculum. 
 
-You can conduct trainings through the company connect group in three easy steps.
+You can conduct training through the company connect group in three easy steps.
 
 ### Step 1 – Create and share trainings 
 
-To conduct trainings with Kaizala, you’ll need to add the Training “Action card” to your company connect group you just created. 
+Add the Training “Action card” to the company connect group you just created. 
 
-The Kaizala training card lets you send training content along with training questions or quizzes to your team. Reports for the trainings are available on the Kaizala management portal.
+The Kaizala training card lets you send content along with questions or quizzes to your team. Relevant reports are available on the Kaizala management portal.
 
 ![Screenshot of Kaizala training card](media/training-card.png)
 
-You can set up training on Kaizala quickly if training content and questions are ready.
-
-To add Kaizala training card to a company connect group:
+You can set up training on Kaizala quickly if content and questions are ready.
 
 To access the Training Action Card:
 1.	In the group conversation, in the chat box at the bottom of the page, tap the paperclip icon.
 2.	The available actions are listed in the first row. 
 3.	To discover more actions:
     - Tap **Add More** at the upper right. 
-    - Or, tap **Discover** > **Kaizala Actions** to access a full list of available actions.
+    - Or, tap **Discover** > **Kaizala Actions** to see a full list of available actions.
 4. Tap the Training Action Card to add to your palette, and then tap **Add to chats**.
-5. On adding the training card to the group, use the card to set up training (assuming you have training content ready). 
+5. To add the training card to the group, use the card itself to set up training (assuming you have training content ready). 
 6. In the group conversation, in the chat box at the bottom of the page, tap the paperclip icon.
-7. Click on the training card option, and then proceed to enter training details such as title and description and add a cover image. 
+7. Click on the training card option, and enter training details such as a title and a description, and add a cover image. 
 
    ![Screenshot of Training Details window](media/training-details.png) 
 
-8. Use the **Add content** button to enter training content such as images, text documents, and video on the Kaizala training card. (Use the **Add Questions** button to enter questions with selectable answer options; this can be used to test knowledge.)
-9. When all the training content and the knowledge test questions are added to the training card, select **Next**.
-10. Enter training options such as training expiry, results visibility options, attempts, and so on.
+8. Use the **Add content** button to include content such as images, documents, and videos on the Kaizala training card. (Use the **Add Questions** button to enter questions with selectable answer options. This is a great way to test knowledge.)
+9. When you're done adding content, select **Next**.
+10. Enter any relevant options, such as when the training expires and whether you want to make the results visible.
 
     ![Screenshot of Training Options window](media/training-options.png)
  
-11. When the training options have been set, you’re all set to share the training with the people in the company connect group. 
+11. Share the training with the company connect group. 
 
     ![Screenshot of sharing the training card](media/share-training.png)
 
 ### Step 2 – Send reminders to defaulters
 
-With Kaizala, you can help people stay on tracking by sending them reminders for completing the training within deadlines.
+With Kaizala, you can help people stay on track by reminding them to complete the training on time.
  
 To send a reminder:
 
@@ -157,7 +154,7 @@ To send a reminder:
 
 ### Step 3 – Report to track completion and performance
 
-Group admins can use the Kaizala action card to check how many people have taken this training. 
+Group admins can use the Kaizala action card to see how many people have completed the training. 
  
 To check reports on training:
 
@@ -168,21 +165,21 @@ To check reports on training:
 
 ## Collect employee feedback with Kaizala
 
-The company connect group also serves as a convenient mobile channel to collect feedback on relevant issues, decisions, and policies, especially for workforce preforming in mobile-only unstructured environments.
+The company connect group is also a convenient mobile channel to collect feedback on relevant issues, decisions, and policies, especially for remote workers.
 
-Kaizala allows for collection of feedback from employees, partners, suppliers, and customers through feedback forms, polls, and surveys. All responses are automatically aggregated to enable you to draw insights based on responses collected. 
+You can gather feedback from employees, partners, suppliers, and customers through feedback forms, polls, and surveys. All responses are automatically aggregated to give you insights into the responses. 
 
 You can collect feedback through the company connect group in two easy steps.
 
 ### Step 1 – Collect employee feedback 
 
-To collect feedback, you can design a custom Kaizala Action through the Action Designer interface within the Kaizala management portal. 
+To collect feedback, design a custom Kaizala Action through the Action Designer interface within the Kaizala management portal. 
 
 1. Log on to the [Kaizala management portal](https://manage.kaiza.la/).
 2. Create a Kaizala Action: Go to **Actions** from the left navigation bar, and select **New Action** from the upper-right of the page.
 3. Select the Feedback template for the new action. 
-4. Fill out feedback action card name and description, and the tap **Next**.
-5. Do relevant customizations on Response View, Immersive View, and Chat view. (Add questions and answer options and format.) 
+4. Fill out the name and description, and then tap **Next**.
+5. As you prefer, customize the Response View, Immersive View, and Chat view. (Add questions and answer options and set a custom format.) 
 
    **Example of Response View**
 
