@@ -139,7 +139,7 @@ Follow the steps below.
 ## Add the CNAME records that are required for Office 365
 <a name="BKMK_add_CNAME"> </a>
 
-Follow the steps below 
+Follow the steps below.
   
 1. To get started, go to your domains page at GoDaddy by using [this link](https://account.godaddy.com/products/?go_redirect=disabled). You'll be prompted to log in.
     
