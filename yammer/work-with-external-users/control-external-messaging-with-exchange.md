@@ -14,7 +14,7 @@ search.appverid:
 - MOE150
 - YAE150
 ms.assetid: f8fd6403-c8f3-4307-9230-65304d6000d9
-description: "Disable external messaging in a Yammer network by using an Exchange Online mail flow rule. "
+description: "Disable external messaging in a Yammer network by using an Exchange Online mail flow rule.  "
 ---
 
 # Disable external messaging in a Yammer network
