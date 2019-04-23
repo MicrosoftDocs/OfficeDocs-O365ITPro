@@ -57,7 +57,7 @@ Make sure you purchase a subscription for the same organization that the users a
   
 ## Step 3: Check your new subscription and licenses
 
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page, or choose **Billing** \> **Subscriptions**.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
 
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
@@ -95,7 +95,7 @@ The licenses for the current subscription will be removed later; you'll only pay
 
 ### Reassign a license for one user
 
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page, or choose **Users** \> **Active users**.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
 
@@ -112,7 +112,7 @@ The licenses for the current subscription will be removed later; you'll only pay
   
     ![Setting license assignments for a user.](../media/5e53a979-6b08-4981-bb0b-fa657146334b.png)
   
-5. Switch the toggle to the **Off** position for licences that this user no longer needs.
+5. Switch the toggle to the **Off** position for licenses that this user no longer needs.
 
 6. At the bottom of the **Product licenses** pane, choose **Assign** \> **Close** \> **Close**.
 
