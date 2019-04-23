@@ -116,7 +116,7 @@ Follow the steps below.
     
     ![GoDaddy-BP-Configure-1-2](https://user-images.githubusercontent.com/45987684/56528038-94b6ac00-651c-11e9-8874-12db60cc7ea6.PNG)
    
-3. Choose **Add**,
+3. Choose **Add**.
     
     ![GoDaddy-BP-Configure-1-4](https://user-images.githubusercontent.com/45987684/56527673-ffb3b300-651b-11e9-91c2-83dc9fe5ca30.PNG)
   
