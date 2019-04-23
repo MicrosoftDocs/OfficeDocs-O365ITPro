@@ -36,33 +36,24 @@ If you purchased Office 365 Business Premium from a retail store, this article h
 ## Activate a new subscription
 
 1. Go to <a href="https://go.microsoft.com/fwlink/p/?LinkId=839911" target="_blank">office.com/setupkey</a>.
-    
-2. Enter your product key, then choose **Next**.
-    
-3. Enter your name, work email address, business phone number, company name, and country or region, then choose **Next**.
-    
-4. Enter a phone number to receive either a text or call to verify your identity.
-    
-5. You can get a new domain, use a domain name you already own, or add a domain later. The steps can vary, so follow the prompts, depending on which option you choose.
-    
-6. When you're finished, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">Admin center</a> to manage your subscription. 
-    
-## Renew or add a user license to an existing subscription
 
-To renew or add a user license to your existing Office 365 Business Premium subscription with a product key, you need a new and unused key for the same Office 365 plan. Entering your original Office 365 product key won't work because a key that has already been redeemed can't be used again.
-  
-1. Go to <a href="https://go.microsoft.com/fwlink/p/?LinkId=839911" target="_blank">office.com/setupkey</a>.
-    
 2. Enter your product key, then choose **Next**.
-    
-3. In the **Tell us about yourself** section, enter your existing Office 365 email, then choose **Sign in**. Follow the prompts to finish signing in.
-    
-4. If you have additional keys to add, choose **Add another product key**. When you're ready, choose **Next**.
-    
-5. You can choose to either **Add a user** or **Renew your subscription**. If you added more than one key, the number of users or subscription end date will change, depending on how many keys you added. When you're ready, choose **Next**.
-    
-6. Verify the option you chose, then choose **redeem**.
-    
+
+3. Enter your name, work email address, business phone number, company name, and country or region, then choose **Next**.
+
+4. Enter a phone number to receive either a text or call to verify your identity.
+
+5. You can get a new domain, use a domain name you already own, or add a domain later. The steps can vary, so follow the prompts, depending on which option you choose.
+
+    > [!NOTE]
+    > If you want to make sure that your subscription is automatically extended at the end of its term, you can add a credit card or bank account, and then [turn on Recurring billing](../subscriptions-and-billing/renew-your-subscription.md#turn-recurring-billing-off-or-on) for that subscription.
+
+6. When you're finished, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">Admin center</a> to manage your subscription.
+
+## Extend the expiration date or add a license to an existing subscription
+
+To use a product key to extend the expiration date or add a license to your existing Office 365 Business Premium subscription, you need a new and unused key for the same Office 365 plan. Entering your original Office 365 product key won't work because a key that has already been redeemed can't be used again. See [Add licenses to or extend a subscription paid for using a product key](add-licenses-using-product-key.md).
+
 ## What's next?
 
 If you're new to Office 365 for business, learn how to [set up Office 365](../setup/setup.md).
