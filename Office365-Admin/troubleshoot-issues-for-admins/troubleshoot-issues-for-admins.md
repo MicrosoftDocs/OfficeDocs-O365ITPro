@@ -28,7 +28,7 @@ description: "Learn how to troubleshoot administrative problems with Office 365 
 
 Sometimes, things just aren't working. Here's some help for fixing administrative problems with Office 365.
   
- **If you need immediate help, [contact support](https://support.office.com/en-us/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)** to help resolve your technical issues. 
+ **If you need immediate help, [contact support](../contact-support-for-business-products.md)** to help resolve your technical issues.
   
 ## Troubleshoot Office installation issues
 
@@ -170,21 +170,21 @@ If the mail flow troubleshooter wasn't able to find your missing message, use me
   
 ### Get help when email messages will send but can't be delivered
 
-When Office 365 can't deliver email you sent, you'll receive an email notification called a [non-delivery report](https://support.office.com/article/51daa6b9-2e35-49c4-a0c9-df85bf8533c3.aspx). Find your error code for specific help with getting your email delivered:
+When Office 365 can't deliver email you sent, you'll receive an email notification called a [non-delivery report](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online). Find your error code for specific help with getting your email delivered:
   
 |||
 |:-----|:-----|
-|[ Code 4.4.7 ](https://support.office.com/article/2fda59a8-84f8-4eb0-96e1-49187fbe7ff9.aspx) <br/> |[Code 5.7.12 ](https://support.office.com/article/08793285-463d-4198-9626-60794835a3b5.aspx) <br/> |
-|[Code 5.1.10 ](https://support.office.com/article/5a04a25a-a34f-476b-afc6-007fb92f86a1.aspx) <br/> |[Code 5.7.124](https://support.office.com/article/3269ef55-dabe-4710-9921-a3753c66b2c9.aspx) <br/> |
-|[Codes 5.1.1 through 5.1.20](https://support.office.com/article/79e91ade-5c83-405b-a37d-d99c7d069b13.aspx) <br/> |[Code 5.7.133](https://support.office.com/article/991abc19-7756-438f-abcb-39f69b80f284.aspx) <br/> |
-|[Code 5.4.1](https://support.office.com/article/7dcf7a8b-e00e-49f8-bf8d-74aba79c5a6a.aspx) <br/> |[Code 5.7.134](https://support.office.com/article/033fcaaf-7916-47ae-b2cd-2a63456bb812.aspx) <br/> |
-|[Codes 5.4.6 through 5.4.20](https://support.office.com/article/81212ae4-4c36-4e8f-9546-e58b70cfd74b.aspx) <br/> |[Codes 5.7.13 or 5.7.135](https://support.office.com/article/fc1ea7e0-3680-4778-ad96-4328c60d517c.aspx) <br/> |
-|[Code 5.6.11 ](https://support.office.com/article/81dafee7-26af-4d79-b174-8f78980dfafb.aspx) <br/> |[Code 5.7.136](https://support.office.com/article/f171e842-9fdb-4e68-8f3d-53fcd9e43c62.aspx) <br/> |
-|[Code 5.7.1 ](https://support.office.com/article/da1ff375-f88f-4a3e-b81f-06cdb6ecae3c.aspx) <br/> |[Codes 451 5.7.500-699 (ASxxx)](https://support.office.com/article/51356082-9fef-4639-a18a-fc7c5beae0c8.aspx) <br/> |
+|[ Code 4.4.7 ](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-550-4-4-7-in-exchange-online) <br/> |[Code 5.7.12 ](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-12-in-exchange-online) <br/> |
+|[Code 5.1.10 ](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-550-5-1-10-in-exchange-online) <br/> |[Code 5.7.124](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-124-in-exchange-online) <br/> |
+|[Codes 5.1.1 through 5.1.20](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-550-5-1-1-through-5-1-20-in-exchange-online) <br/> |[Code 5.7.133](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online) <br/> |
+|[Code 5.4.1](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-550-5-4-1-in-exchange-online) <br/> |[Code 5.7.134](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-134-in-exchange-online) <br/> |
+|[Codes 5.4.6 through 5.4.20](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-4-6-through-5-4-20-in-exchange-online) <br/> |[Codes 5.7.13 or 5.7.135](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-13-or-5-7-135-in-exchange-online) <br/> |
+|[Code 5.6.11 ](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-550-5-6-11-in-exchange-online) <br/> |[Code 5.7.136](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-136-in-exchange-online) <br/> |
+|[Code 5.7.1 ](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-550-5-7-1-in-exchange-online) <br/> |[Codes 451 5.7.500-699 (ASxxx)](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-451-4-7-500-699-asxxx-in-exchange-online) <br/> |
    
 ## Get more help with email issues
 
-For more troubleshooting information, see [Troubleshoot email issues](troubleshoot-email-issues.md), [My messages won't send](https://support.office.com/article/97748418-bbd5-4743-a05b-581f22a466dd.aspx) and [Fix Outlook account problems in Office 365](https://go.microsoft.com/fwlink/?LinkId=724310) (English only). 
+For more troubleshooting information, see [Troubleshoot email issues](troubleshoot-email-issues.md), [My messages won't send](https://support.office.com/article/97748418-bbd5-4743-a05b-581f22a466dd.aspx) and [Fix Outlook account problems in Office 365](https://go.microsoft.com/fwlink/p/?LinkId=724310) (English only). 
   
 ## Troubleshoot problems with Skype for Business Online
 
@@ -196,14 +196,14 @@ Most Lync sign-in issues can be traced to a small number of causes, and many of 
   
 |**Possible Cause**|**Resolution**|
 |:-----|:-----|
-|During sign-in, a dialog box appears that contains the following phrase: **Lync cannot verify that the server is trusted for your sign-in address. Connect anyway?** <br/> |Verify that the domain name in the dialog box is a trusted server in your organization—for example, **domainName.contoso.com**. Ask the user to select the **Always trust this server** check box, and then click **Connect**.  <br/><br/> Enterprise customers can prevent this message from appearing when a user signs in for the first time by modifying the Windows registry on each user's computer. For details, see [Modify TrustModelData registry keys](https://support.office.com/article/cdd4801a-2fe1-4aab-bbb6-db5f95f972d1.aspx#__modify_trustmodeldata_registry).  <br/> |
+|During sign-in, a dialog box appears that contains the following phrase: **Lync cannot verify that the server is trusted for your sign-in address. Connect anyway?** <br/> |Verify that the domain name in the dialog box is a trusted server in your organization—for example, **domainName.contoso.com**. Ask the user to select the **Always trust this server** check box, and then click **Connect**.  <br/><br/> Enterprise customers can prevent this message from appearing when a user signs in for the first time by modifying the Windows registry on each user's computer. For details, see [Modify TrustModelData registry keys](https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#modify-trustmodeldata-registry).  <br/> |
 |Mistyped sign-in address, user name, or password  <br/> | 1. Confirm that the user's sign-in name and password are correct.  <br/> 2. Verify that the user's sign-in name is formatted as follows: **bobk@contoso.com**. This may be different from the format you use to sign in to your organization's network.  <br/><br/>  Ask the user to try signing in to Lync again.  <br/> |
 |Forgotten password  <br/> |Reset the user's password and notify him or her of the new temporary password.  <br/> |
 |Not licensed to use Lync Online  <br/> |Confirm that the user is registered as a Lync user. If not, register the user, and then ask him or her to sign in to Lync again.  <br/> |
 |Wrong version of Lync installed  <br/> |This issue is usually associated with an error message that contains the following phrase: **the authentication service may be incompatible with this version of the program**.  <br/><br/> Ask the user to uninstall and reinstall Lync from the Office 365 Portal.  <br/> |
 |Problem acquiring a personal certificate that is required to sign in  <br/> |If the user's sign address has recently changed, they may need to delete cached sign-in data. Ask users to sign out, click the Delete my sign-in info link on the sign-in screen, and then try again.  <br/> |
-|You set up a custom domain name, and the changes may not have finished propagating through the system.  <br/> |First, ensure that you have modified the Domain Name Service (DNS) records to reflect the change. For details, see [Update DNS Service (SRV) Records](https://support.office.com/article/cdd4801a-2fe1-4aab-bbb6-db5f95f972d1.aspx#__update_dns_settings).  <br/><br/> If you have already made the necessary DNS changes, advise the user to try logging in later. DNS changes can take up to 72 hours to be reflected throughout the system.  <br/> |
-|System clock out of sync with server clock  <br/> |Ensure that your network domain controller is synchronizing with a reliable external time source. For details, see the Microsoft Knowledge Base article 816042, [How to configure an authoritative time server in Windows Server](http://go.microsoft.com/fwlink/?linkid=3052&amp;kbid=816042).  <br/> |
+|You set up a custom domain name, and the changes may not have finished propagating through the system.  <br/> |First, ensure that you have modified the Domain Name Service (DNS) records to reflect the change. For details, see [Update DNS Service (SRV) Records](https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#update-dns-service).  <br/><br/> If you have already made the necessary DNS changes, advise the user to try logging in later. DNS changes can take up to 72 hours to be reflected throughout the system.  <br/> |
+|System clock out of sync with server clock  <br/> |Ensure that your network domain controller is synchronizing with a reliable external time source. For details, see the Microsoft Knowledge Base article 816042, [How to configure an authoritative time server in Windows Server](http://go.microsoft.com/fwlink/p/?linkid=3052&amp;kbid=816042).  <br/> |
    
 ### Can't enter your password?
 
@@ -223,11 +223,11 @@ If you changed your password, the password box might not appear until you delete
   
 ### Get more help with Skype for Business Online issues
 
-For more troubleshooting information, see [Troubleshooting Skype for Business Online sign-in errors for administrators](https://support.office.com/article/cdd4801a-2fe1-4aab-bbb6-db5f95f972d1.aspx), [Need help signing in to Skype for Business?](https://support.office.com/article/448b8ea7-5b33-444a-afd4-175fc9930d05.aspx), and [Troubleshoot problems with Skype for Business Online](https://support.office.com/article/dce3356e-83a3-4718-88e7-59885bbaa911.aspx).
+For more troubleshooting information, see [Troubleshooting Skype for Business Online sign-in errors for administrators](https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins), [Need help signing in to Skype for Business?](https://support.office.com/article/448b8ea7-5b33-444a-afd4-175fc9930d05), and [Troubleshoot problems with Skype for Business Online](https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-skype-for-business-online/troubleshoot-problems-with-skype-for-business-online).
 
-::: moniker range="o365-21vianet"    
+::: moniker range="o365-21vianet"
 
 > [!NOTE]
-> If you're using Office 365 operated by 21Vianet in China, please [contact the 21Vianet support team](https://go.microsoft.com/fwlink/p/?linkid=847978). 
+> If you're using Office 365 operated by 21Vianet in China, please [contact the 21Vianet support team](../contact-support-for-business-products.md).
   
 ::: moniker-end
