@@ -381,10 +381,10 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardText">
                         <h3>Monitor usage</h3>
-                        <p><a href="../../en-us/office365/admin/activity-reports/yammer-activity-report" data-linktype="absolute-path">Activity report</a></p> 
-                        <p><a href="../../en-us/office365/admin/activity-reports/yammer-groups-activity-report" data-linktype="absolute-path">Groups activity report</a></p> 
+                        <p><a href="https://docs.microsoft.com/office365/admin/activity-reports/yammer-activity-report" data-linktype="absolute-path">Activity report</a></p> 
+                        <p><a href="https://docs.microsoft.com/office365/admin/activity-reports/yammer-groups-activity-report" data-linktype="absolute-path">Groups activity report</a></p> 
                         <p><a href="https://support.office.com/en-us/article/View-Group-Insights-in-Yammer-73f9fa6d-d442-4f25-9194-d5317c9328ab" data-linktype="absolute-path">Group insights</a></p> 
-                        <p><a href="../../en-us/office365/admin/activity-reports/yammer-device-usage-activity-report" data-linktype="absolute-path">Device usage report</a></p>
+                        <p><a href="https://docs.microsoft.com/office365/admin/activity-reports/yammer-device-usage-activity-report" data-linktype="absolute-path">Device usage report</a></p>
                         <p><a href="https://resources.techcommunity.microsoft.com/link/yammer-measure-success-guide" data-linktype="absolute-path">Measure success guide</a></p>
                     </div>
                 </div>
