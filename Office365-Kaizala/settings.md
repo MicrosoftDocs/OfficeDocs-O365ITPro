@@ -26,7 +26,7 @@ The **Kaizala Settings** page lets you connect your Kaizala registered phone num
 
 To add a phone number in the Kaizala management portal:
   
-1. On the Kaizala management portal, select Settings.
+1. On the Kaizala management portal, select **Settings**.
     
 2. Select **Add Phone number**. Enter the phone number and select **Generate PIN**.
     
