@@ -30,7 +30,10 @@ Things are looking great for the admin center. We've been reading your feedback 
 
 ### Featured feature - Add users
 
-For April, we're featuring the **Add user** wizard that walks you through...wait for it...adding users. It's a step-by-step to add the user's basic info like email and display name, assigning a license and a role, adding their contact information, and then reviewing the user's account before you commit. **Why did we make this change?** We heard your feedback that you didn't like the nearly infinite scroll to add users in the previous experience. Remember, as we're rolling out new features, you might not get it right away - but you can check it out in two ways: <br>
+For April, we're featuring the **Add user** wizard that walks you through...wait for it...adding users. It's a step-by-step to add the user's basic info like email and display name, assigning a license and a role, adding their contact information, and then reviewing the user's account before you commit. **Why did we make this change?** We heard your feedback that you didn't like the nearly infinite scroll to add users in the previous experience.
+<br> ![Screen capture of the Add user wizard.](media/MAC-AddUserWizard.png) <br>
+
+Remember, as we're rolling out new features, you might not get it right away - but you can check it out in two ways: <br>
 
 1. From the **Home** page, select **Add user** from the **User management** card. The wizard opens right there, so you don't have to navigate from any work you're doing on the **Home** page.
 2. Go to **Users** > **Active users**, and then select **Add user** from the command bar.
@@ -47,7 +50,7 @@ We've made a few more changes to **user management**, here's a quick list:
 - **New limited admin roles** - We've release 4 new admin roles so that you can give users only the access they need.
     -  **Kaizala admin**: Users in this role have permission to perform all management tasks within Microsoft Kaizala, including create and manage users in Kaizala directory, manage Kaizala groups, manage action cards and connectors, and create service requests.
     - **Search admin**: Users in this role have full access to all Microsoft Search management features in the Microsoft 365 admin center. Search admins can delegate the Search admin and Search editor roles to users, and create and manage content, like bookmarks, Q&A items, and locations. Additionally, these users can view the message center, monitor service health, and create service requests.
-    - **Search editor**: Users in this role can create, manage, and delete content for Microsoft Search in the Microsoft 365 admin center, including bookmarks, Q&As, and locations.
+    - **Search editor**: Users in this role can create, manage, and delete content for Microsoft Search in the Microsoft 365 admin center, including bookmarks, Q&A items, and locations.
     - **Password admin**: OK, I know you're thinking "But there's already a password admin role!" Well, there *used to be* a password admin, but since that role wasn't specifically scoped to resetting passwords and could do quite a bit more, we renamed that password admin "helpdesk admin" - and then created a new password admin role. Here's what the NEW password admin role can do: Users in this role can reset passwords for non-admin users and users assigned the Directory reader role, Guest inviter role, and other Password admins. That's it! Just resetting passwords.
 
 ## March 2019 - We've officially released the admin center!
