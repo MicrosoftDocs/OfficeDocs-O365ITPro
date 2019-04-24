@@ -35,16 +35,20 @@ For April, we're featuring the **Add user** wizard that walks you through...wait
 1. From the **Home** page, select **Add user** from the **User management** card. The wizard opens right there, so you don't have to navigate from any work you're doing on the **Home** page.
 2. Go to **Users** > **Active users**, and then select **Add user** from the command bar.
 <br><br>
-We've made a few more changes to user management, here's a quick list:
-- 
-
-<insert picture here>
+We've made a few more changes to **user management**, here's a quick list:
+- The **Manage roles** pane has been updated to the new style and is accessible. We've also updated the **Block user** and **Delete user** panes to the new style.
+- **Manage product licenses** changed position in the command bar.
+- Changing a user's photo is now easier. In **Active users** select a user, and then **Change photo** under their picture.
 
 ### But wait! There's more...
-
-Here's a quick list of the other changes we've made in April.
-
-- **Roles** - We've got some exciting changes to how you manage user and admin roles. 
+- There's a new setup banner on the **Home** page that you'll see if you haven't finished the set up steps, like adding a domain, adding users, and downloading the Office apps.
+- The **Group** list and details pane have been updated to the new style. Go to **Groups** > **Groups** to view the changes. 
+- You can also add users to groups from the **Active users** page. Select a user from the list, and then select **Assign to group** from the command bar.
+- **New limited admin roles** - We've release 4 new admin roles so that you can give users only the access they need.
+    -  **Kaizala admin**: Users in this role have permission to perform all management tasks within Microsoft Kaizala, including create and manage users in Kaizala directory, manage Kaizala groups, manage action cards and connectors, and create service requests.
+    - **Search admin**: Users in this role have full access to all Microsoft Search management features in the Microsoft 365 admin center. Search admins can delegate the Search admin and Search editor roles to users, and create and manage content, like bookmarks, Q&A items, and locations. Additionally, these users can view the message center, monitor service health, and create service requests.
+    - **Search editor**: Users in this role can create, manage, and delete content for Microsoft Search in the Microsoft 365 admin center, including bookmarks, Q&As, and locations.
+    - **Password admin**: OK, I know you're thinking "But there's already a password admin role!" Well, there *used to be* a password admin, but since that role wasn't specifically scoped to resetting passwords and could do quite a bit more, we renamed that password admin "helpdesk admin" - and then created a new password admin role. Here's what the NEW password admin role can do: Users in this role can reset passwords for non-admin users and users assigned the Directory reader role, Guest inviter role, and other Password admins. That's it! Just resetting passwords.
 
 ## March 2019 - We've officially released the admin center!
 
