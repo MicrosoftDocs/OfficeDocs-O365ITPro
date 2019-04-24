@@ -26,7 +26,7 @@ You must have the Office 365 global admin role or the Audit Logs role in Exchang
   
 - **Users** — including activating, suspending, and deleting a user. 
     
-- **Groups** — including creating, adding a member and deleting of Office 365 connected Yammer groups. This API does not provide data for legacy Yammer groups.
+- **Groups** — including creating and deleting of Office 365 connected Yammer groups. This API does not provide data for legacy Yammer groups.
     
 - **Files** — including creating, viewing, and deleting a file. 
     
