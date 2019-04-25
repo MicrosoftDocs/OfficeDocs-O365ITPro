@@ -2,11 +2,22 @@
   
 
 # [Microsoft Kaizala](kaizala-overview.md)
+
 ## [Get started](get-started-kaizala.md)
 ### [Bring everyone together](bring-everyone-together.md)
+#### [Create a company phone directory](create-phone-directory.md)
+#### [Invite people to install Kaizala](invite-people.md)
 ### [Get conversations going](get-conversations-going.md)
-### [Connect your value chain](connect-value-chain.md)
+#### [Move work chats](move-work-chats.md)
+#### [Create discussion groups](create-discussion-groups.md)
+### [Connect with employees](connect-with-employees.md)
+#### [Create company connect groups](create-company-connect-groups.md)
+#### [Collect feedback](collect-feedback.md)
 ### [Digitize everyday tasks](digitize-tasks.md)
+#### [Use Kaizala Actions](use-kaizala-actions.md)
+#### [Create custom actions](create-custom-actions.md)
+### [Plan your org-wide rollout](plan-rollout.md)
+
 ## [Kaizala app](kaizala-app.md)
 ### [Kaizala mobile app](kaizala-mobile-app.md)
 ### [Chat history](chat-history.md)
@@ -15,6 +26,7 @@
 ### [Export or delete data](export-or-delete-your-data.md)
 ### [Age verification](age-verification.md)
 ### [Make payments](make-payments.md)
+
 ## [Kaizala management portal](kaizala-management-portal.md)
 ### [Enable or disable Kaizala Pro](enable-disable-kaizala.md)
 ### [Administrator role](admin-role.md)
@@ -36,6 +48,8 @@
 ### [Integrate with Microsoft Intune](integrate-with-microsoft-intune.md)
 ### [Troubleshoot notifications](troubleshoot-notifications.md)
 ### [Export or delete a user's data](export-or-delete-a-user-s-data.md)
+
 ## [Kaizala for developers](https://docs.microsoft.com/kaizala/developer-platform)
+
 ## [Feedback & support](https://docs.microsoft.com/en-us/kaizala/feedback)
 
