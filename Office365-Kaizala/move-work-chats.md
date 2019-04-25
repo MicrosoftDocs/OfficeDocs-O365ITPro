@@ -1,5 +1,5 @@
 ---
-title: Move work chats to Kaizala
+title: Move work chats from consumer apps to Kaizala 
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
@@ -19,7 +19,7 @@ ms.assetid:
 description: Learn how to move and create groups to Kaizala.
 ---
 
-# Move work chats to Kaizala
+# Move work chats from consumer apps to Kaizala 
 
 The first step is to replicate groups that currently exist on unsecure consumer chat apps on Kaizala. This ensures a seamless transition for users to adopt Kaizala and get other people to join the new platform.
 
