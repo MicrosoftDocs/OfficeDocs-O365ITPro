@@ -19,21 +19,21 @@ description: "Microsoft 365 admin center preview - learn about the features that
 f1_keyword: MACDashWhatsNew
 ---
 
-# What's new in Microsoft 365 admin center preview
+# What's new in the NEW Microsoft 365 admin center
 
 We're continuously adding new features to the Microsoft 365 admin center preview, fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today.
-Want to know how to participate in the preview? Checkout [About the Microsoft 365 admin center preview](microsoft-365-admin-center-preview.md).
+Want to know how to participate in the preview? Checkout [About the Microsoft 365 admin center](microsoft-365-admin-center-preview.md).
 
 ## April 2019
 
-Things are looking great for the admin center. We've been reading your feedback and suggestions, answering most of them, and really taking all you have to say to heart. Of course, we're still doing the work to make sure everything is up to parity with the old admin center.
+Things are looking great for the admin center. We've been reading your feedback and suggestions, answering most of them, and really taking all you have to say to heart. Of course, we're still doing the work to make sure everything is up to parity with the old admin center. And please remember - as we roll out new features, you might not get it right away.
 
 ### Featured feature - Add users
 
 For April, we're featuring the **Add user** wizard that walks you through...wait for it...adding users. It's a step-by-step to add the user's basic info like email and display name, assigning a license and a role, adding their contact information, and then reviewing the user's account before you commit. **Why did we make this change?** We heard your feedback that you didn't like the nearly infinite scroll to add users in the previous experience.
 <br> ![Screen capture of the Add user wizard.](media/MAC-AddUserWizard.png) <br>
 
-Remember, as we're rolling out new features, you might not get it right away - but you can check it out in two ways: <br>
+There are two ways you can check it out: <br>
 
 1. From the **Home** page, select **Add user** from the **User management** card. The wizard opens right there, so you don't have to navigate from any work you're doing on the **Home** page.
 2. Go to **Users** > **Active users**, and then select **Add user** from the command bar.
@@ -46,7 +46,8 @@ We've made a few more changes to **user management**, here's a quick list:
 ### But wait! There's more...
 - There's a new setup banner on the **Home** page that you'll see if you haven't finished the set up steps, like adding a domain, adding users, and downloading the Office apps.
 - The **Group** list and details pane have been updated to the new style. Go to **Groups** > **Groups** to view the changes. 
-- You can also add users to groups from the **Active users** page. Select a user from the list, and then select **Assign to group** from the command bar.
+    - Speaking of groups, we've also added a **Microsoft Teams** tab to the groups details pane. Just select any Office 365 group, and when the details pane opens, you'll see the **Microsoft Teams** tab. 
+    - Finally, you can add the **Teams status** to the **groups** list. On the column header, select **Choose columns** > **Teams status** > **Save**.
 - **New limited admin roles** - We've release 4 new admin roles so that you can give users only the access they need.
     -  **Kaizala admin**: Users in this role have permission to perform all management tasks within Microsoft Kaizala, including create and manage users in Kaizala directory, manage Kaizala groups, manage action cards and connectors, and create service requests.
     - **Search admin**: Users in this role have full access to all Microsoft Search management features in the Microsoft 365 admin center. Search admins can delegate the Search admin and Search editor roles to users, and create and manage content, like bookmarks, Q&A items, and locations. Additionally, these users can view the message center, monitor service health, and create service requests.
