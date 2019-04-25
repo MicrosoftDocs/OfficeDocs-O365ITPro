@@ -5,7 +5,7 @@
 
 ## [Get started](get-started-kaizala.md)
 ### [Bring everyone together](bring-everyone-together.md)
-#### [Create a company phone directory](create-phone-directory.md)
+#### [Create the company phone directory](create-phone-directory.md)
 #### [Invite people to install Kaizala](invite-people.md)
 ### [Get conversations going](get-conversations-going.md)
 #### [Move work chats](move-work-chats.md)
