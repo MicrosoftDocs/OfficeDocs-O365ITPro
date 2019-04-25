@@ -25,14 +25,14 @@ Kaizala users can be anyone associated with your organization, including employe
 
 You can create the company phonebook with Kaizala in two easy steps.
 
-### Step 1 – Export contact list from your existing systems
+### Step 1: Export contact list from your existing systems
 
 Collect user information for everyone you want to add to your Kaizala phonebook.
 
 - The most important piece of information you need is a phone number. This is a required field.
 - Other key pieces of information make it easy to find people (such as name, email, organization, location, and so on). These are optional fields. 
 
-### Step 2 – Import to Kaizala to prepare the phone directory
+### Step 2 - Import to Kaizala to prepare the phone directory
 
 1. On the Kaizala management portal, select the **Groups** menu on the left menu panel.
 2. Select **Add users in Bulk**.
