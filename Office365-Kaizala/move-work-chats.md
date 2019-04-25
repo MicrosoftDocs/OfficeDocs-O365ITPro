@@ -25,7 +25,7 @@ The first step is to replicate groups that currently exist on unsecure consumer 
 
 You can move conversations to Kaizala in three easy steps.
 
-### Step 1 – Create a group on Kaizala 
+### Step 1 – Re-create your existing chat groups on Kaizala 
 
 1. Tap **Chats** > **New Group**.
 2. Enter a name for your group, and then tap **Next**.
@@ -36,7 +36,7 @@ You can move conversations to Kaizala in three easy steps.
 > [!TIP]
 > Personalize your groups by using your group photographs for group icon.
 
-### Step 2 – Invite others
+### Step 2 – Share invitations with others
 
 1. From the **Chats** list, open the group.
 2. Tap on the group name to open the **Group Info** page.
@@ -51,7 +51,7 @@ You can move conversations to Kaizala in three easy steps.
 > [!TIP]
 > Share these posters and training materials in other messaging apps (**NEED LINK HERE**) to inform people of this change and accelerate adoption.
 
-### Step 3 – Map your group to the organization 
+### Step 3 – Ask all your employees to move their work chat to Kaizala 
 
 You must link your new group to your organization to ensure data security and to ensure all data stay with the organization.
 

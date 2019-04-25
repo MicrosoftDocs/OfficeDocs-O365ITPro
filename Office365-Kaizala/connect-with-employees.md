@@ -29,5 +29,5 @@ Microsoft Kaizala lets you create groups to establish a mobile communication cha
 
 |         |         |
 |---------|---------|
-|![Image of company connect icon](media/create-company-connect-groups-icon.png) <br> [Create company connect groups](create-company-connect-groups.md)     | Step 1: Create a Kaizala group for the company connect platform <br> Step 2: Add users to the company connect group <br> Step 3: Onboard the content moderation team |
-|![Image of people icon](media/invite-people-icon.png) <br> [Collect employee feedback with Kaizala](collect-feedback.md)     | Step 1: Add feedback forms to the company connect group |
+|![Image of company connect icon](media/create-company-connect-groups-icon.png) <br> **[Create company connect groups](create-company-connect-groups.md)**     | Step 1: Create a Kaizala group for the company connect platform <br> Step 2: Add users to the company connect group <br> Step 3: Onboard the content moderation team |
+|![Image of people icon](media/invite-people-icon.png) <br> **[Collect employee feedback with Kaizala](collect-feedback.md)**     | Step 1: Add feedback forms to the company connect group |
