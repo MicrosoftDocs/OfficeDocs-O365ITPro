@@ -1,5 +1,5 @@
 ---
-title: Create discussion groups in Kaizala
+title: Create large groups for discussions
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
@@ -19,7 +19,7 @@ ms.assetid:
 description: Learn how to create groups in Kaizala.
 ---
 
-# Create discussion groups in Kaizala
+# Create large groups for discussions
 
 Use Kaizala to create groups that reflect how your organization works. For example, Contoso Corp could have several groups, such as Contoso – All Employees, Contoso - Finance, Contoso – Sales, Contoso - Sales (East), and so on.
 
