@@ -27,7 +27,7 @@ You can invite people to install Kaizala in three easy steps.
 
 You can quickly send an invitation to anyone not using Kaizala. Simply click or tap **Invite** to send a text message invitation to install Kaizala.
 
-### Step 2 – Communicate through existing digital channels
+### Step 2 – Use existing digital communication channels to excite your organization about Kaizala
 
 Now that the company phonebook is in Kaizala, it’s time to invite everyone to install Kaizala.
 
@@ -39,9 +39,9 @@ Now that the company phonebook is in Kaizala, it’s time to invite everyone to 
 
 Here are some other resources to consider. (**NEED LINK HERE**)
 
-### Step 3 – Create buzz through on-the-ground activities
+### Step 3 – Conduct on-ground activities to create buzz around Kaizala
 
-While initiatives on digital channels are great for raising awareness about Kaizala, on-the-ground activities can be especially important for creating buzz at the workplace. Consider these:
+While initiatives on digital channels are great for raising awareness about Kaizala, on-ground activities can be especially important for creating buzz at the workplace. Consider these:
 
 - Kaizala posters – download here. (**NEED LINK HERE**)
 - Kaizala rolling visuals for lobbies and receptions – download here. (**NEED LINK HERE**)
