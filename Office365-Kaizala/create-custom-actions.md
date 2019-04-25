@@ -1,5 +1,5 @@
 ---
-title: Create custom actions with Kaizala
+title: Create your own Kaizala Actions
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
@@ -19,7 +19,7 @@ ms.assetid:
 description: Learn how to create custom actions with Kaizala.
 ---
 
-# Create custom actions with Kaizala
+# Create your own Kaizala Actions
 
 You can design a custom Kaizala Action through the Action Designer interface within the Kaizala management portal. This can be done by building on the out-of-the-box Survey Action.
 

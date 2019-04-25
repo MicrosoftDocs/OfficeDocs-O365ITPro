@@ -21,9 +21,7 @@ description: Learn how to establish a mobile communication channel with your ent
 
 # Connect with employees in Kaizala
 
-Microsoft Kaizala lets you create groups to establish a mobile communication channel with your entire workforce, partners, and customers.
-
-You can use these groups to:
+Microsoft Kaizala lets you create groups to establish a mobile communication channel with your entire workforce, partners, and customers. You can use these groups to:
 
 - Raise awareness about corporate policies, initiatives, and announcements.
 - Conduct workforce trainings and surveys.
