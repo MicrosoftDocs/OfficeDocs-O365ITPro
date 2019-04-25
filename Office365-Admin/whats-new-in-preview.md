@@ -15,7 +15,7 @@ search.appverid:
   - MOE150
   - FRP150
 ms.assetid: 739574d7-2c5b-4911-a549-f56ecc7d3b48
-description: "Microsoft 365 admin center preview - learn about the features that were added this month."
+description: "The NEW Microsoft 365 admin center - learn about the features that were added this month."
 f1_keyword: MACDashWhatsNew
 ---
 
@@ -46,13 +46,17 @@ We've made a few more changes to **user management**, here's a quick list:
 ### But wait! There's more...
 - There's a new setup banner on the **Home** page that you'll see if you haven't finished the set up steps, like adding a domain, adding users, and downloading the Office apps.
 - The **Group** list and details pane have been updated to the new style. Go to **Groups** > **Groups** to view the changes. 
-    - Speaking of groups, we've also added a **Microsoft Teams** tab to the groups details pane. Just select any Office 365 group, and when the details pane opens, you'll see the **Microsoft Teams** tab. 
+    - Speaking of groups, we've also added a **Microsoft Teams** tab to the groups details pane where you can turn any Office 365 group into a Team. To "teamify" a group select any Office 365 group from the list, select the **Microsoft Teams** tab, and then **Create Team**. If the group is already a Team, you'll get a link to manage it from the **Teams admin center**.
     - Finally, you can add the **Teams status** to the **groups** list. On the column header, select **Choose columns** > **Teams status** > **Save**.
 - **New limited admin roles** - We've release 4 new admin roles so that you can give users only the access they need.
     -  **Kaizala admin**: Users in this role have permission to perform all management tasks within Microsoft Kaizala, including create and manage users in Kaizala directory, manage Kaizala groups, manage action cards and connectors, and create service requests.
     - **Search admin**: Users in this role have full access to all Microsoft Search management features in the Microsoft 365 admin center. Search admins can delegate the Search admin and Search editor roles to users, and create and manage content, like bookmarks, Q&A items, and locations. Additionally, these users can view the message center, monitor service health, and create service requests.
     - **Search editor**: Users in this role can create, manage, and delete content for Microsoft Search in the Microsoft 365 admin center, including bookmarks, Q&A items, and locations.
     - **Password admin**: OK, I know you're thinking "But there's already a password admin role!" Well, there *used to be* a password admin, but since that role wasn't specifically scoped to resetting passwords and could do quite a bit more, we renamed that password admin "helpdesk admin" - and then created a new password admin role. Here's what the NEW password admin role can do: Users in this role can reset passwords for non-admin users and users assigned the Directory reader role, Guest inviter role, and other Password admins. That's it! Just resetting passwords.
+- There's a bonanza of **Billing** changes this month...
+    - You can now update the CVV for existing credit cards without having to delete it and add it again. You can update the CVV by going to **Bills** > **Payment methods**.
+    - We've made it easier to locate your **Invoices** and understand any billing issues your account may be having. And now you can see your Bills in the web browser instead of having to download the PDF. Go to **Bills** > **Invoices**.
+    - On the **Products & services** page, we now aggregate your subscription information if you've got multiple subscriptions of the same type.
 
 ## March 2019 - We've officially released the admin center!
 
