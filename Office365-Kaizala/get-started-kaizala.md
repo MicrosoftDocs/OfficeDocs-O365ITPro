@@ -21,7 +21,7 @@ description: Learn how to enable and disable the chat history feature in Kaizala
 
 # Get started with Kaizala
 
-Here are four easy yet powerful things you can do to get the most out of Kaizala.
+Here are four easy, yet powerful, things you can do to get the most out of Kaizala.
 
 
 |                         |                          |
