@@ -25,5 +25,5 @@ Use Microsoft Kaizala to enable “secure chat.” Enable your organization to c
 
 |         |         |
 |---------|---------|
-|![Image of people with arrow icon](media/move-work-chats-icon.png) <br> **[Move work chats from consumer apps to Kaizala](move-work-chats.md)**     | Step 1: Re-create your existing chat groups on Kaizala <br> Step 2: Share invitations with others <br> Step 3: Ask all your employees to move their work chat to Kaizala  |
+|![Image of people with arrow icon](media/move-work-chats-icon.png) <br> **[Move work chats from consumer apps to Kaizala](move-work-chats.md)**     | Step 1: [Re-create your existing chat groups on Kaizala](#step-1--re-create-your-existing-chat-groups-on-kaizala) <br> Step 2: [Share invitations with others](#step-2--share-invitations-with-others) <br> Step 3: [Ask all your employees to move their work chat to Kaizala](#step-3--ask-all-your-employees-to-move-their-work-chat-to-kaizala)  |
 |![Image of people icon](media/create-large-groups-icon.png) <br> **[Create large groups for discussions](invite-people.md)**     | Step 1: Create groups <br> Step 2: Bulk upload all users at one time <br> Step 3: Nominate groups admins |

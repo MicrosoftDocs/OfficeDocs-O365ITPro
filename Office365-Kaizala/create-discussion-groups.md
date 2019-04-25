@@ -27,7 +27,7 @@ The Kaizala management portal is a centralized location to manage groups and add
 
 You can connect users across your organization in two easy steps.
 
-### Step 1 – Create groups (bulk upload users from management portal)
+### Step 1 – Create groups
 
 1. On the Kaizala management portal, from the left navigation bar, select **Groups**.
 2. Select **Create Group**, enter the group name, and then click or tap **Create**.
@@ -66,7 +66,10 @@ You can add multiple groups and users at once from an Excel spreadsheet or other
 
 4. If there aren't any problems with the file, select **Upload**.
 
-### Step 2 – Onboard group admins/champs who will drive and curate group
+### Step 2 – Bulk upload all users at one time 
+
+
+### Step 3 – Nominate groups admins
 
 For every group that you decide to create, you should identify admins or champs who will manage the group and be the group steward.
  
@@ -81,4 +84,3 @@ Your corporate communications team or senior team members are ideal for these ro
 
 Here are some guidelines for admins or champs. (**NEED LINK HERE**)
 
-Next step: [Connect with employees](connect-with-employees.md).
