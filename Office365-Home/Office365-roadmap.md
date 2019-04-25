@@ -14,7 +14,7 @@ ms.author: samanro
 # Office 365 content roadmap
 
 This roadmap guides you through the content for Office 365.
-![A roadmap to Office content: Understand, Evaluate and buy, Onboard, Learn about, Get help, and Engage with Microsoft](../media/o365contentroadmap.png)
+![A roadmap to Office content: Understand, Evaluate and buy, Onboard, Learn about, Get help, and Engage with Microsoft.](images/o365contentroadmap.png)
 
 
 
