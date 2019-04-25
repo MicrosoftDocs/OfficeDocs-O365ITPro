@@ -16,7 +16,6 @@
 ### [Digitize everyday tasks](digitize-tasks.md)
 #### [Use Kaizala Actions](use-kaizala-actions.md)
 #### [Create custom actions](create-custom-actions.md)
-### [Plan your org-wide rollout](plan-rollout.md)
 
 ## [Kaizala app](kaizala-app.md)
 ### [Kaizala mobile app](kaizala-mobile-app.md)
