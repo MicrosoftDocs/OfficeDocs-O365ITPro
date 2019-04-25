@@ -23,7 +23,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c7228a3e-061f-4575-b1ef-adf1d1669870
-description: "Learn about the Office 365 admin center: how to sign in, who your admin is, and watch a video introduction about it."
+description: "Learn about the Microsoft 365 admin center: how to sign in, who your admin is, and watch a video introduction about it."
 ---
 
 # Office 365 admin overview 

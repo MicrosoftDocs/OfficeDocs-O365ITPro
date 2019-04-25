@@ -163,7 +163,7 @@ There are two ways to block users from Yammer:
     
     1. In the Yammer admin center, go to **Users** \> **Block Users** and enter the email addresses of the users to block. 
     
-    2. In the Office 365 admin center, remove the **Yammer** license for the user. For steps, see [Turn off Yammer access for Office 365 users](turn-off-user-access.md) and see [Manage Yammer licenses in Office 365](manage-yammer-licenses-in-office-365.md). 
+    2. In the Microsoft 365 admin center, remove the **Yammer** license for the user. For steps, see [Turn off Yammer access for Office 365 users](turn-off-user-access.md) and see [Manage Yammer licenses in Office 365](manage-yammer-licenses-in-office-365.md). 
     
 <a name="BouncedEmails"> </a>
 ## Bounced emails
@@ -248,6 +248,6 @@ Excel does not encode non-English characters in CSV files correctly. If you have
   
 [Manage a group in Yammer](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2.aspx)
 
-[Can I unsubscribe myself from Yammer?](https://support.office.com//981ecaf7-8a7d-4312-a845-bd343e925073)
+[Can I unsubscribe myself from Yammer?](https://support.office.com/article/981ecaf7-8a7d-4312-a845-bd343e925073)
 
 [Remove a user from a group](https://support.office.com/en-us/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2#removemember)

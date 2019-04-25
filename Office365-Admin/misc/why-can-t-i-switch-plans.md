@@ -33,7 +33,12 @@ description: "Understand the reasons why sometimes switching plans has to be don
 
 # Why can't I switch Office 365 for business plans?
 
-If you don't see the **Switch plans** button, your plan can't be switched automatically. In some cases, you might be able to resolve the issue so that you can use the **Switch plans** button, or you might be able to [switch plans manually](switch-plans-manually.md), instead. Position your mouse over the info icon to view a message that explains why the **Switch plans** button is not available. Use the information in this article to resolve the issue. 
+::: moniker range="o365-worldwide"
+> [!NOTE]
+> This article applies to the old admin center. To view the article about the admin center (preview), see [Why can't I upgrade plans?](why-cant-i-change-plans.md). The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+::: moniker-end
+
+If you don't see the **Switch plans** button, your plan can't be switched automatically. In some cases, you might be able to resolve the issue so that you can use the **Switch plans** button, or you might be able to [switch plans manually](switch-plans-manually.md), instead. Position your mouse over the info icon to view a message that explains why the **Switch plans** button is not available. Use the information in this article to resolve the issue.
   
 ![The message indicating that the plan isn't eligible to switch plans automatically.](../media/2a03f4b2-6a12-46da-a308-89b11f2f1a20.png)
   
@@ -93,13 +98,13 @@ To see if there are provisioning or service health issues, in the Admin center, 
 
 ::: moniker range="o365-germany"
 
-To see if there are provisioning or service health issues, in the Office 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848042" target="_blank">Service health</a> page, or choose **Health** \> **Service health**.
+To see if there are provisioning or service health issues, in the Microsoft 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848042" target="_blank">Service health</a> page, or choose **Health** \> **Service health**.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-To see if there are provisioning or service health issues, in the Office 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850629" target="_blank">Service health</a> page, or choose **Health** \> **Service health**.
+To see if there are provisioning or service health issues, in the Microsoft 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850629" target="_blank">Service health</a> page, or choose **Health** \> **Service health**.
 
 ::: moniker-end
 
@@ -123,29 +128,29 @@ You can [switch plans manually](switch-plans-manually.md) or [call support](../c
 
 If you've paid for your subscription in advance, you might be able to [switch plans manually](switch-plans-manually.md). However, you won't receive a credit for unused time remaining on your current subscription if you switch plans before the current plan expires.
   
-You can also [call support](../contact-support-for-business-products.md) for help. 
+You can also [call support](../contact-support-for-business-products.md) for help.
   
 ### You have a government or non-profit plan
 
-If you have a government or non-profit plan, you can [switch plans manually](switch-plans-manually.md) or [call support](../contact-support-for-business-products.md) for help. 
+If you have a government or non-profit plan, you can [switch plans manually](switch-plans-manually.md) or [call support](../contact-support-for-business-products.md) for help.
   
 ### 3,000 or more licenses have been purchased and assigned for the subscription
 
-The **Switch plans** button is unavailable for subscriptions that have 3,000 or more licenses assigned to users. However, you might be able to [switch plans manually](switch-plans-manually.md). You can also [call support](../contact-support-for-business-products.md) for help. 
+The **Switch plans** button is unavailable for subscriptions that have 3,000 or more licenses assigned to users. However, you might be able to [switch plans manually](switch-plans-manually.md). You can also [call support](../contact-support-for-business-products.md) for help.
   
 ### The subscription that you want to switch from has a temporary issue
 
-The **Switch plans** button can become temporarily unavailable because the service is in the process of switching a high volume of plans. Try again in about an hour after your first attempt. 
+The **Switch plans** button can become temporarily unavailable because the service is in the process of switching a high volume of plans. Try again in about an hour after your first attempt.
   
 ### The plan that you want to switch to isn't a supported option
 
 When you switch plans, the plans that are available for you to switch to are displayed based on the services in your current plan. You can only switch to a plan that has the same data-related services, such as Exchange Online or SharePoint Online, or to a higher version of them. This ensures that users don't lose data related to those services during the switch.
   
-If your plan isn't eligible to switch plans automatically, you might be able to [switch plans manually](switch-plans-manually.md), instead. You can also [call support](../contact-support-for-business-products.md) for help. 
+If your plan isn't eligible to switch plans automatically, you might be able to [switch plans manually](switch-plans-manually.md), instead. You can also [call support](../contact-support-for-business-products.md) for help.
   
 > [!NOTE]
-> Manually switching from an Office 365 Small Business, Office 365 Small Business Premium, or Office 365 Midsize Business plan is not supported. 
+> Manually switching from an Office 365 Small Business, Office 365 Small Business Premium, or Office 365 Midsize Business plan is not supported.
   
 ## Call support to help you switch plans
 
-![Phone](../media/88eae4a1-b8d9-4a12-bc4a-44af244f084b.png) [Call support](../contact-support-for-business-products.md)
+[Call support](../contact-support-for-business-products.md)

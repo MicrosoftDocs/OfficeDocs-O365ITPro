@@ -45,7 +45,7 @@ Calendar sharing is a global setting, meaning that you, the Office 365 admin, ca
 > [!NOTE]
 > If you want to share calendars with an organization that uses Exchange Server 2013 (an on-premises solution), the Exchange administrator will need to set up an authentication relationship with the cloud. This is known as "federation" and must meet minimum software requirements. See [Sharing](https://technet.microsoft.com/en-us/library/dd638083%28v=exchg.150%29.aspx) for more information. 
   
-## Enable calendar sharing using the Office 365 admin center
+## Enable calendar sharing using the Microsoft 365 admin center
 
 1. Sign in to Office 365with your work or school account. 
     

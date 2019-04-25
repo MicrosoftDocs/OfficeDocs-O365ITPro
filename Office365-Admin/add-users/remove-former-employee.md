@@ -37,7 +37,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 44d96212-4d90-4027-9aa9-a95eddb367d1
-
 description: "Follow this checklist to remove an employee from Office 365 and secure data. "
 ---
 
@@ -57,7 +56,7 @@ description: "Follow this checklist to remove an employee from Office 365 and se
 If you need to get an employee out of Office 365 immediately, here's what you do:
   
 ::: moniker range="o365-worldwide"
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -73,11 +72,9 @@ If you need to get an employee out of Office 365 immediately, here's what you do
 
 ::: moniker-end
 
-2. In the Office 365 admin center, choose the user, and reset their password (don't send it to them).
+2. In the Microsoft 365 admin center, select **User management**, choose the user, and reset their password (don't send it to them).
     
-3. While still at the user's properties page, expand **OneDrive Settings**, and then choose **Initiate**. 
-    
-    ![Choose Initiate to sign out the user immediately.](../media/7b4c68b9-85a8-4bc9-b00b-4a09852b3253.png)
+3. Choose the user again to go to their properties page, go to the **OneDrive** tab, and then choose **Initiate sign-out** under **Sign-out**.
   
 Within an hour - or after they click out of the current Office 365 page they are on - they will be prompted to sign in again. (The refresh token is good for an hour, so the timeline depends on how much time is left on their token and whether they navigate out of their current webpage.)
   
@@ -107,7 +104,7 @@ Here's a quick overview. Each step is explained in detail in this article.
 |5. [Move the employee's OneDrive content](get-access-to-and-back-up-a-former-user-s-data.md) <br/> |If you only remove a user's license but don't delete the account, the content in the user's OneDrive will remain accessible to you even after 30 days.  <br/><br/> Before you delete the account, you should move the content of their OneDrive to another location that's easy for you to access. After you delete an employee's account, the content in their OneDrive is retained for **30** days. During that 30 days, however, you can restore the user's account, and gain access to their OneDrive content. If you restore the user's account, the OneDrive content will remain accessible to you even after 30 days.  <br/> |
 |5a. What if the person used their personal computer to access OneDrive and SharePoint?  <br/> |If they used a personal computer instead of a company-issued computer to download files from OneDrive and SharePoint, there's no way for you to wipe those files they stored.  <br/><br/> They will continue to have access to any files that were synced to their computer.  <br/> |
 |6. [Remove and delete the Office 365 license from a former employee](#remove-and-delete-the-office-365-license-from-a-former-employee)<br/> |When you remove a license, you can assign it to someone else. Or, you can delete the license so you don't pay for it until you hire another person.  <br/><br/> When you remove or delete a license, the user's old email, contacts, and calendar are retained for **30 days**, then permanently deleted. If you remove or delete a license but don't delete the account, the content in the user's OneDrive will remain accessible to you even after 30 days.  <br/> |
-|7. [Delete a former employee's user account](#delete-a-former-employees-user-account)<br/> |This removes the account from your Office 365 admin center. Keeps things clean.  <br/> |
+|7. [Delete a former employee's user account](#delete-a-former-employees-user-account)<br/> |This removes the account from your Microsoft 365 admin center. Keeps things clean.  <br/> |
    
 ## Save the contents of a former employee's mailbox
 <a name="bkmk_preserve"> </a>
@@ -143,7 +140,7 @@ In this step, you assign the former employee's email address to another employee
  > If you're setting up email forwarding or a shared mailbox, at the end, don't delete the former employee's account. The account needs to be there to anchor the email forwarding or shared mailbox. 
   
 ::: moniker range="o365-worldwide"  
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -159,18 +156,12 @@ In this step, you assign the former employee's email address to another employee
 
 ::: moniker-end
 
-2. In the Office 365 admin center, select **Users**. 
-    
-    ![Click on User.](../media/1596dc50-1d06-4b3a-83c3-2791d0856d6f.png)
-  
-3. Choose the employee that you want to block.
-    
-    ![Choose the user you want to block](../media/d14e5265-24df-4fee-80f1-22900521e313.png)
-  
-4. Click **Mail Settings**. Next to **Email Forwarding** choose **Edit**. 
-    
-    ![Choose Mail Settings and then choose Edit.](../media/fd3fa81a-e063-44ae-b411-5644365a9982.png)
-  
+2. In the Microsoft 365 admin center, select **User management**.
+
+3. Choose the employee that you want to block and select the **Mail** tab.
+
+4. Under **Email Forwarding** choose **Manage email forwarding**.
+
 5. Turn on **Forward all email sent to this mailbox**. In the **Forwarding address** box, type the email address of the current employee (or shared mailbox) who's going to get the email. 
     
     ![Add the email address of the current employee.](../media/d1525aa0-0c68-4337-ba18-95c40562cc52.png)
@@ -186,7 +177,7 @@ If your former employee had a organization phone, you can use the Exchange admin
   
 
 ::: moniker range="o365-worldwide"
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -202,11 +193,11 @@ If your former employee had a organization phone, you can use the Exchange admin
 
 ::: moniker-end
 
-2. In the Office 365 admin center, in the lower-left navigation pane, expand **Admin centers** and select **Exchange**. 
+2. In the Microsoft 365 admin center, in the lower-left navigation pane, expand **Admin centers** and select **Exchange**. 
     
     Your screen might look like one of the following images:
     
-    ![Office 365 admin centers](../media/0df0cf37-04b2-4051-8d45-8594587c5fa8.png)
+    ![Microsoft 365 admin centers](../media/0df0cf37-04b2-4051-8d45-8594587c5fa8.png)
   
 3. In the Exchange admin center, navigate to **Recipients** \> **Mailboxes**. 
     
@@ -229,7 +220,7 @@ To block a user from signing in and accessing Office 365 data:
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -245,15 +236,11 @@ To block a user from signing in and accessing Office 365 data:
 
 ::: moniker-end
 
-2. In the Office 365 admin center, select **Users**. 
-    
-    ![Click on User.](../media/1596dc50-1d06-4b3a-83c3-2791d0856d6f.png)
-  
-3. Select the employee that you want to block, and then choose **Edit** next to **Sign-in status** in the user pane. 
-    
-    ![Choose edit next to Sign-in status](../media/49e2c981-abb8-435b-a977-b2bbc67bdd51.png)
-  
-4. On the **Sign-in status** pane, choose **Sign-in blocked** and then **Save**. 
+2. In the Microsoft 365 admin center, select **User management**.
+
+3. Select the employee that you want to block, and under the user's name, choose the symbol for **Edit sign-in status**.
+
+4. Select **Block the user from signing in** and then **Save**. 
     
 ## Block a former employee's access to email (Exchange Online)
 <a name="bkmk_block_email"> </a>
@@ -263,7 +250,7 @@ If you have Office 365 email as part of your Office 365 subscription, you need t
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -279,17 +266,17 @@ If you have Office 365 email as part of your Office 365 subscription, you need t
 
 ::: moniker-end
 
-2. In the Office 365 admin center, in the lower-left navigation pane, expand **Admin centers** and select **Exchange**. 
+2. In the Microsoft 365 admin center, in the lower-left navigation pane, expand **Admin centers** and select **Exchange**. 
     
     Your screen might look like one of the following images:
     
-    ![Office 365 admin centers](../media/0df0cf37-04b2-4051-8d45-8594587c5fa8.png)
+    ![Microsoft 365 admin centers](../media/0df0cf37-04b2-4051-8d45-8594587c5fa8.png)
   
 3. In the Exchange admin center, navigate to **Recipients** \> **Mailboxes**. 
     
-4. Double-click the user to open **Mailbox features** page. Under **Mobile Devices**, click **Disable Exchange ActiveSync** and **Disable OWA for Devices,** and answer **Yes** to both when prompted. 
+4. Double-click the user and go to the **Mailbox features** page. Under **Mobile Devices**, click **Disable Exchange ActiveSync** and **Disable OWA for Devices,** and answer **Yes** to both when prompted. 
     
-5. Under **Email Connectivity**, click **Disable** for all protocols, (Outlook on the web, IMAP, POP3 &amp; MAPI) and answer **Yes** to all when prompted. 
+5. Under **Email Connectivity**, click **Disable** and answer **Yes** when prompted. 
     
 ## Remove and delete the Office 365 license from a former employee
 <a name="bkmk_remove"> </a>
@@ -301,7 +288,7 @@ When you remove the license, all that user's data is held for 30 days. You can [
  
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -317,29 +304,19 @@ When you remove the license, all that user's data is held for 30 days. You can [
 
 ::: moniker-end
 
-2. In the Office 365 admin center, select **Users**. 
-    
-    ![Click on User.](../media/1596dc50-1d06-4b3a-83c3-2791d0856d6f.png)
+2. In the Microsoft 365 admin center, select **User management**.
+
+3. Select the employee that you want to block, and then choose **Licenses and Apps**.
+
+4. On the **Licenses and Apps** page, un-check the box next to the subscription to remove the license and click **Save changes**.
+
+**To reduce the number of licenses you're paying for** until you hire another person, do the following: 
   
-3. Select the employee that you want to block, and then choose **Edit** next to **Product licenses** in the user pane. 
+1. In the Microsoft 365 admin center, go to **Billing** \> **Products & services** page. 
     
-    ![Choose edit next to Product licenses](../media/5f54ed94-d0f0-4884-86cb-c7a7440d128b.png)
-  
-4. On the **Product licenses** pane, slide the license indicator to **Off** position and then choose **Assign** to remove the license. 
-    
-    ![Remove licenses](../media/e4020883-841a-4bfe-a742-41276618a651.png)
-  
-    The pane will state **Products removed** when the removal is done. 
-    
- **To reduce the number of licenses you're paying for** until you hire another person, do the following: 
-  
-1. In the Office 365 admin center, choose **Billing** \> **Subscriptions**. 
-    
-2. Choose **Add/Remove** licenses to delete the license so you don't pay for it until you hire another person. 
-    
-    ![Use the arrows to delete licenses from your subscription.](../media/40b7fdb8-09a9-4b1e-8473-832038a214bf.png)
-  
-    When you [add](add-users.md) another person to your business, you'll be prompted to buy a license at the same time, with just one click! 
+2. Choose **Add/Remove** licenses to delete the license so you don't pay for it until you hire another person.
+
+When you [add](add-users.md) another person to your business, you'll be prompted to buy a license at the same time, with just one click!
     
 For more information about managing user licenses for Office 365 for business, see [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md), and [Remove licenses from users in Office 365 for business](../subscriptions-and-billing/remove-licenses-from-users.md).
   
@@ -360,7 +337,7 @@ After you've saved and accessed all the former employee's user data, you can del
 
 ::: moniker range="o365-worldwide"
 
-2. Go to the [![Go to the Office 365 admin center.](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://portal.office.com/adminportal/home).
+2. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
@@ -376,21 +353,17 @@ After you've saved and accessed all the former employee's user data, you can del
 
 ::: moniker-end
 
-3. In the Admin center, select **Users**. 
-    
-    ![Click on User.](../media/1596dc50-1d06-4b3a-83c3-2791d0856d6f.png)
-  
-4. Select the employee that you want to delete, and then choose **Delete user** in the user pane and then choose **Delete** \> **Close**. 
-    
-    ![Delete user](../media/f6cf1bfd-e0c3-40f5-8d62-415f2d5eb3c2.png)
-  
+3. In the Admin center, select **User management**.
+
+4. Select the employee that you want to delete, and then under the user's name, choose the symbol for **Delete user**. Choose the options you want for this user, and then choose **Delete user**.
+
 When you delete a user, the account becomes inactive for approximately 30 days. You have until then to restore the account before it is permanently deleted.
   
 ### Does your organization use Active Directory?
 
 If your organization synchronizes user accounts to Office 365 from a local Active Directory environment, you must delete and restore those user accounts in your local Active Directory service. You can't delete or restore them in Office 365.
   
-For instructions, see this TechNet article: [Delete a User Account](https://go.microsoft.com/fwlink/?linkid=841808).
+For instructions, see this article: [Delete a User Account](https://go.microsoft.com/fwlink/?linkid=841808).
   
 If you are using Azure Active Directory, see the [Remove-MsolUser](https://go.microsoft.com/fwlink/?linkid=842230) PowerShell cmdlet. 
   

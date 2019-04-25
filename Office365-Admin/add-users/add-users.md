@@ -46,7 +46,7 @@ description: "Learn how to add users to Office 365, one at a time or multiple us
 
 [![Label to let you know the Admin Center is changing and you can find more details at aka.ms/aboutM365preview.](../media/O365-Admin-AdminCenterChanging.png)](../microsoft-365-admin-center-preview.md)
 
-The people on your team each need a user account before they can sign in and access [Office 365 for business](https://go.microsoft.com/fwlink/?LinkID=519395). The easiest way to add user accounts is to add them one at a time in the Office 365 admin center. After you do this step, your users will have Office 365 licenses, sign in credentials, and Office 365 mailboxes.
+The people on your team each need a user account before they can sign in and access [Office 365 for business](https://go.microsoft.com/fwlink/?LinkID=519395). The easiest way to add user accounts is to add them one at a time in the Microsoft 365 admin center. After you do this step, your users will have Office 365 licenses, sign in credentials, and Office 365 mailboxes.
 
 ::: moniker range="o365-worldwide"
 
@@ -96,9 +96,9 @@ Fill in the information for the user. Choose **Add** when you are done.
 After you add a user, you'll get an email notification from the Microsoft Online Services Team. The email will contain the person's Office 365 user ID and password so they can sign in to Office 365. You need to tell your new user about their Office 365 sign in information. Use your normal process for communicating new passwords.
 
 > [!NOTE]
->If you create users by migrating mail boxes, you will need to activate Office 365 user accounts by assigning licenses. If you don't assign a license to a user, their mailbox will be disabled after a grace period of 30 days. See how to [assign licenses to users](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc) using the Office 365 admin center.
+>If you create users by migrating mail boxes, you will need to activate Office 365 user accounts by assigning licenses. If you don't assign a license to a user, their mailbox will be disabled after a grace period of 30 days. See how to [assign licenses to users](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc) using the Microsoft 365 admin center.
 
-### Video: Add and manage users in the Office 365 admin center
+### Video: Add and manage users in the Microsoft 365 admin center
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/4f00c3bc-8a22-45e2-aaa2-820958f56d26?autoplay=false]
   

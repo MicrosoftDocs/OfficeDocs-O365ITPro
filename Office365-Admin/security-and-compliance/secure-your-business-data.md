@@ -3,7 +3,6 @@ title: "Top 10 ways to secure Office 365 and Microsoft 365 Business plans"
 ms.author: supotter
 author: supotter
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,7 +15,6 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: de2da300-dbb6-4725-bb12-b85a9d296e75
-
 description: "Protect your business email and data from cyber threats, including ransomware, phishing, and malicious attachments. "
 ---
 
@@ -56,6 +54,7 @@ Before you begin, check your Office 365 Secure Score. Office 365 Secure Score an
 Using multi-factor authentication is one of the easiest and most effective ways to increase the security of your organization. It's easier than it sounds - when you log in, multi-factor authentication means you'll type a code from your phone to get access to Microsoft 365. This can prevent hackers from taking over if they know your password. Multi-factor authentication is also called 2-step verification. Individuals can add 2-step verification to most accounts easily, for example, to their Google or Microsoft accounts. Here's how to [add two-step verification to your personal Microsoft account](https://go.microsoft.com/fwlink/?linkid=2016403&amp;clcid=0x409).
   
 For businesses using Office 365 and Microsoft 365, add a setting that requires your users to log in using multi-factor authentication. When you make this change, users will be prompted to set up their phone for two-factor authentication next time they log in.
+To see a training video for how to set up MFA and how users complete the set up, see [set up MFA](https://support.office.com/article/e12187b8-216a-4490-9e3b-df34a06fb787) and [user set up](https://support.office.com/article/a32541df-079c-420d-9395-9d59354f7225).
   
 To set up multi-factor authentication:
   
@@ -104,7 +103,7 @@ The administrative accounts you use to administer your Office 365 or Microsoft 3
 ## 4: Raise the level of protection against malware in mail
 <a name="malware"> </a>
 
-Your Office 365 or Microsoft 365 environment includes protection against malware, but you can increase this protection by blocking attachments with file types that are commonly used for malware. To bump up malware protection in email:
+Your Office 365 or Microsoft 365 environment includes protection against malware, but you can increase this protection by blocking attachments with file types that are commonly used for malware. To bump up malware protection in email, view a [short training video](https://support.office.com/article/02b5783a-eea0-42e8-8856-62440718c3f0), or complete the following steps:
   
 1. Go to [https://protection.office.com](https://protection.office.com) and sign in with your admin account credentials. 
     
@@ -131,9 +130,9 @@ You can protect against ransomware by creating one or more mail flow rules to bl
     
 - Block file types that could contain ransomware or other malicious code. We'll start with a common list of executables (listed in the table below). If your organization uses any of these executable types and you expect these to be sent in email, add these to the previous rule (warn users).
     
-To create a mail transport rule:
+To create a mail transport rule, view a [short training video](https://support.office.com/article/a9ecca03-42a6-4867-b9fd-38e3f6bb06ad), or complete the following steps:
   
-1. In the Office 365 admin center, click **Admin centers** \> **Exchange**.
+1. In the Microsoft 365 admin center, click **Admin centers** \> **Exchange**.
     
 2. In the **mail flow** category, click **rules**.
     
@@ -166,7 +165,7 @@ Hackers who gain access to a user's mailbox can exfiltrate mail by configuring t
   
 To create a mail transport rule:
   
-1. In the Office 365 admin center, click **Admin centers** \> **Exchange**.
+1. In the Microsoft 365 admin center, click **Admin centers** \> **Exchange**.
     
 2. In the **mail flow** category, click **rules**.
     
@@ -226,7 +225,7 @@ We recommend that you get started with this protection by creating a policy to p
   
 ![Creating an ATP anti-phishing policy](../media/d4bfb082-a257-46c6-879f-8c379e681817.png)
   
-To create an ATP anti-phishing policy:
+To create an ATP anti-phishing policy, view a [short training video](https://support.office.com/article/86c425e1-1686-430a-9151-f7176cce4f2c), or complete the following steps:
   
 1. Go to [https://protection.office.com](https://protection.office.com). 
     
@@ -259,7 +258,7 @@ For more information, see [Set up Office 365 ATP anti-phishing policies](https:/
 
 People regularly send, receive, and share attachments, such as documents, presentations, spreadsheets, and more. It's not always easy to tell whether an attachment is safe or malicious just by looking at an email message. Office 365 Advanced Threat Protection includes ATP Safe Attachment protection, but this protection is not turned on by default. We recommend that you create a new rule to begin using this protection. This protection extends to files in SharePoint, OneDrive, and Microsoft Teams.
   
-To create an ATP safe attachment policy:
+To create an ATP safe attachment policy, view a [short training video](https://support.office.com/article/e7e68934-23dc-4b9c-b714-e82e27a8f8a5), or complete the following steps:
   
 1. Go to [https://protection.office.com](https://protection.office.com) and sign in with your admin account. 
     
@@ -297,7 +296,7 @@ We recommend that you do the following:
     
 - Add a new policy targeted to all recipients in your domain.
     
-To get to ATP Safe Links:
+To get to ATP Safe Links, view a [short training video](https://support.office.com/article/61492713-53c2-47da-a6e7-fa97479e97fa), or complete the following steps:
   
 1. Go to [https://protection.office.com](https://protection.office.com) and sign in with your admin account. 
     

@@ -3,7 +3,6 @@ title: "Buy a domain name in Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-
 ms.audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -73,6 +72,9 @@ You can choose from the following top level domains for your domain.
 - org.uk
     
 ![On the Manage domains page, click Buy domain](../media/16d6b3ba-ce13-496e-a7c0-1d99479dd203.png)
+
+### Domain Privacy
+We offer a free Domain Privacy Subscription with the purchase of a domain. This keeps your contact information attached to the registration of your domain with ICANN private. [Learn more.](https://whois.icann.org/en/privacy-and-proxy-services)
   
 ### Buy a domain from another domain registrar
 

@@ -3,7 +3,6 @@ title: "Office 365 Reports in the Admin Center - Yammer activity report"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
@@ -29,14 +28,14 @@ description: "Get the Yammer Activity report and know more about the number of u
 
 # Office 365 Reports in the Admin Center - Yammer activity report
 
-As an Office 365 admin, the **Reports** dashboard shows you data on the usage of the Office 365 products within your organization. Check out [Activity Reports in the Office 365 Admin Center](activity-reports.md). With the **Yammer Activity report**, you can understand the level of engagement of your organization with Yammer by looking at the number of unique users using Yammer to post, like or read a message and the amount of activity generated across the organization. 
+As an Office 365 admin, the **Reports** dashboard shows you data on the usage of the Office 365 products within your organization. Check out [Activity Reports in the Microsoft 365 admin center](activity-reports.md). With the **Yammer Activity report**, you can understand the level of engagement of your organization with Yammer by looking at the number of unique users using Yammer to post, like or read a message and the amount of activity generated across the organization. 
   
 > [!NOTE]
 > You must be a global administrator in Office 365 or an Exchange, SharePoint, Skype for Business administrator, or reports reader to see Office 365 reports. 
   
 ## How to get to the Yammer activity report
 
-1. Go to the Office 365 admin center \> **Reports** \> **Usage**. 
+1. Go to the Microsoft 365 admin center \> **Reports** \> **Usage**. 
     
 2. Select the **Yammer Activity** widget on the **Reports** dashboard.<br/> ![Yammer Activity reports widget](../media/3edb83ae-c1bd-4d23-bc8f-930e54c54c15.png)<br/>Or, select **Yammer activity** from the **Select a report** dropdown.<br/>![Select a report menu in the dashboard](../media/8101651b-948f-4c81-a5d8-eb310242cb62.JPG)
   
@@ -102,7 +101,7 @@ The activity report contains the following information.
     
   - **Product assigned** is the Office 365 products that are assigned to this user. 
     
-    If your organization's policies prevents you from viewing reports where user information is identifiable, you can change the privacy setting for all these reports. Check out the **How do I hide user level details?** section in the [Activity Reports in the Office 365 Admin Center](activity-reports.md).
+    If your organization's policies prevents you from viewing reports where user information is identifiable, you can change the privacy setting for all these reports. Check out the **How do I hide user level details?** section in the [Activity Reports in the Microsoft 365 admin center](activity-reports.md).
     
 - You can also export the report data into an Excel .csv file, by clicking or tapping the **Export** ![Office 365 reports](../media/816a224b-6ca7-4967-a135-4f6427f64dc8.JPG) link. This exports data of all users and enables you to do simple sorting and filtering for further analysis. If you have less than 2000 users, you can sort and filter within the table in the report itself. If you have more than 2000 users, in order to filter and sort, you will need to export the data. 
     

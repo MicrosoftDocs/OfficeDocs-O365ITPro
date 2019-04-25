@@ -3,7 +3,6 @@ title: "Share files with people"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-
 ms.audience: End User
 ms.topic: article
 f1_keywords:

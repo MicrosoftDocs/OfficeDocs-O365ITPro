@@ -136,6 +136,22 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/globe-internet.svg" alt="Data residency in the EU Geo" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                            <p><a href="/en-us/Yammer/manage-security-and-compliance/data-residency" data-linktype="absolute-path">Data residency in the EU Geo</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li> 
+<li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
                             <img src="https://docs.microsoft.com/en-us/office/media/icons/task-list-planning.svg" alt="Rich text formatting" data-linktype="external">
                         </div>
                     </div>
@@ -273,7 +289,7 @@ Build communities and collaboration in your organization with Yammer.
                         <p><a href="/en-us/Yammer/configure-your-yammer-network/enforce-office-365-identity" data-linktype="absolute-path">Enforce Office 365 identity</a></p> 
                         <p><a href="/en-us/Yammer/configure-your-yammer-network/yammer-and-office-365" data-linktype="absolute-path">Yammer networks and Office 365 tenants</a></p> 
                         <p><a href="/en-us/Yammer/configure-your-yammer-network/manage-yammer-domains" data-linktype="absolute-path">Manage Yammer domains</a></p> 
-                        <p><a href="/en-us/Yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks" data-linktype="absolute-path">Consolidate multiple networks</a></p> <p><a href="/en-us/Yammer/configure-your-yammer-network/FAQ-consolidate-multiple-yammer-networks" data-linktype="absolute-path">FAQ: Consolidating multiple networks</a></p>              
+                        <p><a href="/en-us/Yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks" data-linktype="absolute-path">Consolidate multiple networks</a></p> <p><a href="/en-us/Yammer/configure-your-yammer-network/FAQ-consolidate-multiple-yammer-networks" data-linktype="absolute-path">FAQ: Consolidating multiple networks</a></p>               
                     </div>
                 </div>
             </div>
@@ -296,6 +312,7 @@ Build communities and collaboration in your organization with Yammer.
                         <p><a href="/en-us/Yammer/manage-security-and-compliance/set-up-a-usage-policy" data-linktype="absolute-path">Set up a usage policy</a></p>
                         <p><a href="/en-us/Yammer/manage-security-and-compliance/track-yammer-events" data-linktype="absolute-path">Track Yammer events</a></p>
                         <p><a href="/en-us/Yammer/manage-security-and-compliance/manage-yammer-with-intune" data-linktype="absolute-path">Manage Yammer with Intune</a></p>
+                        <p><a href="/en-us/Yammer/manage-security-and-compliance/data-residency" data-linktype="absolute-path">Data residency</a></p>
     </div>
         </div>
             </div>
@@ -357,7 +374,24 @@ Build communities and collaboration in your organization with Yammer.
                 </div>
         </div>
     </div>
-    </li>    
+    </li>
+<li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3>Monitor usage</h3>
+                        <p><a href="https://docs.microsoft.com/office365/admin/activity-reports/yammer-activity-report" data-linktype="absolute-path">Activity report</a></p> 
+                        <p><a href="https://docs.microsoft.com/office365/admin/activity-reports/yammer-groups-activity-report" data-linktype="absolute-path">Groups activity report</a></p> 
+                        <p><a href="https://support.office.com/en-us/article/View-Group-Insights-in-Yammer-73f9fa6d-d442-4f25-9194-d5317c9328ab" data-linktype="absolute-path">Group insights</a></p> 
+                        <p><a href="https://docs.microsoft.com/office365/admin/activity-reports/yammer-device-usage-report" data-linktype="absolute-path">Device usage report</a></p>
+                        <p><a href="https://resources.techcommunity.microsoft.com/link/yammer-measure-success-guide" data-linktype="absolute-path">Measure success guide</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </li>
+        
     <li>
         <div class="cardSize">
             <div class="cardPadding">

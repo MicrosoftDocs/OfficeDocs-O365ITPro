@@ -24,7 +24,7 @@ search.appverid:
 - MOE150
 - BEA160
 ms.assetid: b1bc0bef-4608-4601-813a-cdd9f746709a
-description: "Learn how you cancel your Office 365 for business trial or paid subscription by using the Office 365 admin portal, or calling the Support."
+description: "Learn how you cancel your Office 365 for business trial or paid subscription by using the Microsoft 365 admin center, or calling the Support."
 ---
 
 # Cancel Office 365 for business
