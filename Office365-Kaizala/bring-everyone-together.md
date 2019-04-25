@@ -16,7 +16,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 
-description: Learn how to create the company phonebook and invite people to install Kaizala.
+description: Learn how to create the company phone directory and invite people to install Kaizala.
 ---
 
 # Bring everyone together with Kaizala
@@ -25,6 +25,6 @@ Microsoft Kaizala brings together employees, partners, and customers into your o
 
 |         |         |
 |---------|---------|
-|[Create the company phone directory](create-phone-directory.md)     | Step 1: Export contact list from your existing systems <br> Step 2: Import to Kaizala to prepare the phone directory  |
-|[Invite people to install Kaizala](invite-people.md)     | Step 1: Send SMS invites for installing Kaizala <br> Step 2: Use existing digital communication channels to excite your organization about Kaizala <br> Step 3: Conduct on-ground activities to create buzz around Kaizala
+|![Image of phone icon](media/create-phone-directory-icon.png) <br> [Create the company phone directory](create-phone-directory.md)     | Step 1: Export contact list from your existing systems <br> Step 2: Import to Kaizala to prepare the phone directory  |
+|![Image of people icon](media/invite-people-icon.png) <br> [Invite people to install Kaizala](invite-people.md)     | Step 1: Send SMS invites for installing Kaizala <br> Step 2: Use existing digital communication channels to excite your organization about Kaizala <br> Step 3: Conduct on-ground activities to create buzz around Kaizala
 
