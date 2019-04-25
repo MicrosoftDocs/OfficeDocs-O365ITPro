@@ -3,7 +3,7 @@ title: "Manage Yammer users across their lifecycle from Office 365"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 2/25/2019
+ms.date: 4/22/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -27,23 +27,43 @@ The user's Yammer language setting is taken from Office 365 when the user's Yamm
   
 ## Create a user
 
-Yammer users are created as they use Yammer, instead of being created with bulk updates or sync from Active Directory. Here's a diagram that shows how a Yammer user is created.
+As of March 2019, we are in process of transitioning how Yammer users are created. During the transition, which will occur during 2019, the process will be different for existing Office 365 users and new Office 365 users.
 
-![Diagram that shows when an Office 365 admin creates a user, the user can log on to Office 365 then navigate to Yammer from the App Launcher, at which point the user is created in Yammer.](../media/410ab6f2-e8ed-4b66-a8cf-f087b3e57ec3.png)
+- **Pre-March 2019**: Yammer users are created when they use Yammer for the first time. 
+ 
+    > [!NOTE]
+    > During the rest of 2019, Office 365 users who have not yet used Yammer will be converted to "pending" Yammer users. 
+
+    ![Diagram that shows when an Office 365 admin creates a user, the user can log on to Office 365 then navigate to Yammer from the App Launcher, at which point the user is created in Yammer.](../media/410ab6f2-e8ed-4b66-a8cf-f087b3e57ec3.png)
+
+    The process of creating a user requires these steps:
   
-The process follows these steps:
+    1. The Office 365 admin creates a user in Office 365.
+    
+    2. The user logs on to Office 365 using the identity provider that is configured for the tenant.
+    
+    3. The user clicks the Yammer tile in the Office 365 app launcher to go to Yammer.
+    
+    4. A new Yammer user is created for the Office 365 user. The user's profile properties and language setting from Azure Active Directory are automatically populated in the user's Yammer profile.
+
+- **New way**: When **Enforce Office 365 identity** is selected in Yammer, as Yammer-eligible users are added to Office 365, they are automatically added as new pending users in Yammer. Their status changes from **Pending** to **Active** the first time they use Yammer.
+
+    ![Diagram that shows new process for creating a Yammer user, where the new user is created automically as "pending" in Yammer](../media/yam_newuserprocess.jpg)
+
+    The process follows these steps:
   
-1. The Office 365 admin creates a user in Office 365.
+    1. The Office 365 admin creates a user in Office 365.
     
-2. The user logs on to Office 365 using the identity provider that is configured for the tenant.
-    
-3. The user clicks the Yammer tile in the app launcher to go to Yammer.
-    
-    ![The Office 365 app launcher with the Yammer app highlighted](../media/2a9e4707-3671-411d-81c1-723fcdd2b483.png)
-  
-4. A new Yammer user is created for the Office 365 user.
-    
-5. The user's profile properties and language setting from Azure Active Directory are automatically populated in the user's Yammer profile.
+    2. A pending user is created in Office 365. The first time the user uses Yammer, the pending user becomes an active user.
+
+
+- **During transition**: Different actions are taken for different user categories:
+
+    |**Type of user**|**Yammer network configuration**|**Way that they are added**| 
+    |:-----|:-----|:-----|
+    |New users added to your Office 365 tenant|**Enforce Office 365 identity** selected|Users are automatically added as pending users in Yammer. 
+    | Existing users in your Office 365 tenant|**Enforce Office 365 identity** selected|Office 365 users must still use Yammer in order to be added as a Yammer user. |
+
     
 ## Block a user
 
@@ -57,17 +77,17 @@ The process follows these steps:
     
     To do this:
     
-1. In the Microsoft 365 admin center, select a user and choose **Edit User**. The **Sign-in status** is shown in the user details, as in this screenshot. 
+    1. In the Microsoft 365 admin center, select a user and choose **Edit User**. The **Sign-in status** is shown in the user details, as in this screenshot. 
     
-    ![Screenshot of a users's sign-in status in Office 365](../media/3003a58e-1294-460a-a174-2be67b1dc462.png)
+        ![Screenshot of a users's sign-in status in Office 365](../media/3003a58e-1294-460a-a174-2be67b1dc462.png)
   
-2. Click **Edit** next to **Sign-in status** to swtich between **Allow the user to sign in** and **Block the user from signing in**, as in this screenshot.
+    2. Click **Edit** next to **Sign-in status** to swtich between **Allow the user to sign in** and **Block the user from signing in**, as in this screenshot.
     
-    ![Sign-in status dialog box in Office 365](../media/c06def75-bb12-4dea-ae2b-325ee410c5ed.png)
+        ![Sign-in status dialog box in Office 365](../media/c06def75-bb12-4dea-ae2b-325ee410c5ed.png)
   
-2. This action flows into Yammer, and the corresponding user is logged out of Yammer (on all devices). When this user tries to login to Yammer again from any device, he or she will be prompted to login with their Office 365 credentials. However, the user will not be able to login because their sign-in status is set to blocked. As a Yammer verified administrator, you can go to the Network Admin area, and look at the Account activity section to verify that the Yammer user has been logged out, as in the following screenshot, where the user has no active Yammer sessions.
+    3. This action flows into Yammer, and the corresponding user is logged out of Yammer (on all devices). When this user tries to login to Yammer again from any device, he or she will be prompted to login with their Office 365 credentials. However, the user will not be able to login because their sign-in status is set to blocked. As a Yammer verified administrator, you can go to the Network Admin area, and look at the Account activity section to verify that the Yammer user has been logged out, as in the following screenshot, where the user has no active Yammer sessions.
     
-    ![Account Activity for a user showing no active Yammer sessions (logged out)](../media/c0704de5-d3c4-4b34-9bbb-f3cf31799734.png)
+        ![Account Activity for a user showing no active Yammer sessions (logged out)](../media/c0704de5-d3c4-4b34-9bbb-f3cf31799734.png)
   
 ## Delete a user
 
@@ -98,7 +118,7 @@ The process follows these steps:
   
 ## Restore a user
 
-An administrator can also restore a user in Office 365, and the user will be reactivated in Yammer. The following diagram shows how this works:
+When an administrator restores a Yammer-eligible user in Office 365, the user will be reactivated in Yammer. The following diagram shows how this works:
   
 ![Diagram that shows when an Office 365 admin restores a user, the user is then activated again in Yammer.](../media/f2dbf5f2-ba25-419e-802c-ac89e0bdeb7f.png)
   
