@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 04/12/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -24,7 +24,7 @@ description: Learn how to enable and disable the chat history feature in Kaizala
 Here are four easy yet powerful things you can do to get the most out of Kaizala.
 
 
-|Column1  |Column2  |
+|  |  |
 |---------|---------|
 |![Image of Bring Everyone Together](media/bring-everyone-together.png) <br> **[Bring everyone together](bring-everyone-together.md)** <br> Build a company-wide **phone directory** and enable all your employees to discover and connect with anyone in the organization.
 |![Image of Get Conversations Going](media/get-conversations-going.png) <br> **[Get conversations going](get-conversations-going.md)** <br> Enable **secure chat**, discussions, and knowledge sharing within your organization while retaining complete ownership of data.
@@ -34,22 +34,6 @@ Here are four easy yet powerful things you can do to get the most out of Kaizala
      |
 
 
-
-- The [Kaizala app](kaizala.mobile.app.md) is a secure mobile app that lets users communicate and collaborate with others in and outside of your organization.
-- The [Kaizala management portal](kaizala-management-portal.md) is a web-based management portal that provides management, reporting, and extensibility capabilities for Kaizala.
-
-Ready to roll out Kaizala to your organization? Here's where to start:
-
-- Step 1: [Bring everyone together](bring-everyone-together.md)
-- Step 2: [Get conversations going](get-conversations-going.md)
-- Step 3: [Connect your value chain](connect-value-chain.md)
-- Step 4: [Digitize everyday tasks](digitize-tasks.md)
-
-## Kaizala licensing
-
-The Kaizala Pro license allows every Office 365 user to have access to the Kaizala management portal and to link their mobile app to their Office account.
-
-See [Enable or disable Kaizala Pro for your organization](enable-disable-kaizala.md).
 
 
 
