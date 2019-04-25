@@ -1,10 +1,10 @@
 ---
-title: Connect your value chain with Kaizala
+title: Connect with employees with Kaizala
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 04/12/2019
+ms.date: 04/25/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -16,10 +16,10 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 
-description: Learn how to enable and disable the chat history feature in Kaizala.
+description: Learn how to establish a mobile communication channel with your entire workforce, partners, and customers in Kaizala.
 ---
 
-# Connect your value chain in Kaizala
+# Connect with employees with Kaizala
 
 Microsoft Kaizala lets you create groups to establish a mobile communication channel with your entire workforce, partners, and customers.
 
