@@ -1,5 +1,5 @@
 ---
-title: Use Kaizala Actions
+title: Get work done with Kaizala Actions
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
@@ -19,7 +19,7 @@ ms.assetid:
 description: Learn how to use Kaizala Action cards to manage work.
 ---
 
-# Use Kaizala Actions
+# Get work done with Kaizala Actions
 
 Kaizala makes it easy to connect and coordinate with your workers, wherever they are. Kaizala Actions let you manage work or collect data from individuals and groups, even if they’re not in your organization.
 
