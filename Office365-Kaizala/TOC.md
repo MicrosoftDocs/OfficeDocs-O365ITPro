@@ -1,7 +1,7 @@
 
   
 
-# [Microsoft Kaizala](kaizala-overview.md)
+# [Welcome to Kaizala](kaizala-overview.md)
 ## [Kaizala app](kaizala-app.md)
 ### [Kaizala mobile app](kaizala-mobile-app.md)
 ### [Chat history](chat-history.md)
