@@ -147,4 +147,4 @@ Check it out: **Users > Active users > Edit** or **Add user > Licenses and Apps*
 
   - You can perform quick tasks like resetting passwords for single or multiple users directly from the list view.
 
-  - The User's details and settings are now organized by the following tabs: **Account**, **Devices**, **Licenses**, **Apps**, **Mail**, and **OneDrive**. Previously, many of these settings were located across multiple screens. <br/>![Users detail pane in the admin center preview.](media/60c6b9d3-d62f-4b8d-97db-41ff247b1bf0.png)<br/>Curious to know how the classic admin center tasks map to the preview admin center? Check out [User management](#user-management) later in this article.
+  - The User's details and settings are now organized by the following tabs: **Account**, **Devices**, **Licenses**, **Apps**, **Mail**, and **OneDrive**. Previously, many of these settings were located across multiple screens. <br/>![Users detail pane in the admin center preview.](media/60c6b9d3-d62f-4b8d-97db-41ff247b1bf0.png)<br/>
