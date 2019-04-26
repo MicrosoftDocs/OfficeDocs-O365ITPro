@@ -262,6 +262,7 @@ This roadmap guides you through the content for Office 365.
                 <div class="card">
                     <div class="cardText">
                         <h3>Business</h3>
+                        <p><a href="https://go.microsoft.com/fwlink/?linkid=2090533">OfficeSmallBiz on Twitter</a></p>
                         <p><a href="https://go.microsoft.com/fwlink/?linkid=2090229/">Office 365 for business blog</a></p>
                     </div>
                 </div>
