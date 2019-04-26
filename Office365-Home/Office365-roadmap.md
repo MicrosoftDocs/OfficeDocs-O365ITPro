@@ -14,13 +14,120 @@ ms.author: samanro
 # Office 365 content roadmap
 
 This roadmap guides you through the content for Office 365.
-![A roadmap to Office content: Understand, Evaluate and buy, Onboard, Learn about, Get help, and Engage with Microsoft.](images/o365contentroadmap.png)
 
-
+<ul class="panelContent cardsK">
+    <li>
+        <a href="#Understand">
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage bgdAccent1"> 
+                                <img src="images/o365roadmapunderstandoffice365.svg" alt="A roadmap with a marker" />
+                            </div>
+                        </div>
+                        <div class="cardText">
+                            <h3>Understand Office 365</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#Evaluate">
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage bgdAccent1"> 
+                                <img src="images/o365roadmapevaluate.svg" alt="A roadmap with a marker" />
+                            </div>
+                        </div>
+                        <div class="cardText">
+                            <h3>Evaluate and buy</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#Onboard">
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage bgdAccent1"> 
+                                <img src="images/o365roadmaponboard.svg" alt="A roadmap with a marker" />
+                            </div>
+                        </div>
+                        <div class="cardText">
+                            <h3>Onboard to Office 365</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#Learn">
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage bgdAccent1"> 
+                                <img src="images/o365roadmaplearn.svg" alt="A roadmap with a marker" />
+                            </div>
+                        </div>
+                        <div class="cardText">
+                            <h3>Learn about Office 365</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#Help">
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage bgdAccent1"> 
+                                <img src="images/o365roadmapgethelp.svg" alt="A roadmap with a marker" />
+                            </div>
+                        </div>
+                        <div class="cardText">
+                            <h3>Get help while using Office 365</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#Engage">
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage bgdAccent1"> 
+                                <img src="images/o365roadmapengage.svg" alt="A roadmap with a marker" />
+                            </div>
+                        </div>
+                        <div class="cardText">
+                            <h3>Engage with Microsoft</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </li></ul>
 
 ---
 
-<h2>Understand</h2>
+<h2 id="Understand">Understand Office 365</h2>
 <ul class="panelContent cardsW">
     <li>
         <div class="cardSize">
@@ -62,7 +169,7 @@ This roadmap guides you through the content for Office 365.
         </div>
     </li>
 </ul>
-<h2>Evaluate</h2>
+<h2 id="Evaluate">Evaluate and buy</h2>
 <ul class="panelContent cardsW">
     <li>
         <div class="cardSize">
@@ -104,7 +211,7 @@ This roadmap guides you through the content for Office 365.
         </div>
     </li>
 </ul>
-<h2>Onboard</h2>
+<h2 id="Onboard">Onboard to Office 365</h2>
 <ul class="panelContent cardsW">
     <li>
         <div class="cardSize">
@@ -148,7 +255,7 @@ This roadmap guides you through the content for Office 365.
         </div>
     </li>
 </ul>
-<h2>Learn</h2>
+<h2 id="Learn">Learn about Office 365</h2>
 <ul class="panelContent cardsW">
     <li>
         <div class="cardSize">
@@ -197,7 +304,7 @@ This roadmap guides you through the content for Office 365.
         </div>
     </li>
 </ul>
-<h2>Get help</h2>
+<h2 id="Help">Get help while using Office 365</h2>
 <ul class="panelContent cardsW">
     <li>
         <div class="cardSize">
@@ -240,7 +347,7 @@ This roadmap guides you through the content for Office 365.
         </div>
     </li>
 </ul>
-<h2>Engage with Microsoft</h2>
+<h2 id="Engage">Engage with Microsoft</h2>
 <ul class="panelContent cardsW">
     <li>
         <div class="cardSize">
