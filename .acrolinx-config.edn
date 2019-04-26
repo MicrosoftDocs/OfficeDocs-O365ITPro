@@ -1,0 +1,2 @@
+{:allowed-branchname-matches ["master"]
+ :allowed-filename-matches ["Office365-SmallBusiness" "Office365-admin" "yammer" "Office365-Kaizala"]}
