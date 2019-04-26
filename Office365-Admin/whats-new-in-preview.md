@@ -21,7 +21,7 @@ f1_keyword: MACDashWhatsNew
 
 # What's new in the NEW Microsoft 365 admin center
 
-We're continuously adding new features to the Microsoft 365 admin center preview, fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today.
+We're continuously adding new features to the Microsoft 365 admin center, fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today.
 Want to know how to participate in the preview? Checkout [About the Microsoft 365 admin center](microsoft-365-admin-center-preview.md).
 
 ## April 2019
@@ -48,7 +48,7 @@ We've made a few more changes to **user management**, here's a quick list:
 - The **Group** list and details pane have been updated to the new style. Go to **Groups** > **Groups** to view the changes. 
     - Speaking of groups, we've also added a **Microsoft Teams** tab to the groups details pane where you can turn any Office 365 group into a Team. To "teamify" a group select any Office 365 group from the list, select the **Microsoft Teams** tab, and then **Create Team**. If the group is already a Team, you'll get a link to manage it from the **Teams admin center**.
     - Finally, you can add the **Teams status** to the **groups** list. On the column header, select **Choose columns** > **Teams status** > **Save**.
-- **New limited admin roles** - We've release 4 new admin roles so that you can give users only the access they need.
+- **New limited admin roles** - We've release some new admin roles so that you can give users only the access they need.
     -  **Kaizala admin**: Users in this role have permission to perform all management tasks within Microsoft Kaizala, including create and manage users in Kaizala directory, manage Kaizala groups, manage action cards and connectors, and create service requests.
     - **Search admin**: Users in this role have full access to all Microsoft Search management features in the Microsoft 365 admin center. Search admins can delegate the Search admin and Search editor roles to users, and create and manage content, like bookmarks, Q&A items, and locations. Additionally, these users can view the message center, monitor service health, and create service requests.
     - **Search editor**: Users in this role can create, manage, and delete content for Microsoft Search in the Microsoft 365 admin center, including bookmarks, Q&A items, and locations.
