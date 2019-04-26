@@ -43,7 +43,7 @@ Centralized deployment of add-ins requires that the users have Exchange Online a
     
     \*In MSI versions of Outlook, admin-installed add-ins will show in the appropriate ribbon in Outlook but doesn't show the add-in in 'My add-ins' section.
     
-- Your directory must be federated to Azure Active Directory.
+- Your tenant's directory must either be in or federated to Azure Active Directory.
     
 - Your users must sign into Office using their Organizational ID.
     
