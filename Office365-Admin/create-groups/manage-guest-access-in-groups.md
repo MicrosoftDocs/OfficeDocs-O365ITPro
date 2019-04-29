@@ -155,7 +155,7 @@ Update the script as follows:
 
 To let group members outside the organization access group content, set `$AllowGuestsToAccessGroups = "True"`, otherwise set `$AllowGuestsToAccessGroups = "False"`.
 
-To let group owners add people outside the organization to groups, set `$AllowToAddGuests = "True"`, otherwise, set `$AllowToAddGuests = "True"`.
+To let group owners add people outside the organization to groups, set `$AllowToAddGuests = "True"`, otherwise, set `$AllowToAddGuests = "False"`.
 
 Save the file as ExternalGroupAccess.ps1. 
 
