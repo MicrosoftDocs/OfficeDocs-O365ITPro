@@ -29,12 +29,12 @@ Data for all reports is displayed within 4 to 5 minutes. You can experience dela
 
 The following reports are currently available:
 
-- Adoption and activity reports
+- [Adoption and activity reports](adoption-and-activity-reports.md)
   - Adoption report
   - Activity report
   - Export chat history
   - Export tenant data
-- Action reports
+- [Action reports](action-reports.md)
   - Survey reports
   - Detailed Survey report
   - Recurrent surveys
