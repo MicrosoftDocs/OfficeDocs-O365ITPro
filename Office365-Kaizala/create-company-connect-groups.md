@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 04/25/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -24,6 +24,18 @@ description: Learn how to create company connect groups in Kaizala.
 Think of a “company connect group” as a one-way communication channel between the organization and workers. This allows the company to broadcast important information to the workforce.
 
 In Kaizala, a company connect group can be set up by following these easy steps.
+
+### Step 1 – Create a Kaizala group for the company connect platform
+
+
+### Step 2 – Add users to the company connect group
+
+
+### Step 3 – Onboard the content moderation team
+
+
+
+(old)
 
 ### Step 1 – Create a hub and spoke group
  
