@@ -1,20 +1,43 @@
-# Delete User from Directory
+---
+title: Delete users from the organization directory in Kaizala
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
+ms.audience: Admin
+ms.date: 05/01/2019
+ms.topic: article
+ms.service: Kaizala
+ms.custom: Kaizala
+ms.reviewer: nitinjms2
+localization_priority: Normal
+search.appverid:
+- MET150
+- MOE150
+- MED150
+- MBS150
+ms.assetid: 
+description: Learn how to delete users to the organization directory in Kaizala.
+---
 
-Organization Admin(s) only can delete user from an Organization. They can delete users one-by-one or in multiple.
+# Delete users from the organization directory in Kaizala
+
+Organization admins only can delete users from an organization. They can delete users one at a time or delete mutiple users at the same time.
 
 ## Delete a single user
-- Click **Directory** in left hand navigation on [Kaizala Management Portal](https://manage.kaiza.la). Then select a user from the user list for your organization
-- Click on that user to see that user's detailed view
-- CLick on Delete
 
-## Delete multiple user(s)
+1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, select **Directory**.
+2. Select a user from the user list for your organization.
+3. Click on that user to see that user's detailed view.
+4. Select **Delete**.
 
-- Click **Directory** in left hand navigation on [Kaizala Management Portal](https://manage.kaiza.la)
-- Select multiple user(s) from the network-specific user list that you want to delete. At max 100 users can be selected
-- Click on Delete
+## Delete multiple users
 
-> Note:
-> 1. AAD linked users cannot be deleted from Kaizala's Organization directory using Kaizala Management portal
-> 2. If AAD user is deleted from AAD, users are automatically deleted from Kaizala's Organization Directory
+1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, select **Directory**.
+2. Select the users from the network-specific user list that you want to delete. A maximum of 100 users can be selected.
+3. Select **Delete**.
 
-  Once you delete a user, they get removed from all organizational groups on Kaizala. All data, including messages, Kaizala Actions and attachments for these groups will be deleted from their device. 
+> [!NOTE]
+> - Azure AD linked users cannot be deleted from the Kaizala organization directory using Kaizala management portal.
+> - If an Azure AD user is deleted from Azure AD, the user is automatically deleted from the Kaizala organization directory.
+
+Once you delete a user, that user gets removed from all organizational groups on Kaizala. All data – including messages, Kaizala Actions, and attachments – for these groups will be deleted from the user's device. 
