@@ -26,8 +26,9 @@ Organization admins can add new attributes and define settings that each attribu
   
 ## Set up attributes for all users in the organization
 
-1. Click or tap **Directory** \> **More**. Then select **Manage Attributes** from the drop-down menu. 
-2. To add a new attribute, select **Add New**. Then choose from a range of pre-defined suggested attributes or add a new one. 
+1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, select **Directory** > **More**.
+2. Select **Manage Attributes** from the drop-down menu. 
+3. To add a new attribute, select **Add New**. Then choose from a range of pre-defined suggested attributes or add a new one. 
     
 For a new attribute, you can enter the name of the attribute, select its type (string, number, Yes/No, and date/time), and determine whether the values for the attribute are required or not. For each attribute, the following property needs to be set:
  
