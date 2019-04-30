@@ -1,16 +1,37 @@
-# View user details
+---
+title: View user details in Kaizala
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
+ms.audience: Admin
+ms.date: 05/01/2019
+ms.topic: article
+ms.service: Kaizala
+ms.custom: Kaizala
+ms.reviewer: nitinjms2
+localization_priority: Normal
+search.appverid:
+- MET150
+- MOE150
+- MED150
+- MBS150
+ms.assetid: 
+description: Learn how to view a user's detailed information in Kaizala.
+---
+# View user details in Kaizala
 
-To find a detailed view of a user's profile:  
-- Click **Directory**. Then select a user from the user list for your organization    
-- Click on the user to see user's details
+To find a detailed view of a user's profile:
+ 
+1. Select **Directory**. Then select a user from the user list for your organization.    
+2. Select the user to see the user's details.
 
-On user's details page, you can find:
+On a user's details page, you can find:
 
-*    Display Name
-*    Kaizala Profile pic
-*    Phone Number
-*    Other Organization Attributes
+- Display name
+- Kaizala profile picture
+- Phone number
+- Other organization attributes
 
-Here you can also find common groups between you and the other user (for whom you are viewing details). You can remove the user from groups where you are an admin. At the same time, you can promote/remove a user as admin.
+You can also find common groups between you and the other user (for whom you are viewing details). You can remove the user from groups of which you are an admin. At the same time, you can promote or remove a user as admin.
 
-If you are a tenant admin, you would also find 'Delete user' button, if the concerned user is not linked to AAD
+If you are a tenant admin, you can also find a **Delete user** button, if the concerned user is not linked to Azure AD.
