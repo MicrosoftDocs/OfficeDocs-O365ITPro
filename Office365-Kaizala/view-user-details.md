@@ -22,8 +22,9 @@ description: Learn how to view a user's detailed information in Kaizala.
 
 To find a detailed view of a user's profile:
  
-1. Select **Directory**. Then select a user from the user list for your organization.    
-2. Select the user to see the user's details.
+1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, select **Directory**.
+2. Select a user from the user list for your organization.    
+3. Select the user to see the user's details.
 
 On a user's details page, you can find:
 
