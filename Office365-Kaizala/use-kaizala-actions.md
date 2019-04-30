@@ -27,7 +27,7 @@ Kaizala makes it easy to connect and coordinate with your workers, wherever they
 
 Get work done in three easy steps.
 
-### Step 1 – Send a survey to collect data from the field
+### Step 1 – Use a survey to collect data from the field
 
 Use the following steps to quickly create a survey to collect data from your workforce. 
 
@@ -54,7 +54,7 @@ Use the following steps to quickly create a survey to collect data from your wor
 
    ![Screenshot of survey reporting in the Kaizala management portal](media/portal-analytics.png)
 
-### Step 2 – Send a poll to collect user preferences
+### Step 2 – Digitize attendance process at remote locations
 
 Use the following steps to quickly create simple surveys for fast feedback.
  
