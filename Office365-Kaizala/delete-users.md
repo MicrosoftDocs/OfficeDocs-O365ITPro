@@ -37,7 +37,7 @@ Organization admins only can delete users from an organization. They can delete 
 3. Select **Delete**.
 
 > [!NOTE]
-> - Azure AD linked users cannot be deleted from the Kaizala organization directory using Kaizala management portal.
+> - Azure Active Directory (Azure AD) linked users cannot be deleted from the Kaizala organization directory using Kaizala management portal.
 > - If an Azure AD user is deleted from Azure AD, the user is automatically deleted from the Kaizala organization directory.
 
 Once you delete a user, that user gets removed from all organizational groups on Kaizala. All data – including messages, Kaizala Actions, and attachments – for these groups will be deleted from the user's device. 
