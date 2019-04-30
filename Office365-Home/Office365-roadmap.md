@@ -23,7 +23,7 @@ This roadmap guides you through the content for Office 365.
                     <div class="card">
                         <div class="cardImageOuter">
                             <div class="cardImage bgdAccent1"> 
-                                <img src="../images/o365roadmapunderstandoffice365.svg" alt="A roadmap with a marker for understand"/>
+                                <img src="../images/o365roadmapunderstandoffice365.png" alt="A roadmap with a marker for understand"/>
                             </div>
                         </div>
                         <div class="cardText">
@@ -41,7 +41,7 @@ This roadmap guides you through the content for Office 365.
                     <div class="card">
                         <div class="cardImageOuter">
                             <div class="cardImage bgdAccent1"> 
-                                <img src="../images/o365roadmapevaluate.svg" alt="A roadmap with a marker for evaluate" />
+                                <img src="../images/o365roadmapevaluate.png" alt="A roadmap with a marker for evaluate" />
                             </div>
                         </div>
                         <div class="cardText">
@@ -59,7 +59,7 @@ This roadmap guides you through the content for Office 365.
                     <div class="card">
                         <div class="cardImageOuter">
                             <div class="cardImage bgdAccent1"> 
-                                <img src="../images/o365roadmaponboard.svg" alt="A roadmap with a marker for onboard" />
+                                <img src="../images/o365roadmaponboard.png" alt="A roadmap with a marker for onboard" />
                             </div>
                         </div>
                         <div class="cardText">
@@ -77,7 +77,7 @@ This roadmap guides you through the content for Office 365.
                     <div class="card">
                         <div class="cardImageOuter">
                             <div class="cardImage bgdAccent1"> 
-                                <img src="../images/o365roadmaplearn.svg" alt="A roadmap with a marker for learn" />
+                                <img src="../images/o365roadmaplearn.png" alt="A roadmap with a marker for learn" />
                             </div>
                         </div>
                         <div class="cardText">
@@ -95,7 +95,7 @@ This roadmap guides you through the content for Office 365.
                     <div class="card">
                         <div class="cardImageOuter">
                             <div class="cardImage bgdAccent1"> 
-                                <img src="../images/o365roadmapgethelp.svg" alt="A roadmap with a marker for get help" />
+                                <img src="../images/o365roadmapgethelp.png" alt="A roadmap with a marker for get help" />
                             </div>
                         </div>
                         <div class="cardText">
@@ -113,7 +113,7 @@ This roadmap guides you through the content for Office 365.
                     <div class="card">
                         <div class="cardImageOuter">
                             <div class="cardImage bgdAccent1"> 
-                                <img src="../images/o365roadmapengage.svg" alt="A roadmap with a marker for engage" />
+                                <img src="../images/o365roadmapengage.png" alt="A roadmap with a marker for engage" />
                             </div>
                         </div>
                         <div class="cardText">
