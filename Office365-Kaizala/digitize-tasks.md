@@ -30,5 +30,5 @@ Microsoft Kaizala comes with several out-of-the-box Action cards that can help m
 |         |         |
 |---------|---------|
 |![Image of get work done icon](media/get-work-done-icon.png) <br> **[Get work done with Kaizala Actions](use-kaizala-actions.md)**     | Step 1: Use a survey to collect data from the field <br> Step 2: Digitize attendance process at remote locations <br> Step 3: Send a job and effectively manage tasks  |
-|![Image of create actions icon](media/create-actions-icon.png) <br> **[Create your own Kaizala Actions](create-custom-actions.md)**     | Step 1: Creating a Kaizala Action <br> Step 2: Add actions to a group  |
+|![Image of create actions icon](media/create-actions-icon.png) <br> **[Create your own Kaizala Actions](create-custom-actions.md)**     | Step 1: Create a Kaizala Action <br> Step 2: Add actions to a group  |
 
