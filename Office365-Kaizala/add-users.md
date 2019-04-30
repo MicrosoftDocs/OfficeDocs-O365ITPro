@@ -1,98 +1,92 @@
-# Add user to Directory
+---
+title: Add users to the organization directory in Kaizala
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
+ms.audience: Admin
+ms.date: 05/01/2019
+ms.topic: article
+ms.service: Kaizala
+ms.custom: Kaizala
+ms.reviewer: nitinjms2
+localization_priority: Normal
+search.appverid:
+- MET150
+- MOE150
+- MED150
+- MBS150
+ms.assetid: 
+description: Learn how to create or add users to the organization directory in Kaizala.
+---
 
-Before you can send instant messages, pictures, and documents, or setup a new poll or survey, you'll have to add/create Kaizala users in your Organization. You can add users individually or in bulk. For managing users in groups, check out [Kaizala groups](groups.md).
+# Add users to the organization directory in Kaizala
 
-Organization Admin(s) can create/add new users in Organization Directory networks. However, users when added by group admin(s) in any Org group(s) also become a part of Organization Directory.
+Before you can send instant messages, pictures, and documents, or set up a new poll or survey, you'll have to create or add Kaizala users in your organization. You can add users individually or in bulk. For managing users in groups, see [Kaizala groups](groups.md).
 
-User can be added to 'Employee' network in any of the following ways:
+Organization admins can create or add new users in organization directory networks. However, users when added by a group admin in any organization group also become a part of the organization directory.
 
-* Users added by an organization admin as Employees, either in bulk or individually
-* Users synced automatically from Azure Active Directory (Azure AD)
-* Users who have signed in to their Kaizala mobile app using an Office 365 account
+Users can be added to the Employee network in any of the following ways:
 
-Similarly, users can be added to 'Others' network:
-* Non-employee users added by a group admin to their organization groups
-* Users added by an organization admin as Others, either in bulk or individually
+- Users added by an organization admin as Employees, either in bulk or individually
+- Users synced automatically from Azure Active Directory (Azure AD)
+- Users who have signed in to their Kaizala mobile app using an Office 365 account
 
-However tenant admin(s) can always move a user between network(s)
+Similarly, users can be added to the Others network:
+
+- Non-employee users added by a group admin to their organization groups
+- Users added by an organization admin as Others, either in bulk or individually
+
+However, tenant admins can always move a user between networks.
   
 ## Add users in bulk to your organization directory
 
-If you want to add several users at once, you can do so using **Import Users** option. 
+If you want to add several users at once, you can do so using the **Import Users** option. 
   
-- Click **Directory** \. Open 'Employee' or 'Others' network tab
-- Select **Import Users** 
-    
-- On the **Import Users** dialog, download the CSV template.[Add several users at the same time to Office 365 - Admin Help](https://support.office.com/article/1f5767ed-e717-4f24-969c-6ea9d412ca88#__toc316652088).
-    
-- Follow the template to add your users and their phone numbers to Kaizala. Save the file in .csv format.
-    
-- Click **Select a File** and choose the file you saved above. Finally click **Upload**. 
-    
-  
-- On the **Upload Users History** page, you can check the status of the uploaded file. Click **Refresh** to get the latest status. If the status is **Completed**, you can find the updated user list under the earlier selected network - Employee or Others. 
+1. Select **Directory** \. Open **Employee** or **Others** network tab.
+2. Select **Import Users** 
+3. On the **Import Users** dialog box, download the CSV template. See how to [add several users at the same time to Office 365](https://support.office.com/article/1f5767ed-e717-4f24-969c-6ea9d412ca88#__toc316652088).
+4. Follow the template to add your users and their phone numbers to Kaizala. Save the file in .csv format.
+5. Select **Select a File**, and choose the file you previously saved. Finally, select **Upload**. 
+6. On the **Upload Users History** page, you can check the status of the uploaded file. Select **Refresh** to get the latest status. If the status is **Completed**, you can find the updated user list under the earlier selected network – Employee or Others. 
     
 > [!NOTE]
 > You can update info for an existing user by re-uploading the file with updated data for that user. 
   
 ## Find history of all user upload operations
 
-
-- Click **Directory**. Then select **View csv import history** from the drop-down. 
-- On the **View Import History** page, you can find a list of all user upload operations. Each list item has the following info: 
-    
-  - **File Name**
-    
-  - **Uploaded by**
-    
-  - **Date** - timestamp when the file was uploaded. 
-    
-  - **Status** of the uploaded file. This can be one of the following values : 
-    
-  - **Processing** - the file has been sent for processing and hasn't been uploaded yet. 
-    
-  - **Completed** - the file has either been successfully uploaded, or partially uploaded  due to some errors. 
-    
-  - **Failed** - the file hasn't been uploaded successfully. Download the error log file for the upload to check out any issues. 
-    
-  - **Download** - clicking the icon downloads the originally uploaded file. 
+1. Select **Directory**. Then select **View csv import history** from the drop-down list. 
+2. On the **View Import History** page, you can find a list of all user upload operations. Each list item has the following information: 
+   - **File Name**
+   - **Uploaded by**
+   - **Date** - timestamp when the file was uploaded. 
+   - **Status** of the uploaded file. This can be one of the following values: 
+     - **Processing** - the file has been sent for processing and hasn't been uploaded yet. 
+     - **Completed** - the file has either been successfully uploaded, or partially uploaded  due to some errors. 
+     - **Failed** - the file hasn't been uploaded successfully. Download the error log file for the upload to check out any issues. 
+   - **Download** - click the icon to download the originally uploaded file. 
     
 ## Export users' data for your organization
 
-
-- Click **Directory** \> **Export Users**. Then select **Create New Request**. 
-  
-- On the **Export History** page, you can check the status of the export request. Click **Refresh** to get the latest status. If the status is Completed, you can download the requested file by clicking on the download icon beside the specific request. 
+1. Select **Directory** \> **Export Users**. Then select **Create New Request**. 
+2. On the **Export History** page, you can check the status of the export request. Select **Refresh** to get the latest status. If the status is **Completed**, you can download the requested file by clicking the download icon beside the specific request. 
     
 ## Find history of all export users operation
 
-
-- Click **Directory** \> **Export Users**. Then select **View Export History**. 
-    
-- On the **Export History** page, you can find a list of all user upload operations. Each list-item has following info 
-  
-  - File Name
-    
-  - Exported by
-    
-  - Date - timestamp when the file was uploaded.
-    
-  - **Status** of the exported file. This can be one of the following values : 
-    
-    - **Queued** - the request has been queued. 
-    
-    - **Completed** - the file has either been successfully exported, or partially exported due to some errors. 
-    
-    - **Failed** - the file wasn't exported successfully. Download the error log file for the upload to check out any issues. 
-    
-  - **Download** - Clicking the icon downloads the requested export file. 
+1. Select **Directory** \> **Export Users**. Then select **View Export History**. 
+2. On the **Export History** page, you can find a list of all user upload operations. Each list item has following information: 
+   - **File Name**
+   - **Exported by**
+   - **Date** - timestamp when the file was uploaded.
+   - **Status** of the exported file. This can be one of the following values: 
+     - **Queued** - the request has been queued. 
+     - **Completed** - the file has either been successfully exported, or partially exported due to some errors. 
+     - **Failed** - the file wasn't exported successfully. Download the error log file for the upload to check out any issues. 
+   - **Download** - Clicking the icon downloads the requested export file. 
     
 ## Find a detailed view of user's profile in the organization
 
-
 To find a detailed view of a user's profile:
   
-- Click **Directory**. Then select a user from the user list for your organization. 
-    
-- Click on the user to see user's details.
+1. Select **Directory**. Then select a user from the user list for your organization. 
+2. Select the user to see the user's details.
     
