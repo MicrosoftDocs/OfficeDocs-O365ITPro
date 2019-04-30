@@ -1,21 +1,40 @@
-# Setting up Organization Directory
+---
+title: Set up the organization directory for Kaizala
+ms.author: chucked
+author: chuckedmonson
+manager: serdars
+ms.audience: Admin
+ms.date: 05/01/2019
+ms.topic: article
+ms.service: Kaizala
+ms.custom: Kaizala
+ms.reviewer: nitinjms2
+localization_priority: Normal
+search.appverid:
+- MET150
+- MOE150
+- MED150
+- MBS150
+ms.assetid: 
+description: Learn how to set up the organization directory for Kaizala.
+---
+# Set up the organization directory for Kaizala
 
-Kaizala organization admins can define and manage user attributes for an organization. They can add custom user attributes (employee ID, manager, etc) in the Kaizala Management Portal, which makes it easier for admin(s) and other users to identify a user.
+Kaizala organization admins can define and manage user attributes for an organization. They can add custom user attributes (such as employee ID or manager) in the Kaizala management portal, which makes it easier for admins and other users to identify a user.
 
-Organization Admin(s) can add new attributes and define settings that each attribute can have.
+Organization admins can add new attributes and define settings that each attribute can have.
   
 ## Set up attributes for all users in the organization
 
-- Click or tap **Directory** \> **More**. Then select **Manage Attributes** from the drop-down menu. 
+1. Click or tap **Directory** \> **More**. Then select **Manage Attributes** from the drop-down menu. 
+2. To add a new attribute, select **Add New**. Then choose from a range of pre-defined suggested attributes or add a new one. 
     
-- To add a new attribute, select **Add New**. Then choose from a range of pre-defined suggested attributes or add a new one. 
-    
-For a new attribute, you can enter the name of the attribute, select its type (string, number, Yes/No and date/time) and whether values for this attribute is required or not. For each attribute following property needs to be set:
+For a new attribute, you can enter the name of the attribute, select its type (string, number, Yes/No, and date/time), and determine whether the values for the attribute are required or not. For each attribute, the following property needs to be set:
  
  | | | Default value | Behavior|
  |:--:  |:------------:|:------:|:-------:|
-    | Allow users to edit values for themselves | ON | If set ON, then users themselves and Tenant Admin(s) can edit values for the attributes. If set OFF, only Tenant admin(s) can edit values |
-    | Show this column to all users | ON | If set ON, this particular column is visible to all users. Else, this is visible only to Tenant admin(s) ||
+    | Allow users to edit values for themselves | ON | If set ON, users themselves and tenant admins can edit values for the attributes. <br>If set OFF, only tenant admins can edit values. |
+    | Show this column to all users | ON | If set ON, this particular column is visible to all users. <br>If set OFF, only tenant admins can see this column. ||
     
-  - You can add multiple attributes at once
-  - Once you've finalized the list of attributes, click **Save** to add the new changes to the organization's attribute list
+  - You can add multiple attributes at the same time.
+  - When you've finalized the list of attributes, select **Save** to add the new changes to the organization's attribute list.
