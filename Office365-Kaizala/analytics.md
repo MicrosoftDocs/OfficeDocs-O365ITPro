@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 04/30/2019
+ms.date: 05/01/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -32,16 +32,15 @@ The following reports are currently available:
 - [Adoption and activity reports](adoption-and-activity-reports.md)
   - Adoption report
   - Activity report
-  - Export chat history
-  - Export tenant data
+  - Usage trends
 - [Action reports](action-reports.md)
-  - Survey reports
-  - Detailed Survey report
+  - Survey report
+  - Detailed survey report
   - Recurrent surveys
   - Polls
-  - Attendance card
+  - Attendance cards
   - Jobs
-  - Training card
+  - Training cards
   - Location cards
 
 > [!NOTE]
