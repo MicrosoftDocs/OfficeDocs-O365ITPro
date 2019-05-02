@@ -21,15 +21,13 @@ description: Learn how to use Kaizala Action cards to manage work.
 
 # Get work done with Kaizala Actions
 
-Kaizala makes it easy to connect and coordinate with your workers, wherever they are. Kaizala Actions let you manage work or collect data from individuals and groups, even if they’re not in your organization.
+Kaizala offers a wide range of action cards or mini apps that make your daily work management easy and efficient. You can use the out-of-the-box Action cards or create your own customized Kaizala Actions. Let’s get you started with some of the Kaizala Actions such as survey, attendance, and job that can help you get work done.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2JDVf] 
 
-Get work done in three easy steps.
-
 ### Step 1 – Use a survey to collect data from the field
 
-Use the following steps to quickly create a survey to collect data from your workforce. 
+Surveys are great for collecting data from the field. For example, getting daily sales data from your field sales team. 
 
 1. In the group conversation, in the chat box at the bottom of the page, tap the paperclip icon.
 2. Select the **Survey** option, and enter the relevant details such as title.
@@ -50,14 +48,14 @@ Use the following steps to quickly create a survey to collect data from your wor
    ![Screenshot of the feedback form in a survey](media/survey-feedback-form.png)
 
 5. You can use the Survey Action card for several scenarios where data from remote workers needs to be collected. Some examples are collecting sales data from agents, conducting remote audits, and checking on faraway operations. 
-6. 6.	Detailed reporting on all surveys sent out to your employees, suppliers and partners can be viewed on the Kaizala management portal under the **Analytics** section > **Surveys** tab. 
+6. Detailed reporting on all surveys sent out to your employees, suppliers, and partners can be viewed on the Kaizala management portal under **Analytics** > **Surveys**. 
 
    ![Screenshot of survey reporting in the Kaizala management portal](media/portal-analytics.png)
 
-### Step 2 – Digitize attendance process at remote locations
+### Step 2 – Send a poll to collect user preferences
 
-Use the following steps to quickly create simple surveys for fast feedback.
- 
+Use the following steps to quickly create a poll to collect data from your workforce in the field.
+
 1. In the group conversation, in the chat box at the bottom of the page, tap the paperclip icon.
 2. Select the **Quick Poll** option, and enter the relevant details such as questions and answer choices.
 
@@ -67,7 +65,7 @@ Use the following steps to quickly create simple surveys for fast feedback.
 
    ![Screenshot of an employee quick poll](media/poll-respond.png)
 
-4. Detailed reporting on all surveys sent out to your employees, suppliers and partners can be viewed on the Kaizala management portal under the **Analytics** section > **Surveys** tab. 
+4. Detailed reporting on all polls sent out to your employees, suppliers, and partners can be viewed on the Kaizala management portal under **Analytics** > **Polls**.
 
 ### Step 3 – Send a job and effectively manage tasks
 
@@ -82,6 +80,7 @@ Use the following steps to quickly send out jobs and tasks to remote workers.
 
    ![Screenshot of how an employee can update job status](media/job-status.png)
 
-4. Detailed reporting on all surveys sent out to your employees, suppliers and partners can be viewed on the Kaizala management portal under the **Analytics** section > **Surveys** tab. 
+4. Detailed reporting on all surveys sent out to your employees, suppliers, and partners can be viewed on the Kaizala management portal under **Analytics** > **Jobs**. 
 
 
+*Next>* [Create your own Kaizala Actions](create-custom-actions.md)
