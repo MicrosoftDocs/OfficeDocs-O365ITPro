@@ -8,7 +8,7 @@
 #### [Create the company phone directory](create-phone-directory.md)
 #### [Invite people to install Kaizala](invite-people.md)
 ### [Get conversations going](get-conversations-going.md)
-#### [Move work chats](move-work-chats.md)
+#### [Move existing groups](move-work-chats.md)
 #### [Create discussion groups](create-discussion-groups.md)
 ### [Connect with employees](connect-with-employees.md)
 #### [Create company connect groups](create-company-connect-groups.md)
