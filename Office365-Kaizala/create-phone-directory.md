@@ -50,6 +50,6 @@ As a first step, export contact information from your existing systems such as R
  
 7. Select **Refresh** to get the latest status. If the status is **Completed**, you can find the updated user list on the **Users** page.
 
-Next> [Invite people to install Kaizala](invite-people.md)
+*Next>* [Invite people to install Kaizala](invite-people.md)
 
 

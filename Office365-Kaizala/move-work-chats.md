@@ -64,4 +64,4 @@ You must link your new group to your organization to ensure data security and to
 Now that all your chats are moved to Kaizala, its time to ask your employees to do the same. Personalize and share [these posters](kaizala-overview.md) and EDM with all your employees to help them move their groups to Kaizala.
 
 
-Next> [Create large groups for discussions](create-discussion-groups.md)
+*Next>* [Create large groups for discussions](create-discussion-groups.md)

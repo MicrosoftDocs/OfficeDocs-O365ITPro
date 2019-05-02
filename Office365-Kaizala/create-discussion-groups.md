@@ -51,4 +51,4 @@ Use the Kaizala management portal to manage your groups centrally, and to add or
 6. Identify and onboard admins for the groups to help drive adoption and engagement of these groups. They should follow up with people to install the app and also be responsible for answering questions asked on the group.
 
 
-*Next*> [Connect with employees](connect-with-employees.md)
+*Next>* [Connect with employees](connect-with-employees.md)

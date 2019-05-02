@@ -46,4 +46,4 @@ Here is a list of initiatives to create a positive buzz for Kaizala at your orga
 - Put up [Kaizala posters](kaizala-overview.md) in your organization so that most employees will be able to see the information.
 
 
-Next> [Get conversations going](get-conversations-going.md)
+*Next>* [Get conversations going](get-conversations-going.md)
