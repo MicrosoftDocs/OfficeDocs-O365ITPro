@@ -27,7 +27,7 @@ Use the Kaizala management portal to manage your groups centrally, and to add or
 
 ### Step 1 – Create a group
 
-1. On the [Kaizala management portal](https://manage.kaiza.la) , from the left navigation bar, select **Groups**.
+1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, select **Groups**.
 2. Select **Create Group**, enter the group name, and then click or tap **Create**.
 
    ![Screenshot of Create Group window](media/create-group.png)
