@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 04/25/2019
+ms.date: 05/03/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -21,32 +21,28 @@ description: Learn how to invite people to install Kaizala.
 
 # Invite people to install Kaizala
 
-You can invite people to install Kaizala in three easy steps.
+Now that the company phone directory book has been formed in Kaizala, it’s time to invite everyone to install Kaizala. There are multiple ways to invite people in your organization to install Kaizala. 
 
 ### Step 1 – Send SMS invitations to install Kaizala
 
-You can quickly send an invitation to anyone not using Kaizala. Simply click or tap **Invite** to send a text message invitation to install Kaizala.
+Kaizala management portal lets you send an SMS invitation to all the unregistered users. For detailed steps, see [Invite users to install Kaizala through SMS](invite-users-to-install-and-register.md).
 
 ### Step 2 – Use existing digital communication channels to excite your organization about Kaizala
 
-Now that the company phonebook is in Kaizala, it’s time to invite everyone to install Kaizala.
+Awareness and motivation to move to Kaizala can both be created using digital channels such as:
+- Your existing chat apps
+- Company intranet
+- Company email 
 
-- Create awareness and motivate people to adopt Kaizala through digital channels, such as:
-  - Your existing consumer app groups
-  - Company intranet
-  - Company email
-- Start by sending out Kaizala posters to help people learn about Kaizala, and why they should start using it. 
+Start by sending out [Kaizala posters and EDM](kaizala-overview.md) to help your employees learn what is Kaizala and why they should install it. 
 
-Here are some other resources to consider. (**NEED LINK HERE**)
+### Step 3 – Conduct on-the-ground activities to create buzz around Kaizala
 
-### Step 3 – Conduct on-ground activities to create buzz around Kaizala
+On-the-ground activities can be especially important for driving a buzz at the workplace that positively influences the workforce to adopt Kaizala.
 
-While initiatives on digital channels are great for raising awareness about Kaizala, on-ground activities can be especially important for creating buzz at the workplace. Consider these:
+Here is a list of initiatives to create a positive buzz for Kaizala at your organization:
 
-- Kaizala posters – download here. (**NEED LINK HERE**)
-- Kaizala rolling visuals for lobbies and receptions – download here. (**NEED LINK HERE**)
-- Kaizala activations desk – download here. (**NEED LINK HERE**)
+- Set up a Kaizala activation desk to help users install Kaizala and answer any of their questions about Kaizala.
+- Put up [Kaizala posters](kaizala-overview.md) in your organization so that most employees will be able to see the information.
 
-Here are some other resources to consider. (**NEED LINK HERE**)
-
-Now that the organization’s directory is in place, it’s time to [get the conversations going](get-conversations-going.md).
+Next> [Get conversations going](get-conversations-going.md)
