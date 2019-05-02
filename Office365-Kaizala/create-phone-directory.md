@@ -24,11 +24,11 @@ description: Learn how to create the company phone directory for Kaizala.
 With Kaizala you can easily create, manage and organize your company’s entire phone directory in a single place. You can add phone numbers and other key attributes such as name, email ID, company name, and designation for your employees, partners, and customers.
 
 
-### Step 1 – Export contact list from your existing systems
+### Step 1 – Export contacts from your existing systems
 
 As a first step, export contact information from your existing systems such as RAMCO, SAP, Salesforce CRM, or others. If you are an existing Office 365 user and use Azure Active Directory (Azure AD) to manage your employee information, use the [Azure AD sync](aad-sync-with-tul.md) capability provided by Kaizala.
 
-### Step 2 – Import to Kaizala to prepare the phone directory
+### Step 2 – Import contacts to Kaizala to prepare the phone directory
 
 > [!NOTE]
 > The following steps can be performed an Office 365 admin or a Kaizala admin.

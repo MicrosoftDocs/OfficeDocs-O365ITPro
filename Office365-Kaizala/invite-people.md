@@ -27,16 +27,16 @@ Now that the company phone directory book has been formed in Kaizala, it’s tim
 
 Kaizala management portal lets you send an SMS invitation to all the unregistered users. For detailed steps, see [Invite users to install Kaizala through SMS](invite-users-to-install-and-register.md).
 
-### Step 2 – Use existing digital communication channels to excite your organization about Kaizala
+### Step 2 – Communicate through existing digital channels
 
 Awareness and motivation to move to Kaizala can both be created using digital channels such as:
 - Your existing chat apps
 - Company intranet
 - Company email 
 
-Start by sending out [Kaizala posters and EDM](kaizala-overview.md) to help your employees learn what is Kaizala and why they should install it. 
+Start by sending out [Kaizala posters](kaizala-overview.md) and EDM to help your employees learn what is Kaizala and why they should install it. 
 
-### Step 3 – Conduct on-the-ground activities to create buzz around Kaizala
+### Step 3 – Create buzz through on-the-ground activities
 
 On-the-ground activities can be especially important for driving a buzz at the workplace that positively influences the workforce to adopt Kaizala.
 
@@ -44,5 +44,6 @@ Here is a list of initiatives to create a positive buzz for Kaizala at your orga
 
 - Set up a Kaizala activation desk to help users install Kaizala and answer any of their questions about Kaizala.
 - Put up [Kaizala posters](kaizala-overview.md) in your organization so that most employees will be able to see the information.
+
 
 Next> [Get conversations going](get-conversations-going.md)
