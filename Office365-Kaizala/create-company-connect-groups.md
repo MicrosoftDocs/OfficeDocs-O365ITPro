@@ -48,11 +48,11 @@ After you create a public group, you can add subscribers (employees, partners, o
 
 1. To add subscribers, select **Manage Subscribers**, and then select **Add Subscribers**. 
 
-![Screenshot of Manage Subscribers menu](media/manage-subscribers-menu.png)
+   ![Screenshot of Manage Subscribers menu](media/manage-subscribers.png)
 
 2. On the **Add Subscribers** page, download the CSV template and follow the format to add your subscribers. Save the file when you're done.
 
-![Screenshot of Add Subscribers window](media/add-subscribers-menu.png)
+   ![Screenshot of Add Subscribers window](media/add-subscribers.png)
 
 3. Choose **Select File** to choose the file you just saved, and then click **Add**.
 
