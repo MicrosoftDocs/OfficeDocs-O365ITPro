@@ -25,7 +25,7 @@ The company connect group is also a convenient mobile channel to collect feedbac
 
 You can gather feedback from employees, partners, suppliers, and customers through feedback forms, polls, and surveys. All responses are automatically aggregated to give you insights into the responses. 
 
-### Step 1 – Create a feedback form
+### Step 1 – Create and publish a feedback form
 
 To collect feedback, design a custom Kaizala Action through the Action Designer interface within the Kaizala management portal. 
 

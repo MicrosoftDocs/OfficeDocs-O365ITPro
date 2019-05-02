@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 04/30/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -29,5 +29,5 @@ Microsoft Kaizala lets you create groups to establish a mobile communication cha
 
 |         |         |
 |---------|---------|
-|![Image of company connect icon](media/create-company-connect-groups-icon.png) <br> **[Create company connect groups](create-company-connect-groups.md)**     | Step 1: [Create a Kaizala group for the company connect platform](https://review.docs.microsoft.com/en-us/Office365/Kaizala/create-company-connect-groups?branch=getstarted-working#step-1--create-a-kaizala-group-for-the-company-connect-platform) <br> Step 2: [Add users to the company connect group](https://review.docs.microsoft.com/en-us/Office365/Kaizala/create-company-connect-groups?branch=getstarted-working#step-2--add-users-to-the-company-connect-group) <br> Step 3: [Onboard the content moderation team](https://review.docs.microsoft.com/en-us/Office365/Kaizala/create-company-connect-groups?branch=getstarted-working#step-3--onboard-the-content-moderation-team) |
-|![Image of people icon](media/invite-people-icon.png) <br> **[Collect employee feedback with Kaizala](collect-feedback.md)**     | Step 1: [Add feedback forms to the company connect group](https://review.docs.microsoft.com/en-us/Office365/Kaizala/collect-feedback?branch=getstarted-working#step-1--collect-employee-feedback)] |
+|![Image of company connect icon](media/create-company-connect-groups-icon.png) <br> **[Create company connect groups](create-company-connect-groups.md)**     | Step 1: [Create a hub-and-spoke group](https://review.docs.microsoft.com/en-us/Office365/Kaizala/create-company-connect-groups?branch=getstarted-working#step-1--create-a-spoke-and-hub-group) <br> Step 2: [Add people to the group](https://review.docs.microsoft.com/en-us/Office365/Kaizala/create-company-connect-groups?branch=getstarted-working#step-2--add-people-to-the-group) <br> Step 3: [Onboard the content moderation team](https://review.docs.microsoft.com/en-us/Office365/Kaizala/create-company-connect-groups?branch=getstarted-working#step-3--onboard-the-content-moderation-team) |
+|![Image of people icon](media/invite-people-icon.png) <br> **[Collect employee feedback with Kaizala](collect-feedback.md)**     | Step 1: [Create and publish a feedback form](https://review.docs.microsoft.com/en-us/Office365/Kaizala/collect-feedback?branch=getstarted-working#step-1--create-and-publish-a-feedback-form)] |
