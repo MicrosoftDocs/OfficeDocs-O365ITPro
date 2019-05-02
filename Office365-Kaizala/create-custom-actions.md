@@ -58,7 +58,7 @@ To create a new Kaizala Action:
 6. After you are done, click or tap **Submit**. Users will now be able to see the detail page of the new action. At this moment, the action is in draft state.
 7. Finally, publish the action. Learn about [the publishing process](https://docs.microsoft.com/kaizala/actions/publish#steps-to-publish-an-action).
 
-### Step 2 – Add a Kaizala Actions to a group
+### Step 2 – Add a Kaizala Action to a group
 
 You can publish a Kaizala Action to one or more groups. When you do so, all the group members will see the Action on the **Discover** tab of the Kaizala mobile app. The Action only appears to members of the relevant group. If a group has a managed Action palette, Actions will be visible directly in the group's Action palette.
 
