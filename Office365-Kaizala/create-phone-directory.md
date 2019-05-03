@@ -44,7 +44,7 @@ As a first step, export contact information from your existing systems such as R
    ![Screenshot of Import Multiple Users window](media/import-multiple-users.png)
 
 5. Choose **Select a File**, and then select the file you previously saved. Finally, select **Upload**.
-6. Select the **More**, and then select **View csv import history** to check the status of the uploaded file.
+6. Select **More** ![Screenshot of More icon](media/more-icon.png), and then select **View csv import history** to check the status of the uploaded file.
 
    ![Screenshot of Directory More options window](media/directory-more.png)
  
