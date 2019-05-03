@@ -34,7 +34,7 @@ Awareness and motivation to move to Kaizala can both be created using digital ch
 - Company intranet
 - Company email 
 
-Start by sending out [Kaizala posters](kaizala-overview.md) and EDM to help your employees learn what is Kaizala and why they should install it. 
+Start by sending out [Kaizala posters](https://review.docs.microsoft.com/en-us/Office365/Kaizala/invite-people?branch=getstarted-working#kaizala-posters) and EDM to help your employees learn what is Kaizala and why they should install it. 
 
 ### Step 3 – Create buzz through on-the-ground activities
 
@@ -43,7 +43,7 @@ On-the-ground activities can be especially important for driving a buzz at the w
 Here is a list of initiatives to create a positive buzz for Kaizala at your organization:
 
 - Set up a Kaizala activation desk to help users install Kaizala and answer any of their questions about Kaizala.
-- Put up [Kaizala posters](kaizala-overview.md) in your organization so that most employees will be able to see the information.
+- Put up [Kaizala posters](https://review.docs.microsoft.com/en-us/Office365/Kaizala/invite-people?branch=getstarted-working#kaizala-posters) in your organization so that most employees will be able to see the information.
 
 #### Kaizala posters
 
@@ -51,7 +51,7 @@ Create customized posters to get your organization excited about Kaizala. The Po
 
 |Customizable posters  |        |
 |---------|---------|
-|**Introducing Microsoft Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/blob/live/Kaizala/downloads/poster-introducing-kaizala.pptx?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-introducing-kaizala-thumbnail.png)    |**Introducing Microsoft Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/blob/live/Kaizala/downloads/poster-move-groups-to-kaizala.pptx?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-move-groups-to-kaizala-thumbnail.png)         |
+|**Introducing Microsoft Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/blob/live/Kaizala/downloads/poster-introducing-kaizala.pptx?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-introducing-kaizala-thumbnail.png)    |**Move your groups to Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/blob/live/Kaizala/downloads/poster-move-groups-to-kaizala.pptx?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-move-groups-to-kaizala-thumbnail.png)         |
 
 
 *Next>* [Get conversations going](get-conversations-going.md)
