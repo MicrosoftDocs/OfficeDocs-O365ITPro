@@ -47,7 +47,7 @@ Here is a list of initiatives to create a positive buzz for Kaizala at your orga
 
 #### Kaizala posters
 
-Create customized posters to get your organization excited about Kaizala. The PowerPoint files include step-by-step directions for how to customize the posters for your organization.
+Create customized posters to get your organization excited about Kaizala. The PowerPoint files include step-by-step directions about how to personalize the posters for your organization.
 
 |Customizable posters  |        |
 |---------|---------|
