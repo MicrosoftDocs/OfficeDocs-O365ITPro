@@ -23,4 +23,4 @@ The links for PowerPoint and PDF below can be downloaded and printed in tabloid 
 
 ![Image for secure your small business info graphic](../media/smbthreatprotectioninfographic-thumbnail.png)
 
-[PDF](https://github.com/MicrosoftDocs/officedocs-o365admin/raw/public/office365/officedocs-o365smallbusiness/downloads/smbthreatprotection-infographic.pdf) | [PowerPoint](https://github.com/MicrosoftDocs/officedocs-o365admin/raw/public/office365/officedocs-o365smallbusiness/downloads/smbthreatprotection-infographic.ppt)
+[PDF](downloads/smbthreatprotection-infographic.pdf) | [PowerPoint](https://github.com/MicrosoftDocs/officedocs-o365admin/raw/public/office365/officedocs-o365smallbusiness/downloads/smbthreatprotection-infographic.ppt)
