@@ -6,7 +6,7 @@
 ## [Microsoft 365 Business](https://support.office.com/article/38003e30-9d10-44cf-b596-f1b5f662bfa1)
 ## [Switch from G Suite](https://support.office.com/article/cff9f9fb-956e-4cb9-8b64-d7ebc1911123)
 # Secure
-## [Easy guide to security]
+## [Easy guide to security](../build-your-small-business/security-guide.md)
 ## [Secure your business](../office365/admin/security-and-compliance/secure-your-business-data?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
 # Billing
 ## [Your bill](../office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
