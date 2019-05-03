@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 04/25/2019
+ms.date: 05/04/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -29,7 +29,7 @@ Kaizala offers a wide range of action cards or mini apps that make your daily wo
 
 Surveys are great for collecting data from the field. For example, getting daily sales data from your field sales team. 
 
-1. In the group conversation, in the chat box at the bottom of the page, tap the paperclip icon.
+1. In the group conversation, in the chat box at the bottom of the page, tap Attachment ![Screenshot of attachment icon](media/attachment-icon-md).
 2. Select the **Survey** option, and enter the relevant details such as title.
 3. Use the **Add a question** button to enter questions on the form.
 
