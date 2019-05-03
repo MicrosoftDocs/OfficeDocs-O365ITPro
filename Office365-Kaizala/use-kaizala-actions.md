@@ -56,7 +56,7 @@ Surveys are great for collecting data from the field. For example, getting daily
 
 Use the following steps to quickly create a poll to collect data from your workforce in the field.
 
-1. In the group conversation, in the chat box at the bottom of the page, tap the paperclip icon.
+1. In the group conversation, in the chat box at the bottom of the page, tap **Attachment** ![Screenshot of attachment icon](media/attachment-icon.png).
 2. Select the **Quick Poll** option, and enter the relevant details such as questions and answer choices.
 
    ![Screenshot of creating a question in a quick poll](media/poll-enter-question.png)
@@ -71,7 +71,7 @@ Use the following steps to quickly create a poll to collect data from your workf
 
 Use the following steps to quickly send out jobs and tasks to remote workers. 
 
-1. In the group conversation, in the chat box at the bottom of the page, tap the paperclip icon.
+1. In the group conversation, in the chat box at the bottom of the page, tap **Attachment** ![Screenshot of attachment icon](media/attachment-icon.png).
 2. Select the **Job** option, and enter the relevant details such as job description and due date.
 
    ![Screenshot of a job form](media/job-form.png)
