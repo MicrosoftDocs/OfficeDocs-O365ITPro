@@ -1,5 +1,5 @@
 ---
-title: Welcome to Kaizala
+title: Welcome to Microsoft Kaizala
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
@@ -18,7 +18,7 @@ ms.assetid:
 description: Learn about the Kaizala app and how to send secure instant messages, Kaizala Actions, attachments, and more.
 ---
 
-# Welcome to Kaizala
+# Welcome to Microsoft Kaizala
 
 Microsoft Kaizala is a simple and secure mobile messaging app for large group communications and work management. It lets people easily communicate across and within organizations. Kaizala makes it easy to connect with colleagues, vendors, distributors, partners, and customers using a simple chat interface.
 
