@@ -17,7 +17,7 @@ description: "Learn easy ways to protect your small business from security threa
 
 # Security info graphic for small businesses
 
-**Summary:** Learn the basic terms for the threats your business faces and what you can do to protect your data and devices from them. We have included actions that you can take as the admin for Office 365 for business or for Microsoft 365 Business to make your business more secure, and also actions that every employee can learn to keep business data and devices safe.
+**Summary:** Learn the basic terms for the threats your business faces and what you can do to protect your data, accounts and devices. As an admin for Office 365 for business or for Microsoft 365 Business, take action to make your business more secure, and help every employee learn how to keep your business data and devices safe..
 
 The links for PowerPoint and PDF below can be downloaded and printed in tabloid format (also known as ledger, 11 x 17, or A3).
 
