@@ -51,12 +51,12 @@ Create customized posters to get your organization excited about Kaizala. The Po
 
 |Customizable posters  |        |
 |---------|---------|
-|**Introducing Microsoft Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/blob/live/Kaizala/downloads/poster-introducing-kaizala.pptx?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-introducing-kaizala-thumbnail.png)    |**Move your groups to Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/blob/live/Kaizala/downloads/poster-move-groups-to-kaizala.pptx?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-move-groups-to-kaizala-thumbnail.png)         |
+|**Introducing Microsoft Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/raw/live/Kaizala/downloads/poster-introducing-kaizala.pptx?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-introducing-kaizala-thumbnail.png)    |**Move your groups to Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/blob/live/Kaizala/downloads/poster-move-groups-to-kaizala.pptx?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-move-groups-to-kaizala-thumbnail.png)         |
 
 
 |Customizable posters  |        |
 |---------|---------|
-|**Introducing Microsoft Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/blob/live/Office365-Kaizala/downloads/poster-introducing-kaizala.pptx?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-introducing-kaizala-thumbnail.png)    |**Move your groups to Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness/blob/live/Teams/downloads/edu-resources/teams-edu-customizable-poster-intro-values.docx?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-move-groups-to-kaizala-thumbnail.png)         |
+|**Introducing Microsoft Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/blob/live/Office365-Kaizala/downloads/poster-introducing-kaizala.pptx?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-introducing-kaizala-thumbnail.png)    |**Move your groups to Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/blob/live/Office365-Kaizala/downloads/poster-introducing-kaizala.pptx?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-move-groups-to-kaizala-thumbnail.png)         |
 
 
 |Customizable posters  |        |
