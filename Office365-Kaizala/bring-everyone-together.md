@@ -21,12 +21,6 @@ description: Learn how to create the company phone directory and invite people t
 
 # Bring everyone together with Kaizala
 
-
-| |  |
-|---------|---------|
-|Microsoft Kaizala brings together employees, partners, and customers into your organization's directory with phone numbers and key attributes. Kaizala empowers each employee to search and connect with anyone within the organization.     | ![Image of Bring Everyone Together](media/bring-everyone-together.png)        |
-
-
 Microsoft Kaizala brings together employees, partners, and customers into your organization's directory with phone numbers and key attributes. Kaizala empowers each employee to search and connect with anyone within the organization.
 
 |         |         |
