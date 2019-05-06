@@ -58,7 +58,7 @@ Depending on where an Office 365 Group is created, certain resources are provisi
 To learn more about which resources are created for each group, visit [Learn about Office 365 Groups](https://support.office.com/en-us/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 
 > [!NOTE] 
-> When a new Office 365 Group is created via Yammer or Teams, the the group isn't visible in Outlook or the address book because the primary communication between those users happens in their respective clients. 
+> When a new Office 365 Group is created via Yammer or Teams, the group isn't visible in Outlook or the address book because the primary communication between those users happens in their respective clients. 
 
 > [!IMPORTANT] 
 > When a new Yammer group is created, the Office 365 group does not create a group mailbox or calendar resource. Therefore, a Yammer group cannot be connected to Microsoft Teams. See [Yammer and Groups](#bookmark)
@@ -311,10 +311,9 @@ The Office 365 Reports dashboard shows you the activity overview across the Offi
 Office 365 Groups provides a rich set of governance capabilities your organization might require. Consider the following organization profiles as guidance to understand best practices, ask the right questions to determine the requirements for governance, and how to meet them.
 
 **Consider the following organization profiles:**
-- [Small Business](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#small-business)
-- [Medium-sized Business](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#medium-sized-business)
-- [Regulated or Enterprise](https://docs.microsoft.com/en-us/office365/admin/create-groups/plan_for_groups_governance#regulated-or-enterprise)
-
+- Small Business
+- Medium-sized Business
+- Regulated or Enterprise
 
 ### Small business	
 Consider an organization that has deployed Office 365 with at least Exchange Online and SharePoint Online licenses that includes the Business Essentials and Business Premium plans, and the Enterprise E1, E3 and E5 plans with no Azure Active Director Premium licensing.

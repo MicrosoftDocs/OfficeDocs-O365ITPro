@@ -99,7 +99,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 2. On the **Control Panel** page, in the **Domains** area, choose **Advanced DNS Zone Editor**.
     
-3. On the **Advanced DNS Zone Editor** page, in the ** Add a Record ** area, in the boxes for the new record, type or copy and paste the values from the following table. 
+3. On the **Advanced DNS Zone Editor** page, in the **Add a Record** area, in the boxes for the new record, type or copy and paste the values from the following table. 
     
     (Select the **Type** value from the drop-down list.) 
     
