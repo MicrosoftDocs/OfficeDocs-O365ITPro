@@ -16,6 +16,7 @@ search.appverid:
   - FRP150
 description: "What's coming soon for the Microsoft 365 admin center."
 f1_keyword: MACDashWhatsNew
+ROBOTS: NOINDEX
 ---
 
 # What's next for the Microsoft 365 admin center
@@ -24,7 +25,7 @@ Welcome to What's next for the Microsoft 365 admin center! This article will tel
 
 Here's the legal disclaimer:
 > [!WARNING]
-> The information contained in this article pertains only the Microsoft 365 admin center and is not an implied promise of future functionality. In addition, this information should not be considered as a complete list of all features being released. This article might be discontinued or deleted at any time.
+> The information contained in this article pertains only the Microsoft 365 admin center and is not a promise of future functionality. In addition, this information should not be considered as a complete list of all features being released. This article might be discontinued or deleted at any time.
 
 ## Why are we doing this?
 We've heard your feedback that it's hard to plan for change and that you'd like to know what's coming next to the Microsoft 365 admin center. 
