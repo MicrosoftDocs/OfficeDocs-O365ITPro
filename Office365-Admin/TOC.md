@@ -156,4 +156,5 @@
 ### [Microsoft 365 admin center preview](microsoft-365-admin-center-preview.md) 
 #### [What's new in preview](whats-new-in-preview.md)
 #### [Try or buy Microsoft 365](try-or-buy-microsoft-365.md)
+#### [What's next](microsoft365-whats-new.md)
 ## [Contact support for business products](contact-support-for-business-products.md)
