@@ -91,7 +91,7 @@ Changing an EAP has no impact on the groups that have already been provisioned.
 To delete an EAP, use the Remove-EmailAddressPolicy cmdlet.
   
 ```
-Remove-EmailAddressPolicy -Name StudentsGroups
+Remove-EmailAddressPolicy -Identity StudentsGroups
 ```
 
 Changing an EAP has no impact on the groups that have already been provisioned.
