@@ -20,18 +20,21 @@ f1_keyword: MACDashWhatsNew
 
 # What's next for the Microsoft 365 admin center
 
-Welcome to What's next for the Microsoft 365 admin center! This article will tell you know about new and improved features we're planning and developing so that you can prepare for change.
+Welcome to What's next for the Microsoft 365 admin center! This article will tell you about new and improved features we're planning and developing so that you can prepare for change. We'd like to 
 
 Here's the legal disclaimer:
 > [!WARNING]
 > The information contained in this article pertains only the Microsoft 365 admin center and is not an implied promise of future functionality. In addition, this information should not be considered as a complete list of all features being released. This article might be discontinued or deleted at any time.
 
 ## Why are we doing this?
-We've heard your feedback that it's hard to plan for change and that you'd like to know what we're planning. This article will be a 6 month experiment
+We've heard your feedback that it's hard to plan for change and that you'd like to know what's coming next to the Microsoft 365 admin center. 
+
+## How to use this article
+I know this sounds completely strange having a section called "How to use this article", but we're hoping that we can use this article as a conversation started between us - the admin and the engineering team. Every item listed in the "Coming soon" section has a link to our Customer feedback website, where we want you to vote for items that you're excited about, ask questions, and give us feedback. 
 
 ## Coming soon
 
-### July 2019 - September 2019
+### 3rd Quarter: July 2019 - September 2019
 **Feature name**
 This is the 1-2 sentence description. And here's sentence number 2.
 <Link to OCV item>
