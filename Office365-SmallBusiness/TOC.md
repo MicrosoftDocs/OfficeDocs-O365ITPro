@@ -7,15 +7,15 @@
 ## [Switch from G Suite](https://support.office.com/article/cff9f9fb-956e-4cb9-8b64-d7ebc1911123)
 # Secure
 ## [Easy guide to security](build-your-small-business/security-guide.md)
-## [Secure your business](../office365-admin/security-and-compliance/secure-your-business-data?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
+## [Secure your business](/Office365/Admin/security-and-compliance/secure-your-business-data?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
 # Billing
-## [Your bill](../office365-admin/subscriptions-and-billing/view-your-bill-or-invoice?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
-## [Pay](../office365-admin/subscriptions-and-billing/pay-for-your-subscription?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
-## [Cancel](../office365-admin/subscriptions-and-billing/cancel-your-subscription?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
+## [Your bill](/Office365/Admin/subscriptions-and-billing/view-your-bill-or-invoice?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
+## [Pay](/Office365/Admin/subscriptions-and-billing/pay-for-your-subscription?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
+## [Cancel](/Office365/Admin/subscriptions-and-billing/cancel-your-subscription?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
 # Employees
-## [Add an employee](../office365-admin/add-users/add-new-employee?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
-## [Remove an employee](..office365-admin/add-users/remove-former-employee?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
+## [Add an employee](/Office365/Admin/add-users/add-new-employee?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
+## [Remove an employee](/Office365/Admin/add-users/remove-former-employee?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
 # Stay current
-## [Message center](../office365-admin/manage/message-center?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
+## [Message center](/Office365/Admin/manage/message-center?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
 # Support
-## [Get support](../office365-admin/contact-support-for-business-products?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
+## [Get support](/Office365/Admin/contact-support-for-business-products?toc=/office365/smallbusiness/toc.json&bc=/office365/smallbusiness/breadcrumb/toc.json)
