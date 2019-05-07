@@ -30,6 +30,11 @@
         "source_path": "yammer/integrate-yammer-with-other-apps/sentiment-analysis-flow-azure.md",
         "redirect_url": "https://techcommunity.microsoft.com/t5/Yammer-Resources/Identify-sentiment-of-comments-in-a-Yammer-group-by-using-Azure/ta-p/393398",
         "redirect_document_id": true
+      },
+      {
+        "source_path": "office365/admin/manage/customer-lockbox-requests.md",
+        "redirect_url": "https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests", 
+        "redirect_document_id": true
       }
   ]
 }
