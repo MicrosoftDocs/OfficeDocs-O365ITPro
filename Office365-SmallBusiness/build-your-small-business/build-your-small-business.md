@@ -15,9 +15,9 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: e540a435-e3c5-4c7c-a116-2eb638827a7f
-description: "Run your small business with Microsoft email, manage your calendar, and enjoy enterprise grade security."
+description: "Run your small business with Microsoft email, manage your calendar, and enjoy enterprise grade security with Microsoft 365 Business and Office 365 for business."
 ---
-# Build your small business with Office 365 or Microsoft 365
+# Build your small business Microsoft
 
 
 <ul class="panelContent cardsW">
