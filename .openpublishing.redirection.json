@@ -34,7 +34,7 @@
       {
         "source_path": "office365/admin/manage/customer-lockbox-requests.md",
         "redirect_url": "https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests", 
-        "redirect_document_id": true
+        "redirect_document_id": false
       }
   ]
 }
