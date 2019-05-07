@@ -16,7 +16,6 @@
 ### [Enable or disable Kaizala Pro](enable-disable-kaizala.md)
 ### [Administrator role](admin-role.md)
 ### [Settings](settings.md)
-### [Users](users.md)
 ### [Groups](groups.md)
 ### [Public groups](public-groups.md)
 ### [Reports](reports.md)
