@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 05/01/2019
+ms.date: 05/08/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -23,7 +23,7 @@ description: Learn how to create or add users to the organization directory in K
 
 Before you can send instant messages, pictures, and documents, or set up a new poll or survey, you'll have to create or add Kaizala users in your organization. You can add users individually or in bulk. For managing users in groups, see [Kaizala groups](groups.md).
 
-Organization admins can create or add new users in [organization directory networks](https://review.docs.microsoft.com/en-us/Office365/Kaizala/odnetwork?branch=ODNetwork-working). However, users when added by a group admin in any organization group also become a part of the organization directory.
+Organization admins can create or add new users in [organization directory networks](od-network.md). However, users when added by a group admin in any organization group also become a part of the organization directory.
 
 Users can be added to the Employee network in any of the following ways:
 
