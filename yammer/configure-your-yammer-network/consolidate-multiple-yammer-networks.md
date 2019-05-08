@@ -46,7 +46,9 @@ For more information, see [FAQ: Consolidating multiple Yammer networks](faq-cons
     
 - Groups, conversations, and files are not migrated. If you want any of this content from your secondary network, you must export it and upload it.
     
-- After a migration completes, no-one can access the secondary Yammer network.- Only users with the global admin role in Office 365 can perform network consolidation. 
+- After a migration completes, no-one can access the secondary Yammer network.
+
+- Only users with the global admin role in Office 365 can perform network consolidation. 
     
 - The primary and secondary Yammer networks must be on verified domains in one Office 365 tenant. Consolidating Yammer networks across Office 365 tenants is not supported.
     
