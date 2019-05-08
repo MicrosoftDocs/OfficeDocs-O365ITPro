@@ -26,7 +26,7 @@ All public websites in China must have an ICP number. This means that if you hav
 > [!CAUTION]
 >  If you don't have an ICP number, your website can be shut down by the hosting provider with no notice. 
   
-You can use one ICP number for multiple websites owned by the same company. If you already have an ICP number for your company website, you can add your SharePoint Online public website to that ICP number by changing your ICP information at your hosting provider or domain provider. You can use the MIIT website to check whether a domain already has an ICP number: **http://www.miibeian.gov.cn** (in Chinese). 
+You can use one ICP number for multiple websites owned by the same company. If you already have an ICP number for your company website, you can add your SharePoint Online public website to that ICP number by changing your ICP information at your hosting provider or domain provider. You can use the MIIT website to check whether a domain already has an ICP number: **http://beian.miit.gov.cn** (in Chinese). 
   
 > [!NOTE]
 > The SharePoint Online Public Website information in this article only applies if your organization purchased Office 365 prior to March 9, 2015. 
@@ -78,7 +78,7 @@ If you represent a commercial company, you also have to submit the following:
 > [!NOTE]
 >  21Vianet can also help you register the ICP number. You can sign in to the ICP application website supported by 21Vianet at **https://icp.cloud.21vianet.com** and follow the prompts to provide required information. For more information, contact [mailto:icpsupport@21vianet.com](mailto:icpsupport@21vianet.com). 
   
-Learn more about MIIT License Registration at **http://www.miibeian.gov.cn** (in Chinese). 
+Learn more about MIIT License Registration at **http://beian.miit.gov.cn** (in Chinese). 
   
 ## Update your website after receiving your ICP number
 
@@ -93,6 +93,6 @@ After you receive the ICP license and the certificate, do the following:
     
     1. Add the ICP number.
     
-    2. Add a link to MIIT License Registration at **http://www.miibeian.gov.cn** (in Chinese). 
+    2. Add a link to MIIT License Registration at **http://beian.miit.gov.cn** (in Chinese). 
     
 
