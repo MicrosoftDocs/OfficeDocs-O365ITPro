@@ -74,7 +74,7 @@ You can choose from the following top level domains for your domain.
 ![On the Manage domains page, click Buy domain](../media/16d6b3ba-ce13-496e-a7c0-1d99479dd203.png)
 
 > [!NOTE]
-> When you click **Buy domain**, you may be redirected to your Microsoft partner's website if the tenant is purcahsed/managed through a Microsoft partner.
+> When you click **Buy domain**, you may be redirected to your Microsoft partner's website if the tenant is purchased/managed through a Microsoft partner.
 
 ### Domain Privacy
 We offer a free Domain Privacy Subscription with the purchase of a domain. This keeps your contact information attached to the registration of your domain with ICANN private. [Learn more.](https://whois.icann.org/en/privacy-and-proxy-services)
