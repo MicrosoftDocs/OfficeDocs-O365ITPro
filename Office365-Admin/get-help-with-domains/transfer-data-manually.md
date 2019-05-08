@@ -27,7 +27,7 @@ description: "Find how to transfer data manually between two Office 365 accounts
 Prepare to roll up your sleeves and block out a chunk of time on your calendar: transferring data between two Office 365 accounts is a manual, complicated, and time-consuming process. This is not an automated or supported process. We'll get you started.
   
 > [!CAUTION]
->  There will be down time during the process where email, Lync, and a public website hosted on Office 365 won't work. Users will get new user names and passwords, and they'll need to reset up Outlook. 
+>  There will be down time during the process where email, Skype for Business and a public website hosted on Office 365 won't work. Users will get new user names and passwords, and they'll need to reset up Outlook. 
   
  **Only transfer data manually using the instructions in this topic if one of the following applies:**
   
@@ -62,7 +62,7 @@ For Office 365 Enterprise and Office 365 Midsize Business:
 |**Admin** \> **Office 365** \> **Service settings** <br/> |Click each tab for settings for mail, sites, Lync, user software, passwords, community, rights management, and mobile.  <br/> |
 |**Admin** \> **Exchange** <br/> | Exchange Online settings  <br/> |
 |**Admin** \> **SharePoint** <br/> | SharePoint Online settings  <br/> |
-|**Admin** \> **Lync** <br/> |Additional Lync settings  <br/> |
+|**Admin** \> **Skype for Business** <br/> |Additional Skype for Business settings  <br/> |
    
 For Office 365 Small Business
   
@@ -103,8 +103,8 @@ There are several ways to save or transfer team site data:
 
 Ask users to [move their email, contacts, tasks, and calendar information](https://support.office.com/article/0996ece3-57c6-49bc-977b-0d1892e2aacc.aspx) after you set up your new subscription. They can get to their old email by using their initial user name, such as sue@contoso.onmicrosoft.com. 
   
-### SkyDrive Pro data:
+### OneDrive For Business data:
 
-Ask users to [sync SkyDrive Pro content to their computer](https://support.office.com/article/59b1de2b-519e-4d3a-8f45-51647cf291cd.aspx), and then add it back to their new subscription.
+Ask users to [OneDrive for Business content to their computer](https://support.office.com/article/59b1de2b-519e-4d3a-8f45-51647cf291cd.aspx), and then add it back to their new subscription.
   
 
