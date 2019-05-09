@@ -34,6 +34,8 @@ With Kaizala you can easily create, manage and organize your company’s entire 
 - Step 1: Export contacts from your existing systems
 - Step 2: Import contacts to Kaizala to prepare the phone directory
 
+[See detailed steps](create-phone-directory.md)
+
 ## [Invite people to install Kaizala](invite-people.md)
 
 [![Image of people icon](media/invite-people-icon.png)](invite-people.md)
@@ -44,6 +46,8 @@ Now that the company phone directory book has been formed in Kaizala, it’s tim
 - Step 2: Communicate through existing digital channels
 - Step 3: Create buzz through on-the-ground activities
 
+[See detailed steps](create-phone-directory.md)
+
 **[Variation 1b: without icons]**
 
 ## [Create the company phone directory](create-phone-directory.md)
@@ -53,6 +57,8 @@ With Kaizala you can easily create, manage and organize your company’s entire 
 - Step 1: Export contacts from your existing systems
 - Step 2: Import contacts to Kaizala to prepare the phone directory
 
+[See detailed steps](create-phone-directory.md)
+
 ## [Invite people to install Kaizala](invite-people.md)
 
 Now that the company phone directory book has been formed in Kaizala, it’s time to invite everyone to install Kaizala. There are multiple ways to invite people in your organization to install Kaizala. 
@@ -61,6 +67,7 @@ Now that the company phone directory book has been formed in Kaizala, it’s tim
 - Step 2: Communicate through existing digital channels
 - Step 3: Create buzz through on-the-ground activities
 
+[See detailed steps](create-phone-directory.md)
 
 
 **[Variation 2]**
