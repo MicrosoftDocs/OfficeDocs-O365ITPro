@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 05/03/2019
+ms.date: 05/09/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -68,8 +68,6 @@ Key responsibilities of the group admin are:
 - **User management** – remove or add members. 
 
 Your corporate communications team or senior team members are most likely to fit these roles. Add these users as admins to the group under the **Users** tab.
-
-Here are some guidelines for admins or champs. (**NEED LINK HERE**)
 
 > [!TIP]
 > - You can set up RSS feeds to automatically post organizational content from across channels such as social media, websites and blogs. Follow [these steps here](https://docs.microsoft.com/kaizala/businesssolutions/corporatecommunications/getrssfeedsonkaizala/displayrssfeedsinkaizalagroups). <br> 

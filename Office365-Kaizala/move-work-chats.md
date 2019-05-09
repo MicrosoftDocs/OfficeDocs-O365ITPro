@@ -48,7 +48,7 @@ Use Kaizala to *secure chat*, enabling your organization to connect and coordina
 > [!NOTE]
 > Anyone who receives the link can join the group. 
 
-### Step 4 – Ask your employees to move their work chat to Kaizala 
+### Step 3 – Map your group to the organization 
 
 You must link your new group to your organization to ensure data security and to ensure all data stay with the organization.
 
