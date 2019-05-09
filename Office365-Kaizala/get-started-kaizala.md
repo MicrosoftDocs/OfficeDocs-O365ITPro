@@ -23,7 +23,7 @@ description: Use these steps to get Kaizala into your organization.
 
 Here are four easy – yet powerful – things you can do to get the most out of Kaizala. This simple getting started guide will enable the following four powerful scenarios for your organization.
 
-**[Sample 1: Images reduced]**
+**[Variation 1: Images reduced]**
 
 |                         |                          |
 |-------------------------|--------------------------|
@@ -31,7 +31,7 @@ Here are four easy – yet powerful – things you can do to get the most out of
 |[![Image of Connect with Employees](media/connect-with-employees-1.png)](connect-with-employees.md) <br> **[Connect with employees](connect-with-employees.md)** <br> Create **company connect** groups and extend corporate communication by sharing announcements and collecting feedback with entire external networks.  |[![Image of Digitize Everyday Tasks](media/digitize-everyday-tasks-1.png)](digitize-tasks.md) <br> **[Digitize everyday tasks](digitize-tasks.md)** <br> Use **Kaizala Actions** to digitize processes such as field data collection, attendance, trainings, surveys, and many more.  |
 
 
-**[Sample 2: Sequential]**
+**[Variation 2: Sequential]**
 
 |                         |                          |
 |-------------------------|--------------------------|
