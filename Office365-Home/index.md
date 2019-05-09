@@ -121,7 +121,7 @@ description: Manage Office 365
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>Office 365 content roadmap</h3>
-                                                    <p>Follow this content roadmap to browse Office 365 by your organization type and phase in your journey.</p>
+                                                    <p>Follow this roadmap to browse Office 365 content by your organization type and phase in your journey.</p>
                                                 </div>
                                             </div>
                                         </div>
