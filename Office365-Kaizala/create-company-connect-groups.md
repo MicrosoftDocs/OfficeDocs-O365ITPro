@@ -23,7 +23,7 @@ description: Learn how to create company connect groups in Kaizala.
 
 *Company connect groups* are one-way communication channels. They allow an organization to broadcast important announcements, updates, and information to the workforce. An organization can create company connect groups for their employees, partners, and customers. 
 
-### Step 1 – Create a hub-and-spoke group
+## Step 1 – Create a hub-and-spoke group
  
 A hub-and-spoke group in Kaizala is a unique group where admins can broadcast messages to all of its members, and members of the group can interact with the admins of the group on a one-to-one basis without their messages being visible to other group members. 
 
@@ -40,7 +40,7 @@ A hub-and-spoke group in Kaizala is a unique group where admins can broadcast me
    - **Managed** groups allow the group admins to view, manage, and invite subscribers.
    - **Public** groups allow subscribers to also invite other subscribers.
 
-### Step 2 – Add people to the group
+## Step 2 – Add people to the group
 
 If you want to add several users without using the comma separated list, use bulk upload.
 
@@ -56,7 +56,7 @@ After you create a public group, you can add subscribers (employees, partners, o
 
 3. Choose **Select File** to choose the file you just saved, and then click **Add**.
 
-### Step 3 – Onboard the content moderation team
+## Step 3 – Onboard the content moderation team
 
 Identify admins who will manage and moderate group content. 
 
