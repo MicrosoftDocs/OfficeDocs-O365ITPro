@@ -25,7 +25,7 @@ You and your workforce in the office and in the field needs to communicate and c
  
 Use Kaizala to *secure chat*, enabling your organization to connect and coordinate across the external networks while retaining complete ownership of work-related chat data. Follow these steps to move conversations to Kaizala and secure your organization’s data.
 
-### Step 1 – Create a group in Kaizala
+## Step 1 – Create a group in Kaizala
 
 1. Tap **Chats** > **New Group**.
 2. Enter a name for your group, and then tap **Next**.
@@ -36,7 +36,7 @@ Use Kaizala to *secure chat*, enabling your organization to connect and coordina
 > [!TIP]
 > Personalize your groups by using your group photograph for the group icon.
 
-### Step 2 – Invite others
+## Step 2 – Invite others
 
 1. From the **Chats** list, open the group.
 2. Tap on the group name to open the **Group Info** page.
@@ -48,7 +48,7 @@ Use Kaizala to *secure chat*, enabling your organization to connect and coordina
 > [!NOTE]
 > Anyone who receives the link can join the group. 
 
-### Step 3 – Map your group to the organization 
+## Step 3 – Map your group to the organization 
 
 You must link your new group to your organization to ensure data security and to ensure all data stay with the organization.
 
@@ -59,11 +59,11 @@ You must link your new group to your organization to ensure data security and to
 > [!NOTE]
 > If you are not already signed in to Kaizala with your Office 365 email ID, you will get a prompt to sign in at this step. Simply sign in with your Office 365 email ID and proceed to map the group. 
 
-### Step 4 – Ask your employees to move their work chat to Kaizala 
+## Step 4 – Ask your employees to move their work chat to Kaizala 
 
 Now that all your chats are moved to Kaizala, its time to ask your employees to do the same. Personalize and share [this poster and email message](https://review.docs.microsoft.com/en-us/Office365/Kaizala/move-work-chats?branch=getstarted-working#move-groups--poster-and-email-template) with all your employees to help them move their groups to Kaizala.
 
-#### Move groups – poster and email template
+### Move groups – poster and email template
 
 Create customized posters and email messages to get your organization excited about Kaizala. The files include step-by-step directions on how to personalize the poster and email message for your organization.
 
