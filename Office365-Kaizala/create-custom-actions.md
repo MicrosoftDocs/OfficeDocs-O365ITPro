@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 05/03/2019
+ms.date: 05/08/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -25,7 +25,7 @@ You can design a custom Kaizala Action through the Action Designer interface wit
 
 Here’s how to quickly get your workforce ready to create custom Kaizala Actions.
 
-### Step 1 – Create a Kaizala Action
+## Step 1 – Create a Kaizala Action
 
 To create a new Kaizala Action:
 
@@ -45,7 +45,7 @@ To create a new Kaizala Action:
 |Brief description  |This is shown to a user in the discover tab of the Kaizala app.  |
 |Customize icon     |Choose the icon for your Kaizala Action.   |
 
-#### Survey and form actions
+### Survey and form actions
 
 1. Enter a card title. This is shown on the card-view of the Action, after the action has been posted.
 2. Enter the question details and choose your answer types. You can add more questions by selecting **Add More Questions**. You can even choose to add questions on a new page.
@@ -58,7 +58,7 @@ To create a new Kaizala Action:
 6. After you are done, click or tap **Submit**. Users will now be able to see the detail page of the new action. At this moment, the action is in draft state.
 7. Finally, publish the action. Learn about [the publishing process](https://docs.microsoft.com/kaizala/actions/publish#steps-to-publish-an-action).
 
-### Step 2 – Add a Kaizala Action to a group
+## Step 2 – Add a Kaizala Action to a group
 
 You can publish a Kaizala Action to one or more groups. When you do so, all the group members will see the Action on the **Discover** tab of the Kaizala mobile app. The Action only appears to members of the relevant group. If a group has a managed Action palette, Actions will be visible directly in the group's Action palette.
 
