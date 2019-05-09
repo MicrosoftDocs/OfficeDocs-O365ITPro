@@ -3,11 +3,11 @@ title: Office 365 content roadmap
 description: Learn about Office 365
 author: samanro
 manager: samanro
-layout: LandingPage
+layout: HubPage
 ms.assetid: 
 ms.tgt_pltfrm: na
 ms.devlang: na
-ms.topic: landing-page
+ms.topic: hub-page
 ms.date: 12/13/2017
 ms.author: samanro
 ---
