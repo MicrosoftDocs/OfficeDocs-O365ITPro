@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 05/03/2019
+ms.date: 05/10/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -27,7 +27,24 @@ Microsoft Kaizala lets you create groups to establish a mobile communication cha
 - Conduct workforce trainings and surveys.
 - Collect feedback from employees, partners, and customers.
 
-|         |         |
-|---------|---------|
-|[![Image of company connect icon](media/create-company-connect-groups-icon.png)](create-company-connect-groups.md) <br> **[Create company connect groups](create-company-connect-groups.md)**     | Step 1: [Create a hub-and-spoke group](https://review.docs.microsoft.com/en-us/Office365/Kaizala/create-company-connect-groups?branch=getstarted-working#step-1--create-a-spoke-and-hub-group) <br> Step 2: [Add people to the group](https://review.docs.microsoft.com/en-us/Office365/Kaizala/create-company-connect-groups?branch=getstarted-working#step-2--add-people-to-the-group) <br> Step 3: [Onboard the content moderation team](https://review.docs.microsoft.com/en-us/Office365/Kaizala/create-company-connect-groups?branch=getstarted-working#step-3--onboard-the-content-moderation-team) |
-|[![Image of people icon](media/invite-people-icon.png)](collect-feedback.md) <br> **[Collect employee feedback with Kaizala](collect-feedback.md)**     | Step 1: [Create and publish a feedback form](https://review.docs.microsoft.com/en-us/Office365/Kaizala/collect-feedback?branch=getstarted-working#step-1--create-and-publish-a-feedback-form) |
+## **[Create company connect groups](create-company-connect-groups.md)**
+
+[![Image of company connect icon](media/create-company-connect-groups-icon.png)](create-company-connect-groups.md)
+
+*Company connect groups* are one-way communication channels. They allow an organization to broadcast important announcements, updates, and information to the workforce. An organization can create company connect groups for their employees, partners, and customers. 
+
+- Step 1: Create a hub-and-spoke group
+- Step 2: Add people to the group
+- Step 3: Onboard the content moderation team
+
+[See detailed steps](create-company-connect-groups.md)
+
+## **[Collect employee feedback with Kaizala](collect-feedback.md)**
+
+[![Image of people icon](media/invite-people-icon.png)](collect-feedback.md)
+
+The company connect group is also a convenient mobile channel to collect feedback on relevant issues, decisions, and policies, especially for remote workers. You can gather feedback from employees, partners, suppliers, and customers through feedback forms, polls, and surveys. All responses are automatically aggregated to give you insights into the responses. 
+
+- Step 1: Create and publish a feedback form
+
+[See detailed steps](collect-feedback.md)
