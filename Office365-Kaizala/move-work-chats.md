@@ -63,13 +63,13 @@ You must link your new group to your organization to ensure data security and to
 
 Now that all your chats are moved to Kaizala, its time to ask your employees to do the same. Personalize and share [this poster](https://review.docs.microsoft.com/en-us/Office365/Kaizala/invite-people?branch=getstarted-working#kaizala-posters) and [email message](https://review.docs.microsoft.com/en-us/Office365/Kaizala/invite-people?branch=getstarted-working#kaizala-posters) with all your employees to help them move their groups to Kaizala.
 
-#### Introduction poster and email template
+#### Move groups – poster and email template
 
 Create customized posters and email messages to get your organization excited about Kaizala. The files include step-by-step directions on how to personalize the poster and email message for your organization.
 
 |Customizable posters  |Customizable email template       |
 |---------|---------|
-|**Introducing Microsoft Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/raw/public/Office365-Kaizala/downloads/poster-introducing-kaizala.pptx?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-introducing-kaizala-thumbnail.png)    |**Move your groups to Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/raw/public/Office365-Kaizala/downloads/poster-move-groups-to-kaizala.pptx?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-move-groups-to-kaizala-thumbnail.png)         |
+|**Poster: Move your groups to Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/raw/public/Office365-Kaizala/downloads/poster-move-groups-to-kaizala.pptx?raw=true)<br>![Screenshot of the Move your groups to Microsoft Kaizala poster.](media/poster-move-groups-to-kaizala-thumbnail.png)    |**Email: Move your groups to Kaizala** <br>[Download the .oft file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/raw/public/Office365-Kaizala/downloads/edm-move-groups-to-kaizala.oft?raw=true)<br>![Screenshot of the Move your groups to Kaizala email template.](media/edm-move-groups-to-kaizala-thumbnail.png)         |
 
 
 
