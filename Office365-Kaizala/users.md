@@ -148,7 +148,7 @@ There are three different user roles in Kaizala. Here are the available roles an
 |||
 |:-----|:-----|
 |**Role** <br/> |**What they do in Office 365** <br/> |
-|**Kaizala organization administrator** <br/> |Kaizala organization admin is a user who can manage Kaizala for your organization. The built-in Office 365 role,  * global admin * is an equivalent of the Kaizala organization admin. Office 365 global admins will have access and ability to manage all organization groups, even those they aren't direct members or admins of.  <br/> |
+|**Kaizala organization administrator** <br/> |Kaizala organization admin is a user who can manage Kaizala for your organization. The built-in Office 365 role,  *global admin* is an equivalent of the Kaizala organization admin. Office 365 global admins will have access and ability to manage all organization groups, even those they aren't direct members or admins of.  <br/> |
 |**Kaizala group administrator** <br/> |Kaizala Group administrator is a Kaizala Group member with special privileges. Unlike an organization admin, they have to be an admin of the group they are handling to have said privileges. Group admins can perform all the actions a organization admin can, but only on the groups they are explicitly made an admin of.  <br/> |
 |**Member** <br/> |A Kaizala user with no special privileges. They can only take part in 1:1 and group communication and view attributes of their own groups and conversations. They can't add or remove other members from the group.  <br/> |
    

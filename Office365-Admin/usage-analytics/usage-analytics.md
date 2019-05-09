@@ -174,7 +174,7 @@ In the content pack, usage is represented at the per product level. Data about t
 
 You can use Power BI Desktop to connect to the Office 365 APIs (in preview) to bring additional data sources to combine with the content pack data.
 
-Fore more information see the [Customize document](customize-reports.md).
+For more information see the [Customize document](customize-reports.md).
 
 ### Is it possible to see the "Top Users" reports for a specific timeframe?
 
