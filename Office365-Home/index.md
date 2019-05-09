@@ -108,7 +108,28 @@ description: Manage Office 365
                                         </div>
                                     </div>
                                 </a>
-                            </li><br/>                        </ul>
+                            </li>
+                            <li>
+                                <a href="/office365/Office365-roadmap">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img src="media/o365roadmap.svg" alt="A road illustration with start, end, and marker in the middle" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Office 365 content roadmap</h3>
+                                                    <p>Follow this roadmap to navigate Office 365 content based on your organization type and where you are at in your journey.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <br/>
+                        </ul>
                     </li>
                 </ul>
             </li>
