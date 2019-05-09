@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 05/04/2019
+ms.date: 05/08/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -25,7 +25,7 @@ Kaizala offers a wide range of action cards or mini apps that make your daily wo
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2JDVf] 
 
-### Step 1 – Use a survey to collect data from the field
+## Step 1 – Use a survey to collect data from the field
 
 Surveys are great for collecting data from the field. For example, getting daily sales data from your field sales team. 
 
@@ -52,7 +52,7 @@ Surveys are great for collecting data from the field. For example, getting daily
 
    ![Screenshot of survey reporting in the Kaizala management portal](media/portal-analytics.png)
 
-### Step 2 – Send a poll to collect user preferences
+## Step 2 – Send a poll to collect user preferences
 
 Use the following steps to quickly create a poll to collect data from your workforce in the field.
 
@@ -67,7 +67,7 @@ Use the following steps to quickly create a poll to collect data from your workf
 
 4. Detailed reporting on all polls sent out to your employees, suppliers, and partners can be viewed on the Kaizala management portal under **Analytics** > **Polls**.
 
-### Step 3 – Send a job and effectively manage tasks
+## Step 3 – Send a job and effectively manage tasks
 
 Use the following steps to quickly send out jobs and tasks to remote workers. 
 
