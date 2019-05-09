@@ -30,7 +30,7 @@ description: "Learn to customize, organize, and manage your team site."
 
 # Customize your team site for file storage and sharing
 
-If you have a small business with a few employees, one of the best ways to set up and facilitate file sharing and online collaboration is to use OneDrive for Business and a SharePoint team site together. Office 365 subscriptions come with a classic team site. We recommend leaving it alone and creating a new team site that's connected to an Office 365 group. If you want to use chat, you can create this site by creating a team in Microsoft Teams. For more info about Teams, see [Video: What is Microsoft Teams?](https://support.office.com/article/b98d533f-118e-4bae-bf44-3df2470c2b12.aspx). If you don't want to use Teams, you can create a team site from the SharePoint Home page. 
+If you have a small business with a few employees, one of the best ways to set up and facilitate file sharing and online collaboration is to use OneDrive for Business and a SharePoint team site together. Office 365 subscriptions come with a classic team site. We recommend leaving it alone and creating a new team site that's connected to an Office 365 group. If you want to use chat, you can create this site by creating a team in Microsoft Teams. For more info about Teams, see [Video: What is Microsoft Teams?](https://support.office.com/article/b98d533f-118e-4bae-bf44-3df2470c2b12.aspx). If you don't want to use Teams, you can create a team site from the SharePoint start page. 
   
 [What is a SharePoint team site?](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e.aspx)
   
@@ -64,17 +64,17 @@ If you're storing a lot of data, see how to manage limits with [Manage large lis
   
 View a video on adding calendars to your site, see [Create a shared calendar in Office 365](https://support.office.com/article/61B96006-70E2-4535-A34F-EE4FC772F798.aspx).
   
-## Customize the home page on your team site
+## Customize the start page on your team site
 
-To give more visibility to data on a team site, you can customize the Home page to help you and your employees get to the information you need quickly. For example, you might have a links to employee OneDrive for Business folders, and links to Documents, Contacts, Tasks, Calendars, and a OneNote notebook where you store meeting agendas and notes.
+To give more visibility to data on a team site, you can customize the SharePoint start page to help you and your employees get to the information you need quickly. For example, you might have a links to employee OneDrive for Business folders, and links to Documents, Contacts, Tasks, Calendars, and a OneNote notebook where you store meeting agendas and notes.
   
-For info on customizing the look and feel of your home page, see [Change the look of your SharePoint site](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818.aspx).
+For info on customizing the look and feel of your start page, see [Change the look of your SharePoint site](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818.aspx).
   
 Improve navigation on your site with [Customize the navigation on your SharePoint site](https://support.office.com/article/3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca.aspx).
   
-To add or update links to important pages on you home page, see [Change the Links list on the SharePoint Online home page](https://support.office.com/article/aa93f89b-ffce-4edb-aa89-22b16d6915a7.aspx).
+To add or update links to important pages on you start page, see [Change the Links list on the SharePoint Online start page](https://support.office.com/article/aa93f89b-ffce-4edb-aa89-22b16d6915a7.aspx).
   
-To add an image to a team site home page, see [Add a picture or image file to a SharePoint page](https://support.office.com/article/4A9B0E98-C89A-4A41-8ADB-B7750DCCCA16.aspx#ID0EAACAAA=SharePoint_Online).
+To add an image to a team site start page, see [Add a picture or image file to a SharePoint page](https://support.office.com/article/4A9B0E98-C89A-4A41-8ADB-B7750DCCCA16.aspx#ID0EAACAAA=SharePoint_Online).
   
 You can see how to add pages to your site with [Add a page to a site](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec.aspx).
   
