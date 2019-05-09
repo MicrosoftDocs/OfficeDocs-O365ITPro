@@ -23,7 +23,7 @@ description: Learn how to create the company phone directory and invite people t
 
 Microsoft Kaizala brings together employees, partners, and customers into your organization's directory with phone numbers and key attributes. Kaizala empowers each employee to search and connect with anyone within the organization.
 
-**[Variation 1]**
+**[Variation 1a: with icons]**
 
 ## [Create the company phone directory](create-phone-directory.md)
 
@@ -44,12 +44,31 @@ Now that the company phone directory book has been formed in Kaizala, it’s tim
 - Step 2: Communicate through existing digital channels
 - Step 3: Create buzz through on-the-ground activities
 
+**[Variation 1b: without icons]**
+
+## [Create the company phone directory](create-phone-directory.md)
+
+With Kaizala you can easily create, manage and organize your company’s entire phone directory in a single place. You can add phone numbers and other key attributes such as name, email ID, company name, and designation for your employees, partners, and customers.
+
+- Step 1: Export contacts from your existing systems
+- Step 2: Import contacts to Kaizala to prepare the phone directory
+
+## [Invite people to install Kaizala](invite-people.md)
+
+Now that the company phone directory book has been formed in Kaizala, it’s time to invite everyone to install Kaizala. There are multiple ways to invite people in your organization to install Kaizala. 
+
+- Step 1: Send SMS invitations to install Kaizala
+- Step 2: Communicate through existing digital channels
+- Step 3: Create buzz through on-the-ground activities
+
+
+
 **[Variation 2]**
 
 |         |         |
 |---------|---------|
-|[![Image of phone icon](media/create-phone-directory-icon-1.png)](create-phone-directory.md) | **[Create the company phone directory](create-phone-directory.md)**  <br>  Step 1: Export contacts from your existing systems <br> Step 2: Import contacts to Kaizala to prepare the phone directory  <br> [See detailed steps](create-phone-directory.md)|
-|[![Image of people icon](media/invite-people-icon-1.png)](invite-people.md) | **[Invite people to install Kaizala](invite-people.md)** <br><br>  Step 1: Send SMS invitations to install Kaizala <br> Step 2: Communicate through existing digital channels <br> Step 3: Create buzz through on-the-ground activities  <br> [See detailed steps](create-phone-directory.md) |
+|[![Image of phone icon](media/create-phone-directory-icon-1.png)](create-phone-directory.md) | **[Create the company phone directory](create-phone-directory.md)**  <br>  Step 1: Export contacts from your existing systems <br> Step 2: Import contacts to Kaizala to prepare the phone directory  <br> <br> [See detailed steps](create-phone-directory.md)|
+|[![Image of people icon](media/invite-people-icon-1.png)](invite-people.md) | **[Invite people to install Kaizala](invite-people.md)** <br><br>  Step 1: Send SMS invitations to install Kaizala <br> Step 2: Communicate through existing digital channels <br> Step 3: Create buzz through on-the-ground activities  <br> <br> [See detailed steps](create-phone-directory.md) |
 
 **[Original format]**
 
