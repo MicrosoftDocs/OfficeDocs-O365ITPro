@@ -27,7 +27,7 @@ Microsoft Kaizala brings together employees, partners, and customers into your o
 
 [![Image of phone icon](media/create-phone-directory-icon.png)](create-phone-directory.md)
 
-With Kaizala you can easily create, manage and organize your company’s entire phone directory in a single place. You can add phone numbers and other key attributes such as name, email ID, company name, and designation for your employees, partners, and customers.
+With Kaizala you can easily create, manage, and organize your company’s entire phone directory in a single place. You can add phone numbers and other key attributes such as name, email ID, company name, and designation for your employees, partners, and customers.
 
 - Step 1: Export contacts from your existing systems
 - Step 2: Import contacts to Kaizala to prepare the phone directory
