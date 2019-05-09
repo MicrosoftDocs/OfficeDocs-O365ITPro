@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 05/03/2019
+ms.date: 05/08/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -25,14 +25,14 @@ Use Kaizala to create groups that reflect how your organization works. For examp
 
 Use the Kaizala management portal to manage your groups centrally, and to add or manage users in bulk (even in thousands) while retaining complete control over chat data. 
 
-### Step 1 – Create a group
+## Step 1 – Create a group
 
 1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, select **Groups**.
 2. Select **Create Group**, enter the group name, and then click or tap **Create**.
 
    ![Screenshot of Create Group window](media/create-group.png)
 
-### Step 2 – Bulk upload users to the group 
+## Step 2 – Bulk upload users to the group 
 
 1. Once the group is created, select **Add users** > **Import via CSV**.
 
