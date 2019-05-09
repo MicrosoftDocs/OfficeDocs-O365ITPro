@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.audience: Admin
-ms.date: 05/04/2019
+ms.date: 05/10/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -61,7 +61,16 @@ You must link your new group to your organization to ensure data security and to
 
 ### Step 4 – Ask your employees to move their work chat to Kaizala 
 
-Now that all your chats are moved to Kaizala, its time to ask your employees to do the same. Personalize and share [these posters](https://review.docs.microsoft.com/en-us/Office365/Kaizala/invite-people?branch=getstarted-working#kaizala-posters) and EDM with all your employees to help them move their groups to Kaizala.
+Now that all your chats are moved to Kaizala, its time to ask your employees to do the same. Personalize and share [this poster](https://review.docs.microsoft.com/en-us/Office365/Kaizala/invite-people?branch=getstarted-working#kaizala-posters) and [email message](https://review.docs.microsoft.com/en-us/Office365/Kaizala/invite-people?branch=getstarted-working#kaizala-posters) with all your employees to help them move their groups to Kaizala.
+
+#### Introduction poster and email template
+
+Create customized posters and email messages to get your organization excited about Kaizala. The files include step-by-step directions on how to personalize the poster and email message for your organization.
+
+|Customizable posters  |Customizable email template       |
+|---------|---------|
+|**Introducing Microsoft Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/raw/public/Office365-Kaizala/downloads/poster-introducing-kaizala.pptx?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-introducing-kaizala-thumbnail.png)    |**Move your groups to Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/raw/public/Office365-Kaizala/downloads/poster-move-groups-to-kaizala.pptx?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-move-groups-to-kaizala-thumbnail.png)         |
+
 
 
 *Next>* [Create large groups for discussions](create-discussion-groups.md)
