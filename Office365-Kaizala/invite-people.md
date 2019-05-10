@@ -34,7 +34,7 @@ Awareness and motivation to move to Kaizala can both be created using digital ch
 - Company intranet
 - Company email 
 
-Start by sending out [Kaizala posters](https://review.docs.microsoft.com/en-us/Office365/Kaizala/invite-people?branch=getstarted-working#kaizala-posters) and EDM to help your employees learn what is Kaizala and why they should install it. 
+Start by sending out [a Kaizala poster and email message](https://docs.microsoft.com/Office365/Kaizala/invite-people#introducing-kaizala--poster-and-email-template) to help your employees learn what is Kaizala and why they should install it. 
 
 ## Step 3 – Create buzz through on-the-ground activities
 
@@ -43,7 +43,7 @@ On-the-ground activities can be especially important for driving a buzz at the w
 Here is a list of initiatives to create a positive buzz for Kaizala at your organization:
 
 - Set up a Kaizala activation desk to help users install Kaizala and answer any of their questions about Kaizala.
-- Put up a [Kaizala poster](https://review.docs.microsoft.com/en-us/Office365/Kaizala/invite-people?branch=getstarted-working#introducing-kaizala--poster-and-email-template) or send an [email message](https://review.docs.microsoft.com/en-us/Office365/Kaizala/invite-people?branch=getstarted-working#introducing-kaizala--poster-and-email-template) to your organization so that employees can see the information.
+- Put up a [Kaizala poster](https://docs.microsoft.com/en-us/Office365/Kaizala/invite-people#introducing-kaizala--poster-and-email-template) or send an [email message](hhttps://docs.microsoft.com/en-us/Office365/Kaizala/invite-people#introducing-kaizala--poster-and-email-template) to your organization so that employees can see the information.
 
 ### Introducing Kaizala – poster and email template
 
