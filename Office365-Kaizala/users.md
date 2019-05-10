@@ -26,7 +26,7 @@ Before you can send instant messages, pictures, and documents, or set up a new p
 
 On the Kaizala management portal, from the left navigation pane, choose **Directory**. You'll see a list of all users who have access to your organization. This includes users who were uploaded directly through the **Import Multiple Users** process, along with the members of organization groups mapped to your organization. 
     
-You can also show up to four columns of information about users by choosing **More** \> **Select Columns**. 
+You can also show up to four columns of information about users by choosing **More** ![Screenshot of More icon](media/more-icon.png) \> **Select Columns**. 
   
 ![Add a Kaizala user's phone number](media/a2709c0c-0672-44a6-8918-388dab316b2a.png)
   
@@ -34,7 +34,7 @@ Kaizala organization admins can define and manage user attributes for an organiz
   
 ### Set up attributes for all users in the organization
 
-- Select **Directory** \> **More**, and then select **Change Attributes** from the drop-down menu. 
+- Select **Directory** \> **More** ![Screenshot of More icon](media/more-icon.png), and then select **Change Attributes** from the drop-down menu. 
     
 - To add a new attribute, select **Add New**, and then choose from a range of pre-defined suggested attributes or add a new one. 
     
