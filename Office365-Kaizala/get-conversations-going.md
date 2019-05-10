@@ -38,7 +38,7 @@ You and your workforce in the office and in the field needs to communicate and c
 
 ## **[Create large groups for discussions](create-discussion-groups.md)**
 
-![Image of people icon](media/create-large-groups-icon.png)](invite-people.md)
+[![Image of people icon](media/create-large-groups-icon.png)](invite-people.md)
 
 Use Kaizala to create groups that reflect how your organization works. For example, Contoso Corp could have several groups, such as Contoso – All Employees, Contoso - Finance, Contoso – Sales, Contoso - Sales (East), and so on. Use the Kaizala management portal to manage your groups centrally, and to add or manage users in bulk (even in thousands) while retaining complete control over chat data. 
 
