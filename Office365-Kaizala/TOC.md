@@ -6,13 +6,13 @@
 ## Get started
 ### [Overview of getting started](get-started-kaizala.md)
 ### Bring everyone together
-### [Overview of bringing everyone together](bring-everyone-together.md)
-### [Create the company phone directory](create-phone-directory.md)
-### [Invite people to install Kaizala](invite-people.md)
+### [Overview](bring-everyone-together.md)
+#### [Create the company phone directory](create-phone-directory.md)
+#### [Invite people to install Kaizala](invite-people.md)
 ### Get conversations going
-### [Overview of getting conversations going](get-conversations-going.md)
-### [Move existing groups](move-work-chats.md)
-### [Create discussion groups](create-discussion-groups.md)
+### [Overview](get-conversations-going.md)
+#### [Move existing groups](move-work-chats.md)
+#### [Create discussion groups](create-discussion-groups.md)
 ### Connect with employees
 ### [Overview of connecting with employees](connect-with-employees.md)
 ### [Create company connect groups](create-company-connect-groups.md)
