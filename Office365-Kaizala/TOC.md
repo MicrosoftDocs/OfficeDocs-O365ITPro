@@ -3,21 +3,24 @@
 
 # [Welcome to Kaizala](kaizala-overview.md)
 
-## [Get started]
+## Get started
 ### [Overview of getting started](get-started-kaizala.md)
-### [Bring everyone together]
+### Bring everyone together
 ### [Overview of bringing everyone together](bring-everyone-together.md)
 ### [Create the company phone directory](create-phone-directory.md)
 ### [Invite people to install Kaizala](invite-people.md)
-### [Get conversations going](get-conversations-going.md)
-#### [Move existing groups](move-work-chats.md)
-#### [Create discussion groups](create-discussion-groups.md)
-### [Connect with employees](connect-with-employees.md)
-#### [Create company connect groups](create-company-connect-groups.md)
-#### [Collect feedback](collect-feedback.md)
-### [Digitize everyday tasks](digitize-tasks.md)
-#### [Use Kaizala Actions](use-kaizala-actions.md)
-#### [Create custom actions](create-custom-actions.md)
+### Get conversations going
+### [Overview of getting conversations going](get-conversations-going.md)
+### [Move existing groups](move-work-chats.md)
+### [Create discussion groups](create-discussion-groups.md)
+### Connect with employees
+### [Overview of connecting with employees](connect-with-employees.md)
+### [Create company connect groups](create-company-connect-groups.md)
+### [Collect feedback](collect-feedback.md)
+### Digitize everyday tasks
+### [Overview of digitizing everyday tasks](digitize-tasks.md)
+### [Use Kaizala Actions](use-kaizala-actions.md)
+### [Create custom actions](create-custom-actions.md)
 
 ## [Kaizala app](kaizala-app.md)
 ### [Kaizala mobile app](kaizala-mobile-app.md)
