@@ -30,7 +30,7 @@ By default for Yammer Enterprise networks in the US Geo, users can add external 
     
 2. In the **External Messaging** section: 
 
-   - If you see one check box, **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer**, you are still using the previous method. For steps, see [Disable external messaging by using an Exchange Transport Rule](./control-external-messaging-with-exchange).
+   - If you see one check box, **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer**, you are still using the previous method. For steps, see [Disable external messaging by using an Exchange Transport Rule](control-external-messaging-with-exchange.md).
 
    - If you see the following three options, you are using the new method, and can use the steps in this article:
 
