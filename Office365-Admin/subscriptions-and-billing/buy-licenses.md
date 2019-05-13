@@ -132,4 +132,4 @@ If you have a trial subscription, you must first buy your trial subscription, th
   
 ## Related topics
 
-[Cancel Office 365 for business](cancel-your-subscription.md)
+[Cancel your subscription](cancel-your-subscription.md)
