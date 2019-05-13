@@ -2,7 +2,7 @@
   
 
 # [Yammer](index.md)
-## [Get started with Yammer](get-started-with-yammer/admin-key-concepts.md)
+## Get started with Yammer
 ### [Admin key concepts](get-started-with-yammer/admin-key-concepts.md)
 ### [Admin quick start](get-started-with-yammer/admin-quick-start.md)
 ### [Free trial options](get-started-with-yammer/compare-options-for-a-free-trial.md)
@@ -10,7 +10,7 @@
 ### [Technical community](https://techcommunity.microsoft.com/t5/Yammer/ct-p/Yammer)
 ### [Yammer blog](https://techcommunity.microsoft.com/t5/Yammer-Blog/bg-p/YammerBlog)
 ### [Yammer end-user help](https://support.office.com/yammer)
-## [Configure your Yammer network](configure-your-yammer-network/configure-yammer.md)
+## Configure your Yammer network
 ### [Configure Yammer](configure-your-yammer-network/configure-yammer.md)
 ### [Customize the look](configure-your-yammer-network/customize-the-look-of-yammer.md)
 ### [Configure email and Yammer](configure-your-yammer-network/configure-email-and-yammer.md)
@@ -19,7 +19,7 @@
 ### [Manage Yammer domains](configure-your-yammer-network/manage-yammer-domains.md)
 ### [Consolidate multiple Yammer networks](configure-your-yammer-network/consolidate-multiple-yammer-networks.md)
 ### [FAQ: Consolidating multiple Yammer networks](configure-your-yammer-network/faq-consolidate-multiple-yammer-networks.md)
-## [Manage security and compliance](manage-security-and-compliance/security-and-compliance.md)
+## Manage security and compliance
 ### [Security and compliance overview](manage-security-and-compliance/security-and-compliance.md)
 ### [Yammer security settings](manage-security-and-compliance/yammer-security-settings.md)
 ### [Export Yammer Enterprise data](manage-security-and-compliance/export-yammer-enterprise-data.md)
@@ -32,7 +32,7 @@
 ### [Track Yammer events](manage-security-and-compliance/track-yammer-events.md)
 ### [Manage Yammer with Intune](manage-security-and-compliance/manage-yammer-with-intune.md)
 ### [Data residency](manage-security-and-compliance/data-residency.md)
-## [Manage Yammer users](manage-yammer-users/manage-users-across-their-lifecycle.md)
+## Manage Yammer users
 ### [Manage Office 365 users](manage-yammer-users/manage-users-across-their-lifecycle.md)
 ### [Add, block, or remove users](manage-yammer-users/add-block-or-remove-users.md)
 ### [Manage Yammer licenses in Office 365](manage-yammer-users/manage-yammer-licenses-in-office-365.md)
@@ -42,14 +42,14 @@
 ### [AAD credentials will soon be required](manage-yammer-users/aad-account-required.md)
 ### [Auto-acceleration policy for signing in](manage-yammer-users/auto-acceleration-policy-for-signing-in.md)
 ### [Turn off user access](manage-yammer-users/turn-off-user-access.md)
-## [Work with external users](work-with-external-users/create-and-manage-an-external-network.md)
+## Work with external users
 ### [Create and manage an external network](work-with-external-users/create-and-manage-an-external-network.md)
 ### [Add external participants](work-with-external-users/add-external-participants.md)
 ### [Create and manage external groups](work-with-external-users/create-and-manage-external-groups.md)
 ### [Find external participants](work-with-external-users/find-external-participants.md)
 ### [Disable external messaging](work-with-external-users/control-external-messaging-with-exchange.md)
 ### [External messaging FAQ](work-with-external-users/external-messaging-faq.md)
-## [Manage Yammer groups](manage-yammer-groups/yammer-and-office-365-groups.md)
+## Manage Yammer groups
 ### [Yammer and Office 365 groups](manage-yammer-groups/yammer-and-office-365-groups.md)
 ### [Create a Yammer group](https://support.office.com/article/b407af4f-9a58-4b12-b43e-afbb1b07c889)
 ### [Manage a Yammer group](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2)
@@ -58,20 +58,20 @@
 ### [Office 365 groups naming policy](https://docs.microsoft.com/office365/admin/create-groups/groups-naming-policy)
 ### [Export members to CSV](https://support.office.com/article/201a78fd-67b8-42c3-9247-79e79f92b535)
 ### [Live events in Yammer](manage-yammer-groups/yammer-live-events.md)
-## [Monitor Yammer usage](https://docs.microsoft.com/office365/admin/activity-reports/yammer-activity-report)
+## Monitor Yammer usage
 ### [Yammer activity report](https://docs.microsoft.com/office365/admin/activity-reports/yammer-activity-report)
 ### [Yammer groups activity report](https://docs.microsoft.com/office365/admin/activity-reports/yammer-groups-activity-report)
 ### [View group insights](https://support.office.com/en-us/article/View-Group-Insights-in-Yammer-73f9fa6d-d442-4f25-9194-d5317c9328ab)
 ### [Yammer device usage report](https://docs.microsoft.com/office365/admin/activity-reports/yammer-device-usage-report)
 ### [Measure success guide](https://resources.techcommunity.microsoft.com/link/yammer-measure-success-guide)
-## [Integrate Yammer with other apps](integrate-yammer-with-other-apps/integrate-with-other-applications.md)
+## Integrate Yammer with other apps
 ### [Integrate with other applications](integrate-yammer-with-other-apps/integrate-with-other-applications.md)
 ### [Add a Yammer feed in a SharePoint page](integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site.md)
 ### [Yammer and SharePoint Server](https://docs.microsoft.com/SharePoint/administration/integrate-yammer-with-on-premises-sharepoint-server-environments)
 ### [Yammer and Newsfeed](integrate-yammer-with-other-apps/yammer-and-newsfeed.md)
 ### [Knowledge-base community using Flow and QnA Maker](integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker.md)
 ### [Sentiment analysis using Flow and Azure Cognitive Services](integrate-yammer-with-other-apps/sentiment-analysis-flow-azure.md)
-## [Troubleshoot problems](troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices.md)
+## Troubleshoot problems
 ### [Help users log in to Yammer on Android devices](troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices.md)
 ### [Limited functionality in Explorer 10 document mode](troubleshoot-problems/limited-functionality-in-explorer-10-document-mode.md)
 ### [Phasing out temporary mobile passwords](troubleshoot-problems/phasing-out-temporary-mobile-passwords.md)
