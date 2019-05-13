@@ -3,10 +3,12 @@
 
 # [Welcome to Kaizala](kaizala-overview.md)
 
-## [Get started](get-started-kaizala.md)
-### [Bring everyone together](bring-everyone-together.md)
-#### [Create the company phone directory](create-phone-directory.md)
-#### [Invite people to install Kaizala](invite-people.md)
+## [Get started]
+### [Overview of getting started](get-started-kaizala.md)
+### [Bring everyone together]
+### [Overview of bringing everyone together](bring-everyone-together.md)
+### [Create the company phone directory](create-phone-directory.md)
+### [Invite people to install Kaizala](invite-people.md)
 ### [Get conversations going](get-conversations-going.md)
 #### [Move existing groups](move-work-chats.md)
 #### [Create discussion groups](create-discussion-groups.md)
