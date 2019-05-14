@@ -54,12 +54,12 @@ You can send a unique link to invite users to your group. If people open the lin
 
 ### Broadcast group
 
-Broadcast groups have 3 user roles: Admin, Member, or Subscribers. The following sections describe how you can add them to a group.
+Broadcast groups have three user roles: Admin, Member, and Subscribers. The following sections describe how you can add them to a group.
 
 #### Add admins or members
 
 1. Select the group, and open the **Users** tab.
-2. Choose the region, enter the phone number, and choose the user role (admin or member) from the drop-down list. You can also enter a list of comma-separated phone numbers.
+2. Choose the region, enter the phone number, and choose the user role (Admin or Member) from the drop-down list. You can also enter a list of comma-separated phone numbers.
 3. Finally, click or tap **Add users**.
 
 #### Add subscribers
