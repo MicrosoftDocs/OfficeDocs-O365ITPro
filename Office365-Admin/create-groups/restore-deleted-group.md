@@ -84,7 +84,7 @@ You can also [Permanently delete an Office 365 group](#permanently-delete-an-off
     
     ![Choose the group you want to restore, and then click the restore icon.](../media/85c1c45b-1847-4a55-9138-468dc5934125.png)
   
-6. Choose refresh ![Refresh icon](../media/6464df90-2a91-4c1f-92a6-9a38c7696ac3.gif) to update the information on the page. Your group will show as Active. 
+6. Choose refresh ![Refresh icon](../media/6464df90-2a91-4c1f-92a6-9a38c7696ac3.gif) to update the information on the page. Your group will show as Active. Any forms and form data associated with your group will also be restored.
     
 ## Restore an Office 365 Group using PowerShell
 
