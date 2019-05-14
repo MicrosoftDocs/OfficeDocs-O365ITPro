@@ -3,7 +3,7 @@ title: Chat history in Kaizala
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.audience: Admin
+audience: Admin
 ms.date: 10/30/2018
 ms.topic: article
 ms.service: Kaizala

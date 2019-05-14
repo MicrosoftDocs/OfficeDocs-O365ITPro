@@ -3,7 +3,7 @@ title: "Change nameservers to set up Office 365 with Bluehost"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_DOM_Bluehost1'

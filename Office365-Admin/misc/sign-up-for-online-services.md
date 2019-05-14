@@ -3,7 +3,7 @@ title: "Your domain may be in use if someone else in your organization signed up
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_DomainsSetup_InUse'

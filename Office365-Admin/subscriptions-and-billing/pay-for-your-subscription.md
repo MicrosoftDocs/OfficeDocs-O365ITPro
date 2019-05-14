@@ -3,7 +3,7 @@ title: "Pay for your Office 365 for business subscription"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'fwlink 808700 for SEPA UI glink 906 for older uI'

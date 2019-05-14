@@ -4,7 +4,7 @@ ms.author: v-irpast
 author: IrenePasternack
 manager: laurapamgreenwi
 ms.date: 3/22/2018
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'spoe_YammerSwitch'

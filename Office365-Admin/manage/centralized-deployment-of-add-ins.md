@@ -3,7 +3,7 @@ title: "Determine if Centralized Deployment of add-ins works for your organizati
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal

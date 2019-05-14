@@ -3,7 +3,7 @@ title: Azure Active Directory sync with the Kaizala Directory
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.audience: Admin
+audience: Admin
 ms.date: 03/12/2019
 ms.topic: article
 ms.service: Kaizala

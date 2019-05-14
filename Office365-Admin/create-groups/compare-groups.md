@@ -3,7 +3,7 @@ title: "Compare groups in Office 365"
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_TypesOfGroups'

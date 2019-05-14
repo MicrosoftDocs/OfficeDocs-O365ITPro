@@ -3,7 +3,7 @@ title: "What's new in the Microsoft 365 admin center?"
 ms.author: anfowler
 author: anfowler
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: overview
 ms.service: o365-administration
 localization_priority: Normal

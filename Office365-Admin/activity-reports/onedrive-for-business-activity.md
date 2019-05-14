@@ -3,7 +3,7 @@ title: "Office 365 Reports in the Admin Center - OneDrive for Business activity"
 ms.author: kaarins
 author: kaarins
 manager: pamgreen
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365E_ReportsODActivity'

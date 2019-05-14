@@ -3,7 +3,7 @@ title: "Share calendars with external users"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_ShareCal'

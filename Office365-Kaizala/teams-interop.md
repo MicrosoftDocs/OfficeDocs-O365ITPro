@@ -3,7 +3,7 @@ title: Interop between Kaizala and Microsoft Teams
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.audience: Admin
+audience: Admin
 ms.date: 04/02/2019
 ms.topic: article
 ms.service: Kaizala

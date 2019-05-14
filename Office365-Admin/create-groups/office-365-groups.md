@@ -3,7 +3,7 @@ title: "Overview of Office 365 Groups for administrators"
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_O365GroupsAdmin'
