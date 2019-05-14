@@ -66,7 +66,7 @@ Broadcast groups have three user roles: Admin, Member, and Subscribers. The foll
 
 1. Select the broadcast group, and open the **Subscribers** tab.
 2. Add one or more subscribers by adding their phone numbers in a comma-separated list.
-3. Finally, click or tap **Add Subscribers**.
+3. Finally, click or tap **Add subscribers**.
 
 ##### Add subscribers in bulk by using a CSV file
 
