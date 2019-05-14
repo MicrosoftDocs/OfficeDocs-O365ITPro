@@ -1,5 +1,5 @@
 ---
-title: "Upgrade your network to stand-alone Yammer Enterprise subscription"
+title: "Upgrade your network to stand-alone Yammer Enterprise subscription (Office 365 Government only)"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen

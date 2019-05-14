@@ -108,7 +108,7 @@ Before the subscription actually reaches its expiration date, you have a few opt
 
 - **Let the subscription expire.** If you're paying by credit card or invoice and you don't want to continue your subscription, [turn Recurring billing off](renew-your-subscription.md). Your subscription will expire on its expiration date, and you can ignore all related email notifications.
 
-- **Cancel before the subscription expires.** For details, see [Cancel Office 365 for business](cancel-your-subscription.md).
+- **Cancel before the subscription expires.** For details, see [Cancel your subscription](cancel-your-subscription.md).
 
 ::: moniker-end
 
