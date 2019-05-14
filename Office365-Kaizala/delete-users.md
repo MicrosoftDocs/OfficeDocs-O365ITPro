@@ -3,7 +3,7 @@ title: Delete users from the organization directory in Kaizala
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.audience: Admin
+audience: Admin
 ms.date: 05/08/2019
 ms.topic: article
 ms.service: Kaizala

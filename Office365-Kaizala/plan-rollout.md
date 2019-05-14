@@ -3,7 +3,7 @@ title: Plan your org-wide rollout of Kaizala
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.audience: Admin
+audience: Admin
 ms.date: 04/25/2019
 ms.topic: article
 ms.service: Kaizala

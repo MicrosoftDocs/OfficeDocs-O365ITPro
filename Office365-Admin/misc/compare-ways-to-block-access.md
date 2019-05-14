@@ -3,7 +3,7 @@ title: "Compare ways to block access to Office 365"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_SCDisableUserAccess'

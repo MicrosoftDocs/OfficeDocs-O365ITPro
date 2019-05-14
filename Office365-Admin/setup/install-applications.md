@@ -3,7 +3,7 @@ title: "Install Office applications"
 ms.author: supotter
 author: supotter
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal

@@ -3,7 +3,7 @@ title: "What happens to my data and access when my subscription ends?"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_DataLifecycle'

@@ -3,7 +3,7 @@ title: "Add custom tiles to the app launcher"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_CustomTiles'

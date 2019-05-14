@@ -3,7 +3,7 @@ title: Back up and export organization data in Kaizala
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.audience: Admin
+audience: Admin
 ms.date: 11/19/2018
 ms.topic: article
 ms.service: Kaizala

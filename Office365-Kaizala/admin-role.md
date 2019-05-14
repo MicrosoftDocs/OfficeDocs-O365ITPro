@@ -3,7 +3,7 @@ title: About Kaizala administrator role in Office 365
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.audience: Admin
+audience: Admin
 ms.date: 04/03/2019
 ms.topic: article
 ms.service: Kaizala

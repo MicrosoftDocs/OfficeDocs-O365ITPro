@@ -3,7 +3,7 @@ title: "Set up multi-factor authentication for Office 365 users"
 ms.author: Dianef
 author: Dianef
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365E_AdmSetSecPrivMFA'

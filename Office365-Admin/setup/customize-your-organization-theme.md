@@ -3,7 +3,7 @@ title: "Customize the Office 365 theme for your organization"
 ms.author: twerner
 author: twerner
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal

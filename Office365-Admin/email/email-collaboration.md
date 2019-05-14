@@ -3,7 +3,7 @@ title: "Email collaboration in Office 365"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: overview
 f1_keywords:
 - 'O365P_SCDistListAdmin'
