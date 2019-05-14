@@ -37,7 +37,7 @@ Users with this role can sign in to the [Microsoft 365 admin center](http://admi
 Here are some of the key tasks that users can do when they are assigned to the Kaizala administrator role:
 
 - [Create and manage Kaizala groups](groups.md)
-- [Add or remove users to an organization’s Kaizala Directory](users.md)
+- [Add or remove users to an organization’s Kaizala Directory](add-users.md)
 - [View and export reports for Kaizala action cards](reports.md)
 - View analytics for app installation and usage
 - [Manage Kaizala settings](settings.md)
