@@ -43,10 +43,10 @@ The following users can use the Kaizala management portal:
   
 |Menu     |What it's for|
 |---------|-------------|
-|[Kaizala Groups](groups.md) |Create and manage Kaizala groups. |
-|[Kaizala Users](users.md)   |Add and manage Kaizala users. |
+|[Kaizala Groups](groups-in-kaizala.md) |Create and manage Kaizala groups. |
+|[Kaizala Users](add-users.md)   |Add and manage Kaizala users. |
 |[Organization Groups](settings.md) |Connect Kaizala groups to your organization to view reports and manage resources. |
-|[Public Groups](public-groups.md)  |Connect with a large set of subscribers to send and receive information.  |
+|[Broadcast Groups](groups-in-kaizala.md)  |Connect with a large set of subscribers to send and receive information.  |
 |[Kaizala Reports](reports.md)  |View reports on Kaizala Actions.  |
 |[Kaizala Actions](actions.md)  |Create new Kaizala Actions.  |
 |[Kaizala Connectors](connectors.md) |Integrate other applications with Kaizala by using REST APIs. |

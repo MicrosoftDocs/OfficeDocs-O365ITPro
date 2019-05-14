@@ -3,7 +3,7 @@ title: Kaizala mobile app
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 01/25/2019
+ms.date: 05/18/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: Kaizala
@@ -128,9 +128,9 @@ You can also create custom Kaizala actions. Contact kaizalaDev@microsoft.com to 
     
 - Anonymous report
     
-## Find and subscribe to public groups
+## Find and subscribe to broadcast groups
 
-Public groups let you send feedback or report issues to the organizations you want to connect with. Most organizations' end users connect with them directly and access custom Actions to improve productivity, speed, and flow of information etc. You can find and subscribe to public groups from the **Discover** \> **Public Groups** page in the Kaizala app. Tap a public group's name, and select **Subscribe to this Public Group**.
+Broadcast groups let you send feedback or report issues to the organizations you want to connect with. Most organizations' end users connect with them directly and access custom Actions to improve productivity, speed, and flow of information etc. You can find and subscribe to broadcast groups from the **Discover** \> **Broadcast Groups** page in the Kaizala app. Tap a public group's name, and select **Subscribe to this Public Group**.
 
 ## Privacy
 
