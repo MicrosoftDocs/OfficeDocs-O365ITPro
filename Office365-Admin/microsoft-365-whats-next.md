@@ -15,13 +15,12 @@ search.appverid:
   - MOE150
   - FRP150
 description: "What's coming soon for the Microsoft 365 admin center."
-f1_keyword: MACDashWhatsNew
 ROBOTS: NOINDEX
 ---
 
 # What's next for the Microsoft 365 admin center
 
-Welcome to What's next for the Microsoft 365 admin center! This article will tell you about new and improved features we're planning and developing so that you can prepare for change. We'd like to 
+Welcome to What's next for the Microsoft 365 admin center! This article will tell you about new and improved features we're planning and developing so that you can prepare for change.
 
 Here's the legal disclaimer:
 > [!WARNING]
@@ -31,14 +30,33 @@ Here's the legal disclaimer:
 We've heard your feedback that it's hard to plan for change and that you'd like to know what's coming next to the Microsoft 365 admin center. 
 
 ## How to use this article
-I know this sounds completely strange having a section called "How to use this article", but we're hoping that we can use this article as a conversation started between us - the admin and the engineering team. Every item listed in the "Coming soon" section has a link to our Customer feedback website, where we want you to vote for items that you're excited about, ask questions, and give us feedback. 
+We're looking forward to hearing from you and we'd like to use this article as a conversation started between us - the admin and the engineering team. Every item listed in the "Coming soon" section has a link to our Customer feedback website, where we want you to vote for items that you're excited about, ask questions, and give us feedback. 
 
-## Coming soon
+## In the works
 
 ### 3rd Quarter: July 2019 - September 2019
-**Feature name**
+**Dark theme**
 This is the 1-2 sentence description. And here's sentence number 2.
-<Link to OCV item>
+Vote for dark theme on User Voice: https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/36076711-dark-theme-for-the-new-admin-gui 
+
+**Global reader role** - released as private preview in June. Then July public preview. 
+
+**Automation MVP**
+Add a user, assign a license - Add user wizard. way to set defaults. One-click to add a user, who is licensed.
+https://office.visualstudio.com/OC/_workitems/edit/3263692
+
+**Onboarding hub** - Set up node. Starting in experimental flight. Will continue to expand. 
+
+**Microsoft Search**
+Floor plans
+
+Groups detail pane - Bulk management of groups. Detail pane - Moving the Teams adminning to the admin center.
+
+Color contrast - new admin center is too light. Too hard to read. Color contrast in light mode.
+
+Commerce team - billing pages. Looking to simplify the number of pages under the billing node.
+
+Left nav intelligence - HOw you can expand and contract the left nav, remembers how you left it and which links you click on more frequently. Makes those visible by default. 
 
 ## Cut
 Well, there's nothing to show here yet. This section will contain any feature we've decided not to release. It will look something like this:
