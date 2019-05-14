@@ -22,7 +22,7 @@
 #### [Use Kaizala Actions](use-kaizala-actions.md)
 #### [Create custom actions](create-custom-actions.md)
 
-## [Kaizala app](kaizala-app.md)
+## Kaizala app
 ### [Kaizala mobile app](kaizala-mobile-app.md)
 ### [Chat history](chat-history.md)
 ### [Kaizala Web](use-the-web-app.md)
@@ -31,7 +31,8 @@
 ### [Age verification](age-verification.md)
 ### [Make payments](make-payments.md)
 
-## [Kaizala management portal](kaizala-management-portal.md)
+## Kaizala management portal
+### [Kaizala management portal](kaizala-management-portal.md)
 ### [Enable or disable Kaizala Pro](enable-disable-kaizala.md)
 ### [Administrator role](admin-role.md)
 ### [Settings](settings.md)
