@@ -130,7 +130,7 @@ By default, when a group is created from the mobile app, it's created as a priva
 - Using the Kaizala mobile app:
   1. Tap **Chats**, and then open the group.
   2. Tap the group name.
-  3. Tap the **More** icon.
+  3. Tap **More** ![Screenshot of More icon](media/more-icon.png).
   4. Tap **Add to organization**.
   
 ### I am a Kaizala organization admin. I converted an organization group to a private group, which I am not a member of, and now I can't see it anymore. Where did it go?
