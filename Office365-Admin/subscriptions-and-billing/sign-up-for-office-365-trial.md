@@ -3,7 +3,7 @@ title: "Sign up for an Office 365 trial subscription"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: office-365-trial
 ms.service: o365-administration
 localization_priority: Normal

@@ -4,7 +4,7 @@ ms.author: kwekua
 author: kwekua
 manager: scotv
 layout: LandingPage
-ms.audience: Admin
+audience: Admin
 ms.topic: landing-page
 ms.service: o365-administration
 localization_priority: Normal

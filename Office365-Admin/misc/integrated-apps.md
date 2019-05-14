@@ -3,7 +3,7 @@ title: "Turning Integrated Apps on or off"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_ServiceSettings_IntegratedApps_FL512425'

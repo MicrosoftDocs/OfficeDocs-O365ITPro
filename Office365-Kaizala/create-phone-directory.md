@@ -3,7 +3,7 @@ title: Create the company phone directory for Kaizala
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.audience: Admin
+audience: Admin
 ms.date: 05/11/2019
 ms.topic: article
 ms.service: Kaizala

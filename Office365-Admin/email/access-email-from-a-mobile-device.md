@@ -3,7 +3,7 @@ title: "Options for accessing email from your mobile device"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.audience: End User
+audience: End User
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal

@@ -3,7 +3,7 @@ title: "Troubleshoot Remove an alias from a group"
 ms.author: anfowler
 author: adefowler
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: troubleshooting
 f1_keywords:
 - 'O365P_AdminGroups_TSAlias'

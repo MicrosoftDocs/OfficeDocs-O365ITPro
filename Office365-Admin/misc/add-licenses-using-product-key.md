@@ -3,7 +3,7 @@ title: "Add licenses to or extend a subscription paid for using a product key"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal

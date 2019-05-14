@@ -3,7 +3,7 @@ title: "Restore a user in Office 365"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365M_DeleteRestoreUsers'

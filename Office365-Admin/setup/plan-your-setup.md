@@ -3,7 +3,7 @@ title: "Plan your setup of Office 365 for business"
 ms.author: dianef
 author: dianef77
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_1stInfoRqrd'
