@@ -30,7 +30,7 @@ It can take up to 24 hours for an add-in to show up for client for all users.
   
 ## Requirements
 
-Centralized deployment of add-ins requires that the users are using Office 365 ProPlus (and are signed into Office using their Organizational ID), and have Exchange Online and active Exchange Online mailboxes. Your directory must also be federated to Azure Active Directory.
+Centralized deployment of add-ins requires that the users are using Office 365 ProPlus (and are signed into Office using their Organizational ID), and have Exchange Online and active Exchange Online mailboxes. Your subscription'd directory must either be in, or federated to Azure Active Directory.
 You can view specific requirements for Office and Exchange below, or use the [Office 365 Centralized Deployment Compatibility Checker](https://docs.microsoft.com/office365/admin/manage/centralized-deployment-of-add-ins?view=o365-worldwide#office-365-centralized-deployment-compatibility-checker).
 
 Centralized Deployment doesn't support the following:
@@ -89,14 +89,23 @@ Using the Office 365 Centralized Deployment Compatibility Checker, you can verif
   
 1. Start an elevated PowerShell.exe window.
     
-2. Run the `\<Import-Module O365CompatibilityChecker\>` command without the brackets.
+2. Run the following command:
+
+```powershell
+Import-Module O365CompatibilityChecker
+```
     
-3. Run the `\<Invoke-CompatibilityCheck\>` command without the brackets, which prompts you for  `_TenantDomain_` (for example, `TailspinToysIncorporated.onmicrosoft.com`) and  `_TenantAdmin_` credentials, and then requests consent. 
+3. Run the **Invoke-CompatabilityCheck** command:
+
+```powershell
+Invoke-CompatibilityCheck
+```
+   which prompts you for  *_TenantDomain_* (for example, *TailspinToysIncorporated.onmicrosoft.</span>com*) and  *_TenantAdmin_* credentials, and then requests consent.
     
 > [!NOTE]
 > Depending on the number of users in your tenant, the checker could complete in minutes or hours. 
   
-When the tool finishes running, it produces an output file in comma-separated (.csv) format. The file is saved to `C:\windows\system32` by default. The output file contains the following information:
+When the tool finishes running, it produces an output file in comma-separated (.csv) format. The file is saved to **C:\windows\system32** by default. The output file contains the following information:
   
 - User Name
     
@@ -144,7 +153,7 @@ If you or your users encounter problems loading the add-in while using Office On
   
 |**Platform**|**Debug information**|
 |:-----|:-----|
-|Office Online  <br/> | Charles/Fiddler logs  <br/>  Tenant ID ( [learn how](https://support.office.com/article/6891b561-a52d-4ade-9f39-b492285e2c9b.aspx))  <br/>  CorrelationID. View the source of one of the office pages and look for the Correlation ID value and send it on:  <br/>`<input name=" **wdCorrelationId**" type="hidden" value=" **{BC17079E-505F-3000-C177-26A8E27EB623}**">`  <br/>  `<input name="user_id" type="hidden" value="1003bffd96933623"></form>`  <br/> |
+|Office Online  <br/> | Charles/Fiddler logs  <br/>  Tenant ID ( [learn how](https://support.office.com/article/6891b561-a52d-4ade-9f39-b492285e2c9b.aspx))  <br/>  CorrelationID. View the source of one of the office pages and look for the Correlation ID value and send it to support:  <br/>`<input name=" **wdCorrelationId**" type="hidden" value=" **{BC17079E-505F-3000-C177-26A8E27EB623}**">`  <br/>  `<input name="user_id" type="hidden" value="1003bffd96933623"></form>`  <br/> |
 |Rich clients (Windows, Mac)  <br/> | Charles/Fiddler logs  <br/>  Build numbers of the client app (preferably as a screenshot from **File/Account**)  <br/> |
    
 
