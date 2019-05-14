@@ -3,7 +3,7 @@ title: "Set up the Standard or Targeted release options in Office 365"
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_FirstRelease'

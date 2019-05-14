@@ -3,7 +3,7 @@ title: "Create DNS records for Office 365 using Windows-based DNS"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal

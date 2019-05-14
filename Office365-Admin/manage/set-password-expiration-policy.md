@@ -3,7 +3,7 @@ title: "Set the password expiration policy for your organization"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365M_PasswordExp'
