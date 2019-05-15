@@ -35,7 +35,7 @@ You can create different [types of groups](groups-in-kaizala.md) from the Kaizal
 1. On the Kaizala management portal, from the left navigation bar, choose **Groups**.
 2. Select **Create group** > **Create from Office 365 group or distribution list**.
 
-### Create one flat group or multiple flat groups in bulk
+### Create flat groups in bulk
 
 1. On the Kaizala management portal, from the left navigation bar, choose **Groups**.
 2. Select **Add users in bulk**, and add the users.
