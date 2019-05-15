@@ -4,7 +4,7 @@ ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
 ms.date: 5/15/2018
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'fwlink from UI'

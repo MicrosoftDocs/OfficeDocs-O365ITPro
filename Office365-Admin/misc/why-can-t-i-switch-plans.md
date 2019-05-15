@@ -3,7 +3,7 @@ title: "Why can't I switch Office 365 for business plans?"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: troubleshooting
 f1_keywords:
 - 'WhyICantSwitchPlans'

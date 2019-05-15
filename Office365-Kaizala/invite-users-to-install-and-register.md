@@ -3,7 +3,7 @@ title: Invite users to install Kaizala through SMS
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.audience: Admin
+audience: Admin
 ms.date: 05/16/2019
 ms.topic: article
 ms.service: Kaizala

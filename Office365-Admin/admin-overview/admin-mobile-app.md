@@ -3,7 +3,7 @@ title: "About the Microsoft 365 Admin mobile app"
 ms.author: adefowler
 author: anfowler
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: overview
 ms.service: o365-administration
 localization_priority: Normal

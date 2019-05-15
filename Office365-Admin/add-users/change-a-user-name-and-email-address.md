@@ -3,7 +3,7 @@ title: "Change a user name and email address in Office 365"
 ms.author: dianef
 author: dianef
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority

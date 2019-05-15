@@ -4,7 +4,7 @@ ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 2/14/2018
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365E_BecomeAdmin_FL544797'

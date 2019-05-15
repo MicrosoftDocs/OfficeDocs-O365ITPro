@@ -3,7 +3,7 @@ title: "Using self-service sign up in your organization"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'fwlink 530261'

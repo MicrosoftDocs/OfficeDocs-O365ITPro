@@ -3,13 +3,8 @@ title: Create company connect groups in Kaizala
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.audience: Admin
 ms.date: 05/18/2019
 ms.topic: article
-ms.service: Kaizala
-ms.custom: Kaizala
-ms.reviewer: 
-localization_priority: Normal
 search.appverid:
 - MET150
 - MOE150

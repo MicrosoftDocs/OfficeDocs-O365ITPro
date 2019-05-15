@@ -3,7 +3,7 @@ title: "Do an admin takeover in Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'Setup_AdminTakeover'
