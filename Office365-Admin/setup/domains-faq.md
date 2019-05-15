@@ -38,6 +38,10 @@ description: "Learn more about domains in Office 365 by finding answers to your 
 
 # Domains FAQ
 
+> [!NOTE]
+> Use the [Office 365 Content Delivery Network (CDN) with SharePoint Online](https://docs.microsoft.com/en-us/office365/enterprise/use-office-365-cdn-with-spo).
+
+
 This article contains answers to Frequently Asked Questions about domains in Office 365.
 
 If you can't find an answer to your question, let us know by leaving a comment and we'll add it to the list.
