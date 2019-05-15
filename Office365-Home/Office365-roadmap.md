@@ -10,6 +10,7 @@ ms.devlang: na
 ms.topic: landing-page
 ms.date: 12/13/2017
 ms.author: samanro
+localization_priority: Priority
 ---
 # Office 365 content roadmap
 
