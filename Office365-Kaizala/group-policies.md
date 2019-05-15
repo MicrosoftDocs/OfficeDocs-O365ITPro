@@ -3,7 +3,7 @@ title: Kaizala group policies
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 04/29/2019
+ms.date: 05/18/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
