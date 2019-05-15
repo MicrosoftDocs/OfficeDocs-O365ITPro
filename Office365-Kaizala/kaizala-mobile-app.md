@@ -86,7 +86,7 @@ The Kaizala management portal is a web-based portal that provides access to mana
 
 You can send **Actions** by tapping the \<palette\> icon from the top right corner of a conversation. Built in Kaizala Actions help you coordinate frequently-used tasks for common workflow scenarios. You can find and use Kaizala Actions from the **Discover** page in the app. The available Kaizala Actions include: 
   
-- **Announcement** - Use to make key announcements or share updates with your team. Announcements are a great way to share a message across groups in an organization or in a public group. Engage with your audience about the announcement using likes and comments. 
+- **Announcement** - Use to make key announcements or share updates with your team. Announcements are a great way to share a message across groups in an organization or in a broadcast group. Engage with your audience about the announcement using likes and comments. 
     
 - **Job** - Use to assign jobs to people and track their completion status through chat messages. The job creator and the assignee, can add quick comments to indicate the progress of the work. Other members of the group can also comment on the job and status. 
     
@@ -130,7 +130,7 @@ You can also create custom Kaizala actions. Contact kaizalaDev@microsoft.com to 
     
 ## Find and subscribe to broadcast groups
 
-Broadcast groups let you send feedback or report issues to the organizations you want to connect with. Most organizations' end users connect with them directly and access custom Actions to improve productivity, speed, and flow of information etc. You can find and subscribe to broadcast groups from the **Discover** \> **Broadcast Groups** page in the Kaizala app. Tap a public group's name, and select **Subscribe to this Public Group**.
+Broadcast groups let you send feedback or report issues to the organizations you want to connect with. Most organizations' end users connect with them directly and access custom Actions to improve productivity, speed, and flow of information etc. You can find and subscribe to broadcast groups from the **Discover** \> **Broadcast Groups** page in the Kaizala app. Tap a broadcast group's name, and select **Subscribe to this Broadcast Group**.
 
 ## Privacy
 

@@ -26,10 +26,10 @@ A hub-and-spoke group in Kaizala is a unique group where admins can broadcast me
 > You can only create hub and spoke groups through the Kaizala management portal. 
 
 1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, choose **Groups**.
-2. Select **Create Group**, and from the drop-down menu, select **Public Group**.
+2. Select **Create Group**, and from the drop-down menu, select **Broadcast Group**.
 3. Enter the group name, a short and long description, and a welcome message.
 
-   ![Screenshot of Create a public group window](media/create-public-group.png)
+   ![Screenshot of Create a broadcast group window](media/create-public-group.png)
 
 4. Choose between two group types: **Managed** or **Public**.
    - **Managed** groups allow the group admins to view, manage, and invite subscribers.
@@ -39,7 +39,7 @@ A hub-and-spoke group in Kaizala is a unique group where admins can broadcast me
 
 If you want to add several users without using the comma separated list, use bulk upload.
 
-After you create a public group, you can add subscribers (employees, partners, or customers) to it. Once they have been added, the public group will start showing up on their Kaizala app.
+After you create a broadcast group, you can add subscribers (employees, partners, or customers) to it. Once they have been added, the broadcast group will start showing up on their Kaizala app.
 
 1. To add subscribers, select **Manage Subscribers**, and then select **Add Subscribers**. 
 
