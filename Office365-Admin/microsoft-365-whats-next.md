@@ -14,7 +14,7 @@ search.appverid:
   - MET150
   - MOE150
   - FRP150
-description: "What's coming soon for the Microsoft 365 admin center."
+description: "Find out what we're working on next for the Microsoft 365 admin center."
 ROBOTS: NOINDEX
 ---
 
@@ -30,7 +30,7 @@ Because this article is a new experiment in the type of information that Microso
 We've heard your feedback that it's hard to plan for change and that you'd like to know what's coming next to the Microsoft 365 admin center. 
 
 ## How to use this article
-We're looking forward to hearing from you and we'd like to use this article as a conversation started between us - the admin and the engineering team. Every item listed in the "Coming soon" section has a link to our UserVoice website, where we want you to vote for items that you're excited about, ask questions, and give us feedback. 
+We're looking forward to hearing from you and we'd like to use this article as a conversation started between us - the admin and the engineering team. Every item listed in the "Coming soon" section has a link to our UserVoice website, where we want you to vote for items that you're excited about, ask questions, and give us feedback.
 
 ## In the works
 
