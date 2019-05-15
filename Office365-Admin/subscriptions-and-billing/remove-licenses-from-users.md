@@ -3,7 +3,7 @@ title: "Remove licenses from users in Office 365 for business"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-audience: Admin
+ms.audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_RemoveEXOLicense'
@@ -41,7 +41,7 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
 2. On the **Active Users** page, choose the name of the user from whom you want to remove a license.
 
-3. At the top, choose the **More** (...) button, then choose **Manage product licenses**.
+3. At the top, choose **Manage product licenses**.
 
 4. In the user pane on the right, choose **Licenses and Apps**.
 
@@ -79,7 +79,7 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
 2. Select the circles next to the names of the users from whom you want to remove licenses.
 
-3. At the top, choose the **More** (...) button, then choose **Manage product licenses**.
+3. At the top, choose **Manage product licenses**.
 
 4. In the **Manage product licenses** pane, choose **Replace existing product license assignments** \> **Next**.
 
