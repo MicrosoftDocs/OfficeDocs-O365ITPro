@@ -25,32 +25,32 @@ You can create different [types of groups](groups-in-kaizala.md) from the Kaizal
 
 ## Create a flat group
 
-1. On the Kaizala management portal, from the left navigation bar, choose **Groups**.
+1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, choose **Groups**.
 2. Select **Create group**, enter the group name, and then click or tap **Create**.
     
    ![Enter the name to create a new Kaizala group](media/f913453e-6a66-45bd-a51c-114ebf5be0d7.png)
 
 ### Create a flat group from existing Office 365 groups or distribution lists
 
-1. On the Kaizala management portal, from the left navigation bar, choose **Groups**.
+1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, choose **Groups**.
 2. Select **Create group** > **Create from Office 365 group or distribution list**.
 
 ### Create flat groups in bulk
 
-1. On the Kaizala management portal, from the left navigation bar, choose **Groups**.
+1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, choose **Groups**.
 2. Select **Add users in bulk**, and add the users.
 3. Download the CSV template. Fill in the names of new groups that you want to create, and upload the CSV.
 
 ## Create a broadcast group
 
-1. On the Kaizala management portal, from the left navigation bar, choose **Groups**.
+1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, choose **Groups**.
 2. Select **Create group**, and then select **Create broadcast group**. 
 
 ## Create a hierarchical group
 
 Kaizala lets you create hierarchal group structures by adding subgroups. 
 
-1. On the Kaizala management portal, from the left navigation bar, choose **Groups**.
+1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, choose **Groups**.
 2. Select a group you want to modify.
 3. From the top navigation bar of the group, select **Sub Groups**.
 4. Choose a group you want to link from the drop-down list, and then click or tap **Add Group**.
@@ -59,7 +59,7 @@ Kaizala lets you create hierarchal group structures by adding subgroups.
 
 ### Add a subgroup in bulk
 
-1. On the Kaizala management portal, from the left navigation bar, choose **Groups**.
+1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, choose **Groups**.
 2. Select **Add users in bulk**, and add the users.
 3. From the drop-down menu, select **Add subgroups to group**.
 4. Download the CSV template. Fill in the names of subgroups and parent groups, and upload the CSV.
@@ -68,7 +68,7 @@ Kaizala lets you create hierarchal group structures by adding subgroups.
 
 You can export all Kaizala group information to a CSV file.
 
-1.	On the Kaizala management portal, from the left navigation bar, choose **Groups**. 
+1.	On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, choose **Groups**. 
 2.	Click or tap **Export**.
 
 You can then view groups information from an Excel spreadsheet or another app that can open CSV files. 
@@ -96,5 +96,5 @@ You can convert it to an organization group.
   3. Tap the **More (...)** icon.
   4. Tap **Add to organization**.
 
-Next: [Manage Kaizala groups](manage-kaizala-groups.md)
+*Next>* [Manage Kaizala groups](manage-kaizala-groups.md)
 

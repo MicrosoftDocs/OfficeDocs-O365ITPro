@@ -27,7 +27,7 @@ Depending on the group type, Kaizala supports multiple ways to add users to a gr
 
 ### Flat or hierarchal group
 
-Flat or hierarchal groups have two user roles: Admin and Member. The following sections describe how you can add them to a group.
+Flat or hierarchal groups have two user roles: admin and member. The following sections describe how you can add them to a group.
 
 #### Add admins or members
 
@@ -54,12 +54,12 @@ You can send a unique link to invite users to your group. If people open the lin
 
 ### Broadcast group
 
-Broadcast groups have three user roles: Admin, Member, and Subscribers. The following sections describe how you can add them to a group.
+Broadcast groups have three user roles: admin, member, and subscriber. The following sections describe how you can add them to a group.
 
 #### Add admins or members
 
 1. Select the group, and open the **Users** tab.
-2. Choose the region, enter the phone number, and choose the user role (Admin or Member) from the drop-down list. You can also enter a list of comma-separated phone numbers.
+2. Choose the region, enter the phone number, and choose the user role (admin or member) from the drop-down list. You can also enter a list of comma-separated phone numbers.
 3. Finally, click or tap **Add users**.
 
 #### Add subscribers
@@ -91,7 +91,7 @@ Group policies enable the admins to make the group more secure by restricting fo
 
 ## Add Actions
 
-Kaizala Actions are chat-based work management cards such as attendance, surveys, announcements, jobs, and trainings. Kaizala management portal enables managing Actions in a group.
+Kaizala Actions are chat-based work management cards such as attendance, surveys, announcements, jobs, and trainings. The Kaizala management portal enables managing Actions in a group.
 
 ### Add Actions to a group
  
