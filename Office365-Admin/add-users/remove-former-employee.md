@@ -3,7 +3,7 @@ title: "Remove a former employee from Office 365"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_SCDeleteUserTemp'
@@ -17,7 +17,7 @@ f1_keywords:
 - 'O365E_SCBlockedUsers'
 - 'O365E_AdminODSettsSignOut'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
@@ -121,7 +121,7 @@ There are two ways you can save the contents of the former employee's mailbox:
     
     Inactive mailboxes can't receive email and aren't displayed in your organization's shared address book or other lists.
     
-    To learn how to place a hold on a mailbox, see the TechNet article [Manage inactive mailboxes in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkID=286939).
+    To learn how to place a hold on a mailbox, see [Manage inactive mailboxes in Exchange Online](https://docs.microsoft.com/en-us/office365/securitycompliance/create-and-manage-inactive-mailboxes).
     
 ## Forward a former employee's email to another employee or convert to a shared mailbox
 <a name="bkmk_forward"> </a>

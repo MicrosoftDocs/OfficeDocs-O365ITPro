@@ -3,7 +3,7 @@ title: "Change nameservers to set up Office 365 with One.com"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal

@@ -3,7 +3,7 @@ title: "Set the password expiration policy for your organization"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365M_PasswordExp'
@@ -63,8 +63,6 @@ As an admin, you can make user passwords expire after a certain number of days, 
 
 Here are some things to know about how this feature currently works as of January 2018:
   
-- **Bug**: We're currently investigating a bug that's preventing this feature from working consistently. Your users may not get a notification before their password expires. This means when they sign in to Office 365 and their password has expired, they'll be prompted to change their password at that time without any advance notice. 
-    
 - People who only use the Outlook app won't be forced to reset their Office 365 password until it expires in the cache. This can be several days after the actual expiration date. There's no workaround for this at the admin level.
     
 - Users do not get an email notification that their password is going to expire in X number of days. Do you want this feature? **[Vote here!](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/15028344-office-365-password-email-notification)**

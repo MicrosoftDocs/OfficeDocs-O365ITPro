@@ -3,14 +3,14 @@ title: "Change nameservers to set up Office 365 with Gandi.net"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_DOM_Gandi1'
 - 'O365M_DOM_Gandi1'
 - 'O365E_DOM_Gandi1'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: 
 - M365-subscription-management
 - Adm_O365

@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.date: 8/21/2018
-ms.audience: Consumer/IW
+audience: Consumer/IW
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala

@@ -1,9 +1,9 @@
 ---
 title: "Set an individual user's password to never expire"
-ms.author: dianef
-author: dianef77
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal

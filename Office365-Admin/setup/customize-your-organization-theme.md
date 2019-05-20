@@ -3,7 +3,7 @@ title: "Customize the Office 365 theme for your organization"
 ms.author: twerner
 author: twerner
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
@@ -25,7 +25,7 @@ description: "Learn to change the default theme of Office 365 and customize it t
 
 # Customize the Office 365 theme for your organization
 
-Learn how to customize your theme in the Microsoft 365 admin center. As the admin of your Office 365 for business subscription, you can change the default theme that appears in the top navigation bar for everyone in the organization. You can add your company logo, colors, and a link to match the rest of your brand. You can see here the default theme and custom theme result in Office 365.
+Learn how to customize your theme in the Microsoft 365 admin center. As the admin of your Office 365 for business subscription, you can change the default theme that appears in the top navigation bar for everyone in the organization. You can add your company logo and change the colors to match the rest of your brand. You can even add a destination link for users to navigate to when clicking on your logo. You can see here the default theme and custom theme result in Office 365.
   
 ![Default Office 365 theme and Custom Office 365 theme](../media/e2cbc922-b424-4683-8c5c-fdbcbd0ce844.png)
   
@@ -33,9 +33,9 @@ Learn how to customize your theme in the Microsoft 365 admin center. As the admi
 
 1. [Sign in to Office 365](https://go.microsoft.com/fwlink/p/?LinkID=402333) with your [work or school account](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4.aspx).
     
-2. Navigate to the Microsoft 365 admin center.
+2. Navigate to the [Microsoft 365 admin center](https://admin.microsoft.com)
     
-3. Choose to **Settings**![Settings: update your profile, install software and connect it to the cloud](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **Organization profile**.
+3. Navigate to **Settings**![Settings: update your profile, install software and connect it to the cloud](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **Organization profile**.
     
 4. Next to **Manage custom themes for your organization**, click or tap **Edit**.
     
@@ -52,11 +52,9 @@ Learn how to customize your theme in the Microsoft 365 admin center. As the admi
     > [!NOTE]
     > Images that contain text may not display as expected. Built-in elements that appear on the right and left sides of the navigation bar can vary across services, and your text may be obscured by those elements. Due to the dynamic nature of the navigation bar, at this time we are unable to provide guidance for image padding that would result in a consistent experience. 
   
-  - **Prevent users from overriding theme**: Check this box to disable theming at the user level so that everyone in the organization sees the theme you create. The exception to this is a high contrast theme used for accessibility purposes.
+  - **Prevent users from overriding theme**: Flip this toggle to prevent users from choosing their own theme from our theme selection. This does not prevent users from being able to set a high contrast theme.
     
-  - **Accent color**: Select a color to use for the app launcher icon, mouse over color, and other accents.
-    
-  - Click or tap **Save**.
+  - **Accent color**: Select a color to use for the, nav bar button hover color, and page accents like buttons and text on certain applications.
     
   - **Nav bar background color**: Select a color to use for the background of the navigation bar. The appears at the top on every page.
     
@@ -64,7 +62,7 @@ Learn how to customize your theme in the Microsoft 365 admin center. As the admi
     
   - **App launcher icon**: Select a color to use for the app launcher icon in the upper left.
     
-  - **User name**: Choose to show users' full names and photos on the top navigation bar when they are signed in. By default, users will see their photo.
+  - **User name**: Choose to show users' full names and photos on the top navigation bar when they are signed in. By default, users will see their photo or their initials if a photo hasn't been uploaded.
     
 6. Click or tap **Save**.
     
@@ -72,9 +70,9 @@ You'll see your new theme on the admin center right away and after a short delay
   
 ## Best Practices
 
-When choosing custom colors, pick an **Accent color** that shows up well on a white or light background. The **Accent color** is used to color some links and buttons that show up on a white or light background. For example, the **Accent color** is used to color links in the app launcher. Additionally, the **Accent color** is used to color elements in a user's inbox and on their Office.com portal page. 
+When choosing custom colors, pick an **Accent color** that shows up well on a white or light background. The **Accent color** is used to color some links and buttons that show up on a white or light background. For example, the **Accent color** is used to color elements in a user's inbox and on their Office.com portal page. 
   
-When choosing custom colors, pick a **Nav bar background color** and **Text and icons** color with a high contrast ratio to ensure that all text and icons are easily visible. 
+When choosing custom colors, pick a **Nav bar background color** and **Text and icons** color with a high contrast ratio to ensure that all text and icons are easily visible.
   
 The recommended contrast ratio between text, icon, or button color and background color is 4.5:1.
   

@@ -4,7 +4,7 @@ ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
 ms.date: 3/6/2019
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.prod: office-online-server
 localization_priority: Normal
@@ -125,6 +125,7 @@ You can turn off the display of this data for links.
 The org chart was deprecated for Office 365 Yammer networks in May 2018. Office charts are available in Skype for Business and Delve. For more information, see [Find info from a contact card in Skype for Business](https://support.office.com/en-us/article/Find-info-from-a-contact-card-in-Skype-for-Business-d797905c-66f0-4248-b473-c49e3c9a0767) and [How can I find people and information in Office Delve?](https://support.office.com/en-us/article/How-can-I-find-people-and-information-in-Office-Delve-5b8bffdd-a50a-430a-8570-09b39481887c)
   
 <a name="MessageTranslation"> </a>    
+
 ## Allow message translation
 
 This feature gives users the option to translate messages from [any language supported by Microsoft Translator](https://www.microsoft.com/en-us/translator/languages.aspx) into the network's default language. To enable this feature, the network admin must accept a Terms and Services agreement in order to use Microsoft's proprietary translation technology. This feature is disabled by default. 
@@ -132,3 +133,9 @@ This feature gives users the option to translate messages from [any language sup
 When this is enabled, users will see a **Translate** option right under any message that has been posted in a language different than the language they have selected in **Preferences** in their Yammer settings.
   
 - On the **Configuration** page, in the **Enabled Features** section, select whether to allow **Message Translation**.
+
+## Set language for system messages
+
+System messages notify users of important actions in the network and conversations, such as creating a new group or adding people to a conversation. Changing the language will display future system messages in the selected language. Prior system messages will remain in the existing language.
+
+- On the **Configuration** page, under **Set System Language**, choose the language to use.  

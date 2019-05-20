@@ -3,7 +3,7 @@ title: "Office 365 Reports in the admin center - Active Users"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: overview
 f1_keywords:
 - 'O365E_ReportsLicensing'

@@ -3,7 +3,7 @@ title: "Give mailbox permissions to another user in Office 365 - Admin Help"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
@@ -62,7 +62,7 @@ There are a few different ways you can access a mailbox once you've been given a
 ## Send email from another user's mailbox
 
 
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+1. Go to Office 365 **admin center** \> **Users** \> **Active Users**.
     
 1. Choose the user you want, and then click on **Manage product licenses**.
     

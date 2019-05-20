@@ -3,7 +3,7 @@ title: "Office 365 Reports in the admin center - Microsoft Office activations"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: overview
 f1_keywords:
 - 'O365M_ReportsOfficeActivations'

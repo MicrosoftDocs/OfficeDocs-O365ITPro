@@ -3,7 +3,7 @@ title: "Create, edit, or delete a custom user view in Office 365"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_ESUsersFilter'

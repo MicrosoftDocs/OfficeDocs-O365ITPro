@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.date: 8/21/2018
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -38,7 +38,7 @@ You'll also need to change an option in Aggressive Doze &amp; App Hibernation se
     
 2. Tap the gear icon and then scroll down to the **Device** option. 
     
-3. Tap the **Battery** option and then tap on the ... icon at the top of the screen. 
+3. Tap the **Battery** option and then tap **More** ![Screenshot of More icon](media/more-icon.png) at the top of the screen. 
     
 4. Make sure the **Aggressive Doze &amp; App Hibernation** option is off. 
     

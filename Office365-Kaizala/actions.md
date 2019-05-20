@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.date: 1/21/2019
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -95,7 +95,7 @@ To remove a Kaizala Action from a group:
     
 2. Go to the **Action** tab. Find the Action that you want to remove.
     
-3. Click or tap ( **...** ), and then click or tap **Remove**. 
+3. Click or tap **More** ![Screenshot of More icon](media/more-icon.png), and then click or tap **Remove**. 
     
 ## Activate or deactivate a Kaizala Action
 

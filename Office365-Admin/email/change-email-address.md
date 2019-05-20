@@ -3,7 +3,7 @@ title: "Change your email address to use your custom domain"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_1stWhyChgEmail'

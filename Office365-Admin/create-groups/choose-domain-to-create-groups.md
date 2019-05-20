@@ -3,7 +3,7 @@ title: "Choose the domain to use when creating Office 365 Groups"
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
@@ -91,7 +91,7 @@ Changing an EAP has no impact on the groups that have already been provisioned.
 To delete an EAP, use the Remove-EmailAddressPolicy cmdlet.
   
 ```
-Remove-EmailAddressPolicy -Name StudentsGroups
+Remove-EmailAddressPolicy -Identity StudentsGroups
 ```
 
 Changing an EAP has no impact on the groups that have already been provisioned.

@@ -3,7 +3,7 @@ title: "Create, edit, or delete a security group in the Microsoft 365 admin cent
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_mdmsetupwhatissg'

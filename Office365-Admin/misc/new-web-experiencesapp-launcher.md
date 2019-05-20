@@ -3,7 +3,7 @@ title: "New Office 365 web experiences - working with your apps and online docum
 ms.author: anfowler
 author: adefowler
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: overview
 ms.service: o365-administration
 localization_priority: Normal

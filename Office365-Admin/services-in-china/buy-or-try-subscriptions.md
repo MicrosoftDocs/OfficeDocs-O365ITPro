@@ -3,7 +3,7 @@ title: "Buy or try subscriptions for Office 365 operated by 21Vianet"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365M_BuyAfterTry '

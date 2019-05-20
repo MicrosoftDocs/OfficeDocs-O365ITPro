@@ -3,7 +3,7 @@ title: "Office 365 Reports in the admin center - Email apps usage"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365M_ReportsEmailClients'

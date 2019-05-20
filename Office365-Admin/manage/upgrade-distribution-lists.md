@@ -3,7 +3,7 @@ title: "Upgrade distribution lists to Office 365 Groups in Outlook"
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal

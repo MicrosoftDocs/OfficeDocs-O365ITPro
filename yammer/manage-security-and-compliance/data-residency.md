@@ -4,7 +4,7 @@ ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
 ms.date: 3/28/2019
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 ms.service: yammer

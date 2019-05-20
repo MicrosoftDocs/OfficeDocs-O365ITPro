@@ -1,9 +1,9 @@
 ---
 title: "Assign admin roles in Office 365 for business"
-ms.author: dianef
+ms.author: cmcatee
 author: dianef
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_AssignAdminPermissions'

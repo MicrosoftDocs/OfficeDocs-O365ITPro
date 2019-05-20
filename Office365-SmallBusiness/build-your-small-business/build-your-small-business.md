@@ -1,9 +1,9 @@
 ---
-title: "Build your small business with Office 365"
+title: "Build your small business with Microsoft"
 ms.author: kwekua
 author: supotter
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: landing-page
 layout: LandingPage
 ms.service: o365-administration
@@ -15,9 +15,9 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: e540a435-e3c5-4c7c-a116-2eb638827a7f
-description: "Run your small business with Office 365 email, manage your calendar, and enjoy enterprise grade security."
+description: "Run your small business with Microsoft email, manage your calendar, and enjoy enterprise grade security with Microsoft 365 Business and Office 365 for business."
 ---
-# Build your small business with Office 365
+# Build your small business with Microsoft
 
 
 <ul class="panelContent cardsW">
@@ -79,7 +79,7 @@ description: "Run your small business with Office 365 email, manage your calenda
         </a>
     </li>
     <li>
-        <a href="https://support.office.com/en-us/article/build-your-business-with-office-and-microsoft-365-48d9fc59-ef0f-4246-a714-044ed6d6228e" target="_blank">
+        <a href="https://support.office.com/article/build-your-business-with-office-and-microsoft-365-48d9fc59-ef0f-4246-a714-044ed6d6228e" target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -98,7 +98,7 @@ description: "Run your small business with Office 365 email, manage your calenda
         </a>
     </li>
     <li>
-        <a href="https://support.office.com/en-us/article/using-outlook-and-teams-together-9bc459c4-ce13-479b-b88b-b8ae49092732 "target="_blank">
+        <a href="https://support.office.com/article/using-outlook-and-teams-together-9bc459c4-ce13-479b-b88b-b8ae49092732 "target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">

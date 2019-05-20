@@ -3,7 +3,7 @@ title: "Configure domains for Mobile Device Management for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365M_MDMConfigDomains'

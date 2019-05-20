@@ -3,7 +3,7 @@ title: "Manage deployment of Office 365 add-ins in the admin center"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_AdminOfficeAddins'

@@ -3,7 +3,7 @@ title: "Add users individually or in bulk to Office 365"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_GSWAddUsers'

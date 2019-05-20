@@ -3,7 +3,7 @@ title: "Create an Office 365 group in the admin center"
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_O365GroupsAdmin'

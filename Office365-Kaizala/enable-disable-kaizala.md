@@ -3,7 +3,7 @@ title: Enable or disable Kaizala Pro for your organization
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.audience: Admin
+audience: Admin
 ms.date: 04/05/2019
 ms.topic: article
 ms.service: Kaizala

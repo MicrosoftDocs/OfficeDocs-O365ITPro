@@ -3,7 +3,7 @@ title: "Add a user or contact to an Office 365 distribution list"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_ContactsToDLs'

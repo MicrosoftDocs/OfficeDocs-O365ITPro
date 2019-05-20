@@ -1,9 +1,9 @@
 ---
 title: "How to get help in the Microsoft 365 admin center"
-ms.author: dianef
+ms.author: cmcatee
 layout: LandingPage
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: landing-page
 ms.service: o365-administration
 localization_priority: Normal

@@ -3,7 +3,7 @@ title: "Resend a user's password in Office 365 - Admin Help"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
