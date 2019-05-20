@@ -1,6 +1,6 @@
 ---
 title: "Set up multi-factor authentication for Office 365 users"
-ms.author: Dianef
+ms.author: cmcatee
 author: Dianef
 manager: mnirkhe
 audience: Admin

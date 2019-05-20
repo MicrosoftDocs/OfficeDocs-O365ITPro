@@ -1,7 +1,7 @@
 ---
 title: "Set up Office 365 for business"
-ms.author: dianef
-author: dianef77
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article

@@ -1,6 +1,6 @@
 ---
 title: "How to get help in the Microsoft 365 admin center"
-ms.author: dianef
+ms.author: cmcatee
 layout: LandingPage
 manager: mnirkhe
 audience: Admin

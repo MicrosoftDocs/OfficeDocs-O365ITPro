@@ -1,7 +1,7 @@
 ---
 title: "Configure Focused Inbox for everyone in your organization"
-ms.author: dianef
-author: dianef77
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
