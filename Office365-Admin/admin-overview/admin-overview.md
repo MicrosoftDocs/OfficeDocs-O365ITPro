@@ -1,7 +1,7 @@
 ---
 title: "Office 365 admin overview"
-ms.author: dianef
-author: dianef77
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: overview

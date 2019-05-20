@@ -1,6 +1,6 @@
 ---
 title: "Change a user name and email address in Office 365"
-ms.author: dianef
+ms.author: cmcatee
 author: dianef
 manager: mnirkhe
 audience: Admin

@@ -1,7 +1,7 @@
 ---
 title: "Convert a user mailbox to a shared mailbox"
-ms.author: dianef
-author: dianef77
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article

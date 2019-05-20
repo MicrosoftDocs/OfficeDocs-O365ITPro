@@ -1,7 +1,7 @@
 ---
 title: "Customize your team site for file storage and sharing"
-ms.author: dianef
-author: dianef77
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
