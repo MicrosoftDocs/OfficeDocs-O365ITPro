@@ -1,7 +1,7 @@
 ---
 title: "Set an individual user's password to never expire"
-ms.author: dianef
-author: dianef77
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article

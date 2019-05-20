@@ -1,7 +1,7 @@
 ---
 title: "Restore a user in Office 365"
-ms.author: dianef
-author: dianef77
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
