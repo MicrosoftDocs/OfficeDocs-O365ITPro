@@ -51,6 +51,8 @@ description: "Learn to find the values/information you need to create DNS record
 5. Go to [Create DNS records at any DNS hosting provider](create-dns-records-at-any-dns-hosting-provider.md), and select your DNS host from the list of registrars to see the step-by-step instructions.
     
 6. Follow the steps for creating the TXT record (or MX record) at your DNS host, then verify the domain back in Office 365.
+
+7. The TXT record (or MX record) can be removed from your DNS host once the domain is verified in Office365.
     
 ### Step 2: Find the MX record value for email and more
 
