@@ -110,7 +110,7 @@ On the sites page of the sharing settings (Microsoft 365 admin center) you can s
     
 3. In the sharing dialog box, next to **External members**, click **Edit**.
     
-4. Under **Remove external members**, search for the members to remove.<br/>![Remove external members from a site collection](../media/89b166c7-c337-4430-9009-19db89270b77.png)
+4. Under **Remove external members**, search for the members to remove.<br/> ![Remove external members from a site collection](../media/89b166c7-c337-4430-9009-19db89270b77.png)
   
 5. Next to the member's name, select **Remove**.
     
