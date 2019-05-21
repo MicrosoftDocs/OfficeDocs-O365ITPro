@@ -104,7 +104,7 @@ On the sites page of the sharing settings (Microsoft 365 admin center) you can s
     
 ## Revoke site access for individual users in the Microsoft 365 admin center
 
-1. If you're not already in the External Sharing Sites screen, do steps 1-4 shown in [Edit the sharing settings of a particular site collection in the Microsoft 365 admin center](#edit-the-sharing-settings-of-a-particular-site-collection-in-the-office-365-admin-center). 
+1. If you're not already in the External Sharing Sites screen, do steps 1-4 shown in [Edit the sharing settings of a particular site collection in the Microsoft 365 admin center](#edit-the-sharing-settings-of-a-particular-site-collection-in-the-microsoft-365-admin-center). 
     
 2. Select the sharing status ( **Share links and invitations** or **Not allowed**) next to the desired site collection.
     
