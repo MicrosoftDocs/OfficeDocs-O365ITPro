@@ -47,4 +47,6 @@ Chinese and English: Mon-Fri 9 AM-6 PM
 
 ### Technical Support:
 
-Chinese and English: 24 hours a day, 7 days a week
+Chinese and English: 24 hours a day, 7 days a week<br/>
+(Effective July 1, 2019: Mon-Fri 9 AM-9 PM only)
+
