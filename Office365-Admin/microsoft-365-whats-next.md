@@ -34,7 +34,8 @@ We're looking forward to hearing from you and we'd like to use this article as a
 
 ## In the works
 
-### 3rd Quarter: July 2019 - September 2019
+### July 2019
+Here's a list of features that will most-likely be released in July 2019. 
 
 **Dark theme**<br>
 Adding a dark theme for the admin center.
@@ -76,14 +77,6 @@ Designing ways to simplify the billing experience, including reducing the number
 **Navigation menu intelligence**<br>
  The navigation menu will remember and show you the menu in the last state that you left it in. It will also make frequently used menu items visible by default.<br>
 Vote or give feedback for menu intelligence
-
-## Cut
-Well, there's nothing to show here yet. This section will contain any feature we've decided not to release. It will look something like this:
-
-|Cut feature |Planned release |
-|---------|---------|
-|Example feature 1 | 3rd quarter 2019  |
-|Example feature 2 | 3rd quarter 2019  |
 
 ## Released
 For the list of features we've released for the Microsoft 365 admin center, see [What's new in the NEW Microsoft 365 admin center](Office365-Admin/whats-new-in-preview.md).
