@@ -30,7 +30,7 @@ Because this article is a new experiment in the type of information that Microso
 We've heard your feedback that it's hard to plan for change and that you'd like to know what's coming next to the Microsoft 365 admin center. 
 
 ## How to use this article
-We're looking forward to hearing from you and we'd like to use this article as a conversation started between us - the admin and the engineering team. Every item listed in the "Coming soon" section has a link to our UserVoice website, where we want you to vote for items that you're excited about, ask questions, and give us feedback.
+We're looking forward to hearing from you and we'd like to use this article as a conversation starter between us - the admin and the engineering team. Every item listed in the "Coming soon" section has a link to our [Office UserVoice](https://office365.uservoice.com/forums/273493-office-365-admin) website, where we want you to vote for items that you're excited about, ask questions, and give us feedback.
 
 ## In the works
 
@@ -56,11 +56,7 @@ You always add a user with the same defaults like assigning licenses and user ro
 
 **Setup node**<br>
 One-stop to turn on to Microsoft services and to view dismissed recommendations. For example, configuring multi-factor authentication in one simple work flow.<br>
-Vote or give feedback for Setup
-
-**Microsoft Search**<br>
-Moving the features and functionality of the Microsoft Search admin portal into the admin center. <br>
-Vote or give feedback for Microsoft Search
+[Vote or give feedback for Setup](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/37705198-make-it-easier-to-setup-features-for-all-microsoft)
 
 **Bulk management of groups**<br>
 Adding the ability to manage multiple groups at once.<br>
@@ -68,15 +64,15 @@ Adding the ability to manage multiple groups at once.<br>
 
 **Microsoft Teams management**<br>
 Moving the some of the administrative features for Microsoft Teams management into the Microsoft 365 admin center. <br>
-Vote or give feedback for Teams management
+[Vote or give feedback for Teams management](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/17961592-manage-all-from-one-admin-center)
 
 **Simplify billing experience**<br>
 Designing ways to simplify the billing experience, including reducing the number of pages under the billing node.<br>
 [Vote or give feedback for simple billing](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/11579520-billing)
 
-**Navigation menu intelligence**<br>
- The navigation menu will remember and show you the menu in the last state that you left it in. It will also make frequently used menu items visible by default.<br>
-Vote or give feedback for menu intelligence
+**Navigation menu pane intelligence**<br>
+ The menu pane will remember and show you the menu in the last state that you left it in. It will also make frequently used menu items visible by default.<br>
+[Vote or give feedback for menu intelligence](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/37705138-let-the-left-nav-menu-remember-my-favorites)
 
 ## Released
 For the list of features we've released for the Microsoft 365 admin center, see [What's new in the NEW Microsoft 365 admin center](Office365-Admin/whats-new-in-preview.md).
