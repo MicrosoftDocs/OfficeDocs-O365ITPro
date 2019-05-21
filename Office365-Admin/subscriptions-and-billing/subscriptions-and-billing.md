@@ -4,7 +4,7 @@ description: Links for subscriptions and billing for Office 365 for business
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: landing-page
 layout: LandingPage
 f1_keywords:

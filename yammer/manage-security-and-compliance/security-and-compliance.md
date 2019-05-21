@@ -4,7 +4,7 @@ ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
 ms.date: 11/6/2018
-ms.audience: Admin
+audience: Admin
 ms.topic: reference
 ms.prod: office-online-server
 localization_priority: Normal
@@ -84,6 +84,12 @@ Yammer Enterprise offers admins security and compliance tools that are not part 
 ### Q: Who can access the Yammer network?
 
 A: Only users with a valid and verified company email address can join your Yammer network. Yammer has functionality to create external networks to collaborate securely with third parties.
+
+### Q: What endpoints need to be reachable for Yammer users?
+
+A: As of October 22, 2018, all Yammer users need to be able to access *.yammer.com. Do not use a list of IP address ranges to control access to Yammer since these may change and create access problems for users. For information about the October 2018 change, see [Using hard-coded IP addresses for Yammer is not recommended](https://techcommunity.microsoft.com/t5/Yammer-Blog/Using-hard-coded-IP-addresses-for-Yammer-is-not-recommended/ba-p/276592). 
+
+For complete Office 365 URL and IP address ranges info, see [Office 365 endpoints](https://docs.microsoft.com/en-us/office365/enterprise/office-365-endpoints).
   
 ### Q: Where is the data hosted?
 

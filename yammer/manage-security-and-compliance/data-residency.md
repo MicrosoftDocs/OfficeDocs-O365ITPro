@@ -4,7 +4,7 @@ ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
 ms.date: 3/28/2019
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 ms.service: yammer
@@ -15,7 +15,7 @@ search.appverid:
 - MOE150
 - YAE150
 ms.assetid: 
-description: "Data residency for Yammer Enterprise is currently in preview for the EU Geo."
+description: "Data residency for Yammer Enterprise."
 ---
 
 # Data residency
@@ -23,11 +23,7 @@ Yammer offers local data residency to help meet data residency requirements. We 
 
 Yammer files are saved either in Yammer cloud storage, or for Office 365 connected groups, some Yammer files are stored in SharePoint. Yammer files saved in SharePoint will be stored in SharePoint Online per your SharePoint Online data residency policy.
 
-Mobile push notifications require sending data to a third party notification service (Apple or Google), which might be outside your Geo.  
-
-## Data residency in the EU Geo (Preview)
-
-Yammer data residency in the EU Geo is in Preview. 
+Mobile push notifications require sending data to a third party notification service (Apple or Google), which might be outside your Geo.
 
 ### Features not available for Yammer networks in the EU Geo
 
@@ -63,3 +59,5 @@ The following Yammer features are not available for Yammer networks in the EU Ge
 ## See also
 
 [Where is your Office 365 data located](https://go.microsoft.com/fwlink/?linkid=2083810)
+
+[How do I tell where my Yammer files are being stored?](https://support.office.com/article/how-do-i-tell-where-my-yammer-files-are-being-stored-fadfdefa-e00d-40b6-94cb-a9ddb171a443) 

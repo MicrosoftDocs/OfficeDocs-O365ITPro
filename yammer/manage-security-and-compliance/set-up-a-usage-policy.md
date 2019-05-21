@@ -4,7 +4,7 @@ ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
 ms.date: 5/7/2018
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: yammer
 localization_priority: Normal

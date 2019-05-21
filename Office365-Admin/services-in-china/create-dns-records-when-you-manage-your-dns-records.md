@@ -3,7 +3,7 @@ title: "Create DNS records for Office 365 when you manage your DNS records"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365M_Troubleshoot_CreateDNSRecords'

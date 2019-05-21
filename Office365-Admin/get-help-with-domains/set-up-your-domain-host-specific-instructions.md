@@ -3,7 +3,7 @@ title: "Set up your domain (host-specific instructions)"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_Troubleshoot_ChangeNSSteps'

@@ -4,7 +4,7 @@ ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
 ms.date: 1/7/2019
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.prod: office-online-server
 localization_priority: Normal
@@ -248,6 +248,6 @@ Excel does not encode non-English characters in CSV files correctly. If you have
   
 [Manage a group in Yammer](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2.aspx)
 
-[Can I unsubscribe myself from Yammer?](https://support.office.com//981ecaf7-8a7d-4312-a845-bd343e925073)
+[Can I unsubscribe myself from Yammer?](https://support.office.com/article/981ecaf7-8a7d-4312-a845-bd343e925073)
 
 [Remove a user from a group](https://support.office.com/en-us/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2#removemember)

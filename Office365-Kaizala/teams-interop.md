@@ -3,7 +3,7 @@ title: Interop between Kaizala and Microsoft Teams
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.audience: Admin
+audience: Admin
 ms.date: 04/02/2019
 ms.topic: article
 ms.service: Kaizala
@@ -32,7 +32,7 @@ Interop with Microsoft Teams is automatically set up for [organizational one-on-
 
 To set up interop with Microsoft Teams:
 
-1. Link an Office 365 or work account on Kaizala (tap **Me** > **Linked Accounts** > sign in to Office 365).
+1. Link an Office 365 or work account on Kaizala (tap **Profile** > **Linked Accounts** > sign in to Office 365).
 2. On the home screen, tap **Start a chat**.
 3. Search for a recipient using an Office 365 name, and start an individual chat from the organizational directory.
 4. A cross-chat with Microsoft Teams is automatically enabled.

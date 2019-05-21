@@ -3,7 +3,7 @@ title: "About the Microsoft 365 admin center"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: overview
 f1_keywords:
 - 'O365P_AboutAdminCenter'
@@ -39,14 +39,12 @@ description: "Use the admin center to set up your organization in the cloud, and
 **If you purchased an Office 365 business plan AND you have admin permissions, you have access to the admin center**. This article is for you! 
 
 **If you are a user or have an Office 365 home plan, you do not have an admin center.** To set up Office 365, go to [Download and install or reinstall Office 365 or Office 2016 on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx).
-   
+
 You use the admin center to set up your organization in the cloud, manage users, manage subscriptions, and much more. In this article, learn how to get to the admin center and learn about available features and settings.
-<br><br>  
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/cadb5dd8-2274-42a0-8c63-06528872a791?autoplay=false]
-  
+
 ## How to get to the admin center
 
-1. Sign in to Office 365 at [office.com](https://www.office.com/) with the account that has [admin permissions](../add-users/about-admin-roles.md).
+1. Sign in at [admin.microsoft.com](https://admin.microsoft.com) with your admin account.
     
     ::: moniker range="o365-germany"
 
@@ -77,7 +75,7 @@ Here are the features and settings you'll find in the left-hand navigation of th
 |**Menu**|**What it's for**|
 |-----|-----|
 |**Home** <br/> |This is the landing page in the new admin center. You'll see where to manage users, billing, service health, and reports.  <br/> |
-|**Users** <br/> |Create and manage users in your organization, like employees or students. You can also set their permission level or reset their passwords.  <br/> |
+|**User management** <br/> |Create and manage users in your organization, like employees or students. You can also set their permission level or reset their passwords.  <br/> |
 |**Groups** <br/> |Create and manage groups in your organization, such as an Office 365 group, distribution list, security group, or shared mailbox. Learn how to [create and manage groups](../create-groups/create-groups.md).  <br/> |
 |**Resources** <br/> |Create and manage resources, like a SharePoint site collection. Learn how to [create site collections](https://support.office.com/article/3a3d7ab9-5d21-41f1-b4bd-5200071dd539.aspx).  <br/> |
 |**Billing** <br/> |View, purchase, or cancel subscriptions for your organization. View past billing statements or view the number of assigned licenses to individual users. Learn how to [manage billing](../subscriptions-and-billing/subscriptions-and-billing.md).  <br/> |

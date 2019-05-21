@@ -3,7 +3,7 @@ title: "Set up the Standard or Targeted release options in Office 365"
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_FirstRelease'
@@ -67,11 +67,11 @@ With this option, you and your users can be the first to see the latest updates 
   
 ### Targeted release for entire organization
 
-If you [Set up the release option in the Microsoft 365 admin center](#set-up-the-release-option-in-the-office-365-admin-center) for this option, all your users will get the Targeted release experience. For organizations with more than 300 users, we recommend using a test subscription for this option. For test subscription information, please reach out to your Microsoft contact. 
+If you [Set up the release option in the Microsoft 365 admin center](#set-up-the-release-option-in-the-microsoft-365-admin-center) for this option, all your users will get the Targeted release experience. For organizations with more than 300 users, we recommend using a test subscription for this option. For test subscription information, please reach out to your Microsoft contact. 
   
 ### Targeted release for selected users
 
-If you [Set up the release option in the Microsoft 365 admin center](#set-up-the-release-option-in-the-office-365-admin-center) for this option, you can define specific users, usually power users, to receive early access to features and functionality. 
+If you [Set up the release option in the Microsoft 365 admin center](#set-up-the-release-option-in-the-microsoft-365-admin-center) for this option, you can define specific users, usually power users, to receive early access to features and functionality. 
   
 ## Benefits of Targeted release
 

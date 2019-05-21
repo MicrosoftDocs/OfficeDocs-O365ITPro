@@ -3,7 +3,7 @@ title: "Office 365 Reports in the Admin Center - Office 365 groups"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: reference
 f1_keywords:
 - 'O365E_ReportsGroups

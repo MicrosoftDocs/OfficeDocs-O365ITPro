@@ -3,7 +3,7 @@ title: "Create distribution lists in the Microsoft 365 admin center"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal

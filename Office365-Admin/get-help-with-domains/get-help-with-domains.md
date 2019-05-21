@@ -3,7 +3,7 @@ title: "Get help with Office 365 domains"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: landing-page
 layout: LandingPage
 f1_keywords:
@@ -150,7 +150,7 @@ Use these resources to get started using your own domain for email, websites, an
                         <h3>Understand domains</h3>
                             <p><a href="what-is-a-domain.md">What is a domain?</a></p>
                             <p><a href="dns-basics.md">Intro to domains and DNS</a></p>
-                            <p><a href="../setup/domains-faq.md">Learn about your initial onmicrosoft domain</a></p>
+                            <p><a href="../setup/domains-faq.md?#why-do-i-have-an-onmicrosoftcom-domain">Learn about your initial onmicrosoft domain</a></p>
                             <p><a href="../setup/add-domain.md">How adding a domain or changing DNS records affects current email</a></p>
                             <p><a href="../setup/domains-faq.md">How DNS management works in Office 365</a></p>
                             <p><a href="https://go.microsoft.com/fwlink/p/?LinkId=402693">Read the Office 365 service description for domains</a></p>

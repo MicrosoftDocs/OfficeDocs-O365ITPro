@@ -3,7 +3,7 @@ title: "Share files with people"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.audience: End User
+audience: End User
 ms.topic: article
 f1_keywords:
 - 'O365P_GSWInternalFileShare'

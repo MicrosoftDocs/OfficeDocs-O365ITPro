@@ -3,7 +3,7 @@ title: "Add or edit custom DNS records in Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_DomainsMain_CustomDNS'
@@ -36,14 +36,17 @@ description: "Learn how to edit or add a custom DNS record in Office 365. "
     
 2. Choose **Setup** \> **Domains**.
     
+![Click Domains on Office 365 Admin page](../media/57fa88ba-f4e5-477b-9c45-b75978237f3e.png)
+
 3. On the **Domains** page, select a domain. 
     
 4. Under **DNS settings**, choose **Custom Records**, and then choose **New custom record**.
-    
+
+![Click Customer records](https://user-images.githubusercontent.com/45987684/56503244-e5111800-64e2-11e9-8db8-1f1d13915b06.PNG)
 5. Choose the type of DNS record you want to add, and type the information for the new record.
     
 6. Choose **Save**.
     
-![Click Domains on Office 365 Admin page](../media/57fa88ba-f4e5-477b-9c45-b75978237f3e.png)
+
   
 

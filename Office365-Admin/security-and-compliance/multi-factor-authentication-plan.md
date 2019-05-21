@@ -3,7 +3,7 @@ title: "Plan for multi-factor authentication for Office 365 Deployments"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
@@ -83,7 +83,7 @@ To determine whether your Office installation is Click-to-run or MSI-base:
   
 1. Start Outlook 2013.
     
-2. On the ** File ** menu, choose **Office Account**.
+2. On the **File** menu, choose **Office Account**.
     
 3. For Outlook 2013 Click-to-Run installations, an **Update Options** item is displayed. For MSI-based installations, the **Update Options** item is not displayed. 
     

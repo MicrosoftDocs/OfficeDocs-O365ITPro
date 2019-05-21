@@ -3,7 +3,7 @@ title: "Buy a domain name in Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365PE_DomainsSetup_BuyDomain'
@@ -72,22 +72,30 @@ You can choose from the following top level domains for your domain.
 - org.uk
     
 ![On the Manage domains page, click Buy domain](../media/16d6b3ba-ce13-496e-a7c0-1d99479dd203.png)
+
+> [!NOTE]
+> When you click **Buy domain**, you may be redirected to your Microsoft partner's website if the tenant is purchased/managed through a Microsoft partner.
+
+### Domain Privacy
+We offer a free Domain Privacy Subscription with the purchase of a domain. This keeps your contact information attached to the registration of your domain with ICANN private. [Learn more.](https://whois.icann.org/en/privacy-and-proxy-services)
   
 ### Buy a domain from another domain registrar
-
-If you want to buy a domain from a domain registrar other than GoDaddy, choose one that supports all DNS records needed by Office 365 services. For example, use one of the following registrars.
+If you want to buy a domain from a domain registrar other than [GoDaddy](https://www.godaddy.com), we recommend you use one below that supports automatic setup (Domain Connect). 
   
-|||
-|:-----|:-----|
-|[1&amp;1 IONOS](https://www.1and1.com/ ) <br/> [123-reg](https://www.123-reg.co.uk/ ) <br/> [BlueHost](https://www.bluehost.com/products/domains ) <br/> [HostGator](https://www.hostgator.com/domains/ ) <br/> [MediaTemple](https://mediatemple.net/domains/ ) <br/> [HostEurope](https://www.hosteurope.de/en/ ) <br/> |[Domain Factory](https://www.df.eu/ ) <br/> [Heart Internet](https://www.heartinternet.uk/ ) <br/> [Network Solutions](https://go.microsoft.com/fwlink/?LinkId=402475) <br/> [Register.com]( https://go.microsoft.com/fwlink/?LinkId=402476) <br/> [Melbourne IT]( https://go.microsoft.com/fwlink/?LinkId=513080) <br/> |
-|||
+- [1&amp;1 IONOS](https://www.1and1.com/)
+- [WordPress](https://www.wordpress.com) 
+
    
 ### Transfer your domain to a different domain registrar
 
 If your domain is managed by a provider that doesn't support all the necessary DNS records, you can transfer it to a different registrar. When you transfer the domain, you change who you send payments to in order to renew and keep your domain name.
   
 Request the transfer at the registrar that you want to move your domain to. Look on their website for an option such as **Transfer DNS**. Be aware that after they make the changes, it can take a few days update across the Internet.
- ::: moniker range="o365-21vianet"
+ 
+
+
+
+::: moniker range="o365-21vianet"
 ## How to buy a domain for Office 365 operated by 21Vianet
 
 

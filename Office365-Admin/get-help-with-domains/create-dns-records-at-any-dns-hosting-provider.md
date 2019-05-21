@@ -3,7 +3,7 @@ title: "Create DNS records at any DNS hosting provider for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_DOM_Gen'
@@ -241,7 +241,7 @@ On your DNS host's website, you'll create three new CNAME records, typically one
 |:-----|:-----|:-----|:-----|
 |**Record Type** <br/> |**Host** <br/> |**Points to** <br/> |**TTL** <br/> |
 |CNAME (Alias)  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |1 hour  <br/> |
-|CNAME (Alias)  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |1 hour  <br/> |
+|CNAME (Alias)  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |1 hour  <br/> |
    
 ::: moniker-end
 

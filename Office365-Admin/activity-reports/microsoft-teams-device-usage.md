@@ -3,7 +3,7 @@ title: "Office 365 Reports in the Admin Center - Microsoft Teams device usage"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365M_ReportsTeamsAppUsage'
