@@ -17,7 +17,7 @@ f1_keywords:
 - 'O365E_SCBlockedUsers'
 - 'O365E_AdminODSettsSignOut'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: 
 - M365-subscription-management
 - Adm_O365

@@ -36,8 +36,6 @@
 ### [Enable or disable Kaizala Pro](enable-disable-kaizala.md)
 ### [Administrator role](admin-role.md)
 ### [Settings](settings.md)
-### [Groups](groups.md)
-### [Public groups](public-groups.md)
 ### [Reports](reports.md)
 ### [Actions](actions.md)
 ### [Interop with Microsoft Teams](teams-interop.md)
@@ -51,6 +49,12 @@
 ### [Integrate with Microsoft Intune](integrate-with-microsoft-intune.md)
 ### [Troubleshoot notifications](troubleshoot-notifications.md)
 ### [Export or delete a user's data](export-or-delete-a-user-s-data.md)
+
+## Groups
+### [Groups in Kaizala](groups-in-kaizala.md)
+### [Create a group](create-kaizala-groups.md)
+### [Manage a group](manage-kaizala-groups.md)
+### [Group policies](group-policies.md)
 
 ## Directory
 ### [Organization directory network](od-network.md)

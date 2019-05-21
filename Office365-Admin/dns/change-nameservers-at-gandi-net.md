@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_DOM_Gandi1'
 - 'O365E_DOM_Gandi1'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: 
 - M365-subscription-management
 - Adm_O365

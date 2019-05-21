@@ -1,6 +1,6 @@
 ---
 title: "Assign admin roles in Office 365 for business"
-ms.author: dianef
+ms.author: cmcatee
 author: dianef
 manager: mnirkhe
 audience: Admin

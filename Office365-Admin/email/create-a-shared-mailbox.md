@@ -1,7 +1,7 @@
 ---
 title: "Create a shared mailbox"
-ms.author: dianef
-author: dianef77
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
@@ -203,7 +203,7 @@ A Group in Outlook is like a shared mailbox. For a comparison of the two, see [C
 
 - You can't give people outside your business (such as people with a Gmail account) access to your shared mailbox. If you want to do this, consider creating a group for Outlook instead. To learn more, see [Create an Office 365 group in the admin center](../create-groups/create-groups.md).
 
-- You can't access a shared mailbox from Outlook for iPhone or Android. The Outlook mobile app doesn't include the feature to access shared mailboxes, and it's not going to be added. If you want to access a shared mailbox from one of these devices, use your browser to open Outlook on the web, and access the shared mailbox that way. Or, create a group instead for your shared mailbox. To learn more, see [Compare Groups](../create-groups/compare-groups.md).
+- You can't access a shared mailbox from Outlook for iPhone or Android. The Outlook mobile app doesn't include the feature to access shared mailboxes yet. If you want to access a shared mailbox from one of these devices, use your browser to open Outlook on the web, and access the shared mailbox that way. Or, create a group instead for your shared mailbox. To learn more, see [Compare Groups](../create-groups/compare-groups.md).
 
 - You can't encrypt email sent from a shared mailbox. This is because a shared mailbox does not have its own security context (username/password) so it cannot be assigned a key. If more than one person is a member, and they send/receive emails they encrypted with their own keys, other members might be able to read the email and others might not, depending which public key the email was encrypted with.
 
