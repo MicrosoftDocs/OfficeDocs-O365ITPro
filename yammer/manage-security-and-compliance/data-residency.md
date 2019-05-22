@@ -3,8 +3,8 @@ title: "Data residency"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 3/28/2019
-audience: Admin
+ms.date: 5/22/2019
+ms.audience: Admin
 ms.topic: article
 f1_keywords:
 ms.service: yammer
@@ -29,7 +29,7 @@ Mobile push notifications require sending data to a third party notification se
 
 The following Yammer features are not available for Yammer networks in the EU Geo:
 
-- [All external messaging features](../work-with-external-users/external-messaging-faq.md):
+- [All external collaboration features](../work-with-external-users/external-messaging-faq.md):
 
     - Only users in your Office 365 tenant can participate in your Yammer Enterprise network.
 
