@@ -1,9 +1,9 @@
 ---
 title: "Change a user name and email address in Office 365"
-ms.author: dianef
-author: dianef
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
@@ -29,7 +29,6 @@ description: "Learn how a global admin can change a user's Office 365 email addr
 
 # Change a user name and email address in Office 365
 
-   
 You may need to change someone's Office 365 email address and display name if, for example, they get married and their last name changes.
   
 ## Change a user's email address
@@ -43,7 +42,6 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
 3. In the first box, type the first part of the new email address. If you added your own domain to Office 365, you can choose the domain for the new email alias by using the drop-down list. 
 
 4. Choose **Save changes**.
-
     
     **IMPORTANT**: 
     
@@ -77,7 +75,6 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
     
 ## Change a user's display name
 
-
 1. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** > **Active Users**.
     
 2. Select the name of the person. In the flyout pane, next to **Contact information**, choose **Edit**.  
@@ -85,21 +82,16 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
 3. Type a new name for the person and then choose **Save**.
     
     If you get the error message " **We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name.
-    
-    
-  
-## Did you get "A parameter cannot be found that matches parameter name 'EmailAddresses"?
 
+## Did you get "A parameter cannot be found that matches parameter name 'EmailAddresses"?
 
 If you get the error message " **A parameter cannot be found that matches parameter name 'EmailAddresses**" it means that it's taking a bit longer for Office 365 to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the set up process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.
   
 ## Did you get "We're sorry, the user couldn't be edited. Review the user information and try again"?
 
-
 If you get the error message " **We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name. Find the Office 365 global admin in your business and ask them to make the change.
   
 ## More information on changing or adding email addresses
-
 
 ### Tip: Keep the person's old email address
 
@@ -119,7 +111,7 @@ This is due to the Microsoft Online Email Routing Address (MOERA). The MOERA is 
   
 To fix this, log in to the [Azure Active Directory Module for PowerShell]( https://go.microsoft.com/fwlink/?LinkId=823193) with your Office 365 administrator credentials. and use the following syntax: 
   
-```
+```powershell
 Set-MsolUserPrincipalName -UserPrincipalName anne.wallace@contoso.onmicrosoft.com -NewUserPrincipalName anne.jones@contoso.com
 ```
 
@@ -130,9 +122,6 @@ To learn how to change someone's username in Active Directory, in Windows Server
   
 ## Related Topics
 
-
 [Admins: Reset a password for one or more users in Office 365](reset-passwords.md)
   
 [Add another email address to a user in Office 365](../email/add-another-email-alias-for-a-user.md)
-  
-

@@ -3,7 +3,7 @@ title: Add users to the organization directory in Kaizala
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.audience: Admin
+audience: Admin
 ms.date: 05/08/2019
 ms.topic: article
 ms.service: Kaizala
@@ -21,7 +21,7 @@ description: Learn how to create or add users to the organization directory in K
 
 # Add users to the organization directory in Kaizala
 
-Before you can send instant messages, pictures, and documents, or set up a new poll or survey, you'll have to create or add Kaizala users in your organization. You can add users individually or in bulk. For managing users in groups, see [Kaizala groups](groups.md).
+Before you can send instant messages, pictures, and documents, or set up a new poll or survey, you'll have to create or add Kaizala users in your organization. You can add users individually or in bulk. For managing users in groups, see [Kaizala groups](groups-in-kaizala.md).
 
 Organization admins can create or add new users in [organization directory networks](od-network.md). However, users when added by a group admin in any organization group also become a part of the organization directory.
 

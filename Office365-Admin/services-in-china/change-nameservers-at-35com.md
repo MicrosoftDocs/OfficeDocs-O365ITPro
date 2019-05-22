@@ -3,7 +3,7 @@ title: "Change nameservers to set up Office 365 with 35COM"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_DOM_35COM1'

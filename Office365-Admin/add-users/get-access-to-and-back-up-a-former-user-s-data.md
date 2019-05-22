@@ -3,7 +3,7 @@ title: "Get access to and back up a former user's data"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_SCBlockedUserData'

@@ -3,7 +3,7 @@ title: "Troubleshoot issues for Office 365 admins"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: troubleshooting
 ms.service: o365-administration
 localization_priority: Normal

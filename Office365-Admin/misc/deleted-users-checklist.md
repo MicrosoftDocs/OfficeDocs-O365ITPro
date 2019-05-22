@@ -3,7 +3,7 @@ title: "Quick help Deleted users checklist"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_SCDeleteUserChkList'

@@ -3,8 +3,8 @@ title: Invite users to install Kaizala through SMS
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.audience: Admin
-ms.date: 04/16/2019
+audience: Admin
+ms.date: 05/16/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -27,6 +27,9 @@ Users are invited to install and register on Kaizala by SMS when an admin has ad
 
 - India
 - Philippines
+- Kenya
+- Cambodia
+- Bangladesh
 
 This list will be updated periodically as the feature expands to more regions.
 

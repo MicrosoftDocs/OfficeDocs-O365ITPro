@@ -54,7 +54,7 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
 2. Select the circles next to the names of the users to whom you want to assign licenses.
 
-3. At the top, choose the **More** (...) button, then choose **Manage product licenses**.
+3. At the top, choose choose **Manage product licenses**.
 
 4. In the **Manage product licenses** pane, choose **Add to existing product license assignments** \> **Next**.
 
@@ -100,7 +100,7 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
 2. On the **Active Users** page, choose the name of the user to whom you want to assign a license.
 
-3. At the top, choose the **More** (...) button, then choose **Manage product licenses**.
+3. At the top, choose **Manage product licenses**.
 
 4. In the user pane on the right, choose **Licenses and Apps**.
 
@@ -142,7 +142,7 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
 2. Select the circles next to the names of the users for whom you want to replace existing licenses.
 
-3. At the top, choose the **More** (...) button, then choose **Manage product licenses**.
+3. At the top, choose **Manage product licenses**.
 
 4. In the **Manage product licenses** pane, choose **Replace existing product license assignments** \> **Next**.
 

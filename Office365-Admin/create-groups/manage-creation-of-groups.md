@@ -3,7 +3,7 @@ title: "Manage who can create Office 365 Groups"
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal

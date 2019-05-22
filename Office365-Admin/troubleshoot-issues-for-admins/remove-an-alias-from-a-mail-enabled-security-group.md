@@ -3,7 +3,7 @@ title: "Troubleshoot Remove an alias from a mail-enabled security group"
 ms.author: anfowler
 author: adefowler
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: troubleshooting
 f1_keywords:
 - 'O365P_AdminMESG_TSAlias'

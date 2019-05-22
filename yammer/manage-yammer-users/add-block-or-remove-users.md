@@ -4,7 +4,7 @@ ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
 ms.date: 1/7/2019
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.prod: office-online-server
 localization_priority: Normal

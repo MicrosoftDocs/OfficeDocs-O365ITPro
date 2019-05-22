@@ -3,7 +3,7 @@ title: "Remove a former employee from Office 365"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_SCDeleteUserTemp'
@@ -17,7 +17,7 @@ f1_keywords:
 - 'O365E_SCBlockedUsers'
 - 'O365E_AdminODSettsSignOut'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: 
 - M365-subscription-management
 - Adm_O365

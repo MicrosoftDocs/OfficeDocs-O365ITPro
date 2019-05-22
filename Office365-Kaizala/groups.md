@@ -4,10 +4,11 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.date: 2/21/2019
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
+ms.reviewer: rahul-mi
 localization_priority: Normal
 search.appverid:
 - MET150

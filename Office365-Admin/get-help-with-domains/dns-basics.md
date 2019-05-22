@@ -3,7 +3,7 @@ title: "DNS basics"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'TADNSbasics'

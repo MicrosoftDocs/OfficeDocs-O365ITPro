@@ -3,21 +3,26 @@
 
 # [Welcome to Kaizala](kaizala-overview.md)
 
-## [Get started](get-started-kaizala.md)
-### [Bring everyone together](bring-everyone-together.md)
-#### [Create the company phone directory](create-phone-directory.md)
+## Get started
+### [Overview](get-started-kaizala.md)
+### Bring everyone together
+#### [Overview](bring-everyone-together.md)
+#### [Create a company phone directory](create-phone-directory.md)
 #### [Invite people to install Kaizala](invite-people.md)
-### [Get conversations going](get-conversations-going.md)
+### Get conversations going
+#### [Overview](get-conversations-going.md)
 #### [Move existing groups](move-work-chats.md)
 #### [Create discussion groups](create-discussion-groups.md)
-### [Connect with employees](connect-with-employees.md)
+### Connect with employees
+#### [Overview](connect-with-employees.md)
 #### [Create company connect groups](create-company-connect-groups.md)
 #### [Collect feedback](collect-feedback.md)
-### [Digitize everyday tasks](digitize-tasks.md)
+### Digitize everyday tasks
+#### [Overview](digitize-tasks.md)
 #### [Use Kaizala Actions](use-kaizala-actions.md)
 #### [Create custom actions](create-custom-actions.md)
 
-## [Kaizala app](kaizala-app.md)
+## Kaizala app
 ### [Kaizala mobile app](kaizala-mobile-app.md)
 ### [Chat history](chat-history.md)
 ### [Kaizala Web](use-the-web-app.md)
@@ -26,12 +31,11 @@
 ### [Age verification](age-verification.md)
 ### [Make payments](make-payments.md)
 
-## [Kaizala management portal](kaizala-management-portal.md)
+## Kaizala management portal
+### [Kaizala management portal](kaizala-management-portal.md)
 ### [Enable or disable Kaizala Pro](enable-disable-kaizala.md)
 ### [Administrator role](admin-role.md)
 ### [Settings](settings.md)
-### [Groups](groups.md)
-### [Public groups](public-groups.md)
 ### [Reports](reports.md)
 ### [Actions](actions.md)
 ### [Interop with Microsoft Teams](teams-interop.md)
@@ -45,6 +49,12 @@
 ### [Integrate with Microsoft Intune](integrate-with-microsoft-intune.md)
 ### [Troubleshoot notifications](troubleshoot-notifications.md)
 ### [Export or delete a user's data](export-or-delete-a-user-s-data.md)
+
+## Groups
+### [Groups in Kaizala](groups-in-kaizala.md)
+### [Create a group](create-kaizala-groups.md)
+### [Manage a group](manage-kaizala-groups.md)
+### [Group policies](group-policies.md)
 
 ## Directory
 ### [Organization directory network](od-network.md)

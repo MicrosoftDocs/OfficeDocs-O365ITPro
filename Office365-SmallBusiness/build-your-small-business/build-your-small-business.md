@@ -3,7 +3,7 @@ title: "Build your small business with Microsoft"
 ms.author: kwekua
 author: supotter
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: landing-page
 layout: LandingPage
 ms.service: o365-administration
