@@ -136,6 +136,22 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/cloud.svg" alt="File storage changes" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                            <p><a href="/en-us/Yammer/get-started-with-yammer/file-storage.md" data-linktype="absolute-path">File storage changes</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>    
+<li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
                             <img src="https://docs.microsoft.com/en-us/office/media/icons/globe-internet.svg" alt="Data residency in the EU Geo" data-linktype="external">
                         </div>
                     </div>
@@ -162,22 +178,7 @@ Build communities and collaboration in your organization with Yammer.
             </div>
         </div>
     </li> 
-<li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/cloud.svg" alt="File storage changes" data-linktype="external">
-                        </div>
-                    </div>
-                    <div class="cardText">
-                            <p><a href="https://support.office.com/en-us/article/how-do-i-tell-where-my-yammer-files-are-being-stored-fadfdefa-e00d-40b6-94cb-a9ddb171a443" data-linktype="absolute-path">File storage changes</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>    
+
     <li>
         <div class="cardSize">
             <div class="cardPadding">

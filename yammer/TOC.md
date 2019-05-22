@@ -5,6 +5,7 @@
 ## Get started with Yammer
 ### [Admin key concepts](get-started-with-yammer/admin-key-concepts.md)
 ### [Admin quick start](get-started-with-yammer/admin-quick-start.md)
+### [File storage overview](get-started-with-yammer/file-storage.md)
 ### [Free trial options](get-started-with-yammer/compare-options-for-a-free-trial.md)
 ### [Adoption resources](https://resources.techcommunity.microsoft.com/yammer-adoption-resources/)
 ### [Technical community](https://techcommunity.microsoft.com/t5/Yammer/ct-p/Yammer)
