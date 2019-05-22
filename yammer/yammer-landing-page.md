@@ -145,7 +145,7 @@ Build communities and collaboration in your organization with Yammer.
                 </div>
             </div>
         </div>
-    </li>    
+</li>    
 <li>
         <div class="cardSize">
             <div class="cardPadding">
@@ -179,7 +179,7 @@ Build communities and collaboration in your organization with Yammer.
         </div>
     </li> 
 
-    <li>
+   <li>
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -393,7 +393,7 @@ Build communities and collaboration in your organization with Yammer.
         </div>
         </li>
         
-    <li>
+   <li>
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
