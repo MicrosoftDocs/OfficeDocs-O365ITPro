@@ -18,7 +18,7 @@ description: "Where files are stored in Yammer depends on whether or not the net
 
 # Yammer file storage overview
 
-As of May 2019, Yammer is rolling out changes to file storage for Yammer files in Office 365 connected groups. Formerly, all Yammer files were stored in Yammer cloud storage. Once your organization gets these changes, all new Yammer files for connected groups will be stored in SharePoint, but can still accessed from within Yammer.
+As of May 2019, Yammer is rolling out changes to file storage for Yammer files in Office 365 connected groups. Formerly, all Yammer files were stored in Yammer cloud storage. Once your organization gets these changes, all new Yammer files for connected groups will be stored in SharePoint, but can still accessed from within Yammer. 
 
 For information about using Yammer files stored in SharePoint, see the following topics: 
 
