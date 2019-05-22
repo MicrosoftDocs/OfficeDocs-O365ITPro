@@ -16,7 +16,9 @@ search.appverid:
 description: "Where files are stored in Yammer depends on whether or not the network is using Office 365 connected groups."
 ---
 
-as of May 2019, Yammer is rolling out changes to file storage for Yammer files in Office 365 connected groups. Formerly, all Yammer files were stored in Yammer cloud storage. Once your organization gets these changes, all new Yammer files for connected groups will be stored in SharePoint, but can still accessed from within Yammer.
+# Yammer file storage overview
+
+As of May 2019, Yammer is rolling out changes to file storage for Yammer files in Office 365 connected groups. Formerly, all Yammer files were stored in Yammer cloud storage. Once your organization gets these changes, all new Yammer files for connected groups will be stored in SharePoint, but can still accessed from within Yammer. 
 
 For information about using Yammer files stored in SharePoint, see the following topics: 
 
@@ -28,7 +30,7 @@ For information about using Yammer files stored in SharePoint, see the following
 
 - [Edit a previously uploaded file when your Yammer connected group now stores files in SharePoint](https://support.office.com/article/edit-a-previously-uploaded-file-when-your-yammer-connected-group-now-stores-files-in-sharepoint-4b2cfde2-871e-4f0d-9936-db5a57ef5f87)
 
-# Benefits
+## Benefits
 
 For network and tenant administrators:
 
@@ -48,7 +50,7 @@ For end users:
      
 - More powerful collaboration and versioning capabilities using SharePoint versioning.  
 
-# What determines where a file is stored    
+## What determines where a file is stored    
  
 Files are stored in SharePoint when they are uploaded to a Yammer Office 365 connected group:  
   
@@ -78,17 +80,17 @@ Files are stored in Yammer cloud storage in the following instances:   
   
    - Files that were uploaded to an Office 365 connected Yammer group before this feature was enabled. Files that are currently stored in Yammer legacy storage will not be moved to SharePoint.   
   
- # Where files are stored in SharePoint
+## Where files are stored in SharePoint
  
 Files that users upload in Office 365 connected groups are saved in the **Apps/Yammer** subfolder of the SharePoint document library for the Office 365 connected group. The SharePoint document library can be accessed under **Office 365 Resources** on the right side of an Office 365 connected group, as well as through SharePoint itself.   
   
-# Renaming and moving files stored in SharePoint  
+## Renaming and moving files stored in SharePoint  
   
 Yammer uses SharePoint Document IDs and the 'AppRoot' special folder for the storage of files. This means that users can move and rename files and folders without breaking links to previously uploaded files or blocking upload of new files.
 
 While you can't choose the destination folder at upload time, you can move it afterwards. For example, move the **Yammer** subfolder out of the **Apps folder** (and even rename it, if you want to), and all future uploads to the group will be saved in the new location. Similarly, links to files previously uploaded to SharePoint will continue to work even if the file is renamed or moved to a different location within the document library for the Office 365 connected group.  
   
-# Guests and external users
+## Guests and external users
   
 In order to upload files to SharePoint, a person needs to be a user in your Office 365 tenant. This means that guest users can't upload files in the connected group unless they have also been added to your tenant as an Azure B2B guest from the AAD admin center for the connected group. Guests can continue to be able to attach links to other cloud files if they are not an Azure B2b guest.  
 
@@ -108,7 +110,7 @@ External users in External Groups are not impacted by this feature because exter
 
 External participants added to threads from connected groups can be added as an Azure B2B guest on the tenant level so that the participant will be able to request access to the files shared in those threads.  
 
-# FAQ
+## FAQ
 
 **Q: Are there features which are supported for files in legacy Yammer storage that aren't supported for files stored in SharePoint?**  
 
