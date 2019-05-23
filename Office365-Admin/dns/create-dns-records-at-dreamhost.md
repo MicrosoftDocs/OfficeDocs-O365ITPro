@@ -3,7 +3,7 @@ title: "Create DNS records at Dreamhost for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal
@@ -210,7 +210,7 @@ Follow the steps below.
     
     |**Name**|**Type**|**Value**|**Comment**|
     |:-----|:-----|:-----|:-----|
-    |(Leave this field empty.)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com-all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |(This field is optional.)  <br/> |
+    |(Leave this field empty.)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |(This field is optional.)  <br/> |
    
    ![Dreamhost-BP-Configure-4-1](../media/cbc4bbca-bdbc-4dc9-b1b7-b55491eb1e53.png)
   

@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.date: 8/21/2018
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -29,7 +29,7 @@ Using the Kaizala mobile app, you can now quickly send or receive money. With th
 
 Before you can set up payments on Kaizala, make sure you've downloaded and installed the Kaizala mobile app on your mobile device.
   
-1. Go to the **Me** tab. Select the **Payment** tab to start the payments setup. 
+1. Go to the **Profile** tab. Select the **Payment** tab to start the payments setup. 
     
 2. Select **Continue** in the app permissions dialog box and then tap ﻿ **Allow**. 
     
@@ -67,7 +67,7 @@ Follow these steps to make a payment within a Kaizala chat.
     
 You can also make a payment to someone using their BHIM UPI ID, bank account number, or IFS code or by simply scanning their payment Quick Response (QR) code.
   
-- Go to **Me** and then go to **Payment**. Finally select **Make Payment**.
+- Go to **Profile** and then go to **Payment**. Finally select **Make Payment**.
     
 - Select the Kaizala contact you want to pay to or tap **Other Payment ﻿Methods**. Select the option to pay to a BHIM UPI ID, a bank account number or a QR code. 
     
@@ -97,7 +97,7 @@ Follow these steps to request payment within a Kaizala chat:
     
 You can also request a payment from someone using their BHIM UPI ID.
   
-- Go to **Me** and then go to **Payment**. Then select **Request Payment**.
+- Go to **Profile** and then go to **Payment**. Then select **Request Payment**.
     
 - Select the option to send a request to a BHIM UPI ID or to a Kaizala contact.
     
@@ -111,7 +111,7 @@ You can also request a payment from someone using their BHIM UPI ID.
 
 You can add multiple bank accounts to your BHIM UPI account on Kaizala.
   
-- From the Kaizala app, go to the **Me** tab. Then select the **Payment** tab. 
+- From the Kaizala app, go to the **Profile** tab. Then select the **Payment** tab. 
     
 - Select your BHIM UPI ID to access the **Manage Accounts** page. 
     
@@ -139,7 +139,7 @@ Follow these steps to remove a bank account from your UPI account on Kaizala.
   
 ## Reset your BHIM UPI PIN
 
-- From the Kaizala app, go to the **Me** tab. Then select the **Payment** tab. Select your BHIM UPI ID to access the **Manage Accounts** page. 
+- From the Kaizala app, go to the **Profile** tab. Then select the **Payment** tab. Select your BHIM UPI ID to access the **Manage Accounts** page. 
     
 - You'll see a list of bank accounts that you've configured.
     
@@ -147,7 +147,7 @@ Follow these steps to remove a bank account from your UPI account on Kaizala.
     
 ## Change your BHIM UPI PIN
 
-- From the Kaizala app, go to the **Me** tab, and then the **Payment** tab. Finally, select your BHIM UPI ID to access the **Manage Accounts** page. 
+- From the Kaizala app, go to the **Profile** tab, and then the **Payment** tab. Finally, select your BHIM UPI ID to access the **Manage Accounts** page. 
     
 - You'll see a list of bank accounts that you've configured.
     
@@ -159,7 +159,7 @@ You can access the payment request from the notification you receive or from the
   
 ## View your balance
 
-- From the Kaizala app, go to the **Me** tab, and then the **Payment** tab. 
+- From the Kaizala app, go to the **Profile** tab, and then the **Payment** tab. 
     
 - Click or tap your BHIM UPI ID to access the **Manage Accounts** page. 
     
@@ -167,13 +167,13 @@ You can access the payment request from the notification you receive or from the
     
 ## View transaction history
 
-- From the Kaizala app, go to the **Me** tab, and then the **Payment** tab. 
+- From the Kaizala app, go to the **Profile** tab, and then the **Payment** tab. 
     
 - You'll see a list of all your transactions on this page. Select a transaction to view more details about it.
     
 ### Report an issue with a transaction
 
-You can report an issue with a transaction, e.g. if you think money has left your account, but hasn't reached the recipient. Go to the problematic transaction, tap **Issue with this transaction?** and then select **OK** to report the issue. 
+You can report an issue with a transaction, for example, if you think money has left your account, but hasn't reached the recipient. Go to the problematic transaction, tap **Issue with this transaction?** and then select **OK** to report the issue. 
   
 ## Troubleshooting payment issues
 
@@ -201,7 +201,7 @@ If you're having trouble completing the SMS text verification for your account, 
     
 - Make sure you have internet access on your phone.
     
-If these steps don't work, contact us at kaizala﻿payments@microsoft.com with your issue.
+If these steps don't work, contact kaizala﻿payments@microsoft.com with your issue.
   
 ### Unable to send or receive money
 

@@ -3,7 +3,7 @@ title: "Migrate email and contacts to Office 365"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_MoveEmail'
@@ -20,6 +20,7 @@ ms.collection:
 ms.custom:
 - Adm_O365_Setup
 - Adm_O365_Top
+- TopSMBIssues
 search.appverid:
 - MET150
 - MOE150

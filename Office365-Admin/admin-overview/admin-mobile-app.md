@@ -1,9 +1,9 @@
 ---
-title: "Office 365 Admin Mobile App"
-ms.author: anfowler
-author: adefowler
+title: "About the Microsoft 365 Admin mobile app"
+ms.author: adefowler
+author: anfowler
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: overview
 ms.service: o365-administration
 localization_priority: Normal
@@ -20,76 +20,73 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: e16f6421-2a1a-4142-bf9d-9846600a060a
-description: "Get the Office 365 Admin app and learn to manage Office 365 from your phone or tablet."
+description: "Get the Microsoft 365 Admin app and learn to manage your online organization from your phone or tablet."
 ---
 
-# Office 365 Admin Mobile App
+# About the Microsoft 365 admin mobile app
 
-Are you an admin who's usually on the go? Then check out the [Office 365 Admin app](https://go.microsoft.com/fwlink/?LinkID=627216). You can use the app to manage Office 365 from your phone or tablet. You can get the app from the Apple Store, Google Play, and from the Microsoft Store.
+Are you an admin who's usually on the go? Then check out the [Microsoft 365 Admin app](https://go.microsoft.com/fwlink/?LinkID=627216). You can use the app to manage your online organization from your phone or tablet. You can get the app from the Apple Store, and from Google Play. <br> 
+
+![Screen capture of the admin mobile app's home page, displaying search, messages, health, and quick links.](../media/admin-mobile-app-darkbg.png)
+
+The admin app is a feature-rich app that has over 80 features to help you manage your org when you can't get to a computer. Here's a list of just a few of the tasks you can do from the app:
+- Get service health and change notifications
+- Create a service request
+- Reset a user's password
+- Assign licenses
+- Add or remove group memberships
+- Add users 
+
+And if you're someone who is responsible for more than one online organization, you sign in to multiple orgs and quickly switch between them. 
   
 > [!IMPORTANT]
-> If you're having trouble using the Admin mobile app on iOS, Android, or Windows Phone, email feedback365@microsoft.com for help. 
+> If you're having trouble using the Admin mobile app on iOS or Android, email us at [feedback365@microsoft.com](mailto:feedback365@microsoft.com) to let us know. 
   
 ## Download the admin mobile app
 
-[Office 365 Admin mobile app](https://go.microsoft.com/fwlink/?LinkID=627216).
+[Microsoft 365 Admin mobile app](https://go.microsoft.com/fwlink/?LinkID=627216).
   
-## Mobile Admin app video
-
-Check out this video on how to use and navigate the app.
-<br/><br/> 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/05c1d439-9ec2-415f-9178-250f64dec64c?autoplay=false]
-  
+ 
 ## Frequently asked questions
 
 Below are answers to some frequently asked questions people ask about the app.
   
-## What do I need to do to be able to use the app?
+### What do I need to do to be able to use the app?
 
-You must have a valid Office 365 Business subscription with admin privileges to sign in and use the app. The Admin mobile app isn't an email client.
+You need to have a valid Office 365 for business or Microsoft 365 Business subscription with admin privileges to sign in and use the app. The Admin mobile app isn't an email client. It's a rich administrative app with over 80 features to help you support your org while your on the go.
   
-## Can I use the app with my Office 365 for home subscription?
+### Can I use the app with my Office 365 for home subscription?
 
-No, the app only works with Office 365 for business plans. 
+No, the app only works with Office 365 for business and Microsoft 365 Business subscriptions. 
   
-> [!TIP]
-> If you're not sure which plan you have, see [Office for home and Office for business plans](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e.aspx). 
-  
-## Will the app work if my organization has directory synchronization enabled?
+### Will the app work if my organization has directory synchronization enabled?
 
-The app will work with reduced functionality. You'll be able to sign in and view service information, but most of the user management functions will be read-only. You won't be able to add, edit, or delete users. However, you'll be able to assign licenses to users in your organization.
+Yes, but with reduced functionality. You'll be able to sign in and view service information, but most of the user management functions will be read-only. You won't be able to add, edit, or delete users. However, you'll be able to assign licenses to users in your organization, and get notifications.
   
-## What languages are supported by the app?
+### What languages are supported by the app?
 
-The app is available in English, Brazilian Portuguese, French, German, Japanese, Spanish, and Traditional Chinese.
+The app supports all 39 languages that the web-based Microsoft 365 admin center supports. 
   
-## Why does the Messages tile on the Home screen show numbers even after I've read the new messages?
+### Why does the Messages tile on the Home screen show numbers even after I've read the new messages?
 
 The numbers are the total messages from the last week, not unread messages.
   
-## How can I share the Service Incidents and Messages with the rest of my organization?
+### How can I share the Service Incidents and Messages with the rest of my organization?
 
 If you click a specific service incident or a message, the share option will be in the top right corner. We currently support email sharing.
   
-## My app is acting funny. What can I do to troubleshoot weird app behavior?
+### My app is acting funny. What can I do to troubleshoot weird app behavior?
 
 You can try some common mobile app troubleshooting steps:
   
 1. Close and reopen the app.
     
 2. Uninstall and reinstall the app.
-    
-## How do I access beta features in the mobile app?
 
-We release beta features to the app for feedback to gauge how we can improve them before releasing worldwide. You can check out beta features by doing the following:
-  
-1. Go to Settings.
-2. Tap the app version number 5 times to unlock **More settings**.
-3. Turn on beta features to test out the latest stuff we've been working on. You'll need to restart the app for some beta features to show up.
-4. Leave feedback via the feedback tool in the app.
+3. If that doesn't work, you can email us at [feedback365@microsoft.com](mailto:feedback365@microsoft.com) to let us know.
     
-## What do I do if my question isn't answered?
+### What do I do if my question isn't answered?
 
-Email feedback365@microsoft.com to report an issue with the app.
+Email [feedback365@microsoft.com](mailto:feedback365@microsoft.com) to report an issue with the app. Or you can give feedback at the bottom of this article. 
   
 

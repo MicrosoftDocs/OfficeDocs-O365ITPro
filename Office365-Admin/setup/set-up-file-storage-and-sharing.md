@@ -3,7 +3,7 @@ title: "Set up Office 365 file storage and sharing"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal
@@ -225,7 +225,7 @@ You can enable third-party storage for your users in Office 365 so they can stor
 
 - [Customize your team site for file storage and sharing](customize-team-site.md) . This step-by-step tutorial shows you how to you can take advantage of more storage and collaboration features. 
     
-- **Set up Office apps on your tablets and phones.**You need to do this so you can **edit** files that are stored in OneDrive and on team sites from your tablet or phone. If you don't install the Office apps for your tablet or phone, you'll be able to view the files but not edit them. 
+- **Set up Office apps on your tablets and phones.** You need to do this so you can **edit** files that are stored in OneDrive and on team sites from your tablet or phone. If you don't install the Office apps for your tablet or phone, you'll be able to view the files but not edit them. 
     
   - [Install and set up Office on an Android with Office 365](https://support.office.com/article/cafe9d6f-8b0c-4b03-b20a-12438a82a22d.aspx)
     

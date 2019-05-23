@@ -1,9 +1,9 @@
 ---
 title: "Configure Focused Inbox for everyone in your organization"
-ms.author: dianef
-author: dianef77
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
@@ -43,9 +43,9 @@ The following PowerShell example turns Focused Inbox **Off** in your organizatio
     
 3. Run the **Get-OrganizationConfig** cmdlet. 
     
-  ```
-     Get-OrganizationConfig
-  ```
+ ``` PowerShell
+Get-OrganizationConfig
+ ```
 
 4. Look for **FocusedInboxOn** to view its current setting: 
     
@@ -53,9 +53,9 @@ The following PowerShell example turns Focused Inbox **Off** in your organizatio
   
 5. Run the following cmdlet to turn Focused Inbox off.
     
-  ```
-     Set-OrganizationConfig -FocusedInboxOn $false
-  ```
+ ``` PowerShell
+ Set-OrganizationConfig -FocusedInboxOn $false
+ ```
 
 6. Run the **Get-OrganizationConfig** cmdlet again and you'll see that FocusedInboxOn is set to $false, which means it's been turned off. 
     
@@ -63,9 +63,9 @@ The following PowerShell example turns Focused Inbox **Off** in your organizatio
   
 - In Step 5 above, run the following cmdlet to turn Focused Inbox on.
     
-  ```
-    Set-OrganizationConfig -FocusedInboxOn $true
-  ```
+ ``` PowerShell
+ Set-OrganizationConfig -FocusedInboxOn $true
+ ```
 
 ## What do users see after I turn on Focused Inbox?
 
@@ -89,9 +89,9 @@ This example turns Focused Inbox **Off** for Tim Matthews in the Contoso organiz
     
 3. Run the **Get-FocusedInbox** cmdlet, for example: 
     
-  ```
-     Get-FocusedInbox -Identity <tim@contoso.com>
-  ```
+ ``` PowerShell
+ Get-FocusedInbox -Identity <tim@contoso.com>
+ ```
 
 4. Look for FocusedInboxOn to view its current setting:
     
@@ -99,15 +99,15 @@ This example turns Focused Inbox **Off** for Tim Matthews in the Contoso organiz
   
 5. Run the following cmdlet to turn Focused Inbox off:
     
-  ```
-     Set-FocusedInbox -Identity <tim@contoso.com> -FocusedInboxOn $false
-  ```
+ ``` PowerShell
+ Set-FocusedInbox -Identity <tim@contoso.com> -FocusedInboxOn $false
+ ```
 
 6. OR, run the following cmdlet to turn it on:
     
-  ```
-     Set-FocusedInbox -Identity <tim@contoso.com> -FocusedInboxOn $true
-  ```
+ ``` PowerShell
+ Set-FocusedInbox -Identity <tim@contoso.com> -FocusedInboxOn $true
+ ```
 
 ## Use the UI to create a transport rule to direct email messages to the Focused view for all your users
 
@@ -129,12 +129,9 @@ This example turns Focused Inbox **Off** for Tim Matthews in the Contoso organiz
 
 3. Run the following command to allow all messages from "Payroll Department," for example, to be delivered to the Focused Inbox.
     
-  ```
-     New-TransportRule -Name <name_of_the_rule> -From "Payroll Department" -SetHeaderName "X-MS-Exchange-Organization-BypassFocusedInbox" -SetHeaderValue "true"
-  ```
-
-    
-    
+ ``` PowerShell
+ New-TransportRule -Name <name_of_the_rule> -From "Payroll Department" -SetHeaderName "X-MS-Exchange-Organization-BypassFocusedInbox" -SetHeaderValue "true"
+ ```
 
 > [!IMPORTANT]
 > In this example, both "X-MS-Exchange-Organization-BypassFocusedInbox" and "true" are case sensitive.
@@ -144,16 +141,15 @@ This example turns Focused Inbox **Off** for Tim Matthews in the Contoso organiz
 ### How do you know this worked?
 
 You can check email message headers to see if the email messages are landing in the Inbox due to the Focused Inbox transport rule bypass. Pick an email message from a mailbox in your organization that has the Focused Inbox transport rule applied. Look at the headers stamped on the message, and you should see the **X-MS-Exchange-Organization-BypassFocusedInbox: true** header. This means the bypass is working. Check out the [View the Internet header information for an email message](https://go.microsoft.com/fwlink/p/?LinkId=822530) article for info on how to find the header information. 
-  
+ 
 ## Turn on/off Clutter
-
+ 
 We've received reports that Clutter suddenly stopped working for some users. If this happens, you can enable it again for specific users. See [Configure Clutter for your organization](../email/configure-clutter.md).
-  
+ 
 ## FAQ for Focused Inbox
 
 Here are answers to Frequently Asked Questions about Focused Inbox. 
-  
-  
+
 ### Can I control how I roll out Focused Inbox in my organization?
 
 Yes. You can turn Focused Inbox on or off for your entire organization, or you can turn it on or off for specified users. See above.
@@ -199,5 +195,3 @@ There are two cmdlets for controlling Focused Inbox. When you run Get-FocusedInb
 ### Can I run a script to see who has turned on Focused Inbox?
 
 No, and this is by design. Focused Inbox enablement is a client side setting, so all the cmdlet can do is tell you if the user's mailbox is eligible for the client experience. It is possible for it to be simultaneously enabled in some clients and disabled in others, for example, enabled in Outlook app and Outlook Mobile but disabled in Outlook on the web.
-  
-

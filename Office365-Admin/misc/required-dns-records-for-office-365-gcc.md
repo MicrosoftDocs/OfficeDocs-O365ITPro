@@ -3,7 +3,7 @@ title: "Required DNS Records for Office 365 GCC High"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal

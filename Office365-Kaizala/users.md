@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.date: 10/21/2018
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -20,13 +20,13 @@ description: Learn how to create Kaizala users such that they can send instant m
 
 # Create Kaizala users
 
-Before you can send instant messages, pictures, and documents, or set up a new poll or survey, you'll have to create Kaizala users. You can add users individually or in bulk. For managing users in groups, see [Kaizala groups](groups.md).
+Before you can send instant messages, pictures, and documents, or set up a new poll or survey, you'll have to create Kaizala users. You can add users individually or in bulk. For managing users in groups, see [Kaizala groups](groups-in-kaizala.md).
   
 ## View all users in an organization
 
 On the Kaizala management portal, from the left navigation pane, choose **Directory**. You'll see a list of all users who have access to your organization. This includes users who were uploaded directly through the **Import Multiple Users** process, along with the members of organization groups mapped to your organization. 
     
-You can also show up to four columns of information about users by choosing **More** \> **Select Columns**. 
+You can also show up to four columns of information about users by choosing **More** ![Screenshot of More icon](media/more-icon.png) \> **Select Columns**. 
   
 ![Add a Kaizala user's phone number](media/a2709c0c-0672-44a6-8918-388dab316b2a.png)
   
@@ -34,7 +34,7 @@ Kaizala organization admins can define and manage user attributes for an organiz
   
 ### Set up attributes for all users in the organization
 
-- Select **Directory** \> **More**, and then select **Change Attributes** from the drop-down menu. 
+- Select **Directory** \> **More** ![Screenshot of More icon](media/more-icon.png), and then select **Change Attributes** from the drop-down menu. 
     
 - To add a new attribute, select **Add New**, and then choose from a range of pre-defined suggested attributes or add a new one. 
     
@@ -148,7 +148,7 @@ There are three different user roles in Kaizala. Here are the available roles an
 |||
 |:-----|:-----|
 |**Role** <br/> |**What they do in Office 365** <br/> |
-|**Kaizala organization administrator** <br/> |Kaizala organization admin is a user who can manage Kaizala for your organization. The built-in Office 365 role,  * global admin * is an equivalent of the Kaizala organization admin. Office 365 global admins will have access and ability to manage all organization groups, even those they aren't direct members or admins of.  <br/> |
+|**Kaizala organization administrator** <br/> |Kaizala organization admin is a user who can manage Kaizala for your organization. The built-in Office 365 role,  *global admin* is an equivalent of the Kaizala organization admin. Office 365 global admins will have access and ability to manage all organization groups, even those they aren't direct members or admins of.  <br/> |
 |**Kaizala group administrator** <br/> |Kaizala Group administrator is a Kaizala Group member with special privileges. Unlike an organization admin, they have to be an admin of the group they are handling to have said privileges. Group admins can perform all the actions a organization admin can, but only on the groups they are explicitly made an admin of.  <br/> |
 |**Member** <br/> |A Kaizala user with no special privileges. They can only take part in 1:1 and group communication and view attributes of their own groups and conversations. They can't add or remove other members from the group.  <br/> |
    

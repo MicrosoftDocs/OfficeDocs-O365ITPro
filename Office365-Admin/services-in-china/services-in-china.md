@@ -3,7 +3,7 @@ title: "Office 365 operated by 21Vianet"
 ms.author: LOREENL
 author: LoreenLa
 manager: pamgreen
-ms.audience: Admin
+audience: Admin
 ms.topic: overview
 f1_keywords:
 - 'O365P_LearnFeatures'

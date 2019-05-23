@@ -3,8 +3,8 @@ title: "Track Yammer events in the Office 365 audit log and with the Management 
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 3/23/2018
-ms.audience: Admin
+ms.date: 3/28/2019
+audience: Admin
 ms.topic: overview
 ms.service: yammer
 localization_priority: Normal
@@ -24,15 +24,15 @@ To monitor security and compliance related Yammer events for your organization, 
   
 You must have the Office 365 global admin role or the Audit Logs role in Exchange online to audit events. You can view Yammer events from your home network, but not from external networks. The events you can search include the following categories:
   
-- **Users** —including activating, suspending, and deleting a user. 
+- **Users** — including activating, suspending, and deleting a user. 
     
-- **Groups** —including creating, adding a member and deleting a group. 
+- **Groups** — including creating and deleting of Office 365 connected Yammer groups. This API does not provide data for legacy Yammer groups.
     
-- **Files** —including creating, viewing, and deleting a file. 
+- **Files** — including creating, viewing, and deleting a file. 
     
-- **Admins** —including exporting data, triggering private content mode and forcing all users to log out. 
+- **Admins** — including exporting data, triggering private content mode and forcing all users to log out. 
     
-- **Network settings** —including changing network usage policy and changing data retention policy. 
+- **Network settings** — including changing network usage policy and changing data retention policy. 
     
 ## View the audit log in the Office 365 Security &amp; Compliance center
 

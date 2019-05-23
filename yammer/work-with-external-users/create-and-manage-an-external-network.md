@@ -4,7 +4,7 @@ ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
 ms.date: 3/15/2019
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: yammer
 localization_priority: Normal
@@ -23,7 +23,7 @@ If you have permission, you can create an external Yammer network to collaborate
 External networks are essentially their own networks: each has its own admin center and has its own admins. 
 
 >[!NOTE] 
->This feature is not available for Yammer Enterprise networks in the [EU Geo](../manage-security-and-compliance/data-residency-eu-geo.md).
+>This feature is not available for Yammer Enterprise networks in the [EU Geo](../manage-security-and-compliance/data-residency.md).
   
 ## Create an external network
 <a name="ExternalNetworks"> </a>

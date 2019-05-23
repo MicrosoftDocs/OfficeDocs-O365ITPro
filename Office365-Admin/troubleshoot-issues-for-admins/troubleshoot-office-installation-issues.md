@@ -4,7 +4,7 @@ ms.author: janellem
 author: janellem
 manager: rayring
 ms.date: 9/19/2018
-ms.audience: Admin
+audience: Admin
 ms.topic: troubleshooting
 f1_keywords:
 - 'O365P_TSVisio'

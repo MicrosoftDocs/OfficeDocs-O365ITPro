@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.date: 8/21/2018
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -48,7 +48,7 @@ To turn on Intune for Kaizala, you'll have to perform steps in the Azure active 
     
 Now go to the Kaizala app.
   
-1. Go to **Me** \> **Linked accounts** \> **Work Account**, and sign in with your Azure Active Directory account(Azure AD).
+1. Go to **Profile** \> **Linked accounts** \> **Work Account**, and sign in with your Azure Active Directory account(Azure AD).
     
 2. Once you're logged in the app with your Azure AD, you should see the policies getting applied on Kaizala.
     

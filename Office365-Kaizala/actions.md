@@ -3,8 +3,8 @@ title: Kaizala Actions
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 8/21/2018
-ms.audience: Admin
+ms.date: 1/21/2019
+audience: Admin
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -20,89 +20,91 @@ description: Learn how to use Kaizala Actions to get work done within a conversa
 
 # Kaizala Actions
 
-Kaizala Action is a 'unit of work' that helps users get work done within a conversation context, inside Kaizala. Some of these Actions like Jobs, Surveys, and Polls are shipped out-of-the-box, and provide scoped functionality. Once you publish an Action, users can find it in the Kaizala app, and then they can be used in a conversation context from the Action Palette.
-  
-You can design a custom Kaizala Action through the Action Designer interface within the Kaizala management portal. This can be done by building on the out-of-the-box Survey Action.
+Actions help people get work done through a conversation in Kaizala. Some actions, like Jobs, Surveys and Polls, are ready out-of-the-box with pre-defined settings. Once you publish an action, people can find it in the Kaizala app and use it in a conversation from the Action Palette.
+
+You can design a custom Kaizala Action through the Action Designer, found in the Kaizala management portal.
+
   
 ## Create Kaizala Action
 
 1. To create a new Kaizala Action, navigate to **Actions** from the left navigation bar. Select **New Action** from the top right of the page. 
     
-2. Click on one of the available templates:
+2. Select a template:
     
-    a.  **New Form** - Use this template to collect data in a form, from your group members. The form can be filled at any time.
+    a.  **New Form** - Use this template to collect feedback from group members. It sends out a form for people to answer a question.
     
-    b.  **New Survey** - Use this template to request data from group members. This is done by creating a Survey Action with pre-filled questions. You can send this Action via the app at regular intervals.
+    b.  **New Survey** - Use this template to request specific answers from group members. Create a Survey Action with pre-filled questions. You can send this action via the app at regular intervals.
     
     c.  **Feedback** - Use this template to collect any type of feedback from a group.
     
-    d.  **Announcement** - Use this template to make key announcements and share updates to a group.
+    d.  **Announcement** - Use this template to collect any type of feedback from a group.
     
 3. Fill out the information on the page and click or tap **Next**.
 
-|||
-|:-----|:-----|    
-|**Menu** </br> |**What it's for** </br> |
-|Action Name  <br/> |This will be the name of the survey or poll that users see in their Kaizala mobile app.  <br/> |
-|Brief description  <br/> |This will be shown to a user in the dscover tab of the Kaizala app. <br/> |
-|Customize icon  <br/> |Choose the icon for your Kaizala Action.  <br/> |
+|Menu  |What it's for  |
+|---------|---------|
+| Action name     | Pick a name of the survey or poll that people see in Kaizala.         |
+| Brief description     | Show a description in the **Discover** tab of the Kaizala app.         |
+| Customize icon     | Choose the icon for your Kaizala Action.         |
    
-4. For a selected template, enter the relevant details described in the next section.
+4. After you select a template, enter the relevant details described in the next section.
     
 ### Survey &amp; Form Actions
-1. Enter a card title. This title will be shown on the card-view of the Action, after the action has been posted.
 
-2. Enter the question details and choose your answer types. You can add more questions by selecting 'Add More Question'. You can even choose to add questions on a new page.
+1. Enter a card title. People will see this on the card-view of the action after its been posted.
 
-3. After you have entered the question details, click or tap **Next**.
+2. Enter the question details and choose your answer types. You can add questions on a new page.
 
-4. On the next page, tap check boxes to select, if you would want the users to find:
+3. After you have entered the question, click or tap **Next**.
+
+4. On the next page, tap the boxes to select if you would want the users to find:
     
-    a.  Action introduction page (where users would find details about the Action).
+    a.  Action introduction page (where people can find details about the Action).
 
-    b.  Summary page (where users can review their submissions before submitting their responses).
+    b.  Summary page (where people can review their submissions before submitting their responses).
 
     c.  Request for user's location as part of the response.
     
 ### Feedback &amp; Announcement Actions
+
 Do relevant customizations on Response View, Immersive View and Chat view.
     
-1. After you are done, click **Submit**. Users will now be able to see the detail page of the new Action. At this moment, the action is in draft state.
+1. After you are done, click **Submit**. People can now see the detail page of the new action, however, it’s still a draft.
     
-2. You need to publish the Action. Read more [here ﻿](https://docs.microsoft.com/en-us/kaizala/actions/publish#steps-to-publish-an-action)for details on the publishing process.
+2. To make the action live, you need to publish it. Read more [here](https://docs.microsoft.com/en-us/kaizala/actions/publish#steps-to-publish-an-action) for more about publishing.
     
 ## Add Kaizala Action to a group
 
-You can publish a Kaizala Action to one or more groups. When you do so, all the group members will start seeing the action in the Discover tab of the Kaizala phone app. The action only appears to users who are members of the group you selected.
+You can publish a Kaizala Action to one or more groups. When you do so, all the group members will see it in the Discover tab of the phone app. The action only appears to members of the group you selected.
   
-In case of a group having a managed Action palette, added Actions will be visible directly in the group's Action palette.
+Actions will be visible directly in the Action Palette, if the group has one.
   
 To add a Kaizala Action to a group:
   
-1. Select the selected group from the **Groups** page. 
+1. Select a group from the **Groups** page. 
     
-2. Navigate to the **Action** tab. Click or tap **Add Action.**
+2. Go to the **Action** tab. Click or tap **Add Action.**
     
-3. Select the Action that you want to publish. Choose the user roles for which you would like the Action to be published.
+3. Select the action that you want to publish. Choose the user roles for which you would like the action to be published.
     
 4. Click or tap **Publish**.
     
 To remove a Kaizala Action from a group:
   
-1. Select the group for which you want the action to be removed, from the Groups page.
+1. Go to the **Groups** page and select the relevant group.
     
-2. Navigate to the Action Tab. Find the Action that you want to remove.
+2. Go to the **Action** tab. Find the Action that you want to remove.
     
-3. Click or tap ( **...** ). Finally, click **Remove**. 
+3. Click or tap **More** ![Screenshot of More icon](media/more-icon.png), and then click or tap **Remove**. 
     
 ## Activate or deactivate a Kaizala Action
 
-Once you deactivate a Kaizala Action, it won't be available for publishing to any new groups. The action will however continue to work for existing groups. An action can be removed from a group without being re-activated. However, once it has been removed, it can't be re-published to the same group, unless it is re-activated.
+If you deactivate a Kaizala Action, you can’t publish it to any new groups. The action will continue to work for existing groups. An action can be removed from a group without being reactivated. However, once you remove it, you can't re-publish it to the same group unless you reactivate it first.
   
 ## Remove Kaizala Action
 
-You can remove a Kaizala Action from the Actions list by selecting **Remove**. Removing an Action will unpublish it from all the groups, to which it was published.
+To remove a Kaizala Action, go to the action list and select **Remove**. This will unpublish it from every group that originally received it.
   
-Need more information? Such as how to customize or create a new Action in accordance with your organization's specific needs? If so, please contact **kaizalafeedback@microsoft.com**.
+Want to learn more? For more information on how to customize actions for your organization's specific needs, contact [kaizalafeedback@microsoft.com](mailto:kaizalafeedback@microsoft.com).
   
 
