@@ -3,7 +3,7 @@ title: "Data residency"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 5/22/2019
+ms.date: 5/24/2019
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
