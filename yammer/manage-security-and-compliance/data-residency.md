@@ -37,7 +37,7 @@ The following Yammer features are not available for Yammer networks in the EU Ge
 
     - Your users can’t participate in other Yammer networks, including external networks. 
 
-    - Your users can't be participants in [external messaging threads, or add external participants to threads](../work-with-external-users/external-messaging-foq.md) in your Yammer Enterprise network.
+    - Your users can't be participants in [external messaging threads, or add external participants to threads](../work-with-external-users/external-messaging-faq.md) in your Yammer Enterprise network.
 
     - External groups can't be created in your Yammer Enterprise network, and your users can't participate in external groups belonging to other networks.
 
