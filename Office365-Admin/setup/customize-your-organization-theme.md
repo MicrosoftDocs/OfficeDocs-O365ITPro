@@ -76,7 +76,7 @@ When choosing custom colors, pick an **Accent color** that shows up well on a wh
   
 The recommended contrast ratio between text, icon, or button color and background color is 4.5:1.
 
-Here is a simple flow chart to help you quickly get set up with a visually appealing theme for your custom Office 365 theme for your organization:
+Here is a simple flow chart to help you quickly get set up with a visually appealing custom Office 365 theme for your organization:
   - I would like to use a colorful version of our logo.
     - We recommend the following settings:
       - **Logo image**: Your organization's colorful logo.
