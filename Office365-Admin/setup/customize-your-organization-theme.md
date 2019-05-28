@@ -41,7 +41,7 @@ Learn how to customize your theme in the Microsoft 365 admin center. As the admi
     
     ![Tap or click Edit to change your theme](../media/f777ecde-b165-408b-b9de-d8bc8fb82c89.png)
   
-5. Change the theme elements you want for your organization, your changes will be previewed on this page:
+5. Change the theme elements you want for your organization. Your changes will be previewed on this page:
     
   - **Logo image**: Choose whether to use an image from a URL or to upload an image. If using a URL, please ensure that the URL uses HTTPS and is 200 x 30 pixels of any format of any size. You may upload a logo that is 200 x 30 pixels in JPG, PNG, GIF, or SVG format under 10kb.
     
