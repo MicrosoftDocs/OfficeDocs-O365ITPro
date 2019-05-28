@@ -68,7 +68,7 @@ You'll see your new theme on the Microsoft 365 admin center right away and after
   
 ## Best Practices
 
-When choosing a **Logo image**. We recommend using the SVG file type, if you can, so that your logo will look high resolution on all screens and all zoom levels.
+When choosing a **Logo image**, we recommend using an SVG file type, wherever possible, so that your logo will have a high resolution appearance on all screens and at all zoom levels.
 
 When choosing custom colors, pick a **Nav bar background color** that is a high contrast ratio with the **Logo image** that you picked. Also, pick a **Text and icons** color with a high contrast ratio to the **Nav bar background color** to ensure that all text and icons are easily visible.
 
