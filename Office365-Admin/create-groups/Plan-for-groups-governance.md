@@ -180,7 +180,8 @@ A naming policy can help you and your users identify the function of the group, 
 #### *Resources*
 - [Office 365 Groups naming policy](https://docs.microsoft.com/office365/admin/create-groups/groups-naming-policy)  
 - [Enforce a naming policy for Office 365 groups in Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=868340)  
-- [Azure Active Directory cmdlets for configuring group settings](https://go.microsoft.com/fwlink/?linkid=868341)  
+- [Azure Active Directory cmdlets for configuring group settings](https://go.microsoft.com/fwlink/?linkid=868341)
+- [Preview Features for Group Naming](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/NamingPolicy)
 
 ### <a name="group-expiration-policy"></a>Group expiration policy
 Administrators can specify an expiration period and any group that reaches the end of that period, and is not renewed, will be deleted. The expiration period begins when the group is created, or on the date it was last renewed. Group owners will automatically be sent an email before the expiration that allows them to renew the group for another expiration interval.
