@@ -19,11 +19,9 @@ description: "Data residency for Yammer Enterprise."
 ---
 
 # Data residency
-Yammer offers local data residency to help meet data residency requirements. We commit to store message bodies and files attached to messages at rest within a specific geographical area (Geo). The country you enroll in Office 365 from will determine which Geo your Yammer Enterprise network is associated with. For a new Yammer Enterprise network, Microsoft will store Yammer message bodies and files in legacy Yammer Groups at rest in the Yammer Enterprise network Geo. 
+Yammer offers local data residency to help meet data residency requirements. We commit to store message bodies and files attached to messages at rest within a specific geographical area (Geo). Yammer files are saved either in Yammer cloud storage, or for Office 365 connected groups, some Yammer files are stored in SharePoint. Yammer files saved in SharePoint will be stored in SharePoint Online per your SharePoint Online data residency policy. Mobile push notifications require sending data to a third party notification service (Apple or Google), which might be outside your Geo.
 
-Yammer files are saved either in Yammer cloud storage, or for Office 365 connected groups, some Yammer files are stored in SharePoint. Yammer files saved in SharePoint will be stored in SharePoint Online per your SharePoint Online data residency policy.
-
-Mobile push notifications require sending data to a third party notification service (Apple or Google), which might be outside your Geo.
+Your Yammer Enterprise network is automatically created when you create your Office 365 tenant. For Office 365 Education subscribers,  your network is associated with the US Geo. For all other Office 365 subscribers, the country you enroll from determines the Geo your network is associated with. When you enroll from Europe or Africa your network is associated with the EU Geo and when you enroll from Australia, Asia, North America, or South America your network is associated with the US Geo. 
 
 ### Features not available for Yammer networks in the EU Geo
 
