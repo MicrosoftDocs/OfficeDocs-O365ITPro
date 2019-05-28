@@ -45,7 +45,7 @@ Learn how to customize your theme in the Microsoft 365 admin center. As the admi
     
   - **Logo image**: Choose whether to use an image from a URL or to upload an image. If you use a URL, please ensure that the URL uses HTTPS and is 200 x 30 pixels of any format of any size. You may upload a logo under 10 KB that is 200 x 30 pixels in JPG, PNG, GIF, or SVG format .
     
-  - **URL for a clickable logo**: You may use your logo in the navigation bar as a link to any company resource. Here you may enter the URL for the logo, starting with http:// or https://. This is optional.
+  - **URL for a clickable logo**: You may use your logo in the navigation bar as a link to any company resource. You may enter the URL for the logo here, starting with http:// or https://. This is optional.
     
   - **Background image**: Select the image and upload your own JPG, PNG, or GIF with a resolution of 1366 x 50 pixels, no larger than 15 KB. The background image appears in the top navigation bar on every page.
     
