@@ -60,7 +60,7 @@ Learn how to customize your theme in the Microsoft 365 admin center. As the admi
     
   - **Accent color**: Select a color to use for the navigation bar button hover color and page accents like buttons and text on certain applications.
       
-  - **User name**: Choose whether or not to show a user's full name at the entrypoint to the account manager in the top right of the page when they are signed in. By default, users will see their photo or their initials if a photo hasn't been uploaded.
+  - **User name**: Choose whether to show a user's full name at the entry point to the account manager in the top right of the page when the user is signed in. By default, users will see their photo or their initials if a photo hasn't been uploaded.
     
 6. Click or tap **Save**.
     
