@@ -70,7 +70,7 @@ You'll see your new theme on the Microsoft 365 admin center right away and after
 
 When choosing a **Logo image**, we recommend using an SVG file type, wherever possible, so that your logo will have a high resolution appearance on all screens and at all zoom levels.
 
-When choosing custom colors, pick a **Nav bar background color** that is a high contrast ratio with the **Logo image** that you picked. Also, pick a **Text and icons** color with a high contrast ratio to the **Nav bar background color** to ensure that all text and icons are easily visible.
+When choosing custom colors, choose a **Nav bar background color** that has a high contrast ratio with the **Logo image** that you picked. Also choose a **Text and icons** color with a high contrast ratio to the **Nav bar background color** to ensure that all text and icons are easily visible.
 
 When choosing custom colors, pick an **Accent color** that shows up well on a white or light background. The **Accent color** is used to color some links and buttons that show up on a white or light background. For example, the **Accent color** is used to color elements in a user's inbox and on their Office.com portal page. 
   
