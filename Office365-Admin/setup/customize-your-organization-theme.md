@@ -82,7 +82,7 @@ Here is a simple flow chart to help you quickly get set up with a visually appea
       - **Logo image**: Your organization's colorful logo.
       - **Navigation bar color**: A neutral color. We recommend #FAF9F7 for a light color and #252423 for a dark color.
       - **Text and icon color**: A color to contrast the **Navigation bar color**. We recommend #FAF9F7 for a light color and #252423 for a dark color.
-      - **Accent color**: A dark brand color. This color carries down to certain applications and must be visible on a light background.
+      - **Accent color**: A dark brand color. With certain applications, this color must be visible on a light background.
   - I would like to use a neutral version of our logo and represent color in the navigation bar.
     - We recommend the following settings:
       - **Logo image**: Your organization's neutral logo.
