@@ -54,7 +54,7 @@
 ### [Configure Clutter](email/configure-clutter.md)
 ### [Remove license from shared mailbox](email/remove-license-from-shared-mailbox.md)
 ## Secure your business data
-### [Top 10 way to Secure your data](security-and-compliance/secure-your-business-data.md)
+### [Top 10 way to secure your data](security-and-compliance/secure-your-business-data.md)
 ### [Plan for modern authentication](security-and-compliance/multi-factor-authentication-plan.md)
 ### [Set up multi-factor authentication](security-and-compliance/set-up-multi-factor-authentication.md)
 ### [Set up multi-factor authentication (with Office 2013)](security-and-compliance/enable-modern-authentication.md)
@@ -85,7 +85,7 @@
 ### [Share sites with external users](manage/share-sites-with-external-users.md)
 ### [Share calendars with external users](manage/share-calendars-with-external-users.md)
 ## Subscriptions and billing
-## [Manage your subscriptions](subscriptions-and-billing/subscriptions-and-billing.md)
+### [Manage your subscriptions](subscriptions-and-billing/subscriptions-and-billing.md)
 ### [Sign up for an Office 365 trial subscription](subscriptions-and-billing/sign-up-for-office-365-trial.md)
 ### [Extend your trial](subscriptions-and-billing/extend-your-trial.md)
 ### [Buy a subscription from your free trial](subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md)
