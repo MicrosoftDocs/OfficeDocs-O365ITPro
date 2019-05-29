@@ -8,6 +8,7 @@ audience: Admin
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
+ms.reviewer: nitinjms2
 localization_priority: Normal
 search.appverid:
 - MET150
@@ -20,7 +21,7 @@ description: Learn how to use Kaizala Actions to get work done within a conversa
 
 # Kaizala Actions
 
-Actions help people get work done through a conversation in Kaizala. Some actions, like Jobs, Surveys, and Polls, are ready out-of-the-box with pre-defined settings. Once you publish an action, people can find it in the Kaizala app and use it in a conversation from the Action Palette.
+Actions help people get work done through a conversation in Kaizala. Some Actions – like Jobs, Surveys, and Polls – are ready out-of-the-box with pre-defined settings. Once you publish an Action, people can find it in the Kaizala app and use it in a conversation from the Action Palette.
 
 You can create new Kaizala Actions through the Action Designer, found in the Kaizala management portal.
   
@@ -44,7 +45,7 @@ You can create new Kaizala Actions through the Action Designer, found in the Kai
 
    - **New Attendance** – Use to collect attendance from group members. This template enables custom configurations to customise attendance requirements of customers.
 
-   - **New Survey** – Use to request specific answers from group members. Create a Survey Action with pre-filled questions. You can send this action via the app at regular intervals.
+   - **New Survey** – Use to request specific answers from group members. Create a Survey Action with pre-filled questions. You can send this Action via the app at regular intervals.
 
    - **New Checklist** – Use to request updates on pre-configured checklist items from group members.
 
@@ -62,7 +63,7 @@ You can create new Kaizala Actions through the Action Designer, found in the Kai
     
 ### For Survey or Form template
 
-1. Enter a card title. People will see this on the card-view of the action after it's been posted.
+1. Enter a card title. People will see this on the card-view of the Action after it's been posted.
 
 2. Enter the question details and choose your answer types. You can add questions on a new page.
 
@@ -78,7 +79,7 @@ You can create new Kaizala Actions through the Action Designer, found in the Kai
         
 ### For Attendance template
 
-1. Enter a card title. People will see this on the card-view of the action after it's been posted.
+1. Enter a card title. People will see this on the card-view of the Action after it's been posted.
 
 2. You can choose to set cut-off time (if required).
    - Select daily cut-off time. Users submitting their attendance after cut-off time would be marked late.
@@ -102,7 +103,7 @@ You can create new Kaizala Actions through the Action Designer, found in the Kai
 
  ### For Checklist template
 
-1. Enter a name for the checklist. People will see this on the card-view of the action after it's been posted.
+1. Enter a name for the checklist. People will see this on the card-view of the Action after it's been posted.
 
 2. Add checklist items, as many as required, by clicking **Add another item**.
 
@@ -120,11 +121,11 @@ You can create new Kaizala Actions through the Action Designer, found in the Kai
    
 2. After you are done, click **Submit**. People can now see the detail page of the new Action; however, it’s still a draft.
     
-3. To make the Action live, you need to publish it. Read more [here about how to publish an Action](https://docs.microsoft.com/en-us/kaizala/actions/publish#steps-to-publish-an-action).
+3. To make the Action live, you need to publish it. Read more about [how to publish an Action](https://docs.microsoft.com/en-us/kaizala/actions/publish#steps-to-publish-an-action).
     
 ## Add Kaizala Action to a group
 
-You can publish a Kaizala Action to one or more groups. When you do so, all the group members will see it in the **Discover** tab of the Kaizala mobile app. The action only appears to members of the group you selected.
+You can publish a Kaizala Action to one or more groups. When you do so, all the group members will see it in the **Discover** tab of the Kaizala mobile app. The Action only appears to members of the group you selected.
   
 Actions will be visible directly in the Action Palette, if the group has one.
   
@@ -134,7 +135,7 @@ Actions will be visible directly in the Action Palette, if the group has one.
     
 2. Go to the **Action** tab. Click or tap **Add Action**.
     
-3. Select the Action that you want to publish. Choose the user roles for which you would like the action to be published.
+3. Select the Action that you want to publish. Choose the user roles for which you would like the Action to be published.
     
 4. Click or tap **Publish**.
     
@@ -164,6 +165,6 @@ If there ever arises a need to change creator of an Action published within a te
 
 3. Enter the user's Office 365 email ID to whom Action ownership must be changed to. The user must have previously logged on to Kaizala management portal and registered the phone number on both the Kaizala management portal and the Kaizala app.
 
-Want to learn more? For more information on how to customize actions for your organization's specific needs, contact [kaizalafeedback@microsoft.com](mailto:kaizalafeedback@microsoft.com).
+Want to learn more? For more information on how to customize Actions for your organization's specific needs, contact [kaizalafeedback@microsoft.com](mailto:kaizalafeedback@microsoft.com).
   
 
