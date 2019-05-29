@@ -37,7 +37,6 @@
 ### [Administrator role](admin-role.md)
 ### [Settings](settings.md)
 ### [Reports](reports.md)
-### [Actions](actions.md)
 ### [Interop with Microsoft Teams](teams-interop.md)
 ### [Invite users to install Kaizala through SMS](invite-users-to-install-and-register.md)
 ### [Back up and export organization data](backup-export-org-data.md)
@@ -63,6 +62,8 @@
 ### [Delete users from the directory](delete-users.md)
 ### [View user details](view-user-details.md)
 ### [Azure AD sync with the directory](aad-sync-with-tul.md)
+
+## [Actions](actions.md)
 
 ## [Kaizala for developers](https://docs.microsoft.com/kaizala/developer-platform)
 
