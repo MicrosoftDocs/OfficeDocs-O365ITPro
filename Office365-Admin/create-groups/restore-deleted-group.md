@@ -49,8 +49,13 @@ When a group is restored, the following content is restored:
 - Yammer group and group content (If the Office 365 group was created from Yammer)
     
 You can also [Permanently delete an Office 365 group](#permanently-delete-an-office-365-group) if you can't wait the 30 days for the retention period to expire for the content to be permanently deleted. 
-  
+
+> [!NOTE]
+> The owner of the deleted Office 365 group is also able to restore the group. To restore an office 365 group using owner permission without administrator permission, see [Restore an Office 365 Group using PowerShell](#restore-an-office-365-group-using-powershell).
+
 ## Restore an Office 365 Group using the Exchange admin center
+
+You must have Office 365 global administrator or Exchange administrator permissions.
 
 ::: moniker range="o365-worldwide"
 
@@ -88,11 +93,15 @@ You can also [Permanently delete an Office 365 group](#permanently-delete-an-off
     
 ## Restore an Office 365 Group using PowerShell
 
-IMPORTANT: If you use Remove-MsolGroup in PowerShell to delete a group, this will delete the group permanently. When using PowerShell to delete groups, it's best practice to use **Remove-AzureADMSGroup** to soft-delete the Office 365 group. That way you can restore it if needed. 
+You must have Office 365 global administrator permission, or need to be an owner of the deleted Office 365 group.
+
+> [!IMPORTANT]
+> If you use Remove-MsolGroup in PowerShell to delete a group, this will delete the group permanently. When using PowerShell to delete groups, it's best practice to use **Remove-AzureADMSGroup** to soft-delete the Office 365 group. That way you can restore it if needed. 
   
 ### Install the preview version of the Azure Active Directory PowerShell for Graph
 
- **IMPORTANT**: You cannot install both the preview and GA versions on the same computer at the same time **.**
+> [!IMPORTANT]
+> You cannot install both the preview and GA versions on the same computer at the same time **.**
   
 As a best practice, we recommend  *always*  staying current: uninstall the old AzureADPreview or old AzureAD version and get the latest one. 
   
@@ -137,8 +146,6 @@ or
 At the message about an untrusted repository, type **Y**. It will take a minute or so for the new module to install.
   
 ### Restore the deleted group
-
-You must have Office 365 global admin or organization management permissions.
   
 1. Did you install the **AzureADPreview** module, as instructed in the above section "Install the preview version of the Azure Active Directory Module for Windows PowerShell"? Not having the most current **preview** version is the #1 reason these steps don't work for people. 
     
