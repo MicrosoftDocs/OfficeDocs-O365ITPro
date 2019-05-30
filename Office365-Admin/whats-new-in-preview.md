@@ -21,8 +21,7 @@ f1_keyword: MACDashWhatsNew
 
 # What's new in the NEW Microsoft 365 admin center
 
-We're continuously adding new features to the Microsoft 365 admin center, fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today.
-Checkout [About the Microsoft 365 admin center](microsoft-365-admin-center-preview.md).
+We're continuously adding new features to [the Microsoft 365 admin center](microsoft-365-admin-center-preview.md), fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today.
 
 > [!TIP]
 > Interested in what we're currently working on and plan to release soon? Check out [What's next for the Microsoft 365 admin center](microsoft-365-whats-next.md). 
