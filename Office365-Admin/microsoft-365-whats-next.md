@@ -89,3 +89,15 @@ Hybrid customers will have the ability to resent their on-premises user password
 **Register admin account recovery information**<br>
 Make sure you don’t get locked out of your account by providing a recovery email and phone number.<br>
 [Vote or give feedback for account recovery](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/37800766-register-admin-account-recovery-information)
+
+## Stay informed
+In addition to this and the [What's new in the Microsoft 365 admin center](whats-new-in-preview.md) article, we've got more ways for you to stay informed about changes coming to all of Microsoft 365 and Office 365 services.
+
+- [Microsoft 365 Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap)
+- [Learn more about targeted release](manage/release-options-in-office-365.md)
+- [Join the Office Insiders program](https://insider.office.com/en-us/join)
+- [Join the Windows Insiders program](https://insider.windows.com/en-us/)
+- 
+
+
+
