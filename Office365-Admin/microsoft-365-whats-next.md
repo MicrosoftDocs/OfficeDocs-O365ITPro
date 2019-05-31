@@ -24,7 +24,7 @@ Welcome to What's next for the Microsoft 365 admin center! This article will tel
 
 Because this article is a new experiment in the type of information that Microsoft is making available, here's the legal disclaimer:
 > [!WARNING]
-> The information contained in this article pertains only the Microsoft 365 admin center and is not a promise of future functionality nor do we promise that the feature will be released in the quarter we've indicated. In addition, this information is not a complete list of all features being released. This article might be discontinued or deleted at any time.
+> The information contained in this article pertains only to the Microsoft 365 admin center and is not a promise of future functionality nor do we promise that the feature will be released in the time frame we've indicated. In addition, this information is not a complete list of all features being released. This article might be discontinued or deleted at any time.
 
 ## Why are we doing this?
 We've heard your feedback that it's hard to plan for change and that you'd like to know what's coming next to the Microsoft 365 admin center. 
@@ -45,10 +45,6 @@ Here's a list of features that will most-likely be released in July 2019.
 Adding a dark theme for the admin center.
 <br>
 [Vote or give feedback for dark theme ](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/36076711-dark-theme-for-the-new-admin-gui )
-
-**Increase color contrast (light theme)** <br>
-The new admin center is too light and and that makes it hard to read. <br>
-[Vote or give feedback for color contrast](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/16053568-customize-font-color-on-admin-pages-something-wit)
 
 **Global reader role** <br>
 Adding a new limited admin role that gives users read-ony access to all administrative features in the admin centers. <br>
@@ -97,7 +93,3 @@ In addition to this and the [What's new in the Microsoft 365 admin center](whats
 - [Learn more about targeted release](manage/release-options-in-office-365.md)
 - [Join the Office Insiders program](https://insider.office.com/en-us/join)
 - [Join the Windows Insiders program](https://insider.windows.com/en-us/)
-- 
-
-
-
