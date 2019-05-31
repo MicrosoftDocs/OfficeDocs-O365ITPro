@@ -47,7 +47,7 @@ description: "Run your small business with Microsoft email, manage your calendar
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="../media/df56cbae-7c00-471d-bcc8-4f4bcb8d99f5.png" alt="Head to a Microsoft store"/>
+                            <img src="../media/df56cbae-7c00-471d-bcc8-4f4bcb8d99f5.png" alt="Go to a Microsoft store"/>
                         </div>
                     </div>
                     <div class="cardText">
