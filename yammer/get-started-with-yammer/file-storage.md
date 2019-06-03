@@ -3,7 +3,7 @@ title: "Yammer file storage overview"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 5/28/2019
+ms.date: 6/3/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -100,3 +100,40 @@ The following table shows how each type of guest and external user can access fi
 > Membership in the group for guests in Azure Active Directory (AAD) and Yammer are completely separate. Deleting a network-level guest from an Office 365 connected Yammer group or from the tenant in AAD does not remove the user in Yammer, and deleting a user from Yammer does not delete the user from an Office 365 group or AAD. 
 
 For more information about Azure B2B guests, see [Guest user access in an Azure Active Directory B2B](https://docs.microsoft.com/azure/active-directory/b2b/what-is-b2b).
+
+## Requirements
+
+- Yammer version requirements 
+
+    Ensure your users are using the most recent Yammer versions. At a minimum, users should be using the following or newer versions:
+    
+    - Yammer on iOS - 7.33.0  
+
+    - Yammer onAndroid - 5.5.84 
+
+    - Yammer desktop on Windows or Mac - 3.4.2
+
+- Cookie and browswer requirements
+ 
+    To store Yammer files in SharePoint, we use the ADAL library and use Azure Directory (AAD) tokens for authentication. If browsers don’t have third party cookies enabled or if the security zone settings are incorrect in Internet Explorer 11 or Edge, the ADAL library used to refresh AAD tokens can't send information needed to AAD. 
+
+    When a token refresh call fails, users will see:
+
+    - On the Yammer page for a connected group, Office 365 Resources will be grayed out
+
+    - File operations will fail
+
+    - Yammer live events can't be created
+
+     For more information see [A silent sign-in request was sent but no user is signed in](https://github.com/AzureAD/azure-activedirectory-library-for-js/wiki/FAQs#q6-aadsts50058-a-silent-sign-in-request-was-sent-but-no-user-is-signed-in).
+
+    To avoid problems:
+
+    - Ensure there aren’t any extensions that block or prevent reading of cookies, such as Ghostery.
+
+    - In Internet Explorer 11 or Edge, ensure protected mode is disabled for the trusted zone.
+
+        Yammer.com and related URLs should be a part of trusted zone. For more information, see [Office 365 URLs and IP address ranges](https://support.office.com/en-gb/article/office-365-urls-and-ip-address-ranges-8548a211-3fe7-47cb-abb1-355ea5aa88a2#bkmk_yammer)
+
+    - Users shouldn’t access Yammer by using incognito or InPrivate mode or equivalent modes in other browsers.
+ 
