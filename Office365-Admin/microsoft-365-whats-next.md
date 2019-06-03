@@ -78,7 +78,7 @@ Designing ways to simplify the billing experience, including reducing the number
 [Vote or give feedback for menu intelligence](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/37705138-let-the-left-nav-menu-remember-my-favorites)
 
 **Password writeback support**<br>
-Hybrid customers will have the ability to resent their on-premises user passwords in the cloud. These passwords will sync back down the the on-premises accounts. <br>
+Hybrid customers will have the ability to reset their on-premises user passwords in the cloud. These passwords will sync back down the the on-premises accounts. <br>
 [Vote or give feedback for password writeback](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/9496608-read-and-use-must-change-password-attribute-with)
 
 **Register admin account recovery information**<br>

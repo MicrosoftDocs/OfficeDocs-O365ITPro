@@ -29,7 +29,7 @@ We're continuously adding new features to [the Microsoft 365 admin center](micro
 ## May 2019
 
 ### May's featured fix - Case sensitivity
-Now when you search for shared mailboxes, contacts, resources, and mailbox permissions, your search terms don't have to be case-sensitive anymore. Before we fixed this issue, when you searched for Exchange-related objects, your search terms needed to be case-sensitive, which made searching difficult.
+Now when you search for shared mailboxes, contacts, resources, and mailbox permissions, your search terms don't have to be case-sensitive. 
 
 **User & groups management** <br>
 Quite a few changes this month. Hope you like the new **Add user** wizard we added last month. 
@@ -37,14 +37,13 @@ Quite a few changes this month. Hope you like the new **Add user** wizard we add
 
 **Recommendations**<br>
 You might see a new recommendation pop-up in your admin center - we just added 5 new ones. Of course, you'll only see recommendations if we think it will benefit your organization. But don't wait until we show you the recommendation - you can add it from the card library.
-- **Password expiry** - We now recommend that passwords get set to **Never expire**. And if your org has a different setting, you might just see this recommendation. 
-- **Advanced Threat Protection** - If you have a license that includes Advanced Threat Protection, and if we detect threats in email and files, we'll recommend that you set up ATP. It prevents users from accessiging malicious content by scanning attachments, files, and links.
+- **Password expiry** - We recommend that passwords get set to **Never expire**. And if your org has a different setting, you might just see this recommendation. 
 - **Too many global admins** - Because having too many global admins is a security threat, if you have more than 4 global admins, you'll see this recommendation. We suggest giving users only the access they need to get their job done.
 - **Intune device protection** - If your licenses include Intune and we detect that you either haven't finished setting up Intune or enrolled your devices, we'll recommend that you create an Intune policy to protect your organization's files when users access them from their mobile devices.
-- **Get monthly feature updates** - We've gotten feedback from our very small customers that when they get monthly Office feature updates, their users are  happier. So, if you're a very small business and you're currently get your Office feature updates every six months, you'll see this recommendation.
+- **Get monthly Office feature updates** - We've gotten feedback from our very small customers that when they get monthly Office feature updates, their users are  happier. So, if you're a very small business and you're currently get your Office feature updates every six months, you'll see this recommendation.
 
 **Settings** <br>
-As for settings, there have been quite a few changes. Mostly, just updating the existing settings to the new admin center style. But as we're moving forward and adding new settings that you've never seen before, we'll start mentioning them here. And we've got one-whole setting to announce: **Modern authentication**. Yes, there is a new setting to turn on **Modern authentication**! To check it out, go to **Settings** > **Services & add-ins** > **Modern authentication**.
+As for settings, there have been quite a few changes. Mostly, just updating the existing settings to the new admin center style. As we're moving forward and add new settings that you've never seen before, we'll start mentioning them here. And we've got one-whole setting to announce: **Modern authentication**. Yes, there is a new setting to turn on **Modern authentication**! To check it out, go to **Settings** > **Services & add-ins** > **Modern authentication**.
 
 ## April 2019
 
