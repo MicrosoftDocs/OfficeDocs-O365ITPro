@@ -3,7 +3,7 @@ title: "Data residency"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 3/28/2019
+ms.date: 5/24/2019
 audience: Admin
 ms.topic: article
 f1_keywords:
@@ -15,33 +15,29 @@ search.appverid:
 - MOE150
 - YAE150
 ms.assetid: 
-description: "Data residency for Yammer Enterprise is currently in preview for the EU Geo."
+description: "Data residency for Yammer Enterprise."
 ---
 
 # Data residency
-Yammer offers local data residency to help meet data residency requirements. We commit to store message bodies and files attached to messages at rest within a specific geographical area (Geo). The country you enroll in Office 365 from will determine which Geo your Yammer Enterprise network is associated with. For a new Yammer Enterprise network, Microsoft will store Yammer message bodies and files in legacy Yammer Groups at rest in the Yammer Enterprise network Geo. 
+Yammer offers local data residency to help meet data residency requirements. We commit to store message bodies and files attached to messages at rest within a specific geographical area (Geo). Yammer files are saved either in Yammer cloud storage, or for Office 365 connected groups, some Yammer files are stored in SharePoint. Yammer files saved in SharePoint will be stored in SharePoint Online per your SharePoint Online data residency policy. Mobile push notifications require sending data to a third party notification service (Apple or Google), which might be outside your Geo.
 
-Yammer files are saved either in Yammer cloud storage, or for Office 365 connected groups, some Yammer files are stored in SharePoint. Yammer files saved in SharePoint will be stored in SharePoint Online per your SharePoint Online data residency policy.
-
-Mobile push notifications require sending data to a third party notification service (Apple or Google), which might be outside your Geo.  
-
-## Data residency in the EU Geo (Preview)
-
-Yammer data residency in the EU Geo is in Preview. 
+Your Yammer Enterprise network is automatically created when you create your Office 365 tenant. For Office 365 Education subscribers,  your network is associated with the US Geo. For all other Office 365 subscribers, the country you enroll from determines the Geo your network is associated with. When you enroll from Europe or Africa your network is associated with the EU Geo and when you enroll from Australia, Asia, North America, or South America your network is associated with the US Geo. 
 
 ### Features not available for Yammer networks in the EU Geo
 
 The following Yammer features are not available for Yammer networks in the EU Geo:
 
-- [All external messaging features](../work-with-external-users/external-messaging-faq.md):
+- All external collaboration features:
 
     - Only users in your Office 365 tenant can participate in your Yammer Enterprise network.
 
     - External guests can’t participate in your Yammer Enterprise network.
 
-    - Your users can’t participate in other Yammer networks.
+    - Your users can’t participate in other Yammer networks, including external networks. 
 
-    - External groups can't be created.
+    - Your users can't be participants in [external messaging threads, or add external participants to threads](../work-with-external-users/external-messaging-faq.md) in your Yammer Enterprise network.
+
+    - External groups can't be created in your Yammer Enterprise network, and your users can't participate in external groups belonging to other networks.
 
 - [Post to Yammer by sending an email message](https://support.office.com/article/058d1bc1-3492-47c5-bde2-29ea294acdb6)
 

@@ -32,7 +32,7 @@ You can choose to have the usage policy appear as a link in the side bar in each
     
 3. Enter your usage policy title, and sidebar message. 
     
-4. Enter your usage policy text. You can use HTML code to format your usage policy. Basic HTML tags including image tags, links, and basic formatting are allowed within the usage policy. (JavaScript is not allowed.) 
+4. Enter your usage policy text. You can use HTML code to format your usage policy. Basic HTML tags including links and basic formatting are allowed within the usage policy. (JavaScript is not allowed.) 
     
     > [!TIP]
     > Use the [Sample Yammer usage policy](set-up-a-usage-policy.md#SampleUsePolicy) for ideas of what to include. 

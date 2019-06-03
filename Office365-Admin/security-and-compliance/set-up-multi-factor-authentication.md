@@ -53,7 +53,7 @@ You get a free version of Azure multi-factor authentication as part of your Offi
     ![The More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/fefd9f5b-562a-4359-805f-eab923d438c1.png)
   
 > [!Tip]
-> If you don't see the **More (...)** option, then you aren't a global admin for your subscription.
+> If you don't see the **More (...)** option, then you aren't a global admin for your subscription. Only global admins can enable or disable MFA.
 
 3. Find the people for whom you want to enable MFA. In order to see everyone, you might need to change the **Multi-Factor Auth status** view at the top. 
     
@@ -107,7 +107,7 @@ Here's how to allow your users to create App passwords:
     ![The More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/fefd9f5b-562a-4359-805f-eab923d438c1.png)
   
 > [!Tip]
-> If you don't see the **More (...)** option, then you aren't a global admin for your subscription.
+> If you don't see the **More (...)** option, then you aren't a global admin for your subscription. Only global admins can enable or disable MFA.
     
  
 3. On the **multi-factor authentication** page, choose **service settings**.

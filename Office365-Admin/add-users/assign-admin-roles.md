@@ -1,7 +1,7 @@
 ---
 title: "Assign admin roles in Office 365 for business"
 ms.author: cmcatee
-author: dianef
+author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
@@ -20,7 +20,6 @@ ms.custom:
 - Adm_O365
 - Adm_O365_FullSet
 - Adm_O365_Top
-- Core_O365Admin_Migration
 - MiniMaven
 - strat_admin_top
 - MSStore_Link
@@ -71,7 +70,6 @@ As the person who purchased your Office 365 business subscription, you are the g
     
 ## Assign admin roles to multiple users
 
-
 If you know PowerShell, see [Assign roles to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/?linkid=854257). It's ideal for assigning roles to hundreds of users.
   
 Use the following instructions to assign roles to tens of users.
@@ -107,10 +105,8 @@ Here is the top issue customers encounter when assigning admin roles:
     
 ## Related Topics
 
-
 [Assign roles to user accounts with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-roles-to-user-accounts-with-office-365-powershell)
 
 [Authorize or remove partner relationships](https://support.office.com/article/201ccb3b-6011-4bf1-a6b2-84e7cc1ee2d0.aspx)
   
 [About the Microsoft 365 admin center](../admin-overview/about-the-admin-center.md)
-  
