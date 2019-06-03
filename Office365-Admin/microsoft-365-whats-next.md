@@ -33,7 +33,7 @@ We've heard your feedback that it's hard to plan for change and that you'd like 
 We're looking forward to hearing from you and we'd like to use this article as a conversation starter between us - the admin and the engineering team. Every item listed in the "In the works" section has a link to our [Office UserVoice](https://office365.uservoice.com/forums/273493-office-365-admin) website, where we want you to vote for items that you're excited about, ask questions, and give us feedback.
 
 ## Released
-For the list of features we've released for the Microsoft 365 admin center, see [What's new in the NEW Microsoft 365 admin center](Office365-Admin/whats-new-in-preview.md).
+For the list of features we've released for the Microsoft 365 admin center, see [What's new in the Microsoft 365 admin center](Office365-Admin/whats-new-in-preview.md).
 
 ## In the works
 
