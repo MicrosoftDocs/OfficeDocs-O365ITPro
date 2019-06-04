@@ -15,11 +15,11 @@ search.appverid:
   - MOE150
   - FRP150
 ms.assetid: 739574d7-2c5b-4911-a549-f56ecc7d3b48
-description: "The NEW Microsoft 365 admin center - learn about the features that were added this month."
+description: "The Microsoft 365 admin center - learn about the features that were added this month."
 f1_keyword: MACDashWhatsNew
 ---
 
-# What's new in the NEW Microsoft 365 admin center
+# What's new in the Microsoft 365 admin center
 
 We're continuously adding new features to [the Microsoft 365 admin center](microsoft-365-admin-center-preview.md), fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today.
 
