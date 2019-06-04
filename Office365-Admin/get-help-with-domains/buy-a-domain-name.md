@@ -71,7 +71,6 @@ You can choose from the following top level domains for your domain.
     
 - org.uk
     
-![On the Manage domains page, click Buy domain](../media/16d6b3ba-ce13-496e-a7c0-1d99479dd203.png)
 
 > [!NOTE]
 > When you click **Buy domain**, you may be redirected to your Microsoft partner's website if the tenant is purchased/managed through a Microsoft partner.

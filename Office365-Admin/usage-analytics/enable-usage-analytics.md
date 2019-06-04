@@ -109,10 +109,8 @@ To make the data that is collected for all reports anonymous, you have to be a g
   
 1. In the admin center, expand the left nav, and go to **Settings** \> **Services &amp; add-ins**.
     
-2. On the **Services &amp; add-ins** page choose **Reports**, and then turn on the toggle next to **Display anonymous identifiers instead of names in all reports**.This setting gets applied both to the usage reports as well as to the content pack.
-    
-    ![Set toggle to on to make reports anonymous](../media/8ae1e6ef-8fe7-4f15-8b4d-7a07783b79bb.png)
+2. On the **Services &amp; add-ins** page choose **Reports**, and then select the **Display anonymous identifiers instead of names in all reports** box. This setting gets applied both to the usage reports as well as to the content pack.
   
-3. Choose **Save**.
+3. Choose **Save changes**.
     
 

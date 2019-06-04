@@ -76,7 +76,7 @@ To set up a room or equipment mailbox, go to the Microsoft 365 admin center. (Yo
     
 2. Go to the [admin center](../admin-overview/about-the-admin-center.md).
     
-3. Search for **rooms** or **equipment** or navigate to **Resources \> Rooms &amp; equipment**.<br/>![Office 365 resources](../media/7fc34170-5425-468e-9ee9-3a1c5e54923f.png)
+3. Navigate to **Resources \> Rooms &amp; equipment**.
   
 4. Click **Add**.
     
@@ -96,9 +96,9 @@ To set up a room or equipment mailbox, go to the Microsoft 365 admin center. (Yo
     
 6. Choose **Add**.
     
-7. Choose **View details** to see the room or equipment mailbox you created.<br/>Or, choose **Set scheduling options** to change the allowed meeting times, booking windows, and so on.<br/>![Edit room and equipment booking options](../media/2c28ab2c-5b46-486b-90e6-f248843d0f6c.png)
+7. Select the room or equipment mailbox you created to see or edit the details.
   
-8. Then **Save** and **Close**.
+8. If you made changes, click **Save** and then **Close**.
 
 ## Common questions about room and equipment mailboxes
 

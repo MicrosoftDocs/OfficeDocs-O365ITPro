@@ -53,9 +53,7 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 ::: moniker-end
 
 1. Choose **Groups** \> **Groups** in the left navigation pane. 
-    
-    ![Office 365 Group in admin center.](../media/ee7e3ca0-c5f9-46c9-b525-6524040d0043.png)
-  
+     
 2. Choose **Add a group**.
     
     ![Create a new Office 365 Group, a new distribution list, or a new security group](../media/a50b372c-feab-4ac5-90c3-e7fcb1ff649a.png)
@@ -66,7 +64,7 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
     
 5. Type a unique email address for the group.
     
-6. Click **Select Owner** and then choose the name of the person who will be designated to manage the group. Anyone who is a group owner will be able to delete email from the Group inbox. Other members won't be able to delete email from the Group inbox. 
+6. Click **Select Owner**, and then choose the name of the person who will be designated to manage the group. Anyone who is a group owner will be able to delete email from the Group inbox. Other members won't be able to delete email from the Group inbox. 
     
 7. Click **Add**.
 
@@ -82,7 +80,7 @@ Users can [add themselves or request approval](https://support.office.com/articl
 
 1. In the admin center, refresh the page so your new group appears.
 
-2. Click the group that you want to add members to.
+2. Choose **Groups** \> **Groups** in the left navigation pane, and then click the group that you want to add members to.
     
 3. Next to **Members**, choose **Edit**.
 
@@ -102,7 +100,7 @@ When you turn this setting on, group members will get a copy of group emails and
 
 Group members can opt out of receiving these emails by choosing to stop following the group in Outlook.
 
-1. In the Microsoft 365 admin center groups list, select the group you want to change, and then click **Edit** next to the group name.
+1. In the Microsoft 365 admin center groups list, click the group you want to change, and then next to **Name**, click **Edit**.
 
 2. Turn **Send copies of group conversations and events to group members' inboxes** to **On** if you want members to receive copies of group messages and calendar items in their own inbox.
 
@@ -114,7 +112,7 @@ This option is great if you want to have a company email address such as info@co
   
 1. Refresh your admin center page so your new group appears.
     
-2. Select the group you want to change, and then select **Edit** next to the group name. 
+2. In the admin center groups list, click the group you want to change, and then next to **Name**, click **Edit**. 
     
 3. Set the **Let people outside the organization email the group** toggle to **On**.
     

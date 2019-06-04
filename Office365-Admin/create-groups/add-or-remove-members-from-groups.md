@@ -39,9 +39,7 @@ In Office 365, Group members typically create their own Groups, add themselves t
 3. Select a Group.
     
 4. In the details pane, next to **Members**, click **Edit**.
-    
-    ![Screen shot with Edit members link highlighted](../media/9a47d6bf-850e-45e6-8aa7-a0c4da878234.png)
-  
+      
 5. Search for or select the name of the member you want to add.
     
 6. Click **Save**.
@@ -59,7 +57,7 @@ In Office 365, Group members typically create their own Groups, add themselves t
     
 4. In the details pane, next to **Members**, click **Edit**.
     
-5. Next to the member you want to remove, click **Remove**.
+5. Next to the member you want to remove, click the X.
     
 6. Click **Save** to remove the member. 
     
@@ -75,13 +73,14 @@ By default, the person who created the group is the group owner. Often a group w
     
 3. Select a Group.
     
-4. In the **Bulk actions** pane at the right of the screen, click **Edit owners**.
+4. Next to **Owners**, click **Edit**.
+
+5. Search for a member, or click **Add owners**.
     
-5. Search for or select the name of the member you want to add.
+6. Select the check box next to the name of the member you want to add.
     
-6. Click **Add** next to the member's name. 
-    
-7. Click **Save**.
+7. Click **Save**, and then click **Close**. m    
+
     
 ### Remove owner status in the admin center
 
@@ -91,9 +90,9 @@ By default, the person who created the group is the group owner. Often a group w
     
 3. Select a Group.
     
-4. In the details pane at the right of the screen, click **Edit Owners**.
+4. Next to **Owners**, click **Edit**.
     
-5. Click **Remove** next to the owner's name. 
+5. Click the X next to the owner's name. 
     
 6. Click **Save**.
     

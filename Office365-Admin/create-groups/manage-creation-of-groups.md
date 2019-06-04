@@ -88,9 +88,9 @@ Admins in the roles listed above do not need to be members of this group: they r
 > [!IMPORTANT]
 > Be sure to use a **security group** to restrict who can create groups. If you try to use an Office 365 Group, members won't be able to create a group from SharePoint because it checks for a security group. 
     
-1. In the Microsoft 365 admin center, create a group of type **Security group**. Remember the name of the group! You'll need it later.
-    
-    ![Create a security group in the admin center.](../media/bd2b3f5b-6521-4780-b94a-2aea2c18254e.png)
+1. In the Microsoft 365 admin center, select **Groups** > **Groups**.
+
+2. Select **Add a group**, and then in the **Type** list, choose **Security**. Remember the name of the group! You'll need it later.
   
 2. Add people or other security groups who you want to be able to create Groups in your org.
     
@@ -201,13 +201,9 @@ If you want to turn off the group creation restriction and again allow all users
     
 2. Choose the **Planner** tile. 
     
-3. In Planner, in choose **New Plan** to create a plan. 
-    
-![In Planner, choose New plan.](../media/4cf6163e-bf86-4ece-9cba-409df7f6d193.png)
+3. In Planner, choose **New Plan** in the left navigation to create a plan. 
   
-4. You should get a message that you can't create a plan:
-    
-![Message that you can't create a plan.](../media/9add4ae1-4e3b-4f4f-90ea-5af94d8018d1.png)
+4. You should get a message that plan and group creation is disabled.
 
 Try the same procedure again with a member of the security group.
 
