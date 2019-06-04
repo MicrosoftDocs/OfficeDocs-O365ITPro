@@ -33,7 +33,9 @@ Now when you search for shared mailboxes, contacts, resources, and mailbox permi
 
 **User & groups management** <br>
 Quite a few changes this month. Hope you like the new **Add user** wizard we added last month. 
- This month, we updated **Block user**, **Reset password**, **Contacts** list view, **Groups** list view, and the **Groups** details pages to the new admin center style.
+ 
+**User and group management**<br>
+This month, we updated **Block user**, **Reset password**, **Contacts** list view, **Groups** list view, and the **Groups** details pages to the new admin center style. With the new **Groups** list view, you get richer data about your groups, quick actions in the command bar, and you can customize the way you see your data -- and the groups list remembers how you want to see your data. 
 
 **Recommendations**<br>
 You might see a new recommendation pop-up in your admin center - we just added 5 new ones. Of course, you'll only see recommendations if we think it will benefit your organization. But don't wait until we show you the recommendation - you can add it from the card library.
