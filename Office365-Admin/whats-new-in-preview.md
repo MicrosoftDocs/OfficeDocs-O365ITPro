@@ -15,14 +15,37 @@ search.appverid:
   - MOE150
   - FRP150
 ms.assetid: 739574d7-2c5b-4911-a549-f56ecc7d3b48
-description: "The NEW Microsoft 365 admin center - learn about the features that were added this month."
+description: "The Microsoft 365 admin center - learn about the features that were added this month."
 f1_keyword: MACDashWhatsNew
 ---
 
-# What's new in the NEW Microsoft 365 admin center
+# What's new in the Microsoft 365 admin center
 
-We're continuously adding new features to the Microsoft 365 admin center, fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today.
-Want to know how to participate in the preview? Checkout [About the Microsoft 365 admin center](microsoft-365-admin-center-preview.md).
+We're continuously adding new features to [the Microsoft 365 admin center](microsoft-365-admin-center-preview.md), fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today.
+
+> [!TIP]
+> Interested in what we're currently working on and plan to release soon? Check out [What's next for the Microsoft 365 admin center](microsoft-365-whats-next.md). 
+
+## May 2019
+
+### May's featured fix - Case sensitivity
+Now when you search for shared mailboxes, contacts, resources, and mailbox permissions, your search terms don't have to be case-sensitive. 
+
+**User & groups management** <br>
+Quite a few changes this month. Hope you like the new **Add user** wizard we added last month. 
+ 
+**User and group management**<br>
+This month, we updated **Block user**, **Reset password**, **Contacts** list view, **Groups** list view, and the **Groups** details pages to the new admin center style. With the new **Groups** list view, you get richer data about your groups, quick actions in the command bar, and you can customize the way you see your data -- and the groups list remembers how you want to see your data. 
+
+**Recommendations**<br>
+You might see a new recommendation pop-up in your admin center - we just added 5 new ones. Of course, you'll only see recommendations if we think it will benefit your organization. But don't wait until we show you the recommendation - you can add it from the card library.
+- **Password expiry** - We recommend that passwords get set to **Never expire**. And if your org has a different setting, you might just see this recommendation. 
+- **Too many global admins** - Because having too many global admins is a security threat, if you have more than 4 global admins, you'll see this recommendation. We suggest giving users only the access they need to get their job done.
+- **Intune device protection** - If your licenses include Intune and we detect that you either haven't finished setting up Intune or enrolled your devices, we'll recommend that you create an Intune policy to protect your organization's files when users access them from their mobile devices.
+- **Get monthly Office feature updates** - We've gotten feedback from our very small customers that when they get monthly Office feature updates, their users are  happier. So, if you're a very small business and you're currently get your Office feature updates every six months, you'll see this recommendation.
+
+**Settings** <br>
+As for settings, there have been quite a few changes. Mostly, just updating the existing settings to the new admin center style. As we're moving forward and add new settings that you've never seen before, we'll start mentioning them here. And we've got one-whole setting to announce: **Modern authentication**. Yes, there is a new setting to turn on **Modern authentication**! To check it out, go to **Settings** > **Services & add-ins** > **Modern authentication**.
 
 ## April 2019
 
