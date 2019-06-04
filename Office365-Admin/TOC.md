@@ -159,14 +159,11 @@
 ### [Apply for a Fapiao](services-in-china/apply-for-a-fapiao.md)
 ### [Initial partner.onmschina.cn domain](services-in-china/initial-partner-onmschina-cn-domain.md)
 ## Get new features
-### [Stay on top of changes](manage/stay-on-top-of-updates.md)
+### [About the admin center preview](microsoft-365-admin-center-preview.md)
+### [What's new in preview](whats-new-in-preview.md)
+### [Stay on topc of changes](manage/stay-on-top-of-updates.md)
 ### [Release options in Office 365](manage/release-options-in-office-365.md)
-### [Try or buy Microsoft 365](try-or-buy-microsoft-365.md)
 ### [Message center](manage/message-center.md)
-### [Manage messages](manage/manage-messages.md)
-### [Language translation for Message center posts](manage/language-translation-for-message-center-posts.md)
-<!--### Microsoft 365 admin center preview
-#### [About the admin center preview](microsoft-365-admin-center-preview.md)
-#### [What's new in preview](whats-new-in-preview.md)
-#### [Try or buy Microsoft 365](try-or-buy-microsoft-365.md)-->
+### [Try or buy Microsoft 365](try-or-buy-microsoft-365.md)
+### [What's next](microsoft-365-whats-next.md)
 ## [Contact support for business products](contact-support-for-business-products.md)
