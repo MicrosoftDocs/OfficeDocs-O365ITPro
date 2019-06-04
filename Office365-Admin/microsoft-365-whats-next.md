@@ -15,19 +15,19 @@ search.appverid:
   - MOE150
   - FRP150
 description: "Find out what we're working on next for the Microsoft 365 admin center."
-ROBOTS: NOINDEX
 ---
 
 # What's next for the Microsoft 365 admin center
 
-Welcome to **What's next for the Microsoft 365 admin center**! This article will tell you about new and improved features we're planning and developing so that you can prepare for change.
+Welcome to **What's next for the Microsoft 365 admin center**! This article will tell you about new and improved features we're planning and developing so that you can prepare for change. 
 
 Because this article is a new experiment in the type of information that Microsoft is making available, here's the legal disclaimer:
 > [!WARNING]
 > The information contained in this article pertains only to the Microsoft 365 admin center and is not a promise of future functionality nor do we promise that the feature will be released in the time frame we've indicated. In addition, this information is not a complete list of all features being released. This article might be discontinued or deleted at any time.
 
 ## Why are we doing this?
-We've heard your feedback that it's hard to plan for change and that you'd like to know what's coming next to the Microsoft 365 admin center. 
+We've heard your feedback that it's hard to plan for change and that you'd like to know what's coming next to the Microsoft 365 admin center. You can also use the Message Center and the Microsoft 365 Roadmap to stay informed.  
+[Stay on top of changes](manage/stay-on-top-of-updates.md)
 
 ## How to use this article
 We're looking forward to hearing from you and we'd like to use this article as a conversation starter between us - the admin and the engineering team. Every item listed in the "In the works" section has a link to our [Office UserVoice](https://office365.uservoice.com/forums/273493-office-365-admin) website, where we want you to vote for items that you're excited about, ask questions, and give us feedback.
@@ -88,6 +88,7 @@ Make sure you don’t get locked out of your account by providing a recovery ema
 ## Stay informed
 In addition to this and the [What's new in the Microsoft 365 admin center](whats-new-in-preview.md) article, we've got more ways for you to stay informed about changes coming to Microsoft 365 and Office 365 services.
 
+- [Stay on top of changes](manage/stay-on-top-of-updates.md)
 - [Microsoft 365 Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap)
 - [Learn more about targeted release](manage/release-options-in-office-365.md)
 - [Join the Office Insiders program](https://insider.office.com/en-us/join)
