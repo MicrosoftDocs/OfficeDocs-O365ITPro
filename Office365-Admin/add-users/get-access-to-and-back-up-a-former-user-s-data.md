@@ -29,7 +29,7 @@ description: "Learn how to preserve an employee's files and emails when the pers
 
 # Get access to and back up a former user's data
 
- ::: moniker range="o365-worldwide"
+::: moniker range="o365-worldwide"
 
 > [!TIP]
 > Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
@@ -41,11 +41,11 @@ When an employee leaves your organization, you probably want to access their dat
     
 ## Access a former user's OneDrive documents
 
-If you remove a user's Microsoft 365 license but don't delete the account, you retain access to the content in the user's OneDrive site. If you delete their Microsoft 365 account you have 30 days to access a former user’s OneDrive data. If you don't [restore a user account](https://docs.microsoft.com/office365/admin/add-users/restore-user) within 30 days their OneDrive content is deleted. Before you delete the account, you should move the content from their OneDrive to another location.
+If you remove a user's license but don't delete the account, you retain access to the content in the user's OneDrive site. If you delete their account you have 30 days to access a former user’s OneDrive data. If you don't [restore a user account](https://docs.microsoft.com/office365/admin/add-users/restore-user) within 30 days their OneDrive content is deleted. Before you delete the account, you should move the content from their OneDrive to another location.
 
 To preserve a former user's OneDrive for Business documents you first access their OneDrive site and then move the files. 
 
-1. In the admin center, go to the **Users** > **[Active users](https://go.microsoft.com/fwlink/p/?linkid=834822)** page.
+1. In the admin center, go to the **Users** \> **<a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a>** page.
     
 2. Select a user.
 
