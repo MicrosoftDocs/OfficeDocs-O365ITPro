@@ -36,9 +36,7 @@ We're looking forward to hearing from you and we'd like to use this article as a
 For the list of features we've released for the Microsoft 365 admin center, see [What's new in the Microsoft 365 admin center](Office365-Admin/whats-new-in-preview.md).
 
 ## In the works
-
-### July 2019
-Here's a list of features that will most-likely be released in July 2019. 
+Here's a list of features that will most-likely be released in July or later. 
 
 **Dark theme**<br>
 Adding a dark theme for the admin center.
@@ -48,7 +46,7 @@ Adding a dark theme for the admin center.
 **Global reader role** <br>
 Adding a new limited admin role that gives users read-ony access to all administrative features in the admin centers. <br>
 [Vote or give feedback for global reader](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/10827459-read-only)
- 
+
 **Add user template**<br>
 You always add a user with the same defaults like assigning licenses and user roles. Create a template to add users with your org's defaults with just one click. <br>
 [Vote or give feedback for automated tasks](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/16255120-new-user-templates)
