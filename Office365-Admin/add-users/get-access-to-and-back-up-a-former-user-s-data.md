@@ -65,7 +65,7 @@ As global admin you have access to the content in a user’s OneDrive site, but 
 
     If you get a message that you don't have permission to access the admin center, then you don't have administrator permissions in your organization.
 
-2. In the left pane, choose **Admin centers** > **SharePoint**.
+2. In the left pane, choose **Admin centers** \> **SharePoint**.
 
 3. In the left pane, choose **User Profiles**.
 
