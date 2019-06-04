@@ -31,9 +31,6 @@ We're continuously adding new features to [the Microsoft 365 admin center](micro
 ### May's featured fix - Case sensitivity
 Now when you search for shared mailboxes, contacts, resources, and mailbox permissions, your search terms don't have to be case-sensitive. 
 
-**User & groups management** <br>
-Quite a few changes this month. Hope you like the new **Add user** wizard we added last month. 
- 
 **User and group management**<br>
 This month, we updated **Block user**, **Reset password**, **Contacts** list view, **Groups** list view, and the **Groups** details pages to the new admin center style. With the new **Groups** list view, you get richer data about your groups, quick actions in the command bar, and you can customize the way you see your data -- and the groups list remembers how you want to see your data. 
 
