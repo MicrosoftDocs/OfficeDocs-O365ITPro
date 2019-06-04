@@ -98,7 +98,7 @@ The following table shows how each type of guest and external user can access fi
 |**Conversation-level guest that is in your network**|**Private group**: can view files that have been shared in the conversation, but can't upload files.<br>**Public group**: Can view, edit, and upload files.|
 |**Network-level guest that is also an Azure B2B guest, and also a member of the group in Office 365**|Can view, edit and upload files.|
 |**Azure B2B guest, but not a member of a the group<br/>Network-level guest<br/>Conversation-level guest that is not in your network**|No file access by default. These users can request access to specific files.<br/>Can't upload files.|
-|**Network-level guest, but not Azure B2B guest**| No file access. These users must become an Azure B2B guest and a member of the group in Office 365. Alternatively, other group members can grant access to specfic files or the entire document library via one of many SharePoint external sharing methods.|
+|**Network-level guest, but not Azure B2B guest**| No file access. These users must become an Azure B2B guest and a member of the group in Office 365. Alternatively, other group members can grant access to specific files or the entire document library via one of many SharePoint external sharing methods.|
 |||
 
 > [!NOTE]
@@ -114,11 +114,11 @@ For more information about Azure B2B guests, see [Guest user access in an Azure 
     
     - Yammer on iOS - 7.33.0  
 
-    - Yammer onAndroid - 5.5.84 
+    - Yammer on Android - 5.5.84 
 
     - Yammer desktop on Windows or Mac - 3.4.2
 
-- Cookie and browswer requirements
+- Cookie and browser requirements
  
     To store Yammer files in SharePoint, we use the ADAL library and use Azure Directory (AAD) tokens for authentication. If browsers don’t have third party cookies enabled or if the security zone settings are incorrect in Internet Explorer 11 or Edge, the ADAL library used to refresh AAD tokens can't send information needed to AAD. 
 
