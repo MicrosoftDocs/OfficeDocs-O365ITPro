@@ -35,8 +35,6 @@ Admins can control whether to allow guest access to Groups for their whole organ
     
 2. Go to **Users** \> **Guest users**.
     
-    ![Expand the Users section on the navigation pane to manage your Guest Users](../media/f16dc4a1-94a4-481f-afe1-58f38eb8b15f.png)
-  
 ### Add existing guests to an Office 365 Group
 
 If the guest already exists in your directory (see above) you can add them to your groups from the Office Admin Center or the Exchange Admin Center.
@@ -44,8 +42,6 @@ If the guest already exists in your directory (see above) you can add them to yo
 1. Sign in with your Office 365 global admin account at [https://admin.microsoft.com/AdminPortal/Home#/homepage](https://admin.microsoft.com/AdminPortal/Home#/homepage#/homepage).
     
 2. Go to **Groups** \> **Groups**.
-    
-    ![Expand the Groups section on the navigation pane to manage your groups](../media/d0666f42-b4f8-45e9-8c0e-b0f7102377e9.png)
   
 3. Select the group you want to add the guest to, and choose **Edit** in the **Members** section. 
     
@@ -79,10 +75,11 @@ By default, the Sharing option in your organization is turned on. This option al
 1. Sign in with your admin account at [https://admin.microsoft.com/adminportal/home](https://admin.microsoft.com/adminportal/home#/homepage).
     
 2. In the navigation menu, choose **Settings** then **Security &amp; privacy**. 
+
+3. Next to **Sharing**, click **Edit**. 
     
-3. Set the On / Off toggle for **Allow adding of new guests to my organization**.
+4. Set the On / Off toggle for **Let users add new guests to the organization**.
     
-    ![Allow adding of guest users to my organization](../media/1d757db1-0c19-4028-a190-50fb41994c98.png)
   
 ### Manage who can add guest users
 <a name="BKMK_UsetheadminCtr"> </a>
@@ -92,14 +89,9 @@ By default, the Sharing option in your organization is turned on. This option al
 2. In the navigation menu, choose **Settings** then **Services &amp; add-ins**.
     
 3. Choose **Office 365 Groups**.
-    
-    ![Office 365 groups](../media/e25a7920-254c-4da3-bc5f-a8c7f6b61423.png)
   
-4. On the **Office 365 Groups** page, set the toggle to **On** or **Off**, depending on whether you want to let people outside your organization access group resources.
-    
-    If you turn this toggle on, you'll see another option to control whether you want to let group owners add people outside your organization to groups. Set this toggle to **On** if you want to let group owners add guest users. 
-    
-    ![Let people outside my organization access Office 365 groups and resources](../media/76c1f529-1b0d-4e9d-907a-2def05e602ad.png)
+4. On the **Office 365 Groups** page, select or clear the check boxes, depending on whether you want to let people outside your organization access group resources or let group owners add people outside your organization to groups.
+ 
   
 ## Use PowerShell to control guest access
 <a name="bkmk_UsePowerShell"> </a>
