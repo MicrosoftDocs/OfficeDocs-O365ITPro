@@ -94,6 +94,5 @@ Here are the features and settings you'll find in the left-hand navigation of th
     
 - Manage Office 365 groups: [Create and manage Office 365 groups in Admin Center](../create-groups/create-groups.md)
     
-
-    
+  
 
