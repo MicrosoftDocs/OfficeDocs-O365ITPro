@@ -37,7 +37,7 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
   
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. Choose the user > **More (...)**. 
+2. Click the user's name, and then click **Manage username**.
     
 3. In the first box, type the first part of the new email address. If you added your own domain to Office 365, you can choose the domain for the new email alias by using the drop-down list. 
 
@@ -48,26 +48,24 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
   - If you get the error message " **A parameter cannot be found that matches parameter name 'EmailAddresses**" it means that it's taking a bit longer for Office 365 to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the setup process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.
     
   - If you get the error message " **We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name. 
-    
-    ![The Edit email addresses and username pane showing the primary email address, and a new alias to be added.](../media/2518a8b8-1136-4639-b159-35ad21f61437.png)
+
 
 ## Set the primary email address 
   
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. Choose the user > **More (...)** > **Manage email aliases**. 
+2. Click the user's name, and then click **Manage email aliases**.
 
-1. Choose **Set as Primary** for the email address that you want to set as the primary email address for that person. 
+3. Choose **Set as Primary** for the email address that you want to set as the primary email address for that person. 
     
     **IMPORTANT**: You won't see this option to Set as Primary if you purchased Office 365 from GoDaddy or another Partner service that provides a management console. Instead, sign in to the GoDaddy / partner's management console to set the primary alias. 
     
     Also, you'll only see this option if you're an Office 365 global admin. If you don't see the option, you don't have permissions to change a user's name and primary email address.
-    
-    ![The Edit email addresses and username pane showing the primary email address, and an alias that can be set as the primary email address.](../media/2de59654-fd2d-4a65-8eb0-c49079c4a4e9.png)
+
   
-6. You'll see a big yellow warning that you're about to change the person's sign-in information. Choose **Save**, then **Close**.
+4. You'll see a big yellow warning that you're about to change the person's sign-in information. Choose **Save**, then **Close**.
     
-7. Tell the person the following information:
+5. Tell the person the following information:
  
   - This change may take a while to take effect.
   
@@ -83,7 +81,7 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-2. Select the user > **More (...)** > **Edit contact information**. .  
+2. Click the user's name, and then click **Manage contact information**.
 
 3. In the Display name box, type a new name for the person and then choose **Save**.
 

@@ -156,15 +156,13 @@ In this step, you assign the former employee's email address to another employee
 
 ::: moniker-end
 
-2. In the Microsoft 365 admin center, select **User management**.
+2. In the Microsoft 365 admin center, select **Users ** > **Active users**.
 
-3. Choose the employee that you want to block and select the **Mail** tab.
+3. Click the name of the employee that you want to block and select the **Mail** tab.
 
 4. Under **Email Forwarding** choose **Manage email forwarding**.
 
 5. Turn on **Forward all email sent to this mailbox**. In the **Forwarding address** box, type the email address of the current employee (or shared mailbox) who's going to get the email. 
-    
-    ![Add the email address of the current employee.](../media/d1525aa0-0c68-4337-ba18-95c40562cc52.png)
   
 6. Choose **Save**. 
     
@@ -194,10 +192,6 @@ If your former employee had a organization phone, you can use the Exchange admin
 ::: moniker-end
 
 2. In the admin center, in the lower-left navigation pane, expand **Admin centers** and select **Exchange**. 
-    
-    Your screen might look like one of the following images:
-    
-    ![admin centers](../media/0df0cf37-04b2-4051-8d45-8594587c5fa8.png)
   
 3. In the Exchange admin center, navigate to **Recipients** \> **Mailboxes**. 
     

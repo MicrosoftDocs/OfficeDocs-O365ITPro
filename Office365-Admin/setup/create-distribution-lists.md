@@ -55,9 +55,7 @@ Go to the [admin center](https://login.partner.microsoftonline.cn).
     Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
     
 2. Choose **Groups** in the left navigation pane. 
-    
-    ![See your new Office 365 groups in the admin center preview](../media/d434fa62-aff7-4d56-a0c2-2a49b95467a6.png)
-  
+      
 3. Under **Type** of group, select the dropdown and choose **Distribution list**.
     
     ![Add a group page - Choose the dropdown and choose distribution list](../media/fb663b0a-b6f2-4487-8bdd-0777ed50b735.png)

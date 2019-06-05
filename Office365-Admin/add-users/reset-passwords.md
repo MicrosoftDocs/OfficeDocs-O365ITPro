@@ -88,17 +88,13 @@ These steps are only for people using an Office 365 business plan. To do them, y
 - Use these steps if you forgot your password but you're able to sign in to Office 365 because, for example, your password is saved in your browser: 
     
     1. In Office 365, choose **Settings** \> **Office 365** \> **Personal info**. 
-        
-        ![An image that shows where to click on Settings.](../media/5d13d864-09dd-45be-b60e-28a977ecc13e.png)
-      
+          
     2. Double-check that your **Contact details** and **Alternate email** are accurate. If not, change them now. 
         
     3. Sign out of Office 365: click on your name in the upper right corner (in the above image, shown as **Diane**) \> **Sign out**. 
         
     4. Now sign in again: type your user name \> **Next** \> and then choose **Forgot password**. 
-        
-        ![Choose Forgot my password](../media/06a9e4b6-8fcd-45fe-9f37-b33511bc72fb.png)
-      
+    
     5. Follow the steps in the wizard to reset your password. It uses your alternate contact info to verify you're the right person to reset your password. 
     
 - If you forgot your password and can't sign in: 

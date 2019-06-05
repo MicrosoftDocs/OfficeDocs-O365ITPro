@@ -87,7 +87,7 @@ Here are the steps you'll do when you run the setup wizard:
     > [!NOTE]
     > You can also update your account to the new domain on the **Users** page. 
   
-    ![admin center](../media/fa684809-8a8b-461a-a0e1-03e9e22134d2.png)
+    ![admin center](../media/0b886dad-6238-48ae-8dda-3102b68fa9ae.png)
   
 If you get stuck at any point, call us. [We're here to help!](../contact-support-for-business-products.md)
   

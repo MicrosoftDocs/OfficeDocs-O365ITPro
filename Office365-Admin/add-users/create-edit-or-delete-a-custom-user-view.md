@@ -45,9 +45,9 @@ A few things to note about standard views:
   
 ## Choose the filters for your custom user view
 
-You can create and edit your custom views on the **Custom filter** page. If you select multiple filter options, you get results that contain users who match all the selected criteria. The following example shows you how to create a custom view named "Canadian users" that shows all users on a specific domain who are in Canada. 
+You can create and edit your custom views in the **Custom filter** pane. If you select multiple filter options, you get results that contain users who match all the selected criteria. The following example shows you how to create a custom view named "Canadian users" that shows all users on a specific domain who are in Canada. 
   
-![Custom filter conditions](../media/0fbf9bcb-b467-4a74-aae9-4bf467f32ad3.png)
+![Custom filter conditions](../media/users-custom-filter.png)
   
  **A - Domain** If you have multiple domains for your organization, you can choose from a drop-down list of domains that are available. 
   

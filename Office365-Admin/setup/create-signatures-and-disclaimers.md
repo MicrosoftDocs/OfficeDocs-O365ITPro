@@ -52,9 +52,7 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 ::: moniker-end
 
 1. Click the app launcher ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png), and then click **Admin**.
-    
-    ![The Office 365 app launcher with the Admin app highlighted](../media/4eea9dbc-591b-48be-9916-322d41c6525b.png)
-  
+   
     Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
     
 2. Choose **Admin centers**, and then click **Exchange**.

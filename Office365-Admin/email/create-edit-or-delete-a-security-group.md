@@ -44,53 +44,38 @@ There are also [Groups in Exchange Online and SharePoint Online](#groups-in-exch
 ### Add a security group
 
 1. Navigate to **Groups** \> **Groups**.
-    
-    > [!TIP]
-    > You can also enter text similar to add security group into the Tell me what you want to do ... search box and the **New Group** dialog will open if you choose **Add a group** from the Tasks list. 
-  
-    ![In the admin center preview choose Groups and then Groups](../media/bb083666-22f7-41c1-b9d8-2b4a878118c4.png)
   
 2. On the **Groups** page, choose **Add a group**.
     
-3. In the **Type** drop-down, choose Security group 
+3. In the **Type** drop-down, choose Security. 
     
 4. Type a name and description for the group, and then choose **Add** \> **Close**. 
     
-5. To add members, select the Security group on the **Groups** page and choose **Edit members** on the **Bulk actions for groups selected** dialog. 
+5. To add members, click the security group name on the **Groups** page, choose the **Members** tab, and then choose **View all and manage members**. 
     
-    Type the name of the person you want to add in the **Search** box and then choose **Add**.
+6. In the group pane, choose **Add members** and select the person from the list or type the name of the person you want to add in the **Search** box, and then choose **Save**.
     
-    To remove members choose **Remove** next to their name. 
+    To remove members, choose the X next to their name. 
     
 ### Edit a security group
 
 1. Navigate to **Groups** \> **Groups**.
-    
-    > [!TIP]
-    > You can also enter text similar to add security group into the Tell me what you want to do ... search box and the **New Group** dialog will open if you choose **Add a group** from the Tasks list. 
   
-    ![In the admin center choose Groups](../media/bb083666-22f7-41c1-b9d8-2b4a878118c4.png)
-  
-2. On the **Groups** page, select a group, or select multiple groups by selecting the check box next to the Group names. 
+2. On the **Groups** page, select a group by clicking on its name. 
     
-3. Choose **Edit** in the **Security group** dialog to edit either **Members** or **Details**.
+3. In the **Security group** pane, choose the **General** tab or the **Members** tab to edit either group details or members.
     
     You can edit the security group name and description in the **Details**.
     
-4. After you've made changes on the **Details** or **Members** pages, choose **Save and close**.
+4. After you've made changes choose **Save** and **Close**.
     
 ### Delete a security group
 
 1. Navigate to **Groups** \> **Groups**.
-    
-    > [!TIP]
-    > You can also enter text similar to add security group into the **Tell me what you want to do ...** search box and the **New Group** dialog will open if you choose **Add a group** from the Tasks list. 
-  
-    ![In the admin center choose Groups](../media/bb083666-22f7-41c1-b9d8-2b4a878118c4.png)
   
 2. On the **Groups** page, select a group by clicking on its name. 
     
-3. In the **Security group** dialog, choose **Delete group** \> **Delete**.
+3. In the **Security group** pane, choose **Delete group** (wasetbin icon), and then confirm by choosing **Delete**.
     
     Choose **Close** once the group is deleted. 
     
