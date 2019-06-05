@@ -3,7 +3,7 @@ title: "Yammer file storage overview"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 5/28/2019
+ms.date: 6/5/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -18,7 +18,7 @@ description: "Where files are stored in Yammer depends on whether or not the net
 
 # Yammer file storage overview
 
-As of May 2019, Yammer is rolling out changes to file storage for files uploaded to Yammer in Office 365 connected Yammer groups. Formerly, all files uploaded to Yammer were stored in Yammer cloud storage. Once your organization gets these changes, all new files uploaded through Yammer in Office 365 connected Yammer groups will be stored in the group's SharePoint document libraries. These files can still accessed from within Yammer. 
+As of May 2019, Yammer is rolling out changes to file storage for files uploaded to Yammer in Office 365 connected Yammer groups. Formerly, all files uploaded to Yammer were stored in Yammer cloud storage. Once your organization gets these changes, all new files uploaded through Yammer in Office 365 connected Yammer groups will be stored in the group's default SharePoint document library. These files can still accessed from within Yammer. 
 
 For information about using Yammer files stored in SharePoint, see the following topics: 
 
@@ -40,8 +40,6 @@ For end users:
   
 - A familiar user interface for file navigation and management in SharePoint. 
   
-- Better file organization using folders to organize content.
- 
 - Greater discoverability and easier access via Microsoft search. 
 
     Users with appropriate permissions can find and access the files through Yammer, and can also access the files through SharePoint and other Office 365 resources by using browse or search in SharePoint and Delve.  
@@ -64,7 +62,7 @@ Files will continue to be stored in Yammer cloud storage in the following instan
  
   - Office 365 tenants that have more than one Yammer network  
   
-  - Yammer  networks that don't enforce Office 365 identity  
+  - Yammer networks that don't enforce Office 365 identity  
 
   - Yammer Basic networks  
  
@@ -75,6 +73,13 @@ Files will continue to be stored in Yammer cloud storage in the following instan
     - Yammer private messages.  
   
     - Existing files stored in Yammer legacy storage will not be moved to SharePoint.  
+
+- If your organization is using a third-party app that uses Yammer Files APIs:
+
+  - If we detect that you are currently using the Yammer Files APIs, even if you're using connected groups, files for your tenant will be stored in legacy storage until your app is updated to be an Azure Marketplace app that calls Yammer APIs. We’ll share details on how to create an Azure Marketplace Yammer app soon. If you're a developer and have questions about this change, please email api@yammer-inc.com.
+
+      >[NOTE]
+      > If you create a third-party app that uses Files APIs after your organization has received the Yammer files in SharePoint feature, file calls will fail. Users will see an HTTP 401 error (unauthorized client error) because the Yammer OAuth token does not include claims from Azure Active Directory, which is required for accessing files stored in SharePoint.
 
  > [!NOTE]
  > Moving a conversation to an Office 365 connected Yammer group will not change where the file is stored. 
@@ -93,10 +98,49 @@ The following table shows how each type of guest and external user can access fi
 |**Conversation-level guest that is in your network**|**Private group**: can view files that have been shared in the conversation, but can't upload files.<br>**Public group**: Can view, edit, and upload files.|
 |**Network-level guest that is also an Azure B2B guest, and also a member of the group in Office 365**|Can view, edit and upload files.|
 |**Azure B2B guest, but not a member of a the group<br/>Network-level guest<br/>Conversation-level guest that is not in your network**|No file access by default. These users can request access to specific files.<br/>Can't upload files.|
-|**Network-level guest, but not Azure B2B guest**| No file access. These users must become an Azure B2B guest and a member of the group in Office 365. Alternatively, other group members can grant access to specfic files or the entire document library via one of many SharePoint external sharing methods.|
+|**Network-level guest, but not Azure B2B guest**| No file access. These users must become an Azure B2B guest and a member of the group in Office 365. Alternatively, other group members can grant access to specific files or the entire document library via one of many SharePoint external sharing methods.|
 |||
 
 > [!NOTE]
 > Membership in the group for guests in Azure Active Directory (AAD) and Yammer are completely separate. Deleting a network-level guest from an Office 365 connected Yammer group or from the tenant in AAD does not remove the user in Yammer, and deleting a user from Yammer does not delete the user from an Office 365 group or AAD. 
 
 For more information about Azure B2B guests, see [Guest user access in an Azure Active Directory B2B](https://docs.microsoft.com/azure/active-directory/b2b/what-is-b2b).
+
+## Requirements
+
+- Yammer version requirements 
+
+    Ensure your users are using the most recent Yammer versions. At a minimum, users should be using the following or newer versions:
+    
+    - Yammer on iOS - 7.33.0  
+
+    - Yammer on Android - 5.5.84 
+
+    - Yammer desktop on Windows or Mac - 3.4.2
+
+- Cookie and browser requirements
+ 
+    To store Yammer files in SharePoint, we use the ADAL library and use Azure Directory (AAD) tokens for authentication. If browsers don’t have third party cookies enabled or if the security zone settings are incorrect in Internet Explorer 11 or Edge, the ADAL library used to refresh AAD tokens can't send information needed to AAD. 
+
+    When a token refresh call fails, users will see:
+
+    - On the Yammer page for a connected group, Office 365 Resources will be grayed out
+
+    - File operations will fail
+
+    - Yammer live events can't be created
+
+     For more information see [A silent sign-in request was sent but no user is signed in](https://github.com/AzureAD/azure-activedirectory-library-for-js/wiki/FAQs#q6-aadsts50058-a-silent-sign-in-request-was-sent-but-no-user-is-signed-in).
+
+    To avoid problems:
+
+    - Ensure there aren’t any extensions that block or prevent reading of cookies, such as Ghostery.
+
+    - In Internet Explorer 11 or Edge, ensure protected mode is disabled for the trusted zone.
+
+        Yammer.com and related URLs should be a part of trusted zone. For more information, see [Office 365 URLs and IP address ranges](https://support.office.com/en-gb/article/office-365-urls-and-ip-address-ranges-8548a211-3fe7-47cb-abb1-355ea5aa88a2#bkmk_yammer)
+
+    - In complex environments, especially those using wildcard configurations such as *.fabrikam.com, additional effort may be required to find the right configuration. URLs may need to be moved between zones, or replaced with the absolute versions in some cases.
+      
+    - Users shouldn’t access Yammer by using incognito or InPrivate mode or equivalent modes in other browsers.
+ 
