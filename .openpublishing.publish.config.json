@@ -51,6 +51,20 @@
       "template_folder": "_themes"
     },
     {
+      "docset_name": "OfficeDocs-O365MileIQ",
+      "build_source_folder": "Office365-MileIQ",
+      "build_output_subfolder": "OfficeDocs-O365MileIQ",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
       "docset_name": "OfficeDocs-O365Planner",
       "build_source_folder": "Office365-Planner",
       "build_output_subfolder": "OfficeDocs-O365Planner",
