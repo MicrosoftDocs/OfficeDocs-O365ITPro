@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 audience: Admin
-ms.date: 05/16/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -25,11 +25,16 @@ Users are invited to install and register on Kaizala by SMS when an admin has ad
 
 ## Supported countries for SMS delivery
 
-- India
-- Philippines
-- Kenya
-- Cambodia
+- Argentina
 - Bangladesh
+- Cambodia
+- India
+- Israel
+- Kenya
+- Lebanon
+- Morocco
+- Philippines
+- Saudi Arabia
 
 This list will be updated periodically as the feature expands to more regions.
 
