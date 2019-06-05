@@ -32,7 +32,9 @@ We're continuously adding new features to [the Microsoft 365 admin center](micro
 Now when you search for shared mailboxes, contacts, resources, and mailbox permissions, your search terms don't have to be case-sensitive. 
 
 **User and group management**<br>
-This month, we updated **Block user**, **Reset password**, **Contacts** list view, **Groups** list view, and the **Groups** details pages to the new admin center style. With the new **Groups** list view, you get richer data about your groups, quick actions in the command bar, and you can customize the way you see your data -- and the groups list remembers how you want to see your data. 
+This month, we updated **Block user**, **Reset password**, **Contacts** list view, **Groups** list view, and the **Groups** details pages to the new admin center style.
+- With the new **Groups** list view, you get richer data about your groups, and you can customize the way you see your data -- and the groups list remembers how you want to see your data. For example, you can now filter on **Groups with Teams** to see if your groups are part of a Team and you can add the **Teams status** column.
+- The groups list also brings with it all the improvements we made to the list experience in user management, including quick actions and the contextual command bar. 
 
 **Recommendations**<br>
 You might see a new recommendation pop-up in your admin center - we just added 5 new ones. Of course, you'll only see recommendations if we think it will benefit your organization. But don't wait until we show you the recommendation - you can add it from the card library.
