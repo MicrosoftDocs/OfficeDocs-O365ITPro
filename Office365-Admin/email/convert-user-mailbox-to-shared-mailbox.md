@@ -89,8 +89,6 @@ Here's how you convert a mailbox to a shared mailbox:
 
 ::: moniker-end
 
-2. In the admin center, expand **Users** \> **Active Users**.
-
 2. Choose the user whose mailbox you want to convert.
 
 3. In the right pane, choose **Mail**. Under **More actions**, choose **Convert to shared mailbox**.
