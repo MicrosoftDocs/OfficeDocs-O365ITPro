@@ -67,7 +67,7 @@ Here's how you convert a mailbox to a shared mailbox:
     
 6. For everything else you need to know about shared mailboxes, please see [Create a shared mailbox](create-a-shared-mailbox.md).
 
-## Convert the mailbox using the office365 admin center
+## Convert the mailbox using the office 365 admin center
 
 - Mailboxes can be converted directly from the admin center as well
 
