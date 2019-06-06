@@ -60,7 +60,7 @@ description: "Run your small business with Microsoft email, manage your calendar
         </a>
     </li>
     <li>
-        <a href="https://review.docs.microsoft.com/en-us/Office365/SmallBusiness/build-your-small-business/what-s-trending?branch=Kwekua-IdleTimeOut" target="_blank">
+        <a href="https://docs.microsoft.com/en-us/Office365/SmallBusiness/build-your-small-business/what-s-trending?branch=Kwekua-IdleTimeOut" target="_blank">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
