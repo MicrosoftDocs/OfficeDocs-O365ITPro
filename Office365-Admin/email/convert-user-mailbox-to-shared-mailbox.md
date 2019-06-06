@@ -97,7 +97,7 @@ Here's how you convert a mailbox to a shared mailbox:
 
 4. If the mailbox is smaller than 50GB, you can remove the [license from the user](../subscriptions-and-billing/remove-licenses-from-users.md), and stop paying for it. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor. If you are converting the mailbox of an employee that is leaving your organization, you should take additional steps to make sure that they cannot log in anymore. See [Remove a former employee from Office 365](../add-users/remove-former-employee.md).
     
-6. For everything else you need to know about shared mailboxes, please see [Create a shared mailbox](create-a-shared-mailbox.md).
+5. For everything else you need to know about shared mailboxes, see [Create a shared mailbox](create-a-shared-mailbox.md).
 
 
 ## Convert the mailbox of a deleted user
