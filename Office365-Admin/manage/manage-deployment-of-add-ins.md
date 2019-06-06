@@ -168,9 +168,9 @@ To turn off add-in acquisition:
     
 2. Click **Settings** \> **Services &amp; add-ins**.
     
-3. Click **Office Online**.
+3. Click **Office Store**.
     
-4. Click the toggle next to **Allow peple to use third-party hosted storage services** so that it's in the **Off** position. 
+4. Click the toggle next to **Let people in your organization go to the Office Store** so that it's in the **Off** position. 
     
 This will prevent all users from acquiring the following add-ins from the store.
   
@@ -274,9 +274,11 @@ If the deployed add-in doesn't support add-in commands or if you want to view al
   
 ### In Outlook
 
-1. On the **Home** ribbon, choose **Get Add-ins**.<br/>![Store button in Outlook](../media/getaddinsicon.png)
+1. On the **Home** ribbon, choose **Store**.<br/>![Store button in Outlook](../media/7e4af05a-17f7-46a3-a630-077b9657b7e6.png)
   
-2. Choose **Admin-managed** in the left nav.
+2. Choose **My add-ins** in the left nav. 
+
+3. Look for an add-in that has a status set to **Installed by your administrator**.<br/>![An admin installed add-in in Outlook store](../media/118a6c75-6a3e-4e6b-b9a0-06c0bd7c6e0c.png)
   
 ## Learn more
 
