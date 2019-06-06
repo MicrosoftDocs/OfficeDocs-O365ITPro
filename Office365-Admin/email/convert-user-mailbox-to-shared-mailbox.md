@@ -91,7 +91,7 @@ Here's how you convert a mailbox to a shared mailbox:
 
 2. In the admin center, expand **Users** \> **Active Users**.
 
-3. Choose the user whose mailbox nees to be converted
+3. Choose the user whose mailbox needs to be converted.
 
 4. Expand Mail settings, Under **More Settings**, click **Convert to Shared mailbox**.
 
