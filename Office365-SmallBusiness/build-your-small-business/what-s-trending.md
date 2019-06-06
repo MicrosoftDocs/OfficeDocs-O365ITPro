@@ -26,7 +26,7 @@ These articles help troubleshoot issues that can occur with your Office 365 subs
 
 - [I'm getting a 5.7.705 access denied error when I try to send email](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)
 
-- [Understand my subscriptions and licenses](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/subscriptions-and-licenses?view=o365-worldwide)
+- [Help me understand my subscriptions and licenses](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/subscriptions-and-licenses?view=o365-worldwide)
 
 - [I want to add another Office 365 subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription?view=o365-worldwide)
 

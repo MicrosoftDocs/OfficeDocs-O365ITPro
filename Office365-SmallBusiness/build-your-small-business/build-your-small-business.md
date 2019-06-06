@@ -338,7 +338,7 @@ description: "Run your small business with Microsoft email, manage your calendar
                             </div>
                         </div>
                         <div class="cardText">
-                            <h3>Monthly webinar series</h3>
+                            <h3>Office 365 webinar series</h3>
                         </div>
                     </div>
                 </div>
