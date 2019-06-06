@@ -71,12 +71,6 @@ Office 365 Business Premium and Office 365 Business include Office apps. For det
   
 ## How do I determine what subscription I have?
 
-In the admin center, choose **Billing** \> **Subscriptions**. 
-  
-Your subscription name is displayed on the page.
-  
-![Go to Billling to view your subscriptions](../media/871a31e7-98bf-406e-9098-1a2da6a7cab0.gif)
-  
-Read [full article](../admin-overview/what-subscription-do-i-have.md).
+To determine your subscription, see [What subscription do I have?](../admin-overview/what-subscription-do-i-have.md)
   
 

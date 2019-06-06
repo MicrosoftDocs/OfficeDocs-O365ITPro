@@ -91,17 +91,13 @@ But what if an admin simply resets the password of the shared mailbox user accou
 
 1. In the Microsoft 365 admin center, select **Users** \> **Active users**.
 
-2. In the list of user accounts, find the account for the shared mailbox (for example, change the view to **Unlicensed users**) and then select the account.
+2. In the list of user accounts, find the account for the shared mailbox (for example, change the filter to **Unlicensed users**).
 
-3. In the properties flyout, click **Block sign-in**.
+3. Click the user to open their properties pane, and then click the **Block this user** icon ![Screen shot of the Block this user icon](../media/block-user-icon.png).
 
-   ![Account properties in the M365 admin center](../media/m365-account-properties-block-sign-in.png)
+   **Note**: If the account is already blocked, **Sign in blocked** will appear at the top and the icon will read **Unblock this user**.
 
-   **Note**: If the account was already blocked, the button would say **Unblock sign-in**.
-
-4. In the **Edit sign-in status** flyout, verify that **Block the user from signing in** is selected, click **Save**, and then click **Close**.
-
-   ![Edit sign-in status flyout in the M365 admin center](../media/m365-edit-sign-in-status.png)
+4. On the **Block this user?** pane, select **Block the user from signing in**, and then click **Save changes**.
 
 For instructions on how to block sign-in for accounts using Azure AD PowerShell (including many accounts at the same time), see [Block user accounts with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/block-user-accounts-with-office-365-powershell).
 

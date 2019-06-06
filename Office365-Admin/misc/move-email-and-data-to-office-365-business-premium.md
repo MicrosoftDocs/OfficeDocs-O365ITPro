@@ -42,19 +42,13 @@ If you want to move some of your personal data over to your new business identit
 1. Go to [admin.microsoft.com](https://go.microsoft.com/fwlink/?LinkId=816877) and sign in with your Office 365 Business user name and password. 
     
 2. Select the **app launcher** icon in the upper-left and then choose **OneDrive**.
-    
-    ![The Office 365 app launcher with the OneDrive app highlighted](../media/c292e58a-6ee3-4288-9ea9-ce627fec8855.png)
   
     > [!TIP]
     > The first time you open OneDrive for Business, you'll need to set up your OneDrive. If this occurs, on the **Welcome to OneDrive for Business** page, choose **Next**. After OneDrive is set up, choose **Your OneDrive is ready**. 
   
 3. You'll be taken to an empty OneDrive folder. If you want to create sub folders, choose **New** \> **Folder**.
-    
-    ![Create a new folder in OneDrive for business.](../media/be749106-75e8-4439-b817-7f08567a58f3.png)
-  
+
 4. Choose **Upload** to copy the files from your hard drive where you copied your OneDrive files. 
-    
-    ![Upload files to OneDrive for business.](../media/7ead68f7-30b3-4bbb-a2e3-2fa16a75c5e5.png)
   
     > [!NOTE]
     >  You can upload individual files and groups of files (such as all files in a particular folder) at one time but you cannot copy a folder to OneDrive for Business. Instead, you'll need to create the folder structure you want on OneDrive for business. >  If you want to copy files to a folder that you created in step 4, open that folder before you upload the files. Otherwise, the files will be uploaded to the root folder. You can also move your files between folders in OneDrive for Business after you've uploaded them. 

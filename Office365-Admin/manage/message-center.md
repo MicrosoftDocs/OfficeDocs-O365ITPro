@@ -30,9 +30,6 @@ To open the Message center:
 
 - In the admin center, go to **Health** > [Message center](https://go.microsoft.com/fwlink/?linkid=2070717).
 
-The dashboard card always displays the last three messages that we posted and links to the full Message center page. 
-  
-![Message center card in the admin center](../media/422efca7-8c35-486a-ad48-68b0e699dece.png)
   
 You can also use the [Office 365 Admin app](https://go.microsoft.com/fwlink/p/?linkid=627216) on your mobile device to view Message center, which is a great way to stay current with push notifications. 
   
@@ -71,7 +68,7 @@ Head over to [Manage messages in Message center](manage-messages.md) to get more
 
 Because **Major updates** are most impactful to your organization, they are highlighted at the top of the Message center as shown in this graphic: 
   
-![Major updates section of the Messge Center.](../media/e103cebc-e284-4f8f-81c3-c353ec850e8f.png)
+![Major updates section of the Messge Center.](../media/message-center-major-updates.png)
   
 Major updates are communicated at least 30 days in advance when an action is required.
   

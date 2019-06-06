@@ -35,11 +35,11 @@ If you need shared contacts that everyone in your organization can get to, creat
 
 To add contacts:
   
-1. On the **Contacts** page choose **Add a contact**.
+1. In the left navigation, choose **Users** \> **Contacts**.
+
+2. On the **Contacts** page, choose **Add a contact**.
   
-![To create a contact, choose Add a contact](../media/2635800f-9bee-4a22-8705-fa4b62bf9294.jpg)
-  
-2. On the **New Contact** page fill in details and choose **Add** to create a contact. 
+3. On the **New Contact** page, fill in details and choose **Add** to create a contact. 
   
 ![Fill in contact information in the New Contact pane](../media/9eb5a649-0734-467f-ba66-255225eedb4b.jpg)
   

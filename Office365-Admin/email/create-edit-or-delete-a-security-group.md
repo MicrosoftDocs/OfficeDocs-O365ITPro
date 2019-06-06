@@ -47,7 +47,7 @@ There are also [Groups in Exchange Online and SharePoint Online](#groups-in-exch
   
 2. On the **Groups** page, choose **Add a group**.
     
-3. In the **Type** drop-down, choose Security. 
+3. In the **Type** drop-down, choose **Security**. 
     
 4. Type a name and description for the group, and then choose **Add** \> **Close**. 
     
@@ -67,7 +67,7 @@ There are also [Groups in Exchange Online and SharePoint Online](#groups-in-exch
     
     You can edit the security group name and description in the **Details**.
     
-4. After you've made changes choose **Save** and **Close**.
+4. After you've made changes choose **Save** \> **Close**.
     
 ### Delete a security group
 

@@ -42,20 +42,12 @@ You get a free version of Azure multi-factor authentication as part of your Offi
 
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
     
-2. **IMPORTANT**: BEFORE you select a user, choose **More (...)** \> **Setup Azure multi-factor authentication**.  
-
-- If you're using the preview version of the admin center, you can find the option for MFA here:  
-
-     ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/mfamenu.png)
- 
-- In the classic version, you'll find it here:
-    
-    ![The More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/fefd9f5b-562a-4359-805f-eab923d438c1.png)
+2. **IMPORTANT**: BEFORE you select a user, click **Multi-factor authentication** above the list of users.
   
 > [!Tip]
-> If you don't see the **More (...)** option, then you aren't a global admin for your subscription. Only global admins can enable or disable MFA.
+> If you don't see the **Multi-factor authentication** option, then you aren't a global admin for your subscription. Only global admins can enable or disable MFA.
 
-3. Find the people for whom you want to enable MFA. In order to see everyone, you might need to change the **Multi-Factor Auth status** view at the top. 
+3. On the **multi-factor authentication** page, find the people for whom you want to enable MFA. In order to see everyone, you might need to change the **Multi-Factor Auth status** view at the top. 
     
     The views have the following values, based on the MFA state of the users:
     
@@ -63,7 +55,7 @@ You get a free version of Azure multi-factor authentication as part of your Offi
     
   - **Enabled** The person has been enrolled in MFA, but has not completed the registration process. They will be prompted to complete the process the next time they sign in. 
     
-  - **Enforced** The person may or may not have completed registration. If they have completed the registration process, then they are using MFA. Otherwise, theywill be prompted to complete the process the next time they sign in. 
+  - **Enforced** The person may or may not have completed registration. If they have completed the registration process, then they are using MFA. Otherwise, they will be prompted to complete the process the next time they sign in. 
     
 4. Select the check box next to the people for whom you want to enable MFA.
     
@@ -95,20 +87,11 @@ Here's how to allow your users to create App passwords:
 
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
     
-2. **IMPORTANT**: Before you select a user, choose **More (...)** \> **Setup Azure multi-factor authentication**.  
-
-- If you're using the preview version of the admin center, you can find the option for MFA here:  
-
-
-     ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/mfamenu.png)
- 
-- In the classic version, you'll find it here:
-    
-    ![The More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/fefd9f5b-562a-4359-805f-eab923d438c1.png)
+2. **IMPORTANT**: BEFORE you select a user, click **Multi-factor authentication** above the list of users.
   
 > [!Tip]
-> If you don't see the **More (...)** option, then you aren't a global admin for your subscription. Only global admins can enable or disable MFA.
-    
+> If you don't see the **Multi-factor authentication** option, then you aren't a global admin for your subscription. Only global admins can enable or disable MFA.
+   
  
 3. On the **multi-factor authentication** page, choose **service settings**.
     

@@ -62,9 +62,7 @@ The help desk card consists of:
     
     Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
     
-3. Choose the settings icon, and then choose **Organization profile**.
-    
-    ![Settings menu with Organization profile selected](../media/4644cb10-9b10-4d60-ae01-0ff4316c6095.png)
+3. Choose the **Settings** \> **Organization profile**.
   
 4. Next to **Provide customized help desk contact info**, choose **Edit**.
     

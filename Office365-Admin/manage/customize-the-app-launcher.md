@@ -39,13 +39,13 @@ You can add your own custom tiles to the app launcher that point to SharePoint s
   
 ## Add a custom tile to the app launcher
 
-1. [Where to sign in to Office 365 for business](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) with your work or school account. 
+1. [Sign in to Office 365 for business](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) with your work or school account. 
     
-2. Select the app launcher icon ![App launcher](../media/9f0af1b1-86e6-43d0-8cee-90132efd4131.png) and choose **Admin**. 
+2. Select the app launcher icon and choose **Admin**. 
     
-3. In the Microsoft 365 admin center, search for **tiles** or use the left navigation pane by choosing **Settings** \> **Organization profile** \> **Add custom tiles for your organization**.<br/>![Add custom tiles for your organization](../media/a0d86f6f-0283-4df1-8d81-4c9e0efdc91d.png)<br/>NOTE: If you don't see the Custom tiles link, verify you have an Exchange Online mailbox assigned to you and you've successfully signed into your mailbox. Both are required for this feature. 
+3. In the Microsoft 365 admin center, search for **tiles** or use the left navigation pane by choosing **Settings** \> **Organization profile** \> **Add custom tiles for your organization** \> **Edit**.<br/><br/>NOTE: If you don't see the Custom tiles section, verify you have an Exchange Online mailbox assigned to you and you've successfully signed into your mailbox. Both are required for this feature.
   
-4. Choose ![Add](../media/c224fbd0-f0f5-46ce-a1a7-73adf4540ef7.png) **Add a custom tile**. <br/>![Add a custom tile details](../media/e9361337-3009-41c7-89a9-fd642e8c5f07.png)
+4. Choose **Add a custom tile**. 
   
 5. Enter a **Tile name** for the new tile. The name will appear in the tile. 
     
@@ -61,9 +61,9 @@ Your custom tile now appears in the app launcher on the **All** tab for you and 
   
 ## Promote the tile to App Launcher
 
-1. Select the app launcher icon ![App launcher](../media/9f0af1b1-86e6-43d0-8cee-90132efd4131.png) and select the **All apps**. 
+1. Select the app launcher icon and select the **All apps**. 
     
-2. Locate the new tile for your app, select the ellipsis, and choose **Pin to Launcher**. <br/>![Pin tile to app launcher](https://user-images.githubusercontent.com/45987684/56323681-ad991900-613a-11e9-89b2-649171554847.PNG)
+2. Locate the new tile for your app, select the ellipsis, and choose **Pin to launcher**.
   
     > [!NOTE]
     > If you don't see the custom tile created in the previous steps, make sure you have an Exchange Online mailbox assigned to you and you've signed into your mailbox at least once. These steps are required for custom tiles in Office 365. 
@@ -73,15 +73,13 @@ Your custom tile now appears in the app launcher on the **All** tab for you and 
   
 ## Edit or delete a custom tile
 
-1. In the Microsoft 365 admin center, search for **tiles** or use the left navigation pane by choosing **Settings** \> **Organization profile** \> **Add custom tiles for your organization** and click ![Edit](../media/41e7590d-1114-490c-9b0d-33fd602a7bb9.png)<br/>![Add custom tiles for your organization](../media/a0d86f6f-0283-4df1-8d81-4c9e0efdc91d.png)
+1. In the Microsoft 365 admin center, search for **tiles** or use the left navigation pane by choosing **Settings** \> **Organization profile** \> **Add custom tiles for your organization** \> **Edit**.
   
 2. Update the **Tile name**, **URL**, **Description**, or **Image URL** for the custom tile (see [Add a custom tile to the app launcher](#add-a-custom-tile-to-the-app-launcher)).
     
 3. Click **Update** \> **Close**. 
     
 To delete a custom tile, from the **Custom tiles** window, select the tile, click **Remove tile** and then click **Delete**. 
-  
-![Edit or delete a custom tile](../media/cc8a36f9-00d8-48ed-b520-4b3540bfea1d.png)
   
 ## What's next?
 

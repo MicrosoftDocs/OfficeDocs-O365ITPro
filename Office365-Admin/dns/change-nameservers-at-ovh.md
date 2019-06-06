@@ -39,8 +39,6 @@ Before you use your domain with Office 365, we have to make sure that you own it
     ![OVH login](../media/1424cc15-720d-49d1-b99b-8ba63b216238.png)
   
 2. Under **Domains**, choose the name of the domain that you want edit.
-    
-    ![OVH select a domain](../media/275315de-a457-430c-bb01-99304481d869.png)
   
 3. Choose **DNS zone**.
     
