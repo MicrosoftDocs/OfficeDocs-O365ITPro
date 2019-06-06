@@ -67,6 +67,39 @@ Here's how you convert a mailbox to a shared mailbox:
     
 6. For everything else you need to know about shared mailboxes, please see [Create a shared mailbox](create-a-shared-mailbox.md).
 
+## Convert the mailbox using the office365 admin center
+
+- Mailboxes can be converted directly from the admin center as well
+
+::: moniker range="o365-worldwide"
+
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+
+::: moniker-end
+
+2. In the admin center, expand **Users** \> **Active Users**.
+
+3. Choose the user whose mailbox nees to be converted
+
+4. Expand Mail settings, Under **More Settings**, click **Convert to Shared mailbox**.
+
+5. If the mailbox is smaller than 50GB, you can remove the [license from the user](../subscriptions-and-billing/remove-licenses-from-users.md), and stop paying for it. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor. If you are converting the mailbox of an employee that is leaving your organization, you should take additional steps to make sure that they cannot log in anymore. Please see [Remove a former employee from Office 365](../add-users/remove-former-employee.md).
+    
+6. For everything else you need to know about shared mailboxes, please see [Create a shared mailbox](create-a-shared-mailbox.md).
+
+
 ## Convert the mailbox of a deleted user
 
 Let's say you've deleted a user account and now you want to convert their old mailbox to a share mailbox. Here's what you need to do:
