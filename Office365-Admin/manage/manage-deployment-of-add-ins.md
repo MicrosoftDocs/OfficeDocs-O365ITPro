@@ -170,9 +170,9 @@ To turn off add-in acquisition:
     
 3. Choose **User owned apps and services**.
     
-4. Uncheck the check-boxes next to  **Let users access the Office store** and **Let users install trial apps and services**.
+4. Uncheck the check-boxes next to  **Let users access the Office store**.
     
-    ![Uncheck both boxes on the User owned apps and services panel.](../media/userownedapps.png)
+    ![Uncheck Let users access the Office Store on the User owned apps and services panel.](../media/userownedapps2.png)
 
 This will prevent all users from acquiring the following add-ins from the store.
   
