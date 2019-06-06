@@ -66,7 +66,7 @@ description: "Run your small business with Microsoft email, manage your calendar
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="../media/a6f29274-004a-46af-a374-30e0d3d39ee8.png" alt="What's trending"/>
+                            <img src="../media/smbtrendingwidget.png" alt="What's trending"/>
                         </div>
                     </div>
                     <div class="cardText">
