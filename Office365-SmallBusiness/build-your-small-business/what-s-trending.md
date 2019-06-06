@@ -22,7 +22,7 @@ description: "Find articles to help you troubleshoot issues with your Office 365
 
 These articles help troubleshoot issues that can occur with your Office 365 subscription. You can also [contact](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone) us any time.
 
-![Conceptual art that shows trending issues.](../media/smbwhatstrending.png)
+![Conceptual art that shows trending issues.](../media/smbtrendingpage.png)
 
 - [I'm getting a 5.7.705 access denied error when I try to send email](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)
 
