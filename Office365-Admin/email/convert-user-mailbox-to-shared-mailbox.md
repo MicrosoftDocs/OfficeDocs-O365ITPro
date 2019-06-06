@@ -69,7 +69,7 @@ Here's how you convert a mailbox to a shared mailbox:
 
 ## Convert the mailbox using the office 365 admin center
 
-- Mailboxes can be converted directly from the admin center as well
+- Mailboxes can be converted directly from the admin center as well.
 
 ::: moniker range="o365-worldwide"
 
