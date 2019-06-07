@@ -38,9 +38,7 @@ Learn how to customize your theme in the Microsoft 365 admin center. As the admi
 3. Navigate to **Settings**![Settings: update your profile, install software and connect it to the cloud](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **Organization profile**.
     
 4. Next to **Manage custom themes for your organization**, click or tap **Edit**.
-    
-    ![Tap or click Edit to change your theme](../media/f777ecde-b165-408b-b9de-d8bc8fb82c89.png)
-  
+
 5. Change the theme elements you want for your organization:
     
   - **Custom logo**: Select the image and upload your own JPG, PNG, or GIF with a resolution of 200 x 30 pixels, no larger than 10 KB. This appears in the top navigation bar on every page.

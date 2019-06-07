@@ -70,8 +70,7 @@ Each person in your business who has an Office 365 license assigned (and SharePo
 Employees can also share OneDrive files and folders. If an employee is away or leaves the company, others can access shared files stored in OneDrive. 
   
 Here's how each person on your team can set up OneDrive and share files.
-  
-![Office 365 home screen with OneDrive select](../media/4e38655d-958c-4517-b622-052c1799b95b.png)
+
   
 1. Go to [office.com](https://admin.microsoft.com) to sign in, and sign in with your user name and password. 
     
@@ -114,8 +113,7 @@ Here's how you get to your team site:
   - The **+New** button to add elements to the home page, such as a document library, list, or new page. 
     
   - The left-hand navigation menu to get to other areas on your team site, like the team document library.
-    
-    ![SharePoint Online Team site home page](../media/fafe9a15-7e5c-470d-99a4-fd56b37064fa.png)
+
   
 ### Upload files to your team site for online collaboration
 
@@ -124,18 +122,12 @@ To help you get started storing and sharing files quickly, your team site comes 
 Here are the steps to add files:
   
 1. On the home page of your team site, choose **Documents** from the left-hand navigation menu. This will take you to your **Documents library**. 
-    
-    ![Team document library](../media/bd4bd33e-dee4-4f33-8eeb-ebf9462c89e2.png)
   
 2. While you're still signed in to Office 365, open Windows **File Explorer** from your taskbar or other location. Go to the files you want to upload to your team site. 
     
 3. Select the files you want to upload to your team site, and then drag them to the **Document library**.
-    
-    ![Drag a file from a desktop folder to your library](../media/047e9412-17b0-479a-a6a8-3ea344416946.png)
   
 4. When you're done, the files will be stored in both your team site and your computer.
-    
-    ![Team site library with files](../media/05e4a103-6e66-4484-ab3a-4eac430c20d3.png)
   
 5. You can delete the files from your computer. In the next step, [Sync online files with your PC or Mac](#sync-online-files-with-your-pc-or-mac), you're going to create a new location for these files on your computer.
     
@@ -156,15 +148,9 @@ Here's how to synchronize files on your team site with your desktop:
     > [!TIP]
     > When syncing files on your team site, you're syncing each file library on the site, not the entire site. 
   
-    ![Team document library](../media/bd4bd33e-dee4-4f33-8eeb-ebf9462c89e2.png)
-  
 2. Choose **Sync** to synchronize all the files. Or browse to the specific folder you want to sync. 
-    
-    ![Document library with Sync button selected](../media/6ec1d32e-57a0-46b7-9f1c-6867f95e4586.png)
-  
+      
 3. If prompted to switch apps, choose **Yes**. OneDrive is the process doing the synchronization.
-    
-    ![Office 365 switch apps prompt](../media/fea88d3c-f6f5-4bb0-863b-1ddb9c630794.jpg)
   
 4. If you then get a **Set up OneDrive** prompt, sign in with your work or school account. 
     
