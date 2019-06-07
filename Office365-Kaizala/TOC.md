@@ -64,7 +64,7 @@
 
 ## [Actions](actions.md)
 
-## [Analytics]
+## Analytics
 ### [Analytics in Kaizala](analytics.md)
 ### [Adoption and activity reports](adoption-and-activity-reports.md)
 ### [Action reports](action-reports.md)
