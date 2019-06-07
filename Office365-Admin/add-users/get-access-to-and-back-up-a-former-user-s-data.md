@@ -35,41 +35,57 @@ description: "Learn how to preserve an employee's files and emails when the pers
 > Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
 
 ::: moniker-end
+
+When an employee leaves your organization, you probably want to access their data (documents and emails) and either review it, back it up, or transfer ownership to a new employee.
   
-When an employee leaves your organization, you probably want to access their data - meaning their documents and emails - and either review it, back it up, or transfer ownership to a new employee.
-  
-If you only remove a user's license but don't delete the account, the content in the user's OneDrive will remain accessible to you even after 30 days.
-  
-Before you delete the account, you should move the content of their OneDrive to another location that's easy for you to access. If you already deleted their account, you have **30 days** to [restore](restore-user.md) it. At that point, the data will be available to you even after 30 days. However, if you don't restore the account, after 30 days the OneDrive content is permanently deleted. 
-  
-To save the content, here's what you do:
-  
-- To preserve a former employee's OneDrive for Business documents you 1) access the former employee's OneDrive for Business, and then 2) move the files.
     
-- To gain access to a former employee's email, you 1) [export the user's Outlook email](#part-2---get-access-to-the-outlook-information-of-the-former-employee) information to a .pst file, and then 2) [import the email](#part-3---give-access-of-former-employees-email-to-another-user) into another employee's Outlook inbox. 
+## Access a former user's OneDrive documents
+
+If you remove a user's license but don't delete the account, you retain access to the content in the user's OneDrive site. If you delete their account you have 30 days to access a former user’s OneDrive data. If you don't [restore a user account](https://docs.microsoft.com/office365/admin/add-users/restore-user) within 30 days their OneDrive content is deleted. Before you delete the account, you should move the content from their OneDrive to another location.
+
+To preserve a former user's OneDrive for Business documents you first access their OneDrive site and then move the files. 
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-## Part 1 - Get access to the former employee's OneDrive for Business documents
+2. Select a user.
 
-1. Sign in to Office 365 with your work or school account. 
-    
-2. Go to the [Microsoft 365 admin center](../admin-overview/about-the-admin-center.md).
+3. In the right pane, choose  **OneDrive**. Under **Get access to files**, choose **Create link to files**.
 
-3. Choose **User management** and on the **Active users** page select the user.
-
-4. Choose **OneDrive** and under **Get access to files**, click **Create link to files**.
-
-5. Click the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. You can also share the link with another user to download the files.
+4. Click the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. You can also share the link with another user to download the files.
 
     > [!NOTE]
     > You can move up to 500 MB of files and folders at a time.
-    > When you use Move to with documents that have version history, only the latest version is moved. To move earlier versions, you need to restore and move each one. 
+    > When you use **Move to** with documents that have version history, only the latest version is moved. To move earlier versions, you need to restore and move each one. 
     
-## Part 2 - Get access to the Outlook information of the former employee
+## Revoke admin access to a user’s OneDrive site
+
+As global admin you have access to the content in a user’s OneDrive site, but you may want to remove your access to a user’s documents. By default, the OneDrive Site Collection Administrator is the owner of the OneDrive account. The following steps describe how to remove a Site Collection Admin from a user’s OneDrive site.
+
+1. Sign in to the <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">admin center</a>  as a global admin or SharePoint admin. 
+
+    If you get a message that you don't have permission to access the admin center, then you don't have administrator permissions in your organization.
+
+2. In the left pane, choose **Admin centers** \> **SharePoint**.
+
+3. In the left pane, choose **User Profiles**.
+
+4. Under **People**, choose **Manage User Profiles**.
+
+5. Enter the user's name and select **Find**.
+
+6. Right-click the user, then select **Manage site collection owners**.
+
+7. Remove the person who no longer needs access to the user's data, then select **OK**.
+
+Learn more about how to add or remove site collection admins [in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-site-collection-administrators#add-or-remove-site-collection-admins-in-the-new-sharepoint-admin-center), or [in the classic SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-site-collection-administrators#add-or-remove-site-collection-admins-in-the-classic-sharepoint-admin-center).
+
+    
+## Access the Outlook data of a former user
 
 To save the email messages, calendar, tasks, and contacts of the former employee, export the information to an Outlook Data File (.pst).
   
 1. [Add the former employee's email](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) to your Outlook (If you [reset the user's password](reset-passwords.md), you can set it to something only you know.)
-
+    
 2. In Outlook, choose **File**.
     
     ![This is what the ribbon looks like in Outlook 2016.](../media/d7f66ed3-9861-4521-b410-e86a58ab15a7.png)
@@ -104,16 +120,19 @@ To save the email messages, calendar, tasks, and contacts of the former employee
     
 Outlook begins the export immediately unless a new Outlook Data File (.pst) is created or a password-protected file is used.
   
-1. If you're creating an Outlook Data File (.pst), an optional password can help protect the file. When the **Create Outlook Data File** dialog box appears, type the  *password*  in the **Password** and **Verify Password** boxes, and then click **OK**. In the **Outlook Data File Password** dialog box, type the  *password*  , and then click **OK**.
+   - If you're creating an Outlook Data File (.pst), an optional password can help protect the file. When the **Create Outlook Data File** dialog box appears, type the  *password*  in the **Password** and **Verify Password** boxes, and then click **OK**. In the **Outlook Data File Password** dialog box, type the  *password*  , and then click **OK**.
     
-2. If you're exporting to an existing Outlook Data File (.pst) that is password protected, in the **Outlook Data File Password** dialog box, type the  *password*  , and then click **OK**.
+  - If you're exporting to an existing Outlook Data File (.pst) that is password protected, in the **Outlook Data File Password** dialog box, type the  *password*  , and then click **OK**.
     
-Check out [Export or backup email, contacts, and calendar to an Outlook .pst file](https://support.office.com/article/14252b52-3075-4e9b-be4e-ff9ef1068f91.aspx) for the steps for Outlook 2010. 
+See how to [Export or backup email, contacts, and calendar to an Outlook .pst file](https://support.office.com/article/14252b52-3075-4e9b-be4e-ff9ef1068f91.aspx) in Outlook 2010. 
   
-## Part 3 - Give access of former employee's email to another user
-<a name="bkmk_import"> </a>
+## Give another user access to a former user's email 
 
-To give access of the email messages, calendar, tasks, and contacts of the former employee to another employee, import the information to another employee's Outlook inbox.
+To give access to the email messages, calendar, tasks, and contacts of the former employee to another employee, import the information to another employee's Outlook inbox.
+
+> [!NOTE]
+> You can also [convert the former user's mailbox to a shared mailbox](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox) or [forward a former employee's email to another employee](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#forward-a-former-employees-email-to-another-employee-or-convert-to-a-shared-mailbox).
+
   
 1. In Outlook, choose **File** \> **Open &amp; Export** \> **Import/Export**.
     
@@ -137,13 +156,17 @@ To give access of the email messages, calendar, tasks, and contacts of the forme
     
 9. Click **Finish**.
     
- **Tip** If you want to import or restore only a few items from an Outlook Data File (.pst), you can open the Outlook Data File, and then, in the navigation pane, click and drag the items from Outlook Data File folders to your existing Outlook folders. 
+> [!TIP]
+> If you want to import or restore only a few items from an Outlook Data File (.pst), you can open the Outlook Data File. Then, in the navigation pane, click and drag the items from Outlook Data File folders to your existing Outlook folders. 
   
-Check out [Import email, contacts, and calendar from an Outlook .pst file](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac.aspx) for the steps for Outlook 2010. 
   
 ## Related Topics
 [Remove a former employee from Office 365](remove-former-employee.md)
 
-[Add and remove admins on a OneDrive account](https://github.com/MicrosoftDocs/OfficeDocs-SharePoint/blob/live/SharePoint/SharePointOnline/manage-user-profiles.md#add-and-remove-admins-on-a-onedrive-account)
+[Add and remove admins on a OneDrive account](https://docs.microsoft.com/sharepoint/manage-user-profiles#add-and-remove-admins-for-a-users-onedrive)
+
+[Manage site collection administrators](https://docs.microsoft.com/sharepoint/manage-site-collection-administrators#add-or-remove-site-collection-admins-in-the-new-sharepoint-admin-center)
+  
+[OneDrive retention and deletion](https://docs.microsoft.com/onedrive/retention-and-deletion)
   
 

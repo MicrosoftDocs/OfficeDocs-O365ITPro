@@ -3,7 +3,7 @@ title: "Yammer file storage overview"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 6/3/2019
+ms.date: 6/5/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -140,5 +140,7 @@ For more information about Azure B2B guests, see [Guest user access in an Azure 
 
         Yammer.com and related URLs should be a part of trusted zone. For more information, see [Office 365 URLs and IP address ranges](https://support.office.com/en-gb/article/office-365-urls-and-ip-address-ranges-8548a211-3fe7-47cb-abb1-355ea5aa88a2#bkmk_yammer)
 
+    - In complex environments, especially those using wildcard configurations such as *.fabrikam.com, additional effort may be required to find the right configuration. URLs may need to be moved between zones, or replaced with the absolute versions in some cases.
+      
     - Users shouldn’t access Yammer by using incognito or InPrivate mode or equivalent modes in other browsers.
  
