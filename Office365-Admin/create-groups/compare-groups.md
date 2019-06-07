@@ -3,7 +3,7 @@ title: "Compare groups in Office 365"
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_TypesOfGroups'
@@ -41,7 +41,7 @@ In the **Groups** section of the Microsoft 365 admin center, you can create and 
 
 ## Office 365 groups
 
-Office 365 groups are used for collaboration between users, both inside and outside your company. With each Office 365 group, members get a group email and shared workspace for conversations, files, and calendar events, and a Planer.
+Office 365 groups are used for collaboration between users, both inside and outside your company. With each Office 365 group, members get a group email and shared workspace for conversations, files, and calendar events, and a Planner.
 
 You can add users external to your company to an Office 365 group as long as this has been [enabled by the administrator](manage-guest-access-in-groups.md). You can also allow external senders to send email to the group email address.
 

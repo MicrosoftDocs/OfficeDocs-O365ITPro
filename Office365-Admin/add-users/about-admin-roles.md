@@ -1,9 +1,9 @@
 ---
 title: "About Office 365 admin roles"
-ms.author: dianef
-author: dianef77
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: overview
 f1_keywords:
 - 'O365P_AssignAdminRoles'
@@ -28,7 +28,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: da585eea-f576-4f55-a1e0-87090b6aaa9d
-description: "Admin roles map to business functions and give permissions to do specific tasks in the admin center. For example, the Service admin opens support tickets with Microsoft."
+description: "Admin roles map to business functions and give permissions to do specific tasks in the admin center. For example, the Service admin opens support tickets with Microsoft.."
 ---
 
 # About Office 365 admin roles
@@ -89,7 +89,7 @@ Certain admin roles in Office 365 have a corresponding role in Exchange Online, 
 |billing admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
 |helpdesk/password admin  <br/> |Help Desk admin\*  <br/> |N/A  <br/> |Help desk admin  <br/> |N/A  <br/> |
 |service admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
-|user management admin  <br/> |N/A  <br/> |N/A  <br/> |Skype for Business admin  <br/> |N/A  <br/> |
+|user management admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
 |Exchange administrator  <br/> |Exchange Online admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
 |SharePoint administrator  <br/> |N/A  <br/> |SharePoint Online admin  <br/> |N/A  <br/> |N/A  <br/> |
 |Skype for Business administrator  <br/> |N/A  <br/> |N/A  <br/> |Skype for Business admin  <br/> |N/A  <br/> |

@@ -3,7 +3,7 @@ title: "Upgrade your Office 365 for business users to the latest Office client"
 ms.author: janellem
 author: janellem
 manager: rayring
-ms.audience: Admin
+audience: Admin
 ms.topic: troubleshooting
 f1_keywords:
 - 'fwlink 824861; CampaignID O365_Comm_SR_UpgradeOffice'

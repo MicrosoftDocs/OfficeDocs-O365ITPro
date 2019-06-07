@@ -1,9 +1,9 @@
 ---
 title: "Convert a user mailbox to a shared mailbox"
-ms.author: dianef
-author: dianef77
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
@@ -12,7 +12,6 @@ ms.collection:
 - Adm_O365
 ms.custom:
 - Adm_O365
-- Core_O365Admin_Migration
 - MiniMaven
 search.appverid:
 - BCS160
@@ -64,11 +63,40 @@ Here's how you convert a mailbox to a shared mailbox:
 
    ![covnerttoshared](https://user-images.githubusercontent.com/45987684/50208599-966a3a80-0397-11e9-8148-8d2595343709.PNG)
 
-5. If the mailbox is smaller than 50GB, you can remove the [license from the user](../subscriptions-and-billing/remove-licenses-from-users.md), and stop paying for it. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor. The user won't be able to sign in using the old account<sup>\*</sup>.
+5. If the mailbox is smaller than 50GB, you can remove the [license from the user](../subscriptions-and-billing/remove-licenses-from-users.md), and stop paying for it. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor. If you are converting the mailbox of an employee that is leaving your organization, you should take additional steps to make sure that they cannot log in anymore. Please see [Remove a former employee from Office 365](../add-users/remove-former-employee.md).
+    
+6. For everything else you need to know about shared mailboxes, please see [Create a shared mailbox](create-a-shared-mailbox.md).
 
-   <sup>\*</sup>The original password is replaced by a system-generated (unknown) password, but the account is still active. However, direct sign-in to a shared mailbox by the associated user account is unnecessary. To block sign-in for the associated user account, see [Block sign-in for the shared mailbox account](create-a-shared-mailbox.md#block-sign-in-for-the-shared-mailbox-account).
+## Convert the mailbox using the office 365 admin center
 
-For everything else you need to know about shared mailboxes, please see [Create a shared mailbox](create-a-shared-mailbox.md).
+- Mailboxes can be converted directly from the admin center as well.
+
+::: moniker range="o365-worldwide"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+2. Choose the user whose mailbox you want to convert.
+
+3. In the right pane, choose **Mail**. Under **More actions**, choose **Convert to shared mailbox**.
+
+4. If the mailbox is smaller than 50GB, you can remove the [license from the user](../subscriptions-and-billing/remove-licenses-from-users.md), and stop paying for it. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor. If you are converting the mailbox of an employee that is leaving your organization, you should take additional steps to make sure that they cannot log in anymore. See [Remove a former employee from Office 365](../add-users/remove-former-employee.md).
+    
+5. For everything else you need to know about shared mailboxes, see [Create a shared mailbox](create-a-shared-mailbox.md).
+
 
 ## Convert the mailbox of a deleted user
 
@@ -78,16 +106,17 @@ Let's say you've deleted a user account and now you want to convert their old ma
 
 2. Make sure an Office 365 license is assigned to it.
 
-3. Wait 20-30 minutes for their mailbox to be recreated.
-
-4. Now follow the instructions on this page to convert their mailbox to a shared mailbox.
-
-5. After that's done, you can remove the license from the user's mailbox. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor. The user won't be able to sign in using the old account.
-
-6. Add members to the shared mailbox.
+3. Reset the user's password.
+    
+4. Wait 20-30 minutes for their mailbox to be recreated.
+    
+5. Now follow the instructions on this page to convert their mailbox to a shared mailbox.
+    
+6. After that's done, you can remove the license from the user's mailbox. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor.
+    
+7. Add members to the shared mailbox.
 
 ## Convert a shared mailbox back to a user's (private) mailbox
-<a name="bkmk_deleted"> </a>
 
 1. In the admin center, expand **Admin centers** \> **Exchange**.
 
@@ -110,7 +139,7 @@ Usually this is not a problem, but there are some scenarios where the on-premise
 We've addressed most of the reasons why this happens but it still CAN happen, although infrequently. It's best to be safe and move the mailbox back to on-premises.
 
 > [!NOTE]
-> If you are an Organization Management or Recipient Management, you will have to use Exchange Online Powershell to change a user mailbox to a shared mailbox on-premises. For example, `Set-Mailbox -Identity mailbox1@contoso.onmicrosoft.com -Type Shared`.
+> If you are a part of Organization Management or Recipient Management, you can use the  Exchange Management shell to change a user mailbox to a shared mailbox on-premises. For example, `Set-Mailbox -Identity mailbox1@contoso.onmicrosoft.com -Type Shared`.
 
 > [!TIP]
 > See the workaround in this support solution for instances when [shared mailboxes are unexpectedly converted to user mailboxes](https://support.microsoft.com/en-us/help/2710029/shared-mailboxes-are-unexpectedly-converted-to-user-mailboxes-after-di).

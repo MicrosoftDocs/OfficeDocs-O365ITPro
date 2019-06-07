@@ -4,7 +4,7 @@ ms.author: v-irpast
 author: IrenePasternack
 manager: laurapamgreenwi
 ms.date: 3/22/2018
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'spoe_YammerSwitch'
@@ -28,11 +28,11 @@ description: "Add enterprise social features to Office 365 by activating Yammer 
 
 Office 365 includes two options for enterprise social features in SharePoint: Yammer and Newsfeed. The SharePoint administrator selects which option users see when they click **Conversations** in SharePoint. By default, users see Newsfeed. 
   
-You can turn Yammer off or on for conversations in SharePoint by using the SharePoint Online admin center. You must be a global administrator to make this change.
+You can turn Yammer off or on for conversations in SharePoint by using the SharePoint Online admin center. **You must be a global administrator to make this change.**
   
 ![SharePoint admin center, Enterprise Social Collaboration options](../media/c89f672f-be20-4b71-9719-7acfa03162b8.png)
   
-1. Sign in to Office 365 as a global admin or SharePoint admin.
+1. Sign in to Office 365 as a global admin.
     
 2. Select the app launcher icon ![The icon that looks like a waffle and represents a button click that will reveal multiple application tiles for selection.](../media/3b8a317e-13ba-4bd4-864e-1ccd47af39ee.png) in the upper-left and choose **Admin** to open the Microsoft 365 admin center. (If you don't see the Admin tile, you don't have Office 365 administrator permissions in your organization.) 
     
@@ -47,7 +47,7 @@ You can turn Yammer off or on for conversations in SharePoint by using the Share
 
 If you want to use Newsfeed for conversations in SharePoint groups, you can turn it on in the SharePoint Online admin center.
   
-1. Sign in to Office 365 as a global admin or SharePoint admin.
+1. Sign in to Office 365 as a global admin.
     
 2. Select the app launcher icon ![The icon that looks like a waffle and represents a button click that will reveal multiple application tiles for selection.](../media/3b8a317e-13ba-4bd4-864e-1ccd47af39ee.png) in the upper-left and choose **Admin** to open the Microsoft 365 admin center. (If you don't see the Admin tile, you don't have Office 365 administrator permissions in your organization.) 
     

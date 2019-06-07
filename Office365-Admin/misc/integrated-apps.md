@@ -3,7 +3,7 @@ title: "Turning Integrated Apps on or off"
 ms.author: kwekua
 author: kwekua
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_ServiceSettings_IntegratedApps_FL512425'
@@ -54,7 +54,7 @@ There are two kinds of permissions that are used when using Integrated Apps in O
   
 ![Integrated Apps User Permissions](../media/bb9a6cf8-da39-4ac0-9e40-cde03a81c121.gif)
   
-If an admin registers an app for all users in their organization, he or she is asked for permission to let that app access information and resources in their organization. After this, when other users in the organization use that app, they won't be asked for permission. When an admin registers an app, that admin must make sure that they trust that app's publisher. For details on registering an app, see [Adding, Updating and Removing an Application](http://go.microsoft.com/fwlink/?LinkID=518600&amp;clcid=0x409).
+If an admin registers an app for all users in an organization, he or she is asked for permission to let that app access information and resources in the organization. After this, when other users in the organization use that app, they won't be asked for permission. When an admin registers an app, that admin must make sure that they trust that app's publisher. For details on registering an app, see [Adding, Updating and Removing an Application](http://go.microsoft.com/fwlink/p/?LinkID=518600).
   
 ![Integrated Apps Admin Permissions](../media/e24aa504-bf10-446c-a9d5-45a6f2655187.gif)
   

@@ -3,7 +3,7 @@ title: "Use your Office 365 promo code to reduce price"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_PromoCodes'

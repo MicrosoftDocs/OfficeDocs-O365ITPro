@@ -2,7 +2,7 @@
 title: "Manage"
 ms.author: supotter
 author: supotter
-ms.audience: Admin
+audience: Admin
 ms.topic: landing-page
 layout: LandingPage
 ms.service: o365-administration
@@ -158,7 +158,7 @@ Quick links for the most common admin tasks in Office 365.
                             <p><a href="https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49">Sync files with the OneDrive sync client in Windows</a></p>
                             <p><a href="https://docs.microsoft.com/en-us/onedrive/manage-sharing">Manage sharing in OneDrive and SharePoint</a></p>
                             <p><a href="https://docs.microsoft.com/onedrive/set-default-storage-space">Set the default storage space for OneDrive users</a></p>
-                            <p><a href="https://support.office.com/article/e12c6a8b-4bbe-4391-9c23-1a52b55a1967">Fix OneDrive sync problems</a></p>
+                            <p><a href="https://support.office.com/article/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2">Fix OneDrive sync problems</a></p>
                             <p><b>More tasks:</b> <a href="https://support.office.com/article/3e21f8f0-e0a1-43be-aa3e-8c0236bf11bb">OneDrive in Office 365</a></p>
                     </div>
                 </div>

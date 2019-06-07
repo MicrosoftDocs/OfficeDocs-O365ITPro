@@ -3,7 +3,7 @@ title: "Manage who can create Office 365 Groups"
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal
@@ -217,7 +217,9 @@ Try the same procedure again with a member of the security group.
 ## Related articles
 
 [Getting started with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=808033)
-  
+
+[Set up self-service group management in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-self-service-management)
+
 [Set-ExecutionPolicy](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy)
 
 [Azure Active Directory cmdlets for configuring group settings](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-settings-cmdlets)

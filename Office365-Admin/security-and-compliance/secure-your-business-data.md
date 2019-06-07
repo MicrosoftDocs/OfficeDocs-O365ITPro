@@ -3,7 +3,7 @@ title: "Top 10 ways to secure Office 365 and Microsoft 365 Business plans"
 ms.author: supotter
 author: supotter
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
@@ -152,6 +152,9 @@ To create a mail transport rule, view a [short training video](https://support.o
 |Do the following . . .  <br/> |Notify the recipient with a message  <br/> |Block the message . . . reject the message and include an explanation  <br/> |
 |Provide message text  <br/> |Do not open these type of files from people you do not know because they might contain macros with malicious code.  <br/> ||
    
+> [!TIP]
+> You can also add the files you want to block to the Anti-malware list in [step 4](#4-raise-the-level-of-protection-against-malware-in-mail).
+
 For more information, see:
   
 - [How to deal with ransomware](https://go.microsoft.com/fwlink/?linkid=2016501&amp;clcid=0x409)

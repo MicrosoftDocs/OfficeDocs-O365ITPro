@@ -3,7 +3,7 @@ title: "Do an admin takeover in Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'Setup_AdminTakeover'
@@ -30,7 +30,7 @@ description: "Learn to verify your email and domain ownership to become the admi
 
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
 
-If you are an admin and want to take over an unmanaged or "shadow" tenant create by users who used self-service sign-up, you can do this with an internal admin takeover.
+If you are an admin and want to take over an unmanaged or "shadow" tenant created by users who used self-service sign-up, you can do this with an internal admin takeover.
   
 ## Step 1: Verify your email address
 
@@ -46,14 +46,11 @@ If you are an admin and want to take over an unmanaged or "shadow" tenant create
 
 4. Check your email for the confirmation code.
 
-5. [Sign out of Office 365](https://login.microsoftonline.com/logout.srf) from your current account. 
-
-6. Follow the email link that shows your email address and a **Yes, that's me** button. 
-
+5. Enter the code to the appropriate field within the form.
     
 ## Step 2: Create a new account
 
-1. When you follow the **Yes, that's me** link in your email, you'll be brought to a page where you can create a new account. 
+1. When you enter the verification code, you'll be brought to a page where you can create a new account. 
     
 2. Please fill on the user name and password fields with the account that you want to use when you finish click on **Start**. 
     

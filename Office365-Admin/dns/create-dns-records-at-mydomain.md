@@ -3,14 +3,14 @@ title: "Create DNS records at MyDomain for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_DOM_MD'
 - 'O365M_DOM_MD'
 - 'O365E_DOM_MD'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: 
 - M365-subscription-management
 - Adm_O365

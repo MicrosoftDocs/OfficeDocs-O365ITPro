@@ -3,7 +3,7 @@ title: "Customize the Office 365 theme for your organization"
 ms.author: twerner
 author: twerner
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
@@ -25,7 +25,7 @@ description: "Learn to change the default theme of Office 365 and customize it t
 
 # Customize the Office 365 theme for your organization
 
-Learn how to customize your theme in the Microsoft 365 admin center. As the admin of your Office 365 for business subscription, you can change the default theme that appears in the top navigation bar for everyone in the organization. You can add your company logo, colors, and a link to match the rest of your brand. You can see here the default theme and custom theme result in Office 365.
+Learn how to customize your theme in the Microsoft 365 admin center. As the admin of your Office 365 for business subscription, you can change the default theme that appears in the top navigation bar for everyone in the organization. You can add your company logo and change the colors to match the rest of your brand. You can even add a destination link for users to navigate to when clicking on your logo. You can see here the default theme and custom theme result in Office 365.
   
 ![Default Office 365 theme and Custom Office 365 theme](../media/e2cbc922-b424-4683-8c5c-fdbcbd0ce844.png)
   
@@ -33,38 +33,34 @@ Learn how to customize your theme in the Microsoft 365 admin center. As the admi
 
 1. [Sign in to Office 365](https://go.microsoft.com/fwlink/p/?LinkID=402333) with your [work or school account](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4.aspx).
     
-2. Navigate to the Microsoft 365 admin center
+2. Navigate to the [Microsoft 365 admin center](https://admin.microsoft.com)
     
-3. Choose to **Settings**![Settings: update your profile, install software and connect it to the cloud](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **Organization profile**.
+3. Navigate to **Settings**![Settings: update your profile, install software and connect it to the cloud](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **Organization profile**.
     
 4. Next to **Manage custom themes for your organization**, click or tap **Edit**.
     
     ![Tap or click Edit to change your theme](../media/f777ecde-b165-408b-b9de-d8bc8fb82c89.png)
   
-5. Change the theme elements you want for your organization:
+5. Change the theme elements you want for your organization. Your changes will be previewed on this page:
     
-  - **Custom logo**: Select the image and upload your own JPG, PNG, or GIF with a resolution of 200 x 30 pixels, no larger than 10 KB. This appears in the top navigation bar on every page.
+  - **Logo image**: Choose whether to use an image from a URL or to upload an image. If you use a URL, please ensure that the URL uses HTTPS and is 200 x 30 pixels of any format of any size. You may upload a logo under 10 KB that is 200 x 30 pixels in JPG, PNG, GIF, or SVG format .
     
-  - **URL for a clickable logo**: Enter the URL for the logo, starting with http:// or https://. This is optional.
+  - **URL for a clickable logo**: You may use your logo in the navigation bar as a link to any company resource. You may enter the URL for the logo here, starting with http:// or https://. This is optional.
     
   - **Background image**: Select the image and upload your own JPG, PNG, or GIF with a resolution of 1366 x 50 pixels, no larger than 15 KB. The background image appears in the top navigation bar on every page.
     
     > [!NOTE]
     > Images that contain text may not display as expected. Built-in elements that appear on the right and left sides of the navigation bar can vary across services, and your text may be obscured by those elements. Due to the dynamic nature of the navigation bar, at this time we are unable to provide guidance for image padding that would result in a consistent experience. 
   
-  - **Prevent users from overriding theme**: Check this box to disable theming at the user level so that everyone in the organization sees the theme you create. The exception to this is a high contrast theme used for accessibility purposes.
-    
-  - **Accent color**: Select a color to use for the app launcher icon, mouse over color, and other accents.
-    
-  - Click or tap **Save**.
+  - **Prevent users from overriding theme**: Flip this toggle to prevent users from choosing their own theme from our theme selection. This does not prevent users from being able to set a high contrast theme.
     
   - **Nav bar background color**: Select a color to use for the background of the navigation bar. The appears at the top on every page.
     
   - **Text and icons**: Select a color to use for the text and icons on the top navigation bar.
     
-  - **App launcher icon**: Select a color to use for the app launcher icon in the upper left.
-    
-  - **User name**: Choose to show users' full names and photos on the top navigation bar when they are signed in. By default, users will see their photo.
+  - **Accent color**: Select a color to use for the navigation bar button hover color and page accents like buttons and text on certain applications.
+      
+  - **User name**: Choose whether to show a user's full name at the entry point to the account manager in the top right of the page when the user is signed in. By default, users will see their photo or their initials if a photo hasn't been uploaded.
     
 6. Click or tap **Save**.
     
@@ -72,11 +68,27 @@ You'll see your new theme on the Microsoft 365 admin center right away and after
   
 ## Best Practices
 
-When choosing custom colors, pick an **Accent color** that shows up well on a white or light background. The **Accent color** is used to color some links and buttons that show up on a white or light background. For example, the **Accent color** is used to color links in the app launcher. Additionally, the **Accent color** is used to color elements in a user's inbox and on their Office.com portal page. 
-  
-When choosing custom colors, pick a **Nav bar background color** and **Text and icons** color with a high contrast ratio to ensure that all text and icons are easily visible. 
+When choosing a **Logo image**, we recommend using an SVG file type, wherever possible, so that your logo will have a high resolution appearance on all screens and at all zoom levels.
+
+When choosing custom colors, choose a **Nav bar background color** that has a high contrast ratio with the **Logo image** that you picked. Also choose a **Text and icons** color with a high contrast ratio to the **Nav bar background color** to ensure that all text and icons are easily visible.
+
+When choosing custom colors, pick an **Accent color** that shows up well on a white or light background. The **Accent color** is used to color some links and buttons that show up on a white or light background. For example, the **Accent color** is used to color elements in a user's inbox and on their Office.com portal page. 
   
 The recommended contrast ratio between text, icon, or button color and background color is 4.5:1.
+
+Here is a simple flow chart to help you quickly get set up with a visually appealing custom Office 365 theme for your organization:
+  - I would like to use a colorful version of our logo.
+    - We recommend the following settings:
+      - **Logo image**: Your organization's colorful logo.
+      - **Navigation bar color**: A neutral color. We recommend #FAF9F7 for a light color and #252423 for a dark color.
+      - **Text and icon color**: A color to contrast the **Navigation bar color**. We recommend #FAF9F7 for a light color and #252423 for a dark color.
+      - **Accent color**: A dark brand color. With certain applications, this color must be visible on a light background.
+  - I would like to use a neutral version of our logo and represent color in the navigation bar.
+    - We recommend the following settings:
+      - **Logo image**: Your organization's neutral logo.
+      - **Navigation bar color**: A brand color that contrasts against your logo.
+      - **Text and icon color**: Choose a color that contrasts against the brand color you chose for the **Navigation bar color**. We recommend #252423 for a dark color and #FAF9F7 for a light color.
+      - **Accent color**: A dark brand color. With certain applications, this color must be visible on a light background.
   
 ## See Also
 

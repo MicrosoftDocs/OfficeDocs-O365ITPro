@@ -3,7 +3,7 @@ title: "Create DNS records at NearlyFreeSpeech.net for Office 365"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: get-started-article
 f1_keywords:
 - 'O365P_DOM_NFS'

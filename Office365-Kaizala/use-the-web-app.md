@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 ms.date: 04/23/2019
-ms.audience: Consumer/IW
+audience: Consumer/IW
 ms.topic: article
 ms.service: Kaizalams
 ms.custom: Kaizala
@@ -24,13 +24,13 @@ description: Learn how to use Kaizala Web to access Kaizala from a browser windo
 Kaizala Web (Preview) allows you to access Kaizala through a browser on your computer. It gives you many of the same features as the Kaizala app. Before you can use Kaizala Web, you need to log in to the Kaizala app on your mobile device.
   
 > [!IMPORTANT]
-> You're part of this preview if you can see the **Kaizala Web** tab under **Chats** \> **More** of the app. If you want to join the preview, make sure to install the latest version of Kaizala on your phone. 
+> You're part of this preview if you can see the **Kaizala Web** tab under **Chats** \> **More** ![Screenshot of More icon](media/more-icon.png) of the app. If you want to join the preview, make sure to install the latest version of Kaizala on your phone. 
   
 For more info about Kaizala, see [Microsoft Kaizala](https://products.office.com/en/business/microsoft-kaizala).
   
 ## Set up Kaizala Web
 
-1. Make sure you have installed the latest version of Kaizala on your mobile phone. If you see the **Kaizala Web (Preview)** tab under **Chats** \> **More** in the Kaizala app, then you have access to the preview.
+1. Make sure you have installed the latest version of Kaizala on your mobile phone. If you see the **Kaizala Web (Preview)** tab under **Chats** \> **More** ![Screenshot of More icon](media/more-icon.png) in the Kaizala app, then you have access to the preview.
     
 2. Download the latest app from the Google Play Store or the Apple App Store.
     
@@ -40,7 +40,7 @@ For more info about Kaizala, see [Microsoft Kaizala](https://products.office.com
     
    ![Sign in to Kaizala with your phone and select Generate code.](media/07f8a26f-a72c-455d-8031-5dcfe1e1701d.png)
   
-5. From the Kaizala app on your mobile phone, go to **Chats** \> **More** \> **Kaizala Web** to view the pairing code.
+5. From the Kaizala app on your mobile phone, go to **Chats** \> **More** ![Screenshot of More icon](media/more-icon.png) \> **Kaizala Web** to view the pairing code.
   
 6. From the **Verify Code** page on your browser, enter the pairing code, and then select **Verify &amp; Sign in**. 
   

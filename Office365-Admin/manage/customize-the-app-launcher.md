@@ -3,7 +3,7 @@ title: "Add custom tiles to the app launcher"
 ms.author: twerner
 author: twernermsft
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365P_CustomTiles'
@@ -59,11 +59,11 @@ You can add your own custom tiles to the app launcher that point to SharePoint s
     
 Your custom tile now appears in the app launcher on the **All** tab for you and your users. 
   
-## Promote the tile to the Home tab
+## Promote the tile to App Launcher
 
-1. Select the app launcher icon ![App launcher](../media/9f0af1b1-86e6-43d0-8cee-90132efd4131.png) and select the **Home** tab. 
+1. Select the app launcher icon ![App launcher](../media/9f0af1b1-86e6-43d0-8cee-90132efd4131.png) and select the **All apps**. 
     
-2. Locate the new tile for your app, select the ellipsis, and choose **Pin to home**. <br/>![Pin tile to app launcher](../media/211492b3-5b66-4e83-8c70-c4c3604831d8.png)
+2. Locate the new tile for your app, select the ellipsis, and choose **Pin to Launcher**. <br/>![Pin tile to app launcher](https://user-images.githubusercontent.com/45987684/56323681-ad991900-613a-11e9-89b2-649171554847.PNG)
   
     > [!NOTE]
     > If you don't see the custom tile created in the previous steps, make sure you have an Exchange Online mailbox assigned to you and you've signed into your mailbox at least once. These steps are required for custom tiles in Office 365. 

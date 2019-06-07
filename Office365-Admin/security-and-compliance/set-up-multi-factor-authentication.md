@@ -1,9 +1,9 @@
 ---
 title: "Set up multi-factor authentication for Office 365 users"
-ms.author: Dianef
-author: Dianef
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365E_AdmSetSecPrivMFA'
@@ -18,7 +18,6 @@ ms.custom:
 - Adm_O365
 - Adm_O365_FullSet
 - Adm_O365_Top
-- Core_O365Admin_Migration
 - MiniMaven
 - strat_admin_top
 search.appverid:
@@ -39,7 +38,6 @@ This article describes how to set up multi-factor authentication (MFA) for Offic
 You get a free version of Azure multi-factor authentication as part of your Office 365 for business subscription. For a list of features included in your version of Office 365, see [How to get Azure Multi-Factor Authentication](https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-authentication-versions-plans).
   
 ## Set up multi-factor authentication in the Microsoft 365 admin center
-<a name="bkmk_setupmfa"> </a>
 
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
     
@@ -54,7 +52,7 @@ You get a free version of Azure multi-factor authentication as part of your Offi
     ![The More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/fefd9f5b-562a-4359-805f-eab923d438c1.png)
   
 > [!Tip]
-> If you don't see the **More (...)** option, then you aren't a global admin for your subscription.
+> If you don't see the **More (...)** option, then you aren't a global admin for your subscription. Only global admins can enable or disable MFA.
 
 3. Find the people for whom you want to enable MFA. In order to see everyone, you might need to change the **Multi-Factor Auth status** view at the top. 
     
@@ -81,18 +79,16 @@ MFA is enabled per user. This means that if a user has MFA-enabled, they won't b
   
 All Office 2016 client applications support MFA through the use of the Active Directory Authentication Library (ADAL). This means that app passwords aren't required for Office 2016 clients. However, if you find that this is not the case, make sure your Office 365 subscription is enabled for ADAL. Connect to [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?linkid=534121) and run the following command: 
 
-
-    
+```powershell
     Get-OrganizationConfig | Format-Table name, *OAuth*
-    
-  
+```    
+
 If you need to enable ADAL, run the following command:
 
-
-    
+```powershell
     Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true
-    
-  
+```
+
 Here's how to allow your users to create App passwords: 
 
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
@@ -101,7 +97,6 @@ Here's how to allow your users to create App passwords:
 
 - If you're using the preview version of the admin center, you can find the option for MFA here:  
 
-
      ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/More-button-for-MFA.png)
  
 - In the classic version, you'll find it here:
@@ -109,8 +104,7 @@ Here's how to allow your users to create App passwords:
     ![The More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/fefd9f5b-562a-4359-805f-eab923d438c1.png)
   
 > [!Tip]
-> If you don't see the **More (...)** option, then you aren't a global admin for your subscription.
-    
+> If you don't see the **More (...)** option, then you aren't a global admin for your subscription. Only global admins can enable or disable MFA.
  
 3. On the **multi-factor authentication** page, choose **service settings**.
     

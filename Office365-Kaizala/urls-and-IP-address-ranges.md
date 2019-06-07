@@ -3,7 +3,7 @@ title: URLs and address ranges for Kaizala
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.audience: Admin
+audience: Admin
 ms.date: 01/30/2019
 ms.topic: article
 ms.service: Kaizala

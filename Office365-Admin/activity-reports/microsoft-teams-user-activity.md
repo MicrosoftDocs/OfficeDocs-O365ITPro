@@ -3,7 +3,7 @@ title: "Office 365 Reports in the Admin Center - Microsoft Teams user activity"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 f1_keywords:
 - 'O365M_ReportsTeamsUserActivity'
