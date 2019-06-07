@@ -166,12 +166,14 @@ To turn off add-in acquisition:
   
 1. Go to the [Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=869152).
     
-2. Click **Settings** \> **Services &amp; add-ins**.
+2. Choose **Settings** \> **Services &amp; add-ins**.
     
-3. Click **Office Online**.
+3. Choose **User owned apps and services**.
     
-4. Click the toggle next to **Allow peple to use third-party hosted storage services** so that it's in the **Off** position. 
+4. Uncheck the check-boxes next to  **Let users access the Office store** and **Let users install trial apps and services**.
     
+    ![Uncheck both boxes on the User owned apps and services panel.](../media/userownedapps.png)
+
 This will prevent all users from acquiring the following add-ins from the store.
   
 - Add-ins for Word, Excel, and PowerPoint 2016 from:

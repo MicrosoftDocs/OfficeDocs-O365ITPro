@@ -1,7 +1,7 @@
 ---
 title: "Set up multi-factor authentication for Office 365 users"
 ms.author: cmcatee
-author: Dianef
+author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
@@ -18,7 +18,6 @@ ms.custom:
 - Adm_O365
 - Adm_O365_FullSet
 - Adm_O365_Top
-- Core_O365Admin_Migration
 - MiniMaven
 - strat_admin_top
 search.appverid:
@@ -38,7 +37,6 @@ This article describes how to set up multi-factor authentication (MFA) for Offic
 You get a free version of Azure multi-factor authentication as part of your Office 365 for business subscription. For a list of features included in your version of Office 365, see [How to get Azure Multi-Factor Authentication](https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-authentication-versions-plans).
   
 ## Set up multi-factor authentication in the Microsoft 365 admin center
-<a name="bkmk_setupmfa"> </a>
 
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
     
@@ -72,17 +70,16 @@ MFA is enabled per user. This means that if a user has MFA-enabled with a text m
   
 All Office 2016 client applications support MFA through the use of the Active Directory Authentication Library (ADAL). This means that app passwords aren't required for Office 2016 clients. However, if you find that this is not the case, make sure your Office 365 subscription is enabled for ADAL. Connect to [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?linkid=534121) and run the following command: 
 
-
 ```powershell
     Get-OrganizationConfig | Format-Table name, *OAuth*
 ```    
-  
+
 If you need to enable ADAL, run the following command:
 
 ```powershell
     Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true
-```   
-  
+```
+
 Here's how to allow your users to create App passwords: 
 
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
