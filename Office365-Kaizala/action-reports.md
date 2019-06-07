@@ -3,11 +3,12 @@ title: Action reports in Kaizala
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 04/30/2019
+ms.date: 06/08/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
+ms.reviewer: nitinjms2
 localization_priority: Normal
 search.appverid:
 - MET150
