@@ -50,4 +50,4 @@ Chinese and English: Mon-Fri 9 AM-6 PM
 Chinese and English: 24 hours a day, 7 days a week<br/>
 
 > [!NOTE]
-> Effective July 1, 2019, technical phone support will be available Mon-Fri 9 AM-9 PM only. Online technical support will continue to be available 24 hours a day, 7 days a week.
+> Effective July 1, 2019, technical phone support will be available Mon-Fri 9 AM-9 PM only. Online technical support will continue to be available 24 hours a day, 7 days a week through the admin center.
