@@ -3,7 +3,7 @@ title: "Overview of security and compliance in Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 11/6/2018
+ms.date: 6/10/19
 audience: Admin
 ms.topic: reference
 ms.prod: office-online-server
@@ -105,88 +105,75 @@ A: Our privacy policy is publicly shared and available here, as part of the: [Mi
 A: Yammer is included in the [Microsoft Trust Center](https://go.microsoft.com/fwlink/?linkid=2083681).
   
 ### Q: Who has access to the data?
-<a name="SecurityPolicy"> </a>
 
 A: Only employees with a legitimate business need can access customer data, and all access is on an approval‐only basis. All access is logged and regularly audited.
   
 ### Q: Is the data encrypted?
-<a name="SecurityPolicy"> </a>
+<a name="Encryption"> </a>
 
 A: All data in transit into and out of the production environment is encrypted at all times. Communication with Yammer is over HTTPS (TLS 1.2 supported) regardless of user endpoint (web, desktop app, mobile app, API). In addition to being encrypted in transit, Yammer data is encrypted at rest with AES-256 bit key encryption.
+
+iOS and Android mobile apps use Apple and Google services for final delivery to end user devices. To ensure confidentiality of information between the Yammer service and the device we use Push Notification Encryption to protect notifications in transit.
   
 ### Q: What is Yammer's architecture?
-<a name="SecurityPolicy"> </a>
 
 A: Yammer's architecture is driven by the needs of an Enterprise Social Network (ESN). An ESN is successful only if users adopt and engage with the platform. As such, Yammer is architected and developed in a way to support adoption and engagement, allowing rapid iterations of technology.
   
 Yammer is a set of loose components, coupled with APIs. These are developed and released independently using a variety of different best-in-class codes and technologies. Yammer is a public cloud, SaaS, multitenant architecture only. We use a data-driven, rapidly iterating development approach to measure the success of the platform using the key metrics of end-user engagement and adoption.
   
 ### Q: Who owns the data posted in the Yammer network?
-<a name="SecurityPolicy"> </a>
 
 A: Data posted into a free Yammer Basic network is owned by the individuals posting that data. Those users are the data controllers for their content. Under Yammer Enterprise, the company is the data controller, and ownership of all data transfers to the company. Yammer is a data processor and has no rights to any content or responsibilities for the data posted within a Yammer network.
   
 ### Q: Do you comply with the data protection act in my country?
-<a name="SecurityPolicy"> </a>
 
 A: It is the data controller's responsibility to comply with the data protection legislation that affects them. Yammer has controls in place to facilitate data controllers' (individuals and companies) compliance with their data protection legislation.
   
 ### Q: Can we perform an on‐site visit or audit of your facilities?
-<a name="SecurityPolicy"> </a>
 
 A: Yammer does not permit customers to perform on‐site audits. With over 200,000 customers, this is not feasible, and it is also a risk to the security of the service. We will answer any security questions openly and transparently.
   
 ### Q: Do you conduct third‐party audits or testing?
-<a name="SecurityPolicy"> </a>
 
 A: Penetration tests of the Yammer infrastructure are conducted yearly as part of Office 365.
   
 ### Q: How is data separated from other customers?
-<a name="SecurityPolicy"> </a>
 
 A: Yammer is a true multi-tenant model. As such, customers' data is logically separated with strict controls to ensure separation of tenant data. The web application servers of Yammer are physically and logically separated from servers that store customer data. 
   
 ### Q: What is the difference between the security of an enterprise social network and Facebook?
-<a name="SecurityPolicy"> </a>
 
 A: Your Yammer network is private to your company. Only users with a valid and verified email address for your company can join your Yammer network. Yammer was built from the ground up as an Enterprise Social Network with security built‐in at every level and a high degree of control available as well as integration with corporate security systems such as Active Directory and single sign-on.
   
 ### Q: What is the difference between security of Yammer Basic and Yammer Enterprise?
-<a name="SecurityPolicy"> </a>
 
 A: The underlying security of both is identical. Yammer Enterprise brings more administrative control and provides the ability to integrate with other systems (e.g. Active Directory, Active Directory Federation Services, SharePoint, Microsoft Dynamics CRM, Salesforce).
   
 For details of the security-related administrative controls available in Yammer Enterprise, see the tables at the beginning of this article.
   
 ### Q: Does Yammer sell our data?
-<a name="SecurityPolicy"> </a>
 
 A: No. Yammer does not mine or sell any customer data. All data belongs to the customer (either the user or the organization, dependent on the Yammer version in use).
   
 ### Q: Can I export all my data?
-<a name="SecurityPolicy"> </a>
 
 A: In Yammer Enterprise, verified admins can export messages and uploaded files, along with their metadata. The data export can also include any content that has been deleted, if the **Soft Delete** data retention option has been configured. 
   
 ### Q: What are Yammer's business continuity features?
-<a name="SecurityPolicy"> </a>
 
 A: Your data is backed up multiple times a day and protected with strong encryption on disk. Backups are transferred off-site over SSH and properly deleted after six months.
   
 ### Q: Is Yammer covered under the materials in the Office 365 Trust Center?
-<a name="SecurityPolicy"> </a>
 
 A: Yes it is. See [Office 365 Trust Center](https://go.microsoft.com/fwlink/?LinkID=715692).
   
 ### Q: Is Yammer security independently verified?
-<a name="SecurityPolicy"> </a>
 
 A: Yes. [ISO27001](https://go.microsoft.com/fwlink/?LinkID=615104) is the global standard in information security. Independent auditors have verified that Yammer meets the rigorous set of physical, logical, process, and management controls defined by the ISO 27001 standard. 
   
 Yammer participates in the [Microsoft Online Services Bug Bounty](https://go.microsoft.com/fwlink/?LinkID=615101), which allows thousands of security researchers to test Yammer and help make our products even safer for users. 
   
 ## User Management FAQs
-<a name="Management"> </a>
 
 ### Q: Can I enforce multifactor authentication?
 
