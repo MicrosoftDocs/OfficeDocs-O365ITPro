@@ -26,7 +26,7 @@ This article lists the Yammer network requirements, licenses, and permissions fo
 
 - For an overview of how to plan, staff, and communicate your live event, see [How to host a Live Event in Yammer: A step-by-step playbook](https://aka.ms/LiveEventsinYammerplaybook).
 
-- To download templates for communications, go to [Live Event Yammer templates](https://aka.ms/LiveEventYammerTemplates) 
+- To download templates for communications, go to [Live Event Yammer templates](https://aka.ms/LiveEventYammerTemplates).
  
 - For steps to create a live event in Yammer, see [Organize a live event in Yammer](https://support.office.com/article/organize-a-live-event-in-yammer-105dd7af-9caf-4a5e-8a44-56d203e96551).
 
@@ -60,7 +60,7 @@ There are two ways live events in Yammer can be produced. The requirements depen
 
 - The event must be held in either a public Yammer Office 365 connected group, or a private Yammer Office 365 connected group that includes everyone who will be invited to the live event. For more information, see [Create a group in Yammer](https://support.office.com/en-us/article/create-a-group-in-yammer-b407af4f-9a58-4b12-b43e-afbb1b07c889) and [Manage a group in Yammer](https://support.office.com/en-us/article/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). 
 
-- The All Company group can’t be used for live events.
+- The **All Company** group can’t be used for live events.
 
 ## Requirements for live event attendees
 
@@ -102,6 +102,14 @@ You can prevent creation of live events produced in teams, live events produced 
 **Q: How many participants can view a live event at once?**
 
 A. Currently the limit is 10,000 participants.
+
+**Q: What media player is used for live events?**
+
+Events produced using Teams use the Azure Media Player.
+
+Events produced using an external app or device use the Stream player.
+
+Both work on desktop, web, and mobile devices (iOS and Android).
 
 ## See also
 
