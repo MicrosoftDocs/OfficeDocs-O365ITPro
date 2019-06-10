@@ -9,6 +9,18 @@ f1_keywords:
 - 'O365P_DOM_Gen1'
 - 'O365M_DOM_Gen1'
 - 'O365E_DOM_Gen1'
+- 'O365P_DOM_123RegCoUK1'
+- 'O365M_DOM_123RegCoUK1'
+- 'O365E_DOM_123RegCoUK1'
+- 'O365P_DOM_22cn1'
+- 'O365P_DOM_35COM1'
+- 'O365P_DOM_Aabaco1'
+- 'O365M_DOM_Aabaco1'
+- 'O365E_DOM_Aabaco1'
+- 'O365P_DOM_Asia1'
+- 'O365M_DOM_Asia1'
+- 'O365E_DOM_Asia1'
+- 'O365P_DOM_BIZCN1'
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: 
