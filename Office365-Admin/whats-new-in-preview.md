@@ -42,7 +42,7 @@ You might see a new recommendation pop-up in your admin center - we just added 5
 - **Get monthly Office feature updates** - We've gotten feedback from our very small customers that when they get monthly Office feature updates, their users are  happier. So, if you're a very small business and you're currently get your Office feature updates every six months, you'll see this recommendation.
 
 **Settings** <br>
-As for settings, there have been quite a few changes. Mostly, just updating the existing settings to the new admin center style. As we're moving forward and add new settings that you've never seen before, we'll start mentioning them here. 
+As for settings, there have been quite a few changes. Mostly, just updating the existing settings to the new admin center style. As we move forward and add new settings that you've never seen before, we'll start mentioning them here. 
 
 ## April 2019
 
