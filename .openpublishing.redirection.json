@@ -75,6 +75,76 @@
         "source_path": "Office365-Admin/get-help-with-domains/change-nameservers-at-bizcn.md",
         "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": true
-      }
+      },
+      {
+        "source_path": "Office365-Admin/get-help-with-domains/change-nameservers-at-blacknight.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/get-help-with-domains/change-nameservers-at-cloudflare.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/get-help-with-domains/change-nameservers-at-cndns.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/get-help-with-domains/change-nameservers-at-crazy-domains.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/get-help-with-domains/change-nameservers-at-dnscom.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/get-help-with-domains/change-nameservers-at-dnsmadeeasy.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/get-help-with-domains/change-nameservers-at-dnspod.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/get-help-with-domains/change-nameservers-at-domain-monster.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/get-help-with-domains/change-nameservers-at-domainexplorer-com.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/get-help-with-domains/change-nameservers-at-domainnameshop.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/get-help-with-domains/change-nameservers-at-dotph.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/get-help-with-domains/change-nameservers-at-dreamhost.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/get-help-with-domains/change-nameservers-at-dyn-com.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/get-help-with-domains/change-nameservers-at-dynadot.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_document_id": true
+      },
   ]
 }

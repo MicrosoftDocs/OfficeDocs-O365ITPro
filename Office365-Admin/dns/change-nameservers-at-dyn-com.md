@@ -5,13 +5,6 @@ author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_DOM_Nett1'
-- 'O365P_DOM_DynCom1'
-- 'O365M_DOM_Nett1'
-- 'O365M_DOM_DynCom1'
-- 'O365E_DOM_Nett1'
-- 'O365E_DOM_DynCom1'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
