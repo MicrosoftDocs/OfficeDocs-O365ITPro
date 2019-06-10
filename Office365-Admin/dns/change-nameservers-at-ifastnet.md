@@ -41,7 +41,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     (Each hosted account at iFastNet is assigned a unique cPanel address. Your cPanel address should look like this: https://YourHostAddress:secure-port-number. The sign-up email you received from iFastNet will specify that address.)
     
     > [!IMPORTANT]
-    > To have a cPanel associated with your domain, you need a hosting account with iFastNet. To get started with Office 365, you can either purchase a hosting account from iFastNet or [redelegate your nameservers to point to Office 365](change-nameservers-at-ifastnet.md).
+    > To have a cPanel associated with your domain, you need a hosting account with iFastNet. To get started with Office 365, you can either purchase a hosting account from iFastNet or [redelegate your nameservers to point to Office 365](change-nameservers-at-any-domain-registrar.md).
   
     ![iFast-BP-Configure-1-1](../media/a88310c4-fe7a-48c2-adbb-bd467ad30516.png)
   

@@ -5,8 +5,6 @@ author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_DOM_ZGSJ1'
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom:
