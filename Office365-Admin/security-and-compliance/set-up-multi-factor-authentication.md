@@ -62,7 +62,7 @@ You get a free version of Azure multi-factor authentication as part of your Offi
     
   - **Enabled** The person has been enrolled in MFA, but has not completed the registration process. They will be prompted to complete the process the next time they sign in. 
     
-  - **Enforced** The person may or may not have completed registration. If they have completed the registration process, then they are using MFA. Otherwise, theywill be prompted to complete the process the next time they sign in. 
+  - **Enforced** The person may or may not have completed registration. If they have completed the registration process, then they are using MFA. Otherwise, they will be prompted to complete the process the next time they sign in. 
     
 4. Select the check box next to the people for whom you want to enable MFA.
     
