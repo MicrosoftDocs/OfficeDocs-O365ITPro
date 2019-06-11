@@ -5,10 +5,6 @@ author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_DOM_CNDNS'
-- 'O365M_DOM_CNDNS'
-- 'O365E_DOM_CNDNS'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

@@ -31,7 +31,7 @@ description: "Learn how you can set up Office 365 to manage the DNS records of y
 
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
   
-Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Fasthosts.co.uk](create-dns-records-at-fasthosts-co-uk.md).)
+Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Fasthosts.co.uk](../get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md).)
   
 ## Add a TXT record for verification
 

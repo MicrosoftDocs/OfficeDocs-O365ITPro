@@ -20,7 +20,7 @@ monikerRange: 'o365-21vianet'
 
 # Change nameservers to set up Office 365 with SUNDNS
 
-Follow the instructions below if you want Office 365 operated by 21Vianet to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your DNS records at SUNDNS](create-dns-records-at-sundns.md).)
+Follow the instructions below if you want Office 365 operated by 21Vianet to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your DNS records at SUNDNS](../get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md).)
 
     
 ## Add a TXT record to verify that you own the domain

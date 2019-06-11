@@ -31,7 +31,7 @@ description: "Learn to set up your Office 365 custom domain with NearlyFreeSpeec
 
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for.
   
-Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at NearlyFreeSpeech.net](create-dns-records-at-nearlyfreespeech-net.md).)
+Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at NearlyFreeSpeech.net](../get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md).)
   
 ## Add a TXT record for verification
 

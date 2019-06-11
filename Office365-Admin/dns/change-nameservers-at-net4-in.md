@@ -31,7 +31,7 @@ description: "Learn to set up your Office 365 custom domain with Net4.in if you 
 
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for.
   
-Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Net4.in](https://support.office.com/article/944b89b6-8cc5-441f-add2-6b14160773c5.aspx).)
+Follow these instructions if you want Office 365 to manage your Office 365 DNS records for you. (If you prefer, you can [manage all your Office 365 DNS records at Net4.in](../get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md).)
   
     
 ## Add a TXT record for verification
