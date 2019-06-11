@@ -9,6 +9,8 @@ f1_keywords:
 - 'O365P_DOM_Gen'
 - 'O365M_DOM_Gen'
 - 'O365E_DOM_Gen'
+- 'O365M_MDMConfigDomains'
+- 'O365E_MDMConfigDomains'
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: 

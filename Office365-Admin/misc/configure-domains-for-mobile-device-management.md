@@ -5,9 +5,6 @@ author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365M_MDMConfigDomains'
-- 'O365E_MDMConfigDomains'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
