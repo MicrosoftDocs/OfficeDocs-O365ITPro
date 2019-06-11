@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 audience: Admin
-ms.date: 04/03/2019
+ms.date: 06/08/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -38,8 +38,8 @@ Here are some of the key tasks that users can do when they are assigned to the K
 
 - [Create and manage Kaizala groups](groups-in-kaizala.md)
 - [Add or remove users to an organization’s Kaizala Directory](add-users.md)
-- [View and export reports for Kaizala action cards](reports.md)
-- View analytics for app installation and usage
+- [View and export reports for Kaizala action cards](action-reports.md)
+- [View analytics for app installation and usage](adoption-and-activity-reports.md)
 - [Manage Kaizala settings](settings.md)
 
 
