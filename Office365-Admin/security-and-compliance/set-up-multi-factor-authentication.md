@@ -38,11 +38,11 @@ You get a free version of Azure multi-factor authentication as part of your Offi
   
 ## Enable multi-factor authentication for your organization
 
-All Office 2016 client applications support MFA through the use of the Active Directory Authentication Library (ADAL). This means that app passwords aren't required for Office 2016 clients. However, if you find that this is not the case, make sure your Office 365 subscription is enabled for ADAL, or modern authentication.
+All Office 2016 client applications support MFA through the use of the Active Directory Authentication Library (ADAL). This means that app passwords aren't required for Office 2016 clients. However, you need to make sure your Office 365 subscription is enabled for ADAL, or modern authentication.
 
 1. To enable modern authentication, go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
 2. Choose **Settings** \> **Services & add-ins** and then choose **Modern authentication** from the list.
-3. Check the box in the **Modern authentication** panel. 
+3. Check the **Enable modern authentication** box in the **Modern authentication** panel. 
 
     ![Modern authentication panel with enable checkbox checked.](../media/enablemodernauth.PNG)
 
@@ -81,7 +81,7 @@ All Office 2016 client applications support MFA through the use of the Active Di
     
 ## Allow MFA users to create App passwords for Office client apps
 
-Older email applications like Office 2013 need App Password. Here's how to allow your users to create App passwords: 
+Older email applications like Office 2013 need app passwprds. Here's how to allow your users to create them: 
 
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
     
