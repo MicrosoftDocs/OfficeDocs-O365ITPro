@@ -3,7 +3,7 @@ title: "Disable external messaging in a Yammer network"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 5/13/19
+ms.date: 6/12/19
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -19,20 +19,13 @@ description: "Disable external messaging, with options for preventing external u
 
 # Disable external messaging in a Yammer network
 
-By default for Yammer Enterprise networks in the US Geo, users can add external participants to their Yammer conversations and Yammer groups, and members of your Yammer network can participate in another company's Yammer network if invited. If needed, you can turn off this external messaging.
-
-> [!NOTE]
-> As of May 2019, we are in process of rolling out a change to how you can disable external messaging. This change gives you a new option for restricting access to other organizations' Yammer networks, and no longer requires use of an Exchange Transport rule or contacting support for restricting external access to your Yammer network's groups and conversations. 
+By default for Yammer Enterprise networks in the US Geo, users can add external participants to their Yammer conversations and Yammer groups, and members of your Yammer network can participate in another company's Yammer network if invited. If needed, you can turn off this external collaboration.
 
 ## Determine whether the new method is available 
 
 1. In the Yammer admin center, go to **Content and Security** \> **Security Settings**.
     
-2. In the **External Messaging** section: 
-
-   - If you see one check box, **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer**, you are still using the previous method. For steps, see [Disable external messaging by using an Exchange Transport Rule](control-external-messaging-with-exchange.md).
-
-   - If you see the following three options, you are using the new method, and can use the steps in this article:
+2. In the **External Messaging** section, select the option that makes sense for your organization: 
 
      -  **Allow users in this network to participate in groups or conversations in other networks, and allow external users to participate in groups or conversations in this network.**    
    

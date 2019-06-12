@@ -351,7 +351,7 @@ Build communities and collaboration in your organization with Yammer.
                         <p><a href="/en-us/Yammer/work-with-external-users/add-external-participants" data-linktype="absolute-path">Add external participants</a></p> 
                         <p><a href="/en-us/Yammer/work-with-external-users/create-and-manage-external-groups" data-linktype="absolute-path">Create and manage external groups</a></p> 
                         <p><a href="/en-us/Yammer/work-with-external-users/find-external-participants" data-linktype="absolute-path">Find external participants</a></p> 
-                        <p><a href="/en-us/Yammer/work-with-external-users/control-external-messaging-with-Exchange" data-linktype="absolute-path">Disable external messaging</a></p> 
+                        <p><a href="/en-us/Yammer/work-with-external-users/disable-external-messaginge" data-linktype="absolute-path">Disable external messaging</a></p> 
                         <p><a href="/en-us/Yammer/work-with-external-users/external-messaging-faq" data-linktype="absolute-path">External messaging FAQ</a></p> 
     </div>
         </div>
