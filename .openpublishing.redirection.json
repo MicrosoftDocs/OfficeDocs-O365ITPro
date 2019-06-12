@@ -2,6 +2,11 @@
 
   "redirections": [
       {
+        "source_path": "Office365-Kaizala/kaizala/reports.md",
+        "redirect_url": "https://docs.microsoft.com/office365/kaizala/analytics",
+                "redirect_document_id": true
+      },
+      {
         "source_path": "Office365-Admin/grow-your-small-business/grow-your-small-business.md",
         "redirect_url": "https://docs.microsoft.com/office365/smallbusiness/build-your-small-business/build-your-small-business",
                 "redirect_document_id": true
