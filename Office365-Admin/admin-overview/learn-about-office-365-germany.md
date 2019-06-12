@@ -48,11 +48,11 @@ The following services and features are available in some [Office 365 Germany su
     
 - Exchange Online Protection
     
-- Office Online
+- Office apps for the web
     
 - Office 365 Video
     
-- Project Online
+- Project for the web
     
 - Visio Online
     

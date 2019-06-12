@@ -182,7 +182,7 @@ This will prevent all users from acquiring the following add-ins from the store.
     
   - Mac
     
-  - Office Online
+  - Office
     
   - iOS
     

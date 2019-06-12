@@ -76,6 +76,6 @@
 ### [Help users log in to Yammer on Android devices](troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices.md)
 ### [Limited functionality in Explorer 10 document mode](troubleshoot-problems/limited-functionality-in-explorer-10-document-mode.md)
 ### [Phasing out temporary mobile passwords](troubleshoot-problems/phasing-out-temporary-mobile-passwords.md)
-### [Converting Yammer notes into Word Online](troubleshoot-problems/converting-yammer-notes-into-word-online.md)
+### [Converting Yammer notes into Word](troubleshoot-problems/converting-yammer-notes-into-word-online.md)
 ### [Upgrade your network to stand-alone Yammer](troubleshoot-problems/upgrade-your-network-to-stand-alone-yammer.md)
 

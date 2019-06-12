@@ -208,7 +208,7 @@ While you can upload almost all types of files, some file names and characters i
   
 ### Enable or disable third-party storage services
 
-You can enable third-party storage for your users in Office 365 so they can store and share documents using services like Dropbox in addition to OneDrive for Business and team sites. This can be a great way to provide services that your users may already be using or prefer to use for business projects. If you don't want people in your organization using Office Online to open files in a third-party service, follow these steps to turn it off.
+You can enable third-party storage for your users in Office 365 so they can store and share documents using services like Dropbox in addition to OneDrive for Business and team sites. This can be a great way to provide services that your users may already be using or prefer to use for business projects. If you don't want people in your organization using Office to open files in a third-party service, follow these steps to turn it off.
   
 > [!IMPORTANT]
 > Third party storage is enabled by default so you need to perform these steps right away if you don't want it available to your users. 
