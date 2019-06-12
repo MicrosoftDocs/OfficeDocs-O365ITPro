@@ -70,9 +70,7 @@ Are you removing your domain because you want to add it to a different Office 36
     
 5. In the **Edit domains** pane, choose a different domain. 
        
-You'll need to do this for yourself, too, if you're on the domain that you want to remove. When you edit the domain for your account, you'll have to log out and log back in using the new domain you chose to continue.
-    
-    For example, if you're logged in as  *dave@contoso.onmicrosoft.com*  : 
+You'll need to do this for yourself, too, if you're on the domain that you want to remove. When you edit the domain for your account, you'll have to log out and log back in using the new domain you chose to continue. For example, if you're logged in as  *dave@contoso.onmicrosoft.com* : 
     
 1. Go to **Users** \> **Active Users**, select your account from the list, and then click your name in the list. 
     
