@@ -21,8 +21,6 @@ description: "Disable external messaging, with options for preventing external u
 
 By default for Yammer Enterprise networks in the US Geo, users can add external participants to their Yammer conversations and Yammer groups, and members of your Yammer network can participate in another company's Yammer network if invited. If needed, you can turn off this external collaboration.
 
-## Determine whether the new method is available 
-
 1. In the Yammer admin center, go to **Content and Security** \> **Security Settings**.
     
 2. In the **External Messaging** section, select the option that makes sense for your organization: 
