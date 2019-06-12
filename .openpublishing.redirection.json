@@ -620,6 +620,16 @@
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-zgsj.md", 
         "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": true
-      }
+      },
+      {
+        "source_path": "Office365-Admin/misc/early-termination-fees.md", 
+        "redirect_url": "https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription?", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/dns/create-dns-records-for-domain-managed-by-google-go-daddy.md", 
+        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_document_id": true
+      },
   ]
 }
