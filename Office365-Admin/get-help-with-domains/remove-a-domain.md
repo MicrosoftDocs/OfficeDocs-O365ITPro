@@ -46,19 +46,19 @@ Are you removing your domain because you want to add it to a different Office 36
 
 ::: moniker range="o365-worldwide"
 
-Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
@@ -66,22 +66,19 @@ Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
     
 3. Select the boxes next to the names of the users who you want to move.
     
-4. In the **Bulk actions** pane, choose **Edit domains**.
+4. Click the More menu (...) at the top of the page, and then choose **Edit domains**. 
     
 5. In the **Edit domains** pane, choose a different domain. 
-    
-6. Choose **Set as primary**, then choose **Save**.
-    
-7. You'll need to do this for yourself, too, if you're on the domain that you want to remove. When you edit the domain for your account, you'll have to log out and log back in using the new domain you chose to continue.
+       
+You'll need to do this for yourself, too, if you're on the domain that you want to remove. When you edit the domain for your account, you'll have to log out and log back in using the new domain you chose to continue.
     
     For example, if you're logged in as  *dave@contoso.onmicrosoft.com*  : 
     
-1. Go to **Users** \> **Active Users**, select your account from the list, and then choose **Edit** in the **Username** row in the left pane. 
+1. Go to **Users** \> **Active Users**, select your account from the list, and then click your name in the list. 
     
-2. Choosea different domain:  *contoso.com* 
+2. Click **Manage username**, and then choose a different domain:  *contoso.com* 
     
-3. Choose **Set as primary**, choose **Save**, and then **Close**.
-    
+  
 4. At the top, choose your account name, then choose **Sign Out**.
     
 5. Sign in with the new domain and your same password:  *dave@contoso.com* 
@@ -93,49 +90,47 @@ You can also use PowerShell to move users to another domain. See [Set-MsolUserPr
 
 ::: moniker range="o365-worldwide"
 
-Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
 2. Choose **Groups** \> **Groups**. 
     
-3. Select the box for any group or distribution list associated with the domain that you want to remove.
+3. Click the group name, and then click **Manage**. 
     
-4. In the right pane, next to the group name, choose **Edit**.
+4. Use the drop-down to choose another domain.
     
-5. Under **Group Id**, use the drop-down to choose another domain.
-    
-6. Choose **Save**, then **Close**. Repeat this process for any groups or distribution lists associated with the domain that you want to remove.
+5. Choose **Save**, then **Close**. Repeat this process for any groups or distribution lists associated with the domain that you want to remove.
     
 ### Step 3: Remove the old domain
 
 ::: moniker range="o365-worldwide"
 
-Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
