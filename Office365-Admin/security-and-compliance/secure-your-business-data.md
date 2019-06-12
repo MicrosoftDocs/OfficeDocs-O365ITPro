@@ -226,7 +226,7 @@ If you've configured one or more custom domains for your Office 365 or Microsoft
   
 We recommend that you get started with this protection by creating a policy to protect your most important users and your custom domain. 
   
-![Creating an ATP anti-phishing policy](../media/d4bfb082-a257-46c6-879f-8c379e681817.png)
+![Creating an ATP anti-phishing policy](../media/security-and-compliance-center.png)
   
 To create an ATP anti-phishing policy, view a [short training video](https://support.office.com/article/86c425e1-1686-430a-9151-f7176cce4f2c), or complete the following steps:
   
