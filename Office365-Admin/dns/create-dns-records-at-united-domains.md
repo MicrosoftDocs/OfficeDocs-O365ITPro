@@ -162,7 +162,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |autodiscover  <br/> |CNAME Record  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
     |sip  <br/> |CNAME Record  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
     |lyncdiscover  <br/> |CNAME Record  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-    |msoid  <br/> |CNAME Record  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
     |enterpriseregistration  <br/> |CNAME Record  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
     |enterpriseenrollment  <br/> |CNAME Record  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    

@@ -169,7 +169,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com  <br/> |Use the default value (300).  <br/> |
     |CNAME  <br/> |sip  <br/> |sipdir.online.lync.com  <br/> |Use the default value (300).  <br/> |
     |CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |Use the default value (300).  <br/> |
-    |CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |Use the default value (300).  <br/> |
     |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |Use the default value (300).  <br/> |
     |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |Use the default value (300).  <br/> |
    

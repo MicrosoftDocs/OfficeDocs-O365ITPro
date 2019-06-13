@@ -150,7 +150,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com  <br/> |60 Minutes  <br/> |
     |CNAME  <br/> |sip  <br/> |sipdir.online.lync.com  <br/> |60 Minutes  <br/> |
     |CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |60 Minutes  <br/> |
-    |CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |60 Minutes  <br/> |
     |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |60 Minutes  <br/> |
     |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |60 Minutes  <br/> |
        
