@@ -631,5 +631,25 @@
         "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": true
       },
+      {
+        "source_path": "Office365-Admin/misc/required-dns-records-for-office-365-gcc.md", 
+        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/dns/create-dns-records-at-godaddy-0.md", 
+        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/misc/Add-domain-alchemy.md", 
+        "redirect_url": "https://docs.microsoft.com/office365/admin/admin-home", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/services-in-china/initial-partner-onmschina-cn.md", 
+        "redirect_url": "https://docs.microsoft.com/office365/admin/services-in-china/services-in-china", 
+        "redirect_document_id": true
+      }
   ]
 }

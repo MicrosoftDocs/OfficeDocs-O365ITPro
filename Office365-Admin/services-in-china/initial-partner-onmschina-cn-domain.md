@@ -6,9 +6,6 @@ manager: mnirkhe
 audience: Admin
 ms.topic: overview
 f1_keywords:
-- 'O365P_DNSMgr_OnMicrosoftDomain'
-- 'O365M_DNSMgr_OnMicrosoftDomain'
-- 'O365E_DNSMgr_OnMicrosoftDomain'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
