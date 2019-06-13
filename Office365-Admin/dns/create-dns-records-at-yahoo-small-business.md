@@ -93,5 +93,5 @@ You must create your Aabaco account before you can [create DNS records](../get-h
     
     ![The sign-in page for Aabaco Small Business](../media/4ef3cfc3-26da-4e03-932b-9346ef217848.png)
   
-Now that you have created your Aabaco account, you can [Create DNS records at Aabaco Small Business for Office 365]((../get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md)).
+Now that you have created your Aabaco account, you can [Create DNS records at Aabaco Small Business for Office 365](../get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md).
   
