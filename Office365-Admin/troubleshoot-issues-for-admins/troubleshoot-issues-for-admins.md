@@ -129,8 +129,6 @@ If you're an Office 365 Midsize Business, Office 365 Business, or Office 365 Ent
 2. Select the app launcher icon  in the upper-left and choose **Admin**.<br/><br/>Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the apps available to you. From there, you can search for a specific app. 
     
 3. Go to **Exchange**.
-
-    ![Microsoft 365 admin center with Exchange](../media/239c294e-4f04-4c52-bd87-bbf343cb66b9.png)
   
 4. Under **mail flow**, go to **message trace**.
     

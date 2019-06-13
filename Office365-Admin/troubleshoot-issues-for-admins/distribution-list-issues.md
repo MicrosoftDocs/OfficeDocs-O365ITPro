@@ -26,7 +26,7 @@ This topic discusses how to solve distribution list issues that you may run into
 
 There could be a couple of issues here:
   
-- It usually takes about 60 minutes for distribution list to be fully created and ready for management. Make sure you've waited the appropriate amount of time and try sending the email again.
+- It usually takes about 60 minutes for distribution lists to be fully created and ready for management. Make sure you've waited the appropriate amount of time and try sending the email again.
     
 - Sometimes, people create an Office 365 Group instead of a distribution list. Check out your distribution list in the admin center and make sure you created a distribution list.
     
@@ -34,7 +34,7 @@ There could be a couple of issues here:
 
 There could be a couple of issues here:
   
-- Make sure you've allowed people outside your organization to send emails to the distribution. From the admin center, find the distribution list that you want to allow external people on and turn the toggle to **On**.
+- Make sure you've allowed people outside your organization to send emails to the distribution list. From the admin center, find the distribution list that you want to allow external people on and turn the toggle to **On**.
     
     ![Allow external members to send to a dl](../media/76a5fb05-d0b9-403d-80b2-8308ec8a567f.png)
   
