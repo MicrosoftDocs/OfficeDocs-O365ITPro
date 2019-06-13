@@ -38,20 +38,16 @@ Click your domain host below for the exact steps. If you're not sure who your ho
 
 ## Let Office 365 manage your DNS records
 
-[1&1 IONOS](../dns/change-nameservers-at-1-1-internet.md) 
-
-[Amazon Web Services (AWS)](../dns/change-nameservers-at-aws.md) 
- [Bluehost](../dns/change-nameservers-at-bluehost.md)
-
-[Google   Domains](../dns/change-nameservers-at-google-domains.md) 
-
-[Hostgator   ](../dns/change-nameservers-at-hostgator.md)    
-
-[MyDomain](../dns/change-nameservers-at-mydomain.md)  
-
-[Namecheap](../dns/change-nameservers-at-namecheap.md)
-
-[Network Solutions](../dns/change-nameservers-at-network-solutions.md)   
+||
+|---|---|
+|[1&1 IONOS](../dns/change-nameservers-at-1-1-internet.md) |
+|[Amazon Web Services (AWS)](../dns/change-nameservers-at-aws.md) |
+ [Bluehost](../dns/change-nameservers-at-bluehost.md)|
+|[Google   Domains](../dns/change-nameservers-at-google-domains.md) |
+|[Hostgator   ](../dns/change-nameservers-at-hostgator.md)  |  
+|[MyDomain](../dns/change-nameservers-at-mydomain.md) | 
+|[Namecheap](../dns/change-nameservers-at-namecheap.md)|
+|[Network Solutions](../dns/change-nameservers-at-network-solutions.md) |  
 
 Or, learn how to [change nameservers to set up Office 365 with any domain registrar](change-nameservers-at-any-domain-registrar.md).
 
