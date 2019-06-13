@@ -1,8 +1,8 @@
 ---
 title: "Office 365 operated by 21Vianet"
-ms.author: LOREENL
-author: LoreenLa
-manager: pamgreen
+ms.author: sharik
+author: skjerland
+manager: mnirkhe
 audience: Admin
 ms.topic: overview
 f1_keywords:
@@ -61,7 +61,7 @@ If you would like to learn how to get started with general Office 365 services, 
 |Mobile and device support\*  <br/> | Coming soon are the following mobile features:  <br/>  Mobile Device Management (MDM)  <br/>  Blackberry Business Cloud Services (BBCS) is not available, but you can use Exchange ActiveSync devices or an offering from Research in Motion (RIM, the BlackBerry wireless email solution) to run Blackberry Enterprise Server (BES).  <br/>  For more information on mobile support, see [Set up and manage mobile access for your users](https://support.office.com/article/01fff219-4492-40f2-82d3-fd2ffc0ad802).  <br/> |
 |Office Lens  <br/> |Not available.  <br/> |
 |Microsoft Planner  <br/> |Coming soon.  <br/> |
-|Microsoft Teams  <br/> |Coming soon.  <br/> |
+|Microsoft Teams  <br/> |Not available.  <br/> |
 |Sway  <br/> |Coming soon.  <br/> |
 |Help in multiple languages  <br/> |Help is available in Simplified Chinese and English only.  <br/> |
 |Community-provided help  <br/> |Community-provided help is not available yet, but you can click the Help button ( **?** ) in the upper right corner of your portal to see help articles.  <br/> |
