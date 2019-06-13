@@ -50,10 +50,3 @@ For example, if your tenant name is contoso.onmicrosoft.com, you'd use:
 |SRV  <br/> |_sip  <br/> |_tls  <br/> |443  <br/> |1  <br/> |100  <br/> |1 Hour  <br/> |@  <br/> |sipdir.online.gov.skypeforbusiness.us  <br/> |
 |SRV  <br/> |_sipfederationtls  <br/> |_tcp  <br/> |5061  <br/> |1  <br/> |100  <br/> |1 Hour  <br/> |@  <br/> |sipfed.online.gov.skypeforbusiness.us  <br/> |
    
-## Additional Office 365 Records
-
-|**Type**|**Priority**|**Hostname**|**Points to address or value**|**TTL**|
-|:-----|:-----|:-----|:-----|:-----|
-|CNAME  <br/> |-  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |1 Hour  <br/> |
-   
-

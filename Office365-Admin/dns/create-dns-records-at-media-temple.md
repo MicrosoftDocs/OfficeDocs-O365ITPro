@@ -181,8 +181,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |autodiscover  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
     |sip  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
     |lyncdiscover  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-    |msoid  <br/> |(This value cannot be changed.)  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
-   
+
     ![MediaTemple-BP-Configure-3-1](../media/55a9fe55-2635-42e7-a9df-49c17981089c.png)
   
 7. Choose **Save Changes**.

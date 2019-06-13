@@ -228,7 +228,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |autodiscover|autodiscover.outlook.com<br>**Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
     |sip|sipdir.online.lync.com<br> **Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
     |lyncdiscover|webdir.online.lync.com<br> **Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
-    |msoid|clientconfig.microsoftonline-p.net<br>**Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
     |enterpriseregistration|enterpriseregistration.windows.net<br> **Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
     |enterpriseenrollment|enterpriseenrollment-s.manage.microsoft.com<br> **Important:** Select the **Fully Qualified Domain Name** option and enter the value in this field.           |7200|
    

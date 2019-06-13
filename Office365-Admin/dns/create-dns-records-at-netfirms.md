@@ -162,7 +162,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |autodiscover  <br/> |autodiscover.outlook.com  <br/> |
     |sip  <br/> |sipdir.online.lync.com  <br/> |
     |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
-    |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |
     |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
     |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
        

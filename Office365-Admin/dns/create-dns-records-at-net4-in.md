@@ -178,7 +178,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com  <br/> |
     |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |sip  <br/> |sipdir.online.lync.com  <br/> |
     |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
-    |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |
     |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |
     |3600  <br/> (Once this value is set, it is automatically applied to all of the DNS records in the domain.)  <br/> |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
        
