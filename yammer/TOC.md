@@ -48,7 +48,7 @@
 ### [Add external participants](work-with-external-users/add-external-participants.md)
 ### [Create and manage external groups](work-with-external-users/create-and-manage-external-groups.md)
 ### [Find external participants](work-with-external-users/find-external-participants.md)
-### [Disable external messaging](work-with-external-users/control-external-messaging-with-exchange.md)
+### [Disable external messaging](work-with-external-users/disable-external-messaging.md)
 ### [External messaging FAQ](work-with-external-users/external-messaging-faq.md)
 ## Manage Yammer groups
 ### [Yammer and Office 365 groups](manage-yammer-groups/yammer-and-office-365-groups.md)

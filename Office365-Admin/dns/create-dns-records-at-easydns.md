@@ -117,7 +117,6 @@ You'll need to add all of the following DNS records at your registrar's website 
     |autodiscover  <br/> |autodiscover.outlook.com.  <br/> |
     |sip  <br/> |sipdir.online.lync.com.  <br/> |
     |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> |
-    |msoid  <br/> |clientconfig.microsoftonline-p.net.  <br/> |
     |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> |
     |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> |
        
