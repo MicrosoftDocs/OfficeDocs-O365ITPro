@@ -181,7 +181,6 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
     |autodiscover  <br/> |CNAME  <br/> |autodiscover.outlook.com  <br/> |
     |sip  <br/> |CNAME  <br/> |sipdir.online.lync.com  <br/> |
     |lyncdiscover  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
-    |msoid  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
     |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
     |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
    

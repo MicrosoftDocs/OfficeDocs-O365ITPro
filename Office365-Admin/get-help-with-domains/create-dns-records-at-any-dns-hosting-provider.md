@@ -182,11 +182,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
   - **If you create a TXT record, use these values:**
     
-||||
+|||||
 |:-----|:-----|:-----|:-----|
 |**Record Type**|**Alias** or **Host Name**|**Value**|**TTL**|
-|TXT|Do one of the following: Type **@** or leave the field empty or type your domain name.  <br/> 
-**Note:**Different DNS hosts have different requirements for this field. |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.  <br/>        [How do I find this?](../get-help-with-domains/information-for-dns-records.md)     <br/>     |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  |
+|TXT|Do one of the following: Type **@** or leave the field empty or type your domain name.  <br/> **Note:** Different DNS hosts have different requirements for this field. |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.  <br/>        [How do I find this?](../get-help-with-domains/information-for-dns-records.md)     <br/>     |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  |
    
   - **If you create an MX record, use these values:**
     
@@ -389,7 +388,7 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
 |||||
 |:-----|:-----|:-----|:-----|
 |**Record Type** <br/> |**Host** <br/> |**TXT Value** <br/> |**TTL** <br/> |
-|TXT (Text)  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1 hour  <br/> |
+|TXT (Text)  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1 hour  <br/> |
    
    For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. 
     
