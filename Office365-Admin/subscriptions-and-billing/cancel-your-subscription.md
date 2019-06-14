@@ -8,6 +8,9 @@ ms.topic: article
 f1_keywords:
 - 'O365M_CancelSubscription'
 - 'O365E_CancelSubscription'
+- 'O365P_EarlyTermFee'
+- 'O365M_EarlyTermFee'
+- 'O365E_EarlyTermFee'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
