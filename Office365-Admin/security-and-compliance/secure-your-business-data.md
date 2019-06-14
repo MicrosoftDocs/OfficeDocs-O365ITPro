@@ -44,9 +44,9 @@ Microsoft recommends that you complete the tasks listed in the following table t
 |9  <br/> |[Protect against malicious attachments and files with ATP Safe Attachments](secure-your-business-data.md#atp) <br/> ||![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
 |10  <br/> |[Protect against phishing attacks with ATP Safe Links](secure-your-business-data.md#phishingatp) <br/> ||![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
    
-Before you begin, check your Office 365 Secure Score. Office 365 Secure Score analyzes your Office 365 organization's security based on your regular activities and security settings and assigns a score. Begin by taking note of your current score. Taking the actions recommended in this article increases your score. The goal is not to achieve the max score, but to be aware of opportunities to protect your environment that do not negatively affect productivity for your users. See [Introducing the Office 365 Secure Score](https://support.office.com/article/c9e7160f-2c34-4bd0-a548-5ddcc862eaef).
+Before you begin, check your [Microsoft 365 Secure Score](https://docs.microsoft.com/en-us/office365/securitycompliance/microsoft-secure-score) in the Microsoft 365 security center. From a centralized dashboard, you can monitor and improve the security for your Microsoft 365 identities, data, apps, devices, and infrastructure. You are given points for configuring recommended security features, performing security-related tasks (such as viewing reports), or addressing recommendations with a third-party application or software. With additional insights and more visibility into a broader set of Microsoft products and services, you can feel confident reporting about your organization’s security health.
   
-![Screenshot of a secure score.](../media/3f959654-826c-4db7-b107-4958e4f29903.png)
+![Screenshot of Microsoft Secure Score](../media/secure-score.png)
   
 ## 1: Set up multi-factor authentication
 <a name="setup"> </a>
