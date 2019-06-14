@@ -40,17 +40,20 @@ Live events can be created and viewed in Yammer, Stream, or Teams. This article 
 There are two ways live events in Yammer can be produced. The requirements depend on which video production methods you intend to use in your organization.
 
 - **Use an external encoder to produce your live event**: 
-    - This type of event is typically used for large scale events such as executive town halls, where a single stream from a media mixer is broadcasted to the audience. 
+- 
+    This type of event is typically used for large scale events such as executive town halls, where a single stream from a media mixer is broadcasted to the audience. 
+
+    - This type of event uses Stream to encode the broadcast stream.
     - You need to use an an external encoder to produce the event.
-    - You need a Stream license, as this type of event is powered by Stream.
-    - Attendess can view the event in Yammer.
+    - Attendees can view the event in Yammer.
     - The Yammer Live Event feed can be viewed in Yammer, Streams, and Teams.
 
 - **Use Teams to produce your live event**:  
+
+    This is used for simple events when all you need are the audio and video devices connected to the presenter's computer, or when you're inviting a remote presenter for the event. 
+   
     - This type of event uses Teams to encode the broadcast stream.
-    - This is used for simple events when all you need are the audio and video devices connected to the presenter's computer, or when you're inviting a remote presenter for the event. 
     - Use Teams to share content from the presenters webcab and screen.
-    - This type of event requires a Teams license.
     - The Yammer Live Event feed can be viewed in Yammer, Streams, and Teams.
     - Attendees can view this event in Teams only.
 
@@ -69,6 +72,8 @@ There are two ways live events in Yammer can be produced. The requirements depen
 - Everyone with a Yammer license can attend live events in public groups. 
 
 - For live events in private groups, attendees must be members of the private group in which the live event is hosted. 
+
+- For attending a live event in Teams, a Teams license is required. For attending a live event in Yammer, a Yammer license is required.
 
 ## Permissions for scheduling, creating, and producing live events in Yammer
 
@@ -111,6 +116,10 @@ Events produced using an external app or device use the Stream player.
 
 Both work on desktop, web, and mobile devices (iOS and Android).
 
+**Q: How can I make it easy for my event organizers to get help?**
+
+In Office 365, you can customize the help pane that comes up when users click the Help icon to add contact information for your local support staff. For more information, see [Add customized help desk info to the Office 365 help pane](https://docs.microsoft.com/office365/admin/misc/customize-help-desk).
+
 ## See also
 
 [Organize a live event in Yammer](https://support.office.com/article/organize-a-live-event-in-yammer-105dd7af-9caf-4a5e-8a44-56d203e96551)
@@ -118,3 +127,5 @@ Both work on desktop, web, and mobile devices (iOS and Android).
 [Microsoft Teams live event overview](https://support.office.com/article/microsoft-teams-live-events-overview-d077fec2-a058-483e-9ab5-1494afda578a?ui=en-US&rs=en-US&ad=US)
 
 [Microsoft Stream live event overview](https://docs.microsoft.com/en-us/stream/live-event-overview)
+
+[Get help producing a live event](https://support.office.com/article/0cedb557-cbe4-40d3-8147-112633f087eb)
