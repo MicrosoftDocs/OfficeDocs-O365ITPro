@@ -7,6 +7,8 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection: 
+- commerce
 ms.custom: Core_O365Admin_Migration
 search.appverid:
 - MET150

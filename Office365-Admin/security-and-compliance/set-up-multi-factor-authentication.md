@@ -1,7 +1,7 @@
 ---
 title: "Set up multi-factor authentication for Office 365 users"
-ms.author: cmcatee
-author: cmcatee-MSFT
+ms.author: sirkkuw
+author: sirkkuw
 manager: mnirkhe
 audience: Admin
 ms.topic: article
@@ -31,12 +31,21 @@ description: "Learn how to set up multi-factor authentication for Office 365 use
 ---
 
 # Set up multi-factor authentication
-
   
 This article describes how to set up multi-factor authentication (MFA) for Office 365 users. For more information about MFA, see [Plan for multi-factor authentication for Office 365 Deployments](multi-factor-authentication-plan.md) and [How Azure multi-factor authentication works](https://go.microsoft.com/fwlink/p/?LinkId=627437).
   
 You get a free version of Azure multi-factor authentication as part of your Office 365 for business subscription. For a list of features included in your version of Office 365, see [How to get Azure Multi-Factor Authentication](https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-authentication-versions-plans).
   
+## Enable multi-factor authentication for your organization
+
+All Office 2016 client applications support MFA through the use of the Active Directory Authentication Library (ADAL). This means that app passwords aren't required for Office 2016 clients. However, you need to make sure your Office 365 subscription is enabled for ADAL, or modern authentication.
+
+1. To enable modern authentication, go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+2. Choose **Settings** \> **Services & add-ins** and then choose **Modern authentication** from the list.
+3. Check the **Enable modern authentication** box in the **Modern authentication** panel. 
+
+    ![Modern authentication panel with enable checkbox checked.](../media/enablemodernauth.PNG)
+
 ## Set up multi-factor authentication in the Microsoft 365 admin center
 
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
@@ -62,7 +71,7 @@ You get a free version of Azure multi-factor authentication as part of your Offi
     
   - **Enabled** The person has been enrolled in MFA, but has not completed the registration process. They will be prompted to complete the process the next time they sign in. 
     
-  - **Enforced** The person may or may not have completed registration. If they have completed the registration process, then they are using MFA. Otherwise, theywill be prompted to complete the process the next time they sign in. 
+  - **Enforced** The person may or may not have completed registration. If they have completed the registration process, then they are using MFA. Otherwise, they will be prompted to complete the process the next time they sign in. 
     
 4. Select the check box next to the people for whom you want to enable MFA.
     
@@ -72,24 +81,7 @@ You get a free version of Azure multi-factor authentication as part of your Offi
     
 ## Allow MFA users to create App passwords for Office client apps
 
-> [!IMPORTANT]
-> App passwords are not supported for Office 365 operated by 21Vianet. 
-  
-MFA is enabled per user. This means that if a user has MFA-enabled, they won't be able to use a non-browser client, such as Outlook 2013 with Office 365, until they create an app password. An app password is a password that is created within the Azure portal and that allows the user to bypass MFA and continue to use their application.
-  
-All Office 2016 client applications support MFA through the use of the Active Directory Authentication Library (ADAL). This means that app passwords aren't required for Office 2016 clients. However, if you find that this is not the case, make sure your Office 365 subscription is enabled for ADAL. Connect to [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?linkid=534121) and run the following command: 
-
-```powershell
-    Get-OrganizationConfig | Format-Table name, *OAuth*
-```    
-
-If you need to enable ADAL, run the following command:
-
-```powershell
-    Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true
-```
-
-Here's how to allow your users to create App passwords: 
+Older email applications like Office 2013 need app passwprds. Here's how to allow your users to create them: 
 
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
     

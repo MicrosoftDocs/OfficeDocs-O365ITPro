@@ -209,7 +209,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |autodiscover  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |autodiscover.outlook.com  <br/> |
     |sip  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |sipdir.online.lync.com  <br/> |
     |lyncdiscover  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |webdir.online.lync.com  <br/> |
-    |msoid  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    
    
     ![Azure-BP-Configure-3-1](../media/a1c4d869-da97-43b3-952c-d513a20231dc.png)
   
