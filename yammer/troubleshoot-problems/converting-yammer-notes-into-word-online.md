@@ -1,5 +1,5 @@
 ---
-title: "Converting Yammer notes into Word Online documents"
+title: "Converting Yammer notes into Word documents"
 ms.author: v-irpast
 author: IrenePasternack
 manager: laurapamgreenwi
@@ -15,9 +15,9 @@ ms.assetid: 1aaec7ab-109b-4477-92be-6b558fb731ca
 description: "Yammer notes were converted to files in January 2018. Learn where to find your files."
 ---
 
-# Converting Yammer notes into Word Online documents
+# Converting Yammer notes into Word documents
 
-Yammer notes used to be on the top navigation bar in groups, and allowed users to create notes in Yammer. We are removing this feature and converting all notes into Word Online documents. All notes have been automatically converted and saved.
+Yammer notes used to be on the top navigation bar in groups, and allowed users to create notes in Yammer. We are removing this feature and converting all notes into Word documents. All notes have been automatically converted and saved.
   
 After the conversion, a message may appear in the "Recent Activity" section of the homepage. This is related to the upload of the note converted to a file.
   
@@ -25,15 +25,15 @@ After the conversion, a message may appear in the "Recent Activity" section of t
 
 ### Q: How does this affect me?
 
-A: Drafts and previous versions of your notes were not converted to Word Online documents. The latest published versions of your notes were automatically converted to files. 
+A: Drafts and previous versions of your notes were not converted to Word documents. The latest published versions of your notes were automatically converted to files. 
   
 ### Q: Where and how can I access my notes after the migration?
 
-A: On the group header, right next to where the **notes** tab used to be, you will see a tab called **files**. On this tab you will find a directory with all your Word Online documents. For each note you will find a separate file with the same file name and author as your note. 
+A: On the group header, right next to where the **notes** tab used to be, you will see a tab called **files**. On this tab you will find a directory with all your Word documents. For each note you will find a separate file with the same file name and author as your note. 
   
 ### Q: How is a file different from a note?
 
-A: Files are Word Online documents that you can access in your group header. Word Online is a more robust text editor than notes, so you'll find advantages to using this tool instead of notes. However, you will lose some functionality currently available in notes, such as @ mentioning and highlighting changes between versions.
+A: Files are Word documents that you can access in your group header. Word for teh web is a more robust text editor than notes, so you'll find advantages to using this tool instead of notes. However, you will lose some functionality currently available in notes, such as @ mentioning and highlighting changes between versions.
   
 ### Q: If I'm following some notes, will I continue to follow those files?
 

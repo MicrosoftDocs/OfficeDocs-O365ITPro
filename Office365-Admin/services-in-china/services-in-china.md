@@ -1,8 +1,8 @@
 ---
 title: "Office 365 operated by 21Vianet"
-ms.author: LOREENL
-author: LoreenLa
-manager: pamgreen
+ms.author: sharik
+author: skjerland
+manager: mnirkhe
 audience: Admin
 ms.topic: overview
 f1_keywords:
@@ -12,6 +12,9 @@ f1_keywords:
 - 'O365M_GAL_LearnGallatin'
 - 'O365E_LearnFeatures'
 - 'O365E_GAL_LearnGallatin'
+- 'O365P_DNSMgr_OnMicrosoftDomain'
+- 'O365M_DNSMgr_OnMicrosoftDomain'
+- 'O365E_DNSMgr_OnMicrosoftDomain'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
@@ -53,7 +56,7 @@ If you would like to learn how to get started with general Office 365 services, 
 
 |||
 |:-----|:-----|
-|Custom domains  <br/> |Administrators can create and/or use custom domains registered through Chinese-specific domain providers. If you don't have a custom domain, you can [How to buy a domain name](https://support.office.com/article/a6689b24-eeca-41f1-afe6-19917936b73c.aspx) from a domain name registrar. If you already have one, [Find your domain registrar or DNS hosting provider](https://support.office.com/article/98b6bfa3-1b0b-4484-8a12-02061cc9f9c3).  <br/> Additionally, if you create a public website using the Office 365 SharePoint Online service, China Internet compliance policy requires that you get an Internet Content Provider (ICP) number. For more information, see [Get an Internet Content Provider (ICP) number for your public website](get-an-icp-number-for-your-public-website.md).  <br/> **Note:** Automatic validation for disallowed words in custom domain names is not available.           |
+|Custom domains  <br/> |Administrators can create and/or use custom domains registered through Chinese-specific domain providers. If you don't have a custom domain, you can [How to buy a domain name](https://support.office.com/article/a6689b24-eeca-41f1-afe6-19917936b73c.aspx) from a domain name registrar. If you already have one, [Find your domain registrar or DNS hosting provider](https://support.office.com/article/98b6bfa3-1b0b-4484-8a12-02061cc9f9c3).  <br/> Additionally, if you create a public website using the Office 365 SharePoint Online service, China Internet compliance policy requires that you get an Internet Content Provider (ICP) number.  **Note:** Automatic validation for disallowed words in custom domain names is not available.           |
 |Subscriptions, billing, and technical support  <br/> |Provided by 21Vianet. For information on how to contact support, see [Contact Office 365 for business support](../contact-support-for-business-products.md).  <br/> |
 |Self-service password reset  <br/> |Available for admins only. For more information, see [Change or reset your password in Office 365 operated by 21Vianet](https://support.office.com/article/d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).  <br/> |
 |Security, privacy, compliance, and details on levels of support  <br/> |Provided by 21Vianet.  <br/> |
@@ -61,7 +64,7 @@ If you would like to learn how to get started with general Office 365 services, 
 |Mobile and device support\*  <br/> | Coming soon are the following mobile features:  <br/>  Mobile Device Management (MDM)  <br/>  Blackberry Business Cloud Services (BBCS) is not available, but you can use Exchange ActiveSync devices or an offering from Research in Motion (RIM, the BlackBerry wireless email solution) to run Blackberry Enterprise Server (BES).  <br/>  For more information on mobile support, see [Set up and manage mobile access for your users](https://support.office.com/article/01fff219-4492-40f2-82d3-fd2ffc0ad802).  <br/> |
 |Office Lens  <br/> |Not available.  <br/> |
 |Microsoft Planner  <br/> |Coming soon.  <br/> |
-|Microsoft Teams  <br/> |Coming soon.  <br/> |
+|Microsoft Teams  <br/> |Not available.  <br/> |
 |Sway  <br/> |Coming soon.  <br/> |
 |Help in multiple languages  <br/> |Help is available in Simplified Chinese and English only.  <br/> |
 |Community-provided help  <br/> |Community-provided help is not available yet, but you can click the Help button ( **?** ) in the upper right corner of your portal to see help articles.  <br/> |
@@ -77,7 +80,7 @@ If you would like to learn how to get started with general Office 365 services, 
 |Microsoft PowerApps  <br/> |Coming soon.  <br/> |
 |Information Rights Management (IRM)  <br/> |The ability to set IRM capabilities to SharePoint for your organization is coming soon.  <br/> |
 |Ability to translate text or pages  <br/> |Available, but off by default. Tenant admins can turn this ability on, but the translation cloud service may be located outside your country. If you do not want users to send content to a translation cloud service, you may keep these features disabled.  <br/> |
-|Public website ICP registration  <br/> |China Internet compliance policy requires that you get an Internet Content Provider (ICP) number for your public website. For more information, see [Get an Internet Content Provider (ICP) number for your public website](get-an-icp-number-for-your-public-website.md).  <br/> |
+|Public website ICP registration  <br/> |China Internet compliance policy requires that you get an Internet Content Provider (ICP) number for your public website.  |
 |Public website features  <br/> |Public websites are available only if you purchased Office 365 before March 9, 2015. However, Bing maps, external sharing, and comments are not available in a public web site as these features may send data outside of your country.  <br/> |
 |Newsfeed and Yammer (enterprise social networks)  <br/> |Newsfeed (the social hub where you'll see updates from the people, documents, sites, and tags you're following) is available. Yammer is unavailable.  <br/> |
 |Autohosted apps  <br/> |You can deploy a provider-hosted app that uses SharePoint and SQL Azure. For more information, see [Create a basic provider hosted app for SharePoint](https://msdn.microsoft.com/en-us/library/office/apps/fp142381.aspx). Coming soon is the ability for developers to deploy an app that uses an autohosted web site.  <br/> |
@@ -173,7 +176,7 @@ Sharing Exchange contact data on Apple mobile devices to the Apple iCloud. |This
 |Exchange Hosted Email Encryption  |Not available.  |
 |Office 365 Message Encryption  |Coming soon.  |
    
-## Office Online
+## Office
 
 |||
 |:-----|:-----|

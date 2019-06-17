@@ -13,6 +13,7 @@ ms.collection:
 - Adm_O365_Top
 - Adm_UI_Elements
 - strat_admin_top
+- commerce
 ms.custom:
 - Adm_O365
 - Adm_O365_Top

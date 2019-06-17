@@ -3,7 +3,7 @@ title: "Yammer and Office 365 Groups"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 2/13/19
+ms.date: 6/12/19
 audience: Admin
 ms.topic: overview
 ms.service: yammer
@@ -73,7 +73,7 @@ Here's how the process works after your network becomes eligible for connected g
 
 When you create an Office 365 connected group from Yammer, in addition to your regular Yammer group features, the new Office 365 group is created, and a new SharePoint site and document library, OneNote notebook, and Planner are created for the group. These resources can be accessed from the Yammer group page in Yammer.
 
-If your network has the Yammer files stored in SharePoint feature that began rollout in December 2018, new files added to the group are stored in SharePoint. To see where Yammer files are stored for your network, go to [How do I tell where my Yammer files are stored?](https://support.microsoft.com/article/7a647cb4-6005-4350-a258-68f00a5f7b29)
+If your network has the Yammer files stored in SharePoint feature that began rollout in December 2018, new files added to the group are stored in SharePoint. To see where Yammer files are stored for your network, go to [How do I tell where my Yammer files are stored?](https://support.office.com/article/7a647cb4-6005-4350-a258-68f00a5f7b29)
 
 >[!IMPORTANT]
 > If you create an Office 365 group from any other app such as Outlook, it will not include Yammer. To have the connected group include Yammer, you must create the group in Yammer.
@@ -169,7 +169,7 @@ A: No, these are separate locations to store files but the members of the group 
 We recommend storing content that needs the structure and management capabilities of SharePoint in the group document library. For easy, quick sharing of images and documents, or to stream videos in Yammer, we recommend continuing to use the default Yammer cloud storage. 
 
 >[!NOTE]
-> As of December 2018, we are in process of rolling out Yammer files stored in SharePoint. When your network gets this new feature, new files uploaded to Yammer are stored in the group's SharePoint document library in the Apps/Yammer folder. Any files uploaded before your network gets this new feature remain in Yammer cloud storage. To see where Yammer files are stored for your network, go to [How do I tell where my Yammer files are stored?](https://support.microsoft.com/article/7a647cb4-6005-4350-a258-68f00a5f7b29)
+> As of December 2018, we are in process of rolling out Yammer files stored in SharePoint. When your network gets this new feature, new files uploaded to Yammer are stored in the group's SharePoint document library in the Apps/Yammer folder. Any files uploaded before your network gets this new feature remain in Yammer cloud storage. To see where Yammer files are stored for your network, go to [How do I tell where my Yammer files are stored?](https://support.office.com/article/7a647cb4-6005-4350-a258-68f00a5f7b29)
   
  **Q: Do my Office 365 connected Yammer groups follow my Office 365 group naming policy?**
   

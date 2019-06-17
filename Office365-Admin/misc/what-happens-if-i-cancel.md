@@ -16,9 +16,9 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
+- commerce
 ms.custom:
 - Adm_O365
-- Core_O365Admin_Migration
 - MiniMaven
 search.appverid:
 - BCS160
@@ -36,9 +36,6 @@ description: "Learn what happens to your Office 365 subscription if you cancel i
 If you cancel a subscription before the end of your term, the subscription moves directly into a disabled state. For most subscriptions, in most countries and regions, the disabled state lasts 90 days. Admins can still access and back up data for their organization while the subscription is in the disabled state, but we recommend that admins [back up their data](../subscriptions-and-billing/back-up-data-before-switching-plans.md) before they cancel a subscription, especially if it's their only subscription. Any data that you leave behind may be deleted after 90 days and will be deleted no later than 180 days after cancellation. 
   
 ## What to expect for you and your users if you cancel a subscription
-
-> [!NOTE]
-> If you cancel before the end of your term, you may be subject to [early termination fees](early-termination-fees.md). 
   
 - **Admin access** Admins can still sign in and access the Admin center, and buy other subscriptions as needed. As a global or billing admin, you have 90 days to [reactivate the subscription](../subscriptions-and-billing/reactivate-your-subscription.md) with all data intact. 
     

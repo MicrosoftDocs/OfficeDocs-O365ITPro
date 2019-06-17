@@ -44,4 +44,4 @@ If you want to remove an external participant, you can use the information from 
   
 [External Yammer participants FAQ](external-messaging-faq.md)
   
-[Disable external messaging in a Yammer network](control-external-messaging-with-exchange.md)
+[Disable external messaging in a Yammer network](disable-external-messaging.md)

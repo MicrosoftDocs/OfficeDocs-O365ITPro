@@ -94,6 +94,4 @@ Here are the features and settings you'll find in the left-hand navigation of th
     
 - Manage Office 365 groups: [Create and manage Office 365 groups in Admin Center](../create-groups/create-groups.md)
     
-- Reorganize your homepage: [Reorganize your Home page in the Admin Center](https://support.office.com/article/953c41fd-7db4-4273-bf0f-2179ad9c6547.aspx)
-    
 

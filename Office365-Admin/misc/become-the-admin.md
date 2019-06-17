@@ -46,14 +46,11 @@ If you are an admin and want to take over an unmanaged or "shadow" tenant create
 
 4. Check your email for the confirmation code.
 
-5. [Sign out of Office 365](https://login.microsoftonline.com/logout.srf) from your current account. 
-
-6. Follow the email link that shows your email address and a **Yes, that's me** button. 
-
+5. Enter the code to the appropriate field within the form.
     
 ## Step 2: Create a new account
 
-1. When you follow the **Yes, that's me** link in your email, you'll be brought to a page where you can create a new account. 
+1. When you enter the verification code, you'll be brought to a page where you can create a new account. 
     
 2. Please fill on the user name and password fields with the account that you want to use when you finish click on **Start**. 
     
@@ -70,7 +67,7 @@ If you are an admin and want to take over an unmanaged or "shadow" tenant create
 2. Once you've added the TXT record at your registrar site, come back to the wizard and click **Okay, I've added the record** to confirm the record.
     
 > [!NOTE]
-> If someone in the account signed up to use Office Online at work (instead of one of the other subscriptions, like Power BI), you'd be prompted to and required to buy licenses for them as part of becoming the admin for the domain. But you can add or remove licenses after you finish the admin setup. 
+> If someone in the account signed up to use Office at work (instead of one of the other subscriptions, like Power BI), you'd be prompted to and required to buy licenses for them as part of becoming the admin for the domain. But you can add or remove licenses after you finish the admin setup. 
 Please note that taking over the shadow tenant will not impact any existing services. The rest of the information and services will remain as is.
   
 ## Some Terminology:

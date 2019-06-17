@@ -182,39 +182,6 @@ Follow the steps below or [watch the video (start at 3:57)](https://support.offi
   
 12. Choose **Save**.<br/>![1&amp;1-BP-Configure-3-8-2](../media/ea1dfc06-c175-4146-ab40-da4d162097e1.png)
   
-13. In the **Edit DNS Settings** dialog box, choose **Yes**.<br/>![Clicking Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)<br/>Now you'll create the second subdomain.
-    
-14. In the **Subdomain Overview** section, choose **Create Subdomain**.<br/>![1&amp;1-BP-Configure-3-9](../media/49097a42-bc7c-4996-879e-0106adb1f6e0.png)
-  
-15. In the **Create Subdomain** box for the new subdomain, type or copy and paste only the **Create Subdomain** value from the following table. (You'll add the **Alias** value in a later step.) 
-    
-    |**Create Subdomain**|**Alias**|
-    |:-----|:-----|
-    |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> | 
-    
-    ![1&amp;1-BP-Configure-3-10](../media/6572a9c4-62d9-48e4-851e-a2a44732aebe.png)
-  
-16. Choose **Create Subdomain**.<br/>![1&amp;1-BP-Configure-3-11](../media/a3296395-14b5-4763-b55b-b414f963ef3b.png)
-  
-17. In the **Subdomain Overview** section, find the **msoid** subdomain that you just created, and then choose the **Panel (v)** control for that subdomain.<br/> ![1&amp;1-BP-Configure-3-12](../media/8e594d27-9f33-4ee4-9f25-e54c2f031978.png)
-  
-18. In the **Subdomain Settings** area, choose **Edit DNS Settings**.<br/>![1&amp;1-BP-Configure-3-13](../media/600ded12-1849-4b8b-b95b-ec52c78ec1e0.png)
-  
-19. In the **A/AAAA Records (IP Addresses)** section, in the **IP address (A Record)** area, select **CNAME**.<br/>![1&amp;1-BP-Configure-3-14-1](../media/15b64d81-c9d7-40a9-86a4-8117119a1c3a.png)
-  
-20. In the **Alias:** box, type or copy and paste only the **Alias** value from the following table. 
-    
-    |**Create Subdomain**|**Alias**|
-    |:-----|:-----|
-    |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> | 
-    
-    ![1&amp;1-BP-Configure-3-14-2](../media/1703144e-7e98-4cd0-ad7f-08477981a6aa.png)
-  
-21. Select the check box for the **I am aware** disclaimer.<br/> ![1&amp;1-BP-Configure-3-15-1](../media/31d27d95-9cec-4392-88fd-bb877a4dba17.png)
-  
-22. Choose **Save**.<br/>![1&amp;1-BP-Configure-3-15-2](../media/58065c65-f1a2-47be-91b9-63a5b6231233.png)
-  
-23. In the **Edit DNS Settings** dialog box, choose **Yes**. <br/>![Clicking Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)
   
 ### Additional CNAME records
 

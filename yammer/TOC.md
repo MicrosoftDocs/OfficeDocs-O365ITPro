@@ -48,7 +48,7 @@
 ### [Add external participants](work-with-external-users/add-external-participants.md)
 ### [Create and manage external groups](work-with-external-users/create-and-manage-external-groups.md)
 ### [Find external participants](work-with-external-users/find-external-participants.md)
-### [Disable external messaging](work-with-external-users/control-external-messaging-with-exchange.md)
+### [Disable external messaging](work-with-external-users/disable-external-messaging.md)
 ### [External messaging FAQ](work-with-external-users/external-messaging-faq.md)
 ## Manage Yammer groups
 ### [Yammer and Office 365 groups](manage-yammer-groups/yammer-and-office-365-groups.md)
@@ -76,6 +76,6 @@
 ### [Help users log in to Yammer on Android devices](troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices.md)
 ### [Limited functionality in Explorer 10 document mode](troubleshoot-problems/limited-functionality-in-explorer-10-document-mode.md)
 ### [Phasing out temporary mobile passwords](troubleshoot-problems/phasing-out-temporary-mobile-passwords.md)
-### [Converting Yammer notes into Word Online](troubleshoot-problems/converting-yammer-notes-into-word-online.md)
+### [Converting Yammer notes into Word](troubleshoot-problems/converting-yammer-notes-into-word-online.md)
 ### [Upgrade your network to stand-alone Yammer](troubleshoot-problems/upgrade-your-network-to-stand-alone-yammer.md)
 

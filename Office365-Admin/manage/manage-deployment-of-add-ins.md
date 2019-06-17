@@ -166,12 +166,14 @@ To turn off add-in acquisition:
   
 1. Go to the [Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=869152).
     
-2. Click **Settings** \> **Services &amp; add-ins**.
+2. Choose **Settings** \> **Services &amp; add-ins**.
     
-3. Click **Office Online**.
+3. Choose **User owned apps and services**.
     
-4. Click the toggle next to **Allow peple to use third-party hosted storage services** so that it's in the **Off** position. 
+4. Uncheck the check-boxes next to  **Let users access the Office store**.
     
+    ![Uncheck Let users access the Office Store on the User owned apps and services panel.](../media/userownedapps2.png)
+
 This will prevent all users from acquiring the following add-ins from the store.
   
 - Add-ins for Word, Excel, and PowerPoint 2016 from:
@@ -180,7 +182,7 @@ This will prevent all users from acquiring the following add-ins from the store.
     
   - Mac
     
-  - Office Online
+  - Office
     
   - iOS
     
@@ -198,7 +200,7 @@ Support for turning off the Office Store is available in the following versions:
     
 - iOS: 2.9.18010804 - Currently available.
     
-- Office Online - Currently available.
+- The web - Currently available.
     
 This does not prevent an administrator from using Centralized Deployment to assign an add-in from the Office Store.
   
@@ -228,7 +230,7 @@ To be GDPR compliant for minors you need to ensure that one of following builds 
 |Office 2013 for Windows  <br/> |15.0.5023.1000  <br/> |
 |Office 2016 for Mac  <br/> |16.11.18020200  <br/> |
 |Office 2016 for iOS  <br/> |2.12.18032600  <br/> |
-|Office Online  <br/> |N/A  <br/> |
+|Office for the web  <br/> |N/A  <br/> |
    
  **For Outlook**: 
   
@@ -240,7 +242,7 @@ To be GDPR compliant for minors you need to ensure that one of following builds 
 |Office 2016 for Mac  <br/> |16.0.9318.1000  <br/> |
 |Outlook mobile for iOS  <br/> |2.75.0  <br/> |
 |Outlook mobile for Android  <br/> |2.2.145  <br/> |
-|Outlook Online  <br/> |N/A  <br/> |
+|Outlook.com  <br/> |N/A  <br/> |
    
  **Office 2013 requirements**
   
