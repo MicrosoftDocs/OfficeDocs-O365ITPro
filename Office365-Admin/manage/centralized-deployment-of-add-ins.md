@@ -42,7 +42,9 @@ Centralized Deployment doesn't support the following:
 - Add-in deployment to SharePoint
     
 - Add-in deployment to Office Online Server
-    
+
+- Teams apps
+   
 - Deployment of Component Object Model (COM) or Visual Studio Tools for Office (VSTO) add-ins
     
 - Deployments of Office 365 that do not include Exchange such as Office 365 Business
