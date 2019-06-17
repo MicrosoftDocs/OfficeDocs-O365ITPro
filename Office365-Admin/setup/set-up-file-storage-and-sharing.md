@@ -217,7 +217,7 @@ You can enable third-party storage for your users in Office 365 so they can stor
     
 2. Go to the [ Microsoft 365 admin center ](../admin-overview/about-the-admin-center.md).
     
-3. Go to **Settings** \> **Services and add-ins** \> **Office Online**.
+3. Go to **Settings** \> **Services and add-ins** \> **Office for the web**.
     
 4. Select **Allow people to use third-party hosted storage services** to turn this setting on or off. 
     
