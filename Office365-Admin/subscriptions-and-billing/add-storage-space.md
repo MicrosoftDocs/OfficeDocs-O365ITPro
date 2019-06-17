@@ -15,9 +15,9 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
+- commerce
 ms.custom:
 - Adm_O365
-- Core_O365Admin_Migration
 - MAX_CampaignID
 - MiniMaven
 search.appverid:
@@ -164,9 +164,9 @@ Office 365 Extra File Storage is available for the following subscriptions:
 
 - Office 365 Enterprise E5
 
-- Office Online with SharePoint Plan 1
+- Office for the web with SharePoint Plan 1
 
-- Office Online with SharePoint Plan 2
+- Office for the web with SharePoint Plan 2
 
 - SharePoint Online Plan 1
 

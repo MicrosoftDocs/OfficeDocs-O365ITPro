@@ -39,7 +39,8 @@ If Yahoo! Small Business has been your DNS hosting provider, you should be aware
   
 Follow the steps in this article to create an account at Aabaco, where you can make DNS changes and renew your domain or domains.
   
-You must create your Aabaco account before you can [create DNS records](create-dns-records-at-aabaco-small-business.md).
+You must create your Aabaco account before you can [create DNS records](../get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md).
+
   
 ## Create an Aabaco Small Business account
 
@@ -92,5 +93,5 @@ You must create your Aabaco account before you can [create DNS records](create-d
     
     ![The sign-in page for Aabaco Small Business](../media/4ef3cfc3-26da-4e03-932b-9346ef217848.png)
   
-Now that you have created your Aabaco account, you can [Create DNS records at Aabaco Small Business for Office 365](create-dns-records-at-aabaco-small-business.md).
+Now that you have created your Aabaco account, you can [Create DNS records at Aabaco Small Business for Office 365](../get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md).
   

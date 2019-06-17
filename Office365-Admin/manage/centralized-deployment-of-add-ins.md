@@ -25,7 +25,7 @@ description: "Determine if your Office 365 tenant and users meet the requirement
 # Determine if Centralized Deployment of add-ins works for your organization
 
 Centralized Deployment is the recommended and most feature-rich way for most customers to deploy Office add-ins to users and groups within your Office 365 organization. If you're an Office 365 admin, use this guidance to determine if your tenant and users meet the requirements so that you can use Centralized Deployment.
-Centralized Deployment supports Windows, Mac and Office Online Clients.
+Centralized Deployment supports Windows, Mac and Office Clients.
 It can take up to 24 hours for an add-in to show up for client for all users.
   
 ## Requirements
@@ -42,7 +42,9 @@ Centralized Deployment doesn't support the following:
 - Add-in deployment to SharePoint
     
 - Add-in deployment to Office Online Server
-    
+
+- Teams apps
+   
 - Deployment of Component Object Model (COM) or Visual Studio Tools for Office (VSTO) add-ins
     
 - Deployments of Office 365 that do not include Exchange such as Office 365 Business
@@ -149,11 +151,11 @@ Alternately, you can use the Azure Active Directory Graph API to run queries to 
   
 ### Contacting Microsoft for support
 
-If you or your users encounter problems loading the add-in while using Office Online apps (Word Online, Excel Online, etc.), which were centrally deployed, you may need to contact Microsoft support ([learn how](../contact-support-for-business-products.md)). Provide the following information about your Office 365 environment in the support ticket.
+If you or your users encounter problems loading the add-in while using Office apps for the web (Word, Excel, etc.), which were centrally deployed, you may need to contact Microsoft support ([learn how](../contact-support-for-business-products.md)). Provide the following information about your Office 365 environment in the support ticket.
   
 |**Platform**|**Debug information**|
 |:-----|:-----|
-|Office Online  <br/> | Charles/Fiddler logs  <br/>  Tenant ID ( [learn how](https://support.office.com/article/6891b561-a52d-4ade-9f39-b492285e2c9b.aspx))  <br/>  CorrelationID. View the source of one of the office pages and look for the Correlation ID value and send it to support:  <br/>`<input name=" **wdCorrelationId**" type="hidden" value=" **{BC17079E-505F-3000-C177-26A8E27EB623}**">`  <br/>  `<input name="user_id" type="hidden" value="1003bffd96933623"></form>`  <br/> |
+|Office  <br/> | Charles/Fiddler logs  <br/>  Tenant ID ( [learn how](https://support.office.com/article/6891b561-a52d-4ade-9f39-b492285e2c9b.aspx))  <br/>  CorrelationID. View the source of one of the office pages and look for the Correlation ID value and send it to support:  <br/>`<input name=" **wdCorrelationId**" type="hidden" value=" **{BC17079E-505F-3000-C177-26A8E27EB623}**">`  <br/>  `<input name="user_id" type="hidden" value="1003bffd96933623"></form>`  <br/> |
 |Rich clients (Windows, Mac)  <br/> | Charles/Fiddler logs  <br/>  Build numbers of the client app (preferably as a screenshot from **File/Account**)  <br/> |
    
 

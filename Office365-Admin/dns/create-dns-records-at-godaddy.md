@@ -169,7 +169,6 @@ Follow the steps below.
     |CNAME (Alias)  <br/> |autodiscover  <br/> |autodiscover.outlook.com  <br/> |1 hour  <br/> |
     |CNAME (Alias)  <br/> |sip  <br/> |sipdir.online.lync.com  <br/> |1 hour  <br/> |
     |CNAME (Alias)  <br/> |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |1 hour  <br/> |
-    |CNAME (Alias)  <br/> |msoid  <br/> |clientconfig.microsoftonline-p.net  <br/> |1 hour  <br/> |
     |CNAME (Alias)  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |1 hour  <br/> |
     |CNAME (Alias)  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment.manage.microsoft.com  <br/> |1 hour  <br/> |
    

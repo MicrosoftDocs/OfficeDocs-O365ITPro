@@ -93,6 +93,5 @@ Here are the features and settings you'll find in the left-hand navigation of th
 - See activity reports: [Activity Reports](../activity-reports/activity-reports.md)
     
 - Manage Office 365 groups: [Create and manage Office 365 groups in Admin Center](../create-groups/create-groups.md)
-
     
 

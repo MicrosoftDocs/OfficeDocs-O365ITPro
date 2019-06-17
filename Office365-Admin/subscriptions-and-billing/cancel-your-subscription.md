@@ -8,15 +8,18 @@ ms.topic: article
 f1_keywords:
 - 'O365M_CancelSubscription'
 - 'O365E_CancelSubscription'
+- 'O365P_EarlyTermFee'
+- 'O365M_EarlyTermFee'
+- 'O365E_EarlyTermFee'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
 - Adm_UI_Elements
+- commerce
 ms.custom:
 - Adm_O365
-- Core_O365Admin_Migration
 - MiniMaven
 search.appverid:
 - BCS160
