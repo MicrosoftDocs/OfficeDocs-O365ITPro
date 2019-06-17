@@ -67,7 +67,7 @@ If you are an admin and want to take over an unmanaged or "shadow" tenant create
 2. Once you've added the TXT record at your registrar site, come back to the wizard and click **Okay, I've added the record** to confirm the record.
     
 > [!NOTE]
-> If someone in the account signed up to use Office Online at work (instead of one of the other subscriptions, like Power BI), you'd be prompted to and required to buy licenses for them as part of becoming the admin for the domain. But you can add or remove licenses after you finish the admin setup. 
+> If someone in the account signed up to use Office at work (instead of one of the other subscriptions, like Power BI), you'd be prompted to and required to buy licenses for them as part of becoming the admin for the domain. But you can add or remove licenses after you finish the admin setup. 
 Please note that taking over the shadow tenant will not impact any existing services. The rest of the information and services will remain as is.
   
 ## Some Terminology:

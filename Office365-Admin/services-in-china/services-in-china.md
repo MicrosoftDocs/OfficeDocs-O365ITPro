@@ -176,7 +176,7 @@ Sharing Exchange contact data on Apple mobile devices to the Apple iCloud. |This
 |Exchange Hosted Email Encryption  |Not available.  |
 |Office 365 Message Encryption  |Coming soon.  |
    
-## Office Online
+## Office
 
 |||
 |:-----|:-----|
