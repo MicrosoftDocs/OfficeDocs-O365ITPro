@@ -31,9 +31,9 @@ Message center posts are written in English-only due to the timeliness of the in
   
 ## Set your preferred language
 
-1. From the Microsoft 365 admin center or home page, select the settings icon in the upper-right corner of the window.<br/>![Settings panel](../media/94f50d9b-e6ce-4a52-b6b1-8ddc55d2a859.PNG)
+1. From the Microsoft 365 admin center or home page, select the settings icon in the upper-right corner of the window.
   
-2. Expand **Language and time zone** to show the available options. Select your desired language from the drop-down menu, then click **Save**. Office 365 will try to refresh and display the new language. If that doesn't happen immediately or if it seems that it's taking too long, you can either refresh your browser or sign out and then sign back in.<br/>![Language preference settings](../media/31a3ade3-e25b-44da-b302-3107d8573b50.png)
+2. Under **Language and time zone**, click **View all** to show the available options. Select your desired language from the drop-down menu, and then click **Save**. Office 365 will try to refresh and display the new language. If that doesn't happen immediately or if it seems that it's taking too long, you can either refresh your browser or sign out and then sign back in.
   
 ## Machine translation in Message center
 
