@@ -3,7 +3,7 @@ title: "Live events in Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 6/14/2019
+ms.date: 6/18/2019
 audience: Admin
 ms.topic: overview
 ms.service: yammer
@@ -31,6 +31,8 @@ This article lists the Yammer network requirements, licenses, and permissions fo
 - For steps to create a live event in Yammer, see [Organize a live event in Yammer](https://support.office.com/article/organize-a-live-event-in-yammer-105dd7af-9caf-4a5e-8a44-56d203e96551).
 
 - To see what a live event in Yammer looks like, see [Attend a live event in Yammer](https://support.office.com/article/attend-a-live-event-in-yammer-4b08133c-9ebb-47b0-ab60-4dbfd4bfc965). 
+
+- For answers to frequently asked questions, see [Yammer live event FAQ](https://support.office.com/article/43bbd59d-a734-4c8f-923d-6a239d137d34).
 
 ## Types of live events
 
