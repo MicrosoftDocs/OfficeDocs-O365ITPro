@@ -28,7 +28,7 @@ description: "Understand what you need to know before you go through the sign up
 
 ::: moniker range="o365-worldwide"
 
-Sign up for Office 365 for business so your team can begin using the latest versions of Word, Excel, PowerPoint, and other Office Online programs in your business.
+Sign up for Office 365 for business so your team can begin using the latest versions of Word, Excel, PowerPoint, and other Office programs in your business.
   
 Watch a quick overview of the three Office 365 for business plans, or scroll down for more info.
 <br><br>
@@ -39,7 +39,7 @@ Watch a quick overview of the three Office 365 for business plans, or scroll dow
 
 ::: moniker range="o365-germany"
 
-Sign up for Office 365 for business so your team can begin using the latest versions of Word, Excel, PowerPoint, and other Office Online programs in your business.
+Sign up for Office 365 for business so your team can begin using the latest versions of Word, Excel, PowerPoint, and other Office programs in your business.
   
 Watch a quick overview of the three plans best for your business. or scroll down for more info.
 <br><br>
@@ -54,7 +54,7 @@ Office 365 operated by 21Vianet is designed to meet the needs for secure, reliab
 > [!NOTE]
 > These services are subject to Chinese laws. 
   
-When you sign up for Office 365 operated by 21Vianet, your team can begin using the latest versions of Word, Excel, PowerPoint, and other Office online programs in your business.
+When you sign up for Office 365 operated by 21Vianet, your team can begin using the latest versions of Word, Excel, PowerPoint, and other Office programs in your business.
   
 Ready to sign up? [Select a Plan](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans).
   

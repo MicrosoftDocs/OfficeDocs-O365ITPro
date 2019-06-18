@@ -108,9 +108,6 @@ To set up a domain in Office 365, you must own a domain and change some of the D
   
 After you register your domain (at a domain registrar), you sign in to Office 365 as an admin and set up your domain so you can use it with your email address and other services..
   
-> [!IMPORTANT]
-> China Internet compliance policy requires that you [get an Internet Content Provider (ICP) number for your public website](../services-in-china/get-an-icp-number-for-your-public-website.md). 
-  
 > [!NOTE]
 > The SharePoint Online Public Website information in this article only applies if your organization purchased Office 365 prior to March 9, 2015. 
 

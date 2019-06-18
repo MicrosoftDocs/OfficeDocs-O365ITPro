@@ -20,10 +20,10 @@ ms.collection:
 - Adm_O365_Top
 - Adm_UI_Elements
 - strat_admin_top
+- commerce
 ms.custom:
 - Adm_O365
 - Adm_O365_Top
-- Core_O365Admin_Migration
 - MiniMaven
 - SaRA
 - strat_admin_top
