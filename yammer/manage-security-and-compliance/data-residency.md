@@ -56,6 +56,9 @@ The following Yammer features are not available for Yammer networks in the EU Ge
 
     - If your network is in the US, you'll see **Yammer network activated in the US Geo**. 
 
+##  Reprovision your Yammer Enterprise network to EU Geo
+Customers with a minimum of 10,000 licensed users can have their Yammer Enterprise network reprovisioned to Yammer EU Geo. Please talk to your Microsoft account team representative for details.
+
 ## See also
 
 [Where is your Office 365 data located](https://go.microsoft.com/fwlink/?linkid=2083810)
