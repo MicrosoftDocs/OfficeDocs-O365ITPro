@@ -35,7 +35,7 @@ With Office 365 Groups, you can give a group of people access to a collection of
 - Power BI
 - Yammer (if the group was created from Yammer)
 - A Team (if the group was created from Teams)
-- Roadmap (if you have Project Online)
+- Roadmap (if you have Project for the web )
 
 With an Office 365 group, you don’t have to manually assign permissions to each of these resources, because adding members to the group automatically gives them the permissions they need to the tools that the group provides.
 

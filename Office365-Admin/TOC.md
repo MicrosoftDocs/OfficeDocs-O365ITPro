@@ -161,7 +161,7 @@
 ## Get new features
 ### [About the admin center preview](microsoft-365-admin-center-preview.md)
 ### [What's new in preview](whats-new-in-preview.md)
-### [Stay on topc of changes](manage/stay-on-top-of-updates.md)
+### [Stay on top of changes](manage/stay-on-top-of-updates.md)
 ### [Release options in Office 365](manage/release-options-in-office-365.md)
 ### [Message center](manage/message-center.md)
 ### [Try or buy Microsoft 365](try-or-buy-microsoft-365.md)

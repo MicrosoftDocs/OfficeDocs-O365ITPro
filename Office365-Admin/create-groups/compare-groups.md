@@ -34,7 +34,7 @@ description: "Learn about the types of groups you can use in Office 365."
 In the **Groups** section of the Microsoft 365 admin center, you can create and manage these types of groups: 
 
 - **Office 365 groups** are used for collaboration between users, both inside and outside your company.
-- **Distribution lists** are used for sending notifications to a list of people.
+- **Distribution groups** are used for sending notifications to a group of people.
 - **Security groups** are used for granting access to SharePoint resources.
 - **Mail-enabled security groups** are used for granting access to SharePoint resources, and emailing notifications to those users.
 - **Shared mailboxes** are used when multiple people need access to the same mailbox, such as a company information or support email address.
@@ -51,9 +51,9 @@ Office 365 groups can be accessed through mobile apps such as Outlook for iOS an
 
 Group members can send as or send on behalf of the group email address if this has been [enabled by the administrator](allow-members-to-send-as-or-send-on-behalf-of-group.md).
 
-## Distribution lists
+## Distribution groups
 
-[Distribution lists](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-distribution-groups/manage-distribution-groups) are used for sending notifications to a list of people. They can receive external email if enabled by the administrator.
+[Distribution groups](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-distribution-groups/manage-distribution-groups) are used for sending notifications to a group of people. They can receive external email if enabled by the administrator.
 
 Distribution groups are best for situations where you need to broadcast information to a set group of people, such as "People in Building A" or "Everyone at Contoso."
 
