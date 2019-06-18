@@ -41,6 +41,7 @@
 ### [About Exchange Online admin role](add-users/about-exchange-online-admin-role.md)
 ## Email
 ### [Email in Office 365](email/email.md)
+### [Office 365 user email settings](email/office-365-user-email-settings.md)
 ### [Add another email alias for a user](email/add-another-email-alias-for-a-user.md)
 ### [Create a shared mailbox](email/create-a-shared-mailbox.md)
 ### [Convert user mailbox to shared mailbox](email/convert-user-mailbox-to-shared-mailbox.md)
