@@ -47,14 +47,11 @@ It could also happen because you haven't assigned a license to yourself or your 
     > [!NOTE]
     > If you're unable to sign in with your work or school account, you may be signing in to the wrong Office 365 service, see [Where to sign in to Office 365 for business](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
   
-2. From the browser header, go to **Settings** 
-    ![Settings: update your profile, install software and connect it to the cloud](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **My app settings** \> **Office 365**.
-
-    ![Office 365 Settings pane](../media/13ea9957-8ba6-49d3-bf65-cd2e717317a1.png)
+2. Click your account icon in the upper-right, and then choose **My account**.
   
-3. On the My account page, select **Subscriptions**.
+3. In the left navigation, select **Subscriptions**.
 
-    ![Office 365 Subscriptions page](../media/a132e20f-de6c-461d-beb2-2d8cf1a04f1d.png)<br/>You'll see the services that you're licensed to use, such as the latest desktop version of Office, Project, Visio, SharePoint Online or OneDrive for Business, and Exchange Online. If you don't see **The latest desktop version of Office** in the list (or **Project** or **Visio** if you bought plans with those applications), see [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md).
+   You'll see the services that you're licensed to use, such as the latest desktop version of Office, Project, Visio, SharePoint Online or OneDrive for Business, and Exchange Online. If you don't see **The latest desktop version of Office** in the list (or **Project** or **Visio** if you bought plans with those applications), see [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md).
     
 Not all Office 365 plans come with Office. If your organization has a plan that doesn't include the latest desktop version of Office, as the admin, you can [switch to a different Office 365 plan or subscription](../subscriptions-and-billing/switch-to-a-different-plan.md). 
   
@@ -134,37 +131,12 @@ If you're an Office 365 Midsize Business, Office 365 Business, or Office 365 Ent
     
 If you're an Office 365 Small Business admin, do the following to find message trace:
   
-1. Go to **Admin** \> **Service settings** \> **Email, calendar, and contacts**.
-    
-2. Under **Email troubleshooting**, click **Troubleshoot message delivery**. 
-    
-### Find missing email from the past week
+1. Under **Admin centers**, select **Security & Compliance**. 
 
-The mail flow troubleshooter is a simplified version of message trace that also checks for problems with your organization's domain settings. The tool can search for messages sent to or from your organization in the past week.
-  
-1. [Go to the mail flow troubleshooter](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/troubleshoot-mail-flow)
-    
-2. Sign in with a global admin account for your organization.
-    
-3. Choose **Next**.
+2. In the left navigation, choose **Mail flow** \> **Message trace**.
 
-    ![mail flow troubleshooter with Next button](../media/2d57820f-f7bc-4d46-830a-8b25c5d32931.png)
-  
-4. Choose one of the symptoms from the list.
     
-5. Add the email addresses of the sender and recipient of the missing message. If you know part or all of the subject line, you can add that too, but it's not required.
-    
-6. Select the date the message was sent.
 
-    ![input area of the mail flow troubleshooter](../media/4e7981e9-e3b1-4850-a9e2-229b77755a23.png)
-  
-7. Choose **Next**.
-    
-8. The mail flow troubleshooter runs a series of tests and returns a result. If the troubleshooter found the missing message, the results page explains what happened and how you can fix the issue.
-
-    ![Example of the results of the troubleshooter](../media/6a88dfdc-c114-449a-8fe0-a95ce7707f98.png)
-  
-If the mail flow troubleshooter wasn't able to find your missing message, use message trace for more powerful search options.
   
 ### Get help when email messages will send but can't be delivered
 
@@ -229,3 +201,11 @@ For more troubleshooting information, see [Troubleshooting Skype for Business On
 > If you're using Office 365 operated by 21Vianet in China, please [contact the 21Vianet support team](../contact-support-for-business-products.md).
   
 ::: moniker-end
+
+
+## See also
+
+[Message trace in the Security & Compliance Center](https://docs.microsoft.com/en-us/office365/securitycompliance/message-trace-scc?redirectSourcePath=%252farticle%252f3e64f99d-ac33-4aba-91c5-9cb4ca476803)
+
+[Troubleshoot Office 465 mail flow](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/troubleshoot-mail-flow)
+
