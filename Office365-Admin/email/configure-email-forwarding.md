@@ -71,7 +71,7 @@ You must have [admin permissions](../add-users/about-admin-roles.md) in Office 3
     
     **To forward to multiple email addresses**, you can ask the user to set up a rule in Outlook to forward to the addresses. To learn more, see [Use rules to automatically forward messages](https://support.office.com/article/use-rules-to-automatically-forward-messages-45aa9664-4911-4f96-9663-ece42816d746). 
     
-     Or, in the admin center, [create a distribution list](../setup/create-distribution-lists.md), [add the addresses to it](add-user-or-contact-to-distribution-list.md), and then set up forwarding to point to the DL using the instructions in this article.
+     Or, in the admin center, [create a distribution group](../setup/create-distribution-lists.md), [add the addresses to it](add-user-or-contact-to-distribution-list.md), and then set up forwarding to point to the DL using the instructions in this article.
     
 5. Don't delete the account of the user who's email you're forwarding or remove their license!  If you do, email forwarding will stop. 
     

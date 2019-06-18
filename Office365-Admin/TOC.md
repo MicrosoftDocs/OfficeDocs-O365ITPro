@@ -19,7 +19,7 @@
 ### [Customize team site](setup/customize-team-site.md)
 ### [Upgrade users to latest Office client](setup/upgrade-users-to-latest-office-client.md)
 ### [Customize Sign-in page](setup/customize-sign-in-page.md)
-### [Create distribution lists](setup/create-distribution-lists.md)
+### [Create distribution groups](setup/create-distribution-lists.md)
 ### [Customize your organization theme](setup/customize-your-organization-theme.md)
 ## Users and roles
 ### [Add users](add-users/add-users.md)
@@ -49,7 +49,7 @@
 ### [Create, edit, or delete a security group](email/create-edit-or-delete-a-security-group.md)
 ### [Configure email forwarding](email/configure-email-forwarding.md)
 ### [Email collaboration](email/email-collaboration.md)
-### [Add user or contact to distribution list](email/add-user-or-contact-to-distribution-list.md)
+### [Add user or contact to distribution group](email/add-user-or-contact-to-distribution-list.md)
 ### [Configure Clutter](email/configure-clutter.md)
 ### [Remove license from shared mailbox](email/remove-license-from-shared-mailbox.md)
 ## Secure your business data

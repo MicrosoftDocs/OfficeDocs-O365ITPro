@@ -173,7 +173,7 @@ You do not need to assign a license to the shared mailbox in order to forward em
 
 2. Choose the shared mailbox you want to edit, then choose **Email forwarding** \> **Edit**.
     
-3. Set the toggle to **On**, and enter 1 email address to forward the messages to. It can be any valid email address. To forward to multiple addresses, you need to [create a distribution list](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists?view=o365-worldwide) for the addresses, and then enter the name of the distribution list in this box.
+3. Set the toggle to **On**, and enter 1 email address to forward the messages to. It can be any valid email address. To forward to multiple addresses, you need to [create a distribution group](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists?view=o365-worldwide) for the addresses, and then enter the name of the group in this box.
     
 4. Choose **Save**.
 
