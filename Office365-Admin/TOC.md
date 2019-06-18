@@ -144,7 +144,7 @@
 ### [Fix Outlook and Office 365 issues](troubleshoot-issues-for-admins/fix-outlook-and-office-365-issues.md)
 ### [Diagnostic log collection in Support and Recovery Assistant](troubleshoot-issues-for-admins/diagnostic-log-collection-in-support-and-recovery-assistant.md)
 ### [Troubleshoot email issues](troubleshoot-issues-for-admins/troubleshoot-email-issues.md)
-### [Distribution list issues](troubleshoot-issues-for-admins/distribution-list-issues.md)
+### [Distribution group issues](troubleshoot-issues-for-admins/distribution-list-issues.md)
 ### [User not seeing add-ins](troubleshoot-issues-for-admins/user-not-seeing-add-ins.md)
 ### [Remove an email alias](troubleshoot-issues-for-admins/remove-an-email-alias.md)
 ### [Remove an alias from a shared mailbox](troubleshoot-issues-for-admins/remove-an-alias-from-a-shared-mailbox.md)

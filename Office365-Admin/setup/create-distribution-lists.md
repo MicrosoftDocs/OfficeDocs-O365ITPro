@@ -70,6 +70,6 @@ Go to the [admin center](https://login.partner.microsoftonline.cn).
     
 Check out how to use distribution lists in Outlook 2016 and Outlook on the web in the [Use contact groups (formerly distribution lists) in Outlook](https://support.office.com/article/1c97fcb2-0ed4-41e6-b401-58f9d7d40e39.aspx) topic. 
   
-Check out [Troubleshooting distribution list issues](../troubleshoot-issues-for-admins/distribution-list-issues.md) for help with distribution list issues. 
+Check out [Troubleshooting distribution group issues](../troubleshoot-issues-for-admins/distribution-list-issues.md) for help with distribution group issues. 
   
 
