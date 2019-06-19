@@ -115,9 +115,9 @@ Get-DistributionGroup| Foreach-Object{
   
 ## FAQ about upgrading distribution lists to Office 365 Groups in Outlook
 
-### Which distribution lists can be upgraded?
+### Which distribution lists cannot be upgraded?
 
-You can only upgrade cloud-managed, simple, non-nested distribution lists. The table below lists distribution lists that CANNOT be upgraded.
+You can only upgrade cloud-managed, simple, non-nested distribution lists. The table below lists distribution lists that **CANNOT** be upgraded.
   
 |**Property**|**Eligible?**|
 |:-----|:-----|

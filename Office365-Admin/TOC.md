@@ -41,6 +41,7 @@
 ### [About Exchange Online admin role](add-users/about-exchange-online-admin-role.md)
 ## Email
 ### [Email in Office 365](email/email.md)
+### [Office 365 user email settings](email/office-365-user-email-settings.md)
 ### [Add another email alias for a user](email/add-another-email-alias-for-a-user.md)
 ### [Create a shared mailbox](email/create-a-shared-mailbox.md)
 ### [Convert user mailbox to shared mailbox](email/convert-user-mailbox-to-shared-mailbox.md)
@@ -161,7 +162,7 @@
 ## Get new features
 ### [About the admin center preview](microsoft-365-admin-center-preview.md)
 ### [What's new in preview](whats-new-in-preview.md)
-### [Stay on topc of changes](manage/stay-on-top-of-updates.md)
+### [Stay on top of changes](manage/stay-on-top-of-updates.md)
 ### [Release options in Office 365](manage/release-options-in-office-365.md)
 ### [Message center](manage/message-center.md)
 ### [Try or buy Microsoft 365](try-or-buy-microsoft-365.md)
