@@ -19,3 +19,5 @@ search.appverid:
 - MOE150
 description: "Remove users in your organization from MileIQ."
 ---
+
+# Remove users
