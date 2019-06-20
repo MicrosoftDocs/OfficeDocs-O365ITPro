@@ -19,3 +19,5 @@ search.appverid:
 - MOE150
 description: "Accept an invitation to join MileIQ."
 ---
+
+# Accept invitation
