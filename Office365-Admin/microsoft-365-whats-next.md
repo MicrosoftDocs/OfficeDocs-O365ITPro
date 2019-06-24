@@ -26,7 +26,7 @@ Because this article is a new experiment in the type of information that Microso
 > The information contained in this article pertains only to the Microsoft 365 admin center and is not a promise of future functionality nor do we promise that the feature will be released in the time frame we've indicated. In addition, this information is not a complete list of all features being released. This article might be discontinued or deleted at any time.
 
 ## Why are we doing this?
-We've heard your feedback that it's hard to plan for change and that you'd like to know what's coming next to the Microsoft 365 admin center. You can also use the Message Center and the Microsoft 365 Roadmap to stay informed.  
+We’ve heard that you would like to know more about what’s coming to the Microsoft 365 admin center, so we are providing you a handy view - specific to your admin experience. You can also use the Message Center and the Microsoft 365 Roadmap to stay informed.  
 [Stay on top of changes](manage/stay-on-top-of-updates.md)
 
 ## How to use this article
@@ -42,10 +42,6 @@ Here's a list of features that will most-likely be released in July or later.
 Adding a dark theme for the admin center.
 <br>
 [Vote or give feedback for dark theme ](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/36076711-dark-theme-for-the-new-admin-gui )
-
-**Global reader role** <br>
-Adding a new limited admin role that gives users read-ony access to all administrative features in the admin centers. <br>
-[Vote or give feedback for global reader](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/10827459-read-only)
 
 **Add user template**<br>
 You always add a user with the same defaults like assigning licenses and user roles. Create a template to add users with your org's defaults with just one click. <br>
