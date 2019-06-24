@@ -162,8 +162,6 @@ Here are the top issues customers encounter when assigning admin roles:
   
 - You are not part of the global admin group and so you don't have permissions to assign admin roles to other users. Ask another admin to assign roles for you.
     
-- You're using Office 365 Small Business, a version that's no longer available for purchase. These instructions apply to current Office 365 for business plans.
-    
 ## Related Topics
 
 [Assign roles to user accounts with Office 365 PowerShell](https://docs.microsoft.com/en-us/office365/enterprise/powershell/assign-roles-to-user-accounts-with-office-365-powershell)
