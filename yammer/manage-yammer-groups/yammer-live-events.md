@@ -85,7 +85,7 @@ Yammer has partnered with Teams and Stream to provide the best technology for ru
 
     - A Teams license is required to schedule a Yammer live event.
 
-    - Only Yammer group admins can create and schedule a live event.
+    - Only Yammer group admins can create and schedule a live event in Yammer.
 
 - **Producing**:
     - **Events produced using an external app or device**:

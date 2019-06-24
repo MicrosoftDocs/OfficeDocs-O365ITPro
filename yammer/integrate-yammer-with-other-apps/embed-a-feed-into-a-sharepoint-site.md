@@ -36,14 +36,11 @@ Yammer does not have to be the social collaboration tool for SharePoint in order
 ## Add a Yammer feed to a page in SharePoint Online
 
 >[!NOTE]
-> The Yammer Conversations and Highlights web parts do not work if SharePoint is using a vanity domain.
+> The Yammer Conversations and Highlights web parts only work when the SharePoint site uses the original domain name, for example contoso.onmicrosoft.com, and are not supported when the SharePoint site uses a vanity domain name.
 
 For instructions for how to use the Yammer Conversations or Yammer Highlights web part, see [Use a Yammer web part in a SharePoint Online page](https://support.office.com/article/a53cfa0c-3d09-42c8-a286-1038a81c59da). 
 
 These web parts inherit the page theme, and are usable from mobile devices. 
-
->[!NOTE] 
-> The SharePoint Conversations web part is currently in [Targeted Release](https://docs.microsoft.com/en-us/office365/admin/manage/release-options-in-office-365?view=o365-worldwide), and may not yet be available for your organization.
 
 ## Add a Yammer feed to a modern page in SharePoint Server 2019
 
