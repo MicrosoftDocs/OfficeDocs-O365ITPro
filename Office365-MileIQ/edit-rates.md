@@ -19,3 +19,5 @@ search.appverid:
 - MOE150
 description: "Edit the custom MileIQ rates for your organization."
 ---
+
+# Edit rates

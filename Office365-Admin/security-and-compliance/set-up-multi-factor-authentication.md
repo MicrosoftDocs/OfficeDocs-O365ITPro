@@ -81,7 +81,7 @@ All Office 2016 client applications support MFA through the use of the Active Di
     
 ## Allow MFA users to create App passwords for Office client apps
 
-Older email applications like Office 2013 need app passwprds. Here's how to allow your users to create them: 
+Older email applications like Office 2013 need app passwords. Here's how to allow your users to create them: 
 
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
     
