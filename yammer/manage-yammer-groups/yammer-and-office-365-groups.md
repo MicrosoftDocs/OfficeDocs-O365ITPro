@@ -3,7 +3,7 @@ title: "Yammer and Office 365 Groups"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 6/12/19
+ms.date: 6/19/19
 audience: Admin
 ms.topic: overview
 ms.service: yammer
@@ -157,6 +157,10 @@ A: More than 1,000.
 A: All the associated Office 365 content associated with the group is deleted. This includes the document library, OneNote notebook and Planner plans. These resources are soft-deleted, and can be restored by your administrator for up to 30 days. 
 
 For more information about deleting a group, see [Delete a group in Yammer](https://support.office.com/article/f03ab85a-c1d9-4611-ab92-a3b46d747053). 
+
+**Q: Does the Office 365 group expiration policy apply to Office 365 connected Yammer groups?**
+
+A: Yes. When an Office 365 group is deleted because it expired, the Yammer group is deleted.
 
  **Q: Can I have an Office 365 connected Yammer group with dynamic membership**
   
