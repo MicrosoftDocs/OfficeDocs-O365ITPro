@@ -3,7 +3,7 @@ title: "Include a Yammer feed in a SharePoint page"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 12/15/2018
+ms.date: 6/24/2019
 audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -34,6 +34,10 @@ To include a Yammer feed in a SharePoint page, your organization should have an 
 Yammer does not have to be the social collaboration tool for SharePoint in order to embed a Yammer feed, but if you want to make Yammer the primary social experience for SharePoint, see [Integrate Yammer with on-premises SharePoint environments](https://go.microsoft.com/fwlink/?LinkID=524180).
 
 ## Add a Yammer feed to a page in SharePoint Online
+
+>[!NOTE]
+> The Yammer Conversations and Highlights web parts do not work if SharePoint is using a vanity domain.
+
 For instructions for how to use the Yammer Conversations or Yammer Highlights web part, see [Use a Yammer web part in a SharePoint Online page](https://support.office.com/article/a53cfa0c-3d09-42c8-a286-1038a81c59da). 
 
 These web parts inherit the page theme, and are usable from mobile devices. 
