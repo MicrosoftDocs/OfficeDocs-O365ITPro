@@ -45,7 +45,7 @@ Because admins have access to customer and employee data and files, we recommend
 
 |||
 |:-----|:-----|
-|**Recommendation** <br/>  |**Why is this important?** <br/> |
+|**Recommendation** <br/> |**Why is this important?** <br/> |
 |Have 2 to 4 global admins <br/> |    Because only another global admin can reset a global admin's password, we recommend that you have at least 2 global admins in your organization in case of account lockout. But the global admin has almost unlimited access to your org's settings and most of the data, so we also recommend that you don't have more than 4 global admins because that's a security threat. <br/>|
 |Assign the *least permissive role*  <br/>   |    Assigning the *least permissive role* means giving admins only the access they need to get the job done. For example, if you want someone to reset employee passwords you shouldn't assign the unlimited global admin role, you should assign a limited admin role, like Password admin or Helpdesk admin.  This will help keep your data secure. <br/>|
 |Require multi-factor authentication for admins  <br/>  |  It's actually a good idea to require MFA for all of your users, but admins should definitely be required to use MFA to sign in. MFA makes users enter a second method of identification to verify they are who they say they are. Admins potentially have access to a lot of customer and employee data and if you require MFA, even if the admin's password gets compromised, the password is useless without the second form of identification.  When you turn on MFA, the next time the user signs in, they'll need to provide an alternate email address and phone number for account recovery. <br/> |
