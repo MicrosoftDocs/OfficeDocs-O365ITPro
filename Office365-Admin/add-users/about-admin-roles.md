@@ -44,7 +44,7 @@ Here are the available roles and what people assigned to them can do.
 Because admins have access to customer and employee data and files, we recommend that you follow these guidelines to keep your organization and your customer's data more secure.
 
 |||
-|:---------|:---------|
+|:-----|:-----|
 |**Recommendation** <br/>  |**Why is this important?** <br/> |
 |Have 2 to 4 global admins <br/> |    Because only another global admin can reset a global admin's password, we recommend that you have at least 2 global admins in your organization in case of account lockout. But the global admin has almost unlimited access to your org's settings and most of the data, so we also recommend that you don't have more than 4 global admins because that's a security threat. <br/>|
 |Assign the *least permissive role*  <br/>   |    Assigning the *least permissive role* means giving admins only the access they need to get the job done. For example, if you want someone to reset employee passwords you shouldn't assign the unlimited global admin role, you should assign a limited admin role, like Password admin or Helpdesk admin.  This will help keep your data secure. <br/>|
