@@ -78,4 +78,6 @@
 ### [Phasing out temporary mobile passwords](troubleshoot-problems/phasing-out-temporary-mobile-passwords.md)
 ### [Converting Yammer notes into Word](troubleshoot-problems/converting-yammer-notes-into-word-online.md)
 ### [Upgrade your network to stand-alone Yammer](troubleshoot-problems/upgrade-your-network-to-stand-alone-yammer.md)
-
+### [Can't migrate Yammer network across Office 365 tenants](troubleshoot-problems/cannot-migrate-a-yammer-network-across-office-365-tenants.md)
+### [Issue when clicking Yammer tile in Office 365](troubleshoot-problems/error-when-click-the-yammer-tile-in-office-365.md)
+### [Yammer users displayed as "Former member"](troubleshoot-problems/yammer-user-is-displayed-as-former-member.md)

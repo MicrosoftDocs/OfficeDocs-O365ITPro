@@ -1,7 +1,8 @@
 ---
 title: "Admin home"
-ms.author: supotter
-author: supotter
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
 audience: Admin
 ms.topic: landing-page
 layout: LandingPage
