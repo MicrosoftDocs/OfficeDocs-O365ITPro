@@ -21,7 +21,7 @@ description: Learn how to use the Analytics dashboard to view reports and teleme
 
 # Analytics in Kaizala
 
-The Analytics dashboard allows global administrator, Kaizala administrator and group administrators to view reports and telemetry data for Kaizala actions within organization groups. Reporting isn't available for private conversations and groups.
+The Analytics dashboard allows the global administrator, Kaizala administrator, and group administrators to view reports and telemetry data for Kaizala actions within organization groups. Reporting isn't available for private conversations and groups.
 
 Data for all reports is displayed within 4 to 5 minutes. You can experience delays of up to 4 hours for reflecting reports after a group is first marked as an organization group.
  
