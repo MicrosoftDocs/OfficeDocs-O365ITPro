@@ -36,7 +36,6 @@
 ### [Enable or disable Kaizala Pro](enable-disable-kaizala.md)
 ### [Administrator role](admin-role.md)
 ### [Settings](settings.md)
-### [Interop with Microsoft Teams](teams-interop.md)
 ### [Invite users to install Kaizala through SMS](invite-users-to-install-and-register.md)
 ### [Back up and export organization data](backup-export-org-data.md)
 ### [URLs and IP address ranges](urls-and-ip-address-ranges.md)

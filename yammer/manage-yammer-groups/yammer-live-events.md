@@ -3,7 +3,7 @@ title: "Live events in Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 6/18/2019
+ms.date: 6/24/2019
 audience: Admin
 ms.topic: overview
 ms.service: yammer
@@ -46,7 +46,7 @@ There are two ways live events in Yammer can be produced. The requirements depen
     This type of event is typically used for large scale events such as executive town halls, where a single stream from a media mixer is broadcasted to the audience. 
 
     - This type of event uses Stream to encode the broadcast stream.
-    - You need to use an an external encoder to produce the event.
+    - You need to use an an external encoder (app or device) to produce the event.
     - Attendees can view the event in Yammer.
     - The Yammer Live Event feed can be viewed in Yammer, Streams, and Teams.
 
@@ -71,11 +71,11 @@ There are two ways live events in Yammer can be produced. The requirements depen
 
 - Everyone who attends a Yammer live event must have an Office 365 subscription that includes a license for Yammer (Office 365 A3, A5, F1, E1, E3, or E5).
 
-- Everyone with a Yammer license can attend live events in public groups. 
+- Only members of your Yammer network can attend live events. Guests and external users do not have access to live events.
 
-- For live events in private groups, attendees must be members of the private group in which the live event is hosted. 
+- For live events in public groups, all members of your Yammer network can attend. For live events in private groups, attendees must be members of the private group in which the live event is hosted. 
 
-- For attending a live event in Teams, a Teams license is required. For attending a live event in Yammer, a Yammer license is required.
+- For attending a live event in Teams, a Teams license is required. 
 
 ## Permissions for scheduling, creating, and producing live events in Yammer
 
@@ -85,7 +85,7 @@ Yammer has partnered with Teams and Stream to provide the best technology for ru
 
     - A Teams license is required to schedule a Yammer live event.
 
-    - Only Yammer group admins can create and schedule a live event.
+    - Only Yammer group admins can create and schedule a live event in Yammer.
 
 - **Producing**:
     - **Events produced using an external app or device**:

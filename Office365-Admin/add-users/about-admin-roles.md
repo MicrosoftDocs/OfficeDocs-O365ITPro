@@ -73,21 +73,21 @@ Because admins have access to customer and employee data and files, we recommend
 |**Local device admin** <br/> |Users assigned this role become local device admins on all Windows 10 devices joined to Azure AD.  <br/> |
 |**Power BI admin** <br/> |A person assigned to the Power BI admin role will have access to Office 365 Power BI usage metrics. They'll also be able to control your organization's usage of Power BI features. To learn more about administering Power BI, see [Administering Power BI in your organization](https://go.microsoft.com/fwlink/p/?LinkId=842955).  <br/> |
 |**Reports reader** <br/> |Can view all the [activity reports](../activity-reports/activity-reports.md) in the Microsoft 365 admin center and any reports exposed through the reporting APIs.  <br/> |
-|**Message Center privacy reader** <br/> |<descrption needed>.  <br/> |
+|**Message Center privacy reader** <br/> |If your org is affected by a data breach, you'll get an email notification and notifications in the Message Center. Users with this role can view data privacy related posts in the Message center. The Message Center Privacy reader and the global admin can see all notifications in the Message center, but they are the only users who will see messages related to data privacy. <br/> <br/>  By default we also send an email notification for data privacy messages to users assigned the Message Center privacy reader and global admin roles. Each admin can turn off this option by setting their [Message Center preferences](../manage/message-center.md#set-preferences). The email doesn't include any details about the breach only that it can be viewed in the Message center. <br/> <br/>If your organization needs to comply with GDPR or HIPAA regulations, we recommend that the person assigned to this role also be responsible for overseeing your organization's data protection strategy and GDPR/HIPAA compliance implementation. <br><br> Users assigned this role also have read-only access to some admin center resources, such as users, groups, domains, and subscriptions. This role has no access to view, create, or manage support tickets.<br/> <br/>  |
 |**Message Center reader** <br/> |Monitors changes to the service and can view all posts to the [Message center in Office 365](../manage/message-center.md) and share Message center posts with others through email. People assigned this role also have read-only access to some admin center resources, such as users, groups, domains, and subscriptions.  <br/> |
-|**Password admin** <br/> |<descrption needed>.  <br/> |
-|**Power BI admin** <br/> |<descrption needed>.  <br/> |
-|**Printer admin** <br/> |<descrption needed>.  <br/> |
-|**Printer tech** <br/> |<descrption needed>.  <br/> |
-|**Privileged role admin** <br/> |<descrption needed>.  <br/> |
-|**Reports reader** <br/> |<descrption needed>.  <br/> |
-|**Search admin** <br/> |Has full access to all Microsoft Search management features in the Microsoft 365 admin center. Search admins can delegate the Search admin and Search editor roles to users, and create and manage content, like bookmarks, Q&As, and locations. Additionally, these users can view the message center, monitor service health, and create service requests. <br/> |
+|**Password admin** <br/> |Users in this role can reset passwords for non-admin users and users assigned the Directory reader, Guest inviter, and Password admin roles. <br><br> **Important:** Password admins can change passwords for people who might have access to sensitive, private, or critical information. Changing the password of a user provides the potential to assume that user's identity and permissions. <br/> |
+|**Power BI admin** <br/> |Users in this role can manage all admin features in Microsoft Power BI, open and manage service requests, and monitor service health.  <br/> |
+|**Printer admin** <br/> |Assign this role to users who need to register and unregister printers, configure printer access permissions, set default printer preferences, view and manage printer status and print queues, and accept admin consent privileges on behalf of others in your org.  <br/> |
+|**Printer tech** <br/> | Printer techs can register and unregister printers, update basic printer settings, and read all printer and connector properties. <br/> |
+|**Privileged role admin** <br/> |Users with this role can manage role assignments in Azure Active Directory, as well as within Azure AD Privileged Identity Management. In addition, this role allows management of all aspects of Privileged Identity Management and administrative units. <br><br>**Important:** This role grants the ability to manage assignments for all Azure AD roles including the Global Administrator role. This role does not include any other privileged abilities in Azure AD like creating or updating users. However, users assigned to this role can grant themselves or others additional privilege by assigning additional roles.  <br/> |
+|**Reports reader** <br/> | Users with this role can view usage data and the activity reports in the Microsoft 365 admin center, the Power BI adoption content pack, Azure AD sign-in reports, and data returned by Microsoft Graph reporting API.   <br/> |
+|**Search admin** <br/> |Has full access to all Microsoft Search management features in the Microsoft 365 admin center. Search admins can delegate the Search admin and Search editor roles to users, and create and manage content, like bookmarks, Q&A, and locations. Additionally, these users can view the message center, monitor service health, and create service requests. <br/> |
 |**Search editor** <br/> |Creates, manages, and deletes content for Microsoft Search in the Microsoft 365 admin center, including bookmarks, Q&As, and locations. <br/> |
-|**Security and Compliance center roles** <br/> |If you have an Microsoft 365 or Office 365 E3 or E5 business subscription, it includes security and compliance tools. In that case, you have access to these additional roles: eDiscovery Manager, Organization management, Reviewer, Service Assurance User, Supervisory Review.  <br/><br/> To learn more about them, see [Permissions in the Office 365 Security &amp; Compliance Center](https://support.office.com/article/d10608af-7934-490a-818e-e68f17d0e9c1).  <br/> |
-|**Security admin** <br/> |<descrption needed>.  <br/> |
-|**Security reader** <br/> |<descrption needed>.  <br/> |
-|**Service admin** <br/> |Opens support tickets with Microsoft and views the service dashboard and message center. They have "view only" permissions except for opening support tickets and reading them.  <br/><br/> **Tip:** People who are assigned to the Exchange Online, SharePoint Online, and Skype for Business admin roles should also be assigned to the Service admin role. This way they can see important information in the Microsoft 365 admin center, such as the health of the service, and change and release notifications.  <br/> |
-|**[SharePoint admin](https://support.office.com/article/f08144d5-9d50-4922-8e77-4e1a27b40705.aspx)** <br/> |Manages file storage for your organization in SharePoint Online and OneDrive. They do this in the SharePoint admin center. They can also assign other people to be site collection administrators and term store administrators.  <br/><br/> Permissions assigned to SharePoint sites are completely separate from the Office 365 global admin role. You can be a global admin without access to a SharePoint site if you weren't added to it or didn't create the site.  <br/><br/> People in this role can also view all the [activity reports](../activity-reports/activity-reports.md) in the Microsoft 365 admin center, create and manage all Office 365 Groups, open and manage support tickets, and monitor service health.  <br/><br/> To learn more, see [About the SharePoint admin role](https://support.office.com/article/f08144d5-9d50-4922-8e77-4e1a27b40705.aspx).  <br/> |
+|**Security and Compliance centers roles** <br/> |If you have an Microsoft 365 or Office 365 E3 or E5 business subscription, it includes security and compliance tools. In that case, you have access to these additional roles: eDiscovery Manager, Organization management, Reviewer, Service Assurance User, Supervisory Review.  <br/><br/> To learn more about them, see [Permissions in the Office 365 Security &amp; Compliance Center](https://support.office.com/article/d10608af-7934-490a-818e-e68f17d0e9c1).  <br/> |
+|**Security admin** <br/> |Users with this role can create and manage security policies, review security policies and reports, and monitor the threat landscape.  <br/> |
+|**Security reader** <br/> | Assign this role to users who need to view security-related features in the Security center, Azure AD Identity Protection, and Privileged Identity Management, but not edit any settings. Security readers can also view Azure AD sign-in reports and audit logs. <br/> |
+|**Service admin** <br/> |Opens support tickets with Microsoft and views the service dashboard and message center. They have "view only" permissions except for opening support tickets and reading them.  <br/><br/> **Tip:** People who are assigned to the Exchange admin, SharePoint admin, and Skype for Business admin roles should also be assigned to the Service admin role. This way they can see important information in the Microsoft 365 admin center, such as the health of the service, and change and release notifications.  <br/> |
+|**[SharePoint admin](https://support.office.com/article/f08144d5-9d50-4922-8e77-4e1a27b40705.aspx)** <br/> |Manages file storage for your organization in SharePoint and OneDrive. They do this in the SharePoint admin center. They can also assign other people to be site collection administrators and term store administrators.  <br/><br/> Permissions assigned to SharePoint sites are completely separate from the these roles. You can be a global admin without access to a SharePoint site if you weren't added to it or didn't create the site.  <br/><br/> People in this role can also view all the [activity reports](../activity-reports/activity-reports.md) in the Microsoft 365 admin center, create and manage all Office 365 groups, open and manage service requests, and monitor service health.  <br/><br/> To learn more, see [About the SharePoint admin role](https://support.office.com/article/f08144d5-9d50-4922-8e77-4e1a27b40705.aspx).  <br/> |
 |**[Skype for Business admin](https://support.office.com/article/aeb35bda-93fc-49b1-ac2c-c74fbeb737b5)** <br/> |Configures Skype for Business for your organization and can view all the [activity reports](../activity-reports/activity-reports.md) in the Microsoft 365 admin center. Can open and manage support tickets. <br/><br/> To learn more, see [About the Skype for Business admin role](https://support.office.com/article/aeb35bda-93fc-49b1-ac2c-c74fbeb737b5).  <br/> |
 |**Teams admin** <br/> |Can manage all aspects of Microsoft Teams except license assignment. This includes policies for calling, messaging, and meetings; use of call analytics tools to troubleshoot telephony issues, and management of users and their telephony settings.  This role additionally grants the ability to create and manage all Office 365 Groups, manage support tickets, and monitor service health. To learn more, see [Use Microsoft Teams admin roles to manage Teams](/microsoftteams/using-admin-roles).  <br/> |
 |**Teams communications admin** <br/> |Can manage calling and meeting features of Microsoft Teams, including phone number assignments and meeting policies. They can also use call analytics tools to troubleshoot issues. To learn more, see [Use Microsoft Teams admin roles to manage Teams](/microsoftteams/using-admin-roles).  <br/> |
@@ -100,7 +100,9 @@ Because admins have access to customer and employee data and files, we recommend
    
 ## Need more details about what these roles can and cannot do?
 
-For a detailed list of what tasks each of these roles can and cannot do, see [Administrator role permissions in Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=862394).
+In the Microsoft 365 admin center, go to **Roles** > **Roles**, and then select any role to open its detail pane. Select the Permissions tab to view the detailed list of what admins assigned that role have permission to do.
+
+For a detailed list of what tasks each of these roles can do, see [Administrator role permissions in Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=862394).
   
 ## What about the Azure Active Directory roles?
 
@@ -108,35 +110,35 @@ If you have a large business, you'll want to set roles in Azure Active Directory
   
 For a list and description of all the Azure Active Directory roles, see [Administrator role permissions in Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=862394).
   
-## What can the Office 365 admin roles do in Exchange Online, SharePoint Online, and Skype for Business Online?
+## What can the admin roles do in Exchange Online, SharePoint Online, and Skype for Business Online?
 
-Certain admin roles in Office 365 have a corresponding role in Exchange Online, SharePoint Online, and Skype for Business Online. The table below describes how these Office 365 admin roles translate into roles in the different Office 365 services.
+Certain admin roles have a corresponding role in Exchange, SharePoint, and Skype for Business. The table below describes how these roles available in the Microsoft 365 admin centertranslate into roles in the different Microsoft services.
   
-|**Office 365 admin role**|**Translates to this in Exchange Online …**|**Translates to this in SharePoint Online …**|**Translates to this in Skype for Business Online.....**|**Translates to this in the Security &amp; Compliance Center...**|
+|**Admin role in the Microsoft 365 admin center**|**Translates to this in Exchange Online …**|**Translates to this in SharePoint Online …**|**Translates to this in Skype for Business Online.....**|**Translates to this in the Security &amp; Compliance Center...**|
 |:-----|:-----|:-----|:-----|:-----|
 |global admin  <br/> |Exchange Online admin  <br/> Company admin  <br/> |SharePoint Online admin  <br/> |Skype for Business admin  <br/> |Security &amp; Compliance Center admin (member of Organization Management role group)  <br/> |
 |billing admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
-|helpdesk/password admin  <br/> |Help Desk admin\*  <br/> |N/A  <br/> |Help desk admin  <br/> |N/A  <br/> |
+|helpdesk <br/> |Help Desk admin\*  <br/> |N/A  <br/> |Help desk admin  <br/> |N/A  <br/> |
 |service admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
-|user management admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
-|Exchange administrator  <br/> |Exchange Online admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
-|SharePoint administrator  <br/> |N/A  <br/> |SharePoint Online admin  <br/> |N/A  <br/> |N/A  <br/> |
+|user admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
+|Exchange admin  <br/> |Exchange Online admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
+|SharePoint admin  <br/> |N/A  <br/> |SharePoint Online admin  <br/> |N/A  <br/> |N/A  <br/> |
 |Skype for Business administrator  <br/> |N/A  <br/> |N/A  <br/> |Skype for Business admin  <br/> |N/A  <br/> |
 |Compliance administrator  <br/> |Organization Management  <br/> |N/A  <br/> |N/A  <br/> |Compliance admin  <br/> |
    
-\*People with the helpdesk/password admin role can do the same tasks as people with the Exchange Help Desk role, however, they can't do message trace.
+\*People with the helpdesk admin role can do the same tasks as people with the Exchange Help Desk role, however, they can't do message trace.
   
 ## Delegated administration
 
-If you're working with a Microsoft partner, you can assign them admin roles. They, in turn, can assign users in your company - or their company - admin roles. You might want them to do this, for example, if they are setting up and managing Office 365 for you.
+If you're working with a Microsoft partner, you can assign them admin roles. They, in turn, can assign users in your company - or their company - admin roles. You might want them to do this, for example, if they are setting up and managing your online organization for you.
   
 A partner can assign these roles:
   
 - Full administration, which has privileges equivalent to a global admin.
     
-- Limited administration, which has privileges equivalent to a helpdesk/password admin.
+- Limited administration, which has privileges equivalent to a helpdesk admin.
     
-Before the partner can assign these roles to users, you must add the partner as a delegated admin to your Office 365 account. This process is initiated by an authorized partner. The partner sends you an email to ask you if you want to give them permission to act as a delegated admin. For instructions, see [Authorize or remove partner relationships](https://support.office.com/article/201ccb3b-6011-4bf1-a6b2-84e7cc1ee2d0.aspx).
+Before the partner can assign these roles to users, you must add the partner as a delegated admin to your account. This process is initiated by an authorized partner. The partner sends you an email to ask you if you want to give them permission to act as a delegated admin. For instructions, see [Authorize or remove partner relationships](https://support.office.com/article/201ccb3b-6011-4bf1-a6b2-84e7cc1ee2d0.aspx).
   
 ## Related articles
 
