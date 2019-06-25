@@ -167,5 +167,3 @@ Here are the top issues customers encounter when assigning admin roles:
 [Assign roles to user accounts with Office 365 PowerShell](https://docs.microsoft.com/en-us/office365/enterprise/powershell/assign-roles-to-user-accounts-with-office-365-powershell)
 
 [Authorize or remove partner relationships](https://support.office.com/article/201ccb3b-6011-4bf1-a6b2-84e7cc1ee2d0.aspx)
-  
-[About the Microsoft 365 admin center](../admin-overview/about-the-admin-center.md)
