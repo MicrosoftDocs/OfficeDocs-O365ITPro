@@ -74,7 +74,7 @@ You can export your own data in Yammer Basic, and can choose to delete any data 
     
     - **Groups.csv** For any group you created or modified during the specified date range, lists the Yammer ID, name, description, privacy status, whether the group is internal or external, link to the group, creation date, and updated date. This file also includes an aggregated total of the number of polls you voted, and what polls you created. 
     
-    - **LikedMessages.csv** For any message liked by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement.     
+    - **LikedMessages.csv** For any message liked by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the IDs for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement.     
 
     - **Messages.csv** For any message you sent or modified during the specified date range, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the full text of the message, attachments, and creation and deletion information. For announcements, includes the title of the announcement.
     
