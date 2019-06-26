@@ -39,7 +39,7 @@ The following Yammer features are not available for Yammer networks in the EU Ge
 
     - External groups can't be created in your Yammer Enterprise network, and your users can't participate in external groups belonging to other networks.
 
-- [Post to Yammer by sending an email message](https://support.office.com/article/058d1bc1-3492-47c5-bde2-29ea294acdb6)
+- [Post to Yammer by sending an email message](https://support.office.com/article/058d1bc1-3492-47c5-bde2-29ea294acdb6) is available for Office 365 Groups only.
 
 
 <a name="geodata"></a>
