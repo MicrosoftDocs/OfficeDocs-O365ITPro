@@ -43,6 +43,8 @@ Here are the available roles and what people assigned to them can do.
 ## Things to consider...
 Because admins have access to customer and employee data and files, we recommend that you follow these guidelines to keep your organization and your customer's data more secure.
 
+Adding some text to this to see if I can get the table to work.
+
 |||
 |:-----|:-----|
 |**Recommendation** <br/> |**Why is this important?** <br/> |
@@ -50,6 +52,8 @@ Because admins have access to customer and employee data and files, we recommend
 |Assign the *least permissive role*  <br/>   |    Assigning the *least permissive role* means giving admins only the access they need to get the job done. For example, if you want someone to reset employee passwords you shouldn't assign the unlimited global admin role, you should assign a limited admin role, like Password admin or Helpdesk admin.  This will help keep your data secure. <br/>|
 |Require multi-factor authentication for admins  <br/>  |  It's actually a good idea to require MFA for all of your users, but admins should definitely be required to use MFA to sign in. MFA makes users enter a second method of identification to verify they are who they say they are. Admins potentially have access to a lot of customer and employee data and if you require MFA, even if the admin's password gets compromised, the password is useless without the second form of identification.  When you turn on MFA, the next time the user signs in, they'll need to provide an alternate email address and phone number for account recovery. <br/> |
 <br>
+
+And some more text down here to see if this works...
 
 ## Admin roles
 |||
