@@ -26,7 +26,7 @@ Because this article is a new experiment in the type of information that Microso
 > The information contained in this article pertains only to the Microsoft 365 admin center and is not a promise of future functionality nor do we promise that the feature will be released in the time frame we've indicated. In addition, this information is not a complete list of all features being released. This article might be discontinued or deleted at any time.
 
 ## Why are we doing this?
-We’ve heard that you would like to know more about what’s coming to the Microsoft 365 admin center, so we are providing you a handy view - specific to your admin experience. You can also use the Message Center and the Microsoft 365 Roadmap to stay informed. [Stay on top of changes](manage/stay-on-top-of-updates.md)
+We’ve heard that you would like to know more about what’s coming to the Microsoft 365 admin center, so we are providing you a handy view - specific to your admin experience. You can also use the [Microsoft 365 Roadmap](https://www.microsoft.com/microsoft-365/roadmap) and the [Message Center](manage/stay-on-top-of-updates.md) to stay informed.
 
 ## How to use this article
 We're looking forward to hearing from you and we'd like to use this article as a conversation starter between us - the admin and the engineering team. Every item listed in the "In the works" section has a link to our [Office UserVoice](https://office365.uservoice.com/forums/273493-office-365-admin) website, where we want you to vote for items that you're excited about, ask questions, and give us feedback.
@@ -61,8 +61,8 @@ Moving the some of the administrative features for Microsoft Teams management in
 Designing ways to simplify the billing experience, including reducing the number of pages under the billing node.<br>
 [Give feedback for simple billing](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/11579520-billing)
 
-### Navigation menu pane intelligence
- The menu pane will remember and show you the menu in the last state that you left it in. It will also make frequently used menu items visible by default.<br>
+### Navigation pane intelligence
+ The navigation pane will remember and show you the pane in the last state that you left it in. It will also make frequently used items visible by default.<br>
 [Give feedback for menu intelligence](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/37705138-let-the-left-nav-menu-remember-my-favorites)
 
 ### Password writeback support
