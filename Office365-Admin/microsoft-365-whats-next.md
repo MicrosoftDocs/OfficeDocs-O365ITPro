@@ -26,8 +26,7 @@ Because this article is a new experiment in the type of information that Microso
 > The information contained in this article pertains only to the Microsoft 365 admin center and is not a promise of future functionality nor do we promise that the feature will be released in the time frame we've indicated. In addition, this information is not a complete list of all features being released. This article might be discontinued or deleted at any time.
 
 ## Why are we doing this?
-We’ve heard that you would like to know more about what’s coming to the Microsoft 365 admin center, so we are providing you a handy view - specific to your admin experience. You can also use the Message Center and the Microsoft 365 Roadmap to stay informed.  
-[Stay on top of changes](manage/stay-on-top-of-updates.md)
+We’ve heard that you would like to know more about what’s coming to the Microsoft 365 admin center, so we are providing you a handy view - specific to your admin experience. You can also use the Message Center and the Microsoft 365 Roadmap to stay informed. [Stay on top of changes](manage/stay-on-top-of-updates.md)
 
 ## How to use this article
 We're looking forward to hearing from you and we'd like to use this article as a conversation starter between us - the admin and the engineering team. Every item listed in the "In the works" section has a link to our [Office UserVoice](https://office365.uservoice.com/forums/273493-office-365-admin) website, where we want you to vote for items that you're excited about, ask questions, and give us feedback.
@@ -45,10 +44,6 @@ Here's a list of features that will most-likely be released in July or later.
 ### Add user template
 You always add a user with the same defaults like assigning licenses and user roles. Create a template to add users with your org's defaults with just one click. <br>
 [Give feedback for automated tasks](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/16255120-new-user-templates)
-
-### Setup page
-One-stop to turn on to Microsoft services and to view dismissed recommendations. For example, configuring multi-factor authentication in one simple work flow.<br>
-[Give feedback for Setup](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/37705198-make-it-easier-to-setup-features-for-all-microsoft)
 
 ### Simplify multi-factor authentication (MFA)
 Ensure you protect your admin accounts by enabling MFA for admins with just one-click.<br>
