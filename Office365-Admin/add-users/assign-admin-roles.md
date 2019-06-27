@@ -41,13 +41,7 @@ When you add new users, if you don't assign them an admin role then they are in 
   
 ![Users](../media/a022e5e8-0b11-47b6-bac8-7527c4f6a202.png) For a list of customized admin roles and a description of what they can do in Office 365, see [About Office 365 admin roles](about-admin-roles.md).
 
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
-  
+ 
 ## Assign admin roles to a user from the new admin center
 
 In the new admin center, you can assign users to a role in 2 different ways, 
@@ -160,7 +154,13 @@ Use the following instructions to assign roles to tens of users.
 
 Here are the top issues customers encounter when assigning admin roles:
   
-- You are not part of the global admin group and so you don't have permissions to assign admin roles to other users. Ask another admin to assign roles for you.
+admin role and so you don't have permissions to assign admin roles to other users. Ask another admin to assign roles for you.
+- ::: moniker range="o365-worldwide"
+
+> [!TIP]
+> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+
+::: moniker-end
     
 ## Related Topics
 
