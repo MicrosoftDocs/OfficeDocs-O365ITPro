@@ -2,7 +2,7 @@
 title: "Troubleshoot Office installation issues in Office 365 for business"
 ms.author: janellem
 author: janellem
-manager: rayring
+manager: eliree
 ms.date: 9/19/2018
 audience: Admin
 ms.topic: troubleshooting
