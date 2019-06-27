@@ -26,12 +26,33 @@ We're continuously adding new features to [the Microsoft 365 admin center](micro
 > [!TIP]
 > Interested in what we're currently working on and plan to release soon? Check out [What's next for the Microsoft 365 admin center](microsoft-365-whats-next.md). 
 
+## June 2019
+
+### Featured feedback request - Dark mode
+Viewing the admin center in dark mode is in preview! You can test it out on the **Home** page only right now. On the **Home** page, the **Dark mode** button is in the command bar next to the **What's new** link.
+
+### Roles management
+At the end of June we started rolling out new way to manage admin roles. A When it's available for you, go to **Roles** > **Roles**. Until then, take a look - it's awesome!
+<br> ![Screen capture: Admin roles list with User admin role details pane highlighted.](media/MAC-AdminRoles-Featured.png) <br>
+
+This new experiences makes it easier to see who has admin permissions and to assign roles that grant the right level of access to your admins. And we also added more roles from Azure AD so that you don't waste time going to multiple admin centers.
+What else can you do here?
+- Export a list of all admins in your org who are assigned Azure Active Directory roles.  
+- View all admins assigned to a specific role, add or remove admins from a specific role, search for roles by name and keyword, and learn more about what each role allows a user to do. 
+- Quickly search for a specific role and create filters.
+
+### Payment method
+There's a new way to update how you pay for your subscriptions. Go to **Billing** > **Bills & payments** > **Payment methods**. You can easily see your payment methods in a list view. Select any item in the list to remove it, edit it, and see if that method is being used for a subscription.
+
+### Setup page
+There's a new way to setup your org, turn on features, and see your dismissed recommendations. It's only available to organizations that have these subscriptions:  Microsoft 365 for Campaigns or Microsoft 365 Business. In the menu pane, go to **Setup** to check it out.
+
 ## May 2019
 
 ### May's featured fix - Case sensitivity
 Now when you search for shared mailboxes, contacts, resources, and mailbox permissions, your search terms don't have to be case-sensitive. 
 
-**User and group management**<br>
+**User and group management**
 This month, we updated **Block user**, **Reset password**, **Contacts** list view, **Groups** list view, and the **Groups** details pages to the new admin center style.
 - With the new **Groups** list view, you get richer data about your groups, and you can customize the way you see your data -- and the groups list remembers how you want to see your data. For example, you can now filter on **Groups with Teams** to see if your groups are part of a Team and you can add the **Teams status** column.
 - The groups list also brings with it all the improvements we made to the list experience in user management, including quick actions and the contextual command bar. 
