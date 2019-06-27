@@ -48,5 +48,3 @@ When Kaizala Pro is disabled, users will see the following messages.
 |Mobile app     |All users        |![Message on an app user's device that Kaizala is disabled.](media/disabled-message-users-app.jpg)  <br>(Note: The message displayed varies depending on the app's version.)       |
 
 Once the app is disabled, members of the organization can no longer sign in using Office 365 on the Kaizala app or the Kaizala management portal. However, employees can still use the Kaizala app for their personal use outside of work.
-
-![Screenshot of enabling Kaizala in the admin center](media/enable-kaizala-in-admin-center.png)
