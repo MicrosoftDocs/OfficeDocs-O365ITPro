@@ -2,6 +2,7 @@
 title: "Office 365 user email settings"
 ms.author: kwekua
 author: kwekua
+manager: scotv
 audience: Admin
 ms.topic: overview
 ms.service: o365-administration
