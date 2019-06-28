@@ -3,7 +3,7 @@ title: "Yammer and Office 365 Groups"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 6/19/19
+ms.date: 6/27/19
 audience: Admin
 ms.topic: overview
 ms.service: yammer
@@ -110,7 +110,7 @@ A: No. The Office 365 connected Yammer groups experience will work only for Offi
   
 **Q: I don't want my existing groups to get connected to Office 365. Can I turn this off?**
   
-A: No, but you can [Manage who can create Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups) which will also apply to the conversion of existing groups. Only groups owned by users with group creation privileges will be connected to Office 365. 
+A: No, but you can [Manage who can create Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups) which will also apply to the conversion of existing groups. Only groups with at least one admin with group creation privileges can be connected to Office 365.
 
 If you apply new a creation policy, this will not retroactively change groups that are already connected to Office 365. This will only impact new groups moving forward. 
 
