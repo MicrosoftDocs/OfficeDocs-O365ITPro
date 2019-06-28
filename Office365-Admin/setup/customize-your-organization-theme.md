@@ -1,7 +1,7 @@
 ---
 title: "Customize the Office 365 theme for your organization"
 ms.author: twerner
-author: twerner
+author: twernermsft
 manager: scotv
 audience: Admin
 ms.topic: article
