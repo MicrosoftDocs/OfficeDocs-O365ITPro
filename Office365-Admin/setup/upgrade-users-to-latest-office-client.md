@@ -2,7 +2,7 @@
 title: "Upgrade your Office 365 for business users to the latest Office client"
 ms.author: janellem
 author: janellem
-manager: rayring
+manager: eliree
 audience: Admin
 ms.topic: troubleshooting
 f1_keywords:
