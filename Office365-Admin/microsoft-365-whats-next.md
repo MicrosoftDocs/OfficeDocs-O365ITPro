@@ -35,7 +35,7 @@ We're looking forward to hearing from you and we'd like to use this article as a
 For the list of features we've released for the Microsoft 365 admin center, see [What's new in the Microsoft 365 admin center](whats-new-in-preview.md).
 
 ## In the works
-Here's a list of features that will most-likely be released in July or later. 
+Here's a list of features that will most-likely be released soon. 
 
 ### Settings redesign
 **Settings** is being reorganized to have the **Services & add-ins**, **Security & privacy**, and **Organization profile** settings on a single list page and these settings will be searchable from the list view. 
