@@ -33,7 +33,7 @@ description: "Admin roles map to business functions and give permissions to do s
 
 # About admin roles
 
-Your subscription comes with a set of admin roles that you can [assign](assign-admin-roles.md) to users in your organization. Each admin role maps to common business functions and gives people in your organization permissions to do specific tasks in the Microsoft 365 admin center. 
+Your subscription comes with a set of admin roles that you can [assign](assign-admin-roles.md) to users in your organization. Each admin role maps to common business functions and gives people in your organization permissions to do specific tasks in the admin centers. 
 
 ## Things to consider...
 
@@ -49,7 +49,7 @@ Because admins have access to sensitive data and files, we recommend that you fo
 
 In the Microsoft 365 admin center, go to **Roles** > **Roles**, and then select any role to open its detail pane. Select the **Permissions** tab to view the detailed list of what admins assigned that role have permission to do.
 
-If you don’t have access to the Microsoft 365 admin center, or if you’re looking for the cmdlets associated with a role, see [Administrator role permissions in Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=862394).
+If you don’t have access to the Microsoft 365 admin center, or if you’re looking for the cmdlets associated with a role, see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
   
 ## What about the Azure Active Directory roles?
 
@@ -57,25 +57,7 @@ If you have a large business, there might be roles in Azure Active Directory tha
   
 For a list and description of all the Azure Active Directory roles, see [Administrator role permissions in Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=862394).
   
-## What can the admin roles do in Exchange, SharePoint, and Teams or Skype for Business?
-
-Certain admin roles have a corresponding role in Exchange, SharePoint, and Skype for Business. The table below describes how these roles available in the Microsoft 365 admin center translate into roles in the different Microsoft services.
-  
-|**Admin role in the Microsoft 365 admin center**|**Translates to this in Exchange Online …**|**Translates to this in SharePoint Online …**|**Translates to this in Skype for Business Online.....**|**Translates to this in the Security &amp; Compliance Center...**|
-|:-----|:-----|:-----|:-----|:-----|
-|global admin  <br/> |Exchange Online admin  <br/> Company admin  <br/> |SharePoint Online admin  <br/> |Skype for Business admin  <br/> |Security &amp; Compliance Center admin (member of Organization Management role group)  <br/> |
-|billing admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
-|helpdesk <br/> |Help Desk admin\*  <br/> |N/A  <br/> |Help desk admin  <br/> |N/A  <br/> |
-|service admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
-|user admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
-|Exchange admin  <br/> |Exchange Online admin  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
-|SharePoint admin  <br/> |N/A  <br/> |SharePoint Online admin  <br/> |N/A  <br/> |N/A  <br/> |
-|Skype for Business administrator  <br/> |N/A  <br/> |N/A  <br/> |Skype for Business admin  <br/> |N/A  <br/> |
-|Compliance administrator  <br/> |Organization Management  <br/> |N/A  <br/> |N/A  <br/> |Compliance admin  <br/> |
-   
-\*People with the helpdesk admin role can do the same tasks as people with the Exchange Help Desk role, however, they can't do message trace.
-  
-## Delegated administration
+## Delegated administration for Microsoft Partners
 
 If you're working with a Microsoft partner, you can assign them admin roles. They, in turn, can assign users in your company - or their company - admin roles. You might want them to do this, for example, if they are setting up and managing your online organization for you.
   
