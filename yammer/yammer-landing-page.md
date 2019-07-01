@@ -378,6 +378,22 @@ Build communities and collaboration in your organization with Yammer.
         </div>
     </div>
     </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3>Live events in Yammer</h3>
+                            <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-live-events" data-linktype="absolute-path">Live events overview</a></p>
+   <p><a href="https://support.office.com/en-us/article/43bbd59d-a734-4c8f-923d-6a239d137d34" data-linktype="absolute-path">Live event FAQ</a></p> 
+   <p><a href="https://support.office.com/en-us/article/c0244ad8-6dcb-419c-add9-2e4a00543412" data-linktype="absolute-path">Drive engagement</a></p>    
+    <p><a href="https://support.office.com/en-us/article/105dd7af-9caf-4a5e-8a44-56d203e96551" data-linktype="absolute-path">Organize a live event</a></p>    
+    <p><a href="https://support.office.com/en-us/article/0cedb557-cbe4-40d3-8147-112633f087eb" data-linktype="absolute-path">Get production help</a></p>               
+                    </div>
+                </div>
+        </div>
+    </div>
+    </li>
 <li>
         <div class="cardSize">
             <div class="cardPadding">
