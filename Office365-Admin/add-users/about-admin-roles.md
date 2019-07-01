@@ -51,8 +51,6 @@ Because admins have access to sensitive data and files, we recommend that you fo
 
 In the Microsoft 365 admin center, go to **Roles** > **Roles**, and then select any role to open its detail pane. Select the **Permissions** tab to view the detailed list of what admins assigned that role have permission to do.
 
-Go to Roles
-
 If you don’t have access to the Microsoft 365 admin center, or if you’re looking for the cmdlets associated with a role, see [Administrator role permissions in Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=862394).
   
 ## What about the Azure Active Directory roles?

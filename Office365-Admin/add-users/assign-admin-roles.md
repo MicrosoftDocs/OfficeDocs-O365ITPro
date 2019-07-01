@@ -37,25 +37,27 @@ description: "Learn how to assign administrator roles to a user or multiple user
  
 If you're the person who who purchased your Microsoft business subscription, you are the global admin. This means you have unlimited control over the products in your subscriptions and you can access most data.
 
+For more informataion, see [About admin roles](about-admin-roles.md).
+
 When you add new users, if you don't assign them an admin role then they are in the "user role" and don't have admin privileges to any of the Microsoft admin centers. But if you need help getting things done, you can assign an admin role to a user. When you do this, you should only assign users to the. For example, if you need someone to help reset passwords, you shouldn't assign them the global admin role, you should assign them the password admin role. Because having too many global admins, with unlimited access to your data and online business, is a security risk.
   
-![Users](../media/a022e5e8-0b11-47b6-bac8-7527c4f6a202.png) For a list of customized admin roles and a description of what they can do in Office 365, see [About Office 365 admin roles](about-admin-roles.md).
-
- 
 ## Assign admin roles to a user from the new admin center
+ > [!NOTE]
+    > This new roles experience is rolling out to organizations starting at the end of June. If you aren't seeing the new **Roles** page, see [Assign admin roles from the classic admin center](assign-admin-roles.md#assign-admin-roles-to-a-user-from-the-classic-admin-center)
 
-In the new admin center, you can assign users to a role in 2 different ways, 
-- You can go to the user's details and "Manage roles" to assign a role to the user.
+In the new admin center, you can assign users to a role in 2 different ways: 
+- You can go to the user's details and **Manage roles** to assign a role to the user.
 - And you can now go to **Roles** and select the role, and then add users to it.
 
 ### Assign an admin role to a user (New Roles experience)
+
 1. In the admin center, go to **Roles** > **Roles** to view all of the admin roles available for your organization.
 1. Select the admin role that you want to assign the user to. 
 1. Select **Assigned admins** > **Add**.
 1. Type the user's **display name** or **username**, and then select the user from the list of suggestions.
 1. Select **Save**, and then the user will be added to the list of assigned admins.
 
-### Assign a user to an admin role
+### Assign a user to an admin role from Active users
 ::: moniker range="o365-worldwide"
 1.  In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
 
