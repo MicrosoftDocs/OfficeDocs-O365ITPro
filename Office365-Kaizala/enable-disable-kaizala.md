@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 audience: Admin
-ms.date: 06/25/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -48,3 +48,12 @@ When Kaizala Pro is disabled, users will see the following messages.
 |Mobile app     |All users        |![Message on an app user's device that Kaizala is disabled.](media/disabled-message-users-app.jpg)  <br>(Note: The message displayed varies depending on the app's version.)       |
 
 Once the app is disabled, members of the organization can no longer sign in using Office 365 on the Kaizala app or the Kaizala management portal. However, employees can still use the Kaizala app for their personal use outside of work.
+
+> [!NOTE]
+> Kaizala will remain visible in the [Office 365 app launcher](https://support.office.com/article/meet-the-office-365-app-launcher-79f12104-6fed-442f-96a0-eb089a3f476a) until the Kaizala license assigned to the user is removed. (To open the app launcher, click or tap the app launcher icon ![Image of app launcher icon.](media/app-launcher-icon.png)].)
+
+The following shows the admin center with the Kaizala license removed for a user.
+
+![Screenshot of admin center with Kaizala license removed.](media/enable-kaizala-in-admin-center.png)
+
+For more information about how to remove licenses from a user, see [Remove licenses from users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users?view=o365-worldwide).  
