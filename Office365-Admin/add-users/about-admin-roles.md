@@ -42,7 +42,7 @@ Because admins have access to sensitive data and files, we recommend that you fo
 | Recommendation                  | Why is this important?                 | 
 | :------------------- | :------------------- |
 | Have 2 to 4 global admins  | Because only another global admin can reset a global admin's password, we recommend that you have at least 2 global admins in your organization in case of account lockout. But the global admin has almost unlimited access to your org's settings and most of the data, so we also recommend that you don't have more than 4 global admins because that's a security threat. |
-| Assign the *least permissive* role              | Assigning the *least permissive* role means giving admins only the access they need to get the job done. For example, if you want someone to reset employee passwords you shouldn't assign the unlimited global admin role, you should assign a limited admin role, like Password admin or Helpdesk admin.  This will help keep your data secure.                 |
+| Assign the *least permissive* role    | Assigning the *least permissive* role means giving admins only the access they need to get the job done. For example, if you want someone to reset employee passwords you shouldn't assign the unlimited global admin role, you should assign a limited admin role, like Password admin or Helpdesk admin.  This will help keep your data secure.                 |
 | Require multi-factor authentication for admins                  |    It's actually a good idea to require MFA for all of your users, but admins should definitely be required to use MFA to sign in. MFA makes users enter a second method of identification to verify they are who they say they are. Admins can have access to a lot of customer and employee data and if you require MFA, even if the admin's password gets compromised, the password is useless without the second form of identification.  <br><br>When you turn on MFA, the next time the user signs in, they'll need to provide an alternate email address and phone number for account recovery.  <br> [Set up multi-factor authentication](../security-and-compliance/set-up-multi-factor-authentication.md)          | 
  
 ## Need more details about what these roles can and cannot do?
@@ -53,9 +53,11 @@ If you don’t have access to the Microsoft 365 admin center, or if you’re loo
   
 ## What about the Azure Active Directory roles?
 
-If you have a large business, there might be roles in Azure Active Directory that will meet your organizational needs, too. A user who is assigned an admin role will have the same permissions across all of the cloud services that your organization has subscribed to, regardless of whether you assign the role in the Microsoft 365 admin center, or in the Azure portal, or by using the Azure AD module for Windows PowerShell.
-  
-For a list and description of all the Azure Active Directory roles, see [Administrator role permissions in Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=862394).
+The Microsoft 365 admin center lets you manage over 30 Azure AD roles. However, these roles are a subset of the roles avialable in the Azure portal. If you have a large business, there might be roles in the Azure portal that meet your organizational needs. 
+
+For a list and description of all the Azure Active Directory roles, see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
+
+A user who is assigned an admin role will have the same level of access to cloud services that your organization has subscribed to, regardless of whether you assign the role in the Microsoft 365 admin center or the Azure portal, or by using the Azure AD module for Windows PowerShell.
   
 ## Delegated administration for Microsoft Partners
 
