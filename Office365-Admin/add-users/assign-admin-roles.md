@@ -42,7 +42,7 @@ For more informataion, see [About admin roles](about-admin-roles.md).
 When you add new users, if you don't assign them an admin role then they are in the "user role" and don't have admin privileges to any of the Microsoft admin centers. But if you need help getting things done, you can assign an admin role to a user. When you do this, you should only assign users to the. For example, if you need someone to help reset passwords, you shouldn't assign them the global admin role, you should assign them the password admin role. Because having too many global admins, with unlimited access to your data and online business, is a security risk.
   
 ## Assign admin roles to a user from the new admin center
-This new roles experience is rolling out to organizations starting at the end of June. If you aren't seeing the new **Roles** page, see [Assign admin roles from the classic admin center](assign-admin-roles.md#assign-admin-roles-to-a-user-from-the-classic-admin-center)
+This new roles experience is rolling out to organizations starting at the end of June. If you aren't seeing the new **Roles** page, see [Assign admin roles from the classic admin center](assign-admin-roles.md#assign-admin-roles-to-a-user-from-the-classic-admin-center) later in this article.
 
 In the new admin center, you can assign users to a role in 2 different ways: 
 - You can go to the user's details and **Manage roles** to assign a role to the user.
