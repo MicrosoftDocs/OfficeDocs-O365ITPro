@@ -33,7 +33,7 @@ description: "Admin roles map to business functions and give permissions to do s
 
 # About admin roles
 
-Your subscription comes with a set of admin roles that you can [assign](assign-admin-roles.md) to users in your organization. Each admin role maps to common business functions and gives people in your organization permissions to do specific tasks in the admin centers. 
+Your subscription comes with a set of admin roles that you can to users in your organization. Each admin role maps to common business functions and gives people in your organization permissions to do specific tasks in the admin centers. For more information, see [Assign admin roles](assign-admin-roles.md)
 
 ## Things to consider...
 
