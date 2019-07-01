@@ -59,19 +59,19 @@ In the new admin center, you can assign users to a role in 2 different ways:
 
 ### Assign a user to an admin role from Active users
 ::: moniker range="o365-worldwide"
-1.  In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
+1.  In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the [Active users]https://go.microsoft.com/fwlink/p/?linkid=847686) page.
+1. In the admin center, go to **Users** > [Active users]https://go.microsoft.com/fwlink/p/?linkid=847686) page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page.
+1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page.
 
 ::: moniker-end
 
@@ -82,7 +82,7 @@ In the new admin center, you can assign users to a role in 2 different ways:
 ## Assign admin roles to a user from the classic admin center
 
 ::: moniker range="o365-worldwide"
-1.  In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
+1.  In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
 
 ::: moniker-end
 
@@ -94,13 +94,13 @@ In the new admin center, you can assign users to a role in 2 different ways:
 
 ::: moniker range="o365-21vianet"
 
-1.In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page.
+1.In the admin center, go to **Users** > (https://go.microsoft.com/fwlink/p/?linkid=850628) page.
 
 ::: moniker-end
 
-2. On the **Active users** page, select the user whose administrator role you want to change. In the flyout pane, next to **Roles**, choose **Edit**. 
+2. On the **Active users** page, select the user whose administrator role you want to change. In the detail pane, next to **Roles**, choose **Edit**. 
     
-    If you don't see the **Edit** option, then you don't have global admin permissions and can't assign admin roles to other people. Ask a global admin in your business to assign roles for you. In a small business, the business owner (the person who purchased Office 365) is a global admin. In a large business, key people in the IT department are global admins.
+    If you don't see the **Edit** option, then you don't have a permission to edit and can't assign admin roles to other people. Ask a global admin in your business to assign roles for you. In a small business, the business owner (the person who purchased your subscription) is a global admin. In a large business, key people in the IT department are global admins.
 
 3. Choose **Customized administrator** to see a list of roles we've customized for you. For a description of each role, see [About Office 365 admin roles.](about-admin-roles.md)
     
