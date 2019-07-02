@@ -57,7 +57,7 @@ Save time by starting your service request online. We'll help you find a solutio
 
 1. [Sign in with your Office 365 admin account](https://aka.ms/admincenter). If you get the message "**You don't have permission to access this page or perform this action**" then you aren't an admin. [Who has admin permissions in my business?](admin-overview/admin-overview.md#who-has-admin-permissions-in-my-business).
     
-2. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=837890), choose the **Need help?** button.
+2. In the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339), choose the **Need help?** button.
 
 3. In the **Need help?** pane, tell us what you need help with, then press **Enter**. 
     

@@ -3,7 +3,7 @@ title: "Live events in Yammer"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 6/24/2019
+ms.date: 7/1/2019
 audience: Admin
 ms.topic: overview
 ms.service: yammer
@@ -47,17 +47,15 @@ There are two ways live events in Yammer can be produced. The requirements depen
 
     - This type of event uses Stream to encode the broadcast stream.
     - You need to use an an external encoder (app or device) to produce the event.
-    - Attendees can view the event in Yammer.
-    - The Yammer Live Event feed can be viewed in Yammer, Streams, and Teams.
-
+    - Attendees view the event in Yammer.
+    
 - **Use Teams to produce your live event**:  
 
     This is used for simple events when all you need are the audio and video devices connected to the presenter's computer, or when you're inviting a remote presenter for the event. 
    
     - This type of event uses Teams to encode the broadcast stream.
     - Use Teams to share content from the presenters webcab and screen.
-    - The Yammer Live Event feed can be viewed in Yammer, Streams, and Teams.
-    - Attendees can view this event in Teams only.
+     - Attendees can view this event in Teams only.
 
 ## Yammer network and group requirements
 
@@ -82,8 +80,6 @@ There are two ways live events in Yammer can be produced. The requirements depen
 Yammer has partnered with Teams and Stream to provide the best technology for running your live event. Because of this, creation and production of live events require Stream and/or Teams licenses and specific permissions. These permissions are not controlled in Yammer settings. The requirements depend on the production methods you plan to use.
 
 - **Scheduling**:
-
-    - A Teams license is required to schedule a Yammer live event.
 
     - Only Yammer group admins can create and schedule a live event in Yammer.
 

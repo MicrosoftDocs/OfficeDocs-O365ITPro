@@ -62,7 +62,7 @@ More at [Sign up for Office 365 Business Premium](https://support.office.com/art
 
 ::: moniker range="o365-worldwide"
 
-To install the Office apps, go to the [admin center](https://go.microsoft.com/fwlink/p/?linkid=837890).
+To install the Office apps, go to the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339).
 
 ::: moniker-end
 
@@ -147,7 +147,7 @@ In this step, you use the Setup wizard to create Office 365 accounts for your us
   
 ::: moniker range="o365-worldwide"
 
-Go to the [admin center](https://go.microsoft.com/fwlink/p/?linkid=837890).
+Go to the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339).
 
 ::: moniker-end
 
@@ -264,7 +264,7 @@ In this step, you use the Setup wizard to create accounts and add your own domai
   
 ::: moniker range="o365-worldwide"
 
-Go to the [admin center](https://go.microsoft.com/fwlink/p/?linkid=837890).
+Go to the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339).
 
 ::: moniker-end
 
@@ -351,7 +351,7 @@ In this step, you sign in to the Office 365 portal and add your school domain to
   
 ::: moniker range="o365-worldwide"
 
-Go to the [admin center](https://go.microsoft.com/fwlink/p/?linkid=837890).
+Go to the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339).
 
 ::: moniker-end
 
