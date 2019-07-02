@@ -8,11 +8,10 @@ ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
-- M365-subscription-management 
- - Adm_O365_Domain_Registrars
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
+- M365-subscription-management
+- Adm_O365
+- Adm_NonTOC
+- Adm_O365_Setup
 search.appverid:
 - BCS160
 - MET150
