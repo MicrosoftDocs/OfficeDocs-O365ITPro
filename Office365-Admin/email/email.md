@@ -5,6 +5,9 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: landing-page
+ms.collection: 
+- Adm_O365
+- Adm_TOC
 layout: LandingPage
 ms.service: o365-administration
 localization_priority: Priority

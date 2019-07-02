@@ -7,13 +7,14 @@ ms.audience: Admin
 ms.topic: overview
 ms.service: o365-administration
 localization_priority: Normal
-ms.custom: Core_O365Admin_Migration
 ms.collection:
-  - M365-subscription-management
+ - M365-subscription-management
+ - Adm_O365
+ - Adm_TOC
 search.appverid:
-  - MET150
-  - MOE150
-  - FRP150
+ - MET150
+ - MOE150
+ - FRP150
 description: "Find out what we're working on next for the Microsoft 365 admin center."
 ---
 

@@ -11,14 +11,9 @@ ms.collection:
 - M365-subscription-management
 - Adm_O365
 - Adm_O365_Top
-- strat_admin_top
+- Adm_TOC
 ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Adm_O365_Top
-- Core_O365Admin_Migration
-- MiniMaven
-- strat_admin_top
+- MSStore_Link
 search.appverid:
 - BCS160
 - MET150

@@ -11,13 +11,8 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
-- IT_OneDriveAdmin
-- IT_OneDriveAdmin_Top
-- Strat_OD_admin
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
-- Strat_OD_admin
+- Adm_O365
+- Adm_NonTOC
 search.appverid:
 - BCS160
 - MET150

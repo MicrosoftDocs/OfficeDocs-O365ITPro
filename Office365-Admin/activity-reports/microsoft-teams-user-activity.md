@@ -13,12 +13,7 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_UI_Elements
-ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_NonTOC
 search.appverid:
 - BCS160
 - MST160
