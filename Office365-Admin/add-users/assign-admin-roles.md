@@ -37,9 +37,9 @@ description: "Learn how to assign administrator roles to a user or multiple user
  
 If you're the person who purchased your Microsoft business subscription, you are the global admin. This means you have unlimited control over the products in your subscriptions and you can access most data.
 
-For more informataion, see [About admin roles](about-admin-roles.md).
+For more information, see [About admin roles](about-admin-roles.md).
 
-When you add new users, if you don't assign them an admin role then they are in the "user role" and don't have admin privileges to any of the Microsoft admin centers. But if you need help getting things done, you can assign an admin role to a user. For example, if you need someone to help reset passwords, you shouldn't assign them the global admin role, you should assign them the password admin role. Having too many global admins, with unlimited access to your data and online business, is a security risk.
+When you add new users, if you don't assign them an admin role then they are in the *user role* and don't have admin privileges to any of the Microsoft admin centers. But if you need help getting things done, you can assign an admin role to a user. For example, if you need someone to help reset passwords, you shouldn't assign them the global admin role, you should assign them the password admin role. Having too many global admins, with unlimited access to your data and online business, is a security risk.
   
 ## Assign admin roles to a user from the new admin center
 This new roles experience is rolling out to organizations starting at the end of June. If you aren't seeing the new **Roles** page, see [Assign admin roles from the classic admin center](assign-admin-roles.md#assign-admin-roles-to-a-user-from-the-classic-admin-center) later in this article.
@@ -65,7 +65,7 @@ In the new admin center, you can assign users to a role in 2 different ways:
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to **Users** > [Active users]https://go.microsoft.com/fwlink/p/?linkid=847686) page.
+1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686).
 
 ::: moniker-end
 
