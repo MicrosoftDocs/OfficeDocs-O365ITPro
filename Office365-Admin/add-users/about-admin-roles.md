@@ -53,7 +53,7 @@ If you don’t have access to the Microsoft 365 admin center, or if you’re loo
   
 ## What about the Azure Active Directory roles?
 
-The Microsoft 365 admin center lets you manage over 30 Azure AD roles. However, these roles are a subset of the roles avialable in the Azure portal. If you have a large business, there might be roles in the Azure portal that meet your organizational needs. 
+The Microsoft 365 admin center lets you manage over 30 Azure AD roles. However, these roles are a subset of the roles available in the Azure portal. If you have a large business, there might be roles in the Azure portal that meet your organizational needs. 
 
 For a list and description of all the Azure Active Directory roles, see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
 
@@ -73,8 +73,6 @@ Before the partner can assign these roles to users, you must add the partner as 
   
 ## Related articles
 
-[Assign admin roles in Office 365](assign-admin-roles.md)
+[Assign admin roles](assign-admin-roles.md)
   
 [Activity reports in the Microsoft 365 admin center](../activity-reports/activity-reports.md)
-  
-

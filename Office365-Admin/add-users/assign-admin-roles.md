@@ -82,19 +82,19 @@ In the new admin center, you can assign users to a role in 2 different ways:
 ## Assign admin roles to a user from the classic admin center
 
 ::: moniker range="o365-worldwide"
-1.  In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
+1.  In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the [Active users]https://go.microsoft.com/fwlink/p/?linkid=847686) page.
+1. In the admin center, go to **Users** >  [Active users]https://go.microsoft.com/fwlink/p/?linkid=847686).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1.In the admin center, go to **Users** > (https://go.microsoft.com/fwlink/p/?linkid=850628) page.
+1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628).
 
 ::: moniker-end
 
@@ -115,36 +115,35 @@ In the new admin center, you can assign users to a role in 2 different ways:
     
 3. Choose **More** > **Edit contact information**.
     
-4. In the **Mobile phone** box, type the number of a mobile phone—including the country code if the user has one—that can receive a text (SMS) message. This phone number is also used when you reset your password for your Office 365 admin account. 
+4. In the **Mobile phone** box, type the number of a mobile phone—including the country code if the user has one—that can receive a text (SMS) message. This phone number is also used when you reset your password for your admin account. 
+You need a mobile phone that's capable of receiving text messages for password reset only if one or both of the following applies to you:
     
-    You need a mobile phone that's capable of receiving text messages for password reset only if one or both of the following applies to you:
+      - Your organization has a custom domain that you've set up to use with your account.
     
-  - Your organization has a custom domain that you've set up to use with Office 365.
-    
-  - Your Office 365 subscription is synchronized through directory synchronization.
+      - Your user accounts are synchronized through directory synchronization.
     
 5. When you have finished, choose **Save**.
     
 ### Assign admin roles to multiple users
 
-If you know PowerShell, see [Assign roles to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/?linkid=854257). It's ideal for assigning roles to hundreds of users.
+If you know PowerShell, see [Assign roles to user accounts with PowerShell](https://go.microsoft.com/fwlink/?linkid=854257). It's ideal for assigning roles to hundreds of users.
   
 Use the following instructions to assign roles to tens of users.
 
 ::: moniker range="o365-worldwide"
-1.  In the admin center, go to the [Active users](https://admin.microsoft.com/AdminPortal/Home#/homepage) page
+1.  In the admin center, go to **Users** > [Active users](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the [Active users](https://portal.office.de/adminportal/home) page.
+1. In the admin center, go to **Users** > [Active users](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1.In the admin center, go to the [Active users](https://login.partner.microsoftonline.cn) page.
+1. In the admin center, go to **Users** > [Active users](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 
@@ -154,9 +153,7 @@ Use the following instructions to assign roles to tens of users.
     
 ## Didn't work for you?
 
-Here are the top issues customers encounter when assigning admin roles:
-  
-admin role and so you don't have permissions to assign admin roles to other users. Ask another admin to assign roles for you.
+You might not have the correct permissions and so you don't have access to assign admin roles to other users. Ask another admin to assign roles for you.
 
 ::: moniker range="o365-worldwide"
 
@@ -167,6 +164,6 @@ admin role and so you don't have permissions to assign admin roles to other user
     
 ## Related Topics
 
-[Assign roles to user accounts with Office 365 PowerShell](https://docs.microsoft.com/en-us/office365/enterprise/powershell/assign-roles-to-user-accounts-with-office-365-powershell)
+[Assign roles to user accounts with PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-roles-to-user-accounts-with-office-365-powershell)
 
 [Authorize or remove partner relationships](https://support.office.com/article/201ccb3b-6011-4bf1-a6b2-84e7cc1ee2d0.aspx)
