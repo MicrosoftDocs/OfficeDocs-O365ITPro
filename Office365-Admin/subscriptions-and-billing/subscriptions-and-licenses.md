@@ -8,12 +8,10 @@ ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
-- M365-subscription-management 
+- M365-subscription-management
 - Adm_O365
+- Adm_TOC
 - commerce
-ms.custom:
-- Adm_O365
-- MiniMaven
 search.appverid:
 - MET150
 - MOE150

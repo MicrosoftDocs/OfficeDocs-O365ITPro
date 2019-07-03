@@ -19,15 +19,10 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_O365_Top
-- Adm_UI_Elements
-- strat_admin_top
+- Adm_TOC
 - commerce
 ms.custom:
-- Adm_O365
-- Adm_O365_Top
 - TopSMBIssues
-- MiniMaven
 - SaRA
 - strat_admin_top
 search.appverid:
