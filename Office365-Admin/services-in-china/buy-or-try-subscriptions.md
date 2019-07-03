@@ -11,13 +11,10 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
-- M365-subscription-management
+- M365-subscription-management 
 - Adm_O365
-- Adm_UI_Elements
+- Adm_NonTOC
 - commerce
-ms.custom:
-- Adm_O365
-- MiniMaven
 search.appverid:
 - MET150
 - GEA150
