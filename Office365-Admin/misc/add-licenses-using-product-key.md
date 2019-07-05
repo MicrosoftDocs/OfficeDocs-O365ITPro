@@ -11,9 +11,8 @@ ms.collection:
 - M365-subscription-management 
 - Adm_O365
 - commerce
+- Adm_NonTOC
 ms.custom:
-- Adm_O365
-- MiniMaven
 - TopSMBIssues
 search.appverid:
 - BCS160

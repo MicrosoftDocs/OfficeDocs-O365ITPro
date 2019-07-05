@@ -9,18 +9,9 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
-- Adm_O365_Domain_Core
+- Adm_O365
+- Adm_TOC
 - Adm_O365_Setup
-- Adm_O365_Top
-- strat_admin_top
-ms.custom:
-- Adm_O365_FullSet
-- Adm_O365_Setup
-- Adm_O365_Top
-- Core_O365Admin_Migration
-- domainstoptier
-- MiniMaven
-- strat_admin_top
 search.appverid:
 - BCS160
 - MET150

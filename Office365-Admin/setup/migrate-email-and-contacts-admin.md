@@ -4,7 +4,7 @@ ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
 audience: Admin
-ms.topic: article
+ms.topic: get-started-article
 f1_keywords:
 - 'O365P_MoveEmail'
 - 'O365M_MoveEmail
@@ -15,11 +15,10 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: 
 - M365-subscription-management
-- Adm_O365_Top
-- strat_admin_top
-ms.custom:
+- Adm_O365
+- Adm_TOC
 - Adm_O365_Setup
-- Adm_O365_Top
+ms.custom:
 - TopSMBIssues
 search.appverid:
 - MET150
