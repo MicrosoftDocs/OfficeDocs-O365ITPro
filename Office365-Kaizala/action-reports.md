@@ -73,7 +73,7 @@ To view a location report, from the home page, go to **Reports** from the naviga
 
 Reports may have generic or specific filters that allow users to see reports for specific criteria. For example, users can use the group filter to see data for a specific group. Similarly, users can use the **Create Date** filter to see the Actions for a specific date or date range. 
   
-### Report drilldown support
+### Report drill-down support
 
 Some reports have drill-down support for hierarchical groups that shows aggregated data and graphs. To turn on the report drill-down mode:
   
