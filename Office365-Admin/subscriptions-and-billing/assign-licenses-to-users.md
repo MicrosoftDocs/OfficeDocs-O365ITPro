@@ -24,7 +24,6 @@ ms.collection:
 ms.custom:
 - TopSMBIssues
 - SaRA
-- strat_admin_top
 search.appverid:
 - MET150
 - MOE150
