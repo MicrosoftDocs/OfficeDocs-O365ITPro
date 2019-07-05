@@ -76,7 +76,7 @@ If you want to add several users at once, you can do so using the **Import Users
 
 1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, select **Directory** > **Export Users**.
 2. Select **View Export History**. 
-3. On the **Export History** page, you can find a list of all user upload operations. Each list item has following information: 
+3. On the **Export History** page, you can find a list of all user upload operations. Each list item has the following information: 
    - **File Name**
    - **Exported by**
    - **Date** - timestamp when the file was uploaded.
