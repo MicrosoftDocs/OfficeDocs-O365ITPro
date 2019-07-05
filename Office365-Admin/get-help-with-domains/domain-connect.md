@@ -16,7 +16,6 @@ ms.collection:
 - Adm_O365
 - Adm_TOC
 - Adm_O365_Setup
-- MiniMaven
 search.appverid:
 - BCS160
 - MET150
