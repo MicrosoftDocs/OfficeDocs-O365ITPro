@@ -14,11 +14,9 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
+- Adm_TOC
 ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- ScenarioChain
+- MSStore_Link
 search.appverid:
 - BCS160
 - MET150
@@ -61,7 +59,7 @@ To preserve a former user's OneDrive for Business documents you first access the
 
 As global admin you have access to the content in a user’s OneDrive site, but you may want to remove your access to a user’s documents. By default, the OneDrive Site Collection Administrator is the owner of the OneDrive account. The following steps describe how to remove a Site Collection Admin from a user’s OneDrive site.
 
-1. Sign in to the <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">admin center</a>  as a global admin or SharePoint admin. 
+1. Sign in to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>  as a global admin or SharePoint admin. 
 
     If you get a message that you don't have permission to access the admin center, then you don't have administrator permissions in your organization.
 

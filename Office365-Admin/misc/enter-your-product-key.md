@@ -48,7 +48,7 @@ If you purchased Office 365 Business Premium from a retail store, this article h
     > [!NOTE]
     > If you want to make sure that your subscription is automatically extended at the end of its term, you can add a credit card or bank account, and then [turn on Recurring billing](../subscriptions-and-billing/renew-your-subscription.md#turn-recurring-billing-off-or-on) for that subscription.
 
-6. When you're finished, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">Admin center</a> to manage your subscription.
+6. When you're finished, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">Admin center</a> to manage your subscription.
 
 ## Extend the expiration date or add a license to an existing subscription
 
