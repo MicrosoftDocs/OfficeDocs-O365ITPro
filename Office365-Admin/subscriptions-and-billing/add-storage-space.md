@@ -16,10 +16,9 @@ ms.collection:
 - M365-subscription-management 
 - Adm_O365
 - commerce
+- Adm_TOC
 ms.custom:
-- Adm_O365
 - MAX_CampaignID
-- MiniMaven
 search.appverid:
 - BCS160
 - MET150

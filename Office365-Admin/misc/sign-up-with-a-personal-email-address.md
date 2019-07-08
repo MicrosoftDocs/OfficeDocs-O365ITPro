@@ -7,7 +7,9 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.custom: Core_O365Admin_Migration
+ms.collection:
+- Adm_O365
+- Adm_NonTOC
 search.appverid:
 - MET150
 - MOE150

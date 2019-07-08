@@ -4,12 +4,10 @@ ms.author: kfollis
 author: kfollis
 manager: mnirkhe
 audience: Admin
-ms.topic: article
+ms.topic: troubleshooting
 ms.service: o365-administration
 localization_priority: Normal
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
+ms.collection: Adm_O365
 search.appverid:
 - BCS160
 - MET150

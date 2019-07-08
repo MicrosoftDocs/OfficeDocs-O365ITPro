@@ -10,10 +10,9 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
+- Adm_TOC
 ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- MSStore_Link
 search.appverid:
 - BCS160
 - MET150

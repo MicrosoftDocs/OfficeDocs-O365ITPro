@@ -14,14 +14,9 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_O365_Top
-- strat_admin_top
+- Adm_TOC
 - commerce
 ms.custom:
-- Adm_O365
-- Adm_O365_Top
-- MiniMaven
-- strat_admin_top
 - TopSMBIssues
 search.appverid:
 - BCS160

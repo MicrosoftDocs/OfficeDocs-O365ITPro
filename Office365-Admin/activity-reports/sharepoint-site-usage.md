@@ -12,13 +12,8 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
-- Adm_UI_Elements
-- SharePoint_Online
-- Strat_SP_admin
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
-- Strat_SP_admin
+- Adm_O365
+- Adm_NonTOC
 search.appverid:
 - BCS160
 - MET150
