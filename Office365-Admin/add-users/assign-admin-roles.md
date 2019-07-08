@@ -123,6 +123,7 @@ If you know PowerShell, see [Assign roles to user accounts with PowerShell](http
 Use the following instructions to assign roles to tens of users.
 
 ::: moniker range="o365-worldwide"
+
 1.  In the admin center, go to **Users** > [Active users](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 ::: moniker-end
@@ -153,7 +154,7 @@ You might not have the correct permissions and so you don't have access to assig
 > Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
 
 ::: moniker-end
-    
+
 ## Related Topics
 
 [Assign roles to user accounts with PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-roles-to-user-accounts-with-office-365-powershell)
