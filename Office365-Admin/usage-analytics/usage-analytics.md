@@ -84,7 +84,7 @@ In addition to customizing the dashboard and reports from the Power BI web inter
 
 ### How can I get the pbit file that this dashboard is associated with?
 
-You can access to the pbit file from the Microsoft Download center.
+You can access to the pbit file from the [Microsoft Download center](https://download.microsoft.com/download/1/7/0/170A5A35-9E0D-478D-828C-4CA2D9A9F092/Microsoft%20365%20Usage%20Analytics.pbit).
 
 ### Who can view the dashboards and reports?
 
