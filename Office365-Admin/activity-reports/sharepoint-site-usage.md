@@ -34,9 +34,9 @@ As an Office 365 admin, the **Reports** dashboard shows you the activity overvie
   
 ## How to get to the SharePoint site usage report
 
-1. In the Microsoft 365 admin center, select **Reports** from the left menu or click on the **Reports** widget. <br/>![Check out new activity reports](../media/2554deff-b840-4aa5-b2b2-83683996fedc.png)
-  
-2. Use the **Select a report** drop-drop at the top left and select **SharePoint site usage**. <br/>![Select a report](../media/fb7bb8ea-eeb7-48c9-b739-601f41ddee16.png)
+1. In the admin center, go to **Reports** > [Usage](https://go.microsoft.com/fwlink/p/?linkid=2074756).
+    
+2. From the **Select a report** drop-down, select **SharePoint** \> **Site usage**.
   
 ## Interpreting the SharePoint site usage report
 

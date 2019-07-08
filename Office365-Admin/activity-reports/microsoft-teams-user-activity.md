@@ -32,9 +32,9 @@ The Office 365 **Reports** dashboard shows you the activity overview across the 
   
 ## How to get to the Microsoft Teams user activity report
 
-1. Go to the Microsoft 365 admin center \> **Reports** \> **Usage**.
+1. In the admin center, go to **Reports** > [Usage](https://go.microsoft.com/fwlink/p/?linkid=2074756).
     
-2. From the **Select a report** drop-down, select **Microsoft Teams user activity**.<br/>![Select a report - Microsoft Teams user activity.](../media/f8288ebe-27c3-43b5-8178-fb80bc5abd52.png)
+2. From the **Select a report** drop-down, select **Microsoft Teams** \> **User activity**.
   
 ## Interpret the Microsoft Teams user activity report
 

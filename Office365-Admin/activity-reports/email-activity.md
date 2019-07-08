@@ -34,9 +34,9 @@ For example, you can get a high level view of email traffic within your organiza
   
 ## How to get to the email activity report
 
-1. Go to the Microsoft 365 admin center \> **Reports**
+1. In the admin center, go to **Reports** > [Usage](https://go.microsoft.com/fwlink/p/?linkid=2074756).
     
-2. Click on the **Email Activity** widget on the **Reports** dashboard or select from the drop down. <br/>![Admin center reports - select Email activity](../media/e49cca5e-f84d-4f3d-bb34-973203bb2047.png)
+2. Click on the **Email Activity** widget on the Reports dashboard or choose from the **Select a report** drop-down. <br/>![Admin center reports - select Email activity](../media/e49cca5e-f84d-4f3d-bb34-973203bb2047.png)
   
 ## Interpret the email activity report
 

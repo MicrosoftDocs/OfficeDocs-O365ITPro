@@ -33,9 +33,9 @@ The Office 365 **Reports** dashboard shows you the activity overview across the 
   
 ## How to get to the Microsoft Teams app usage report
 
-1. Go to the Microsoft 365 admin center \> **Reports** \> **Usage**.
+1. In the admin center, go to **Reports** > [Usage](https://go.microsoft.com/fwlink/p/?linkid=2074756).
     
-2. From the **Select a report** drop-down, select **Microsoft Teams device usage**.<br/>![Microsoft Teams user activity.](../media/f8288ebe-27c3-43b5-8178-fb80bc5abd52.png)
+2. From the **Select a report** drop-down, select  **Microsoft Teams** \> **Device usage**.
   
 ## Interpret the Microsoft Teams app usage report
 

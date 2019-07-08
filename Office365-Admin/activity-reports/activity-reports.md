@@ -41,25 +41,24 @@ Watch this video for on overview: on how you can use the reports:
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
+1. In the admin center, go to the **Reports** \>  [Usage](https://go.microsoft.com/fwlink/p/?linkid=2074756) page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the [365 admin center](https://portal.office.de/adminportal/home) and choose **Reports** \> **Usage**.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the [365 admin center](https://login.partner.microsoftonline.cn) and choose **Reports** \> **Usage**.
 
 ::: moniker-end
 
-2. Choose **Reports** \> **Usage**.
-    
-3. Choose **Select a report** at the top of the dashboard to select from a list of all available reports. Or, click an at-a-glance activity widget for a service (email, OneDrive, etc) to see more information. <br/>![The Office 365 Usage dashboard](../media/usage-report-dashboard.png)
+   
+2. Choose **Select a report** at the top of the dashboard to select from a list of all available reports. Or, click an at-a-glance activity widget for a service (email, OneDrive, etc) to see more information. <br/>![The Office 365 Usage dashboard](../media/usage-report-dashboard.png)
   
 ## Who can see reports
 
@@ -141,9 +140,9 @@ Depending on your Office 365 subscription, here are the available reports.
 
 ## How to view licensing information
 
-- To see how many licenses you have assigned and unassigned, in the admin center, go to **Billing** \> **Licenses**.
+- To see how many licenses you have assigned and unassigned, in the admin center, go to **Billing** \> [Licenses](https://go.microsoft.com/fwlink/p/?linkid=842264).
     
-- To see who is licensed, unlicensed, or guest, go to **Users** \> **Active users**. Use the **Filter** menu to filter your list.
+- To see who is licensed, unlicensed, or guest, in the admin center, go to **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822). Use the **Filter** menu to filter your list.
   
 ## How to view usage information for a specific user
 

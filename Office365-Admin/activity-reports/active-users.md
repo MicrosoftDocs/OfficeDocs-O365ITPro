@@ -33,8 +33,8 @@ For example, you can use the **Active Users** report to find out how many produc
   
 ## How to get to the Active Users report
 
-1. Go to the Microsoft 365 admin center \> **Reports** \> and click **Usage**.
-2. On the **Usage** page, select **Active Users** from the drop-down. 
+1. In the admin center, go to the **Reports** \>  [Usage](https://go.microsoft.com/fwlink/p/?linkid=2074756) page.
+2. Select **Office 365** \> **Active users** from the drop-down. 
 
 ## Interpret the Active Users report
 
