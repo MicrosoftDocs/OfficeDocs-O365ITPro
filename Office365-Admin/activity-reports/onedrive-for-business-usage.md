@@ -37,7 +37,7 @@ For example, the OneDrive card on the dashboard gives you a high-level view of t
   
 ## How do I get to the OneDrive Usage Report?
 
-1. In the admin center, go to **Reports** > [Usage](https://go.microsoft.com/fwlink/p/?linkid=2074756).
+1. In the admin center, go to the **Reports** > [Usage](https://go.microsoft.com/fwlink/p/?linkid=2074756) page.
     
 2. From the **Select a report** drop-down, select **OneDrive** \> **Usage**. 
   

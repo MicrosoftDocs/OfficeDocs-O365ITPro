@@ -43,13 +43,13 @@ As the person who purchased your Office 365 business subscription, you are the g
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Users** > [Active users](https://portal.office.de/adminportal/home) page.
+1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1.In the admin center, go to the **Users** > [Active users](https://login.partner.microsoftonline.cn) page.
+1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page.
 
 ::: moniker-end
 
@@ -67,19 +67,19 @@ If you know PowerShell, see [Assign roles to user accounts with Office 365 Power
 Use the following instructions to assign roles to tens of users.
 
 ::: moniker range="o365-worldwide"
-1.  In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+1.  In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the [Active users](https://portal.office.de/adminportal/home) page.
+1. In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1.In the admin center, go to the [Active users](https://login.partner.microsoftonline.cn) page.
+1.In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page.
 
 ::: moniker-end
 

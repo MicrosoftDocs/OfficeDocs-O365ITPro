@@ -34,7 +34,7 @@ The Office Activation report gives you a view of which users have activated thei
   
 ## How to get to the Office activations report
 
-1. In the admin center, go to **Reports** > [Usage](https://go.microsoft.com/fwlink/p/?linkid=2074756).
+1. In the admin center, go to the **Reports** > [Usage](https://go.microsoft.com/fwlink/p/?linkid=2074756) page.
     
 2. From the **Select a report** drop-down, select **Office 365** \> **Activations**. 
   

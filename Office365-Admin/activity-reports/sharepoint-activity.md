@@ -41,7 +41,7 @@ If you want to understand the amount of activity happening against each SharePoi
   
 ## How do I get to the to the SharePoint activity report?
 
-1. In the admin center, go to **Reports** > [Usage](https://go.microsoft.com/fwlink/p/?linkid=2074756).
+1. In the admin center, go to the **Reports** > [Usage](https://go.microsoft.com/fwlink/p/?linkid=2074756) page.
     
 2. From the **Select a report** drop-down, select **SharePoint** \> **Activity**.
   

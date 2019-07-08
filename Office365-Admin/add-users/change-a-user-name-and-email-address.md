@@ -27,7 +27,7 @@ You may need to change someone's Office 365 email address and display name if, f
 
 You must be an [Office 365 global admin](about-admin-roles.md) to do these steps. 
   
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+1. In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
     
 2. Click the user's name, and then click **Manage username**.
     
@@ -44,7 +44,7 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
 
 ## Set the primary email address 
   
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+1. In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
     
 2. Click the user's name, and then click **Manage email aliases**.
 
@@ -71,7 +71,7 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
     
 ## Change a user's display name
 
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+1. In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
 
 2. Click the user's name, and then click **Manage contact information**.
 
