@@ -35,7 +35,7 @@ All Office 2016 client applications support MFA through the use of the Active Di
 
 1. To enable modern authentication, go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>. 
 2. Turn On the Preview Mode by Selecting Try the preview toggle located at the top of the Home page.
-2. Choose **Settings** \> **Services & add-ins** and then choose **Modern authentication** from the list.
+3. Choose **Settings** \> **Services & add-ins** and then choose **Modern authentication** from the list.
 4. Check the **Enable modern authentication** box in the **Modern authentication** panel. 
 
     ![Modern authentication panel with enable checkbox checked.](../media/enablemodernauth.PNG)
