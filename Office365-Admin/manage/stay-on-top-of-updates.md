@@ -38,4 +38,4 @@ With Office 365, you receive new product updates and features as they become ava
 |**Blogs** and **Community** <br/> |Visit Office Blogs, Microsoft Community, and Microsoft Tech Community to learn more details about changes in Office 365 and share experiences with other users.  <br/> |Visit [Office Blogs](https://blogs.office.com/). Visit [Microsoft Community](http://answers.microsoft.com). Visit [Microsoft Tech Community](https://techcommunity.microsoft.com).  <br/> |
 
 > [!NOTE]
-> You need to be a Global Administrator to make changes to Release preferences.
+> You need to be a global administrator to make changes to Release preferences.
