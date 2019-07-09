@@ -28,34 +28,30 @@ In Office 365, Group members typically create their own Groups, add themselves t
   
 ## Add a member to a Group in the admin center
 
-1. Sign in to the Microsoft 365 admin center using your global admin or Exchange admin account. If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
+1. In the admin center, go to the **Groups** > [Groups](https://go.microsoft.com/fwlink/p/?linkid=2052855) page. If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
     
-2. In the left navigation pane, choose **Groups** \> **Groups**.
+2. Click a group name.
     
-3. Select a Group.
-    
-4. In the details pane, next to **Members**, click **Edit**.
+3. In the details pane, on the **Members** tab, click **View all and manage members**, and then choose **Add members**.
       
-5. Search for or select the name of the member you want to add.
+4. Search for or select the name of the member you want to add.
     
-6. Click **Save**.
+5. Choose **Save**.
     
 ## Remove a member from a Group in the admin center
 
 > [!NOTE]
 > When you remove a member from a private group, it takes 5 minutes for the person to be blocked from the group (after membership changes are fully replicated among domain controllers). 
   
-1. Browse to the admin center.
+1. In the admin center, go to the **Groups** > [Groups](https://go.microsoft.com/fwlink/p/?linkid=2052855) page.
     
-2. In the left navigation pane, choose **Groups** \> **Groups**.
+2. Click a group name.
     
-3. Select a Group.
+3. In the details pane, on the **Members** tab, click **View all and manage members**.
     
-4. In the details pane, next to **Members**, click **Edit**.
+4. Next to the member you want to remove, click the X.
     
-5. Next to the member you want to remove, click the X.
-    
-6. Click **Save** to remove the member. 
+5. Click **Save** to remove the member. 
     
 ## Manage Group owner status
 
@@ -63,30 +59,26 @@ By default, the person who created the group is the group owner. Often a group w
   
 ### Promote a member to owner status in the admin center
 
-1. Navigate to the admin center.
+1. In the admin center, go to the **Groups** > [Groups](https://go.microsoft.com/fwlink/p/?linkid=2052855) page.
     
-2. In the left navigation pane, choose **Groups** \> **Groups**.
+2. Click a group name.
     
-3. Select a Group.
-    
-4. Next to **Owners**, click **Edit**.
+3. In the details pane, on the **Members** tab, click **View all and manage owners**.
 
-5. Search for a member, or click **Add owners**.
+4. Search for a member, or click **Add owners**.
     
-6. Select the check box next to the name of the member you want to add.
+5. Select the check box next to the name of the member you want to add.
     
-7. Click **Save**, and then click **Close**. m    
+6. Click **Save**, and then click **Close**.   
 
     
 ### Remove owner status in the admin center
 
-1. Navigate to the admin center.
+1. In the admin center, go to the **Groups** > [Groups](https://go.microsoft.com/fwlink/p/?linkid=2052855) page.
     
-2. In the left navigation pane, choose **Groups** \> **Groups**.
+2. Click a group name.
     
-3. Select a Group.
-    
-4. Next to **Owners**, click **Edit**.
+3. In the details pane, on the **Members** tab, click **View all and manage owners**.
     
 5. Click the X next to the owner's name. 
     

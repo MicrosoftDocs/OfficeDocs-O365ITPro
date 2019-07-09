@@ -54,35 +54,17 @@ You can also [Permanently delete an Office 365 group](#permanently-delete-an-off
 
 You must have Office 365 global administrator or Exchange administrator permissions.
 
-::: moniker range="o365-worldwide"
-
-1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com).
-
-::: moniker-end
-
-::: moniker range="o365-germany"
-
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
-
-::: moniker-end
+1. In the admin center, go to **Admin centers** > [Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104).
     
-2. In the left navigation of the Microsoft 365 admin center, expand **Admin center**, and then choose **Exchange**.
-    
-3. In the Exchange admin center, select **recipients**, and then choose **groups**. You can view whether the group is Active or soft Deleted. If the group has been permanently deleted, it won't be listed at all.
+2. In the Exchange admin center, select **recipients**, and then choose **groups**. You can view whether the group is Active or soft Deleted. If the group has been permanently deleted, it won't be listed at all.
   
-4. To view the exact time when the group was soft deleted, select the group and view the info in the right pane.
+3. To view the exact time when the group was soft deleted, select the group and view the info in the right pane.
       
-5. Select the group you want to restore, and then choose the restore icon.
+4. Select the group you want to restore, and then choose the restore icon.
     
     ![Choose the group you want to restore, and then click the restore icon.](../media/restore-group.png)
   
-6. Choose refresh ![Refresh icon](../media/6464df90-2a91-4c1f-92a6-9a38c7696ac3.gif) to update the information on the page. Your group will show as Active. Any forms and form data associated with your group will also be restored.
+5. Choose refresh ![Refresh icon](../media/6464df90-2a91-4c1f-92a6-9a38c7696ac3.gif) to update the information on the page. Your group will show as Active. Any forms and form data associated with your group will also be restored.
     
 ## Restore an Office 365 Group using PowerShell
 

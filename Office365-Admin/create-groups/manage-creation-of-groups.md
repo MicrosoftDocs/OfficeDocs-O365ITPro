@@ -84,7 +84,7 @@ Admins in the roles listed above do not need to be members of this group: they r
 > [!IMPORTANT]
 > Be sure to use a **security group** to restrict who can create groups. If you try to use an Office 365 Group, members won't be able to create a group from SharePoint because it checks for a security group. 
     
-1. In the Microsoft 365 admin center, select **Groups** > **Groups**.
+1. In the admin center, go to the **Groups** > [Groups](https://go.microsoft.com/fwlink/p/?linkid=2052855) page.
 
 2. Select **Add a group**, and then in the **Type** list, choose **Security**. Remember the name of the group! You'll need it later.
   

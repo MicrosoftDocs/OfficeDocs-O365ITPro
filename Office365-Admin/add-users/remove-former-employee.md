@@ -216,13 +216,13 @@ To block a user from signing in and accessing Office 365 data:
 If you have Office 365 email as part of your Office 365 subscription, you need to log in to the Exchange admin center to follow these steps to block your former employee from accessing their email.
   
 
-In the admin center, go to **Admin centers** > [Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104).
+1. In the admin center, go to **Admin centers** > [Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104).
      
-3. In the Exchange admin center, navigate to **Recipients** \> **Mailboxes**. 
+2. In the Exchange admin center, navigate to **Recipients** \> **Mailboxes**. 
     
-4. Double-click the user and go to the **Mailbox features** page. Under **Mobile Devices**, click **Disable Exchange ActiveSync** and **Disable OWA for Devices,** and answer **Yes** to both when prompted. 
+3. Double-click the user and go to the **Mailbox features** page. Under **Mobile Devices**, click **Disable Exchange ActiveSync** and **Disable OWA for Devices,** and answer **Yes** to both when prompted. 
     
-5. Under **Email Connectivity**, click **Disable** and answer **Yes** when prompted. 
+4. Under **Email Connectivity**, click **Disable** and answer **Yes** when prompted. 
     
 ## Remove and delete the Office 365 license from a former employee
 <a name="bkmk_remove"> </a>
