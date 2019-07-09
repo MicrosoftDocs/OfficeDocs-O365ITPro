@@ -73,13 +73,13 @@ Since the guided experience walks through the steps to delete a user, here's how
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page, or choose **Users** > **Active Users**.
+1. In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page, or choose **Users** > **Active Users**.
+1. In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page.
 
 ::: moniker-end
 
