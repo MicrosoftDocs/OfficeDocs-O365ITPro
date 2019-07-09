@@ -55,24 +55,22 @@ You must be a global admin or user management admin in Office 365 to do these st
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
-1. In the admin center, go to **Users** \> **Deleted users**.
+1. Go to the [Office 365 admin center](https://go.microsoft.com/fwlink/p/?linkid=848041), and then choose **Users** \> **Deleted users**.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
-1. In the admin center, go to **Users** \> **Deleted users**.
+1. Go to the [Office 365 admin center](https://go.microsoft.com/fwlink/p/?linkid=850627), and then choose **Users** \> **Deleted users**.
 
 ::: moniker-end
 
-3. On the **Deleted users** page, choose the names of the users who you want to restore, and then select **Restore**.
+2. On the **Deleted users** page, choose the names of the users who you want to restore, and then select **Restore**.
     
  
-4. Follow the prompts to set their password, and then choose **Restore**.
+3. Follow the prompts to set their password, and then choose **Restore**.
     
-5. If the user is successfully restored, click **Send email and close**. If you encounter a name conflict or proxy address conflict, see the instructions below for how to restore those accounts.
+4. If the user is successfully restored, click **Send email and close**. If you encounter a name conflict or proxy address conflict, see the instructions below for how to restore those accounts.
     
 After you've restored a user, make sure you notify them that their password changed and you follow up with them.
   
@@ -92,33 +90,31 @@ To fix this, replace the active user account with the one that you are restoring
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
-1. In the admin center, go to **Users** \> **Deleted users**.
+1. Go to the [Office 365 admin center](https://go.microsoft.com/fwlink/p/?linkid=848041), and then choose **Users** \> **Deleted users**.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
-1. In the admin center, go to **Users** \> **Deleted users**.
+1. Go to the [Office 365 admin center](https://go.microsoft.com/fwlink/p/?linkid=850627), and then choose **Users** \> **Deleted users**.
 
 ::: moniker-end
 
   
-3. On the **Deleted users** page, choose the names of the users that you want to restore, and then select **Restore**.
+2. On the **Deleted users** page, choose the names of the users that you want to restore, and then select **Restore**.
     
     > [!NOTE]
     > If two or more users fail to be restored, an error message advises you that the restore operation failed for some users. View the log to see which users were not restored, and then restore the failed accounts one at a time. 
   
-4. Follow the prompts to set the password and click **Restore**.
+3. Follow the prompts to set the password and click **Restore**.
     
-6. A message pops up that says there was a problem restoring the account. Do one of the following:
+4. A message pops up that says there was a problem restoring the account. Do one of the following:
     
   - Cancel the restore and rename the current active user. Then attempt the restore again.
     
   - OR, type a new primary email address for the user and click **Restore**.
     
-7. Review the results, and then select **Close**.
+5. Review the results, and then select **Close**.
     
 ## Restore a user that has a proxy address conflict
 
@@ -135,23 +131,21 @@ You must have [admin permissions](about-admin-roles.md) in Office 365 to do this
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
-1. In the admin center, go to **Users** \> **Deleted users**.
+Go to the [Office 365 admin center](https://go.microsoft.com/fwlink/p/?linkid=848041), and then choose **Users** \> **Deleted users**.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
-1. In the admin center, go to **Users** \> **Deleted users**.
+1. Go to the [Office 365 admin center](https://go.microsoft.com/fwlink/p/?linkid=850627), and then choose **Users** \> **Deleted users**.
 
 ::: moniker-end
 
-3. On the **Deleted users** page, select the user that you want to restore, and then select **Restore**. 
+2. On the **Deleted users** page, select the user that you want to restore, and then select **Restore**. 
     
-4. On the **Restore** page, follow the instructions to set the password and click **Restore**. Any conflicting proxy addresses are automatically removed from the user you are restoring.
+3. On the **Restore** page, follow the instructions to set the password and click **Restore**. Any conflicting proxy addresses are automatically removed from the user you are restoring.
     
-6. Review the results, and then select **Close**.
+4. Review the results, and then select **Close**.
 
 ## Related Topics
 

@@ -50,29 +50,27 @@ These steps are only for people using an Office 365 business plan. To do them, y
  
 ::: moniker range="o365-worldwide"
 
-1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
-2. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+2. On the **Active users** page, choose the user and then choose **Reset password**.
     
-3. On the **Active users** page, choose the user and then choose **Reset password**.
+3. Follow the instructions on the **Reset password** page to auto-generate a new password for the user or create one for them, and then click **Reset**.  
     
-4. Follow the instructions on the **Reset password** page to auto-generate a new password for the user or create one for them, and then click **Reset**.  
-    
-5. Enter an email address the user can get to so they receive the new password, and follow up with them to make sure they got it.
+4. Enter an email address the user can get to so they receive the new password, and follow up with them to make sure they got it.
  
   
 ## Reset my Office 365 tenant admin password
