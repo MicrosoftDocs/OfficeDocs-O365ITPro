@@ -29,9 +29,7 @@ You can upgrade DLs one at a time, or several at the same time.
 
 You must be an Office 365 global admin or Exchange admin to upgrade a distribution list.
   
-1. Sign in with your admin account at [https://aka.ms/admincenter](https://aka.ms/admincenter).
-
-2. Go to **Admin centers** \> **Exchange**. 
+1. From the admin center, go to **Admin centers** \> [Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104). 
     
 3. In the Exchange admin center, go to **Recipients** \> **Groups**.<br/>You'll see a notice indicating you have distribution lists (also called **distribution groups** ) that are eligible to be upgraded to Office 365 groups.<br/> ![Click on Get started](../media/8cf838b4-2644-401f-a366-08c1eea183eb.png)
   

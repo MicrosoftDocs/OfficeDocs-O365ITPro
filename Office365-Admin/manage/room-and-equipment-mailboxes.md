@@ -69,15 +69,11 @@ To use room or equipment mailboxes, open Outlook from your computer or sign in t
 
 To set up a room or equipment mailbox, go to the Microsoft 365 admin center. (You'll need to have admin permission to do this.) Create the mailbox and let everyone know they can start reserving it for meetings and events.
   
-1. Sign in to Office 365 with your work or school account. 
-    
-2. Go to the [admin center](../admin-overview/about-the-admin-center.md).
-    
-3. Navigate to **Resources \> Rooms &amp; equipment**.
+1. In the admin center, go to the **Resources** \> [Rooms &amp; equipment](https://go.microsoft.com/fwlink/p/?linkid=2067334) page.
   
-4. Click **Add**.
+2. Click **Add**.
     
-5. Fill out the room or equipment fields:<br/>![Add a room mailbox in Office 365](../media/114d49e3-976e-40ef-b0af-2b0f5c85f15e.png)<br/>
+3. Fill out the room or equipment fields:<br/>![Add a room mailbox in Office 365](../media/114d49e3-976e-40ef-b0af-2b0f5c85f15e.png)<br/>
   
   - **Room** or **Equipment**: the type of mailbox you'd like to create.
     
@@ -91,11 +87,11 @@ To set up a room or equipment mailbox, go to the Microsoft 365 admin center. (Yo
     
   - **Phone number**: the number of the room itself. This is different from the meeting phone number generated when using Skype for Business.
     
-6. Choose **Add**.
+4. Choose **Add**.
     
-7. Select the room or equipment mailbox you created to see or edit the details.
+5. Select the room or equipment mailbox you created to see or edit the details.
   
-8. If you made changes, click **Save** and then **Close**.
+6. If you made changes, click **Save** and then **Close**.
 
 ## Common questions about room and equipment mailboxes
 

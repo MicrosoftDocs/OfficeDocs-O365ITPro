@@ -35,23 +35,21 @@ You can add your own custom tiles to the app launcher that point to SharePoint s
   
 ## Add a custom tile to the app launcher
 
-1. [Sign in to Office 365 for business](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) with your work or school account. 
+1. In the admin center, go to the **Settings** > [Organization profile](https://go.microsoft.com/fwlink/p/?linkid=2067339) page.
     
-2. Select the app launcher icon and choose **Admin**. 
+2. On the **Organization profile** page, next to   **Add custom tiles for your organization**, choose **Edit**.<br/><br/>NOTE: If you don't see the custom tiles option, verify that you have an Exchange Online mailbox assigned to you and you've successfully signed into your mailbox. Both are required for this feature.
+  
+3. Choose **Add a custom tile**. 
+  
+4. Enter a **Tile name** for the new tile. The name will appear in the tile. 
     
-3. In the Microsoft 365 admin center, search for **tiles** or use the left navigation pane by choosing **Settings** \> **Organization profile** \> **Add custom tiles for your organization** \> **Edit**.<br/><br/>NOTE: If you don't see the Custom tiles section, verify you have an Exchange Online mailbox assigned to you and you've successfully signed into your mailbox. Both are required for this feature.
+5. Enter a **URL** for the tile. This is the location where you want your users to go when they click the tile on the app launcher. Use HTTPS in the URL.<br/>TIP: If you're creating a tile for a SharePoint site, navigate to that site, copy the URL, and paste it here. The URL of your default team site looks like this: `https://<company_name>.sharepoint.com` 
   
-4. Choose **Add a custom tile**. 
-  
-5. Enter a **Tile name** for the new tile. The name will appear in the tile. 
+6. Enter a **Description** for the tile. You see this when you select the tile on the My apps page and choose App details. 
     
-6. Enter a **URL** for the tile. This is the location where you want your users to go when they click the tile on the app launcher. Use HTTPS in the URL.<br/>TIP: If you're creating a tile for a SharePoint site, navigate to that site, copy the URL, and paste it here. The URL of your default team site looks like this: `https://<company_name>.sharepoint.com` 
+7. Enter an **Image URL** for the tile. The image appears on the My apps page and app launcher.<br/>TIP: The image should be 60x60 pixels and be available to everyone in your organization without requiring authentication.
   
-7. Enter a **Description** for the tile. You see this when you select the tile on the My apps page and choose App details. 
-    
-8. Enter an **Image URL** for the tile. The image appears on the My apps page and app launcher.<br/>TIP: The image should be 60x60 pixels and be available to everyone in your organization without requiring authentication.
-  
-9. Choose **Save** to create the custom tile. 
+8. Choose **Save** to create the custom tile. 
     
 Your custom tile now appears in the app launcher on the **All** tab for you and your users. 
   
@@ -69,11 +67,13 @@ Your custom tile now appears in the app launcher on the **All** tab for you and 
   
 ## Edit or delete a custom tile
 
-1. In the Microsoft 365 admin center, search for **tiles** or use the left navigation pane by choosing **Settings** \> **Organization profile** \> **Add custom tiles for your organization** \> **Edit**.
-  
-2. Update the **Tile name**, **URL**, **Description**, or **Image URL** for the custom tile (see [Add a custom tile to the app launcher](#add-a-custom-tile-to-the-app-launcher)).
+1. In the admin center, go to the **Settings** > [Organization profile](https://go.microsoft.com/fwlink/p/?linkid=2067339) page.
     
-3. Click **Update** \> **Close**. 
+2. On the **Organization profile** page, next to   **Add custom tiles for your organization**, choose **Edit**.
+
+3. Update the **Tile name**, **URL**, **Description**, or **Image URL** for the custom tile (see [Add a custom tile to the app launcher](#add-a-custom-tile-to-the-app-launcher)).
+    
+4. Click **Update** \> **Close**. 
     
 To delete a custom tile, from the **Custom tiles** window, select the tile, click **Remove tile** and then click **Delete**. 
   

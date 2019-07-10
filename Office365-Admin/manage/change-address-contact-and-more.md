@@ -37,7 +37,7 @@ To change the address associated with your bill or subscription, see [Change you
 
 To change other information on your company's profile page:
   
-1. In the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2067339" target="_blank">Organization profile</a> page, or choose your organization's name at the top of the page.
+1. In the admin center, go to the **Settings** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2067339" target="_blank">Organization profile</a> page, or choose your organization's name at the top of the page.
 
 2. Choose **Edit** beside your organization's name.
 

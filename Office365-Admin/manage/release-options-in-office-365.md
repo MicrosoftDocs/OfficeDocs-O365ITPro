@@ -89,11 +89,7 @@ You can change how your organization receives Office 365 updates by following th
 > [!IMPORTANT]
 > It can take up to 24 hours for the below changes to take effect in Office 365. If you opt out of targeted release after enabling it, your users may lose access to features that haven't reached the scheduled release yet. 
   
-1. Sign in to Office 365 with your work or school account. 
-    
-2. Go to the [admin center](../admin-overview/about-the-admin-center.md).
-    
-3. Navigate to **Settings** \> **Organization profile**.
+1. In the admin center, go to the **Settings** \> [Organization profile](https://go.microsoft.com/fwlink/p/?linkid=2067339) page.
   
 4. Next to **Release preferences**, click **Edit**.
     
@@ -109,7 +105,7 @@ You can change how your organization receives Office 365 updates by following th
 
 ## To add users in bulk
   
-1. Next to Release preferences, click **Actions** \> **+ Bulk add people for first release** under the **Standard release** heading. 
+1. Next to **Release preferences**, click **Actions** \> **+ Bulk add people for first release** under the **Standard release** heading. 
     
 2. Choose **Browse** to select a file containing each person's email address. 
     

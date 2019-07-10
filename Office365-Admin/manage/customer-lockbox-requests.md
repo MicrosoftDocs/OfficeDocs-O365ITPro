@@ -77,13 +77,9 @@ An Office 365 administrator can turn on Customer Lockbox controls in the Microso
 > [!NOTE]
 > To perform the following procedure, you must be a global administrator in your Microsoft 365 or Office 365 organization, or be assigned the **Customer Lockbox access approver** admin role.
 
-1. Go to [https://admin.microsoft.com](https://admin.microsoft.com) and sign in with your work or school account.
+1. In the admin center, go to the **Settings** > [Security & privacy](https://go.microsoft.com/fwlink/p/?linkid=2072756) page.
 
-2. Click **Settings > Security & privacy**.
-    
-    ![Edit the Customer Lockbox settings in the admin center](../media/CustomerLockbox2.png)
-
-3. On the **Customer Lockbox** tile, click **Edit**, and then move the toggle to **On** or **Off** to turn the feature on or off.
+2. On the **Customer Lockbox** tile, click **Edit**, and then move the toggle to **On** or **Off** to turn the feature on or off.
 
     ![Require approval for Customer Lockbox](../media/CustomerLockbox4.png)
 
