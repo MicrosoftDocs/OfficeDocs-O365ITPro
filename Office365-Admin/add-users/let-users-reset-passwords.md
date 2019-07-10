@@ -50,13 +50,13 @@ These steps turn on self-service password reset for everyone in your business.
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home) and choose **Settings** \> **Security &amp; privacy**.
+1. In the [Microsoft 365 admin center](https://portal.office.de/adminportal/home), go to the **Settings** \> **Security &amp; privacy** page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn) and choose **Settings** \> **Security &amp; privacy**.
+1. In the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn), go to the **Settings** \> **Security &amp; privacy** page.
 
 ::: moniker-end
 

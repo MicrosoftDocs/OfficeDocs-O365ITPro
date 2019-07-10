@@ -68,40 +68,25 @@ You must have a global admin account to perform these steps.
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 
 ::: moniker-end
-
-::: moniker range="o365-germany"
-    
- 1.   If you're using Office 365 Germany, go to <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">https://portal.office.de/adminportal/home?ref=homepage</a>. 
-    
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
- 1.   If you're using Office 365 operated by 21Vianet, go to  <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">https://portal.partner.microsoftonline.cn/adminportal/home?ref=homepage</a>. 
-
- ::: moniker-end 
-
-
-2. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
    
 ::: moniker range="o365-germany"
     
- 2.   If you're using Office 365 Germany, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
+ 1.   In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
     
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
- 2.   If you're using Office 365 operated by 21Vianet, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2007048" target="_blank">Domains</a> page. 
+ 1.   In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2007048" target="_blank">Domains</a> page. 
 
 ::: moniker-end 
 
-3. On the **Domains** page, choose **Add domain**.
+2. On the **Domains** page, choose **Add domain**.
     
-4. Follow the steps to confirm that you own your domain and to change your email address.
+3. Follow the steps to confirm that you own your domain and to change your email address.
     
 You'll be guided to get everything set up correctly with your domain in Office 365.
   

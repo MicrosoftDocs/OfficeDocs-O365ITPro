@@ -48,17 +48,16 @@ You must have [admin permissions](../add-users/about-admin-roles.md) in Office 3
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
- 
 
 ::: moniker range="o365-germany"
     
- 1.   If you're using Office 365 Germany, in the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page. 
+ 1.   In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page. 
     
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
- 1.   If you're using Office 365 operated by 21Vianet, in the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
+ 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
 
 ::: moniker-end 
     

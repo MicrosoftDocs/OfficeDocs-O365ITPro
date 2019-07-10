@@ -47,13 +47,13 @@ Watch this video for on overview: on how you can use the reports:
 
 ::: moniker range="o365-germany"
 
-1. Go to the [365 admin center](https://portal.office.de/adminportal/home) and choose **Reports** \> **Usage**.
+1. In the [365 admin center](https://portal.office.de/adminportal/home), go to the **Reports** \> **Usage** page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [365 admin center](https://login.partner.microsoftonline.cn) and choose **Reports** \> **Usage**.
+1. In the [365 admin center](https://login.partner.microsoftonline.cn), go to the **Reports** \> **Usage** page.
 
 ::: moniker-end
 

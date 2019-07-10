@@ -33,23 +33,8 @@ When you convert a user's mailbox to a shared mailbox, all of the existing email
 
 Here's how you convert a mailbox to a shared mailbox:
 
-::: moniker range="o365-worldwide"
  
-1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
-
-::: moniker-end
-
-::: moniker range="o365-germany"
-
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
-
-::: moniker-end
+1. From the admin center, go to **Admin centers** > [Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104).
 
 3. Choose **Recipients** \> **Mailboxes**.
 
@@ -110,24 +95,8 @@ Let's say you've deleted a user account and now you want to convert their old ma
 
 ## Convert a shared mailbox back to a user's (private) mailbox
 
-::: moniker range="o365-worldwide"
- 
-1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
-
-::: moniker-end
-
-::: moniker range="o365-germany"
-
-1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home), and then expand **Admin centers** \> **Exchange**.
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn), and then expand **Admin centers** \> **Exchange**.
-
-::: moniker-end
-    
+1. From the admin center, go to **Admin centers** > [Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104).
+   
 2. Choose **Recipients** \> **Shared**.
 
 3. Choose the shared mailbox. Under **Convert to Regular Mailbox**, click **Convert**.

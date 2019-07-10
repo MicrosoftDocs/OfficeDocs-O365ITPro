@@ -38,29 +38,27 @@ Are you removing your domain because you want to add it to a different Office 36
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
+1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page. 
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page. 
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page. 
 
 ::: moniker-end
-
-2. Choose **Users** \> **Active Users**.
+ 
+2. Select the boxes next to the names of the users who you want to move.
     
-3. Select the boxes next to the names of the users who you want to move.
+3. Click the More menu (...) at the top of the page, and then choose **Edit domains**. 
     
-4. Click the More menu (...) at the top of the page, and then choose **Edit domains**. 
-    
-5. In the **Edit domains** pane, choose a different domain. 
+4. In the **Edit domains** pane, choose a different domain. 
        
 You'll need to do this for yourself, too, if you're on the domain that you want to remove. When you edit the domain for your account, you'll have to log out and log back in using the new domain you chose to continue. For example, if you're logged in as  *dave@contoso.onmicrosoft.com* : 
     
@@ -80,57 +78,55 @@ You can also use PowerShell to move users to another domain. See [Set-MsolUserPr
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
+1. In the admin center, go to the **Groups** > [Groups](https://go.microsoft.com/fwlink/p/?linkid=2052855) page. 
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=848041),  go to the **Groups** > **Groups** page. 
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=850627),  go to the **Groups** > **Groups** page. 
 
 ::: moniker-end
-
-2. Choose **Groups** \> **Groups**. 
     
-3. Click the group name, and then click **Manage**. 
+2. Click the group name, and then click **Manage**. 
     
-4. Use the drop-down to choose another domain.
+3. Use the drop-down to choose another domain.
     
-5. Choose **Save**, then **Close**. Repeat this process for any groups or distribution lists associated with the domain that you want to remove.
+4. Choose **Save**, then **Close**. Repeat this process for any groups or distribution lists associated with the domain that you want to remove.
     
 ### Step 3: Remove the old domain
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
+1. In the admin center, go to the **Setup** > [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page. 
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. In the admin center, go to the **Setup** > [Domains](https://go.microsoft.com/fwlink/p/?linkid=854615) page. 
+
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. In the admin center, go to the **Setup** > [Domains](https://go.microsoft.com/fwlink/p/?linkid=2007048) page. 
+
 
 ::: moniker-end
-
-2. Choose **Setup** \> **Domains**.
+  
+2. On the **Domains** page, choose the domain that you want to remove. 
     
-3. On the **Domains** page, choose the domain that you want to remove. 
+3. In the right pane, choose **Remove**.
     
-4. In the right pane, choose **Remove**.
-    
-5. Follow any additional prompts, and then choose **Close**.
+4. Follow any additional prompts, and then choose **Close**.
     
 ## How long does it take for a domain to be removed?
 

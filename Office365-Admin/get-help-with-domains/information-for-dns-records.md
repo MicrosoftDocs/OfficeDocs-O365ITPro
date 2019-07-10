@@ -27,7 +27,7 @@ description: "Learn to find the values/information you need to create DNS record
   
 ### Step 1: Find the TXT record value and verify
 
-1. In the admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Setup** > [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page.
     
     If you're using Office 365 Germany, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=854615) page. 
     
@@ -47,7 +47,7 @@ description: "Learn to find the values/information you need to create DNS record
     
 ### Step 2: Find the MX record value for email and more
 
-1. In the admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Setup** > [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page.
     
     If you're using Office 365 Germany, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=854615) page. 
     
