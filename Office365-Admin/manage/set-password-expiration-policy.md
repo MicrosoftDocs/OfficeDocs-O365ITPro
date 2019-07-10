@@ -36,9 +36,7 @@ As an admin, you can make user passwords expire after a certain number of days, 
 > [!IMPORTANT]
 > Only [Office 365 global admins](../add-users/about-admin-roles.md) can perform these steps. 
   
-1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
-
-2. In the admin center, go to **Settings** \> **Security & privacy**. If you aren't an Office 365 global admin, you won't see the Security and privacy option. 
+1. In the admin center, go to the **Settings** \> [Security & privacy](https://go.microsoft.com/fwlink/p/?linkid=2072756) page. If you aren't an Office 365 global admin, you won't see the Security and privacy option. 
   
 3. Next to **Password policy**, click **Edit**.
   
