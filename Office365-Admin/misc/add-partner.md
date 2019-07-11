@@ -75,53 +75,36 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
 
 ::: moniker range="o365-worldwide"
 
-1. Sign in to Office 365 with your work or school account. 
+1. In the admin center, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.
     
-2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
-    
-3. Choose **Billing** \> **Purchase services**.
-    
-4. Select **Buy now** from the expanded menu on the bottom of each listed service. 
-    
-    ![Select Buy now from menu on the bottom of service](../media/97cc7890-3d3f-420d-8fca-5b0125694247.png)
+2. Click the product you want to purchase, and then choose **Buy**.
   
-5. To add a new partner, expand **Need help with your order?** and choose **Get assistance from a Microsoft Partner**.
+3. To add a new partner, expand **Need help with your order?** and choose **Get assistance from a Microsoft Partner**.<br>
+Follow the steps on the providers page to either search for, or to get matched with a partner.
     
-    ![Choose Get assistance from a Microsoft Partner](../media/6eeb0d47-23dc-47fa-b084-9df4736523fb.png)
-  
-    Follow the steps on the Pinpoint page to either search for, or to get matched with a partner.
-    
-6. If you already have a partner, in the second step of the **Check out** wizard, in the right pane, under **Partner information**, select **add**.
-    
-7. Type the Microsoft Partner ID for the partner you're adding. You can get the partner's Microsoft Partner ID by asking the partner for it.
-    
-8. Complete the rest of the wizard to finish buying your subscriptions.
+4. If you already have a partner, in the second step of the checkout wizard, in the right pane, under Partner information, click **Add**.
+
+5. Type the Microsoft Partner ID for the partner you're adding. You can get the partner's Microsoft Partner ID by asking the partner for it.
+
+6. Complete the rest of the wizard to finish buying your subscriptions. 
+
     
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Sign in to Office 365 with your work or school account. 
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=848041), go to the **Billing** \> **Purchase services**  page.
     
-2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
-    
-3. Choose **Billing** \> **Purchase services**.
-    
-4. Select **Buy now** from the expanded menu on the bottom of each listed service. 
-    
-    ![Select Buy now from menu on the bottom of service](../media/97cc7890-3d3f-420d-8fca-5b0125694247.png)
+2. Click the product you want to purchase, and then choose **Buy**.
   
-5. To add a new partner, expand **Need help with your order?** and choose **Get assistance from a Microsoft Partner**.
+3. To add a new partner, expand **Need help with your order?** and choose **Get assistance from a Microsoft Partner**.<br>
+Follow the steps on the providers page to either search for, or to get matched with a partner.
     
-    ![Choose Get assistance from a Microsoft Partner](../media/6eeb0d47-23dc-47fa-b084-9df4736523fb.png)
-  
-    Follow the steps on the Pinpoint page to either search for, or to get matched with a partner.
-    
-6. If you already have a partner, in the second step of the **Check out** wizard, in the right pane, under **Partner information**, select **add**.
-    
-7. Type the Microsoft Partner ID for the partner you're adding. You can get the partner's Microsoft Partner ID by asking the partner for it.
-    
-8. Complete the rest of the wizard to finish buying your subscriptions.
+4. If you already have a partner, in the second step of the checkout wizard, in the right pane, under Partner information, click **Add**.
+
+5. Type the Microsoft Partner ID for the partner you're adding. You can get the partner's Microsoft Partner ID by asking the partner for it.
+
+6. Complete the rest of the wizard to finish buying your subscriptions. 
     
 ::: moniker-end
 
@@ -130,41 +113,26 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
 
 ::: moniker range="o365-worldwide"
 
-1. Sign in to Office 365 with your work or school account. 
+1. In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.
     
-2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
-    
-3. Choose **Billing** \> **Subscriptions**.
-    
-4. If you have more than one subscription, select the subscription you want to edit.
-    
-5. On the right, under the subscription cost, select **More actions** \> **Add partner of record**.
-    
-    ![Choose Add partner of record](../media/61f3a663-8a01-4439-8700-320837dc8cf7.png)
+2. If you have more than one subscription, select the subscription you want to edit.
   
-6. Type the Microsoft Partner ID for the partner you're adding, select **Check ID**, and then **Submit**. You can get the partner's Microsoft Partner ID by asking the partner for it.
+3. On the subscription page, select the **Partner** tab, and then type the Partner Network ID for the partner you're adding You can get the partner's Microsoft Partner ID by asking the partner for it.
     
-7. The partner ID displays on the **Subscriptions** page. 
+4. Click **Add**.
+
     
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Sign in to Office 365 with your work or school account. 
+1. In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=847745) page.
     
-2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
-    
-3. Choose **Billing** \> **Subscriptions**.
-    
-4. If you have more than one subscription, select the subscription you want to edit.
-    
-5. On the right, under the subscription cost, select **More actions** \> **Add partner of record**.
-    
-    ![Choose Add partner of record](../media/61f3a663-8a01-4439-8700-320837dc8cf7.png)
+2. If you have more than one subscription, select the subscription you want to edit.
   
-6. Type the Microsoft Partner ID for the partner you're adding, select **Check ID**, and then **Submit**. You can get the partner's Microsoft Partner ID by asking the partner for it.
+3. On the subscription page, select the **Partner** tab, and then type the Partner Network ID for the partner you're adding You can get the partner's Microsoft Partner ID by asking the partner for it.
     
-7. The partner ID displays on the **Subscriptions** page. 
+4. Click **Add**.
     
 ::: moniker-end
 
@@ -187,46 +155,29 @@ To accept this offer
 
 ## Change the partner for a subscription
 
-1. Sign in to Office 365 with your work or school account. 
+1. In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.
     
-2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
+2. If you have multiple subscriptions, select the name of the subscription you want to edit.
     
-3. Choose **Billing** \> **Subscriptions**.
-    
-4. If you have multiple subscriptions, select the name of the subscription you want to edit.
-    
-5. Under the **Partner ID**, select **Edit partner of record**.
-    
-    ![Choose Edit partner of record](../media/89692ae0-5044-4a4e-b8ca-40788c638d99.png)
+3. Under the **Partner ID**, select **Edit partner of record**.
   
-6. Type the new Microsoft Partner ID for the partner you're adding, select **Check ID**, and then **Submit**. You can get the partner's Microsoft Partner ID by asking the partner for it.
-    
-7. The partner ID displays on the **Subscription details** page. 
+4. Type the new Microsoft Partner ID for the partner you're adding, select **Check ID**, and then **Submit**. You can get the partner's Microsoft Partner ID by asking the partner for it.
+
     
 
 ## View your partner relationships
 
-1. Sign in to Office 365 with your work or school account. 
-    
-2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
-    
-3. Go to **Settings** \> **Partner Relationships**.
-    
-Your partners are listed on the **PARTNER RELATIONSHIPS** page. 
+- In the admin center, go to the **Settings** \> [Partner relationships](https://go.microsoft.com/fwlink/p/?linkid=2074649) page. Your partners are listed on this page. 
   
-If you don't have a partner, you'll see a message that says "We didn't find anything to show here."
+  If you don't have a partner, you'll see a message that says "There's nothing here."
   
 ## Delete a partner from a subscription
 
-1. Sign in to Office 365 with your work or school account. 
+1.  In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.
     
-2. Select the app launcher icon ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) in the upper-left and choose **Admin**.
+2. If you have multiple subscriptions, select the name of the subscription you want to edit.
     
-3. Choose **Billing** \> **Subscriptions**.
-    
-4. If you have multiple subscriptions, select the name of the subscription you want to edit.
-    
-5. Under the **Partner ID**, select **Edit partner of record**.
+3. Under the **Partner ID**, select **Edit partner of record**.
     
 6. On the **Partner information** page, clear the **partner ID** box, and then select **Submit**.
     

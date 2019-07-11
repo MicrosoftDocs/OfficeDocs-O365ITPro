@@ -52,7 +52,7 @@ At the time of account creation, in **Step 1**, Welcome, Let's get to know you, 
   
 After you have created your account, you may update your VAT ID through your admin center by following these steps:
   
-1. In the Microsoft 365 admin center, choose **Billing** \> **Subscriptions**.
+1. In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.
     
 2. Choose a subscription, then choose **More Actions**.
     

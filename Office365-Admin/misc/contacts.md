@@ -32,7 +32,7 @@ If you need shared contacts that everyone in your organization can get to, creat
 
 To add contacts:
   
-1. In the left navigation, choose **Users** \> **Contacts**.
+1. In the admin center, go to the **Users** \> [Contacts](https://go.microsoft.com/fwlink/p/?linkid=2053302) page.
 
 2. On the **Contacts** page, choose **Add a contact**.
   

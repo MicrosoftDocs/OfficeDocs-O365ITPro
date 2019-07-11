@@ -41,7 +41,7 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Find the subscription to which you want to add licenses. In the **Licenses** section, choose **Add more licenses**.
+2. Find the subscription to which you want to add licenses. In the **Licenses** section, choose **Add/Remove licenses**.
 
 3. In the **Add more licenses pane**, choose **Use a new and unused product key**, then choose **Next**.
 
@@ -58,11 +58,11 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 ### Use the old admin center to add licenses to your subscription
 ::: moniker-end
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Products & services</a> page.
 
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Products & services</a> page.
 
 2. Find the subscription to which you want to add licenses. Choose the **More actions** drop down, and then choose **Renew or add license with token**.
 
@@ -104,11 +104,11 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 ### Use the old admin center to extend the expiration date of your subscription
 ::: moniker-end
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Products & services</a> page.
 
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Products & services</a> page.
 
 2. Find the subscription which you want to extend. Choose the **More actions** drop down, and then choose **Renew or add license with token**.
 
