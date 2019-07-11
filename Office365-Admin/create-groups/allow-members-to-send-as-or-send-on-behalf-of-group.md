@@ -25,7 +25,7 @@ A member of an Office 365 Group who has been granted **Send as** or **Send on be
   
 For example, if Megan Bowen is part of the **Training** Office 365 Group, and has **Send as** permissions on the group, if she sends an email as the Office 365 Group, it will look like the **Training** group sent the email. 
   
-The **Send on Behalf** permission lets a user send email on behalf of an Office 365 Group. For example, if Alex Wilber is a part of the **Marketing** Office 365 Group, and has **Send on Behalf** permissions and sends an email as the group, the email looks like it was sent by **Donald Forster on behalf of Marketing**.
+The **Send on Behalf** permission lets a user send email on behalf of an Office 365 Group. For example, if Alex Wilber is a part of the **Marketing** Office 365 Group, and has **Send on Behalf** permissions and sends an email as the group, the email looks like it was sent by **Alex Wilber on behalf of Marketing**.
 
 > [!IMPORTANT]
 > You can configure **Send as** or **Send on behalf** for a given user, but not both. If you configure both, it will default to **Send as**.
