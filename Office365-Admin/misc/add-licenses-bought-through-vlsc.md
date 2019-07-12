@@ -26,7 +26,7 @@ description: "Learn how to add licenses to your Office 365 subscription purchase
 
 Licenses for Office 365 Business Essentials, Office 365 Business, Office 365 Business Premium, and the Office 365 Enterprise plans need to be purchased through the third party partner that you originally purchased Office 365 from. If the partner that the subscription was purchased from is known by Microsoft, you can find out how to contact your partner using the following procedure.
   
-1. In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Products & services</a> page. 
     

@@ -32,7 +32,7 @@ While users can create an Office 365 group from Outlook or other apps, as an adm
 
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Groups** > [Groups](https://go.microsoft.com/fwlink/p/?linkid=2052855) page. 
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
 
 ::: moniker-end
 
@@ -73,7 +73,7 @@ Once the group has been created, you can add members and configure additional se
 
 Users can [add themselves or request approval](https://support.office.com/article/Join-a-group-in-Outlook-2e59e19c-b872-44c8-ae84-0acc4b79c45d), or you can add them now.
 
-1. In the admin center, refresh the page so your new group appears, choose **Groups** \> [Groups](https://go.microsoft.com/fwlink/p/?linkid=2052855), and then click the group that you want to add members to.
+1. In the admin center, refresh the page so your new group appears, choose **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a>, and then click the group that you want to add members to.
     
 3. Next to **Members**, choose **Edit**.
 

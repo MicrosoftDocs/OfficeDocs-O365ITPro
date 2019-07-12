@@ -53,13 +53,13 @@ The people on your team each need a user account before they can sign in and acc
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 

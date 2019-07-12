@@ -21,13 +21,13 @@ description: "Get an overview of Office 365 Message center and its role in chang
 
 # Message center in Office 365
 
-To keep track of upcoming feature releases or issues, go to [Message center](https://go.microsoft.com/fwlink/?linkid=2070717). That's where we post official announcements about new and changed features to enable you to take a proactive approach to change management. Each post gives you a high-level overview of a planned change and how it may affect your users, and links out to more detailed information to help you prepare.
+To keep track of upcoming feature releases or issues, go to <a href="https://go.microsoft.com/fwlink/p/?linkid=2070717)" target="_blank">Message center</a>. That's where we post official announcements about new and changed features to enable you to take a proactive approach to change management. Each post gives you a high-level overview of a planned change and how it may affect your users, and links out to more detailed information to help you prepare.
   
 To open the Message center:
 
-- In the admin center, go to **Health** > [Message center](https://go.microsoft.com/fwlink/?linkid=2070717).
+- In the admin center, go to **Health** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2070717)" target="_blank">Message center</a>.
 
-  
+ 
 You can also use the [Office 365 Admin app](https://go.microsoft.com/fwlink/p/?linkid=627216) on your mobile device to view Message center, which is a great way to stay current with push notifications. 
   
   

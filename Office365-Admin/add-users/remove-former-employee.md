@@ -48,19 +48,19 @@ description: "Follow this checklist to remove an employee from Office 365 and se
 If you need to get an employee out of Office 365 immediately, here's what you do:
   
 ::: moniker range="o365-worldwide"
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a>) page.
 
 ::: moniker-end
 
@@ -133,21 +133,21 @@ In this step, you assign the former employee's email address to another employee
   
 ::: moniker range="o365-worldwide"  
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a>) page.
 
 ::: moniker-end
 
@@ -167,7 +167,7 @@ In this step, you assign the former employee's email address to another employee
 If your former employee had a organization phone, you can use the Exchange admin center to wipe and block that device so that all organization data is removed from the device and it can no longer connect to Office 365.
   
 
-1. In the admin center, go to **Admin centers** > [Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104).
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
 
 3. In the Exchange admin center, navigate to **Recipients** \> **Mailboxes**. 
     
@@ -190,19 +190,19 @@ To block a user from signing in and accessing Office 365 data:
 
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a>) page.
 
 ::: moniker-end
 
@@ -216,7 +216,7 @@ To block a user from signing in and accessing Office 365 data:
 If you have Office 365 email as part of your Office 365 subscription, you need to log in to the Exchange admin center to follow these steps to block your former employee from accessing their email.
   
 
-1. In the admin center, go to **Admin centers** > [Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104).
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
      
 2. In the Exchange admin center, navigate to **Recipients** \> **Mailboxes**. 
     
@@ -234,19 +234,19 @@ When you remove the license, all that user's data is held for 30 days. You can [
  
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a>) page.
 
 ::: moniker-end
 
@@ -258,7 +258,7 @@ When you remove the license, all that user's data is held for 30 days. You can [
 
 **To reduce the number of licenses you're paying for** until you hire another person, do the following: 
   
-1. In the Microsoft 365 admin center, go to **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=868433) page. 
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
     
 2. Click **Add/Remove licenses** to delete the license so you don't pay for it until you hire another person.
 
@@ -283,19 +283,19 @@ Don't delete the account if you've set up email forwarding or converted it to a 
 
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a>) page.
 
 ::: moniker-end
 

@@ -54,7 +54,7 @@ You can also [Permanently delete an Office 365 group](#permanently-delete-an-off
 
 You must have Office 365 global administrator or Exchange administrator permissions.
 
-1. In the admin center, go to **Admin centers** > [Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104).
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
     
 2. In the Exchange admin center, select **recipients**, and then choose **groups**. You can view whether the group is Active or soft Deleted. If the group has been permanently deleted, it won't be listed at all.
   

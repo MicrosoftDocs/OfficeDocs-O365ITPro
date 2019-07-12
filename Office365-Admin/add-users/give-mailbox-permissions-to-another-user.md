@@ -61,7 +61,7 @@ There are a few different ways you can access a mailbox once you've been given a
 ## Send email from another user's mailbox
 
 
-1. In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.  
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
     
 2. Choose the user you want, and then click on **Manage product licenses**.
     
@@ -77,7 +77,7 @@ There are a few different ways you can access a mailbox once you've been given a
 ## Read email in another user's mailbox
 
 
-1. In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.  
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
     
 2. Choose the user you want, and then click on **Manage product licenses**.
     
@@ -92,7 +92,7 @@ There are a few different ways you can access a mailbox once you've been given a
   
 ## Send email on behalf of another user
 
-1. In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.  
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
 
 2. Choose the user you want, and then click on **Manage product licenses**.
     

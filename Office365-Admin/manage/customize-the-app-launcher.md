@@ -35,7 +35,7 @@ You can add your own custom tiles to the app launcher that point to SharePoint s
   
 ## Add a custom tile to the app launcher
 
-1. In the admin center, go to the **Settings** > [Organization profile](https://go.microsoft.com/fwlink/p/?linkid=2067339) page.
+1. In the admin center, go to the **Settings** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2067339" target="_blank">Organization profile</a> page.
     
 2. On the **Organization profile** page, next to   **Add custom tiles for your organization**, choose **Edit**.<br/><br/>NOTE: If you don't see the custom tiles option, verify that you have an Exchange Online mailbox assigned to you and you've successfully signed into your mailbox. Both are required for this feature.
   
@@ -67,7 +67,7 @@ Your custom tile now appears in the app launcher on the **All** tab for you and 
   
 ## Edit or delete a custom tile
 
-1. In the admin center, go to the **Settings** > [Organization profile](https://go.microsoft.com/fwlink/p/?linkid=2067339) page.
+1. In the admin center, go to the **Settings** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2067339" target="_blank">Organization profile</a> page.
     
 2. On the **Organization profile** page, next to   **Add custom tiles for your organization**, choose **Edit**.
 

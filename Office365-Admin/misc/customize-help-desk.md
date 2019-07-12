@@ -51,7 +51,7 @@ The help desk card consists of:
 ### Create the custom help desk card in the admin center
 <a name="BKMK_HelpDeskPreview"> </a>
 
-1. In the admin center, go to the **Settings** \> [Organization profile](https://go.microsoft.com/fwlink/p/?linkid=2067339) page.
+1. In the admin center, go to the **Settings** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2067339" target="_blank">Organization profile</a> page.
   
 4. Next to **Provide customized help desk contact info**, choose **Edit**.
     

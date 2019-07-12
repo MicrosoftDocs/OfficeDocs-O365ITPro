@@ -68,11 +68,11 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
   
 ::: moniker-end
 
-1. In the admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-    If you're using Office 365 Germany, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=854615) page. 
+    If you're using Office 365 Germany, go to this  <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=2007048) page. 
+    If you're using Office 365 operated by 21Vianet, go to this  <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
 2. Choose **Add domain**.
     

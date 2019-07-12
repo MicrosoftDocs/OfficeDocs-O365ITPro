@@ -159,7 +159,7 @@ Before you add the DNS records to set up your Office 365 services, Office 365 ha
   
 
 1. Gather information from Office 365.  <br/> 
-2. In the admin center, go to the **Setup** \> [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page. 
+2. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page. 
 3. On the **Domains** page, in the **Action** column for the domain that you are verifying, choose **Start setup**. 
 4. On the **Add a domain to Office 365** page, choose **Start step 1**. 
 5. On the **Confirm that you own your domain** page, in the **See instructions for performing this step with** drop-down list, choose **General instructions**. 
@@ -183,7 +183,7 @@ Verify your domain in Office 365.
 > Wait about 15 minutes before you do this, so the record you just created can update across the Internet.       
 
 - Go back to Office 365 and follow the steps below to request a verification check. The check looks for the TXT record you added in the previous step. When it finds the correct TXT record, the domain is verified.  
-1. In the admin center, go to the **Setup** \> [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page.
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 2. On the **Domains** page, in the **Action** column for the domain you are verifying, choose **Start setup**. 
 3. On the **Confirm that you own your domain** page, choose **done, verify now**, and then in the confirmation dialog box, choose **Finish**. 
    

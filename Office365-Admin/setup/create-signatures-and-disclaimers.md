@@ -32,19 +32,19 @@ description: "Learn to add email signature, legal disclaimer, or disclosure stat
     
 ::: moniker range="o365-worldwide"
 
-Go to the [Microsoft 365 admin center](https://admin.microsoft.com/adminportal/home).
+Go to the [admin center](https://admin.microsoft.com/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+Go to the [admin center](https://portal.office.de/adminportal/home).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+Go to the [admin center](https://login.partner.microsoftonline.cn).
 
 ::: moniker-end
 

@@ -35,7 +35,8 @@ Use the mobile email access settings to choose which mobile apps people in your 
 > [!IMPORTANT]
 >  If you don't use this feature, there'll be no changes to your users' experience. They'll be able to use any mobile email app to access their work or school account for email, calendar, and contacts from their mobile device. 
     
-1. In the admin center, go to the **Settings** \> [Services & add-ins](https://go.microsoft.com/fwlink/p/?linkid=2053743) page.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services & add-ins</a> page. 
+    
   
 2. Turn the toggle **On** to manage email app access options. 
     

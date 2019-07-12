@@ -27,11 +27,11 @@ description: "Learn to find the values/information you need to create DNS record
   
 ### Step 1: Find the TXT record value and verify
 
-1. In the admin center, go to the **Setup** > [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page.
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-    If you're using Office 365 Germany, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=854615) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=2007048) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
 2. On the **Domains** page, choose your domain, then choose **Start setup**. You'll go back to the domains setup wizard to see the specific value you need to add.
     
@@ -47,11 +47,11 @@ description: "Learn to find the values/information you need to create DNS record
     
 ### Step 2: Find the MX record value for email and more
 
-1. In the admin center, go to the **Setup** > [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page.
+1. n the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-    If you're using Office 365 Germany, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=854615) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=2007048) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
 2. On the **Domains** page, choose your domain. 
     

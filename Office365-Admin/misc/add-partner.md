@@ -75,7 +75,7 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
 
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=868433" target="_blank">Purchase services</a> page.
     
 2. Click the product you want to purchase, and then choose **Buy**.
   
@@ -113,7 +113,7 @@ Follow the steps on the providers page to either search for, or to get matched w
 
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
     
 2. If you have more than one subscription, select the subscription you want to edit.
   
@@ -126,7 +126,7 @@ Follow the steps on the providers page to either search for, or to get matched w
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=847745) page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
     
 2. If you have more than one subscription, select the subscription you want to edit.
   
@@ -155,7 +155,7 @@ To accept this offer
 
 ## Change the partner for a subscription
 
-1. In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
     
 2. If you have multiple subscriptions, select the name of the subscription you want to edit.
     
@@ -167,13 +167,13 @@ To accept this offer
 
 ## View your partner relationships
 
-- In the admin center, go to the **Settings** \> [Partner relationships](https://go.microsoft.com/fwlink/p/?linkid=2074649) page. Your partners are listed on this page. 
+- In the admin center, go to the **Settings** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2074649" target="_blank">Partner relationships</a> page. Your partners are listed on this page. 
   
   If you don't have a partner, you'll see a message that says "There's nothing here."
   
 ## Delete a partner from a subscription
 
-1.  In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.
+1.  In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
     
 2. If you have multiple subscriptions, select the name of the subscription you want to edit.
     

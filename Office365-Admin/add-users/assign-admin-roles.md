@@ -80,13 +80,13 @@ In the new admin center, you can assign users to a role in 2 different ways:
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a>) page.
 
 ::: moniker-end
 
@@ -123,19 +123,19 @@ If you know PowerShell, see [Assign roles to user accounts with PowerShell](http
 Use the following instructions to assign roles to tens of users.
 
 ::: moniker range="o365-worldwide"
-1.  In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
+1.  In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1.In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page.
+1.In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 

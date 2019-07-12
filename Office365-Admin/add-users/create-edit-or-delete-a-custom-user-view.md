@@ -71,7 +71,7 @@ You can also filter by additional user profile details used in your organization
   
 ## Create a custom user view
 
-1. In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
 2. On the **Active users** page, click **Filters** and select **New filter**.
     
@@ -81,7 +81,7 @@ You can also filter by additional user profile details used in your organization
 ## Edit or delete a custom user view
 
 
-1. In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
 2. On the **Active users** page, click **Filter** > choose the filter you want to change, and then choose **Edit filter**. 
     

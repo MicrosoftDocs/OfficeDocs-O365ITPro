@@ -28,7 +28,7 @@ description: "Learn how to edit or add a custom DNS record in Office 365. "
 
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
   
-1. In the admin center, go to the **Setup** \> [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page.
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 
 3. On the **Domains** page, click a domain. 
     

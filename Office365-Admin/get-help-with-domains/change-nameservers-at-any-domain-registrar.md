@@ -196,7 +196,7 @@ Now that you've added the record at your domain registrar's site, you'll go back
 When Office 365 finds the correct TXT record, your domain is verified.
   
 
-1. In the admin center, go to the **Setup** > [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page.
+1. n the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     
@@ -267,7 +267,7 @@ For example, here are some additional steps that might be required for email and
     
 - Want to add a domain that's currently used with a website address, like www.fourthcoffee.com? You can take below steps while you add the domain to keep its website hosted where the site is hosted now so people can still get to the website after you change the domain's NS records to point to Office 365.
 
-1. In the admin center, go to the **Setup** > [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page.
+1. n the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 
 3. On the Domains page, select a domain.
 

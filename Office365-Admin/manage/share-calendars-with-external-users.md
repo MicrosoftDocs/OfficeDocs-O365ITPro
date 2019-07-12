@@ -43,7 +43,8 @@ Calendar sharing is a global setting, meaning that you, the admin, can enable it
   
 ## Enable calendar sharing using the Microsoft 365 admin center
 
-1. In the admin center, go to the **Settings** > [Services & add-ins](https://go.microsoft.com/fwlink/p/?linkid=2053743) page.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services & add-ins</a> page. 
+    
   
 4. On the **Services &amp; add-ins** page, click **Calendar**.
   

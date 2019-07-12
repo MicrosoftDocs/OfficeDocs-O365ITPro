@@ -28,14 +28,14 @@ Admins can control whether to allow guest access to Groups for their whole organ
 
 ### View guest users
 
-- In the admin center, go to the **Users** > [Guest users](https://go.microsoft.com/fwlink/p/?linkid=2074830) page.
+- In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074830" target="_blank">Guest users</a> page.
     
    
 ### Add existing guests to an Office 365 Group
 
 If the guest already exists in your directory (see above) you can add them to your groups from the Office Admin Center or the Exchange Admin Center.
   
-1. In the admin center, go to the **Groups** > [Groups](https://go.microsoft.com/fwlink/p/?linkid=2052855) page.
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
   
 2. Select the group you want to add the guest to, and choose **View all and manage members** on the **Members** tab. 
   
@@ -64,7 +64,8 @@ However, even if the SharePoint external sharing setting is turned off, the file
 
 By default, the Sharing option in your organization is turned on. This option allows guests to be added to your organization. To turn it off:
   
-1. In the admin center, go to the **Settings** > [Security & privacy](https://go.microsoft.com/fwlink/p/?linkid=2072756) page. 
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2072756" target="_blank">Security & privacy</a> page.
+
 
 2. Next to **Sharing**, click **Edit**. 
     
@@ -74,8 +75,9 @@ By default, the Sharing option in your organization is turned on. This option al
 ### Manage who can add guest users
 <a name="BKMK_UsetheadminCtr"> </a>
 
-1. In the admin center, go to the **Settings** > [Services & add-ins](https://go.microsoft.com/fwlink/p/?linkid=2053743) page. 
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services & add-ins</a> page. 
     
+
 2. Choose **Office 365 Groups**.
   
 3. On the **Office 365 Groups** page, select or clear the check boxes, depending on whether you want to let people outside your organization access group resources or let group owners add people outside your organization to groups.

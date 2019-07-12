@@ -31,8 +31,8 @@ If you need shared contacts that everyone in your organization can get to, creat
 ## How do I add contacts in the admin center?
 
 To add contacts:
-  
-1. In the admin center, go to the **Users** \> [Contacts](https://go.microsoft.com/fwlink/p/?linkid=2053302) page.
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053302" target="_blank">Contacts</a> page.
 
 2. On the **Contacts** page, choose **Add a contact**.
   

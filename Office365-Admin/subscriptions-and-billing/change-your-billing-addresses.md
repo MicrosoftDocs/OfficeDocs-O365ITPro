@@ -209,7 +209,7 @@ You can also change the alternate email address of other global and billing admi
 
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=853213" target="_blank">Billing notifications</a> page.
 
-    If you're using Office 365 operated by 21Vianet, go to this [Billing Notifications](https://go.microsoft.com/fwlink/p/?linkid=853215) page.
+    If you're using Office 365 operated by 21Vianet, go to this  <a href="https://go.microsoft.com/fwlink/p/?linkid=853215" target="_blank">Billing Notifications</a> page.
 
 2. On the **Billing notifications** page, choose the admin you want to change.
 

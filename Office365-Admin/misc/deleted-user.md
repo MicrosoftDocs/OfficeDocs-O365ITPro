@@ -32,7 +32,7 @@ You may have to delete a [user](../add-users/add-users.md) in your organization.
 
 To delete a user: 
   
-1. In the admin center, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page
 
 2. Select a user, and then in the user pane choose **More (...)** > **Delete user**.
   

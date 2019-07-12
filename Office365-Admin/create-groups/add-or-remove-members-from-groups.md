@@ -28,7 +28,7 @@ In Office 365, Group members typically create their own Groups, add themselves t
   
 ## Add a member to a Group in the admin center
 
-1. In the admin center, go to the **Groups** > [Groups](https://go.microsoft.com/fwlink/p/?linkid=2052855) page. If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page. If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
     
 2. Click a group name.
     
@@ -43,7 +43,7 @@ In Office 365, Group members typically create their own Groups, add themselves t
 > [!NOTE]
 > When you remove a member from a private group, it takes 5 minutes for the person to be blocked from the group (after membership changes are fully replicated among domain controllers). 
   
-1. In the admin center, go to the **Groups** > [Groups](https://go.microsoft.com/fwlink/p/?linkid=2052855) page.
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
 2. Click a group name.
     
@@ -59,7 +59,7 @@ By default, the person who created the group is the group owner. Often a group w
   
 ### Promote a member to owner status in the admin center
 
-1. In the admin center, go to the **Groups** > [Groups](https://go.microsoft.com/fwlink/p/?linkid=2052855) page.
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
 2. Click a group name.
     
@@ -74,7 +74,7 @@ By default, the person who created the group is the group owner. Often a group w
     
 ### Remove owner status in the admin center
 
-1. In the admin center, go to the **Groups** > [Groups](https://go.microsoft.com/fwlink/p/?linkid=2052855) page.
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
 2. Click a group name.
     

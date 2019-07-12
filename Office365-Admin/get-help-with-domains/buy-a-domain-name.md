@@ -38,7 +38,7 @@ description: "Learn how to buy a domain name in Office 365."
   
 ### Sign in and click Settings \> Domains \> Buy a domain
 
-1. In the admin center, go to the **Setup** > [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page.
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
 3. On the **Domains** page, choose **Buy domain**.
     

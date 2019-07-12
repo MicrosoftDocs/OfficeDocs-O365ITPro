@@ -41,19 +41,20 @@ Watch this video for on overview: on how you can use the reports:
 
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Reports** \>  [Usage](https://go.microsoft.com/fwlink/p/?linkid=2074756) page.
+1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page.
+
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. In the [365 admin center](https://portal.office.de/adminportal/home), go to the **Reports** \> **Usage** page.
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a>, go to the **Reports** \> **Usage** page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. In the [365 admin center](https://login.partner.microsoftonline.cn), go to the **Reports** \> **Usage** page.
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>, go to the **Reports** \> **Usage** page.
 
 ::: moniker-end
 
@@ -140,9 +141,9 @@ Depending on your Office 365 subscription, here are the available reports.
 
 ## How to view licensing information
 
-- To see how many licenses you have assigned and unassigned, in the admin center, go to **Billing** \> [Licenses](https://go.microsoft.com/fwlink/p/?linkid=842264).
+- To see how many licenses you have assigned and unassigned, in the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842264" target="_blank">Licenses</a> page.
     
-- To see who is licensed, unlicensed, or guest, in the admin center, go to **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822). Use the **Filter** menu to filter your list.
+- To see who is licensed, unlicensed, or guest, in the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page. Use the **Filter** menu to filter your list.
   
 ## How to view usage information for a specific user
 
