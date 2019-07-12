@@ -68,17 +68,31 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
   
 ::: moniker-end
 
-1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+::: moniker range="o365-worldwide"
+
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>.  
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a>.  
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>.  
+
+::: moniker-end
     
-    If you're using Office 365 Germany, go to this  <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page. 
+2. Go to the **Setup** > **Domains** page. 
+
+3. Choose **Add domain**.
     
-    If you're using Office 365 operated by 21Vianet, go to this  <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+4. Enter the name of the domain you want to add, then choose **Next**.
     
-2. Choose **Add domain**.
-    
-3. Enter the name of the domain you want to add, then choose **Next**.
-    
-4. Choose how you want to verify that you own the domain.
+5. Choose how you want to verify that you own the domain.
     
     1. If your domain is registered at GoDaddy or 1&amp;1, choose **Sign in** and Office 365 [will set up your records automatically](../get-help-with-domains/domain-connect.md).
     
@@ -86,14 +100,14 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
     
     3. You can use a TXT record to verify your domain. Select this and choose **Next** to see instructions for how to add this DNS record to your registrar's website. This can take up to 30 minutes to verify after you've added the record. 
     
-5. Choose how you want to make the DNS changes required for Office to use your domain.
+6. Choose how you want to make the DNS changes required for Office to use your domain.
     
     1. Choose **Add the DNS records for me** if you want Office to configure your DNS automatically. 
     
   
     2. Choose **I'll add the DNS records myself** if you want to attach only specific Office 365 services to your domain or if you want to skip this for now and do this later. **Choose this option if you know exactly what you're doing.**
     
-6. If you chose to  *add DNS records yourself*  , choose **Next** and you'll see a page with all the records that you need to add to your registrars website to set up your domain. 
+7. If you chose to  *add DNS records yourself*  , choose **Next** and you'll see a page with all the records that you need to add to your registrars website to set up your domain. 
     
   
   
@@ -105,7 +119,7 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
     
     If you want to wait for later, scroll to the bottom and choose **Skip this step**.
     
-7. Click **Finish** - you're done! 
+8. Click **Finish** - you're done! 
 
 ::: moniker range="o365-worldwide"
 

@@ -107,9 +107,9 @@ This example turns Focused Inbox **Off** for Tim Matthews in the Contoso organiz
 
 ## Use the UI to create a transport rule to direct email messages to the Focused view for all your users
 
-1. Go to [Admin centers > Exchange](https://go.microsoft.com/fwlink/?linkid=2059104).
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
     
-2. In the Exchange admin center, navigate to **mail flow** \> **Rules**. Click ![EAC Add icon](../media/795e5bdd-48bb-433f-8e07-3c7a19f8eca2.gif) and then choose **Create a new rule...**. 
+2. Navigate to **mail flow** \> **Rules**. Click ![EAC Add icon](../media/795e5bdd-48bb-433f-8e07-3c7a19f8eca2.gif) and then choose **Create a new rule...**. 
     
 3. After you're done creating the new rule, click **Save** to start the rule. 
     

@@ -38,38 +38,40 @@ Are you removing your domain because you want to add it to a different Office 36
 
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page. 
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>. 
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page. 
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a>.  
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a>) page. 
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>. 
 
 ::: moniker-end
  
-2. Select the boxes next to the names of the users who you want to move.
+2. Choose **Users** > **Active users**.
+
+3. Select the boxes next to the names of the users who you want to move.
     
-3. Click the More menu (...) at the top of the page, and then choose **Edit domains**. 
+4. Click the More menu (...) at the top of the page, and then choose **Edit domains**. 
     
-4. In the **Edit domains** pane, choose a different domain. 
+5. In the **Edit domains** pane, choose a different domain. 
        
-You'll need to do this for yourself, too, if you're on the domain that you want to remove. When you edit the domain for your account, you'll have to log out and log back in using the new domain you chose to continue. For example, if you're logged in as  *dave@contoso.onmicrosoft.com* : 
+You'll need to do this for yourself, too, if you're on the domain that you want to remove. When you edit the domain for your account, you'll have to log out and log back in using the new domain you chose to continue. For example, if you're logged in as  *dave@contoso.onmicrosoft.com*: 
     
 1. Go to **Users** \> **Active Users**, select your account from the list, and then click your name in the list. 
     
 2. Click **Manage username**, and then choose a different domain:  *contoso.com* 
     
   
-4. At the top, choose your account name, then choose **Sign Out**.
+3. At the top, choose your account name, then choose **Sign Out**.
     
-5. Sign in with the new domain and your same password:  *dave@contoso.com* 
+4. Sign in with the new domain and your same password:  *dave@contoso.com* 
     
 You can also use PowerShell to move users to another domain. See [Set-MsolUserPrincipalName](https://docs.microsoft.com/en-us/powershell/module/msonline/set-msoluserprincipalname?view=azureadps-1.0) for more information. To set the default domain, use [Set-MsolDomain](https://docs.microsoft.com/en-us/powershell/module/msonline/set-msoldomain?view=azureadps-1.0).
   
@@ -84,13 +86,13 @@ You can also use PowerShell to move users to another domain. See [Set-MsolUserPr
 
 ::: moniker range="o365-germany"
 
-1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=848041),  go to the **Groups** > **Groups** page. 
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a>,  go to the **Groups** > **Groups** page. 
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=850627),  go to the **Groups** > **Groups** page. 
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>,  go to the **Groups** > **Groups** page. 
 
 ::: moniker-end
     
@@ -104,20 +106,20 @@ You can also use PowerShell to move users to another domain. See [Set-MsolUserPr
 
 ::: moniker range="o365-worldwide"
 
-1. n the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page. 
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
 
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2007048" target="_blank">Domains</a> page.
 
 
 ::: moniker-end

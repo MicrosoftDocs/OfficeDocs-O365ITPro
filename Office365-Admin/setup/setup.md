@@ -155,7 +155,7 @@ If you're using Office 365 operated by 21Vianet, go to [this admin center.](http
 
 ::: moniker-end
 
-1. To start the wizard, choose **Go to setup**.
+To start the wizard, choose **Go to setup**.
     
    To learn more, see [Add users and domain to Office 365](add-domain.md).
   
@@ -250,6 +250,7 @@ To take a tour of Office 365 and learn how to use all the Office mobile apps, se
 ## [Business](#tab/Business)
   
  *The **[Office 365 Business Plan](https://go.microsoft.com/fwlink/p/?LinkId=627219)** plan does not include Office 365 email or Skype for Business. In these setup steps, we show you how to add your existing email account (such as Gmail) to Outlook. * 
+
 ### 1. Add users
 
 In this step, you use the Setup wizard to create accounts and add your own domain. The wizard lets you personalize everyone's user ID and email for your business, like rob@contoso.com.
@@ -272,7 +273,7 @@ If you're using Office 365 operated by 21Vianet, go to [this admin center.](http
 
 ::: moniker-end
 
-1. To start the wizard, choose **Go to setup**.
+To start the wizard, choose **Go to setup**.
     
 ### 2. Install Office
 
@@ -359,7 +360,7 @@ If you're using Office 365 operated by 21Vianet, go to [this admin center.](http
 
 ::: moniker-end
 
-1. To start the wizard, choose **Go to setup**.
+To start the wizard, choose **Go to setup**.
     
 For a walkthrough of what happens when you run the wizard, see [Using the Office 365 setup wizard](https://support.office.com/article/3c62a3b7-1680-41ca-943c-0ff01566bace.aspx).
   

@@ -45,13 +45,11 @@ To enable the content pack, you have to be either a **global administrator**, **
   
 See [Office 365 admin roles](../add-users/about-admin-roles.md) for more information. 
   
-1. Sign in with your admin credentials, and go to the [admin center](../admin-overview/about-the-admin-center.md).
+1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page. 
     
-2. In the admin center, expand the left nav, and go to **Reports** \> **Usage**.
+2. On the **Usage** page, locate the **Microsoft 365 usage analytics** card, and choose **Get started**.
     
-3. On the **Usage** page, locate the **Microsoft 365 usage analytics** card, and choose **Get started**.
-    
-4. On the Reports panel that opens, set **Make data available the Microsoft 365 usage analytics for Power BI** to **On** \> **Save**. 
+3. On the Reports panel that opens, set **Make data available the Microsoft 365 usage analytics for Power BI** to **On** \> **Save**. 
   
 This initiates the data collection process and will complete in 2 to 48 hours depending on the size of your tenant. The **Go to Power BI** button will be enabled (no longer gray) when data collection is complete. 
     
@@ -103,9 +101,9 @@ Tenant level aggregates will be available in all reports. **User-level details w
 
 To make the data that is collected for all reports anonymous, you have to be a global administrator. This will hide identifiable information such as user, group and site names in reports and in the content pack .
   
-1. In the admin center, expand the left nav, and go to **Settings** \> **Services &amp; add-ins**.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services &amp; add-ins</a> page.
     
-2. On the **Services &amp; add-ins** page choose **Reports**, and then select the **Display anonymous identifiers instead of names in all reports** box. This setting gets applied both to the usage reports as well as to the content pack.
+2. Choose **Reports**, and then select the **Display anonymous identifiers instead of names in all reports** box. This setting gets applied both to the usage reports as well as to the content pack.
   
 3. Choose **Save changes**.
     

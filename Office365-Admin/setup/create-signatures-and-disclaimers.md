@@ -32,21 +32,19 @@ description: "Learn to add email signature, legal disclaimer, or disclosure stat
     
 ::: moniker range="o365-worldwide"
 
-Go to the [admin center](https://admin.microsoft.com/adminportal/home).
+Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [admin center](https://portal.office.de/adminportal/home).
+Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">https://portal.office.de/adminportal</a>.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [admin center](https://login.partner.microsoftonline.cn).
-
-::: moniker-end
+Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">https://portal.partner.microsoftonline.cn/adminportal</a>.
 
 1. Click the app launcher ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png), and then click **Admin**.
    

@@ -34,7 +34,7 @@ Did you get this error when you were creating a new user? "This email address is
 
 Before you begin, make sure you've noted which shared mailbox you need to remove the email address from.
   
-1. From the Microsoft 365 admin center, you can find the shared mailbox a couple of different ways:
+1. From the admin center, you can find the shared mailbox a couple of different ways:
     
   - From the admin center **Home** page, type the name of the shared mailbox into the **search** field, and then select it from the list. It will open the shared mailbox's details card. 
     
