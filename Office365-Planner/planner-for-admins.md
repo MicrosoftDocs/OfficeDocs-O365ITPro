@@ -77,7 +77,7 @@ In Planner, users can choose to receive emails when tasks are assigned to them o
 
 ## How do I turn off Outlook calendar sync in Planner for my organization?
 
-Outlook calendar sync in Microsoft Planner allows users to view their Planner schedule in Outlook. This feature is turned on automatically in Planner. If you want to turn this off for your organization, follow the steps in [Turn off Outlook calendar sync in Planner for your organization](turn-off-outlook-calendar-sync).
+Outlook calendar sync in Microsoft Planner allows users to view their Planner schedule in Outlook. This feature is turned on automatically in Planner. If you want to turn this off for your organization, follow the steps in [Turn off Outlook calendar sync in Planner for your organization](turn-off-outlook-calendar-sync.md).
 
 ## How do I install or activate Planner for my organization?
 
