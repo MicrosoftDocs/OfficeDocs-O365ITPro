@@ -65,15 +65,15 @@ After unblocking your files, do the following to export the user data from Plann
 
    `PS> Export-PlannerUserContent -UserAadIdOrPrincipalName <user's AADId or UPN> -ExportDirectory <output location>`
 
-|Parameter|Description|
-|---|---|
-|-UserAadIdOrPrincipalName|Use either the Azure Active Directory ID or the UPN of the user for which you want to export content.|
-|-ExportDirectory|Location to store your output files. The folder should already exist.|
-|-HostName|You only need to use this parameter if you access Planner though a host name other than *task.</span>office.</span>com*. For example, if you access Planner through *tasks.</span>office365.</span>us*, include *-HostName tasks.</span>office365</span>.us* in your command.|
+    |Parameter|Description|
+    |---|---|
+    |-UserAadIdOrPrincipalName|Use either the Azure Active Directory ID or the UPN of the user for which you want to export content.|
+    |-ExportDirectory|Location to store your output files. The folder should already exist.|
+    |-HostName|You only need to use this parameter if you access Planner though a host name other than *task.</span>office.</span>com*. For example, if you access Planner through *tasks.</span>office365.</span>us*, include *-HostName tasks.</span>office365</span>.us* in your command.|
+    
+    For example, the following will export Adam Barr's user information from Planner using his UPN, and will download the export files to the location C:\PlannerExportAdamBarr.
 
-For example, the following will export Adam Barr's user information from Planner using his UPN, and will download the export files to the location C:\PlannerExportAdamBarr.
-
-`PS> Export-PlannerUserContent -UserAadIdOrPrincipalName adambarr@contoso.onmicrosoft.com -ExportDirectory C:\PlannerExportAdamBarr `
+    `PS> Export-PlannerUserContent -UserAadIdOrPrincipalName adambarr@contoso.onmicrosoft.com -ExportDirectory C:\PlannerExportAdamBarr `
 
 4. You'll be prompted to authenticate. Log in as yourself (the Office 365 Global admin), not the user you want to export.
 
@@ -155,8 +155,7 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.ReferencesToPlan.Url|Direct link to the app that references the plan.|
 |Plan.CategoryDescriptions|The full set of categories for the plan.  There are six of these, which may or may not be in use.|
 |Plan.CategoryDescriptions.Index|The index of the category description (0 through 5).|
-|Plan.CategoryDescriptions.Description|
-The label text for the corresponding category description index value.|
+|Plan.CategoryDescriptions.Description|The label text for the corresponding category description index value.|
 |Plan.PlanFollowers|Users who follow the plan.
 |Plan.TimelineId|The feature has been deprecated.|
 |Plan.TimelineDisplaySettings|The feature has been deprecated.|

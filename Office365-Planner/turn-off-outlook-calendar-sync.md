@@ -14,13 +14,13 @@ description: "If you are a global admin for Office 365 and you want to turn off 
 
 If you are a global admin for Office 365 and you want to turn off calendar sync in Microsoft Planner, you can use Windows PowerShell. Planner is automatically turned on for all organizations that have Planner as part of their Office 365 subscription.
 
-- [for making Planner changes in Windows PowerShell](#for-making-planner-changes-in-windows-powershell) 
+- [Prerequisites for making Planner changes in Windows PowerShell](#prerequisites-for-making-planner-changes-in-windows-powershell)
 - [Turn off or on Outlook calendar sync in Planner using PowerShell](#turn-off-or-on-outlook-calendar-sync-in-planner-using-powershell)
 
 > [!NOTE]
 > Looking for how to sync your personal Outlook calendar with Planner? [See your Planner calendar in Outlook](https://support.office.com/en-us/article/see-your-planner-calendar-in-outlook-5dcccce5-2750-49b5-991b-1837379d96c7).
 
-##Prerequisites for making Planner changes in Windows PowerShell
+## Prerequisites for making Planner changes in Windows PowerShell
 
 This procedure walks you through downloading the files needed to run Planner admin commands in PowerShell:
 
