@@ -46,6 +46,8 @@ Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=848
 
 Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">https://portal.partner.microsoftonline.cn/adminportal</a>.
 
+::: moniker-end
+
 1. Click the app launcher ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png), and then click **Admin**.
    
     Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
