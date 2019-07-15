@@ -63,7 +63,7 @@ Because they won't yet have access to their Office 365 email, don't send the inf
 
 Just like Facebook, Amazon, or Gmail, your employee signs in to use Office 365. Give them the following sign in information:
   
-- Sign in at [https://www.office.com](https://www.office.com)
+- Sign in at [https://www.office.com](https://www.office.com).
     
 - Choose **Sign in**, then type the user ID and password.
     

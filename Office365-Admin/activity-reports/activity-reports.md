@@ -155,8 +155,8 @@ You can't generate a report where you enter a user's account and then get a list
 
 If you want to hide user level information when you're generating your reports, you can quickly make that change in the admin center.
   
-1. In the admin center, go to **Settings** \> **Services &amp; add-ins**. 
-  
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services &amp; add-ins</a> page.
+
 2. Select **Reports**. 
   
 3. In the **Reports** pane, select the options you want, and then choose **Save changes**.

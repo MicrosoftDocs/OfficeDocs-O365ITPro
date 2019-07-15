@@ -34,11 +34,11 @@ Did you get this error when you were creating a new user? "This email address is
 
 Before you begin, make sure you've noted which shared mailbox you need to remove the email address from.
   
-1. From the admin center, you can find the shared mailbox a couple of different ways:
+1. From the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>, you can find the shared mailbox a couple of different ways:
     
   - From the admin center **Home** page, type the name of the shared mailbox into the **search** field, and then select it from the list. It will open the shared mailbox's details card. 
     
-  - Go to **Groups** \> **Shared mailboxes**, and then select the shared mailbox from the list. 
+  - Go to **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2066847" target="_blank">Shared mailboxes</a>, and then select the shared mailbox from the list. 
     
 2. In the **Name / Email** and **Aliases** section, select **Edit**.
     

@@ -37,7 +37,7 @@ The **Send on Behalf** permission lets a user send email on behalf of an Office 
 
 This section explains how to allow users to send email as a Group in the [Exchange admin center](https://go.microsoft.com/fwlink/p/?linkid=2059104) (EAC) in Exchange Online.
   
-1. In the EAC, go to **Recipients** \> **Groups**.
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>, go to **Recipients** \> **Groups**.
     
 2. Select **Edit**  ![Edit group icon](../media/0cfcb590-dc51-4b4f-9276-bb2ce300d87e.png) on Group that you want to allow users to send as. 
     
@@ -55,7 +55,7 @@ This section explains how to allow users to send email as a Group in the [Exchan
 
 This section explains how to allow users to send email on behalf of a Group in the Exchange admin center (EAC) in Exchange Online.
   
-1. In the EAC, go to **Recipients** \> **Groups**.
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>, go to **Recipients** \> **Groups**.
     
 2. Select **Edit** ![Edit group icon](../media/0cfcb590-dc51-4b4f-9276-bb2ce300d87e.png) on the Group that you want to allow users to send as. 
     

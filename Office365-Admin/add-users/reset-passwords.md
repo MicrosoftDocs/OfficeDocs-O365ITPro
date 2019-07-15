@@ -75,23 +75,23 @@ These steps are only for people using an Office 365 business plan. To do them, y
   
 ## Reset my Office 365 tenant admin password
 
-- Use these steps if you forgot your password but you're able to sign in to Office 365 because, for example, your password is saved in your browser: 
+Use these steps if you forgot your password but you're able to sign in to Office 365 because, for example, your password is saved in your browser: 
     
-    1. In Office 365, choose **Settings** \> **Office 365** \> **Personal info**. 
+1. In Office 365, choose **Settings** \> **Office 365** \> **Personal info**. 
           
-    2. Double-check that your **Contact details** and **Alternate email** are accurate. If not, change them now. 
+2. Double-check that your **Contact details** and **Alternate email** are accurate. If not, change them now. 
         
-    3. Sign out of Office 365: click on your name in the upper right corner (in the above image, shown as **Diane**) \> **Sign out**. 
+3. Sign out of Office 365: click on your name in the upper right corner (in the above image, shown as **Diane**) \> **Sign out**. 
         
-    4. Now sign in again: type your user name \> **Next** \> and then choose **Forgot password**. 
+4. Now sign in again: type your user name \> **Next** \> and then choose **Forgot password**. 
     
-    5. Follow the steps in the wizard to reset your password. It uses your alternate contact info to verify you're the right person to reset your password. 
+5. Follow the steps in the wizard to reset your password. It uses your alternate contact info to verify you're the right person to reset your password. 
     
-- If you forgot your password and can't sign in: 
+If you forgot your password and can't sign in: 
     
-  - Ask another global admin in your business to reset your password for you.
+- Ask another global admin in your business to reset your password for you.
     
-  - Or, [call Microsoft Support](https://support.office.com/en-us/article/contact-support-for-business-products-admin-help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b?ui=en-US&amp;rs=en-US&amp;ad=US#ID0EAADAAA=Phone_support_). 
+- Or, [call Microsoft Support](https://support.office.com/en-us/article/contact-support-for-business-products-admin-help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b?ui=en-US&amp;rs=en-US&amp;ad=US#ID0EAADAAA=Phone_support_). 
     
 ## Reset all Office 365 business passwords for everyone in your organization at the same time
 <a name="bkmk_forgot"> </a>

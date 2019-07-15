@@ -37,14 +37,14 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
     
     **IMPORTANT**: 
     
-  - If you get the error message " **A parameter cannot be found that matches parameter name 'EmailAddresses**" it means that it's taking a bit longer for Office 365 to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the setup process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.
+  - If you get the error message " **A parameter cannot be found that matches parameter name 'EmailAddresses**," it means that it's taking a bit longer for Office 365 to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the setup process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.
     
-  - If you get the error message " **We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name. 
+  - If you get the error message "**We're sorry, the user couldn't be edited. Review the user information and try again**," it means you aren't an Office 365 global admin and you don't have permissions to change the user name. 
 
 
 ## Set the primary email address 
   
-1. In the admin center, go to the ***Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
 2. Click the user's name, and then click **Manage email aliases**.
 

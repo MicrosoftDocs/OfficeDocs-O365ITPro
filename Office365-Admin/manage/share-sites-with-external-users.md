@@ -73,11 +73,7 @@ On the sites page of the sharing settings (admin center) you can see a list of a
   
 ## Edit the sharing settings of a particular site collection in the admin center
 
-<<<<<<< Updated upstream
 1. In the admin center, go to the **Resources** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2099222" target="_blank">Sites</a> page.
-=======
-1. In the admin center, go to the **Resources** \> [Sites](https://go.microsoft.com/fwlink/p/?linkid=2099222) page.
->>>>>>> Stashed changes
   
 2. Select the external sharing status next to the desired site collection.
   
@@ -91,11 +87,7 @@ On the sites page of the sharing settings (admin center) you can see a list of a
     
 ## Revoke site access for individual users in the admin center
 
-<<<<<<< Updated upstream
 1. In the admin center, go to the **Resources** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2099222" target="_blank">Sites</a> page.
-=======
-1. In the admin center, go to the **Resources** \> [Sites](https://go.microsoft.com/fwlink/p/?linkid=2099222) page.
->>>>>>> Stashed changes
 
 2. Select the sharing status next to the desired site collection.
     

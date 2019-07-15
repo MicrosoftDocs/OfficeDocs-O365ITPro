@@ -42,7 +42,7 @@ In the new admin center, you can assign users to a role in 2 different ways:
 
 ### Assign admin roles to users (New Roles experience)
 
-1. In the admin center, go to **Roles** > **Roles** to view all of the admin roles available for your organization.
+1. In the admin center, go to the **Roles** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2097861" target="_blank">Roles</a> page to view all of the admin roles available for your organization.
 1. Select the admin role that you want to assign the user to. 
 1. Select **Assigned admins** > **Add**.
 1. Type the user's **display name** or **username**, and then select the user from the list of suggestions. 

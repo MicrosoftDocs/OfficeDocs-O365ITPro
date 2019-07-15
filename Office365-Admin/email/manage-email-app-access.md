@@ -35,22 +35,17 @@ Use the mobile email access settings to choose which mobile apps people in your 
 > [!IMPORTANT]
 >  If you don't use this feature, there'll be no changes to your users' experience. They'll be able to use any mobile email app to access their work or school account for email, calendar, and contacts from their mobile device. 
     
-1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services & add-ins</a> page. 
-    
-  
-2. Turn the toggle **On** to manage email app access options. 
-    
-    ![Mobile email access settings](../media/f031a555-32ee-43ff-a772-aa561781473b.png)
-  
-Choose how users in your organization use email apps on their devices:
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services &amp; add-ins</a> page. 
+
+2. On the **Mobile email access options** page, select the check box, and then choose how users in your organization use email apps on their devices:
   
 Choose the option to set how users in your organization access their Office 365 work or school account from their mobile devices
   
 - **Outlook only** - users in your organization will be required to use the Outlook for Android or Outlook for iOS app on their mobile device. 
     
-- **Any email app** - all users in your organization will be prompted to use the Outlook for Android or Outlook for iOS app on their mobile device, but they can choose to use any email app. 
+- **Any email app** - all users in your organization will be prompted to use Outlook, but they can choose to use any email app. 
     
-- **Any email app** - new users or devices in your organization will be prompted once to use the Outlook for Android or Outlook for iOS app on their mobile device, but they can choose to use any email app. 
+- **Any email app** - new users or devices in your organization will be prompted once to use Outlook, but they can choose to use any email app. 
     
 For more details, check out [Options for accessing email from your mobile device](access-email-from-a-mobile-device.md).
   
