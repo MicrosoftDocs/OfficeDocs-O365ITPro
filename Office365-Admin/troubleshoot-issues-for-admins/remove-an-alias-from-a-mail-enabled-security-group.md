@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Remove an alias from a mail-enabled security group"
-ms.author: anfowler
-author: adefowler
+ms.author: kwekua
+author: kwekua
 manager: mnirkhe
 audience: Admin
 ms.topic: troubleshooting
