@@ -37,9 +37,7 @@ If you start to run out of storage for your SharePoint Online site collections, 
 
 ## View available storage
 
-1. Sign in with your work or school account as a global admin. [Learn how to sign in](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
-
-2. Choose the app launcher icon ![app launcher icon](../media/0aaa6945-f9a4-4b13-bf5f-d5c5dbe978fb.png) in the upper-left and choose **Admin**.
+1. Sign in to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a> with your work or school account as a global admin. [Learn how to sign in](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
 
 3. In the admin center, choose **Admin centers** \> **SharePoint**.
 
