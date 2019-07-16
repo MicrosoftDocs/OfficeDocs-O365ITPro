@@ -201,7 +201,7 @@ A Group in Outlook is like a shared mailbox. For a comparison of the two, see [C
 
 ## What else you need to know about shared mailboxes
 
-- You can access a shared mailbox from the Outlook for iOS app or the Outlook for Android app. To learn more, see [Add a shared mailbox to Outlook on the web](https://support.office.com/en-us/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
+- You can access a shared mailbox from the Outlook for iOS app or the Outlook for Android app. To learn more, see [Open and use a shared mailbox in Outlook](https://support.office.com/en-us/article/open-and-use-a-shared-mailbox-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd).
 
 - You don't need to assign licenses to shared mailboxes that are under 50GB.
 
