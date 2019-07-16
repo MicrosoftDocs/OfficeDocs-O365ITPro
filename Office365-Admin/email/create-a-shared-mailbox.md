@@ -134,7 +134,12 @@ This message appears when Office 365 is experiencing a replication latency issue
 
 ## Use a shared mailbox on a mobile device (phone or tablet)
 
-To access a shared mailbox on a mobile device, open your browser, sign in to Office 365, and then go Outlook on the web. For instructions, see [Add a shared mailbox in Outlook on the web](https://support.office.com/article/98b5a90d-4e38-415d-a030-f09a4cd28207.aspx). From Outlook on the web you'll be able to access the shared mailbox.
+You can access a shared mailbox on a mobile device in two ways:
+- Download the Outlook for iOS app or the Outlook for Android mobile app. 
+
+- Open your browser, sign in to Office 365, and then go Outlook on the web. From Outlook on the web you'll be able to access the shared mailbox.
+
+For instructions, see [Add a shared mailbox in Outlook on the web](https://support.office.com/article/98b5a90d-4e38-415d-a030-f09a4cd28207.aspx).
 
 You can't access the shared mailbox from the Outlook app that's installed on the mobile device. Do you want this feature? Let the Outlook Engineering team know. **[Vote here!](https://go.microsoft.com/fwlink/?linkid=862116)**
 
@@ -193,6 +198,8 @@ Unfortunately you can't prevent people from deleting messages in a shared mailbo
 A Group in Outlook is like a shared mailbox. For a comparison of the two, see [Compare Groups](../create-groups/compare-groups.md). To learn more about Groups, see [Learn more about Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx)
 
 ## What else you need to know about shared mailboxes
+
+- You can access a shared mailbox from the Outlook for iOS app or the Outlook for Android app. To learn more, see [Add a shared mailbox to Outlook on the web](https://support.office.com/en-us/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
 
 - You don't need to assign licenses to shared mailboxes that are under 50GB.
 
