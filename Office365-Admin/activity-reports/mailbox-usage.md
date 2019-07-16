@@ -33,9 +33,10 @@ The **Mailbox usage report** provides information about users with a user mailbo
   
 ## How to get to the mailbox usage report
 
-1. Go to the Microsoft 365 admin center \> **Reports**
+1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page.
+
     
-2. Select **Mailbox usage** from the drop-down.<br/>![Select available reports](../media/213f086c-8d58-48aa-bdf4-6bcb69afc921.png)
+2. From the **Select a report** drop-down, select **Exchange** \> **Mailbox usage**.
   
 ## Interpret the mailbox usage report
 

@@ -65,7 +65,8 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. In the Microsoft 365 admin center, choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+
     
 2. On the **Domains** page, choose the domain that you are verifying. 
     

@@ -62,11 +62,11 @@ With this option, you and your users can be the first to see the latest updates 
   
 ### Targeted release for entire organization
 
-If you [Set up the release option in the Microsoft 365 admin center](#set-up-the-release-option-in-the-microsoft-365-admin-center) for this option, all your users will get the Targeted release experience. For organizations with more than 300 users, we recommend using a test subscription for this option. For test subscription information, please reach out to your Microsoft contact. 
+If you [Set up the release option in the admin center](#set-up-the-release-option-in-the-admin-center) for this option, all your users will get the Targeted release experience. For organizations with more than 300 users, we recommend using a test subscription for this option. For test subscription information, please reach out to your Microsoft contact. 
   
 ### Targeted release for selected users
 
-If you [Set up the release option in the admin center](#set-up-the-release-option-in-the-office-365-admin-center) for this option, you can define specific users, usually power users, to receive early access to features and functionality. 
+If you [Set up the release option in the admin center](#set-up-the-release-option-in-the-admin-center) for this option, you can define specific users, usually power users, to receive early access to features and functionality. 
   
 ## Benefits of Targeted release
 
@@ -89,11 +89,7 @@ You can change how your organization receives Office 365 updates by following th
 > [!IMPORTANT]
 > It can take up to 24 hours for the below changes to take effect in Office 365. If you opt out of targeted release after enabling it, your users may lose access to features that haven't reached the scheduled release yet. 
   
-1. Sign in to Office 365 with your work or school account. 
-    
-2. Go to the [admin center](../admin-overview/about-the-admin-center.md).
-    
-3. Navigate to **Settings** \> **Organization profile**.
+1. In the admin center, go to the **Settings** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2067339" target="_blank">Organization profile</a> page.
   
 4. Next to **Release preferences**, click **Edit**.
     
@@ -109,7 +105,7 @@ You can change how your organization receives Office 365 updates by following th
 
 ## To add users in bulk
   
-1. Next to Release preferences, click **Actions** \> **+ Bulk add people for first release** under the **Standard release** heading. 
+1. Next to **Release preferences**, click **Actions** \> **+ Bulk add people for first release** under the **Standard release** heading. 
     
 2. Choose **Browse** to select a file containing each person's email address. 
     

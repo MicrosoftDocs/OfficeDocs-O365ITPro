@@ -60,9 +60,7 @@ To see a training video for how to set up MFA and how users complete the set up,
   
 To set up multi-factor authentication:
   
-1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com).
-    
-2. Search for "multi" in the search bar and choose **Azure multi-factor authentication settings**.
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=20243390), search for "multi" in the search bar and choose **Azure multi-factor authentication settings**.
     
 3. Choose **Manage multi-factor authentication**.
     
@@ -134,8 +132,8 @@ You can protect against ransomware by creating one or more mail flow rules to bl
     
 To create a mail transport rule, view a [short training video](https://support.office.com/article/a9ecca03-42a6-4867-b9fd-38e3f6bb06ad), or complete the following steps:
   
-1. In the Microsoft 365 admin center, click **Admin centers** \> **Exchange**.
-    
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
+
 2. In the **mail flow** category, click **rules**.
     
 3. Click **+**, and then click **Create a new rule**.
@@ -170,8 +168,8 @@ Hackers who gain access to a user's mailbox can exfiltrate mail by configuring t
   
 To create a mail transport rule:
   
-1. In the Microsoft 365 admin center, click **Admin centers** \> **Exchange**.
-    
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
+
 2. In the **mail flow** category, click **rules**.
     
 3. Click **+**, and then click **Create a new rule**.

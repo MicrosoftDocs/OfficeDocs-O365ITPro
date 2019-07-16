@@ -36,7 +36,7 @@ Before you begin, make sure you've noted which user you need to remove the email
   
 1. There are two ways you can find a user's account information: 
     
-  - Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>, type the user's name into the **search** field at the top of the page, and then select them from the list. It will open the user card. 
+  - In the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>, type the user's name into the **search** field at the top of the page, and then select them from the list. It will open the user card. 
     
   - Or, in the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page and select the user from the list. 
     

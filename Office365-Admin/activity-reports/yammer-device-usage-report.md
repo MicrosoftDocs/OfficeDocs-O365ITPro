@@ -33,13 +33,10 @@ The Yammer device usage reports give you information about which devices your us
   
 ## How do I get to the Yammer device usage report?
 
-1. Sign in to Office 365 with your work or school account. 
+1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page.
+
     
-2. Go to the [Microsoft 365 admin center](../admin-overview/about-the-admin-center.md).
-    
-3. Select **Reports** and then **Usage** from the left menu.<br/> ![Choose Reports and then usage](../media/e07a631e-3e05-4f17-affd-db5b7cb0bae2.png)
-  
-4. Use the **Select a report** drop-drop at the top left and select **Yammer device usage**.<br/>![Select Yammer device usage](../media/4ce58c73-ac60-4036-862d-9cc3665245f0.png)
+2. From the **Select a report** drop-down, select **Yammer** \> **Device usage**.
   
 ## Interpret the Yammer activity report
 

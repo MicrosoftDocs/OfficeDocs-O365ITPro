@@ -35,7 +35,7 @@ We would love for you to participate in the Microsoft 365 admin center preview s
 
 ### Turn on Targeted release
 
-1. Sign in at [admin.microsoft.com](https://admin.microsoft.com), go to the navigation pane and select **Settings** \> **Organization Profile**.
+1. Sign in at [admin.microsoft.com](https://admin.microsoft.com), go to the navigation pane and select **Settings** \> **Organization profile**.
     
 2. Go to the **Release preferences** card, and then select **Edit**. 
     

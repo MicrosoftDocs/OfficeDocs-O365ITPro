@@ -32,11 +32,12 @@ You may have to delete a [user](../add-users/add-users.md) in your organization.
 
 To delete a user: 
   
-On the **Active users** page, select a user and then in the user pane choose **Delete user**.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page
+
+2. Select a user, and then in the user pane choose **More (...)** > **Delete user**.
   
-On the **Delete user** pane choose **Delete**. [Read full article](../add-users/delete-a-user.md)
+3. In the deletion confirmation pane, choose **Delete user**. <br/>[Read full article.](../add-users/delete-a-user.md)
   
-![In the active user details pane, choose Delete user](../media/e3ae8c71-b66b-487f-adb4-751daae7e329.jpg)
   
 ## Restore a user
 
@@ -44,7 +45,7 @@ You can restore users by searching for **deleted** on the home page, and choose 
   
 ## What are deleted users?
 
-A deleted [Add more people so they can use Office 365](https://support.office.com/article/0202f3b1-0680-4d79-bffd-05f8f9cb248e) is a work or school account that you're deleting from your organization. 
+A deleted [user](../add-users/add-users.md) is a work or school account that you're deleting from your organization. 
   
 ## Does deleting a user free up their Office 365 license?
 

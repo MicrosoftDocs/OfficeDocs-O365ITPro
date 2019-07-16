@@ -24,8 +24,8 @@ description: "Learn how to set some individual user passwords to never expire, u
 ## Set the password expiration policy for your organization
 
 1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2072756" target="_blank">Security & privacy</a> page.
-1. Next to **Password policy** choose **Edit**. 
-1. If passwords are set to never expire, set the toggle to **Off**. You'll get the option to specify the number of days until passwords expire. 
+2. Next to **Password policy** choose **Edit**. 
+3. If passwords are set to never expire, set the toggle to **Off**. You'll get the option to specify the number of days until passwords expire. 
 
 
 ## Set the password expiration policy for individual users 

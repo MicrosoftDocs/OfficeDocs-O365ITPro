@@ -34,7 +34,7 @@ There are two ways to apply for a Fapiao:
     
     Or
     
-2. You can apply for a Fapiao from the <a href="https://portal.partner.microsoftonline.cn" target="_blank">admin center</a>.
+2. You can apply for a Fapiao from the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>.
     
     ![The Bills page in the Microsoft 365 admin center.](../media/a6e3b953-abd4-46aa-a910-08c517915a21.png)
   
@@ -124,13 +124,10 @@ If you want to change the Fapiao title, please send the Fapiao back to us and we
     
 ### How do I find my order ID?
 
-1. Log in to <a href="https://portal.partner.microsoftonline.cn" target="_blank">https://portal.partner.microsoftonline.cn</a>.
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=850627), go to the **Billing** \> **Bills & payments** page.
     
-2. Choose **Billing** \> **Bills**.
-    
-3. Choose the month of the invoice you want, then choose **View**. The order ID is displayed.
-    
-    ![The Bills page in the admin center.](../media/78ceda62-c72a-4516-b251-736b568ec6a3.png)
+2. Find the invoice you want, click to view, or choose to download the PDF.
+
   
 ### What if I enter the wrong email address when I register?
 

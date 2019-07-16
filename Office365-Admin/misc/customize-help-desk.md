@@ -51,13 +51,7 @@ The help desk card consists of:
 ### Create the custom help desk card in the admin center
 <a name="BKMK_HelpDeskPreview"> </a>
 
-1. Sign in to Office 365 with your work or school account. Learn [Where to sign in to Office 365 for business](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
-    
-2. Select the app launcher icon and choose **Admin**.
-    
-    Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
-    
-3. Choose the **Settings** \> **Organization profile**.
+1. In the admin center, go to the **Settings** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2067339" target="_blank">Organization profile</a> page.
   
 4. Next to **Provide customized help desk contact info**, choose **Edit**.
     

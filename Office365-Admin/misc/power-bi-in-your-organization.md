@@ -144,17 +144,15 @@ To allow your existing users to sign up for Power BI, run the opposite command a
 
 If a user signed up for Power BI but you no longer want them to have access to Power BI, you can remove the Power BI license for that user.
   
-1. Navigate to the <a href="https://admin.microsoft.com" target="_blank">admin center</a>.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. In the left navigation bar, click **Users** then **Active Users**.
+2. Find the user you want to remove the license for, then click their name.
     
-3. Find the user you want to remove the license for, then click their name.
+3. On the user details page, click **Licenses and Apps**. 
     
-4. On the user details page, click **Licenses** in the left navigation bar. 
+4. Clear the **Microsoft Power BI** check box.
     
-5. Uncheck **Microsoft Power BI**.
-    
-6. Click **Save**.
+5. Click **Save changes**.
     
 ## How do I know when new users have joined my tenant?
 

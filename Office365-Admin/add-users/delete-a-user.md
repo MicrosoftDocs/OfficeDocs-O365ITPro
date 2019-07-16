@@ -56,9 +56,7 @@ Before you begin, think about what you want to do with the user's email and OneD
 
 Since the guided experience walks through the steps to delete a user, here's how to get started.
   
-1. Sign in to Office 365 with your global admin account.
-    
-2. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
 3. Select the user you want to delete, choose **More (...)** > **Delete user**.
     
@@ -75,17 +73,17 @@ Since the guided experience walks through the steps to delete a user, here's how
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=847686) page, or choose **Users** > **Active Users**.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=850628) page, or choose **Users** > **Active Users**.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
- 3. Choose the names of the users that you want to delete, choose **More (...)** > **Delete user**.
+2. Choose the names of the users that you want to delete, choose **More (...)** > **Delete user**.
    <br/>  
      Although you deleted the user's account, **you're still paying for the license**. See the next procedure to stop paying for the license.  Or, you can assign the license to another user. It won't be assigned to someone automatically.
     

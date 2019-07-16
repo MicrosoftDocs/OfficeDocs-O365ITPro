@@ -25,15 +25,14 @@ This article explains how to resend the notification email to a new user in Offi
   
 You must be an [global admin or password administrator](about-admin-roles.md) to perform these steps. 
   
-1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
     
-2. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
      
-3. On the **Active users** page, choose the user and then choose **Reset password**.
+2. On the **Active users** page, choose the user and then choose **Reset password**.
     
-4. Follow the instructions on the **Reset password** page to auto-generate a new password for the user or create one for them, and then click **Reset**.  
+3. Follow the instructions on the **Reset password** page to auto-generate a new password for the user or create one for them, and then click **Reset**.  
     
-5. Enter an email address the user can get to so they receive the new password, and follow up with them to make sure they got it.
+4. Enter an email address the user can get to so they receive the new password, and follow up with them to make sure they got it.
     
   
 

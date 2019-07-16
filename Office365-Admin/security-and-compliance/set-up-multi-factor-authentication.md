@@ -33,8 +33,7 @@ You get a free version of Azure multi-factor authentication as part of your Offi
 
 All Office 2016 client applications support MFA through the use of the Active Directory Authentication Library (ADAL). This means that app passwords aren't required for Office 2016 clients. However, you need to make sure your Office 365 subscription is enabled for ADAL, or modern authentication.
 
-1. To enable modern authentication, go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>. 
-2. Turn on the new admin center by selecting **Try the new admin center** toggle located at the top of the Home page.
+1. To enable modern authentication, from the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), turn on the new admin center by selecting **Try the new admin center** toggle located at the top of the Home page.
 3. Choose **Settings** \> **Services & add-ins** and then choose **Modern authentication** from the list.
 4. Check the **Enable modern authentication** box in the **Modern authentication** panel. 
 
@@ -42,7 +41,7 @@ All Office 2016 client applications support MFA through the use of the Active Di
 
 ## Set up multi-factor authentication in the Microsoft 365 admin center
 
-1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. In the admin center, go to **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a>.
     
 2. **IMPORTANT**: BEFORE you select a user, click **Multi-factor authentication** above the list of users.
   
@@ -69,7 +68,7 @@ All Office 2016 client applications support MFA through the use of the Active Di
 
 Older email applications like Office 2013 need app passwords. Here's how to allow your users to create them: 
 
-1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. In the admin center, go to **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a>.
     
 2. **IMPORTANT**: BEFORE you select a user, click **Multi-factor authentication** above the list of users.
   

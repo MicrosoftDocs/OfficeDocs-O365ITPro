@@ -48,19 +48,23 @@ You can create up to 400 aliases for a user. No additional fees or licenses are 
 
 You must have [admin permissions](../add-users/about-admin-roles.md) to do this. 
   
+::: moniker range="o365-worldwide"
+
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-    ::: moniker range="o365-germany"
+::: moniker-end
+
+::: moniker range="o365-germany"
     
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page. 
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page. 
     
-    ::: moniker-end
+::: moniker-end
 
-    ::: moniker range="o365-21vianet"
+::: moniker range="o365-21vianet"
 
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
 
-    ::: moniker-end
+::: moniker-end
     
 2. On the **Active Users** page, select the user > **Manage email aliases**. You won't see this option if the person doesn't have a license assigned to them. 
     

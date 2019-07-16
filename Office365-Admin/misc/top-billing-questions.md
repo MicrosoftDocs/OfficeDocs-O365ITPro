@@ -129,9 +129,9 @@ Yes. To get your billing statement as an email attachment, use the following ste
 
 Yes. To get your billing statement as an email attachment, use the following steps:
   
-1. In the Microsoft 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=853213" target="_blank">Billing notifications</a> page, or choose **Billing** \> **Billing notifications**.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=853213" target="_blank">Billing notifications</a> page.
     
-2. Under **Do you want to receive the billing statement as an email attachment?**, switch the toggle to **On**.
+2. Under **Receive billing statement as email attachment?**, switch the toggle to **On**.
     
     You can stop receiving the billing statement emails at any time by switching the toggle to **Off**.
     

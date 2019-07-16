@@ -32,9 +32,10 @@ The Office 365 **Reports** dashboard shows you the activity overview across the 
   
 ## How to get to the email apps report
 
-1. Go to the Microsoft 365 admin center \> **Reports** \> **Usage**.
+1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page.
+
     
-2. From the **Select a report** drop-down, select **Email app usage**.<br/>![Email clients used dropdown](../media/a15932dd-8beb-4c2e-9bc2-99972984cadf.png)
+2. From the **Select a report** drop-down, select **Exchange** \> **Email app usage**.
   
 ## Interpret the email apps report
 

@@ -61,45 +61,48 @@ There are a few different ways you can access a mailbox once you've been given a
 ## Send email from another user's mailbox
 
 
-1. Go to Office 365 **admin center** \> **Users** \> **Active Users**.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
     
-1. Choose the user you want, and then click on **Manage product licenses**.
+2. Choose the user you want, and then click on **Manage product licenses**.
     
-1. Click the **Mail** tab > **Manage mailbox permissions**.
+3. Click the **Mail** tab > **Manage mailbox permissions**.
 
-1. Next to **Send as** > **Edit**. 
+4. Next to **Send as** > **Edit**. 
 
-1. Choose **Add permissions**, then choose the name of the person who you want this user to be able to send as. 
+5. Choose **Add permissions**, then choose the name of the person who you want this user to be able to send as. 
     
-1. Click **Save**.
+6. Click **Save**.
     
   
 ## Read email in another user's mailbox
 
 
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
     
-1. Choose the user you want, and then click on **Manage product licenses**.
+2. Choose the user you want, and then click on **Manage product licenses**.
     
-1. Click the **Mail** tab > **Manage mailbox permissions**.
+3. Click the **Mail** tab > **Manage mailbox permissions**.
     
-1. Next to **Read and manage** choose **Edit**. 
+4. Next to **Read and manage** choose **Edit**. 
     
-1. Choose **Add permissions**, then choose the name of the user or users that you want to allow to read email from this mailbox.
-1. Click **Save**.
+5. Choose **Add permissions**, then choose the name of the user or users that you want to allow to read email from this mailbox.
+
+6. Click **Save**.
     
   
 ## Send email on behalf of another user
 
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
-    
-1. Choose the user you want, and then click on **Manage product licenses**.
-    
-1. Click the **Mail** tab > **Manage mailbox permissions**.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
 
-1. Next to **Send on behalf** choose **Edit**.
-1. Choose **Add permissions**, then choose the name of the user or users that you want to allow to send email on behalf of this mailbox.
-1. Click **Save**.
+2. Choose the user you want, and then click on **Manage product licenses**.
+    
+3. Click the **Mail** tab > **Manage mailbox permissions**.
+
+4. Next to **Send on behalf** choose **Edit**.
+
+5. Choose **Add permissions**, then choose the name of the user or users that you want to allow to send email on behalf of this mailbox.
+
+6. Click **Save**.
     
 
   

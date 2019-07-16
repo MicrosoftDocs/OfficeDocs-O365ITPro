@@ -158,12 +158,12 @@ Before you add the DNS records to set up your Office 365 services, Office 365 ha
 > This record is used only to verify that you own your domain; it doesn't affect anything else. 
   
 
-Gather information from Office 365.  <br/> 
-Sign in to Office 365  with your work or school account. Choose **Setup** \> **Domains**. 
--  On the Manage domains page, in the **Action** column for the domain that you are verifying, choose **Start setup**. 
--  On the Add a domain to Office 365 page, choose **Start step 1**. 
--  On the **Confirm that you own your domain** page, in the **See instructions for performing this step with** drop-down list, choose **General instructions**. 
--  From the table, copy the Destination or Points to Address value. You'll need it for the next step. We recommend copying and pasting this value, so that all of the spacing stays correct.
+1. Gather information from Office 365.  <br/> 
+2. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page. 
+3. On the **Domains** page, in the **Action** column for the domain that you are verifying, choose **Start setup**. 
+4. On the **Add a domain to Office 365** page, choose **Start step 1**. 
+5. On the **Confirm that you own your domain** page, in the **See instructions for performing this step with** drop-down list, choose **General instructions**. 
+6. From the table, copy the Destination or Points to Address value. You'll need it for the next step. We recommend copying and pasting this value, so that all of the spacing stays correct.
 
 Add a TXT record. 
 -  On the DNS Manager page for your domain, go to **Action** \> **Text (TXT)**. 
@@ -183,9 +183,9 @@ Verify your domain in Office 365.
 > Wait about 15 minutes before you do this, so the record you just created can update across the Internet.       
 
 - Go back to Office 365 and follow the steps below to request a verification check. The check looks for the TXT record you added in the previous step. When it finds the correct TXT record, the domain is verified.  
-- Choose **Setup** \> **Domains**. 
-- On the **Manage domains** page, in the **Action** column for the domain you are verifying, choose **Start setup**. 
-- On the **Confirm that you own your domain** page, choose **done, verify now**, and then in the confirmation dialog box, choose **Finish**. 
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+2. On the **Domains** page, in the **Action** column for the domain you are verifying, choose **Start setup**. 
+3. On the **Confirm that you own your domain** page, choose **done, verify now**, and then in the confirmation dialog box, choose **Finish**. 
    
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 

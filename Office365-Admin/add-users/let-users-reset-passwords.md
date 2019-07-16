@@ -50,20 +50,18 @@ These steps turn on self-service password reset for everyone in your business.
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Microsoft 365 admin center](https://portal.office.de/adminportal/home).
-1. Choose **Settings** \> **Security &amp; privacy**.
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a>, go to the **Settings** \> **Security &amp; privacy** page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Microsoft 365 admin center](https://login.partner.microsoftonline.cn).
-1. Choose **Settings** \> **Security &amp; privacy**.
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>, go to the **Settings** \> **Security &amp; privacy** page.
 
 ::: moniker-end
 
    
-3. Under **Let your people reset their own passwords**, choose the link for the **Azure AD admin center**. You'll get Azure for free!
+2. Under **Let your people reset their own passwords**, choose the link for the **Azure AD admin center**. You'll get Azure for free!
     
     ![Choose the link to go to the Azure admin center.](../media/1b72241f-df7b-44b0-9477-8687fe9f7315.png)
   

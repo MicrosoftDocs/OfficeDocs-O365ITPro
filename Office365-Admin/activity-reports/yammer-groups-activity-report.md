@@ -31,9 +31,10 @@ The Office 365 **Reports** dashboard shows you the activity overview across the 
   
 ## How to get to the Yammer groups activity report
 
-1. Go to the Microsoft 365 admin center \> **Reports** \> **Usage**. 
+1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page.
+
     
-2. From the **Select a report** drop-down, select **Yammer groups activity**.<br/> ![Choose Yammer groups activity](../media/487b2700-d561-4755-a241-5e9b01e01f39.png)
+2. From the **Select a report** drop-down, select **Yammer** \> **Groups activity**.
   
 ## Interpret the Yammer groups activity report
 

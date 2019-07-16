@@ -46,19 +46,19 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
 
 ::: moniker range="o365-worldwide"
 
-2. In the admin center, go to **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2066847" target="_blank">Shared mailbox</a>.
+2. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2066847" target="_blank">Shared mailboxes</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+2. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=848041), go to the **Groups** \> **Shared mailboxes** page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+2. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=850627), go to the **Groups** \> **Shared mailboxes** page.
 
 ::: moniker-end
     
@@ -86,7 +86,7 @@ Every shared mailbox has a corresponding user account. Notice how you weren't as
 
 But what if an admin simply resets the password of the shared mailbox user account? Or what if an attacker gains access to the shared mailbox account credentials? This would allow the user account to log in to the shared mailbox and send email. To prevent this, you need to block sign-in for the account that's associated with the shared mailbox.
 
-1. In the Microsoft 365 admin center, select **Users** \> **Active users**.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 2. In the list of user accounts, find the account for the shared mailbox (for example, change the filter to **Unlicensed users**).
 
@@ -152,19 +152,19 @@ You do not need to assign a license to the shared mailbox in order to forward em
 
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2066847" target="_blank">Shared mailbox</a> page.
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2066847" target="_blank">Shared mailboxes</a> page.
 
 ::: moniker-end 
 
 ::: moniker range="o365-germany"
 
-1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a> > **Groups** > **Shared mailbox**. 
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a>, go to the **Groups** > **Shared mailboxes** page. 
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a> > **Groups** > **Shared mailbox**. 
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>, go to the **Groups** > **Shared mailboxes** page. 
 
 ::: moniker-end
 
@@ -178,19 +178,19 @@ You do not need to assign a license to the shared mailbox in order to forward em
 
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2066847" target="_blank">Shared mailbox</a> page.
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2066847" target="_blank">Shared mailboxes</a> page.
 
 ::: moniker-end 
 
 ::: moniker range="o365-germany"
 
-1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a> > **Groups** > **Shared mailbox**. 
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a>, go to the **Groups** > **Shared mailboxes** page. 
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a> > **Groups** > **Shared mailbox**. 
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>, go to the **Groups** > **Shared mailboxes** page. 
 
 ::: moniker-end
 
@@ -269,7 +269,7 @@ To see what permissions you need to perform these steps, see the "User mailboxes
 
    - **Email address**
 
-3. To grant Full Access or Send As permissions, click **Add**, and then select the users you want to grant permissions to. You can use the CTRL key to select multiple users. Confused about which permission to use? See [Which permissions should you use?](create-a-shared-mailbox.md#TypesOfPerms)
+3. To grant Full Access or Send As permissions, click **Add**, and then select the users you want to grant permissions to. You can use the CTRL key to select multiple users. 
 
    > [!NOTE]
    > The Full Access permission allows a user to open the mailbox as well as create and modify items in it. The Send As permission allows anyone other than the mailbox owner to send email from this shared mailbox. Both permissions are required for successful shared mailbox operation.

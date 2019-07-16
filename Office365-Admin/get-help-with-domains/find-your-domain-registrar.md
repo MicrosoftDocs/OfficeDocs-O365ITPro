@@ -41,7 +41,7 @@ description: "Learn to find your domain registrar and DNS hosting provider using
 >[!NOTE]
 > Only domains ending in *.COM*, *.NET*, and *.EDU* work with this tool.
   
-1. On the [InterNIC search page]( https://go.microsoft.com/fwlink/p/?LinkId=402770), in the **Whois Search** box, type your domain. For example,  *contoso.com.* 
+1. On the [InterNIC search page](https://go.microsoft.com/fwlink/p/?LinkId=402770), in the **Whois Search** box, type your domain. For example,  *contoso.com.* 
     
 2. Select the **Domain** option, and then click **Submit**.
     

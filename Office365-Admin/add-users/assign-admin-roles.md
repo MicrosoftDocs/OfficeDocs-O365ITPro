@@ -42,7 +42,7 @@ In the new admin center, you can assign users to a role in 2 different ways:
 
 ### Assign admin roles to users (New Roles experience)
 
-1. In the admin center, go to **Roles** > **Roles** to view all of the admin roles available for your organization.
+1. In the admin center, go to the **Roles** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2097861" target="_blank">Roles</a> page to view all of the admin roles available for your organization.
 1. Select the admin role that you want to assign the user to. 
 1. Select **Assigned admins** > **Add**.
 1. Type the user's **display name** or **username**, and then select the user from the list of suggestions. 
@@ -80,13 +80,13 @@ In the new admin center, you can assign users to a role in 2 different ways:
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Users** > [Active users](https://portal.office.de/adminportal/home) page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the **Users** > <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a>) page.
 
 ::: moniker-end
 
@@ -129,13 +129,13 @@ Use the following instructions to assign roles to tens of users.
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to **Users** > [Active users](https://portal.office.de/adminportal/home).
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to **Users** > [Active users](https://login.partner.microsoftonline.cn).
+1.In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 

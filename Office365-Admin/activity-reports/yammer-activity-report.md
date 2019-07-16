@@ -31,9 +31,10 @@ As an Office 365 admin, the **Reports** dashboard shows you data on the usage of
   
 ## How to get to the Yammer activity report
 
-1. Go to the Microsoft 365 admin center \> **Reports** \> **Usage**. 
+1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page.
+
     
-2. Select the **Yammer Activity** widget on the **Reports** dashboard.<br/> ![Yammer Activity reports widget](../media/3edb83ae-c1bd-4d23-bc8f-930e54c54c15.png)<br/>Or, select **Yammer activity** from the **Select a report** dropdown.<br/>![Select a report menu in the dashboard](../media/8101651b-948f-4c81-a5d8-eb310242cb62.JPG)
+2. From the **Select a report** drop-down, select **Yammer** \> **Activity**.
   
 ## Interpret the Yammer activity report
 

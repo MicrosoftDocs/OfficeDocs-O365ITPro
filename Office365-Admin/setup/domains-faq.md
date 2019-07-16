@@ -102,11 +102,11 @@ Yes, but you can't transfer an Office 365 domain to another registrar until 60 d
   
 Follow the steps below to get the code at Office 365, and then go to the other domain registrar's website to set up transferring your domain name to that registrar.
   
-1. In the admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-    If you're using Office 365 Germany, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=854615) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=2007048) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=2007048" target="_blank">Domains</a> page.
     
 2. On the **Domains** page, choose the Office 365 domain that you want to transfer to another domain registrar, and choose **Domain settings**.
     
@@ -128,37 +128,37 @@ Follow the steps below to get the code at Office 365, and then go to the other d
 
 1. Change your nameservers:
     
-1. Sign in to the domain registrar for your domain.
+2. Sign in to the domain registrar for your domain.
     
-2. Find the area on the registrar's website where you update nameserver records, and update the nameservers to point to your domain's DNS host. (The DNS host is often the domain registrar.)
+3. Find the area on the registrar's website where you update nameserver records, and update the nameservers to point to your domain's DNS host. (The DNS host is often the domain registrar.)
     
-2. Follow a link to go to the domains setup wizard:
+4. Follow a link to go to the domains setup wizard:
     
-1. In the admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
+5. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-    If you're using Office 365 Germany, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=854615) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=2007048) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=2007048" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the domain you're switching, and choose **DNS Management**.
+6. On the **Domains** page, choose the domain you're switching, and choose **DNS Management**.
     
-3. Choose the option to manage your domain's DNS records:
+7. Choose the option to manage your domain's DNS records:
     
-1. In the domains setup wizard, on the **Set up your online services** page, choose **I'll manage my own DNS records**, and then choose **Next**.
+8. In the domains setup wizard, on the **Set up your online services** page, choose **I'll manage my own DNS records**, and then choose **Next**.
     
-2. Add the DNS records suggested by the wizard on the **Update DNS settings** page to your registrars website. 
+9. Add the DNS records suggested by the wizard on the **Update DNS settings** page to your registrars website. 
     
-3. After you've added the records, come back to Office 365 and choose **Verify**.
+10. After you've added the records, come back to Office 365 and choose **Verify**.
     
 ### Change DNS management to Office 365
 
 1. Follow a link to go to the domains setup wizard:
     
-1. In the admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-    If you're using Office 365 Germany, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=854615) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=2007048) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=2007048" target="_blank">Domains</a> page.
     
 2. On the **Domains** page, choose the domain you're switching, and choose **DNS Management**.
     
@@ -224,11 +224,11 @@ Providers that support all required DNS records:
 
 You must have at least one custom domain that you've added to Office 365 before you can choose a default domain.
   
-1. In the admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-    If you're using Office 365 Germany, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=854615) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=2007048) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=2007048" target="_blank">Domains</a> page.
     
 2. On the **Domains** page, choose the domain you want to set as the default for new email addresses. 
     
@@ -316,7 +316,7 @@ You can keep using the initial onmicrosoft.de domain even after you add your dom
 
 ## How do I verify my nonprofit or education status?
 
-1. Choose **Setup** in the [Microsoft 365 admin center](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791.aspx) to start the wizard. (Be sure to sign in to Office 365 first.) 
+1. Choose **Setup** in the [admin center](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791.aspx) to start the wizard. (Be sure to sign in to Office 365 first.) 
     
 2. To become the Office 365 admin for your school, find and choose the **Become an admin** option in Office 365. 
     

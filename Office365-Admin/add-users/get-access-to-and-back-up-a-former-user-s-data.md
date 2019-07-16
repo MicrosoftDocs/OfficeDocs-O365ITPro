@@ -43,7 +43,7 @@ If you remove a user's license but don't delete the account, you retain access t
 
 To preserve a former user's OneDrive for Business documents you first access their OneDrive site and then move the files. 
 
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
     
 2. Select a user.
 
