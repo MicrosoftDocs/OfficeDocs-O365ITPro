@@ -94,7 +94,7 @@ For detailed instructions, see [Create, edit, or delete a security group in the 
   
 ## Step 2: Install the preview version of the Azure Active Directory PowerShell for Graph
 
-These procedures require the the preview version of the Azure Active Directory PowerShell for Graph. The GA version will not work.
+These procedures require the preview version of the Azure Active Directory PowerShell for Graph. The GA version will not work.
 
 
 > [!IMPORTANT]
