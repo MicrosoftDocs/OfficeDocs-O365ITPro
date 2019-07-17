@@ -135,13 +135,13 @@ This message appears when Office 365 is experiencing a replication latency issue
 ## Use a shared mailbox on a mobile device (phone or tablet)
 
 You can access a shared mailbox on a mobile device in two ways:
-- Add the shared mailbox in the [Outlook for iOS app](https://apps.apple.com/us/app/microsoft-outlook/id951937596) or the [Outlook for Android mobile app](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=en_US). 
+- Add the shared mailbox in the <a href="https://apps.apple.com/us/app/microsoft-outlook/id951937596" target="_blank">Outlook for iOS app</a> or the <a href="https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=en_US" target="_blank">Outlook for Android mobile app</a>. 
     
-    For instructions, see [Open a shared mailbox in Outlook for iOS and Android](https://support.office.com/en-us/article/open-a-shared-mailbox-in-outlook-for-ios-and-android-f866242c-81b2-472e-8776-6c49c5473c9f).
+    For instructions, see <a href="https://support.office.com/en-us/article/f866242c-81b2-472e-8776-6c49c5473c9f" target="_blank">Open a shared mailbox in Outlook for iOS and Android</a>.
 
 - Open your browser, sign in to Office 365, and then go to Outlook on the web. From Outlook on the web you'll be able to access the shared mailbox.
 
-    For instructions, see [Add a shared mailbox in Outlook on the web](https://support.office.com/article/98b5a90d-4e38-415d-a030-f09a4cd28207.aspx).
+    For instructions, see <a href="https://support.office.com/article/98b5a90d-4e38-415d-a030-f09a4cd28207.aspx" target="_blank">Add a shared mailbox in Outlook on the web</a>.
 
 ## Use the shared calendar
 
