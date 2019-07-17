@@ -112,13 +112,15 @@ If you have automapping enabled in your business (by default, most people do), t
 
 To learn more, see:
 
-- [Open and use a shared mailbox in Outlook](https://support.office.com/article/d94a8e9e-21f1-4240-808b-de9c9c088afd.aspx)
+- <a href="https://support.office.com/article/d94a8e9e-21f1-4240-808b-de9c9c088afd.aspx" target="_blank">Open and use a shared mailbox in Outlook</a>
 
-- [Add a shared mailbox to Outlook on the web](https://support.office.com/article/98b5a90d-4e38-415d-a030-f09a4cd28207.aspx)
+- <a href="https://support.office.com/article/98b5a90d-4e38-415d-a030-f09a4cd28207.aspx" target="_blank">Add a shared mailbox to Outlook on the web</a>
 
-- [Open a shared folder or mailbox in Outlook for Mac](https://support.office.com/article/6ecc39c5-5577-4a1d-b18c-bbdc92972cb2.aspx)
+- <a href="https://support.office.com/en-us/article/f866242c-81b2-472e-8776-6c49c5473c9f" target="_blank">Add a shared mailbox to Outlook mobile</a>
 
-- [Add rules to a shared mailbox](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164.aspx)
+- <a href="https://support.office.com/article/6ecc39c5-5577-4a1d-b18c-bbdc92972cb2.aspx" target="_blank">Open a shared folder or mailbox in Outlook for Mac</a>
+
+- <a href="https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164.aspx" target="_blank">Add rules to a shared mailbox</a>
 
 ## Getting an error message about not having send permissions?
 
@@ -130,9 +132,14 @@ This message appears when Office 365 is experiencing a replication latency issue
 
 ## Use a shared mailbox on a mobile device (phone or tablet)
 
-To access a shared mailbox on a mobile device, open your browser, sign in to Office 365, and then go Outlook on the web. For instructions, see [Add a shared mailbox in Outlook on the web](https://support.office.com/article/98b5a90d-4e38-415d-a030-f09a4cd28207.aspx). From Outlook on the web you'll be able to access the shared mailbox.
+You can access a shared mailbox on a mobile device in two ways:
+- Add the shared mailbox in the <a href="https://apps.apple.com/us/app/microsoft-outlook/id951937596" target="_blank">Outlook for iOS app</a> or the <a href="https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=en_US" target="_blank">Outlook for Android mobile app</a>. 
+    
+    For instructions, see <a href="https://support.office.com/en-us/article/f866242c-81b2-472e-8776-6c49c5473c9f" target="_blank">Add a shared mailbox to Outlook mobile</a>.
 
-You can't access the shared mailbox from the Outlook app that's installed on the mobile device. Do you want this feature? Let the Outlook Engineering team know. **[Vote here!](https://go.microsoft.com/fwlink/?linkid=862116)**
+- Open your browser, sign in to Office 365, and then go to Outlook on the web. From Outlook on the web you'll be able to access the shared mailbox.
+
+    For instructions, see <a href="https://support.office.com/article/98b5a90d-4e38-415d-a030-f09a4cd28207.aspx" target="_blank">Add a shared mailbox to Outlook on the web</a>.
 
 ## Use the shared calendar
 
@@ -224,7 +231,7 @@ A Group in Outlook is like a shared mailbox. For a comparison of the two, see [C
 
 - You can't give people outside your business (such as people with a Gmail account) access to your shared mailbox. If you want to do this, consider creating a group for Outlook instead. To learn more, see [Create an Office 365 group in the admin center](../create-groups/create-groups.md).
 
-- You can't access a shared mailbox from Outlook for iPhone or Android. The Outlook mobile app doesn't include the feature to access shared mailboxes yet. If you want to access a shared mailbox from one of these devices, use your browser to open Outlook on the web, and access the shared mailbox that way. Or, create a group instead for your shared mailbox. To learn more, see [Compare Groups](../create-groups/compare-groups.md).
+-  In addition to using Outlook on the web from your browser to access shared mailboxes, you can also use the Outlook for iOS app or the Outlook for Android app. To learn more, see <a href="https://support.office.com/en-us/article/f866242c-81b2-472e-8776-6c49c5473c9f" target="_blank">Add a shared mailbox to Outlook mobile</a>. Another option is to create a group for your shared mailbox. To learn more, see [Compare Groups](../create-groups/compare-groups.md).  
 
 - You can't encrypt email sent from a shared mailbox. This is because a shared mailbox does not have its own security context (username/password) so it cannot be assigned a key. If more than one person is a member, and they send/receive emails they encrypted with their own keys, other members might be able to read the email and others might not, depending which public key the email was encrypted with.
 
