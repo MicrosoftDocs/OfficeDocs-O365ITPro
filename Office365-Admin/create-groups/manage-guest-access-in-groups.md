@@ -103,7 +103,7 @@ By default, the Sharing option in your organization is turned on. This option al
 
 ## Install the preview version of the Azure Active Directory PowerShell for Graph
 
-These procedures require the the preview version of the Azure Active Directory PowerShell for Graph. The GA version will not work.
+These procedures require the preview version of the Azure Active Directory PowerShell for Graph. The GA version will not work.
 
 > [!IMPORTANT]
 > You cannot install both the preview and GA versions on the same computer at the same time.
