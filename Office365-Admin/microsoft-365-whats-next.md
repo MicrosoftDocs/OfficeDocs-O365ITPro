@@ -38,6 +38,14 @@ For the list of features we've released for the Microsoft 365 admin center, see 
 ## In the works
 Here's a list of features that will most-likely be released soon. 
 
+### Keyboard shortcuts
+
+### Cloud Shell
+Similar to the Azure Cloud Shell, we're adding a cloud-connected PowerShell app that will automatically sign you in, and pre-load the Exchange Online PowerShell module.
+[Give feedback for cloud shell](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/31727167-support-cloud-shell-powershell-via-browser)
+
+### Service health & message center
+
 ### Settings redesign
 **Settings** is being reorganized to have the **Services & add-ins**, **Security & privacy**, and **Organization profile** settings on a single list page and these settings will be searchable from the list view. 
 [Give feedback for settings redesign](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/38026780-searchable-settings)
@@ -45,10 +53,6 @@ Here's a list of features that will most-likely be released soon.
 ### Add user template
 You always add a user with the same defaults like assigning licenses and user roles. Create a template to add users with your org's defaults with just one click. <br>
 [Give feedback for automated tasks](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/16255120-new-user-templates)
-
-### Simplify multi-factor authentication (MFA)
-Ensure you protect your admin accounts by enabling MFA for admins with just one-click.<br>
-[Give feedback for simple MFA](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/35811274-baseline-policy-require-mfa-for-admins-preview)<br>
 
 ### Bulk management of groups
 Adding the ability to manage multiple groups at once.<br>
@@ -62,9 +66,6 @@ Moving the some of the administrative features for Microsoft Teams management in
 Designing ways to simplify the billing experience, including reducing the number of pages under the billing node.<br>
 [Give feedback for simple billing](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/11579520-billing)
 
-### Navigation pane intelligence
- The navigation pane will remember and show you the pane in the last state that you left it in. It will also make frequently used items visible by default.<br>
-[Give feedback for menu intelligence](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/37705138-let-the-left-nav-menu-remember-my-favorites)
 
 ### Password writeback support
 Hybrid customers will have the ability to reset their on-premises user passwords in the cloud. These passwords will sync back down the the on-premises accounts. <br>
