@@ -1,7 +1,7 @@
 ---
 title: "About the Exchange Online admin role"
-ms.author: cmcatee
-author: cmcatee-MSFT
+ms.author: anfowler
+author: adefowler
 manager: mnirkhe
 audience: Admin
 ms.topic: overview
