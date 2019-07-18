@@ -51,7 +51,7 @@ The following services and features are available in some [Office 365 Germany su
     
 - Project for the web
     
-- Visio Online
+- Visio for the web
     
 - Groups
     
