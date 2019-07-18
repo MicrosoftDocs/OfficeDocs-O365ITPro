@@ -57,7 +57,7 @@ If you're working with a Microsoft partner, you can assign them admin roles. The
   
 A partner can assign these roles:
   
-- Full administration, which has privileges equivalent to a global admin with the exception of managing MFA functionality through the Partner Center.
+- Full administration, which has privileges equivalent to a global admin, with the exception of managing MFA functionality through the Partner Center.
     
 - Limited administration, which has privileges equivalent to a helpdesk admin.
     
