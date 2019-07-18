@@ -1,7 +1,7 @@
 ---
 title: "About admin roles in the Microsoft 365 admin center"
-ms.author: cmcatee
-author: cmcatee-MSFT
+ms.author: anfowler
+author: adefowler
 manager: mnirkhe
 audience: Admin
 ms.topic: overview
