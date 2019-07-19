@@ -52,13 +52,27 @@ If your Office 365 or Microsoft 365 Business support phone number isn't listed a
   
 Save time by starting your service request online. We'll help you find a solution or connect you to an expert who will contact you by email or phone. [Learn about initial support response times](https://go.microsoft.com/fwlink/p/?LinkId=518251).
 
-1. [Sign in with your Office 365 admin account](https://aka.ms/admincenter). If you get the message "**You don't have permission to access this page or perform this action**" then you aren't an admin. [Who has admin permissions in my business?](admin-overview/admin-overview.md#who-has-admin-permissions-in-my-business).
-    
-2. In the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339), choose the **Need help?** button.
+### Use the new admin center to start a service request
 
-3. In the **Need help?** pane, tell us what you need help with, then press **Enter**. 
+1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>. If you get a message that says you don't have permission to access this page or perform this action, then you aren't an admin. [Who has admin permissions in my business?](admin-overview/admin-overview.md#who-has-admin-permissions-in-my-business).
     
-4. If the results don't help, choose **New service request by phone**. Confirm your contact number, then press **Call me**. The expected wait time for a call back is indicated in the **Need help?** pane. 
+2. Choose the **Need help?** button.
+
+3. In the **Need help?** pane, tell us what you need help with, then choose **Get help**. 
+    
+4. If the results don't help, choose **New service request by phone**. Confirm your contact number, and then choose **Call me**. The expected wait time for a call back is indicated in the **Need help?** pane. 
+
+### Use the old admin center to start a service request
+
+1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>. If you get a message that says you don't have permission to access this page or perform this action, then you aren't an admin. [Who has admin permissions in my business?](admin-overview/admin-overview.md#who-has-admin-permissions-in-my-business).
+    
+2. Choose the **Need help?** button.
+
+3. In the **Need help?** pane, tell us what you need help with, and then press Enter. 
+    
+4. If the results don't help, choose **Contact support**. 
+
+5. Enter a description if you like, confirm your contact number and email address, select your preferred contact method, and then choose **Contact me**. The expected wait time is indicated in the **Need help?** pane.
 
 ## [In-store support](#tab/instore)
   
