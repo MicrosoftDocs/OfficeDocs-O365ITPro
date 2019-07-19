@@ -1,7 +1,7 @@
 ---
 title: "About admin roles in the Microsoft 365 admin center"
-ms.author: cmcatee
-author: cmcatee-MSFT
+ms.author: anfowler
+author: adefowler
 manager: mnirkhe
 audience: Admin
 ms.topic: overview
@@ -57,7 +57,7 @@ If you're working with a Microsoft partner, you can assign them admin roles. The
   
 A partner can assign these roles:
   
-- Full administration, which has privileges equivalent to a global admin.
+- Full administration, which has privileges equivalent to a global admin, with the exception of managing MFA functionality through the Partner Center.
     
 - Limited administration, which has privileges equivalent to a helpdesk admin.
     
