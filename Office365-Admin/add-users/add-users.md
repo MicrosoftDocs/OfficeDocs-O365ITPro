@@ -86,7 +86,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 5. On the **Optional settings** page, expand **Roles** if you want to make this user an admin, and expand **Profile info** if you want to add additional information about the user. 
 
-6. Choose **Next**, review your new user's settings, make any changes you like, and then choose **Finish adding**.
+6. Choose **Next**, review your new user's settings, make any changes you like, and then choose **Finish adding**. 
 
 ### Use the old admin center to add users  
 
