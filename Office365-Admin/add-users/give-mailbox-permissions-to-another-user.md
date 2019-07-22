@@ -60,52 +60,98 @@ There are a few different ways you can access a mailbox once you've been given a
   
 ## Send email from another user's mailbox
 
+### Use the new admin center to send email from another user's mailbox
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
     
-2. Choose the user you want, and then click on **Manage product licenses**.
+2. Select the user you want, and then click **Manage product licenses**.
     
 3. Click the **Mail** tab > **Manage mailbox permissions**.
 
-4. Next to **Send as** > **Edit**. 
+4. Next to **Send as**, click **Edit**. 
 
 5. Choose **Add permissions**, then choose the name of the person who you want this user to be able to send as. 
     
 6. Click **Save**.
+ 
+### Use the old admin center to send email from another user's mailbox
+   
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
+
+2. Choose the user you want, expand **Mail Settings**, and then click **Edit** next to **Mailbox permissions**.
+
+3.  Next to **Send as**, click **Edit**. 
+
+5. Choose **Add permissions**, then choose the name of the person who you want this user to be able to send as. 
     
+6. Click **Save**.
   
 ## Read email in another user's mailbox
 
+### Use the new admin center to read email in another user's mailbox
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
     
-2. Choose the user you want, and then click on **Manage product licenses**.
+2. Select the user you want, and then click **Manage product licenses**.
     
 3. Click the **Mail** tab > **Manage mailbox permissions**.
     
-4. Next to **Read and manage** choose **Edit**. 
+4. Next to **Read and manage**, click **Edit**. 
     
 5. Choose **Add permissions**, then choose the name of the user or users that you want to allow to read email from this mailbox.
 
 6. Click **Save**.
     
+### Use the old admin center to read email in another user's mailbox
   
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
+    
+2. Choose the user you want, expand **Mail Settings**, and then click **Edit** next to **Mailbox permissions**.
+    
+3. Click the **Mail** tab > **Manage mailbox permissions**.
+    
+4. Next to **Read and manage**, click **Edit**. 
+    
+5. Choose **Add permissions**, then choose the name of the user or users that you want to allow to read email from this mailbox.
+
+6. Click **Save**.
+
+
 ## Send email on behalf of another user
+
+### Use the new admin center to send email on behalf of another user
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
 
-2. Choose the user you want, and then click on **Manage product licenses**.
+2. Select the user you want, and then click **Manage product licenses**.
     
 3. Click the **Mail** tab > **Manage mailbox permissions**.
 
-4. Next to **Send on behalf** choose **Edit**.
+4. Next to **Send on behalf**, click **Edit**.
 
 5. Choose **Add permissions**, then choose the name of the user or users that you want to allow to send email on behalf of this mailbox.
 
 6. Click **Save**.
     
+### Use the old admin center to send email on behalf of another user
 
-  
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
+
+2. Choose the user you want, expand **Mail Settings**, and then click **Edit** next to **Mailbox permissions**.
+
+3. Next to **Send on behalf**, click **Edit**.
+    
+4. Choose **Add permissions**, then choose the name of the user or users that you want to allow to send email on behalf of this mailbox.
+
+5. Click **Save**.
+
 ## Send and read from Outlook and Outlook on the web for business
 
 
