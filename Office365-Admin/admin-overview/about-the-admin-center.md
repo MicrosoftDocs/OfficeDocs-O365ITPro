@@ -49,7 +49,7 @@ You use the admin center to set up your organization in the cloud, manage users,
 
     ::: moniker-end
 
-2. Select the app launcher icon ![Office 365 app launcher icon](../media/0aaa6945-f9a4-4b13-bf5f-d5c5dbe978fb.png) in the upper-left and choose **Admin**.
+2. Select the app launcher icon in the upper-left and choose **Admin**.
     
     The **Admin** tile appears only to people who have Office 365 [admin permissions](../add-users/about-admin-roles.md). If you don't see the tile, then you don't have permissions to access the admin center for your organization.
     
