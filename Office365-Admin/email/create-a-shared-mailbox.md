@@ -86,6 +86,10 @@ Every shared mailbox has a corresponding user account. Notice how you weren't as
 
 But what if an admin simply resets the password of the shared mailbox user account? Or what if an attacker gains access to the shared mailbox account credentials? This would allow the user account to log in to the shared mailbox and send email. To prevent this, you need to block sign-in for the account that's associated with the shared mailbox.
 
+### Use the new admin center to block sign-in for the shared mailbox account
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 2. In the list of user accounts, find the account for the shared mailbox (for example, change the filter to **Unlicensed users**).
@@ -94,7 +98,19 @@ But what if an admin simply resets the password of the shared mailbox user accou
 
    **Note**: If the account is already blocked, **Sign in blocked** will appear at the top and the icon will read **Unblock this user**.
 
-4. On the **Block this user?** pane, select **Block the user from signing in**, and then click **Save changes**.
+4. In the **Block this user?** pane, select **Block the user from signing in**, and then click **Save changes**.
+
+### Use the old admin center to block sign-in for the shared mailbox account
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+2. In the list of user accounts, find the account for the shared mailbox (for example, change the view to **Unlicensed users**) and then select the account.
+
+3. In the properties flyout, click **Block sign-in**.
+
+    **Note:** If the account was already blocked, the button would say **Unblock sign-in**.
+
+4. In the **Edit sign-in status** flyout, verify that Block the user from signing in is selected, click **Save**, and then click **Close**.
 
 For instructions on how to block sign-in for accounts using Azure AD PowerShell (including many accounts at the same time), see [Block user accounts with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/block-user-accounts-with-office-365-powershell).
 
