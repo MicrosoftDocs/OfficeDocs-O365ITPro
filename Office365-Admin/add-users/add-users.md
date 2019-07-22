@@ -80,19 +80,16 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
     - They'll need to change their password after 90 days. Or you can choose to **Require this user to change their password when they first sign in**.
     
-    - Choose whether you want ot  send the password in email when the user has been added. 
+    - Choose whether you want to  send the password in email when the user has been added. 
     
-4. On the **Assign product licenses** pane, select the location and the appropriate license for the user. If you don't have any licenses available, you can still add a user and buy additional licenses. Choose **Next**.
+4. In the **Assign product licenses** pane, select the location and the appropriate license for the user. If you don't have any licenses available, you can still add a user and buy additional licenses. Choose **Next**.
 
-5. On the **Optional settings** page, expand **Roles** if you want to make this user an admin, and expand **Profile info** if you want to add additional information about the user. 
+5. In the **Optional settings** page, expand **Roles** if you want to make this user an admin, and expand **Profile info** if you want to add additional information about the user. 
 
 6. Choose **Next**, review your new user's settings, make any changes you like, and then choose **Finish adding**. 
 
 ### Use the old admin center to add users  
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
-
-  
+ 
 ::: moniker range="o365-worldwide"
 
 1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>.
@@ -114,7 +111,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 2. Go to **Users** > **Active users**, and choose **Add a user**.
    
   
-In the **New user** pane, fill in the following information. Choose **Add** when you are done. 
+   In the **New user** pane, fill in the following information. Choose **Add** when you are done. 
   
 - **Name** Fill in first, last, display name, and user name. 
     
