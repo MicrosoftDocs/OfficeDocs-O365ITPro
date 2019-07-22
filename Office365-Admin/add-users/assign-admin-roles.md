@@ -1,7 +1,7 @@
 ---
 title: "Assign admin roles in Office 365 for business"
-ms.author: cmcatee
-author: cmcatee-MSFT
+ms.author: anfowler
+author: adefowler
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
