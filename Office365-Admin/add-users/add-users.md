@@ -45,6 +45,53 @@ The people on your team each need a user account before they can sign in and acc
 > Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
 
 ::: moniker-end
+
+### Use the new admin center to add users  
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+
+::: moniker range="o365-worldwide"
+
+1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>.
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">https://portal.office.de/adminportal</a>.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">https://portal.partner.microsoftonline.cn</a>.
+
+::: moniker-end
+
+2. Go to **Users** > **Active users**, and choose **Add a user**.
+   
+3. In the **Set up the basics** pane, fill in the following information, and then choose **Next**. 
+  
+- **Name** Fill in first, last, display name, and username. 
+    
+- **Domain** For example, if the user's username is Jakob, and his domain is contoso.com, he'll sign in to Office 365 by typing jakob@contoso.com. 
+    
+- **Password settings** Choose to the use auto-generated password or create your own strong password for the user. 
+    
+    - They'll need to change their password after 90 days. Or you can choose to **Require this user to change their password when they first sign in**.
+    
+    - Choose whether you want ot  send the password in email when the user has been added. 
+    
+4. On the **Assign product licenses** pane, select the location and the appropriate license for the user. If you don't have any licenses available, you can still add a user and buy additional licenses. Choose **Next**.
+
+5. On the **Optional settings** page, expand **Roles** if you want to make this user an admin, and expand **Profile info** if you want to add additional information about the user. 
+
+6. Choose **Next**, review your new user's settings, make any changes you like, and then choose **Finish adding**.
+
+### Use the old admin center to add users  
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+
   
 ::: moniker range="o365-worldwide"
 
@@ -67,7 +114,7 @@ The people on your team each need a user account before they can sign in and acc
 2. Go to **Users** > **Active users**, and choose **Add a user**.
    
   
-In the New user dialog, fill in the following information. Choose **Add** when you are done. 
+In the **New user** pane, fill in the following information. Choose **Add** when you are done. 
   
 - **Name** Fill in first, last, display name, and user name. 
     

@@ -94,9 +94,9 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
     
 5. Choose how you want to verify that you own the domain.
     
-    1. If your domain is registered at GoDaddy or 1&amp;1, choose **Sign in** and Office 365 [will set up your records automatically](../get-help-with-domains/domain-connect.md).
+    1. If your domain is registered at GoDaddy or 1&amp;1, choose **Sign in** > **Next** and Office 365 [will set up your records automatically](../get-help-with-domains/domain-connect.md).
     
-    2. You can have an email sent to the registered contact for the domain with a verification code. If you don't recognize or have access to the email on record, you can use option 3.
+    2. You can have an email sent to the registered contact for the domain with a verification code. If you don't recognize or have access to the email on record, you can use the third option.
     
     3. You can use a TXT record to verify your domain. Select this and choose **Next** to see instructions for how to add this DNS record to your registrar's website. This can take up to 30 minutes to verify after you've added the record. 
     
