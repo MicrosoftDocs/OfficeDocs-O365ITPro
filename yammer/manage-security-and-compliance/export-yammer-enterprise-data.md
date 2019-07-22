@@ -3,7 +3,7 @@ title: "Export data from Yammer Enterprise"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 12/16/2018
+ms.date: 7/17/19
 audience: Admin
 ms.topic: article
 ms.service: yammer

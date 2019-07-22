@@ -116,7 +116,7 @@ If you apply new a creation policy, this will not retroactively change groups th
 
 **Q: I have an unconnected group. How can I get it to be connected?**
 
-A: When your network first becomes eligible for connected groups, all groups that meet the criteria are converted to connected groups. After that, if a group that wasn't eligible becomes eligible, for example if your network has Office group creation policies applied, and you add a group admin with group creation permission, the group is not automatically connected. You can submit a support request to have the group connected.
+A: When your network first becomes eligible for connected groups, all groups that meet the criteria are converted to connected groups. After that, if a group that wasn't eligible becomes eligible, for example if your network has Office group creation policies applied and you add a group admin with group creation permission, the group is not automatically connected. To have a group connected, you can submit a support request to have all eligible groups in your network connected.
 
 ## FAQ - General
 
