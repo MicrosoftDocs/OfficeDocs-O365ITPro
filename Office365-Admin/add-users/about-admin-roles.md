@@ -25,7 +25,10 @@ description: "Admin roles map to business functions and give permissions to do s
 
 # About admin roles
 
-Your subscription comes with a set of admin roles that you can to users in your organization. Each admin role maps to common business functions and gives people in your organization permissions to do specific tasks in the admin centers. For more information, see [Assign admin roles](assign-admin-roles.md)
+
+Your subscription comes with a set of admin roles that you can assign to users in your organization. Each admin role maps to common business functions and gives people in your organization permissions to do specific tasks in the admin centers. For more information, see [Assign admin roles](assign-admin-roles.md)
+
+[!TIP] Looking for the role descriptions? Check out [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
 
 ## Things to consider...
 
@@ -37,6 +40,9 @@ Because admins have access to sensitive data and files, we recommend that you fo
 | Assign the *least permissive* role    | Assigning the *least permissive* role means giving admins only the access they need to get the job done. For example, if you want someone to reset employee passwords you shouldn't assign the unlimited global admin role, you should assign a limited admin role, like Password admin or Helpdesk admin.  This will help keep your data secure.                 |
 | Require multi-factor authentication for admins                  |    It's actually a good idea to require MFA for all of your users, but admins should definitely be required to use MFA to sign in. MFA makes users enter a second method of identification to verify they are who they say they are. Admins can have access to a lot of customer and employee data and if you require MFA, even if the admin's password gets compromised, the password is useless without the second form of identification.  <br><br>When you turn on MFA, the next time the user signs in, they'll need to provide an alternate email address and phone number for account recovery.  <br> [Set up multi-factor authentication](../security-and-compliance/set-up-multi-factor-authentication.md)          | 
  
+## Where did the role descriptions go?
+The role descriptions can be found in the Azure AD documentation [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
+
 ## Need more details about what these roles can and cannot do?
 
 In the Microsoft 365 admin center, go to **Roles** > **Roles**, and then select any role to open its detail pane. Select the **Permissions** tab to view the detailed list of what admins assigned that role have permission to do.
@@ -57,7 +63,7 @@ If you're working with a Microsoft partner, you can assign them admin roles. The
   
 A partner can assign these roles:
   
-- Full administration, which has privileges equivalent to a global admin, with the exception of managing MFA functionality through the Partner Center.
+- Full administration, which has privileges equivalent to a global admin, with the exception of managing multi-factor authentication through the Partner Center.
     
 - Limited administration, which has privileges equivalent to a helpdesk admin.
     
