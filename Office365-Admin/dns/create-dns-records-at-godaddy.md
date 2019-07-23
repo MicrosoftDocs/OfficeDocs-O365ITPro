@@ -66,12 +66,13 @@ Follow the steps below.
     |||||
     |:-----|:-----|:-----|:-----|
     |Record type  <br/> |Host  <br/> |TXT Value  <br/> |TTL  <br/> |
-    |TXT (Text)  <br/> |@  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |1 hour  <br/> |
-      (Select the **TTL** value from the drop-down list.) 
+    |TXT (Text) |@   |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) |1 hour  |
+      
+    (Select the **TTL** value from the drop-down list.) 
     
       ![GoDaddy-BP-Verify-1-0](https://user-images.githubusercontent.com/45987684/56526870-d6465780-651a-11e9-9cf0-d6fff71e2f62.PNG)
    
-5. Choose **Save **.
+5. Choose **Save**.
 
 6. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     

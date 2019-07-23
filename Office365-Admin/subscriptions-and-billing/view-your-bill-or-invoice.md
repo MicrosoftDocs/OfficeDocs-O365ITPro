@@ -40,11 +40,12 @@ If you need help interpreting the charges you see on your bill, see [Understand 
   
 ## View a bill or invoice
 
+
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=848039" target="_blank">Bills & payments</a> page.
 
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=848040" target="_blank">Bills & payments</a> page.
 
-2. Select a date range from the drop down, and then click the order you want to view.
+2. Select a date range from the dropdown, and then click the order you want to view.
 
 3. On the summary page, you can see the following:
 
@@ -57,6 +58,7 @@ If you need help interpreting the charges you see on your bill, see [Understand 
   - The order creation date, and the order number.
 
 4. To print or save a PDF copy of the invoice, choose **Download PDF**.
+
 
 ## Stop receiving a copy of my billing statement in email
 
