@@ -111,7 +111,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
   - If their password changed too, tell them that they will be prompted to enter the new password on their mobile device, or it won't sync.
   
-##Change a user's display name
+## Change a user's display name
 
 ### Use the new admin center to change a user's display name
 
