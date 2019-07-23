@@ -40,9 +40,9 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 
 ::: moniker range="o365-worldwide"  
 
-### Use the admin center (preview) to add a new credit card or bank account
+### Use the new admin center to add a new credit card or bank account
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page.  For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.
 
@@ -87,9 +87,9 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
 ::: moniker range="o365-worldwide"
 
-### Use the admin center (preview) to update an existing credit card or bank account
+### Use the new admin center to update an existing credit card or bank account
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page.  For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.
 
@@ -104,8 +104,10 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
 ::: moniker-end
 
-::: moniker range="o365-worldwide"  
+::: moniker range="o365-worldwide" 
+ 
 ### Use the old admin center to update an existing credit card or bank account
+
 ::: moniker-end
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
@@ -138,9 +140,9 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
 ::: moniker range="o365-worldwide"
 
-### Use the admin center (preview) to remove a credit card or bank account
+### Use the new admin center to remove a credit card or bank account
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page.  For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.
 
@@ -156,7 +158,9 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 ::: moniker-end
 
 ::: moniker range="o365-worldwide"
+
 ### Use the old admin center to remove a credit card or bank account
+
 ::: moniker-end
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
@@ -185,9 +189,10 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 ## Change the credit card or bank account that you're using to pay for a subscription
 
 ::: moniker range="o365-worldwide"
-### Use the admin center (preview) to change the credit card or bank account used to pay for a subscription
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+### Use the new admin center to change the credit card or bank account used to pay for a subscription
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page.  For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
@@ -200,7 +205,9 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 ::: moniker-end
 
 ::: moniker range="o365-worldwide"
+
 ### Use the old admin center to change the credit card or bank account used to pay for a subscription
+
 ::: moniker-end
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
