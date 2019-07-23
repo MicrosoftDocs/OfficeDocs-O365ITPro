@@ -108,10 +108,8 @@ Follow the steps below to get the code at Office 365, and then go to the other d
     
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=2007048" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the Office 365 domain that you want to transfer to another domain registrar, and choose **Domain settings**.
-    
-3. Under **Privacy Setting**, choose **Enable domain transfer**.
-    
+2. On the **Domains** page, choose the Office 365 domain that you want to transfer to another domain registrar, and then choose **Domain Transfer** > **Enable domain transfer**.
+       
 4. Follow the steps to prepare for transferring your domain.
     
 5. After you get the code, go to the website of the domain registrar where you want to manage your domain name going forward and follow their directions for transferring a domain (search for help on their website).
