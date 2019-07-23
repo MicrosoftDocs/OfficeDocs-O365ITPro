@@ -31,7 +31,7 @@ When you convert a user's mailbox to a shared mailbox, all of the existing email
 
 - Don't delete the old user's account. That's required to anchor the shared mailbox. If you've already deleted the user account, see [Convert the mailbox of a deleted user](#convert-the-mailbox-of-a-deleted-user).
 
-- The Rules are intact after the mailbox is converted as a shared mailbox.
+- The rules are intact after the mailbox is converted to a shared mailbox.
 
 Here's how you convert a mailbox to a shared mailbox:
 
