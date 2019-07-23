@@ -3,7 +3,7 @@ title: "Yammer and Office 365 Groups"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 6/27/19
+ms.date: 7/12/19
 audience: Admin
 ms.topic: overview
 ms.service: yammer
@@ -114,6 +114,10 @@ A: No, but you can [Manage who can create Office 365 Groups](https://docs.micros
 
 If you apply new a creation policy, this will not retroactively change groups that are already connected to Office 365. This will only impact new groups moving forward. 
 
+**Q: I have an unconnected group. How can I get it to be connected?**
+
+A: When your network first becomes eligible for connected groups, all groups that meet the criteria are converted to connected groups. After that, if a group that wasn't eligible becomes eligible, for example if your network has Office group creation policies applied and you add a group admin with group creation permission, the group is not automatically connected. To have a group connected, you can submit a support request to have all eligible groups in your network connected.
+
 ## FAQ - General
 
 **Q: What kinds of Yammer groups can be Office 365 connected Yammer groups?**
@@ -177,7 +181,9 @@ We recommend storing content that needs the structure and management capabilitie
   
  **Q: Do my Office 365 connected Yammer groups follow my Office 365 group naming policy?**
   
-A: Yes. Any new group created in Yammer will add the prefix and suffix from the group naming policy, and will not allow blocked words in the group name. For more information, see [Office 365 Groups naming policy](https://support.office.com/article/6ceca4d3-cad1-4532-9f0f-d469dfbbb552).
+A: Yes. Any new group created in Yammer will add the prefix and suffix from the group naming policy, and will not allow blocked words in the group name. For more information, see [Office 365 Groups naming policy](https://support.office.com/article/6ceca4d3-cad1-4532-9f0f-d469dfbbb552). 
+
+Note that Yammer group names can't contain the following characters: @, #, [, ], <, or >. If the naming policy includes any of these characters, regular Yammer users will not be able to create groups in Yammer. Office 365 admins can still create groups in Yammer.
  
 ## FAQ - Troubleshooting
 
