@@ -55,8 +55,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
   - If you get the error message "**We're sorry, the user couldn't be edited. Review the user information and try again**," it means you aren't an Office 365 global admin and you don't have permissions to change the user name. 
 
+## Set the primary email address
 
-## Use the new admin center to set the primary email address 
+### Use the new admin center to set the primary email address 
  
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
  
@@ -84,7 +85,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
   - If their password changed too, tell them that they will be prompted to enter the new password on their mobile device, or it won't sync.
   
-## Use the old admin center to set the primary email address 
+### Use the old admin center to set the primary email address 
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
@@ -110,7 +111,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
   - If their password changed too, tell them that they will be prompted to enter the new password on their mobile device, or it won't sync.
   
-## Use the new admin center to change a user's display name
+##Change a user's display name
+
+### Use the new admin center to change a user's display name
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
 
@@ -122,7 +125,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     If you get the error message "**We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name.
 
-## Use the old admin center to change a user's display name
+### Use the old admin center to change a user's display name
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
