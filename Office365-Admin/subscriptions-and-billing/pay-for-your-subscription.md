@@ -43,9 +43,9 @@ If you pay by credit card, and your credit card is declined, you'll receive an e
 
 ::: moniker range="o365-worldwide"
 
-#### Use the admin center (preview) to pay your outstanding balance
+#### Use the new admin center to pay your outstanding balance
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
@@ -274,7 +274,7 @@ You can choose to receive a copy of your billing statement as an email attachmen
 
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=853213" target="_blank">Billing notifications</a> page.
 
-2. Under **Do you want to receive the billing statement as an email attachment?**, switch the toggle to **On**.
+2. Under **Receive billing statement as email attachment?**, switch the toggle to **On**.
 
     You can stop receiving the billing statement emails at any time by switching the toggle to **Off**.
 

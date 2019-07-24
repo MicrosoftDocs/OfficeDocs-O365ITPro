@@ -75,13 +75,13 @@ If you added your own domain name to use with your subscription, you must remove
 
 ::: moniker range="o365-worldwide"
 
-### Use the admin center (preview) to cancel your subscription
+### Use the new admin center to cancel your subscription
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Find the subscription that you want to cancel, under **Settings & Actions**, choose **Cancel subscription**.
+2. Find the subscription that you want to cancel, and under **Settings & Actions**, choose **Cancel subscription**.
 
 3. Review the important dates, provide feedback about why you are cancelling, then choose **Cancel subscription**.
 
