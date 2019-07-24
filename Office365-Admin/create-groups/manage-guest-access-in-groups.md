@@ -33,9 +33,9 @@ Admins can control whether to allow guest access to Groups for their whole organ
    
 ### Use the new admin center to add existing guests to an Office 365 Group
 
-If the guest already exists in your directory (see above), you can add them to your groups from the Office Admin Center or the Exchange Admin Center.
-
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+
+If the guest already exists in your directory (see above), you can add them to your groups from the Office Admin Center or the Exchange Admin Center.
   
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
   
@@ -53,7 +53,7 @@ If the guest already exists in your directory (see above), you can add them to y
   
 2. Select the group you want to add the guest to, and choose **Edit** in the **Members** section. 
 
-3. Select the name of the guest you want to add.
+3. Click **Add members**, and select the name of the guest you want to add.
 
 4. Choose **Save**.
 
