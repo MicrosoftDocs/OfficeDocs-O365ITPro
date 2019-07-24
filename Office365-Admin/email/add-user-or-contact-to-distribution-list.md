@@ -45,9 +45,6 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
 5. Click **Save** and then **Close**.
     
-If you haven't created the [contact](../misc/contacts.md)
- yet, do that first as shown in this video. 
-<br><br>
 
 ### Use the old admin center to add a user or contact 
 
