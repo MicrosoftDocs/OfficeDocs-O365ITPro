@@ -29,15 +29,35 @@ As the admin of an Office 365 organization, you may need to add one of your user
   
 ## Add a user or contact to a distribution group
 
+### Use the new admin center to add a user or contact 
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
+
+2. On the Groups page, click the name of the group you want to add a contact to.
+
+3. On the **Members** tab, click **View all and manage members**.
+
+4. On the **View Members** page, click or tap **Add members,** and select the user or contact you want to add to the distribution group. 
+    
+    ![Add members to distribution group](../media/f79f59f8-1606-43fe-bae6-df74f5b6259d.png)
+  
+5. Click **Save** and then **Close**.
+    
+If you haven't created the [contact](../misc/contacts.md)
+ yet, do that first as shown in this video. 
+<br><br>
+
+### Use the old admin center to add a user or contact 
+
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
 2. On the Groups page, select the group you want to add a contact to.
     
 3. In the **Members** section, click **Edit**.
-    
-    ![Add a contact to a distribution group](../media/429062d8-9dcf-4d98-af9c-6fff8a18b198.png)
   
-4. On the **View Members** page, click or tap **Add Members,** and select the **user or contact** you want to add to the distribution group. 
+4. On the **View Members** page, click or tap **Add members,** and select the user or contact you want to add to the distribution group. 
     
     ![Add members to distribution group](../media/f79f59f8-1606-43fe-bae6-df74f5b6259d.png)
   
