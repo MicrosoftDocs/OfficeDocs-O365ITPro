@@ -13,7 +13,7 @@ ms.author: v-six
 
 ## Problem
 
-You recently activated Yammer Enterprise by using the Office 365 admin center. The Yammer tile appears in the app launcher, but when you click it, you receive the following error message:
+You recently activated Yammer Enterprise by using the Microsoft 365 admin center. The Yammer tile appears in the app launcher, but when you click it, you receive the following error message:
 
 **Sorry, but we're having trouble signing you in. We received a bad request.**
 

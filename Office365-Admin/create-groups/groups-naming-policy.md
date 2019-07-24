@@ -73,6 +73,8 @@ It's recommended that you use attributes that have values filled in for all user
 - During policy creation, the total prefixes and suffixes string length is restricted to 53 characters.
     
 - Prefixes and suffixes can contain special characters supported in group name and group alias. When the prefixes and suffixes contain special characters that are not allowed in the group alias, they are removed and applied to the group alias. So in this case, the prefixes and suffixes applied to group name would be different from the ones applied to the group alias.
+
+- If you are using Yammer Office 365 connected groups, avoid using the following characters in your naming policy: @, #, [, ], <, and >. If these characters are in the naming policy, regular Yammer users will not be able to create groups.
     
 ## Custom Blocked Words
 
@@ -311,6 +313,8 @@ The recommended name - with the naming policy applied - is shown in the error de
 When a user signed in to Yammer with their Azure Active Directory account creates a group or edits a group name, the group name will comply with naming policy. This applies both to Office 365 connected groups and all other Yammer groups.
   
 If an Office 365 connected group was created before the naming policy is in place, the group name will not automatically follow the naming policies. When a user edits the group name, they will be prompted to add the prefix and suffix.
+
+If the naming policy includes characters that can't be in Yammer group names, only Office 365 admins will be able to create a connected group in Yammer. 
   
 ## StaffHub
 
