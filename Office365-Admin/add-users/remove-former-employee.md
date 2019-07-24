@@ -302,7 +302,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
 
-2. Select the employee that you want to block, and  then click **Edit** next to **Sign-in status**.
+2. Select the employee that you want to block, and then click **Block sign-in**.
 
 3. Select **Block the user from signing in**, and then choose **Save**. 
 
@@ -350,7 +350,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
 
-2. Click the name of the employee that you want to block, and then select the **Licenses and Apps tab**.
+2. Click the name of the employee that you want to block, and then select the **Licenses and Apps** tab.
 
 4. Clear the check boxes for the license(s) you want to remove, and then choose **Save changes**.
 
