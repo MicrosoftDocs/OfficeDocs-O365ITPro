@@ -33,7 +33,7 @@ Admins can control whether to allow guest access to Groups for their whole organ
    
 ### Use the new admin center to add existing guests to an Office 365 Group
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 If the guest already exists in your directory (see above), you can add them to your groups from the Office Admin Center or the Exchange Admin Center.
   

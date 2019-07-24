@@ -39,7 +39,7 @@ The easiest way to switch plans is to use the **Switch plans** button in the adm
 
 ::: moniker range="o365-worldwide"
 > [!NOTE]
-> This article applies to the old admin center. To view the article about the new admin center, see [Upgrade to a different plan](upgrade-to-different-plan.md). The new admin center is available to all Microsoft 365 admins, and you can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+> This article applies to the old admin center. To view the article about the new admin center, see [Upgrade to a different plan](upgrade-to-different-plan.md). The new admin center is available to all Microsoft 365 admins, and you can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 ::: moniker-end
 
 **Need something else?**

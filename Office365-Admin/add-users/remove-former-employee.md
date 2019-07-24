@@ -48,7 +48,7 @@ description: "Follow this checklist to remove an employee from Office 365 and se
 
 ### Use the new admin center to remove a former employee
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
   
 ::: moniker range="o365-worldwide"
@@ -166,7 +166,7 @@ In this step, you assign the former employee's email address to another employee
   
 ### Use the new admin center to forward a former employee's email
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 ::: moniker range="o365-worldwide"  
 
@@ -257,7 +257,7 @@ If your former employee had a organization phone, you can use the Exchange admin
  
 ### Use the new admin center to block a user from signing in and accessing Office 365 data
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md). 
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md). 
 
 
 ::: moniker range="o365-worldwide"
@@ -330,7 +330,7 @@ When you remove the license, all that user's data is held for 30 days. You can [
   
 ### Use the new admin center to remove license from a former employee
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md). 
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md). 
 
 ::: moniker range="o365-worldwide"
 
@@ -409,7 +409,7 @@ Don't delete the account if you've set up email forwarding or converted it to a 
 
 ### Use the new admin center to delete a former employee's user account
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).     
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).     
 
 ::: moniker range="o365-worldwide"
 

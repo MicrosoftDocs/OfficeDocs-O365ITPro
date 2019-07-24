@@ -42,7 +42,7 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 
 ### Use the new admin center to add a new credit card or bank account
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page.  For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page.  For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.
 
@@ -89,7 +89,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ### Use the new admin center to update an existing credit card or bank account
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page.  For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page.  For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.
 
@@ -142,7 +142,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ### Use the new admin center to remove a credit card or bank account
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page.  For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page.  For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.
 
@@ -192,7 +192,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ### Use the new admin center to change the credit card or bank account used to pay for a subscription
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page.  For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page.  For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 

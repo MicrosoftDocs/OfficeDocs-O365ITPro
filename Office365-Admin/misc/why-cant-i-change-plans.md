@@ -27,7 +27,7 @@ description: "Understand the reasons why sometimes changing plans has to be done
 If you don't see any plans on the **Upgrade** tab, it means your plan can't be upgraded automatically. In some cases, you might be able to resolve the issue so that you can view plans available for upgrade, or you might be able to upgrade or change plans manually, instead.
 
 > [!NOTE]
-> This article applies to the admin center (preview). The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md). To view the article about the old admin center, see [Why can't I switch Office 365 for business plans?](why-can-t-i-switch-plans.md).
+> This article applies to the admin center (preview). The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md). To view the article about the old admin center, see [Why can't I switch Office 365 for business plans?](why-can-t-i-switch-plans.md).
 
 ## Why are there no plans listed to upgrade?
 

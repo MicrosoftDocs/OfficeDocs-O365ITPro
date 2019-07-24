@@ -192,7 +192,7 @@ You can use the following steps at any time to verify the payment method that's 
 
 ### Use the admin center (preview) to verify which payment method is configured
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
@@ -223,7 +223,7 @@ You can use the following steps at any time to verify the payment method that's 
 > [!IMPORTANT]
 > You cannot use the old admin center to change your payment frequency. If you want to change how frequently you pay for your subscription, either from annual to monthly or monthly to annual, you'll need to select the **Try the preview** toggle located at the top of the Home page, or [call Office 365 support](../contact-support-for-business-products.md) for help.
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 

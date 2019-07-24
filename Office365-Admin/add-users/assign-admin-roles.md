@@ -35,7 +35,7 @@ When you add new users, if you don't assign them an admin role then they are in 
   
 ## Assign admin roles to a user from the new admin center
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 The new roles experience has been rolling out to organizations since the end of June. If you aren't seeing the new **Roles** page, see [Assign admin roles from the classic admin center](assign-admin-roles.md#assign-admin-roles-to-a-user-from-the-classic-admin-center) later in this article.
 
