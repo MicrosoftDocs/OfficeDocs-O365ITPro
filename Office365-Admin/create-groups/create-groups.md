@@ -77,7 +77,7 @@ Users can [add themselves or request approval](https://support.office.com/articl
 
 1. In the admin center, refresh the page so your new group appears, choose **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a>, and then click the group that you want to add members to.
     
-2. On the **Members** tab, click **View and manage members**.
+2. On the **Members** tab, click **View all and manage members**.
 
 3. Click **Add members**.
     
