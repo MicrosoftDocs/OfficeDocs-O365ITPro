@@ -43,6 +43,11 @@ If you remove a user's license but don't delete the account, you retain access t
 
 To preserve a former user's OneDrive for Business documents you first access their OneDrive site and then move the files. 
 
+### Use the new admin center to access a former user's OneDrive documents
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+
+
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
     
 2. Select a user.
@@ -51,10 +56,21 @@ To preserve a former user's OneDrive for Business documents you first access the
 
 4. Click the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. You can also share the link with another user to download the files.
 
-    > [!NOTE]
-    > You can move up to 500 MB of files and folders at a time.
-    > When you use **Move to** with documents that have version history, only the latest version is moved. To move earlier versions, you need to restore and move each one. 
     
+### Use the old admin center to access a former user's OneDrive documents
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
+    
+2. Select a user.
+
+3. In the right pane, expand **OneDrive Settings**, and then next to **Access**, click **Access files**.
+
+4. Click the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. You can also share the link with another user to download the files.
+
+> [!NOTE]
+> You can move up to 500 MB of files and folders at a time.<br/>
+> When you use **Move to** with documents that have version history, only the latest version is moved. To move earlier versions, you need to restore and move each one. 
+
 ## Revoke admin access to a user’s OneDrive site
 
 As global admin you have access to the content in a user’s OneDrive site, but you may want to remove your access to a user’s documents. By default, the OneDrive Site Collection Administrator is the owner of the OneDrive account. The following steps describe how to remove a Site Collection Admin from a user’s OneDrive site.
