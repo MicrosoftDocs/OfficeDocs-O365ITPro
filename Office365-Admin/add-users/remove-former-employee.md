@@ -324,6 +324,34 @@ So you don't continue paying for a license after someone leaves your organizatio
   
 When you remove the license, all that user's data is held for 30 days. You can [access](get-access-to-and-back-up-a-former-user-s-data.md) the data, or [restore](restore-user.md) the account if the user comes back. After 30 days, all the user's data (except for documents stored on SharePoint Online) is deleted permanently from Office 365 and can't be recovered. 
   
+### Use the new admin center to remove license from a former employee
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md). 
+
+::: moniker range="o365-worldwide"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a>) page.
+
+::: moniker-end
+
+2. Click the name of the employee that you want to block, and then select the **Licenses and Apps tab**.
+
+4. Clear the check boxes for the license(s) you want to remove.
+
+
+### Use the old admin center to remove a license from a former employee
  
 ::: moniker range="o365-worldwide"
 
@@ -343,11 +371,9 @@ When you remove the license, all that user's data is held for 30 days. You can [
 
 ::: moniker-end
 
-3. Select the employee that you want to block, and then choose **Manage product licenses**.
+3. Select the employee that you want to block, and then next to **Product licenses**, click **Edit**.
 
-4. On the **Manage product licenses** page, choose **Replace existing product license assignments**, and then choose **Next**.
-
-5. On the **Replace existing products** page, select the **Remove all product licenses from the selected users** check box. 
+4. On the **Product licenses** page, toggle off the license(s) you want to remove.
 
 **To reduce the number of licenses you're paying for** until you hire another person, do the following: 
 
@@ -375,7 +401,11 @@ If the user belongs to a queue group, they will no longer be a viable target of 
 After you've saved and accessed all the former employee's user data, you can delete the former employee's account.
   
 Don't delete the account if you've set up email forwarding or converted it to a shared mailbox. Both need the account to anchor the forwarding or shared mailbox.
-    
+
+
+### Use the new admin center to delete a former employee's user account
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).     
 
 ::: moniker range="o365-worldwide"
 
@@ -397,9 +427,29 @@ Don't delete the account if you've set up email forwarding or converted it to a 
 
 2. Click the name of the employee that you want to delete.
 
-3. Do one of the following
-    - In the new admin center, under the user's name, choose the symbol for **Delete user**. Choose the options you want for this user, and then choose **Delete user**.
-    - In the old admin center, click **Delete user** at the top of the page.
+3. Under the user's name, choose the symbol for **Delete user**. Choose the options you want for this user, and then choose **Delete user**.
+
+### Use the old admin center to delete a former employee's user account
+
+::: moniker range="o365-worldwide"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a>) page.
+
+::: moniker-end
+
+2. At the top of the page, choose **Delete user**. 
 
 When you delete a user, the account becomes inactive for approximately 30 days. You have until then to restore the account before it is permanently deleted.
   
