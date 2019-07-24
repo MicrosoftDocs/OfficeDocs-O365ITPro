@@ -66,7 +66,7 @@ Before you begin, see [Determine if Centralized Deployment of add-ins works for 
   
 4. If you selected the option to add an add-in from the Office Store, you can now make your add-in selection. Notice that you can view available add-ins via categories of **Suggested for you**, **Rating**, or **Name**. Only free add-ins are available to add from the Office Store. Paid add-ins aren't supported currently. Once you've selected your add-in, you will need to agree to some additional terms and conditions in order to proceed. <br/><br/> NOTE: With the Office Store option, updates and enhancements to the add-in will automatically be made available to users without your intervention.
 
-5. On the **Configure add-in** page, select **Everyone**, **Specific users/groups** or **Just me** to specify who the add-in is deployed to. Use the Search box to find the users or groups who you want to deploy the add-in to. <br/>NOTE: Learn about the other states that apply to an add-in. See [Add-in states](#add-in-states) later in this topic.
+5. On the next page, select **Everyone**, **Specific users/groups** or **Just me** to specify who the add-in is deployed to. Use the Search box to find the users or groups who you want to deploy the add-in to. <br/>NOTE: Learn about the other states that apply to an add-in. See [Add-in states](#add-in-states) later in this topic.
   
 6. Choose **Deploy**.
   
@@ -79,7 +79,7 @@ Before you begin, see [Determine if Centralized Deployment of add-ins works for 
 
 
 
-If you've deployed the add-in to members of your orgnization other than yourself, follow the instructions displayed in order to effectively announce the deployment of the add-in. <br/>You now see your add-in along with other apps in Office 365.<br/>![Admin center deployed Add In](../media/centralizeddeploymentstep8.png)
+If you've deployed the add-in to members of your orgnization other than yourself, follow the instructions displayed in order to effectively announce the deployment of the add-in. <br/>You now see your add-in along with other apps in Office 365.
   
 It's a good idea to inform the users and groups who you deployed the add-in to so that they know that it's available. Consider sending an email to them that describes when and how to use the add-in and explains how the add-in can help them do their job better. Include or link to relevant Help content or FAQs that might help if users have any problems with the add-in.
   
@@ -144,9 +144,7 @@ To turn off add-in acquisition:
     
 3. Choose **User owned apps and services**.
     
-4. Uncheck the check-boxes next to  **Let users access the Office store**.
-    
-    ![Uncheck Let users access the Office Store on the User owned apps and services panel.](../media/userownedapps2.png)
+4. Clear the option to let users access the Office store.
 
 This will prevent all users from acquiring the following add-ins from the store.
   
