@@ -31,9 +31,11 @@ Admins can control whether to allow guest access to Groups for their whole organ
 - In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074830" target="_blank">Guest users</a> page.
     
    
-### Add existing guests to an Office 365 Group
+### Use the new admin center to add existing guests to an Office 365 Group
 
-If the guest already exists in your directory (see above) you can add them to your groups from the Office Admin Center or the Exchange Admin Center.
+If the guest already exists in your directory (see above), you can add them to your groups from the Office Admin Center or the Exchange Admin Center.
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
   
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
   
@@ -43,6 +45,18 @@ If the guest already exists in your directory (see above) you can add them to yo
     
 5. Choose **Save**.
     
+### Use the old admin center to add existing guests to an Office 365 Group
+
+If the guest already exists in your directory (see above), you can add them to your groups from the Office Admin Center or the Exchange Admin Center.
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
+  
+2. Select the group you want to add the guest to, and choose **Edit** in the **Members** section. 
+
+3. Select the name of the guest you want to add.
+
+4. Choose **Save**.
+
 ### Invite guests
 
 You can't invite guests from the Office Admin Center or the Exchange Admin Center at this time. To invite guests centrally you might consider using the Azure Active Directory B2B collaboration preview. For more information, see [About the Azure AD B2B collaboration preview](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-b2b-what-is-azure-ad-b2b).
@@ -80,7 +94,7 @@ By default, the Sharing option in your organization is turned on. This option al
 
 2. Choose **Office 365 Groups**.
   
-3. On the **Office 365 Groups** page, select or clear the check boxes, depending on whether you want to let people outside your organization access group resources or let group owners add people outside your organization to groups.
+3. On the **Office 365 Groups** page, choose whether you want to let people outside your organization access group resources or let group owners add people outside your organization to groups.
  
   
 ## Use PowerShell to control guest access
