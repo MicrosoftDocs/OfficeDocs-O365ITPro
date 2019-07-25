@@ -103,7 +103,7 @@ To make the data that is collected for all reports anonymous, you have to be a g
   
 1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services &amp; add-ins</a> page.
     
-2. Choose **Reports**, and then choose to **Display anonymous identifiers** box. This setting gets applied both to the usage reports as well as to the content pack.
+2. Choose **Reports**, and then choose to **Display anonymous identifiers**. This setting gets applied both to the usage reports as well as to the content pack.
   
 3. Choose **Save changes**.
     

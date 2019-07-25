@@ -33,7 +33,7 @@ Learn how to customize your theme in the Microsoft 365 admin center. As the admi
 
 3. Change the theme elements you want for your organization:
     
-  - **Logo image**: Choose whether to use an image from a URL or to upload an image. If you use a URL, please ensure that the URL uses HTTPS and is 200 x 30 pixels of any format of any size. You may upload a logo under 10 KB that is 200 x 30 pixels in JPG, PNG, GIF, or SVG format .
+  - **Logo image**: Choose whether to use an image from a URL or to upload an image. If you use a URL, please ensure that the URL uses HTTPS and is 200 x 30 pixels of any format of any size. You may upload a logo under 10 KB that is 200 x 30 pixels in JPG, PNG, GIF, or SVG format.
     
   - **URL for a clickable logo**: You may use your logo in the navigation bar as a link to any company resource. You may enter the URL for the logo here, starting with http:// or https://. This is optional.
     
@@ -54,7 +54,7 @@ Learn how to customize your theme in the Microsoft 365 admin center. As the admi
     
 4. Click or tap **Save**.
     
-You'll see your new theme on the admin center right away and after a short delay, you'll see it throughout Office 365, including Outlook and SharePoint pages. You can remove your custom icon or custom colors at any time. Just return to the theme page and choose **Remove custom theming**
+You'll see your new theme on the admin center right away and after a short delay, you'll see it throughout Office 365, including Outlook and SharePoint pages. You can remove your custom icon or custom colors at any time. Just return to the theme page and choose **Remove custom theming**.
   
 ## Best Practices
 
