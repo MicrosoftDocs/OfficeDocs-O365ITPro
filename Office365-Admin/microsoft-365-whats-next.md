@@ -44,7 +44,13 @@ Here's a list of features that will most-likely be released soon.
 Similar to the Azure Cloud Shell, we're adding a cloud-connected PowerShell app that will automatically sign you in, and pre-load the Exchange Online PowerShell module.
 [Give feedback for cloud shell](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/31727167-support-cloud-shell-powershell-via-browser)
 
-### Service health & message center
+### Report an incident
+If you're in the admin center and you notice that a service isn't working before we do, you can **Report an incident** to Microsoft from **Service health**.
+Give feedback for Service health
+
+### Message center
+Message Center is getting updated to the design. It will be easier to use, including filtering added to some tables. You'll be able to sort **history** and **advisories** by service.
+Give feedback for Message Center
 
 ### Settings redesign
 **Settings** is being reorganized to have the **Services & add-ins**, **Security & privacy**, and **Organization profile** settings on a single list page and these settings will be searchable from the list view. 
