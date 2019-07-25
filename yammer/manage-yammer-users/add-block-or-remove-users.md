@@ -30,10 +30,10 @@ To get to the Yammer admin center to manage users:
 ## Invite users to Yammer
 <a name="InviteUsers"> </a>
 
- Users are not part of the Yammer network until they have clicked the Yammer tile from Office 365 or logged in once to Yammer. Only employees with a company email address can be invited from this screen. 
+If you are enforcing Office 365 identity in your network, all Office 365 users that have a Yammer license are created as pending users in Yammer. If you are not enforcing Office 365 identity, users are not part of the Yammer network until they have clicked the Yammer tile from Office 365 or logged in once to Yammer. 
+
+Only employees with a company email address can be invited from this screen. 
   
-- If you have chosen to enforce Office 365 identity, only users with a Yammer license can join the Yammer network. 
-    
 - If you invite a user to a group who is not licensed to use Yammer, that user will be suspended in Yammer and removed from the group member list. They will not receive announcement emails. 
     
  **Invite users a few at a time**
@@ -58,7 +58,7 @@ To get to the Yammer admin center to manage users:
 <a name="ManagePending"> </a>
 ## Manage pending users
 
-A "pending user" is someone who has been invited to a yammer network but never logged in. Pending users can be added to groups even before they join the Yammer network.
+A "pending user" is someone who has been invited to a yammer network but never logged in. Pending users can be added to groups even before they have used Yammer for the first time.
   
 Pending users receive announcement notification emails from group admins. If users don't want to receive announcements from a particular group they can log into their Yammer account and leave the group or follow the unsubscribe link in the email to unsubscribe from all Yammer emails.
   
