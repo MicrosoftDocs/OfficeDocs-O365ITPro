@@ -49,7 +49,7 @@ See [Office 365 admin roles](../add-users/about-admin-roles.md) for more informa
     
 2. On the **Usage** page, locate the **Microsoft 365 usage analytics** card, and choose **Get started**.
     
-3. On the Reports panel that opens, set **Make data available the Microsoft 365 usage analytics for Power BI** to **On** \> **Save**. 
+3. On the Reports panel that opens, set **Make data available to Microsoft 365 usage analytics for Power BI** to **On** \> **Save**. 
   
 This initiates the data collection process and will complete in 2 to 48 hours depending on the size of your tenant. The **Go to Power BI** button will be enabled (no longer gray) when data collection is complete. 
     
@@ -103,7 +103,7 @@ To make the data that is collected for all reports anonymous, you have to be a g
   
 1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services &amp; add-ins</a> page.
     
-2. Choose **Reports**, and then select the **Display anonymous identifiers instead of names in all reports** box. This setting gets applied both to the usage reports as well as to the content pack.
+2. Choose **Reports**, and then choose to **Display anonymous identifiers** box. This setting gets applied both to the usage reports as well as to the content pack.
   
 3. Choose **Save changes**.
     
