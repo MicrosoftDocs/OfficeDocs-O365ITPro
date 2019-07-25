@@ -115,7 +115,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. Click a group name.
 
-3. In the **Owners** section, click **Edit**.
+3. In the details pane, next to **Owners**, click **Edit**.
 
 4. Search for a member, or click **Add owners**.
     
@@ -145,7 +145,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. Click a group name.
     
-3. In the **Owners** section, click **Edit**.
+3. In the details pane, next to **Owners**, click **Edit**.
     
 5. Click the X next to the owner's name. 
     
