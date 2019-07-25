@@ -73,7 +73,7 @@ You can also filter by additional user profile details used in your organization
 - **Unlicensed users with Exchange mailboxes or archives** Select this box to show user accounts that were created in Exchange Online and have an Exchange mailbox, but weren't assigned an Office 365 license. The results of this filter include users who have or who were assigned an Exchange archive. 
     
 > [!TIP]
-> If you create a custom view that returns more than 2,000 users, the resulting user list isn't sorted. In this case, use the search box to find users or **Edit filter** to refine your search. 
+> If you create a custom view that returns more than 2,000 users, the resulting user list isn't sorted. In this case, use the search box to find users or edit your custom view to refine your search. 
   
 ## Create a custom user view
 
