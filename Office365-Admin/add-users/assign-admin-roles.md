@@ -33,10 +33,8 @@ For more information, see [About admin roles](about-admin-roles.md).
 
 When you add new users, if you don't assign them an admin role then they are in the *user role* and don't have admin privileges to any of the Microsoft admin centers. But if you need help getting things done, you can assign an admin role to a user. For example, if you need someone to help reset passwords, you shouldn't assign them the global admin role, you should assign them the password admin role. Having too many global admins, with unlimited access to your data and online business, is a security risk.
 
-## What do you need to know before you begin?
-You need to be assigned permissions before you can perform the procedures in this topic. To see what permissions you need, see [Roles and administrators](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/roles-delegate-by-task#roles-and-administrators).
-  
 ## Assign admin roles to a user from the classic admin center
+We've got a new roles experience that started rolling out in June. Want to try it out? See [Assign admin roles to a user from the new admin center](#assign-admin-roles-to-a-user-from-the-new-admin-center)
 
 ::: moniker range="o365-worldwide"
 1.  In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
@@ -62,7 +60,7 @@ You need to be assigned permissions before you can perform the procedures in thi
 3. Choose **Customized administrator** to see a list of roles we've customized for you. For a description of each role, see [About Office 365 admin roles.](about-admin-roles.md)
 
 ## Assign admin roles to a user from the new admin center
-This new roles experience is rolling out to organizations starting at the end of June. If you aren't seeing the new **Roles** page, see [Assign admin roles from the classic admin center](assign-admin-roles.md#assign-admin-roles-to-a-user-from-the-classic-admin-center) later in this article.
+This new roles experience is rolling out to organizations starting at the end of June. If you aren't seeing the new **Roles** page, see [Assign admin roles from the classic admin center](assign-admin-roles.md#assign-admin-roles-to-a-user-from-the-classic-admin-center) earlier in this article.
 
 In the new admin center, you can assign users to a role in 2 different ways: 
 - You can go to the user's details and **Manage roles** to assign a role to the user.
