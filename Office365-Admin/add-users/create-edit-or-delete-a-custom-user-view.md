@@ -29,11 +29,18 @@ If you're a global or user management admin of Office 365, you can create custom
   
 ## Custom user views in the admin center
 
+### Use the new admin center to see custom user views
 
-When you create, edit, or delete a custom user view, the changes will be shown in the **Filters** list of views that all admins in your company see when they click the **Users** page. You can create up to 50 custom views. 
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+
+When you create, edit, or delete a custom user view, the changes will be shown in the **Filter** list that all admins in your company see when they click the **Users** page. You can create up to 50 custom views. 
+
+### Use the old admin center to see custom user views
+
+When you create, edit, or delete a custom user view, the changes will be shown in the **Views** list that all admins in your company see when they click the **Users** page. You can create up to 50 custom views. 
   
 > [!TIP]
->  Standard user views are displayed by default in the **Filters** drop-down list. The standard filters include **All users**, **Licensed users** **Sign-in allowed**, **Sign-in blocked**, **Unlicensed users**, **Users with errors**, **Billing admins**, **Global admins**, **Password admins**, **Service admins**, and **User management admins**. You can't edit or delete standard views. 
+>  Standard user views are displayed by default in the **Filters** drop-down list. The standard filters include **All users**, **Licensed users**, **Guest users**,  **Sign-in allowed**, **Sign-in blocked**, **Unlicensed users**, **Users with errors**, **Billing admins**, **Global admins**, **Helpdesk admins**, **Service admins**, and **User management admins**. You can't edit or delete standard views. 
 
 A few things to note about standard views: 
 
@@ -42,9 +49,8 @@ A few things to note about standard views:
   
 ## Choose the filters for your custom user view
 
-You can create and edit your custom views in the **Custom filter** pane. If you select multiple filter options, you get results that contain users who match all the selected criteria. The following example shows you how to create a custom view named "Canadian users" that shows all users on a specific domain who are in Canada. 
-  
-![Custom filter conditions](../media/users-custom-filter.png)
+You can create and edit your custom views in the **Custom view** pane. (In the new admin center, this is called the **Custom filter** pane.) If you select multiple filter options, you get results that contain users who match all the selected criteria. The following example shows you how to create a custom view named "Canadian users" that shows all users on a specific domain who are in Canada. 
+
   
  **A - Domain** If you have multiple domains for your organization, you can choose from a drop-down list of domains that are available. 
   
@@ -71,14 +77,29 @@ You can also filter by additional user profile details used in your organization
   
 ## Create a custom user view
 
+### Use the new admin center to create a custom user view
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
 2. On the **Active users** page, click **Filters** and select **New filter**.
-    
   
 3. On the **Custom filter** page, enter the name for your filter, choose the conditions for your custom filter, and then click **Add**. Your custom view is now included in the drop-down list of filters.
     
+### Use the old admin center to create a custom user view
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+    
+2. On the **Active users** page, click **Views** and select **Add custom view**.
+  
+3. On the **Custom view** page, enter the name for your filter, choose the conditions for your custom filter, and then click **Add**. Your custom view is now included in the drop-down list of filters.
+
 ## Edit or delete a custom user view
+
+### Use the new admin center to edit or delete a custom user view
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
@@ -88,8 +109,17 @@ You can also filter by additional user profile details used in your organization
     > [!TIP]
     > You can edit only custom views. 
   
+3. On the **Custom filter** page, edit the information as needed, and then click **Save**. Or, to delete the filter, at the bottom of the page choose **Delete**. 
+    
+### Use the old admin center to edit or delete a custom user view
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+    
+2. On the **Active users** page, click **Views** > choose the filter you want to change, and then choose **Edit this view**. 
+    
+    > [!TIP]
+    > You can edit only custom views. 
   
-4. On the **Custom filter** page, edit the information as needed, and then click **Save**. Or, to delete the filter, at the bottom of the page choose **Delete**. 
-    
-    
+3. On the **Custom view** page, edit the information as needed, and then click **Save**. Or, to delete the filter, at the bottom of the page choose **Delete custom view**. 
+     
 
