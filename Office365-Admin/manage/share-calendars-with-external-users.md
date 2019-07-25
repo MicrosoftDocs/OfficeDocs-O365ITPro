@@ -46,21 +46,14 @@ Calendar sharing is a global setting, meaning that you, the admin, can enable it
 1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services & add-ins</a> page. 
     
   
-4. On the **Services &amp; add-ins** page, click **Calendar**.
+2. On the **Services &amp; add-ins** page, click **Calendar**.
   
-5. On the **Calendar** page that opens, do one of the following: 
+3. On the **Calendar** page that opens, choose whether you want to let your users share their calendars with people outside of your organization who have Office 365 or Exchange.
     
-  - For **Let your users share their calendars with external users who have Office 365 or Exchange**, move the slider to **On** to enable calendar sharing. 
-    
-  - For **Let your users share their calendars with external users who have Office 365 or Exchange**, move the slider to **Off** to disable calendar sharing. 
-    
-6. If you want to allow anonymous users (users without logon credentials) to access calendars via an email invitation, select the **Allow anonymous users to access calendars with an email invitation** check box. Then choose what type of calendar information to make available to users. You can allow all information, or limit it. These choices specify the amount of information that your users can show on a case-by-case basis. Select one of the following:
-    
-  - **Calendar free/busy information with time only**
-    
-  - **Calendar free/busy information with time, subject and location**
-    
-  - **All calendar appointment information**
+4. Choose whether you want to allow anonymous users (users without logon credentials) to access calendars via an email invitation.
+
+5. Choose what type of calendar information to make available to users. You can allow all information, or limit it to time only or time, subject, and location only.
+
     
 ## Invite people to access calendars
 

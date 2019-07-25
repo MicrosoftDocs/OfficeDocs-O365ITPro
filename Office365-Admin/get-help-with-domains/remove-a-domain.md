@@ -35,6 +35,9 @@ Are you removing your domain because you want to add it to a different Office 36
   
 ### Step 1: Move users to another domain
 
+#### Use the new admin center to move users
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 ::: moniker range="o365-worldwide"
 
@@ -56,27 +59,71 @@ Are you removing your domain because you want to add it to a different Office 36
  
 2. Choose **Users** > **Active users**.
 
-3. Select the boxes next to the names of the users who you want to move.
+3. Select the boxes next to the names of all the users you want to move.
     
-4. Click the More menu (...) at the top of the page, and then choose **Edit domains**. 
+4. Choose **More options (...)** at the top of the page, and then choose **Edit domains**. 
     
 5. In the **Edit domains** pane, choose a different domain. 
-       
-You'll need to do this for yourself, too, if you're on the domain that you want to remove. When you edit the domain for your account, you'll have to log out and log back in using the new domain you chose to continue. For example, if you're logged in as  *dave@contoso.onmicrosoft.com*: 
+     
+#### Use the old admin center to move users
+
+::: moniker range="o365-worldwide"
+
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>. 
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a>.  
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>. 
+
+::: moniker-end
+ 
+2. Choose **Users** > **Active users**.
+
+3. Select the boxes next to the names of all the users you want to move.
     
-1. Go to **Users** \> **Active Users**, select your account from the list, and then click your name in the list. 
+4. At the top of the page, choose **More** > **Edit domains**.
     
-2. Click **Manage username**, and then choose a different domain:  *contoso.com* 
+5. In the **Edit domains** pane, choose a different domain. 
+  
+You'll need to do this for yourself, too, if you're on the domain that you want to remove. When you edit the domain for your account, you'll have to log out and log back in using the new domain you chose to continue. 
     
+#### Use the new admin center to move yourself to another domain
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+
+1. Go to **Users** \> **Active Users**, and select your account from the list. 
+    
+2. On the **Account** tab, click **Manage username**, and then choose a different domain.    
   
 3. At the top, choose your account name, then choose **Sign Out**.
     
-4. Sign in with the new domain and your same password:  *dave@contoso.com* 
+4. Sign in with the new domain and your same password.
+    
+You can also use PowerShell to move users to another domain. See [Set-MsolUserPrincipalName](https://docs.microsoft.com/en-us/powershell/module/msonline/set-msoluserprincipalname?view=azureadps-1.0) for more information. To set the default domain, use [Set-MsolDomain](https://docs.microsoft.com/en-us/powershell/module/msonline/set-msoldomain?view=azureadps-1.0).
+
+#### Use the old admin center to move yourself to another domain
+
+1. Go to **Users** \> **Active Users**, and click your name in the list. 
+    
+2. In the **Username / Email** section, click **Edit**, and then choose a different domain.    
+ 
+3. Choose **Set as primary**, choose **Save**, and then **Close**.
+  
+4. At the top, choose your account name, then choose **Sign Out**.
+    
+5. Sign in with the new domain and your same password.
     
 You can also use PowerShell to move users to another domain. See [Set-MsolUserPrincipalName](https://docs.microsoft.com/en-us/powershell/module/msonline/set-msoluserprincipalname?view=azureadps-1.0) for more information. To set the default domain, use [Set-MsolDomain](https://docs.microsoft.com/en-us/powershell/module/msonline/set-msoldomain?view=azureadps-1.0).
   
 ### Step 2: Move groups to another domain
-
 
 ::: moniker range="o365-worldwide"
 
