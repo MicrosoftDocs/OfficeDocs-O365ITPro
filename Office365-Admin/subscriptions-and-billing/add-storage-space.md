@@ -52,9 +52,9 @@ For information about setting site collection storage limits, see [Manage site c
 If you haven't yet purchased extra storage for your subscription, you can do that.
 
 ::: moniker range="o365-worldwide"
-### Use the admin center (preview) to add storage space
+### Use the new admin center to add storage space
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=868433" target="_blank">Purchase services</a> page.
 
@@ -106,9 +106,9 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 If you have already purchased extra file storage via the **Office 365 Extra File Storage** add-on, you can use these steps to increase or decrease the extra storage space for your subscription. You can reduce the storage to as low as 1 gigabyte. To remove all of the extra storage space, you need to [contact support](../contact-support-for-business-products.md).
 
 ::: moniker range="o365-worldwide"
-### Use the admin center (preview) to increase or decrease storage space
+### Use the new admin center to increase or decrease storage space
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
