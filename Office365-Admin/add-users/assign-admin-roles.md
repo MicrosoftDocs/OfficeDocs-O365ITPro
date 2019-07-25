@@ -1,8 +1,8 @@
 ---
-title: "Assign admin roles in Office 365 for business"
+title: "Assign admin roles the Microsoft 365 admin center"
 ms.author: anfowler
 author: adefowler
-manager: mnirkhe
+manager: shohara
 audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -34,7 +34,7 @@ For more information, see [About admin roles](about-admin-roles.md).
 When you add new users, if you don't assign them an admin role then they are in the *user role* and don't have admin privileges to any of the Microsoft admin centers. But if you need help getting things done, you can assign an admin role to a user. For example, if you need someone to help reset passwords, you shouldn't assign them the global admin role, you should assign them the password admin role. Having too many global admins, with unlimited access to your data and online business, is a security risk.
 
 ## Assign admin roles to a user from the classic admin center
-We've got a new roles experience that started rolling out in June. Want to try it out? See [Assign admin roles to a user from the new admin center](#assign-admin-roles-to-a-user-from-the-new-admin-center)
+We've got a new roles experience that started rolling out in June. Want to try it out? See [Assign admin roles to a user from the new admin center](#assign-admin-roles-to-a-user-from-the-new-admin-center).
 
 ::: moniker range="o365-worldwide"
 1.  In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
@@ -57,7 +57,7 @@ We've got a new roles experience that started rolling out in June. Want to try i
     
     If you don't see the **Edit** option, then you don't have a permission to edit and can't assign admin roles to other people. Ask a global admin in your business to assign roles for you. In a small business, the business owner (the person who purchased your subscription) is a global admin. In a large business, key people in the IT department are global admins.
 
-3. Choose **Customized administrator** to see a list of roles we've customized for you. For a description of each role, see [About Office 365 admin roles.](about-admin-roles.md)
+3. Choose **Customized administrator** to see a list of roles we've customized for you. For a description of each role, see [About admin roles.](about-admin-roles.md)
 
 ## Assign admin roles to a user from the new admin center
 This new roles experience is rolling out to organizations starting at the end of June. If you aren't seeing the new **Roles** page, see [Assign admin roles from the classic admin center](assign-admin-roles.md#assign-admin-roles-to-a-user-from-the-classic-admin-center) earlier in this article.
@@ -100,7 +100,7 @@ In the new admin center, you can assign users to a role in 2 different ways:
   
 ## More info about admin role settings
 
-1. In the **Alternative email address** box, type an email address that is not connected to Office 365. This email address is used for important notifications, including resetting the password for your Office 365 admin account, so the person must be able to access this email account whether they can access Office 365 or not. 
+1. In the **Alternative email address** box, type an email address that is not connected to an Office 365 or Microsoft 365 subscription. This email address is used for important notifications, including resetting the password for your admin account, so the person must be able to access this email account if they get locked out of thier Microsoft account. 
     
     > [!NOTE]
     > If you don't want to receive product-related communications at this alternate email address, change your contact preferences on the **About me** page. For more information, see [Change your contact preferences](../manage/change-contact-preferences.md). 

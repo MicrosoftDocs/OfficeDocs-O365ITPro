@@ -2,7 +2,7 @@
 title: "About admin roles in the Microsoft 365 admin center"
 ms.author: anfowler
 author: adefowler
-manager: mnirkhe
+manager: shohara
 audience: Admin
 ms.topic: overview
 f1_keywords:
@@ -62,7 +62,6 @@ A user who is assigned an admin role will have the same level of access to cloud
 
 The Microsoft 365 admin center lets you manage over 30 Azure AD roles. However, these roles are a subset of the roles available in the Azure portal.
 
-### Most used roles
 You'll probably only need to assign the following roles in your organization.
 
 
@@ -77,7 +76,7 @@ You'll probably only need to assign the following roles in your organization.
 |User admin     |    Assign the User admin role to users who need to do the following for all users: <br> - Add users and groups <br> - Assign licenses <br> - Manage most users properties <br> - Create and manage user views <br> - Update password expiration policies <br> - Manage service requests <br> - Monitor service health <br><br>  The user admin can also do the following actions for users who aren't admins and for users assigned the following roles: Directory reader, Guest inviter, Helpdesk admin, Message center reader, Reports reader: <br> - Manage usernames<br> - Delete and restore users<br> - Reset passwords <br> - Force users to sign out <br> - Update (FIDO) device keys   |
 
 ### All roles
- Here's a list of all the roles that are availble in the Microsoft 365 admin center. If you have a large business, there might be roles in the Azure portal that meet your organizational needs. 
+ Here's a list of all the roles available in the Microsoft 365 admin center. If you have a large business, there might be roles in the Azure portal that meet your organizational needs.
 
 |Role     |Description  |
 |---------|---------|
