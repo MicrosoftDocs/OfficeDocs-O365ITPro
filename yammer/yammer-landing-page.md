@@ -438,8 +438,6 @@ Build communities and collaboration in your organization with Yammer.
                     <h3>Troubleshooting</h3>
                     <p><a href="/en-us/Yammer/troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices" data-linktype="absolute-path">Help Android users log in</a></p> 
                     <p><a href="/en-us/Yammer/troubleshoot-problems/limited-functionality-in-explorer-10-document-mode" data-linktype="absolute-path">Internet Explorer 10 document mode</a></p> 
-                    <p><a href="/en-us/Yammer/troubleshoot-problems/phasing-out-temporary-mobile-passwords" data-linktype="absolute-path">Phasing out temporary mobile passwords</a></p> 
-                    <p><a href="/en-us/Yammer/troubleshoot-problems/converting-yammer-notes-into-word-online" data-linktype="absolute-path">Convert notes to Word</a></p> 
                     <p><a href="https://support.office.com/article/981ecaf7-8a7d-4312-a845-bd343e925073">Can I unsubscribe myself from Yammer?</a></p>
                 </div>
             </div>

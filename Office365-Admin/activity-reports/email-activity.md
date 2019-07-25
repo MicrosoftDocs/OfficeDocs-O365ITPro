@@ -57,4 +57,4 @@ You can get a view into your user's email activity by looking at the **Activity*
 |8.  <br/> |You can also export the report data into an Excel .csv file, by clicking or tapping the **Export** ![Export button](../media/816a224b-6ca7-4967-a135-4f6427f64dc8.JPG) link. This exports data of all users and enables you to do simple sorting and filtering for further analysis. If you have less than 2000 users, you can sort and filter within the table in the report itself. If you have more than 2000 users, in order to filter and sort, you will need to export the data.  <br/> |
 |||
    
-
+Note: The Email activity report is only available for mailboxes that are associated with users who have licenses.
