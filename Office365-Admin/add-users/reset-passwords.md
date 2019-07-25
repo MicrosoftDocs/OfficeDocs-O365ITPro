@@ -100,9 +100,9 @@ These steps work for a business with tens of users. If you have hundreds or thou
   
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. Choose the box at top to select everyone in your business. Then unselect yourself. You can't reset your own password at the same time you reset everyone else's password.
+2. Select the option next to **Display name** to select everyone in your business. Then unselect yourself. You can't reset your own password at the same time you reset everyone else's password.
     
-3. Choose **Reset passwords**. 
+3. Choose **Reset password**. 
 
 4. Follow the instructions on the **Reset password** page, and choose **Reset**.  If you opted for auto-generating the passwords, the new temporary passwords will be displayed.   
     
