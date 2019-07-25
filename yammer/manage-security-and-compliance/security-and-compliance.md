@@ -94,6 +94,8 @@ For complete Office 365 URL and IP address ranges info, see [Office 365 endpoint
 ### Q: Where is the data hosted?
 
 A: Yammer data is hosted in Microsoft managed datacenters. See [Where is your data located](https://go.microsoft.com/fwlink/?LinkId=869423) to find the data centers for the country in which your company is located. Yammer is operated out of Microsoft's global network of data centers with 24/7/365 video surveillance, biometric and pin-based locks, strict personnel access controls and detailed visitor entry logs. 
+
+For more information, see [Yammer data residency](data-residency.md).
   
 ### Q: What is Yammer's privacy policy? How do you treat my data?
 
@@ -183,7 +185,7 @@ A: For Yammer Enterprise, if you enforce Office 365 identity in Yammer. For more
   
 ### Q: How do I manage Yammer on mobile devices?
 
-A: Yammer is available for all major mobile platforms, including Windows Phone, iPhone, iPad, and Android. Users can install the Yammer application from their respective app store. 
+A: Yammer is available for major mobile platforms, including the iPhone, iPad, and Android. Users can install the Yammer application from their respective app store. 
   
 Yammer Enterprise offers session management capabilities so that a user or administrator can end any Yammer session on any device if required.
   
