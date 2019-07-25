@@ -85,7 +85,7 @@ If you're moving from *credit card or bank account to invoice*, any outstanding 
 When you change from paying by invoice to paying by credit card or bank account, we automatically create a new subscription for you, move your users to the new subscription, and then disable your old subscription. Don't worry, your users won't see a disruption in service and all of their information will be available through the new subscription.
 
 > [!IMPORTANT]
-> You cannot use the admin center (preview) to change from invoice to credit card or bank account.
+> You cannot use the new admin center to change from invoice to credit card or bank account.
 
 1. In the admin center, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
 
@@ -146,7 +146,7 @@ When you return to the **Subscriptions** page, you will see the old subscription
 > The option to pay by invoice is only available if your subscription costs over a certain amount (which varies by service location). A credit check might be required for larger invoice payments. To learn more, see [Pay for your Office 365 for business subscription](pay-for-your-subscription.md).
 
 > [!IMPORTANT]
-> You cannot use the admin center (preview) to change from credit card or bank account to invoice.
+> You cannot use the new admin center to change from credit card or bank account to invoice.
 
 1. In the admin center, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
 
@@ -190,9 +190,9 @@ When you return to the **Subscriptions** page, you will see the old subscription
 
 You can use the following steps at any time to verify the payment method that's configured for a subscription.
 
-### Use the admin center (preview) to verify which payment method is configured
+### Use the new admin center to verify which payment method is configured
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
@@ -221,9 +221,9 @@ You can use the following steps at any time to verify the payment method that's 
 ## Change your payment frequency
 
 > [!IMPORTANT]
-> You cannot use the old admin center to change your payment frequency. If you want to change how frequently you pay for your subscription, either from annual to monthly or monthly to annual, you'll need to select the **Try the preview** toggle located at the top of the Home page, or [call Office 365 support](../contact-support-for-business-products.md) for help.
+> You cannot use the old admin center to change your payment frequency. If you want to change how frequently you pay for your subscription, either from annual to monthly or monthly to annual, you'll need to select the **Try the new admin center** toggle located at the top of the Home page, or [call Office 365 support](../contact-support-for-business-products.md) for help.
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
