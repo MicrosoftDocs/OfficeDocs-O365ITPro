@@ -52,7 +52,7 @@ If you don’t have access to the Microsoft 365 admin center, or if you’re loo
   
 ## What about the Azure Active Directory roles?
 
-The Microsoft 365 admin center lets you manage over 30 Azure AD roles. However, these roles are a subset of the roles available in the Azure portal. If you have a large business, there might be roles in the Azure portal that meet your organizational needs. 
+The Azure portal has more roles than available in the Microsoft 365 admin center. If you have a large business, there might be roles in the Azure portal that meet your organizational needs. 
 
 For a list and description of all the Azure Active Directory roles, see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
 
@@ -76,7 +76,7 @@ You'll probably only need to assign the following roles in your organization.
 |User admin     |    Assign the User admin role to users who need to do the following for all users: <br> - Add users and groups <br> - Assign licenses <br> - Manage most users properties <br> - Create and manage user views <br> - Update password expiration policies <br> - Manage service requests <br> - Monitor service health <br><br>  The user admin can also do the following actions for users who aren't admins and for users assigned the following roles: Directory reader, Guest inviter, Helpdesk admin, Message center reader, Reports reader: <br> - Manage usernames<br> - Delete and restore users<br> - Reset passwords <br> - Force users to sign out <br> - Update (FIDO) device keys   |
 
 ### All roles
- Here's a list of all the roles available in the Microsoft 365 admin center. If you have a large business, there might be roles in the Azure portal that meet your organizational needs.
+ Here's a list of all the roles available in the Microsoft 365 admin center. 
 
 |Role     |Description  |
 |---------|---------|
@@ -115,7 +115,6 @@ You'll probably only need to assign the following roles in your organization.
 |Teams communication support engineer     |    Reads call record details for all call participants to troubleshoot communication issues.     |
 |Teams communication support specialist     |    Reads user call details only for a specific user to troubleshoot communication issues.|
 |User admin     |   Resets user passwords, creates and manages users and groups, including filters, manages service requests, and monitors service health.|
-
 
 ## Delegated administration for Microsoft Partners
 
