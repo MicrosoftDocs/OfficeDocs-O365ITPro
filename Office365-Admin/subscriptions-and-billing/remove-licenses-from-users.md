@@ -28,7 +28,7 @@ description: "Learn how to remove licenses from user accounts."
 # Unassign licenses from users
 
 ::: moniker range="o365-worldwide"
-You  can remove, or unassign, licenses from users on either the **Active users** page, or on the **Licenses** page. Which method you use depends on whether you want to unassign product licenses from specific users, or to unassign users licenses from specific products.
+You  can remove, or unassign, licenses from users on either the **Active users** page, or on the **Licenses** page. Which method you use depends on whether you want to unassign product licenses from specific users, or unassign users licenses from specific products.
 
 ## Unassign licenses from users on the Licenses page
 
@@ -38,7 +38,7 @@ When you use the **Licenses** page to unassign licenses, you unassign licenses f
 2. Select the product for which you want to unassign licenses.
 3. Select the users for which you want to unassign licenses.
 4. Select **Unassign licenses**.
-5. In the** Unassign licenses** box, select **Unassign**.
+5. In the **Unassign licenses** box, select **Unassign**.
 
 ::: moniker-end
 
@@ -48,7 +48,7 @@ When you use the **Licenses** page to unassign licenses, you unassign licenses f
   
 ### Use the new admin center to remove licenses from one user
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
@@ -84,7 +84,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ### Use the new admin center to unassign licenses for multiple users
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
@@ -94,7 +94,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 4. In the **Manage product licenses** pane, select **Replace existing product license assignments** \> **Next**.
 
-5. At the bottom of the **Replace existing products** pane, select the **Remove all product licenses from the selected users.** check box, then select **Replace** \> **Close**.
+5. At the bottom of the **Replace existing products** pane, select the **Remove all product licenses from the selected users** check box, then select **Replace** \> **Close**.
 
 ::: moniker-end
 
@@ -114,7 +114,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 4. In the **Replace existing products** pane, select **Replace existing product license assignments** \> **Next**.
 
-5. At the bottom of the **Replace existing products** pane, select the **Remove all product licenses from the selected users.** check box, then select **Replace** \> **Close** \> **Close**.
+5. At the bottom of the **Replace existing products** pane, select the **Remove all product licenses from the selected users** check box, then select **Replace** \> **Close** \> **Close**.
 
 ## What you need to know about unassigning licenses for users
 
