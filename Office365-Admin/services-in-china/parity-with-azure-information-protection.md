@@ -58,7 +58,7 @@ For the encryption to work correctly, the RMS must be enabled for the tenant.
 
 For encryption to work correctly, Office client applications must connect to the China instance of the service and bootstrap from there. To redirect client applications to the right service instance, the tenant admin must configure a DNS SRV record with information about the Azure RMS URL. Without the DNS SRV record, the client application will attempt to connect to the public cloud instance by default and will fail.
 
-Also, the assumption is that users will log in with a username based off the tenant-owned-domain (for example, `joe@contoso.cn`), and not the `onmschina` username (for example, `joe@contoso.onmschina.cn`). The domain name from the username is used for DNS redirection to the correct service instance.
+Also, the assumption is that users will log in with a username based off the tenant-owned domain (for example, `joe@contoso.cn`), and not the `onmschina` username (for example, `joe@contoso.onmschina.cn`). The domain name from the username is used for DNS redirection to the correct service instance.
 
 - Get the RMS ID:
   1. Launch PowerShell as an administrator.
@@ -66,8 +66,7 @@ Also, the assumption is that users will log in with a username based off the ten
   3. Connect to the service using `Connect-AipService -environmentname azurechinacloud`.
   4. Run `(Get-AipServiceConfiguration).RightsManagementServiceId` to get the RMS ID.
 
-- Log in to your DNS provider and then navigate to the DNS settings for the domain to add a new SRV record.
-  
+- Log in to your DNS provider, navigate to the DNS settings for the domain, and then add a new SRV record.
   - Service = `_rmsredir`
   - Protocol = `_http`
   - Name = `_tcp`
@@ -80,8 +79,7 @@ Also, the assumption is that users will log in with a username based off the ten
 
 ### DNS configuration for encryption (Mac, iOS, Android)
 
-- Log in to your DNS provider and then navigate to the DNS settings for the domain to add a new SRV record.
-
+- Log in to your DNS provider, navigate to the DNS settings for the domain, and then add a new SRV record.
   - Service = `_rmsdisco`
   - Protocol = `_http`
   - Name = `_tcp`
