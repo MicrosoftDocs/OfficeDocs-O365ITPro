@@ -55,7 +55,7 @@ If there's a conflict, a message displays, tells you what the problem is, and ho
 To change the apps and services a user has access to:
 
 1. Select the row that contains the user.
-2. In the right pane, select or deselect the apps and services you want to give to or remove access from.
+2. In the right pane, select or deselect the apps and services that you want to give access to or remove access from.
 3. When you're finished, select **Save**, then select **Close**.
 
 ::: moniker-end
