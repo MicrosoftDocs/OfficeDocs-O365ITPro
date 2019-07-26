@@ -67,6 +67,7 @@ Also, the assumption is that users will log in with a username based off the ten
   4. Run `(Get-AipServiceConfiguration).RightsManagementServiceId` to get the RMS ID.
 
 - Log in to your DNS provider and then navigate to the DNS settings for the domain to add a new SRV record.
+  
   - Service = `_rmsredir`
   - Protocol = `_http`
   - Name = `_tcp`
@@ -80,9 +81,10 @@ Also, the assumption is that users will log in with a username based off the ten
 ### DNS configuration for encryption (Mac, iOS, Android)
 
 - Log in to your DNS provider and then navigate to the DNS settings for the domain to add a new SRV record.
-  - Service = \_rmsdisco
-  - Protocol = \_http
-  - Name = \_tcp
-  - Target = api.aadrm.cn
-  - Port = 80
+
+  - Service = `_rmsdisco`
+  - Protocol = `_http`
+  - Name = `_tcp`
+  - Target = `api.aadrm.cn`
+  - Port = `80`
   - Priority, Weight, Seconds, TTL = default values
