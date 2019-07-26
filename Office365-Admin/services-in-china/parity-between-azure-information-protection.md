@@ -19,7 +19,7 @@ description: "Learn more about Azure Information Protection for Office 365 opera
 monikerRange: 'o365-21vianet'
 ---
 
-# Parity with Azure Information Protection for Office 365 operated by 21Vianet commercial offerings
+# Parity between Azure Information Protection for Office 365 operated by 21Vianet and commercial offerings
 
 While our goal is to deliver all commercial features and functionality to customers in China with our Azure Information Protection for Office 365 operated by 21Vianet offer, there is some missing functionality that we'd like to highlight.
 
