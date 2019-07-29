@@ -123,35 +123,30 @@ Follow the steps below to get the code at Office 365, and then go to the other d
 ## How do I change how my DNS records are managed in Office 365?
 
 ### Change DNS management to a DNS host outside Office 365
-
-1. Change your nameservers:
+   
+1. Sign in to the domain registrar for your domain.
     
-2. Sign in to the domain registrar for your domain.
+2. Find the area on the registrar's website where you update nameserver records, and update the nameservers to point to your domain's DNS host. (The DNS host is often the domain registrar.)
     
-3. Find the area on the registrar's website where you update nameserver records, and update the nameservers to point to your domain's DNS host. (The DNS host is often the domain registrar.)
+3. Follow a link to go to the domains setup wizard:
     
-4. Follow a link to go to the domains setup wizard:
-    
-5. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+4. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
     
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=2007048" target="_blank">Domains</a> page.
     
-6. On the **Domains** page, choose the domain you're switching, and choose **DNS Management**.
+5. On the **Domains** page, choose the domain you're switching, and choose **DNS management**.
     
-7. Choose the option to manage your domain's DNS records:
+6. In the domains setup wizard, on the **Set up your online services** page, choose **I'll manage my own DNS records**, and then choose **Next**.
     
-8. In the domains setup wizard, on the **Set up your online services** page, choose **I'll manage my own DNS records**, and then choose **Next**.
+7. Add the DNS records suggested by the wizard on the **Update DNS settings** page to your registrar's website. 
     
-9. Add the DNS records suggested by the wizard on the **Update DNS settings** page to your registrars website. 
+8. After you've added the records, come back to Office 365 and choose **Verify**.
     
-10. After you've added the records, come back to Office 365 and choose **Verify**.
-    
-### Change DNS management to Office 365
 
-1. Follow a link to go to the domains setup wizard:
-    
+### Change DNS management to Office 365
+  
 1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
@@ -160,13 +155,11 @@ Follow the steps below to get the code at Office 365, and then go to the other d
     
 2. On the **Domains** page, choose the domain you're switching, and choose **DNS Management**.
     
-2. Choose the option to manage your domain's DNS records:
+3. In the domains setup wizard, on the **Set up your online services** page, choose **Set up my online services for me. (Recommended)**, and then choose **Next**.
     
-1. In the domains setup wizard, on the **Set up your online services** page, choose **Set up my online services for me. (Recommended)**, and then choose **Next**.
+4. If you haven't verified the domain yet, follow the steps to do that first.
     
-2. If you haven't verified the domain yet, follow the steps to do that first.
-    
-3. On the **Update DNS settings** page, we list the nameservers for Office 365. Go to the domain registrar for your domain, and update the nameservers to the Office 365 nameservers. 
+5. On the **Update DNS settings** page, we list the nameservers for Office 365. Go to the domain registrar for your domain, and update the nameservers to the Office 365 nameservers. 
     
 4. After you've updated the nameservers, **wait at least an hour**. Then, back in the wizard in Office 365, choose **Verify**.
     
