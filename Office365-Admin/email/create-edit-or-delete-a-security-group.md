@@ -91,7 +91,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
 2. On the **Groups** page, select a group by clicking on its name. 
     
-3. In the security group pane, choose **Edit** next to either **Name** tab or the **Members** tab to edit either group details or members.
+3. In the security group pane, choose **Edit** next to either the **Name** tab or the **Members** tab to edit either group details or members.
     
 4. After you've made changes choose **Save** \> **Close**.
 

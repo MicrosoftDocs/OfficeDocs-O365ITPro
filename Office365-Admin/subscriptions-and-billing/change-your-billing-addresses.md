@@ -64,9 +64,9 @@ If you're using Office 365 operated by 21Vianet in China, see [View your bill or
 
 ::: moniker range="o365-worldwide"
 
-### Use the admin center (preview) to change your Bill-To address
+### Use the new admin center to change your Bill-To address
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.
 
@@ -137,9 +137,9 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
 ::: moniker range="o365-worldwide"
 
-### Use the admin center (preview) to change your service usage address
+### Use the new admin center to change your service usage address
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
