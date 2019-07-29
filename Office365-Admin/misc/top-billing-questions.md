@@ -118,7 +118,7 @@ Yes. To get your billing statement as an email attachment, use the following ste
   
 1. In the Microsoft 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=853212" target="_blank">Billing notifications</a> page, or choose **Billing** \> **Billing notifications**.
     
-2. Under **Do you want to receive the billing statement as an email attachment?**, switch the toggle to **On**.
+2. Under **Receive billing statement as email attachment?**, switch the toggle to **On**.
     
     You can stop receiving the billing statement emails at any time by switching the toggle to **Off**.
     
@@ -143,7 +143,7 @@ There are two ways to cancel paid or trial subscriptions: You can cancel online,
   
 ## How do I see my current order balance?
 
-The total that is displayed on the **Bills** page is the invoice balance - the total as of the invoice date. In the screenshot below, the invoice balance is $68.44. To see your current order balance, choose **View details** on your most recent order. 
+The total that is displayed n the <a href="https://go.microsoft.com/fwlink/p/?linkid=848039" target="_blank">Bills</a> page is the invoice balance - the total as of the invoice date. To see your current order balance, view your most recent order or invoice. 
   
 ::: moniker range="o365-worldwide"
 
@@ -163,7 +163,6 @@ See [View your bill or get Fapiaos in Office 365 operated by 21Vianet](../servic
 
 ::: moniker-end
 
-![The Bills page showing the current account balance for an order.](../media/3ccf8a2e-dacf-4ce3-9d97-1ad8db1d9159.png)
   
 ::: moniker range="o365-worldwide"
 ## What taxes will I be charged?
@@ -195,11 +194,9 @@ You can [Apply for tax exempt status for Office 365 for business](../subscriptio
 
 ## How do I view and print my bill?
 
-1. On the **Bills** page, choose a month and a year, and then choose **Show**.
-    
-    ![Screen shot of the Invoice section of the Bill Details page in the admin center.](../media/ef920095-f581-4d1a-bf92-a007c8fe7121.png)
+1. On the <a href="https://go.microsoft.com/fwlink/p/?linkid=848039" target="_blank">Bills</a> page, choose an invoice date range.
   
-2. To print or save a PDF copy of the bill, choose **View invoice (.pdf)**, and then print the PDF.
+2. To print or save a PDF copy of the bill, choose **Download invoice PDF**, and then print the PDF.
     
 ::: moniker range="o365-worldwide"
 
