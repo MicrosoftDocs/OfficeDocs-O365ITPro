@@ -42,7 +42,7 @@ You can also use the [Office 365 Admin app](https://go.microsoft.com/fwlink/p/?l
 |Can I find out the exact date a change will be available to my organization?  <br/> |Unfortunately, we can't tell you the exact date a change will be made to your organization. In our Message center post, we will give as much information as we can on the timing of the release, based on our confidence level. We understand you want us to be more specific on timing of releases, and we're working on improvements to get better with that level of detail.  <br/> |
 |Are these messages specific to my organization?  <br/> |We do our best to make sure that you only see Message center posts that affect your organization. The Microsoft 365 Roadmap includes all of the features we are currently working on and rolling out, but not all of these features apply to every Office 365 organization. For example, if a feature is rolling out only to educational institutions, we will target the Message center post ONLY to those organizations.  <br/> |
 |Can I get message center posts emailed instead?  <br/> |Yes! You can select to have a weekly digest emailed to you and up to two email addresses. If you need to have the digest go to more than two more people, you can send to an Office 365 group or distribution list. The emailed weekly digest is turned on by default. If you aren't getting your weekly digests, check your spam folder. See the **Set preferences** section of this article for more information on how to set up the weekly digest.  <br/> |
-|How do I stop getting the Message center digest?  <br/> |Go to Message center in the admin center and select **Edit Message center preferences**. Set the toggle next to **Send a weekly email digest of my messages** to **Off**. If you also no longer want to receive email about major updates, set the toggle next to **Send me emails for major updates** to **Off**.  <br/> |
+|How do I stop getting the Message center digest?  <br/> |Go to Message center in the admin center and select **Edit preferences** in the [new admin center](../microsoft-365-admin-center-preview.md) or **Edit Message center preferences** in the old admin center. Turn off the option to **Send a weekly email digest of my messages**. If you also no longer want to receive email about major updates, turn off **Send me emails for major updates**.  <br/> |
 |How can I ensure Data Privacy notifications are received by the right contacts in my organization? <br/> |As a global admin you will receive data privacy messages for your organization. Additionally, you can assign the Message Center Privacy reader role to people who should see data privacy messages. Other admin roles with access to Message Center cannot view data privacy messages.   <br/><br/>You can use Message center preferences to control whether you receive email notifications specifically for data privacy messages and to control the visibility of these messages in the Message Center. Note that data privacy messages are not included in the weekly digest.<br/> |
 
    
@@ -104,7 +104,20 @@ If administration is distributed across your organization, you may not want or n
 - Filter messages
 - Opt-in to receive a weekly digest of messages in email, to make sure you never miss an important post. 
 
-To set your Message center preferences:
+#### Set your Message center preferences using the new admin center
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+
+1. Select **Edit preferences** at the top of Message center. 
+    
+2. Make sure that the check box is selected for each service that you want to monitor. Clear the check boxes for the services you want to filter out of your Message center view. 
+    
+3. Digest emails are turned on by default and are sent to your primary email address. To specify other email addresses to which the weekly email summary is sent, verify that **Send a weekly e-mail digest of my messages** is selected. To stop receiving the weekly digest, clear the check box. <br/><br/>Email notification for major updates is a separate control. If you want to receive email notices about major updates, verify that **Send me e-mails for major updates** is selected. Clear the check box to stop getting email about major updates. <br/><br/>You can select or deselect your primary email address, but you can't change it. You can enter other email addresses where you want to have the digest sent. Enter the email address for an Office 365 group or a distribution list if more than two people should get the digest email. 
+    
+4. Click **Save** to keep your changes.
+
+
+#### Set your Message center preferences using the old admin center
   
 1. Select **Edit Message center preferences** at the top of Message center. 
     
