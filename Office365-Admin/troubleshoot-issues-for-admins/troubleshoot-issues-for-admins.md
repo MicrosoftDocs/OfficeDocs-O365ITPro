@@ -118,15 +118,14 @@ If you're an Office 365 Midsize Business, Office 365 Business, or Office 365 Ent
   
 1. Sign in to Office 365 for business with your work or school account. 
     
-2. Select the app launcher icon  in the upper-left and choose **Admin**.<br/><br/>Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the apps available to you. From there, you can search for a specific app. 
-    
-3. Go to **Exchange**.
+2. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
   
-4. Under **mail flow**, go to **message trace**.
+3. Under **mail flow**, go to **message trace**.
     
 If you're an Office 365 Small Business admin, do the following to find message trace:
   
-1. Under **Admin centers**, select **Security & Compliance**. 
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2077149" target="_blank">Security & Compliance admin center</a>.
+  
 
 2. In the left navigation, choose **Mail flow** \> **Message trace**.
 
