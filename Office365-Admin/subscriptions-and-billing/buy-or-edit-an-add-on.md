@@ -33,9 +33,9 @@ Several of the Office 365 for business plans have add-ons that you can buy for y
 
 ::: moniker range="o365-worldwide"
 
-### Use the admin center (preview) to buy an add-on
+### Use the new admin center to buy an add-on
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=868433" target="_blank">Purchase services</a> page.
 
@@ -85,15 +85,15 @@ The steps that you use to update an add-on depend on whether the add-on is a tra
 
 *Traditional add-ons* are linked to a specific subscription. If you cancel the subscription, the associated add-on is also cancelled.
   
-*Standalone add-ons* are not linked to a specific subscription. Standalone add-ons appear as a separate subscription on the **Subscriptions** page (or on the **Products & services** page in the admin center (preview)), and have their own expiration date. You manage a standalone add-on the same way that you manage any other subscription.
+*Standalone add-ons* are not linked to a specific subscription. Standalone add-ons appear as a separate subscription on the **Subscriptions** page (or on the **Products & services** page in the new admin center), and have their own expiration date. You manage a standalone add-on the same way that you manage any other subscription.
   
 ### Update a traditional add-on
 
 ::: moniker range="o365-worldwide"
 
-#### Use the admin center (preview) to update a traditional add-on
+#### Use the new admin center to update a traditional add-on
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
@@ -138,9 +138,9 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
 ::: moniker range="o365-worldwide"
 
-#### Use the admin center (preview) to update a standalone add-on
+#### Use the new admin center to update a standalone add-on
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
