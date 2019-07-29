@@ -39,7 +39,7 @@ You must be an Office 365 global admin or Exchange admin to upgrade a distributi
   
 5. Choose the upgrade icon.<br/>![Upgrade to Office 365 groups icon](../media/1e28cb3d-bff3-4be3-8329-1902d2d54720.png)
   
-6. On the information dialog, choose **Yes** to confirm the upgrade. The process begins immediately. Depending on the size and number of DLs you're upgrading, the process can take minutes or hours.<br/>If the distribution list can't be upgraded, a dialog appears saying so. See [Which distribution lists can be upgraded?](#which-distribution-lists-can-be-upgraded).
+6. On the information dialog, choose **Yes** to confirm the upgrade. The process begins immediately. Depending on the size and number of DLs you're upgrading, the process can take minutes or hours.<br/>If the distribution list can't be upgraded, a dialog appears saying so. See [Which distribution lists can be upgraded?](#which-distribution-lists-cannot-be-upgraded).
     
 7. If you're upgrading multiple distribution lists, use the drop down to filter which distribution lists have been upgraded. If the list isn't complete, wait a while longer and then choose **Refresh** to see what's been successfully upgraded.<br/>There's no notice that tells you when the upgrade process has completed for all DLs you selected. You can figure this out by looking to see what's listed under **Available for upgrade** or **Upgraded DLs**. 
     
