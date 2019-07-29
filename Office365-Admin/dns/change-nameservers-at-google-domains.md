@@ -38,7 +38,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 > [!NOTE]
 >  This record is used only to verify that you own your domain; it doesn't affect anything else. You can delete it later, if you like. 
   
-1. To get started, go to your domains page at Google Domains by using this link. You'll be prompted to sign in. To do so:
+1. To get started, go to your domains page at Google Domains by using [this link](https://domains.google.com/registrar). You'll be prompted to sign in. To do so:
     
 1. Choose **Sign In**.
     
@@ -87,7 +87,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 > [!IMPORTANT]
 > The following procedure will show you how to delete any other, unwanted nameservers from the list, and also how to add the correct nameservers if they are not already in the list. > When you have completed the steps in this section, the only nameservers that should be listed are these four: 
   
-1. To get started, go to your domains page at Google Domains by using this link. You'll be prompted to sign in. To do so:
+1. To get started, go to your domains page at Google Domains by using [this link](https://domains.google.com/registrar). You'll be prompted to sign in. To do so:
     
 1. Choose **Sign In**.
     
