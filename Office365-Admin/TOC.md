@@ -158,6 +158,7 @@
 ### [Buy or try subscriptions](services-in-china/buy-or-try-subscriptions.md)
 ### [View your bill or get a Fapiao](services-in-china/view-your-bill-or-get-a-fapiao.md)
 ### [Apply for a Fapiao](services-in-china/apply-for-a-fapiao.md)
+### [Azure Information Protection parity](services-in-china/parity-between-azure-information-protection.md)
 ## Get new features
 ### [About the new admin center](microsoft-365-admin-center-preview.md)
 ### [What's new in the new admin center](whats-new-in-preview.md)
