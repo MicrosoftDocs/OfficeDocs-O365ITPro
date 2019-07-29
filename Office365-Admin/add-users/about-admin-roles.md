@@ -31,14 +31,15 @@ Your subscription comes with a set of admin roles that you can assign to users i
 
 Because admins have access to sensitive data and files, we recommend that you follow these guidelines to keep your organization's data more secure.
 
-| Recommendation                  | Why is this important?                 | 
+| Recommendation                  | Why is this important?                 |
 | :------------------- | :------------------- |
 | Have 2 to 4 global admins  | Because only another global admin can reset a global admin's password, we recommend that you have at least 2 global admins in your organization in case of account lockout. But the global admin has almost unlimited access to your org's settings and most of the data, so we also recommend that you don't have more than 4 global admins because that's a security threat. |
 | Assign the *least permissive* role    | Assigning the *least permissive* role means giving admins only the access they need to get the job done. For example, if you want someone to reset employee passwords you shouldn't assign the unlimited global admin role, you should assign a limited admin role, like Password admin or Helpdesk admin.  This will help keep your data secure.                 |
-| Require multi-factor authentication for admins                  |    It's actually a good idea to require MFA for all of your users, but admins should definitely be required to use MFA to sign in. MFA makes users enter a second method of identification to verify they are who they say they are. Admins can have access to a lot of customer and employee data and if you require MFA, even if the admin's password gets compromised, the password is useless without the second form of identification.  <br><br>When you turn on MFA, the next time the user signs in, they'll need to provide an alternate email address and phone number for account recovery.  <br> [Set up multi-factor authentication](../security-and-compliance/set-up-multi-factor-authentication.md)          | 
+| Require multi-factor authentication for admins                  |    It's actually a good idea to require MFA for all of your users, but admins should definitely be required to use MFA to sign in. MFA makes users enter a second method of identification to verify they are who they say they are. Admins can have access to a lot of customer and employee data and if you require MFA, even if the admin's password gets compromised, the password is useless without the second form of identification.  <br> <br> When you turn on MFA, the next time the user signs in, they'll need to provide an alternate email address and phone number for account recovery.  <br> [Set up multi-factor authentication](../security-and-compliance/set-up-multi-factor-authentication.md)          |
+
 ## What's the least-permissive role?
 
-The least permissive role means that you give a user only the access they need to do a task. Giving a user too many permissions can be a security risk. 
+The least permissive role means that you give a user only the access they need to do a task. Giving a user too many permissions can be a security risk.
 
 For a list of the least permissive roles by task, see [Least permissive role](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/roles-delegate-by-task).
 
@@ -52,7 +53,7 @@ If you don’t have access to the Microsoft 365 admin center, or if you’re loo
   
 ## What about the Azure Active Directory roles?
 
-The Azure portal has more roles than available in the Microsoft 365 admin center. If you have a large business, there might be roles in the Azure portal that meet your organizational needs. 
+The Azure portal has more roles than available in the Microsoft 365 admin center. If you have a large business, there might be roles in the Azure portal that meet your organizational needs.
 
 For a list and description of all the Azure Active Directory roles, see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
 
@@ -63,7 +64,6 @@ A user who is assigned an admin role will have the same level of access to cloud
 The Microsoft 365 admin center lets you manage over 30 Azure AD roles. However, these roles are a subset of the roles available in the Azure portal.
 
 You'll probably only need to assign the following roles in your organization.
-
 
 |Admin role     |Who should be assigned this role?  |
 |---------|---------|
@@ -76,7 +76,8 @@ You'll probably only need to assign the following roles in your organization.
 |User admin     |    Assign the User admin role to users who need to do the following for all users: <br> - Add users and groups <br> - Assign licenses <br> - Manage most users properties <br> - Create and manage user views <br> - Update password expiration policies <br> - Manage service requests <br> - Monitor service health <br><br>  The user admin can also do the following actions for users who aren't admins and for users assigned the following roles: Directory reader, Guest inviter, Helpdesk admin, Message center reader, Reports reader: <br> - Manage usernames<br> - Delete and restore users<br> - Reset passwords <br> - Force users to sign out <br> - Update (FIDO) device keys   |
 
 ### All roles
- Here's a list of all the roles available in the Microsoft 365 admin center. 
+
+ Here's a list of all the roles available in the Microsoft 365 admin center.
 
 |Role     |Description  |
 |---------|---------|
@@ -123,9 +124,9 @@ If you're working with a Microsoft partner, you can assign them admin roles. The
 A partner can assign these roles:
   
 - Full administration, which has privileges equivalent to a global admin, with the exception of managing MFA functionality through the Partner Center.
-    
+
 - Limited administration, which has privileges equivalent to a helpdesk admin.
-    
+
 Before the partner can assign these roles to users, you must add the partner as a delegated admin to your account. This process is initiated by an authorized partner. The partner sends you an email to ask you if you want to give them permission to act as a delegated admin. For instructions, see [Authorize or remove partner relationships](https://support.office.com/article/201ccb3b-6011-4bf1-a6b2-84e7cc1ee2d0.aspx).
   
 ## Related articles
