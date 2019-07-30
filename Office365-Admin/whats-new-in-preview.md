@@ -38,7 +38,7 @@ The Message center has been updated to the new design and it looks amazing!
 - **Filter by category:** You can also filter by **Data privacy**, **Plan for change**, **Prevent or fix issues**, and **Stay informed** message categories.
 - Select a message from the list and you have a few options: You can **Dismiss**, **Mark as read** or **Mark as unread**, or **Share the message**. 
 - And when you open a message, you have even more options:
-    - Copy the message post link to the clipboard to save it for later or share it with colleagues. 
+    - Copy a link of the message to your clipboard to save it for later or share it with colleagues. 
     -  Mark messages as **Read** or **Unread**. 
     -  When you select **Like** or **Dislike**, a feedback pane opens asking you to provide specific feedback on what you liked or didn't like about this message.
 
@@ -46,15 +46,15 @@ The Message center has been updated to the new design and it looks amazing!
 
  The navigation pane now remembers your last actions and shows you the pane in the last state that you left it in. It will also make frequently used items visible by default.
 
-### Setup & the Setup page
-We've got some exciting changes to help you get your organization set up. First off, let's discuss the difference between **setup** and the **Setup page**. **Setup** refers to the wizard that you used to onboard to Microsoft's online services. That includes three specific steps: **Connect a domain**, **Add users**, and **Download the Office apps**. The **Setup page** is the page in the admin center that has recommended set up tasks to ensure that you're getting the most out of your subscriptions - like turning on features you've purchased licenses for.
+### Initial setup & the Setup page
+We've got some exciting changes to help you get your organization set up. First off, let's discuss the difference between **setup** and the **Setup page**. **Setup** refers to the initial wizard that you used to onboard to Microsoft's online services. That includes three specific steps: **Connect a domain**, **Add users**, and **Download the Office apps**. The **Setup page** is the page in the admin center that has recommended set up tasks to ensure that you're getting the most out of your subscriptions - like turning on features you've purchased licenses for.
 
-- **Setup** - The setup wizard has been updated for **Office 365 for Business** subscriptions. This new design will help new organizations get through the wizard faster and with greater success.
+- **Setup** - The initial setup wizard has been updated for **Office 365 for Business** subscriptions. This new design will help new organizations get through the wizard faster and with greater success.
 - **Setup page** - The **Setup** page helps you finish setting up and securing the services that come with your subscriptions. You can also see any dismissed recommendations on the **Setup** page. To see if it's available for your subscription, go to the **Microsoft 365 admin center** > **Setup**.
 
 ### Billing & subscriptions
 - **Software** product type - You can now view software products purchased through a Cloud Service Provider (CSP). To see your downloads and keys, go to **Billing** > **Products & services** > **Software** tab.
-- You can now view Modern Azure products and services from the Microsoft 365 admin center, whether you purchased them from Microsoft or a third-party provider. Examples of Modern Azure products included:
+- You can view Modern Azure products and services from the Microsoft 365 admin center, whether you purchased them from Microsoft or a third-party provider. Examples of Modern Azure products included:
     - Azure Reserved Virtual Instances
     - Azure Support Plans
     - Azure Hybrid Use Benefits (AHUB)
