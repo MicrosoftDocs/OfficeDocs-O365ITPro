@@ -1,5 +1,5 @@
 ---
-title: "Prepare files in Yammer for native mode for Microsoft 365"
+title: "Prepare files in Yammer for Native Mode for Microsoft 365"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
@@ -12,13 +12,13 @@ ms.custom: Adm_Yammer
 search.appverid: 
 - MOE150
 - MET150
-description: "Learn how to move all Yammer files to SharePoint, part of the requirements for using native mode for Microsoft 365."
+description: "Learn how to move all Yammer files to SharePoint, part of the requirements for using Native Mode for Microsoft 365."
 ROBOTS: NOINDEX, NOFOLLOW 
 ---
 
-# Prepare files in Yammer for native mode for Microsoft 365
+# Prepare files in Yammer for Native Mode for Microsoft 365
 
-To use native mode for Microsoft 365, all Yammer files must be stored in SharePoint. Having one consistent location for files makes usage easier for both end-users and admins:
+To use Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint. Having one consistent location for files makes usage easier for both end-users and admins:
 
 - **End-users** follow the same processes with all files in all groups, including the ability to add conditional access policies on specific files.
 
@@ -55,7 +55,7 @@ Because migration deletes all files from private messages, you need to decide ho
 
 4. When your backup is complete, start the migration from the Microsoft 365 Alignment Wizard. You can start migration when export is running, but the export data may indicate certain files are in SharePoint due to the migration.
 
-5. Review the Microsoft 365 Alignment Wizard to determine if other steps are necessary before your network can be in native mode for Microsoft 365.
+5. Review the Microsoft 365 Alignment Wizard to determine if other steps are necessary before your network can be in Native Mode for Microsoft 365.
 
 ## Admin experience during migration
 
@@ -99,7 +99,7 @@ When migration completes, the admin gets a report of any file name conflicts, an
 
 - If a filename includes invalid characters, we update the file name to remove the invalid characters.
 
-- If a file can't be migrated for any reason, we retry once, and continue the migration. You won't be able to take your network to native mode for Microsoft 365 until you resolve any files left behind.
+- If a file can't be migrated for any reason, we retry once, and continue the migration. You won't be able to take your network to Native Mode for Microsoft 365 until you resolve any files left behind.
 
 ## FAQ
 
@@ -109,7 +109,7 @@ A: No. Only one person in your organization needs a SharePoint license.
 
 ## See also
 
-[Prepare a Yammer network for native mode for Microsoft 365](native-mode.md)
+[Prepare a Yammer network for Native Mode for Microsoft 365](native-mode.md)
 
 [Enforce Office 365 identity in Yammer](enforce-office-365-identity.md)
 
