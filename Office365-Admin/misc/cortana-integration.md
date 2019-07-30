@@ -46,7 +46,7 @@ There are a few things to be aware of before you start using Cortana in Office 3
 
 If you don't want Cortana to access your organization's data, you can turn Cortana off in the admin center. 
   
-1. In the admin center, go to the **Settings** \> [Services and add-ins](https://go.microsoft.com/fwlink/p/?linkid=2053743) page. 
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services & add-ins</a> page. 
 
 2. In the list, choose **Cortana**.
     
