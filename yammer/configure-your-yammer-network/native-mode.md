@@ -60,15 +60,15 @@ The wizard helps you through the process of preparing your network into Native M
 
 - You must not have any network-level or thread-level guests.
 
-## Decisions
+## Key differences between modes
 
-Decide which mode you want to use.
+All new networks after November 2019 are Native Mode, and we are working to have all Yammer networks converted to Native Mode.
 
-|Mode|Advantages|Disadvantages|
-|----------|----------------------------|------------------|
-|**Native**|No-one can inadvertently take your network out of Native Mode<br><br>eDiscovery<br><br>Office 365 resources for each group<br><br>All groups, including **All Company** are Office 365 connected, which means they have access to Office 365 resources including live events<br><br>Yammer honors Office 365 group creation rights<br><br>Consistent file experience throughout Yammer|No files in private messages<br><br>No external collaboration<br><br>No guest users<br><br>No unlisted groups<br><br>No access to files in previous private messages|
-|**Hybrid**|A step on the way to Native Mode that lets you understand how Native Mode will work<br><br>Admins can add flags to prevent users from taking actions that prevent the network from being connection-eligible. They can address each category separately as part of getting ready for Native Mode.<br><br>|If flags aren't set, users can add unlisted groups, groups that aren't Office 365 connected, attach files to private messages, or invite guests, preventing you from taking the network into Native Mode.|
-|**Unconnected**|External collaboration<br><br>Allow guest users<br><br>All Yammer users can create groups<br><br>Files can be attached to private messages|Can't use eDiscovery<br><br>Doesn't provide Office 365 resources for groups|
+|Mode|Features|
+|----------|----------------------------|
+|**Native**|No-one can inadvertently take your network out of Native Mode<br><br>eDiscovery though the Security & Compliance center for your home network<br><br>All Yammer groups and users can be managed through Office 365<br><br>Office 365 resources for each group<br><br>All groups, including **All Company** are Office 365 connected, which means they have access to Office 365 resources including live events<br><br>Yammer honors Office 365 group creation rights<br><br>Consistent file experience throughout Yammer|
+|**Hybrid**|A step on the way to Native Mode that lets you understand how Native Mode will work<br><br>Admins can add flags to prevent users from taking actions that prevent the network from being eligible for Native Mode. They can address each category separately as part of getting ready for Native Mode.|
+|**Unconnected**|External collaboration<br><br>Allow guest users<br><br>All Yammer users can create groups<br><br>Files can be attached to private messages<br><br>eDiscovery and administration through Office 365 not available|
 |||
 
 ## Recommended process
