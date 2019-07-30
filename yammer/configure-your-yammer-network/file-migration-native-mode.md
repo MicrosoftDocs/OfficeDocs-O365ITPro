@@ -22,7 +22,7 @@ To use native mode for Microsoft 365, all Yammer files must be stored in SharePo
 
 - **End-users** follow the same processes with all files in all groups, including the ability to add conditional access policies on specific files.
 
-- **Admins** can use e-discovery, have a consistent way to export all files, and simplify complying with GDPR requests. 
+- **Admins** can use the same security and compliance tools for Yammer as they do with the rest of Office 365 including eDiscovery, have a consistent way to export all files, and simplify complying with GDPR requests. 
 
 The Microsoft 365 Alignment Wizard does the following file-related steps:
 
@@ -32,16 +32,17 @@ The Microsoft 365 Alignment Wizard does the following file-related steps:
 
 3. Delete all Yammer files that were attached to private messages. 
  
-30 days after the migration, all files in Azure cloud storage will be automatically deleted.
-
 >[!IMPORTANT]
 > After migration has been started, it can't be stopped or reversed.
 
 ## Decisions needed
 
 Because migration deletes all files from private messages, you need to decide how to handle these files. The options are to:
+
 - Notify users that the files will be deleted. The wizard will delete the files, and they will no longer be available.
+
 - Export the files before migration and save them in case anyone asks for them.
+
 - Export the files before migration, and send the files to the person who posted them, letting them know the files are no longer available on Yammer. 
 
 ## Recommended process
@@ -52,7 +53,7 @@ Because migration deletes all files from private messages, you need to decide ho
 
 3. Optional. Export all files from all groups that have been stored in Yammer to provide a backup of the files. 
 
-4. When your backup is complete, start the migration from the Network Alignment Wizard. You can start migration when export is running, but the export data may indicate certain files are in SharePoint due to the migration.
+4. When your backup is complete, start the migration from the Microsoft 365 Alignment Wizard. You can start migration when export is running, but the export data may indicate certain files are in SharePoint due to the migration.
 
 5. Review the Microsoft 365 Alignment Wizard to determine if other steps are necessary before your network can be in native mode for Microsoft 365.
 
@@ -64,9 +65,7 @@ Migration status can be viewed on the Network Alignment Wizard page. You can tra
 
 - How many files where the filename was changed due to a file name conflict.
 
-Most migrations are complete within 72 hours.
-
-Migrated files will be automatically deleted 30 days after migration completes.
+Most migrations complete within 72 hours.
 
 ## End-user experience during migration
 
@@ -74,11 +73,11 @@ During the migration, users can create new files from Yammer, edit existing Yamm
 
 After migration:
 
-- All files will be stored in SharePoint, providing a consistent experience.
+- All files will be stored in SharePoint, providing a consistent file management experience.
 
 - If users want to search the content of files, they'll need to go to the SharePoint site or document library for an individual group and use the Search bar at the top of the page, or use content search from the organization's SharePoint site.
 
-   - Yammer search searches the first 5000 characters of files in Azure cloud storage as well as the title and author, whereas Yammer search only searches the title and author of files stored in SharePoint. 
+    Yammer search searches the first 5000 characters of files in Azure cloud storage as well as the title and author, but only searches the title and author of files stored in SharePoint. 
 
 ## File metadata
 
@@ -96,7 +95,7 @@ When files are copied to the SharePoint document library:
 
 When migration completes, the admin gets a report of any file name conflicts, and how they were handled:
 
-- If a file with the same name already exists in the SharePoint document library, we append XXX to the file name.
+- If a file with the same name already exists in the SharePoint document library, we append \_*date* to the file name.
 
 - If a filename includes invalid characters, we update the file name to remove the invalid characters.
 
