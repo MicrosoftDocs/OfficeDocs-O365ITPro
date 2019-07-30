@@ -116,10 +116,10 @@ A: Yammer will still display the links to Office 365 resources.
 
 **Q: Does Yammer include any tools for eDiscovery?**
 
-A: No. eDiscovery features are available from the [Office 365 Security & Compliance center](protection.office.com).
+A: No. eDiscovery features are available from the [Office 365 Security & Compliance center](https://protection.office.com).
 
 ## See also
 
 [Prepare files in Yammer for native mode for Microsoft 365](file-migration-native-mode.md)
 
-[Office 365 Security & Compliance Center](protection.office.com)
+[Office 365 Security & Compliance Center](https://protection.office.com)

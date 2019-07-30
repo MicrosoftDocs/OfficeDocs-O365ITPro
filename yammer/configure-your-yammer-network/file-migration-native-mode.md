@@ -112,5 +112,5 @@ A: No. Only one person in your organization needs a SharePoint license.
 
 [Prepare a Yammer network for native mode for Microsoft 365](native-mode.md)
 
-[Enforce Office 365 identity in Yammer](enforce-office-365-identity)
+[Enforce Office 365 identity in Yammer](enforce-office-365-identity.md)
 
