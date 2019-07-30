@@ -26,7 +26,7 @@ description: "Switch Office 365 for business subscriptions manually by buying a 
 
 ::: moniker range="o365-worldwide"
 > [!NOTE]
-> This article applies to the old admin center. To view the article about the admin center (preview), see [Change plans manually](change-plans-manually.md). The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> This article applies to the old admin center. To view the article about the new admin center, see [Change plans manually](change-plans-manually.md). The new admin center is available to all Microsoft 365 admins, and you can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 ::: moniker-end
 
 ## Step 1: Decide how to switch plans
