@@ -36,22 +36,11 @@ Shared mailboxes don't need a license unless the mailbox has over 50GB of data. 
 
 ::: moniker range="o365-worldwide"
 
+### Remove the license using the new admin center
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
-
-::: moniker-end
- 
-
-::: moniker range="o365-germany"
-    
- 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page. 
-    
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
- 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
-
-::: moniker-end 
 
    > [!NOTE]
    > You need to remove the license from the Active users page. You can't remove the license from the Shared mailbox page because licenses are user settings. 
@@ -65,4 +54,62 @@ Shared mailboxes don't need a license unless the mailbox has over 50GB of data. 
 5. When you return to the **Active users** page, the status of the shared mailbox will be **Unlicensed**. 
 
 6. You're still paying for the license. To stop paying for it, [remove the license from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md). 
+
+### Remove the license using the old admin center
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+2. Select the shared mailbox, and then choose **Edit** next to **Product license**.
+    
+3. One the **Product licenses** page, set the toggle to **Off** for the license you want to remove.
+    
+4. Choose **Save**.
+    
+5. When you return to the **Active users** page, the status of the shared mailbox will be **Unlicensed**. 
+
+6. You're still paying for the license. To stop paying for it, [remove the license from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md). 
+
+
+::: moniker-end
+ 
+
+::: moniker range="o365-germany"
+    
+ 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page. 
+    
+   > [!NOTE]
+   > You need to remove the license from the Active users page. You can't remove the license from the Shared mailbox page because licenses are user settings. 
+
+2. Select the shared mailbox, and then choose **Edit** next to **Product license**.
+    
+3. One the **Product licenses** page, set the toggle to **Off** for the license you want to remove.
+    
+4. Choose **Save**.
+    
+5. When you return to the **Active users** page, the status of the shared mailbox will be **Unlicensed**. 
+
+6. You're still paying for the license. To stop paying for it, [remove the license from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md). 
+
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+ 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
+
+   > [!NOTE]
+   > You need to remove the license from the Active users page. You can't remove the license from the Shared mailbox page because licenses are user settings. 
+
+2. Select the shared mailbox, and then choose **Edit** next to **Product license**.
+    
+3. One the **Product licenses** page, set the toggle to **Off** for the license you want to remove.
+    
+4. Choose **Save**.
+    
+5. When you return to the **Active users** page, the status of the shared mailbox will be **Unlicensed**. 
+
+6. You're still paying for the license. To stop paying for it, [remove the license from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md). 
+
+
+::: moniker-end 
 
