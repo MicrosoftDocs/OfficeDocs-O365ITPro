@@ -70,7 +70,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. Click on the message to open it.
 
-2. Choose the **Copy Link To Clipboard** icon.
+2. Choose the **Copy Link To Clipboard** (link) icon.
 
 3. Allow the webpage to access your Clipboard. A direct link is copied to your clipboard.
     
@@ -96,7 +96,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. On the main page of the message center, select a message.
 
-2. Choose **Mark as unread** above the list of messages.
+2. Choose the **Mark as unread** (envelope) icon at the top of the message.
 
 
 ### Mark a message as unread in the old admin center
