@@ -25,47 +25,62 @@ Message center posts are important announcements about new and changed features.
   
 ## Read a message
 
-Click on a message to open it in the reading pane. You'll see the expiration date for the message, which is the date when the message will automatically be removed from the active message view. Every message contains a summary of the change, a statement of how the change may affect you, and information about how you can prepare your organization for the change. And, we always provide an additional information link where you can learn more. The additional information continues to be available, even after a message expires.
+Click on a message to open it in the reading pane. Every message contains a summary of the change, a statement of how the change may affect you, and information about how you can prepare your organization for the change. And, we always provide an additional information link where you can learn more. The additional information continues to be available, even after a message expires.
   
-Use the **Previous** and **Next** buttons to navigate between messages. 
-  
-![Example message with expiration date](../media/e47cd136-3f17-4559-be1c-2787ebb411dc.png)
-
 ## Filter and sort
 
-Use the Views drop-down menu to select a filtered view of messages.
-  
-![Message Center views menu with filters](../media/5df2d11b-2547-4430-ae75-5bbe48a5a139.png)
-  
+### Filter and sort in the new admin center
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+
+Use the **Filter** drop-down menu to select a filtered view of messages.
+
+You can click on any column heading to sort messages in ascending or descending order. For example, in this diagram the messages are sorted on the **Act by** date.
+
+### Filter and sort in the old admin center
+
+Use the **Views** drop-down menu to select a filtered view of messages. 
+ 
 You can click on any column heading to sort messages in ascending or descending order. For example, in this diagram the messages are sorted on the **Act by** date. 
-  
-![Message center sorted by Act by column](../media/10342802-0bd7-4dd3-9003-e86ff226f85a.png)
+
 
 ## Give feedback on a post
 
 In the Message center, you can select a message to see details. 
 If you want to provide feedback on the message, click either the **Like** or **Dislike** icon and provide feedback in the text box that appears. Do not provide any personal information. You can optionally choose **It's OK to contact me about this feedback** and then choose **Send**.
-![Provide feedback on a message center post.](../media/Providefeedback-on-message-center-post.png)
+
   
 ## Share a message
 
 See a message that someone else needs to act on? You can share the contents of the message with any user by email:
   
-1. Click on the message to open it.
-    
-2. Select **Share** from the action bar.<br/>![Message center post action bar](../media/43f6adc4-8cf9-4437-8e25-dc9c7367301d.png)
+1. Click on the message to open it, and then choose **Share**.
   
-3. Enter up to two email addresses to share the message with. You can send to individual and to group email addresses. If you'd like to also receive a copy of the message in email, select **I would also like to receive this email**. The message will go to your primary email address in Office 365. If you'd like to add a personal message to provide recipients with more context, select **I would like to add a personal message** and enter your text.<br/>![Message sharing screen](../media/c490096e-ba8b-412d-92ab-2dfed223da11.png)
+2. Enter up to two email addresses to share the message with. You can send to individual and to group email addresses. Optionally, you can choose to receive a copy of the message in email (the message will go to your primary email address in Office 365) or add a personal message to provide recipients with more context.
   
-4. Click on **Share** to send the email. 
+3. Choose **Share** to send the email. 
     
 ## Get a link
 
 Need to follow up with another admin to make sure they're aware of a change and taking action? You can generate a link to share in email or instant messaging, for example, that will connect the user directly to that message. The person you share the link with has to be an admin in Office 365 for your organization or they won't have access to the linked message.
+
+### Get a link in the new admin center
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+
+1. Click on the message to open it.
+
+2. Choose the **Copy Link To Clipboard** icon.
+
+3. Allow the webpage to access your Clipboard. A direct link is copied to your clipboard.
+    
+4. Use CTRL+V or right-click and select Paste to insert the link.
+
+### Get a link in the old admin center
   
 1. Click on the message to open it.
     
-2. Select **More** \> **Get a link** from the action bar.
+2. Choose **More** \> **Get a link** from the action bar.
     
 3. Allow the webpage to access your Clipboard. A direct link is copied to your clipboard.
     
@@ -73,7 +88,18 @@ Need to follow up with another admin to make sure they're aware of a change and 
     
 ## Read and unread states
 
-Any message in Message center that is unread will appear in bold. Opening a message marks it as read. If you want to mark a message as unread:
+Any message in Message center that is unread will appear in bold. Opening a message marks it as read. You can mark a message as unread.
+
+### Mark a message as unread in the new admin center
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+
+1. On the main page of the message center, select a message.
+
+2. Choose **Mark as unread** above the list of messages.
+
+
+### Mark a message as unread in the old admin center
   
 1. Click on the message to open it.
     
@@ -83,11 +109,29 @@ Any message in Message center that is unread will appear in bold. Opening a mess
     
 ## Dismiss and restore
 
-If you see a message that doesn't pertain to you, or maybe you've already acted on it, you can dismiss the message to remove it from the Message center view. The view that you see in Message center is specific to your user account, so dismissing it from your view doesn't affect other admins. There are two ways to dismiss a message:
+If you see a message that doesn't pertain to you, or maybe you've already acted on it, you can dismiss the message to remove it from the Message center view. The view that you see in Message center is specific to your user account, so dismissing it from your view doesn't affect other admins. 
+
+### Dismiss a message in the new admin center
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+
+- On the main page of the message center, select a message, and then choose **Dismiss** above the list of messages.
+
+- Open the message, and then choose dismiss **Dismiss** at the bottom of the message. 
+
+Need to get a dismissed message back? No problem.
+  
+1. Select the **Dismissed messages** tab at the top of the Message center. A list of dismissed messages appears. 
+    
+2. Select the message, choose **Restore**, and the message is restored to active messages. 
+
+### Dismiss a message in the old admin center
+
+There are two ways to dismiss a message.
   
 - Click on the X that appears to the right of the Message ID. The message is removed from your list. Or,
     
-- Open the message, then click the **Dismiss** button at the top of the text. 
+- Open the message, and then choose dismiss **Dismiss** at the top of the message. 
     
 Need to get a dismissed message back? No problem.
   
