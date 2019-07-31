@@ -75,46 +75,59 @@ All new networks after November 2019 are Native Mode, and we are working to have
 
 1. Start the Microsoft 365 Alignment Wizard, which will identify the areas that need to be addressed to be able to be in Native Mode for Microsoft 365. 
 
-2. Make a plan for working through the identified issues. Work through one at a time, following a process and timeframe that works for your organization. 
+2. Download the report to see more detail than is shown in the wizard.
 
-3. For each issue identified, mitigate the existing instances of the issue, for example changing all unlisted groups to listed groups, or running the file migration to store all Yammer files in SharePoint.
+2. For each issue that you don't want the default action taken, mitigate existing instances of the issue. For example, there may be some private unlisted groups that you or the owner would prefer to have deleted rather than making them a private listed group.  
 
-4. After an issue is mitigated, set the flag in the wizard to prevent users from creating the issue. For example, set the flag to prevent files from being added to private messages.
+3. When you are ready for the wizard to take default actions on each issue, click Next.
+ 
+4. Refresh the wizard page to see the status of each job the wizard is working on. Some tasks will complete very quickly, while others, like file migration, may take more time depending on the size and complexity of your network.
 
-5. After you have mitigated all issues and set all flags, your network enters connection-eligible mode, where all features are compatible with AAD and Office 365.
-
-6. When you're ready, lock in to Native Mode so that you can use eDiscovery.
-
-## Admin experience 
-
-Mitigation status for each issue can be viewed on the Microsoft 365 Alignment Wizard page. 
+6. When the wizard completes, on the Commitment screen, enter your user id to commit to Native Mode.
 
 ## End-user experience
 
-You'll need to communicate each change you make to your end users so that they're not surprised when they stop being allowed to invite guests,add files to private messages, and create non-connected groups.
+We recommend communicating about changes you make to your end users so that they're not surprised when they stop being allowed to invite guests, add files to private messages, and create non-connected groups.
 
 Here are some ideas to include in your communications:
 
 We are getting our Yammer network ready to support required compliance and security policies for our organization. Here are some changes you will see rolling out over the next few weeks:
-- We will be changing all unlisted private groups to be listed on \_\_/\_\_/\_\_. If you don't want your group to be listed, please delete it before that date.
-- We will be removing all network, group, and conversation-level guests from our Yammer network on \_\_/\_\_/\_\_. We will send each guest an explanation.
-- We will be moving all Yammer files to be stored in SharePoint on \_\_/\_\_/\_\_. 
-- We will be making sure that all groups have an owner with Office 365 group creation rights. If we have to delete any groups, we will notify members first. 
 
+- We will begin changing all unlisted private groups to be listed on \_\_/\_\_/\_\_. This means that non-members can see the group in search results and other areas, but the content will still be restricted to members. If you don't want your group to be listed, please delete it before that date. You can also change the name of the group, if the concern is that people will identify the purpose of the group based on the name.
+
+- We will begin removing all network, group, and conversation-level guests from our Yammer network on \_\_/\_\_/\_\_. We will send each guest an explanation.
+
+- We will begin moving all Yammer group files to be stored in SharePoint on \_\_/\_\_/\_\_. 
 
 ## FAQ
 
-**Q: After we commit our Yammer network to be in Native Mode, is it possible to revert to connection-eligible or non-connected mode?**
+**Q: After we commit our Yammer network to be in Native Mode, is it possible to revert to Hybrid Mode or Unconnected mode?**
 
 A: No. Native Mode can't be reverted.
 
-**Q: If in Native or connection-eligible modes, what if my organization doesn't want to use SharePoint or Planner?**
+**Q: If in Native or Hybrid modes, what if my organization doesn't want to use SharePoint or Planner?**
 
-A: Yammer will still display the links to Office 365 resources.
+A: Yammer will still display the links to Office 365 resources. In Native Mode this section will appear for all groups. In Hybrid Mode, the section will only be visible for connected groups. 
 
 **Q: Does Yammer include any tools for eDiscovery?**
 
-A: No. eDiscovery features are available from the [Office 365 Security & Compliance center](https://protection.office.com).
+A: No. eDiscovery features are available from the [Office 365 Security & Compliance center](https://protection.office.com). However, when your home Yammer network is in Native mode, you will be able to perform eDiscoverty on that home network from the Security & Compliance Center.
+
+**Q: Why doesn't Native Mode support all previously existing features?**
+
+**A: Native Mode means that your network is 100% backed by AAD and Office 365 groups. The following features can't be supported in this configuration:
+
+- Marking files official is only possible when files are stored in Azure cloud storage.
+
+- Guests are not supported by AAD.
+
+- Unlisted private groups are not supported by Office 365.
+
+- Soft delete is required for eDiscovery.
+
+**Q: Do I have to make my network be in Native Mode?**
+
+A: Yammer networks in new tenants start out in Native Mode. Admins of existing networks can choose whether or not they want their Yammer network to be in Native Mode.
 
 ## See also
 
