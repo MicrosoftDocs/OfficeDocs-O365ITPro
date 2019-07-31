@@ -40,7 +40,7 @@ Before you begin, make sure you've noted which shared mailbox you need to remove
     
   - Go to **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2066847" target="_blank">Shared mailboxes</a>, and then select the shared mailbox from the list. 
     
-2. In the **Name / Email** and **Aliases** section, select **Edit**.
+2. In the **Name**, **Email**, and **Email aliases** section, choose **Edit**.
     
 3. In the **Email aliases** section, remove the email address by clicking the remove (wastebin) icon, and then **Save**.
     

@@ -33,7 +33,11 @@ Did you get this error when you were creating a new user? "This email address is
 ## Remove the email address from the user
 
 Before you begin, make sure you've noted which user you need to remove the email address from.
-  
+
+### Remove the email address using the new admin center
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+
 1. There are two ways you can find a user's account information: 
     
   - In the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>, type the user's name into the **search** field at the top of the page, and then select them from the list. It will open the user card. 
@@ -43,6 +47,19 @@ Before you begin, make sure you've noted which user you need to remove the email
 2. Choose **Manage email aliases**.  
     
 3. Choose the alias you want to remove and click the remove (wastebin) icon, and then **Save changes**. 
+
+
+
+### Remove the email address using the old admin center
+  
+1. There are two ways you can find a user's account information: 
+    
+  - In the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>, type the user's name into the **search** field at the top of the page, and then select them from the list. It will open the user card. 
+    
+  - Or, in the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page and select the user from the list. 
+    
+2. Next to **Username/Email, Aliases**, choose **Edit**.    
+3. Choose the alias you want to remove and click the remove (wastebin) icon, and then **Save**. 
     
     > [!NOTE]
     > You can't remove the primary email address. If you need to remove the primary email address, create a second email address for this user and click **Set as primary**. Then you can remove the user's email address. 
