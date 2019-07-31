@@ -26,7 +26,7 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
 
 # Create DNS records at MyDomain for Office 365
 
-¤
+
   
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
   

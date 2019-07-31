@@ -32,7 +32,7 @@ Explore the following list of error messages to get help with the most common is
   
  **Cause:** Before you can connect to the content pack you have to subscribe to the data from the Microsoft 365 admin center. If this step isn't done first, you won't be able to connect to the content pack, even if you provide your Office 365 tenant id. 
   
- **To fix this error:** To subscribe to the data, go to the admin center \> **Reports** \> **Usage** and locate the Office 365 Adoption tile on the main dashboard page. Select the **Get started** button and then in the **Reports** pane that opens, turn the **Make data available to the Office 365 Adoption content pack for Power BI** setting on and **Save**.
+ **To fix this error:** To subscribe to the data, go to the admin center \> **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> and locate the Office 365 Adoption tile on the main dashboard page. Select the **Get started** button and then in the **Reports** pane that opens, turn the **Make data available to the Office 365 Adoption content pack for Power BI** setting on and **Save**.
   
 ## We are processing your data
 
@@ -60,7 +60,7 @@ Explore the following list of error messages to get help with the most common is
   
  **Cause:** The tenant id is a guid and has to be in the format of xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx. If you enter any other string in the tenant input box you will get this error. 
   
- **To fix this error:** Go to the admin center \> **Reports** \> **Usage** and locate the Office 365 Adoption tile on the main dashboard page. The tenant id is listed on the tile. You can copy it from here and paste it in the dialog box for connecting to the content pack. 
+ **To fix this error:** Go to the admin center \> **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> and locate the Office 365 Adoption tile on the main dashboard page. The tenant id is listed on the tile. You can copy it from here and paste it in the dialog box for connecting to the content pack. 
   
 ## The tenant ID you provided is not recognized by our system
 
@@ -70,7 +70,7 @@ Explore the following list of error messages to get help with the most common is
   
  **Cause:** The tenant id you provided is not valid or does not exist. 
   
- **To fix this error:** Go to the admin center \> **Reports** \> **Usage** and locate the Office 365 Adoption tile on the main dashboard page. The tenant id is listed on the tile. You can copy it from here and paste it in the dialog box for connecting to the content pack. 
+ **To fix this error:** Go to the admin center \> **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> and locate the Office 365 Adoption tile on the main dashboard page. The tenant id is listed on the tile. You can copy it from here and paste it in the dialog box for connecting to the content pack. 
   
 ## Please re-enter your credentials to sign in to Power BI again
 
