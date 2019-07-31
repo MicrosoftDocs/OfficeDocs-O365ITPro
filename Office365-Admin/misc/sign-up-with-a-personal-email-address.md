@@ -46,7 +46,7 @@ If you choose to add a custom domain now, you get access to all the premium feat
   
 ## How to add a domain
 
-Click **Add a domain** in the Users tile of the [admin center](https://admin.microsoft.com/adminportal/Home?idp=msa):
+In the admin center, go to **Setup** > <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> > **Add domain**.
   
 
 
