@@ -27,15 +27,21 @@ We're continuously adding new features to [the Microsoft 365 admin center](micro
 > [!TIP]
 > Interested in what we're currently working on and plan to release soon? Check out [What's next for the Microsoft 365 admin center](microsoft-365-whats-next.md).
 
+For more information about what's new in the other admin centers, check out:
+- [What's new in the SharePoint admin center](https://docs.microsoft.com/sharepoint/what-s-new-in-admin-center)
+- What's new in the Compliance center
+
+
 ## July 2019
 
 ### Message center
+
 The Message center has been updated to the new design and it looks amazing! 
 
 ![Screen capture: Updated Message center with the 'All active messages' tab selected and the Filter menu opened.](media/MAC-MessageCenterUpdated.png)
 
-- **View by message status**: You can now view messages by status. Just select one of the tabs: **All active messages**, **High importance**, **Unread messages**, and **Dismissed messages**.
-- **Filter by category**: You can also filter by **Data privacy**, **Plan for change**, **Prevent or fix issues**, and **Stay informed** message categories.
+- You can now view **Messages by status**. Just select one of the tabs: **All active messages**, **High importance**, **Unread messages**, and **Dismissed messages**.
+- You can also filter by category **Data privacy**, **Plan for change**, **Prevent or fix issues**, and **Stay informed** message categories.
 - Select a message from the list and you have a few options in the command bar: **Dismiss**, **Mark as read** or **Mark as unread**, or **Share the message**. 
 - And when you open a message, you have even more options:
     - Copy a link of the message to your clipboard to save it for later or to share it with colleagues. 

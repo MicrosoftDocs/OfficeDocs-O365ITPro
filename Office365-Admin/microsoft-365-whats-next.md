@@ -25,6 +25,10 @@ Welcome to **What's next for the Microsoft 365 admin center**! We’ve heard tha
 > [!WARNING]
 > The information contained in this article pertains only to the Microsoft 365 admin center and is not a promise of future functionality nor do we promise that the feature will be released in the time frame we've indicated. In addition, this information is not a complete list of all features being released. This article might be discontinued or deleted at any time.
 
+Looking for what's new in other admin centers?
+- [What's new in the SharePoint admin center](https://docs.microsoft.com/sharepoint/what-s-new-in-admin-center)
+- What's new in the Compliance center?
+
 ## How to use this article
 
 We're looking forward to hearing from you and we'd like to use this article as a conversation starter between us - the admin and the engineering team. Every item listed in the "In the works" section has a link to our [Office UserVoice](https://office365.uservoice.com/forums/273493-office-365-admin) website, where we want you to vote for items that you're excited about, ask questions, and give us feedback.
