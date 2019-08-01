@@ -127,7 +127,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![AWS-BP-Configure-2-5](../media/86f0998d-f5d4-4750-a93d-ac13b318c40b.png)
   
-## Add the six CNAME records that are required for Office 365
+## Add the five CNAME records that are required for Office 365
 <a name="BKMK_add_CNAME"> </a>
 
 1. To get started, go to your domains page at AWS by using [this link](https://console.aws.amazon.com/route53/home). You'll be prompted to log in first.
@@ -158,11 +158,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![AWS-BP-Configure-3-2](../media/33964846-5282-44a4-b241-62ce02b96735.png)
   
-7. Add the other five CNAME records.
+7. Add the other four CNAME records.
     
     In the **Hosted Zones** page, choose **Create Record Set**, create a record using the values from the next row in the table, and then again choose **Create** to complete that record. 
     
-    Repeat this process until you have created all six CNAME records.
+    Repeat this process until you have created all five CNAME records.
     
 ## Add a TXT record for SPF to help prevent email spam
 <a name="BKMK_add_TXT"> </a>
