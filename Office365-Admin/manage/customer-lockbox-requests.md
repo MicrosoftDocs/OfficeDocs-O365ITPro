@@ -92,8 +92,7 @@ An Office 365 administrator can turn on Customer Lockbox controls in the Microso
 1.  Go to [https://admin.microsoft.com](https://admin.microsoft.com) and sign in with your work or school account.
 
 2.  Click **Support > Customer Lockbox Requests**.
-    
-    ![Click Support, then click Customer Lockbox Requests](../media/CustomerLockbox5.png)
+
 
     A list of Customer Lockbox requests are displayed.
 
