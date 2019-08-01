@@ -76,14 +76,17 @@ If you have new admin center turned off, watch the following video to sign up fo
 
 ::: moniker range="o365-worldwide"
 1. Sign in to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2024339), and then go to **Billing** \> **Purchase services**.
+
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 1. Sign in to the admin center at [https://portal.office.de](https://go.microsoft.com/fwlink/?linkid=847686), and then go to **Billing** \> **Purchase services**.
+
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 1. Sign in to the admin center at [https://portal.partner.microsoftonline.cn](https://go.microsoft.com/fwlink/?linkid=850628), and then go to **Billing** \> **Purchase services**.
+
 ::: moniker-end
 
 
