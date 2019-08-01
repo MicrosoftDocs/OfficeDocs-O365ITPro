@@ -117,7 +117,7 @@ Learn about resources available for Office 365 admins.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/caret-right.svg" alt="M365" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/caret-right-blue.svg" alt="M365" />
                         </div>
                     </div>
                     <div class="cardText">
