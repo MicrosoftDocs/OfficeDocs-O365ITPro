@@ -162,7 +162,7 @@
 ### [Azure Information Protection parity](services-in-china/parity-between-azure-information-protection.md)
 ## Get new features
 ### [About the admin center preview](microsoft-365-admin-center-preview.md)
-### [What's new in preview](whats-new-in-preview.md)
+### [What's new](whats-new-in-preview.md)
 ### [Stay on top of changes](manage/stay-on-top-of-updates.md)
 ### [Release options in Office 365](manage/release-options-in-office-365.md)
 ### [Message center](manage/message-center.md)

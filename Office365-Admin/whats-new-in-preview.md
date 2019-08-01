@@ -53,6 +53,7 @@ We've got some exciting changes to help you get your organization set up. First 
 - **Setup page** - The **Setup** page helps you finish setting up and securing the services that come with your subscriptions. You can also see any dismissed recommendations on the **Setup** page. To see if it's available for your subscriptions yet, go to the **Microsoft 365 admin center** > **Setup**.
 
 ### Billing & subscriptions
+
 - **Software** product type - You can now view software products purchased through a Cloud Service Provider (CSP). To see your downloads and keys, go to **Billing** > **Products & services** > **Software** tab.
 - You can view Modern Azure products and services from the Microsoft 365 admin center, whether you purchased them from Microsoft or a third-party provider. Examples of Modern Azure products included:
     - Azure Reserved Virtual Instances
@@ -63,20 +64,21 @@ We've got some exciting changes to help you get your organization set up. First 
     - Azure Subscriptions
 
 ### Simplify multi-factor authentication
+
 Admins have access to sensitive information in your organization. Require all admins to use multi-factor authentication when signing in. The new wizard helps you get it done with just one click. To try it out, go to **Setup** > **Strengthen sign-in security**.
 
-### Deleted groups
-In the old admin center, you could only restore deleted Office 365 groups from the Exchange admin center. We've now added that functionality to our admin center. After you delete an Office 365 group, you have 30 days until it is permanently deleted. Go to **Groups** > **Deleted groups** to restore it.
-
 ### Guest users
+
 The Guest users page was updated to the new style. You add guest users by inviting them to view or share files from SharePoint or OneDrive. You can view and manage guest users from **Users** > **Guest users**.
 
 ## June 2019
 
 ### Featured feedback request - Dark mode
+
 Viewing the admin center in dark mode is in preview! You can test it out on the **Home** page only right now. On the **Home** page, the **Dark mode** button is in the command bar next to the **What's new** link.
 
 ### Roles management
+
 At the end of June we started rolling out new way to manage admin roles. When it's available for you, go to **Roles** > **Roles**. Until then, take a look - it's awesome!
 <br> ![Screen capture: Admin roles list with User admin role details pane highlighted.](media/MAC-AdminRoles-Featured.png) <br>
 
