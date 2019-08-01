@@ -143,6 +143,11 @@ To allow your existing users to sign up for Power BI, run the opposite command a
 ## How do I remove Power BI for users that already signed up?
 
 If a user signed up for Power BI but you no longer want them to have access to Power BI, you can remove the Power BI license for that user.
+
+::: moniker range="o365-worldwide"
+### Remove Power BI using the new admin center
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
   
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
@@ -154,11 +159,40 @@ If a user signed up for Power BI but you no longer want them to have access to P
     
 5. Click **Save changes**.
     
+### Remove Power BI using the old admin center
+::: moniker-end
+  
+
+::: moniker range="o365-worldwide"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+::: moniker-end
+  
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+::: moniker-end 
+    
+2. Find the user you want to remove the license for, then click their name.
+    
+3. Next to **Product licenses**, choose **Edit**. 
+    
+4. Toggle off the **Microsoft Power BI** option.
+    
+5. Click **Save**.
+
 ## How do I know when new users have joined my tenant?
 
 Users who have joined your tenant as part of this program are assigned a unique license that you can filter on within your active user pane in the admin dashboard.
   
-To create this new view, in the admin center, go to **Users** \> **Active Users**, and on the **Select a View** menu, select **New View**. Name your new view, and under **Assigned license**, select **Microsoft Power BI**. After the new view has been created, you will be able to see all the users in your tenant who have enrolled in this program.
+To create this new view, in the admin center, follow the steps to in [Create a custom user view](../add-users/create-edit-or-delete-a-custom-user-view.md#create-a-custom-user-view). Under **Assigned product license**, select **Microsoft Power BI**. After the new view has been created, you will be able to see all the users in your tenant who have enrolled in this program.
   
 ## Are there any additional things I should be prepared for?
 
