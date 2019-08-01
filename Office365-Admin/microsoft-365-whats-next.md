@@ -20,28 +20,28 @@ description: "Find out what we're working on next for the Microsoft 365 admin ce
 
 # What's next for the Microsoft 365 admin center
 
-Welcome to **What's next for the Microsoft 365 admin center**! This article will tell you about new and improved features we're planning and developing so that you can prepare for change. 
+Welcome to **What's next for the Microsoft 365 admin center**! We’ve heard that you would like to know more about what’s coming to the Microsoft 365 admin center, so we are providing you a handy view - specific to your admin experience. You can also use the [Microsoft 365 Roadmap](https://www.microsoft.com/microsoft-365/roadmap) and the [Message Center](manage/stay-on-top-of-updates.md) to stay informed. 
 
-Because this article is a new experiment in the type of information that Microsoft is making available, here's the legal disclaimer:
 > [!WARNING]
 > The information contained in this article pertains only to the Microsoft 365 admin center and is not a promise of future functionality nor do we promise that the feature will be released in the time frame we've indicated. In addition, this information is not a complete list of all features being released. This article might be discontinued or deleted at any time.
 
-## Why are we doing this?
-We’ve heard that you would like to know more about what’s coming to the Microsoft 365 admin center, so we are providing you a handy view - specific to your admin experience. You can also use the [Microsoft 365 Roadmap](https://www.microsoft.com/microsoft-365/roadmap) and the [Message Center](manage/stay-on-top-of-updates.md) to stay informed.
-
 ## How to use this article
+
 We're looking forward to hearing from you and we'd like to use this article as a conversation starter between us - the admin and the engineering team. Every item listed in the "In the works" section has a link to our [Office UserVoice](https://office365.uservoice.com/forums/273493-office-365-admin) website, where we want you to vote for items that you're excited about, ask questions, and give us feedback.
 
 ## Released
+
 For the list of features we've released for the Microsoft 365 admin center, see [What's new in the Microsoft 365 admin center](whats-new-in-preview.md).
 
 ## In the works
-Here's a list of features that will most-likely be released soon. 
+
+Here's a list of features that will most-likely be released soon.
 
 ### Keyboard shortcuts
-You will be able to perform some of the most common admin center tasks with just your keyboard. Here's an example of some of the keyboard shortcuts that are coming:
+
+You'll be able to perform some of the most common admin center tasks with just your keyboard. Here's an example of some of the keyboard shortcuts that are coming:
 	
-- **Shift + A+ G**:  add group
+- **Shift + A + G**:  add group
 - **Shift + A + U**: add user
 - **Shift + A + C**: add contact
 - **Shift + R + P**: reset password
