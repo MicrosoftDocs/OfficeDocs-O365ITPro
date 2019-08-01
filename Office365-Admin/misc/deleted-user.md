@@ -30,18 +30,28 @@ You may have to delete a [user](../add-users/add-users.md) in your organization.
   
 ## Delete a user
 
-To delete a user: 
-  
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page
+### Delete a user in the new admin center
 
-2. Select a user, and then in the user pane choose **More (...)** > **Delete user**.
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+  
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+2. Select a user, and then above the list of users choose **More (...)** > **Delete user**.
   
 3. In the deletion confirmation pane, choose **Delete user**. <br/>[Read full article.](../add-users/delete-a-user.md)
   
+### Delete a user in the o,ld admin center
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+2. Select a user, and then above the list of users choose **More** > **Delete a user**.
+  
+3. In the deletion confirmation pane, choose **Delete user**. <br/>[Read full article.](../add-users/delete-a-user.md)
+
   
 ## Restore a user
 
-You can restore users by searching for **deleted** on the home page, and choose **Deleted users** under Tasks, or go to the **Deleted users** page and choose the user you want to restore. [Read full article](../add-users/delete-a-user.md).
+You can restore users by searching for **deleted** on the home page and choosing **Deleted users** in the results, or by going to the **Deleted users** page from the left navigation and choosing the user you want to restore. [Read full article](../add-users/delete-a-user.md).
   
 ## What are deleted users?
 
@@ -65,6 +75,6 @@ When you delete a user, you don't lose their data. The user's data is stored for
   
 ## How do I restore a user?
 
-You can restore users by searching for **deleted** on the home page, and choose **Deleted users** under Tasks, or go to the **Deleted users** page and choose the user you want to restore. [Read full article](../add-users/delete-a-user.md).
+You can restore users by searching for **deleted** on the home page and choosing **Deleted users** in the results, or by going to the **Deleted users** page from the left navigation and choosing the user you want to restore. [Read full article](../add-users/delete-a-user.md).
   
 
