@@ -39,7 +39,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 3. Follow the steps in the VLSC to complete your purchase. 
 
-### Add licenses using the new admin center
+### Add licenses using the old admin center
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
 
 ::: moniker-end
 
