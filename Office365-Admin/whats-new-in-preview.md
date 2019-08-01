@@ -47,7 +47,7 @@ The Message center has been updated to the new design and it looks amazing!
  The navigation pane now remembers your last actions and shows you the pane in the last state that you left it in. It will also make frequently used items visible by default.
 
 ### Initial setup & the Setup page
-We've got some exciting changes to help you get your organization set up. First off, let's discuss the difference between **setup** and the **Setup page**. **Setup** refers to the initial setup wizard that you used to onboard to Microsoft's online services. That ususally includes three specific steps: **Connect a domain**, **Add users**, and **Download the Office apps**. The **Setup page** is the page in the admin center that has recommended set up tasks to ensure that you're getting the most out of your subscriptions - like turning on features you've purchased licenses for.
+We've got some exciting changes to help you get your organization set up. First off, let's discuss the difference between **setup** and the **Setup page**. **Setup** refers to the initial setup wizard that you used to onboard to Microsoft's online services. That usually includes three specific steps: **Connect a domain**, **Add users**, and **Download the Office apps**. The **Setup page** is the page in the admin center that has recommended set up tasks to ensure that you're getting the most out of your subscriptions - like turning on features you've purchased licenses for.
 
 - **Setup** - The initial setup wizard has been updated for **Office 365 for Business** subscriptions. This new design will help new organizations get through the wizard faster and with greater success.
 - **Setup page** - The **Setup** page helps you finish setting up and securing the services that come with your subscriptions. You can also see any dismissed recommendations on the **Setup** page. To see if it's available for your subscriptions yet, go to the **Microsoft 365 admin center** > **Setup**.
@@ -64,6 +64,12 @@ We've got some exciting changes to help you get your organization set up. First 
 
 ### Simplify multi-factor authentication
 Admins have access to sensitive information in your organization. Require all admins to use multi-factor authentication when signing in. The new wizard helps you get it done with just one click. To try it out, go to **Setup** > **Strengthen sign-in security**.
+
+### Deleted groups
+In the old admin center, you could only restore deleted Office 365 groups from the Exchange admin center. We've now added that functionality to our admin center. After you delete an Office 365 group, you have 30 days until it is permanently deleted. Go to **Groups** > **Deleted groups** to restore it.
+
+### Guest users
+The Guest users page was updated to the new style. You add guest users by inviting them to view or share files from SharePoint or OneDrive. You can view and manage guest users from **Users** > **Guest users**.
 
 ## June 2019
 
