@@ -22,35 +22,35 @@ f1_keyword: MACDashWhatsNew
 
 # What's new in the Microsoft 365 admin center
 
-We're continuously adding new features to [the Microsoft 365 admin center](microsoft-365-admin-center-preview.md), fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today. Some features get rolled out at different speeds to our customers. If you aren't seeing a feature yet, [try adding yourself to targeted release](manage/release-options-in-office-365.md).
+We're continuously adding new features to [the Microsoft 365 admin center](microsoft-365-admin-center-preview.md), fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today. Some features get rolled out at different speeds to our customers. If you aren't seeing a feature yet, [try adding yourself to targeted release](manage/release-options-in-office-365.md). 
 
 > [!TIP]
-> Interested in what we're currently working on and plan to release soon? Check out [What's next for the Microsoft 365 admin center](microsoft-365-whats-next.md). 
+> Interested in what we're currently working on and plan to release soon? Check out [What's next for the Microsoft 365 admin center](microsoft-365-whats-next.md).
 
 ## July 2019
 
 ### Message center
 The Message center has been updated to the new design and it looks amazing! 
 
-![Screen capture: Updated message center with the 'high importance' tab selected.](media/MAC-MessageCenterUpdated.png)
+![Screen capture: Updated Message center with the 'All active messages' tab selected and the Filter menu opened.](media/MAC-MessageCenterUpdated.png)
 
-- **View by message status**: You can now view messages by status. Just select one of the tabs: **Active messages**, **High importance**, **Unread messages**, and **Dismissed messages**.
-- **Filter by category:** You can also filter by **Data privacy**, **Plan for change**, **Prevent or fix issues**, and **Stay informed** message categories.
-- Select a message from the list and you have a few options: You can **Dismiss**, **Mark as read** or **Mark as unread**, or **Share the message**. 
+- **View by message status**: You can now view messages by status. Just select one of the tabs: **All active messages**, **High importance**, **Unread messages**, and **Dismissed messages**.
+- **Filter by category**: You can also filter by **Data privacy**, **Plan for change**, **Prevent or fix issues**, and **Stay informed** message categories.
+- Select a message from the list and you have a few options in the command bar: **Dismiss**, **Mark as read** or **Mark as unread**, or **Share the message**. 
 - And when you open a message, you have even more options:
-    - Copy a link of the message to your clipboard to save it for later or share it with colleagues. 
+    - Copy a link of the message to your clipboard to save it for later or to share it with colleagues. 
     -  Mark messages as **Read** or **Unread**. 
-    -  When you select **Like** or **Dislike**, a feedback pane opens asking you to provide specific feedback on what you liked or didn't like about this message.
+    -  Give feedback about a message by selecting **Like** or **Dislike**, a feedback pane opens asking you to provide specific feedback on what you liked or didn't like about this message.
 
 ### Navigation pane intelligence
 
  The navigation pane now remembers your last actions and shows you the pane in the last state that you left it in. It will also make frequently used items visible by default.
 
 ### Initial setup & the Setup page
-We've got some exciting changes to help you get your organization set up. First off, let's discuss the difference between **setup** and the **Setup page**. **Setup** refers to the initial wizard that you used to onboard to Microsoft's online services. That includes three specific steps: **Connect a domain**, **Add users**, and **Download the Office apps**. The **Setup page** is the page in the admin center that has recommended set up tasks to ensure that you're getting the most out of your subscriptions - like turning on features you've purchased licenses for.
+We've got some exciting changes to help you get your organization set up. First off, let's discuss the difference between **setup** and the **Setup page**. **Setup** refers to the initial setup wizard that you used to onboard to Microsoft's online services. That ususally includes three specific steps: **Connect a domain**, **Add users**, and **Download the Office apps**. The **Setup page** is the page in the admin center that has recommended set up tasks to ensure that you're getting the most out of your subscriptions - like turning on features you've purchased licenses for.
 
 - **Setup** - The initial setup wizard has been updated for **Office 365 for Business** subscriptions. This new design will help new organizations get through the wizard faster and with greater success.
-- **Setup page** - The **Setup** page helps you finish setting up and securing the services that come with your subscriptions. You can also see any dismissed recommendations on the **Setup** page. To see if it's available for your subscription, go to the **Microsoft 365 admin center** > **Setup**.
+- **Setup page** - The **Setup** page helps you finish setting up and securing the services that come with your subscriptions. You can also see any dismissed recommendations on the **Setup** page. To see if it's available for your subscriptions yet, go to the **Microsoft 365 admin center** > **Setup**.
 
 ### Billing & subscriptions
 - **Software** product type - You can now view software products purchased through a Cloud Service Provider (CSP). To see your downloads and keys, go to **Billing** > **Products & services** > **Software** tab.
