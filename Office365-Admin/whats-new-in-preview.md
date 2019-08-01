@@ -67,9 +67,12 @@ We've got some exciting changes to help you get your organization set up. First 
 
 Admins have access to sensitive information in your organization. Require all admins to use multi-factor authentication when signing in. The new wizard helps you get it done with just one click. To try it out, go to **Setup** > **Strengthen sign-in security**.
 
-### Guest users
+### Users
 
-The Guest users page was updated to the new style. You add guest users by inviting them to view or share files from SharePoint or OneDrive. You can view and manage guest users from **Users** > **Guest users**.
+The **Deleted users** and **Guest users** pages were updated to the new style.
+
+- **Guest users**: You add guest users by inviting them to view or share files from SharePoint or OneDrive. You can view guest users from **Users** > **Guest users**.
+- **Deleted users**: On the updated **Deleted users** page, you can do all the actions that you could in the older admin center, but now you add and remove columns. And we have a lot of column options to choose from. In fact, it's the same columns that you can choose on the **Active users** page.
 
 ## June 2019
 
