@@ -23,7 +23,7 @@ description: "Change subscriptions manually by buying a new subscription and ens
 # Change plans manually
 
 > [!NOTE]
-> This article applies to the admin center (preview). The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md). To view the article about the old admin center, see [Switch Office 365 for business plans manually](switch-plans-manually.md).
+> This article applies to the new admin center. The new admin center is available to all Microsoft 365 admins, and you can opt in by selecting **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md). To view the article about the old admin center, see [Switch Office 365 for business plans manually](switch-plans-manually.md).
 
 ## Step 1: Decide how to change plans
 
