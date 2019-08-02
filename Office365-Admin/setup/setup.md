@@ -250,7 +250,7 @@ To take a tour of Office 365 and learn how to use all the Office mobile apps, se
   
 ## [Business](#tab/Business)
   
- *The **[Office 365 Business Plan](https://go.microsoft.com/fwlink/p/?LinkId=627219)** plan does not include Office 365 email or Skype for Business. In these setup steps, we show you how to add your existing email account (such as Gmail) to Outlook. * 
+ *The **[Office 365 Business Plan](https://go.microsoft.com/fwlink/p/?LinkId=627219)** plan does not include Office 365 email or Skype for Business. In these setup steps, we show you how to add your existing email account (such as Gmail) to Outlook.* 
 
 ### 1. Add users
 
