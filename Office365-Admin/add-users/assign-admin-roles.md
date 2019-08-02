@@ -111,7 +111,6 @@ You need a mobile phone that's capable of receiving text messages for password r
 
 5. When you have finished, choose **Save**.
 
-::: moniker-end
 
 ### Assign admin roles to multiple users
 
