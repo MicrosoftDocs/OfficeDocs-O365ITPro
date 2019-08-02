@@ -107,13 +107,13 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 5. Expand the **Licenses** section, choose the boxes for the licenses that you want to assign, then choose **Save changes**.
 
-::: moniker-end
 
-::: moniker range="o365-worldwide"
 ### Use the old admin center to assign licenses to one user
-::: moniker-end
-  
+
+ 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+::: moniker-end
 
 ::: moniker range="o365-germany"
 
