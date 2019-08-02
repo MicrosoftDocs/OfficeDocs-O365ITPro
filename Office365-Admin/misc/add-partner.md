@@ -111,11 +111,11 @@ Follow the steps on the providers page to either search for, or to get matched w
 
 ## Add a partner to an existing subscription
 
+::: moniker range="o365-worldwide"
+
 ### Use the new admin center to add a partner 
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
-::: moniker range="o365-worldwide"
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
     
@@ -125,41 +125,10 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 4. Click **Add**.
 
-    
-::: moniker-end
-
-::: moniker range="o365-germany"
-
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Products & services</a> page.
-    
-2. If you have more than one subscription, select the subscription you want to edit.
-  
-3. On the subscription page, select the **Partner** tab, and then type the Partner Network ID for the partner you're adding You can get the partner's Microsoft Partner ID by asking the partner for it.
-    
-4. Click **Add**.
-    
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-This process is initiated by your authorized partner. The partner sends you an email to ask you if you want to give them permission to act as a partner of record. 
-  
-To accept this offer
-  
-1. Read the partner's terms in the email.
-    
-2. To authorize the agreement, click the link, which goes to an authorization page in Office 365.
-    
-3. Under **Partner Relationships**, choose **Yes** to authorize the partner to be your delegated admin, and then choose **Next**.
-    
-4. If the offer for partner relationship came with a trial subscription or a purchase offer, create your trial or subscription account.
-    
-::: moniker-end
-
 
 ### Use the old admin center to add a partner 
+  
 
-::: moniker range="o365-worldwide"
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
     
@@ -171,7 +140,6 @@ To accept this offer
 
 5. The partner ID displays on the **Subscriptions** page.
 
-    
 ::: moniker-end
 
 ::: moniker range="o365-germany"
@@ -206,6 +174,8 @@ To accept this offer
 
 ## Change the partner for a subscription
 
+::: moniker range="o365-worldwide"
+
 ### Use the new admin center to change the partner
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
@@ -221,7 +191,22 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
  ### Use the old admin center to change the partner 
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
-    
+  
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
+  
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+  
+::: moniker-end
+
+
 2. If you have multiple subscriptions, select the name of the subscription you want to edit.
     
 3. Under the **Partner ID**, select **Edit partner of record**.
@@ -235,6 +220,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   If you don't have a partner, you'll see a message that says "There's nothing here."
   
 ## Delete a partner from a subscription
+
+::: moniker range="o365-worldwide"
 
 ### Use the new admin center to delete a partner
 
@@ -252,7 +239,23 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 ### Use the old admin center to delete a partner 
 
 1.  In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
-    
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
+  
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+  
+::: moniker-end
+
+   
+
 2. If you have multiple subscriptions, select the name of the subscription you want to edit.
     
 3. Under the **Partner ID**, select **Edit partner of record**.
