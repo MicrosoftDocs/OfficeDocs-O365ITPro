@@ -48,29 +48,15 @@ You can create up to 400 aliases for a user. No additional fees or licenses are 
 
 You must have [admin permissions](../add-users/about-admin-roles.md) to do this. 
 
+  
+::: moniker range="o365-worldwide"
+
 ### Use the new admin center to add an email alias to a user
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
-  
-::: moniker range="o365-worldwide"
-
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-::: moniker-end
-
-::: moniker range="o365-germany"
-    
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page. 
-    
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
-
-::: moniker-end
-    
 2. On the **Active Users** page, select the user > **Manage email aliases**. You won't see this option if the person doesn't have a license assigned to them. 
     
 3. Choose **+ Add an alias** and enter a new alias for the user.   
@@ -96,8 +82,6 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 7. **When the user replies, the *From*  address will be her primary email alias.** For example, let's say a message is sent to Sales@NodPublishers.com, and it arrives in Eliza's inbox. When Eliza replies to the message, her primary email address will appear as the sender, not Sales@NodPublishers.com. 
     
 ### Use the old admin center to add an email alias to a user
-
-::: moniker range="o365-worldwide"
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
