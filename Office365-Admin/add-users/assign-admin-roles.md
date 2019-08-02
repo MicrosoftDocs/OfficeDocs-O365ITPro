@@ -33,11 +33,11 @@ For more information, see [About admin roles](about-admin-roles.md).
 
 When you add new users, if you don't assign them an admin role then they are in the *user role* and don't have admin privileges to any of the Microsoft admin centers. But if you need help getting things done, you can assign an admin role to a user. For example, if you need someone to help reset passwords, you shouldn't assign them the global admin role, you should assign them the password admin role. Having too many global admins, with unlimited access to your data and online business, is a security risk.
 
+::: moniker range="o365-worldwide"
 ## Assign admin roles to a user from the old admin center
 
 We've got a new roles experience that started rolling out in June. Want to try it out? See [Assign admin roles to a user from the new admin center](#assign-admin-roles-to-a-user-from-the-new-admin-center).
 
-::: moniker range="o365-worldwide"
 1.  In the admin center, go to the **Users** > <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
@@ -60,6 +60,9 @@ We've got a new roles experience that started rolling out in June. Want to try i
 
 3. Choose **Customized administrator** to see a list of roles we've customized for you. For a description of each role, see [About admin roles.](about-admin-roles.md)
 
+
+::: moniker range="o365-worldwide"
+
 ## Assign admin roles to a user from the new admin center
 
 This new roles experience is rolling out to organizations starting at the end of June. If you aren't seeing the new **Roles** page, see [Assign admin roles from the classic admin center](assign-admin-roles.md#assign-admin-roles-to-a-user-from-the-classic-admin-center) earlier in this article.
@@ -80,27 +83,13 @@ In the new admin center, you can assign users to a role in 2 different ways:
 
 ### Assign a user to an admin role from Active users
 
-::: moniker range="o365-worldwide"
-
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
-
-::: moniker-end
-
-::: moniker range="o365-germany"
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a>) page.
-
-::: moniker-end
 
 2. On the **Active users** page, select the user whose admin role you want to change. In the flyout pane, next to **Roles**, choose **Manage roles**.
 
 3. Select the admin role that you want to assign to the user. If you don't see the role you're looking for, select **Show all** at the bottom of the list.
+
+::: moniker-end
 
 ## More info about admin role settings
 
@@ -122,34 +111,16 @@ You need a mobile phone that's capable of receiving text messages for password r
 
 5. When you have finished, choose **Save**.
 
+::: moniker-end
+
 ### Assign admin roles to multiple users
 
 If you know PowerShell, see [Assign roles to user accounts with PowerShell](https://go.microsoft.com/fwlink/?linkid=854257). It's ideal for assigning roles to hundreds of users.
   
 Use the following instructions to assign roles to tens of users.
 
-#### In the new admin center
-
 ::: moniker range="o365-worldwide"
-1.  In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-::: moniker-end
-
-::: moniker range="o365-germany"
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-1.In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
-
-::: moniker-end
-
-2. On the **Active users** page, check the box next to the names of the users whose admin roles you want to change, and then click **Edit user roles**.
-
-3. Choose the roles you want to assign, and the click **Save**.
 
 ## Didn't work for you?
 
