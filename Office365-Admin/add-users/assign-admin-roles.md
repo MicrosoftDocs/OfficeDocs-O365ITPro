@@ -54,7 +54,7 @@ We've got a new roles experience that started rolling out in June. Want to try i
 
 ::: moniker-end
 
-2. On the **Active users** page, select the user whose admin role you want to change. In the flyout pane, under **Roles**, click **Manage roles**. 
+2. On the **Active users** page, select the user whose admin role you want to change. In the flyout pane, next to **Roles**, choose **Edit**. 
 
     If you don't see the **Edit** option, then you don't have a permission to edit and can't assign admin roles to other people. Ask a global admin in your business to assign roles for you. In a small business, the business owner (the person who purchased your subscription) is a global admin. In a large business, key people in the IT department are global admins.
 
