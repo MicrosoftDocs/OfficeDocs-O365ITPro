@@ -69,10 +69,23 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
    
 #### Use the old admin center to delete a user
  
-::: moniker-end
- 
+
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
-    
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+::: moniker-end
+   
 3. Select the user you want to delete, and then choose **Delete user**.
     
 
@@ -134,10 +147,22 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
  
 #### Use the old admin center to remove a license
 
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page. If you don't see this option, you aren't a global admin or billing admin, and can't do this step. 
+   
 ::: moniker-end
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page. If you don't see this option, you aren't a global admin or billing admin, and can't do this step. 
-    
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. If you don't see this option, you aren't a global admin or billing admin, and can't do this step. 
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page. If you don't see this option, you aren't a global admin or billing admin, and can't do this step. 
+
+::: moniker-end 
+
 2. Choose the subscription (if you have more than one) and then choose **Add/Remove licenses** to delete the license so you don't pay for it until you hire another person.  
 
    Later when you go through the steps to add another person to your business, you'll be prompted to buy a license at the same time, with just one click!
