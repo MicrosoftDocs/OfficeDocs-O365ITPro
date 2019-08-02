@@ -43,6 +43,8 @@ If you remove a user's license but don't delete the account, you retain access t
 
 To preserve a former user's OneDrive for Business documents you first access their OneDrive site and then move the files. 
 
+::: moniker range="o365-worldwide"
+
 ### Use the new admin center to access a former user's OneDrive documents
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
@@ -58,6 +60,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     
 ### Use the old admin center to access a former user's OneDrive documents
+
+::: moniker-end
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
     
