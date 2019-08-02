@@ -35,19 +35,23 @@ You use the admin center to set up your organization in the cloud, manage users,
 
 ## How to get to the admin center
 
+::: moniker range="o365-worldwide"
+
 1. Sign in at [admin.microsoft.com](https://admin.microsoft.com) with your admin account.
-    
-    ::: moniker range="o365-germany"
 
-    If you're using Office 365 Germany, <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">sign in here</a> with your admin account. 
+::: moniker-end
 
-    ::: moniker-end
+::: moniker range="o365-germany"
 
-    ::: moniker range="o365-21vianet"
+1. Sign in to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center </a> with your admin account. 
 
-    If you're using Office 365 operated by 21Vianet, <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">sign in to Office 365 operated by 21Vianet</a> with your admin account. 
+::: moniker-end
 
-    ::: moniker-end
+::: moniker range="o365-21vianet"
+
+1. Sign in to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a> with your admin account. 
+
+::: moniker-end
 
 2. Select the app launcher icon in the upper-left and choose **Admin**.
     
