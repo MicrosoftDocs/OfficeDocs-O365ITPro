@@ -60,9 +60,6 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, choose **Submit payment**.
 
-::: moniker-end
-
-::: moniker range="o365-worldwide"
 #### Use the old admin center to pay your outstanding balance
 ::: moniker-end
   

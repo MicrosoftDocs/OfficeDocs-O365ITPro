@@ -87,10 +87,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     Your subscription will now appear in a **Disabled** state, and will have reduced functionality until it is deleted. For more information about what you can expect when a paid Office 365 for business subscription is cancelled, see [What happens to my data and access when my Office 365 for business subscription ends?](what-if-my-subscription-expires.md)
 
-::: moniker-end
-
-::: moniker range="o365-worldwide"
 ### Use the old admin center to cancel your subscription
+
 ::: moniker-end
   
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
