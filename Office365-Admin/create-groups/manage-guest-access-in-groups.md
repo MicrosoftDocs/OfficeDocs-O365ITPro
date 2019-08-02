@@ -29,7 +29,8 @@ Admins can control whether to allow guest access to Groups for their whole organ
 ### View guest users
 
 - In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074830" target="_blank">Guest users</a> page.
-    
+ 
+::: moniker range="o365-worldwide"   
    
 ### Use the new admin center to add existing guests to an Office 365 Group
 
@@ -46,6 +47,8 @@ If the guest already exists in your directory (see above), you can add them to y
 5. Choose **Save**.
     
 ### Use the old admin center to add existing guests to an Office 365 Group
+
+::: moniker-end
 
 If the guest already exists in your directory (see above), you can add them to your groups from the Office Admin Center or the Exchange Admin Center.
 
