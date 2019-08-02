@@ -46,7 +46,6 @@ While users can create an Office 365 group from Outlook or other apps, as an adm
 
 1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=850627), go to the **Groups** > **Groups** page. 
 
-
 ::: moniker-end
 
 2. Choose **Add a group**.
@@ -67,7 +66,9 @@ While users can create an Office 365 group from Outlook or other apps, as an adm
     
 ## Configure the group
 
-Once the group has been created, you can add members and configure additional settings:
+Once the group has been created, you can add members and configure additional settings.
+
+::: moniker range="o365-worldwide"
   
 ### Use the new admin center to add members to a group
 
@@ -88,6 +89,8 @@ Users can [add themselves or request approval](https://support.office.com/articl
 The group will appear in Outlook with members assigned to it.
 
 ### Use the old admin center to add members to a group
+
+::: moniker-end
 
 Users can [add themselves or request approval](https://support.office.com/article/Join-a-group-in-Outlook-2e59e19c-b872-44c8-ae84-0acc4b79c45d), or you can add them now.
 
@@ -111,6 +114,8 @@ When you turn this setting on, group members will get a copy of group emails and
 
 Group members can opt out of receiving these emails by choosing to stop following the group in Outlook.
 
+::: moniker range="o365-worldwide"
+
 #### Use the new admin center to send copies of conversations to group members' inboxes
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
@@ -121,8 +126,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 3. Choose **Save**.
 
-
 #### Use the old admin center to send copies of conversations to group members' inboxes
+
+::: moniker-end
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page, and then click the group you want to change.
 
@@ -135,7 +141,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 ### Let people outside the organization email the group
 
 This option is great if you want to have a company email address such as info@contoso.com.
-  
+ 
+::: moniker range="o365-worldwide"
+ 
 #### Use the new admin center to let people outside the organization email the group
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
@@ -148,6 +156,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 
 #### Use the old admin center to let people outside the organization email the group
+
+::: moniker-end
 
 1. Refresh your admin center page so your new group appears.
     
