@@ -44,29 +44,13 @@ The people on your team each need a user account before they can sign in and acc
 > [!TIP]
 > Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
 
-::: moniker-end
 
 ### Use the new admin center to add users  
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
-::: moniker range="o365-worldwide"
-
 1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>.
 
-::: moniker-end
-
-::: moniker range="o365-germany"
-
-1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">https://portal.office.de/adminportal</a>.
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">https://portal.partner.microsoftonline.cn</a>.
-
-::: moniker-end
 
 2. Go to **Users** > **Active users**, and choose **Add a user**.
    
@@ -90,8 +74,6 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ### Use the old admin center to add users  
  
-::: moniker range="o365-worldwide"
-
 1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>.
 
 ::: moniker-end
