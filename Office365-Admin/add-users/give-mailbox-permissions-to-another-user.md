@@ -60,10 +60,11 @@ There are a few different ways you can access a mailbox once you've been given a
   
 ## Send email from another user's mailbox
 
+::: moniker range="o365-worldwide"
+
 ### Use the new admin center to send email from another user's mailbox
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
     
@@ -78,6 +79,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 6. Click **Save**.
  
 ### Use the old admin center to send email from another user's mailbox
+
+::: moniker-end
    
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
 
@@ -90,6 +93,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 6. Click **Save**.
   
 ## Read email in another user's mailbox
+
+::: moniker range="o365-worldwide"
 
 ### Use the new admin center to read email in another user's mailbox
 
@@ -109,6 +114,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 ### Use the old admin center to read email in another user's mailbox
   
+::: moniker-end
+
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
     
 2. Choose the user you want, expand **Mail Settings**, and then click **Edit** next to **Mailbox permissions**.
@@ -123,6 +130,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 
 ## Send email on behalf of another user
+
+::: moniker range="o365-worldwide"
 
 ### Use the new admin center to send email on behalf of another user
 
@@ -141,6 +150,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 6. Click **Save**.
     
 ### Use the old admin center to send email on behalf of another user
+
+::: moniker-end
+
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
 
