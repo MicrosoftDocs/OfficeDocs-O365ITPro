@@ -56,6 +56,8 @@ Before you begin, think about what you want to do with the user's email and OneD
 
 Since the guided experience walks through the steps to delete a user, here's how to get started.
 
+::: moniker range="o365-worldwide"
+
 #### Use the new admin center to delete a user
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
@@ -66,7 +68,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
    
 #### Use the old admin center to delete a user
-  
+ 
+::: moniker-end
+ 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
 3. Select the user you want to delete, and then choose **Delete user**.
@@ -82,7 +86,6 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 ### Use the new admin center to delete one or more users
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
 
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
@@ -117,6 +120,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 Reducing the number of licenses is a separate step that can only be performed by the global admin or billing admin. 
   
+::: moniker range="o365-worldwide"
+
 #### Use the new admin center to remove a license
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
@@ -128,6 +133,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
    Later when you go through the steps to add another person to your business, you'll be prompted to buy a license at the same time, with just one click!
  
 #### Use the old admin center to remove a license
+
+::: moniker-end
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page. If you don't see this option, you aren't a global admin or billing admin, and can't do this step. 
     
