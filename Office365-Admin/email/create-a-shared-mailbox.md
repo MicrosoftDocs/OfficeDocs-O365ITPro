@@ -86,6 +86,8 @@ Every shared mailbox has a corresponding user account. Notice how you weren't as
 
 But what if an admin simply resets the password of the shared mailbox user account? Or what if an attacker gains access to the shared mailbox account credentials? This would allow the user account to log in to the shared mailbox and send email. To prevent this, you need to block sign-in for the account that's associated with the shared mailbox.
 
+::: moniker range="o365-worldwide"
+
 ### Use the new admin center to block sign-in for the shared mailbox account
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
@@ -103,6 +105,20 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 ### Use the old admin center to block sign-in for the shared mailbox account
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+::: moniker-end
 
 2. In the list of user accounts, find the account for the shared mailbox (for example, change the view to **Unlicensed users**) and then select the account.
 
