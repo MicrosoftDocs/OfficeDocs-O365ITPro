@@ -145,7 +145,8 @@ To allow your existing users to sign up for Power BI, run the opposite command a
 If a user signed up for Power BI but you no longer want them to have access to Power BI, you can remove the Power BI license for that user.
 
 ::: moniker range="o365-worldwide"
-### Remove Power BI using the new admin center
+
+### Use the new admin center to remove Power BI 
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
   
@@ -159,7 +160,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 5. Click **Save changes**.
     
-### Remove Power BI using the old admin center
+### Use the old admin center to remove Power BI 
+
 ::: moniker-end
   
 

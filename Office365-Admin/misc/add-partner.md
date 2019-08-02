@@ -111,7 +111,7 @@ Follow the steps on the providers page to either search for, or to get matched w
 
 ## Add a partner to an existing subscription
 
-### Add a partner using the new admin center
+### Use the new admin center to add a partner 
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
@@ -157,7 +157,7 @@ To accept this offer
 ::: moniker-end
 
 
-### Add a partner using the old admin center
+### Use the old admin center to add a partner 
 
 ::: moniker range="o365-worldwide"
 
@@ -206,7 +206,7 @@ To accept this offer
 
 ## Change the partner for a subscription
 
-### Change the partner using the new admin center
+### Use the new admin center to change the partner
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
@@ -218,7 +218,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
 4. Type the new Microsoft Partner ID for the partner you're adding, select **Check ID**, and then **Submit**. You can get the partner's Microsoft Partner ID by asking the partner for it.
 
- ### Change the partner using the old admin center
+ ### Use the old admin center to change the partner 
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
     
@@ -236,7 +236,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
 ## Delete a partner from a subscription
 
-### Delete a partner using the new admin center
+### Use the new admin center to delete a partner
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
@@ -249,7 +249,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 6. On the **Partner information** page, clear the **partner ID** box, and then select **Submit**.
     
 
-### Delete a partner using the old admin center
+### Use the old admin center to delete a partner 
 
 1.  In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
     

@@ -104,7 +104,7 @@ If administration is distributed across your organization, you may not want or n
 - Filter messages
 - Opt-in to receive a weekly digest of messages in email, to make sure you never miss an important post. 
 
-#### Set your Message center preferences using the new admin center
+#### Use the new admin center to set your Message center preferences 
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
@@ -117,7 +117,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 4. Click **Save** to keep your changes.
 
 
-#### Set your Message center preferences using the old admin center
+#### Use the old admin center to set your Message center preferences 
   
 1. Select **Edit Message center preferences** at the top of Message center. 
     

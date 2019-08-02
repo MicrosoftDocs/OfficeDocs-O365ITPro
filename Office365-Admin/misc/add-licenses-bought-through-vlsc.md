@@ -28,7 +28,7 @@ Licenses for Office 365 Business Essentials, Office 365 Business, Office 365 Bus
 
 ::: moniker range="o365-worldwide"
 
-### Add licenses using the new admin center
+### Use the new admin center to add licenses
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
@@ -39,7 +39,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 3. Follow the steps in the VLSC to complete your purchase. 
 
-### Add licenses using the old admin center
+### Use the old admin center to add licenses 
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
 

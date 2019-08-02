@@ -34,7 +34,7 @@ Did you get this error when you were creating a new user? "This email address is
 
 Before you begin, make sure you've noted which user you need to remove the email address from.
 
-### Remove the email address using the new admin center
+### Use the new admin center to remove the email address 
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
@@ -50,7 +50,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 
 
-### Remove the email address using the old admin center
+### Use the old admin center to remove the email address 
   
 1. There are two ways you can find a user's account information: 
     

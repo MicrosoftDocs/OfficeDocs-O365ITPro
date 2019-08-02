@@ -125,7 +125,7 @@ You can also use PowerShell to move users to another domain. See [Set-MsolUserPr
   
 ### Step 2: Move groups to another domain
 
-#### Move groups using the new admin center
+#### Use the new admin center to move groups 
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
@@ -153,7 +153,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 4. Choose **Save**, then **Close**. Repeat this process for any groups or distribution lists associated with the domain that you want to remove.
     
-#### Move groups using the old admin center
+#### Use the old admin center to move groups 
 
 
 ::: moniker range="o365-worldwide"
