@@ -71,9 +71,9 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
 
 ::: moniker-end
 
-## Add a partner at the time of purchase
-
 ::: moniker range="o365-worldwide"
+
+## Add a partner at the time of purchase
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=868433" target="_blank">Purchase services</a> page.
     
@@ -87,11 +87,12 @@ Follow the steps on the providers page to either search for, or to get matched w
 5. Type the Microsoft Partner ID for the partner you're adding. You can get the partner's Microsoft Partner ID by asking the partner for it.
 
 6. Complete the rest of the wizard to finish buying your subscriptions. 
-
     
 ::: moniker-end
 
 ::: moniker range="o365-germany"
+
+## Add a partner at the time of purchase
 
 1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=848041), go to the **Billing** \> **Purchase services**  page.
     
