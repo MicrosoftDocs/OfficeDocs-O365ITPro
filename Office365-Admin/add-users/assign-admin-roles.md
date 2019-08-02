@@ -65,7 +65,7 @@ We've got a new roles experience that started rolling out in June. Want to try i
 
 ## Assign admin roles to a user from the new admin center
 
-This new roles experience is rolling out to organizations starting at the end of June. If you aren't seeing the new **Roles** page, see [Assign admin roles from the classic admin center](assign-admin-roles.md#assign-admin-roles-to-a-user-from-the-classic-admin-center) earlier in this article.
+This new roles experience is rolling out to organizations starting at the end of June. If you aren't seeing the new **Roles** page, see [Assign admin roles from the old admin center](assign-admin-roles.md#assign-admin-roles-to-a-user-from-the-old-admin-center) earlier in this article.
 
 In the new admin center, you can assign users to a role in 2 different ways:
 

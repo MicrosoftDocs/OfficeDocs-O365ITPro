@@ -43,27 +43,13 @@ As the admin of an Office 365 organization, you might have company requirements 
     
 You must have [admin permissions](../add-users/about-admin-roles.md) in Office 365 to do these steps. 
 
+::: moniker range="o365-worldwide"
+
 ### Use the new admin center to configure email forwarding
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
-::: moniker range="o365-worldwide"
-
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
-
-::: moniker-end
-
-::: moniker range="o365-germany"
-    
- 1.   In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page. 
-    
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
- 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
-
-::: moniker-end 
     
 2. Click the name of the user whose email you want to forward to open the properties page. 
  
@@ -78,8 +64,6 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 5. Don't delete the account of the user who's email you're forwarding or remove their license!  If you do, email forwarding will stop. 
     
 ### Use the old admin center to configure email forwarding
-
-::: moniker range="o365-worldwide"
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
