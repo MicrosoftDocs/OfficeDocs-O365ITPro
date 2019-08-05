@@ -51,6 +51,8 @@ There are also [Groups in Exchange Online and SharePoint Online](#groups-in-exch
  
 ### Add members to a security group
 
+::: moniker range="o365-worldwide"
+
 #### Use the new admin center to add members
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
@@ -62,7 +64,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     To remove members, choose the X next to their name. 
   
 #### Use the old admin center to add members
-    
+  
+::: moniker-end
+  
 1. Click the security group name on the **Groups** page, and then choose the **Edit** tab next to **Members**. 
     
 2. In the group pane, choose **Add members** and select the person from the list or type the name of the person you want to add in the **Search** box, and then choose **Save**.
@@ -70,6 +74,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     To remove members, choose the X next to their name. 
   
 ### Edit a security group
+
+::: moniker range="o365-worldwide"
 
 #### Use the new admin center to edit a security group 
 
@@ -86,6 +92,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 4. After you've made changes choose **Save** \> **Close**.
     
 #### Use the old admin center to edit a security group 
+
+::: moniker-end
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
   
