@@ -76,9 +76,6 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 4. Update your billing address, then choose **Save** \> **Done**.
 
-::: moniker-end
-
-::: moniker range="o365-worldwide"
 ### Use the old admin center to change your Bill-To address
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
