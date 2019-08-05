@@ -29,7 +29,9 @@ Click on a message to open it in the reading pane. Every message contains a summ
   
 ## Filter and sort
 
-### Filter and sort in the new admin center
+::: moniker range="o365-worldwide"
+
+### Use the new admin center to filter and sort
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
@@ -37,7 +39,9 @@ Use the **Filter** drop-down menu to select a filtered view of messages.
 
 You can click on any column heading to sort messages in ascending or descending order. For example, in this diagram the messages are sorted on the **Act by** date.
 
-### Filter and sort in the old admin center
+### Use the old admin center to filter and sort
+
+::: moniker-end
 
 Use the **Views** drop-down menu to select a filtered view of messages. 
  
@@ -64,7 +68,9 @@ See a message that someone else needs to act on? You can share the contents of t
 
 Need to follow up with another admin to make sure they're aware of a change and taking action? You can generate a link to share in email or instant messaging, for example, that will connect the user directly to that message. The person you share the link with has to be an admin in Office 365 for your organization or they won't have access to the linked message.
 
-### Get a link in the new admin center
+::: moniker range="o365-worldwide"
+
+### Use the new admin center to get a link
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
@@ -76,8 +82,10 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 4. Use CTRL+V or right-click and select Paste to insert the link.
 
-### Get a link in the old admin center
+### Use the old admin center to get a link
   
+::: moniker-end
+
 1. Click on the message to open it.
     
 2. Choose **More** \> **Get a link** from the action bar.
@@ -90,7 +98,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 Any message in Message center that is unread will appear in bold. Opening a message marks it as read. You can mark a message as unread.
 
-### Mark a message as unread in the new admin center
+::: moniker range="o365-worldwide"
+
+### Use the new admin center to mark a message as unread 
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
@@ -98,9 +108,10 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 2. Choose the **Mark as unread** (envelope) icon at the top of the message.
 
-
-### Mark a message as unread in the old admin center
+### Use the old admin center to mark a message as unread 
   
+::: moniker-end
+
 1. Click on the message to open it.
     
 2. Select **More** \> **Mark as unread**.
@@ -111,7 +122,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 If you see a message that doesn't pertain to you, or maybe you've already acted on it, you can dismiss the message to remove it from the Message center view. The view that you see in Message center is specific to your user account, so dismissing it from your view doesn't affect other admins. 
 
-### Dismiss a message in the new admin center
+::: moniker range="o365-worldwide"
+
+### Use the new admin center to dismiss a message
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
@@ -125,7 +138,9 @@ Need to get a dismissed message back? No problem.
     
 2. Select the message, choose **Restore**, and the message is restored to active messages. 
 
-### Dismiss a message in the old admin center
+### Use the old admin center to dismiss a message
+
+::: moniker-end
 
 There are two ways to dismiss a message.
   
