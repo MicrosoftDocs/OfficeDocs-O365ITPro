@@ -30,6 +30,8 @@ You may have to delete a [user](../add-users/add-users.md) in your organization.
   
 ## Delete a user
 
+::: moniker range="o365-worldwide"
+
 ### Delete a user in the new admin center
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
@@ -41,6 +43,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 3. In the deletion confirmation pane, choose **Delete user**. <br/>[Read full article.](../add-users/delete-a-user.md)
   
 ### Delete a user in the old admin center
+
+::: moniker-end
+
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
