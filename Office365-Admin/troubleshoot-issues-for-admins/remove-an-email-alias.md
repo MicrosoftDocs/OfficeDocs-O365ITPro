@@ -34,6 +34,8 @@ Did you get this error when you were creating a new user? "This email address is
 
 Before you begin, make sure you've noted which user you need to remove the email address from.
 
+::: moniker range="o365-worldwide"
+
 ### Use the new admin center to remove the email address 
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
@@ -49,8 +51,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 3. Choose the alias you want to remove and click the remove (wastebin) icon, and then **Save changes**. 
 
 
-
 ### Use the old admin center to remove the email address 
+
+::: moniker-end
   
 1. There are two ways you can find a user's account information: 
     
