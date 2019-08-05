@@ -27,6 +27,8 @@ You may need to change someone's Office 365 email address and display name if, f
 
 You must be an [Office 365 global admin](about-admin-roles.md) to do these steps. 
 
+::: moniker range="o365-worldwide"
+
 ### Use the new admin center to change a user's email address
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
@@ -40,6 +42,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 4. Choose **Save changes**.
     
 ### Use the old admin center to change a user's email address
+
+::: moniker-end
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
@@ -56,6 +60,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   - If you get the error message "**We're sorry, the user couldn't be edited. Review the user information and try again**," it means you aren't an Office 365 global admin and you don't have permissions to change the user name. 
 
 ## Set the primary email address
+
+::: moniker range="o365-worldwide"
 
 ### Use the new admin center to set the primary email address 
  
@@ -87,6 +93,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
 ### Use the old admin center to set the primary email address 
 
+::: moniker-end
+
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
 2. Choose the user. In the flyout pane, next to **Username / Email**, choose **Edit**.
@@ -113,6 +121,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
 ## Change a user's display name
 
+::: moniker range="o365-worldwide"
+
 ### Use the new admin center to change a user's display name
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
@@ -126,6 +136,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     If you get the error message "**We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name.
 
 ### Use the old admin center to change a user's display name
+
+::: moniker-end
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
