@@ -143,7 +143,7 @@ There are two ways to cancel paid or trial subscriptions: You can cancel online,
   
 ## How do I see my current order balance?
 
-The total that is displayed n the <a href="https://go.microsoft.com/fwlink/p/?linkid=848039" target="_blank">Bills</a> page is the invoice balance - the total as of the invoice date. To see your current order balance, view your most recent order or invoice. 
+The total that is displayed on the Bills page is the invoice balance - the total as of the invoice date. To see your current order balance, view your most recent order or invoice. 
   
 ::: moniker range="o365-worldwide"
 
@@ -194,11 +194,11 @@ You can [Apply for tax exempt status for Office 365 for business](../subscriptio
 
 ## How do I view and print my bill?
 
+::: moniker range="o365-worldwide"
+
 1. On the <a href="https://go.microsoft.com/fwlink/p/?linkid=848039" target="_blank">Bills</a> page, choose an invoice date range.
   
 2. To print or save a PDF copy of the bill, choose **Download invoice PDF**, and then print the PDF.
-    
-::: moniker range="o365-worldwide"
 
 To learn more, see [View your bill or invoice for Office 365 for business](../subscriptions-and-billing/view-your-bill-or-invoice.md).
 
@@ -206,11 +206,19 @@ To learn more, see [View your bill or invoice for Office 365 for business](../su
 
 ::: moniker range="o365-germany"
 
+1. On the <a href="https://go.microsoft.com/fwlink/p/?linkid=848040" target="_blank">Bills</a> page, choose an invoice date range.
+  
+2. To print or save a PDF copy of the bill, choose **Download invoice PDF**, and then print the PDF.
+
 To learn more, see [View your bill or invoice for Office 365 for business](../subscriptions-and-billing/view-your-bill-or-invoice.md).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
+
+1. On the Bills page, choose an invoice date range.
+  
+2. To print or save a PDF copy of the bill, choose **Download invoice PDF**, and then print the PDF.
 
 To learn more, see [View your bill or get Fapiaos in Office 365 operated by 21Vianet](../services-in-china/view-your-bill-or-get-a-fapiao.md).
 
