@@ -48,15 +48,15 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 2. Select the circles next to the names of the users to whom you want to assign licenses.
 
-3. At the top, choose choose **Manage product licenses**.
+3. At the top, select **Manage product licenses**.
 
-4. In the **Manage product licenses** pane, choose **Add to existing product license assignments** \> **Next**.
+4. In the **Manage product licenses** pane, select **Add to existing product license assignments** \> **Next**.
 
 5. In the **Add to existing products** pane, switch the toggle to the **On** position for the license that you want the selected users to have.
 
     By default, all services associated with that license are automatically assigned to the users. To limit which services are available to the users, switch the toggles to the **Off** position for the services that you don't want the users to have. 
 
-6. At the bottom of the pane, choose **Add** \> **Close**.  
+6. At the bottom of the pane, select **Add** \> **Close**.  
 
 ### Use the old admin center to assign licenses to multiple users
 
@@ -81,13 +81,13 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 3. In the **Bulk actions** pane, choose **Edit product licenses**.
 
-4. In the **Assign products** pane, choose **Add to existing product license assignments** \> **Next**.
+4. In the **Assign products** pane, select **Add to existing product license assignments** \> **Next**.
 
 5. Switch the toggle to the **On** position for the license that you want the selected users to have.
 
     By default, all services associated with that license are automatically assigned to the users. To limit which services are available to the users, switch the toggles to the **Off** position for the services that you don't want the users to have. 
 
-6. At the bottom of the **Add to existing products** pane, choose **Add** \> **Close** \> **Close**.
+6. At the bottom of the **Add to existing products** pane, select **Add** \> **Close** \> **Close**.
 
 ## Assign licenses to one user
 
@@ -99,13 +99,13 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-2. On the **Active Users** page, choose the name of the user to whom you want to assign a license.
+2. On the **Active Users** page, select the name of the user to whom you want to assign a license.
 
-3. At the top, choose **Manage product licenses**.
+3. At the top, select **Manage product licenses**.
 
-4. In the user pane on the right, choose **Licenses and Apps**.
+4. In the user pane on the right, select **Licenses and Apps**.
 
-5. Expand the **Licenses** section, choose the boxes for the licenses that you want to assign, then choose **Save changes**.
+5. Expand the **Licenses** section, select the boxes for the licenses that you want to assign, then select **Save changes**.
 
 
 ### Use the old admin center to assign licenses to one user
@@ -129,13 +129,13 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 2. Select the box next to the name of the user to whom you want to assign a license.
 
-3. On the right, in the **Product licenses** row, choose **Edit**.
+3. On the right, in the **Product licenses** row, select **Edit**.
 
 4. In the **Product licenses** pane, switch the toggle to the **On** position for the license that you want to assign to this user.
 
     By default, all services associated with that license are automatically assigned to the user. To limit which services are available to the user, switch the toggles to the **Off** position for the services that you don't want that user to have. 
 
-5. At the bottom of the **Product licenses** pane, choose **Save** \> **Close** \> **Close**.
+5. At the bottom of the **Product licenses** pane, select **Save** \> **Close** \> **Close**.
 
 ## Move users to a different subscription
 
@@ -151,15 +151,15 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 2. Select the circles next to the names of the users for whom you want to replace existing licenses.
 
-3. At the top, choose **Manage product licenses**.
+3. At the top, select **Manage product licenses**.
 
-4. In the **Manage product licenses** pane, choose **Replace existing product license assignments** \> **Next**.
+4. In the **Manage product licenses** pane, select **Replace existing product license assignments** \> **Next**.
 
 5. Switch the toggle to the **On** position for the licenses you want to assign to these users.
 
     To limit which services are available to the users, switch the toggles to the **Off** position for the services that you don't want that users to have. Any previous license assignments for the selected users will be removed.
 
-6. At the bottom of the **Replace existing products** pane, choose **Replace** \> **Close**.
+6. At the bottom of the **Replace existing products** pane, select **Replace** \> **Close**.
 
 
 ### Use the old admin center to move users to a different subscription
@@ -185,13 +185,13 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 3. In the **Bulk actions** pane, choose **Edit product licenses**.
 
-4. In the **Assign products** pane, choose **Replace existing product license assignments** \> **Next**.
+4. In the **Assign products** pane, select **Replace existing product license assignments** \> **Next**.
 
 5. Switch the toggle to the **On** position for the licenses you want to assign to these users.
 
     To limit which services are available to the users, switch the toggles to the **Off** position for the services that you don't want that users to have. Any previous license assignments for the selected users will be removed.
 
-6. At the bottom of the **Replace existing products** pane, choose **Replace** \> **Close** \> **Close**.
+6. At the bottom of the **Replace existing products** pane, select **Replace** \> **Close** \> **Close**.
 
 ## What you need to know about assigning licenses to users
 

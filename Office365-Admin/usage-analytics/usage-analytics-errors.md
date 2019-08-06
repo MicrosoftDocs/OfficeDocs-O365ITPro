@@ -98,7 +98,7 @@ Error Code: 302
   
  **Cause:** Sometimes the credentials of the user who connected to the content pack are reset, and not updated in the connection settings of the content pack causing the user to see refresh failure errors. 
   
- **To fix this error:** In Power BI, find the dataset corresponding to the Office 365 Adoption dashboard (Office 365 Adoption_preview.pbix) , choose **schedule refresh** and provide your Office 365 admin credentials. 
+ **To fix this error:** In Power BI, find the dataset corresponding to the Office 365 Adoption dashboard (Office 365 Adoption_preview.pbix), select **schedule refresh** and provide your Office 365 admin credentials. 
   
 If that doesn't work, clear the cache, and re-create the content pack.
   

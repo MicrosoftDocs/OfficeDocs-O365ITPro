@@ -38,9 +38,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. On the **Products & services** page, find the trial subscription that you want to extend. In the **Settings & Actions** section, choose **Extend trial**.
+2. On the **Products & services** page, find the trial subscription that you want to extend. In the **Settings & Actions** section, select **Extend trial**.
 
-3. Review the extension information, and if necessary, change your payment method. When you're finished, choose **Extend trial**.
+3. Review the extension information, and if necessary, change your payment method. When you're finished, select **Extend trial**.
 
 ::: moniker-end
 
@@ -54,7 +54,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
-2. On the **Subscriptions** page, choose the trial subscription that you want to extend, and then, under the expiration date, choose **Extend trial**.
+2. On the **Subscriptions** page, select the trial subscription that you want to extend, and then, under the expiration date, select **Extend trial**.
 
 3. Complete the steps in the wizard.
 

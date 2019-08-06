@@ -66,9 +66,9 @@ Employees can also share OneDrive files and folders. If an employee is away or l
 Here's how each person on your team can set up OneDrive and share files.
 
   
-1. Go to [office.com](https://admin.microsoft.com) to sign in, and sign in with your user name and password. 
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>, and sign in with your user name and password. 
     
-2. On the Office 365 home page, choose **OneDrive**.
+2. From the App launcher, select **OneDrive**.
     
 3. In OneDrive, team members can store their own business-related files. You can share either individual files, or a whole folder. Pick a file or folder, right-click, and then choose **Share**.
     
@@ -82,7 +82,7 @@ Here's how each person on your team can set up OneDrive and share files.
     
     ![Share a link dialog box showing showing typing and selecting a name.](../media/877e6587-db9d-4903-a87b-11e570eee926.png)
   
-5. When you're done entering who you want to share with, choose **Send**. The email is immediately sent to the people you invite.
+5. When you're done entering who you want to share with, select **Send**. The email is immediately sent to the people you invite.
     
     ![Share a link, showing list of names](../media/e85625ea-7655-43f3-8623-72db68d0ea39.png)
   
@@ -96,9 +96,9 @@ Office 365 includes a basic team site with some features to help you get started
   
 Here's how you get to your team site:
   
-1. Go to [office.com](https://admin.microsoft.com) to sign in, and sign in with your user name and password. 
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>, and sign in with your user name and password. 
     
-2. On the Office 365 home screen, choose SharePoint and then choose your team site link on the left-hand navigation menu. 
+2. From the App launcher, select **SharePoint**, then choose your team site link on the left-hand navigation menu. 
     
 3. You'll see your team's home page. This page includes:
     

@@ -97,7 +97,7 @@ There are a couple of scenarios that include either migrating data or users from
 
 - **If you have fewer than 50 employees:**
     
-  - **Ask for help and we'll call you**. After you buy Office 365, you can access your Microsoft 365 admin center (you don't need to run setup to get to it). At the bottom of your admin center page, choose **Need help?** Describe your problem, and we'll call you. 
+  - **Ask for help and we'll call you**. After you buy Office 365, you can access your Microsoft 365 admin center (you don't need to run setup to get to it). At the bottom of your admin center page, select **Need help?** Describe your problem, and we'll call you. 
     
       
   - **Call [Office 365 for Business Support](../contact-support-for-business-products.md) with your questions**. We're here to help! 

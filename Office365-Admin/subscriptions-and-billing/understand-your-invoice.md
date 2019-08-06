@@ -102,9 +102,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Choose the subscription you want to change, and in the **Settings & Actions** section, choose **Edit payment details**.
+2. Select the subscription you want to change, and in the **Settings & Actions** section, select **Edit payment details**.
   
-3. At the bottom of the **Edit payment details** pane, enter your PO number, then choose **Save**.
+3. At the bottom of the **Edit payment details** pane, enter your PO number, then select **Save**.
 
 ::: moniker-end
 
@@ -118,11 +118,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
-2. Choose the subscription you want to change, and in the **Payment method** section, choose **Change payment details**.
+2. Select the subscription you want to change, and in the **Payment method** section, select **Change payment details**.
 
     ![Screen shot of the Payment method section of a subscription card for a subscription paid by invoice.](../media/95d86601-c8db-4f66-9fee-6f52ec337015.png)
   
-3. At the bottom of the **Change payment details** pane, enter your PO number, then choose **Submit**.
+3. At the bottom of the **Change payment details** pane, enter your PO number, then select **Submit**.
 
     ![Screen shot of the Change payment details pane.](../media/c08bfeea-d3fc-4eb5-b7d1-d2b23e74b814.png)
 

@@ -57,7 +57,7 @@ If you need help interpreting the charges you see on your bill, see [Understand 
 
   - The order creation date, and the order number.
 
-4. To print or save a PDF copy of the invoice, choose **Download PDF**.
+4. To print or save a PDF copy of the invoice, select **Download PDF**.
 
 
 ## Stop receiving a copy of my billing statement in email

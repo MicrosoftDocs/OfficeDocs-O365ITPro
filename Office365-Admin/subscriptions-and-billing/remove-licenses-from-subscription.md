@@ -39,11 +39,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. On the **Products & services** page, find the subscription from which you want to remove licenses, then choose **Add/Remove licenses**.
+2. On the **Products & services** page, find the subscription from which you want to remove licenses, then select **Add/Remove licenses**.
 
     [What if I don't see the Add/Remove licenses link?](#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then choose **Submit change**. For example, if you have 110 licenses and you want to remove 5 of them, enter 105.
+3. In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then select **Submit change**. For example, if you have 110 licenses and you want to remove 5 of them, enter 105.
 
 ::: moniker-end
 
@@ -57,11 +57,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
-2. On the **Subscriptions** page, choose the subscription from which you want to remove licenses, then choose **Add/Remove licenses**.
+2. On the **Subscriptions** page, select the subscription from which you want to remove licenses, then select **Add/Remove licenses**.
 
     [What if I don't see the Add/Remove licenses link?](#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. In the **Total licenses** box, enter the total number of licenses that you need for this subscription and then choose **Submit**. For example, if you have 110 licenses and you want to remove 5 of them, enter 105.
+3. In the **Total licenses** box, enter the total number of licenses that you need for this subscription and then select **Submit**. For example, if you have 110 licenses and you want to remove 5 of them, enter 105.
 
 ## What if I don't see the Add/Remove licenses link?
 

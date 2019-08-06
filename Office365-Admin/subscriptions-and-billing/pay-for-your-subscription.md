@@ -49,7 +49,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Find the subscription with the outstanding balance. In the **Billing** section, choose **Pay now**.
+2. Find the subscription with the outstanding balance. In the **Billing** section, select **Pay now**.
 
 3. If you're the credit card owner, you can change the expiration date for the card, pick a different card, or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
 
@@ -58,7 +58,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 4. If you're not the credit card owner, you can choose a different credit card or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
 
-5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, choose **Submit payment**.
+5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, select **Submit payment**.
 
 #### Use the old admin center to pay your outstanding balance
 ::: moniker-end
@@ -67,7 +67,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
-2. Choose the subscription that you want to change. In the **My bill** section, choose **Pay now**.
+2. Select the subscription that you want to change. In the **My bill** section, select **Pay now**.
   
 3. If you're the credit card owner, you can change the expiration date for the card, pick a different card, or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
 
@@ -76,7 +76,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 4. If you're not the credit card owner, you can choose a different credit card or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
 
-5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, choose **Submit**. You'll see a confirmation message that says "Your payment method has been updated and all outstanding charges are settled. Thank you."
+5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, select **Submit**. You'll see a confirmation message that says "Your payment method has been updated and all outstanding charges are settled. Thank you."
 
 ## Pay by invoice (check or EFT)
 

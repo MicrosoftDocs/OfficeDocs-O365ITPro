@@ -32,13 +32,13 @@ If the deployed add-in doesn't support add-in commands or if you want to view al
   
 ![You can view add-ins in My Add-ins from the Insert tab.](../media/1395dfb5-5cbb-4f9c-851c-74991eb36e1a.png)
   
-Then select the **Admin Managed** tab along the top in the Office Add-ins window. If add-in is not there, choose **Refresh** in the top right corner. 
+Then select the **Admin Managed** tab along the top in the Office Add-ins window. If add-in is not there, select **Refresh** in the top right corner. 
   
 ![Refresh if your Add-in is not present](../media/528df843-448c-48c9-8c82-10f2cb632174.png)
   
 ## For Outlook 2016
 
-On the **Home** ribbon, choose **Store**, as shown here. Choose **Admin-managed** in the left nav. 
+On the **Home** ribbon, select **Store**, as shown here. Select **Admin-managed** in the left nav. 
   
 ![Choose Store](../media/6ed3bb85-e4e6-4161-8ce9-a693e3f8dfb5.png)
   
@@ -52,7 +52,7 @@ Users can't see add-in? Try one of these:
     
   - The user might be on an older, incompatible version of Office. For add-ins to be deployed the user must have Office ProPlus 2016. You can check this out for any member of your organization. To find out how, see [Office 365 reports](https://support.office.com/en-us/article/office-365-reports-in-the-admin-center-microsoft-office-activations-87c24ae2-82e0-4d1e-be01-c3bcc3f18c60?ui=en-US&amp;rs=en-US&amp;ad=US).
     
-  - Alternatively, you can check this manually by going to the application, such as Word, then choose **File \> Account**. Under **Product Information**, you should see **Office 365 ProPlus**. 
+  - Alternatively, you can check this manually by going to the application, such as Word, then select **File \> Account**. Under **Product Information**, you should see **Office 365 ProPlus**. 
     
 - **Check Exchange requirements**
     

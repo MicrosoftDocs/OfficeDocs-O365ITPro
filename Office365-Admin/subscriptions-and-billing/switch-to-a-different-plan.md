@@ -57,15 +57,15 @@ When you use the **Switch plans** button, you're led through the process of buyi
 
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
-2. Choose **Switch plans** to view the list of new plans that are available.
+2. Select **Switch plans** to view the list of new plans that are available.
 
     [The Switch plans button isn't there](#the-switch-plans-button-isnt-there) | [I don't see the plan I want](#i-dont-see-the-plan-i-want)
 
-3. Choose a plan to see the new total cost per month. Be sure to read the **key information**, then choose **Next** to check out.
+3. Select a plan to see the new total cost per month. Be sure to read the **key information**, then select **Next** to check out.
 
     [Help me choose a new plan](https://go.microsoft.com/fwlink/p/?linkid=842056).
 
-4. Choose **Chat now** on the **Checkout** page if you need help.
+4. Select **Chat now** on the **Checkout** page if you need help.
 
     When you finish checkout, Office 365 takes a few minutes to finalize the switch. You can start using your new subscription right away.
 

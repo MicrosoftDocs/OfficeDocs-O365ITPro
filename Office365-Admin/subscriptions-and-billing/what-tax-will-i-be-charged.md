@@ -55,9 +55,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 2. Find the subscription card for the subscription you want to update.
 
-3. In the **Settings & Actions** section, choose **Edit service usage address**.
+3. In the **Settings & Actions** section, select **Edit service usage address**.
 
-4. On the **Edit your service usage address** page, enter your VAT ID in the **VAT number** box, and then choose **Save**.
+4. On the **Edit your service usage address** page, enter your VAT ID in the **VAT number** box, and then select **Save**.
 
 ::: moniker-end
 
@@ -69,9 +69,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
-2. Choose the subscription name, and then choose **More actions** \> **Edit VAT number**.
+2. Select the subscription name, and then select **More actions** \> **Edit VAT number**.
   
-3. On the **Edit your service usage address** page, enter your VAT ID in the **VAT number** box, and then choose **Submit**.
+3. On the **Edit your service usage address** page, enter your VAT ID in the **VAT number** box, and then select **Submit**.
 
 ## Asia Pacific countries (APAC)
 

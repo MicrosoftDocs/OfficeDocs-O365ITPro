@@ -39,7 +39,7 @@ If you start to run out of storage for your SharePoint Online site collections, 
 
 1. Sign in to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a> with your work or school account as a global admin. [Learn how to sign in](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
 
-3. In the admin center, choose **Admin centers** \> **SharePoint**.
+3. In the admin center, select **Admin centers** \> **SharePoint**.
 
 4. On the **Site collections** menu, view the amount of storage used.
 
@@ -58,17 +58,17 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=868433" target="_blank">Purchase services</a> page.
 
-2. At the bottom of the **Purchase services** page, choose **Add-ons**.
+2. At the bottom of the **Purchase services** page, select **Add-ons**.
 
-3. Choose **Office 365 Extra File Storage**.
+3. Select **Office 365 Extra File Storage**.
 
 4. On the **Office 365 Extra File Storage** page, if shown, choose the base subscription, then enter the number of gigabytes of storage you want to add.
 
-5. Choose **Check out now**.
+5. Select **Check out now**.
 
-6. On the **How does this look?** page, verify the number of gigabytes of storage you selected, review the pricing information, and then choose **Next**.
+6. On the **How does this look?** page, verify the number of gigabytes of storage you selected, review the pricing information, and then select **Next**.
 
-7. On the **Complete order** page, verify the total. If you need to make any changes, choose **Edit order**. If the order requires a credit check, select the check box. When you're finished, choose **Place order** \> **Go to Admin Home**.
+7. On the **Complete order** page, verify the total. If you need to make any changes, select **Edit order**. If the order requires a credit check, select the check box. When you're finished, select **Place order** \> **Go to Admin Home**.
 
 ::: moniker-end
 
@@ -82,24 +82,24 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
-2. On the **Subscriptions** page, choose the subscription to which  you want to add storage space, then choose **Add-ons**.
+2. On the **Subscriptions** page, choose the subscription to which  you want to add storage space, then select **Add-ons**.
 
     ![Add-ons button used to purchase add-ons.](../media/b4d2beb4-4f6d-435a-b127-01ceebd6eebf.png)
   
     > [!NOTE]
-    > If you don't see **Add-ons**, and your subscription was purchased through a partner, choose **Volume Licensing Service Center (VLSC)**.
+    > If you don't see **Add-ons**, and your subscription was purchased through a partner, select **Volume Licensing Service Center (VLSC)**.
   
-3. Choose **Buy add-ons**.
+3. Select **Buy add-ons**.
 
     ![Buy add-ons link on the Subscriptions page of the admin center.](../media/f5cbc3fa-90f7-4299-976d-2482f2c69755.png)
   
-4. On the **Purchase services** page, mouse over or tap **Office 365 Extra File Storage**, then choose **Buy now**.
+4. On the **Purchase services** page, mouse over or tap **Office 365 Extra File Storage**, then select **Buy now**.
   
-5. Enter the number of user licenses that you need and, if shown, choose a base subscription. Choose **Check out now**.
+5. Enter the number of user licenses that you need and, if shown, choose a base subscription. Select **Check out now**.
   
-6. On the **How does this look?** page, verify the number of gigabytes of storage you selected, review the pricing information, and then choose **Next**.
+6. On the **How does this look?** page, verify the number of gigabytes of storage you selected, review the pricing information, and then select **Next**.
 
-7. On the **Complete order** page, choose **Place order**.
+7. On the **Complete order** page, select **Place order**.
 
 ## Increase or decrease storage
 
@@ -114,9 +114,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 2. Choose the subscription that contains the **Office 365 Extra File Storage** add-on.
 
-3. Choose **Add-ons**, then choose **Change quantity**.
+3. Select **Add-ons**, then choose **Change quantity**.
 
-4. In the **Add/Remove gigabytes** pane, enter the total gigabytes you want for the subscription, then choose **Submit change**.
+4. In the **Add/Remove gigabytes** pane, enter the total gigabytes you want for the subscription, then select **Submit change**.
 
 ::: moniker-end
 
@@ -130,22 +130,22 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
-2. On the **Subscriptions** page, choose **Add-ons**.
+2. On the **Subscriptions** page, select **Add-ons**.
 
     ![Add-ons button used to purchase add-ons.](../media/b4d2beb4-4f6d-435a-b127-01ceebd6eebf.png)
   
     > [!NOTE]
-    > If you don't see **Add-ons**, and your subscription was purchased through a partner, choose **Volume Licensing Service Center (VLSC)**.
+    > If you don't see **Add-ons**, and your subscription was purchased through a partner, select **Volume Licensing Service Center (VLSC)**.
   
-3. Under **Office 365 Extra File Storage**, choose **Change quantity**.
+3. Under **Office 365 Extra File Storage**, select **Change quantity**.
 
     ![Change quantity link.](../media/96473f2b-6ff6-45ec-b1a3-d7b204ac1f6e.png)
   
-4. In the right pane, enter the total number of gigabytes that you need, then choose **Submit**.
+4. In the right pane, enter the total number of gigabytes that you need, then select **Submit**.
 
     For example, if you currently have 200 gigabytes of extra file storage but you only need 100 gigabytes, then you would enter **100** in the box.
 
-5. Choose **Close**.
+5. Select **Close**.
 
 ## Is my plan eligible for Office 365 Extra File Storage?
 

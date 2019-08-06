@@ -51,7 +51,7 @@ When you use the **Upgrade** tab, you're led through the process of buying a new
 
 7. When you're finished, select **Accept agreement & place order**.
 
-When you finish checkout, it might take a few minutes to finalize the upgrade. You can start using your new subscription right away. Choose **Check upgrade status** to check the progress of the upgrade. You'll be notified when the upgrade is complete. The notification is displayed on the **Products & services** page, next to your new subscription.
+When you finish checkout, it might take a few minutes to finalize the upgrade. You can start using your new subscription right away. Select **Check upgrade status** to check the progress of the upgrade. You'll be notified when the upgrade is complete. The notification is displayed on the **Products & services** page, next to your new subscription.
 
 ## The Upgrade tab is empty
 

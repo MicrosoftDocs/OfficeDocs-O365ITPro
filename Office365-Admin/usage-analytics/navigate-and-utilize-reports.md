@@ -41,15 +41,15 @@ To get started with your reports, here are some tips:
   
     The user who has instantiated the content pack will have the ability to edit the report to customize it to their needs. To customize the content pack: 
   
-- Choose **Edit report** button at the top of the report, 
+- Select the **Edit report** button at the top of the report, 
     
-    ![Choose Edit report to edit your Power BI visualization](../media/18bcc787-0ed7-4c71-a2d2-ad66fdeb68ae.png)
+    ![Select Edit report to edit your Power BI visualization](../media/18bcc787-0ed7-4c71-a2d2-ad66fdeb68ae.png)
   
 - Create your own visuals by using the underlying [datasets](usage-analytics-data-model.md).
     
 - Use PowerBI Desktop to bring in your own data sources.
     
-To share your reports, just choose the share button ![Power BI Share icon](../media/dbb0569d-2013-4f9d-ab9d-d01b09631b92.png) on top of the page. 
+To share your reports, just select the share button ![Power BI Share icon](../media/dbb0569d-2013-4f9d-ab9d-d01b09631b92.png) on top of the page. 
   
 To learn how to customize the reports, see [Customizing the reports in Microsoft 365 usage analytics](customize-reports.md).
   

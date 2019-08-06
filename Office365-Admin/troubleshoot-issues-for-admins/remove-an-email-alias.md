@@ -46,9 +46,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
   - Or, in the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page and select the user from the list. 
     
-2. Choose **Manage email aliases**.  
+2. Select **Manage email aliases**.  
     
-3. Choose the alias you want to remove and select the remove (wastebin) icon, and then **Save changes**. 
+3. Select the alias you want to remove and select the remove (wastebin) icon, and then **Save changes**. 
 
 
 ### Use the old admin center to remove the email address 
@@ -61,8 +61,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
   - Or, in the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page and select the user from the list. 
     
-2. Next to **Username/Email, Aliases**, choose **Edit**.    
-3. Choose the alias you want to remove and select the remove (wastebin) icon, and then **Save**. 
+2. Next to **Username/Email, Aliases**, select **Edit**.    
+3. Select the alias you want to remove and select the remove (wastebin) icon, and then **Save**. 
     
     > [!NOTE]
     > You can't remove the primary email address. If you need to remove the primary email address, create a second email address for this user and select **Set as primary**. Then you can remove the user's email address. 

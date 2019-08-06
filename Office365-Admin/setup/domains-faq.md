@@ -108,17 +108,17 @@ Follow the steps below to get the code at Office 365, and then go to the other d
     
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=2007048" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the Office 365 domain that you want to transfer to another domain registrar, and then choose **Domain Transfer** > **Enable domain transfer**.
+2. On the **Domains** page, select the Office 365 domain that you want to transfer to another domain registrar, and then select **Domain Transfer** > **Enable domain transfer**.
        
 4. Follow the steps to prepare for transferring your domain.
     
 5. After you get the code, go to the website of the domain registrar where you want to manage your domain name going forward and follow their directions for transferring a domain (search for help on their website).
     
-6. If you need to see the code again, on the **Domain settings** page in Office 365, choose **View authorization code for domain transfer**.
+6. If you need to see the code again, on the **Domain settings** page in Office 365, select **View authorization code for domain transfer**.
     
 7. After the transfer is complete, you'll renew your domain at the new domain registrar.
     
-8. To finish the process, go back to the admin center **Domains** page and choose **Complete Domain Transfer**. 
+8. To finish the process, go back to the admin center **Domains** page and select **Complete Domain Transfer**. 
     
 ## How do I change how my DNS records are managed in Office 365?
 
@@ -136,13 +136,13 @@ Follow the steps below to get the code at Office 365, and then go to the other d
     
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=2007048" target="_blank">Domains</a> page.
     
-5. On the **Domains** page, choose the domain you're switching, and choose **DNS management**.
+5. On the **Domains** page, select the domain you're switching, and select **DNS management**.
     
-6. In the domains setup wizard, on the **Set up your online services** page, choose **I'll manage my own DNS records**, and then choose **Next**.
+6. In the domains setup wizard, on the **Set up your online services** page, select **I'll manage my own DNS records**, and then select **Next**.
     
 7. Add the DNS records suggested by the wizard on the **Update DNS settings** page to your registrar's website. 
     
-8. After you've added the records, come back to Office 365 and choose **Verify**.
+8. After you've added the records, come back to Office 365 and select **Verify**.
     
 
 ### Change DNS management to Office 365
@@ -153,15 +153,15 @@ Follow the steps below to get the code at Office 365, and then go to the other d
     
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=2007048" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the domain you're switching, and choose **DNS Management**.
+2. On the **Domains** page, select the domain you're switching, and select **DNS Management**.
     
-3. In the domains setup wizard, on the **Set up your online services** page, choose **Set up my online services for me. (Recommended)**, and then choose **Next**.
+3. In the domains setup wizard, on the **Set up your online services** page, select **Set up my online services for me. (Recommended)**, and then select **Next**.
     
 4. If you haven't verified the domain yet, follow the steps to do that first.
     
 5. On the **Update DNS settings** page, we list the nameservers for Office 365. Go to the domain registrar for your domain, and update the nameservers to the Office 365 nameservers. 
     
-4. After you've updated the nameservers, **wait at least an hour**. Then, back in the wizard in Office 365, choose **Verify**.
+4. After you've updated the nameservers, **wait at least an hour**. Then, back in the wizard in Office 365, select **Verify**.
     
 ## What happens if my DNS provider doesn't support certain record types?
 
@@ -221,9 +221,9 @@ You must have at least one custom domain that you've added to Office 365 before 
     
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=2007048" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the domain you want to set as the default for new email addresses. 
+2. On the **Domains** page, select the domain you want to set as the default for new email addresses. 
     
-3. Choose **Set as default**.
+3. Select **Set as default**.
     
 ::: moniker range="o365-worldwide"
 
@@ -307,9 +307,9 @@ You can keep using the initial onmicrosoft.de domain even after you add your dom
 
 ## How do I verify my nonprofit or education status?
 
-1. Choose **Setup** in the [admin center](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791.aspx) to start the wizard. (Be sure to sign in to Office 365 first.) 
+1. Select **Setup** in the [admin center](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791.aspx) to start the wizard. (Be sure to sign in to Office 365 first.) 
     
-2. To become the Office 365 admin for your school, find and choose the **Become an admin** option in Office 365. 
+2. To become the Office 365 admin for your school, select the **Become an admin** option in Office 365. 
     
 3. You'll be prompted to add a TXT DNS record at the DNS host website for your domain. Why? Because by signing in at the DNS host and adding a record for your domain, you prove to Office 365 that you own the domain name.
     
@@ -339,19 +339,19 @@ You can, but there are limitations:
     
     1. Sign in to Office 365 with your work or school account.
         
-    2. Choose **Setup** \> **Domains**. 
+    2. Go to **Setup** \> **Domains**. 
     
 2. Verify that you own the domain you want to use
     
-    1. On the **Domains** page, choose **Add domain**. 
+    1. On the **Domains** page, select **Add domain**. 
         
-    2. In the panel, type the domain, in this example cohowinery.com, and then choose **Next**. 
+    2. In the panel, type the domain, in this example cohowinery.com, and then select **Next**. 
         
     3. On the **Verify** domain page, follow the step-by-step instructions. 
         
     4. In the drop-down list, select your DNS hosting provider, and follow the instructions to show that you own the domain.
         
-    5. Choose **Verify**. It takes between a few minutes and 72 hours for DNS changes to take effect. 
+    5. Select **Verify**. It takes between a few minutes and 72 hours for DNS changes to take effect. 
         
     6. When verification is successful, you'll be asked to modify your DNS records.
     
@@ -373,25 +373,25 @@ You can, but there are limitations:
     
     2. Go to Exchange admin center (EAC).
         
-    3. In EAC, choose **Protection**, and then choose **Connection filter**. 
+    3. In EAC, select **Protection**, and then select **Connection filter**. 
         
-    4. In the **IP Allow list**, choose **+**, and add the mail server IP address that you can get from your current email provider. 
+    4. In the **IP Allow list**, select **+**, and add the mail server IP address that you can get from your current email provider. 
     
 5. Create user accounts and set the primary (reply-to) address
     
     1. Go to the Microsoft 365 admin center.
         
-    2. On the left navigation bar, choose **Users** \> **Active Users**. 
+    2. On the left navigation bar, select **Users** \> **Active Users**. 
         
     3. Create the user accounts.
         
-    4. For each account choose **+ (New)**, and fill out the required information. 
+    4. For each account select **+ (New)**, and fill out the required information. 
         
     5. To keep user's email the same as it is currently, the **User name** field should be exactly the same as the user's existing email address. 
         
     6. Next to User name, select your custom domain name from the drop-down list.
         
-    7. Choose **Create** \> **Close**. 
+    7. Select **Create** \> **Close**. 
         
 6. Update DNS records at your DNS hosting provider
     

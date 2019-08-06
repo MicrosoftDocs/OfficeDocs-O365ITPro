@@ -66,7 +66,7 @@ When you install Office it's automatically linked to your Office 365 plan. This 
 
         ![Open the O15CTRRemove easy fix tool](../media/3de4a58b-7168-4a6c-a14e-b46e3510b254.png)
 
-        If the file doesn't open automatically, choose **Save** \> **Open Folder**, and then double-click the file (it should start with "**O15CTRRemove**") to run the easy fix tool.
+        If the file doesn't open automatically, select **Save** \> **Open Folder**, and then double-click the file (it should start with "**O15CTRRemove**") to run the easy fix tool.
     
     2. The Uninstall Microsoft Office wizard launches. Select **Next** and follow the prompts. 
     
@@ -76,7 +76,7 @@ When you install Office it's automatically linked to your Office 365 plan. This 
     
     **Chrome**
     
-    1. In the lower-lower left corner choose the **o15CTRRemove** file and from the drop-down list, choose **Show in folder**.
+    1. In the lower-lower left corner select the **o15CTRRemove** file and from the drop-down list, choose **Show in folder**.
 
         ![Select Show in folder](../media/fedb929c-6474-4b00-970e-a5799bc09256.png)<br/>Double-click the download, **o15CTRRemove** to run the easy fix tool.
     
@@ -127,7 +127,7 @@ If you're an Office 365 Small Business admin, do the following to find message t
 1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2077149" target="_blank">Security & Compliance admin center</a>.
   
 
-2. In the left navigation, choose **Mail flow** \> **Message trace**.
+2. In the left navigation, select **Mail flow** \> **Message trace**.
 
     
 

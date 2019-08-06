@@ -89,21 +89,21 @@ When you change from paying by invoice to paying by credit card or bank account,
 
 1. In the admin center, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
 
-2. Find the subscription that you want to change. In the **Payment details** section, choose **Change payment details**.
+2. Find the subscription that you want to change. In the **Payment details** section, select **Change payment details**.
   
-3. In the **Change payment details** pane, choose **Change your payment method**.
+3. In the **Change payment details** pane, select **Change your payment method**.
   
-4. In the **Change your payment method** dialog box, choose **Continue**.
+4. In the **Change your payment method** dialog box, select **Continue**.
   
-5. On the **How does this look?** page, you can optionally increase the number of users licenses that you want for this subscription. To continue, choose **Next**.
+5. On the **How does this look?** page, you can optionally increase the number of users licenses that you want for this subscription. To continue, select **Next**.
 
 6. Some subscriptions have the option to choose a monthly or annual commitment. If you see a choice to pay by the year or by the month on the **How do you want to pay?** page, choose how frequently you want to pay.
   
-7. In the **Payment method** list, choose either **Existing card**, **New credit card**, or **New bank account**.
+7. In the **Payment method** list, choose **Existing card**, **New credit card**, or **New bank account**.
   
 8. If you chose the **New credit card** or **New bank account** option in step 9, fill out the rest of your payment information.
 
-9. When you're done filling out the form, choose **Place order**.
+9. When you're done filling out the form, select **Place order**.
 
 When you return to the **Subscriptions** page, you will see the old subscription marked **Disabled** and the new one marked **Active**. You can let the old subscription expire.
 
@@ -119,21 +119,21 @@ When you change from paying by invoice to paying by credit card or bank account,
 
 1. In the admin center, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
-2. Find the subscription that you want to change. In the **Payment details** section, choose **Change payment details**.
+2. Find the subscription that you want to change. In the **Payment details** section, select **Change payment details**.
   
-3. In the **Change payment details** pane, choose **Change your payment method**.
+3. In the **Change payment details** pane, select **Change your payment method**.
   
-4. In the **Change your payment method** dialog box, choose **Continue**.
+4. In the **Change your payment method** dialog box, select **Continue**.
   
-5. On the **How does this look?** page, you can optionally increase the number of users licenses that you want for this subscription. To continue, choose **Next**.
+5. On the **How does this look?** page, you can optionally increase the number of users licenses that you want for this subscription. To continue, select **Next**.
 
 6. Some subscriptions have the option to choose a monthly or annual commitment. If you see a choice to pay by the year or by the month on the **How do you want to pay?** page, choose how frequently you want to pay.
   
-7. In the **Payment method** list, choose either **Existing card**, **New credit card**, or **New bank account**.
+7. In the **Payment method** list, choose **Existing card**, **New credit card**, or **New bank account**.
   
 8. If you chose the **New credit card** or **New bank account** option in step 9, fill out the rest of your payment information.
 
-9. When you're done filling out the form, choose **Place order**.
+9. When you're done filling out the form, select **Place order**.
 
 When you return to the **Subscriptions** page, you will see the old subscription marked **Disabled** and the new one marked **Active**. You can let the old subscription expire.
   
@@ -150,18 +150,18 @@ When you return to the **Subscriptions** page, you will see the old subscription
 
 1. In the admin center, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
 
-2. Find the subscription that you want to change. In the **Payment method** section, choose **Change payment details**.
+2. Find the subscription that you want to change. In the **Payment method** section, select **Change payment details**.
 
     ![The Payment method section of a Subscription card for a subscription that pays by credit card.](../media/6c9d9cae-6086-4687-a979-bb971f35f1b4.png)
   
-3. In the **Change payment details** pane, choose **Change your payment method**.
+3. In the **Change payment details** pane, select **Change your payment method**.
 
     > [!TIP]
     > If the **Change your payment method** link isn't displayed, it means that switching from credit card or bank account to invoice isn't available for the subscription because the subscription doesn't meet the minimum cost amount for billing by invoice. The minimum cost amount required to be billed by invoice varies by geographic location.
   
-4. In the **Change your payment method** dialog box, choose **Continue**.
+4. In the **Change your payment method** dialog box, select **Continue**.
   
-5. Choose **OK** to return to the admin center.
+5. Select **OK** to return to the admin center.
 ::: moniker-end
 
 ::: moniker range="o365-germany"
@@ -172,16 +172,16 @@ When you return to the **Subscriptions** page, you will see the old subscription
 
 1. In the admin center, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
-2. Find the subscription that you want to change. In the **Payment method** section, choose **Change payment details**.
+2. Find the subscription that you want to change. In the **Payment method** section, select **Change payment details**.
   
-3. In the **Change payment details** pane, choose **Change your payment method**.
+3. In the **Change payment details** pane, select **Change your payment method**.
 
     > [!TIP]
     > If the **Change your payment method** link isn't displayed, it means that switching from credit card or bank account to invoice isn't available for the subscription because the subscription doesn't meet the minimum cost amount for billing by invoice. The minimum cost amount required to be billed by invoice varies by geographic location.
   
-4. In the **Change your payment method** dialog box, choose **Continue**.
+4. In the **Change your payment method** dialog box, select **Continue**.
 
-5. Choose **OK** to return to the admin center.
+5. Select **OK** to return to the admin center.
 
 ::: moniker-end
 
@@ -227,9 +227,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Find the subscription that you want to change. In the **Billing** section, next to either **Billed monthly** or **Billed annually**, choose **Edit**.
+2. Find the subscription that you want to change. In the **Billing** section, next to either **Billed monthly** or **Billed annually**, select **Edit**.
 
-3. Choose the option for how often you want to be billed, then choose **Change**.
+3. Choose the option for how often you want to be billed, then select **Change**.
 
 ::: moniker-end
 

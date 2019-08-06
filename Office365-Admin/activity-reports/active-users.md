@@ -29,7 +29,7 @@ The Office 365 **Reports** dashboard shows you the activity overview across the 
 For example, you can use the **Active Users** report to find out how many product licenses are being used by individuals in your organization, and drill down for information about which users are using what products. This report can help administrators identify underutilized products or users that might need additional training or information. 
   
 > [!NOTE]
-> You must be a global administrator in Office 365 or an Exchange, SharePoint, Skype for Business administrator, or reports reader to see reports. 
+> You must be a global administrator in Microsoft 365 or an Exchange, SharePoint, Skype for Business administrator, or reports reader to see reports. 
   
 ## How to get to the Active Users report
 
