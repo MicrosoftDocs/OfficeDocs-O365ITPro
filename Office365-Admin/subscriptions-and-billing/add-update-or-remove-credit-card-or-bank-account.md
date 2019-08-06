@@ -68,9 +68,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     ![The Payment method section of the Subscription page, showing the Update payment details link.](../media/03839d72-773c-4030-88d0-484d1efe49c5.png)
   
-3. Choose the drop down arrow under **Add or select a payment method**, then pick **New credit card** or **New bank account**.
+3. Select the drop-down arrow under **Add or select a payment method**, then choose **New credit card** or **New bank account**.
 
-    ![The dropdown menu showing the New credit card and New bank account options.](../media/2de0566c-e527-4ae7-ad6a-8b461c1e5322.png)
+    ![The drop-down menu showing the New credit card and New bank account options.](../media/2de0566c-e527-4ae7-ad6a-8b461c1e5322.png)
   
 4. Enter the information for the new credit card or bank account, then choose **Submit**.
 
@@ -123,7 +123,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
     ![The Payment method section of the Subscription page, showing the Update payment details link.](../media/03839d72-773c-4030-88d0-484d1efe49c5.png)
   
-3. Choose the drop down arrow under **Add or select a payment method**, pick the credit card or bank account that you want to update, then choose **Edit details**.
+3. Select the drop-down arrow under **Add or select a payment method**, choose the credit card or bank account that you want to update, then choose **Edit details**.
 
     ![The Update payment details pane when a subscription is paid for by credit card or bank account.](../media/fa9b3a8f-9a80-4887-88e6-d19e6afd1b3d.png)
   
@@ -173,7 +173,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     ![The Payment method section of the Subscription page, showing the Update payment details link.](../media/03839d72-773c-4030-88d0-484d1efe49c5.png)
   
-3. Choose the drop down arrow under **Add or select a payment method**, pick the credit card or bank account that you want to delete, then choose **Remove**.
+3. Select the drop-down arrow under **Add or select a payment method**, choose the credit card or bank account that you want to delete, then choose **Remove**.
 
     ![The Update payment details pane when a subscription is paid for by credit card or bank account.](../media/fa9b3a8f-9a80-4887-88e6-d19e6afd1b3d.png)
   
@@ -200,7 +200,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 3. Next to your existing payment method, choose **Change**.
 
-4. From the drop down menu, pick an alternate payment method, or choose **Credit card or debit card**
+4. From the drop-down menu, choose an alternate payment method, or choose **Credit card or debit card**
 
 ::: moniker-end
 
@@ -220,7 +220,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     ![The Payment method section of the Subscription page, showing the Update payment details link.](../media/03839d72-773c-4030-88d0-484d1efe49c5.png)
   
-3. Choose the drop down arrow under **Add or select a payment method**, then pick the credit card or bank account that you want to use,.
+3. Select the drop-down arrow under **Add or select a payment method**, then choose the credit card or bank account that you want to use.
 
     ![The Update payment details pane when a subscription is paid for by credit card or bank account.](../media/fa9b3a8f-9a80-4887-88e6-d19e6afd1b3d.png)
   

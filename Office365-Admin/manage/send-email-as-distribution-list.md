@@ -47,6 +47,6 @@ Before you perform these steps, make sure you've been added to an Office 365 dis
   
 5. Right-click on the From address - such as `Ina@weewalter.me` - and click **Remove**.<br/> ![Remove the FROM alias](../media/9b8d8e8f-dc46-499c-89bd-0a480603bf1f.png)
   
-6. Then type the distribution list address such as support@contoso.com, and send the message. The next time you reply from the distribution list, its address will appear as an option in the From drop down.<br/>![Alias of the shared mailbox appears](../media/f7632a9a-9cab-446c-9e37-23ef50c5b975.png)
+6. Then type the distribution list address such as support@contoso.com, and send the message. The next time you reply from the distribution list, its address will appear as an option in the **From** list.<br/>![Alias of the shared mailbox appears](../media/f7632a9a-9cab-446c-9e37-23ef50c5b975.png)
   
 

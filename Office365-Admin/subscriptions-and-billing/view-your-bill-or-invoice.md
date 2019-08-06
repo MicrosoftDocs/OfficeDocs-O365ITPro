@@ -45,7 +45,7 @@ If you need help interpreting the charges you see on your bill, see [Understand 
 
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=848040" target="_blank">Bills & payments</a> page.
 
-2. Select a date range from the dropdown, and then click the order you want to view.
+2. Select a date range from the drop-down list, and then choose the order you want to view.
 
 3. On the summary page, you can see the following:
 

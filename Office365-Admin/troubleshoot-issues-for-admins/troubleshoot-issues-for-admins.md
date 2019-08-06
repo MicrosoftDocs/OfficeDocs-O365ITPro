@@ -76,7 +76,7 @@ When you install Office it's automatically linked to your Office 365 plan. This 
     
     **Chrome**
     
-    1. In the lower-lower left corner select the **o15CTRRemove** file and from the drop down, select **Show in folder**.
+    1. In the lower-lower left corner choose the **o15CTRRemove** file and from the drop-down list, choose **Show in folder**.
 
         ![Select Show in folder](../media/fedb929c-6474-4b00-970e-a5799bc09256.png)<br/>Double-click the download, **o15CTRRemove** to run the easy fix tool.
     

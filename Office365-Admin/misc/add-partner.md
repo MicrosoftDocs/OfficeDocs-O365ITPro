@@ -124,7 +124,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
 3. On the subscription page, select the **Partner** tab, and then type the Partner Network ID for the partner you're adding You can get the partner's Microsoft Partner ID by asking the partner for it.
     
-4. Click **Add**.
+4. Select **Add**.
 
 
 ### Use the old admin center to add a partner 
@@ -135,7 +135,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. If you have more than one subscription, select the subscription you want to edit.
   
-3. On the right, under the subscription cost, select **More actions** > **Add partner of record**.
+3. On the right, under the subscription cost, choose **More actions** > **Add partner of record**.
 
 4. Type the Microsoft Partner ID for the partner you're adding, select **Check ID**, and then **Submit**. You can get the partner's Microsoft Partner ID by asking the partner for it.
 
@@ -149,7 +149,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. If you have more than one subscription, select the subscription you want to edit.
   
-3. On the right, under the subscription cost, select **More actions** > **Add partner of record**.
+3. On the right, under the subscription cost, choose **More actions** > **Add partner of record**.
 
 4. Type the Microsoft Partner ID for the partner you're adding, select **Check ID**, and then **Submit**. You can get the partner's Microsoft Partner ID by asking the partner for it.
 
@@ -167,7 +167,7 @@ To accept this offer
     
 2. To authorize the agreement, click the link, which goes to an authorization page in Office 365.
     
-3. Under **Partner Relationships**, choose **Yes** to authorize the partner to be your delegated admin, and then choose **Next**.
+3. Under **Partner Relationships**, select **Yes** to authorize the partner to be your delegated admin, and then select **Next**.
     
 4. If the offer for partner relationship came with a trial subscription or a purchase offer, create your trial or subscription account.
     

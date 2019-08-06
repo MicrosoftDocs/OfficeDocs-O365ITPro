@@ -38,11 +38,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. Click a group name.
     
-3. In the details pane, on the **Members** tab, click **View all and manage members**, and then choose **Add members**.
+3. In the details pane, on the **Members** tab, select **View all and manage members**, and then select **Add members**.
       
 4. Search for or select the name of the member you want to add.
     
-5. Choose **Save**.
+5. Select **Save**.
     
 ### Use the old admin center to add a member to a Group
 
@@ -56,7 +56,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
       
 4. Search for or select the name of the member you want to add.
     
-5. Choose **Save**.
+5. Select **Save**.
 
 ## Remove a member from a Group in the admin center
 
@@ -73,9 +73,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. Click a group name.
     
-3. In the details pane, on the **Members** tab, click **View all and manage members**.
+3. In the details pane, on the **Members** tab, select **View all and manage members**.
     
-4. Next to the member you want to remove, click the X.
+4. Next to the member you want to remove, select the X.
     
 5. Click **Save** to remove the member. 
     
@@ -87,11 +87,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. Click a group name.
     
-3. In the details pane, next to **Members**, click **Edit**.
+3. In the details pane, next to **Members**, select **Edit**.
     
-4. Next to the member you want to remove, click the X.
+4. Next to the member you want to remove, select the X.
     
-5. Click **Save** to remove the member. 
+5. Select **Save** to remove the member. 
 
 
 ## Manage Group owner status
@@ -110,13 +110,13 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. Click a group name.
     
-3. In the details pane, on the **Members** tab, click **View all and manage owners**.
+3. In the details pane, on the **Members** tab, select **View all and manage owners**.
 
-4. Search for a member, or click **Add owners**.
+4. Search for a member, or select **Add owners**.
     
 5. Select the check box next to the name of the member you want to add.
     
-6. Click **Save**, and then click **Close**.   
+6. Select **Save**, and then **Close**.   
 
 
 #### Use the old admin center to promote a member to owner status
@@ -127,13 +127,13 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. Click a group name.
 
-3. In the details pane, next to **Owners**, click **Edit**.
+3. In the details pane, next to **Owners**, select **Edit**.
 
-4. Search for a member, or click **Add owners**.
+4. Search for a member, or select **Add owners**.
     
 5. Select the check box next to the name of the member you want to add.
     
-6. Click **Save**, and then click **Close**.   
+6. Select **Save**, and then **Close**.   
 
 ### Remove owner status in the admin center
 
@@ -147,11 +147,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. Click a group name.
     
-3. In the details pane, on the **Members** tab, click **View all and manage owners**.
+3. In the details pane, on the **Members** tab, select **View all and manage owners**.
     
-5. Click the X next to the owner's name. 
+5. Select the X next to the owner's name. 
     
-6. Click **Save**.
+6. Select **Save**.
     
 #### Use the old admin center to remove owner status
 
@@ -161,11 +161,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. Click a group name.
     
-3. In the details pane, next to **Owners**, click **Edit**.
+3. In the details pane, next to **Owners**, select **Edit**.
     
-5. Click the X next to the owner's name. 
+5. Select the X next to the owner's name. 
     
-6. Click **Save**.
+6. Select **Save**.
 
 ## More on managing membership
 

@@ -45,11 +45,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
    > [!NOTE]
    > You need to remove the license from the Active users page. You can't remove the license from the Shared mailbox page because licenses are user settings. 
   
-2. Choose the shared mailbox > **Manage product licenses**. 
+2. Select the shared mailbox. 
     
 3. One the **Licenses and Apps** tab, expand **Licenses** and uncheck the box for the license you want to remove.
     
-4. Choose **Save changes**.
+4. Select **Save changes**.
     
 5. When you return to the **Active users** page, the status of the shared mailbox will be **Unlicensed**. 
 
@@ -59,11 +59,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-2. Select the shared mailbox, and then choose **Edit** next to **Product licenses**.
+2. Select the shared mailbox, and then select **Edit** next to **Product licenses**.
     
 3. One the **Product licenses** page, set the toggle to **Off** for the license you want to remove.
     
-4. Choose **Save**.
+4. Select **Save**.
     
 5. When you return to the **Active users** page, the status of the shared mailbox will be **Unlicensed**. 
 
@@ -80,11 +80,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
    > [!NOTE]
    > You need to remove the license from the Active users page. You can't remove the license from the Shared mailbox page because licenses are user settings. 
 
-2. Select the shared mailbox, and then choose **Edit** next to **Product licenses**.
+2. Select the shared mailbox, and then select **Edit** next to **Product licenses**.
     
 3. One the **Product licenses** page, set the toggle to **Off** for the license you want to remove.
     
-4. Choose **Save**.
+4. Select **Save**.
     
 5. When you return to the **Active users** page, the status of the shared mailbox will be **Unlicensed**. 
 
@@ -100,11 +100,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
    > [!NOTE]
    > You need to remove the license from the Active users page. You can't remove the license from the Shared mailbox page because licenses are user settings. 
 
-2. Select the shared mailbox, and then choose **Edit** next to **Product licenses**.
+2. Select the shared mailbox, and then select **Edit** next to **Product licenses**.
     
 3. One the **Product licenses** page, set the toggle to **Off** for the license you want to remove.
     
-4. Choose **Save**.
+4. Select **Save**.
     
 5. When you return to the **Active users** page, the status of the shared mailbox will be **Unlicensed**. 
 

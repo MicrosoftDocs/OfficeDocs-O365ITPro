@@ -64,7 +64,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Products & services</a> page.
 
-2. Find the subscription to which you want to add licenses. Choose the **More actions** drop down, and then choose **Renew or add license with token**.
+2. Find the subscription to which you want to add licenses. Select the **More actions** drop-down list, and then choose **Renew or add license with token**.
 
 3. On the **Renew or add user licenses** page, choose **Use a new and unused product key**, then choose **Next**.
 
@@ -110,7 +110,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Products & services</a> page.
 
-2. Find the subscription which you want to extend. Choose the **More actions** drop down, and then choose **Renew or add license with token**.
+2. Find the subscription which you want to extend. Select the **More actions** drop-down list, and then choose **Renew or add license with token**.
 
 3. On the **Renew or add user licenses** page, choose **Use a new and unused product key**, then choose **Next**.
 

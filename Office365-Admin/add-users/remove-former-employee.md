@@ -56,7 +56,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 3. Enter a new password, and then choose **Reset**. (Don't send it to them.)
     
-4. Click the user's name to go to their properties page, and on the **OneDrive** tab, click **Initiate sign-out**.
+4. Click the user's name to go to their properties pane, and on the **OneDrive** tab, select **Initiate sign-out**.
 
 
 ### Use the old admin center to remove a former employee

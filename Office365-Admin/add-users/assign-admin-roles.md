@@ -98,9 +98,9 @@ In the new admin center, you can assign users to a role in 2 different ways:
     > [!NOTE]
     > If you don't want to receive product-related communications at this alternate email address, change your contact preferences on the **About me** page. For more information, see [Change your contact preferences](../manage/change-contact-preferences.md).
   
-2. Choose **Save** \> **Close**.
+2. Select **Save** \> **Close**.
 
-3. Choose **More** > **Edit contact information**.
+3. Select **More options** (**...**), and then choose **Edit contact information**. 
 
 4. In the **Mobile phone** box, type the number of a mobile phone—including the country code if the user has one—that can receive a text (SMS) message. This phone number is also used when you reset your password for your admin account.
 You need a mobile phone that's capable of receiving text messages for password reset only if one or both of the following applies to you:

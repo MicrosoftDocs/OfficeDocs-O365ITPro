@@ -64,7 +64,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-3. Select the user you want to delete, choose **More (...)** > **Delete user**.
+3. Select the user you want to delete, select **More options** (**...**), and then choose **Delete user**.
   
    
 #### Use the old admin center to delete a user
@@ -103,7 +103,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
 
-2. Choose the names of the users that you want to delete, choose **More (...)** > **Delete user**.
+2. Choose the names of the users that you want to delete, select **More options** (**...**), and then choose  **Delete user**.
    <br/>  
      Although you deleted the user's account, **you're still paying for the license**. See the next procedure to stop paying for the license.  Or, you can assign the license to another user. It won't be assigned to someone automatically.
     

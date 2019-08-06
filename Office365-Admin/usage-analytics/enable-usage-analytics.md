@@ -67,7 +67,7 @@ To instantiate the content pack, you have to be either a **global administrator*
     
 4. On the **Connect to Microsoft 365 usage analytics** screen, type in the tenant Id you copied in step (1) \> **Next**.
     
-5. On the next screen, choose **oAuth2** as the **Authentication method** \> **Sign in**. If you choose any other authentication method, the connection to the content pack will fail.
+5. On the next screen, select **oAuth2** as the **Authentication method** \> **Sign in**. If you choose any other authentication method, the connection to the content pack will fail.
     
     ![Choose oAuth2 as authentication method](../media/634ff4bd-06db-4633-b9c2-6258b09a1d2e.PNG)
   
@@ -105,6 +105,6 @@ To make the data that is collected for all reports anonymous, you have to be a g
     
 2. Choose **Reports**, and then choose to **Display anonymous identifiers**. This setting gets applied both to the usage reports as well as to the content pack.
   
-3. Choose **Save changes**.
+3. Select **Save changes**.
     
 

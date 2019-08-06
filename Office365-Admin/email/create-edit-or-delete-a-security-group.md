@@ -57,21 +57,21 @@ There are also [Groups in Exchange Online and SharePoint Online](#groups-in-exch
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
     
-1. Click the security group name on the **Groups** page, choose the **Members** tab, and then choose **View all and manage members**. 
+1. Click the security group name on the **Groups** page, and on the **Members** tab, select **View all and manage members**. 
     
-2. In the group pane, choose **Add members** and select the person from the list or type the name of the person you want to add in the **Search** box, and then choose **Save**.
+2. In the group pane, select **Add members** and choose the person from the list or type the name of the person you want to add in the **Search** box, and then select **Save**.
     
-    To remove members, choose the X next to their name. 
+    To remove members, select the X next to their name. 
   
 #### Use the old admin center to add members
   
 ::: moniker-end
   
-1. Click the security group name on the **Groups** page, and then choose the **Edit** tab next to **Members**. 
+1. Click the security group name on the **Groups** page, and then select **Edit** next to **Members**. 
     
-2. In the group pane, choose **Add members** and select the person from the list or type the name of the person you want to add in the **Search** box, and then choose **Save**.
+2. In the group pane, select **Add members** and choose the person from the list or type the name of the person you want to add in the **Search** box, and then select **Save**.
     
-    To remove members, choose the X next to their name. 
+    To remove members, select the X next to their name. 
   
 ### Edit a security group
 
@@ -85,11 +85,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
 2. On the **Groups** page, select a group by clicking on its name. 
     
-3. In the **Security group** pane, choose the **General** tab or the **Members** tab to edit either group details or members.
+3. In the **Security group** pane, select the **General** tab or the **Members** tab to edit either group details or members.
     
     You can edit the security group name and description in the **Details**.
     
-4. After you've made changes choose **Save** \> **Close**.
+4. After you've made changes, select **Save** \> **Close**.
     
 #### Use the old admin center to edit a security group 
 
@@ -99,9 +99,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
 2. On the **Groups** page, select a group by clicking on its name. 
     
-3. In the security group pane, choose **Edit** next to either the **Name** tab or the **Members** tab to edit either group details or members.
+3. In the security group pane, select **Edit** next to either **Name** or **Members** tab to edit either group details or members.
     
-4. After you've made changes choose **Save** \> **Close**.
+4. After you've made changes, select **Save** \> **Close**.
 
 
 ### Delete a security group
@@ -110,9 +110,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. On the **Groups** page, select a group by clicking on its name. 
     
-3. Choose **Delete group** (wasetbin icon), and then confirm by choosing **Delete**.
+3. Select **Delete group** (wasetbin icon), and then confirm by selecting **Delete**.
     
-    Choose **Close** once the group is deleted. 
+    Select **Close** once the group is deleted. 
     
 ## Groups in Exchange Online and SharePoint Online
 

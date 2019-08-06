@@ -94,11 +94,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
 
 1. To get started, go to your domains page at Wix by using [this link](https://premium.wix.com/wix/api/mpContainerStaticController#/domains?referralAdditionalInfo=account). You'll be prompted to log in first.
     
-2. On the **My Domains** page, in the **Mailboxes** area, click the **Change Settings** link. 
+2. On the **My Domains** page, in the **Mailboxes** area, select the **Change Settings** link. 
     
-3. Select **Other** from the **Your Email Provider** dropdown. 
+3. Choose **Other** from the **Your Email Provider** drop-down list. 
     
-4. Click **+ Add another**.
+4. Select **+ Add another**.
     
 5. In the boxes for the new record, type or copy and paste the values from the following table:
     
@@ -108,18 +108,18 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
 6. If there are any other MX records in the **MX (Mail Exchanger)** section, delete each of them. 
     
-7. Click **OK**.
+7. Select **OK**.
     
-8. In the confirmation dialog box, choose **OK**.
+8. In the confirmation dialog box, select **OK**.
     
 ## Add the six CNAME records that are required for Office 365
 <a name="BKMK_cname"> </a>
 
 1. To get started, go to your domains page at Wix by using [this link](https://premium.wix.com/wix/api/mpContainerStaticController#/domains?referralAdditionalInfo=account). You'll be prompted to login first.
     
-2. On the **My Domains** page, in the **Advanced** area, click the **Edit DNS** button. 
+2. On the **My Domains** page, in the **Advanced** area, select the **Edit DNS** button. 
     
-3. Click **+ Add another** in the **CNAME (Aliases) row** of the DNS editor for each CNAME record. 
+3. Select **+ Add another** in the **CNAME (Aliases) row** of the DNS editor for each CNAME record. 
     
 4. In the boxes for the new record, type or copy and paste the values from the following table:
     
@@ -131,7 +131,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |enterpriseregistration  <br/> |3600 (seconds)  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
 |enterpriseenrollment  <br/> |3600 (seconds)  <br/> |CNAME  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
    
-5. Click the **Save DNS** button at the top of the DNS editor. 
+5. Select the **Save DNS** button at the top of the DNS editor. 
     
 6. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
@@ -143,9 +143,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 1. To get started, go to your domains page at Wix by using [this link](https://premium.wix.com/wix/api/mpContainerStaticController#/domains?referralAdditionalInfo=account). You'll be prompted to login first.
     
-2. On the **My Domains** page, in the **Advanced** area, click the **Edit DNS** button. 
+2. On the **My Domains** page, in the **Advanced** area, select the **Edit DNS** button. 
     
-3. Click **+ Add another** in the **TXT row** of the DNS editor. 
+3. Select **+ Add another** in the **TXT row** of the DNS editor. 
     
 4. In the boxes for the new record, type or copy and paste the values from the following table:
     
@@ -153,7 +153,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |:-----|:-----|:-----|:-----|
 |[leave this blank]  <br/> |3600 (seconds)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
    
-5. Click the **Save DNS** button at the top of the DNS editor. 
+5. Select the **Save DNS** button at the top of the DNS editor. 
     
 6. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
@@ -162,9 +162,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
 
 1. To get started, go to your domains page at Wix by using [this link](https://premium.wix.com/wix/api/mpContainerStaticController#/domains?referralAdditionalInfo=account). You'll be prompted to login first.
     
-2. On the **My Domains** page, in the **Advanced** area, click the **Edit DNS** button. 
+2. On the **My Domains** page, in the **Advanced** area, select the **Edit DNS** button. 
     
-3. Click **+ Add another** in the **SRV row** of the DNS editor. 
+3. Select **+ Add another** in the **SRV row** of the DNS editor. 
     
 4. In the boxes for the new record, type or copy and paste the values from the following table:
     
@@ -173,7 +173,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 |_sip  <br/> |_tls  <br/> |@  <br/> |3600 (seconds)  <br/> |SRV  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
 |_sipfederationtls  <br/> |_tcp  <br/> |@  <br/> |3600 (seconds)  <br/> |SRV  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
    
-5. Click the **Save DNS** button at the top of the DNS editor. 
+5. Select the **Save DNS** button at the top of the DNS editor. 
     
 6. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     

@@ -52,7 +52,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     ![OVH choose TXT entry](../media/3aaa9dae-0b1d-436b-a980-b67a970f31a9.png)
   
-6. In the boxes for the new record, type or copy and paste the values from the following table. To assign a TTL value, select **Personalized**from the drop-down list, and then type the value in the text box.
+6. In the boxes for the new record, type or copy and paste the values from the following table. To assign a TTL value, choose **Personalized**from the drop-down list, and then type the value in the text box.
     
 |**﻿Record type**|**Sub-domain**|**TTL**|**Value**|
 |:-----|:-----|:-----|:-----|
@@ -69,15 +69,10 @@ Now that you've added the record at your domain registrar's site, you'll go back
 When Office 365 finds the correct TXT record, your domain is verified.
   
 1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
-
-    
+ 
 2. On the **Domains** page, choose the domain that you are verifying. 
-    
-    
-  
+      
 3. On the **Setup** page, choose **Start setup**.
-    
-    
   
 4. On the **Verify domain** page, choose **Verify**.
     

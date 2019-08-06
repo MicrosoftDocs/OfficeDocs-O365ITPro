@@ -43,13 +43,13 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>. 
  
-2. Choose **Users** > **Active users**.
+2. Select **Users** > **Active users**.
 
 3. Select the boxes next to the names of all the users you want to move.
     
-4. Choose **More options (...)** at the top of the page, and then choose **Edit domains**. 
+4. Select **More options** (**…**), at the top of the page, and then choose **Edit domains**. 
     
-5. In the **Edit domains** pane, choose a different domain. 
+5. In the **Edit domains** pane, select a different domain. 
      
 #### Use the old admin center to move users
 
@@ -69,13 +69,13 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
  
-2. Choose **Users** > **Active users**.
+2. Select **Users** > **Active users**.
 
 3. Select the boxes next to the names of all the users you want to move.
     
 4. At the top of the page, choose **More** > **Edit domains**.
     
-5. In the **Edit domains** pane, choose a different domain. 
+5. In the **Edit domains** pane, select a different domain. 
   
 You'll need to do this for yourself, too, if you're on the domain that you want to remove. When you edit the domain for your account, you'll have to log out and log back in using the new domain you chose to continue. 
 
@@ -87,9 +87,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. Go to **Users** \> **Active Users**, and select your account from the list. 
     
-2. On the **Account** tab, click **Manage username**, and then choose a different domain.    
+2. On the **Account** tab, select **Manage username**, and then choose a different domain.    
   
-3. At the top, choose your account name, then choose **Sign Out**.
+3. At the top, select your account name, then select **Sign Out**.
     
 4. Sign in with the new domain and your same password.
     
@@ -101,11 +101,11 @@ You can also use PowerShell to move users to another domain. See [Set-MsolUserPr
 
 1. Go to **Users** \> **Active Users**, and click your name in the list. 
     
-2. In the **Username / Email** section, click **Edit**, and then choose a different domain.    
+2. In the **Username / Email** section, select **Edit**, and then choose a different domain.    
  
-3. Choose **Set as primary**, choose **Save**, and then **Close**.
+3. Select **Set as primary** > **Save** > **Close**.
   
-4. At the top, choose your account name, then choose **Sign Out**.
+4. At the top, select your account name, then select **Sign Out**.
     
 5. Sign in with the new domain and your same password.
     
@@ -122,11 +122,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page. 
 
     
-2. Click the group name, and then click **Edit** on the **General** tab under **Email address, Primary**.
+2. Click the group name, and then on the **General** tab under **Email address, Primary**, select **Edit**.
     
 3. Use the drop-down to choose another domain.
     
-4. Choose **Save**, then **Close**. Repeat this process for any groups or distribution lists associated with the domain that you want to remove.
+4. Select **Save**, then **Close**. Repeat this process for any groups or distribution lists associated with the domain that you want to remove.
     
 #### Use the old admin center to move groups 
 
@@ -146,11 +146,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
     
-2. Click the group name, and then click **Edit** next to **Name**. 
+2. Click the group name, and then select **Edit** next to **Name**. 
     
 3. Use the drop-down to choose another domain.
     
-4. Choose **Save**, then **Close**. Repeat this process for any groups or distribution lists associated with the domain that you want to remove.
+4. Select **Save**, then **Close**. Repeat this process for any groups or distribution lists associated with the domain that you want to remove.
     
 ### Step 3: Remove the old domain
 
@@ -174,11 +174,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
   
-2. On the **Domains** page, choose the domain that you want to remove. 
+2. On the **Domains** page, select the domain that you want to remove. 
     
-3. In the right pane, choose **Remove**.
+3. In the right pane, select **Remove**.
     
-4. Follow any additional prompts, and then choose **Close**.
+4. Follow any additional prompts, and then select **Close**.
     
 ## How long does it take for a domain to be removed?
 

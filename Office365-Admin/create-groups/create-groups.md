@@ -78,13 +78,13 @@ Users can [add themselves or request approval](https://support.office.com/articl
 
 1. In the admin center, refresh the page so your new group appears, choose **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a>, and then click the group that you want to add members to.
     
-2. On the **Members** tab, click **View all and manage members**.
+2. On the **Members** tab, select **View all and manage members**.
 
-3. Click **Add members**.
+3. Select **Add members**.
     
-4. Select the users you want to add, and then click **Save**.
+4. Select the users you want to add, and then select **Save**.
     
-5. Click **Close** three times. 
+5. Select **Close** three times. 
     
 The group will appear in Outlook with members assigned to it.
 
@@ -96,13 +96,13 @@ Users can [add themselves or request approval](https://support.office.com/articl
 
 1. In the admin center, refresh the page so your new group appears, choose **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a>, and then click the group that you want to add members to.
     
-2. Next to **Members**, choose **Edit**.
+2. Next to **Members**, select **Edit**.
 
-3. Click **Add members**.
+3. Select **Add members**.
     
-4. Select the users you want to add, and then click **Save**.
+4. Select the users you want to add, and then select **Save**.
     
-5. Click **Close** three times. 
+5. Select **Close** three times. 
     
 The group will appear in Outlook with members assigned to it.
   
@@ -124,7 +124,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 2. On the **Settings** tab, select **Send copies of group conversations and events to group members** if you want members to receive copies of group messages and calendar items in their own inbox.
 
-3. Choose **Save**.
+3. Select **Save**.
 
 #### Use the old admin center to send copies of conversations to group members' inboxes
 
@@ -132,11 +132,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page, and then click the group you want to change.
 
-2. Next to **Name**, click **Edit**.
+2. Next to **Name**, select **Edit**.
 
 3. Turn **Send copies of group conversations and events to group members' inboxes** to **On** if you want members to receive copies of group messages and calendar items in their own inbox.
 
-4. Choose **Save**.
+4. Select **Save**.
 
 ### Let people outside the organization email the group
 
@@ -161,17 +161,17 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. Refresh your admin center page so your new group appears.
     
-2. In the admin center groups list, click the group you want to change, and then next to **Name**, click **Edit**. 
+2. In the admin center groups list, click the group you want to change, and then next to **Name**, select **Edit**. 
     
 3. Set the **Let people outside the organization email the group** toggle to **On**.
     
-4. Choose **Save**.
+4. Select **Save**.
 
 ## Who can delete email from the Group Inbox?
 
 The Group owner can delete any emails from the Group Inbox, regardless of whether they were the initial author.
   
-A member can delete an email conversation from the Group Inbox if they initiated it, and only using Outlook on the web (right-click the email, then click **Delete**). They can't do it from the Outlook app (Outlook 2016).
+A member can delete an email conversation from the Group Inbox if they initiated it, and only using Outlook on the web (right-click the email, then choose **Delete**). They can't do it from the Outlook app (Outlook 2016).
   
 When an email is deleted from the group mailbox, it is not deleted from any of the group members' personal mailboxes.
 

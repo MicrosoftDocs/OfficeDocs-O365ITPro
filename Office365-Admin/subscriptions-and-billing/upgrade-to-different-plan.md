@@ -36,20 +36,20 @@ When you use the **Upgrade** tab, you're led through the process of buying a new
 
 1. In the Admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Choose the subscription that you want to upgrade.
+2. Select the subscription that you want to upgrade.
 
-3. On the subscription details page, choose **Upgrade**.
+3. On the subscription details page, select **Upgrade**.
 
-4. Find the plan to which you want to upgrade, then choose the **Upgrade** button.
+4. Find the plan to which you want to upgrade, then select the **Upgrade** button.
 
-5. Enter the number of licenses that you need, choose whether to pay each month or for the whole year, then choose **Checkout**.
+5. Enter the number of licenses that you need, choose whether to pay each month or for the whole year, then select **Checkout**.
 
     > [!NOTE]
     > Make sure you buy enough licenses to cover all your users.
 
-6. On the next page, verify the **Sold to** address, the **Billed to** information, and **Items in this order**. You can change the default payment method at this step. If you need to make any changes, choose **Change** next to the applicable section.
+6. On the next page, verify the **Sold to** address, the **Billed to** information, and **Items in this order**. You can change the default payment method at this step. If you need to make any changes, select **Change** next to the applicable section.
 
-7. When you're finished, choose **Accept agreement & place order**.
+7. When you're finished, select **Accept agreement & place order**.
 
 When you finish checkout, it might take a few minutes to finalize the upgrade. You can start using your new subscription right away. Choose **Check upgrade status** to check the progress of the upgrade. You'll be notified when the upgrade is complete. The notification is displayed on the **Products & services** page, next to your new subscription.
 

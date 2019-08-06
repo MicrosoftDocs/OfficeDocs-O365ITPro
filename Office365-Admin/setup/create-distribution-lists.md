@@ -53,9 +53,9 @@ Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=850
     
 2. Choose **Groups** \> **Groups** in the left navigation pane, and then choose **Add a group**. 
       
-3. Under **Type** of group, select the dropdown and choose **Distribution list**.
+3. Under **Type** of group, select the drop-down menu and choose **Distribution list**.
     
-    ![Add a group page - Choose the dropdown and choose distribution list](../media/fb663b0a-b6f2-4487-8bdd-0777ed50b735.png)
+    ![Add a group page - Select the drop-down menu and choose distribution list](../media/fb663b0a-b6f2-4487-8bdd-0777ed50b735.png)
   
 4. Enter a name and add a description for your new group.
     

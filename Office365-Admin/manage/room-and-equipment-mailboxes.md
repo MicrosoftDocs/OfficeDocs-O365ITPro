@@ -63,7 +63,7 @@ To use room or equipment mailboxes, open Outlook from your computer or sign in t
     
 9. To make sure the room, equipment, and people you've invited are available, click **Scheduling Assistant** at the top. Then select an available time in the calendar.<br/> ![Check if room equipment available](../media/eb0097c6-4263-4b63-bfca-f7c03ad99b4f.png)<br/>TIP: In the scheduling calendar, blue means the room or equipment is reserved, or busy. Select the white, or free, area on the calendar. 
   
-10. When finished, choose **Send**.
+10. When finished, select **Send**.
     
 ## Set up room and equipment mailboxes
 
@@ -71,7 +71,7 @@ To set up a room or equipment mailbox, go to the Microsoft 365 admin center. (Yo
   
 1. In the admin center, go to the **Resources** \> [Rooms &amp; equipment](https://go.microsoft.com/fwlink/p/?linkid=2067334) page.
   
-2. Click **Add**.
+2. Select **Add**.
     
 3. Fill out the room or equipment fields:<br/>![Add a room mailbox in Office 365](../media/114d49e3-976e-40ef-b0af-2b0f5c85f15e.png)<br/>
   
@@ -87,11 +87,11 @@ To set up a room or equipment mailbox, go to the Microsoft 365 admin center. (Yo
     
   - **Phone number**: the number of the room itself. This is different from the meeting phone number generated when using Skype for Business.
     
-4. Choose **Add**.
+4. Select **Add**.
     
 5. Select the room or equipment mailbox you created to see or edit the details.
   
-6. If you made changes, click **Save** and then **Close**.
+6. If you made changes, select **Save** and then **Close**.
 
 ## Common questions about room and equipment mailboxes
 

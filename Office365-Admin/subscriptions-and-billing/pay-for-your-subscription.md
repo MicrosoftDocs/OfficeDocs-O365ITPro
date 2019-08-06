@@ -101,7 +101,7 @@ Unfortunately, if your subscription is set up to pay by invoice, we can't accept
   
 If you're not sure how much you owe, you can [check your bill and billing history online](view-your-bill-or-invoice.md). For Azure, see [How to download your Azure billing invoice and daily usage data](http://go.microsoft.com/fwlink/p/?LinkId=718058).
   
- **Choose your "bill-to" country or region from the dropdown menu below.**
+ **Choose your "bill-to" country or region from the drop-down menu below.**
   
 > [!div class="op_single_selector"]
 > - **Choose your country or region**

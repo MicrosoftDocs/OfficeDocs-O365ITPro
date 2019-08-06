@@ -53,9 +53,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. Click the name of the user whose email you want to forward to open the properties page. 
  
-3. Choose the **Mail** tab, and then click **Manage email forwarding**. 
+3. On the **Mail** tab, select **Manage email forwarding**. 
   
-4. On the email forwarding page, set the toggle to **On**, enter the forwarding address, and choose whether you want to keep a copy of forwarded emails. If you don't see this option, make sure a license is assigned to the user account. Choose **Save**.
+4. On the email forwarding page, set the toggle to **On**, enter the forwarding address, and choose whether you want to keep a copy of forwarded emails. If you don't see this option, make sure a license is assigned to the user account. Select **Save**.
     
     **To forward to multiple email addresses**, you can ask the user to set up a rule in Outlook to forward to the addresses. To learn more, see [Use rules to automatically forward messages](https://support.office.com/article/use-rules-to-automatically-forward-messages-45aa9664-4911-4f96-9663-ece42816d746). 
     
@@ -83,9 +83,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. Click the name of the user whose email you want to forward to open the properties page. 
 
-3. Expand **Mail settings**, and then in the **Email forwarding** section, click **Edit**.
+3. Expand **Mail settings**, and then in the **Email forwarding** section, select **Edit**.
 
-4. On the email forwarding page, set the toggle to **On**, enter the forwarding address, and choose whether you want to keep a copy of forwarded emails. If you don't see this option, make sure a license is assigned to the user account. Choose **Save**.
+4. On the email forwarding page, set the toggle to **On**, enter the forwarding address, and choose whether you want to keep a copy of forwarded emails. If you don't see this option, make sure a license is assigned to the user account. Select **Save**.
     
     **To forward to multiple email addresses**, you can ask the user to set up a rule in Outlook to forward to the addresses. To learn more, see [Use rules to automatically forward messages](https://support.office.com/article/use-rules-to-automatically-forward-messages-45aa9664-4911-4f96-9663-ece42816d746). 
     

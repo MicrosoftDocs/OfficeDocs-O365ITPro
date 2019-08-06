@@ -134,15 +134,15 @@ To create a mail transport rule, view a [short training video](https://support.o
   
 1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
 
-2. In the **mail flow** category, click **rules**.
+2. In the **mail flow** category, select **rules**.
     
-3. Click **+**, and then click **Create a new rule**.
+3. Select **+**, and then **Create a new rule**.
     
-4. Click **More options** at the bottom of the dialog box to see the full set of options. 
+4. Select **** at the bottom of the dialog box to see the full set of options. 
     
 5. Apply the settings in the following table for each rule. Leave the rest of the settings at the default, unless you want to change these.
     
-6. Click **Save**.
+6. Select **Save**.
     
 |**Setting**|**Warn users before opening attachments of Office files**|**Block file types that could contain ransomware or other malicious code**|
 |:-----|:-----|:-----|
@@ -170,15 +170,15 @@ To create a mail transport rule:
   
 1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
 
-2. In the **mail flow** category, click **rules**.
+2. In the **mail flow** category, select **rules**.
     
-3. Click **+**, and then click **Create a new rule**.
+3. Select **+**, and then **Create a new rule**.
     
-4. Click **More options** at the bottom of the dialog box to see the full set of options. 
+4. Select **More options** at the bottom of the dialog box to see the full set of options. 
     
 5. Apply the settings in the following table. Leave the rest of the settings at the default, unless you want to change these.
     
-6. Click **Save**.
+6. Select **Save**.
     
 |**Setting**|**Warn users before opening attachments of Office files**|
 |:-----|:-----|
@@ -203,11 +203,11 @@ Your organization might have configured additional options that apply a label to
   
 ### To send protected email
 
-In Outlook for PC, click **Options** in the email, and then click **Permissions**. 
+In Outlook for PC, select **Options** in the email, and then choose **Permissions**. 
   
 ![Email message encryption in Outlook](../media/08e90a7e-a2d2-41a4-bae9-0a46b4ce639a.png)
   
-In Outlook.com, click **Protect** in the email. The default protection is **Do not forward**. To change this to encrypt, click **Change Permissions** \> **Encrypt**. 
+In Outlook.com, select **Protect** in the email. The default protection is **Do not forward**. To change this to encrypt, select **Change Permissions** \> **Encrypt**. 
   
 ![Email message encryption in Outlook.com](../media/329ccf50-f6b1-4fb8-b249-60b907a82b7e.png)
   
@@ -267,7 +267,7 @@ To create an ATP safe attachment policy, view a [short training video](https://s
     
 2. In the Office 365 Security &amp; Compliance Center, in the left navigation pane, under **Threat management**, choose **Policy**.
     
-3. On the Policy page, choose **ATP safe attachments**.
+3. On the Policy page, select **ATP safe attachments**.
     
 4. On the Safe attachments page, apply this protection broadly by selecting the **Turn on ATP for SharePoint, OneDrive, and Microsoft Teams** check box. 
     
@@ -275,7 +275,7 @@ To create an ATP safe attachment policy, view a [short training video](https://s
     
 6. Apply the settings in the following table. 
     
-7. After you have reviewed your settings, choose **Create this policy** or **Save**, as appropriate.
+7. After you have reviewed your settings, select **Create this policy** or **Save**, as appropriate.
     
 |
 |
@@ -313,15 +313,15 @@ To modify the default policy:
     
 2. Under **Settings that apply to content except email**, select **Office 365 ProPlus, Office for iOS and Android**.
     
-3. Click **Save**. 
+3. Select **Save**. 
     
 To create a new policy targeted to all recipients in your domain:
   
-1. On the Safe links page, under **Policies that apply to the entire organization**, click **+** to create a new policy. 
+1. On the Safe links page, under **Policies that apply to the entire organization**, select **+** to create a new policy. 
     
 2. Apply the settings listed in the following table.
     
-3. Click **Save**. 
+3. Select **Save**. 
     
 |
 |
