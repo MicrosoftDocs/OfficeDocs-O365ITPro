@@ -49,7 +49,7 @@ When you convert a user's mailbox to a shared mailbox, all of the existing email
 
 ::: moniker range="o365-worldwide"
 
-## Use the new admin center to convert a mailbox to a shared mailbox
+### Use the new admin center to convert a mailbox to a shared mailbox
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
@@ -59,7 +59,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 3. On the **Mail** tab, under **More actions**, select **Convert to shared mailbox**. 
 
-## Use the old admin center to convert a mailbox to a shared mailbox
+### Use the old admin center to convert a mailbox to a shared mailbox
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
@@ -111,7 +111,7 @@ Let's say you've deleted a user account and now you want to convert their old ma
    
 2. Choose **Recipients** \> **Shared**.
 
-3. Choose the shared mailbox. Under **Convert to Regular Mailbox**, click **Convert**.
+3. Choose the shared mailbox. Under **Convert to Regular Mailbox**, select **Convert**.
 
 4. Go back to the admin center. Under **Users**, choose the user account associated with the old shared mailbox. Assign a license to the account, and reset the password.
 
