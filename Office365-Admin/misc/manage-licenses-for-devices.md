@@ -39,7 +39,7 @@ To learn more about using Azure AD groups, see [Manage app and resource access u
 
 When you assign licenses to a group, you assign licenses to all devices within the group. You can only assign one subscription to any single group.
 
-1. In the Microsoft 365 admin center, go to the **Billing** > Licenses page.
+1. In the Microsoft 365 admin center, go to the **Billing** > <a href="https://go.microsoft.com/fwlink/p/?linkid=842264" target="_blank">Licenses</a> page.
 2. On the **Licenses** page, select **Office 365 ProPlus for Devices**.
 3. On the **Office 365 ProPlus for Devices** page, select **Assign licenses**.
 4. In the **Assign licenses to a group** pane, begin typing a group name, and then choose it from the results to add it to the list.
