@@ -139,7 +139,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Click Save](../media/bf496d01-ccbe-4800-95f4-7b2283f2e5f6.png)
   
-## Add the six CNAME records that are required for Office 365
+## Add the five CNAME records that are required for Office 365
 <a name="BKMK_add_CNAME"> </a>
 
 1. To get started, go to your domains page at Google Domains by using [this link](https://domains.google.com/registrar). You'll be prompted to sign in. To do so:
@@ -172,11 +172,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Click Add](../media/4a78080a-e0b2-4582-9696-3fe4fea41e91.png)
   
-5. Add the other five CNAME records.
+5. Add the other four CNAME records.
     
     In the **Custom resource records** section, create a record by using the values from the next row in the table, and then again choose **Add** to complete that record. 
     
-    Repeat this process until you have created all six CNAME records.
+    Repeat this process until you have created all required CNAME records.
     
 ## Add a TXT record for SPF to help prevent email spam
 <a name="BKMK_add_TXT"> </a>
