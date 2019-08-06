@@ -60,7 +60,7 @@ The ability to invite external users to SharePoint sites is enabled by default, 
   
 2. On the page that opens, choose whether users can share guest links with existing external users, new and existing external users, or anyone, including anonymous users. 
     
-6. Choose **Save**.
+6. Select **Save**.
     
 ## Fine tune settings for individual sites
 

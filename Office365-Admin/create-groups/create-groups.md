@@ -48,7 +48,7 @@ While users can create an Office 365 group from Outlook or other apps, as an adm
 
 ::: moniker-end
 
-2. Choose **Add a group**.
+2. Select **Add a group**.
   
 3. Under **Type**, choose **Office 365**.
     
@@ -76,7 +76,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 Users can [add themselves or request approval](https://support.office.com/article/Join-a-group-in-Outlook-2e59e19c-b872-44c8-ae84-0acc4b79c45d), or you can add them now.
 
-1. In the admin center, refresh the page so your new group appears, choose **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a>, and then select the name of the group that you want to add members to.
+1. In the admin center, refresh the page so your new group appears, select **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a>, and then select the name of the group that you want to add members to.
     
 2. On the **Members** tab, select **View all and manage members**.
 
@@ -94,7 +94,7 @@ The group will appear in Outlook with members assigned to it.
 
 Users can [add themselves or request approval](https://support.office.com/article/Join-a-group-in-Outlook-2e59e19c-b872-44c8-ae84-0acc4b79c45d), or you can add them now.
 
-1. In the admin center, refresh the page so your new group appears, choose **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a>, and then select the group that you want to add members to.
+1. In the admin center, refresh the page so your new group appears, select **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a>, and then select the group that you want to add members to.
     
 2. Next to **Members**, select **Edit**.
 
@@ -152,7 +152,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 2. In the admin center groups list, select the name of the group you want to change, and then on the **Settings** tab, select **Allow external senders to email this group**.
     
-4. Choose **Save**.
+4. Select **Save**.
 
 
 #### Use the old admin center to let people outside the organization email the group

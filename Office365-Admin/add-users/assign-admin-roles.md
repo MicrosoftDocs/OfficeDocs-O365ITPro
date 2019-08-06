@@ -54,11 +54,11 @@ We've got a new roles experience that started rolling out in June. Want to try i
 
 ::: moniker-end
 
-2. On the **Active users** page, select the user whose admin role you want to change. In the flyout pane, next to **Roles**, choose **Edit**. 
+2. On the **Active users** page, select the user whose admin role you want to change. In the flyout pane, next to **Roles**, select **Edit**. 
 
     If you don't see the **Edit** option, then you don't have a permission to edit and can't assign admin roles to other people. Ask a global admin in your business to assign roles for you. In a small business, the business owner (the person who purchased your subscription) is a global admin. In a large business, key people in the IT department are global admins.
 
-3. Choose **Customized administrator** to see a list of roles we've customized for you. For a description of each role, see [About admin roles.](about-admin-roles.md)
+3. Select **Customized administrator** to see a list of roles we've customized for you. For a description of each role, see [About admin roles.](about-admin-roles.md)
 
 
 ::: moniker range="o365-worldwide"
@@ -85,7 +85,7 @@ In the new admin center, you can assign users to a role in 2 different ways:
 
 1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.
 
-2. On the **Active users** page, select the user whose admin role you want to change. In the flyout pane, next to **Roles**, choose **Manage roles**.
+2. On the **Active users** page, select the user whose admin role you want to change. In the flyout pane, next to **Roles**, select **Manage roles**.
 
 3. Select the admin role that you want to assign to the user. If you don't see the role you're looking for, select **Show all** at the bottom of the list.
 
@@ -109,7 +109,7 @@ You need a mobile phone that's capable of receiving text messages for password r
 
       - Your user accounts are synchronized through directory synchronization.
 
-5. When you have finished, choose **Save**.
+5. When you have finished, select **Save**.
 
 
 ### Assign admin roles to multiple users

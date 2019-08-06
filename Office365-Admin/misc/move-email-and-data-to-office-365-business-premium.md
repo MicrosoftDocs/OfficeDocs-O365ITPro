@@ -41,11 +41,11 @@ If you want to move some of your personal data over to your new business identit
 2. Select the **app launcher** icon in the upper-left and then choose **OneDrive**.
   
     > [!TIP]
-    > The first time you open OneDrive for Business, you'll need to set up your OneDrive. If this occurs, on the **Welcome to OneDrive for Business** page, choose **Next**. After OneDrive is set up, choose **Your OneDrive is ready**. 
+    > The first time you open OneDrive for Business, you'll need to set up your OneDrive. If this occurs, on the **Welcome to OneDrive for Business** page, select **Next**. After OneDrive is set up, select **Your OneDrive is ready**. 
   
-3. You'll be taken to an empty OneDrive folder. If you want to create sub folders, choose **New** \> **Folder**.
+3. You'll be taken to an empty OneDrive folder. If you want to create sub folders, select **New** \> **Folder**.
 
-4. Choose **Upload** to copy the files from your hard drive where you copied your OneDrive files. 
+4. Select **Upload** to copy the files from your hard drive where you copied your OneDrive files. 
   
     > [!NOTE]
     >  You can upload individual files and groups of files (such as all files in a particular folder) at one time but you cannot copy a folder to OneDrive for Business. Instead, you'll need to create the folder structure you want on OneDrive for business. >  If you want to copy files to a folder that you created in step 4, open that folder before you upload the files. Otherwise, the files will be uploaded to the root folder. You can also move your files between folders in OneDrive for Business after you've uploaded them. 

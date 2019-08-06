@@ -42,7 +42,7 @@ It could also happen because you haven't assigned a license to yourself or your 
     > [!NOTE]
     > If you're unable to sign in with your work or school account, you may be signing in to the wrong Office 365 service, see [Where to sign in to Office 365 for business](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
   
-2. Click your account icon in the upper-right, and then choose **My account**.
+2. Select your account icon in the upper-right, and then choose **My account**.
   
 3. In the left navigation, select **Subscriptions**.
 
@@ -56,7 +56,7 @@ If you're not sure what plan you have, follow the steps in [What subscription do
 
 When you install Office it's automatically linked to your Office 365 plan. This means if you recently switched plans you'll need to uninstall and then reinstall Office to associate it with your updated subscription. Use this easy fix tool and then follow the steps to reinstall Office.
   
-1. Click this easy fix button to uninstall Office.<br/>[![Easy fix download indicating a fix is available](../media/8b46b28d-8630-458f-b31c-0bbe25e168ec.png)](https://aka.ms/diag_officeuninstall)
+1. Select this easy fix button to uninstall Office.<br/>[![Easy fix download indicating a fix is available](../media/8b46b28d-8630-458f-b31c-0bbe25e168ec.png)](https://aka.ms/diag_officeuninstall)
   
 2. For the remaining steps showing how to save and use the easy fix, follow the steps for your browser:
     
@@ -160,30 +160,30 @@ Most Lync sign-in issues can be traced to a small number of causes, and many of 
   
 |**Possible Cause**|**Resolution**|
 |:-----|:-----|
-|During sign-in, a dialog box appears that contains the following phrase: **Lync cannot verify that the server is trusted for your sign-in address. Connect anyway?** <br/> |Verify that the domain name in the dialog box is a trusted server in your organization—for example, **domainName.contoso.com**. Ask the user to select the **Always trust this server** check box, and then click **Connect**.  <br/><br/> Enterprise customers can prevent this message from appearing when a user signs in for the first time by modifying the Windows registry on each user's computer. For details, see [Modify TrustModelData registry keys](https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#modify-trustmodeldata-registry).  <br/> |
+|During sign-in, a dialog box appears that contains the following phrase: **Lync cannot verify that the server is trusted for your sign-in address. Connect anyway?** <br/> |Verify that the domain name in the dialog box is a trusted server in your organization—for example, **domainName.contoso.com**. Ask the user to select the **Always trust this server** check box, and then select **Connect**.  <br/><br/> Enterprise customers can prevent this message from appearing when a user signs in for the first time by modifying the Windows registry on each user's computer. For details, see [Modify TrustModelData registry keys](https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#modify-trustmodeldata-registry).  <br/> |
 |Mistyped sign-in address, user name, or password  <br/> | 1. Confirm that the user's sign-in name and password are correct.  <br/> 2. Verify that the user's sign-in name is formatted as follows: **bobk@contoso.com**. This may be different from the format you use to sign in to your organization's network.  <br/><br/>  Ask the user to try signing in to Lync again.  <br/> |
 |Forgotten password  <br/> |Reset the user's password and notify him or her of the new temporary password.  <br/> |
 |Not licensed to use Lync Online  <br/> |Confirm that the user is registered as a Lync user. If not, register the user, and then ask him or her to sign in to Lync again.  <br/> |
 |Wrong version of Lync installed  <br/> |This issue is usually associated with an error message that contains the following phrase: **the authentication service may be incompatible with this version of the program**.  <br/><br/> Ask the user to uninstall and reinstall Lync from the Office 365 Portal.  <br/> |
-|Problem acquiring a personal certificate that is required to sign in  <br/> |If the user's sign address has recently changed, they may need to delete cached sign-in data. Ask users to sign out, click the Delete my sign-in info link on the sign-in screen, and then try again.  <br/> |
+|Problem acquiring a personal certificate that is required to sign in  <br/> |If the user's sign address has recently changed, they may need to delete cached sign-in data. Ask users to sign out, select the Delete my sign-in info link on the sign-in screen, and then try again.  <br/> |
 |You set up a custom domain name, and the changes may not have finished propagating through the system.  <br/> |First, ensure that you have modified the Domain Name Service (DNS) records to reflect the change. For details, see [Update DNS Service (SRV) Records](https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#update-dns-service).  <br/><br/> If you have already made the necessary DNS changes, advise the user to try logging in later. DNS changes can take up to 72 hours to be reflected throughout the system.  <br/> |
 |System clock out of sync with server clock  <br/> |Ensure that your network domain controller is synchronizing with a reliable external time source. For details, see the Microsoft Knowledge Base article 816042, [How to configure an authoritative time server in Windows Server](http://go.microsoft.com/fwlink/p/?linkid=3052&amp;kbid=816042).  <br/> |
    
 ### Can't enter your password?
 
-Sometimes, the password box doesn't appear on the Skype for Business sign-in screen. If you're signing in for the first time, the password box won't appear until you enter your sign-in address and click **Sign in**. 
+Sometimes, the password box doesn't appear on the Skype for Business sign-in screen. If you're signing in for the first time, the password box won't appear until you enter your sign-in address and select **Sign in**. 
   
 If you changed your password, the password box might not appear until you delete your old sign-in info. Here's how:
   
-1. In the Skype for Business main window, click the **Options** button <br/>![The Options button in Skype for Business with the arrow on the right.](../media/9081f0c6-5c72-4b25-a6ea-ba18b1ae7ffa.png) and select **File** \> **Sign Out**.
+1. In the Skype for Business main window, select the **Options** button <br/>![The Options button in Skype for Business with the arrow on the right.](../media/9081f0c6-5c72-4b25-a6ea-ba18b1ae7ffa.png) and select **File** \> **Sign Out**.
 
     ![Skype for Business options menu](../media/febd1252-cc5a-4c1b-a180-fae009e356c1.png)
   
-2. Click **Delete my sign-in info**, select **Yes**, and then click **Sign In**.
+2. Select **Delete my sign-in info**, select **Yes**, and then select **Sign In**.
 
     ![Skype for Business sign-in screen](../media/4120ef5d-31d6-497b-8571-3f5cd735461f.png)
   
-3. Under **Password**, enter your password, and click **Sign In**.<br/>![Skype for Business sign-in screen](../media/36bc1512-0299-4af3-9ed0-a6f8f526897a.png)
+3. Under **Password**, enter your password, and select **Sign In**.<br/>![Skype for Business sign-in screen](../media/36bc1512-0299-4af3-9ed0-a6f8f526897a.png)
   
 ### Get more help with Skype for Business Online issues
 

@@ -48,31 +48,31 @@ Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=850
 
 ::: moniker-end
 
-1. Click the app launcher ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png), and then click **Admin**.
+1. Select the app launcher ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png), and then select **Admin**.
    
     Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
     
-2. Choose **Admin centers**, and then click **Exchange**.
+2. Select **Admin centers**, and then choose **Exchange**.
     
-3. Under Mail flow, choose **Rules**.
+3. Under Mail flow, select **Rules**.
     
-4. Click the **+** (Add) icon and choose **Apply disclaimers**.
+4. Select the **+** (Add) icon and choose **Apply disclaimers**.
     
 5. Give the rule a name.
     
-6. Under Apply this rule, choose **[Apply to all messages]**.
+6. Under **Apply this rule**, select **[Apply to all messages]**.
     
     > [!TIP]
     > [Learn more](https://docs.microsoft.com/en-us/Exchange/policy-and-compliance/mail-flow-rules/signatures#Scoping) about applying conditions if you don't want the disclaimer applied to all messages. (This scoping article is for Exchange Server, but it also applies to Office 365.) 
   
 7. Under Do the following, leave **Append the disclaimer** selected. 
     
-8.  Click **Enter text** and type your disclaimer. 
+8.  Select **Enter text** and type your disclaimer. 
     
     > [!TIP]
     > [Learn more](https://docs.microsoft.com/en-us/Exchange/policy-and-compliance/mail-flow-rules/signatures#FormatDisclaimer) about formatting disclaimers. (This formatting article is for Exchange Server, but it also applies to Office 365.) 
 
-9. Click **Select one** and choose **Wrap** as a fallback option. Then **OK**. This means that if the disclaimer can't be added because of encryption or another mail setting, it will be wrapped in a message envelope.
+9. Select **Select one** and choose **Wrap** as a fallback option. Then **OK**. This means that if the disclaimer can't be added because of encryption or another mail setting, it will be wrapped in a message envelope.
     
 10. Leave **Audit this rule with severity level** selected. Then choose **Low**, **Medium**, or **High** to be used in the message log. 
     

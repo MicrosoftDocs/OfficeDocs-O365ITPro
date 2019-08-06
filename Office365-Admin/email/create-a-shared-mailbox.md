@@ -70,7 +70,7 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
 
 5. Under **Next steps**, select **Add members to this mailbox**. Members are the people who will be able to view the incoming mail to this shared mailbox, and the outgoing replies.
 
-   ![Choose Add Members](../media/a2a72e3d-6170-40fe-a94f-0af8fbef8ab2.png)
+   ![Select Add Members](../media/a2a72e3d-6170-40fe-a94f-0af8fbef8ab2.png)
 
 6. Select the **+Add members** button. Put a check mark next to the people who you want to use this shared mailbox, and select **Save**.
 
@@ -134,9 +134,9 @@ For instructions on how to block sign-in for accounts using Azure AD PowerShell 
 
 By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.
 
-If you want to allow everyone to see the Sent email, in the admin center, edit the shared mailbox settings, and choose **Sent items** \> **Edit**.
+If you want to allow everyone to see the Sent email, in the admin center, edit the shared mailbox settings, and select **Sent items** \> **Edit**.
 
-![Choose Sent items and then Edit](../media/09e28637-7900-4792-a71e-58248293cc5b.jpg)
+![Select Sent items and then Edit](../media/09e28637-7900-4792-a71e-58248293cc5b.jpg)
 
 ## Add the shared mailbox to Outlook
 
@@ -177,9 +177,9 @@ You can access a shared mailbox on a mobile device in two ways:
 
 When you created the shared mailbox, you automatically created a shared calendar. We like the shared mailbox calendar rather than a SharePoint calendar for keeping track of appointments and where people are. A shared calendar is integrated with Outlook and it's much easier to use than a SharePoint calendar.
 
-1. In the Outlook app, go to calendar view, and choose the shared mailbox.
+1. In the Outlook app, go to calendar view, and select the shared mailbox.
 
-   ![Choose the calendar view](../media/0be61a9a-5fa4-4051-9fce-79393eb4e09d.png)
+   ![Select the calendar view](../media/0be61a9a-5fa4-4051-9fce-79393eb4e09d.png)
 
 2. When you enter appointments, everyone who is a member of the shared mailbox will be able to see them.
 
@@ -207,11 +207,11 @@ You do not need to assign a license to the shared mailbox in order to forward em
 
 ::: moniker-end
 
-2. Choose the shared mailbox you want to edit, then choose **Email forwarding** \> **Edit**.
+2. Select the shared mailbox you want to edit, then select **Email forwarding** \> **Edit**.
     
 3. Set the toggle to **On**, and enter 1 email address to forward the messages to. It can be any valid email address. To forward to multiple addresses, you need to [create a distribution group](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists?view=o365-worldwide) for the addresses, and then enter the name of the group in this box.
     
-4. Choose **Save**.
+4. Select **Save**.
 
 ## Send automatic replies from a shared mailbox
 
@@ -233,15 +233,15 @@ You do not need to assign a license to the shared mailbox in order to forward em
 
 ::: moniker-end
 
-2. Choose the shared mailbox you want to edit, then choose **Automatic replies** \> **Edit**.
+2. Select the shared mailbox you want to edit, then select **Automatic replies** \> **Edit**.
     
 3. Set the toggle to **On**, and choose whether to send the reply to people inside your organization or outside your organization.
 
 4. Enter the reply you want to send to people inside your organization. You can't add images, only text.
 
-5. If you want to *also* send a reply to people outside your organization, choose the check box, who you want to get the reply, and type the text. There's no way to only send to people outside your organization but not to people inside your organization.
+5. If you want to *also* send a reply to people outside your organization, select the check box, who you want to get the reply, and type the text. There's no way to only send to people outside your organization but not to people inside your organization.
 
-6. Choose **Save**.
+6. Select **Save**.
 
 ## Shared mailbox limit: 50GB
 

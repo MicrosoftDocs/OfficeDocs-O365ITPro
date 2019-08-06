@@ -136,7 +136,7 @@ Take a look at the following example where Sandra, Sheila, and the Sales Departm
    
 ### Find out if a group contains nested groups
 
-The easiest way to detect if a group contains nested groups is to view the group contact card within Outlook. If you enter the group name within the **To** field of an email and then click the group name when it resolves, it will show you if it contains users or nested groups. In the example below, the **Members** tab of the Outlook contact card for the Test Group shows no users and only two sub groups. 
+The easiest way to detect if a group contains nested groups is to view the group contact card within Outlook. If you enter the group name within the **To** field of an email and then select the group name when it resolves, it will show you if it contains users or nested groups. In the example below, the **Members** tab of the Outlook contact card for the Test Group shows no users and only two sub groups. 
   
 ![Members tab of Outlook contact card](../media/d9db88c4-d752-426c-a480-b11a5b3adcd6.png)
   

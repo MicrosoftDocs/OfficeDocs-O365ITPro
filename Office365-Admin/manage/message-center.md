@@ -53,13 +53,13 @@ Message center presents a view of all active messages in a table format, by defa
   
 |**Column**|**Description**|
 |:-----|:-----|
-|Checkbox  <br/> |Clicking on the checkbox in the title row will select all messages currently displayed. Selecting the checkbox next to a single message will open that message for reading. Holding CTRL while you select multiple boxes lets you perform bulk operations on those messages, such as dismissing the messages or marking them as read or unread.  <br/> |
+|Checkbox  <br/> |Selecting the checkbox in the title row will select all messages currently displayed. Selecting the checkbox next to a single message will open that message for reading. Holding CTRL while you select multiple boxes lets you perform bulk operations on those messages, such as dismissing the messages or marking them as read or unread.  <br/> |
 |Act by  <br/> |Most of the time, there won't be anything in this column. We'll only have dates here if we're making a change that requires you to take an action by a certain deadline. Since we rarely use the Act by column, if you see something here, you should pay extra attention to it.  <br/> |
 |Category  <br/> | Messages are identified by one of the three following categories:  <br/><br/> **Prevent or fix issues**: These messages inform you of known issues impacting your organization and may require that you take action to avoid disruptions in service. Prevent or fix issues are different than Service health messages because they prompt you to be proactive to avoid issues. <br/> <br/> **Plan for change**: These messages inform you of changes to Office 365 that may require you to act to avoid disruptions in service. For example, we'll let you know about changes to system requirements or about features that are being removed. We try to provide at least 30 days' notice of any change that requires an admin to act to keep the service running normally. <br/> <br/> **Stay informed**: This is where we tell you about new or updated features that we are turning on in your organization. The features are usually announced first in the [Microsoft 365 Roadmap](https://go.microsoft.com/fwlink/?linkid=2070821). <br/><br/>Stay informed messages may also let you know about planned maintenance in accordance with our Service Level Agreement. Planned maintenance may result in down time, where you or your users can't access Office 365, a specific feature, or a service such as email or OneDrive for Business.  <br/> |
 |Message title  <br/> |Message titles are a brief description of an upcoming change. They are sometimes long and Message center can't display the full title. Hover your cursor over the message title and the entire title will display in a pop-up box.  <br/> |
 |Published  <br/> |Date that the message was published. If we make a change to an existing message, it also changes the published date.  <br/> |
 |Message ID  <br/> |Microsoft tracks our Message center posts by message ID. You can reference this ID if you want to give feedback or if you call Support about a particular message.  <br/> |
-|(No label)  <br/> |Clicking on the X in this column will dismiss the message and remove it from view. Don't worry, you can get it back by viewing dismissed messages. In that view, clicking Refresh (![Refresh icon](../media/4565dd14-7d6a-4c42-91b7-91cc34977a43.png)) will restore the message to the active messages view.  <br/> |
+|(No label)  <br/> |Selecting the X in this column will dismiss the message and remove it from view. Don't worry, you can get it back by viewing dismissed messages. In that view, selecting Refresh (![Refresh icon](../media/4565dd14-7d6a-4c42-91b7-91cc34977a43.png)) will restore the message to the active messages view.  <br/> |
    
 Head over to [Manage messages in Message center](manage-messages.md) to get more information on the things you can do with messages. 
   
@@ -114,18 +114,18 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 3. Digest emails are turned on by default and are sent to your primary email address. To specify other email addresses to which the weekly email summary is sent, verify that **Send a weekly e-mail digest of my messages** is selected. To stop receiving the weekly digest, clear the check box. <br/><br/>Email notification for major updates is a separate control. If you want to receive email notices about major updates, verify that **Send me e-mails for major updates** is selected. Clear the check box to stop getting email about major updates. <br/><br/>You can select or deselect your primary email address, but you can't change it. You can enter other email addresses where you want to have the digest sent. Enter the email address for an Office 365 group or a distribution list if more than two people should get the digest email. 
     
-4. Click **Save** to keep your changes.
+4. Select **Save** to keep your changes.
 
 
 #### Use the old admin center to set your Message center preferences 
   
 1. Select **Edit Message center preferences** at the top of Message center. 
     
-2. Make sure that the toggle is set to **On** for each service that you want to monitor. Click the toggle to change the setting to **Off** for the services you want to filter out of your Message center view. 
+2. Make sure that the toggle is set to **On** for each service that you want to monitor. Use the toggle to change the setting to **Off** for the services you want to filter out of your Message center view. 
     
 3. Digest emails are turned on by default and are sent to your primary email address. To specify other email addresses to which the weekly email summary is sent, verify that **Send a weekly email digest of my messages**, is **On**. To stop receiving the weekly digest, change the setting to **Off**. <br/><br/>Email notification for major updates is a separate control. If you want to receive email notices about major updates, verify that **Send me emails for major updates** is **On**. Change the setting to **Off** to stop getting email about major updates. <br/><br/>You can select or deselect your primary email address, but you can't change it. You can enter other email addresses where you want to have the digest sent. Enter the email address for an Office 365 group or a distribution list if more than two people should get the digest email. 
     
-4. Click **Save** to keep your changes.<br/> 
+4. Select **Save** to keep your changes.<br/> 
   
 We use machine translation to automatically display messages in your preferred language. Read [Language translation for Message center posts](language-translation-for-message-center-posts.md) for more information on how to set your language. 
   

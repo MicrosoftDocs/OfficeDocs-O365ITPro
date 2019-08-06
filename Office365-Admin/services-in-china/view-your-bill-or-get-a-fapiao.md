@@ -27,10 +27,10 @@ You can view your billing statement or invoice for information about your Office
 ## Find your billing statement or request a Fapiao
 1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=850627), go to the **Billing** \> **Bills & payments** page.
     
-2. Find the invoice you want, click to view, or choose to download the PDF.
+2. Find the invoice you want, select to view, or choose to download the PDF.
 
     
-  - To request a Fapiao, choose **Get Fapiaos**.
+  - To request a Fapiao, select **Get Fapiaos**.
     
     > [!NOTE]
     > You need a registered account to access the [fapiao management system](https://go.microsoft.com/fwlink/p/?linkid=837465). If you haven't already set up an account, see [Apply for a Fapiao for Office 365 operated by 21Vianet](apply-for-a-fapiao.md). 

@@ -92,7 +92,7 @@ If you have new admin center turned off, watch the following video to sign up fo
 
 2. On the **Purchase services** page, the subscriptions that are available to your organization are listed. 
 
-3. Click the ellipses under the Microsoft 365 plan that you want to try or buy, and then choose **Start free trial**, which gives you 25 user licenses for a one-month term, or you can choose **Buy now**.
+3. Select the ellipses under the Microsoft 365 plan that you want to try or buy, and then choose **Start free trial**, which gives you 25 user licenses for a one-month term, or you can choose **Buy now**.
 
     > [!NOTE]
     > If you start a free trial, skip to step 8.

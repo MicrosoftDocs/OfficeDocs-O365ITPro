@@ -52,7 +52,7 @@ If you're ready to buy or renew Office 365 through Open Volume Licensing, or you
 
 1. In the admin center, go to the **Settings** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2074649" target="_blank">Partner relationships</a> page.
   
-2. If you have a partner, the partner's name and relationship to your organization will be listed here. To view partner contact information (phone number and email address), click on the partner name.
+2. If you have a partner, the partner's name and relationship to your organization will be listed here. To view partner contact information (phone number and email address), select the partner name.
     
 ## More resources
 

@@ -101,7 +101,7 @@ The licenses for the current subscription will be removed later; you'll only pay
 
 2. On the **Active users** page, select the box next to the name of the user who you want to assign a license to.
 
-3. On the right, in the **Product licenses** row, choose **Edit**.
+3. On the right, in the **Product licenses** row, select **Edit**.
 
 4. In the **Product licenses** pane, switch the toggle to the **On** position for the license you want to assign to this user. By default, all services associated with that license are automatically assigned to the user.
 
@@ -112,11 +112,11 @@ The licenses for the current subscription will be removed later; you'll only pay
   
 5. Switch the toggle to the **Off** position for licenses that this user no longer needs.
 
-6. At the bottom of the **Product licenses** pane, choose **Assign** \> **Close** \> **Close**.
+6. At the bottom of the **Product licenses** pane, select **Assign** \> **Close** \> **Close**.
 
 ### Reassign licenses for multiple users at once
 
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page, or choose **Users** \> **Active users**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page, or select **Users** \> **Active users**.
 
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
 

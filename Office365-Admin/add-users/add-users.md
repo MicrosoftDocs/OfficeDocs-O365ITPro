@@ -52,9 +52,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>.
 
 
-2. Go to **Users** > **Active users**, and choose **Add a user**.
+2. Go to **Users** > **Active users**, and select **Add a user**.
    
-3. In the **Set up the basics** pane, fill in the following information, and then choose **Next**. 
+3. In the **Set up the basics** pane, fill in the following information, and then select **Next**. 
   
 - **Name** Fill in first, last, display name, and username. 
     
@@ -66,11 +66,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
     - Choose whether you want to  send the password in email when the user has been added. 
     
-4. In the **Assign product licenses** pane, select the location and the appropriate license for the user. If you don't have any licenses available, you can still add a user and buy additional licenses. Choose **Next**.
+4. In the **Assign product licenses** pane, select the location and the appropriate license for the user. If you don't have any licenses available, you can still add a user and buy additional licenses. Select **Next**.
 
 5. In the **Optional settings** page, expand **Roles** if you want to make this user an admin, and expand **Profile info** if you want to add additional information about the user. 
 
-6. Choose **Next**, review your new user's settings, make any changes you like, and then choose **Finish adding**. 
+6. Select **Next**, review your new user's settings, make any changes you like, and then select **Finish adding**. 
 
 ### Use the old admin center to add users  
  
@@ -90,10 +90,10 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
 
-2. Go to **Users** > **Active users**, and choose **Add a user**.
+2. Go to **Users** > **Active users**, and select **Add a user**.
    
   
-   In the **New user** pane, fill in the following information. Choose **Add** when you are done. 
+   In the **New user** pane, fill in the following information. Select **Add** when you are done. 
   
 - **Name** Fill in first, last, display name, and user name. 
     

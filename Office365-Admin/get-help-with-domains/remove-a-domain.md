@@ -99,7 +99,7 @@ You can also use PowerShell to move users to another domain. See [Set-MsolUserPr
 
 ::: moniker-end
 
-1. Go to **Users** \> **Active Users**, and click your name in the list. 
+1. Go to **Users** \> **Active Users**, and select your name in the list. 
     
 2. In the **Username / Email** section, select **Edit**, and then choose a different domain.    
  
@@ -122,9 +122,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page. 
 
     
-2. Click the group name, and then on the **General** tab under **Email address, Primary**, select **Edit**.
+2. Select the group name, and then on the **General** tab under **Email address, Primary**, select **Edit**.
     
-3. Use the drop-down to choose another domain.
+3. Use the drop-down list to choose another domain.
     
 4. Select **Save**, then **Close**. Repeat this process for any groups or distribution lists associated with the domain that you want to remove.
     
@@ -146,9 +146,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
     
-2. Click the group name, and then select **Edit** next to **Name**. 
+2. Select the group name, and then select **Edit** next to **Name**. 
     
-3. Use the drop-down to choose another domain.
+3. Use the drop-down list to choose another domain.
     
 4. Select **Save**, then **Close**. Repeat this process for any groups or distribution lists associated with the domain that you want to remove.
     

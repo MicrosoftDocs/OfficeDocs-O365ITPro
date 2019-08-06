@@ -41,16 +41,16 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Find the subscription to which you want to add licenses. In the **Licenses** section, choose **Add/Remove licenses**.
+2. Find the subscription to which you want to add licenses. In the **Licenses** section, select **Add/Remove licenses**.
 
-3. In the **Add more licenses pane**, choose **Use a new and unused product key**, then choose **Next**.
+3. In the **Add more licenses pane**, select **Use a new and unused product key**, then select **Next**.
 
-4. Enter the product key, then choose **Next**.
+4. Enter the product key, then select **Next**.
 
     > [!NOTE]
-    > If you have more than one product key, you can choose **Add another product key** to enter them.
+    > If you have more than one product key, you can select **Add another product key** to enter them.
   
-5. Review your order details, then choose **Redeem**.
+5. Review your order details, then select **Redeem**.
 
 ::: moniker-end
 
@@ -66,16 +66,16 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 2. Find the subscription to which you want to add licenses. Select the **More actions** drop-down list, and then choose **Renew or add license with token**.
 
-3. On the **Renew or add user licenses** page, choose **Use a new and unused product key**, then choose **Next**.
+3. On the **Renew or add user licenses** page, select **Use a new and unused product key**, then select **Next**.
 
-4. Enter the product key, then choose **Next**.
+4. Enter the product key, then select **Next**.
 
     > [!NOTE]
-    > If you have more than one product key, you can choose **Add another product key** to enter them.
+    > If you have more than one product key, you can select **Add another product key** to enter them.
 
-5. Choose to add users to the subscription, then choose **Next**.
+5. Choose to add users to the subscription, then select **Next**.
 
-6. Review your order details, then choose **Redeem**.
+6. Review your order details, then select **Redeem**.
   
 ## Extend the expiration date of your subscription
 
@@ -87,16 +87,16 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Find the subscription which you want to extend. In the **Billing** section, choose **Extend end date**.
+2. Find the subscription which you want to extend. In the **Billing** section, select **Extend end date**.
 
-3. In the **Extend subscription** pane, choose **Use a new and unused product key**, then choose **Next**.
+3. In the **Extend subscription** pane, select **Use a new and unused product key**, then select **Next**.
 
-4. Enter the product key, then choose **Next**.
+4. Enter the product key, then select **Next**.
 
     > [!NOTE]
-    > If you have more than one product key, you can choose **Add another product key** to enter them.
+    > If you have more than one product key, you can select **Add another product key** to enter them.
   
-5. Review your order details, then choose **Redeem**.
+5. Review your order details, then select **Redeem**.
 
 ::: moniker-end
 
@@ -110,18 +110,18 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Products & services</a> page.
 
-2. Find the subscription which you want to extend. Select the **More actions** drop-down list, and then choose **Renew or add license with token**.
+2. Find the subscription which you want to extend. Select the **More actions** drop-down list, and then select **Renew or add license with token**.
 
-3. On the **Renew or add user licenses** page, choose **Use a new and unused product key**, then choose **Next**.
+3. On the **Renew or add user licenses** page, select **Use a new and unused product key**, then select **Next**.
 
-4. Enter the product key, then choose **Next**.
+4. Enter the product key, then select **Next**.
 
     > [!NOTE]
-    > If you have more than one product key, you can choose **Add another product key** to enter them.
+    > If you have more than one product key, you can select **Add another product key** to enter them.
 
-5. Choose to extend your subscription expiration date, then choose **Next**.
+5. Choose to extend your subscription expiration date, then select **Next**.
 
-6. Review your order details, then choose **Redeem**.
+6. Review your order details, then select **Redeem**.
 
 ## Related topics
 

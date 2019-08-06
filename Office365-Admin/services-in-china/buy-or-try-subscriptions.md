@@ -32,7 +32,7 @@ monikerRange: 'o365-21vianet'
 
 You can buy a subscription right away, or you can try Office 365 for up to 30 days. If you like it, you can buy your trial subscription and keep the domain, data, and configuration you set up in your trial.
   
-1. Go to [Compare Office 365 for business plans](http://go.microsoft.com/fwlink/p/?linkid=393691&amp;clcid=0x409) and click the name of the plan you want to buy. Then, click **Buy now**. 
+1. Go to [Compare Office 365 for business plans](http://go.microsoft.com/fwlink/p/?linkid=393691&amp;clcid=0x409) and select the name of the plan you want to buy. Then, select **Buy now**. 
     
 2. Create an account by filling out the **Just a few details** page. 
     
@@ -63,7 +63,7 @@ You can buy a subscription right away, or you can try Office 365 for up to 30 da
 
 1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=850627), go to the **Billing** \> **Purchase services** page.
     
-2. Click the service(s) that you'd like to purchase, choose **Buy**, and then choose **Check out now**.
+2. Select the service(s) that you'd like to purchase, select **Buy**, and then select **Check out now**.
     
 3. Follow the instructions to complete your purchase.
     

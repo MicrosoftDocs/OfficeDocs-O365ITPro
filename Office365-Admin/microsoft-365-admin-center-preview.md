@@ -47,7 +47,7 @@ We would love for you to participate in the new Microsoft 365 admin center so yo
   
 - Switch back to the old admin center from the Home page by turning the toggle to **Off**. <br/><br/>![The new admin center toggle turned on](media/admin-center-toggle-on.png)
 
-While in the new admin center, you can give Microsoft feedback about your experience by selecting **Give feedback** right next to the **Need help?** button at the bottom of every page. Tell us what you like and what we could do better. In addition, you may get pop-up surveys from time-to-time asking about your overall impressions or a particular experience that's newly released. You can also give feedback at the end of this article by clicking **Was this information helpful?**
+While in the new admin center, you can give Microsoft feedback about your experience by selecting **Give feedback** right next to the **Need help?** button at the bottom of every page. Tell us what you like and what we could do better. In addition, you may get pop-up surveys from time-to-time asking about your overall impressions or a particular experience that's newly released. You can also give feedback at the end of this article by selecting **Was this information helpful?**
   
 If you want to be an early adopter in the new admin center, you'll need to turn on Targeted release, and then when the new admin center is available you can switch to it to check it out and provide feedback.
   
@@ -76,7 +76,7 @@ For more information, see [Try or buy a Microsoft 365 subscription](try-or-buy-m
   
 ## I found a bug or I want to request a feature enhancement. How do I let Microsoft know?
 
-We love to hear from you! Reporting bugs and sharing feedback helps us make the Microsoft 365 admin center better. To give feedback, click the **Feedback** button on the bottom of the page and use the form to send us your thoughts. Select the checkbox and confirm your email address if you want someone from the Microsoft 365 admin center team to follow up on your comments. We can't promise to follow up on every piece of feedback, but we're going to try! 
+We love to hear from you! Reporting bugs and sharing feedback helps us make the Microsoft 365 admin center better. To give feedback, select the **Feedback** button on the bottom of the page and use the form to send us your thoughts. Select the checkbox and confirm your email address if you want someone from the Microsoft 365 admin center team to follow up on your comments. We can't promise to follow up on every piece of feedback, but we're going to try! 
   
 You can also give feedback from outside of the admin center on our UserVoice forum. You can use this page to make feature suggestions that can be voted on by other forum users: [UserVoice forum for the new admin center](https://go.microsoft.com/fwlink/?linkid=2024994).
   

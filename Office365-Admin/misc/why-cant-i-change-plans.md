@@ -89,7 +89,7 @@ If you have an Add-on with your subscription, you might be able to [change plans
 
 ### Your subscription has an unpaid balance
 
-To resolve this, find the subscription on the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page, and choose the **Pay now** link in the **Billing** section. After the payment has been made, check the **Upgrade** tab again.
+To resolve this, find the subscription on the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page, and select the **Pay now** link in the **Billing** section. After the payment has been made, check the **Upgrade** tab again.
 
 ## Call support to help you change plans
 [Call Microsoft support](../contact-support-for-business-products.md)

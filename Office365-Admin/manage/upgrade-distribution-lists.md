@@ -31,15 +31,15 @@ You must be an Office 365 global admin or Exchange admin to upgrade a distributi
   
 1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
     
-2. In the Exchange admin center, go to **Recipients** \> **Groups**.<br/>You'll see a notice indicating you have distribution lists (also called **distribution groups** ) that are eligible to be upgraded to Office 365 groups.<br/> ![Click on Get started](../media/8cf838b4-2644-401f-a366-08c1eea183eb.png)
+2. In the Exchange admin center, go to **Recipients** \> **Groups**.<br/>You'll see a notice indicating you have distribution lists (also called **distribution groups** ) that are eligible to be upgraded to Office 365 groups.<br/> ![Select the Get started button](../media/8cf838b4-2644-401f-a366-08c1eea183eb.png)
   
 3. Select one or more distribution lists (also called a **distribution group** ) from the **groups** page.<br/>![Select a distribution group](../media/2c303433-d60b-4100-a6ae-5809b03a8cdb.png)
   
-4. Choose the upgrade icon.<br/>![Upgrade to Office 365 groups icon](../media/1e28cb3d-bff3-4be3-8329-1902d2d54720.png)
+4. Select the upgrade icon.<br/>![Upgrade to Office 365 groups icon](../media/1e28cb3d-bff3-4be3-8329-1902d2d54720.png)
   
-5. On the information dialog, choose **Yes** to confirm the upgrade. The process begins immediately. Depending on the size and number of DLs you're upgrading, the process can take minutes or hours.<br/>If the distribution list can't be upgraded, a dialog appears saying so. See [Which distribution lists cannot be upgraded?](#which-distribution-lists-cannot-be-upgraded).
+5. On the information dialog, select **Yes** to confirm the upgrade. The process begins immediately. Depending on the size and number of DLs you're upgrading, the process can take minutes or hours.<br/>If the distribution list can't be upgraded, a dialog appears saying so. See [Which distribution lists cannot be upgraded?](#which-distribution-lists-cannot-be-upgraded).
     
-6. If you're upgrading multiple distribution lists, use the drop-down list to filter which distribution lists have been upgraded. If the list isn't complete, wait a while longer and then choose **Refresh** to see what's been successfully upgraded.<br/>There's no notice that tells you when the upgrade process has completed for all DLs you selected. You can figure this out by looking to see what's listed under **Available for upgrade** or **Upgraded DLs**. 
+6. If you're upgrading multiple distribution lists, use the drop-down list to filter which distribution lists have been upgraded. If the list isn't complete, wait a while longer and then select **Refresh** to see what's been successfully upgraded.<br/>There's no notice that tells you when the upgrade process has completed for all DLs you selected. You can figure this out by looking to see what's listed under **Available for upgrade** or **Upgraded DLs**. 
     
 7. If you selected a DL for upgrade, but it's still appears on the page as Available to upgrade, then it failed to upgrade. See [What to do if the upgrade doesn't work](#what-to-do-if-the-upgrade-doesnt-work).
     

@@ -52,7 +52,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. Select a group name.
     
-3. In the details pane, next to **Members**, select **Edit**, and then choose **Add members**.
+3. In the details pane, next to **Members**, select **Edit**, and then select **Add members**.
       
 4. Search for or select the name of the member you want to add.
     

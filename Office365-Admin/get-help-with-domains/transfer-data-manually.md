@@ -55,7 +55,7 @@ For Office 365 Enterprise and Office 365 Midsize Business:
   
 |**Location**|**Purpose**|
 |:-----|:-----|
-|**Admin** \> **Office 365** \> **Service settings** <br/> |Click each tab for settings for mail, sites, Lync, user software, passwords, community, rights management, and mobile.  <br/> |
+|**Admin** \> **Office 365** \> **Service settings** <br/> |Select each tab for settings for mail, sites, Lync, user software, passwords, community, rights management, and mobile.  <br/> |
 |**Admin** \> **Exchange** <br/> | Exchange Online settings  <br/> |
 |**Admin** \> **SharePoint** <br/> | SharePoint Online settings  <br/> |
 |**Admin** \> **Skype for Business** <br/> |Additional Skype for Business settings  <br/> |

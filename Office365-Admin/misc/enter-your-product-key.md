@@ -35,9 +35,9 @@ If you purchased Office 365 Business Premium from a retail store, this article h
 
 1. Go to <a href="https://go.microsoft.com/fwlink/p/?LinkId=839911" target="_blank">office.com/setupkey</a>.
 
-2. Enter your product key, then choose **Next**.
+2. Enter your product key, then select **Next**.
 
-3. Enter your name, work email address, business phone number, company name, and country or region, then choose **Next**.
+3. Enter your name, work email address, business phone number, company name, and country or region, then select **Next**.
 
 4. Enter a phone number to receive either a text or call to verify your identity.
 

@@ -54,7 +54,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. Select a user.
 
-3. In the right pane, choose  **OneDrive**. Under **Get access to files**, choose **Create link to files**.
+3. In the right pane, select **OneDrive**. Under **Get access to files**, select **Create link to files**.
 
 4. Select the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. You can also share the link with another user to download the files.
 
@@ -83,11 +83,11 @@ As global admin you have access to the content in a user’s OneDrive site, but 
 
     If you get a message that you don't have permission to access the admin center, then you don't have administrator permissions in your organization.
 
-2. In the left pane, choose **Admin centers** \> **SharePoint**.
+2. In the left pane, select **Admin centers** \> **SharePoint**.
 
-3. In the left pane, choose **User Profiles**.
+3. In the left pane, select **User Profiles**.
 
-4. Under **People**, choose **Manage User Profiles**.
+4. Under **People**, select **Manage User Profiles**.
 
 5. Enter the user's name and select **Find**.
 
@@ -104,11 +104,11 @@ To save the email messages, calendar, tasks, and contacts of the former employee
   
 1. [Add the former employee's email](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) to your Outlook (If you [reset the user's password](reset-passwords.md), you can set it to something only you know.)
     
-2. In Outlook, choose **File**.
+2. In Outlook, select **File**.
     
     ![This is what the ribbon looks like in Outlook 2016.](../media/d7f66ed3-9861-4521-b410-e86a58ab15a7.png)
   
-3. Choose **Open &amp; Export** \> **Import/Export**.
+3. Select **Open &amp; Export** \> **Import/Export**.
     
     ![Import/Export command in the Backstage view](../media/6013919e-d8ce-4902-b7b4-78ff4260a2f8.jpg)
   

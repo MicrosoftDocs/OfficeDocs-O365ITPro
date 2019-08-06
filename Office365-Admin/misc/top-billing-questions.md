@@ -116,7 +116,7 @@ Yes, but you'll need to [call support](../contact-support-for-business-products.
 
 Yes. To get your billing statement as an email attachment, use the following steps:
   
-1. In the Microsoft 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=853212" target="_blank">Billing notifications</a> page, or choose **Billing** \> **Billing notifications**.
+1. In the Microsoft 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=853212" target="_blank">Billing notifications</a> page, or select **Billing** \> **Billing notifications**.
     
 2. Under **Receive billing statement as email attachment?**, switch the toggle to **On**.
     
@@ -196,9 +196,9 @@ You can [Apply for tax exempt status for Office 365 for business](../subscriptio
 
 ::: moniker range="o365-worldwide"
 
-1. On the <a href="https://go.microsoft.com/fwlink/p/?linkid=848039" target="_blank">Bills</a> page, choose an invoice date range.
+1. On the <a href="https://go.microsoft.com/fwlink/p/?linkid=848039" target="_blank">Bills</a> page, select an invoice date range.
   
-2. To print or save a PDF copy of the bill, choose **Download invoice PDF**, and then print the PDF.
+2. To print or save a PDF copy of the bill, select **Download invoice PDF**, and then print the PDF.
 
 To learn more, see [View your bill or invoice for Office 365 for business](../subscriptions-and-billing/view-your-bill-or-invoice.md).
 
@@ -206,9 +206,9 @@ To learn more, see [View your bill or invoice for Office 365 for business](../su
 
 ::: moniker range="o365-germany"
 
-1. On the <a href="https://go.microsoft.com/fwlink/p/?linkid=848040" target="_blank">Bills</a> page, choose an invoice date range.
+1. On the <a href="https://go.microsoft.com/fwlink/p/?linkid=848040" target="_blank">Bills</a> page, select an invoice date range.
   
-2. To print or save a PDF copy of the bill, choose **Download invoice PDF**, and then print the PDF.
+2. To print or save a PDF copy of the bill, select **Download invoice PDF**, and then print the PDF.
 
 To learn more, see [View your bill or invoice for Office 365 for business](../subscriptions-and-billing/view-your-bill-or-invoice.md).
 
@@ -216,9 +216,9 @@ To learn more, see [View your bill or invoice for Office 365 for business](../su
 
 ::: moniker range="o365-21vianet"
 
-1. On the Bills page, choose an invoice date range.
+1. On the Bills page, select an invoice date range.
   
-2. To print or save a PDF copy of the bill, choose **Download invoice PDF**, and then print the PDF.
+2. To print or save a PDF copy of the bill, select **Download invoice PDF**, and then print the PDF.
 
 To learn more, see [View your bill or get Fapiaos in Office 365 operated by 21Vianet](../services-in-china/view-your-bill-or-get-a-fapiao.md).
 

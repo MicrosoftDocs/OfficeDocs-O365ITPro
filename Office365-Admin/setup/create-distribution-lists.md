@@ -47,11 +47,11 @@ Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=850
 
 ::: moniker-end
 
-1. Select the app launcher icon  and choose **Admin**.
+1. Select the app launcher icon and choose **Admin**.
     
     Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
     
-2. Choose **Groups** \> **Groups** in the left navigation pane, and then choose **Add a group**. 
+2. Select **Groups** \> **Groups** in the left navigation pane, and then select **Add a group**. 
       
 3. Under **Type** of group, select the drop-down menu and choose **Distribution list**.
     
@@ -61,7 +61,7 @@ Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=850
     
     You can choose whether you want people outside your organization to send email to the group.
     
-5. When you're ready, click or tap **Add** to create the distribution group, and **Close** to view your group. 
+5. When you're ready, select **Add** to create the distribution group, and **Close** to view your group. 
     
 6. To add users to your distribution group, see [Add a user or contact to an Office 365 distribution group](../email/add-user-or-contact-to-distribution-list.md).
     

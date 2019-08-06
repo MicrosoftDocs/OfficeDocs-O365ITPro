@@ -60,7 +60,7 @@ Microsoft 365 usage analytics contains a number of reports, including:
     
 - **Individual service user activity reports** — User activity reports are available for certain individual services. These reports provide user level detail usage data joined with Active Directory attributes. 
     
-You can access detailed reports for each area by clicking on the data tables. You can view all pre-built reports by clicking on the tabs at the bottom of the site, once you are viewing the reports. For more detailed instructions, read [Navigating and utilizing the reports in Microsoft 365 usage analytics](navigate-and-utilize-reports.md) and [Customizing the reports in Microsoft 365 usage analytics](customize-reports.md).
+You can access detailed reports for each area by selecting the data tables. You can view all pre-built reports by selecting the tabs at the bottom of the site, once you are viewing the reports. For more detailed instructions, read [Navigating and utilizing the reports in Microsoft 365 usage analytics](navigate-and-utilize-reports.md) and [Customizing the reports in Microsoft 365 usage analytics](customize-reports.md).
   
 ## FAQ
 

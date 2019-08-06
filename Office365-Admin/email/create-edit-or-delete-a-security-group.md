@@ -43,11 +43,11 @@ There are also [Groups in Exchange Online and SharePoint Online](#groups-in-exch
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
   
-2. On the **Groups** page, choose **Add a group**.
+2. On the **Groups** page, select **Add a group**.
     
-3. In the **Type** drop-down, choose **Security**. 
+3. In the **Type** drop-down list, choose **Security**. 
     
-4. Type a name and description for the group, and then choose **Add** \> **Close**. 
+4. Type a name and description for the group, and then select **Add** \> **Close**. 
  
 ### Add members to a security group
 
@@ -57,7 +57,7 @@ There are also [Groups in Exchange Online and SharePoint Online](#groups-in-exch
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
     
-1. Click the security group name on the **Groups** page, and on the **Members** tab, select **View all and manage members**. 
+1. Select the security group name on the **Groups** page, and on the **Members** tab, select **View all and manage members**. 
     
 2. In the group pane, select **Add members** and choose the person from the list or type the name of the person you want to add in the **Search** box, and then select **Save**.
     
@@ -67,7 +67,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
 ::: moniker-end
   
-1. Click the security group name on the **Groups** page, and then select **Edit** next to **Members**. 
+1. Select the security group name on the **Groups** page, and then select **Edit** next to **Members**. 
     
 2. In the group pane, select **Add members** and choose the person from the list or type the name of the person you want to add in the **Search** box, and then select **Save**.
     
@@ -83,7 +83,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
   
-2. On the **Groups** page, select a group by clicking on its name. 
+2. On the **Groups** page, select the group's name. 
     
 3. In the **Security group** pane, select the **General** tab or the **Members** tab to edit either group details or members.
     
@@ -97,7 +97,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
   
-2. On the **Groups** page, select a group by clicking on its name. 
+2. On the **Groups** page, select the group's name. 
     
 3. In the security group pane, select **Edit** next to either **Name** or **Members** tab to edit either group details or members.
     
@@ -108,7 +108,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
-2. On the **Groups** page, select a group by clicking on its name. 
+2. On the **Groups** page, select the group's name. 
     
 3. Select **Delete group** (wasetbin icon), and then confirm by selecting **Delete**.
     
@@ -116,7 +116,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 ## Groups in Exchange Online and SharePoint Online
 
-If you want to create groups of users so you can send email to them all at the same time, you can do that in the Exchange admin center by clicking **Admin** \> **Exchange** \> **Recipients** \> **Groups**. Next, click **New**![Add](../media/328ffb57-5f31-430a-b653-4a6b8e76d338.png), and select the kind of group you want to create: 
+If you want to create groups of users so you can send email to them all at the same time, you can do that in the Exchange admin center by going to **Admin** \> **Exchange** \> **Recipients** \> **Groups**. Next, select **New**![Add](../media/328ffb57-5f31-430a-b653-4a6b8e76d338.png), and select the kind of group you want to create: 
   
 - **Distribution group**: Used to distribute messages to a group of users. It's also called a  *mail-enabled distribution group*, or, in Office 365, a  *distribution list*. For more information, see [Manage distribution groups](https://technet.microsoft.com/library/bb124513.aspx).
     

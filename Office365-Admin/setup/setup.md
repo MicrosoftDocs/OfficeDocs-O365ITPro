@@ -238,7 +238,7 @@ Everyone gets a **OneDrive** cloud storage location automatically when you creat
   
 1. On your computer, use File Explorer to open OneDrive. Or, from [Office 365](https://www.office.com), open **OneDrive** from the app launcher. 
     
-2. View and upload personal files, or share documents or folders by clicking **Share** and then either inviting others to view the documents or sending them a link. To learn more, see [Share OneDrive files and folders](https://support.office.com/article/9fcc2f7d-de0c-4cec-93b0-a82024800c07.aspx#OS_Type=OneDrive_-_Business).
+2. View and upload personal files, or share documents or folders by selecting **Share** and then either inviting others to view the documents or sending them a link. To learn more, see [Share OneDrive files and folders](https://support.office.com/article/9fcc2f7d-de0c-4cec-93b0-a82024800c07.aspx#OS_Type=OneDrive_-_Business).
     
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ae41e744-2c83-413f-bae3-f9e50a45d435?autoplay=false]
   
@@ -318,7 +318,7 @@ Everyone gets a **OneDrive** cloud storage location automatically when you creat
   
 1. On your computer, use File Explorer to open OneDrive. Or, from [Office 365](https://www.office.com), open **OneDrive** from the app launcher. 
     
-2. View and upload personal files, or share documents or folders by clicking **Share** and then either inviting others to view the documents or sending them a link. To learn more, see [Share OneDrive files and folders](https://support.office.com/article/9fcc2f7d-de0c-4cec-93b0-a82024800c07.aspx#OS_Type=OneDrive_-_Business).
+2. View and upload personal files, or share documents or folders by selecting **Share** and then either inviting others to view the documents or sending them a link. To learn more, see [Share OneDrive files and folders](https://support.office.com/article/9fcc2f7d-de0c-4cec-93b0-a82024800c07.aspx#OS_Type=OneDrive_-_Business).
     
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ae41e744-2c83-413f-bae3-f9e50a45d435?autoplay=false]
   

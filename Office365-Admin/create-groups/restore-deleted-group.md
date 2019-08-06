@@ -60,11 +60,11 @@ You must have Office 365 global administrator or Exchange administrator permissi
   
 3. To view the exact time when the group was soft deleted, select the group and view the info in the right pane.
       
-4. Select the group you want to restore, and then choose the restore icon.
+4. Select the group you want to restore, and then select the restore icon.
     
     ![Choose the group you want to restore, and then select the restore icon.](../media/restore-group.png)
   
-5. Choose refresh ![Refresh icon](../media/6464df90-2a91-4c1f-92a6-9a38c7696ac3.gif) to update the information on the page. Your group will show as Active. Any forms and form data associated with your group will also be restored.
+5. Select refresh ![Refresh icon](../media/6464df90-2a91-4c1f-92a6-9a38c7696ac3.gif) to update the information on the page. Your group will show as Active. Any forms and form data associated with your group will also be restored.
     
 ## Restore an Office 365 Group using PowerShell
 

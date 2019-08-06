@@ -34,9 +34,9 @@ To add contacts:
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053302" target="_blank">Contacts</a> page.
 
-2. On the **Contacts** page, choose **Add a contact**.
+2. On the **Contacts** page, select **Add a contact**.
   
-3. On the **New Contact** page, fill in details and choose **Add** to create a contact. 
+3. On the **New Contact** page, fill in details and select **Add** to create a contact. 
   
 ![Fill in contact information in the New Contact pane](../media/9eb5a649-0734-467f-ba66-255225eedb4b.jpg)
   
@@ -46,7 +46,7 @@ My Contacts are contacts that you create for yourself and your users create for 
   
 ## How does everyone get to the contacts I created in the admin center?
 
- They can go to **People** in Office 365, expand **Directory** and choose **All Contacts**. They can view each contact and their information from there.
+ They can go to **People** in Office 365, expand **Directory** and select **All Contacts**. They can view each contact and their information from there.
   
 ## Can anyone create and edit these organizational contacts?
 

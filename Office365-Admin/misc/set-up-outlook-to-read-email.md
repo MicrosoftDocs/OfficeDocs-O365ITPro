@@ -49,17 +49,17 @@ Read [full article](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c
 
 The first time you open Outlook app, Set up my Inbox wizard opens. In the wizard: 
   
-1. On the **Set up my Inbox** page, choose **Add Account**.
+1. On the **Set up my Inbox** page, select **Add Account**.
     
-2. On the **Accounts** page, choose **Exchange or Office 365**.
+2. On the **Accounts** page, select **Exchange or Office 365**.
     
-3. On the **Enter your Exchange account information** page, enter your name, email address, and password, and then choose **Add Account**.
+3. On the **Enter your Exchange account information** page, enter your name, email address, and password, and then select **Add Account**.
     
 Read [full article](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx#PickTab=Outlook_for_Mac). 
   
 ## How do I access my mail online?
 
-After you sign in to Office 365, click **Outlook**.
+After you sign in to Office 365, select **Outlook**.
   
 ![The Office 365 home page with the Outlook app highlighted](../media/3ceee838-9d85-4af3-95a6-fbcee11036f4.png)
   

@@ -67,7 +67,7 @@ If you would like to learn how to get started with general Office 365 services, 
 |Microsoft Teams  <br/> |Not available.  <br/> |
 |Sway  <br/> |Coming soon.  <br/> |
 |Help in multiple languages  <br/> |Help is available in Simplified Chinese and English only.  <br/> |
-|Community-provided help  <br/> |Community-provided help is not available yet, but you can click the Help button ( **?** ) in the upper right corner of your portal to see help articles.  <br/> |
+|Community-provided help  <br/> |Community-provided help is not available yet, but you can select the Help button ( **?** ) in the upper right corner of your portal to see help articles.  <br/> |
    
 \*Optional services provided directly by Microsoft, and subject to Microsoft's Terms of Service and privacy statements.
   

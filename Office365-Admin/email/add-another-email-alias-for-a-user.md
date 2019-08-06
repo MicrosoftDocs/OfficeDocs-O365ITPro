@@ -26,7 +26,7 @@ description: "Learn how you can have more than one email address, called email a
 ::: moniker range="o365-worldwide"
 
 > [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and  your location to schedule an appointment.
 
 ::: moniker-end
   
@@ -59,7 +59,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 2. On the **Active Users** page, select the user > **Manage email aliases**. You won't see this option if the person doesn't have a license assigned to them. 
     
-3. Choose **+ Add an alias** and enter a new alias for the user.   
+3. Select **+ Add an alias** and enter a new alias for the user.   
     
     > [!Important] 
     > If you get the error message "**A parameter cannot be found that matches parameter name 'EmailAddresses**," it means that it's taking a bit longer to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the set up process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.
@@ -101,12 +101,12 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. On the **Active Users** page, select the name of the person you want to edit.
 
-3. Next to **Username / Email Aliases**, choose **Edit**.
+3. Next to **Username / Email Aliases**, select **Edit**.
 
     > [!Important] 
     > If you get the error message "**A parameter cannot be found that matches parameter name 'EmailAddresses**," it means that it's taking a bit longer to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the set up process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.
 
-4. In the text box under **Alias**, type the first part of the new email alias. If you added your own domain to Office 365, you can choose the domain for the new email alias by using the drop-down list. Then choose **Add**.
+4. In the text box under **Alias**, type the first part of the new email alias. If you added your own domain to Office 365, you can choose the domain for the new email alias by using the drop-down list. Then select **Add**.
 
     > [!IMPORTANT]
     > If you purchased your subscription from GoDaddy or another Partner, to set the new alias as the primary, you must go to the GoDaddy/partner management console. 
@@ -114,7 +114,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     > [!TIP]
     > The email alias must end with a domain from the drop-down list. To add another domain name to the list, see [Add a domain to Office 365](https://support.office.com/article/2d2fa996-b760-411d-a5cc-190d63f13207.aspx). 
 
-5. When you're done, choose **Save**.
+5. When you're done, select **Save**.
 
 6. Wait 24 hours for the new aliases to populate throughout Office 365. 
     

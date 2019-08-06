@@ -54,9 +54,9 @@ After you have created your account, you may update your VAT ID through your adm
   
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
     
-2. Choose a subscription, then choose **More Actions**.
+2. Select a subscription, then select **More Actions**.
     
-3. Choose **Update Service Recipient Address**, and update **TAX ID** information. 
+3. Select **Update Service Recipient Address**, and update **TAX ID** information. 
     
 ## How do I request an e-Invoice paper copy?
 

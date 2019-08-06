@@ -37,11 +37,11 @@ To change the address associated with your bill or subscription, see [Change you
 
 To change other information on your company's profile page:
   
-1. In the admin center, go to the **Settings** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2067339" target="_blank">Organization profile</a> page, or choose your organization's name at the top of the page.
+1. In the admin center, go to the **Settings** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2067339" target="_blank">Organization profile</a> page, or select your organization's name at the top of the page.
 
-2. Choose **Edit** beside your organization's name.
+2. Select **Edit** beside your organization's name.
 
-3. Update your organization's information and choose **Save**.
+3. Update your organization's information and select **Save**.
 
     An explanation of each field is provided below.
 
@@ -60,7 +60,7 @@ To change other information on your company's profile page:
 
 ### Admin info
   
-If you're an admin and want to change your alternate email address for resetting passwords or business email address, go to **Settings**![Settings](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) and under **Your app settings**, choose **Office 365**.
+If you're an admin and want to change your alternate email address for resetting passwords or business email address, go to **Settings**![Settings](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) and under **Your app settings**, select **Office 365**.
 
 ### User info
   

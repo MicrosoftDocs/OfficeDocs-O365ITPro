@@ -37,19 +37,19 @@ You can add your own custom tiles to the app launcher that point to SharePoint s
 
 1. In the admin center, go to the **Settings** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2067339" target="_blank">Organization profile</a> page.
     
-2. On the **Organization profile** page, next to   **Add custom tiles for your organization**, choose **Edit**.<br/><br/>NOTE: If you don't see the custom tiles option, verify that you have an Exchange Online mailbox assigned to you and you've successfully signed into your mailbox. Both are required for this feature.
+2. On the **Organization profile** page, next to   **Add custom tiles for your organization**, select **Edit**.<br/><br/>NOTE: If you don't see the custom tiles option, verify that you have an Exchange Online mailbox assigned to you and you've successfully signed into your mailbox. Both are required for this feature.
   
-3. Choose **Add a custom tile**. 
+3. Select **Add a custom tile**. 
   
 4. Enter a **Tile name** for the new tile. The name will appear in the tile. 
     
-5. Enter a **URL** for the tile. This is the location where you want your users to go when they click the tile on the app launcher. Use HTTPS in the URL.<br/>TIP: If you're creating a tile for a SharePoint site, navigate to that site, copy the URL, and paste it here. The URL of your default team site looks like this: `https://<company_name>.sharepoint.com` 
+5. Enter a **URL** for the tile. This is the location where you want your users to go when they select the tile on the app launcher. Use HTTPS in the URL.<br/>TIP: If you're creating a tile for a SharePoint site, navigate to that site, copy the URL, and paste it here. The URL of your default team site looks like this: `https://<company_name>.sharepoint.com` 
   
-6. Enter a **Description** for the tile. You see this when you select the tile on the My apps page and choose App details. 
+6. Enter a **Description** for the tile. You see this when you select the tile on the My apps page and select **App details**. 
     
 7. Enter an **Image URL** for the tile. The image appears on the My apps page and app launcher.<br/>TIP: The image should be 60x60 pixels and be available to everyone in your organization without requiring authentication.
   
-8. Choose **Save** to create the custom tile. 
+8. Select **Save** to create the custom tile. 
     
 Your custom tile now appears in the app launcher on the **All** tab for you and your users. 
   
@@ -69,13 +69,13 @@ Your custom tile now appears in the app launcher on the **All** tab for you and 
 
 1. In the admin center, go to the **Settings** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2067339" target="_blank">Organization profile</a> page.
     
-2. On the **Organization profile** page, next to   **Add custom tiles for your organization**, choose **Edit**.
+2. On the **Organization profile** page, next to   **Add custom tiles for your organization**, select **Edit**.
 
 3. Update the **Tile name**, **URL**, **Description**, or **Image URL** for the custom tile (see [Add a custom tile to the app launcher](#add-a-custom-tile-to-the-app-launcher)).
     
-4. Click **Update** \> **Close**. 
+4. Select **Update** \> **Close**. 
     
-To delete a custom tile, from the **Custom tiles** window, select the tile, click **Remove tile** and then click **Delete**. 
+To delete a custom tile, from the **Custom tiles** window, select the tile, select **Remove tile** > **Delete**. 
   
 ## What's next?
 

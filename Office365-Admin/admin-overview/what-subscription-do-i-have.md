@@ -39,7 +39,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Your subscriptions are displayed on the **Products & services** page, together with the subscription name, information about the subscription, and its status. To see a condensed view, choose **Table view**.
+2. Your subscriptions are displayed on the **Products & services** page, together with the subscription name, information about the subscription, and its status. To see a condensed view, select **Table view**.
 
 ::: moniker-end
 

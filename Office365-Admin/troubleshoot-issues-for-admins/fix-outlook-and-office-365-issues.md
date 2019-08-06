@@ -62,7 +62,7 @@ The Support and Recovery Assistant will run some checks, and when you're ready w
   
 1. Go to the [Support and Recovery Assistant for Office 365 download page](https://diagnostics.office.com/#/Download/?env=OfficePortal).
     
-2. Click **Download now**.
+2. Select **Download now**.
     
 3. Run the installation program.
     

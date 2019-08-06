@@ -77,12 +77,12 @@ As an admin for Office 365, you can create or edit users, reset user passwords, 
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=868433" target="_blank">Purchase services</a> page.
     
-2. Click the product you want to purchase, and then choose **Buy**.
+2. Select the product you want to purchase, and then select **Buy**.
   
-3. To add a new partner, expand **Need help with your order?** and choose **Get assistance from a Microsoft Partner**.<br>
+3. To add a new partner, expand **Need help with your order?** and select **Get assistance from a Microsoft Partner**.<br>
 Follow the steps on the providers page to either search for, or to get matched with a partner.
     
-4. If you already have a partner, in the second step of the checkout wizard, in the right pane, under Partner information, click **Add**.
+4. If you already have a partner, in the second step of the checkout wizard, in the right pane, under Partner information, select **Add**.
 
 5. Type the Microsoft Partner ID for the partner you're adding. You can get the partner's Microsoft Partner ID by asking the partner for it.
 
@@ -96,12 +96,12 @@ Follow the steps on the providers page to either search for, or to get matched w
 
 1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=848041), go to the **Billing** \> **Purchase services**  page.
     
-2. Click the product you want to purchase, and then choose **Buy**.
+2. Select the product you want to purchase, and then select **Buy**.
   
-3. To add a new partner, expand **Need help with your order?** and choose **Get assistance from a Microsoft Partner**.<br>
+3. To add a new partner, expand **Need help with your order?** and select **Get assistance from a Microsoft Partner**.<br>
 Follow the steps on the providers page to either search for, or to get matched with a partner.
     
-4. If you already have a partner, in the second step of the checkout wizard, in the right pane, under Partner information, click **Add**.
+4. If you already have a partner, in the second step of the checkout wizard, in the right pane, under Partner information, select **Add**.
 
 5. Type the Microsoft Partner ID for the partner you're adding. You can get the partner's Microsoft Partner ID by asking the partner for it.
 
@@ -165,7 +165,7 @@ To accept this offer
   
 1. Read the partner's terms in the email.
     
-2. To authorize the agreement, click the link, which goes to an authorization page in Office 365.
+2. To authorize the agreement, select the link, which goes to an authorization page in Office 365.
     
 3. Under **Partner Relationships**, select **Yes** to authorize the partner to be your delegated admin, and then select **Next**.
     

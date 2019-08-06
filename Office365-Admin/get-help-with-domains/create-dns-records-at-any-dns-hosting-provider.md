@@ -200,11 +200,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
   
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
        
-4. On the **Verify domain** page, choose **Verify**.   
+4. On the **Verify domain** page, select **Verify**.   
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
@@ -237,7 +237,7 @@ The MX record you'll add includes a value (the **Points to address** value) that
 
 ::: moniker-end
 
-1. On your DNS host's website, click to add a new MX record.
+1. On your DNS host's website, add a new MX record.
     
     Now you'll [get the information for the MX record](../get-help-with-domains/information-for-dns-records.md) from Office 365. 
     

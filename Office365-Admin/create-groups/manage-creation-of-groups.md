@@ -195,9 +195,9 @@ If you want to turn off the group creation restriction and again allow all users
 
 1. Sign in to Office 365 with a user account of someone who should NOT have the ability to create groups. That is, they are not a member of the security group you created or an administrator.
     
-2. Choose the **Planner** tile. 
+2. Select the **Planner** tile. 
     
-3. In Planner, choose **New Plan** in the left navigation to create a plan. 
+3. In Planner, select **New Plan** in the left navigation to create a plan. 
   
 4. You should get a message that plan and group creation is disabled.
 

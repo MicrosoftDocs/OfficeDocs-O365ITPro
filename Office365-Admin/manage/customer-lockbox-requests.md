@@ -80,7 +80,7 @@ An Office 365 administrator can turn on Customer Lockbox controls in the Microso
 1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2072756" target="_blank">Security & privacy</a> page.
 
 
-2. On the **Customer Lockbox** tile, click **Edit**, and then move the toggle to **On** or **Off** to turn the feature on or off.
+2. On the **Customer Lockbox** tile, select **Edit**, and then move the toggle to **On** or **Off** to turn the feature on or off.
 
     ![Require approval for Customer Lockbox](../media/CustomerLockbox4.png)
 
@@ -91,14 +91,14 @@ An Office 365 administrator can turn on Customer Lockbox controls in the Microso
 
 1.  Go to [https://admin.microsoft.com](https://admin.microsoft.com) and sign in with your work or school account.
 
-2.  Click **Support > Customer Lockbox Requests**.
+2.  Select **Support > Customer Lockbox Requests**.
 
 
     A list of Customer Lockbox requests are displayed.
 
     ![List of Customer Lockbox requests](../media/CustomerLockbox6.png)
 
-3.  Select a Customer Lockbox request, and then click **Approve** or **Deny**.
+3.  Select a Customer Lockbox request, and then select **Approve** or **Deny**.
     
     ![Approve or deny Customer Lockbox requests](../media/CustomerLockbox7.png)
 
@@ -121,7 +121,7 @@ Here's how to create an audit log search query to return audit records related t
   
 2. Sign in to Office 365 using your work or school account.
 
-3. In the left pane of the Security & Compliance Center, click **Search & investigation** > **Audit log search**.
+3. In the left pane of the Security & Compliance Center, select **Search & investigation** > **Audit log search**.
     
     The **Audit log search** page is displayed. 
     
@@ -137,11 +137,11 @@ Here's how to create an audit log search query to return audit records related t
     
     d. **File, folder, or site** - Leave this field blank.
     
-5. Click **Search** to run the search using your search criteria. 
+5. Select **Search** to run the search using your search criteria. 
     
     The search results are loaded, and after a few moments they are displayed under **Results** on the **Audit log search** page.
 
-6. Click **Filter results** on the search results page, and do one of the following things:
+6. Select **Filter results** on the search results page, and do one of the following things:
 
    - To display audit records related to an approver in your organization approving or denying a Customer Lockbox request: In the box under the **Activity** column, type **Set-AccessToCustomerDataRequest**.
    
@@ -149,7 +149,7 @@ Here's how to create an audit log search query to return audit records related t
 
       ![Filter on "Microsoft Operator" to display audit records](../media/CustomerLockbox10.png)
 
-7. In the list of results, click an audit record to display it.
+7. In the list of results, select an audit record to display it.
 
 ### Audit record for a Customer Lockbox access request
 
@@ -168,7 +168,7 @@ The following screenshot shows an example of an audit log record that correspond
 ![Audit record for an approved Customer Lockbox request](../media/CustomerLockbox9.png)
 
 > [!TIP]
-> To display more detailed information in an audit record, click **More information**.
+> To display more detailed information in an audit record, select **More information**.
 
 ### Audit record for an action performed by a Microsoft engineer
 

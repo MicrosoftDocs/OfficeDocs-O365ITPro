@@ -39,7 +39,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 3. In the first box, type the first part of the new email address. If you added your own domain to Office 365, you can choose the domain for the new email alias by using the drop-down list. 
 
-4. Choose **Save changes**.
+4. Select **Save changes**.
     
 ### Use the old admin center to change a user's email address
 
@@ -47,11 +47,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-2. Choose the user. In the flyout pane, next to **Username / Email**, choose **Edit**.
+2. Select the user. In the flyout pane, next to **Username / Email**, select **Edit**.
 
 3. In the first box, type the first part of the new email address. If you added your own domain to Office 365, you can choose the domain for the new email alias by using the drop-down list.
 
-4. Choose **Save**.
+4. Select **Save**.
 
 **IMPORTANT**: 
     
@@ -71,13 +71,13 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. Select the user's name, and then on the **Account** tab select **Manage email aliases**.
 
-3. Choose **Set as Primary** for the email address that you want to set as the primary email address for that person. 
+3. Select **Set as Primary** for the email address that you want to set as the primary email address for that person. 
     
     **IMPORTANT**: You won't see this option to Set as Primary if you purchased Office 365 from GoDaddy or another Partner service that provides a management console. Instead, sign in to the GoDaddy / partner's management console to set the primary alias. 
     
     Also, you'll only see this option if you're an Office 365 global admin. If you don't see the option, you don't have permissions to change a user's name and primary email address.
   
-4. You'll see a big yellow warning that you're about to change the person's sign-in information. Choose **Save**, then **Close**.
+4. You'll see a big yellow warning that you're about to change the person's sign-in information. Select **Save**, then **Close**.
     
 5. Tell the person the following information:
  
@@ -97,15 +97,15 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. Choose the user. In the flyout pane, next to **Username / Email**, choose **Edit**.
+2. Select the user. In the flyout pane, next to **Username / Email**, select **Edit**.
 
-3. Choose **Set as Primary** for the email address that you want to set as the primary email address for that person. 
+3. Select **Set as Primary** for the email address that you want to set as the primary email address for that person. 
     
     **IMPORTANT**: You won't see this option to Set as Primary if you purchased Office 365 from GoDaddy or another Partner service that provides a management console. Instead, sign in to the GoDaddy / partner's management console to set the primary alias. 
     
     Also, you'll only see this option if you're an Office 365 global admin. If you don't see the option, you don't have permissions to change a user's name and primary email address.
   
-4. You'll see a big yellow warning that you're about to change the person's sign-in information. Choose **Save**, then **Close**.
+4. You'll see a big yellow warning that you're about to change the person's sign-in information. Select **Save**, then **Close**.
     
 5. Tell the person the following information:
  
@@ -131,7 +131,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 2. Select the user's name, and then on the **Account** tab select **Manage contact information**.
 
-3. In the **Display name** box, type a new name for the person, and then choose **Save**.
+3. In the **Display name** box, type a new name for the person, and then select **Save**.
 
     If you get the error message "**We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name.
 
@@ -141,9 +141,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-2. Choose the user. In the flyout pane, next to **Contact information**, choose **Edit**.
+2. Select the user. In the flyout pane, next to **Contact information**, select **Edit**.
 
-3. In the **Display name** box, type a new name for the person, and then choose **Save**.
+3. In the **Display name** box, type a new name for the person, and then select **Save**.
 
     If you get the error message "**We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name.
 

@@ -359,13 +359,13 @@ You can, but there are limitations:
     
     1. Go to the **Exchange admin center** (EAC). 
         
-    2. In EAC, in the **Mail flow** section, click **Accepted domains**. 
+    2. In the **Mail flow** section, select **Accepted domains**. 
         
     3. Double-click the domain you want to modify.
         
     4. In the window that opens, select **Internal Relay**. 
         
-    5. Click **Save**. This setting may require a few minutes to take effect. 
+    5. Select **Save**. This setting may require a few minutes to take effect. 
     
 4. Optionally, unblock the existing email server
     

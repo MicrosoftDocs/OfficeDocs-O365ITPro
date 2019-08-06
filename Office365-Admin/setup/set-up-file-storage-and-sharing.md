@@ -70,7 +70,7 @@ Here's how each person on your team can set up OneDrive and share files.
     
 2. On the Office 365 home page, choose **OneDrive**.
     
-3. In OneDrive, team members can store their own business-related files. You can share either individual files, or a whole folder. Pick a file or folder, right click, and then choose **Share**.
+3. In OneDrive, team members can store their own business-related files. You can share either individual files, or a whole folder. Pick a file or folder, right-click, and then choose **Share**.
     
     ![Sharing a folder](../media/e8df9df3-aea5-404d-a320-92d7826c260c.png)
   
@@ -150,7 +150,7 @@ Here's how to synchronize files on your team site with your desktop:
     
     ![OneDrive setup screen](../media/82cbb1ac-2ac5-42bd-82de-ba710bf46145.png)
   
-5. If you haven't yet synced your OneDrive, you might see a **This is your OneDrive folder** screen. Check the path under **Your OneDrive folder is here**. Choose **Change Location** if you want to use a different path, and then click **Next**. 
+5. If you haven't yet synced your OneDrive, you might see a **This is your OneDrive folder** screen. Check the path under **Your OneDrive folder is here**. Choose **Change Location** if you want to use a different path, and then select **Next**. 
     
     ![Change your local folder at this screen](../media/6395485a-e729-4a9a-8e7d-b35e662435da.png)
   

@@ -23,7 +23,7 @@ description: "Learn how to view the reports using navigation tabs and filters."
 
 ## Navigate and utilize the reports in Microsoft 365 usage analytics
 
-The dashboard provides you with a quick overview of the main usage and adoption metrics. By clicking on the top level metrics you can access reports which provide more details and insights. Each report tab contains data visualizations specific to an aspect of usage and adoption for your organization. The data collected is explained in the title of each report and also a tile that contains further information about the visualizations on the report tab that you are viewing.
+The dashboard provides you with a quick overview of the main usage and adoption metrics. By selecting the top level metrics you can access reports which provide more details and insights. Each report tab contains data visualizations specific to an aspect of usage and adoption for your organization. The data collected is explained in the title of each report and also a tile that contains further information about the visualizations on the report tab that you are viewing.
   
 To get started with your reports, here are some tips:
   

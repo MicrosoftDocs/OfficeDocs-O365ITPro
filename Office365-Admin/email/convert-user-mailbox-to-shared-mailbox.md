@@ -109,9 +109,9 @@ Let's say you've deleted a user account and now you want to convert their old ma
 
 1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
    
-2. Choose **Recipients** \> **Shared**.
+2. Select **Recipients** \> **Shared**.
 
-3. Choose the shared mailbox. Under **Convert to Regular Mailbox**, select **Convert**.
+3. Select the shared mailbox. Under **Convert to Regular Mailbox**, select **Convert**.
 
 4. Go back to the admin center. Under **Users**, choose the user account associated with the old shared mailbox. Assign a license to the account, and reset the password.
 

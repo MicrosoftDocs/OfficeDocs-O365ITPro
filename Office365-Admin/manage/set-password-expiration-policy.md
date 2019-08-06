@@ -39,13 +39,13 @@ As an admin, you can make user passwords expire after a certain number of days, 
 1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2072756" target="_blank">Security & privacy</a> page.
  If you aren't an Office 365 global admin, you won't see the Security and privacy option. 
   
-3. Next to **Password policy**, click **Edit**.
+3. Next to **Password policy**, select **Edit**.
   
 4. If you don't want users to have to change passwords, set **Passwords never expire** to **On**.<br/> ![Set to On](../media/a12c3844-d951-4484-8d2b-4120b059ea37.png)
   
 5. If you want user passwords to expire, in the first box type how often passwords should expire. Choose a number of days from 14 to 730.<br/>![Enter how often passwords should expire](../media/eaca5b33-c8b5-4d8b-b7ac-4712a9d0500e.png)
   
-6. In the second box type when users are notified that their password will expire, and then click **Save**. Choose a number of days from 1 to 30. 
+6. In the second box type when users are notified that their password will expire, and then select **Save**. Choose a number of days from 1 to 30. 
     
 7. When the user's password expires, they'll get a notification that appears in the lower right corner of their screen.<br/>![Notification the user sees](../media/a9809116-305c-4300-99c5-a3703dd65c30.png)
   

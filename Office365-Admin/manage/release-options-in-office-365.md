@@ -91,25 +91,25 @@ You can change how your organization receives Office 365 updates by following th
   
 1. In the admin center, go to the **Settings** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2067339" target="_blank">Organization profile</a> page.
   
-4. Next to **Release preferences**, click **Edit**.
+4. Next to **Release preferences**, select **Edit**.
     
-5. To disable targeted release, choose **Standard release**, then click **Next**, and say **Yes** to the confirmation. Skip to the last step. 
+5. To disable targeted release, select **Standard release**, then select **Next**, and say **Yes** to the confirmation. Skip to the last step. 
     
-6. To enable targeted release for all users in your organization, choose **Targeted release for everyone**, then click **Next**, and say **Yes** to the confirmation. Skip to the last step. 
+6. To enable targeted release for all users in your organization, select **Targeted release for everyone**, then select **Next**, and say **Yes** to the confirmation. Skip to the last step. 
     
-7. To enable targeted release for some people in your organization, choose **Targeted release for selected users**, then click **Next**, and say **Yes** to the confirmation. 
+7. To enable targeted release for some people in your organization, select **Targeted release for selected users**, then select **Next**, and say **Yes** to the confirmation. 
     
-8. Choose **Add people** to add users individually. Search for their names and click **+** to **Add**.
+8. Select **Add people** to add users individually. Search for their names and select **+** to **Add**.
     
-9. When you're done adding users, click **Save** and then **Close**.
+9. When you're done adding users, select **Save** and then **Close**.
 
 ## To add users in bulk
   
-1. Next to **Release preferences**, click **Actions** \> **+ Bulk add people for first release** under the **Standard release** heading. 
+1. Next to **Release preferences**, select **Actions** \> **+ Bulk add people for first release** under the **Standard release** heading. 
     
-2. Choose **Browse** to select a file containing each person's email address. 
+2. Select **Browse** to select a file containing each person's email address. 
     
-3. Click **Next** and then **Close**.
+3. Select **Next** and then **Close**.
 
 ## Get the Targeted release version of Office
 

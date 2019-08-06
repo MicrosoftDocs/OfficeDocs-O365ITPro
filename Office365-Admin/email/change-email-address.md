@@ -86,7 +86,7 @@ You must have a global admin account to perform these steps.
 
 2. Go to the **Setup** > **Domains** page. 
 
-3. On the **Domains** page, choose **Add domain**.
+3. On the **Domains** page, select **Add domain**.
     
 4. Follow the steps to confirm that you own your domain and to change your email address.
     

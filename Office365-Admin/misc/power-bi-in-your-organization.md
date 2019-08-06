@@ -79,7 +79,7 @@ If a tenant was created by Microsoft, you can claim and manage that tenant by fo
     
     ![The Office 365 app launcher with the Admin app highlighted](../media/4eea9dbc-591b-48be-9916-322d41c6525b.png)
   
-3. Read the instructions on the **Become the admin** page and then choose **Yes, I want to be the admin**.
+3. Read the instructions on the **Become the admin** page and then select **Yes, I want to be the admin**.
     
     > [!NOTE]
     >  If this option doesn't appear, there is already an Office 365 administrator in place. 
@@ -106,7 +106,7 @@ These steps require the use of Windows PowerShell. To get started with Windows P
   
 To perform the following steps, you must install the latest 64-bit version of the [Azure Active Directory Module for Windows PowerShell](https://www.powershellgallery.com/packages/AzureADPreview/2.0.2.5).
   
-After you click the link, click **Run** to run the installer package. 
+After you select the link, select **Run** to run the installer package. 
   
  **Disable automatic tenant join**: Use this Windows PowerShell command to prevent new users from joining a managed tenant:
   
@@ -152,13 +152,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. Find the user you want to remove the license for, then click their name.
+2. Find the user you want to remove the license for, then select their name.
     
-3. On the user details page, click **Licenses and Apps**. 
+3. On the **Licenses and Apps** tab, clear the **Microsoft Power BI** check box.
     
-4. Clear the **Microsoft Power BI** check box.
-    
-5. Click **Save changes**.
+4. Select **Save changes**.
     
 ### Use the old admin center to remove Power BI 
 
@@ -183,13 +181,13 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end 
     
-2. Find the user you want to remove the license for, then click their name.
+2. Find the user you want to remove the license for, then select their name.
     
-3. Next to **Product licenses**, choose **Edit**. 
+3. Next to **Product licenses**, select **Edit**. 
     
 4. Toggle off the **Microsoft Power BI** option.
     
-5. Click **Save**.
+5. Select **Save**.
 
 ## How do I know when new users have joined my tenant?
 

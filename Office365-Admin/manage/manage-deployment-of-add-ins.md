@@ -60,7 +60,7 @@ Before you begin, see [Determine if Centralized Deployment of add-ins works for 
   
 1. In the admin center, go to the **Settings** \> [Services &amp; add-ins](https://go.microsoft.com/fwlink/p/?linkid=2053743) page.
     
-2. Choose **Deploy Add-in** at the top of the page. On the overview page, choose **Next**.
+2. Select **Deploy Add-in** at the top of the page. On the overview page, select **Next**.
     
 3. Select an option and follow the instructions.
   
@@ -68,14 +68,14 @@ Before you begin, see [Determine if Centralized Deployment of add-ins works for 
 
 5. On the next page, select **Everyone**, **Specific users/groups** or **Just me** to specify who the add-in is deployed to. Use the Search box to find the users or groups who you want to deploy the add-in to. <br/>NOTE: Learn about the other states that apply to an add-in. See [Add-in states](#add-in-states) later in this topic.
   
-6. Choose **Deploy**.
+6. Select **Deploy**.
   
 7. A green tick will appear when the add-in has been deployed. You can follow the on-page instructions to test that the add-in has deployed successfully.
 
 > [!NOTE]
 > Users may need to relaunch Office to see the add-in icon appear on the ribbon of app. Outlook add-ins can take up to 12 hours to appear on users' ribbons.
     
-8. When finished, choose **Next**. If you've deployed to just yourself, you can choose **Change who has access to add-in** in order to deploy to more users.
+8. When finished, select **Next**. If you've deployed to just yourself, you can select **Change who has access to add-in** in order to deploy to more users.
 
 
 
@@ -142,7 +142,7 @@ To turn off add-in acquisition:
   
 1. In the admin center, go to the **Settings** \> [Services &amp; add-ins](https://go.microsoft.com/fwlink/p/?linkid=2053743) page.
     
-3. Choose **User owned apps and services**.
+3. Select **User owned apps and services**.
     
 4. Clear the option to let users access the Office store.
 
@@ -240,7 +240,7 @@ If the deployed add-in doesn't support add-in commands or if you want to view al
   
 ### In Word 2016, Excel 2016, or PowerPoint 2016
 
-1. Choose **Insert \> My Add-ins**. 
+1. Select **Insert \> My Add-ins**. 
     
 2. Select the **Admin Managed** tab in the Office Add-ins window. 
     
@@ -248,9 +248,9 @@ If the deployed add-in doesn't support add-in commands or if you want to view al
   
 ### In Outlook
 
-1. On the **Home** ribbon, choose **Get Add-ins**.<br/>![Store button in Outlook](../media/getaddinsicon.png)
+1. On the **Home** ribbon, select **Get Add-ins**.<br/>![Store button in Outlook](../media/getaddinsicon.png)
   
-2. Choose **Admin-managed** in the left nav.
+2. Select **Admin-managed** in the left nav.
   
 ## Learn more
 

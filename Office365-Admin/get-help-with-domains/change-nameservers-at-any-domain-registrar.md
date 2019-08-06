@@ -198,14 +198,14 @@ When Office 365 finds the correct TXT record, your domain is verified.
 
 1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
   
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
  
     
   
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
     
   
@@ -271,11 +271,11 @@ For example, here are some additional steps that might be required for email and
 
 3. On the Domains page, select a domain.
 
-4. Under **DNS settings**, choose **Custom Records**, and then choose **New custom record**.
+4. Under **DNS settings**, select **Custom Records**, and then choose **New custom record**.
 
-5. Choose the type of DNS record you want to add, and type the information for the new record.
+5. Select the type of DNS record you want to add, and type the information for the new record.
 
-6. Choose **Save**.
+6. Select **Save**.
     
 > [!NOTE]
 > Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain. 

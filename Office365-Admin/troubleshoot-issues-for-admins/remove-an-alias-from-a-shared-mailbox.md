@@ -42,10 +42,10 @@ Before you begin, make sure you've noted which shared mailbox you need to remove
     
 2. In the **Name**, **Email**, and **Email aliases** section, choose **Edit**.
     
-3. In the **Email aliases** section, remove the email address by clicking the remove (wastebin) icon, and then **Save**.
+3. In the **Email aliases** section, remove the email address by selecting the remove (wastebin) icon, and then **Save**.
     
     > [!NOTE]
-    > You can't remove the primary email address. If you need to remove the primary email address, add a second email address for this shared mailbox and click **Set as primary**. Then you can remove the email alias. 
+    > You can't remove the primary email address. If you need to remove the primary email address, add a second email address for this shared mailbox and select **Set as primary**. Then you can remove the email alias. 
   
 ## Did this solve your problem?
 

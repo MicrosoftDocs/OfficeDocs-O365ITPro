@@ -88,17 +88,17 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
     
 2. Go to the **Setup** > **Domains** page. 
 
-3. Choose **Add domain**.
+3. Select **Add domain**.
     
-4. Enter the name of the domain you want to add, then choose **Next**.
+4. Enter the name of the domain you want to add, then select **Next**.
     
 5. Choose how you want to verify that you own the domain.
     
-    1. If your domain is registered at GoDaddy or 1&amp;1, choose **Sign in** > **Next** and Office 365 [will set up your records automatically](../get-help-with-domains/domain-connect.md).
+    1. If your domain is registered at GoDaddy or 1&amp;1, select **Sign in** > **Next** and Office 365 [will set up your records automatically](../get-help-with-domains/domain-connect.md).
     
     2. You can have an email sent to the registered contact for the domain with a verification code. If you don't recognize or have access to the email on record, you can use the third option.
     
-    3. You can use a TXT record to verify your domain. Select this and choose **Next** to see instructions for how to add this DNS record to your registrar's website. This can take up to 30 minutes to verify after you've added the record. 
+    3. You can use a TXT record to verify your domain. Select this and select **Next** to see instructions for how to add this DNS record to your registrar's website. This can take up to 30 minutes to verify after you've added the record. 
     
 6. Choose how you want to make the DNS changes required for Office to use your domain.
     
@@ -107,7 +107,7 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
   
     2. Choose **I'll add the DNS records myself** if you want to attach only specific Office 365 services to your domain or if you want to skip this for now and do this later. **Choose this option if you know exactly what you're doing.**
     
-7. If you chose to  *add DNS records yourself*  , choose **Next** and you'll see a page with all the records that you need to add to your registrars website to set up your domain. 
+7. If you chose to  *add DNS records yourself*  , select **Next** and you'll see a page with all the records that you need to add to your registrars website to set up your domain. 
     
   
   
@@ -117,9 +117,9 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
     
     If you don't know the DNS hosting provider or domain registrar for your domain, see [Find your domain registrar or DNS hosting provider](../get-help-with-domains/find-your-domain-registrar.md).
     
-    If you want to wait for later, scroll to the bottom and choose **Skip this step**.
+    If you want to wait for later, scroll to the bottom and select **Skip this step**.
     
-8. Click **Finish** - you're done! 
+8. Select **Finish** - you're done! 
 
 ::: moniker range="o365-worldwide"
 

@@ -66,7 +66,7 @@ These steps are only for people using an Office 365 business plan. To do them, y
 
 ::: moniker-end
 
-2. On the **Active users** page, choose the user and then choose **Reset password**.
+2. On the **Active users** page, select the user and then select **Reset password**.
     
 3. Follow the instructions on the **Reset password** page to auto-generate a new password for the user or create one for them, and then select **Reset**.  
     
@@ -77,13 +77,13 @@ These steps are only for people using an Office 365 business plan. To do them, y
 
 Use these steps if you forgot your password but you're able to sign in to Office 365 because, for example, your password is saved in your browser: 
     
-1. In Office 365, choose **Settings** \> **Office 365** \> **Personal info**. 
+1. In Office 365, select **Settings** \> **Office 365** \> **Personal info**. 
           
 2. Double-check that your **Contact details** and **Alternate email** are accurate. If not, change them now. 
         
-3. Sign out of Office 365: select on your name in the upper right corner (in the above image, shown as **Diane**) \> **Sign out**. 
+3. Sign out of Office 365: select your name in the upper right corner (in the above image, shown as **Diane**) \> **Sign out**. 
         
-4. Now sign in again: type your user name \> **Next** \> and then choose **Forgot password**. 
+4. Now sign in again: type your user name \> **Next** \> and then select **Forgot password**. 
     
 5. Follow the steps in the wizard to reset your password. It uses your alternate contact info to verify you're the right person to reset your password. 
     
@@ -102,9 +102,9 @@ These steps work for a business with tens of users. If you have hundreds or thou
     
 2. Select the option next to **Display name** to select everyone in your business. Then unselect yourself. You can't reset your own password at the same time you reset everyone else's password.
     
-3. Choose **Reset password**. 
+3. Select **Reset password**. 
 
-4. Follow the instructions on the **Reset password** page, and choose **Reset**.  If you opted for auto-generating the passwords, the new temporary passwords will be displayed.   
+4. Follow the instructions on the **Reset password** page, and select **Reset**.  If you opted for auto-generating the passwords, the new temporary passwords will be displayed.   
     
 5. Enter an email address where you can receive the temporary passwords. You'll need to notify your users what their temporary passwords are.
     

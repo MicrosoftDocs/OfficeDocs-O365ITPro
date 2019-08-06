@@ -86,7 +86,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
    
-3. Select the user you want to delete, and then choose **Delete user**.
+3. Select the user you want to delete, and then select **Delete user**.
     
 
 ## User management admin: Delete one or more users from Office 365
@@ -103,7 +103,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
 
-2. Choose the names of the users that you want to delete, select **More options** (**...**), and then choose  **Delete user**.
+2. Select the names of the users that you want to delete, select **More options** (**...**), and then choose  **Delete user**.
    <br/>  
      Although you deleted the user's account, **you're still paying for the license**. See the next procedure to stop paying for the license.  Or, you can assign the license to another user. It won't be assigned to someone automatically.
     
@@ -125,7 +125,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
 
-2. Choose the names of the users that you want to delete, and in the **Bulk actions** pane, choose **Delete users**.
+2. Select the names of the users that you want to delete, and in the **Bulk actions** pane, choose **Delete users**.
    <br/>  
      Although you deleted the user's account, **you're still paying for the license**. See the next procedure to stop paying for the license.  Or, you can assign the license to another user. It won't be assigned to someone automatically.
 
@@ -141,7 +141,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page. If you don't see this option, you aren't a global admin or billing admin, and can't do this step. 
     
-2. Choose the subscription (if you have more than one) and then choose **Add/Remove licenses** to delete the license so you don't pay for it until you hire another person.  
+2. Select the subscription (if you have more than one) and then select **Add/Remove licenses** to delete the license so you don't pay for it until you hire another person.  
 
    Later when you go through the steps to add another person to your business, you'll be prompted to buy a license at the same time, with just one step!
  
@@ -163,7 +163,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end 
 
-2. Choose the subscription (if you have more than one) and then choose **Add/Remove licenses** to delete the license so you don't pay for it until you hire another person.  
+2. Select the subscription (if you have more than one) and then select **Add/Remove licenses** to delete the license so you don't pay for it until you hire another person.  
 
    Later when you go through the steps to add another person to your business, you'll be prompted to buy a license at the same time, with just one step!
 

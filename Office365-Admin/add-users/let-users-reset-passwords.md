@@ -61,17 +61,17 @@ These steps turn on self-service password reset for everyone in your business.
 ::: moniker-end
 
    
-2. Under **Let your people reset their own passwords**, choose the link for the **Azure AD admin center**. You'll get Azure for free!
+2. Under **Let your people reset their own passwords**, select the link for the **Azure AD admin center**. You'll get Azure for free!
     
-    ![Choose the link to go to the Azure admin center.](../media/1b72241f-df7b-44b0-9477-8687fe9f7315.png)
+    ![Se;ect the link to go to the Azure admin center.](../media/1b72241f-df7b-44b0-9477-8687fe9f7315.png)
   
-4. Choose **Users and groups** \> **Password reset**.
+4. Select **Users and groups** \> **Password reset**.
     
-    ![Choose Users and groups](../media/8d6739c8-b245-437c-8a77-63b38db4429b.png)
+    ![Select Users and groups](../media/8d6739c8-b245-437c-8a77-63b38db4429b.png)
   
-5. On the Properties page, choose **All** to enable it for everyone in your business, and then choose **Save**.
+5. On the Properties page, select **All** to enable it for everyone in your business, and then select **Save**.
     
-    ![Choose All](../media/1a7ad5c4-1dbe-46b9-9ed0-5507b62023d0.png)
+    ![Select All](../media/1a7ad5c4-1dbe-46b9-9ed0-5507b62023d0.png)
   
 6. When your users sign in to Office 365, they will be prompted to enter additional contact information that will help them reset their password in the future.
 

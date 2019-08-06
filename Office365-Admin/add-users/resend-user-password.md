@@ -28,7 +28,7 @@ You must be an [global admin or password administrator](about-admin-roles.md) to
     
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
      
-2. On the **Active users** page, choose the user and then choose **Reset password**.
+2. On the **Active users** page, select the user and then select **Reset password**.
     
 3. Follow the instructions on the **Reset password** page to auto-generate a new password for the user or create one for them, and then select **Reset**.  
     

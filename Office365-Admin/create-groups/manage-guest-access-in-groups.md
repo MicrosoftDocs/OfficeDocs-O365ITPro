@@ -40,11 +40,11 @@ If the guest already exists in your directory (see above), you can add them to y
   
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
   
-2. Select the group you want to add the guest to, and choose **View all and manage members** on the **Members** tab. 
+2. Select the group you want to add the guest to, and select **View all and manage members** on the **Members** tab. 
   
 4. Select **Add members**, and choose the name of the guest you want to add.
     
-5. Choose **Save**.
+5. Select **Save**.
     
 ### Use the old admin center to add existing guests to an Office 365 Group
 
@@ -54,11 +54,11 @@ If the guest already exists in your directory (see above), you can add them to y
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
   
-2. Select the group you want to add the guest to, and choose **Edit** in the **Members** section. 
+2. Select the group you want to add the guest to, and select **Edit** in the **Members** section. 
 
 3. Select **Add members**, and choose the name of the guest you want to add.
 
-4. Choose **Save**.
+4. Select **Save**.
 
 ### Invite guests
 

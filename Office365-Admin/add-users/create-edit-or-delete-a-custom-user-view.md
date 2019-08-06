@@ -89,7 +89,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. On the **Active users** page, select **Filters** and choose **New filter**.
+2. On the **Active users** page, select **Filters** and select **New filter**.
   
 3. On the **Custom filter** page, enter the name for your filter, choose the conditions for your custom filter, and then select **Add**. Your custom view is now included in the drop-down list of filters.
     
@@ -99,7 +99,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. On the **Active users** page, select **Views** and choose **Add custom view**.
+2. On the **Active users** page, select **Views** and select **Add custom view**.
   
 3. On the **Custom view** page, enter the name for your filter, choose the conditions for your custom filter, and then select **Add**. Your custom view is now included in the drop-down list of filters.
 
@@ -114,12 +114,12 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. On the **Active users** page, select **Filter**, choose the filter you want to change, and then select **Edit filter**. 
+2. On the **Active users** page, select **Filter**, select the filter you want to change, and then select **Edit filter**. 
     
     > [!TIP]
     > You can edit only custom views. 
   
-3. On the **Custom filter** page, edit the information as needed, and then select **Save**. Or, to delete the filter, at the bottom of the page choose **Delete**. 
+3. On the **Custom filter** page, edit the information as needed, and then select **Save**. Or, to delete the filter, at the bottom of the page select **Delete**. 
     
 ### Use the old admin center to edit or delete a custom user view
 
@@ -127,11 +127,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. On the **Active users** page, select **Views**, choose the filter you want to change, and then select **Edit this view**. 
+2. On the **Active users** page, select **Views**, select the filter you want to change, and then select **Edit this view**. 
     
     > [!TIP]
     > You can edit only custom views. 
   
-3. On the **Custom view** page, edit the information as needed, and then select **Save**. Or, to delete the filter, at the bottom of the page choose **Delete custom view**. 
+3. On the **Custom view** page, edit the information as needed, and then select **Save**. Or, to delete the filter, at the bottom of the page select **Delete custom view**. 
      
 

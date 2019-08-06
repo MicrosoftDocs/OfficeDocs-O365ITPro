@@ -58,33 +58,33 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>. If you get a message that says you don't have permission to access this page or perform this action, then you aren't an admin. [Who has admin permissions in my business?](admin-overview/admin-overview.md#who-has-admin-permissions-in-my-business)
     
-2. Choose the **Need help?** button.
+2. Select the **Need help?** button.
 
 3. In the **Need help?** pane, tell us what you need help with, and then press Enter. 
     
-4. If the results don't help, choose **Contact support**. 
+4. If the results don't help, select **Contact support**. 
 
-5. Enter a description if you like, confirm your contact number and email address, select your preferred contact method, and then choose **Contact me**. The expected wait time is indicated in the **Need help?** pane.
+5. Enter a description if you like, confirm your contact number and email address, select your preferred contact method, and then select **Contact me**. The expected wait time is indicated in the **Need help?** pane.
 
 ### Use the old admin center to start a service request
 
 1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>. If you get a message that says you don't have permission to access this page or perform this action, then you aren't an admin. [Who has admin permissions in my business?](admin-overview/admin-overview.md#who-has-admin-permissions-in-my-business)
     
-2. Choose the **Need help?** button.
+2. Select the **Need help?** button.
 
-3. In the **Need help?** pane, tell us what you need help with, then choose **Get help**. 
+3. In the **Need help?** pane, tell us what you need help with, then select **Get help**. 
     
-4. If the results don't help, choose **New service request by phone**. Confirm your contact number, and then choose **Call me**. The expected wait time for a call back is indicated in the **Need help?** pane. 
+4. If the results don't help, select **New service request by phone**. Confirm your contact number, and then select **Call me**. The expected wait time for a call back is indicated in the **Need help?** pane. 
 
 ## [In-store support](#tab/instore)
   
 You can now make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your Office 365 or Microsoft 365 issue.
 
-1. Go to the [Microsoft Stores schedule](https://go.microsoft.com/fwlink/?LinkID=2041482) page, and choose **Schedule an appointment**.
+1. Go to the [Microsoft Stores schedule](https://go.microsoft.com/fwlink/?LinkID=2041482) page, and select **Schedule an appointment**.
 
-2. Enter your location and choose search to find a Microsoft Store near you.
+2. Enter your location and search to find a Microsoft Store near you.
 
-3. Choose your store, then choose **Schedule service appointment now**.
+3. Choose your store, then select **Schedule service appointment now**.
     
 ---
 

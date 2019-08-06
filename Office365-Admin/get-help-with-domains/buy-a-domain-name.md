@@ -36,11 +36,11 @@ description: "Learn how to buy a domain name in Office 365."
 
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
   
-### Sign in and click Settings \> Domains \> Buy a domain
+### Sign in and go to Settings \> Domains \> Buy a domain
 
 1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-3. On the **Domains** page, choose **Buy domain**.
+3. On the **Domains** page, select **Buy domain**.
     
 You can choose from the following top level domains for your domain.
   
@@ -66,7 +66,7 @@ You can choose from the following top level domains for your domain.
     
 
 > [!NOTE]
-> When you click **Buy domain**, you may be redirected to your Microsoft partner's website if the tenant is purchased/managed through a Microsoft partner.
+> When you select **Buy domain**, you may be redirected to your Microsoft partner's website if the tenant is purchased/managed through a Microsoft partner.
 
 ### Domain Privacy
 We offer a free Domain Privacy Subscription with the purchase of a domain. This keeps your contact information attached to the registration of your domain with ICANN private. [Learn more.](https://whois.icann.org/en/privacy-and-proxy-services)

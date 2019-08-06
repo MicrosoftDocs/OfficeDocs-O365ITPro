@@ -31,7 +31,7 @@ The best way to change all your users from one plan to another is to [use the Up
 
 - If the **Upgrade** tab indicates you can't upgrade the current plan.
 
-- If, when you choose the **Upgrade** tab, the plan you want isn't listed.
+- If, when you select the **Upgrade** tab, the plan you want isn't listed.
 
 - If you don't want to upgrade all your users in the same way. Some businesses need different users subscribed to different plans. Use a manual change for this.
 
