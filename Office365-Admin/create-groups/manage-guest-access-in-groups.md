@@ -42,7 +42,7 @@ If the guest already exists in your directory (see above), you can add them to y
   
 2. Select the group you want to add the guest to, and choose **View all and manage members** on the **Members** tab. 
   
-4. Click **Add members**, and select the name of the guest you want to add.
+4. Select **Add members**, and choose the name of the guest you want to add.
     
 5. Choose **Save**.
     
@@ -56,7 +56,7 @@ If the guest already exists in your directory (see above), you can add them to y
   
 2. Select the group you want to add the guest to, and choose **Edit** in the **Members** section. 
 
-3. Click **Add members**, and select the name of the guest you want to add.
+3. Select **Add members**, and choose the name of the guest you want to add.
 
 4. Choose **Save**.
 
@@ -84,7 +84,7 @@ By default, the Sharing option in your organization is turned on. This option al
 1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2072756" target="_blank">Security & privacy</a> page.
 
 
-2. Next to **Sharing**, click **Edit**. 
+2. Next to **Sharing**, select **Edit**. 
     
 3. Set the On / Off toggle for **Let users add new guests to the organization**.
     
@@ -95,7 +95,7 @@ By default, the Sharing option in your organization is turned on. This option al
 1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services & add-ins</a> page. 
     
 
-2. Choose **Office 365 Groups**.
+2. Select **Office 365 Groups**.
   
 3. On the **Office 365 Groups** page, choose whether you want to let people outside your organization access group resources or let group owners add people outside your organization to groups.
  
@@ -219,9 +219,9 @@ The last line of the script will display the updated settings:
   Connect-AzureAD
   ```
 
-    In the **Sign in to your Account** screen that opens, enter your admin account and password to connect you to your service, and click **Sign in**.
+   On the **Sign in to your Account** screen that opens, enter your admin account and password to connect you to your service, and select **Sign in**.
     
-    ![Enter your Office 365 credentials](../media/a2b4e2f3-436f-4a6c-b571-1a192698acea.png)
+   ![Enter your Office 365 credentials](../media/a2b4e2f3-436f-4a6c-b571-1a192698acea.png)
   
 4. Run this command.
     

@@ -143,7 +143,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. Choose the subscription (if you have more than one) and then choose **Add/Remove licenses** to delete the license so you don't pay for it until you hire another person.  
 
-   Later when you go through the steps to add another person to your business, you'll be prompted to buy a license at the same time, with just one click!
+   Later when you go through the steps to add another person to your business, you'll be prompted to buy a license at the same time, with just one step!
  
 #### Use the old admin center to remove a license
 
@@ -165,7 +165,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 2. Choose the subscription (if you have more than one) and then choose **Add/Remove licenses** to delete the license so you don't pay for it until you hire another person.  
 
-   Later when you go through the steps to add another person to your business, you'll be prompted to buy a license at the same time, with just one click!
+   Later when you go through the steps to add another person to your business, you'll be prompted to buy a license at the same time, with just one step!
 
    
 ## Delete many users at the same time

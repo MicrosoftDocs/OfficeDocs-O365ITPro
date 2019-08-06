@@ -68,7 +68,7 @@ The numbers are the total messages from the last week, not unread messages.
   
 ### How can I share the Service Incidents and Messages with the rest of my organization?
 
-If you click a specific service incident or a message, the share option will be in the top right corner. We currently support email sharing.
+If you select a specific service incident or a message, the share option will be in the top right corner. We currently support email sharing.
   
 ### My app is acting funny. What can I do to troubleshoot weird app behavior?
 

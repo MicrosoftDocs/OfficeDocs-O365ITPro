@@ -35,7 +35,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
  
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. Click the user's name, and then click **Manage username**.
+2. Select the user's name, and then on the **Account** tab select **Manage username**.
     
 3. In the first box, type the first part of the new email address. If you added your own domain to Office 365, you can choose the domain for the new email alias by using the drop-down list. 
 
@@ -69,7 +69,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
  
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. Click the user's name, and then click **Manage email aliases**.
+2. Select the user's name, and then on the **Account** tab select **Manage email aliases**.
 
 3. Choose **Set as Primary** for the email address that you want to set as the primary email address for that person. 
     
@@ -129,7 +129,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-2. Click the user's name, and then click **Manage contact information**.
+2. Select the user's name, and then on the **Account** tab select **Manage contact information**.
 
 3. In the **Display name** box, type a new name for the person, and then choose **Save**.
 

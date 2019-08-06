@@ -56,7 +56,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 3. In the right pane, choose  **OneDrive**. Under **Get access to files**, choose **Create link to files**.
 
-4. Click the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. You can also share the link with another user to download the files.
+4. Select the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. You can also share the link with another user to download the files.
 
     
 ### Use the old admin center to access a former user's OneDrive documents
@@ -67,9 +67,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 2. Select a user.
 
-3. In the right pane, expand **OneDrive Settings**, and then next to **Access**, click **Access files**.
+3. In the right pane, expand **OneDrive Settings**, and then next to **Access**, select **Access files**.
 
-4. Click the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. You can also share the link with another user to download the files.
+4. Select the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. You can also share the link with another user to download the files.
 
 > [!NOTE]
 > You can move up to 500 MB of files and folders at a time.<br/>
@@ -91,7 +91,7 @@ As global admin you have access to the content in a user’s OneDrive site, but 
 
 5. Enter the user's name and select **Find**.
 
-6. Right-click the user, then select **Manage site collection owners**.
+6. Right-click the user, and then choose **Manage site collection owners**.
 
 7. Remove the person who no longer needs access to the user's data, then select **OK**.
 
@@ -112,35 +112,35 @@ To save the email messages, calendar, tasks, and contacts of the former employee
     
     ![Import/Export command in the Backstage view](../media/6013919e-d8ce-4902-b7b4-78ff4260a2f8.jpg)
   
-4. Click **Export to a file**, and then click **Next**.
+4. Select **Export to a file**, and then select **Next**.
     
     ![Export to a file option in the Import and Export Wizard](../media/458466a0-366b-4fbf-a2db-1919412c6527.jpg)
   
-5. Click **Outlook Data File (.pst)**, and then click **Next**.
+5. Select **Outlook Data File (.pst)**, and then select **Next**.
     
-6. Select the account you want to export by clicking the name or email address, such as Mailbox - Anne Weiler or anne@contoso.com. If you want to export everything in your account, including mail, calendar, contacts, tasks, and notes, make sure the **Include subfolders** check box is selected. 
+6. Select the account you want to export by selecting the name or email address, such as Mailbox - Anne Weiler or anne@contoso.com. If you want to export everything in your account, including mail, calendar, contacts, tasks, and notes, make sure the **Include subfolders** check box is selected. 
     
     > [!NOTE]
     > You can export one account at a time. If you want to export multiple accounts, after one account is exported, repeat these steps. 
   
     ![Export Outlook Data File dialog box with top folder selected and Include subfolders checked](../media/ce36616f-d76d-4ce2-b517-8ac4874e0971.jpg)
   
-7. Click **Next**.
+7. Select **Next**.
     
-8. Click **Browse** to select where to save the Outlook Data File (.pst). Type a  *file name*  , and then click **OK** to continue. 
+8. Select **Browse** to select where to save the Outlook Data File (.pst). Type a  *file name*, and then select **OK** to continue. 
     
     > [!NOTE]
-    > If you've used export before, the previous folder location and file name appear. Type a  *different file name*  before clicking **OK**. 
+    > If you've used export before, the previous folder location and file name appear. Type a  *different file name*  before selecting **OK**. 
   
 9. If you are exporting to an existing Outlook Data File (.pst), under **Options**, specify what to do when exporting items that already exist in the file.
     
-10. Click **Finish**.
+10. Select **Finish**.
     
 Outlook begins the export immediately unless a new Outlook Data File (.pst) is created or a password-protected file is used.
   
-   - If you're creating an Outlook Data File (.pst), an optional password can help protect the file. When the **Create Outlook Data File** dialog box appears, type the  *password*  in the **Password** and **Verify Password** boxes, and then click **OK**. In the **Outlook Data File Password** dialog box, type the  *password*  , and then click **OK**.
+   - If you're creating an Outlook Data File (.pst), an optional password can help protect the file. When the **Create Outlook Data File** dialog box appears, type the  *password*  in the **Password** and **Verify Password** boxes, and then select **OK**. In the **Outlook Data File Password** dialog box, type the  *password*, and then select **OK**.
     
-  - If you're exporting to an existing Outlook Data File (.pst) that is password protected, in the **Outlook Data File Password** dialog box, type the  *password*  , and then click **OK**.
+  - If you're exporting to an existing Outlook Data File (.pst) that is password protected, in the **Outlook Data File Password** dialog box, type the  *password*, and then select **OK**.
     
 See how to [Export or backup email, contacts, and calendar to an Outlook .pst file](https://support.office.com/article/14252b52-3075-4e9b-be4e-ff9ef1068f91.aspx) in Outlook 2010. 
   
@@ -152,30 +152,30 @@ To give access to the email messages, calendar, tasks, and contacts of the forme
 > You can also [convert the former user's mailbox to a shared mailbox](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox) or [forward a former employee's email to another employee](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#forward-a-former-employees-email-to-another-employee-or-convert-to-a-shared-mailbox).
 
   
-1. In Outlook, choose **File** \> **Open &amp; Export** \> **Import/Export**.
+1. In Outlook, go to **File** \> **Open &amp; Export** \> **Import/Export**.
     
     This starts the Import and Export Wizard.
     
-2. Choose **Import from another program or file**, and then click **Next**.
+2. Select **Import from another program or file**, and then select **Next**.
     
     ![Import and Export Wizard](../media/15cdd674-cd7b-492c-8e93-992cfa890f26.jpg)
   
-3. Choose **Outlook Data File (.pst)**, and click **Next**.
+3. Select **Outlook Data File (.pst)**, and select **Next**.
     
 4. Browse to the .pst file you want to import.
     
 5. Under **Options**, choose how you want to deal with duplicates
     
-6. Click **Next**.
+6. Select **Next**.
     
-7. If a password was assigned to the Outlook Data File (.pst), enter the password, and then click **OK**.
+7. If a password was assigned to the Outlook Data File (.pst), enter the password, and then select **OK**.
     
 8. Set the options for importing items. The default settings usually don't need to be changed.
     
-9. Click **Finish**.
+9. Select **Finish**.
     
 > [!TIP]
-> If you want to import or restore only a few items from an Outlook Data File (.pst), you can open the Outlook Data File. Then, in the navigation pane, click and drag the items from Outlook Data File folders to your existing Outlook folders. 
+> If you want to import or restore only a few items from an Outlook Data File (.pst), you can open the Outlook Data File. Then, in the navigation pane, drag the items from Outlook Data File folders to your existing Outlook folders. 
   
   
 ## Related Topics

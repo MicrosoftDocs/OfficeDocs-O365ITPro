@@ -62,7 +62,7 @@ You must have Office 365 global administrator or Exchange administrator permissi
       
 4. Select the group you want to restore, and then choose the restore icon.
     
-    ![Choose the group you want to restore, and then click the restore icon.](../media/restore-group.png)
+    ![Choose the group you want to restore, and then select the restore icon.](../media/restore-group.png)
   
 5. Choose refresh ![Refresh icon](../media/6464df90-2a91-4c1f-92a6-9a38c7696ac3.gif) to update the information on the page. Your group will show as Active. Any forms and form data associated with your group will also be restored.
     
@@ -131,7 +131,7 @@ At the message about an untrusted repository, type **Y**. It will take a minute 
 
 
 
-  In the **Sign in to your Account** screen that opens, enter your admin account and password to connect you to your service, and click **Sign in**.
+  On the **Sign in to your Account** screen that opens, enter your admin account and password to connect you to your service, and select **Sign in**.
   
 4. Run this command to display all soft-deleted Office 365 groups in your organization that are still within the 30 day retention period:
     

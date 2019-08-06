@@ -166,7 +166,7 @@ Leave the PowerShell window open for Step 2, below.
   ```
 
 
-  In the **Sign in to your Account** screen that opens, enter your Office 365 admin account and password to connect you to your service, and click **Sign in**.
+  In the **Sign in to your Account** screen that opens, enter your Office 365 admin account and password to connect you to your service, and select **Sign in**.
 
 
     
@@ -254,7 +254,7 @@ Outlook web shows the naming policy decorated name when the user types a group n
   
 ## Outlook Desktop
 
-Groups created in Outlook desktop are compliant with naming policy. Outlook desktop app doesn't yet show the preview of the naming policy and doesn't return the custom blocked word errors, when the user enters the group name. However, naming policy will be automatically applied on clicking create/edit and users will be presented with errors if there are custom blocked words in the group name or alias.
+Groups created in Outlook desktop are compliant with naming policy. Outlook desktop app doesn't yet show the preview of the naming policy and doesn't return the custom blocked word errors, when the user enters the group name. However, naming policy will be automatically applied on selecting create/edit and users will be presented with errors if there are custom blocked words in the group name or alias.
   
 ## Microsoft Teams
 

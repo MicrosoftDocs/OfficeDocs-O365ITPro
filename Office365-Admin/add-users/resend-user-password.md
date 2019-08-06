@@ -30,7 +30,7 @@ You must be an [global admin or password administrator](about-admin-roles.md) to
      
 2. On the **Active users** page, choose the user and then choose **Reset password**.
     
-3. Follow the instructions on the **Reset password** page to auto-generate a new password for the user or create one for them, and then click **Reset**.  
+3. Follow the instructions on the **Reset password** page to auto-generate a new password for the user or create one for them, and then select **Reset**.  
     
 4. Enter an email address the user can get to so they receive the new password, and follow up with them to make sure they got it.
     

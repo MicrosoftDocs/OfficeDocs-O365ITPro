@@ -77,13 +77,13 @@ On the sites page of the sharing settings (admin center) you can see a list of a
   
 2. Select the external sharing status next to the desired site collection.
   
-3. In the sharing dialog box, next to **Sharing status**, click **Edit**.
+3. In the sharing dialog box, next to **Sharing status**, select **Edit**.
   
 4. Next to **Let users share SharePoint Online and OneDrive for Business content with people outside the organization**, slide the slider to **On** to turn on external sharing.
   
 5. Choose whether users can share with existing guests, new and existing guests, or anyone.
     
-6. Click **Save**.
+6. Select **Save**.
     
 ## Revoke site access for individual users in the admin center
 
@@ -91,12 +91,12 @@ On the sites page of the sharing settings (admin center) you can see a list of a
 
 2. Select the sharing status next to the desired site collection.
     
-3. In the sharing dialog box, next to **External users**, click **Edit**.
+3. In the sharing dialog box, next to **External users**, select **Edit**.
     
 4. Under **Remove external members**, search for the members to remove.
   
 5. Next to the member's name, select **Remove**.
     
-6. Click **Save** to confirm the deletion. Note that once you save, the user(s) will no longer have access to the selected site. Any guest links that were provided will be disabled.
+6. Select **Save** to confirm the deletion. Note that once you save, the user(s) will no longer have access to the selected site. Any guest links that were provided will be disabled.
     
 

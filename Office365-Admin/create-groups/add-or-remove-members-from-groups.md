@@ -36,7 +36,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page. If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
     
-2. Click a group name.
+2. Select a group name.
     
 3. In the details pane, on the **Members** tab, select **View all and manage members**, and then select **Add members**.
       
@@ -50,9 +50,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page. If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
     
-2. Click a group name.
+2. Select a group name.
     
-3. In the details pane, next to **Members**, click **Edit**, and then choose **Add members**.
+3. In the details pane, next to **Members**, select **Edit**, and then choose **Add members**.
       
 4. Search for or select the name of the member you want to add.
     
@@ -71,13 +71,13 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
-2. Click a group name.
+2. Select a group name.
     
 3. In the details pane, on the **Members** tab, select **View all and manage members**.
     
 4. Next to the member you want to remove, select the X.
     
-5. Click **Save** to remove the member. 
+5. Select **Save** to remove the member. 
     
 ### Use the old admin center to remove a member from a Group
 
@@ -85,7 +85,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
-2. Click a group name.
+2. Select a group name.
     
 3. In the details pane, next to **Members**, select **Edit**.
     
@@ -108,7 +108,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
-2. Click a group name.
+2. Select a group name.
     
 3. In the details pane, on the **Members** tab, select **View all and manage owners**.
 
@@ -125,7 +125,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
-2. Click a group name.
+2. Select a group name.
 
 3. In the details pane, next to **Owners**, select **Edit**.
 
@@ -145,7 +145,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
-2. Click a group name.
+2. Select a group name.
     
 3. In the details pane, on the **Members** tab, select **View all and manage owners**.
     
@@ -159,7 +159,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
-2. Click a group name.
+2. Select a group name.
     
 3. In the details pane, next to **Owners**, select **Edit**.
     

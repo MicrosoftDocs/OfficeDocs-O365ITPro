@@ -51,7 +51,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. Click the name of the user whose email you want to forward to open the properties page. 
+2. Select the name of the user whose email you want to forward to open the properties page. 
  
 3. On the **Mail** tab, select **Manage email forwarding**. 
   
@@ -81,7 +81,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end 
     
-2. Click the name of the user whose email you want to forward to open the properties page. 
+2. Select the name of the user whose email you want to forward to open the properties page. 
 
 3. Expand **Mail settings**, and then in the **Email forwarding** section, select **Edit**.
 

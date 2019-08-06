@@ -70,7 +70,7 @@ You must be a global admin or user management admin in Office 365 to do these st
  
 3. Follow the prompts to set their password, and then choose **Restore**.
     
-4. If the user is successfully restored, click **Send email and close**. If you encounter a name conflict or proxy address conflict, see the instructions below for how to restore those accounts.
+4. If the user is successfully restored, select **Send email and close**. If you encounter a name conflict or proxy address conflict, see the instructions below for how to restore those accounts.
     
 After you've restored a user, make sure you notify them that their password changed and you follow up with them.
   
@@ -106,13 +106,13 @@ To fix this, replace the active user account with the one that you are restoring
     > [!NOTE]
     > If two or more users fail to be restored, an error message advises you that the restore operation failed for some users. View the log to see which users were not restored, and then restore the failed accounts one at a time. 
   
-3. Follow the prompts to set the password and click **Restore**.
+3. Follow the prompts to set the password and select **Restore**.
     
 4. A message pops up that says there was a problem restoring the account. Do one of the following:
     
   - Cancel the restore and rename the current active user. Then attempt the restore again.
     
-  - OR, type a new primary email address for the user and click **Restore**.
+  - OR, type a new primary email address for the user and select **Restore**.
     
 5. Review the results, and then select **Close**.
     
@@ -143,7 +143,7 @@ Go to the [Office 365 admin center](https://go.microsoft.com/fwlink/p/?linkid=84
 
 2. On the **Deleted users** page, select the user that you want to restore, and then select **Restore**. 
     
-3. On the **Restore** page, follow the instructions to set the password and click **Restore**. Any conflicting proxy addresses are automatically removed from the user you are restoring.
+3. On the **Restore** page, follow the instructions to set the password and select **Restore**. Any conflicting proxy addresses are automatically removed from the user you are restoring.
     
 4. Review the results, and then select **Close**.
 

@@ -47,7 +47,7 @@ This section explains how to allow users to send email as a Group in the [Exchan
     
     ![Choose the plus sign to add the users that you want to send as the Office 365 Group](../media/1df167f6-1eff-4f98-9ecd-4230fab46557.png)
   
-5. Type to search or pick a user from the list. Click **OK** and **Save**.
+5. Type to search or pick a user from the list. Select **OK** and **Save**.
     
     ![Type to search or pick a user from the list](../media/522919cf-664c-4a25-8076-c51c8c9fbe43.png)
   
@@ -65,7 +65,7 @@ This section explains how to allow users to send email on behalf of a Group in t
     
     ![choose the plus sign to add the users that you want to send as the Office 365 Group](../media/2bae0579-8907-4d6b-8920-ddd6555897b4.png)
   
-5. Type to search or pick a user from the list. Click **OK** and **Save**.
+5. Type to search or pick a user from the list. Select **OK** and **Save**.
     
     ![Type to search or pick a user from the list](../media/522919cf-664c-4a25-8076-c51c8c9fbe43.png)
 

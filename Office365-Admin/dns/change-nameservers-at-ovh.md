@@ -91,7 +91,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 > [!IMPORTANT]
 >  When you have completed the steps in this section, the  *only*  nameservers that should be listed are these four: **ns1.bdm.microsoftonline.com**, **ns2.bdm.microsoftonline.com**, **ns3.bdm.microsoftonline.com**, and **ns4.bdm.microsoftonline.com**. The following procedure will show you how to delete any other, unwanted nameservers from the list, and also how to add the  *correct*  nameservers if they are not already in the list.
   
-1. ﻿To get started, go to your domains page in OVH by using [this link](https://www.ovh.com/manager/). You'll be prompted to log in.
+1. To get started, go to your domains page in OVH by using [this link](https://www.ovh.com/manager/). You'll be prompted to log in.
     
     ![OVH login](../media/1424cc15-720d-49d1-b99b-8ba63b216238.png)
   
@@ -99,7 +99,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
     
 3. Under the **DNS servers** tab, you'll see your current NS servers. By default, they are something like:  *ns108.ovh.net*  and  *dns108.ovh.net*.
     
-4. Click the **Modify DNS servers** button to enter edit mode, and replace the server names with the following: 
+4. Select the **Modify DNS servers** button to enter edit mode, and replace the server names with the following: 
     
 |||
 |:-----|:-----|
@@ -108,7 +108,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
 |**Name Server 3 (optional)** <br/> |ns3.bdm.microsoftonline.com  <br/> |
 |**Name Server 4 (optional)** <br/> |ns4.bdm.microsoftonline.com  <br/> |
    
-5. Click **Apply configuration** to save. 
+5. Select **Apply configuration** to save. 
     
 > [!NOTE]
 > Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain.

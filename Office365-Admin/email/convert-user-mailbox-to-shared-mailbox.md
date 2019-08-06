@@ -33,24 +33,33 @@ When you convert a user's mailbox to a shared mailbox, all of the existing email
 
 - The rules are intact after the mailbox is converted to a shared mailbox.
 
-Here's how you convert a mailbox to a shared mailbox:
-
+## Use the Exchange admin center to convert a mailbox
  
 1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
 
-2. Choose **Recipients** \> **Mailboxes**.
+2. Select **Recipients** \> **Mailboxes**.
 
-3. Choose the User mailbox. Under **Convert to Shared Mailbox**, click **Convert**.
+3. Select the user mailbox. Under **Convert to Shared Mailbox**, select **Convert**.
 
 4. If the mailbox is smaller than 50GB, you can remove the [license from the user](../subscriptions-and-billing/remove-licenses-from-users.md), and stop paying for it. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor. If you are converting the mailbox of an employee that is leaving your organization, you should take additional steps to make sure that they cannot log in anymore. Please see [Remove a former employee from Office 365](../add-users/remove-former-employee.md).
     
 5. For everything else you need to know about shared mailboxes, please see [Create a shared mailbox](create-a-shared-mailbox.md).
 
-## Convert the mailbox using the office 365 admin center
-
-- Mailboxes can be converted directly from the admin center as well.
+## Use the office 365 admin center to convert a mailbox
 
 ::: moniker range="o365-worldwide"
+
+## Use the new admin center to convert a mailbox to a shared mailbox
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+2. Select the name of the user whose mailbox you want to convert.
+
+3. On the **Mail** tab, under **More actions**, select **Convert to shared mailbox**. 
+
+## Use the old admin center to convert a mailbox to a shared mailbox
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
@@ -68,13 +77,14 @@ Here's how you convert a mailbox to a shared mailbox:
 
 ::: moniker-end
 
-2. Choose the user whose mailbox you want to convert.
+2. Select the user whose mailbox you want to convert.
 
-3. In the right pane, choose **Mail**. Under **More actions**, choose **Convert to shared mailbox**.
+3. In the right pane, expand **Mail Settings**. Next to **More settings**, select **Convert to shared mailbox**.
 
-4. If the mailbox is smaller than 50GB, you can remove the [license from the user](../subscriptions-and-billing/remove-licenses-from-users.md), and stop paying for it. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor. If you are converting the mailbox of an employee that is leaving your organization, you should take additional steps to make sure that they cannot log in anymore. See [Remove a former employee from Office 365](../add-users/remove-former-employee.md).
+
+If the mailbox is smaller than 50GB, you can [remove the license from the user](../subscriptions-and-billing/remove-licenses-from-users.md), and stop paying for it. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor. If you are converting the mailbox of an employee that is leaving your organization, you should take additional steps to make sure that they cannot log in anymore. See [Remove a former employee from Office 365](../add-users/remove-former-employee.md).
     
-5. For everything else you need to know about shared mailboxes, see [Create a shared mailbox](create-a-shared-mailbox.md).
+For everything else you need to know about shared mailboxes, see [Create a shared mailbox](create-a-shared-mailbox.md).
 
 
 ## Convert the mailbox of a deleted user

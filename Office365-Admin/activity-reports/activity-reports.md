@@ -59,7 +59,7 @@ Watch this video for on overview: on how you can use the reports:
 ::: moniker-end
 
    
-2. Choose **Select a report** at the top of the dashboard to select from a list of all available reports. Or, click an at-a-glance activity widget for a service (email, OneDrive, etc) to see more information. <br/>![The Office 365 Usage dashboard](../media/usage-report-dashboard.png)
+2. Choose **Select a report** at the top of the dashboard to select from a list of all available reports. Or, select an at-a-glance activity widget for a service (email, OneDrive, etc) to see more information. <br/>![The Office 365 Usage dashboard](../media/usage-report-dashboard.png)
   
 ## Who can see reports
 

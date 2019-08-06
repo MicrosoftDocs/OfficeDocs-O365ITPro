@@ -68,7 +68,7 @@ These steps are only for people using an Office 365 business plan. To do them, y
 
 2. On the **Active users** page, choose the user and then choose **Reset password**.
     
-3. Follow the instructions on the **Reset password** page to auto-generate a new password for the user or create one for them, and then click **Reset**.  
+3. Follow the instructions on the **Reset password** page to auto-generate a new password for the user or create one for them, and then select **Reset**.  
     
 4. Enter an email address the user can get to so they receive the new password, and follow up with them to make sure they got it.
  
@@ -81,7 +81,7 @@ Use these steps if you forgot your password but you're able to sign in to Office
           
 2. Double-check that your **Contact details** and **Alternate email** are accurate. If not, change them now. 
         
-3. Sign out of Office 365: click on your name in the upper right corner (in the above image, shown as **Diane**) \> **Sign out**. 
+3. Sign out of Office 365: select on your name in the upper right corner (in the above image, shown as **Diane**) \> **Sign out**. 
         
 4. Now sign in again: type your user name \> **Next** \> and then choose **Forgot password**. 
     
