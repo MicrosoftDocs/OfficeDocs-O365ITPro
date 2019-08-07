@@ -25,9 +25,24 @@ To keep track of upcoming feature releases or issues, go to <a href="https://go.
   
 To open the Message center:
 
+::: moniker range="o365-worldwide"
+
 - In the admin center, go to **Health** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2070717)" target="_blank">Message center</a>.
 
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+- In the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041)" target="_blank">admin center</a>, go to **Health** > **Message center**.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
  
+- In the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627)" target="_blank">admin center</a>, go to **Health** > **Message center**.
+
+::: moniker-end
+
 You can also use the [Microsoft 365 Admin app](https://go.microsoft.com/fwlink/p/?linkid=627216) on your mobile device to view Message center, which is a great way to stay current with push notifications. 
   
   
@@ -104,6 +119,8 @@ If administration is distributed across your organization, you may not want or n
 - Filter messages
 - Opt-in to receive a weekly digest of messages in email, to make sure you never miss an important post. 
 
+::: moniker range="o365-worldwide"
+
 #### Use the new admin center to set your Message center preferences 
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
@@ -119,6 +136,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 #### Use the old admin center to set your Message center preferences 
   
+::: moniker-end
+
 1. Select **Edit Message center preferences** at the top of Message center. 
     
 2. Make sure that the toggle is set to **On** for each service that you want to monitor. Use the toggle to change the setting to **Off** for the services you want to filter out of your Message center view. 
