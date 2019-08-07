@@ -39,7 +39,7 @@ If you're looking for how to change company profile information, such as organiz
     
 3. Select **Office 365** under **Your app settings**.
     
-4. Select**Security &amp; privacy** and then **Contact preferences**.
+4. Select **Security &amp; privacy** and then **Contact preferences**.
     
 5. Choose the types of product-related communications you want to receive.
     

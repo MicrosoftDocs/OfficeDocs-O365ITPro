@@ -40,7 +40,7 @@ With this account you can access the Microsoft 365 admin center to manage your b
 
 ::: moniker range="o365-21vianet"
 
-**Sign in to with your admin account to Office 365 operated by 21Vianet at <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">https://portal.partner.microsoftonline.cn</a>.**
+**Sign in with your admin account to Office 365 operated by 21Vianet at <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">https://portal.partner.microsoftonline.cn</a>.**
 
 ::: moniker-end
 

@@ -37,7 +37,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
 
-2. On the Groups page, select the name of the group you want to add a contact to.
+2. On the **Groups** page, select the name of the group you want to add a contact to.
 
 3. On the **Members** tab, select **View all and manage members**.
 
@@ -54,7 +54,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
-2. On the Groups page, select the group you want to add a contact to.
+2. On the **Groups** page, select the group you want to add a contact to.
     
 3. In the **Members** section, select **Edit**.
   
