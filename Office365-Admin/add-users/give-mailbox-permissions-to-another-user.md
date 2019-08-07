@@ -79,10 +79,22 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 6. Select **Save**.
  
 ### Use the old admin center to send email from another user's mailbox
-
-::: moniker-end
    
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.  
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
+
+::: moniker-end
 
 2. Select the user you want, expand **Mail Settings**, and then Select **Edit** next to **Mailbox permissions**.
 
@@ -113,11 +125,24 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 6. Select **Save**.
     
 ### Use the old admin center to read email in another user's mailbox
+
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
   
 ::: moniker-end
 
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
-    
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.  
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
+
+::: moniker-end
+  
 2. Select the user you want, expand **Mail Settings**, and then select **Edit** next to **Mailbox permissions**.
     
 3. Next to **Read and manage**, select **Edit**. 
@@ -149,10 +174,21 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 ### Use the old admin center to send email on behalf of another user
 
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
+
 ::: moniker-end
 
+::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.  
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
+
+::: moniker-end
 
 2. Select the user you want, expand **Mail Settings**, and then select **Edit** next to **Mailbox permissions**.
 
