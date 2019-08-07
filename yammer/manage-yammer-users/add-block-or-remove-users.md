@@ -58,13 +58,11 @@ Only employees with a company email address can be invited from this screen.
 <a name="ManagePending"> </a>
 ## Manage pending users
 
-A "pending user" is someone who has been invited to a yammer network but never logged in. Pending users can be added to groups even before they have used Yammer for the first time. 
+A "pending user" is someone who has been invited to a yammer network but never logged in. Pending users can be added to groups even before they have used Yammer for the first time.
   
 Pending users receive announcement notification emails from group admins. If users don't want to receive announcements from a particular group they can log into their Yammer account and leave the group or follow the unsubscribe link in the email to unsubscribe from all Yammer emails.
   
 As in all Office products, pending users will be visible in the group member list even if they have never logged in.
-
-As of August 2019, new users added into Yammer will be added into the active user state. In the coming months, existing pending users will be converted into active users.  
   
 <a name="InviteGuests"> </a>
 ## Invite guests
