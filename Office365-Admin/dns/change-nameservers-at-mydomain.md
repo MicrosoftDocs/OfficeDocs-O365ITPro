@@ -39,11 +39,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 1. To get started, go to your domains page at MyDomain by using [this link](https://www.mydomain.com/controlpanel). You'll be prompted to log in first.
     
-2. In the **My Favorites** section, choose **Domain Central**.
+2. In the **My Favorites** section, select **Domain Central**.
     
-3. Under **Domain**, choose the name of the domain that you want to edit.
+3. Under **Domain**, select the name of the domain that you want to edit.
     
-4. In the **Overview** row, choose **DNS**.
+4. In the **Overview** row, select **DNS**.
     
 5. From the **Modify** drop-down list, choose **TXT/SPF Record**.
     
@@ -54,7 +54,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |**Content** <br/> |
 |MS=ms *XXXXXXXX*  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-7. Choose **Add**.
+7. Select **Add**.
     
 8. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
@@ -65,11 +65,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
 1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
@@ -86,11 +86,11 @@ To complete setting up your domain with Office 365, you change your domain's NS 
   
 1. To get started, go to your domains page at MyDomain by using [this link](https://www.mydomain.com/controlpanel). You'll be prompted to log in first.
     
-2. In the **My Favorites** section, choose **Domain Central**.
+2. In the **My Favorites** section, select **Domain Central**.
     
-3. Under **Domain**, choose the name of the domain that you want to edit.
+3. Under **Domain**, select the name of the domain that you want to edit.
     
-4. In the **Overview** row, choose **Nameservers**.
+4. In the **Overview** row, select **Nameservers**.
     
     ![MyDomain-BP-Redelegate-1-1](../media/49e91235-44b5-46d6-a82e-8f11329db3d6.png)
   
@@ -115,7 +115,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
     
     ![MyDomain-BP-Redelegate-1-3-1](../media/5024cd27-a2b1-42a2-99e4-5ceb5e6eddb9.png)
   
-2. Choose **Add More** twice to add two new Nameserver rows. 
+2. Select **Add More** twice to add two new Nameserver rows. 
     
     ![MyDomain-BP-Redelegate-1-3-2](../media/19307893-2f73-4e4d-9221-a5870e09ab48.png)
   
@@ -130,7 +130,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
    
    ![MyDomain-BP-Redelegate-1-4](../media/7427e99c-49c7-4a2e-a5bf-66fc46900cd1.png)
   
-4. Choose **Save**.
+4. Select **Save**.
     
     ![MyDomain-BP-Redelegate-1-5](../media/48473816-b881-47f0-9344-74622efa3bf8.png)
   

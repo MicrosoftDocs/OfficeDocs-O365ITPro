@@ -53,9 +53,9 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 1. To get started, go to your domains page at Wix by using [this link](https://premium.wix.com/wix/api/mpContainerStaticController#/domains?referralAdditionalInfo=account). You'll be prompted to login first.
     
-2. On the **My Domains** page, in the **Advanced** area, click the **Edit DNS** button. 
+2. On the **My Domains** page, in the **Advanced** area, select the **Edit DNS** button. 
     
-3. Click **+ Add another** in the **TXT (Text) row** of the DNS editor. 
+3. Select **+ Add another** in the **TXT (Text) row** of the DNS editor. 
     
 4. In the boxes for the new record, type or copy and paste the values from the following table. 
     
@@ -64,7 +64,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |**Host Record** <br/> |**TTL** <br/> |**Type** <br/> |**TXT Value** <br/> |
 |@  <br/> |3600 (seconds)  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-5. Click the **Save DNS** button at the top of the DNS editor. 
+5. Select the **Save DNS** button at the top of the DNS editor. 
     
 6. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     

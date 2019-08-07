@@ -51,7 +51,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 3. Choose **DNS** from the **Select action** drop-down list. 
     
-4. On the **Manage your DNS** page, choose the **Advanced DNS** tab. 
+4. On the **Manage your DNS** page, select the **Advanced DNS** tab. 
     
 5. In the **Advanced DNS** section, in the boxes for the new record, type or copy and paste the values from the following table. 
     
@@ -62,7 +62,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     |**Hostname** <br/> |**Type** <br/> |**Destination TXT/SPF** <br/> |
     |@  <br/> |TXT/SPF  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-6. Choose **Add**.
+6. Select **Add**.
     
 7. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
@@ -73,11 +73,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
 1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
@@ -91,7 +91,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 3. Choose **DNS** from the **Select action** drop-down list. 
     
-4. On the **Manage your DNS** page, choose the **Advanced DNS** tab. 
+4. On the **Manage your DNS** page, select the **Advanced DNS** tab. 
     
 5. In the **Advanced DNS** section, in the boxes for the new record, type or copy and paste the values from the following table. 
     
@@ -103,13 +103,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Copy and paste values from the table](../media/65366165-85a6-4a39-b9a7-6c5f47fbe790.png)
   
-6. Choose **Add**.
+6. Select **Add**.
     
-    ![Click Add](../media/a8ae6c0c-4365-4137-af8a-6e003996e3d0.png)
+    ![Select Add](../media/a8ae6c0c-4365-4137-af8a-6e003996e3d0.png)
   
 7. If there are any other MX records, remove each one by choosing the **Delete (trash can)** icon for that record. 
     
-    ![Click Delete (the trash can icon)](../media/3be635e6-b591-49af-8430-a158272834b4.png)
+    ![Select Delete (the trash can icon)](../media/3be635e6-b591-49af-8430-a158272834b4.png)
   
 ## Add the six CNAME records that are required for Office 365
 <a name="BKMK_add_CNAME"> </a>
@@ -120,7 +120,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 3. Choose **DNS** from the **Select action** drop-down list. 
     
-4. On the **Manage your DNS** page, choose the **Advanced DNS** tab. 
+4. On the **Manage your DNS** page, select the **Advanced DNS** tab. 
     
 5. Add the first of the six CNAME records.
     
@@ -138,13 +138,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Copy and paste the values from the table](../media/24bf388c-5f7f-4fc0-b4ec-4b17226b6246.png)
   
-6. Choose **Add**.
+6. Select **Add**.
     
-    ![Click Add](../media/825a9854-559d-4a22-90ac-5e7a0a54269a.png)
+    ![Select Add](../media/825a9854-559d-4a22-90ac-5e7a0a54269a.png)
   
 7. Add the other five CNAME records.
     
-    In the **Advanced DNS** section, create a record using the values from the next row in the table, and then again choose **Add** to complete that record. 
+    In the **Advanced DNS** section, create a record using the values from the next row in the table, and then again select **Add** to complete that record. 
     
     Repeat this process until you have created all six CNAME records.
     
@@ -160,7 +160,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 3. Choose **DNS** from the **Select action** drop-down list. 
     
-4. On the **Manage your DNS** page, choose the **Advanced DNS** tab. 
+4. On the **Manage your DNS** page, select the **Advanced DNS** tab. 
     
 5. In the **Advanced DNS** section, in the boxes for the new record, type or copy and paste the values from the following table. 
     
@@ -172,9 +172,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![123Reg-BP-Configure-4-1](../media/4697701c-eba0-4b03-8d75-4f7fc3bef94a.png)
   
-6. Choose **Add**.
+6. Select **Add**.
     
-    ![Click Add](../media/7906dd91-fd23-44c3-bb37-ef185655c6eb.png)
+    ![Select Add](../media/7906dd91-fd23-44c3-bb37-ef185655c6eb.png)
   
 ## Add the two SRV records that are required for Office 365
 <a name="BKMK_add_SRV"> </a>
@@ -185,7 +185,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 3. Choose **DNS** from the **Select action** drop-down list. 
     
-4. On the **Manage your DNS** page, choose the **Advanced DNS** tab. 
+4. On the **Manage your DNS** page, select the **Advanced DNS** tab. 
     
 5. Add the first of the two SRV records:
     
@@ -201,13 +201,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Copy and paste the values from the table](../media/c1786b86-52ef-4dca-8b99-b479554fa531.png)
   
-6. Choose **Add**.
+6. Select **Add**.
     
-    ![Click Add](../media/5fd9d3a2-a8bb-466b-829f-b3a6e54b5104.png)
+    ![Select Add](../media/5fd9d3a2-a8bb-466b-829f-b3a6e54b5104.png)
   
 7. To add the other SRV record:
     
-    In the **Advanced DNS** section, create a record by using the values from the second row in the table, and then again choose **Add** to complete that record. 
+    In the **Advanced DNS** section, create a record by using the values from the second row in the table, and then again select **Add** to complete that record. 
     
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 

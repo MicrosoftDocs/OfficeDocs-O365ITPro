@@ -65,13 +65,13 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (You may have to scroll down.)
     
-    ![Clicking DNS Settings in the list](../media/57944802-3f6b-49bb-971a-b1d20936cba3.png)
+    ![Selecting DNS Settings in the list](../media/57944802-3f6b-49bb-971a-b1d20936cba3.png)
   
 3. On the **Add/Modify DNS Zone** page, in the **A, CNAME, AAAA, TXT and NS records** section, in the boxes for the new record, type or copy and paste the values from the following table. 
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
-    (If you need to add a row, choose **ADD A/CNAME RECORDS (+)**.)
+    (If you need to add a row, select **ADD A/CNAME RECORDS (+)**.)
     
     (You may have to scroll down.)
     
@@ -81,11 +81,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
    
     ![Entering values on the Add/Modify DNS Zone page](../media/22326005-de95-464d-8e33-08ea31a89b2d.png)
   
-4. Choose **Save**.
+4. Select **Save**.
     
     (You may have to scroll down.)
     
-    ![Click Save](../media/157cfb98-d5d0-48a3-8dd1-c4e759c2f8a8.png)
+    ![Select Save](../media/157cfb98-d5d0-48a3-8dd1-c4e759c2f8a8.png)
   
 5. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
@@ -95,15 +95,15 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
     
   
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
     
   
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
     
   
@@ -121,7 +121,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-    ![Clicking DNS Settings in the list](../media/57944802-3f6b-49bb-971a-b1d20936cba3.png)
+    ![Selecting DNS Settings in the list](../media/57944802-3f6b-49bb-971a-b1d20936cba3.png)
   
 3. On the **Add/Modify DNS Zone** page, in the **Mail exchange records** section, in the boxes for the new record, type or copy and paste the values from the following table. 
     
@@ -133,21 +133,21 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Entering values on the Add/Modify DNS Zone page](../media/2d3645a8-9cb8-435e-b895-5535b6b1fffd.png)
   
-4. Choose **Save**.
+4. Select **Save**.
     
     (You may have to scroll down.)
     
-    ![Click Save](../media/0e565fb0-a126-4a48-8ff7-2c2d79d4af32.png)
+    ![Select Save](../media/0e565fb0-a126-4a48-8ff7-2c2d79d4af32.png)
   
 5. If there are any other MX records in the **Mail exchange records** section, delete each one by selecting it and then pressing the **Delete** key on your keyboard. 
     
     ![Deleting records in the Mail exchange records section](../media/8cc37e4f-2e85-4242-af0e-78149434167f.png)
   
-6. Choose **Save**.
+6. Select **Save**.
     
     (You may have to scroll down.)
     
-    ![Click Save](../media/1fb69bb5-b5df-4060-adf1-eb26cfaa6c4f.png)
+    ![Select Save](../media/1fb69bb5-b5df-4060-adf1-eb26cfaa6c4f.png)
   
 ## Add the six CNAME records that are required for Office 365
 <a name="BKMK_add_CNAME"> </a>
@@ -160,13 +160,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-    ![Clicking DNS Settings in the list](../media/57944802-3f6b-49bb-971a-b1d20936cba3.png)
+    ![Selecting DNS Settings in the list](../media/57944802-3f6b-49bb-971a-b1d20936cba3.png)
   
 3. On the **Add/Modify DNS Zone** page, in the **A, CNAME, AAAA, TXT and NS records** section, in the boxes for the new records, type or copy and paste the values from the following table. 
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
-    (If you need to add a row, choose **ADD A/CNAME RECORDS (+)**.)
+    (If you need to add a row, select **ADD A/CNAME RECORDS (+)**.)
     
     (You may have to scroll down.)
     
@@ -180,9 +180,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Entering values on the Add/Modify DNS Zone page](../media/3b79f0de-9cab-4c98-8fa8-c92b35241e8b.png)
   
-4. Choose **Save**.
+4. Select **Save**.
     
-    ![Click Save](../media/8ded6428-af97-4fd8-9104-477fa22a5586.png)
+    ![Select Save](../media/8ded6428-af97-4fd8-9104-477fa22a5586.png)
   
 ## Add a TXT record for SPF to help prevent email spam
 <a name="BKMK_add_TXT"> </a>
@@ -198,13 +198,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-    ![Clicking DNS Settings in the list](../media/57944802-3f6b-49bb-971a-b1d20936cba3.png)
+    ![Selecting DNS Settings in the list](../media/57944802-3f6b-49bb-971a-b1d20936cba3.png)
   
 3. On the **Add/Modify DNS Zone** page, in the **A, CNAME, AAAA, TXT and NS records** section, in the boxes for the new record, type or copy and paste the values from the following table. 
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
-    (If you need to add a row, choose **ADD A/CNAME RECORDS (+)**.)
+    (If you need to add a row, select **ADD A/CNAME RECORDS (+)**.)
     
     (You may have to scroll down.)
     
@@ -214,11 +214,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Entering values on the Add/Modify DNS Zone page](../media/33976398-da8a-439b-8e3d-534503b20ee0.png)
   
-4. Choose **Save**.
+4. Select **Save**.
     
     (You may have to scroll down.)
     
-    ![Click Save](../media/1d8da122-4861-4ca3-bc9b-d01f18557d4c.png)
+    ![Select Save](../media/1d8da122-4861-4ca3-bc9b-d01f18557d4c.png)
   
 ## Add the two SRV records that are required for Office 365
 <a name="BKMK_add_SRV"> </a>
@@ -231,7 +231,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-    ![Clicking DNS Settings in the list](../media/57944802-3f6b-49bb-971a-b1d20936cba3.png)
+    ![Selecting DNS Settings in the list](../media/57944802-3f6b-49bb-971a-b1d20936cba3.png)
   
 3. On the **Add/Modify DNS Zone** page, in the **Service records** section, in the boxes for the new records, type or copy and paste the values from the following table. 
     
@@ -244,11 +244,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Entering values in the Service records section](../media/56bb1813-90e2-40c8-98bf-750e2dc3f8b6.png)
   
-4. Choose **Save**.
+4. Select **Save**.
     
     (You may have to scroll down.)
     
-    ![Click Save](../media/3b80757c-01e1-492d-b2ce-f721d71f7235.png)
+    ![Select Save](../media/3b80757c-01e1-492d-b2ce-f721d71f7235.png)
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 

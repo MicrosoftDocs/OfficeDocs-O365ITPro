@@ -74,17 +74,17 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     ![Cloudflare-BP-Configure-1-1](../media/e1ab6ca7-c36d-42ce-9e0a-5e1b0c0b234c.png)
   
-2. On the **Overview** page, in the **Select Website** area, choose the domain that you want to update. 
+2. On the **Overview** page, in the **Select Website** area, select the domain that you want to update. 
     
     ![Cloudflare-BP-Configure-1-2](../media/7ecd4e8d-cbeb-4af2-81e9-51801ae169b5.png)
   
-3. On the **Overview** page for your domain, choose **DNS**.
+3. On the **Overview** page for your domain, select **DNS**.
     
     ![Cloudflare-BP-Configure-1-3](../media/19fdc829-44af-4280-af56-bda36a4b2c26.png)
   
-4. In the **DNS Records** area, in the boxes for the new record, choose the values from the following table. 
+4. In the **DNS Records** area, in the boxes for the new record, select the values from the following table. 
     
-    (Select the **Type** and **TTL** values from the drop-down lists.) 
+    (Choose the **Type** and **TTL** values from the drop-down lists.) 
     
     |**Type**|**Name**|**Automatic TTL**|
     |:-----|:-----|:-----|
@@ -92,7 +92,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
    
     ![Cloudflare-BP-Verify-1-1](../media/d88562c8-a146-4d3c-954c-6f5d8871afc2.png)
   
-5. Choose **Click to configure**.
+5. Select **Click to configure**.
     
     ![Cloudflare-BP-Verify-1-2](../media/bbe39fcc-1a31-438c-b28e-486eee1222b5.png)
   
@@ -104,11 +104,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
    
     ![Cloudflare-BP-Verify-1-3](../media/8594832d-1e81-492d-9fb3-26ffe019a8e9.png)
   
-7. Choose **Save**.
+7. Select **Save**.
     
     ![Cloudflare-BP-Verify-1-4](../media/a2f53281-bc36-42a9-8153-aa7cd3829578.png)
   
-8. Choose **Add Record**.
+8. Select **Add Record**.
     
     ![Cloudflare-BP-Verify-1-5](../media/31ad8d5a-bc61-4ef7-a6ef-c910d18cd412.png)
   
@@ -121,15 +121,15 @@ When Office 365 finds the correct TXT record, your domain is verified.
 1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
     
   
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
     
   
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
     
   
@@ -143,17 +143,17 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Cloudflare-BP-Configure-1-1](../media/e1ab6ca7-c36d-42ce-9e0a-5e1b0c0b234c.png)
   
-2. On the **Overview** page, in the **Select Website** area, choose the domain that you want to update. 
+2. On the **Overview** page, in the **Select Website** area, select the domain that you want to update. 
     
     ![Cloudflare-BP-Configure-1-2](../media/7ecd4e8d-cbeb-4af2-81e9-51801ae169b5.png)
   
-3. On the **Overview** page for your domain, choose **DNS**.
+3. On the **Overview** page for your domain, select **DNS**.
     
     ![Cloudflare-BP-Configure-1-3](../media/19fdc829-44af-4280-af56-bda36a4b2c26.png)
   
-4. In the **DNS Records** area, in the boxes for the new record, choose the values from the following table. 
+4. In the **DNS Records** area, in the boxes for the new record, select the values from the following table. 
     
-    (Select the **Type** and **TTL** values from the drop-down lists.) 
+    (Choose the **Type** and **TTL** values from the drop-down lists.) 
     
     |**Type**|**Name**|**Automatic TTL**|
     |:-----|:-----|:-----|
@@ -161,7 +161,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Cloudflare-BP-Configure-2-1](../media/20d0a593-d50d-4d5e-b7e0-8ec31a27edc6.png)
   
-5. Choose **Click to configure**.
+5. Select **Click to configure**.
     
     ![Cloudflare-BP-Configure-2-2](../media/e7eafd95-ea8e-4cea-804a-49559ee436a3.png)
   
@@ -173,11 +173,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Cloudflare-BP-Configure-2-3](../media/7b111d3a-2058-4694-a0a7-325c7a407838.png)
   
-7. Choose **Save**. 
+7. Select **Save**. 
     
     ![Cloudflare-BP-Configure-2-4](../media/8687fa2d-94e8-4d8c-905c-85492bbe2a35.png)
   
-8. Choose **Add Record**.
+8. Select **Add Record**.
     
     ![Cloudflare-BP-Configure-2-5](../media/604faee8-bfe6-4f9e-aff5-ce432259ec6f.png)
   
@@ -185,7 +185,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Cloudflare-BP-Configure-2-6](../media/4744d759-e92c-4e19-844d-a11dd5f37a31.png)
   
-10. In the **Confirm** dialog box, choose **OK** to confirm your changes. 
+10. In the **Confirm** dialog box, select **OK** to confirm your changes. 
     
     ![Cloudflare-BP-Configure-2-7](../media/73c3c04b-7fe1-4dd9-95c0-7a57c624f093.png)
   
@@ -196,11 +196,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Cloudflare-BP-Configure-1-1](../media/e1ab6ca7-c36d-42ce-9e0a-5e1b0c0b234c.png)
   
-2. On the **Overview** page, in the **Select Website** area, choose the domain that you want to update. 
+2. On the **Overview** page, in the **Select Website** area, select the domain that you want to update. 
     
     ![Cloudflare-BP-Configure-1-2](../media/7ecd4e8d-cbeb-4af2-81e9-51801ae169b5.png)
   
-3. On the **Overview** page for your domain, choose **DNS**.
+3. On the **Overview** page for your domain, select **DNS**.
     
     ![Cloudflare-BP-Configure-1-3](../media/19fdc829-44af-4280-af56-bda36a4b2c26.png)
   
@@ -208,7 +208,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the **DNS Records** area, in the boxes for the new record, type or copy and paste the values from the first row in the following table. 
     
-    (Select the **Type** and **TTL** values from the drop-down lists.) 
+    (Choose the **Type** and **TTL** values from the drop-down lists.) 
     
     |**Type**|**Name**|**Domain name**|**Automatic TTL**|
     |:-----|:-----|:-----|:-----|
@@ -220,17 +220,17 @@ When Office 365 finds the correct TXT record, your domain is verified.
        
     ![Cloudflare-BP-Configure-3-1](../media/02d0ee6e-5eb6-4a41-80b0-d9f75bd6c7a9.png)
   
-5. Choose the **DNS Traffic** icon to bypass the Cloudflare servers. 
+5. Select the **DNS Traffic** icon to bypass the Cloudflare servers. 
     
     ![Cloudflare-BP-Configure-3-1-2](../media/903aca96-a3b4-4c70-b205-8694b5dbd0ab.png)
   
-6. Choose **Add Record**.
+6. Select **Add Record**.
     
     ![Cloudflare-BP-Configure-3-2](../media/5fcdbb38-b101-434d-8e22-2c3a2c979c3e.png)
   
 7. Add each of the other five CNAME records.
     
-    In the **DNS Records** section, in the empty row, create a record by using the values from the next row in the table, and then again choose **Add Record** to complete that record. 
+    In the **DNS Records** section, in the empty row, create a record by using the values from the next row in the table, and then again select **Add Record** to complete that record. 
     
     Repeat this process until you have created all six CNAME records.
     
@@ -244,17 +244,17 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Cloudflare-BP-Configure-1-1](../media/e1ab6ca7-c36d-42ce-9e0a-5e1b0c0b234c.png)
   
-2. On the **Overview** page, in the **Select Website** area, choose the domain that you want to update. 
+2. On the **Overview** page, in the **Select Website** area, select the domain that you want to update. 
     
     ![Cloudflare-BP-Configure-1-2](../media/7ecd4e8d-cbeb-4af2-81e9-51801ae169b5.png)
   
-3. On the **Overview** page for your domain, choose **DNS**.
+3. On the **Overview** page for your domain, select **DNS**.
     
     ![Cloudflare-BP-Configure-1-3](../media/19fdc829-44af-4280-af56-bda36a4b2c26.png)
   
-4. In the **DNS Records** area, in the boxes for the new record, choose the values from the following table. 
+4. In the **DNS Records** area, in the boxes for the new record, select the values from the following table. 
     
-    (Select the **Type** and **TTL** values from the drop-down lists.) 
+    (Choose the **Type** and **TTL** values from the drop-down lists.) 
     
     |**Type**|**Name**|**Automatic TTL**|
     |:-----|:-----|:-----|
@@ -262,7 +262,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Cloudflare-BP-Configure-4-1](../media/e7b07179-48f7-4ff0-b4a0-300c560bdd98.png)
   
-5. Choose **Click to configure**.
+5. Select **Click to configure**.
     
     ![Cloudflare-BP-Configure-4-2](../media/e213f7d2-c922-45de-8dc8-b4146d5c28a1.png)
   
@@ -274,11 +274,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
    ![Cloudflare-BP-Configure-4-3](../media/27d199f6-95a6-4bf7-b42c-79f10158b413.png)
   
-7. Choose **Save Changes**.
+7. Select **Save Changes**.
     
     ![Cloudflare-BP-Configure-4-4](../media/fc7c62d2-b37d-4660-ad79-d27be67d9ed9.png)
   
-8. Choose **Add Record**.
+8. Select **Add Record**.
     
     ![Cloudflare-BP-Configure-4-5](../media/9d4564b5-176f-455b-9c78-837c56214aa1.png)
   
@@ -289,17 +289,17 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Cloudflare-BP-Configure-1-1](../media/e1ab6ca7-c36d-42ce-9e0a-5e1b0c0b234c.png)
   
-2. On the **Overview** page, in the **Select Website** area, choose the domain that you want to update. 
+2. On the **Overview** page, in the **Select Website** area, select the domain that you want to update. 
     
     ![Cloudflare-BP-Configure-1-2](../media/7ecd4e8d-cbeb-4af2-81e9-51801ae169b5.png)
   
-3. On the **Overview** page for your domain, choose **DNS**.
+3. On the **Overview** page for your domain, select **DNS**.
     
     ![Cloudflare-BP-Configure-1-3](../media/19fdc829-44af-4280-af56-bda36a4b2c26.png)
   
 4. Add the first of the two SRV records.
     
-    In the DNS Records area, in the boxes for the new records, choose the values from the first row in the following table.
+    In the DNS Records area, in the boxes for the new records, select the values from the first row in the following table.
         
     |**Type**|**TTL**|
     |:-----|:-----|
@@ -307,7 +307,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Cloudflare-BP-Configure-5-1](../media/c4b62e94-9abe-49f1-b047-1dbb31873515.png)
   
-5. Choose the first **Click to configure** box. 
+5. Select the first **Click to configure** box. 
     
     ![Cloudflare-BP-Configure-5-2](../media/5c6971d4-7492-4190-b435-68b24081cc15.png)
   
@@ -320,7 +320,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Cloudflare-BP-Configure-5-3](../media/0373fb6a-c73f-444f-b52d-f8f645708630.png)
   
-7. Choose **Save**.
+7. Select **Save**.
     
     ![Cloudflare-BP-Configure-5-4](../media/99f3d243-509e-464f-bb53-d0d56be09699.png)
   
@@ -333,11 +333,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Cloudflare-BP-Configure-5-5](../media/40e7b3bf-6eca-4b3f-b719-27b9c6baecc6.png)
   
-9. Choose **Save**.
+9. Select **Save**.
     
     ![Cloudflare-BP-Configure-5-6](../media/18001ce6-75f5-4da0-991a-8c8c0c6ec389.png)
   
-10. Choose **Add Record**.
+10. Select **Add Record**.
     
     ![Cloudflare-BP-Configure-5-7](../media/3c11f19f-0c52-4cb9-882d-97e4039ebc10.png)
   

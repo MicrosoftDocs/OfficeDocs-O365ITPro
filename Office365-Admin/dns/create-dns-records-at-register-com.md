@@ -61,13 +61,13 @@ Follow the steps below or [watch the video (start at 0:44)](https://support.offi
   
 1. To get started, go to your domains page at Register.com by using [this link](https://www.register.com/myaccount/). You'll be prompted to sign in.
     
-2. Choose **Domains**.
+2. Select **Domains**.
     
-3. Choose **Manage**.
+3. Select **Manage**.
     
-4. Find the row that contains the name of the domain that you want to modify; and then, in that row, choose **Manage**.
+4. Find the row that contains the name of the domain that you want to modify; and then, in that row, select **Manage**.
     
-5. Scroll down to the **Advanced Technical Settings** section, and then choose **Edit TXT Records (SPF)**.
+5. Scroll down to the **Advanced Technical Settings** section, and then select **Edit TXT Records (SPF)**.
     
 6. In the boxes for the new record, type or copy and paste the values from the following table.
     
@@ -76,9 +76,9 @@ Follow the steps below or [watch the video (start at 0:44)](https://support.offi
     |**Host Name** <br/> |**TXT Record** <br/> |
     |@  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-7. Choose **Continue**.
+7. Select **Continue**.
     
-8. On the next page, choose **Continue** again to confirm your changes. 
+8. On the next page, select **Continue** again to confirm your changes. 
     
 9. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
@@ -88,11 +88,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
@@ -104,19 +104,19 @@ Follow the steps below or [watch the video (start at 3:32)](https://support.offi
   
 1. To get started, go to your domains page at Register.com by using [this link](https://www.register.com/myaccount/). You'll be prompted to sign in.
     
-2. Choose **Domains**.
+2. Select **Domains**.
     
-3. Choose **Manage**.
+3. Select **Manage**.
     
-4. Find the row that contains the name of the domain that you want to modify; and then, in that row, choose **Manage**.
+4. Find the row that contains the name of the domain that you want to modify; and then, in that row, select **Manage**.
     
-5. Scroll to the **Advanced Technical Settings** section, and then choose **Edit Mail Exchanger Records**.
+5. Scroll to the **Advanced Technical Settings** section, and then select **Edit Mail Exchanger Records**.
     
-    ![Click Edit Mail Exchanger Records](../media/366b96a1-9147-4bbb-9f8f-50856466cc61.png)
+    ![Select Edit Mail Exchanger Records](../media/366b96a1-9147-4bbb-9f8f-50856466cc61.png)
   
 6. In the boxes for the new record, type or copy and paste the values from the following table.
     
-    (Select the **Priority** value from the drop-down list.) 
+    (Choose the **Priority** value from the drop-down list.) 
     
     |****Host Name****|****Priority****|****Mail Server****|
     |:-----|:-----|:-----|
@@ -128,13 +128,13 @@ Follow the steps below or [watch the video (start at 3:32)](https://support.offi
     
     ![Select each record to delete](../media/0708d03e-346f-4ae7-8cc4-01589efc00ce.png)
   
-8. Choose **Continue**.
+8. Select **Continue**.
     
-    ![Click Continue](../media/6ef6ce01-ce21-4e3c-8209-4aa9a3dd4b76.png)
+    ![Select Continue](../media/6ef6ce01-ce21-4e3c-8209-4aa9a3dd4b76.png)
   
-9. On the next page, choose **Continue** again to confirm and save your changes. 
+9. On the next page, select **Continue** again to confirm and save your changes. 
     
-    ![Click Continue](../media/adba4a60-bf61-44fc-9ad9-360e66f8a2ee.png)
+    ![Select Continue](../media/adba4a60-bf61-44fc-9ad9-360e66f8a2ee.png)
   
 ## Add the CNAME records that are required for Office 365
 <a name="BKMK_add_CNAME"> </a>
@@ -143,19 +143,19 @@ Follow the steps below or [watch the video (start at 4:23)](https://support.offi
   
 1. To get started, go to your domains page at Register.com by using [this link](https://www.register.com/myaccount/). You'll be prompted to sign in.
     
-2. Choose **Domains**.
+2. Select **Domains**.
     
-3. Choose **Manage**.
+3. Select **Manage**.
     
-4. Find the row that contains the name of the domain that you want to modify; and then, in that row, choose **Manage**.
+4. Find the row that contains the name of the domain that you want to modify; and then, in that row, select **Manage**.
     
-5. Scroll to the **Advanced Technical Settings** section, and then choose **Edit Domain Aliases Records**.
+5. Scroll to the **Advanced Technical Settings** section, and then select **Edit Domain Aliases Records**.
     
-    ![Click Edit Domain Aliases Records](../media/9fbc31ed-d67c-4828-8bd4-b51068f1e0ca.png)
+    ![Select Edit Domain Aliases Records](../media/9fbc31ed-d67c-4828-8bd4-b51068f1e0ca.png)
   
-6. Choose **Add more domain aliases**.
+6. Select **Add more domain aliases**.
     
-    ![Click Add more domains aliases](../media/b787505f-5566-4879-8552-13f9e89cbf6b.png)
+    ![Select Add more domains aliases](../media/b787505f-5566-4879-8552-13f9e89cbf6b.png)
   
 7. Add the required CNAME records.
     
@@ -171,13 +171,13 @@ Follow the steps below or [watch the video (start at 4:23)](https://support.offi
    
      ![Copy and paste the DNS values from the table](../media/0e2b36b2-8a0b-4019-addf-301763f9a626.png)
   
-8. When you have added all of the CNAME records that you need, choose **Continue**.
+8. When you have added all of the CNAME records that you need, select **Continue**.
     
-    ![Click Continue](../media/1942612b-338a-48fa-a45d-2d5434516723.png)
+    ![Select Continue](../media/1942612b-338a-48fa-a45d-2d5434516723.png)
   
-9. On the next page, choose **Continue** again to confirm and save your changes. 
+9. On the next page, select **Continue** again to confirm and save your changes. 
     
-    ![Click Continue](../media/3342b570-0633-49c5-9175-5cc8e4a67b53.png)
+    ![Select Continue](../media/3342b570-0633-49c5-9175-5cc8e4a67b53.png)
   
 ## Add a TXT record for SPF to help prevent email spam
 <a name="BKMK_add_TXT"> </a>
@@ -189,15 +189,15 @@ Follow the steps below or [watch the video (start at 5:12)](https://support.offi
   
 1. To get started, go to your domains page at Register.com by using [this link](https://www.register.com/myaccount/). You'll be prompted to sign in.
     
-2. Choose **Domains**.
+2. Select **Domains**.
     
-3. Choose **Manage**.
+3. Select **Manage**.
     
-4. Find the row that contains the name of the domain that you want to modify; and then, in that row, choose **Manage**.
+4. Find the row that contains the name of the domain that you want to modify; and then, in that row, select **Manage**.
     
-5. Scroll to the **Advanced Technical Settings** section, and then choose **Edit TXT Records (SPF)**.
+5. Scroll to the **Advanced Technical Settings** section, and then select **Edit TXT Records (SPF)**.
     
-    ![Click Edit TXT Records (SPF)](../media/c917577a-8b3a-4210-ab6e-776e84f926d0.png)
+    ![Select Edit TXT Records (SPF)](../media/c917577a-8b3a-4210-ab6e-776e84f926d0.png)
   
 6. In the boxes for the new record, type or copy and paste the values from the following table.
     
@@ -207,13 +207,13 @@ Follow the steps below or [watch the video (start at 5:12)](https://support.offi
    
      ![Copy and paste the values from the table](../media/b1dc5036-c13c-4306-b1e3-5a38a74643b7.png)
   
-7. Choose **Continue**.
+7. Select **Continue**.
     
-    ![Click Continue](../media/08250c98-1a86-48a8-ad94-f96cf338126b.png)
+    ![Select Continue](../media/08250c98-1a86-48a8-ad94-f96cf338126b.png)
   
-8. On the next page, choose **Continue** again to confirm and save your changes. 
+8. On the next page, select **Continue** again to confirm and save your changes. 
     
-    ![Click Continue](../media/56be3b0a-dc71-471c-9be3-6ab927296f67.png)
+    ![Select Continue](../media/56be3b0a-dc71-471c-9be3-6ab927296f67.png)
   
 ## Add the two SRV records that are required for Office 365
 <a name="BKMK_add_SRV"> </a>
@@ -222,21 +222,21 @@ Follow the steps below or [watch the video (start at 5:55)](https://support.offi
   
 1. To get started, go to your domains page at Register.com by using [this link](https://www.register.com/myaccount/). You'll be prompted to sign in.
     
-2. Choose **Domains**.
+2. Select **Domains**.
     
-3. Choose **Manage**.
+3. Select **Manage**.
     
-4. Find the row that contains the name of the domain that you want to modify; and then, in that row, choose **Manage**.
+4. Find the row that contains the name of the domain that you want to modify; and then, in that row, select **Manage**.
     
-5. Scroll to the **Advanced Technical Settings** section, and then choose **Edit SRV Records**.
+5. Scroll to the **Advanced Technical Settings** section, and then select **Edit SRV Records**.
     
-    ![Click Edit SRV Records](../media/73c149ae-f0d6-460e-880a-7e04a995acc3.png)
+    ![Select Edit SRV Records](../media/73c149ae-f0d6-460e-880a-7e04a995acc3.png)
   
 6. Add the first of the two SRV records:
     
     In the boxes for the new record, type or copy and paste the values from the first row of the following table.
     
-    (Select the **Priority** value from the drop-down list.) 
+    (Choose the **Priority** value from the drop-down list.) 
     
     |****Service****|****Proto****|****Name****|****Priority****|****Weight****|****Port****|****Target****|
     |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -245,21 +245,21 @@ Follow the steps below or [watch the video (start at 5:55)](https://support.offi
    
     ![Copy and paste the values from the table](../media/71304c81-5845-4a8f-b969-d9efc8721184.png)
   
-7. Choose **Add more SRV records**.
+7. Select **Add more SRV records**.
     
-    ![Click Add more SRV records](../media/823c6bd2-4af7-4079-bf8c-8d35a5c6730f.png)
+    ![Select Add more SRV records](../media/823c6bd2-4af7-4079-bf8c-8d35a5c6730f.png)
   
 8. Add the second SRV record:
     
     Type or copy and paste the values from the second row of the table above into the boxes for the second record.
     
-9. When you have added both of the SRV records, choose **Continue**.
+9. When you have added both of the SRV records, select **Continue**.
     
-    ![Click Continue](../media/008b255a-42d3-442d-83ea-3ffcb7c8fc5d.png)
+    ![Select Continue](../media/008b255a-42d3-442d-83ea-3ffcb7c8fc5d.png)
   
-10. On the next page, choose **Continue** again to confirm and save your changes. 
+10. On the next page, select **Continue** again to confirm and save your changes. 
     
-    ![Click Continue](../media/b4166e3d-7e4b-41ef-b616-747e95aefc37.png)
+    ![Select Continue](../media/b4166e3d-7e4b-41ef-b616-747e95aefc37.png)
   
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 

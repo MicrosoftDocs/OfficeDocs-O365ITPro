@@ -51,17 +51,17 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
     
     ![Sign in](../media/f608cfaa-4962-46a1-a469-89010494e4be.png)
   
-2. Under **Manage Your Domains**, choose the name of the domain that you want to edit.
+2. Under **Manage Your Domains**, select the name of the domain that you want to edit.
     
-    ![Choose a domain](../media/ae7c1c46-7ad5-467a-b41c-077c90018989.png)
+    ![Select a domain](../media/ae7c1c46-7ad5-467a-b41c-077c90018989.png)
   
-3. Choose the **DNS** tab. 
+3. Select the **DNS** tab. 
     
-    ![Choose the DNS tab](../media/bd727fb4-0b06-426d-9387-42a160aead42.png)
+    ![Select the DNS tab](../media/bd727fb4-0b06-426d-9387-42a160aead42.png)
   
-4. Choose **Add New**.
+4. Select **Add New**.
     
-    ![Choose Add New](../media/66d6b2c9-741e-40e0-a096-6e7e204d655d.png)
+    ![Select Add New](../media/66d6b2c9-741e-40e0-a096-6e7e204d655d.png)
   
 5. In the boxes for the new record, select **TXT** for the **Record Type**, and then type or copy and paste the values from the following table.
     
@@ -72,9 +72,9 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
    
     ![Type or copy and paste DNS values](../media/3b0d19f9-4138-47a7-aab2-137ad120ded6.png)
   
-6. Choose **Save**.
+6. Select **Save**.
     
-    ![Click Save](../media/07dcf68e-34be-47dc-999e-0216de68cc9c.png)
+    ![Select Save](../media/07dcf68e-34be-47dc-999e-0216de68cc9c.png)
   
 7. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
@@ -84,15 +84,15 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
     
   
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
     
   
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
     
   
@@ -108,17 +108,17 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
     
     ![Sign in](../media/f608cfaa-4962-46a1-a469-89010494e4be.png)
   
-2. Under **Manage Your Domains**, choose the name of the domain that you want to edit.
+2. Under **Manage Your Domains**, select the name of the domain that you want to edit.
     
-    ![Choose a domain](../media/ae7c1c46-7ad5-467a-b41c-077c90018989.png)
+    ![Select a domain](../media/ae7c1c46-7ad5-467a-b41c-077c90018989.png)
   
-3. Choose the **DNS** tab. 
+3. Select the **DNS** tab. 
     
-    ![Choose the DNS tab](../media/bd727fb4-0b06-426d-9387-42a160aead42.png)
+    ![Select the DNS tab](../media/bd727fb4-0b06-426d-9387-42a160aead42.png)
   
-4. Choose **Add New**.
+4. Select **Add New**.
     
-    ![Choose Add New](../media/66d6b2c9-741e-40e0-a096-6e7e204d655d.png)
+    ![Select Add New](../media/66d6b2c9-741e-40e0-a096-6e7e204d655d.png)
   
 5. In the boxes for the new record, select **MX** for the **Record Type**, and then type or copy and paste the values from the following table.
     
@@ -128,19 +128,19 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
    
     ![Type or copy and paste DNS values](../media/2c8915fa-04a8-4d2a-a8ae-a79de0c8ef99.png)
   
-6. Choose **Save**.
+6. Select **Save**.
     
-    ![Choose Save](../media/266c30a4-6703-48fb-a919-b510ed966193.png)
+    ![Select Save](../media/266c30a4-6703-48fb-a919-b510ed966193.png)
   
 7. If there are any other MX records, use the following two-step process to remove each of them:
     
-    First, mousing over a record that you want to remove, choose **Delete**.
+    First, mousing over a record that you want to remove, select **Delete**.
     
-    ![Mouse over and choose Delete](../media/2ddf4902-8cd2-4969-a418-2cb592741e86.png)
+    ![Mouse over and select Delete](../media/2ddf4902-8cd2-4969-a418-2cb592741e86.png)
   
-    Second, choose **Yes** to confirm each deletion. 
+    Second, select **Yes** to confirm each deletion. 
     
-    ![Click Yes to confirm deletion](../media/48756bd5-0205-4c4d-9803-9246795dbf4a.png)
+    ![Select Yes to confirm deletion](../media/48756bd5-0205-4c4d-9803-9246795dbf4a.png)
   
     Repeat this process until you have deleted all MX records except for the one that you added earlier in this procedure.
     
@@ -153,19 +153,19 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
     
     ![Sign in](../media/f608cfaa-4962-46a1-a469-89010494e4be.png)
   
-2. Under **Manage Your Domains**, choose the name of the domain that you want to edit.
+2. Under **Manage Your Domains**, select the name of the domain that you want to edit.
     
-    ![Choose a domain](../media/ae7c1c46-7ad5-467a-b41c-077c90018989.png)
+    ![Select a domain](../media/ae7c1c46-7ad5-467a-b41c-077c90018989.png)
   
-3. Choose the **DNS** tab. 
+3. Select the **DNS** tab. 
     
-    ![Choose the DNS tab](../media/bd727fb4-0b06-426d-9387-42a160aead42.png)
+    ![Select the DNS tab](../media/bd727fb4-0b06-426d-9387-42a160aead42.png)
   
 4. Add the first of the six CNAME records.
     
-    Choose **Add New**.
+    Select **Add New**.
     
-    ![Choose Add New](../media/66d6b2c9-741e-40e0-a096-6e7e204d655d.png)
+    ![Select Add New](../media/66d6b2c9-741e-40e0-a096-6e7e204d655d.png)
   
 5. In the empty boxes for the new record, select **CNAME** for the **Record Type**, and then type or copy and paste the values from the first row in the following table.
     
@@ -179,9 +179,9 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
    
     ![Type or copy and paste DNS values](../media/6ae607f8-d26e-47f0-a0f2-3487d37e8c7f.png)
   
-6. Choose **Save**.
+6. Select **Save**.
     
-    ![Choose Save](../media/69aa3546-32de-4c17-a2e2-8c0cd133efaa.png)
+    ![Select Save](../media/69aa3546-32de-4c17-a2e2-8c0cd133efaa.png)
   
 7. Using the preceding three steps and the values from the other five rows in the table, add each of the other five CNAME records.
     
@@ -197,17 +197,17 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
     
     ![Sign in](../media/f608cfaa-4962-46a1-a469-89010494e4be.png)
   
-2. Under **Manage Your Domains**, choose the name of the domain that you want to edit.
+2. Under **Manage Your Domains**, select the name of the domain that you want to edit.
     
-    ![Choose a domain](../media/ae7c1c46-7ad5-467a-b41c-077c90018989.png)
+    ![Select a domain](../media/ae7c1c46-7ad5-467a-b41c-077c90018989.png)
   
-3. Choose the **DNS** tab. 
+3. Select the **DNS** tab. 
     
-    ![Choose the DNS tab](../media/bd727fb4-0b06-426d-9387-42a160aead42.png)
+    ![Select the DNS tab](../media/bd727fb4-0b06-426d-9387-42a160aead42.png)
   
-4. Choose **Add New**.
+4. Select **Add New**.
     
-    ![Choose Add New](../media/66d6b2c9-741e-40e0-a096-6e7e204d655d.png)
+    ![Select Add New](../media/66d6b2c9-741e-40e0-a096-6e7e204d655d.png)
   
 5. In the boxes for the new record, select **TXT** for the **Record Type**, and then type or copy and paste the values from the following table.
     
@@ -217,9 +217,9 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
    
     ![Type or copy and paste DNS values](../media/ed36b9e0-aaa9-45fb-804d-7d4e82ba0c7f.png)
   
-6. Choose **Save**.
+6. Select **Save**.
     
-    ![Choose Save](../media/13a395b9-e0e8-4393-b568-5f99b2da39da.png)
+    ![Select Save](../media/13a395b9-e0e8-4393-b568-5f99b2da39da.png)
   
 ## Add the two SRV records that are required for Office 365
 <a name="BKMK_add_SRV"> </a>
@@ -230,19 +230,19 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
     
     ![Sign in](../media/f608cfaa-4962-46a1-a469-89010494e4be.png)
   
-2. Under **Manage Your Domains**, choose the name of the domain that you want to edit.
+2. Under **Manage Your Domains**, select the name of the domain that you want to edit.
     
-    ![Choose a domain](../media/ae7c1c46-7ad5-467a-b41c-077c90018989.png)
+    ![Select a domain](../media/ae7c1c46-7ad5-467a-b41c-077c90018989.png)
   
-3. Choose the **DNS** tab. 
+3. Select the **DNS** tab. 
     
-    ![Choose the DNS tab](../media/bd727fb4-0b06-426d-9387-42a160aead42.png)
+    ![Select the DNS tab](../media/bd727fb4-0b06-426d-9387-42a160aead42.png)
   
 4. Add the first of the two SRV records.
     
-    Choose **Add New**.
+    Select **Add New**.
     
-    ![Choose Add New](../media/66d6b2c9-741e-40e0-a096-6e7e204d655d.png)
+    ![Select Add New](../media/66d6b2c9-741e-40e0-a096-6e7e204d655d.png)
   
 5. In the empty boxes for the new record, select **SRV** for the **Record Type**, and then type or copy and paste the values from the first row in the following table.
     
@@ -253,9 +253,9 @@ Follow the steps below or [watch the video](https://support.office.com/en-us/art
    
     ![Type or copy and paste DNS values](../media/67562cd6-c598-4c37-af53-626f153c0197.png)
   
-6. Choose **Save**.
+6. Select **Save**.
     
-    ![Choose Save](../media/0d7ec216-9277-4709-b637-e94c8662730f.png)
+    ![Select Save](../media/0d7ec216-9277-4709-b637-e94c8662730f.png)
   
 7. Using the preceding three steps and the values from the second row in the table, add the other SRV record.
     

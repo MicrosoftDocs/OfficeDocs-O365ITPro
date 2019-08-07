@@ -45,11 +45,11 @@ To learn about webhosting and DNS for websites with Office 365, see [Use a publi
     
     ![Dyn-BP-Configure-1-1](../media/77597d44-9b04-43b1-8e23-d4fad238def2.png)
   
-2. On the **Zone Level Services** page, choose **Dyn Standard DNS Service** for the domain that you want to edit. 
+2. On the **Zone Level Services** page, select **Dyn Standard DNS Service** for the domain that you want to edit. 
     
-3. On the **DNS** page for your domain, choose **Preferences**.
+3. On the **DNS** page for your domain, select **Preferences**.
     
-4. Choose **Enable Expert Interface**.
+4. Select **Enable Expert Interface**.
     
 5. In the **Add DNS Record** section, in the boxes for the new record, type or copy and paste the values from the following table. 
     
@@ -61,7 +61,7 @@ To learn about webhosting and DNS for websites with Office 365, see [Use a publi
        
    ![Dyn-BP-Verify-1-1](../media/b3730b15-a313-4b4c-b91e-646eebb649e8.png)
   
-6. Choose **Create Record**.
+6. Select **Create Record**.
     
     ![Dyn-BP-Verify-1-2](../media/8b63b4ee-dbd7-44a7-b1e6-c6892b02f13e.png)
   
@@ -74,15 +74,15 @@ When Office 365 finds the correct TXT record, your domain is verified.
 1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
     
   
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
     
   
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
     
   
@@ -96,11 +96,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Dyn-BP-Configure-1-1](../media/77597d44-9b04-43b1-8e23-d4fad238def2.png)
   
-2. On the **Zone Level Services** page, choose **Dyn Standard DNS Service** for the domain that you want to edit. 
+2. On the **Zone Level Services** page, select **Dyn Standard DNS Service** for the domain that you want to edit. 
     
-3. On the DNS page for your domain, choose **Preferences**.
+3. On the DNS page for your domain, select **Preferences**.
     
-4. Choose **Enable Expert Interface**.
+4. Select **Enable Expert Interface**.
     
 5. In the **Add DNS Record** section, in the boxes for the new record, type or copy and paste the values from the following table. 
     
@@ -112,7 +112,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Dyn-BP-Configure-2-1](../media/62ac77b7-c84d-426d-9ec4-a28d6479ad04.png)
   
-6. Choose **Create Record**.
+6. Select **Create Record**.
     
     ![Dyn-BP-Configure-2-2](../media/e84e2cca-75e3-4584-8a98-f2f89cb71bd3.png)
   
@@ -120,7 +120,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Dyn-BP-Configure-2-3](../media/f24f02cc-c0b7-42cf-a2ff-4d0fc203e4de.png)
   
-8. Choose **Apply Changes**.
+8. Select **Apply Changes**.
     
     ![Dyn-BP-Configure-2-4](../media/0cc23c2b-b6f2-4f58-af20-4c6506de7b43.png)
   
@@ -131,11 +131,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Dyn-BP-Configure-1-1](../media/77597d44-9b04-43b1-8e23-d4fad238def2.png)
   
-2. On the **Zone Level Services** page, choose **Dyn Standard DNS Service** for the domain that you want to edit. 
+2. On the **Zone Level Services** page, select **Dyn Standard DNS Service** for the domain that you want to edit. 
     
-3. On the **DNS** page for your domain, choose **Preferences**.
+3. On the **DNS** page for your domain, select **Preferences**.
     
-4. Choose **Enable Expert Interface**.
+4. Select **Enable Expert Interface**.
     
 5. Add the first of the six CNAME records.
     
@@ -153,13 +153,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Dyn-BP-Configure-3-1](../media/1fd80695-d3d7-4298-9ebe-97a69f46f1b2.png)
   
-6. Choose **Create Record**.
+6. Select **Create Record**.
     
     ![Dyn-BP-Configure-3-2](../media/89551495-3fa5-44ab-96b2-855f70be0880.png)
   
 7. Add the remaining five CNAME records.
     
-    In the **Add DNS Record** section, create a record by using the values from the next row in the table, and then again choose **Create Record** to complete that record. 
+    In the **Add DNS Record** section, create a record by using the values from the next row in the table, and then again select **Create Record** to complete that record. 
     
     Repeat this process until you have created all six CNAME records.
     
@@ -173,11 +173,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Dyn-BP-Configure-1-1](../media/77597d44-9b04-43b1-8e23-d4fad238def2.png)
   
-2. On the **Zone Level Services** page, choose **Dyn Standard DNS Service** for the domain that you want to edit. 
+2. On the **Zone Level Services** page, select **Dyn Standard DNS Service** for the domain that you want to edit. 
     
-3. On the **DNS** page for your domain, choose **Preferences**.
+3. On the **DNS** page for your domain, select **Preferences**.
     
-4. Choose **Enable Expert Interface**.
+4. Select **Enable Expert Interface**.
     
 5. In the **Add DNS Record** section, in the boxes for the new record, type or copy and paste the values from the following table. 
     
@@ -189,7 +189,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Dyn-BP-Configure-4-1](../media/f8511349-3ea2-40c3-9853-98e1a58a91b5.png)
   
-6. Choose **Create Record**.
+6. Select **Create Record**.
     
     ![Dyn-BP-Configure-4-2](../media/bbe04835-d3c0-4146-8123-9781bb9eca51.png)
   
@@ -200,11 +200,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Dyn-BP-Configure-1-1](../media/77597d44-9b04-43b1-8e23-d4fad238def2.png)
   
-2. On the **Zone Level Services** page, choose **Dyn Standard DNS Service** for the domain that you want to edit. 
+2. On the **Zone Level Services** page, select **Dyn Standard DNS Service** for the domain that you want to edit. 
     
-3. On the **DNS** page for your domain, choose **Preferences**.
+3. On the **DNS** page for your domain, select **Preferences**.
     
-4. Choose **Enable Expert Interface**.
+4. Select **Enable Expert Interface**.
     
 5. Add the first of the two SRV records.
     
@@ -219,13 +219,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Dyn-BP-Configure-5-1](../media/a6873411-f4ce-4327-9145-02d435930976.png)
   
-6. Choose **Create Record**.
+6. Select **Create Record**.
     
     ![Dyn-BP-Configure-5-2](../media/e6f33452-e527-473b-a645-b31ed70b0d43.png)
   
 7. Add the other SRV record.
     
-    In the **Add DNS Record** section, create a record by using the values from the second row in the table, and then again choose **Create Record** to complete that record. 
+    In the **Add DNS Record** section, create a record by using the values from the second row in the table, and then again select **Create Record** to complete that record. 
     
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 

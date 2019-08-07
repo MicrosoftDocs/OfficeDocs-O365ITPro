@@ -49,17 +49,17 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     ![Name-BP-Configure-1-1](../media/1869b416-1d3f-4fb1-99c6-62b74ca7a4c7.png)
   
-2. Under **My Domains**, choose the name of the domain that you want to modify.
+2. Under **My Domains**, select the name of the domain that you want to modify.
     
     ![Name-BP-Configure-1-2](../media/c8b96e1e-aa35-4fb1-8209-450f587fec4d.png)
   
-3. In the **Details** column, choose ** DNS Records **. 
+3. In the **Details** column, select ** DNS Records **. 
     
     ![Name-BP-Configure-1-3](../media/c5da31e2-2f77-4d0c-b31d-189e6fb7b205.png)
   
 4. In the boxes for the new record, type or copy and paste the values from the following table.
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
     |||||
     |:-----|:-----|:-----|:-----|
@@ -68,7 +68,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
    
     ![Name-BP-Verify-1-1](../media/0c352fd3-cf84-439f-a481-0705e225cc54.png)
   
-5. Choose **Add Record**.
+5. Select **Add Record**.
     
     ![Name-BP-Verify-1-2](../media/816fc60b-17ab-4982-8849-6c3fcf3ca3d6.png)
   
@@ -80,15 +80,15 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
     
   
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
     
   
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
     
   
@@ -102,17 +102,17 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Name-BP-Configure-1-1](../media/1869b416-1d3f-4fb1-99c6-62b74ca7a4c7.png)
   
-2. Under **My Domains**, choose the name of the domain that you want to modify.
+2. Under **My Domains**, select the name of the domain that you want to modify.
     
     ![Name-BP-Configure-1-2](../media/c8b96e1e-aa35-4fb1-8209-450f587fec4d.png)
   
-3. In the **Details** column, choose ** DNS Records **. 
+3. In the **Details** column, select **DNS Records**. 
     
     ![Name-BP-Configure-1-3](../media/c5da31e2-2f77-4d0c-b31d-189e6fb7b205.png)
   
 4. In the boxes for the new record, type or copy and paste the values from the following table.
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
     |**Type**|**Host**|**Answer**|**TTL**|**Prio**|
     |:-----|:-----|:-----|:-----|:-----|
@@ -120,17 +120,17 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
    ![Name-BP-Configure-2-1](../media/11ba2160-fc8e-4196-bb15-2b7c6d49c8fc.png)
   
-5. Choose **Add Record**.
+5. Select **Add Record**.
     
     ![Name-BP-Configure-2-2](../media/fd09f161-7cc4-4723-aec2-5fa801bd19e9.png)
   
 6. If there are any other MX records, delete each of them by using the following two-step procedure:
     
-    For each other MX record, choose **Delete** in the **Actions** column. 
+    For each other MX record, select **Delete** in the **Actions** column. 
     
     ![Name-BP-Configure-2-3](../media/16734a98-31c4-4023-a2a5-10b7c95bc58e.png)
   
-    To confirm each deletion, choose **Delete** in the **Actions** column again. 
+    To confirm each deletion, select **Delete** in the **Actions** column again. 
     
     ![Name-BP-Configure-2-4](../media/409c21c5-51f4-4244-bb84-5d32084224b2.png)
   
@@ -143,11 +143,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Name-BP-Configure-1-1](../media/1869b416-1d3f-4fb1-99c6-62b74ca7a4c7.png)
   
-2. Under **My Domains**, choose the name of the domain that you want to modify.
+2. Under **My Domains**, select the name of the domain that you want to modify.
     
     ![Name-BP-Configure-1-2](../media/c8b96e1e-aa35-4fb1-8209-450f587fec4d.png)
   
-3. In the **Details** column, choose ** DNS Records **. 
+3. In the **Details** column, select **DNS Records**. 
     
     ![Name-BP-Configure-1-3](../media/c5da31e2-2f77-4d0c-b31d-189e6fb7b205.png)
   
@@ -155,7 +155,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the boxes for the new record, type or copy and paste the values from the first row of the following table.
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
     |**Type**|**Host**|**Answer**|**TTL**|
     |:-----|:-----|:-----|:-----|
@@ -167,13 +167,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
    ![Name-BP-Configure-3-1](../media/4e34caaf-b418-40ec-abfa-fe62175a87c2.png)
   
-5. Choose **Add Record** to add the first record. 
+5. Select **Add Record** to add the first record. 
     
     ![Name-BP-Configure-3-2](../media/1053c2a7-07c3-4c1b-b54a-1c02881fb0ec.png)
   
 6. Add the second CNAME record.
     
-    Use the values from the second row of the table above, and then choose **Add Record** to add the second record. 
+    Use the values from the second row of the table above, and then select **Add Record** to add the second record. 
     
     Add the remaining records in the same way, using the values from the third, fourth, fifth, and sixth rows of the table.
     
@@ -187,17 +187,17 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Name-BP-Configure-1-1](../media/1869b416-1d3f-4fb1-99c6-62b74ca7a4c7.png)
   
-2. Under **My Domains**, choose the name of the domain that you want to modify.
+2. Under **My Domains**, select the name of the domain that you want to modify.
 
     ![Name-BP-Configure-1-2](../media/c8b96e1e-aa35-4fb1-8209-450f587fec4d.png)
   
-3. In the **Details** column, choose ** DNS Records **. 
+3. In the **Details** column, select **DNS Records**. 
     
     ![Name-BP-Configure-1-3](../media/c5da31e2-2f77-4d0c-b31d-189e6fb7b205.png)
   
 4. In the boxes for the new record, type or copy and paste the values from the following table.
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
     |**Type**|**Host**|**Answer**|**TTL**|
     |:-----|:-----|:-----|:-----|
@@ -205,7 +205,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
    ![Name-BP-Configure-4-1](../media/cbbfc071-840a-4ffa-a59e-0dfce03063cc.png)
   
-5. Choose **Add Record**.
+5. Select **Add Record**.
     
     ![Name-BP-Configure-4-2](../media/db1e0e09-2b95-4fc1-88bd-e86da536921f.png)
   
@@ -216,11 +216,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Name-BP-Configure-1-1](../media/1869b416-1d3f-4fb1-99c6-62b74ca7a4c7.png)
   
-2. Under **My Domains**, choose the name of the domain that you want to modify.
+2. Under **My Domains**, select the name of the domain that you want to modify.
     
     ![Name-BP-Configure-1-2](../media/c8b96e1e-aa35-4fb1-8209-450f587fec4d.png)
   
-3. In the **Details** column, choose ** DNS Records **. 
+3. In the **Details** column, select **DNS Records+**. 
     
     ![Name-BP-Configure-1-3](../media/c5da31e2-2f77-4d0c-b31d-189e6fb7b205.png)
   
@@ -228,7 +228,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the boxes for the new record, type or copy and paste the values from the first row of the following table.
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
     |**Type**|**Service**|**Weight**|**TTL**|**Prio**|**Protocol**|**Port**|**Target**|
     |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -237,13 +237,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
    ![Name-BP-Configure-5-1](../media/d9a885fd-7300-45b6-ad4c-0b4bf1067560.png)
   
-5. Choose **Add Record**.
+5. Select **Add Record**.
 
     ![Name-BP-Configure-5-2](../media/a804d51d-8f57-4b0b-8bd6-a52eb1c87a97.png)
   
 6. Add the second SRV record:
 
-Use the values from the next row of the table above, and then choose **Add Record** to add the second record.
+Use the values from the next row of the table above, and then select **Add Record** to add the second record.
 
 >[!NOTE]
 >Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md).

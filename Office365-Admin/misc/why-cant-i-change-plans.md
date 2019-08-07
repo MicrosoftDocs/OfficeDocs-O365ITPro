@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ROBOTS: NOINDEX
 description: "Understand the reasons why sometimes changing plans has to be done manually or by calling support."
+monikerRange: 'o365-worldwide'
 ---
 
 # Why can't I upgrade plans?

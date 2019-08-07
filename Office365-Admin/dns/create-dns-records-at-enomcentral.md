@@ -51,7 +51,7 @@ Follow the steps below or [watch the video (start at 0:46)](https://support.offi
     
     ![eNom-BP-Configure-1-1](../media/6f754710-fd29-4a0a-b362-fa7a5c5ff74f.png)
   
-2. Under **my domains**, choose the name of the domain that you want to edit.
+2. Under **my domains**, select the name of the domain that you want to edit.
     
     ![eNom-BP-Configure-1-2](../media/09d53e84-371c-4704-a8ce-e429ce9e133a.png)
   
@@ -61,7 +61,7 @@ Follow the steps below or [watch the video (start at 0:46)](https://support.offi
   
 4. In the boxes for the new record, type or copy and paste the values from the following table.
     
-    (Select the **Record Type** value from the drop-down list.) 
+    (Choose the **Record Type** value from the drop-down list.) 
     
     ||||
     |:-----|:-----|:-----|
@@ -70,7 +70,7 @@ Follow the steps below or [watch the video (start at 0:46)](https://support.offi
        
    ![eNom-BP-Verify-1-2](../media/e1f95529-46a6-40f9-9709-9fe66f373bcf.png)
   
-5. Choose **save**.
+5. Select **save**.
     
     ![eNom-BP-Verify-1-3](../media/d6277ab0-5d03-44e0-968f-fd5de1905423.png)
   
@@ -83,15 +83,15 @@ When Office 365 finds the correct TXT record, your domain is verified.
 1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
     
   
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
     
   
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
     
   
@@ -107,7 +107,7 @@ Follow the steps below or [watch the video (start at 3:40)](https://support.offi
     
     ![eNom-BP-Configure-1-1](../media/6f754710-fd29-4a0a-b362-fa7a5c5ff74f.png)
   
-2. Under **my domains**, choose the name of the domain that you want to edit.
+2. Under **my domains**, select the name of the domain that you want to edit.
     
     ![eNom-BP-Configure-1-2](../media/09d53e84-371c-4704-a8ce-e429ce9e133a.png)
   
@@ -127,7 +127,7 @@ Follow the steps below or [watch the video (start at 3:40)](https://support.offi
        
    ![eNom-BP-Configure-2-1](../media/c32e8954-8209-4f77-a3a8-4b7aeea325d5.png)
   
-6. Choose **save**.
+6. Select **save**.
     
     ![eNom-BP-Configure-2-2](../media/cf3058ea-9d30-4747-8cf0-2bc13d5ec6be.png)
   
@@ -135,7 +135,7 @@ Follow the steps below or [watch the video (start at 3:40)](https://support.offi
     
     ![eNom-BP-Configure-2-3](../media/5017ed03-ca76-4c5c-93a7-84ffe24125dc.png)
   
-8. Choose **delete checked**.
+8. Select **delete checked**.
     
     ![eNom-BP-Configure-2-4](../media/072dc039-bddb-4c1f-bb44-5660e77f14b0.png)
   
@@ -148,7 +148,7 @@ Follow the steps below or [watch the video (start at 4:24)](https://support.offi
     
     ![eNom-BP-Configure-1-1](../media/6f754710-fd29-4a0a-b362-fa7a5c5ff74f.png)
   
-2. Under **my domains**, choose the name of the domain that you want to edit.
+2. Under **my domains**, select the name of the domain that you want to edit.
     
     ![eNom-BP-Configure-1-2](../media/09d53e84-371c-4704-a8ce-e429ce9e133a.png)
   
@@ -156,13 +156,13 @@ Follow the steps below or [watch the video (start at 4:24)](https://support.offi
     
     ![eNom-BP-Configure-1-5](../media/c92c514c-8166-4cba-97e3-ee1d9847d255.png)
   
-4. Choose **new row**.
+4. Select **new row**.
     
     ![eNom-BP-Configure-3-1](../media/a30f0a88-7b09-411e-9133-e7965bcf1de0.png)
   
 5. In the boxes for the six new records, type or copy and paste the following values.
     
-        (Select the **Record Type** value from the drop-down list.) 
+        (Choose the **Record Type** value from the drop-down list.) 
         
     |**Host Name**|**Record Type**|**Address**|
     |:-----|:-----|:-----|
@@ -174,7 +174,7 @@ Follow the steps below or [watch the video (start at 4:24)](https://support.offi
    
     ![eNom-BP-Configure-3-2](../media/672371c0-51af-44ba-bb18-80286b7676c1.png)
   
-6. Choose **save**.
+6. Select **save**.
     
     ![eNom-BP-Configure-3-3](../media/027b57ce-5699-408b-993b-e46a9ac31090.png)
   
@@ -190,7 +190,7 @@ Follow the steps below or [watch the video (start at 5:12)](https://support.offi
     
     ![eNom-BP-Configure-1-1](../media/6f754710-fd29-4a0a-b362-fa7a5c5ff74f.png)
   
-2. Under **my domains**, choose the name of the domain that you want to edit.
+2. Under **my domains**, select the name of the domain that you want to edit.
     
     ![eNom-BP-Configure-1-2](../media/09d53e84-371c-4704-a8ce-e429ce9e133a.png)
   
@@ -200,7 +200,7 @@ Follow the steps below or [watch the video (start at 5:12)](https://support.offi
   
 4. In the boxes for the new record, type or copy and paste the values from the following table.
     
-    (Select the **Record Type** value from the drop-down list.) 
+    (Choose the **Record Type** value from the drop-down list.) 
     
     |**Host Name**|**Record Type**|**Address**|
     |:-----|:-----|:-----|
@@ -208,7 +208,7 @@ Follow the steps below or [watch the video (start at 5:12)](https://support.offi
    
    ![eNom-BP-Configure-4-1](../media/64c68697-258d-4044-84b1-c28f4a402e3b.png)
   
-5. Choose **save**.
+5. Select **save**.
     
     ![eNom-BP-Configure-4-2](../media/89f4effa-349e-4734-96a5-cd80b0cecd60.png)
   
@@ -221,7 +221,7 @@ Follow the steps below or [watch the video (start at 5:50)](https://support.offi
     
     ![eNom-BP-Configure-1-1](../media/6f754710-fd29-4a0a-b362-fa7a5c5ff74f.png)
   
-2. Under **my domains**, choose the name of the domain that you want to edit.
+2. Under **my domains**, select the name of the domain that you want to edit.
     
     ![eNom-BP-Configure-1-2](../media/09d53e84-371c-4704-a8ce-e429ce9e133a.png)
   
@@ -229,7 +229,7 @@ Follow the steps below or [watch the video (start at 5:50)](https://support.offi
     
     ![eNom-BP-Configure-1-5](../media/c92c514c-8166-4cba-97e3-ee1d9847d255.png)
   
-4. To the right of **new row**, choose **add SRV or SPF record**.
+4. To the right of **new row**, select **add SRV or SPF record**.
     
     ![eNom-BP-Configure-5-1](../media/c73c154d-5aa0-41ef-be25-f43129eb178c.png)
   
@@ -242,7 +242,7 @@ Follow the steps below or [watch the video (start at 5:50)](https://support.offi
    
     ![eNom-BP-Configure-5-2](../media/4d478f40-780f-43b9-940b-712b09da8c63.png)
   
-6. Choose **save**
+6. Select **save**
     
     ![eNom-BP-Configure-5-3](../media/d03b6f75-49f2-471d-978d-d32c47cd6aa7.png)
   

@@ -53,11 +53,11 @@ Follow the steps below.
     
     ![GoDaddy-BP-Configure-1-1](../media/d6833ec7-9904-43fd-a877-7c663e5f5c25.png)
   
-2. Under **Domains**, choose DNS under the domain that you want to edit.
+2. Under **Domains**, select DNS under the domain that you want to edit.
     
     ![GoDaddy-BP-Configure-1-2](https://user-images.githubusercontent.com/45987684/56528038-94b6ac00-651c-11e9-8874-12db60cc7ea6.PNG)
    
-3. Choose **Add**.
+3. Select **Add**.
     
     ![GoDaddy-BP-Configure-1-4](https://user-images.githubusercontent.com/45987684/56527673-ffb3b300-651b-11e9-91c2-83dc9fe5ca30.PNG)
   
@@ -68,11 +68,11 @@ Follow the steps below.
     |Record type  <br/> |Host  <br/> |TXT Value  <br/> |TTL  <br/> |
     |TXT (Text) |@   |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) |1 hour  |
       
-    (Select the **TTL** value from the drop-down list.) 
+    (Choose the **TTL** value from the drop-down list.) 
     
       ![GoDaddy-BP-Verify-1-0](https://user-images.githubusercontent.com/45987684/56526870-d6465780-651a-11e9-9cf0-d6fff71e2f62.PNG)
    
-5. Choose **Save**.
+5. Select **Save**.
 
 6. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
@@ -83,15 +83,15 @@ When Office 365 finds the correct TXT record, your domain is verified.
 1. CIn the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
     
   
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
     
   
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
     
   
@@ -107,11 +107,11 @@ Follow the steps below.
     
     ![GoDaddy-BP-Configure-1-1](../media/d6833ec7-9904-43fd-a877-7c663e5f5c25.png)
   
-2. Under **Domains**, choose DNS under the domain that you want to edit.
+2. Under **Domains**, select DNS under the domain that you want to edit.
     
     ![GoDaddy-BP-Configure-1-2](https://user-images.githubusercontent.com/45987684/56528038-94b6ac00-651c-11e9-8874-12db60cc7ea6.PNG)
    
-3. Choose **Add**.
+3. Select **Add**.
     
     ![GoDaddy-BP-Configure-1-4](https://user-images.githubusercontent.com/45987684/56527673-ffb3b300-651b-11e9-91c2-83dc9fe5ca30.PNG)
   
@@ -121,13 +121,13 @@ Follow the steps below.
   
 5. In the boxes for the new record, type or copy and paste the values from the following table.
     
-    (Select the **TTL** value from the drop-down list.) 
+    (Choose the **TTL** value from the drop-down list.) 
     
     |**Record type**|**Host**|**Points to**|**Priority**|**TTL**|
     |:-----|:-----|:-----|:-----|:-----|
     |MX (Mail Exchanger)  <br/> |@  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |1 hour  <br/> |
    
-6. Choose **Save**.
+6. Select **Save**.
 
 
   
@@ -140,11 +140,11 @@ Follow the steps below.
     
     ![GoDaddy-BP-Configure-1-1](../media/d6833ec7-9904-43fd-a877-7c663e5f5c25.png)
   
-2. Under **Domains**, choose DNS under the domain that you want to edit.
+2. Under **Domains**, select DNS under the domain that you want to edit.
     
     ![GoDaddy-BP-Configure-1-2](https://user-images.githubusercontent.com/45987684/56528038-94b6ac00-651c-11e9-8874-12db60cc7ea6.PNG)
    
-3. Choose **Add**.
+3. Select **Add**.
     
     ![GoDaddy-BP-Configure-1-4](https://user-images.githubusercontent.com/45987684/56527673-ffb3b300-651b-11e9-91c2-83dc9fe5ca30.PNG)
  
@@ -157,7 +157,7 @@ Follow the steps below.
     
     In the boxes for the new record, type or copy and paste the values from the first row of the following table.
     
-    (Select the **TTL** value from the drop-down list.) 
+    (Choose the **TTL** value from the drop-down list.) 
     
     |**Record type**|**Host**|**Points to**|**TTL**|
     |:-----|:-----|:-----|:-----|
@@ -185,11 +185,11 @@ Follow the steps below.
     
     ![GoDaddy-BP-Configure-1-1](../media/d6833ec7-9904-43fd-a877-7c663e5f5c25.png)
   
-2. Under **Domains**, choose DNS under the domain that you want to edit.
+2. Under **Domains**, select DNS under the domain that you want to edit.
     
     ![GoDaddy-BP-Configure-1-2](https://user-images.githubusercontent.com/45987684/56528038-94b6ac00-651c-11e9-8874-12db60cc7ea6.PNG)
    
-3. Choose **Add**.
+3. Select **Add**.
     
     ![GoDaddy-BP-Configure-1-4](https://user-images.githubusercontent.com/45987684/56527673-ffb3b300-651b-11e9-91c2-83dc9fe5ca30.PNG)
   
@@ -199,7 +199,7 @@ Follow the steps below.
   
 5. In the boxes for the new record, type or copy and paste the following values.
     
-    (Select the **TTL** value from the drop-down lists.) 
+    (Choose the **TTL** value from the drop-down lists.) 
     
     |**Record type**|**Host**|**TXT Value**|**TTL**|
     |:-----|:-----|:-----|:-----|
@@ -207,7 +207,7 @@ Follow the steps below.
    
     ![GoDaddy-BP-Configure-4-1](../media/7c724f02-c9b3-42ab-b9c0-78959fa6ffad.png)
   
-6. Choose **Save**.
+6. Select **Save**.
     
   
 ## Add the two SRV records that are required for Office 365
@@ -219,11 +219,11 @@ Follow the steps below.
     
     ![GoDaddy-BP-Configure-1-1](../media/d6833ec7-9904-43fd-a877-7c663e5f5c25.png)
   
-2. Under **Domains**, choose DNS under the domain that you want to edit.
+2. Under **Domains**, select DNS under the domain that you want to edit.
     
     ![GoDaddy-BP-Configure-1-2](https://user-images.githubusercontent.com/45987684/56528038-94b6ac00-651c-11e9-8874-12db60cc7ea6.PNG)
    
-3. Choose **Add**.
+3. Select **Add**.
     
     ![GoDaddy-BP-Configure-1-4](https://user-images.githubusercontent.com/45987684/56527673-ffb3b300-651b-11e9-91c2-83dc9fe5ca30.PNG)
 
@@ -235,7 +235,7 @@ Follow the steps below.
     
     In the boxes for the new record, type or copy and paste the values from the first row of the following table.
     
-    (Select the **Record type** and **TTL** values from the drop-down lists.) 
+    (Choose the **Record type** and **TTL** values from the drop-down lists.) 
     
     |**Record type**|**Name**|**Target**|**Protocol**|**Service**|**Priority**|**Weight**|**Port**|**TTL**|
     |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -247,7 +247,7 @@ Follow the steps below.
 
 6. Repeat **Step 5** to Create the other SRV record.
      
-7. Choose **Save**.
+7. Select **Save**.
   
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 

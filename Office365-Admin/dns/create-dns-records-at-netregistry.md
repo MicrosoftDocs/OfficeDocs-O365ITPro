@@ -66,7 +66,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     ![Netregistry_selectZoneManager](../media/e18c32f9-c1e7-4aa2-9aa6-8dc9c5ea44af.png)
   
-4. Under ﻿ **﻿Add a zone record**,﻿ choose **TXT Record** from the list, and then select **Create new record**.
+4. Under **Add a zone record**, choose **TXT Record** from the list, and then select **Create new record**.
     
     ![Netregistry_TXT_select](../media/eb1761e6-9deb-4631-8deb-bc5d09926722.png)
   
@@ -81,7 +81,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
        
     ![Netregistry_verificationTXTvalues](../media/cfe8b05a-fa8b-4dba-9554-7a3466e6c012.png)
   
-6. Choose **Add record**.
+6. Select **Add record**.
     
 Now that you've added the record at your domain registrar's site, you'll go back to Office 365 and request Office 365 to look for the record.
   
@@ -89,15 +89,15 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
     
   
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
     
   
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
     
   
@@ -135,7 +135,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
        
     ![Netregistry_MX_values](../media/518b3da6-4055-4e2d-b5ce-44a0fee25419.png)
   
-7. Choose **Add Record**.
+7. Select **Add Record**.
     
     ![Netregistry_MX_values_AddRecord](../media/8194cb38-afa0-48ac-831c-fd34b6ad652e.png)
   
@@ -170,7 +170,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
        
     ![Netregistry_CNAME_values](../media/93c479f0-3ce2-491a-9113-6dde1cd7131b.png)
       
-6. Choose **Add record**.
+6. Select **Add record**.
     
     ![Netregistry_CNAME_values_AddRecord](../media/046c8c64-ea71-4530-9fc6-69f0c70993b6.png)
   
@@ -211,7 +211,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Netregistry_SPF-TXTvalues](../media/a369345a-d774-48bc-8160-b628ab8247f9.png)
   
-6. Choose **Add Record**.
+6. Select **Add Record**.
     
     ![Netregistry_SPF-TXTvalues_AddRecord](../media/063bfbaf-940a-489f-970f-29c026b4b312.png)
   
@@ -246,7 +246,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
        
     ![Netregistry_SRV_values](../media/49292846-1598-4b8c-9940-db6e10675753.png)
   
-6. Choose **Add Record**.
+6. Select **Add Record**.
     
     ![Netregistry_SRV_values_AddRecord](../media/abc82061-939f-4757-87e4-0e8f9e43ebcb.png)
   

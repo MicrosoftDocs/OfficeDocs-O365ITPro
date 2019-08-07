@@ -46,15 +46,15 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     ![Freenom login](../media/90a32855-bfdd-4dfe-881c-b9a36b2f0582.png)
   
-2. Choose **Services**, and then choose **My Domains**.
+2. Select **Services**, and then select **My Domains**.
     
     ![Freenom select Services and My Domains](../media/1917ced2-e254-4aec-9096-46d339b84d9a.png)
   
-3. For the domain that you want to edit, choose **Manage Domain**.
+3. For the domain that you want to edit, select **Manage Domain**.
     
     ![Freenom select Manage Domain](../media/67737b71-8b1b-42a6-abaf-62d776d3eb87.png)
   
-4. Choose **Manage Freenom DNS**.
+4. Select **Manage Freenom DNS**.
     
     ![Freenom Manage Freenom DNS](../media/9854a511-27e3-4658-8903-34b3d425096d.png)
   
@@ -70,7 +70,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
    
     ![Freenom TXT values for verification](../media/650098df-b3aa-47e5-9763-7fde24e34c3f.png)
   
-7. Choose **Save Changes**.
+7. Select **Save Changes**.
     
     ![Freenom TXT record Save Changes](../media/b1a63f9a-4578-491a-9554-c40f73b37e09.png)
   
@@ -83,15 +83,15 @@ When Office 365 finds the correct TXT record, your domain is verified.
 1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
     
   
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
     
   
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
     
   
@@ -105,25 +105,25 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Freenom login](../media/90a32855-bfdd-4dfe-881c-b9a36b2f0582.png)
   
-2. Choose **Services**, and then choose **My Domains**.
+2. Select **Services**, and then select **My Domains**.
     
     ![Freenom select Services and My Domains](../media/1917ced2-e254-4aec-9096-46d339b84d9a.png)
   
-3. For the domain that you want to edit, choose **Manage Domain**.
+3. For the domain that you want to edit, select **Manage Domain**.
     
     ![Freenom select Manage Domain](../media/67737b71-8b1b-42a6-abaf-62d776d3eb87.png)
   
-4. Set the name serves for your domain to the default Freenom name servers. Choose **Management Tools**, and then choose **Nameservers**.
+4. Set the name serves for your domain to the default Freenom name servers. Select **Management Tools**, and then select **Nameservers**.
     
     ![Freenom Nameservers setting](../media/a6ae877a-c248-42b9-bae9-210a80cd01e7.png)
   
-5. Make sure **Use default nameservers** is selected, and then choose **Change Nameservers**.
+5. Make sure **Use default nameservers** is selected, and then select **Change Nameservers**.
     
     ![Freenom Change Nameservers](../media/0ef90d84-c0a0-4ef9-9e4c-43ef0aac3a2e.png)
   
-6. Choose **Manage Freenom DNS**.
+6. Select **Manage Freenom DNS**.
     
-    ![Freenom choose Manage Freenom DNS](../media/f55a8053-2411-45da-a357-776c6699f721.png)
+    ![Freenom select Manage Freenom DNS](../media/f55a8053-2411-45da-a357-776c6699f721.png)
   
 7. Under **Add Record**, in the **Type** column, choose **MX** from the menu. 
     
@@ -137,11 +137,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
    ![Freenom MX record](../media/8896c4a9-b3dd-45ed-9916-f7da2715ba8c.png)
   
-9. Choose **Save Changes**.
+9. Select **Save Changes**.
     
     ![Freenom MX record Save Changes](../media/7aa0a464-d136-417f-be40-48d3f728eeb7.png)
   
-10. If there are any other MX records, delete them all. For each record, choose **Delete**. When the message **Do you really want to remove this entry?** appears, choose **OK**.
+10. If there are any other MX records, delete them all. For each record, select **Delete**. When the message **Do you really want to remove this entry?** appears, select **OK**.
     
 ## Add the CNAME records that are required for Office 365
 <a name="bkmk_cname"> </a>
@@ -150,17 +150,17 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Freenom login](../media/90a32855-bfdd-4dfe-881c-b9a36b2f0582.png)
   
-2. Choose **Services**, and then choose **My Domains**.
+2. Select **Services**, and then select **My Domains**.
     
     ![Freenom select Services and My Domains](../media/1917ced2-e254-4aec-9096-46d339b84d9a.png)
   
-3. For the domain that you want to edit, choose **Manage Domain**.
+3. For the domain that you want to edit, select **Manage Domain**.
     
     ![Freenom select Manage Domain](../media/67737b71-8b1b-42a6-abaf-62d776d3eb87.png)
   
-4. Choose **Manage Freenom DNS**.
+4. Select **Manage Freenom DNS**.
     
-    ![Freenom choose Manage Freenom DNS](../media/5e7bc3a7-0d5e-431b-bb27-da3b0f316d01.png)
+    ![Freenom select Manage Freenom DNS](../media/5e7bc3a7-0d5e-431b-bb27-da3b0f316d01.png)
   
 5. Under **Add Record**, in the **Type** column, choose **CNAME** from the menu. 
     
@@ -178,7 +178,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Freenom CNAME values](../media/752fc682-e3f2-4b9c-9253-bf1ba2d414e9.png)
   
-7. Choose **Save Changes**.
+7. Select **Save Changes**.
     
     ![Freenom CNAME Save Changes](../media/68103fd2-0f5f-4aac-a875-25157c6bbdd2.png)
   
@@ -196,17 +196,17 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Freenom login](../media/90a32855-bfdd-4dfe-881c-b9a36b2f0582.png)
   
-2. Choose **Services**, and then choose **My Domains**.
+2. Select **Services**, and then select **My Domains**.
     
     ![Freenom select Services and My Domains](../media/1917ced2-e254-4aec-9096-46d339b84d9a.png)
   
-3. For the domain that you want to edit, choose **Manage Domain**.
+3. For the domain that you want to edit, select **Manage Domain**.
     
     ![Freenom select Manage Domain](../media/67737b71-8b1b-42a6-abaf-62d776d3eb87.png)
   
-4. Choose **Manage Freenom DNS**.
+4. Select **Manage Freenom DNS**.
     
-    ![Freenom choose Manage Freenom DNS](../media/94809955-0315-409c-a15d-703a2fe4c4ed.png)
+    ![Freenom select Manage Freenom DNS](../media/94809955-0315-409c-a15d-703a2fe4c4ed.png)
   
 5. Under **Add Record**, in the **Type** column, choose **TXT** from the menu. 
     
@@ -220,7 +220,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Freenom TXT values for SPF](../media/1b3b1199-9104-4ca1-acdb-786d139c21ac.png)
   
-7. Choose **Save Changes**.
+7. Select **Save Changes**.
     
     ![Freenom TXT record for SPF Save Changes](../media/e2fc52b1-0dcb-4595-9a4c-fca5e2ef9f97.png)
   

@@ -38,19 +38,19 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     ![OVH login](../media/1424cc15-720d-49d1-b99b-8ba63b216238.png)
   
-2. Under **Domains**, choose the name of the domain that you want edit.
+2. Under **Domains**, select the name of the domain that you want edit.
   
-3. Choose **DNS zone**.
+3. Select **DNS zone**.
     
     ![OVH select DNS zone](../media/45218cbe-f3f8-4804-87f9-cfcef89ea113.png)
   
-4. Choose **Add an entry**.
+4. Select **Add an entry**.
     
     ![OVH Add an entry](../media/13ded54b-9e48-4c98-8e1b-8c4a99633bc0.png)
   
-5. Choose **TXT**.
+5. Select **TXT**.
     
-    ![OVH choose TXT entry](../media/3aaa9dae-0b1d-436b-a980-b67a970f31a9.png)
+    ![OVH select TXT entry](../media/3aaa9dae-0b1d-436b-a980-b67a970f31a9.png)
   
 6. In the boxes for the new record, type or copy and paste the values from the following table. To assign a TTL value, choose **Personalized**from the drop-down list, and then type the value in the text box.
     
@@ -58,7 +58,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |:-----|:-----|:-----|:-----|
 |TXT  <br/> |(leave blank)  <br/> |3600 (seconds)  <br/> |MS=msxxxxxxxx  <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)
    
-7. Choose **Confirm**.
+7. Select **Confirm**.
     
     ![OVH confirm TXT for verification](../media/bde45596-9a55-4634-b5e7-16d7cde6e1b8.png)
   
@@ -70,11 +70,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
  
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
       
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
   
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
     
   
@@ -95,7 +95,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
     
     ![OVH login](../media/1424cc15-720d-49d1-b99b-8ba63b216238.png)
   
-2. Under **Domains**, choose the name of the domain that you want edit.
+2. Under **Domains**, select the name of the domain that you want edit.
     
 3. Under the **DNS servers** tab, you'll see your current NS servers. By default, they are something like:  *ns108.ovh.net*  and  *dns108.ovh.net*.
     
