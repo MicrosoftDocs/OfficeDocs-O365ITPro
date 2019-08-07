@@ -72,14 +72,32 @@ If a tenant was created by Microsoft, you can claim and manage that tenant by fo
 1. Join the tenant by [signing up for Power BI](https://go.microsoft.com/fwlink/?LinkId=522448) using an email address domain that matches the tenant domain you want to manage. For example, if Microsoft created the contoso.com tenant, you will need to join the tenant with an email address ending with @contoso.com. 
     
 2. Claim admin control by verifying domain ownership: once you are in the tenant, you can promote yourself to the admin role by verifying domain ownership. To do so, follow these steps:
+ 
+::: moniker range="o365-worldwide"
+   
+3. Go to [https://admin.microsoft.com](https://admin.microsoft.com).
+ 
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+Go to [https://portal.office.de](https://portal.office.de).
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+Go to [https://portal.partner.microsoftonline.cn](https://portal.partner.microsoftonline.cn).
+
+::: moniker-end
+
     
-1. Go to [https://admin.microsoft.com](https://admin.microsoft.com).
-    
-2. Select the app launcher icon in the upper-left and choose **Admin**.
+4. Select the app launcher icon in the upper-left and choose **Admin**.
     
     ![The Office 365 app launcher with the Admin app highlighted](../media/4eea9dbc-591b-48be-9916-322d41c6525b.png)
   
-3. Read the instructions on the **Become the admin** page and then select **Yes, I want to be the admin**.
+5. Read the instructions on the **Become the admin** page and then select **Yes, I want to be the admin**.
     
     > [!NOTE]
     >  If this option doesn't appear, there is already an administrator in place. 
