@@ -61,9 +61,21 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 ### Use the old admin center to access a former user's OneDrive documents
 
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
+
 ::: moniker-end
 
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.  
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
+
+::: moniker-end
     
 2. Select a user.
 
@@ -79,7 +91,23 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 As global admin you have access to the content in a user’s OneDrive site, but you may want to remove your access to a user’s documents. By default, the OneDrive Site Collection Administrator is the owner of the OneDrive account. The following steps describe how to remove a Site Collection Admin from a user’s OneDrive site.
 
+::: moniker range="o365-worldwide"
+
 1. Sign in to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>  as a global admin or SharePoint admin. 
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. Sign in to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a>  as a global admin or SharePoint admin.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. Sign in to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>  as a global admin or SharePoint admin.
+
+::: moniker-end
 
     If you get a message that you don't have permission to access the admin center, then you don't have administrator permissions in your organization.
 
