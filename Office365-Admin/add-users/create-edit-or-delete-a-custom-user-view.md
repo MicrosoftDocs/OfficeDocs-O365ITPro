@@ -95,9 +95,21 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 ### Use the old admin center to create a custom user view
 
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
 ::: moniker-end
 
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.  
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
+
+::: moniker-end
     
 2. On the **Active users** page, select **Views** and select **Add custom view**.
   
@@ -111,7 +123,6 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
-
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
 2. On the **Active users** page, select **Filter**, select the filter you want to change, and then select **Edit filter**. 
@@ -123,10 +134,22 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 ### Use the old admin center to edit or delete a custom user view
 
-::: moniker-end
-
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.  
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
+
+::: moniker-end
+
 2. On the **Active users** page, select **Views**, select the filter you want to change, and then select **Edit this view**. 
     
     > [!TIP]
