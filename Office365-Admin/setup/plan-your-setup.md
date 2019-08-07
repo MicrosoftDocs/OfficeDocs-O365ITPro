@@ -75,7 +75,7 @@ Here are the steps you'll do when you run the setup wizard:
     
     ![Finished! Go to the Microsoft 365 admin center.](../media/54660b65-4ded-4fc8-b455-973e508440c4.png)
   
-8. Now you can go to the Microsoft 365 admin center, where you can change the domain of your Office 365 admin account. Plus you can manage your billing information, add or remove users, reset passwords, and do other business functions.
+8. Now you can go to the Microsoft 365 admin center, where you can change the domain of your admin account. Plus you can manage your billing information, add or remove users, reset passwords, and do other business functions.
     
     > [!NOTE]
     > You can also update your account to the new domain on the **Active users** page. 

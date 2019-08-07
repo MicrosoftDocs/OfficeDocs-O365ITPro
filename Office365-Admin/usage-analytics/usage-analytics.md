@@ -72,7 +72,7 @@ To share the dashboards with others both the user who is sharing and the user th
 
 ### Who can connect to Microsoft 365 usage analytics?
 
-You have to be either a **global administrator**, **report reader**, **Exchange administrator**, **Skype for Business administrator**, or **SharePoint administrator**  in order to establish the connection to the content pack. See [Office 365 admin roles](../add-users/about-admin-roles.md) for more information.
+You have to be either a **global administrator**, **report reader**, **Exchange administrator**, **Skype for Business administrator**, or **SharePoint administrator**  in order to establish the connection to the content pack. See [About admin roles](../add-users/about-admin-roles.md) for more information.
 
 ### Who can customize the usage analytics dashboards and reports?
 

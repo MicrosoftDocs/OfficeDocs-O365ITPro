@@ -82,7 +82,7 @@ If a tenant was created by Microsoft, you can claim and manage that tenant by fo
 3. Read the instructions on the **Become the admin** page and then select **Yes, I want to be the admin**.
     
     > [!NOTE]
-    >  If this option doesn't appear, there is already an Office 365 administrator in place. 
+    >  If this option doesn't appear, there is already an administrator in place. 
   
 ## If I have multiple domains, can I control the Office 365 tenant that users are added to?
 

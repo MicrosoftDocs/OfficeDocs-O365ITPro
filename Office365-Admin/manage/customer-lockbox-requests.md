@@ -72,7 +72,7 @@ The following steps outline the typical workflow when a Customer Lockbox request
 
 ## Turn Customer Lockbox requests on or off
 
-An Office 365 administrator can turn on Customer Lockbox controls in the Microsoft 365 admin center. When Customer Lockbox is turned on, Microsoft is required to obtain an organization’s approval prior to accessing any of their content.
+An admin can turn on Customer Lockbox controls in the Microsoft 365 admin center. When Customer Lockbox is turned on, Microsoft is required to obtain an organization’s approval prior to accessing any of their content.
 
 > [!NOTE]
 > To perform the following procedure, you must be a global administrator in your Microsoft 365 or Office 365 organization, or be assigned the **Customer Lockbox access approver** admin role.

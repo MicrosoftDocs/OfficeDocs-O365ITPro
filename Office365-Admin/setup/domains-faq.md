@@ -309,7 +309,7 @@ You can keep using the initial onmicrosoft.de domain even after you add your dom
 
 1. Select **Setup** in the [admin center](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791.aspx) to start the wizard. (Be sure to sign in to Office 365 first.) 
     
-2. To become the Office 365 admin for your school, select the **Become an admin** option in Office 365. 
+2. To become the admin for your school, select the **Become an admin** option in Office 365. 
     
 3. You'll be prompted to add a TXT DNS record at the DNS host website for your domain. Why? Because by signing in at the DNS host and adding a record for your domain, you prove to Office 365 that you own the domain name.
     
@@ -317,7 +317,7 @@ You can keep using the initial onmicrosoft.de domain even after you add your dom
     
 Have a nonprofit and want to get Office 365? [Make sure your organization qualifies](https://www.microsoft.com/en-us/nonprofits/eligibility) and then sign up for the service. 
   
-Want to know more about becoming the Office 365 admin for your school? [Learn all about it](https://docs.microsoft.com/en-us/microsoft-365/education/deploy/becoming-an-admin-in-office-365-education
+Want to know more about becoming the admin for your school? [Learn all about it](https://docs.microsoft.com/en-us/microsoft-365/education/deploy/becoming-an-admin-in-office-365-education
 ).
   
 ## Can I pilot Office 365 with just a few email addresses from my custom domain?

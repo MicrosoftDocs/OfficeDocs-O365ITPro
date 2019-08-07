@@ -92,7 +92,7 @@ Microsoft also recommends that users protect their personal email accounts by ta
 ## 3: Use dedicated admin accounts
 <a name="admin"> </a>
 
-The administrative accounts you use to administer your Office 365 or Microsoft 365 environment include elevated privileges. These are valuable targets for hackers and cyber criminals. Use Office 365 administrator accounts only for administration. Admins should have a separate user account for regular, non-administrative use and only use their administrative account when necessary to complete a task associated with their job function. Additional recommendations:
+The administrative accounts you use to administer your Office 365 or Microsoft 365 environment include elevated privileges. These are valuable targets for hackers and cyber criminals. Use admin accounts only for administration. Admins should have a separate user account for regular, non-administrative use and only use their administrative account when necessary to complete a task associated with their job function. Additional recommendations:
   
 - Be sure admin accounts are also set up for multi-factor authentication. 
     

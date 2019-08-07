@@ -90,7 +90,7 @@ Error Code: 302
   
  **Cause:** The authorization code failed because the user who tried connecting to the content pack does not have the right level of authorization to access this data. 
   
- **To fix this error:** Provide the credentials of a user who is either a **global administrator**, **Exchange administrator**, **Skype for Business administrator,** or a **SharePoint administrator** to connect to the content pack. See [Office 365 admin roles](../add-users/about-admin-roles.md) for more information. 
+ **To fix this error:** Provide the credentials of a user who is either a **global administrator**, **Exchange administrator**, **Skype for Business administrator,** or a **SharePoint administrator** to connect to the content pack. See [About admin roles](../add-users/about-admin-roles.md) for more information. 
   
 ## Refresh failed
 
@@ -98,7 +98,7 @@ Error Code: 302
   
  **Cause:** Sometimes the credentials of the user who connected to the content pack are reset, and not updated in the connection settings of the content pack causing the user to see refresh failure errors. 
   
- **To fix this error:** In Power BI, find the dataset corresponding to the Office 365 Adoption dashboard (Office 365 Adoption_preview.pbix), select **schedule refresh** and provide your Office 365 admin credentials. 
+ **To fix this error:** In Power BI, find the dataset corresponding to the Office 365 Adoption dashboard (Office 365 Adoption_preview.pbix), select **schedule refresh** and provide your admin credentials. 
   
 If that doesn't work, clear the cache, and re-create the content pack.
   

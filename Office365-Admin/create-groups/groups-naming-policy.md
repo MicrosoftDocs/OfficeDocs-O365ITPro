@@ -166,11 +166,11 @@ Leave the PowerShell window open for Step 2, below.
   ```
 
 
-  In the **Sign in to your Account** screen that opens, enter your Office 365 admin account and password to connect you to your service, and select **Sign in**.
+  In the **Sign in to your Account** screen that opens, enter your admin account and password to connect you to your service, and select **Sign in**.
 
 
     
-  ![Enter your Office 365 credentials](../media/a2b4e2f3-436f-4a6c-b571-1a192698acea.png)
+  ![Enter your credentials](../media/a2b4e2f3-436f-4a6c-b571-1a192698acea.png)
   
 Follow the steps in [Azure Active Directory cmdlets for configuring group settings](https://go.microsoft.com/fwlink/p/?LinkID=858519) to configure group settings. 
   
@@ -314,7 +314,7 @@ When a user signed in to Yammer with their Azure Active Directory account create
   
 If an Office 365 connected group was created before the naming policy is in place, the group name will not automatically follow the naming policies. When a user edits the group name, they will be prompted to add the prefix and suffix.
 
-If the naming policy includes characters that can't be in Yammer group names, only Office 365 admins will be able to create a connected group in Yammer. 
+If the naming policy includes characters that can't be in Yammer group names, only admins will be able to create a connected group in Yammer. 
   
 ## StaffHub
 

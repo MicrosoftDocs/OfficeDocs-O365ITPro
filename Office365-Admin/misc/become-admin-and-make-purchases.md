@@ -75,7 +75,7 @@ The Office 365 subscription that your organization is upgraded to depends on whi
    
 ## What's next?
 
-Now that you're the Office 365 administrator, you may want to do the following:
+Now that you're the admin, you may want to do the following:
   
 |****Task****|****Details****|
 |:-----|:-----|

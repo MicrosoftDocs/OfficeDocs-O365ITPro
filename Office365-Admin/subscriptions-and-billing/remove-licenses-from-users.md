@@ -105,7 +105,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ## What you need to know about removing licenses from users
 
-- You need to be either a Global admin or a User management admin. For more information, see [About Office 365 admin roles](../add-users/about-admin-roles.md).
+- You need to be either a Global admin or a User management admin. For more information, see [About admin roles](../add-users/about-admin-roles.md).
 
 - You can [remove licenses from user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=848428).
 

@@ -102,7 +102,7 @@ If you have a trial subscription, you must first buy your trial subscription, th
 >
 > - Paying by bank account is not available in some countries or regions.
 
-- You need to be either a Global admin or a Billing admin. For more information, see [About Office 365 admin roles](../add-users/about-admin-roles.md).
+- You need to be either a Global admin or a Billing admin. For more information, see [About admin roles](../add-users/about-admin-roles.md).
 
 - To buy a license and add a new user to your subscription at the same time, see [Add users individually or in bulk to Office 365 - Admin Help](../add-users/add-users.md).
 
