@@ -37,10 +37,8 @@ The group naming policy consists of the following features:
     
 ## Licensing requirements
 
-To use the Groups naming policy feature, the following people need an Azure Active Directory Premium P1 license or Azure AD Basic EDU license:
-- Everyone who is a member of the group.
-- The person who creates the group.
-- The admin who creates the Groups naming policy  
+Using Azure AD naming policy for Office 365 groups requires that you possess but not necessarily assign an Azure Active Directory Premium P1 license or Azure AD Basic EDU license for each unique user (including guests) that is a member of one or more Office 365 groups.
+This is also required for the administrator that creates the Groups naming policy.
 
 ## Prefix-Suffix Naming policy
 
