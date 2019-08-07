@@ -45,7 +45,7 @@ When you convert a user's mailbox to a shared mailbox, all of the existing email
     
 5. For everything else you need to know about shared mailboxes, please see [Create a shared mailbox](create-a-shared-mailbox.md).
 
-## Use the office 365 admin center to convert a mailbox
+## Use the Microsoft 365 admin center to convert a mailbox
 
 ::: moniker range="o365-worldwide"
 

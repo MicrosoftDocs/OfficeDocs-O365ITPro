@@ -65,7 +65,7 @@ Watch this video for on overview: on how you can use the reports:
 
 People who have the following permissions:
   
-- Office 365 global admins: We recommend that only a few people in your company have this role. It reduces the risk to your business.
+- Global admins: We recommend that only a few people in your company have this role. It reduces the risk to your business.
     
 - Exchange admins
     
@@ -75,11 +75,11 @@ People who have the following permissions:
     
 - Reports reader
     
-To learn more, see [About Office 365 admin roles](../add-users/about-admin-roles.md) and [Assign admin roles in Office 365](../add-users/assign-admin-roles.md).
+To learn more, see [About admin roles](../add-users/about-admin-roles.md) and [Assign admin roles](../add-users/assign-admin-roles.md).
   
 ## Which activity reports are available in the admin center
 
-Depending on your Office 365 subscription, here are the available reports.
+Depending on your subscription, here are the available reports.
   
 - [Email activity](email-activity.md)
     
@@ -175,6 +175,6 @@ However, when you select a particular day (see number 3), up to 28 days from the
   
 ## Related Topics
 
-[Reports in the Office 365 Security &amp; Compliance Center](https://support.office.com/article/7acd33ce-1ec8-49fb-b625-43bac7b58c5a)
+[Reports in the Security &amp; Compliance Center](https://support.office.com/article/7acd33ce-1ec8-49fb-b625-43bac7b58c5a)
   
 

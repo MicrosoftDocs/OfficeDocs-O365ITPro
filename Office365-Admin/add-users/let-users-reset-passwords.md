@@ -21,8 +21,8 @@ ms.assetid: 5bc3f460-13cc-48c0-abd6-b80bae72d04a
 description: "Learn how you can reset your passwords using the self-service password reset tool."
 ---
 
-# Let users reset their own passwords in Office 365
-Getting crushed with people asking you to reset their passwords? As the Office 365 admin, you can let people use the [self-service password reset tool](https://go.microsoft.com/fwlink/p/?LinkId=522677) so you don't have to reset passwords for them. Less work for you! 
+# Let users reset their own passwords
+Getting crushed with people asking you to reset their passwords? As the Microsoft 365 admin, you can let people use the [self-service password reset tool](https://go.microsoft.com/fwlink/p/?LinkId=522677) so you don't have to reset passwords for them. Less work for you! 
   
 Here are a few things you need to know:
   
