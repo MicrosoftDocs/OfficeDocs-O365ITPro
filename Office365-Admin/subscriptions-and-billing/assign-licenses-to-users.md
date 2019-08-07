@@ -179,7 +179,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
 
-::: moniker-end.
+::: moniker-end
 
 2. Select the boxes next to the names of the users for whom you want to replace existing licenses.
 

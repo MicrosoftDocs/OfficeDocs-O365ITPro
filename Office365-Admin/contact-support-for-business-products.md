@@ -54,7 +54,7 @@ Save time by starting your service request online. We'll help you find a solutio
 
 ### Use the new admin center to start a service request
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](microsoft-365-admin-center-preview?view=o365-worldwide).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](microsoft-365-admin-center-preview.md).
 
 1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>. If you get a message that says you don't have permission to access this page or perform this action, then you aren't an admin. [Who has admin permissions in my business?](admin-overview/admin-overview.md#who-has-admin-permissions-in-my-business)
     
