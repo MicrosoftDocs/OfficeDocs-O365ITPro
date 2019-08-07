@@ -99,7 +99,7 @@ Import-Module O365CompatibilityChecker
 ```powershell
 Invoke-CompatibilityCheck
 ```
-   which prompts you for  *_TenantDomain_* (for example, *TailspinToysIncorporated.onmicrosoft.</span>com*) and  *_TenantAdmin_* credentials, and then requests consent.
+   which prompts you for  *_TenantDomain_* (for example, *TailspinToysIncorporated.onmicrosoft.</span>com*) and  *_TenantAdmin_* credentials (Global admin credentials must be entered), and then requests consent.
     
 > [!NOTE]
 > Depending on the number of users in your tenant, the checker could complete in minutes or hours. 
