@@ -21,6 +21,7 @@ search.appverid:
 - GEA150
 ms.assetid: 8f0454b2-f51a-4d9c-bcde-2c48e41621c6
 description: "Learn how to set up multi-factor authentication for Office 365 users and manage the user settings. "
+monikerRange: 'o365-worldwide'
 ---
 
 # Set up multi-factor authentication
