@@ -142,7 +142,7 @@
 ### [Manage guest access in Groups](create-groups/manage-guest-access-in-groups.md)
 ## Troubleshoot
 ### [Troubleshoot issues](troubleshoot-issues-for-admins/troubleshoot-issues-for-admins.md)
-### [Fix Outlook and Office 365 issues](troubleshoot-issues-for-admins/fix-outlook-and-office-365-issues.md)
+### [Fix Outlook and Office 365 issues using Support and Recovery Assistant](https://support.office.com/article/e90bb691-c2a7-4697-a94f-88836856c72f)
 ### [Diagnostic log collection in Support and Recovery Assistant](troubleshoot-issues-for-admins/diagnostic-log-collection-in-support-and-recovery-assistant.md)
 ### [Troubleshoot email issues](troubleshoot-issues-for-admins/troubleshoot-email-issues.md)
 ### [Distribution group issues](troubleshoot-issues-for-admins/distribution-list-issues.md)
