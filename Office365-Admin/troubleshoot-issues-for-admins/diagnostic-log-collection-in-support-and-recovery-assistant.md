@@ -73,7 +73,7 @@ Support and Recovery Assistant will collect log data if either of the following 
     
 ## Related articles
 
-- [Fix Outlook and Office 365 issues with Microsoft Support and Recovery Assistant for Office 365](fix-outlook-and-office-365-issues.md)
+- [Microsoft Support and Recovery Assistant](https://support.office.com/article/microsoft-support-and-recovery-assistant-sara-e90bb691-c2a7-4697-a94f-88836856c72f)
     
 - [Download Microsoft Support and Recovery Assistant](https://diagnostics.outlook.com/)
     
