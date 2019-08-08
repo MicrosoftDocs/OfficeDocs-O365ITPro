@@ -31,7 +31,7 @@ Check out the video below or follow the steps to complete your trial signup.
   
 1. To sign up for an Office 365 business trial subscription, go to the [Office Products site](https://www.aka.ms/office365signup). 
     
-2. Choose the plan you want to sign up for, such as **Office 365 Business Premium**, scroll down the page, and select **Try for free**.
+2. Select the plan you want to sign up for, such as **Office 365 Business Premium**, scroll down the page, and select **Try for free**.
     
 3. On the **Welcome...** page, enter your business information.
 
@@ -41,4 +41,4 @@ Check out the video below or follow the steps to complete your trial signup.
 
 6. The signup process may take several minutes to complete. Once it's complete, select **You're ready to go**.
 
-You'll get an email with details on how to start using your Office 365 subscription.
+You'll get an email with details on how to start using your subscription.

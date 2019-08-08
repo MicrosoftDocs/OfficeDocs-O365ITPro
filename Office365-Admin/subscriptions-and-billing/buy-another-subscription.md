@@ -37,21 +37,21 @@ After purchasing a new subscription, you'll need to assign the users who you wan
 
 ::: moniker range="o365-worldwide"
 
-### Use the admin center (preview) to buy another subscription
+### Use the new admin center to buy another subscription
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=868433" target="_blank">Purchase services</a> page.
 
-2. On the **Purchase services** page, choose the subscription that you want to buy, then choose **Buy**.
+2. On the **Purchase services** page, select the subscription that you want to buy, then select **Buy**.
 
-3. Enter the number of licenses that you need, and choose whether to pay each month or for the whole year. Choose whether you want to automatically assign licenses to everyone who does not currently have a license. Then choose **Check out now**.
+3. Enter the number of licenses that you need, and choose whether to pay each month or for the whole year. Choose whether you want to automatically assign licenses to everyone who does not currently have a license. Then select **Check out now**.
 
-4. Your cart opens. If your cart disappears from the screen, choose **Cart** to reopen it, review the order and then choose **Check Out**.
+4. Your cart opens. If your cart disappears from the screen, select **Cart** to reopen it, review the order and then select **Check Out**.
 
-5. Review the pricing information and choose **Next**.
+5. Review the pricing information and select **Next**.
 
-6. Provide your payment information, and then choose **Place order** \> **Go to Admin Home**.
+6. Provide your payment information, and then select **Place order** \> **Go to Admin Home**.
 
 ::: moniker-end
 
@@ -65,25 +65,25 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
-2. On the **Subscription** page, choose **Add subscriptions**.
+2. On the **Subscription** page, select **Add subscriptions**.
 
     You'll see the subscriptions that are available to your organization. Any subscriptions that you've already purchased are identified like this.
 
     ![Banner that shows that a subscription has already been purchased for this organization.](../media/9e18d31a-24a5-4c64-a71c-fafd4a4feb28.png)
   
-3. Mouse over or tap the subscription that you want to buy, and then choose **Buy Now**.
+3. Mouse over or tap the subscription that you want to buy, and then select **Buy Now**.
 
     ![Buy now link on the purchase services page of the Microsoft 365 admin center.](../media/f344c0a8-c58f-461d-b8e9-cddbb18f8ee8.png)
   
-4. Enter the number of user licenses you need, chose whether to pay each month or for the whole year, and then choose **Add to Cart**.
+4. Enter the number of user licenses you need, chose whether to pay each month or for the whole year, and then select **Add to Cart**.
 
-5. Your cart opens. If your cart disappears from the screen, choose **Cart** to reopen it, review the order and then choose **Check Out**.
+5. Your cart opens. If your cart disappears from the screen, select **Cart** to reopen it, review the order and then select **Check Out**.
 
-6. Review the pricing information and choose **Next**.
+6. Review the pricing information and select **Next**.
 
-7. Provide your payment information, and then choose **Place order**.
+7. Provide your payment information, and then select **Place order**.
 
-8. On the confirmation page, choose **Go to Admin Home**.
+8. On the confirmation page, select **Go to Admin Home**.
 
 ## Related topics
 

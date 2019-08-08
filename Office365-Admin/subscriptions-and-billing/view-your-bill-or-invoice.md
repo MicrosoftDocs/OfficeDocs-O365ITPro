@@ -40,15 +40,14 @@ If you need help interpreting the charges you see on your bill, see [Understand 
   
 ## View a bill or invoice
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=848039" target="_blank">Bills</a> page.
 
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=848040" target="_blank">Bills</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=848039" target="_blank">Bills & payments</a> page.
 
-2. Pick a date range from the drop down, then choose **View**.
-  
-3. Find the order you want to view, and then choose **View Details**.
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=848040" target="_blank">Bills & payments</a> page.
 
-4. On the **Bill Details** page, you can see the following:
+2. Select a date range from the drop-down list, and then choose the order you want to view.
+
+3. On the summary page, you can see the following:
 
   - The total balance, the current amount due, the payment due date, the amount of the last payment, and the date it was received.
 
@@ -58,9 +57,8 @@ If you need help interpreting the charges you see on your bill, see [Understand 
 
   - The order creation date, and the order number.
 
-5. To view the invoice for a specific month, in the **Invoice** section, choose a month and a year, then choose **Show**.
+4. To print or save a PDF copy of the invoice, select **Download PDF**.
 
-6. To print or save a PDF copy of the invoice, choose **View invoice (.pdf)**.
 
 ## Stop receiving a copy of my billing statement in email
 

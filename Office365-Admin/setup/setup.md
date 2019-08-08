@@ -40,7 +40,7 @@ Not a business? See [Set up for Office 365 Home or Office 365 Personal](https://
  *These steps are for businesses and [nonprofits](https://go.microsoft.com/fwlink/p/?LinkId=627221) that have the **[Office 365 Business Premium plan.](https://go.microsoft.com/fwlink/p/?LinkId=627220)*** 
 ### 1. Sign up
 
-1. To sign up for an Office 365 business plan, go to the [Office Products site](https://www.aka.ms/office365signup) and choose **Buy now**. 
+1. To sign up for an Office 365 business plan, go to the [Office Products site](https://www.aka.ms/office365signup) and select **Buy now**. 
     
 2. Choose the plan you want to sign up for, such as **Office 365 Business Premium**.
     
@@ -54,27 +54,27 @@ More at [Sign up for Office 365 Business Premium](https://support.office.com/art
 
 ::: moniker range="o365-worldwide"
 
-To install the Office apps, go to the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339).
+To install the Office apps, go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>. 
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-If you're using Office 365 Germany, go to [this Admin center](https://go.microsoft.com/fwlink/p/?linkid=848041).
+If you're using Office 365 Germany, go to [this admin center](https://go.microsoft.com/fwlink/p/?linkid=848041).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-If you're using Office 365 operated by 21Vianet, go to [this Admin center.](https://go.microsoft.com/fwlink/p/?linkid=850627)
+If you're using Office 365 operated by 21Vianet, go to [this admin center.](https://go.microsoft.com/fwlink/p/?linkid=850627)
 
 ::: moniker-end
 
-1. To start the wizard, choose **Go to setup**.
+1. To start the wizard, select **Go to setup**.
     
-2. Under **Install your Office apps**, choose **Get started**.
+2. Under **Install your Office apps**, select **Get started**.
     
-3. Under **Microsoft Office Professional Plus**, choose **Install now**.
+3. Under **Microsoft Office Professional Plus**, select **Install now**.
     
 4. Choose your language, and then **Install**.
     
@@ -88,11 +88,11 @@ More at [Install Office](https://support.office.com/article/4d2a1b69-6d8c-45d1-8
     
     (If you're using a Mac, open Outlook from the toolbar or locate it using the Finder.)
     
-    If you've just installed Outlook, on the Welcome page, choose **Next**.
+    If you've just installed Outlook, on the Welcome page, select **Next**.
     
 2. Choose **File** \> **Info** \> **Add Account**.
     
-3. Enter your Office 365 email address and choose **Connect**.
+3. Enter your Office 365 email address and select **Connect**.
     
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/9fe86884-8a83-42cc-bca9-61a12e6dad31?autoplay=false]
   
@@ -106,7 +106,7 @@ If you were using Outlook with another email account, you can import your previo
     
     In Outlook, choose **File** \> **Open &amp; Export** \> **Import/Export**.
     
-    Choose **Export to a File** and then follow the steps to export your Outlook Data File (.pst) and any subfolders. 
+    Select **Export to a File** and then follow the steps to export your Outlook Data File (.pst) and any subfolders. 
     
 2. **Import your old email**
     
@@ -122,9 +122,9 @@ More at [Import email with Outlook](https://support.office.com/article/6a3771d4-
 
 Office 365 doesn't include a public website for your business. If you want to set one up, consider using a Microsoft partner, such as GoDaddy or WIX.
   
-1. From the Admin center, go to **Resources**, and then choose **Public website**.
+1. From the admin center, go to **Resources**, and then select **Public website**.
     
-2. Choose **Learn more** under one of the options, and then sign up with a website partner and use their tools to set up and design your site. 
+2. Select **Learn more** under one of the options, and then sign up with a website partner and use their tools to set up and design your site. 
     
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/4839abc6-9323-4cbf-a79d-2907235f9ebb?autoplay=false]
   
@@ -139,23 +139,24 @@ In this step, you use the Setup wizard to create Office 365 accounts for your us
   
 ::: moniker range="o365-worldwide"
 
-Go to the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339).
+Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>. 
+
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-If you're using Office 365 Germany, go to [this Admin center](https://go.microsoft.com/fwlink/p/?linkid=848041).
+If you're using Office 365 Germany, go to [this admin center](https://go.microsoft.com/fwlink/p/?linkid=848041).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-If you're using Office 365 operated by 21Vianet, go to [this Admin center.](https://go.microsoft.com/fwlink/p/?linkid=850627).
+If you're using Office 365 operated by 21Vianet, go to [this admin center.](https://go.microsoft.com/fwlink/p/?linkid=850627).
 
 ::: moniker-end
 
-1. To start the wizard, choose **Go to setup**.
+To start the wizard, select **Go to setup**.
     
    To learn more, see [Add users and domain to Office 365](add-domain.md).
   
@@ -187,19 +188,19 @@ If you're using Office 365 operated by 21Vianet, sign in at [https://portal.part
 
 ::: moniker-end
 
-1. Choose **Mail**.
+1. Select **Mail**.
     
 2. On the Outlook navigation bar, select **Settings**![Settings: update your profile, install software and connect it to the cloud](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **Options**.
     
-3. In the left pane, choose **Mail**, and under **Accounts**, choose **Connected accounts**.
+3. In the left pane, select **Mail**, and under **Accounts**, select **Connected accounts**.
     
     Not all features are available in every region. If you don't see the **Connected accounts** option, this feature may not be available for your account. 
     
 4. On the **Connect your email account** page, enter your full email address, such as rob@contoso.com, and the password of the email account you want to connect to Outlook. 
     
-5. Choose **OK**.
+5. Select **OK**.
     
-    **IMPORTANT**: If you get a message that Outlook couldn't connect to the server for your other account, choose **Back** and make sure you entered the correct email address and password for your account. **Typos are really common!**
+    **IMPORTANT**: If you get a message that Outlook couldn't connect to the server for your other account, select **Back** and make sure you entered the correct email address and password for your account. **Typos are really common!**
     
 Need more detailed steps or help? See [Connect email accounts in Outlook on the web (Office 365)](https://support.office.com/article/d7012ff0-924f-4f78-8aca-c3912d886c4d.aspx).
   
@@ -209,7 +210,7 @@ You and your team members can [download and install Skype for Business](https://
   
 ::: moniker range="o365-worldwide"
 
-Go to [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).
+Go to [https://admin.microsoft.com/OLS/MySoftware.aspx](https://admin.microsoft.com/OLS/MySoftware.aspx).
 
 ::: moniker-end
 
@@ -227,7 +228,7 @@ If you're using Office 365 operated by 21Vianet, go to [https://portal.partner.m
 
 1. Sign in with your work or school account.
     
-2. Select **Skype for Business** and choose **Install**.
+2. Select **Skype for Business** and select **Install**.
     
 ### 5. Store files online
 
@@ -237,7 +238,7 @@ Everyone gets a **OneDrive** cloud storage location automatically when you creat
   
 1. On your computer, use File Explorer to open OneDrive. Or, from [Office 365](https://www.office.com), open **OneDrive** from the app launcher. 
     
-2. View and upload personal files, or share documents or folders by clicking **Share** and then either inviting others to view the documents or sending them a link. To learn more, see [Share OneDrive files and folders](https://support.office.com/article/9fcc2f7d-de0c-4cec-93b0-a82024800c07.aspx#OS_Type=OneDrive_-_Business).
+2. View and upload personal files, or share documents or folders by selecting **Share** and then either inviting others to view the documents or sending them a link. To learn more, see [Share OneDrive files and folders](https://support.office.com/article/9fcc2f7d-de0c-4cec-93b0-a82024800c07.aspx#OS_Type=OneDrive_-_Business).
     
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ae41e744-2c83-413f-bae3-f9e50a45d435?autoplay=false]
   
@@ -249,30 +250,31 @@ To take a tour of Office 365 and learn how to use all the Office mobile apps, se
   
 ## [Business](#tab/Business)
   
- *The **[Office 365 Business Plan](https://go.microsoft.com/fwlink/p/?LinkId=627219)** plan does not include Office 365 email or Skype for Business. In these setup steps, we show you how to add your existing email account (such as Gmail) to Outlook. * 
+ *The **[Office 365 Business Plan](https://go.microsoft.com/fwlink/p/?LinkId=627219)** plan does not include Office 365 email or Skype for Business. In these setup steps, we show you how to add your existing email account (such as Gmail) to Outlook.* 
+
 ### 1. Add users
 
 In this step, you use the Setup wizard to create accounts and add your own domain. The wizard lets you personalize everyone's user ID and email for your business, like rob@contoso.com.
   
 ::: moniker range="o365-worldwide"
 
-Go to the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339).
+Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>. 
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-If you're using Office 365 Germany, go to [this Admin center](https://go.microsoft.com/fwlink/p/?linkid=848041).
+If you're using Office 365 Germany, go to [this admin center](https://go.microsoft.com/fwlink/p/?linkid=848041).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-If you're using Office 365 operated by 21Vianet, go to [this Admin center.](https://go.microsoft.com/fwlink/p/?linkid=850627).
+If you're using Office 365 operated by 21Vianet, go to [this admin center.](https://go.microsoft.com/fwlink/p/?linkid=850627).
 
 ::: moniker-end
 
-1. To start the wizard, choose **Go to setup**.
+To start the wizard, select **Go to setup**.
     
 ### 2. Install Office
 
@@ -280,7 +282,7 @@ Once you've created accounts for other people in your business, you and your tea
   
 ::: moniker range="o365-worldwide"
 
-Go to [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).
+Go to [https://admin.microsoft.com/OLS/MySoftware.aspx](https://admin.microsoft.com/OLS/MySoftware.aspx).
 
 ::: moniker-end
 
@@ -298,7 +300,7 @@ If you're using Office 365 operated by 21Vianet, go to [https://portal.partner.m
 
 1. Sign in with your work or school account.
     
-2. Choose **Install**.
+2. Select **Install**.
     
 Need more detailed steps or want to install the 64-bit version of Office? See [Step-by-step installation instructions](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx#BKMK_InstallSteps).
   
@@ -316,7 +318,7 @@ Everyone gets a **OneDrive** cloud storage location automatically when you creat
   
 1. On your computer, use File Explorer to open OneDrive. Or, from [Office 365](https://www.office.com), open **OneDrive** from the app launcher. 
     
-2. View and upload personal files, or share documents or folders by clicking **Share** and then either inviting others to view the documents or sending them a link. To learn more, see [Share OneDrive files and folders](https://support.office.com/article/9fcc2f7d-de0c-4cec-93b0-a82024800c07.aspx#OS_Type=OneDrive_-_Business).
+2. View and upload personal files, or share documents or folders by selecting **Share** and then either inviting others to view the documents or sending them a link. To learn more, see [Share OneDrive files and folders](https://support.office.com/article/9fcc2f7d-de0c-4cec-93b0-a82024800c07.aspx#OS_Type=OneDrive_-_Business).
     
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ae41e744-2c83-413f-bae3-f9e50a45d435?autoplay=false]
   
@@ -339,27 +341,27 @@ To take a tour of Office 365 and learn how to use all the Office mobile apps, se
     
 ### 1. Add your school domain or connect your directory
 
-In this step, you sign in to the Office 365 portal and add your school domain to your Office 365 subscription. This will verify to Microsoft that you qualify for an education subscription.
+In this step, you sign in to the Office 365 portal and add your school domain to your subscription. This will verify to Microsoft that you qualify for an education subscription.
   
 ::: moniker range="o365-worldwide"
 
-Go to the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339).
+Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>. 
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-If you're using Office 365 Germany, go to [this Admin center](https://go.microsoft.com/fwlink/p/?linkid=848041).
+If you're using Office 365 Germany, go to [this admin center](https://go.microsoft.com/fwlink/p/?linkid=848041).
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-If you're using Office 365 operated by 21Vianet, go to [this Admin center.](https://go.microsoft.com/fwlink/p/?linkid=850627).
+If you're using Office 365 operated by 21Vianet, go to [this admin center.](https://go.microsoft.com/fwlink/p/?linkid=850627).
 
 ::: moniker-end
 
-1. To start the wizard, choose **Go to setup**.
+To start the wizard, select **Go to setup**.
     
 For a walkthrough of what happens when you run the wizard, see [Using the Office 365 setup wizard](https://support.office.com/article/3c62a3b7-1680-41ca-943c-0ff01566bace.aspx).
   

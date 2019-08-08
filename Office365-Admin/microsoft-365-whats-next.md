@@ -72,7 +72,7 @@ Currently, you can only restore deleted Office 365 groups from the Exchange admi
 
 ### Add user template
 
-You always add a user with the same defaults like assigning licenses and user roles. Create a template to add users with your org's defaults with just one click. <br>
+You always add a user with the same defaults like assigning licenses and user roles. Create a template to add users with your org's defaults with just one step. <br>
 [Give feedback for automated tasks](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/16255120-new-user-templates)
 
 ### Bulk management of groups
