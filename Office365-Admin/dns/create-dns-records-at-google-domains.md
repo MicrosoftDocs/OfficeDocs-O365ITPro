@@ -141,7 +141,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 ## Add the five CNAME records that are required for Office 365
 
-1. To get started, go to your domains page at Google Domains by using [this link](https://domains.google.com/registrar). You'll be prompted to sign in. To do so:
+1. To get started, go to your [Google Domains page] (https://domains.google.com/registrar). You'll be prompted to sign in. To do so:
     
 1. Choose **Sign In**.
     
