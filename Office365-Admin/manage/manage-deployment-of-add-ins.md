@@ -1,5 +1,5 @@
 ---
-title: "Manage deployment of Office 365 add-ins in the Microsoft 365 admin center"
+title: "Manage deployment of Office 365 add-ins in the admin center"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -26,7 +26,7 @@ description: "Learn to deploy add-ins to users and groups in your organization b
 
 # Manage deployment of Office 365 add-ins in the Microsoft 365 admin center
 
-Office add-ins help you personalize your documents and streamline the way you access information on the web (see [Start using your Office Add-in](https://support.office.com/article/82e665c4-6700-4b56-a3f3-ef5441996862.aspx)). As an Office 365 admin, you can deploy Office add-ins for the users in your organization. You can do this using the Centralized Deployment feature in the Microsoft 365 admin center.
+Office add-ins help you personalize your documents and streamline the way you access information on the web (see [Start using your Office Add-in](https://support.office.com/article/82e665c4-6700-4b56-a3f3-ef5441996862.aspx)). As an admin, you can deploy Office add-ins for the users in your organization. You can do this using the Centralized Deployment feature in the Microsoft 365 admin center.
   
 Centralized Deployment is the recommended and most feature-rich way for most admins to deploy add-ins to users and groups within an organization. For more information on how to determine if your organization can support Centralized Deployment, see [Determine if Centralized Deployment of add-ins works for your Office 365 organization](centralized-deployment-of-add-ins.md).
   
@@ -53,53 +53,33 @@ Consider rolling out add-ins in a phased approach to help ensure your add-in dep
     
 Depending on the size of the target audience, you may want to add or remove roll-out steps.
   
-## Deploy an Office add-in using the Microsoft 365 admin center
+## Deploy an Office add-in using the admin center
 
 Before you begin, see [Determine if Centralized Deployment of add-ins works for your Office 365 organization](centralized-deployment-of-add-ins.md).
 
   
-1. [Where to sign in to Office 365 for business](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) with your work or school account. 
+1. In the admin center, go to the **Settings** \> [Services &amp; add-ins](https://go.microsoft.com/fwlink/p/?linkid=2053743) page.
     
-2. Select **Admin** ![App launcher icon in Office 365](../media/admincentericon.png) from the list of apps.<br/> TIP: **Admin** appears only to Office 365 admins. 
+2. Select **Deploy Add-in** at the top of the page. On the overview page, select **Next**.
+    
+3. Select an option and follow the instructions.
   
-3. In the navigation menu, choose **Settings** \> **Services &amp; add-ins**. 
-    
-4. Choose **Deploy Add-in** at the top of the page. You will see the following introduction. 
+4. If you selected the option to add an add-in from the Office Store, you can now make your add-in selection. Notice that you can view available add-ins via categories of **Suggested for you**, **Rating**, or **Name**. Only free add-ins are available to add from the Office Store. Paid add-ins aren't supported currently. Once you've selected your add-in, you will need to agree to some additional terms and conditions in order to proceed. <br/><br/> NOTE: With the Office Store option, updates and enhancements to the add-in will automatically be made available to users without your intervention.
 
-![Add-in dialog introducing Centralized Deployment](../media/centralizeddeploymentstep1.png)
-
-If you do not wish to see this every time you deploy, check the box before choosing **Next**.
-    
-5. Choose from one of the following options on the **Centralized Deployment** page: 
-    
-  - **I want to add an Add-in from the Office Store**
-    
-  - **I have the manifest file (.xml) on this device**: For this option, select **Browse** to locate the manifest file (.xml) that you want to use. 
-    
-  - **I have a URL for the manifest file**: For this option, type the URL in the field provided. 
-    
-![Add-in dialog for Centralized Deployment](../media/centralizeddeploymentstep2.png)
+5. On the next page, select **Everyone**, **Specific users/groups** or **Just me** to specify who the add-in is deployed to. Use the Search box to find the users or groups who you want to deploy the add-in to. <br/>NOTE: Learn about the other states that apply to an add-in. See [Add-in states](#add-in-states) later in this topic.
   
-6. Select **Next**. 
-    
-7. If you selected the option to add an add-in from the Office Store, you can now make your add-in selection. Notice that you can view available add-ins via categories of **Suggested for you**, **Rating**, or **Name**. Only free add-ins are available to add from the Office Store. Paid add-ins aren't supported currently. Once you've selected your add-in, you will need to agree to some additional terms and conditions in order to proceed. <br/> NOTE: With the Office Store option, updates and enhancements to the add-in will automatically be made available to users without your intervention.<br/> ![Select an Add-in dialog for the Office Store](../media/centralizeddeploymentstep3.png)
+6. Select **Deploy**.
   
-8. In **Specify who has access**, select **Everyone**, **Specific users/groups** or **Just me** to specify who the add-in is deployed to. Use the Search box to find the users or groups who you want to deploy the add-in to. <br/>NOTE: Learn about the other states that apply to an add-in. See [Add-in states](#add-in-states) later in this topic.<br/>![Centralized Deployment page for the Power BI Tiles add-in](../media/centralizeddeploymentstep4.png)
-  
-9. Select **Deploy Now**.
-  
-10. The add-in has now been deployed. A green tick will appear when this has been completed. You can follow the on page instructions in order to test that the add-in has deployed successfully.
-
-![Centralized Deployment page success](../media/centralizeddeploymentstep6.png)
+7. A green tick will appear when the add-in has been deployed. You can follow the on-page instructions to test that the add-in has deployed successfully.
 
 > [!NOTE]
 > Users may need to relaunch Office to see the add-in icon appear on the ribbon of app. Outlook add-ins can take up to 12 hours to appear on users' ribbons.
     
-11. When finished, choose **Next**. If you've deployed to just yourself, you can choose **Change who has access to add-in** in order to deploy to more users.
+8. When finished, select **Next**. If you've deployed to just yourself, you can select **Change who has access to add-in** in order to deploy to more users.
 
-![Centralized Deployment page for just me deployments](../media/centralizeddeploymentstep7.png)
 
-If you've deployed the add-in to members of your orgnisation other than yourself, follow the instructions displayed in order to effectively announce the deployment of the add-in. <br/>You now see your add-in along with other apps in Office 365.<br/>![Microsoft 365 admin center deployed Add In](../media/centralizeddeploymentstep8.png)
+
+If you've deployed the add-in to members of your orgnization other than yourself, follow the instructions displayed in order to effectively announce the deployment of the add-in. <br/>You now see your add-in along with other apps in Office 365.
   
 It's a good idea to inform the users and groups who you deployed the add-in to so that they know that it's available. Consider sending an email to them that describes when and how to use the add-in and explains how the add-in can help them do their job better. Include or link to relevant Help content or FAQs that might help if users have any problems with the add-in.
   
@@ -160,15 +140,11 @@ As an organization you may wish to prevent the download of new Office add-ins fr
   
 To turn off add-in acquisition:
   
-1. Go to the [Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=869152).
+1. In the admin center, go to the **Settings** \> [Services &amp; add-ins](https://go.microsoft.com/fwlink/p/?linkid=2053743) page.
     
-2. Choose **Settings** \> **Services &amp; add-ins**.
+3. Select **User owned apps and services**.
     
-3. Choose **User owned apps and services**.
-    
-4. Uncheck the check-boxes next to  **Let users access the Office store**.
-    
-    ![Uncheck Let users access the Office Store on the User owned apps and services panel.](../media/userownedapps2.png)
+4. Clear the option to let users access the Office store.
 
 This will prevent all users from acquiring the following add-ins from the store.
   
@@ -264,7 +240,7 @@ If the deployed add-in doesn't support add-in commands or if you want to view al
   
 ### In Word 2016, Excel 2016, or PowerPoint 2016
 
-1. Choose **Insert \> My Add-ins**. 
+1. Select **Insert \> My Add-ins**. 
     
 2. Select the **Admin Managed** tab in the Office Add-ins window. 
     
@@ -272,9 +248,9 @@ If the deployed add-in doesn't support add-in commands or if you want to view al
   
 ### In Outlook
 
-1. On the **Home** ribbon, choose **Get Add-ins**.<br/>![Store button in Outlook](../media/getaddinsicon.png)
+1. On the **Home** ribbon, select **Get Add-ins**.<br/>![Store button in Outlook](../media/getaddinsicon.png)
   
-2. Choose **Admin-managed** in the left nav.
+2. Select **Admin-managed** in the left nav.
   
 ## Learn more
 

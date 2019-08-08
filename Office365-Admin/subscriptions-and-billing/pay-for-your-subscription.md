@@ -43,13 +43,13 @@ If you pay by credit card, and your credit card is declined, you'll receive an e
 
 ::: moniker range="o365-worldwide"
 
-#### Use the admin center (preview) to pay your outstanding balance
+#### Use the new admin center to pay your outstanding balance
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Find the subscription with the outstanding balance. In the **Billing** section, choose **Pay now**.
+2. Find the subscription with the outstanding balance. In the **Billing** section, select **Pay now**.
 
 3. If you're the credit card owner, you can change the expiration date for the card, pick a different card, or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
 
@@ -58,11 +58,8 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
 4. If you're not the credit card owner, you can choose a different credit card or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
 
-5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, choose **Submit payment**.
+5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, select **Submit payment**.
 
-::: moniker-end
-
-::: moniker range="o365-worldwide"
 #### Use the old admin center to pay your outstanding balance
 ::: moniker-end
   
@@ -70,7 +67,7 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
-2. Choose the subscription that you want to change. In the **My bill** section, choose **Pay now**.
+2. Select the subscription that you want to change. In the **My bill** section, select **Pay now**.
   
 3. If you're the credit card owner, you can change the expiration date for the card, pick a different card, or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
 
@@ -79,7 +76,7 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
 4. If you're not the credit card owner, you can choose a different credit card or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
 
-5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, choose **Submit**. You'll see a confirmation message that says "Your payment method has been updated and all outstanding charges are settled. Thank you."
+5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, select **Submit**. You'll see a confirmation message that says "Your payment method has been updated and all outstanding charges are settled. Thank you."
 
 ## Pay by invoice (check or EFT)
 
@@ -104,7 +101,7 @@ Unfortunately, if your subscription is set up to pay by invoice, we can't accept
   
 If you're not sure how much you owe, you can [check your bill and billing history online](view-your-bill-or-invoice.md). For Azure, see [How to download your Azure billing invoice and daily usage data](http://go.microsoft.com/fwlink/p/?LinkId=718058).
   
- **Choose your "bill-to" country or region from the dropdown menu below.**
+ **Choose your "bill-to" country or region from the drop-down menu below.**
   
 > [!div class="op_single_selector"]
 > - **Choose your country or region**
@@ -274,7 +271,7 @@ You can choose to receive a copy of your billing statement as an email attachmen
 
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=853213" target="_blank">Billing notifications</a> page.
 
-2. Under **Do you want to receive the billing statement as an email attachment?**, switch the toggle to **On**.
+2. Under **Receive billing statement as email attachment?**, switch the toggle to **On**.
 
     You can stop receiving the billing statement emails at any time by switching the toggle to **Off**.
 

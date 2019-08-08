@@ -75,12 +75,11 @@ Here are the steps you'll do when you run the setup wizard:
     
     ![Finished! Go to the Microsoft 365 admin center.](../media/54660b65-4ded-4fc8-b455-973e508440c4.png)
   
-8. Now you can go to the Microsoft 365 admin center, where you can change the domain of your Office 365 admin account. Plus you can manage your billing information, add or remove users, reset passwords, and do other business functions.
+8. Now you can go to the Microsoft 365 admin center, where you can change the domain of your admin account. Plus you can manage your billing information, add or remove users, reset passwords, and do other business functions.
     
     > [!NOTE]
-    > You can also update your account to the new domain on the **Users** page. 
+    > You can also update your account to the new domain on the **Active users** page. 
   
-    ![Microsoft 365 admin center](../media/fa684809-8a8b-461a-a0e1-03e9e22134d2.png)
   
 If you get stuck at any point, call us. [We're here to help!](../contact-support-for-business-products.md)
   
@@ -98,7 +97,7 @@ There are a couple of scenarios that include either migrating data or users from
 
 - **If you have fewer than 50 employees:**
     
-  - **Ask for help and we'll call you**. After you buy Office 365, you can access your Microsoft 365 admin center (you don't need to run setup to get to it). At the bottom of your Microsoft 365 admin center page, choose **Need help?** Describe your problem, and we'll call you. 
+  - **Ask for help and we'll call you**. After you buy Office 365, you can access your Microsoft 365 admin center (you don't need to run setup to get to it). At the bottom of your admin center page, select **Need help?** Describe your problem, and we'll call you. 
     
       
   - **Call [Office 365 for Business Support](../contact-support-for-business-products.md) with your questions**. We're here to help! 
@@ -127,7 +126,7 @@ There are a couple of scenarios that include either migrating data or users from
 
 Each person in your business can install the Office 2016 suite of apps (Word, Excel, PowerPoint, and so on) on up to 5 PCs and Macs. See the operating system and computer requirements for installing [Office 2016 suites](https://go.microsoft.com/fwlink/?LinkId=534827) for business. 
   
-Office 365 mobile apps can be installed on iOS, Android, and Windows devices. You can find information on mobile device and browser support in [System requirements for Office](https://go.microsoft.com/fwlink/?LinkId=534827).
+Mobile apps can be installed on iOS, Android, and Windows devices. You can find information on mobile device and browser support in [System requirements for Office](https://go.microsoft.com/fwlink/?LinkId=534827).
   
 ## Plan for email
 

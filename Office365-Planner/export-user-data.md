@@ -41,7 +41,7 @@ Do the following to unblock these files:
 
     ![unblock-files](media/unblock-files.png) 
 
-4. Click **OK**.
+4. Select **OK**.
 
 5. Repeat these steps for the remaining two files.
 

@@ -52,7 +52,7 @@ When someone leaves your organization, you can remove a license from that person
   
 If you have more than one subscription, you can assign licenses to different people for each subscription.
   
-![Visio Pro and O365 Business Premium connected to multiple user icons.](../media/1e60d97e-c27a-4508-b2f7-f587f4cd7e34.png)
+![Visio Pro and Office 365 Business Premium connected to multiple user icons.](../media/1e60d97e-c27a-4508-b2f7-f587f4cd7e34.png)
   
 ## Find out who can assign licenses
 
