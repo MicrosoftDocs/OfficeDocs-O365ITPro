@@ -37,7 +37,7 @@ When you purchase a subscription, you can use a promotional code to reduce the p
     
     ![Image of the Enter promo code text box](../media/ed3194b0-47ce-44a8-84de-fd01d005c920.png)
   
-3. Choose **apply**. You should see **Promo code successfully applied** beneath the box. If you see a different message, refer to [Troubleshooting promo codes](#troubleshooting-promo-codes) to figure out why. 
+3. Select **apply**. You should see **Promo code successfully applied** beneath the box. If you see a different message, refer to [Troubleshooting promo codes](#troubleshooting-promo-codes) to figure out why. 
     
 4. Continue checking out. On the **Order confirmation** page, you'll see **Discount from promo code** beside an amount. 
     

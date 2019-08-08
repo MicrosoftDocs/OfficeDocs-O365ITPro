@@ -46,7 +46,7 @@ This article explains how to disable the ability to create groups **in all Offic
     
 You can restrict Office 365 Group creation to the members of a particular security group. To configure this, you use Windows PowerShell. This article walks you through the needed steps.
   
-The steps in this article doesn't prevent members of certain roles from creating Office 365 Groups. Office 365 Global admins may create Office 365 Groups via any means, such as the Microsoft 365 Admin center, Planner, Teams, Exchange, and SharePoint Online. Other roles may create Office 365 Groups via limited means, listed below.
+The steps in this article won't prevent members of certain roles from creating Groups. Office 365 Global admins can create Groups via any means, such as the Microsoft 365 admin center, Planner, Teams, Exchange, and SharePoint Online. Other roles can create Groups via limited means, listed below.
         
   - Exchange Administrator: Exchange Admin center, Azure AD
     
@@ -66,29 +66,29 @@ If you're a member of one of these roles, you can create Office 365 Groups for r
 
 ## Licensing requirements
 
-To manage who creates Office 365 Groups, the following people need Azure AD Premium licenses or Azure AD Basic EDU licenses assigned to them:
+To manage who creates Groups, the following people need Azure AD Premium licenses or Azure AD Basic EDU licenses assigned to them:
 
 - The admin who configures these group creation settings
-- The members of the security group who are allowed to create Office 365 Groups
+- The members of the security group who are allowed to create Groups
 
 The following people don't need Azure AD Premium or Azure AD Basic EDU licenses assigned to them:
 
-- People who are members of Office 365 groups and who don't have the ability to create other Office 365 groups.
+- People who are members of Office 365 groups and who don't have the ability to create other groups.
 
 ## Step 1: Create a security group for users who need to create Office 365 Groups
 
-Only one security group in your organization can be used to control who is able to create Office 365 Groups. But, you can nest other security groups as members of this group. For example, the group named Allow Group Creation is the designated security group, and the groups named Microsoft Planner Users and Exchange Online Users are members of that group.
+Only one security group in your organization can be used to control who is able to create Groups. But, you can nest other security groups as members of this group. For example, the group named Allow Group Creation is the designated security group, and the groups named Microsoft Planner Users and Exchange Online Users are members of that group.
 
 Admins in the roles listed above do not need to be members of this group: they retain thier ability to create groups.
 
 > [!IMPORTANT]
-> Be sure to use a **security group** to restrict who can create Office 365 groups. If you try to use an Office 365 Group, members won't be able to create a group from SharePoint because it checks for a security group. 
+> Be sure to use a **security group** to restrict who can create groups. If you try to use an Office 365 Group, members won't be able to create a group from SharePoint because it checks for a security group. 
     
-1. In the Microsoft 365 admin center, create a group of type **Security group**. Remember the name of the group! You'll need it later.
-    
-    ![Create a security group in the admin center.](../media/bd2b3f5b-6521-4780-b94a-2aea2c18254e.png)
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
+
+2. Select **Add a group**, and then in the **Type** list, choose **Security**. Remember the name of the group! You'll need it later.
   
-2. Add people or other security groups who you want to be able to create Office 365 Groups groups in your org.
+2. Add people or other security groups who you want to be able to create Groups in your org.
     
 For detailed instructions, see [Create, edit, or delete a security group in the Microsoft 365 admin center](../email/create-edit-or-delete-a-security-group.md).
   
@@ -195,15 +195,11 @@ If you want to turn off the group creation restriction and again allow all users
 
 1. Sign in to Office 365 with a user account of someone who should NOT have the ability to create groups. That is, they are not a member of the security group you created or an administrator.
     
-2. Choose the **Planner** tile. 
+2. Select the **Planner** tile. 
     
-3. In Planner, in choose **New Plan** to create a plan. 
-    
-![In Planner, choose New plan.](../media/4cf6163e-bf86-4ece-9cba-409df7f6d193.png)
+3. In Planner, select **New Plan** in the left navigation to create a plan. 
   
-4. You should get a message that you can't create a plan:
-    
-![Message that you can't create a plan.](../media/9add4ae1-4e3b-4f4f-90ea-5af94d8018d1.png)
+4. You should get a message that plan and group creation is disabled.
 
 Try the same procedure again with a member of the security group.
 

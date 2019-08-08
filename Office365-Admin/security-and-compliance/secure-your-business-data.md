@@ -46,9 +46,9 @@ Microsoft recommends that you complete the tasks listed in the following table t
 |9  <br/> |[Protect against malicious attachments and files with ATP Safe Attachments](secure-your-business-data.md#atp) <br/> ||![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
 |10  <br/> |[Protect against phishing attacks with ATP Safe Links](secure-your-business-data.md#phishingatp) <br/> ||![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
    
-Before you begin, check your Office 365 Secure Score. Office 365 Secure Score analyzes your Office 365 organization's security based on your regular activities and security settings and assigns a score. Begin by taking note of your current score. Taking the actions recommended in this article increases your score. The goal is not to achieve the max score, but to be aware of opportunities to protect your environment that do not negatively affect productivity for your users. See [Introducing the Office 365 Secure Score](https://support.office.com/article/c9e7160f-2c34-4bd0-a548-5ddcc862eaef).
+Before you begin, check your [Microsoft 365 Secure Score](https://docs.microsoft.com/en-us/office365/securitycompliance/microsoft-secure-score) in the Microsoft 365 security center. From a centralized dashboard, you can monitor and improve the security for your Microsoft 365 identities, data, apps, devices, and infrastructure. You are given points for configuring recommended security features, performing security-related tasks (such as viewing reports), or addressing recommendations with a third-party application or software. With additional insights and more visibility into a broader set of Microsoft products and services, you can feel confident reporting about your organization’s security health.
   
-![Screenshot of a secure score.](../media/3f959654-826c-4db7-b107-4958e4f29903.png)
+![Screenshot of Microsoft Secure Score](../media/secure-score.png)
   
 ## 1: Set up multi-factor authentication
 <a name="setup"> </a>
@@ -60,11 +60,9 @@ To see a training video for how to set up MFA and how users complete the set up,
   
 To set up multi-factor authentication:
   
-1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com).
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=20243390), search for "multi" in the search bar and choose **Azure multi-factor authentication settings**.
     
-2. Search for "multi" in the search bar and choose **Azure multi-factor authentication settings**.
-    
-3. Choose **Manage multi-factor authentication**.
+3. Select **Manage multi-factor authentication**.
     
 4. Select users for multi-factor authentication, and then select **Enable**. Try out the experience in your business by enabling this for a couple of users first. Then extend the capability to all users, including your IT admins.
     
@@ -94,7 +92,7 @@ Microsoft also recommends that users protect their personal email accounts by ta
 ## 3: Use dedicated admin accounts
 <a name="admin"> </a>
 
-The administrative accounts you use to administer your Office 365 or Microsoft 365 environment include elevated privileges. These are valuable targets for hackers and cyber criminals. Use Office 365 administrator accounts only for administration. Admins should have a separate user account for regular, non-administrative use and only use their administrative account when necessary to complete a task associated with their job function. Additional recommendations:
+The administrative accounts you use to administer your Office 365 or Microsoft 365 environment include elevated privileges. These are valuable targets for hackers and cyber criminals. Use admin accounts only for administration. Admins should have a separate user account for regular, non-administrative use and only use their administrative account when necessary to complete a task associated with their job function. Additional recommendations:
   
 - Be sure admin accounts are also set up for multi-factor authentication. 
     
@@ -113,11 +111,11 @@ Your Office 365 or Microsoft 365 environment includes protection against malware
     
 3. Double-click the default policy to edit this company-wide policy.
     
-4. Click **Settings**.
+4. Select **Settings**.
     
 5. Under **Common Attachment Types Filter**, select **On**. The file types that are blocked are listed in the window directly below this control. You can add or delete file types later, if needed.
     
-6. Click **Save.**
+6. Select **Save.**
     
 For more information, see [Anti-malware protection](https://go.microsoft.com/fwlink/?linkid=2015692&amp;clcid=0x409).
   
@@ -134,17 +132,17 @@ You can protect against ransomware by creating one or more mail flow rules to bl
     
 To create a mail transport rule, view a [short training video](https://support.office.com/article/a9ecca03-42a6-4867-b9fd-38e3f6bb06ad), or complete the following steps:
   
-1. In the Microsoft 365 admin center, click **Admin centers** \> **Exchange**.
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
+
+2. In the **mail flow** category, select **rules**.
     
-2. In the **mail flow** category, click **rules**.
+3. Select **+**, and then **Create a new rule**.
     
-3. Click **+**, and then click **Create a new rule**.
-    
-4. Click **More options** at the bottom of the dialog box to see the full set of options. 
+4. Select **** at the bottom of the dialog box to see the full set of options. 
     
 5. Apply the settings in the following table for each rule. Leave the rest of the settings at the default, unless you want to change these.
     
-6. Click **Save**.
+6. Select **Save**.
     
 |**Setting**|**Warn users before opening attachments of Office files**|**Block file types that could contain ransomware or other malicious code**|
 |:-----|:-----|:-----|
@@ -170,17 +168,17 @@ Hackers who gain access to a user's mailbox can exfiltrate mail by configuring t
   
 To create a mail transport rule:
   
-1. In the Microsoft 365 admin center, click **Admin centers** \> **Exchange**.
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
+
+2. In the **mail flow** category, select **rules**.
     
-2. In the **mail flow** category, click **rules**.
+3. Select **+**, and then **Create a new rule**.
     
-3. Click **+**, and then click **Create a new rule**.
-    
-4. Click **More options** at the bottom of the dialog box to see the full set of options. 
+4. Select **More options** at the bottom of the dialog box to see the full set of options. 
     
 5. Apply the settings in the following table. Leave the rest of the settings at the default, unless you want to change these.
     
-6. Click **Save**.
+6. Select **Save**.
     
 |**Setting**|**Warn users before opening attachments of Office files**|
 |:-----|:-----|
@@ -205,11 +203,11 @@ Your organization might have configured additional options that apply a label to
   
 ### To send protected email
 
-In Outlook for PC, click **Options** in the email, and then click **Permissions**. 
+In Outlook for PC, select **Options** in the email, and then choose **Permissions**. 
   
 ![Email message encryption in Outlook](../media/08e90a7e-a2d2-41a4-bae9-0a46b4ce639a.png)
   
-In Outlook.com, click **Protect** in the email. The default protection is **Do not forward**. To change this to encrypt, click **Change Permissions** \> **Encrypt**. 
+In Outlook.com, select **Protect** in the email. The default protection is **Do not forward**. To change this to encrypt, select **Change Permissions** \> **Encrypt**. 
   
 ![Email message encryption in Outlook.com](../media/329ccf50-f6b1-4fb8-b249-60b907a82b7e.png)
   
@@ -228,21 +226,21 @@ If you've configured one or more custom domains for your Office 365 or Microsoft
   
 We recommend that you get started with this protection by creating a policy to protect your most important users and your custom domain. 
   
-![Creating an ATP anti-phishing policy](../media/d4bfb082-a257-46c6-879f-8c379e681817.png)
+![Creating an ATP anti-phishing policy](../media/security-and-compliance-center.png)
   
 To create an ATP anti-phishing policy, view a [short training video](https://support.office.com/article/86c425e1-1686-430a-9151-f7176cce4f2c), or complete the following steps:
   
 1. Go to [https://protection.office.com](https://protection.office.com). 
     
-2. In the Office 365 Security &amp; Compliance Center, in the left navigation pane, under **Threat management**, choose **Policy**.
+2. In the Office 365 Security &amp; Compliance Center, in the left navigation pane, under **Threat management**, select **Policy**.
     
-3. On the Policy page, choose **ATP anti-phishing**.
+3. On the Policy page, select **ATP anti-phishing**.
     
 4. On the Anti-phishing page, select **+ Create**. A wizard launches that steps you through defining your anti-phishing policy.
     
 5. Specify the name, description, and settings for your policy as recommended in the chart below. See [Learn about ATP anti-phishing policy options](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409) for more details. 
     
-6. After you have reviewed your settings, choose **Create this policy** or **Save**, as appropriate.
+6. After you have reviewed your settings, select **Create this policy** or **Save**, as appropriate.
     
 |
 |
@@ -251,7 +249,7 @@ To create an ATP anti-phishing policy, view a [short training video](https://sup
 |Description  <br/> |Ensure most important staff and our domain are not being impersonated.  <br/> |
 |Add users to protect  <br/> |Select **+ Add a condition, The recipient is**. Type user names or enter the email address of the candidate, campaign manager, and other important staff members. You can add up to 20 internal and external addresses that you want to protect from impersonation.  <br/> |
 |Add domains to protect  <br/> |Select **+ Add a condition, The recipient domain is**. Enter the custom domain associated with your Microsoft 365 subscription, if you defined one. You can enter more than one domain.  <br/> |
-|Choose actions  <br/> |If email is sent by an impersonated user: Choose **Redirect message to another email address**, and then type the email address of the security administrator; for example, securityadmin@contoso.com.          If email is sent by an impersonated domain: Choose **Quarantine message**.  <br/> |
+|Choose actions  <br/> |If email is sent by an impersonated user: select **Redirect message to another email address**, and then type the email address of the security administrator; for example, securityadmin@contoso.com.          If email is sent by an impersonated domain: select **Quarantine message**.  <br/> |
 |Mailbox intelligence  <br/> |By default, mailbox intelligence is selected when you create a new anti-phishing policy. Leave this setting **On** for best results.  <br/> |
 |Add trusted senders and domains  <br/> |For this example, don't define any overrides.  <br/> |
 |Applied to  <br/> |Select **The recipient domain is**. Under **Any of these**, select **Choose**. Select **+ Add**. Select the check box next to the name of the domain, for example, contoso.com, in the list, and then select **Add**. Select **Done**.  <br/> |
@@ -267,9 +265,9 @@ To create an ATP safe attachment policy, view a [short training video](https://s
   
 1. Go to [https://protection.office.com](https://protection.office.com) and sign in with your admin account. 
     
-2. In the Office 365 Security &amp; Compliance Center, in the left navigation pane, under **Threat management**, choose **Policy**.
+2. In the Office 365 Security &amp; Compliance Center, in the left navigation pane, under **Threat management**, select **Policy**.
     
-3. On the Policy page, choose **ATP safe attachments**.
+3. On the Policy page, select **ATP safe attachments**.
     
 4. On the Safe attachments page, apply this protection broadly by selecting the **Turn on ATP for SharePoint, OneDrive, and Microsoft Teams** check box. 
     
@@ -277,7 +275,7 @@ To create an ATP safe attachment policy, view a [short training video](https://s
     
 6. Apply the settings in the following table. 
     
-7. After you have reviewed your settings, choose **Create this policy** or **Save**, as appropriate.
+7. After you have reviewed your settings, select **Create this policy** or **Save**, as appropriate.
     
 |
 |
@@ -305,9 +303,9 @@ To get to ATP Safe Links, view a [short training video](https://support.office.c
   
 1. Go to [https://protection.office.com](https://protection.office.com) and sign in with your admin account. 
     
-2. In the Office 365 Security &amp; Compliance Center, in the left navigation pane, under **Threat management**, choose **Policy**.
+2. In the Office 365 Security &amp; Compliance Center, in the left navigation pane, under **Threat management**, select **Policy**.
     
-3. On the Policy page, choose **ATP Safe Links**.
+3. On the Policy page, select **ATP Safe Links**.
     
 To modify the default policy:
   
@@ -315,15 +313,15 @@ To modify the default policy:
     
 2. Under **Settings that apply to content except email**, select **Office 365 ProPlus, Office for iOS and Android**.
     
-3. Click **Save**. 
+3. Select **Save**. 
     
 To create a new policy targeted to all recipients in your domain:
   
-1. On the Safe links page, under **Policies that apply to the entire organization**, click **+** to create a new policy. 
+1. On the Safe links page, under **Policies that apply to the entire organization**, select **+** to create a new policy. 
     
 2. Apply the settings listed in the following table.
     
-3. Click **Save**. 
+3. Select **Save**. 
     
 |
 |

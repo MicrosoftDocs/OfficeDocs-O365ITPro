@@ -44,15 +44,13 @@ There are a few things to be aware of before you start using Cortana in Office 3
     
 ### Turn off Cortana in Office 365
 
-If you don't want Cortana to access your organization's data, you can turn Cortana off in the Microsoft 365 admin center. 
+If you don't want Cortana to access your organization's data, you can turn Cortana off in the admin center. 
   
-1. Sign in to Office 365 with your work or school account. 
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services & add-ins</a> page. 
+
+2. In the list, choose **Cortana**.
     
-2. Go to the [ Microsoft 365 admin center ](../admin-overview/about-the-admin-center.md).
-    
-3. Go to **Settings** \> **Services and add-ins** \> **Cortana**.
-    
-4. Click **Cortana** to toggle Cortana off. 
+3. Clear the check box to toggle Cortana off. 
     
 ## Windows 10 users
 
@@ -61,5 +59,4 @@ There are a few things to be aware of before you start using Cortana in Office 3
 - You can add your Outlook or Office 365 account as a connected service to Cortana and add reminders and tasks to your lists in Microsoft To-Do. You can also use Cortana to read and search messages in the Outlook desktop app.
     
 - Cortana with Office 365 only works on Windows 10 devices and is available in only certain languages and markets today.
-    
-
+   

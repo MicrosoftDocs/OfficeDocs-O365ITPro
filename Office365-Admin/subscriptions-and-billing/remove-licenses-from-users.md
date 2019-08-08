@@ -31,19 +31,19 @@ description: "Learn how to remove licenses from user accounts in Office 365 for 
 
 ::: moniker range="o365-worldwide"
   
-### Use the admin center (preview) to remove licenses from one user
+### Use the new admin center to remove licenses from one user
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
-1. In the admin center, go to the choose **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-2. On the **Active Users** page, choose the name of the user from whom you want to remove a license.
+2. On the **Active Users** page, select the name of the user from whom you want to remove a license.
 
-3. At the top, choose **Manage product licenses**.
+3. At the top, select **Manage product licenses**.
 
-4. In the user pane on the right, choose **Licenses and Apps**.
+4. In the user pane on the right, select **Licenses and Apps**.
 
-5. Expand the **Licenses** section, clear the boxes for the licenses that you want to remove, then choose **Save changes**.
+5. Expand the **Licenses** section, clear the boxes for the licenses that you want to remove, then select **Save changes**.
 
 ::: moniker-end
 
@@ -59,29 +59,29 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
 2. Pick the user from whom you want to remove the license.
 
-3. On the right, in the **Product licenses** row, choose **Edit**.
+3. On the right, in the **Product licenses** row, select **Edit**.
 
 4. In the **Product licenses** pane, switch the toggle to the **Off** position for the license you want to remove from the user. For example, switching off Office 365 Enterprise E3 license will remove that license from the user and all of the services under that license.
 
-5. At the bottom of the **Product licenses** pane, choose **Save** \> **Close** \> **Close**.
+5. At the bottom of the **Product licenses** pane, select **Save** \> **Close** \> **Close**.
 
 ## Remove licenses from multiple users
 
 ::: moniker range="o365-worldwide"
 
-### Use the admin center (preview) to remove licenses from multiple users
+### Use the new admin center to remove licenses from multiple users
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 2. Select the circles next to the names of the users from whom you want to remove licenses.
 
-3. At the top, choose **Manage product licenses**.
+3. At the top, select **Manage product licenses**.
 
-4. In the **Manage product licenses** pane, choose **Replace existing product license assignments** \> **Next**.
+4. In the **Manage product licenses** pane, select **Replace existing product license assignments** \> **Next**.
 
-5. At the bottom of the **Replace existing products** pane, select the **Remove all product licenses from the selected users.** check box, then choose **Replace** \> **Close**.
+5. At the bottom of the **Replace existing products** pane, select the **Remove all product licenses from the selected users** check box, then select **Replace** \> **Close**.
 
 ::: moniker-end
 
@@ -99,13 +99,13 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
 3. In the **Bulk actions** pane, choose **Edit product licenses**.
 
-4. In the **Replace existing products** pane, choose **Replace existing product license assignments** \> **Next**.
+4. In the **Replace existing products** pane, select **Replace existing product license assignments** \> **Next**.
 
-5. At the bottom of the **Replace existing products** pane, select the **Remove all product licenses from the selected users.** check box, then choose **Replace** \> **Close** \> **Close**.
+5. At the bottom of the **Replace existing products** pane, select the **Remove all product licenses from the selected users.** check box, then select **Replace** \> **Close** \> **Close**.
 
 ## What you need to know about removing licenses from users
 
-- You need to be either a Global admin or a User management admin. For more information, see [About Office 365 admin roles](../add-users/about-admin-roles.md).
+- You need to be either a Global admin or a User management admin. For more information, see [About admin roles](../add-users/about-admin-roles.md).
 
 - You can [remove licenses from user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=848428).
 

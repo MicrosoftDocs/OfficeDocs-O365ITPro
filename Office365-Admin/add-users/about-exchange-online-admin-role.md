@@ -48,7 +48,7 @@ If you have a large organization, the Exchange admin might want to assign users 
   
  For example, the Exchange admin might assign someone to the Discovery Management role group so they can perform searches of mailboxes for data that meets certain criteria. To learn more, see [Permissions in Exchange Online](https://docs.microsoft.com/exchange/permissions-exo/permissions-exo) and [Manage Role Groups](https://docs.microsoft.com/exchange/manage-role-groups-exchange-2013-help).
   
-## Learn about other Office 365 admin roles
+## Learn about other admin roles
     
 - [About the SharePoint Online admin role](https://docs.microsoft.com/sharepoint/sharepoint-admin-role)
     

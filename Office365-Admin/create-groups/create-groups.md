@@ -21,7 +21,7 @@ ms.assetid: 74a1ef8b-3844-4d08-9980-9f8f7a36000f
 description: "Learn to create and delete Office 365 groups, add and remove group members, and customize how the group works."
 ---
 
-# Create an Office 365 group in the admin center
+# Create an Office 365 group in the Microsoft 365 admin center
   
 While users can create an Office 365 group from Outlook or other apps, as an admin, you may need to create or delete groups, add or remove members, and customize how they work. The Microsoft 365 admin center is the place to do this. 
 
@@ -32,63 +32,79 @@ While users can create an Office 365 group from Outlook or other apps, as an adm
 
 ::: moniker range="o365-worldwide"
 
-Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=848041), go to the **Groups** > **Groups** page. 
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=850627), go to the **Groups** > **Groups** page. 
 
 ::: moniker-end
 
-1. Choose **Groups** \> **Groups** in the left navigation pane. 
-    
-    ![Office 365 Group in admin center.](../media/ee7e3ca0-c5f9-46c9-b525-6524040d0043.png)
-  
-2. Choose **Add a group**.
-    
-    ![Create a new Office 365 Group, a new distribution list, or a new security group](../media/a50b372c-feab-4ac5-90c3-e7fcb1ff649a.png)
+2. Select **Add a group**.
   
 3. Under **Type**, choose **Office 365**.
+    
+    ![Create a new Office 365 Group, a new distribution list, or a new security group](../media/a50b372c-feab-4ac5-90c3-e7fcb1ff649a.png)
 
 4. Type a name for the group.
     
 5. Type a unique email address for the group.
     
-6. Click **Select Owner** and then choose the name of the person who will be designated to manage the group. Anyone who is a group owner will be able to delete email from the Group inbox. Other members won't be able to delete email from the Group inbox. 
+6. Select **Select Owner**, and then choose the name of the person who will be designated to manage the group. Anyone who is a group owner will be able to delete email from the Group inbox. Other members won't be able to delete email from the Group inbox. 
     
-7. Click **Add**.
+7. Select **Add**.
 
-8. Click **Close**.
+8. Select **Close**.
     
 ## Configure the group
 
-Once the group has been created, you can add members and configure additional settings:
+Once the group has been created, you can add members and configure additional settings.
+
+::: moniker range="o365-worldwide"
   
-### Add members to an Office 365 group
+### Use the new admin center to add members to a group
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 Users can [add themselves or request approval](https://support.office.com/article/Join-a-group-in-Outlook-2e59e19c-b872-44c8-ae84-0acc4b79c45d), or you can add them now.
 
-1. In the Microsoft 365 admin center, refresh the page so your new Office 365 group appears.
+1. In the admin center, refresh the page so your new group appears, select **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a>, and then select the name of the group that you want to add members to.
+    
+2. On the **Members** tab, select **View all and manage members**.
 
-2. Click the group that you want to add members to.
+3. Select **Add members**.
     
-3. Next to **Members**, choose **Edit**.
+4. Select the users you want to add, and then select **Save**.
+    
+5. Select **Close** three times. 
+    
+The group will appear in Outlook with members assigned to it.
 
-4. Click **Add members**.
+### Use the old admin center to add members to a group
+
+::: moniker-end
+
+Users can [add themselves or request approval](https://support.office.com/article/Join-a-group-in-Outlook-2e59e19c-b872-44c8-ae84-0acc4b79c45d), or you can add them now.
+
+1. In the admin center, refresh the page so your new group appears, select **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a>, and then select the group that you want to add members to.
     
-5. Select the users you want to add, and then click **Save**.
+2. Next to **Members**, select **Edit**.
+
+3. Select **Add members**.
     
-6. Click **Close** three times. 
+4. Select the users you want to add, and then select **Save**.
     
-The Office 365 group will appear in Outlook with members assigned to it.
+5. Select **Close** three times. 
+    
+The group will appear in Outlook with members assigned to it.
   
 ### Send copies of conversations to group members' inboxes
   
@@ -98,29 +114,64 @@ When you turn this setting on, group members will get a copy of group emails and
 
 Group members can opt out of receiving these emails by choosing to stop following the group in Outlook.
 
-1. In the Microsoft 365 admin center groups list, click the group you want to change, and then click **Edit** next to the group name.
+::: moniker range="o365-worldwide"
 
-2. Turn **Send copies of group conversations and events to group members' inboxes** to **On** if you want members to receive copies of group messages and calendar items in their own inbox.
+#### Use the new admin center to send copies of conversations to group members' inboxes
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page, and then select the name of the group you want to change. 
+
+2. On the **Settings** tab, select **Send copies of group conversations and events to group members** if you want members to receive copies of group messages and calendar items in their own inbox.
 
 3. Select **Save**.
+
+#### Use the old admin center to send copies of conversations to group members' inboxes
+
+::: moniker-end
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page, and then select the group you want to change.
+
+2. Next to **Name**, select **Edit**.
+
+3. Turn **Send copies of group conversations and events to group members' inboxes** to **On** if you want members to receive copies of group messages and calendar items in their own inbox.
+
+4. Select **Save**.
 
 ### Let people outside the organization email the group
 
 This option is great if you want to have a company email address such as info@contoso.com.
-  
-1. Refresh your Microsoft 365 admin center page so your new Office 365 group appears.
+ 
+::: moniker range="o365-worldwide"
+ 
+#### Use the new admin center to let people outside the organization email the group
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+
+1. Refresh your admin center page so your new group appears.
+
+2. In the admin center groups list, select the name of the group you want to change, and then on the **Settings** tab, select **Allow external senders to email this group**.
     
-2. Select the group you want to change, and then select **Edit** next to the group name. 
+4. Select **Save**.
+
+
+#### Use the old admin center to let people outside the organization email the group
+
+::: moniker-end
+
+1. Refresh your admin center page so your new group appears.
+    
+2. In the admin center groups list, select the group you want to change, and then next to **Name**, select **Edit**. 
     
 3. Set the **Let people outside the organization email the group** toggle to **On**.
     
-4. Choose **Save**.
+4. Select **Save**.
 
 ## Who can delete email from the Group Inbox?
 
 The Group owner can delete any emails from the Group Inbox, regardless of whether they were the initial author.
   
-A member can delete an email conversation from the Group Inbox if they initiated it, and only using Outlook on the web (right-click the email, then click **Delete**). They can't do it from the Outlook app (Outlook 2016).
+A member can delete an email conversation from the Group Inbox if they initiated it, and only using Outlook on the web (right-click the email, then choose **Delete**). They can't do it from the Outlook app (Outlook 2016).
   
 When an email is deleted from the group mailbox, it is not deleted from any of the group members' personal mailboxes.
 

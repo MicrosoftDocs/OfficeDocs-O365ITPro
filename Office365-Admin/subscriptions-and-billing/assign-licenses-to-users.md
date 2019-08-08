@@ -40,87 +40,102 @@ description: "Learn how to assign licenses to one or multiple users in Office 36
 
 ::: moniker range="o365-worldwide"
 
-### Use the admin center (preview) to assign licenses to multiple users
+### Use the new admin center to assign licenses to multiple users
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 2. Select the circles next to the names of the users to whom you want to assign licenses.
 
-3. At the top, choose choose **Manage product licenses**.
+3. At the top, select **Manage product licenses**.
 
-4. In the **Manage product licenses** pane, choose **Add to existing product license assignments** \> **Next**.
+4. In the **Manage product licenses** pane, select **Add to existing product license assignments** \> **Next**.
 
 5. In the **Add to existing products** pane, switch the toggle to the **On** position for the license that you want the selected users to have.
 
     By default, all services associated with that license are automatically assigned to the users. To limit which services are available to the users, switch the toggles to the **Off** position for the services that you don't want the users to have. 
 
-6. At the bottom of the pane, choose **Add** \> **Close**.  
+6. At the bottom of the pane, select **Add** \> **Close**.  
 
-::: moniker-end
-
-::: moniker range="o365-worldwide"
 ### Use the old admin center to assign licenses to multiple users
-::: moniker-end
+
   
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+::: moniker-end
 
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+    
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+::: moniker-end
 
 2. Select the boxes next to the names of the users to whom you want to assign licenses.
 
 3. In the **Bulk actions** pane, choose **Edit product licenses**.
 
-4. In the **Assign products** pane, choose **Add to existing product license assignments** \> **Next**.
+4. In the **Assign products** pane, select **Add to existing product license assignments** \> **Next**.
 
 5. Switch the toggle to the **On** position for the license that you want the selected users to have.
 
     By default, all services associated with that license are automatically assigned to the users. To limit which services are available to the users, switch the toggles to the **Off** position for the services that you don't want the users to have. 
 
-6. At the bottom of the **Add to existing products** pane, choose **Add** \> **Close** \> **Close**.
+6. At the bottom of the **Add to existing products** pane, select **Add** \> **Close** \> **Close**.
 
 ## Assign licenses to one user
 
 ::: moniker range="o365-worldwide"
 
-### Use the admin center (preview) to assign licenses to one user
+### Use the new admin center to assign licenses to one user
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-2. On the **Active Users** page, choose the name of the user to whom you want to assign a license.
+2. On the **Active Users** page, select the name of the user to whom you want to assign a license.
 
-3. At the top, choose **Manage product licenses**.
+3. At the top, select **Manage product licenses**.
 
-4. In the user pane on the right, choose **Licenses and Apps**.
+4. In the user pane on the right, select **Licenses and Apps**.
 
-5. Expand the **Licenses** section, choose the boxes for the licenses that you want to assign, then choose **Save changes**.
+5. Expand the **Licenses** section, select the boxes for the licenses that you want to assign, then select **Save changes**.
 
-::: moniker-end
 
-::: moniker range="o365-worldwide"
 ### Use the old admin center to assign licenses to one user
-::: moniker-end
-  
+
+ 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+::: moniker-end
 
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+    
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+::: moniker-end
 
 2. Select the box next to the name of the user to whom you want to assign a license.
 
-3. On the right, in the **Product licenses** row, choose **Edit**.
+3. On the right, in the **Product licenses** row, select **Edit**.
 
 4. In the **Product licenses** pane, switch the toggle to the **On** position for the license that you want to assign to this user.
 
     By default, all services associated with that license are automatically assigned to the user. To limit which services are available to the user, switch the toggles to the **Off** position for the services that you don't want that user to have. 
 
-5. At the bottom of the **Product licenses** pane, choose **Save** \> **Close** \> **Close**.
+5. At the bottom of the **Product licenses** pane, select **Save** \> **Close** \> **Close**.
 
 ## Move users to a different subscription
 
@@ -128,51 +143,59 @@ If you have more than one subscription, and you have users who already have a li
 
 ::: moniker range="o365-worldwide"
 
-### Use the admin center (preview) to move users to a different subscription
+### Use the new admin center to move users to a different subscription
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 2. Select the circles next to the names of the users for whom you want to replace existing licenses.
 
-3. At the top, choose **Manage product licenses**.
+3. At the top, select **Manage product licenses**.
 
-4. In the **Manage product licenses** pane, choose **Replace existing product license assignments** \> **Next**.
+4. In the **Manage product licenses** pane, select **Replace existing product license assignments** \> **Next**.
 
 5. Switch the toggle to the **On** position for the licenses you want to assign to these users.
 
     To limit which services are available to the users, switch the toggles to the **Off** position for the services that you don't want that users to have. Any previous license assignments for the selected users will be removed.
 
-6. At the bottom of the **Replace existing products** pane, choose **Replace** \> **Close**.
+6. At the bottom of the **Replace existing products** pane, select **Replace** \> **Close**.
 
-::: moniker-end
 
-::: moniker range="o365-worldwide"
 ### Use the old admin center to move users to a different subscription
-::: moniker-end
+
   
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+::: moniker-end
 
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+    
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+::: moniker-end
 
 2. Select the boxes next to the names of the users for whom you want to replace existing licenses.
 
 3. In the **Bulk actions** pane, choose **Edit product licenses**.
 
-4. In the **Assign products** pane, choose **Replace existing product license assignments** \> **Next**.
+4. In the **Assign products** pane, select **Replace existing product license assignments** \> **Next**.
 
 5. Switch the toggle to the **On** position for the licenses you want to assign to these users.
 
     To limit which services are available to the users, switch the toggles to the **Off** position for the services that you don't want that users to have. Any previous license assignments for the selected users will be removed.
 
-6. At the bottom of the **Replace existing products** pane, choose **Replace** \> **Close** \> **Close**.
+6. At the bottom of the **Replace existing products** pane, select **Replace** \> **Close** \> **Close**.
 
 ## What you need to know about assigning licenses to users
 
-- You need to be either a Global admin or a User management admin. For more information, see [About Office 365 admin roles](../add-users/about-admin-roles.md).
+- You need to be either a Global admin or a User management admin. For more information, see [About admin roles](../add-users/about-admin-roles.md).
 
 - You can [assign licenses to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
 

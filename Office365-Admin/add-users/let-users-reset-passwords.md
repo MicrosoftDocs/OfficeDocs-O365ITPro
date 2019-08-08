@@ -21,8 +21,8 @@ ms.assetid: 5bc3f460-13cc-48c0-abd6-b80bae72d04a
 description: "Learn how you can reset your passwords using the self-service password reset tool."
 ---
 
-# Let users reset their own passwords in Office 365
-Getting crushed with people asking you to reset their passwords? As the Office 365 admin, you can let people use the [self-service password reset tool](https://go.microsoft.com/fwlink/p/?LinkId=522677) so you don't have to reset passwords for them. Less work for you! 
+# Let users reset their own passwords
+Getting crushed with people asking you to reset their passwords? As the Microsoft 365 admin, you can let people use the [self-service password reset tool](https://go.microsoft.com/fwlink/p/?LinkId=522677) so you don't have to reset passwords for them. Less work for you! 
   
 Here are a few things you need to know:
   
@@ -32,7 +32,7 @@ Here are a few things you need to know:
     
 - **If you're using an on-premises Active Directory**, the above two points don't apply. Rather, you can set this up but **it requires a paid subscription to Azure AD Premium**. 
     
-## Let people reset their own passwords in Office 365
+## Let people reset their own passwords 
 
 ::: moniker range="o365-worldwide"
 
@@ -44,35 +44,34 @@ Here are a few things you need to know:
 These steps turn on self-service password reset for everyone in your business.
   
 ::: moniker range="o365-worldwide"
-1.  Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
+1.  In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2072756" target="_blank">Security & privacy</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a>, go to the **Settings** \> **Security &amp; privacy** page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>, go to the **Settings** \> **Security &amp; privacy** page.
 
 ::: moniker-end
 
-2. Choose **Settings** \> **Security &amp; privacy**.
+   
+2. Under **Let your people reset their own passwords**, select the link for the **Azure AD admin center**. You'll get Azure for free!
     
-3. Choose the link for the **Azure AD admin center**. You'll get Azure for free!
-    
-    ![Choose the link to go to the Azure admin center.](../media/1b72241f-df7b-44b0-9477-8687fe9f7315.png)
+    ![Se;ect the link to go to the Azure admin center.](../media/1b72241f-df7b-44b0-9477-8687fe9f7315.png)
   
-4. Choose **Users and groups** \> **Password reset**.
+4. Select **Users and groups** \> **Password reset**.
     
-    ![Choose Users and groups](../media/8d6739c8-b245-437c-8a77-63b38db4429b.png)
+    ![Select Users and groups](../media/8d6739c8-b245-437c-8a77-63b38db4429b.png)
   
-5. On the Properties page, choose **All** to enable it for everyone in your business, and then choose **Save**.
+5. On the Properties page, select **All** to enable it for everyone in your business, and then select **Save**.
     
-    ![Choose All](../media/1a7ad5c4-1dbe-46b9-9ed0-5507b62023d0.png)
+    ![Select All](../media/1a7ad5c4-1dbe-46b9-9ed0-5507b62023d0.png)
   
 6. When your users sign in to Office 365, they will be prompted to enter additional contact information that will help them reset their password in the future.
 
@@ -82,4 +81,3 @@ These steps turn on self-service password reset for everyone in your business.
   
 [Set an individual user's password to never expire](set-password-to-never-expire.md)
   
-
