@@ -52,9 +52,9 @@ To create or re-create your Outlook profile, install and run the **[Office 365 S
   
 1. Log in with your Office 365 credentials.
     
-2. Choose **Outlook**.
+2. Select **Outlook**.
     
-3. Choose **I need help setting up my Office 365 email in Outlook**.
+3. Select **I need help setting up my Office 365 email in Outlook**.
     
 The Support and Recovery Assistant will run some checks, and when you're ready will create an Outlook profile with your email address.
   
@@ -62,7 +62,7 @@ The Support and Recovery Assistant will run some checks, and when you're ready w
   
 1. Go to the [Support and Recovery Assistant for Office 365 download page](https://diagnostics.office.com/#/Download/?env=OfficePortal).
     
-2. Click **Download now**.
+2. Select **Download now**.
     
 3. Run the installation program.
     
@@ -70,11 +70,11 @@ The Support and Recovery Assistant will run some checks, and when you're ready w
     
  **Use Support and Recovery Assistant**
   
-1. Choose **I agree** to accept the license agreement. 
+1. Select **I agree** to accept the license agreement. 
     
-2. Select the app you want to get help with, and choose **Next**.
+2. Select the app you want to get help with, and select **Next**.
     
-3. Select the support topic that best describes your issue, and then choose **Next**.
+3. Select the support topic that best describes your issue, and then select **Next**.
     
 4. Sign in with your work or school account.
     

@@ -47,37 +47,33 @@ To use room or equipment mailboxes, open Outlook from your computer or sign in t
   
 1. Open **Outlook** on your computer. 
     
-2. On the **Home** tab, choose **New Items** \> **Meeting**.<br/>![To schedule a meeting, on the Home tab, in the New group, choose New Items, and then Meeting.](../media/ffd575a8-1036-4d67-b839-73941fc60276.png)<br/>Or, from your Calendar, just choose **New Meeting**.
+2. On the **Home** tab, choose **New Items** \> **Meeting**.<br/>![To schedule a meeting, on the Home tab, in the New group, choose New Items, and then Meeting.](../media/ffd575a8-1036-4d67-b839-73941fc60276.png)<br/>Or, from your Calendar, just select **New Meeting**.
     
-3. In the To field, type the name of the conference room or equipment you want to reserve, in addition to any attendees you'd like to invite.<br/>Or, click **To** then double-click the conference room or equipment from the list. Then click **OK**.<br/>![Reserve room mailbox in Outlook](../media/4588c806-9fb9-46c9-b2d8-34caa943e28e.png)
+3. In the To field, type the name of the conference room or equipment you want to reserve, in addition to any attendees you'd like to invite.<br/>Or, select **To** then double-click the conference room or equipment from the list. Then select **OK**.<br/>![Reserve room mailbox in Outlook](../media/4588c806-9fb9-46c9-b2d8-34caa943e28e.png)
   
 4. In the **Subject** line, type the purpose of the reservation or meeting. 
     
 5. Change the **Location** value or leave as is. 
     
-6. Change the **Start time** and **End time**. Or, choose **All day event**. To make the meeting or reservation repeat, choose **Recurrence** at the top.<br/>![Reserve meeting time](../media/4b72a0a6-4da2-449e-909e-85ea79f78e2c.png)
+6. Change the **Start time** and **End time**. Or, select **All day event**. To make the meeting or reservation repeat, select **Recurrence** at the top.<br/>![Reserve meeting time](../media/4b72a0a6-4da2-449e-909e-85ea79f78e2c.png)
   
 7. Type a message describing the purpose and attach any files if needed.
     
-8. To allow others to join online or call in to the meeting, click **Skype Meeting**.
+8. To allow others to join online or call in to the meeting, select **Skype Meeting**.
     
-9. To make sure the room, equipment, and people you've invited are available, click **Scheduling Assistant** at the top. Then select an available time in the calendar.<br/> ![Check if room equipment available](../media/eb0097c6-4263-4b63-bfca-f7c03ad99b4f.png)<br/>TIP: In the scheduling calendar, blue means the room or equipment is reserved, or busy. Select the white, or free, area on the calendar. 
+9. To make sure the room, equipment, and people you've invited are available, select **Scheduling Assistant** at the top. Then select an available time in the calendar.<br/> ![Check if room equipment available](../media/eb0097c6-4263-4b63-bfca-f7c03ad99b4f.png)<br/>TIP: In the scheduling calendar, blue means the room or equipment is reserved, or busy. Select the white, or free, area on the calendar. 
   
-10. When finished, choose **Send**.
+10. When finished, select **Send**.
     
 ## Set up room and equipment mailboxes
 
 To set up a room or equipment mailbox, go to the Microsoft 365 admin center. (You'll need to have admin permission to do this.) Create the mailbox and let everyone know they can start reserving it for meetings and events.
   
-1. Sign in to Office 365 with your work or school account. 
-    
-2. Go to the [ Microsoft 365 admin center ](../admin-overview/about-the-admin-center.md).
-    
-3. Search for **rooms** or **equipment** or navigate to **Resources \> Rooms &amp; equipment**.<br/>![Office 365 resources](../media/7fc34170-5425-468e-9ee9-3a1c5e54923f.png)
+1. In the admin center, go to the **Resources** \> [Rooms &amp; equipment](https://go.microsoft.com/fwlink/p/?linkid=2067334) page.
   
-4. Click **Add**.
+2. Select **Add**.
     
-5. Fill out the room or equipment fields:<br/>![Add a room mailbox in Office 365](../media/114d49e3-976e-40ef-b0af-2b0f5c85f15e.png)<br/>
+3. Fill out the room or equipment fields:<br/>![Add a room mailbox in Office 365](../media/114d49e3-976e-40ef-b0af-2b0f5c85f15e.png)<br/>
   
   - **Room** or **Equipment**: the type of mailbox you'd like to create.
     
@@ -91,17 +87,17 @@ To set up a room or equipment mailbox, go to the Microsoft 365 admin center. (Yo
     
   - **Phone number**: the number of the room itself. This is different from the meeting phone number generated when using Skype for Business.
     
-6. Choose **Add**.
+4. Select **Add**.
     
-7. Choose **View details** to see the room or equipment mailbox you created.<br/>Or, choose **Set scheduling options** to change the allowed meeting times, booking windows, and so on.<br/>![Edit room and equipment booking options](../media/2c28ab2c-5b46-486b-90e6-f248843d0f6c.png)
+5. Select the room or equipment mailbox you created to see or edit the details.
   
-8. Then **Save** and **Close**.
+6. If you made changes, select **Save** and then **Close**.
 
 ## Common questions about room and equipment mailboxes
 
 ### How can you tell when the room or equipment is available?
 
-Open Outlook and create a new meeting. Add the room or equipment to the meeting as if it were a person and choose **Scheduling Assistant** to see a live calendar view of the room or equipment's availability. If the hour slot is clear, it's available; if it's blue, it's reserved. 
+Open Outlook and create a new meeting. Add the room or equipment to the meeting as if it were a person and select **Scheduling Assistant** to see a live calendar view of the room or equipment's availability. If the hour slot is clear, it's available; if it's blue, it's reserved. 
   
 ### How do you cancel a room or equipment request?
 

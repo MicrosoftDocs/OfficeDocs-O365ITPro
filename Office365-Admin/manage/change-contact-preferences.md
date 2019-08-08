@@ -35,13 +35,11 @@ If you're looking for how to change company profile information, such as organiz
   
 ## To update your information
   
-1. Browse to your Microsoft 365 admin center. 
+1. In the admin center, select the **Settings** icon in the top right of the header. 
     
-2. Click or tap **Settings** ![Settings in the Office 365 header](../media/e42e6de0-06b3-4760-a112-24e0b2f0f322.png) in the top right of the header. 
+3. Select **Office 365** under **Your app settings**.
     
-3. Click or tap **Office 365** under **My app settings**.
-    
-4. Click or tap **Security &amp; privacy** and then **Contact preferences**.
+4. Select **Security &amp; privacy** and then **Contact preferences**.
     
 5. Choose the types of product-related communications you want to receive.
     

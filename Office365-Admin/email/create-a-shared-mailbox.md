@@ -41,42 +41,42 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
 > Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
 
 ::: moniker-end
+  
+1. Sign in with an Office 365 global admin account or Exchange admin account. If you get the message "**You don't have permission to access this page or perform this action**" then you aren't an admin. 
 
 ::: moniker range="o365-worldwide"
 
-1. In the Microsoft 365 admin center, go to **Groups** \> [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://admin.microsoft.com/AdminPortal/Home#/homepage?ref=SharedMailbox).
+2. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2066847" target="_blank">Shared mailboxes</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+2. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=848041), go to the **Groups** \> **Shared mailboxes** page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+2. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=850627), go to the **Groups** \> **Shared mailboxes** page.
 
 ::: moniker-end
-
-2. Sign in with an Office 365 global admin account or Exchange admin account. If you get the message " **You don't have permission to access this page or perform this action**" then you aren't an admin.
-
-3. On the **Add a mailbox** page, enter a name for the shared mailbox. Then the wizard chooses the email address, but you can edit it.
-
-   ![Name your shared mailbox.](../media/e3035132-8986-4ec7-b7c0-f2752080d2c0.png)
+    
+3. On the **Shared mailboxes** page, select **+ Add a mailbox**. Enter a name for the shared mailbox. Then the wizard chooses the email address, but you can edit it.
+    
+    ![Name your shared mailbox.](../media/e3035132-8986-4ec7-b7c0-f2752080d2c0.png)
   
-4. Click **Add**. It may take a few minutes before you can add members.
+4. Select **Add**. It may take a few minutes before you can add members.
 
-5. Under **Next steps**, choose **Add members to this mailbox**. Members are the people who will be able to view the incoming mail to this shared mailbox, and the outgoing replies.
+5. Under **Next steps**, select **Add members to this mailbox**. Members are the people who will be able to view the incoming mail to this shared mailbox, and the outgoing replies.
 
-   ![Choose Add Members](../media/a2a72e3d-6170-40fe-a94f-0af8fbef8ab2.png)
+   ![Select Add Members](../media/a2a72e3d-6170-40fe-a94f-0af8fbef8ab2.png)
 
-6. Choose the **+Add members** button. Put a check mark next to the people who you want to use this shared mailbox, and click **Save**.
+6. Select the **+Add members** button. Put a check mark next to the people who you want to use this shared mailbox, and select **Save**.
 
    ![Assign members to the shared mailbox](../media/e6c58953-f6d7-4f0b-97ba-308516bf2a94.png)
 
-7. Choose **Close**.
+7. Select **Close**.
 
 You have a shared mailbox and it includes a shared calendar. Now go on to the next step: block sign-in for the shared mailbox account.
 
@@ -86,19 +86,47 @@ Every shared mailbox has a corresponding user account. Notice how you weren't as
 
 But what if an admin simply resets the password of the shared mailbox user account? Or what if an attacker gains access to the shared mailbox account credentials? This would allow the user account to log in to the shared mailbox and send email. To prevent this, you need to block sign-in for the account that's associated with the shared mailbox.
 
-1. In the Microsoft 365 admin center, select **Users** \> **Active users**.
+::: moniker range="o365-worldwide"
+
+### Use the new admin center to block sign-in for the shared mailbox account
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+2. In the list of user accounts, find the account for the shared mailbox (for example, change the filter to **Unlicensed users**).
+
+3. Select the user to open their properties pane, and then select the **Block this user** icon ![Screen shot of the Block this user icon](../media/block-user-icon.png).
+
+   **Note**: If the account is already blocked, **Sign in blocked** will appear at the top and the icon will read **Unblock this user**.
+
+4. In the **Block this user?** pane, select **Block the user from signing in**, and then select **Save changes**.
+
+### Use the old admin center to block sign-in for the shared mailbox account
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+::: moniker-end
 
 2. In the list of user accounts, find the account for the shared mailbox (for example, change the view to **Unlicensed users**) and then select the account.
 
-3. In the properties flyout, click **Block sign-in**.
+3. In the properties flyout, select **Block sign-in**.
 
-   ![Account properties in the M365 admin center](../media/m365-account-properties-block-sign-in.png)
+    **Note:** If the account was already blocked, the button would say **Unblock sign-in**.
 
-   **Note**: If the account was already blocked, the button would say **Unblock sign-in**.
-
-4. In the **Edit sign-in status** flyout, verify that **Block the user from signing in** is selected, click **Save**, and then click **Close**.
-
-   ![Edit sign-in status flyout in the M365 admin center](../media/m365-edit-sign-in-status.png)
+4. In the **Edit sign-in status** flyout, verify that Block the user from signing in is selected, select **Save** and then **Close**.
 
 For instructions on how to block sign-in for accounts using Azure AD PowerShell (including many accounts at the same time), see [Block user accounts with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/block-user-accounts-with-office-365-powershell).
 
@@ -106,9 +134,9 @@ For instructions on how to block sign-in for accounts using Azure AD PowerShell 
 
 By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.
 
-If you want to allow everyone to see the Sent email, in the admin center, edit the shared mailbox settings, and choose **Sent items** \> **Edit**.
+If you want to allow everyone to see the Sent email, in the admin center, edit the shared mailbox settings, and select **Sent items** \> **Edit**.
 
-![Choose Sent items and then Edit](../media/09e28637-7900-4792-a71e-58248293cc5b.jpg)
+![Select Sent items and then Edit](../media/09e28637-7900-4792-a71e-58248293cc5b.jpg)
 
 ## Add the shared mailbox to Outlook
 
@@ -149,9 +177,9 @@ You can access a shared mailbox on a mobile device in two ways:
 
 When you created the shared mailbox, you automatically created a shared calendar. We like the shared mailbox calendar rather than a SharePoint calendar for keeping track of appointments and where people are. A shared calendar is integrated with Outlook and it's much easier to use than a SharePoint calendar.
 
-1. In the Outlook app, go to calendar view, and choose the shared mailbox.
+1. In the Outlook app, go to calendar view, and select the shared mailbox.
 
-   ![Choose the calendar view](../media/0be61a9a-5fa4-4051-9fce-79393eb4e09d.png)
+   ![Select the calendar view](../media/0be61a9a-5fa4-4051-9fce-79393eb4e09d.png)
 
 2. When you enter appointments, everyone who is a member of the shared mailbox will be able to see them.
 
@@ -161,31 +189,59 @@ When you created the shared mailbox, you automatically created a shared calendar
 
 You do not need to assign a license to the shared mailbox in order to forward email that's sent to it. You can forward the messages to any valid email address or distribution list.
 
-<!--There was previously a worldwide monikker for step 1, but nothing for Germany or 21Vianet. Is there a deep link to shared mailboxes for Germany or 21Vianet we can include?-->
+::: moniker range="o365-worldwide"
 
-1. On the [![Go to shared mailboxes in the admin center](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://admin.microsoft.com/AdminPortal/Home#/homepage?ref=SharedMailbox) page choose the shared mailbox you want to edit.
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2066847" target="_blank">Shared mailboxes</a> page.
 
-2. Choose **Email forwarding** \> **Edit**.
+::: moniker-end 
 
-3. Set the toggle to **On**, and enter 1 email address to forward the messages to. It can be any valid email address. To forward to multiple addresses, you need to create a distribution list of the addresses, and then enter the name of the distribution list.
+::: moniker range="o365-germany"
 
-4. Choose **Save**.
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a>, go to the **Groups** > **Shared mailboxes** page. 
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>, go to the **Groups** > **Shared mailboxes** page. 
+
+::: moniker-end
+
+2. Select the shared mailbox you want to edit, then select **Email forwarding** \> **Edit**.
+    
+3. Set the toggle to **On**, and enter 1 email address to forward the messages to. It can be any valid email address. To forward to multiple addresses, you need to [create a distribution group](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists?view=o365-worldwide) for the addresses, and then enter the name of the group in this box.
+    
+4. Select **Save**.
 
 ## Send automatic replies from a shared mailbox
 
-<!--There was previously a worldwide moniker for step 1, but nothing for Germany or 21Vianet. Is there a deep link to shared mailboxes for Germany or 21Vianet we can include?-->
+::: moniker range="o365-worldwide"
 
-1. On the [![Go to shared mailboxes in the admin center.](../media/704ec302-c7c9-4b2c-972f-751df2eb32be.png)](https://admin.microsoft.com/AdminPortal/Home#/homepage?ref=SharedMailbox) page choose the shared mailbox you want to edit.
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2066847" target="_blank">Shared mailboxes</a> page.
 
-2. Choose **Automatic replies** \> **Edit**.
+::: moniker-end 
 
+::: moniker range="o365-germany"
+
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a>, go to the **Groups** > **Shared mailboxes** page. 
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>, go to the **Groups** > **Shared mailboxes** page. 
+
+::: moniker-end
+
+2. Select the shared mailbox you want to edit, then select **Automatic replies** \> **Edit**.
+    
 3. Set the toggle to **On**, and choose whether to send the reply to people inside your organization or outside your organization.
 
 4. Enter the reply you want to send to people inside your organization. You can't add images, only text.
 
-5. If you want to *also* send a reply to people outside your organization, choose the check box, who you want to get the reply, and type the text. There's no way to only send to people outside your organization but not to people inside your organization.
+5. If you want to *also* send a reply to people outside your organization, select the check box, who you want to get the reply, and type the text. There's no way to only send to people outside your organization but not to people inside your organization.
 
-6. Choose **Save**.
+6. Select **Save**.
 
 ## Shared mailbox limit: 50GB
 
@@ -227,53 +283,53 @@ A Group in Outlook is like a shared mailbox. For a comparison of the two, see [C
   This issue occurs when you're trying to give the shared mailbox a name that's already in use. For example, let's say you want shared mailboxes named info@domain1 and info@domain2. There are two ways you can do this:
 
   - Use Windows PowerShell. See this blog post for instructions: [Create Shared Mailboxes with Same Alias at Different Domains in Office 365](https://www.cogmotive.com/blog/office-365-tips/create-shared-mailboxes-with-same-alias-at-different-domains-in-office-365)
-
-  - Or, name the second shared mailbox something different from the start to get around the error. Then in the [Admin Center](#how-to-create-a-shared-mailbox-in-the-exchange-admin-center), rename the shared mailbox to what you want it to be.
-
+    
+  - Or, name the second shared mailbox something different from the start to get around the error. Then in the [admin center](#how-to-create-a-shared-mailbox-in-the-exchange-admin-center), rename the shared mailbox to what you want it to be.
+    
 ## How automapping works with shared mailboxes
 <a name="bkmk_auto"> </a>
 
 Automapping is set on the user's mailbox, not the shared mailbox.
 
 This means if you try to use a security group to manage who has access to the shared mailbox, automapping won't work. So, if you want automapping, you have to assign permissions explicitly.
-
-## How to create a shared mailbox in the Exchange Admin Center
+  
+## How to create a shared mailbox in the Exchange admin center
 <a name="bkmk_EAC"> </a>
 
-Some customers do all their mailbox management in the Exchange Admin Center. Here are instructions for how to create shared mailboxes using that interface.
-
+Some customers do all their mailbox management in the Exchange admin center. Here are instructions for how to create shared mailboxes using that interface.
+  
 To see what permissions you need to perform these steps, see the "User mailboxes" entry in [Recipients permissions](https://technet.microsoft.com/en-us/library/dd638132%28v=exchg.160%29.aspx).
 
-1. In the Exchange admin center, go to **Recipients** \> **Shared** \> **Add**.
-
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a> > **Recipients** \> **Shared** \> **Add**.
+    
 2. Fill-in the required fields:
 
    - **Display name**
 
    - **Email address**
 
-3. To grant Full Access or Send As permissions, click **Add**, and then select the users you want to grant permissions to. You can use the CTRL key to select multiple users. Confused about which permission to use? See [Which permissions should you use?](create-a-shared-mailbox.md#TypesOfPerms)
+3. To grant Full Access or Send As permissions, select **Add**, and then select the users you want to grant permissions to. You can use the CTRL key to select multiple users. 
 
    > [!NOTE]
    > The Full Access permission allows a user to open the mailbox as well as create and modify items in it. The Send As permission allows anyone other than the mailbox owner to send email from this shared mailbox. Both permissions are required for successful shared mailbox operation.
 
-4. Click **Save** to save your changes and create the shared mailbox.
+4. Select **Save** to save your changes and create the shared mailbox.
 
 ### Use the EAC to edit shared mailbox delegation
 
-1. Go to **Recipients** \> **Shared** \> **Edit**.
-
-2. Click **Mailbox delegation**
-
-3. To grant or remove Full Access and Send As permissions, click **Add** or **Remove** and then select the users you want to grant permissions to.
-
-   > [!NOTE]
-   > The Full Access permission allows a user to open the mailbox as well as create and modify items in it. The Send As permission allows anyone other than the mailbox owner to send email from this shared mailbox. Both permissions are required for successful shared mailbox operation.
-
-4. Click **Save** to save your changes.
-
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a> > **Recipients** \> **Shared** \> **Edit**. 
+    
+2. Select **Mailbox delegation**.
+    
+3. To grant or remove Full Access and Send As permissions, select **Add** or **Remove** and then select the users you want to grant permissions to. 
+    
+    > [!NOTE]
+    > The Full Access permission allows a user to open the mailbox as well as create and modify items in it. The Send As permission allows anyone other than the mailbox owner to send email from this shared mailbox. Both permissions are required for successful shared mailbox operation. 
+  
+4. Select **Save** to save your changes. 
+    
 ### Which permissions should you use?
-<a name="TypesOfPerms"> </a>
+
 
 - **Full Access** The Full Access permission lets a user sign in to the shared mailbox and act as the owner of that mailbox. While signed in, the user can create calendar items; read, view, delete, and change email messages; create tasks and calendar contacts. However, a user with Full Access permission can't send email from the shared mailbox unless they also have Send As or Send on Behalf permission.
 
@@ -284,7 +340,7 @@ To see what permissions you need to perform these steps, see the "User mailboxes
 - **Send on Behalf** The Send on Behalf permission lets a user send email on behalf of the shared mailbox. For example, if John logs into the shared mailbox Reception Building 32 and sends an email, it look like the mail was sent by "John on behalf of Reception Building 32". You can't use the EAC to grant Send on Behalf permissions, you must use the [Set-Mailbox](https://technet.microsoft.com/en-us/library/bb123981.aspx) cmdlet with the *GrantSendonBehalf*  parameter.
 
 ## Use the Exchange Management Shell to create a shared mailbox
-<a name="bkmk_EAC"> </a>
+
 
 Use the [New-Mailbox](https://technet.microsoft.com/en-us/library/aa997663%28v=exchg.160%29.aspx) PowerShell cmdlet to create shared mailboxes. To use this cmdlet, you need to connect to Exchange Online PowerShell.
 
@@ -302,7 +358,6 @@ The following example shows how to create the shared mailbox Sales Department an
    ```
 
 ## Should I create a shared mailbox or an Office 365 Group for Outlook?
-<a name="bkmk_EAC"> </a>
 
 See [Compare groups](../create-groups/compare-groups.md) for some guidance.
 

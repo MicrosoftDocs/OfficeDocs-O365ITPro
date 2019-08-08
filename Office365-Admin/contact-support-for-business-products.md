@@ -44,7 +44,7 @@ Billing support is provided in English from 9 AM-5 PM (9 AM-6 PM in Australia), 
     
 - **In the United Kingdom, call 0800 032 6417.**
     
-If your Office 365 or Microsoft 365 Business support phone number isn't listed above, use the dropdown menu below to choose your country or region.
+If your Office 365 or Microsoft 365 Business support phone number isn't listed above, use the drop-down menu below to choose your country or region.
 
 [!INCLUDE [country-region-support-dropdown-list](includes/country-region-support-dropdown-list.md)]
   
@@ -52,23 +52,39 @@ If your Office 365 or Microsoft 365 Business support phone number isn't listed a
   
 Save time by starting your service request online. We'll help you find a solution or connect you to an expert who will contact you by email or phone. [Learn about initial support response times](https://go.microsoft.com/fwlink/p/?LinkId=518251).
 
-1. [Sign in with your Office 365 admin account](https://aka.ms/admincenter). If you get the message "**You don't have permission to access this page or perform this action**" then you aren't an Office 365 admin. [Who has admin permissions in my business?](admin-overview/admin-overview.md#who-has-admin-permissions-in-my-business).
-    
-2. In the [Admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339), choose the **Need help?** button.
+### Use the new admin center to start a service request
 
-3. In the **Need help?** pane, tell us what you need help with, then press **Enter**. 
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](microsoft-365-admin-center-preview.md).
+
+1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>. If you get a message that says you don't have permission to access this page or perform this action, then you aren't an admin. [Who has admin permissions in my business?](admin-overview/admin-overview.md#who-has-admin-permissions-in-my-business)
     
-4. If the results don't help, choose **New service request by phone**. Confirm your contact number, then press **Call me**. The expected wait time for a call back is indicated in the **Need help?** pane. 
+2. Select the **Need help?** button.
+
+3. In the **Need help?** pane, tell us what you need help with, and then press Enter. 
+    
+4. If the results don't help, select **Contact support**. 
+
+5. Enter a description if you like, confirm your contact number and email address, select your preferred contact method, and then select **Contact me**. The expected wait time is indicated in the **Need help?** pane.
+
+### Use the old admin center to start a service request
+
+1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>. If you get a message that says you don't have permission to access this page or perform this action, then you aren't an admin. [Who has admin permissions in my business?](admin-overview/admin-overview.md#who-has-admin-permissions-in-my-business)
+    
+2. Select the **Need help?** button.
+
+3. In the **Need help?** pane, tell us what you need help with, then select **Get help**. 
+    
+4. If the results don't help, select **New service request by phone**. Confirm your contact number, and then select **Call me**. The expected wait time for a call back is indicated in the **Need help?** pane. 
 
 ## [In-store support](#tab/instore)
   
 You can now make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your Office 365 or Microsoft 365 issue.
 
-1. Go to the [Microsoft Stores schedule](https://go.microsoft.com/fwlink/?LinkID=2041482) page, and choose **Schedule an appointment**.
+1. Go to the [Microsoft Stores schedule](https://go.microsoft.com/fwlink/?LinkID=2041482) page, and select **Schedule an appointment**.
 
-2. Enter your location and choose search to find a Microsoft Store near you.
+2. Enter your location and search to find a Microsoft Store near you.
 
-3. Choose your store, then choose **Schedule service appointment now**.
+3. Choose your store, then select **Schedule service appointment now**.
     
 ---
 
@@ -170,7 +186,7 @@ Call support. If you encounter any problem with online request, phone support is
   
 #### Administrator roles and responsibilities
   
-People with Office 365 administrator roles are the only ones in the customer's organization authorized to access the Admin section of the Office 365 operated by 21Vianet portal and to communicate directly with 21Vianet about Office 365 service requests.
+People with administrator roles are the only ones in the customer's organization authorized to access the Admin section of the Office 365 operated by 21Vianet portal and to communicate directly with 21Vianet about Office 365 service requests.
   
 With Office 365 you can designate several types of administrators who serve different functions. This service description uses the generic title administrator to refer to all categories of administrators. For more information about the types of administrator roles, see [Assign admin roles in Office 365 for business](add-users/assign-admin-roles.md).
   
@@ -237,14 +253,14 @@ As an admin for Office 365 Germany, you get free access to our knowledgeable sup
 
 Assisted support options are for admins of Office 365 Germany subscribed organizations only. If you use Office 365 Germany at work or school, but you're not an admin, you can still get support in the community forums, or by contacting your admin or IT department.
 
-- **Open an online request.** Save time by starting your service request online. In the Microsoft 365 admin center, choose **Support** \> **New service request.** We'll help you find a solution or connect you to an expert who will contact you by email or phone.
+- **Open an online request.** Save time by starting your service request online. In the admin center, choose **Support** \> **New service request.** We'll help you find a solution or connect you to an expert who will contact you by email or phone.
 
 - **Call support.** We're here to talk. Admins, have your account details ready when you call support.
 
 | Region | Phone number | Hours |
 |-----------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Germany | 0800 589 2330 | Billing Support:  German: Mon-Fri 9-5 Berlin English: Mon-Fri 9-5 Berlin  Technical Support:  German: 24 hours a day, 7 days a week English: 24 hours a day, 7 days a week  Alternative Phone Number: 069 380 789 305 (Local call charges apply) |
-| All other markets within the European Economic Area | +49 69 380 789 305 | Billing Support:  German: Mon-Fri 9-5 Berlin(UTC+1) English: Mon-Fri 9-5 Berlin (UTC +1)  Technical Support:  German: 24 hours a day, 7 days a week English: 24 hours a day, 7 days a week  Telephone support is available via international call to Germany. International call charges apply. Call charges can be avoided by submitting a support ticket through the Microsoft 365 admin center. |
+| All other markets within the European Economic Area | +49 69 380 789 305 | Billing Support:  German: Mon-Fri 9-5 Berlin(UTC+1) English: Mon-Fri 9-5 Berlin (UTC +1)  Technical Support:  German: 24 hours a day, 7 days a week English: 24 hours a day, 7 days a week  Telephone support is available via international call to Germany. International call charges apply. Call charges can be avoided by submitting a support ticket through the admin center. |
    
 ### Let our community help
 

@@ -24,7 +24,7 @@ description: "Learn how to find a new Office 365 partner, or get contact informa
 
 # Find your Office 365 partner or reseller
 
-As an Office 365 admin, you can work with a partner to purchase, activate, and renew Office 365 subscriptions through a Microsoft Open Volume Licensing program. 
+As an admin, you can work with a partner to purchase, activate, and renew Office 365 subscriptions through a Microsoft Open Volume Licensing program. 
   
  **Not sure if Open Volume Licensing is for you?** Check out the [Microsoft Open Programs overview](https://go.microsoft.com/fwlink/p/?LinkId=613298).
   
@@ -50,13 +50,9 @@ If you're ready to buy or renew Office 365 through Open Volume Licensing, or you
 
 ::: moniker-end
 
-1. Sign in to Office 365 with your work or school account as a global admin. [Where to sign in to Office 365 for business](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
-    
-2. Select the app launcher icon  in the upper-left and then choose **Admin**.<br/>Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
-    
-3. Go to **Settings** \> **Partner relationships**.<br/>![Settings menu](../media/9026f9ea-52b7-4a0c-a14e-daec23048318.png)
+1. In the admin center, go to the **Settings** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2074649" target="_blank">Partner relationships</a> page.
   
-4. If you have a partner, the partner's name and relationship to your organization will be listed here. To view partner contact information (phone number and email address), click on the partner name.
+2. If you have a partner, the partner's name and relationship to your organization will be listed here. To view partner contact information (phone number and email address), select the partner name.
     
 ## More resources
 

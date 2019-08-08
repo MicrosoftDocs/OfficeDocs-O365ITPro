@@ -57,7 +57,7 @@ If you previously created a registry entry for Support and Recovery Assistant, y
     
 3. Double-click the **Reg_DWORD** named **UploadDiagnosticLogsDisabled**. (If you don't see **UploadDiagnosticLogsDisabled**, you need to add it using the instructions in Option 1 - Create a new registry entry.)
     
-4. In **Value data**, type 1, and choose **OK**.
+4. In **Value data**, type 1, and select **OK**.
     
 5. Close Registry Editor.
     

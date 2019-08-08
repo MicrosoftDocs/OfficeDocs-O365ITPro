@@ -26,7 +26,7 @@ description: "Switch Office 365 for business subscriptions manually by buying a 
 
 ::: moniker range="o365-worldwide"
 > [!NOTE]
-> This article applies to the old admin center. To view the article about the admin center (preview), see [Change plans manually](change-plans-manually.md). The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+> This article applies to the old admin center. To view the article about the new admin center, see [Change plans manually](change-plans-manually.md). The new admin center is available to all Microsoft 365 admins, and you can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 ::: moniker-end
 
 ## Step 1: Decide how to switch plans
@@ -49,7 +49,7 @@ To continue with a manual switch, read [Step 2: Buy a new subscription](#step-2-
   
  **Purchase a new subscription and licenses:** Follow the steps in [Buy another Office 365 for business subscription](../subscriptions-and-billing/buy-another-subscription.md) to buy a new subscription.
   
-Make sure you purchase a subscription for the same organization that the users are in now. For example, check the email addresses for the Office 365 users you want to move. If their email addresses include @contoso.com, you must purchase a new subscription for contoso.com. Include a license for each user that you want to move.
+Make sure you purchase a subscription for the same organization that the users are in now. For example, check the email addresses for the users you want to move. If their email addresses include @contoso.com, you must purchase a new subscription for contoso.com. Include a license for each user that you want to move.
   
  **If you need help choosing a plan**, see the [Office 365 for business product comparison](https://go.microsoft.com/fwlink/p/?linkid=842056) page, or [call support](../contact-support-for-business-products.md).
   
@@ -101,7 +101,7 @@ The licenses for the current subscription will be removed later; you'll only pay
 
 2. On the **Active users** page, select the box next to the name of the user who you want to assign a license to.
 
-3. On the right, in the **Product licenses** row, choose **Edit**.
+3. On the right, in the **Product licenses** row, select **Edit**.
 
 4. In the **Product licenses** pane, switch the toggle to the **On** position for the license you want to assign to this user. By default, all services associated with that license are automatically assigned to the user.
 
@@ -112,11 +112,11 @@ The licenses for the current subscription will be removed later; you'll only pay
   
 5. Switch the toggle to the **Off** position for licenses that this user no longer needs.
 
-6. At the bottom of the **Product licenses** pane, choose **Assign** \> **Close** \> **Close**.
+6. At the bottom of the **Product licenses** pane, select **Assign** \> **Close** \> **Close**.
 
 ### Reassign licenses for multiple users at once
 
-1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page, or choose **Users** \> **Active users**.
+1. In the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page, or select **Users** \> **Active users**.
 
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
 
