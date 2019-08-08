@@ -175,7 +175,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the **Custom resource records** section, create a record by using the values from the next row in the table, and then again choose **Add** to complete that record. 
     
-    Repeat this process until you have created all required CNAME records.
+    Repeat this process until you have created all of the required CNAME records.
     
 ## Add a TXT record for SPF to help prevent email spam
 <a name="BKMK_add_TXT"> </a>
