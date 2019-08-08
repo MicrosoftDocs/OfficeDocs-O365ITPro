@@ -58,18 +58,6 @@ Since the guided experience walks through the steps to delete a user, here's how
 
 ::: moniker range="o365-worldwide"
 
-#### Use the new admin center to delete a user
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
-    
-3. Select the user you want to delete, select **More options** (**...**), and then choose **Delete user**.
-  
-   
-#### Use the old admin center to delete a user
- 
-
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
