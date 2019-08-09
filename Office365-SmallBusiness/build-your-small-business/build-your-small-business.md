@@ -33,7 +33,7 @@ description: "Run your small business with Microsoft email, manage your calendar
                     </div>
                     <div class="cardText">
                         <h3>Small business training</h3>
-                        <p>Office 365 video training to help run your business.</p>
+                        <p>Office 365 video training.</p>
                     </div>
                 </div>
             </div>
