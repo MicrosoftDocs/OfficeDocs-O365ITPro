@@ -1,5 +1,5 @@
 ---
-title: "Build your small business with Microsoft"
+title: "Microsoft 365 Small Business Resource Center"
 ms.author: kwekua
 author: supotter
 manager: scotv
