@@ -17,7 +17,7 @@ search.appverid:
 ms.assetid: e540a435-e3c5-4c7c-a116-2eb638827a7f
 description: "Run your small business with Microsoft email, manage your calendar, and enjoy enterprise grade security with Microsoft 365 Business and Office 365 for business."
 ---
-# Build your small business with Microsoft
+# Microsoft 365 Small Business Resource Center
 
 
 <ul class="panelContent cardsW">
