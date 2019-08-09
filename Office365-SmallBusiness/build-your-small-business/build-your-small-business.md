@@ -52,7 +52,7 @@ description: "Run your small business with Microsoft email, manage your calendar
                     </div>
                     <div class="cardText">
                         <h3>Head to a Microsoft Store</h3>
-                        <p>Get help with your Office 365 or Microsoft 365 subscription. Attend free classes to boost your knowledge.</p>
+                        <p>Get help with your Office 365 or Microsoft 365 subscriptions. Attend free classes to boost your knowledge.</p>
                     </div>
                 </div>
             </div>
