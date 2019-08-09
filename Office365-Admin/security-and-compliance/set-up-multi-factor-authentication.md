@@ -64,7 +64,7 @@ All Office 2016 client applications support MFA through the use of the Active Di
 5. On the right, under **quick steps**, you'll see **Enable** and **Manage user settings**. Select **Enable**.
     
 6. In the dialog box that opens, select **enable multi-factor auth**.
-    
+   
 ## Allow MFA users to create App passwords for Office client apps
 
 Older email applications like Office 2013 need app passwords. Here's how to allow your users to create them: 
@@ -86,6 +86,9 @@ Older email applications like Office 2013 need app passwords. Here's how to allo
     People can then use client Office apps after they create a new password.
     
 5. Select**Save**, then **Close**.
+
+> [!NOTE]
+> Modern authentication can be enabled On Office 2013 by setting a few registry Keys, see [Enable Modern Authentication for Office 2013 on Windows devices](https://docs.microsoft.com/en-us/office365/admin/security-and-compliance/enable-modern-authentication?view=o365-worldwide).
     
 ## Manage MFA user settings
 
