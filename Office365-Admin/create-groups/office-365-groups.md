@@ -43,7 +43,7 @@ Groups have the following roles:
 - **Members** - Members can access everything in the group, but can't change group settings.
 - **Guests** - Group guests are members who are from outside your organization. By default group members can invite guests to join your group, though you can [control that setting](manage-guest-access-in-groups.md).
 
-People in the following Office 365 admin roles can create and manage groups in the admin center: global admin, Exchange admin, user management admin. You can't be a delegated admin (for example, a consultant who is an admin on behalf of).
+People in the following admin roles can create and manage groups in the admin center: global admin, Exchange admin, user management admin. You can't be a delegated admin (for example, a consultant who is an admin on behalf of).
 
 As an administrator, you can:
 
@@ -55,7 +55,7 @@ As an administrator, you can:
 
 If you prefer a more automated way to manage the lifecycle of your Office 365 Groups you can use expiration policies to expire groups at a specific time interval. The group's owners will get an email 30, 15 and 1 day before the group expiration that allows them to easily renew the group if it's still needed. See: [Office 365 Group Expiration Policy](office-365-groups-expiration-policy.md).
 
-You can administer your groups from the Microsoft 365 Admin Center or [by using PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-groups-with-powershell).
+You can administer your groups from the Microsoft 365 admin center or [by using PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-groups-with-powershell).
 
 If you have a lot of users, such as in a large corporation or enterprise, you may have many users who create groups for various purposes. We highly recommend that you review [Plan for governance in Office 365 Groups](plan-for-groups-governance.md) for best practices.
 

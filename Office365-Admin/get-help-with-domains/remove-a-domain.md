@@ -35,109 +35,150 @@ Are you removing your domain because you want to add it to a different Office 36
   
 ### Step 1: Move users to another domain
 
-
 ::: moniker range="o365-worldwide"
 
-Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
+#### Use the new admin center to move users
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>. 
+ 
+2. Select **Users** > **Active users**.
+
+3. Select the boxes next to the names of all the users you want to move.
+    
+4. Select **More options** (**…**), at the top of the page, and then choose **Edit domains**. 
+    
+5. In the **Edit domains** pane, select a different domain. 
+     
+#### Use the old admin center to move users
+
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>. 
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a>.  
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>. 
+
+::: moniker-end
+ 
+2. Select **Users** > **Active users**.
+
+3. Select the boxes next to the names of all the users you want to move.
+    
+4. At the top of the page, choose **More** > **Edit domains**.
+    
+5. In the **Edit domains** pane, select a different domain. 
+  
+You'll need to do this for yourself, too, if you're on the domain that you want to remove. When you edit the domain for your account, you'll have to log out and log back in using the new domain you chose to continue. 
+
+::: moniker range="o365-worldwide"
+    
+#### Use the new admin center to move yourself to another domain
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+
+1. Go to **Users** \> **Active Users**, and select your account from the list. 
+    
+2. On the **Account** tab, select **Manage username**, and then choose a different domain.    
+  
+3. At the top, select your account name, then select **Sign Out**.
+    
+4. Sign in with the new domain and your same password.
+    
+You can also use PowerShell to move users to another domain. See [Set-MsolUserPrincipalName](https://docs.microsoft.com/en-us/powershell/module/msonline/set-msoluserprincipalname?view=azureadps-1.0) for more information. To set the default domain, use [Set-MsolDomain](https://docs.microsoft.com/en-us/powershell/module/msonline/set-msoldomain?view=azureadps-1.0).
+
+#### Use the old admin center to move yourself to another domain
 
 ::: moniker-end
 
-2. Choose **Users** \> **Active Users**.
+1. Go to **Users** \> **Active Users**, and select your name in the list. 
     
-3. Select the boxes next to the names of the users who you want to move.
+2. In the **Username / Email** section, select **Edit**, and then choose a different domain.    
+ 
+3. Select **Set as primary** > **Save** > **Close**.
+  
+4. At the top, select your account name, then select **Sign Out**.
     
-4. In the **Bulk actions** pane, choose **Edit domains**.
-    
-5. In the **Edit domains** pane, choose a different domain. 
-    
-6. Choose **Set as primary**, then choose **Save**.
-    
-7. You'll need to do this for yourself, too, if you're on the domain that you want to remove. When you edit the domain for your account, you'll have to log out and log back in using the new domain you chose to continue.
-    
-    For example, if you're logged in as  *dave@contoso.onmicrosoft.com*  : 
-    
-1. Go to **Users** \> **Active Users**, select your account from the list, and then choose **Edit** in the **Username** row in the left pane. 
-    
-2. Choosea different domain:  *contoso.com* 
-    
-3. Choose **Set as primary**, choose **Save**, and then **Close**.
-    
-4. At the top, choose your account name, then choose **Sign Out**.
-    
-5. Sign in with the new domain and your same password:  *dave@contoso.com* 
+5. Sign in with the new domain and your same password.
     
 You can also use PowerShell to move users to another domain. See [Set-MsolUserPrincipalName](https://docs.microsoft.com/en-us/powershell/module/msonline/set-msoluserprincipalname?view=azureadps-1.0) for more information. To set the default domain, use [Set-MsolDomain](https://docs.microsoft.com/en-us/powershell/module/msonline/set-msoldomain?view=azureadps-1.0).
   
 ### Step 2: Move groups to another domain
 
-
 ::: moniker range="o365-worldwide"
 
-Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
+#### Use the new admin center to move groups 
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page. 
+
+    
+2. Select the group name, and then on the **General** tab under **Email address, Primary**, select **Edit**.
+    
+3. Use the drop-down list to choose another domain.
+    
+4. Select **Save**, then **Close**. Repeat this process for any groups or distribution lists associated with the domain that you want to remove.
+    
+#### Use the old admin center to move groups 
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page. 
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a>,  go to the **Groups** > **Groups** page. 
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>,  go to the **Groups** > **Groups** page. 
 
 ::: moniker-end
-
-2. Choose **Groups** \> **Groups**. 
     
-3. Select the box for any group or distribution list associated with the domain that you want to remove.
+2. Select the group name, and then select **Edit** next to **Name**. 
     
-4. In the right pane, next to the group name, choose **Edit**.
+3. Use the drop-down list to choose another domain.
     
-5. Under **Group Id**, use the drop-down to choose another domain.
-    
-6. Choose **Save**, then **Close**. Repeat this process for any groups or distribution lists associated with the domain that you want to remove.
+4. Select **Save**, then **Close**. Repeat this process for any groups or distribution lists associated with the domain that you want to remove.
     
 ### Step 3: Remove the old domain
 
 ::: moniker range="o365-worldwide"
 
-Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
+
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2007048" target="_blank">Domains</a> page.
+
 
 ::: moniker-end
-
-2. Choose **Setup** \> **Domains**.
+  
+2. On the **Domains** page, select the domain that you want to remove. 
     
-3. On the **Domains** page, choose the domain that you want to remove. 
+3. In the right pane, select **Remove**.
     
-4. In the right pane, choose **Remove**.
-    
-5. Follow any additional prompts, and then choose **Close**.
+4. Follow any additional prompts, and then select **Close**.
     
 ## How long does it take for a domain to be removed?
 

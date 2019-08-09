@@ -21,7 +21,7 @@ search.appverid:
 - MOE150
 ms.assetid: 0dc55430-98d6-4cbe-ba69-1a4ad29a967d
 ROBOTS: NOINDEX
-description: "Learn about types of users in the Microsoft 365 admin center. "
+description: "Learn about types of users in the admin center. "
 ---
 
 # Quick help: Types of users

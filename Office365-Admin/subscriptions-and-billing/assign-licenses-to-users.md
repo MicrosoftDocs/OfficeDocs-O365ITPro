@@ -37,6 +37,7 @@ description: "Learn how to assign licenses to users, or move users to a new subs
 # Assign licenses to users
 
 ::: moniker range="o365-worldwide"
+
 You can assign licenses to users on either the **Active users** page, or on the **Licenses** page. Which method you use depends on whether you want to assign product licenses to specific users, or assign users licenses to specific products.
 
 ## Assign licenses to users on the Licenses page
@@ -82,17 +83,23 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 6. At the bottom of the pane, select **Add** \> **Close**.  
 
-::: moniker-end
-
-::: moniker range="o365-worldwide"
 ### Use the old admin center to assign licenses to multiple users
-::: moniker-end
-  
+
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+::: moniker-end
 
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+::: moniker-end
 
 2. Select the boxes next to the names of the users you want to assign licenses to.
 
@@ -104,7 +111,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     By default, all services associated with those licenses are automatically assigned to the users. You can limit which services are available to the users. Switch the toggles to the **Off** position for the services that you don't want the users to have.
 
-6. At the bottom of the **Add to existing products** pane, choose **Add** \> **Close** \> **Close**.
+6. At the bottom of the **Add to existing products** pane, select **Add** \> **Close** \> **Close**.
 
 ## Assign licenses to one user on the Active users page
 
@@ -122,17 +129,23 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 4. Expand the **Licenses** section, select the boxes for the licenses that you want to assign, then select **Save changes**.
 
-::: moniker-end
-
-::: moniker range="o365-worldwide"
 ### Use the old admin center to assign licenses to one user
-::: moniker-end
-  
+
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+::: moniker-end
 
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+    
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+::: moniker-end
 
 2. Select the box next to the name of the user you want to assign a license to.
 
@@ -152,7 +165,7 @@ If you have more than one subscription, and you have users who already have a li
 
 ### Use the new admin center to move users to a different subscription
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
@@ -168,17 +181,23 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 6. At the bottom of the **Replace existing products** pane, select **Replace** \> **Close**.
 
-::: moniker-end
-
-::: moniker range="o365-worldwide"
 ### Use the old admin center to move users to a different subscription
-::: moniker-end
-  
+
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+::: moniker-end
 
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+    
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+::: moniker-end
 
 2. Select the boxes next to the names of the users you want to replace existing licenses for.
 

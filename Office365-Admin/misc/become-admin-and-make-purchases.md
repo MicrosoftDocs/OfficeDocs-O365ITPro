@@ -57,7 +57,7 @@ A wizard guides you through the process, but here's a summary of each step.
 |||
 |:-----|:-----|
 |![Number one in a pink circle](../media/a4da261d-2516-48c5-b58a-9c452b9086b8.png)|**Sign up** Before you can become the admin, you must already be signed up for Skype Meetings with your work email address.  <br/> |
-|![Number two in a pink circle.](../media/de3c1ab4-4f01-4026-b1ba-3265bdb32a89.png)|**Run the wizard** After you've signed up, run the wizard by doing one of the following:  <br/>  Run the **Become the admin** wizard that appears after clicking **Admin** in the app launcher .  <br/>  OR  <br/>  Click the option to **Upgrade to Office 365** in Skype Meetings, and then choose the Office 365 subscription you want to upgrade to.  <br/> |
+|![Number two in a pink circle.](../media/de3c1ab4-4f01-4026-b1ba-3265bdb32a89.png)|**Run the wizard** After you've signed up, run the wizard by doing one of the following:  <br/>  Run the **Become the admin** wizard that appears after selecting **Admin** in the app launcher .  <br/>  OR  <br/>  Choose to **Upgrade to Office 365** in Skype Meetings, and then select the Office 365 subscription you want to upgrade to.  <br/> |
 |![Number three in a pink circle.](../media/60fa378c-6ac1-4cbd-a782-2fa7ca619dc6.png)|**Verify domain ownership** Next, you'll verify to Office 365 that you own or manage the domain name (like contoso.com) that's associated with your organization's email addresses. Only the owner of the domain name has the authority to do this.  <br/> |
 |![Number 4 in a pink circle.](../media/1a0ff2ce-0942-405a-94e3-9bfeb1e5059e.png)|**Buy licenses** In the last step in the wizard, you'll buy Office 365 licenses for each person within your organization who's signed up for Skype Meetings with their work email.  <br/> For example, if two users have signed up for Skype Meetings with their work email, you'll need to buy two licenses—one for each of them.  <br/> > [!NOTE]> You can't manage Office 365 until after you've bought the licenses.           |
    
@@ -75,7 +75,7 @@ The Office 365 subscription that your organization is upgraded to depends on whi
    
 ## What's next?
 
-Now that you're the Office 365 administrator, you may want to do the following:
+Now that you're the admin, you may want to do the following:
   
 |****Task****|****Details****|
 |:-----|:-----|

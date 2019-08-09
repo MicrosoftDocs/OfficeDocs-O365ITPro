@@ -46,11 +46,11 @@ Follow the steps below or [watch the video (start at 0:42)](https://support.offi
     
 2. Under **MY DOMAINS**, select **Manage domains**.
     
-3. On the **Domain Center** page, find the domain that you want to update, and then choose the **Panel** ( **v**) control for that domain.
+3. On the **Domain Center** page, find the domain that you want to update, and then select the **Panel** ( **v**) control for that domain.
     
-4. In the **Domain Settings** area, choose **Edit DNS Settings**.
+4. In the **Domain Settings** area, select **Edit DNS Settings**.
     
-5. In the **TXT and SRV Records** section, choose **Add Record**.
+5. In the **TXT and SRV Records** section, select **Add Record**.
     
     (You may have to scroll down.) 
     
@@ -62,9 +62,9 @@ Follow the steps below or [watch the video (start at 0:42)](https://support.offi
 |TXT  <br/> |(Leave this field empty.)  <br/> |MS=ms *XXXXXXXX* <br/> **Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |
 
    
-7. Choose **Save**, and then choose **Save** again. 
+7. Select **Save**, and then **Save** again. 
     
-8. In the **Edit DNS Settings** dialog box, choose **Yes**.
+8. In the **Edit DNS Settings** dialog box, select **Yes**.
     
 9. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
@@ -72,13 +72,13 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. In the Microsoft 365 admin center, choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
@@ -99,9 +99,9 @@ Ready to change your NS records so Office 365 can set up your domain? Follow the
     
 2. Under **MY DOMAINS**, select **Manage domains**.
     
-3. On the **Domain Center** page, find the domain that you want to update, and then choose the **Panel** ( **v**) control for that domain.
+3. On the **Domain Center** page, find the domain that you want to update, and then select the **Panel** ( **v**) control for that domain.
     
-4. In the **Domain Settings** area, choose **Edit DNS Settings**.
+4. In the **Domain Settings** area, select **Edit DNS Settings**.
     
 5. In the **Name Server Settings** section, select **Other name servers**.
     
@@ -137,13 +137,13 @@ Ready to change your NS records so Office 365 can set up your domain? Follow the
    
     ![Entering name server values](../media/0f15880c-88b6-4133-8f31-62f0d98ee63f.png)
   
-4. Choose **Save**.
+4. Select **Save**.
     
-    ![Clicking Save on the Name Server Settings page](../media/864f7927-7127-4784-b8d2-dadfea2f9dc8.png)
+    ![Selecting Save on the Name Server Settings page](../media/864f7927-7127-4784-b8d2-dadfea2f9dc8.png)
   
-5. In the **Edit DNS Settings** dialog box, choose **Yes**.
+5. In the **Edit DNS Settings** dialog box, select **Yes**.
     
-    ![Clicking Save in the Edit DNS Settings dialog box](../media/0558e24c-17cd-428c-9ec1-5ed46481af7c.png)
+    ![Selecting Save in the Edit DNS Settings dialog box](../media/0558e24c-17cd-428c-9ec1-5ed46481af7c.png)
   
 > [!NOTE]
 > Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain. 
@@ -168,13 +168,13 @@ Ready to change your NS records so Office 365 can set up your domain? Follow the
    
    ![Entering name server values](../media/52826bd1-0596-4103-a728-d5d28b9610d2.png)
   
-3. Choose **Save**.
+3. Select **Save**.
     
-    ![Clicking Save on the Name Server Settings page](../media/cd10e4fb-b7fa-480f-855b-a443f2705cf2.png)
+    ![Selecting Save on the Name Server Settings page](../media/cd10e4fb-b7fa-480f-855b-a443f2705cf2.png)
   
-4. In the **Edit DNS Settings** dialog box, choose **Yes**.
+4. In the **Edit DNS Settings** dialog box, select **Yes**.
     
-    ![Clicking Save in the Edit DNS Settings dialog box](../media/0558e24c-17cd-428c-9ec1-5ed46481af7c.png)
+    ![Selecting Save in the Edit DNS Settings dialog box](../media/0558e24c-17cd-428c-9ec1-5ed46481af7c.png)
   
 > [!NOTE]
 > Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain. 

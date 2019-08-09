@@ -17,7 +17,7 @@ description: "Learn about resources available for Office 365 admins."
 
 # Office 365 Admin help center
 
-Learn about resources available for Office 365 admins.
+Learn about resources available for admins.
 
 <ul class="panelContent cardsFTitle">
     <li>

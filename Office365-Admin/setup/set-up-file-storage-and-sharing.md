@@ -64,14 +64,13 @@ Each person in your business who has an Office 365 license assigned (and SharePo
 Employees can also share OneDrive files and folders. If an employee is away or leaves the company, others can access shared files stored in OneDrive. 
   
 Here's how each person on your team can set up OneDrive and share files.
+
   
-![Office 365 home screen with OneDrive select](../media/4e38655d-958c-4517-b622-052c1799b95b.png)
-  
-1. Go to [office.com](https://portal.office.com) to sign in, and sign in with your user name and password. 
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>, and sign in with your user name and password. 
     
-2. On the Office 365 home page, choose **OneDrive**.
+2. From the App launcher, select **OneDrive**.
     
-3. In OneDrive, team members can store their own business-related files. You can share either individual files, or a whole folder. Pick a file or folder, right click, and then choose **Share**.
+3. In OneDrive, team members can store their own business-related files. You can share either individual files, or a whole folder. Pick a file or folder, right-click, and then choose **Share**.
     
     ![Sharing a folder](../media/e8df9df3-aea5-404d-a320-92d7826c260c.png)
   
@@ -83,7 +82,7 @@ Here's how each person on your team can set up OneDrive and share files.
     
     ![Share a link dialog box showing showing typing and selecting a name.](../media/877e6587-db9d-4903-a87b-11e570eee926.png)
   
-5. When you're done entering who you want to share with, choose **Send**. The email is immediately sent to the people you invite.
+5. When you're done entering who you want to share with, select **Send**. The email is immediately sent to the people you invite.
     
     ![Share a link, showing list of names](../media/e85625ea-7655-43f3-8623-72db68d0ea39.png)
   
@@ -97,9 +96,9 @@ Office 365 includes a basic team site with some features to help you get started
   
 Here's how you get to your team site:
   
-1. Go to [office.com](https://portal.office.com) to sign in, and sign in with your user name and password. 
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>, and sign in with your user name and password. 
     
-2. On the Office 365 home screen, choose SharePoint and then choose your team site link on the left-hand navigation menu. 
+2. From the App launcher, select **SharePoint**, then choose your team site link on the left-hand navigation menu. 
     
 3. You'll see your team's home page. This page includes:
     
@@ -108,8 +107,7 @@ Here's how you get to your team site:
   - The **+New** button to add elements to the home page, such as a document library, list, or new page. 
     
   - The left-hand navigation menu to get to other areas on your team site, like the team document library.
-    
-    ![SharePoint Online Team site home page](../media/fafe9a15-7e5c-470d-99a4-fd56b37064fa.png)
+
   
 ### Upload files to your team site for online collaboration
 
@@ -118,18 +116,12 @@ To help you get started storing and sharing files quickly, your team site comes 
 Here are the steps to add files:
   
 1. On the home page of your team site, choose **Documents** from the left-hand navigation menu. This will take you to your **Documents library**. 
-    
-    ![Team document library](../media/bd4bd33e-dee4-4f33-8eeb-ebf9462c89e2.png)
   
 2. While you're still signed in to Office 365, open Windows **File Explorer** from your taskbar or other location. Go to the files you want to upload to your team site. 
     
 3. Select the files you want to upload to your team site, and then drag them to the **Document library**.
-    
-    ![Drag a file from a desktop folder to your library](../media/047e9412-17b0-479a-a6a8-3ea344416946.png)
   
 4. When you're done, the files will be stored in both your team site and your computer.
-    
-    ![Team site library with files](../media/05e4a103-6e66-4484-ab3a-4eac430c20d3.png)
   
 5. You can delete the files from your computer. In the next step, [Sync online files with your PC or Mac](#sync-online-files-with-your-pc-or-mac), you're going to create a new location for these files on your computer.
     
@@ -150,21 +142,15 @@ Here's how to synchronize files on your team site with your desktop:
     > [!TIP]
     > When syncing files on your team site, you're syncing each file library on the site, not the entire site. 
   
-    ![Team document library](../media/bd4bd33e-dee4-4f33-8eeb-ebf9462c89e2.png)
-  
 2. Choose **Sync** to synchronize all the files. Or browse to the specific folder you want to sync. 
-    
-    ![Document library with Sync button selected](../media/6ec1d32e-57a0-46b7-9f1c-6867f95e4586.png)
-  
+      
 3. If prompted to switch apps, choose **Yes**. OneDrive is the process doing the synchronization.
-    
-    ![Office 365 switch apps prompt](../media/fea88d3c-f6f5-4bb0-863b-1ddb9c630794.jpg)
   
 4. If you then get a **Set up OneDrive** prompt, sign in with your work or school account. 
     
     ![OneDrive setup screen](../media/82cbb1ac-2ac5-42bd-82de-ba710bf46145.png)
   
-5. If you haven't yet synced your OneDrive, you might see a **This is your OneDrive folder** screen. Check the path under **Your OneDrive folder is here**. Choose **Change Location** if you want to use a different path, and then click **Next**. 
+5. If you haven't yet synced your OneDrive, you might see a **This is your OneDrive folder** screen. Check the path under **Your OneDrive folder is here**. Choose **Change Location** if you want to use a different path, and then select **Next**. 
     
     ![Change your local folder at this screen](../media/6395485a-e729-4a9a-8e7d-b35e662435da.png)
   
@@ -205,15 +191,13 @@ While you can upload almost all types of files, some file names and characters i
 You can enable third-party storage for your users in Office 365 so they can store and share documents using services like Dropbox in addition to OneDrive for Business and team sites. This can be a great way to provide services that your users may already be using or prefer to use for business projects. If you don't want people in your organization using Office to open files in a third-party service, follow these steps to turn it off.
   
 > [!IMPORTANT]
-> Third party storage is enabled by default so you need to perform these steps right away if you don't want it available to your users. 
+> Third-party storage is enabled by default so you need to perform these steps right away if you don't want it available to your users. 
   
-1. Sign in to Office 365 with your work or school account. 
+1. Sign in to to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>. 
     
-2. Go to the [ Microsoft 365 admin center ](../admin-overview/about-the-admin-center.md).
+3. Go to **Settings** \> **Services and add-ins** \> **Office on the web**.
     
-3. Go to **Settings** \> **Services and add-ins** \> **Office for the web**.
-    
-4. Select **Allow people to use third-party hosted storage services** to turn this setting on or off. 
+4. Select the check box to turn third-party storage on or off. 
     
 ## Next steps
 

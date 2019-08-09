@@ -65,7 +65,7 @@ We've got some exciting changes to help you get your organization set up. First 
 
 ### Simplify multi-factor authentication
 
-Admins have access to sensitive information in your organization. Require all admins to use multi-factor authentication when signing in. The new wizard helps you get it done with just one click. To try it out, go to **Setup** > **Strengthen sign-in security**.
+Admins have access to sensitive information in your organization. Require all admins to use multi-factor authentication when signing in. The new wizard helps you get it done with just one step. To try it out, go to **Setup** > **Strengthen sign-in security**.
 
 ### Users
 
@@ -213,7 +213,7 @@ Check it out: **Users > Active users > Edit** or **Add user > Licenses and Apps*
 
 - **Home improvements** The Home page has been completely re-done and we can't wait for you to try it out and see what you think. This is your personal Home page and you won't affect the Home pages of other admins in your organization. <br/>![Screen capture: Microsoft 365 Admin Center Preview Home Page.](media/d1a497f1-30e6-4c1a-9bb2-d4d7895906da.png)
 
-  - You can add, remove, and move home page cards around the Home page. Click **+ Add card** in the top right corner to see which cards are available in the card library, and then drag them anywhere on the Home page. Don't like where it landed? Click and drag it to where you want it. You don't even have to save any more.
+  - You can add, remove, and move home page cards around the Home page. Select **+ Add card** in the top right corner to see which cards are available in the card library, and then drag them anywhere on the Home page. Don't like where it landed? Drag it to where you want it. You don't even have to save any more.
 
   - Take organization to the next level by grouping cards into sections. We've created two default sections for you: **Basics** and **Devices and updates.** Very soon, you'll be able to add, remove, and rename sections to design a Home page that works for you.
 

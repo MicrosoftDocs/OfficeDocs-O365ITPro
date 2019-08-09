@@ -198,19 +198,13 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. Choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the domain that you are verifying. 
-    
-    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+2. On the **Domains** page, select the domain that you are verifying. 
   
-3. On the **Setup** page, choose **Start setup**.
-    
-    ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
-  
-4. On the **Verify domain** page, choose **Verify**.
-    
-    ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
+3. On the **Setup** page, select **Start setup**.
+       
+4. On the **Verify domain** page, select **Verify**.   
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
@@ -243,7 +237,7 @@ The MX record you'll add includes a value (the **Points to address** value) that
 
 ::: moniker-end
 
-1. On your DNS host's website, click to add a new MX record.
+1. On your DNS host's website, add a new MX record.
     
     Now you'll [get the information for the MX record](../get-help-with-domains/information-for-dns-records.md) from Office 365. 
     
@@ -546,7 +540,7 @@ On your DNS host's website, you'll create two new SRV records, typically one at 
 
  **If you know how to update DNS records at your domain's DNS host**, use the Office 365 DNS values to edit records at your domain's DNS host, for example, to set up an MX record or SPF record. Find the specific values to use by [following these steps](../get-help-with-domains/information-for-dns-records.md), or view them in the domains setup wizard as you step through it.
   
- **If you need some help figuring out how to add the required DNS records** and your DNS host isn't listed in [Create DNS records for Office 365](https://support.office.com/article/b0f3fdca-8a80-4e8e-9ef3-61e8a2a9ab23.aspx), first [gather the information you need to create Office 365 DNS records](../get-help-with-domains/information-for-dns-records.md). Then use the general steps in this topic to set up your domain's DNS records so you can use your domain with Office 365 services, like email.
+ **If you need some help figuring out how to add the required DNS records** see [Set up your domain (host-specific instructions](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide), first [gather the information you need to create Office 365 DNS records](../get-help-with-domains/information-for-dns-records.md). Then use the general steps in this topic to set up your domain's DNS records so you can use your domain with Office 365 services, like email.
   
  **If you don't have a website that you use with your custom domain**, you can have Office 365 set up and manage DNS records for your domain instead of doing all the setup yourself. Learn about the [two options for setting up and managing DNS records for a custom domain](https://support.office.com/article/5980474a-097f-4f21-a864-21245314957f.aspx) in Office 365. 
   

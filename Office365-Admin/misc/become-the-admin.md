@@ -50,19 +50,19 @@ If you are an admin and want to take over an unmanaged or "shadow" tenant create
 
 1. When you enter the verification code, you'll be brought to a page where you can create a new account. 
     
-2. Please fill on the user name and password fields with the account that you want to use when you finish click on **Start**. 
+2. Fill out the user name and password fields with the account that you want to use, and then select **Start**. 
     
 ## Step 3: Verify domain ownership and become the admin
 
-1. A wizard will open called **"Become the admin"**. If the wizard doesn't start for you, look for the **Admin tile** and click on it. 
+1. A wizard will open called **"Become the admin"**. If the wizard doesn't start for you, look for the **Admin tile** and select it. 
     
-2. Click **"Yes, I want to be the admin"**
+2. Select  **"Yes, I want to be the admin"**
     
 3. You'll need to verify that you own the domain you want to take over by adding a TXT record to your domain registrar.
     
 1. The wizard will show you the TXT record to add as well as provide a link to your registrar's website and a link to step-by-step instructions.
     
-2. Once you've added the TXT record at your registrar site, come back to the wizard and click **Okay, I've added the record** to confirm the record.
+2. Once you've added the TXT record at your registrar site, come back to the wizard and select **Okay, I've added the record** to confirm the record.
     
 > [!NOTE]
 > If someone in the account signed up to use Office at work (instead of one of the other subscriptions, like Power BI), you'd be prompted to and required to buy licenses for them as part of becoming the admin for the domain. But you can add or remove licenses after you finish the admin setup. 
