@@ -31,7 +31,7 @@ To start using a custom domain (contoso.com) with Office 365, you need to verify
   
 You can add and manage DNS records using the administrative tools at your domain host, or give Office 365 control of your domain records and we'll set them up for you.
   
-Click your domain host below for the exact steps. If you're not sure who your host is, see [Find your domain registrar](find-your-domain-registrar.md).
+Select your domain host below for the exact steps. If you're not sure who your host is, see [Find your domain registrar](find-your-domain-registrar.md).
   
 
 ## Let Office 365 manage your DNS records

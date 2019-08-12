@@ -33,17 +33,17 @@ You can't remove a license from a subscription if it's assigned to a user. If yo
 
 ::: moniker range="o365-worldwide"
 
-### Use the admin center (preview) to remove licenses from your subscription
+### Use the new admin center to remove licenses from your subscription
 
-The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. On the **Products & services** page, find the subscription from which you want to remove licenses, then choose **Add/Remove licenses**.
+2. On the **Products & services** page, find the subscription from which you want to remove licenses, then select **Add/Remove licenses**.
 
     [What if I don't see the Add/Remove licenses link?](#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then choose **Submit change**. For example, if you have 110 licenses and you want to remove 5 of them, enter 105.
+3. In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then select **Submit change**. For example, if you have 110 licenses and you want to remove 5 of them, enter 105.
 
 ::: moniker-end
 
@@ -57,11 +57,11 @@ The preview is available to all Microsoft 365 admins, you can opt in by selectin
 
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
-2. On the **Subscriptions** page, choose the subscription from which you want to remove licenses, then choose **Add/Remove licenses**.
+2. On the **Subscriptions** page, select the subscription from which you want to remove licenses, then select **Add/Remove licenses**.
 
     [What if I don't see the Add/Remove licenses link?](#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. In the **Total licenses** box, enter the total number of licenses that you need for this subscription and then choose **Submit**. For example, if you have 110 licenses and you want to remove 5 of them, enter 105.
+3. In the **Total licenses** box, enter the total number of licenses that you need for this subscription and then select **Submit**. For example, if you have 110 licenses and you want to remove 5 of them, enter 105.
 
 ## What if I don't see the Add/Remove licenses link?
 
@@ -83,7 +83,7 @@ If the subscription was purchased via a partner, you'll see the Volume Licensing
   
 ## What you need to know about removing licenses from users in Office 365 for business
 
-- You need to be either a Global admin or a User management admin. For more information, see [About Office 365 admin roles](../add-users/about-admin-roles.md).
+- You need to be either a Global admin or a User management admin. For more information, see [About admin roles](../add-users/about-admin-roles.md).
 
 - Use these steps to add a license to an existing user account. [Learn how to add a user account and assign a license at the same time](../add-users/add-users.md).
 
