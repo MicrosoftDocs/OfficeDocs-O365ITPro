@@ -190,7 +190,7 @@ For information about Skype for Business add-ons, see [Skype for Business and Mi
 |Office 365 Advanced Compliance  <br/> | Office 365 Enterprise E1  <br/>  Office 365 Enterprise E3  <br/>  Office 365 Enterprise E4  <br/> |
 |Office 365 Extra File Storage  <br/> | Office 365 Business  <br/>  Office 365 Business Essentials  <br/>  Office 365 Business Premium  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise E2  <br/>  Office 365 Enterprise E3  <br/>  Office 365 Enterprise E4  <br/>  Office 365 Enterprise E5  <br/>  Office for the web with SharePoint Plan 1  <br/>  Office for the web with SharePoint Plan 2  <br/>  SharePoint Online Plan 1  <br/>  SharePoint Online Plan 2  <br/> |
 |Phone System in Office 365  <br/> | Office 365 Enterprise E1  <br/>  Office 365 Enterprise E3  <br/>  Office 365 Enterprise E4  <br/>  Office 365 Enterprise E5  <br/> |
-|Audio Conferencing in Office 365  <br/> | Office 365 Enterprise E1  <br/>  Office 365 Enterprise E3  <br/>  Office 365 Enterprise E4  <br/> |
+|Audio Conferencing in Office 365  <br/> |  Office 365 Business Essentials <br/> Office 365 Business Premium <br/> Office 365 Enterprise E1 <br/> Office 365 Enterprise E3 <br/> Office 365 Enterprise E4 <br/> Office 365 Enterprise E5 without Audio Conferencing <br/> Microsoft 365 Business <br/> Microsoft 365 E3 <br/> Microsoft 365 E5  <br/> |
 |Communications Credits in Office 365  <br/> | Office 365 Enterprise E5  <br/> |
 |Domestic Calling Plan in Office 365  <br/> | Office 365 Enterprise E5  <br/> |
 |International Calling Plan in Office 365  <br/> | Office 365 Enterprise E5  <br/> |
