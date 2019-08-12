@@ -88,7 +88,7 @@ Older email applications like Office 2013 need app passwords. Here's how to allo
 5. Select**Save**, then **Close**.
 
 > [!NOTE]
-> Modern authentication can be enabled On Office 2013 by setting a few registry Keys, see [Enable Modern Authentication for Office 2013 on Windows devices](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?view=o365-worldwide).
+> Modern authentication can be enabled On Office 2013 by setting a few registry keys. For more information, see [Enable Modern Authentication for Office 2013 on Windows devices](docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?view=o365-worldwide).
     
 ## Manage MFA user settings
 
