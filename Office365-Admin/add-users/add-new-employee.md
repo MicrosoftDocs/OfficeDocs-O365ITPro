@@ -42,30 +42,30 @@ Here's a quick overview:
 |**Step**|**Why do this?**|
 |:-----|:-----|
 |[Step 1: Create an Office 365 account for the employee](#step-1-create-an-office-365-account-for-the-employee) <br/> |Each time a new employee joins your business, create an account for them so they can start using Office 365.  <br/> |
-|[Step 2: Give the employee their Office 365 user ID and password](#step-2-give-the-employee-their-office-365-user-id-and-password) <br/> |When you create an account, you'll get an ID and password that you can pass to your employee so they can sign in.  <br/> |
-|[Step 3: Explain where to sign in to Office 365](#step-3-explain-where-to-sign-in-to-office-365) <br/> |The sign in location is [https://www.office.com](https://www.office.com) <br/> |
+|[Step 2: Give the employee their user ID and password](#step-2-give-the-employee-their-user-id-and-password) <br/> |When you create an account, you'll get an ID and password that you can pass to your employee so they can sign in.  <br/> |
+|[Step 3: Explain where to sign in](#step-3-explain-where-to-sign-in) <br/> |The sign in location is [https://www.office.com](https://www.office.com) <br/> |
 |[Step 4: Help your employee get started](#step-4-help-your-employee-get-started) <br/> |Let your employee know how to use OneDrive or any team sites in your organization.  <br/> |
    
 ## Step 1: Create an Office 365 account for the employee
 
 
-For instructions, see [Add users individually or in bulk to Office 365 - Admin Help](add-users.md). When you set up your new employee, you can choose to send Office 365 log in details to the employee's personal account. This way, they'll receive an email from Microsoft Online Service Team that tells them how to log in to Office 365.
+For instructions, see [Add users individually or in bulk to Office 365 - Admin Help](add-users.md). When you set up your new employee, you can choose to send log-in details to the employee's personal account. This way, they'll receive an email from Microsoft Online Service Team that tells them how to log in to Office 365.
   
-## Step 2: Give the employee their Office 365 user ID and password
+## Step 2: Give the employee their user ID and password
 
 
 Unless you sent it to their personal email address, print out the employee's Office 365 sign in name and password, and hand it to them. Or tell them the information over the phone.
   
 Because they won't yet have access to their Office 365 email, don't send the information to that email address.
   
-## Step 3: Explain where to sign in to Office 365
+## Step 3: Explain where to sign in 
 
 
 Just like Facebook, Amazon, or Gmail, your employee signs in to use Office 365. Give them the following sign in information:
   
-- Sign in at [https://www.office.com](https://www.office.com)
+- Sign in at [https://www.office.com](https://www.office.com).
     
-- Choose **Sign in**, then type the user ID and password.
+- Select **Sign in**, then type the user ID and password.
     
 ## Step 4: Help your employee get started
 
@@ -76,8 +76,8 @@ And here's a quick reference to help get them started:
   
 |**Task**|**Find the details**|
 |:-----|:-----|
-|Sign in to Office  <br/> |Go to [https://www.office.com](https://www.office.com), choose **Sign in**, and then enter your Office 365 user ID and password.  <br/> |
-|Install Office apps onto your computer.  <br/><br/> |When you sign in, the Office 365 home page has a link to download and install apps like Word and Outlook.  Select **Install Office 2016** as shown in the following screenshot.<br/> ![Shows the screen right after you sign in at Office.com. Select Install Office (top right of the screen) to install apps like Word, Excel, and PowerPoint onto your computer.](../media/0d35f124-7b2c-4f6d-9729-2184236f53ed.png)          For instructions, see [How to install Office](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx).  <br/> |
+|Sign in to Office  <br/> |Go to [https://www.office.com](https://www.office.com), select **Sign in**, and then enter your Office 365 user ID and password.  <br/> |
+|Install Office apps onto your computer.  <br/><br/> |When you sign in, the home page has a link to download and install apps like Word and Outlook.  Select **Install Office**.         For instructions, see [How to install Office](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx).  <br/> |
 |Set up your email in Outlook 2016 .  <br/> |Once Office apps are installed on your computer, set up your email. For instructions, see [How to setup Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx).  <br/> |
 |Set up Skype for Business so you can connect with co-workers or business partners in your company or around the world. You can start conversations with IM, voice, or video calls.  <br/> |[Install Skype for Business on your computer](https://support.office.com/article/8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx).  <br/> <br/>To learn how to use Skype for Business, [watch a video.](https://support.office.com/article/3a21eca4-434d-41f1-ab06-3d4a268573b7.aspx) <br/> <br/>Have you set up Skype for Business so your employees can contact people external to your business who are using the free Skype app? If not, tell your new employee so they know what to expect when using Skype for Business.  <br/> |
 |Install apps on your mobile device if you want to get email or use Skype for Business on your phone.  <br/> |If you want to set up the Outlook mobile app so you can get email via your phone. For instructions, see [iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx), [Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx), [Windows Phone](https://support.office.com/article/181a112a-be92-49ca-ade5-399264b3d417.aspx) <br/> <br/>If you want to use Skype for Business on your mobile device, download and install the mobile app. For instructions, see [iOS](https://support.office.com/article/3239c8a3-cf55-4ff0-a967-5de51911c049.aspx), [Android](https://support.office.com/article/95be9226-2d72-4e94-8a17-bc3c9edf445b.aspx), [Windows Phone](https://support.office.com/article/52d8008e-ebf0-4b2a-afd9-f05614c8e9d7.aspx) <br/> |

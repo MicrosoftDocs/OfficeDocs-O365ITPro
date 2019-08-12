@@ -20,7 +20,6 @@ description: "Get the Microsoft 365 Admin app and learn to manage your online or
 ---
 
 # About the Microsoft 365 admin mobile app
-
 Are you an admin who's usually on the go? Then check out the [Microsoft 365 Admin app](https://go.microsoft.com/fwlink/?LinkID=627216). You can use the app to manage your online organization from your phone or tablet. You can get the app from the Apple Store, and from Google Play. <br> 
 
 ![Screen capture of the admin mobile app's home page, displaying search, messages, health, and quick links.](../media/admin-mobile-app-darkbg.png)
@@ -69,7 +68,7 @@ The numbers are the total messages from the last week, not unread messages.
   
 ### How can I share the Service Incidents and Messages with the rest of my organization?
 
-If you click a specific service incident or a message, the share option will be in the top right corner. We currently support email sharing.
+If you select a specific service incident or a message, the share option will be in the top right corner. We currently support email sharing.
   
 ### My app is acting funny. What can I do to troubleshoot weird app behavior?
 

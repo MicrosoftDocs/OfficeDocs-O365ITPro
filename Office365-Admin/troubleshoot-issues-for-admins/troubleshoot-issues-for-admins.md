@@ -42,24 +42,21 @@ It could also happen because you haven't assigned a license to yourself or your 
     > [!NOTE]
     > If you're unable to sign in with your work or school account, you may be signing in to the wrong Office 365 service, see [Where to sign in to Office 365 for business](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
   
-2. From the browser header, go to **Settings** 
-    ![Settings: update your profile, install software and connect it to the cloud](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **My app settings** \> **Office 365**.
-
-    ![Office 365 Settings pane](../media/13ea9957-8ba6-49d3-bf65-cd2e717317a1.png)
+2. Select your account icon in the upper-right, and then choose **My account**.
   
-3. On the My account page, select **Subscriptions**.
+3. In the left navigation, select **Subscriptions**.
 
-    ![Office 365 Subscriptions page](../media/a132e20f-de6c-461d-beb2-2d8cf1a04f1d.png)<br/>You'll see the services that you're licensed to use, such as the latest desktop version of Office, Project, Visio, SharePoint Online or OneDrive for Business, and Exchange Online. If you don't see **The latest desktop version of Office** in the list (or **Project** or **Visio** if you bought plans with those applications), see [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md).
+   You'll see the services that you're licensed to use, such as the latest desktop version of Office, Project, Visio, SharePoint Online or OneDrive for Business, and Exchange Online. If you don't see **The latest desktop version of Office** in the list (or **Project** or **Visio** if you bought plans with those applications), see [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md).
     
-Not all Office 365 plans come with Office. If your organization has an Office 365 plan that doesn't include the latest desktop version of Office, as the admin, you can [switch to a different Office 365 plan or subscription](../subscriptions-and-billing/switch-to-a-different-plan.md). 
+Not all Office 365 plans come with Office. If your organization has a plan that doesn't include the latest desktop version of Office, as the admin, you can [switch to a different Office 365 plan or subscription](../subscriptions-and-billing/switch-to-a-different-plan.md). 
   
 If you're not sure what plan you have, follow the steps in [What subscription do I have?](../admin-overview/what-subscription-do-i-have.md) For a comparison of plans, see the [small business plans comparison](https://products.office.com/business/compare-office-365-for-business-plans) or [enterprise plans comparison](https://products.office.com/en-us/business/compare-more-office-365-for-business-plans).
   
-### I recently switched Office 365 plans and now get messages I can't use Office
+### I recently switched plans and now get messages I can't use Office
 
 When you install Office it's automatically linked to your Office 365 plan. This means if you recently switched plans you'll need to uninstall and then reinstall Office to associate it with your updated subscription. Use this easy fix tool and then follow the steps to reinstall Office.
   
-1. Click this easy fix button to uninstall Office.<br/>[![Easy fix download indicating a fix is available](../media/8b46b28d-8630-458f-b31c-0bbe25e168ec.png)](https://aka.ms/diag_officeuninstall)
+1. Select this easy fix button to uninstall Office.<br/>[![Easy fix download indicating a fix is available](../media/8b46b28d-8630-458f-b31c-0bbe25e168ec.png)](https://aka.ms/diag_officeuninstall)
   
 2. For the remaining steps showing how to save and use the easy fix, follow the steps for your browser:
     
@@ -69,7 +66,7 @@ When you install Office it's automatically linked to your Office 365 plan. This 
 
         ![Open the O15CTRRemove easy fix tool](../media/3de4a58b-7168-4a6c-a14e-b46e3510b254.png)
 
-        If the file doesn't open automatically, choose **Save** \> **Open Folder**, and then double-click the file (it should start with "**O15CTRRemove**") to run the easy fix tool.
+        If the file doesn't open automatically, select **Save** \> **Open Folder**, and then double-click the file (it should start with "**O15CTRRemove**") to run the easy fix tool.
     
     2. The Uninstall Microsoft Office wizard launches. Select **Next** and follow the prompts. 
     
@@ -79,7 +76,7 @@ When you install Office it's automatically linked to your Office 365 plan. This 
     
     **Chrome**
     
-    1. In the lower-lower left corner select the **o15CTRRemove** file and from the drop down, select **Show in folder**.
+    1. In the lower-lower left corner select the **o15CTRRemove** file and from the drop-down list, choose **Show in folder**.
 
         ![Select Show in folder](../media/fedb929c-6474-4b00-970e-a5799bc09256.png)<br/>Double-click the download, **o15CTRRemove** to run the easy fix tool.
     
@@ -121,47 +118,19 @@ If you're an Office 365 Midsize Business, Office 365 Business, or Office 365 Ent
   
 1. Sign in to Office 365 for business with your work or school account. 
     
-2. Select the app launcher icon  in the upper-left and choose **Admin**.<br/><br/>Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
-    
-3. Go to **Exchange**.
-
-    ![Microsoft 365 admin center with Exchange](../media/239c294e-4f04-4c52-bd87-bbf343cb66b9.png)
+2. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
   
-4. Under **mail flow**, go to **message trace**.
+3. Under **mail flow**, go to **message trace**.
     
 If you're an Office 365 Small Business admin, do the following to find message trace:
   
-1. Go to **Admin** \> **Service settings** \> **Email, calendar, and contacts**.
-    
-2. Under **Email troubleshooting**, click **Troubleshoot message delivery**. 
-    
-### Find missing email from the past week
-
-The mail flow troubleshooter is a simplified version of message trace that also checks for problems with your organization's domain settings. The tool can search for messages sent to or from your organization in the past week.
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2077149" target="_blank">Security & Compliance admin center</a>.
   
-1. [Go to the mail flow troubleshooter](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/troubleshoot-mail-flow)
-    
-2. Sign in with a global admin account for your organization.
-    
-3. Choose **Next**.
 
-    ![mail flow troubleshooter with Next button](../media/2d57820f-f7bc-4d46-830a-8b25c5d32931.png)
-  
-4. Choose one of the symptoms from the list.
-    
-5. Add the email addresses of the sender and recipient of the missing message. If you know part or all of the subject line, you can add that too, but it's not required.
-    
-6. Select the date the message was sent.
+2. In the left navigation, select **Mail flow** \> **Message trace**.
 
-    ![input area of the mail flow troubleshooter](../media/4e7981e9-e3b1-4850-a9e2-229b77755a23.png)
-  
-7. Choose **Next**.
     
-8. The mail flow troubleshooter runs a series of tests and returns a result. If the troubleshooter found the missing message, the results page explains what happened and how you can fix the issue.
 
-    ![Example of the results of the troubleshooter](../media/6a88dfdc-c114-449a-8fe0-a95ce7707f98.png)
-  
-If the mail flow troubleshooter wasn't able to find your missing message, use message trace for more powerful search options.
   
 ### Get help when email messages will send but can't be delivered
 
@@ -191,30 +160,30 @@ Most Lync sign-in issues can be traced to a small number of causes, and many of 
   
 |**Possible Cause**|**Resolution**|
 |:-----|:-----|
-|During sign-in, a dialog box appears that contains the following phrase: **Lync cannot verify that the server is trusted for your sign-in address. Connect anyway?** <br/> |Verify that the domain name in the dialog box is a trusted server in your organization—for example, **domainName.contoso.com**. Ask the user to select the **Always trust this server** check box, and then click **Connect**.  <br/><br/> Enterprise customers can prevent this message from appearing when a user signs in for the first time by modifying the Windows registry on each user's computer. For details, see [Modify TrustModelData registry keys](https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#modify-trustmodeldata-registry).  <br/> |
+|During sign-in, a dialog box appears that contains the following phrase: **Lync cannot verify that the server is trusted for your sign-in address. Connect anyway?** <br/> |Verify that the domain name in the dialog box is a trusted server in your organization—for example, **domainName.contoso.com**. Ask the user to select the **Always trust this server** check box, and then select **Connect**.  <br/><br/> Enterprise customers can prevent this message from appearing when a user signs in for the first time by modifying the Windows registry on each user's computer. For details, see [Modify TrustModelData registry keys](https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#modify-trustmodeldata-registry).  <br/> |
 |Mistyped sign-in address, user name, or password  <br/> | 1. Confirm that the user's sign-in name and password are correct.  <br/> 2. Verify that the user's sign-in name is formatted as follows: **bobk@contoso.com**. This may be different from the format you use to sign in to your organization's network.  <br/><br/>  Ask the user to try signing in to Lync again.  <br/> |
 |Forgotten password  <br/> |Reset the user's password and notify him or her of the new temporary password.  <br/> |
 |Not licensed to use Lync Online  <br/> |Confirm that the user is registered as a Lync user. If not, register the user, and then ask him or her to sign in to Lync again.  <br/> |
 |Wrong version of Lync installed  <br/> |This issue is usually associated with an error message that contains the following phrase: **the authentication service may be incompatible with this version of the program**.  <br/><br/> Ask the user to uninstall and reinstall Lync from the Office 365 Portal.  <br/> |
-|Problem acquiring a personal certificate that is required to sign in  <br/> |If the user's sign address has recently changed, they may need to delete cached sign-in data. Ask users to sign out, click the Delete my sign-in info link on the sign-in screen, and then try again.  <br/> |
+|Problem acquiring a personal certificate that is required to sign in  <br/> |If the user's sign address has recently changed, they may need to delete cached sign-in data. Ask users to sign out, select the Delete my sign-in info link on the sign-in screen, and then try again.  <br/> |
 |You set up a custom domain name, and the changes may not have finished propagating through the system.  <br/> |First, ensure that you have modified the Domain Name Service (DNS) records to reflect the change. For details, see [Update DNS Service (SRV) Records](https://docs.microsoft.com/en-us/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#update-dns-service).  <br/><br/> If you have already made the necessary DNS changes, advise the user to try logging in later. DNS changes can take up to 72 hours to be reflected throughout the system.  <br/> |
 |System clock out of sync with server clock  <br/> |Ensure that your network domain controller is synchronizing with a reliable external time source. For details, see the Microsoft Knowledge Base article 816042, [How to configure an authoritative time server in Windows Server](http://go.microsoft.com/fwlink/p/?linkid=3052&amp;kbid=816042).  <br/> |
    
 ### Can't enter your password?
 
-Sometimes, the password box doesn't appear on the Skype for Business sign-in screen. If you're signing in for the first time, the password box won't appear until you enter your sign-in address and click **Sign in**. 
+Sometimes, the password box doesn't appear on the Skype for Business sign-in screen. If you're signing in for the first time, the password box won't appear until you enter your sign-in address and select **Sign in**. 
   
 If you changed your password, the password box might not appear until you delete your old sign-in info. Here's how:
   
-1. In the Skype for Business main window, click the **Options** button <br/>![The Options button in Skype for Business with the arrow on the right.](../media/9081f0c6-5c72-4b25-a6ea-ba18b1ae7ffa.png) and select **File** \> **Sign Out**.
+1. In the Skype for Business main window, select the **Options** button <br/>![The Options button in Skype for Business with the arrow on the right.](../media/9081f0c6-5c72-4b25-a6ea-ba18b1ae7ffa.png) and select **File** \> **Sign Out**.
 
     ![Skype for Business options menu](../media/febd1252-cc5a-4c1b-a180-fae009e356c1.png)
   
-2. Click **Delete my sign-in info**, select **Yes**, and then click **Sign In**.
+2. Select **Delete my sign-in info**, select **Yes**, and then select **Sign In**.
 
     ![Skype for Business sign-in screen](../media/4120ef5d-31d6-497b-8571-3f5cd735461f.png)
   
-3. Under **Password**, enter your password, and click **Sign In**.<br/>![Skype for Business sign-in screen](../media/36bc1512-0299-4af3-9ed0-a6f8f526897a.png)
+3. Under **Password**, enter your password, and select **Sign In**.<br/>![Skype for Business sign-in screen](../media/36bc1512-0299-4af3-9ed0-a6f8f526897a.png)
   
 ### Get more help with Skype for Business Online issues
 
@@ -226,3 +195,11 @@ For more troubleshooting information, see [Troubleshooting Skype for Business On
 > If you're using Office 365 operated by 21Vianet in China, please [contact the 21Vianet support team](../contact-support-for-business-products.md).
   
 ::: moniker-end
+
+
+## See also
+
+[Message trace in the Security & Compliance Center](https://docs.microsoft.com/en-us/office365/securitycompliance/message-trace-scc?redirectSourcePath=%252farticle%252f3e64f99d-ac33-4aba-91c5-9cb4ca476803)
+
+[Troubleshoot Office 465 mail flow](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/troubleshoot-mail-flow)
+

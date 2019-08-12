@@ -67,7 +67,7 @@ If you would like to learn how to get started with general Office 365 services, 
 |Microsoft Teams  <br/> |Not available.  <br/> |
 |Sway  <br/> |Coming soon.  <br/> |
 |Help in multiple languages  <br/> |Help is available in Simplified Chinese and English only.  <br/> |
-|Community-provided help  <br/> |Community-provided help is not available yet, but you can click the Help button ( **?** ) in the upper right corner of your portal to see help articles.  <br/> |
+|Community-provided help  <br/> |Community-provided help is not available yet, but you can select the Help button ( **?** ) in the upper right corner of your portal to see help articles.  <br/> |
    
 \*Optional services provided directly by Microsoft, and subject to Microsoft's Terms of Service and privacy statements.
   
@@ -86,7 +86,7 @@ If you would like to learn how to get started with general Office 365 services, 
 |Autohosted apps  <br/> |You can deploy a provider-hosted app that uses SharePoint and SQL Azure. For more information, see [Create a basic provider hosted app for SharePoint](https://msdn.microsoft.com/en-us/library/office/apps/fp142381.aspx). Coming soon is the ability for developers to deploy an app that uses an autohosted web site.  <br/> |
 |InfoPath  <br/> |Not available.  <br/> |
 |SharePoint Store  <br/> |The Office and SharePoint App Stores are optional services operated by Microsoft Corporation or its affiliate from any of Microsoft's worldwide facilities. The apps available in the Store are provided by various app publishers, and are subject to the app publisher's terms and conditions and privacy statement. Your use of any of these apps may result in your data being transferred to, stored, or processed in any country where the app publisher, its affiliates or service providers maintain facilities. Please carefully review the app publisher's terms and conditions and privacy statements before downloading and using such apps.  <br/> |
-|O365 Developer Site: Publish to SharePoint Store using the Seller Dashboard\*  <br/> |Learn about the [requirements for submitting apps for SharePoint](https://go.microsoft.com/fwlink/?LinkId=518102) for distribution to users of Office 365 operated by 21Vianet.  <br/> |
+|Office 365 Developer Site: Publish to SharePoint Store using the Seller Dashboard\*  <br/> |Learn about the [requirements for submitting apps for SharePoint](https://go.microsoft.com/fwlink/?LinkId=518102) for distribution to users of Office 365 operated by 21Vianet.  <br/> |
    
 \*Optional services provided directly by Microsoft, and subject to Microsoft's Terms of Service and privacy statements.
   

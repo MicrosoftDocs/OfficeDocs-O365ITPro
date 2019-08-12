@@ -36,7 +36,7 @@ The following example describes how self-sign up works for a school. The same pr
     
 3. We validate their email address, and then they can get started using Office 365, Power BI, or other services right away.
     
-4. As the business admin, you will see who has signed up for a subscription by viewing the **Subscriptions** page in the Admin center. This way you can see when there are new or unrecognized licenses for services in your tenant. 
+4. As the business admin, you will see who has signed up for a subscription by viewing the **Subscriptions** page in the admin center. This way you can see when there are new or unrecognized licenses for services in your tenant. 
     
 ## Available self-service programs
 

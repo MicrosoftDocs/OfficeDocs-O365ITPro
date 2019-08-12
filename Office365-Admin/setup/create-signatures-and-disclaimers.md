@@ -28,53 +28,51 @@ description: "Learn to add email signature, legal disclaimer, or disclosure stat
 ## Create a signature that applies to all messages
 
 > [!TIP]
-> Organization-wide signatures are called "disclaimers," regardless of what they include. For example, they can     just be a signature, or also include your address, legal disclaimer, or other information you want.
+> Organization-wide signatures are called "disclaimers," regardless of what they include. For example, they can just be a signature, or also include your address, legal disclaimer, or other information you want.
     
 ::: moniker range="o365-worldwide"
 
-Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
+Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">https://portal.office.de/adminportal</a>.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">https://portal.partner.microsoftonline.cn/adminportal</a>.
 
 ::: moniker-end
 
-1. Click the app launcher ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png), and then click **Admin**.
-    
-    ![The Office 365 app launcher with the Admin app highlighted](../media/4eea9dbc-591b-48be-9916-322d41c6525b.png)
-  
+1. Select the app launcher ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png), and then select **Admin**.
+   
     Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
     
-2. Choose **Admin centers**, and then click **Exchange**.
+2. Select **Admin centers**, and then choose **Exchange**.
     
-3. Under Mail flow, choose **Rules**.
+3. Under Mail flow, select **Rules**.
     
-4. Click the **+** (Add) icon and choose **Apply disclaimers**.
+4. Select the **+** (Add) icon and choose **Apply disclaimers**.
     
 5. Give the rule a name.
     
-6. Under Apply this rule, choose **[Apply to all messages]**.
+6. Under **Apply this rule**, select **[Apply to all messages]**.
     
     > [!TIP]
     > [Learn more](https://docs.microsoft.com/en-us/Exchange/policy-and-compliance/mail-flow-rules/signatures#Scoping) about applying conditions if you don't want the disclaimer applied to all messages. (This scoping article is for Exchange Server, but it also applies to Office 365.) 
   
 7. Under Do the following, leave **Append the disclaimer** selected. 
     
-8.  Click **Enter text** and type your disclaimer. 
+8.  Select **Enter text** and type your disclaimer. 
     
     > [!TIP]
     > [Learn more](https://docs.microsoft.com/en-us/Exchange/policy-and-compliance/mail-flow-rules/signatures#FormatDisclaimer) about formatting disclaimers. (This formatting article is for Exchange Server, but it also applies to Office 365.) 
 
-9. Click **Select one** and choose **Wrap** as a fallback option. Then **OK**. This means that if the disclaimer can't be added because of encryption or another mail setting, it will be wrapped in a message envelope.
+9. Select **Select one** and choose **Wrap** as a fallback option. Then **OK**. This means that if the disclaimer can't be added because of encryption or another mail setting, it will be wrapped in a message envelope.
     
 10. Leave **Audit this rule with severity level** selected. Then choose **Low**, **Medium**, or **High** to be used in the message log. 
     

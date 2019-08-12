@@ -42,7 +42,7 @@ See [Enable Microsoft 365 usage analytics](enable-usage-analytics.md) to start c
   
 Microsoft 365 usage analytics contains a number of reports, including:
   
-- **Adoption overview report** — offers an all-up summary of adoption trends. Use the reports in this section to learn how your users have adopted Office 365as well as how overall usage of the individual services has changed month-over-month. You can see how many licenses are assigned, how many of those are in active use by people in your organization, how many users are returning users and how many are using the product for the first time. 
+- **Adoption overview report** — offers an all-up summary of adoption trends. Use the reports in this section to learn how your users have adopted Office 365 as well as how overall usage of the individual services has changed month-over-month. You can see how many licenses are assigned, how many of those are in active use by people in your organization, how many users are returning users and how many are using the product for the first time. 
     
 - **Product usage report** — offers a drill-down view into volume of key activities for each service. Use the reports in this section to learn how your users are utilizing Office 365. 
     
@@ -60,7 +60,7 @@ Microsoft 365 usage analytics contains a number of reports, including:
     
 - **Individual service user activity reports** — User activity reports are available for certain individual services. These reports provide user level detail usage data joined with Active Directory attributes. 
     
-You can access detailed reports for each area by clicking on the data tables. You can view all pre-built reports by clicking on the tabs at the bottom of the site, once you are viewing the reports. For more detailed instructions ,read [Navigating and utilizing the reports in Microsoft 365 usage analytics](navigate-and-utilize-reports.md)and [Customizing the reports in Microsoft 365 usage analytics](customize-reports.md).
+You can access detailed reports for each area by selecting the data tables. You can view all pre-built reports by selecting the tabs at the bottom of the site, once you are viewing the reports. For more detailed instructions, read [Navigating and utilizing the reports in Microsoft 365 usage analytics](navigate-and-utilize-reports.md) and [Customizing the reports in Microsoft 365 usage analytics](customize-reports.md).
   
 ## FAQ
 
@@ -72,7 +72,7 @@ To share the dashboards with others both the user who is sharing and the user th
 
 ### Who can connect to Microsoft 365 usage analytics?
 
-You have to be either a **global administrator**, **report reader**, **Exchange administrator**, **Skype for Business administrator**, or **SharePoint administrator**  in order to establish the connection to the content pack. See [Office 365 admin roles](../add-users/about-admin-roles.md) for more information.
+You have to be either a **global administrator**, **report reader**, **Exchange administrator**, **Skype for Business administrator**, or **SharePoint administrator**  in order to establish the connection to the content pack. See [About admin roles](../add-users/about-admin-roles.md) for more information.
 
 ### Who can customize the usage analytics dashboards and reports?
 
@@ -182,7 +182,7 @@ This is currently not on the roadmap.
 
 ### I have a specific question about the data I'm seeing for my organization. Who can I reach out to?
 
-You can use the feedback button in the Microsoft 365 admin center activity overview page, or you can open a [support case](../contact-support-for-business-products.md) to get help with the content pack. 
+You can use the feedback button in the admin center activity overview page, or you can open a [support case](../contact-support-for-business-products.md) to get help with the content pack. 
 
 ### How can partners access the data?
 

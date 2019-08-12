@@ -72,17 +72,35 @@ If a tenant was created by Microsoft, you can claim and manage that tenant by fo
 1. Join the tenant by [signing up for Power BI](https://go.microsoft.com/fwlink/?LinkId=522448) using an email address domain that matches the tenant domain you want to manage. For example, if Microsoft created the contoso.com tenant, you will need to join the tenant with an email address ending with @contoso.com. 
     
 2. Claim admin control by verifying domain ownership: once you are in the tenant, you can promote yourself to the admin role by verifying domain ownership. To do so, follow these steps:
+ 
+::: moniker range="o365-worldwide"
+   
+3. Go to [https://admin.microsoft.com](https://admin.microsoft.com).
+ 
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+3. Go to [https://portal.office.de](https://portal.office.de).
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+3. Go to [https://portal.partner.microsoftonline.cn](https://portal.partner.microsoftonline.cn).
+
+::: moniker-end
+
     
-1. Go to [https://admin.microsoft.com](https://admin.microsoft.com).
-    
-2. Select the app launcher icon in the upper-left and choose **Admin**.
+4. Select the app launcher icon in the upper-left and choose **Admin**.
     
     ![The Office 365 app launcher with the Admin app highlighted](../media/4eea9dbc-591b-48be-9916-322d41c6525b.png)
   
-3. Read the instructions on the **Become the admin** page and then choose **Yes, I want to be the admin**.
+5. Read the instructions on the **Become the admin** page and then select **Yes, I want to be the admin**.
     
     > [!NOTE]
-    >  If this option doesn't appear, there is already an Office 365 administrator in place. 
+    >  If this option doesn't appear, there is already an administrator in place. 
   
 ## If I have multiple domains, can I control the Office 365 tenant that users are added to?
 
@@ -106,7 +124,7 @@ These steps require the use of Windows PowerShell. To get started with Windows P
   
 To perform the following steps, you must install the latest 64-bit version of the [Azure Active Directory Module for Windows PowerShell](https://www.powershellgallery.com/packages/AzureADPreview/2.0.2.5).
   
-After you click the link, click **Run** to run the installer package. 
+After you select the link, select **Run** to run the installer package. 
   
  **Disable automatic tenant join**: Use this Windows PowerShell command to prevent new users from joining a managed tenant:
   
@@ -143,34 +161,67 @@ To allow your existing users to sign up for Power BI, run the opposite command a
 ## How do I remove Power BI for users that already signed up?
 
 If a user signed up for Power BI but you no longer want them to have access to Power BI, you can remove the Power BI license for that user.
+
+::: moniker range="o365-worldwide"
+
+### Use the new admin center to remove Power BI 
+
+The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
   
-1. Navigate to the <a href="https://admin.microsoft.com" target="_blank">Admin Center</a>.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
-2. In the left navigation bar, click **Users** then **Active Users**.
+2. Find the user you want to remove the license for, then select their name.
     
-3. Find the user you want to remove the license for, then click their name.
+3. On the **Licenses and Apps** tab, clear the **Microsoft Power BI** check box.
     
-4. On the user details page, click **Licenses** in the left navigation bar. 
+4. Select **Save changes**.
     
-5. Uncheck **Microsoft Power BI**.
+### Use the old admin center to remove Power BI 
+
+::: moniker-end
+  
+
+::: moniker range="o365-worldwide"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+
+::: moniker-end
+  
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+::: moniker-end 
     
-6. Click **Save**.
+2. Find the user you want to remove the license for, then select their name.
     
+3. Next to **Product licenses**, select **Edit**. 
+    
+4. Toggle off the **Microsoft Power BI** option.
+    
+5. Select **Save**.
+
 ## How do I know when new users have joined my tenant?
 
 Users who have joined your tenant as part of this program are assigned a unique license that you can filter on within your active user pane in the admin dashboard.
   
-To create this new view, in the Admin center, go to **Users** \> **Active Users**, and on the **Select a View** menu, select **New View**. Name your new view, and under **Assigned license**, select **Microsoft Power BI**. After the new view has been created, you will be able to see all the users in your tenant who have enrolled in this program.
+To create this new view, in the admin center, follow the steps to in [Create a custom user view](../add-users/create-edit-or-delete-a-custom-user-view.md#create-a-custom-user-view). Under **Assigned product license**, select **Microsoft Power BI**. After the new view has been created, you will be able to see all the users in your tenant who have enrolled in this program.
   
 ## Are there any additional things I should be prepared for?
 
 You might experience an increase in password reset requests. For information about this process, see [Reset a user's password](../add-users/reset-passwords.md).
   
-You can remove a user from your tenant via the standard process in the Admin center. However, if the user still has an active email address from your organization, they will be able to rejoin unless you block all users from joining.
+You can remove a user from your tenant via the standard process in the admin center. However, if the user still has an active email address from your organization, they will be able to rejoin unless you block all users from joining.
   
 ## Why did 1 million licenses for Microsoft Power BI show up in my Office 365 tenant?
 
-As a qualifying organization, users in your organization are eligible to use the Microsoft Power BI service and these licenses represent the available capacity for new Power BI users in your tenant. There is no charge for these licenses. If you've chosen to allow users to sign up for Power BI themselves, they will be assigned one of these available free licenses when they complete the sign up process. You can also choose to assign these licenses to users yourself through the Admin center.
+As a qualifying organization, users in your organization are eligible to use the Microsoft Power BI service and these licenses represent the available capacity for new Power BI users in your tenant. There is no charge for these licenses. If you've chosen to allow users to sign up for Power BI themselves, they will be assigned one of these available free licenses when they complete the sign up process. You can also choose to assign these licenses to users yourself through the admin center.
   
 ## Is this free? Will I be charged for these licenses?
 
