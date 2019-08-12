@@ -63,12 +63,9 @@ Follow the steps below.
   
 4. Choose **TXT (Text)** from the drop-down list. In the boxes for the new record, type or copy and paste the values from the following table.
     
-    |||||
+    |**Record type** |**Host**|**TXT Value**|**TTL** |
     |:-----|:-----|:-----|:-----|
-    |Record type  <br/> |Host  <br/> |TXT Value  <br/> |TTL  <br/> |
-    |TXT (Text) |@   |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) |1 hour  |
-      
-    (Choose the **TTL** value from the drop-down list.) 
+    |TXT (Text)|@|MS=ms *XXXXXXXX*<br>**Note**: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)|1 hour  <br>(Select a value from the drop-down list.)|    
     
       ![GoDaddy-BP-Verify-1-0](https://user-images.githubusercontent.com/45987684/56526870-d6465780-651a-11e9-9cf0-d6fff71e2f62.PNG)
    

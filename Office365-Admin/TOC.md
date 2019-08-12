@@ -110,7 +110,7 @@
 ### [Subscriptions and licenses](subscriptions-and-billing/subscriptions-and-licenses.md)
 ### [Buy licenses](subscriptions-and-billing/buy-licenses.md)
 ### [Assign licenses to users](subscriptions-and-billing/assign-licenses-to-users.md)
-### [Remove licenses from users](subscriptions-and-billing/remove-licenses-from-users.md)
+### [Unassign licenses from users](subscriptions-and-billing/remove-licenses-from-users.md)
 ### [Remove licenses from subscription](subscriptions-and-billing/remove-licenses-from-subscription.md)
 ### [Resolve license conflicts](subscriptions-and-billing/resolve-license-conflicts.md)
 ## Domains
