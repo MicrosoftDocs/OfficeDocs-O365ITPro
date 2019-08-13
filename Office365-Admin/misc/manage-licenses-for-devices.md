@@ -18,7 +18,7 @@ description: "Learn how to assign licenses to groups for use with devices."
 ---
 # Manage licenses for devices
 
-If you have Office 365 ProPlus for Education (device), you can assign licenses to devices by using Azure AD groups. When a device has a license, anyone who uses that device can use Office 365. For example, let’s say you have 20 laptops and tablets that are used by people in your organization. When you assign a license to each device, each person who logs in to one of the devices uses Office 365 without the need for their own license. After they log out of the device, the license stays associated with the device. The next time someone logs in to the same device, they can also use the device without the need for their own license.
+If you have Office 365 ProPlus for Education (device), you can assign licenses to devices by using Azure AD groups. When a device has a license, anyone who uses that device can use Office 365. For example, let’s say you have 20 laptops and tablets that are used by people in your organization. When you assign a license to each device, each person who logs in to one of the devices uses Office 365 without the need for their own license.
 
 > [!IMPORTANT]
 > Office 365 ProPlus for Education (device) is only available to Education A3 and A5 volume licensing customers.
