@@ -20,7 +20,7 @@ search.appverid:
 description: "Give access to another user to help you manage MileIQ."
 ---
 
-# Give access to MileIQ
+# Give a user access to MileIQ
 
 ## How do I access the MileIQ admin center?
 
