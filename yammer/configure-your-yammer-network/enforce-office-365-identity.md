@@ -52,7 +52,7 @@ The following table compares the user login behavior when Office 365 Identity is
 <a name="StartEnforcing"> </a>
 ## Start enforcing Office 365 identity in Yammer
 
-It takes just a few steps to start enforcing Office 365 identities in Yammer. However, turning this setting on can accidentally disrupt user's access to Yammer. So before you begin, do the following to make sure your Yammer users can continue working smoothly:
+It takes just a few steps to start enforcing Office 365 identities in Yammer. However, turning this setting on can accidentally disrupt users' access to Yammer. So before you begin, do the following to make sure your Yammer users can continue working smoothly:
   
 - **Make sure all current Yammer users have a corresponding Office 365 identity.** When you enforce Office 365 identities for Yammer, any user without a corresponding Office 365 identity will be locked out of Yammer. So before you begin, make sure that all of your current Yammer users have corresponding Office 365 identities. One method to check this is to go to the **Export Users** page in Yammer and export all users. Then compare that list to the list of users in Office 365 and make any changes required. 
     
