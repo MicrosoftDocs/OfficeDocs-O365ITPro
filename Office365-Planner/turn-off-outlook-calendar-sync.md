@@ -1,7 +1,9 @@
 ---
 title: "urn off Outlook calendar sync in Planner for your organization"
-ms.author: sshenk
-author: sshenk
+ms.author: efrene
+author: efrene
+manager: pamgreen
+ms.date: 8/14/2019
 audience: Admin
 ms.topic: Overview
 layout: LandingPage
