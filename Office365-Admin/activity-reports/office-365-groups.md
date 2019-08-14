@@ -47,7 +47,7 @@ You can get a view into groups activity by looking at the **Groups**, **Activity
 |:-----|:-----|
 |1.  <br/> |The **Office 365 groups** report can be viewed for trends over the last 7 days, 30 days, 90 days, or 180 days. However, if you select a particular day in the report, the table (7) will show data for up to 28 days from the current date (not the date the report was generated).  <br/> |
 |2.  <br/> |Each report has a date for when this report was generated. The reports usually reflect a 24 to 48 hour latency from time of activity.  <br/> |
-|3.  <br/> |The **Groups** view shows a total number of groups that existed on any given day, and active groups on that day based on Email Conversations, Yammer Posts and SharePoint file activities.  <br/> |
+|3.  <br/> |The **Groups** shows a total number of groups that existed on any given day, and active groups on that day based on Email Conversations, Yammer Posts and SharePoint file activities and SharePoint pages viewed.  <br/> |
 |4.  <br/> |The **Activity** view shows you the number of group activities across group workloads. You can view the Exchange emails received by the group mailboxes across all groups, on any day during the reporting period. You can also see messages posted, read, and liked across the Yammer groups associated with a group. <br/> |
 |5.  <br/> |The **Files** view shows you the number of total and active files across all group sites associated with a group.  <br/> |
 |6.  <br/> |The **Storage** view shows you the total storage used across all group mailboxes and group sites.  <br/> |
