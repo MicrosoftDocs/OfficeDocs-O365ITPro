@@ -17,7 +17,7 @@ search.appverid:
 - BCS160
 - MET150
 - MOE150
-description: "Invite users to join MileIQ."
+description: "You can invite people in your organization to join and use MileIQ."
 ---
 
 # Invite users in your organization to join MileIQ

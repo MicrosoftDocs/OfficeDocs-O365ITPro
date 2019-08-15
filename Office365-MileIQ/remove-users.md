@@ -1,5 +1,5 @@
 ---
-title: "Remove users from your organization for MileIQ"
+title: "Remove users in your organization from MileIQ"
 ms.author: kwekua
 author: kwekua
 manager: scotv
@@ -17,10 +17,10 @@ search.appverid:
 - BCS160
 - MET150
 - MOE150
-description: "Remove users in your organization from MileIQ."
+description: "When people leave your organization, you can remove them from the MileIQ admin center."
 ---
 
-# Remove users from your organization for MileIQ
+# Remove users in your organization from MileIQ
 
 When people leave your organization, you can remove them from the MileIQ admin center. Once removed, a person's MileIQ account is no longer associated with your organization. If you do not have access to the MileIQ admin center, contact your Global IT Admin. You need to be assigned to the Business Administrator role to remove users.
 
