@@ -28,7 +28,7 @@ You can access the MileIQ admin center at [https://admin.mileiq.com](https://adm
 
 ### Assign a user to the Business Administrator role
 
-1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com/) with an account that's a global admin for the directory.
+1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com/) with an account that's a Global Admin for the directory.
 2. Select **Admin centers** and then select **Azure Active Directory**. 
 
     ![Azure Active Directory](media/mileiq-azure-active-directory.png)
