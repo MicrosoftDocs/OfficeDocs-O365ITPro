@@ -1,7 +1,9 @@
 ---
 title: "Planner admin home"
-ms.author: sshenk
-author: sshenk
+ms.author: efrene
+author: efrene
+manager: pamgreen
+ms.date: 8/14/2019
 audience: Admin
 ms.topic: landing-page
 layout: LandingPage
@@ -16,17 +18,17 @@ Learn about resources available for Planner admins.
 
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2">
+        <a href="planner-for-admins.md#how-do-i-turn-off-planner-for-my-organization">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/sign-up.svg" alt="Buy Office" />
+                            <img src="https://docs.microsoft.com/office/media/icons/get-started-planner.svg" alt="Turn Planner on or off" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Buy Office</h3>
+                        <h3>Turn Planner on or off</h3>
                     </div>
                 </div>
             </div>
@@ -34,17 +36,17 @@ Learn about resources available for Planner admins.
         </a>
     </li>
     <li>
-        <a href="setup/setup.md">
+        <a href="https://planner.uservoice.com/forums/330525-microsoft-planner-feedback-forum">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/get-started.svg" alt="Setup" />
+                            <img src="https://docs.microsoft.com/office/media/icons/lightbulb-idea-capture-planner.svg" alt="Planner UserVoice" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Setup</h3>
+                        <h3>Planner UserVoice</h3>
                     </div>
                 </div>
             </div>
@@ -52,17 +54,17 @@ Learn about resources available for Planner admins.
         </a>
     </li>
     <li>
-        <a href="contact-support-for-business-products.md">
+        <a href="https://docs.microsoft.com/graph/planner-concept-overview">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/headset.svg" alt="Contact support" />
+                            <img src="https://docs.microsoft.com/office/media/icons/api.svg" alt="Planner API" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Contact support</h3>
+                        <h3>Planner API</h3>
                     </div>
                 </div>
             </div>
@@ -70,17 +72,17 @@ Learn about resources available for Planner admins.
         </a>
     </li>
     <li>
-        <a href="/office365/admin/manage/stay-on-top-of-updates/">
+        <a href="https://techcommunity.microsoft.com/t5/Planner/ct-p/Planner">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/radar.svg" alt="Get new features" />
+                            <img src="https://docs.microsoft.com/office/media/icons/globe-internet.svg" alt="Planner community" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Get new features</h3>
+                        <h3>Planner community</h3>
                     </div>
                 </div>
             </div>
@@ -88,17 +90,17 @@ Learn about resources available for Planner admins.
         </a>
     </li>
     <li>
-        <a href="security-and-compliance/set-up-multi-factor-authentication.md">
+        <a href="https://techcommunity.microsoft.com/t5/Planner-Blog/bg-p/PlannerBlog">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/authentication.svg" alt="Multi-factor authentication" />
+                            <img src="https://docs.microsoft.com/office/media/icons/blog-site-planner.svg" alt="Planner blog" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Multi-factor authentication</h3>
+                        <h3>Planner blog</h3>
                     </div>
                 </div>
             </div>
@@ -106,17 +108,17 @@ Learn about resources available for Planner admins.
         </a>
     </li>
     <li>
-        <a href="https://docs.microsoft.com/en-us/microsoft-365/#pivot=home&panel=home-all">
+        <a href="https://support.office.com/en-us/planner">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/caret-right-blue.svg" alt="M365" />
+                            <img src="https://docs.microsoft.com/office/media/icons/help.svg" alt="Planner end user help" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Microsoft 365</h3>
+                        <h3>Planner end user help</h3>
                     </div>
                 </div>
             </div>
@@ -127,118 +129,3 @@ Learn about resources available for Planner admins.
 
 ---
 
-<ul class="panelContent cardsF">
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/small-business.svg" alt="Small business" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>For your small business</h3>
-                        <p><a href="/office365/smallbusiness/build-your-small-business/build-your-small-business" target="_blank">Build your small business with Office 365.</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/on-premises.svg" alt="Enterprise" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>For the Enterprise</h3>
-                        <p><a href="https://docs.microsoft.com/en-us/Office365/Enterprise/">Guidance for IT Professionals who are deploying, configuring, and managing Office 365 in enterprise organizations.</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/education-tutorial.svg" alt="Training" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>For everyone: Office training center</h3>
-                        <p><a href="https://go.microsoft.com/fwlink/?linkid=124250">Find training for all Office applications.</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-</ul>
-
----
-
-<h2>Featured Articles</h2>
-<ul class="panelContent cardsW">
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardText">
-                        <h3>Get started</h3>
-                        <p><a href="admin-overview/admin-overview.md">Who is my admin?</a></p>
-                        <p><a href="setup/plan-your-setup.md">Plan your setup</a></p>
-                        <p><a href="add-users/add-users.md">Add users</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardText">
-                        <h3>Troubleshoot</h3>
-                        <p><a href="https://go.microsoft.com/fwlink/?linkid=522692">Fix Office install issues</a></p>
-                        <p><a href="https://diagnostics.outlook.com/">Fix Outlook and Office 365 problems with Microsoft Support and Recovery Assistant for Office 365</a></p>
-                        <p><a href="troubleshoot-issues-for-admins/troubleshoot-email-issues.md">Fix email issues</a></p>
-                        <p><a href="https://go.microsoft.com/fwlink/?linkid=866431">Fix OneDrive for Business sync issues</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardText">
-                        <h3>Learn more</h3>
-                        <p><a href="admin-overview/about-the-admin-center.md">Learn about the admin center</a></p>
-                        <p><a href="https://docs.microsoft.com/en-us/MicrosoftTeams/Microsoft-Teams">Microsoft Teams documentation</a></p>
-                        <p><a href="https://go.microsoft.com/fwlink/?linkid=853063">Advanced IT Pro training from LinkedIn Learning</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardText">
-                        <h3>Subscribe</h3>
-                        <p><a href="subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md">Buy a subscription from your free trial</a></p>
-                        <p><a href="subscriptions-and-billing/cancel-your-subscription.md">Cancel your subscription</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-</ul>
