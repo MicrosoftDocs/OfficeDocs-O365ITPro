@@ -1,7 +1,9 @@
 ---
 title: "Microsoft Planner for admins"
-ms.author: sshenk
-author: sshenk
+ms.author: efrene
+author: efrene
+manager: pamgreen
+ms.date: 8/14/2019
 audience: Admin
 layout: LandingPage
 ms.service: o365-administration
@@ -48,7 +50,7 @@ Admins can control who can create a Group by using Azure Active Directory (AD) P
 
 ## How do I change the domain that Planner email notifications come from?
 
-If you are interested in having your notification emails come from a custom email domain, follow the steps described in [Multi-domain support for Office 365 Groups - Admin help](https://support.office.com/en-us/article/multidomain-support-for-office-365-groups--admin-help-7cf5655d-e523-4bc3-a93b-3ccebf44a01a).
+If you are interested in having your notification emails come from a custom email domain, follow the steps described in [Multi-domain support for Office 365 Groups - Admin help](https://support.office.com/article/multidomain-support-for-office-365-groups--admin-help-7cf5655d-e523-4bc3-a93b-3ccebf44a01a).
 
 ## Can people outside of my organization get invited to participate in a plan?
 
@@ -59,7 +61,7 @@ Yes. Guest access allows you to invite people who aren't part of your Office 365
 - Attach a file or link to a task, if given additional permission
 - Edit the plan name
 
-For more information, see [Guest access in Microsoft Planner](https://support.office.com/en-us/article/guest-access-in-microsoft-planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6).
+For more information, see [Guest access in Microsoft Planner](https://support.office.com/article/guest-access-in-microsoft-planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6).
 
 ## Can people in my organization use Planner if they don't have an Exchange Online mailbox?
 
@@ -73,7 +75,7 @@ For more information, see [KB article 3169632](https://go.microsoft.com/fwlink/p
 
 ## How do I make sure all my users can get emails forPlanner?
 
-In Planner, users can choose to receive emails when tasks are assigned to them or when tasks are due soon or late (see [Choose whether to have email sent directly to you](https://support.office.com/en-us/article/stay-on-top-of-tasks-and-plans-with-email-and-notifications-cce223d6-b0ae-43cf-a080-266e2414a859#bkmk_choosewhethertohaveemailsenttoyou_1_1_1_1_1)). However, email will only be sent to users who have a product license that includes Exchange Online. Users at organizations using on-premises Exchange Server or hybrid configurations may not receive all Planner emails.
+In Planner, users can choose to receive emails when tasks are assigned to them or when tasks are due soon or late (see [Choose whether to have email sent directly to you](https://support.office.com/article/stay-on-top-of-tasks-and-plans-with-email-and-notifications-cce223d6-b0ae-43cf-a080-266e2414a859#bkmk_choosewhethertohaveemailsenttoyou_1_1_1_1_1)). However, email will only be sent to users who have a product license that includes Exchange Online. Users at organizations using on-premises Exchange Server or hybrid configurations may not receive all Planner emails.
 
 ## How do I turn off Outlook calendar sync in Planner for my organization?
 
@@ -90,11 +92,11 @@ Planner comes with these Office 365 subscriptions:
 - Office 365 Enterprise E5
 - Office 365 Education
 
-For more on these subscriptions, see [business plans](https://www.microsoft.com/en-us/microsoft-365/business), [enterprise plans](https://www.microsoft.com/en-us/microsoft-365/business/compare-more-office-365-for-business-plans), or [education plans](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans). If your current subscription doesn't include Planner, the only way to get Planner is to switch to a subscription that does.
+For more on these subscriptions, see [business plans](https://www.microsoft.com/microsoft-365/business), [enterprise plans](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans), or [education plans](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans). If your current subscription doesn't include Planner, the only way to get Planner is to switch to a subscription that does.
 
 ## Can I see who is already using Planner, or see a list of all the Planner sites?
 
-You can see a list of all groups in the Microsoft 365 admin center, in the Groups section, and find out more detailed information about these groups using [Office 365 Reports in the admin center - Office 365 groups](https://support.office.com/en-us/article/office-365-reports-in-the-admin-center--office-365-groups-a27f1a99-3557-4f85-9560-a28e3d822a40). Every group comes with a plan, but a list of plans and active usage of plans are not included in these reports right now.
+You can see a list of all groups in the Microsoft 365 admin center, in the Groups section, and find out more detailed information about these groups using [Office 365 Reports in the admin center - Office 365 groups](https://support.office.com/article/office-365-reports-in-the-admin-center--office-365-groups-a27f1a99-3557-4f85-9560-a28e3d822a40). Every group comes with a plan, but a list of plans and active usage of plans are not included in these reports right now.
 
 ## How can I apply CA policies to the Planner iOS and Android apps?
 
