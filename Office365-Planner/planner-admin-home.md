@@ -24,7 +24,7 @@ Learn about resources available for Planner admins.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/office/media/icons/sign-up.svg" alt="Turn Planner on or off" />
+                            <img src="https://docs.microsoft.com/office/media/icons/get-started-planner.svg" alt="Turn Planner on or off" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -42,7 +42,7 @@ Learn about resources available for Planner admins.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/office/media/icons/get-started.svg" alt="Planner UserVoice" />
+                            <img src="https://docs.microsoft.com/office/media/icons/lightbulb-idea-capture-planner.svg" alt="Planner UserVoice" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -60,7 +60,7 @@ Learn about resources available for Planner admins.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/office/media/icons/headset.svg" alt="Planner API" />
+                            <img src="https://docs.microsoft.com/office/media/icons/api.svg" alt="Planner API" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -78,7 +78,7 @@ Learn about resources available for Planner admins.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/office/media/icons/radar.svg" alt="Planner community" />
+                            <img src="https://docs.microsoft.com/office/media/icons/globe-internet.svg" alt="Planner community" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -96,7 +96,7 @@ Learn about resources available for Planner admins.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/office/media/icons/authentication.svg" alt="Planner blog" />
+                            <img src="https://docs.microsoft.com/office/media/icons/blog-site-planner.svg" alt="Planner blog" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -114,7 +114,7 @@ Learn about resources available for Planner admins.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/office/media/icons/caret-right-blue.svg" alt="Planner end user help" />
+                            <img src="https://docs.microsoft.com/office/media/icons/help.svg" alt="Planner end user help" />
                         </div>
                     </div>
                     <div class="cardText">
