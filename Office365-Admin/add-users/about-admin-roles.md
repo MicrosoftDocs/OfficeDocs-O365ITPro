@@ -43,8 +43,6 @@ Because admins have access to sensitive data and files, we recommend that you fo
 ## Where did the role descriptions go?
 The role descriptions can be found in the Azure AD documentation [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
 
-## 
-
 ## Need more details about what these roles can and cannot do?
 
 In the Microsoft 365 admin center, go to **Roles** > **Roles**, and then select any role to open its detail pane. Select the **Permissions** tab to view the detailed list of what admins assigned that role have permission to do.
@@ -53,6 +51,9 @@ You can also view the brief descriptions later in this article: [Roles available
 
 If you don’t have access to the Microsoft 365 admin center, or if you’re looking for detailed information, including the cmdlets associated with a role, see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
   
+## How can I tell which permissions are assigned to me?
+If you get a message in the admin center telling you that you don't have permissions to edit a setting or page, it's because you are assigned a role that doesn't have that permission.
+
 ## What about the Azure Active Directory roles?
 
 The Azure portal has more roles than available in the Microsoft 365 admin center. If you have a large business, there might be roles in the Azure portal that meet your organizational needs.
