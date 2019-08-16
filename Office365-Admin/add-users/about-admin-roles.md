@@ -51,6 +51,9 @@ You can also view the brief descriptions later in this article: [Roles available
 
 If you don’t have access to the Microsoft 365 admin center, or if you’re looking for detailed information, including the cmdlets associated with a role, see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
   
+## Some roles are missing from Active users > Manage admin roles. Where did they go?
+To save space and to make things easier, we show only the default roles that most organizations use. Go to the bottom of the list and select **See more roles**. 
+
 ## How can I tell which permissions are assigned to me?
 If you get a message in the admin center telling you that you don't have permissions to edit a setting or page, it's because you are assigned a role that doesn't have that permission.
 
@@ -74,7 +77,6 @@ You'll probably only need to assign the following roles in your organization.
 |Billing admin     |    Assign the billing admin role to users who need to do the following:<br>- Purchase subscriptions and licences <br> - Upgrade subscriptions <br> - Pay for services <br> - Receive email notifications for invoices <br> - Manage service requests <br> - Monitor service health   |
 |Helpdesk admin     |   Assign the Helpdesk admin role to users who need to do the following:<br> - Rest passwords <br> - Force users to sign out <br> - Manage service requests <br> - Monitor service health <br> <br> **Note**: The Helpdesk admin can only help non-admin users and users assigned these roles: Directory reader, Guest inviter, Helpdesk admin, Message center reader, and Reports reader.      |
 |License admin     |     Assign the license admin role to users who need to do the following: <br> - Manage licenses assigned to users <br> - Manage licenses assigned to groups using group-based licensing.<br> - Edit usage location for users<br><br> **Note**: This role doesn't give permission to purchase or manage subscriptions, add or manage groups, or edit user properties, except for usage location.  |
-|Password admin     |   Assign the password admin role to users who need to do the following:  - Reset passwords <br> <br> **Note**:  Password admins can only reset passwords for non-admin users and users assigned these roles: Directory reader, Guest inviter, and Password admins |
 |Reports reader     |   Assign the reports reader role to users who need to do the following: <br> - View usage data and activity reports<br> - Access Power BI adoption content pack <br> - View sign-in reports and activity <br> - View data returned by Microsoft Graph reporting API      |
 |User admin     |    Assign the User admin role to users who need to do the following for all users: <br> - Add users and groups <br> - Assign licenses <br> - Manage most users properties <br> - Create and manage user views <br> - Update password expiration policies <br> - Manage service requests <br> - Monitor service health <br><br>  The user admin can also do the following actions for users who aren't admins and for users assigned the following roles: Directory reader, Guest inviter, Helpdesk admin, Message center reader, Reports reader: <br> - Manage usernames<br> - Delete and restore users<br> - Reset passwords <br> - Force users to sign out <br> - Update (FIDO) device keys   |
 
@@ -104,13 +106,11 @@ You'll probably only need to assign the following roles in your organization.
 |Kaizala admin     |    Full access to all Kaizala management features and data, manages service requests.     |
 |License admin     |     Assigns and removes licenses from users and edits their usage location.    |
 |Message center privacy reader     |    Access to data privacy messages in Message Center, gets email notifications.     |
-|Message center reader     | Reads and shares regular messages in Message Center, monitors service health, gets weekly email digests.     |
-|Password admin     |    Resets passwords for non-admin users, Directory readers, Guest inviters, and Password admins.     |
+|Message center reader     | Reads and shares regular messages in Message Center, gets weekly email digests, has read-only access to users, groups, domains, and subscriptions.     |
 |Privileged role admin     |    Manages role assignments in manages all access control features of Privileged Identity Management.     |
 |Reports reader     |   Reads usage reporting data from the reports dashboard, PowerBI adoption content pack, sign-in reports, and Microsoft Graph reporting API.      |
 |Search admin     |    Full access to Microsoft Search, assigns the Search admin and Search editor roles, manages editorial content, monitors service health, and creates service requests.     |
 |Search editor     |    Can only create, edit, and delete content for Microsoft Search, like bookmarks, Q&A, and locations.     |
-|Security admin     |  Controls organization's security, manages security policies, reviews security analytics and reports, monitors the threat landscape.    |
 |Service admin     |    Creates service requests for Azure, Microsoft 365, and Office 365 services, and monitors service health.     |
 |Skype for Business admin     | Full access to all Teams and Skype features, Skype user attributes, manages service requests, and monitors service health.      |
 |SharePoint admin     |    Full access to SharePoint Online, manages Office 365 groups, manages service requests, and monitors service health.     |
