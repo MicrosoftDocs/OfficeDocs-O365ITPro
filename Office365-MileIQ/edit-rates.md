@@ -22,7 +22,7 @@ description: "Edit the custom MileIQ rates for your organization."
 
 # Edit rates the custom rates for MileIQ
 
-In the MileIQ admin center at [https://admin.mileiq.com](https://admin.mileiq.com), you can set a custom mileage rate that applies to all users in your organization. If you do not have access to the MileIQ admin center, contact your global admin. You need to be assigned to the Business Administrator role to set the rate.
+In the MileIQ admin center at [https://admin.mileiq.com](https://admin.mileiq.com), you can set a custom mileage rate that applies to all users in your organization. If you do not have access to the MileIQ admin center, contact your global admin. You need to be assigned to the business administrator role to set the rate.
 
 ## Set the mileage rate
 

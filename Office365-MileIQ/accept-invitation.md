@@ -39,15 +39,15 @@ You have complete control of your drive information in MileIQ. Your organization
     - After you download MileIQ on your mobile device and sign in to your MileIQ account with your work email address, you are ready to take your first drive with MileIQ!
 
 > [!NOTE]
-> MileIQ email invitations can't be forwarded from the intended recipient to other email addresses. If you receive a MileIQ email invitation that has been forwarded to you, please contact your organization's global admin or Business Administrator.
+> MileIQ email invitations can't be forwarded from the intended recipient to other email addresses. If you receive a MileIQ email invitation that has been forwarded to you, please contact your organization's global admin or business administrator.
 
 ## Decline the join invitation
 
-You can decline the join invitation by not selecting **Get started with MileIQ** in the join MileIQ email invitation. There is no time expiration on the invitation to join MileIQ as long as your global admin or Business Administrator has not rescinded your invitation. 
+You can decline the join invitation by not selecting **Get started with MileIQ** in the join MileIQ email invitation. There is no time expiration on the invitation to join MileIQ as long as your global admin or business administrator has not rescinded your invitation. 
 
 By not accepting the join MileIQ invitation, you miss out on the benefit of using MileIQ with your organization's custom mileage rate.
 
 > [!NOTE]
 >
 > - If you received a join MileIQ invitation, but already have a MileIQ account under your work email address or a different email address, please contact our MileIQ admin center support team at [miqadmin@microsoft.com](mailto:miqadmin@microsoft.com) for assistance.
-> - Your organization's global admin or Business Administrator can remove your MileIQ account from your organization at any time. You can still use MileIQ on your own. Reimbursement rates may reset to the standard IRS rates. Your use of other Microsoft products and services should not be affected.
+> - Your organization's global admin or business administrator can remove your MileIQ account from your organization at any time. You can still use MileIQ on your own. Reimbursement rates may reset to the standard IRS rates. Your use of other Microsoft products and services should not be affected.

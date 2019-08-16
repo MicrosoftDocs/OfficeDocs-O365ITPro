@@ -24,11 +24,11 @@ description: "Give access to another user to help you manage MileIQ."
 
 ## How do I access the MileIQ admin center?
 
-You can access the MileIQ admin center at [https://admin.mileiq.com](https://admin.mileiq.com/) after you set up an account with a Business Administrator role. 
+You can access the MileIQ admin center at [https://admin.mileiq.com](https://admin.mileiq.com/) after you set up an account with a business administrator role. 
 
-### Assign a user to the Business Administrator role
+### Assign a user to the business administrator role
 
-The global admin can assign a new administrator role, Business Administrator, in Azure Active Directory. Once designated, a Business Administrator can manage the workflows in the MileIQ admin center. More than one Business Administrator can be assigned.
+The global admin can assign a new administrator role, business administrator, in Azure Active Directory. Once designated, a business administrator can manage the workflows in the MileIQ admin center. The global admin can assign more than one business administrator.
 
 1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com/) with an account that's a global admin for the directory.
 2. Select **Admin centers** and then select **Azure Active Directory**.
@@ -55,4 +55,4 @@ The global admin can assign a new administrator role, Business Administrator, in
 11. On the **Add Assignment** page, select **Assign** at the bottom of the page. The assigned user or groups will now be able to enter the [MileIQ admin center](https://admin.mileiq.com).  
 
 > [!NOTE]
-> Only global admins have access to the MileIQ admin center by adding themselves in the Business Administrator role. Global admins can manage MileIQ admin access at any time by adding or removing Business Administrators through the Azure portal.
+> To access the MileIQ admin center, global admins must also add themselves to the business administrator role. Global admins can manage MileIQ admin access at any time by adding or removing business administrators through the Azure portal.

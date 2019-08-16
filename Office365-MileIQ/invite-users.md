@@ -22,7 +22,7 @@ description: "You can invite people in your organization to join and use MileIQ.
 
 # Invite users in your organization to join MileIQ
 
-In the MileIQ admin center, you can invite people in your organization to join and use MileIQ with the reimbursement mileage rates you set. If you do not have access to the MileIQ admin center, contact your global admin. You need to be assigned to the Business Administrator role to invite users.
+In the MileIQ admin center, you can invite people in your organization to join and use MileIQ with the reimbursement mileage rates you set. If you do not have access to the MileIQ admin center, contact your global admin. You need to be assigned to the business administrator role to invite users.
 
 The people you invite need to be part of your organization's directory through Azure Active Directory (AAD) set up by your global admin.
 
@@ -75,6 +75,7 @@ The MileIQ admin center show the status of each invited person.
   - **Archived** - You've removed the user from your organization. (You can invite the user again.) 
 
 > [!NOTE]
-> - If there are people in your organization who have been previously added as MileIQ users in the admin center, their names will appear on the list. When doing a bulk import of users, the MileIQ admin center will not invite them again if it sees their email address during the import.
+>
+> - If there are people in your organization who were previously added as MileIQ users, their names will appear on the list. When doing a bulk import of users, the MileIQ admin center will not invite them again if it sees their email address during the import.
 > - There is no expiration on the invitation to join MileIQ that users receive.
 > - Invitations cannot be forwarded from one user to another user. Only the intended recipient can join MileIQ with the link in your invitation.

@@ -22,7 +22,7 @@ description: "When people leave your organization, you can remove them from the 
 
 # Remove users in your organization from MileIQ
 
-When people leave your organization, you can use the MileIQ admin center to remove them. Once removed, a person's MileIQ account is no longer associated with your organization. If you do not have access to the MileIQ admin center, contact your global admin. You need to be assigned to the Business Administrator role to remove users.
+When people leave your organization, you can use the MileIQ admin center to remove them. Once removed, a person's MileIQ account is no longer associated with your organization. If you do not have access to the MileIQ admin center, contact your global admin. You need to be assigned to the business administrator role to remove users.
 
 You can remove people from your organization by selecting their names from the admin center's list of users.
 
