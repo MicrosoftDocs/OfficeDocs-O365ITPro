@@ -32,7 +32,7 @@ These are the main records to add.
     
 - [Add an MX record so email for your domain will come to Office 365](#add-an-mx-record-so-email-for-your-domain-will-come-to-office-365).
     
-- [Add the six CNAME records that are required for Office 365](#add-the-six-cname-records-that-are-required-for-office-365).
+- [Add the five CNAME records that are required for Office 365](#add-the-five-cname-records-that-are-required-for-office-365).
     
 - [Add a TXT record for SPF to help prevent email spam](#add-a-txt-record-for-spf-to-help-prevent-email-spam).
     
@@ -110,7 +110,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 8. In the confirmation dialog box, select **OK**.
     
-## Add the six CNAME records that are required for Office 365
+## Add the five CNAME records that are required for Office 365
 <a name="BKMK_cname"> </a>
 
 1. To get started, go to your domains page at Wix by using [this link](https://premium.wix.com/wix/api/mpContainerStaticController#/domains?referralAdditionalInfo=account). You'll be prompted to login first.
