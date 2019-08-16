@@ -24,7 +24,7 @@ description: "Give access to another user to help you manage MileIQ."
 
 ## How do I access the MileIQ admin center?
 
-You can access the MileIQ admin center at [https://admin.mileiq.com](https://admin.mileiq.com/) once you have set up an account with a Business Administrator role. 
+You can access the MileIQ admin center at [https://admin.mileiq.com](https://admin.mileiq.com/) after you set up an account with a Business Administrator role. 
 
 ### Assign a user to the Business Administrator role
 
@@ -55,4 +55,4 @@ The global admin can assign a new administrator role, Business Administrator, in
 11. On the **Add Assignment** page, select **Assign** at the bottom of the page. The assigned user or groups will now be able to enter the [MileIQ admin center](https://admin.mileiq.com).  
 
 > [!NOTE]
-> Only global admins have access to the MileIQ admin center by adding themselves in the Business Administrator role. Global admins can manage MileIQ admin access at any time by adding or removing Business Administrators through the Azure Portal.
+> Only global admins have access to the MileIQ admin center by adding themselves in the Business Administrator role. Global admins can manage MileIQ admin access at any time by adding or removing Business Administrators through the Azure portal.
