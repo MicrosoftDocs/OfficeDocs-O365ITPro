@@ -22,17 +22,66 @@ f1_keyword: MACDashWhatsNew
 
 # What's new in the Microsoft 365 admin center
 
-We're continuously adding new features to [the Microsoft 365 admin center](microsoft-365-admin-center-preview.md), fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today.
+We're continuously adding new features to [the Microsoft 365 admin center](microsoft-365-admin-center-preview.md), fixing issues we learn about, and making changes based on your feedback. Take a look below to see what's available for you today. Some features get rolled out at different speeds to our customers. If you aren't seeing a feature yet, [try adding yourself to targeted release](manage/release-options-in-office-365.md). 
 
 > [!TIP]
-> Interested in what we're currently working on and plan to release soon? Check out [What's next for the Microsoft 365 admin center](microsoft-365-whats-next.md). 
+> Interested in what we're currently working on and plan to release soon? Check out [What's next for the Microsoft 365 admin center](microsoft-365-whats-next.md).
+
+## July 2019
+
+### Message center
+The Message center has been updated to the new design and it looks amazing! 
+
+![Screen capture: Updated Message center with the 'All active messages' tab selected and the Filter menu opened.](media/MAC-MessageCenterUpdated.png)
+
+- **View by message status**: You can now view messages by status. Just select one of the tabs: **All active messages**, **High importance**, **Unread messages**, and **Dismissed messages**.
+- **Filter by category**: You can also filter by **Data privacy**, **Plan for change**, **Prevent or fix issues**, and **Stay informed** message categories.
+- Select a message from the list and you have a few options in the command bar: **Dismiss**, **Mark as read** or **Mark as unread**, or **Share the message**. 
+- And when you open a message, you have even more options:
+    - Copy a link of the message to your clipboard to save it for later or to share it with colleagues. 
+    -  Mark messages as **Read** or **Unread**. 
+    -  Give feedback about a message by selecting **Like** or **Dislike**, a feedback pane opens asking you to provide specific feedback on what you liked or didn't like about this message.
+
+### Navigation pane intelligence
+
+ The navigation pane now remembers your last actions and shows you the pane in the last state that you left it in. It will also make frequently used items visible by default.
+
+### Initial setup & the Setup page
+We've got some exciting changes to help you get your organization set up. First off, let's discuss the difference between **setup** and the **Setup page**. **Setup** refers to the initial setup wizard that you used to onboard to Microsoft's online services. That usually includes three specific steps: **Connect a domain**, **Add users**, and **Download the Office apps**. The **Setup page** is the page in the admin center that has recommended set up tasks to ensure that you're getting the most out of your subscriptions - like turning on features you've purchased licenses for.
+
+- **Setup** - The initial setup wizard has been updated for **Office 365 for Business** subscriptions. This new design will help new organizations get through the wizard faster and with greater success.
+- **Setup page** - The **Setup** page helps you finish setting up and securing the services that come with your subscriptions. You can also see any dismissed recommendations on the **Setup** page. To see if it's available for your subscriptions yet, go to the **Microsoft 365 admin center** > **Setup**.
+
+### Billing & subscriptions
+
+- **Software** product type - You can now view software products purchased through a Cloud Service Provider (CSP). To see your downloads and keys, go to **Billing** > **Products & services** > **Software** tab.
+- You can view Modern Azure products and services from the Microsoft 365 admin center, whether you purchased them from Microsoft or a third-party provider. Examples of Modern Azure products included:
+    - Azure Reserved Virtual Instances
+    - Azure Support Plans
+    - Azure Hybrid Use Benefits (AHUB)
+    - Manage Applications
+    - Device Services
+    - Azure Subscriptions
+
+### Simplify multi-factor authentication
+
+Admins have access to sensitive information in your organization. Require all admins to use multi-factor authentication when signing in. The new wizard helps you get it done with just one step. To try it out, go to **Setup** > **Strengthen sign-in security**.
+
+### Users
+
+The **Deleted users** and **Guest users** pages were updated to the new style.
+
+- **Guest users**: You add guest users by inviting them to view or share files from SharePoint or OneDrive. You can view guest users from **Users** > **Guest users**.
+- **Deleted users**: On the updated **Deleted users** page, you can do all the actions that you could in the older admin center, but now you add and remove columns. And we have a lot of column options to choose from. In fact, it's the same columns that you can choose on the **Active users** page.
 
 ## June 2019
 
 ### Featured feedback request - Dark mode
+
 Viewing the admin center in dark mode is in preview! You can test it out on the **Home** page only right now. On the **Home** page, the **Dark mode** button is in the command bar next to the **What's new** link.
 
 ### Roles management
+
 At the end of June we started rolling out new way to manage admin roles. When it's available for you, go to **Roles** > **Roles**. Until then, take a look - it's awesome!
 <br> ![Screen capture: Admin roles list with User admin role details pane highlighted.](media/MAC-AdminRoles-Featured.png) <br>
 
@@ -44,9 +93,6 @@ What else can you do here?
 
 ### Payment method
 We've updated how you pay for your subscriptions. Go to **Billing** > **Bills & payments** > **Payment methods**. You can see your payment methods in a list view. Select any item in the list to remove it, edit it, and easily see which subscription that payment method is associated with.
-
-### Setup page
-There's a new way to setup your org, turn on features, and see your dismissed recommendations. It's only available to organizations that have these subscriptions:  **Microsoft 365 for Campaigns** or **Microsoft 365 Business**. In the menu pane, go to **Setup** to check it out.
 
 ## May 2019
 
@@ -167,7 +213,7 @@ Check it out: **Users > Active users > Edit** or **Add user > Licenses and Apps*
 
 - **Home improvements** The Home page has been completely re-done and we can't wait for you to try it out and see what you think. This is your personal Home page and you won't affect the Home pages of other admins in your organization. <br/>![Screen capture: Microsoft 365 Admin Center Preview Home Page.](media/d1a497f1-30e6-4c1a-9bb2-d4d7895906da.png)
 
-  - You can add, remove, and move home page cards around the Home page. Click **+ Add card** in the top right corner to see which cards are available in the card library, and then drag them anywhere on the Home page. Don't like where it landed? Click and drag it to where you want it. You don't even have to save any more.
+  - You can add, remove, and move home page cards around the Home page. Select **+ Add card** in the top right corner to see which cards are available in the card library, and then drag them anywhere on the Home page. Don't like where it landed? Drag it to where you want it. You don't even have to save any more.
 
   - Take organization to the next level by grouping cards into sections. We've created two default sections for you: **Basics** and **Devices and updates.** Very soon, you'll be able to add, remove, and rename sections to design a Home page that works for you.
 

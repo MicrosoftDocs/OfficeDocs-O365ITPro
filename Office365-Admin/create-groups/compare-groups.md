@@ -40,7 +40,7 @@ In the **Groups** section of the Microsoft 365 admin center, you can create and 
 
 Office 365 groups are used for collaboration between users, both inside and outside your company. With each Office 365 group, members get a group email and shared workspace for conversations, files, and calendar events, and a Planner.
 
-You can add users external to your company to an Office 365 group as long as this has been [enabled by the administrator](manage-guest-access-in-groups.md). You can also allow external senders to send email to the group email address.
+You can add users external to your company to a group as long as this has been [enabled by the administrator](manage-guest-access-in-groups.md). You can also allow external senders to send email to the group email address.
 
 Office 365 groups can be [configured for dynamic membership in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-change-type), allowing group members to be added or removed automatically based on user attributes such as department, location, title, etc.
 

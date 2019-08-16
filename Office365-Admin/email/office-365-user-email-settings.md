@@ -22,8 +22,6 @@ As the admin of an Office 365 organization, there are email settings you can man
 
 This table explains the various email settings you can change for a user in Office 365.
 
-![Screen shot of a user details pane with Mail selected.](../media/user-email-settings.png)
-
 
 |Mail setting|Description  |
 |---------|---------|

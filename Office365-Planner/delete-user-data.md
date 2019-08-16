@@ -1,7 +1,9 @@
 ---
 title: "Delete user data in Microsoft Planner"
-ms.author: sshenk
-author: sshenk
+ms.author: efrene
+author: efrene
+manager: pamgreen
+ms.date: 8/14/2019
 audience: Admin
 layout: LandingPage
 ms.service: o365-administration
@@ -15,7 +17,7 @@ In order to ensure that a user is deleted from Microsoft Planner, you delete tha
 
 ## To delete a user from Planner
 
-As the Office 365 admin, go to the Microsoft 365 admin center and delete the user following the steps in [Delete a user from your organization](https://support.office.com/en-us/article/delete-a-user-from-your-organization-d5155593-3bac-4d8d-9d8b-f4513a81479e).
+As the Office 365 admin, go to the Microsoft 365 admin center and delete the user following the steps in [Delete a user from your organization](https://support.office.com/article/delete-a-user-from-your-organization-d5155593-3bac-4d8d-9d8b-f4513a81479e).
 
 This will delete the user from Azure Active Directory as well. You have 30 days to restore the account before the user's data is permanently deleted.
 

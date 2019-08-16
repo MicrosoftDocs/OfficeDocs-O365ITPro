@@ -1,7 +1,9 @@
 ---
 title: "Export user data from Microsoft Planner"
-ms.author: sshenk
-author: sshenk
+ms.author: efrene
+author: efrene
+manager: pamgreen
+ms.date: 8/14/2019
 audience: Admin
 layout: LandingPage
 ms.service: o365-administration
@@ -41,7 +43,7 @@ Do the following to unblock these files:
 
     ![unblock-files](media/unblock-files.png) 
 
-4. Click **OK**.
+4. Select **OK**.
 
 5. Repeat these steps for the remaining two files.
 
@@ -105,7 +107,7 @@ The user file name will be prefixed with "User" and the Microsoft Planner ID of 
 |User.UserPrincipalName|User Principal Name (UPN) of the user.|
 |User.PrincipalType|Value is always "User".|
 |User.UserDetailsId|Unique identifier of the details object for the user.|
-|User.ICalendarPublishEnabled|If True, ICalendar sharing is enabled for the plan. Go to [See your Planner calendar in Outlook](https://support.office.com/en-us/article/see-your-planner-calendar-in-outlook-5dcccce5-2750-49b5-991b-1837379d96c7) for more information.|
+|User.ICalendarPublishEnabled|If True, ICalendar sharing is enabled for the plan. Go to [See your Planner calendar in Outlook](https://support.office.com/article/see-your-planner-calendar-in-outlook-5dcccce5-2750-49b5-991b-1837379d96c7) for more information.|
 |User.OptedInNotifications|Notifications for which the user opted in.|
 |User.OptedOutNotifications|Notifications for which the user opted out.|
 |User.FavoritePlans|Bookmark for plans the user has favorited.|
@@ -144,7 +146,7 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.ModifiedDate|Date and time the plan was last updated.|
 |Plan.ModifiedBy|Name of the user that last updated the plan. See User properties for more detail.|
 |Plan.PlanDetailsId|Unique identifier of the plan details object. |
-|Plan.ICalendarPublishEnabled|If True, ICalendar sharing is enabled for the plan. See [View your tasks on a calendar](https://support.office.com/en-us/article/use-schedule-view-to-see-tasks-on-a-calendar-8647d2c9-9bc7-466a-b5b3-74b3596fade2) for more information.|
+|Plan.ICalendarPublishEnabled|If True, ICalendar sharing is enabled for the plan. See [View your tasks on a calendar](https://support.office.com/article/use-schedule-view-to-see-tasks-on-a-calendar-8647d2c9-9bc7-466a-b5b3-74b3596fade2) for more information.|
 |Plan.CreateTaskCommentWhen|Events that will cause a comment to be created for a task in the plan.|
 |Plan.ReferencesToPlan|External systems that link to the plan. For example, embedding a Microsoft Planner plan in Project Online Desktop Client.|
 |Plan.ReferencesToPlan.ExternalId|External System's ID for this plan.|

@@ -21,6 +21,7 @@ search.appverid:
 - GEA150
 ms.assetid: 8f0454b2-f51a-4d9c-bcde-2c48e41621c6
 description: "Learn how to set up multi-factor authentication for Office 365 users and manage the user settings. "
+monikerRange: 'o365-worldwide'
 ---
 
 # Set up multi-factor authentication
@@ -33,31 +34,22 @@ You get a free version of Azure multi-factor authentication as part of your Offi
 
 All Office 2016 client applications support MFA through the use of the Active Directory Authentication Library (ADAL). This means that app passwords aren't required for Office 2016 clients. However, you need to make sure your Office 365 subscription is enabled for ADAL, or modern authentication.
 
-1. To enable modern authentication, go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>. 
-2. Turn on the new admin center by selecting **Try the new admin center** toggle located at the top of the Home page.
-3. Choose **Settings** \> **Services & add-ins** and then choose **Modern authentication** from the list.
+1. To enable modern authentication, from the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), turn on the new admin center by selecting **Try the new admin center** toggle located at the top of the Home page.
+3. Select **Settings** \> **Services & add-ins** and then choose **Modern authentication** from the list.
 4. Check the **Enable modern authentication** box in the **Modern authentication** panel. 
 
     ![Modern authentication panel with enable checkbox checked.](../media/enablemodernauth.PNG)
 
 ## Set up multi-factor authentication in the Microsoft 365 admin center
 
-1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. In the admin center, go to **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a>.
     
-2. **IMPORTANT**: BEFORE you select a user, choose **More (...)** \> **Setup Azure multi-factor authentication**.  
-
-- If you're using the preview version of the admin center, you can find the option for MFA here:  
-
-     ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/More-button-for-MFA.png)
- 
-- In the classic version, you'll find it here:
-    
-    ![The More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/fefd9f5b-562a-4359-805f-eab923d438c1.png)
+2. **IMPORTANT**: BEFORE you select a user, select **Multi-factor authentication** above the list of users.
   
 > [!Tip]
-> If you don't see the **More (...)** option, then you aren't a global admin for your subscription. Only global admins can enable or disable MFA.
+> If you don't see the **Multi-factor authentication** option, then you aren't a global admin for your subscription. Only global admins can enable or disable MFA.
 
-3. Find the people for whom you want to enable MFA. In order to see everyone, you might need to change the **Multi-Factor Auth status** view at the top. 
+3. On the **multi-factor authentication** page, find the people for whom you want to enable MFA. In order to see everyone, you might need to change the **Multi-Factor Auth status** view at the top. 
     
     The views have the following values, based on the MFA state of the users:
     
@@ -69,38 +61,34 @@ All Office 2016 client applications support MFA through the use of the Active Di
     
 4. Select the check box next to the people for whom you want to enable MFA.
     
-5. On the right, under **quick steps**, you'll see **Enable** and **Manage user settings**. Choose **Enable**.
+5. On the right, under **quick steps**, you'll see **Enable** and **Manage user settings**. Select **Enable**.
     
-6. In the dialog box that opens, choose **enable multi-factor auth**.
-    
+6. In the dialog box that opens, select **enable multi-factor auth**.
+   
 ## Allow MFA users to create App passwords for Office client apps
 
 Older email applications like Office 2013 need app passwords. Here's how to allow your users to create them: 
 
-1. In the admin center, go to **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. In the admin center, go to **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a>.
     
-2. **IMPORTANT**: Before you select a user, choose **More (...)** \> **Setup Azure multi-factor authentication**.  
-
-- If you're using the preview version of the admin center, you can find the option for MFA here:  
-
-     ![In the preview version of the admin center, the More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/More-button-for-MFA.png)
- 
-- In the classic version, you'll find it here:
-    
-    ![The More menu on the Active Users page, with Setup Azure multi-factor auth selected.](../media/fefd9f5b-562a-4359-805f-eab923d438c1.png)
+2. **IMPORTANT**: BEFORE you select a user, select **Multi-factor authentication** above the list of users.
   
 > [!Tip]
-> If you don't see the **More (...)** option, then you aren't a global admin for your subscription. Only global admins can enable or disable MFA.
+> If you don't see the **Multi-factor authentication** option, then you aren't a global admin for your subscription. Only global admins can enable or disable MFA.
+   
  
-3. On the **multi-factor authentication** page, choose **service settings**.
+3. On the **multi-factor authentication** page, select **service settings**.
     
     ![The multi-factor authentication page with a hand pointing to the service settings link.](../media/98fb3542-8f43-4e3b-9a06-c6a091973188.png)
   
-4. Under **app passwords**, choose **Allow users to create app passwords to sign into non-browser apps**.
+4. Under **app passwords**, select **Allow users to create app passwords to sign into non-browser apps**.
     
     People can then use client Office apps after they create a new password.
     
-5. Choose **Save**, then choose **Close**.
+5. Select **Save**, then **Close**.
+
+> [!NOTE]
+> Modern authentication can be enabled for Office 2013 by setting a few registry keys. For more information, see [Enable Modern Authentication for Office 2013 on Windows devices](enable-modern-authentication.md).
     
 ## Manage MFA user settings
 
@@ -108,7 +96,7 @@ Older email applications like Office 2013 need app passwords. Here's how to allo
     
 2. On the **multi-factor authentication** page, select the check box next to the people you want to manage. 
     
-3. On the right, under **quick steps**, choose **Manage user settings**.
+3. On the right, under **quick steps**, select **Manage user settings**.
     
 4. In the **Manage user settings** dialog box, select one or more of the following options: 
     
@@ -118,7 +106,7 @@ Older email applications like Office 2013 need app passwords. Here's how to allo
     
   - **Restore multi-factor authentication on all remembered devices**
     
-5. Choose **Save**, then choose **Close**.
+5. Select **Save**, then **Close**.
     
 ## Bulk update users in MFA
 
@@ -126,19 +114,19 @@ You can bulk update the status for existing people by using a CSV file. The CSV 
   
 1. You must be an Office 365 global admin to do these steps.
     
-2. On the **multi-factor authentication** page, choose **bulk update**.
+2. On the **multi-factor authentication** page, select **bulk update**.
     
-3. In the **Select a CSV file** dialog box, choose **Browse for file**.
+3. In the **Select a CSV file** dialog box, select **Browse for file**.
     
-4. Browse for the file that contains the updates, then choose **Open**. The column headings in your file must match the column headings in the following example:
+4. Browse for the file that contains the updates, then select **Open**. The column headings in your file must match the column headings in the following example:
     
     ![bulk update CSV sample file](../media/2adcd052-b044-4d0c-a5e4-b859645f5ea4.png)
   
-5. Choose the **Next** arrow. 
+5. Select the **Next** arrow. 
     
-6. After the file is verified, choose the **Next** arrow to update the accounts. 
+6. After the file is verified, select the **Next** arrow to update the accounts. 
     
-7. When the process is finished, choose the **Done** checkmark. 
+7. When the process is finished, select the **Done** checkmark. 
 
 ## Instructions for your users after MFA is set up
 

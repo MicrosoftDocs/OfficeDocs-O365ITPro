@@ -21,7 +21,7 @@ description: "Determine if your Office 365 tenant and users meet the requirement
 
 # Determine if Centralized Deployment of add-ins works for your organization
 
-Centralized Deployment is the recommended and most feature-rich way for most customers to deploy Office add-ins to users and groups within your Office 365 organization. If you're an Office 365 admin, use this guidance to determine if your tenant and users meet the requirements so that you can use Centralized Deployment.
+Centralized Deployment is the recommended and most feature-rich way for most customers to deploy Office add-ins to users and groups within your Office 365 organization. If you're an admin, use this guidance to determine if your tenant and users meet the requirements so that you can use Centralized Deployment.
 Centralized Deployment supports Windows, Mac and Office Clients.
 It can take up to 24 hours for an add-in to show up for client for all users.
   
@@ -99,7 +99,7 @@ Import-Module O365CompatibilityChecker
 ```powershell
 Invoke-CompatibilityCheck
 ```
-   which prompts you for  *_TenantDomain_* (for example, *TailspinToysIncorporated.onmicrosoft.</span>com*) and  *_TenantAdmin_* credentials, and then requests consent.
+   which prompts you for  *_TenantDomain_* (for example, *TailspinToysIncorporated.onmicrosoft.</span>com*) and  *_TenantAdmin_* credentials (use your global admin credentials), and then requests consent.
     
 > [!NOTE]
 > Depending on the number of users in your tenant, the checker could complete in minutes or hours. 
@@ -136,7 +136,7 @@ Take a look at the following example where Sandra, Sheila, and the Sales Departm
    
 ### Find out if a group contains nested groups
 
-The easiest way to detect if a group contains nested groups is to view the group contact card within Outlook. If you enter the group name within the **To** field of an email and then click the group name when it resolves, it will show you if it contains users or nested groups. In the example below, the **Members** tab of the Outlook contact card for the Test Group shows no users and only two sub groups. 
+The easiest way to detect if a group contains nested groups is to view the group contact card within Outlook. If you enter the group name within the **To** field of an email and then select the group name when it resolves, it will show you if it contains users or nested groups. In the example below, the **Members** tab of the Outlook contact card for the Test Group shows no users and only two sub groups. 
   
 ![Members tab of Outlook contact card](../media/d9db88c4-d752-426c-a480-b11a5b3adcd6.png)
   

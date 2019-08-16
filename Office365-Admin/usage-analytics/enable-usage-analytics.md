@@ -33,9 +33,9 @@ To get started with Microsoft 365 usage analytics you must first make the data a
   
 ### Get Power BI
 
-If you don't already have Power BI, you can [sign up for the free Power BI service](https://go.microsoft.com/fwlink/p/?linkid=845347). Choose **Get started free** to get the free version. 
+If you don't already have Power BI, you can [sign up for the free Power BI service](https://go.microsoft.com/fwlink/p/?linkid=845347). Select **Get started free** to get the free version. 
   
-![Choose Get started free to get Power Bi](../media/7916b7ac-c1c8-40c0-b076-9a96ef5e0eb7.png)
+![Select Get started free to get Power Bi](../media/7916b7ac-c1c8-40c0-b076-9a96ef5e0eb7.png)
   
 You can also expand **Products** to buy a version of Power BI. 
   
@@ -43,15 +43,13 @@ You can also expand **Products** to buy a version of Power BI.
 
 To enable the content pack, you have to be either a **global administrator**, **report reader**, **Exchange administrator**, **Skype for Business administrator**, or **SharePoint administrator**. 
   
-See [Office 365 admin roles](../add-users/about-admin-roles.md) for more information. 
+See [About admin roles](../add-users/about-admin-roles.md) for more information. 
   
-1. Sign in with your admin credentials, and go to the [Admin center](../admin-overview/about-the-admin-center.md).
+1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page. 
     
-2. In the admin center, expand the left nav, and go to **Reports** \> **Usage**.
+2. On the **Usage** page, locate the **Microsoft 365 usage analytics** card, and select **Get started**.
     
-3. On the **Usage** page, locate the **Microsoft 365 usage analytics** card, and choose **Get started**.
-    
-4. On the Reports panel that opens, set **Make data available the Microsoft 365 usage analytics for Power BI** to **On** \> **Save**. 
+3. On the Reports panel that opens, set **Make data available to Microsoft 365 usage analytics for Power BI** to **On** \> **Save**. 
   
 This initiates the data collection process and will complete in 2 to 48 hours depending on the size of your tenant. The **Go to Power BI** button will be enabled (no longer gray) when data collection is complete. 
     
@@ -59,17 +57,17 @@ This initiates the data collection process and will complete in 2 to 48 hours de
 
 To instantiate the content pack, you have to be either a **global administrator**, **report reader**, **Exchange administrator**, **Skype for Business administrator**, or **SharePoint administrator**. 
   
-1. Copy the tenant Id and choose **Go to Power BI**.
+1. Copy the tenant Id and select **Go to Power BI**.
     
-2. When you get to Power BI, sign in. Choose **Get Data**, then under **More ways to create your own content** choose **Service Content Packs**. 
+2. When you get to Power BI, sign in. Select **Get Data**, then under **More ways to create your own content**, select **Service Content Packs**. 
     
-    ![Under Content Pack Library, in Services, choose Get.](../media/3c73b515-beec-474c-b9fb-2b0a1145f689.png)
+    ![Under Content Pack Library, in Services, select Get.](../media/3c73b515-beec-474c-b9fb-2b0a1145f689.png)
   
 3. In the **Apps** tab, type Microsoft 365 in the search box and then select **Microsoft 365 usage analytics** \> **Get it now**.
     
 4. On the **Connect to Microsoft 365 usage analytics** screen, type in the tenant Id you copied in step (1) \> **Next**.
     
-5. On the next screen, choose **oAuth2** as the **Authentication method** \> **Sign in**. If you choose any other authentication method, the connection to the content pack will fail.
+5. On the next screen, select **oAuth2** as the **Authentication method** \> **Sign in**. If you choose any other authentication method, the connection to the content pack will fail.
     
     ![Choose oAuth2 as authentication method](../media/634ff4bd-06db-4633-b9c2-6258b09a1d2e.PNG)
   
@@ -103,12 +101,10 @@ Tenant level aggregates will be available in all reports. **User-level details w
 
 To make the data that is collected for all reports anonymous, you have to be a global administrator. This will hide identifiable information such as user, group and site names in reports and in the content pack .
   
-1. In the admin center, expand the left nav, and go to **Settings** \> **Services &amp; add-ins**.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services &amp; add-ins</a> page.
     
-2. On the **Services &amp; add-ins** page choose **Reports**, and then turn on the toggle next to **Display anonymous identifiers instead of names in all reports**.This setting gets applied both to the usage reports as well as to the content pack.
-    
-    ![Set toggle to on to make reports anonymous](../media/8ae1e6ef-8fe7-4f15-8b4d-7a07783b79bb.png)
+2. Select **Reports**, and then choose to **Display anonymous identifiers**. This setting gets applied both to the usage reports as well as to the content pack.
   
-3. Choose **Save**.
+3. Select **Save changes**.
     
 

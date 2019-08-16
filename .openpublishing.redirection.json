@@ -27,7 +27,17 @@
         "redirect_document_id": true
       },
       {
-        "source_path": "yammer/integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker.md",
+        "source_path": "Office365/Admin/admin-overview/get-started-with-office-365.md",
+        "redirect_url": "https://support.office.com/en-us/article/set-up-your-small-business-6ab4bbcd-79cf-4000-a0bd-d42ce4d12816",
+                "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365/Admin/microsoft-365-admin-center-preview.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/Office365/Admin/whats-new-in-preview",
+                "redirect_document_id": true
+      },
+      { 
+                "source_path": "yammer/integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker.md",
         "redirect_url": "https://techcommunity.microsoft.com/t5/Yammer-Resources/Create-a-knowledge-based-community-in-Yammer-by-using-QnA-Maker/ta-p/393467",
         "redirect_document_id": true
       },
@@ -35,9 +45,20 @@
         "source_path": "yammer/integrate-yammer-with-other-apps/sentiment-analysis-flow-azure.md",
         "redirect_url": "https://techcommunity.microsoft.com/t5/Yammer-Resources/Identify-sentiment-of-comments-in-a-Yammer-group-by-using-Azure/ta-p/393398",
         "redirect_document_id": true
-      },      {
+      },      
+      {
         "source_path": "yammer/work-with-external-users/control-external-messaging-with-exchange.md",
         "redirect_url": "https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "yammer/troubleshoot-problems/converting-yammer-notes-into-word-online.md",
+        "redirect_url": "https://docs.microsoft.com/yammer",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "yammer/troubleshoot-problems/phasing-out-temporary-mobile-passwords.md",
+        "redirect_url": "https://docs.microsoft.com/yammer",
         "redirect_document_id": true
       },
       {
@@ -659,6 +680,12 @@
         "source_path": "Office365-Admin/services-in-china/initial-partner-onmschina-cn-domain.md", 
         "redirect_url": "https://docs.microsoft.com/office365/admin/services-in-china/services-in-china", 
         "redirect_document_id": false
+      },
+      {
+        "source_path": "Office365-Admin/troubleshoot-issues-for-admins/fix-outlook-and-office-365-issues.md", 
+        "redirect_url": "https://support.office.com/article/e90bb691-c2a7-4697-a94f-88836856c72f", 
+        "redirect_document_id": false
       }
+      
   ]
 }

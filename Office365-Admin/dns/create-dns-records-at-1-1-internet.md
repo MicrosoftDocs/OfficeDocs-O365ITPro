@@ -50,28 +50,28 @@ Follow the steps below or [watch the video (start at 0:42)](https://support.offi
   
 1. To get started, go to your domains page at 1&1 IONOS by using [this link](https://my.1and1.com/). You'll be prompted to log in.
     
-2. Choose **Manage domains**.
+2. Select **Manage domains**.
     
-3. On the ** Domain Center ** page, find the domain that you want to update, and then choose the **Panel** ( **v**) control for that domain.
+3. On the **Domain Center** page, find the domain that you want to update, and then select the **Panel** ( **v**) control for that domain.
     
-4. In the **Domain Settings** area, choose **Edit DNS Settings**.
+4. In the **Domain Settings** area, select **Edit DNS Settings**.
     
-5. In the **TXT and SRV Records** section, choose **Add Record**.
+5. In the **TXT and SRV Records** section, select **Add Record**.
     
 6. In the **Add Record** area, in the boxes for the new record, type or copy and paste the values from the following table. 
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
     ||||
     |:-----|:-----|:-----|
     |**Type** <br/> |**Prefix** <br/> |**Name Value** <br/> |
     |TXT  <br/> |(Leave this field blank)  <br/> |MS=ms *XXXXXXXX*  <br/> NOTE: This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-7. Choose **Save**.
+7. Select **Save**.
     
-8. Choose **Save** again. 
+8. Select **Save** again. 
     
-9. In the **Edit DNS Settings** dialog box, choose **Yes**.
+9. In the **Edit DNS Settings** dialog box, select **Yes**.
     
 10. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
@@ -79,13 +79,14 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. In the Microsoft 365 admin center, choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
@@ -100,11 +101,11 @@ Follow the steps below or [watch the video (start at 3:22)](https://support.offi
   
 1. To get started, go to your domains page at 1&1 IONOS by using [this link](https://my.1and1.com/). You'll be prompted to log in.
     
-2. Choose **Manage domains**.
+2. Select **Manage domains**.
     
-3. On the **Domain Center** page, find the domain that you want to update, and then choose the **Panel** ( **v**) control for that domain.
+3. On the **Domain Center** page, find the domain that you want to update, and then select the **Panel** ( **v**) control for that domain.
     
-4. In the **Domain Settings** area, choose **Edit DNS Settings**.
+4. In the **Domain Settings** area, select **Edit DNS Settings**.
     
 5. In the **MX Records** section, in the ** Mail Exchanger (MX Record) ** area, select **Other mail server**.<br/>(You may have to scroll down.)<br/>![1&amp;1-BP-Configure-2-1](../media/b0db72ae-9431-460f-ba7a-3268590b892e.png) <br/>
   
@@ -114,13 +115,13 @@ Follow the steps below or [watch the video (start at 3:22)](https://support.offi
     
     |**MX 1**|**Priority**|
     |:-----|:-----|
-    | *\<domain-key\>*  .mail.protection.outlook.com  <br/>  NOTE: Get your \<domain-key\> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | 
+    | *\<domain-key\>*  .mail.protection.outlook.com  <br/>  NOTE: Get your \<domain-key\> from your Office 365 account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | 
     
     ![1 and 1 - configure 2 and 3](../media/3afb04d1-7bbf-4147-89ae-561e14ded26d.png)<br/>
   
-8. Choose **Save**.<br/>(You may have to scroll down.)<br/>![1&amp;1-BP-Configure-2-4](../media/355b3ba7-4d2b-45ed-aa17-ac4affb54fe3.png)
+8. Select **Save**.<br/>(You may have to scroll down.)<br/>![1&amp;1-BP-Configure-2-4](../media/355b3ba7-4d2b-45ed-aa17-ac4affb54fe3.png)
   
-9. In the **Edit DNS Settings** dialog box, choose **Yes**.<br/>![Clicking Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)
+9. In the **Edit DNS Settings** dialog box, select **Yes**.<br/>![Selecting Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)
   
 ## Add the six CNAME records that are required for Office 365
 <a name="BKMK_add_CNAME"> </a>
@@ -139,11 +140,11 @@ Follow the steps below or [watch the video (start at 3:57)](https://support.offi
   
 1. To get started, go to your domains page at 1&1 IONOS by using [this link](https://my.1and1.com/). You'll be prompted to log in.
     
-2. Choose **Manage domains**.
+2. Select **Manage domains**.
     
-3. On the **Domain Center** page, find the domain that you want to update, and then choose **Manage Subdomains**.<br/>![1&amp;1-BP-Configure-3-0](../media/d570d03f-5c38-463d-809e-5bb9e4fb2777.png) <br/>Now you'll create two subdomains and set an **Alias** value for each.<br/>(This is required because 1&1 IONOS supports only one top-level CNAME record, but Office 365 requires several CNAME records.)<br/>First, you'll create the Autodiscover subdomain.
+3. On the **Domain Center** page, find the domain that you want to update, and then select **Manage Subdomains**.<br/>![1&amp;1-BP-Configure-3-0](../media/d570d03f-5c38-463d-809e-5bb9e4fb2777.png) <br/>Now you'll create two subdomains and set an **Alias** value for each.<br/>(This is required because 1&1 IONOS supports only one top-level CNAME record, but Office 365 requires several CNAME records.)<br/>First, you'll create the Autodiscover subdomain.
     
-4. In the **Subdomain Overview** section, choose **Create Subdomain**.
+4. In the **Subdomain Overview** section, select **Create Subdomain**.
     
     ![1&amp;1-BP-Configure-3-1](../media/95c63639-eb80-443d-8951-98e8b6cdcc4f.png)
   
@@ -155,11 +156,11 @@ Follow the steps below or [watch the video (start at 3:57)](https://support.offi
 
     ![1&amp;1-BP-Configure-3-2](../media/9be45113-ebaf-48e6-983c-a7e6ff9eea45.png)
   
-6. Choose **Create Subdomain**.<br/>![1&amp;1-BP-Configure-3-3](../media/1e7bc874-f174-4597-8c08-df611d16a74d.png)
+6. Select **Create Subdomain**.<br/>![1&amp;1-BP-Configure-3-3](../media/1e7bc874-f174-4597-8c08-df611d16a74d.png)
   
-7. In the **Subdomain Overview** section, locate the **autodiscover** subdomain that you just created, and then choose the **Panel (v)** control for that subdomain. <br/>![1&amp;1-BP-Configure-3-4](../media/10e2e446-3e54-4fb2-8a29-8c442536cc31.png)
+7. In the **Subdomain Overview** section, locate the **autodiscover** subdomain that you just created, and then select the **Panel (v)** control for that subdomain. <br/>![1&amp;1-BP-Configure-3-4](../media/10e2e446-3e54-4fb2-8a29-8c442536cc31.png)
   
-8. In the **Subdomain Settings** area, choose **Edit DNS Settings**. <br/>![1&amp;1-BP-Configure-3-5](../media/5c602118-b89b-4897-9faf-0736be8a6a0d.png)
+8. In the **Subdomain Settings** area, select **Edit DNS Settings**. <br/>![1&amp;1-BP-Configure-3-5](../media/5c602118-b89b-4897-9faf-0736be8a6a0d.png)
   
 9. In the **A/AAAA Records (IP Addresses)** section, in the **IP address (A Record)** area, select **CNAME**.<br/>![1&amp;1-BP-Configure-3-6](../media/7f57f468-fbee-4440-a53d-3e334d8e5b71.png)
   
@@ -173,14 +174,14 @@ Follow the steps below or [watch the video (start at 3:57)](https://support.offi
   
 11. Select the check box for the **I am aware** disclaimer.<br/>![1&amp;1-BP-Configure-3-8-1](../media/6c4cac1a-23f2-4ff3-b2d1-3dca908638d2.png)
   
-12. Choose **Save**.<br/>![1&amp;1-BP-Configure-3-8-2](../media/ea1dfc06-c175-4146-ab40-da4d162097e1.png)
+12. Select **Save**.<br/>![1&amp;1-BP-Configure-3-8-2](../media/ea1dfc06-c175-4146-ab40-da4d162097e1.png)
   
   
 ### Additional CNAME records
 
 The additional CNAME records created in the following procedure enable Skype for Business Online services. You will employ the same steps that you used to create the two CNAME records you have already created.
   
-1. Create the third subdomain (Lyncdiscover).<br/>On the **Subdomain Overview** section, choose **Create Subdomain**.
+1. Create the third subdomain (Lyncdiscover).<br/>On the **Subdomain Overview** section, select **Create Subdomain**.
     
 2. In the **Create Subdomain** box for the new subdomain, type or copy and paste only the **Create Subdomain** value from the following table. (You'll add the **Alias** value in a later step.)<br/> 
     
@@ -188,11 +189,11 @@ The additional CNAME records created in the following procedure enable Skype for
     |:-----|:-----|
     |lyncdiscover   |webdir.online.lync.com  |
    
-3. Choose **Create Subdomain**.
+3. Select **Create Subdomain**.
     
-4. On the **Domain Center** page, choose **Manage Subdomains**.
+4. On the **Domain Center** page, select **Manage Subdomains**.
     
-5. In the **Subdomain Overview** section, find the **lyncdiscover** subdomain that you just created, and then choose the **Panel (v)** control for that subdomain. <br/>In the **Subdomain Settings** area, choose **Edit DNS Settings**.
+5. In the **Subdomain Overview** section, find the **lyncdiscover** subdomain that you just created, and then select the **Panel (v)** control for that subdomain. <br/>In the **Subdomain Settings** area, select **Edit DNS Settings**.
     
 6. In the **A/AAAA Records (IP Addresses)** section, in the ** IP address (A Record) ** area, select **CNAME**.
     
@@ -202,11 +203,11 @@ The additional CNAME records created in the following procedure enable Skype for
     |:-----|:-----|
     |lyncdiscover  <br/> |webdir.online.lync.com  <br/> |
    
-8. Select the check box for the **I am aware** disclaimer, and then choose **Save**.
+8. Select the check box for the **I am aware** disclaimer, and then select **Save**.
     
-9. In the **Edit DNS Settings** dialog box, choose **Yes**.
+9. In the **Edit DNS Settings** dialog box, select **Yes**.
     
-10. Create the fourth subdomain (SIP): <br/>In the **Subdomain Overview** section, choose **Create Subdomain**.
+10. Create the fourth subdomain (SIP): <br/>In the **Subdomain Overview** section, select **Create Subdomain**.
     
 11. In the **Create Subdomain** box for the new subdomain, type or copy and paste only the **Create Subdomain** value from the following table. (You'll add the **Alias** value in a later step.) <br/>
     
@@ -214,11 +215,11 @@ The additional CNAME records created in the following procedure enable Skype for
     |:-----|:-----|
     |sip  <br/> |sipdir.online.lync.com  <br/> |
    
-12. Choose **Create Subdomain**.
+12. Select **Create Subdomain**.
     
-13. On the **Domain Center** page, choose **Manage Subdomains**.
+13. On the **Domain Center** page, select **Manage Subdomains**.
     
-14. In the **Subdomain Overview** section, find the **sip** subdomain that you just created, and then choose the **Panel (v)** control for that subdomain. <br/>In the **Subdomain Settings** area, choose **Edit DNS Settings**.
+14. In the **Subdomain Overview** section, find the **sip** subdomain that you just created, and then select the **Panel (v)** control for that subdomain. <br/>In the **Subdomain Settings** area, select **Edit DNS Settings**.
     
 15. In the **A/AAAA Records (IP Addresses)** section, in the ** IP address (A Record) ** area, select **CNAME**.
     
@@ -228,9 +229,9 @@ The additional CNAME records created in the following procedure enable Skype for
     |:-----|:-----|
     |sip  <br/> |sipdir.online.lync.com  <br/> |
    
-17. Select the check box for the **I am aware** disclaimer, and then choose **Save**.
+17. Select the check box for the **I am aware** disclaimer, and then select **Save**.
     
-18. In the **Edit DNS Settings** dialog box, choose **Yes**.
+18. In the **Edit DNS Settings** dialog box, select **Yes**.
     
 ### CNAME records needed for MDM
 
@@ -254,15 +255,15 @@ Follow the steps below or [watch the video (start at 5:09)](https://support.offi
   
 1. To get started, go to your domains page at 1&1 IONOS by using [this link](https://my.1and1.com/). You'll be prompted to log in.
     
-2. Choose **Manage domains**.
+2. Select **Manage domains**.
     
-3. On the **Domain Center** page, find the domain that you want to update, and then choose the ** Panel ** ( **v**) control for that domain.
+3. On the **Domain Center** page, find the domain that you want to update, and then select the **Panel** (**v**) control for that domain.
     
-4. In the **Domain Settings** area, choose **Edit DNS Settings**.
+4. In the **Domain Settings** area, select **Edit DNS Settings**.
     
-5. In the **TXT and SRV Records** section, choose **Add Record**. <br/>(You may have to scroll down.)
+5. In the **TXT and SRV Records** section, select **Add Record**. <br/>(You may have to scroll down.)
     
-6. In the **Add Record** area, in the boxes for the new record, type or copy and paste the values from the following table. <br/>(Select the **Type** value from the drop-down list.) <br/>
+6. In the **Add Record** area, in the boxes for the new record, type or copy and paste the values from the following table. <br/>(Choose the **Type** value from the drop-down list.) <br/>
     
     |**Type**|**Prefix**|**Name Value**|
     |:-----|:-----|:-----|
@@ -270,11 +271,11 @@ Follow the steps below or [watch the video (start at 5:09)](https://support.offi
     
     ![TXT record](../media/0b3ba3b4-64b9-4d68-9ee1-04eb3a17d4c5.png)
   
-7. Choose **Save**.<br/>![Add record](../media/0f222eb9-3bfd-4908-9a99-516cc6fb1d0e.png)
+7. Select **Save**.<br/>![Add record](../media/0f222eb9-3bfd-4908-9a99-516cc6fb1d0e.png)
   
-8. Choose **Save**.<br/>![Save record](../media/86ed1b59-31b2-4094-9cd4-32b94eb09e35.png)
+8. Select **Save**.<br/>![Save record](../media/86ed1b59-31b2-4094-9cd4-32b94eb09e35.png)
   
-9. In the **Edit DNS Settings** dialog box, choose **Yes**.<br/>![Clicking Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)
+9. In the **Edit DNS Settings** dialog box, select **Yes**.<br/>![Selecting Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)
   
 ## Add the two SRV records that are required for Office 365
 
@@ -285,15 +286,15 @@ Follow the steps below or [watch the video (start at 5:51)](https://support.offi
   
 1. To get started, go to your domains page at 1&1 IONOS by using [this link](https://my.1and1.com/). You'll be prompted to log in.
     
-2. Choose **Manage domains**.
+2. Select **Manage domains**.
     
-3. On the **Domain Center** page, find the domain that you want to update, and then choose the **Panel** ( **v**) control for that domain.
+3. On the **Domain Center** page, find the domain that you want to update, and then select the **Panel** ( **v**) control for that domain.
     
-4. In the **Domain Settings** area, choose **Edit DNS Settings**.
+4. In the **Domain Settings** area, select **Edit DNS Settings**.
     
-5. In the **TXT and SRV Records** section, choose **Add Record**.
+5. In the **TXT and SRV Records** section, select **Add Record**.
     
-6. Add the first of the two SRV records.<br/>In the **Add Record** area, in the boxes for the new record, type or copy and paste the values from the first row in the following table. <br/>(Select the **Type** and **TTL** values from the drop-down list.) 
+6. Add the first of the two SRV records.<br/>In the **Add Record** area, in the boxes for the new record, type or copy and paste the values from the first row in the following table. <br/>(Choose the **Type** and **TTL** values from the drop-down list.) 
     
     |**Type**|**Service**|**Protocol**|**Name**|**Host**|**Priority**|**Weight**|**Port**|**TTL**|
     |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -302,13 +303,13 @@ Follow the steps below or [watch the video (start at 5:51)](https://support.offi
     
     ![1&amp;1-BP-Configure-5-1](../media/087e337d-926b-42ff-b11d-b449cfaed76c.png)
   
-7. Choose **Save**. <br/>![1&amp;1-BP-Configure-5-2](../media/aa5f803d-fb24-48e0-976a-6759c5fd252c.png)
+7. Select **Save**. <br/>![1&amp;1-BP-Configure-5-2](../media/aa5f803d-fb24-48e0-976a-6759c5fd252c.png)
   
-8. Choose **Save**. <br/>![1&amp;1-BP-Configure-5-3](../media/097e7e95-4899-4878-b6e7-c3abd8193c52.png)
+8. Select **Save**. <br/>![1&amp;1-BP-Configure-5-3](../media/097e7e95-4899-4878-b6e7-c3abd8193c52.png)
   
-9. In the **Edit DNS Settings** dialog box, choose **Yes**. <br/>![Clicking Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)
+9. In the **Edit DNS Settings** dialog box, select **Yes**. <br/>![Selecting Yes in the Edit DNS Settings dialog box](../media/920cc95f-fedf-4da2-94a4-9cb41ed49bcf.png)
   
-10. Add the other SRV record. <br/>In the **TXT and SRV Records** section, choose **Add Record**. <br/>In the **Add Record** area, create a record using the values from the other row in the table, and then again choose **Add**, **Save**, and **Yes** to complete the record. 
+10. Add the other SRV record. <br/>In the **TXT and SRV Records** section, select **Add Record**. <br/>In the **Add Record** area, create a record using the values from the other row in the table, and then again select **Add**, **Save**, and **Yes** to complete the record. 
     
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 

@@ -3,7 +3,7 @@ title: "Manage Yammer users across their lifecycle from Office 365"
 ms.author: v-irpast
 author: IrenePasternack
 manager: pamgreen
-ms.date: 4/22/2019
+ms.date: 7/22/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -14,7 +14,7 @@ search.appverid:
 - MOE150
 - YAE150
 ms.assetid: 6c4c8fff-6444-404a-bffc-f9da0bcc3039
-description: "Manage Yammer Enterprise users in Office 365. Activate Yammer, then create, delete, and restore users in Office 365. They will be created, deactivated, and reactivated in Yammer."
+description: "Manage Yammer Enterprise users in Office 365. As you create, delete, and restore users in Office 365, they will be created, deactivated, and reactivated in Yammer."
 ---
 
 # Manage Yammer users across their lifecycle from Office 365
