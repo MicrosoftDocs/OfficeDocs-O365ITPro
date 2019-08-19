@@ -48,7 +48,7 @@ You can get a view into your organization's Office activations by looking at the
 |||
 |:-----|:-----|
 |1  <br/> |The Office Activations report presents the current state of the office license activations data [as of the date of the report presented on the top right of the chart].  <br/> |
-|2  <br/> |Each report has a date for when this report was generated. The reports usually reflect a 24 to 48 hour latency from time of activity.  <br/> |
+|2  <br/> |The data in each report usually covers up to the last 24 to 48 hours.  <br/> |
 |3  <br/> |The **Activations** chart shows you the count of Office activations on desktops and devices.  <br/> |
 |4  <br/> |The **Users** chart shows you the count of users that are enabled, and users that have activated the Office subscription on desktop or devices..  <br/> |
 |5  <br/> | On the **Activations** chart, the Y axis is the count of Office activations.  <br/>  On the **Users** chart, the Y axis is the user's performing activity of activating Office.  <br/>  The X axis on both charts is the selected date range for this specific report.  <br/> |

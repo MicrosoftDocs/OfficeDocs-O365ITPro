@@ -29,7 +29,7 @@ Microsoft 365 usage analytics is also available for Office 365 US Government Com
   
 ## Steps to enable Microsoft 365 usage analytics
 
-To get started with Microsoft 365 usage analytics you must first make the data available in the Microsoft 365 admin center, then instantiate the content pack in Power BI.
+To get started with Microsoft 365 usage analytics you must first make the data available in the Microsoft 365 admin center, then initiate the content pack in Power BI.
   
 ### Get Power BI
 
@@ -53,9 +53,9 @@ See [About admin roles](../add-users/about-admin-roles.md) for more information.
   
 This initiates the data collection process and will complete in 2 to 48 hours depending on the size of your tenant. The **Go to Power BI** button will be enabled (no longer gray) when data collection is complete. 
     
-### Instantiate the content pack
+### Initiate the content pack
 
-To instantiate the content pack, you have to be either a **global administrator**, **report reader**, **Exchange administrator**, **Skype for Business administrator**, or **SharePoint administrator**. 
+To initiate the content pack, you have to be either a **global administrator**, **report reader**, **Exchange administrator**, **Skype for Business administrator**, or **SharePoint administrator**. 
   
 1. Copy the tenant Id and select **Go to Power BI**.
     
