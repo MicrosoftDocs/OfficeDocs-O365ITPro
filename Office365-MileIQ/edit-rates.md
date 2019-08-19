@@ -20,7 +20,7 @@ search.appverid:
 description: "Edit the custom MileIQ rates for your organization."
 ---
 
-# Edit rates the custom rates for MileIQ
+# Edit the custom rates for MileIQ
 
 In the MileIQ admin center at [https://admin.mileiq.com](https://admin.mileiq.com), you can set a custom mileage rate that applies to all users in your organization. If you do not have access to the MileIQ admin center, contact your global admin. You need to be assigned to the business administrator role to set the rate.
 
@@ -35,3 +35,5 @@ In the MileIQ admin center at [https://admin.mileiq.com](https://admin.mileiq.co
 > - Users in your organization can't change the mileage rate from their own MileIQ account's settings.
 >
 > - Changes you make to your organization's custom rate apply to all drives for the year. For example, if you make a change in 2019, the custom rate applies to your organization's drives for 2019. Drives made in past years are not affected.
+>
+> - This feature is only available for US based organizations and users. For UK and Canada organizations, please do not adjust the custom rate.
