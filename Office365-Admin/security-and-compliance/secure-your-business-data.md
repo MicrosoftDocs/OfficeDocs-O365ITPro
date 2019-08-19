@@ -60,7 +60,7 @@ To see a training video for how to set up MFA and how users complete the set up,
   
 To set up multi-factor authentication:
   
-1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=20243390), search for "multi" in the search bar and choose **Azure multi-factor authentication settings**.
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=837890), search for "multi" in the search bar and choose **Azure multi-factor authentication settings**.
     
 3. Select **Manage multi-factor authentication**.
     
