@@ -43,7 +43,7 @@ For example, you can use the **Active Users** report to find out how many produc
 |||
 |:-----|:-----|
 |1.  <br/> |The **Active Users** report can be viewed for trends over the last 7 days, 30 days, 90 days, or 180 days. However, if you view a particular day in the report, the table (7) will show data for up to 28 days from the current date (not the date the report was generated).  <br/> |
-|2.  <br/> |Each report has a date for when this report was generated. The reports usually reflect a 24 to 48 hour latency from time of activity.  <br/> |
+|2.  <br/> |The data in each report usually covers up to the last 24 to 48 hours.  <br/> |
 |3.  <br/> |The **Active Users** chart shows you daily active users in the reporting period separated by product.  <br/> The **Services** chart shows you count of users by activity type and Service.  <br/> |
 |4.  <br/> | On the **Active Users** chart, the x axis shows the selected reporting time period and the y axis displays the daily active users separated and color coded by licence type.  <br/>  On the **Services** activity chart, the X axis displays the individual services your users are enabled for in the given time period and the Y axis is the Count of users by activity status, color coded by activity status.  <br/> |
 |5.  <br/> |You can filter the series you see on the chart by selecting an item in the legend. Changing this selection doesn't change the info in the grid table.  <br/> |

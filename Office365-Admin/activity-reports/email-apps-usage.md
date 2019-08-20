@@ -46,7 +46,7 @@ You can get a view into email apps activity by looking at the **Users** and **Cl
 |||
 |:-----|:-----|
 |1.  <br/> |The **Email apps usage** report can be viewed for trends over the last 7 days, 30 days, 90 days, or 180 days. However, if you select a particular day in the report, the table (7) will show data for up to 28 days from the current date (not the date the report was generated).  <br/> |
-|2.  <br/> |Each report has a date for when this report was generated. The reports usually reflect a 24 to 48 hour latency from time of activity.  <br/> |
+|2.  <br/> |The data in each report usually covers up to the last 24 to 48 hours.  <br/> |
 |3.  <br/> |The **Users** view shows you the number of unique users that connected to Exchange Online using any email app.  <br/> |
 |4.  <br/> |The **Apps** view shows you the number of unique users by app over the selected time period.  <br/> |
 |5.  <br/> |The **Versions** view shows you the number of unique users for each version of Outlook in Windows.  <br/> |

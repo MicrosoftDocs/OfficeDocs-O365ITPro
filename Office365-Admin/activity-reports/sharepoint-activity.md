@@ -53,7 +53,7 @@ You can get a view into SharePoint activity by looking at the **Files** and **Us
 |||
 |:-----|:-----|
 |1.  <br/> |The **SharePoint activity report** can be viewed for trends over the last 7 days, 30 days, 90 days, or 180 days. However, if you select a particular day in the report, the table (7) will show data for up to 28 days from the current date (not the date the report was generated).  <br/> |
-|2.  <br/> |Each report has a date for when this report was generated. The reports usually reflect a 24 to 48 hour latency from time of activity.  <br/> |
+|2.  <br/> |The data in each report usually covers up to the last 24 to 48 hours.  <br/> |
 |3.  <br/> |The **Files** view helps you understand the unique numbers of licensed users that perform file interactions with files stored on SharePoint sites.  <br/> |
 |4.  <br/> |The **Pages** view shows you the number of unique pages visited by users.  <br/> |
 |5.  <br/> |The **Users** view helps you to understand the trend in the number of active users. A user is considered active if he or she has executed a file activity (save, sync, modify, or share) or visited a page within the specific time period.  <br/> NOTE: A file activity can occur multiple times for a single file, but will count only as one active file. For example, you can save and sync the same file multiple times over a specified time period, but it will count only as one single active file and one single synced file in the data           |
