@@ -100,7 +100,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     > [!NOTE]
     >  If another admin purchased the subscription, you won't be able to update the credit card or bank account information for it. If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription.
 
-4. Update your credit card or bank account information (name on the credit card or bank account, billing address. phone number, or expiration date) as needed, then select **Save** \> **Done**.
+4. Update your credit card or bank account information (name on the credit card or bank account, billing address, phone number, or expiration date) as needed, then select **Save** \> **Done**.
 
 ::: moniker-end
 
@@ -153,7 +153,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     > [!NOTE]
     > You won't be able to remove a credit card or bank account if it's currently being used to pay for a subscription.
 
-4. On the **Delete payment method** pane, select **Delete**.
+4. In the **Delete payment method** pane, select **Delete**.
 
 ::: moniker-end
 
