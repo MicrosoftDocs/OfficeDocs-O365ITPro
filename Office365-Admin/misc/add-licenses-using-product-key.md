@@ -41,7 +41,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Find the subscription to which you want to add licenses. In the **Licenses** section, select **Add/Remove licenses**.
+2. Find the subscription to which you want to add licenses. In the **Licenses** section, select **Add more licenses**.
 
 3. In the **Add more licenses pane**, select **Use a new and unused product key**, then select **Next**.
 
