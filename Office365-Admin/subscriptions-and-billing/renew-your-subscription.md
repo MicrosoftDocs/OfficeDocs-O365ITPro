@@ -49,7 +49,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 2. Under **Billing**, next to **Renews on** or **Expiring on**, select **edit**.
 
-3. in the **Recurring billing settings** pane, select **Recurring billing OFF** to turn it off. If **Recurring billing** is already turned off, select **Monthly** or **Once** to turn it on.
+3. In the **Recurring billing settings** pane, select **Turn OFF** to turn it off. If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.
 
 4. Select **Submit change**.
 
