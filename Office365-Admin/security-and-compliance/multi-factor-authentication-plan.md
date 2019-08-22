@@ -16,6 +16,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 043807b2-21db-4d5c-b430-c8a6dee0e6ba
+ROBOTS: NOINDEX, NOFOLLOW
 description: "Learn about multi-factor authentication in Office 365, and the steps you need to follow to set it up."
 ---
 
