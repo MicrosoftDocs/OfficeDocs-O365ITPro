@@ -60,7 +60,7 @@ To see a training video for how to set up MFA and how users complete the set up,
   
 To set up multi-factor authentication:
 
-1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), turn on the new admin center by selecting **Try the new admin center** toggle located at the top of the Home page.
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), turn on the new admin center by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 2. In the right navigation pane, select **Setup**.
 
