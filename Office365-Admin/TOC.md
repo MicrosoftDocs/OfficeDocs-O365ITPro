@@ -54,7 +54,7 @@
 ### [Configure Clutter](email/configure-clutter.md)
 ### [Remove license from shared mailbox](email/remove-license-from-shared-mailbox.md)
 ## Secure your business data
-### [Top 10 way to secure your data](security-and-compliance/secure-your-business-data.md)
+### [Top 10 ways to secure your data](security-and-compliance/secure-your-business-data.md)
 ### [Set up multi-factor authentication](security-and-compliance/set-up-multi-factor-authentication.md)
 ### [Set up multi-factor authentication (with Office 2013)](security-and-compliance/enable-modern-authentication.md)
 ### [GDPR compliance](security-and-compliance/gdpr-compliance.md)
