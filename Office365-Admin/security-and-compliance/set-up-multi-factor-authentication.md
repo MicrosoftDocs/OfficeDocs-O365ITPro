@@ -63,6 +63,25 @@ All Office 2016 client applications support MFA through the use of the Active Di
 
 After you set up multi-factor authentication for your organization, your users will be required to set up two-step verification on their devices. For more information, see [Set up 2-step verification for Office 365](https://support.office.com/article/ace1d096-61e5-449b-a875-58eb3d74de14).
 
+### Manage MFA settings in the new Microsoft 365 admin center
+
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), turn on the new admin center by selecting **Try the new admin center** toggle located at the top of the Home page.
+
+2. In the right navigation pane, select **Setup**.
+
+3. On the **Turn on multi-factor authentication (MFA)** card, it will say **Completed**. Select **View**.
+
+4. On the **Turn on multi-factor authentication (MFA)** page, select **Manage**.
+
+5. The **Azure portal Conditional Access - Policies** page will appear. To turn multi-factor authentication on or off:
+
+    1. Select **Baseline policy: End user protection (Preview)**, and turn the **Enable** toggle on or off.
+
+    2. Select **Baseline policy: Require MFA for admins (Preview)**, and turn the **Enable** toggle on or off.
+
+    > [!NOTE]
+    > To exclude users from a policy, select **specific users excluded** > **Select excluded users**, select the users from the list, and then choose **Select**.
+
 ## Set up multi-factor authentication in the old Microsoft 365 admin center
 
 1. In the admin center, go to **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a>.
@@ -88,7 +107,7 @@ After you set up multi-factor authentication for your organization, your users w
 
 6. In the dialog box that opens, select **enable multi-factor auth**.
    
-## Allow MFA users to create app passwords for Office client apps
+### Allow MFA users to create app passwords for Office client apps
 
 Older email applications like Office 2013 need app passwords. Here's how to allow your users to create them:
 
@@ -110,7 +129,7 @@ Older email applications like Office 2013 need app passwords. Here's how to allo
 > [!NOTE]
 > Modern authentication can be enabled for Office 2013 by setting a few registry keys. For more information, see [Enable Modern Authentication for Office 2013 on Windows devices](enable-modern-authentication.md).
 
-## Manage MFA user settings
+### Manage MFA user settings in the old Microsoft 365 admin center
 
 1. On the **multi-factor authentication** page, select the check box next to the people you want to manage.
 
@@ -126,7 +145,7 @@ Older email applications like Office 2013 need app passwords. Here's how to allo
 
 4. Select **Save**, then **Close**.
 
-## Bulk update users in MFA
+### Bulk update users in MFA in the old Microsoft 365 admin center
 
 You can bulk update the status for existing people by using a CSV file. The CSV file is used only for enabling or disabling MFA, based on the user names present in the file. It is not used to create new users.
   
@@ -143,25 +162,6 @@ You can bulk update the status for existing people by using a CSV file. The CSV 
 5. After the file is verified, select the **Next** arrow to update the accounts. 
 
 6. When the process is finished, select the **Done** checkmark.
-
-## Manage MFA settings in the Azure portal
-
-1. From the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), turn on the new admin center by selecting **Try the new admin center** toggle located at the top of the Home page.
-
-2. In the right navigation pane, select **Setup**.
-
-3. On the **Turn on multi-factor authentication (MFA)** card, select **View**.
-
-4. On the **Turn on multi-factor authentication (MFA)** page, select **Manage**.
-
-5. The **Azure portal Conditional Access - Policies** page will appear. To turn multi-factor authentication on or off:
-
-    1. Select **Baseline policy: End user protection (Preview)**, and turn the **Enable** toggle on or off. 
-
-    2. Select **Baseline policy: Require MFA for admins (Preview)**, and turn the **Enable** toggle on or off.
-
-    > [!NOTE]
-    > To exclude users from a policy, select **specific users excluded** > **Select excluded users**, select the users from the list, and then choose **Select**.
 
 ## Instructions for your users after MFA is set up
 
