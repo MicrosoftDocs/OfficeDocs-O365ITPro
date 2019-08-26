@@ -148,7 +148,7 @@ When Office 365 can't deliver email you sent, you'll receive an email notificati
    
 ## Get more help with email issues
 
-For more troubleshooting information, see [Troubleshoot email issues](troubleshoot-email-issues.md), [My messages won't send](https://support.office.com/article/97748418-bbd5-4743-a05b-581f22a466dd.aspx) and [Fix Outlook account problems in Office 365](https://go.microsoft.com/fwlink/p/?LinkId=724310) (English only). 
+For more troubleshooting information, see [Troubleshoot email issues](https://docs.microsoft.com/office365/troubleshoot/troubleshooting/troubleshoot-email-issues), [My messages won't send](https://support.office.com/article/97748418-bbd5-4743-a05b-581f22a466dd.aspx) and [Fix Outlook account problems in Office 365](https://go.microsoft.com/fwlink/p/?LinkId=724310) (English only). 
   
 ## Troubleshoot problems with Skype for Business Online
 
