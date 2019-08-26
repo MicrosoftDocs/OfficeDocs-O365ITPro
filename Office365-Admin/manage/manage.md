@@ -145,7 +145,7 @@ Quick links for the most common admin tasks in Office 365.
                         <h3>Email</h3>
                             <p><a href="../add-users/add-users.md">Add a new employee</a></p>
                             <p><a href="https://support.office.com/article/97748418-bbd5-4743-a05b-581f22a466dd">Fix email messages when they won't send</a></p>
-                            <p><a href="../troubleshoot-issues-for-admins/troubleshoot-email-issues.md">Troubleshoot email issues</a></p>
+                            <p><a href="https://docs.microsoft.com/office365/troubleshoot/troubleshooting/troubleshoot-email-issues">Troubleshoot email issues</a></p>
                             <p><b>More tasks:</b> <a href="../email/email.md">Email in Office 365 for business</a></p>
                     </div>
                 </div>
