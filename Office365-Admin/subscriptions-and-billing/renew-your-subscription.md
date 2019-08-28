@@ -47,11 +47,13 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Under **Billing**, next to **Renews on** or **Expiring on**, select **edit**.
+2. Choose the subscription for which you want to manage recurring billing.
+ 
+3. Under **Billing**, next to **Renews on** or **Expiring on**, select **edit**.
 
-3. in the **Recurring billing settings** pane, select **Recurring billing OFF** to turn it off. If **Recurring billing** is already turned off, select **Monthly** or **Once** to turn it on.
+4. In the **Recurring billing settings** pane, select **Turn OFF** to turn it off. If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.
 
-4. Select **Submit change**.
+5. Select **Submit change**.
 
     > [!NOTE]
     > - You can only change the **Recurring billing** setting for active subscriptions. If your subscription has already expired or is disabled, you will need to [reactivate it](reactivate-your-subscription.md) before you can turn **Recurring billing** on or off.
@@ -72,7 +74,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
-2. To turn on **Recurring billing**, switch the toggle to **On**.
+2. Choose the subscription for which you want to manage recurring billing.
+ 
+3. To turn on **Recurring billing**, switch the toggle to **On**.
 
     ![Close-up of a Subscription card that has Recurring billing turned on.](../media/984464dc-6b63-4b24-84e1-67f6c4b1d48e.png)
   

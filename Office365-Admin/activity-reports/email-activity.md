@@ -48,7 +48,7 @@ You can get a view into your user's email activity by looking at the **Activity*
 |||
 |:-----|:-----|
 |1.  <br/> |The **Email activity** report can be viewed for trends over the last 7 days, 30 days, 90 days, or 180 days. However, if you select a particular day in the report, the table (7) will show data for up to 28 days from the current date (not the date the report was generated).  <br/> |
-|2.  <br/> |Each report has a date for when this report was generated. The reports usually reflect a 24 to 48 hour latency from time of activity.  <br/> |
+|2.  <br/> |The data in each report usually covers up to the last 24 to 48 hours.  <br/> |
 |3.  <br/> |The **Activity** chart enables you to understand the trend of the amount of email activity going on in your organization. You can understand the split of email send or read or received activities.  <br/> |
 |4.  <br/> |The **User** chart enables you to understand the trend of the amount of unique users who are generating the email activities. You can look at the trend of users performing send, reading or receiving email activities.  <br/> |
 |5.  <br/> | On the **Activity** chart, the Y axis is the count of activity of the type email sent, email received and email read.  <br/>  On the **Users** activity chart, the Y axis is the user's performing activity of the type email sent, email received and email read.  <br/>  The X axis on both charts is the selected date range for this specific report.  <br/> |

@@ -44,7 +44,7 @@ You can get a view into Microsoft Teams user activity by looking at the **Activi
 |||
 |:-----|:-----|
 |1.  <br/> |The **Microsoft Teams user activity** report can be viewed for trends over the last 7 days, 30 days, 90 days, or 180 days. However, if you select a particular day in the report, the table (7) will show data for up to 28 days from the current date (not the date the report was generated).  <br/> |
-|2.  <br/> |Each report has a date for when this report was generated. The reports usually reflect a 24 to 48 hour latency from time of activity.  <br/> |
+|2.  <br/> |The data in each report usually covers up to the last 24 to 48 hours.  <br/> |
 |3.  <br/> |The **Activity** view shows you the number of Microsoft Teams activities by activity type. The activity types are number of teams chat messages, private chat messages, calls, or meetings.  <br/> |
 |4.  <br/> |The **Users** view shows you the number of users by activity type. The activity types are number of teams chat messages, private chat messages, calls, or meetings.  <br/> |
 |5.  <br/> | On the **Activity** chart, the Y axis is the count of specified activity.  <br/>  On the **Files** chart, the Y axis is the number of users participating in teams chats, private chats, calls, or meetings.  <br/>  The X axis on the charts is the selected date range for the specific report.  <br/> |

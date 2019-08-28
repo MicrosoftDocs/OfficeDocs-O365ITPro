@@ -59,14 +59,22 @@ For businesses using Office 365 and Microsoft 365, add a setting that requires y
 To see a training video for how to set up MFA and how users complete the set up, see [set up MFA](https://support.office.com/article/e12187b8-216a-4490-9e3b-df34a06fb787) and [user set up](https://support.office.com/article/a32541df-079c-420d-9395-9d59354f7225).
   
 To set up multi-factor authentication:
-  
-1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=20243390), search for "multi" in the search bar and choose **Azure multi-factor authentication settings**.
-    
-3. Select **Manage multi-factor authentication**.
-    
-4. Select users for multi-factor authentication, and then select **Enable**. Try out the experience in your business by enabling this for a couple of users first. Then extend the capability to all users, including your IT admins.
-    
-    ![On the multi-factor authentication page select users and then select Enable.](../media/94fcf76f-e176-46c9-858f-5f522905e002.png)
+
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), turn on the new admin center by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
+2. In the right navigation pane, select **Setup**.
+
+3. On the **Turn on multi-factor authentication (MFA)** card, select **View**.
+
+4. Select **Get started**.
+
+5. Select the **Require multi-factor authentication** and **Require users to register for multi-factor authentication and block access if risk is detected** check boxes.
+
+6. Under **Do you want to exclude anyone from these policies**, select any users that you want to exclude from the drop-down list box.
+
+7. Select **Choose policy**. You will return to the **Multi-factor authentication (MFA)** page, which will now say **Completed**. 
+
+After you set up multi-factor authentication for your organization, your users will be required to set up two-step verification on their devices. For more information, see [Set up 2-step verification for Office 365](https://support.office.com/article/ace1d096-61e5-449b-a875-58eb3d74de14).
   
 For full details and complete recommendations, see [Set up multi-factor authentication for Office 365 users](set-up-multi-factor-authentication.md).
   

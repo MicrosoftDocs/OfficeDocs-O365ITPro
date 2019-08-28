@@ -126,7 +126,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![DNSMadeEasy-BP-Configure-2-5](../media/03c405e5-868f-468f-b6d2-046d27b201fb.png)
   
-## Add the six CNAME records that are required for Office 365
+## Add the five CNAME records that are required for Office 365
 <a name="BKMK_add_CNAME"> </a>
 
 1. To get started, go to your domains page at DNSMadeEasy by using [this link](https://cp.dnsmadeeasy.com/). You'll be prompted to login first.
@@ -139,7 +139,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![DNSMadeEasy-BP-Configure-3-1](../media/a5feb238-690d-4b64-a625-91a82b3f4068.png)
   
-4. Add the first of the six CNAME records.
+4. Add the first of the five CNAME records.
     
     In the **Add CNAME Records** area, in the boxes for the new record, type or copy and paste the values from the first row in the following table. 
     
@@ -157,11 +157,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![DNSMadeEasy-BP-Configure-3-3](../media/e44ef73e-99cb-41ce-a3f2-549cb2f29eef.png)
   
-6. Add each of the other five CNAME records.
+6. Add each of the other four CNAME records.
     
     In the **CNAME Records** section, select the **(+)** control ( **Add new**), create a record by using the values from the next row in the table, and then again select **Submit** to complete that record. 
     
-    Repeat this process until you have created all six CNAME records.
+    Repeat this process until you have created all five CNAME records.
     
 ## Add a TXT record for SPF to help prevent email spam
 <a name="BKMK_add_TXT"> </a>
