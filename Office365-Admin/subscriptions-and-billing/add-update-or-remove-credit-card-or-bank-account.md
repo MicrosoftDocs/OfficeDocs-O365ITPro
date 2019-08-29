@@ -40,10 +40,6 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 
 ::: moniker range="o365-worldwide"  
 
-### Use the new admin center to add a new credit card or bank account
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page.  For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.
 
 2. Select **Add a payment method**.
@@ -54,15 +50,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
 
-::: moniker range="o365-worldwide"
-### Use the old admin center to add a new credit card or bank account
-::: moniker-end
+::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
 2. Pick the subscription you want to pay for with the new credit card or bank account, then select **Update payment details**.
 
@@ -77,6 +67,27 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     > [!NOTE]
     > The new credit card or bank account will only be used for the Office 365 subscription you chose in step 2. If you have other subscriptions that you want to use the new credit card or bank account for, follow the steps in this article to change the credit card or bank account used to pay for each subscription.
 
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
+
+2. Pick the subscription you want to pay for with the new credit card or bank account, then select **Update payment details**.
+
+    ![The Payment method section of the Subscription page, showing the Update payment details link.](../media/03839d72-773c-4030-88d0-484d1efe49c5.png)
+  
+3. Select the drop-down arrow under **Add or select a payment method**, then choose **New credit card** or **New bank account**.
+
+    ![The drop-down menu showing the New credit card and New bank account options.](../media/2de0566c-e527-4ae7-ad6a-8b461c1e5322.png)
+  
+4. Enter the information for the new credit card or bank account, then select **Submit**.
+
+    > [!NOTE]
+    > The new credit card or bank account will only be used for the Office 365 subscription you chose in step 2. If you have other subscriptions that you want to use the new credit card or bank account for, follow the steps in this article to change the credit card or bank account used to pay for each subscription.
+
+::: moniker-end
+
 ## Update an existing credit card or bank account
 
 > [!NOTE]
@@ -86,10 +97,6 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 >  You must use a credit card issued from the same country as your tenant.
 
 ::: moniker range="o365-worldwide"
-
-### Use the new admin center to update an existing credit card or bank account
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page.  For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.
 
@@ -104,17 +111,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
 
-::: moniker range="o365-worldwide" 
- 
-### Use the old admin center to update an existing credit card or bank account
+::: moniker range="o365-21vianet"
 
-::: moniker-end
-
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
 2. Pick the subscription you bought with the credit card bank account that you want to update, then select **Update payment details**.
 
@@ -133,16 +132,37 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     ![Screenshot showing the confirmation message: "Your payment method was successfully updated."](../media/23b4aa8e-f5d5-4535-92a2-9111a270f097.png)
 
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
+
+2. Pick the subscription you bought with the credit card bank account that you want to update, then select **Update payment details**.
+
+    > [!NOTE]
+    >  If another admin purchased the subscription, you won't be able to update the credit card or bank account information for it. If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription.
+  
+    ![The Payment method section of the Subscription page, showing the Update payment details link.](../media/03839d72-773c-4030-88d0-484d1efe49c5.png)
+  
+3. Select the drop-down arrow under **Add or select a payment method**, choose the credit card or bank account that you want to update, then select **Edit details**.
+
+    ![The Update payment details pane when a subscription is paid for by credit card or bank account.](../media/fa9b3a8f-9a80-4887-88e6-d19e6afd1b3d.png)
+  
+4. Update your credit card or bank account information (name on the credit card or bank account, billing address. phone number, or expiration date) as needed, then select **Submit**.
+
+5. A confirmation message should appear. If it doesn't, see [Troubleshooting credit cards and bank accounts](#troubleshooting-credit-cards-and-bank-accounts).
+
+    ![Screenshot showing the confirmation message: "Your payment method was successfully updated."](../media/23b4aa8e-f5d5-4535-92a2-9111a270f097.png)
+
+::: moniker-end
+
 ## Remove a credit card or bank account
 
 > [!NOTE]
 > You can remove a credit card or bank account, as long as you don't have an outstanding balance on the credit card or bank account, and you're not using it to pay for an active subscription.
 
 ::: moniker range="o365-worldwide"
-
-### Use the new admin center to remove a credit card or bank account
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page.  For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.
 
@@ -157,17 +177,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
 
-::: moniker range="o365-worldwide"
+::: moniker range="o365-21vianet"
 
-### Use the old admin center to remove a credit card or bank account
-
-::: moniker-end
-
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
 2. Pick any subscription, then select **Update payment details**.
 
@@ -185,14 +199,35 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     > You won't be able to remove a credit card or bank account if it's currently being used to pay for a subscription. If you try, you'll get a message that looks like this:
     > ![The error message that appears if you try to remove a credit card or bank account that is currently used to pay for an active subscription.](../media/29319a8b-af0b-4487-853b-6f47d6fe4a28.png) <br/>
     > To remove the credit card or bank account, select **Back** and follow the steps in this article to change the credit card or bank account that you're using to pay for the subscription. Then try removing the credit card or bank account again.
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
+
+2. Pick any subscription, then select **Update payment details**.
+
+    ![The Payment method section of the Subscription page, showing the Update payment details link.](../media/03839d72-773c-4030-88d0-484d1efe49c5.png)
   
+3. Select the drop-down arrow under **Add or select a payment method**, choose the credit card or bank account that you want to delete, then select **Remove**.
+
+    ![The Update payment details pane when a subscription is paid for by credit card or bank account.](../media/fa9b3a8f-9a80-4887-88e6-d19e6afd1b3d.png)
+  
+4. Select **Remove** again to delete the credit card or bank account.
+
+    ![Screenshot showing the Remove and Cancel buttons.](../media/22135f0d-c758-4564-a3b2-9c9050f7601b.png)
+  
+    > [!NOTE]
+    > You won't be able to remove a credit card or bank account if it's currently being used to pay for a subscription. If you try, you'll get a message that looks like this:
+    > ![The error message that appears if you try to remove a credit card or bank account that is currently used to pay for an active subscription.](../media/29319a8b-af0b-4487-853b-6f47d6fe4a28.png) <br/>
+    > To remove the credit card or bank account, select **Back** and follow the steps in this article to change the credit card or bank account that you're using to pay for the subscription. Then try removing the credit card or bank account again.
+
+::: moniker-end
+ 
 ## Change the credit card or bank account that you're using to pay for a subscription
 
 ::: moniker range="o365-worldwide"
-
-### Use the new admin center to change the credit card or bank account used to pay for a subscription
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting **Try the new admin center** toggle located at the top of the Home page.  For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
@@ -204,17 +239,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
 
-::: moniker range="o365-worldwide"
+::: moniker range="o365-21vianet"
 
-### Use the old admin center to change the credit card or bank account used to pay for a subscription
-
-::: moniker-end
-
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
 2. Pick the subscription that you want to pay for with the new credit card or bank account, then select **Update payment details**.
 
@@ -225,6 +252,24 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     ![The Update payment details pane when a subscription is paid for by credit card or bank account.](../media/fa9b3a8f-9a80-4887-88e6-d19e6afd1b3d.png)
   
 4. Select **Submit**. If the credit card or bank account that you want to use isn't listed yet, pick **New credit card** or **New bank account** to add it.
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
+
+2. Pick the subscription that you want to pay for with the new credit card or bank account, then select **Update payment details**.
+
+    ![The Payment method section of the Subscription page, showing the Update payment details link.](../media/03839d72-773c-4030-88d0-484d1efe49c5.png)
+  
+3. Select the drop-down arrow under **Add or select a payment method**, then choose the credit card or bank account that you want to use.
+
+    ![The Update payment details pane when a subscription is paid for by credit card or bank account.](../media/fa9b3a8f-9a80-4887-88e6-d19e6afd1b3d.png)
+  
+4. Select **Submit**. If the credit card or bank account that you want to use isn't listed yet, pick **New credit card** or **New bank account** to add it.
+
+::: moniker-end
 
 ## Troubleshooting credit cards and bank accounts
 
