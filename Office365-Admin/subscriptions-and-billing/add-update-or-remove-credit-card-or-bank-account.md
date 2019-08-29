@@ -181,8 +181,6 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
-
 2. Pick any subscription, then select **Update payment details**.
 
     ![The Payment method section of the Subscription page, showing the Update payment details link.](../media/03839d72-773c-4030-88d0-484d1efe49c5.png)
