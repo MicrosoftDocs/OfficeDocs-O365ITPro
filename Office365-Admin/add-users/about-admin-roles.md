@@ -109,8 +109,8 @@ You'll probably only need to assign the following roles in your organization.
 |Search editor     |    Can only create, edit, and delete content for Microsoft Search, like bookmarks, Q&A, and locations.     |
 |Service admin     |    Creates service requests for Azure, Microsoft 365, and Office 365 services, and monitors service health.     |
 |Skype for Business admin     | Full access to all Teams and Skype features, Skype user attributes, manages service requests, and monitors service health.      |
-|SharePoint admin     |    Full access to SharePoint Online, manages Office 365 groups, manages service requests, and monitors service health.     |
-|Teams admin     |    Full access to Teams & Skype admin center, manages Office 365 groups and service requests, and monitors service health.     |
+|SharePoint admin     |    Full access to SharePoint Online, manages service requests, and monitors service health.     |
+|Teams admin     |    Full access to Teams & Skype admin center, manages service requests, and monitors service health.     |
 |Teams communication manager     |    Assigns telephone numbers, creates and manages voice and meeting policies, and reads call analytics.     |
 |Teams communication support engineer     |    Reads call record details for all call participants to troubleshoot communication issues.     |
 |Teams communication support specialist     |    Reads user call details only for a specific user to troubleshoot communication issues.|
