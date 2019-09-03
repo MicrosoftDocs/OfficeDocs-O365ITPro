@@ -7,3 +7,4 @@
 /Office365-Admin/  @SuPotter @AndreaBarr
 /Office365-Kaizala/ @Sirkkuw @AndreaBarr
 /yammer/ @JoanneHendrickson @AndreaBarr
+/Office365-MileIQ/ @kwekuako @AndreaBarr
