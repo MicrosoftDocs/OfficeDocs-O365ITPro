@@ -23,6 +23,7 @@
 ### [Customize your organization theme](setup/customize-your-organization-theme.md)
 ## Users and roles
 ### [Add users](add-users/add-users.md)
+### [Create and use a template to add users](create-and-use-a-template-to-add-users.md)
 ### [Delete a user](add-users/delete-a-user.md)
 ### [Restore user](add-users/restore-user.md)
 ### [Reset passwords](add-users/reset-passwords.md)
