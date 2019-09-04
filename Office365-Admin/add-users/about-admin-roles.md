@@ -28,7 +28,8 @@ description: "Admin roles map to business functions and give permissions to do s
 
 Your subscription comes with a set of admin roles that you can assign to users in your organization. Each admin role maps to common business functions and gives people in your organization permissions to do specific tasks in the admin centers. For more information, see [Assign admin roles](assign-admin-roles.md)
 
-[!TIP] Looking for the detailed role descriptions? Check out [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
+> [!TIP] 
+> Looking for the detailed role descriptions? Check out [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
 
 ## Things to consider...
 
