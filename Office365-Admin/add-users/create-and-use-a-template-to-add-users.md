@@ -43,7 +43,7 @@ The following information is user-specific and isn’t saved in the template:
 - Choice to send the password in email and who the password email is sent to
 - Mobile phone number
 
-If you choose not to enter information for a setting, that value is blank in the template. For example, if you leave **Location** blank, when you use the template to create new users, they won’t have a value assigned for the location.
+If you choose not to enter information for a setting within a section, that value will be blank and that setting will not display in the template. For example, if you leave **Location** blank, when you review your template and when you use your template, **Location** will not appear at all. If you leave all the **Profile** section settings entirely blank, the **Profile** section will display **None provided** in your final template.
 
 When you create a template by selecting the **Create template** option, you can choose which values to complete. Anything that is left blank will be blank in the template.
 
