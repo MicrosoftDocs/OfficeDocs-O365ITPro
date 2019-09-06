@@ -21,11 +21,11 @@ description: "You can create and use a template to save time and standardize set
 
 # Create and use a template to add users
 
-You can create and use a template to save time and standardize settings when you are adding multiple users. Templates are particularly useful if you have users who share many common properties, like those who have the same role and work at the same location. For example, you might have a team of support engineers who work in the same office. 
+You can create and use a template to save time and standardize settings when you are adding multiple users. Templates are particularly useful if you have users who share many common properties, like those who have the same role and work at the same location and those who require the same software.  For example, you might have a team of support engineers who work in the same office.  
 
 ## Create a template
 
-Templates are easy to create&mdash;you can select **Users** > **Active users** > **Templates**, and then select **Create template** from the drop-down list, or you can add a new user and when you are finished, you will have the option of saving the entry as a template.
+Templates are easy to create&mdash;you can select **Users** > **Active users** > **Templates**, and then select **Add template** from the drop-down list, or you can add a new user and when you are finished, you will have the option of saving the entry as a template.
 
 When you create a template after adding a user, the values you choose for the following settings are saved in the template:
 
@@ -36,16 +36,16 @@ When you create a template after adding a user, the values you choose for the fo
 - License choices
 - Application choices
 - Role
-- Most profile information, such as job title, department, office location, office phone number, and street address 
+- Most profile information, such as **Job profile**, **Department**, **Office**, **Office phone**, and **Street address** 
 
 The following information is user-specific and isn’t saved in the template:
 
 - Choice to send the password in email and who the password email is sent to
 - Mobile phone number
 
-If you choose not to enter information for a setting, that value is saved as null in the template. For example, if you leave **Location** blank, when you use the template to create new users, they won’t have a value assigned for the location.
+If you choose not to enter information for a setting, that value is blank in the template. For example, if you leave **Location** blank, when you use the template to create new users, they won’t have a value assigned for the location.
 
-When you create a template by selecting the **Create template** option, you can choose which values to complete. Anything that is left blank will be saved as null in the template.
+When you create a template by selecting the **Create template** option, you can choose which values to complete. Anything that is left blank will be blank in the template.
 
 ## Use a template to add a user
 
@@ -53,7 +53,7 @@ To use an existing template to add a user:
 
 1. In the admin center, select **Users** > **Active users**.
 
-2. Select **Templates**, and then select a template from the drop-down list. (The list will contain only the templates that you created, not those created by other admins.)
+2. Select **User templates**, and then select a template from the drop-down list. (The list will contain only the templates that you created, not those created by other admins.)
 
  > [!NOTE]
  > You can also use a template to add a user by selecting **User templates** > **Manage templates**, selecting a template, and then selecting **Use template**.
@@ -71,7 +71,7 @@ You can easily delete templates you no longer need and add new ones. To delete a
 
 2. Select **Templates**, and then select **Manage templates** from the drop-down list.
 
-3. A list of templates will appear. Select a template, select the three dots to the right of the template name, and then select **Delete**.
+3. A list of templates will appear. Select a template, and then select **Delete**.
 
 ## Related topics
 
