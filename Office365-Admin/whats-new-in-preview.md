@@ -34,25 +34,25 @@ And if you're interested in what's new in other admin centers:
 
 ## August 2019
 
-### DirSync is in Targeted Release
-
-
 ### Add user template
+Templates allow you to easily add many users by saving and reusing the shared settings for these users. You can save values for roles, licenses assigned, contact information, location, and more. When you use the template to create a new user, they will automatically get the saved value for these settings.
 
-
-### Dark mode added to Users and Groups pages
-Last month (July) we started rolling out Dark mode as a preview for the **Home** page only. This month, we've added Dark mode to the **Users** and **Groups** pages. Since this is one of the most asked-for features, try it out and let us know what you think. 
+### Billing
+We've got some updates for billing and subscriptions this month:
+- Device-based subscriptions: You can assign or unassign **Office 365 ProPlus for Education (device)** licenses to devices in the Microsoft 365 admin center. **Office 365 ProPlus for Education (device)** is an add-on license that will lets you to assign a license to a device. Go to **Billing** > **Products & services** to find and purchase the license.
+- User-based license management: We've updated how you assign licenses in **Users** > **Active users** to the new style. For more information, see:
+    - [Assign licenses to users](subscriptions-and-billing/assign-licenses-to-users.md)
+    - [Unassign licenses from users](subscriptions-and-billing/remove-licenses-from-users.md)
 
 ### Setup page updates
 
-Setup now has categories and sections, including a "Recommended for you" section where we intelligently suggest your next step in turning on features and setting up your organization. We've also added a new feature to set up:
+Setup now has categories and sections, including a **Recommended for you** section where we intelligently suggest your next step in turning on features and setting up your organization. We've also added a new feature to set up:
 
-- **Advanced Threat Protection** - If your org is licensed to use Office ATP and you haven't configured it or turned it on yet, you'll see this feature page. Go to **Setup** to check it out.
+- **Office Advanced Threat Protection** - If your org is licensed to use Office ATP and you haven't configured it or turned it on yet, you'll see this page. Go to **Setup** to try it out.
 
 ### Report an outage
 
 If you are impacted by an issue that is not showing up on your Service health dashboard, the **Report an Outage** feature will provide you with a quick and easy way to let us know. Go to **Health** > **Service health**.
-
 
 ## July 2019
 

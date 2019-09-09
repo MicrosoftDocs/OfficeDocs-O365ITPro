@@ -25,10 +25,6 @@ Welcome to **What's next for the Microsoft 365 admin center**! We’ve heard tha
 > [!WARNING]
 > The information contained in this article pertains only to the Microsoft 365 admin center and is not a promise of future functionality nor do we promise that the feature will be released in the time frame we've indicated. In addition, this information is not a complete list of all features being released. This article might be discontinued or deleted at any time.
 
-Looking for what's new in other admin centers?
-- [What's new in the SharePoint admin center](https://docs.microsoft.com/sharepoint/what-s-new-in-admin-center)
-- What's new in the Compliance center?
-
 ## How to use this article
 
 We're looking forward to hearing from you and we'd like to use this article as a conversation starter between us - the admin and the engineering team. Every item listed in the "In the works" section has a link to our [Office UserVoice](https://office365.uservoice.com/forums/273493-office-365-admin) website, where we want you to vote for items that you're excited about, ask questions, and give us feedback.
@@ -40,6 +36,14 @@ For the list of features we've released for the Microsoft 365 admin center, see 
 ## In the works
 
 Here's a list of features that will most-likely be released soon.
+
+### Role-based permissions
+
+We're making it easier to see the roles that are assigned to a user and to see which users are assigned to a role:
+    - To see the roles assigned to a user, go to **Users** > **Active users** > select a user > **Manage roles**.
+    - To see the users assigned to a role, go to **Roles** > **Roles** > select a role > **Assigned admins**. And if you're not getting enough information from this view, you can go back to the Roles list page and export the list of admins and the roles assigned to them. Exporting the CSV file is great for auditing.
+    - Select a role as a favorite, so that you can sort and filter your most-used roles.
+[Give feedback for role-based permissions](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/10115430-have-a-consistent-experience-when-assigning-admin)
 
 ### Keyboard shortcuts
 
@@ -73,11 +77,6 @@ Currently, you can only restore deleted Office 365 groups from the Exchange admi
 
 **Settings** is being reorganized to have the **Services & add-ins**, **Security & privacy**, and **Organization profile** settings on a single list page and these settings will be searchable from the list view. <br>
 [Give feedback for settings redesign](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/38026780-searchable-settings)
-
-### Add user template
-
-You always add a user with the same defaults like assigning licenses and user roles. Create a template to add users with your org's defaults with just one step. <br>
-[Give feedback for automated tasks](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/16255120-new-user-templates)
 
 ### Bulk management of groups
 
