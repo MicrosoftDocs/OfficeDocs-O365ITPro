@@ -42,13 +42,13 @@ The following information is user-specific and isn’t saved in the template:
 
 - First and last name
 - Display name
-- User
+- User name
 - Choice to send the password in email and who the password email is sent to
 - Mobile phone number
 
-If you choose not to enter information for a setting within a section, that value will be blank and that setting will not display in the template. For example, if you leave **Location** blank, when you review your template and when you use your template, **Location** will not appear at all. If you leave all the **Profile** section settings entirely blank, the **Profile** section will display **None provided** in your final template.
+If you choose not to enter information for a setting within a section, that value will be blank and that setting will not display in the template. For example, if you leave **Job title** blank, when you review your template and when you use your template, **Job title** will not appear at all. If you leave all the **Profile** section settings blank, the **Profile** section will display **None provided** in your final template.
 
-When you create a template by selecting the **Add a template** option, you can choose which values to complete. Anything that is left blank will be blank in the template.
+When you create a template by selecting the **Add a template** option, you can choose which values to complete. Anything that is left blank will appear as **None provided** in the template.
 
 ## Use a template to add a user
 
@@ -74,7 +74,10 @@ You can easily delete templates you no longer need and add new ones. To delete a
 
 2. Select **Templates**, and then select **Manage templates** from the drop-down list.
 
-3. A list of templates will appear. Select a template, and then select **Delete**.
+3. A list of templates will appear. You can delete a template by doing any of the following:
+    - Select one or more templates, and then select **Delete**. 
+    - Select the three dots to the right of the template name, and then select **Delete**.
+    - Select the template name. When the template details appear on the right of your screen, select **Delete template**.
 
 ## Related topics
 
