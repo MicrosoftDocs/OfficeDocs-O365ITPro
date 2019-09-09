@@ -35,7 +35,7 @@ And if you're interested in what's new in other admin centers:
 ## August 2019
 
 ### Add user template
-Templates allow you to easily add many users by saving and reusing the shared settings for these users. You can save values for roles, licenses assigned, contact information, location, and more. When you use the template to create a new user, they will automatically get the saved value for these settings.
+Templates allow you to easily add many users by saving and reusing the shared settings for these users. You can save values for roles, licenses assigned, contact information, location, and more. When you use the template to create a new user, they will automatically get the saved value for these settings. Go to **Users** > **Active users**, and then select **User templates** to try it out.
 
 ### Billing
 We've got some updates for billing and subscriptions this month:
