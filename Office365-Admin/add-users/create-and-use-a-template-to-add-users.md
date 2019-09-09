@@ -21,7 +21,7 @@ description: "You can create and use a template to save time and standardize set
 
 # Create and use a template to add users
 
-You can create and use a template to save time and standardize settings when you are adding multiple users. Templates are particularly useful if you have users who share many common properties, like those who have the same role and work at the same location and those who require the same software.  For example, you might have a team of support engineers who work in the same office.  
+You can create and use a template to save time and standardize settings when you are adding multiple users. Templates are particularly useful if you have users who share many common properties, like those who have the same role and work at the same location and those who require the same software. For example, you might have a team of support engineers who work in the same office.  
 
 ## Create a template
 
@@ -77,7 +77,7 @@ You can easily delete templates you no longer need and add new ones. To delete a
 3. A list of templates will appear. You can delete a template by doing any of the following:
     - Select one or more templates, and then select **Delete**. 
     - Select the three dots to the right of the template name, and then select **Delete**.
-    - Select the template name. When the template details appear on the right of your screen, select **Delete template**.
+    - Select the template name. When the template details appear on the right side of your screen, select **Delete template**.
 
 ## Related topics
 
