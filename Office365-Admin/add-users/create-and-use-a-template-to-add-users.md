@@ -25,7 +25,7 @@ You can create and use a template to save time and standardize settings when you
 
 ## Create a template
 
-Templates are easy to create&mdash;you can select **Users** > **Active users** > **Templates**, and then select **Add a template** from the drop-down list, or you can add a new user and when you are finished, you will have the option of saving the entry as a template.
+Templates are easy to create&mdash;you can select **Users** > **Active users** > **User templates**, and then select **Add a template** from the drop-down list, or you can add a new user and when you are finished, you will have the option of saving the entry as a template.
 
 When you create a template after adding a user, the values you choose for the following settings are saved in the template:
 
