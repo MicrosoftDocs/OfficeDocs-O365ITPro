@@ -42,7 +42,7 @@ Here's a list of features that will most-likely be released soon.
 We're making it easier to see the roles that are assigned to a user and to see which users are assigned to a role:
     - To see the roles assigned to a user, go to **Users** > **Active users** > select a user > **Manage roles**.
     - To see the users assigned to a role, go to **Roles** > **Roles** > select a role > **Assigned admins**. And if you're not getting enough information from this view, you can go back to the Roles list page and export the list of admins and the roles assigned to them. Exporting the CSV file is great for auditing.
-    - Select a role as a favorite, so that you can sort and filter your most-used roles.
+    - Select a role as a favorite, so that you can sort and filter your most-used roles.<br>
 [Give feedback for role-based permissions](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/10115430-have-a-consistent-experience-when-assigning-admin)
 
 ### Keyboard shortcuts
