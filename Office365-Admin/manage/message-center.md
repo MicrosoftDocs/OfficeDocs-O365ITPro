@@ -21,25 +21,25 @@ description: "Get an overview of Office 365 Message center and its role in chang
 
 # Message center in Office 365
 
-To keep track of upcoming feature releases or issues, go to <a href="https://go.microsoft.com/fwlink/p/?linkid=2070717)" target="_blank">Message center</a>. That's where we post official announcements about new and changed features to enable you to take a proactive approach to change management. Each post gives you a high-level overview of a planned change and how it may affect your users, and links out to more detailed information to help you prepare.
+To keep track of upcoming feature releases or issues, go to <a href="https://go.microsoft.com/fwlink/p/?linkid=2070717" target="_blank">Message center</a>. That's where we post official announcements about new and changed features to enable you to take a proactive approach to change management. Each post gives you a high-level overview of a planned change and how it may affect your users, and links out to more detailed information to help you prepare.
   
 To open the Message center:
 
 ::: moniker range="o365-worldwide"
 
-- In the admin center, go to **Health** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2070717)" target="_blank">Message center</a>.
+- In the admin center, go to **Health** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2070717" target="_blank">Message center</a>.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-- In the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041)" target="_blank">admin center</a>, go to **Health** > **Message center**.
+- In the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a>, go to **Health** > **Message center**.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
  
-- In the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627)" target="_blank">admin center</a>, go to **Health** > **Message center**.
+- In the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>, go to **Health** > **Message center**.
 
 ::: moniker-end
 

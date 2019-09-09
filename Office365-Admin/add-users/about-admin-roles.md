@@ -28,7 +28,8 @@ description: "Admin roles map to business functions and give permissions to do s
 
 Your subscription comes with a set of admin roles that you can assign to users in your organization. Each admin role maps to common business functions and gives people in your organization permissions to do specific tasks in the admin centers. For more information, see [Assign admin roles](assign-admin-roles.md)
 
-[!TIP] Looking for the detailed role descriptions? Check out [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
+> [!TIP] 
+> Looking for the detailed role descriptions? Check out [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
 
 ## Things to consider...
 
@@ -104,7 +105,7 @@ You'll probably only need to assign the following roles in your organization.
 |License admin     |     Assigns and removes licenses from users and edits their usage location.    |
 |Message center privacy reader     |    Access to data privacy messages in Message Center, gets email notifications.     |
 |Message center reader     | Reads and shares regular messages in Message Center, gets weekly email digests, has read-only access to users, groups, domains, and subscriptions.     |
-|Privileged role admin     |    Manages role assignments in manages all access control features of Privileged Identity Management.     |
+|Privileged role admin     |    Manages role assignments and all access control features of Privileged Identity Management.     |
 |Reports reader     |   Reads usage reporting data from the reports dashboard, PowerBI adoption content pack, sign-in reports, and Microsoft Graph reporting API.      |
 |Search admin     |    Full access to Microsoft Search, assigns the Search admin and Search editor roles, manages editorial content, monitors service health, and creates service requests.     |
 |Search editor     |    Can only create, edit, and delete content for Microsoft Search, like bookmarks, Q&A, and locations.     |
