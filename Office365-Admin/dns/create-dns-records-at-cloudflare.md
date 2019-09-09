@@ -285,6 +285,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
 ## Add the two SRV records that are required for Office 365
 <a name="BKMK_add_SRV"> </a>
 
+> [!IMPORTANT]
+> Please keep in mind that Cloudflare is responsible for making this functionality available. In case you see discrepancies between the steps below and the current Cloudflare GUI(Graphical User Interface), please leverage the [Cloudflare Community](https://community.cloudflare.com/). 
+
 1. To get started, go to your domains page at Cloudflare by using [this link](https://www.cloudflare.com/a/login). You'll be prompted to log in first.
     
     ![Cloudflare-BP-Configure-1-1](../media/e1ab6ca7-c36d-42ce-9e0a-5e1b0c0b234c.png)

@@ -43,7 +43,7 @@ All Office 2016 client applications support MFA through the use of the Active Di
 
 3. Check the **Enable modern authentication** box in the **Modern authentication** panel. 
 
-    ![Modern authentication panel with enable checkbox checked.](../media/enablemodernauth.PNG)
+    ![Modern authentication panel with enable checkbox checked.](../media/enablemodernauth.png)
 
 ## Set up multi-factor authentication in the new Microsoft 365 admin center
 
