@@ -61,7 +61,7 @@ To use an existing template to add a user:
  > [!NOTE]
  > You can also use a template to add a user by selecting **User templates** > **Manage templates**, selecting a template, and then selecting **Use template**.
 
-3. Complete the wizard to create a user from the template you selected.
+3. Follow the steps to create a user from the template you selected.
 
 > [!NOTE]
 > If you have insufficient licenses available for a user that you add, and your payment information is available, we will attempt to purchase another license using your existing payment information. If your payment information is unavailable, the user will be created as an unlicensed user.
