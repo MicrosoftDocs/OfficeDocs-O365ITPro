@@ -92,7 +92,6 @@ Files that users upload in Office 365 connected groups are saved in the **Apps >
 
 The following table shows how each type of guest and external user can access files uploaded in Yammer and stored in SharePoint.
 
-|||
 |**Type of user**|**Access to group files in Yammer**|**Access to group files in SharePoint**|
 |----------|----------|----------|
 |**Conversation-level guest that is in your network**|**Private group**: Can view files that have been shared in the conversation, but can't upload files.<br/>**Public group**: Can view, edit, and upload files.|Conversation level guests cannot access any files saved in SharePoint nor upload any files. If you want to enable access to specific files in the conversation, add them as an Azure B2B guest on the Office 365 tenant. File upload is not permitted.|
