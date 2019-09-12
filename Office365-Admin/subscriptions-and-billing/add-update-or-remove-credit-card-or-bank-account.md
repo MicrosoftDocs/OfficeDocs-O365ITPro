@@ -42,11 +42,11 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=848039" target="_blank">Bills & payments</a> page.
 
-2. Select **Add a payment method**.
+2. On the **Payment methods** tab, select **Add a payment method**.
 
-3. In the **Payment methods** pane, pick a payment method from the drop-down menu.
+3. In the **Add a payment method** pane, pick a payment method from the drop-down menu.
 
-4. Enter the information for the new credit card or bank account, then select **Add**.
+4. Enter the information for the new credit card or bank account, and then select **Add**.
 
 ::: moniker-end
 
