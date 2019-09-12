@@ -40,13 +40,13 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 
 ::: moniker range="o365-worldwide"  
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=848039" target="_blank">Bills & payments</a> page.
 
 2. Select **Add a payment method**.
 
-3. On the **Payment methods** page, pick a payment method from the drop-down menu.
+3. In the **Payment methods** pane, pick a payment method from the drop-down menu.
 
-4. Enter the information for the new credit card or bank account, then select **Save**.
+4. Enter the information for the new credit card or bank account, then select **Add**.
 
 ::: moniker-end
 
@@ -98,16 +98,14 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=848039" target="_blank">Bills & payments</a> page.
 
-2. On the **Payment methods** page, pick the credit card or bank account to update.
-
-3. To change the credit card or bank account information, select **Edit payment details**.
+2. On the **Payment methods** tab, next to the payment method you want to update, select the **More** menu (3 dots), and then select **Edit payment method**.
 
     > [!NOTE]
     >  If another admin purchased the subscription, you won't be able to update the credit card or bank account information for it. If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription.
 
-4. Update your credit card or bank account information (name on the credit card or bank account, billing address, phone number, or expiration date) as needed, then select **Save** \> **Done**.
+4. Update your credit card or bank account information (name on the credit card or bank account, billing address, phone number, or expiration date) as needed, and then select **Save**.
 
 ::: moniker-end
 
@@ -164,11 +162,11 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=848039" target="_blank">Bills & payments</a> page.
 
-2. On the **Payment methods** page, pick the credit card or bank account to delete.
+2. On the **Payment methods** tab, select the name of the credit card or bank account you want to delete.
 
-3. To remove the credit card or bank account, select **Delete payment method**.
+3. At the bottom of the **Payment method details** pane, select **Delete**.
 
     > [!NOTE]
     > You won't be able to remove a credit card or bank account if it's currently being used to pay for a subscription.
