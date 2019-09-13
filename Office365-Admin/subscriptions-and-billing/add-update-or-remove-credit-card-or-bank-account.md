@@ -91,8 +91,6 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 ## Update an existing credit card or bank account
 
 > [!NOTE]
->  You don't need the CVV/CVN code to update the details of an existing credit card.
->
 >  You can't change the number on an existing credit card or bank account. If for some reason the credit card or bank account number has changed, add it as a new credit card or bank account, pick it as the payment option for your subscription, then remove the existing credit card or bank account.
 >  You must use a credit card issued from the same country as your tenant.
 
@@ -105,7 +103,7 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
     > [!NOTE]
     >  If another admin purchased the subscription, you won't be able to update the credit card or bank account information for it. If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription.
 
-4. Update your credit card or bank account information (name on the credit card or bank account, billing address, phone number, or expiration date) as needed, and then select **Save**.
+3. Update your credit card or bank account information (name on the credit card or bank account, billing address, security code, or expiration date) as needed, and then select **Save**.
 
 ::: moniker-end
 
