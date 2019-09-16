@@ -37,15 +37,24 @@ For the list of features we've released for the Microsoft 365 admin center, see 
 
 Here's a list of features that will most-likely be released soon.
 
+### Role-based permissions
+
+We're making it easier to see the roles that are assigned to a user and to see which users are assigned to a role:
+- To see the roles assigned to a user, go to **Users** > **Active users** > select a user > **Manage roles**.
+- To see the users assigned to a role, go to **Roles** > **Roles** > select a role > **Assigned admins**. And if you're not getting enough information from this view, you can go back to the Roles list page and export the list of admins and the roles assigned to them. Exporting the CSV file is great for auditing.
+- You can also select a role as a **favorite**, so that you can sort and filter your most-used roles.<br>
+
+[Give feedback for role-based permissions](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/10115430-have-a-consistent-experience-when-assigning-admin)
+
 ### Keyboard shortcuts
 
 You'll be able to perform some of the most common admin center tasks with just your keyboard. Here's an example of some of the keyboard shortcuts that are coming:
 	
-- **Shift + A + G**:  add group
-- **Shift + A + U**: add user
-- **Shift + A + C**: add contact
-- **Shift + R + P**: reset password
-- **Shift + ?**: View the full list of supported shortcuts
+- **Shift+A+G**:  add group
+- **Shift+A+U**: add user
+- **Shift+A+C**: add contact
+- **Shift+R+P**: reset password
+- **Shift+?**: View the full list of supported shortcuts
 
 Over time we will be adding to the supported keyboard shortcuts and improving this feature. Which shortcuts would you like to see next? <br>
 [Give feedback for keyboard shortcuts](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/38069521-keyboard-shortcuts-in-the-admin-center-what-acti)
@@ -69,11 +78,6 @@ Currently, you can only restore deleted Office 365 groups from the Exchange admi
 
 **Settings** is being reorganized to have the **Services & add-ins**, **Security & privacy**, and **Organization profile** settings on a single list page and these settings will be searchable from the list view. <br>
 [Give feedback for settings redesign](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/38026780-searchable-settings)
-
-### Add user template
-
-You always add a user with the same defaults like assigning licenses and user roles. Create a template to add users with your org's defaults with just one step. <br>
-[Give feedback for automated tasks](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/16255120-new-user-templates)
 
 ### Bulk management of groups
 
