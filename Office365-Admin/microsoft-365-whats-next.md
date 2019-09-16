@@ -50,11 +50,11 @@ We're making it easier to see the roles that are assigned to a user and to see w
 
 You'll be able to perform some of the most common admin center tasks with just your keyboard. Here's an example of some of the keyboard shortcuts that are coming:
 	
-- **Shift + A + G**:  add group
-- **Shift + A + U**: add user
-- **Shift + A + C**: add contact
-- **Shift + R + P**: reset password
-- **Shift + ?**: View the full list of supported shortcuts
+- **Shift+A+G**:  add group
+- **Shift+A+U**: add user
+- **Shift+A+C**: add contact
+- **Shift+R+P**: reset password
+- **Shift+?**: View the full list of supported shortcuts
 
 Over time we will be adding to the supported keyboard shortcuts and improving this feature. Which shortcuts would you like to see next? <br>
 [Give feedback for keyboard shortcuts](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/38069521-keyboard-shortcuts-in-the-admin-center-what-acti)
