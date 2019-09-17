@@ -96,9 +96,11 @@ Using a custom domain like "**rob@contoso.com**" with Office 365 can help build 
   
 You can [buy a domain in Office 365 and we'll set it up automatically](../get-help-with-domains/buy-a-domain-name.md), or you can buy or bring one you already own from a domain registrar.
   
-## Can I transfer my domain away from Office 365 to another provider?
+## Can I transfer a domain I purchased from Microsoft to another provider?
 
-Yes, but you can't transfer an Office 365 domain to another registrar until 60 days after you registered it with Office 365.
+Yes, but you can't transfer an Office 365 domain to another registrar until 60 days after you purchased it with Office 365.
+
+Please note that a *Whois* query will show an Office 365 purchased domain registrar as Wild West Domains LLC. However, only Office 365 should be contacted regarding your Office 365 purchased domain.
   
 Follow the steps below to get the code at Office 365, and then go to the other domain registrar's website to set up transferring your domain name to that registrar.
   
@@ -119,6 +121,8 @@ Follow the steps below to get the code at Office 365, and then go to the other d
 7. After the transfer is complete, you'll renew your domain at the new domain registrar.
     
 8. To finish the process, go back to the admin center **Domains** page and select **Complete Domain Transfer**. 
+
+*Note: Please note that Office 365 purchased domains are not eligible for Name Server changes or transferring the domain between Office 365 Tenants.  If either of these are required, the domain registration will need to be transferred to another registrar.*
     
 ## How do I change how my DNS records are managed in Office 365?
 
