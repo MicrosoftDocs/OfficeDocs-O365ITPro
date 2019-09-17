@@ -32,15 +32,40 @@ And if you're interested in what's new in other admin centers:
 - [What's new in the Microsoft 365 compliance center ](https://docs.microsoft.com/Office365/SecurityCompliance/whats-new)
 - [What's new in the SharePoint admin center](https://docs.microsoft.com/sharepoint/what-s-new-in-admin-center)
 
+## August 2019
+
+### Add user template
+Templates allow you to easily add many users by saving and reusing the shared settings for these users. You can save values for roles, licenses assigned, contact information, location, and more. When you use the template to create a new user, they will automatically get the saved value for these settings. Go to **Users** > **Active users**, and then select **User templates** to try it out.
+
+### Billing
+
+We've got some updates for billing and subscriptions this month:
+
+- Device-based subscriptions: You can assign or unassign **Office 365 ProPlus for Education (device)** licenses to devices in the Microsoft 365 admin center. **Office 365 ProPlus for Education (device)** is an add-on license that will lets you to assign a license to a device. Go to **Billing** > **Products & services** to find and purchase the license.
+- User-based license management: We've updated how you assign licenses in **Users** > **Active users** to the new style. For more information, see:
+    - [Assign licenses to users](subscriptions-and-billing/assign-licenses-to-users.md)
+    - [Unassign licenses from users](subscriptions-and-billing/remove-licenses-from-users.md)
+
+### Setup page updates
+
+Setup now has categories and sections, including a **Recommended for you** section where we intelligently suggest your next step in turning on features and setting up your organization. We've also added a new feature to set up:
+
+- **Office Advanced Threat Protection** - If your org is licensed to use Office ATP and you haven't configured it or turned it on yet, you'll see this page. Go to **Setup** to try it out.
+
+### Report an outage
+
+If you are impacted by an issue that is not showing up on your Service health dashboard, the **Report an Outage** feature will provide you with a quick and easy way to let us know. Go to **Health** > **Service health**.
+
 ## July 2019
 
 ### Message center
+
 The Message center has been updated to the new design and it looks amazing! 
 
 ![Screen capture: Updated Message center with the 'All active messages' tab selected and the Filter menu opened.](media/MAC-MessageCenterUpdated.png)
 
-- **View by message status**: You can now view messages by status. Just select one of the tabs: **All active messages**, **High importance**, **Unread messages**, and **Dismissed messages**.
-- **Filter by category**: You can also filter by **Data privacy**, **Plan for change**, **Prevent or fix issues**, and **Stay informed** message categories.
+- You can now view **Messages by status**. Just select one of the tabs: **All active messages**, **High importance**, **Unread messages**, and **Dismissed messages**.
+- You can also filter by category **Data privacy**, **Plan for change**, **Prevent or fix issues**, and **Stay informed** message categories.
 - Select a message from the list and you have a few options in the command bar: **Dismiss**, **Mark as read** or **Mark as unread**, or **Share the message**. 
 - And when you open a message, you have even more options:
     - Copy a link of the message to your clipboard to save it for later or to share it with colleagues. 

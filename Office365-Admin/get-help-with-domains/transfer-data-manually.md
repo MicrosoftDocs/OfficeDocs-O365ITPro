@@ -101,6 +101,6 @@ Ask users to [move their email, contacts, tasks, and calendar information](https
   
 ### OneDrive For Business data:
 
-Ask users to [OneDrive for Business content to their computer](https://support.office.com/article/59b1de2b-519e-4d3a-8f45-51647cf291cd.aspx), and then add it back to their new subscription.
+Ask users to Copy/Sync [OneDrive for Business content to their computer](https://support.office.com/article/59b1de2b-519e-4d3a-8f45-51647cf291cd.aspx), and then add it back to their new subscription.
   
 

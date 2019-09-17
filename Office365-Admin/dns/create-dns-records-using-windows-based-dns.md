@@ -133,7 +133,8 @@ Add the SIP SRV record for Skype for Business Online web conferencing.  <br/>
     -  Protocol: _tls
     -  Priority: 100
     -  Weight: 1
-    -  Port: 443Target (Hostname): sipdir.online.lync.com
+    -  Port: 443
+    -  Target (Hostname): sipdir.online.lync.com
 -  Select **OK**. 
 
 
