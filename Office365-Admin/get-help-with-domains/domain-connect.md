@@ -26,25 +26,24 @@ description: "Learn how to work with Domain Connect enabled registrars and add y
 
 # Using Domain Connect
 
- **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
+ **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for.
   
-Domain Connect enabled registrars let you add your domain to Office 365 in a three-step process that takes minutes. 
+Domain Connect enabled registrars let you add your domain to Office 365 in a three-step process that takes minutes.
   
 In the wizard, we'll just confirm that you own the domain, and then automatically set up your domain's records, so email comes to Office 365 and other Office 365 services, like Skype for Business, work with your domain.
   
 > [!NOTE]
-> Make sure you disable any popup blockers in your browser before you start the setup wizard. 
+> Make sure you disable any popup blockers in your browser before you start the setup wizard.
   
 ## Registrars with Domain Connect
 
 - [1&amp;1 IONOS](https://www.1and1.com/)
-    
+- [123Reg](https://www.123-reg.co.uk/)
 - [GoDaddy](https://www.godaddy.com/)
-    
+- [WordPress](https://wordpress.com/)
+
 ## What happens to my email? And my website?
 
 After you finish setup, the MX record for your domain is updated to point to Office 365 and all email for your domain will start coming to Office 365. Make sure you've added users and set up mailboxes in Office 365 for everyone who gets email on your domain!
   
 If you have a website that you use with your business, it will keep working where it is. The Domain Connect setup steps don't affect your website.
-  
-
