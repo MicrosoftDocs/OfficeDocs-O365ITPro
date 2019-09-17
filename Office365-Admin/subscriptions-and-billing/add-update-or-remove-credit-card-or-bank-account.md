@@ -156,7 +156,7 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 ## Remove a credit card or bank account
 
 > [!NOTE]
-> You can remove a credit card or bank account, as long as you don't have an outstanding balance on the credit card or bank account, and you're not using it to pay for an active subscription.
+> You can remove a credit card or bank account, as long as you don't have an outstanding balance on the credit card or bank account, and you're not using it to pay for an active subscription. To remove an active payment method, [add a new card number or bank account](#add-a-new-credit-card-or-bank-account), [change your subscription to that payment method](#change-the-credit-card-or-bank-account-that-youre-using-to-pay-for-a-subscription), and then [delete the old credit card or bank account](#remove-a-credit-card-or-bank-account).
 
 ::: moniker range="o365-worldwide"
 
@@ -223,13 +223,15 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Find the subscription that you want to pay for with the new credit card or bank account, under **Billing**, next to the payment method, select **Edit**.
+> [!NOTE]
+> If you only have one payment method, you must [add a new credit card or bank account](#add-a-new-credit-card-or-bank-account) to your subscription before you can change to a different method.
 
-3. Next to your existing payment method, select **Change**.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=848039" target="_blank">Bills & payments</a> page.
 
-4. From the drop-down menu, choose an alternate payment method, or choose **Credit card or debit card**
+2. On the **Payment methods** tab, next to the payment method you want to update, select the **More** menu (3 dots), and then select **Change subscriptions**.
+
+3. In the **Change payment method** pane, select a new payment method from the list, and then choose **Change**.
 
 ::: moniker-end
 
