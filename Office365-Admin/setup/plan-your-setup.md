@@ -170,13 +170,13 @@ For the following features, you need to take some additional steps:
 To make and receive phone calls from people external to your business, you have two options:
   
 - **Option 1. Use the free [Skype app](https://www.skype.com/)**. If you have a very small business (for example, 1-2 people) using the Skype app is the better way to go. It's less expensive to use for domestic and international calls. You can still hold conference calls, make video calls, and share your desktop for presentations. [Check out the rates and payment options](https://secure.skype.com/en/calling-rates?wt.mc_id=legacy&amp;expo365=bundled).
-    
+
     Note that the Skype app isn't part of the Office 365 suite, so it won't be integrated with Outlook 2016 the way Skype for Business is. This means your contacts in Outlook 2016 won't show up in Skype; you'll need to add your contacts to Skype.
-    
+
     We recommend starting with the Skype app to see if it meets your needs. If it doesn't, then consider the next option, to upgrade your plan.
-    
+
 - **Option 2. Upgrade your plan, and buy Cloud PBX and the PSTN Calling plan**. 
-    
+
 1. [Switch to the E1 or E3 plan](../subscriptions-and-billing/switch-to-a-different-plan.md) : 
     
   - Buy the E1 plan if you don't want to receive voicemail.
