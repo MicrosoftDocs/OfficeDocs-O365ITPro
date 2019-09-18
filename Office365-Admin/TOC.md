@@ -14,7 +14,7 @@
 ### [Domains FAQ](setup/domains-faq.md)
 ### [Install applications](setup/install-applications.md)
 ### [Migrate email and contacts](setup/migrate-email-and-contacts-admin.md)
-### [Roll out Teams](/microsoftteams/how-to-roll-out-teams)
+### [Roll out Teams](/microsoftteams/how-to-roll-out-teams.md)
 ### [Set up file storage and sharing](setup/set-up-file-storage-and-sharing.md)
 ### [Customize team site](setup/customize-team-site.md)
 ### [Upgrade users to latest Office client](setup/upgrade-users-to-latest-office-client.md)
