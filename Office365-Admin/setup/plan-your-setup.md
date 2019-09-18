@@ -178,17 +178,17 @@ To make and receive phone calls from people external to your business, you have 
 - **Option 2. Upgrade your plan, and buy Cloud PBX and the PSTN Calling plan**. 
 
 1. [Switch to the E1 or E3 plan](../subscriptions-and-billing/switch-to-a-different-plan.md) : 
-    
+
   - Buy the E1 plan if you don't want to receive voicemail.
-    
+
   - Buy the E3 plan if you do want to receive voicemail. Here's how Cloud PBX voicemail works: When a user receives a voicemail, it will be delivered to their mailbox as an email with the voicemail message as an attachment. They can also listen to their messages over their Skype certified desktop phone, all Skype for Business applications.
     
 2. Buy the Cloud PBX add-on.
     
 3. Buy a [PSTN Calling plan](https://docs.microsoft.com/microsoftteams/what-are-calling-plans-in-office-365): you can only buy this after you buy the Cloud PBX add-on.
-    
+
     This second option is ideal for businesses with several people who make and receive external phone calls.
-    
+
 There are other Skype for Business features you can add to your subscription, too. To learn more, see [Skype for Business add-on licensing](https://support.office.com/article/3ed752b1-5983-43f9-bcfd-760619ab40a7.aspx).
   
 ### Do you want to use Skype Meeting Broadcast?
