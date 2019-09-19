@@ -170,25 +170,25 @@ For the following features, you need to take some additional steps:
 To make and receive phone calls from people external to your business, you have two options:
   
 - **Option 1. Use the free [Skype app](https://www.skype.com/)**. If you have a very small business (for example, 1-2 people) using the Skype app is the better way to go. It's less expensive to use for domestic and international calls. You can still hold conference calls, make video calls, and share your desktop for presentations. [Check out the rates and payment options](https://secure.skype.com/en/calling-rates?wt.mc_id=legacy&amp;expo365=bundled).
-    
+
     Note that the Skype app isn't part of the Office 365 suite, so it won't be integrated with Outlook 2016 the way Skype for Business is. This means your contacts in Outlook 2016 won't show up in Skype; you'll need to add your contacts to Skype.
-    
+
     We recommend starting with the Skype app to see if it meets your needs. If it doesn't, then consider the next option, to upgrade your plan.
-    
+
 - **Option 2. Upgrade your plan, and buy Cloud PBX and the PSTN Calling plan**. 
-    
+
 1. [Switch to the E1 or E3 plan](../subscriptions-and-billing/switch-to-a-different-plan.md) : 
-    
+
   - Buy the E1 plan if you don't want to receive voicemail.
-    
+
   - Buy the E3 plan if you do want to receive voicemail. Here's how Cloud PBX voicemail works: When a user receives a voicemail, it will be delivered to their mailbox as an email with the voicemail message as an attachment. They can also listen to their messages over their Skype certified desktop phone, all Skype for Business applications.
     
 2. Buy the Cloud PBX add-on.
     
 3. Buy a [PSTN Calling plan](https://docs.microsoft.com/microsoftteams/what-are-calling-plans-in-office-365): you can only buy this after you buy the Cloud PBX add-on.
-    
+
     This second option is ideal for businesses with several people who make and receive external phone calls.
-    
+
 There are other Skype for Business features you can add to your subscription, too. To learn more, see [Skype for Business add-on licensing](https://support.office.com/article/3ed752b1-5983-43f9-bcfd-760619ab40a7.aspx).
   
 ### Do you want to use Skype Meeting Broadcast?
