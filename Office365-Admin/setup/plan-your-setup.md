@@ -116,7 +116,7 @@ Mobile apps can be installed on iOS, Android, and Windows devices. You can find 
 
 If you're planning to move from an existing email service to Office 365, it usually takes 2 days to make the switch.
   
-### Plan for email downtime**
+### Plan for email downtime
   
 If you're going to use Office 365 for your email:
   
@@ -126,7 +126,7 @@ If you're going to use Office 365 for your email:
 
 - Because you might have email downtime, we recommend you plan to switch to Office 365 email during an evening or weekend when you receive fewer emails.
 
-### Plan to move your existing email, contacts, and calendar**
+### Plan to move your existing email, contacts, and calendar
   
 If you're going to use Office 365 for your email account, you can bring your existing email, contacts, and calendar with you. The Office 365 setup wizard helps you move your existing email and contacts for most scenarios. We also have step-by-step guides to move one or many mailboxes.
   
