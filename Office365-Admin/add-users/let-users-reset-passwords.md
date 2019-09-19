@@ -63,7 +63,7 @@ These steps turn on self-service password reset for everyone in your business.
    
 2. Under **Let your people reset their own passwords**, select the link for the **Azure AD admin center**. You'll get Azure for free!
     
-    ![Se;ect the link to go to the Azure admin center.](../media/1b72241f-df7b-44b0-9477-8687fe9f7315.png)
+    ![Select the link to go to the Azure admin center.](../media/1b72241f-df7b-44b0-9477-8687fe9f7315.png)
   
 4. Select **Users and groups** \> **Password reset**.
     
