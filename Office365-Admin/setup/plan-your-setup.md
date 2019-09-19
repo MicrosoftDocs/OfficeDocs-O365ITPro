@@ -74,6 +74,8 @@ Here are the steps you'll complete when you create your account and run the setu
 
 7. Congratulations! You're finished!
 
+    ![Setup is complete](../media/O365-setup-image6.png)
+
 Now you can go to the Microsoft 365 admin center, where you can migrate email and contacts from another email service, change the domain of your admin account, manage your billing information, add or remove users, reset passwords, and do other business functions.
 
 If you get stuck at any point, call us. [We're here to help!](../contact-support-for-business-products.md)
