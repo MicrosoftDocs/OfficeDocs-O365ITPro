@@ -76,7 +76,7 @@ You'll probably only need to assign the following roles in your organization.
 |Service admin    |   Assign the Service admin role as an additional role to admins or users whose role doesn't include the following, but still need to do the following: <br> - Open and manage service requests <br> - View and share message center posts   |
 |SharePoint admin    |   Assign the SharePoint admin role to user's who need to access and manage the SharePoint Online admin center. <br><br>SharePoint admins can also: <br> - Create and delete sites <br> - Manage site collections and global SharePoint settings   |
 |Teams admin    |   Assign the Teams admin role to user's who need to access and manage the Teams admin center. <br><br>Teams admins can also: <br> - Manage meetings <br> - Manage conference bridges <br> - Manage all org-wide settings, including federation, teams upgrade, and teams client settings   |
-|Global reader admin    |   Assign the global reader admin role to user's who need to view admin features and settings in all admin centers that the global admin can view, but can't edit any settings.   |
+|Global reader admin    |   Assign the global reader admin role to user's who need to view admin features and settings in all admin centers that the global admin can view. The global reader admin can't edit any settings.   |
 |User admin     |    Assign the User admin role to users who need to do the following for all users: <br> - Add users and groups <br> - Assign licenses <br> - Manage most users properties <br> - Create and manage user views <br> - Update password expiration policies <br> - Manage service requests <br> - Monitor service health <br><br>  The user admin can also do the following actions for users who aren't admins and for users assigned the following roles: Directory reader, Guest inviter, Helpdesk admin, Message center reader, Reports reader: <br> - Manage usernames<br> - Delete and restore users<br> - Reset passwords <br> - Force users to sign out <br> - Update (FIDO) device keys   |
 
 ### All roles
@@ -113,7 +113,7 @@ You'll probably only need to assign the following roles in your organization.
 |Service admin     |    Creates service requests for Azure, Microsoft 365, and Office 365 services, and monitors service health.     |
 |Skype for Business admin     | Full access to all Teams and Skype features, Skype user attributes, manages service requests, and monitors service health.      |
 |SharePoint admin     |    Full access to SharePoint Online, manages Office 365 groups, manages service requests, and monitors service health.     |
-|Teams admin     |    Full access to Teams & Skype admin center, manages Office 365 groups and service requests, and monitors service health.     |
+|Teams service admin     |    Full access to Teams & Skype admin center, manages Office 365 groups and service requests, and monitors service health.     |
 |Teams communication manager     |    Assigns telephone numbers, creates and manages voice and meeting policies, and reads call analytics.     |
 |Teams communication support engineer     |    Reads call record details for all call participants to troubleshoot communication issues.     |
 |Teams communication support specialist     |    Reads user call details only for a specific user to troubleshoot communication issues.|
