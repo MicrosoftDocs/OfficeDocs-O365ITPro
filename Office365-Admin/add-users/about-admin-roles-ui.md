@@ -22,6 +22,16 @@ search.appverid:
 description: "Admin roles map to business functions and give permissions to do specific tasks in the admin center. For example, the Service admin opens support tickets with Microsoft."
 ---
 
+## About the admin roles page
+
+![Admin role list](../../images/Admin-list-smb-scenario.png)
+
+|||
+|:-----|:-----|
+|1.  <br/> |Use **Export admin list** to get a full list of all the admin users in your organization. The list is stored in an Excel .csv file.   <br/> |
+|2.  <br/> |Use **Search** to search for an admin role and see your users who are assigned to that role.   <br/> |
+|3.  <br/> |Use **Filter** to change the view of displayed admin roles.   <br/> |
+
 # About admin roles
 
 On the Roles page, you can give users permissions to do tasks in the admin centers. This helps your organization spread tasks to the appropriate people and helps keep your data secure.
