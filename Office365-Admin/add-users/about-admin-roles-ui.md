@@ -22,6 +22,13 @@ search.appverid:
 description: "Admin roles map to business functions and give permissions to do specific tasks in the admin center. For example, the Service admin opens support tickets with Microsoft."
 ---
 
+# About admin roles
+
+On the Roles page, you can give users permissions to do tasks in the admin centers. This helps your organization spread tasks to the appropriate people and helps keep your data secure.
+
+> [!TIP] 
+> Looking for the detailed role descriptions? Check out [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles) and [About admin roles](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).
+
 ## About the admin roles page
 
 ![Admin role list](../../images/Admin-list-smb-scenario.png)
@@ -32,14 +39,7 @@ description: "Admin roles map to business functions and give permissions to do s
 |2.  <br/> |Use **Search** to search for an admin role and see your users who are assigned to that role.   <br/> |
 |3.  <br/> |Use **Filter** to change the view of displayed admin roles.   <br/> |
 
-# About admin roles
-
-On the Roles page, you can give users permissions to do tasks in the admin centers. This helps your organization spread tasks to the appropriate people and helps keep your data secure.
-
-> [!TIP] 
-> Looking for the detailed role descriptions? Check out [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles) and [About admin roles](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).
-
-## Get the most out of roles
+## Get the most out of the admin roles
 
 Read the content below to learn about the different roles and how they can help you in your organization.
 
