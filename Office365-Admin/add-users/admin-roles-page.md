@@ -31,7 +31,7 @@ On the Roles page, you can give users permissions to do tasks in the admin cente
 
 ## About the admin roles page
 
-![Admin role list](../../images/Admin-list-smb-scenario.png)
+![Admin role page options](../../images/Admin-list-smb-scenario.png)
 
 |||
 |:-----|:-----|
@@ -41,7 +41,7 @@ On the Roles page, you can give users permissions to do tasks in the admin cente
 
 ## Get the most out of the admin roles
 
-Read the content below to learn about the different roles and how they can help you in your organization.
+Read the content below to learn about the different roles and what tasks the roles can perform in your organization.
 
 ![Admin role list](../../images/Admin-list-smb-scenario.png)
 
