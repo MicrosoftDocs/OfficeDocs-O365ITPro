@@ -153,5 +153,4 @@
 ### [Message center](manage/message-center.md)
 ### [Try or buy Microsoft 365](try-or-buy-microsoft-365.md)
 ### [What's next](microsoft-365-whats-next.md)
-## [Troubleshoot issues for admins](https://docs.microsoft.com/en-us/office365/troubleshoot/troubleshooting/troubleshoot-issues-for-admins?view=o365-worldwide)
 ## [Contact support for business products](contact-support-for-business-products.md)
