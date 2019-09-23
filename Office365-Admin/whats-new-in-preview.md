@@ -32,6 +32,24 @@ And if you're interested in what's new in other admin centers:
 - [What's new in the Microsoft 365 compliance center ](https://docs.microsoft.com/Office365/SecurityCompliance/whats-new)
 - [What's new in the SharePoint admin center](https://docs.microsoft.com/sharepoint/what-s-new-in-admin-center)
 
+## September
+We are ramping up for some exciting feature releases at Ignite 2019, so we're only announcing a few new features that were released in September. But stay tuned for next month's article, it'll be published on the first day of Ignite!<br>
+
+### Featured Feedback Fix - Delete user wizard is back!
+We heard your feedback loud and clear and we brought back the delete user wizard that lets you decide what to do with the deleted user's email aliases, delegated permissions, OneDrive files, and their email.
+![Screen capture: Delete user wizard with email aliases, permissions, OneDrive, and email options displayed](media/WhatsNew-DeleteUserWiz.png)
+
+### SharePoint admin center URL change
+Technically, this isn't a change to the Microsoft 365 admin center, but we're so excited about this change that we want you to know about it here too! <br><br> 
+
+> [!IMPORTANT]
+> You can now get to the SharePoint admin site with this URL: [https://admin.microsoft.com/sharepoint](https://admin.microsoft.com/sharepoint). <br><br>You don't have to have your organization's name in the URL anymore!!!
+
+### Initial setup
+There's been an update to another of our initial setup wizards: Microsoft 365 for business. The steps have been streamlined and we've moved two of the set up tasks into the Setup page:
+- **Secure Windows 10 computers** - set up policies to better protect your Windows 10 devices from viruses, malware, and attacks by hackers.
+- **Automatically install Office** - When you turn this on and users have connected their PCs to Microsoft 365 Business, their computers will automatically update to the latest Office apps - and stay up to date.
+
 ## August 2019
 
 ### Add user template
