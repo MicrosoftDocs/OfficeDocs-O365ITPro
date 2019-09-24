@@ -24,6 +24,7 @@ search.appverid:
 - GEA150
 ms.assetid: 1272bad0-4bd4-4796-8005-67d6fb3afc5a
 description: "Learn more about domains in Office 365 by finding answers to your questions in FAQ."
+ms.custom: okr_smb
 ---
 
 # Domains FAQ
