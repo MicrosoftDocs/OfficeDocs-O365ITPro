@@ -21,6 +21,7 @@ search.appverid:
 - BEA160
 ms.assetid: 734f4aab-df2d-4e9b-8cb1-691910bde216
 description: "Learn what payment options are available to pay for your Office 365 for business subscription."
+ms.custom: okr_smb
 ---
 
 # Pay for your Office 365 for business subscription

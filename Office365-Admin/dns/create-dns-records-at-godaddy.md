@@ -24,6 +24,7 @@ search.appverid:
 - MOE150
 ms.assetid: f40a9185-b6d5-4a80-bb31-aa3bb0cab48a
 description: "Learn to verify your domain and set up DNS records for email, Skype for Business Online, and other services at GoDaddy for Office 365."
+ms.custom: okr_smb
 ---
 
 # Create DNS records at GoDaddy for Office 365
