@@ -36,7 +36,11 @@ And if you're interested in what's new in other admin centers:
 We are ramping up for some exciting feature releases at Ignite 2019, so we're only announcing a few new features that were released in September. But stay tuned for next month's article, it'll be published on the first day of Ignite!<br>
 
 ### Featured Feedback Fix - Delete user wizard is back!
-We heard your feedback loud and clear and we brought back the delete user wizard that lets you decide what to do with the deleted user's email aliases, delegated permissions, OneDrive files, and their email.
+We heard your feedback loud and clear and we brought back the delete user wizard that lets you decide what to do with the data:
+- Email: Give someone else access to the deleted user's mailbox by converting it to a shared mailbox.
+- OneDrive: Save their OneDrive files and give someone else access.
+- Permissions: Remove permissions if others had access to this mailbox.
+- Email aliases: Remove email aliases so they are available to use for another user right away.
 ![Screen capture: Delete user wizard with email aliases, permissions, OneDrive, and email options displayed](media/WhatsNew-DeleteUserWiz.png)
 
 ### SharePoint admin center URL change
