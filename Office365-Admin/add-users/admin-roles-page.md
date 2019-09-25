@@ -37,7 +37,7 @@ On the Roles page, you can give users permissions to do tasks in the admin cente
 |:-----|:-----|
 |  <br/> |Use **Export admin list** to get a full list of all the admin users in your organization. The list is stored in an Excel .csv file.   <br/> |
 |  <br/> |Use **Search** to search for an admin role and see your users who are assigned to that role.   <br/> |
-|  <br/> |Use **Filter** to change the view of displayed admin roles.   <br/> |
+|  <br/> |Use **Filter** to change your view of displayed admin roles.   <br/> |
 
 ## Get the most out of the admin roles
 
