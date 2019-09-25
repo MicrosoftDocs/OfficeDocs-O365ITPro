@@ -22,6 +22,7 @@ search.appverid:
 - MBS150
 - BEA160
 ms.assetid: ea7bf1b2-1c2f-477f-a813-313e3ce0d896
+ms.custom: okr_smb
 ---
 
 # Subscriptions and billing - Admin Help
