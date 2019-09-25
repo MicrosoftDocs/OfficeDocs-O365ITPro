@@ -49,7 +49,7 @@ NOTE: SRV Records are currently NOT available under all easyDNS service packages
     
 8. Now that you've added the record at your domain registrar's site, you'll go back to Office 365 and request Office 365 to look for the record.
     
-9. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+9. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
 10. On the **Domains** page, select the domain that you are verifying. 
     

@@ -104,7 +104,7 @@ Please note that a *Whois* query will show an Office 365 purchased domain regist
   
 Follow the steps below to get the code at Office 365, and then go to the other domain registrar's website to set up transferring your domain name to that registrar.
   
-1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
     
@@ -134,7 +134,7 @@ Follow the steps below to get the code at Office 365, and then go to the other d
     
 3. Follow a link to go to the domains setup wizard:
     
-4. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+4. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
     
@@ -151,7 +151,7 @@ Follow the steps below to get the code at Office 365, and then go to the other d
 
 ### Change DNS management to Office 365
   
-1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
     
@@ -219,7 +219,7 @@ Providers that support all required DNS records:
 
 You must have at least one custom domain that you've added to Office 365 before you can choose a default domain.
   
-1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
     
@@ -343,7 +343,7 @@ You can, but there are limitations:
     
     1. Sign in to Office 365 with your work or school account.
         
-    2. Go to **Setup** \> **Domains**. 
+    2. Go to **Settings** \> **Domains**. 
     
 2. Verify that you own the domain you want to use
     
