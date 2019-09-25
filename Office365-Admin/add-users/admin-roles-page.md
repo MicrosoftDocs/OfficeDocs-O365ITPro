@@ -56,3 +56,13 @@ This isn’t an exhaustive list of all the permissions that these roles have. Se
 - **Teams service admin** - Assign the Teams admin role to users who you want to access and manage the Teams & Skype admin center. Users with the Teams admin role can also manage Office 365 groups and open service requests through Microsoft support. [Learn more](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles)
 - **User admin** - Assign the user admin role to users who you want to access and manage user password resets and manage Office 365 users and groups. They can also open and manage service requests to Microsoft support. [Learn more](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles#roles-available-in-the-microsoft-365-admin-center)
 - **Global reader** - Assign the global reader admin role to user's who need to view admin features and settings in all admin centers that the global admin can view. The global reader admin role can't edit any settings. [Learn more](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles#roles-available-in-the-microsoft-365-admin-center)
+
+## Compare roles
+
+You can now compare permissions for up to 3 roles at a time so you can find the least permissive role to assign.
+
+![Admin role list](../../images/Admin-list-smb-scenario.png)
+
+In the new admin center:
+
+- Select up to 3 roles and choose **Compare roles** to see the permissions each role has.
