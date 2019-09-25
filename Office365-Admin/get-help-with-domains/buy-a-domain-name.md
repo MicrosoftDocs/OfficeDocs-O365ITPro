@@ -28,6 +28,7 @@ search.appverid:
 - GEA150
 ms.assetid: 1561140a-16a9-4a02-822d-a989250e479d
 description: "Learn how to buy a domain name in Office 365."
+ms.custom: okr_smb
 ---
 
 # Buy a domain name in Office 365
