@@ -2,7 +2,7 @@
 title: "What's new in the Microsoft 365 admin center?"
 ms.author: anfowler
 author: adefowler
-manager: mnirkhe
+manager: shohara
 audience: Admin
 ms.topic: overview
 ms.service: o365-administration
@@ -35,19 +35,14 @@ And if you're interested in what's new in other admin centers:
 ## September
 We are ramping up for some exciting feature releases at Ignite 2019, so we're only announcing a few new features that were released in September. But stay tuned for next month's article, it'll be published on the first day of Ignite!<br>
 
-### Featured Feedback Fix - Delete user wizard is back!
-We heard your feedback loud and clear and we brought back the delete user wizard that lets you decide what to do with the data:
+### Featured Feedback Fix – The option to convert the deleted user’s mailbox to a shared mailbox is back!
+We heard your feedback loud and clear and we brought back the ability to give someone else access to a deleted user’s mailbox by converting it to a shared mailbox. Adding this back to the delete user wizard lets you decide what to do with the data:
+
 - Email: Give someone else access to the deleted user's mailbox by converting it to a shared mailbox.
-- OneDrive: Save their OneDrive files and give someone else access.
+- Files: Save their OneDrive files and give someone else access.
 - Permissions: Remove permissions if others had access to this mailbox.
-- Email aliases: Remove email aliases so they are available to use for another user right away.
+- Aliases: Remove email aliases so they are available to use for another user right away.
 ![Screen capture: Delete user wizard with email aliases, permissions, OneDrive, and email options displayed](media/WhatsNew-DeleteUserWiz.png)
-
-### SharePoint admin center URL change
-Technically, this isn't a change to the Microsoft 365 admin center, but we're so excited about this change that we want you to know about it here too! <br><br> 
-
-> [!IMPORTANT]
-> You can now get to the SharePoint admin site with this URL: [https://admin.microsoft.com/sharepoint](https://admin.microsoft.com/sharepoint). <br><br>You don't have to have your organization's name in the URL anymore!!!
 
 ### Initial setup
 There's been an update to another of our initial setup wizards: Microsoft 365 for business. The steps have been streamlined and we've moved two of the set up tasks into the Setup page:
