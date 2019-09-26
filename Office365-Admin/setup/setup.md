@@ -297,7 +297,7 @@ More at [Upload files to a library](https://support.office.com/article/da549fb1-
 
 To take a tour of Office 365 and learn how to use all the Office mobile apps, see [Get started](../admin-overview/get-started-with-office-365.md).
   
-## Education]
+## Education
   
  *These steps are for schools that want to start with the **[Office 365 Education plan](https://go.microsoft.com/fwlink/p/?LinkId=717778)** that's set up with the default features. * 
 ### Get ready for Office 365
