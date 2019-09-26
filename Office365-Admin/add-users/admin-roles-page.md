@@ -43,7 +43,7 @@ You can export the admin list as well as search and filter by role.
 |  <br/> |Use **Search** to search for an admin role and see your users who are assigned to that role.   <br/> |
 |  <br/> |Use **Filter** to change your view of displayed admin roles.   <br/> |
 
-## Get the most out of the admin roles
+## Get the most out of the roles
 
 Read the content below to learn about the different roles and what tasks the roles can perform in your organization.
 
