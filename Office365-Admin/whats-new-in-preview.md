@@ -32,7 +32,7 @@ And if you're interested in what's new in other admin centers:
 - [What's new in the Microsoft 365 compliance center ](https://docs.microsoft.com/Office365/SecurityCompliance/whats-new)
 - [What's new in the SharePoint admin center](https://docs.microsoft.com/sharepoint/what-s-new-in-admin-center)
 
-## September
+## September 2019
 We are ramping up for some exciting feature releases at Ignite 2019, so we're only announcing a few new features that were released in September. But stay tuned for next month's article, it'll be published on the first day of Ignite!<br>
 
 ### Featured Feedback Fix – The option to convert the deleted user’s mailbox to a shared mailbox is back!
