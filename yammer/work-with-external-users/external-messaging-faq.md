@@ -1,7 +1,7 @@
 ---
 title: "External messaging FAQ - Yammer"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 3/15/19
 audience: Admin
