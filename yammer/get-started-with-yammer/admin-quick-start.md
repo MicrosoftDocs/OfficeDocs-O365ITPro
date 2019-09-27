@@ -1,7 +1,7 @@
 ---
 title: "Yammer admin quick start"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 3/23/2018
 audience: Admin
