@@ -86,9 +86,9 @@ Admins in the roles listed above do not need to be members of this group: they r
     
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
 
-2. Select **Add a group**, and then in the **Type** list, choose **Security**. Remember the name of the group! You'll need it later.
+2. Choose **Security** as the group type. Remember the name of the group! You'll need it later.
   
-2. Add people or other security groups who you want to be able to create Groups in your org.
+2. Finish setting up the security group, adding people or other security groups who you want to be able to create Groups in your org.
     
 For detailed instructions, see [Create, edit, or delete a security group in the Microsoft 365 admin center](../email/create-edit-or-delete-a-security-group.md).
   

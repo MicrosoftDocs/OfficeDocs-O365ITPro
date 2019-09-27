@@ -86,7 +86,7 @@ ms.custom: okr_smb
 
 ::: moniker-end
     
-2. Go to the **Setup** > **Domains** page. 
+2. Go to the **Settings** > **Domains** page. 
 
 3. Select **Add domain**.
     

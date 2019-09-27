@@ -77,14 +77,14 @@ Follow the steps below.
 Now that you've added the record at your domain registrar's site, you'll go back to Office 365 and request Office 365 to look for the record.
 
 When Office 365 finds the correct TXT record, your domain is verified.
+  
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 
-1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
-
-
-2. On the **Domains** page, select the domain that you are verifying.
-
-
-
+    
+2. On the **Domains** page, select the domain that you are verifying. 
+    
+    
+  
 3. On the **Setup** page, select **Start setup**.
 
 
