@@ -26,6 +26,7 @@ search.appverid:
 - GEA150
 ms.assetid: 36081d8d-b3fa-4948-8c34-e217bba825e1
 description: "Learn how to add more licenses to your Office 365 for business subscription."
+ms.custom: okr_SMB
 ---
 <!-- Clone: AgentUniversity\admin\Buy-licenses.md -->
 

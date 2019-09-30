@@ -50,17 +50,15 @@ While users can create an Office 365 group from Outlook or other apps, as an adm
 
 2. Select **Add a group**.
   
-3. Under **Type**, choose **Office 365**.
-    
-    ![Create a new Office 365 Group, a new distribution list, or a new security group](../media/a50b372c-feab-4ac5-90c3-e7fcb1ff649a.png)
+3. On the **Choose a group type** page, select **Office 365**, and select **Next**.
 
-4. Type a name for the group.
+4. On the **Basics** page, type a name for the group, and, optionally, a description. Select **Next**.
     
-5. Type a unique email address for the group.
+5. On the **Edit settings** page, type a unique email address for the group, choose a privacy option and whether you want to add Microsoft Teams, and then select**Next**.
     
-6. Select **Select Owner**, and then choose the name of the person who will be designated to manage the group. Anyone who is a group owner will be able to delete email from the Group inbox. Other members won't be able to delete email from the Group inbox. 
+6. On the **Owners** choose the name of one or more people who will be designated to manage the group. Anyone who is a group owner will be able to delete email from the Group inbox. Other members won't be able to delete email from the Group inbox. Select **Next**.
     
-7. Select **Add**.
+7. After reviewing your settings and making any changes, select **Create group**.
 
 8. Select **Close**.
     
