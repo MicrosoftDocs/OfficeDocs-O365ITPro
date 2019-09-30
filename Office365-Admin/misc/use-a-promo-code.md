@@ -23,6 +23,7 @@ search.appverid:
 - BEA160
 ms.assetid: fce1510d-9ea5-4aff-8752-1676ec7fede3
 description: "Learn how to apply a promotional code to your Office 365 subscription to reduce price, and how to troubleshoot promo code in case of an error."
+ms.custom: okr_SMB
 ---
 
 # Use your Office 365 promo code to reduce price

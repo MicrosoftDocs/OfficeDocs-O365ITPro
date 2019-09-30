@@ -23,7 +23,6 @@ description: "Learn to add email signature, legal disclaimer, or disclosure stat
 
  You can add an email signature, legal disclaimer, or disclosure statement to the email messages that enter or leave your organization. You can set it up to apply to all incoming and outgoing messages as shown below. Or you can apply it to certain messages like those containing specific words or text patterns.
   
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/4b6fc71a-ed01-434f-ac08-92c4a0b2b982?autoplay=false]
   
 ## Create a signature that applies to all messages
 
