@@ -29,6 +29,7 @@ search.appverid:
 - MOW150
 ms.assetid: a3e3bddb-582e-4133-8670-e61b9f58627e
 description: "Learn to import contacts, calendars, emails  from Gmail or another email provider to Office 365. "
+ms.custom: okr_smb
 ---
 
 # Migrate email and contacts to Office 365

@@ -25,6 +25,7 @@ search.appverid:
 ms.assetid: 88d337ab-e7b1-43eb-a25e-7d6204e91099
 ROBOTS: NOINDEX
 description: "Learn how to resolve the issues that you face when you enter your product key for Office 365 for business. "
+ms.custom: okr_SMB
 ---
 
 # Problems with your Office 365 for business product key?
