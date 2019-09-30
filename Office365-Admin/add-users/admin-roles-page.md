@@ -35,7 +35,7 @@ On the Roles page, you can give users permissions to do tasks in the admin cente
 
 You can export the admin list as well as search and filter by role.
 
-:::image type="content" source="../../images/admin-role-page-options.png" alt-text="Filter or improt admin roles.":::
+:::image type="content" source="../../images/admin-role-page-options.png" alt-text="Filter or import admin roles.":::
 
 |||
 |:-----|:-----|
@@ -90,4 +90,4 @@ In the new admin center:
 
 - Select up to 3 roles and choose **Compare roles** to see the permissions each role has.
 
-![compare-roles-list.png](../../images/compare-roles-list.png)
+:::image type="content" source="../../images/compare-roles-list.png" alt-text="A figure that shows comparing admin roles":::
