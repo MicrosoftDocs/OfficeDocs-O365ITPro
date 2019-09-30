@@ -38,7 +38,7 @@ We are ramping up for some exciting feature releases at Ignite 2019, so we're on
 
 ### Featured Feedback Fix – The option to convert the deleted user’s mailbox to a shared mailbox is back!
 
-We heard your feedback loud and clear and we brought back the ability to give someone else access to a deleted user’s mailbox by converting it to a shared mailbox. Adding this back to the delete user wizard lets you decide what to do with the data:
+We heard your feedback loud and clear and we brought back the ability to give someone else access to a deleted user’s mailbox by converting it to a **shared mailbox**. Adding this back to the delete user wizard lets you decide what to do with the data:
 
 - Email: Give someone else access to the deleted user's mailbox by converting it to a shared mailbox.
 - Files: Save their OneDrive files and give someone else access.
