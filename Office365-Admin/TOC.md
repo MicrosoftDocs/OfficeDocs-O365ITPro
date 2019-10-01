@@ -9,6 +9,7 @@
 ### [Admin Mobile App](admin-overview/admin-mobile-app.md)
 ## Setup
 ### [Set up Office 365](setup/setup.md)
+### [Difference between setup wizard and Setup page](o365-setup-wizard-and-setup-page.md)
 ### [Plan your setup](setup/plan-your-setup.md)
 ### [Add domain](setup/add-domain.md)
 ### [Domains FAQ](setup/domains-faq.md)

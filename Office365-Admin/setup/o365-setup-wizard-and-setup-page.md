@@ -1,5 +1,5 @@
 ---
-title: "Differences between the Office 365 setup wizard and the Setup page"
+title: "Difference between the Office 365 setup wizard and the Setup page"
 ms.author: v-sharos
 author: shars
 manager: mnirkhe
@@ -19,7 +19,7 @@ search.appverid:
 description: "Learn the difference between the Office 365 setup wizard and the Setup page."
 ---
 
-# Differences between the Office 365 setup wizard and the Setup page
+# Difference between the Office 365 setup wizard and the Setup page
 
 Office 365 provides two setup experiences: 
 
