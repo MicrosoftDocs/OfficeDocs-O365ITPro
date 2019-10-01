@@ -30,7 +30,7 @@ The setup wizard provides a guided walkthrough for setting up the basic Office 3
 
 ## Use the setup wizard to complete initial setup tasks
 
-To set up your account, go to the [admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339), and then select **Setup** > **Guided setup**.
+To set up your account, go to the [admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339), select **Setup** in the left navigation pane, and then select **Guided setup** on the Setup page.
 
 ![Start the Office 365 Business setup wizard](../media/o365b-guided-setup.png)
 
@@ -46,7 +46,7 @@ The setup wizard guides you through the following steps:
 
 ## Use the Setup page to complete and manage your configuration 
 
-To access the Setup page in the admin center, select **Setup** in the navigation pane. Based on products you’ve purchased, features you’ve configured, and your admin role, tasks, and related information from across Office 365 are surfaced here.
+To access the Setup page in the [admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339), select **Setup** in the navigation pane. Based on products you’ve purchased, features you’ve configured, and your admin role, tasks, and related information from across Office 365 are surfaced here.
 
 You’ll see the complete list of setup tasks arranged in logical categories, including those that you completed in the setup wizard.
 
