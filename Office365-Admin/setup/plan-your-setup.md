@@ -40,43 +40,12 @@ When you're ready to run the Office 365 setup wizard and move your domain to Off
 
 ## What happens when you run the Office 365 setup wizard
 
-Here are the steps you'll complete when you create your account and run the setup wizard:
+The setup wizard walks you through installing the Office 365 apps on your computer, adding and verifying your domain, adding users and assigning licenses to them, and connecting your domain.
+
+> [!NOTE]
+> If you need to [Assign admin roles in Office 365 for business](../add-users/assign-admin-roles.md) to the users you add in the wizard, you can do that later on the **Users** page. 
   
-1. Sign up for your subscription, and then click **Go to setup**.
-
-2. Download Office 365 and install it, then select **Continue**.
-
-    ![Install Office 365](../media/O365-setup-image1.png)
-
-3. Add your domain, such as contoso.com, or use the default "onmicrosoft.com" domain. Then, select **Use this domain**.
-
-    ![Install Office 365](../media/O365-setup-image2.png)
-
-    When you signed up for Office 365, you got a user ID that includes an "onmicrosoft.com" domain. In this step, you can add your own domain so your user ID and email are personalized for your business, like rob@contoso.com. Domain setup can be confusing, but we'll guide you through it step by step. [What's a domain?](domains-faq.md)
-
-    ![Install Office 365](../media/O365-setup-image2a.png)
-
-4. If you entered a custom domain name, you'll need to verify your domain. In this step, the wizard gives you a code
-   &mdash;called a TXT record&mdash;that you enter at your domain registrar. If your registrar is GoDaddy, the wizard prompts you to login in at GoDaddy so Office 365 can enter the code for you! When you are done, select **Verify**.
-
-    ![Verify your domain](../media/O365-setup-image3.png)
-  
-5. Add your users. You can add users later, too; see [Add users individually or in bulk](../add-users/add-users.md). Select **Do this later** or **Continue**.
-
-    > [!NOTE]
-    > If you need to [Assign admin roles in Office 365 for business](../add-users/assign-admin-roles.md) to the users you add in the wizard, you can do that later on the **Users** page. 
-  
-    ![Add users](../media/O365-setup-image4.png)
-
-6. Connect your domain. On the **Activate records** page, click **Continue**.
-
-    ![Connect your domain](../media/O365-setup-image5.png)
-
-7. Congratulations! You're finished!
-
-    ![Setup is complete](../media/O365-setup-image6.png)
-
-Now you can go to the Microsoft 365 admin center, where you can migrate email and contacts from another email service, change the domain of your admin account, manage your billing information, add or remove users, reset passwords, and do other business functions.
+Now you can go to [admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339) > **Setup**, where you can migrate email and contacts from another email service, change the domain of your admin account, manage your billing information, add or remove users, reset passwords, and do other business functions. For more information about the differences between the setup wizard and The Setup page, see [Differences between the Office 365 setup wizard and the setup page](o365-setup-wizard-and-setup-page.md)
 
 If you get stuck at any point, call us. [We're here to help!](../contact-support-for-business-products.md)
   
@@ -92,19 +61,19 @@ There are a couple of scenarios that include either migrating data or users from
 
 ## Move to Office 365 all at once or in stages
 
-- **Do you want to move your business to Office 365 all at once?** If so, then plan to move your domain to Office 365 right away. Start by running the Office 365 setup wizard; it will prompt you to set up your domain. 
+- **Do you want to move your business to Office 365 all at once?** If so, then plan to move your domain to Office 365 right away. Start by running the Office 365 setup wizard; it will prompt you to set up your domain.
 
-- **Or do you want to move to Office 365 gradually?** If you want to move to Office 365 in stages, then skip running the Office 365 setup wizard and consider adopting Office 365 features in the following order: 
+- **Or do you want to move to Office 365 gradually?** If you want to move to Office 365 in stages, then skip running the Office 365 setup wizard and consider adopting Office 365 features in the following order:
 
 1. [Add your employees to Office 365](../add-users/add-users.md) so they can download and install the Office apps.
 
 2. [Download and install the Office apps](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx) to use Word, Excel, and PowerPoint on your computer and devices.
 
-3. [Install Skype for Business](https://support.office.com/article/8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx) to use for your meetings.
+3. [Set up Microsoft Teams](#plan-for-teams) to use for your meetings.
 
 4. [Move your content to Office 365 cloud storage](set-up-file-storage-and-sharing.md) (OneDrive or team sites).
 
-5. And, when you're ready, run the Office 365 setup wizard to [move your domain and email](add-domain.md).
+5. And, when you're ready, in the [admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339), select **Setup** in the left navigation pane, and use the Setup page to [move your domain and email](add-domain.md).
 
 ## Check that your devices meet system requirements
 
@@ -120,19 +89,19 @@ If you're planning to move from an existing email service to Office 365, it usua
   
 If you're going to use Office 365 for your email:
   
-- To move your business email address (such as *rob@contoso.com*) from another email service to Office 365, you need to direct your mail to be delivered to your new Office 365 mailbox. You do this using the Office 365 setup wizard, where we guide you through the updates you need to make at your domain host, step by step.
+- To move your business email address (such as *rob@contoso.com*) from another email service to Office 365, you need to direct your mail to be delivered to your new Office 365 mailbox. You do this by selecting **Migrate your users' data** on the Setup page, where we guide you through the updates you need to make at your domain host, step by step.
 
-- After you update your domain host, the changes typically take effect in just an hour or two. But be aware that it can sometimes take up to 72 hours for the changes update across the internet.
+- After you update your domain host, the changes typically take effect in just an hour or two. But be aware that it can sometimes take up to 72 hours for the changes to update across the internet.
 
 - Because you might have email downtime, we recommend you plan to switch to Office 365 email during an evening or weekend when you receive fewer emails.
 
 ### Plan to move your existing email, contacts, and calendar
   
-If you're going to use Office 365 for your email account, you can bring your existing email, contacts, and calendar with you. The Office 365 setup wizard helps you move your existing email and contacts for most scenarios. We also have step-by-step guides to move one or many mailboxes.
+If you're going to use Office 365 for your email account, you can bring your existing email, contacts, and calendar with you. The Office 365 setup page helps you move your existing email and contacts for most scenarios. We also have step-by-step guides to move one or many mailboxes.
   
 |**How many mailboxes?**|**Recommendation**|
 |:-----|:-----|
-|Just a few  <br/> |If you don't want to use the setup wizard to migrate the mailboxes, you can let mailbox owners migrate their own email and contacts. See [Migrate email and contacts to Office 365 for business](migrate-email-and-contacts-admin.md).  <br/> |
+|Just a few  <br/> |If you don't want to use the Setup page to migrate the mailboxes, you can let mailbox owners migrate their own email and contacts. See [Migrate email and contacts to Office 365 for business](migrate-email-and-contacts-admin.md).  <br/> |
 |Several  <br/> |If you are migrating from Gmail, see [Migrate G Suite mailboxes to Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrate-g-suite-mailboxes).  <br/> If you are migrating from another email provider, including Exchange, see [Ways to migrate multiple email accounts to Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/mailbox-migration).  <br/> |
 
 ## Plan for file storage and migration
