@@ -34,7 +34,7 @@ Use Microsoft 365 usage analytics within Power BI to gain insights on how your o
   
 Microsoft 365 usage analytics is a content pack that gives you access to a pre-built dashboard that provides a cross-product view of the last 12 months and contains a number of pre-built reports. Each report provides you with specific usage insights. User specific information is available for the last full calendar month.
   
-The [data model](usage-analytics-data-model.md) that powers the content pack includes user attributes that from Active Directory, enabling the ability to pivot in certain reports. The following Active Directory attributes are included: location, department and organization. 
+The [data model](usage-analytics-data-model.md) that powers the content pack includes user attributes from Active Directory, enabling the ability to pivot in certain reports. The following Active Directory attributes are included: location, department and organization. 
   
 See [Enable Microsoft 365 usage analytics](enable-usage-analytics.md) to start collecting data. 
   

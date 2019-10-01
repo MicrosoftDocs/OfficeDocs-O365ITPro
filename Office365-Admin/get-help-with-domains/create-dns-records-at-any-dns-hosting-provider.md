@@ -137,6 +137,7 @@ search.appverid:
 - GEA150
 ms.assetid: 7b7b075d-79f9-4e37-8a9e-fb60c1d95166
 description: "Learn to verify your domain and create DNS records at any DNS hosting provider for Office 365."
+ms.custom: okr_smb
 ---
 
 # Create DNS records at any DNS hosting provider for Office 365
@@ -198,7 +199,7 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
 2. On the **Domains** page, select the domain that you are verifying. 
   

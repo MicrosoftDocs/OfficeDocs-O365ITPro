@@ -80,10 +80,8 @@ Head over to [Manage messages in Message center](manage-messages.md) to get more
   
 ### Major updates
 
-Because **Major updates** are most impactful to your organization, they are highlighted at the top of the Message center as shown in this graphic: 
-  
-![Major updates section of the Messge Center.](../media/message-center-major-updates.png)
-  
+Major updates can be reviewed by selecting **High importance** at the top of the Message center.
+
 Major updates are communicated at least 30 days in advance when an action is required.
   
 Major updates are defined as:
@@ -108,9 +106,7 @@ Major updates are defined as:
     
 - Changes to where your data is stored
     
-When you open a major update post to read it, you'll see a new gray header that has information specific to this major update, including the current roll-out status. In the following image, the major update has started Targeted release, it applies to targeted release customers only, and there are at least 40 days remaining before the feature moves into general availability.
-  
-![Major update post opened for reading.](../media/8e1b4527-e68d-4937-9145-c42faf72e08a.png)
+When you open a major update post to read it, you'll see a the header "Major update," as well as the current roll-out status and a description of how it affects you.
   
 ### Set preferences
 

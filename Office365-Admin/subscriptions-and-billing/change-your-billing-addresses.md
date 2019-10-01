@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: a25c10d6-c1e9-4299-9185-25178df9eba6
 description: "Learn how to update your billing addresses for Office 365 for business. You can also update the email address used to receive billing notifications."
+ms.custom: okr_SMB
 ---
 
 # Change your billing addresses for Office 365 for business
@@ -72,7 +73,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 2. Select the credit card or bank account that you want to change.
 
-3. On the **Payment details** page, select **Edit payment details**.
+3. On the **Payment method details** page, select **Edit**.
 
 4. Update your billing address, then select **Save** \> **Done**.
 
@@ -140,7 +141,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Find the subscription you want to change. In the **Settings & actions** section, select **Edit service usage address**.
+2. Find the subscription you want to change. In the **Settings & Actions** section, select **Edit service usage address**.
 
 3. In the **Edit your service usage address** pane, update your address, then select **Save**.
 

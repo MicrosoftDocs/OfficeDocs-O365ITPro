@@ -23,6 +23,7 @@ search.appverid:
 - BEA160
 ms.assetid: 4e7b57d6-b93b-457d-aecd-0ea58bff07a6
 description: "Learn how to purchase an add-on to add additional functionality to your Office 365 for business subscription. You can also update and remove an add-on."
+ms.custom: okr_SMB
 ---
 
 # Buy or edit an add-on for Office 365 for business
