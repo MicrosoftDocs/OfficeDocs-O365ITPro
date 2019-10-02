@@ -20,9 +20,8 @@ description: "Learn how to sign up for Office 365 with your personal email addre
 
 # Signing up for Office 365 with a personal email address
 
-## When you skip adding a custom domain:
+## When you skip adding a custom domain
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1YjJ7?autoplay=false]
   
 When you sign up for Office 365 with your personal email address and skip adding [a custom domain](../get-help-with-domains/what-is-a-domain.md) for now, you limit your access to certain features. 
   

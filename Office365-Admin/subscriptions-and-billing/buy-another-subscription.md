@@ -23,6 +23,7 @@ search.appverid:
 - BEA160
 ms.assetid: fab3b86c-3359-4042-8692-5d4dc7550b7c
 description: "Learn how to buy another Office 365 for business subscription for your organization when you already have a subscription. "
+ms.custom: okr_SMB
 ---
 
 # Buy another Office 365 for business subscription

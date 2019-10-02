@@ -19,6 +19,7 @@ search.appverid:
 - MOE150
 ms.assetid: 0b0bd900-68b1-4bf5-808b-5d240a7739f4
 description: "Learn how you can have more than one email address, called email alias, associated with your Office 365 for business account. "
+ms.custom: okr_smb
 ---
 
 # Add another email alias for a user
@@ -36,7 +37,6 @@ A primary email address in Office 365 is usually the email address a user was as
   
 For example, let's say Jenna has the email address jenna@contosoco.com, but she also wants to receive email at jen@contosoco.com because some people refer to her by that name. You can create aliases for her so that both email addresses go to Jenna's inbox.
 <br><br>  
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/8fdd6503-e7e2-42d4-8a11-67f92dcaf1ce?autoplay=false]
   
 You can create up to 400 aliases for a user. No additional fees or licenses are required.
   

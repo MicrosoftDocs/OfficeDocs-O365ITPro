@@ -28,6 +28,7 @@ search.appverid:
 - BEA160
 ms.assetid: 6a3a29a0-e616-4713-99d1-15eda62d04fa
 description: "Learn how to set up your Office 365 Business Premium, Office 365 Business Essentials, Office 365 Business, or Office 365 Education subscription."
+ms.custom: okr_smb
 ---
 
 # Set up Office 365 for business
