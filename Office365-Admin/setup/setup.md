@@ -49,9 +49,9 @@ Not a business? See [Set up for Office 365 Home or Office 365 Personal](https://
     
 3. Follow the steps to sign up for an Office 365 business plan. 
 
-    When the signup process is complete, you'll be directed to the admin center, where you'll follow a wizard to install Office apps, add your domain, add users, and assign licenses.
+    When the signup process is complete, you'll be directed to the admin center, where you'll follow a wizard to install Office apps, add your domain, add users, and assign licenses. After you complete the initial setup, you can go to the **Setup** page in the admin center to finish setting up and configuring the services that come with your subscriptions.
 
-    For more information about the Office 365 setup wizard and what to expect during the initial setup process, see [Plan your setup of Office 365 for business](plan-your-setup.md).
+    For more information about the Office 365 setup wizard the admin center Setup page, see [Difference between the Office 365 setup wizard and the Setup page](o365-setup-wizard-and-setup-page.md).
 
   
 ### 2. Set up Outlook for email
