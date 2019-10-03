@@ -79,7 +79,7 @@ If the subscription was purchased and activated using a 25-character product key
   
 ### You bought your subscription through a partner
 
-If the subscription was purchased via a partner, you'll see the Volume Licensing Service Center (VLSC) link. If your licenses were purchased via a partner then you can't remove user licenses because they have already been prepaid. 
+If your subscription was purchased through a CSP or partner, you can’t remove licenses. Contact your CSP or use the Volume Licensing Service Center (VLSC) link to contact your partner for help.
   
 ## What you need to know about removing licenses from users in Office 365 for business
 
