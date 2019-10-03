@@ -19,6 +19,7 @@ search.appverid:
 ms.assetid: 9b23c065-eef9-4bf7-acf5-127eb46d5e67
 ROBOTS: NOINDEX
 description: "Understand what you need to know before you go through the sign up process for Office 365. "
+ms.custom: okr_SMB
 ---
 
 # How to sign up for Office 365 - Admin Help
