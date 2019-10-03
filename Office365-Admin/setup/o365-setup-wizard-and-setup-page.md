@@ -46,7 +46,7 @@ The setup wizard guides you through the following steps:
 
 4. Connect your domain.
 
-## Use the Setup page to complete and manage your configuration 
+## Use the Setup page to complete and manage your configuration
 
 To access the Setup page in the [admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339), select **Setup** in the navigation pane. Based on products you’ve purchased, features you’ve configured, and your admin role, tasks, and related information from across Office 365 are surfaced here.
 
@@ -54,15 +54,12 @@ You’ll see the complete list of setup tasks arranged in logical categories, in
 
 ![Office 365 for Business Setup page](../media/o365b-setup-page.png)
 
-Choose **View** for any task to get at-a-glance information, such as task description, user impact, prerequisites, effort to implement, and security and adoption statistics to help you understand consequences and impact before proceeding. The task page shows the status of the task (**Started**, **Not started yet**, or **Completed**). If you're multi-tasking, working on tasks over several days, or if there are multiple admins working on tasks, you can track completion by seeing at a glance which tasks have been completed and which ones still require attention. You’ll also see **Learn more** links for access to comprehensive articles about the settings you’re configuring. The collection of tasks is always here, so you can return to the Setup page at any time to explore resources further.
+Choose **View** for any task to get at-a-glance information, such as task description, user impact, prerequisites, effort to implement, and security and adoption statistics to help you understand consequences and impact before proceeding.
+
+You'll also see the status of the task (**Started**, **Not started yet**, or **Completed**). If you're multi-tasking, working on tasks over several days, or if there are multiple admins working on tasks, you can track completion by seeing at a glance which tasks have been completed and which ones still require attention. 
+
+For access to comprehensive articles about the settings you're configuring, select any of the **Learn more** links. The collection of tasks is always here, so you can return to the Setup page at any time to explore resources further.
+
+When you're ready to complete a task, select **Get started** to walk through the configuration process. Once you complete a task, the **Get started** button changes to a **Manage** button, allowing you to manage the task, as needed.
 
 ![Task view showing at-a-glance information](../media/o365b-at-a-glance.png)
-
-> [!Note]
-> Advanced threat protection requires an add-on service. You can get a free trial of the service by clicking **View** > **Try Office 365 ATP**.
-
-When you're ready to complete a task, select **View** > **Get started** to walk through the configuration process.
-
-You can also manage completed tasks from the Setup page. Click **View** to bring up the task details, and then click **Manage**.
-
-![Manage a completed task](../media/o365b-manage-feature.png)
