@@ -48,7 +48,7 @@ If your Office 365 or Microsoft 365 Business support phone number isn't listed a
 
 [!INCLUDE [country-region-support-dropdown-list](includes/country-region-support-dropdown-list.md)]
 
-To learn how to open a service request, select the **Online support** tab.
+To learn how to open a service request, select the **Online support** tab above.
 
 ## [Online support](#tab/online)
 
