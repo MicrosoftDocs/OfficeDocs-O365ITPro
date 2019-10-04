@@ -2,9 +2,9 @@
 title: Yammer
 description: Learn how to manage a Yammer network for your organization.
 services: yammer-admin
-ms.author: v-irpast
-author: IrenePasternack
-manager: jhendr
+ms.author: v-teflor
+author: TeresaFG-writer
+manager: pamgreen
 layout: LandingPage
 ms.assetid: 
 ms.service: yammer
