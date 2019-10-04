@@ -1,12 +1,12 @@
-﻿---
+---
 title: You can't migrate a Yammer network across Office 365 tenants
 description: Describes an issue in which you can't migrate a Yammer network across Office 365 tenants.
-author: simonxjx
-manager: willchen
+author: TeresaFG-writer
+manager: pamgreen
 audience: ITPro
 ms.service: sharepoint-online
 ms.topic: article
-ms.author: v-six
+ms.author: v-teflor
 ---
 
 # Cannot migrate a Yammer network across Office 365 tenants
