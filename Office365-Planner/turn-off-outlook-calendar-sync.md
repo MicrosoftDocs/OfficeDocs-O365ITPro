@@ -1,5 +1,5 @@
 ---
-title: "urn off Outlook calendar sync in Planner for your organization"
+title: "Turn off Outlook calendar sync in Planner for your organization"
 ms.author: efrene
 author: efrene
 manager: pamgreen
