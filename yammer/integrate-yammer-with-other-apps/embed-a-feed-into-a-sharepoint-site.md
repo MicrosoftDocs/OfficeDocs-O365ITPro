@@ -1,7 +1,7 @@
 ---
 title: "Include a Yammer feed in a SharePoint page"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 6/24/2019
 audience: Admin

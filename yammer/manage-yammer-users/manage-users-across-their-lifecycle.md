@@ -1,7 +1,7 @@
 ---
 title: "Manage Yammer users across their lifecycle from Office 365"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 7/22/2019
 audience: Admin
