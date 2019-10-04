@@ -1,7 +1,7 @@
 ---
 title: "Yammer file storage overview"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 6/5/2019
 audience: Admin

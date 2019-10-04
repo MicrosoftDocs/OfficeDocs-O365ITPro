@@ -1,12 +1,12 @@
 ---
 title: Sorry, but we're having trouble signing you in when you click the Yammer tile in Office 365
 description: Describes an issue in which you receive "Sorry, but we're having trouble signing you in" error when you click the Yammer tile in Office 365.
-author: simonxjx
-manager: willchen
+author: TeresaFG-writer
+manager: pamgreen
 audience: ITPro
 ms.service: sharepoint-online
 ms.topic: article
-ms.author: v-six
+ms.author: v-teflor
 ---
 
 # "Sorry, but we're having trouble signing you in" error when you click the Yammer tile in Office 365
