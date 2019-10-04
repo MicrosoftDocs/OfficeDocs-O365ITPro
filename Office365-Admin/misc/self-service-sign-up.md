@@ -20,6 +20,7 @@ search.appverid:
 - BEA160
 ms.assetid: 4f8712ff-9346-4c6c-bb63-a21ad7a62cbd
 description: "Learn about the Office 365 self-service sign up and available self-service programs such as Microsoft Power Apps, Microsoft Flow, and Dynamics 365 for Financials."
+ms.custom: okr_SMB
 ---
 
 # Using self-service sign up in your organization

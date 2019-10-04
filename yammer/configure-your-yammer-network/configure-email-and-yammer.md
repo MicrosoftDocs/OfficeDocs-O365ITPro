@@ -1,7 +1,7 @@
 ---
 title: "Configure email and Yammer"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 3/16/2018
 audience: Admin
