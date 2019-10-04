@@ -102,7 +102,7 @@ For more information, see [How does Office 365 manage my DNS records?](../setup/
 
 ### Save your data
 
-When the cancellation becomes effective, your users lose access to their dat. Before you cancel the subscription, have them save their OneDrive for Business or SharePoint Online files to another location. Any customer data that you leave behind might be deleted after 90 days, and is deleted no later than 180 days after cancellation.
+When the cancellation becomes effective, your users lose access to their dat. Before you cancel the subscription, have them save their OneDrive for Business or SharePoint Online files to another location. Any customer data that you leave behind might be deleted after 30 days, and is deleted no later than 180 days after cancellation.
 
 - To move email, contacts, tasks, and calendar information to another account, see [Export or backup email, contacts, and calendar to an Outlook .pst file](https://support.office.com/article/14252b52-3075-4e9b-be4e-ff9ef1068f91.aspx).
 
