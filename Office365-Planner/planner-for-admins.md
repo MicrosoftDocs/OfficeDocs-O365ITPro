@@ -3,8 +3,9 @@ title: "Microsoft Planner for admins"
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 8/14/2019
+ms.date: 08/14/2019
 audience: Admin
+ms.topic: Overview
 layout: LandingPage
 ms.service: o365-administration
 localization_priority: Priority
