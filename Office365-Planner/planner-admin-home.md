@@ -3,7 +3,7 @@ title: "Planner admin home"
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 8/14/2019
+ms.date: 08/14/2019
 audience: Admin
 ms.topic: landing-page
 layout: LandingPage
