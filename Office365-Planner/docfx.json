@@ -48,6 +48,7 @@
       "feedback_product_url": "https://planner.uservoice.com"
     },
     "fileMetadata": {},
+    "titleSuffix": "Microsoft Planner",
     "template": [],
     "dest": "OfficeDocs-O365Planner",
     "markdownEngineName": "markdig"
