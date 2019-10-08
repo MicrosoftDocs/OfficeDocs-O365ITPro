@@ -3,8 +3,9 @@ title: "Microsoft Planner for admins"
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 8/14/2019
+ms.date: 08/14/2019
 audience: Admin
+ms.topic: Overview
 layout: LandingPage
 ms.service: o365-administration
 localization_priority: Priority
@@ -20,7 +21,7 @@ In this article:
 - [How do I change the domain that Planner email notifications come from?](#how-do-i-change-the-domain-that-planner-email-notifications-come-from)
 - [Can people outside of my organization get invited to participate in a plan?](#can-people-outside-of-my-organization-get-invited-to-participate-in-a-plan)
 - [Can people in my organization use Planner if they don't have an Exchange Online mailbox?](#can-people-in-my-organization-use-planner-if-they-dont-have-an-exchange-online-mailbox)
-- [How do I make sure all my users can get emails forPlanner?](#how-do-i-make-sure-all-my-users-can-get-emails-forplanner) 
+- [How do I make sure all my users can get emails for Planner?](#how-do-i-make-sure-all-my-users-can-get-emails-forplanner) 
 - [How do I turn off Outlook calendar sync in Planner for my organization?](#how-do-i-turn-off-outlook-calendar-sync-in-planner-for-my-organization)
 - [How do I install or activate Planner for my organization?](#how-do-i-install-or-activate-planner-for-my-organization)
 - [Can I see who is already using Planner, or see a list of all the Planner sites?](#can-i-see-who-is-already-using-planner-or-see-a-list-of-all-the-planner-sites)

@@ -1,7 +1,7 @@
 ---
 title: "Manage Yammer data compliance"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 5/29/2018
 audience: Admin
