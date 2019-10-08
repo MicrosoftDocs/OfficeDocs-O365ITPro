@@ -2,7 +2,7 @@
 title: "About admin roles in the Microsoft 365 admin center"
 ms.author: kwekua
 author: kwekua
-manager: shohara
+manager: scotv
 audience: Admin
 ms.topic: overview
 f1_keywords:
