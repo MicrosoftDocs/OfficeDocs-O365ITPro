@@ -32,24 +32,6 @@ feedback_system: None
 
 ::: moniker range="o365-worldwide"
 
-## [Phone support ](#tab/phone)
-
-Billing support is provided in English from 9 AM-5 PM (9 AM-6 PM in Australia), Monday-Friday.  <br/>Technical support is provided in English 24 hours a day, 7 days a week. <br/> Admins, have your account details ready when you call.<br/>
-
-- **In the United States, call 1 800 865 9408.**
-
-- **In Australia, call 1 800 197 503.**
-
-- **In Canada, call 1 800 865 9408.**
-
-- **In the United Kingdom, call 0800 032 6417.**
-
-If your Office 365 or Microsoft 365 Business support phone number isn't listed above, use the drop-down menu below to choose your country or region.
-
-[!INCLUDE [country-region-support-dropdown-list](includes/country-region-support-dropdown-list.md)]
-
-To learn how to open a service request, select the **Online support** tab above.
-
 ## [Online support](#tab/online)
 
 Save time by starting your service request online. We'll help you find a solution or connect you to an expert who will contact you by email or phone. [Learn about initial support response times](https://go.microsoft.com/fwlink/p/?LinkId=518251).
@@ -77,6 +59,24 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 3. In the **Need help?** pane, tell us what you need help with, then select **Get help**.
 
 4. If the results don't help, select **New service request by phone**. Confirm your contact number, and then select **Call me**. The expected wait time for a call back is indicated in the **Need help?** pane.
+
+## [Phone support ](#tab/phone)
+
+Billing support is provided in English from 9 AM-5 PM (9 AM-6 PM in Australia), Monday-Friday.  <br/>Technical support is provided in English 24 hours a day, 7 days a week. <br/> Admins, have your account details ready when you call.<br/>
+
+- **In the United States, call 1 800 865 9408.**
+
+- **In Australia, call 1 800 197 503.**
+
+- **In Canada, call 1 800 865 9408.**
+
+- **In the United Kingdom, call 0800 032 6417.**
+
+If your Office 365 or Microsoft 365 Business support phone number isn't listed above, use the drop-down menu below to choose your country or region.
+
+[!INCLUDE [country-region-support-dropdown-list](includes/country-region-support-dropdown-list.md)]
+
+To learn how to open a service request, select the **Online support** tab above.
 
 ## [In-store support](#tab/instore)
 
