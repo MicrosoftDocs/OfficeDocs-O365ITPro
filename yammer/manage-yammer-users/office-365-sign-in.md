@@ -66,7 +66,7 @@ By default, when users select **Conversations** in SharePoint, they see their th
     
 2. Click **Settings**.
 
-3. Click on **classic settings page**.
+3. Choose **Classic settings page**.
     
 4. Under **Enterprise Social Collaboration**, choose **Use Yammer.com service**.
     
