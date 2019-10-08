@@ -36,4 +36,4 @@ In the MileIQ admin center at [https://admin.mileiq.com](https://admin.mileiq.co
 >
 > - Changes you make to your organization's custom rate apply to all drives for the year. For example, if you make a change in 2019, the custom rate applies to your organization's drives for 2019. Drives made in past years are not affected.
 >
-> - This feature is only available for US based organizations and users. For UK and Canada organizations, please do not adjust the custom rate.
+> - This feature is available for US, UK, and Canada organizations. If rates are not defined, rates will default to the country’s current mileage rate.
