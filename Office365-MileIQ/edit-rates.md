@@ -28,19 +28,17 @@ This feature is available for organizations in the US, UK, and Canada. The rate 
 
 ## Set the mileage rate
 
-1. Sign in to the [MileIQ admin center](https://admin.mileiq.com/login) with your work account. 
+1. Sign in to the [MileIQ admin center](https://admin.mileiq.com/login) with your work account, and select **Settings** > **Rates**.
 
-2. Select **Settings** on the left pane.
-
-3. If you need to change the country, select **Change**.
+2. If you need to change the country, select **Change**.
 
 insert art
 
-4. Select a country, and then select **Save**. The change in country applies to all users you've added in the MileIQ admin center.
+3. Select a country, and then select **Save**. The change in country applies to all users you've added in the MileIQ admin center.
 
 insert art
 
-5. On the **Rates** page, enter a mileage rate for your organization. This rate applies to all users you've added in the MileQ admin center. Select **Save**.
+4. On the **Rates** page, enter a mileage rate for your organization. This rate applies to all users you've added in the MileQ admin center. Select **Save**.
 
     - UK Rates page
 insert art
