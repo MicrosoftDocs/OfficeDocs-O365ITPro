@@ -30,22 +30,21 @@ This feature is available for organizations in the US, UK, and Canada. The rate 
 
 1. Sign in to the [MileIQ admin center](https://admin.mileiq.com/login) with your work account, and select **Settings** > **Rates**.
 
-2. If you need to change the country, select **Change**.
+2. If you need to change the country, select **Change**. (The following image shows the Rates page for the US.)
 
-insert art
+    ![US Rates page](media/mileiq-edit-rates-image1.png)
 
 3. Select a country, and then select **Save**. The change in country applies to all users you've added in the MileIQ admin center.
 
-insert art
+    ![Change country](media/mileiq-edit-rates-image2.png)
+
+   The Rates page you selected appears.
+
+    ![UK Rates page](media/mileiq-edit-rates-image3.png)
+
+    ![Canada Rates page](media/mileiq-edit-rates-image4.png)
 
 4. On the **Rates** page, enter a mileage rate for your organization. This rate applies to all users you've added in the MileQ admin center. Select **Save**.
-
-    - UK Rates page
-insert art
-    - Canada Rates page
-insert art
-    - US Rates page
-insert art
 
 > [!NOTE]
 >
