@@ -50,9 +50,9 @@ The steps in this article won't prevent members of certain roles from creating G
         
   - Exchange Administrator: Exchange Admin center, Azure AD
     
-  - Partner Tier1 Support: Microsoft 365 Admin center, Exchange Admin center, Azure AD
+  - Partner Tier 1 Support: Microsoft 365 Admin center, Exchange Admin center, Azure AD
     
-  - Partner Tier2 Support: Microsoft 365 Admin center, Exchange Admin center, Azure AD
+  - Partner Tier 2 Support: Microsoft 365 Admin center, Exchange Admin center, Azure AD
     
   - Directory Writers: Azure AD
 
@@ -60,9 +60,9 @@ The steps in this article won't prevent members of certain roles from creating G
   
   - Teams Service Administrator: Teams Admin center, Azure AD
   
-  - User Management Administrator: Microsoft 365 Admin center, Azure AD
-    
-If you're a member of one of these roles, you can create Office 365 Groups for restricted users, and then assign the user as the owner of the group.
+  - User Management Administrator: Microsoft 365 Admin center, Yammer, Azure AD
+     
+If you're a member of one of these roles, you can create Office 365 Groups for restricted users, and then assign the user as the owner of the group. Users that have this role are able to create connected groups in Yammer, regardless of any PowerShell settings that might prevent creation.
 
 ## Licensing requirements
 
