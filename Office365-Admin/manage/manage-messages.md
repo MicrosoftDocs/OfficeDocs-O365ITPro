@@ -25,7 +25,7 @@ Message center posts are important announcements about new and changed features.
   
 ## Read a message
 
-Select a message to open it in the reading pane. Every message contains a summary of the change, a statement of how the change may affect you, and information about how you can prepare your organization for the change. And, we always provide an additional information link where you can learn more. The additional information continues to be available, even after a message expires.
+Select a message title to open it in the reading pane. Every message contains a summary of the change, a statement of how the change may affect you, information about how you can prepare your organization for the change, and (in most cases) an additional information link where you can learn more. The additional information continues to be available, even after a message expires.
   
 ## Filter and sort
 
