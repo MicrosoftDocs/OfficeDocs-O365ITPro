@@ -45,12 +45,14 @@ You can select any column heading to sort messages in ascending or descending or
 
 Use the **Views** drop-down menu to select a filtered view of messages. 
  
-You can select any column heading to sort messages in ascending or descending order. For example, in this diagram the messages are sorted on the **Act by** date. 
+You can select any column heading to sort messages in ascending or descending order. For example, in this illustration the messages are sorted on the **Act by** date.
 
+![Message center view sorted by Act by date](../media/message-center-filter-act-by.png)
 
 ## Give feedback on a post
 
-In the Message center, you can select a message to see details. 
+In the Message center, you can select a message to see details.
+
 If you want to provide feedback on the message, select either the **Like** or **Dislike** icon and provide feedback in the text box that appears. Do not provide any personal information. You can optionally select **It's OK to contact me about this feedback** and then select **Send**.
 
   
