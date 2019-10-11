@@ -20,7 +20,7 @@ description: "Find out what we're working on next for the Microsoft 365 admin ce
 
 # What's next for the Microsoft 365 admin center
 
-Welcome to **What's next for the Microsoft 365 admin center**! We’ve heard that you would like to know more about what’s coming to the Microsoft 365 admin center, so we are providing you a handy view - specific to your admin experience. You can also use the [Microsoft 365 Roadmap](https://www.microsoft.com/microsoft-365/roadmap) and the [Message Center](manage/stay-on-top-of-updates.md) to stay informed. 
+Welcome to **What's next for the Microsoft 365 admin center**! We’ve heard that you would like to know more about what’s coming to the Microsoft 365 admin center, so we are providing you a handy view - specific to your admin experience. You can also use the [Microsoft 365 Roadmap](https://www.microsoft.com/microsoft-365/roadmap) and the [Message center](manage/stay-on-top-of-updates.md) to stay informed. 
 
 > [!WARNING]
 > The information contained in this article pertains only to the Microsoft 365 admin center and is not a promise of future functionality nor do we promise that the feature will be released in the time frame we've indicated. In addition, this information is not a complete list of all features being released. This article might be discontinued or deleted at any time.
@@ -66,7 +66,7 @@ Similar to the [Azure Cloud Shell](https://docs.microsoft.com/azure/cloud-shell/
 
 ### Report an incident
 
-If you're in the admin center and you notice that a service isn't working before we do, you can **Report an incident** to Microsoft from **Service health**.<br>
+If you're in the admin center and you notice that a service isn't working before we do, you can **Report an issue** to Microsoft from **Service health**.<br>
 [Give feedback for incident reporting](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/37876564-create-support-incident-directl-from-service-healt)
 
 ### Deleted groups
