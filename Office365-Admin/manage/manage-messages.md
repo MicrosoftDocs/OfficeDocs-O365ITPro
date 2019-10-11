@@ -55,7 +55,6 @@ In the Message center, you can select a message to see details.
 
 If you want to provide feedback on the message, select either the **Like** or **Dislike** icon and provide feedback in the text box that appears. Do not provide any personal information. You can optionally select **It's OK to contact me about this feedback** and then select **Send**.
 
-  
 ## Share a message
 
 See a message that someone else needs to act on? You can share the contents of the message with any user by email:
@@ -64,7 +63,7 @@ See a message that someone else needs to act on? You can share the contents of t
   
 2. Enter up to two email addresses to share the message with. You can send to individual and to group email addresses. Optionally, you can choose to receive a copy of the message in email (the message will go to your primary email address in Office 365) or add a personal message to provide recipients with more context.
   
-3. Select **Share** to send the email. 
+3. Select **Share** to send the email.
     
 ## Get a link
 
@@ -81,21 +80,21 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 2. Select the **Copy Link To Clipboard** (link) icon.
 
 3. Allow the webpage to access your Clipboard. A direct link is copied to your clipboard.
-    
-4. Use CTRL+V or right-click and select Paste to insert the link.
+
+4. Use Ctrl+V or right-click and select **Paste** to insert the link.
 
 ### Use the old admin center to get a link
   
 ::: moniker-end
 
 1. Select the message to open it.
-    
+
 2. Choose **More** \> **Get a link** from the action bar.
-    
+
 3. Allow the webpage to access your Clipboard. A direct link is copied to your clipboard.
-    
-4. Use CTRL+V or right-click and select Paste to insert the link.
-    
+
+4. Use Ctrl+V or right-click and select Paste to insert the link.
+
 ## Read and unread states
 
 Any message in Message center that is unread will appear in bold. Opening a message marks it as read. You can mark a message as unread.
@@ -115,14 +114,14 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 ::: moniker-end
 
 1. Select the message to open it.
-    
+
 2. Select **More** \> **Mark as unread**.
-    
+
 3. Close the message.
-    
+
 ## Dismiss and restore
 
-If you see a message that doesn't pertain to you, or maybe you've already acted on it, you can dismiss the message to remove it from the Message center view. The view that you see in Message center is specific to your user account, so dismissing it from your view doesn't affect other admins. 
+If you see a message that doesn't pertain to you, or maybe you've already acted on it, you can dismiss the message to remove it from the Message center view. The view that you see in Message center is specific to your user account, so dismissing it from your view doesn't affect other admins.
 
 ::: moniker range="o365-worldwide"
 
@@ -132,13 +131,13 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 - On the main page of the message center, select a message, and then select **Dismiss** above the list of messages.
 
-- Open the message, and then select dismiss **Dismiss** at the bottom of the message. 
+- Open the message, and then select **Dismiss** at the bottom of the message.
 
 Need to get a dismissed message back? No problem.
   
 1. Select the **Dismissed messages** tab at the top of the Message center. A list of dismissed messages appears. 
-    
-2. Select the message, select **Restore**, and the message is restored to active messages. 
+
+2. Select the message, select **Restore**, and the message is restored to active messages.
 
 ### Use the old admin center to dismiss a message
 
@@ -147,15 +146,14 @@ Need to get a dismissed message back? No problem.
 There are two ways to dismiss a message.
   
 - Select the X that appears to the right of the Message ID. The message is removed from your list. Or,
-    
-- Open the message, and then select dismiss **Dismiss** at the top of the message. 
-    
+
+- Open the message, and then select **Dismiss** at the top of the message.
+
 Need to get a dismissed message back? No problem.
   
-1. Select the **Dismissed messages** filter from the **Views** drop-down menu. A list of dismissed messages appears. 
-    
-2. Select the restore icon ![Refresh icon](../media/4565dd14-7d6a-4c42-91b7-91cc34977a43.png) to the right of the Message ID, and the message is restored to active messages. 
-    
+1. Select the **Dismissed messages** filter from the **Views** drop-down menu. A list of dismissed messages appears.
+
+2. Select **Restore** to the right of the Message ID, and the message is restored to active messages.
+
 For an overview of Message center, see [Message center in Office 365](message-center.md). Or, to learn how to set your language preferences to enable machine translation for Message center posts, see [Language translation for Message center posts](language-translation-for-message-center-posts.md). If you'd like to program an alternative way to get real-time service health information and Message Center communications, please reference [Office 365 Service Communications API Overview](https://go.microsoft.com/fwlink/p/?linkid=848507).
   
-
