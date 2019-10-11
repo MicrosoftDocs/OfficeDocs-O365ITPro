@@ -32,6 +32,8 @@ search.appverid:
 ms.assetid: 997596b5-4173-4627-b915-36abac6786dc
 description: "Learn how to assign licenses to users, or move users to a new subscription."
 ms.custom: okr_SMB
+search.appverid:
+- MET150
 ---
 <!-- Clone: AgentUniversity\admin\Assign-licenses-users.md -->
 
