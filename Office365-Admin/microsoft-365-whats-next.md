@@ -64,7 +64,7 @@ Over time we will be adding to the supported keyboard shortcuts and improving th
 Similar to the [Azure Cloud Shell](https://docs.microsoft.com/azure/cloud-shell/overview), we're adding a cloud-connected PowerShell app that will automatically sign you in, and pre-load the Exchange Online PowerShell module.<br>
 [Give feedback for cloud shell](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/31727167-support-cloud-shell-powershell-via-browser)
 
-### Report an incident
+### Report an issue
 
 If you're in the admin center and you notice that a service isn't working before we do, you can **Report an issue** to Microsoft from **Service health**.<br>
 [Give feedback for incident reporting](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/37876564-create-support-incident-directl-from-service-healt)
