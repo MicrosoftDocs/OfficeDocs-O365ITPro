@@ -21,19 +21,19 @@ description: "Learn how to restore a deleted Office 365 Group using the Exchange
 
 # Restore a deleted Office 365 Group
   
-If you're a user who wants to restore an Office 365 group, ask the person in your business who has admin permissions to do these steps for you. In a large business, this is the internal help desk / technical support.  
+If you're a user who wants to restore an Office 365 group, ask a person in your business with administrative permissions to do these steps for you. For larger businesses, this should mean the internal help desk/technical support team.  
    
-If you've deleted a group, by default it's retained for 30 days. This 30-day period is called "soft-delete" because you can still restore the group. After 30 days, the group and associated content is permanently deleted and cannot be restored.
+If you've deleted a group, it will be retained for 30 days by default. This 30-day period is considered a "soft-delete" because you can still restore the group. After 30 days, the group and its associated contents are permanently deleted and cannot be restored.
   
-During the "soft-delete" period if a user tries to access the site they will get a 404 forbidden message. After this period if the user tries to access the site they will get a 404 not found message.
+During the "soft-delete" period, if a user tries to access the site they will get a 404 _forbidden_ message. After this period if the user tries to access the site they will get a 404 _not found_ message.
   
 When a group is restored, the following content is restored:
   
-- Azure Active Directory (AD) Office 365 Groups object, properties and members
+- Azure Active Directory (AD) Office 365 groups object, properties and members
     
-- Group SMTP address
+- Group's e-mail addresses
     
-- Exchange Online shared inbox and calendar
+- Exchange Online shared Inbox and calendar
     
 - SharePoint Online team site and files
     
@@ -52,13 +52,13 @@ You can also [Permanently delete an Office 365 group](#permanently-delete-an-off
 
 ## Restore an Office 365 Group using the Exchange admin center
 
-You must have Office 365 global administrator or Exchange administrator permissions.
+You must have Office 365 global administrator permissions.
 
 1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a>.
     
-2. In the Exchange admin center, select **recipients**, and then choose **groups**. You can view whether the group is Active or soft Deleted. If the group has been permanently deleted, it won't be listed at all.
+2. In the Exchange admin center, select **recipients**, and then choose **groups**. You can view whether the group is Active or soft-deleted. If the group has been permanently deleted, it won't be listed at all.
   
-3. To view the exact time when the group was soft deleted, select the group and view the info in the right pane.
+3. To view the exact time when the group was soft-deleted, select the group and view the info in the right pane.
       
 4. Select the group you want to restore, and then select the restore icon.
     
@@ -68,7 +68,7 @@ You must have Office 365 global administrator or Exchange administrator permissi
     
 ## Restore an Office 365 Group using PowerShell
 
-You must have Office 365 global administrator permission, or need to be an owner of the deleted Office 365 group.
+You must have Office 365 global administrator permissions, or be a former owner of the deleted Office 365 group.
 
 > [!IMPORTANT]
 > If you use Remove-MsolGroup in PowerShell to delete a group, this will delete the group permanently. When using PowerShell to delete groups, it's best practice to use **Remove-AzureADMSGroup** to soft-delete the Office 365 group. That way you can restore it if needed. 
@@ -76,16 +76,16 @@ You must have Office 365 global administrator permission, or need to be an owner
 ### Install the preview version of the Azure Active Directory PowerShell for Graph
 
 > [!IMPORTANT]
-> You cannot install both the preview and GA versions on the same computer at the same time **.**
+> You cannot install both the preview and GA versions on the same computer at the same time.
   
-As a best practice, we recommend  *always*  staying current: uninstall the old AzureADPreview or old AzureAD version and get the latest one. 
+As a best practice, we recommend *always* staying current, i.e. uninstall the old AzureADPreview or old AzureAD version and get the latest one. 
   
  
 1. In your search bar, type Windows PowerShell.
     
 2. Right-click on **Windows PowerShell** and select **Run as Administrator**.
   
-2. Check installed module:
+2. Review your installed modules:
     
   ```
   Get-InstalledModule -Name "AzureAD*"
@@ -115,11 +115,11 @@ At the message about an untrusted repository, type **Y**. It will take a minute 
   
 ### Restore the deleted group
   
-1. Did you install the **AzureADPreview** module, as instructed in the above section "Install the preview version of the Azure Active Directory Module for Windows PowerShell"? Not having the most current **preview** version is the #1 reason these steps don't work for people. 
+1. Did you install the **AzureADPreview** module, as instructed in the above section "Install the preview version of the Azure Active Directory Module for Windows PowerShell"?  Not having the most current **preview** version is the #1 reason these steps don't work for people. 
     
 2. If you haven't already, open a Windows PowerShell window on your computer (it doesn't matter if it's a normal Windows PowerShell window, or one you opened by selecting **Run as administrator**).
     
-3. Run the following commands. Press **Enter** after each command. 
+3. Run the following commands by pressingr **Enter** after each one: 
     
   ```
   Import-Module AzureADPreview
@@ -131,26 +131,26 @@ At the message about an untrusted repository, type **Y**. It will take a minute 
 
 
 
-  On the **Sign in to your Account** screen that opens, enter your admin account and password to connect you to your service, and select **Sign in**.
+  On the **Sign in to your Account** screen that pops up, fill in your administrative account credentials to connect you to your Azure AD service, and select **Sign in**.
   
-4. Run this command to display all soft-deleted Office 365 groups in your organization that are still within the 30 day retention period:
+4. Run this command to display all soft-deleted Office 365 groups in your organization that are still within the 30 day soft-deletion period:
     
   ```
   Get-AzureADMSDeletedGroup
   ```
 
-5. Take note of the object ID of the group, or groups, you want to restore. If you don't see the group you're looking for on this list then it has likely been purged permanently.
+5. Take note of the object ID of the group, or groups, you want to restore. If you don't see the group you're looking for on this list then it has likely been permanently purged already.
     
     > [!CAUTION]
     > If a new group has been created with the same alias or SMTP address as your deleted group, you will have to delete that new group before you'll be able to restore your deleted group. 
   
-6. To restore that group run this command:
+6. To restore that group, run this command:
     
   ```
   Restore-AzureADMSDeletedDirectoryObject -Id <objectId>
   ```
 
-7. This process usually takes just a few minutes but in a few rare cases it can take as long as 24 hours to completely restore. To verify that the group has been successfully restored, run this command in PowerShell:
+7. This process usually takes just a few minutes but in a few rare cases it can take as long as 24 hours to be completely restored. To verify that the group has been successfully restored, run this command in PowerShell:
     
   ```
   Get-AzureADGroup -ObjectId <objectId>
@@ -160,13 +160,13 @@ Once the restore has successfully completed, the group should reappear on the na
   
 ## Permanently delete an Office 365 group
 
-Sometimes you may want to permanently purge a group without waiting the 30 days for the soft-delete to expire. To do that, start PowerShell and run this command to get the object ID of the group:
+Sometimes you may want to permanently purge a group without waiting for the 30 day soft-deletion period to expire. To do that, start PowerShell and run this command to get the object ID of the group:
   
 ```
 Get-AzureADMSDeletedGroup
 ```
 
-Take note of the object ID of the group, or groups, you want to permanently delete.
+Take note of the object ID of the group, or groups, that you want to permanently delete.
   
 > [!CAUTION]
 > Purging the group removes the group and its data forever. 
@@ -187,10 +187,8 @@ Visit the [Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Offi
 
 [Manage Office 365 Groups with PowerShell](https://support.office.com/article/aeb669aa-1770-4537-9de2-a82ac11b0540)
   
-[Delete groups using the Remove-UnifiedGroup cmdlet](https://technet.microsoft.com/en-us/library/mt238270%28v=exchg.160%29.aspx)
+[Delete groups using the Remove-UnifiedGroup cmdlet](https://technet.micro.com/en-us/library/mt238270%28v=exchg.160%29.aspx)
   
 [Manage your group-connected team site settings](https://support.office.com/article/8376034d-d0c7-446e-9178-6ab51c58df42.aspx)
   
 [Delete a group in Outlook](https://support.office.com/article/ca7f5a9e-ae4f-4cbe-a4bc-89c469d1726f.aspx)
-  
-
