@@ -33,7 +33,7 @@ When a group is restored, the following content is restored:
     
 - Group's e-mail addresses.
     
-- Exchange Online shared Inbox and calendar
+- Exchange Online shared Inbox and calendar.
     
 - SharePoint Online team site and files.
     
