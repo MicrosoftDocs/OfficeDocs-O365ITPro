@@ -131,7 +131,7 @@ At the message about an untrusted repository, type **Y**. It will take a minute 
 
 
 
-  On the **Sign in to your Account** screen that pops up, fill in your administrative account credentials to connect you to your Azure AD service, and select **Sign in**.
+  On the **Sign in to your Account** screen that opens, enter your administrative account user name and password to connect you to your Azure AD service, and select **Sign in**.
   
 4. Run this command to display all soft-deleted Office 365 groups in your organization that are still within the 30 day soft-deletion period:
     
