@@ -152,7 +152,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     On the **DNS management** page, click **Add record**, and then select the values from the following table.
     
     
-    |**Type**|**Name**|**Target**|**Automatic TTL**|
+    |**Type**|**Name**|**Target**|**TTL**|
     |:-----|:-----|:-----|:-----|
     |CNAME  <br/> |autodiscover  <br/> |autodiscover.outlook.com  <br/> |30 minutes  <br/> |
     |CNAME  <br/> |sip  <br/> |sipdir.online.lync.com  <br/> |30 minutes  <br/> |
