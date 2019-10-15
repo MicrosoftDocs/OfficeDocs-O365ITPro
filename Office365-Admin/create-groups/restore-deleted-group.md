@@ -25,7 +25,7 @@ If you're a user who wants to restore an Office 365 group, ask a person in your 
    
 If you've deleted a group, it will be retained for 30 days by default. This 30-day period is considered a "soft-delete" because you can still restore the group. After 30 days, the group and its associated contents are permanently deleted and cannot be restored.
   
-During the "soft-delete" period, if a user tries to access the site they will get a 404 _forbidden_ message. After this period if the user tries to access the site they will get a 404 _not found_ message.
+During the "soft-delete" period, if a user tries to access the site they will get a 404 _forbidden_ message. After this period, if a user tries to access the site, they will get a 404 _not found_ message.
   
 When a group is restored, the following content is restored:
   
