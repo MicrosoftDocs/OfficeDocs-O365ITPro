@@ -119,7 +119,7 @@ At the message about an untrusted repository, type **Y**. It will take a minute 
     
 2. If you haven't already, open a Windows PowerShell window on your computer (it doesn't matter if it's a normal Windows PowerShell window, or one you opened by selecting **Run as administrator**).
     
-3. Run the following commands by pressingr **Enter** after each one: 
+3. Run the following commands by pressing **Enter** after each one: 
     
   ```
   Import-Module AzureADPreview
