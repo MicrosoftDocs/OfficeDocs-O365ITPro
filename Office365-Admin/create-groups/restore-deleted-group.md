@@ -29,7 +29,7 @@ During the "soft-delete" period, if a user tries to access the site they will ge
   
 When a group is restored, the following content is restored:
   
-- Azure Active Directory (AD) Office 365 groups object, properties and members
+- Azure Active Directory (AD) Office 365 groups object, properties, and members.
     
 - Group's e-mail addresses.
     
