@@ -168,7 +168,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 |**Service**|**Protocol**|**Name**|**Weight**|**Port**|**Target**|**Priority**|**TTL**|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|sip  |tls  |Automatically populated |1  |443   |sipdir.online.lync.com |100 |1 Hour |sipdir.online.lync.com  <br/> |
+|sip  |tls  |Automatically populated |1  |443   |sipdir.online.lync.com |100 |1 Hour |
 |sipfed|tcp |Automatically populated|1 |5061 |sipfed.online.lync.com|100 | 1 Hour |
    
 5. Select the **Save DNS** button at the top of the DNS editor. 
