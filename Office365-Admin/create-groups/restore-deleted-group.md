@@ -115,7 +115,7 @@ At the message about an untrusted repository, type **Y**. It will take a minute 
   
 ### Restore the deleted group
   
-1. Did you install the **AzureADPreview** module, as instructed in the above section "Install the preview version of the Azure Active Directory Module for Windows PowerShell"?  Not having the most current **preview** version is the #1 reason these steps don't work for people. 
+1. Did you install the **AzureADPreview** module, as instructed in the previoius section "Install the preview version of the Azure Active Directory Module for Windows PowerShell"?  Not having the most current **preview** version is the #1 reason these steps don't work for people. 
     
 2. If you haven't already, open a Windows PowerShell window on your computer (it doesn't matter if it's a normal Windows PowerShell window, or one you opened by selecting **Run as administrator**).
     
