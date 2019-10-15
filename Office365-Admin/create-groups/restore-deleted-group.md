@@ -35,7 +35,7 @@ When a group is restored, the following content is restored:
     
 - Exchange Online shared Inbox and calendar
     
-- SharePoint Online team site and files
+- SharePoint Online team site and files.
     
 - OneNote notebook
     
