@@ -31,7 +31,7 @@ When a group is restored, the following content is restored:
   
 - Azure Active Directory (AD) Office 365 groups object, properties and members
     
-- Group's e-mail addresses
+- Group's e-mail addresses.
     
 - Exchange Online shared Inbox and calendar
     
