@@ -138,8 +138,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ## Related topics
 
-- [Understand subscriptions and licenses](subscriptions-and-licenses.md)
+- [Understand subscriptions and licenses](../subscriptions-and-billing/subscriptions-and-licenses.md)
 
-- [Remove licenses from your subscription](remove-licenses-from-subscription.md)
+- [Remove licenses from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md)
 
-- [Assign licenses to users](../manage/assign-licenses-to-users.md)
+- [Assign licenses to users](assign-licenses-to-users.md)
