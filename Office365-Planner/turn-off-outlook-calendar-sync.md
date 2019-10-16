@@ -1,9 +1,9 @@
 ---
-title: "urn off Outlook calendar sync in Planner for your organization"
+title: "Turn off Outlook calendar sync in Planner for your organization"
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 8/14/2019
+ms.date: 08/14/2019
 audience: Admin
 ms.topic: Overview
 layout: LandingPage
@@ -39,7 +39,7 @@ If you're new to Windows PowerShell, see [Using Windows PowerShell](https://docs
 5. Right-click the .zip file and choose **Extract All**. Choose **Extract**. You'll end up with an unzipped folder entitled "microsoft.identitymodel.clients.activedirectory.2.29.0".
 6. Copy the following code into a text editor and save it as SetPlannerTenantSettings.psm1 in the "microsoft.identitymodel.clients.activedirectory.2.29.0\lib\net45" folder.
 
-```
+```powershell
 function Connect-AAD ()
 {
 <#
@@ -143,7 +143,7 @@ Export-ModuleMember -Function Get-PlannerConfiguration, Set-PlannerConfiguration
 
 7. Copy the following code into a text editor and save it as SetPlannerTenantSettings.psd1 in the "microsoft.identitymodel.clients.activedirectory.2.29.0\lib\net45" folder.
 
-```
+```powershell
 #
 # Module manifest for module 'SetTenantSettings'
 #
@@ -231,7 +231,7 @@ DefaultCommandPrefix = '' }
 
 8. Run this command to import these files into PowerShell, making sure to add your unique file path from your computer:
 
-```
+```powershell
 Import-Module [File path on your computer]microsoft.identitymodel.clients.activedirectory.2.29.0\lib\net45\SetPlannerTenantSettings.psd1 
 ```
 
@@ -251,6 +251,6 @@ Now you're ready to make changes to Planner at the organizational level using Po
    > You'll need to sign in using your Azure Active Directory credentials.
 
 2. To verify your settings:
- 
+
    - In PowerShell, run: `Get-PlannerConfiguration`
    - In Planner, go to **Planner** > **My Tasks**. Select the ellipses (...). Outlook calendar sync is enabled if you see the **Add "My Tasks" to Outlook calendar** command, and disabled if you don't.

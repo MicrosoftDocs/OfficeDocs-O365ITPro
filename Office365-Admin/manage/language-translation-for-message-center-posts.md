@@ -1,4 +1,4 @@
----
+S---
 title: "Language translation for Message center posts"
 ms.author: sirkkuw
 author: sirkkuw
@@ -37,7 +37,6 @@ Message center posts are written in English-only due to the timeliness of the in
 When your preferred language is not set to English, the translation options in Message center are available.
   
 To set Message center posts to automatically machine-translate and display in your preferred language, go to **Health** \> **Message center**. You'll see a switch at the top of the message list view to toggle automatic translation on or off. When this setting is off, posts are shown in English. When this setting is on, messages display in your preferred language. The setting you choose will persist for each visit to Message center. 
-
 
   
 
