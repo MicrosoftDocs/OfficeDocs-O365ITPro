@@ -6,7 +6,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
-- 'O365P_RemoveEXOLicense'
+- 'RemoveEXOLicense'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
@@ -142,4 +142,4 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 - [Remove licenses from your subscription](remove-licenses-from-subscription.md)
 
-- [Assign licenses to users](assign-licenses-to-users.md)
+- [Assign licenses to users](../manage/assign-licenses-to-users.md)

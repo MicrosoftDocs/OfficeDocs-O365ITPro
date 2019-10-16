@@ -338,7 +338,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 When you [add](add-users.md) another person to your business, you'll be prompted to buy a license at the same time, with just one step!
     
-For more information about managing user licenses for Office 365 for business, see [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md), and [Remove licenses from users in Office 365 for business](../subscriptions-and-billing/remove-licenses-from-users.md).
+For more information about managing user licenses for Office 365 for business, see [Assign licenses to users in Office 365 for business](../manage/assign-licenses-to-users.md), and [Remove licenses from users in Office 365 for business](../manage/remove-licenses-from-users.md).
   
 ## How the deleted employee account affects Skype for Business
 <a name="bkmk_remove"> </a>

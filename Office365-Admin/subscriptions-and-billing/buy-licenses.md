@@ -46,7 +46,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 3. In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then select **Submit change**. For example, if you have 100 licenses and you need to add 5 more, enter 105.
 
-After you purchase new licenses, be sure to [assign the licenses to users](assign-licenses-to-users.md).
+After you purchase new licenses, be sure to [assign the licenses to users](../manage/assign-licenses-to-users.md).
 
 ::: moniker-end
 
@@ -66,7 +66,7 @@ After you purchase new licenses, be sure to [assign the licenses to users](assig
 
 3. In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then select **Submit** \> **Close**. For example, if you have 100 licenses and you need to add 5 more, enter 105.
 
-After you purchase new licenses, be sure to [assign the licenses to users](assign-licenses-to-users.md).
+After you purchase new licenses, be sure to [assign the licenses to users](../manage/assign-licenses-to-users.md).
 
 ## What if I don't see the Add/Remove licenses link?
 
@@ -117,9 +117,9 @@ If you have a trial subscription, you must first buy your trial subscription, th
 
 - [Understand subscriptions and licenses](subscriptions-and-licenses.md)
 
-- [Assign licenses to users](assign-licenses-to-users.md)
+- [Assign licenses to users](../manage/assign-licenses-to-users.md)
 
-- [Remove licenses from users](remove-licenses-from-users.md)
+- [Remove licenses from users](../manage/remove-licenses-from-users.md)
 
 - [Remove licenses from your subscription](remove-licenses-from-subscription.md)
 
