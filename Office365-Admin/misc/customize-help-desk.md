@@ -46,7 +46,7 @@ The help desk card consists of:
 <a name="ReallyDifferent"> </a>
 
 > [!NOTE]
-> To create a custom help desk card, you must be a global admin for Office 365 and have a license to Exchange Online. Learn how to [assign licenses in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md). 
+> To create a custom help desk card, you must be a global admin for Office 365 and have a license to Exchange Online. Learn how to [assign licenses in Office 365 for business](../manage/assign-licenses-to-users.md). 
   
 ### Create the custom help desk card in the admin center
 <a name="BKMK_HelpDeskPreview"> </a>

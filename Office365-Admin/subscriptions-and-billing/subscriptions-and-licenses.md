@@ -85,9 +85,9 @@ You don't need to assign licenses to resource mailboxes, room mailboxes, and sha
     
 ## Articles about managing licenses
 
-- [Assign licenses to users](assign-licenses-to-users.md)
+- [Assign licenses to users](../manage/assign-licenses-to-users.md)
     
-- [Remove licenses from users](remove-licenses-from-users.md)
+- [Remove licenses from users](../manage/remove-licenses-from-users.md)
     
 - [Buy licenses for your subscription](buy-licenses.md)
     
@@ -97,6 +97,6 @@ You don't need to assign licenses to resource mailboxes, room mailboxes, and sha
     
 - [Remove licenses from your subscription](remove-licenses-from-subscription.md)
     
-- [Resolve license conflicts](resolve-license-conflicts.md)
+- [Resolve license conflicts](../manage/resolve-license-conflicts.md)
     
 - [Manage Yammer user licenses](https://docs.microsoft.com/en-us/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)

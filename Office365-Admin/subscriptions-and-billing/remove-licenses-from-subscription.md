@@ -91,9 +91,9 @@ If your subscription was purchased through a CSP or partner, you can’t remove 
 
 - [Understand subscriptions and licenses](subscriptions-and-licenses.md)
 
-- [Remove licenses from users](remove-licenses-from-users.md)
+- [Remove licenses from users](../manage/remove-licenses-from-users.md)
 
-- [Assign licenses to users](assign-licenses-to-users.md)
+- [Assign licenses to users](../manage/assign-licenses-to-users.md)
 
 - [Buy licenses for your subscription](buy-licenses.md)
 
