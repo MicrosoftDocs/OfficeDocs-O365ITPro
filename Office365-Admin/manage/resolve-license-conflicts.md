@@ -41,7 +41,7 @@ We recommend that you buy the licenses that you need for your subscription befor
 
 ## How do I resolve license conflicts?
 
-You can resolve license conflicts by either [buying more licenses](buy-licenses.md) or by [removing licenses from users who no longer need them](remove-licenses-from-users.md). You can optionally [delete a user account to free a license](../add-users/delete-a-user.md).
+You can resolve license conflicts by either [buying more licenses](../subscriptions-and-billing/buy-licenses.md) or by [removing licenses from users who no longer need them](remove-licenses-from-users.md). You can optionally [delete a user account to free a license](../add-users/delete-a-user.md).
   
 ## Related topics 
 
