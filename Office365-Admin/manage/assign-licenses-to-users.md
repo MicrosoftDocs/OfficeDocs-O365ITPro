@@ -8,7 +8,6 @@ ms.topic: article
 f1_keywords:
 - 'AssignRemoveLicense'
 - 'ManageLicenses'
-- 'LicenseAssign'
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: 
