@@ -33,7 +33,7 @@ So, you've decided to delete a user from your organization. For example, you can
   
 ## Remove the Office 365 license from the user
 
-You can remove a license from a user by searching for the user on the home page, or from the **Active users** page, and then selecting them. On the **Licenses and Apps** tab, clear the check box for the license you want to remove from the user. [Read full article](../subscriptions-and-billing/remove-licenses-from-users.md).
+You can remove a license from a user by searching for the user on the home page, or from the **Active users** page, and then selecting them. On the **Licenses and Apps** tab, clear the check box for the license you want to remove from the user. [Read full article](../manage/remove-licenses-from-users.md).
   
 ## Block sign in
 
@@ -49,7 +49,7 @@ You can delete the user by searching for the user on the home page, or from the 
   
 ## What to do with the unassigned license
 
-If you have a new employee or person that's joining your organization, you can assign them this license so they can use Office 365. You can search for the user on the home page, or from the **Active users** page, and then select them. On the **Licenses and Apps** tab, select the check box for the license you want to add to the new user. [Read full article](../subscriptions-and-billing/assign-licenses-to-users.md).
+If you have a new employee or person that's joining your organization, you can assign them this license so they can use Office 365. You can search for the user on the home page, or from the **Active users** page, and then select them. On the **Licenses and Apps** tab, select the check box for the license you want to add to the new user. [Read full article](../manage/assign-licenses-to-users.md).
   
 ## Remove license so you don't have to pay for it
 

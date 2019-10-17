@@ -48,9 +48,9 @@ On the **Active users** page in the Microsoft 365 admin center, you can filter b
 
 - [Add users in Office 365](../add-users/add-users.md)
     
-- [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md)
+- [Assign licenses to users in Office 365 for business](../manage/assign-licenses-to-users.md)
     
-- [Remove licenses from users in Office 365 for business](../subscriptions-and-billing/remove-licenses-from-users.md)
+- [Remove licenses from users in Office 365 for business](../manage/remove-licenses-from-users.md)
     
 - [Assigning admin roles in Office 365](../add-users/assign-admin-roles.md)
     

@@ -14,6 +14,7 @@ ms.collection:
 - commerce
 ms.custom:
 - TopSMBIssues
+- okr_smb
 search.appverid:
 - BCS160
 - MET150
@@ -21,7 +22,6 @@ search.appverid:
 - BEA160
 ms.assetid: 0724b428-fb59-4962-8c37-6674166d7507
 description: "Learn how to interpret the charges, billing, and payment information on your Office 365 for business invoice, and how to change the purchase order number."
-ms.custom: okr_smb
 ---
 
 # Understand your invoice for Office 365 for business
