@@ -24,6 +24,7 @@ ms.collection:
 - Adm_O365_TOC
 ms.custom:
 - MSStore_Link
+- okr_smb
 search.appverid:
 - BCS160
 - MET150
@@ -31,7 +32,6 @@ search.appverid:
 - GEA150
 ms.assetid: 1970f7d6-03b5-442f-b385-5880b9c256ec
 description: "Learn how to add users to Office 365, one at a time or multiple users at the same time from a CSV file."
-ms.custom: okr_smb
 ---
 
 # Add users individually or in bulk to Office 365

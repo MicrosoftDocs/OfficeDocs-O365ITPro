@@ -42,13 +42,13 @@ ms.custom:
 - TopSMBIssues
 - SaRA
 - MSStore_Link
+- okr_smb
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 6383f56d-3d09-4dcb-9b41-b5f5a5efd611
 description: "Add your domain to Office 365 in the admin center by adding a DNS record at your DNS host. The setup wizard walks you through the process."
-ms.custom: okr_smb
 ---
 
 # Add a domain to Office 365

@@ -13,13 +13,13 @@ ms.collection:
 - Adm_TOC
 ms.custom:
 - MSStore_Link
+- okr_smb
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 0b0bd900-68b1-4bf5-808b-5d240a7739f4
 description: "Learn how you can have more than one email address, called email alias, associated with your Office 365 for business account. "
-ms.custom: okr_smb
 ---
 
 # Add another email alias for a user
