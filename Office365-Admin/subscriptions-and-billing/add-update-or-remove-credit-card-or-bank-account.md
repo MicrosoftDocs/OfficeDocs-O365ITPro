@@ -14,6 +14,7 @@ ms.collection:
 - commerce
 ms.custom:
 - TopSMBIssues
+- okr_SMB
 search.appverid:
 - BCS160
 - MET150
@@ -21,7 +22,6 @@ search.appverid:
 - BEA160
 ms.assetid: 30ba9c83-50d8-4020-90ed-830a5b8c8724
 description: "Keep your credit card information up-to-date to continue using Office 365 services. You can add, update, or delete a credit card or bank account in the admin center."
-ms.custom: okr_SMB
 ---
 
 # Add, update, or remove a credit card or bank account in Office 365 for business
