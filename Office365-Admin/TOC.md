@@ -8,8 +8,9 @@
 ### [Learn about Office 365 Germany](admin-overview/learn-about-office-365-germany.md)
 ### [Admin Mobile App](admin-overview/admin-mobile-app.md)
 ## Setup
-### [Set up Office 365](setup/setup.md)
 ### [Plan your setup](setup/plan-your-setup.md)
+### [Set up Office 365](setup/setup.md)
+### [Difference between setup wizard and Setup page](setup/o365-setup-wizard-and-setup-page.md)
 ### [Add domain](setup/add-domain.md)
 ### [Domains FAQ](setup/domains-faq.md)
 ### [Install applications](setup/install-applications.md)
