@@ -1,7 +1,7 @@
 ---
 title: "Yammer admin key concepts"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 7/22/2019
 audience: Admin

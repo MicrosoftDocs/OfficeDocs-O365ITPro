@@ -22,7 +22,10 @@
       {
         "files": [
           "**/*.png",
-          "**/*.jpg"
+          "**/*.jpg",
+          "**/*.gif",
+          "**/*.svg",
+          "**/*.pdf"
         ],
         "exclude": [
           "**/obj/**",
@@ -37,9 +40,15 @@
     "globalMetadata": {
       "breadcrumb_path": "/Office365/Planner/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "searchScope": [
+        "Office 365 Planner"
+      ],
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/OfficeDocs-O365ITPro",
+      "feedback_product_url": "https://planner.uservoice.com"
     },
     "fileMetadata": {},
+    "titleSuffix": "Microsoft Planner",
     "template": [],
     "dest": "OfficeDocs-O365Planner",
     "markdownEngineName": "markdig"

@@ -1,7 +1,7 @@
 ---
 title: "Upgrade your network to stand-alone Yammer Enterprise subscription (Office 365 Government only)"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 3/27/2018
 audience: Admin

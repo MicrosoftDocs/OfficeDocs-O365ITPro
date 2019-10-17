@@ -16,6 +16,8 @@ ms.collection:
 - commerce
 description: "Learn how to assign licenses to groups for use with devices."
 ms.custom: okr_SMB
+search.appverid:
+- MET150
 ---
 # Manage licenses for devices
 

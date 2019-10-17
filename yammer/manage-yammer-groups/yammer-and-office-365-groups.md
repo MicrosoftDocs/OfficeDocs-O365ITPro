@@ -1,7 +1,7 @@
 ---
 title: "Yammer and Office 365 Groups"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 7/12/19
 audience: Admin

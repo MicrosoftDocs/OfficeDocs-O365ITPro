@@ -2,7 +2,7 @@
 title: "What's new in the Microsoft 365 admin center?"
 ms.author: anfowler
 author: adefowler
-manager: mnirkhe
+manager: shohara
 audience: Admin
 ms.topic: overview
 ms.service: o365-administration
@@ -29,12 +29,34 @@ We're continuously adding new features to [the Microsoft 365 admin center](micro
 
 And if you're interested in what's new in other admin centers:
 
-- [What's new in the Microsoft 365 compliance center ](https://docs.microsoft.com/Office365/SecurityCompliance/whats-new)
+- [What's new in the Microsoft 365 compliance center](https://docs.microsoft.com/Office365/SecurityCompliance/whats-new)
 - [What's new in the SharePoint admin center](https://docs.microsoft.com/sharepoint/what-s-new-in-admin-center)
+
+## September 2019
+
+We are ramping up for some exciting feature releases at Ignite 2019, so we're only announcing a few new features that were released in September. But stay tuned for next month's article, it'll be published on the first day of Ignite!
+
+### Featured Feedback Fix – The option to convert the deleted user’s mailbox to a shared mailbox is back!
+
+We heard your feedback loud and clear and we brought back the ability to give someone else access to a deleted user’s mailbox by converting it to a **shared mailbox**. Adding this back to the delete user wizard lets you decide what to do with the data:
+
+- Email: Give someone else access to the deleted user's mailbox by converting it to a shared mailbox.
+- Files: Save their OneDrive files and give someone else access.
+- Permissions: Remove permissions if others had access to this mailbox.
+- Aliases: Remove email aliases so they are available to use for another user right away.
+![Screen capture: Delete user wizard with email aliases, permissions, OneDrive, and email options displayed](media/WhatsNew-DeleteUserWiz.png)
+
+### Initial setup
+
+There's been an update to another of our initial setup wizards: Microsoft 365 for business. The steps have been streamlined and we've moved two of the set up tasks into the Setup page:
+
+- **Secure Windows 10 computers** - set up policies to better protect your Windows 10 devices from viruses, malware, and attacks by hackers.
+- **Automatically install Office** - When you turn this on and users have connected their PCs to Microsoft 365 Business, their computers will automatically update to the latest Office apps - and stay up to date.
 
 ## August 2019
 
 ### Add user template
+
 Templates allow you to easily add many users by saving and reusing the shared settings for these users. You can save values for roles, licenses assigned, contact information, location, and more. When you use the template to create a new user, they will automatically get the saved value for these settings. Go to **Users** > **Active users**, and then select **User templates** to try it out.
 
 ### Billing
@@ -43,8 +65,8 @@ We've got some updates for billing and subscriptions this month:
 
 - Device-based subscriptions: You can assign or unassign **Office 365 ProPlus for Education (device)** licenses to devices in the Microsoft 365 admin center. **Office 365 ProPlus for Education (device)** is an add-on license that will lets you to assign a license to a device. Go to **Billing** > **Products & services** to find and purchase the license.
 - User-based license management: We've updated how you assign licenses in **Users** > **Active users** to the new style. For more information, see:
-    - [Assign licenses to users](subscriptions-and-billing/assign-licenses-to-users.md)
-    - [Unassign licenses from users](subscriptions-and-billing/remove-licenses-from-users.md)
+    - [Assign licenses to users](manage/assign-licenses-to-users.md)
+    - [Unassign licenses from users](manage/remove-licenses-from-users.md)
 
 ### Setup page updates
 

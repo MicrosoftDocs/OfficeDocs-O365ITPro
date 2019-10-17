@@ -1,7 +1,7 @@
 ---
 title: "Compare options for a free trial of Yammer"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 5/25/2018
 audience: Admin

@@ -1,7 +1,7 @@
 ---
 title: "Export data from Yammer Basic"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 4/13/2018
 audience: Admin
