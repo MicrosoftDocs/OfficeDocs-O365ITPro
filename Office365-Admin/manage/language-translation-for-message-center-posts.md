@@ -1,4 +1,4 @@
-S---
+---
 title: "Language translation for Message center posts"
 ms.author: sirkkuw
 author: sirkkuw
