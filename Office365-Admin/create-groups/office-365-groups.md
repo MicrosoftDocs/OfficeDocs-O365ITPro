@@ -22,7 +22,7 @@ description: "Learn about Office 365 Groups."
 
 # Overview of Office 365 Groups for administrators
 
-With Office 365 Groups, you can give a group of people access to a collection of collaboration resources for those people to share. These resources include:
+Office 365 Groups is the foundational membership service that drives all teamwork across Microsoft 365. With Office 365 Groups, you can give a group of people access to a collection of collaboration resources for those people to share. These resources include:
 
 - A shared Outlook inbox
 - A shared calendar
