@@ -15,6 +15,7 @@ ms.collection:
 ms.custom:
 - TopSMBIssues
 - MSStore_Link
+- okr_SMB
 search.appverid:
 - BCS160
 - MET150
@@ -23,7 +24,6 @@ search.appverid:
 - GEA150
 ms.assetid: 8652f539-3123-4a8f-b9bd-6aa2f0e0372d
 description: "Learn how to change the payment method or payment frequency for your Office 365 for business subscription."
-ms.custom: okr_SMB
 ---
 
 # Change your payment method for Office 365 for business

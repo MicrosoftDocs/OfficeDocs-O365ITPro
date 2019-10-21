@@ -18,6 +18,7 @@ ms.collection:
 - commerce
 ms.custom:
 - TopSMBIssues
+- okr_SMB
 search.appverid:
 - BCS160
 - MET150
@@ -26,7 +27,6 @@ search.appverid:
 - GEA150
 ms.assetid: 5480fc33-dd47-41e7-bcfb-b2533efdb92a
 description: "Find answers to your top billing questions for Office 365 for business subscription. "
-ms.custom: okr_SMB
 ---
 
 # Top billing questions for Office 365 for business

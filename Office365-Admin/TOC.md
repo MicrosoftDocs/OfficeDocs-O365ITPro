@@ -83,6 +83,9 @@
 ### [Upgrade distribution lists](manage/upgrade-distribution-lists.md)
 ### [Share sites with external users](manage/share-sites-with-external-users.md)
 ### [Share calendars with external users](manage/share-calendars-with-external-users.md)
+### [Assign licenses to users](manage/assign-licenses-to-users.md)
+### [Unassign licenses from users](manage/remove-licenses-from-users.md)
+### [Resolve license conflicts](manage/resolve-license-conflicts.md)
 ## Subscriptions and billing
 ### [Manage your subscriptions](subscriptions-and-billing/subscriptions-and-billing.md)
 ### [Sign up for an Office 365 trial subscription](subscriptions-and-billing/sign-up-for-office-365-trial.md)
@@ -108,10 +111,7 @@
 ### [What if my subscription expires?](subscriptions-and-billing/what-if-my-subscription-expires.md)
 ### [Subscriptions and licenses](subscriptions-and-billing/subscriptions-and-licenses.md)
 ### [Buy licenses](subscriptions-and-billing/buy-licenses.md)
-### [Assign licenses to users](subscriptions-and-billing/assign-licenses-to-users.md)
-### [Unassign licenses from users](subscriptions-and-billing/remove-licenses-from-users.md)
 ### [Remove licenses from subscription](subscriptions-and-billing/remove-licenses-from-subscription.md)
-### [Resolve license conflicts](subscriptions-and-billing/resolve-license-conflicts.md)
 ## Domains
 ### [Domains in Office 365](get-help-with-domains/get-help-with-domains.md)
 ### [What is a domain?](get-help-with-domains/what-is-a-domain.md)
