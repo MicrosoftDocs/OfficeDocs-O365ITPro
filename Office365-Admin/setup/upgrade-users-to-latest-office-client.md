@@ -174,7 +174,7 @@ If you'd prefer to install your older version of Office side-by-side with the la
     
 ## Step 4 - Assign Office licenses to users
 
-If you haven't already done so, assign licenses to any users in your organization who need to install Office, see [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md).
+If you haven't already done so, assign licenses to any users in your organization who need to install Office, see [Assign licenses to users in Office 365 for business](../manage/assign-licenses-to-users.md).
   
 ## Step 5 - Install Office
 

@@ -745,6 +745,21 @@
         "source_path": "Office365-Admin/troubleshoot-issues-for-admins/user-not-seeing-add-ins.md", 
         "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/troubleshooting/user-not-seeing-add-ins", 
         "redirect_document_id": false
+      },
+      {
+        "source_path": "Office365-Admin/subscriptions-and-billing/assign-licenses-to-users.md", 
+        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/manage/assign-licenses-to-users", 
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "Office365-Admin/subscriptions-and-billing/remove-licenses-from-users.md", 
+        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/manage/remove-licenses-from-users", 
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "Office365-Admin/subscriptions-and-billing/resolve-license-conflicts.md", 
+        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/manage/resolve-license-conflicts", 
+        "redirect_document_id": false
       }
   ]
 }
