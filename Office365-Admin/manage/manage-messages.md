@@ -82,7 +82,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. Select the message to open it.
 
-2. Select the **Copy Link To Clipboard** (link) icon.
+2. Select the **Copy link to clipboard** (link) icon.
 
 3. Allow the webpage to access your clipboard. A direct link is copied to your clipboard.
 
