@@ -36,7 +36,7 @@ Administrators can specify an expiration period and any group that reaches the e
 It's important to know that expiration is turned off by default. Administrators will have to enable it for their tenant if they want to use it.
 
 > [!NOTE]
-> Group expiration is an Azure Active Directory (Azure AD) Premium feature. You must have a subscription to Azure AD Premium in order to have this feature available. The administrator who configures the settings, and the members of the affected groups, need to have Azure AD Premium licenses assigned to them. For more information see [Getting started with Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/active-directory-get-started-premium).
+> Configuring and using the expiration policy for Office 365 groups requires you to possess but not necessarily assign Azure AD Premium licenses for the members of all groups to which the expiration policy is applied. For more information see [Getting started with Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/active-directory-get-started-premium).
 
 ## Who can configure and use the Office 365 Groups expiration policy?
 
