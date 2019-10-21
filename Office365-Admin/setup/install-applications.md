@@ -32,7 +32,7 @@ Follow these links for information on how to:
 
 ::: moniker range="o365-21vianet"
 
-If you purchased Azure Directory Premium (AADP) Plan 1 or Plan 2, you're eligible for Microsoft Identity Manager (MIM). To download MIM, go to the [Download Center](https://www.microsoft.com/zh-cn/download/details.aspx?id=58498).
+If you purchased Azure Active Directory Premium (AADP) Plan 1 or Plan 2, you're eligible for Microsoft Identity Manager (MIM). To download MIM, go to the [Download Center](https://www.microsoft.com/zh-cn/download/details.aspx?id=58498).
 
 ::: moniker-end
 
