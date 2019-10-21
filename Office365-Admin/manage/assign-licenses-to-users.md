@@ -6,14 +6,8 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
-- 'O365P_ManageLicenses'
-- 'O365P_AssignRemoveLicense'
-- 'O365M_ManageLicenses'
-- 'O365M_AssignRemoveLicense'
-- 'O365E_ManageLicenses'
-- 'O365E_AssignRemoveLicense'
-- 'ms.exch.owap.LicenseAssign'
-- 'ms.exch.owab.LicenseAssign'
+- 'AssignRemoveLicense'
+- 'ManageLicenses'
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: 
@@ -24,6 +18,7 @@ ms.collection:
 ms.custom:
 - TopSMBIssues
 - SaRA
+- okr_SMB
 search.appverid:
 - MET150
 - MOE150
@@ -31,7 +26,6 @@ search.appverid:
 - GEA150
 ms.assetid: 997596b5-4173-4627-b915-36abac6786dc
 description: "Learn how to assign licenses to users, or move users to a new subscription."
-ms.custom: okr_SMB
 search.appverid:
 - MET150
 ---
@@ -226,8 +220,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ## Related topics
 
-- [Understand subscriptions and licenses](subscriptions-and-licenses.md)
+- [Understand subscriptions and licenses](../subscriptions-and-billing/subscriptions-and-licenses.md)
 
 - [Remove licenses from users](remove-licenses-from-users.md)
 
-- [Remove licenses from your subscription](remove-licenses-from-subscription.md)
+- [Remove licenses from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md)

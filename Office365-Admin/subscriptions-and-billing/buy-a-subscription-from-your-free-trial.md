@@ -21,6 +21,7 @@ ms.collection:
 ms.custom:
 - TopSMBIssues
 - MSStore_Link
+- okr_SMB
 search.appverid:
 - BCS160
 - MET150
@@ -28,7 +29,6 @@ search.appverid:
 - BEA160
 ms.assetid: 485fee6d-b22e-440a-9053-a4e7fa509c92
 description: "Purchase an Office 365 for business subscription. You can buy the same type of subscription that you tried, or a different plan."
-ms.custom: okr_SMB
 ---
 
 # Buy a subscription to Office 365 for business from your free trial
