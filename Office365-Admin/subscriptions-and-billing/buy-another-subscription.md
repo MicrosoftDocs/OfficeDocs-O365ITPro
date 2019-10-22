@@ -90,4 +90,4 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 [Assign licenses to users](../manage/assign-licenses-to-users.md)
   
-[Remove licenses from users]../manage/remove-licenses-from-users.md)
+[Remove licenses from users](../manage/remove-licenses-from-users.md)
