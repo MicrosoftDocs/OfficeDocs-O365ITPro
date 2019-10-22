@@ -58,8 +58,9 @@
 ### [Set up multi-factor authentication](security-and-compliance/set-up-multi-factor-authentication.md)
 ### [Set up multi-factor authentication (with Office 2013)](security-and-compliance/enable-modern-authentication.md)
 ### [GDPR compliance](security-and-compliance/gdpr-compliance.md)
-## Activity reports and analytics
+## Activity reports in the admin center
 ### [Activity reports overview](activity-reports/activity-reports.md)
+## PowerBi usage analytics
 ### [Usage analytics](usage-analytics/usage-analytics.md)
 ### [Enable usage analytics](usage-analytics/enable-usage-analytics.md)
 ### [Get the latest version of usage analytics](usage-analytics/get-the-latest-version-of-usage-analytics.md)
