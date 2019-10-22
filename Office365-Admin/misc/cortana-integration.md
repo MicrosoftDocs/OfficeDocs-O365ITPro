@@ -24,14 +24,16 @@ description: "Learn how to use Cortana, when it is integrated with Office 365. Y
 
 # Cortana integration with Office 365
 
-Cortana is a cloud-based digital assistant and Microsoft 365 and Office 365 service that works across your devices and Microsoft services. Cortana can use information stored in Microsoft 365 and Office 365 to help people in your organization stay up to date and get insights, suggested tasks, and help with their meetings, documents, and contacts. Cortana services are broken into two data categories: **compliant** and **optional connected services**.
+Cortana is a cloud-based digital assistant and Microsoft 365 and Office 365 service that works across your devices and Microsoft services. Cortana can use information stored in Microsoft 365 and Office 365 to help people in your organization stay up to date and get insights, suggested tasks, and help with their meetings, documents, and contacts.
   
 ## Info for admins
 
 Compliance is a commitment that Microsoft makes to enterprise customers. [Learn more about the Microsoft compliance framework.](https://go.microsoft.com/fwlink/p/?LinkId=2109173)
 
-Consistent with other Office 365 services, compliant Cortana features are protected and secured subject to the Online Service Terms that includes a set of promises involving protection of user data against accidental loss, alteration, unauthorized disclosure or access, or unlawful destruction. All other Cortana features (i.e., Cortana optional connected services) are subject to the [Microsoft Services Agreement](https://go.microsoft.com/fwlink/p/?LinkId=2109174) and  [Microsoft Privacy Statement.](https://go.microsoft.com/fwlink/p/?LinkId=2109175)
-    
+Consistent with other Microsoft 365 and Office 365 services, compliant Cortana features are protected and secured subject to the Online Service Terms that includes a set of promises involving protection of user data against accidental loss, alteration, unauthorized disclosure or access, or unlawful destruction. All other Cortana features (i.e., Cortana optional connected services) are subject to the [Microsoft Services Agreement](https://go.microsoft.com/fwlink/p/?LinkId=2109174) and  [Microsoft Privacy Statement.](https://go.microsoft.com/fwlink/p/?LinkId=2109175)
+
+Cortana services are broken into two data categories, **compliant** and **optional connected services**, which you can control.
+
 ## Turn off Cortana optional connected services
 
 Cortana optional connected services can be turned off for employees at your organization by clearing the Cortana checkbox in the Admin Center. This will disable Cortana optional connected services in Cortana on Windows and the Cortana mobile app. This includes Cortana reminders, lists, tasks, and other features. 
