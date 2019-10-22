@@ -20,6 +20,18 @@ description: "Learn how to restore a deleted Office 365 Group using the Exchange
 ---
 
 # Restore a deleted Office 365 Group
+
+The owner of an Office 365 group can restore the group by self.
+
+Steps:
+1) Access the deleted groups page by logging in to this link: https://outlook.office.com/people/group/deleted 
+or 
+Login to Outlook for Web (OWA), click on Manage groups option, present under the Groups node, and then click on "Deleted" option
+
+2) The Office 365 groups deleted by the owner will be displayed on the right hand pane. 
+3) From here, the group owner can click on "Restore" and the group will be restored
+
+If the deleted group doesn't show here, the owner should contact person with administrative permissions.
   
 If you're a user who wants to restore an Office 365 group, ask a person in your business with administrative permissions to do these steps for you. For larger businesses, this should mean the internal help desk/technical support team.  
    
