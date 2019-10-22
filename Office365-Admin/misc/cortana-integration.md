@@ -24,39 +24,31 @@ description: "Learn how to use Cortana, when it is integrated with Office 365. Y
 
 # Cortana integration with Office 365
 
-Cortana is your personal assistant on your Windows 10 device. Cortana in Windows 10 is already great at letting you quickly see what your day is going to look like, see when and where your first meeting is, get a sense of travel times to work, or even get updates from your calendar for upcoming trips. Cortana gets even better as she connects to Office 365, which enhances her ability to help you prepare for meetings learn about the people you work with, and remind you where you need to be next so you won't be late.
-  
-You're always in control of your data with Cortana. We've made it simple for you to turn off Cortana for your organization if you like.
+Cortana is a cloud-based digital assistant and Microsoft 365 and Office 365 service that works across your devices and Microsoft services. Cortana can use information stored in Microsoft 365 and Office 365 to help people in your organization stay up to date and get insights, suggested tasks, and help with their meetings, documents, and contacts. Cortana services are broken into two data categories: **compliant** and **optional connected services**.
   
 ## Info for admins
 
-There are a few things to be aware of before you start using Cortana in Office 365.
-  
-- If you run into issues, check out [these troubleshooting tips](https://go.microsoft.com/fwlink/p/?LinkId=620763).
-    
-- Cortana can only access data in your Office 365 organization when it is enabled. You can turn Cortana off in the Microsoft 365 admin center if you don't want Cortana to access your organization's data.
-    
-- To use Cortana, people in your organization must be signed in to Cortana with their work or school account and must authorize Cortana to access Office 365 on their behalf. They can sign in through Cortana's Notebook.
-    
-- Cortana isn't a service covered by the Office 365 Trust Center. [Learn more about how Cortana treats your data.](https://go.microsoft.com/fwlink/p/?LinkId=536419)
-    
-- Check out the mobile device management controls for Windows 10 devices [here](https://go.microsoft.com/fwlink/p/?LinkId=626110). Cortana can also access email and calendar data from users through various client apps.
-    
-### Turn off Cortana in Office 365
+Compliance is a commitment that Microsoft makes to enterprise customers. [Learn more about the Microsoft compliance framework.](https://go.microsoft.com/fwlink/p/?LinkId=2109173).
 
-If you don't want Cortana to access your organization's data, you can turn Cortana off in the admin center. 
-  
-1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services & add-ins</a> page. 
+Consistent with other Office 365 services, compliant Cortana features are protected and secured subject to the Online Service Terms that includes a set of promises involving protection of user data against accidental loss, alteration, unauthorized disclosure or access, or unlawful destruction. All other Cortana features (i.e., Cortana optional connected services) are subject to the [Microsoft Services Agreement](https://go.microsoft.com/fwlink/p/?LinkId=2109173). and  [Microsoft Privacy Statement.](https://go.microsoft.com/fwlink/p/?LinkId=2109173)
+    
+## Turn off Cortana optional connected services
 
-2. In the list, choose **Cortana**.
-    
-3. Clear the check box to toggle Cortana off. 
-    
-## Windows 10 users
+Cortana optional connected services can be turned off for employees at your organization by clearing the Cortana checkbox in the Admin Center. This will disable Cortana optional connected services in Cortana on Windows and the Cortana mobile app. This includes Cortana reminders, lists, tasks, and other features. 
+Services in the compliant category (i.e., Cortana OST experiences), such as Cortana’s Briefing email, and Play My Emails in Outlook mobile, will remain active.
 
-There are a few things to be aware of before you start using Cortana in Office 365. If you run into issues, check out [these troubleshooting tips](https://go.microsoft.com/fwlink/?LinkId=620763).
+## Turn off Cortana OST experiences
+
+Your organization's employees can opt out of Cortana OST experiences individually by following the steps below.
+
+1. Open Outlook mobile.
+
+2. Go to **Settings**.
   
-- You can add your Outlook or Office 365 account as a connected service to Cortana and add reminders and tasks to your lists in Microsoft To-Do. You can also use Cortana to read and search messages in the Outlook desktop app.
-    
-- Cortana with Office 365 only works on Windows 10 devices and is available in only certain languages and markets today.
-   
+3. Select **Play My Emails**.
+
+4. Move the toggle to off on the accounts you want to disable.
+
+### Briefing email
+
+Disabling Cortana on the taskbar will not disable Cortana’s Briefing email. Employees must unsubscribe individually. Individuals from your organization can opt out of Cortana’s Briefing email by selecting **Unsubscribe** in the footer of the message.
