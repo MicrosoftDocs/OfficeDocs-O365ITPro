@@ -28,7 +28,12 @@ When a group expires, all of its associated services (the mailbox, Planner, Shar
 
 When a group expires it is "soft-deleted" which means it can still be recovered for up to 30 days.
 
-Administrators can specify an expiration period and any group that reaches the end of that period, and is not renewed, will be deleted. The expiration period begins when the group is created, or on the date it was last renewed. Group owners will automatically be sent an email before the expiration that allows them to renew the group for another expiration interval.
+Administrators can specify an expiration period and any inactive group that reaches the end of that period, and is not renewed, will be deleted. The expiration period begins when the group is created, or on the date it was last renewed. Group owners will automatically be sent an email before the expiration that allows them to renew the group for another expiration interval. Teams users will see persistent notifications in Teams.
+
+Groups that are actively in use are renewed automatically. Any of the following actions will auto-renew a group:
+- SharePoint - view, edit, download, move, share, or upload files.
+- Outlook - join group, read or write group message from the group, and like a message (Outlook on the web).
+- Teams - visiting a teams channel.
 
 > [!IMPORTANT]
 > When you change the expiration policy, the service recalculates the expiration date for each group. It always starts counting from the date when the group was created, and then applies the new expiration policy.
