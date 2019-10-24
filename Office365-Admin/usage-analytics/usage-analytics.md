@@ -36,30 +36,49 @@ The [data model](usage-analytics-data-model.md) that powers the content pack inc
   
 See [Enable Microsoft 365 usage analytics](enable-usage-analytics.md) to start collecting data. 
   
-![A screen shot of the list of  reports included in the adoption content pack](../media/88ab4585-9916-4909-a3b0-85bcd43e3900.png)
   
-Microsoft 365 usage analytics contains a number of reports, including:
-  
-- **Adoption overview report** — offers an all-up summary of adoption trends. Use the reports in this section to learn how your users have adopted Office 365 as well as how overall usage of the individual services has changed month-over-month. You can see how many licenses are assigned, how many of those are in active use by people in your organization, how many users are returning users and how many are using the product for the first time. 
-    
-- **Product usage report** — offers a drill-down view into volume of key activities for each service. Use the reports in this section to learn how your users are utilizing Office 365. 
-    
-- **Storage used report** — Use this report to track cloud storage for mailboxes, OneDrive and SharePoint sites. You can use this to make sure people in your organization stay within limits, or to decide if you need to purchase more storage resources. 
-    
-- **Communication report** — You can see at a glance whether people in your organization prefer to stay in touch by using Teams, Yammer, email, or Skype calls. You can observe if there are shifts in patterns of use of communication tools amongst your employees. 
-    
-- **Collaboration report** — See how people in your organization use OneDrive and SharePoint to store documents and collaborate with each other, and how these trends evolve month over month. You can also see how many people share documents internally or externally and how many SharePoint sites or OneDrive accounts are actively being used. 
-    
-- **Office activation report** — Track Office 365 ProPlus, Project and Visio activations in your organization. Each person with an Office license can install products on up to five devices. Use reports in this section to see the device types on which people have installed Office apps. 
-    
-- **Access from anywhere report** — Track which clients and devices people use to connect to email, Skype for Business, or Yammer. 
-    
-- **Individual service usage reports** — Usage reports are available for certain individual services. These reports provide specific usage details for the respective service. Exchange usage, Teams usage, and Yammer usage are examples of these reports. 
-    
-- **Individual service user activity reports** — User activity reports are available for certain individual services. These reports provide user level detail usage data joined with Active Directory attributes. 
-    
+Microsoft 365 usage analytics contains a number of reports detailed in the following sections. 
+
 You can access detailed reports for each area by selecting the data tables. You can view all pre-built reports by selecting the tabs at the bottom of the site, once you are viewing the reports. For more detailed instructions, read [Navigating and utilizing the reports in Microsoft 365 usage analytics](navigate-and-utilize-reports.md) and [Customizing the reports in Microsoft 365 usage analytics](customize-reports.md).
+
+## Executive summary
+
+The executive summary is a high level, at-a-glance view of Office 365 for business adoption, usage and mobility reports meant for business decision makers. This summary allows you to quickly understand usage patterns in Office and how and where your employees are collaborating.
+
+![Image of the Office 365 usage executive summary.](../media/office365usage-exec-summary.png)
+
+## O365 Overview
+
+The Office 365 overview report contains the following reports. You can view them by choosing the tab for each on top of the report page.
+
+- **Adoption** — offers an all-up summary of adoption trends. Use the reports in this section to learn how your users have adopted Office 365 as well as how overall usage of the individual services has changed month-over-month. You can see how many licenses are assigned, or how may users are enabled, how many of those are in active use by people in your organization, how many users are returning users and how many are using the product for the first time. 
+    
+- **Usage** — offers a drill-down view into volume of key activities for each product. Use the reports in this section to learn how your users are utilizing Office 365. 
+
+- **Communication** — You can see at a glance whether people in your organization prefer to stay in touch by using Teams, Yammer, email, or Skype calls. You can observe if there are shifts in patterns of use of communication tools amongst your employees. 
+
+- **Collaboration report** — See how people in your organization use OneDrive and SharePoint to store documents and collaborate with each other, and how these trends evolve month over month. You can also see how many people share documents internally or externally and how many SharePoint sites or OneDrive accounts are actively being used.
+
+- **Storage** — Use this report to track cloud storage for mailboxes, OneDrive and SharePoint sites. You can use this to make sure people in your organization stay within limits, or to decide if you need to purchase more storage resources.
+
+- **Mobility** — Track which clients and devices people use to connect to email, Teams, Skype, or Yammer.
+
+## Activation and licensing
+
+The activation and license page offers reports on Office 365 activation, that is, how many users have downloaded and activated Office apps, and how many licenses have been assigned by your organization.
+
+- **O365 activation** — Track Office 365 ProPlus, Project and Visio activations in your organization. Each person with an Office license can install products on up to five devices. You can also use reports in this section to see the devices on which people have installed Office apps. 
+
+- **Licenses assigned** — This report contains an overview of license types and license counts, and further breaks them down to number of license types assigned per month.
+
+## Product usage
+
+This report contains a separate report for each Office 365 service, including, Exchange, Office 365 groups, OneDrive, SharePoint, Skype, Teams, and Yammer. Each report contains total vs. active user reports, as well as activity type reports where approriate.
+
+## User activity
   
+  User activity reports are available for certain individual services. These reports provide user level detail usage data joined with Active Directory attributes. 
+
 ## FAQ
 
 ### Is this content pack going to be available through purchase or will it be free?
