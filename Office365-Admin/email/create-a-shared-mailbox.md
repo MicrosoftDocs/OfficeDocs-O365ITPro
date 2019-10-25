@@ -292,6 +292,14 @@ A Group in Outlook is like a shared mailbox. For a comparison of the two, see [C
 Automapping is set on the user's mailbox, not the shared mailbox.
 
 This means if you try to use a security group to manage who has access to the shared mailbox, automapping won't work. So, if you want automapping, you have to assign permissions explicitly.
+
+ By default, Automapping is enabled. The admin's can disable the automapping feature via powershell while granting access to the user.
+
+Run the following commands:
+
+  ```
+Add-MailboxPermission -Identity sales@contoso.com -User john@contoso.com -AccessRights FullAccess -AutoMapping:$false
+   ```
   
 ## How to create a shared mailbox in the Exchange admin center
 <a name="bkmk_EAC"> </a>
