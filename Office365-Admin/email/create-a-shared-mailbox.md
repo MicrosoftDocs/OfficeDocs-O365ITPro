@@ -128,7 +128,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 4. In the **Edit sign-in status** flyout, verify that Block the user from signing in is selected, select **Save** and then **Close**.
 
-Sign in blocking can be used to block Room and Equipment mailboxes. For instructions on how to block sign-in for accounts using Azure AD PowerShell (including many accounts at the same time), see [Block user accounts with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/block-user-accounts-with-office-365-powershell).
+Sign-in blocking can be used to block room and equipment mailboxes. For instructions on how to block sign-in for accounts using Azure AD PowerShell (including many accounts at the same time), see [Block user accounts with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/block-user-accounts-with-office-365-powershell).
 
 ## Allow everyone to see the Sent email (the replies)
 
