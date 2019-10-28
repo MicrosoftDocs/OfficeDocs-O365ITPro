@@ -33,7 +33,7 @@ You can only manage payment methods that you have added.
 
 > [!NOTE]
 > Paying by using a bank account is not available in some countries or regions.
-
+>
 > You must use a credit card issued from the same country as your tenant.
 
 ## Add a new payment method
@@ -93,7 +93,7 @@ If your payment method is associated with any subscriptions and you do not have 
 4. Choose **Add a payment method**.
 5. Select the type of payment method you want to add, enter the account information, then choose **Add**.
 6. Select the new payment method from the drop-down list, then choose **Change**.
-    > [!NOTE]
+    > [!WARNING]
     > This will move all subscriptions to the new payment method.
 7. Choose Delete.
 
@@ -106,7 +106,7 @@ If your payment method is associated with any subscriptions, and you have at lea
 3. The **Delete payment method** pane lists existing subscriptions that use that payment method.
 4. Choose **Change payment method**.
 5. Select an alternate payment method from the drop-down list, then choose **Change**.
-    > [!NOTE]
+    > [!WARNING]
     > This will move all subscriptions to the alternate payment method.
 6. Choose **Delete**.
 
