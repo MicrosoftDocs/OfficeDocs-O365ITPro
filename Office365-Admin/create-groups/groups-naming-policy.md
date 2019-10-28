@@ -108,139 +108,18 @@ Selective administrators are exempted from these policies, across all group work
     
 - Directory writers
 
-## Step 1: Install the preview version of the Azure Active Directory PowerShell for Graph
+## How to set up the naming policy
 
-These procedures require the the preview version of the Azure Active Directory PowerShell for Graph. The GA version will not work.
+To set up a naming policy
+1. In [Azure Active Directory](https://aad.portal.azure.com), under **Manage**, click **Groups**.
+2. Under **Settings**, click **Naming policy**.
+3. Choose the **Group naming policy** tab.
+4. Under **Current policy**, choose if you want to require a prefix or suffix or both, and select the appropriate check boxes.
+5. Choose between **Attribute** and **String** for each line and then specify the attribute or string.
+6. When you have added the prefixes and suffixes that you need, click **Save**.
 
-> [!IMPORTANT]
-> You cannot install both the preview and GA versions on the same computer at the same time.
-  
-As a best practice, we recommend  *always*  staying current: uninstall the old AzureADPreview or old AzureAD version and get the latest one. 
-  
-1. In your search bar, type Windows PowerShell.
-    
-2. Right-click on **Windows PowerShell** and select **Run as Administrator**.
-    
-    ![Open PowerShell as "Run as administrator."](../media/52517af8-c7b0-4c8f-b2f3-0f82f9d5ace1.png)
-  
-2. Check installed module:
-    
-    ```
-    Get-InstalledModule -Name "AzureAD*"
-    ```
+![Screenshot of the groups naming policy settings in Azure Active Directory](../media/groups-naming-policy-azure.png)
 
-3. To uninstall a previous version of AzureADPreview or AzureAD, run this command:
-  
-    ```
-    Uninstall-Module AzureADPreview
-    ```
-
-    or
-  
-    ```
-    Uninstall-Module AzureAD
-    ```
-
-4. To install the latest version of AzureADPreview, run this command:
-  
-    ```
-    Install-Module AzureADPreview
-    ```
-
-    At the message about an untrusted repository, type **Y**. It will take a minute or so for the new module to install.
-
-Leave the PowerShell window open for Step 2, below.
-
-## How to set up the Naming Policy in Azure AD PowerShell
-
-1. If you haven't already, open a Windows PowerShell window on your computer (it doesn't matter if it's a normal Windows PowerShell window, or one you opened by selecting **Run as administrator**).
-    
-2. Run the following commands. Press **Enter** after each command. 
-    
-  ```
-  Import-Module AzureADPreview
-  ```
-
-  ```
-  Connect-AzureAD
-  ```
-
-
-  In the **Sign in to your Account** screen that opens, enter your admin account and password to connect you to your service, and select **Sign in**.
-
-
-    
-  ![Enter your credentials](../media/a2b4e2f3-436f-4a6c-b571-1a192698acea.png)
-  
-Follow the steps in [Azure Active Directory cmdlets for configuring group settings](https://go.microsoft.com/fwlink/p/?LinkID=858519) to configure group settings. 
-  
- **View the current settings**
-
-You can view the current naming policy settings by typing the following at the PowerShell prompt:
-  ```
-  $Setting = Get-AzureADDirectorySetting -Id (Get-AzureADDirectorySetting | where -Property DisplayName -Value "Group.Unified" -EQ).id
-  $Setting.Values
-  ```
-
-In the output, check the values for `CustomBlockedWordsList`, `EnableMSStandardBlockedWords`, and `PrefixSuffixNamingRequirement`.
-    
- **Set the naming policy and custom blocked words**
-  
-Copy the script below into a text editor, such as Notepad, or the [Windows PowerShell ISE](https://docs.microsoft.com/powershell/scripting/components/ise/introducing-the-windows-powershell-ise).
-
-Replace *\<WordList\>* with the list of words that you want to block. For example:
-
-`$BlockedWords = "Payroll,CEO,HR"`
-
-Replace *\<PrefixSuffixNaming\>* with the prefix and suffix information that you want to require. For example:
-
-`$PrefixSuffix = "Grp_[Department]_[GroupName]_[CountryOrRegion]"`
-
-Save the file as NamingPolicy.ps1. 
-
-In the PowerShell window, navigate to the location where you saved the file (type "CD <FileLocation>").
-
-Run the script by typing:
-
-`.\NamingPolicy.ps1`
-
-and sign in with your administrator account when prompted.
-
-```PowerShell
-$BlockedWords = "<WordList>"
-
-$PrefixSuffix = "<PrefixSuffixNaming>"
-
-Connect-AzureAD
-
-try
-    {
-        $template = Get-AzureADDirectorySettingTemplate | ? {$_.displayname -eq "group.unified"}
-        $settingsCopy = $template.CreateDirectorySetting()
-        New-AzureADDirectorySetting -DirectorySetting $settingsCopy
-        $settingsObjectID = (Get-AzureADDirectorySetting | Where-object -Property Displayname -Value "Group.Unified" -EQ).id
-    }
-catch
-    {
-        $settingsObjectID = (Get-AzureADDirectorySetting | Where-object -Property Displayname -Value "Group.Unified" -EQ).id       
-    }
-
-$settingsCopy = Get-AzureADDirectorySetting -Id $settingsObjectID
-
-$SettingsCopy["PrefixSuffixNamingRequirement"] = $PrefixSuffix
-
-$SettingsCopy["CustomBlockedWordsList"] = $BlockedWords
-
-Set-AzureADDirectorySetting -Id $settingsObjectID -DirectorySetting $settingsCopy
-
-(Get-AzureADDirectorySetting -Id $settingsObjectID).Values
-```
-
-The last line of the script will display the updated settings:
-
-If in the future you want to change these settings, you can rerun the script with the new information.
-
-If you want to turn off either of the policies, set `$BlockedWords` or `$PrefixSuffix` to "" and rerun the script.
     
 ## Naming policy experiences across Office 365 apps
 
