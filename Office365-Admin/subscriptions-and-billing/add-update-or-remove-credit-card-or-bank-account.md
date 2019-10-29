@@ -1,5 +1,5 @@
 ---
-title: "Manage your payment methods"
+title: "Add, update, or remove your payment methods"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -24,7 +24,7 @@ ms.assetid: 30ba9c83-50d8-4020-90ed-830a5b8c8724
 description: "Learn how to manage your payment methods in the Microsoft 365 admin center."
 ---
 
-# Manage your payment methods
+# Add, update, or remove your payment methods
 
 ::: moniker range="o365-worldwide"
 You can purchase products and services from Microsoft using a credit or debit card, or bank account. You can enter your payment information on the **Payment methods** page, or when you make a purchase.
@@ -83,7 +83,7 @@ If your payment method is not associated with any subscriptions, you can immedia
 2. Choose the card or bank account to delete.
 3. At the bottom of the **Payment method details** pane, choose **Delete**.
 
-### Add an alternate payment method
+### Add an alternate payment method used to pay for subscriptions
 
 If your payment method is associated with any subscriptions and you do not have an alternate payment method on file, you must first add a new payment method, and then change the one used to pay for the subscriptions. Then you can delete the payment method.
 
@@ -117,8 +117,8 @@ If your payment method is associated with a billing profile and is not also used
 1. In the admin center, go to the **Billing** > **Bills &amp; payments** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2103629" target="_blank">Billing profiles</a> page.
 2. Choose the billing profile you want to update.
 3. On the billing profile details page, under **Payment method**, choose **Edit**.
-4. If you have another payment method saved, choose it from the **Select a payment method** drop down, then choose **Save**.
-5. If you need to add an alternate payment method, choose **Add a payment method**. Enter your account information, then choose **Add**.
+4. If you need to add an alternate payment method, choose **Add a payment method**. Enter your account information, then choose **Add**.
+5. From the **Select a payment method** drop down, choose a different payment method, then choose **Save**.
 6. Follow the steps in [Delete a payment method](#delete-a-payment-method) above to finish removing the payment method.
 
 ### Change the payment method used for both a billing profile and subscriptions
