@@ -42,7 +42,9 @@ You can access detailed reports for each area by selecting the data tables. You 
 
 ## Executive summary
 
-The executive summary is a high-level, at-a-glance view of Microsoft 365 for Business adoption, usage, mobility, communication, collaboration, and storage reports, and is meant for business decision makers. It provides a view into how some individual services are being used based on all the users who have been enabled, and of those users, those who are active. All values of the month shown on the report refer to the latest complete month. This summary lets you quickly understand usage patterns in Office and how and where your employees are collaborating.
+The executive summary is a high-level, at-a-glance view of Microsoft 365 for Business adoption, usage, mobility, communication, collaboration, and storage reports, and is meant for business decision makers. It provides a view into how some individual services are being used, based on all the users who have been enabled and those who are active. All values of the month shown on the report refer to the latest complete month. 
+
+This summary lets you quickly understand usage patterns in Office and how and where your employees are collaborating.
 
 ![Image of the Office 365 usage executive summary.](../media/office365usage-exec-summary.png)
 
@@ -50,25 +52,25 @@ The executive summary is a high-level, at-a-glance view of Microsoft 365 for Bus
 
 The Microsoft 365 overview report contains the following reports. You can view them by choosing the tab on top of the report page. All values of the month shown on the top section of the report refer to the latest complete month.
 
-- **Adoption** — Offers an all-up summary of adoption trends. Use the reports in this section to learn how your users have adopted Microsoft 365, as well as how overall usage of the individual services has changed month over month. You can see how may users are enabled, how many people in your organization are actively using Microsoft 365, how many are returning users, and how many are using the product for the first time.
+- **Adoption** &ndash; Offers an all-up summary of adoption trends. Use the reports in this section to learn how your users have adopted Microsoft 365, as well as how overall usage of the individual services has changed month over month. You can see how may users are enabled, how many people in your organization are actively using Microsoft 365, how many are returning users, and how many are using the product for the first time.
 
-- **Usage** - Offers a drill-down view into the volume of active users and the key activities for each product for the last 12 months. Use the reports in this section to learn how people in your organization are using Microsoft 365.
+- **Usage** &ndash; Offers a drill-down view into the volume of active users and the key activities for each product for the last 12 months. Use the reports in this section to learn how people in your organization are using Microsoft 365.
 
-- **Communication** — You can see at a glance whether people in your organization prefer to stay in touch by using Teams, Yammer, email, or Skype calls. You can observe if there are shifts in patterns in the use of communication tools among your employees. 
+- **Communication** &ndash; You can see at a glance whether people in your organization prefer to stay in touch by using Teams, Yammer, email, or Skype calls. You can observe if there are shifts in patterns in the use of communication tools among your employees. 
 
-- **Collaboration** — See how people in your organization use OneDrive and SharePoint to store documents and collaborate with each other, and how these trends evolve month over month. You can also see how many documents are shared internally or externally and how many SharePoint sites or OneDrive accounts are actively being used, broken out by owners and other collaborators.
+- **Collaboration** &ndash; See how people in your organization use OneDrive and SharePoint to store documents and collaborate with each other, and how these trends evolve month over month. You can also see how many documents are shared internally or externally and how many SharePoint sites or OneDrive accounts are actively being used, broken out by owners and other collaborators.
 
-- **Storage** — Use this report to track cloud storage for mailboxes, OneDrive, and SharePoint sites.
+- **Storage** &ndash; Use this report to track cloud storage for mailboxes, OneDrive, and SharePoint sites.
 
-- **Mobility** — Track which clients and devices people use to connect to email, Teams, Skype, or Yammer.
+- **Mobility** &ndash; Track which clients and devices people use to connect to email, Teams, Skype, or Yammer.
 
 ## Activation and licensing
 
 The activation and license page offers reports on Microsoft 365 activation; that is, how many users have downloaded and activated Office apps and how many licenses have been assigned by your organization. The month value towards the top refers to the current month, and the metrics reflect values aggregated from the beginning of the month to the current date.
 
-- **Activation** — Track service plan (for example, Office 365 ProPlus, Project, and Visio) activations in your organization. Each person with an Office license can install products on up to five devices. You can also use reports in this section to see the devices on which people have installed Office apps. Note that to activate a plan, a user must install the app and sign in with their account.
+- **Activation** &ndash; Track service plan (for example, Office 365 ProPlus, Project, and Visio) activations in your organization. Each person with an Office license can install products on up to five devices. You can also use reports in this section to see the devices on which people have installed Office apps. Note that to activate a plan, a user must install the app and sign in with their account.
 
-- **Licensing** —  This report contains an overview of license types, the count of users who were assigned each license type, and the license assignment distribution for each month. The month value towards the top refers to the current month, and the metrics reflect values aggregated from the beginning of the month to the current date.
+- **Licensing** &ndash; This report contains an overview of license types, the count of users who were assigned each license type, and the license assignment distribution for each month. The month value towards the top refers to the current month, and the metrics reflect values aggregated from the beginning of the month to the current date.
 
 ## Product usage
 
@@ -124,7 +126,6 @@ The data in the content pack currently covers the same set of activity metrics a
 
 ### How does the data in the content pack differ from the data in the usage reports?
 
-
 The underlying data you see in the content pack matches the data you see in the activity reports in the Microsoft 365 admin center. The key differences are that in the admin center data is available for the last 7/30/90/180 days while the content pack presents data on a monthly basis for up to 12 months.
 
 In addition, user level details in the content pack are only available for the last complete month for users who were assigned a product license and performed an activity.
@@ -160,7 +161,6 @@ Major changes to the content pack will be released twice a year which may includ
 ### Is it possible to integrate the data from the content pack into existing solutions? 
 
 The data in the content pack can be retrieved through the Office 365 APIs (in preview). When they ship to production they will be merged within the [Microsoft Graph reporting APIs](https://go.microsoft.com/fwlink/p/?linkid=848843). 
-
 
 ### Are there plans to expand the content pack to show usage data from other Microsoft products?
 
@@ -207,7 +207,3 @@ If a partner has delegated admin rights, he or she can connect to the content pa
 ### Can I hide identifiable information such as user, group, and site names in reports?
 
 Yes, see [Make the collected data anonymous](enable-usage-analytics.md#make-the-collected-data-anonymous).
-
-
-  
-
