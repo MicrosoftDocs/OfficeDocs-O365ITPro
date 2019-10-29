@@ -1,8 +1,8 @@
 ---
 title: "Assign admin roles the Microsoft 365 admin center"
-ms.author: anfowler
-author: adefowler
-manager: shohara
+ms.author: kwekua
+author: kwekua
+manager: scotv
 audience: Admin
 ms.topic: get-started-article
 f1_keywords:
