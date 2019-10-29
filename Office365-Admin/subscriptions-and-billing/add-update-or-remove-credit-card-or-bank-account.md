@@ -51,7 +51,7 @@ You can't change the number on an existing card or bank account. If for some rea
 3. To change the card or bank account information, choose **Edit payment details**.
 4. Update your card or bank account information (name on the card or bank account, billing address, phone number, or expiration date) as needed, then choose **Save** > **Done**.
 
-## Change the payment method used to pay for subscriptions
+## Change a payment method
 
 You can change the payment method that is used to pay for a single subscription, or you can move all subscriptions from one payment method to another.
 
@@ -126,8 +126,8 @@ If your payment method is associated with a billing profile and is not also used
 If your payment method is associated with a billing profile and is also used to directly pay for any subscriptions, you must first change the payment method associated with the billing profile, and then change the payment method used to pay for the subscriptions. Then you can delete the payment method.
 
 1. Follow steps 1-5 in [Change the payment method for a billing profile](#change-the-payment-method-for-a-billing-profile) above.
-2. If you have no alternate payment method, follow the steps in [Add an alternate payment method](#add-an-alternate-payment-method) above.
-3. If you already have other payment methods available, follow the steps in [Change the payment method used to pay for subscriptions](#change-the-payment-method-used-to-pay-for-subscriptions) above.
+2. If you have no alternate payment method, follow the steps in [Add an alternate payment method used to pay for subscriptions](#add-an-alternate-payment-method-used-to-pay-for-subscriptions) above.
+3. If you already have other payment methods available, follow the steps in [Change a payment method](#change-a-payment-method) above.
 
 ## Troubleshoot payment methods
 
@@ -135,7 +135,7 @@ If your payment method is associated with a billing profile and is also used to 
 |:-----|:-----|
 |**I get an error message that says, "The browser is currently set to block cookies."** <br/> |Set your browser to allow third-party cookies and try again.  <br/> |
 |**My credit or debit card was declined.** <br/> |If you pay by credit or debit card, and your card is declined, you'll receive an email letting you know that we were unable to process the payment. Double-check that the card details - card number, expiration date, name on the card, and address, including city, state, and ZIP code - appear exactly as they do on the card and your statement. You can update your card information and immediately submit the payment by using the **Settle balance** link in the **Billing** section of the subscription details page. For more information, see [What if my credit card was declined and my payment is past due?](pay-for-your-subscription.md#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).  <br/><br/>  If you continue to see the "declined" message, contact your bank. It's possible that your card isn't active—for example, if you recently received the card in the mail with an updated expiration date, you may still need to activate it. Your bank can also tell you if your card is not approved for online, international, or recurring transactions.  <br/> |
-|**I need to update a card or bank account number.** <br/> |You can't change the number on an existing card or bank account. If your card or bank account number has changed, add a new card number or bank account, move any active subscriptions from the old card or account to the new one, and then delete the old card or account. For steps to do this, see [Add a new payment method](#add-a-new-payment-method) or [Change the payment method used to pay for subscriptions](#change-the-payment-method-used-to-pay-for-subscriptions). |
+|**I need to update a card or bank account number.** <br/> |You can't change the number on an existing card or bank account. If your card or bank account number has changed, add a new card number or bank account, move any active subscriptions from the old card or account to the new one, and then delete the old card or account. For steps to do this, see [Add a new payment method](#add-a-new-payment-method) or [Change a payment method](#change-a-payment-method). |
 |**I only have one card or bank account on my account and I want to remove it.** <br/> |If you only have one card or bank account, you'll get an error message when you try to remove it. To fix this, make sure that you're using a different payment method to pay for all your subscriptions, then try removing the card or bank account again.  <br/> |
 |**I can't add my card or bank account.** <br/> |If you have trouble entering your card or bank account information, you can [contact support](../contact-support-for-business-products.md).  <br/> |
 
