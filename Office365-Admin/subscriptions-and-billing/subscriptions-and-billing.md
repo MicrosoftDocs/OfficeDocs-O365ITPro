@@ -192,8 +192,8 @@ Get admin help with billing in Office 365 for business.
                         <h3>Manage licenses</h3>
                         <p><a href="subscriptions-and-licenses.md">Understand subscriptions and licenses</a></p>
                         <p><a href="buy-licenses.md">Buy licenses for your subscription</a></p>
-                        <p><a href="assign-licenses-to-users.md">Assign licenses to users</a></p>
-                        <p><a href="remove-licenses-from-users.md">Remove licenses from users</a></p>
+                        <p><a href="../manage/assign-licenses-to-users.md">Assign licenses to users</a></p>
+                        <p><a href="../manage/remove-licenses-from-users.md">Unassign licenses from users</a></p>
                         <p><a href="remove-licenses-from-subscription.md">Remove licenses from your subscription</a></p>
                         <p><a href="resolve-license-conflicts.md">Resolve license conflicts</a></p>
                     </div>
