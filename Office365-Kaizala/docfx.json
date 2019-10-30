@@ -41,7 +41,8 @@
       "breadcrumb_path": "/Office365/Kaizala/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "searchScope": ["Office 365 Kaizala"],
-      "feedback_system": "none"
+      "feedback_system": "none",
+      "hide_edit": true
     },
     "fileMetadata": {},
     "template": [],
