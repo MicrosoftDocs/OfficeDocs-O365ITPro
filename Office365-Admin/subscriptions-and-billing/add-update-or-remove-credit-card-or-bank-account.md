@@ -27,12 +27,12 @@ description: "Learn how to manage your payment methods in the Microsoft 365 admi
 # Add, update, or remove your payment methods
 
 ::: moniker range="o365-worldwide"
-You can purchase products and services from Microsoft by using a credit or debit card, or bank account. You can enter your payment information on the **Payment methods** page, or when you make a purchase.
+You can purchase products and services from Microsoft with a credit or debit card, or bank account. You can enter your payment information on the **Payment methods** page, or when you make a purchase.
 
 You can only manage payment methods that you've added.
 
 > [!NOTE]
-> Paying by using a bank account is not available in some countries or regions.
+> The option to pay with a bank account is not available in some countries or regions.
 >
 > You must use a credit card issued from the same country as your tenant.
 
@@ -120,7 +120,7 @@ If your payment method is associated with a billing profile and isn't also used 
 3. On the billing profile details page, under **Payment method**, select **Edit**.
 4. If you add an alternate payment method, select **Add a payment method**. Enter your account information, then select **Add**.
 5. From the **Select a payment method** drop-down, select a different payment method, then select **Save**.
-6. To finish removing the payment method, follow the steps in [Delete a payment method](#delete-a-payment-method).
+6. Follow the steps in [Delete a payment method](#delete-a-payment-method).
 
 ### Change the payment method used for both a billing profile and subscriptions
 
@@ -136,7 +136,7 @@ If your payment method is associated with a billing profile and is also used to 
 |:-----|:-----|
 |**I get an error message that says, "The browser is currently set to block cookies."** <br/> |Set your browser to allow third-party cookies and try again.  <br/> |
 |**My credit or debit card was declined.** <br/> |If you pay by credit or debit card, and your card is declined, you receive an email that says Microsoft was unable to process the payment. Double-check that the card details &mdash; card number, expiration date, name on the card, and address, including city, state, and ZIP code — appear exactly as they do on the card and your statement. You can update your card information and immediately submit the payment by using the **Settle balance** link in the **Billing** section of the subscription details page. For more information, see [What if my credit card was declined and my payment is past due?](pay-for-your-subscription.md#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).  <br/><br/>  If you continue to see the "declined" message, contact your bank. It's possible that your card isn't active. If you recently received the card in the mail with an updated expiration date, make sure it's activated. Your bank can also tell you whether your card isn't approved for online, international, or recurring transactions.  <br/> |
-|**I need to update a card or bank account number.** <br/> |You can't change the number on an existing card or bank account. If your card or bank account number has changed, add another card number or bank account. Next, move any active subscriptions from the old card or account to the new one. Then delete the old card or account. For more information, see [Add a payment method](#add-a-payment-method) or [Change a payment method](#change-a-payment-method). |
+|**I want to update a card or bank account number.** <br/> |You can't change the number on an existing card or bank account. If your card or bank account number has changed, add another card number or bank account. Next, move any active subscriptions from the old card or account to the new one. Then delete the old card or account. For more information, see [Add a payment method](#add-a-payment-method) or [Change a payment method](#change-a-payment-method). |
 |**I only have one card or bank account on my account and I want to remove it.** <br/> |If you only have one card or bank account, you see an error message when you try to remove it. To fix the error, make sure that you're using a different payment method to pay for all your subscriptions, then try removing the card or bank account again.  <br/> |
 |**I can't add my card or bank account.** <br/> |If you have trouble entering your card or bank account information, you can [contact support](../contact-support-for-business-products.md).  <br/> |
 
@@ -151,7 +151,7 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
  **For Office 365 Home, or Personal**, see [Change the payment method or credit card linked to your Microsoft account](https://support.microsoft.com/help/4026594).
   
 > [!NOTE]
-> Paying by using a bank account is not available in some countries or regions.
+> The option to pay with a bank account is not available in some countries or regions.
 >
 > You must use a credit card issued from the same country as your tenant.
 
@@ -184,7 +184,7 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
  **For Office 365 Home, or Personal**, see [Change the payment method or credit card linked to your Microsoft account](https://support.microsoft.com/help/4026594).
   
 > [!NOTE]
-> Paying by using a bank account is not available in some countries or regions.
+> The option to pay with a bank account is not available in some countries or regions.
 >
 > You must use a credit card issued from the same country as your tenant.
 
@@ -270,7 +270,7 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 
     ![The Payment method section of the Subscription page that shows the Update payment details link.](../media/03839d72-773c-4030-88d0-484d1efe49c5.png)
   
-3. Select the drop-down arrow under **Add or select a payment method**. 
+3. Select the drop-down arrow under **Add or select a payment method**.
 
 4. Select the credit card or bank account, then select **Remove**.
 
@@ -296,7 +296,7 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 
     ![The Payment method section of the Subscription page that shows the Update payment details link.](../media/03839d72-773c-4030-88d0-484d1efe49c5.png)
   
-3. Select the drop-down arrow under **Add or select a payment method**. 
+3. Select the drop-down arrow under **Add or select a payment method**.
 
 4. Select the credit card or bank account, then select **Remove**.
 
@@ -312,7 +312,7 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
     > To remove the credit card or bank account, select **Back** and follow the steps in this article to change the credit card or bank account that you use to pay for the subscription. Then try removing the credit card or bank account again.
 
 ::: moniker-end
- 
+
 ::: moniker range="o365-21vianet"
 ## Change the credit card or bank account used to pay for a subscription
 
@@ -353,8 +353,8 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 |**Issue**|**Troubleshooting steps**|
 |:-----|:-----|
 |**I get an error message that says "The browser is currently set to block cookies."** <br/> |Set your browser to allow third-party cookies and try again.  <br/> |
-|**My credit card was declined.** <br/> |If you pay by credit card, and your credit card is declined, you receive an email that we were unable to process the payment. Verify that the credit card details (card number, expiration date, name on the credit card, and address, including city, state, and ZIP code) appear exactly as they do on the credit card and your credit card statement. You can update your credit card information and immediately submit the payment by using the **Pay now** feature. For more information, see [What if my credit card was declined and my payment is past due?](pay-for-your-subscription.md#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).  <br/><br/>  If you continue to see the "declined" message, contact your bank. It's possible that your credit card isn't active. If you recently received the credit card in the mail with an updated expiration date, make sure it's activated. Your bank can also tell you if your credit card isn't approved for online, international, or recurring transactions.  <br/> |
-|**I need to update a credit card or bank account number.** <br/> |You can't change the number on an existing credit card or bank account. If your credit card or bank account number has changed, [add a new credit card or bank account](#add-a-credit-card-or-bank-account), [change your subscription to that payment method](#change-the-credit-card-or-bank-account-used-to-pay-for-a-subscription), and then [delete the old credit card or bank account](#remove-a-credit-card-or-bank-account). |
+|**My credit card was declined.** <br/> |If you pay by credit card, and your credit card is declined, you receive an email that we were unable to process the payment. Verify that the credit card details (card number, expiration date, name on the credit card, and address, including city, state, and ZIP code) appear exactly as they do on the credit card and your credit card statement. You can update your credit card information and immediately submit the payment by using the **Pay now** feature. For more information, see [What if my credit card was declined and my payment is past due?](pay-for-your-subscription.md#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).  <br/><br/>  If you continue to see the "declined" message, contact your bank. It's possible that your credit card isn't active. If you recently received the credit card in the mail with an updated expiration date, make sure it's activated. Your bank can also tell you whether your credit card isn't approved for online, international, or recurring transactions.  <br/> |
+|**I want to update a credit card or bank account number.** <br/> |You can't change the number on an existing credit card or bank account. If your credit card or bank account number has changed, [add a new credit card or bank account](#add-a-credit-card-or-bank-account), [change your subscription to that card or bank account](#change-the-credit-card-or-bank-account-used-to-pay-for-a-subscription), and then [delete the old credit card or bank account](#remove-a-credit-card-or-bank-account). |
 |**I only have one credit card or bank account on my account and I want to remove it.** <br/> |If you only have one credit card or bank account, you see an error message when you try to remove it. To fix error, make sure that you're using a different payment method to pay for all of your subscriptions, then try removing the credit card or bank account again.  <br/> |
 |**I can't add my credit card or bank account.** <br/> |If you have trouble entering your credit card or bank account information, you can [contact support](../contact-support-for-business-products.md).  <br/> |
 
@@ -366,8 +366,8 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 |**Issue**|**Troubleshooting steps**|
 |:-----|:-----|
 |**I get an error message that says "The browser is currently set to block cookies."** <br/> |Set your browser to allow third-party cookies and try again.  <br/> |
-|**My credit card was declined.** <br/> |If you pay by credit card, and your credit card is declined, you receive an email that we were unable to process the payment. Verify that the credit card details (card number, expiration date, name on the credit card, and address, including city, state, and ZIP code) appear exactly as they do on the credit card and your credit card statement. You can update your credit card information and immediately submit the payment by using the **Pay now** feature. For more information, see [What if my credit card was declined and my payment is past due?](pay-for-your-subscription.md#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).  <br/><br/>  If you continue to see the "declined" message, contact your bank. It's possible that your credit card isn't active. If you recently received the credit card in the mail with an updated expiration date, make sure it's activated. Your bank can also tell you if your credit card isn't approved for online, international, or recurring transactions.  <br/> |
-|**I need to update a credit card or bank account number.** <br/> |You can't change the number on an existing credit card or bank account. If your credit card or bank account number has changed, [add a new credit card or bank account](#add-a-credit-card-or-bank-account-1), [Change the credit card or bank account that you're using to pay for a subscription (1)](#change-the-credit-card-or-bank-account-used-to-pay-for-a-subscription-1), and then [delete the old credit card or bank account](#remove-a-credit-card-or-bank-account-1). |
+|**My credit card was declined.** <br/> |If you pay by credit card, and your credit card is declined, you receive an email that we were unable to process the payment. Verify that the credit card details (card number, expiration date, name on the credit card, and address, including city, state, and ZIP code) appear exactly as they do on the credit card and your credit card statement. You can update your credit card information and immediately submit the payment by using the **Pay now** feature. For more information, see [What if my credit card was declined and my payment is past due?](pay-for-your-subscription.md#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).  <br/><br/>  If you continue to see the "declined" message, contact your bank. It's possible that your credit card isn't active. If you recently received the credit card in the mail with an updated expiration date, make sure it's activated. Your bank can also tell you whether your credit card isn't approved for online, international, or recurring transactions.  <br/> |
+|**I want to update a credit card or bank account number.** <br/> |You can't change the number on an existing credit card or bank account. If your credit card or bank account number has changed, [add a new credit card or bank account](#add-a-credit-card-or-bank-account-1), [change your subscription to that the credit card or bank account](#change-the-credit-card-or-bank-account-used-to-pay-for-a-subscription-1), and then [delete the old credit card or bank account](#remove-a-credit-card-or-bank-account-1). |
 |**I only have one credit card or bank account on my account and I want to remove it.** <br/> |If you only have one credit card or bank account, you see an error message when you try to remove it. To fix error, make sure that you're using a different payment method to pay for all of your subscriptions, then try removing the credit card or bank account again.  <br/> |
 |**I can't add my credit card or bank account.** <br/> |If you have trouble entering your credit card or bank account information, you can [contact support](../contact-support-for-business-products.md).  <br/> |
 
