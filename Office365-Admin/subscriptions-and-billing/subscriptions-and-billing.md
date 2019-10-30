@@ -39,7 +39,7 @@ Get admin help with billing in Office 365 for business.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/Office/media/icons/bill.svg" alt="View your bill" />
+                            <img src="https://docs.microsoft.com/Office/media/icons/bill.svg" alt="View your bill" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -57,11 +57,11 @@ Get admin help with billing in Office 365 for business.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/credit-card.svg" alt="Credit cards" />
+                            <img src="https://docs.microsoft.com/office/media/icons/credit-card.svg" alt="Credit cards" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Manage credit cards or bank accounts</h3>
+                        <h3>Manage payment methods</h3>
                     </div>
                 </div>
             </div>
@@ -75,7 +75,7 @@ Get admin help with billing in Office 365 for business.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/users-people.svg" alt="Assign licenses" />
+                            <img src="https://docs.microsoft.com/office/media/icons/users-people.svg" alt="Assign licenses" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -95,7 +95,7 @@ Get admin help with billing in Office 365 for business.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/renew.svg" alt="Renew your subscription" />
+                            <img src="https://docs.microsoft.com/office/media/icons/renew.svg" alt="Renew your subscription" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -113,7 +113,7 @@ Get admin help with billing in Office 365 for business.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/cancel.svg" alt="Cancel" />
+                            <img src="https://docs.microsoft.com/office/media/icons/cancel.svg" alt="Cancel" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -131,7 +131,7 @@ Get admin help with billing in Office 365 for business.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/headset.svg" alt="Contact support" />
+                            <img src="https://docs.microsoft.com/office/media/icons/headset.svg" alt="Contact support" />
                         </div>
                     </div>
                     <div class="cardText">
