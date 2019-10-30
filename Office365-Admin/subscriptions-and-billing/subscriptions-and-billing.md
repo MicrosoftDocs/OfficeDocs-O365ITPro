@@ -61,7 +61,7 @@ Get admin help with billing in Office 365 for business.
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Manage credit cards or bank accounts</h3>
+                        <h3>Manage payment methods</h3>
                     </div>
                 </div>
             </div>
