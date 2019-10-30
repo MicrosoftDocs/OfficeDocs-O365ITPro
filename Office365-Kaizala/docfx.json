@@ -42,7 +42,7 @@
       "extendBreadcrumb": true,
       "searchScope": ["Office 365 Kaizala"],
       "feedback_system": "none",
-      "hide_edit": true
+      "hideEdit": true
     },
     "fileMetadata": {},
     "template": [],
