@@ -98,7 +98,7 @@
 ### [View your bill or invoice](subscriptions-and-billing/view-your-bill-or-invoice.md)
 ### [Understand your invoice](subscriptions-and-billing/understand-your-invoice.md)
 ### [Pay for your subscription](subscriptions-and-billing/pay-for-your-subscription.md)
-### [Add, update, or remove credit card or bank account](subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account.md)
+### [Add, update, or remove payment methods](subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account.md)
 ### [Change payment method](subscriptions-and-billing/change-payment-method.md)
 ### [Change your billing addresses](subscriptions-and-billing/change-your-billing-addresses.md)
 ### [What tax will I be charged?](subscriptions-and-billing/what-tax-will-i-be-charged.md)

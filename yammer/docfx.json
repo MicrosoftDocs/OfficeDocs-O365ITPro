@@ -41,7 +41,8 @@
       "breadcrumb_path": "/Yammer/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "searchScope": ["Yammer"],
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "hideEdit": true
     },
     "fileMetadata": {},
     "template": [],

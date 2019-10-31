@@ -43,7 +43,8 @@
       "searchScope": [
         "Office 365 Planner"
       ],
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "hideEdit": true
     },
     "fileMetadata": {},
     "titleSuffix": "Microsoft Planner",
