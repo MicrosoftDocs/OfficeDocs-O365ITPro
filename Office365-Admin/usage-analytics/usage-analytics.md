@@ -48,13 +48,13 @@ This summary lets you quickly understand usage patterns in Office and how and wh
 
 ![Image of the Office 365 usage executive summary.](../media/office365usage-exec-summary.png)
 
-## O365 Overview
+## Overview
 
-The Microsoft 365 overview report contains the following reports. You can view them by choosing the tab on top of the report page. All values of the month shown on the top section of the report refer to the latest complete month.
+The Office 365 overview report contains the following reports. You can view them by choosing the tab on top of the report page. All values of the month shown on the top section of the report refer to the latest complete month.
 
-- **Adoption** &ndash; Offers an all-up summary of adoption trends. Use the reports in this section to learn how your users have adopted Microsoft 365, as well as how overall usage of the individual services has changed month over month. You can see how may users are enabled, how many people in your organization are actively using Microsoft 365, how many are returning users, and how many are using the product for the first time.
+- **Adoption** &ndash; Offers an all-up summary of adoption trends. Use the reports in this section to learn how your users have adopted Office 365, as well as how overall usage of the individual services has changed month over month. You can see how may users are enabled, how many people in your organization are actively using Office 365, how many are returning users, and how many are using the product for the first time.
 
-- **Usage** &ndash; Offers a drill-down view into the volume of active users and the key activities for each product for the last 12 months. Use the reports in this section to learn how people in your organization are using Microsoft 365.
+- **Usage** &ndash; Offers a drill-down view into the volume of active users and the key activities for each product for the last 12 months. Use the reports in this section to learn how people in your organization are using Office 365.
 
 - **Communication** &ndash; You can see at a glance whether people in your organization prefer to stay in touch by using Teams, Yammer, email, or Skype calls. You can observe if there are shifts in patterns in the use of communication tools among your employees. 
 
@@ -66,7 +66,7 @@ The Microsoft 365 overview report contains the following reports. You can view t
 
 ## Activation and licensing
 
-The activation and license page offers reports on Microsoft 365 activation; that is, how many users have downloaded and activated Office apps and how many licenses have been assigned by your organization. The month value towards the top refers to the current month, and the metrics reflect values aggregated from the beginning of the month to the current date.
+The activation and license page offers reports on Office 365 activation; that is, how many users have downloaded and activated Office apps and how many licenses have been assigned by your organization. The month value towards the top refers to the current month, and the metrics reflect values aggregated from the beginning of the month to the current date.
 
 - **Activation** &ndash; Track service plan (for example, Office 365 ProPlus, Project, and Visio) activations in your organization. Each person with an Office license can install products on up to five devices. You can also use reports in this section to see the devices on which people have installed Office apps. Note that to activate a plan, a user must install the app and sign in with their account.
 
@@ -74,7 +74,7 @@ The activation and license page offers reports on Microsoft 365 activation; that
 
 ## Product usage
 
-This report contains a separate report for each Microsoft 365 service, including Exchange, Microsoft 365 groups, OneDrive, SharePoint, Skype, Teams, and Yammer. Each report contains total enabled vs. total active user reports, counts of entities such as mailboxes, sites, groups, and accounts, as well as activity type reports where appropriate. All values of the month shown on the top section of the report refer to the latest complete month.
+This report contains a separate report for each Office 365 service, including Exchange, Office 365 groups, OneDrive, SharePoint, Skype, Teams, and Yammer. Each report contains total enabled vs. total active user reports, counts of entities such as mailboxes, sites, groups, and accounts, as well as activity type reports where appropriate. All values of the month shown on the top section of the report refer to the latest complete month.
 
 ## User activity
 
