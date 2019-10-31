@@ -36,8 +36,17 @@ Cortana services are broken into two data categories, **compliant** and **option
 
 ## Turn off Cortana optional connected services
 
-Cortana optional connected services can be turned off for employees at your organization by clearing the Cortana checkbox in the Admin Center. This will disable Cortana optional connected services in Cortana on Windows and the Cortana mobile app. This includes Cortana reminders, lists, tasks, and other features. 
-Services in the compliant category (i.e., Cortana OST experiences), such as Cortana’s Briefing email, and Play My Emails in Outlook mobile, will remain active.
+Cortana optional connected services can be turned off for employees at your organization. This will disable Cortana optional connected services in Cortana on Windows and the Cortana mobile app. This includes Cortana reminders, lists, tasks, and other features. Services in the compliant category (i.e., Cortana OST experiences), such as Cortana’s Briefing email, and Play My Emails in Outlook mobile, will remain active.
+
+1. In the Microsoft 365 admin center, select **Settings**.
+
+2. Choose **Services & add-ins** and then **Cortana**.
+  
+3. Move the toggle to off on the accounts you want to disable.
+
+4. Select the checkbox for **Let people in your organization use Cortana**.
+
+5. Select **Save changes**.
 
 ## Turn off Cortana OST experiences
 
