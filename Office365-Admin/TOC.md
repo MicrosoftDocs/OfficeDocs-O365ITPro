@@ -58,8 +58,8 @@
 ### [Set up multi-factor authentication](security-and-compliance/set-up-multi-factor-authentication.md)
 ### [Set up multi-factor authentication (with Office 2013)](security-and-compliance/enable-modern-authentication.md)
 ### [GDPR compliance](security-and-compliance/gdpr-compliance.md)
-## Activity reports and analytics
-### [Activity reports overview](activity-reports/activity-reports.md)
+## [Activity reports in the admin center](activity-reports/activity-reports.md)
+## PowerBi usage analytics
 ### [Usage analytics](usage-analytics/usage-analytics.md)
 ### [Enable usage analytics](usage-analytics/enable-usage-analytics.md)
 ### [Get the latest version of usage analytics](usage-analytics/get-the-latest-version-of-usage-analytics.md)
@@ -97,7 +97,7 @@
 ### [View your bill or invoice](subscriptions-and-billing/view-your-bill-or-invoice.md)
 ### [Understand your invoice](subscriptions-and-billing/understand-your-invoice.md)
 ### [Pay for your subscription](subscriptions-and-billing/pay-for-your-subscription.md)
-### [Add, update, or remove credit card or bank account](subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account.md)
+### [Add, update, or remove payment methods](subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account.md)
 ### [Change payment method](subscriptions-and-billing/change-payment-method.md)
 ### [Change your billing addresses](subscriptions-and-billing/change-your-billing-addresses.md)
 ### [What tax will I be charged?](subscriptions-and-billing/what-tax-will-i-be-charged.md)

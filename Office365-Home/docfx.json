@@ -37,7 +37,9 @@
       "extendBreadcrumb": true,
       "searchScope": [
         "Office 365"
-      ]
+      ],
+      "feedback_system": "None",
+      "hideEdit": true
     },
     "fileMetadata": {},
     "template": [],
