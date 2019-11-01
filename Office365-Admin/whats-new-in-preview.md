@@ -41,11 +41,11 @@ There have been a lot of changes for Roles in the admin center since we started 
 
 - **Compare roles** - Select up to 3 roles to compare the permissions for each one. This will help you find the least permissive role to assign to users. Go to **Roles**, use the multi-select checkbox in the first column to choose up to 3 roles, and then select **Compare roles**.
 
-![Comparing the Exchange admin, Helpdesk admin, and User admin roles.](media/RBAC-CompareRoles.png)
+    ![Comparing the Exchange admin, Helpdesk admin, and User admin roles.](media/RBAC-CompareRoles.png)
 
 - **Favorites** - You can add a star to your favorite or most-used roles, so that you can easily find them by sorting the column or creating a filter.
 - **Active users** > **Manage roles** - This has been updated to align with the changes in Roles. As with the Roles list, we've scoped the default list of roles to the most useful, but you can see all roles by expanding **Show all by category**.
-- **Global reader role** - You asked for it! You got it! The [Global reader](add-users/about-admin-roles.md#roles-available-in-the-microsoft-365-admin-center) role! 
+- **Global reader role** - You asked for it! You got it! The [Global reader](add-users/about-admin-roles.md#roles-available-in-the-microsoft-365-admin-center) role!
 
 ### Report an issue
 
