@@ -57,7 +57,7 @@ Of course, check back on this article's history to get a glance of ALL the chang
 
 - **Manage viral subscriptions** - As you know, users can turn on free subscriptions to a myriad of products like Power BI and App Connect. You can now see the "viral subscriptions" that your users have been trying. Go to **Billing** > **Products & services**. Select the Account type filter on the subscriptions tab to see the user-purchased subscriptions -- And delete them!
 
-## User templates
+### User templates
 
 Templates allow you to easily add many users by saving and reusing the shared settings for these users. You can save values for roles, licenses assigned, contact information, location, and more. When you use the template to create a new user, they will automatically get the saved value for these settings. Go to **Users** > **Active users**, and then select **User templates** to try it out.
 
