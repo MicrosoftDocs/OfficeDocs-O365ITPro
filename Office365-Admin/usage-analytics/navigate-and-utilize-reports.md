@@ -21,8 +21,6 @@ description: "Learn how to view the reports using navigation tabs and filters."
 
 # Navigate and utilize the reports in Microsoft 365 usage analytics
 
-## Navigate and utilize the reports in Microsoft 365 usage analytics
-
 The dashboard provides you with a quick overview of the main usage and adoption metrics. By selecting the top-level metrics, you can access reports that provide more details and insights. Each report tab contains data visualizations specific to an aspect of usage and adoption for your organization. The data collected is explained in the title of each report and a tile appears that contains further information about the visualizations on the report tab that you are viewing.
 
 To get started with your reports, here are some tips:
@@ -41,7 +39,6 @@ To get started with your reports, here are some tips:
 
     ![Shows a slicer](../media/navigate-usage-analytics4.png)
 
-    ![Shows a slicer](../media/navigate-usage-analytics5.png)
 
 - Hover over data points to view a callout that contains details.
 
@@ -53,7 +50,6 @@ The user who has instantiated the content pack will have the ability to customiz
 
     ![Shows Edit report](../media/navigate-usage-analytics7.png)
 
-    ![Shows report titles](../media/navigate-usage-analytics8.png)
 
 - Create your own visuals by using the underlying [datasets](usage-analytics-data-model.md).
 
