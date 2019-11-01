@@ -59,7 +59,7 @@ The user who has instantiated the content pack will have the ability to customiz
 
 - Use PowerBI Desktop to bring in your own data sources.
 
-To share your reports, just select the share button at the top of the page.
+To share your reports, just select the share button ![Power BI Share icon](../media/dbb0569d-2013-4f9d-ab9d-d01b09631b92.png) at the top of the page.
 
 To learn how to customize the reports, see [Customizing the reports in Microsoft 365 usage analytics](customize-reports.md).
 
