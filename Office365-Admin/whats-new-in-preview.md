@@ -47,15 +47,13 @@ There have been a lot of changes for Roles in the admin center since we started 
 - **Active users** > **Manage roles** - This has been updated to align with the changes in Roles. As with the Roles list, we've scoped the default list of roles to the most useful, but you can see all roles by expanding **Show all by category**.
 - **Global reader role** - You asked for it! You got it! The [Global reader](add-users/about-admin-roles.md#roles-available-in-the-microsoft-365-admin-center) role! 
 
-### Service health dashboard
+### Report an issue
 
 Service health has been updated to the new style and if you are impacted by an issue that is not showing up on your Service health dashboard, you can **Report an issue** to let Microsoft know. Go to **Health** > **Service health**.
 
-### Billing & subscriptions
+## "Viral" subscriptions
 
-Of course, check back on this article's history to get a glance of ALL the changes we've been making to Billing & subscriptions. And hang tight for the Ignite announcements.
-
-- **Manage viral subscriptions** - As you know, users can turn on free subscriptions to a myriad of products like Power BI and App Connect. You can now see the "viral subscriptions" that your users have been trying. Go to **Billing** > **Products & services**. Select the Account type filter on the subscriptions tab to see the user-purchased subscriptions -- And delete them!
+As you know, users can turn on free subscriptions to a myriad of products like Power BI and App Connect. You can now see the "viral subscriptions" that your users have been trying. Go to **Billing** > **Products & services**. Select the **Account type** filter on the subscriptions tab to see the user-purchased subscriptions -- And delete them!
 
 ### User templates
 
