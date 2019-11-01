@@ -49,9 +49,9 @@ To get started with your reports, here are some tips:
 
 The user who has instantiated the content pack will have the ability to customize the report to their needs. To customize the content pack:
 
-- Select the **Edit report** button at the top of the report.
+- Select **Edit report** at the top of the report.
 
-    ![Shows Edit report button](../media/navigate-usage-analytics7.png)
+    ![Shows Edit report](../media/navigate-usage-analytics7.png)
 
     ![Shows report titles](../media/navigate-usage-analytics8.png)
 
