@@ -22,7 +22,7 @@ ms.assetid: 7257cb50-0d5c-4f7a-ac2e-9fe5d13bb5cb
 description: "Learn how to use Cortana, when it is integrated with Office 365. You can turn off Cortana in the admin center to restrict its access to your organization's data. "
 ---
 
-# Cortana integration with Office 365
+# Cortana in Office 365
 
 Cortana is a cloud-based digital assistant and Microsoft 365 and Office 365 service that works across your devices and Microsoft services. Cortana can use information stored in Microsoft 365 and Office 365 to help people in your organization stay up to date and get insights, suggested tasks, and help with their meetings, documents, and contacts.
   
