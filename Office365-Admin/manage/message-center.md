@@ -23,7 +23,7 @@ description: "Get an overview of Office 365 Message center and its role in chang
 
 To keep track of upcoming changes, including new and changed features, planned maintenance, or other important announcements, go to <a href="https://go.microsoft.com/fwlink/p/?linkid=2070717" target="_blank">Message center</a>. That's where we post official announcements that let you take a proactive approach to change management. Each post gives you a high-level overview of a planned change and how it may affect your users, and links out to more detailed information to help you prepare.
   
-To open Message center:
+To open Message center, first make sure that you have selected the **Try the new admin center** toggle on the admin center Home page, and then:
 
 ::: moniker range="o365-worldwide"
 
