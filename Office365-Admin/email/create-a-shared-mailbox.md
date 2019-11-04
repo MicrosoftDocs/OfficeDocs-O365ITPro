@@ -293,7 +293,7 @@ Automapping is set on the user's mailbox, not the shared mailbox.
 
 This means if you try to use a security group to manage who has access to the shared mailbox, automapping won't work. So, if you want automapping, you have to assign permissions explicitly.
 
- By default, Automapping is enabled. The admin's can disable the automapping feature via powershell while granting access to the user.
+ Automapping is enabled by default. Admins can disable the automapping feature via PowerShell while granting access to the user.
 
 Run the following commands:
 
