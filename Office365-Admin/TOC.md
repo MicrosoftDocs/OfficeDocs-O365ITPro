@@ -87,7 +87,8 @@
 ### [Share calendars with external users](manage/share-calendars-with-external-users.md)
 ### [Assign licenses to users](manage/assign-licenses-to-users.md)
 ### [Unassign licenses from users](manage/remove-licenses-from-users.md)
-### [Resolve license conflicts](manage/resolve-license-conflicts.md)
+### [Resolve license conflicts](manage/resolve-license-conflicts.md) 
+### [Manage messages in the Message center](manage/manage-messages.md) 
 ## Subscriptions and billing
 ### [Manage your subscriptions](subscriptions-and-billing/subscriptions-and-billing.md)
 ### [Sign up for an Office 365 trial subscription](subscriptions-and-billing/sign-up-for-office-365-trial.md)
