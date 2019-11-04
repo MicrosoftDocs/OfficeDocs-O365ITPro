@@ -8,8 +8,9 @@
 ### [Learn about Office 365 Germany](admin-overview/learn-about-office-365-germany.md)
 ### [Admin Mobile App](admin-overview/admin-mobile-app.md)
 ## Setup
-### [Set up Office 365](setup/setup.md)
 ### [Plan your setup](setup/plan-your-setup.md)
+### [Set up Office 365](setup/setup.md)
+### [Difference between setup wizard and Setup page](setup/o365-setup-wizard-and-setup-page.md)
 ### [Add domain](setup/add-domain.md)
 ### [Domains FAQ](setup/domains-faq.md)
 ### [Install applications](setup/install-applications.md)
@@ -23,6 +24,7 @@
 ### [Customize your organization theme](setup/customize-your-organization-theme.md)
 ## Users and roles
 ### [Add users](add-users/add-users.md)
+### [Create and use a template to add users](add-users/create-and-use-a-template-to-add-users.md)
 ### [Delete a user](add-users/delete-a-user.md)
 ### [Restore user](add-users/restore-user.md)
 ### [Reset passwords](add-users/reset-passwords.md)
@@ -85,7 +87,8 @@
 ### [Share calendars with external users](manage/share-calendars-with-external-users.md)
 ### [Assign licenses to users](manage/assign-licenses-to-users.md)
 ### [Unassign licenses from users](manage/remove-licenses-from-users.md)
-### [Resolve license conflicts](manage/resolve-license-conflicts.md)
+### [Resolve license conflicts](manage/resolve-license-conflicts.md) 
+### [Manage messages in the Message center](manage/manage-messages.md) 
 ## Subscriptions and billing
 ### [Manage your subscriptions](subscriptions-and-billing/subscriptions-and-billing.md)
 ### [Sign up for an Office 365 trial subscription](subscriptions-and-billing/sign-up-for-office-365-trial.md)
