@@ -56,7 +56,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 3. In the right pane, select **OneDrive**. Under **Get access to files**, select **Create link to files**.
 
-4. Select the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. You can also share the link with another user to download the files.
+4. Select the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. 
 
     
 ### Use the old admin center to access a former user's OneDrive documents
@@ -81,7 +81,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 3. In the right pane, expand **OneDrive Settings**, and then next to **Access**, select **Access files**.
 
-4. Select the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. You can also share the link with another user to download the files.
+4. Select the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. 
 
 > [!NOTE]
 > You can move up to 500 MB of files and folders at a time.<br/>
