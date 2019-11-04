@@ -32,6 +32,43 @@ And if you're interested in what's new in other admin centers:
 - [What's new in the Microsoft 365 compliance center](https://docs.microsoft.com/Office365/SecurityCompliance/whats-new)
 - [What's new in the SharePoint admin center](https://docs.microsoft.com/sharepoint/what-s-new-in-admin-center)
 
+## October 2019 - Ignite Edition
+Welcome to the Ignite Edition of the What's new in the Microsoft 365 admin center! Of course, this isn't a complete list of announcements, but here are a few highlights:
+
+### Role-based access control 
+
+There have been a lot of changes for Roles in the admin center since we started rolling out in June:
+
+- **Compare roles** - Select up to 3 roles to compare the permissions for each one. This will help you find the least permissive role to assign to users. Go to **Roles**, use the multi-select checkbox in the first column to choose up to 3 roles, and then select **Compare roles**.
+
+    ![Comparing the Exchange admin, Helpdesk admin, and User admin roles.](media/RBAC-CompareRoles.png)
+
+- **Favorites** - You can add a star to your favorite or most-used roles, so that you can easily find them by sorting the column or creating a filter.
+- **Active users** > **Manage roles** - This has been updated to align with the changes in Roles. As with the Roles list, we've scoped the default list of roles to the most useful, but you can see all roles by expanding **Show all by category**.
+- **Global reader role** - You asked for it! You got it! The [Global reader](add-users/about-admin-roles.md#roles-available-in-the-microsoft-365-admin-center) role!
+
+### Report an issue
+
+Service health has been updated to the new style and if you are impacted by an issue that is not showing up on your Service health dashboard, you can **Report an issue** to let Microsoft know. Go to **Health** > **Service health**.
+
+## "Viral" subscriptions
+
+As you know, users can turn on free subscriptions to a myriad of products like Power BI and App Connect. You can now see the "viral subscriptions" that your users have been trying. Go to **Billing** > **Products & services**. Select the **Account type** filter on the subscriptions tab to see the user-purchased subscriptions -- And delete them!
+
+### User templates
+
+Templates allow you to easily add many users by saving and reusing the shared settings for these users. You can save values for roles, licenses assigned, contact information, location, and more. When you use the template to create a new user, they will automatically get the saved value for these settings. Go to **Users** > **Active users**, and then select **User templates** to try it out.
+
+### Office "What's New" management (Preview)
+When an important ‎Office‎ feature is released to an Office app, users will get a "What's new" card to learn about the new feature. If you don't want users to see the card, you can hide it. You can also choose when you'd like users to see the card by showing it. Go to **Settings** > **Office What's New management** to check it out.
+
+### SharePoint URL change
+Technically, this isn't the Microsoft 365 admin center's news to tell, but we're so excited we wanted to make sure you see this news:
+> [!IMPORTANT]
+> You can now get to the SharePoint admin center with a regular URL: https://admin.microsoft.com/SharePoint
+
+For more info, see [What's new in the SharePoint admin center](https://docs.microsoft.com/sharepoint/what-s-new-in-admin-center)
+
 ## September 2019
 
 We are ramping up for some exciting feature releases at Ignite 2019, so we're only announcing a few new features that were released in September. But stay tuned for next month's article, it'll be published on the first day of Ignite!
@@ -54,10 +91,6 @@ There's been an update to another of our initial setup wizards: Microsoft 365 fo
 - **Automatically install Office** - When you turn this on and users have connected their PCs to Microsoft 365 Business, their computers will automatically update to the latest Office apps - and stay up to date.
 
 ## August 2019
-
-### Add user template
-
-Templates allow you to easily add many users by saving and reusing the shared settings for these users. You can save values for roles, licenses assigned, contact information, location, and more. When you use the template to create a new user, they will automatically get the saved value for these settings. Go to **Users** > **Active users**, and then select **User templates** to try it out.
 
 ### Billing
 
