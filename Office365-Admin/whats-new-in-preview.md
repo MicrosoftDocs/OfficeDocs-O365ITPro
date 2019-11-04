@@ -32,6 +32,43 @@ And if you're interested in what's new in other admin centers:
 - [What's new in the Microsoft 365 compliance center](https://docs.microsoft.com/Office365/SecurityCompliance/whats-new)
 - [What's new in the SharePoint admin center](https://docs.microsoft.com/sharepoint/what-s-new-in-admin-center)
 
+## October 2019 - Ignite Edition
+Welcome to the Ignite Edition of the What's new in the Microsoft 365 admin center! Of course, this isn't a complete list of announcements, but here are a few highlights:
+
+### Role-based access control 
+
+There have been a lot of changes for Roles in the admin center since we started rolling out in June:
+
+- **Compare roles** - Select up to 3 roles to compare the permissions for each one. This will help you find the least permissive role to assign to users. Go to **Roles**, use the multi-select checkbox in the first column to choose up to 3 roles, and then select **Compare roles**.
+
+    ![Comparing the Exchange admin, Helpdesk admin, and User admin roles.](media/RBAC-CompareRoles.png)
+
+- **Favorites** - You can add a star to your favorite or most-used roles, so that you can easily find them by sorting the column or creating a filter.
+- **Active users** > **Manage roles** - This has been updated to align with the changes in Roles. As with the Roles list, we've scoped the default list of roles to the most useful, but you can see all roles by expanding **Show all by category**.
+- **Global reader role** - You asked for it! You got it! The [Global reader](add-users/about-admin-roles.md#roles-available-in-the-microsoft-365-admin-center) role!
+
+### Report an issue
+
+Service health has been updated to the new style and if you are impacted by an issue that is not showing up on your Service health dashboard, you can **Report an issue** to let Microsoft know. Go to **Health** > **Service health**.
+
+## "Viral" subscriptions
+
+As you know, users can turn on free subscriptions to a myriad of products like Power BI and App Connect. You can now see the "viral subscriptions" that your users have been trying. Go to **Billing** > **Products & services**. Select the **Account type** filter on the subscriptions tab to see the user-purchased subscriptions -- And delete them!
+
+### User templates
+
+Templates allow you to easily add many users by saving and reusing the shared settings for these users. You can save values for roles, licenses assigned, contact information, location, and more. When you use the template to create a new user, they will automatically get the saved value for these settings. Go to **Users** > **Active users**, and then select **User templates** to try it out.
+
+### Office "What's New" management (Preview)
+When an important ‎Office‎ feature is released to an Office app, users will get a "What's new" card to learn about the new feature. If you don't want users to see the card, you can hide it. You can also choose when you'd like users to see the card by showing it. Go to **Settings** > **Office What's New management** to check it out.
+
+### SharePoint URL change
+Technically, this isn't the Microsoft 365 admin center's news to tell, but we're so excited we wanted to make sure you see this news:
+> [!IMPORTANT]
+> You can now get to the SharePoint admin center with a regular URL: https://admin.microsoft.com/SharePoint
+
+For more info, see [What's new in the SharePoint admin center](https://docs.microsoft.com/sharepoint/what-s-new-in-admin-center)
+
 ## September 2019
 
 We are ramping up for some exciting feature releases at Ignite 2019, so we're only announcing a few new features that were released in September. But stay tuned for next month's article, it'll be published on the first day of Ignite!
@@ -55,10 +92,6 @@ There's been an update to another of our initial setup wizards: Microsoft 365 fo
 
 ## August 2019
 
-### Add user template
-
-Templates allow you to easily add many users by saving and reusing the shared settings for these users. You can save values for roles, licenses assigned, contact information, location, and more. When you use the template to create a new user, they will automatically get the saved value for these settings. Go to **Users** > **Active users**, and then select **User templates** to try it out.
-
 ### Billing
 
 We've got some updates for billing and subscriptions this month:
@@ -74,9 +107,9 @@ Setup now has categories and sections, including a **Recommended for you** secti
 
 - **Office Advanced Threat Protection** - If your org is licensed to use Office ATP and you haven't configured it or turned it on yet, you'll see this page. Go to **Setup** to try it out.
 
-### Report an outage
+### Report an issue
 
-If you are impacted by an issue that is not showing up on your Service health dashboard, the **Report an Outage** feature will provide you with a quick and easy way to let us know. Go to **Health** > **Service health**.
+If you are impacted by an issue that is not showing up on your Service health dashboard, the **Report an issue** feature will provide you with a quick and easy way to let us know. Go to **Health** > **Service health**.
 
 ## July 2019
 
@@ -88,7 +121,7 @@ The Message center has been updated to the new design and it looks amazing!
 
 - You can now view **Messages by status**. Just select one of the tabs: **All active messages**, **High importance**, **Unread messages**, and **Dismissed messages**.
 - You can also filter by category **Data privacy**, **Plan for change**, **Prevent or fix issues**, and **Stay informed** message categories.
-- Select a message from the list and you have a few options in the command bar: **Dismiss**, **Mark as read** or **Mark as unread**, or **Share the message**. 
+- Select a message from the list and you have a few options in the command bar: **Dismiss**, **Mark as read** or **Mark as unread**, or **Share**. 
 - And when you open a message, you have even more options:
     - Copy a link of the message to your clipboard to save it for later or to share it with colleagues. 
     -  Mark messages as **Read** or **Unread**. 
@@ -192,7 +225,7 @@ We've made a few more changes to **user management**, here's a quick list:
     - Finally, you can add the **Teams status** to the **groups** list. On the column header, select **Choose columns** > **Teams status** > **Save**.
 - **New limited admin roles** - We've release some new admin roles so that you can give users only the access they need.
     -  **Kaizala admin**: Users in this role have permission to perform all management tasks within Microsoft Kaizala, including create and manage users in Kaizala directory, manage Kaizala groups, manage action cards and connectors, and create service requests.
-    - **Search admin**: Users in this role have full access to all Microsoft Search management features in the Microsoft 365 admin center. Search admins can delegate the Search admin and Search editor roles to users, and create and manage content, like bookmarks, Q&A items, and locations. Additionally, these users can view the message center, monitor service health, and create service requests.
+    - **Search admin**: Users in this role have full access to all Microsoft Search management features in the Microsoft 365 admin center. Search admins can delegate the Search admin and Search editor roles to users, and create and manage content, like bookmarks, Q&A items, and locations. Additionally, these users can view the Message center, monitor service health, and create service requests.
     - **Search editor**: Users in this role can create, manage, and delete content for Microsoft Search in the Microsoft 365 admin center, including bookmarks, Q&A items, and locations.
 - There's a bonanza of **Billing** changes this month...
     - You can now update the CVV for existing credit cards without having to delete it and add it again. You can update the CVV by going to **Bills** > **Payment methods**.

@@ -1,8 +1,8 @@
 ---
 title: "Assign admin roles the Microsoft 365 admin center"
-ms.author: anfowler
-author: adefowler
-manager: shohara
+ms.author: kwekua
+author: kwekua
+manager: scotv
 audience: Admin
 ms.topic: get-started-article
 f1_keywords:
@@ -15,6 +15,7 @@ ms.collection:
 - Adm_TOC
 ms.custom:
 - MSStore_Link
+- okr_smb
 search.appverid:
 - BCS160
 - MET150
@@ -23,7 +24,6 @@ search.appverid:
 - GEA150
 ms.assetid: eac4d046-1afd-4f1a-85fc-8219c79e1504
 description: "Learn how to assign administrator roles to a user or multiple users in your business so that they can perform specific tasks in the admin center."
-ms.custom: okr_smb
 ---
 
 # Assign admin roles
