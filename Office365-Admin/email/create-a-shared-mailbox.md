@@ -295,7 +295,7 @@ This means if you try to use a security group to manage who has access to the sh
 
  Automapping is enabled by default. Admins can disable the automapping feature via PowerShell while granting access to the user.
 
-Run the following command:
+For Example, If John wasts to access a mailbox named sales with automapping turned Off, Run the following command:
 
   ```
 Add-MailboxPermission -Identity sales@contoso.com -User john@contoso.com -AccessRights FullAccess -AutoMapping:$false
