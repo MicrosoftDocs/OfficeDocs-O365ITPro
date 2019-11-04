@@ -45,7 +45,7 @@ You can export the admin list as well as search and filter by role.
 
 ## Get the most out of the roles
 
-Read the content below to learn about the different roles and what tasks the roles can perform in your organization.
+Read the content below to learn about the different admin roles and what tasks the roles can perform in your organization.
 
 > [!NOTE]
 This isn’t an exhaustive list of all the permissions that these roles have. Select the **Learn more** link for more information about each role.
