@@ -46,6 +46,10 @@ You must be an Office 365 global admin or Exchange admin to upgrade a distributi
 > [!NOTE]
 > If you're getting the groups digest emails you may notice at the bottom that it will sometimes offer to let you upgrade any eligible distribution lists that you're the owner of. See [Have a group conversation in Outlook](https://support.office.com/article/a0482e24-a769-4e39-a5ba-a7c56e828b22.aspx) for more information about digest emails.
 
+> [!NOTE]
+> The Distribution group must have an owner and the owner must have mailbox in order to upgrade to O365 groups.
+
+
 ## What to do if the upgrade doesn't work
 
 Distribution lists that fail to upgrade remain unchanged.
