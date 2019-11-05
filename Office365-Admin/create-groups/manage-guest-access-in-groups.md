@@ -259,6 +259,10 @@ The last line of the script will display the updated settings:
 <a name="BKMK_UsePowerShellControlAddingGuests"> </a>
 
 You can allow or block guest users who are using a specific domain. For example, if your business (Contoso) has a partnership with another business (Fabrikam), you can add Fabrikam to your Allow list so your users can add those guests to their groups.
+
+
+> [!NOTE]
+> If tenant Guest Access settings are set to False, individual groups cannot be set to True.
   
 For more information, see [Allow/Block guest access to Office 365 groups](https://go.microsoft.com/fwlink/?linkid=854001)
   
