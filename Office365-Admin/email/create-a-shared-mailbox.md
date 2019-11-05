@@ -293,13 +293,7 @@ Automapping is set on the user's mailbox, not the shared mailbox.
 
 This means if you try to use a security group to manage who has access to the shared mailbox, automapping won't work. So, if you want automapping, you have to assign permissions explicitly.
 
- Automapping is enabled by default. Admins can disable the automapping feature via PowerShell while granting access to the user.
-
-For Example, If John wasts to access a mailbox named sales with automapping turned Off, Run the following command:
-
-  ```
-Add-MailboxPermission -Identity sales@contoso.com -User john@contoso.com -AccessRights FullAccess -AutoMapping:$false
-   ```
+Automapping is on by default. To learn how to turn it off, see [Remove automapping for a shared mailbox](https://docs.microsoft.com/en-us/office365/troubleshoot/administration/remove-automapping-for-shared-mailbox)
   
 ## How to create a shared mailbox in the Exchange admin center
 <a name="bkmk_EAC"> </a>
