@@ -19,6 +19,7 @@ search.appverid:
 - BEA160
 ms.assetid: 7e77382b-b966-4ad5-a515-9e629a777a22
 description: "Find out how much tax you will be charged for your Office 365 for business subscription in different regions. "
+ms.custom: okr_SMB
 ---
 
 # What tax will I be charged for Office 365?

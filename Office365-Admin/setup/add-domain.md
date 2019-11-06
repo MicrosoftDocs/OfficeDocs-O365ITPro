@@ -42,6 +42,7 @@ ms.custom:
 - TopSMBIssues
 - SaRA
 - MSStore_Link
+- okr_smb
 search.appverid:
 - BCS160
 - MET150
@@ -57,8 +58,6 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
  *To Add, modify or remove domains you **must** be a **Global Administrator** of a [business or enterprise plan](https://products.office.com/business/office). These changes affect the whole tenant, *Customized administrators* or *regular users* won't be able to make these changes.*  
 
 ::: moniker range="o365-worldwide"
-
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/dda6df6d-37b0-41ff-905b-089448355a31?autoplay=false]
   
 ::: moniker-end
 
@@ -85,7 +84,7 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
 
 ::: moniker-end
     
-2. Go to the **Setup** > **Domains** page. 
+2. Go to the **Settings** > **Domains** page. 
 
 3. Select **Add domain**.
     

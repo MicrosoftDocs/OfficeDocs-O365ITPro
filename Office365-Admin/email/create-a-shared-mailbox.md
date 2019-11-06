@@ -275,6 +275,8 @@ A Group in Outlook is like a shared mailbox. For a comparison of the two, see [C
 
 - A shared mailbox is not intended for direct sign-in by its associated user account. You should always block sign-in for the shared mailbox account and keep it blocked.
 
+- When there are too many designated users concurrently accessing a shared mailbox, they may intermittently fail to connect to this mailbox. In this case, you can consider reducing the number of the users or using a different workload, such as Office 365 group or Public folder.
+
 ## Fix issues with creating shared mailboxes
 <a name="bkmk_Fix"> </a>
 
@@ -292,6 +294,8 @@ A Group in Outlook is like a shared mailbox. For a comparison of the two, see [C
 Automapping is set on the user's mailbox, not the shared mailbox.
 
 This means if you try to use a security group to manage who has access to the shared mailbox, automapping won't work. So, if you want automapping, you have to assign permissions explicitly.
+
+Automapping is on by default. To learn how to turn it off, see [Remove automapping for a shared mailbox](https://docs.microsoft.com/office365/troubleshoot/administration/remove-automapping-for-shared-mailbox)
   
 ## How to create a shared mailbox in the Exchange admin center
 <a name="bkmk_EAC"> </a>

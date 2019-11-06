@@ -1,7 +1,7 @@
 ---
 title: "Rich text formatting for Yammer messages"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 3/7/2019
 audience: Admin

@@ -15,6 +15,7 @@ ms.collection:
 ms.custom:
 - TopSMBIssues
 - MSStore_Link
+- okr_SMB
 search.appverid:
 - BCS160
 - MET150

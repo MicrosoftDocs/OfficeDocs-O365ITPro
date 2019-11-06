@@ -45,9 +45,9 @@ There are also [Groups in Exchange Online and SharePoint Online](#groups-in-exch
   
 2. On the **Groups** page, select **Add a group**.
     
-3. In the **Type** drop-down list, choose **Security**. 
+3. On the **Choose a group type** page, choose **Security**. 
     
-4. Type a name and description for the group, and then select **Add** \> **Close**. 
+4. Follow the steps to complete creation of the group. 
  
 ### Add members to a security group
 
@@ -85,11 +85,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
 2. On the **Groups** page, select the group's name. 
     
-3. In the **Security group** pane, select the **General** tab or the **Members** tab to edit either group details or members.
-    
-    You can edit the security group name and description in the **Details**.
-    
-4. After you've made changes, select **Save** \> **Close**.
+3. In the settings pane, select the **General** tab or the **Members** tab to edit either group details or members.
+
     
 #### Use the old admin center to edit a security group 
 

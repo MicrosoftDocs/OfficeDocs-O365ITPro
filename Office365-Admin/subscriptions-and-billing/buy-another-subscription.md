@@ -23,6 +23,7 @@ search.appverid:
 - BEA160
 ms.assetid: fab3b86c-3359-4042-8692-5d4dc7550b7c
 description: "Learn how to buy another Office 365 for business subscription for your organization when you already have a subscription. "
+ms.custom: okr_SMB
 ---
 
 # Buy another Office 365 for business subscription
@@ -31,7 +32,7 @@ If you already have an Office 365 for business subscription and you want to buy 
   
 When you buy another subscription through the admin center, you're guaranteed that the new subscription will be associated with the same organization (domain name space) as your existing subscription. This makes it easier to move users within your organization between subscriptions or assign them a user license for the additional subscription they need.
   
-After purchasing a new subscription, you'll need to assign the users who you want to use that subscription a user license for it. To learn how, see [Assign licenses to users in Office 365 for business](assign-licenses-to-users.md).
+After purchasing a new subscription, you'll need to assign the users who you want to use that subscription a user license for it. To learn how, see [Assign licenses to users in Office 365 for business](../manage/assign-licenses-to-users.md).
   
 ## Buy another subscription
 
@@ -87,6 +88,6 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ## Related topics
 
-[Assign licenses to users](assign-licenses-to-users.md)
+[Assign licenses to users](../manage/assign-licenses-to-users.md)
   
-[Remove licenses from users](remove-licenses-from-users.md)
+[Remove licenses from users](../manage/remove-licenses-from-users.md)

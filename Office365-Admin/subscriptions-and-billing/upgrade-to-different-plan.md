@@ -43,14 +43,14 @@ When you use the **Upgrade** tab, you're led through the process of buying a new
 
 4. Find the plan to which you want to upgrade, then select the **Upgrade** button.
 
-5. Enter the number of licenses that you need, choose whether to pay each month or for the whole year, then select **Checkout**.
+5. Enter the number of licenses that you need, choose whether to pay each month or for the whole year, then select **Go to checkout**.
 
     > [!NOTE]
     > Make sure you buy enough licenses to cover all your users.
 
 6. On the next page, verify the **Sold to** address, the **Billed to** information, and **Items in this order**. You can change the default payment method at this step. If you need to make any changes, select **Change** next to the applicable section.
 
-7. When you're finished, select **Accept agreement & place order**.
+7. When you're finished, select **Place order**.
 
 When you finish checkout, it might take a few minutes to finalize the upgrade. You can start using your new subscription right away. Select **Check upgrade status** to check the progress of the upgrade. You'll be notified when the upgrade is complete. The notification is displayed on the **Products & services** page, next to your new subscription.
 

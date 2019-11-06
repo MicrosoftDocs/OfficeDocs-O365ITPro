@@ -1,7 +1,7 @@
 ---
 title: "Integrate Yammer with other applications"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 4/26/2019
 audience: Admin

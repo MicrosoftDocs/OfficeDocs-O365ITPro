@@ -13,6 +13,7 @@ ms.collection:
 - Adm_TOC
 ms.custom:
 - MSStore_Link
+- okr_smb
 search.appverid:
 - BCS160
 - MET150
@@ -36,7 +37,6 @@ A primary email address in Office 365 is usually the email address a user was as
   
 For example, let's say Jenna has the email address jenna@contosoco.com, but she also wants to receive email at jen@contosoco.com because some people refer to her by that name. You can create aliases for her so that both email addresses go to Jenna's inbox.
 <br><br>  
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/8fdd6503-e7e2-42d4-8a11-67f92dcaf1ce?autoplay=false]
   
 You can create up to 400 aliases for a user. No additional fees or licenses are required.
   

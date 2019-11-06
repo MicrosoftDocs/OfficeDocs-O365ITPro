@@ -51,18 +51,18 @@ Before you use your domain with Office 365, we have to make sure that you own it
 > [!NOTE]
 > This record is used only to verify that you own your domain; it doesn't affect anything else. You can delete it later, if you like. 
   
-1. To get started, go to your domains page at Wix by using [this link](https://premium.wix.com/wix/api/mpContainerStaticController#/domains?referralAdditionalInfo=account). You'll be prompted to login first.
+1. To get started, go to your domains page at Wix by using [this link](https://premium.wix.com/wix/api/mpContainerStaticController#/domains?referralAdditionalInfo=account). You'll be prompted to log in first.
     
 2. On the **My Domains** page, in the **Advanced** area, select the **Edit DNS** button. 
     
-3. Select **+ Add another** in the **TXT (Text) row** of the DNS editor. 
+3. Select **+ Add another** in the **TXT (Text)** row of the DNS editor. 
     
 4. In the boxes for the new record, type or copy and paste the values from the following table. 
     
-|||||
-|:-----|:-----|:-----|:-----|
-|**Host Record** <br/> |**TTL** <br/> |**Type** <br/> |**TXT Value** <br/> |
-|@  <br/> |3600 (seconds)  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+||||
+|:-----|:-----|:-----|
+|**Host Name** <br/> |**Text Value** <br/> |**TTL** <br/> |
+|Automatically populated  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)|1 Hour <br/> |          |
    
 5. Select the **Save DNS** button at the top of the DNS editor. 
     
@@ -72,7 +72,7 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
 2. On the **Domains** page, select the domain that you are verifying. 
   
@@ -92,7 +92,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 
 1. To get started, go to your domains page at Wix by using [this link](https://premium.wix.com/wix/api/mpContainerStaticController#/domains?referralAdditionalInfo=account). You'll be prompted to log in first.
     
-2. On the **My Domains** page, in the **Mailboxes** area, select the **Change Settings** link. 
+2. On the **My Domains** page, in the **Mailboxes** area, select the **Configure your MX records** link. 
     
 3. Choose **Other** from the **Your Email Provider** drop-down list. 
     
@@ -100,11 +100,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 5. In the boxes for the new record, type or copy and paste the values from the following table:
     
-|****Host Record****|****TTL****|****Type****|****Points To****|****Priority****|
-|:-----|:-----|:-----|:-----|:-----|
-|@  <br/> |3600 (seconds)  <br/> |MX  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/en-us/article/What-is-MX-priority-2784cc4d-95be-443d-b5f7-bb5dd867ba83) <br/> |
+|**Host Name**|**Points to**|**Priority**|**TTL**|
+|:-----|:-----|:-----|:-----|
+|Automatically populated <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 account.   [How do I find this?](../get-help-with-domains/information-for-dns-records.md) |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/en-us/article/What-is-MX-priority-2784cc4d-95be-443d-b5f7-bb5dd867ba83) | 1 Hour|
    
-6. If there are any other MX records in the **MX (Mail Exchanger)** section, delete each of them. 
+6. If there are any other MX records listed, delete each of them. 
     
 7. Select **OK**.
     
@@ -121,13 +121,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 4. In the boxes for the new record, type or copy and paste the values from the following table:
     
-|****Host Record****|****TTL****|****Type****|****Points To****|
-|:-----|:-----|:-----|:-----|
-|autodiscover  <br/> |3600 (seconds)  <br/> |CNAME  <br/> |autodiscover.outlook.com  <br/> |
-|sip  <br/> |3600 (seconds)  <br/> |CNAME  <br/> |sipdir.online.lync.com  <br/> |
-|lyncdiscover  <br/> |3600 (seconds)  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
-|enterpriseregistration  <br/> |3600 (seconds)  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
-|enterpriseenrollment  <br/> |3600 (seconds)  <br/> |CNAME  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
+|**Host Name**|**Points to**|**TTL**|
+|:-----|:-----|:-----|
+|autodiscover  <br/> |autodiscover.outlook.com  <br/> |1 Hour  <br/> |
+|sip  <br/> |sipdir.online.lync.com  <br/> |1 Hour <br/> |
+|lyncdiscover  <br/> |webdir.online.lync.com   <br/> |1 Hour  <br/> |
+|enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |1 Hour <br/> |
+|enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |1 Hour  <br/> |
    
 5. Select the **Save DNS** button at the top of the DNS editor. 
     
@@ -139,7 +139,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 > [!IMPORTANT]
 > You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values.  
   
-1. To get started, go to your domains page at Wix by using [this link](https://premium.wix.com/wix/api/mpContainerStaticController#/domains?referralAdditionalInfo=account). You'll be prompted to login first.
+1. To get started, go to your domains page at Wix by using [this link](https://premium.wix.com/wix/api/mpContainerStaticController#/domains?referralAdditionalInfo=account). You'll be prompted to log in first.
     
 2. On the **My Domains** page, in the **Advanced** area, select the **Edit DNS** button. 
     
@@ -147,9 +147,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 4. In the boxes for the new record, type or copy and paste the values from the following table:
     
-|****Host Record****|****TTL****|****Type****|**** Value ****|
-|:-----|:-----|:-----|:-----|
-|[leave this blank]  <br/> |3600 (seconds)  <br/> |TXT  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |
+|**Host Name**|**Text Value**|**TTL**|
+|:-----|:-----|:-----|
+|[leave this blank]  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.<br/> |TXT  <br/> | 1 Hour |
    
 5. Select the **Save DNS** button at the top of the DNS editor. 
     
@@ -158,7 +158,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 ## Add the two SRV records that are required for Office 365
 <a name="BKMK_srv"> </a>
 
-1. To get started, go to your domains page at Wix by using [this link](https://premium.wix.com/wix/api/mpContainerStaticController#/domains?referralAdditionalInfo=account). You'll be prompted to login first.
+1. To get started, go to your domains page at Wix by using [this link](https://premium.wix.com/wix/api/mpContainerStaticController#/domains?referralAdditionalInfo=account). You'll be prompted to log in first.
     
 2. On the **My Domains** page, in the **Advanced** area, select the **Edit DNS** button. 
     
@@ -166,10 +166,10 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 4. In the boxes for the new record, type or copy and paste the values from the following table:
     
-|****Service****|****Protocol****|****Host****|****TTL****|****Type****|****Priority****|****Weight****|****Port****|****Points To****|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|_sip  <br/> |_tls  <br/> |@  <br/> |3600 (seconds)  <br/> |SRV  <br/> |100  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/> |
-|_sipfederationtls  <br/> |_tcp  <br/> |@  <br/> |3600 (seconds)  <br/> |SRV  <br/> |100  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/> |
+|**Service**|**Protocol**|**Name**|**Weight**|**Port**|**Target**|**Priority**|**TTL**|
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+|sip  |tls  |Automatically populated |1  |443   |sipdir.online.lync.com |100 |1 Hour |
+|sipfed|tcp |Automatically populated|1 |5061 |sipfed.online.lync.com|100 | 1 Hour |
    
 5. Select the **Save DNS** button at the top of the DNS editor. 
     

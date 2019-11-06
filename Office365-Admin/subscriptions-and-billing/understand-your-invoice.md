@@ -14,6 +14,7 @@ ms.collection:
 - commerce
 ms.custom:
 - TopSMBIssues
+- okr_smb
 search.appverid:
 - BCS160
 - MET150

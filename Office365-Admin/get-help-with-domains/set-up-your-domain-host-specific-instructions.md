@@ -23,6 +23,7 @@ search.appverid:
 - GEA150
 ms.assetid: ae950c9e-e8d9-4108-b0cb-449156998580
 description: "Learn how to manage your own DNS records or let Office 365 manage your DNS records for you."
+ms.custom: okr_smb
 ---
 
 # Set up your domain (host-specific instructions)

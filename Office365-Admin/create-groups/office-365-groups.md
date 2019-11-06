@@ -22,7 +22,7 @@ description: "Learn about Office 365 Groups."
 
 # Overview of Office 365 Groups for administrators
 
-With Office 365 Groups, you can give a group of people access to a collection of collaboration resources for those people to share. These resources include:
+Office 365 Groups is the foundational membership service that drives all teamwork across Microsoft 365. With Office 365 Groups, you can give a group of people access to a collection of collaboration resources for those people to share. These resources include:
 
 - A shared Outlook inbox
 - A shared calendar
@@ -43,7 +43,7 @@ Groups have the following roles:
 - **Members** - Members can access everything in the group, but can't change group settings.
 - **Guests** - Group guests are members who are from outside your organization. By default group members can invite guests to join your group, though you can [control that setting](manage-guest-access-in-groups.md).
 
-People in the following admin roles can create and manage groups in the admin center: global admin, Exchange admin, user management admin. You can't be a delegated admin (for example, a consultant who is an admin on behalf of).
+Only global admins and user management admins can create and manage groups in the admin center. You can't be a delegated admin (for example, a consultant who is an admin on behalf of).
 
 As an administrator, you can:
 

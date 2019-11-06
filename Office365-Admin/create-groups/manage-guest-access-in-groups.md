@@ -72,7 +72,7 @@ Currently you can't add or edit guests from the Office Admin Center or the Excha
 
 ### Turn on or off guest access to group files and OneNote
 
-By default, guests can access group files and the group OneNote notebook. To turn off guess access, you need to turn off the SharePoint external sharing setting at the organization level. For the steps, see [Turn external sharing on or off for SharePoint Online](https://support.office.com/article/6288296a-b6b7-4ea4-b4ed-c297bf833e30.aspx#ID0EAABAAA=Office_365_Groups), "Manage external sharing for Office 365 Group site collections."
+By default, guests can access group files and the group OneNote notebook. To turn off guest access, you need to turn off the SharePoint external sharing setting at the organization level. For the steps, see [Turn external sharing on or off for SharePoint Online](https://support.office.com/article/6288296a-b6b7-4ea4-b4ed-c297bf833e30.aspx#ID0EAABAAA=Office_365_Groups), "Manage external sharing for Office 365 Group site collections."
   
 However, even if the SharePoint external sharing setting is turned off, the files from SharePoint sites can still be shared with new guest users based on SharePoint settings. To learn more, see [Manage external sharing for your SharePoint Online environment](https://support.office.com/article/c8a462eb-0723-4b0b-8d0a-70feafe4be85.aspx).
   
@@ -259,6 +259,10 @@ The last line of the script will display the updated settings:
 <a name="BKMK_UsePowerShellControlAddingGuests"> </a>
 
 You can allow or block guest users who are using a specific domain. For example, if your business (Contoso) has a partnership with another business (Fabrikam), you can add Fabrikam to your Allow list so your users can add those guests to their groups.
+
+
+> [!NOTE]
+> If tenant Guest Access settings are set to False, individual groups cannot be set to True.
   
 For more information, see [Allow/Block guest access to Office 365 groups](https://go.microsoft.com/fwlink/?linkid=854001)
   

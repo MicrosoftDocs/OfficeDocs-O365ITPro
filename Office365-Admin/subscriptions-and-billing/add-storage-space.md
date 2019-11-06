@@ -19,6 +19,7 @@ ms.collection:
 - Adm_TOC
 ms.custom:
 - MAX_CampaignID
+- okr_SMB
 search.appverid:
 - BCS160
 - MET150
@@ -180,3 +181,6 @@ Office 365 Extra File Storage is available for the following subscriptions:
 - Microsoft 365 E5
 
 - Microsoft 365 F1
+
+> [!NOTE]
+> Office 365 Extra File Storage is also available for GCC, GCC High, and DOD plans.

@@ -1,7 +1,7 @@
 ---
 title: "Turn off Yammer access for Office 365 users"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 1/11/2019
 audience: Admin

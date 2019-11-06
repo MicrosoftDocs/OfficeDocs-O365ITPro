@@ -115,4 +115,4 @@ If you have new admin center turned off, watch the following video to sign up fo
 
 ## Next steps
 
-After you get the new subscription, you have to assign a license to the users who will use that subscription. To learn how, see [Assign licenses to users in Office 365 for business](subscriptions-and-billing/assign-licenses-to-users.md).
+After you get the new subscription, you have to assign a license to the users who will use that subscription. To learn how, see [Assign licenses to users in Office 365 for business](manage/assign-licenses-to-users.md).

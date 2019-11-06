@@ -22,7 +22,7 @@ description: "Learn about the Microsoft 365 admin center: how to sign in, who yo
 # Office 365 admin overview 
 
   
-When you [buy an Office 365 business plan](https://go.microsoft.com/fwlink/?linkid=856886), we give you a special account that has admin permissions. This account is called an admin account.
+When you buy an [Office 365 business plan](https://go.microsoft.com/fwlink/?linkid=856886) or a [Microsoft 365 for business plan](https://www.microsoft.com/en-us/microsoft-365/business), we give you a special account that has admin permissions. This account is called an admin account.
   
 With this account you can access the Microsoft 365 admin center to manage your business: add users, manage your subscription, reset passwords, and more. Try it!
   

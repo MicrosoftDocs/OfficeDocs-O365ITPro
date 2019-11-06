@@ -1,7 +1,7 @@
 ---
 title: "Disable external messaging in a Yammer network"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 6/12/19
 audience: Admin

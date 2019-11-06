@@ -40,8 +40,8 @@ When an employee leaves your organization, on good terms or bad, you need to blo
     
 - [Reset a user's password in Office 365](../add-users/reset-passwords.md)
     
-- [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md)
+- [Assign licenses to users in Office 365 for business](../manage/assign-licenses-to-users.md)
     
-- [Remove licenses from users in Office 365 for business](../subscriptions-and-billing/remove-licenses-from-users.md)
+- [Remove licenses from users in Office 365 for business](../manage/remove-licenses-from-users.md)
     
 

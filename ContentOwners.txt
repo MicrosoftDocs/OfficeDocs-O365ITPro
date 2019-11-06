@@ -4,6 +4,8 @@
 # So if a pull request only touches javascript files, only these owners
 # will be requested to review.
 
-/Office365-Admin/  @SuPotter @AndreaBarr
-/Office365-Kaizala/ @Sirkkuw @AndreaBarr
-/yammer/ @JoanneHendrickson @AndreaBarr
+/Office365-Admin/  @SuPotter
+/Office365-Kaizala/ @Sirkkuw
+/yammer/ @JoanneHendrickson
+/Office365-MileIQ/ @kwekuako
+/Office365-Planner/ @kwekuako

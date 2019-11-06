@@ -24,6 +24,7 @@ ms.collection:
 - Adm_O365_TOC
 ms.custom:
 - MSStore_Link
+- okr_smb
 search.appverid:
 - BCS160
 - MET150

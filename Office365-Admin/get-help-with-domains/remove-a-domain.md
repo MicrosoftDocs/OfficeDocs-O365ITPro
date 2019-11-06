@@ -47,9 +47,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 3. Select the boxes next to the names of all the users you want to move.
     
-4. Select **More options** (**…**), at the top of the page, and then choose **Edit domains**. 
+4. Select **More options** (**…**), at the top of the page, and then choose **Change domains**. 
     
-5. In the **Edit domains** pane, select a different domain. 
+5. In the **Change domains** pane, select a different domain. 
      
 #### Use the old admin center to move users
 
@@ -156,7 +156,7 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 
 ::: moniker-end
 

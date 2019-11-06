@@ -23,7 +23,10 @@
       {
         "files": [
           "**/*.png",
-          "**/*.jpg"
+          "**/*.jpg",
+          "**/*.gif",
+          "**/*.svg",
+          "**/*.pdf"
         ],
         "exclude": [
           "**/obj/**",
@@ -37,9 +40,12 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/mileiq/breadcrumb/toc.json",
+      "breadcrumb_path": "/office365/mileiq/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/OfficeDocs-O365ITPro",
+      "feedback_product_url": "https://support.mileiq.com/hc/",
+      "searchScope": ["MileIQ"]
     },
     "fileMetadata": {},
     "template": [],

@@ -44,22 +44,28 @@ All Office 2016 client applications support MFA through the use of the Active Di
 3. Check the **Enable modern authentication** box in the **Modern authentication** panel. 
 
     ![Modern authentication panel with enable checkbox checked.](../media/enablemodernauth.png)
+    
+> [!IMPORTANT]
+> As of August of 2017, all new Office 365 tenants that include Skype for Business online and Exchange online have Modern Authentication enabled by default. Pre-existing tenants won't have a change in their default MA state. To check your MA status for Skype for Business online, you can use Skype for Business online PowerShell with Global Admin credentials. Run Get-CsOAuthConfiguration to check the output of -ClientADALAuthOverride. If -ClientADALAuthOverride is 'Allowed', your Modern Authentication is on.
+To check your MA status for Exchange Online, please visit [Enable modern authentication in Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
+In SharePoint online, by default, modern authentication is enabled.
+
 
 ## Set up multi-factor authentication in the new Microsoft 365 admin center
 
 1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), turn on the new admin center by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
-2. In the right navigation pane, select **Setup**.
+2. In the left navigation pane, select **Setup**.
 
-3. On the **Turn on multi-factor authentication (MFA)** card, select **View**.
+3. Under **Setup** > **Turn on multi-factor authentication (MFA)**, select **View**. 
 
-4. Select **Get started**.
+4. On the **Turn on multi-factor authentication (MFA)** page, select **Get started**.
 
 5. Select the **Require multi-factor authentication** and **Require users to register for multi-factor authentication and block access if risk is detected** check boxes.
 
 6. Under **Do you want to exclude anyone from these policies**, select any users that you want to exclude from the drop-down list box.
 
-7. Select **Choose policy**. You will return to the **Multi-factor authentication (MFA)** page, which will now say **Completed**. 
+7. Select **Create policy**. You will return to the **Turn on multi-factor authentication (MFA)** page, which will now say **Completed**. 
 
 After you set up multi-factor authentication for your organization, your users will be required to set up two-step verification on their devices. For more information, see [Set up 2-step verification for Office 365](https://support.office.com/article/ace1d096-61e5-449b-a875-58eb3d74de14).
 
@@ -67,9 +73,9 @@ After you set up multi-factor authentication for your organization, your users w
 
 1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), turn on the new admin center by selecting **Try the new admin center** toggle located at the top of the Home page.
 
-2. In the right navigation pane, select **Setup**.
+2. In the left navigation pane, select **Setup**.
 
-3. On the **Turn on multi-factor authentication (MFA)** card, it will say **Completed**. Select **View**.
+3. Under **Turn on multi-factor authentication (MFA)**, it will say **Completed**. Select **View**.
 
 4. On the **Turn on multi-factor authentication (MFA)** page, select **Manage**.
 

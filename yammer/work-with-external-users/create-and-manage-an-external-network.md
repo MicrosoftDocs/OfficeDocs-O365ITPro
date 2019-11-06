@@ -1,7 +1,7 @@
 ---
 title: "Create and manage an external network in Yammer"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 3/15/2019
 audience: Admin

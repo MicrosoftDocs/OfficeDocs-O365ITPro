@@ -1,1 +1,4 @@
-# Welcome to OfficeDocs-O365Planner!
+---
+redirect_url: planner-admin-home
+redirect_document_id: TRUE 
+---
