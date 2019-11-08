@@ -40,7 +40,7 @@
     "globalMetadata": {
       "breadcrumb_path": "/Office365/Planner/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "titleSuffix": "Microsoft Planner"
+      "titleSuffix": "Microsoft Planner",
       "searchScope": [
         "Office 365 Planner"
       ],
