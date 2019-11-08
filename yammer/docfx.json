@@ -42,7 +42,8 @@
       "extendBreadcrumb": true,
       "searchScope": ["Yammer"],
       "feedback_system": "None",
-      "hideEdit": true
+      "hideEdit": true,
+      "titleSuffix": "Yammer"
     },
     "fileMetadata": {},
     "template": [],
