@@ -17,6 +17,7 @@ ms.collection:
 - Adm_O365
 - commerce
 - Adm_TOC
+- SPO_Content
 ms.custom:
 - MAX_CampaignID
 - okr_SMB
