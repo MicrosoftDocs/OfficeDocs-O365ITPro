@@ -3,8 +3,8 @@ title: Kaizala Web
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 04/23/2019
-audience: Consumer/IW
+ms.date: 11/8/2019
+audience: Admin
 ms.topic: article
 ms.service: Kaizalams
 ms.custom: Kaizala
@@ -21,16 +21,13 @@ description: Learn how to use Kaizala Web to access Kaizala from a browser windo
 
 # Kaizala Web
 
-Kaizala Web (Preview) allows you to access Kaizala through a browser on your computer. It gives you many of the same features as the Kaizala app. Before you can use Kaizala Web, you need to log in to the Kaizala app on your mobile device.
-  
-> [!IMPORTANT]
-> You're part of this preview if you can see the **Kaizala Web** tab under **Chats** \> **More** ![Screenshot of More icon](media/more-icon.png) of the app. If you want to join the preview, make sure to install the latest version of Kaizala on your phone. 
+Kaizala Web lets you access Kaizala through a browser on your computer. It gives you many of the same features as the Kaizala app. Before you can use Kaizala Web, you need to log in to the Kaizala app on your mobile device.
   
 For more info about Kaizala, see [Microsoft Kaizala](https://products.office.com/en/business/microsoft-kaizala).
   
 ## Set up Kaizala Web
 
-1. Make sure you have installed the latest version of Kaizala on your mobile phone. If you see the **Kaizala Web (Preview)** tab under **Chats** \> **More** ![Screenshot of More icon](media/more-icon.png) in the Kaizala app, then you have access to the preview.
+1. Make sure you have installed the latest version of Kaizala on your mobile phone. If you see the **Kaizala Web** tab under **Chats** \> **More** ![Screenshot of More icon](media/more-icon.png) in the Kaizala app, then you have access to the web app.
     
 2. Download the latest app from the Google Play Store or the Apple App Store.
     
@@ -48,7 +45,7 @@ For more info about Kaizala, see [Microsoft Kaizala](https://products.office.com
   
 You can now use Kaizala on your browser and the mobile app.
   
-## What's available in Kaizala Web (Preview)?
+## What's available in Kaizala Web?
 
 - Send, receive, and view messages.
 - Send, receive, and view attachments (including image, video, and document files). You can't use your computer's camera or microphone for creating new attachments.
@@ -66,9 +63,9 @@ You can now use Kaizala on your browser and the mobile app.
 - Disable battery optimization in Kaizala.
 - Don’t force the Kaizala app to close.
     
-## What's not available in Kaizala Web (Preview)?
+## What's not available in Kaizala Web?
 
-Not everything is available today in Kaizala Web (Preview). Here are some of the features coming soon:
+Not everything is available today in Kaizala Web. Here are some of the features coming soon:
 
 - Likes and comments. 
 - Forward and delete functionality. 
