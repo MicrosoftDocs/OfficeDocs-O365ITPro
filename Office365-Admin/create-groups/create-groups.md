@@ -68,10 +68,6 @@ Once the group has been created, you can add members and configure additional se
 
 ::: moniker range="o365-worldwide"
   
-### Use the new admin center to add members to a group
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
 Users can [add themselves or request approval](https://support.office.com/article/Join-a-group-in-Outlook-2e59e19c-b872-44c8-ae84-0acc4b79c45d), or you can add them now.
 
 1. In the admin center, refresh the page so your new group appears, select **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a>, and then select the name of the group that you want to add members to.
@@ -86,9 +82,9 @@ Users can [add themselves or request approval](https://support.office.com/articl
     
 The group will appear in Outlook with members assigned to it.
 
-### Use the old admin center to add members to a group
-
 ::: moniker-end
+
+::: moniker range="o365-germany"
 
 Users can [add themselves or request approval](https://support.office.com/article/Join-a-group-in-Outlook-2e59e19c-b872-44c8-ae84-0acc4b79c45d), or you can add them now.
 
@@ -104,6 +100,27 @@ Users can [add themselves or request approval](https://support.office.com/articl
     
 The group will appear in Outlook with members assigned to it.
   
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+Users can [add themselves or request approval](https://support.office.com/article/Join-a-group-in-Outlook-2e59e19c-b872-44c8-ae84-0acc4b79c45d), or you can add them now.
+
+1. In the admin center, refresh the page so your new group appears, select **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a>, and then select the group that you want to add members to.
+    
+2. Next to **Members**, select **Edit**.
+
+3. Select **Add members**.
+    
+4. Select the users you want to add, and then select **Save**.
+    
+5. Select **Close** three times. 
+    
+The group will appear in Outlook with members assigned to it.
+  
+::: moniker-end
+
+
 ### Send copies of conversations to group members' inboxes
   
 When you use the admin center to create a group, by default users  do not get copies of group emails and meeting invitations sent to their inboxes. They'll need to go to the group to see conversations and meetings. You can change this setting in the admin center.
