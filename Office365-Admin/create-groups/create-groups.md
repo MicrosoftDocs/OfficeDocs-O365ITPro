@@ -131,21 +131,17 @@ Group members can opt out of receiving these emails by choosing to stop followin
 
 ::: moniker range="o365-worldwide"
 
-#### Use the new admin center to send copies of conversations to group members' inboxes
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page, and then select the name of the group you want to change. 
 
 2. On the **Settings** tab, select **Send copies of group conversations and events to group members** if you want members to receive copies of group messages and calendar items in their own inbox.
 
 3. Select **Save**.
 
-#### Use the old admin center to send copies of conversations to group members' inboxes
-
 ::: moniker-end
 
-1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page, and then select the group you want to change.
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Groups** \> **Groups** page, and then select the group you want to change.
 
 2. Next to **Name**, select **Edit**.
 
@@ -153,15 +149,25 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 4. Select **Save**.
 
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Groups** \> **Groups** page, and then select the group you want to change.
+
+2. Next to **Name**, select **Edit**.
+
+3. Turn **Send copies of group conversations and events to group members' inboxes** to **On** if you want members to receive copies of group messages and calendar items in their own inbox.
+
+4. Select **Save**.
+
+::: moniker-end
+
 ### Let people outside the organization email the group
 
 This option is great if you want to have a company email address such as info@contoso.com.
  
 ::: moniker range="o365-worldwide"
- 
-#### Use the new admin center to let people outside the organization email the group
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. Refresh your admin center page so your new group appears.
 
@@ -169,10 +175,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 4. Select **Save**.
 
-
-#### Use the old admin center to let people outside the organization email the group
-
 ::: moniker-end
+
+::: moniker range="o365-germany"
 
 1. Refresh your admin center page so your new group appears.
     
@@ -181,6 +186,21 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 3. Set the **Let people outside the organization email the group** toggle to **On**.
     
 4. Select **Save**.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+1. Refresh your admin center page so your new group appears.
+    
+2. In the admin center groups list, select the group you want to change, and then next to **Name**, select **Edit**. 
+    
+3. Set the **Let people outside the organization email the group** toggle to **On**.
+    
+4. Select **Save**.
+
+::: moniker-end
+
+
 
 ## Who can delete email from the Group Inbox?
 
