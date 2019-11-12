@@ -31,10 +31,6 @@ As the admin of an Office 365 organization, you may need to add one of your user
 
 ::: moniker range="o365-worldwide"
 
-### Use the new admin center to add a user or contact 
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
 
 2. On the **Groups** page, select the name of the group you want to add a contact to.
@@ -46,11 +42,10 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     ![Add members to distribution group](../media/f79f59f8-1606-43fe-bae6-df74f5b6259d.png)
   
 5. Select **Save** and then **Close**.
-    
-
-### Use the old admin center to add a user or contact 
 
 ::: moniker-end
+
+::: moniker range="o365-germany"
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
@@ -65,7 +60,29 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 5. Select **Save** and then **Close**.
     
 If you haven't created the [contact](../misc/contacts.md) yet, do that first as shown in this video. 
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
+    
+2. On the **Groups** page, select the group you want to add a contact to.
+    
+3. In the **Members** section, select **Edit**.
+  
+4. On the **View Members** page, select **Add members**, and select the user or contact you want to add to the distribution group. 
+    
+    ![Add members to distribution group](../media/f79f59f8-1606-43fe-bae6-df74f5b6259d.png)
+  
+5. Select **Save** and then **Close**.
+    
+If you haven't created the [contact](../misc/contacts.md) yet, do that first as shown in this video. 
+
+::: moniker-end
+
 <br><br>
+
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ed4e6095-9a6a-4d3d-999d-698c39bb7ec8?autoplay=false]
   
