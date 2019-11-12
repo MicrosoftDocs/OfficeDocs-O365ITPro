@@ -147,10 +147,6 @@ You can also use PowerShell to move users to another domain. See [Set-MsolUserPr
 3. Use the drop-down list to choose another domain.
     
 4. Select **Save**, then **Close**. Repeat this process for any groups or distribution lists associated with the domain that you want to remove.
-    
-#### Use the old admin center to move groups 
-
-1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page. 
 
 ::: moniker-end
 
