@@ -48,11 +48,11 @@ Depending on where a Group is created, certain resources are provisioned automat
 - [SharePoint Team Site](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) – A central repository for information, links and content relating to your group
 - [SharePoint Document Library](https://support.office.com/article/share-group-files-749bc73b-90c9-4760-9b6f-9aa1cf01b403) – A central place for the group to store and share files
 - [OneNote Notebook](https://support.office.com/article/get-started-with-onenote-e768fafa-8f9b-4eac-8600-65aa10b2fe97) – For gathering ideas, research, and information
-- [Planner](https://support.office.com/en-us/article/microsoft-planner-help-4a9a13c6-3adf-4a60-a6fc-15c0b15e16fc) – For assigning and managing project tasks among your group members
+- [Planner](https://support.office.com/article/microsoft-planner-help-4a9a13c6-3adf-4a60-a6fc-15c0b15e16fc) – For assigning and managing project tasks among your group members
 - [Yammer Group](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) – A common place to have conversations and share information
 - Microsoft Teams – A chat-based workspace in Office 365
 
-To learn more about which resources are created for each group, visit [Learn about Office 365 Groups](https://support.office.com/en-us/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+To learn more about which resources are created for each group, visit [Learn about Office 365 Groups](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 
 > [!NOTE]
 > When a new Office 365 Group is created via Yammer or Teams, the group isn't visible in Outlook or the address book because the primary communication between those users happens in their respective clients.
@@ -82,7 +82,7 @@ There are multiple places to have a conversation within Office 365. Understandin
 - SharePoint – Core content collaboration experience for all Office 365 Groups
   - Every Group gets a connected SharePoint team site
   - Share content, create customized pages and author news
-  - [Connect](https://docs.microsoft.com/en-us/sharepoint/dev/features/groupify/groupify-overview) existing SharePoint team sites to new Office 365 Groups
+  - [Connect](https://docs.microsoft.com/sharepoint/dev/features/groupify/groupify-overview) existing SharePoint team sites to new Office 365 Groups
 
 ![image desc](../media/03.png)
 
@@ -117,7 +117,7 @@ There are three primary models of provisioning in Groups: Open, IT-led or Contro
 | -------------- | ------------------------------------------------------------ |
 | Open (default) | Users can create their own groups as needed without needing to wait for, or bother IT. |
 | IT-led         | Users request a group from IT. IT can guide them in selecting the best collaboration tools for their needs. |
-| Controlled     | Group creation restricted to specific people, teams or services. To learn more, see [Manage who can create Office 365 Groups](https://support.office.com/en-us/article/manage-who-can-create-office-365-groups-4c46c8cb-17d0-44b5-9776-005fced8e618). |
+| Controlled     | Group creation restricted to specific people, teams or services. To learn more, see [Manage who can create Office 365 Groups](https://support.office.com/article/manage-who-can-create-office-365-groups-4c46c8cb-17d0-44b5-9776-005fced8e618). |
 
 Your organization might have specific requirements to implement strict controls on who can create groups. Use the following table to help make the decision on which provisioning model fits your organization.
 
@@ -127,7 +127,7 @@ Your organization might have specific requirements to implement strict controls 
 |![image desc](../media/next_steps.png)|Next steps|<ul><li>Document your organization’s requirements for group and team creation.</li><li>Plan to implement these requirements as a part of your groups rollout.</li><li>Communicate and publish your policies to inform users of the behavior they can expect</li><li>Plan to implement dynamic membership where applicable.</li></ul>|
 
 > [!Important]
-> Limiting group and team creation can slow users productivity because many Office 365 services require that groups be created for the service to function. To learn more, see [Why control who creates Office 365 Groups?](https://docs.microsoft.com/en-us/office365/admin/create-groups/manage-creation-of-groups?view=o365-worldwide%23why-control-who-creates-office-365-groups)
+> Limiting group and team creation can slow users productivity because many Office 365 services require that groups be created for the service to function. To learn more, see [Why control who creates Office 365 Groups?](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups?view=o365-worldwide%23why-control-who-creates-office-365-groups)
 
 #### *Resources*
 - [Manage who can create Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups?view=o365-worldwide)
@@ -153,8 +153,8 @@ If you've deleted an Office 365 group, by default it's retained for 30 days. Thi
 
 #### *Resources*
 - [Restore a deleted Office 365 Group](https://support.office.com/article/Restore-a-deleted-Office-365-Group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54?ui=en-US&rs=en-001&ad=US)
-- [Restore a deleted Office 365 group in Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-restore-deleted)
-- [Delete groups using the Remove-UnifiedGroup cmdlet](https://technet.microsoft.com/en-us/library/mt238270%28v=exchg.160%29.aspx)
+- [Restore a deleted Office 365 group in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-restore-deleted)
+- [Delete groups using the Remove-UnifiedGroup cmdlet](https://technet.microsoft.com/library/mt238270%28v=exchg.160%29.aspx)
 
 ### <a name="group-naming-policy"></a>Group naming policy
 A naming policy can help you and your users identify the function of the group, membership, geographic region, or who created the group. The naming policy can also help categorize groups in the address book. You can use the policy to block specific words from being used in group names and aliases.
@@ -206,7 +206,7 @@ Once you set a group to expire:
 
 #### *Resources*
 - [Office 365 Group Expiration Policy](https://support.office.com/article/Office-365-Group-Expiration-Policy-8d253fe5-0e09-4b3c-8b5e-f48def064733?ui=en-US&rs=en-US&ad=US)
-- [Configure the expiration policy for Office 365 groups](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-lifecycle)
+- [Configure the expiration policy for Office 365 groups](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-lifecycle)
 
 ### <a name="group-guest-access"></a>Group guest access
 Admins can control whether to allow guest access to Office 365 Groups for their whole organization or for individual Office 365 groups. They can also control who can allow guests to be added to groups.
@@ -228,7 +228,7 @@ Admins can control whether to allow guest access to Office 365 Groups for their 
 - [Azure AD access reviews](https://docs.microsoft.com/azure/active-directory/active-directory-azure-ad-controls-perform-access-review)
 - [Azure Active Directory Terms of Use feature](https://docs.microsoft.com/azure/active-directory/active-directory-tou)
 - [Google Federation  ](https://docs.microsoft.com/azure/active-directory/b2b/google-federation)
-- [Authorize guest access in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/teams-dependencies)
+- [Authorize guest access in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-dependencies)
 
 ### <a name="group-policies--information-protection"></a>Group policies & information protection
 Office 365 groups is built on the advanced security and compliance capabilities of Office 365 and supports classifications, auditing and reporting, compliance content search, e-discovery, Legal Hold, and retention policies.
@@ -245,8 +245,8 @@ Office 365 groups is built on the advanced security and compliance capabilities 
 
 
 #### *Resources*
-- [Link to your Office 365 Groups usage guidelines](https://docs.microsoft.com/en-us/office365/enterprise/manage-office-365-groups-with-powershell#link-to-your-office-365-groups-usage-guidelines)
-- [Create classifications for Office groups in your organization](https://docs.microsoft.com/en-us/office365/enterprise/manage-office-365-groups-with-powershell#create-classifications-for-office-groups-in-your-organization)
+- [Link to your Office 365 Groups usage guidelines](https://docs.microsoft.com/office365/enterprise/manage-office-365-groups-with-powershell#link-to-your-office-365-groups-usage-guidelines)
+- [Create classifications for Office groups in your organization](https://docs.microsoft.com/office365/enterprise/manage-office-365-groups-with-powershell#create-classifications-for-office-groups-in-your-organization)
 - [Configure Group settings](https://docs.microsoft.com/azure/active-directory/active-directory-accessmanagement-groups-settings-cmdlets)
 - [Overview of retention policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 - [Overview of sensitivity labels](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels)
@@ -255,7 +255,7 @@ Office 365 groups is built on the advanced security and compliance capabilities 
 - [Create or remove an in-place legal hold](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds)
 - [Create a preservation policy](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 - [Run a Content Search in the Office 365 Security & Compliance Center](https://docs.microsoft.com/Office365/SecurityCompliance/content-search)
-- [Bulk create and publish retention labels by using PowerShell](https://docs.microsoft.com/en-us/office365/securitycompliance/bulk-create-publish-labels-using-powershell)
+- [Bulk create and publish retention labels by using PowerShell](https://docs.microsoft.com/office365/securitycompliance/bulk-create-publish-labels-using-powershell)
 
 ### <a name="upgrade-traditional-collaboration-tools"></a>Upgrade traditional collaboration tools
 For years organizations have relied on distribution groups to communicate and collaborate with groups of people both inside and outside the company. Now, however, Office 365 Groups in Outlook offer a more powerful solution for collaboration. In addition, being able to connect an Office 365 group to an existing SharePoint site is important if you want to modernize that site.
@@ -273,10 +273,10 @@ For years organizations have relied on distribution groups to communicate and co
 #### *Resources*
 - [Upgrade Distribution Lists (DL) to groups in Outlook](https://aka.ms/whyupgradedls):
 - [Why you should upgrade your DL to groups in Outlook](https://aka.ms/whyupgradedls)
-- Upgrade with one click via Exchange admin center or via [PowerShell scripts](https://support.office.com/en-us/article/Migrate-distribution-lists-to-Office-365-Groups-Admin-help-787d7a75-e201-46f3-a242-f698162ff09f?ui=en-US&rs=en-US&ad=US)
+- Upgrade with one click via Exchange admin center or via [PowerShell scripts](https://support.office.com/article/Migrate-distribution-lists-to-Office-365-Groups-Admin-help-787d7a75-e201-46f3-a242-f698162ff09f?ui=en-US&rs=en-US&ad=US)
 - [Migrate distribution lists to Office 365 Groups - Admin help](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists)
-- [Connect existing SharePoint sites to Office 365 groups:](https://docs.microsoft.com/en-us/sharepoint/dev/transform/modernize-connect-to-office365-group)
-- [Analyze and use the scanner data](https://docs.microsoft.com/en-us/sharepoint/dev/transform/modernize-connect-to-office365-group-scanner)
+- [Connect existing SharePoint sites to Office 365 groups:](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
+- [Analyze and use the scanner data](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group-scanner)
 - [SharePoint Modernization Scanner](https://github.com/SharePoint/sp-dev-modernization/tree/master/Tools/SharePoint.Modernization) (a tool located on GitHub)
 
 ### <a name="groups-reporting"></a>Groups reporting
@@ -298,11 +298,11 @@ The Office 365 Reports dashboard shows you the activity overview across the Offi
 #### *Resources*
 - [Office 365 Reports in the admin center](https://support.office.com/article/Office-365-Reports-in-the-admin-center-Office-365-groups-a27f1a99-3557-4f85-9560-a28e3d822a40)
 - [Office 365 Adoption content pack](https://support.office.com/article/Office-365-Adoption-Content-Pack-77ff780d-ab19-4553-adea-09cb65ad0f1f)
-- [Azure AD content pack](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-reporting-power-bi-content-pack-how-to)
-- [Microsoft Graph groups activity API](https://developer.microsoft.com/en-us/graph/docs/api-reference/v1.0/resources/office_365_groups_activity_reports)
+- [Azure AD content pack](https://docs.microsoft.com/azure/active-directory/active-directory-reporting-power-bi-content-pack-how-to)
+- [Microsoft Graph groups activity API](https://developer.microsoft.com/graph/docs/api-reference/v1.0/resources/office_365_groups_activity_reports)
 - [Office 365 Groups Report (Unified Groups)](https://gallery.technet.microsoft.com/office/Office-365-Groups-Report-7e3e161b)
 - [Audit activity reports in the Azure Active Directory portal](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-audit-logs)
-- [Microsoft Graph - Use delta query to track changes](https://docs.microsoft.com/en-us/graph/delta-query-overview)
+- [Microsoft Graph - Use delta query to track changes](https://docs.microsoft.com/graph/delta-query-overview)
 
 ## Getting started based on your cloud adoption journey
 
@@ -334,8 +334,8 @@ In addition to the above recommendations consider the following for highly regul
 
 | Stage | Description |
 | --------------- | ------------------------------------------------------------ |
-| Guidance |<ul><li> Define policies for data governance of the SharePoint site associated to the group based on classification.</li><li>[Protect SharePoint Online files with Office 365 labels and DLP](https://docs.microsoft.com/en-us/office365/enterprise/protect-sharepoint-online-files-with-office-365-labels-and-dlp).</li><li>[Protect SharePoint Online files with Azure Information Protection](https://docs.microsoft.com/en-us/office365/enterprise/protect-sharepoint-online-files-with-azure-information-protection).</li><li> Group site provisioned in region tied to user’s Preferred Data Location ([multi-geo](https://docs.microsoft.com/en-us/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)).</li><li> Membership reviews for groups with external members ([access reviews](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-azure-ad-controls-access-reviews-overview)).</li><li>Ensure employees or guest users see relevant disclaimers for legal or compliance requirements before getting access. ([terms of use](https://docs.microsoft.com/en-us/azure/active-directory/governance/active-directory-tou)).</li><li>Identify and report on Office 365 groups with a certain [classification that also have external users](https://techcommunity.microsoft.com/t5/Office-365-Groups/Sample-Powershell-to-identify-groups-with-HBI-classification-and/m-p/215561).</li><li>Secret groups where memberships needed to be hidden must be created using the [New-UnifiedGroup](https://technet.microsoft.com/library/mt219359(v=exchg.160).aspx) cmdlet (using the HiddenGroup-MembershipEnabled switch) on Group creation.</li><li>Define the [sensitivity labels](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels) for the organization to [Restrict access to content by using encryption](https://docs.microsoft.com/Office365/SecurityCompliance/encryption-sensitivity-labels) and publish to specific Office 365 Groups.</li><li>Prevent sensitive content from leaving your organization on devices running Windows using [sensitivity labels with Windows Information Protection](https://docs.microsoft.com/windows/security/information-protection/windows-information-protection/how-wip-works-with-labels?branch=vsts17546553). |
-| Next Steps      | <ul><li> Use site design and site scripts to define the default [actions](https://developer.microsoft.com/en-us/office/blogs/site-scripts-site-designs-summer-2018-update/) that occur when a new site is created. For example, [configure external sharing setting](https://github.com/SharePoint/sp-dev-site-scripts/tree/master/samples/site-apply-external-sharing-setting) or [trigger a Microsoft Flow to call an Azure function](https://github.com/SharePoint/sp-dev-site-scripts/tree/master/samples/site-azure-function) to apply configurations that are not supported natively. </li><li> Document requirements to [Protect SharePoint Online files with Office 365 labels and DLP](https://docs.microsoft.com/en-us/office365/enterprise/protect-sharepoint-online-files-with-office-365-labels-and-dlp) to sites associated to Office 365 Groups.</li><li>Document organization requirements to [Secure SharePoint Online sites and files](https://docs.microsoft.com/en-us/office365/securitycompliance/secure-sharepoint-online-sites-and-files) that are connected to Office 365 groups. </li><li>Document organization requirements to publish [sensitivity labels](https://docs.microsoft.com/en-us/Office365/SecurityCompliance/sensitivity-labels) to specific users or groups to protect content.</li></ul> |
+| Guidance |<ul><li> Define policies for data governance of the SharePoint site associated to the group based on classification.</li><li>[Protect SharePoint Online files with Office 365 labels and DLP](https://docs.microsoft.com/office365/enterprise/protect-sharepoint-online-files-with-office-365-labels-and-dlp).</li><li>[Protect SharePoint Online files with Azure Information Protection](https://docs.microsoft.com/office365/enterprise/protect-sharepoint-online-files-with-azure-information-protection).</li><li> Group site provisioned in region tied to user’s Preferred Data Location ([multi-geo](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)).</li><li> Membership reviews for groups with external members ([access reviews](https://docs.microsoft.com/azure/active-directory/active-directory-azure-ad-controls-access-reviews-overview)).</li><li>Ensure employees or guest users see relevant disclaimers for legal or compliance requirements before getting access. ([terms of use](https://docs.microsoft.com/azure/active-directory/governance/active-directory-tou)).</li><li>Identify and report on Office 365 groups with a certain [classification that also have external users](https://techcommunity.microsoft.com/t5/Office-365-Groups/Sample-Powershell-to-identify-groups-with-HBI-classification-and/m-p/215561).</li><li>Secret groups where memberships needed to be hidden must be created using the [New-UnifiedGroup](https://technet.microsoft.com/library/mt219359(v=exchg.160).aspx) cmdlet (using the HiddenGroup-MembershipEnabled switch) on Group creation.</li><li>Define the [sensitivity labels](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels) for the organization to [Restrict access to content by using encryption](https://docs.microsoft.com/Office365/SecurityCompliance/encryption-sensitivity-labels) and publish to specific Office 365 Groups.</li><li>Prevent sensitive content from leaving your organization on devices running Windows using [sensitivity labels with Windows Information Protection](https://docs.microsoft.com/windows/security/information-protection/windows-information-protection/how-wip-works-with-labels?branch=vsts17546553). |
+| Next Steps      | <ul><li> Use site design and site scripts to define the default [actions](https://developer.microsoft.com/office/blogs/site-scripts-site-designs-summer-2018-update/) that occur when a new site is created. For example, [configure external sharing setting](https://github.com/SharePoint/sp-dev-site-scripts/tree/master/samples/site-apply-external-sharing-setting) or [trigger a Microsoft Flow to call an Azure function](https://github.com/SharePoint/sp-dev-site-scripts/tree/master/samples/site-azure-function) to apply configurations that are not supported natively. </li><li> Document requirements to [Protect SharePoint Online files with Office 365 labels and DLP](https://docs.microsoft.com/office365/enterprise/protect-sharepoint-online-files-with-office-365-labels-and-dlp) to sites associated to Office 365 Groups.</li><li>Document organization requirements to [Secure SharePoint Online sites and files](https://docs.microsoft.com/office365/securitycompliance/secure-sharepoint-online-sites-and-files) that are connected to Office 365 groups. </li><li>Document organization requirements to publish [sensitivity labels](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels) to specific users or groups to protect content.</li></ul> |
 
 ## Groups Management Capability Planning Checklist
 
