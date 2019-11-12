@@ -35,7 +35,6 @@ description: "Follow this checklist to remove an employee from Office 365 and se
 
 # Remove a former employee from Office 365
 
- 
   
 ## Sign out now!
 
@@ -44,14 +43,9 @@ description: "Follow this checklist to remove an employee from Office 365 and se
 > [!TIP]
 > Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
 
-
-### Use the new admin center to remove a former employee
-
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
   
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
-
 
 2. Select the box next to the user's name, and then select **Reset password**.
 
@@ -59,17 +53,17 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 4. Select the user's name to go to their properties pane, and on the **OneDrive** tab, select **Initiate sign-out**.
 
-
-### Use the old admin center to remove a former employee
-  
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
-
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+
+2. Select the user, and then select **Reset password**.
+
+3. Enter a new password, and then select **Reset**. (Don't send it to them.)
+
+4. Select the user again, expand **OneDrive Settings**, and then select **Initiate** next to **Sign-out**.
 
 ::: moniker-end
 
@@ -77,15 +71,15 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
 
-::: moniker-end
-
 2. Select the user, and then select **Reset password**.
 
 3. Enter a new password, and then select **Reset**. (Don't send it to them.)
 
 4. Select the user again, expand **OneDrive Settings**, and then select **Initiate** next to **Sign-out**.
-    
 
+::: moniker-end
+
+    
 Within an hour - or after they leave the current Office 365 page they are on - they will be prompted to sign in again. (The refresh token is good for an hour, so the timeline depends on how much time is left on their token and whether they navigate out of their current webpage.)
   
  **CAVEAT**: If the user is in Outlook on the web, just clicking around in their mailbox, they may not be kicked out immediately. As soon as they select a different tile, such as OneDrive, or refresh their browser, the sign out is initiated. 
@@ -150,8 +144,6 @@ In this step, you assign the former employee's email address to another employee
  > If you're setting up email forwarding or a shared mailbox, at the end, don't delete the former employee's account. The account needs to be there to anchor the email forwarding or shared mailbox. 
 
 ::: moniker range="o365-worldwide"  
-  
-### Use the new admin center to forward a former employee's email
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
@@ -167,24 +159,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 6. Remember, don't delete the former employee's account.
  
-### Use the old admin center to forward a former employee's email
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
-
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
-
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
-
-::: moniker-end
 
 2. Select the employee that you want to block and expand **Mail Settings**.
 
@@ -195,7 +174,26 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 5. Select **Save**. 
     
 6. Remember, don't delete the former employee's account.
- 
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+2. Select the employee that you want to block and expand **Mail Settings**.
+
+3. Next to **Email forwarding**, select **Edit**.
+
+4. Turn on **Forward all email sent to this mailbox**. In the **Forwarding address** box, type the email address of the current employee (or shared mailbox) who's going to get the email. 
+  
+5. Select **Save**. 
+    
+6. Remember, don't delete the former employee's account.
+
+::: moniker-end
+
+
     
 ## Wipe and block a former employee's mobile device
 <a name="bkmk_mobile"> </a>
@@ -224,8 +222,6 @@ If your former employee had a organization phone, you can use the Exchange admin
 
 ::: moniker range="o365-worldwide"
 
-### Use the new admin center to block a user from signing in and accessing Office 365 data
-
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md). 
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
@@ -233,10 +229,6 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 2. Select the name of the employee that you want to block, and under the user's name, select the symbol for **Block this user**.
 
 3. Select **Block the user from signing in**, and then select **Save**. 
-    
-### Use the old admin center to block a user from signing in and accessing Office 365 data
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 ::: moniker-end
 
@@ -244,18 +236,21 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
 
+2. Select the employee that you want to block, and then select **Block sign-in**.
+
+3. Select **Block the user from signing in**, and then select **Save**. 
+
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
 
-::: moniker-end
-
 2. Select the employee that you want to block, and then select **Block sign-in**.
 
 3. Select **Block the user from signing in**, and then select **Save**. 
 
+::: moniker-end
 
 ## Block a former employee's access to email (Exchange Online)
 <a name="bkmk_block_email"> </a>
@@ -279,8 +274,6 @@ So you don't continue paying for a license after someone leaves your organizatio
 When you remove the license, all that user's data is held for 30 days. You can [access](get-access-to-and-back-up-a-former-user-s-data.md) the data, or [restore](restore-user.md) the account if the user comes back. After 30 days, all the user's data (except for documents stored on SharePoint Online) is deleted permanently from Office 365 and can't be recovered. 
 
 ::: moniker range="o365-worldwide"
-  
-### Use the new admin center to remove license from a former employee
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md). 
 
@@ -290,15 +283,15 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 4. Clear the check boxes for the license(s) you want to remove, and then select **Save changes**.
 
-### Use the old admin center to remove a license from a former employee
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
-
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+
+2. Select the employee that you want to block, and then next to **Product licenses**, select **Edit**.
+
+3. On the **Product licenses** page, toggle off the license(s) you want to remove, and then select **Save**.
 
 ::: moniker-end
 
@@ -306,11 +299,12 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
 
+2. Select the employee that you want to block, and then next to **Product licenses**, select **Edit**.
+
+3. On the **Product licenses** page, toggle off the license(s) you want to remove, and then select **Save**.
+
 ::: moniker-end
 
-3. Select the employee that you want to block, and then next to **Product licenses**, select **Edit**.
-
-4. On the **Product licenses** page, toggle off the license(s) you want to remove, and then select **Save**.
 
 **To reduce the number of licenses you're paying for** until you hire another person, do the following: 
 
@@ -357,8 +351,6 @@ Don't delete the account if you've set up email forwarding or converted it to a 
 
 ::: moniker range="o365-worldwide"
 
-### Use the new admin center to delete a former employee's user account
-
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).     
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
@@ -367,15 +359,15 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 3. Under the user's name, select the symbol for **Delete user**. Choose the options you want for this user, and then select **Delete user**.
 
-### Use the old admin center to delete a former employee's user account
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
-
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+
+2. Select the name of the employee that you want to delete.
+
+3. At the top of the page, select **Delete user**. Choose the options you want for this user, and then select **Delete user**.
 
 ::: moniker-end
 
@@ -383,11 +375,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
 
-::: moniker-end
-
 2. Select the name of the employee that you want to delete.
 
 3. At the top of the page, select **Delete user**. Choose the options you want for this user, and then select **Delete user**.
+
+::: moniker-end
 
 When you delete a user, the account becomes inactive for approximately 30 days. You have until then to restore the account before it is permanently deleted.
   

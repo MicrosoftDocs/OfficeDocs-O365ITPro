@@ -46,7 +46,6 @@ To preserve a former user's OneDrive for Business documents you first access the
 
 ::: moniker range="o365-worldwide"
 
-### Use the new admin center to access a former user's OneDrive documents
 
 The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
@@ -59,25 +58,12 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 4. Select the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. 
 
-    
-### Use the old admin center to access a former user's OneDrive documents
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
-
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.  
 
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
-
-::: moniker-end
-    
 2. Select a user.
 
 3. In the right pane, expand **OneDrive Settings**, and then next to **Access**, select **Access files**.
@@ -87,6 +73,26 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 > [!NOTE]
 > You can move up to 500 MB of files and folders at a time.<br/>
 > When you use **Move to** with documents that have version history, only the latest version is moved. To move earlier versions, you need to restore and move each one. 
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
+
+2. Select a user.
+
+3. In the right pane, expand **OneDrive Settings**, and then next to **Access**, select **Access files**.
+
+4. Select the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. 
+
+> [!NOTE]
+> You can move up to 500 MB of files and folders at a time.<br/>
+> When you use **Move to** with documents that have version history, only the latest version is moved. To move earlier versions, you need to restore and move each one. 
+
+::: moniker-end
+    
+
 
 ## Revoke admin access to a user’s OneDrive site
 
