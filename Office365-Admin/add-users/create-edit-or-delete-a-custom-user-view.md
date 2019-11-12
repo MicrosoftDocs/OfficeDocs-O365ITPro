@@ -31,8 +31,6 @@ If you're a global or user management admin of Office 365, you can create custom
 
 ::: moniker range="o365-worldwide"
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
 When you create, edit, or delete a custom user view, the changes will be shown in the **Filter** list that all admins in your company see when they go to the **Users** page. You can create up to 50 custom views. 
 
 ::: moniker-end
@@ -59,7 +57,7 @@ A few things to note about standard views:
   
 ## Choose the filters for your custom user view
 
-You can create and edit your custom views in the **Custom view** pane. (In the new admin center, this is called the **Custom filter** pane.) If you select multiple filter options, you get results that contain users who match all the selected criteria. The following example shows you how to create a custom view named "Canadian users" that shows all users on a specific domain who are in Canada. 
+You can create and edit your custom views in the **Custom filter** pane. If you select multiple filter options, you get results that contain users who match all the selected criteria. The following example shows you how to create a custom view named "Canadian users" that shows all users on a specific domain who are in Canada. 
 
   
  **A - Domain** If you have multiple domains for your organization, you can choose from a drop-down list of domains that are available. 
@@ -88,8 +86,6 @@ You can also filter by additional user profile details used in your organization
 ## Create a custom user view
 
 ::: moniker range="o365-worldwide"
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
@@ -124,8 +120,6 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 ## Edit or delete a custom user view
 
 ::: moniker range="o365-worldwide"
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
