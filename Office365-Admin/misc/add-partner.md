@@ -122,6 +122,7 @@ Follow the steps on the providers page to either search for, or to get matched w
     
 4. Select **Add**.
 
+::: moniker-end
 
 ::: moniker range="o365-germany"
 

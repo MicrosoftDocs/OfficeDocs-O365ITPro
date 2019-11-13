@@ -104,7 +104,7 @@ When you use the **Licenses** page to unassign licenses, you unassign licenses f
 
 ::: moniker range="o365-germany"
   
-1. In the admin center, go to the **Users** <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
 
 2. Select the boxes next to the names of the users you want to unassign all licenses for.
 
