@@ -32,6 +32,8 @@ Several of the Office 365 for business plans have add-ons that you can buy for y
   
 ## Buy an add-on
 
+::: moniker range="o365-worldwide"
+
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=868433" target="_blank">Purchase services</a> page.
 
 2. At the bottom of the **Purchase services** page, select **Add-ons**.
@@ -119,7 +121,6 @@ The steps that you use to update an add-on depend on whether the add-on is a tra
 
 
 ::: moniker range="o365-germany"
-
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
