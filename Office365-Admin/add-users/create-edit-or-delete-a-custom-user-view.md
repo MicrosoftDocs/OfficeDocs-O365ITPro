@@ -87,6 +87,9 @@ You can also filter by additional user profile details used in your organization
 
 ::: moniker range="o365-worldwide"
 
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
 2. On the **Active users** page, select **Filters** and select **New filter**.
@@ -121,6 +124,9 @@ You can also filter by additional user profile details used in your organization
 
 ::: moniker range="o365-worldwide"
 
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
 2. On the **Active users** page, select **Filter**, select the filter you want to change, and then select **Edit filter**. 
@@ -131,7 +137,6 @@ You can also filter by additional user profile details used in your organization
 3. On the **Custom filter** page, edit the information as needed, and then select **Save**. Or, to delete the filter, at the bottom of the page select **Delete**. 
     
 ::: moniker-end
-
 
 ::: moniker range="o365-germany"
 
