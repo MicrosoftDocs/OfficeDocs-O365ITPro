@@ -53,6 +53,10 @@ In SharePoint online, by default, modern authentication is enabled.
 
 ## Set up multi-factor authentication
 
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
+
 1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), turn on the new admin center by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 2. In the left navigation pane, select **Setup**.

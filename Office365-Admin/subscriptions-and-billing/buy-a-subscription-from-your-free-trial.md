@@ -44,6 +44,9 @@ It's easy, and, when you buy the same type of subscription as your trial version
 
 ::: moniker range="o365-worldwide"
 
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
 2. On the **Products & services** page, find the subscription that you want to buy. In the **Licenses** section, select **Purchase subscription**.
@@ -91,6 +94,9 @@ It's easy, and, when you buy the same type of subscription as your trial version
 If you purchase a different type of subscription that your trial, you will have to reassign your user licenses from your trial plan to your new plan (before your 90-day grace period ends after your trial plan expires) in order to retain your data, accounts, and configuration.
 
 ::: moniker range="o365-worldwide"
+
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=868433" target="_blank">Purchase services</a> page.
 

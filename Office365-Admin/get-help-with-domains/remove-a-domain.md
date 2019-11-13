@@ -146,9 +146,6 @@ You can also use PowerShell to move users to another domain. See [Set-MsolUserPr
 
 ::: moniker range="o365-worldwide"
 
-> [!NOTE]
-> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
-
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page. 
     
 2. Select the group name, and then on the **General** tab under **Email address, Primary**, select **Edit**.
@@ -187,9 +184,6 @@ You can also use PowerShell to move users to another domain. See [Set-MsolUserPr
 ### Step 3: Remove the old domain
 
 ::: moniker range="o365-worldwide"
-
-> [!NOTE]
-> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 

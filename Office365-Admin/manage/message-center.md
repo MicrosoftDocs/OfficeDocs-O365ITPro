@@ -122,6 +122,9 @@ If administration is distributed across your organization, you may not want or n
 
 ::: moniker range="o365-worldwide"
 
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
 1. Select **Edit preferences** at the top of Message center.
 
 2. Make sure that the check box is selected for each service that you want to monitor. Clear the check boxes for the services you want to filter out of your Message center view.
