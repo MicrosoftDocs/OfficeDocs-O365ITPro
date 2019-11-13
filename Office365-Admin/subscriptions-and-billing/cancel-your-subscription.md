@@ -42,9 +42,8 @@ If you added your own domain name to use with your subscription, you must remove
 
 ::: moniker range="o365-worldwide"
 
-### Use the new admin center to cancel your subscription
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
@@ -54,15 +53,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
     Your subscription now appears in a **Disabled** state, and has reduced functionality until it's deleted. For more information about what you can expect when a paid Office 365 for business subscription is canceled, see [What happens to my data and access when my Office 365 for business subscription ends?](what-if-my-subscription-expires.md)
 
-### Use the old admin center to cancel your subscription
-
 ::: moniker-end
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
+::: moniker range="o365-germany"
 
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
 2. On the **Subscriptions** page, select a subscription.
 
@@ -73,6 +68,25 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 4. Review the important dates, provide feedback about why you are cancelling, then select **Cancel subscription**.
 
     Your subscription now appears in a **Disabled** state, and has reduced functionality until it's deleted. For more information about what you can expect when a paid Office 365 for business subscription is canceled, see [What happens to my data and access when my Office 365 for business subscription ends?](what-if-my-subscription-expires.md)
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+
+2. On the **Subscriptions** page, select a subscription.
+
+3. From the **More actions** menu, select **Cancel subscription**.
+
+    ![Close up of the More Actions menu.](../media/befa74b7-62c1-42a3-a38e-db76a1c97dba.png)
+
+4. Review the important dates, provide feedback about why you are cancelling, then select **Cancel subscription**.
+
+    Your subscription now appears in a **Disabled** state, and has reduced functionality until it's deleted. For more information about what you can expect when a paid Office 365 for business subscription is canceled, see [What happens to my data and access when my Office 365 for business subscription ends?](what-if-my-subscription-expires.md)
+
+::: moniker-end
+
 
 ## Other steps you might have to take
 
