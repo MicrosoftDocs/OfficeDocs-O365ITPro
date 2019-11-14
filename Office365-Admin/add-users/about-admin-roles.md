@@ -26,7 +26,6 @@ ms.custom: okr_smb
 
 # About admin roles
 
-
 Your subscription comes with a set of admin roles that you can assign to users in your organization. Each admin role maps to common business functions and gives people in your organization permissions to do specific tasks in the admin centers. For more information, see [Assign admin roles](assign-admin-roles.md)
 
 > [!TIP] 
@@ -72,13 +71,15 @@ You'll probably only need to assign the following roles in your organization.
 
 |Admin role     |Who should be assigned this role?  |
 |---------|---------|
-|Exchange admin     |   Assign the Exchange admin role to users who need to view and manage your user’s email mailboxes, Office 365 groups and Exchange Online. <br><br> Exchange admins can also:<br> - Recover deleted items in a user's mailbox <br> - Set up "Send As" and "Send on behalf" delegates <br>  |
+|Exchange admin     |   Assign the Exchange admin role to users who need to view and manage your user's email mailboxes, Office 365 groups, and Exchange Online. <br><br> Exchange admins can also:<br> - Recover deleted items in a user's mailbox <br> - Set up "Send As" and "Send on behalf" delegates <br>  |
 |Global admin     |   Assign the Global admin role to users who need global access to most management features and data across Microsoft online services. <br><br> Giving too many users global access is a security risk and we recommend that you have between 2 and 4 Global admins. <br><br> Only global admins can:<br> - Reset passwords for all users <br> - Add and manage domains <br> <br> **Note:**   The person who signed up for Microsoft online services automatically becomes a Global admin. |
-|Global reader    |   Assign the global reader role to user's who need to view admin features and settings in all admin centers that the global admin can view. The global reader admin can't edit any settings.   |
+|Global reader    |   Assign the global reader role to users who need to view admin features and settings in all admin centers that the global admin can view. The global reader admin can't edit any settings.   |
+|Groups admin     |   Assign the groups admin role to users who need to manage all groups settings across admin centers, including the Microsoft 365 Admin Center, Azure Active Directory portal, Teams admin center, and SharePoint admin center. <br><br> Groups admins can:<br> - Create, edit, delete, and restore Office 365 Groups <br> - Create and update group creation, expiration, and naming policies <br> - Create, edit, delete, and restore Azure Active Directory security groups| 
 |Helpdesk admin     |   Assign the Helpdesk admin role to users who need to do the following:<br> - Reset passwords <br> - Force users to sign out <br> - Manage service requests <br> - Monitor service health <br> <br> **Note**: The Helpdesk admin can only help non-admin users and users assigned these roles: Directory reader, Guest inviter, Helpdesk admin, Message center reader, and Reports reader.      |
+|Office Apps admin    |   Assign the Office Apps admin role to users who need to do the following: <br> - Use the Office cloud policy service to create and manage cloud-based policies for Office <br> - Create and manage service requests <br> - Manage the What’s New content that users see in their Office apps   <br> - Monitor service health  |
 |Service admin    |   Assign the Service admin role as an additional role to admins or users whose role doesn't include the following, but still need to do the following: <br> - Open and manage service requests <br> - View and share message center posts   |
-|SharePoint admin    |   Assign the SharePoint admin role to user's who need to access and manage the SharePoint Online admin center. <br><br>SharePoint admins can also: <br> - Create and delete sites <br> - Manage site collections and global SharePoint settings   |
-|Teams admin    |   Assign the Teams admin role to user's who need to access and manage the Teams admin center. <br><br>Teams admins can also: <br> - Manage meetings <br> - Manage conference bridges <br> - Manage all org-wide settings, including federation, teams upgrade, and teams client settings   |
+|SharePoint admin    |   Assign the SharePoint admin role to users who need to access and manage the SharePoint Online admin center. <br><br>SharePoint admins can also: <br> - Create and delete sites <br> - Manage site collections and global SharePoint settings   |
+|Teams admin    |   Assign the Teams admin role to users who need to access and manage the Teams admin center. <br><br>Teams admins can also: <br> - Manage meetings <br> - Manage conference bridges <br> - Manage all org-wide settings, including federation, teams upgrade, and teams client settings   |
 |User admin     |    Assign the User admin role to users who need to do the following for all users: <br> - Add users and groups <br> - Assign licenses <br> - Manage most users properties <br> - Create and manage user views <br> - Update password expiration policies <br> - Manage service requests <br> - Monitor service health <br><br>  The user admin can also do the following actions for users who aren't admins and for users assigned the following roles: Directory reader, Guest inviter, Helpdesk admin, Message center reader, Reports reader: <br> - Manage usernames<br> - Delete and restore users<br> - Reset passwords <br> - Force users to sign out <br> - Update (FIDO) device keys   |
 
 ### All roles
@@ -103,12 +104,14 @@ You'll probably only need to assign the following roles in your organization.
 |External identity provider admin    |     Configure identity providers for use in direct federation.    |
 |Global admin     |    Has unlimited access to all management features and most data in all admin centers.     |
 |Global reader     |    Has read-only access to all management features and most data in all admin centers.      |
+|Groups admin   |Creates groups and manages all groups settings across admin centers.|
 |Guest inviter     |    Manages Azure Active Directory B2B guest user invitations.     |
 |Helpdesk admin     | Resets passwords and re-authenticates for all non-admins and some admin roles, manages service requests, and monitors service health.      |
 |Kaizala admin     |    Full access to all Kaizala management features and data, manages service requests.     |
 |License admin     |     Assigns and removes licenses from users and edits their usage location.    |
-|Message center privacy reader     |    Access to data privacy messages in Message Center, gets email notifications.     |
-|Message center reader     | Reads and shares regular messages in Message Center, gets weekly email digests, has read-only access to users, groups, domains, and subscriptions.     |
+|Message center privacy reader     |    Access to data privacy messages in Message center, gets email notifications.     |
+|Message center reader     | Reads and shares regular messages in Message center, gets weekly email digests, has read-only access to users, groups, domains, and subscriptions.     |
+|Office Apps admin    |   Manages cloud-based policies for Office and the What's New content that users see in their Office apps.   |
 |Privileged role admin     |    Manages role assignments and all access control features of Privileged Identity Management.     |
 |Reports reader     |   Reads usage reporting data from the reports dashboard, PowerBI adoption content pack, sign-in reports, and Microsoft Graph reporting API.      |
 |Search admin     |    Full access to Microsoft Search, assigns the Search admin and Search editor roles, manages editorial content, monitors service health, and creates service requests.     |
@@ -116,7 +119,7 @@ You'll probably only need to assign the following roles in your organization.
 |Service admin     |    Creates service requests for Azure, Microsoft 365, and Office 365 services, and monitors service health.     |
 |Skype for Business admin     | Full access to all Teams and Skype features, Skype user attributes, manages service requests, and monitors service health.      |
 |SharePoint admin     |    Full access to SharePoint Online, manages Office 365 groups, manages service requests, and monitors service health.     |
-|Teams admin     |    Full access to Teams & Skype admin center, manages Office 365 groups and service requests, and monitors service health.     |
+|Teams service admin     |    Full access to Teams & Skype admin center, manages Office 365 groups and service requests, and monitors service health.     |
 |Teams communication manager     |    Assigns telephone numbers, creates and manages voice and meeting policies, and reads call analytics.     |
 |Teams communication support engineer     |    Reads call record details for all call participants to troubleshoot communication issues.     |
 |Teams communication support specialist     |    Reads user call details only for a specific user to troubleshoot communication issues.|

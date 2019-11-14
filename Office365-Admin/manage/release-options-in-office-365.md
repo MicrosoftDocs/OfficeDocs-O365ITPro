@@ -38,10 +38,10 @@ Any new release is first tested and validated by the feature team, then by the e
   
 ![Release validation rings for Office 365](../media/73611ed3-2d8c-4e7b-8074-9f03b239f9ed.png)
   
-For significant updates, Office customers are initially notified by the [Microsoft 365 Roadmap](https://products.office.com/business/office-365-roadmap). As an update gets closer to rolling out, it is communicated through your [Office 365 Message Center](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter).
+For significant updates, Office customers are initially notified by the [Microsoft 365 Roadmap](https://products.office.com/business/office-365-roadmap). As an update gets closer to rolling out, it is communicated through your [Office 365 Message center](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter).
 
 > [!NOTE]
-> You need an Office 365 or Azure AD account to access your Message Center through the [Admin Center](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center). Office 365 home plan users do not have an admin center.
+> You need an Office 365 or Azure AD account to access your Message center through the [admin center](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center). Office 365 home plan users do not have an admin center.
 
 
 ## Standard release
@@ -117,4 +117,4 @@ To install a targeted release build of Office, [follow these steps](https://supp
   
 ## Learn more
 
-Discover how to [manage messages](https://docs.microsoft.com/office365/admin/manage/message-center) in your [Office 365 Message Center](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter) to get notifications about upcoming Office 365 updates and releases.
+Discover how to [manage messages](https://docs.microsoft.com/office365/admin/manage/message-center) in your [Office 365 Message center](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter) to get notifications about upcoming Office 365 updates and releases.

@@ -15,6 +15,7 @@ ms.collection:
 - M365-subscription-management
 - Adm_O365
 - Adm_NonTOC
+- SPO_Content
 search.appverid:
 - BCS160
 - MET150
