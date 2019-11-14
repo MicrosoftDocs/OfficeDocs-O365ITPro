@@ -107,7 +107,7 @@
 ### [Apply for tax exempt status](subscriptions-and-billing/apply-for-tax-exempt-status.md)
 ### [Renew your subscription](subscriptions-and-billing/renew-your-subscription.md)
 ### [Reactivate your subscription](subscriptions-and-billing/reactivate-your-subscription.md)
-### [Switch to a different plan](subscriptions-and-billing/switch-to-a-different-plan.md)
+### [Upgrade to a different plan](subscriptions-and-billing/upgrade-to-different-plan.md)
 ### [What does switching plans do to my service and billing?](subscriptions-and-billing/what-does-switching-plans-do-to-my-service-and-billing.md)
 ### [Back up data before switching plans](subscriptions-and-billing/back-up-data-before-switching-plans.md)
 ### [Cancel your subscription](subscriptions-and-billing/cancel-your-subscription.md)
