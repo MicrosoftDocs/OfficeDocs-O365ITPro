@@ -62,4 +62,4 @@ Your organization's employees can opt out of Cortana OST experiences individuall
 
 ### Briefing email
 
-Disabling Cortana on the taskbar will not disable Cortana’s Briefing email. Employees must unsubscribe individually. Individuals from your organization can opt out of Cortana’s Briefing email by selecting **Unsubscribe** in the footer of the message.
+Disabling Cortana on the taskbar won't disable Cortana’s Briefing email. Employees must unsubscribe individually. Individuals from your organization can opt out of Cortana’s Briefing email by selecting **Unsubscribe** in the footer of the message.
