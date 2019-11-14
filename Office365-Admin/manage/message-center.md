@@ -122,7 +122,8 @@ If administration is distributed across your organization, you may not want or n
 
 ::: moniker range="o365-worldwide"
 
-#### Use the new admin center to set your Message center preferences
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. Select **Edit preferences** at the top of Message center.
 
@@ -131,11 +132,10 @@ If administration is distributed across your organization, you may not want or n
 3. Digest emails are turned on by default and are sent to your primary email address. To stop receiving the weekly digest, clear the **Send a weekly email digest of my messages** check box. <br/><br/>Email notification for major updates is a separate control. If you want to receive email notices about major updates, verify that **Send me emails for major updates** is selected. Clear the check box to stop getting email about major updates. <br><br/>Select the check box next to **Send me emails for data privacy messages** to receive separate email notifications of data privacy messages (data privacy messages are not included in the weekly digest). <br><br/>You can select or clear your primary email address, but you can't change it. To specify other email addresses to which the data privacy message email is sent, select the **Other email addresses** check box, and enter the other email addresses where you want to have the email sent. Enter the email address for an Office 365 group or a distribution list if more than two people should get data privacy email.
 
 4. Select **Save** to keep your changes.
-
-
-#### Use the old admin center to set your Message center preferences
   
-::: moniker-end
+::: moniker-end 
+
+::: moniker range="o365-germany"
 
 1. Select **Edit Message center preferences** at the top of Message center.
 
@@ -144,6 +144,20 @@ If administration is distributed across your organization, you may not want or n
 3. Digest emails are turned on by default and are sent to your primary email address. To stop receiving the weekly digest, change the **Send a weekly digest of my messages** setting to **Off**. <br/><br/>Email notification for major updates is a separate control. If you want to receive email notices about major updates, verify that **Send me emails for major updates** is **On**. Change the setting to **Off** to stop getting email about major updates. <br/><br/>To receive email notices about data privacy messages, verify that **Send me emails for data privacy messages** is **On**. To stop receiving these notices, change the setting to **Off**. (Data privacy messages are not included in the weekly digest.)<br/><br/>You can select or clear your primary email address, but you can't change it. To specify other email addresses to which the weekly email summary is sent, verify that **Send a weekly digest of my messages** is **On**. Enter the email address for an Office 365 group or a distribution list if more than two people should get the digest email.
 
 4. Select **Save** to keep your changes.<br/>
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. Select **Edit Message center preferences** at the top of Message center.
+
+2. Make sure that the toggle is set to **On** for each service that you want to monitor. Use the toggle to change the setting to **Off** for the services you want to filter out of your Message center view.
+
+3. Digest emails are turned on by default and are sent to your primary email address. To stop receiving the weekly digest, change the **Send a weekly digest of my messages** setting to **Off**. <br/><br/>Email notification for major updates is a separate control. If you want to receive email notices about major updates, verify that **Send me emails for major updates** is **On**. Change the setting to **Off** to stop getting email about major updates. <br/><br/>To receive email notices about data privacy messages, verify that **Send me emails for data privacy messages** is **On**. To stop receiving these notices, change the setting to **Off**. (Data privacy messages are not included in the weekly digest.)<br/><br/>You can select or clear your primary email address, but you can't change it. To specify other email addresses to which the weekly email summary is sent, verify that **Send a weekly digest of my messages** is **On**. Enter the email address for an Office 365 group or a distribution list if more than two people should get the digest email.
+
+4. Select **Save** to keep your changes.<br/>
+
+::: moniker-end
 
 #### Display messages in your preferred language
   
