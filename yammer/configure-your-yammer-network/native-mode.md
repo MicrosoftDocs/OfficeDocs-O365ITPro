@@ -15,7 +15,7 @@ search.appverid:
 description: "Learn the steps required to prepare your Yammer network for Native Mode for Microsoft 365."
 ROBOTS: NOINDEX, NOFOLLOW 
 ---
-# Configure a Yammer network for Native Mode for Microsoft 365
+# Configure your Yammer network for Native Mode for Microsoft 365
 
 ## Requirements for Native Mode
 
@@ -32,7 +32,7 @@ The Microsoft 365 Alignment Tool (“Tool”) will make sure your network meets 
 - You must not have any external groups. Support for external groups is planned but is not available with the initial release of Native Mode.
 - You must not have any network-level or thread-level guests.
 
-## What the Tool does to your network
+## How does the Tool work with your network
 
 The Tool prepares your network for Native Mode by disabling some features and mitigating previously created instances of those features. Those changes include:
 
@@ -59,7 +59,7 @@ In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint.
 1. Export files stored in Azure. Make sure you export and verify all files stored in Azure before starting the Tool.
 2. Download the User and Group Activity Report, which provides a list of all files that will be migrated to SharePoint from Azure and automatically deleted from Azure cloud storage files within 30 days after the Tool completes its work.
 
->[!NOTES]
+>[!NOTE]
 > Only the latest version of the file is migrated to SharePoint from Azure, and the version history is not copied.
 > The follower count is not copied.
 > Users can no longer mark files as official.
