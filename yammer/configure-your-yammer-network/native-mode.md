@@ -99,10 +99,6 @@ You can learn more about what happens after the files have been migrated (see [H
 
 ## See also
 
-[Prepare files in Yammer for Native Mode for Microsoft 365](file-migration-Native-mode.md)
+[Overview of Native Mode](overview-native-mode.md)
 
-[Office 365 Security & Compliance Center](https://protection.office.com)
-
-[Manage data compliance in Yammer](../manage-security-and-compliance/manage-data-compliance.md)
-
-[Enforce Office 365 identity](enforce-office-365-identity.md)
+[Troubleshooting your Yammer network in Native Mode](troubleshoot-native-mode.md)

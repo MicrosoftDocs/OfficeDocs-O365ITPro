@@ -34,9 +34,8 @@ description: "Learn how to add more licenses to your Office 365 for business sub
 
 ::: moniker range="o365-worldwide"
 
-## Use the new admin center to buy licenses
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
@@ -50,15 +49,9 @@ After you purchase new licenses, be sure to [assign the licenses to users](../ma
 
 ::: moniker-end
 
-::: moniker range="o365-worldwide"
-## Use the old admin center to buy licenses
-::: moniker-end
+::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
 2. On the **Subscriptions** page, select the subscription to which you want to add licenses, and then select **Add/Remove licenses**.
 
@@ -67,6 +60,23 @@ After you purchase new licenses, be sure to [assign the licenses to users](../ma
 3. In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then select **Submit** \> **Close**. For example, if you have 100 licenses and you need to add 5 more, enter 105.
 
 After you purchase new licenses, be sure to [assign the licenses to users](../manage/assign-licenses-to-users.md).
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+
+2. On the **Subscriptions** page, select the subscription to which you want to add licenses, and then select **Add/Remove licenses**.
+
+    [What if I don't see the Add/Remove licenses link?](#what-if-i-dont-see-the-addremove-licenses-link)
+
+3. In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then select **Submit** \> **Close**. For example, if you have 100 licenses and you need to add 5 more, enter 105.
+
+After you purchase new licenses, be sure to [assign the licenses to users](../manage/assign-licenses-to-users.md).
+
+::: moniker-end
+
 
 ## What if I don't see the Add/Remove licenses link?
 

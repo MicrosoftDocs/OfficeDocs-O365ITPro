@@ -12,6 +12,7 @@ ms.collection:
 - Adm_O365
 - Adm_TOC
 - Adm_O365_Setup
+- SPO_Content
 ms.custom:
 - IT_Networking
 search.appverid:
