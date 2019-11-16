@@ -68,7 +68,7 @@ In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint.
 
 To use Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint. Having files in SharePoint makes admins and end user usage and management easier.
 
-As part of migration:
+### As part of migration
 
 - Files in Azure will be deleted, including any files attached to Private messages.
 - Users will no longer be able to upload files to Private messages. Link sharing will still be available.
@@ -105,14 +105,14 @@ Because migration deletes files and the process is irreversible, you need to dec
 |New file|New files are stored in SharePoint.|File will be in Azure, but migrated to SharePoint by the time the Tool has completed its work.|N/A|
 ||||
 
-#### After migration
+### After migration
 
 You can learn more about what happens after the files have been migrated (see [How do I tell where my Yammer files are being stored](https://go.microsoft.com/fwlink/?linkid=2111253).
 
 ## To configure your network to Native Mode:*
 
 1. In the Yammer admin center, go to **Network Admin** > **Configure** > **Microsoft 365 Alignment Tool**. You must be an Office 365 Global Admin and a Verified Admin in Yammer to run the Native Mode for Microsoft 365 Alignment Tool.
-2. Start the Microsoft 365 Alignment Tool and export all files in Azure Data Storage.
+2. Start the **Microsoft 365 Alignment Tool** and export all files in Azure Data Storage.
 3. Download the User and Group Activity Report to see how many files will be migrated and how many will be deleted.
 4. When your export is complete, start the migration within the Tool.
   a. You can start migration while you export files, but the export data may be inaccurate.
