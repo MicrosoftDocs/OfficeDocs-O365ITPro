@@ -93,8 +93,8 @@ Because migration deletes files and the process is irreversible, you need to dec
 3. When your export is complete, start the migration from the Microsoft 365 Alignment Tool.
 - You can start migration when export is running, but the export data may be inaccurate.
 4. Once Microsoft 365 Alignment Tool has completed its work, review the  reports and determine if other steps are necessary before your network can be in Native Mode for Microsoft 365.
- - SLA - up to 30 days for networks with < 100K files
- - SLA - up to 45 days for networks with > 100K files
+- SLA - up to 30 days for networks with < 100K files
+- SLA - up to 45 days for networks with > 100K files
 
 #### End user experience
 
