@@ -107,6 +107,7 @@ Because migration deletes files and the process is irreversible, you need to dec
 
 ### After migration
 
+<<<<<<< Updated upstream
 You can learn more about what happens after the files have been migrated, see [How do I tell where my Yammer files are being stored](https://go.microsoft.com/fwlink/?linkid=2111253)
 
 <<<<<<< Updated upstream
@@ -123,6 +124,9 @@ You can learn more about what happens after the files have been migrated, see [H
 5. Once the Tool has completed its work, review the reports and determine if other steps are necessary before your network can be in Native Mode for Microsoft 365.
   a. SLA – up to 30 days for networks with < 100,000 files
   b. SLA – up to 45 days for networks with > 100,000 files
+=======
+You can learn more about what happens after the files have been migrated, see [How do I tell where my Yammer files are being stored](https://go.microsoft.com/fwlink/?linkid=2111253).
+>>>>>>> Stashed changes
 
 ## See also
 
