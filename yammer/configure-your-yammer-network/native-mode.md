@@ -107,26 +107,7 @@ Because migration deletes files and the process is irreversible, you need to dec
 
 ### After migration
 
-<<<<<<< Updated upstream
 You can learn more about what happens after the files have been migrated, see [How do I tell where my Yammer files are being stored](https://go.microsoft.com/fwlink/?linkid=2111253)
-
-<<<<<<< Updated upstream
-## To configure your network to Native Mode:*
-=======
-## To configure your network to Native Mode
->>>>>>> Stashed changes
-
-1. In the Yammer admin center, go to **Network Admin** > **Configure** > **Microsoft 365 Alignment Tool**. You must be an Office 365 Global Admin and a Verified Admin in Yammer to run the Native Mode for Microsoft 365 Alignment Tool.
-2. Start the **Microsoft 365 Alignment Tool** and export all files in Azure Data Storage.
-3. Download the User and Group Activity Report to see how many files will be migrated and how many will be deleted.
-4. When your export is complete, start the migration within the Tool.
-  a. You can start migration while you export files, but the export data may be inaccurate.
-5. Once the Tool has completed its work, review the reports and determine if other steps are necessary before your network can be in Native Mode for Microsoft 365.
-  a. SLA – up to 30 days for networks with < 100,000 files
-  b. SLA – up to 45 days for networks with > 100,000 files
-=======
-You can learn more about what happens after the files have been migrated, see [How do I tell where my Yammer files are being stored](https://go.microsoft.com/fwlink/?linkid=2111253).
->>>>>>> Stashed changes
 
 ## See also
 
