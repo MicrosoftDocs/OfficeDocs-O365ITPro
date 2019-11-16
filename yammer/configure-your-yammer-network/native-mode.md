@@ -101,13 +101,13 @@ Because migration deletes files and the process is irreversible, you need to dec
 |Tasks|Office 365 Yammer Groups|Unconnected Yammer Groups|Private Messages|
 |-----|------------------------|-------------------------|----------------|
 |Delete files|User can delete files.|File will be deleted and not migrated to SharePoint.|Files will be deleted and users will no longer have access to these files.|
-|Edit file|Edited files will be stored in SharePoint.|Only the latest file will be migrated to SharePoint.|If a user edits a file during migration, there is a chance of data loss. Old versions are no longer accessible in SharePoint.|N/A|
+|Edit file|Edited files will be stored in SharePoint.|Only the latest file will be migrated to SharePoint. If a user edits a file during migration, there is a chance of data loss. Old versions are no longer accessible in SharePoint.|N/A|
 |New file|New files are stored in SharePoint.|File will be in Azure, but migrated to SharePoint by the time the Tool has completed its work.|N/A|
 ||||
 
 ### After migration
 
-You can learn more about what happens after the files have been migrated (see [How do I tell where my Yammer files are being stored](https://go.microsoft.com/fwlink/?linkid=2111253).
+You can learn more about what happens after the files have been migrated, see [How do I tell where my Yammer files are being stored](https://go.microsoft.com/fwlink/?linkid=2111253)
 
 ## To configure your network to Native Mode:*
 
