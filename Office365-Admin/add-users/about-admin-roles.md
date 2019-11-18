@@ -112,6 +112,7 @@ You'll probably only need to assign the following roles in your organization.
 |Message center privacy reader     |    Access to data privacy messages in Message center, gets email notifications.     |
 |Message center reader     | Reads and shares regular messages in Message center, gets weekly email digests, has read-only access to users, groups, domains, and subscriptions.     |
 |Office Apps admin    |   Manages cloud-based policies for Office and the What's New content that users see in their Office apps.   |
+|Power platform admin     |    Full access to Microsoft Dynamics 365, PowerApps, data loss prevention policies, and Microsoft Flow.     |
 |Privileged role admin     |    Manages role assignments and all access control features of Privileged Identity Management.     |
 |Reports reader     |   Reads usage reporting data from the reports dashboard, PowerBI adoption content pack, sign-in reports, and Microsoft Graph reporting API.      |
 |Search admin     |    Full access to Microsoft Search, assigns the Search admin and Search editor roles, manages editorial content, monitors service health, and creates service requests.     |
