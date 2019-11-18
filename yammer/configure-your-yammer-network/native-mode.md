@@ -66,36 +66,48 @@ In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint.
 
 ## To prepare files for migration
 
-To use Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint. Having one consistent location for files makes usage easier for both admins and end-users:
+To use Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint. Having files in SharePoint makes admins and end user usage and management easier.
 
-- **Admins** can use the same security and compliance tools for Yammer as they do with the rest of Office 365. The tools, including eDiscovery, have a consistent way to export all files and simplify complying with GDPR requests.
-- **End users** follow the same processes with all files in all groups, including the ability to add conditional access policies on specific files.
+### As part of migration
 
-*Before migration*
+- Files in Azure will be deleted, including any files attached to Private messages.
+- Users will no longer be able to upload files to Private messages. Link sharing will still be available.
+
+### Before migration
+
 Because migration deletes files and the process is irreversible, you need to decide how to handle these files. We recommend you:
 
 - Export the files before migration and save them in case anyone asks for them.
 - [Update to the latest versions](https://go.microsoft.com/fwlink/?linkid=2111082) of Yammer Android, Yammer iOS, and Yammer Desktop apps, as older versions will have issues uploading files to SharePoint.
 - Use new APIs to upload files. The previous versions will be blocked and the file upload won’t work.
-- Files will be deleted.
-- Files in Private messages might start to disappear. The Tool will prevent attaching or uploading files to new private messages. Link sharing will still be available.
+- Notify users that this migration is going to happen.
+- Notify users, that they may notice files in Private messages might start to disappear during this process
 
-*During migration*
-WAITING ON MADHURI FOR A NEW TABLE
+### During migration
 
-*After migration*
-You can learn more about what happens after the files have been migrated (see [How do I tell where my Yammer files are being stored](https://go.microsoft.com/fwlink/?linkid=2111253).
+#### Admin user experience
 
-*To configure your network to Native Mode:*
+1. Start the **Microsoft 365 Alignment Tool** and export all files in Azure Data Storage.
+2. Download the **User and Group Activity Report** to see how many files will be migrated and how many will be deleted.
+- Identify if there needs to be action taken on any of the items.
+3. When your export is complete, start the migration from the Microsoft 365 Alignment Tool.
+- You can start migration when export is running, but the export data may be inaccurate.
+4. Once Microsoft 365 Alignment Tool has completed its work, review the  reports and determine if other steps are necessary before your network can be in Native Mode for Microsoft 365.
+- SLA - up to 30 days for networks with < 100K files
+- SLA - up to 45 days for networks with > 100K files
 
-1. In the Yammer admin center, go to **Network Admin** > **Configure** > **Microsoft 365 Alignment Tool**. You must be an Office 365 Global Admin and a Verified Admin in Yammer to run the Native Mode for Microsoft 365 Alignment Tool.
-2. Start the Microsoft 365 Alignment Tool and export all files in Azure Data Storage.
-3. Download the User and Group Activity Report to see how many files will be migrated and how many will be deleted.
-4. When your export is complete, start the migration within the Tool.
-  a. You can start migration while you export files, but the export data may be inaccurate.
-5. Once the Tool has completed its work, review the reports and determine if other steps are necessary before your network can be in Native Mode for Microsoft 365.
-  a. SLA – up to 30 days for networks with < 100,000 files
-  b. SLA – up to 45 days for networks with > 100,000 files
+#### End user experience
+
+|Tasks|Office 365 Yammer Groups|Unconnected Yammer Groups|Private Messages|
+|-----|------------------------|-------------------------|----------------|
+|Delete files|User can delete files.|File will be deleted and not migrated to SharePoint.|Files will be deleted and users will no longer have access to these files.|
+|Edit file|Edited files will be stored in SharePoint.|Only the latest file will be migrated to SharePoint. If a user edits a file during migration, there is a chance of data loss. Old versions are no longer accessible in SharePoint.|N/A|
+|New file|New files are stored in SharePoint.|File will be in Azure, but migrated to SharePoint by the time the Tool has completed its work.|N/A|
+||||
+
+### After migration
+
+You can learn more about what happens after the files have been migrated, see [How do I tell where my Yammer files are being stored](https://go.microsoft.com/fwlink/?linkid=2111253)
 
 ## See also
 
