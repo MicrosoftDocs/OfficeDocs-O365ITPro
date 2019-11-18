@@ -46,7 +46,7 @@ Microsoft recommends that you complete the tasks listed in the following table t
 |9  <br/> |[Protect against malicious attachments and files with ATP Safe Attachments](secure-your-business-data.md#atp) <br/> ||![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
 |10  <br/> |[Protect against phishing attacks with ATP Safe Links](secure-your-business-data.md#phishingatp) <br/> ||![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
    
-Before you begin, check your [Microsoft 365 Secure Score](https://docs.microsoft.com/en-us/office365/securitycompliance/microsoft-secure-score) in the Microsoft 365 security center. From a centralized dashboard, you can monitor and improve the security for your Microsoft 365 identities, data, apps, devices, and infrastructure. You are given points for configuring recommended security features, performing security-related tasks (such as viewing reports), or addressing recommendations with a third-party application or software. With additional insights and more visibility into a broader set of Microsoft products and services, you can feel confident reporting about your organization’s security health.
+Before you begin, check your [Microsoft 365 Secure Score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score) in the Microsoft 365 security center. From a centralized dashboard, you can monitor and improve the security for your Microsoft 365 identities, data, apps, devices, and infrastructure. You are given points for configuring recommended security features, performing security-related tasks (such as viewing reports), or addressing recommendations with a third-party application or software. With additional insights and more visibility into a broader set of Microsoft products and services, you can feel confident reporting about your organization’s security health.
   
 ![Screenshot of Microsoft Secure Score](../media/secure-score.png)
   
@@ -340,5 +340,3 @@ To create a new policy targeted to all recipients in your domain:
 |Applied to  <br/> |The recipient domain is . . . select your domain.  <br/> |
    
 For more information, see [Office 365 ATP safe links](https://go.microsoft.com/fwlink/?linkid=2016138&amp;clcid=0x409).
-  
-
