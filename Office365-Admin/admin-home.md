@@ -212,7 +212,7 @@ Learn about resources available for admins.
                     <div class="cardText">
                         <h3>Troubleshoot</h3>
                         <p><a href="https://go.microsoft.com/fwlink/?linkid=522692">Fix Office install issues</a></p>
-                        <p><a href="https://diagnostics.outlook.com/">Fix Outlook and Office 365 problems with Microsoft Support and Recovery Assistant for Office 365</a></p>
+                        <p><a href="https://diagnostics.outlook.com/">Fix Outlook and Office 365 problems with the Microsoft Support and Recovery Assistant</a></p>
                         <p><a href="https://docs.microsoft.com/office365/troubleshoot/troubleshooting/troubleshoot-email-issues">Fix email issues</a></p>
                         <p><a href="https://go.microsoft.com/fwlink/?linkid=866431">Fix OneDrive for Business sync issues</a></p>
                     </div>
