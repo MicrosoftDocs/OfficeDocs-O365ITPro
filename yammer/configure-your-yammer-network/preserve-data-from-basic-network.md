@@ -23,14 +23,17 @@ A Yammer Basic network cannot coexist with a Yammer Enterprise network on Office
 **To preserve data from the network formerly associated with your domain**:
 
 1. Click Settings ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) in the home Yammer network of your Office 365 tenant.
+
 2. Choose the network formerly associated with your domain from the list of available networks.
-3. Export the data for the network formerly associated with your domain. For instructions, see [Export data from Yammer Enterprise](export-yammer-basic-data.md). None of the data from your Yammer Basic Network will be migrated to your Yammer Enterprise network for your Office 365 tenant.
+
+3. Export the data for the network formerly associated with your domain. For instructions, see [Export data from Yammer Enterprise](../manage-security-and-compliance/export-yammer-enterprise-data.md). None of the data from your Yammer Basic Network will be migrated to your Yammer Enterprise network for your Office 365 tenant.
 
 ## Additional information
 
-- To learn what to do when a domain associated with a Basic Yammer network is added to your Office 365 tenant, see [Manage domains in Yammer](manage-yammer-domains.md).
-- To understand the difference between Yammer Basic and Yammer Enterprise networks, see [Compare options for a free trial of Yammer](compare-options-for-a-free-trial.md).
+- To learn what to do when a domain associated with a Basic Yammer network is added to your Office 365 tenant, see [Manage Yammer domains in Office 365](manage-yammer-domains.md).
+
+- To understand the difference between Yammer Basic and Yammer Enterprise networks, see [Compare options for a free trial of Yammer](../get-started-with-yammer/compare-options-for-a-free-trial.md).
 
 ## See also
 
-[Consolidate multiple yammer networks](consolidate-multiple-yammer-networks.md)
+[Network migration - Consolidate multiple Yammer networks](consolidate-multiple-yammer-networks.md)

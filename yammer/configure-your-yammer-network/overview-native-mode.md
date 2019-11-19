@@ -27,7 +27,9 @@ In Native Mode, all Yammer users are in Azure Active Directory (AAD), all groups
 A Yammer network must be in one of three modes:
 
 - **Native Mode for Microsoft 365**. In this mode, the network only uses features that allow users, groups, and content to be compatible with and mapped to their counterparts in AAD and Office 365.
+
   When Yammer content is in Native Mode, you can search for it in the Office Security & Compliance Center.
+  
   In this mode, users and admins can't add features that would take the network out of Native Mode.
 
 - **Non-Native Mode**. In this mode, the network does not meet one or more requirements. For example, the network may not enforce Office 365 identity. All external networks and Yammer Basic networks are in this mode because they cannot connect to Office 365.
@@ -77,7 +79,11 @@ Admins can add flags to stop users from taking actions that prevent the network 
 ## See also
 
 [Configure your Yammer network for Native Mode](native-mode.md)
+
 [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2111321)
-[Manage data compliance in Yammer](manage-data-compliance.md)
-[Enforce Office 365 identity](enforce-office-365-identity.md)
-[Troubleshooting your Yammer network in Native Mode](troubleshoot-native-mode.md)
+
+[Manage Yammer data compliance](../manage-security-and-compliance/manage-data-compliance.md)
+
+[Enforce Office 365 identity for Yammer users](enforce-office-365-identity.md)
+
+[Troubleshoot problems with Native Mode for Microsoft 365](../troubleshoot-problems/troubleshoot-native-mode.md)

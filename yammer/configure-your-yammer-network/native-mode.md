@@ -15,6 +15,7 @@ search.appverid:
 description: "Learn the steps required to prepare your Yammer network for Native Mode for Microsoft 365."
 ROBOTS: NOINDEX, NOFOLLOW 
 ---
+
 # Configure your Yammer network for Native Mode for Microsoft 365
 
 ## Requirements for Native Mode
@@ -91,6 +92,7 @@ To use Native Mode for Microsoft 365, all Yammer files must be stored in SharePo
 ### As part of migration
 
 - Files in Azure will be deleted, including any files attached to Private messages.
+
 - Users will no longer be able to upload files to Private messages. Link sharing will still be available.
 
 ### Before migration
@@ -144,4 +146,4 @@ You can learn more about what happens after the files have been migrated, see [H
 
 [Overview of Native Mode](overview-native-mode.md)
 
-[Troubleshooting your Yammer network in Native Mode](troubleshoot-problems/troubleshoot-native-mode.md)
+[Troubleshoot problems with Native Mode for Microsoft 365](../troubleshoot-problems/troubleshoot-native-mode.md)
