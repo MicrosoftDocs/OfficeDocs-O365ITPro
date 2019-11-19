@@ -91,6 +91,9 @@ You must have a global admin account to perform these steps.
 4. Follow the steps to confirm that you own your domain and to change your email address.
     
 You'll be guided to get everything set up correctly with your domain in Office 365.
+
+> [!NOTE]
+> If you're not using an exchange license, you cannot use the domain to send/receive emails from the o365 tenant.
   
 ## See Also
 
