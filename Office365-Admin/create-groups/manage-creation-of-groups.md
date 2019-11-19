@@ -189,7 +189,38 @@ The last line of the script will display the updated settings:
 
 If in the future you want to change which security group is used, you can rerun the script with the name of the new security group.
 
-If you want to turn off the group creation restriction and again allow all users to create groups, set `$GroupName` to "" and `$AllowGroupCreation` to "True" and rerun the script.
+If you want to turn off the group creation restriction and again allow all users to create groups, Run the below script
+
+```PowerShell
+$GroupName = ""
+$AllowGroupCreation = "True"
+
+Connect-AzureAD
+
+$settingsObjectID = (Get-AzureADDirectorySetting | Where-object -Property Displayname -Value "Group.Unified" -EQ).id
+if(!$settingsObjectID)
+{
+	  $template = Get-AzureADDirectorySettingTemplate | Where-object {$_.displayname -eq "group.unified"}
+    $settingsCopy = $template.CreateDirectorySetting()
+    New-AzureADDirectorySetting -DirectorySetting $settingsCopy
+    $settingsObjectID = (Get-AzureADDirectorySetting | Where-object -Property Displayname -Value "Group.Unified" -EQ).id
+}
+
+$settingsCopy = Get-AzureADDirectorySetting -Id $settingsObjectID
+$settingsCopy["EnableGroupCreation"] = $AllowGroupCreation
+
+
+if($GroupName)
+{
+$settingsCopy["GroupCreationAllowedGroupId"] = (Get-AzureADGroup -SearchString $GroupName).objectid
+} else {
+$settingsCopy["GroupCreationAllowedGroupId"] = $GroupName
+}
+
+Set-AzureADDirectorySetting -Id $settingsObjectID -DirectorySetting $settingsCopy
+
+(Get-AzureADDirectorySetting -Id $settingsObjectID).Values
+```
     
 ## Step 4: Verify that it works
 
