@@ -66,9 +66,9 @@ You won't be able to take your network to Native Mode for Microsoft 365 until yo
 
 ## See also
 
-[Overview of Native Mode for Microsoft 365](overview-native-mode.md)
+[Overview of Native Mode](../configure-your-yammer-network/overview-native-mode.md)
 
-[Configure your Yammer network for Native Mode](native-mode.md)
+[Configure your Yammer network for Native Mode for Microsoft 365](../configure-your-yammer-network/native-mode.md)
 
 [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2111321)
 
