@@ -111,6 +111,6 @@ You can learn more about what happens after the files have been migrated, see [H
 
 ## See also
 
-[Overview of Native Mode](overview-native-mode.md)
+[Overview of Native Mode](overview-native-mode)
 
-[Troubleshooting your Yammer network in Native Mode](troubleshoot-native-mode.md)
+[Troubleshooting your Yammer network in Native Mode](troubleshoot-native-mode)
