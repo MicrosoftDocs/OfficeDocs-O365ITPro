@@ -130,6 +130,16 @@ Updates for add-ins happen as follows:
 - **Line-of-business add-in:** In this case, where an admin explicitly uploaded a manifest, the add-in requires that the admin upload a new manifest file to support metadata changes. The next time the relevant Office applications start, the add-in will update. The web application can change at any time. 
     
 - **Office Store add-in:** When an admin selected an add-in from the Office Store, if an add-in updates in the Office Store, the add-in will update later in Centralized Deployment. The next time the relevant Office applications start, the add-in will update. The web application can change at any time. 
+
+### Edit Add-in access
+
+Post Deployment, Admin can also modify the user access to add-in 
+
+1. In the admin center, go to the Settings > Services & add-ins page.
+
+2. Select the Deployed Add-in.
+
+3. Click on **Edit** under **Who has Access**
     
 ### Prevent add-in downloads by turning off the Office Store across all clients (Except Outlook)
 
@@ -251,6 +261,16 @@ If the deployed add-in doesn't support add-in commands or if you want to view al
 1. On the **Home** ribbon, select **Get Add-ins**.<br/>![Store button in Outlook](../media/getaddinsicon.png)
   
 2. Select **Admin-managed** in the left nav.
+
+## Delete the add-in
+
+If you want to delete the add-in that was deployed
+
+1. In the admin center, go to the Settings > Services & add-ins page.
+
+2. Select the Deployed Add-in.
+
+3. Click on **Delete Add-In**
   
 ## Learn more
 
