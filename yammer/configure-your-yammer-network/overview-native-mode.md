@@ -13,6 +13,7 @@ search.appverid:
 - MOE150
 - MET150
 description: "Learn about Native Mode for Microsoft 365."
+ROBOTS: NOINDEX, NOFOLLOW
 ---
 
 # Overview of Native Mode
@@ -39,7 +40,7 @@ When you decide to enter your Yammer network in Native Mode, the Microsoft 365 A
 
 - Locking your network into Native Mode when that work is complete. It does this by both preventing new instances of the incompatible item, and by mitigating existing items to be compliant.
 
- You can either allow the Tool to make all the changes or mitigate some issues yourself before running the second part of the Tool. See [Configure your Yammer network for Native Mode](native-mode.com).
+ You can either allow the Tool to make all the changes or mitigate some issues yourself before running the second part of the Tool. See [Configure your Yammer network for Native Mode](native-mode.md).
 
 ## Key differences between modes
 
