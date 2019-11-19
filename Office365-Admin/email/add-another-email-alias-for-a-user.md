@@ -31,7 +31,7 @@ description: "Learn how you can have more than one email address, called email a
 
 ::: moniker-end
   
-This article is for Office 365 global admins who have business subscriptions. It's not for home users.
+This article is for Office 365 administrators who have business subscriptions. It's not for home users.
   
 A primary email address in Office 365 is usually the email address a user was assigned when their account was created. When the user sends email to someone else, their primary email address is what typically appears in the  *From*  field in email apps. They can also have more than one email address associated with their Office 365 for business account. These additional addresses are called aliases. 
   
