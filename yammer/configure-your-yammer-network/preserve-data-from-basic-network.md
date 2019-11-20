@@ -45,7 +45,7 @@ Below is a set of actions we immediately take after you add a domain. Also, ther
 3. Export the data for the network formerly associated with your domain. For instructions, see [Export data from Yammer Enterprise](../manage-security-and-compliance/export-yammer-enterprise-data.md). None of the data from your Yammer Basic Network will be migrated to your Yammer Enterprise network for your Office 365 tenant.
 
 >[!NOTE]
-> If you do not want to access or download content from the network formerly associated with the added domain, you don’t need to do anything. **The network formerly associated with the added domain, including all data in such a network, will be automatically deleted and no longer discoverable through search or data export.**
+> If you do not want to access or download content from the network formerly associated with the added domain, you don’t need to do anything. **The network formerly associated with the added domain—including all data in such a network—will be automatically deleted.**
 
 ## Additional information
 
