@@ -18,13 +18,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # What happens when you add a domain to your Office 365 tenant associated with a Yammer Basic network
 
-In Yammer, having multiple primary networks is not supported. If you add an external domain with a Yammer Basic network (“Basic network”) to your Office 365 tenant, we must disassociate the domain from the basic network in order to associate the domain with the primary network for your O365 tenant.  The basic network is then queued for deletion. 
+In Yammer, having multiple primary networks is not supported.
+
+If you add an external domain with a Yammer Basic network (“Basic network”) to your Office 365 tenant, we must *disassociate* the domain from the basic network in order to *associate* that domain with the primary network for your O365 tenant. **The basic network is then queued for deletion.**
 
 Below is a set of actions we immediately take after you add a domain. Also, there’s a set of steps you can take to preserve the data from the network before we delete it.
 
-Microsoft will:
+### Microsoft will:
 
-- Remove all users—from the network formerly associated with the added domain—so they can access the Basic network for your Office 365 tenant if permitted to do so based on your Yammer licensing.
+- Remove all users—from the network formerly associated with the added domain—so they can access the primary network for your Office 365 tenant if permitted to do so based on your Yammer licensing.
 
 - Enable the network formerly associated with the added domain to allow for data export.
 
@@ -43,7 +45,7 @@ Microsoft will:
 3. Export the data for the network formerly associated with your domain. For instructions, see [Export data from Yammer Enterprise](../manage-security-and-compliance/export-yammer-enterprise-data.md). None of the data from your Yammer Basic Network will be migrated to your Yammer Enterprise network for your Office 365 tenant.
 
 >[!NOTE]
-> If you do not want to access or download content from the network formerly associated with the added domain, you don’t need to do anything. The network formerly associated with the added domain, including all data in such a network, will be automatically deleted.
+> If you do not want to access or download content from the network formerly associated with the added domain, you don’t need to do anything. **The network formerly associated with the added domain, including all data in such a network, will be automatically deleted and no longer discoverable through search or data export.**
 
 ## Additional information
 
