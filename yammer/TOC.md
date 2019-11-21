@@ -15,7 +15,7 @@
 ### [Configure Yammer](configure-your-yammer-network/configure-yammer.md)
 ### [Customize the look](configure-your-yammer-network/customize-the-look-of-yammer.md)
 ### [Configure email and Yammer](configure-your-yammer-network/configure-email-and-yammer.md)
-### [What happens when you add a domain to your Office 365 tenant associated with a Yammer Basic network](preserve-data-from-basic-network.md)
+### [What happens when you add a domain to your Office 365 tenant associated with a Yammer Basic network](configure-your-yammer-network/preserve-data-from-basic-network.md)
 ### [Enforce Office 365 identity](configure-your-yammer-network/enforce-office-365-identity.md)
 ### [Yammer neworks and Office 365 tenants](configure-your-yammer-network/yammer-and-office-365.md)
 ### [Manage Yammer domains](configure-your-yammer-network/manage-yammer-domains.md)
