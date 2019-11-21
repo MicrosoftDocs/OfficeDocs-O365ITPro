@@ -211,7 +211,7 @@ Use this communication to reinforce how you want people to use Yammer.
    
 ## See also
 
-[What happens when you add a domain to your Office 365 tenant associated with a Yammer Basic network](preserve-data-from-basic-network.md)
+[Add Yammer basic domains to your Office 365 tenant](add-basic-domains-to-office-365.md)
 
 [Manage Office 365 with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-with-office-365-powershell)
   
