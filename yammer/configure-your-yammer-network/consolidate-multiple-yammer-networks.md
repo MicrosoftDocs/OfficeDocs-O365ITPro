@@ -20,7 +20,7 @@ description: Migrate one or more secondary Yammer networks into a primary Yammer
 
 If you have multiple email domains in your Office 365 tenant and those email domains are spread across two or more Yammer networks, consolidating into one Yammer network is required.
   
-This article is only necessary if you have multiple Yammer networks, for example if your company has multiple business units or subsidiaries, each with its own Yammer network, <span style="color:red">that are on the same Office 365 tenant</span>.
+This article is only necessary if you have multiple Yammer networks, for example if your company has multiple business units or subsidiaries, each with its own Yammer network, *that are on the same Office 365 tenant*.
   
 Consolidation to one primary network helps get all your employees closely collaborating with each other, and simplifies management of your Yammer network.
   
