@@ -35,6 +35,8 @@ This article explains how to disable the ability to create groups **in all Offic
 - Yammer
     
 - Microsoft Teams
+
+- Microsoft Stream
     
 - StaffHub
     
