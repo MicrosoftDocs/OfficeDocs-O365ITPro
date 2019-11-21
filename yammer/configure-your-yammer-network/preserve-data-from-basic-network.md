@@ -27,7 +27,7 @@ If you add an external domain with a Yammer Basic network (“Basic network”) 
 
 Below is a set of actions we immediately take after you add a domain. Also, there’s a set of steps you can take to preserve the data from the network before we delete it.
 
-### Microsoft will:
+**Microsoft will**:
 
 - Remove all users—from the network formerly associated with the added domain—so they can access the primary network for your Office 365 tenant if permitted to do so based on your Yammer licensing.
 
