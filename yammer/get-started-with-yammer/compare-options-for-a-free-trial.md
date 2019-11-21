@@ -20,7 +20,7 @@ description: "Compare the two options for a free Yammer trial: Yammer Basic and 
 
 # Compare options for a free trial of Yammer
 
-There are two ways to try Yammer: Yammer Basic, and Yammer Enterprise. Both are easy to convert to a paid Office 365 subscription. 
+There are two ways to try Yammer: Yammer Basic, and Yammer Enterprise. Both are easy to convert to a paid Office 365 subscription.
   
 ## Differences between Yammer Basic and Yammer Enterprise
 
@@ -38,20 +38,22 @@ Use the following table to determine which will be most useful for you.
 |**Compliance features** <br/> |Users can export their own data and delete their own data and their own account.  <br/> <br/>For more information, see [Manage GDPR data subject requests in Yammer Basic](../manage-security-and-compliance/gdpr-requests-in-yammer-basic.md) <br/> |Admins can create a network usage policy, export data, monitor keywords and conversations, use Exchange Online mail flow rules, and set data retention policies. Admins can also restrict types of files that can be uploaded.  <br/><br/> Admins can export all network data, and remove users and user data from the network. For more information, see [Manage GDPR data subject requests in Yammer Enterprise](../manage-security-and-compliance/gdpr-requests-in-yammer-enterprise.md).  <br/> |
 |**Domain differences** <br/> |Available on one domain. Each SMTP email suffix has its own Yammer network.  <br/> |Admins can configure and manage multiple domains in Office 365 which all use one Yammer network. <br/> <br/> Multiple Yammer networks can be merged together so when the user logs on, they enter a single Yammer network with all their colleagues, regardless of which company SMTP email address was used to log on. <br/> <br/> For more information, see [Manage Yammer domains across their lifecycle in Office 365](../configure-your-yammer-network/manage-yammer-domains.md).  <br/> |
 |**Support differences** <br/> |Use the [Yammer community forum](https://go.microsoft.com/fwlink/?LinkId=330921) and click **Questions**.  <br/> |Admins can [request support in the Microsoft 365 admin center](https://go.microsoft.com/fwlink/?LinkId=869749).  <br/> Online support resources for admins include the [Customer Success Program](https://go.microsoft.com/fwlink/?LinkId=524139), [Office 365 FastTrack](https://go.microsoft.com/fwlink/?linkid=870053), and the [Yammer community forum](https://go.microsoft.com/fwlink/?LinkId=330921).  <br/><br/>  For a complete list of support options, see [Welcome to Yammer Support](https://go.microsoft.com/fwlink/?LinkID=331325).  <br/> |
-|**How to get the free trial** <br/> |Sign up for a free Yammer Basic network at http://www.yammer.com.  <br/> **Note:** Before you set up your trial, read [Export data from Yammer Basic](../manage-security-and-compliance/export-yammer-basic-data.md) and [Convert from a free trial of Yammer Basic to a paid Office 365 plan](#convert-from-a-free-trial-of-yammer-basic-to-a-paid-office-365-plan).|Sign up for a free trial of an Office 365 plan that includes Yammer Enterprise at [Office 365](https://go.microsoft.com/fwlink/?LinkId=321496).  <br/> **Important:**  Before you set up your trial, read [Convert from a free trial of Office 365 with Yammer Enterprise to a paid Office 365 plan](#convert-from-a-free-trial-of-office-365-with-yammer-enterprise-to-a-paid-office-365-plan). <bR>Trials can be set up using a test domain, or the domain you plan to use with Office 365.           |
+|**How to get the free trial** <br/> |Sign up for a free Yammer Basic network at [Yammer](http://www.yammer.com).  <br/> **Note:** Before you set up your trial, read [Export data from Yammer Basic](../manage-security-and-compliance/export-yammer-basic-data.md) and [Convert from a free trial of Yammer Basic to a paid Office 365 plan](#convert-from-a-free-trial-of-yammer-basic-to-a-paid-office-365-plan).|Sign up for a free trial of an Office 365 plan that includes Yammer Enterprise at [Office 365](https://go.microsoft.com/fwlink/?LinkId=321496).  <br/> **Important:**  Before you set up your trial, read [Convert from a free trial of Office 365 with Yammer Enterprise to a paid Office 365 plan](#convert-from-a-free-trial-of-office-365-with-yammer-enterprise-to-a-paid-office-365-plan). <bR>Trials can be set up using a test domain, or the domain you plan to use with Office 365.           |
 |**How long is the free trial** <br/> |Unlimited.<br/> |Office 365 trials are typically 30 days. A one-time extension is possible. For more information, see [Extend your trial for Office 365 for business](https://support.office.com/article/75533195-F1F6-4C2C-8CEB-0B5597790D7B).  <br/> |
 |**What happens to my data at the end of my trial** <br/> |When you upgrade to an Office 365 plan that includes Yammer Enterprise, be sure to verify the same domain associated with your Yammer Basic network in your Office 365 tenant. If you upgrade to Office 365 using the same domain, you will be given the opportunity to export all of the content from the Yammer basic network before it is deleted.|
-   
+
 ## Convert from a free trial of Yammer Basic to a paid Office 365 plan
+
 <a name="BKMK_ConvertBasic"> </a>
 
 1. Sign up for an Office 365 plan that includes Yammer at [Office 365](https://go.microsoft.com/fwlink/?LinkId=321496.)
-    
+
 2. In Office 365 setup, verify the same domain you used for Yammer Basic.
-    
+
 3. Decide how you will manage users in Yammer Enterprise. After converting, you may have some users that are just in Yammer and not in Office 365. For more information, see [Office 365 sign-in for Yammer](../manage-yammer-users/office-365-sign-in.md).
-    
+
 ## Convert from a free trial of Office 365 with Yammer Enterprise to a paid Office 365 plan
+
 <a name="BKMK_ConvertEntTrial"> </a>
 
 Keep in mind that a domain can be verified on only one tenant at a time. To preserve your Yammer Enterprise network and all your trial Office 365 configuration post-trial, purchase your plan from your trial account.
@@ -59,8 +61,9 @@ Keep in mind that a domain can be verified on only one tenant at a time. To pres
 If you decide to move your domain to a new tenant, a new Yammer network will be created under that tenant. You can migrate your trial tenant's Yammer network to your new tenant, but this just preserves users, not data. For more information, see [Manage Yammer domains across their lifecycle in Office 365](../configure-your-yammer-network/manage-yammer-domains.md).
   
 Follow the instructions in [Buy a subscription to Office 365 for business from your free trial](https://support.office.com/article/485fee6d-b22e-440a-9053-a4e7fa509c92).
-    
+
 ## FAQs
+
 <a name="FAQs"> </a>
 
 ### Q: My organization already has users in Office 365, do they receive automatic access to Yammer Enterprise?
@@ -78,12 +81,12 @@ Follow the instructions in [Buy a subscription to Office 365 for business from y
 - If you do enforce Office 365 identity, but not Yammer licensing, only users with a valid email domain as your Yammer network AND an Office 365 license can join the network by creating a Yammer account at [http://www.yammer.com](http://www.yammer.com).
 
 - If you do not enforce Office 365 identity, any user with a valid email domain can access yammer. For more information, see [Enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md).
-    
+
     There are some differences in how you manage users who are not using Office 365: their profiles won't be automatically filled in, and you can't block them by removing their Yammer license. These users can be made admins, create groups, and use all Yammer Enterprise features. If they are made admins, they have to get to the Yammer admin center by clicking the **Settings** icon in Yammer, and selecting **Network Admin**, rather than from the Microsoft 365 admin center.
-    
+
 ### Q: What are the limitations of Yammer (number of users, networks, documents, storage, access, and so on)?
 
-**A:** Yammer is designed as a SaaS, multi-tenant environment with scale in mind. The  *only*  limit is file size. An individual file cannot be larger than 5 GB in Yammer Enterprise or 100 MB in Yammer Basic.) Both versions support unlimited users, unlimited files, unlimited external networks, and unlimited document types. 
+**A:** Yammer is designed as a SaaS, multi-tenant environment with scale in mind. The  *only*  limit is file size. An individual file cannot be larger than 5 GB in Yammer Enterprise or 100 MB in Yammer Basic.) Both versions support unlimited users, unlimited files, unlimited external networks, and unlimited document types.
   
 ### Q: What file types can be uploaded to Yammer?
 
@@ -96,5 +99,3 @@ Follow the instructions in [Buy a subscription to Office 365 for business from y
 ### Q: What's the roadmap for Yammer?
 
 **A:** Yammer and Office 365 use a rapid release and iterative development methodology, so change is constant. The items currently being developed and their stage of development and testing are available here: [Microsoft 365 Roadmap](https://www.microsoft.com/microsoft-365/roadmap).
-  
-
