@@ -88,37 +88,38 @@ If your Yammer network has domains that are not verified on the corresponding Of
     
 Note that tailspin.com on the Yammer network is not verified on the Office 365 tenant. If your network is in this situation, you can remedy the situation so that you can manage the domains from Office 365. To do this, you have two options. You can either:
   
-1. Add and verify the missing domains to the Office 365 tenant. In the example above, you would add tailspin.com to the Office 365 tenant. 
+1. Add and verify the missing domains to the Office 365 tenant. In the example above, you would add tailspin.com to the Office 365 tenant.
     
-2. Remove the additional domain in Yammer. To remove Yammer domains from your network, contact the Yammer support team. In the example above, you would remove tailspin.com 
+2. Remove the additional domain in Yammer. To remove Yammer domains from your network, contact the Yammer support team. In the example above, you would remove tailspin.com
     
 After you take one of the actions above, the rest of the domains (contoso.onmicrosoft.com, northwind.com) will be added to Yammer, and from this point on, you can manage your domains across their lifecycle in Office 365.
   
 > [!TIP]
-> To ensure that you don't miss this step, all Yammer verified administrators will receive an email notification if the list of domains on Yammer is out of sync with the list on Office 365. 
+> To ensure that you don't miss this step, all Yammer verified administrators will receive an email notification if the list of domains on Yammer is out of sync with the list on Office 365.
   
 ## If your Office 365 tenant is associated with more than one Yammer network
 
 These additional networks could be free Yammer Basic networks created by employees of your company. For example:
   
-- Verified domains on the Office 365 tenant: contoso.onmicrosoft.com, contoso.com, northwind.com 
+- Verified domains on the Office 365 tenant: contoso.onmicrosoft.com, contoso.com, northwind.com
     
-- Domain on Yammer network1: contoso.com 
+- Domain on Yammer network1: contoso.com
     
-- Domain on Yammer network2: northwind.com 
+- Domain on Yammer network2: northwind.com
     
-This configuration is no longer supported as of October 16, 2018. For more information, see [Consolidate multiple Yammer networks](https://docs.microsoft.com/en-us/Yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) and [FAQ: Consolidating multiple Yammer networks](https://docs.microsoft.com/en-us/Yammer/configure-your-yammer-network/faq-consolidate-multiple-yammer-networks). 
-  
+This configuration is no longer supported as of October 16, 2018. For more information, see [Consolidate multiple Yammer networks](https://docs.microsoft.com/en-us/Yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) and [FAQ: Consolidating multiple Yammer networks](https://docs.microsoft.com/en-us/Yammer/configure-your-yammer-network/faq-consolidate-multiple-yammer-networks).
+
+If you add an [external domain with a Yammer Basic network](../preserve-data-from-basic-network.md) (“Basic network”) to your Office 365 tenant, we must disassociate the domain from the basic network in order to associate the domain with the primary network for your O365 tenant. The basic network is then queued for deletion.
+
 ## If you have more than one Office 365 tenant associated with one Yammer network
 
-This configuration is not supported. For more information, see [About Yammer networks and Office 365 tenants](yammer-and-office-365.md). 
+This configuration is not supported. For more information, see [About Yammer networks and Office 365 tenants](yammer-and-office-365.md).
 
 For example:
   
-- Verified domains on the Office 365 tenant1: contoso.onmicrosoft.com, contoso.com 
+- Verified domains on the Office 365 tenant1: contoso.onmicrosoft.com, contoso.com
     
-- Verified domains on the Office 365 tenant2: northwind.onmicrosoft.com, northwind.com 
+- Verified domains on the Office 365 tenant2: northwind.onmicrosoft.com, northwind.com
     
-- Domains on Yammer network: contoso.com, northwind.com 
+- Domains on Yammer network: contoso.com, northwind.com
   
-

@@ -122,6 +122,10 @@ A: If you're not already a verified admin of the secondary network:
   
 4. Perform a network export or other admin activities such as exporting group members.
 
+**Q: What happens when you add a domain to your Office 365 tenant associated with a Yammer Basic network?**
+
+A: In Yammer, having multiple primary networks is not supported. If you add an [link the highlight phrase to our 1:Many topic?] external domain with a Yammer Basic network (“Basic network”) to your Office 365 tenant, we must disassociate the domain from the basic network in order to associate the domain with the primary network for your O365 tenant. The basic network is then queued for deletion.
+
 **Q: What happens if a new Yammer network is added after the due date?**  
 
 A: After October 16 2018, we will identify and consolidate new multiple Yammer networks weekly. We will choose the network with the most monthly usage as the primary network.  
@@ -130,4 +134,3 @@ A: After October 16 2018, we will identify and consolidate new multiple Yammer n
 ## See also
 
 [Consolidate multiple Yammer networks](consolidate-multiple-yammer-networks.md)
-
