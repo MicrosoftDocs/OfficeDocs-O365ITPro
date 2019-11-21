@@ -13,12 +13,15 @@ search.appverid:
 - MOE150
 - MET150
 description: "Learn how to preserve data from the Yammer Basic Network."
-ROBOTS: NOINDEX, NOFOLLOW 
 ---
 
 # What happens when you add a domain to your Office 365 tenant associated with a Yammer Basic network
 
-In Yammer, having multiple primary networks is not supported.
+As of December 2019, we are changing what happens when a domain associated with a basic (free) Yammer network is added to your Office 365 tenant. Multiple primary networks will no longer be supported.
+
+We will start with a gradual roll out and complete the process by the end of the year. This affects only new accounts as existing ones have already been migrated.
+
+We recommend that you consolidate previously migrated basic networks into a single primary network for your tenant in order to move Yammer into a supported state for your tenant.
 
 If you add an external domain with a Yammer Basic network (“Basic network”) to your Office 365 tenant, we must *disassociate* the domain from the basic network in order to *associate* that domain with the primary network for your O365 tenant. **The basic network is then queued for deletion.**
 
@@ -27,6 +30,8 @@ Below is a set of actions we immediately take after you add a domain. Also, ther
 ### Microsoft will:
 
 - Remove all users—from the network formerly associated with the added domain—so they can access the primary network for your Office 365 tenant if permitted to do so based on your Yammer licensing.
+
+  ![yammer-network-settings.png](../media/kb/yammer-network-settings.PNG)
 
 - Enable the network formerly associated with the added domain to allow for data export.
 
