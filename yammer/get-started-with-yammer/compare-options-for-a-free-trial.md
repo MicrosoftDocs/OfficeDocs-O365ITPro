@@ -54,7 +54,7 @@ Use the following table to determine which will be most useful for you.
 ## Convert from a free trial of Office 365 with Yammer Enterprise to a paid Office 365 plan
 <a name="BKMK_ConvertEntTrial"> </a>
 
-Keep in mind that a domain can be verified on only one tenant at a time. To preserve your Yammer Enterprise network and all your trial Office 365 configuration post-trial, purchase your plan from your trial account. 
+Keep in mind that a domain can be verified on only one tenant at a time. To preserve your Yammer Enterprise network and all your trial Office 365 configuration post-trial, purchase your plan from your trial account.
   
 If you decide to move your domain to a new tenant, a new Yammer network will be created under that tenant. You can migrate your trial tenant's Yammer network to your new tenant, but this just preserves users, not data. For more information, see [Manage Yammer domains across their lifecycle in Office 365](../configure-your-yammer-network/manage-yammer-domains.md).
   

@@ -3,7 +3,7 @@ title: "Manage Yammer domains in Office 365"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 3/1/19
+ms.date: 11/20/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -59,7 +59,7 @@ When you remove a domain from Office 365, the domain is immediately removed from
 
 For instructions, follow the steps in [Remove a domain from Office 365](https://support.office.com/en-us/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c). 
 
-If instead you want to consolidate multiple domains into one Yammer network, see [Consolidate multiple Yammer networks](https://docs.microsoft.com/en-us/Yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) and [FAQ: Consolidating multiple Yammer networks](https://docs.microsoft.com/en-us/Yammer/configure-your-yammer-network/faq-consolidate-multiple-yammer-networks).
+If instead you want to consolidate multiple domains into one Yammer network, see [Consolidate multiple Yammer networks](https://docs.microsoft.com/Yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) and [FAQ: Consolidating multiple Yammer networks](https://docs.microsoft.com/Yammer/configure-your-yammer-network/faq-consolidate-multiple-yammer-networks).
 
 ## Change the network name displayed in the left navigation in Yammer
 
@@ -107,9 +107,9 @@ These additional networks could be free Yammer Basic networks created by employe
     
 - Domain on Yammer network2: northwind.com
     
-This configuration is no longer supported as of October 16, 2018. For more information, see [Consolidate multiple Yammer networks](https://docs.microsoft.com/en-us/Yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) and [FAQ: Consolidating multiple Yammer networks](https://docs.microsoft.com/en-us/Yammer/configure-your-yammer-network/faq-consolidate-multiple-yammer-networks).
+This configuration is no longer supported as of October 16, 2018. For more information, see [Consolidate multiple Yammer networks](https://docs.microsoft.com/Yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) and [FAQ: Consolidating multiple Yammer networks](https://docs.microsoft.com/Yammer/configure-your-yammer-network/faq-consolidate-multiple-yammer-networks).
 
-If you add an [external domain with a Yammer Basic network](../preserve-data-from-basic-network.md) (“Basic network”) to your Office 365 tenant, we must disassociate the domain from the basic network in order to associate the domain with the primary network for your O365 tenant. The basic network is then queued for deletion.
+If you add an [external domain with a Yammer Basic network](preserve-data-from-basic-network.md) (“Basic network”) to your Office 365 tenant, we must disassociate the domain from the basic network in order to associate the domain with the primary network for your O365 tenant. The basic network is then queued for deletion.
 
 ## If you have more than one Office 365 tenant associated with one Yammer network
 
