@@ -1,5 +1,5 @@
 ---
-title: "Preserve data from the Yammer Basic Network"
+title: "Add Yammer basic domains to your Office 365 tenant"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
@@ -12,12 +12,12 @@ ms.custom: Adm_Yammer
 search.appverid: 
 - MOE150
 - MET150
-description: "Learn how to preserve data from the Yammer Basic Network."
+description: "Learn what happens when you add a domain to your Office 365 tenant associated with a Yammer Basic network."
 ---
 
-# What happens when you add a domain to your Office 365 tenant associated with a Yammer Basic network
+# Add Yammer basic domains to your Office 365 tenant
 
-As of December 2019, we are changing what happens when a domain associated with a basic (free) Yammer network is added to your Office 365 tenant. Multiple primary networks will no longer be supported.
+Beginning December 2019, we are changing what happens when a domain associated with a basic (free) Yammer network is added to your Office 365 tenant. Multiple primary networks will no longer be supported.
 
 We will start with a gradual roll out and complete the process by the end of the year. This affects only new accounts as existing ones have already been migrated.
 

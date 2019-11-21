@@ -19,7 +19,7 @@ description: "Understand the relationship between a Yammer network and an Office
 
 # About Yammer networks and Office 365 tenants
 
-As of December 2019, we are changing what happens when a domain associated with a basic (free) Yammer network is added to your Office 365 tenant. We will start with a gradual roll out and complete the process by the end of the year.
+Beginning December 2019, we are changing what happens when a domain associated with a basic (free) Yammer network is added to your Office 365 tenant. We will start with a gradual roll out and complete the process by the end of the year.
 
 For the best end-user and management experience, it is required that one Office 365 tenant is associated with just one Yammer network. If you are not in this configuration, we recommend you [consolidate previously migrated basic networks](consolidate-multiple-yammer-networks.md) into a single primary network for your tenant in order to move Yammer into a supported state for your tenant.
   

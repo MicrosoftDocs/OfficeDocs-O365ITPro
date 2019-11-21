@@ -38,14 +38,6 @@ Here's what the network migration page looks like if you don't need to consolida
 
 A: For steps to consolidate your networks, see [Network migration - Consolidate multiple Yammer networks](consolidate-multiple-yammer-networks.md).
 
-**Q: By when do I have to consolidate my Yammer networks?**  
-
-A: You must consolidate your Yammer networks by October 16, 2018. 
-
-**Q: What happens if I don’t consolidate the networks by the due date?** 
-
-A: Starting October 16, 2018, if you haven’t consolidated your Yammer networks, the Yammer team will automatically consolidate the networks on your behalf. 
-
 > [!IMPORTANT]
 > We strongly encourage you to be proactive and consolidate the networks yourself. 
 
@@ -124,13 +116,8 @@ A: If you're not already a verified admin of the secondary network:
 
 **Q: What happens when you add a domain to your Office 365 tenant associated with a Yammer Basic network?**
 
-A: In Yammer, having multiple primary networks is not supported. If you add an [link the highlight phrase to our 1:Many topic?] external domain with a Yammer Basic network (“Basic network”) to your Office 365 tenant, we must disassociate the domain from the basic network in order to associate the domain with the primary network for your O365 tenant. The basic network is then queued for deletion.
-
-**Q: What happens if a new Yammer network is added after the due date?**  
-
-A: After October 16 2018, we will identify and consolidate new multiple Yammer networks weekly. We will choose the network with the most monthly usage as the primary network.  
-
-   
+A: In Yammer, having multiple primary networks is not supported. If you add an [external domain with a Yammer Basic network](preserve-data-from-basic-network.md) (“Basic network”) to your Office 365 tenant, we must disassociate the domain from the basic network in order to associate the domain with the primary network for your O365 tenant. The basic network is then queued for deletion.
+  
 ## See also
 
 [Consolidate multiple Yammer networks](consolidate-multiple-yammer-networks.md)
