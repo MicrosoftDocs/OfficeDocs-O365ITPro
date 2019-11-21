@@ -1,4 +1,4 @@
-[What happens when you add a domain to your Office 365 tenant associated with a Yammer Basic network](preserve-data-from-basic-network.md)---
+---
 title: "Preserve data from the Yammer Basic Network"
 ms.author: v-teflor
 author: TeresaFG-writer
