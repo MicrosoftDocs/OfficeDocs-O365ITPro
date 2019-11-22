@@ -270,7 +270,7 @@ You can also delete an add-in that was deployed.
 
 2. Select the Deployed Add-in.
 
-3. Click on **Delete Add-In**
+3. Click on **Delete Add-In**.
   
 ## Learn more
 
