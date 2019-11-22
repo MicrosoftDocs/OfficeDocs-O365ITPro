@@ -268,7 +268,7 @@ You can also delete an add-in that was deployed.
 
 1. In the admin center, go to the **Settings** > **Services & add-ins** page.
 
-2. Select the Deployed Add-in.
+2. Select the deployed add-in.
 
 3. Click on **Delete Add-In**.
   
