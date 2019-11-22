@@ -137,7 +137,7 @@ Post deployment, admins can also modify the user access to add-ins.
 
 1. In the admin center, go to the **Settings** > **Services & add-ins** page.
 
-2. Select the Deployed Add-in.
+2. Select the deployed add-in.
 
 3. Click on **Edit** under **Who has Access**
     
