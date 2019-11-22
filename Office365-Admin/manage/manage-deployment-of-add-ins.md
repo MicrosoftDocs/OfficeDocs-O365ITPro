@@ -133,7 +133,7 @@ Updates for add-ins happen as follows:
 
 ### Edit Add-in access
 
-Post Deployment, Admin can also modify the user access to add-in 
+Post deployment, admins can also modify the user access to add-ins.
 
 1. In the admin center, go to the Settings > Services & add-ins page.
 
@@ -279,4 +279,3 @@ Learn more about creating and building [Office Add-ins](https://go.microsoft.com
 [Use Centralized Deployment PowerShell cmdlets to manage add-ins](https://support.office.com/article/94f4e86d-b8e5-42dd-b558-e6092f830ec9).
   
 [Troubleshoot: User not seeing add-ins](https://docs.microsoft.com/office365/troubleshoot/troubleshooting/user-not-seeing-add-ins)
-
