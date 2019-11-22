@@ -139,7 +139,7 @@ Post deployment, admins can also modify the user access to add-ins.
 
 2. Select the deployed add-in.
 
-3. Click on **Edit** under **Who has Access**
+3. Click on **Edit** under **Who has Access**.
     
 ### Prevent add-in downloads by turning off the Office Store across all clients (Except Outlook)
 
