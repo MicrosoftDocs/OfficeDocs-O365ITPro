@@ -189,7 +189,7 @@ The last line of the script will display the updated settings:
 
 If in the future you want to change which security group is used, you can rerun the script with the name of the new security group.
 
-If you want to turn off the group creation restriction and again allow all users to create groups, Run the below script
+If you want to turn off the group creation restriction and allow all users to create groups again, run the following script.
 
 ```PowerShell
 $GroupName = ""
