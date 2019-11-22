@@ -266,7 +266,7 @@ If the deployed add-in doesn't support add-in commands or if you want to view al
 
 You can also delete an add-in that was deployed.
 
-1. In the admin center, go to the Settings > Services & add-ins page.
+1. In the admin center, go to the **Settings** > **Services & add-ins** page.
 
 2. Select the Deployed Add-in.
 
