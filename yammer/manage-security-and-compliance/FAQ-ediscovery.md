@@ -31,7 +31,7 @@ A: Electronic Discovery (commonly referred to as “eDiscovery”) refers to the
 
 A: Security and Compliance Center offers eDiscovery and Advanced eDiscovery, which you can use to search for content in Exchange Online mailboxes, Microsoft Teams, Yammer conversations, SharePoint Online content, and more. You can use eDiscovery cases in the Security and Compliance Center to identify, hold, and export content found in mailboxes and sites.
 
-See more information and examples about [eDiscovery](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery).
+See more information and examples about [eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).
 
 **Q: How does Yammer support eDiscovery?**
 
@@ -41,7 +41,7 @@ A: Yammer supports eDiscovery (E3) and Advanced eDiscovery (E5) in the Security 
 
 A: Advanced eDiscovery (E5) builds on eDiscovery (E3) and helps you analyze unstructured data within Office 365, perform more efficient document reviews, and make decisions to reduce data for eDiscovery.
 
-See more advanced information about [eDiscovery in Office 365](https://docs.microsoft.com/en-us/office365/securitycompliance/office-365-advanced-ediscovery).
+See more advanced information about [eDiscovery in Office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery).
 
 **Q: Can users see that Yammer is storing their messages for eDiscovery?**
 
@@ -268,5 +268,5 @@ A: In Preview, the following are known limitations:
   
 ## See also
 
-[https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery ](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery)
-[https://docs.microsoft.com/en-us/office365/securitycompliance/office-365-advanced-ediscovery](https://docs.microsoft.com/en-us/office365/securitycompliance/office-365-advanced-ediscovery)
+[https://docs.microsoft.com/office365/securitycompliance/ediscovery ](https://docs.microsoft.com/office365/securitycompliance/ediscovery)
+[https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery)
