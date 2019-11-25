@@ -268,6 +268,6 @@ A: In Preview, the following are known limitations:
   
 ## See also
 
-[https://docs.microsoft.com/office365/securitycompliance/ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery)
+[eDiscovery in Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery)
 
-[https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery)
+[Overview of the advanced eDiscovery solution in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery)
