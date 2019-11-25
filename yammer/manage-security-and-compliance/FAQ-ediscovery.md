@@ -37,7 +37,7 @@ See more information and examples about [eDiscovery](https://docs.microsoft.com/
 
 A: Yammer supports eDiscovery (E3) and Advanced eDiscovery (E5) in the Security and Compliance Center. Once a Yammer Enterprise network is in [Native Mode for Microsoft 365](../configure-your-yammer-network/overview-native-mode.md), all messages and files are discoverable.
 
-**Q:What is Advanced eDiscovery for Microsoft 365?**
+**Q: What is Advanced eDiscovery for Microsoft 365?**
 
 A: Advanced eDiscovery (E5) builds on eDiscovery (E3) and helps you analyze unstructured data within Office 365, perform more efficient document reviews, and make decisions to reduce data for eDiscovery.
 
@@ -49,7 +49,7 @@ A: eDiscovery will put a copy of all Yammer messages into a hidden folder in the
 
 ## Native Mode
 
-**Q:What is Native Mode?**
+**Q: What is Native Mode?**
 
 A: In Native Mode, all Yammer users are in AAD, all groups are Office 365 Groups, and all files are stored in SharePoint Online. As of November 2019, all new Yammer Networks start in Native Mode. Existing Yammer Networks can [migrate to Native Mode](../configure-your-yammer-network/native-mode.md).
 
@@ -85,7 +85,7 @@ A: From the search workflow, click **Next** until you get to the Non-custodial l
 
 A: Messages and files are subject to a hold when the location they are stored (e.g., custodian of the message or file in Advanced eDiscovery, or the Exchange Online Mailbox or SharePoint Online site where the message or file in eDiscovery), is on hold.
 
-**Q:What happens to a message when it is subject to a litigation hold?**
+**Q: What happens to a message when it is subject to a litigation hold?**
 
 A: Messages subject to a hold will be treated as follows for the duration of the hold:
 
@@ -155,7 +155,7 @@ A: Yes. Files attached to messages in groups are discoverable.
 
 A: Yes, all user generated messages in the All Company group are discoverable. System messages are excluded.
 
-**Q:Are Polls discoverable?**
+**Q: Are Polls discoverable?**
 
 A: Polls are discoverable for the author and anyone who has voted. The Poll results at the time of the search will be returned.
 
