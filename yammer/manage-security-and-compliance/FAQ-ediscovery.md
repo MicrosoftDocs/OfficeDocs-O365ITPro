@@ -35,7 +35,7 @@ See more information and examples about [eDiscovery](https://docs.microsoft.com/
 
 **Q: How does Yammer support eDiscovery?**
 
-A: Yammer supports eDiscovery (E3) and Advanced eDiscovery (E5) in the Security and Compliance Center. Once a Yammer Enterprise network is in Native Mode for Microsoft 365, all messages and files are discoverable. XX Link to a Native Mode topic?? XX
+A: Yammer supports eDiscovery (E3) and Advanced eDiscovery (E5) in the Security and Compliance Center. Once a Yammer Enterprise network is in [Native Mode for Microsoft 365](../configure-your-yammer-network/overview-native-mode.md), all messages and files are discoverable.
 
 **Q:What is Advanced eDiscovery for Microsoft 365?**
 
