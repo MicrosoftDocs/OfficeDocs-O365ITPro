@@ -179,7 +179,9 @@ if($GroupName)
 {
 	$settingsCopy["GroupCreationAllowedGroupId"] = (Get-AzureADGroup -SearchString $GroupName).objectid
 }
-
+ else {
+$settingsCopy["GroupCreationAllowedGroupId"] = $GroupName
+}
 Set-AzureADDirectorySetting -Id $settingsObjectID -DirectorySetting $settingsCopy
 
 (Get-AzureADDirectorySetting -Id $settingsObjectID).Values
@@ -191,7 +193,7 @@ The last line of the script will display the updated settings:
 
 If in the future you want to change which security group is used, you can rerun the script with the name of the new security group.
 
-If you want to turn off the group creation restriction and again allow all users to create groups, set `$GroupName` to "" and `$AllowGroupCreation` to "True" and rerun the script.
+If you want to turn off the group creation restriction and again allow all users to create groups, set $GroupName to "" and $AllowGroupCreation to "True" and rerun the script.
     
 ## Step 4: Verify that it works
 
