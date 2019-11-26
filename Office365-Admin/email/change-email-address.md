@@ -93,7 +93,7 @@ You must have a global admin account to perform these steps.
 You'll be guided to get everything set up correctly with your domain in Office 365.
 
 > [!NOTE]
-> If you're not using an exchange license, you cannot use the domain to send/receive emails from the o365 tenant.
+> If you are not using an Exchange license, you cannot use the domain to send or receive emails from the Office 365 tenant.
   
 ## See Also
 
