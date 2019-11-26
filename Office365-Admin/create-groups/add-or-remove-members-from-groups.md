@@ -21,7 +21,10 @@ description: "Learn how to add a member to a group, remove member from group, an
 ---
 
 # Add or remove members from Office 365 groups using the admin center
-  
+
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
 In Office 365, Group members typically create their own Groups, add themselves to Groups they want to join, or are invited by Group owners. If Group ownership changes, or if you determine that a member should be added or removed, as the admin you can also make that change. [What is an Office 365 Group?](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx)
   
  **Tip**: You can also [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
@@ -29,10 +32,6 @@ In Office 365, Group members typically create their own Groups, add themselves t
 ## Add a member to a Group in the admin center
 
 ::: moniker range="o365-worldwide"
-
-### Use the new admin center to add a member to a Group
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page. If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
     
@@ -44,9 +43,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 5. Select **Save**.
     
-### Use the old admin center to add a member to a Group
-
 ::: moniker-end
+
+::: moniker range="o365-germany"
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page. If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
     
@@ -58,6 +57,22 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 5. Select **Save**.
 
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page. If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
+    
+2. Select a group name.
+    
+3. In the details pane, next to **Members**, select **Edit**, and then select **Add members**.
+      
+4. Search for or select the name of the member you want to add.
+    
+5. Select **Save**.
+
+::: moniker-end
+
 ## Remove a member from a Group in the admin center
 
 > [!NOTE]
@@ -65,10 +80,6 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
  
 ::: moniker range="o365-worldwide"
  
-### Use the new admin center to remove a member from a Group
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
 2. Select a group name.
@@ -79,9 +90,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 5. Select **Save** to remove the member. 
     
-### Use the old admin center to remove a member from a Group
-
 ::: moniker-end
+
+::: moniker range="o365-germany"
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
@@ -93,6 +104,21 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 5. Select **Save** to remove the member. 
 
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
+    
+2. Select a group name.
+    
+3. In the details pane, next to **Members**, select **Edit**.
+    
+4. Next to the member you want to remove, select the X.
+    
+5. Select **Save** to remove the member. 
+
+::: moniker-end
 
 ## Manage Group owner status
 
@@ -102,10 +128,6 @@ By default, the person who created the group is the group owner. Often a group w
 
 ::: moniker range="o365-worldwide"
 
-#### Use the new admin center to promote a member to owner status
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
 2. Select a group name.
@@ -117,11 +139,10 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 5. Select the check box next to the name of the member you want to add.
     
 6. Select **Save**, and then **Close**.   
-
-
-#### Use the old admin center to promote a member to owner status
-    
+   
 ::: moniker-end
+
+::: moniker range="o365-21vianet"
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
@@ -134,15 +155,29 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 5. Select the check box next to the name of the member you want to add.
     
 6. Select **Save**, and then **Close**.   
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
+    
+2. Select a group name.
+
+3. In the details pane, next to **Owners**, select **Edit**.
+
+4. Search for a member, or select **Add owners**.
+    
+5. Select the check box next to the name of the member you want to add.
+    
+6. Select **Save**, and then **Close**.   
+
+::: moniker-end
 
 ### Remove owner status in the admin center
 
 ::: moniker range="o365-worldwide"
 
-#### Use the new admin center to remove owner status
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
 2. Select a group name.
@@ -153,9 +188,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 6. Select **Save**.
     
-#### Use the old admin center to remove owner status
-
 ::: moniker-end
+
+::: moniker range="o365-germany"
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
@@ -166,6 +201,23 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 5. Select the X next to the owner's name. 
     
 6. Select **Save**.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
+    
+2. Select a group name.
+    
+3. In the details pane, next to **Owners**, select **Edit**.
+    
+5. Select the X next to the owner's name. 
+    
+6. Select **Save**.
+
+::: moniker-end
+
 
 ## More on managing membership
 
