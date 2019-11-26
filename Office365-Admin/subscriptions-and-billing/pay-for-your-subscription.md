@@ -83,6 +83,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 If your subscription costs over a certain amount of money (this amount varies by service location), you'll have the option to pay by invoice by using a check or EFT. A credit check may be required for larger invoice payments. If a credit check is required, you'll be notified when you purchase your subscription. And, if you agree to be contacted, you'll get an email that includes more information about applying for credit approval. Credit checks are usually completed within two business days.
 
+> [!NOTE]
+> Customers who live in Brazil can pay for a subscription with a Boleto Bancario. If you have selected this option, the billet for payment is sent to the email provided during subscription purchase within 10 working days after the order date. The due date is 30 days after the order date. If you don't receive your Boleto by email, check your spam folder or contact support. <br><br>If you prefer, you can pay by electronic transfer between accounts. The Agency and account number are at the bottom of your invoice. You must enter your invoice number in the Transfer identification field.
+
 If you pay by invoice for your subscription, you'll get an email that says your billing statement is ready to view. This email does not contain a copy of your billing statement. However, you can also choose to [Receive a copy of your billing statement in email](#receive-a-copy-of-your-billing-statement-in-email). Your billing statement includes details about your options for making a payment. If you enter a purchase order (PO) number when you buy a subscription, the number appears on your billing statement. For information about accessing billing statements, see [View your bill or invoice](view-your-bill-or-invoice.md).
 
 > [!NOTE]
