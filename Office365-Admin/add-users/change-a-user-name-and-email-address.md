@@ -105,10 +105,6 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
   
   - If their password changed too, tell them that they will be prompted to enter the new password on their mobile device, or it won't sync.
   
-### Use the old admin center to set the primary email address 
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
- 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
@@ -166,8 +162,6 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
   - If their password changed too, tell them that they will be prompted to enter the new password on their mobile device, or it won't sync.
 
 ::: moniker-end
- 
-
   
 ## Change a user's display name
 
