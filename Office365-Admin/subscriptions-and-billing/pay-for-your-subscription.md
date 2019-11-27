@@ -44,9 +44,8 @@ If you pay by credit card, and your credit card is declined, you'll receive an e
 
 ::: moniker range="o365-worldwide"
 
-#### Use the new admin center to pay your outstanding balance
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
@@ -61,12 +60,12 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, select **Submit payment**.
 
-#### Use the old admin center to pay your outstanding balance
 ::: moniker-end
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
 
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
 2. Select the subscription that you want to change. In the **My bill** section, select **Pay now**.
 
@@ -78,6 +77,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 4. If you're not the credit card owner, you can choose a different credit card or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
 
 5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, select **Submit**. You'll see a confirmation message that says "Your payment method has been updated and all outstanding charges are settled. Thank you."
+
+::: moniker-end
 
 ## Pay by invoice (check or EFT)
 
