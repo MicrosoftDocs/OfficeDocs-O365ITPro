@@ -28,10 +28,8 @@ Licenses for Office 365 Business Essentials, Office 365 Business, Office 365 Bus
 
 ::: moniker range="o365-worldwide"
 
-### Use the new admin center to add licenses
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
   
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
@@ -39,15 +37,15 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 3. Follow the steps in the VLSC to complete your purchase. 
 
-### Use the old admin center to add licenses 
-
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
-
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
+
+2. On the Subscriptions page, select the subscription to which you want to add licenses, then select the **Volume Licensing Service Center (VLSC)** link. 
+    
+3. Follow the steps in the VLSC to complete your purchase. 
 
 ::: moniker-end
 
@@ -55,9 +53,10 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
-::: moniker-end
-
 2. On the Subscriptions page, select the subscription to which you want to add licenses, then select the **Volume Licensing Service Center (VLSC)** link. 
     
 3. Follow the steps in the VLSC to complete your purchase. 
+
+::: moniker-end
+
 
