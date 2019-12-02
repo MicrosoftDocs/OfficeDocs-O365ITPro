@@ -36,9 +36,7 @@ Centralized Deployment doesn't support the following:
     
 - An on-premises directory service
     
-- Add-in deployment to SharePoint
-    
-- Add-in deployment to Office Online Server
+- Add-in deployment to SharePoint  
 
 - Teams apps
    

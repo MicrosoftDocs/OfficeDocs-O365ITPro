@@ -47,7 +47,11 @@ You can view the brief descriptions later in this article: [Roles available in t
 
 If you’re looking for detailed information, including the cmdlets associated with a role, see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
 
-But if you have access to the new admin center and the new roles experience is available to you, go to **Roles** > **Roles**, and then select any role to open its detail pane. Select the **Permissions** tab to view the detailed list of what admins assigned that role have permission to do.
+::: moniker range="o365-worldwide"
+
+In the admin center, you can go to **Roles** > **Roles**, and then select any role to open its detail pane. Select the **Permissions** tab to view the detailed list of what admins assigned that role have permission to do.
+
+::: moniker-end
   
 ## Some roles are missing from Active users > Manage admin roles. Where did they go?
 By default, we first show roles that most organizations use. If you can't find a role, go to the bottom of the list and select **See more roles**.

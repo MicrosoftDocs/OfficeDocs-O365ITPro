@@ -82,12 +82,16 @@ Assign the Teams admin role to users who you want to access and manage the Teams
 
 Assign the user admin role to users who you want to access and manage user password resets and manage Office 365 users and groups. They can also open and manage service requests to Microsoft support. [Learn more](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles#roles-available-in-the-microsoft-365-admin-center)
 
+::: moniker range="o365-worldwide"
+
 ## Compare roles
 
 You can now compare permissions for up to 3 roles at a time so you can find the least permissive role to assign.
 
-In the new admin center:
+In the admin center:
 
 - Select up to 3 roles and choose **Compare roles** to see the permissions each role has.
 
 :::image type="content" source="../media/compare-roles-list.png" alt-text="A figure that shows a comparison of admin roles":::
+
+::: moniker-end
