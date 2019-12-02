@@ -19,3 +19,5 @@ description: "Overview of Microsoft productivity score."
 ---
 
 # Microsoft Productivity score (Private preview)
+
+Placeholder topic.
