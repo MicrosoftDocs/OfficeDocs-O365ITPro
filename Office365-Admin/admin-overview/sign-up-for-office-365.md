@@ -62,7 +62,11 @@ Ready to sign up? [Select a Plan](https://products.office.com/zh-cn/business/com
 ## Choose a plan
 
 Before you buy, put some thought into the plan you sign up for. This will help prevent growing pains later.
-  
+
+Watch a short video about choosing an Office 365 business plan.
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/906be77d-ded6-48fb-a25f-da110f787282] 
+
 Need help choosing? Sales consultants are available to answer your questions. Just go to [Compare all products](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2) and choose one of the contact support options listed at the left side of the page. 
   
 ::: moniker-end
