@@ -26,7 +26,7 @@ You can sign up for a trial Office 365 business subscription for free. You can t
 
 ## Sign up for an Office 365 Business Premium trial subscription
 
-Watch a quick overview of the sign-up process.
+Watch a quick overview of the sign-up process.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE471FJ] 
 
