@@ -12,6 +12,7 @@ ms.collection:
 - Adm_O365
 - Adm_TOC
 - commerce
+- TRN_SMB
 search.appverid:
 - BCS160
 - MET150
@@ -24,7 +25,13 @@ description: "Learn how to sign up for a trial Office 365 for business subscript
 You can sign up for a trial Office 365 business subscription for free. You can try it out for 30 days.
 
 ## Sign up for an Office 365 Business Premium trial subscription
-  
+
+Watch a quick overview of the sign-up process.
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE471FJ] 
+
+If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
 1. To sign up for an Office 365 business trial subscription, go to the [Office Products site](https://www.aka.ms/office365signup). 
     
 2. Select the plan you want to sign up for, such as **Office 365 Business Premium**, scroll down the page, and select **Try free for 1 month**.
@@ -34,3 +41,7 @@ You can sign up for a trial Office 365 business subscription for free. You can t
 4. The signup process may take several minutes to complete. Once it's complete, you'll get more details on how to start using your subscription.
 
 For more information about setting up your account, see [Set up Office 365 for business](../setup/setup.md).
+
+## See also
+
+[Microsoft 365 Business training videos](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
