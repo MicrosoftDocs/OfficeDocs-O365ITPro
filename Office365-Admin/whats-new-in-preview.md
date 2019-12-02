@@ -57,7 +57,7 @@ Service health has been updated to the new style and if you are impacted by an i
 
 ### "Viral" subscriptions
 
-As you know, users can turn on free subscriptions to a myriad of products like Power BI and App Connect. You can now see the "viral subscriptions" that your users have been trying. Go to **Billing** > **Products & services**. Select the **Account type** filter on the subscriptions tab to see the user-purchased subscriptions -- And delete them!
+As you know, users can turn on free subscriptions to a myriad of products like Power BI and App Connect. You can now see the "viral subscriptions" that your users have been trying. Go to **Billing** > **Products & services**. Select the **Account type** filter on the subscriptions tab to see the user-purchased subscriptions. If needed, you now have the ability to remove these subscriptions from your account.
 
 ### User templates
 
