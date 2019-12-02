@@ -14,6 +14,7 @@ ms.collection:
 search.appverid:
 - MET150
 - MOE150
+ROBOTS: NOINDEX, NOFOLLOW
 description: "Overview of Microsoft productivity score."
 ---
 
