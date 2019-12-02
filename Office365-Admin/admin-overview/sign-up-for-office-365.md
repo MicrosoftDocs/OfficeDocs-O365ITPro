@@ -94,7 +94,7 @@ If you start with a free trial, you can [buy it later](../subscriptions-and-bill
   
 You don't need to cancel your trial. If you don't buy the trial subscription, it automatically expires at the end of the trial period, and all the information is permanently deleted.
 
-Watch a short video that shows the sign up process.
+Watch a short video that shows the sign up process.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE471FJ] 
 
