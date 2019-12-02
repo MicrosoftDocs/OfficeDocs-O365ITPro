@@ -37,11 +37,16 @@ You get a free version of Azure multi-factor authentication as part of your Offi
 
 All Office 2016 client applications support MFA through the use of the Active Directory Authentication Library (ADAL). This means that app passwords aren't required for Office 2016 clients. However, you need to make sure your Office 365 subscription is enabled for ADAL, or modern authentication.
 
-1. To enable modern authentication, from the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), turn on the new admin center by selecting **Try the new admin center** toggle located at the top of the Home page.
+::: moniker range="o365-worldwide"
 
-2. Select **Settings** \> **Services & add-ins** and then choose **Modern authentication** from the list.
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
-3. Check the **Enable modern authentication** box in the **Modern authentication** panel. 
+::: moniker-end
+
+1. To enable modern authentication, from the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select **Settings** \> **Services & add-ins** and then choose **Modern authentication** from the list.
+
+2. Check the **Enable modern authentication** box in the **Modern authentication** panel. 
 
     ![Modern authentication panel with enable checkbox checked.](../media/enablemodernauth.png)
     
@@ -53,37 +58,29 @@ In SharePoint online, by default, modern authentication is enabled.
 
 ## Set up multi-factor authentication
 
-> [!NOTE]
-> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select **Setup**.
 
+2. Under **Setup** > **Turn on multi-factor authentication (MFA)**, select **View**. 
 
-1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), turn on the new admin center by selecting the **Try the new admin center** toggle located at the top of the Home page.
+3. On the **Turn on multi-factor authentication (MFA)** page, select **Get started**.
 
-2. In the left navigation pane, select **Setup**.
+4. Select the **Require multi-factor authentication** and **Require users to register for multi-factor authentication and block access if risk is detected** check boxes.
 
-3. Under **Setup** > **Turn on multi-factor authentication (MFA)**, select **View**. 
+5. Under **Do you want to exclude anyone from these policies**, select any users that you want to exclude from the drop-down list box.
 
-4. On the **Turn on multi-factor authentication (MFA)** page, select **Get started**.
-
-5. Select the **Require multi-factor authentication** and **Require users to register for multi-factor authentication and block access if risk is detected** check boxes.
-
-6. Under **Do you want to exclude anyone from these policies**, select any users that you want to exclude from the drop-down list box.
-
-7. Select **Create policy**. You will return to the **Turn on multi-factor authentication (MFA)** page, which will now say **Completed**. 
+6. Select **Create policy**. You will return to the **Turn on multi-factor authentication (MFA)** page, which will now say **Completed**. 
 
 After you set up multi-factor authentication for your organization, your users will be required to set up two-step verification on their devices. For more information, see [Set up 2-step verification for Office 365](https://support.office.com/article/ace1d096-61e5-449b-a875-58eb3d74de14).
 
 ### Manage MFA settings 
 
-1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), turn on the new admin center by selecting **Try the new admin center** toggle located at the top of the Home page.
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select **Setup**.
 
-2. In the left navigation pane, select **Setup**.
+2. Under **Turn on multi-factor authentication (MFA)**, it will say **Completed**. Select **View**.
 
-3. Under **Turn on multi-factor authentication (MFA)**, it will say **Completed**. Select **View**.
+3. On the **Turn on multi-factor authentication (MFA)** page, select **Manage**.
 
-4. On the **Turn on multi-factor authentication (MFA)** page, select **Manage**.
-
-5. The **Azure portal Conditional Access - Policies** page will appear. To turn multi-factor authentication on or off:
+4. The **Azure portal Conditional Access - Policies** page will appear. To turn multi-factor authentication on or off:
 
     1. Select **Baseline policy: End user protection (Preview)**, and turn the **Enable** toggle on or off.
 
