@@ -47,7 +47,11 @@ You can view the brief descriptions later in this article: [Roles available in t
 
 If you’re looking for detailed information, including the cmdlets associated with a role, see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
 
-But if you have access to the new admin center and the new roles experience is available to you, go to **Roles** > **Roles**, and then select any role to open its detail pane. Select the **Permissions** tab to view the detailed list of what admins assigned that role have permission to do.
+::: moniker range="o365-worldwide"
+
+In the admin center, you can go to **Roles** > **Roles**, and then select any role to open its detail pane. Select the **Permissions** tab to view the detailed list of what admins assigned that role have permission to do.
+
+::: moniker-end
   
 ## Some roles are missing from Active users > Manage admin roles. Where did they go?
 By default, we first show roles that most organizations use. If you can't find a role, go to the bottom of the list and select **See more roles**.
@@ -76,6 +80,7 @@ You'll probably only need to assign the following roles in your organization.
 |Global reader    |   Assign the global reader role to users who need to view admin features and settings in all admin centers that the global admin can view. The global reader admin can't edit any settings.   |
 |Groups admin     |   Assign the groups admin role to users who need to manage all groups settings across admin centers, including the Microsoft 365 Admin Center, Azure Active Directory portal, Teams admin center, and SharePoint admin center. <br><br> Groups admins can:<br> - Create, edit, delete, and restore Office 365 Groups <br> - Create and update group creation, expiration, and naming policies <br> - Create, edit, delete, and restore Azure Active Directory security groups| 
 |Helpdesk admin     |   Assign the Helpdesk admin role to users who need to do the following:<br> - Reset passwords <br> - Force users to sign out <br> - Manage service requests <br> - Monitor service health <br> <br> **Note**: The Helpdesk admin can only help non-admin users and users assigned these roles: Directory reader, Guest inviter, Helpdesk admin, Message center reader, and Reports reader.      |
+|Office Apps admin    |   Assign the Office Apps admin role to users who need to do the following: <br> - Use the Office cloud policy service to create and manage cloud-based policies for Office <br> - Create and manage service requests <br> - Manage the What’s New content that users see in their Office apps   <br> - Monitor service health  |
 |Service admin    |   Assign the Service admin role as an additional role to admins or users whose role doesn't include the following, but still need to do the following: <br> - Open and manage service requests <br> - View and share message center posts   |
 |SharePoint admin    |   Assign the SharePoint admin role to users who need to access and manage the SharePoint Online admin center. <br><br>SharePoint admins can also: <br> - Create and delete sites <br> - Manage site collections and global SharePoint settings   |
 |Teams admin    |   Assign the Teams admin role to users who need to access and manage the Teams admin center. <br><br>Teams admins can also: <br> - Manage meetings <br> - Manage conference bridges <br> - Manage all org-wide settings, including federation, teams upgrade, and teams client settings   |
@@ -110,6 +115,8 @@ You'll probably only need to assign the following roles in your organization.
 |License admin     |     Assigns and removes licenses from users and edits their usage location.    |
 |Message center privacy reader     |    Access to data privacy messages in Message center, gets email notifications.     |
 |Message center reader     | Reads and shares regular messages in Message center, gets weekly email digests, has read-only access to users, groups, domains, and subscriptions.     |
+|Office Apps admin    |   Manages cloud-based policies for Office and the What's New content that users see in their Office apps.   |
+|Power platform admin     |    Full access to Microsoft Dynamics 365, PowerApps, data loss prevention policies, and Microsoft Flow.     |
 |Privileged role admin     |    Manages role assignments and all access control features of Privileged Identity Management.     |
 |Reports reader     |   Reads usage reporting data from the reports dashboard, PowerBI adoption content pack, sign-in reports, and Microsoft Graph reporting API.      |
 |Search admin     |    Full access to Microsoft Search, assigns the Search admin and Search editor roles, manages editorial content, monitors service health, and creates service requests.     |

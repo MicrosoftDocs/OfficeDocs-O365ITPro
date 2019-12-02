@@ -11,6 +11,7 @@ ms.collection:
 - M365-subscription-management
 - Adm_O365
 - Adm_TOC
+- SPO_Content
 ms.custom:
 - MSStore_Link
 search.appverid:
@@ -54,6 +55,13 @@ Before you begin, think about what you want to do with the user's email and OneD
    
 ### Get started
 
+::: moniker range="o365-worldwide"
+
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
+::: moniker-end
+
 Since the guided experience walks through the steps to delete a user, here's how to get started.
 
 ::: moniker range="o365-worldwide"
@@ -84,20 +92,11 @@ Since the guided experience walks through the steps to delete a user, here's how
   
 ::: moniker range="o365-worldwide"
 
-### Use the new admin center to delete one or more users
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
-
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
 
 2. Select the names of the users that you want to delete, select **More options** (**...**), and then choose  **Delete user**.
    <br/>  
      Although you deleted the user's account, **you're still paying for the license**. See the next procedure to stop paying for the license.  Or, you can assign the license to another user. It won't be assigned to someone automatically.
-    
-### Use the old admin center to delete one or more users
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
 
 ::: moniker-end
 
@@ -105,17 +104,22 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
 
+2. Select the names of the users that you want to delete, and in the **Bulk actions** pane, choose **Delete users**.
+   <br/>  
+     Although you deleted the user's account, **you're still paying for the license**. See the next procedure to stop paying for the license.  Or, you can assign the license to another user. It won't be assigned to someone automatically.
+
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
 
-::: moniker-end
-
 2. Select the names of the users that you want to delete, and in the **Bulk actions** pane, choose **Delete users**.
    <br/>  
      Although you deleted the user's account, **you're still paying for the license**. See the next procedure to stop paying for the license.  Or, you can assign the license to another user. It won't be assigned to someone automatically.
+
+::: moniker-end
+
 
 ### Stop paying for the license
 
@@ -123,19 +127,12 @@ Reducing the number of licenses is a separate step that can only be performed by
   
 ::: moniker range="o365-worldwide"
 
-#### Use the new admin center to remove a license
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page. If you don't see this option, you aren't a global admin or billing admin, and can't do this step. 
     
 2. Select the subscription (if you have more than one) and then select **Add/Remove licenses** to delete the license so you don't pay for it until you hire another person.  
 
    Later when you go through the steps to add another person to your business, you'll be prompted to buy a license at the same time, with just one step!
- 
-#### Use the old admin center to remove a license
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page. If you don't see this option, you aren't a global admin or billing admin, and can't do this step. 
    
 ::: moniker-end
 
@@ -143,17 +140,21 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page. If you don't see this option, you aren't a global admin or billing admin, and can't do this step. 
 
+2. Select the subscription (if you have more than one) and then select **Add/Remove licenses** to delete the license so you don't pay for it until you hire another person.  
+
+   Later when you go through the steps to add another person to your business, you'll be prompted to buy a license at the same time, with just one step!
+
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page. If you don't see this option, you aren't a global admin or billing admin, and can't do this step. 
 
-::: moniker-end 
-
 2. Select the subscription (if you have more than one) and then select **Add/Remove licenses** to delete the license so you don't pay for it until you hire another person.  
 
    Later when you go through the steps to add another person to your business, you'll be prompted to buy a license at the same time, with just one step!
+
+::: moniker-end 
 
    
 ## Delete many users at the same time

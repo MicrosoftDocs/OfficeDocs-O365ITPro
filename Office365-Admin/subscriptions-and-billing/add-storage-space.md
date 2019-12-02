@@ -17,6 +17,7 @@ ms.collection:
 - Adm_O365
 - commerce
 - Adm_TOC
+- SPO_Content
 ms.custom:
 - MAX_CampaignID
 - okr_SMB
@@ -53,9 +54,9 @@ For information about setting site collection storage limits, see [Manage site c
 If you haven't yet purchased extra storage for your subscription, you can do that.
 
 ::: moniker range="o365-worldwide"
-### Use the new admin center to add storage space
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=868433" target="_blank">Purchase services</a> page.
 
@@ -73,15 +74,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
 
-::: moniker range="o365-worldwide"
-### Use the old admin center to add storage space
-::: moniker-end
+::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+1. In the admin center, go to the **Billing** \>  <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
 2. On the **Subscriptions** page, choose the subscription to which  you want to add storage space, then select **Add-ons**.
 
@@ -102,14 +97,42 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 7. On the **Complete order** page, select **Place order**.
 
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+
+2. On the **Subscriptions** page, choose the subscription to which  you want to add storage space, then select **Add-ons**.
+
+    ![Add-ons button used to purchase add-ons.](../media/b4d2beb4-4f6d-435a-b127-01ceebd6eebf.png)
+  
+    > [!NOTE]
+    > If you don't see **Add-ons**, and your subscription was purchased through a partner, select **Volume Licensing Service Center (VLSC)**.
+  
+3. Select **Buy add-ons**.
+
+    ![Buy add-ons link on the Subscriptions page of the admin center.](../media/f5cbc3fa-90f7-4299-976d-2482f2c69755.png)
+  
+4. On the **Purchase services** page, mouse over or tap **Office 365 Extra File Storage**, then select **Buy now**.
+  
+5. Enter the number of user licenses that you need and, if shown, choose a base subscription. Select **Check out now**.
+  
+6. On the **How does this look?** page, verify the number of gigabytes of storage you selected, review the pricing information, and then select **Next**.
+
+7. On the **Complete order** page, select **Place order**.
+
+::: moniker-end
+
+
 ## Increase or decrease storage
 
 If you have already purchased extra file storage via the **Office 365 Extra File Storage** add-on, you can use these steps to increase or decrease the extra storage space for your subscription. You can reduce the storage to as low as 1 gigabyte. To remove all of the extra storage space, you need to [contact support](../contact-support-for-business-products.md).
 
 ::: moniker range="o365-worldwide"
-### Use the new admin center to increase or decrease storage space
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
@@ -121,15 +144,10 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
 
-::: moniker range="o365-worldwide"
-### Use the old admin center to increase or decrease storage space
-::: moniker-end
+::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
 2. On the **Subscriptions** page, select **Add-ons**.
 
@@ -147,6 +165,33 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     For example, if you currently have 200 gigabytes of extra file storage but you only need 100 gigabytes, then you would enter **100** in the box.
 
 5. Select **Close**.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+
+2. On the **Subscriptions** page, select **Add-ons**.
+
+    ![Add-ons button used to purchase add-ons.](../media/b4d2beb4-4f6d-435a-b127-01ceebd6eebf.png)
+  
+    > [!NOTE]
+    > If you don't see **Add-ons**, and your subscription was purchased through a partner, select **Volume Licensing Service Center (VLSC)**.
+  
+3. Under **Office 365 Extra File Storage**, select **Change quantity**.
+
+    ![Change quantity link.](../media/96473f2b-6ff6-45ec-b1a3-d7b204ac1f6e.png)
+  
+4. In the right pane, enter the total number of gigabytes that you need, then select **Submit**.
+
+    For example, if you currently have 200 gigabytes of extra file storage but you only need 100 gigabytes, then you would enter **100** in the box.
+
+5. Select **Close**.
+
+::: moniker-end
+
+
 
 ## Is my plan eligible for Office 365 Extra File Storage?
 
@@ -181,3 +226,6 @@ Office 365 Extra File Storage is available for the following subscriptions:
 - Microsoft 365 E5
 
 - Microsoft 365 F1
+
+> [!NOTE]
+> Office 365 Extra File Storage is also available for GCC, GCC High, and DOD plans.

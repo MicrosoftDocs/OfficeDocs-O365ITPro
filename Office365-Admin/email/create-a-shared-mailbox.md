@@ -88,9 +88,8 @@ But what if an admin simply resets the password of the shared mailbox user accou
 
 ::: moniker range="o365-worldwide"
 
-### Use the new admin center to block sign-in for the shared mailbox account
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
@@ -102,23 +101,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 4. In the **Block this user?** pane, select **Block the user from signing in**, and then select **Save changes**.
 
-### Use the old admin center to block sign-in for the shared mailbox account
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
-
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
-
-::: moniker-end
 
 2. In the list of user accounts, find the account for the shared mailbox (for example, change the view to **Unlicensed users**) and then select the account.
 
@@ -127,6 +114,23 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     **Note:** If the account was already blocked, the button would say **Unblock sign-in**.
 
 4. In the **Edit sign-in status** flyout, verify that Block the user from signing in is selected, select **Save** and then **Close**.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+2. In the list of user accounts, find the account for the shared mailbox (for example, change the view to **Unlicensed users**) and then select the account.
+
+3. In the properties flyout, select **Block sign-in**.
+
+    **Note:** If the account was already blocked, the button would say **Unblock sign-in**.
+
+4. In the **Edit sign-in status** flyout, verify that Block the user from signing in is selected, select **Save** and then **Close**.
+::: moniker-end
+
+
 
 For instructions on how to block sign-in for accounts using Azure AD PowerShell (including many accounts at the same time), see [Block user accounts with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/block-user-accounts-with-office-365-powershell).
 
@@ -294,6 +298,8 @@ A Group in Outlook is like a shared mailbox. For a comparison of the two, see [C
 Automapping is set on the user's mailbox, not the shared mailbox.
 
 This means if you try to use a security group to manage who has access to the shared mailbox, automapping won't work. So, if you want automapping, you have to assign permissions explicitly.
+
+Automapping is on by default. To learn how to turn it off, see [Remove automapping for a shared mailbox](https://docs.microsoft.com/office365/troubleshoot/administration/remove-automapping-for-shared-mailbox)
   
 ## How to create a shared mailbox in the Exchange admin center
 <a name="bkmk_EAC"> </a>

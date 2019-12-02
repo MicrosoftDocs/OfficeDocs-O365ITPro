@@ -1,6 +1,4 @@
 
-  
-
 # [Yammer](index.md)
 ## Get started with Yammer
 ### [Admin key concepts](get-started-with-yammer/admin-key-concepts.md)
@@ -12,11 +10,12 @@
 ### [Yammer blog](https://techcommunity.microsoft.com/t5/Yammer-Blog/bg-p/YammerBlog)
 ### [Yammer end-user help](https://support.office.com/yammer)
 ## Configure your Yammer network
+### [Add Yammer basic domains to your Office 365 tenant](configure-your-yammer-network/add-basic-domains-to-office-365.md)
 ### [Configure Yammer](configure-your-yammer-network/configure-yammer.md)
 ### [Customize the look](configure-your-yammer-network/customize-the-look-of-yammer.md)
 ### [Configure email and Yammer](configure-your-yammer-network/configure-email-and-yammer.md)
 ### [Enforce Office 365 identity](configure-your-yammer-network/enforce-office-365-identity.md)
-### [Yammer neworks and Office 365 tenants](configure-your-yammer-network/yammer-and-office-365.md)
+### [Yammer networks and Office 365 tenants](configure-your-yammer-network/yammer-and-office-365.md)
 ### [Manage Yammer domains](configure-your-yammer-network/manage-yammer-domains.md)
 ### [Consolidate multiple Yammer networks](configure-your-yammer-network/consolidate-multiple-yammer-networks.md)
 ### [FAQ: Consolidating multiple Yammer networks](configure-your-yammer-network/faq-consolidate-multiple-yammer-networks.md)
@@ -67,7 +66,7 @@
 ## Monitor Yammer usage
 ### [Yammer activity report](https://docs.microsoft.com/office365/admin/activity-reports/yammer-activity-report)
 ### [Yammer groups activity report](https://docs.microsoft.com/office365/admin/activity-reports/yammer-groups-activity-report)
-### [View group insights](https://support.office.com/en-us/article/View-Group-Insights-in-Yammer-73f9fa6d-d442-4f25-9194-d5317c9328ab)
+### [View group insights](https://support.office.com/article/View-Group-Insights-in-Yammer-73f9fa6d-d442-4f25-9194-d5317c9328ab)
 ### [Yammer device usage report](https://docs.microsoft.com/office365/admin/activity-reports/yammer-device-usage-report)
 ### [Measure success guide](https://resources.techcommunity.microsoft.com/link/yammer-measure-success-guide)
 ## Integrate Yammer with other apps

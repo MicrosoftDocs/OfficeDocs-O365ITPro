@@ -32,13 +32,13 @@ feedback_system: None
 
 ::: moniker range="o365-worldwide"
 
+
 ## [Online support](#tab/online)
 
 Save time by starting your service request online. We'll help you find a solution or connect you to an expert who will contact you by email or phone. [Learn about initial support response times](https://go.microsoft.com/fwlink/p/?LinkId=518251).
 
-### Use the new admin center to start a service request
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>. If you get a message that says you don't have permission to access this page or perform this action, then you aren't an admin. [Who has admin permissions in my business?](admin-overview/admin-overview.md#who-has-admin-permissions-in-my-business)
 
@@ -49,16 +49,6 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 4. If the results don't help, select **Contact support**.
 
 5. Enter a description if you like, confirm your contact number and email address, select your preferred contact method, and then select **Contact me**. The expected wait time is indicated in the **Need help?** pane.
-
-### Use the old admin center to start a service request
-
-1. Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>. If you get a message that says you don't have permission to access this page or perform this action, then you aren't an admin. [Who has admin permissions in my business?](admin-overview/admin-overview.md#who-has-admin-permissions-in-my-business)
-
-2. Select the **Need help?** button.
-
-3. In the **Need help?** pane, tell us what you need help with, then select **Get help**.
-
-4. If the results don't help, select **New service request by phone**. Confirm your contact number, and then select **Call me**. The expected wait time for a call back is indicated in the **Need help?** pane.
 
 ## [Phone support ](#tab/phone)
 
