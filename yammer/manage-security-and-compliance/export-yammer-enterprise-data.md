@@ -174,7 +174,7 @@ To set up automatic recurring exports, use the Yammer API. For information about
 
 <a name="ExportFiles"></a>
 ## Export Yammer Files via API
-The Yammer Files Export API lets Verified Administrators archive and export files in Yammer storage in an asynchronous manner. This API is intended to be used when there is a significant volume of files to be exported from Yammer. Please see the documentation at https://aka.ms/YammerFilesAPI 
+The Yammer Files Export API lets verified administrators archive and export files in Yammer storage in an asynchronous manner. This API is intended to be used when there is a significant volume of files to be exported from Yammer. For more information, please see [Yammer Files Export API](https://aka.ms/YammerFilesAPI).
   
 ## See also
 
@@ -189,4 +189,3 @@ The Yammer Files Export API lets Verified Administrators archive and export file
 [Manage GDPR data subject requests in Yammer Enterprise](gdpr-requests-in-yammer-enterprise.md)
   
 [Manage Yammer data compliance](manage-data-compliance.md)
-
