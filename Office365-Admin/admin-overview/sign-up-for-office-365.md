@@ -65,7 +65,10 @@ Before you buy, put some thought into the plan you sign up for. This will help p
 
 Watch a short video about choosing an Office 365 business plan.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/906be77d-ded6-48fb-a25f-da110f787282] 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/906be77d-ded6-48fb-a25f-da110f787282]
+
+If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
 
 Need help choosing? Sales consultants are available to answer your questions. Just go to [Compare all products](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2) and choose one of the contact support options listed at the left side of the page. 
   
@@ -124,4 +127,7 @@ You don't need to cancel your trial. If you don't buy the trial subscription, it
     You can pay for your subscription with a credit card. If the cost reaches a certain amount, you may also have the option to pay by invoice.
     
     > [!IMPORTANT]
-    >  When you sign up, be sure to choose the best payment option for your organization. Changing payment options involves calling billing support. 
+    >  When you sign up, be sure to choose the best payment option for your organization. Changing payment options involves calling billing support.
+
+    ## See also
+    [Microsoft 365 Business training videos](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
