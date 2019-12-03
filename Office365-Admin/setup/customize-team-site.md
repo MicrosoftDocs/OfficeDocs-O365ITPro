@@ -24,67 +24,60 @@ description: "Learn to customize, organize, and manage your team site."
 
 # Customize your team site for file storage and sharing
 
-If you have a small business with a few employees, one of the best ways to set up and facilitate file sharing and online collaboration is to use OneDrive for Business and a SharePoint team site together. Office 365 subscriptions come with a classic team site. We recommend leaving it alone and creating a new team site that's connected to an Office 365 group. If you want to use chat, you can create this site by creating a team in Microsoft Teams. For more info about Teams, see [Video: What is Microsoft Teams?](https://support.office.com/article/b98d533f-118e-4bae-bf44-3df2470c2b12.aspx). If you don't want to use Teams, you can create a team site from the SharePoint start page. 
+If you have a small business with a few employees, one of the best ways to set up and facilitate file sharing and online collaboration is to use OneDrive and a SharePoint team site together. We recommend creating a team site that's connected to an Office 365 group. If you want to use chat, you can create this site by creating a team in Microsoft Teams. For more info about Teams, see [Video: What is Microsoft Teams?](https://support.office.com/article/b98d533f-118e-4bae-bf44-3df2470c2b12.aspx). If you don't want to use Teams, you can create a team site from the SharePoint start page. 
   
 [What is a SharePoint team site?](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e.aspx)
   
-[Create a team site in SharePoint Online](https://support.office.com/article/ef10c1e7-15f3-42a3-98aa-b5972711777d.aspx)
+[Create a team site in SharePoint](https://support.office.com/article/ef10c1e7-15f3-42a3-98aa-b5972711777d.aspx)
   
 Here are some ideas and links to help you customize, organize, and manage your team site. 
   
-## Add, delete, and work with document libraries
+ 
+## Customize your team site
 
-A team site includes a Documents library that you can start using immediately. If you outgrow the default Documents library, or want to organize by project, client, or subject, add more libraries to your team site. Think about how you want to group files on your team site and what you want to name the libraries so the files are easy to find. 
-  
-For more info on creating libraries, see [Create a document library in SharePoint](https://support.office.com/article/306728fe-0325-4b28-b60d-f902e1d75939.aspx#ID0EAACAAA=Online).
-  
-Learn how to edit, delete, check out files, and more. For more info, see [Work with files in a document library ](https://support.office.com/article/a9d89171-1673-4892-9dd2-1ca52037dea2.aspx).
-  
-For info on creating views of libraries to surface specific data, see [Create a custom view of a document library](https://support.office.com/article/8f6b08e0-a9a0-4232-9b9b-b374a2ad3da7.aspx).
-  
-## Add, delete, and work with lists to organize data
-
-SharePoint includes many templates for lists that you can add to your site, such as a list of links, a calendar, contacts, or tasks. 
-  
-Learn how to [Create a list in SharePoint](https://support.office.com/article/0D397414-D95F-41EB-ADDD-5E6EFF41B083.aspx#ID0EAAGAAA=Online).
-  
-To remove a unneeded list or restore a deleted list, see [Delete a list in SharePoint](https://support.office.com/article/2a7bca5b-b8fd-4e5b-8f4b-2ac034f3070d.aspx#ID0EAADAAA=Online).
-  
-For info on expanding your lists with more columns, see [Create a column in a SharePoint list or library](https://support.office.com/article/2b0361ae-1bd3-41a3-8329-269e5f81cfa2.aspx#ID0EAADAAA=Online).
-  
-To display specific data in a list, see [Create and edit public views of a list or library ](https://support.office.com/article/e22feec6-fdcf-40e0-9e33-b1a9ef1edad6.aspx).
-  
-If you're storing a lot of data, see how to manage limits with [Manage large lists and libraries in SharePoint](https://support.office.com/article/B8588DAE-9387-48C2-9248-C24122F07C59.aspx).
-  
-View a video on adding calendars to your site, see [Create a shared calendar in Office 365](https://support.office.com/article/61B96006-70E2-4535-A34F-EE4FC772F798.aspx).
-  
-## Customize the start page on your team site
-
-To give more visibility to data on a team site, you can customize the SharePoint start page to help you and your employees get to the information you need quickly. For example, you might have a links to employee OneDrive for Business folders, and links to Documents, Contacts, Tasks, Calendars, and a OneNote notebook where you store meeting agendas and notes.
+To give more visibility to data on a team site, you can customize the SharePoint start page to help you and your employees get to the information you need quickly. For example, you might have a links to employee OneDrive folders, and links to Documents, Contacts, Tasks, Calendars, and a OneNote notebook where you store meeting agendas and notes.
   
 For info on customizing the look and feel of your start page, see [Change the look of your SharePoint site](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818.aspx).
   
 Improve navigation on your site with [Customize the navigation on your SharePoint site](https://support.office.com/article/3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca.aspx).
   
-To add or update links to important pages on you start page, see [Change the Links list on the SharePoint Online start page](https://support.office.com/article/aa93f89b-ffce-4edb-aa89-22b16d6915a7.aspx).
+To improve the discoverability of a site, add it as a featured link on the SharePoint start page. For info, see [Add featured links to the SharePoint start page](/sharepoint/change-links-list-on-sharepoint-home-page).
   
 To add an image to a team site start page, see [Add a picture or image file to a SharePoint page](https://support.office.com/article/4A9B0E98-C89A-4A41-8ADB-B7750DCCCA16.aspx#ID0EAACAAA=SharePoint_Online).
   
-You can see how to add pages to your site with [Add a page to a site](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec.aspx).
+To add pages to your site, see [Add a page to a site](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec.aspx).
   
 To learn about team site settings, see [Manage your SharePoint team site settings](https://support.office.com/article/8376034D-D0C7-446E-9178-6AB51C58DF42.aspx).
   
-## Create additional sites to organize and manage different clients
+## Work with document libraries
+
+A team site includes a document library that you can start using immediately. 
+
+To begin uploading, see [Upload a folder or files to a document library](https://support.office.com/article/eb18fcba-c953-4d45-8d90-8da66edeacdb)
+   
+Learn how to edit, delete, check out files, and more. For more info, see [Work with files in a document library](https://support.office.com/article/a9d89171-1673-4892-9dd2-1ca52037dea2.aspx).
+  
+For info on creating views of libraries to surface specific data, see [Create a custom view of a document library](https://support.office.com/article/8f6b08e0-a9a0-4232-9b9b-b374a2ad3da7.aspx).
+  
+## Work with lists to organize data
+
+SharePoint includes many templates for lists that you can add to your site, such as a list of links, a calendar, contacts, or tasks. 
+  
+Learn how to [Create a list in SharePoint](https://support.office.com/article/0D397414-D95F-41EB-ADDD-5E6EFF41B083.aspx#ID0EAAGAAA=Online).
+  
+For info on expanding your lists with more columns, see [Create a column in a SharePoint list or library](https://support.office.com/article/2b0361ae-1bd3-41a3-8329-269e5f81cfa2.aspx#ID0EAADAAA=Online).
+  
+If you're storing a lot of data in a list, see [Manage large lists and libraries in SharePoint](https://support.office.com/article/B8588DAE-9387-48C2-9248-C24122F07C59.aspx).
+  
+View a video on adding calendars to your site, see [Create a shared calendar in Office 365](https://support.office.com/article/61B96006-70E2-4535-A34F-EE4FC772F798.aspx).
+
+## Organize sites into hubs
 
 Your team site shares almost everything with all members of the group associated with the site. If you want to have a separate site for specific customers, you can create additional team sites, and manage them using SharePoint hub sites. Here's more information. 
   
-Create additional team sites as needed. For more info see [Create a team site in SharePoint Online](https://support.office.com/article/ef10c1e7-15f3-42a3-98aa-b5972711777d.aspx).
-  
-Need to limit who can create new sites, see [Manage site creation in SharePoint Online](https://support.office.com/article/e72844a3-0171-47c9-befb-e98b23e2dcf9.aspx).
-  
 Hub sites let you add and associate sites. For more info see [What is a SharePoint hub site?](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f.aspx).
   
-Ready to build a hub site, see [Create a hub site in SharePoint Online](https://support.office.com/article/92bea781-15d8-4bda-805c-e441e2191ff3.aspx).
+Ready to build a hub site, see [Create a hub site in SharePoint Online](/sharepoint/create-hub-site).
   
 To learn how to add sites to a hub site, see [Associate a SharePoint site with a hub site](https://support.office.com/article/ae0009fd-af04-4d3d-917d-88edb43efc05.aspx).
   
@@ -94,11 +87,7 @@ While storage and organizing is a start, sharing with your team and external cli
   
 For file sharing with your team, see [Share SharePoint files or folders in Office 365](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c.aspx).
   
-To understand sharing outside your team, see [Manage external sharing for your SharePoint Online environment ](https://support.office.com/article/C8A462EB-0723-4B0B-8D0A-70FEAFE4BE85.aspx).
-  
-For best practices and tips with external users, see [Manage sharing with external users in Office 365 Small Business](https://support.office.com/article/2951a85f-c970-4375-aa4f-6b0d7035fe35.aspx).
-  
-Learn about assigning permissions for sites, lists, libraries, and items in [Understanding permission levels in SharePoint](https://support.office.com/article/87ecbb0e-6550-491a-8826-c075e4859848.aspx).
+To understand sharing outside your team, see [External sharing overview](/sharepoint/external-sharing-overview).
   
 ## Managing users and groups
 
@@ -108,9 +97,7 @@ View a video on groups with [Understand and manage groups](https://support.offic
   
 To add users to an Office 365 group, see [Add users individually or in bulk to Office 365 - Admin Help](../add-users/add-users.md).
   
-Learn how to handle access requests with [Set up and manage access requests ](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3.aspx).
-  
-To change and assign user permissions, see [Customize SharePoint site permissions](https://support.office.com/article/b1e3cd23-1a78-4264-9284-87fed7282048.aspx).
+Learn how to handle access requests with [Set up and manage access requests](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3.aspx).
   
 ## Here are more topics you might be interested in
 
