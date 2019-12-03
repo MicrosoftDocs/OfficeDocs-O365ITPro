@@ -21,8 +21,6 @@ description: "Learn the difference between the Office 365 setup wizard and the S
 
 # Difference between the Office 365 setup wizard and the Setup page
 
-[![Label to let you know the admin center is changing and you can find more details at aka.ms/aboutM365preview.](../media/O365-Admin-AdminCenterChanging.png)](../microsoft-365-admin-center-preview.md)
-
 Office 365 provides two setup experiences: 
 
 - Initial setup using the setup wizard
