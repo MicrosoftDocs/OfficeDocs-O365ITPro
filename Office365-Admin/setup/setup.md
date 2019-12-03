@@ -19,9 +19,9 @@ localization_priority: Priority
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- 
 - Adm_TOC
 - Adm_O365_Setup
+- TRN_SMB
 search.appverid:
 - MET150
 - MOE150
@@ -40,6 +40,13 @@ Not a business? See [Set up for Office 365 Home or Office 365 Personal](https://
 ## Business Premium
   
  *These steps are for businesses and [nonprofits](https://go.microsoft.com/fwlink/p/?LinkId=627221) that have the **[Office 365 Business Premium plan.](https://go.microsoft.com/fwlink/p/?LinkId=627220)*** 
+
+Watch a short video about setting up Office 365 Business Premium.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/913be1ad-bae1-40c0-9ded-15bb477b828b]
+
+If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
 
 ### 1. Sign up and set up 
 
@@ -98,7 +105,8 @@ Office 365 doesn't include a public website for your business. If you want to se
     
 2. Select **Learn more** under one of the options, and then sign up with a website partner and use their tools to set up and design your site. 
 
-  
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/4839abc6-9323-4cbf-a79d-2907235f9ebb] 
+
 More at [Use a public website](https://support.office.com/article/3325d50e-d131-403c-a278-7f3296fe33a9.aspx).
   
 ## Business Essentials
@@ -373,4 +381,6 @@ Admins, have your account details ready when you call Microsoft Support.
    
 For other countries, see [Contact support for business products - Admin Help](../contact-support-for-business-products.md).
   
+## See also
 
+[Microsoft 365 Business training videos](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
