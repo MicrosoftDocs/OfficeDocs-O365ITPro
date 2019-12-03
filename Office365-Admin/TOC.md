@@ -83,7 +83,7 @@
 ### [Room and equipment mailboxes](manage/room-and-equipment-mailboxes.md)
 ### [Send email as distribution list](manage/send-email-as-distribution-list.md)
 ### [Upgrade distribution lists](manage/upgrade-distribution-lists.md)
-### [Share sites with external users](manage/share-sites-with-external-users.md)
+### [Share sites and files externally](manage/share-sites-with-external-users.md)
 ### [Share calendars with external users](manage/share-calendars-with-external-users.md)
 ### [Assign licenses to users](manage/assign-licenses-to-users.md)
 ### [Unassign licenses from users](manage/remove-licenses-from-users.md)
