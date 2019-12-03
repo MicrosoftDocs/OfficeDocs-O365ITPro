@@ -83,6 +83,6 @@ If you're an admin, you can verify which subscriptions your organization has by 
 
 ::: moniker-end
 
-## Related topics
+## Related articles
   
 [Subscriptions and billing](../subscriptions-and-billing/subscriptions-and-billing.md)

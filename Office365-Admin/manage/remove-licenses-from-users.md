@@ -157,10 +157,10 @@ When you use the **Licenses** page to unassign licenses, you unassign licenses f
 
 - If you remove a user's license and they still have Office installed, they see [Unlicensed Product notifications](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx) when they use Office.
 
-## Related topics
+## Related articles
 
-- [Understand subscriptions and licenses](../subscriptions-and-billing/subscriptions-and-licenses.md)
+[Understand subscriptions and licenses](../subscriptions-and-billing/subscriptions-and-licenses.md)
 
-- [Remove licenses from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md)
+[Remove licenses from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md)
 
-- [Assign licenses to users](assign-licenses-to-users.md)
+[Assign licenses to users](assign-licenses-to-users.md)

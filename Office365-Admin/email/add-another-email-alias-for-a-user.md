@@ -155,9 +155,10 @@ If you get the error message "**A parameter cannot be found that matches paramet
 
 If you purchased your subscription from GoDaddy or another Partner, to set the new alias as the primary, you must go to the GoDaddy/partner management console.
   
-## See Also
-
+## Related articles
 
 [Send email from a different address](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e.aspx)
+
+[Change a user name and email address](../add-users/change-a-user-name-and-email-address.md)
   
 

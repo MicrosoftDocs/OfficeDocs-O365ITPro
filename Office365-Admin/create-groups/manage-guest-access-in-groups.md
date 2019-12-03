@@ -339,7 +339,7 @@ No. Guest access is included with all Office 365 Business Premium and Office 365
 
 Yes. The guests won't receive a welcome email message, but they will have all the privileges of any other guest member. If you've not yet migrated your distribution lists, see [Migrate distribution lists to Office 365 Groups](../manage/upgrade-distribution-lists.md) for instructions. Distribution lists that contain guests can't be migrated. 
   
-## See Also
+## Related articles
 <a name="bkmk_UsePowerShell"> </a>
 
 [Manage Group membership in the Microsoft 365 admin center](add-or-remove-members-from-groups.md)

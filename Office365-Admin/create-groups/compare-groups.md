@@ -78,6 +78,6 @@ Users with permissions to the group mailbox can send as or send on behalf of the
 
 Currently it's not possible to migrate a shared mailbox to an Office 365 Group. Is this something you want? Let us know. **[Vote here](https://go.microsoft.com/fwlink/?linkid=871518)**
 
-## Related topics
+## Related articles
 
 [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)

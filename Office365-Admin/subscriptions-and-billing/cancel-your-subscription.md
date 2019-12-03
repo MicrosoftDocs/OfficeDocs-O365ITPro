@@ -126,7 +126,7 @@ When the cancellation becomes effective, your users lose access to their dat. Be
 
 If you canceled your subscription, and didn't move users to a different subscription that includes Office, Office 365 runs in reduced functionality mode. When this happens, users can only read and print documents, and Office 365 applications display [Unlicensed Product notifications](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx). To avoid any confusion, have your users [uninstall Office](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) from their machines.
 
-## Related topics
+## Related articles
 
 [Renew your subscription](renew-your-subscription.md)
 

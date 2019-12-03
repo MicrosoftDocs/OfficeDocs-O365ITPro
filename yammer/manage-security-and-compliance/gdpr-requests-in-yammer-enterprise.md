@@ -239,7 +239,7 @@ When a user's account gets deactivated by using the **Erase this user** option, 
     
     After 14 days, the user cannot be reactivated.
     
-## See also
+## Related articles
 
 [Manage Yammer data compliance](manage-data-compliance.md)
   

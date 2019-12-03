@@ -113,6 +113,6 @@ There are a few more things to know:
     
 - A maximum limit of 100 email address policies can be configured for an organization.
     
-## See Also
+## Related articles
 
 [Create an Office 365 group in the admin center](create-groups.md)

@@ -161,7 +161,7 @@ There is some user data that is not included in an export. The following table s
 
 Users that have been inactive for 12 months are suspended for 14 days and notified by email. To keep their Yammer account, they need to log on to Yammer. If they have not logged on to Yammer by the end of the 14 days, the user's account is deleted from Yammer, but their files and messages remain in Yammer. This means that if a user receives a notice that their account is being suspended, they have 14 days to review their files and messages and delete any that they would like to delete before leaving Yammer. 
   
-## See also
+## Related articles
 
 [Export data from Yammer Basic](export-yammer-basic-data.md)
   

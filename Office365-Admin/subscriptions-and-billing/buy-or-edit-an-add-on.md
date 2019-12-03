@@ -245,6 +245,6 @@ For information about Skype for Business add-ons, see [Skype for Business and Mi
 |Domestic Calling Plan in Office 365  <br/> | Office 365 Enterprise E5  <br/> |
 |International Calling Plan in Office 365  <br/> | Office 365 Enterprise E5  <br/> |
   
-## Related topics
+## Related articles
 
 [Add storage space for your subscription](add-storage-space.md)

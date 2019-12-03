@@ -134,7 +134,7 @@ You might not have the correct permissions and so you don't have access to assig
 
 ::: moniker-end
 
-## Related Topics
+## Related articles
 
 [Assign roles to user accounts with PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-roles-to-user-accounts-with-office-365-powershell)
 
