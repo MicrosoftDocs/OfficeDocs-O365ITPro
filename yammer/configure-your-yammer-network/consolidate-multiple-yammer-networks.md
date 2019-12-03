@@ -215,7 +215,7 @@ Use this communication to reinforce how you want people to use Yammer.
 |:-----|
 |We're ready to start collaborating more efficiently! Please sign in to Yammer today, using your [Contoso.com] email and regular password for that account. If you need your password reset for that account, please contact [IT department]. We've restructured the groups so that the content works for everyone, so please take some time to browse the groups and join the ones that make sense for you.  <br/> Questions or concerns? Join the new "One company - one Yammer network" group. We want your input to make our new consolidated network help your voice be heard.  <br/> |
 
-## See also
+## Related articles
 
 [Add Yammer basic domains to your Office 365 tenant](add-basic-domains-to-office-365.md)
 

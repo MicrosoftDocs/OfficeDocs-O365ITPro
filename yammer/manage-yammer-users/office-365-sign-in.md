@@ -99,7 +99,7 @@ A: The Office 365 sign-in for Yammer will respect any Office 365 federation sett
 
 A: Yes, this is required as of October 16, 2018. For more information, see [Network migration: Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md).
     
-## See also
+## Related articles
 
 [SharePoint enterprise social experience: Yammer and Outlook groups](../integrate-yammer-with-other-apps/yammer-and-newsfeed.md)
     

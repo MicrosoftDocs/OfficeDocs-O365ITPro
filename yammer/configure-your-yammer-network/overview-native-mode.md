@@ -76,7 +76,7 @@ Admins can add flags to stop users from taking actions that prevent the network 
 |
 ||||
 
-## See also
+## Related articles
 
 [Configure your Yammer network for Native Mode](native-mode.md)
 

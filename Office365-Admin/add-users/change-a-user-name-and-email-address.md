@@ -239,7 +239,7 @@ Set-MsolUserPrincipalName -UserPrincipalName anne.wallace@contoso.onmicrosoft.co
   
 To learn how to change someone's username in Active Directory, in Windows Server 2003 and earlier, see [Rename a user account](https://go.microsoft.com/fwlink/?LinkId=809091).
   
-## Related Topics
+## Related articles
 
 [Admins: Reset a password for one or more users](reset-passwords.md)
   

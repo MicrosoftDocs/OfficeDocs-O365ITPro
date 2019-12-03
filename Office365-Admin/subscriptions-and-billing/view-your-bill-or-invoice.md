@@ -60,7 +60,7 @@ If you need help interpreting the charges you see on your bill, see [Understand 
 4. To print or save a PDF copy of the invoice, select **Download PDF**.
 
   
-## Related topics
+## Related articles
 
 [Pay by invoice, credit card, or bank account](pay-for-your-subscription.md)
   

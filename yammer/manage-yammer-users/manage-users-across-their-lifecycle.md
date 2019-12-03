@@ -221,7 +221,7 @@ A. When a user leaves the company and Azure Active Directory is updated, their Y
 
 A: The users who log on to Yammer with Office 365 credentials can be managed in Office 365. You can continue to manage the users who don't use their Office 365 credentials the same way you manage them today. Eventually, when you move everyone to Office 365, you will have one single place to manage all your users (including those who use Yammer).
   
-## See also
+## Related articles
 
 [Manage a Yammer group](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2)
 
