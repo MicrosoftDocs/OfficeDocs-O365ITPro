@@ -72,3 +72,11 @@ If you want to move to a plan with fewer services, you can [change plans manuall
 
 ## Call support to help you change plans
 [Call Microsoft support](../contact-support-for-business-products.md)
+
+## Related articles
+
+[Switch to a different Office 365 for business plan](switch-to-a-different-plan.md)
+
+[What does upgrading Office 365 plans do to my service and billing?](what-does-switching-plans-do-to-my-service-and-billing.md)
+
+[Back up data before switching Office 365 for business plans](back-up-data-before-switching-plans.md)

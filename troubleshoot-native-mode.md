@@ -57,7 +57,7 @@ When migration completes, the admin gets a report of any file name conflicts, an
 
 You won't be able to take your network to Native Mode for Microsoft 365 until you resolve any files left behind.
 
-## See also
+## Related articles
 
 [Overview of Native Mode for Microsoft 365](overview-native-mode.md)
 [Configure your Yammer network for Native Mode](native-mode.md)

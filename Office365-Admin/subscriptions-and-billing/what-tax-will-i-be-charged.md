@@ -91,7 +91,7 @@ In the United States and Canada, various tax rates apply depending on your locat
   
 If your billing is done by Microsoft Corporation ([see your invoice](view-your-bill-or-invoice.md)), and you signed up for Office 365 outside of the United States, Canada, and Puerto Rico, then tax is generally not charged.
   
-## Related topics
+## Related articles
 
 [Apply for tax exempt status](apply-for-tax-exempt-status.md)
   

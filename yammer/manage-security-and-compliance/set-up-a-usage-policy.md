@@ -75,7 +75,7 @@ You can add a custom link to your organization's browser policy. The link will b
     
 2. Specify the URL where your organization's browser policy is defined.
     
-## See also
+## Related articles
 
 [Manage Yammer security settings](yammer-security-settings.md)
   

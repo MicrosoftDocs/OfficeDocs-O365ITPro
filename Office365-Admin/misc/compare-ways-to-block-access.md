@@ -34,14 +34,14 @@ When an employee leaves your organization, on good terms or bad, you need to blo
 |Reset user password  <br/> |Another way to prevent a user from accessing Office 365 is to reset their password. This prevents them from using their account though they can still view previously downloaded or synced email and documents. You can then sign in as them and change the password to one of your choosing.  <br/> |Use when an employee leaves suddenly and permanently and you feel there is concern for business data.  <br/> |
 |Remove all assigned licenses  <br/> |Another option is to remove any Office 365 licenses assigned to the user. This prevents them from using applications and services like the Office suite, Office apps for the web, Yammer, and SharePoint Online. They can still sign in but cannot use these services.  <br/> |Use when you feel this user no longer needs access to specific features in Office 365.  <br/> <br> **Important:** When you remove a license, the user's mailbox will be deleted in 30 days.
    
-## Related topics
+## Related articles
 
-- [Offboard a user from Office 365](../add-users/remove-former-employee.md)
+[Offboard a user from Office 365](../add-users/remove-former-employee.md)
     
-- [Reset a user's password in Office 365](../add-users/reset-passwords.md)
+[Reset a user's password in Office 365](../add-users/reset-passwords.md)
     
-- [Assign licenses to users in Office 365 for business](../manage/assign-licenses-to-users.md)
+[Assign licenses to users in Office 365 for business](../manage/assign-licenses-to-users.md)
     
-- [Remove licenses from users in Office 365 for business](../manage/remove-licenses-from-users.md)
+[Remove licenses from users in Office 365 for business](../manage/remove-licenses-from-users.md)
     
 

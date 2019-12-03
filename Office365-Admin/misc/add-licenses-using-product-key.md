@@ -151,6 +151,6 @@ Prepaid licenses are issued to you as a 25-character alphanumeric code. After yo
 
 ::: moniker-end
 
-## Related topics
+## Related articles
 
 [Assign licenses to users](../manage/assign-licenses-to-users.md)

@@ -233,10 +233,14 @@ If you have more than one subscription, and you have users who already have a li
 
 - Some services, like Sway, are automatically assigned to users, and don't need to be assigned individually.
 
-## Related topics
+## Related articles
 
-- [Understand subscriptions and licenses](../subscriptions-and-billing/subscriptions-and-licenses.md)
+[Understand subscriptions and licenses](../subscriptions-and-billing/subscriptions-and-licenses.md)
 
-- [Remove licenses from users](remove-licenses-from-users.md)
+[Resolve license conflicts in Office 365 for business](resolve-license-conflicts.md)
 
-- [Remove licenses from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md)
+[Remove licenses from users](remove-licenses-from-users.md)
+
+[Remove licenses from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md)
+
+[Buy licenses for your subscription](../subscriptions-and-billing/buy-licenses.md)

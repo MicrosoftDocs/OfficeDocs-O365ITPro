@@ -142,7 +142,7 @@ Because migration deletes files and the process is irreversible, you need to dec
 
 You can learn more about what happens after the files have been migrated, see [How do I tell where my Yammer files are being stored](https://go.microsoft.com/fwlink/?linkid=2111253)
 
-## See also
+## Related articles
 
 [Overview of Native Mode](overview-native-mode.md)
 

@@ -132,6 +132,6 @@ We've addressed most of the reasons why this happens but it still CAN happen, al
 > [!TIP]
 > See the workaround in this support solution for instances when [shared mailboxes are unexpectedly converted to user mailboxes](https://support.microsoft.com/help/2710029/shared-mailboxes-are-unexpectedly-converted-to-user-mailboxes-after-di)
   
-## Related Topics
+## Related articles
 
 [Create a shared mailbox](create-a-shared-mailbox.md)

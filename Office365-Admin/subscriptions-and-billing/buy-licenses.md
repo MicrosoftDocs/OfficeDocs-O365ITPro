@@ -123,22 +123,15 @@ If you have a trial subscription, you must first buy your trial subscription, th
 
 - If you buy new licenses in the middle of your billing period, your first billing statement might have a partial charge. The remaining amount will be included on your next billing statement.
 
-## Articles about managing licenses
+## Related articles
 
-- [Understand subscriptions and licenses](subscriptions-and-licenses.md)
+[Understand subscriptions and licenses](subscriptions-and-licenses.md)
 
-- [Assign licenses to users](../manage/assign-licenses-to-users.md)
+[Assign licenses to users](../manage/assign-licenses-to-users.md)
 
-- [Remove licenses from users](../manage/remove-licenses-from-users.md)
+[Buy another subscription](buy-another-subscription.md)
 
-- [Remove licenses from your subscription](remove-licenses-from-subscription.md)
+[Buy or edit an add-on](buy-or-edit-an-add-on.md)
 
-- [Buy another subscription](buy-another-subscription.md)
-
-- [Buy or edit an add-on](buy-or-edit-an-add-on.md)
-
-- [Manage Yammer user licenses](https://docs.microsoft.com/en-us/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
+[Manage Yammer user licenses](https://docs.microsoft.com/en-us/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
   
-## Related topics
-
-[Cancel your subscription](cancel-your-subscription.md)

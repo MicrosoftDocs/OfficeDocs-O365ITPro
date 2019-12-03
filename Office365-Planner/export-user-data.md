@@ -259,6 +259,6 @@ Each of the above will have the following properties:
 |UserPrincipalName|User Principal Name (UPN) of the user.  |
 |PrincipalType|The entity type (User or Group).|
 
-## See Also
+## Related articles
 
 [Delete user data in Microsoft Planner](delete-user-data.md)

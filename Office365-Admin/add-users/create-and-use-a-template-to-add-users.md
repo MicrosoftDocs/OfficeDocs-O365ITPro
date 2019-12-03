@@ -79,7 +79,7 @@ You can easily delete templates you no longer need and add new ones. To delete a
     - Select the three dots to the right of the template name, and then select **Delete**.
     - Select the template name. When the template details appear on the right side of your screen, select **Delete template**.
 
-## Related topics
+## Related articles
 
 [Add users individually or in bulk to Office 365](add-users.md)
 
