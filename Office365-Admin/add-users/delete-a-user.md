@@ -173,7 +173,7 @@ See the [Remove-MsolUser](https://go.microsoft.com/fwlink/?linkid=842230) PowerS
     
 - If you want to keep the user's email, **BEFORE** you delete the account, move the email to a different location. If you've already deleted the account: if it's been less than 30 days you can restore it, then move the email data, then delete the account. See [Get access to and back up a former user's data](get-access-to-and-back-up-a-former-user-s-data.md).
     
-- If you have an Enterprise subscription, like Office 365 Enterprise E3, you can preserve the mailbox data of a deleted Office 365 user account by turn it into an *inactive mailbox*. To learn more, see [Manage inactive mailboxes in Exchange Online](https://go.microsoft.com/fwlink/p/?linkid=848214).
+- If you have an Enterprise subscription like Office 365 Enterprise E3, you can preserve the mailbox data of a deleted Office 365 user account by turning it into an *inactive mailbox*. To learn more, see [Manage inactive mailboxes in Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/inactive-mailboxes-in-office-365).
     
 ## Fix issues with deleting a user
 
@@ -203,4 +203,3 @@ Here are the most common issues people encounter when deleting a user:
   
 [Delete a User Account](https://go.microsoft.com/fwlink/?linkid=841808): Use these instructions if your business uses **Active Directory** that is synchronizing with Azure AD. You can't do it through Office 365. 
   
-
