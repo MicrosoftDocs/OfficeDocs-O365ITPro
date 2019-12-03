@@ -223,49 +223,6 @@ A: If a user is CC’ed in a message and then the CC  is removed, they will no l
 > [!NOTE]
 > CC is often referred to as @mention.
 
-## PREVIEW
-
-**Q: How do I get Support for Yammer eDiscovery during Preview??**
-
-A: During Preview, Microsoft Support is not providing assistance through support cases for the Yammer eDiscovery features described in this document.
-
-**Please do not open support cases for assistance with Yammer eDiscovery. Contact Adam Peretz directly with details of any issues experienced during the preview.**
-
-Once eDiscovery enters general availability, it will be fully supported. At that time, it will be possible to open support cases with Microsoft Support for assistance with any issues experienced.
-
-**Q: What are the limitations of this functionality in Preview??**
-
-A: In Preview, the following are known limitations:
-
-- eDiscovery Private Preview functionality will include:
-
-  - New messages for AAD Users
-  - New messages in Office 365 Groups
-  - New files that are stored in SharePoint will be discoverable
-    - To find out whether your Yammer files are stored in SharePoint, follow the instructions in this support article.
-
-- The eDiscovery Preview functionality should not be used to manage real eDiscovery cases.
-
-- Once eDiscovery Private Preview 1 is enabled in the customer tenant, only messages generated from that point forward will be available in eDiscovery. There will be no backfill until Private Preview 2 begins.
-
-- At the end of Private Preview 1, there will be a window where you will lose access to Yammer eDiscovery functionality while we backfill your historical messages in preparation for Private Preview 2.
-
-- Customers must migrate to Native Mode to participate in Private Preview 2. Failure to migrate will result in loss of access to eDiscovery preview content.
-
-- At the beginning of Private Preview 1, the following features are known not to work:
-
-  - Native View in Advanced eDiscovery
-
-  - Message Reactions
-
-  - Tracking of whether a message is an Announcement
-
-  - Voting results on Polls
-
-  - Attachments not visible for messages (files are still discoverable in SharePoint Online)
-
-    - Messages posted in public groups where the user is not a member with attachments: The file attached will only be discoverable if the public group is selected during the custodian workflow.
-  
 ## See also
 
 [eDiscovery in Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery)
