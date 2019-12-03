@@ -108,7 +108,7 @@ After purchasing a new subscription, you'll need to assign the users who you wan
 ::: moniker-end
 
 
-## Related topics
+## Related articles
 
 [Assign licenses to users](../manage/assign-licenses-to-users.md)
   

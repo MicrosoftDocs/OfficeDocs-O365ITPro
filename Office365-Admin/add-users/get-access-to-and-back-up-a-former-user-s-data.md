@@ -212,7 +212,7 @@ To give access to the email messages, calendar, tasks, and contacts of the forme
 > If you want to import or restore only a few items from an Outlook Data File (.pst), you can open the Outlook Data File. Then, in the navigation pane, drag the items from Outlook Data File folders to your existing Outlook folders. 
   
   
-## Related Topics
+## Related articles
 [Remove a former employee from Office 365](remove-former-employee.md)
 
 [Add and remove admins on a OneDrive account](https://docs.microsoft.com/sharepoint/manage-user-profiles#add-and-remove-admins-for-a-users-onedrive)

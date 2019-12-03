@@ -63,7 +63,7 @@ If you are an admin and want to take over an unmanaged tenant created by a self-
 > [!NOTE]
 > Taking over the shadow tenant will not impact any existing information or services. However, if any users in the domain have signed up for services that require a license, you'll be asked to buy licenses for them as part of taking over the admin role. You can add or remove licenses once the admin setup process is finished. 
   
-## Related Topics
+## Related articles
 
 YouTube: [3 steps to do an IT Admin Takeover for Power BI and Office 365](https://www.youtube.com/watch?v=xt5EsrQBZZk)
 

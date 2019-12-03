@@ -117,3 +117,10 @@ After you register your domain (at a domain registrar), you sign in to Office 36
     
 ::: moniker-end
 
+## Related articles
+
+[Add a domain to Office 365](../setup/add-domain.md)
+
+[Domains FAQ](../setup/domains-faq.md)
+
+[Get help with Office 365 domains](get-help-with-domains.md)

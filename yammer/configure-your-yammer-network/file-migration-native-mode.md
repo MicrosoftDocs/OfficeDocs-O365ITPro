@@ -107,7 +107,7 @@ When migration completes, the admin gets a report of any file name conflicts, an
 
 A: No. Only one person in your organization needs a SharePoint license.
 
-## See also
+## Related articles
 
 [Prepare a Yammer network for Native Mode for Microsoft 365](native-mode.md)
 

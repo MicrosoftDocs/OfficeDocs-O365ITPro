@@ -171,7 +171,7 @@ To find and delete a specific file:
 
 To set up automatic recurring exports, use the Yammer API. For information about the Data Export API, go to [/export](https://go.microsoft.com/fwlink/?LinkID=534735) on the Yammer Developer Center. 
   
-## See also
+## Related articles
 
 [View Group Insights in Yammer](https://support.office.com/article/73f9fa6d-d442-4f25-9194-d5317c9328ab.aspx)
   

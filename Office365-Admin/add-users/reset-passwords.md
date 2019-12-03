@@ -129,11 +129,20 @@ Check out this great blog post by Vasil Michev, Microsoft MVP: [Force password c
 
 Try this article: [I forgot the username or password for the account I use with Office.](https://support.office.com/en-us/article/eba0b4a2-c0ae-472c-99f6-bc63ee2425a8?wt.mc_id=SCL_reset-passwords_AdmHlp)
   
-## More info on resetting passwords
+## Related articles
 <a name="bkmk_forgot"> </a>
+  
+[Let users reset their own passwords in Office 365](let-users-reset-passwords.md)
+
+[Set an individual user's password to never expire](set-password-to-never-expire.md)
 
 [Set the password expiration policy for your organization](../manage/set-password-expiration-policy.md)
-  
-[Set an individual user's password to never expire](set-password-to-never-expire.md)
+
+[Restore a user in Office 365](restore-user.md)
+
+[Remove a former employee from Office 365](remove-former-employee.md)
+
+
+
   
 

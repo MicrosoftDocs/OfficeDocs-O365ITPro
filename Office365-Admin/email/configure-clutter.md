@@ -88,13 +88,13 @@ As an admin, you can re-enable Clutter using Exchange PowerShell. Once this is d
     
   - Clutter settings will appear
     
-## Related topics
+## Related articles
 <a name="bkmk_onoff"> </a>
 
-- [Use Clutter to sort low priority messages in Outlook](https://support.office.com/article/7755ebf5-4585-469b-b1ab-8b12425c6b6b.aspx)
+[Use Clutter to sort low priority messages in Outlook](https://support.office.com/article/7755ebf5-4585-469b-b1ab-8b12425c6b6b.aspx)
     
-- [Use Clutter to sort low priority messages in OWA](https://support.office.com/article/fe4d64ca-bf73-48f1-91b4-9a659e008bce.aspx)
+[Use Clutter to sort low priority messages in OWA](https://support.office.com/article/fe4d64ca-bf73-48f1-91b4-9a659e008bce.aspx)
     
-- [Turn off Clutter in Outlook](https://support.office.com/article/a9c72a77-1bc4-40e6-ba6d-103c1d1aba4c.aspx)
+[Turn off Clutter in Outlook](https://support.office.com/article/a9c72a77-1bc4-40e6-ba6d-103c1d1aba4c.aspx)
     
 

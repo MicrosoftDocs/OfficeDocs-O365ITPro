@@ -179,3 +179,14 @@ You can also change the alternate email address of other global and billing admi
 2. On the **Billing notifications** page, select the admin you want to change.
 
 3. In the **Edit user roles** pane, type the alternate email address you want to use, then select **Save**.
+
+## Related articles
+
+[View your bill or invoice](view-your-bill-or-invoice.md)
+
+[Understand your invoice](understand-your-invoice.md)
+
+[Pay for yoursubscription](pay-for-your-subscription.md)
+
+[Subscriptions and billing - Admin Help](subscriptions-and-billing.md)
+

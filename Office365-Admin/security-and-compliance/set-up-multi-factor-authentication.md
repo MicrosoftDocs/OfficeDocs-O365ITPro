@@ -89,3 +89,8 @@ After you set up multi-factor authentication for your organization, your users w
     > [!NOTE]
     > To exclude users from a policy, select **specific users excluded** > **Select excluded users**, select the users from the list, and then choose **Select**.
 
+## Related articles
+
+[Top 10 ways to secure Office 365 and Microsoft 365 Business plans](secure-your-business-data.md)
+
+[Enable Modern Authentication for Office 2013 on Windows devices](enable-modern-authentication.md)

@@ -74,7 +74,7 @@ Group owners will only be notified via email. If the group was created via Plann
 
 If for some reason none of the owners or admins renew the group before it expires, the admin can still restore the group for up to 30 days after expiration. For details see: [Restore a deleted Office 365 Group](https://support.office.com/article/restore-a-deleted-office-365-group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54).
 
-## Related topics
+## Related articles
 
 [Overview of retention policies](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423)
 

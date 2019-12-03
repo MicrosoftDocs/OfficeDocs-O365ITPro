@@ -33,6 +33,6 @@ If you qualify for tax exempt status in your country or region, please [contact 
 |Ireland  <br/> |13B/56A Tax Exemption Certificate  <br/> |
 |International organizations that hold tax exemption  <br/> |Certification/letter confirmation from relevant local tax authorities  <br/> |
    
-## Related topics
+## Related articles
 
 [What tax will I be charged?](what-tax-will-i-be-charged.md)

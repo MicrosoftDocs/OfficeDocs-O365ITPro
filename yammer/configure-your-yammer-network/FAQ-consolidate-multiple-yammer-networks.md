@@ -113,6 +113,6 @@ A: If you're not already a verified admin of the secondary network:
 
 A: In Yammer, having multiple primary networks is not supported. If you add an [external domain with a Yammer Basic network](add-basic-domains-to-office-365.md) (“Basic network”) to your Office 365 tenant, we must disassociate the domain from the basic network in order to associate the domain with the primary network for your O365 tenant. The basic network is then queued for deletion.
   
-## See also
+## Related articles
 
 [Consolidate multiple Yammer networks](consolidate-multiple-yammer-networks.md)

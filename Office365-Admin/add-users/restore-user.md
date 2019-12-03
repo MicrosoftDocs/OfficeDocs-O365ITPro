@@ -147,7 +147,7 @@ Go to the [admin center](https://go.microsoft.com/fwlink/p/?linkid=848041), and 
     
 4. Review the results, and then select **Close**.
 
-## Related Topics
+## Related articles
 
 [Delete a user](delete-a-user.md)
   
