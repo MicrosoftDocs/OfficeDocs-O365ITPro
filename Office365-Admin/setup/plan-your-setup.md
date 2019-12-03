@@ -24,8 +24,6 @@ description: "Learn what what you need to do to set up your Office 365 for busin
 
 # Plan your setup of Office 365 for business
 
-[![Label to let you know the admin center is changing and you can find more details at aka.ms/aboutM365preview.](../media/O365-Admin-AdminCenterChanging.png)](../microsoft-365-admin-center-preview.md)
-
 This article is for people who have subscribed to an Office 365 business plan.
   
 There are a few things you need to decide, and info you need to have on hand, before moving your organization to Office 365.

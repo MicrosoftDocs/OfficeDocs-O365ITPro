@@ -26,7 +26,6 @@ ms.custom: okr_smb
 
 # About the Microsoft 365 admin center
 
-[![Label to let you know the admin center is changing and you can find more details at aka.ms/aboutM365preview.](../media/O365-Admin-AdminCenterChanging.png)](../microsoft-365-admin-center-preview.md)
 
 **If you purchased an Office 365 business plan AND you have admin permissions, you have access to the admin center**. This article is for you! 
 
