@@ -11,6 +11,7 @@ ms.collection:
 - M365-subscription-management 
 - Adm_O365
 - Adm_TOC
+- TRN_SMB
 search.appverid:
 - MET150
 - MOE150
@@ -41,6 +42,7 @@ Sign up for Office 365 for business so your team can begin using the latest vers
   
 Watch a quick overview of the three plans best for your business. or scroll down for more info.
 <br><br>
+
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/cf211808-67c3-4d4b-880a-3f582d70b4d1?autoplay=false]
   
 ::: moniker-end
@@ -62,7 +64,14 @@ Ready to sign up? [Select a Plan](https://products.office.com/zh-cn/business/com
 ## Choose a plan
 
 Before you buy, put some thought into the plan you sign up for. This will help prevent growing pains later.
-  
+
+Watch a short video about choosing an Office 365 business plan.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/906be77d-ded6-48fb-a25f-da110f787282]
+
+If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
+
 Need help choosing? Sales consultants are available to answer your questions. Just go to [Compare all products](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2) and choose one of the contact support options listed at the left side of the page. 
   
 ::: moniker-end
@@ -84,6 +93,12 @@ Go to [Compare all products](https://products.office.com/en-us/compare-all-micro
 If you start with a free trial, you can [buy it later](../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md). All your users and data from the trial will still be there.
   
 You don't need to cancel your trial. If you don't buy the trial subscription, it automatically expires at the end of the trial period, and all the information is permanently deleted.
+
+Watch a short video that shows the sign up process.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE471FJ] 
+
+If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
   
 ::: moniker-end
 
@@ -120,4 +135,8 @@ You don't need to cancel your trial. If you don't buy the trial subscription, it
     You can pay for your subscription with a credit card. If the cost reaches a certain amount, you may also have the option to pay by invoice.
     
     > [!IMPORTANT]
-    >  When you sign up, be sure to choose the best payment option for your organization. Changing payment options involves calling billing support. 
+    >  When you sign up, be sure to choose the best payment option for your organization. Changing payment options involves calling billing support.
+
+    ## See also
+    
+    [Microsoft 365 Business training videos](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
