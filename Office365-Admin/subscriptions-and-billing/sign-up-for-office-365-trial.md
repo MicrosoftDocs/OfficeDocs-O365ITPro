@@ -12,7 +12,6 @@ ms.collection:
 - Adm_O365
 - Adm_TOC
 - commerce
-- TRN_SMB
 search.appverid:
 - BCS160
 - MET150
