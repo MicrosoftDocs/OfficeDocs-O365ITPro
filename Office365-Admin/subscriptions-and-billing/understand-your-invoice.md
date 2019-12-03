@@ -137,7 +137,7 @@ If you pay by invoice, you can add or change the purchase order (PO) number for 
 
 ::: moniker-end
 
-## Related topics
+## Related articles
 
 [Pay for your Office 365 for business subscription](pay-for-your-subscription.md)
 

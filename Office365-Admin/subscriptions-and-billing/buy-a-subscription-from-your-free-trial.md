@@ -165,7 +165,7 @@ If you purchase a different type of subscription that your trial, you will have 
 
 ::: moniker-end
 
-## Related topics
+## Related articles
 
 [Extend your trial](extend-your-trial.md)
   

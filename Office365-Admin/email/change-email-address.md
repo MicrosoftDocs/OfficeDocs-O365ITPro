@@ -92,7 +92,7 @@ You must have a global admin account to perform these steps.
     
 You'll be guided to get everything set up correctly with your domain in Office 365.
   
-## See Also
+## Related articles
 
 [Buy a custom domain using Office 365](../get-help-with-domains/buy-a-domain-name.md)
  

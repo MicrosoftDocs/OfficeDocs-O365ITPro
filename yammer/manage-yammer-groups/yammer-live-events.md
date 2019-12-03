@@ -118,7 +118,7 @@ Both work on desktop, web, and mobile devices (iOS and Android).
 
 In Office 365, you can customize the help pane that comes up when users click the Help icon to add contact information for your local support staff. For more information, see [Add customized help desk info to the Office 365 help pane](https://docs.microsoft.com/office365/admin/misc/customize-help-desk).
 
-## See also
+## Related articles
 
 [Organize a live event in Yammer](https://support.office.com/article/organize-a-live-event-in-yammer-105dd7af-9caf-4a5e-8a44-56d203e96551)
 

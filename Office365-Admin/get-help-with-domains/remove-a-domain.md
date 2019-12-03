@@ -226,4 +226,12 @@ Still not working? Your domain might need to be manually removed. [Give us a cal
   
 ::: moniker-end
 
+## Related articles
 
+[Domains FAQ](../setup/domains-faq.md)
+
+[Get help with Office 365 domains](get-help-with-domains.md)
+
+[Switch to a different Office 365 for business plan](../subscriptions-and-billing/switch-to-a-different-plan.md)
+
+[Cancel your subscription](../subscriptions-and-billing/cancel-your-subscription.md)

@@ -52,7 +52,7 @@ By default for Yammer Enterprise networks in the US Geo, users can add external 
     - No new external groups can be created. 
 
  
-## See also
+## Related articles
 
 [Add external participants to your Yammer conversations](add-external-participants.md)
   

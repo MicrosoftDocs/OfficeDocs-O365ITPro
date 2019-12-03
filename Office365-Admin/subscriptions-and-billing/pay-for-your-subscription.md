@@ -284,7 +284,7 @@ You can choose to receive a copy of your billing statement as an email attachmen
 
 If your original reasons for choosing invoice, credit card, or bank account have changed, for example, if you adjust your subscription so that the payment amount is lower so that you no longer qualify for invoice payments, you can change your payment method. For more information, see [Change your payment method](change-payment-method.md).
 
-## Related topics
+## Related articles
 
 [Add, update, or remove a credit card or bank account](add-update-or-remove-credit-card-or-bank-account.md)
 

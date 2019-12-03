@@ -58,6 +58,6 @@ Below is a set of actions we immediately take after you add a domain. Also, ther
 
 - To understand the difference between Yammer Basic and Yammer Enterprise networks, see [Compare options for a free trial of Yammer](../get-started-with-yammer/compare-options-for-a-free-trial.md).
 
-## See also
+## Related articles
 
 [Network migration - Consolidate multiple Yammer networks](consolidate-multiple-yammer-networks.md)

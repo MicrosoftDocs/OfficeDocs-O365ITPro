@@ -218,7 +218,7 @@ A member can delete an email conversation from the Group Inbox if they initiated
   
 When an email is deleted from the group mailbox, it is not deleted from any of the group members' personal mailboxes.
 
-## Related topics
+## Related articles
 
 [Manage guest access to Office 365 groups](https://support.office.com/article/7c713d74-a144-4eab-92e7-d50df526ff96.aspx)
 

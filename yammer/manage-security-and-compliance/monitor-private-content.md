@@ -58,7 +58,7 @@ When you are done investigating an issue, go back and set the network back to th
     
 4. Select **Default Mode (Recommended)**, and choose **Save**.
     
-## See also
+## Related articles
 
 [Verified Admin Private Content Mode in Yammer (Yammer Developer Center)](https://go.microsoft.com/fwlink/?LinkId=780585)
 
