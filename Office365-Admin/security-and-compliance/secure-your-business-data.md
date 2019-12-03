@@ -60,19 +60,17 @@ To see a training video for how to set up MFA and how users complete the set up,
   
 To set up multi-factor authentication:
 
-1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), turn on the new admin center by selecting the **Try the new admin center** toggle located at the top of the Home page.
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select **Setup**.
 
-2. In the left navigation pane, select **Setup**.
+2. In the **Sign-in and security** section, under **Turn on multi-factor authentication (MFA)**, select **View**. 
 
-3. In the **Sign-in and security** section, under **Turn on multi-factor authentication (MFA)**, select **View**. 
+3. On the **Make sign-in more secure** page, select **Get started**.
 
-4. On the **Make sign-in more secure** page, select **Get started**.
+4. Select the **Require multi-factor authentication for admins** and **Require users to register for multi-factor authentication and block access if risk is detected** check boxes.
 
-5. Select the **Require multi-factor authentication for admins** and **Require users to register for multi-factor authentication and block access if risk is detected** check boxes.
+5. Under **Do you want to exclude anyone from these policies**, select any users that you want to exclude from the drop-down list box.
 
-6. Under **Do you want to exclude anyone from these policies**, select any users that you want to exclude from the drop-down list box.
-
-7. Select **Create policy**. You will return to the **Make sign-in more secure** page, which will now say **Manage**. 
+6. Select **Create policy**. You will return to the **Make sign-in more secure** page, which will now say **Manage**. 
 
 After you set up multi-factor authentication for your organization, your users will be required to set up two-step verification on their devices. For more information, see [Set up 2-step verification for Office 365](https://support.office.com/article/ace1d096-61e5-449b-a875-58eb3d74de14).
   

@@ -191,19 +191,12 @@ When you return to the **Subscriptions** page, you will see the old subscription
 
 You can use the following steps at any time to verify the payment method that's configured for a subscription.
 
-### Use the new admin center to verify which payment method is configured
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
 2. Find the subscription that you want to verify. The payment method that's configured for the subscription appears in the **Billing** section.
-
-### Use the old admin center to verify which payment method is configured
-  
-1. In the admin center, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
-
-2. Find the subscription that you want to verify. The payment method that's configured for the subscription appears under **Payment method**.
 
 ::: moniker-end
 
