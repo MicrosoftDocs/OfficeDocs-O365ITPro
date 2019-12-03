@@ -43,7 +43,7 @@ And if you're someone who is responsible for more than one online organization, 
 
 [Microsoft 365 Admin mobile app](https://go.microsoft.com/fwlink/?LinkID=627216).
   
-Watch a short video about installing the admin mobile app.
+Watch a short video about installing the admin mobile app.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/05c1d439-9ec2-415f-9178-250f64dec64c] 
 

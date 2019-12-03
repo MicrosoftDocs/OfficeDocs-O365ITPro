@@ -25,7 +25,7 @@ description: "Learn to create and delete Office 365 groups, add and remove group
   
 While users can create an Office 365 group from Outlook or other apps, as an admin, you may need to create or delete groups, add or remove members, and customize how they work. The Microsoft 365 admin center is the place to do this. 
 
-Watch a short video about creating a group email address.
+Watch a short video about creating a group email address.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2GCG3]
 
