@@ -25,12 +25,6 @@ description: "Learn to create and delete Office 365 groups, add and remove group
   
 While users can create an Office 365 group from Outlook or other apps, as an admin, you may need to create or delete groups, add or remove members, and customize how they work. The Microsoft 365 admin center is the place to do this. 
 
-Watch a short video about creating a group email address.<br><br>
-
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2GCG3]
-
-If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
-
 > [!TIP]
 > Office 365 connected Yammer groups must be created in Yammer, but can be managed in the Microsoft 365 admin center like other Office 365 groups. To learn more, see [Yammer and Office 365 Groups](https://support.office.com/article/d8c239dc-a48b-47ab-b85e-6b4b8191a869.aspx). 
 
@@ -235,7 +229,3 @@ When an email is deleted from the group mailbox, it is not deleted from any of t
 [Upgrade distribution lists to Office 365 Groups](../manage/upgrade-distribution-lists.md)
 
 [Manage Office 365 Groups with PowerShell](https://support.office.com/article/aeb669aa-1770-4537-9de2-a82ac11b0540)
-
-## See also
-
-[Microsoft 365 Business training videos](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
