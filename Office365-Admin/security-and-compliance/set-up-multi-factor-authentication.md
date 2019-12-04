@@ -30,9 +30,12 @@ This article describes how to set up multi-factor authentication (MFA) for Offic
   
 You get a free version of Azure multi-factor authentication as part of your Office 365 for business subscription. For a list of features included in your version of Office 365, see [How to get Azure Multi-Factor Authentication](https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-authentication-versions-plans).
 
+::: moniker range="o365-worldwide"
+
 > [!NOTE]
-> You must be an Office 365 global admin to set up or modify multi-factor authentication. <br><br>::: moniker range="o365-worldwide"
+> You must be an Office 365 global admin to set up or modify multi-factor authentication. <br><br>
 > If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
 ::: moniker-end
   
 ## Enable multi-factor authentication for your organization
