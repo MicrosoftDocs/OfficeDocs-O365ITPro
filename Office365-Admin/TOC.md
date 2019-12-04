@@ -142,6 +142,7 @@
 ### [Office 365 Group Expiration Policy](create-groups/office-365-groups-expiration-policy.md)
 ### [Restore deleted Group](create-groups/restore-deleted-group.md)
 ### [Manage guest access in Groups](create-groups/manage-guest-access-in-groups.md)
+### [Use sensitivity labels with groups](https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels-teams-groups-sites?toc=/office365/admin/toc.json)
 ## Office 365 operated by 21Vianet
 ### [About Office 365 operated by 21Vianet](services-in-china/services-in-china.md)
 ### [Buy or try subscriptions](services-in-china/buy-or-try-subscriptions.md)
