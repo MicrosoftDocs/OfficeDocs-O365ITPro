@@ -31,10 +31,6 @@ Shared mailboxes include a shared calendar! A lot of small businesses like to us
 
 ## Create a shared mailbox and add members
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/6d993201-a718-4bad-8b4d-2660670aa87d?autoplay=false]
-
-**Try it!**
-
 ::: moniker range="o365-worldwide"
 
 > [!TIP]

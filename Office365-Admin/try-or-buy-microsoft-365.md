@@ -65,9 +65,7 @@ When you add a subscription through the admin center, the new subscription is as
 
 #### Not using the new admin center yet?
 
-If you have new admin center turned off, watch the following video to sign up for a trial Microsoft 365 subscription.
-
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2Kjyz?autoplay=false]
+If you have new admin center turned off, watch the videos in this article to learn how to sign up for a trial Microsoft 365 subscription: [Sign up for a subscription](https://support.office.com/article/sign-up-for-a-microsoft-subscription-9ac1a0f1-789b-4143-b954-5821d5d89298)
 
 ::: moniker-end
 
