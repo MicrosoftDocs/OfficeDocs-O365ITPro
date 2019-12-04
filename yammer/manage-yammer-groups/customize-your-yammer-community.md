@@ -35,7 +35,7 @@ In the community header, point on the cover photo and select Update Cover Photo.
 ## To upload a mobile cover photo
 
 1. In the community header, select the cover photo.
-2. In the top-right corner, select .
+2. In the top-right corner, select [add icon].
 3. From the file list, select or take an image to upload.
 
    The file must be is 20 MBs or less and is either a .png, .jpeg, or a non-animated .gif.
