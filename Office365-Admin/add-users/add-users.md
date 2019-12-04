@@ -128,7 +128,7 @@ After you add a user, you'll get an email notification from the Microsoft Online
 
 ### Video: Add and manage users in the admin center
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/4f00c3bc-8a22-45e2-aaa2-820958f56d26?autoplay=false]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOfN?autoplay=false]
   
 ## Next steps
 
