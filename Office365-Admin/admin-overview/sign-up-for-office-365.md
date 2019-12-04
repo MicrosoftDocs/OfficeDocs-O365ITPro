@@ -12,6 +12,9 @@ ms.collection:
 - Adm_O365
 - Adm_TOC
 - TRN_SMB
+ms.custom:
+- TRN_M365B
+- OKR_SMB_Videos
 search.appverid:
 - MET150
 - MOE150
@@ -71,7 +74,6 @@ Watch a short video about choosing an Office 365 business plan.<br><br>
 
 If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
-
 Need help choosing? Sales consultants are available to answer your questions. Just go to [Compare all products](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2) and choose one of the contact support options listed at the left side of the page. 
   
 ::: moniker-end
@@ -97,9 +99,7 @@ You don't need to cancel your trial. If you don't buy the trial subscription, it
 Watch a short video that shows the sign up process.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE471FJ] 
-
-If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
-  
+ 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
