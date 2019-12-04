@@ -35,14 +35,14 @@ description: "Learn how to preserve an employee's files and emails when the pers
 
 ::: moniker-end
 
-When an employee leaves your organization, you probably want to access their data (documents and emails) and either review it, back it up, or transfer ownership to a new employee.
+When an employee leaves your organization, you probably want to access their data (documents and emails) and either review it, back it up, or give it to a new employee.
   
     
 ## Access a former user's OneDrive documents
 
-If you remove a user's license but don't delete the account, you retain access to the content in the user's OneDrive site. If you delete their account you have 30 days to access a former user’s OneDrive data. If you don't [restore a user account](https://docs.microsoft.com/office365/admin/add-users/restore-user) within 30 days their OneDrive content is deleted. Before you delete the account, you should move the content from their OneDrive to another location.
+If you remove a user's license but don't delete the account, you can give yourself access to the content in the user's OneDrive. If you delete the user's account, you have 30 days by default to access the former user’s OneDrive data. [Learn how to set the OneDrive retention for deleted users](/onedrive/set-retention). If you don't [restore a user account](/office365/admin/add-users/restore-user) within this time, their OneDrive content is deleted. 
 
-To preserve a former user's OneDrive for Business documents you first access their OneDrive site and then move the files. 
+To preserve a former user's OneDrive files, first give yourself access to their OneDrive, and then move the files you want to keep. 
 
 ::: moniker range="o365-worldwide"
 
@@ -55,7 +55,11 @@ To preserve a former user's OneDrive for Business documents you first access the
 
 3. In the right pane, select **OneDrive**. Under **Get access to files**, select **Create link to files**.
 
-4. Select the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. 
+4. Select the link to open the file location. Download the files to your computer, or select **Move to** or **Copy to** to move or copy them to your own OneDrive or to a shared library. 
+
+> [!NOTE]
+> You can move or copy up to 500 MB of files and folders at a time.<br/>
+> When you move or copy documents that have version history, only the latest version is moved.  
 
 ::: moniker-end
 
@@ -67,11 +71,11 @@ To preserve a former user's OneDrive for Business documents you first access the
 
 3. In the right pane, expand **OneDrive Settings**, and then next to **Access**, select **Access files**.
 
-4. Select the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. 
+4. Select the link to open the file location. Download the files to your computer, or select **Move to** or **Copy to** to move or copy them to your own OneDrive or to a shared library. 
 
 > [!NOTE]
-> You can move up to 500 MB of files and folders at a time.<br/>
-> When you use **Move to** with documents that have version history, only the latest version is moved. To move earlier versions, you need to restore and move each one. 
+> You can move or copy up to 500 MB of files and folders at a time.<br/>
+> When you move or copy documents that have version history, only the latest version is moved.  
 
 ::: moniker-end
 
@@ -83,19 +87,19 @@ To preserve a former user's OneDrive for Business documents you first access the
 
 3. In the right pane, expand **OneDrive Settings**, and then next to **Access**, select **Access files**.
 
-4. Select the link to open the file location and download and copy the files to your own OneDrive for Business, or a common location. 
+4. Select the link to open the file location. Download the files to your computer, or select **Move to** or **Copy to** to move or copy them to your own OneDrive or to a shared library.  
 
 > [!NOTE]
-> You can move up to 500 MB of files and folders at a time.<br/>
-> When you use **Move to** with documents that have version history, only the latest version is moved. To move earlier versions, you need to restore and move each one. 
+> You can move or copy up to 500 MB of files and folders at a time.<br/>
+> When you move or copy documents that have version history, only the latest version is moved.  
 
 ::: moniker-end
     
 
 
-## Revoke admin access to a user’s OneDrive site
+## Revoke admin access to a user’s OneDrive
 
-As global admin you have access to the content in a user’s OneDrive site, but you may want to remove your access to a user’s documents. By default, the OneDrive Site Collection Administrator is the owner of the OneDrive account. The following steps describe how to remove a Site Collection Admin from a user’s OneDrive site.
+As global admin, you can give yourself access to the content in a user’s OneDrive, but you may want to remove your access when you no longer need it. 
 
 ::: moniker range="o365-worldwide"
 
@@ -117,19 +121,21 @@ As global admin you have access to the content in a user’s OneDrive site, but 
 
    If you get a message that you don't have permission to access the admin center, then you don't have administrator permissions in your organization.
 
-2. In the left pane, select **Admin centers** \> **SharePoint**.
+2. In the left pane, select **Admin centers** \> **SharePoint**. (You might need to select **Show all** to see the list of admin centers.)
 
-3. In the left pane, select **User Profiles**.
+3. If the classic SharePoint admin center appears, select **Open it now** at the top of the page to open the new SharePoint admin center.
 
-4. Under **People**, select **Manage User Profiles**.
+4. In the left pane, select **More features**.
 
-5. Enter the user's name and select **Find**.
+5. Under **User profiles**, select **Open**.
 
-6. Right-click the user, and then choose **Manage site collection owners**.
+6. Under **People**, select **Manage User Profiles**.
 
-7. Remove the person who no longer needs access to the user's data, then select **OK**.
+7. Enter the user's name and select **Find**.
 
-Learn more about how to add or remove site collection admins [in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-site-collection-administrators#add-or-remove-site-collection-admins-in-the-new-sharepoint-admin-center), or [in the classic SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-site-collection-administrators#add-or-remove-site-collection-admins-in-the-classic-sharepoint-admin-center).
+8. Right-click the user, and then choose **Manage site collection owners**.
+
+9. Remove the person who no longer needs access to the user's data, and then select **OK**.
 
     
 ## Access the Outlook data of a former user
@@ -215,10 +221,10 @@ To give access to the email messages, calendar, tasks, and contacts of the forme
 ## Related articles
 [Remove a former employee from Office 365](remove-former-employee.md)
 
-[Add and remove admins on a OneDrive account](https://docs.microsoft.com/sharepoint/manage-user-profiles#add-and-remove-admins-for-a-users-onedrive)
+[Add and remove admins on a OneDrive account](/sharepoint/manage-user-profiles#add-and-remove-admins-for-a-users-onedrive)
 
-[Manage site collection administrators](https://docs.microsoft.com/sharepoint/manage-site-collection-administrators#add-or-remove-site-collection-admins-in-the-new-sharepoint-admin-center)
+[Restore a deleted OneDrive](/onedrive/restore-deleted-onedrive)
   
-[OneDrive retention and deletion](https://docs.microsoft.com/onedrive/retention-and-deletion)
+[OneDrive retention and deletion](/onedrive/retention-and-deletion)
   
 
