@@ -83,7 +83,7 @@
 ### [Room and equipment mailboxes](manage/room-and-equipment-mailboxes.md)
 ### [Send email as distribution list](manage/send-email-as-distribution-list.md)
 ### [Upgrade distribution lists](manage/upgrade-distribution-lists.md)
-### [Share sites with external users](manage/share-sites-with-external-users.md)
+### [Share sites and files externally](manage/share-sites-with-external-users.md)
 ### [Share calendars with external users](manage/share-calendars-with-external-users.md)
 ### [Assign licenses to users](manage/assign-licenses-to-users.md)
 ### [Unassign licenses from users](manage/remove-licenses-from-users.md)
@@ -142,6 +142,7 @@
 ### [Office 365 Group Expiration Policy](create-groups/office-365-groups-expiration-policy.md)
 ### [Restore deleted Group](create-groups/restore-deleted-group.md)
 ### [Manage guest access in Groups](create-groups/manage-guest-access-in-groups.md)
+### [Use sensitivity labels with groups](https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels-teams-groups-sites?toc=/office365/admin/toc.json)
 ## Office 365 operated by 21Vianet
 ### [About Office 365 operated by 21Vianet](services-in-china/services-in-china.md)
 ### [Buy or try subscriptions](services-in-china/buy-or-try-subscriptions.md)
