@@ -68,9 +68,14 @@ The Tool prepares your network for Native Mode by disabling some features and mi
 
 - Begins transferring your data into the Security & Compliance Center.
 
->[!IMPORTANT]
+>[!CAUTION]
 > Once you are in Native Mode, or have started the file migration process, you can't go back.
 > Notify users that files will be deleted and files in private messages might disappear.
+
+## While the tool is running
+
+- Group updates will not work on unconnected groups.
+- File edits will not work on files not in SharePoint.
 
 ## What happens when you start the Tool
 
