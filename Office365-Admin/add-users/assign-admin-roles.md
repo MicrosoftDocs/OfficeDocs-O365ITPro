@@ -93,8 +93,6 @@ You can assign users to a role in 2 different ways:
 
 ::: moniker-end
 
-
-
 ## More info about admin role settings
 
 1. In the **Alternative email address** box, type an email address that is not connected to an Office 365 or Microsoft 365 subscription. This email address is used for important notifications, including resetting the password for your admin account, so the person must be able to access this email account if they get locked out of their Microsoft account.
@@ -116,7 +114,7 @@ You need a mobile phone that's capable of receiving text messages for password r
 5. When you have finished, select **Save**.
 
 
-### Assign admin roles to multiple users
+## Assign admin roles to multiple users
 
 If you know PowerShell, see [Assign roles to user accounts with PowerShell](https://go.microsoft.com/fwlink/?linkid=854257). It's ideal for assigning roles to hundreds of users.
   

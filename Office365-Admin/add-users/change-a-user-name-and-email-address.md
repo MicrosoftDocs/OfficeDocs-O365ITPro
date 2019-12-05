@@ -43,7 +43,8 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
 3. In the first box, type the first part of the new email address. If you added your own domain to Office 365, you can choose the domain for the new email alias by using the drop-down list. 
 
 4. Select **Save changes**.
-    
+
+   
 ::: moniker-end
 
 ::: moniker range="o365-germany"
@@ -70,12 +71,8 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
 
 ::: moniker-end
 
-
 **IMPORTANT**: 
-    
-  - If you get the error message " **A parameter cannot be found that matches parameter name 'EmailAddresses**," it means that it's taking a bit longer for Office 365 to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the setup process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.
-    
-  - If you get the error message "**We're sorry, the user couldn't be edited. Review the user information and try again**," it means you aren't an Office 365 global admin and you don't have permissions to change the user name. 
+If you get an error message, see [Resolve error messages](#resolve-error-messages).
 
 ## Set the primary email address
 
@@ -173,7 +170,9 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
 
 3. In the **Display name** box, type a new name for the person, and then select **Save**.
 
-    If you get the error message "**We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name.
+    If you get the error message "**We're sorry, the user couldn't be edited. Review the user information and try again**, see [Resolve error messages](#resolve-error-messages).
+
+It might take up to 24 hours for this change to take effect across all services. After the change has taken effect, the person will have to sign in to Outlook, Skype for Business and SharePoint with their updated username, so be sure to tell them about this change.
 
 ::: moniker-end
 
@@ -185,7 +184,9 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
 
 3. In the **Display name** box, type a new name for the person, and then select **Save**.
 
-    If you get the error message "**We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name.
+    If you get the error message "**We're sorry, the user couldn't be edited. Review the user information and try again**, see [Resolve error messages](#resolve-error-messages).
+
+It might take up to 24 hours for this change to take effect across all services. After the change has taken effect, the person will have to sign in to Outlook, Skype for Business and SharePoint with their updated username, so be sure to tell them about this change.
 
 ::: moniker-end
 
@@ -197,32 +198,30 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
 
 3. In the **Display name** box, type a new name for the person, and then select **Save**.
 
-    If you get the error message "**We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name.
+    If you get the error message "**We're sorry, the user couldn't be edited. Review the user information and try again**, see [Resolve error messages](#resolve-error-messages).e.
+
+It might take up to 24 hours for this change to take effect across all services. After the change has taken effect, the person will have to sign in to Outlook, Skype for Business and SharePoint with their updated username, so be sure to tell them about this change.
 
 ::: moniker-end
 
+## Resolve error messages
 
-## Did you get "A parameter cannot be found that matches parameter name 'EmailAddresses"?
+# "A parameter cannot be found that matches parameter name 'EmailAddresses"
 
 If you get the error message " **A parameter cannot be found that matches parameter name 'EmailAddresses**" it means that it's taking a bit longer for Office 365 to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the set up process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.
   
-## Did you get "We're sorry, the user couldn't be edited. Review the user information and try again"?
+# "We're sorry, the user couldn't be edited. Review the user information and try again"
 
 If you get the error message " **We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name. Find the global admin in your business and ask them to make the change.
-  
-## More information on changing or adding email addresses
 
-### Tip: Keep the person's old email address
+
+## What to do with old email addresses
 
 A person's previous primary email address is retained as an additional email address. **We strongly recommend that you don't remove the old email address.**
   
 Some people will likely continue to send email to the person's old email address and deleting it may result in NDR failures. Office 365 will automatically route it to the new one. Also, do not reuse old SMTP email addresses and apply them to new accounts. This can also cause NDR failures or delivery to an unintended mailbox.
-  
-### How long until the new name appears across services?
-
-It might take up to 24 hours for this change to take effect across all services. After the change has taken effect, the person will have to sign in to Outlook, Skype for Business and SharePoint with their updated username, so be sure to tell them about this change.
-  
-### What if the person's offline address book won't sync with the Global Address List?
+   
+## What if the person's offline address book won't sync with the Global Address List?
 
 If they are using Exchange Online or if their Office 365 account is linked with your organization's on-premises Exchange environment, you may see this error when you try to change a username and email address: "This user is synchronized with your local Active Directory. Some details can be edited only through your local Active Directory."
   
