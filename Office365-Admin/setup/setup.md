@@ -22,6 +22,9 @@ ms.collection:
 - Adm_TOC
 - Adm_O365_Setup
 - TRN_SMB
+ms.custom:
+- TRN_M365B
+- OKR_SMB_Videos
 search.appverid:
 - MET150
 - MOE150
