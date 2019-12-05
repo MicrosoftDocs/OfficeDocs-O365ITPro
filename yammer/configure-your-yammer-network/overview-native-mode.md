@@ -20,7 +20,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 As of November 2019, all new Yammer Enterprise networks start in Native Mode.
 
-For existing Yammer networks (created before November 2019), are eligible to migrate to Native Mode and admins can choose which mode suits.
+For existing Yammer networks (created before November 2019), they are eligible to migrate to Native Mode and admins can choose which mode suits.
 
 In Native Mode, all Yammer users are in Azure Active Directory (AAD), all groups are Office 365 Groups, and all files are stored in SharePoint Online.
 
