@@ -206,11 +206,11 @@ It might take up to 24 hours for this change to take effect across all services.
 
 ## Resolve error messages
 
-# "A parameter cannot be found that matches parameter name 'EmailAddresses"
+### "A parameter cannot be found that matches parameter name 'EmailAddresses"
 
 If you get the error message " **A parameter cannot be found that matches parameter name 'EmailAddresses**" it means that it's taking a bit longer for Office 365 to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the set up process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.
   
-# "We're sorry, the user couldn't be edited. Review the user information and try again"
+### "We're sorry, the user couldn't be edited. Review the user information and try again"
 
 If you get the error message " **We're sorry, the user couldn't be edited. Review the user information and try again**." it means you aren't an Office 365 global admin and you don't have permissions to change the user name. Find the global admin in your business and ask them to make the change.
 
