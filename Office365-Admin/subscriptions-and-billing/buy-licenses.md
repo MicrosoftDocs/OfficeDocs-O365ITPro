@@ -97,9 +97,8 @@ This table describes the reasons why the **Add/Remove licenses** link might not 
 
 ### Buying licenses
 
-You need to be either a Global admin or a Billing admin to buy licenses. For more information, see [About admin roles](../add-users/about-admin-roles.md).
-
-To buy a license and add a new user to your subscription at the same time, see [Add users individually or in bulk to Office 365 - Admin Help](../add-users/add-users.md).
+- You need to be either a Global admin or a Billing admin to buy licenses. For more information, see [About admin roles](../add-users/about-admin-roles.md).
+- To buy a license and add a new user to your subscription at the same time, see [Add users individually or in bulk to Office 365 - Admin Help](../add-users/add-users.md).
 
 ### License availability
 
@@ -112,11 +111,9 @@ If you prepaid for your subscription with a product key, you can add more licens
 
 ### Billing statements
 
-If you pay by credit card or bank account, the charge for buying new licenses will appear on your payment method in two days.
-
-If you pay by invoice, the charge for buying new licenses will appear on your next billing statement.
-
-If you buy new licenses in the middle of your billing period, your first billing statement might have a partial charge. The remaining amount will be included on your next billing statement.
+- If you pay by credit card or bank account, the charge for buying new licenses will appear on your payment method in two days.
+- If you pay by invoice, the charge for buying new licenses will appear on your next billing statement.
+- If you buy new licenses in the middle of your billing period, your first billing statement might have a partial charge. The remaining amount will be included on your next billing statement.
 
 ## Related articles
 
