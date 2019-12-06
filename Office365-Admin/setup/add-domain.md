@@ -42,13 +42,13 @@ ms.custom:
 - TopSMBIssues
 - SaRA
 - MSStore_Link
+- okr_smb
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 6383f56d-3d09-4dcb-9b41-b5f5a5efd611
 description: "Add your domain to Office 365 in the admin center by adding a DNS record at your DNS host. The setup wizard walks you through the process."
-ms.custom: okr_smb
 ---
 
 # Add a domain to Office 365
@@ -125,3 +125,15 @@ ms.custom: okr_smb
 > Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
 
 ::: moniker-end
+
+## Related articles
+
+[Domains FAQ](domains-faq.md)
+
+[What is a domain?](../get-help-with-domains/what-is-a-domain.md)
+
+[Buy a domain name in Office 365](../get-help-with-domains/buy-a-domain-name.md)
+
+[Set up your domain (host-specific instructions)](../get-help-with-domains/set-up-your-domain-host-specific-instructions.md)
+
+[Get help with Office 365 domains](get-help-with-domains.md)

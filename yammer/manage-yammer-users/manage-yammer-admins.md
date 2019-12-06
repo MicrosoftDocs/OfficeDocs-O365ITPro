@@ -1,7 +1,7 @@
 ---
 title: "Manage Yammer admins"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 2/22/2019
 audience: Admin

@@ -1,7 +1,7 @@
 ---
 title: "Find external messaging participants in a Yammer network"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 3/15/2019
 audience: Admin
@@ -38,7 +38,7 @@ Column **D** (external_participants) lists the users in other networks that part
     
 If you want to remove an external participant, you can use the information from the list to go to the conversation that they're included in and remove them from the conversation. See [Remove an external participant from a conversation](add-external-participants.md#RemoveExternal).
   
-## See also
+## Related articles
 
 [Add external participants to your Yammer conversations](add-external-participants.md)
   

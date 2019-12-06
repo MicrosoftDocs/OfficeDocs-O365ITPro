@@ -35,6 +35,8 @@ This article explains how to disable the ability to create groups **in all Offic
 - Yammer
     
 - Microsoft Teams
+
+- Microsoft Stream
     
 - StaffHub
     
@@ -50,9 +52,9 @@ The steps in this article won't prevent members of certain roles from creating G
         
   - Exchange Administrator: Exchange Admin center, Azure AD
     
-  - Partner Tier1 Support: Microsoft 365 Admin center, Exchange Admin center, Azure AD
+  - Partner Tier 1 Support: Microsoft 365 Admin center, Exchange Admin center, Azure AD
     
-  - Partner Tier2 Support: Microsoft 365 Admin center, Exchange Admin center, Azure AD
+  - Partner Tier 2 Support: Microsoft 365 Admin center, Exchange Admin center, Azure AD
     
   - Directory Writers: Azure AD
 
@@ -60,9 +62,9 @@ The steps in this article won't prevent members of certain roles from creating G
   
   - Teams Service Administrator: Teams Admin center, Azure AD
   
-  - User Management Administrator: Microsoft 365 Admin center, Azure AD
-    
-If you're a member of one of these roles, you can create Office 365 Groups for restricted users, and then assign the user as the owner of the group.
+  - User Management Administrator: Microsoft 365 Admin center, Yammer, Azure AD
+     
+If you're a member of one of these roles, you can create Office 365 Groups for restricted users, and then assign the user as the owner of the group. Users that have this role are able to create connected groups in Yammer, regardless of any PowerShell settings that might prevent creation.
 
 ## Licensing requirements
 
@@ -177,7 +179,9 @@ if($GroupName)
 {
 	$settingsCopy["GroupCreationAllowedGroupId"] = (Get-AzureADGroup -SearchString $GroupName).objectid
 }
-
+ else {
+$settingsCopy["GroupCreationAllowedGroupId"] = $GroupName
+}
 Set-AzureADDirectorySetting -Id $settingsObjectID -DirectorySetting $settingsCopy
 
 (Get-AzureADDirectorySetting -Id $settingsObjectID).Values
@@ -189,7 +193,7 @@ The last line of the script will display the updated settings:
 
 If in the future you want to change which security group is used, you can rerun the script with the name of the new security group.
 
-If you want to turn off the group creation restriction and again allow all users to create groups, set `$GroupName` to "" and `$AllowGroupCreation` to "True" and rerun the script.
+If you want to turn off the group creation restriction and again allow all users to create groups, set $GroupName to "" and $AllowGroupCreation to "True" and rerun the script.
     
 ## Step 4: Verify that it works
 

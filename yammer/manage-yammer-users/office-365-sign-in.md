@@ -1,7 +1,7 @@
 ---
 title: "Office 365 sign-in for Yammer"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 9/4/2018
 audience: Admin
@@ -65,12 +65,14 @@ By default, when users select **Conversations** in SharePoint, they see their th
 1. In Office 365, go to **Admin** \> **SharePoint**.
     
 2. Click **Settings**.
+
+3. Choose **Classic settings page**.
     
-3. Under **Enterprise Social Collaboration**, choose **Use Yammer.com service**.
+4. Under **Enterprise Social Collaboration**, choose **Use Yammer.com service**.
     
     ![SharePoint admin center, Enterprise Social Collaboration options](../media/c89f672f-be20-4b71-9719-7acfa03162b8.png)
   
-4. Select **Save**.
+5. Select **Save**.
     
     > [!NOTE]
     > This change can take up to 30 minutes to complete. 
@@ -97,7 +99,7 @@ A: The Office 365 sign-in for Yammer will respect any Office 365 federation sett
 
 A: Yes, this is required as of October 16, 2018. For more information, see [Network migration: Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md).
     
-## See also
+## Related articles
 
 [SharePoint enterprise social experience: Yammer and Outlook groups](../integrate-yammer-with-other-apps/yammer-and-newsfeed.md)
     

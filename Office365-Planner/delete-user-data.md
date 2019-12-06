@@ -3,9 +3,10 @@ title: "Delete user data in Microsoft Planner"
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 8/14/2019
+ms.date: 08/14/2019
 audience: Admin
 layout: LandingPage
+ms.topic: Overview
 ms.service: o365-administration
 localization_priority: Priority
 description: "In order to ensure that a user is deleted from Microsoft Planner, you delete that user in the Microsoft 365 admin center. "
@@ -48,6 +49,6 @@ To edit plans, do one of the following:
 
 Once you have permissions or are signed in as the user, you can change or remove any plan, task, or other content that should no longer reference the user.
 
-## See Also
+## Related articles
 
 [Export user data from Microsoft Planner](export-user-data.md)

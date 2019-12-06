@@ -1,7 +1,7 @@
 ---
 title: "Manage Yammer data compliance"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 5/29/2018
 audience: Admin
@@ -75,6 +75,6 @@ For Yammer files saved in SharePoint, Office 365 data retention settings apply. 
 
 If as a verified admin, you have a legal reason to view private messages, you can select to see them. For more information, see [Monitor private content in Yammer](monitor-private-content.md)
   
-## See also
+## Related articles
 
 [Overview of security and compliance in Yammer](security-and-compliance.md)

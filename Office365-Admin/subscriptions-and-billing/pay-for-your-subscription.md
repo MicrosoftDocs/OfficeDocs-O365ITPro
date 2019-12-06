@@ -8,7 +8,7 @@ ms.topic: article
 f1_keywords:
 - 'fwlink 808700 for SEPA UI glink 906 for older uI'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection:
 - M365-subscription-management
 - Adm_O365
@@ -44,9 +44,8 @@ If you pay by credit card, and your credit card is declined, you'll receive an e
 
 ::: moniker range="o365-worldwide"
 
-#### Use the new admin center to pay your outstanding balance
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
@@ -61,12 +60,12 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, select **Submit payment**.
 
-#### Use the old admin center to pay your outstanding balance
 ::: moniker-end
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
 
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
 2. Select the subscription that you want to change. In the **My bill** section, select **Pay now**.
 
@@ -79,9 +78,14 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, select **Submit**. You'll see a confirmation message that says "Your payment method has been updated and all outstanding charges are settled. Thank you."
 
+::: moniker-end
+
 ## Pay by invoice (check or EFT)
 
 If your subscription costs over a certain amount of money (this amount varies by service location), you'll have the option to pay by invoice by using a check or EFT. A credit check may be required for larger invoice payments. If a credit check is required, you'll be notified when you purchase your subscription. And, if you agree to be contacted, you'll get an email that includes more information about applying for credit approval. Credit checks are usually completed within two business days.
+
+> [!NOTE]
+> Customers who live in Brazil can pay for a subscription with a Boleto Bancario. If you have selected this option, the billet for payment is sent to the email provided during subscription purchase within 10 working days after the order date. The due date is 30 days after the order date. If you don't receive your Boleto by email, check your spam folder or contact support. <br><br>If you prefer, you can pay by electronic transfer between accounts. The Agency and account number are at the bottom of your invoice. You must enter your invoice number in the Transfer identification field.
 
 If you pay by invoice for your subscription, you'll get an email that says your billing statement is ready to view. This email does not contain a copy of your billing statement. However, you can also choose to [Receive a copy of your billing statement in email](#receive-a-copy-of-your-billing-statement-in-email). Your billing statement includes details about your options for making a payment. If you enter a purchase order (PO) number when you buy a subscription, the number appears on your billing statement. For information about accessing billing statements, see [View your bill or invoice](view-your-bill-or-invoice.md).
 
@@ -280,7 +284,7 @@ You can choose to receive a copy of your billing statement as an email attachmen
 
 If your original reasons for choosing invoice, credit card, or bank account have changed, for example, if you adjust your subscription so that the payment amount is lower so that you no longer qualify for invoice payments, you can change your payment method. For more information, see [Change your payment method](change-payment-method.md).
 
-## Related topics
+## Related articles
 
 [Add, update, or remove a credit card or bank account](add-update-or-remove-credit-card-or-bank-account.md)
 

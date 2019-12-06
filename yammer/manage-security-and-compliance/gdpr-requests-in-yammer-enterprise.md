@@ -1,7 +1,7 @@
 ---
 title: "Manage GDPR data subject requests in Yammer Enterprise"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 12/16/2018
 audience: Admin
@@ -239,7 +239,7 @@ When a user's account gets deactivated by using the **Erase this user** option, 
     
     After 14 days, the user cannot be reactivated.
     
-## See also
+## Related articles
 
 [Manage Yammer data compliance](manage-data-compliance.md)
   

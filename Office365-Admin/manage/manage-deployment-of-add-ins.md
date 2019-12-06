@@ -130,11 +130,21 @@ Updates for add-ins happen as follows:
 - **Line-of-business add-in:** In this case, where an admin explicitly uploaded a manifest, the add-in requires that the admin upload a new manifest file to support metadata changes. The next time the relevant Office applications start, the add-in will update. The web application can change at any time. 
     
 - **Office Store add-in:** When an admin selected an add-in from the Office Store, if an add-in updates in the Office Store, the add-in will update later in Centralized Deployment. The next time the relevant Office applications start, the add-in will update. The web application can change at any time. 
+
+### Edit Add-in access
+
+Post deployment, admins can also modify the user access to add-ins.
+
+1. In the admin center, go to the **Settings** > **Services & add-ins** page.
+
+2. Select the deployed add-in.
+
+3. Click on **Edit** under **Who has Access**.
     
 ### Prevent add-in downloads by turning off the Office Store across all clients (Except Outlook)
 
 > [!NOTE]
-> Outlook add-in installation is managed by a [different process](https://technet.microsoft.com/en-us/library/jj943754%28v=exchg.150%29.aspx).
+> Outlook add-in installation is managed by a [different process](https://technet.microsoft.com/library/jj943754%28v=exchg.150%29.aspx).
 
 As an organization you may wish to prevent the download of new Office add-ins from the Office Store. This can be used in conjunction with Centralized Deployment to ensure that only organization-approved add-ins are deployed to users within your organization.
   
@@ -176,7 +186,7 @@ Support for turning off the Office Store is available in the following versions:
     
 This does not prevent an administrator from using Centralized Deployment to assign an add-in from the Office Store.
   
-To prevent a user from signing in with a Microsoft account, you can restrict logon to use only the organizational account. For more information, look [here](https://technet.microsoft.com/EN-US/library/jj683102%28v=office.16%29.aspx).
+To prevent a user from signing in with a Microsoft account, you can restrict logon to use only the organizational account. For more information, look [here](https://technet.microsoft.com/library/jj683102%28v=office.16%29.aspx).
  
   
 ## Minors and acquiring add-ins from the Store
@@ -224,7 +234,7 @@ Word, Excel, and PowerPoint 2013 for Windows will support the same minor checks 
     
   - [Description of the security update for Office 2013: April 10, 2018](https://support.microsoft.com/help/4018330/description-of-the-security-update-for-office-2013-april-10-2018)
     
-  - [April 3, 2018, update for Office 2013 (KB4018333)](https://support.microsoft.com/en-us/help/4018333/april-3-2018-update-for-office-2013-kb4018333)
+  - [April 3, 2018, update for Office 2013 (KB4018333)](https://support.microsoft.com/help/4018333/april-3-2018-update-for-office-2013-kb4018333)
     
 - **Don't enable ADAL**. If you're unable to enable ADAL in Office 2013, then our recommendation is to use Group Policy to turn off the Store for the office clients. Information on how to turn off the app for Office settings is located [here](https://technet.microsoft.com/library/cc178992.aspx).
     
@@ -251,6 +261,16 @@ If the deployed add-in doesn't support add-in commands or if you want to view al
 1. On the **Home** ribbon, select **Get Add-ins**.<br/>![Store button in Outlook](../media/getaddinsicon.png)
   
 2. Select **Admin-managed** in the left nav.
+
+## Delete the add-in
+
+You can also delete an add-in that was deployed.
+
+1. In the admin center, go to the **Settings** > **Services & add-ins** page.
+
+2. Select the deployed add-in.
+
+3. Click on **Delete Add-In**.
   
 ## Learn more
 
@@ -259,4 +279,3 @@ Learn more about creating and building [Office Add-ins](https://go.microsoft.com
 [Use Centralized Deployment PowerShell cmdlets to manage add-ins](https://support.office.com/article/94f4e86d-b8e5-42dd-b558-e6092f830ec9).
   
 [Troubleshoot: User not seeing add-ins](https://docs.microsoft.com/office365/troubleshoot/troubleshooting/user-not-seeing-add-ins)
-

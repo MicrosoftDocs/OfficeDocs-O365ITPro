@@ -22,7 +22,7 @@ description: "Learn about Office 365 Groups."
 
 # Overview of Office 365 Groups for administrators
 
-With Office 365 Groups, you can give a group of people access to a collection of collaboration resources for those people to share. These resources include:
+Office 365 Groups is the foundational membership service that drives all teamwork across Microsoft 365. With Office 365 Groups, you can give a group of people access to a collection of collaboration resources for those people to share. These resources include:
 
 - A shared Outlook inbox
 - A shared calendar
@@ -91,7 +91,7 @@ Office 365 Groups works with Azure Active Directory (AAD). The Groups features y
 > For all the Groups features, if you have an Azure AD Premium subscription, users can join the group whether or not they have an AAD P1 license assigned to them. Licensing isn't enforced.
 > Periodically we will generate usage reports that tell you which users are missing a license, and need one assigned to them to be compliant with the licensing requirements. For example, let's say a user doesn't have a license and they are added to a group where the naming policy is enforced. The report will flag for you that they need a license.
 
-## Related topics
+## Related articles
 
 [Learn about Office 365 Groups](https://support.office.com/en-us/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
 

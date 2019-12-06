@@ -1,7 +1,7 @@
 ---
 title: "Overview of security and compliance in Yammer"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 7/22/19
 audience: Admin

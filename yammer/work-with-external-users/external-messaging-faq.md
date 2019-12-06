@@ -1,7 +1,7 @@
 ---
 title: "External messaging FAQ - Yammer"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 3/15/19
 audience: Admin
@@ -137,7 +137,7 @@ A: [Verified admins](../manage-yammer-users/manage-yammer-admins.md) can remove 
 Yes. Keyword monitoring applies to any posts in your network, including those from external participants.
 
   
-## See also
+## Related articles
 
 [Add external participants to your Yammer conversations](add-external-participants.md)
   

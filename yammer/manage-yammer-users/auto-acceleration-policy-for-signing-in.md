@@ -1,7 +1,7 @@
 ---
 title: "Improve Office 365 sign-in for Yammer with auto-acceleration policy"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 4/15/2019
 audience: Admin

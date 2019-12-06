@@ -1,7 +1,7 @@
 ---
 title: "Create a dynamic group in Yammer"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 9/4/2018
 audience: Admin

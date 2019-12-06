@@ -36,7 +36,7 @@ To add contacts:
 
 2. On the **Contacts** page, select **Add a contact**.
   
-3. On the **New Contact** page, fill in details and select **Add** to create a contact. 
+3. On the **New Contact** page, fill in details and select **Add** to create a contact.
   
 ![Fill in contact information in the New Contact pane](../media/9eb5a649-0734-467f-ba66-255225eedb4b.jpg)
   

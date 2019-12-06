@@ -43,7 +43,7 @@ We would love for you to participate in the new Microsoft 365 admin center so yo
     
 ### Switch to the new admin center and back again
 
-- When the new Microsoft 365 admin center is available to you, you can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. If you sign out of the admin center, we'll remember your selection and you'll sign back in to the new admin center. <br/><br/>![The new admin center toggle from the old admin center](media/admin-center-toggle-off.png)
+- When the new Microsoft 365 admin center is available to you, you can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. If you sign out of the admin center, we'll remember your selection and you'll sign back in to the new admin center. <br/><br/>![The new admin center toggle from the old admin center](media/admin-center-toggle-off.png) 
   
 - Switch back to the old admin center from the Home page by turning the toggle to **Off**. <br/><br/>![The new admin center toggle turned on](media/admin-center-toggle-on.png)
 

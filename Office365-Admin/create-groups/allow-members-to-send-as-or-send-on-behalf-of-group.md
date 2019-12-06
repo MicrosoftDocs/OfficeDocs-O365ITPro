@@ -69,7 +69,7 @@ This section explains how to allow users to send email on behalf of a Group in t
     
     ![Type to search or pick a user from the list](../media/522919cf-664c-4a25-8076-c51c8c9fbe43.png)
 
-## Related topics
+## Related articles
 
 [Learn more about Office 365 Groups](https://support.office.com/article/3f780e8e-61aa-4287-830d-ff6209cbc192.aspx)
 

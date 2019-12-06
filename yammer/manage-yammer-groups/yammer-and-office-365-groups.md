@@ -1,7 +1,7 @@
 ---
 title: "Yammer and Office 365 Groups"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 7/12/19
 audience: Admin
@@ -201,7 +201,7 @@ Before opening the support ticket:
 
 To find this information, you can do a data export and look in the groups.csv file. You'll need to cross-reference the owner list with the list of people who have Office 365 group creation privileges.
   
-## See also
+## Related articles
 
 [Use Office 365 resources from my connected Yammer group](https://support.office.com/article/7a647cb4-6005-4350-a258-68f00a5f7b29)
 

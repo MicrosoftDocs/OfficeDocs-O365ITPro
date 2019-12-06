@@ -15,6 +15,7 @@ ms.collection:
 ms.custom:
 - TopSMBIssues
 - MSStore_Link
+- okr_SMB
 search.appverid:
 - BCS160
 - MET150
@@ -23,7 +24,6 @@ search.appverid:
 - GEA150
 ms.assetid: 8652f539-3123-4a8f-b9bd-6aa2f0e0372d
 description: "Learn how to change the payment method or payment frequency for your Office 365 for business subscription."
-ms.custom: okr_SMB
 ---
 
 # Change your payment method for Office 365 for business
@@ -191,19 +191,12 @@ When you return to the **Subscriptions** page, you will see the old subscription
 
 You can use the following steps at any time to verify the payment method that's configured for a subscription.
 
-### Use the new admin center to verify which payment method is configured
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
 2. Find the subscription that you want to verify. The payment method that's configured for the subscription appears in the **Billing** section.
-
-### Use the old admin center to verify which payment method is configured
-  
-1. In the admin center, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
-
-2. Find the subscription that you want to verify. The payment method that's configured for the subscription appears under **Payment method**.
 
 ::: moniker-end
 

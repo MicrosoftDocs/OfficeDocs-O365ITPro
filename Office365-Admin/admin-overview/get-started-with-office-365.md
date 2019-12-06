@@ -74,8 +74,7 @@ Here are some resources to help you get started.
     
 - [Contact support - Admin Help](../contact-support-for-business-products.md) : Call us, open an online request, or let the community help. 
     
-## See also
-
+## Related articles
 
 [Set up Office 365 for business - Admin Help](../setup/setup.md)
 

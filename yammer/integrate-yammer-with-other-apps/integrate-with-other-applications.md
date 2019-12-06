@@ -1,7 +1,7 @@
 ---
 title: "Integrate Yammer with other applications"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 4/26/2019
 audience: Admin
@@ -71,7 +71,7 @@ You can create your own applications using the data in Yammer, including creatin
 
 Check out this comprehensive list of all Yammer apps in the [App Directory](https://go.microsoft.com/fwlink/?LinkId=524143).
   
-## See also
+## Related articles
 
 [How do I find my Yammer group ID?](https://support.office.com/article/b0e49b2c-ca30-4025-b3bc-7bd764c3e2ec)
 

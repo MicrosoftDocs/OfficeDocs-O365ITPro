@@ -1,7 +1,7 @@
 ---
 title: "Upgrade your network to stand-alone Yammer Enterprise subscription (Office 365 Government only)"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 3/27/2018
 audience: Admin
@@ -117,7 +117,7 @@ Yammer provides a number of tools, templates, and support resources for planning
     
 - The [Yammer site status](https://status.yammer.com/) page contains the latest details on the health of your Yammer site. 
     
-## See also
+## Related articles
 
 [Pick your enterprise social network: Yammer or Newsfeed?](../integrate-yammer-with-other-apps/yammer-and-newsfeed.md)
   

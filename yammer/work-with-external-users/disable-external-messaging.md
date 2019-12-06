@@ -1,7 +1,7 @@
 ---
 title: "Disable external messaging in a Yammer network"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 6/12/19
 audience: Admin
@@ -52,7 +52,7 @@ By default for Yammer Enterprise networks in the US Geo, users can add external 
     - No new external groups can be created. 
 
  
-## See also
+## Related articles
 
 [Add external participants to your Yammer conversations](add-external-participants.md)
   

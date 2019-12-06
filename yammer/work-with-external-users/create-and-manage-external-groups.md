@@ -1,7 +1,7 @@
 ---
 title: "Create and manage external groups in Yammer"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 3/15/2019
 audience: Admin
@@ -76,6 +76,6 @@ A: No. The creation of external groups is limited to canonical networks and is n
 
 A: Yes. In external groups, you can't edit or move messages, or add a topic or a bookmark. 
   
-## See also
+## Related articles
 
 [External messaging FAQ (Yammer)](external-messaging-faq.md)

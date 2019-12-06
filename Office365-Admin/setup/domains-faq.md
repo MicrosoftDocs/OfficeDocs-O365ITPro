@@ -93,7 +93,7 @@ You have to set up the DNS records for Office 365 services yourself (unless you 
 
 A domain is a unique name that appears after the **@** sign in email addresses, and after **www.** in web addresses. It typically takes the form of your organization's name and a standard Internet suffix, such as  *yourbusiness.com*  or  *stateuniversity.edu.* 
   
-Using a custom domain like "**rob@contoso.com**" with Office 365 can help build credibility and recognition for your brand. 
+Using a custom domain like "**rob\@contoso.com**" with Office 365 can help build credibility and recognition for your brand. 
   
 You can [buy a domain in Office 365 and we'll set it up automatically](../get-help-with-domains/buy-a-domain-name.md), or you can buy or bring one you already own from a domain registrar.
   
@@ -216,7 +216,7 @@ Providers that support all required DNS records:
     
  **If SPF/TXT records are not supported**, other people may be able to use your domain to send spam or other malicious email. SPF records work by identifying the servers that are authorized to send email from your domain. 
   
-## How do I change the default domain in Office 365?
+## How do I set or change the default domain in Office 365?
 
 You must have at least one custom domain that you've added to Office 365 before you can choose a default domain.
   
@@ -281,7 +281,7 @@ When you add multiple domains to Office 365, you can host any of the services (l
 
 Office 365 creates a domain for you, like *contoso.onmicrosoft.com*, when you sign up with the service. The user ID that you create when you sign up includes the domain, like *alan@contoso.onmicrosoft.com*. 
   
- **If you want to have your email look like *alan@contoso.com*:** [buy the domain](../get-help-with-domains/buy-a-domain-name.md) or just follow the steps in [Add your users and domain to Office 365](add-domain.md) if you own it already. 
+ **If you want to have your email look like *alan\@contoso.com*:** [buy the domain](../get-help-with-domains/buy-a-domain-name.md) or just follow the steps in [Add your users and domain to Office 365](add-domain.md) if you own it already. 
   
 - **You can't rename the onmicrosoft domain after sign-up.** For example, if the initial domain you chose was fourthcoffee.onmicrosoft.com, you can't change it to be fabrikam.onmicrosoft.com. To use a different onmicrosoft.com domain, you'd have to start a new subscription with Office 365. 
     

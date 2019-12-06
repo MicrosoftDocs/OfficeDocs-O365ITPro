@@ -1,7 +1,7 @@
 ---
 title: "Customize the look of your Yammer network"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 3/27/2019
 audience: Admin
