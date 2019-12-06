@@ -258,4 +258,6 @@ Assisted support options are for admins of Office 365 Germany subscribed organiz
 
 You can also [search the Office 365 for business community forums](https://go.microsoft.com/fwlink/p/?LinkId=518605) to find known issues and trending topics, or to post a new question. The community forums are monitored by trained Microsoft support agents who can help resolve your issue.
 
+For Teams on Linux support you can use the (Linux forum support channel on Microsoft Q&A)[https://docs.microsoft.com/answers/topics/teams.html]. Be sure to use the `teams-linux` tag when posting questions. 
+
 ::: moniker-end
