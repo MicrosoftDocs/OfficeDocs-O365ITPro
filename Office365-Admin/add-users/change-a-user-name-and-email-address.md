@@ -198,7 +198,7 @@ It might take up to 24 hours for this change to take effect across all services.
 
 3. In the **Display name** box, type a new name for the person, and then select **Save**.
 
-    If you get the error message "**We're sorry, the user couldn't be edited. Review the user information and try again**, see [Resolve error messages](#resolve-error-messages).e.
+    If you get the error message "**We're sorry, the user couldn't be edited. Review the user information and try again**, see [Resolve error messages](#resolve-error-messages).
 
 It might take up to 24 hours for this change to take effect across all services. After the change has taken effect, the person will have to sign in to Outlook, Skype for Business and SharePoint with their updated username, so be sure to tell them about this change.
 
