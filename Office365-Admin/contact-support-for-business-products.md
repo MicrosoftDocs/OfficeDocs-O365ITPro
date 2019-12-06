@@ -50,7 +50,7 @@ Save time by starting your service request online. We'll help you find a solutio
 
 5. Enter a description if you like, confirm your contact number and email address, select your preferred contact method, and then select **Contact me**. The expected wait time is indicated in the **Need help?** pane.
 
-For Teams on Linux support you can use the (Linux forum support channel on Microsoft Q&A)[https://docs.microsoft.com/answers/topics/teams.html]. Be sure to use the `teams-linux` tag when posting questions. 
+For Teams for Linux support you can use the (Linux forum support channel on Microsoft Q&A)[https://docs.microsoft.com/answers/topics/teams.html]. Be sure to use the `teams-linux` tag when posting questions. 
 
 ## [Phone support ](#tab/phone)
 
