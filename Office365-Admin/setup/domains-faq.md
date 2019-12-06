@@ -216,7 +216,7 @@ Providers that support all required DNS records:
     
  **If SPF/TXT records are not supported**, other people may be able to use your domain to send spam or other malicious email. SPF records work by identifying the servers that are authorized to send email from your domain. 
   
-## How do I change the default domain in Office 365?
+## How do I set or change the default domain in Office 365?
 
 You must have at least one custom domain that you've added to Office 365 before you can choose a default domain.
   

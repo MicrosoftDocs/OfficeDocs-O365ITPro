@@ -24,13 +24,24 @@ description: "Learn to delete a user account. Decide what to do with the user's 
 ---
 
 # Delete a user from your organization
-
-
   
 ||
 |:-----|
 |**Looking for how to delete your *own* Office 365 user account that you use at work or school? Contact the technical support at your work or university to do these steps for you.**|
    
+## What you need to know about deleting users
+
+- Only people who have [Office 365 global admin](about-admin-roles.md) or User management permissions for the business or school can delete user accounts. 
+    
+- You have 30 days to [restore](restore-user.md) the account before the user's data is permanently deleted. 
+    
+- If you want to keep the user's OneDrive data, move it to a different location. You can even do this up to 30 days after deleting the account. See [Get access to and back up a former user's data](get-access-to-and-back-up-a-former-user-s-data.md). You don't need to move their SharePoint files; you'll still have access to them.
+    
+- If you want to keep the user's email, **BEFORE** you delete the account, move the email to a different location. If you've already deleted the account: if it's been less than 30 days you can restore it, then move the email data, then delete the account. See [Get access to and back up a former user's data](get-access-to-and-back-up-a-former-user-s-data.md).
+    
+- If you have an Enterprise subscription like Office 365 Enterprise E3, you can preserve the mailbox data of a deleted Office 365 user account by turning it into an *inactive mailbox*. To learn more, see [Manage inactive mailboxes in Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/inactive-mailboxes-in-office-365).
+
+
 ## Global admin: Delete a user, stop paying for their license, and choose what to do with their email and OneDrive content
 
 ::: moniker range="o365-worldwide"
@@ -41,6 +52,7 @@ description: "Learn to delete a user account. Decide what to do with the user's 
 ::: moniker-end
 
 If you are a global administrator, when you delete a user you can also give another user access to their email, and choose what to do with their OneDrive content. 
+
   
 ### Things to consider...
 
@@ -162,21 +174,8 @@ Reducing the number of licenses is a separate step that can only be performed by
 
 See the [Remove-MsolUser](https://go.microsoft.com/fwlink/?linkid=842230) PowerShell cmdlet. 
   
-## What you need to know about deleting users
-
-
-- Only people who have [Office 365 global admin](about-admin-roles.md) or User management permissions for the business or school can delete user accounts. 
-    
-- You have 30 days to [restore](restore-user.md) the account before the user's data is permanently deleted. 
-    
-- If you want to keep the user's OneDrive data, move it to a different location. You can even do this up to 30 days after deleting the account. See [Get access to and back up a former user's data](get-access-to-and-back-up-a-former-user-s-data.md). You don't need to move their SharePoint files; you'll still have access to them.
-    
-- If you want to keep the user's email, **BEFORE** you delete the account, move the email to a different location. If you've already deleted the account: if it's been less than 30 days you can restore it, then move the email data, then delete the account. See [Get access to and back up a former user's data](get-access-to-and-back-up-a-former-user-s-data.md).
-    
-- If you have an Enterprise subscription like Office 365 Enterprise E3, you can preserve the mailbox data of a deleted Office 365 user account by turning it into an *inactive mailbox*. To learn more, see [Manage inactive mailboxes in Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/inactive-mailboxes-in-office-365).
     
 ## Fix issues with deleting a user
-
 
 Here are the most common issues people encounter when deleting a user:
   

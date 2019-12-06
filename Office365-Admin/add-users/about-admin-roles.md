@@ -41,17 +41,6 @@ Because admins have access to sensitive data and files, we recommend that you fo
 | Assign the *least permissive* role    | Assigning the *least permissive* role means giving admins only the access they need to get the job done. For example, if you want someone to reset employee passwords you shouldn't assign the unlimited global admin role, you should assign a limited admin role, like Password admin or Helpdesk admin.  This will help keep your data secure.                 |
 | Require multi-factor authentication for admins                  |    It's actually a good idea to require MFA for all of your users, but admins should definitely be required to use MFA to sign in. MFA makes users enter a second method of identification to verify they are who they say they are. Admins can have access to a lot of customer and employee data and if you require MFA, even if the admin's password gets compromised, the password is useless without the second form of identification.  <br><br>When you turn on MFA, the next time the user signs in, they'll need to provide an alternate email address and phone number for account recovery.  <br> [Set up multi-factor authentication](../security-and-compliance/set-up-multi-factor-authentication.md)          |
 
-## Need more details about what these roles can and cannot do?
-
-You can view the brief descriptions later in this article: [Roles available in the Microsoft 365 admin center](#roles-available-in-the-microsoft-365-admin-center).
-
-If you’re looking for detailed information, including the cmdlets associated with a role, see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
-
-::: moniker range="o365-worldwide"
-
-In the admin center, you can go to **Roles** > **Roles**, and then select any role to open its detail pane. Select the **Permissions** tab to view the detailed list of what admins assigned that role have permission to do.
-
-::: moniker-end
   
 ## Some roles are missing from Active users > Manage admin roles. Where did they go?
 By default, we first show roles that most organizations use. If you can't find a role, go to the bottom of the list and select **See more roles**.
@@ -71,7 +60,13 @@ A user who is assigned an admin role will have the same level of access to cloud
 
 The Microsoft 365 admin center lets you manage over 30 Azure AD roles. However, these roles are a subset of the roles available in the Azure portal.
 
-You'll probably only need to assign the following roles in your organization.
+::: moniker range="o365-worldwide"
+
+In the admin center, you can go to **Roles**, and then select any role to open its detail pane. Select the **Permissions** tab to view the detailed list of what admins assigned that role have permission to do.
+
+::: moniker-end
+
+You'll probably only need to assign the following roles in your organization. (For detailed information, including the cmdlets associated with a role, see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).)
 
 |Admin role     |Who should be assigned this role?  |
 |---------|---------|
