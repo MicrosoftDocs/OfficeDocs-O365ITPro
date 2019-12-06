@@ -25,6 +25,10 @@ description: "Create a shared mailbox to enable multiple users in your business 
 
 # Create a shared mailbox
 
+> [!NOTE]
+> If your organization uses a hybrid Exchange environment, you should use the on-premises Exchange admin center (EAC) to create and manage shared mailboxes. See [Create shared mailboxes in the Exchange admin center](https://docs.microsoft.com/Exchange/collaboration/shared-mailboxes/create-shared-mailboxes?view=exchserver-2019.)
+
+
 It's easy to create shared mailboxes so a group of people can monitor and send email from a common email addresses, like info@contoso.com. When a person in the group replies to a message sent to the shared mailbox, the email appears to be from the shared mailbox, not from the individual user.
 
 Shared mailboxes include a shared calendar! A lot of small businesses like to use the shared calendar as a place for everyone to enter their appointments. For example, if you have 3 people who do customer visits, all can use the shared calendar to enter the appointments. This is an easy way to keep everyone informed where people are.
@@ -297,69 +301,6 @@ This means if you try to use a security group to manage who has access to the sh
 
 Automapping is on by default. To learn how to turn it off, see [Remove automapping for a shared mailbox](https://docs.microsoft.com/office365/troubleshoot/administration/remove-automapping-for-shared-mailbox)
   
-## How to create a shared mailbox in the Exchange admin center
-<a name="bkmk_EAC"> </a>
-
-Some customers do all their mailbox management in the Exchange admin center. Here are instructions for how to create shared mailboxes using that interface.
-  
-To see what permissions you need to perform these steps, see the "User mailboxes" entry in [Recipients permissions](https://technet.microsoft.com/en-us/library/dd638132%28v=exchg.160%29.aspx).
-
-1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a> > **Recipients** \> **Shared** \> **Add**.
-    
-2. Fill-in the required fields:
-
-   - **Display name**
-
-   - **Email address**
-
-3. To grant Full Access or Send As permissions, select **Add**, and then select the users you want to grant permissions to. You can use the CTRL key to select multiple users. 
-
-   > [!NOTE]
-   > The Full Access permission allows a user to open the mailbox as well as create and modify items in it. The Send As permission allows anyone other than the mailbox owner to send email from this shared mailbox. Both permissions are required for successful shared mailbox operation.
-
-4. Select **Save** to save your changes and create the shared mailbox.
-
-### Use the EAC to edit shared mailbox delegation
-
-1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2059104" target="_blank">Exchange admin center</a> > **Recipients** \> **Shared** \> **Edit**. 
-    
-2. Select **Mailbox delegation**.
-    
-3. To grant or remove Full Access and Send As permissions, select **Add** or **Remove** and then select the users you want to grant permissions to. 
-    
-    > [!NOTE]
-    > The Full Access permission allows a user to open the mailbox as well as create and modify items in it. The Send As permission allows anyone other than the mailbox owner to send email from this shared mailbox. Both permissions are required for successful shared mailbox operation. 
-  
-4. Select **Save** to save your changes. 
-    
-### Which permissions should you use?
-
-
-- **Full Access** The Full Access permission lets a user sign in to the shared mailbox and act as the owner of that mailbox. While signed in, the user can create calendar items; read, view, delete, and change email messages; create tasks and calendar contacts. However, a user with Full Access permission can't send email from the shared mailbox unless they also have Send As or Send on Behalf permission.
-
-- **Send As** The Send As permission lets a user impersonate the shared mailbox when sending mail. For example, if Molly signs into the Marketing Department shared mailbox and sends an email, it will look like the Marketing Department sent the email.
-
-  However, she won't be able to see any of the email that is sent to or from the shared address.
-
-- **Send on Behalf** The Send on Behalf permission lets a user send email on behalf of the shared mailbox. For example, if John logs into the shared mailbox Reception Building 32 and sends an email, it look like the mail was sent by "John on behalf of Reception Building 32". You can't use the EAC to grant Send on Behalf permissions, you must use the [Set-Mailbox](https://technet.microsoft.com/en-us/library/bb123981.aspx) cmdlet with the *GrantSendonBehalf*  parameter.
-
-## Use the Exchange Management Shell to create a shared mailbox
-
-
-Use the [New-Mailbox](https://technet.microsoft.com/en-us/library/aa997663%28v=exchg.160%29.aspx) PowerShell cmdlet to create shared mailboxes. To use this cmdlet, you need to connect to Exchange Online PowerShell.
-
-The following example shows how to create the shared mailbox Sales Department and grants Full Access and Send on Behalf permissions for the security group MarketingSG. Users who are members of the security group will be granted the permissions to the mailbox.
-
-1. Create a mail-enabled security group called MarketingSG. For PowerShell instructions, see [Manage Mail-Enabled Security Groups](https://go.microsoft.com/fwlink/?linkid=856792).
-
-2. Connect to [Exchange Online PowerShell](https://go.microsoft.com/fwlink/?linkid=856791).
-
-3. Run the following commands:
-
-   ```
-   New-Mailbox -Shared -Name "Sales Department" -DisplayName "Sales Department" -Alias Sales | Set-Mailbox -GrantSendOnBehalfTo MarketingSG
-   Add-MailboxPermission -Identity "Sales Department" -User MarketingSG -AccessRights FullAccess -InheritanceType All
-   ```
 
 ## Should I create a shared mailbox or an Office 365 Group for Outlook?
 
