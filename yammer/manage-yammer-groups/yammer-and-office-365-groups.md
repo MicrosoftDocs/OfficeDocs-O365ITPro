@@ -48,7 +48,7 @@ To use Office 365 connected groups in Yammer, make sure your Yammer network meet
     
 - You must [enforce Office 365 identity](../configure-your-yammer-network/enforce-office-365-identity.md) for Yammer users. When you first enforce Office 365 identity there is a seven-day trial period, after which the **Status** of your  **Office 365 Identity Enforcement** changes to **Committed**.
  
-- Your Yammer network must be in a 1:1 network configuration. This means you have one Yammer network that is associated with one Office 365 tenant. This is required as of October 16, 2018. For more information, see [FAQ: Consolidating multiple Yammer networks](../configure-your-yammer-network/faq-consolidate-multiple-yammer-networks.md).
+- Since October 16, 2018, all Yammer networks must be in a 1:1 network configuration. This means you have one Yammer network that is associated with one Office 365 tenant. This is required as of October 16, 2018. For more information, see [FAQ: Consolidating multiple Yammer networks](../configure-your-yammer-network/faq-consolidate-multiple-yammer-networks.md).
 
 Here's how the process works after your network becomes eligible for connected groups:
 
@@ -77,6 +77,18 @@ If your network has the Yammer files stored in SharePoint feature that began rol
 
 >[!IMPORTANT]
 > If you create an Office 365 group from any other app such as Outlook, it will not include Yammer. To have the connected group include Yammer, you must create the group in Yammer.
+
+## Yammer networks in Native Mode
+
+When your group is an Office 365 connected group, you can manage many aspects of your group through the Microsoft 365 admin center, in addition to managing them through Yammer as discussed above. All groups from Yammer networks that are in [Native Mode](overview-native-mode.md) will be manageable through these admin centers. Some of the management capabilities that can be done through the Microsoft 365 admin center include:
+
+- Add or remove group members
+- Manage group ownership
+- Delete a group
+- Restore a deleted group
+- Rename the group
+- Update the group description
+- Change the group's privacy setting
 
 ## Email and Office 365 connected groups
 
