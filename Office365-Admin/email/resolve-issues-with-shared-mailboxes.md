@@ -33,7 +33,7 @@ If you see the error message, **The proxy address "smtp:<shared mailbox name\>" 
 
   - Use Windows PowerShell. See this blog post for instructions: [Create Shared Mailboxes with Same Alias at Different Domains in Office 365](https://www.cogmotive.com/blog/office-365-tips/create-shared-mailboxes-with-same-alias-at-different-domains-in-office-365)
     
-  - Name the second shared mailbox something different from the start to get around the error. Then in the admin center, [admin center](#how-to-create-a-shared-mailbox-in-the-exchange-admin-center), rename the shared mailbox to what you want it to be.
+  - Name the second shared mailbox something different from the start to get around the error. Then in the admin center, rename the shared mailbox to what you want it to be.
 
 ## Error about not having send permissions when using a shared mailbox
 
