@@ -257,6 +257,8 @@ This can also be done through the new option that is available in Azure AD
 4. Click on "Manage external collaboration settings".
 5. under Collaboration restrictions" select Allow invitations only to the specified domains (most restrictive).
 6. Enter the target domain names to be allowed.
+
+
 > [!NOTE]
 > If tenant Guest Access settings are set to False, individual groups cannot be set to True.
   
