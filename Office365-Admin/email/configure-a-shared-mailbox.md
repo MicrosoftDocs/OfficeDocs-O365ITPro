@@ -24,7 +24,7 @@ description: "After you have created a shared mailbox, you'll want to configure 
 
 # Configure a shared mailbox
 
-After you have [created a shared mailbox](create-a-shared-mailbox.md), you'll want to configure some settings for its users, such as email forwarding and automatic replies. Later, you might want to change other settings, such as the mailbox name or members. 
+After you have [created a shared mailbox](create-a-shared-mailbox.md), you'll want to configure some settings for the mailbox users, such as email forwarding and automatic replies. Later, you might want to change other settings, such as the mailbox name, members, or member permissions. 
 
 ## Change the name or email alias of a shared mailbox, or change the primary email address
 
@@ -76,7 +76,7 @@ You do not need to assign a license to the shared mailbox in order to forward em
 
 2. Select the shared mailbox you want to edit, then select **Email forwarding** \> **Edit**.
     
-3. Set the toggle to **On**, and enter 1 email address to forward the messages to. It can be any valid email address. To forward to multiple addresses, you need to [create a distribution group](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists?view=o365-worldwide) for the addresses, and then enter the name of the group in this box.
+3. Set the toggle to **On**, and enter one email address to forward the messages to. It can be any valid email address. To forward to multiple addresses, you need to [create a distribution group](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists?view=o365-worldwide) for the addresses, and then enter the name of the group in this box.
     
 4. Select **Save**.
 
@@ -116,9 +116,8 @@ By default, messages sent from the shared mailbox aren't saved to the Sent Items
 
 If you want to allow everyone to see the Sent email, in the admin center, edit the shared mailbox settings, and select **Sent items** \> **Edit**.
 
-![Select Sent items and then Edit](../media/09e28637-7900-4792-a71e-58248293cc5b.jpg)
 
-## Choose the apps that a shared mailbox cna use to access Office 365 email
+## Choose the apps that a shared mailbox can use to access Office 365 email
 
 ::: moniker range="o365-worldwide"
 
@@ -140,7 +139,7 @@ If you want to allow everyone to see the Sent email, in the admin center, edit t
 
 2. Select the shared mailbox you want to edit, then select **Email apps** \> **Edit**.
 
-3. Set the toggle to **On** for all of the apps you want users of the shared mailbox to be able to use to access the shared mailbox. Turn off any you don't want them to use. 
+3. Set the toggle to **On** for all of the apps you want members to be able to use to access the shared mailbox. Set the toggle to **Off** for any apps you don't want them to use. 
 
 4. Select **Save**.
 
@@ -171,14 +170,12 @@ To learn more about litigation hold, see [Create a Litigation Hold](https://docs
 
 3. Set the toggle to **On**. 
 
-4. Optionally, enter a duration, note about the hold, and URL with more information.  
+4. Optionally, enter a duration, s note about the hold, and a URL with more information.  
 
 5. Select **Save**.
 
 
-## Manage members of a shared mailbox
-
-### Add or remove members
+## Add or remove members
 
 ::: moniker range="o365-worldwide"
 
@@ -206,7 +203,7 @@ To learn more about litigation hold, see [Create a Litigation Hold](https://docs
 
 4. Select **Save** again.
 
-### Customize permissions of members
+## Add or remove permissions of members
 
 ::: moniker range="o365-worldwide"
 
@@ -232,13 +229,13 @@ To learn more about litigation hold, see [Create a Litigation Hold](https://docs
 
 4. Do one of the following:
    - To give that permission to an additional member, select **Add permissions**, search for or select a member to add, and then select **Save**.
-   - To a permission from a member, use the Search box to search for the member if necessary,  select the **X** next to the member's name, and then select **Save**. 
+   - To remove the permission from a member, use the Search box to search for the member if necessary,  select the **X** next to the member's name, and then select **Save**. 
 
 4. Select **Save** again.
 
 ## Show or hide a shared mailbox in the global address list
 
-If you choose not to show the shared mailbox in teh global address list, the mailbox won't appear in your organization's address list, but it will still receive email sent to it. 
+If you choose not to show the shared mailbox in the global address list, the mailbox won't appear in your organization's address list, but it will still receive email sent to it. 
 
 ::: moniker range="o365-worldwide"
 
@@ -267,3 +264,14 @@ If you choose not to show the shared mailbox in teh global address list, the mai
 > [!NOTE]
 > Hiding a shared mailbox from address list will make it impossible for new shared mailbox members to add the hidden mailbox to their Outlook profile until the shared mailbox is again shown in the address list. 
 
+## Related articles
+
+[About shared mailboxes](about-shared-mailboxes.md)
+
+[Create a shared mailbox](create-a-shared-mailbox.md)
+
+[Convert a user mailbox to a shared mailbox](convert-user-mailbox-to-shared-mailbox.md)
+
+[Remove a license from a shared mailbox](remove-license-from-shared-mailbox.md)
+
+[Resolve issues with shared mailboxes](resolve-issues-with-shared-mailboxes.md)

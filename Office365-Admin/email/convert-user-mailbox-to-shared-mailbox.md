@@ -134,4 +134,12 @@ We've addressed most of the reasons why this happens but it still CAN happen, al
   
 ## Related articles
 
+[About shared mailboxes](about-shared-mailboxes.md)
+
 [Create a shared mailbox](create-a-shared-mailbox.md)
+
+[Configure a shared mailbox](configure-a-shared-mailbox.md)
+
+[Remove a license from a shared mailbox](remove-license-from-shared-mailbox.md)
+
+[Resolve issues with shared mailboxes](resolve-issues-with-shared-mailboxes.md)

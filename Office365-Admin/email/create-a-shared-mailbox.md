@@ -174,7 +174,15 @@ When you created the shared mailbox, you automatically created a shared calendar
 
 ## Related articles
 
+[About shared mailboxes](about-shared-mailboxes.md)
 
+[Configure a shared mailbox](configure-a-shared-mailbox.md)
+
+[Convert a user mailbox to a shared mailbox](convert-user-mailbox-to-shared-mailbox.md)
+
+[Remove a license from a shared mailbox](remove-license-from-shared-mailbox.md)
+
+[Resolve issues with shared mailboxes](resolve-issues-with-shared-mailboxes.md)
 
 
 

@@ -19,7 +19,6 @@ search.appverid:
 - BCS160
 - MET150
 - MOE150
-ms.assetid: 871a246d-3acd-4bba-948e-5de8be0544c9
 description: "----"
 ---
 
@@ -53,3 +52,14 @@ Before you [create a shared mailbox](create-a-shared-mailbox.md), here are some 
 
 - Unfortunately, you can't prevent people from deleting messages in a shared mailbox. The only way around this is to create an Office 365 Group instead of a shared mailbox. A Group in Outlook is like a shared mailbox. For a comparison of the two, see [Compare Groups](../create-groups/compare-groups.md). To learn more about Groups, see [Learn more about Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx)
 
+## Related articles
+
+[Create a shared mailbox](create-a-shared-mailbox.md)
+
+[Configure a shared mailbox](configure-a-shared-mailbox.md)
+
+[Convert a user mailbox to a shared mailbox](convert-user-mailbox-to-shared-mailbox.md)
+
+[Remove a license from a shared mailbox](remove-license-from-shared-mailbox.md)
+
+[Resolve issues with shared mailboxes](resolve-issues-with-shared-mailboxes.md)
