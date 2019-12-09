@@ -249,7 +249,14 @@ The last line of the script will display the updated settings:
 
 You can allow or block guest users who are using a specific domain. For example, if your business (Contoso) has a partnership with another business (Fabrikam), you can add Fabrikam to your Allow list so your users can add those guests to their groups.
 
+This can also be done through the new option that is available in Azure AD
 
+1. Go to Portal.Azure.com.
+2. Go to Azure Active directory.
+3. Go to User settings.
+4. Click on "Manage external collaboration settings".
+5. under Collaboration restrictions" select Allow invitations only to the specified domains (most restrictive).
+6. Enter the target domain names to be allowed.
 > [!NOTE]
 > If tenant Guest Access settings are set to False, individual groups cannot be set to True.
   
