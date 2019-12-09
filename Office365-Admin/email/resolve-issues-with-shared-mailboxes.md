@@ -26,7 +26,7 @@ description: "Try these solutions if you experience problems with shared mailbox
 
 If you see error messages when creating or using a shared mailbox, try these possible solutions. 
 
-## Issues with creating shared mailboxes
+## Error when creating shared mailboxes
 <a name="bkmk_Fix"> </a>
 
 If you see the error message, **The proxy address "smtp:<shared mailbox name\>" is already being used by the proxy addresses or LegacyExchangeDN of "\<name>". Please choose another proxy address**, it means you're trying to give the shared mailbox a name that's already in use. For example, let's say you want shared mailboxes named info@domain1 and info@domain2. There are two ways to do this:
@@ -35,7 +35,7 @@ If you see the error message, **The proxy address "smtp:<shared mailbox name\>" 
     
   - Name the second shared mailbox something different from the start to get around the error. Then in the admin center, [admin center](#how-to-create-a-shared-mailbox-in-the-exchange-admin-center), rename the shared mailbox to what you want it to be.
 
-## Errors about not having send permissions when using a shared mailbox
+## Error about not having send permissions when using a shared mailbox
 
 If you created a shared mailbox and then try to send a message from it, you might get this:
 
