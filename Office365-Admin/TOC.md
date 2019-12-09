@@ -44,8 +44,13 @@
 ### [Email in Office 365](email/email.md)
 ### [Office 365 user email settings](email/office-365-user-email-settings.md)
 ### [Add another email alias for a user](email/add-another-email-alias-for-a-user.md)
-### [Create a shared mailbox](email/create-a-shared-mailbox.md)
-### [Convert user mailbox to shared mailbox](email/convert-user-mailbox-to-shared-mailbox.md)
+### Shared mailboxes
+#### [About shared mailboxes](email/about-shared-mailboxes.md)
+#### [Create a shared mailbox](email/create-a-shared-mailbox.md)
+#### [Configure a shared mailbox](email/configure-a-shared-mailbox.md)
+### [Convert a user mailbox to a shared mailbox](email/convert-user-mailbox-to-shared-mailbox.md)
+#### [Remove license from a shared mailbox](email/remove-license-from-shared-mailbox.md)
+#### [Resolve issues with shared mailboxes](email/resolve-issues-with-shared-mailboxes.md)
 ### [Change email address](email/change-email-address.md)
 ### [Configure Focused Inbox](setup/configure-focused-inbox.md)
 ### [Create signatures and disclaimers](setup/create-signatures-and-disclaimers.md)
@@ -54,7 +59,6 @@
 ### [Email collaboration](email/email-collaboration.md)
 ### [Add user or contact to distribution group](email/add-user-or-contact-to-distribution-list.md)
 ### [Configure Clutter](email/configure-clutter.md)
-### [Remove license from shared mailbox](email/remove-license-from-shared-mailbox.md)
 ## Secure your business data
 ### [Top 10 ways to secure your data](security-and-compliance/secure-your-business-data.md)
 ### [Set up multi-factor authentication](security-and-compliance/set-up-multi-factor-authentication.md)

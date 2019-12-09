@@ -19,7 +19,7 @@ search.appverid:
 - BCS160
 - MET150
 - MOE150
-description: "----"
+description: "Try these solutions if you experience problems with shared mailboxes."
 ---
 
 # Resolve issues with shared mailboxes
