@@ -15,6 +15,9 @@ ms.collection:
 - M365-subscription-management
 - Adm_O365
 - Adm_TOC
+ms.custom:
+- TRN_M365B
+- OKR_SMB_Videos
 search.appverid:
 - MET150
 - MOE150
@@ -32,6 +35,12 @@ ms.custom: okr_smb
 **If you are a user or have an Office 365 home plan, you do not have an admin center.** To set up Office 365, go to [Download and install or reinstall Office 365 or Office 2016 on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658.aspx).
 
 You use the admin center to set up your organization in the cloud, manage users, manage subscriptions, and much more. In this article, learn how to get to the admin center and learn about available features and settings.
+
+Watch a short video about the admin center. <br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RWfvDL] 
+
+If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ## How to get to the admin center
 
@@ -61,8 +70,6 @@ You use the admin center to set up your organization in the cloud, manage users,
 
 Here are the features and settings you'll find in the left-hand navigation of the admin center. Learn more about admin tasks in [admin help](https://support.office.com/article/17d3ff3f-3601-466e-b5a1-482b31cfb791.aspx).
   
-
-
 |**Menu**|**What it's for**|
 |-----|-----|
 |**Home** <br/> |This is the landing page in the new admin center. You'll see where to manage users, billing, service health, and reports.  <br/> |
@@ -86,5 +93,7 @@ Here are the features and settings you'll find in the left-hand navigation of th
 - See activity reports: [Activity Reports](../activity-reports/activity-reports.md)
     
 - Manage Office 365 groups: [Create and manage Office 365 groups in Admin Center](../create-groups/create-groups.md)
-    
 
+## See also
+
+[Microsoft 365 Business training videos](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 
