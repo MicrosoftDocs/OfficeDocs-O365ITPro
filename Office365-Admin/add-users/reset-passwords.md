@@ -20,6 +20,8 @@ ms.collection:
 ms.custom:
 - TopSMBIssues
 - MSStore_Link
+- TRN_M365B
+- OKR_SMB_Videos
 search.appverid:
 - BCS160
 - MET150
@@ -32,6 +34,11 @@ description: "Learn how to reset password for a user in Office 365 business subs
 
 # Reset Office 365 business passwords
 
+Watch a short video about resetting user passwords.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FVVP] 
+
+If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
   
 ## Let users reset their own passwords
 
@@ -142,7 +149,4 @@ Try this article: [I forgot the username or password for the account I use with 
 
 [Remove a former employee from Office 365](remove-former-employee.md)
 
-
-
-  
-
+[Microsoft 365 Business training videos](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
