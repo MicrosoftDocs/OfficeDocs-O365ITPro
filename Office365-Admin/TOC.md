@@ -48,7 +48,7 @@
 #### [About shared mailboxes](email/about-shared-mailboxes.md)
 #### [Create a shared mailbox](email/create-a-shared-mailbox.md)
 #### [Configure a shared mailbox](email/configure-a-shared-mailbox.md)
-### [Convert a user mailbox to a shared mailbox](email/convert-user-mailbox-to-shared-mailbox.md)
+#### [Convert a user mailbox to a shared mailbox](email/convert-user-mailbox-to-shared-mailbox.md)
 #### [Remove license from a shared mailbox](email/remove-license-from-shared-mailbox.md)
 #### [Resolve issues with shared mailboxes](email/resolve-issues-with-shared-mailboxes.md)
 ### [Change email address](email/change-email-address.md)
