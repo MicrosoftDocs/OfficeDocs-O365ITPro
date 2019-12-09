@@ -31,7 +31,7 @@ description: "Learn how to use OneDrive and a team site for file storage and sha
 
 One of the best ways to set up file storage and sharing for your business is to use OneDrive and a team site together. This is ideal if you have a small business with a few employees.
 
-Watch a short video about where to store files in Office 365.
+Watch a short video about where to store files in Office 365.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FTHX] 
 
