@@ -15,6 +15,8 @@ ms.collection:
 - SPO_Content
 ms.custom:
 - IT_Networking
+- TRN_M365B
+- OKR_SMB_Videos
 search.appverid:
 - BCS160
 - MET150
@@ -28,6 +30,13 @@ description: "Learn how to use OneDrive and a team site for file storage and sha
 # Set up Office 365 file storage and sharing
 
 One of the best ways to set up file storage and sharing for your business is to use OneDrive and a team site together. This is ideal if you have a small business with a few employees.
+
+Watch a short video about storing files in Office 365.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/ae41e744-2c83-413f-bae3-f9e50a45d435] 
+
+If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
   
 ## Where you can store documents in Office 365
 
@@ -188,5 +197,3 @@ You can enable third-party storage for your users in Office 365 so they can stor
   - [Install and set up Office on an iPhone or iPad with Office 365](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628.aspx)
     
   - [Set up Office on Windows Phone with Office 365](https://support.office.com/article/2b7c1b51-a717-45d6-90c9-ee1c1c5ee0b7.aspx)
-    
-
