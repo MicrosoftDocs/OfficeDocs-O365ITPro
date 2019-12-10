@@ -71,12 +71,12 @@ If you start to run out of storage for your SharePoint Online site collections, 
     
 3. In the left pane of the new SharePoint admin center, select **Active sites**.
 
-4. In the upper right of the page, see the amount of storage used across all sites, and the total storage for your subscription. (If your organization has configured Multi-Geo in Office 365, the bar also shows the amount of storage used across all geo locations.) 
+4. In the upper right of the page, see the amount of storage used across all sites, and the total storage for your subscription.  
 
 ::: moniker-end
 
 
-![Storage bar on the Active sites page](/sharepoint/sharepointonline/media/active-sites-storage-bar.png)
+![Storage bar on the Active sites page](https://docs.microsoft.com/sharepoint/sharepointonline/media/active-sites-storage-bar.png)
 
 > [!NOTE]
 > The storage used doesn't include changes made within the last 24-48 hours. 
