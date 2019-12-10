@@ -40,7 +40,7 @@ You can assign licenses to users on either the **Active users** page, or on the 
 > [!NOTE]
 > If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
-Watch a short video about changing subscriptions for users. <br><br>
+Watch a short video that describes how to assign licenses for users or move a user to another subscription. <br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1SBE2] 
 
