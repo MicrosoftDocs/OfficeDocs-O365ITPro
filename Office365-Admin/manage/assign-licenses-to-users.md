@@ -40,6 +40,12 @@ You can assign licenses to users on either the **Active users** page, or on the 
 > [!NOTE]
 > If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
+Watch a short video about changing subscriptions for users. <br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1SBE2] 
+
+If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
 ## Assign licenses to users on the Licenses page
 
 When you use the **Licenses** page to assign licenses, you assign licenses for a specific product to up to 20 users. On the **Licenses** page, you see a list of all the products you have subscriptions for, together with the total number of licenses for each product, how many licenses are assigned, and how many are available.

@@ -32,6 +32,12 @@ search.appverid:
 ::: moniker range="o365-worldwide"
 You  can remove, or unassign, licenses from users on either the **Active users** page, or on the **Licenses** page. Which method you use depends on whether you want to unassign product licenses from specific users, or unassign users licenses from specific products.
 
+Watch a short video about changing subscriptions for users. <br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1SBE2] 
+
+If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
 ## Unassign licenses from users on the Licenses page
 
 When you use the **Licenses** page to unassign licenses, you unassign licenses for a specific product for up to 20 users. 
