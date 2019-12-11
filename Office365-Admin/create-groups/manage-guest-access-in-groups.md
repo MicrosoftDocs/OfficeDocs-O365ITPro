@@ -255,7 +255,7 @@ This can also be done through the new option that is available in Azure AD.
 2. Go to **Azure Active Directory**, and then select **User settings**.
 3. Click on **Manage external collaboration settings**.
 4. Under **Collaboration restrictions**, select **Allow invitations only to the specified domains** (most restrictive).
-6. Enter the target domain names to be allowed.
+5. Enter the target domain names to be allowed.
 
 
 > [!NOTE]
