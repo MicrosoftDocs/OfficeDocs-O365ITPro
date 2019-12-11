@@ -249,7 +249,7 @@ The last line of the script will display the updated settings:
 
 You can allow or block guest users who are using a specific domain. For example, if your business (Contoso) has a partnership with another business (Fabrikam), you can add Fabrikam to your Allow list so your users can add those guests to their groups.
 
-This can also be done through the new option that is available in Azure AD
+This can also be done through the new option that is available in Azure AD.
 
 1. Go to Portal.Azure.com.
 2. Go to **Azure Active Directory**, and then select **User settings**.
