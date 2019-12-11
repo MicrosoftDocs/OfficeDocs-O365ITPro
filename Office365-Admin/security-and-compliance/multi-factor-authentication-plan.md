@@ -105,12 +105,12 @@ For MSI-based installations, you must have the following software installed, at 
   
 |**File name**|**Install path on your computer**|**Where to get the update**|**Version**|
 |:-----|:-----|:-----|:-----|
-|MSO.DLL  <br/> |C:\Program Files\Common Files\Microsoft Shared\OFFICE15\MSO.DLL  <br/> |[KB3085480](https://support.microsoft.com/en-us/kb/3085480) <br/> |15.0.4753.1001  <br/> |
-|CSI.DLL  <br/> |C:\Program Files\Common Files\Microsoft Shared\OFFICE15\Csi.dll  <br/> |[KB3085504](https://support.microsoft.com/en-us/kb/3085504) <br/> |15.0.4753.1000  <br/> |
-|Groove.exe  <br/> |C:\Program Files\Microsoft Office\Office15\GROOVE.EXE  <br/> |[KB3085509](https://support.microsoft.com/en-us/kb/3085509) <br/> |15.0.4763.1000  <br/> |
-|Outlook.exe  <br/> |C:\Program Files\Microsoft Office\Office15\OUTLOOK.EXE  <br/> |[KB3085495](https://support.microsoft.com/en-us/kb/3085495) <br/> |15.0.4753.1002  <br/> |
-|ADAL.DLL  <br/> |C:\Program Files\Common Files\Microsoft Shared\OFFICE15\ADAL.DLL  <br/> |[KB3055000](https://support.microsoft.com/en-us/kb/3055000) <br/> |1.0.2016.624  <br/> |
-|Iexplore.exe  <br/> |C:\Program Files\Internet Explorer  <br/> |[MS14-052](https://support.microsoft.com/en-us/kb/2977629) <br/> |Not applicable  <br/> |
+|MSO.DLL  <br/> |C:\Program Files\Common Files\Microsoft Shared\OFFICE15\MSO.DLL  <br/> |[KB3085480](https://support.microsoft.com/kb/3085480) <br/> |15.0.4753.1001  <br/> |
+|CSI.DLL  <br/> |C:\Program Files\Common Files\Microsoft Shared\OFFICE15\Csi.dll  <br/> |[KB3085504](https://support.microsoft.com/kb/3085504) <br/> |15.0.4753.1000  <br/> |
+|Groove.exe  <br/> |C:\Program Files\Microsoft Office\Office15\GROOVE.EXE  <br/> |[KB3085509](https://support.microsoft.com/kb/3085509) <br/> |15.0.4763.1000  <br/> |
+|Outlook.exe  <br/> |C:\Program Files\Microsoft Office\Office15\OUTLOOK.EXE  <br/> |[KB3085495](https://support.microsoft.com/kb/3085495) <br/> |15.0.4753.1002  <br/> |
+|ADAL.DLL  <br/> |C:\Program Files\Common Files\Microsoft Shared\OFFICE15\ADAL.DLL  <br/> |[KB3055000](https://support.microsoft.com/kb/3055000) <br/> |1.0.2016.624  <br/> |
+|Iexplore.exe  <br/> |C:\Program Files\Internet Explorer  <br/> |[MS14-052](https://support.microsoft.com/kb/2977629) <br/> |Not applicable  <br/> |
    
 ## Enable MFA
 
@@ -141,9 +141,9 @@ To enable MFA, you have to complete the following:
   
  **Troubleshooting Azure Multi-Factor Authentication:**
   
-See [Troubleshoot Azure MFA](https://support.microsoft.com/en-us/help/2937344/troubleshooting-azure-multi-factor-authentication-issues).
+See [Troubleshoot Azure MFA](https://support.microsoft.com/help/2937344/troubleshooting-azure-multi-factor-authentication-issues).
   
-[How to troubleshoot sign-in issues with Office 2013 modern authentication when you use AD FS](https://support.microsoft.com/en-us/kb/3052203/)
+[How to troubleshoot sign-in issues with Office 2013 modern authentication when you use AD FS](https://support.microsoft.com/kb/3052203/)
   
  **When alternate IDs don't work:**
   

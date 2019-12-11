@@ -93,7 +93,7 @@ Office 365 Groups works with Azure Active Directory (AAD). The Groups features y
 
 ## Related articles
 
-[Learn about Office 365 Groups](https://support.office.com/en-us/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
+[Learn about Office 365 Groups](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
 
 [Upgrade distribution lists to Office 365 Groups](../manage/upgrade-distribution-lists.md)
 

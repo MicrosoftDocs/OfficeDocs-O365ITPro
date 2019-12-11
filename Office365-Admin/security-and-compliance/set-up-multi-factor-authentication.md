@@ -28,7 +28,7 @@ monikerRange: 'o365-worldwide'
   
 This article describes how to set up multi-factor authentication (MFA) for Office 365 users. For more information about MFA, see [How Azure multi-factor authentication works](https://go.microsoft.com/fwlink/p/?LinkId=627437).
   
-You get a free version of Azure multi-factor authentication as part of your Office 365 for business subscription. For a list of features included in your version of Office 365, see [How to get Azure Multi-Factor Authentication](https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-authentication-versions-plans).
+You get a free version of Azure multi-factor authentication as part of your Office 365 for business subscription. For a list of features included in your version of Office 365, see [How to get Azure Multi-Factor Authentication](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-versions-plans).
 
 > [!NOTE]
 > You must be an Office 365 global admin to set up or modify multi-factor authentication. <br><br>
@@ -54,15 +54,15 @@ In SharePoint online, by default, modern authentication is enabled.
 
 1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select **Setup**.
 
-2. Under **Setup** > **Turn on multi-factor authentication (MFA)**, select **View**. 
+2. Next to **Sign-in and security**, under **Make sign-in more secure**, select **View**.
 
-3. On the **Turn on multi-factor authentication (MFA)** page, select **Get started**.
+3. On the **Make sign-in more secure** page, select **Get started**.
 
 4. Select the **Require multi-factor authentication** and **Require users to register for multi-factor authentication and block access if risk is detected** check boxes.
 
 5. Under **Do you want to exclude anyone from these policies**, select any users that you want to exclude from the drop-down list box.
 
-6. Select **Create policy**. You will return to the **Turn on multi-factor authentication (MFA)** page, which will now say **Completed**. 
+6. Select **Create policy**. You will return to the **Make sign-in more secure** page, which will now say **Completed**. 
 
 After you set up multi-factor authentication for your organization, your users will be required to set up two-step verification on their devices. For more information, see [Set up 2-step verification for Office 365](https://support.office.com/article/ace1d096-61e5-449b-a875-58eb3d74de14).
 
@@ -70,9 +70,9 @@ After you set up multi-factor authentication for your organization, your users w
 
 1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select **Setup**.
 
-2. Under **Turn on multi-factor authentication (MFA)**, it will say **Completed**. Select **View**.
+2. Next to **Sign-in and security**, under **Make sign-in more secure**, select **View**.
 
-3. On the **Turn on multi-factor authentication (MFA)** page, select **Manage**.
+3. Under **Make sign-in more secure**, select **Manage**. 
 
 4. The **Azure portal Conditional Access - Policies** page will appear. To turn multi-factor authentication on or off:
 

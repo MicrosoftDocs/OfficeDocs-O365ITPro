@@ -74,7 +74,7 @@ Watch a short video about choosing an Office 365 business plan.<br><br>
 
 If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
-Need help choosing? Sales consultants are available to answer your questions. Just go to [Compare all products](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2) and choose one of the contact support options listed at the left side of the page. 
+Need help choosing? Sales consultants are available to answer your questions. Just go to [Compare all products](https://products.office.com/compare-all-microsoft-office-products?tab=2) and choose one of the contact support options listed at the left side of the page. 
   
 ::: moniker-end
 
@@ -83,14 +83,14 @@ Need help choosing? Sales consultants are available to answer your questions. Ju
 
 Before you buy, put some thought into the plan you sign up for. This will help prevent growing pains later.
   
-Need help choosing? Sales consultants are available to answer your questions. Just go to [Compare all products](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2) and choose one of the contact support options listed at the left side of the page. 
+Need help choosing? Sales consultants are available to answer your questions. Just go to [Compare all products](https://products.office.com/compare-all-microsoft-office-products?tab=2) and choose one of the contact support options listed at the left side of the page. 
   
 ::: moniker-end
 
 ::: moniker range="o365-worldwide"
 ## Ready to sign up for a free trial or buy a subscription?
 
-Go to [Compare all products](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2) to choose the plan you want to buy and to start the sign-up wizard. 
+Go to [Compare all products](https://products.office.com/compare-all-microsoft-office-products?tab=2) to choose the plan you want to buy and to start the sign-up wizard. 
   
 If you start with a free trial, you can [buy it later](../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md). All your users and data from the trial will still be there.
   
@@ -105,7 +105,7 @@ Watch a short video that shows the sign up process.<br><br>
 ::: moniker range="o365-germany"
 ## Ready to sign up for a free trial or buy a subscription?
 
-Go to [Compare all products](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2) to choose the plan you want to buy and to start the sign-up wizard. 
+Go to [Compare all products](https://products.office.com/compare-all-microsoft-office-products?tab=2) to choose the plan you want to buy and to start the sign-up wizard. 
   
 If you start with a free trial, you can [buy it later](../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md). All your users and data from the trial will still be there.
   

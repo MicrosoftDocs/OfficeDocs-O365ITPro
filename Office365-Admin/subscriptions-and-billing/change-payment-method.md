@@ -30,13 +30,6 @@ description: "Learn how to change the payment method or payment frequency for yo
 
 ::: moniker range="o365-worldwide"
 
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
-
-::: moniker range="o365-worldwide"
-
 When you buy Office 365 for business, you choose to pay by credit card or bank account, pay by invoice, or pay by using a prepaid product key. You can switch between paying by credit card or bank account and paying by invoice at any time during your subscription. If you paid using a prepaid product key, you can choose to switch over to paying by credit card or bank account, or to paying by invoice after your licensing period has ended. After you switch payment methods, your users will continue to have the same license assignments as before.
   
 > [!IMPORTANT]
