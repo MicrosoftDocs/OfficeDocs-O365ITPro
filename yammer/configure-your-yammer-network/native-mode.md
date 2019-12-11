@@ -122,7 +122,7 @@ Users can create new files from Yammer, edit existing Yammer files that are stor
 
 1. Start the **Microsoft 365 Alignment Tool** and export all files in Azure Data Storage.
 
-2. Download the **User and Group Activity Report** to see how many files will be migrated and how many will be deleted.
+2. Download the **User and Group Activity Report** to see how many files will be migrated and how many will be deleted. The report will indicate how many Private message files each user has and also how many Yammer files and SharePoint files each group has. All the Private message files will be deleted, and we will move the Yammer files to SharePoint.
 
    - Identify if there needs to be action taken on any of the items.
 
@@ -147,7 +147,9 @@ Users can create new files from Yammer, edit existing Yammer files that are stor
 
 ### After migration
 
-You can learn more about what happens after the files have been migrated, see [How do I tell where my Yammer files are being stored](https://go.microsoft.com/fwlink/?linkid=2111253)
+- All files will be [stored inside of SharePoint](https://go.microsoft.com/fwlink/?linkid=2111253), providing a consistent file management experience.
+
+- File search can happen from SharePoint as well as Yammer. Yammer search searches the first 5000 characters of files in Azure cloud storage as well as the title and author, but only searches the title and author of files stored in SharePoint.
 
 ## Related articles
 

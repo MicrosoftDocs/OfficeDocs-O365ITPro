@@ -34,16 +34,6 @@ We are getting our Yammer network ready to support required compliance and secur
 
 - All files that were previously uploaded on Yammer private messages will be deleted on __/__/__. No new files will be uploaded in Yammer private messages. This change does not impact file uploads in Teams chats.
 
-#### During the migration
-
-Users can create new files from Yammer, edit existing Yammer files that are stored in SharePoint, and upload new versions of files that are already stored in SharePoint.
-
-#### After migration
-
-- All files will be stored inside of SharePoint [How do I tell where my Yammer files are being stored](https://go.microsoft.com/fwlink/?linkid=2111253), providing a consistent file management experience.
-
-- File search can happen from SharePoint as well as Yammer. Yammer search searches the first 5000 characters of files in Azure cloud storage as well as the title and author, but only searches the title and author of files stored in SharePoint.
-
 ## Questions and answers about general issues
 
 ### How does a network enter Native Mode for Microsoft 365
