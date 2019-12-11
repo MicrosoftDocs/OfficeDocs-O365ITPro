@@ -59,13 +59,6 @@ Your organization recently got Office 365, and now you need to use it so you can
     
 ## Training resources for you, the admin
 
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
-
 Here are some resources to help you get started.
   
 - [Training for admins](https://support.office.com/article/e990f8ff-56d7-450e-ad9f-74ae8718ef09.aspx): Get links to free online classes for admins.
