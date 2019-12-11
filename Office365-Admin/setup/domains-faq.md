@@ -322,7 +322,7 @@ You can keep using the initial onmicrosoft.de domain even after you add your dom
     
 Have a nonprofit and want to get Office 365? [Make sure your organization qualifies](https://www.microsoft.com/en-us/nonprofits/eligibility) and then sign up for the service. 
   
-Want to know more about becoming the admin for your school? [Learn all about it](https://docs.microsoft.com/en-us/microsoft-365/education/deploy/becoming-an-admin-in-office-365-education
+Want to know more about becoming the admin for your school? [Learn all about it](https://docs.microsoft.com/microsoft-365/education/deploy/becoming-an-admin-in-office-365-education
 ).
   
 ## Can I pilot Office 365 with just a few email addresses from my custom domain?

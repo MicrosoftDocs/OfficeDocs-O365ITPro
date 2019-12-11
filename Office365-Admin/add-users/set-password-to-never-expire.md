@@ -20,6 +20,7 @@ search.appverid:
 ms.assetid: f493e3af-e1d8-4668-9211-230c245a0466
 description: "Learn how to set some individual user passwords to never expire, using Windows PowerShell."
 ---
+# Set an individual user's password to never expire
 
 ## Set the password expiration policy for your organization
 
