@@ -186,7 +186,7 @@ Here are the most common issues people encounter when deleting a user:
 
 [Restore a user](restore-user.md)
   
-[Permanently delete a mailbox](https://technet.microsoft.com/en-us/library/jj863440%28v=exchg.150%29.aspx)
+[Permanently delete a mailbox](https://technet.microsoft.com/library/jj863440%28v=exchg.150%29.aspx)
 
 [Remove a former employee from Office 365](remove-former-employee.md)
 

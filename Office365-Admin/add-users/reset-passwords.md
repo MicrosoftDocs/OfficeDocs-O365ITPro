@@ -85,7 +85,7 @@ If you forgot your password and can't sign in:
     
 - Ask another global admin in your business to reset your password for you.
     
-- Or, [call Microsoft Support](https://support.office.com/en-us/article/contact-support-for-business-products-admin-help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b?ui=en-US&amp;rs=en-US&amp;ad=US#ID0EAADAAA=Phone_support_). 
+- Or, [call Microsoft Support](https://support.office.com/article/contact-support-for-business-products-admin-help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b?ui=en-US&amp;rs=en-US&amp;ad=US#ID0EAADAAA=Phone_support_). 
     
 ## Reset all Office 365 business passwords for everyone in your organization at the same time
 <a name="bkmk_forgot"> </a>
@@ -121,7 +121,7 @@ Check out this great blog post by Vasil Michev, Microsoft MVP: [Force password c
 ## I'm lost!
 <a name="bkmk_forgot"> </a>
 
-Try this article: [I forgot the username or password for the account I use with Office.](https://support.office.com/en-us/article/eba0b4a2-c0ae-472c-99f6-bc63ee2425a8?wt.mc_id=SCL_reset-passwords_AdmHlp)
+Try this article: [I forgot the username or password for the account I use with Office.](https://support.office.com/article/eba0b4a2-c0ae-472c-99f6-bc63ee2425a8?wt.mc_id=SCL_reset-passwords_AdmHlp)
   
 ## Related articles
 <a name="bkmk_forgot"> </a>

@@ -114,7 +114,7 @@ If you want all users to be in the same tenant regardless of their email address
 > There is no supported automated mechanism to move users across tenants once they have been created. To learn about adding domains to a single Office 365 tenant, see [Add a domain to Office 365](../setup/add-domain.md). 
   
 > [!IMPORTANT]
-> For additional information and guidance on managing tenants, see [What is Power BI administration?](https://docs.microsoft.com/en-us/power-bi/service-admin-administering-power-bi-in-your-organization). 
+> For additional information and guidance on managing tenants, see [What is Power BI administration?](https://docs.microsoft.com/power-bi/service-admin-administering-power-bi-in-your-organization). 
   
 ## How can I prevent users from joining my existing Office 365 tenant?
 

@@ -68,12 +68,12 @@ The following table gives you a quick glance at the various types of groups and 
   
 ## Related articles
 
-[Manage distribution groups](https://technet.microsoft.com/en-us/library/bb124513%28v=exchg.150%29.aspx)
+[Manage distribution groups](https://technet.microsoft.com/library/bb124513%28v=exchg.150%29.aspx)
     
 [Use Office 365 Groups instead of Site Mailboxes](https://support.office.com/article/737d6b1f-67cc-41fe-8db8-f2d09dd1673b.aspx)
     
 [Create shared mailboxes in Office 365](create-a-shared-mailbox.md)
     
-[Public folders in Office 365 and Exchange Online](https://technet.microsoft.com/en-us/library/jj200758%28v=exchg.150%29.aspx)
+[Public folders in Office 365 and Exchange Online](https://technet.microsoft.com/library/jj200758%28v=exchg.150%29.aspx)
     
 

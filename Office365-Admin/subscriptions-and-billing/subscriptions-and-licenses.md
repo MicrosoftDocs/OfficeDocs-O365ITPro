@@ -27,7 +27,7 @@ ms.custom: okr_SMB
 
 This article explains the relationship between subscriptions and licenses, and provides additional information about [who can assign licenses](#find-out-who-can-assign-licenses), [understanding what happens when you assign a license to someone](#understand-what-happens-when-you-assign-a-license-to-someone), and [how many devices can people install Office on](#how-many-devices-can-people-install-office-on). It also includes links to [understanding licenses for non-user mailboxes](#understand-licenses-for-non-user-mailboxes), and [Articles about managing licenses](#articles-about-managing-licenses).
   
-When you buy a subscription to Office 365 for business, you sign up for a set of applications and services that you pay for on a either a monthly or an annual basis. The applications and services that you receive as part of your subscription depend on which product you purchased, such as Office 365 Business or Office 365 Business Premium. You can review what comes with each product on the [Buy Office 365 page](https://products.office.com/en-us/compare-all-microsoft-office-products?&activetab=tab:primaryr1). 
+When you buy a subscription to Office 365 for business, you sign up for a set of applications and services that you pay for on a either a monthly or an annual basis. The applications and services that you receive as part of your subscription depend on which product you purchased, such as Office 365 Business or Office 365 Business Premium. You can review what comes with each product on the [Buy Office 365 page](https://products.office.com/compare-all-microsoft-office-products?&activetab=tab:primaryr1). 
 
 When you buy a subscription, you specify the number of licenses that you need, based on how many people you have in your organization. After your purchase is complete, you create accounts for people, and then assign a license to each person. As your organizational needs change, you can buy more licenses to accommodate new people, or reassign licenses to other users when someone leaves your organization. 
 
@@ -99,4 +99,4 @@ You don't need to assign licenses to resource mailboxes, room mailboxes, and sha
     
 - [Resolve license conflicts](../manage/resolve-license-conflicts.md)
     
-- [Manage Yammer user licenses](https://docs.microsoft.com/en-us/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
+- [Manage Yammer user licenses](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
