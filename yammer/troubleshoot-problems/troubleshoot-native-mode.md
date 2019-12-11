@@ -24,7 +24,7 @@ We recommend you communicate the change to Native Mode to your end users. Early 
 
 ### What should I include in our communications to users?**
 
-Below is some content you can use as-is or modify to meet your needs:
+Below is some content you can use as-is or modify to meet your needs when you're ready to communicate upcoming changes to your organization:
 
 We are getting our Yammer network ready to support required compliance and security policies for our organization. Here are some changes you will see rolling out over the next few weeks:
 

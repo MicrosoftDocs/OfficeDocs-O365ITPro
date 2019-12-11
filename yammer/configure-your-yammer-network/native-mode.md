@@ -83,10 +83,10 @@ In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint.
 
 1. Export files stored in Azure. Make sure you export and verify all files stored in Azure before starting the Tool.
 
-2. Download the User and Group Activity Report, which provides a list of all files that will be migrated to SharePoint from Azure and automatically deleted from Azure cloud storage files within 30 days after the Tool completes its work.
+2. Download the **User and Group Activity Report**, which provides a list of all files that will be migrated to SharePoint from Azure and automatically deleted from Azure cloud storage files within 30 days after the Tool completes its work. If a group has been deleted, all the files from that group will be deleted and not migrated over.
 
 >[!NOTE]
-> Only the latest version of the file is migrated to SharePoint from Azure, and the version history is not copied.
+> Only the latest version of a file is migrated to SharePoint from Azure, and the version history is not copied.
 > The follower count is not copied.
 > Users can no longer mark files as official.
 
@@ -128,7 +128,7 @@ Because migration deletes files and the process is irreversible, you need to dec
 
    - Identify if there needs to be action taken on any of the items.
 
-3. When your export is complete, start the migration from the Microsoft 365 Alignment Tool.
+3. When your export is complete, start the migration from the **Microsoft 365 Alignment Tool**.
 
    - You can start migration when export is running, but the export data may be inaccurate.
 
@@ -151,9 +151,9 @@ The following is the expected behavior if a user performs these tasks during mig
 
 ### After migration
 
-- All files will be [stored inside of SharePoint](https://go.microsoft.com/fwlink/?linkid=2111253), providing a consistent file management experience.
+- All group files will be [stored in SharePoint](https://go.microsoft.com/fwlink/?linkid=2111253),providing a consistent file management experience.
 
-- File search can happen from SharePoint as well as Yammer. Yammer search searches the first 5000 characters of files in Azure cloud storage as well as the title and author, but only searches the title and author of files stored in SharePoint.
+- File search can happen from SharePoint as well as Yammer. Yammer searches the first 5000 characters of files in Azure cloud storage as well as the title and author, but only searches the title and author of files stored in SharePoint.
 
 ## Related articles
 
