@@ -116,6 +116,8 @@ Because migration deletes files and the process is irreversible, you need to dec
 
 ### During migration
 
+Users can create new files from Yammer, edit existing Yammer files that are stored in SharePoint, and upload new versions of files that are already stored in SharePoint.
+
 #### Admin user experience
 
 1. Start the **Microsoft 365 Alignment Tool** and export all files in Azure Data Storage.
