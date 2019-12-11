@@ -95,3 +95,14 @@ Shared mailboxes don't need a license unless the mailbox has over 50GB of data. 
 
 ::: moniker-end 
 
+## Related articles
+
+[About shared mailboxes](about-shared-mailboxes.md)
+
+[Create a shared mailbox](create-a-shared-mailbox.md)
+
+[Configure a shared mailbox](configure-a-shared-mailbox.md)
+
+[Convert a user mailbox to a shared mailbox](convert-user-mailbox-to-shared-mailbox.md)
+
+[Resolve issues with shared mailboxes](resolve-issues-with-shared-mailboxes.md)

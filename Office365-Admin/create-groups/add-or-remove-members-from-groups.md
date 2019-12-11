@@ -31,13 +31,13 @@ description: "Learn how to add a member to a group, remove member from group, an
 
 In Office 365, Group members typically create their own Groups, add themselves to Groups they want to join, or are invited by Group owners. If Group ownership changes, or if you determine that a member should be added or removed, as the admin you can also make that change. [What is an Office 365 Group?](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx)
   
- **Tip**: You can also [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
+ **Tip**: If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
   
 ## Add a member to a Group in the admin center
 
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page. If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.  
     
 2. Select a group name.
     
@@ -51,7 +51,7 @@ In Office 365, Group members typically create their own Groups, add themselves t
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page. If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.  
     
 2. Select a group name.
     
@@ -65,7 +65,7 @@ In Office 365, Group members typically create their own Groups, add themselves t
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page. If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.  
     
 2. Select a group name.
     
@@ -76,6 +76,52 @@ In Office 365, Group members typically create their own Groups, add themselves t
 5. Select **Save**.
 
 ::: moniker-end
+
+## Add a Group to a member in the admin center
+
+::: moniker range="o365-worldwide"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
+    
+2. Select a user.
+    
+3. In the details pane, on the **Account** tab, select **Manage groups**.
+      
+4. Search for or select the name of the group you want to add.
+    
+5. Select **Save**.
+    
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.  
+    
+2. Select a user name.
+    
+3. In the details pane, next to **Group memberships**, select **Edit**, and then select **Add memberships**.
+      
+4. Search for or select the name of the group you want to add.
+    
+5. Select **Save**.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
+    
+2. Select a user name.
+    
+3. In the details pane, next to **Group memberships**, select **Edit**, and then select **Add memberships**.
+      
+4. Search for or select the name of the group you want to add.
+    
+5. Select **Save**.
+
+::: moniker-end
+
+
 
 ## Remove a member from a Group in the admin center
 
