@@ -40,13 +40,7 @@ We strongly recommend that you set up self-service password reset. This way you 
 ## Reset an Office 365 business password for someone else
 
 These steps are only for people using an Office 365 business plan. To do them, you need to sign in with your Microsoft 365 admin account. [What's an admin account?](../admin-overview/admin-overview.md)
-  
-::: moniker range="o365-worldwide"
 
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
  
 ::: moniker range="o365-worldwide"
 

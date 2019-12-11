@@ -36,13 +36,6 @@ Shared mailboxes include a shared calendar. A lot of small businesses like to us
 Before creating a shared mailbox, be sure to read [About shared mailboxes](about-shared-mailboxes.md) for more information.
 
 ## Create a shared mailbox and add members
-
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
   
 1. Sign in with an Office 365 global admin account or Exchange admin account. If you get the message "**You don't have permission to access this page or perform this action**," then you aren't an admin. 
 
