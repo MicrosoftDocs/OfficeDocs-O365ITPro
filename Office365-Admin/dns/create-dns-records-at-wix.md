@@ -102,7 +102,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 |**Host Name**|**Points to**|**Priority**|**TTL**|
 |:-----|:-----|:-----|:-----|
-|Automatically populated <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 account.   [How do I find this?](../get-help-with-domains/information-for-dns-records.md) |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/en-us/article/What-is-MX-priority-2784cc4d-95be-443d-b5f7-bb5dd867ba83) | 1 Hour|
+|Automatically populated <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 account.   [How do I find this?](../get-help-with-domains/information-for-dns-records.md) |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/What-is-MX-priority-2784cc4d-95be-443d-b5f7-bb5dd867ba83) | 1 Hour|
    
 6. If there are any other MX records listed, delete each of them. 
     

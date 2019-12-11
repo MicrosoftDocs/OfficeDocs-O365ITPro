@@ -125,5 +125,5 @@ This table describes the reasons why the **Add/Remove licenses** link might not 
 
 [Buy or edit an add-on](buy-or-edit-an-add-on.md)
 
-[Manage Yammer user licenses](https://docs.microsoft.com/en-us/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
+[Manage Yammer user licenses](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
   
