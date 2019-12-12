@@ -77,11 +77,7 @@ The Tool prepares your network for Native Mode by disabling some features and mi
 - Group updates will not work on unconnected groups.
 - File edits will not work on files not in SharePoint.
 
-<<<<<<< Updated upstream
-## What happens when you start the Tool
-=======
 ## What happens when you start the Tool?*
->>>>>>> Stashed changes
 
 In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint. Having one consistent location for files makes them easier to access for both end users and admins.
 
@@ -94,13 +90,6 @@ In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint.
 > The follower count is not copied.
 > Users can no longer mark files as official.
 
-<<<<<<< Updated upstream
-## To prepare files for migration
-
-To use Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint. Having files in SharePoint makes admins and end user usage and management easier.
-
-=======
->>>>>>> Stashed changes
 ### As a result of migration
 
 - Files in Azure will be deleted, including any files attached to Private messages.
@@ -117,11 +106,8 @@ Because migration deletes files and the process is irreversible, you need to dec
 
 - [Update to the latest versions](https://go.microsoft.com/fwlink/?linkid=2111082) of Yammer Android, Yammer iOS, and Yammer Desktop apps, as older versions will have issues uploading files to SharePoint.
 
-<<<<<<< Updated upstream
-=======
 - To use Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint. Having files in SharePoint makes admins, and end user usage and management easier.
 
->>>>>>> Stashed changes
 - Use new third-party APIs to upload files. The previous versions will be blocked and the file upload won’t work.
 
 - Notify users that this migration is going to happen.
