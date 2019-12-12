@@ -109,7 +109,7 @@ Existing networks will be able to lock themselves in to Native Mode by using the
 
   Pending users receive announcement notification emails from group admins. If users don't want to receive announcements from a particular group, they can log into their Yammer account and leave the group or follow the unsubscribe link in the email to unsubscribe from all Yammer emails.
 
-  From <https://docs.microsoft.com/en-us/yammer/manage-yammer-users/add-block-or-remove-users#manage-pending-users>  
+  From <https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#manage-pending-users>  
 
 - *What does the Tool do for pending users?*
   The Tool will first try to associate the pending user with an account in AAD for your Office 365 tenant. If that association is successful, the user will remain in the network. If we are not able to associate the pending user with an AAD account on your tenant, then we will delete the user.  
