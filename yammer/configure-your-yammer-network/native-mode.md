@@ -3,7 +3,7 @@ title: "Prepare a Yammer network for Native Mode for Microsoft 365"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 11/15/2019
+ms.date: 12/11/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -69,7 +69,7 @@ The Tool prepares your network for Native Mode by disabling some features and mi
 - Begins transferring your data into the Security & Compliance Center.
 
 >[!CAUTION]
-> Once you are in Native Mode, or have started the file migration process, you can't go back.
+> Once you are in Native Mode, or have started the file migration process, it is irreversible.
 > Notify users that files will be deleted and files in private messages might disappear.
 
 ## While the tool is running
@@ -94,11 +94,13 @@ In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint.
 
 To use Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint. Having files in SharePoint makes admins and end user usage and management easier.
 
-### As part of migration
+### As a result of migration
 
 - Files in Azure will be deleted, including any files attached to Private messages.
 
 - Users will no longer be able to upload files to Private messages. Link sharing will still be available.
+
+- All files in Private messages will be deleted, group files will be copied to SharePoint, and then deleted from Azure within 30 days of migration.
 
 ### Before migration
 
@@ -108,15 +110,17 @@ Because migration deletes files and the process is irreversible, you need to dec
 
 - [Update to the latest versions](https://go.microsoft.com/fwlink/?linkid=2111082) of Yammer Android, Yammer iOS, and Yammer Desktop apps, as older versions will have issues uploading files to SharePoint.
 
-- Use new APIs to upload files. The previous versions will be blocked and the file upload won’t work.
+- Use new third-party APIs to upload files. The previous versions will be blocked and the file upload won’t work.
 
 - Notify users that this migration is going to happen.
 
-- Notify users, that they may notice files in Private messages might start to disappear during this process
+- Notify users before you run the Alignment Tool that files in Private messages in Yammer will be deleted, and no longer accessible.
 
 ### During migration
 
-Users can create new files from Yammer, edit existing Yammer files that are stored in SharePoint, and upload new versions of files that are already stored in SharePoint.
+- Users can create new files from Yammer, edit existing Yammer files that are stored in SharePoint, and upload new versions of files that are already stored in SharePoint.
+
+- If a group has been deleted, all the files from that group will be deleted and not migrated over.
 
 #### Admin user experience
 
@@ -137,6 +141,8 @@ Users can create new files from Yammer, edit existing Yammer files that are stor
    - SLA - up to 45 days for networks with > 100K files
 
 #### End user experience
+
+The following is the expected behavior if a user performs these tasks during migration:
 
 |Tasks|Office 365 Yammer Groups|Unconnected Yammer Groups|Private Messages|
 |-----|------------------------|-------------------------|----------------|
