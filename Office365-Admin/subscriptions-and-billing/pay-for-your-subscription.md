@@ -50,16 +50,16 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Find the subscription with the outstanding balance. In the **Billing** section, select **Pay now**.
+2. Find the subscription with the outstanding balance. In the **Billing** section, next to **Subscription has a past due payment**, select **Settle balance**.
 
 3. If you're the credit card owner, you can change the expiration date for the card, pick a different card, or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
 
     > [!NOTE]
-    > When you use the **Pay now** feature, you'll be charged for the entire outstanding balance on your account, which could be more than the amount due shown elsewhere.
+    > When you use the **Settle balance** feature, you'll be charged for the entire outstanding balance on your account, which could be more than the amount due shown elsewhere.
 
 4. If you're not the credit card owner, you can choose a different credit card or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
 
-5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, select **Submit payment**.
+5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, select **Save**.
 
 #### Use the old admin center to pay your outstanding balance
 ::: moniker-end
