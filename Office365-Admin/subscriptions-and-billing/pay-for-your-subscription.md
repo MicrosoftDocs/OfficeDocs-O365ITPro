@@ -26,7 +26,7 @@ ms.custom: okr_SMB
 
 # Pay for your Office 365 for business subscription
 
-When you set up your subscription, you can choose to pay by using credit card or bank account payments, or to pay by invoice using check or electronic funds transfer (EFT) . Whichever method you choose, that is the payment method we will continue to use for subsequent billing periods, unless you [change your payment method](change-payment-method.md).
+When you set up your subscription, you can choose to pay by using credit card or bank account payments, or to pay by invoice using check or electronic funds transfer (EFT). Whichever method you choose, that is the payment method we will continue to use for subsequent billing periods, unless you [change your payment method](change-payment-method.md).
 
 > [!NOTE]
 > Paying by bank account is not available in some countries or regions.
