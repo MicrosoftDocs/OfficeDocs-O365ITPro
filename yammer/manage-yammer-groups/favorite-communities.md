@@ -3,7 +3,7 @@ title: "Favorite communities"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/3/2019
+ms.date: 12/11/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -15,6 +15,7 @@ search.appverid:
 - YAE150
 ms.assetid: 6d2a6ec7-1d65-46bb-b253-1bf441ec80a5
 description: "Learn how to create favorite communities."
+ROBOTS: NOINDEX, NOFOLLOW 
 ---
 
 # Favorite communities
