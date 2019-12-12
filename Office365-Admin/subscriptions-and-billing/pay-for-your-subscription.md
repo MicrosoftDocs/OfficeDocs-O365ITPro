@@ -37,15 +37,12 @@ When you pay by credit card or bank account, you'll be automatically charged for
 
 ### What if my credit card was declined and my payment is past due?
 
-If you pay by credit card, and your credit card is declined, you'll receive an email letting you know that we were unable to process the payment. This can happen for several reasons, including if the credit card has expired. We'll continue to retry the transaction every few days. If those attempts fail, you'll continue to receive email alerts about those failures. You can use the **Pay now** feature at any time to change your credit card information and immediately resubmit the payment.
+If you pay by credit card, and your credit card is declined, you'll receive an email letting you know that we were unable to process the payment. This can happen for several reasons, including if the credit card has expired. We'll continue to retry the transaction every few days. If those attempts fail, you'll continue to receive email alerts about those failures. You can use the **Settle balance** feature at any time to change your credit card information and immediately resubmit the payment.
 
 > [!NOTE]
 > If you switch to a different credit card to pay the outstanding balance on your subscription, that card will be charged for all future automatic payments for that subscription.
 
 ::: moniker range="o365-worldwide"
-
-> [!NOTE]
-> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
@@ -61,7 +58,6 @@ If you pay by credit card, and your credit card is declined, you'll receive an e
 5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, select **Save**.
 
 ::: moniker-end
-
 
 ::: moniker range="o365-germany"
 
