@@ -373,7 +373,7 @@ You must be a Global Admin or a Billing Admin to do the tasks described in this 
 
 ::: moniker-end
 
-## Related topics
+## Related articles
 
 [Change your billing addresses](change-your-billing-addresses.md)
   

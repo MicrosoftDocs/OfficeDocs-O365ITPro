@@ -29,16 +29,8 @@ Shared mailboxes don't need a license unless the mailbox has over 50GB of data. 
 
 ::: moniker range="o365-worldwide"
 
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
-
-::: moniker range="o365-worldwide"
-
-### Use the new admin center to remove the license
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
@@ -55,23 +47,8 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 6. You're still paying for the license. To stop paying for it, [remove the license from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md). 
 
-### Use the old admin center to remove the license
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
-
-2. Select the shared mailbox, and then select **Edit** next to **Product licenses**.
-    
-3. One the **Product licenses** page, set the toggle to **Off** for the license you want to remove.
-    
-4. Select **Save**.
-    
-5. When you return to the **Active users** page, the status of the shared mailbox will be **Unlicensed**. 
-
-6. You're still paying for the license. To stop paying for it, [remove the license from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md). 
-
-
 ::: moniker-end
- 
+
 
 ::: moniker range="o365-germany"
     
@@ -89,7 +66,6 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 5. When you return to the **Active users** page, the status of the shared mailbox will be **Unlicensed**. 
 
 6. You're still paying for the license. To stop paying for it, [remove the license from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md). 
-
 
 ::: moniker-end
 
@@ -110,6 +86,16 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 6. You're still paying for the license. To stop paying for it, [remove the license from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md). 
 
-
 ::: moniker-end 
 
+## Related articles
+
+[About shared mailboxes](about-shared-mailboxes.md)
+
+[Create a shared mailbox](create-a-shared-mailbox.md)
+
+[Configure a shared mailbox](configure-a-shared-mailbox.md)
+
+[Convert a user mailbox to a shared mailbox](convert-user-mailbox-to-shared-mailbox.md)
+
+[Resolve issues with shared mailboxes](resolve-issues-with-shared-mailboxes.md)

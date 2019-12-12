@@ -21,6 +21,7 @@ ms.collection:
 - M365-subscription-management 
 - Adm_O365
 - Adm_NonTOC
+- SPO_Content
 search.appverid:
 - MET150
 - GEU150
@@ -47,7 +48,7 @@ Scan this QR code to follow us on WeChat and get the latest updates for Office 3
   
  **About services in Office 365 operated by 21Vianet**
   
-The sections below highlight some of the differences you will find in each service. Ultimately our goal is to achieve parity with global services. However, due to the unique nature of the China services - operated by a partner from datacenters inside China - there are some features that have not yet been enabled. Customers will see the services come closer to full feature parity over time. For a more detailed look at services available for each Office 365 plan operated by 21Vianet, see the [Office 365 Service Description](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-operated-by-21vianet).
+The sections below highlight some of the differences you will find in each service. Ultimately our goal is to achieve parity with global services. However, due to the unique nature of the China services - operated by a partner from datacenters inside China - there are some features that have not yet been enabled. Customers will see the services come closer to full feature parity over time. For a more detailed look at services available for each Office 365 plan operated by 21Vianet, see the [Office 365 Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-operated-by-21vianet).
   
     
 If you would like to learn how to get started with general Office 365 services, see [Get started](../admin-overview/get-started-with-office-365.md).

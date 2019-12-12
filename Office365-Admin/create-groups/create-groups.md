@@ -28,6 +28,13 @@ While users can create an Office 365 group from Outlook or other apps, as an adm
 > [!TIP]
 > Office 365 connected Yammer groups must be created in Yammer, but can be managed in the Microsoft 365 admin center like other Office 365 groups. To learn more, see [Yammer and Office 365 Groups](https://support.office.com/article/d8c239dc-a48b-47ab-b85e-6b4b8191a869.aspx). 
 
+::: moniker range="o365-worldwide"
+
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
+::: moniker-end
+
 ## Create an Office 365 group
 
 ::: moniker range="o365-worldwide"
@@ -68,11 +75,8 @@ Once the group has been created, you can add members and configure additional se
 
 ::: moniker range="o365-worldwide"
   
-### Use the new admin center to add members to a group
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
 Users can [add themselves or request approval](https://support.office.com/article/Join-a-group-in-Outlook-2e59e19c-b872-44c8-ae84-0acc4b79c45d), or you can add them now.
+
 
 1. In the admin center, refresh the page so your new group appears, select **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a>, and then select the name of the group that you want to add members to.
     
@@ -86,9 +90,9 @@ Users can [add themselves or request approval](https://support.office.com/articl
     
 The group will appear in Outlook with members assigned to it.
 
-### Use the old admin center to add members to a group
-
 ::: moniker-end
+
+::: moniker range="o365-germany"
 
 Users can [add themselves or request approval](https://support.office.com/article/Join-a-group-in-Outlook-2e59e19c-b872-44c8-ae84-0acc4b79c45d), or you can add them now.
 
@@ -104,6 +108,27 @@ Users can [add themselves or request approval](https://support.office.com/articl
     
 The group will appear in Outlook with members assigned to it.
   
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+Users can [add themselves or request approval](https://support.office.com/article/Join-a-group-in-Outlook-2e59e19c-b872-44c8-ae84-0acc4b79c45d), or you can add them now.
+
+1. In the admin center, refresh the page so your new group appears, select **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a>, and then select the group that you want to add members to.
+    
+2. Next to **Members**, select **Edit**.
+
+3. Select **Add members**.
+    
+4. Select the users you want to add, and then select **Save**.
+    
+5. Select **Close** three times. 
+    
+The group will appear in Outlook with members assigned to it.
+  
+::: moniker-end
+
+
 ### Send copies of conversations to group members' inboxes
   
 When you use the admin center to create a group, by default users  do not get copies of group emails and meeting invitations sent to their inboxes. They'll need to go to the group to see conversations and meetings. You can change this setting in the admin center.
@@ -114,21 +139,17 @@ Group members can opt out of receiving these emails by choosing to stop followin
 
 ::: moniker range="o365-worldwide"
 
-#### Use the new admin center to send copies of conversations to group members' inboxes
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page, and then select the name of the group you want to change. 
 
 2. On the **Settings** tab, select **Send copies of group conversations and events to group members** if you want members to receive copies of group messages and calendar items in their own inbox.
 
 3. Select **Save**.
 
-#### Use the old admin center to send copies of conversations to group members' inboxes
-
 ::: moniker-end
 
-1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page, and then select the group you want to change.
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Groups** \> **Groups** page, and then select the group you want to change.
 
 2. Next to **Name**, select **Edit**.
 
@@ -136,15 +157,25 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 4. Select **Save**.
 
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Groups** \> **Groups** page, and then select the group you want to change.
+
+2. Next to **Name**, select **Edit**.
+
+3. Turn **Send copies of group conversations and events to group members' inboxes** to **On** if you want members to receive copies of group messages and calendar items in their own inbox.
+
+4. Select **Save**.
+
+::: moniker-end
+
 ### Let people outside the organization email the group
 
 This option is great if you want to have a company email address such as info@contoso.com.
  
 ::: moniker range="o365-worldwide"
- 
-#### Use the new admin center to let people outside the organization email the group
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 
 1. Refresh your admin center page so your new group appears.
 
@@ -152,10 +183,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 4. Select **Save**.
 
-
-#### Use the old admin center to let people outside the organization email the group
-
 ::: moniker-end
+
+::: moniker range="o365-germany"
 
 1. Refresh your admin center page so your new group appears.
     
@@ -165,6 +195,21 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
     
 4. Select **Save**.
 
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+1. Refresh your admin center page so your new group appears.
+    
+2. In the admin center groups list, select the group you want to change, and then next to **Name**, select **Edit**. 
+    
+3. Set the **Let people outside the organization email the group** toggle to **On**.
+    
+4. Select **Save**.
+
+::: moniker-end
+
+
+
 ## Who can delete email from the Group Inbox?
 
 The Group owner can delete any emails from the Group Inbox, regardless of whether they were the initial author.
@@ -173,7 +218,7 @@ A member can delete an email conversation from the Group Inbox if they initiated
   
 When an email is deleted from the group mailbox, it is not deleted from any of the group members' personal mailboxes.
 
-## Related topics
+## Related articles
 
 [Manage guest access to Office 365 groups](https://support.office.com/article/7c713d74-a144-4eab-92e7-d50df526ff96.aspx)
 

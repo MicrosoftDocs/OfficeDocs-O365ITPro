@@ -114,7 +114,7 @@ If you want all users to be in the same tenant regardless of their email address
 > There is no supported automated mechanism to move users across tenants once they have been created. To learn about adding domains to a single Office 365 tenant, see [Add a domain to Office 365](../setup/add-domain.md). 
   
 > [!IMPORTANT]
-> For additional information and guidance on managing tenants, see [What is Power BI administration?](https://docs.microsoft.com/en-us/power-bi/service-admin-administering-power-bi-in-your-organization). 
+> For additional information and guidance on managing tenants, see [What is Power BI administration?](https://docs.microsoft.com/power-bi/service-admin-administering-power-bi-in-your-organization). 
   
 ## How can I prevent users from joining my existing Office 365 tenant?
 
@@ -164,9 +164,8 @@ If a user signed up for Power BI but you no longer want them to have access to P
 
 ::: moniker range="o365-worldwide"
 
-### Use the new admin center to remove Power BI 
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
   
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
     
@@ -175,30 +174,14 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 3. On the **Licenses and Apps** tab, clear the **Microsoft Power BI** check box.
     
 4. Select **Save changes**.
-    
-### Use the old admin center to remove Power BI 
 
 ::: moniker-end
-  
 
-::: moniker range="o365-worldwide"
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
-
-::: moniker-end
   
 ::: moniker range="o365-germany"
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
 
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
-
-::: moniker-end 
-    
 2. Find the user you want to remove the license for, then select their name.
     
 3. Next to **Product licenses**, select **Edit**. 
@@ -206,6 +189,23 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 4. Toggle off the **Microsoft Power BI** option.
     
 5. Select **Save**.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+2. Find the user you want to remove the license for, then select their name.
+    
+3. Next to **Product licenses**, select **Edit**. 
+    
+4. Toggle off the **Microsoft Power BI** option.
+    
+5. Select **Save**.
+
+::: moniker-end 
+
 
 ## How do I know when new users have joined my tenant?
 

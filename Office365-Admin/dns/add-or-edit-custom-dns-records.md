@@ -39,3 +39,13 @@ description: "Learn how to edit or add a custom DNS record in Office 365. "
 5. Select the type of DNS record you want to add, and type the information for the new record.
     
 6. Select **Save**.
+
+## Related articles
+
+[Gather the information you need to create Office 365 DNS records](../get-help-with-domains/information-for-dns-records.md)
+
+[DNS basics](../get-help-with-domains/dns-basics.md)
+
+[Get help with Office 365 domains](../get-help-with-domains/get-help-with-domains.md)
+
+

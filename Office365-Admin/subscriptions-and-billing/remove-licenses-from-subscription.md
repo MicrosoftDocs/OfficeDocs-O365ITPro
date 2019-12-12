@@ -33,9 +33,8 @@ You can't remove a license from a subscription if it's assigned to a user. If yo
 
 ::: moniker range="o365-worldwide"
 
-### Use the new admin center to remove licenses from your subscription
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
@@ -47,21 +46,31 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
 
-::: moniker range="o365-worldwide"
-### Use the old admin center to remove licenses from your subscription
-::: moniker-end
+::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
 2. On the **Subscriptions** page, select the subscription from which you want to remove licenses, then select **Add/Remove licenses**.
 
     [What if I don't see the Add/Remove licenses link?](#what-if-i-dont-see-the-addremove-licenses-link)
 
 3. In the **Total licenses** box, enter the total number of licenses that you need for this subscription and then select **Submit**. For example, if you have 110 licenses and you want to remove 5 of them, enter 105.
+
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+
+2. On the **Subscriptions** page, select the subscription from which you want to remove licenses, then select **Add/Remove licenses**.
+
+    [What if I don't see the Add/Remove licenses link?](#what-if-i-dont-see-the-addremove-licenses-link)
+
+3. In the **Total licenses** box, enter the total number of licenses that you need for this subscription and then select **Submit**. For example, if you have 110 licenses and you want to remove 5 of them, enter 105.
+
+::: moniker-end
+
 
 ## What if I don't see the Add/Remove licenses link?
 
@@ -101,7 +110,7 @@ If your subscription was purchased through a CSP or partner, you can’t remove 
 
 - [Buy or edit an add-on](buy-or-edit-an-add-on.md)
 
-- [Manage Yammer user licenses](https://docs.microsoft.com/en-us/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
+- [Manage Yammer user licenses](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
 
 ## Related links
 

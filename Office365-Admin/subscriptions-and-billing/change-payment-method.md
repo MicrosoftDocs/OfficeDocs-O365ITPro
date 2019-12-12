@@ -30,13 +30,6 @@ description: "Learn how to change the payment method or payment frequency for yo
 
 ::: moniker range="o365-worldwide"
 
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
-
-::: moniker range="o365-worldwide"
-
 When you buy Office 365 for business, you choose to pay by credit card or bank account, pay by invoice, or pay by using a prepaid product key. You can switch between paying by credit card or bank account and paying by invoice at any time during your subscription. If you paid using a prepaid product key, you can choose to switch over to paying by credit card or bank account, or to paying by invoice after your licensing period has ended. After you switch payment methods, your users will continue to have the same license assignments as before.
   
 > [!IMPORTANT]
@@ -191,19 +184,12 @@ When you return to the **Subscriptions** page, you will see the old subscription
 
 You can use the following steps at any time to verify the payment method that's configured for a subscription.
 
-### Use the new admin center to verify which payment method is configured
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
 2. Find the subscription that you want to verify. The payment method that's configured for the subscription appears in the **Billing** section.
-
-### Use the old admin center to verify which payment method is configured
-  
-1. In the admin center, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
-
-2. Find the subscription that you want to verify. The payment method that's configured for the subscription appears under **Payment method**.
 
 ::: moniker-end
 

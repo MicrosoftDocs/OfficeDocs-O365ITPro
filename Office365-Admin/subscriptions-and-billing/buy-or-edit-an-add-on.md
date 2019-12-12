@@ -34,9 +34,8 @@ Several of the Office 365 for business plans have add-ons that you can buy for y
 
 ::: moniker range="o365-worldwide"
 
-### Use the new admin center to buy an add-on
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=868433" target="_blank">Purchase services</a> page.
 
@@ -54,15 +53,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
 
-::: moniker range="o365-worldwide"
-### Use the old admin center to buy an add-on
-::: moniker-end
+::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
 2. On the **Subscriptions** page, select the subscription for which you want to buy an add-on.
 
@@ -80,6 +73,31 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 8. Provide your payment information, and then select **Place order** \> **Go to Admin Home**.
 
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+
+2. On the **Subscriptions** page, select the subscription for which you want to buy an add-on.
+
+3. On the bottom-left corner of the subscription details, select **Add-ons** \> **Buy add-ons**.
+
+    ![Buy add-ons link on the Subscriptions page of the Microsoft 365 admin center.](../media/f5cbc3fa-90f7-4299-976d-2482f2c69755.png)
+  
+4. On the **Purchase services** page, mouse over or tap the add-on subscription that you want to buy, and then select **Buy now**.
+
+5. Enter the number of licenses that you need, and choose whether to pay each month or for the whole year. Choose whether you want to automatically assign licenses to everyone who does not currently have a license. If shown, select a base subscription.
+
+6. Select **Check out now**.
+
+7. Review the pricing information, and then select **Next**.
+
+8. Provide your payment information, and then select **Place order** \> **Go to Admin Home**.
+
+::: moniker-end
+
+
 ## Update an add-on
 
 The steps that you use to update an add-on depend on whether the add-on is a traditional add-on, or a standalone add-on. 
@@ -92,9 +110,8 @@ The steps that you use to update an add-on depend on whether the add-on is a tra
 
 ::: moniker range="o365-worldwide"
 
-#### Use the new admin center to update a traditional add-on
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
@@ -108,15 +125,10 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
 
-::: moniker range="o365-worldwide"
-#### Use the old admin center to update a traditional add-on
-::: moniker-end
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
+::: moniker range="o365-germany"
 
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
 2. On the **Subscriptions** page, select the subscription for which you want to update an add-on.
 
@@ -135,13 +147,38 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
     ![Total licenses box and the submit button on the Add or remove licenses dialog box.](../media/dfee31e0-092d-4565-9bf5-ff3909b771e1.png)
 
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+
+2. On the **Subscriptions** page, select the subscription for which you want to update an add-on.
+
+3. Select **Add-ons**.
+
+    The add-ons that you have purchased are shown and each of the add-ons will have a **Change quantity** link below it.
+
+4. Select the **Change quantity** link for the add-on that you want to update. 
+
+    ![Add-ons link and the change quantity link.](../media/fa7c39f4-5256-49bb-9a26-70f1a52ae926.png)
+  
+5. Enter the number of user licenses that you need in the box, and then select **Submit**.
+
+    > [!TIP]
+    > You can also use the up-arrow and down-arrow to change the quantity of user licenses or just enter the number you want in the box.
+  
+    ![Total licenses box and the submit button on the Add or remove licenses dialog box.](../media/dfee31e0-092d-4565-9bf5-ff3909b771e1.png)
+
+
+::: moniker-end
+
 ### Update a standalone add-on
 
 ::: moniker range="o365-worldwide"
 
-#### Use the new admin center to update a standalone add-on
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
@@ -151,15 +188,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
 
-::: moniker range="o365-worldwide"
-#### Use the old admin center to update a standalone add-on
-::: moniker-end
+::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
 2. On the **Subscriptions** page, select the add-on subscription that you want to update, and then select **Add/Remove licenses**.
 
@@ -170,6 +201,24 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
   
     ![Total licenses box and the submit button on the Add or remove licenses dialog box.](../media/dfee31e0-092d-4565-9bf5-ff3909b771e1.png)
 
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
+
+2. On the **Subscriptions** page, select the add-on subscription that you want to update, and then select **Add/Remove licenses**.
+
+3. Enter the number of licenses that you need in the box, and then select **Submit**.
+
+    > [!TIP]
+    > You can also use the up-arrow and down-arrow to change the quantity of licenses or just enter the number you want in the box.
+  
+    ![Total licenses box and the submit button on the Add or remove licenses dialog box.](../media/dfee31e0-092d-4565-9bf5-ff3909b771e1.png)
+
+::: moniker-end
+
+
 ## Remove an add-on
 
 You can cancel a standalone add-on the same way that you [cancel a subscription](cancel-your-subscription.md). Or you can set **Recurring billing** to off for a standalone add-on by using the steps above. However, you cannot remove a traditional add-on after it's been bought. If you need to remove a traditional add-on, please [contact support for help](../contact-support-for-business-products.md).
@@ -178,7 +227,7 @@ You can cancel a standalone add-on the same way that you [cancel a subscription]
 
 The following table lists add-ons that are available for different editions of Office 365 for business.
   
-For information about Skype for Business add-ons, see [Skype for Business and Microsoft Teams add-on licensing](https://docs.microsoft.com/en-us/SkypeForBusiness/skype-for-business-and-microsoft-teams-add-on-licensing/skype-for-business-and-microsoft-teams-add-on-licensing).
+For information about Skype for Business add-ons, see [Skype for Business and Microsoft Teams add-on licensing](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-and-microsoft-teams-add-on-licensing/skype-for-business-and-microsoft-teams-add-on-licensing).
   
 ****
 
@@ -196,6 +245,6 @@ For information about Skype for Business add-ons, see [Skype for Business and Mi
 |Domestic Calling Plan in Office 365  <br/> | Office 365 Enterprise E5  <br/> |
 |International Calling Plan in Office 365  <br/> | Office 365 Enterprise E5  <br/> |
   
-## Related topics
+## Related articles
 
 [Add storage space for your subscription](add-storage-space.md)

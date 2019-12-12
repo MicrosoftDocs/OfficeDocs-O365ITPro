@@ -32,9 +32,10 @@ Admins can control whether to allow guest access to Groups for their whole organ
  
 ::: moniker range="o365-worldwide"   
    
-### Use the new admin center to add existing guests to an Office 365 Group
+### Add existing guests to an Office 365 Group
 
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 If the guest already exists in your directory (see above), you can add them to your groups from the Office Admin Center or the Exchange Admin Center.
   
@@ -45,24 +46,12 @@ If the guest already exists in your directory (see above), you can add them to y
 4. Select **Add members**, and choose the name of the guest you want to add.
     
 5. Select **Save**.
-    
-### Use the old admin center to add existing guests to an Office 365 Group
 
 ::: moniker-end
 
-If the guest already exists in your directory (see above), you can add them to your groups from the Office Admin Center or the Exchange Admin Center.
-
-1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
-  
-2. Select the group you want to add the guest to, and select **Edit** in the **Members** section. 
-
-3. Select **Add members**, and choose the name of the guest you want to add.
-
-4. Select **Save**.
-
 ### Invite guests
 
-You can't invite guests from the Office Admin Center or the Exchange Admin Center at this time. To invite guests centrally you might consider using the Azure Active Directory B2B collaboration preview. For more information, see [About the Azure AD B2B collaboration preview](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-b2b-what-is-azure-ad-b2b).
+You can't invite guests from the Office Admin Center or the Exchange Admin Center at this time. To invite guests centrally you might consider using the Azure Active Directory B2B collaboration preview. For more information, see [About the Azure AD B2B collaboration preview](https://docs.microsoft.com/azure/active-directory/active-directory-b2b-what-is-azure-ad-b2b).
   
 ### Edit guest information
 
@@ -350,13 +339,13 @@ No. Guest access is included with all Office 365 Business Premium and Office 365
 
 Yes. The guests won't receive a welcome email message, but they will have all the privileges of any other guest member. If you've not yet migrated your distribution lists, see [Migrate distribution lists to Office 365 Groups](../manage/upgrade-distribution-lists.md) for instructions. Distribution lists that contain guests can't be migrated. 
   
-## See Also
+## Related articles
 <a name="bkmk_UsePowerShell"> </a>
 
 [Manage Group membership in the Microsoft 365 admin center](add-or-remove-members-from-groups.md)
   
 [Allow/Deny guest access to Office 365 groups based on their domain](https://go.microsoft.com/fwlink/?linkid=854001)
   
-[Azure Active Directory access reviews](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-azure-ad-controls-perform-access-review)
+[Azure Active Directory access reviews](https://docs.microsoft.com/azure/active-directory/active-directory-azure-ad-controls-perform-access-review)
   
 

@@ -26,13 +26,6 @@ description: "Learn how to restore deleted Office 365 user accounts and all asso
 ---
 
 # Restore a user in Office 365
-
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
    
 When you restore a user account within 30 days after deleting it, the account and all associated data are restored. The user can sign in with the same work or school account. Their mailbox will be fully restored. To find out how much time remains before a specific user account can no longer be restored, [contact us](../contact-support-for-business-products.md).
   
@@ -147,7 +140,7 @@ Go to the [admin center](https://go.microsoft.com/fwlink/p/?linkid=848041), and 
     
 4. Review the results, and then select **Close**.
 
-## Related Topics
+## Related articles
 
 [Delete a user](delete-a-user.md)
   

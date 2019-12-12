@@ -27,19 +27,12 @@ description: "Learn how to let your users share their calendars with external us
 
 # Share calendars with external users
 
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
-
 It's often necessary to schedule meetings with people outside your organization. To simplify the process of finding mutually agreeable meeting times, Office 365 enables you to make calendars available to "external users," those who need to see free/busy time but don't have user accounts for your Office 365 environment.
   
 Calendar sharing is a global setting, meaning that you, the admin, can enable it for all users in the tenant. Once sharing is enabled, users can use Outlook Web App to share their calendars with anyone inside or outside the organization. People inside the organization can view the shared calendar side-by-side with their own. People outside the organization will be sent a URL that they can use to view the calendar. Users decide when to share, how much to share, and when to keep their calendars private.
   
 > [!NOTE]
-> If you want to share calendars with an organization that uses Exchange Server 2013 (an on-premises solution), the Exchange administrator will need to set up an authentication relationship with the cloud. This is known as "federation" and must meet minimum software requirements. See [Sharing](https://technet.microsoft.com/en-us/library/dd638083%28v=exchg.150%29.aspx) for more information. 
+> If you want to share calendars with an organization that uses Exchange Server 2013 (an on-premises solution), the Exchange administrator will need to set up an authentication relationship with the cloud. This is known as "federation" and must meet minimum software requirements. See [Sharing](https://technet.microsoft.com/library/dd638083%28v=exchg.150%29.aspx) for more information. 
   
 ## Enable calendar sharing using the Microsoft 365 admin center
 

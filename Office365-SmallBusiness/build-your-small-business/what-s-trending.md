@@ -44,6 +44,6 @@ These articles help troubleshoot issues that can occur with your Office 365 subs
 
 - [I'm ready to add my custom domain](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
   
-## Related topics
+## Related articles
 
 [Contact Office 365 support](https://docs.microsoft.com/en-us/office365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone)

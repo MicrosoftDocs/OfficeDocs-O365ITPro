@@ -43,15 +43,14 @@ When you convert a user's mailbox to a shared mailbox, all of the existing email
 
 4. If the mailbox is smaller than 50GB, you can remove the [license from the user](../manage/remove-licenses-from-users.md), and stop paying for it. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor. If you are converting the mailbox of an employee that is leaving your organization, you should take additional steps to make sure that they cannot log in anymore. Please see [Remove a former employee from Office 365](../add-users/remove-former-employee.md).
     
-5. For everything else you need to know about shared mailboxes, please see [Create a shared mailbox](create-a-shared-mailbox.md).
+5. For everything else you need to know about shared mailboxes, see [About shared mailboxes](about-shared-mailboxes.md) and [Create a shared mailbox](create-a-shared-mailbox.md).
 
 ## Use the Microsoft 365 admin center to convert a mailbox
 
 ::: moniker range="o365-worldwide"
 
-### Use the new admin center to convert a mailbox to a shared mailbox
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
@@ -59,15 +58,15 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 3. On the **Mail** tab, under **More actions**, select **Convert to shared mailbox**. 
 
-### Use the old admin center to convert a mailbox to a shared mailbox
-
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
-
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
+
+2. Select the user whose mailbox you want to convert.
+
+3. In the right pane, expand **Mail Settings**. Next to **More settings**, select **Convert to shared mailbox**.
 
 ::: moniker-end
 
@@ -75,16 +74,16 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
 
-::: moniker-end
-
 2. Select the user whose mailbox you want to convert.
 
 3. In the right pane, expand **Mail Settings**. Next to **More settings**, select **Convert to shared mailbox**.
 
+::: moniker-end
+
 
 If the mailbox is smaller than 50GB, you can [remove the license from the user](../manage/remove-licenses-from-users.md), and stop paying for it. Don't delete the user's old mailbox. The shared mailbox needs it there as an anchor. If you are converting the mailbox of an employee that is leaving your organization, you should take additional steps to make sure that they cannot log in anymore. See [Remove a former employee from Office 365](../add-users/remove-former-employee.md).
     
-For everything else you need to know about shared mailboxes, see [Create a shared mailbox](create-a-shared-mailbox.md).
+For everything else you need to know about shared mailboxes, see [About shared mailboxes](about-shared-mailboxes.md) and [Create a shared mailbox](create-a-shared-mailbox.md).
 
 
 ## Convert the mailbox of a deleted user
@@ -133,6 +132,14 @@ We've addressed most of the reasons why this happens but it still CAN happen, al
 > [!TIP]
 > See the workaround in this support solution for instances when [shared mailboxes are unexpectedly converted to user mailboxes](https://support.microsoft.com/help/2710029/shared-mailboxes-are-unexpectedly-converted-to-user-mailboxes-after-di)
   
-## Related Topics
+## Related articles
+
+[About shared mailboxes](about-shared-mailboxes.md)
 
 [Create a shared mailbox](create-a-shared-mailbox.md)
+
+[Configure a shared mailbox](configure-a-shared-mailbox.md)
+
+[Remove a license from a shared mailbox](remove-license-from-shared-mailbox.md)
+
+[Resolve issues with shared mailboxes](resolve-issues-with-shared-mailboxes.md)
