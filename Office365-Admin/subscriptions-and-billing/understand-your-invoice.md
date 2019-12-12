@@ -117,7 +117,7 @@ If you pay by invoice, you can add or change the purchase order (PO) number for 
 
 3. In the **Update payment details** pane, select **No thanks**.
 
-4. At the bottom of the** Update payment details** pane, enter your PO number, select **Submit**, then **Close**.
+4. At the bottom of the **Update payment details** pane, enter your PO number, select **Submit**, then **Close**.
 
 ::: moniker-end
 
