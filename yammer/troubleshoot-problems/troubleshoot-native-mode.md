@@ -172,22 +172,23 @@ Guests in external groups in Yammer are not currently Azure B2B guests, and so t
 
 ### Groups without owners that have Office 365 group creation rights
 
-#### Why do you need to add the global admin running the Alignment Tool as a group owner in groups that have no owner with Office 365 group creation rights?*
+- *Why do you need to add the global admin running the Alignment Tool as a group owner in groups that have no owner with Office 365 group creation rights?*
 
-This change is done only in networks where all users do not have Office 365 group creation rights. In order to make a Yammer group an Office 365-connected group, it is necessary to have at least one group owner with Office 365 group creation rights. Because global admins have these group creation rights, adding the global admin as a group owner helps ensure that the group can become Office 365-connected.
+  This change is done only in networks where all users do not have Office 365 group creation rights. In order to make a Yammer group an Office 365-connected group, it is necessary to have at least one group owner with Office 365 group creation rights. Because global admins have these group creation rights, adding the global admin as a group owner helps ensure that the group can become Office 365-connected.
 
-#### What should I do about my groups without owners with Office 365 group creation rights?*
+- *What should I do about my groups without owners with Office 365 group creation rights?*
 
-The downloadable report provides information about the groups within your enterprise network that don't have any group owners with group creation rights so that you can determine the best path forward for your organization. These group include:
+  The downloadable report provides information about the groups within your enterprise network that don't have any group owners with group creation rights so that you can determine the best path forward for your organization. These group include:
 
-- groups that have no owners;
-- groups whose owners do not have Office 365 group creation rights.
+  - groups that have no owners;
+  - groups whose owners do not have Office 365 group creation rights.
 
-If your network has a large number of these groups, you have a few options available to you.
-You can allow the Tool to add you to each group as an owner so that the group can become Office 365-connected and your network is not blocked from being connected. Once a group is connected, you can, at your discretion, remove yourself from having ownership of the group  
-You can review the impacted groups from the downloadable report and see if they have any recent activity or active group members. If they don't, you may elect to delete those groups before running the Tool. After those groups have been deleted, you can run the Tool. By deleting inactive groups before running the Tool, you'll reduce the number of groups that you, as a global admin, need to be added to in order to achieve Native Mode.  
+  If your network has a large number of these groups, you have a few options available to you.
+  You can allow the Tool to add you to each group as an owner so that the group can become Office 365-connected and your network is not blocked from being connected. Once a group is connected, you can, at your discretion, remove yourself from having ownership of the group.
+  
+  You can review the impacted groups from the downloadable report and see if they have any recent activity or active group members. If they don't, you may elect to delete those groups before running the Tool. After those groups have been deleted, you can run the Tool. By deleting inactive groups before running the Tool, you'll reduce the number of groups that you, as a global admin, need to be added to in order to achieve Native Mode.  
 
-You can grant Office 365 group creation rights to all users within your organization, or at least to the users that are owners of unconnected groups in Yammer, so that those groups can be connected without the global admin needing to be added as an owner. Once those groups are connected, you can choose whether or not to revoke group creation rights from some of those users who were granted access.
+  You can grant Office 365 group creation rights to all users within your organization, or at least to the users that are owners of unconnected groups in Yammer, so that those groups can be connected without the global admin needing to be added as an owner. Once those groups are connected, you can choose whether or not to revoke group creation rights from some of those users who were granted access.
 
 Whatever path you choose, we recommend you communicate clearly to the users in your network of the changes that are coming so that they can alert you of any concerns or potential issues.
 
@@ -197,19 +198,19 @@ Guests in external groups in Yammer are not currently Azure B2B guests, and so t
 
 ## Network-level guests
 
-### Why aren't (network level) guests supported in Native Mode?*
+- *Why aren't (network level) guests supported in Native Mode?*
 
-Network-level Guests in Yammer are not currently Azure B2B guests, and so their userIDs are not associated with an account in Azure Active Directory for your Office 365 tenant. Since eDiscovery (coming soon) requires all users to be in AAD, Yammer's (network-level) guest feature cannot be supported in Native Mode. Yammer does expect to add support for group-level Azure B2B guests in Native Mode, but we do not expect to support adding (network-level) guest support into Native Mode networks.
+  Network-level Guests in Yammer are not currently Azure B2B guests, and so their userIDs are not associated with an account in Azure Active Directory for your Office 365 tenant. Since eDiscovery (coming soon) requires all users to be in AAD, Yammer's (network-level) guest feature cannot be supported in Native Mode. Yammer does expect to add support for group-level Azure B2B guests in Native Mode, but we do not expect to support adding (network-level) guest support into Native Mode networks.
 
-### What should I do about my Network-level Guests?*
+- *What should I do about my Network-level Guests?*
 
-The vast majority of networks have never had any Network-level Guests. If your network has had Network-level Guests in the past, it is likely those guests no longer have access due to your network enforcing Office 365 Identity.
+  The vast majority of networks have never had any Network-level Guests. If your network has had Network-level Guests in the past, it is likely those guests no longer have access due to your network enforcing Office 365 Identity.
 
-The downloadable report provides information about the Network-level Guests in your network and their activity within the network. We recommend you use the information in the report to help you decide whether these users should continue to have access to the network. If you do want these users to have access to the network when your network is in Native Mode, you will need to provide them with new credentials associated with an AAD account. Yammer does not currently support Azure B2B, so it must be a member user account that you provide on AAD, not a guest account. This new account will not be associated with their guest account, so the user will not have access to private messages, files, or groups of the previous account, unless the new account is added to that private content.
+  The downloadable report provides information about the Network-level Guests in your network and their activity within the network. We recommend you use the information in the report to help you decide whether these users should continue to have access to the network. If you do want these users to have access to the network when your network is in Native Mode, you will need to provide them with new credentials associated with an AAD account. Yammer does not currently support Azure B2B, so it must be a member user account that you provide on AAD, not a guest account. This new account will not be associated with their guest account, so the user will not have access to private messages, files, or groups of the previous account, unless the new account is added to that private content.
 
-If your company makes extensive use of Network-level Guests, you may consider delaying your move to Native Mode.
+  If your company makes extensive use of Network-level Guests, you may consider delaying your move to Native Mode.
 
-Whatever path you choose, we recommend you communicate clearly to the owners of these groups what changes are coming so that they can alert you. In some cases, these groups may be owned by senior leaders within your organization, so be sure to choose the appropriate communication channel when reaching out to group owners.
+  Whatever path you choose, we recommend you communicate clearly to the owners of these groups what changes are coming so that they can alert you. In some cases, these groups may be owned by senior leaders within your organization, so be sure to choose the appropriate communication channel when reaching out to group owners.
 
 ### How do I check the status of my network's migration to Native Mode?**
 
