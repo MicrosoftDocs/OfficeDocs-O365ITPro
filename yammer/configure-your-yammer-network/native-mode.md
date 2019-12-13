@@ -3,7 +3,7 @@ title: "Prepare a Yammer network for Native Mode for Microsoft 365"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/11/2019
+ms.date: 12/13/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -48,21 +48,21 @@ The Tool prepares your network for Native Mode by disabling some features and mi
 
 - Any unlisted private groups in your network will be changed to private listed groups. Users will no longer be able to create unlisted private groups.
 
-- External groups in Yammer will no longer be supported, all external groups will be made internal only, and any external users in those groups will no longer have access to the group or its contents. Support for Azure B2B-based external groups is expected to be supported at a later date.
+- External groups in Yammer will no longer be supported, all external groups will be made internal only, and any external users in those groups will no longer have access to the group or its contents. Support for Azure B2B-based external groups is expected at a later date.
 
-- Adds the Global admin who runs the Tool as a group owner in any unconnected groups, so that those groups can become Office 365 connected groups.
+- Adds the Global admin to unconnected groups that either have no owners at all or that have no owner with Office 365 Group Creation Rights. It does not add them to unconnected groups if the owner does have Office 365 Group creation rights.
 
 - Connects all unconnected Yammer groups after applying the changes mentioned in the previous three bulleted items above.
 
-- Prevents files from being uploaded in Yammer private messages, and deletes all files previously uploaded in Yammer Private messages.
+- Prevents files from being uploaded in Yammer Private messages, and deletes all files previously uploaded in Yammer Private messages.
 
-- Deletes all internal users and their associated files and private messages in the network who are not mapped to an Office 365 identity in AAD.
+- Deletes all internal users (and their associated files and Private messages) in the network who are not mapped to an Office 365 identity in AAD.
 
-- Disables support for guests in the network, and removes existing guests from the network, along with their associated private messages and files.
+- Disables support for guests in the network, and removes existing guests from the network, along with their associated Private messages and files.
 
 - Disables support for adding an external user to an individual thread. External users who were previously added to individual threads will no longer have access.
 
-- Deletes all group messages for deleted groups and begins deleting all group messages whenever a group is deleted.
+- Deletes all group messages for deleted groups and begins deleting all group messages whenever a group is deleted. There are two separate things that happen. It hard deletes group messages from previously deleted groups. When groups are deleted after the network is in Native Mode, group messages are deleted, based on the Archive retention setting. This means it is deleted from the user experience, but it will be available through data export. This may lead you to ask, Why would we hard delete the messages from previously deleted groups, but then "archive" the one from newly-deleted groups? It is because there is no place for us to store the messages for eDiscovery if the group was deleted before Native Mode. If they are deleted after Native Mode, the Security and Compliance Center has a place to store and keep the messages.
 
 - Locks your network into Native Mode.
 
@@ -70,14 +70,14 @@ The Tool prepares your network for Native Mode by disabling some features and mi
 
 >[!CAUTION]
 > Once you are in Native Mode, or have started the file migration process, it is irreversible.
-> Notify users that files will be deleted and files in private messages might disappear.
+> Notify users *before* you run the Alignment Tool that files in Private messages in Yammer **will be deleted** and no longer accessible, so they should download any important files before the Tool is run.
 
 ## While the tool is running
 
 - Group updates will not work on unconnected groups.
 - File edits will not work on files not in SharePoint.
 
-**What happens when you start the Tool?**
+## What happens when you start the Tool
 
 In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint. Having one consistent location for files makes them easier to access for both end users and admins.
 
@@ -92,15 +92,17 @@ In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint.
 
 ### As a result of migration
 
-- Files in Azure will be deleted, including any files attached to Private messages.
+- Private message files in Azure will be deleted. Azure group files from active groups are first copied to SharePoint, all references to files are updated to the SharePoint location, then we delete the Azure files.
 
 - Users will no longer be able to upload files to Private messages. Link sharing will still be available.
 
-- All files in Private messages will be deleted, group files will be copied to SharePoint, and then deleted from Azure within 30 days of migration.
+- All files in Private messages will be deleted, group files will be copied to SharePoint, and then deleted from Azure *within 30 days of migration*.
 
 ### Before migration
 
-Because migration deletes files and the process is irreversible, you need to decide how to handle these files. We recommend you:
+Because migration deletes files and the process is irreversible, you need to decide how to handle these files. 
+
+We recommend you:
 
 - Export the files before migration and save them in case anyone asks for them.
 
@@ -124,7 +126,7 @@ Because migration deletes files and the process is irreversible, you need to dec
 
 1. Start the **Microsoft 365 Alignment Tool** and export all files in Azure Data Storage.
 
-2. Download the **User and Group Activity Report** to see how many files will be migrated and how many will be deleted. The report will indicate how many Private message files each user has and also how many Yammer files and SharePoint files each group has. All the Private message files will be deleted, and we will move the Yammer files to SharePoint.
+2. Download the **User and Group Activity Report** to see how many files will be migrated and how many will be deleted. The report will indicate how many Private message files each user has and also how many Yammer files and SharePoint files each group has. All the[Private message files will be deleted, and we will move the Yammer files to SharePoint. Learn more about [Private message files](https://docs.microsoft.com/yammer/manage-security-and-compliance/monitor-private-content).
 
    - Identify if there needs to be action taken on any of the items.
 
@@ -140,7 +142,7 @@ Because migration deletes files and the process is irreversible, you need to dec
 
 #### End user experience
 
-The following is the expected behavior if a user performs these tasks during migration:
+The following is the expected behavior if a user performs these tasks while the Tool is running:
 
 |Tasks|Office 365 Yammer Groups|Unconnected Yammer Groups|Private Messages|
 |-----|------------------------|-------------------------|----------------|
