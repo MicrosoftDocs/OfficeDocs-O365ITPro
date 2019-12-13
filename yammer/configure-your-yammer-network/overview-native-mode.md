@@ -56,7 +56,7 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
 |             | Yammer honors Office 365 group creation rights |
 |             | Consistent file experience throughout Yammer |
 
-| Non-Native </br>   | Features                 |
+| Non-Native         | Features                 |
 | (or not connected) |                          |
 | ------------------ | ------------------------ |
 |                    | External collaboration   |

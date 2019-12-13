@@ -32,7 +32,7 @@ The Microsoft 365 Alignment Tool (“Tool”) will make sure your network meets 
 
 - Soft delete must be turned on in Yammer.
 
-- All users must be in Azure Active Directory (AAD). AAD enforces Office 365 identity and, any users who are not mapped to the network must be deleted.
+- All users must be in Azure Active Directory ("AAD"). AAD enforces Office 365 identity and, any users who are not mapped to the network must be deleted.
 
 - You must not have any unlisted private groups.
 
@@ -62,7 +62,11 @@ The Tool prepares your network for Native Mode by disabling some features and mi
 
 - Disables support for adding an external user to an individual thread. External users who were previously added to individual threads will no longer have access.
 
-- Deletes all group messages for deleted groups and begins deleting all group messages whenever a group is deleted. There are two separate things that happen. It hard deletes group messages from previously deleted groups. When groups are deleted after the network is in Native Mode, group messages are deleted, based on the Archive retention setting. This means it is deleted from the user experience, but it will be available through data export. This may lead you to ask, Why would we hard delete the messages from previously deleted groups, but then "archive" the one from newly-deleted groups? It is because there is no place for us to store the messages for eDiscovery if the group was deleted before Native Mode. If they are deleted after Native Mode, the Security and Compliance Center has a place to store and keep the messages.
+- Deletes all group messages for deleted groups and begins deleting all group messages whenever a group is deleted. There are two separate things that happen. It hard deletes group messages from previously deleted groups. When groups are deleted after the network is in Native Mode, group messages are deleted, based on the Archive retention setting. This means it is deleted from the user experience, but it will be available through data export.
+
+This may lead you to ask: *Why would we hard delete the messages from previously deleted groups, but then "archive" the one from newly-deleted groups?*
+
+It is because there is no place for us to store the messages for eDiscovery if the group was deleted before Native Mode. If they are deleted after Native Mode, the Security and Compliance Center has a place to store and keep the messages.
 
 - Locks your network into Native Mode.
 
@@ -83,7 +87,7 @@ In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint.
 
 1. Export files stored in Azure. Make sure you export and verify all files stored in Azure before starting the Tool.
 
-2. Download the **User and Group Activity Report**, which provides a list of all files that will be migrated to SharePoint from Azure and automatically deleted from Azure cloud storage files within 30 days after the Tool completes its work. If a group has been deleted, all the files from that group will be deleted and not migrated over.
+2. Download the **User and Group Activity Report**, which provides a list of all files that will be migrated to SharePoint from Azure and automatically deleted from Azure cloud storage files *within 30 days* after the Tool completes its work. If a group has been deleted, all the files from that group will be deleted and not migrated over.
 
 >[!NOTE]
 > Only the latest version of a file is migrated to SharePoint from Azure, and the version history is not copied.
@@ -126,7 +130,7 @@ We recommend you:
 
 1. Start the **Microsoft 365 Alignment Tool** and export all files in Azure Data Storage.
 
-2. Download the **User and Group Activity Report** to see how many files will be migrated and how many will be deleted. The report will indicate how many Private message files each user has and also how many Yammer files and SharePoint files each group has. All the[Private message files will be deleted, and we will move the Yammer files to SharePoint. Learn more about [Private message files](https://docs.microsoft.com/yammer/manage-security-and-compliance/monitor-private-content).
+2. Download the **User and Group Activity Report** to see how many files will be migrated and how many will be deleted. The report will indicate how many Private message files each user has and also how many Yammer files and SharePoint files each group has. All the Private message files will be deleted, and we will move the Yammer files to SharePoint. Learn more about [Private message files](https://docs.microsoft.com/yammer/manage-security-and-compliance/monitor-private-content).
 
    - Identify if there needs to be action taken on any of the items.
 
