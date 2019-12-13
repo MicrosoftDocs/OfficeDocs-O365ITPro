@@ -158,7 +158,7 @@ Quick links for the most common admin tasks in Office 365.
                 <div class="card">
                     <div class="cardText">
                         <h3>OneDrive</h3>
-                            <p><a href="http://go.microsoft.com/fwlink/p/?LinkId=798319">Get the OneDrive sync client and mobile apps</a></p>
+                            <p><a href="https://go.microsoft.com/fwlink/p/?LinkId=798319">Get the OneDrive sync client and mobile apps</a></p>
                             <p><a href="https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49">Sync files with the OneDrive sync client in Windows</a></p>
                             <p><a href="https://docs.microsoft.com/onedrive/manage-sharing">Manage sharing in OneDrive and SharePoint</a></p>
                             <p><a href="https://docs.microsoft.com/onedrive/set-default-storage-space">Set the default storage space for OneDrive users</a></p>
