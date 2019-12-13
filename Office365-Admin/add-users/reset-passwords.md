@@ -47,13 +47,7 @@ We strongly recommend that you set up self-service password reset. This way you 
 ## Reset an Office 365 business password for someone else
 
 These steps are only for people using an Office 365 business plan. To do them, you need to sign in with your Microsoft 365 admin account. [What's an admin account?](../admin-overview/admin-overview.md)
-  
-::: moniker range="o365-worldwide"
 
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
  
 ::: moniker range="o365-worldwide"
 
@@ -98,7 +92,7 @@ If you forgot your password and can't sign in:
     
 - Ask another global admin in your business to reset your password for you.
     
-- Or, [call Microsoft Support](https://support.office.com/en-us/article/contact-support-for-business-products-admin-help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b?ui=en-US&amp;rs=en-US&amp;ad=US#ID0EAADAAA=Phone_support_). 
+- Or, [call Microsoft Support](https://support.office.com/article/contact-support-for-business-products-admin-help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b?ui=en-US&amp;rs=en-US&amp;ad=US#ID0EAADAAA=Phone_support_). 
     
 ## Reset all Office 365 business passwords for everyone in your organization at the same time
 <a name="bkmk_forgot"> </a>
@@ -134,7 +128,7 @@ Check out this great blog post by Vasil Michev, Microsoft MVP: [Force password c
 ## I'm lost!
 <a name="bkmk_forgot"> </a>
 
-Try this article: [I forgot the username or password for the account I use with Office.](https://support.office.com/en-us/article/eba0b4a2-c0ae-472c-99f6-bc63ee2425a8?wt.mc_id=SCL_reset-passwords_AdmHlp)
+Try this article: [I forgot the username or password for the account I use with Office.](https://support.office.com/article/eba0b4a2-c0ae-472c-99f6-bc63ee2425a8?wt.mc_id=SCL_reset-passwords_AdmHlp)
   
 ## Related articles
 <a name="bkmk_forgot"> </a>

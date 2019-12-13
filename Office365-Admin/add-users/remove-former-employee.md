@@ -41,9 +41,6 @@ description: "Follow this checklist to remove an employee from Office 365 and se
 
 ::: moniker range="o365-worldwide"
 
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
 > [!NOTE]
 > If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
@@ -135,7 +132,7 @@ There are two ways you can save the contents of the former employee's mailbox:
     
     Inactive mailboxes can't receive email and aren't displayed in your organization's shared address book or other lists.
     
-    To learn how to place a hold on a mailbox, see [Manage inactive mailboxes in Exchange Online](https://docs.microsoft.com/en-us/office365/securitycompliance/create-and-manage-inactive-mailboxes).
+    To learn how to place a hold on a mailbox, see [Manage inactive mailboxes in Exchange Online](https://docs.microsoft.com/office365/securitycompliance/create-and-manage-inactive-mailboxes).
     
 ## Forward a former employee's email to another employee or convert to a shared mailbox
 <a name="bkmk_forward"> </a>

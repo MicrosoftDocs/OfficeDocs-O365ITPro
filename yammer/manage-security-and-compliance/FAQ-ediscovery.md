@@ -29,7 +29,7 @@ A: Electronic Discovery (commonly referred to as “eDiscovery”) refers to the
 
 **Q: How does Security & Compliance Center for Microsoft 365 support eDiscovery?**
 
-A: Security and Compliance Center offers eDiscovery and Advanced eDiscovery, which you can use to search for content in Exchange Online mailboxes, Microsoft Teams, Yammer conversations, SharePoint Online content, and more. You can use eDiscovery cases in the Security and Compliance Center to identify, hold, and export content found in mailboxes and sites.
+A: Security and Compliance Center offers eDiscovery and Advanced eDiscovery, which you can use to search for content in Exchange Online mailboxes, Microsoft Teams, Yammer conversations, SharePoint Online content, and more. You can use eDiscovery cases in the Security and Compliance Center to identify, hold, and export content found in mailboxes and websites.
 
 See more information and examples about [eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).
 

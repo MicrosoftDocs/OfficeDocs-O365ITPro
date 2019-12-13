@@ -22,13 +22,6 @@ description: "Add new employees to Office 365 for business for email, Skype, and
 
 # Add a new employee to Office 365
 
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
-
 This article helps you onboard a new employee to Office 365 for business. We assume you're an Admin and you've already [completed Office 365 set up](../setup/setup.md), and now you have someone new joining your company.
   
 You're in the right place if your new employee needs Office 365, and you're using an [Office 365 plan](https://products.office.com/business/compare-office-365-for-business-plans) that lets you install Office apps like Word and Excel on a computer. 

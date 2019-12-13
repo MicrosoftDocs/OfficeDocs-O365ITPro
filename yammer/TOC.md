@@ -8,7 +8,7 @@
 ### [Adoption resources](https://resources.techcommunity.microsoft.com/yammer-adoption-resources/)
 ### [Technical community](https://techcommunity.microsoft.com/t5/Yammer/ct-p/Yammer)
 ### [Yammer blog](https://techcommunity.microsoft.com/t5/Yammer-Blog/bg-p/YammerBlog)
-### [Yammer end-user help](https://support.office.com/yammer)
+### [Yammer end user help](https://support.office.com/yammer)
 ## Configure your Yammer network
 ### [Add Yammer basic domains to your Office 365 tenant](configure-your-yammer-network/add-basic-domains-to-office-365.md)
 ### [Configure Yammer](configure-your-yammer-network/configure-yammer.md)
@@ -23,7 +23,6 @@
 ### [Security and compliance overview](manage-security-and-compliance/security-and-compliance.md)
 ### [Yammer security settings](manage-security-and-compliance/yammer-security-settings.md)
 ### [Export Yammer Enterprise data](manage-security-and-compliance/export-yammer-enterprise-data.md)
-### [FAQ: eDiscovery.md] (faq-ediscovery.md)
 ### [Export Yammer Basic data](manage-security-and-compliance/export-yammer-basic-data.md)
 ### [GDPR requests: Yammer Enterprise](manage-security-and-compliance/gdpr-requests-in-yammer-enterprise.md)
 ### [GDPR requests: Yammer Basic](manage-security-and-compliance/gdpr-requests-in-yammer-basic.md)

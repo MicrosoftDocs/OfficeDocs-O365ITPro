@@ -19,7 +19,19 @@ description: "Manage Yammer Enterprise users in Office 365. As you create, delet
 
 # Manage Yammer users across their lifecycle from Office 365
 
-As a global Office 365 administrator, you control the life cycle for Yammer users from Office 365. When you create users in Office 365, they can log on to Yammer with their Office 365 credentials. When a user is deleted from Office 365, he or she is automatically deactivated or suspended in Yammer. When a user is restored in Office 365, he or she is reactivated in Yammer. 
+As a global Office 365 administrator, you control the lifecycle for Yammer users through the Microsoft 365 admin center, in addition to managing them through Yammer.
+
+All groups from Yammer networks that are in Native Mode will be managed through these admin centers. Some of the management capabilities regarding group members or users that can be done through the Microsoft 365 admin center includes:
+
+- Add or remove group members
+- Manage group ownership
+- Delete a group
+- Restore a deleted group
+- Rename the group
+- Update the group description
+- Change the group's privacy setting
+
+When you create users in Office 365, they can log on to Yammer with their Office 365 credentials. When a user is deleted from Office 365, he or she is automatically deactivated or suspended in Yammer. When a user is restored in Office 365, he or she is reactivated in Yammer.
   
 The user's profile properties (such as name and department) from Azure Active Directory are automatically populated in the user's Yammer profile, and any changes to the profile properties in Azure Active Directory are reflected in Yammer as well. While Yammer users can change their profile in Yammer, the user's changes will be overwritten if the properties change in Azure Active Directory.
 

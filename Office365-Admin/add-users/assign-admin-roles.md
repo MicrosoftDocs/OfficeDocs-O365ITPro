@@ -101,26 +101,6 @@ You can assign users to a role in 2 different ways:
 
 ::: moniker-end
 
-## More info about admin role settings
-
-1. In the **Alternative email address** box, type an email address that is not connected to an Office 365 or Microsoft 365 subscription. This email address is used for important notifications, including resetting the password for your admin account, so the person must be able to access this email account if they get locked out of their Microsoft account.
-
-    > [!NOTE]
-    > If you don't want to receive product-related communications at this alternate email address, change your contact preferences on the **About me** page. For more information, see [Change your contact preferences](../manage/change-contact-preferences.md).
-  
-2. Select **Save** \> **Close**.
-
-3. Select **More options** (**...**), and then choose **Edit contact information**. 
-
-4. In the **Mobile phone** box, type the number of a mobile phone—including the country code if the user has one—that can receive a text (SMS) message. This phone number is also used when you reset your password for your admin account.
-You need a mobile phone that's capable of receiving text messages for password reset only if one or both of the following applies to you:
-
-      - Your organization has a custom domain that you've set up to use with your account.
-
-      - Your user accounts are synchronized through directory synchronization.
-
-5. When you have finished, select **Save**.
-
 
 ## Assign admin roles to multiple users
 
@@ -135,9 +115,6 @@ Use the following instructions to assign roles to tens of users.
 
 You might not have the correct permissions and so you don't have access to assign admin roles to other users. Ask another admin to assign roles for you.
 
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
 ::: moniker-end
 
 ## Related articles
@@ -145,3 +122,6 @@ You might not have the correct permissions and so you don't have access to assig
 [Assign roles to user accounts with PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-roles-to-user-accounts-with-office-365-powershell)
 
 [Authorize or remove partner relationships](https://support.office.com/article/201ccb3b-6011-4bf1-a6b2-84e7cc1ee2d0.aspx)
+
+[Add an alternative email address using the Exchange admin center](https://docs.microsoft.com/Exchange/recipients/user-mailboxes/email-addresses?view=exchserver-2019#add-an-email-address-to-a-user-mailbox)
+

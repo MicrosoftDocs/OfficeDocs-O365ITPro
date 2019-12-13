@@ -374,7 +374,7 @@ On your DNS host's website, you'll create three new CNAME records, typically one
 On your DNS host's website, edit the existing SPF record or create a new TXT record for SPF.
   
 > [!IMPORTANT]
-> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/en-us/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/en-us/library/mt734386%28v=exchg.150%29.aspx). 
+> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/library/mt734386%28v=exchg.150%29.aspx). 
   
 1. In the boxes for the new record, type or copy and paste the set of values below that apply to your situation.
     
@@ -399,7 +399,7 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
 On your DNS host's website, edit the existing SPF record or create a new TXT record for SPF.
   
 > [!IMPORTANT]
-> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/en-us/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/en-us/library/mt734386%28v=exchg.150%29.aspx). 
+> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/library/mt734386%28v=exchg.150%29.aspx). 
   
 1. In the boxes for the new record, type or copy and paste the set of values below that apply to your situation.
     
@@ -424,7 +424,7 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
 On your DNS host's website, edit the existing SPF record or create a new TXT record for SPF.
   
 > [!IMPORTANT]
-> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/en-us/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/en-us/library/mt734386%28v=exchg.150%29.aspx). 
+> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/library/mt734386%28v=exchg.150%29.aspx). 
   
 1. In the boxes for the new record, type or copy and paste the set of values below that apply to your situation.
     

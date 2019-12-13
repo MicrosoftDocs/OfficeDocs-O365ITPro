@@ -50,8 +50,6 @@ Save time by starting your service request online. We'll help you find a solutio
 
 5. Enter a description if you like, confirm your contact number and email address, select your preferred contact method, and then select **Contact me**. The expected wait time is indicated in the **Need help?** pane.
 
-For Teams for Linux support you can use the (Linux forum support channel on Microsoft Q&A)[https://docs.microsoft.com/answers/topics/teams.html]. Be sure to use the `teams-linux` tag when posting questions. 
-
 ## [Phone support ](#tab/phone)
 
 Billing support is provided in English from 9 AM-5 PM (9 AM-6 PM in Australia), Monday-Friday.  <br/>Technical support is provided in English 24 hours a day, 7 days a week. <br/> Admins, have your account details ready when you call.<br/>
