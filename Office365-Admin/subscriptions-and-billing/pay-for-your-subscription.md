@@ -26,7 +26,7 @@ ms.custom: okr_SMB
 
 # Pay for your Office 365 for business subscription
 
-When you set up your subscription, you can choose to pay by using credit card or bank account payments, or to pay by invoice using check or electronic funds transfer (EFT) . Whichever method you choose, that is the payment method we will continue to use for subsequent billing periods, unless you [change your payment method](change-payment-method.md).
+When you set up your subscription, you can choose to pay by using credit card or bank account payments, or to pay by invoice using check or electronic funds transfer (EFT). Whichever method you choose, that is the payment method we will continue to use for subsequent billing periods, unless you [change your payment method](change-payment-method.md).
 
 > [!NOTE]
 > Paying by bank account is not available in some countries or regions.
@@ -37,31 +37,27 @@ When you pay by credit card or bank account, you'll be automatically charged for
 
 ### What if my credit card was declined and my payment is past due?
 
-If you pay by credit card, and your credit card is declined, you'll receive an email letting you know that we were unable to process the payment. This can happen for several reasons, including if the credit card has expired. We'll continue to retry the transaction every few days. If those attempts fail, you'll continue to receive email alerts about those failures. You can use the **Pay now** feature at any time to change your credit card information and immediately resubmit the payment.
+If you pay by credit card, and your credit card is declined, you'll receive an email letting you know that we were unable to process the payment. This can happen for several reasons, including if the credit card has expired. We'll continue to retry the transaction every few days. If those attempts fail, you'll continue to receive email alerts about those failures. You can use the **Settle balance** feature at any time to change your credit card information and immediately resubmit the payment.
 
 > [!NOTE]
 > If you switch to a different credit card to pay the outstanding balance on your subscription, that card will be charged for all future automatic payments for that subscription.
 
 ::: moniker range="o365-worldwide"
 
-> [!NOTE]
-> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
-
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Find the subscription with the outstanding balance. In the **Billing** section, select **Pay now**.
+2. Find the subscription with the outstanding balance. In the **Billing** section, next to **Subscription has a past due payment**, select **Settle balance**.
 
 3. If you're the credit card owner, you can change the expiration date for the card, pick a different card, or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
 
     > [!NOTE]
-    > When you use the **Pay now** feature, you'll be charged for the entire outstanding balance on your account, which could be more than the amount due shown elsewhere.
+    > When you use the **Settle balance** feature, you'll be charged for the entire outstanding balance on your account, which could be more than the amount due shown elsewhere.
 
 4. If you're not the credit card owner, you can choose a different credit card or [add a new card](add-update-or-remove-credit-card-or-bank-account.md).
 
-5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, select **Submit payment**.
+5. After you've updated the credit card information or changed the credit card that is used to pay for the subscription, select **Save**.
 
 ::: moniker-end
-
 
 ::: moniker range="o365-germany"
 
