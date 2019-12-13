@@ -84,7 +84,7 @@ If you would like to learn how to get started with general Office 365 services, 
 |Public website ICP registration  <br/> |China Internet compliance policy requires that you get an Internet Content Provider (ICP) number for your public website.  |
 |Public website features  <br/> |Public websites are available only if you purchased Office 365 before March 9, 2015. However, Bing maps, external sharing, and comments are not available in a public web site as these features may send data outside of your country.  <br/> |
 |Newsfeed and Yammer (enterprise social networks)  <br/> |Newsfeed (the social hub where you'll see updates from the people, documents, sites, and tags you're following) is available. Yammer is unavailable.  <br/> |
-|Autohosted apps  <br/> |You can deploy a provider-hosted app that uses SharePoint and SQL Azure. For more information, see [Create a basic provider hosted app for SharePoint](https://msdn.microsoft.com/en-us/library/office/apps/fp142381.aspx). Coming soon is the ability for developers to deploy an app that uses an autohosted web site.  <br/> |
+|Autohosted apps  <br/> |You can deploy a provider-hosted app that uses SharePoint and SQL Azure. For more information, see [Create a basic provider hosted app for SharePoint](https://msdn.microsoft.com/library/office/apps/fp142381.aspx). Coming soon is the ability for developers to deploy an app that uses an autohosted web site.  <br/> |
 |InfoPath  <br/> |Not available.  <br/> |
 |SharePoint Store  <br/> |The Office and SharePoint App Stores are optional services operated by Microsoft Corporation or its affiliate from any of Microsoft's worldwide facilities. The apps available in the Store are provided by various app publishers, and are subject to the app publisher's terms and conditions and privacy statement. Your use of any of these apps may result in your data being transferred to, stored, or processed in any country where the app publisher, its affiliates or service providers maintain facilities. Please carefully review the app publisher's terms and conditions and privacy statements before downloading and using such apps.  <br/> |
 |Office 365 Developer Site: Publish to SharePoint Store using the Seller Dashboard\*  <br/> |Learn about the [requirements for submitting apps for SharePoint](https://go.microsoft.com/fwlink/?LinkId=518102) for distribution to users of Office 365 operated by 21Vianet.  <br/> |
@@ -234,6 +234,6 @@ GDPR grants individuals (or, data subjects) certain rights in connection with th
     
 - System generated logs for Microsoft services operated by 21Vianet can be exported by Tenant Administrators using the Data Log Export.
     
-For details and instructions, see [Data Subject Requests (DSR) for GDPR](https://www.trustcenter.cn/en-us/privacy/gdpr-office365.mdl).
+For details and instructions, see [Data Subject Requests (DSR) for GDPR](https://www.trustcenter.cn/privacy/gdpr-office365.mdl).
   
 
