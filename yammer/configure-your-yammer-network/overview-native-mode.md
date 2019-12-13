@@ -46,39 +46,29 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
 
 ## Key differences between modes
 
-### Native Mode
+| Native Mode | Features                      |
+| ----------- | ----------------------------- |
+|             | No one can inadvertently take your network out of Native Mode |
+|             | (coming soon) eDiscovery through the Security & Compliance center for your home network |
+|             | All Yammer groups and users are managed through Office 365 |
+|             | Office 365 resources for each group |
+|             | All groups, including All Company, are Office 365-connected, which means they have access to Office 365 resources including live events |
+|             | Yammer honors Office 365 group creation rights |
+|             | Consistent file experience throughout Yammer |
 
-- No one can inadvertently take your network out of Native Mode
-
-- (coming soon) eDiscovery through the Security & Compliance center for your home network
-
-- All Yammer groups and users are managed through Office 365
-
-- Office 365 resources for each group
-
-- All groups, including All Company, are Office 365-connected, which means they have access to Office 365 resources including live events
-
-- Yammer honors Office 365 group creation rights
-
-- Consistent file experience throughout Yammer
-
-### Non-Native (or not connected)
-
-- External collaboration
-
-- Allow guest users
-
-- All Yammer users can create groups
-
-- Files can be attached to private messages
-
-- (coming soon) eDiscovery and administration through Office 365 not available
-
-### Hybrid
+| Non-Native </br>   | Features                 |
+| (or not connected) |                          |
+| ------------------ | ------------------------ |
+|                    | External collaboration   |
+|                    | Allow guest users        |
+|                    | All Yammer users can create groups |
+|                    | Files can be attached to private messages |
+|                    | (coming soon) eDiscovery and administration through Office 365 not available |||
 
 | Hybrid | Features                      |
 | ------ | ----------------------------- |
-|        | - A step on the way to Native Mode that lets you understand how Native Mode will work.</br>- Admins can add flags to stop users from taking actions that prevent the network from being eligible for Native Mode. They can address each category separately as part of getting ready for Native Mode.</br>|||
+|        | A step on the way to Native Mode that lets you understand how Native Mode will work.|
+|        | Admins can add flags to stop users from taking actions that prevent the network from being eligible for Native Mode. They can address each category separately as part of getting ready for Native Mode.|||
 
 ## Related articles
 
