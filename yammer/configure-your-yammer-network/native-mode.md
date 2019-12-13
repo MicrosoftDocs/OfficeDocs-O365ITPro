@@ -157,7 +157,7 @@ The following is the expected behavior if a user performs these tasks while the 
 
 ### After migration
 
-- All group files will be [stored in SharePoint](https://go.microsoft.com/fwlink/?linkid=2111253),providing a consistent file management experience.
+- All group files will be [stored in SharePoint](https://go.microsoft.com/fwlink/?linkid=2111253), providing a consistent file management experience.
 
 - File search can happen from SharePoint as well as Yammer. Yammer searches the first 5000 characters of files in Azure cloud storage as well as the title and author, but only searches the title and author of files stored in SharePoint.
 
