@@ -42,7 +42,7 @@ The Microsoft 365 Alignment Tool (“Tool”) will make sure your network meets 
 
 - You must not have any network-level or thread-level guests.
 
-## How does the Tool work with your network?*
+**How does the Tool work with your network?**
 
 The Tool prepares your network for Native Mode by disabling some features and mitigating previously created instances of those features. Those changes include:
 
@@ -77,7 +77,7 @@ The Tool prepares your network for Native Mode by disabling some features and mi
 - Group updates will not work on unconnected groups.
 - File edits will not work on files not in SharePoint.
 
-## What happens when you start the Tool?*
+**What happens when you start the Tool?**
 
 In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint. Having one consistent location for files makes them easier to access for both end users and admins.
 
