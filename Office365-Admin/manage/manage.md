@@ -27,7 +27,7 @@ Quick links for the most common admin tasks in Office 365.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/Office/media/icons/users-people.svg" alt="Add a user" />
+                            <img src="https://docs.microsoft.com/Office/media/icons/users-people.svg" alt="Add a user" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -45,7 +45,7 @@ Quick links for the most common admin tasks in Office 365.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/key-permissions.svg" alt="Forgot username or password" />
+                            <img src="https://docs.microsoft.com/office/media/icons/key-permissions.svg" alt="Forgot username or password" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -160,7 +160,7 @@ Quick links for the most common admin tasks in Office 365.
                         <h3>OneDrive</h3>
                             <p><a href="http://go.microsoft.com/fwlink/p/?LinkId=798319">Get the OneDrive sync client and mobile apps</a></p>
                             <p><a href="https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49">Sync files with the OneDrive sync client in Windows</a></p>
-                            <p><a href="https://docs.microsoft.com/en-us/onedrive/manage-sharing">Manage sharing in OneDrive and SharePoint</a></p>
+                            <p><a href="https://docs.microsoft.com/onedrive/manage-sharing">Manage sharing in OneDrive and SharePoint</a></p>
                             <p><a href="https://docs.microsoft.com/onedrive/set-default-storage-space">Set the default storage space for OneDrive users</a></p>
                             <p><a href="https://support.office.com/article/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2">Fix OneDrive sync problems</a></p>
                             <p><b>More tasks:</b> <a href="https://support.office.com/article/3e21f8f0-e0a1-43be-aa3e-8c0236bf11bb">OneDrive in Office 365</a></p>
@@ -177,7 +177,7 @@ Quick links for the most common admin tasks in Office 365.
                         <h3>SharePoint</h3>
                             <p><a href="https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off">Turn external sharing on or off for SharePoint Online</a></p>
                             <p><a href="https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center">Create and manage sites</a></p>
-                            <p><a href="https://docs.microsoft.com/en-us/sharepoint/planning-hub-sites">Intranet planning guide</a></p>
+                            <p><a href="https://docs.microsoft.com/sharepoint/planning-hub-sites">Intranet planning guide</a></p>
                             <p><a href="https://docs.microsoft.com/sharepoint/manage-site-creation">Manage site creation</a></p>
                             <p><a href="https://docs.microsoft.com/sharepoint/overview-of-search">Customize the search experience</a></p>
                             <p><b>More tasks:</b> <a href="https://docs.microsoft.com/sharepoint/sharepoint-online">SharePoint Online</a></p>
@@ -192,11 +192,11 @@ Quick links for the most common admin tasks in Office 365.
                 <div class="card">
                     <div class="cardText">
                         <h3>Yammer</h3>
-                            <p><a href="https://docs.microsoft.com/en-us/yammer/manage-yammer-users/office-365-sign-in">Office 365 sign-in for Yammer</a></p>
-                            <p><a href="https://docs.microsoft.com/en-us/yammer/manage-yammer-users/manage-users-across-their-lifecycle">Manage Yammer users from Office 365</a></p>
-                            <p><a href="https://docs.microsoft.com/en-us/yammer/configure-your-yammer-network/enforce-office-365-identity">Enforce Office 365 identity for Yammer users</a></p>
-                            <p><a href="https://docs.microsoft.com/en-us/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site">Embed a Yammer feed into a SharePoint site</a></p>
-                            <p><b>More tasks:</b> <a href="https://docs.microsoft.com/en-us/yammer/yammer-landing-page">Yammer admin HELP</a></p>
+                            <p><a href="https://docs.microsoft.com/yammer/manage-yammer-users/office-365-sign-in">Office 365 sign-in for Yammer</a></p>
+                            <p><a href="https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle">Manage Yammer users from Office 365</a></p>
+                            <p><a href="https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity">Enforce Office 365 identity for Yammer users</a></p>
+                            <p><a href="https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site">Embed a Yammer feed into a SharePoint site</a></p>
+                            <p><b>More tasks:</b> <a href="https://docs.microsoft.com/yammer/yammer-landing-page">Yammer admin HELP</a></p>
                     </div>
                 </div>
             </div>
