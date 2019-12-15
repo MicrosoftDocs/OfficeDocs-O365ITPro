@@ -1,7 +1,7 @@
 ---
 title: "What's new in the Microsoft 365 admin center?"
-ms.author: anfowler
-author: adefowler
+ms.author: pebaum
+author: pebaum
 manager: shohara
 audience: Admin
 ms.topic: overview
