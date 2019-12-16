@@ -56,14 +56,15 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
 |               | Yammer honors Office 365 group creation rights |
 |               | Consistent file experience throughout Yammer |
 
-| Non-Native*   | Features                 |
+| Non-Native    | Features                 |
 | ------------- | ------------------------ |
 |               | External collaboration   |
 |               | Allow guest users        |
 |               | All Yammer users can create groups |
 |               | Files can be attached to Private messages |
 |               | (coming soon) eDiscovery and administration through Office 365 |
-*not connected
+>![Note]
+> Non-Native Mode means not connected.
 
 | Hybrid        | Features                 |
 | ------------- | ------------------------ |
