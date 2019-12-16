@@ -46,8 +46,8 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
 
 ## Key differences between modes
 
-| Native Mode | Features                      |
-| ----------- | ----------------------------- |
+| Native Mode | Features                 |
+| ----------- | ------------------------ |
 |             | No one can inadvertently take your network out of Native Mode |
 |             | (coming soon) eDiscovery through the Security & Compliance center for your home network |
 |             | All Yammer groups and users are managed through Office 365 |
@@ -56,13 +56,13 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
 |             | Yammer honors Office 365 group creation rights |
 |             | Consistent file experience throughout Yammer |
 
-| Non-Native*  | Features                 |
-| ------------ | ------------------------ |
-|              | External collaboration   |
-|              | Allow guest users        |
-|              | All Yammer users can create groups |
-|              | Files can be attached to private messages |
-|              | (coming soon) eDiscovery and administration through Office 365 not available |
+| Non-Native* | Features                 |
+| ----------- | ------------------------ |
+|             | External collaboration   |
+|             | Allow guest users        |
+|             | All Yammer users can create groups |
+|             | Files can be attached to private messages |
+|             | (coming soon) eDiscovery and administration through Office 365 not available |
 
 *not-connected
 
