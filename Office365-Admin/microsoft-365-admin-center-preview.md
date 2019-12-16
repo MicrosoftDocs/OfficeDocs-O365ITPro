@@ -1,7 +1,7 @@
 ---
 title: "About the new Microsoft 365 admin center"
-ms.author: anfowler
-author: adefowler
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: overview
