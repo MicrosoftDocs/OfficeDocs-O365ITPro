@@ -1,7 +1,7 @@
 ---
 title: "GDPR simplified A guide for your small business"
-ms.author: supotter
-author: supotter
+ms.author: pebaum
+author: pebaum
 manager: scotv
 audience: Admin
 ms.topic: overview

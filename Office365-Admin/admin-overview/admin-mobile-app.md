@@ -1,7 +1,7 @@
 ---
 title: "About the Microsoft 365 Admin mobile app"
-ms.author: anfowler
-author: adefowler
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: overview
