@@ -34,16 +34,17 @@ Guest access in groups is often used as part of a broader scenario that includes
 
 - [Collaborate with guests in a site](https://docs.microsoft.com/Office365/Enterprise/collaborate-in-a-site)
 - [Collaborate with guests in a team](https://docs.microsoft.com/Office365/Enterprise/collaborate-as-a-team)
+
+## Manage groups guest access
+
+If you want to enable or disable guest access in groups, you can do so in the Microsoft 365 admin center.
+
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services & add-ins</a> page.
+
+2. Select **Office 365 Groups**.
   
-## View guest users
+3. On the **Office 365 Groups** page, choose whether you want to let people outside your organization access group resources or let group owners add people outside your organization to groups.
 
-You can view the guest users that are currently in your directory by going to the Microsoft 365 admin center.
-
-- In the admin center, go to the **Users** > **Guest users** page.
-
-If you want to edit any of the guest's information, you can do so in the Azure Active Directory portal. See [Add or update a user's profile information using Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal) for information.
-
-   
 ## Add guests to an Office 365 group from the admin center
 
 If the guest already exists in your directory, you can add them to your groups from the Microsoft 365 admin center.
@@ -57,17 +58,9 @@ If the guest already exists in your directory, you can add them to your groups f
 5. Select **Save**.
 
 If you want to add a guest to the directory directly, you can [Add Azure Active Directory B2B collaboration users in the Azure portal](https://docs.microsoft.com/azure/active-directory/b2b/add-users-administrator).
+
+If you want to edit any of a guest's information, you can [Add or update a user's profile information using Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
   
-## Manage groups guest access
-
-If you want to enable or disable guest access in groups, you can do so in the Microsoft 365 admin center.
-
-1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services & add-ins</a> page.
-
-2. Select **Office 365 Groups**.
-  
-3. On the **Office 365 Groups** page, choose whether you want to let people outside your organization access group resources or let group owners add people outside your organization to groups.
-
 ## Block guest users from a specific group
 
 If you want to allow guest access to most groups, but have some where you want to prevent guest access, you can block guest access for individual groups by using Microsoft PowerShell.
@@ -107,13 +100,13 @@ The verification looks like this:
     
 ![Screenshot of PowerShell window showing that guest group access has been set to false.](../media/09ebfb4f-859f-44c3-a29e-63a59fd6ef87.png)
   
-## Allow/block guest access based on their domain
+## Allow or block guest access based on their domain
 
 You can allow or block guest users who are using a specific domain. For example, if your business (Contoso) has a partnership with another business (Fabrikam), you can add Fabrikam to your Allow list so your users can add those guests to their groups.
 
 For more information, see [Allow or block invitations to B2B users from specific organizations](https://docs.microsoft.com/azure/active-directory/b2b/allow-deny-list).
 
-## Add guest to the global address list
+## Add guests to the global address list
 
 By default, guests aren't visible in the Exchange Global Address List. Use the steps listed below to make a guest visible in the global address list.
 
