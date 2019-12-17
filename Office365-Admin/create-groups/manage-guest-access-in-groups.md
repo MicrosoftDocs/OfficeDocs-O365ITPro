@@ -28,7 +28,12 @@ When it's turned on, group members can invite guest users to an Office 365 group
 Once approved, the guest user is added to the directory and the group.
 
 > [!NOTE]
-> Office 365 Connected Yammer Groups do not currently support guest access, but you can create non-connected, external groups in your Yammer network. See [Create and manage external groups in Yammer](https://support.office.com/article/9ccd15ce-0efc-4dc1-81bc-4a424ab6f92a.aspx) for instructions. 
+> Office 365 Connected Yammer Groups do not currently support guest access, but you can create non-connected, external groups in your Yammer network. See [Create and manage external groups in Yammer](https://support.office.com/article/9ccd15ce-0efc-4dc1-81bc-4a424ab6f92a.aspx) for instructions.
+
+Guest access in groups is often used as part of a broader scenario that includes SharePoint or Teams. These services have their own guest sharing settings. For complete instructions for setting up guest sharing across groups, SharePoint, and Teams, see:
+
+- [Collaborate with guests in a site](https://docs.microsoft.com/Office365/Enterprise/collaborate-in-a-site)
+- [Collaborate with guests in a team](https://docs.microsoft.com/Office365/Enterprise/collaborate-as-a-team)
   
 ## View guest users
 
@@ -53,7 +58,7 @@ If the guest already exists in your directory, you can add them to your groups f
 
 If you want to add a guest to the directory directly, you can [Add Azure Active Directory B2B collaboration users in the Azure portal](https://docs.microsoft.com/azure/active-directory/b2b/add-users-administrator).
   
-### Manage groups guest access
+## Manage groups guest access
 
 If you want to enable or disable guest access in groups, you can do so in the Microsoft 365 admin center.
 
@@ -63,7 +68,7 @@ If you want to enable or disable guest access in groups, you can do so in the Mi
   
 3. On the **Office 365 Groups** page, choose whether you want to let people outside your organization access group resources or let group owners add people outside your organization to groups.
 
-### Block guest users from a specific group
+## Block guest users from a specific group
 
 If you want to allow guest access to most groups, but have some where you want to prevent guest access, you can block guest access for individual groups by using Microsoft PowerShell.
 
@@ -78,7 +83,7 @@ You must use the preview version of [Azure Active Directory PowerShell for Graph
 > [!NOTE]
 > You must have global admin rights to run these commands. 
 
-Run the following script, changing *<GroupName>* to the name of the group where you want to block guest access.
+Run the following script, changing */<GroupName/>* to the name of the group where you want to block guest access.
 
 ```PowerShell
 $GroupName = "<GroupName>"
@@ -102,13 +107,13 @@ The verification looks like this:
     
     ![The verification](../media/09ebfb4f-859f-44c3-a29e-63a59fd6ef87.png)
   
-### Allow/block guest access based on their domain
+## Allow/block guest access based on their domain
 
 You can allow or block guest users who are using a specific domain. For example, if your business (Contoso) has a partnership with another business (Fabrikam), you can add Fabrikam to your Allow list so your users can add those guests to their groups.
 
 For more information, see [Allow or block invitations to B2B users from specific organizations](https://docs.microsoft.com/azure/active-directory/b2b/allow-deny-list)
 
-### Add guest to the global address list
+## Add guest to the global address list
 
 By default, guests aren't visible in the Exchange Global Address List. Use the steps listed below to make a guest visible in the global address list.
 
@@ -127,8 +132,6 @@ Set-AzureADUser -ObjectId cfcbd1a0-ed18-4210-9b9d-cf0ba93cf6b2 -ShowInAddressLis
 ## Related articles
 
 [Manage Group membership in the Microsoft 365 admin center](add-or-remove-members-from-groups.md)
-  
-[Allow/Deny guest access to Office 365 groups based on their domain](https://go.microsoft.com/fwlink/?linkid=854001)
   
 [Azure Active Directory access reviews](https://docs.microsoft.com/azure/active-directory/active-directory-azure-ad-controls-perform-access-review)
   
