@@ -1,5 +1,6 @@
 ---
 title: "Compare groups in Office 365"
+ms.reviewer: arvaradh
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
