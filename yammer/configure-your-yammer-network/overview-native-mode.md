@@ -18,9 +18,9 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Overview of Native Mode
 
-As of November 2019, all new Yammer Enterprise networks start in Native Mode.
+As of December 2019, all new Yammer Enterprise networks start in Native Mode.
 
-For existing Yammer networks (created before November 2019), they are eligible to migrate to Native Mode and admins can choose which mode suits.
+For existing Yammer networks (coming soon), they are eligible to migrate to Native Mode and admins can choose which mode suits.
 
 In Native Mode, all Yammer users are in Azure Active Directory (AAD), all groups are Office 365 Groups, and all files are stored in SharePoint Online.
 
@@ -36,7 +36,7 @@ A Yammer network must be in one of three modes:
 
 - **Hybrid mode**. In this mode, the network can map users, groups, and content to their counterparts in AAD and Office 365, but that is not required. The network may be in the process of meeting all requirements for Native Mode, but the admin hasn't committed the network to Native Mode.
 
-When you decide to enter your Yammer network in Native Mode, the Microsoft 365 Alignment Tool (“Tool”) automates the process and guides you through the steps to get there. The Tool prepares your network for Native Mode by:
+When you align your Yammer network in Native Mode, the Microsoft 365 Alignment Tool (“Tool”) automates the process and guides you through the steps to get there. The Tool prepares your network for Native Mode by:
 
 - Restricting what can happen in your network to only things that can be associated with Office 365 and Azure Active Directory
 
@@ -46,9 +46,7 @@ When you decide to enter your Yammer network in Native Mode, the Microsoft 365 A
 
 ## Key differences between modes
 
-|Mode|Features|
-|----|--------|
-|Native|
+### Native Mode
 
 - No one can inadvertently take your network out of Native Mode
 
@@ -62,9 +60,9 @@ When you decide to enter your Yammer network in Native Mode, the Microsoft 365 A
 
 - Yammer honors Office 365 group creation rights
 
-- Consistent file experience throughout Yammer|
-|------|-------|
-|Non-Native (or not connected)|
+- Consistent file experience throughout Yammer
+
+### Non-Native (or not connected)
 
 - External collaboration
 
@@ -74,13 +72,13 @@ When you decide to enter your Yammer network in Native Mode, the Microsoft 365 A
 
 - Files can be attached to private messages
 
-- (coming soon) eDiscovery and administration through Office 365 not available|
-|------|-------|
-|Hybrid|
+- (coming soon) eDiscovery and administration through Office 365 not available
+
+### Hybrid
 
 - A step on the way to Native Mode that lets you understand how Native Mode will work.
 
-- Admins can add flags to stop users from taking actions that prevent the network from being eligible for Native Mode. They can address each category separately as part of getting ready for Native Mode.|||
+- Admins can add flags to stop users from taking actions that prevent the network from being eligible for Native Mode. They can address each category separately as part of getting ready for Native Mode.
 
 ## Related articles
 

@@ -1,7 +1,7 @@
 ---
 title: "What's next for the Microsoft 365 admin center"
-ms.author: anfowler
-author: adefowler
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: overview
