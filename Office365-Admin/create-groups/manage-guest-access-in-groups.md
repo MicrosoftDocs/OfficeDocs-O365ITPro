@@ -105,13 +105,13 @@ Get-AzureADObjectSetting -TargetObjectId $groupID -TargetType Groups | fl Values
 
 The verification looks like this:
     
-    ![The verification](../media/09ebfb4f-859f-44c3-a29e-63a59fd6ef87.png)
+![Screenshot of PowerShell window showing that guest group access has been set to false.](../media/09ebfb4f-859f-44c3-a29e-63a59fd6ef87.png)
   
 ## Allow/block guest access based on their domain
 
 You can allow or block guest users who are using a specific domain. For example, if your business (Contoso) has a partnership with another business (Fabrikam), you can add Fabrikam to your Allow list so your users can add those guests to their groups.
 
-For more information, see [Allow or block invitations to B2B users from specific organizations](https://docs.microsoft.com/azure/active-directory/b2b/allow-deny-list)
+For more information, see [Allow or block invitations to B2B users from specific organizations](https://docs.microsoft.com/azure/active-directory/b2b/allow-deny-list).
 
 ## Add guest to the global address list
 
@@ -136,3 +136,5 @@ Set-AzureADUser -ObjectId cfcbd1a0-ed18-4210-9b9d-cf0ba93cf6b2 -ShowInAddressLis
 [Azure Active Directory access reviews](https://docs.microsoft.com/azure/active-directory/active-directory-azure-ad-controls-perform-access-review)
   
 [Migrate distribution lists to Office 365 Groups](../manage/upgrade-distribution-lists.md)
+
+[Set-AzureADUser](https://docs.microsoft.com/powershell/module/azuread/set-azureaduser)
