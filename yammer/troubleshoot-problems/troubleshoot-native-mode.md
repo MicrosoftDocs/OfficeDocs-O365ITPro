@@ -20,7 +20,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 ## What can end users expect during migration
 
-We recommend you communicate the change to Native Mode to your end users. Early communication will prevent surprises, such as the inability to invite guests, add files to private messages, or create non-connected groups.
+We recommend you communicate to your end users your plan to change to Native Mode. Early communication will prevent surprises, from changes such as, users requiring Office 365 Group creation rights to create groups in Yammer, not being able to create external groups, and/or file attachments no longer being supported in Yammer private messages.
 
 ### What should I include in our communications to users
 
@@ -28,13 +28,15 @@ Below is some content you can use as-is or modify to meet your needs when you're
 
 We are getting our Yammer network ready to support required compliance and security policies for our organization. Here are some changes you will see rolling out over the next few weeks:
 
-- All unlisted private groups will be listed on __/__/__. Non-members will be able to see the group in search results and other areas, but only members can access the content. If you don't want your group listed, delete it before that date. You can also change the name of the group if the concern is that people will identify the purpose of the group based on the name.
+- All unlisted private groups will become private listed groups on <date>. Non-members will be able to see the group in search results and other areas, but only members can access the content. If you don't want your group to be visible to non members, you must delete it before that date. You can also change the name of the group if the concern is that people will identify the purpose of the group based on the name.
 
-- All network, group, and conversation-level guests from our Yammer network will be removed on __/__/__. We will send each guest an explanation.
+- All network, group, and conversation-level guests from our Yammer network will be removed on <date>. We will send each guest an explanation.
 
-- All Yammer group files will be stored in SharePoint on __/__/__.
+- All Yammer group files will be stored in SharePoint beginning on <date>. This means previously uploaded group files will be migrated to SharePoint and all new file uploads will be saved to SharePoint.
 
-- All files that were previously uploaded on Yammer private messages will be deleted on __/__/__. No new files will be uploaded in Yammer private messages. This change does not impact file uploads in Teams chats.
+- All files that were previously uploaded on Yammer private messages will be deleted on <date>. No new files will be uploaded in Yammer private messages. This change does not impact file uploads in Teams chats.
+
+- Beginning <date> users will need to have Office 365 Group creation rights in order to create a group in Yammer. If you do not currently have Office 365 Group creation rights, you will no longer be able to create groups in Yammer. Please reach out to your manager if you do not have Office 365 Group creation rights, but feel you need to do so to perform your job.
 
 ## Questions and answers about general issues
 
@@ -44,7 +46,7 @@ While new networks will start out in Native Mode, existing networks will need to
 
 ### Should I align my network to be in Native Mode
 
-The answer to this question depends on the unique needs and situation of your organization. While Native Mode provides many benefits to users and administrators, there are some features that cannot currently be supported in Native Mode because the features are not supported by Office 365 Groups or Azure Active Directory ("AAD"). On one hand, if it is particularly important for you organization to be able to centralize administration and governance as much as possible, then being in Native Mode makes sense. On the other hand, if it is critical for your network to continue using Yammer features that are not supported in Native Mode, you may want to hold off in moving to Native Mode until later.
+The answer to this question depends on the unique needs and situation of your organization. While Native Mode provides many benefits to users and administrators, there are some features that cannot currently be supported in Native Mode because the features are not supported by Office 365 Groups or Azure Active Directory ("AAD"). On one hand, if it is particularly important for your organization to be able to centralize administration and governance as much as possible, then being in Native Mode makes sense. On the other hand, if it is critical for your network to continue using Yammer features that are not supported in Native Mode, you may want to hold off in moving to Native Mode until later.
 
 ### Is it possible for an network that is in Native Mode to get out of Native Mode
 
@@ -67,33 +69,37 @@ All users must be in AAD, which means . . .
 - Office 365 Identity must be enforced in the home network.
 - No Network Level Guests in the network.
 - No Group Level Guests in the network because those users do not currently map to users in AAD.
-- No (flexternal) Thread-level Guests.
+- No thread-level Guests.
 - No inactive unmapped users (for example, a user with Yammer authentication who was not deleted when they left the organization).
 
 All groups must be connected, which means . . .
 
-- Only users with Office 365 Group Creation Rights can create groups in Yammer.
+- Only users with Office 365 Group creation rights can create groups in Yammer.
 - No Yammer group can be created until we can ensure the group is connected.
-- No Unlisted (or secret) Groups or External Groups, because those groups are not currently connectable.
+- No unlisted private groups or external groups, because those groups are not currently connectable.
 
 ### How does a network enter Native Mode for Microsoft 365
 
 **New Networks**
-After December 2019, all new networks will begin in Native Mode. This means they will have a different feature set than existing customers as there are some existing features that cannot be supported by Azure Active Directory (AAD).
+After December 2019, all new networks will begin in Native Mode. This means they will have a different feature set than existing customers as there are some existing features that aren't supported by Azure Active Directory (AAD), and so cannot be available in Native Mode.
 
 **Existing Networks**
 Existing networks will be able to lock themselves in to Native Mode by using the Microsoft 365 Alignment Tool to mitigate any areas where their network is incompatible with the feature set of Native Mode.
 
+### What happens to users who don’t have Office 365 Group creation rights
+
+If your network enforces Office 365 Group creation rights, users without those rights will no longer be able to create groups in Yammer. We recommend that all users be able to create Yammer groups so that your entire organization can enjoy the benefits of an open, collaborative network.
+
 ### What about users who are not in Azure Active Directory ("AAD")
 
 - *Why would I have users not in AAD in my network if I enforce Office 365 Identity?*
-  Enforcing Office 365 Identity does not remove users from your network; rather, it prevents users without Office 365 identity from logging on to your network. Most customers who do have users in their Yammer network that are not in AAD, will find that these users have not been active in the network since Office 365 Identity was enforced for the network or, even further back. if the users weren't removed from the network when they left your organization.
+  Enforcing Office 365 Identity does not remove users from your network who left your organization prior to your organization enforcing Office 365 identity. Most customers who do have users in their Yammer network that are not in AAD, will find that these users have not been active in the network since Office 365 Identity was enforced for the network or, even further back.
 
 - *Why would some of these users have recent activity?*
   At the time a network chooses to enforce Office 365 Identity, the administrator can choose whether or not to log out all logged in users to the network. If your network did not force all users to log out, it is possible that some of these users have remained active enough that they've not needed to try to log in.
 
 - *What should I do about users who are not in AAD?*
-  The downloadable report provides information on what users in your Yammer network are not in (or mapped to an account in) Azure Active Directory. We recommend you use the information in the report to help you decide whether these users should continue to have access to the network. In some cases, you may need to create a new AAD account for a user if you do wish to provide continued Yammer access to these users. In some cases, these accounts may be service accounts or bots, rather than specific end users.
+  The downloadable Alignment Tool report provides information on what users in your Yammer network are not in (or mapped to an account in) Azure Active Directory. We recommend you use the information in the report to help you decide whether these users should continue to have access to the network. In some cases, you may need to create a new AAD account for a user if you do wish to provide continued Yammer access to these users. In some cases, these accounts may be service accounts or bots, rather than specific end users.
 
 - *Why would a user not be in AAD?*
   There are multiple reasons why:
@@ -114,19 +120,15 @@ Existing networks will be able to lock themselves in to Native Mode by using the
 - *What does the Tool do for pending users?*
   The Tool will first try to associate the pending user with an account in AAD for your Office 365 tenant. If that association is successful, the user will remain in the network. If we are not able to associate the pending user with an AAD account on your tenant, then we will delete the user.  
 
-### Is it possible for a Native Mode network to revert back to its previous state
-
-No. Once an IT admin commits their Yammer Enterprise network to Microsoft 365 Native Mode, it will stay that way permanently. *The state is irreversible.*
-
 ### What features aren't supported in Native Mode and why aren't they supported
 
-- *Native Mode does not support external groups*: Users from Native Mode networks can, if allowed by your Yammer Security Settings, collaborate in external groups in other Yammer networks that are not in Native Mode. In addition, External Networks will continue to be supported for Native Mode Yammer networks. We do plan to add support for external groups through Azure Active Directory B2B in Native Mode networks in the future. The downloadable report from the Tool will provide you with information on the quantity and usage of external groups in your network.
+- *Native Mode does not support external groups within its own network*: Yammer’s current external collaboration capabilities, including external groups, are not compatible with Azure B2B. As a result, Native Mode networks cannot host an external group. Users from Native Mode networks can, if allowed by your Yammer Security Settings, collaborate in external groups in other Yammer networks that are not in Native Mode. In addition, External Networks will continue to be supported for Native Mode Yammer networks. We are planning to support in Native Mode for Azure B2B in the future. The downloadable Alignment Tool report will provide you with information on the quantity and usage of external groups in your network.
 
-- *Native Mode does not support private unlisted groups*: As of December 2019, AAD and Office 365 Groups don't support this feature. If Yammer tried to offer this feature, groups would be unlisted in Yammer, but fully discoverable through other channels. The downloadable report from the Tool will provide you with information on the quantity and usage of private unlisted groups in your network.
+- *Native Mode does not support private unlisted groups*: As of December 2019, AAD and Office 365 Groups don't support this feature, so it is not possible for us to offer it in Native Mode networks. The downloadable Alignment Tool report will provide you with information on the quantity and usage of private unlisted groups in your network.
 
-- *Native Mode does not support network guests*: Network guests is a feature that is rarely used by most networks. Network guests in Yammer do not have an associated AAD identity that is mapped to their Yammer identity, so we are unable to support that feature in Native Mode. The downloadable report from the Tool will provide you with information on the quantity and activity of guests in your network.
+- *Native Mode does not support (network) guests*: The (network) guests feature is rarely not compatible with Azure B2B so, guests in Yammer cannot have their Yammer identity, mapped to an associated AAD identity. As a result, we are unable to support the guest feature in Native Mode networks. The downloadable Alignment Tool report will provide you with information on the quantity and activity of guests in your network.
 
-- *File uploads in Yammer Private messages*: In order to be in Native Mode, all files uploaded in Yammer must be stored in SharePoint. Yammer Private messages do not store files in SharePoint, so Native Mode networks must delete any previously uploaded private message files through the Tool, and users will no longer be able to upload files in Private messages going forward. The downloadable report from the Tool will provide you with information on the quantity of files previously uploaded in Private messages.
+- *File uploads in Yammer Private messages*: In order to be in Native Mode, all files uploaded in Yammer must be stored in SharePoint. Since Yammer private messages do not store files in SharePoint or OneDrive for Business, so Native Mode networks must delete any previously uploaded private message files through the Tool, and users will no longer be able to upload files in Private messages going forward. The downloadable Alignment Tool report will provide you with information on the quantity of files previously uploaded in Private messages.
 
 - *External participants*: Yammer currently allows users to add external participants to individual threads. This feature is very rarely used, and few users know of its availability. This feature is not currently compatible with the Azure B2B guest model, and so won't be supported in Native Mode networks.
 
