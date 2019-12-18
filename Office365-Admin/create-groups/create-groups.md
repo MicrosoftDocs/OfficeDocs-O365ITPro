@@ -70,7 +70,7 @@ While users can create an Office 365 group from Outlook or other apps, as an adm
 
 8. Select **Close**.
     
-## Configure the group
+## Add members to the group
 
 Once the group has been created, you can add members and configure additional settings.
 
@@ -127,86 +127,6 @@ Users can [add themselves or request approval](https://support.office.com/articl
     
 The group will appear in Outlook with members assigned to it.
   
-::: moniker-end
-
-
-### Send copies of conversations to group members' inboxes
-  
-When you use the admin center to create a group, by default users  do not get copies of group emails and meeting invitations sent to their inboxes. They'll need to go to the group to see conversations and meetings. You can change this setting in the admin center.
-
-When you turn this setting on, group members will get a copy of group emails and meeting invitations sent to their Outlook Inbox. They can read and delete this copy of the email and not affect anyone else. In the Group inbox, a copy of the email still exists.
-
-Group members can opt out of receiving these emails by choosing to stop following the group in Outlook.
-
-::: moniker range="o365-worldwide"
-
-1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page, and then select the name of the group you want to change. 
-
-2. On the **Settings** tab, select **Send copies of group conversations and events to group members** if you want members to receive copies of group messages and calendar items in their own inbox.
-
-3. Select **Save**.
-
-::: moniker-end
-
-::: moniker range="o365-germany"
-
-1. In the admin center, go to the **Groups** \> **Groups** page, and then select the group you want to change.
-
-2. Next to **Name**, select **Edit**.
-
-3. Turn **Send copies of group conversations and events to group members' inboxes** to **On** if you want members to receive copies of group messages and calendar items in their own inbox.
-
-4. Select **Save**.
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-1. In the admin center, go to the **Groups** \> **Groups** page, and then select the group you want to change.
-
-2. Next to **Name**, select **Edit**.
-
-3. Turn **Send copies of group conversations and events to group members' inboxes** to **On** if you want members to receive copies of group messages and calendar items in their own inbox.
-
-4. Select **Save**.
-
-::: moniker-end
-
-### Let people outside the organization email the group
-
-This option is great if you want to have a company email address such as info@contoso.com.
- 
-::: moniker range="o365-worldwide"
-
-1. Refresh your admin center page so your new group appears.
-
-2. In the admin center groups list, select the name of the group you want to change, and then on the **Settings** tab, select **Allow external senders to email this group**.
-    
-4. Select **Save**.
-
-::: moniker-end
-
-::: moniker range="o365-germany"
-
-1. Refresh your admin center page so your new group appears.
-    
-2. In the admin center groups list, select the group you want to change, and then next to **Name**, select **Edit**. 
-    
-3. Set the **Let people outside the organization email the group** toggle to **On**.
-    
-4. Select **Save**.
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-1. Refresh your admin center page so your new group appears.
-    
-2. In the admin center groups list, select the group you want to change, and then next to **Name**, select **Edit**. 
-    
-3. Set the **Let people outside the organization email the group** toggle to **On**.
-    
-4. Select **Save**.
-
 ::: moniker-end
 
 
