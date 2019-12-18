@@ -49,6 +49,6 @@ To edit plans, do one of the following:
 
 Once you have permissions or are signed in as the user, you can change or remove any plan, task, or other content that should no longer reference the user.
 
-## See Also
+## Related articles
 
 [Export user data from Microsoft Planner](export-user-data.md)

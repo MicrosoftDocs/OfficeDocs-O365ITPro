@@ -1,7 +1,7 @@
 ---
 title: "About the Exchange Online admin role"
-ms.author: anfowler
-author: adefowler
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: overview
@@ -52,5 +52,5 @@ If you have a large organization, the Exchange admin might want to assign users 
     
 - [About the SharePoint Online admin role](https://docs.microsoft.com/sharepoint/sharepoint-admin-role)
     
-- [About the Skype for Business admin role](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-online)
+- [About the Skype for Business admin role](https://docs.microsoft.com/skypeforbusiness/skype-for-business-online)
     

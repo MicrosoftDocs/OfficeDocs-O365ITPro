@@ -151,16 +151,16 @@ When you use the **Licenses** page to unassign licenses, you unassign licenses f
 
    Also, the user's mailbox is no longer searchable by using an eDiscovery tool such as Content Search or Advanced eDiscovery when the license is removed. For more information, see the "Searching disconnected or de-licensed mailboxes" section in [Content Search in Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search#searching-disconnected-or-de-licensed-mailboxes).
 
-- If you have an Enterprise subscription, like Office 365 Enterprise E3, Exchange Online lets you preserve the mailbox data of a deleted user account by using [inactive mailboxes](https://docs.microsoft.com/en-us/office365/securitycompliance/inactive-mailboxes-in-office-365). For more information, see [Create and manage inactive mailboxes in Exchange Online](https://docs.microsoft.com/en-us/office365/securitycompliance/create-and-manage-inactive-mailboxes).
+- If you have an Enterprise subscription, like Office 365 Enterprise E3, Exchange Online lets you preserve the mailbox data of a deleted user account by using [inactive mailboxes](https://docs.microsoft.com/office365/securitycompliance/inactive-mailboxes-in-office-365). For more information, see [Create and manage inactive mailboxes in Exchange Online](https://docs.microsoft.com/office365/securitycompliance/create-and-manage-inactive-mailboxes).
 
 - For information about how to block a user's access to Office 365 data after their license has been removed and how to get access to the data afterwards, see [Remove a former employee](../add-users/remove-former-employee.md).
 
 - If you remove a user's license and they still have Office installed, they see [Unlicensed Product notifications](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx) when they use Office.
 
-## Related topics
+## Related articles
 
-- [Understand subscriptions and licenses](../subscriptions-and-billing/subscriptions-and-licenses.md)
+[Understand subscriptions and licenses](../subscriptions-and-billing/subscriptions-and-licenses.md)
 
-- [Remove licenses from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md)
+[Remove licenses from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md)
 
-- [Assign licenses to users](assign-licenses-to-users.md)
+[Assign licenses to users](assign-licenses-to-users.md)

@@ -80,7 +80,7 @@ Here is a simple flow chart to help you quickly get set up with a visually appea
       - **Text and icon color**: Choose a color that contrasts against the brand color you chose for the **Navigation bar color**. We recommend #252423 for a dark color and #FAF9F7 for a light color.
       - **Accent color**: A dark brand color. With certain applications, this color must be visible on a light background.
   
-## See Also
+## Related articles
 
 [Add custom tiles to the My apps page and app launcher](../manage/customize-the-app-launcher.md)
   

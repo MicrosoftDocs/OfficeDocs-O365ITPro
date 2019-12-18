@@ -22,24 +22,19 @@ search.appverid:
 - ODB150
 - ODB160
 ms.assetid: 7aa9cdc8-2245-4218-81ee-86fa7c35f1de
-description: "Learn how to use OneDrive for Business and a team site for file storage and sharing."
+description: "Learn how to use OneDrive and a team site for file storage and sharing."
 ---
 
 # Set up Office 365 file storage and sharing
 
-One of the best ways to set up file storage and sharing for your business is to use OneDrive for Business and a team site together. This is ideal if you have a small business with a few employees.
-  
-Office 365 includes a basic team site for you to get started. You can immediately start storing files in OneDrive and collaborating on files in the team site.
-
-> [!NOTE]
-> The basic team site is still provided but is now hidden. It can only be accessed from the Microsoft 365 admin center or the SharePoint Online admin center.
+One of the best ways to set up file storage and sharing for your business is to use OneDrive and a team site together. This is ideal if you have a small business with a few employees.
   
 ## Where you can store documents in Office 365
 
 
 - OneDrive is designed for individual use, with the occasional sharing of files. 
     
-- A SharePoint team site is designed for sharing and collaborating on files regularly. A team site is ideal for storing files that have shared ownership where several people own the files and might collaborate on them. Create a Microsoft Team to add a SharePoint site. [Learn more at Create a team in Teams](https://support.office.com/article/174adf5f-846b-4780-b765-de1a0a737e2b).
+- A team site is designed for sharing and collaborating on files regularly. A team site is ideal for storing files that have shared ownership where several people own the files and might collaborate on them. Create a Microsoft Team to add a team site. [Learn more at Create a team in Teams](https://support.office.com/article/174adf5f-846b-4780-b765-de1a0a737e2b).
     
 Both OneDrive and team sites provide anywhere access for you and your employees.
   
@@ -51,7 +46,7 @@ Here are recommendations for what to store in each location when you use OneDriv
 |:-----|:-----|:-----|
 |**Storage location** <br/> |**What it's for** <br/> |**What to store here** <br/> |
 |**OneDrive** <br/> |Storing content in OneDrive is like storing files on your computer; no one else can easily access them.  <br/> For more info, see [What is OneDrive for Business?](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2.aspx) <br/> |Business files that other team members won't need to collaborate on or access regularly.  <br/> |
-|**SharePoint team sites** <br/> |Collaboration. When you create an Office 365 group (for example, in the Microsoft 365 admin center, in Outlook, or by creating a team in Microsoft Teams) a SharePoint team site is created for that group. Likewise, when you create a new SharePoint team site from the SharePoint home page or from the new SharePoint admin center preview, it also creates an Office 365 group. For more info see [What is a SharePoint team site?](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e.aspx) and [Create a team site in SharePoint Online](https://support.office.com/article/ef10c1e7-15f3-42a3-98aa-b5972711777d.aspx).  <br/> |Files that have shared ownership. We recommend separate team sites for each unit of work in your organization. For example, to keep personnel and financial documents private to a small team, create a separate team site.  <br/> |
+|**SharePoint team sites** <br/> |Collaboration. When you create an Office 365 group (for example, in the Microsoft 365 admin center, in Outlook, or by creating a team in Microsoft Teams) a SharePoint team site is created for that group. Likewise, when you create a new SharePoint team site from the SharePoint home page or from the new SharePoint admin center, it also creates an Office 365 group. For more info, see [What is a SharePoint team site?](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e.aspx) and [Create a team site in SharePoint Online](https://support.office.com/article/ef10c1e7-15f3-42a3-98aa-b5972711777d.aspx).  <br/> |Files that have shared ownership. We recommend separate team sites for each unit of work in your organization. For example, to keep personnel and financial documents private to a small team, create a separate team site.  <br/> |
    
 > [!NOTE]
 > SharePoint also has other types of sites you can use for your business. You can use [communication sites](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb.aspx) in your intranet to publish information for a broad audience. And you can use [hub sites](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f.aspx) to connect sites in your intranet. 
@@ -91,28 +86,10 @@ Here's how each person on your team can set up OneDrive and share files.
     
     ![Email with link to share OneDrive folder](../media/750c92e1-f14f-404c-a6a3-2095e26c680c.png)
   
-### Explore your team site
-
-Office 365 includes a basic team site with some features to help you get started. Only the people in your business can access this internal website.
   
-Here's how you get to your team site:
-  
-1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>, and sign in with your user name and password. 
-    
-2. From the App launcher, select **SharePoint**, then choose your team site link on the left-hand navigation menu. 
-    
-3. You'll see your team's home page. This page includes:
-    
-  - The main page displays team **News** and **Activity**, such as new files added or recently edited. 
-    
-  - The **+New** button to add elements to the home page, such as a document library, list, or new page. 
-    
-  - The left-hand navigation menu to get to other areas on your team site, like the team document library.
+### Upload files to a team site for online collaboration
 
-  
-### Upload files to your team site for online collaboration
-
-To help you get started storing and sharing files quickly, your team site comes with a place to store files. It's called the **Documents library** as in a "library of documents." 
+Team sites come with a place to store files, called a document library.  
   
 Here are the steps to add files:
   
@@ -177,7 +154,7 @@ Here are a few tips for getting the most from OneDrive or your SharePoint team s
 
 When you store a file in OneDrive it's only accessible by you, unless you share it with others. When you share files, you can choose to create a link that can be forwarded, or to share with only specific people. You can also create separate folders in OneDrive for different purposes such as public, personal, or for individual projects. Each folder can be shared with a different person or group, or nobody else at all.
   
-For more information on sharing, also see [Share files and folders in OneDrive for Business](https://support.office.com/article/72f26d6c-bf9e-432c-8b96-e3c2437f5b65.aspx).
+For more information on sharing, also see [Share files and folders with Office 365](https://support.office.com/article/72f26d6c-bf9e-432c-8b96-e3c2437f5b65.aspx).
   
 ### Track how much space you have left
 
@@ -189,7 +166,7 @@ While you can upload almost all types of files, some file names and characters i
   
 ### Enable or disable third-party storage services
 
-You can enable third-party storage for your users in Office 365 so they can store and share documents using services like Dropbox in addition to OneDrive for Business and team sites. This can be a great way to provide services that your users may already be using or prefer to use for business projects. If you don't want people in your organization using Office to open files in a third-party service, follow these steps to turn it off.
+You can enable third-party storage for your users in Office 365 so they can store and share documents using services like Dropbox in addition to OneDrive and team sites. This can be a great way to provide services that your users may already be using or prefer to use for business projects. If you don't want people in your organization using Office to open files in a third-party service, follow these steps to turn it off.
   
 > [!IMPORTANT]
 > Third-party storage is enabled by default so you need to perform these steps right away if you don't want it available to your users. 
@@ -202,7 +179,7 @@ You can enable third-party storage for your users in Office 365 so they can stor
     
 ## Next steps
 
-- [Customize your team site for file storage and sharing](customize-team-site.md) . This step-by-step tutorial shows you how to you can take advantage of more storage and collaboration features. 
+- [Customize your team site for file storage and sharing](customize-team-site.md). This step-by-step tutorial shows you how to you can take advantage of more storage and collaboration features. 
     
 - **Set up Office apps on your tablets and phones.** You need to do this so you can **edit** files that are stored in OneDrive and on team sites from your tablet or phone. If you don't install the Office apps for your tablet or phone, you'll be able to view the files but not edit them. 
     

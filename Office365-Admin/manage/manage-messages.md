@@ -21,8 +21,6 @@ description: "Learn to manage Message center messages to help with change manage
 
 # Manage messages in Message center
 
-[![Label to let you know the admin center is changing and you can find more details at aka.ms/aboutM365preview.](../media/O365-Admin-AdminCenterChanging.png)](../microsoft-365-admin-center-preview.md)
-
 Message center posts are important announcements about new and changed features. This article provides more information about the things you can do with messages to help with change management in your organization.
   
 ## Read a message

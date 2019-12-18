@@ -66,7 +66,7 @@ If you receive an error message after you enter your promo code, there may be a 
   
 - **The promo code you are using is for the wrong geographical region.** Some promo codes are only valid for a particular country or region. Promo codes don't work in a country or region other than the one for which they were created.
   
-## Related topics
+## Related articles
 
 [Buy a subscription from your free trial](../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md)
   

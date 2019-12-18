@@ -107,13 +107,17 @@ If you prepaid for your subscription with a product key, your subscription will 
 
 ::: moniker-end
 
-## Related topics
+## Related articles
 
 [Reactivate your subscription](reactivate-your-subscription.md)
   
 [Add, update, or remove a credit card or bank account](add-update-or-remove-credit-card-or-bank-account.md)
   
 [What happens to my data and access when mysubscription ends?](what-if-my-subscription-expires.md)
+
+[Add, update, or remove your payment methods](add-update-or-remove-credit-card-or-bank-account.md)
+
+[Change your payment method](change-payment-method.md)
   
 [Enter your product key](../misc/enter-your-product-key.md)
   

@@ -117,7 +117,7 @@ Yammer provides a number of tools, templates, and support resources for planning
     
 - The [Yammer site status](https://status.yammer.com/) page contains the latest details on the health of your Yammer site. 
     
-## See also
+## Related articles
 
 [Pick your enterprise social network: Yammer or Newsfeed?](../integrate-yammer-with-other-apps/yammer-and-newsfeed.md)
   

@@ -23,15 +23,8 @@ description: "Learn how you can have more than one email address, called email a
 ---
 
 # Add another email alias for a user
-
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and  your location to schedule an appointment.
-
-::: moniker-end
   
-This article is for Office 365 global admins who have business subscriptions. It's not for home users.
+This article is for Office 365 administrators who have business subscriptions. It's not for home users.
   
 A primary email address in Office 365 is usually the email address a user was assigned when their account was created. When the user sends email to someone else, their primary email address is what typically appears in the  *From*  field in email apps. They can also have more than one email address associated with their Office 365 for business account. These additional addresses are called aliases. 
   
@@ -155,9 +148,10 @@ If you get the error message "**A parameter cannot be found that matches paramet
 
 If you purchased your subscription from GoDaddy or another Partner, to set the new alias as the primary, you must go to the GoDaddy/partner management console.
   
-## See Also
-
+## Related articles
 
 [Send email from a different address](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e.aspx)
+
+[Change a user name and email address](../add-users/change-a-user-name-and-email-address.md)
   
 

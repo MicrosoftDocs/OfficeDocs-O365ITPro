@@ -29,13 +29,18 @@ ms.custom: okr_SMB
 # Buy or edit an add-on for Office 365 for business
 
 Several of the Office 365 for business plans have add-ons that you can buy for your subscription. An add-on provides additional functionality to the subscription that you buy it for.
-  
-## Buy an add-on
+
 
 ::: moniker range="o365-worldwide"
 
 > [!NOTE]
 > If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
+::: moniker-end 
+
+## Buy an add-on
+
+::: moniker range="o365-worldwide"
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=868433" target="_blank">Purchase services</a> page.
 
@@ -110,9 +115,6 @@ The steps that you use to update an add-on depend on whether the add-on is a tra
 
 ::: moniker range="o365-worldwide"
 
-> [!NOTE]
-> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
-
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
 2. On the **Products & services** page, select the subscription for which you want to update an add-on.
@@ -177,9 +179,6 @@ The steps that you use to update an add-on depend on whether the add-on is a tra
 
 ::: moniker range="o365-worldwide"
 
-> [!NOTE]
-> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
-
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
 2. On the **Products & services** page, select the add-on subscription that you want to update, and then select **Add/Remove licenses**.
@@ -227,7 +226,7 @@ You can cancel a standalone add-on the same way that you [cancel a subscription]
 
 The following table lists add-ons that are available for different editions of Office 365 for business.
   
-For information about Skype for Business add-ons, see [Skype for Business and Microsoft Teams add-on licensing](https://docs.microsoft.com/en-us/SkypeForBusiness/skype-for-business-and-microsoft-teams-add-on-licensing/skype-for-business-and-microsoft-teams-add-on-licensing).
+For information about Skype for Business add-ons, see [Skype for Business and Microsoft Teams add-on licensing](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-and-microsoft-teams-add-on-licensing/skype-for-business-and-microsoft-teams-add-on-licensing).
   
 ****
 
@@ -245,6 +244,6 @@ For information about Skype for Business add-ons, see [Skype for Business and Mi
 |Domestic Calling Plan in Office 365  <br/> | Office 365 Enterprise E5  <br/> |
 |International Calling Plan in Office 365  <br/> | Office 365 Enterprise E5  <br/> |
   
-## Related topics
+## Related articles
 
 [Add storage space for your subscription](add-storage-space.md)

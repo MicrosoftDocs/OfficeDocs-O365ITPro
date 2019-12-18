@@ -97,29 +97,37 @@ If you pay by invoice, you can add or change the purchase order (PO) number for 
 
 ::: moniker range="o365-worldwide"
 
-> [!NOTE]
-> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+### Use the new admin center to change your purchase order number
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Select the subscription you want to change, and in the **Settings & Actions** section, select **Edit payment details**.
-  
-3. At the bottom of the **Edit payment details** pane, enter your PO number, then select **Save**.
+2. If you’re in **Table** view, select **Cards** to switch views.
+
+3. Find the subscription that you want to change.
+
+4. In the **Billing** section, next to **invoice**, select **Edit**.
+
+5. At the bottom of the **Edit payment details** pane, enter your PO number, then select **Save**.
+
+### Use the old admin center to change your purchase order number
+
+1. In the admin center, go to the **Billing** > <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
+
+2. Select the subscription that you want to change, and in the **Payment method** section, select **Update payment details**.
+
+3. In the **Update payment details** pane, select **No thanks**.
+
+4. At the bottom of the **Update payment details** pane, enter your PO number, select **Submit**, then **Close**.
 
 ::: moniker-end
-
 
 ::: moniker range="o365-germany"
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
-2. Select the subscription you want to change, and in the **Payment method** section, select **Change payment details**.
+2. Select the subscription that you want to change, and in the **Payment method** section, select **Change payment details**.
 
-    ![Screen shot of the Payment method section of a subscription card for a subscription paid by invoice.](../media/95d86601-c8db-4f66-9fee-6f52ec337015.png)
-  
 3. At the bottom of the **Change payment details** pane, enter your PO number, then select **Submit**.
-
-    ![Screen shot of the Change payment details pane.](../media/c08bfeea-d3fc-4eb5-b7d1-d2b23e74b814.png)
 
 ::: moniker-end
 
@@ -127,17 +135,13 @@ If you pay by invoice, you can add or change the purchase order (PO) number for 
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
-2. Select the subscription you want to change, and in the **Payment method** section, select **Change payment details**.
+2. Select the subscription that you want to change, and in the **Payment method** section, select **Change payment details**.
 
-    ![Screen shot of the Payment method section of a subscription card for a subscription paid by invoice.](../media/95d86601-c8db-4f66-9fee-6f52ec337015.png)
-  
 3. At the bottom of the **Change payment details** pane, enter your PO number, then select **Submit**.
-
-    ![Screen shot of the Change payment details pane.](../media/c08bfeea-d3fc-4eb5-b7d1-d2b23e74b814.png)
 
 ::: moniker-end
 
-## Related topics
+## Related articles
 
 [Pay for your Office 365 for business subscription](pay-for-your-subscription.md)
 

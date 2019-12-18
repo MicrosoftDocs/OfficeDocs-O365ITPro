@@ -24,23 +24,28 @@ description: "Learn to delete a user account. Decide what to do with the user's 
 ---
 
 # Delete a user from your organization
-
-
   
 ||
 |:-----|
 |**Looking for how to delete your *own* Office 365 user account that you use at work or school? Contact the technical support at your work or university to do these steps for you.**|
    
+## What you need to know about deleting users
+
+- Only people who have [Office 365 global admin](about-admin-roles.md) or User management permissions for the business or school can delete user accounts. 
+    
+- You have 30 days to [restore](restore-user.md) the account before the user's data is permanently deleted. 
+    
+- If you want to keep the user's OneDrive data, move it to a different location. You can even do this up to 30 days after deleting the account. See [Get access to and back up a former user's data](get-access-to-and-back-up-a-former-user-s-data.md). You don't need to move their SharePoint files; you'll still have access to them.
+    
+- If you want to keep the user's email, **BEFORE** you delete the account, move the email to a different location. If you've already deleted the account: if it's been less than 30 days you can restore it, then move the email data, then delete the account. See [Get access to and back up a former user's data](get-access-to-and-back-up-a-former-user-s-data.md).
+    
+- If you have an Enterprise subscription like Office 365 Enterprise E3, you can preserve the mailbox data of a deleted Office 365 user account by turning it into an *inactive mailbox*. To learn more, see [Manage inactive mailboxes in Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/inactive-mailboxes-in-office-365).
+
+
 ## Global admin: Delete a user, stop paying for their license, and choose what to do with their email and OneDrive content
 
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
-
 If you are a global administrator, when you delete a user you can also give another user access to their email, and choose what to do with their OneDrive content. 
+
   
 ### Things to consider...
 
@@ -88,7 +93,7 @@ Since the guided experience walks through the steps to delete a user, here's how
 ## User management admin: Delete one or more users from Office 365
 
 
- **IMPORTANT**: Don't delete a user's account if you've [converted it to a shared mailbox](../email/create-a-shared-mailbox.md) or if you've set up email forwarding on the account. Those functions need the account there. If you've converted it to a shared mailbox, you can [Stop paying for the license](#stop-paying-for-the-license) from it so you aren't paying for it. If you set up email forwarding, you cannot remove the license. Doing so will stop the email forwarding and inactivate the mailbox. 
+ **IMPORTANT**: Don't delete a user's account if you've [converted it to a shared mailbox](../email/convert-user-mailbox-to-shared-mailbox.md) or if you've set up email forwarding on the account. Those functions need the account there. If you've converted it to a shared mailbox, you can [Stop paying for the license](#stop-paying-for-the-license) from it so you aren't paying for it. If you set up email forwarding, you cannot remove the license. Doing so will stop the email forwarding and inactivate the mailbox. 
   
 ::: moniker range="o365-worldwide"
 
@@ -162,21 +167,8 @@ Reducing the number of licenses is a separate step that can only be performed by
 
 See the [Remove-MsolUser](https://go.microsoft.com/fwlink/?linkid=842230) PowerShell cmdlet. 
   
-## What you need to know about deleting users
-
-
-- Only people who have [Office 365 global admin](about-admin-roles.md) or User management permissions for the business or school can delete user accounts. 
-    
-- You have 30 days to [restore](restore-user.md) the account before the user's data is permanently deleted. 
-    
-- If you want to keep the user's OneDrive data, move it to a different location. You can even do this up to 30 days after deleting the account. See [Get access to and back up a former user's data](get-access-to-and-back-up-a-former-user-s-data.md). You don't need to move their SharePoint files; you'll still have access to them.
-    
-- If you want to keep the user's email, **BEFORE** you delete the account, move the email to a different location. If you've already deleted the account: if it's been less than 30 days you can restore it, then move the email data, then delete the account. See [Get access to and back up a former user's data](get-access-to-and-back-up-a-former-user-s-data.md).
-    
-- If you have an Enterprise subscription, like Office 365 Enterprise E3, you can preserve the mailbox data of a deleted Office 365 user account by turn it into an *inactive mailbox*. To learn more, see [Manage inactive mailboxes in Exchange Online](https://go.microsoft.com/fwlink/p/?linkid=848214).
     
 ## Fix issues with deleting a user
-
 
 Here are the most common issues people encounter when deleting a user:
   
@@ -192,11 +184,14 @@ Here are the most common issues people encounter when deleting a user:
    
 ## Related articles
 
-
 [Restore a user](restore-user.md)
   
-[Permanently delete a mailbox](https://technet.microsoft.com/en-us/library/jj863440%28v=exchg.150%29.aspx)
-  
-[Delete a User Account](https://go.microsoft.com/fwlink/?linkid=841808): use these instructions if your business uses **Active Directory** that is synchronizing with Azure AD. You can't do it through Office 365. 
-  
+[Permanently delete a mailbox](https://technet.microsoft.com/library/jj863440%28v=exchg.150%29.aspx)
 
+[Remove a former employee from Office 365](remove-former-employee.md)
+
+[Add a new employee to Office 365](add-new-employee.md)
+
+  
+[Delete a User Account](https://go.microsoft.com/fwlink/?linkid=841808): Use these instructions if your business uses **Active Directory** that is synchronizing with Azure AD. You can't do it through Office 365. 
+  

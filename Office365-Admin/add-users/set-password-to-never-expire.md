@@ -20,6 +20,7 @@ search.appverid:
 ms.assetid: f493e3af-e1d8-4668-9211-230c245a0466
 description: "Learn how to set some individual user passwords to never expire, using Windows PowerShell."
 ---
+# Set an individual user's password to never expire
 
 ## Set the password expiration policy for your organization
 
@@ -29,10 +30,6 @@ description: "Learn how to set some individual user passwords to never expire, u
 
 
 ## Set the password expiration policy for individual users 
-::: moniker range="o365-worldwide"
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-::: moniker-end
 
 A global admin for a Microsoft cloud service can use the Microsoft Azure AD Module for Windows PowerShell to set passwords not to expire for specific users. You can also use Windows PowerShell cmdlets to remove the never-expires configuration or to see which user passwords are set to never expire. 
 

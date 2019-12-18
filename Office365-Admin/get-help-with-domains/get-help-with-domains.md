@@ -45,7 +45,7 @@ Use these resources to get started using your own domain for email, websites, an
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/users-people.svg" alt="Add users and a domain" />
+                            <img src="https://docs.microsoft.com/office/media/icons/users-people.svg" alt="Add users and a domain" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -63,7 +63,7 @@ Use these resources to get started using your own domain for email, websites, an
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/toolbox.svg" alt="Fix issues" />
+                            <img src="https://docs.microsoft.com/office/media/icons/toolbox.svg" alt="Fix issues" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -81,7 +81,7 @@ Use these resources to get started using your own domain for email, websites, an
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/connector.svg" alt="Add a GoDaddy domain" />
+                            <img src="https://docs.microsoft.com/office/media/icons/connector.svg" alt="Add a GoDaddy domain" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -101,7 +101,7 @@ Use these resources to get started using your own domain for email, websites, an
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/get-started.svg" alt="Learn about your onmicrosoft domain" />
+                            <img src="https://docs.microsoft.com/office/media/icons/get-started.svg" alt="Learn about your onmicrosoft domain" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -119,7 +119,7 @@ Use these resources to get started using your own domain for email, websites, an
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/cancel.svg" alt="Remove a domain" />
+                            <img src="https://docs.microsoft.com/office/media/icons/cancel.svg" alt="Remove a domain" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -166,7 +166,7 @@ Use these resources to get started using your own domain for email, websites, an
                             <p><a href="../setup/domains-faq.md#how-to-set-up-an-office-365-pilot">Set up a pilot with your custom domain for a few people in your company</a></p>
                             <p><a href="domain-connect.md">Quickly add a GoDaddy domain to Office 365</a></p>
                             <p>Get step-by-step help to <a href="create-dns-records-at-any-dns-hosting-provider.md">add the required DNS records for Office 365 services</a></p>
-                            <p><a href="https://docs.microsoft.com/en-us/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization">How to prepare a non-routable domain for directory synchronization</a></p>
+                            <p><a href="https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization">How to prepare a non-routable domain for directory synchronization</a></p>
                             <p><a href="../setup/domains-faq.md">Domains FAQ</a></p>
                     </div>
                 </div>
@@ -216,7 +216,7 @@ Use these resources to get started using your own domain for email, websites, an
                             <p><a href="../setup/domains-faq.md#can-i-add-custom-subdomains-or-multiple-domains-to-office-365">Add custom subdomains or multiple domains in Office 365</a></p>
                             <p><a href="../setup/domains-faq.md#how-do-i-change-how-my-dns-records-are-managed-in-office-365">Change how Office 365 manages DNS for your domain</a></p>
                             <p><a href="remove-a-domain.md">Remove a domain</a></p>
-                            <p><a href="https://docs.microsoft.com/en-us/office365/enterprise/office-365-integration">Office 365 integration with on-premises environments</a></p>
+                            <p><a href="https://docs.microsoft.com/office365/enterprise/office-365-integration">Office 365 integration with on-premises environments</a></p>
                             <p><a href="../contact-support-for-business-products.md">More questions? Call support or open a support ticket</a></p>
                     </div>
                 </div>

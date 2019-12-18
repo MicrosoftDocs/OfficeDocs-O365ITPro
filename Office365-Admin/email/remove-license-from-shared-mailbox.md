@@ -1,7 +1,7 @@
 ---
 title: "Remove license from shared mailbox"
-ms.author: anfowler
-author: adefowler
+ms.author: pebaum
+author: pebaum
 manager: scotv
 audience: Admin
 ms.topic: troubleshooting
@@ -26,13 +26,6 @@ description: "Remove license from a shared mailbox to assign it to another user.
 Shared mailboxes don't need a license unless the mailbox has over 50GB of data. Follow these instructions to remove a license from a shared mailbox so that you can either assign it to a user or return the license so that you aren't paying for a license you don't need.
   
 ## Remove the license
-
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
 
 ::: moniker range="o365-worldwide"
 
@@ -95,3 +88,14 @@ Shared mailboxes don't need a license unless the mailbox has over 50GB of data. 
 
 ::: moniker-end 
 
+## Related articles
+
+[About shared mailboxes](about-shared-mailboxes.md)
+
+[Create a shared mailbox](create-a-shared-mailbox.md)
+
+[Configure a shared mailbox](configure-a-shared-mailbox.md)
+
+[Convert a user mailbox to a shared mailbox](convert-user-mailbox-to-shared-mailbox.md)
+
+[Resolve issues with shared mailboxes](resolve-issues-with-shared-mailboxes.md)

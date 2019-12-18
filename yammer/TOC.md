@@ -8,7 +8,7 @@
 ### [Adoption resources](https://resources.techcommunity.microsoft.com/yammer-adoption-resources/)
 ### [Technical community](https://techcommunity.microsoft.com/t5/Yammer/ct-p/Yammer)
 ### [Yammer blog](https://techcommunity.microsoft.com/t5/Yammer-Blog/bg-p/YammerBlog)
-### [Yammer end-user help](https://support.office.com/yammer)
+### [Yammer end user help](https://support.office.com/yammer)
 ## Configure your Yammer network
 ### [Add Yammer basic domains to your Office 365 tenant](configure-your-yammer-network/add-basic-domains-to-office-365.md)
 ### [Configure Yammer](configure-your-yammer-network/configure-yammer.md)
