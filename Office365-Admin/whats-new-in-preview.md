@@ -32,6 +32,49 @@ And if you're interested in what's new in other admin centers:
 - [What's new in the Microsoft 365 compliance center](https://docs.microsoft.com/Office365/SecurityCompliance/whats-new)
 - [What's new in the SharePoint admin center](https://docs.microsoft.com/sharepoint/what-s-new-in-admin-center)
 
+## November and December 2019
+We're combining November's and December's news because after Ignite we had very few announcements to make. See you in the new year!
+
+### Change from credit card to invoice payment
+
+In late December, we're starting to roll out the ability to change your payment method from credit card to an invoice. Go to **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a>, and then select the **Change payment details** link on the subscription that you'd like to change.
+
+![The Payment method section of a Subscription card for a subscription that pays by credit card.](../media/6c9d9cae-6086-4687-a979-bb971f35f1b4.png)
+
+Want to read more about it? [Change from credit card or bank account to invoice](subscriptions-and-billing/change-payment-method.md#change-from-credit-card-or-bank-account-to-invoice)
+
+### Global reader
+We mentioned the Global reader role in the [October 2019 - Ignite Edition](#october-2019---ignite-edition), but as it’s rolling out more broadly, let’s discuss some details:
+
+- The Global reader role is the read-only counterpart to the Global admin role. Basically, the Global reader can see everything that the Global admin has permission to do.
+- With a few exceptions, like some compliance and security features, Global readers have access to view all of the Microsoft cloud admin centers that your org is licensed to use.
+- Assign the Global reader role to users who need it for planning, audits, and investigations.
+- You can also combine the global reader role with another role that has fewer permissions. For example, a small business owner might be assigned the **Billing admin** + **Global reader** roles so that they can pay the bills and stay on top of changes to their cloud organization.
+- Global readers can go to any page in the Microsoft 365 admin center. When they open an editable page,  there will be a warning at the top that say, telling them that they don't have permission to save changes, and the save button will be disabled.
+
+We’d love to get your feedback about the global reader role and any of the role-based permissions that you’d like to see in the future. [Give feedback for role-based permissions](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/10115430-have-a-consistent-experience-when-assigning-admin)
+
+### Get started with Microsoft 365 training & docs
+This section is a new feature of this article, where we'll start letting you know about new training and documentation that is important to know about. After all, this is part of being a Microsoft 365 admin. 
+
+#### Training
+In November, we released quite a few learning paths to [Microsoft Learn](https://docs.microsoft.com/learn/) website to help IT pros learn about and get trained on Microsoft 365. Check them out:
+
+- [Microsoft 365 fundamentals](https://docs.microsoft.com/learn/paths/m365-fundamentals/)
+- [Extend Office fundamentals](https://docs.microsoft.com/learn/paths/extend-office-fundamentals/)
+- [Microsoft 365 - Modernize your enterprise deployment with Windows 10 and Office 365 ProPlus](https://docs.microsoft.com/learn/paths/m365-getmodern/)
+- [Manage your enterprise deployment with Microsoft 365](https://docs.microsoft.com/learn/paths/manage-enterprise-deployment-m365/)
+- [Upgrade Microsoft Office for IT at scale](https://docs.microsoft.com/learn/paths/m365-office-for-it/)
+- [Deliver remote desktops and apps from Azure with Windows Virtual Desktop
+](https://docs.microsoft.com/learn/paths/m365-wvd/)
+- [Modernize your workplace with Microsoft 365 and Surface for Business](https://docs.microsoft.com/learn/paths/modernize-workplace-with-m365-and-surface/)
+- [Protect identity and access with Microsoft 365](https://docs.microsoft.com/learn/paths/m365-identity/)
+- [Protect enterprise information with Microsoft 365](https://docs.microsoft.com/learn/paths/m365-information-protection/)
+- [Manage security with Microsoft 365](https://docs.microsoft.com/learn/paths/m365-security-management/)
+- [Defend against threats with Microsoft 365 and Microsoft threat protection](https://docs.microsoft.com/learn/paths/m365-security-threat-protection/)
+- [Manage team collaboration with Microsoft Teams](https://docs.microsoft.com/learn/paths/m365-manage-team-collaboration/)
+- Collaborate with SharePoint in Microsoft 365[https://docs.microsoft.com/learn/paths/m365-teams-sharepoint/](https://docs.microsoft.com/learn/paths/m365-teams-sharepoint/)
+
 ## October 2019 - Ignite Edition
 
 Welcome to the Ignite Edition of the What's new in the Microsoft 365 admin center! Of course, this isn't a complete list of announcements, but here are a few highlights. Also, check out the Ignite blogs for more great info about releases:
