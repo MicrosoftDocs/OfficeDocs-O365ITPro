@@ -106,6 +106,7 @@
 ### [Pay for your subscription](subscriptions-and-billing/pay-for-your-subscription.md)
 ### [Add, update, or remove payment methods](subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account.md)
 ### [Change payment method](subscriptions-and-billing/change-payment-method.md)
+### [Change payment frequency](subscriptions-and-billing/change-payment-frequency.md)
 ### [Change your billing addresses](subscriptions-and-billing/change-your-billing-addresses.md)
 ### [What tax will I be charged?](subscriptions-and-billing/what-tax-will-i-be-charged.md)
 ### [Apply for tax exempt status](subscriptions-and-billing/apply-for-tax-exempt-status.md)
