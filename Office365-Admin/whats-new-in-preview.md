@@ -39,7 +39,7 @@ We're combining November's and December's news because after Ignite we had very 
 
 In late December, we're starting to roll out the ability to change your payment method from credit card to an invoice. Go to **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a>, and then select the **Change payment details** link on the subscription that you'd like to change.
 
-![The Payment method section of a Subscription card for a subscription that pays by credit card.](../media/6c9d9cae-6086-4687-a979-bb971f35f1b4.png)
+![Screen capture: Payment method section of subscription card with a credit card as the payment method](media/6c9d9cae-6086-4687-a979-bb971f35f1b4.png)
 
 Want to read more about it? [Change from credit card or bank account to invoice](subscriptions-and-billing/change-payment-method.md#change-from-credit-card-or-bank-account-to-invoice)
 
