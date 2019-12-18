@@ -10,6 +10,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.service: yammer
 ms.custom: Adm_Yammer
+ms.collection: SPO_Content
 search.appverid:
 - MET150
 - MOE150

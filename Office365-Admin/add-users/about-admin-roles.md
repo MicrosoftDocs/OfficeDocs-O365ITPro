@@ -47,7 +47,11 @@ You can view the brief descriptions later in this article: [Roles available in t
 
 If you’re looking for detailed information, including the cmdlets associated with a role, see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles).
 
-But if you have access to the new admin center and the new roles experience is available to you, go to **Roles** > **Roles**, and then select any role to open its detail pane. Select the **Permissions** tab to view the detailed list of what admins assigned that role have permission to do.
+::: moniker range="o365-worldwide"
+
+In the admin center, you can go to **Roles** > **Roles**, and then select any role to open its detail pane. Select the **Permissions** tab to view the detailed list of what admins assigned that role have permission to do.
+
+::: moniker-end
   
 ## Some roles are missing from Active users > Manage admin roles. Where did they go?
 By default, we first show roles that most organizations use. If you can't find a role, go to the bottom of the list and select **See more roles**.
@@ -112,6 +116,7 @@ You'll probably only need to assign the following roles in your organization.
 |Message center privacy reader     |    Access to data privacy messages in Message center, gets email notifications.     |
 |Message center reader     | Reads and shares regular messages in Message center, gets weekly email digests, has read-only access to users, groups, domains, and subscriptions.     |
 |Office Apps admin    |   Manages cloud-based policies for Office and the What's New content that users see in their Office apps.   |
+|Power platform admin     |    Full access to Microsoft Dynamics 365, PowerApps, data loss prevention policies, and Microsoft Flow.     |
 |Privileged role admin     |    Manages role assignments and all access control features of Privileged Identity Management.     |
 |Reports reader     |   Reads usage reporting data from the reports dashboard, PowerBI adoption content pack, sign-in reports, and Microsoft Graph reporting API.      |
 |Search admin     |    Full access to Microsoft Search, assigns the Search admin and Search editor roles, manages editorial content, monitors service health, and creates service requests.     |

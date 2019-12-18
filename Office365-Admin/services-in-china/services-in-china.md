@@ -21,6 +21,7 @@ ms.collection:
 - M365-subscription-management 
 - Adm_O365
 - Adm_NonTOC
+- SPO_Content
 search.appverid:
 - MET150
 - GEU150
