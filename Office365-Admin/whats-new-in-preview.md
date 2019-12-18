@@ -50,11 +50,11 @@ We mentioned the Global reader role in the [October 2019 - Ignite Edition](#octo
 - With a few exceptions, like some compliance and security features, Global readers have access to view all of the Microsoft cloud admin centers that your org is licensed to use.
 - Assign the Global reader role to users who need it for planning, audits, and investigations.
 - You can also combine the global reader role with another role that has fewer permissions. For example, a small business owner might be assigned the **Billing admin** + **Global reader** roles so that they can pay the bills and stay on top of changes to their cloud organization.
-- Global readers can go to any page in the Microsoft 365 admin center. When they open an editable page,  there will be a warning at the top that say, telling them that they don't have permission to save changes, and the save button will be disabled.
+- Global readers can go to any page in the Microsoft 365 admin center. When they open an editable page,  there will be a warning at the top telling them that they don't have permission to save changes, and the save button will be disabled.
 
 We’d love to get your feedback about the global reader role and any of the role-based permissions that you’d like to see in the future. [Give feedback for role-based permissions](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/10115430-have-a-consistent-experience-when-assigning-admin)
 
-### Get started with Microsoft 365 training & docs
+### Training & Docs
 
 This section is a new feature of this article, where we'll start linking to new training and documentation that we think you should know about. 
 
