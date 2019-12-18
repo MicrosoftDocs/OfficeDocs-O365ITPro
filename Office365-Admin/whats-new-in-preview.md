@@ -55,9 +55,9 @@ We mentioned the Global reader role in the [October 2019 - Ignite Edition](#octo
 We’d love to get your feedback about the global reader role and any of the role-based permissions that you’d like to see in the future. [Give feedback for role-based permissions](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/10115430-have-a-consistent-experience-when-assigning-admin)
 
 ### Get started with Microsoft 365 training & docs
-This section is a new feature of this article, where we'll start letting you know about new training and documentation that is important to know about. After all, this is part of being a Microsoft 365 admin. 
 
-#### Training
+This section is a new feature of this article, where we'll start linking to new training and documentation that we think you should know about. 
+
 In November, we released quite a few learning paths to [Microsoft Learn](https://docs.microsoft.com/learn/) website to help IT pros learn about and get trained on Microsoft 365. Check them out:
 
 - [Microsoft 365 fundamentals](https://docs.microsoft.com/learn/paths/m365-fundamentals/)
@@ -73,7 +73,7 @@ In November, we released quite a few learning paths to [Microsoft Learn](https:/
 - [Manage security with Microsoft 365](https://docs.microsoft.com/learn/paths/m365-security-management/)
 - [Defend against threats with Microsoft 365 and Microsoft threat protection](https://docs.microsoft.com/learn/paths/m365-security-threat-protection/)
 - [Manage team collaboration with Microsoft Teams](https://docs.microsoft.com/learn/paths/m365-manage-team-collaboration/)
-- Collaborate with SharePoint in Microsoft 365[https://docs.microsoft.com/learn/paths/m365-teams-sharepoint/](https://docs.microsoft.com/learn/paths/m365-teams-sharepoint/)
+- [Collaborate with SharePoint in Microsoft 365](https://docs.microsoft.com/learn/paths/m365-teams-sharepoint/)
 
 ## October 2019 - Ignite Edition
 
