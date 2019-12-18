@@ -3,6 +3,7 @@ title: "Manage guest access in Office 365 Groups"
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
+ms.date: 12/18/2019
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -29,9 +30,9 @@ Admins can control whether to allow guest access to Groups for their whole organ
 ### View guest users
 
 - In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074830" target="_blank">Guest users</a> page.
- 
-::: moniker range="o365-worldwide"   
-   
+
+::: moniker range="o365-worldwide"
+
 ### Add existing guests to an Office 365 Group
 
 > [!NOTE]
@@ -41,10 +42,10 @@ If the guest already exists in your directory (see above), you can add them to y
   
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
   
-2. Select the group you want to add the guest to, and select **View all and manage members** on the **Members** tab. 
+2. Select the group you want to add the guest to, and select **View all and manage members** on the **Members** tab.
   
 4. Select **Add members**, and choose the name of the guest you want to add.
-    
+
 5. Select **Save**.
 
 ::: moniker-end
@@ -52,6 +53,9 @@ If the guest already exists in your directory (see above), you can add them to y
 ### Invite guests
 
 You can't invite guests from the Office Admin Center or the Exchange Admin Center at this time. To invite guests centrally you might consider using the Azure Active Directory B2B collaboration preview. For more information, see [About the Azure AD B2B collaboration preview](https://docs.microsoft.com/azure/active-directory/active-directory-b2b-what-is-azure-ad-b2b).
+
+> [!Note]
+> Yammer Enterprise networks that are in Native Mode or the [EU Geo](manage-security-and-compliance/security-and-compliance.md) do not support network guests.
   
 ### Edit guest information
 
@@ -192,14 +196,14 @@ The last line of the script will display the updated settings:
 <a name="BKMK_UsePowerShellControlAddingGuests"> </a>
 
 > [!NOTE]
-> You must have global admin rights to run these commands. 
+> You must have global admin rights to run these commands.
   
-1. Did you install the **AzureADPreview** module, as instructed in the above section "Install the preview version of the Azure Active Directory Module for Windows PowerShell"? Not having the most current **preview** version is the #1 reason these steps don't work for people. 
-    
+1. Did you install the **AzureADPreview** module, as instructed in the above section "Install the preview version of the Azure Active Directory Module for Windows PowerShell"? Not having the most current **preview** version is the #1 reason these steps don't work for people.
+
 2. If you haven't already, open a Windows PowerShell window on your computer (it doesn't matter if it's a normal Windows PowerShell window, or one you opened by selecting **Run as administrator**).
-    
-3. Run the following commands. Press **Enter** after each command. 
-    
+
+3. Run the following commands. Press **Enter** after each command.
+
   ```
   Import-Module AzureADPreview
   ```
@@ -209,46 +213,45 @@ The last line of the script will display the updated settings:
   ```
 
    On the **Sign in to your Account** screen that opens, enter your admin account and password to connect you to your service, and select **Sign in**.
-    
+
    ![Enter your Office 365 credentials](../media/a2b4e2f3-436f-4a6c-b571-1a192698acea.png)
   
 4. Run this command.
-    
+
      `$template = Get-AzureADDirectorySettingTemplate | ? {$_.displayname -eq "group.unified.guest"}`
-    
+
 5. Run this command.
     
      `$settingsCopy = $template.CreateDirectorySetting()`
-    
-6. Run this command. Set to **False** to block guest access to a specific group. Set to **True** to allow guest access to a specific group. 
-    
+
+6. Run this command. Set to **False** to block guest access to a specific group. Set to **True** to allow guest access to a specific group.
+
      `$settingsCopy["AllowToAddGuests"]=$False`
-    
+
 7. Run this command.
-    
+
      `$groupID= (Get-AzureADGroup -SearchString "YourGroupName").ObjectId`
-    
-    Where you would replace **YourGroupName** with something like **Human Resources**. 
-    
+
+    Where you would replace **YourGroupName** with something like **Human Resources**.
+
 8. Run this command.
-    
+
      `New-AzureADObjectSetting -TargetType Groups -TargetObjectId $groupID -DirectorySetting $settingsCopy`
-    
+
     It takes 2-3 minutes to be synced.
-    
+
 9. To verify your settings, run this command:
-    
+
      `Get-AzureADObjectSetting -TargetObjectId $groupID -TargetType Groups | fl Values`
-    
+
     The verification looks like this:
-    
+
     ![The verification](../media/09ebfb4f-859f-44c3-a29e-63a59fd6ef87.png)
   
 ### Allow/block guest access based on their domain
 <a name="BKMK_UsePowerShellControlAddingGuests"> </a>
 
 You can allow or block guest users who are using a specific domain. For example, if your business (Contoso) has a partnership with another business (Fabrikam), you can add Fabrikam to your Allow list so your users can add those guests to their groups.
-
 
 > [!NOTE]
 > If tenant Guest Access settings are set to False, individual groups cannot be set to True.
@@ -262,22 +265,22 @@ For more information, see [Allow/Block guest access to Office 365 groups](https:
 <a name="BKMK_Whocanaddguests"> </a>
 
 - An Office 365 Group owner can add guest users if this option has been enabled for your organization.
-    
+
 - Global admins can add guest users to any groups in the organization.
-    
+
 ### How can a global admin add a new guest user to the organization?
 <a name="BKMK_Whocanaddguests"> </a>
 
 - Owners of an Office 365 group and global admins who are owners of the group can add guest users to groups through Outlook on Web.
-    
+
 - Sharing a file with a guest from a SharePoint site or an Office 365 group. See [Share group files](https://support.office.com/article/749bc73b-90c9-4760-9b6f-9aa1cf01b403.aspx).
-    
+
 - Adding guests to your organization through Azure active directory B2B collaboration. Azure active directory B2B collaboration allows a company administrator to invite and authorize a set of external users by uploading a comma-separated values (CSV) file of no more than 2000 lines to the B2B collaboration portal. For more details, check out [Azure Active Directory B2B collaboration](https://go.microsoft.com/fwlink/p/?LinkId=826383).
-    
+
 ### Can global admin block guests in groups and still allow guests to access SharePoint sites?
 <a name="BKMK_Whocanaddguests"> </a>
 
-Yes, global admins can use Azure active directory Powershell cmdlets to disable "AllowGuestAccessToGroups" property on Company object, assuming external sharing is turned **On** for SharePoint sites. 
+Yes, global admins can use Azure active directory Powershell cmdlets to disable "AllowGuestAccessToGroups" property on Company object, assuming external sharing is turned **On** for SharePoint sites.
   
 ### How long until the guest user settings take effect in the Office 365 organization?
 <a name="BKMK_Whocanaddguests"> </a>
@@ -327,7 +330,7 @@ Yes, you can. External mail contacts are contacts listed in your company's globa
 ### Can I add guest users to my Office 365 Connected Yammer Groups?
 <a name="BKMK_MakeGuestsVisibleGAL"> </a>
 
-Office 365 Connected Yammer Groups do not currently support guest access, but you can create non-connected, external groups in your Yammer network. See [Create and manage external groups in Yammer](https://support.office.com/article/9ccd15ce-0efc-4dc1-81bc-4a424ab6f92a.aspx) for instructions. 
+Office 365 Connected Yammer Groups do not currently support guest access, but you can create non-connected, external groups in your Yammer network. See [Create and manage external groups in Yammer](https://support.office.com/article/9ccd15ce-0efc-4dc1-81bc-4a424ab6f92a.aspx) for instructions.
   
 ### Is an additional Office 365 license required for guest access?
 <a name="BKMK_MakeGuestsVisibleGAL"> </a>
@@ -337,7 +340,7 @@ No. Guest access is included with all Office 365 Business Premium and Office 365
 ### I just migrated my distribution lists to Office 365 groups. Can I add guests to those?
 <a name="BKMK_MakeGuestsVisibleGAL"> </a>
 
-Yes. The guests won't receive a welcome email message, but they will have all the privileges of any other guest member. If you've not yet migrated your distribution lists, see [Migrate distribution lists to Office 365 Groups](../manage/upgrade-distribution-lists.md) for instructions. Distribution lists that contain guests can't be migrated. 
+Yes. The guests won't receive a welcome email message, but they will have all the privileges of any other guest member. If you've not yet migrated your distribution lists, see [Migrate distribution lists to Office 365 Groups](../manage/upgrade-distribution-lists.md) for instructions. Distribution lists that contain guests can't be migrated.
   
 ## Related articles
 <a name="bkmk_UsePowerShell"> </a>
@@ -347,5 +350,4 @@ Yes. The guests won't receive a welcome email message, but they will have all th
 [Allow/Deny guest access to Office 365 groups based on their domain](https://go.microsoft.com/fwlink/?linkid=854001)
   
 [Azure Active Directory access reviews](https://docs.microsoft.com/azure/active-directory/active-directory-azure-ad-controls-perform-access-review)
-  
 
