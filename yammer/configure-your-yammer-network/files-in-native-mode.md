@@ -20,13 +20,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint. Having one consistent location for files makes them easier to access for both end users and admins.
 
-### What happens to files in private messages when you run the Native Mode Alignment Tool ("Tool")?
+## What happens to files in private messages when you run the Native Mode Alignment Tool ("Tool")?
 
 - Users will no longer be able to upload files to Private messages. Link sharing will still be available.
 
 - All files in Private messages will be deleted.
 
-### What happens to Group files when you run the Native Mode Alignment Tool ("Tool")?
+## What happens to Group files when you run the Native Mode Alignment Tool ("Tool")?
 
 - Group files that are in Azure are copied to SharePoint Document Library (SDL) for the group.
 - After group files are successfully copied to SharePoint, we delete the non-SharePoint version of the files.
@@ -34,7 +34,7 @@ In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint.
 - New files will always be uploaded to SharePoint.
 - Non-SharePoint group files will deleted *within 30 days* after the migration is completed.  
 
-### Before running the tools
+## Before running the tools
 
 Because migration deletes files and the process is irreversible, we suggest you:
 
@@ -46,7 +46,7 @@ Because migration deletes files and the process is irreversible, we suggest you:
 
 - Notify users that this migration is going to happen, and that files in Yammer private messages will be deleted, and no longer accessible. Only the latest version of the file is migrated to SharePoint, and the previous versions are not copied. The follower count is not copied. Users can no longer mark files as official.
 
-### Admin step-by-step experience
+## Admin step-by-step experience
 
 1. Export all files. Learn more about how to [Export Yammer Enterprise data](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data#find-and-delete-specific-messages-or-files).
 
@@ -66,7 +66,7 @@ Because migration deletes files and the process is irreversible, we suggest you:
 
 ADD COMMON ERROR TABLE
 
-#### End user experience
+### End user experience
 
 The following is the expected end user experience for files while the Tool is running:
 
@@ -83,7 +83,7 @@ MORE INFO COMING ABOUT THIS SECTION
 
 If a group has been deleted, all the files from that group will be deleted and not migrated over.
 
-### After successfully entering Native Mode
+## After successfully entering Native Mode
 
 - All group files will be [stored in SharePoint](https://go.microsoft.com/fwlink/?linkid=2111253), providing a consistent file management experience.
 

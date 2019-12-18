@@ -28,24 +28,23 @@ Below is some content you can use as-is or modify to meet your needs when you're
 
 ADD A BACKGROUND COLOR TO THIS CONTENT SO IT STANDS OUT
 
-Hello NAME OF EMPLOYEE,
+*Hello NAME OF EMPLOYEE,*
 
-We are getting our Yammer network ready to support required compliance and security policies for our organization.
+*We are getting our Yammer network ready to support required compliance and security policies for our organization.*
 
-Here are some changes you will see rolling out over the next few weeks:
+*Here are some changes you will see rolling out over the next few weeks:*
 
-- All unlisted private groups will become private listed groups on DATE. Non-members will be able to see the group in search results and other areas, but only members can access the content. If you don't want your group to be visible to non members, you must delete it before that date. You can also change the name of the group if the concern is that people will identify the purpose of the group based on the name.
+*- All unlisted private groups will become private listed groups on DATE. Non-members will be able to see the group in search results and other areas, but only members can access the content. If you don't want your group to be visible to non members, you must delete it before that date. You can also change the name of the group if the concern is that people will identify the purpose of the group based on the name.*
 
-- All network, group, and conversation-level guests from our Yammer network will be removed on DATE. If you're working with people outside of our Yammer network, you should figure out an alternate way to communicate with them.
+*- All network, group, and conversation-level guests from our Yammer network will be removed on DATE. If you're working with people outside of our Yammer network, you should figure out an alternate way to communicate with them.*
 
-- All Yammer group files will be stored in SharePoint beginning on DATE. This means previously uploaded group files will be migrated to SharePoint and all new group file uploads will be saved to SharePoint.
+*- All Yammer group files will be stored in SharePoint beginning on DATE. This means previously uploaded group files will be migrated to SharePoint and all new group file uploads will be saved to SharePoint.*
 
-- All files that were previously uploaded on Yammer private messages will be deleted on DATE. No new files can be uploaded in Yammer private messages.
+*- All files that were previously uploaded on Yammer private messages will be deleted on DATE. No new files can be uploaded in Yammer private messages.*
 
-- Beginning DATE users will need to have Office 365 Group creation rights in order to create a group in Yammer. If you do not currently have Office 365 Group creation rights, you will no longer be able to create groups in Yammer. Please reach out to your manager if you do not have Office 365 Group creation rights, but feel you need to do so to perform your job.
+*- Beginning DATE users will need to have Office 365 Group creation rights in order to create a group in Yammer. If you do not currently have Office 365 Group creation rights, you will no longer be able to create groups in Yammer. Please reach out to your manager if you do not have Office 365 Group creation rights, but feel you need to do so to perform your job.*
 
-Your IT team
-END BACKGROUND COLOR
+*Your IT team*
 
 ## Questions and answers about general issues
 

@@ -3,7 +3,7 @@ title: "Overview of Native Mode for Microsoft 365"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/17/2019
+ms.date: 12/18/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -13,7 +13,6 @@ search.appverid:
 - MOE150
 - MET150
 description: "Learn about Native Mode for Microsoft 365."
-ROBOTS: NOINDEX, NOFOLLOW
 ---
 
 # Overview of Native Mode
@@ -54,10 +53,10 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
 - Office 365 resources for each group
 - All groups, including All Company, are Office 365-connected, which means they have access to Office 365 features, including live events
 - Yammer honors Office 365 Group creation rights
-- No external groups or network-level guests, but external networks are supported in the US Geo
+- No external groups or network-level guests, but external networks are supported in the [US Geo](manage-security-and-compliance/security-and-compliance.md)
 - All files uploaded to groups will be stored in SharePoint
 - Files cannot be uploaded to Yammer private messages
-- Verified and Network Network Admins are required to have either Global Admin privileges or Group admin privileges from Microsoft 365 in order to administer changes to groups in which they are not a group owner.
+- Verified and Network Network Admins are required to have either Global Admin privileges or Group admin privileges from Microsoft 365 in order to administer changes to groups in which they are not a group owner
 
 ### Non-Native (not connected)
 
@@ -65,7 +64,7 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
 - All Yammer users can create groups
 - Files are not stored in SharePoint
 - Files can be attached to Yammer private messages
-- Verified and Network Network Admins are not required to have any additional admin privileges from Microsoft 365 in order to administer changes to groups.
+- Verified and Network Network Admins are not required to have any additional admin privileges from Microsoft 365 in order to administer changes to groups
 
 ### Hybrid
 
@@ -74,7 +73,7 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
 - All Yammer users can create groups
 - New files uploaded to Office 365-connected groups are stored in SharePoint
 - Files can be attached to Yammer private messages
-- Verified and Network Network Admins are not required to have any additional admin privileges from Microsoft 365 in order to administer changes to groups.
+- Verified and Network Network Admins are not required to have any additional admin privileges from Microsoft 365 in order to administer changes to groups
 
 ## Related articles
 
