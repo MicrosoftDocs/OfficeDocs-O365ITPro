@@ -18,7 +18,7 @@
 ### [Yammer networks and Office 365 tenants](configure-your-yammer-network/yammer-and-office-365.md)
 ### [Manage Yammer domains](configure-your-yammer-network/manage-yammer-domains.md)
 ### [Consolidate multiple Yammer networks](configure-your-yammer-network/consolidate-multiple-yammer-networks.md)
-### [Overview of Native Mode](overview-native-mode.md)
+### [Overview of Native Mode](overview-native-mode)
 ### [FAQ: Consolidating multiple Yammer networks](configure-your-yammer-network/faq-consolidate-multiple-yammer-networks.md)
 ## Manage security and compliance
 ### [Security and compliance overview](manage-security-and-compliance/security-and-compliance.md)
