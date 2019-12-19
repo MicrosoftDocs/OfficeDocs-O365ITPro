@@ -13,6 +13,7 @@ ms.collection:
 - Adm_TOC
 ms.assetid: b9acfd4c-df82-4eb5-a652-232a6829870a
 description: "Learn about resources available for Office 365 admins."
+ms.custom: okr_smb
 ---
 
 # Office 365 Admin help center
@@ -21,13 +22,13 @@ Learn about resources available for admins.
 
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2">
+        <a href="https://products.office.com/compare-all-microsoft-office-products?tab=2">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/sign-up.svg" alt="Buy Office" />
+                            <img src="https://docs.microsoft.com/office/media/icons/sign-up.svg" alt="Buy Office" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -45,7 +46,7 @@ Learn about resources available for admins.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/get-started.svg" alt="Setup" />
+                            <img src="https://docs.microsoft.com/office/media/icons/get-started.svg" alt="Setup" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -63,7 +64,7 @@ Learn about resources available for admins.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/headset.svg" alt="Contact support" />
+                            <img src="https://docs.microsoft.com/office/media/icons/headset.svg" alt="Contact support" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -81,7 +82,7 @@ Learn about resources available for admins.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/radar.svg" alt="Get new features" />
+                            <img src="https://docs.microsoft.com/office/media/icons/radar.svg" alt="Get new features" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -99,7 +100,7 @@ Learn about resources available for admins.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/authentication.svg" alt="Multi-factor authentication" />
+                            <img src="https://docs.microsoft.com/office/media/icons/authentication.svg" alt="Multi-factor authentication" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -111,13 +112,13 @@ Learn about resources available for admins.
         </a>
     </li>
     <li>
-        <a href="https://docs.microsoft.com/en-us/microsoft-365/#pivot=home&panel=home-all">
+        <a href="https://docs.microsoft.com/microsoft-365/#pivot=home&panel=home-all">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/caret-right-blue.svg" alt="M365" />
+                            <img src="https://docs.microsoft.com/office/media/icons/caret-right-blue.svg" alt="M365" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -139,7 +140,7 @@ Learn about resources available for admins.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/small-business.svg" alt="Small business" />
+                            <img src="https://docs.microsoft.com/office/media/icons/small-business.svg" alt="Small business" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -156,12 +157,12 @@ Learn about resources available for admins.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/on-premises.svg" alt="Enterprise" />
+                            <img src="https://docs.microsoft.com/office/media/icons/on-premises.svg" alt="Enterprise" />
                         </div>
                     </div>
                     <div class="cardText">
                         <h3>For the Enterprise</h3>
-                        <p><a href="https://docs.microsoft.com/en-us/Office365/Enterprise/">Guidance for IT Professionals who are deploying, configuring, and managing Office 365 in enterprise organizations.</a></p>
+                        <p><a href="https://docs.microsoft.com/Office365/Enterprise/">Guidance for IT Professionals who are deploying, configuring, and managing Office 365 in enterprise organizations.</a></p>
                     </div>
                 </div>
             </div>
@@ -173,7 +174,7 @@ Learn about resources available for admins.
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/education-tutorial.svg" alt="Training" />
+                            <img src="https://docs.microsoft.com/office/media/icons/education-tutorial.svg" alt="Training" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -211,7 +212,7 @@ Learn about resources available for admins.
                     <div class="cardText">
                         <h3>Troubleshoot</h3>
                         <p><a href="https://go.microsoft.com/fwlink/?linkid=522692">Fix Office install issues</a></p>
-                        <p><a href="https://diagnostics.outlook.com/">Fix Outlook and Office 365 problems with Microsoft Support and Recovery Assistant for Office 365</a></p>
+                        <p><a href="https://diagnostics.outlook.com/">Fix Outlook and Office 365 problems with the Microsoft Support and Recovery Assistant</a></p>
                         <p><a href="https://docs.microsoft.com/office365/troubleshoot/troubleshooting/troubleshoot-email-issues">Fix email issues</a></p>
                         <p><a href="https://go.microsoft.com/fwlink/?linkid=866431">Fix OneDrive for Business sync issues</a></p>
                     </div>
@@ -226,7 +227,7 @@ Learn about resources available for admins.
                     <div class="cardText">
                         <h3>Learn more</h3>
                         <p><a href="admin-overview/about-the-admin-center.md">Learn about the admin center</a></p>
-                        <p><a href="https://docs.microsoft.com/en-us/MicrosoftTeams/Microsoft-Teams">Microsoft Teams documentation</a></p>
+                        <p><a href="https://docs.microsoft.com/MicrosoftTeams/Microsoft-Teams">Microsoft Teams documentation</a></p>
                         <p><a href="https://go.microsoft.com/fwlink/?linkid=853063">Advanced IT Pro training from LinkedIn Learning</a></p>
                     </div>
                 </div>

@@ -1,7 +1,7 @@
 ---
 title: "Manage Yammer security settings"
 ms.author: v-teflor
-author: TeresaFloreanoGoertz
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -92,7 +92,7 @@ For more information about external messaging, see [External messaging FAQ (Yamm
     
 2. Look in the **Office 365 Connected Yammer Groups** section to see the status for your connected groups. 
     
-## See also
+## Related articles
 
 [Set up a Yammer usage policy](set-up-a-usage-policy.md)
   

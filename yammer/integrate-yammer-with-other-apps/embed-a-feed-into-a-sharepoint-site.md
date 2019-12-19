@@ -1,7 +1,7 @@
 ---
 title: "Include a Yammer feed in a SharePoint page"
 ms.author: v-teflor
-author: TeresaFloreanoGoertz
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -10,6 +10,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.service: yammer
 ms.custom: Adm_Yammer
+ms.collection: SPO_Content
 search.appverid:
 - MET150
 - MOE150

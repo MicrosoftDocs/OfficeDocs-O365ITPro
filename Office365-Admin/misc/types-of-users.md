@@ -22,6 +22,7 @@ search.appverid:
 ms.assetid: 0dc55430-98d6-4cbe-ba69-1a4ad29a967d
 ROBOTS: NOINDEX
 description: "Learn about types of users in the admin center. "
+ms.custom: okr_smb
 ---
 
 # Quick help: Types of users
@@ -43,14 +44,14 @@ On the **Active users** page in the Microsoft 365 admin center, you can filter b
 |User management admins  <br/> |These users can reset passwords, monitor service health, manage user accounts, user groups, and service requests. They can't delete a global admin, create other admin roles, or reset passwords for billing, global, and service admins.  <br/> |
 |Add custom filter  <br/> |With this option, you can create a custom filter to view only certain types of users of your preference, such as which users are on the Office 365 Business plan. [Quick help: Filter users](https://support.office.com/article/8ac6a63c-04d8-4ceb-91af-d7e27b6eac0c).  <br/> |
    
-## Related topics
+## Related articles
 
-- [Add users in Office 365](../add-users/add-users.md)
+[Add users in Office 365](../add-users/add-users.md)
     
-- [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md)
+[Assign licenses to users in Office 365 for business](../manage/assign-licenses-to-users.md)
     
-- [Remove licenses from users in Office 365 for business](../subscriptions-and-billing/remove-licenses-from-users.md)
+[Remove licenses from users in Office 365 for business](../manage/remove-licenses-from-users.md)
     
-- [Assigning admin roles in Office 365](../add-users/assign-admin-roles.md)
+[Assigning admin roles in Office 365](../add-users/assign-admin-roles.md)
     
 

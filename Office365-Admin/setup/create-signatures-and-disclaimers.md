@@ -23,7 +23,6 @@ description: "Learn to add email signature, legal disclaimer, or disclosure stat
 
  You can add an email signature, legal disclaimer, or disclosure statement to the email messages that enter or leave your organization. You can set it up to apply to all incoming and outgoing messages as shown below. Or you can apply it to certain messages like those containing specific words or text patterns.
   
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/4b6fc71a-ed01-434f-ac08-92c4a0b2b982?autoplay=false]
   
 ## Create a signature that applies to all messages
 
@@ -63,14 +62,14 @@ Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=850
 6. Under **Apply this rule**, select **[Apply to all messages]**.
     
     > [!TIP]
-    > [Learn more](https://docs.microsoft.com/en-us/Exchange/policy-and-compliance/mail-flow-rules/signatures#Scoping) about applying conditions if you don't want the disclaimer applied to all messages. (This scoping article is for Exchange Server, but it also applies to Office 365.) 
+    > [Learn more](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/signatures#Scoping) about applying conditions if you don't want the disclaimer applied to all messages. (This scoping article is for Exchange Server, but it also applies to Office 365.) 
   
 7. Under Do the following, leave **Append the disclaimer** selected. 
     
 8.  Select **Enter text** and type your disclaimer. 
     
     > [!TIP]
-    > [Learn more](https://docs.microsoft.com/en-us/Exchange/policy-and-compliance/mail-flow-rules/signatures#FormatDisclaimer) about formatting disclaimers. (This formatting article is for Exchange Server, but it also applies to Office 365.) 
+    > [Learn more](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/signatures#FormatDisclaimer) about formatting disclaimers. (This formatting article is for Exchange Server, but it also applies to Office 365.) 
 
 9. Select **Select one** and choose **Wrap** as a fallback option. Then **OK**. This means that if the disclaimer can't be added because of encryption or another mail setting, it will be wrapped in a message envelope.
     
@@ -98,6 +97,6 @@ To gain these and other capabilities, use a third-party tool. Please do an inter
   
 ## More resources
 
-- See [Organization-wide message disclaimers, signatures, footers, or headers in Office 365](https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/disclaimers-signatures-footers-or-headers) for information about using PowerShell. 
+- See [Organization-wide message disclaimers, signatures, footers, or headers in Office 365](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/disclaimers-signatures-footers-or-headers) for information about using PowerShell. 
     
 

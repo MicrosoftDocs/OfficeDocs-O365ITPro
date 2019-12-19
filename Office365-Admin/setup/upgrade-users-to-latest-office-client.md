@@ -39,7 +39,7 @@ Office 2007 reached end-of-support on October 10, 2017, and anyone using Outlook
 In addition, since February 28, 2017, users in your organization can no longer download and install Office 2013 themselves from the Office 365 software page. See [Office 2013 is no longer available for installation with an Office 365 subscription](https://support.office.com/article/de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).
   
 > [!TIP]
-> Check mainstream support end dates for all Office software at [Microsoft Lifecycle Policy](https://support.microsoft.com/en-us/lifecycle/selectindex). 
+> Check mainstream support end dates for all Office software at [Microsoft Lifecycle Policy](https://support.microsoft.com/lifecycle/selectindex). 
   
 ## Upgrade steps
 
@@ -168,13 +168,13 @@ If you'd prefer to install your older version of Office side-by-side with the la
     
 - [Office 2010](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx#OfficeVerson=2010)
     
-- [Office 2007](https://support.microsoft.com/en-us/kb/928218)
+- [Office 2007](https://support.microsoft.com/kb/928218)
     
-- [Office 2003](https://support.microsoft.com/en-us/kb/971179)
+- [Office 2003](https://support.microsoft.com/kb/971179)
     
 ## Step 4 - Assign Office licenses to users
 
-If you haven't already done so, assign licenses to any users in your organization who need to install Office, see [Assign licenses to users in Office 365 for business](../subscriptions-and-billing/assign-licenses-to-users.md).
+If you haven't already done so, assign licenses to any users in your organization who need to install Office, see [Assign licenses to users in Office 365 for business](../manage/assign-licenses-to-users.md).
   
 ## Step 5 - Install Office
 

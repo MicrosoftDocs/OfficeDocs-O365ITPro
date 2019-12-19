@@ -53,15 +53,11 @@ Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=850
     
 2. Select **Groups** \> **Groups** in the left navigation pane, and then select **Add a group**. 
       
-3. Under **Type** of group, select the drop-down menu and choose **Distribution list**.
-    
-    ![Add a group page - Select the drop-down menu and choose distribution list](../media/fb663b0a-b6f2-4487-8bdd-0777ed50b735.png)
+3. On the **Choose a group type** field, choose **Distribution**, and then choose **Next**.
   
-4. Enter a name and add a description for your new group.
+4. Enter a name, description, and email alias for your new group, and choose whether you want people outside your organization to send email to the group. 
     
-    You can choose whether you want people outside your organization to send email to the group.
-    
-5. When you're ready, select **Add** to create the distribution group, and **Close** to view your group. 
+5. Press **Add** to create a group, and then review your group and choose **Close**. 
     
 6. To add users to your distribution group, see [Add a user or contact to an Office 365 distribution group](../email/add-user-or-contact-to-distribution-list.md).
     

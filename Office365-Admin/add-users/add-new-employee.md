@@ -1,7 +1,7 @@
 ---
 title: "Add a new employee to Office 365"
-ms.author: supotter
-author: supotter
+ms.author: pebaum
+author: pebaum
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -21,13 +21,6 @@ description: "Add new employees to Office 365 for business for email, Skype, and
 ---
 
 # Add a new employee to Office 365
-
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
 
 This article helps you onboard a new employee to Office 365 for business. We assume you're an Admin and you've already [completed Office 365 set up](../setup/setup.md), and now you have someone new joining your company.
   
@@ -85,7 +78,7 @@ And here's a quick reference to help get them started:
 |Complete the SharePoint Online training to help you collaborate with coworkers and share content.  <br/> |The best place to keep documents that your coworkers will also access is in SharePoint Online.  <br/> <br/>**Training:** [Video: Collaborate with team content using SharePoint Online](https://support.office.com/article/2dd9aeff-7749-4b78-9696-eb0f6267f1f5.aspx) <br/><br/> **Find out:** How is your organization using SharePoint Online, and what type of documents get stored there. Also, which documents are stored in OneDrive for Business.  <br/> |
 
    
-## Related Topics
+## Related articles
 
 
 [Remove a former employee from Office 365](remove-former-employee.md)

@@ -42,12 +42,13 @@ ms.custom:
 - TopSMBIssues
 - SaRA
 - MSStore_Link
+- okr_smb
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 6383f56d-3d09-4dcb-9b41-b5f5a5efd611
-description: "Add your domain to Office 365 in the admin center by adding a DNS record at your DNS host. The setup wizard walks you through the process."
+description: "Add your domain to Office 365 in the Microsoft 365 admin center by adding a DNS record at your DNS host. The setup wizard walks you through the process."
 ---
 
 # Add a domain to Office 365
@@ -56,9 +57,9 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
   
  *To Add, modify or remove domains you **must** be a **Global Administrator** of a [business or enterprise plan](https://products.office.com/business/office). These changes affect the whole tenant, *Customized administrators* or *regular users* won't be able to make these changes.*  
 
-::: moniker range="o365-worldwide"
+ Follow these steps to add, set up, or continue setting up a domain. 
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/dda6df6d-37b0-41ff-905b-089448355a31?autoplay=false]
+::: moniker range="o365-worldwide"
   
 ::: moniker-end
 
@@ -85,7 +86,7 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
 
 ::: moniker-end
     
-2. Go to the **Setup** > **Domains** page. 
+2. Go to the **Settings** > **Domains** page. 
 
 3. Select **Add domain**.
     
@@ -120,9 +121,14 @@ description: "Add your domain to Office 365 in the admin center by adding a DNS 
     
 8. Select **Finish** - you're done! 
 
-::: moniker range="o365-worldwide"
+## Related articles
 
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
+[Domains FAQ](domains-faq.md)
 
-::: moniker-end
+[What is a domain?](../get-help-with-domains/what-is-a-domain.md)
+
+[Buy a domain name in Office 365](../get-help-with-domains/buy-a-domain-name.md)
+
+[Set up your domain (host-specific instructions)](../get-help-with-domains/set-up-your-domain-host-specific-instructions.md)
+
+[Get help with Office 365 domains](../get-help-with-domains/get-help-with-domains.md)

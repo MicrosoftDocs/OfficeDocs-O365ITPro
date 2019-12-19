@@ -19,6 +19,7 @@ search.appverid:
 - BEA160
 ms.assetid: 7e77382b-b966-4ad5-a515-9e629a777a22
 description: "Find out how much tax you will be charged for your Office 365 for business subscription in different regions. "
+ms.custom: okr_SMB
 ---
 
 # What tax will I be charged for Office 365?
@@ -47,9 +48,8 @@ You might qualify for VAT zero-rating:
 
 ::: moniker range="o365-worldwide"
   
-#### Use the new admin center to add your VAT ID
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
@@ -61,17 +61,15 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
 
-::: moniker range="o365-worldwide"
-#### Use the old admin center to add your VAT ID
-::: moniker-end
+::: moniker range="o365-germany"
   
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
-
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847745" target="_blank">Subscriptions</a> page.
 
 2. Select the subscription name, and then select **More actions** \> **Edit VAT number**.
   
 3. On the **Edit your service usage address** page, enter your VAT ID in the **VAT number** box, and then select **Submit**.
+
+::: moniker-end
 
 ## Asia Pacific countries (APAC)
 
@@ -93,7 +91,7 @@ In the United States and Canada, various tax rates apply depending on your locat
   
 If your billing is done by Microsoft Corporation ([see your invoice](view-your-bill-or-invoice.md)), and you signed up for Office 365 outside of the United States, Canada, and Puerto Rico, then tax is generally not charged.
   
-## Related topics
+## Related articles
 
 [Apply for tax exempt status](apply-for-tax-exempt-status.md)
   

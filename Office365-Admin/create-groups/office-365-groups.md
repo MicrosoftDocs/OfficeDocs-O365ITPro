@@ -1,5 +1,6 @@
 ---
 title: "Overview of Office 365 Groups for administrators"
+ms.reviewer: arvaradh
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
@@ -22,7 +23,7 @@ description: "Learn about Office 365 Groups."
 
 # Overview of Office 365 Groups for administrators
 
-With Office 365 Groups, you can give a group of people access to a collection of collaboration resources for those people to share. These resources include:
+Office 365 Groups is the foundational membership service that drives all teamwork across Microsoft 365. With Office 365 Groups, you can give a group of people access to a collection of collaboration resources for those people to share. These resources include:
 
 - A shared Outlook inbox
 - A shared calendar
@@ -43,7 +44,7 @@ Groups have the following roles:
 - **Members** - Members can access everything in the group, but can't change group settings.
 - **Guests** - Group guests are members who are from outside your organization. By default group members can invite guests to join your group, though you can [control that setting](manage-guest-access-in-groups.md).
 
-People in the following admin roles can create and manage groups in the admin center: global admin, Exchange admin, user management admin. You can't be a delegated admin (for example, a consultant who is an admin on behalf of).
+Only global admins and user management admins can create and manage groups in the admin center. You can't be a delegated admin (for example, a consultant who is an admin on behalf of).
 
 As an administrator, you can:
 
@@ -91,9 +92,9 @@ Office 365 Groups works with Azure Active Directory (AAD). The Groups features y
 > For all the Groups features, if you have an Azure AD Premium subscription, users can join the group whether or not they have an AAD P1 license assigned to them. Licensing isn't enforced.
 > Periodically we will generate usage reports that tell you which users are missing a license, and need one assigned to them to be compliant with the licensing requirements. For example, let's say a user doesn't have a license and they are added to a group where the naming policy is enforced. The report will flag for you that they need a license.
 
-## Related topics
+## Related articles
 
-[Learn about Office 365 Groups](https://support.office.com/en-us/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
+[Learn about Office 365 Groups](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
 
 [Upgrade distribution lists to Office 365 Groups](../manage/upgrade-distribution-lists.md)
 

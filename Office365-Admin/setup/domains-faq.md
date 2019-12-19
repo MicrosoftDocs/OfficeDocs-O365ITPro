@@ -24,6 +24,7 @@ search.appverid:
 - GEA150
 ms.assetid: 1272bad0-4bd4-4796-8005-67d6fb3afc5a
 description: "Learn more about domains in Office 365 by finding answers to your questions in FAQ."
+ms.custom: okr_smb
 ---
 
 # Domains FAQ
@@ -92,17 +93,19 @@ You have to set up the DNS records for Office 365 services yourself (unless you 
 
 A domain is a unique name that appears after the **@** sign in email addresses, and after **www.** in web addresses. It typically takes the form of your organization's name and a standard Internet suffix, such as  *yourbusiness.com*  or  *stateuniversity.edu.* 
   
-Using a custom domain like "**rob@contoso.com**" with Office 365 can help build credibility and recognition for your brand. 
+Using a custom domain like "**rob\@contoso.com**" with Office 365 can help build credibility and recognition for your brand. 
   
 You can [buy a domain in Office 365 and we'll set it up automatically](../get-help-with-domains/buy-a-domain-name.md), or you can buy or bring one you already own from a domain registrar.
   
-## Can I transfer my domain away from Office 365 to another provider?
+## Can I transfer a domain I purchased from Microsoft to another provider?
 
-Yes, but you can't transfer an Office 365 domain to another registrar until 60 days after you registered it with Office 365.
+Yes, but you can't transfer an Office 365 domain to another registrar until 60 days after you purchased it with Office 365.
+
+Please note that a *Whois* query will show an Office 365 purchased domain registrar as Wild West Domains LLC. However, only Office 365 should be contacted regarding your Office 365 purchased domain.
   
 Follow the steps below to get the code at Office 365, and then go to the other domain registrar's website to set up transferring your domain name to that registrar.
   
-1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
     
@@ -119,6 +122,8 @@ Follow the steps below to get the code at Office 365, and then go to the other d
 7. After the transfer is complete, you'll renew your domain at the new domain registrar.
     
 8. To finish the process, go back to the admin center **Domains** page and select **Complete Domain Transfer**. 
+
+*Note: Please note that Office 365 purchased domains are not eligible for Name Server changes or transferring the domain between Office 365 Tenants.  If either of these are required, the domain registration will need to be transferred to another registrar.*
     
 ## How do I change how my DNS records are managed in Office 365?
 
@@ -130,7 +135,7 @@ Follow the steps below to get the code at Office 365, and then go to the other d
     
 3. Follow a link to go to the domains setup wizard:
     
-4. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+4. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
     
@@ -147,7 +152,7 @@ Follow the steps below to get the code at Office 365, and then go to the other d
 
 ### Change DNS management to Office 365
   
-1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
     
@@ -211,11 +216,11 @@ Providers that support all required DNS records:
     
  **If SPF/TXT records are not supported**, other people may be able to use your domain to send spam or other malicious email. SPF records work by identifying the servers that are authorized to send email from your domain. 
   
-## How do I change the default domain in Office 365?
+## How do I set or change the default domain in Office 365?
 
 You must have at least one custom domain that you've added to Office 365 before you can choose a default domain.
   
-1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
     If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
     
@@ -276,7 +281,7 @@ When you add multiple domains to Office 365, you can host any of the services (l
 
 Office 365 creates a domain for you, like *contoso.onmicrosoft.com*, when you sign up with the service. The user ID that you create when you sign up includes the domain, like *alan@contoso.onmicrosoft.com*. 
   
- **If you want to have your email look like *alan@contoso.com*:** [buy the domain](../get-help-with-domains/buy-a-domain-name.md) or just follow the steps in [Add your users and domain to Office 365](add-domain.md) if you own it already. 
+ **If you want to have your email look like *alan\@contoso.com*:** [buy the domain](../get-help-with-domains/buy-a-domain-name.md) or just follow the steps in [Add your users and domain to Office 365](add-domain.md) if you own it already. 
   
 - **You can't rename the onmicrosoft domain after sign-up.** For example, if the initial domain you chose was fourthcoffee.onmicrosoft.com, you can't change it to be fabrikam.onmicrosoft.com. To use a different onmicrosoft.com domain, you'd have to start a new subscription with Office 365. 
     
@@ -317,7 +322,7 @@ You can keep using the initial onmicrosoft.de domain even after you add your dom
     
 Have a nonprofit and want to get Office 365? [Make sure your organization qualifies](https://www.microsoft.com/en-us/nonprofits/eligibility) and then sign up for the service. 
   
-Want to know more about becoming the admin for your school? [Learn all about it](https://docs.microsoft.com/en-us/microsoft-365/education/deploy/becoming-an-admin-in-office-365-education
+Want to know more about becoming the admin for your school? [Learn all about it](https://docs.microsoft.com/microsoft-365/education/deploy/becoming-an-admin-in-office-365-education
 ).
   
 ## Can I pilot Office 365 with just a few email addresses from my custom domain?
@@ -339,7 +344,7 @@ You can, but there are limitations:
     
     1. Sign in to Office 365 with your work or school account.
         
-    2. Go to **Setup** \> **Domains**. 
+    2. Go to **Settings** \> **Domains**. 
     
 2. Verify that you own the domain you want to use
     

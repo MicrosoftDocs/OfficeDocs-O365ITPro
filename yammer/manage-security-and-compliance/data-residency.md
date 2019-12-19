@@ -1,7 +1,7 @@
 ---
 title: "Data residency"
 ms.author: v-teflor
-author: TeresaFloreanoGoertz
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -59,7 +59,7 @@ The following Yammer features are not available for Yammer networks in the EU Ge
 ##  Reprovision your Yammer Enterprise network to EU Geo
 Customers with a minimum of 10,000 licensed users can have their Yammer Enterprise network reprovisioned to Yammer EU Geo. Please talk to your Microsoft account team representative for details.
 
-## See also
+## Related articles
 
 [Where is your Office 365 data located](https://go.microsoft.com/fwlink/?linkid=2083810)
 

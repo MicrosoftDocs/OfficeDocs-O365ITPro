@@ -137,6 +137,7 @@ search.appverid:
 - GEA150
 ms.assetid: a8b487a9-2a45-4581-9dc4-5d28a47010a2
 description: "Learn how to add and set up your domain in Office 365 so that your services like email and Skype for Business Online use your own domain name."
+ms.custom: okr_smb
 ---
 
 # Change nameservers to set up Office 365 with any domain registrar
@@ -196,7 +197,7 @@ Now that you've added the record at your domain registrar's site, you'll go back
 When Office 365 finds the correct TXT record, your domain is verified.
   
 
-1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
 2. On the **Domains** page, select the domain that you are verifying. 
     
@@ -267,7 +268,7 @@ For example, here are some additional steps that might be required for email and
     
 - Want to add a domain that's currently used with a website address, like www.fourthcoffee.com? You can take below steps while you add the domain to keep its website hosted where the site is hosted now so people can still get to the website after you change the domain's NS records to point to Office 365.
 
-1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 
 3. On the Domains page, select a domain.
 

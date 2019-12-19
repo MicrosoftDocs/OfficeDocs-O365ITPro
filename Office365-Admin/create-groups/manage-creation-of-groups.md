@@ -1,6 +1,7 @@
 ---
 title: "Manage who can create Office 365 Groups"
 ms.author: mikeplum
+ms.reviewer: arvaradh
 author: MikePlumleyMSFT
 manager: pamgreen
 audience: Admin
@@ -35,6 +36,8 @@ This article explains how to disable the ability to create groups **in all Offic
 - Yammer
     
 - Microsoft Teams
+
+- Microsoft Stream
     
 - StaffHub
     
@@ -50,9 +53,9 @@ The steps in this article won't prevent members of certain roles from creating G
         
   - Exchange Administrator: Exchange Admin center, Azure AD
     
-  - Partner Tier1 Support: Microsoft 365 Admin center, Exchange Admin center, Azure AD
+  - Partner Tier 1 Support: Microsoft 365 Admin center, Exchange Admin center, Azure AD
     
-  - Partner Tier2 Support: Microsoft 365 Admin center, Exchange Admin center, Azure AD
+  - Partner Tier 2 Support: Microsoft 365 Admin center, Exchange Admin center, Azure AD
     
   - Directory Writers: Azure AD
 
@@ -60,9 +63,9 @@ The steps in this article won't prevent members of certain roles from creating G
   
   - Teams Service Administrator: Teams Admin center, Azure AD
   
-  - User Management Administrator: Microsoft 365 Admin center, Azure AD
-    
-If you're a member of one of these roles, you can create Office 365 Groups for restricted users, and then assign the user as the owner of the group.
+  - User Management Administrator: Microsoft 365 Admin center, Yammer, Azure AD
+     
+If you're a member of one of these roles, you can create Office 365 Groups for restricted users, and then assign the user as the owner of the group. Users that have this role are able to create connected groups in Yammer, regardless of any PowerShell settings that might prevent creation.
 
 ## Licensing requirements
 
@@ -79,16 +82,16 @@ The following people don't need Azure AD Premium or Azure AD Basic EDU licenses 
 
 Only one security group in your organization can be used to control who is able to create Groups. But, you can nest other security groups as members of this group. For example, the group named Allow Group Creation is the designated security group, and the groups named Microsoft Planner Users and Exchange Online Users are members of that group.
 
-Admins in the roles listed above do not need to be members of this group: they retain thier ability to create groups.
+Admins in the roles listed above do not need to be members of this group: they retain their ability to create groups.
 
 > [!IMPORTANT]
 > Be sure to use a **security group** to restrict who can create groups. If you try to use an Office 365 Group, members won't be able to create a group from SharePoint because it checks for a security group. 
     
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
 
-2. Select **Add a group**, and then in the **Type** list, choose **Security**. Remember the name of the group! You'll need it later.
+2. Choose **Security** as the group type. Remember the name of the group! You'll need it later.
   
-2. Add people or other security groups who you want to be able to create Groups in your org.
+2. Finish setting up the security group, adding people or other security groups who you want to be able to create Groups in your org.
     
 For detailed instructions, see [Create, edit, or delete a security group in the Microsoft 365 admin center](../email/create-edit-or-delete-a-security-group.md).
   
@@ -177,7 +180,9 @@ if($GroupName)
 {
 	$settingsCopy["GroupCreationAllowedGroupId"] = (Get-AzureADGroup -SearchString $GroupName).objectid
 }
-
+ else {
+$settingsCopy["GroupCreationAllowedGroupId"] = $GroupName
+}
 Set-AzureADDirectorySetting -Id $settingsObjectID -DirectorySetting $settingsCopy
 
 (Get-AzureADDirectorySetting -Id $settingsObjectID).Values
@@ -189,7 +194,7 @@ The last line of the script will display the updated settings:
 
 If in the future you want to change which security group is used, you can rerun the script with the name of the new security group.
 
-If you want to turn off the group creation restriction and again allow all users to create groups, set `$GroupName` to "" and `$AllowGroupCreation` to "True" and rerun the script.
+If you want to turn off the group creation restriction and again allow all users to create groups, set $GroupName to "" and $AllowGroupCreation to "True" and rerun the script.
     
 ## Step 4: Verify that it works
 
@@ -212,6 +217,6 @@ Try the same procedure again with a member of the security group.
 
 [Set up self-service group management in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-self-service-management)
 
-[Set-ExecutionPolicy](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy)
+[Set-ExecutionPolicy](https://docs.microsoft.com/powershell/module/microsoft.powershell.security/set-executionpolicy)
 
 [Azure Active Directory cmdlets for configuring group settings](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-settings-cmdlets)

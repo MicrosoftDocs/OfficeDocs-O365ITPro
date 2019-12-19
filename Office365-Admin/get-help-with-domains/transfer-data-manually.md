@@ -90,7 +90,7 @@ There are several ways to save or transfer team site data:
     
 - To transfer list data, save a [list template](https://support.office.com/article/c3884ad1-bc49-44b8-b3d6-3bc6a01eb393.aspx), and use the saved template to re-create the list on the new site.
     
-- To save a document library or list content from a SharePoint Online environment (OneDrive for Business or team sites) to file shares or to a local computer, see [Information about manual migration of SharePoint Online content](https://support.microsoft.com/en-us/kb/2783484).
+- To save a document library or list content from a SharePoint Online environment (OneDrive for Business or team sites) to file shares or to a local computer, see [Information about manual migration of SharePoint Online content](https://support.microsoft.com/kb/2783484).
     
 ## Transfer users' data between subscriptions
 <a name="__team_site"> </a>
@@ -101,6 +101,6 @@ Ask users to [move their email, contacts, tasks, and calendar information](https
   
 ### OneDrive For Business data:
 
-Ask users to [OneDrive for Business content to their computer](https://support.office.com/article/59b1de2b-519e-4d3a-8f45-51647cf291cd.aspx), and then add it back to their new subscription.
+Ask users to Copy/Sync [OneDrive for Business content to their computer](https://support.office.com/article/59b1de2b-519e-4d3a-8f45-51647cf291cd.aspx), and then add it back to their new subscription.
   
 

@@ -173,7 +173,7 @@ Whenever you close a user's account, Microsoft will delete that user's usage dat
   
 However, when you select a particular day (see number 3), up to 28 days from the current date, the report show the user's usage for that day in the User Details table (see number 2).
   
-## Related Topics
+## Related articles
 
 [Reports in the Security &amp; Compliance Center](https://support.office.com/article/7acd33ce-1ec8-49fb-b625-43bac7b58c5a)
   

@@ -1,7 +1,7 @@
 ---
 title: "Add, block, or remove Yammer users"
 ms.author: v-teflor
-author: TeresaFloreanoGoertz
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -244,7 +244,7 @@ Excel does not encode non-English characters in CSV files correctly. If you have
 > [!TIP]
 > Each user can customize their individual email notification preferences by clicking the three dots in the top navigation bar and going to **Edit Profile** \> **Notifications**. They can also go to **Edit Profile** \> **Preferences** to adjust their own message and time zone settings. 
   
-## See also
+## Related articles
 
 [Manage Yammer users across their lifecycle from Office 365](manage-users-across-their-lifecycle.md)
   

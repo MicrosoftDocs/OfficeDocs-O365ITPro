@@ -28,6 +28,7 @@ search.appverid:
 - GEA150
 ms.assetid: 1561140a-16a9-4a02-822d-a989250e479d
 description: "Learn how to buy a domain name in Office 365."
+ms.custom: okr_smb
 ---
 
 # Buy a domain name in Office 365
@@ -38,7 +39,7 @@ description: "Learn how to buy a domain name in Office 365."
   
 ### Sign in and go to Settings \> Domains \> Buy a domain
 
-1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
 3. On the **Domains** page, select **Buy domain**.
     
@@ -116,3 +117,10 @@ After you register your domain (at a domain registrar), you sign in to Office 36
     
 ::: moniker-end
 
+## Related articles
+
+[Add a domain to Office 365](../setup/add-domain.md)
+
+[Domains FAQ](../setup/domains-faq.md)
+
+[Get help with Office 365 domains](get-help-with-domains.md)

@@ -102,15 +102,4 @@ Error Code: 302
   
 If that doesn't work, clear the cache, and re-create the content pack.
   
-## Failed to update data source credentials
-
- **Error Code:** 400 
-  
- **Where you will see this message:** In Power BI when you are connecting to the Office 365 Adoption public preview content pack. 
-  
- **Cause:** Some users who have multi-factor authentication (MFA) enforced may see a 400 error when connecting to the content pack. This is currently a known issue and only impacts the connection flow. 
-  
- **To fix this:** Connect with credentials that are not MFA enforced. 
-  
-A global admin can turn MFA on or off, for instructions, see [Set up multi-factor authentication for Office 365 users](../security-and-compliance/set-up-multi-factor-authentication.md).
   

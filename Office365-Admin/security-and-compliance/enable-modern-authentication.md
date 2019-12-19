@@ -49,7 +49,7 @@ To disable modern authentication on a device, set the following registry keys on
 |**Registry key**|**Type**|**Value** <br/>|
 |HKCU\SOFTWARE\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |0  <br/> |
    
-## Related Topics
+## Related articles
 [Sign in to Office 2013 with a second verification method](https://support.office.com/article/2b856342-170a-438e-9a4f-3c092394d3cb.aspx)
 
   

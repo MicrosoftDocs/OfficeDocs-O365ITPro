@@ -10,7 +10,7 @@ f1_keywords:
 - 'O365M_GSWViewBill'
 - 'O365E_GSWViewBill'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
@@ -18,7 +18,7 @@ ms.collection:
 - commerce
 ms.custom:
 - TopSMBIssues
-search.appverid:
+- okr_SMB
 - BCS160
 - MET150
 - MOE150
@@ -59,20 +59,8 @@ If you need help interpreting the charges you see on your bill, see [Understand 
 
 4. To print or save a PDF copy of the invoice, select **Download PDF**.
 
-
-## Stop receiving a copy of my billing statement in email
-
-By default, you will receive a copy of your billing statement as an email attachment. You can choose to stop receiving a copy by email.
   
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=853212" target="_blank">Billing notifications</a> page.
-
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=853213" target="_blank">Billing notifications</a> page.
-
-2. Under **Receive billing statement as email attachment?**, switch the toggle to **Off**.
-
-    You can resume receiving the billing statement emails at any time by switching the toggle to **On**.
-  
-## Related topics
+## Related articles
 
 [Pay by invoice, credit card, or bank account](pay-for-your-subscription.md)
   

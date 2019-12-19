@@ -1,7 +1,7 @@
 ---
 title: "What to do when users cannot log in to Yammer on Android devices"
 ms.author: v-teflor
-author: TeresaFloreanoGoertz
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin

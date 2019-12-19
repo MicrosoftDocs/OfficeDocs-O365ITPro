@@ -57,13 +57,6 @@ When you change your domain's email to come to Office 365, by updating your doma
   
 ## Change your email address to use your custom domain using the Microsoft 365 admin center
 
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
-
 You must have a global admin account to perform these steps. 
 
 ::: moniker range="o365-worldwide"
@@ -84,15 +77,18 @@ You must have a global admin account to perform these steps.
 
 ::: moniker-end 
 
-2. Go to the **Setup** > **Domains** page. 
+2. Go to the **Settings** > **Domains** page. 
 
 3. On the **Domains** page, select **Add domain**.
     
 4. Follow the steps to confirm that you own your domain and to change your email address.
     
 You'll be guided to get everything set up correctly with your domain in Office 365.
+
+> [!NOTE]
+> If you are not using an Exchange license, you cannot use the domain to send or receive emails from the Office 365 tenant.
   
-## See Also
+## Related articles
 
 [Buy a custom domain using Office 365](../get-help-with-domains/buy-a-domain-name.md)
  

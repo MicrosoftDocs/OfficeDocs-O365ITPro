@@ -6,6 +6,7 @@ manager: pamgreen
 ms.date: 8/14/2019
 audience: Admin
 layout: LandingPage
+ms.topic: Overview
 ms.service: o365-administration
 localization_priority: Priority
 description: "IThis article describes how an Office 365 global admin can export data for a specific user from Microsoft Planner.  "
@@ -21,6 +22,7 @@ This article describes how an Office 365 global admin can export data for a spec
 ## Requirements
 
 You need to do the following first:
+
 - You must be an Office 365 Global admin to run the PowerShell script for exporting your Planner user data.
 - You need to download and unzip the [Planner user data export files](https://go.microsoft.com/fwlink/?linkid=871954). These three files are the PowerShell modules and the PowerShell script file needed to export your users data.
 
@@ -75,7 +77,7 @@ After unblocking your files, do the following to export the user data from Plann
     
     For example, the following will export Adam Barr's user information from Planner using his UPN, and will download the export files to the location C:\PlannerExportAdamBarr.
 
-    `PS> Export-PlannerUserContent -UserAadIdOrPrincipalName adambarr@contoso.onmicrosoft.com -ExportDirectory C:\PlannerExportAdamBarr `
+    `PS> Export-PlannerUserContent -UserAadIdOrPrincipalName adambarr@contoso.onmicrosoft.com -ExportDirectory C:\PlannerExportAdamBarr`
 
 4. You'll be prompted to authenticate. Log in as yourself (the Office 365 Global admin), not the user you want to export.
 
@@ -216,17 +218,17 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.Tasks.Checklist.Title|Name of the checklist item.|
 |Plan.Tasks.Checklist.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
 |Plan.Tasks.Checklist.IsChecked|If true, the checklist item has been completed.|
-|Plan.Tasks.Checklist.ModifiedBy|The user that last updated the checklist. See [User properties](#user-properties-in-the-plans.json-file) for more detail.|
+|Plan.Tasks.Checklist.ModifiedBy|The user that last updated the checklist. See [User properties](#user-properties-in-the-plansjson-file) for more detail.|
 |Plan.Tasks.Checklist.ModifiedDate|Date the checklist was last updated.|
-|Plan.Tasks.UserContentLastModifiedBy|The user that last updated the task or task details. See [User properties](#user-properties-in-the-plans.json-file) for more detail.|
+|Plan.Tasks.UserContentLastModifiedBy|The user that last updated the task or task details. See [User properties](#user-properties-in-the-plansjson-file) for more detail.|
 |Plan.Tasks.UserContentLastModifiedDate|Date the task or task details was last updated.|
 |Plan.Buckets  |Bucket objects for the plan.|
 |Plan.Buckets.Id|Unique identifier for the bucket.|
 |Plan.Buckets.Title|Name of the bucket.|
 |Plan.Buckets.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
-|Plan.Buckets.Createdby|The user that created the bucket. See [User properties](#user-properties-in-the-plans.json-file) for more detail.|
+|Plan.Buckets.Createdby|The user that created the bucket. See [User properties](#user-properties-in-the-plansjson-file) for more detail.|
 |Plan.Buckets.CreatedDate|Date the bucket was created.|
-|Plan.Buckets.ModifiedBy|The user that last updated the bucket. See [User properties](#user-properties-in-the-plans.json-file) for more detail.|
+|Plan.Buckets.ModifiedBy|The user that last updated the bucket. See [User properties](#user-properties-in-the-plansjson-file) for more detail.|
 |Plan.Buckets.ModifiedDate|Date the bucket was last updated.|
 
 ### User properties in the Plans.json file
@@ -257,6 +259,6 @@ Each of the above will have the following properties:
 |UserPrincipalName|User Principal Name (UPN) of the user.  |
 |PrincipalType|The entity type (User or Group).|
 
-## See Also
+## Related articles
 
 [Delete user data in Microsoft Planner](delete-user-data.md)

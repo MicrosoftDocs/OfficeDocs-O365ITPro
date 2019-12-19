@@ -133,7 +133,8 @@ Add the SIP SRV record for Skype for Business Online web conferencing.  <br/>
     -  Protocol: _tls
     -  Priority: 100
     -  Weight: 1
-    -  Port: 443Target (Hostname): sipdir.online.lync.com
+    -  Port: 443
+    -  Target (Hostname): sipdir.online.lync.com
 -  Select **OK**. 
 
 
@@ -159,8 +160,8 @@ Before you add the DNS records to set up your Office 365 services, Office 365 ha
   
 
 1. Gather information from Office 365.  <br/> 
-2. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page. 
-3. On the **Domains** page, in the **Action** column for the domain that you are verifying, select **Start setup**. 
+2. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page. 
+3. On the **Domains** page, in the **Actions** column for the domain that you are verifying, select **Start setup**. 
 4. On the **Add a domain to Office 365** page, select **Start step 1**. 
 5. On the **Confirm that you own your domain** page, in the **See instructions for performing this step with** drop-down list, choose **General instructions**. 
 6. From the table, copy the Destination or Points to Address value. You'll need it for the next step. We recommend copying and pasting this value, so that all of the spacing stays correct.

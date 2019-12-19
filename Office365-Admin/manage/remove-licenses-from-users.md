@@ -6,7 +6,7 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 f1_keywords:
-- 'O365P_RemoveEXOLicense'
+- 'RemoveEXOLicense'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
@@ -22,6 +22,8 @@ search.appverid:
 - GEA150
 ms.assetid: 9b497c85-d0a4-4735-80fa-d3565bc05bd1
 description: "Learn how to remove licenses from user accounts."
+search.appverid:
+- MET150
 ---
 <!-- Clone: AgentUniversity\admin\Remove-licenses-users.md -->
 
@@ -34,6 +36,9 @@ You  can remove, or unassign, licenses from users on either the **Active users**
 
 When you use the **Licenses** page to unassign licenses, you unassign licenses for a specific product for up to 20 users. 
 
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
 1. In the admin center, go to the **Billing** > <a href="https://go.microsoft.com/fwlink/p/?linkid=842264" target="_blank">Licenses</a>  page.
 2. Select the product for which you want to unassign licenses.
 3. Select the users for which you want to unassign licenses.
@@ -45,11 +50,10 @@ When you use the **Licenses** page to unassign licenses, you unassign licenses f
 ## Unassign licenses from one user on the Active users page
 
 ::: moniker range="o365-worldwide"
+
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
   
-### Use the new admin center to remove licenses from one user
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
-
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 2. On the **Active Users** page, select the row of the user you want to unassign a license for.
@@ -60,15 +64,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
 
-::: moniker range="o365-worldwide"
-### Use the old admin center to unassign licenses for one user
-::: moniker-end
-  
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
+::: moniker range="o365-germany"
 
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
-
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
 
 2. Pick the user you want to unassign the license for.
 
@@ -78,13 +76,28 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 5. At the bottom of the **Product licenses** pane, select **Save** \> **Close** \> **Close**.
 
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+2. Pick the user you want to unassign the license for.
+
+3. On the right, in the **Product licenses** row, select **Edit**.
+
+4. In the **Product licenses** pane, switch the toggle to the **Off** position for the license you want to unassign for the user. For example, if you switch off the Office 365 Enterprise E3 license, it unassigns that license and all services under that license for that user.
+
+5. At the bottom of the **Product licenses** pane, select **Save** \> **Close** \> **Close**.
+
+::: moniker-end
+
 ## Unassign licenses from multiple users on the Active users page
 
 ::: moniker range="o365-worldwide"
 
-### Use the new admin center to remove licenses from multiple users
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
@@ -98,15 +111,9 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker-end
 
-::: moniker range="o365-worldwide"
-### Use the old admin center to unassign licenses for multiple users
-::: moniker-end
+::: moniker range="o365-germany"
   
-1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
-
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
-
-    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.
 
 2. Select the boxes next to the names of the users you want to unassign all licenses for.
 
@@ -115,6 +122,22 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 4. In the **Replace existing products** pane, select **Replace existing product license assignments** \> **Next**.
 
 5. At the bottom of the **Replace existing products** pane, select the **Remove all product licenses from the selected users** check box, then select **Replace** \> **Close** \> **Close**.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+  
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+2. Select the boxes next to the names of the users you want to unassign all licenses for.
+
+3. In the **Bulk actions** pane, select **Edit product licenses**.
+
+4. In the **Replace existing products** pane, select **Replace existing product license assignments** \> **Next**.
+
+5. At the bottom of the **Replace existing products** pane, select the **Remove all product licenses from the selected users** check box, then select **Replace** \> **Close** \> **Close**.
+
+::: moniker-end
 
 ## What you need to know about unassigning licenses for users
 
@@ -128,16 +151,16 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
    Also, the user's mailbox is no longer searchable by using an eDiscovery tool such as Content Search or Advanced eDiscovery when the license is removed. For more information, see the "Searching disconnected or de-licensed mailboxes" section in [Content Search in Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search#searching-disconnected-or-de-licensed-mailboxes).
 
-- If you have an Enterprise subscription, like Office 365 Enterprise E3, Exchange Online lets you preserve the mailbox data of a deleted user account by using [inactive mailboxes](https://docs.microsoft.com/en-us/office365/securitycompliance/inactive-mailboxes-in-office-365). For more information, see [Create and manage inactive mailboxes in Exchange Online](https://docs.microsoft.com/en-us/office365/securitycompliance/create-and-manage-inactive-mailboxes).
+- If you have an Enterprise subscription, like Office 365 Enterprise E3, Exchange Online lets you preserve the mailbox data of a deleted user account by using [inactive mailboxes](https://docs.microsoft.com/office365/securitycompliance/inactive-mailboxes-in-office-365). For more information, see [Create and manage inactive mailboxes in Exchange Online](https://docs.microsoft.com/office365/securitycompliance/create-and-manage-inactive-mailboxes).
 
 - For information about how to block a user's access to Office 365 data after their license has been removed and how to get access to the data afterwards, see [Remove a former employee](../add-users/remove-former-employee.md).
 
 - If you remove a user's license and they still have Office installed, they see [Unlicensed Product notifications](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx) when they use Office.
 
-## Related topics
+## Related articles
 
-- [Understand subscriptions and licenses](subscriptions-and-licenses.md)
+[Understand subscriptions and licenses](../subscriptions-and-billing/subscriptions-and-licenses.md)
 
-- [Remove licenses from your subscription](remove-licenses-from-subscription.md)
+[Remove licenses from your subscription](../subscriptions-and-billing/remove-licenses-from-subscription.md)
 
-- [Assign licenses to users](assign-licenses-to-users.md)
+[Assign licenses to users](assign-licenses-to-users.md)

@@ -1,7 +1,7 @@
 ---
 title: "Create and manage an external network in Yammer"
 ms.author: v-teflor
-author: TeresaFloreanoGoertz
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -116,6 +116,6 @@ To get back to your home network, click the home network name at the end of the 
     
 4. At the bottom of the page, click **Delete External Network**, and then on the confirmation page, click **Delete**.
     
-## See also
+## Related articles
 
 [Manage Yammer security settings](../manage-security-and-compliance/yammer-security-settings.md)

@@ -20,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: a25c10d6-c1e9-4299-9185-25178df9eba6
 description: "Learn how to update your billing addresses for Office 365 for business. You can also update the email address used to receive billing notifications."
+ms.custom: okr_SMB
 ---
 
 # Change your billing addresses for Office 365 for business
@@ -52,6 +53,13 @@ If you're using Office 365 operated by 21Vianet in China, see [View your bill or
 
 ::: moniker-end
 
+::: moniker range="o365-worldwide"
+
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
+::: moniker-end
+
 ## Change your Sold-To address
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2084771" target="_blank">Billing accounts</a> page.
@@ -64,35 +72,13 @@ If you're using Office 365 operated by 21Vianet in China, see [View your bill or
 
 ::: moniker range="o365-worldwide"
 
-### Use the new admin center to change your Bill-To address
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.
 
 2. Select the credit card or bank account that you want to change.
 
-3. On the **Payment details** page, select **Edit payment details**.
+3. On the **Payment method details** page, select **Edit**.
 
 4. Update your billing address, then select **Save** \> **Done**.
-
-### Use the old admin center to change your Bill-To address
-
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
-
-2. Select the subscription you want to change, then select **Change payment details**.
-
-    ![The Payment method section of a Subscription card for a subscription that pays by credit card.](../media/6c9d9cae-6086-4687-a979-bb971f35f1b4.png)
-  
-3. *Credit card and bank account customers:*  On the **Change payment details** page, select the credit card or bank account that you want to update, select **Edit details**, update your billing address, then select **Submit**
-
-    > [!NOTE]
-    > The ability to pay by bank account isn't available in some countries or regions.
-  
-    *Invoice customers:*  On the **Change payment details** page, update your billing address, then select **Submit**.
-
-    > [!NOTE]
-    > The ability to pay an invoice by check isn't available in some countries or regions.
 
 ::: moniker-end
 
@@ -134,29 +120,11 @@ The new admin center is available to all Microsoft 365 admins. You can opt in by
 
 ::: moniker range="o365-worldwide"
 
-### Use the new admin center to change your service usage address
-
-The new admin center is available to all Microsoft 365 admins. You can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
-
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
 
-2. Find the subscription you want to change. In the **Settings & actions** section, select **Edit service usage address**.
+2. Find the subscription you want to change. In the **Settings & Actions** section, select **Edit service usage address**.
 
 3. In the **Edit your service usage address** pane, update your address, then select **Save**.
-
-::: moniker-end
-
-::: moniker range="o365-worldwide"
-
-### Use the old admin center to change your service usage address
-
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a> page.
-
-2. Select the subscription you want to change, select **More actions**, then choose **Edit service usage address**.
-
-    ![Close up of the More Actions menu.](../media/befa74b7-62c1-42a3-a38e-db76a1c97dba.png)
-  
-3. In the **Edit your service usage address** pane, update your address, then select **Submit**.
 
 ::: moniker-end
 
@@ -211,3 +179,14 @@ You can also change the alternate email address of other global and billing admi
 2. On the **Billing notifications** page, select the admin you want to change.
 
 3. In the **Edit user roles** pane, type the alternate email address you want to use, then select **Save**.
+
+## Related articles
+
+[View your bill or invoice](view-your-bill-or-invoice.md)
+
+[Understand your invoice](understand-your-invoice.md)
+
+[Pay for yoursubscription](pay-for-your-subscription.md)
+
+[Subscriptions and billing - Admin Help](subscriptions-and-billing.md)
+

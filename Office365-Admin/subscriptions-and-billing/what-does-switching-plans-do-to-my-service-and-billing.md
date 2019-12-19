@@ -28,7 +28,7 @@ description: "Learn how upgrading subscriptions affects the Admins and users acc
 
 # What does upgrading Office 365 plans do to my service and billing?
 
-When you upgrade plans automatically by using the **Switch plans** button (or the **Upgrade** tab in admin center (preview)), your services and billing are affected.
+When you upgrade plans automatically by using the **Switch plans** button (or the **Upgrade** tab in the new admin center), your services and billing are affected.
   
 ## Access to services
 

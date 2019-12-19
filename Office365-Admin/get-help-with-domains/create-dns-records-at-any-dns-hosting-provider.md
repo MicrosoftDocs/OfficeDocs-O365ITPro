@@ -137,6 +137,7 @@ search.appverid:
 - GEA150
 ms.assetid: 7b7b075d-79f9-4e37-8a9e-fb60c1d95166
 description: "Learn to verify your domain and create DNS records at any DNS hosting provider for Office 365."
+ms.custom: okr_smb
 ---
 
 # Create DNS records at any DNS hosting provider for Office 365
@@ -198,7 +199,7 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
 2. On the **Domains** page, select the domain that you are verifying. 
   
@@ -373,7 +374,7 @@ On your DNS host's website, you'll create three new CNAME records, typically one
 On your DNS host's website, edit the existing SPF record or create a new TXT record for SPF.
   
 > [!IMPORTANT]
-> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/en-us/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/en-us/library/mt734386%28v=exchg.150%29.aspx). 
+> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/library/mt734386%28v=exchg.150%29.aspx). 
   
 1. In the boxes for the new record, type or copy and paste the set of values below that apply to your situation.
     
@@ -398,7 +399,7 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
 On your DNS host's website, edit the existing SPF record or create a new TXT record for SPF.
   
 > [!IMPORTANT]
-> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/en-us/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/en-us/library/mt734386%28v=exchg.150%29.aspx). 
+> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/library/mt734386%28v=exchg.150%29.aspx). 
   
 1. In the boxes for the new record, type or copy and paste the set of values below that apply to your situation.
     
@@ -423,7 +424,7 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
 On your DNS host's website, edit the existing SPF record or create a new TXT record for SPF.
   
 > [!IMPORTANT]
-> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/en-us/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/en-us/library/mt734386%28v=exchg.150%29.aspx). 
+> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/library/mt734386%28v=exchg.150%29.aspx). 
   
 1. In the boxes for the new record, type or copy and paste the set of values below that apply to your situation.
     

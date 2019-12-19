@@ -1,7 +1,7 @@
 ---
 title: "Top 10 ways to secure Office 365 and Microsoft 365 Business plans"
-ms.author: supotter
-author: supotter
+ms.author: pebaum
+author: pebaum
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -22,13 +22,6 @@ description: "Protect your business email and data from cyber threats, including
 
 # Top 10 ways to secure Office 365 and Microsoft 365 Business plans
 
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
-
 If you are a small or medium-size organization using one of Microsoft's business plans and your type of organization is targeted by cyber criminals and hackers, use the guidance in this article to increase the security of your organization. This guidance helps your organization achieve the goals described in the Harvard Kennedy School [Cybersecurity Campaign Handbook](https://go.microsoft.com/fwlink/?linkid=2015598&amp;clcid=0x409).
   
 Microsoft recommends that you complete the tasks listed in the following table that apply to your service plan. 
@@ -46,7 +39,7 @@ Microsoft recommends that you complete the tasks listed in the following table t
 |9  <br/> |[Protect against malicious attachments and files with ATP Safe Attachments](secure-your-business-data.md#atp) <br/> ||![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
 |10  <br/> |[Protect against phishing attacks with ATP Safe Links](secure-your-business-data.md#phishingatp) <br/> ||![Included](../media/d238e041-6854-4a78-9141-049224df0795.png)           <br/> |
    
-Before you begin, check your [Microsoft 365 Secure Score](https://docs.microsoft.com/en-us/office365/securitycompliance/microsoft-secure-score) in the Microsoft 365 security center. From a centralized dashboard, you can monitor and improve the security for your Microsoft 365 identities, data, apps, devices, and infrastructure. You are given points for configuring recommended security features, performing security-related tasks (such as viewing reports), or addressing recommendations with a third-party application or software. With additional insights and more visibility into a broader set of Microsoft products and services, you can feel confident reporting about your organization’s security health.
+Before you begin, check your [Microsoft 365 Secure Score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score) in the Microsoft 365 security center. From a centralized dashboard, you can monitor and improve the security for your Microsoft 365 identities, data, apps, devices, and infrastructure. You are given points for configuring recommended security features, performing security-related tasks (such as viewing reports), or addressing recommendations with a third-party application or software. With additional insights and more visibility into a broader set of Microsoft products and services, you can feel confident reporting about your organization’s security health.
   
 ![Screenshot of Microsoft Secure Score](../media/secure-score.png)
   
@@ -60,19 +53,17 @@ To see a training video for how to set up MFA and how users complete the set up,
   
 To set up multi-factor authentication:
 
-1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), turn on the new admin center by selecting the **Try the new admin center** toggle located at the top of the Home page.
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select **Setup**.
 
-2. In the right navigation pane, select **Setup**.
+2. In the **Sign-in and security** section, under **Turn on multi-factor authentication (MFA)**, select **View**. 
 
-3. On the **Turn on multi-factor authentication (MFA)** card, select **View**.
+3. On the **Make sign-in more secure** page, select **Get started**.
 
-4. Select **Get started**.
+4. Select the **Require multi-factor authentication for admins** and **Require users to register for multi-factor authentication and block access if risk is detected** check boxes.
 
-5. Select the **Require multi-factor authentication** and **Require users to register for multi-factor authentication and block access if risk is detected** check boxes.
+5. Under **Do you want to exclude anyone from these policies**, select any users that you want to exclude from the drop-down list box.
 
-6. Under **Do you want to exclude anyone from these policies**, select any users that you want to exclude from the drop-down list box.
-
-7. Select **Choose policy**. You will return to the **Multi-factor authentication (MFA)** page, which will now say **Completed**. 
+6. Select **Create policy**. You will return to the **Make sign-in more secure** page, which will now say **Manage**. 
 
 After you set up multi-factor authentication for your organization, your users will be required to set up two-step verification on their devices. For more information, see [Set up 2-step verification for Office 365](https://support.office.com/article/ace1d096-61e5-449b-a875-58eb3d74de14).
   
@@ -340,5 +331,3 @@ To create a new policy targeted to all recipients in your domain:
 |Applied to  <br/> |The recipient domain is . . . select your domain.  <br/> |
    
 For more information, see [Office 365 ATP safe links](https://go.microsoft.com/fwlink/?linkid=2016138&amp;clcid=0x409).
-  
-

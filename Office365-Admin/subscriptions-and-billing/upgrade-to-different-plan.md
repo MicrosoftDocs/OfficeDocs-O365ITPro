@@ -29,7 +29,7 @@ monikerRange: 'o365-worldwide'
 When your business changes, or you need more features, you can upgrade plans. The easiest way to do this is to use the **Upgrade** tab in the admin center. However, using the **Upgrade** tab isn't supported in all situations. In some cases, you might be able to change plans manually.
 
 > [!NOTE]
-> This article applies to the new admin center. The new admin center is available to all Microsoft 365 admins, and you can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md). To view the article about the old admin center, see [Switch to a different Office 365 for business plan](switch-to-a-different-plan.md).
+> This article applies to the new admin center. If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page. To view the article about the old admin center, see [Switch to a different Office 365 for business plan](switch-to-a-different-plan.md).
 
 ## Use the Upgrade tab
 
@@ -43,14 +43,14 @@ When you use the **Upgrade** tab, you're led through the process of buying a new
 
 4. Find the plan to which you want to upgrade, then select the **Upgrade** button.
 
-5. Enter the number of licenses that you need, choose whether to pay each month or for the whole year, then select **Checkout**.
+5. Enter the number of licenses that you need, choose whether to pay each month or for the whole year, then select **Go to checkout**.
 
     > [!NOTE]
     > Make sure you buy enough licenses to cover all your users.
 
 6. On the next page, verify the **Sold to** address, the **Billed to** information, and **Items in this order**. You can change the default payment method at this step. If you need to make any changes, select **Change** next to the applicable section.
 
-7. When you're finished, select **Accept agreement & place order**.
+7. When you're finished, select **Place order**.
 
 When you finish checkout, it might take a few minutes to finalize the upgrade. You can start using your new subscription right away. Select **Check upgrade status** to check the progress of the upgrade. You'll be notified when the upgrade is complete. The notification is displayed on the **Products & services** page, next to your new subscription.
 
@@ -72,3 +72,11 @@ If you want to move to a plan with fewer services, you can [change plans manuall
 
 ## Call support to help you change plans
 [Call Microsoft support](../contact-support-for-business-products.md)
+
+## Related articles
+
+[Switch to a different Office 365 for business plan](switch-to-a-different-plan.md)
+
+[What does upgrading Office 365 plans do to my service and billing?](what-does-switching-plans-do-to-my-service-and-billing.md)
+
+[Back up data before switching Office 365 for business plans](back-up-data-before-switching-plans.md)

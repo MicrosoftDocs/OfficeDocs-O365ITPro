@@ -1,7 +1,7 @@
 ---
 title: "Office 365 Reports in the admin center - OneDrive for Business activity"
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 audience: Admin
 ms.topic: article
@@ -13,6 +13,7 @@ ms.collection:
 - M365-subscription-management
 - Adm_O365
 - Adm_NonTOC
+- SPO_Content
 search.appverid:
 - BCS160
 - MET150

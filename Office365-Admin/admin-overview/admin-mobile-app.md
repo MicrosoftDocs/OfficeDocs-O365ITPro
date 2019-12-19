@@ -1,7 +1,7 @@
 ---
 title: "About the Microsoft 365 Admin mobile app"
-ms.author: anfowler
-author: adefowler
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: overview
@@ -11,6 +11,9 @@ ms.collection:
 - M365-subscription-management 
 - Adm_O365
 - Adm_TOC
+ms.custom:
+- TRN_M365B
+- OKR_SMB_Videos
 search.appverid:
 - BCS160
 - MET150
@@ -20,11 +23,13 @@ description: "Get the Microsoft 365 Admin app and learn to manage your online or
 ---
 
 # About the Microsoft 365 admin mobile app
+
 Are you an admin who's usually on the go? Then check out the [Microsoft 365 Admin app](https://go.microsoft.com/fwlink/?LinkID=627216). You can use the app to manage your online organization from your phone or tablet. You can get the app from the Apple Store, and from Google Play. <br> 
 
 ![Screen capture of the admin mobile app's home page, displaying search, messages, health, and quick links.](../media/admin-mobile-app-darkbg.png)
 
 The admin app is a feature-rich app that has over 80 features to help you manage your org when you can't get to a computer. Here's a list of just a few of the tasks you can do from the app:
+
 - Get service health and change notifications
 - Create a service request
 - Reset a user's password
@@ -41,6 +46,12 @@ And if you're someone who is responsible for more than one online organization, 
 
 [Microsoft 365 Admin mobile app](https://go.microsoft.com/fwlink/?LinkID=627216).
   
+Watch a short video about installing the admin mobile app.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/05c1d439-9ec2-415f-9178-250f64dec64c] 
+
+If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
  
 ## Frequently asked questions
 
@@ -84,4 +95,6 @@ You can try some common mobile app troubleshooting steps:
 
 Email [feedback365@microsoft.com](mailto:feedback365@microsoft.com) to report an issue with the app. Or you can give feedback at the bottom of this article. 
   
+## See also
 
+[Microsoft 365 Business training videos](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

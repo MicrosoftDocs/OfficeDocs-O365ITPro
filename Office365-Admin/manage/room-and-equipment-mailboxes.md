@@ -30,13 +30,6 @@ description: "Create a room or equipment mailbox so that everyone in your organi
 
 # Room and equipment mailboxes
 
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
-
 If you have a conference room, company car, or equipment that everyone needs to use, then you need to come up with a way to make those resources reservable to everyone. The best way to do that is to create a room or equipment mailbox in Office 365 for each resource. You might create one for your first floor conference room, media equipment, or a moving truck.
   
 Once you create a room or equipment mailbox, everyone in the company can reserve it for meetings or events using Outlook. Learn **how to use it** and **how to set it up** on the next two tabs. Here are some other common questions about room and equipment mailboxes. 
@@ -92,6 +85,9 @@ To set up a room or equipment mailbox, go to the Microsoft 365 admin center. (Yo
 5. Select the room or equipment mailbox you created to see or edit the details.
   
 6. If you made changes, select **Save** and then **Close**.
+
+> [!Note]
+> To keep your room and equipment mailboxes secure, block sign-in to these mailboxes. For more information, see [Block sign-in for the shared mailbox account](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox?view=o365-worldwide#block-sign-in-for-the-shared-mailbox-account).
 
 ## Common questions about room and equipment mailboxes
 

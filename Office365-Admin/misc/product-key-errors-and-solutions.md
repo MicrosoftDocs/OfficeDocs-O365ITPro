@@ -25,6 +25,7 @@ search.appverid:
 ms.assetid: 88d337ab-e7b1-43eb-a25e-7d6204e91099
 ROBOTS: NOINDEX
 description: "Learn how to resolve the issues that you face when you enter your product key for Office 365 for business. "
+ms.custom: okr_SMB
 ---
 
 # Problems with your Office 365 for business product key?
@@ -52,7 +53,7 @@ If there's an error message when you try to redeem a product key for **Office 36
 > [!NOTE]
 > When you buy Office 365 through a partner, Microsoft sends you an email containing instructions to get your product key and activate your subscription in the [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). To learn more about Volume Licensing, see [help for existing Volume Licensing customers](https://go.microsoft.com/fwlink/p/?LinkId=534992). 
   
-## Related topics
+## Related articles
 
 [Find and enter your product key](enter-your-product-key.md)
   

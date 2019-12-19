@@ -23,6 +23,7 @@ search.appverid:
 - BEA160
 ms.assetid: fce1510d-9ea5-4aff-8752-1676ec7fede3
 description: "Learn how to apply a promotional code to your Office 365 subscription to reduce price, and how to troubleshoot promo code in case of an error."
+ms.custom: okr_SMB
 ---
 
 # Use your Office 365 promo code to reduce price
@@ -33,13 +34,11 @@ When you purchase a subscription, you can use a promotional code to reduce the p
 
 1. Begin your purchase by either purchasing a new subscription, or by adding services to an existing subscription.
     
-2. When you check out, type your promo code in the **Enter promo code** box. 
-    
-    ![Image of the Enter promo code text box](../media/ed3194b0-47ce-44a8-84de-fd01d005c920.png)
+2. When you check out, choose **Have a promo or discount code?, and then enter your code in the box. 
   
-3. Select **apply**. You should see **Promo code successfully applied** beneath the box. If you see a different message, refer to [Troubleshooting promo codes](#troubleshooting-promo-codes) to figure out why. 
+3. Select **Apply promo code**. You should see confirmation that it was successfully applied. If you see a different message, refer to [Troubleshooting promo codes](#troubleshooting-promo-codes) to figure out why. 
     
-4. Continue checking out. On the **Order confirmation** page, you'll see **Discount from promo code** beside an amount. 
+4. Continue checking out. On the order confirmation page, you'll see your discount code included with the amount. 
     
 At any time after you complete your purchase, you can see the discount created by your promo code on your bill. To learn more, see [View your bill](../subscriptions-and-billing/view-your-bill-or-invoice.md).
   
@@ -67,7 +66,7 @@ If you receive an error message after you enter your promo code, there may be a 
   
 - **The promo code you are using is for the wrong geographical region.** Some promo codes are only valid for a particular country or region. Promo codes don't work in a country or region other than the one for which they were created.
   
-## Related topics
+## Related articles
 
 [Buy a subscription from your free trial](../subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md)
   
