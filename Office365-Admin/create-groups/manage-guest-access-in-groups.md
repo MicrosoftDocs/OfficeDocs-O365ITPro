@@ -4,6 +4,7 @@ ms.reviewer: arvaradh
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
+ms.date: 12/18/2019
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -25,10 +26,13 @@ By default, guest access for Office 365 groups is turned on for your organizatio
 
 When it's turned on, group members can invite guest users to an Office 365 group through Outlook on Web. Invitations are sent to the group owner for approval.
 
-Once approved, the guest user is added to the directory and the group.
-
-> [!NOTE]
+> [!Note]
+> Yammer Enterprise networks that are in Native Mode or the [EU Geo](https://go.microsoft.com/fwlink/?linkid=2107357) do not support network guests.
 > Office 365 Connected Yammer Groups do not currently support guest access, but you can create non-connected, external groups in your Yammer network. See [Create and manage external groups in Yammer](https://support.office.com/article/9ccd15ce-0efc-4dc1-81bc-4a424ab6f92a.aspx) for instructions.
+
+### Edit guest information
+
+Once approved, the guest user is added to the directory and the group.
 
 Guest access in groups is often used as part of a broader scenario that includes SharePoint or Teams. These services have their own guest sharing settings. For complete instructions for setting up guest sharing across groups, SharePoint, and Teams, see:
 
@@ -127,7 +131,5 @@ Set-AzureADUser -ObjectId cfcbd1a0-ed18-4210-9b9d-cf0ba93cf6b2 -ShowInAddressLis
 [Manage Group membership in the Microsoft 365 admin center](add-or-remove-members-from-groups.md)
   
 [Azure Active Directory access reviews](https://docs.microsoft.com/azure/active-directory/active-directory-azure-ad-controls-perform-access-review)
-  
-[Migrate distribution lists to Office 365 Groups](../manage/upgrade-distribution-lists.md)
 
 [Set-AzureADUser](https://docs.microsoft.com/powershell/module/azuread/set-azureaduser)
