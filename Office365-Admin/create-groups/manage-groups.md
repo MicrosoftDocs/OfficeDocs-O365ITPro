@@ -101,7 +101,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 3. On the **Members** tab, under **Owners**, select **View all and manage owners**, and do one of the following:
 
     - To add an owner, select **Add owners** and search for or select an owner, and then select **Save**. 
-    - To remove an owner, search for or select a group owner, select the X next to the person's name, and then select **Save**. 
+    - To remove an owner, search for or select a group owner, select the **X** next to the person's name, and then select **Save**. 
 
 ::: moniker-end
 
@@ -112,7 +112,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 2. Next to **Owners**, select **Edit**, and then do one of the following:
 
     - To add an owner, select **Add owners** and search for or select an owner, and then select **Save**. 
-    - To remove an owner, search for or select a group owner, select the X next to the person's name, and then select **Save**. 
+    - To remove an owner, search for or select a group owner, select the **X** next to the person's name, and then select **Save**. 
 
 ::: moniker-end
 
@@ -123,7 +123,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 2. Next to **Owners**, select **Edit**, and then do one of the following:
 
     - To add an owner, select **Add owners** and search for or select an owner, and then select **Save**. 
-    - To remove an owner, search for or select a group owner, select the X next to the person's name, and then select **Save**. 
+    - To remove an owner, search for or select a group owner, select the **X** next to the person's name, and then select **Save**. 
 
 ::: moniker-end
 
@@ -138,7 +138,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 3. On the **Members** tab, under **Members**, select **View all and manage members**, and do one of the following:
 
     - To add a member, select **Add members**, search for or select a member, and then select **Save**. 
-    - To remove a member, search for or select a group member, select the X next to the person's name, and then select **Save**. 
+    - To remove a member, search for or select a group member, select the **X** next to the person's name, and then select **Save**. 
 
 ::: moniker-end
 
@@ -149,7 +149,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 2. Next to **Members**, select **Edit**, and then do one of the following:
 
     - To add a member, select **Add members**, search for or select a member, and then select **Save**. 
-    - To remove a member, search for or select a group member, select the X next to the person's name, and then select **Save**. 
+    - To remove a member, search for or select a group member, select the **X** next to the person's name, and then select **Save**. 
 
 ::: moniker-end
 
@@ -160,7 +160,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 2. Next to **Members**, select **Edit**, and then do one of the following:
 
     - To add a member, select **Add members**, search for or select a member, and then select **Save**. 
-    - To remove a member, search for or select a group member, select the X next to the person's name, and then select **Save**.  
+    - To remove a member, search for or select a group member, select the **X** next to the person's name, and then select **Save**.  
 
 ::: moniker-end
 
@@ -243,3 +243,17 @@ This option is great if you want to have a company email address such as info@co
 4. Select **Save**.
 
 ::: moniker-end
+
+## Related articles
+
+[Create an Office 365 group](create-groups.md)
+
+[Manage guest access to Office 365 groups](https://support.office.com/article/7c713d74-a144-4eab-92e7-d50df526ff96.aspx)
+
+[Choose the domain to use when creating Office 365 Groups](choose-domain-to-create-groups.md)
+
+[Allow members to send as or send on behalf of an Office 365 Group](allow-members-to-send-as-or-send-on-behalf-of-group.md)
+
+[Upgrade distribution lists to Office 365 Groups](../manage/upgrade-distribution-lists.md)
+
+[Manage Office 365 Groups with PowerShell](https://support.office.com/article/aeb669aa-1770-4537-9de2-a82ac11b0540)

@@ -145,12 +145,11 @@ After creating a new group and adding members, you can further configure your gr
 
 ## Related articles
 
+[Manage an Office 365 group](manage-groups.md)
+
 [Manage guest access to Office 365 groups](https://support.office.com/article/7c713d74-a144-4eab-92e7-d50df526ff96.aspx)
 
 [Choose the domain to use when creating Office 365 Groups](choose-domain-to-create-groups.md)
 
-[Allow members to send as or send on behalf of an Office 365 Group](allow-members-to-send-as-or-send-on-behalf-of-group.md)
-
 [Upgrade distribution lists to Office 365 Groups](../manage/upgrade-distribution-lists.md)
 
-[Manage Office 365 Groups with PowerShell](https://support.office.com/article/aeb669aa-1770-4537-9de2-a82ac11b0540)
