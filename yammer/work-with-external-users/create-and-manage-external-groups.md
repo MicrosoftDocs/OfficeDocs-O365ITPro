@@ -33,7 +33,7 @@ External groups are marked with a globe icon in the left navigation.
 Users invited to participate in an external group hosted on a different network are required to accept the invitation before being able to view any content in the group.
 
 >[!NOTE] 
->This feature is not available for Yammer Enterprise networks in the [EU Geo](../manage-security-and-compliance/data-residency.md).
+>This feature is not available for Yammer Enterprise networks in Native Mode or the [EU Geo](../manage-security-and-compliance/data-residency.md).
   
 ## Create an external group
 
