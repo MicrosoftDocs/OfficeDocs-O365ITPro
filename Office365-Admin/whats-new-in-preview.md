@@ -54,6 +54,10 @@ We mentioned the Global reader role in the [October 2019 - Ignite Edition](#octo
 
 We’d love to get your feedback about the global reader role and any of the role-based permissions that you’d like to see in the future. [Give feedback for role-based permissions](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/10115430-have-a-consistent-experience-when-assigning-admin)
 
+### New Settings page
+The **Organization profile**, **Security & privacy**, and **Services & add-is** pages have all been combined into one page with 3 vertical tabs. And the best part -- from one single location, you can now search for all settings.
+![Screen capture: Settings page with the "Search all settings" field highlighted at the top of the page.](media/MAC-SettingsMultiPivotSearch.png)
+
 ### Training & Docs
 
 This section is a new feature of this article, where we'll start linking to new training and documentation that we think you should know about. 
