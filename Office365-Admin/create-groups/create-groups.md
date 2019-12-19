@@ -139,6 +139,10 @@ A member can delete an email conversation from the Group Inbox if they initiated
   
 When an email is deleted from the group mailbox, it is not deleted from any of the group members' personal mailboxes.
 
+## Next step: manage your group
+
+After creating a new group and adding members, you can further configure your group, such as editing the group name or description, changing owners or members, and specifying whether external senders can email the group and whether to send copies of group conversations to members. See [Manage an Office 365 group](manage-groups.md).
+
 ## Related articles
 
 [Manage guest access to Office 365 groups](https://support.office.com/article/7c713d74-a144-4eab-92e7-d50df526ff96.aspx)

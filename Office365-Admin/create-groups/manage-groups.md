@@ -22,7 +22,7 @@ description: "Learn to manage Office 365 groups, including adding remove group m
 
 # Manage an Office 365 group in the Microsoft 365 admin center
 
-After you have [created an Office 365 group](create-groups.md) and added group members, you can configure your group. You can edit the group name, description, or email aliases, manage owners or members, specify whether external senders can email the group and whether to send copies of group conversations to members. 
+After you have [created an Office 365 group](create-groups.md) and added group members, you can configure your group. You can edit the group name or description, manage owners or members, and specify whether external senders can email the group and whether to send copies of group conversations to members. 
 
 ## Edit a group name
 
@@ -40,7 +40,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 
 1. In the admin center, go to the **Groups** \> **Groups** page, and select the name of the group you want to change.
 
-2. Select **Edit name**.
+2. Next to **Name**, select **Edit**.
 
 3. In the **Edit details** pane, enter a new name for the group, and then select **Save**.
 
@@ -50,7 +50,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 
 1. In the admin center, go to the **Groups** \> **Groups** page, and select the name of the group you want to change.
 
-2. Select **Edit name**.
+2. Next to **Name**, select **Edit**.
 
 3. In the **Edit details** pane, enter a new name for the group, and then select **Save**.
 
@@ -73,7 +73,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 
 1. In the admin center, go to the **Groups** \> **Groups** page, and select the name of the group whose description you want to change.
 
-2. Select **Edit description**.
+2. Next to **Description**, select **Edit**.
 
 3. In the **Edit details** pane, enter a new name for the group, and then select **Save**.
 
@@ -83,7 +83,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 
 1. In the admin center, go to the **Groups** \> **Groups** page, and select the name of the group whose description you want to change.
 
-2. Select **Edit description**.
+2. Next to **Description**, select **Edit**.
 
 3. In the **Edit details** pane, enter a new name for the group, and then select **Save**.
 
@@ -107,11 +107,9 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Groups** \> **Groups** page.
+1. In the admin center, go to the **Groups** \> **Groups** page, and select the name of the group whose owner(s) you want to change.
 
-2. Click the name of the group you want to manage to open the settings pane.
-
-3. On the **Members** tab, under **Owners**, select **View all and manage owners**, and do one of the following:
+2. Next to **Owners**, select **Edit**, and then do one of the following:
 
     - To add an owner, select **Add owners** and search for or select an owner, and then select **Save**. 
     - To remove an owner search for or select a group owner, select the X next to the person's name, and then select **Save**. 
@@ -120,11 +118,9 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the **Groups** \> **Groups** page.
+1. In the admin center, go to the **Groups** \> **Groups** page, and select the name of the group whose owner(s) you want to change.
 
-2. Click the name of the group you want to manage to open the settings pane.
-
-3. On the **Members** tab, under **Owners**, select **View all and manage owners**, and do one of the following:
+2. Next to **Owners**, select **Edit**, and then do one of the following:
 
     - To add an owner, select **Add owners** and search for or select an owner, and then select **Save**. 
     - To remove an owner search for or select a group owner, select the X next to the person's name, and then select **Save**. 
@@ -148,11 +144,9 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 
 ::: moniker range="o365-germany"
 
-1. In the admin center, go to the **Groups** \> **Groups** page.
+1. In the admin center, go to the **Groups** \> **Groups** page, and select the name of the group whose members you want to change.
 
-2. Click the name of the group for which you want to manage members to open the settings pane.
-
-3. On the **Members** tab, under **Members**, select **View all and manage members**, and do one of the following:
+2. Next to **Members**, select **Edit**, and then do one of the following:
 
     - To add a member, select **Add members**, search for or select a member, and then select **Save**. 
     - To remove a member, search for or select a group member, select the X next to the person's name, and then select **Save**. 
@@ -161,11 +155,9 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 
 ::: moniker range="o365-21vianet"
 
-1. In the admin center, go to the **Groups** \> **Groups** page.
+1. In the admin center, go to the **Groups** \> **Groups** page, and select the name of the group whose members you want to change.
 
-2. Click the name of the group for which you want to manage members to open the settings pane.
-
-3. On the **Members** tab, under **Members**, select **View all and manage members**, and do one of the following:
+2. Next to **Members**, select **Edit**, and then do one of the following:
 
     - To add a member, select **Add members**, search for or select a member, and then select **Save**. 
     - To remove a member, search for or select a group member, select the X next to the person's name, and then select **Save**.  
