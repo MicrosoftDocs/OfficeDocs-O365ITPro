@@ -58,7 +58,7 @@ We’d love to get your feedback about the global reader role and any of the rol
 
 ### New Settings page
 
-The **Organization profile**, **Security & privacy**, and **Services & add-is** pages have all been combined into one page with 3 vertical tabs. And the best part -- from one single location, you can now search for all settings.
+The **Organization profile**, **Security & privacy**, and **Services & add-ins** pages have all been combined into one page with 3 vertical tabs. And the best part -- from one single location, you can now search for all settings.
 ![Screen capture: Settings page with the "Search all settings" field highlighted at the top of the page.](media/MAC-SettingsMultiPivotSearch.png)
 
 ### Training & Docs
