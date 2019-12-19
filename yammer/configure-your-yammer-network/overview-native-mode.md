@@ -53,7 +53,7 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
 - Office 365 resources for each group
 - All groups, including All Company, are Office 365-connected, which means they have access to Office 365 features, including live events
 - Yammer honors Office 365 Group creation rights
-- No external groups or network-level guests, but external networks are supported in the [US Geo](manage-security-and-compliance/security-and-compliance.md)
+- No external groups or network-level guests, but external networks are supported in the [US Geo](../yammer/manage-security-and-compliance/security-and-compliance.md)
 - All files uploaded to groups will be stored in SharePoint
 - Files cannot be uploaded to Yammer private messages
 - Verified and Network Network Admins are required to have either Global Admin privileges or Group admin privileges from Microsoft 365 in order to administer changes to groups in which they are not a group owner
