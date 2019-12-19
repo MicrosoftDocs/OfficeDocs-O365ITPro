@@ -1,5 +1,6 @@
 ---
 title: "Office 365 Groups naming policy"
+ms.reviewer: arvaradh
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen

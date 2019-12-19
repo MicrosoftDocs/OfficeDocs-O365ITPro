@@ -1,5 +1,6 @@
 ---
 title: "Office 365 Group Expiration Policy"
+ms.reviewer: arvaradh
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
