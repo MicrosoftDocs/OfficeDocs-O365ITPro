@@ -138,6 +138,7 @@
 ### [Groups overview](create-groups/office-365-groups.md)
 ### [Compare groups](create-groups/compare-groups.md)
 ### [Create an Office 365 Group](create-groups/create-groups.md)
+### [Manage an Office 365 group](create-groups/manage-groups.md)
 ### [Plan for governance in Office 365 Groups](create-groups/plan-for-groups-governance.md)
 ### [Manage creation of Groups](create-groups/manage-creation-of-groups.md)
 ### [Choose domain to create Groups](create-groups/choose-domain-to-create-groups.md)
