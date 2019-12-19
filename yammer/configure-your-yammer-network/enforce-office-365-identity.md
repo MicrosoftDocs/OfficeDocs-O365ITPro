@@ -1,9 +1,9 @@
 ---
 title: "Enforce Office 365 identity for Yammer users"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFloreanoGoertz
 manager: pamgreen
-ms.date: 5/15/2018
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 f1_keywords:

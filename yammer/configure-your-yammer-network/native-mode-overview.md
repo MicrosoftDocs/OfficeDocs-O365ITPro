@@ -1,7 +1,7 @@
 ---
-title: "Live events in Yammer"
+title: "Overview of Yammer Native Mode"
 ms.author: v-teflor
-author: TeresaFloreanoGoertz
+author: Teresa Floreano Goertz
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -17,8 +17,9 @@ search.appverid:
 - MED150
 ms.assetid: 4ece0ee2-c268-4636-bf2a-16e454befe57
 description: "Learn what's needed for group admins to host live video events for Yammer users."
+ROBOTS: NOINDEX, NOFOLLOW
 ---
-# Live events in Yammer
+# Overview of Native Mode in Yammer
 
 To bring the members of a community together centered around an event, Yammer group admins can host a live video event including Yammer conversations before, during, and after the event. Live events can be held in a public group to reach all employees or in a private group so that only those with membership in the group can participate. 
 

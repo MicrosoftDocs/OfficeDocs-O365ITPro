@@ -1,9 +1,9 @@
 ---
 title: "Network migration - Consolidate multiple Yammer networks"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFloreanoGoertz
 manager: pamgreen
-ms.date: 10/3/2018
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer

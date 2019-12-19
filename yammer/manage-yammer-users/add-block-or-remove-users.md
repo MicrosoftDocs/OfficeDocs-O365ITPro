@@ -1,9 +1,9 @@
 ---
 title: "Add, block, or remove Yammer users"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFloreanoGoertz
 manager: pamgreen
-ms.date: 1/7/2019
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 ms.prod: office-online-server

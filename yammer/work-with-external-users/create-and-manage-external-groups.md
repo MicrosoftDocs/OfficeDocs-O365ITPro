@@ -1,9 +1,9 @@
 ---
 title: "Create and manage external groups in Yammer"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFloreanoGoertz
 manager: pamgreen
-ms.date: 3/15/2019
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer

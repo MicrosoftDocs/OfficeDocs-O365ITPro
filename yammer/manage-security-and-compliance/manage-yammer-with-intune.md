@@ -1,9 +1,9 @@
 ---
 title: "Manage Yammer with Microsoft Intune"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFloreanoGoertz
 manager: pamgreen
-ms.date: 2/1/2018
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: conceptual
 ms.service: yammer

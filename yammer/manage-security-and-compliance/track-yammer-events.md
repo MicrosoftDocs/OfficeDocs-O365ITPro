@@ -1,9 +1,9 @@
 ---
 title: "Track Yammer events in the Office 365 audit log and with the Management Activity API"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFloreanoGoertz
 manager: pamgreen
-ms.date: 3/28/2019
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: overview
 ms.service: yammer

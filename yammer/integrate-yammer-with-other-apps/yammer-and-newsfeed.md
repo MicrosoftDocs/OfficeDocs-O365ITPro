@@ -1,9 +1,9 @@
 ---
 title: "SharePoint enterprise social experience - Yammer and Newsfeed"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFloreanoGoertz
 manager: laurapamgreenwi
-ms.date: 3/22/2018
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 f1_keywords:

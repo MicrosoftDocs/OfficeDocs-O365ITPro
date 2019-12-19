@@ -1,9 +1,9 @@
 ---
 title: "Data residency"
-ms.author: v-irpast
-author: IrenePasternack
+ms.author: v-teflor
+author: TeresaFloreanoGoertz
 manager: pamgreen
-ms.date: 6/26/2019
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 f1_keywords:
