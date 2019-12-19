@@ -28,7 +28,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page, and select the name of the group you want to change.
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page, and select the check box for the group you want to change.
 
 2. Select **Edit name**.
 
@@ -61,7 +61,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 
 ::: moniker range="o365-worldwide"
 
-1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page, and select the name of the group whose description you want to change.
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page, and select the check box for the group whose description you want to change.
 
 2. Select **Edit description**.
 
@@ -96,12 +96,12 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
 
-2. Click the name of the group you want to manage to open the settings pane.
+2. Select the name of the group you want to manage to open the settings pane.
 
 3. On the **Members** tab, under **Owners**, select **View all and manage owners**, and do one of the following:
 
     - To add an owner, select **Add owners** and search for or select an owner, and then select **Save**. 
-    - To remove an owner search for or select a group owner, select the X next to the person's name, and then select **Save**. 
+    - To remove an owner, search for or select a group owner, select the X next to the person's name, and then select **Save**. 
 
 ::: moniker-end
 
@@ -112,7 +112,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 2. Next to **Owners**, select **Edit**, and then do one of the following:
 
     - To add an owner, select **Add owners** and search for or select an owner, and then select **Save**. 
-    - To remove an owner search for or select a group owner, select the X next to the person's name, and then select **Save**. 
+    - To remove an owner, search for or select a group owner, select the X next to the person's name, and then select **Save**. 
 
 ::: moniker-end
 
@@ -123,7 +123,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 2. Next to **Owners**, select **Edit**, and then do one of the following:
 
     - To add an owner, select **Add owners** and search for or select an owner, and then select **Save**. 
-    - To remove an owner search for or select a group owner, select the X next to the person's name, and then select **Save**. 
+    - To remove an owner, search for or select a group owner, select the X next to the person's name, and then select **Save**. 
 
 ::: moniker-end
 
@@ -133,7 +133,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 
 1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
 
-2. Click the name of the group for which you want to manage members to open the settings pane.
+2. Select the name of the group for which you want to manage members to open the settings pane.
 
 3. On the **Members** tab, under **Members**, select **View all and manage members**, and do one of the following:
 
