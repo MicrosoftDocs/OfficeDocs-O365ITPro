@@ -1,5 +1,6 @@
 ---
 title: "Allow members to send as or send on behalf of a Group"
+ms.reviewer: arvaradh
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
