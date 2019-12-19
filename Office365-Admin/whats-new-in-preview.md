@@ -33,20 +33,22 @@ And if you're interested in what's new in other admin centers:
 - [What's new in the SharePoint admin center](https://docs.microsoft.com/sharepoint/what-s-new-in-admin-center)
 
 ## November and December 2019
+
 We're combining November's and December's news because after Ignite we had very few announcements to make. See you in the new year!
 
 ### Change from credit card to invoice payment
 
-We've starting to roll out the ability to change your payment method from credit card to an invoice. Go to **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Subscriptions</a>, and then select the **Change payment details** link on the subscription that you'd like to change.
+We've starting to roll out the ability to change your payment method from credit card to an invoice. Go to **Billing**\> **Products & services**, select a subscription, and then select the **Edit** link next to the credit card payment.
 
-![Screen capture: Payment method section of subscription card with a credit card as the payment method](media/6c9d9cae-6086-4687-a979-bb971f35f1b4.png)
+![Screen capture: Billing section of subscription card with a credit card as the payment method.](media/MAC-BillingEditCreditCard.png)
 
 Want to read more about it? [Change from credit card or bank account to invoice](subscriptions-and-billing/change-payment-method.md#change-from-credit-card-or-bank-account-to-invoice)
 
 ### Global reader
+
 We mentioned the Global reader role in the [October 2019 - Ignite Edition](#october-2019---ignite-edition), but as it’s rolling out more broadly, let’s discuss some details:
 
-- The Global reader role is the read-only counterpart to the Global admin role. Basically, the Global reader can see everything that the Global admin has permission to do.
+- The Global reader role is the read-only counterpart to the Global admin role. The Global reader can see everything that the Global admin has permission to do.
 - With a few exceptions, like some compliance and security features, Global readers have access to view all of the Microsoft cloud admin centers that your org is licensed to use.
 - Assign the Global reader role to users who need it for planning, audits, and investigations.
 - You can also combine the global reader role with another role that has fewer permissions. For example, a small business owner might be assigned the **Billing admin** + **Global reader** roles so that they can pay the bills and stay on top of changes to their cloud organization.
@@ -55,12 +57,13 @@ We mentioned the Global reader role in the [October 2019 - Ignite Edition](#octo
 We’d love to get your feedback about the global reader role and any of the role-based permissions that you’d like to see in the future. [Give feedback for role-based permissions](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/10115430-have-a-consistent-experience-when-assigning-admin)
 
 ### New Settings page
+
 The **Organization profile**, **Security & privacy**, and **Services & add-is** pages have all been combined into one page with 3 vertical tabs. And the best part -- from one single location, you can now search for all settings.
 ![Screen capture: Settings page with the "Search all settings" field highlighted at the top of the page.](media/MAC-SettingsMultiPivotSearch.png)
 
 ### Training & Docs
 
-This section is a new feature of this article, where we'll start linking to new training and documentation that we think you should know about. 
+This section is a new feature of this article, where we'll start linking to new training and documentation that we think you will find interesting.
 
 In November, we released quite a few learning paths to [Microsoft Learn](https://docs.microsoft.com/learn/) website to help IT pros learn about and get trained on Microsoft 365. Check them out:
 
