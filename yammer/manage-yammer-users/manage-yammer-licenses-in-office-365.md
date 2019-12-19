@@ -3,7 +3,7 @@ title: "Manage Yammer user licenses in Office 365"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 11/7/2018
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer

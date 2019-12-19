@@ -3,7 +3,7 @@ title: "Customize the look of your Yammer network"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 3/27/2019
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer

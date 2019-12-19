@@ -3,7 +3,7 @@ title: "About Yammer networks and Office 365 tenants"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 6/24/2019
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: overview
 ms.service: yammer
