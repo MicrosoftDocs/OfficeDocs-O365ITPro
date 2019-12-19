@@ -65,7 +65,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 
 2. Select **Edit description**.
 
-3. In the **Edit details** pane, enter a new name for the group, and then select **Save**.
+3. In the **Edit details** pane, enter a new description for the group, and then select **Save**.
 
 ::: moniker-end
 
@@ -75,7 +75,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 
 2. Next to **Description**, select **Edit**.
 
-3. In the **Edit details** pane, enter a new name for the group, and then select **Save**.
+3. In the **Edit details** pane, enter a new description for the group, and then select **Save**.
 
 ::: moniker-end
 
@@ -85,7 +85,7 @@ After you have [created an Office 365 group](create-groups.md) and added group m
 
 2. Next to **Description**, select **Edit**.
 
-3. In the **Edit details** pane, enter a new name for the group, and then select **Save**.
+3. In the **Edit details** pane, enter a new description for the group, and then select **Save**.
 
 ::: moniker-end
 
