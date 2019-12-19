@@ -41,14 +41,14 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
 
 - Locking your network into Native Mode when that work is complete. It does this by both preventing new instances of the incompatible item, and by mitigating existing items to be compliant.
 
- You can either allow the Tool to make all the changes or mitigate some issues yourself before running the second part of the Tool. See [Configure your Yammer network for Native Mode](native-mode.md).
+ You can either allow the Tool to make all the changes or mitigate some issues yourself before running the second part of the Tool.
 
 ## Key differences between modes
 
 ### Native Mode
 
 - No one can inadvertently take your network out of Native Mode
-- (coming soon) eDiscovery through the Security & Compliance center for your home network
+- (coming soon) eDiscovery through the [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2111321) for your home network
 - All Yammer groups and users are managed through Office 365
 - Office 365 resources for each group
 - All groups, including All Company, are Office 365-connected, which means they have access to Office 365 features, including live events
