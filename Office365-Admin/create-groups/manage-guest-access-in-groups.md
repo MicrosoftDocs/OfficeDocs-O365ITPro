@@ -27,7 +27,7 @@ By default, guest access for Office 365 groups is turned on for your organizatio
 When it's turned on, group members can invite guest users to an Office 365 group through Outlook on Web. Invitations are sent to the group owner for approval.
 
 > [!Note]
-> Yammer Enterprise networks that are in Native Mode or the [EU Geo](manage-security-and-compliance/security-and-compliance.md) do not support network guests.
+> Yammer Enterprise networks that are in Native Mode or the [EU Geo](../yammer/manage-security-and-compliance/security-and-compliance.md) do not support network guests.
 > Office 365 Connected Yammer Groups do not currently support guest access, but you can create non-connected, external groups in your Yammer network. See [Create and manage external groups in Yammer](https://support.office.com/article/9ccd15ce-0efc-4dc1-81bc-4a424ab6f92a.aspx) for instructions.
 
 ### Edit guest information
