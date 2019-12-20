@@ -3,7 +3,7 @@ title: "Upgrade your network to stand-alone Yammer Enterprise subscription (Offi
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 3/27/2018
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 f1_keywords:

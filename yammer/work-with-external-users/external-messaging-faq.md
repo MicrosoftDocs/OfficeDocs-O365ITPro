@@ -3,7 +3,7 @@ title: "External messaging FAQ - Yammer"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 3/15/19
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: reference
 ms.service: yammer
