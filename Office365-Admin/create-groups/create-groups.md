@@ -70,7 +70,7 @@ While users can create an Office 365 group from Outlook or other apps, as an adm
 
 8. Select **Close**.
     
-## Configure the group
+## Add members to the group
 
 Once the group has been created, you can add members and configure additional settings.
 
@@ -130,86 +130,6 @@ The group will appear in Outlook with members assigned to it.
 ::: moniker-end
 
 
-### Send copies of conversations to group members' inboxes
-  
-When you use the admin center to create a group, by default users  do not get copies of group emails and meeting invitations sent to their inboxes. They'll need to go to the group to see conversations and meetings. You can change this setting in the admin center.
-
-When you turn this setting on, group members will get a copy of group emails and meeting invitations sent to their Outlook Inbox. They can read and delete this copy of the email and not affect anyone else. In the Group inbox, a copy of the email still exists.
-
-Group members can opt out of receiving these emails by choosing to stop following the group in Outlook.
-
-::: moniker range="o365-worldwide"
-
-1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page, and then select the name of the group you want to change. 
-
-2. On the **Settings** tab, select **Send copies of group conversations and events to group members** if you want members to receive copies of group messages and calendar items in their own inbox.
-
-3. Select **Save**.
-
-::: moniker-end
-
-::: moniker range="o365-germany"
-
-1. In the admin center, go to the **Groups** \> **Groups** page, and then select the group you want to change.
-
-2. Next to **Name**, select **Edit**.
-
-3. Turn **Send copies of group conversations and events to group members' inboxes** to **On** if you want members to receive copies of group messages and calendar items in their own inbox.
-
-4. Select **Save**.
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-
-1. In the admin center, go to the **Groups** \> **Groups** page, and then select the group you want to change.
-
-2. Next to **Name**, select **Edit**.
-
-3. Turn **Send copies of group conversations and events to group members' inboxes** to **On** if you want members to receive copies of group messages and calendar items in their own inbox.
-
-4. Select **Save**.
-
-::: moniker-end
-
-### Let people outside the organization email the group
-
-This option is great if you want to have a company email address such as info@contoso.com.
- 
-::: moniker range="o365-worldwide"
-
-1. Refresh your admin center page so your new group appears.
-
-2. In the admin center groups list, select the name of the group you want to change, and then on the **Settings** tab, select **Allow external senders to email this group**.
-    
-4. Select **Save**.
-
-::: moniker-end
-
-::: moniker range="o365-germany"
-
-1. Refresh your admin center page so your new group appears.
-    
-2. In the admin center groups list, select the group you want to change, and then next to **Name**, select **Edit**. 
-    
-3. Set the **Let people outside the organization email the group** toggle to **On**.
-    
-4. Select **Save**.
-
-::: moniker-end
-
-::: moniker range="o365-21vianet"
-1. Refresh your admin center page so your new group appears.
-    
-2. In the admin center groups list, select the group you want to change, and then next to **Name**, select **Edit**. 
-    
-3. Set the **Let people outside the organization email the group** toggle to **On**.
-    
-4. Select **Save**.
-
-::: moniker-end
-
-
 
 ## Who can delete email from the Group Inbox?
 
@@ -219,14 +139,17 @@ A member can delete an email conversation from the Group Inbox if they initiated
   
 When an email is deleted from the group mailbox, it is not deleted from any of the group members' personal mailboxes.
 
+## Next step: manage your group
+
+After creating a new group and adding members, you can further configure your group, such as editing the group name or description, changing owners or members, and specifying whether external senders can email the group and whether to send copies of group conversations to members. See [Manage an Office 365 group](manage-groups.md).
+
 ## Related articles
+
+[Manage an Office 365 group](manage-groups.md)
 
 [Manage guest access to Office 365 groups](https://support.office.com/article/7c713d74-a144-4eab-92e7-d50df526ff96.aspx)
 
 [Choose the domain to use when creating Office 365 Groups](choose-domain-to-create-groups.md)
 
-[Allow members to send as or send on behalf of an Office 365 Group](allow-members-to-send-as-or-send-on-behalf-of-group.md)
-
 [Upgrade distribution lists to Office 365 Groups](../manage/upgrade-distribution-lists.md)
 
-[Manage Office 365 Groups with PowerShell](https://support.office.com/article/aeb669aa-1770-4537-9de2-a82ac11b0540)

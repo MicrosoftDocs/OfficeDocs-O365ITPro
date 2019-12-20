@@ -67,7 +67,7 @@ Here are the features and settings you'll find in the left-hand navigation of th
 |-----|-----|
 |**Home** <br/> |This is the landing page in the new admin center. You'll see where to manage users, billing, service health, and reports.  <br/> |
 |**Users** <br/> |Create and manage users in your organization, like employees or students. You can also set their permission level or reset their passwords.  <br/> |
-|**Groups** <br/> |Create and manage groups in your organization, such as an Office 365 group, distribution group, security group, or shared mailbox. Learn how to [create and manage groups](../create-groups/create-groups.md).  <br/> |
+|**Groups** <br/> |Create and manage groups in your organization, such as an Office 365 group, distribution group, security group, or shared mailbox. Learn how to [create](../create-groups/create-groups.md) and [manage](../create-groups/manage-groups.md) groups.  <br/> |
 |**Resources** <br/> |Create and manage resources, like a SharePoint site collection. Learn how to [create site collections](https://support.office.com/article/3a3d7ab9-5d21-41f1-b4bd-5200071dd539.aspx).  <br/> |
 |**Billing** <br/> |View, purchase, or cancel subscriptions for your organization. View past billing statements or view the number of assigned licenses to individual users. Learn how to [manage billing](../subscriptions-and-billing/subscriptions-and-billing.md).  <br/> |
 |**Support** <br/> | View existing service requests or create new ones. Learn more in [Contact support for business products - Admin Help](../contact-support-for-business-products.md). |
@@ -85,6 +85,8 @@ Here are the features and settings you'll find in the left-hand navigation of th
     
 - See activity reports: [Activity Reports](../activity-reports/activity-reports.md)
     
-- Manage Office 365 groups: [Create and manage Office 365 groups in Admin Center](../create-groups/create-groups.md)
+- [Create an Office 365 group ](../create-groups/create-groups.md)
+
+- [Manage an Office 365 group](../create-groups/manage-groups.md)
     
 
