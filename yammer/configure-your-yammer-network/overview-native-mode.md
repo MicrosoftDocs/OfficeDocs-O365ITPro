@@ -3,7 +3,7 @@ title: "Overview of Native Mode for Microsoft 365"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/18/2019
+ms.date: 12/20/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -17,7 +17,7 @@ description: "Learn about Native Mode for Microsoft 365."
 
 # Overview of Native Mode
 
-As of December 2019, all new Yammer Enterprise networks start in Native Mode.
+As of January 2020, all new Yammer Enterprise networks start in Native Mode.
 
 For existing Yammer networks, they will be eligible to migrate to Native Mode (coming soon) and admins can choose which mode suits their network.
 

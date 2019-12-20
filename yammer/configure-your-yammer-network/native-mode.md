@@ -3,7 +3,7 @@ title: "Prepare a Yammer network for Native Mode for Microsoft 365"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/18/2019
+ms.date: 12/19/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer

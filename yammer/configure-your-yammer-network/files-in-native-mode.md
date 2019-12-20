@@ -3,7 +3,7 @@ title: "Files in Native Mode"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/17/2019
+ms.date: 12/19/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
