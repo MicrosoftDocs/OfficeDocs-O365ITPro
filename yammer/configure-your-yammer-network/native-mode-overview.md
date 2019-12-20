@@ -1,7 +1,7 @@
 ---
-title: "Live events in Yammer"
+title: "Overview of Yammer Native Mode"
 ms.author: v-teflor
-author: TeresaFG-writer
+author: Teresa Floreano Goertz
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -17,8 +17,9 @@ search.appverid:
 - MED150
 ms.assetid: 4ece0ee2-c268-4636-bf2a-16e454befe57
 description: "Learn what's needed for group admins to host live video events for Yammer users."
+ROBOTS: NOINDEX, NOFOLLOW
 ---
-# Live events in Yammer
+# Overview of Native Mode in Yammer
 
 To bring the members of a community together centered around an event, Yammer group admins can host a live video event including Yammer conversations before, during, and after the event. Live events can be held in a public group to reach all employees or in a private group so that only those with membership in the group can participate. 
 
@@ -118,7 +119,7 @@ Both work on desktop, web, and mobile devices (iOS and Android).
 
 In Office 365, you can customize the help pane that comes up when users click the Help icon to add contact information for your local support staff. For more information, see [Add customized help desk info to the Office 365 help pane](https://docs.microsoft.com/office365/admin/misc/customize-help-desk).
 
-## Related articles
+## See also
 
 [Organize a live event in Yammer](https://support.office.com/article/organize-a-live-event-in-yammer-105dd7af-9caf-4a5e-8a44-56d203e96551)
 

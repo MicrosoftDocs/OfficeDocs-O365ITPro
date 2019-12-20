@@ -3,7 +3,7 @@ title: "Track Yammer events in the Office 365 audit log and with the Management 
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 3/28/2019
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: overview
 ms.service: yammer
