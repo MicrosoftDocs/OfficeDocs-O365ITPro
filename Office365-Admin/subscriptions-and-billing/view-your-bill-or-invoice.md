@@ -23,6 +23,8 @@ ms.custom:
 - MET150
 - MOE150
 - BEA160
+- TRN_M365B
+- OKR_SMB_Videos
 ms.assetid: 2ae3ea58-4fce-4592-91d6-46e9ae3ec218
 description: "Find your invoice or billing statement in the Microsoft 365 admin center. You can also save and print a copy of your bill."
 ---
