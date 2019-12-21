@@ -3,7 +3,7 @@ title: "Manage Yammer security settings"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 3/28/2018
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer

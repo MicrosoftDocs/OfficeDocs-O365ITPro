@@ -3,7 +3,7 @@ title: "AAD credentials will be required for Yammer Enterprise log in"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/13/2018
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
