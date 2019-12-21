@@ -36,12 +36,6 @@ You can't remove a license from a subscription if it's assigned to a user. If yo
 > [!NOTE]
 > If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
 
-Watch a short video that describes how to remove a license from a subscription. <br><br>
-
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1SBE2] 
-
-If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
-
 ## Remove licenses
 
 1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
