@@ -11,6 +11,9 @@ ms.collection:
 - M365-subscription-management 
 - Adm_O365
 - Adm_TOC
+ms.custom:
+- TRN_M365B
+- OKR_SMB_Videos
 search.appverid:
 - BCS160
 - MET150
@@ -22,8 +25,13 @@ description: "Learn to add email signature, legal disclaimer, or disclosure stat
 # Create organization-wide signatures and disclaimers
 
  You can add an email signature, legal disclaimer, or disclosure statement to the email messages that enter or leave your organization. You can set it up to apply to all incoming and outgoing messages as shown below. Or you can apply it to certain messages like those containing specific words or text patterns.
+
+ Watch a short video about creating a company-wide email signature. <br><br>
   
-  
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1IEWf] 
+
+If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
 ## Create a signature that applies to all messages
 
 > [!TIP]

@@ -16,6 +16,8 @@ ms.collection:
 ms.custom:
 - MSStore_Link
 - okr_smb
+- TRN_M365B
+- OKR_SMB_Videos
 search.appverid:
 - BCS160
 - MET150
@@ -33,6 +35,12 @@ If you're the person who purchased your Microsoft business subscription, you are
 For more information, see [About admin roles](about-admin-roles.md).
 
 When you add new users, if you don't assign them an admin role then they are in the *user role* and don't have admin privileges to any of the Microsoft admin centers. But if you need help getting things done, you can assign an admin role to a user. For example, if you need someone to help reset passwords, you shouldn't assign them the global admin role, you should assign them the password admin role. Having too many global admins, with unlimited access to your data and online business, is a security risk.
+
+Watch a short video about adding an admin.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOfO] 
+
+If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ::: moniker range="o365-worldwide"
 

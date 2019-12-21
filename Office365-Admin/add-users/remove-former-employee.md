@@ -25,6 +25,8 @@ ms.collection:
 - SPO_Content
 ms.custom:
 - MSStore_Link
+- TRN_M365B
+- OKR_SMB_Videos
 search.appverid:
 - BCS160
 - MET150
@@ -34,7 +36,6 @@ description: "Follow this checklist to remove an employee from Office 365 and se
 ---
 
 # Remove a former employee from Office 365
-
   
 ## Sign out now!
 
@@ -42,7 +43,15 @@ description: "Follow this checklist to remove an employee from Office 365 and se
 
 > [!NOTE]
 > If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
-  
+
+Watch a short video about removing an employee. <br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOfR] 
+
+If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
+To remove an employee:
+
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 2. Select the box next to the user's name, and then select **Reset password**.
@@ -421,7 +430,6 @@ The above operations can be done in 3 places:
  **Fastest for a user with presence on-premises and in the Exchange Datacenter**: Terminate the session using Azure Active Directory admin center/Exchange admin center AND make the change in the on-premises environment as well. Otherwise, the change in Azure Active Directory admin center/Exchange admin center will be overwritten by DirSync. 
   
 ## Related articles
-
 
 [Restore a user](restore-user.md)
   
