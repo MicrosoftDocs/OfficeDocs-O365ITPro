@@ -160,6 +160,9 @@ Run the script by typing:
 
 and sign in with your administrator account when prompted.
 
+> [!IMPORTANT]
+> Be sure to connect to the correct Cloud instance. For more information please refer here:https://docs.microsoft.com/en-us/office365/enterprise/powershell/connect-to-office-365-powershell#step-2-connect-to-azure-ad-for-your-office-365-subscription 
+
 ```PowerShell
 $GroupName = "<SecurityGroupName>"
 $AllowGroupCreation = "False"
