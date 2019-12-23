@@ -52,36 +52,26 @@ In SharePoint online, by default, modern authentication is enabled.
 
 ## Set up multi-factor authentication
 
-1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select **Setup**.
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select select **Settings** \> **Services & add-ins**
 
-2. Next to **Sign-in and security**, under **Make sign-in more secure**, select **View**.
+2. On the **Services & add-ins** page, select **‎Azure‎ multi-factor authentication**.
 
-3. On the **Make sign-in more secure** page, select **Get started**.
+3. Select the **User** Or Click On **Bullk Update** If you would like to enable it for more than one user.
 
-4. Select the **Require multi-factor authentication** and **Require users to register for multi-factor authentication and block access if risk is detected** check boxes.
+4. Click on **Enable** under **Quick Steps**  and Click on **Enable Multi-Factor Auth**.
 
-5. Under **Do you want to exclude anyone from these policies**, select any users that you want to exclude from the drop-down list box.
-
-6. Select **Create policy**. You will return to the **Make sign-in more secure** page, which will now say **Completed**. 
 
 After you set up multi-factor authentication for your organization, your users will be required to set up two-step verification on their devices. For more information, see [Set up 2-step verification for Office 365](https://support.office.com/article/ace1d096-61e5-449b-a875-58eb3d74de14).
 
 ## Manage MFA settings 
 
-1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select **Setup**.
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select select **Settings** \> **Services & add-ins**
 
-2. Next to **Sign-in and security**, under **Make sign-in more secure**, select **View**.
+2. On the **Services & add-ins** page, select **‎Azure‎ multi-factor authentication**.
 
-3. Under **Make sign-in more secure**, select **Manage**. 
+3. Select the **User** Or Click On **Bullk Update** If you would like to enable it for more than one user.
 
-4. The **Azure portal Conditional Access - Policies** page will appear. To turn multi-factor authentication on or off:
-
-    1. Select **Baseline policy: End user protection (Preview)**, and turn the **Enable** toggle on or off.
-
-    2. Select **Baseline policy: Require MFA for admins (Preview)**, and turn the **Enable** toggle on or off.
-
-    > [!NOTE]
-    > To exclude users from a policy, select **specific users excluded** > **Select excluded users**, select the users from the list, and then choose **Select**.
+4. Click on **Manage User Settings** under **Quick Steps**.
 
 ## Related articles
 
