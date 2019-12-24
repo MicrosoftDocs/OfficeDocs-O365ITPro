@@ -155,7 +155,7 @@ There are a few different ways you can access a mailbox once you've been given a
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
 
-2. Select the name of the user (from which you plan to give a send on behalf permission) to open their properties pane.
+2. Select the name of the user (from whom you plan to give a **Send on behalf** permission) to open their properties pane.
     
 3. On the **Mail** tab, select **Manage mailbox permissions**.
     
