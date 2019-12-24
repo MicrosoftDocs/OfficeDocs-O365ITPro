@@ -102,7 +102,7 @@ You'll probably only need to assign the following roles in your organization. (F
 |Exchange admin     |  Full access to Exchange Online, creates and manages groups, manages service requests, and monitors service health.    |
 |External identity provider admin    |     Configure identity providers for use in direct federation.    |
 |Global admin     |    Has unlimited access to all management features and most data in all admin centers.     |
-|Global reader     |    Has read-only access to all management features and most data in admin centers. For detailed description of access rights and limitations of this role, please see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#global-reader)     |
+|Global reader     |    Has read-only access to all management features and most data in admin centers. For a detailed description of access rights and limitations of this role, please see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#global-reader).    |
 |Groups admin   |Creates groups and manages all groups settings across admin centers.|
 |Guest inviter     |    Manages Azure Active Directory B2B guest user invitations.     |
 |Helpdesk admin     | Resets passwords and re-authenticates for all non-admins and some admin roles, manages service requests, and monitors service health.      |
