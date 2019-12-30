@@ -42,7 +42,7 @@ In the community header, point on the cover photo and select Update Cover Photo.
 3. From the file list, select **Take a Photo** or **Upload a Picture**.
 
    The file must be is 20 MBs or less and is either a .png, .jpeg, or a non-animated .gif.
-   ![yammer](../media/yammer-group-header-upload-photo-mobile.png)
+   ![yammer](../media/yammer-group-header-upload-a-photo-mobile.png)
 
 ## See also
 [Favorite communities](favorite-communities.md)

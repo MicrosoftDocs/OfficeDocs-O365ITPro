@@ -24,11 +24,11 @@ In the new Yammer experience in both web and mobile, users can add Favorite comm
 
 ## To add/remove a Favorite from a community header
 
-On the Yammer web and in the mobile app, in the bottom right corner of the community header, there is a heart icon. If this icon is unfilled, ![yammer-grey-heart](../media/yammer-grey-heart.png), then you can select the icon to add the community to your Favorite communities list. Once the heart icon is filled,![yammer-red-heart](../media/yammer-red-heart.png), then the community is a Favorite and appears at the top of your community list.
+On the Yammer web and in the mobile app, in the bottom right corner of the community header, there is a heart icon. If this icon is unfilled, ![yammer](../media/yammer-grey-heart.png), then you can select the icon to add the community to your Favorite communities list. Once the heart icon is filled, ![yammer](../media/yammer-red-heart.png), then the community is a Favorite and appears at the top of your community list.
 
 To remove a Favorite community from the list, select the heart and it will appear unfilled. Now this community is no longer a favorite and will not be at the top of your communities list.
 
-![yammer-](../media/yammer-group_header_web.PNG)
+![yammer](../media/yammer-group_header_for-web.png)
 
 ## See also
 [Customize your Yammer community](customize-your-yammer-community.md)
