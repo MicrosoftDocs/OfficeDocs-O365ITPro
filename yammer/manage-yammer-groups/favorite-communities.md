@@ -28,7 +28,7 @@ On the Yammer web and in the mobile app, in the bottom right corner of the commu
 
 To remove a Favorite community from the list, select the heart and it will appear unfilled. Now this community is no longer a favorite and will not be at the top of your communities list.
 
-![yammer](../media/yammer-group_header_for-web.png)
+![yammer](../media/yammer-group_header_favorites.png)
 
 ## See also
 [Customize your Yammer community](customize-your-yammer-community.md)
