@@ -23,6 +23,8 @@ ms.custom:
 - MET150
 - MOE150
 - BEA160
+- TRN_M365B
+- OKR_SMB_Videos
 ms.assetid: 2ae3ea58-4fce-4592-91d6-46e9ae3ec218
 description: "Find your invoice or billing statement in the Microsoft 365 admin center. You can also save and print a copy of your bill."
 ---
@@ -37,6 +39,12 @@ If you need help interpreting the charges you see on your bill, see [Understand 
  **Not an admin?** Contact your IT administrator for help. 
   
  **Have a problem with your bill?** [Contact support for business products](../contact-support-for-business-products.md).
+
+ Watch a short video about viewing your bill or invoice (note that your invoice may appear different from the one in the video). <br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FGmo] 
+
+If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
   
 ## View a bill or invoice
 
