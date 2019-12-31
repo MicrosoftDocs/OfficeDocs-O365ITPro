@@ -69,7 +69,7 @@ After you set up multi-factor authentication for your organization, your users w
 
 2. On the **Services & add-ins** page, select **‎Azure‎ multi-factor authentication**.
 
-3. Select the **User** Or Click On **Bullk Update** If you would like to enable it for more than one user.
+3. Select the user or click on **Bullk Update** if you would like to enable it for more than one user.
 
 4. Click on **Manage User Settings** under **Quick Steps**.
 
