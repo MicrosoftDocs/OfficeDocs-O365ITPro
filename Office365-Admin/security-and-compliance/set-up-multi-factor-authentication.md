@@ -71,7 +71,7 @@ After you set up multi-factor authentication for your organization, your users w
 
 3. Select the user or click on **Bullk Update** if you would like to enable it for more than one user.
 
-4. Click on **Manage User Settings** under **Quick Steps**.
+4. Under **Quick Steps**, select **Manage User Settings**.
 
 ## Related articles
 
