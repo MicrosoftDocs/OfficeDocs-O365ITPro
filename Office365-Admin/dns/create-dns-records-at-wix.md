@@ -61,7 +61,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 ||||
 |:-----|:-----|:-----|
-|**Host Name** <br/> |**Text Value** <br/> |**TTL** <br/> |
+|**Host Name** <br/> |**TXT Value** <br/> |**TTL** <br/> |
 |Automatically populated  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)|1 Hour <br/> |          |
    
 5. Select the **Save DNS** button at the top of the DNS editor. 
