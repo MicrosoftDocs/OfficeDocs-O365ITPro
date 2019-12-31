@@ -65,7 +65,7 @@ After you set up multi-factor authentication for your organization, your users w
 
 ## Manage MFA settings 
 
-1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select select **Settings** \> **Services & add-ins**
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select **Settings** \> **Services & add-ins**
 
 2. On the **Services & add-ins** page, select **‎Azure‎ multi-factor authentication**.
 
