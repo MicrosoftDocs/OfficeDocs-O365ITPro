@@ -58,7 +58,7 @@ In SharePoint online, by default, modern authentication is enabled.
 
 3. Select the user or click on **Bullk Update** if you would like to enable it for more than one user.
 
-4. Click on **Enable** under **Quick Steps**  and Click on **Enable Multi-Factor Auth**.
+4. Under **Quick Steps**, select **Enable** \> **Enable Multi-Factor Auth**.
 
 
 After you set up multi-factor authentication for your organization, your users will be required to set up two-step verification on their devices. For more information, see [Set up 2-step verification for Office 365](https://support.office.com/article/ace1d096-61e5-449b-a875-58eb3d74de14).
