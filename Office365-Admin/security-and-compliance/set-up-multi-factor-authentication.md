@@ -52,7 +52,7 @@ In SharePoint online, by default, modern authentication is enabled.
 
 ## Set up multi-factor authentication
 
-1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select select **Settings** \> **Services & add-ins**
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select **Settings** \> **Services & add-ins**
 
 2. On the **Services & add-ins** page, select **‎Azure‎ multi-factor authentication**.
 
