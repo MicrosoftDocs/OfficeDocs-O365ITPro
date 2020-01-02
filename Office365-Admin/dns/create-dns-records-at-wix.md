@@ -61,7 +61,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
 ||||
 |:-----|:-----|:-----|
-|**Host Name** <br/> |**Text Value** <br/> |**TTL** <br/> |
+|**Host Name** <br/> |**TXT Value** <br/> |**TTL** <br/> |
 |Automatically populated  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)|1 Hour <br/> |          |
    
 5. Select the **Save DNS** button at the top of the DNS editor. 
@@ -117,7 +117,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **My Domains** page, in the **Advanced** area, select the **Edit DNS** button. 
     
-3. Select **+ Add another** in the **CNAME (Aliases) row** of the DNS editor for each CNAME record. 
+3. Select **+ Add another** in the **CNAME (Aliases)** row of the DNS editor for each CNAME record. 
     
 4. In the boxes for the new record, type or copy and paste the values from the following table:
     
@@ -143,11 +143,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **My Domains** page, in the **Advanced** area, select the **Edit DNS** button. 
     
-3. Select **+ Add another** in the **TXT row** of the DNS editor. 
+3. Select **+ Add another** in the **TXT (Text)** row of the DNS editor. 
     
 4. In the boxes for the new record, type or copy and paste the values from the following table:
     
-|**Host Name**|**Text Value**|**TTL**|
+|**Host Name**|**TXT Value**|**TTL**|
 |:-----|:-----|:-----|
 |[leave this blank]  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.<br/> |TXT  <br/> | 1 Hour |
    
@@ -162,7 +162,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
 2. On the **My Domains** page, in the **Advanced** area, select the **Edit DNS** button. 
     
-3. Select **+ Add another** in the **SRV row** of the DNS editor. 
+3. Select **+ Add another** in the **SRV** row of the DNS editor. 
     
 4. In the boxes for the new record, type or copy and paste the values from the following table:
     
