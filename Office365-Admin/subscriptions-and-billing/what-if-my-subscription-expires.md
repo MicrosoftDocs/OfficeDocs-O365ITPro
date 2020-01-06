@@ -32,7 +32,7 @@ If your subscription ends—either because it expires, or because you decide to 
   
 ## Office 365 for business: Subscription lifecycle
 - If your subscription expires, it goes through the following stages: Expired / Disabled / Deprovisioned. The Expired stage starts directly after the subscription has reached its end date.
-- If you cancel the renewal of your annual subscription, then it goes through the same stages as expired subscription and the first stage starts at the anniversary of the annual subscription (not at the date of cancelling the subscription renewal).
+- If you cancel the renewal of your annual subscription, it goes through the same stages as an expired subscription and the first stage starts at the anniversary of the annual subscription (not at the date of cancelling the subscription renewal).
 - If you cancel your monthly subscription, then it will be disabled immediately (at the date of cancellation). This means your users will lost the access the Office 365 assets immediately and only admins will get access to the data for next 90 days.
 
 The following table explains what you can expect when a paid Office 365 for business subscription expires.
