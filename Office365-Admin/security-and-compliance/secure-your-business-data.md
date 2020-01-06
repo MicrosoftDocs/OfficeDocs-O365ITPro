@@ -149,7 +149,7 @@ To create a mail transport rule, view a [short training video](https://support.o
 |Apply this rule if . . .  <br/> |Any attachment . . . file extension matches . . .  <br/> |Any attachment . . . file extension matches . . .  <br/> |
 |Specify words or phrases  <br/> |Add these file types:  <br/> dotm, docm, xlsm, sltm, xla, xlam, xll, pptm, potm, ppam, ppsm, sldm  <br/> |Add these file types:  <br/> ade, adp, ani, bas, bat, chm, cmd, com, cpl, crt, hlp, ht, hta, inf, ins, isp, job, js, jse, lnk, mda, mdb, mde, mdz, msc, msi, msp, mst, pcd, reg, scr, sct, shs, url, vb, vbe, vbs, wsc, wsf, wsh, exe, pif  <br/> |
 |Do the following . . .  <br/> |Notify the recipient with a message  <br/> |Block the message . . . reject the message and include an explanation  <br/> |
-|Provide message text  <br/> |Do not open these type of files from people you do not know because they might contain macros with malicious code.  <br/> ||
+|Provide message text  <br/> |Do not open these types of files—unless you were expecting them—because the files may contain malicious code and knowing the sender isn't a guarantee of safety.  <br/> ||
    
 > [!TIP]
 > You can also add the files you want to block to the Anti-malware list in [step 4](#4-raise-the-level-of-protection-against-malware-in-mail).
