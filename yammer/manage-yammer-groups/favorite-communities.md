@@ -31,4 +31,5 @@ To remove a Favorite community from the list, select the heart and it will appea
 ![yammer](../media/yammer-group_header_favorites.png)
 
 ## See also
+
 [Customize your Yammer community](customize-your-yammer-community.md)

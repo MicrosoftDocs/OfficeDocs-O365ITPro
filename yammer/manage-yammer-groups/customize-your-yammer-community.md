@@ -45,4 +45,5 @@ In the community header, point on the cover photo and select Update Cover Photo.
    ![yammer](../media/yammer-group-header-upload-a-photo-mobile.png)
 
 ## See also
+
 [Favorite communities](favorite-communities.md)
