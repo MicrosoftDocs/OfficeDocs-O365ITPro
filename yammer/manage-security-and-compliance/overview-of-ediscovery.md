@@ -28,10 +28,12 @@ You can learn more about eDiscovery in the [Microsoft Security and Compliance Ce
 The processes outlined in the above documentation explain how to run eDiscovery searches on all your Microsoft content. While Yammer isn’t discussed explicitly in those documents, the same processes mentioned there apply to Yammer content. When writing a search query in either eDiscovery or Advanced eDiscovery, you can filter on Yammer content specifically by selecting **Yammer Messages** as the *Type* of content as shown in the screenshots below.
 
 ## eDiscovery
-[add image here]
+
+![yam-ediscovery](../media/kb/yam-ediscovery.png)
 
 ## Advanced eDiscovery
-[add image here]
+
+![yam-advanced-ediscovery](../media/yammer-advanced-ediscovery.png)
 
 > [!NOTE]
 > You do not need to select Yammer messages as the Type to ensure Yammer messages will be included in your results. This option allows you to filter so that your results only include Yammer messages.
