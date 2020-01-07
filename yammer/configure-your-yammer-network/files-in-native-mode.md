@@ -3,7 +3,7 @@ title: "Files in Native Mode"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/19/2019
+ms.date: 12/20/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -63,8 +63,6 @@ Because migration deletes files and the process is irreversible, we suggest you:
 - SLA - up to 45 days for networks with > 100K files
 
 5. Once Microsoft 365 Alignment Tool has completed, review the Error Report and determine if other steps are necessary before your network can be in Native Mode for Microsoft 365.
-
-ADD COMMON ERROR TABLE
 
 ### End user experience
 

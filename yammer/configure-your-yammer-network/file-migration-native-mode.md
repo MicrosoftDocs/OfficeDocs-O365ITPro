@@ -51,7 +51,7 @@ Because migration deletes all files from private messages, you need to decide ho
 
 2. Export files from private messages if these files need to be saved. For steps, see [Export data from Yammer Enterprise](../manage-security-and-compliance/export-yammer-enterprise-data.md).
 
-3. Optional. Export all files from all groups that have been stored in Yammer to provide a backup of the files. 
+3. Optional. Export all files from all groups that have been stored in Yammer to provide a backup of the files.
 
 4. When your backup is complete, start the migration from the Microsoft 365 Alignment Wizard. You can start migration when export is running, but the export data may indicate certain files are in SharePoint due to the migration.
 
@@ -77,7 +77,7 @@ After migration:
 
 - If users want to search the content of files, they'll need to go to the SharePoint site or document library for an individual group and use the Search bar at the top of the page, or use content search from the organization's SharePoint site.
 
-    Yammer search searches the first 5000 characters of files in Azure cloud storage as well as the title and author, but only searches the title and author of files stored in SharePoint. 
+    Yammer search searches the first 5000 characters of files in Azure cloud storage as well as the title and author, but only searches the title and author of files stored in SharePoint.
 
 ## File metadata
 
@@ -90,7 +90,7 @@ When files are copied to the SharePoint document library:
 - Users can no longer mark a file as official.
 
 - Files are marked as having been migrated to SharePoint.
- 
+
 ## File name conflicts
 
 When migration completes, the admin gets a report of any file name conflicts, and how they were handled:
@@ -112,4 +112,3 @@ A: No. Only one person in your organization needs a SharePoint license.
 [Prepare a Yammer network for Native Mode for Microsoft 365](native-mode.md)
 
 [Enforce Office 365 identity in Yammer](enforce-office-365-identity.md)
-
