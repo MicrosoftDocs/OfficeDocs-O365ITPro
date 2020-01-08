@@ -1,8 +1,8 @@
 ---
 title: "Set up Office 365 file storage and sharing"
-ms.author: twerner
-author: twernermsft
-manager: scotv
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
 ms.service: o365-administration
