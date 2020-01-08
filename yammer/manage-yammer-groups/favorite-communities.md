@@ -3,7 +3,7 @@ title: "Favorite communities"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 01/07/2020
+ms.date: 01/08/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer

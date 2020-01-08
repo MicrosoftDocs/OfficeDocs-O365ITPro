@@ -3,7 +3,7 @@ title: "Customize your Yammer community"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/27/2019
+ms.date: 01/08/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
