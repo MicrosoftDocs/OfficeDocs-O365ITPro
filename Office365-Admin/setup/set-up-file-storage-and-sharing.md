@@ -69,7 +69,7 @@ Employees can also share OneDrive files and folders. If an employee is away or l
 Here's how each person on your team can set up OneDrive and share files.
 
   
-1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>, and sign in with your user name and password. 
+1. Go to the <a href="https://portal.office.com/ " target="_blank">Office 365 Portal</a>, and sign in with your user name and password. 
     
 2. From the App launcher, select **OneDrive**.
     
