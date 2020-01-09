@@ -63,6 +63,6 @@ Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=850
     
 Check out how to use group in Outlook 2016 and Outlook on the web in the [Use contact groups (formerly distribution lists) in Outlook](https://support.office.com/article/1c97fcb2-0ed4-41e6-b401-58f9d7d40e39.aspx) topic. 
   
-Check out [Troubleshooting distribution group issues](https://docs.microsoft.com/office365/troubleshoot/troubleshooting/distribution-list-issues) for help with distribution group issues. 
+Check out [Distribution group issues](https://docs.microsoft.com/office365/troubleshoot/groups/distribution-list-issues) for help with distribution group issues. 
   
 
