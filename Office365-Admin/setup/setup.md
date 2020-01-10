@@ -5,15 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_SetupIntroUnified'
-- 'O365P_GSWUpsellAdminSetup'
-- 'O365M_SetupIntroUnified'
-- 'O365M_Setup'
-- 'O365M_GSWUpsellAdminSetup'
-- 'O365E_SetupIntroUnified'
-- 'O365E_HomeUpsellAdminSetup'
-- 'O365E_GSWUpsellAdminSetup'
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: 

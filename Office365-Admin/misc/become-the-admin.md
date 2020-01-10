@@ -5,11 +5,6 @@ author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'Setup_AdminTakeover'
-- 'O365P_DomainsSetup_Merge'
-- 'O365E_FreemiumExternalTakeover_1457'
-- 'O365E_DomainsSetup_Merge'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

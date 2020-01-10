@@ -5,13 +5,6 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_SCDeleteUserChkList'
-- 'O365P_ESDeletedUserChkList'
-- 'O365M_SCDeleteUserChkList'
-- 'O365M_ESDeletedUserChkList'
-- 'O365E_SCDeleteUserChkList'
-- 'O365E_ESDeletedUserChkList'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

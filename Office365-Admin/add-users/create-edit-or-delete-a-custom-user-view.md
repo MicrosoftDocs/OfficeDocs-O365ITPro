@@ -5,10 +5,6 @@ author: twernermsft
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_ESUsersFilter'
-- 'O365M_ESUsersFilter'
-- 'O365E_ESUsersFilter'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

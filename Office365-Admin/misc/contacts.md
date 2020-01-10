@@ -5,10 +5,6 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_ESContacts'
-- 'O365M_ESContacts'
-- 'O365E_ESContacts'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

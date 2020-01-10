@@ -6,19 +6,6 @@ manager: mnirkhe
 audience: Admin
 ms.topic: landing-page
 layout: LandingPage
-f1_keywords:
-- 'O365P_Wizard_DNSRecordsNoImpact'
-- 'O365P_SupportHm_AddDomain'
-- 'O365P_DomainsMainUI_AddDomain'
-- 'O365P_DomainsMain_NoRedelegation'
-- 'O365P_DomainsMain_AddDomain'
-- 'O365P_DOM_Mgr_GenericHelpLink'
-- 'O365M_UpdateWebsiteURL_DefaultWebsite'
-- 'O365M_DomainsMain_SetUpDomain'
-- 'O365M_DOM_Mgr_GenericHelpLink'
-- 'O365E_UpdateWebsiteURL_DefaultWebsite'
-- 'O365E_DomainsMain_SetUpDomain'
-- 'O365E_DOM_Mgr_GenericHelpLink'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

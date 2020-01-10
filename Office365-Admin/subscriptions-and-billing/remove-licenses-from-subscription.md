@@ -5,10 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_ProductLicenseRemove'
-- 'O365M_ProductLicenseRemove'
-- 'O365E_ProductLicenseRemove'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

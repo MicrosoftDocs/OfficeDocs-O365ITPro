@@ -5,9 +5,6 @@ author: twernermsft
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365M_ShareSites'
-- 'O365E_ShareSites'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

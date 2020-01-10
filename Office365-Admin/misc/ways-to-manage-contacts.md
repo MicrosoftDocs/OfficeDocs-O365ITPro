@@ -5,13 +5,6 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: reference
-f1_keywords:
-- 'O365P_SCContactsAdmin'
-- 'O365P_ESContactsCollabScenarios'
-- 'O365M_SCContactsAdmin'
-- 'O365M_ESContactsCollabScenarios'
-- 'O365E_SCContactsAdmin'
-- 'O365E_ESContactsCollabScenarios'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

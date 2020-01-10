@@ -5,8 +5,6 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_AssignAdminPermissions'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

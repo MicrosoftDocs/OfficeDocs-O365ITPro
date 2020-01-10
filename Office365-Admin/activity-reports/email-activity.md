@@ -5,9 +5,6 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365M_ReportsEmailActivity'
-- 'O365E_ReportsEmailActivity'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

@@ -5,12 +5,6 @@ author: Sirkkuw
 manager: scotv
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_MoveEmail'
-- 'O365M_MoveEmail
-O365P_MoveEmail
-O365E_MoveEmail'
-- 'O365E_MoveEmail'
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: 

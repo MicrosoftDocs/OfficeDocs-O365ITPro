@@ -5,10 +5,6 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_ESDeletedUser'
-- 'O365M_ESDeletedUser'
-- 'O365E_ESDeletedUser'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

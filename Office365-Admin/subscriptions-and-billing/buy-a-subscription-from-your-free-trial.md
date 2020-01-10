@@ -5,10 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_UpgradefromTrial'
-- 'O365M_UpgradefromTrial'
-- 'O365E_UpgradefromTrial'
 keywords:
 - 'trial,Trial,Buy,Buy'
 ms.service: o365-administration

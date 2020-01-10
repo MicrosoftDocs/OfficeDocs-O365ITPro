@@ -5,13 +5,6 @@ author: twernermsft
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_SCRoomsEquipAdmin'
-- 'O365P_ESResourceMbx'
-- 'O365M_SCRoomsEquipAdmin'
-- 'O365M_ESResourceMbx'
-- 'O365E_SCRoomsEquipAdmin'
-- 'O365E_ESResourceMbx'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
