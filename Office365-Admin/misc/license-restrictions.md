@@ -5,10 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: overview
-f1_keywords:
-- 'O365P_LicenseRestrictions'
-- 'O365M_LicenseRestrictions'
-- 'O365E_LicenseRestrictions'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

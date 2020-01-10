@@ -5,10 +5,6 @@ author: Sirkkuw
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_SettingsReportsPBI'
-- 'O365M_SettingsReportsPBI'
-- 'O365E_SettingsReportsPBI'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

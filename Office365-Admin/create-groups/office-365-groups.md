@@ -1,13 +1,11 @@
 ---
 title: "Overview of Office 365 Groups for administrators"
 ms.reviewer: arvaradh
-ms.author: mikeplum
+ms.author: v-teflor
 author: MikePlumleyMSFT
 manager: pamgreen
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_O365GroupsAdmin'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
@@ -84,9 +82,7 @@ Any Office 365 subscription that has Exchange Online and SharePoint Online will 
 
 If you have an Exchange-only plan you can still get the shared Inbox and shared Calendar features of groups in Outlook but you won’t get the document library, Planner or any of the other capabilities.
 
-If you have a Yammer-only plan you will still have the conversations feed in the Yammer group but you won't get the document library, Planner, or any of the other capabilities.
-
-Office 365 Groups works with Azure Active Directory (AAD). The Groups features you get depends on which Azure Active Directory subscription you have, and what license(s) is assigned to the organizer of the Group. 
+Office 365 Groups works with Azure Active Directory (AAD). The Groups features you get depends on which Azure Active Directory subscription you have, and what license(s) is assigned to the organizer of the Group.
 
 > [!IMPORTANT]
 > For all the Groups features, if you have an Azure AD Premium subscription, users can join the group whether or not they have an AAD P1 license assigned to them. Licensing isn't enforced.

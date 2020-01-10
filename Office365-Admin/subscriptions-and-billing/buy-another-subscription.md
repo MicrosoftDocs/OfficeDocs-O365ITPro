@@ -5,10 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_BusSubscriptionsBuy'
-- 'O365M_BusSubscriptionsBuy'
-- 'O365E_BusSubscriptionsBuy'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

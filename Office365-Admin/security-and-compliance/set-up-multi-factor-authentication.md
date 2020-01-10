@@ -5,8 +5,6 @@ author: sirkkuw
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365E_AdmSetSecPrivMFA'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

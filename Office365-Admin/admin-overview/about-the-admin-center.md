@@ -5,10 +5,6 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: overview
-f1_keywords:
-- 'O365P_AboutAdminCenter'
-- 'O365M_AboutAdminCenter'
-- 'O365E_AboutAdminCenter'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

@@ -5,8 +5,6 @@ author: pebaum
 manager: pamgreen
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365E_ReportsODActivity'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

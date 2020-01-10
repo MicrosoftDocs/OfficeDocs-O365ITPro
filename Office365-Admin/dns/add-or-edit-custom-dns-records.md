@@ -5,9 +5,6 @@ author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_DomainsMain_CustomDNS'
-- 'O365P_DNSMgr_CustomDNS'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

@@ -6,7 +6,6 @@ manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
-f1_keywords:
 ms.service: yammer
 localization_priority: High
 ms.custom: Adm_Yammer

@@ -5,8 +5,6 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365E_AdminSettingsEmailApp
 O365M_AdminSettingsEmailApp'
 ms.service: o365-administration
 localization_priority: Normal

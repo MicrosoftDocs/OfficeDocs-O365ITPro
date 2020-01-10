@@ -5,10 +5,6 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: overview
-f1_keywords:
-- 'O365P_AssignAdminRoles'
-- 'O365M_AssignAdminRoles'
-- 'O365E_AssignAdminRoles'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
@@ -72,7 +68,7 @@ You'll probably only need to assign the following roles in your organization. (F
 |---------|---------|
 |Exchange admin     |   Assign the Exchange admin role to users who need to view and manage your user's email mailboxes, Office 365 groups, and Exchange Online. <br><br> Exchange admins can also:<br> - Recover deleted items in a user's mailbox <br> - Set up "Send As" and "Send on behalf" delegates <br>  |
 |Global admin     |   Assign the Global admin role to users who need global access to most management features and data across Microsoft online services. <br><br> Giving too many users global access is a security risk and we recommend that you have between 2 and 4 Global admins. <br><br> Only global admins can:<br> - Reset passwords for all users <br> - Add and manage domains <br> <br> **Note:**   The person who signed up for Microsoft online services automatically becomes a Global admin. |
-|Global reader    |   Assign the global reader role to users who need to view admin features and settings in all admin centers that the global admin can view. The global reader admin can't edit any settings.   |
+|Global reader    |   Assign the global reader role to users who need to view admin features and settings in admin centers that the global admin can view. The global reader admin can't edit any settings.   |
 |Groups admin     |   Assign the groups admin role to users who need to manage all groups settings across admin centers, including the Microsoft 365 Admin Center, Azure Active Directory portal, Teams admin center, and SharePoint admin center. <br><br> Groups admins can:<br> - Create, edit, delete, and restore Office 365 Groups <br> - Create and update group creation, expiration, and naming policies <br> - Create, edit, delete, and restore Azure Active Directory security groups| 
 |Helpdesk admin     |   Assign the Helpdesk admin role to users who need to do the following:<br> - Reset passwords <br> - Force users to sign out <br> - Manage service requests <br> - Monitor service health <br> <br> **Note**: The Helpdesk admin can only help non-admin users and users assigned these roles: Directory reader, Guest inviter, Helpdesk admin, Message center reader, and Reports reader.      |
 |Office Apps admin    |   Assign the Office Apps admin role to users who need to do the following: <br> - Use the Office cloud policy service to create and manage cloud-based policies for Office <br> - Create and manage service requests <br> - Manage the What’s New content that users see in their Office apps   <br> - Monitor service health  |
@@ -102,7 +98,7 @@ You'll probably only need to assign the following roles in your organization. (F
 |Exchange admin     |  Full access to Exchange Online, creates and manages groups, manages service requests, and monitors service health.    |
 |External identity provider admin    |     Configure identity providers for use in direct federation.    |
 |Global admin     |    Has unlimited access to all management features and most data in all admin centers.     |
-|Global reader     |    Has read-only access to all management features and most data in all admin centers.      |
+|Global reader     |    Has read-only access to all management features and most data in admin centers. For a detailed description of access rights and limitations of this role, please see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#global-reader).    |
 |Groups admin   |Creates groups and manages all groups settings across admin centers.|
 |Guest inviter     |    Manages Azure Active Directory B2B guest user invitations.     |
 |Helpdesk admin     | Resets passwords and re-authenticates for all non-admins and some admin roles, manages service requests, and monitors service health.      |

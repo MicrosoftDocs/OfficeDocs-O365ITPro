@@ -5,10 +5,6 @@ author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_DomainsSetup_InUse'
-- 'O365M_DomainsSetup_InUse'
-- 'O365E_DomainsSetup_InUse'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

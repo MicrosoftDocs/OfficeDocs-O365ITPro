@@ -5,10 +5,6 @@ author: Sirkkuw
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_GSWOutlookSetup'
-- 'O365M_GSWOutlookSetup'
-- 'O365E_GSWOutlookSetup'
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom:

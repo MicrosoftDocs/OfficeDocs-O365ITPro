@@ -5,10 +5,6 @@ author: pebaum
 manager: pamgreen
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'o365p_reportsod4busage'
-- 'O365M_ReportsOD4BUsage'
-- 'O365E_ReportsOD4BUsage'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

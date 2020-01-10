@@ -5,11 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: troubleshooting
-f1_keywords:
-- 'WhyICantSwitchPlans'
-- 'O365P_WhyICantSwitchPlans'
-- 'O365M_WhyICantSwitchPlans'
-- 'O365E_WhyICantSwitchPlans'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

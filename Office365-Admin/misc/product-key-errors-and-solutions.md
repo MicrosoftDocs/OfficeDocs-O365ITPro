@@ -5,11 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: troubleshooting
-f1_keywords:
-- 'O365P_ProductKeyFAQ'
-- 'O365M_ProductKeyFAQ'
-- 'O365E_ProductKeyFAQ'
-- 'O365E_O365P_ProductKeyFAQ'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

@@ -3,7 +3,7 @@ title: "Favorite communities"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/11/2019
+ms.date: 01/07/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -20,28 +20,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 # Favorite communities
 
-In the new Yammer experience in both web and mobile, users can add Favorite communities. After add you add a community as a Favorite, it is pinned to the top of your communities list. A user can add up to 10 Favorite communities.
+In the new Yammer experience in both web and mobile, users can add Favorite communities. After adding a community as a Favorite, it is pinned to the top of your communities list. A user can add up to ten (10) Favorite communities.
 
 ## To add/remove a Favorite from a community header
 
-On the Yammer web and in the mobile app, in the bottom right corner of the community header, there is a heart icon. If this icon is unfilled, [heart], then you can select the icon to add the community to your Favorite communities list. Once the heart icon is filled, [heart], then the community is a Favorite and appears at the top of your community list.
+On the Yammer web and in the mobile app, in the bottom right corner of the community header, there is a heart icon. If this icon is unfilled, ![grey](../media/yam-favorite-heart-unfilled.PNG), then you can select the icon to add the community to your Favorite communities list. Once the heart icon is filled, ![yammer](../media/yammer-red-heart.png), then the community is a Favorite and appears at the top of your community list.
 
 To remove a Favorite community from the list, select the heart and it will appear unfilled. Now this community is no longer a favorite and will not be at the top of your communities list.
 
-[add conversations and header image]
+![group-header](../media/yam-group-header-web.PNG)
 
-## To add a Favorite from the Community list
-
-On the Yammer web and in the mobile app, you can add favorite groups from your community list.
-
-### On the web
-
-1. [add content]
-2. [add content]
-
-### On mobile
-
-1. [add content]
-2. [add content]
+![group](../media/yam-group-header-mobile-red-heart.png)
 
 ## See also
+
+[Customize your Yammer community](customize-your-yammer-community.md)
+
+[Customize your network](customize-your-network.md)

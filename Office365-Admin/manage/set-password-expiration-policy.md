@@ -5,9 +5,6 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365M_PasswordExp'
-- 'O365E_PasswordExp'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

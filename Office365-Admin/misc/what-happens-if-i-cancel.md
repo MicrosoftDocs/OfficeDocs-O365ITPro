@@ -5,12 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_CancelSubAlert'
-- 'O365M_CancelSubAlert'
-- 'O365E_CancelSubAlert'
-- 'fwlink 789281'
-- 'CancelSubAlert'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

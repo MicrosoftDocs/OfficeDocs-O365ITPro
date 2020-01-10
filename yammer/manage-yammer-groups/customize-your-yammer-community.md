@@ -3,7 +3,7 @@ title: "Customize your Yammer community"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/11/2019
+ms.date: 12/27/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -26,19 +26,24 @@ This customization experience is available for group admins in both the web and 
 
 ## To upload a web cover photo
 
-In the community header, point on the cover photo and select Update Cover Photo.
-
-1. From the drop-down menu, select **Upload Cover Photo**.
+1. In the community header, select **Upload Cover Photo**.
 2. From the file list, select an image to upload.
 
    The file must be 20 MBs or less and is either a .png, .jpeg, or a non-animated .gif.
+   The web cover photo dimensions are 680 px by 275 px.
+![group](../media/yam-group-header-web.PNG)
 
 ## To upload a mobile cover photo
 
 1. In the community header, select the cover photo.
-2. In the top-right corner, select [add icon].
-3. From the file list, select or take an image to upload.
+2. In the top-right corner, select ![yammer](../media/yammer-more-button.png).
+3. From the file list, select **Take a Photo** or **Upload a Picture**.
 
    The file must be is 20 MBs or less and is either a .png, .jpeg, or a non-animated .gif.
+ ![mobile](../media/yam-group-header-mobile-options.png)
 
 ## See also
+
+[Favorite communities](favorite-communities.md)
+
+[Customize your network](customize-your-network.md)
