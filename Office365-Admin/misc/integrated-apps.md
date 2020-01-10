@@ -5,12 +5,6 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_ServiceSettings_IntegratedApps_FL512425'
-- 'O365P_integratedAppsLearMoreLink'
-- 'O365M_integratedAppsLearMoreLink'
-- 'O365E_integratedAppsLearMoreLink'
-- 'IntegratedApplicationsInfo'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection:

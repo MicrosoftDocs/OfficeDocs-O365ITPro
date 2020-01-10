@@ -5,10 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_DataLifecycle'
-- 'O365M_DataLifecycle'
-- 'O365E_DataLifecycle'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

@@ -5,10 +5,6 @@ author: sirkkuw
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_MCManageUpdates'
-- 'O365M_MCManageUpdates'
-- 'O365E_MCManageUpdates'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection:

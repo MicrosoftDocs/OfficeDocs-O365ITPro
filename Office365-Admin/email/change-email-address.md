@@ -5,13 +5,6 @@ author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_1stWhyChgEmail'
-- 'O365P_1stUseEmail'
-- 'O365P_1stAlreadyEmail'
-- '365P_CannotDeleteDomain_ChangeDefault'
-- '365M_CannotDeleteDomain_ChangeDefault'
-- '365E_CannotDeleteDomain_ChangeDefault'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

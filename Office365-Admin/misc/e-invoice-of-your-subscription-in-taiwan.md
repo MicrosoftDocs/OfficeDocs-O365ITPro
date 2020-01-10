@@ -5,10 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_ EInvoiceHelp'
-- 'O365M_ EInvoiceHelp'
-- 'O365E_ EInvoiceHelp'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

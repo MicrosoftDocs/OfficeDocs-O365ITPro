@@ -5,12 +5,6 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_SupportHm_ResetPassword'
-- 'O365M_SupportHm_ResetPassword'
-- 'O365M_E_Learn_AdminSetup_AdminPasswordRecommendations'
-- 'O365E_SupportHm_ResetPassword'
-- 'O365E_E_Learn_AdminSetup_AdminPasswordRecommendations'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

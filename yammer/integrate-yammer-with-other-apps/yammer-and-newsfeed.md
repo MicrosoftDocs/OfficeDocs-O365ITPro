@@ -5,11 +5,6 @@ author: TeresaFG-writer
 manager: pamgreen
 ms.date: 3/22/2018
 audience: Admin
-ms.topic: article
-f1_keywords:
-- 'spoe_YammerSwitch'
-- 'O365E_YammerSwitch'
-- 'O365E_YammerOn            '
 ms.service: yammer
 localization_priority: Normal
 ms.custom: Adm_Yammer

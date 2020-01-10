@@ -5,10 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_ViewEditCompanyInfo'
-- 'O365M_ViewEditCompanyInfo'
-- 'O365E_ViewEditCompanyInfo'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

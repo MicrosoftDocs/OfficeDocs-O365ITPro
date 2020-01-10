@@ -5,9 +5,6 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: overview
-f1_keywords:
-- 'O365P_CortanaAdmin'
-- 'O365E_CortanaAdmin'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

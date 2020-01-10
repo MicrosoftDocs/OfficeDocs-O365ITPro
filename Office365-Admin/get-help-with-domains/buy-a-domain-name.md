@@ -5,15 +5,6 @@ author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365PE_DomainsSetup_BuyDomain'
-- 'O365P_DomainsPDWUseDifferentTLD'
-- 'O365P_DomainsMain_BuyDomain'
-- 'O365P_1stRun_BuyDomain'
-- 'O365M_DomainsPDWUseDifferentTLD'
-- 'O365M_DomainsMain_BuyDomain'
-- 'O365E_DomainsPDWUseDifferentTLD'
-- 'O365E_DomainsMain_BuyDomain'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

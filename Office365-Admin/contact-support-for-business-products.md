@@ -5,11 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: troubleshooting
-f1_keywords:
-- 'O365P_GetSupportO365'
-- 'O365M_GetSupportO365'
-- 'O365E_GetSupportO365'
-- 'ms.cac.portal.contactsupport'
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection:

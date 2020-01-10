@@ -5,15 +5,6 @@ author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_EditNSRecs_LocateDNS'
-- 'O365P_DomainsVerify_WhereDNS'
-- 'O365P_1stUI_LocateDNS'
-- 'O365P_1stRun_LocateDNSProvider'
-- 'O365M_DomainsVerify_WhereDNS'
-- 'O365M_1stRun_LocateDNSProvider'
-- 'O365E_DomainsVerify_WhereDNS'
-- 'O365E_1stRun_LocateDNSProvider'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
