@@ -27,6 +27,9 @@ description: "Learn what happens to your data when your Office 365 for business 
 If your subscription ends—either because it expires, or because you decide to cancel—your access to Office 365 services, applications, and customer data go through multiple states before the subscription is fully turned off, or *deprovisioned*. If you are aware of this progression, you'll be better equipped to return your subscription to an active state before it's too late, or—if you're leaving Office 365—back up your data before it is ultimately deleted.
   
 ## Office 365 for business: Subscription lifecycle
+- If your subscription expires, it goes through the following stages: Expired / Disabled / Deprovisioned. The Expired stage starts immediately after the subscription has reached its end date.
+- If you turn off recurring billing on your annual subscription, it goes through the same stages as an expired subscription. The first stage starts are the anniversary of the annual subscription, not starting on the date that you turned off the subscription's recurring billing setting.
+- If you cancel your monthly subscription, it will be disabled immediately (at the date of cancellation). This means your users will lose access to the Office 365 assets immediately and only admins will have access to the data for the next 90 days.
 
 The following table explains what you can expect when a paid Office 365 for business subscription expires.
 
@@ -213,4 +216,4 @@ To learn how to cancel, see [Cancel your subscription](cancel-your-subscription.
 > If you want your subscription data to be deleted before the typical Disabled period is over, you can request expedited deprovisioning. When you request expedited deprovisioning, your subscription data is deleted within 3 days of cancellation. To use expedited deprovisioning, [call support](../contact-support-for-business-products.md).
 
 > [!NOTE]
-> The information on this page is subject to the [Microsoft Policy Disclaimer and Change Notice](https://go.microsoft.com/fwlink/p/?LinkId=613651). Return to this site periodically to review any such changes.
+> The information on this page is subject to the [Microsoft Policy Disclaimer and Change Notice](https://go.microsoft.com/fwlink/p/?LinkId=613651). Return to this site periodically to review any changes.
