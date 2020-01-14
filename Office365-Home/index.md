@@ -21,7 +21,7 @@ description: Manage Office 365
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img src="https://docs.microsoft.com/en-us/office/media/hub-tiles/Office365-EnterpriseCloud-400x140.svg" alt="A cloud symbol with a building and a green checkmark" />
+                                                        <img src="https://docs.microsoft.com/office/media/hub-tiles/Office365-EnterpriseCloud-400x140.svg" alt="A cloud symbol with a building and a green checkmark" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -34,13 +34,13 @@ description: Manage Office 365
                                 </a>
                             </li>
                             <li>
-                                <a href="https://docs.microsoft.com/en-us/office365/admin/admin-home">
+                                <a href="https://docs.microsoft.com/office365/admin/admin-home">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img src="https://docs.microsoft.com/en-us/office/media/hub-tiles/Office365-Admin-400x140.svg" alt="A user and wrench symbol over a gear symbol" />
+                                                        <img src="https://docs.microsoft.com/office/media/hub-tiles/Office365-Admin-400x140.svg" alt="A user and wrench symbol over a gear symbol" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -59,7 +59,7 @@ description: Manage Office 365
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img src="https://docs.microsoft.com/en-us/office/media/hub-tiles/Office365-SecurityCompliance-400x140.svg" alt="Cloud symbols and a shield symbol with a green checkmark" />
+                                                        <img src="https://docs.microsoft.com/office/media/hub-tiles/Office365-SecurityCompliance-400x140.svg" alt="Cloud symbols and a shield symbol with a green checkmark" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -78,7 +78,7 @@ description: Manage Office 365
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img src="https://docs.microsoft.com/en-us/office/media/hub-tiles/Office-ManageUpdates-400x140.svg" alt="A computer with a download symbol" />
+                                                        <img src="https://docs.microsoft.com/office/media/hub-tiles/Office-ManageUpdates-400x140.svg" alt="A computer with a download symbol" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -97,7 +97,7 @@ description: Manage Office 365
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img src="https://docs.microsoft.com/en-us/office/media/hub-tiles/Office365-Powershell-400x140.svg" alt="PowerShell logo over a book symbol" />
+                                                        <img src="https://docs.microsoft.com/office/media/hub-tiles/Office365-Powershell-400x140.svg" alt="PowerShell logo over a book symbol" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
