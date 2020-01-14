@@ -81,15 +81,15 @@ The following example shows how to create a new visual to track new Yammer users
 
     ![Select Yammer checkbox](../media/82e99730-0de9-42da-928a-76aab0c3e609.png)
   
-12. Just below the list of visualizations, click the **Format** icon. ![Format icon in Power BI Visualizaions](../media/ee0602f3-3df5-4930-b862-db1d90ae4ae2.png).
+12. Just below the list of visualizations, click the **Format** icon ![Format icon in Power BI Visualizaions](../media/ee0602f3-3df5-4930-b862-db1d90ae4ae2.png).
 
 13. Expand Title and change the **Title Text** value to **First-Time Yammer Users by Month**.
     
 14. Change the **Text Size** value to **12**.
     
-15.	Change the title of the new page by editing the name of the page on bottom right
+15.	Change the title of the new page by editing the name of the page on bottom right.
 
-16.	 Save out the report by Clicking on **Reading View** on top and then **Save**
+16.	 Save out the report by Clicking on **Reading View** on top and then **Save**.
     
 ## Customizing the reports in Power BI Desktop
 
@@ -124,13 +124,13 @@ You can start by connecting directly to the ODATA reporting APIs from Office 365
 
 You can also use the Power BI template file that corresponds to the Microsoft 365 usage analytics reports as a starting point to connect to the data. The advantage of using the pbit file is that it has the connection string already established. You can also take advantage of all the custom measures that are created, on top of the data that the base schema returns and build on it further.
   
-You can download the Power BI template file from the Microsoft download center from the [Download center](https://download.microsoft.com/download/1/7/0/170A5A35-9E0D-478D-828C-4CA2D9A9F092/Microsoft%20365%20Usage%20Analytics.pbit). After you have downloaded the Power BI template file follow these steps to get started:
+You can download the Power BI template file from the Microsoft download center from the [Download center](https://download.microsoft.com/download/7/8/2/782ba8a7-8d89-4958-a315-dab04c3b620c/Microsoft%20365%20Usage%20Analytics.pbit). After you have downloaded the Power BI template file follow these steps to get started:
   
 1. Open the pbit file.
     
 2. Enter your tenant id value in the dialog.
     
-    ![Enter your tenant ID to open the pbit file](../media/6b700a33-1701-404e-8f46-ddb1d6c8d9ca.png)
+    ![Enter your tenant ID to open the pbit file](../media/071ed0bf-8b9d-49c6-81fc-fd4c6cc85bd3.png)
   
 3. Enter your admin credentials to authenticate to Office 365 when prompted.
     
