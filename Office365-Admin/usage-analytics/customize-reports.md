@@ -103,7 +103,7 @@ You can start by connecting directly to the ODATA reporting APIs from Office 365
     
 2. In the URL window enter "https://<i></i>reports.office.com/pbi/v1.0/\<tenantid\>"
     
-    **NOTE**
+    **NOTE:**
     The reporting APIs are in preview and are subject to change until they go into production. 
   
     ![OData feed URL for Power BI desktop](../media/c0ef967e-a454-4eba-bc8e-61e113170053.png)
