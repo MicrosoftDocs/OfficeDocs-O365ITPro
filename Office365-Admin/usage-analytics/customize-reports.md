@@ -31,73 +31,65 @@ The following two examples show how to modify an existing visual and how to crea
   
 ### Modify an existing visual
 
-This example shows how to modify the **Adoption overview** report. 
+This example shows how to modify the **Activation** tab within the **Activation/Licensing** report. 
   
-1. At the top of the dashboard, in the **Understanding adoption** area, point to the Adoption overview card, and then click it. 
+1. Within the **Activation/Licensing** report, click on the **Activation** tab.
     
-2. In the top navigation, click **Edit report**.
+2. Enter the edit mode by clicking the **Edit** button on the top through the ![The more page button in Power BI](../media/d8da3c19-3f2d-4bf6-811e-faa804f74770.png) button. 
     
-    ![Click Edit report on the top right navigation](../media/a1ac1826-7f3a-420b-9b25-aeb84e3eaf27.png)
+    ![Click Edit report on the top right navigation](../media/e2c16663-1fbd-4d7f-887c-0cbb891d3b3d.png)
   
-3. At the top right, click **Duplicate this page**.
+3. On the top right, click **Duplicate this page**.
     
-    ![Choose Duplicate this page](../media/0a9b6ff7-7f15-4764-ae71-7c9adaf7ecbe.png)
+    ![Choose Duplicate this page](../media/b2d18dcd-6b82-4ce7-ab79-1b24e3721309.png)
   
-4. At the top right of the report, click the title bar of the **Adoption overview** graph. 
+4. In the bottom right, click on any of the bar charts showing the count of users activating based on the OS such as Android, iOS, Mac, etc.
     
-5. In the **Visualizations** area to the right, for the **FirstTimeUsers** column, click the **X** to the right to remove it. 
-    
-6. At the top right of the **Adoption overview** visual, click the Pin visual icon and in the dialog, click **Pin** \> **Existing dashboard**.
-    
-7. At the top of the browser, in the breadcrumb, click the **Office 365 Adoption** link to return to the dashboard. 
-    
-8. If prompted to save changes to the report, click **Don't save**.
-    
-9. Scroll to the bottom of the dashboard to locate the visual you just saved.
-    
-10. Drag it to the top of the dashboard.
-    
-11. You can optionally delete the original **Adoption overview** card, by clicking the ellipsis on the top right of the card, and then choosing **Delete**.
+5. In the **Visualizations** area to the right, in order to remove **Mac Count** from the visual, click on the **X** next to it.
+
+    ![Remove Mac Count](../media/ce3d8358-df57-4f64-bd25-ac5be7fc8713.png)    
     
 ### Create a new visual
 
 The following example shows how to create a new visual to track new Yammer users on monthly basis.
   
-1. In the **Communication** area of the dashboard, click the **Yammer - Any Active Users** card and in the top navigation click **Edit report**.
+1. Go to the **Product Usage** report using the left nav and click on **Yammer** tab.
     
-2. At the bottom, click the **new page** icon ![The add page button in Power BI](../media/d3b8c117-17d4-4f53-b078-8fefc2155b24.png) to create a new page. 
+2. Switch to edit mode by clicking on ![The more page button in Power BI](../media/d8da3c19-3f2d-4bf6-811e-faa804f74770.png) and **Edit**. 
     
-3. In the **Visualizations** area to the right, click the **Stacked column chart** (top row, second from left). 
-    
-    ![Choose Stacked bar chart in Visualizations in Power BI](../media/c87cc597-a615-4b92-b20f-8bb355eb741d.png)
+3. At the bottom of the page, click on ![The add page button in Power BI](../media/d3b8c117-17d4-4f53-b078-8fefc2155b24.png) to create a new page.
   
-4. Click the bottom right of that visualization and drag to make it larger.
+4. In the **Visualizations** area to the right, click the **Stacked bar chart** (top row, first from left).
+
+    ![Select Bar Chart](../media/214c3fed-6eae-43e6-83fb-708a2d74406e.png)
     
-5. In the **Fields** area to the right, expand the **Calendar** table. 
+5. Click the bottom right of that visualization and drag to make it larger.
+
+6. In the **Fields** area to the right, expand the **Calendar** table.
+
+7. Drag **MonthName** to the fields area, directly below the **Axis** heading in the **Visualizations** area.
+ 
+    ![Drag Month Name](../media/bff99987-8c4b-4618-89fd-47df557b0ed7.png)
     
-6. Drag **MonthName** to the fields area, directly below the **Axis** heading in the **Visualizations** area. 
-    
-7. In the **Fields** area to the right, expand the **TenantProductUsage** table. 
-    
-8. Drag **FirstTimeUsers** to the fields area, directly below the **Value** heading. 
-    
-    ![Screenshot that shows the customized visualizations values](../media/bcc3599e-ee9e-4ac6-968a-5a7858b4a4f0.png)
+8. In the **Fields** area to the right, expand the **TenantProductUsage** table.
+
+9. Drag **FirstTimeUsers** to the fields area, directly below the **Value** heading.
+
+10. Drag **Product** to the **Filters** area, directly below the **Visual level filters** heading.
+
+11. In the **Filter Type** area that appears, select the **Yammer** check box.
+
+    ![Select Yammer checkbox](../media/82e99730-0de9-42da-928a-76aab0c3e609.png)
   
-9. Drag **Product** to the **Filters** area, directly below the **Visual level filters** heading. 
+12. Just below the list of visualizations, click the **Format** icon. ![Format icon in Power BI Visualizaions](../media/ee0602f3-3df5-4930-b862-db1d90ae4ae2.png).
+
+13. Expand Title and change the **Title Text** value to **First-Time Yammer Users by Month**.
     
-10. In the **Filter Type** area that appears, select the **Yammer** check box. 
+14. Change the **Text Size** value to **12**.
     
-11. Just below the list of visualizations, click the **Format** icon. ![Format icon in Power BI Visualizaions](../media/ee0602f3-3df5-4930-b862-db1d90ae4ae2.png)
-  
-12. Expand Title and change the **Title Text** value to **First-Time Yammer Users by Month**.
-    
-13. Change the **Text Size** value to **12**.
-    
-14. At the top right of the visual, click the Pin visual icon and in the dialog, click **Pin** \> **Existing dashboard**.
-    
-15. At the top of the browser, in the breadcrumb, click the **Office 365 Adoption** link to return to the dashboard. 
-    
-16. Scroll to the bottom of the dashboard to locate the visual you just saved.
+15.	Change the title of the new page by editing the name of the page on bottom right
+
+16.	 Save out the report by Clicking on **Reading View** on top and then **Save**
     
 ## Customizing the reports in Power BI Desktop
 
