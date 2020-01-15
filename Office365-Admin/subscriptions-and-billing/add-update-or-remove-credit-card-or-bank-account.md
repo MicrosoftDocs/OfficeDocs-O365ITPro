@@ -41,16 +41,15 @@ You can only manage payment methods that you've added.
 1. In the admin center, go to the **Billing** > **Bills & payments** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.
 2. Select **Add a payment method**.
 3. On the **Payment methods** page, pick a payment method from the drop-down menu.
-4. Enter the information for the new card or bank account, then select **Save**.
+4. Enter the information for the new card or bank account, then select **Add**.
 
 ## Update an existing payment method
 
 You can't change the number on an existing card or bank account. If the card or bank account number has changed, add it as a new payment method. Next, pick it as the payment option for your subscription, then remove the existing card or bank account. You must use a card issued from the same country as your tenant.
 
 1. In the admin center, go to the **Billing** > **Bills & payments** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.
-2. On the **Payment methods** page, pick the card or bank account to update.
-3. To change the card or bank account information, select **Edit payment details**.
-4. Update your payment method information (name on the card or bank account, billing address, phone number, or expiration date), then select **Save** > **Done**.
+2. On the **Payment methods** page, pick the card or bank account to update, then select **Edit**.
+3. Update your payment method information (name on the card or bank account, billing address, phone number, or expiration date), then select **Save**.
 
 ## Change a payment method
 
@@ -81,8 +80,8 @@ You can only remove a credit or debit card or bank account from your list of pay
 If your payment method isn't associated with any subscriptions, you can immediately delete it.
 
 1. In the admin center, go to the **Billing** > **Bills & payments** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.
-2. Select the card or bank account to delete.
-3. At the bottom of the **Payment method details** pane, select **Delete**.
+2. Hover over the card or bank account, then select the delete icon.
+3. At the bottom of the **Delete payment method** pane, select **Delete**.
 
 ### Add an alternate payment method used to pay for subscriptions
 
