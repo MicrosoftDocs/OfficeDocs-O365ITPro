@@ -82,7 +82,7 @@ After you set up multi-factor authentication for your organization, your users w
     > To exclude users from a policy, select **specific users excluded** > **Select excluded users**, select the users from the list, and then choose **Select**.
     
     > [!NOTE]
-    > As part of a secure-by-default model for authentication, we’re removing the existing baseline protection policies from all tenants. This removal is targeted for completion at the end of February. The replacement for these baseline protection policies is security defaults. If you’ve been using baseline protection policies, you must plan to move to the new security defaults policy or to Conditional Access. If you haven’t used these policies, there is no action for you to take.
+    > As part of a secure-by-default model for authentication, we’re removing the existing baseline protection policies from all tenants. This removal is targeted for completion at the end of February 2020. The replacement for these baseline protection policies is security defaults. If you’ve been using baseline protection policies, you must plan to move to the new security defaults policy or to Conditional Access. If you haven’t used these policies, there is no action for you to take.
     
 ## Related articles
 
