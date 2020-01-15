@@ -28,7 +28,7 @@ If you're a user, you don't have the permissions to set your password to never e
    
 As an admin, you can make user passwords expire after a certain number of days, or set passwords to never expire. 
 > [!Tip]
-> By default, passwords are set to never expire. Current research strongly indicates that mandated password changes do more harm than good. They drive users to choose weaker passwords, re-use passwords, or update old passwords in ways that are easily guessed by hackers.  
+> By default, passwords are set to never expire. Current research strongly indicates that mandated password changes do more harm than good. They drive users to choose weaker passwords, re-use passwords, or update old passwords in ways that are easily guessed by hackers. If setting password to never expire its recommended to enable [multi-factor authentication](../security-and-compliance/set-up-multi-factor-authentication.md).
 
 > [!IMPORTANT]
 > Only [Office 365 global admins](../add-users/about-admin-roles.md) can perform these steps. 
