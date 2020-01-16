@@ -248,8 +248,7 @@ When migration completes, the IT admin gets a report of any file name conflicts.
 - "
 - *
 - :
-- <
-- >
+- < >
 - ?
 - /
 - \
@@ -258,8 +257,6 @@ When migration completes, the IT admin gets a report of any file name conflicts.
 You won't be able to take your network to Native Mode for Microsoft 365 until you resolve any files left behind.
 
 ### Does every Yammer user need a SharePoint license
-
-MADHURI TO FOLLOW UP
 
 No. Only one person in your organization needs a SharePoint license.
 
