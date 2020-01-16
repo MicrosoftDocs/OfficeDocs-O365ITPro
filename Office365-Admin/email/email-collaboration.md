@@ -5,13 +5,6 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: overview
-f1_keywords:
-- 'O365P_SCDistListAdmin'
-- 'O365P_SCCollabO365'
-- 'O365M_SCDistListAdmin'
-- 'O365M_SCCollabO365'
-- 'O365E_SCDistListAdmin'
-- 'O365E_SCCollabO365'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

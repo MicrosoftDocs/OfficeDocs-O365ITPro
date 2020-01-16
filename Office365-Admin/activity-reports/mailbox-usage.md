@@ -5,10 +5,6 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365M_ReportsMailboxStorage
-O365P_ReportsMailboxStorage'
-- 'O365E_ReportsMailboxStorage'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

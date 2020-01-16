@@ -5,9 +5,6 @@ author: Sirkkuw
 manager: scotv
 audience: Admin
 ms.topic: reference
-f1_keywords:
-- 'O365E_ReportsGroups
-O365M_ReportsGroups'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

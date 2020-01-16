@@ -5,11 +5,6 @@ author: Sirkkuw
 manager: scotv
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_AdminOfficeAddins'
-- 'O365M_AdminOfficeAddins'
-- 'O365E_AdminOfficeAddins'
-- 'AdminOfficeAddins'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

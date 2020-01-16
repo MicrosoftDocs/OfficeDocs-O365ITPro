@@ -5,16 +5,6 @@ author: twernermsft
 manager: scotv
 audience: Admin
 ms.topic: overview
-f1_keywords:
-- 'O365P_GSO365'
-- 'O365M_UserAccess'
-- 'O365M_SetupInstallSoftware'
-- 'O365M_GSO365'
-- 'O365M_GetStarted'
-- 'O365E_UserAccess'
-- 'O365E_SetupInstallSoftware'
-- 'O365E_GSO365'
-- 'O365E_GetStarted'
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: 

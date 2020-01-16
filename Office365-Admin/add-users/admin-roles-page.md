@@ -5,10 +5,6 @@ author: kwekua
 manager: svidican
 audience: Admin
 ms.topic: overview
-f1_keywords:
-- 'O365P_AssignAdminRoles'
-- 'O365M_AssignAdminRoles'
-- 'O365E_AssignAdminRoles'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

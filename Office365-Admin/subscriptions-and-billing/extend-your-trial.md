@@ -5,11 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_ExtendTrial'
-- 'O365M_ExtendTrial'
-- 'O365E_ExtendTrial'
-- '510488'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

@@ -5,10 +5,6 @@ author: twernermsft
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_CustomHelpDesk'
-- 'O365M_CustomHelpDesk'
-- 'O365E_CustomHelpDesk'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

@@ -5,10 +5,6 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: reference
-f1_keywords:
-- 'O365P_RecoPasswordSettings'
-- 'O365M_RecoPasswordSettings'
-- 'O365E_RecoPasswordSettings'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection:

@@ -6,8 +6,6 @@ manager: mnirkhe
 ms.date: 2/14/2018
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365E_BecomeAdmin_FL544797'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

@@ -5,11 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365M_AddStorageSpace'
-- 'O365E_AddStorageSpace'
-- 'fwlink 799564'
-- 'campaign ID O365_Portal_Comm_Catalog_ExtraStorage_LearnMore'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

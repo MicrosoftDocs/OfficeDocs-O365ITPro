@@ -5,10 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_WhatSubsIgot'
-- 'O365M_WhatSubsIgot'
-- 'O365E_WhatSubsIgot'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
