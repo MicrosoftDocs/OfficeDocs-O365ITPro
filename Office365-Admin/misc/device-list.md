@@ -5,13 +5,6 @@ author: Sirkkuw
 manager: scotv
 audience: Admin
 ms.topic: overview
-f1_keywords:
-- 'ZTDUploadCSV'
-- 'O365E_ZTDUploadCSV'
-- 'O365E_DeployWindowsPrep'
-- 'DeployWindowsPrep'
-- 'BCS365_ZTDUploadCSV'
-- 'BCS365_DeployWindowsPrep'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

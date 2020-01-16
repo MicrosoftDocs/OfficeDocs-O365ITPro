@@ -5,9 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_1stInfoRqrd'
-- 'O365P_1stDNSHoster'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

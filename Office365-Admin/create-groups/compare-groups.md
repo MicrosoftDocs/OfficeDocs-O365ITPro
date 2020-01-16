@@ -6,13 +6,6 @@ author: MikePlumleyMSFT
 manager: pamgreen
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_TypesOfGroups'
-- 'O365P_ESTypesOfGroups'
-- 'O365M_TypesOfGroups'
-- 'O365M_ESTypesOfGroups'
-- 'O365E_TypesOfGroups'
-- 'O365E_ESTypesOfGroups'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

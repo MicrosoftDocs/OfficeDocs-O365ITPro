@@ -5,13 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_SwitchPlans'
-- 'O365P_DomainsMgt_ChangeSubscriptionReAddDomain'
-- 'O365M_SwitchPlans'
-- 'O365M_DomainsMgt_ChangeSubscriptionReAddDomain'
-- 'O365E_SwitchPlans'
-- 'O365E_DomainsMgt_ChangeSubscriptionReAddDomain'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

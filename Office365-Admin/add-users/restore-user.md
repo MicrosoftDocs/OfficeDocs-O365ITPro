@@ -5,9 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365M_DeleteRestoreUsers'
-- 'O365E_DeleteRestoreUsers'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

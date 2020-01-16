@@ -5,12 +5,6 @@ author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'TADNSbasics'
-- 'O365P_DomainsSetup_WhyNeedDNSRecs'
-- 'O365P_DNSMgrUI_AboutDNS'
-- 'O365M_DomainsSetup_WhyNeedDNSRecs'
-- 'O365E_DomainsSetup_WhyNeedDNSRecs'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

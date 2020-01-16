@@ -5,10 +5,6 @@ author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_Remove_RemoveDomain'
-- 'O365M_Setup_RemoveDomain'
-- 'O365E_Setup_RemoveDomain'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

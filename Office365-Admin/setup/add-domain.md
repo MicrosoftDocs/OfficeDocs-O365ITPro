@@ -5,32 +5,6 @@ author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_SupportHm_AddDomain'
-- 'O365P_DomainVerify_TXTRecordNoEffect'
-- 'O365P_DomainsWizard_NoNSRedirect'
-- 'O365P_DomainsVerify_RecordExplain'
-- 'O365P_DomainsSetup_ExplainEmailUpdate localOnly'
-- 'O365P_DomainsMainUI_AddDomain'
-- 'O365P_DomainsMain_NoRedelegation'
-- 'O365P_DomainsMain_AddDomain'
-- 'O365P_1stExplainEmailUpdate'
-- 'O365M_DomainVerify_TXTRecordNoEffect'
-- 'O365M_DomainsWizConfig_ConfigDNS'
-- 'O365M_DomainsWizAdd_SpecServices'
-- 'O365M_DomainsWizAdd_ConfigDNS'
-- 'O365M_DomainsVerify_RecordExplain'
-- 'O365M_DomainsSetup_ExplainEmailUpdate'
-- 'O365M_DomainsMain_SetUpDomain'
-- 'O365M_DomainsMain_AddDomain'
-- 'O365M_DomainsDNSSettings_ConfigDNS'
-- 'O365E_DomainVerify_TXTRecordNoEffect'
-- 'O365E_DomainsWizConfig_ConfigDNS'
-- 'O365E_DomainsWizAdd_SpecServices'
-- 'O365E_DomainsWizAdd_ConfigDNS'
-- 'O365E_DomainsMain_SetUpDomain'
-- 'O365E_DomainsMain_AddDomain'
-- 'O365E_DomainsDNSSettings_ConfigDNS'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

@@ -8,10 +8,6 @@ ms.topic: get-started-article
 ms.collection:
 - Adm_O365
 - Adm_NonTOC
-f1_keywords:
-- 'O365P_DNSMgr_WhatIsExtraCNAMERec'
-- 'O365M_DNSMgr_WhatIsExtraCNAMERec'
-- 'O365E_DNSMgr_WhatIsExtraCNAMERec'
 ms.service: o365-administration
 localization_priority: Priority
 search.appverid:

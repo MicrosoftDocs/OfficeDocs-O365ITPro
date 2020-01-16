@@ -5,21 +5,6 @@ author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365M_Troubleshoot_CreateDNSRecords'
-- 'O365M_DomainWizard_DNS_StepByStep2'
-- 'O365M_DomainWizard_DNS_StepByStep1'
-- 'O365M_DomainWizard_DNS_StepByStep'
-- 'O365M_DomainsDNSSettings_CreateDNSRecords'
-- 'O365M_DNSMgr_CustomDNS'
-- 'O365M_ConfigWiz_Step1_CreateDNS'
-- 'O365E_Troubleshoot_CreateDNSRecords'
-- 'O365E_DomainWizard_DNS_StepByStep2'
-- 'O365E_DomainWizard_DNS_StepByStep1'
-- 'O365E_DomainWizard_DNS_StepByStep'
-- 'O365E_DomainsDNSSettings_CreateDNSRecords'
-- 'O365E_DNSMgr_CustomDNS'
-- 'O365E_ConfigWiz_Step1_CreateDNS'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

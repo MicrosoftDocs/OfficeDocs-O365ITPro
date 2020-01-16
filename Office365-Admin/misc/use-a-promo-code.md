@@ -5,10 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_PromoCodes'
-- 'O365M_PromoCodes'
-- 'O365E_PromoCodes'
+
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

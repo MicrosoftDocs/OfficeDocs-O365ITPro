@@ -5,17 +5,6 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_SCDeleteUserTemp'
-- 'O365P_SCDeleteUserBP'
-- 'O365P_SCBlockedUsers'
-- 'O365M_SCDeleteUserTemp'
-- 'O365M_SCDeleteUserBP'
-- 'O365M_SCBlockedUsers'
-- 'O365E_SCDeleteUserTemp'
-- 'O365E_SCDeleteUserBP'
-- 'O365E_SCBlockedUsers'
-- 'O365E_AdminODSettsSignOut'
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: 

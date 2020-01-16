@@ -5,10 +5,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_GSWViewBill'
-- 'O365M_GSWViewBill'
-- 'O365E_GSWViewBill'
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: 

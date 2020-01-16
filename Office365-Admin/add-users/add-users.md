@@ -5,16 +5,6 @@ author: Sirkkuw
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_GSWAddUsers'
-- 'O365P_FAQUsers'
-- 'O365M_GSWAddUsers'
-- 'O365M_FAQUsers'
-- 'O365M_AddUsersToDomain_UpdateUsers'
-- 'O365E_GSWAddUsers'
-- 'O365E_FAQUsers'
-- 'O365E_AddUsersToDomain_UpdateUsers'
-- 'FAQUsers'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

@@ -5,15 +5,6 @@ author: Sirkkuw
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_mdmsetupwhatissg'
-- 'O365P_ESSecurityGroupSPO'
-- 'O365M_mdmsetupwhatissg'
-- 'O365M_ESSecurityGroupSPO'
-- 'O365M_CreateSecurityGroup'
-- 'O365E_mdmsetupwhatissg'
-- 'O365E_ESSecurityGroupSPO'
-- 'O365E_CreateSecurityGroup'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

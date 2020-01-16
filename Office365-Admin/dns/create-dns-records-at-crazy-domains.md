@@ -5,10 +5,6 @@ author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_DOM_Crazy'
-- 'O365M_DOM_Crazy'
-- 'O365E_DOM_Crazy'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 

@@ -5,17 +5,8 @@ author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_ChgContactPreferences'
-- 'O365M_ChgContactPreferences'
-- 'O365E_ChgContactPreferences'
-- 'ChgContactPreferences'
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: 
-- M365-subscription-management 
-- Adm_O365
-- Adm_TOC
 search.appverid:
 - BCS160
 - MET150

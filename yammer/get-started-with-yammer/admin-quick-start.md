@@ -6,8 +6,6 @@ manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365E_YammerActivation_FL279020'
 ms.service: yammer
 localization_priority: Normal
 ms.custom: Adm_Yammer
