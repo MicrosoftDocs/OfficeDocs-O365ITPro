@@ -245,8 +245,9 @@ When files are moved to the SharePoint document library:
 ### How does Yammer in Native Mode handle file name conflicts?
 
 When migration completes, the IT admin gets a report of any file name conflicts. Please update the file names and make sure there are no file names with the following invalid characters before running the Tool again:
+
 - "
-- *
+- **
 - :
 - < >
 - ?
