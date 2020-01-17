@@ -3,7 +3,7 @@ title: "Overview of eDiscovery in Yammer"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/30/2019
+ms.date: 01/17/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -14,7 +14,6 @@ search.appverid:
 - YAE150
 ms.assetid: a9a25f87-e643-41ce-9630-b74d10e40b1a
 description: An overview about eDiscovery in Yammer.
-ROBOTS: NOINDEX, NOFOLLOW 
 ---
 
 # Overview of eDiscovery in Yammer networks

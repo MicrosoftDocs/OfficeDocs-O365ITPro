@@ -203,7 +203,7 @@ Whatever path you choose, we recommend you communicate clearly to the users in y
 
 ### Why aren't external participants in individual conversations supported in Native Mode?
 
-Yammer currently allows users to add external participants to individual threads. This feature is not currently compatible with the Azure B2B guest model, and so won't be supported in Native Mode networks. This feature is not available for Yammer Enterprise networks that are in Native Mode or the EU Geo ADD LINK HERE.
+Yammer currently allows users to add external participants to individual threads. This feature is not currently compatible with the Azure B2B guest model, and so won't be supported in Native Mode networks. This feature is not available for Yammer Enterprise networks that are in Native Mode or the [EU Geo](https://go.microsoft.com/fwlink/?linkid=2107357).
 
 ## Network guests
 
