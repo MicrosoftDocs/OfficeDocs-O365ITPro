@@ -22,9 +22,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 Native Mode has the following requirements:
 
-- There can only be one Yammer network on the tenant.
-
-- Office 365 identity must be enforced on the Yammer network.
+- There can only be [one Yammer network on the tenant](consolidate-multiple-yammer-networks.md).
 
 - All domains on the tenant are associated with the Yammer network, and there are no domains on the Yammer network that are not on the tenant.
 
