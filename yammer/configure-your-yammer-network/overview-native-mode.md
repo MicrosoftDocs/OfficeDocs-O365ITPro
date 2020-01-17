@@ -3,7 +3,7 @@ title: "Overview of Native Mode for Microsoft 365"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/20/2019
+ms.date: 01/17/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer

@@ -3,7 +3,7 @@ title: "Overview of eDiscovery in Yammer"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/30/2019
+ms.date: 01/17/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -14,14 +14,13 @@ search.appverid:
 - YAE150
 ms.assetid: a9a25f87-e643-41ce-9630-b74d10e40b1a
 description: An overview about eDiscovery in Yammer.
-ROBOTS: NOINDEX, NOFOLLOW 
 ---
 
 # Overview of eDiscovery in Yammer networks
 
 Yammer now supports eDiscovery and will soon start supporting Advanced eDiscovery within the Microsoft Security and Compliance Center.
 
-To use this functionality, your Yammer network will need to be in Native Mode. If your network was provisioned after January X, 2020, you are already in Native Mode. If your network was provisioned *before* January X, 2020, you will need to follow the steps in the [Native Mode Alignment Tool](../configure-your-yammer-network/overview-native-mode.md).
+To use this functionality, your Yammer network will need to be in Native Mode. If your network was provisioned after January 9th, 2020, you are already in Native Mode. If your network was provisioned *before* January 9th, 2020, you will need to follow the steps in the [Native Mode Alignment Tool](../configure-your-yammer-network/overview-native-mode.md).
 
 You can learn more about eDiscovery in the [Microsoft Security and Compliance Center](https://docs.microsoft.com/microsoft-365/) and [Advanced eDiscovery](advanced-ediscovery.md).
 
