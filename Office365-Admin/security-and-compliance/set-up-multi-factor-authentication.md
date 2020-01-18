@@ -18,19 +18,50 @@ search.appverid:
 - BEA160
 - GEA150
 ms.assetid: 8f0454b2-f51a-4d9c-bcde-2c48e41621c6
-description: "Learn how to set up multi-factor authentication for Office 365 users and manage the user settings. "
+description: "Learn how to use security defaults to set up multi-factor authentication for Office 365 users."
 monikerRange: 'o365-worldwide'
 ---
 
 # Set up multi-factor authentication
   
-This article describes how to set up multi-factor authentication (MFA) for Office 365 users. For more information about MFA, see [How Azure multi-factor authentication works](https://go.microsoft.com/fwlink/p/?LinkId=627437).
-  
-You get a free version of Azure multi-factor authentication as part of your Office 365 for business subscription. For a list of features included in your version of Office 365, see [How to get Azure Multi-Factor Authentication](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-versions-plans).
+Every new Office 365 for business or Microsoft 365 Business subscription will automatically have security defaults turned on. This means that every user will have to set up multi-factor authentication (MFA) and install the Authenticator app on their mobile device. For more information, see [Set up 2-step verification for Office 365](https://support.office.com/article/ace1d096-61e5-449b-a875-58eb3d74de14).  
+
+The following nine administrator roles will be required to perform additional authentication every time they sign in:
+- Global administrator
+- SharePoint administrator
+- Exchange administrator
+- Conditional Access administrator
+- Security administrator
+- Helpdesk administrator or password administrator
+- Billing administrator
+- User administrator
+- Authentication administrator
+All other users will be asked to perform additional authentication when needed. For more information, see [What are security defaults?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
 
 > [!NOTE]
 > You must be an Office 365 global admin to set up or modify multi-factor authentication. <br><br>
 > If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
+If you have previously set up MFA with baseline policies, [you must turn them off and turn on security defaults](#move-from-baseline-policies-to-security-defaults). However, if you have Microsoft 365 Business or your subscription includes [Azure Active Directory Premium 1, or Azure Active Directory Premium 2](https://azure.microsoft.com/pricing/details/active-directory/), you can also set up [conditional access](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) policies. To use conditonal access policies, you need to make sure [modern authentication is enabled](#enable-multi-factor-authentication-for-your-organization).
+
+## Manage security defaults
+
+1. Sign in to [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822) with your Global admin credentials.
+2. Go to [Azure Active Directory Properties](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties).
+
+2. On the bottom of the page, choose **Manage Security defaults**.
+
+## Move from baseline policies to security defaults
+
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select **Setup**.
+
+2. Next to **Sign-in and security**, under **Make sign-in more secure**, select **View**.
+
+3. Under **Make sign-in more secure**, select **Manage**. 
+
+4. On the **Azure portal Conditional Access - Policies** page,  choose each Baseline policy that is **On**, and set them to **Off**.
+5. Go to [Azure Active Directory Properties](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties) page.
+6. On the bottom of the page, choose **Manage Security defaults**, and in the **Enable Security defaults** pane, set **Enable Security defaults** toggle to **Yes**. 
 
 ## Enable multi-factor authentication for your organization
 
@@ -45,42 +76,6 @@ All Office 2016 client applications support MFA through the use of the Active Di
 > [!IMPORTANT]
 > As of August of 2017, all new Office 365 tenants that include Skype for Business online and Exchange online have Modern Authentication enabled by default. Pre-existing tenants won't have a change in their default MA state. To check your MA status for Skype for Business online, you can use Skype for Business online PowerShell with Global Admin credentials. Run Get-CsOAuthConfiguration to check the output of -ClientADALAuthOverride. If -ClientADALAuthOverride is 'Allowed', your Modern Authentication is on.
 To check your MA status for Exchange Online, please visit [Enable modern authentication in Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
-In SharePoint online, by default, modern authentication is enabled.
-
-
-## Set up multi-factor authentication
-
-1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select **Setup**.
-
-2. Next to **Sign-in and security**, under **Make sign-in more secure**, select **View**.
-
-3. On the **Make sign-in more secure** page, select **Get started**.
-
-4. Select the **Require multi-factor authentication** and **Require users to register for multi-factor authentication and block access if risk is detected** check boxes.
-
-5. Under **Do you want to exclude anyone from these policies**, select any users that you want to exclude from the drop-down list box.
-
-6. Select **Create policy**. You will return to the **Make sign-in more secure** page, which will now say **Completed**. 
-
-After you set up multi-factor authentication for your organization, your users will be required to set up two-step verification on their devices. For more information, see [Set up 2-step verification for Office 365](https://support.office.com/article/ace1d096-61e5-449b-a875-58eb3d74de14).
-
-## Manage MFA settings 
-
-1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select **Setup**.
-
-2. Next to **Sign-in and security**, under **Make sign-in more secure**, select **View**.
-
-3. Under **Make sign-in more secure**, select **Manage**. 
-
-4. The **Azure portal Conditional Access - Policies** page will appear. To turn multi-factor authentication on or off:
-
-    1. Select **Baseline policy: End user protection (Preview)**, and turn the **Enable** toggle on or off.
-
-    2. Select **Baseline policy: Require MFA for admins (Preview)**, and turn the **Enable** toggle on or off.
-
-    > [!NOTE]
-    > To exclude users from a policy, select **specific users excluded** > **Select excluded users**, select the users from the list, and then choose **Select**.
-
 ## Related articles
 
 [Top 10 ways to secure Office 365 and Microsoft 365 Business plans](secure-your-business-data.md)

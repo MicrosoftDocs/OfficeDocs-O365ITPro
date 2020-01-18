@@ -3,7 +3,7 @@ title: "Customize your Yammer community"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/27/2019
+ms.date: 01/16/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -40,7 +40,7 @@ This customization experience is available for group admins in both the web and 
 3. From the file list, select **Take a Photo** or **Upload a Picture**.
 
    The file must be is 20 MBs or less and is either a .png, .jpeg, or a non-animated .gif.
- ![mobile](../media/yam-group-header-mobile-options.png)
+   ![yam-group](../media/yam-group-header-mobile.png)
 
 ## See also
 
