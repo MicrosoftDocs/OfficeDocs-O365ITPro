@@ -24,7 +24,7 @@ monikerRange: 'o365-worldwide'
 
 # Set up multi-factor authentication
   
-Every new Office 365 for business or Microsoft 365 Business tenants will automatically have security defaults turned on. This means that every user will have to set up multi-factor authentication (MFA) and install the Authenticator app on their mobile device. For more information, see [Set up 2-step verification for Office 365](https://support.office.com/article/ace1d096-61e5-449b-a875-58eb3d74de14).  
+Every new Office 365 for business or Microsoft 365 Business subscription will automatically have security defaults turned on. This means that every user will have to set up multi-factor authentication (MFA) and install the Authenticator app on their mobile device. For more information, see [Set up 2-step verification for Office 365](https://support.office.com/article/ace1d096-61e5-449b-a875-58eb3d74de14).  
 
 The following nine administrator roles will be required to perform additional authentication every time they sign in:
 - Global administrator
