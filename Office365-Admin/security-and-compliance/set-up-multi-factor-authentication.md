@@ -36,7 +36,7 @@ The following nine administrator roles will be required to perform additional au
 - Billing administrator
 - User administrator
 - Authentication administrator
-All other users will be asked to perform additional authentication when needed. For more information, see [What are security defaults?](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
+All other users will be asked to perform additional authentication when needed. For more information, see [What are security defaults?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
 
 > [!NOTE]
 > You must be an Office 365 global admin to set up or modify multi-factor authentication. <br><br>
