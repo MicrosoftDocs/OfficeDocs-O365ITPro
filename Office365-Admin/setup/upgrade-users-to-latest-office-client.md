@@ -24,7 +24,7 @@ description: "Learn how to upgrade your users to the latest Office client."
 
 ## Office 2010 reaches end-of-support
 
-Office 2010 will reach its end of support on October 13, 2020. When Office 2010 reaches its end of support on October 13, 2020, Microsoft will no longer provide the following:
+Office 2010 will reach its end of support on October 13, 2020. When Office 2010 reaches its end of support, Microsoft will no longer provide the following:
 
 - Technical support for issues
 
