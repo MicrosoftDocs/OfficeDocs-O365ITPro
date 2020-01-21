@@ -81,6 +81,8 @@ Yammer can offer eDiscovery to customers once all their Users, Groups, and Conte
 
 Below is some content you can use as-is or modify to meet your needs when you're ready to communicate upcoming changes to your organization. For example, this is how you might draft an email to your users:
 
+----------------EXAMPLE----------------
+
 *Hello NAME OF EMPLOYEE,*
 
 *We are getting our Yammer network ready to support required compliance and security policies for our organization.*
