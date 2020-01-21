@@ -97,7 +97,7 @@ We recommend if you have third-party add-ins, contact the manufacturer to see if
 
 - [From a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx)
 
-- [Office for Mac](https://support.office.com/article/eefa1199-5b58-43af-8a3d-b73dc1a8cae3.aspx)
+- [From a Mac](https://support.office.com/article/eefa1199-5b58-43af-8a3d-b73dc1a8cae3.aspx)
   
 ### Known issues trying to reinstall older versions of Office after an uninstall
 
