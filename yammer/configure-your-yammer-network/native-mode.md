@@ -3,7 +3,7 @@ title: "Prepare a Yammer network for Native Mode for Microsoft 365"
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 01/16/2020
+ms.date: 01/21/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -13,7 +13,6 @@ search.appverid:
 - MOE150
 - MET150
 description: "Learn the steps required to prepare your Yammer network for Native Mode for Microsoft 365."
-ROBOTS: NOINDEX, NOFOLLOW 
 ---
 
 # Configure your Yammer network for Native Mode for Microsoft 365
