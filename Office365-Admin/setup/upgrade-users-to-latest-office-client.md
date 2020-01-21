@@ -32,7 +32,7 @@ Office 2010 will reach its end of support on October 13, 2020. When Office 2010 
 
 - Security fixes for vulnerabilities that are discovered
 
-See [Office 2010 end of support roadmap](https://docs.microsoft.com/en-us/deployoffice/office-2010-end-support-roadmap) for more information.
+See [Office 2010 end of support roadmap](https://docs.microsoft.com/deployoffice/office-2010-end-support-roadmap) for more information.
 
  **Is this the right topic for you?**
   
@@ -95,15 +95,9 @@ We recommend if you have third-party add-ins, contact the manufacturer to see if
 
 ### Select the version of Office you want to uninstall
 
-- [Office 2013 (from a PC)](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx)
+- [From a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx)
 
 - [Office for Mac](https://support.office.com/article/eefa1199-5b58-43af-8a3d-b73dc1a8cae3.aspx)
-
-- [Office 2010](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx#OfficeVerson=2010)
-
-- [Office 2007](https://support.microsoft.com/en-us/kb/928218)
-
-- [Office 2003](https://support.microsoft.com/en-us/kb/971179)
   
 ### Known issues trying to reinstall older versions of Office after an uninstall
 
