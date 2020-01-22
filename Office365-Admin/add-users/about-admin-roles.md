@@ -91,6 +91,7 @@ You'll probably only need to assign the following roles in your organization. (F
 |Cloud application admin     | Full access to enterprise applications and application registrations. No application proxy.     |
 |Cloud device admin     |    Enables, disables, and deletes devices and can read Windows 10 BitLocker keys.     |
 |Compliance admin     |    Manages regulatory requirements and eDiscovery cases, maintains data governance for locations, identities, and apps.     |
+|Compliance data admin     |    Keeps track of data, makes sure it's protected, gets insights into issues, and helps mitigate risk.     |
 |Conditional Access admin     |   Manages Azure Active Directory conditional access settings, but not Exchange ActiveSync conditional access policy.      |
 |Customer Lockbox access approver     |      Manages Customer Lockbox requests, can turn Customer Lockbox on or off.   |
 |Desktop Analytics admin     |   Can access and manage Desktop management tools and services.      |
