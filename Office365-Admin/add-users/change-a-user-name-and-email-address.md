@@ -243,7 +243,7 @@ Set-MsolUserPrincipalName -UserPrincipalName anne.wallace@contoso.onmicrosoft.co
 ```
 
 > [!TIP]
-> This changes the person's **userPrincipalName** attribute and has no bearing on their email address. It is best practice, however, to have the person's logon UPN match their primary SMTP address. 
+> This changes the person's **userPrincipalName** attribute and has no bearing on their MOERA email address. It is best practice, however, to have the person's logon UPN match their primary SMTP address. 
   
 To learn how to change someone's username in Active Directory, in Windows Server 2003 and earlier, see [Rename a user account](https://go.microsoft.com/fwlink/?LinkId=809091).
   
