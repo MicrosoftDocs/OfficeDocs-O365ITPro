@@ -48,8 +48,10 @@ We plan to continue updating the service to include more information not listed 
 
 ## See also
 
-[Advanced eDiscovery in Yammer networks](advanced-ediscovery.md)
+[FAQ: eDiscovery](/manage-security-and-compliance/FAQ-ediscovery.mc)
 
 [eDiscovery in Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery)
 
 [Overview of the advanced eDiscovery solution in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery)
+
+[Overview of Native Mode](configure-your-yammer-network/overview-native-mode.md)
