@@ -79,10 +79,8 @@ Tenant level aggregates will be available in all reports. **User-level details w
 
 To make the data that is collected for all reports anonymous, you have to be a global administrator. This will hide identifiable information such as user, group and site names in reports and in the template app .
   
-1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services &amp; add-ins</a> page.
+1. In the admin center, go to the **Settings** \> **Settings**, and under **Services** tab, choose **Reports**.
     
 2. Select **Reports**, and then choose to **Display anonymous identifiers**. This setting gets applied both to the usage reports as well as to the template app.
   
-3. Select **Save changes**.
-    
-
+3. Select **Save changes**.S
