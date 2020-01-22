@@ -33,7 +33,7 @@ If you are an admin and want to take over an unmanaged tenant created by a self-
 > [!NOTE]
 > If self-service is enabled in your tenant, users can subscribe to free services, such as Power BI, on their own. These steps assume that a self-service user subscription has created the unmanaged tenant you want to take over as admin. In the first step you create a user context in the unmanaged tenant, using Power BI to illustrate the admin takeover path.
 
-1. To sign up for Power BI, go to the [Power BI site](https://powerbi.com) and select **Start Free** > **Try Free**. 
+1. To sign up for Power BI, go to the [Power BI site](https://powerbi.com) and select **Start Free** > **Start free trial** (in Share with Power BI Pro box). 
 
 2. Sign up with a user account that uses the domain name of your organization (like `powerbiadmin@contoso.com`). If your account is already in use, sign in using your current password.
 
