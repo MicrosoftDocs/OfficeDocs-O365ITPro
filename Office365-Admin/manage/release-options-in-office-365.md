@@ -85,27 +85,19 @@ You can change how your organization receives Office 365 updates by following th
 > [!IMPORTANT]
 > It can take up to 24 hours for the below changes to take effect in Office 365. If you opt out of targeted release after enabling it, your users may lose access to features that haven't reached the scheduled release yet. 
   
-1. In the admin center, go to the **Settings** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2067339" target="_blank">Organization profile</a> page.
-  
-4. Next to **Release preferences**, select **Edit**.
-    
-5. To disable targeted release, select **Standard release**, then select **Next**, and say **Yes** to the confirmation. Skip to the last step. 
-    
-6. To enable targeted release for all users in your organization, select **Targeted release for everyone**, then select **Next**, and say **Yes** to the confirmation. Skip to the last step. 
-    
-7. To enable targeted release for some people in your organization, select **Targeted release for selected users**, then select **Next**, and say **Yes** to the confirmation. 
-    
-8. Select **Add people** to add users individually. Search for their names and select **+** to **Add**.
-    
-9. When you're done adding users, select **Save** and then **Close**.
+1. In the admin center, go to the **Settings** > **Setting**, and under the **Organization profile** tab, choose **Release preferences**.
 
-## To add users in bulk
-  
-1. Next to **Release preferences**, select **Actions** \> **+ Bulk add people for first release** under the **Standard release** heading. 
+5. To disable targeted release, select **Standard release**, then select **Save changes**. 
     
-2. Select **Browse** to select a file containing each person's email address. 
+6. To enable targeted release for all users in your organization, select **Targeted release for everyone**, then select **Save changes**. 
     
-3. Select **Next** and then **Close**.
+7. To enable targeted release for some people in your organization, select **Targeted release for selected users**, then select **Save changes**. 
+    
+8. Choose **Select users** to add users one at a time, or **Upload users** to add them in bulk.
+    
+9. When you're done adding users, select **Save changes**.
+
+
 
 ## Get the Targeted release version of Office
 
