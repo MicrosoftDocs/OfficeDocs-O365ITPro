@@ -1,7 +1,7 @@
 ---
 title: "Password policy recommendations for Office 365"
 f1.keywords:
-- NOCSH
+- CSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

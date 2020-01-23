@@ -2,7 +2,7 @@
 title: "Create an Office 365 group in the admin center"
 ms.reviewer: arvaradh
 f1.keywords:
-- NOCSH
+- CSH
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen

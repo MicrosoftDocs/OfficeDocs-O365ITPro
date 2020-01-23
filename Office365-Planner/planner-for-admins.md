@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Planner for admins"
 f1.keywords:
-- NOCSH
+- CSH
 ms.author: efrene
 author: efrene
 manager: pamgreen

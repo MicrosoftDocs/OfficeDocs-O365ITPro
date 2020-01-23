@@ -1,7 +1,7 @@
 ---
 title: "Add custom tiles to the app launcher"
 f1.keywords:
-- NOCSH
+- CSH
 ms.author: twerner
 author: twernermsft
 manager: scotv

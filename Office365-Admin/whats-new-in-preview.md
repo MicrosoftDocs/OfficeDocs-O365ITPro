@@ -1,7 +1,7 @@
 ---
 title: "What's new in the Microsoft 365 admin center?"
 f1.keywords:
-- NOCSH
+- CSH
 ms.author: pebaum
 author: pebaum
 manager: shohara

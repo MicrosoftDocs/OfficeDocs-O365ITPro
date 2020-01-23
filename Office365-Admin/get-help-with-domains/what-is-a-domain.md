@@ -1,7 +1,7 @@
 ---
 title: "What is a domain?"
 f1.keywords:
-- NOCSH
+- CSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

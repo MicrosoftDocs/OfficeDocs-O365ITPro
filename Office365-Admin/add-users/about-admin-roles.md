@@ -1,7 +1,7 @@
 ---
 title: "About admin roles in the Microsoft 365 admin center"
 f1.keywords:
-- NOCSH
+- CSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

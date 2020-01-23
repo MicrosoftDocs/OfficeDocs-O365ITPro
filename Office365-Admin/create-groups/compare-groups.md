@@ -2,7 +2,7 @@
 title: "Compare groups in Office 365"
 ms.reviewer: arvaradh
 f1.keywords:
-- NOCSH
+- CSH
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen

@@ -1,7 +1,7 @@
 ---
 title: "Enable Microsoft 365 usage analytics"
 f1.keywords:
-- NOCSH
+- CSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv

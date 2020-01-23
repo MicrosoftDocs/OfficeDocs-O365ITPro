@@ -1,7 +1,7 @@
 ---
 title: "Turning Integrated Apps on or off"
 f1.keywords:
-- NOCSH
+- CSH
 ms.author: kwekua
 author: kwekua
 manager: scotv
