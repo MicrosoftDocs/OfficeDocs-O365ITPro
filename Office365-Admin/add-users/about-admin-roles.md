@@ -1,8 +1,8 @@
 ---
 title: "About admin roles in the Microsoft 365 admin center"
-ms.author: kwekua
-author: kwekua
-manager: scotv
+ms.author: mikeplum
+author: MikePlumleyMSFT
+manager: pamgreen
 audience: Admin
 ms.topic: overview
 ms.service: o365-administration
