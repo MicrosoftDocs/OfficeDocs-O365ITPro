@@ -1,5 +1,7 @@
 ---
 title: "Limited functionality in Yammer in Internet Explorer 10 document mode"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

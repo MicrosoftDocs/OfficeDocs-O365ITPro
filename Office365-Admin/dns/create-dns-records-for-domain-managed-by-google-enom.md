@@ -1,5 +1,7 @@
 ---
 title: "Create DNS records when your domain is managed by Google (eNom)"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

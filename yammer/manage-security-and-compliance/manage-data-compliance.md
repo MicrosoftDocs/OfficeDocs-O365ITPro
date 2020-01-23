@@ -1,5 +1,7 @@
 ---
 title: "Manage Yammer data compliance"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

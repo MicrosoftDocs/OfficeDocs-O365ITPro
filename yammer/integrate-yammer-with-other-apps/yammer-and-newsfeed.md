@@ -1,5 +1,7 @@
 ---
 title: "SharePoint enterprise social experience - Yammer and Newsfeed"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

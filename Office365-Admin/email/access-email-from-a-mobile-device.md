@@ -1,5 +1,7 @@
 ---
 title: "Options for accessing email from your mobile device"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

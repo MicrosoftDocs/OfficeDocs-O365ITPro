@@ -1,5 +1,7 @@
 ---
 title: "Customize the Office 365 theme for your organization"
+f1.keywords:
+- NOCSH
 ms.author: twerner
 author: twernermsft
 manager: scotv

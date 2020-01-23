@@ -1,6 +1,8 @@
 ---
 title: Payment information for Trinidad and Tobago
 author: cmcatee-MSFT
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 manager: mnirkhe
 audience: Admin

@@ -1,5 +1,7 @@
 ---
 title: "Customize your network"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

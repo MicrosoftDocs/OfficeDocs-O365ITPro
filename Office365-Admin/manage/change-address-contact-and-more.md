@@ -1,5 +1,7 @@
 ---
 title: "Change your organization's address, technical contact, and more"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

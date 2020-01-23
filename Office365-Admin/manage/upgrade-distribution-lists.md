@@ -1,5 +1,7 @@
 ---
 title: "Upgrade distribution lists to Office 365 Groups in Outlook"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv

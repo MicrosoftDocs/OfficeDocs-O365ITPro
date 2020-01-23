@@ -1,6 +1,8 @@
 ---
 title: "Restore a deleted Office 365 Group"
 ms.reviewer: arvaradh
+f1.keywords:
+- NOCSH
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen

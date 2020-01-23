@@ -1,5 +1,7 @@
 ---
 title: "Change nameservers to set up Office 365 with any domain registrar"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

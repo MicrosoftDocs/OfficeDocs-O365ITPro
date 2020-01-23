@@ -1,5 +1,7 @@
 ---
 title: "Become the admin and purchase Office 365 for your organization"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

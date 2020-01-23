@@ -1,5 +1,7 @@
 ---
 title: Integrate your workflow in Kaizala using Microsoft Flow
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

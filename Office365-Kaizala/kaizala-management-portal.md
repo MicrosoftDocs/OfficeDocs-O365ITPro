@@ -1,5 +1,7 @@
 ---
 title: Kaizala management portal
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

@@ -1,5 +1,7 @@
 ---
 title: "Top 10 ways to secure Office 365 and Microsoft 365 Business plans"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: scotv

@@ -1,5 +1,7 @@
 ---
 title: "Overview of security and compliance in Yammer"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

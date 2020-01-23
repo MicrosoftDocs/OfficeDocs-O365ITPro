@@ -1,5 +1,7 @@
 ---
 title: "Quick help Types of users"
+f1.keywords:
+- NOCSH
 ms.author: twerner
 author: twernermsft
 manager: scotv

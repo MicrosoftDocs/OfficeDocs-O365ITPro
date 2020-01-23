@@ -1,5 +1,7 @@
 ---
 title: "Message center in Office 365"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv

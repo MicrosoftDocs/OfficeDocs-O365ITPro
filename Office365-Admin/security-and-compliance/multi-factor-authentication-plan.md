@@ -1,5 +1,7 @@
 ---
 title: "Plan for multi-factor authentication for Office 365 Deployments"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv

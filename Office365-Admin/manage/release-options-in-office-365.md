@@ -1,5 +1,7 @@
 ---
 title: "Set up the Standard or Targeted release options in Office 365"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv

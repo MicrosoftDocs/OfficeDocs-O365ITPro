@@ -1,5 +1,7 @@
 ---
 title: "Microsoft 365 usage analytics data model"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv

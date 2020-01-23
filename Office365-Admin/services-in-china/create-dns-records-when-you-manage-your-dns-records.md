@@ -1,5 +1,7 @@
 ---
 title: "Create DNS records for Office 365 when you manage your DNS records"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

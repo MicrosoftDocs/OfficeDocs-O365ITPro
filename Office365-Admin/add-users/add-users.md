@@ -1,5 +1,7 @@
 ---
 title: "Add users individually or in bulk to Office 365"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv

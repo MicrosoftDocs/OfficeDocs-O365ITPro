@@ -1,5 +1,7 @@
 ---
 title: Kaizala group policies
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

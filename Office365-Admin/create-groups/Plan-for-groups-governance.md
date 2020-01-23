@@ -1,6 +1,8 @@
 ---
 title: "Plan for Office 365 Groups governance"
 ms.reviewer: johasand
+f1.keywords:
+- NOCSH
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
