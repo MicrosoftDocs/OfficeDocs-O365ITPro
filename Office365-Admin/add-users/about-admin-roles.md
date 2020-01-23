@@ -91,6 +91,7 @@ You'll probably only need to assign the following roles in your organization. (F
 |Cloud application admin     | Full access to enterprise applications and application registrations. No application proxy.     |
 |Cloud device admin     |    Enables, disables, and deletes devices and can read Windows 10 BitLocker keys.     |
 |Compliance admin     |    Manages regulatory requirements and eDiscovery cases, maintains data governance for locations, identities, and apps.     |
+|Compliance data admin     |    Keeps track of data, makes sure it's protected, gets insights into issues, and helps mitigate risk.     |
 |Conditional Access admin     |   Manages Azure Active Directory conditional access settings, but not Exchange ActiveSync conditional access policy.      |
 |Customer Lockbox access approver     |      Manages Customer Lockbox requests, can turn Customer Lockbox on or off.   |
 |Desktop Analytics admin     |   Can access and manage Desktop management tools and services.      |
@@ -102,20 +103,25 @@ You'll probably only need to assign the following roles in your organization. (F
 |Groups admin   |Creates groups and manages all groups settings across admin centers.|
 |Guest inviter     |    Manages Azure Active Directory B2B guest user invitations.     |
 |Helpdesk admin     | Resets passwords and re-authenticates for all non-admins and some admin roles, manages service requests, and monitors service health.      |
+|Intune admin     | Full access to Intune, manages users and devices to associate policies, creates and manages groups.      |
 |Kaizala admin     |    Full access to all Kaizala management features and data, manages service requests.     |
 |License admin     |     Assigns and removes licenses from users and edits their usage location.    |
 |Message center privacy reader     |    Access to data privacy messages in Message center, gets email notifications.     |
 |Message center reader     | Reads and shares regular messages in Message center, gets weekly email digests, has read-only access to users, groups, domains, and subscriptions.     |
 |Office Apps admin    |   Manages cloud-based policies for Office and the What's New content that users see in their Office apps.   |
+|Power BI admin    |   Full access to Power Bl management tasks, manages service requests, and monitors service health.   |
 |Power platform admin     |    Full access to Microsoft Dynamics 365, PowerApps, data loss prevention policies, and Microsoft Flow.     |
 |Privileged role admin     |    Manages role assignments and all access control features of Privileged Identity Management.     |
 |Reports reader     |   Reads usage reporting data from the reports dashboard, PowerBI adoption content pack, sign-in reports, and Microsoft Graph reporting API.      |
 |Search admin     |    Full access to Microsoft Search, assigns the Search admin and Search editor roles, manages editorial content, monitors service health, and creates service requests.     |
 |Search editor     |    Can only create, edit, and delete content for Microsoft Search, like bookmarks, Q&A, and locations.     |
-|Service admin     |    Creates service requests for Azure, Microsoft 365, and Office 365 services, and monitors service health.     |
-|Skype for Business admin     | Full access to all Teams and Skype features, Skype user attributes, manages service requests, and monitors service health.      |
+|Security admin     |    Controls organization's security, manages security policies, reviews security analytics and reports, monitors the threat landscape.     |
+|Security operator     |    Investigates and responds to security alerts, manages features in Identity Protection center, monitors service health.     |
+|Security reader     |    Read-only access to security features, sign-in reports, and audit logs.     |
+|Service support admin     |    Creates service requests for Azure, Microsoft 365, and Office 365 services, and monitors service health.     |
 |SharePoint admin     |    Full access to SharePoint Online, manages Office 365 groups, manages service requests, and monitors service health.     |
-|Teams service admin     |    Full access to Teams & Skype admin center, manages Office 365 groups and service requests, and monitors service health.     |
+|Skype for Business admin     | Full access to all Teams and Skype features, Skype user attributes, manages service requests, and monitors service health.      |
+|Teams admin     |    Full access to Teams & Skype admin center, manages Office 365 groups and service requests, and monitors service health.     |
 |Teams communication manager     |    Assigns telephone numbers, creates and manages voice and meeting policies, and reads call analytics.     |
 |Teams communication support engineer     |    Reads call record details for all call participants to troubleshoot communication issues.     |
 |Teams communication support specialist     |    Reads user call details only for a specific user to troubleshoot communication issues.|
