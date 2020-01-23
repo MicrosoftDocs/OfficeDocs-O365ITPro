@@ -1,6 +1,8 @@
 ---
 title: Payment information for Saint Vincent and the Grenadines
 author: cmcatee-MSFT
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 manager: mnirkhe
 audience: Admin

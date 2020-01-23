@@ -1,5 +1,7 @@
 ---
 title: "Create DNS records at 123-reg.co.uk for Office 365"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

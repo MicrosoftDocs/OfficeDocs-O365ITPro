@@ -1,5 +1,7 @@
 ---
 title: "Get the latest version of Microsoft 365 usage analytics"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv

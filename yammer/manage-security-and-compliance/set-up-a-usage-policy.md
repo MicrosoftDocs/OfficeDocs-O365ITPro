@@ -1,5 +1,7 @@
 ---
 title: "Set up a Yammer usage policy"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

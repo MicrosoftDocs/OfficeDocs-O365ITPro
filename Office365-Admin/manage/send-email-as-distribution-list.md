@@ -1,5 +1,7 @@
 ---
 title: "Send email as a distribution list in Office 365"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

@@ -1,5 +1,7 @@
 ---
 title: About Kaizala administrator role in Office 365
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

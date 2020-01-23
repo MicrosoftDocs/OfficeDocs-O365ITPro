@@ -1,5 +1,7 @@
 ---
 title: "Add customized help desk info to the Office 365 help pane"
+f1.keywords:
+- CSH
 ms.author: twerner
 author: twernermsft
 manager: scotv

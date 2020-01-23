@@ -1,5 +1,7 @@
 ---
 title: "Convert a user mailbox to a shared mailbox"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

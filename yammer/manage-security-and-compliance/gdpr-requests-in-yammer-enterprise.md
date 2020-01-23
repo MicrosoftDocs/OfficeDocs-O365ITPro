@@ -1,5 +1,7 @@
 ---
 title: "Manage GDPR data subject requests in Yammer Enterprise"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

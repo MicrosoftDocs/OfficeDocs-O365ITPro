@@ -1,5 +1,7 @@
 ---
 title: Kaizala Office add-in
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

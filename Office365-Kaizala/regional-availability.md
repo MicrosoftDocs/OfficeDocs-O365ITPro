@@ -1,5 +1,7 @@
 ---
 title: Kaizala regional availability
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

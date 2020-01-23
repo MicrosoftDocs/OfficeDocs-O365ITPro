@@ -1,5 +1,7 @@
 ---
 title: "Customize your team site for file storage and sharing"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

@@ -1,6 +1,8 @@
 ---
 title: "Add or remove members from Office 365 groups"
 ms.reviewer: arvaradh
+f1.keywords:
+- NOCSH
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen

@@ -1,5 +1,7 @@
 ---
 title: "Remove users in your organization from MileIQ"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

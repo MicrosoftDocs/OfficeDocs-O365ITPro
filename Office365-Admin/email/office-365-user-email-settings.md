@@ -1,5 +1,7 @@
 ---
 title: "Office 365 user email settings"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

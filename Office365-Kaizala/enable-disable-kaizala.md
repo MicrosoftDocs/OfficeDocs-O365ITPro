@@ -1,5 +1,7 @@
 ---
 title: Enable or disable Kaizala Pro for your organization
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

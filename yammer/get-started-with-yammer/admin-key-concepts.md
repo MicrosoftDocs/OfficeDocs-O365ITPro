@@ -1,5 +1,7 @@
 ---
 title: "Yammer admin key concepts"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

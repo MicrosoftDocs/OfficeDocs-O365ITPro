@@ -1,5 +1,7 @@
 ---
 title: Invite users to install Kaizala through SMS
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

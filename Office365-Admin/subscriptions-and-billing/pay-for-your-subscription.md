@@ -1,5 +1,7 @@
 ---
 title: "Pay for your Office 365 for business subscription"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

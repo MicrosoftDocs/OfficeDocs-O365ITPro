@@ -1,5 +1,7 @@
 ---
 title: "Add another email alias for a user"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv
