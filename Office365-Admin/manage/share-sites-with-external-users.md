@@ -1,5 +1,7 @@
 ---
 title: "Share sites and files externally"
+f1.keywords:
+- NOCSH
 ms.author: twerner
 author: twernermsft
 manager: scotv

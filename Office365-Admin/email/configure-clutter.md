@@ -1,5 +1,7 @@
 ---
 title: "Configure Clutter for your organization"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

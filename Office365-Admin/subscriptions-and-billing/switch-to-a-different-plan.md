@@ -1,5 +1,7 @@
 ---
 title: "Switch to a different Office 365 for business plan"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

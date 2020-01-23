@@ -1,5 +1,7 @@
 ---
 title: "Tips to help boost your business"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

@@ -1,5 +1,7 @@
 ---
 title: Invite people to install Kaizala
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

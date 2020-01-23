@@ -1,5 +1,7 @@
 ---
 title: "Yammer and Office 365 Groups"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

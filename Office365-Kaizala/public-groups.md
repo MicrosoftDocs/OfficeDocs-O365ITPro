@@ -1,5 +1,7 @@
 ---
 title: Kaizala public groups
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

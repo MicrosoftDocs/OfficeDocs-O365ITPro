@@ -1,5 +1,7 @@
 ---
 title: Action reports in Kaizala
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

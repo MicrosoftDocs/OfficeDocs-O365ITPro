@@ -1,5 +1,7 @@
 ---
 title: "Perform an internal admin takeover in Office 365"
+f1.keywords:
+- CSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

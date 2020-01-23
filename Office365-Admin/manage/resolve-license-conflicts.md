@@ -1,5 +1,7 @@
 ---
 title: "Resolve license conflicts in Office 365 for business"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

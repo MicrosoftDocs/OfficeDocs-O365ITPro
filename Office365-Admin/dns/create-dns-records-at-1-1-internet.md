@@ -1,5 +1,7 @@
 ---
 title: "Create DNS records at 1&1 IONOS for Office 365"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

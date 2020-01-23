@@ -1,5 +1,7 @@
 ---
 title: "Language translation for Message center posts"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv

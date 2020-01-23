@@ -1,5 +1,7 @@
 ---
 title: "Office 365 sign-in for Yammer"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

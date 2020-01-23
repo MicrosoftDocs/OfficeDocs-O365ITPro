@@ -1,5 +1,7 @@
 ---
 title: "Update DNS records to keep your website with your current hosting provider"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

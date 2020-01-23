@@ -1,5 +1,7 @@
 ---
 title: "Enforce Office 365 identity for Yammer users"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

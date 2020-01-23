@@ -1,5 +1,7 @@
 ---
 title: "Yammer admin quick start"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

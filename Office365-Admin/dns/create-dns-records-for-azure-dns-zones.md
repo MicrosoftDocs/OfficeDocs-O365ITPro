@@ -1,5 +1,7 @@
 ---
 title: "Create DNS records for Azure DNS zones"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

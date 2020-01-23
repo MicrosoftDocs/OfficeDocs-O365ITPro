@@ -1,5 +1,7 @@
 ---
 title: "Add a user or contact to an Office 365 distribution group"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

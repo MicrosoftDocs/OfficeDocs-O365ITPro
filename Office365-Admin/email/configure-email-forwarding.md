@@ -1,5 +1,7 @@
 ---
 title: "Configure email forwarding in Office 365"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

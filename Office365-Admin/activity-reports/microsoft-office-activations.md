@@ -1,5 +1,7 @@
 ---
 title: "Office 365 Reports in the admin center - Microsoft Office activations"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv
