@@ -1,5 +1,7 @@
 ---
 title: "Compare options for a free trial of Yammer"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

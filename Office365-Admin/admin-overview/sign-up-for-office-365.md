@@ -1,5 +1,7 @@
 ---
 title: "How to sign up for Office 365 - Admin Help"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

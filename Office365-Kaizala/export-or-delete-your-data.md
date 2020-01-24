@@ -1,5 +1,7 @@
 ---
 title: Export or delete your data in the Kaizala mobile app
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

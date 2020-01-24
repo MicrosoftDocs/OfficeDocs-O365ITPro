@@ -1,5 +1,7 @@
 ---
 title: "Resend a user's password in Office 365 - Admin Help"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

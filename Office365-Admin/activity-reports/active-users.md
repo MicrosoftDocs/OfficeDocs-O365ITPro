@@ -1,5 +1,7 @@
 ---
 title: "Office 365 Reports in the admin center - Active Users"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

@@ -1,5 +1,7 @@
 ---
 title: Azure Active Directory sync with the Kaizala Directory
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

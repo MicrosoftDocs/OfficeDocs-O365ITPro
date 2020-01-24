@@ -1,5 +1,7 @@
 ---
 title: "About the Microsoft 365 admin center"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

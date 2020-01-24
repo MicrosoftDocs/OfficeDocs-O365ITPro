@@ -1,5 +1,7 @@
 ---
 title: "Create DNS records at Amazon Web Services (AWS) for Office 365"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

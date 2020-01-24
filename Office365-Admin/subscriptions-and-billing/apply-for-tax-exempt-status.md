@@ -1,5 +1,7 @@
 ---
 title: "Apply for tax exempt status for Office 365 for business"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

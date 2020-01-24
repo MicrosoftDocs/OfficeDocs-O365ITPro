@@ -1,5 +1,7 @@
 ---
 title: "Device list CSV-file"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv

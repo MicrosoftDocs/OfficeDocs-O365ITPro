@@ -1,5 +1,7 @@
 ---
 title: "Sign up for an Office 365 trial subscription"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

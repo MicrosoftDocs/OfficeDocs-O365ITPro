@@ -1,5 +1,7 @@
 ---
 title: "Upgrade your Office 365 for business users to the latest Office client"
+f1.keywords:
+- NOCSH
 ms.author: janellem
 author: janellem
 manager: eliree

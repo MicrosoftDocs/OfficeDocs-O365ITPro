@@ -1,5 +1,7 @@
 ---
 title: "Add, change, or delete a subscription advisor partner"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv

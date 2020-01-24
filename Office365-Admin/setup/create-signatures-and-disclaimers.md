@@ -1,5 +1,7 @@
 ---
 title: "Create organization-wide signatures and disclaimers"
+f1.keywords:
+- NOCSH
 ms.author: twerner
 author: twernermsft
 manager: scotv

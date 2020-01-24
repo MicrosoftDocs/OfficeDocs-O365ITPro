@@ -1,5 +1,7 @@
 ---
 title: "Include a Yammer feed in a SharePoint page"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

@@ -1,5 +1,7 @@
 ---
 title: "Export user data from Microsoft Planner"
+f1.keywords:
+- NOCSH
 ms.author: efrene
 author: efrene
 manager: pamgreen

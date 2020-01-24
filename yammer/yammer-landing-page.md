@@ -2,6 +2,8 @@
 title: Yammer
 description: Learn how to manage a Yammer network for your organization.
 services: yammer-admin
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

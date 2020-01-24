@@ -1,5 +1,7 @@
 ---
 title: Create company connect groups in Kaizala
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

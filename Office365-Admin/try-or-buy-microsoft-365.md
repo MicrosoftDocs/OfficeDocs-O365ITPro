@@ -1,5 +1,7 @@
 ---
 title: "Try or buy a Microsoft 365 subscription"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

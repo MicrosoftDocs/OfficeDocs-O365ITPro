@@ -1,5 +1,7 @@
 ---
 title: "Reset Office 365 business passwords"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

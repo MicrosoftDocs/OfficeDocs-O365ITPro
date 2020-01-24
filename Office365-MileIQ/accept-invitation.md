@@ -1,5 +1,7 @@
 ---
 title: "Accept an invitation to join MileIQ"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

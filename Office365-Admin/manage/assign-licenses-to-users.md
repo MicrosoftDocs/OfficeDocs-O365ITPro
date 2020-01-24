@@ -1,5 +1,7 @@
 ---
 title: "Assign licenses to users"
+f1.keywords:
+- CSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,7 +13,6 @@ ms.collection:
 - M365-subscription-management
 - Adm_O365
 - Adm_TOC
-- commerce
 ms.custom:
 - TopSMBIssues
 - SaRA

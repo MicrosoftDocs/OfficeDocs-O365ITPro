@@ -1,5 +1,7 @@
 ---
 title: "Manage email app access in Microsoft 365 admin center"
+f1.keywords:
+- CSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

@@ -1,5 +1,7 @@
 ---
 title: "What does upgrading Office 365 plans do to my service and billing?"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

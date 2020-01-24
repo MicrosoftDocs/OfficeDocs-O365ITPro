@@ -1,5 +1,7 @@
 ---
 title: "Office 365 Reports in the admin center - Office 365 groups"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv

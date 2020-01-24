@@ -1,5 +1,7 @@
 ---
 title: "Microsoft Cloud Solution Provider Partners in Russia"
+f1.keywords:
+- NOCSH
 ms.author: loreenl
 author: LoreenLa
 manager: pamgreen
