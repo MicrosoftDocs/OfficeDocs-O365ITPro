@@ -1,5 +1,7 @@
 ---
 title: "Learn about Office 365 Germany"
+f1.keywords:
+- NOCSH
 ms.author: loreenl
 author: LoreenLa
 manager: pamgreen

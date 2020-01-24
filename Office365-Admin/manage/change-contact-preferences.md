@@ -1,5 +1,7 @@
 ---
 title: "Change your contact preferences for communications from Microsoft"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

@@ -1,5 +1,7 @@
 ---
 title: "Manage messages in Message center"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv

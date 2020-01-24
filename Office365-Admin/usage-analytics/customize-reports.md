@@ -1,5 +1,7 @@
 ---
 title: "Customize the reports in Microsoft 365 usage analytics"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv

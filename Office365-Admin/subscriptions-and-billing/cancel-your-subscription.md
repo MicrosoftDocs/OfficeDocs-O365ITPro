@@ -1,5 +1,7 @@
 ---
 title: "Cancel your subscription"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

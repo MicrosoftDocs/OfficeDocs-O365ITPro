@@ -1,5 +1,7 @@
 ---
 title: "Using Domain Connect"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

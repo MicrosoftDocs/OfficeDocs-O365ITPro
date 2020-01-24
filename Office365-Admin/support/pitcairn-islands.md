@@ -1,6 +1,8 @@
 ﻿---                                
 title: Support information for Pitcairn Islands
 author: cmcatee-MSFT
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 manager: mnirkhe
 audience: Admin

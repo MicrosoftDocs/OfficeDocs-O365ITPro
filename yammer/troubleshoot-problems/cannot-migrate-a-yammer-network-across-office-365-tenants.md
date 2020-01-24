@@ -6,6 +6,8 @@ manager: pamgreen
 audience: ITPro
 ms.service: sharepoint-online
 ms.topic: article
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 ---
 

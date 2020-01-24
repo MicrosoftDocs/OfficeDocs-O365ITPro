@@ -1,5 +1,7 @@
 ---
 title: "About the Microsoft 365 Admin mobile app"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

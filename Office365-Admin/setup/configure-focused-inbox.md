@@ -1,5 +1,7 @@
 ---
 title: "Configure Focused Inbox for everyone in your organization"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

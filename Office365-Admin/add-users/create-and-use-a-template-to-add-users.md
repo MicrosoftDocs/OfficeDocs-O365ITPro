@@ -1,5 +1,7 @@
 ---
 title: "Create and use a template to add users"
+f1.keywords:
+- NOCSH
 ms.author: v-sharos
 author: shars
 manager: scotv

@@ -1,5 +1,7 @@
 ---
 title: Organization directory network
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

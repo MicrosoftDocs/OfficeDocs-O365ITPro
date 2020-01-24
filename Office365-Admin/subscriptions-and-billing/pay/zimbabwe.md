@@ -1,6 +1,8 @@
 ---
 title: Payment information for Zimbabwe
 author: cmcatee-MSFT
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 manager: mnirkhe
 audience: Admin

@@ -1,5 +1,7 @@
 ---
 title: "Add, update, or remove your payment methods"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

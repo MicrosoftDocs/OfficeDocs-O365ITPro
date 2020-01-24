@@ -1,6 +1,8 @@
 ---
 title: "Choose the domain to use when creating Office 365 Groups"
 ms.reviewer: arvaradh
+f1.keywords:
+- NOCSH
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen

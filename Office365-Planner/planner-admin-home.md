@@ -1,5 +1,7 @@
 ---
 title: "Planner admin home"
+f1.keywords:
+- NOCSH
 ms.author: efrene
 author: efrene
 manager: pamgreen

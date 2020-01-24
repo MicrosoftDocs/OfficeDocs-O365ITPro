@@ -1,5 +1,7 @@
 ---
 title: "Remove a former employee from Office 365"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

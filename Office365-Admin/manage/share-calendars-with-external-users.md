@@ -1,5 +1,7 @@
 ---
 title: "Share calendars with external users"
+f1.keywords:
+- NOCSH
 ms.author: twerner
 author: twernermsft
 manager: scotv

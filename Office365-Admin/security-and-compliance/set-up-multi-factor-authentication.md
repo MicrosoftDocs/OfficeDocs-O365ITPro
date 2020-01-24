@@ -1,5 +1,7 @@
 ---
 title: "Set up multi-factor authentication for Office 365 users"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: mnirkhe

@@ -1,5 +1,7 @@
 ---
 title: "Get access to and back up a former user's data"
+f1.keywords:
+- NOCSH
 ms.author: twerner
 author: twernermsft
 manager: scotv

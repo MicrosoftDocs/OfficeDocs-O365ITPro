@@ -1,5 +1,7 @@
 ---
 title: "Add licenses to a subscription purchased through the Volume Licensing Service Center"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
