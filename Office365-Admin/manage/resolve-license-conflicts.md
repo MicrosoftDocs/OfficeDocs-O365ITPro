@@ -13,7 +13,6 @@ ms.collection:
 - M365-subscription-management
 - Adm_O365
 - Adm_TOC
-- commerce
 search.appverid:
 - BCS160
 - MET150
