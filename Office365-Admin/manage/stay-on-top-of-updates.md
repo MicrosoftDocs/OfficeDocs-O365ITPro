@@ -1,5 +1,7 @@
 ---
 title: "Stay on top of Office 365 changes"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv

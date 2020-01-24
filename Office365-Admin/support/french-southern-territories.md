@@ -1,6 +1,8 @@
 ﻿---                                
 title: Support information for French Southern Territories (Antarctic Lands)
 author: cmcatee-MSFT
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 manager: mnirkhe
 audience: Admin

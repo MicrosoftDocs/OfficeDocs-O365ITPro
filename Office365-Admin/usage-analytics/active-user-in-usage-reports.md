@@ -1,5 +1,7 @@
 ---
 title: "Active user in Office 365 usage reports"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv

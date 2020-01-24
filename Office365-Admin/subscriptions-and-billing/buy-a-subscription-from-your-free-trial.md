@@ -1,5 +1,7 @@
 ---
 title: "Buy a subscription to Office 365 for business from your free trial"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

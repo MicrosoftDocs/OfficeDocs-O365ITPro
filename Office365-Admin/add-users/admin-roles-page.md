@@ -1,5 +1,7 @@
 ---
 title: "About admin roles"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: svidican

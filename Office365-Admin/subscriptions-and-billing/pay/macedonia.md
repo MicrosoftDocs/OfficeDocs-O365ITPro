@@ -1,6 +1,8 @@
 ---
 title: Payment information for Macedonia, Former Yugoslav Republic of
 author: cmcatee-MSFT
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 manager: mnirkhe
 audience: Admin

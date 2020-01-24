@@ -1,5 +1,7 @@
 ---
 title: "Remove a domain from Office 365"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

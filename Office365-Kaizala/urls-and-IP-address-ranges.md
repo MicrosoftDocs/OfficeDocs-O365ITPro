@@ -1,5 +1,7 @@
 ---
 title: URLs and address ranges for Kaizala
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

@@ -1,6 +1,8 @@
 ---
 title: "Office 365 Group Expiration Policy"
 ms.reviewer: arvaradh
+f1.keywords:
+- NOCSH
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen

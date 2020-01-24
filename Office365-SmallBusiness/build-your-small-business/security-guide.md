@@ -1,5 +1,7 @@
 ---
 title: "Security guide for small businesses"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv

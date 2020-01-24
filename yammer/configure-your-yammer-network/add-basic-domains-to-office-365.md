@@ -1,5 +1,7 @@
 ---
 title: "Add Yammer basic domains to your Office 365 tenant"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

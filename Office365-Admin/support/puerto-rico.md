@@ -1,6 +1,8 @@
 ﻿---                                
 title: Support information for Puerto Rico
 author: cmcatee-MSFT
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 manager: mnirkhe
 audience: Admin

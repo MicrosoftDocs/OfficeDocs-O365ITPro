@@ -1,5 +1,7 @@
 ---
 title: "Export data from Yammer Enterprise"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

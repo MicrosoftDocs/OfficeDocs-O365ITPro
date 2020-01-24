@@ -1,5 +1,7 @@
 ---
 title: "ICANN Verification of Contact Information"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

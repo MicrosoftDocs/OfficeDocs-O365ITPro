@@ -1,5 +1,7 @@
 ---
 title: "Assign licenses to users"
+f1.keywords:
+- CSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

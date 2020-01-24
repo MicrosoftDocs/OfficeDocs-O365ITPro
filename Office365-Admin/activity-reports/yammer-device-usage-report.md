@@ -1,5 +1,7 @@
 ---
 title: "Office 365 Reports in the admin center - Yammer device usage report"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
