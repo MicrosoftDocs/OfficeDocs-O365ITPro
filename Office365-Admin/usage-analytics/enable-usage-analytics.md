@@ -43,9 +43,9 @@ To enable the template app, you have to be either a **global administrator**, **
   
 See [About admin roles](../add-users/about-admin-roles.md) for more information. 
   
-1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page. 
+1. In the Teams admin center, go to **Analytics & Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage Reports</a> page. 
     
-2. On the **Usage** page, locate the **Microsoft 365 usage analytics** card, and select **Get started**.
+2. On the **Usage Reports** page, locate the **Microsoft 365 usage analytics** card, and select **Get started**.
     
 3. On the Reports panel that opens, set **Make data available to Microsoft 365 usage analytics for Power BI** to **On** \> **Save**. 
   
@@ -85,4 +85,4 @@ To make the data that is collected for all reports anonymous, you have to be a g
     
 2. Select **Reports**, and then choose to **Display anonymous identifiers**. This setting gets applied both to the usage reports as well as to the template app.
   
-3. Select **Save changes**.S
+3. Select **Save changes**.
