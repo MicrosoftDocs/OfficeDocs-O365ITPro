@@ -1,18 +1,18 @@
 ---
 title: "Enforce Office 365 identity for Yammer users"
 f1.keywords:
-- NOCSH
+- CSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'fwlink from UI'
 ms.service: yammer
 localization_priority: Normal
-ms.custom: Adm_Yammer
+ms.custom: 
+- Adm_Yammer
+- fwlink from UI
 search.appverid:
 - MET150
 - MOE150
