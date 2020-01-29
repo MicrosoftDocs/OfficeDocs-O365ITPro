@@ -25,7 +25,7 @@ description: "Learn about Office 365 Germany."
 
 # Learn about Office 365 Germany
 
-Office 365 Germany was a differentiated option to the Office 365 services available across Europe. It was supposed to help address the needs of the most regulated customers in Germany, the European Union (EU), and the European Free Trade Association (EFTA) by delivering our industry-leading productivity services for digital work, from German datacenters, with data residency in Germany, and strict data access and control measures via a unique data trustee model governed under German law.
+Office 365 Germany was a differentiated option to the Office 365 services available across Europe. It helped to address the needs of the most regulated customers in Germany, the European Union (EU), and the European Free Trade Association (EFTA) by delivering our industry-leading productivity services for digital work, from German datacenters, with data residency in Germany, and strict data access and control measures via a unique data trustee model governed by German law.
   
 The data trustee, T-Systems International, an independent German company and subsidiary of Deutsche Telekom, controls physical and logical access to customer data. Customer data cannot be accessed without approval from or supervision by the data trustee, which is governed by German law.
   
