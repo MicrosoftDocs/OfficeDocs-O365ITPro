@@ -29,7 +29,7 @@ Office 365 Germany was a differentiated option to the Office 365 services availa
   
 The data trustee, T-Systems International, an independent German company and subsidiary of Deutsche Telekom, controls physical and logical access to customer data. Customer data cannot be accessed without approval from or supervision by the data trustee, which is governed by German law.
   
-But customers need have shifted, and the isolation of Office 365 Germany imposed limits on its ability to address the flexibility and consistency that customers desire. Since August 2018 we are no longer accpeting new customers or deploying any new services from the currently available Microsoft Cloud Germany. For further details see this blog post: [Microsoft to deliver cloud services from new datacentres in Germany in 2019 to meet evolving customer needs](https://go.microsoft.com/fwlink/p/?linkid=839016).
+Customers needs have shifted, and the isolation of Office 365 Germany imposed limits on its ability to address the flexibility and consistency that customers desire. Since August 2018, we are no longer accepting new customers or deploying any new services from the currently available Microsoft Cloud Germany. For further details, see this blog post: [Microsoft to deliver cloud services from new datacentres in Germany in 2019 to meet evolving customer needs](https://go.microsoft.com/fwlink/p/?linkid=839016).
   
 ## What Microsoft online services are available in Office 365 Germany?
 
