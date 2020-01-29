@@ -7,8 +7,6 @@ author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'fwlink 874703'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
@@ -18,6 +16,7 @@ ms.collection:
 - commerce
 ms.custom:
 - TopSMBIssues
+- fwlink 874703
 search.appverid:
 - BCS160
 - MET150
