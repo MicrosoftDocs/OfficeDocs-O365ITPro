@@ -77,6 +77,9 @@ All Office 2016 client applications support MFA through the use of the Active Di
 
     ![Modern authentication panel with enable checkbox checked.](../media/enablemodernauth.png)
     
+> [!TIP]
+> [Tell your users how to set up the Authenticator app] (https://support.office.com/article/use-microsoft-authenticator-with-office-365-1412611f-ad8d-43ab-807c-7965e5155411#ID0EAADAAA=_Step_1).
+    
 > [!IMPORTANT]
 > As of August of 2017, all new Office 365 tenants that include Skype for Business online and Exchange online have modern authentication enabled by default. To check your modern authentication status for Skype for Business online, you can use Skype for Business online PowerShell with Global Admin credentials. Run Get-CsOAuthConfiguration to check the output of -ClientADALAuthOverride. If -ClientADALAuthOverride is 'Allowed', modern authentication is on.
 To check your MA status for Exchange Online, please visit [Enable modern authentication in Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
