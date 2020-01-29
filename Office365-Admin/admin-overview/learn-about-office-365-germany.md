@@ -19,7 +19,7 @@ ms.assetid: 8a5a4bbc-667a-4cac-8769-d8ac9015db4c
 description: "Learn about Office 365 Germany."
 ---
 
->[!Note]
+> [!NOTE]
 >Office 365 Germany is no longer accepting new customers or deploying new services. The new cloud regions in Germany, available in the first quarter of 2020 for Microsoft 365 and Office 365, will provide both core customer data residency within Germany, as well as full connectivity to Microsoft's global cloud network. 
 >
 
