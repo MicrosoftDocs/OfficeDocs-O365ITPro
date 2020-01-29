@@ -20,7 +20,7 @@ description: "Learn about Office 365 Germany."
 ---
 
 > [!NOTE]
->Office 365 Germany is no longer accepting new customers or deploying new services. The new cloud regions in Germany, available in the first quarter of 2020 for Microsoft 365 and Office 365, will provide both core customer data residency within Germany, as well as full connectivity to Microsoft's global cloud network. 
+> Office 365 Germany is no longer accepting new customers or deploying new services. The new cloud regions in Germany, available in the first quarter of 2020 for Microsoft 365 and Office 365, will provide both core customer data residency within Germany, as well as full connectivity to the Microsoft global cloud network. 
 >
 
 # Learn about Office 365 Germany
