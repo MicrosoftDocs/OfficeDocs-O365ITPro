@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 9/23/2019
+ms.date: 01/28/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -111,7 +111,7 @@ A: Yammer's system requirements are consistent with those of Office 365. See the
 #### Mobile and desktop requirements
 <a name="bk_MobileDesktop"> </a>
 
-- iOS 11.0 and above
+- iOS 12.0 and above
     
 - Android v5.0 and higher
     
