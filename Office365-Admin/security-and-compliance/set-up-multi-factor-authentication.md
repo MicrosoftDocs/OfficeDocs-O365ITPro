@@ -78,7 +78,7 @@ All Office 2016 client applications support MFA through the use of the Active Di
     ![Modern authentication panel with enable checkbox checked.](../media/enablemodernauth.png)
     
 > [!TIP]
->  Tell your users how to set up the Authenticator app, please visit [Use Microsoft Authenticator with office 365](https://support.office.com/en-us/article/use-microsoft-authenticator-with-office-365-1412611f-ad8d-43ab-807c-7965e5155411?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=_Step_1).
+> To explain to your users how to set up the Authenticator app, please visit [Use Microsoft Authenticator with office 365](https://support.office.com/article/use-microsoft-authenticator-with-office-365-1412611f-ad8d-43ab-807c-7965e5155411?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=_Step_1).
 
 
 > [!IMPORTANT]
