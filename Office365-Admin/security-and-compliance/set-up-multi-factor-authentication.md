@@ -53,7 +53,7 @@ If you have previously set up MFA with baseline policies, [you must turn them of
 2. Go to [Azure Active Directory Properties](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties).
 
 3. On the bottom of the page, choose **Manage Security defaults**.
-4. Choose **Yes** to Enable Security Defaults and **No** to Disable security Defaults.
+4. Choose **Yes** to enable security defaults and **No** to disable security defaults.
 
 ## Move from baseline policies to security defaults
 
