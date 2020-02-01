@@ -166,7 +166,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 6. Select **Save**.
   
-7. Add each of the other five CNAME records.
+7. Add each of the other four CNAME records.
 
     
 ## Add a TXT record for SPF to help prevent email spam
