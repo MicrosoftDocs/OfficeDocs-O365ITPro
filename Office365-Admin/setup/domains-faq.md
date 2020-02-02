@@ -274,6 +274,10 @@ When you add a subdomain, it is automatically verified based on the parent domai
 When you add multiple domains to Office 365, you can host any of the services (like email) on any of the domains you've added.  *When you change your email to Office 365, by updating a domain's MX record, ALL email sent to that domain will start coming to Office 365.* 
  
 ::: moniker range="o365-worldwide"
+
+> [!NOTE]
+> If you have already added a domain contoso.com to a O365 tenant, we can still add the sub domain xyz.contoso.com to another Office365 tenant, when adding the subdomain you will be prompted to add a txt record in the dns hosting provider.
+
 ## Why do I have an "onmicrosoft.com" domain?
 
 Office 365 creates a domain for you, like *contoso.onmicrosoft.com*, when you sign up with the service. The user ID that you create when you sign up includes the domain, like *alan@contoso.onmicrosoft.com*. 
