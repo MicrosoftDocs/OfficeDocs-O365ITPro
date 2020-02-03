@@ -73,6 +73,9 @@ You can change the payment method that is used to pay for a single subscription.
 3. The **Change payment method** pane lists existing subscriptions that use that payment method.
 4. From the **Select payment method** drop-down, select a different payment method, then select **Save**.
 
+> [!NOTE]
+> You can only change between existing payment methods in the **Change payment method** pane. If you want to change to pay by invoice, see [Change from credit card or bank account to invoice](change-payment-method.md#change-from-credit-card-or-bank-account-to-invoice).
+
 ## Remove a payment method
 
 You can only remove a credit or debit card or bank account from your list of payment methods if it’s not attached to a subscription. This applies to all subscriptions, whatever their status. Add a payment method for the subscription, then remove the old one from that subscription. If the payment method is associated with a billing profile, change the payment method used for the billing profile, and then remove the payment method.
