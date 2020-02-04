@@ -102,7 +102,7 @@ Viewers who are part of the community which the event is in.
 
 |**Feature**|**Produced using Teams**|**Produced using Encoder**|**More info**|
 |----------|----------|----------|----------|
-|Analytics|Yes|Yes|See Analytics about your live event in Microsoft Stream. See Monitor your event for more information|
+|Analytics|Yes|Yes|See [Analytics about your live event in Microsoft Stream](https://docs.microsoft.com/en-us/stream/ecdn). See [Monitor your event](https://docs.microsoft.com/en-us/yammer/manage-security-and-compliance/track-yammer-events) for more information|
 |Schedule in Yammer|Yes|Yes|N/A|
 |Produce in Yammer|No|Yes|N/A|
 |Attendees view event in Yammer|Yes|Yes|N/A|
