@@ -41,10 +41,10 @@ For the full list of features, see [Overview of live events](yammer-live-events.
 ## How can I use Teams to produce an event in Yammer?
 
 - Schedule the event (double-click to watch the video)
-  > [COMING SOON]
+[COMING SOON]
 
 - Share the event from Yammer
-  ![yam-live](../media/yam_live_events.png)
+![yam-live](../media/yam_live_events.png)
 
 - When it’s time to go live, produce/present from Teams as usual
 ![yam-](../media/yam-open-teams-app.png)
