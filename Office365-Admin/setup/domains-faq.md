@@ -276,7 +276,7 @@ When you add multiple domains to Office 365, you can host any of the services (l
 ::: moniker range="o365-worldwide"
 
 > [!NOTE]
-> If you have already added a domain contoso.com to a O365 tenant, we can still add the sub domain xyz.contoso.com to another Office365 tenant, when adding the subdomain you will be prompted to add a txt record in the dns hosting provider.
+> If you have already added a contoso.com domain to an Office 365 tenant, you can also add the subdomain xyz.contoso.com to another Office 365 tenant. When adding the subdomain, you will be prompted to add a TXT record in the DNS hosting provider.
 
 ## Why do I have an "onmicrosoft.com" domain?
 
@@ -447,4 +447,3 @@ You can, but there are limitations:
         
     2. When more mailboxes are involved, or if the employees are not already using Outlook, you can use the migration tools available in the Exchange admin center. To get started, go to Exchange admin center and follow the directions in Migrate Email from an IMAP Server to Exchange Online Mailboxes.
     
-
