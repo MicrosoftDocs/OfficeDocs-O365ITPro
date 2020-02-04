@@ -36,7 +36,7 @@ Live events produced using Teams can now be scheduled and viewed in Yammer! This
 
 For the full list of features, see [Overview of live events](yammer-live-events.md).
 
-# FAQ
+## FAQ
 
 ## How can I use Teams to produce an event in Yammer?
 
