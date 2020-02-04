@@ -21,9 +21,9 @@ ms.assetid: 4ece0ee2-c268-4636-bf2a-16e454befe57
 description: "Learn what's needed for Yammer users to  schedule AND view a live event produced using Teams IN Yammer."
 ---
 
-# What is new about this live events functionality?
+# What is new about Yammer live events?
 
-With this new functionality live events produced using Teams can be scheduled and viewed in Yammer! This is one of the largest customer asks we have and we’re excited to release this new functionality.
+Live events produced using Teams can now be scheduled and viewed in Yammer! This is one of the largest customer asks we have and we’re excited to release this new functionality.
 
 ## Benefits
 
