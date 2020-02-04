@@ -38,13 +38,13 @@ For the full list of features, see [Overview of live events](yammer-live-events.
 
 ## FAQ
 
-## How can I use Teams to produce an event in Yammer?
+### How can I use Teams to produce an event in Yammer?
 
 - Schedule the event (double-click to watch the video)
 [COMING SOON]
 
 - Share the event from Yammer
-![yam-live](../media/yam_live_events.png)
+![yam-](../media/yam-live-event-screen.png)
 
 - When it’s time to go live, produce/present from Teams as usual
 ![yam-](../media/yam-open-teams-app.png)
@@ -52,7 +52,7 @@ For the full list of features, see [Overview of live events](yammer-live-events.
 - See the event LIVE in Yammer! All attendees can view this event directly from Yammer.
 ![yam-](../media/yam-teams-join.png)
 
-## What is the difference between this feature and what is available in GA today?
+### What is the difference between this feature and what is available in GA today?
 
 The main benefit of this feature is that all attendees can view a Teams-produced event in Yammer. We’ve worked with Teams and Stream to make this available for our Yammer customers. Now, event organizers can schedule their event in Yammer, produce it using Teams, but view it in Yammer.
 
@@ -66,11 +66,11 @@ A few things to note:
 
 - The event will not automatically be added to a producers/presenters’ calendar at this time (under active investigation)
 
-## Who can use this feature?
+### Who can use this feature?
 
 Only Yammer admins in connected communities.
 
-## What kind of analytics do I get with this feature?
+### What kind of analytics do I get with this feature?
 
 You get access to all the advanced analytics available via Stream.
 
@@ -78,7 +78,7 @@ You get access to all the advanced analytics available via Stream.
 
 Event producers can see the total number of watchers when the event is live. When the event is completed, the producer can see the total number of views across the lifetime of the video subject to the view count algorithm.
 
-## Do I need a Stream and Teams license to use this feature?
+### Do I need a Stream and Teams license to use this feature?
 
 Yes, both are required.
 
@@ -88,15 +88,15 @@ Yammer has partnered with both Teams and Stream to provide the best technology f
 
 - **Teams**: For requirements, see [Who can create and schedule live events in Teams](https://go.microsoft.com/fwlink/?linkid=2117055). For steps to set policies, see [Set up for live events in Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2117054).
 
-## How many concurrent viewers can watch this event?
+### How many concurrent viewers can watch this event?
 
 Currently, live events support up to 10,000 concurrent viewers. For more information, see [Microsoft Stream live event overview](https://docs.microsoft.com/stream/live-event-overview).
 
-## What is the maximum duration of an event?
+### What is the maximum duration of an event?
 
 Four (4) hours.
 
-## Who can watch a live event?
+### Who can watch a live event?
 
 Viewers who are part of the community which the event is in.
 
@@ -125,7 +125,7 @@ Viewers who are part of the community which the event is in.
 > [!NOTE]
 > Live events in Microsoft 365 is a highly available service and you can expect good performance at scale. In the very unlikely scenario that results in failover being required, live events scheduled from Yammer will not have redundancy and are not be recoverable.
 
-## Related articles
+## Related topics
 
 [Organize a live event in Yammer](https://support.office.com/article/organize-a-live-event-in-yammer-105dd7af-9caf-4a5e-8a44-56d203e96551)
 
