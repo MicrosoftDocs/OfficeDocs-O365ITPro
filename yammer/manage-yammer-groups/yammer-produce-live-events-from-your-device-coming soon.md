@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 02/33/2020
+ms.date: 02/04/2020
 audience: Admin
 ms.topic: overview
 ms.service: yammer
@@ -20,7 +20,6 @@ search.appverid:
 ms.assetid: 4ece0ee2-c268-4636-bf2a-16e454befe57
 description: "Learn what's needed for Yammer users to  schedule AND view a live event produced using Teams IN Yammer."
 ---
-Read answers to questions about the new way to host a live event in Yammer.
 
 # What is new about this live events functionality?
 
@@ -36,6 +35,8 @@ With this new functionality live events produced using Teams can be scheduled an
 - All events are stored in Stream (and are searchable there, like any other live event)
 
 For the full list of features, see [Overview of live events](yammer-live-events.md).
+
+# FAQ
 
 ## How can I use Teams to produce an event in Yammer?
 
@@ -89,7 +90,7 @@ Yammer has partnered with both Teams and Stream to provide the best technology f
 
 ## How many concurrent viewers can watch this event?
 
-Currently, live events support up to 10,000 concurrent viewers. For more information, see [Microsoft Stream live event overview](https://docs.microsoft.com/en-us/stream/live-event-overview).
+Currently, live events support up to 10,000 concurrent viewers. For more information, see [Microsoft Stream live event overview](https://docs.microsoft.com/stream/live-event-overview).
 
 ## What is the maximum duration of an event?
 
@@ -132,8 +133,8 @@ Viewers who are part of the community which the event is in.
 
 [Attend a live event in Yammer](https://go.microsoft.com/fwlink/?linkid=2117053)
 
-[Microsoft Teams live event overview](https://support.office.com/article/microsoft-teams-live-events-overview-d077fec2-a058-483e-9ab5-1494afda578a?ui=en-US&rs=en-US&ad=US)
+[Microsoft Teams live event overview](https://support.office.com/article/microsoft-teams-live-events-overview-d077fec2-a058-483e-9ab5-1494afda578a)
 
-[Microsoft Stream live event overview](https://docs.microsoft.com/en-us/stream/live-event-overview)
+[Microsoft Stream live event overview](https://docs.microsoft.com/stream/live-event-overview)
 
 [Get help producing a live event](https://support.office.com/article/0cedb557-cbe4-40d3-8147-112633f087eb)
