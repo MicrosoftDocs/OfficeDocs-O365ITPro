@@ -6,7 +6,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 audience: Admin
-ms.date: 06/04/2019
+ms.date: 02/03/2020
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -36,7 +36,9 @@ Users are invited to install and register on Kaizala by SMS when an admin has ad
 - Lebanon
 - Morocco
 - Philippines
+- Rwanda
 - Saudi Arabia
+- Uganda
 
 This list will be updated periodically as the feature expands to more regions.
 
