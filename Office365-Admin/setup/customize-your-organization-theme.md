@@ -36,6 +36,9 @@ Learn how to customize your theme in the Microsoft 365 admin center. As the admi
 3. On the **Customs themes** panel, change the theme elements you want for your organization:
     
   - **Use a custom logo image**: Choose whether to use an image from a URL or to upload an image. If you use a URL, please ensure that the URL uses HTTPS and is 200 x 30 pixels of any format of any size. You may upload a logo under 10 KB that is 200 x 30 pixels in JPG, PNG, GIF, or SVG format.
+
+  [!NOTE]
+    > For the logo to appear in the SharePoint mobile app, use only SVG images. Images uploaded in any other format don’t display in the app. 
     
   - **Make logo clickable**: You may use your logo in the navigation bar as a link to any company resource. You may enter the URL for the logo here, starting with http:// or https://. This is optional.
     
