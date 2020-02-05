@@ -138,7 +138,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 10. In the confirmation dialog box, select **Delete** to confirm your changes. 
 
   
-## Add the six CNAME records that are required for Office 365
+## Add the five CNAME records that are required for Office 365
 <a name="BKMK_add_CNAME"> </a>
 
 1. To get started, go to your domains page at Cloudflare by using [this link](https://www.cloudflare.com/a/login). You'll be prompted to log in first.
@@ -149,7 +149,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 3. On the **Overview** page for your domain, select **DNS**.
 
   
-4. Add the first of the six CNAME records.
+4. Add the first of the five CNAME records.
     
     On the **DNS management** page, click **Add record**, and then select the values from the following table.
     
@@ -162,11 +162,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |CNAME  <br/> |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/> |30 minutes  <br/> |
     |CNAME  <br/> |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |30 minutes  <br/> |
   
-5. Select the **DNS Traffic** icon (orange cloud) to bypass the Cloudflare servers. 
+5. Select the **DNS Traffic** icon (orange cloud) to bypass the Cloudflare servers.
   
 6. Select **Save**.
   
-7. Add each of the other five CNAME records.
+7. Add each of the other four CNAME records.
 
     
 ## Add a TXT record for SPF to help prevent email spam
