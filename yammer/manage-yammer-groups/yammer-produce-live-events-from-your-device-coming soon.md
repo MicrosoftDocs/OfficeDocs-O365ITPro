@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 02/04/2020
+ms.date: 02/05/2020
 audience: Admin
 ms.topic: overview
 ms.service: yammer
@@ -21,7 +21,10 @@ ms.assetid: 4ece0ee2-c268-4636-bf2a-16e454befe57
 description: "Learn what's needed for Yammer users to  schedule AND view a live event produced using Teams IN Yammer."
 ---
 
-# What is new about Yammer live events?
+# Produce Yammer live events from your device [coming soon!]
+
+
+## What is new about Yammer live events?
 
 Live events produced using Teams can now be scheduled and viewed in Yammer! This is one of the largest customer asks we have and we’re excited to release this new functionality.
 
@@ -40,17 +43,18 @@ For the full list of features, see [Overview of live events](yammer-live-events.
 
 ### How can I use Teams to produce an event in Yammer?
 
-- Schedule the event (double-click to watch the video)
-[COMING SOON]
+1. Schedule the event (double-click to watch the video)
 
-- Share the event from Yammer
-![yam-](../media/yam-live-event-screen.png)
+2. Share the event from Yammer
+![yam-](../media/yam-live-event-share-screen.png)
 
-- When it’s time to go live, produce/present from Teams as usual
+3. When it’s time to go live, produce/present from Teams as usual
+![yam-](../media/yam-teams-join.png)
+![yam-pre](../media/yam-pre-live.png)
 ![yam-](../media/yam-open-teams-app.png)
 
-- See the event LIVE in Yammer! All attendees can view this event directly from Yammer.
-![yam-](../media/yam-teams-join.png)
+4. See the event LIVE in Yammer! All attendees can view this event directly from Yammer.
+![yam-](../media/yam-attendee-experience.png)
 
 ### What is the difference between this feature and what is available in GA today?
 
