@@ -274,6 +274,10 @@ When you add a subdomain, it is automatically verified based on the parent domai
 When you add multiple domains to Office 365, you can host any of the services (like email) on any of the domains you've added.  *When you change your email to Office 365, by updating a domain's MX record, ALL email sent to that domain will start coming to Office 365.* 
  
 ::: moniker range="o365-worldwide"
+
+> [!NOTE]
+> If you have already added a contoso.com domain to an Office 365 tenant, you can also add the subdomain xyz.contoso.com to another Office 365 tenant. When adding the subdomain, you will be prompted to add a TXT record in the DNS hosting provider.
+
 ## Why do I have an "onmicrosoft.com" domain?
 
 Office 365 creates a domain for you, like *contoso.onmicrosoft.com*, when you sign up with the service. The user ID that you create when you sign up includes the domain, like *alan@contoso.onmicrosoft.com*. 
@@ -443,4 +447,3 @@ You can, but there are limitations:
         
     2. When more mailboxes are involved, or if the employees are not already using Outlook, you can use the migration tools available in the Exchange admin center. To get started, go to Exchange admin center and follow the directions in Migrate Email from an IMAP Server to Exchange Online Mailboxes.
     
-
