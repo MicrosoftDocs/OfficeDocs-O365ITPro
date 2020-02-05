@@ -49,9 +49,9 @@ For the full list of features, see [Overview of live events](yammer-live-events.
 ![yam-](../media/yam-live-event-share-screen.png)
 
 3. When it’s time to go live, produce/present from Teams as usual
+![yam-](../media/yam-open-teams-app.png)
 ![yam-](../media/yam-teams-join.png)
 ![yam-pre](../media/yam-pre-live.png)
-![yam-](../media/yam-open-teams-app.png)
 
 4. See the event LIVE in Yammer! All attendees can view this event directly from Yammer.
 ![yam-](../media/yam-attendee-experience.png)
