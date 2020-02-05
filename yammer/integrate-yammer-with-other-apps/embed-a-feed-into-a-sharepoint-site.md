@@ -132,7 +132,7 @@ The following procedures describe how to add a group feed, my feed, or page feed
            container: "#embedded-feed", 
            network: "contoso.com", 
            feedType: "open-graph", 
-           objectProperties: { url: "http://www.contoso.com/sample_page" , type: "page" } }); 
+           objectProperties: { url: "https://www.contoso.com/sample_page" , type: "page" } }); 
   </script>
   
   ```
