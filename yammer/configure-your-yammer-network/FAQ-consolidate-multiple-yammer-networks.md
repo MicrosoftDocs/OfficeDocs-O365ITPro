@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 9/23/2019
+ms.date: 01/30/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
