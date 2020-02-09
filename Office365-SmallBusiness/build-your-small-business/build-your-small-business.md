@@ -1,5 +1,7 @@
 ---
 title: "Microsoft 365 Small Business Resource Center"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: supotter
 manager: scotv

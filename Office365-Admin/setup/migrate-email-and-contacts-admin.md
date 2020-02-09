@@ -1,5 +1,7 @@
 ---
 title: "Migrate email and contacts to Office 365"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv

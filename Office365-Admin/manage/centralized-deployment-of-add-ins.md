@@ -1,5 +1,7 @@
 ---
 title: "Determine if Centralized Deployment of add-ins works for your organization"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv

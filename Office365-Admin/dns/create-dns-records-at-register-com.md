@@ -1,5 +1,7 @@
 ---
 title: "Create DNS records at Register.com for Office 365"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -40,7 +42,7 @@ These are the main records to add. Follow the steps below or [watch the video](h
     
 After you add these records at Register.com, your domain will be set up to work with Office 365 services.
   
-To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
+To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/choose-a-public-website-3325d50e-d131-403c-a278-7f3296fe33a9).
   
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
@@ -116,7 +118,7 @@ Follow the steps below or [watch the video (start at 3:32)](https://support.offi
     
     |****Host Name****|****Priority****|****Mail Server****|
     |:-----|:-----|:-----|
-    |@  <br/> |High  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/>**Note:** Get your \<*domain-key*\> from your Office 365 account. <br> [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |@  <br/> |High  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/>  <br/>**Note:** Get your \<*domain-key*\> from your Office 365 account. <br> [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
     ![Copy and paste the value from the table](../media/a1a15a14-c3dc-45dc-adcd-90fdb3f7455d.png)
   
@@ -159,11 +161,11 @@ Follow the steps below or [watch the video (start at 4:23)](https://support.offi
     
     |****First field (unlabeled)****|****Points to****|
     |:-----|:-----|
-    |autodiscover  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
-    |sip  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-    |lyncdiscover  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-    |enterpriseregistration  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
-    |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |autodiscover  <br/> |autodiscover.outlook.com  <br/>  <br/> |
+    |sip  <br/> |sipdir.online.lync.com  <br/>  <br/> |
+    |lyncdiscover  <br/> |webdir.online.lync.com <br/>  <br/> |
+    |enterpriseregistration  <br/> |enterpriseregistration.windows.net  <br/>  <br/> |
+    |enterpriseenrollment  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/>  <br/> |
    
      ![Copy and paste the DNS values from the table](../media/0e2b36b2-8a0b-4019-addf-301763f9a626.png)
   
@@ -236,8 +238,8 @@ Follow the steps below or [watch the video (start at 5:55)](https://support.offi
     
     |****Service****|****Proto****|****Name****|****Priority****|****Weight****|****Port****|****Target****|
     |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-    |_sip  <br/> |_tls  <br/> |@  <br/> |High  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-    |_sipfederationtls  <br/> |_tcp  <br/> |@  <br/> |High  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
+    |_sip  <br/> |_tls  <br/> |@  <br/> |High  <br/> |1  <br/> |443  <br/> |sipdir.online.lync.com  <br/>  <br/> |
+    |_sipfederationtls  <br/> |_tcp  <br/> |@  <br/> |High  <br/> |1  <br/> |5061  <br/> |sipfed.online.lync.com  <br/>  <br/> |
    
     ![Copy and paste the values from the table](../media/71304c81-5845-4a8f-b969-d9efc8721184.png)
   

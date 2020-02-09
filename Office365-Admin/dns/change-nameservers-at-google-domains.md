@@ -1,5 +1,7 @@
 ---
 title: "Change nameservers to set up Office 365 with Google Domains"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -34,11 +36,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
 > [!NOTE]
 >  This record is used only to verify that you own your domain; it doesn't affect anything else. You can delete it later, if you like. 
   
-1. To get started, go to your domains page at Google Domains by using [this link](https://domains.google.com/registrar). You'll be prompted to sign in. To do so:
+1. To get started, go to your domains page at Google Domains via [this link](https://domains.google.com/registrar). You'll be prompted to sign in. To do so:
     
 1. Select **Sign In**.
     
-2. Enter your login credentials, and then again select **Sign In**.
+2. Enter your login credentials and again select **Sign In**.
     
 2. On the **Domains** page, in the **Domain** section, select **Configure DNS** for the domain that you want to edit. 
     

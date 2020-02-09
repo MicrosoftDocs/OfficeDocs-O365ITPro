@@ -1,5 +1,7 @@
 ---
 title: "Manage who can create Office 365 Groups"
+f1.keywords:
+- NOCSH
 ms.author: mikeplum
 ms.reviewer: arvaradh
 author: MikePlumleyMSFT

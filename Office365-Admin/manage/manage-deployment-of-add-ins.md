@@ -1,5 +1,7 @@
 ---
 title: "Manage deployment of Office 365 add-ins in the admin center"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv

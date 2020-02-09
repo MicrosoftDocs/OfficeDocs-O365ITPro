@@ -1,5 +1,7 @@
 ---
 title: "Email collaboration in Office 365"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

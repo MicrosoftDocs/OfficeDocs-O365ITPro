@@ -1,5 +1,7 @@
 ---
 title: "Gather the information you need to create Office 365 DNS records"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

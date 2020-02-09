@@ -1,5 +1,7 @@
 ---
 title: "Compare ways to block access to Office 365"
+f1.keywords:
+- NOCSH
 ms.author: twerner
 author: twernermsft
 manager: scotv

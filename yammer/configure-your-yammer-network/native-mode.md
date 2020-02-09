@@ -1,9 +1,11 @@
 ---
 title: "Prepare a Yammer network for Native Mode for Microsoft 365"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/19/2019
+ms.date: 01/21/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -13,7 +15,6 @@ search.appverid:
 - MOE150
 - MET150
 description: "Learn the steps required to prepare your Yammer network for Native Mode for Microsoft 365."
-ROBOTS: NOINDEX, NOFOLLOW 
 ---
 
 # Configure your Yammer network for Native Mode for Microsoft 365
@@ -22,9 +23,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 Native Mode has the following requirements:
 
-- There can only be one Yammer network on the tenant.
-
-- Office 365 identity must be enforced on the Yammer network.
+- There can only be [one Yammer network on the tenant](consolidate-multiple-yammer-networks.md).
 
 - All domains on the tenant are associated with the Yammer network, and there are no domains on the Yammer network that are not on the tenant.
 

@@ -1,5 +1,7 @@
 ---
 title: "Room and equipment mailboxes"
+f1.keywords:
+- NOCSH
 ms.author: twerner
 author: twernermsft
 manager: scotv

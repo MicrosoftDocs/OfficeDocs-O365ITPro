@@ -1,9 +1,11 @@
 ---
 title: "Files in Native Mode"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/20/2019
+ms.date: 01/21/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -13,7 +15,6 @@ search.appverid:
 - MOE150
 - MET150
 description: "Learn the steps required to prepare your Yammer network for Native Mode for Microsoft 365."
-ROBOTS: NOINDEX, NOFOLLOW 
 ---
 
 # Yammer files in Native Mode for Microsoft 365
@@ -68,8 +69,6 @@ Because migration deletes files and the process is irreversible, we suggest you:
 
 The following is the expected end user experience for files while the Tool is running:
 
-UPDATES COMING FROM MADHURI FOR TABLE ONLY
-
 |Tasks|Office 365 Yammer Groups|Unconnected Yammer Groups|Private Messages|
 |-----|------------------------|-------------------------|----------------|
 |Delete files|User can delete files|File will be deleted and not migrated to SharePoint.|Files will be deleted and users will no longer have access to these files.|
@@ -77,15 +76,11 @@ UPDATES COMING FROM MADHURI FOR TABLE ONLY
 |New file|New files are stored in SharePoint|File will be in Azure, but migrated to SharePoint by the time the Tool has completed its work.|N/A|
 ||||
 
-MORE INFO COMING ABOUT THIS SECTION
-
 If a group has been deleted, all the files from that group will be deleted and not migrated over.
 
 ## After successfully entering Native Mode
 
 - All group files will be [stored in SharePoint](https://go.microsoft.com/fwlink/?linkid=2111253), providing a consistent file management experience.
-
-MADHURI MIGHT NEED TO COPY/MOVE TO OVERVIEW TOPIC
 
 - File search can happen from SharePoint as well as Yammer. Yammer searches the first 5000 characters of files in Azure cloud storage as well as the title and author, but only searches the title and author of files stored in SharePoint.
 

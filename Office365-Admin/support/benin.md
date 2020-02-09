@@ -1,6 +1,8 @@
 ﻿---                                
 title: Support information for Benin
 author: cmcatee-MSFT
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 manager: mnirkhe
 audience: Admin

@@ -1,5 +1,7 @@
 ---
 title: Make payments through the Kaizala app
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

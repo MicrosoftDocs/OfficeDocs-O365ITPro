@@ -1,5 +1,7 @@
 ---
 title: "Using self-service sign up in your organization"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

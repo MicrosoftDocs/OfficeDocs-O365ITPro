@@ -1,5 +1,7 @@
 ---
 title: "Use your Office 365 promo code to reduce price"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

@@ -1,5 +1,7 @@
 ---
 title: "Convert a user mailbox to a shared mailbox"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -49,14 +51,16 @@ When you convert a user's mailbox to a shared mailbox, all of the existing email
 
 ::: moniker range="o365-worldwide"
 
-> [!NOTE]
-> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
-
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 2. Select the name of the user whose mailbox you want to convert.
 
-3. On the **Mail** tab, under **More actions**, select **Convert to shared mailbox**. 
+3. Reset the user's password.
+
+> [!NOTE]
+> It's not required to reset the user's password during mailbox conversion. However, if the password is not reset, **the original username and password continue to work** after the mailbox conversion is finished.
+
+4. On the **Mail** tab, under **More actions**, select **Convert to shared mailbox**. 
 
 ::: moniker-end
 

@@ -1,5 +1,7 @@
 ---
 title: "Change nameservers to set up Office 365 with 1&1 IONOS"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -38,11 +40,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 Follow the steps below or [watch the video (start at 0:42)](https://support.office.com/article/Video-Change-nameservers-to-set-up-Office-365-with-1-1-Internet-0ef1b3b5-d27a-4004-8ca1-fbe0453a0ea3?ui=en-US&amp;rs=en-US&amp;ad=US).
   
-1. To get started, go to your domains page at 1&1 IONOS by using [this link](https://account.1and1.com/?redirect_url=https%3A%2F%2Fmy.1and1.com%2F). You'll be prompted to log in. 
+1. To get started, go to your domains page at 1&1 IONOS via [this link](https://account.1and1.com/?redirect_url=https%3A%2F%2Fmy.1and1.com%2F). You'll be prompted to log in. 
     
 2. Under **MY DOMAINS**, select **Manage domains**.
     
-3. On the **Domain Center** page, find the domain that you want to update, and then select the **Panel** ( **v**) control for that domain.
+3. On the **Domain Center** page, find the domain that you want to update; then select the **Panel** ( **v**) control for that domain.
     
 4. In the **Domain Settings** area, select **Edit DNS Settings**.
     

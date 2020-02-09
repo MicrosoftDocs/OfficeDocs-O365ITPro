@@ -1,5 +1,7 @@
 ---
 title: "Create, edit, or delete a security group in the Microsoft 365 admin center"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv

@@ -1,5 +1,7 @@
 ---
 title: "Cortana integration with Office 365"
+f1.keywords:
+- CSH
 ms.author: kwekua
 author: kwekua
 manager: scotv
@@ -35,13 +37,9 @@ Cortana services are broken into two data categories, **compliant** and **option
 
 Cortana optional connected services can be turned off for employees at your organization. This will disable Cortana optional connected services in Cortana on Windows and the Cortana mobile app. This includes Cortana reminders, lists, tasks, and other features. Services in the compliant category (i.e., Cortana OST experiences), such as Cortana’s Briefing email, and Play My Emails in Outlook mobile, will remain active.
 
-1. In the Microsoft 365 admin center, select **Settings**.
+1. In the Microsoft 365 admin center, select **Settings** > **Settings** and select **Cortana**.
 
-2. Choose **Services & add-ins** and then **Cortana**.
-  
-3. Move the toggle to off on the accounts you want to disable.
-
-4. Select the checkbox for **Let people in your organization use Cortana**.
+4. Select the checkbox for **Allow Cortana optional connected experiences to use your organizations's Microsoft hosted data** to enable or disable Cortana connected experiences.
 
 5. Select **Save changes**.
 

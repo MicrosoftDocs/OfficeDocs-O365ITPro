@@ -1,5 +1,7 @@
 ---
 title: "Problems with your Office 365 for business product key?"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

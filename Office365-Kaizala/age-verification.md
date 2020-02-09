@@ -1,5 +1,7 @@
 ---
 title: Kaizala app age verification
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

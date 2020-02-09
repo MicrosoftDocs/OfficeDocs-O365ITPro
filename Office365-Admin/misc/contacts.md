@@ -1,5 +1,7 @@
 ---
 title: "Quick help Contacts"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv

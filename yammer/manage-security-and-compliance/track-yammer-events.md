@@ -1,5 +1,7 @@
 ---
 title: "Track Yammer events in the Office 365 audit log and with the Management Activity API"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

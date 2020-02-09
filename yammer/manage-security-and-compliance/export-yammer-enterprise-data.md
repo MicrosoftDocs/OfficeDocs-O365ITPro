@@ -1,5 +1,7 @@
 ---
 title: "Export data from Yammer Enterprise"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
@@ -27,6 +29,7 @@ As a verified admin, you can export Yammer Enterprise data to monitor usage and 
 |[Export Yammer network data by date range and network](export-yammer-enterprise-data.md#ExportNetworkData) <br/> |View and audit all network data for all users. You can specify a date range, and choose whether to include files and external network data.  <br/> |
 |[Export data for one user](export-yammer-enterprise-data.md#ExportOneUser) <br/> |Identify all data related to one user. You can use this export to identify data that needs to be deleted to comply with a GDPR data subject request.  <br/> |
 |[Set up automatic data exports](export-yammer-enterprise-data.md#Automatic) <br/> |Automate exports that need to be done on an ongoing basis for compliance by using the DataExport API .  <br/> |
+|[Export Yammer Files via API](export-yammer-files-data.md#ExportFiles) <br/> |Export Files stored in Yammer asyncrhonously. You can specficy a date range, and choose whether to include files from external networks. <br/> |
    
 > [!NOTE]
 > Exported data can't be used for migrating content between Yammer networks. For migration information, see [Network migration: Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md). 
@@ -170,6 +173,10 @@ To find and delete a specific file:
 
 
 To set up automatic recurring exports, use the Yammer API. For information about the Data Export API, go to [/export](https://go.microsoft.com/fwlink/?LinkID=534735) on the Yammer Developer Center. 
+
+<a name="ExportFiles"></a>
+## Export Yammer Files via API
+The Yammer Files Export API lets verified administrators archive and export files in Yammer storage in an asynchronous manner. This API is intended to be used when there is a significant volume of files to be exported from Yammer. For more information, please see [Yammer Files Export API](https://aka.ms/YammerFilesAPI).
   
 ## Related articles
 
@@ -184,4 +191,3 @@ To set up automatic recurring exports, use the Yammer API. For information about
 [Manage GDPR data subject requests in Yammer Enterprise](gdpr-requests-in-yammer-enterprise.md)
   
 [Manage Yammer data compliance](manage-data-compliance.md)
-
