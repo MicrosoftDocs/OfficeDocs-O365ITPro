@@ -1,5 +1,7 @@
 ---
 title: "Create a shared mailbox"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

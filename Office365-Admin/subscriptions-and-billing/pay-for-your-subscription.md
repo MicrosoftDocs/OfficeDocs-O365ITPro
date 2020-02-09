@@ -1,12 +1,12 @@
 ---
 title: "Pay for your Office 365 for business subscription"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'fwlink 808700 for SEPA UI glink 906 for older uI'
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection:
@@ -21,7 +21,9 @@ search.appverid:
 - BEA160
 ms.assetid: 734f4aab-df2d-4e9b-8cb1-691910bde216
 description: "Learn what payment options are available to pay for your Office 365 for business subscription."
-ms.custom: okr_SMB
+ms.custom: 
+- okr_SMB
+- fwlink 808700 for SEPA UI glink 906 for older uI
 ---
 
 # Pay for your Office 365 for business subscription

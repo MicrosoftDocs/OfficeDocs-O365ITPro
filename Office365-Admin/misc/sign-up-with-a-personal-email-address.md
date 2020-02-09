@@ -1,5 +1,7 @@
 ---
 title: "Signing up for Office 365 with a personal email address"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

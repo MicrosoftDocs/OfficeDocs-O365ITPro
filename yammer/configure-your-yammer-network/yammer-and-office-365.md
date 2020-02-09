@@ -1,5 +1,7 @@
 ---
 title: "About Yammer networks and Office 365 tenants"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

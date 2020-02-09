@@ -1,5 +1,7 @@
 ---
 title: "What Office 365 for business subscription do I have?"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

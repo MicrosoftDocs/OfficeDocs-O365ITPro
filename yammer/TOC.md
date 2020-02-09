@@ -19,6 +19,8 @@
 ### [Manage Yammer domains](configure-your-yammer-network/manage-yammer-domains.md)
 ### [Consolidate multiple Yammer networks](configure-your-yammer-network/consolidate-multiple-yammer-networks.md)
 ### [Overview of Native Mode](configure-your-yammer-network/overview-native-mode.md)
+### [Configure your Yammer network for Native Mode for Microsoft 365](configure-your-yammer-network/native-mode.md)
+### [Files in Native Mode](configure-your-yammer-network/files-in-native-mode.md)
 ### [FAQ: Consolidating multiple Yammer networks](configure-your-yammer-network/faq-consolidate-multiple-yammer-networks.md)
 ## Manage security and compliance
 ### [Security and compliance overview](manage-security-and-compliance/security-and-compliance.md)
@@ -29,6 +31,7 @@
 ### [GDPR requests: Yammer Basic](manage-security-and-compliance/gdpr-requests-in-yammer-basic.md)
 ### [Manage data compliance](manage-security-and-compliance/manage-data-compliance.md)
 ### [Monitor private content](manage-security-and-compliance/monitor-private-content.md)
+### [Overview of eDiscovery](manage-security-and-compliance/overview-of-ediscovery.md)
 ### [Set up a usage policy](manage-security-and-compliance/set-up-a-usage-policy.md)
 ### [Track Yammer events](manage-security-and-compliance/track-yammer-events.md)
 ### [Manage Yammer with Intune](manage-security-and-compliance/manage-yammer-with-intune.md)
@@ -56,6 +59,9 @@
 ### [Manage a Yammer group](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2)
 ### [Delete a Yammer group](https://support.office.com/article/f03ab85a-c1d9-4611-ab92-a3b46d747053)
 ### [Create a dynamic group](manage-yammer-groups/create-a-dynamic-group.md)
+### [Customize your network](manage-yammer-groups/customize-your-network.md)
+### [Customize your Yammer community](manage-yammer-groups/customize-your-yammer-community.md)
+### [Favorite communities](manage-yammer-groups/favorite-communities.md)
 ### [Office 365 groups naming policy](https://docs.microsoft.com/office365/admin/create-groups/groups-naming-policy)
 ### [Export members to CSV](https://support.office.com/article/201a78fd-67b8-42c3-9247-79e79f92b535)
 ## Live events in Yammer
@@ -63,6 +69,7 @@
 ### [Live event FAQ](https://support.office.com/article/43bbd59d-a734-4c8f-923d-6a239d137d34)
 ### [Drive engagement](https://support.office.com/article/c0244ad8-6dcb-419c-add9-2e4a00543412)
 ### [Organize a live event](https://support.office.com/article/105dd7af-9caf-4a5e-8a44-56d203e96551)
+### [Produce Yammer live events from your device [coming soon!]](manage-yammer-groups/yammer-produce-live-events-from-your-device-coming-soon.md)
 ### [Get help producing an event](https://support.office.com/article/0cedb557-cbe4-40d3-8147-112633f087eb)
 ## Monitor Yammer usage
 ### [Yammer activity report](https://docs.microsoft.com/office365/admin/activity-reports/yammer-activity-report)
@@ -79,6 +86,7 @@
 ### [Sentiment analysis using Flow and Azure Cognitive Services](integrate-yammer-with-other-apps/sentiment-analysis-flow-azure.md)
 ## Troubleshoot problems
 ### [Help users log in to Yammer on Android devices](troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices.md)
+### [Troubleshoot Native Mode](troubleshoot-problems/troubleshoot-native-mode.md)
 ### [Limited functionality in Explorer 10 document mode](troubleshoot-problems/limited-functionality-in-explorer-10-document-mode.md)
 ### [Upgrade your network to stand-alone Yammer](troubleshoot-problems/upgrade-your-network-to-stand-alone-yammer.md)
 ### [Can't migrate Yammer network across Office 365 tenants](troubleshoot-problems/cannot-migrate-a-yammer-network-across-office-365-tenants.md)

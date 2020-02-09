@@ -1,5 +1,7 @@
 ---
 title: "Audit Yammer users in networks connected to Office 365"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

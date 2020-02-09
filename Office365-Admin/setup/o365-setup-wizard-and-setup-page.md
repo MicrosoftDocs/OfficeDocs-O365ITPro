@@ -1,5 +1,7 @@
 ---
 title: "Difference between the Office 365 setup wizard and the Setup page"
+f1.keywords:
+- NOCSH
 ms.author: v-sharos
 author: shars
 manager: mnirkhe

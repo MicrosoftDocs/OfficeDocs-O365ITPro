@@ -1,5 +1,7 @@
 ---
 title: "Set up your domain (host-specific instructions)"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe

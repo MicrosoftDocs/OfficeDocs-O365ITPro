@@ -1,5 +1,7 @@
 ---
 title: "Find your Office 365 partner or reseller"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv

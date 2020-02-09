@@ -1,5 +1,7 @@
 ---
 title: "Add customized help desk info to the Office 365 help pane"
+f1.keywords:
+- CSH
 ms.author: twerner
 author: twernermsft
 manager: scotv
@@ -24,48 +26,32 @@ description: "Create custom help desk card in the admin center and add customize
 
 As an admin, you can streamline user support by adding customized contact information to the help pane. Users in need of help will be able to access your organization's custom support contact info with the help icon.
   
-> [!NOTE]
-> If you are an admin looking for technical or billing support from Microsoft, see [Contact Office 365 for business support](../contact-support-for-business-products.md). 
-  
-![Example of an organization's custom support contact info.](../media/5b03f91d-64da-4c55-8ccb-2fb6151cb424.png)
-  
-The help desk card consists of:
-  
-|||
-|:-----|:-----|
-||**A -** The title of the contact card, and at least one of the following:  <br/> |
-||**B -** The phone number for tech support in your organization. This link launches the user's preferred phone app.  <br/> |
-||**C -** The email address that users should use for tech support. This link opens the user's preferred email client.  <br/> |
-||**D -** A link to your tech support website.  <br/> |
-   
-## Create the custom help desk card
-<a name="ReallyDifferent"> </a>
+To create a custom help desk card, you must be a global admin for Office 365 and have a license to Exchange Online. Learn how to [assign licenses in Office 365 for business](../manage/assign-licenses-to-users.md).
 
 > [!NOTE]
-> To create a custom help desk card, you must be a global admin for Office 365 and have a license to Exchange Online. Learn how to [assign licenses in Office 365 for business](../manage/assign-licenses-to-users.md). 
+> If you are an admin looking for technical or billing support from Microsoft, see [Contact Office 365 for business support](../contact-support-for-business-products.md). 
+
   
 ### Create the custom help desk card in the admin center
 <a name="BKMK_HelpDeskPreview"> </a>
 
-1. In the admin center, go to the **Settings** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2067339" target="_blank">Organization profile</a> page.
+1. In the admin center, go to the **Settings** > **Settings** and choose **Help desk information** tab.
+    
+2. On the **Organization profile** tab, choose **Custom app launcher tiles**.
   
-4. Next to **Provide customized help desk contact info**, select **Edit**.
+3. Turn on the **Add your help desk contact information**.
     
-    ![Edit option next to 'Provide customized help desk contact info'](../media/19d5ebc2-6ff8-4a76-8b3b-4a500f633666.png)
-  
-5. Turn on the **Help desk card**.
+4. As an admin, you decide what kind of contact information you want to give users. The title and at least one form of contact information are required. Select what you want to display, and fill out the appropriate info.
     
-6. As an admin, you decide what kind of contact information you want to give users. The title and at least one form of contact information are required. Select what you want to display, and fill out the appropriate info.
+  - **Title**: Enter a title that clearly indicates your intent, like "Contoso help desk" or "Need help?"
     
-  - **Custom title**: Enter a title that clearly indicates your intent, like "Contoso help desk" or "Need help?"
+  - **Phone**: Enter the phone number users should call to talk to a tech support agent at your organization. Be sure to include any prefixes that may be needed to complete the call.
     
-  - **Help desk phone**: Enter the phone number users should call to talk to a tech support agent at your organization. Be sure to include any prefixes that may be needed to complete the call.
+  - **Email**: Enter the email address for your support department.
     
-  - **Help desk email**: Enter the email address for your support department.
+  - **URL**: If your support department has an internal or public website with helpful tools and resources, enter its name and the associated URL.
     
-  - **Help desk URL**: If your support department has an internal or public website with helpful tools and resources, enter its name and the associated URL.
-    
-7. Select **Save**.
+5. Select **Save changes**.
     
     To see your new customized help desk card, sign out and back in again. We recommend you test the links on the card as soon as you sign back in. Your users will be able to see the card the next time they sign in.
     

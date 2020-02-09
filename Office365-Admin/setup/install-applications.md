@@ -1,5 +1,7 @@
 ---
 title: "Install Office applications"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: scotv

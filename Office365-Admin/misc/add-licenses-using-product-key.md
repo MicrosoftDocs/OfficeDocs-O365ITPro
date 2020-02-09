@@ -1,5 +1,7 @@
 ---
 title: "Add licenses to or extend a subscription paid for using a product key"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

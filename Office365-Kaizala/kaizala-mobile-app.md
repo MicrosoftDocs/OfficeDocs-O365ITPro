@@ -1,5 +1,7 @@
 ---
 title: Kaizala mobile app
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

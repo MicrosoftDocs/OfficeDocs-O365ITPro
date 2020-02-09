@@ -1,5 +1,7 @@
 ---
 title: "Microsoft Productivity score"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv

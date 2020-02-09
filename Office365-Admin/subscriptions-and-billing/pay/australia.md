@@ -1,6 +1,8 @@
 ---
 title: Payment information for Australia
 author: cmcatee-MSFT
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 manager: mnirkhe
 audience: Admin

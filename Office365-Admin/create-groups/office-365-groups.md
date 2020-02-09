@@ -1,6 +1,8 @@
 ---
 title: "Overview of Office 365 Groups for administrators"
 ms.reviewer: arvaradh
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: MikePlumleyMSFT
 manager: pamgreen

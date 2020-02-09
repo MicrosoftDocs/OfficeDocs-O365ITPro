@@ -1,5 +1,7 @@
 ---
 title: Move existing groups to Kaizala 
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

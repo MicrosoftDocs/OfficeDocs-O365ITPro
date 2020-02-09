@@ -1,6 +1,8 @@
 ---
 title: Payment information for Bosnia and Herzegovina
 author: cmcatee-MSFT
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 manager: mnirkhe
 audience: Admin

@@ -1,5 +1,7 @@
 ---
 title: "Create and manage external groups in Yammer"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen

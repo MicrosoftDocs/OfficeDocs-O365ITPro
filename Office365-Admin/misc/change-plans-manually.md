@@ -1,5 +1,7 @@
 ---
 title: "Change Office 365 for business plans manually"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

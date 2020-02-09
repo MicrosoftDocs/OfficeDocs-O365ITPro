@@ -1,5 +1,7 @@
 ---
 title: Create large groups for discussions
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

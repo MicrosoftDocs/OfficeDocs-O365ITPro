@@ -1,5 +1,7 @@
 ---
 title: "Enter your product key for Office 365 Business Premium"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe

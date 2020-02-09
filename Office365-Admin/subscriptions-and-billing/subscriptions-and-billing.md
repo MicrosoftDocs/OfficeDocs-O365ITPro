@@ -1,14 +1,14 @@
 ---
 title: "Billing in Office 365 for business - Admin Help"
 description: Links for subscriptions and billing for Office 365 for business
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: landing-page
 layout: LandingPage
-f1_keywords:
-- 'aka.ms/office365Billing'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
@@ -22,7 +22,9 @@ search.appverid:
 - MBS150
 - BEA160
 ms.assetid: ea7bf1b2-1c2f-477f-a813-313e3ce0d896
-ms.custom: okr_SMB
+ms.custom: 
+- okr_SMB
+- aka.ms/office365Billing
 ---
 
 # Subscriptions and billing - Admin Help

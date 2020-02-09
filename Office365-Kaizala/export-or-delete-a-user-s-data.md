@@ -1,5 +1,7 @@
 ---
 title: Export or delete a user's organizational data in Kaizala
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars

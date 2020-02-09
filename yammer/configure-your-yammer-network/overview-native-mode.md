@@ -1,9 +1,11 @@
 ---
 title: "Overview of Native Mode for Microsoft 365"
+f1.keywords:
+- NOCSH
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/20/2019
+ms.date: 01/23/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -76,6 +78,12 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
 - Verified and Network Network Admins are not required to have any additional admin privileges from Microsoft 365 in order to administer changes to groups
 
 ## Related articles
+
+[Configure your Yammer network for Native Mode for Microsoft 365](native-mode.md)
+
+[Yammer files in Native Mode for Microsoft 365](files-in-native-mode.md)
+
+[Troubleshoot problems with Native Mode for Microsoft 365](../troubleshoot-problems/troubleshoot-native-mode.md)
 
 [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2111321)
 
