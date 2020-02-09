@@ -1,5 +1,5 @@
 ---
-title: "Office 365 Reports in the admin center - Office 365 groups"
+title: "Microsoft 365 Reports in the admin center - Microsoft 365 groups"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -17,32 +17,32 @@ search.appverid:
 - MOE150
 - GEA150
 ms.assetid: a27f1a99-3557-4f85-9560-a28e3d822a40
-description: "Get an Office 365 groups report to know about the groups and their activities."
+description: "Get an Microsoft 365 groups report to know about the groups and their activities."
 ---
 
-# Office 365 Reports in the admin center - Office 365 groups
+# Microsoft 365 Reports in the admin center - Microsoft 365 groups
 
-The Office 365 **Reports** dashboard shows you the activity overview across the products in your organization. It enables you to drill in to individual product level reports to give you more granular insight about the activities within each product. Check out [the Reports overview topic](activity-reports.md). In the Office 365 groups report, you can gain insights into the activity of groups in your organization and see how many groups are being created and used.
+The Microsoft 365 **Reports** dashboard shows you the activity overview across the products in your organization. It enables you to drill in to individual product level reports to give you more granular insight about the activities within each product. Check out [the Reports overview topic](activity-reports.md). In the Microsoft 365 groups report, you can gain insights into the activity of groups in your organization and see how many groups are being created and used.
   
 > [!NOTE]
-> You must be a global administrator, global reader or reports reader in Office 365 or an Exchange, SharePoint, or Skype for Business administrator to see reports. 
+> You must be a global administrator, global reader or reports reader in Microsoft 365 or an Exchange, SharePoint, or Skype for Business administrator to see reports. 
   
 ## How to get to the groups report
 
 1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page.
 
     
-2. From the **Select a report** drop-down, select **Office 365** \> **Groups activity**.
+2. From the **Select a report** drop-down, select **Microsoft 365** \> **Groups activity**.
   
 ## Interpret the groups report
 
 You can get a view into groups activity by looking at the **Groups**, **Activity**, **Files**, and **Storage** charts. 
   
-![Office 365 reports - groups activities](../media/852027a4-8eab-47d1-b770-2bb874bdc403.png)
+![Microsoft 365 reports - groups activities](../media/852027a4-8eab-47d1-b770-2bb874bdc403.png)
   
 |||
 |:-----|:-----|
-|1.  <br/> |The **Office 365 groups** report can be viewed for trends over the last 7 days, 30 days, 90 days, or 180 days. However, if you select a particular day in the report, the table (7) will show data for up to 28 days from the current date (not the date the report was generated).  <br/> |
+|1.  <br/> |The **Microsoft 365 groups** report can be viewed for trends over the last 7 days, 30 days, 90 days, or 180 days. However, if you select a particular day in the report, the table (7) will show data for up to 28 days from the current date (not the date the report was generated).  <br/> |
 |2.  <br/> |The data in each report usually covers up to the last 24 to 48 hours.  <br/> |
 |3.  <br/> |The **Groups** view shows a total number of groups that existed on any given day, and active groups on that day based on Email Conversations, Yammer Posts and SharePoint file activities and SharePoint pages viewed.  <br/> |
 |4.  <br/> |The **Activity** view shows you the number of group activities across group workloads. You can view the Exchange emails received by the group mailboxes across all groups, on any day during the reporting period. You can also see messages posted, read, and liked across the Yammer groups associated with a group. <br/> |

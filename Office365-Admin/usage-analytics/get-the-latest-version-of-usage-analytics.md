@@ -21,6 +21,6 @@ description: "Get the latest version of Microsoft 365 usage analytics."
 
 # Get the latest version of Microsoft 365 usage analytics
 
-The content pack may be refreshed with new data or new visualizations several times per year. Your existing instance will continue to work, but if you would like to get the latest version, a new instance must be created and any customizations must be applied to the new instance. See [Enable Microsoft 365 usage analytics](enable-usage-analytics.md). 
+The template app may be refreshed with new data or new visualizations several times per year. Your existing instance will continue to work, but if you would like to get the latest version, a new instance must be created and any customizations must be applied to the new instance. See [Enable Microsoft 365 usage analytics](enable-usage-analytics.md). 
   
 

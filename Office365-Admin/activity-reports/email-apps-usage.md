@@ -1,5 +1,5 @@
 ---
-title: "Office 365 Reports in the admin center - Email apps usage"
+title: "Microsoft 365 Reports in the admin center - Email apps usage"
 ms.author: kwekua
 author: kwekua
 manager: scotv
@@ -20,13 +20,13 @@ ms.assetid: c2ce12a2-934f-4dd4-ba65-49b02be4703d
 description: "Learn how to get Email apps usage report to know about email apps connecting to Exchange Online and the Outlook version users are using."
 ---
 
-# Office 365 Reports in the admin center - Email apps usage
+# Microsoft 365 Reports in the admin center - Email apps usage
 
-The Office 365 **Reports** dashboard shows you the activity overview across the products in your organization. It enables you to drill in to individual product level reports to give you more granular insight about the activities within each product. Check out [the Reports overview topic](activity-reports.md). In the email apps usage report, you can see how many email apps are connecting to Exchange Online. You can also see the version information of Outlook apps that users are using, which will allow you to follow up with those who are using unsupported versions to install supported versions of Outlook.
+The Microsoft 365 **Reports** dashboard shows you the activity overview across the products in your organization. It enables you to drill in to individual product level reports to give you more granular insight about the activities within each product. Check out [the Reports overview topic](activity-reports.md). In the email apps usage report, you can see how many email apps are connecting to Exchange Online. You can also see the version information of Outlook apps that users are using, which will allow you to follow up with those who are using unsupported versions to install supported versions of Outlook.
   
 > [!NOTE]
-> You must be a global administrator in Office 365 or an Exchange, SharePoint, Skype for Business administrator, or reports reader to see reports. 
-  
+> You must be a global administrator, global reader or reports reader in Microsoft 365 or an Exchange, SharePoint, or Skype for Business administrator to see reports. 
+ 
 ## How to get to the email apps report
 
 1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page.

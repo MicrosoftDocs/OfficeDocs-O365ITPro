@@ -21,7 +21,7 @@ description: "Learn how to start collecting data for your tenant by using the Mi
 
 # Enable Microsoft 365 usage analytics
 
-Microsoft 365 usage analytics is also available for Office 365 US Government Community.
+Microsoft 365 usage analytics is also available for Microsoft 365 US Government Community.
   
 ## Steps to enable Microsoft 365 usage analytics
 
