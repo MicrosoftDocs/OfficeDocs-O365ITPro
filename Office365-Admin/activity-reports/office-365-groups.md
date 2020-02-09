@@ -32,7 +32,7 @@ The Microsoft 365 **Reports** dashboard shows you the activity overview across t
 1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page.
 
     
-2. From the **Select a report** drop-down, select **Microsoft 365** \> **Groups activity**.
+2. From the **Select a report** drop-down, select **Office 365** \> **Groups activity**.
   
 ## Interpret the groups report
 

@@ -34,7 +34,7 @@ For example, you can get a high level view of email traffic within your organiza
 1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page.
 
     
-2. Select the **Email activity** widget on the Reports dashboard or choose from the **Select a report** drop-down. 
+2. From the **Select a report** drop-down, select **Exchange** \> **Email activity**.
   
 ## Interpret the email activity report
 
