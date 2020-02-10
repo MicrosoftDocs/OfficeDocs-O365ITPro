@@ -59,9 +59,7 @@
       "searchScope": [
         "Office 365 Admin"
       ],
-      "feedback_system": "GitHub",
-      "feedback_github_repo": "MicrosoftDocs/OfficeDocs-O365ITPro",
-      "feedback_product_url": "https://office365.uservoice.com/forums/273493-office-365-admin"
+      "feedback_system": "none",
     },
     "fileMetadata": {},
     "template": [],
