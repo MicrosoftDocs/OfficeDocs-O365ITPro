@@ -1,6 +1,12 @@
 {
 
-  "redirections": [
+  "redirections": [ 
+
+      {
+           "source_path": "Office365-Admin/misc/license-restrictions.md",
+           "redirect_url": " https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/subscriptions-and-billing",
+           "redirect_document_id": true
+      }, 
       {
         "source_path": "Office365-Kaizala/kaizala/reports.md",
         "redirect_url": "https://docs.microsoft.com/office365/kaizala/analytics",
