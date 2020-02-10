@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 9/23/2019
+ms.date: 01/28/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -111,7 +111,7 @@ A: Yammer's system requirements are consistent with those of Office 365. See the
 #### Mobile and desktop requirements
 <a name="bk_MobileDesktop"> </a>
 
-- iOS 11.0 and above
+- iOS 12.0 and above
     
 - Android v5.0 and higher
     
@@ -126,7 +126,7 @@ A: It depends on whether you configure your Yammer network to enforce Office 365
   
 - If you select the option to enforce Office 365 identity, all users must have a Yammer license through Office 365. For more information, see [Enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md).
     
-- If you do not choose to enforce Office 365 identity, users who are on the same email domain as your Yammer network but do not have Office 365 licenses can join the network by creating a Yammer account at http://www.yammer.com.
+- If you do not choose to enforce Office 365 identity, users who are on the same email domain as your Yammer network but do not have Office 365 licenses can join the network by creating a Yammer account at https://www.yammer.com.
     
     There are some differences in how you manage these users: their profile won't be automatically filled in, and you can't block them by removing their Yammer license. These users can be made admins, create groups, and use all basic Yammer features. If they are made admins, they have to get to the Yammer admin center by clicking the **Settings** icon in Yammer, and selecting **Network Admin**.
 

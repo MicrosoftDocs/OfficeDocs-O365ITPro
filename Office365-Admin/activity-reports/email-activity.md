@@ -1,7 +1,5 @@
 ---
-title: "Office 365 Reports in the admin center - Email activity"
-f1.keywords:
-- NOCSH
+title: "Microsoft 365 Reports in the admin center - Email activity"
 ms.author: kwekua
 author: kwekua
 manager: scotv
@@ -19,24 +17,24 @@ search.appverid:
 - MOE150
 - GEA150
 ms.assetid: 1cbe2c00-ca65-4fb9-9663-1bbfa58ebe44
-description: "Learn how to get an email activity report using the Office 365 Reports dashboard in the Microsoft 365 admin center."
+description: "Learn how to get an email activity report using the Microsoft 365 Reports dashboard in the Microsoft 365 admin center."
 ---
 
-# Office 365 Reports in the admin center - Email activity
+# Microsoft 365 Reports in the admin center - Email activity
 
-The Office 365 **Reports** dashboard shows you the activity overview across the products in your organization. It enables you to drill in to individual product level reports to give you more granular insight about the activities within each product. Check out [the Reports overview topic](activity-reports.md).
+The Microsoft 365 **Reports** dashboard shows you the activity overview across the products in your organization. It enables you to drill in to individual product level reports to give you more granular insight about the activities within each product. Check out [the Reports overview topic](activity-reports.md).
   
 For example, you can get a high level view of email traffic within your organization from the Reports page, and then you can drill into the Email activity widget to understand the trends and per user level details of the email activity within your organization.
   
 > [!NOTE]
-> You must be a global administrator in Office 365 or an Exchange, SharePoint, Skype for Business administrator, or Reports reader to see reports. 
-  
+> You must be a global administrator, global reader or reports reader in Microsoft 365 or an Exchange, SharePoint, or Skype for Business administrator to see reports. 
+
 ## How to get to the email activity report
 
 1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page.
 
     
-2. Select the **Email activity** widget on the Reports dashboard or choose from the **Select a report** drop-down. 
+2. From the **Select a report** drop-down, select **Exchange** \> **Email activity**.
   
 ## Interpret the email activity report
 

@@ -1,7 +1,5 @@
 ---
-title: "Office 365 Reports in the admin center - Active Users"
-f1.keywords:
-- NOCSH
+title: "Microsoft 365 Reports in the admin center - Active Users"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -19,18 +17,18 @@ search.appverid:
 - MOE150
 - GEA150
 ms.assetid: fc1cf1d0-cd84-43fd-adb7-a4c4dfa8112d
-description: "Learn how to get an Active Users report using the Office 365 Reports dashboard in the Microsoft 365 admin center and find out how many product licenses are being used."
+description: "Learn how to get an Active Users report using the Microsoft 365 Reports dashboard in the Microsoft 365 admin center and find out how many product licenses are being used."
 ---
 
-# Office 365 Reports in the admin center - Active Users
+# Microsoft 365 Reports in the admin center - Active Users
 
-The Office 365 **Reports** dashboard shows you the activity overview across the products in your organization. It enables you to drill in to individual product level reports to give you more granular insight about the activities within each product. Check out [the Reports overview topic](activity-reports.md).
+The Microsoft 365 **Reports** dashboard shows you the activity overview across the products in your organization. It enables you to drill in to individual product level reports to give you more granular insight about the activities within each product. Check out [the Reports overview topic](activity-reports.md).
   
 For example, you can use the **Active Users** report to find out how many product licenses are being used by individuals in your organization, and drill down for information about which users are using what products. This report can help administrators identify underutilized products or users that might need additional training or information. 
   
 > [!NOTE]
-> You must be a global administrator in Microsoft 365 or an Exchange, SharePoint, Skype for Business administrator, or reports reader to see reports. 
-  
+> You must be a global administrator, global reader or reports reader in Microsoft 365 or an Exchange, SharePoint, or Skype for Business administrator to see reports. 
+
 ## How to get to the Active Users report
 
 1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page.

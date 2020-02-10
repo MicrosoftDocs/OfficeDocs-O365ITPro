@@ -31,7 +31,7 @@ As the Office 365 administrator, you manage Yammer domains in Office 365 from th
 
 ## Initial setup for your primary Yammer domain
 
-Once your domain is set up in Office 365, your Yammer network is automatically created. Your Yammer primary domain is based on the first custom domain name added to Office 365. So if your custom domain is contoso.com, you can access your Yammer network at [http://www.yammer.com/contoso.com](http://www.yammer.com/contoso.com). If you do not have a custom domain name in Office 365, your Yammer network will be created using your .onmicrosoft.com domain.
+Once your domain is set up in Office 365, your Yammer network is automatically created. Your Yammer primary domain is based on the first custom domain name added to Office 365. So if your custom domain is contoso.com, you can access your Yammer network at [https://www.yammer.com/contoso.com](https://www.yammer.com/contoso.com). If you do not have a custom domain name in Office 365, your Yammer network will be created using your .onmicrosoft.com domain.
 
 ## Add an additional domain to Yammer
 

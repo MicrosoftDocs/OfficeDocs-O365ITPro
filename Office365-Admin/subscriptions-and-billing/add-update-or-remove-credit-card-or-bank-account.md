@@ -8,7 +8,7 @@ manager: mnirkhe
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
@@ -72,6 +72,9 @@ You can change the payment method that is used to pay for a single subscription.
 2. Next to the payment method you want to change, select the **More** menu (three dots), and then select **Change subscriptions**.
 3. The **Change payment method** pane lists existing subscriptions that use that payment method.
 4. From the **Select payment method** drop-down, select a different payment method, then select **Save**.
+
+> [!NOTE]
+> You can only change between existing payment methods in the **Change payment method** pane. If you want to change to pay by invoice, see [Change from credit card or bank account to invoice](change-payment-method.md#change-from-credit-card-or-bank-account-to-invoice).
 
 ## Remove a payment method
 

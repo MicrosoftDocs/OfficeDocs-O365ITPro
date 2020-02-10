@@ -7,10 +7,8 @@ author: janellem
 manager: eliree
 audience: Admin
 ms.topic: troubleshooting
-f1_keywords:
-- 'fwlink 824861; CampaignID O365_Comm_SR_UpgradeOffice'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection:
 - Adm_O365
 - Adm_TOC
@@ -18,6 +16,8 @@ search.appverid:
 - BCS160
 - MET150
 - MOE150
+ms.custom:
+- fwlink 824861; CampaignID O365_Comm_SR_UpgradeOffice
 ms.assetid: f6b00895-b5fd-4af6-a656-b7788ea20cbb
 description: "Learn how to upgrade your users to the latest Office client."
 ---
