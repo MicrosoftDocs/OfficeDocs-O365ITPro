@@ -66,6 +66,8 @@ People who have the following permissions:
 - SharePoint admins
     
 - Skype for Business admins
+
+- Global reader
     
 - Reports reader
     
