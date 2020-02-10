@@ -1,5 +1,7 @@
 ---
 title: "Apply for a Fapiao for Office 365 operated by 21Vianet"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,10 +12,8 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_NonTOC
+- commerce
 search.appverid:
 - MET150
 - GEA150
@@ -36,7 +36,7 @@ There are two ways to apply for a Fapiao:
     
     Or
     
-2. You can apply for a Fapiao from the <a href="https://portal.partner.microsoftonline.cn" target="_blank">Admin center</a>.
+2. You can apply for a Fapiao from the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>.
     
     ![The Bills page in the Microsoft 365 admin center.](../media/a6e3b953-abd4-46aa-a910-08c517915a21.png)
   
@@ -47,34 +47,34 @@ There are two ways to apply for a Fapiao:
   
 1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=837466" target="_blank">21Vianet Fapiao information management system</a>.
     
-2. In the registration form, enter your order number, email address, and password, then choose **Registration**.
+2. In the registration form, enter your order number, email address, and password, then select **Registration**.
     
     ![The 21Vianet Fapioa management system registration page.](../media/60d39184-95b2-4ea4-a8a2-3e11763bec87.png)
   
-3. After your registration is complete, the system will send an activation email message to your email address. Open the email message and click the link to activate your account.
+3. After your registration is complete, the system will send an activation email message to your email address. Open the email message and select the link to activate your account.
     
 ## Step 3: Submit your bill for a Fapiao
 
 1. Log in to the <a href="https://go.microsoft.com/fwlink/p/?linkid=837465" target="_blank">Fapiao management system</a>.
     
-2. Select the billing record, then choose **Apply bill**.
+2. Select the billing record, then select **Apply bill**.
     
     > [!NOTE]
     > The payment system is on a third-party platform and takes three days to synchronize the order and payment record. 
   
     ![The Fapiao management system page that displays recent orders.](../media/b319767d-1d10-4cb4-b270-c5fbcee1368e.png)
   
-3. Select the Fapiao type, enter the required information, then choose **Next**.
+3. Select the Fapiao type, enter the required information, then select **Next**.
     
     ![The Fapiao request form where you select the Fapiao type.](../media/56fe3db1-c20f-4082-a39d-02d7ac41fec8.png)
   
     > [!NOTE]
     > - For a normal VAT Fapiao, you only need to enter the buyer's name.
-    > - If necessary, you can apply for a Fapiao with different a title. However, you can only apply one Fapiao title for one bill in the system. If you want to split the Fapiao into different amounts or titles, please <a href="https://portal.partner.microsoftonline.cn/Support/SupportOverview.aspx" target="_blank">submit your request in the Admin center</a>.
+    > - If necessary, you can apply for a Fapiao with different a title. However, you can only apply one Fapiao title for one bill in the system. If you want to split the Fapiao into different amounts or titles, please <a href="https://portal.partner.microsoftonline.cn/Support/SupportOverview.aspx" target="_blank">submit your request in the admin center</a>.
     > - The next time you apply for a Fapiao, the system automatically presents the previous Fapiao information.
     > - If you need a purchase certificate or a refund, the payer name and the Fapiao title must match.
     
-4. Select a shipping method and enter the mailing information. You can choose Yunda or SF (freight collect). You can also go to the 21Vianet Shanghai branch to get the Fapiao. Choose **Next**.
+4. Select a shipping method and enter the mailing information. You can choose Yunda or SF (freight collect). You can also go to the 21Vianet Shanghai branch to get the Fapiao. select **Next**.
     
     ![The Fapiao request form showing mailing information.](../media/bba500b4-a51d-477b-81a7-9113b08d39f1.png)
   
@@ -86,7 +86,7 @@ There are two ways to apply for a Fapiao:
 
     Zhu qin qin 021-28986102
    
-5. Verify that the information is correct, then choose **Confirm**.
+5. Verify that the information is correct, then select **Confirm**.
     
     ![The confirmation page of the Fapiao request form.](../media/18706d9d-defc-4285-8fd3-990448b44a18.png)
   
@@ -108,13 +108,13 @@ When Fapiao is out of use, the system will display a notice, and will indicate t
 
 You can check the progress of your Fapiao request, and find out why you haven't received the Fapiao.
   
-If you want to change the Fapiao title, please send the Fapiao back to us and we will reissue the Fapiao. You can submit the request through the <a href="https://portal.partner.microsoftonline.cn/Support/SupportOverview.aspx" target="_blank">Admin center</a>.
+If you want to change the Fapiao title, please send the Fapiao back to us and we will reissue the Fapiao. You can submit the request through the <a href="https://portal.partner.microsoftonline.cn/Support/SupportOverview.aspx" target="_blank">admin center</a>.
   
-![The Microsoft 365 admin center support form used to send a Fapiao back to request a title change.](../media/2a413e9e-f30b-4f26-adbf-6287cc217a0f.png)
+![The admin center support form used to send a Fapiao back to request a title change.](../media/2a413e9e-f30b-4f26-adbf-6287cc217a0f.png)
   
 ### How do I change my login email address and password?
 
-1. Log in to the <a href="https://go.microsoft.com/fwlink/p/?linkid=837465" target="_blank">Fapiao management system</a>, then choose **Change email address**.
+1. Log in to the <a href="https://go.microsoft.com/fwlink/p/?linkid=837465" target="_blank">Fapiao management system</a>, then select **Change email address**.
     
     ![The drop-down menu after a user has logged in to the 21Vianet Fapiao management system.](../media/ee6de24b-6be2-41e6-8aec-e0c3cb0ea35e.png)
   
@@ -126,13 +126,10 @@ If you want to change the Fapiao title, please send the Fapiao back to us and we
     
 ### How do I find my order ID?
 
-1. Log in to <a href="https://portal.partner.microsoftonline.cn" target="_blank">https://portal.partner.microsoftonline.cn</a>.
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=850627), go to the **Billing** \> **Bills & payments** page.
     
-2. Choose **Billing** \> **Bills**.
-    
-3. Choose the month of the invoice you want, then choose **View**. The order ID is displayed.
-    
-    ![The Bills page in the Microsoft 365 admin center.](../media/78ceda62-c72a-4516-b251-736b568ec6a3.png)
+2. Find the invoice you want, select to view, or choose to download the PDF.
+
   
 ### What if I enter the wrong email address when I register?
 
@@ -140,7 +137,7 @@ If you enter the wrong email address when you register, you won't receive the ac
   
 ### What if I don't receive an activation email?
 
-If you don't receive an account activation email within 24 hours after you register, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=837466" target="_blank">21Vianet Fapiao information management system</a>, enter your email address, then choose **Resend the activation email**. The system will resend the account activation email to your registered email address.
+If you don't receive an account activation email within 24 hours after you register, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=837466" target="_blank">21Vianet Fapiao information management system</a>, enter your email address, then select **Resend the activation email**. The system will resend the account activation email to your registered email address.
   
 ![The 21Vianet Fapioa management system registration page.](../media/60d39184-95b2-4ea4-a8a2-3e11763bec87.png)
   

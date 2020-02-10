@@ -1,5 +1,7 @@
 ---
 title: Kaizala management portal
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
@@ -47,7 +49,7 @@ The following users can use the Kaizala management portal:
 |[Kaizala Users](add-users.md)   |Add and manage Kaizala users. |
 |[Organization Groups](settings.md) |Connect Kaizala groups to your organization to view reports and manage resources. |
 |[Broadcast Groups](groups-in-kaizala.md)  |Connect with a large set of subscribers to send and receive information.  |
-|[Kaizala Reports](reports.md)  |View reports on Kaizala Actions.  |
+|[Kaizala Reports](action-reports.md)  |View reports on Kaizala Actions.  |
 |[Kaizala Actions](actions.md)  |Create new Kaizala Actions.  |
 |[Kaizala Connectors](connectors.md) |Integrate other applications with Kaizala by using REST APIs. |
    

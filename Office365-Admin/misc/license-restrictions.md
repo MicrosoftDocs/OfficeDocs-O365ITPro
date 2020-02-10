@@ -1,24 +1,19 @@
 ---
 title: "License restrictions for Office 365"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: overview
-f1_keywords:
-- 'O365P_LicenseRestrictions'
-- 'O365M_LicenseRestrictions'
-- 'O365E_LicenseRestrictions'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
-- M365-subscription-management
+- M365-subscription-management 
 - Adm_O365
-- Adm_UI_Elements
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_NonTOC
+- commerce
 search.appverid:
 - BCS160
 - MET150

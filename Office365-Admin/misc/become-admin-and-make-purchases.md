@@ -1,21 +1,19 @@
 ---
 title: "Become the admin and purchase Office 365 for your organization"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 2/14/2018
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365E_BecomeAdmin_FL544797'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
- - Adm_UI_Elements
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_O365
+- Adm_NonTOC
 search.appverid:
 - MET150
 - MOE150
@@ -59,7 +57,7 @@ A wizard guides you through the process, but here's a summary of each step.
 |||
 |:-----|:-----|
 |![Number one in a pink circle](../media/a4da261d-2516-48c5-b58a-9c452b9086b8.png)|**Sign up** Before you can become the admin, you must already be signed up for Skype Meetings with your work email address.  <br/> |
-|![Number two in a pink circle.](../media/de3c1ab4-4f01-4026-b1ba-3265bdb32a89.png)|**Run the wizard** After you've signed up, run the wizard by doing one of the following:  <br/>  Run the **Become the admin** wizard that appears after clicking **Admin** in the app launcher .  <br/>  OR  <br/>  Click the option to **Upgrade to Office 365** in Skype Meetings, and then choose the Office 365 subscription you want to upgrade to.  <br/> |
+|![Number two in a pink circle.](../media/de3c1ab4-4f01-4026-b1ba-3265bdb32a89.png)|**Run the wizard** After you've signed up, run the wizard by doing one of the following:  <br/>  Run the **Become the admin** wizard that appears after selecting **Admin** in the app launcher .  <br/>  OR  <br/>  Choose to **Upgrade to Office 365** in Skype Meetings, and then select the Office 365 subscription you want to upgrade to.  <br/> |
 |![Number three in a pink circle.](../media/60fa378c-6ac1-4cbd-a782-2fa7ca619dc6.png)|**Verify domain ownership** Next, you'll verify to Office 365 that you own or manage the domain name (like contoso.com) that's associated with your organization's email addresses. Only the owner of the domain name has the authority to do this.  <br/> |
 |![Number 4 in a pink circle.](../media/1a0ff2ce-0942-405a-94e3-9bfeb1e5059e.png)|**Buy licenses** In the last step in the wizard, you'll buy Office 365 licenses for each person within your organization who's signed up for Skype Meetings with their work email.  <br/> For example, if two users have signed up for Skype Meetings with their work email, you'll need to buy two licenses—one for each of them.  <br/> > [!NOTE]> You can't manage Office 365 until after you've bought the licenses.           |
    
@@ -77,11 +75,11 @@ The Office 365 subscription that your organization is upgraded to depends on whi
    
 ## What's next?
 
-Now that you're the Office 365 administrator, you may want to do the following:
+Now that you're the admin, you may want to do the following:
   
 |****Task****|****Details****|
 |:-----|:-----|
-|Add or remove licenses  <br/> |You can [add more licenses](../subscriptions-and-billing/buy-licenses.md) for users who aren't using Office 365 yet, or [remove licenses from users](../subscriptions-and-billing/remove-licenses-from-users.md) that you don't want using your organization's Office 365 subscription.  <br/> |
+|Add or remove licenses  <br/> |You can [add more licenses](../subscriptions-and-billing/buy-licenses.md) for users who aren't using Office 365 yet, or [remove licenses from users](../manage/remove-licenses-from-users.md) that you don't want using your organization's Office 365 subscription.  <br/> |
 |Contact others who already signed up  <br/> |Reach out to the other users and let them know that you're managing their Office 365 subscription and that they've been upgraded. [Follow these steps](../add-users/add-users.md) to see a list of **Active Users** and their email addresses.  <br/> |
 |Start using Office 365  <br/> |Visit the [Office 365 Learning Center](https://support.office.com/learn/office365-for-business) and learn how to sign in, check email, share documents, and more. You and your users can use this site to get started with Office 365.  <br/> |
 |Manage your Office 365 subscription  <br/> |Visit [Office 365 Admin help center](../admin-home.md) and learn common administrative tasks like adding and removing users, resetting passwords, and setting up mobile devices.  <br/> |

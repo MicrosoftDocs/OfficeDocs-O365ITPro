@@ -1,5 +1,7 @@
 ---
 title: "Enter your Office 365 for business product key purchased from Microsoft Open"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,10 +12,8 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_NonTOC
+- commerce
 search.appverid:
 - BCS160
 - MET150

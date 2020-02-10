@@ -1,15 +1,18 @@
 ---
 title: "Include a Yammer feed in a SharePoint page"
-ms.author: v-irpast
-author: IrenePasternack
+f1.keywords:
+- NOCSH
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
-ms.date: 12/15/2018
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 ms.prod: office-online-server
 localization_priority: Normal
 ms.service: yammer
 ms.custom: Adm_Yammer
+ms.collection: SPO_Content
 search.appverid:
 - MET150
 - MOE150
@@ -34,12 +37,13 @@ To include a Yammer feed in a SharePoint page, your organization should have an 
 Yammer does not have to be the social collaboration tool for SharePoint in order to embed a Yammer feed, but if you want to make Yammer the primary social experience for SharePoint, see [Integrate Yammer with on-premises SharePoint environments](https://go.microsoft.com/fwlink/?LinkID=524180).
 
 ## Add a Yammer feed to a page in SharePoint Online
+
+>[!NOTE]
+> The Yammer Conversations and Highlights web parts only work when the SharePoint site uses the original domain name, for example contoso.onmicrosoft.com, and are not supported when the SharePoint site uses a vanity domain name.
+
 For instructions for how to use the Yammer Conversations or Yammer Highlights web part, see [Use a Yammer web part in a SharePoint Online page](https://support.office.com/article/a53cfa0c-3d09-42c8-a286-1038a81c59da). 
 
 These web parts inherit the page theme, and are usable from mobile devices. 
-
->[!NOTE] 
-> The SharePoint Conversations web part is currently in [Targeted Release](https://docs.microsoft.com/en-us/office365/admin/manage/release-options-in-office-365?view=o365-worldwide), and may not yet be available for your organization.
 
 ## Add a Yammer feed to a modern page in SharePoint Server 2019
 
@@ -128,7 +132,7 @@ The following procedures describe how to add a group feed, my feed, or page feed
            container: "#embedded-feed", 
            network: "contoso.com", 
            feedType: "open-graph", 
-           objectProperties: { url: "http://www.contoso.com/sample_page" , type: "page" } }); 
+           objectProperties: { url: "https://www.contoso.com/sample_page" , type: "page" } }); 
   </script>
   
   ```

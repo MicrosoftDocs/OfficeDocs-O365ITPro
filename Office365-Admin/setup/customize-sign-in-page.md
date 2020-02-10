@@ -1,5 +1,7 @@
 ---
 title: "Add your company branding to Office 365 Sign In page"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -10,11 +12,7 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_TOC
 search.appverid:
 - BCS160
 - MET150
@@ -33,7 +31,7 @@ If you have a paid subscription to Office 365, Microsoft Dynamics CRM Online, En
   
 The following figure shows which parts of the sign-in page can be modified in Azure.
   
-![Areas of the Office 365  sign-in page you can customize.](../media/screenshotbranding.png)
+![Areas of the Office 365 sign-in page you can customize.](../media/screenshotbranding.png)
   
 1. The large illustration and/or its background color
     
@@ -44,5 +42,3 @@ The following figure shows which parts of the sign-in page can be modified in Az
 In addition to the sign-in page, you can customize the Access Panel page in Azure.
   
 If you are ready to add branding, explore the customization options in the Azure content set: [Add company branding to your Sign-in and Access Panel pages](https://go.microsoft.com/fwlink/p/?LinkId=620077).
-  
-

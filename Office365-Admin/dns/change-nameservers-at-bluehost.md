@@ -1,28 +1,19 @@
 ---
 title: "Change nameservers to set up Office 365 with Bluehost"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_DOM_Bluehost1'
-- 'O365M_DOM_Bluehost1'
-- 'O365E_DOM_Bluehost1'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_O365_Domain_Registrars
+- Adm_NonTOC
 - Adm_O365_Setup
-- Adm_UI_Elements
-ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Adm_O365_Setup
-- Core_O365Admin_Migration
-- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -50,11 +41,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (You may have to scroll down.) 
     
-3. In the **domain_name** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
+3. In the **domain_name** area, on the **DNS Zone Editor** row, select **Manage DNS records**.
     
 4. On the **DNS Zone Editor** page, in the Add DNS Record area, in the boxes for the new record, type or copy and paste the values from the following table. 
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -62,7 +53,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 |@  <br/> |14400  <br/> |TXT  <br/> |MS=ms *XXXXXXXX* <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md) <br/> |
 
    
-5. Choose **add record**.
+5. Select **add record**.
     
 6. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
@@ -70,13 +61,14 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. In the Microsoft 365 admin center, choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
@@ -93,11 +85,11 @@ To complete setting up your domain with Office 365, you change your domain's NS 
   
 1. To get started, go to your domains page at Bluehost by using [this link](https://my.bluehost.com/cgi/dm). You'll be prompted to log in first.
     
-2. On the **domains** page, in the **domain_name** area, select the checkbox for your domain, and then choose **name servers**.
+2. On the **domains** page, in the **domain_name** area, select the checkbox for your domain, and then select **name servers**.
     
     ![Bluehost-BP-Redelegate-1-1](../media/8f384386-197c-4272-9675-82037922dac4.png)
   
-3. In the **domain_name** area, choose **Use Custom Nameservers**.
+3. In the **domain_name** area, select **Use Custom Nameservers**.
     
     ![Bluehost-BP-Redelegate-1-2](../media/9fb47d21-c4ce-4eee-af90-c9569870a329.png)
   
@@ -118,7 +110,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
    
    ![Bluehost-BP-Redelegate-1-3-1](../media/07b13d6d-a34e-45b5-afd5-48ebd4c1344f.png)
   
-2. Choose **Add Row**.
+2. Select **Add Row**.
     
     ![Bluehost-BP-Redelegate-1-3-2](../media/db34b632-1d10-44b7-aa1f-44bd27bf09e3.png)
   
@@ -131,9 +123,9 @@ To complete setting up your domain with Office 365, you change your domain's NS 
    
     ![Bluehost-BP-Redelegate-1-3-3](../media/480b32bb-af27-40a5-90c5-5617ed02bb41.png)
   
-4. To add the fourth Nameserver record, choose **Add Row** again, and create a record using the values from the last row of the above table. 
+4. To add the fourth Nameserver record, select **Add Row** again, and create a record using the values from the last row of the above table. 
     
-5. Choose **save nameserver settings**.
+5. Select **save nameserver settings**.
     
     ![Bluehost-BP-Redelegate-1-4](../media/b24a4cfd-924b-4b6d-ad3d-2dea148fc77f.png)
   
@@ -158,7 +150,7 @@ To complete setting up your domain with Office 365, you change your domain's NS 
    
    ![Bluehost-BP-Redelegate-1-3](../media/1523debf-5eb0-4765-8e05-bcd56e375c20.png)
   
-3. Choose **Add Row**.
+3. Select **Add Row**.
     
     ![Bluehost-BP-Redelegate-1-3-2](../media/db34b632-1d10-44b7-aa1f-44bd27bf09e3.png)
   
@@ -171,9 +163,9 @@ To complete setting up your domain with Office 365, you change your domain's NS 
    
    ![Bluehost-BP-Redelegate-1-3-3](../media/480b32bb-af27-40a5-90c5-5617ed02bb41.png)
   
-5. To add the fourth Nameserver record, choose **Add Row** again, and create a record using the values from the last row of the above table. 
+5. To add the fourth Nameserver record, select **Add Row** again, and create a record using the values from the last row of the above table. 
     
-6. Choose **save nameserver settings**.
+6. Select **save nameserver settings**.
     
     ![Bluehost-BP-Redelegate-1-4](../media/b24a4cfd-924b-4b6d-ad3d-2dea148fc77f.png)
   

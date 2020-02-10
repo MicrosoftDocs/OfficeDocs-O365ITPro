@@ -1,27 +1,18 @@
 ---
 title: "Create, edit, or delete a security group in the Microsoft 365 admin center"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_mdmsetupwhatissg'
-- 'O365P_ESSecurityGroupSPO'
-- 'O365M_mdmsetupwhatissg'
-- 'O365M_ESSecurityGroupSPO'
-- 'O365M_CreateSecurityGroup'
-- 'O365E_mdmsetupwhatissg'
-- 'O365E_ESSecurityGroupSPO'
-- 'O365E_CreateSecurityGroup'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
- - Adm_UI_Elements
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_O365
+- Adm_TOC
 search.appverid:
 - BCS160
 - MET150
@@ -30,7 +21,7 @@ ms.assetid: 55c96b32-e086-4c9e-948b-a018b44510cb
 description: "Learn to create, edit,or delete a security group."
 ---
 
-# Create, edit, or delete a security group in the admin center
+# Create, edit, or delete a security group in the Microsoft 365 admin center
 
 On the Office 365 **Groups** page, you can create groups of user accounts that you can use to assign the same permissions to in SharePoint Online and CRM Online. For example, an administrator can create a security group to grant a certain group of people access to a SharePoint site. Only global and user management administrators have permissions to create, edit, or delete security groups; for more information about administrator roles, see [Assigning admin roles](../add-users/assign-admin-roles.md). 
   
@@ -43,60 +34,103 @@ There are also [Groups in Exchange Online and SharePoint Online](#groups-in-exch
 
 ### Add a security group
 
-1. Navigate to **Groups** \> **Groups**.
-    
-    > [!TIP]
-    > You can also enter text similar to add security group into the Tell me what you want to do ... search box and the **New Group** dialog will open if you choose **Add a group** from the Tasks list. 
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
   
-    ![In the admin center preview choose Groups and then Groups](../media/bb083666-22f7-41c1-b9d8-2b4a878118c4.png)
+2. On the **Groups** page, select **Add a group**.
+    
+3. On the **Choose a group type** page, choose **Security**. 
+    
+4. Follow the steps to complete creation of the group. 
+ 
+### Add members to a security group
+
+::: moniker range="o365-worldwide"
+
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+    
+1. Select the security group name on the **Groups** page, and on the **Members** tab, select **View all and manage members**. 
+    
+2. In the group pane, select **Add members** and choose the person from the list or type the name of the person you want to add in the **Search** box, and then select **Save**.
+    
+    To remove members, select the X next to their name. 
   
-2. On the **Groups** page, choose **Add a group**.
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. Select the security group name on the **Groups** page, and then select **Edit** next to **Members**. 
     
-3. In the **Type** drop-down, choose Security group 
+2. In the group pane, select **Add members** and choose the person from the list or type the name of the person you want to add in the **Search** box, and then select **Save**.
     
-4. Type a name and description for the group, and then choose **Add** \> **Close**. 
+    To remove members, select the X next to their name. 
+  
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+
+1. Select the security group name on the **Groups** page, and then select **Edit** next to **Members**. 
     
-5. To add members, select the Security group on the **Groups** page and choose **Edit members** on the **Bulk actions for groups selected** dialog. 
+2. In the group pane, select **Add members** and choose the person from the list or type the name of the person you want to add in the **Search** box, and then select **Save**.
     
-    Type the name of the person you want to add in the **Search** box and then choose **Add**.
-    
-    To remove members choose **Remove** next to their name. 
-    
+    To remove members, select the X next to their name.
+
+::: moniker-end
+
 ### Edit a security group
 
-1. Navigate to **Groups** \> **Groups**.
-    
-    > [!TIP]
-    > You can also enter text similar to add security group into the Tell me what you want to do ... search box and the **New Group** dialog will open if you choose **Add a group** from the Tasks list. 
+::: moniker range="o365-worldwide"
+
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
   
-    ![In the admin center choose Groups](../media/bb083666-22f7-41c1-b9d8-2b4a878118c4.png)
+2. On the **Groups** page, select the group's name. 
+    
+3. In the settings pane, select the **General** tab or the **Members** tab to edit either group details or members.
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
   
-2. On the **Groups** page, select a group, or select multiple groups by selecting the check box next to the Group names. 
+2. On the **Groups** page, select the group's name. 
     
-3. Choose **Edit** in the **Security group** dialog to edit either **Members** or **Details**.
+3. In the security group pane, select **Edit** next to either **Name** or **Members** tab to edit either group details or members.
     
-    You can edit the security group name and description in the **Details**.
+4. After you've made changes, select **Save** \> **Close**.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
+  
+2. On the **Groups** page, select the group's name. 
     
-4. After you've made changes on the **Details** or **Members** pages, choose **Save and close**.
+3. In the security group pane, select **Edit** next to either **Name** or **Members** tab to edit either group details or members.
     
+4. After you've made changes, select **Save** \> **Close**.
+
+::: moniker-end
+
+
 ### Delete a security group
 
-1. Navigate to **Groups** \> **Groups**.
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
-    > [!TIP]
-    > You can also enter text similar to add security group into the **Tell me what you want to do ...** search box and the **New Group** dialog will open if you choose **Add a group** from the Tasks list. 
-  
-    ![In the admin center choose Groups](../media/bb083666-22f7-41c1-b9d8-2b4a878118c4.png)
-  
-2. On the **Groups** page, select a group by clicking on its name. 
+2. On the **Groups** page, select the group's name. 
     
-3. In the **Security group** dialog, choose **Delete group** \> **Delete**.
+3. Select **Delete group** (wasetbin icon), and then confirm by selecting **Delete**.
     
-    Choose **Close** once the group is deleted. 
+    Select **Close** once the group is deleted. 
     
 ## Groups in Exchange Online and SharePoint Online
 
-If you want to create groups of users so you can send email to them all at the same time, you can do that in the Exchange admin center by clicking **Admin** \> **Exchange** \> **Recipients** \> **Groups**. Next, click **New**![Add](../media/328ffb57-5f31-430a-b653-4a6b8e76d338.png), and select the kind of group you want to create: 
+If you want to create groups of users so you can send email to them all at the same time, you can do that in the Exchange admin center by going to **Admin** \> **Exchange** \> **Recipients** \> **Groups**. Next, select **New**![Add](../media/328ffb57-5f31-430a-b653-4a6b8e76d338.png), and select the kind of group you want to create: 
   
 - **Distribution group**: Used to distribute messages to a group of users. It's also called a  *mail-enabled distribution group*, or, in Office 365, a  *distribution list*. For more information, see [Manage distribution groups](https://technet.microsoft.com/library/bb124513.aspx).
     
@@ -120,4 +154,3 @@ No. This is just one more way you can manage security for your organization. You
 
 Yes. But if you want to use groups for email and collaboration, we recommend that you [create an Office 365 group](../create-groups/create-groups.md) instead. 
   
-

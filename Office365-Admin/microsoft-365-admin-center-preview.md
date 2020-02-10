@@ -1,56 +1,60 @@
 ---
-title: "About Microsoft 365 admin center preview"
-ms.author: anfowler
-author: adefowler
+title: "About the new Microsoft 365 admin center"
+f1.keywords:
+- CSH
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: overview
 ms.service: o365-administration
 localization_priority: Normal
-ms.custom: Core_O365Admin_Migration
+ms.collection:
+- Adm_O365
+- Adm_TOC
 search.appverid:
 - MET150
 - MOE150
 - FRP150
 ms.assetid: 739574d7-2c5b-4911-a549-f56ecc7d3b48
-description: "Learn about the latest in the Microsoft 365 Admin Center preview."
+description: "Learn about the new Microsoft 365 admin center."
 ---
 
-# About Microsoft 365 admin center preview
+# About the new Microsoft 365 admin center
 
 The new Microsoft 365 admin center is built for IT teams as a simplified way to manage your Microsoft 365 and Office 365 services. The admin center provides a tailored experience based on the unique needs of your role or organization, improves efficiency for everyday tasks, and provides actionable insights that help you make data-driven decisions to deliver a better experience for your users.
   
-The Microsoft 365 admin center is the common entry point for all Microsoft 365 and Office 365 admins and can be accessed at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2024339). Specialist workspaces, like Security or Device management, allow for more granular control. For more information about how the admin centers will work together, see [What about the specific types of IT roles and other workspaces like Security, Device Management, or Exchange?](#what-about-the-specific-types-of-it-roles-and-other-workspaces-like-security-device-management-or-exchange) later in this article. 
+The Microsoft 365 admin center is the common entry point for all Microsoft 365 admins and can be accessed at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2024339). Specialist workspaces, like Security or Device management, allow for more granular control. For more information about how the admin centers will work together, see [What about the specific types of IT roles and other workspaces like Security, Device Management, or Exchange?](#what-about-the-specific-types-of-it-roles-and-other-workspaces-like-security-device-management-or-exchange) later in this article. 
   
-As new features become available in the Microsoft 365 admin center, you'll be able to opt in to the preview and share your feedback with Microsoft so that we can continue to improve the admin experience. If you opt in to the preview, there will be no impact to your users, and you can switch back to the classic admin center at any time.
-[What's new in the NEW Microsoft 365 admin center](whats-new-in-preview.md)
+As new features become available in the Microsoft 365 admin center, you'll be able to opt in to the new admin center and share your feedback with Microsoft so that we can continue to improve the admin experience. If you opt in, there will be no impact to your users, and you can switch back to the old admin center at any time.
+[What's new in the NEW Microsoft 365 admin center](whats-new-in-preview.md).
   
 > [!NOTE]
-> Targeted release admins will have first access to new features in preview. New features in preview will then roll out to all admins. This means that you may not see the preview or it may look different than what is described in help articles. To be among the first to see new features, see Participate in the preview, below. 
+> Targeted release admins will have first access to new features. New features will then roll out to all admins. This means that you may not see the new admin center, or it may look different than what is described in help articles. To be among the first to see new features, see Participate in the new admin center, below. 
     
-## Participate in the preview
-We would love for you to participate in the Microsoft 365 admin center preview so you can prepare for change and give us feedback.
+## Participate in the new admin center
+We would love for you to participate in the new Microsoft 365 admin center so you can prepare for change and give us feedback.
 
 ### Turn on Targeted release
 
-1. Sign in at [admin.microsoft.com](https://admin.microsoft.com), go to the navigation pane and select **Settings** \> **Organization Profile**.
+1. Sign in at [admin.microsoft.com](https://admin.microsoft.com), go to the navigation pane and select **Settings** \> **Organization profile**.
     
 2. Go to the **Release preferences** card, and then select **Edit**. 
     
 3.  Select either **Targeted release for everyone** or **Targeted release for selected users**. If you choose Targeted release for selected users, make sure that you add your admin account (and any other admins in your org who want to participate) to the list of selected users.
     
-### Switch to preview and back again
+### Switch to the new admin center and back again
 
-- When the Microsoft 365 admin center preview is available to you, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. You can opt-in to the preview using the toggle or you can select the **Try the preview** link from any page in the classic Microsoft 365 admin center. If you sign out of the admin center while still in preview, we'll remember that selection and you'll sign back into the preview admin center. <br/>![Try Preview toggle from the classic admin center.](media/fa656a85-bd6f-4559-ab36-cdbf14e65a32.png)
+- When the new Microsoft 365 admin center is available to you, you can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. If you sign out of the admin center, we'll remember your selection and you'll sign back in to the new admin center. <br/><br/>![The new admin center toggle from the old admin center](media/admin-center-toggle-off.png) 
   
-- Switch back to the classic admin center from the **Home** page by turning the **Preview on** toggle to **Off**. <br/>![Screen capture: The Preview toggle from the Home page in Microsoft 365 Admin Center preview.](media/2f76101d-37bb-4bcf-8cba-a143e880cf94.png)
+- Switch back to the old admin center from the Home page by turning the toggle to **Off**. <br/><br/>![The new admin center toggle turned on](media/admin-center-toggle-on.png)
 
-While in preview, you can give Microsoft feedback about your experience by selecting **Give feedback** right next to the **Need help?** button at the bottom of every page. Tell us what you like and what we could do better. In addition, you may get pop-up surveys from time-to-time asking about your overall impressions or a particular experience that's newly released. You can also give feedback at the end of this article by clicking **Was this information helpful?**
+While in the new admin center, you can give Microsoft feedback about your experience by selecting **Give feedback** right next to the **Need help?** button at the bottom of every page. Tell us what you like and what we could do better. In addition, you may get pop-up surveys from time-to-time asking about your overall impressions or a particular experience that's newly released. You can also give feedback at the end of this article by selecting **Was this information helpful?**
   
-If you want to be an early adopter in the preview, you'll need to turn on Targeted release, and then when the preview is available you can switch to the preview to check it out and provide feedback.
+If you want to be an early adopter in the new admin center, you'll need to turn on Targeted release, and then when the new admin center is available you can switch to it to check it out and provide feedback.
   
 > [!NOTE]
-> Access to the preview will be rolled out to all Microsoft 365 admins. Admins who are in the Targeted release group in their organization will get the preview first. Being in Targeted release does not guarantee you will see the toggle immediately, but you will get it sooner than those in Standard release. 
+> Access to the new admin center will be rolled out to all Microsoft 365 admins. Admins who are in the Targeted release group in their organization will get the new admin center first. Being in Targeted release does not guarantee you will see the toggle immediately, but you will get it sooner than those in Standard release. 
   
 
    
@@ -58,9 +62,9 @@ If you want to be an early adopter in the preview, you'll need to turn on Target
 
 Don't see your questions answered here? Go to **Was this information helpful?** at the bottom of this page and ask your question. 
   
-## Can I do everything in the preview that I can do in the classic admin center?
+## Can I do everything in the new admin center that I can do in the old admin center?
 
-Yes. The preview is fully functional and has all the capabilities of the classic admin center.
+Yes. The new admin center is fully functional and has all the capabilities of the old admin center.
   
 ## Which Microsoft 365 plans are available to trial or buy?
 
@@ -74,9 +78,9 @@ For more information, see [Try or buy a Microsoft 365 subscription](try-or-buy-m
   
 ## I found a bug or I want to request a feature enhancement. How do I let Microsoft know?
 
-We love to hear from you! Reporting bugs and sharing feedback helps us make the Microsoft 365 admin center better. To give feedback, click the **Feedback** button on the bottom of the page and use the form to send us your thoughts. Select the checkbox and confirm your email address if you want someone from the Microsoft 365 admin center team to follow up on your comments. We can't promise to follow up on every piece of feedback, but we're going to try! 
+We love to hear from you! Reporting bugs and sharing feedback helps us make the Microsoft 365 admin center better. To give feedback, select the **Feedback** button on the bottom of the page and use the form to send us your thoughts. Select the checkbox and confirm your email address if you want someone from the Microsoft 365 admin center team to follow up on your comments. We can't promise to follow up on every piece of feedback, but we're going to try! 
   
-You can also give feedback from outside of the admin center on our UserVoice forum. You can use this page to make feature suggestions that can be voted on by other forum users: [UserVoice forum for admin center preview](https://go.microsoft.com/fwlink/?linkid=2024994).
+You can also give feedback from outside of the admin center on our UserVoice forum. You can use this page to make feature suggestions that can be voted on by other forum users: [UserVoice forum for the new admin center](https://go.microsoft.com/fwlink/?linkid=2024994).
   
 ## What about the specific types of IT roles and other workspaces like Security, Device Management, or Exchange?
 

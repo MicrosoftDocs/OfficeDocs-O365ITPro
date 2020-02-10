@@ -1,28 +1,19 @@
 ---
 title: "Create DNS records at Bluehost for Office 365"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_DOM_Bluehost'
-- 'O365M_DOM_Bluehost'
-- 'O365E_DOM_Bluehost'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_O365_Domain_Registrars
+- Adm_NonTOC
 - Adm_O365_Setup
-- Adm_UI_Elements
-ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Adm_O365_Setup
-- Core_O365Admin_Migration
-- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -39,7 +30,7 @@ If Bluehost is your DNS hosting provider, follow the steps in this article to ve
   
 After you add these records at Bluehost, your domain will be set up to work with Office 365 services.
   
-To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
+To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/choose-a-public-website-3325d50e-d131-403c-a278-7f3296fe33a9).
   
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
@@ -58,18 +49,18 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (You may have to scroll down.)
     
-3. In the ***domain_name*** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
+3. In the ***domain_name*** area, on the **DNS Zone Editor** row, select **Manage DNS records**.
     
 4. On the ** DNS Zone Editor ** page, in the **Add DNS Record** area, in the boxes for the new record, type or copy and paste the values from the following table. 
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
     |||||
     |:-----|:-----|:-----|:-----|
     |**Host Record** <br/> |**TTL** <br/> |**Type** <br/> |**TXT Value** <br/> |
     |@  <br/> |14400  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
-5. Choose **add record**.
+5. Select **add record**.
     
 6. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
@@ -77,13 +68,14 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. In the Microsoft 365 admin center, choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
@@ -97,31 +89,31 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-3. In the ***domain_name*** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
+3. In the ***domain_name*** area, on the **DNS Zone Editor** row, select **Manage DNS records**.
     
 4. On the **DNS Zone Editor** page, in the **Add DNS Record** area, in the boxes for the new record, type or copy and paste the values from the following table. 
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
     |**Host Record**|**TTL**|**Type**|**Points To**|**Priority**|
     |:-----|:-----|:-----|:-----|:-----|
-    |@  <br/> |14400  <br/> |MX  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/>**Note:** Get your \<*domain-key*\> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    |@  <br/> |14400  <br/> |MX  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/>**Note:** Get your \<*domain-key*\> from your Office 365 account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |0  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
-   ![Select Type from the drop-down list](../media/70791420-d83c-4a5d-a46c-5cc3bc67f565.png)
+   ![Choose Type from the drop-down list](../media/70791420-d83c-4a5d-a46c-5cc3bc67f565.png)
   
-5. Choose **add record**.
+5. Select **add record**.
     
-    ![Click Add Record](../media/c7ef9733-1665-4dbf-accc-caadf1574abc.png)
+    ![Select Add Record](../media/c7ef9733-1665-4dbf-accc-caadf1574abc.png)
   
 6. If there are any other MX records in the **MX (Mail Exchanger)** section, delete each of them. 
     
-    For one of the other MX records, choose **Delete.**
+    For one of the other MX records, select **Delete.**
     
-    ![Click Delete for each additional MX record](../media/6be17f54-3f33-47af-a9db-4689141530c2.png)
+    ![Select Delete for each additional MX record](../media/6be17f54-3f33-47af-a9db-4689141530c2.png)
   
-7. In the confirmation dialog box, choose **OK**.
+7. In the confirmation dialog box, select **OK**.
     
-    ![Click OK](../media/a50df7a3-2906-4cc0-87d4-1231ab234230.png)
+    ![Select OK](../media/a50df7a3-2906-4cc0-87d4-1231ab234230.png)
   
 8. Use the same process to delete any other MX records that were already listed.
     
@@ -134,43 +126,42 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-3. In the ***domain_name*** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
+3. In the ***domain_name*** area, on the **DNS Zone Editor** row, select **Manage DNS records**.
     
-4. In the **A (Host)** records section, find the row for the **autodiscover** record, and then choose **delete** for that row. 
+4. In the **A (Host)** records section, find the row for the **autodiscover** record, and then select **delete** for that row. 
     
     > [!IMPORTANT]
     > You must delete the existing **autodiscover** record  *before*  adding the **autodiscover** record that is required by Office 365. Bluehost does not allow you to maintain two **autodiscover** records simultaneously. 
   
-    ![Click Delete](../media/416a447e-3710-4ae7-8bf1-459381af4f6e.png)
+    ![Select Delete](../media/416a447e-3710-4ae7-8bf1-459381af4f6e.png)
   
-5. Choose **OK**.
+5. Select **OK**.
     
-    ![Click OK](../media/0c8f409d-c39f-4ed2-9c95-9af3e61c2411.png)
+    ![Select OK](../media/0c8f409d-c39f-4ed2-9c95-9af3e61c2411.png)
   
 6. Create the first of the six CNAME records.
     
     On the **DNS Zone Editor** page, in the **Add DNS Record** area, in the boxes for the new record, type or copy and paste the values from the first row in the following table. 
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
     |**Host Record**|**TTL**|**Type**|**Points To**|
     |:-----|:-----|:-----|:-----|
     |autodiscover  <br/> |14400  <br/> |CNAME  <br/> |autodiscover.outlook.com  <br/> |
     |sip  <br/> |14400  <br/> |CNAME  <br/> |sipdir.online.lync.com  <br/> |
     |lyncdiscover  <br/> |14400  <br/> |CNAME  <br/> |webdir.online.lync.com  <br/> |
-    |msoid  <br/> |14400  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net  <br/> |
     |enterpriseregistration  <br/> |14400  <br/> |CNAME  <br/> |enterpriseregistration.windows.net  <br/> |
     |enterpriseenrollment  <br/> |14400  <br/> |CNAME  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
    
     ![Create the first CNAME record](../media/4f12e9b1-9dec-4bc2-aa15-8bffa71fe131.png)
   
-7. Choose **add record**.
+7. Select **add record**.
     
-    ![Click Add Record](../media/c2782250-a9a6-4aee-bb15-f57cb0008587.png)
+    ![Select Add Record](../media/c2782250-a9a6-4aee-bb15-f57cb0008587.png)
   
 8. Add each of the other five CNAME records.
     
-    Still in the **Add DNS Record** section, create a record by using the values from the next row in the table, and then again choose **add record** to complete that record. 
+    Still in the **Add DNS Record** section, create a record by using the values from the next row in the table, and then again select **add record** to complete that record. 
     
     Repeat this process until you have created all six CNAME records.
     
@@ -186,11 +177,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-3. In the ***domain_name*** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
+3. In the ***domain_name*** area, on the **DNS Zone Editor** row, select **Manage DNS records**.
     
 4. On the **DNS Zone Editor** page, in the **Add DNS Record** area, in the boxes for the new record, type or copy and paste the values from the following table. 
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
         
     |**Host Record**|**TTL**|**Type**|**TXT Value**|
     |:-----|:-----|:-----|:-----|
@@ -198,9 +189,9 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Copy the TXT value](../media/b2dabd7a-ee3d-4209-aa1e-0233eb8cf3b9.png)
   
-5. Choose **add record**.
+5. Select **add record**.
     
-    ![Click Add Record](../media/c050e9a2-2274-4640-8f0f-6752d382df5d.png)
+    ![Select Add Record](../media/c050e9a2-2274-4640-8f0f-6752d382df5d.png)
   
 ## Add the two SRV records that are required for Office 365
 <a name="BKMK_add_SRV"> </a>
@@ -211,13 +202,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     (You may have to scroll down.)
     
-3. In the ***domain_name*** area, on the **DNS Zone Editor** row, choose **Manage DNS records**.
+3. In the ***domain_name*** area, on the **DNS Zone Editor** row, select **Manage DNS records**.
     
 4. Create the first of the two SRV records.
     
     On the **DNS Zone Editor** page, in the **Add DNS Record** area, in the boxes for the new record, type or copy and paste the values from the first row in the following table. 
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
     |**Service**|**Protocol**|**Host**|**TTL**|**Type**|**Priority**|**Weight**|**Port**|**Points To**|
     |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -226,13 +217,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Copy the value for the new record](../media/e2911bca-c00b-4b8a-837f-f1d438c474c4.png)
   
-5. Choose **add record**.
+5. Select **add record**.
     
-    ![Click Add Record](../media/0fd6a587-03fd-4bce-8321-b14e6ad21f5c.png)
+    ![Select Add Record](../media/0fd6a587-03fd-4bce-8321-b14e6ad21f5c.png)
   
 6. Add the other SRV record.
     
-    Still in the **Add DNS Record** section, create a record by using the values from the other row in the table, and then again choose **add record** to complete that record. 
+    Still in the **Add DNS Record** section, create a record by using the values from the other row in the table, and then again select **add record** to complete that record. 
     
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 

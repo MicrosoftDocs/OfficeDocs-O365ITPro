@@ -1,19 +1,17 @@
 ---
 title: "Password policy recommendations for Office 365"
+f1.keywords:
+- CSH
 ms.author: kwekua
 author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: reference
-f1_keywords:
-- 'O365P_RecoPasswordSettings'
-- 'O365M_RecoPasswordSettings'
-- 'O365E_RecoPasswordSettings'
 ms.service: o365-administration
-localization_priority: Normal
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
+localization_priority: Priority
+ms.collection:
+- Adm_O365
+- Adm_NonTOC
 search.appverid:
 - BCS160
 - MET150
@@ -25,8 +23,6 @@ description: "Learn how to make your organization more secure against password a
 # Password policy recommendations for Office 365
  
 As the admin of an Office 365 organization, you're responsible for setting password policy for users in your organization. Setting password policy can be complicated and confusing, and this article provides recommendations to make your organization more secure against password attacks.
-  
-To set a custom password complexity policy for your organization, see [Azure AD B2C: Configure complexity requirements for passwords](https://go.microsoft.com/fwlink/?linkid=864494).
   
 To determine how often Office 365 passwords expire in your organization, see [Set password expiration policy for Office 365](../manage/set-password-expiration-policy.md).
   

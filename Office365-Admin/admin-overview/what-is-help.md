@@ -1,5 +1,7 @@
 ---
 title: "How to get help in the Microsoft 365 admin center"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 layout: LandingPage
 manager: mnirkhe
@@ -10,8 +12,7 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
+- Adm_NonTOC
 search.appverid:
 - MET150
 - MOE150
@@ -24,7 +25,7 @@ description: "Learn about all the ways you can get help using the Microsoft 365 
 
 # How to get help in the Microsoft 365 admin center
 
-We've tried to design the admin center so you can complete a task quickly. But, sometimes you may have difficulty finding the right task, need help with a term or an acronym, need more context before embarking on a task flow, or simply may not be sure of the scope and impact of your actions as an admin.  To cover those situations, we provide modern help and intelligent assistance throughout the Microsoft 365 admin center in these ways:   
+If you're an admin, [admin.microsoft.com](https://admin.microsoft.com) is your go-to place to manage and make the most of your Microsoft 365 subscription. Sometimes you may not find the right task, need more context before embarking on a task flow, or simply may not be sure of the scope and impact of your actions as an admin. To cover those situations, we provide modern help and intelligent assistance throughout the Microsoft 365 admin center in these ways:
  
 
 
@@ -95,24 +96,18 @@ We've tried to design the admin center so you can complete a task quickly. But, 
 </ul>
 
 ## Integrated help
-Help is integrated throughout the admin center so it's right there when you need it.
+Help is integrated throughout the admin center, so it's right there when you need it. At the top of many pages, you'll find inline help text that provides an informational overview of the task at hand, as well as links to articles that let you quickly find official documentation for more in-depth learning. 
 
-![Integrated help](../media/what-is-help/manageroles.png)
-
-The above image shows three types of help in the admin center:  
-
-1. **Inline help text**. Provides info critical to the task at hand. 
-2. **Link to article**. Provides a quick pathway to official documentation so you can learn more. 
-3. **Help bubble**. Provides on-the-spot help if you encounter potentially unfamiliar concepts or need additional information about a setting (such as the effect of different values). Some bubbles may also include links to additional content.
+![Groups page showing inline help and links to articles](../media/integrated-help.png)
 
 ## Modern self-help powered by AI
 
-Clicking the "Need Help" button in the Microsoft 365 admin center opens our modern self-help experience powered by artificial intelligence. For example, if you search for *verify my domain* 
-you'll get the steps plus few articles we think will help you.  We use machine learning to surface the closest solution that has been found to be of help to other admins who have entered similar queries. 
+Selecting the "Need Help" button in the Microsoft 365 admin center opens our modern self-help experience powered by artificial intelligence. For example, if you search for *verify my domain*, 
+you'll get the steps plus a few articles we think will help you. We use machine learning to surface the closest solution that has been found to be of help to other admins who have entered similar queries. 
 
-Or, for those times when you don't quite know how to get something done in your specific situation, use the O365 Assistant. This experience is currently available only in English. Just click the toggle at the top of the "Need Help" pane to turn it on. The O365 Assistant provides a conversational interface for getting help. Enter your query and the chatbot will ask clarifying questions to get you to the right answer for your specific situation.  Think of it as your virtual helper to discover solutions and complete tasks. 
+Or, for those times when you don't quite know how to get something done in your specific situation, use the Support Assistant. This experience is currently available only in English. Just use the toggle at the top of the "Need Help" pane to turn it on. The Support Assistant provides a conversational interface for getting help. Enter your query, and the chatbot will ask clarifying questions to get you to the right answer for your specific situation. Think of it as your virtual helper to discover solutions and complete tasks. 
 
-![Modern self-help](../media/what-is-help/chatinsights.png)
+![Modern self-help](../media/help-options.png)
  
 Of course, sometimes questions are best answered by humans. If our modern self-help doesn't have the answer, you always have the option to contact our support agents. 
 

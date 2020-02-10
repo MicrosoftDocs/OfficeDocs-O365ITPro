@@ -1,30 +1,21 @@
 ---
 title: "Get started with Office 365 for business"
+f1.keywords:
+- NOCSH
 ms.author: twerner
 author: twernermsft
 manager: scotv
 audience: Admin
 ms.topic: overview
-f1_keywords:
-- 'O365P_GSO365'
-- 'O365M_UserAccess'
-- 'O365M_SetupInstallSoftware'
-- 'O365M_GSO365'
-- 'O365M_GetStarted'
-- 'O365E_UserAccess'
-- 'O365E_SetupInstallSoftware'
-- 'O365E_GSO365'
-- 'O365E_GetStarted'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
-- Adm_O365_Top
-- strat_admin_top
-ms.custom:
 - Adm_O365
+- Adm_TOC
 - Adm_O365_Setup
-- Adm_O365_Top
+ms.custom:
+- MSStore_Link
 search.appverid:
 - MET150
 - MOE150
@@ -60,13 +51,6 @@ Your organization recently got Office 365, and now you need to use it so you can
     
 ## Training resources for you, the admin
 
-::: moniker range="o365-worldwide"
-
-> [!TIP]
-> Need help with the steps in this topic? We’ve got you covered. Make an appointment at your local Microsoft Store with an Answer Desk expert to help resolve your issue. Go to the [Microsoft Stores page](https://go.microsoft.com/fwlink/?LinkID=2041482) and choose your location to schedule an appointment.
-
-::: moniker-end
-
 Here are some resources to help you get started.
   
 - [Training for admins](https://support.office.com/article/e990f8ff-56d7-450e-ad9f-74ae8718ef09.aspx): Get links to free online classes for admins.
@@ -75,8 +59,7 @@ Here are some resources to help you get started.
     
 - [Contact support - Admin Help](../contact-support-for-business-products.md) : Call us, open an online request, or let the community help. 
     
-## See also
-
+## Related articles
 
 [Set up Office 365 for business - Admin Help](../setup/setup.md)
 

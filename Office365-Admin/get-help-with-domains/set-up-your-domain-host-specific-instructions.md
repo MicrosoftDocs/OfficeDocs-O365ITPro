@@ -1,23 +1,18 @@
 ---
 title: "Set up your domain (host-specific instructions)"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_Troubleshoot_ChangeNSSteps'
-- 'O365P_Troubleshoot_ChangeNSRecords'
-- 'O365P_EditNSRecs_ChangeNSWhy'
-- 'O365P_DomainsNSPanels_ChangeNSRecords'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
-- M365-subscription-management 
+- M365-subscription-management
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
+- Adm_TOC
 search.appverid:
 - MET150
 - MOE150
@@ -25,6 +20,7 @@ search.appverid:
 - GEA150
 ms.assetid: ae950c9e-e8d9-4108-b0cb-449156998580
 description: "Learn how to manage your own DNS records or let Office 365 manage your DNS records for you."
+ms.custom: okr_smb
 ---
 
 # Set up your domain (host-specific instructions)
@@ -33,14 +29,44 @@ To start using a custom domain (contoso.com) with Office 365, you need to verify
   
 You can add and manage DNS records using the administrative tools at your domain host, or give Office 365 control of your domain records and we'll set them up for you.
   
-Click your domain host below for the exact steps. If you're not sure who your host is, see [Find your domain registrar](find-your-domain-registrar.md).
+Select your domain host below for the exact steps. If you're not sure who your host is, see [Find your domain registrar](find-your-domain-registrar.md).
   
+
+## Let Office 365 manage your DNS records
+
+||
+|---|---|
+|[1&1 IONOS](../dns/change-nameservers-at-1-1-internet.md) |
+|[Amazon Web Services (AWS)](../dns/change-nameservers-at-aws.md) |
+ [Bluehost](../dns/change-nameservers-at-bluehost.md)|
+|[Google   Domains](../dns/change-nameservers-at-google-domains.md) |
+|[Hostgator   ](../dns/change-nameservers-at-hostgator.md)  |  
+|[MyDomain](../dns/change-nameservers-at-mydomain.md) | 
+|[Namecheap](../dns/change-nameservers-at-namecheap.md)|
+|[Network Solutions](../dns/change-nameservers-at-network-solutions.md) |  
+
+Or, learn how to [change nameservers to set up Office 365 with any domain registrar](change-nameservers-at-any-domain-registrar.md).
+
+## Manage your own DNS records
+
+|                           |                          |
+|---------------------------|--------------------------|
+| [1&1 IONOS](../dns/create-dns-records-at-1-1-internet.md) | [Hover](../dns/create-dns-records-at-hover.md) |
+| [123-reg.co.uk](../dns/create-dns-records-at-123-reg-co-uk.md) | [Managed   by Google (eNom)](../dns/create-dns-records-for-domain-managed-by-google-enom.md)|
+| [Amazon Web Services (AWS)](../dns/create-dns-records-at-aws.md) | [MyDomain](../dns/create-dns-records-at-mydomain.md) |
+| [Azure DNS zones](../dns/create-dns-records-for-azure-dns-zones.md) | [name.com](../dns/create-dns-records-at-name-com.md) |
+| [Bluehost](../dns/create-dns-records-at-bluehost.md) | [Namecheap](../dns/create-dns-records-at-namecheap.md)|
+| [Cloudflare](../dns/create-dns-records-at-cloudflare.md)| [Names.co.uk](../dns/create-dns-records-at-names-co-uk.md) |
+|  [Crazy Domains](../dns/create-dns-records-at-crazy-domains.md)| [Netregistry](../dns/create-dns-records-at-netregistry.md) |
+|[DNSMadeEasy](../dns/create-dns-records-at-dnsmadeeasy.md) | [Network   Solutions](../dns/create-dns-records-at-network-solutions.md) |
+|[Dreamhost](../dns/create-dns-records-at-dreamhost.md)  | [OVH](../dns/create-dns-records-at-ovh.md) |
+|  [Dyn.com](../dns/create-dns-records-at-dyn-com.md) | [Register.com](../dns/create-dns-records-at-register-com.md) |
+| [eNomCentral](../dns/create-dns-records-at-enomcentral.md)| [Register365 for Office 365](../dns/create-dns-records-at-register365.md)  |
+| [Freenom](../dns/create-dns-records-at-freenom.md) | [ Windows-based DNS](../dns/create-dns-records-using-windows-based-dns.md)|
+|[GoDaddy](../dns/create-dns-records-at-godaddy.md)| [Wix](../dns/create-dns-records-at-wix.md)    |
+| [Google Domains](../dns/create-dns-records-at-google-domains.md) | [Yahoo!   Small Business](../dns/create-dns-records-at-yahoo-small-business.md)  |
+|[Hostgator](../dns/create-dns-records-at-hostgator.md)  |                          |
+
 [I need general instructions, because my domain host isn't on this list. ](create-dns-records-at-any-dns-hosting-provider.md)
-  
-|**Manage your own DNS records**|**Let Office 365 manage your DNS records**|
-|:-----|:-----|
-|**#-D** <br/> [1&1 IONOS](../dns/create-dns-records-at-1-1-internet.md) <br/> [123-reg.co.uk](../dns/create-dns-records-at-123-reg-co-uk.md) <br/> [22.cn](../services-in-china/create-dns-records-at-22-cn.md) <br/> [35COM](../services-in-china/create-dns-records-at-35com.md) <br/> [Aabaco Small Business](../dns/create-dns-records-at-aabaco-small-business.md) <br/> [Active24](../dns/create-dns-records-at-active24.md) <br/> [Amazon Web Services (AWS)](../dns/create-dns-records-at-aws.md) <br/> [Asia Registry](../dns/create-dns-records-at-asia-registry.md) <br/> [Create DNS records for Azure DNS zones](../dns/create-dns-records-for-azure-dns-zones.md) <br/> [BIZCN](../services-in-china/create-dns-records-at-bizcn.md) <br/> [Blacknight](../dns/create-dns-records-at-blacknight.md) <br/> [Bluehost](../dns/create-dns-records-at-bluehost.md) <br/> [Cloudflare](../dns/create-dns-records-at-cloudflare.md) <br/> [CNDNS](../services-in-china/create-dns-records-at-cndns.md) <br/> [Crazy Domains](../dns/create-dns-records-at-crazy-domains.md) <br/> [CSC](https://support.office.com/article/2833374f-8141-4af0-923b-189c879804d3.aspx) <br/> [DNSCOM](../services-in-china/create-dns-records-at-dnscom.md) <br/> [DNSMadeEasy](../dns/create-dns-records-at-dnsmadeeasy.md) <br/> [DNSPod](../services-in-china/create-dns-records-at-dnspod.md) <br/> [Domain Monster](../dns/create-dns-records-at-domain-monster.md) <br/> [DomainExplorer.com](../dns/create-dns-records-at-domainexplorer-com.md) <br/> [Domainnameshop](../dns/create-dns-records-at-domainnameshop.md) <br/> [dotPH](../dns/create-dns-records-at-dotph.md) <br/> [Dreamhost](../dns/create-dns-records-at-dreamhost.md) <br/> [Dyn.com](../dns/create-dns-records-at-dyn-com.md) <br/> [Dynadot](../dns/create-dns-records-at-dynadot.md) <br/> |**#-D** <br/> [1&1 IONOS](../dns/change-nameservers-at-1-1-internet.md) <br/> [123-reg.co.uk](../dns/change-nameservers-at-123-reg-co-uk.md) <br/> [22.cn](../services-in-china/change-nameservers-at-22-cn.md) <br/> [35COM](../services-in-china/change-nameservers-at-35com.md) <br/> [Aabaco Small Business](../dns/change-nameservers-at-aabaco-small-business.md) <br/> [Active24](../dns/change-nameservers-at-active24.md) <br/> [Amazon Web Services (AWS)](../dns/change-nameservers-at-aws.md)  <br/> [Asia Registry](../dns/change-nameservers-at-asia-registry.md) <br/> [Azure](../dns/change-nameservers-at-azure.md) <br/> [BIZCN ](../services-in-china/change-nameservers-at-bizcn.md) <br/> [Blacknight ](../dns/change-nameservers-at-blacknight.md) <br/> [Bluehost](../dns/change-nameservers-at-bluehost.md) <br/> [Cloudflare](../dns/change-nameservers-at-cloudflare.md) <br/> [CNDNS](../services-in-china/change-nameservers-at-cndns.md) <br/> [Crazy Domains](../dns/change-nameservers-at-crazy-domains.md) <br/> [DNSCOM](../services-in-china/change-nameservers-at-dnscom.md) <br/> [DNSMadeEasy](../dns/change-nameservers-at-dnsmadeeasy.md) <br/> [DNSPod](../services-in-china/change-nameservers-at-dnspod.md) <br/> [Domain Monster](../dns/change-nameservers-at-domain-monster.md) <br/> [DomainExplorer.com](../dns/change-nameservers-at-domainexplorer-com.md) <br/> [Domainnameshop](../dns/change-nameservers-at-domainnameshop.md) <br/> [dotPH ](../dns/change-nameservers-at-dotph.md) <br/> [Dreamhost](../dns/change-nameservers-at-dreamhost.md) <br/> [Dyn.com](../dns/change-nameservers-at-dyn-com.md) <br/> [Dynadot](../dns/change-nameservers-at-dynadot.md) <br/> |
-|**E-N** <br/> [East.net](../services-in-china/create-dns-records-at-east-net.md) <br/> [E-business Services](../services-in-china/create-dns-records-at-e-business-services.md) <br/> [ENAME](../services-in-china/create-dns-records-at-ename.md) <br/> [eNomCentral](../dns/create-dns-records-at-enomcentral.md) <br/> [Europe Registry](../dns/create-dns-records-at-europe-registry.md) <br/> [Fasthosts.co.uk](../dns/create-dns-records-at-fasthosts-co-uk.md) <br/> [Freenom](../dns/create-dns-records-at-freenom.md) <br/> [Freeparking.co.nz](../dns/create-dns-records-at-freeparking-co-nz.md) <br/> [Gandi.net](../dns/create-dns-records-at-gandi-net.md) <br/> [GoDaddy](../dns/create-dns-records-at-godaddy.md) <br/> [Google Domains](../dns/create-dns-records-at-google-domains.md) <br/> [Managed by Google (eNom)](../dns/create-dns-records-for-domain-managed-by-google-enom.md) <br/> [Managed by Google (Go Daddy)](../dns/create-dns-records-for-domain-managed-by-google-go-daddy.md) <br/> [Heart Internet](../dns/create-dns-records-at-heart-internet.md) <br/> [HiChina](../services-in-china/create-dns-records-at-hichina.md) <br/> [Hostgator](../dns/create-dns-records-at-hostgator.md) <br/> [Hover](../dns/create-dns-records-at-hover.md) <br/> [IDC1](../services-in-china/create-dns-records-at-idc1.md) <br/> [iFastNet](../dns/create-dns-records-at-ifastnet.md) <br/> [IP Mirror](../dns/create-dns-records-at-ip-mirror.md) <br/>[Media Temple](../dns/create-dns-records-at-media-temple.md) <br/> [Melbourne IT](../dns/create-dns-records-at-melbourne-it.md) <br/> [MyDomain](../dns/create-dns-records-at-mydomain.md) <br/> [myhosting.com](../dns/create-dns-records-at-myhosting-com.md) <br/> [name.com](../dns/create-dns-records-at-name-com.md) <br/> [Namecheap](../dns/create-dns-records-at-namecheap.md) <br/> [Names.co.uk](../dns/create-dns-records-at-names-co-uk.md) <br/> [NearlyFreeSpeech.net](../dns/create-dns-records-at-nearlyfreespeech-net.md) <br/> [Net4.in](../dns/create-dns-records-at-net4-in.md) <br/> [Netfirms](../dns/create-dns-records-at-netfirms.md) <br/> [Netregistry](../dns/create-dns-records-at-netregistry.md) <br/> [Nettica](https://support.office.com/article/856ef0f6-2a64-4687-836e-934109439baf) <br/> [Network Information Center (NIC)](../dns/create-dns-records-at-nic.md) <br/> [Network Solutions](../dns/create-dns-records-at-network-solutions.md) <br/> [NoIP](../dns/create-dns-records-at-noip.md) <br/> [Now.cn](../services-in-china/create-dns-records-at-now-cn.md) <br/> |**E-N** <br/> [East.net](../services-in-china/change-nameservers-at-east-net.md) <br/> [E-business Services](../services-in-china/change-nameservers-at-e-business-services.md) <br/> [ENAME](../services-in-china/change-nameservers-at-ename.md) <br/> [eNomCentral](../dns/change-nameservers-at-enomcentral.md) <br/> [Europe Registry](../dns/change-nameservers-at-europe-registry.md) <br/> [Fasthosts.co.uk](../dns/change-nameservers-at-fasthosts-co-uk.md) <br/> [Freenom](../dns/change-nameservers-at-freenom.md) <br/> [Freeparking.co.nz](../dns/change-nameservers-at-freeparking-co-nz.md) <br/> [Gandi.net](../dns/change-nameservers-at-gandi-net.md) <br/> [Google Domains](../dns/change-nameservers-at-google-domains.md) <br/> [Heart Internet](../dns/change-nameservers-at-heart-internet.md) <br/> [HiChina ](../services-in-china/change-nameservers-at-hichina.md)[Change ](../dns/change-nameservers-at-hostgator.md) <br/> [Hostgator](../dns/change-nameservers-at-hostgator.md) <br/> [Hover ](../dns/change-nameservers-at-hover.md) <br/> [IDC1](../services-in-china/change-nameservers-at-idc1.md) <br/> [iFastNet](../dns/change-nameservers-at-ifastnet.md) <br/> [IP Mirror](../dns/change-nameservers-at-ip-mirror.md) <br/> [Media Temple](../dns/change-nameservers-at-media-temple.md) <br/> [Melbourne IT](../dns/change-nameservers-at-melbourne-it.md) <br/> [MyDomain](../dns/change-nameservers-at-mydomain.md) <br/> [myhosting.com](../dns/change-nameservers-at-myhosting-com.md) <br/> [name.com](../dns/change-nameservers-at-name-com.md) <br/> [Namecheap](../dns/change-nameservers-at-namecheap.md) <br/> [Names.co.uk](../dns/change-nameservers-at-names-co-uk.md) <br/> [NearlyFreeSpeech.net](../dns/change-nameservers-at-nearlyfreespeech-net.md) <br/> [Net4.in](../dns/change-nameservers-at-net4-in.md) <br/> [Netfirms](../dns/change-nameservers-at-netfirms.md) <br/> [Netregistry](../dns/change-nameservers-at-netregistry.md) <br/> [Nettica](https://support.office.com/article/d642586c-cba4-4c75-a3a1-4e6b0b615255) <br/> [Network Information Center (NIC)](../dns/change-nameservers-at-nic.md) <br/> [Network Solutions](../dns/change-nameservers-at-network-solutions.md) <br/> [NoIP](../dns/change-nameservers-at-noip.md) <br/> [Now.cn](../services-in-china/change-nameservers-at-now-cn.md) <br/> |
-|**O-Z** <br/> [Onamae](../dns/create-dns-records-at-onamae.md) <br/> [One.com](../dns/create-dns-records-at-one-com.md) <br/> [Oray](../services-in-china/create-dns-records-at-oray.md) <br/> [OVH](../dns/create-dns-records-at-ovh.md) <br/> [Rackspace](../dns/create-dns-records-at-rackspace.md) <br/> [Register.com](../dns/create-dns-records-at-register-com.md) <br/>  [Create DNS records at Register365 for Office 365](../dns/create-dns-records-at-register365.md)<br/> [Strato](../dns/create-dns-records-at-strato.md) <br/> [SUNDNS](../services-in-china/create-dns-records-at-sundns.md) <br/> [TransIP](../dns/create-dns-records-at-transip.md) <br/> [United Domains](../dns/create-dns-records-at-united-domains.md) <br/> [West263](../services-in-china/create-dns-records-at-west263.md) <br/> [Whiz.in](../dns/create-dns-records-at-whiz-in.md) <br/> [Create DNS records using Windows-based DNS](../dns/create-dns-records-using-windows-based-dns.md) <br/> [Wix](../dns/create-dns-records-at-wix.md) <br/> [Xinnet](../services-in-china/create-dns-records-at-xinnet.md) <br/> [Yahoo! Small Business](../dns/create-dns-records-at-yahoo-small-business.md) <br/> [ZGSJ](../services-in-china/create-dns-records-at-zgsj.md) <br/> |**O-Z** <br/> [Onamae](../dns/change-nameservers-at-onamae.md) <br/> [One.com](../dns/change-nameservers-at-one-com.md) <br/> [Oray](../services-in-china/change-nameservers-at-oray.md) <br/> [OVH](../dns/change-nameservers-at-ovh.md) <br/> [Register.com](../dns/change-nameservers-at-register-com.md) <br/> [Register365](../dns/change-nameservers-at-register365.md) <br/> [Strato](../dns/change-nameservers-at-strato.md) <br/> [SUNDNS](../services-in-china/change-nameservers-at-sundns.md) <br/> [TransIP](../dns/change-nameservers-at-transip.md) <br/> [United Domains](../dns/change-nameservers-at-united-domains.md) <br/> [West263 ](../services-in-china/change-nameservers-at-west263.md) <br/> [Whiz.in](../dns/change-nameservers-at-whiz-in.md) <br/> [Wix](../dns/change-nameservers-at-wix.md) <br/> [Xinnet](../services-in-china/change-nameservers-at-xinnet.md) <br/> [Yahoo! Small Business](../dns/change-nameservers-at-yahoo-small-business.md) <br/> [ZGSJ](../services-in-china/change-nameservers-at-zgsj.md) <br/> |
    
 

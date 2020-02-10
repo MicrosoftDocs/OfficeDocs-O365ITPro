@@ -1,26 +1,19 @@
 ---
 title: "Problems with your Office 365 for business product key?"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: troubleshooting
-f1_keywords:
-- 'O365P_ProductKeyFAQ'
-- 'O365M_ProductKeyFAQ'
-- 'O365E_ProductKeyFAQ'
-- 'O365E_O365P_ProductKeyFAQ'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
-- M365-subscription-management
+- M365-subscription-management 
 - Adm_O365
-- Adm_UI_Elements
-- EU_O365_UI_Elements
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_NonTOC
+- commerce
 search.appverid:
 - BCS160
 - MET150
@@ -29,6 +22,7 @@ search.appverid:
 ms.assetid: 88d337ab-e7b1-43eb-a25e-7d6204e91099
 ROBOTS: NOINDEX
 description: "Learn how to resolve the issues that you face when you enter your product key for Office 365 for business. "
+ms.custom: okr_SMB
 ---
 
 # Problems with your Office 365 for business product key?
@@ -51,12 +45,12 @@ If there's an error message when you try to redeem a product key for **Office 36
 | "Sorry, we can’t process your request right now. Please wait a few minutes and try again." | If subsequent attempts result in the same error message for more than 15 minutes, please [contact support](../contact-support-for-business-products.md). |
 | “The requested subscription is not available. One of the following reasons could have caused this: The offer is not available - The service is not available in your country - It is impossible to use/select the same trial twice. If the issue persists, contact Microsoft support.” | Please [contact support](../contact-support-for-business-products.md). If you're working with a partner, contact your partner for support. |
 | "You’ve added more user licenses than this offer allows. The maximum is \<x\> user licenses. Remove this product key and enter one that adds fewer user licenses." | Please contact your reseller or partner. You have purchased more licenses than can be used with this Office 365 subscription. |
-| "You must be a global or billing admin to redeem a product key." | Be sure your permissions are set as either billing or global admin. To verify this,  [Sign in to Office 365](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) with your work or school account and go to the Admin center. <br/><br/>In the admin center, select **Users** \> **Active users**. In **Filters**, choose **Global admins** or **Billing admins**. <br/><br/>Ensure that you are listed in the results. |
+| "You must be a global or billing admin to redeem a product key." | Be sure your permissions are set as either billing or global admin. To verify this,  [Sign in to Office 365](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) with your work or school account and go to the admin center. <br/><br/>In the admin center, select **Users** \> **Active users**. In **Filters**, choose **Global admins** or **Billing admins**. <br/><br/>Ensure that you are listed in the results. |
    
 > [!NOTE]
 > When you buy Office 365 through a partner, Microsoft sends you an email containing instructions to get your product key and activate your subscription in the [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). To learn more about Volume Licensing, see [help for existing Volume Licensing customers](https://go.microsoft.com/fwlink/p/?LinkId=534992). 
   
-## Related topics
+## Related articles
 
 [Find and enter your product key](enter-your-product-key.md)
   

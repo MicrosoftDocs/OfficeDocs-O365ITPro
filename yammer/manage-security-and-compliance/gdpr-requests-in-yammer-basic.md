@@ -1,9 +1,11 @@
 ---
 title: "Manage GDPR data subject requests in Yammer Basic"
-ms.author: v-irpast
-author: IrenePasternack
+f1.keywords:
+- NOCSH
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
-ms.date: 8/10/2018
+ms.date: 9/23/2019
 audience: End User
 ms.topic: article
 ms.service: yammer
@@ -73,10 +75,12 @@ You can export your own data in Yammer Basic, and can choose to delete any data 
         This data can be used to link directly to a Yammer file. Files.csv does not contain the actual file. If you selected to include attachments in your export, files can be found in the **Files** folder of the .zip file. Use the ID from Files.csv to identify a specific file in the Files folder. 
     
     - **Groups.csv** For any group you created or modified during the specified date range, lists the Yammer ID, name, description, privacy status, whether the group is internal or external, link to the group, creation date, and updated date. This file also includes an aggregated total of the number of polls you voted, and what polls you created. 
-- 
-    -|**LikedMessages.csv** For any message liked by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement.     
+    
+    - **LikedMessages.csv** For any message liked by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the IDs for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement.     
 
     - **Messages.csv** For any message you sent or modified during the specified date range, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the full text of the message, attachments, and creation and deletion information. For announcements, includes the title of the announcement.
+    
+   - **BestReplyMessages.csv** For any message marked as best reply by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information.
     
     - **Networks.csv** Lists all networks included in the export. 
     
@@ -159,7 +163,7 @@ There is some user data that is not included in an export. The following table s
 
 Users that have been inactive for 12 months are suspended for 14 days and notified by email. To keep their Yammer account, they need to log on to Yammer. If they have not logged on to Yammer by the end of the 14 days, the user's account is deleted from Yammer, but their files and messages remain in Yammer. This means that if a user receives a notice that their account is being suspended, they have 14 days to review their files and messages and delete any that they would like to delete before leaving Yammer. 
   
-## See also
+## Related articles
 
 [Export data from Yammer Basic](export-yammer-basic-data.md)
   

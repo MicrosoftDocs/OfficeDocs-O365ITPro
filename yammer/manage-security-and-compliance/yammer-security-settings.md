@@ -1,9 +1,11 @@
 ---
 title: "Manage Yammer security settings"
-ms.author: v-irpast
-author: IrenePasternack
+f1.keywords:
+- NOCSH
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
-ms.date: 3/28/2018
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -72,9 +74,9 @@ For more information about external messaging, see [External messaging FAQ (Yamm
 
 1. In the Yammer admin center, go to **Content and Security** \> **Security Settings**.
     
-2. In the **External Messaging** section, select whether to enforce your Exchange Online mail flow in Yammer. 
+2. In the **External Messaging** section, select the option that makes sense for your organization. 
     
-    For information about this setting, see [Disable external messaging in a Yammer network](../work-with-external-users/control-external-messaging-with-exchange.md).
+    For information about this setting, see [Disable external messaging in a Yammer network](../work-with-external-users/disable-external-messaging.md).
     
 ## Enforce Office 365 identity in Yammer
 <a name="ExternalNetworksSecurity"> </a>
@@ -92,7 +94,7 @@ For more information about external messaging, see [External messaging FAQ (Yamm
     
 2. Look in the **Office 365 Connected Yammer Groups** section to see the status for your connected groups. 
     
-## See also
+## Related articles
 
 [Set up a Yammer usage policy](set-up-a-usage-policy.md)
   

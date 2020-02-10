@@ -1,23 +1,19 @@
 ---
 title: "Change nameservers to set up Office 365 with any domain registrar"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_DOM_Gen1'
-- 'O365M_DOM_Gen1'
-- 'O365E_DOM_Gen1'
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
-- Adm_O365_Top
-- strat_admin_top
-ms.custom:
+- Adm_O365
+- Adm_TOC
 - Adm_O365_Setup
-- Adm_O365_Top
 search.appverid:
 - BCS160
 - MET150
@@ -26,6 +22,7 @@ search.appverid:
 - GEA150
 ms.assetid: a8b487a9-2a45-4581-9dc4-5d28a47010a2
 description: "Learn how to add and set up your domain in Office 365 so that your services like email and Skype for Business Online use your own domain name."
+ms.custom: okr_smb
 ---
 
 # Change nameservers to set up Office 365 with any domain registrar
@@ -84,19 +81,19 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. Choose **Setup** \> **Domains**.
+
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
-    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
+ 
     
-    ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
   
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
-    ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
+    
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
@@ -156,17 +153,15 @@ For example, here are some additional steps that might be required for email and
     
 - Want to add a domain that's currently used with a website address, like www.fourthcoffee.com? You can take below steps while you add the domain to keep its website hosted where the site is hosted now so people can still get to the website after you change the domain's NS records to point to Office 365.
 
-1.Sign in to Office 365 with your work or school account.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
 
-2.Choose Setup > Domains.
+3. On the Domains page, select a domain.
 
-3.On the Domains page, select a domain.
+4. Under **DNS settings**, select **Custom Records**, and then choose **New custom record**.
 
-4.Under DNS settings, choose Custom Records, and then choose New custom record.
+5. Select the type of DNS record you want to add, and type the information for the new record.
 
-5.Choose the type of DNS record you want to add, and type the information for the new record.
-
-Choose Save.
+6. Select **Save**.
     
 > [!NOTE]
 > Your nameserver record updates may take up to several hours to update across the Internet's DNS system. Then your Office 365 email and other services will be all set to work with your domain. 

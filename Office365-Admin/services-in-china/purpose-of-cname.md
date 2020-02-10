@@ -1,16 +1,17 @@
 ---
 title: "What's the purpose of the Office 365 CNAME record for MSOID?"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_DNSMgr_WhatIsExtraCNAMERec'
-- 'O365M_DNSMgr_WhatIsExtraCNAMERec'
-- 'O365E_DNSMgr_WhatIsExtraCNAMERec'
+ms.collection:
+- Adm_O365
+- Adm_NonTOC
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 search.appverid:
 - BCS160
 - MET150

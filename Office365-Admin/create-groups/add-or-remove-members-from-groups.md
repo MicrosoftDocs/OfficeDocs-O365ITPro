@@ -1,5 +1,8 @@
 ---
 title: "Add or remove members from Office 365 groups"
+ms.reviewer: arvaradh
+f1.keywords:
+- NOCSH
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
@@ -10,11 +13,7 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_TOC
 search.appverid:
 - BCS160
 - MET150
@@ -25,83 +24,259 @@ description: "Learn how to add a member to a group, remove member from group, an
 ---
 
 # Add or remove members from Office 365 groups using the admin center
-  
-In Office 365, Group members typically create their own Groups, add themselves to Groups they want to join, or are invited by Group owners. If Group ownership changes, or if you determine that a member should be added or removed, as the admin you can also make that change. [What is an Office 365 Group?](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx)
-  
- **Tip**: You can also [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
-  
-## Add a member to a Group in the Microsoft 365 admin center
 
-1. Sign in to the Microsoft 365 admin center using your global admin or Exchange admin account. If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
-    
-2. In the left navigation pane, choose **Groups** \> **Groups**.
-    
-3. Select a Group.
-    
-4. In the details pane, next to **Members**, click **Edit**.
-    
-    ![Screen shot with Edit members link highlighted](../media/9a47d6bf-850e-45e6-8aa7-a0c4da878234.png)
+::: moniker range="o365-worldwide"
+
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page. 
+
+::: moniker-end
+
+In Office 365, Group members typically create their own Groups, add themselves to Groups they want to join, or are invited by Group owners. If Group ownership changes, or if you determine that a member should be added or removed, as the admin you can also make that change. Only a global administrator, Exchange administrator, Groups administrator, or user administrator can make these changes. [What is an Office 365 Group?](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx)
   
-5. Search for or select the name of the member you want to add.
+ **Tip**: If you're not an admin, you can [add or remove members using Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de.aspx). 
+  
+## Add a member to a Group in the admin center
+
+::: moniker range="o365-worldwide"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.  
     
-6. Click **Save**.
+2. Select a group name.
     
-## Remove a member from a Group in the Microsoft 365 admin center
+3. In the details pane, on the **Members** tab, select **View all and manage members**, and then select **Add members**.
+      
+4. Search for or select the name of the member you want to add.
+    
+5. Select **Save**.
+    
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.  
+    
+2. Select a group name.
+    
+3. In the details pane, next to **Members**, select **Edit**, and then select **Add members**.
+      
+4. Search for or select the name of the member you want to add.
+    
+5. Select **Save**.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.  
+    
+2. Select a group name.
+    
+3. In the details pane, next to **Members**, select **Edit**, and then select **Add members**.
+      
+4. Search for or select the name of the member you want to add.
+    
+5. Select **Save**.
+
+::: moniker-end
+
+## Add a Group to a member in the admin center
+
+::: moniker range="o365-worldwide"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.  
+    
+2. Select a user.
+    
+3. In the details pane, on the **Account** tab, select **Manage groups**.
+      
+4. Search for or select the name of the group you want to add.
+    
+5. Select **Save**.
+    
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=847686" target="_blank">Active users</a> page.  
+    
+2. Select a user name.
+    
+3. In the details pane, next to **Group memberships**, select **Edit**, and then select **Add memberships**.
+      
+4. Search for or select the name of the group you want to add.
+    
+5. Select **Save**.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page. 
+    
+2. Select a user name.
+    
+3. In the details pane, next to **Group memberships**, select **Edit**, and then select **Add memberships**.
+      
+4. Search for or select the name of the group you want to add.
+    
+5. Select **Save**.
+
+::: moniker-end
+
+
+
+## Remove a member from a Group in the admin center
 
 > [!NOTE]
 > When you remove a member from a private group, it takes 5 minutes for the person to be blocked from the group (after membership changes are fully replicated among domain controllers). 
-  
-1. Browse to the Microsoft 365 admin center.
+ 
+::: moniker range="o365-worldwide"
+ 
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
-2. In the left navigation pane, choose **Groups** \> **Groups**.
+2. Select a group name.
     
-3. Select a Group.
+3. In the details pane, on the **Members** tab, select **View all and manage members**.
     
-4. In the details pane, next to **Members**, click **Edit**.
+4. Next to the member you want to remove, select the X.
     
-5. Next to the member you want to remove, click **Remove**.
+5. Select **Save** to remove the member. 
     
-6. Click **Save** to remove the member. 
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
+2. Select a group name.
+    
+3. In the details pane, next to **Members**, select **Edit**.
+    
+4. Next to the member you want to remove, select the X.
+    
+5. Select **Save** to remove the member. 
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
+    
+2. Select a group name.
+    
+3. In the details pane, next to **Members**, select **Edit**.
+    
+4. Next to the member you want to remove, select the X.
+    
+5. Select **Save** to remove the member. 
+
+::: moniker-end
+
 ## Manage Group owner status
 
 By default, the person who created the group is the group owner. Often a group will have multiple owners for backup support or other reasons. Members can be promoted to owner status and owners can be demoted to member status.
   
-### Promote a member to owner status in the Microsoft 365 admin center
+### Promote a member to owner status in the admin center
 
-1. Navigate to the Microsoft 365 admin center.
-    
-2. In the left navigation pane, choose **Groups** \> **Groups**.
-    
-3. Select a Group.
-    
-4. In the **Bulk actions** pane at the right of the screen, click **Edit owners**.
-    
-5. Search for or select the name of the member you want to add.
-    
-6. Click **Add** next to the member's name. 
-    
-7. Click **Save**.
-    
-### Remove owner status in the Microsoft 365 admin center
+::: moniker range="o365-worldwide"
 
-1. Navigate to the Microsoft 365 admin center.
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
-2. In the left navigation pane, choose **Groups** \> **Groups**.
+2. Select a group name.
     
-3. Select a Group.
+3. In the details pane, on the **Members** tab, select **View all and manage owners**.
+
+4. Search for a member, or select **Add owners**.
     
-4. In the details pane at the right of the screen, click **Edit Owners**.
+5. Select the check box next to the name of the member you want to add.
     
-5. Click **Remove** next to the owner's name. 
+6. Select **Save**, and then **Close**.   
+   
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
-6. Click **Save**.
+2. Select a group name.
+
+3. In the details pane, next to **Owners**, select **Edit**.
+
+4. Search for a member, or select **Add owners**.
     
+5. Select the check box next to the name of the member you want to add.
+    
+6. Select **Save**, and then **Close**.   
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
+    
+2. Select a group name.
+
+3. In the details pane, next to **Owners**, select **Edit**.
+
+4. Search for a member, or select **Add owners**.
+    
+5. Select the check box next to the name of the member you want to add.
+    
+6. Select **Save**, and then **Close**.   
+
+::: moniker-end
+
+### Remove owner status in the admin center
+
+::: moniker range="o365-worldwide"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
+    
+2. Select a group name.
+    
+3. In the details pane, on the **Members** tab, select **View all and manage owners**.
+    
+5. Select the X next to the owner's name. 
+    
+6. Select **Save**.
+    
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
+    
+2. Select a group name.
+    
+3. In the details pane, next to **Owners**, select **Edit**.
+    
+5. Select the X next to the owner's name. 
+    
+6. Select **Save**.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
+    
+2. Select a group name.
+    
+3. In the details pane, next to **Owners**, select **Edit**.
+    
+5. Select the X next to the owner's name. 
+    
+6. Select **Save**.
+
+::: moniker-end
+
+
 ## More on managing membership
 
 - [Manage groups dynamically in Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=847632): see the section "How can I manage the membership of a group dynamically?"
     
-- To add hundreds or thousands of users to Office 365 groups, use the [Add-UnifiedGroupLinks](https://go.microsoft.com/fwlink/p/?LinkId=616191).
+- To add hundreds or thousands of users to groups, use the [Add-UnifiedGroupLinks](https://go.microsoft.com/fwlink/p/?LinkId=616191).
     
 - [Assign a new owner to an orphaned group](https://support.office.com/article/86bb3db6-8857-45d1-95c8-f6d540e45732.aspx)
     
@@ -110,10 +285,9 @@ By default, the person who created the group is the group owner. Often a group w
 - [Upgrade distribution lists to Office 365 Groups in Outlook](../manage/upgrade-distribution-lists.md)
     
 - [Why you should upgrade your distribution lists to groups in Outlook](https://support.office.com/article/7fb3d880-593b-4909-aafa-950dd50ce188.aspx)
-    
+
+[Manage guest access in Office 365 Groups](manage-guest-access-in-groups.md)    
     
 - [Manage Office 365 Groups with PowerShell](https://support.office.com/article/aeb669aa-1770-4537-9de2-a82ac11b0540): this article introduces you to key cmdlets and provides examples
     
-- [Create a Distribution Group Naming Policy](https://go.microsoft.com/fwlink/p/?LinkId=616615)
-    
-
+- [Office 365 Groups naming policy](groups-naming-policy.md)

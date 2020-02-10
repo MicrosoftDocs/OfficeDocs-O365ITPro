@@ -1,7 +1,9 @@
 ---
 title: "About the Microsoft 365 Admin mobile app"
-ms.author: adefowler
-author: anfowler
+f1.keywords:
+- NOCSH
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: overview
@@ -10,11 +12,10 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
+- Adm_TOC
 ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Core_O365Admin_Migration
-- MiniMaven
+- TRN_M365B
+- OKR_SMB_Videos
 search.appverid:
 - BCS160
 - MET150
@@ -30,6 +31,7 @@ Are you an admin who's usually on the go? Then check out the [Microsoft 365 Admi
 ![Screen capture of the admin mobile app's home page, displaying search, messages, health, and quick links.](../media/admin-mobile-app-darkbg.png)
 
 The admin app is a feature-rich app that has over 80 features to help you manage your org when you can't get to a computer. Here's a list of just a few of the tasks you can do from the app:
+
 - Get service health and change notifications
 - Create a service request
 - Reset a user's password
@@ -46,6 +48,12 @@ And if you're someone who is responsible for more than one online organization, 
 
 [Microsoft 365 Admin mobile app](https://go.microsoft.com/fwlink/?LinkID=627216).
   
+Watch a short video about installing the admin mobile app.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/05c1d439-9ec2-415f-9178-250f64dec64c] 
+
+If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
  
 ## Frequently asked questions
 
@@ -73,7 +81,7 @@ The numbers are the total messages from the last week, not unread messages.
   
 ### How can I share the Service Incidents and Messages with the rest of my organization?
 
-If you click a specific service incident or a message, the share option will be in the top right corner. We currently support email sharing.
+If you select a specific service incident or a message, the share option will be in the top right corner. We currently support email sharing.
   
 ### My app is acting funny. What can I do to troubleshoot weird app behavior?
 
@@ -89,4 +97,6 @@ You can try some common mobile app troubleshooting steps:
 
 Email [feedback365@microsoft.com](mailto:feedback365@microsoft.com) to report an issue with the app. Or you can give feedback at the bottom of this article. 
   
+## See also
 
+[Microsoft 365 Business training videos](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

@@ -1,28 +1,19 @@
 ---
 title: "Create DNS records at Amazon Web Services (AWS) for Office 365"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_DOM_AWS'
-- 'O365M_DOM_AWS'
-- 'O365E_DOM_AWS'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_O365_Domain_Registrars
+- Adm_NonTOC
 - Adm_O365_Setup
-- Adm_UI_Elements
-ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Adm_O365_Setup
-- Core_O365Admin_Migration
-- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -39,7 +30,7 @@ If AWS is your DNS hosting provider, follow the steps in this article to verify 
   
 After you add these records at AWS, your domain will be set up to work with Office 365 services.
   
-To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
+To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/choose-a-public-website-3325d50e-d131-403c-a278-7f3296fe33a9).
   
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
@@ -54,11 +45,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
   
 1. To get started, go to your domains page at AWS by using [this link](https://console.aws.amazon.com/route53/home). You'll be prompted to log in first.
     
-2. On the **Resources** page, choose **Hosted Zones**.
+2. On the **Resources** page, select **Hosted Zones**.
     
-3. On the ** Hosted Zones ** page, in the **Domain Name** column, choose the name of the domain that you want to edit. 
+3. On the ** Hosted Zones ** page, in the **Domain Name** column, select the name of the domain that you want to edit. 
     
-4. Choose **Create Record Set**.
+4. Select **Create Record Set**.
     
 5. In the **Create Record Set** area, in the boxes for the new record, type or copy and paste the values from the following table. 
     
@@ -72,7 +63,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     |**Name** <br/> |**Type** <br/> |**Alias** <br/> |**TTL (Seconds)** <br/> |**Value** <br/> |**Routing Policy** <br/> |
     |(Leave this field empty.)  <br/> |TXT - Text  <br/> |No  <br/> |300  <br/> |MS=ms *XXXXXXXX*  <br/>**Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Simple  <br/> |
    
-6. Choose **Create**.
+6. Select **Create**.
     
 7. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
@@ -80,13 +71,14 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. In the Microsoft 365 admin center, choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
@@ -96,11 +88,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
 
 1. To get started, go to your domains page at AWS by using [this link](https://console.aws.amazon.com/route53/home). You'll be prompted to log in first.
     
-2. On the **Resources** page, choose **Hosted Zones**.
+2. On the **Resources** page, select **Hosted Zones**.
     
-3. On the **Hosted Zones** page, in the **Domain Name** column, choose the name of the domain that you want to edit. 
+3. On the **Hosted Zones** page, in the **Domain Name** column, select the name of the domain that you want to edit. 
     
-4. Choose **Create Record Set**.
+4. Select **Create Record Set**.
     
 5. In the **Create Record Set** area, in the boxes for the new record, type or copy and paste the values from the following table. 
     
@@ -108,20 +100,20 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**Name**|**Type**|**Alias**|**TTL (Seconds)**|**Value**|**Routing Policy**|
     |:-----|:-----|:-----|:-----|:-----|:-----|
-    |(Leave this field empty.)  <br/> |MX - Mail exchange  <br/> |No  <br/> |300  <br/> |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> The 0 is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your \<*domain-key*\> from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Simple  <br/> |
+    |(Leave this field empty.)  <br/> |MX - Mail exchange  <br/> |No  <br/> |300  <br/> |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> The 0 is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your \<*domain-key*\> from your Office 365 account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |Simple  <br/> |
        
     ![AWS-BP-Configure-2-1](../media/94a71ce7-1b3b-4b1a-9ad3-9592db133075.png)
   
-6. Choose **Create**.
+6. Select **Create**.
     
     ![AWS-BP-Configure-2-2](../media/1c050c72-c04f-48d5-a8e9-44cd83ddd33e.png)
   
 7. If there are any other MX records, remove them.
     
     > [!IMPORTANT]
-    > AWS stores MX records as a set that may contain multiple records. **DO NOT** choose **Delete Record Set**, as this will delete all of your MX records, including the one you just added. Use the following instructions instead. 
+    > AWS stores MX records as a set that may contain multiple records. **DO NOT** select **Delete Record Set**, as this will delete all of your MX records, including the one you just added. Use the following instructions instead. 
   
-    First, choose the MX record set.
+    First, select the MX record set.
     
     ![AWS-BP-Configure-2-3](../media/9d9388cb-e2d0-43b7-928c-e1d07e519c6f.png)
   
@@ -129,20 +121,20 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![AWS-BP-Configure-2-4](../media/c3b0c1bc-21ab-44cc-84b7-f504725c5540.png)
   
-8. Choose **Save Record Set**.
+8. Select **Save Record Set**.
     
     ![AWS-BP-Configure-2-5](../media/86f0998d-f5d4-4750-a93d-ac13b318c40b.png)
   
-## Add the six CNAME records that are required for Office 365
+## Add the five CNAME records that are required for Office 365
 <a name="BKMK_add_CNAME"> </a>
 
 1. To get started, go to your domains page at AWS by using [this link](https://console.aws.amazon.com/route53/home). You'll be prompted to log in first.
     
-2. On the **Resources** page, choose **Hosted Zones**.
+2. On the **Resources** page, select **Hosted Zones**.
     
-3. On the **Hosted Zones** page, in the **Domain Name** column, choose the name of the domain that you want to edit. 
+3. On the **Hosted Zones** page, in the **Domain Name** column, select the name of the domain that you want to edit. 
     
-4. Choose **Create Record Set**.
+4. Select **Create Record Set**.
     
 5. Add the first CNAME record.
     
@@ -155,21 +147,20 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |autodiscover  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
     |sip  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
     |lyncdiscover  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
-    |msoid  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
     |enterpriseregistration  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
     |enterpriseenrollment  <br/> |CNAME - Canonical name  <br/> |No  <br/> |300  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |Simple  <br/> |
    
     ![AWS-BP-Configure-3-1](../media/895c71bd-0e3a-425e-9681-98c1c67e714b.png)
   
-6. Choose **Create**.
+6. Select **Create**.
     
     ![AWS-BP-Configure-3-2](../media/33964846-5282-44a4-b241-62ce02b96735.png)
   
-7. Add the other five CNAME records.
+7. Add the other four CNAME records.
     
-    In the **Hosted Zones** page, choose **Create Record Set**, create a record using the values from the next row in the table, and then again choose **Create** to complete that record. 
+    In the **Hosted Zones** page, select **Create Record Set**, create a record using the values from the next row in the table, and then again select **Create** to complete that record. 
     
-    Repeat this process until you have created all six CNAME records.
+    Repeat this process until you have created all five CNAME records.
     
 ## Add a TXT record for SPF to help prevent email spam
 <a name="BKMK_add_TXT"> </a>
@@ -179,11 +170,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
   
 1. To get started, go to your domains page at AWS by using [this link](https://console.aws.amazon.com/route53/home). You'll be prompted to log in first.
     
-2. On the **Resources** page, choose **Hosted Zones**.
+2. On the **Resources** page, select **Hosted Zones**.
     
-3. On the **Hosted Zones** page, in the **Domain Name** column, choose the name of the domain that you want to edit. 
+3. On the **Hosted Zones** page, in the **Domain Name** column, select the name of the domain that you want to edit. 
     
-4. Choose the **TXT** record set. 
+4. Select the **TXT** record set. 
     
     ![AWS-BP-Configure-4-1](../media/0310fa66-c016-4987-80df-930f1c8f3c39.png)
   
@@ -195,7 +186,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![AWS-BP-Configure-4-2](../media/beb3c086-eaf8-4245-9860-18512a3ff72e.png)
   
-6. Choose **Save Record Set**.
+6. Select **Save Record Set**.
     
     ![AWS-BP-Configure-4-3](../media/94b9306c-bdc9-4f84-ad6f-6d12edbfde90.png)
   
@@ -204,11 +195,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
 
 1. To get started, go to your domains page at AWS by using [this link](https://console.aws.amazon.com/route53/home). You'll be prompted to log in first.
     
-2. On the **Resources** page, choose **Hosted Zones**.
+2. On the **Resources** page, select **Hosted Zones**.
     
-3. On the **Hosted Zones** page, in the **Domain Name** column, choose the name of the domain that you want to edit. 
+3. On the **Hosted Zones** page, in the **Domain Name** column, select the name of the domain that you want to edit. 
     
-4. Choose **Create Record Set**.
+4. Select **Create Record Set**.
     
 5. Add the first SRV record:
     
@@ -223,13 +214,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![AWS-BP-Configure-5-1](../media/c3f841d3-6076-428f-bb04-e71cc5f392fa.png)
   
-6. Choose **Create**.
+6. Select **Create**.
     
     ![AWS-BP-Configure-5-2](../media/1bf5dc58-a46b-47a5-bd69-7c2147dd4e50.png)
   
 7. To add the other SRV record:
     
-    In the **Hosted Zones** page, choose **Create Record Set**, create a record using the values from the next row in the table, and then again choose **Create** to complete that record. 
+    In the **Hosted Zones** page, select **Create Record Set**, create a record using the values from the next row in the table, and then again select **Create** to complete that record. 
     
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 

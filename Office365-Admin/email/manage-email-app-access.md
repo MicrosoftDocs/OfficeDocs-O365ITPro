@@ -1,16 +1,17 @@
 ---
 title: "Manage email app access in Microsoft 365 admin center"
+f1.keywords:
+- CSH
 ms.author: kwekua
 author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365E_AdminSettingsEmailApp
-O365M_AdminSettingsEmailApp'
 ms.service: o365-administration
 localization_priority: Normal
-ms.custom: Core_O365Admin_Migration
+ms.collection: 
+- Adm_O365
+- Adm_NonTOC
 search.appverid:
 - MET150
 - MOE150
@@ -21,7 +22,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 description: "Learn how to choose which mobile apps people can use to access email, calendar, and contacts."
 ---
 
-# Manage email app access in the admin center
+# Manage email app access in the Microsoft 365 admin center
 
 Use the mobile email access settings to choose which mobile apps people in your organization can use to access their work or school account to access email, calendar and contacts.
   
@@ -32,28 +33,18 @@ Use the mobile email access settings to choose which mobile apps people in your 
 
 > [!IMPORTANT]
 >  If you don't use this feature, there'll be no changes to your users' experience. They'll be able to use any mobile email app to access their work or school account for email, calendar, and contacts from their mobile device. 
-  
-1. Sign in to Office 365 with your work or school account. 
     
-2. Click **Admin** to go to the admin center. 
-    
-3. Navigate to **Settings** \> **Services &amp; add-ins**.
-    
-    ![Click Settings, then click Services and add-ins](../media/192267c1-84ac-492c-aeba-7e653c7991db.png)
-  
-4. Turn the toggle **On** to manage email app access options. 
-    
-    ![Mobile email access settings](../media/f031a555-32ee-43ff-a772-aa561781473b.png)
-  
-Choose how users in your organization use email apps on their devices:
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services &amp; add-ins</a> page. 
+
+2. On the **Mobile email access options** page, select the check box, and then choose how users in your organization use email apps on their devices:
   
 Choose the option to set how users in your organization access their Office 365 work or school account from their mobile devices
   
 - **Outlook only** - users in your organization will be required to use the Outlook for Android or Outlook for iOS app on their mobile device. 
     
-- **Any email app** - all users in your organization will be prompted to use the Outlook for Android or Outlook for iOS app on their mobile device, but they can choose to use any email app. 
+- **Any email app** - all users in your organization will be prompted to use Outlook, but they can choose to use any email app. 
     
-- **Any email app** - new users or devices in your organization will be prompted once to use the Outlook for Android or Outlook for iOS app on their mobile device, but they can choose to use any email app. 
+- **Any email app** - new users or devices in your organization will be prompted once to use Outlook, but they can choose to use any email app. 
     
 For more details, check out [Options for accessing email from your mobile device](access-email-from-a-mobile-device.md).
   

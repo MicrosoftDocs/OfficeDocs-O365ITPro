@@ -1,9 +1,11 @@
 ---
 title: Kaizala Actions
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 5/29/2019
+ms.date: 6/25/2019
 audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -23,8 +25,10 @@ description: Learn how to use Kaizala Actions to get work done within a conversa
 
 Actions help people get work done through a conversation in Kaizala. Some Actions – like Jobs, Surveys, and Polls – are ready out-of-the-box with pre-defined settings. Once you publish an Action, people can find it in the Kaizala app and use it in a conversation from the Action Palette.
 
-You can create new Kaizala Actions through the Action Designer, found in the Kaizala management portal.
-  
+You can create new Kaizala Actions through the Action Designer, found in the [Kaizala management portal](https://manage.kaiza.la).
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3aku3]
+
 ## Create Kaizala Action
 
 1. To create a new Kaizala Action, go to **Extensions** > **Actions** from the left navigation bar.

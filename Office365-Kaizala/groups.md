@@ -1,5 +1,7 @@
 ---
 title: Kaizala groups
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
@@ -61,21 +63,21 @@ Once you've added users to Kaizala groups, you can start sending surveys, polls,
   
 You can add multiple groups and users at once from an Excel spreadsheet or other file saved in CSV format. For more information, see [Add several users at the same time to Office 365 - Admin Help](https://support.office.com/article/1f5767ed-e717-4f24-969c-6ea9d412ca88#__toc316652088).
   
-1. Click or tap **Groups**, and then click or tap **Bulk Upload Users**. 
+1. Select **Groups**, and then select **Bulk Upload Users**. 
     
 2. On the **Bulk Upload Users** page, download the **User Group Mapping** CSV template file. Follow the steps to add your groups and user phone numbers. If you want to define group hierarchy, download and use the **Parent Group Mapping** CSV template file. Save the file to a location that you'll remember. 
     
-3. On the **Bulk Upload Users** page, select the file you saved previously, and click **Upload**. 
+3. On the **Bulk Upload Users** page, select the file you saved previously, and select **Upload**. 
     
     > [!NOTE]
     > If there are problems with the file, they are displayed in the panel. Click on the job time stamp link to see the detailed logs. 
   
-4. If there aren't any problems with the file, click **Upload** to upload your groups and users info. 
+4. If there aren't any problems with the file, select **Upload** to upload your groups and users info. 
     
 ## Add a Kaizala subgroup
 
-1. On the Kaizala management portal, from the left navigation bar, choose **Groups**. Select a group you want to modify. 
-2. Select **Sub-Groups** from the top navigation bar of the group. Then choose a group you want to link from the drop-down list and click or tap **Add Group**. 
+1. On the Kaizala management portal, from the left navigation bar, select **Groups**. Select a group you want to modify. 
+2. Select **Sub-Groups** from the top navigation bar of the group. Then select a group you want to link from the drop-down list and select **Add Group**. 
     
     ![Add a Kaizala subgroup to a parent group](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
     
@@ -84,20 +86,20 @@ You can add multiple groups and users at once from an Excel spreadsheet or other
   
 ### Remove a Kaizala subgroup
 
-1. On the Kaizala management portal, from the left navigation bar, choose **Groups**.
-2. Choose a group from the drop-down list, and then click or tap **Remove**. 
+1. On the Kaizala management portal, from the left navigation bar, select **Groups**.
+2. Choose a group from the drop-down list, and then choose **Remove**. 
     
     ![Add a Kaizala subgroup to a parent group](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
     
 ## Add a connector
 
-1. On the Kaizala management portal, from the left navigation bar, choose **Groups**. Select a group where you want to add a connector.
-2. Select **Connectors** from the top navigation bar of the group. Choose a connector you want to link from the drop-down list, and then click or tap **Add connector**. 
+1. On the Kaizala management portal, from the left navigation bar, select **Groups**. Select a group where you want to add a connector.
+2. Select **Connectors** from the top navigation bar of the group. Choose a connector you want to link from the drop-down list, and then choose **Add connector**. 
 
 ## Add an action
 
-1. On the Kaizala management portal, from the left navigation bar, choose **Groups**. Select a group where you want to add a connector.
-2. Select **Actions** from the top navigation bar of the group. Choose an action you want to link from the drop-down list, and then click or tap **Add action**.
+1. On the Kaizala management portal, from the left navigation bar, select **Groups**. Select a group where you want to add a connector.
+2. Select **Actions** from the top navigation bar of the group. Choose an action you want to link from the drop-down list, and then choose **Add action**.
 3. Select an action you want to add and check which roles can send this action.
 4. Publish the action.    
   
@@ -105,9 +107,9 @@ You can add multiple groups and users at once from an Excel spreadsheet or other
 
 You can export all Kaizala group information to a CSV file.
   
-1. On the Kaizala management portal, from the left navigation bar, choose **Groups**. Then choose **Bulk Upload Users**. 
+1. On the Kaizala management portal, from the left navigation bar, select **Groups**. Then select **Bulk Upload Users**. 
     
-2. Click or tap **Export Existing Groups**. 
+2. Select **Export Existing Groups**. 
     
 You can then view groups and users information from an Excel spreadsheet or another app that can open CSV files. For more information, see [Add several users at the same time to Office 365 - Admin Help](https://support.office.com/article/1f5767ed-e717-4f24-969c-6ea9d412ca88#__toc316652088).
   

@@ -1,5 +1,7 @@
 ---
-title: "Back up data before switching O365 for business plans"
+title: "Back up data before switching Office 365 for business plans"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,10 +12,8 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- commerce
+- Adm_TOC
 search.appverid:
 - BCS160
 - MET150
@@ -23,7 +23,7 @@ ms.assetid: a1da52c9-2167-4973-9e6d-492314a79b87
 description: "Backup Outlook, OneDrive, Yammer, and SharePoint content before switching Office 365 subscriptions or if a user leaves the organization."
 ---
 
-# Back up data before switching O365 for business plans
+# Back up data before switching Office 365 for business plans
 
 If a user will be switched to another subscription that has fewer data-related services or a user leaves the organization, a copy of their data that's stored in Office 365 can be downloaded before they are switched to the new subscription.
   
@@ -39,7 +39,7 @@ Before being switched to a different subscription, users can [download files and
   
 ## Save Yammer information
 
-Admins can export all messages, notes, files, topics, users, and groups to a .zip file. For more information, see [Export data from Yammer Enterprise](https://docs.microsoft.com/en-us/yammer/manage-security-and-compliance/export-yammer-enterprise-data). Developers can use the [Yammer API](https://go.microsoft.com/fwlink/p/?linkid=842495) to do this, as well. 
+Admins can export all messages, notes, files, topics, users, and groups to a .zip file. For more information, see [Export data from Yammer Enterprise](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data). Developers can use the [Yammer API](https://go.microsoft.com/fwlink/p/?linkid=842495) to do this, as well. 
   
 ## How to save SharePoint information
 

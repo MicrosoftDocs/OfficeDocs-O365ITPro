@@ -1,7 +1,9 @@
 ---
 title: "Manage GDPR data subject requests in Yammer Enterprise"
-ms.author: v-irpast
-author: IrenePasternack
+f1.keywords:
+- NOCSH
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
 ms.date: 12/16/2018
 audience: Admin
@@ -82,6 +84,7 @@ If needed, change the settings to **Hard Delete**.
 |**Groups.csv** <br/> | For any group created or modified by the user, lists the Yammer group ID, name, description, privacy status, whether the group is internal or external, link to the group, creation date, and updated date. This file also includes the aggregated total number of polls the user voted on, and the polls the user created.  <br/> |
 |**LikedMessages.csv** <br/> | For any message liked by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement. <br/> |
 |**Messages.csv** <br/> | For any message sent or modified by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement. <br><br/> For information about how to go directly to a specific message in Yammer, see [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles).  <br/> |
+|**BestReplyMessages.csv** <br/>| For any message marked as best reply by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. <br/>|
 |**Topics.csv** <br/> |For any topic created by the user during the specified date range, lists the creation information and a link to the topic.  <br/> |
 |**Files folder**.  <br/> | This folder contains files that are stored in Yammer and have been created or modified by the user during the specified time period. It does not contain Yammer files that are stored in SharePoint.<br><br>Files are in their native format and are named with their Yammer ID. For example, a PowerPoint presentation might be listed as 127815379.pptx.  <br><br/> For information about how to delete a specific file, see [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles).  <br/> |
    
@@ -238,7 +241,7 @@ When a user's account gets deactivated by using the **Erase this user** option, 
     
     After 14 days, the user cannot be reactivated.
     
-## See also
+## Related articles
 
 [Manage Yammer data compliance](manage-data-compliance.md)
   

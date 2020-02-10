@@ -1,28 +1,19 @@
 ---
 title: "Create DNS records at Network Solutions for Office 365"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_DOM_NetS'
-- 'O365M_DOM_NetS'
-- 'O365E_DOM_NetS'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_O365_Domain_Registrars
+- Adm_NonTOC
 - Adm_O365_Setup
-- Adm_UI_Elements
-ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Adm_O365_Setup
-- Core_O365Admin_Migration
-- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -37,7 +28,7 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If Network Solutions is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
   
-These are the main records to add. Follow the steps below or [watch the video](https://support.office.com/en-us/article/Video-Create-DNS-records-at-Network-Solutions-for-Office-365-c49698c2-6991-47fb-b5ac-18e49a505099?ui=en-US&amp;rs=en-US&amp;ad=US). 
+These are the main records to add. Follow the steps below or [watch the video](https://support.office.com/article/Video-Create-DNS-records-at-Network-Solutions-for-Office-365-c49698c2-6991-47fb-b5ac-18e49a505099?ui=en-US&amp;rs=en-US&amp;ad=US). 
   
 - [Add a TXT record for verification](#add-a-txt-record-for-verification)
     
@@ -51,7 +42,7 @@ These are the main records to add. Follow the steps below or [watch the video](h
     
 After you add these records at Network Solutions, your domain will be set up to work with Office 365 services.
   
-To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
+To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/choose-a-public-website-3325d50e-d131-403c-a278-7f3296fe33a9).
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
@@ -64,12 +55,12 @@ Before you use your domain with Office 365, we have to make sure that you own it
 > [!NOTE]
 > This record is used only to verify that you own your domain; it doesn't affect anything else. You can delete it later, if you like. 
   
-Follow the steps below or [watch the video (start at 0:47)](https://support.office.com/en-us/article/Video-Create-DNS-records-at-Network-Solutions-for-Office-365-c49698c2-6991-47fb-b5ac-18e49a505099?ui=en-US&amp;rs=en-US&amp;ad=US).
+Follow the steps below or [watch the video (start at 0:47)](https://support.office.com/article/Video-Create-DNS-records-at-Network-Solutions-for-Office-365-c49698c2-6991-47fb-b5ac-18e49a505099?ui=en-US&amp;rs=en-US&amp;ad=US).
   
 1. To get started, go to your domains page at Network Solutions by using [this link](https://www.networksolutions.com/manage-it). You'll be prompted to log in.
     
     > [!IMPORTANT]
-    > Before you choose the **Login** button, first choose **Manage My Domain Names** in the **Log In to:** drop-down list. 
+    > Before you select the **Login** button, first choose **Manage My Domain Names** in the **Log In to:** drop-down list. 
   
     ![Choose Manage My Domain Names and log in to Network Solutions](../media/fda7d4a1-9445-4086-be9c-87c6983ef2aa.png)
   
@@ -77,19 +68,19 @@ Follow the steps below or [watch the video (start at 0:47)](https://support.offi
     
     ![Select the check box for your domain](../media/2c13d2ba-4a31-44da-812c-2cc90900a183.png)
   
-3. Choose **Edit DNS**.
+3. Select **Edit DNS**.
     
-    ![Click Edit DNS](../media/9d7c269f-48d1-442c-9d7b-63bd384a36a9.png)
+    ![Select Edit DNS](../media/9d7c269f-48d1-442c-9d7b-63bd384a36a9.png)
   
-4. Choose **Manage Advanced DNS Records**.
+4. Select **Manage Advanced DNS Records**.
     
     (You may have to scroll down.)
     
-    ![Click Manage Advanced DNS Records](../media/fd2956d6-eec3-47ea-b60a-266bab14f51f.png)
+    ![Select Manage Advanced DNS Records](../media/fd2956d6-eec3-47ea-b60a-266bab14f51f.png)
   
-5. Scroll down to the **Text (TXT Records)** section, and then choose **Edit TXT Records**.
+5. Scroll down to the **Text (TXT Records)** section, and then select **Edit TXT Records**.
     
-    ![Click Edit TXT Records](../media/240a01d6-750a-4da6-8554-641b571e4b71.png)
+    ![Select Edit TXT Records](../media/240a01d6-750a-4da6-8554-641b571e4b71.png)
   
 6. In the boxes for the new record, type or copy and paste the values in the following table.
     
@@ -99,33 +90,33 @@ Follow the steps below or [watch the video (start at 0:47)](https://support.offi
        
     ![Type or paste values in the boxes for the new record](../media/8a76daab-b6ff-4c82-ba68-192b24fbb934.png)
   
-7. Choose **Continue**.
+7. Select **Continue**.
     
-    ![Click Continue](../media/89e7fb38-b4d9-4949-a1bb-d0dd10b361e0.png)
+    ![Select Continue](../media/89e7fb38-b4d9-4949-a1bb-d0dd10b361e0.png)
   
-8. Choose **Save Changes**.
+8. Select **Save Changes**.
     
-    ![Click Save Changes](../media/bd4d7cd0-c8a3-497a-b080-cfd5a5c60dc5.png)
+    ![Select Save Changes](../media/bd4d7cd0-c8a3-497a-b080-cfd5a5c60dc5.png)
   
 9. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
 Now that you've added the record at your domain registrar's site, you'll go back to Office 365 and request Office 365 to look for the record.
   
 When Office 365 finds the correct TXT record, your domain is verified.
+
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+    
+2. On the **Domains** page, select the domain that you are verifying. 
+    
+    
   
-1. Choose **Setup** \> **Domains**.
+3. On the **Setup** page, select **Start setup**.
     
-2. On the **Domains** page, choose the domain that you are verifying. 
     
-    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
   
-3. On the **Setup** page, choose **Start setup**.
+4. On the **Verify domain** page, select **Verify**.
     
-    ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
-  
-4. On the **Verify domain** page, choose **Verify**.
     
-    ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
@@ -133,12 +124,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
 ## Add an MX record so email for your domain will come to Office 365
 <a name="BKMK_add_MX"> </a>
 
-Follow the steps below or [watch the video (start at 3:51)](https://support.office.com/en-us/article/Video-Create-DNS-records-at-Network-Solutions-for-Office-365-c49698c2-6991-47fb-b5ac-18e49a505099?ui=en-US&amp;rs=en-US&amp;ad=US).
+Follow the steps below or [watch the video (start at 3:51)](https://support.office.com/article/Video-Create-DNS-records-at-Network-Solutions-for-Office-365-c49698c2-6991-47fb-b5ac-18e49a505099?ui=en-US&amp;rs=en-US&amp;ad=US).
   
 1. To get started, go to your domains page at Network Solutions by using [this link](https://www.networksolutions.com/manage-it). You'll be prompted to log in.
     
     > [!IMPORTANT]
-    > Before you choose the **Login** button, first choose **Manage My Domain Names** in the **Log In to:** drop-down list. 
+    > Before you select the **Login** button, first choose **Manage My Domain Names** in the **Log In to:** drop-down list. 
   
     ![Choose Manage My Domain Names and log in to Network Solutions](../media/fda7d4a1-9445-4086-be9c-87c6983ef2aa.png)
   
@@ -146,57 +137,57 @@ Follow the steps below or [watch the video (start at 3:51)](https://support.offi
     
     ![Select the check box for your domain](../media/2c13d2ba-4a31-44da-812c-2cc90900a183.png)
   
-3. Choose **Edit DNS**.
+3. Select **Edit DNS**.
     
-    ![Click Edit DNS](../media/9d7c269f-48d1-442c-9d7b-63bd384a36a9.png)
+    ![Select Edit DNS](../media/9d7c269f-48d1-442c-9d7b-63bd384a36a9.png)
   
-4. Choose **Manage Advanced DNS Records**.
+4. Select **Manage Advanced DNS Records**.
     
     (You may have to scroll down.)
     
-    ![Click Manage Advanced DNS Records](../media/fd2956d6-eec3-47ea-b60a-266bab14f51f.png)
+    ![Select Manage Advanced DNS Records](../media/fd2956d6-eec3-47ea-b60a-266bab14f51f.png)
   
-5. Scroll down to the **Mail Servers (MX Records)** section, and then choose **Edit MX Records**.
+5. Scroll down to the **Mail Servers (MX Records)** section, and then select **Edit MX Records**.
     
-    ![Click Edit MX Records](../media/74b4e412-9073-4d2d-8710-fe340b223798.png)
+    ![Select Edit MX Records](../media/74b4e412-9073-4d2d-8710-fe340b223798.png)
   
 6. In the boxes for the new record, type or copy and paste the values from the following table.
     
     |**Priority**|**TTL**|**Mail Server**|
     |:-----|:-----|:-----|
-    |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |3600  <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |3600  <br/> | *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 account. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
        
     ![Type or paste values in the boxes for the new record](../media/0bb96872-cc6e-4dfa-a649-fb7efbbf0012.png)
   
-7. Choose **Continue**.
+7. Select **Continue**.
     
-    ![Click Continue](../media/963f758b-e79d-4452-8340-7eba8a3972c9.png)
+    ![Select Continue](../media/963f758b-e79d-4452-8340-7eba8a3972c9.png)
   
-8. Choose **Save Changes**.
+8. Select **Save Changes**.
     
-    ![Click Save Changes](../media/7c2f784a-6dee-4364-866c-ad7202ef1fc2.png)
+    ![Select Save Changes](../media/7c2f784a-6dee-4364-866c-ad7202ef1fc2.png)
   
 9. If there are any other MX records, delete all of them by selecting **Delete** for each record. 
     
     ![Select the Delete check box for other MX records](../media/709d6133-9f5d-490a-a91e-95e21ca94695.png)
   
-10. When they are all selected, choose **Continue**.
+10. When they are all selected, select **Continue**.
     
-    ![Click Continue](../media/4710f988-0bbc-4ba7-bf31-ca2392b2900e.png)
+    ![Select Continue](../media/4710f988-0bbc-4ba7-bf31-ca2392b2900e.png)
   
-11. Choose **Save Changes**.
+11. Select **Save Changes**.
     
-    ![Click Save Changes](../media/24432ec6-666b-4612-9488-37c06437959b.png)
+    ![Select Save Changes](../media/24432ec6-666b-4612-9488-37c06437959b.png)
   
 ## Add the CNAME records that are required for Office 365
 <a name="BKMK_add_CNAME"> </a>
 
-Follow the steps below or [watch the video (start at 4:43)](https://support.office.com/en-us/article/Video-Create-DNS-records-at-Network-Solutions-for-Office-365-c49698c2-6991-47fb-b5ac-18e49a505099?ui=en-US&amp;rs=en-US&amp;ad=US).
+Follow the steps below or [watch the video (start at 4:43)](https://support.office.com/article/Video-Create-DNS-records-at-Network-Solutions-for-Office-365-c49698c2-6991-47fb-b5ac-18e49a505099?ui=en-US&amp;rs=en-US&amp;ad=US).
   
 1. To get started, go to your domains page at Network Solutions by using [this link](https://www.networksolutions.com/manage-it). You'll be prompted to log in.
     
     > [!IMPORTANT]
-    > Before you choose the **Login** button, first choose **Manage My Domain Names** in the **Log In to:** drop-down list. 
+    > Before you select the **Login** button, first choose **Manage My Domain Names** in the **Log In to:** drop-down list. 
   
     ![Choose Manage My Domain Names and log in to Network Solutions](../media/fda7d4a1-9445-4086-be9c-87c6983ef2aa.png)
   
@@ -204,19 +195,19 @@ Follow the steps below or [watch the video (start at 4:43)](https://support.offi
     
     ![Select the check box for your domain](../media/2c13d2ba-4a31-44da-812c-2cc90900a183.png)
   
-3. Choose **Edit DNS**.
+3. Select **Edit DNS**.
     
-    ![Click Edit DNS](../media/9d7c269f-48d1-442c-9d7b-63bd384a36a9.png)
+    ![Select Edit DNS](../media/9d7c269f-48d1-442c-9d7b-63bd384a36a9.png)
   
-4. Choose **Manage Advanced DNS Records**.
+4. Select **Manage Advanced DNS Records**.
     
     (You may have to scroll down.)
     
-    ![Click Manage Advanced DNS Records](../media/fd2956d6-eec3-47ea-b60a-266bab14f51f.png)
+    ![Select Manage Advanced DNS Records](../media/fd2956d6-eec3-47ea-b60a-266bab14f51f.png)
   
-5. Scroll down to the **Host Aliases (CNAME Records)** section, and then choose **Edit CNAME Records**.
+5. Scroll down to the **Host Aliases (CNAME Records)** section, and then select **Edit CNAME Records**.
     
-    ![Click Edit CNAME Records under Host Aliases](../media/2d0a4666-8d40-48f4-886c-64a5157baaf5.png)
+    ![Select Edit CNAME Records under Host Aliases](../media/2d0a4666-8d40-48f4-886c-64a5157baaf5.png)
   
 6. In the boxes for the four new records, type or copy and paste the values from the following table.
     
@@ -225,19 +216,18 @@ Follow the steps below or [watch the video (start at 4:43)](https://support.offi
     |autodiscover  <br/> |3600  <br/> |(No setting)  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
     |sip  <br/> |3600  <br/> |(No setting)  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
     |lyncdiscover  <br/> |3600  <br/> |(No setting)  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-    |msoid  <br/> |3600  <br/> |(No setting)  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
     |enterpriseregistration  <br/> |3600  <br/> |(No setting)  <br/> |enterpriseregistration.windows.net  <br/> **This value MUST end with a period (.)** <br/> |
     |enterpriseenrollment  <br/> |3600  <br/> |(No setting)  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> **This value MUST end with a period (.)** <br/> |
     
     ![Type or paste values for the new records](../media/5ce0b30c-b46c-4778-aa5a-fb5e2f0961c1.png)
   
-7. When you have added all of the CNAME records that you need, choose **Continue**.
+7. When you have added all of the CNAME records that you need, select **Continue**.
     
-    ![Click Continue](../media/4978bd8b-f6a6-458d-9522-ad612b301c4a.png)
+    ![Select Continue](../media/4978bd8b-f6a6-458d-9522-ad612b301c4a.png)
   
-8. Choose **Save Changes**.
+8. Select **Save Changes**.
     
-    ![Click Save Changes](../media/f005c38a-0d8d-4c61-bec6-15e60c89aa5a.png)
+    ![Select Save Changes](../media/f005c38a-0d8d-4c61-bec6-15e60c89aa5a.png)
   
 ## Add a TXT record for SPF to help prevent email spam
 <a name="BKMK_add_TXT"> </a>
@@ -245,12 +235,12 @@ Follow the steps below or [watch the video (start at 4:43)](https://support.offi
 > [!IMPORTANT]
 > You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
   
-Follow the steps below or [watch the video (start at 5:35)](https://support.office.com/en-us/article/Video-Create-DNS-records-at-Network-Solutions-for-Office-365-c49698c2-6991-47fb-b5ac-18e49a505099?ui=en-US&amp;rs=en-US&amp;ad=US).
+Follow the steps below or [watch the video (start at 5:35)](https://support.office.com/article/Video-Create-DNS-records-at-Network-Solutions-for-Office-365-c49698c2-6991-47fb-b5ac-18e49a505099?ui=en-US&amp;rs=en-US&amp;ad=US).
   
 1. To get started, go to your domains page at Network Solutions by using [this link](https://www.networksolutions.com/manage-it). You'll be prompted to log in.
     
     > [!IMPORTANT]
-    > Before you choose the **Login** button, first choose **Manage My Domain Names** in the **Log In to:** drop-down list. 
+    > Before you select the **Login** button, first choose **Manage My Domain Names** in the **Log In to:** drop-down list. 
   
     ![Choose Manage My Domain Names and log in to Network Solutions](../media/fda7d4a1-9445-4086-be9c-87c6983ef2aa.png)
   
@@ -258,19 +248,19 @@ Follow the steps below or [watch the video (start at 5:35)](https://support.offi
     
     ![Select the check box for your domain](../media/2c13d2ba-4a31-44da-812c-2cc90900a183.png)
   
-3. Choose **Edit DNS**.
+3. Select **Edit DNS**.
     
-    ![Click Edit DNS](../media/9d7c269f-48d1-442c-9d7b-63bd384a36a9.png)
+    ![Select Edit DNS](../media/9d7c269f-48d1-442c-9d7b-63bd384a36a9.png)
   
-4. Choose **Manage Advanced DNS Records**.
+4. Select **Manage Advanced DNS Records**.
     
     (You may have to scroll down.)
     
-    ![Click Manage Advanced DNS Records](../media/fd2956d6-eec3-47ea-b60a-266bab14f51f.png)
+    ![Select Manage Advanced DNS Records](../media/fd2956d6-eec3-47ea-b60a-266bab14f51f.png)
   
-5. Scroll down to the **Text (TXT Records)** section, and then choose **Edit TXT Records**.
+5. Scroll down to the **Text (TXT Records)** section, and then select **Edit TXT Records**.
     
-    ![Click Edit TXT Records under Text](../media/a69a2631-6da2-4e81-99ab-9a9ab9b30b07.png)
+    ![Select Edit TXT Records under Text](../media/a69a2631-6da2-4e81-99ab-9a9ab9b30b07.png)
   
 6. In the boxes for the new record, type or copy and paste the following values.
     
@@ -280,23 +270,23 @@ Follow the steps below or [watch the video (start at 5:35)](https://support.offi
        
     ![Type or paste values for the new record](../media/11564eca-e2ee-4f17-af2b-a00eb7c157db.png)
   
-7. Choose **Continue**.
+7. Select **Continue**.
     
-    ![Click Continue](../media/482a8dae-0c79-47c4-8bd8-87965683de24.png)
+    ![Select Continue](../media/482a8dae-0c79-47c4-8bd8-87965683de24.png)
   
-8. Choose **Save Changes**.
+8. Select **Save Changes**.
     
-    ![Click Save Changes](../media/600b8c6d-184f-4213-a50e-8f119ebf3ff0.png)
+    ![Select Save Changes](../media/600b8c6d-184f-4213-a50e-8f119ebf3ff0.png)
   
 ## Add the two SRV records that are required for Office 365
 <a name="BKMK_add_SRV"> </a>
 
-Follow the steps below or [watch the video (start at 6:18)](https://support.office.com/en-us/article/Video-Create-DNS-records-at-Network-Solutions-for-Office-365-c49698c2-6991-47fb-b5ac-18e49a505099?ui=en-US&amp;rs=en-US&amp;ad=US).
+Follow the steps below or [watch the video (start at 6:18)](https://support.office.com/article/Video-Create-DNS-records-at-Network-Solutions-for-Office-365-c49698c2-6991-47fb-b5ac-18e49a505099?ui=en-US&amp;rs=en-US&amp;ad=US).
   
 1. To get started, go to your domains page at Network Solutions by using [this link](https://www.networksolutions.com/manage-it). You'll be prompted to log in.
     
     > [!IMPORTANT]
-    > Before you choose the **Login** button, first choose **Manage My Domain Names** in the **Log In to:** drop-down list. 
+    > Before you select the **Login** button, first choose **Manage My Domain Names** in the **Log In to:** drop-down list. 
   
     ![Choose Manage My Domain Names and log in to Network Solutions](../media/fda7d4a1-9445-4086-be9c-87c6983ef2aa.png)
   
@@ -304,19 +294,19 @@ Follow the steps below or [watch the video (start at 6:18)](https://support.offi
     
     ![Select the check box for your domain](../media/2c13d2ba-4a31-44da-812c-2cc90900a183.png)
   
-3. Choose **Edit DNS**.
+3. Select **Edit DNS**.
     
-    ![Click Edit DNS](../media/9d7c269f-48d1-442c-9d7b-63bd384a36a9.png)
+    ![Select Edit DNS](../media/9d7c269f-48d1-442c-9d7b-63bd384a36a9.png)
   
-4. Choose **Manage Advanced DNS Records**.
+4. Select **Manage Advanced DNS Records**.
     
     (You may have to scroll down.)
     
-    ![Click Manage Advanced DNS Records](../media/fd2956d6-eec3-47ea-b60a-266bab14f51f.png)
+    ![Select Manage Advanced DNS Records](../media/fd2956d6-eec3-47ea-b60a-266bab14f51f.png)
   
-5. Scroll down to the **Service (SRV Records)** section, and then choose **Edit SRV Records**.
+5. Scroll down to the **Service (SRV Records)** section, and then select **Edit SRV Records**.
     
-    ![Click Edit SRV Records under Service](../media/9a9248ea-5de5-4e16-9364-f7600fa371f5.png)
+    ![Select Edit SRV Records under Service](../media/9a9248ea-5de5-4e16-9364-f7600fa371f5.png)
   
 6. In the boxes for the two new records, type or copy and paste the values from the following table.
     
@@ -329,13 +319,13 @@ Follow the steps below or [watch the video (start at 6:18)](https://support.offi
        
     ![Type or paste values for the new records](../media/86968d1c-8e43-4e61-aeaa-37fc7d7ef7a7.png)
   
-7. Choose **Continue**.
+7. Select **Continue**.
     
-    ![Click Continue](../media/bfe2c778-5d2b-4bb6-a79d-c3ff9caf9e1e.png)
+    ![Select Continue](../media/bfe2c778-5d2b-4bb6-a79d-c3ff9caf9e1e.png)
   
-8. Choose **Save Changes**.
+8. Select **Save Changes**.
     
-    ![Click Save Changes](../media/6d323126-0ebe-45ab-8567-c234711d84c7.png)
+    ![Select Save Changes](../media/6d323126-0ebe-45ab-8567-c234711d84c7.png)
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 

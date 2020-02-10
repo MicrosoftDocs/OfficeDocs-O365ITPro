@@ -1,5 +1,7 @@
 ---
 title: Kaizala regional availability
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
@@ -20,40 +22,7 @@ description: Learn which regional areas Kaizala Pro is now available.
 
 # Kaizala regional availability
 
-Microsoft Kaizala Pro is currently available in the following countries:
-
-1. Argentina 
-2. Bangladesh
-3. Brazil
-4. Cambodia
-5. Chile
-6. Colombia
-7. Egypt 
-8. Ethiopia
-9. India
-10. Indonesia
-11. Israel
-12. Jordan
-13. Kenya
-14. Lebanon
-15. Malaysia
-16. Mexico
-17. Morocco
-18. Nigeria
-19. Philippines
-20. Rwanda
-21. Saudi Arabia
-22. Singapore
-23. South Africa 
-24. Tanzania 
-25. Thailand
-26. Turkey
-27. Uganda
-28. Vietnam
-
-## Upcoming worldwide release
-
-Beginning in May 2019, Kaizala Pro will be commercially available internationally, with the exception of the following countries or regions:
+Microsoft Kaizala Pro is commercially available internationally, with the exception of the following countries or regions:
 
 - Cuba
 - Iran

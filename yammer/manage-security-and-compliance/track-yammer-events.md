@@ -1,9 +1,11 @@
 ---
 title: "Track Yammer events in the Office 365 audit log and with the Management Activity API"
-ms.author: v-irpast
-author: IrenePasternack
+f1.keywords:
+- NOCSH
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
-ms.date: 3/28/2019
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: overview
 ms.service: yammer
@@ -54,6 +56,6 @@ To view the audit log:
 
 You can use the Office 365 Management Activity API to download various Yammer audit data. Read about how to register your application in Azure AD to get access to these features in [Get started with Office 365 Management APIs](https://msdn.microsoft.com/office-365/get-started-with-office-365-management-apis). For the API reference see [Office 365 Management Activity API schema](https://msdn.microsoft.com/office-365/office-365-management-activity-api-schema).
   
-## See also
+## Related articles
 
 [Security FAQ](security-and-compliance.md#Security)

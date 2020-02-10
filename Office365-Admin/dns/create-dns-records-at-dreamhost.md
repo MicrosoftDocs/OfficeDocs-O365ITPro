@@ -1,5 +1,7 @@
 ---
 title: "Create DNS records at Dreamhost for Office 365"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,13 +12,8 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_O365_Domain_Registrars
+- Adm_NonTOC
 - Adm_O365_Setup
-ms.custom:
-- Adm_O365
-- Adm_O365_Setup
-- Core_O365Admin_Migration
-- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -50,11 +47,11 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     ![Dreamhost-BP-Configure-1-1](../media/1919b810-b6ba-4e29-a774-de1e7c67d078.png)
   
-2. On the **Dashboard** page, choose **Domains**, and then choose **Manage Domains**.
+2. On the **Dashboard** page, select **Domains**, and then **Manage Domains**.
     
     ![Dreamhost-BP-Configure-1-2](../media/ab05c16a-79f6-491f-ad07-9a2e6674671d.png)
   
-3. On the **Manage Domains** page, in the **Domain** section, choose **DNS** for the domain that you want to edit. 
+3. On the **Manage Domains** page, in the **Domain** section, select **DNS** for the domain that you want to edit. 
     
     ![Dreamhost-BP-Configure-1-3](../media/1a8723a0-54bc-40ff-bc30-5fc3e8cd219b.png)
   
@@ -62,7 +59,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     (You may have to scroll down.)
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
     |**Name**|**Type**|**Value**|**Comment**|
     |:-----|:-----|:-----|:-----|
@@ -70,7 +67,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
    
    ![Dreamhost-BP-Verify-1-1](../media/ed4a7d43-eeeb-4ec8-849c-37f81315dc69.png)
   
-5. Choose **Add Record Now!**
+5. Select **Add Record Now!**
     
     ![Dreamhost-BP-Verify-1-2](../media/5b89c89b-3a8e-4624-895a-86f3cc4638f6.png)
   
@@ -80,19 +77,20 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. Choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
-    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    
   
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
-    ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
+    
   
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
-    ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
+    
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
@@ -108,11 +106,11 @@ Follow the steps below.
     
     ![Dreamhost-BP-Configure-1-1](../media/1919b810-b6ba-4e29-a774-de1e7c67d078.png)
   
-2. On the **Dashboard** page, choose **Mail**, and then choose **Custom MX**.
+2. On the **Dashboard** page, select **Mail**, and then **Custom MX**.
     
     ![Dreamhost-BP-Configure-2-1](../media/58478679-4018-49cc-9d83-371dc5fa4a22.png)
   
-3. In the **Manage Mail Delivery** section, in the **Actions** column, choose **Edit** for the domain that you want to edit. 
+3. In the **Manage Mail Delivery** section, in the **Actions** column, select **Edit** for the domain that you want to edit. 
     
     ![Dreamhost-BP-Configure-2-2](../media/6eed0be2-6477-4f49-9f90-39e190499a53.png)
   
@@ -124,11 +122,11 @@ Follow the steps below.
     
     |**MX Record (required)**|
     |:-----|
-    |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> The 0 is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
+    |0  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> The 0 is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)          |
    
     ![Dreamhost-BP-Configure-2-3](../media/90da1816-e186-4016-ab22-7962f8b86add.png)
   
-5. Choose **Change this domain to use custom MX records now!**
+5. Select **Change this domain to use custom MX records now!**
     
     ![Dreamhost-BP-Configure-2-4](../media/3221c767-83d3-4f30-9d08-dc998772d2a3.png)
   
@@ -136,7 +134,7 @@ Follow the steps below.
     
     ![Dreamhost-BP-Configure-2-5](../media/1827733c-3609-4b0f-bba1-531ab090da91.png)
   
-7. If you have deleted any records, choose **Update your custom MX records now!**
+7. If you have deleted any records, select **Update your custom MX records now!**
     
     ![Dreamhost-BP-Configure-2-6](../media/177462be-0686-47b7-a389-025dfc8d6526.png)
 
@@ -150,11 +148,11 @@ Follow the steps below.
     
     ![Dreamhost-BP-Configure-1-1](../media/1919b810-b6ba-4e29-a774-de1e7c67d078.png)
   
-2. On the **Dashboard** page, choose **Domains**, and then choose **Manage Domains**.
+2. On the **Dashboard** page, select **Domains**, and then **Manage Domains**.
     
     ![Dreamhost-BP-Configure-1-2](../media/ab05c16a-79f6-491f-ad07-9a2e6674671d.png)
   
-3. On the **Manage Domains** page, in the **Domain** section, choose **DNS** for the domain that you want to edit. 
+3. On the **Manage Domains** page, in the **Domain** section, select **DNS** for the domain that you want to edit. 
     
     ![Dreamhost-BP-Configure-1-3](../media/1a8723a0-54bc-40ff-bc30-5fc3e8cd219b.png)
   
@@ -162,20 +160,19 @@ Follow the steps below.
     
     (You may have to scroll down.)
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
     |**Name**|**Type**|**Value**|**Comment**|
     |:-----|:-----|:-----|:-----|
     |autodiscover  <br/> |CNAME  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |(This field is optional.)  <br/> |
     |sip  <br/> |CNAME  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |(This field is optional.)  <br/> |
     |lyncdiscover  <br/> |CNAME  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |(This field is optional.)  <br/> |
-    |msoid  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |(This field is optional.)  <br/> |
     |enterpriseregistration  <br/> |CNAME  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |(This field is optional.)  <br/> |
     |enterpriseenrollment  <br/> |CNAME  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |(This field is optional.)  <br/> |
    
     ![Dreamhost-BP-Configure-3-1](../media/0c4cc587-ea24-47f2-8dc6-a35735b250e6.png)
   
-5. Choose **Add Record Now!**
+5. Select **Add Record Now!**
     
     ![Dreamhost-BP-Configure-3-2](../media/b5d4f939-de6d-4d1f-a20a-4eb5fe715281.png)
   
@@ -194,11 +191,11 @@ Follow the steps below.
     
     ![Dreamhost-BP-Configure-1-1](../media/1919b810-b6ba-4e29-a774-de1e7c67d078.png)
   
-2. On the **Dashboard** page, choose **Domains**, and then choose **Manage Domains**.
+2. On the **Dashboard** page, select **Domains**, and then **Manage Domains**.
     
     ![Dreamhost-BP-Configure-1-2](../media/ab05c16a-79f6-491f-ad07-9a2e6674671d.png)
   
-3. On the **Manage Domains** page, in the **Domain** section, choose **DNS** for the domain that you want to edit. 
+3. On the **Manage Domains** page, in the **Domain** section, select **DNS** for the domain that you want to edit. 
     
     ![Dreamhost-BP-Configure-1-3](../media/1a8723a0-54bc-40ff-bc30-5fc3e8cd219b.png)
   
@@ -206,7 +203,7 @@ Follow the steps below.
     
     (You may have to scroll down.)
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
     |**Name**|**Type**|**Value**|**Comment**|
     |:-----|:-----|:-----|:-----|
@@ -214,7 +211,7 @@ Follow the steps below.
    
    ![Dreamhost-BP-Configure-4-1](../media/cbc4bbca-bdbc-4dc9-b1b7-b55491eb1e53.png)
   
-5. Choose **Add Record Now!**
+5. Select **Add Record Now!**
     
     ![Dreamhost-BP-Configure-4-2](../media/2bd7cae8-1fbc-4407-8dfa-06ce37c586c0.png)
   
@@ -230,11 +227,11 @@ Follow the steps below.
     
     ![Dreamhost-BP-Configure-1-1](../media/1919b810-b6ba-4e29-a774-de1e7c67d078.png)
   
-2. On the **Dashboard** page, choose **Domains**, and then choose **Manage Domains**.
+2. On the **Dashboard** page, select **Domains**, and then **Manage Domains**.
     
     ![Dreamhost-BP-Configure-1-2](../media/ab05c16a-79f6-491f-ad07-9a2e6674671d.png)
   
-3. On the **Manage Domains** page, in the **Domain** section, choose **DNS** for the domain that you want to edit. 
+3. On the **Manage Domains** page, in the **Domain** section, select **DNS** for the domain that you want to edit. 
     
     ![Dreamhost-BP-Configure-1-3](../media/1a8723a0-54bc-40ff-bc30-5fc3e8cd219b.png)
   
@@ -242,7 +239,7 @@ Follow the steps below.
     
     (You may have to scroll down.)
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
     |**Name**|**Type**|**Value**|**Comment**|
     |:-----|:-----|:-----|:-----|
@@ -251,7 +248,7 @@ Follow the steps below.
    
     ![Dreamhost-BP-Configure-5-1](../media/934eb79f-3617-4b72-802c-c42c7d165283.png)
   
-5. Choose **Add Record Now!**.
+5. Select **Add Record Now!**.
     
     ![Dreamhost-BP-Configure-5-2](../media/015bc73c-8f88-49ce-87f9-e5a6ea3e10a8.png)
   

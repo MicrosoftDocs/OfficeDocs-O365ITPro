@@ -1,5 +1,7 @@
 ---
 title: "Gather the information you need to create Office 365 DNS records"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,18 +11,9 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
-- Adm_O365_Domain_Core
+- Adm_O365
+- Adm_TOC
 - Adm_O365_Setup
-- Adm_O365_Top
-- strat_admin_top
-ms.custom:
-- Adm_O365_FullSet
-- Adm_O365_Setup
-- Adm_O365_Top
-- Core_O365Admin_Migration
-- domainstoptier
-- MiniMaven
-- strat_admin_top
 search.appverid:
 - BCS160
 - MET150
@@ -28,6 +21,7 @@ search.appverid:
 - GEA150
 ms.assetid: 77f90d4a-dc7f-4f09-8972-c1b03ea85a67
 description: "Learn to find the values/information you need to create DNS records for Office 365. "
+ms.custom: okr_smb
 ---
 
 # Gather the information you need to create Office 365 DNS records
@@ -36,15 +30,15 @@ description: "Learn to find the values/information you need to create DNS record
   
 ### Step 1: Find the TXT record value and verify
 
-1. In the Admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
+1. In the Microsoft 365 admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-    If you're using Office 365 Germany, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=854615) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=2007048) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=2007048" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose your domain, then choose **Start setup**. You'll go back to the domains setup wizard to see the specific value you need to add.
+2. On the **Domains** page, select your domain, then select **Start setup**. You'll go back to the domains setup wizard to see the specific value you need to add.
     
-3. On the **Verify domain** page, choose **Add a TXT record instead**, then choose **Next**.
+3. On the **Verify domain** page, select **Add a TXT record instead**, then select **Next**.
     
 4. Copy the **TXT value** shown. It looks like this: **MS=msXXXXXXXX**. 
     
@@ -56,13 +50,13 @@ description: "Learn to find the values/information you need to create DNS record
     
 ### Step 2: Find the MX record value for email and more
 
-1. In the Admin center, go to the [Domains](https://go.microsoft.com/fwlink/p/?linkid=834818) page, or choose **Setup** \> **Domains**.
+1. In the Microsoft 365 admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-    If you're using Office 365 Germany, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=854615) page. 
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=854615" target="_blank">Domains</a> page. 
     
-    If you're using Office 365 operated by 21Vianet, go to this [Domains](https://go.microsoft.com/fwlink/p/?linkid=2007048) page. 
+    If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=2007048" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose your domain. 
+2. On the **Domains** page, select your domain. 
     
 3. Under **Required DNS settings**, you'll see the DNS records to add.
     

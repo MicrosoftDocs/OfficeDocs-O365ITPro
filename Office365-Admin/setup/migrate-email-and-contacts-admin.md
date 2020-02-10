@@ -1,26 +1,22 @@
 ---
 title: "Migrate email and contacts to Office 365"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
 audience: Admin
-ms.topic: article
-f1_keywords:
-- 'O365P_MoveEmail'
-- 'O365M_MoveEmail
-O365P_MoveEmail
-O365E_MoveEmail'
-- 'O365E_MoveEmail'
+ms.topic: get-started-article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
-- Adm_O365_Top
-- strat_admin_top
-ms.custom:
+- Adm_O365
+- Adm_TOC
 - Adm_O365_Setup
-- Adm_O365_Top
+ms.custom:
 - TopSMBIssues
+- okr_smb
 search.appverid:
 - MET150
 - MOE150

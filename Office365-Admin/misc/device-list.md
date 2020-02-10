@@ -1,26 +1,19 @@
 ---
 title: "Device list CSV-file"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
 audience: Admin
 ms.topic: overview
-f1_keywords:
-- 'ZTDUploadCSV'
-- 'O365E_ZTDUploadCSV'
-- 'O365E_DeployWindowsPrep'
-- 'DeployWindowsPrep'
-- 'BCS365_ZTDUploadCSV'
-- 'BCS365_DeployWindowsPrep'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
+- Adm_NonTOC
 ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
 - MSB365
 search.appverid:
 - BCS160
@@ -49,7 +42,7 @@ You can get this information from your hardware vendor, or you can use the [Get-
 
 When you add devices, you also need to add them to a Profile. A profile is used to apply AutoPilot deployment profiles to a device or a group of devices.
   
-## Related Topics
+## Related articles
 
 [Microsoft 365 Business documentation and resources](https://go.microsoft.com/fwlink/p/?linkid=853701)
   

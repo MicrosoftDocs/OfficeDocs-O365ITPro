@@ -1,9 +1,11 @@
 ---
 title: "Yammer admin key concepts"
-ms.author: v-irpast
-author: IrenePasternack
+f1.keywords:
+- NOCSH
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
-ms.date: 1/10/2019
+ms.date: 01/28/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -31,7 +33,7 @@ This article describes the key concepts you should know, and key decisions you s
     
 2. Plan who will help administer Yammer for your organization. There are several types of admins:
     
-      - Verified admins have the most permissions, and are responsible for the big decisions of how to use Yammer in your company. They can manage security-related tasks, as well as configure and customize Yammer, and manage users and groups. 
+      - Verified admins have the most permissions, and are responsible for the big decisions of how to use Yammer in your company. They can manage security-related tasks, as well as configure and customize Yammer, and manage users and groups. All Office 365 global admins are automatically Yammer verified admins.
     
       - Network admins can configure and customize Yammer, and manage users and groups. 
     
@@ -73,11 +75,13 @@ This article describes the key concepts you should know, and key decisions you s
     
 6. People are the core of the enterprise social network, so invite your team to get started on Yammer via the Yammer admin center. 
     
-     Users in Office 365 plans that include Yammer automatically get a license to use Yammer Enterprise, but they are not automatically added to your Yammer network. The simplest way to ensure that your Office 365 users are on Yammer is by using the Yammer admin center to add them. For more information, see [Add, block, or remove Yammer users](../manage-yammer-users/add-block-or-remove-users.md). 
+    Users in Office 365 plans that include Yammer automatically get a license to use Yammer Enterprise, but they may not be automatically added to your Yammer network. For information on how users are added to Yammer, see [Manage Yammer users across their lifecycle from Office 365](../manage-yammer-users/manage-users-across-their-lifecycle.md).
+
+    If your network is not enforcing Office 365 identity, to ensure that all your Office 365 users are on Yammer, use the Yammer admin center to add them. For more information, see [Add, block, or remove Yammer users](../manage-yammer-users/add-block-or-remove-users.md). 
     
 7. Understand mobile device options, and if needed create a policy for mobile Yammer use. For example, you might require that user's have passwords or other locks on their phones in order to use Yammer on their phone. You can monitor device usage through the Yammer admin center, and [manage Yammer devices by using Microsoft Intune](../manage-security-and-compliance/manage-yammer-with-intune.md). 
     
-8. Think through how you want to integrate Yammer with other apps, including SharePoint, Skype for Business. 
+8. Think through how you want to integrate Yammer with other apps, including SharePoint and Teams. 
     
 9. Define how your organization will train and support Yammer users. End-user support options include online help and training, and the online community. See [Yammer help center](https://support.office.com/article/8663922d-8f76-47c2-827a-ee86e8cac00f.aspx). Consider creating a Yammer 101 group - your own local self-support community.
     
@@ -107,7 +111,7 @@ A: Yammer's system requirements are consistent with those of Office 365. See the
 #### Mobile and desktop requirements
 <a name="bk_MobileDesktop"> </a>
 
-- iOS 11.0 and above
+- iOS 12.0 and above
     
 - Android v5.0 and higher
     
@@ -122,7 +126,7 @@ A: It depends on whether you configure your Yammer network to enforce Office 365
   
 - If you select the option to enforce Office 365 identity, all users must have a Yammer license through Office 365. For more information, see [Enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md).
     
-- If you do not choose to enforce Office 365 identity, users who are on the same email domain as your Yammer network but do not have Office 365 licenses can join the network by creating a Yammer account at http://www.yammer.com.
+- If you do not choose to enforce Office 365 identity, users who are on the same email domain as your Yammer network but do not have Office 365 licenses can join the network by creating a Yammer account at https://www.yammer.com.
     
     There are some differences in how you manage these users: their profile won't be automatically filled in, and you can't block them by removing their Yammer license. These users can be made admins, create groups, and use all basic Yammer features. If they are made admins, they have to get to the Yammer admin center by clicking the **Settings** icon in Yammer, and selecting **Network Admin**.
 
@@ -131,12 +135,12 @@ A: It depends on whether you configure your Yammer network to enforce Office 365
 ### Q: What are the limitations of Yammer (number of users, networks, documents, storage, access, and so on)?
 <a name="Requirements"> </a>
 
-A: Yammer is designed as a SaaS, multi-tenant environment with scale in mind. The  *only*  limit is file size. An individual file cannot be larger than 5 GB in Yammer Enterprise or100 MB in Yammer Basic.) Both versions support unlimited users, unlimited files, unlimited external networks, and unlimited document types. 
+A: Yammer is designed as a SaaS, multi-tenant environment with scale in mind. The  *only*  limit is file size. An individual file can't be larger than 5 GB in Yammer Enterprise or100 MB in Yammer Basic.) Both versions support unlimited users, unlimited files, unlimited external networks, and unlimited document types. 
   
 ### Q: What file types can be uploaded to Yammer?
 <a name="Requirements"> </a>
 
-A: By default, there are no restrictions on the file types that can be uploaded. A Yammer Enterprise network admin can go to **Settings** \> **Network Admin** \> **Configuration** to change this. The Yammer network admin can restrict file uploads and allow only photo and video file types to Yammer. In the case of a network that allows only photo and video file types, we make our best effort to enforce this restriction by checking the file extension and some of the files' metadata, but do not guarantee that users cannot bypass this restriction. 
+A: By default, there are no restrictions on the file types that can be uploaded. A Yammer Enterprise network admin can go to **Settings** \> **Network Admin** \> **Configuration** to change this. The Yammer network admin can restrict file uploads and allow only photo and video file types to Yammer. In the case of a network that allows only photo and video file types, we make our best effort to enforce this restriction by checking the file extension and some of the files' metadata, but do not guarantee that users can't bypass this restriction. 
   
 ### Q: Why am I seeing different features, colors, or a different layout than my colleagues?
 <a name="Requirements"> </a>

@@ -1,64 +1,92 @@
 ---
-title: "Add a user or contact to an Office 365 distribution list"
+title: "Add a user or contact to an Office 365 distribution group"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_ContactsToDLs'
-- 'O365M_ContactsToDLs'
-- 'O365E_ContactsToDLs'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_TOC
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: ba256583-03ca-429e-be4d-a92d9c221ad6
-description: "Learn how to add an Office 365 user or contact to a distribution list. For example, you can add an employee, partner, or a vendor to your email distribution list."
+description: "Learn how to add an Office 365 user or contact to a distribution group. For example, you can add an employee, partner, or a vendor to your email distribution group."
 ---
 
-# Add a user or contact to an Office 365 distribution list
+# Add a user or contact to an Office 365 distribution group
 
-As the admin of an Office 365 organization, you may need to add one of your users or contacts to a distribution list (see [Create distribution lists in Office 365](../setup/create-distribution-lists.md).) For example, you can add employees or external partners or vendors to an email distribution list.
+As the admin of an Office 365 organization, you may need to add one of your users or contacts to a distribution group (see [Create distribution groups in Office 365](../setup/create-distribution-lists.md).) For example, you can add employees or external partners or vendors to an email distribution group.
   
-## Add a user or contact to a distribution list
+## Add a user or contact to a distribution group
 
-1. Sign in to Office 365 with your work or school account. 
+::: moniker range="o365-worldwide"
+
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
+
+2. On the **Groups** page, select the name of the group you want to add a contact to.
+
+3. On the **Members** tab, select **View all and manage members**.
+
+4. On the **View Members** page, select **Add members**, and select the user or contact you want to add to the distribution group. 
     
-2. Select the app launcher icon  and choose **Admin**.
-    
-    Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the apps available to you. From there, you can search for a specific app. 
-    
-3. Choose **Groups** in the left navigation pane. 
-    
-    ![See your new Office 365 groups in the admin center preview](../media/d434fa62-aff7-4d56-a0c2-2a49b95467a6.png)
-    
-4. On the Groups page, select the distribution list you want to add a contact to.
-    
-5. In the **Members** section, click **Edit**.
-    
-    ![Add a contact to a distribution list](../media/429062d8-9dcf-4d98-af9c-6fff8a18b198.png)
+    ![Add members to distribution group](../media/f79f59f8-1606-43fe-bae6-df74f5b6259d.png)
   
-6. On the **View Members** page, click or tap **Add Members,** and select the **user or contact** you want to add to the distribution list. 
+5. Select **Save** and then **Close**.
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
     
-    ![Add members to distribution list](../media/f79f59f8-1606-43fe-bae6-df74f5b6259d.png)
+2. On the **Groups** page, select the group you want to add a contact to.
+    
+3. In the **Members** section, select **Edit**.
   
-7. Click **Save** and then **Close**.
+4. On the **View Members** page, select **Add members**, and select the user or contact you want to add to the distribution group. 
+    
+    ![Add members to distribution group](../media/f79f59f8-1606-43fe-bae6-df74f5b6259d.png)
+  
+5. Select **Save** and then **Close**.
     
 If you haven't created the [contact](../misc/contacts.md) yet, do that first as shown in this video. 
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
+    
+2. On the **Groups** page, select the group you want to add a contact to.
+    
+3. In the **Members** section, select **Edit**.
+  
+4. On the **View Members** page, select **Add members**, and select the user or contact you want to add to the distribution group. 
+    
+    ![Add members to distribution group](../media/f79f59f8-1606-43fe-bae6-df74f5b6259d.png)
+  
+5. Select **Save** and then **Close**.
+    
+If you haven't created the [contact](../misc/contacts.md) yet, do that first as shown in this video. 
+
+::: moniker-end
+
 <br><br>
+
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ed4e6095-9a6a-4d3d-999d-698c39bb7ec8?autoplay=false]
   
-Learn how to [send email as a distribution list in Office 365](../manage/send-email-as-distribution-list.md).
+Learn how to [send email as a distribution group in Office 365](../manage/send-email-as-distribution-list.md).
   
 

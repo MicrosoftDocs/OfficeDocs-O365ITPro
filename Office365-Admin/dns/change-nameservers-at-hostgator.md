@@ -1,28 +1,19 @@
 ---
 title: "Change nameservers to set up Office 365 with Hostgator"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_DOM_Hostgator1'
-- 'O365M_DOM_Hostgator1'
-- 'O365E_DOM_Hostgator1'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_O365_Domain_Registrars
+- Adm_NonTOC
 - Adm_O365_Setup
-- Adm_UI_Elements
-ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Adm_O365_Setup
-- Core_O365Admin_Migration
-- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -49,23 +40,23 @@ Follow these steps to associate your domain and hosting accounts.
     
     ![Hostgator-BP-Redelegate-1-0](../media/6749ac23-4832-4daf-8f3b-bc3b9b1b979c.png)
   
-2. Choose the **Domains** tab.
+2. Select the **Domains** tab.
     
     ![Hostgator-BP-Redelegate-1-1](../media/56d12bfd-3549-4033-90dc-077c76ca798c.png)
   
-3. On the **Manage Domains** page, in the **My Domains** area, choose the domain you want to update.
+3. On the **Manage Domains** page, in the **My Domains** area, select the domain you want to update.
     
     ![Hostgator-BP-Redelegate-1-2](../media/2c2f8530-26a1-4e62-bb04-b3874bc1cf36.png)
   
-4. On the **Domains Overview** page, in the **Name Servers** area, choose **Change**.
+4. On the **Domains Overview** page, in the **Name Servers** area, select **Change**.
     
     ![Hostgator-BP-Redelegate-1-3](../media/c8979d8a-ee96-4064-a8df-c5b01054cb16.png)
   
-5. On the **Name Servers** page for your domain, in the **Select Hosting Account** drop-down list, select the **hosting account** that is associated with your domain.
+5. On the **Name Servers** page for your domain, in the **Select Hosting Account** drop-down list, choose the **hosting account** that is associated with your domain.
     
     ![Hostgator-BP-Redelegate-1-4](../media/4cf61060-1e8a-4758-9892-32059ffc90c2.png)
   
-6. Choose **Save Name Servers**.
+6. Select **Save Name Servers**.
     
     ![Hostgator-BP-Redelegate-1-9](../media/b52a825a-6d54-49ba-87c8-52f770fdfa0c.png)
   
@@ -86,20 +77,20 @@ Before you use your domain with Office 365, we have to make sure that you own it
     > [!IMPORTANT]
     > To have a cPanel associated with your domain, you need a hosting account with Hostgator. To get started with Office 365, you can either purchase a hosting account from Hostgator or [change your domain's nameserver (NS) records](#change-your-domains-nameserver-ns-records) to point to Office 365. 
   
-2. On the **Control Panel** page, in the **Domains** area, choose **Advanced DNS Zone Editor**.
+2. On the **Control Panel** page, in the **Domains** area, select **Advanced DNS Zone Editor**.
     
     (You may have to scroll down.) 
     
 3. On the **Advanced DNS Zone Editor** page, in the **Add a Record** area, in the boxes for the new record, type or copy and paste the values from the following table. 
     
-    (Select the **Type** value from the drop-down list.) 
+    (Choose the **Type** value from the drop-down list.) 
     
 |||||
 |:-----|:-----|:-----|:-----|
 |**Name** <br/> |**TTL** <br/> |**Type** <br/> |**TXT Data** <br/> |
 |Use your  *domain_name*  . (for example, fourthcoffee.com.)  <br/> **This value MUST end with a period (.)** <br/> |1  <br/> |TXT  <br/> |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365. [How do I find this?](../get-help-with-domains/information-for-dns-records.md)     <br/>  |
    
-4. Choose **Add Record**.
+4. Select **Add Record**.
     
 5. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
@@ -107,13 +98,14 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. In the Microsoft 365 admin center, choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
 > [!NOTE]
 > Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Find and fix issues after adding your domain or DNS records in Office 365](../get-help-with-domains/find-and-fix-issues.md). 
@@ -132,23 +124,23 @@ To complete setting up your domain with Office 365, you change your domain's NS 
     
     ![Hostgator-BP-Redelegate-1-0](../media/6749ac23-4832-4daf-8f3b-bc3b9b1b979c.png)
   
-2. Choose the **Domains** tab. 
+2. Select the **Domains** tab. 
     
     ![Hostgator-BP-Redelegate-1-1](../media/56d12bfd-3549-4033-90dc-077c76ca798c.png)
   
-3. On the **Manage Domains** page, in the **My Domains** area, choose the domain you want to update. 
+3. On the **Manage Domains** page, in the **My Domains** area, select the domain you want to update. 
     
     ![Hostgator-BP-Redelegate-1-2](../media/2c2f8530-26a1-4e62-bb04-b3874bc1cf36.png)
   
-4. On the **Domain Overview** page, in the **Name Servers** area, choose **Change**.
+4. On the **Domain Overview** page, in the **Name Servers** area, select **Change**.
     
     ![Hostgator-BP-Redelegate-1-3](../media/c8979d8a-ee96-4064-a8df-c5b01054cb16.png)
   
-5. On the **Name Servers** page for your domain, in the **Select Hosting Account** drop-down list, select the **hosting account** that is associated with your domain. 
+5. On the **Name Servers** page for your domain, in the **Select Hosting Account** drop-down list, choose the **hosting account** that is associated with your domain. 
     
     ![Hostgator-BP-Redelegate-1-4](../media/4cf61060-1e8a-4758-9892-32059ffc90c2.png)
   
-6. Choose **Manually set my name servers**.
+6. Select **Manually set my name servers**.
     
     ![Hostgator-BP-Redelegate-1-5](../media/5b73ae32-f26e-48aa-b5ad-6da20f1c491a.png)
   
@@ -172,13 +164,13 @@ To complete setting up your domain with Office 365, you change your domain's NS 
   
 9. Add the other nameserver values.
     
-    Choose **(+)** add, and then type or copy and paste the value from the next row of the table into the box for the record. 
+    Select **(+)** add, and then type or copy and paste the value from the next row of the table into the box for the record. 
     
     Repeat this process until you have created all four nameserver records.
     
     ![Hostgator-BP-Redelegate-1-7-2](../media/92159a39-e498-4220-9b0d-ae2e718c7fb9.png)
   
-10. Choose **Save Name Servers**.
+10. Select **Save Name Servers**.
     
     ![Hostgator-BP-Redelegate-1-8](../media/bd6b0dfa-5d39-4805-970d-7ab153cff117.png)
   

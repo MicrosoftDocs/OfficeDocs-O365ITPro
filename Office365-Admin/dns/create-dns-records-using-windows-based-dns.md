@@ -1,5 +1,7 @@
 ---
 title: "Create DNS records for Office 365 using Windows-based DNS"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,14 +12,8 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_O365_Domain_Registrars
+- Adm_NonTOC
 - Adm_O365_Setup
-ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Adm_O365_Setup
-- Core_O365Admin_Migration
-- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -34,11 +30,11 @@ If you host your own DNS records using Windows-based DNS, follow the steps in th
   
 To get started, you need to [find your DNS records in Windows-based DNS](#find-your-dns-records-in-windows-based-dns) so you can update them. Also, if you're planning to synchronize your on-premises Active Directory with Office 365, see [Non-routable email address used as a UPN in your on-prem Active Directory](#non-routable-email-address-used-as-a-upn-in-your-on-prem-active-directory).
   
-ouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
+Trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
   
 ## Find your DNS records in Windows-based DNS
 <a name="BKMK_find_your_dns_1"> </a>
-Go to the page that has the DNS records for your domain. If you're working in Windows Server 2008, go to **Start** > **Run**. If you're working in Windows Server 2012, press the Windows key and **r**. Type **dnsmgmnt.msc**, and then choose **OK**. In DNS Manager, expand **\<DNS server name\>  \> Forward Lookup Zones**. Choose your domain. You're now ready to create the DNS records.
+Go to the page that has the DNS records for your domain. If you're working in Windows Server 2008, go to **Start** > **Run**. If you're working in Windows Server 2012, press the Windows key and **r**. Type **dnsmgmnt.msc**, and then select **OK**. In DNS Manager, expand **\<DNS server name\>  \> Forward Lookup Zones**. Select your domain. You're now ready to create the DNS records.
    
 ## Add MX record
 <a name="BKMK_add_MX"> </a>
@@ -51,8 +47,8 @@ Add an MX record so email for your domain will come to Office 365.
     - Host Name: 
     - @Address: Paste the Points to address  value that you just copied from Office 365 here.  
     - Pref: 
-- Choose **Save Changes**.
-- Remove any obsolete MX records. If you have any old MX records for this domain that route email somewhere else, select the check box next to each old record, and then choose **Delete**. Choose **OK**. 
+- Select **Save Changes**.
+- Remove any obsolete MX records. If you have any old MX records for this domain that route email somewhere else, select the check box next to each old record, and then select **Delete** > **OK**. 
    
 ## Add CNAME records
 <a name="BKMK_add_CNAME"> </a>
@@ -67,7 +63,7 @@ Add the CNAME records that are required for Office 365. If additional CNAME reco
     - Host Name: autodiscover
     - Type: 
     - CNAMEAddress: autodiscover.outlook.com
-- Choose **O**K.
+- Select **O**K.
 
 Add the SIP CNAME record. 
 - On the DNS Manager page for the domain, go to **Action** \> **CNAME (CNAME)**. 
@@ -75,14 +71,14 @@ Add the SIP CNAME record.
     - Host Name: sip
     - Type: CNAME
     - Address: sipdir.online.lync.com
-- Choose **OK**.
+- Select **OK**.
 
 Add the Skype for Business Online Autodiscover CNAME record.  
 - On the DNS Manager page for the domain, go to **Action** \> **CNAME (CNAME)**. In the **New Resource Record** dialog box, make sure that the fields are set to precisely the following values:  
     - Host Name: lyncdiscover
     - Type: CNAME
     - Address: webdir.online.lync.com
-- Choose **OK**.
+- Select **OK**.
    
 ### Add two CNAME records for Mobile Device Management (MDM) for Office 365
 
@@ -96,7 +92,7 @@ Add the MDM Enterpriseregistration CNAME record.
 - Host Name: enterpriseregistration
 - Type: CNAME
 - Address: enterpriseregistration.windows.net
-- Choose **OK**. 
+- Select **OK**. 
 
 Add the MDM Enterpriseenrollment CNAME record. 
 -  On the DNS Manager page for the domain, go to **Action** \> **CNAME (CNAME)**. 
@@ -104,7 +100,7 @@ Add the MDM Enterpriseenrollment CNAME record.
     - Host Name: enterpriseenrollment
     - Type: CNAME
     - Address: enterpriseenrollment-s.manage.microsoft.com
-- Choose **OK**.
+- Select **OK**.
    
 ## Add a TXT record for SPF to help prevent email spam
 <a name="BKMK_add_TXT"> </a>
@@ -124,7 +120,7 @@ Add the SPF TXT record for your domain to help prevent email spam.
 -  Record Type: TXT
 -  Address: v=spf1 include:spf.protection.outlook.com -all 
          
--  Choose **OK**.
+-  Select **OK**.
    
 ## Add SRV records
 <a name="BKMK_add_SRV"> </a>
@@ -133,19 +129,20 @@ Add the two SRV records that are required for Office 365.
 
 Add the SIP SRV record for Skype for Business Online web conferencing.  <br/> 
 -  On the DNS Manager page for your domain, go to **Action** \> **Other New Records**. 
--   In the **Resource Record Type** window, choose **Service Location (SRV)**, and then click **Create Record**. 
+-   In the **Resource Record Type** window, select **Service Location (SRV)**, and then select **Create Record**. 
 -   In the **New Resource Record** dialog box, make sure that the fields are set to precisely the following values:  
     -  Service: _sip
     -  Protocol: _tls
     -  Priority: 100
     -  Weight: 1
-    -  Port: 443Target (Hostname): sipdir.online.lync.com
--  Choose **OK**. 
+    -  Port: 443
+    -  Target (Hostname): sipdir.online.lync.com
+-  Select **OK**. 
 
 
 Add the SIP SRV record for Skype for Business Online federation.  
 -  On the DNS Manager page for your domain, go to **Action** \> **Other New Records**.  
--  In the **Resource Record Type** window, choose **Service Location (SRV)**, and then click **Create Record**. 
+-  In the **Resource Record Type** window, select **Service Location (SRV)**, and then select **Create Record**. 
 -   In the **New Resource Record** dialog box, make sure that the fields are set to precisely the following values:  
     -  Service: _sipfederationtls
     -  Protocol: _tcp
@@ -153,7 +150,7 @@ Add the SIP SRV record for Skype for Business Online federation.
     -  Weight: 1
     -  Port: 5061
     -  Target (Hostname): sipfed.online.lync.com
--  Choose **OK**. 
+-  Select **OK**. 
    
 ## Add a record to verify that you own the domain, if you haven't already
 <a name="BKMK_verify"> </a>
@@ -164,16 +161,16 @@ Before you add the DNS records to set up your Office 365 services, Office 365 ha
 > This record is used only to verify that you own your domain; it doesn't affect anything else. 
   
 
-Gather information from Office 365.  <br/> 
-Sign in to Office 365  with your work or school account. Choose **Setup** \> **Domains**. 
--  On the Manage domains page, in the **Action** column for the domain that you are verifying, choose **Start setup**. 
--  On the Add a domain to Office 365 page, choose **Start step 1**. 
--  On the **Confirm that you own your domain** page, in the **See instructions for performing this step with** drop-down list, choose **General instructions**. 
--  From the table, copy the Destination or Points to Address value. You'll need it for the next step. We recommend copying and pasting this value, so that all of the spacing stays correct.
+1. Gather information from Office 365.  <br/> 
+2. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page. 
+3. On the **Domains** page, in the **Actions** column for the domain that you are verifying, select **Start setup**. 
+4. On the **Add a domain to Office 365** page, select **Start step 1**. 
+5. On the **Confirm that you own your domain** page, in the **See instructions for performing this step with** drop-down list, choose **General instructions**. 
+6. From the table, copy the Destination or Points to Address value. You'll need it for the next step. We recommend copying and pasting this value, so that all of the spacing stays correct.
 
 Add a TXT record. 
 -  On the DNS Manager page for your domain, go to **Action** \> **Text (TXT)**. 
--   In the **New Resource Record** dialog box, choose **Edit**.  
+-   In the **New Resource Record** dialog box, select **Edit**.  
 -  In the **Custom Host Names** area of the **New Resource Record** dialog box, make sure that the fields are set to precisely the following values. 
 
 > [!IMPORTANT] 
@@ -182,16 +179,16 @@ Add a TXT record.
 - Host Name: @
 - Type: TXT
 - Address: Paste the Destination or Points to Address value that you just copied from Office 365 here.  
-- Choose **OK**, and then choose **Done**.
+- Select **OK** > **Done**.
 
 Verify your domain in Office 365.  
 > [!IMPORTANT]
 > Wait about 15 minutes before you do this, so the record you just created can update across the Internet.       
 
 - Go back to Office 365 and follow the steps below to request a verification check. The check looks for the TXT record you added in the previous step. When it finds the correct TXT record, the domain is verified.  
-- Choose **Setup** \> **Domains**. 
-- On the **Manage domains** page, in the **Action** column for the domain you are verifying, choose **Start setup**. 
-- On the **Confirm that you own your domain** page, choose **done, verify now**, and then in the confirmation dialog box, choose **Finish**. 
+1. In the admin center, go to the **Setup** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+2. On the **Domains** page, in the **Action** column for the domain you are verifying, select **Start setup**. 
+3. On the **Confirm that you own your domain** page, select **done, verify now**, and then in the confirmation dialog box, select **Finish**. 
    
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 

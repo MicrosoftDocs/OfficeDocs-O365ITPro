@@ -1,9 +1,11 @@
 ---
 title: "Create and manage external groups in Yammer"
-ms.author: v-irpast
-author: IrenePasternack
+f1.keywords:
+- NOCSH
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
-ms.date: 3/15/2019
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -33,7 +35,7 @@ External groups are marked with a globe icon in the left navigation.
 Users invited to participate in an external group hosted on a different network are required to accept the invitation before being able to view any content in the group.
 
 >[!NOTE] 
->This feature is not available for Yammer Enterprise networks in the [EU Geo](../manage-security-and-compliance/data-residency.md).
+>This feature is not available for Yammer Enterprise networks in Native Mode or the [EU Geo](../manage-security-and-compliance/data-residency.md).
   
 ## Create an external group
 
@@ -76,6 +78,6 @@ A: No. The creation of external groups is limited to canonical networks and is n
 
 A: Yes. In external groups, you can't edit or move messages, or add a topic or a bookmark. 
   
-## See also
+## Related articles
 
 [External messaging FAQ (Yammer)](external-messaging-faq.md)

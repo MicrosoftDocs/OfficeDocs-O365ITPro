@@ -1,12 +1,15 @@
 ﻿---                                
 title: Support information for China (PRC)
 author: cmcatee-MSFT
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 manager: mnirkhe
 audience: Admin
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Priority
+ms.collection: Adm_Support
+localization_priority: Normal
 description: Learn how to contact support for your country or region.
 ROBOTS: NOINDEX, NOFOLLOW
 ---
@@ -47,6 +50,6 @@ Chinese and English: Mon-Fri 9 AM-6 PM
 
 ### Technical Support:
 
-Chinese and English: 24 hours a day, 7 days a week<br/>
-(Effective July 1, 2019: Mon-Fri 9 AM-9 PM only)
+Chinese and English phone support: Mon-Fri 9 AM-9 PM
 
+Chinese and English online support (through the admin center): 24 hours a day, 7 days a week

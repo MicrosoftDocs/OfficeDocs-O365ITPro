@@ -1,32 +1,19 @@
 ---
 title: "Find your domain registrar for Office 365"
+f1.keywords:
+- CSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_EditNSRecs_LocateDNS'
-- 'O365P_DomainsVerify_WhereDNS'
-- 'O365P_1stUI_LocateDNS'
-- 'O365P_1stRun_LocateDNSProvider'
-- 'O365M_DomainsVerify_WhereDNS'
-- 'O365M_1stRun_LocateDNSProvider'
-- 'O365E_DomainsVerify_WhereDNS'
-- 'O365E_1stRun_LocateDNSProvider'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: 
 - M365-subscription-management
-- Adm_O365_Domain_Core
+- Adm_O365
+- Adm_TOC
 - Adm_O365_Setup
-- Adm_UI_Elements
-ms.custom:
-- Adm_O365_FullSet
-- Adm_O365_Setup
-- Core_O365Admin_Migration
-- domainstoptier
-- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -47,9 +34,9 @@ description: "Learn to find your domain registrar and DNS hosting provider using
 >[!NOTE]
 > Only domains ending in *.COM*, *.NET*, and *.EDU* work with this tool.
   
-1. On the [InterNIC search page]( https://go.microsoft.com/fwlink/p/?LinkId=402770), in the **Whois Search** box, type your domain. For example,  *contoso.com.* 
+1. On the [InterNIC search page](https://go.microsoft.com/fwlink/p/?LinkId=402770), in the **Whois Search** box, type your domain. For example,  *contoso.com.* 
     
-2. Select the **Domain** option, and then click **Submit**.
+2. Select the **Domain** option, and then select **Submit**.
     
 3. On the **Whois Search Results** page, locate the **Registrar** entry. This entry lists the organization that provides registrar service for your domain. 
     
@@ -62,11 +49,11 @@ description: "Learn to find your domain registrar and DNS hosting provider using
   
 1. On the [InterNIC search page]( https://go.microsoft.com/fwlink/p/?LinkId=402770), in the **Whois Search** box, type your domain. For example, contoso.com. 
     
-2. Select the **Domain** option, and then click **Submit**.
+2. Select the **Domain** option, and then select **Submit**.
     
 3. On the **Whois Search Results** page, locate the first **Name Server** entry. 
     
-4. Copy the name server (NS) information that appears after the colon (:), and then paste it into the **Search** box at the top of the page. Select **Nameserver**, and then click **Submit**.
+4. Copy the name server (NS) information that appears after the colon (:), and then paste it into the **Search** box at the top of the page. Select **Nameserver**, and then select **Submit**.
     
 5. On the **Whois Search Results** page, locate the **Registrar** entry. This entry lists your DNS hosting provider, the DNS provider who owns the name server for your domain. 
     

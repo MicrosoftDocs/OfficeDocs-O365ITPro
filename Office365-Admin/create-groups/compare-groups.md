@@ -1,26 +1,19 @@
 ---
 title: "Compare groups in Office 365"
+ms.reviewer: arvaradh
+f1.keywords:
+- CSH
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_TypesOfGroups'
-- 'O365P_ESTypesOfGroups'
-- 'O365M_TypesOfGroups'
-- 'O365M_ESTypesOfGroups'
-- 'O365E_TypesOfGroups'
-- 'O365E_ESTypesOfGroups'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: 
 - M365-subscription-management 
- - Adm_UI_Elements
-ms.custom:
-- Core_O365Admin_Migration
-- EmptyState
-- MiniMaven
+- Adm_O365
+- Adm_TOC
 search.appverid:
 - BCS160
 - MET150
@@ -34,7 +27,7 @@ description: "Learn about the types of groups you can use in Office 365."
 In the **Groups** section of the Microsoft 365 admin center, you can create and manage these types of groups: 
 
 - **Office 365 groups** are used for collaboration between users, both inside and outside your company.
-- **Distribution lists** are used for sending notifications to a list of people.
+- **Distribution groups** are used for sending notifications to a group of people.
 - **Security groups** are used for granting access to SharePoint resources.
 - **Mail-enabled security groups** are used for granting access to SharePoint resources, and emailing notifications to those users.
 - **Shared mailboxes** are used when multiple people need access to the same mailbox, such as a company information or support email address.
@@ -43,7 +36,7 @@ In the **Groups** section of the Microsoft 365 admin center, you can create and 
 
 Office 365 groups are used for collaboration between users, both inside and outside your company. With each Office 365 group, members get a group email and shared workspace for conversations, files, and calendar events, and a Planner.
 
-You can add users external to your company to an Office 365 group as long as this has been [enabled by the administrator](manage-guest-access-in-groups.md). You can also allow external senders to send email to the group email address.
+You can add users external to your company to a group as long as this has been [enabled by the administrator](manage-guest-access-in-groups.md). You can also allow external senders to send email to the group email address.
 
 Office 365 groups can be [configured for dynamic membership in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-change-type), allowing group members to be added or removed automatically based on user attributes such as department, location, title, etc.
 
@@ -51,9 +44,9 @@ Office 365 groups can be accessed through mobile apps such as Outlook for iOS an
 
 Group members can send as or send on behalf of the group email address if this has been [enabled by the administrator](allow-members-to-send-as-or-send-on-behalf-of-group.md).
 
-## Distribution lists
+## Distribution groups
 
-[Distribution lists](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-distribution-groups/manage-distribution-groups) are used for sending notifications to a list of people. They can receive external email if enabled by the administrator.
+[Distribution groups](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-distribution-groups/manage-distribution-groups) are used for sending notifications to a group of people. They can receive external email if enabled by the administrator.
 
 Distribution groups are best for situations where you need to broadcast information to a set group of people, such as "People in Building A" or "Everyone at Contoso."
 
@@ -81,6 +74,6 @@ Users with permissions to the group mailbox can send as or send on behalf of the
 
 Currently it's not possible to migrate a shared mailbox to an Office 365 Group. Is this something you want? Let us know. **[Vote here](https://go.microsoft.com/fwlink/?linkid=871518)**
 
-## Related topics
+## Related articles
 
 [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)

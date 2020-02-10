@@ -1,5 +1,7 @@
 ---
 title: "Microsoft Cloud Solution Provider Partners in Russia"
+f1.keywords:
+- NOCSH
 ms.author: loreenl
 author: LoreenLa
 manager: pamgreen
@@ -7,9 +9,9 @@ audience: Admin
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
+ms.collection:
+- Adm_O365
+- Adm_NonTOC
 search.appverid:
 - MET150
 - MOE150

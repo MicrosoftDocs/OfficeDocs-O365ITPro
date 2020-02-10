@@ -1,22 +1,19 @@
 ---
 title: "Overview of Office 365 Groups for administrators"
-ms.author: mikeplum
+ms.reviewer: arvaradh
+f1.keywords:
+- NOCSH
+ms.author: v-teflor
 author: MikePlumleyMSFT
 manager: pamgreen
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_O365GroupsAdmin'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_TOC
 search.appverid:
 - BCS160
 - MET150
@@ -26,7 +23,7 @@ description: "Learn about Office 365 Groups."
 
 # Overview of Office 365 Groups for administrators
 
-With Office 365 Groups, you can give a group of people access to a collection of collaboration resources for those people to share. These resources include:
+Office 365 Groups is the foundational membership service that drives all teamwork across Microsoft 365. With Office 365 Groups, you can give a group of people access to a collection of collaboration resources for those people to share. These resources include:
 
 - A shared Outlook inbox
 - A shared calendar
@@ -35,7 +32,7 @@ With Office 365 Groups, you can give a group of people access to a collection of
 - Power BI
 - Yammer (if the group was created from Yammer)
 - A Team (if the group was created from Teams)
-- Roadmap (if you have Project Online)
+- Roadmap (if you have Project for the web )
 
 With an Office 365 group, you don’t have to manually assign permissions to each of these resources, because adding members to the group automatically gives them the permissions they need to the tools that the group provides.
 
@@ -47,7 +44,7 @@ Groups have the following roles:
 - **Members** - Members can access everything in the group, but can't change group settings.
 - **Guests** - Group guests are members who are from outside your organization. By default group members can invite guests to join your group, though you can [control that setting](manage-guest-access-in-groups.md).
 
-People in the following Office 365 admin roles can create and manage groups in the admin center: global admin, Exchange admin, user management admin. You can't be a delegated admin (for example, a consultant who is an admin on behalf of).
+Only global admins and user management admins can create and manage groups in the admin center. You can't be a delegated admin (for example, a consultant who is an admin on behalf of).
 
 As an administrator, you can:
 
@@ -59,7 +56,7 @@ As an administrator, you can:
 
 If you prefer a more automated way to manage the lifecycle of your Office 365 Groups you can use expiration policies to expire groups at a specific time interval. The group's owners will get an email 30, 15 and 1 day before the group expiration that allows them to easily renew the group if it's still needed. See: [Office 365 Group Expiration Policy](office-365-groups-expiration-policy.md).
 
-You can administer your groups from the Microsoft 365 Admin Center or [by using PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-groups-with-powershell).
+You can administer your groups from the Microsoft 365 admin center or [by using PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-groups-with-powershell).
 
 If you have a lot of users, such as in a large corporation or enterprise, you may have many users who create groups for various purposes. We highly recommend that you review [Plan for governance in Office 365 Groups](plan-for-groups-governance.md) for best practices.
 
@@ -87,17 +84,15 @@ Any Office 365 subscription that has Exchange Online and SharePoint Online will 
 
 If you have an Exchange-only plan you can still get the shared Inbox and shared Calendar features of groups in Outlook but you won’t get the document library, Planner or any of the other capabilities.
 
-If you have a Yammer-only plan you will still have the conversations feed in the Yammer group but you won't get the document library, Planner, or any of the other capabilities.
-
-Office 365 Groups works with Azure Active Directory (AAD). The Groups features you get depends on which Azure Active Directory subscription you have, and what license(s) is assigned to the organizer of the Group. 
+Office 365 Groups works with Azure Active Directory (AAD). The Groups features you get depends on which Azure Active Directory subscription you have, and what license(s) is assigned to the organizer of the Group.
 
 > [!IMPORTANT]
 > For all the Groups features, if you have an Azure AD Premium subscription, users can join the group whether or not they have an AAD P1 license assigned to them. Licensing isn't enforced.
 > Periodically we will generate usage reports that tell you which users are missing a license, and need one assigned to them to be compliant with the licensing requirements. For example, let's say a user doesn't have a license and they are added to a group where the naming policy is enforced. The report will flag for you that they need a license.
 
-## Related topics
+## Related articles
 
-[Learn about Office 365 Groups](https://support.office.com/en-us/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
+[Learn about Office 365 Groups](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
 
 [Upgrade distribution lists to Office 365 Groups](../manage/upgrade-distribution-lists.md)
 

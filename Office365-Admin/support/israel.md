@@ -1,12 +1,15 @@
 ﻿---                                
 title: Support information for Israel
 author: cmcatee-MSFT
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 manager: mnirkhe
 audience: Admin
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Priority
+ms.collection: Adm_Support
+localization_priority: Normal
 description: Learn how to contact support for your country or region.
 ROBOTS: NOINDEX, NOFOLLOW
 ---

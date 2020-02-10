@@ -1,7 +1,9 @@
 ---
 title: "About the Exchange Online admin role"
-ms.author: cmcatee
-author: cmcatee-MSFT
+f1.keywords:
+- NOCSH
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: overview
@@ -10,11 +12,7 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_TOC
 search.appverid:
 - BCS160
 - MET150
@@ -52,9 +50,9 @@ If you have a large organization, the Exchange admin might want to assign users 
   
  For example, the Exchange admin might assign someone to the Discovery Management role group so they can perform searches of mailboxes for data that meets certain criteria. To learn more, see [Permissions in Exchange Online](https://docs.microsoft.com/exchange/permissions-exo/permissions-exo) and [Manage Role Groups](https://docs.microsoft.com/exchange/manage-role-groups-exchange-2013-help).
   
-## Learn about other Office 365 admin roles
+## Learn about other admin roles
     
 - [About the SharePoint Online admin role](https://docs.microsoft.com/sharepoint/sharepoint-admin-role)
     
-- [About the Skype for Business admin role](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-online)
+- [About the Skype for Business admin role](https://docs.microsoft.com/skypeforbusiness/skype-for-business-online)
     

@@ -1,5 +1,7 @@
 ---
 title: "Create DNS records at Netregistry for Office 365"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -8,12 +10,10 @@ ms.topic: get-started-article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
-- M365-subscription-management 
+- M365-subscription-management
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_NonTOC
+- Adm_O365_Setup
 search.appverid:
 - BCS160
 - MET150
@@ -68,7 +68,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     ![Netregistry_selectZoneManager](../media/e18c32f9-c1e7-4aa2-9aa6-8dc9c5ea44af.png)
   
-4. Under ﻿ **﻿Add a zone record**,﻿ choose **TXT Record** from the list, and then select **Create new record**.
+4. Under **Add a zone record**, choose **TXT Record** from the list, and then select **Create new record**.
     
     ![Netregistry_TXT_select](../media/eb1761e6-9deb-4631-8deb-bc5d09926722.png)
   
@@ -83,25 +83,25 @@ Before you use your domain with Office 365, we have to make sure that you own it
        
     ![Netregistry_verificationTXTvalues](../media/cfe8b05a-fa8b-4dba-9554-7a3466e6c012.png)
   
-6. Choose **Add record**.
+6. Select **Add record**.
     
 Now that you've added the record at your domain registrar's site, you'll go back to Office 365 and request Office 365 to look for the record.
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. Choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
-    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    
   
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
-    ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
+    
   
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
-    ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
+    
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
@@ -133,11 +133,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**Name**|**TTL (SEC)**|**Exchange (Points to address or value)**|**Is host fully qualified?**|**Preference (Priority)**|
     |:-----|:-----|:-----|:-----|:-----|
-    |(leave blank)  <br/> |3600 (seconds)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)      |(select the checkbox)  <br/> |10  <br/> For more information about priority, see What is MX priority?  <br/> |
+    |(leave blank)  <br/> |3600 (seconds)  <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 account.  [How do I find this?](../get-help-with-domains/information-for-dns-records.md)      |(select the checkbox)  <br/> |10  <br/> For more information about priority, see What is MX priority?  <br/> |
        
     ![Netregistry_MX_values](../media/518b3da6-4055-4e2d-b5ce-44a0fee25419.png)
   
-7. Choose **Add Record**.
+7. Select **Add Record**.
     
     ![Netregistry_MX_values_AddRecord](../media/8194cb38-afa0-48ac-831c-fd34b6ad652e.png)
   
@@ -167,13 +167,12 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |autodiscover  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |autodiscover.outlook.com  <br/> |
     |sip  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |sipdir.online.lync.com  <br/> |
     |lyncdiscover  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |webdir.online.lync.com  <br/> |
-    |msoid  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |clientconfig.microsoftonline-p.net  <br/> |
     |enterpriseregistration  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |enterpriseregistration.windows.net  <br/> |
     |enterpriseenrollment  <br/> |CNAME  <br/> |3600 (seconds)  <br/> |enterpriseenrollment-s.manage.microsoft.com  <br/> |
        
     ![Netregistry_CNAME_values](../media/93c479f0-3ce2-491a-9113-6dde1cd7131b.png)
       
-6. Choose **Add record**.
+6. Select **Add record**.
     
     ![Netregistry_CNAME_values_AddRecord](../media/046c8c64-ea71-4530-9fc6-69f0c70993b6.png)
   
@@ -214,7 +213,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Netregistry_SPF-TXTvalues](../media/a369345a-d774-48bc-8160-b628ab8247f9.png)
   
-6. Choose **Add Record**.
+6. Select **Add Record**.
     
     ![Netregistry_SPF-TXTvalues_AddRecord](../media/063bfbaf-940a-489f-970f-29c026b4b312.png)
   
@@ -249,7 +248,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
        
     ![Netregistry_SRV_values](../media/49292846-1598-4b8c-9940-db6e10675753.png)
   
-6. Choose **Add Record**.
+6. Select **Add Record**.
     
     ![Netregistry_SRV_values_AddRecord](../media/abc82061-939f-4757-87e4-0e8f9e43ebcb.png)
   

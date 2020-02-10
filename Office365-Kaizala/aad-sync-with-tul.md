@@ -1,5 +1,7 @@
 ---
 title: Azure Active Directory sync with the Kaizala Directory
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
@@ -23,16 +25,13 @@ description: Learn how to enable and disable Azure Active Directory (Azure AD) a
 
 The Azure Active Directory (Azure AD) sync feature lets you sync user information in Azure AD with the Kaizala Directory, which serves as your organization directory. As an admin, you can import data and sync changes occurring in the Azure AD. You can use this feature for:
 
-- **User management** - Any user changes in Azure AD are automatically synced with the organization directory and associated groups. For example, if a user’s phone number is changed in Azure AD, the information will be updated in the organization directory. Similarly, if a user is deleted from the organization’s Azure AD, the user is automatically removed from the organization group.
+- **User management** - Any user changes in Azure AD are automatically synced with the organization directory and associated groups. For example, if a user’s job title is changed in Azure AD, the information will be updated in the organization directory. Similarly, if a user is deleted from the organization’s Azure AD, the user is automatically removed from the organization group.
 
 - **Dynamic group management** - Allows you to dynamically create and manage groups based on rules and user attributes. For example, you can set a rule to create a group for employees with the *Senior Manager* designation in the *Finance* department.
 
 ### Prerequisites
 
-- You must be a Kaizala organization admin with a Kaizala Pro license.
-- You must have the **MobilePhone** or **BusinessPhone** field in Azure AD populated with phone numbers and the country code. Use either of these formats:
-  - <*country code*><*phone number*> (for example, +911234567890)
-  - <*country code*>-<*phone number*> (for example, +91-1234567890)
+- You must be a Kaizala organization admin with a Kaizala Pro license
 
 ## How the Azure AD sync feature works
 
@@ -48,7 +47,7 @@ To configure the Azure AD and Kaizala Directory sync:
 
 2. From the menu on the left, select **Directory**.
 
-3. Select **Add Users**, and then select **Configure AAD Sync**.
+3. Select **More**, and then select **Configure AAD Sync**.
 
 ![Screenshot of the Add Users window in Azure AD sync.](media/aad-sync-configure.png)
 
@@ -67,3 +66,5 @@ To configure the Azure AD and Kaizala Directory sync:
    > After you select **Next**, the sync process will start and it will take some time for the process to complete. The Azure AD sync will happen regularly based on the frequency set by you.
 
 7. You can check the sync status through logs.
+
+Once synced, AAD users will become part of Employee network.

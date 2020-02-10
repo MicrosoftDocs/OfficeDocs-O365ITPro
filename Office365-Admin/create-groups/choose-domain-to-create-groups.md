@@ -1,5 +1,8 @@
 ---
 title: "Choose the domain to use when creating Office 365 Groups"
+ms.reviewer: arvaradh
+f1.keywords:
+- NOCSH
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
@@ -10,10 +13,7 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_TOC
 search.appverid:
 - BCS160
 - MET150
@@ -32,9 +32,9 @@ Before you can run the PowerShell cmdlets, download and install a module that wi
   
 ## Example scenarios
 
-Let's say your business's main domain is Contoso.com. But your organization's default accepted domain is service.contoso.com. This means Office 365 groups will be created in service.contoso.com (for example, jimsteam@service.contoso.com).
+Let's say your business's main domain is Contoso.com. But your organization's default accepted domain is service.contoso.com. This means groups will be created in service.contoso.com (for example, jimsteam@service.contoso.com).
   
-Let's say you also have sub-domains configured in your organization. You want Office 365 groups to be created in these domains, too:
+Let's say you also have sub-domains configured in your organization. You want groups to be created in these domains, too:
   
 - students.contoso.com for students
     
@@ -43,7 +43,7 @@ Let's say you also have sub-domains configured in your organization. You want Of
 The following two scenarios explain how you would accomplish this.
   
 > [!NOTE]
-> When you have mulitple EAPs, they are evaluated in the order of priority. A value of 1 means the highest priority. Once an EAP matches, no further EAP is evaluated and addresses that gets stamped on the Office 365 group are as per the matched EAP. > If no EAPs match the specified criteria, then the Office 365 group gets provisioned in the organization's default accepted domain. Check out [Manage accepted domains in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=785428) for details on how to add an accepted domain. 
+> When you have mulitple EAPs, they are evaluated in the order of priority. A value of 1 means the highest priority. Once an EAP matches, no further EAP is evaluated and addresses that gets stamped on the group are as per the matched EAP. > If no EAPs match the specified criteria, then the group gets provisioned in the organization's default accepted domain. Check out [Manage accepted domains in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=785428) for details on how to add an accepted domain. 
   
 ### Scenario 1
 
@@ -57,13 +57,13 @@ New-EmailAddressPolicy -Name Groups -IncludeUnifiedGroupRecipients -EnabledEmail
 
 Let's say you want to control what sub-domains Office 365 groups are created in. You want:
   
-- Office 365 groups created by students (users which have **Department** set to **Students**) in the students.groups.contoso.com domain. Use this command:
+- Groups created by students (users which have **Department** set to **Students**) in the students.groups.contoso.com domain. Use this command:
     
   ```
   New-EmailAddressPolicy -Name StudentsGroups -IncludeUnifiedGroupRecipients -EnabledEmailAddressTemplates "SMTP:@students.groups.contoso.com","smtp:@groups.contoso.com" -ManagedByFilter {Department -eq 'Students'} -Priority 1
   ```
 
-- Office 365 groups created by faculty members (users which have **Department** set to **Faculty or email address contains faculty.contoso.com)**) in the faculty.groups.contoso.com domain. Use this command:
+- Groups created by faculty members (users which have **Department** set to **Faculty or email address contains faculty.contoso.com)**) in the faculty.groups.contoso.com domain. Use this command:
     
   ```
   New-EmailAddressPolicy -Name FacultyGroups -IncludeUnifiedGroupRecipients -EnabledEmailAddressTemplates "SMTP:@faculty.groups.contoso.com","smtp:@groups.contoso.com" -ManagedByFilter {Department -eq 'Faculty' -or EmailAddresses -like "*faculty.contoso.com*"} -Priority 2
@@ -100,13 +100,13 @@ Changing an EAP has no impact on the groups that have already been provisioned.
 
 If your organization is configured in a hybrid scenario, check out [Configure Office 365 Groups with on-premises Exchange hybrid](https://go.microsoft.com/fwlink/p/?LinkId=785430) to make sure your organization meets the requirements for creating Office 365 groups. 
   
-## Additional info about using email address policies for Office 365 groups:
+## Additional info about using email address policies groups:
 
 There are a few more things to know:
   
 - How fast groups are created depends on the number of EAPs configured in your organization.
     
-- Admins and users can also modify domains when they create Office 365 groups.
+- Admins and users can also modify domains when they create groups.
     
 - Group of users is determined using the standard queries (User properties) that are already available. Check out [Filterable properties for the -RecipientFilter parameter](https://go.microsoft.com/fwlink/p/?LinkId=785918) for supported filterable pproperties. 
     
@@ -116,8 +116,6 @@ There are a few more things to know:
     
 - A maximum limit of 100 email address policies can be configured for an organization.
     
-## See Also
+## Related articles
 
 [Create an Office 365 group in the admin center](create-groups.md)
-  
-

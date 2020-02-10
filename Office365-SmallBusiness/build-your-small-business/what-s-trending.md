@@ -1,5 +1,7 @@
 ---
 title: "What's trending"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv
@@ -15,87 +17,35 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 68d1dca2-f1d6-4edc-8aff-318acfd47688
-ROBOTS: NOINDEX
-description: "Read about what's new, currently popular, and on the horizon, in Office 365."
+description: "Find articles to help you troubleshoot issues with your Office 365 for business subscription."
 ---
 
-# What's trending
+# Trending topics
 
-Learn what's new, popular, and on the horizon, in Office 365 this quarter.
+These articles help troubleshoot issues that can occur with your Office 365 subscription. You can also [contact](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone) us any time.
+
+![Conceptual art that shows trending issues.](../media/smbtrendingpage2.png)
+
+- [I'm getting a 5.7.705 access denied error when I try to send email](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)
+
+- [Help me understand my subscriptions and licenses](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/subscriptions-and-licenses?view=o365-worldwide)
+
+- [I want to add another Office 365 subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription?view=o365-worldwide)
+
+- [I need to reset my admin password](https://docs.microsoft.com/office365/admin/add-users/reset-passwords?view=o365-worldwide)
+
+- [I think my email account has been compromised](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+
+- [There's an unknown charge on my credit card](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice?view=o365-worldwide)
+
+- [How do I reactivate my Office 365 for business subscription if I let it expire](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription?view=o365-worldwide)
+
+- [I want to change my payment method](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide)
+
+- [I want to assign a license to a new user](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
+
+- [I'm ready to add my custom domain](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
   
-<ul class="panelContent cardsD">
-    <li>
-        <a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426.aspx">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="../media/OFC18-FirstLine-Realtor3-117-367x227.jpg" alt="Picture of smiling woman" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>What's new in Office 365</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-    <li>
-        <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="../media/WWS16-Bank-076-367x227.jpg" alt="Picture of two people talking and looking at a laptop" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Get started with Microsoft 365 Business</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-    <li>
-        <a href="https://support.office.com/en-us/article/switch-from-g-suite-to-office-365-cff9f9fb-956e-4cb9-8b64-d7ebc1911123">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="../media/OFC18-FirstLine-FoodIndustry-041-367x227.jpg" alt="Picture of smiling man" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>New G Suite training</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-    <li>
-        <a href="https://support.office.com/article/0865d155-bd36-407a-82be-929f2cd76f26.aspx">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="../media/Round-Desk-Laptop-Word-367x227.jpg" alt="Laptop with a Word document" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Check out new Office templates</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-</ul>
+## Related articles
 
-
+[Contact Office 365 support](https://docs.microsoft.com/en-us/office365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone)

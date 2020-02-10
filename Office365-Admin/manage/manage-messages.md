@@ -1,5 +1,7 @@
 ---
 title: "Manage messages in Message center"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
@@ -10,10 +12,7 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_TOC
 search.appverid:
 - BCS160
 - MET150
@@ -28,88 +27,186 @@ Message center posts are important announcements about new and changed features.
   
 ## Read a message
 
-Click on a message to open it in the reading pane. You'll see the expiration date for the message, which is the date when the message will automatically be removed from the active message view. Every message contains a summary of the change, a statement of how the change may affect you, and information about how you can prepare your organization for the change. And, we always provide an additional information link where you can learn more. The additional information continues to be available, even after a message expires.
-  
-Use the **Previous** and **Next** buttons to navigate between messages. 
-  
-![Example message with expiration date](../media/e47cd136-3f17-4559-be1c-2787ebb411dc.png)
+To go to the Message center, go to the [admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339), and select **Health** > **Message center**. 
+
+Select a message title to open it in the reading pane. Every message contains a summary of the change, a statement of how the change may affect you, information about how you can prepare your organization for the change, and (in most cases) an additional information link where you can learn more. The additional information continues to be available, even after a message expires.
+
+::: moniker range="o365-worldwide"
+ 
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
+::: moniker-end
 
 ## Filter and sort
 
-Use the Views drop-down menu to select a filtered view of messages.
-  
-![Message Center views menu with filters](../media/5df2d11b-2547-4430-ae75-5bbe48a5a139.png)
-  
-You can click on any column heading to sort messages in ascending or descending order. For example, in this diagram the messages are sorted on the **Act by** date. 
-  
-![Message center sorted by Act by column](../media/10342802-0bd7-4dd3-9003-e86ff226f85a.png)
+::: moniker range="o365-worldwide"
+
+Use the **Filter** drop-down menu to select a filtered view of messages.
+
+You can select any column heading to sort messages in ascending or descending order. For example, in this diagram the messages are sorted on the **Act by** date.
+
+![Message center view sorted by Act by date](../media/message-center-filter-act-by.png)
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+Use the **Views** drop-down menu to select a filtered view of messages. 
+ 
+You can select any column heading to sort messages in ascending or descending order. For example, in this illustration the messages are sorted on the **Act by** date.
+
+![Message center view sorted by Act by date](../media/message-center-old-admin-center1.png)
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+Use the **Views** drop-down menu to select a filtered view of messages. 
+ 
+You can select any column heading to sort messages in ascending or descending order. For example, in this illustration the messages are sorted on the **Act by** date.
+
+![Message center view sorted by Act by date](../media/message-center-old-admin-center1.png)
+
+::: moniker-end
 
 ## Give feedback on a post
 
-In the Message center, you can select a message to see details. 
-If you want to provide feedback on the message, click either the **Like** or **Dislike** icon and provide feedback in the text box that appears. Do not provide any personal information. You can optionally choose **It's OK to contact me about this feedback** and then choose **Send**.
-![Provide feedback on a message center post.](../media/Providefeedback-on-message-center-post.png)
-  
+In the Message center, you can select a message to see details.
+
+If you want to provide feedback on the message, select either the **Like** or **Dislike** icon and provide feedback in the text box that appears. Do not provide any personal information. You can optionally select **It's OK to contact me about this feedback** and then select **Send**.
+
 ## Share a message
 
 See a message that someone else needs to act on? You can share the contents of the message with any user by email:
   
-1. Click on the message to open it.
-    
-2. Select **More** \> **Share**.
-    
-3. Allow the webpage to open Outlook or another email client on your computer.
-    
-4. Address the email to the desired recipient, add any additional information about how they should act on the message, and send.
-    
- **Updated: Share a Message - General Release has started**
+1. Select the message to open it, and then select **Share**.
   
- **New!** An updated sharing experience for message center posts is in the process of being released to all customers. This update will gradually release world-wide and will soon be the default experience for everyone. 
+2. To share the message, enter up to two email addresses separated by a colon. You can send to individual and to group email addresses. Optionally, you can choose to receive a copy of the message in email (the message will go to your primary email address in Office 365) or add a personal message to provide recipients with more context.
   
-1. Click on the message to open it.
-    
-2. Select **Share** from the action bar.<br/>![Message center post action bar](../media/43f6adc4-8cf9-4437-8e25-dc9c7367301d.png)
-  
-3. Enter up to two email addresses to share the message with. You can send to individual and to group email addresses. If you'd like to also receive a copy of the message in email, select **I would also like to receive this email**. The message will go to your primary email address in Office 365. If you'd like to add a personal message to provide recipients with more context, select **I would like to add a personal message** and enter your text.<br/>![Message sharing screen](../media/c490096e-ba8b-412d-92ab-2dfed223da11.png)
-  
-4. Click on **Share** to send the email. 
+3. Select **Share** to send the email.
     
 ## Get a link
 
 Need to follow up with another admin to make sure they're aware of a change and taking action? You can generate a link to share in email or instant messaging, for example, that will connect the user directly to that message. The person you share the link with has to be an admin in Office 365 for your organization or they won't have access to the linked message.
-  
-1. Click on the message to open it.
-    
-2. Select **More** \> **Get a link**.
-    
-3. Allow the webpage to access your Clipboard. A direct link is copied to your clipboard.
-    
-4. Use CTRL+V or right-click and select Paste to insert the link.
-    
+
+::: moniker range="o365-worldwide"
+
+1. Select the message to open it.
+
+2. Select the **Copy link to Clipboard** (link) icon.
+
+3. Allow the webpage to access your Clipboard. A direct link is copied to your Clipboard.
+
+4. Use Ctrl+V or right-click and select **Paste** to insert the link.
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. Select the message to open it.
+
+2. Choose **More** \> **Get a link** from the action bar.
+
+3. Allow the webpage to access your Clipboard. A direct link is copied to your Clipboard.
+
+4. Use Ctrl+V or right-click and select **Paste** to insert the link.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. Select the message to open it.
+
+2. Choose **More** \> **Get a link** from the action bar.
+
+3. Allow the webpage to access your Clipboard. A direct link is copied to your Clipboard.
+
+4. Use Ctrl+V or right-click and select **Paste** to insert the link.
+
+::: moniker-end
+
 ## Read and unread states
 
-Any message in Message center that is unread will appear in bold. Opening a message marks it as read. If you want to mark a message as unread:
+Any message in Message center that is unread will appear in bold. Opening a message marks it as read. You can mark a message as unread.
+
+::: moniker range="o365-worldwide"
+
+1. On the main page of the message center, select a message.
+
+2. Select the **Mark as unread** (envelope) icon at the top of the message.
   
-1. Click on the message to open it.
-    
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+1. Select the message to open it.
+
 2. Select **More** \> **Mark as unread**.
-    
+
 3. Close the message.
-    
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+1. Select the message to open it.
+
+2. Select **More** \> **Mark as unread**.
+
+3. Close the message.
+
+::: moniker-end
+
 ## Dismiss and restore
 
-If you see a message that doesn't pertain to you, or maybe you've already acted on it, you can dismiss the message to remove it from the Message center view. The view that you see in Message center is specific to your user account, so dismissing it from your view doesn't affect other admins. There are two ways to dismiss a message:
-  
-- Click on the X that appears to the right of the Message ID. The message is removed from your list. Or,
-    
-- Open the message, then click the **Dismiss** button at the top of the text. 
-    
+If you see a message that doesn't pertain to you, or maybe you've already acted on it, you can dismiss the message to remove it from the Message center view. The view that you see in Message center is specific to your user account, so dismissing it from your view doesn't affect other admins.
+
+::: moniker range="o365-worldwide"
+
+- On the main page of the message center, select a message, and then select **Dismiss** above the list of messages.
+
+- Open the message, and then select **Dismiss** at the bottom of the message.
+
 Need to get a dismissed message back? No problem.
   
-1. Select the **Dismissed messages** filter from the **Views** drop-down menu. A list of dismissed messages appears. 
-    
-2. Click the restore icon ![Refresh icon](../media/4565dd14-7d6a-4c42-91b7-91cc34977a43.png) to the right of the Message ID, and the message is restored to active messages. 
-    
+1. Select the **Dismissed messages** tab at the top of the Message center. A list of dismissed messages appears. 
+
+2. Select the message, select **Restore**, and the message is restored to active messages.
+
+::: moniker-end
+
+::: moniker range="o365-germany"
+
+There are two ways to dismiss a message.
+  
+- Select the X that appears to the right of the Message ID. The message is removed from your list. Or,
+
+- Open the message, and then select **Dismiss** at the top of the message.
+
+Need to get a dismissed message back? No problem.
+  
+1. Select the **Dismissed messages** filter from the **Views** drop-down menu. A list of dismissed messages appears.
+
+2. Select **Restore** to the right of the Message ID, and the message is restored to active messages.
+
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+There are two ways to dismiss a message.
+  
+- Select the X that appears to the right of the Message ID. The message is removed from your list. Or,
+
+- Open the message, and then select **Dismiss** at the top of the message.
+
+Need to get a dismissed message back? No problem.
+  
+1. Select the **Dismissed messages** filter from the **Views** drop-down menu. A list of dismissed messages appears.
+
+2. Select **Restore** to the right of the Message ID, and the message is restored to active messages.
+
+::: moniker-end
+
 For an overview of Message center, see [Message center in Office 365](message-center.md). Or, to learn how to set your language preferences to enable machine translation for Message center posts, see [Language translation for Message center posts](language-translation-for-message-center-posts.md). If you'd like to program an alternative way to get real-time service health information and Message Center communications, please reference [Office 365 Service Communications API Overview](https://go.microsoft.com/fwlink/p/?linkid=848507).
   
-

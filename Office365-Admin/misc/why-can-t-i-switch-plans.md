@@ -1,25 +1,19 @@
 ---
 title: "Why can't I switch Office 365 for business plans?"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: troubleshooting
-f1_keywords:
-- 'WhyICantSwitchPlans'
-- 'O365P_WhyICantSwitchPlans'
-- 'O365M_WhyICantSwitchPlans'
-- 'O365E_WhyICantSwitchPlans'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
-- M365-subscription-management
+- M365-subscription-management 
 - Adm_O365
-- Adm_UI_Elements
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_NonTOC
+- commerce
 search.appverid:
 - BCS160
 - MET150
@@ -35,12 +29,10 @@ description: "Understand the reasons why sometimes switching plans has to be don
 
 ::: moniker range="o365-worldwide"
 > [!NOTE]
-> This article applies to the old admin center. To view the article about the admin center (preview), see [Why can't I upgrade plans?](why-cant-i-change-plans.md). The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+> This article applies to the old admin center. To view the article about the admin center (preview), see [Why can't I upgrade plans?](why-cant-i-change-plans.md). The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 ::: moniker-end
 
 If you don't see the **Switch plans** button, your plan can't be switched automatically. In some cases, you might be able to resolve the issue so that you can use the **Switch plans** button, or you might be able to [switch plans manually](switch-plans-manually.md), instead. Position your mouse over the info icon to view a message that explains why the **Switch plans** button is not available. Use the information in this article to resolve the issue.
-  
-![The message indicating that the plan isn't eligible to switch plans automatically.](../media/2a03f4b2-6a12-46da-a308-89b11f2f1a20.png)
   
 ::: moniker range="o365-worldwide"
 
@@ -84,27 +76,22 @@ To use the **Switch plans** button to switch plans automatically, all of your us
 
 ### You can't switch subscriptions right now because this subscription isn't fully set up or the service isn't available.
 
-For example, in the following picture, the Skype for Business service has an incident, while all other services are currently healthy.
-  
-**Current service health that shows Skype for Business has a service incident**
 
-![The service health page showing services that have incidents and advisories.](../media/1708676f-9622-491c-8db2-9bce27f46a07.png)
-  
 ::: moniker range="o365-worldwide"
 
-To see if there are provisioning or service health issues, in the Admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842900" target="_blank">Service health</a> page, or choose **Health** \> **Service health**.
+To see if there are provisioning or service health issues, in the admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=842900" target="_blank">Service health</a> page, or select **Health** \> **Service health**.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-To see if there are provisioning or service health issues, in the Microsoft 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848042" target="_blank">Service health</a> page, or choose **Health** \> **Service health**.
+To see if there are provisioning or service health issues, in the Microsoft 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=848042" target="_blank">Service health</a> page, or select **Health** \> **Service health**.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-To see if there are provisioning or service health issues, in the Microsoft 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850629" target="_blank">Service health</a> page, or choose **Health** \> **Service health**.
+To see if there are provisioning or service health issues, in the Microsoft 365 admin center, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=850629" target="_blank">Service health</a> page, or select **Health** \> **Service health**.
 
 ::: moniker-end
 

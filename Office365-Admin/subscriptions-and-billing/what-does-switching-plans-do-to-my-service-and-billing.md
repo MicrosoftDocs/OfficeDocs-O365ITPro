@@ -1,24 +1,19 @@
 ---
 title: "What does upgrading Office 365 plans do to my service and billing?"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_SwitchPlansBilling'
-- 'O365M_SwitchPlansBilling'
-- 'O365E_SwitchPlansBilling'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_UI_Elements
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_TOC
+- commerce
 search.appverid:
 - BCS160
 - MET150
@@ -31,7 +26,7 @@ description: "Learn how upgrading subscriptions affects the Admins and users acc
 
 # What does upgrading Office 365 plans do to my service and billing?
 
-When you upgrade plans automatically by using the **Switch plans** button (or the **Upgrade** tab in admin center (preview)), your services and billing are affected.
+When you upgrade plans automatically by using the **Switch plans** button (or the **Upgrade** tab in the new admin center), your services and billing are affected.
   
 ## Access to services
 

@@ -1,31 +1,19 @@
 ---
 title: "Buy a domain name in Office 365"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365PE_DomainsSetup_BuyDomain'
-- 'O365P_DomainsPDWUseDifferentTLD'
-- 'O365P_DomainsMain_BuyDomain'
-- 'O365P_1stRun_BuyDomain'
-- 'O365M_DomainsPDWUseDifferentTLD'
-- 'O365M_DomainsMain_BuyDomain'
-- 'O365E_DomainsPDWUseDifferentTLD'
-- 'O365E_DomainsMain_BuyDomain'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
-- Adm_O365_Domain_Core
+- Adm_O365
+- Adm_TOC
 - Adm_O365_Setup
-- Adm_UI_Elements
-ms.custom:
-- Adm_O365_FullSet
-- Adm_O365_Setup
-- Core_O365Admin_Migration
-- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -33,6 +21,7 @@ search.appverid:
 - GEA150
 ms.assetid: 1561140a-16a9-4a02-822d-a989250e479d
 description: "Learn how to buy a domain name in Office 365."
+ms.custom: okr_smb
 ---
 
 # Buy a domain name in Office 365
@@ -41,13 +30,11 @@ description: "Learn how to buy a domain name in Office 365."
 
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
   
-### Sign in and click Settings \> Domains \> Buy a domain
+### Sign in and go to Settings \> Domains \> Buy a domain
 
-1. Sign in to Office 365 with your work or school account. 
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-2. On the **Admin** page, on the left, choose **Setup**, and then **Domains**.
-    
-3. On the **Domains** page, choose **Buy domain**.
+3. On the **Domains** page, select **Buy domain**.
     
 You can choose from the following top level domains for your domain.
   
@@ -71,10 +58,9 @@ You can choose from the following top level domains for your domain.
     
 - org.uk
     
-![On the Manage domains page, click Buy domain](../media/16d6b3ba-ce13-496e-a7c0-1d99479dd203.png)
 
 > [!NOTE]
-> When you click **Buy domain**, you may be redirected to your Microsoft partner's website if the tenant is purchased/managed through a Microsoft partner.
+> When you select **Buy domain**, you may be redirected to your Microsoft partner's website if the tenant is purchased/managed through a Microsoft partner.
 
 ### Domain Privacy
 We offer a free Domain Privacy Subscription with the purchase of a domain. This keeps your contact information attached to the registration of your domain with ICANN private. [Learn more.](https://whois.icann.org/en/privacy-and-proxy-services)
@@ -109,9 +95,6 @@ To set up a domain in Office 365, you must own a domain and change some of the D
   
 After you register your domain (at a domain registrar), you sign in to Office 365 as an admin and set up your domain so you can use it with your email address and other services..
   
-> [!IMPORTANT]
-> China Internet compliance policy requires that you [get an Internet Content Provider (ICP) number for your public website](../services-in-china/get-an-icp-number-for-your-public-website.md). 
-  
 > [!NOTE]
 > The SharePoint Online Public Website information in this article only applies if your organization purchased Office 365 prior to March 9, 2015. 
 
@@ -127,3 +110,10 @@ After you register your domain (at a domain registrar), you sign in to Office 36
     
 ::: moniker-end
 
+## Related articles
+
+[Add a domain to Office 365](../setup/add-domain.md)
+
+[Domains FAQ](../setup/domains-faq.md)
+
+[Get help with Office 365 domains](get-help-with-domains.md)

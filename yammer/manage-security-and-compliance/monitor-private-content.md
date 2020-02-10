@@ -1,9 +1,11 @@
 ---
 title: "Monitor private content in Yammer"
-ms.author: v-irpast
-author: IrenePasternack
+f1.keywords:
+- NOCSH
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
-ms.date: 3/22/2018
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -58,7 +60,7 @@ When you are done investigating an issue, go back and set the network back to th
     
 4. Select **Default Mode (Recommended)**, and choose **Save**.
     
-## See also
+## Related articles
 
 [Verified Admin Private Content Mode in Yammer (Yammer Developer Center)](https://go.microsoft.com/fwlink/?LinkId=780585)
 

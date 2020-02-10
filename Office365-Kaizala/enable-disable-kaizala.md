@@ -1,10 +1,12 @@
 ---
 title: Enable or disable Kaizala Pro for your organization
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
 audience: Admin
-ms.date: 04/05/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -21,7 +23,7 @@ description: Learn how to enable and disable the Kaizala app in the Kaizala mana
 
 # Enable or disable Kaizala Pro for your organization 
 
-Microsoft Kaizala Pro is currently [available in 28 countries](regional-availability.md). Beginning in May 2019, Kaizala Pro will be available internationally, with the exception of Cuba, Iran, North Korea, People's Republic of China, Sudan, Syria, Region of Crimea, and Russia. If Kaizala Pro is available in your area, it’s enabled by default for your organization. For all organizations located somewhere else, Kaizala Pro is disabled by default. In any case, the Office 365 administrator can always enable or disable Kaizala Pro. 
+Microsoft Kaizala Pro is currently [available](regional-availability.md) internationally, with the exception of Cuba, Iran, North Korea, People's Republic of China, Sudan, Syria, Region of Crimea, and Russia. If Kaizala Pro is available in your area, it’s enabled by default for your organization. For all organizations located somewhere else, Kaizala Pro is disabled by default. In any case, the Office 365 administrator can always enable or disable Kaizala Pro. 
 
 The Office 365 administrator can control whether members of an organization can use Office 365 to log in to the Kaizala app and the Kaizala management portal. 
 
@@ -49,3 +51,11 @@ When Kaizala Pro is disabled, users will see the following messages.
 
 Once the app is disabled, members of the organization can no longer sign in using Office 365 on the Kaizala app or the Kaizala management portal. However, employees can still use the Kaizala app for their personal use outside of work.
 
+> [!NOTE]
+> Kaizala will remain visible in the [Office 365 app launcher](https://support.office.com/article/meet-the-office-365-app-launcher-79f12104-6fed-442f-96a0-eb089a3f476a) until the Kaizala license assigned to the user is removed. (To open the app launcher, click or tap the app launcher icon ![Image of app launcher icon.](media/app-launcher-icon.png)].)
+
+The following shows the admin center with the Kaizala license removed for a user.
+
+![Screenshot of admin center with Kaizala license removed.](media/enable-kaizala-in-admin-center.png)
+
+For more information about how to remove licenses from a user, see [Remove licenses from users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users?view=o365-worldwide).  

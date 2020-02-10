@@ -1,9 +1,11 @@
 ---
 title: Groups in Kaizala
+f1.keywords:
+- NOCSH
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 05/18/2019
+ms.date: 06/25/2019
 ms.audience: Admin
 ms.topic: article
 ms.service: Kaizala
@@ -22,6 +24,8 @@ description: Learn about Kaizala groups and how to create them from the mobile a
 # Groups in Kaizala
 
 Think of groups in Kaizala as just a collection of people. You can create Kaizala groups from the mobile app and the management portal. Kaizala offers different types of groups to suit your needs.
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3auMb] 
 
 ## Types of groups
 

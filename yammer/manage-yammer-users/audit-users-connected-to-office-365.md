@@ -1,9 +1,11 @@
 ---
 title: "Audit Yammer users in networks connected to Office 365"
-ms.author: v-irpast
-author: IrenePasternack
+f1.keywords:
+- NOCSH
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
-ms.date: 3/22/2018
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -21,7 +23,7 @@ description: "Audit Yammer users: export a list of users, find the status of tho
 
 Your company's Yammer network might have users who no longer work for your company. Or, some Yammer users might be logging in with their email and password because they don't have a corresponding Office 365 account. In order to analyze such situations and take action, you can audit your Yammer users. This involves exporting the list of Yammer users, finding the status of these Yammer users in Office 365 by using Azure Active Directory Module for Windows PowerShell, and analyzing the results and taking action.
   
-In addition to auditing Yammer users, you may want to understand more about how the Yammer service can be seamlessly managed from Office 365. For example, you can [Manage Yammer users across their life cycle from Office 365](manage-users-across-their-lifecycle.md) and [Enforce office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md).
+In addition to auditing Yammer users, you may want to understand more about how the Yammer service can be seamlessly managed from Office 365. For example, you can [Manage Yammer users across their life cycle from Office 365](manage-users-across-their-lifecycle.md) and [Enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md).
   
 ## Export the Yammer users list
 
@@ -122,6 +124,6 @@ Param(
     
 2. After you have completed these operations, we recommend that you run these steps again from the start to confirm all the users are now found in Office 365 and Azure AD.
     
-If you are enforcing Office 365 identity, then after a full audit you may want to consider logging off all current users, so that you can be sure that everyone is now logging in with their Office 365 credentials, and not using cached credentials. If you choose to do this, ensure that this is communicated to your users. More information in [Enforce office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md).
+If you are enforcing Office 365 identity, then after a full audit you may want to consider logging off all current users, so that you can be sure that everyone is now logging in with their Office 365 credentials, and not using cached credentials. If you choose to do this, ensure that this is communicated to your users. More information in [Enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md).
   
 

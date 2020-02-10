@@ -1,5 +1,7 @@
 ---
 title: "Options for accessing email from your mobile device"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv
@@ -7,7 +9,9 @@ audience: End User
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.custom: Core_O365Admin_Migration
+ms.collection:
+- Adm_O365
+- Adm_NonTOC
 search.appverid: MET150
 ms.assetid: ba780859-0297-4114-a258-2b2809bab9e6
 ROBOTS: NOINDEX, NOFOLLOW

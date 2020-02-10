@@ -1,0 +1,6 @@
+# [Admin home](planner-admin-home.md)
+## [Microsoft Planner for admins](planner-for-admins.md)
+## [Turn off Outlook calendar sync in Planner for your organization](turn-off-outlook-calendar-sync.md)
+## [Delete user data in Microsoft Planner](delete-user-data.md)
+## [Export user data from Microsoft Planner](export-user-data.md)
+## [How to use Office 365 PowerShell to manage Microsoft Planner licenses](https://docs.microsoft.com/office365/troubleshoot/administration/how-to-use-office-365-powershell-to-manage-microsoft-planner-licenses)

@@ -2,9 +2,11 @@
 title: Yammer
 description: Learn how to manage a Yammer network for your organization.
 services: yammer-admin
-ms.author: v-irpast
-author: IrenePasternack
-manager: jhendr
+f1.keywords:
+- NOCSH
+ms.author: v-teflor
+author: TeresaFG-writer
+manager: pamgreen
 layout: LandingPage
 ms.assetid: 
 ms.service: yammer
@@ -351,7 +353,7 @@ Build communities and collaboration in your organization with Yammer.
                         <p><a href="/en-us/Yammer/work-with-external-users/add-external-participants" data-linktype="absolute-path">Add external participants</a></p> 
                         <p><a href="/en-us/Yammer/work-with-external-users/create-and-manage-external-groups" data-linktype="absolute-path">Create and manage external groups</a></p> 
                         <p><a href="/en-us/Yammer/work-with-external-users/find-external-participants" data-linktype="absolute-path">Find external participants</a></p> 
-                        <p><a href="/en-us/Yammer/work-with-external-users/control-external-messaging-with-Exchange" data-linktype="absolute-path">Disable external messaging</a></p> 
+                        <p><a href="/en-us/Yammer/work-with-external-users/disable-external-messaging" data-linktype="absolute-path">Disable external messaging</a></p> 
                         <p><a href="/en-us/Yammer/work-with-external-users/external-messaging-faq" data-linktype="absolute-path">External messaging FAQ</a></p> 
     </div>
         </div>
@@ -373,6 +375,22 @@ Build communities and collaboration in your organization with Yammer.
                         <p><a href="/en-us/Yammer/manage-yammer-groups/create-a-dynamic-group" data-linktype="absolute-path">Create a dynamic group</a></p> 
                         <p><a href="https://support.office.com/en-us/article/201a78fd-67b8-42c3-9247-79e79f92b535" data-linktype="absolute-path">Export group members to a .csv file</a></p> 
                         <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-live-events" data-linktype="absolute-path">Live events in Yammer</a></p> 
+                    </div>
+                </div>
+        </div>
+    </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3>Live events in Yammer</h3>
+                            <p><a href="/en-us/Yammer/manage-yammer-groups/yammer-live-events" data-linktype="absolute-path">Live events overview</a></p>
+   <p><a href="https://support.office.com/en-us/article/43bbd59d-a734-4c8f-923d-6a239d137d34" data-linktype="absolute-path">Live event FAQ</a></p> 
+   <p><a href="https://support.office.com/en-us/article/c0244ad8-6dcb-419c-add9-2e4a00543412" data-linktype="absolute-path">Drive engagement</a></p>    
+    <p><a href="https://support.office.com/en-us/article/105dd7af-9caf-4a5e-8a44-56d203e96551" data-linktype="absolute-path">Organize a live event</a></p>    
+    <p><a href="https://support.office.com/en-us/article/0cedb557-cbe4-40d3-8147-112633f087eb" data-linktype="absolute-path">Get production help</a></p>               
                     </div>
                 </div>
         </div>
@@ -421,9 +439,7 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="cardText">
                     <h3>Troubleshooting</h3>
                     <p><a href="/en-us/Yammer/troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices" data-linktype="absolute-path">Help Android users log in</a></p> 
-                    <p><a href="/en-us/Yammer/troubleshoot-problems/limited-functionality-in-explorer-10-document-modeX" data-linktype="absolute-path">Internet Explorer 10 document mode</a></p> 
-                    <p><a href="/en-us/Yammer/troubleshoot-problems/phasing-out-temporary-mobile-passwords" data-linktype="absolute-path">Phasing out temporary mobile passwords</a></p> 
-                    <p><a href="/en-us/Yammer/troubleshoot-problems/converting-yammer-notes-into-word-online" data-linktype="absolute-path">Convert notes to Word Online</a></p> 
+                    <p><a href="/en-us/Yammer/troubleshoot-problems/limited-functionality-in-explorer-10-document-mode" data-linktype="absolute-path">Internet Explorer 10 document mode</a></p> 
                     <p><a href="https://support.office.com/article/981ecaf7-8a7d-4312-a845-bd343e925073">Can I unsubscribe myself from Yammer?</a></p>
                 </div>
             </div>

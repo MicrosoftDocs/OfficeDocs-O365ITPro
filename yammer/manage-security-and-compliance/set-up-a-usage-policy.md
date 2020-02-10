@@ -1,9 +1,11 @@
 ---
 title: "Set up a Yammer usage policy"
-ms.author: v-irpast
-author: IrenePasternack
+f1.keywords:
+- NOCSH
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
-ms.date: 5/7/2018
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -75,7 +77,7 @@ You can add a custom link to your organization's browser policy. The link will b
     
 2. Specify the URL where your organization's browser policy is defined.
     
-## See also
+## Related articles
 
 [Manage Yammer security settings](yammer-security-settings.md)
   

@@ -1,23 +1,18 @@
 ---
-title: "Office 365 Reports in the Admin Center - Yammer activity report"
+title: "Office 365 Reports in the admin center - Yammer activity report"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365M_ReportsYammerActivity'
-- 'O365E_ReportsYammerActivity'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_UI_Elements
-- Adm_Yammer
-ms.custom:
-- Adm_O365
-- Adm_Yammer
+- Adm_NonTOC
 search.appverid:
 - BCS160
 - MET150
@@ -26,18 +21,19 @@ ms.assetid: c7c9f938-5b8e-4d52-b1a2-c7c32cb2312a
 description: "Get the Yammer Activity report and know more about the number of users using Yammer to post, like, or read a message."
 ---
 
-# Office 365 Reports in the Admin Center - Yammer activity report
+# Office 365 Reports in the admin center - Yammer activity report
 
-As an Office 365 admin, the **Reports** dashboard shows you data on the usage of the Office 365 products within your organization. Check out [Activity Reports in the Microsoft 365 admin center](activity-reports.md). With the **Yammer Activity report**, you can understand the level of engagement of your organization with Yammer by looking at the number of unique users using Yammer to post, like or read a message and the amount of activity generated across the organization. 
+As Microsoft 365 admin, the **Reports** dashboard shows you data on the usage of the products within your organization. Check out [activity reports in the admin center](activity-reports.md). With the **Yammer Activity report**, you can understand the level of engagement of your organization with Yammer by looking at the number of unique users using Yammer to post, like or read a message and the amount of activity generated across the organization. 
   
 > [!NOTE]
-> You must be a global administrator in Office 365 or an Exchange, SharePoint, Skype for Business administrator, or reports reader to see Office 365 reports. 
-  
+> You must be a global administrator, global reader or reports reader in Microsoft 365 or an Exchange, SharePoint, or Skype for Business administrator to see reports. 
+ 
 ## How to get to the Yammer activity report
 
-1. Go to the Microsoft 365 admin center \> **Reports** \> **Usage**. 
+1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page.
+
     
-2. Select the **Yammer Activity** widget on the **Reports** dashboard.<br/> ![Yammer Activity reports widget](../media/3edb83ae-c1bd-4d23-bc8f-930e54c54c15.png)<br/>Or, select **Yammer activity** from the **Select a report** dropdown.<br/>![Select a report menu in the dashboard](../media/8101651b-948f-4c81-a5d8-eb310242cb62.JPG)
+2. From the **Select a report** drop-down, select **Yammer** \> **Activity**.
   
 ## Interpret the Yammer activity report
 
@@ -47,7 +43,7 @@ You can get a view into your user's Yammer activity by looking at the Activity a
   
 The activity report contains the following information.
   
-- Use the day tabs to view the **Yammer activity** report trends over the last 7 days, 30 days, 90 days, or 180 days. However, if you click into a particular day in the report, the table will show data for up to 28 days from the current date (not the date the report was generated). 
+- Use the day tabs to view the **Yammer activity** report trends over the last 7 days, 30 days, 90 days, or 180 days. However, if you select a particular day in the report, the table will show data for up to 28 days from the current date (not the date the report was generated). 
     
 - Each report has a date for when the report was generated. The reports usually reflect a 24 to 48 hour latency from time of activity.
     
@@ -65,7 +61,7 @@ The activity report contains the following information.
     
   - The X axis on both charts is the selected date range for this specific report.
     
-- You can filter the series you see on the chart by clicking on an item in the legend. For example, on the **Activity** chart, click or tap **Posted**, **Read**, or **Liked** to see only the info related to each one. 
+- You can filter the series you see on the chart by selecting an item in the legend. For example, on the **Activity** chart, select **Posted**, **Read**, or **Liked** to see only the info related to each one. 
     
     ![Posted, Read, and Liked options](../media/8b832afc-415c-409b-816f-cb02b7a71e69.png)
   
@@ -79,7 +75,7 @@ The activity report contains the following information.
   
     You can also add and remove columns. The available columns are:
     
-  - **User name** is the email address of the user. You can display the actual email address or make this field anonymous. 
+  - **Username** is the email address of the user. You can display the actual email address or make this field anonymous. 
     
     This grid shows users who logged into Yammer using the Office 365 account or who logged into the network using single sign-on.
     
@@ -99,11 +95,11 @@ The activity report contains the following information.
     
   - **Liked** is the number of messages that the user liked during the time period you specified. 
     
-  - **Product assigned** is the Office 365 products that are assigned to this user. 
+  - **Product assigned** is the products that are assigned to this user. 
     
-    If your organization's policies prevents you from viewing reports where user information is identifiable, you can change the privacy setting for all these reports. Check out the **How do I hide user level details?** section in the [Activity Reports in the Microsoft 365 admin center](activity-reports.md).
+    If your organization's policies prevents you from viewing reports where user information is identifiable, you can change the privacy setting for all these reports. Check out the **How do I hide user level details?** section in [Activity reports in the Microsoft 365 admin center](activity-reports.md).
     
-- You can also export the report data into an Excel .csv file, by clicking or tapping the **Export** ![Office 365 reports](../media/816a224b-6ca7-4967-a135-4f6427f64dc8.JPG) link. This exports data of all users and enables you to do simple sorting and filtering for further analysis. If you have less than 2000 users, you can sort and filter within the table in the report itself. If you have more than 2000 users, in order to filter and sort, you will need to export the data. 
+- You can also export the report data into an Excel .csv file, by selecting the **Export** link. This exports data of all users and enables you to do simple sorting and filtering for further analysis. If you have less than 2000 users, you can sort and filter within the table in the report itself. If you have more than 2000 users, in order to filter and sort, you will need to export the data. 
     
 ## What data is in these reports?
 

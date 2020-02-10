@@ -1,22 +1,19 @@
 ---
 title: "Office 365 Group Expiration Policy"
+ms.reviewer: arvaradh
+f1.keywords:
+- NOCSH
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_O365GroupsAdmin'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_TOC
 search.appverid:
 - BCS160
 - MET150
@@ -32,7 +29,12 @@ When a group expires, all of its associated services (the mailbox, Planner, Shar
 
 When a group expires it is "soft-deleted" which means it can still be recovered for up to 30 days.
 
-Administrators can specify an expiration period and any group that reaches the end of that period, and is not renewed, will be deleted. The expiration period begins when the group is created, or on the date it was last renewed. Group owners will automatically be sent an email before the expiration that allows them to renew the group for another expiration interval.
+Administrators can specify an expiration period and any inactive group that reaches the end of that period, and is not renewed, will be deleted. The expiration period begins when the group is created, or on the date it was last renewed. Group owners will automatically be sent an email before the expiration that allows them to renew the group for another expiration interval. Teams users will see persistent notifications in Teams.
+
+Groups that are actively in use are renewed automatically. Any of the following actions will auto-renew a group:
+- SharePoint - view, edit, download, move, share, or upload files.
+- Outlook - join group, read or write group message from the group, and like a message (Outlook on the web).
+- Teams - visiting a teams channel.
 
 > [!IMPORTANT]
 > When you change the expiration policy, the service recalculates the expiration date for each group. It always starts counting from the date when the group was created, and then applies the new expiration policy.
@@ -40,7 +42,7 @@ Administrators can specify an expiration period and any group that reaches the e
 It's important to know that expiration is turned off by default. Administrators will have to enable it for their tenant if they want to use it.
 
 > [!NOTE]
-> Group expiration is an Azure Active Directory (Azure AD) Premium feature. You must have a subscription to Azure AD Premium in order to have this feature available. The administrator who configures the settings, and the members of the affected groups, need to have Azure AD Premium licenses assigned to them. For more information see [Getting started with Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/active-directory-get-started-premium).
+> Configuring and using the expiration policy for Office 365 groups requires you to possess but not necessarily assign Azure AD Premium licenses for the members of all groups to which the expiration policy is applied. For more information see [Getting started with Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/active-directory-get-started-premium).
 
 ## Who can configure and use the Office 365 Groups expiration policy?
 
@@ -67,13 +69,13 @@ If you have setup retention policy in Security and Compliance center for groups,
 
 ## How and when a Group owner learns if their Groups are going to expire
 
-Group owners will only be notified via email, regardless of how the group was created. That means that even if the group was created via Planner, SharePoint, Teams or any other app, the expiration notifications will always come via email. It's not recommended to enable expiration on a group if your group owner doesn't have a valid email address.
+Group owners will only be notified via email. If the group was created via Planner, SharePoint, or any other app, the expiration notifications will always come via email. If the group was created via Teams, the group owner will receive a notification to renew through the activity section. It's not recommended that you enable expiration on a group if your group owner doesn't have a valid email address.
 
 30 days before the group expires, the group owners (or the email addresses that you specified for groups that don't have an owner) will receive an email allowing them to easily renew the group. If they don't renew it, they'll receive another renewal email 15 days before expiration. If they still haven't renewed it, they will receive one more email notification the day before expiration.
 
-If for some reason none of the owners or admins renew the group before it expires, the Office 365 administrator can still restore the group for up to 30 days after expiration. For details see: [Restore a deleted Office 365 Group](https://support.office.com/article/restore-a-deleted-office-365-group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54).
+If for some reason none of the owners or admins renew the group before it expires, the admin can still restore the group for up to 30 days after expiration. For details see: [Restore a deleted Office 365 Group](https://support.office.com/article/restore-a-deleted-office-365-group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54).
 
-## Related topics
+## Related articles
 
 [Overview of retention policies](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423)
 

@@ -1,9 +1,11 @@
 ---
 title: "Add, block, or remove Yammer users"
-ms.author: v-irpast
-author: IrenePasternack
+f1.keywords:
+- NOCSH
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
-ms.date: 1/7/2019
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -30,10 +32,10 @@ To get to the Yammer admin center to manage users:
 ## Invite users to Yammer
 <a name="InviteUsers"> </a>
 
- Users are not part of the Yammer network until they have clicked the Yammer tile from Office 365 or logged in once to Yammer. Only employees with a company email address can be invited from this screen. 
+If you are enforcing Office 365 identity in your network, all Office 365 users that have a Yammer license are created as pending users in Yammer. If you are not enforcing Office 365 identity, users are not part of the Yammer network until they have clicked the Yammer tile from Office 365 or logged in once to Yammer. 
+
+Only employees with a company email address can be invited from this screen. 
   
-- If you have chosen to enforce Office 365 identity, only users with a Yammer license can join the Yammer network. 
-    
 - If you invite a user to a group who is not licensed to use Yammer, that user will be suspended in Yammer and removed from the group member list. They will not receive announcement emails. 
     
  **Invite users a few at a time**
@@ -58,11 +60,13 @@ To get to the Yammer admin center to manage users:
 <a name="ManagePending"> </a>
 ## Manage pending users
 
-A "pending user" is someone who has been invited to a yammer network but never logged in. Pending users can be added to groups even before they join the Yammer network.
-  
+A "pending user" is someone who has been invited to a yammer network but never logged in. Pending users can be added to groups even before they have used Yammer for the first time.
+
 Pending users receive announcement notification emails from group admins. If users don't want to receive announcements from a particular group they can log into their Yammer account and leave the group or follow the unsubscribe link in the email to unsubscribe from all Yammer emails.
-  
+
 As in all Office products, pending users will be visible in the group member list even if they have never logged in.
+
+As of August 2019, new users added into Yammer will be added into the active user state. In the coming months, existing pending users will be converted into active users.
   
 <a name="InviteGuests"> </a>
 ## Invite guests
@@ -242,7 +246,7 @@ Excel does not encode non-English characters in CSV files correctly. If you have
 > [!TIP]
 > Each user can customize their individual email notification preferences by clicking the three dots in the top navigation bar and going to **Edit Profile** \> **Notifications**. They can also go to **Edit Profile** \> **Preferences** to adjust their own message and time zone settings. 
   
-## See also
+## Related articles
 
 [Manage Yammer users across their lifecycle from Office 365](manage-users-across-their-lifecycle.md)
   

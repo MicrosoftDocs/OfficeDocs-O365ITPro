@@ -1,29 +1,18 @@
 ---
 title: "Activity Reports in the Microsoft 365 admin center"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: overview
-f1_keywords:
-- 'O365P_ReportsUsageOverview'
-- 'O365M_ReportsYammerActivity'
-- 'O365M_ReportsUsageOverview'
-- 'O365E_ReportsYammerActivity'
-- 'O365E_ReportsUsageOverview'
-- 'O365M_ReportsUsageOverview'
-- 'O365P_ReportsUsageOverview'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_UI_Elements
-ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_TOC
 search.appverid:
 - MET150
 - MOE150
@@ -46,45 +35,47 @@ Watch this video for on overview: on how you can use the reports:
 
 ::: moniker range="o365-worldwide"
 
-1. Go to the [![Go to the Microsoft 365 admin center](../media/e00ba917-c3fb-4173-b344-43eb5c7eeb15.png)](https://admin.microsoft.com/AdminPortal/Home#/homepage).
+1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page.
+
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-1. Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">admin center</a>, go to the **Reports** \> **Usage** page.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-1. Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">admin center</a>, go to the **Reports** \> **Usage** page.
 
 ::: moniker-end
 
-2. In the Microsoft 365 admin center, choose **Reports** \> **Usage**.
-    
-3. Choose **Select a report** at the top of the dashboard to select from a list of all available reports. Or, click an at-a-glance activity widget for a service (email, OneDrive, etc) to see more information. <br/>![The Office 365 Usage dashboard](../media/68c222b0-9ec2-4285-9fd6-cb5abef270c5.png)
+   
+2. Select **Select a report** at the top of the dashboard to select from a list of all available reports. Or, select an at-a-glance activity widget for a service (email, OneDrive, etc) to see more information. <br/>![The Office 365 Usage dashboard](../media/usage-report-dashboard.png)
   
-## Who can see Office 365 reports
+## Who can see reports
 
 People who have the following permissions:
   
-- Office 365 global admins: We recommend that only a few people in your company have this role. It reduces the risk to your business.
+- Global admins: We recommend that only a few people in your company have this role. It reduces the risk to your business.
     
 - Exchange admins
     
 - SharePoint admins
     
 - Skype for Business admins
+
+- Global reader
     
 - Reports reader
     
-To learn more, see [About Office 365 admin roles](../add-users/about-admin-roles.md) and [Assign admin roles in Office 365](../add-users/assign-admin-roles.md).
+To learn more, see [About admin roles](../add-users/about-admin-roles.md) and [Assign admin roles](../add-users/assign-admin-roles.md).
   
-## Which activity reports are available in the Microsoft 365 admin center
+## Which activity reports are available in the admin center
 
-Depending on your Office 365 subscription, here are the available reports.
+Depending on your subscription, here are the available reports.
   
 - [Email activity](email-activity.md)
     
@@ -146,27 +137,25 @@ Depending on your Office 365 subscription, here are the available reports.
 
 ## How to view licensing information
 
-- To see how many licenses you have assigned and unassigned, in the Microsoft 365 admin center, go to **Billing** \> **Licenses**.
+- To see how many licenses you have assigned and unassigned, in the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842264" target="_blank">Licenses</a> page.
     
-- To see who is licensed, unlicensed, or guest, go to **Users** \> **Active users**. Use the **Views** drop down box to filter your list.<br/> ![Filter your list of users](../media/e24fd0c8-8906-440c-9614-393eff10b31d.png)
+- To see who is licensed, unlicensed, or guest, in the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page. 
   
 ## How to view usage information for a specific user
 
 Use the service reports to research how much a specific user is using the service. For example, to find out how much mailbox storage a specific user has consumed, open the Mailbox usage report, and sort the users by name. If you have thousands of users, export the report to Excel so you filter through the list quickly.
   
-![Sort your list of users](../media/a107f939-ca81-4d65-8cdf-41641da56508.png)
-  
 You can't generate a report where you enter a user's account and then get a list which services they are using and how much.
   
 ## Hide user details in the reports
 
-If you want to hide user level information when you're generating your reports, you can quickly make that change in the Microsoft 365 admin center.
+If you want to hide user level information when you're generating your reports, you can quickly make that change in the admin center.
   
-1. Go to the Admin center \> **Services &amp; add-ins**. <br/>![Go to Office 365 services and add-ins](../media/70ad5f01-2187-4b0c-a672-b00cebfa5ec3.png)
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2053743" target="_blank">Services &amp; add-ins</a> page.
+
+2. Select **Reports**. 
   
-2. Select **Reports**. <br/>![Hide specific user data in reports](../media/1ff1e88f-030b-4546-a33c-03b1174db710.png)
-  
-3. Set the toggle to **On** and **Save**.<br/>![Turn toggle on to hide user specific data](../media/6db7aa6b-19f7-47f4-9d0c-e1ca9f1036f3.png)
+3. In the **Reports** pane, select the options you want, and then save your changes.
   
 Your user list will look like this:
   
@@ -180,8 +169,8 @@ Whenever you close a user's account, Microsoft will delete that user's usage dat
   
 However, when you select a particular day (see number 3), up to 28 days from the current date, the report show the user's usage for that day in the User Details table (see number 2).
   
-## Related Topics
+## Related articles
 
-[Reports in the Office 365 Security &amp; Compliance Center](https://support.office.com/article/7acd33ce-1ec8-49fb-b625-43bac7b58c5a)
+[Reports in the Security &amp; Compliance Center](https://support.office.com/article/7acd33ce-1ec8-49fb-b625-43bac7b58c5a)
   
 

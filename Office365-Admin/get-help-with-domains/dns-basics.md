@@ -1,26 +1,18 @@
 ---
 title: "DNS basics"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'TADNSbasics'
-- 'O365P_DomainsSetup_WhyNeedDNSRecs'
-- 'O365P_DNSMgrUI_AboutDNS'
-- 'O365M_DomainsSetup_WhyNeedDNSRecs'
-- 'O365E_DomainsSetup_WhyNeedDNSRecs'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: 
 - M365-subscription-management
-- Adm_O365_Domain_Core
-- Adm_UI_Elements
-ms.custom:
-- Adm_O365_FullSet
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_O365
+- Adm_TOC
 search.appverid:
 - MET150
 - MOE150

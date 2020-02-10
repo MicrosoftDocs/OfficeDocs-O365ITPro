@@ -1,1 +1,4 @@
-# Welcome to OfficeDocs-O365MileIQ!
+---
+redirect_url: mileiq-home
+redirect_document_id: TRUE 
+---

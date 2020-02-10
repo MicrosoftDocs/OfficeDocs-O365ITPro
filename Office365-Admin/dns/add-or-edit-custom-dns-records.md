@@ -1,24 +1,19 @@
 ---
 title: "Add or edit custom DNS records in Office 365"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_DomainsMain_CustomDNS'
-- 'O365P_DNSMgr_CustomDNS'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
-- Adm_O365_Domain_Core
+- Adm_O365
+- Adm_NonTOC
 - Adm_O365_Setup
-ms.custom:
-- Adm_O365_FullSet
-- Adm_O365_Setup
-- Core_O365Admin_Migration
-- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -31,22 +26,25 @@ description: "Learn how to edit or add a custom DNS record in Office 365. "
 # Add or edit custom DNS records in Office 365
 
  **[Check the Domains FAQ](../setup/domains-faq.md)** if you don't find what you're looking for. 
-  
-1. Sign in to Office 365 with your work or school account. 
-    
-2. Choose **Setup** \> **Domains**.
-    
-![Click Domains on Office 365 Admin page](../media/57fa88ba-f4e5-477b-9c45-b75978237f3e.png)
+
+1. Sign in to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>.   
+
+2. Go to the **Settings** \> **Domains** page.
 
 3. On the **Domains** page, select a domain. 
     
-4. Under **DNS settings**, choose **Custom Records**, and then choose **New custom record**.
+4. Under **DNS settings**, select **Custom Records**; then select **New custom record**.
 
-![Click Customer records](https://user-images.githubusercontent.com/45987684/56503244-e5111800-64e2-11e9-8db8-1f1d13915b06.PNG)
-5. Choose the type of DNS record you want to add, and type the information for the new record.
+5. Select the type of DNS record you want to add and type the information for the new record.
     
-6. Choose **Save**.
-    
+6. Select **Save**.
 
-  
+## Related articles
+
+[Gather the information you need to create Office 365 DNS records](../get-help-with-domains/information-for-dns-records.md)
+
+[DNS basics](../get-help-with-domains/dns-basics.md)
+
+[Get help with Office 365 domains](../get-help-with-domains/get-help-with-domains.md)
+
 

@@ -1,5 +1,7 @@
 ---
 title: "Change Office 365 for business plans manually"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,9 +12,8 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- MiniMaven
+- commerce
+- Adm_NonTOC
 search.appverid:
 - BCS160
 - MET150
@@ -24,7 +25,7 @@ description: "Change subscriptions manually by buying a new subscription and ens
 # Change plans manually
 
 > [!NOTE]
-> This article applies to the admin center (preview). The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md). To view the article about the old admin center, see [Switch Office 365 for business plans manually](switch-plans-manually.md).
+> This article applies to the new admin center. The new admin center is available to all Microsoft 365 admins, and you can opt in by selecting **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md). To view the article about the old admin center, see [Switch Office 365 for business plans manually](switch-plans-manually.md).
 
 ## Step 1: Decide how to change plans
 
@@ -32,7 +33,7 @@ The best way to change all your users from one plan to another is to [use the Up
 
 - If the **Upgrade** tab indicates you can't upgrade the current plan.
 
-- If, when you choose the **Upgrade** tab, the plan you want isn't listed.
+- If, when you select the **Upgrade** tab, the plan you want isn't listed.
 
 - If you don't want to upgrade all your users in the same way. Some businesses need different users subscribed to different plans. Use a manual change for this.
 
@@ -85,22 +86,20 @@ The licenses for the current subscription will be removed later; you'll only pay
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
-2. On the **Active users** page, choose the user to whom you want to assign a license.
+2. On the **Active users** page, select the user to whom you want to assign a license.
 
-3. In the user pane on the right, choose **Licenses and Apps**.
-
-4. Expand the Licenses section, choose the boxes for the licenses that you want to assign, then choose **Save changes**.
+3. On te **Licenses and Apps** tab, expand **Licenses**, select the boxes for the licenses that you want to assign, then select **Save changes**.
 
 ### Reassign licenses for multiple users at once
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a>
     page.
 
-2. Choose the circles next to the names of the users for whom you want to replace existing licenses.
+2. Select the circles next to the names of the users for whom you want to replace existing licenses.
 
-3. At the top, choose the **More** button (...), then choose **Manage product licenses**.
+3. At the top, select **More options** (**...**), and then choose **Manage product licenses**.
 
-4. Choose **Replace existing product license assignments** \> **Next**.
+4. Select **Replace existing product license assignments** \> **Next**.
 
 5. Switch the toggle to the **On** position for the products you want to assign to these users.
 
@@ -108,7 +107,7 @@ The licenses for the current subscription will be removed later; you'll only pay
     > - To limit which services are available to the user, switch to toggles to the **Off** position for the services that you want to remove for that user. For example, if you want the user to have access to all available services except Skype for Business Online, you can switch the toggle for the Skype for Business Online service to the **Off** position.
     > - Any previous license assignments for the selected users will be removed.
 
-6. At the bottom of the **Replace existing products** pane, choose **Replace** \> **Close**.
+6. At the bottom of the **Replace existing products** pane, select **Replace** \> **Close**.
 
 ## Step 5: Cancel subscriptions or remove licenses that you no longer need (Optional)
 

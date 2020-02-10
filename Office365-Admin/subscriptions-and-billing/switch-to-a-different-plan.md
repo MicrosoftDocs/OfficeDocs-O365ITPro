@@ -1,32 +1,21 @@
 ---
 title: "Switch to a different Office 365 for business plan"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_SwitchPlans'
-- 'O365P_DomainsMgt_ChangeSubscriptionReAddDomain'
-- 'O365M_SwitchPlans'
-- 'O365M_DomainsMgt_ChangeSubscriptionReAddDomain'
-- 'O365E_SwitchPlans'
-- 'O365E_DomainsMgt_ChangeSubscriptionReAddDomain'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_O365_Top
-- Adm_UI_Elements
-- strat_admin_top
+- Adm_TOC
+- commerce
 ms.custom:
-- Adm_O365
-- Adm_O365_Top
-- Core_O365Admin_Migration
-- MiniMaven
 - SaRA
-- strat_admin_top
 search.appverid:
 - BCS160
 - MET150
@@ -45,7 +34,7 @@ The easiest way to switch plans is to use the **Switch plans** button in the adm
 
 ::: moniker range="o365-worldwide"
 > [!NOTE]
-> This article applies to the old admin center. To view the article about the admin center (preview), see [Upgrade to a different plan](upgrade-to-different-plan.md). The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md).
+> This article applies to the old admin center. To view the article about the new admin center, see [Upgrade to a different plan](upgrade-to-different-plan.md). The new admin center is available to all Microsoft 365 admins, and you can opt in by selecting the **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md).
 ::: moniker-end
 
 **Need something else?**
@@ -63,15 +52,15 @@ When you use the **Switch plans** button, you're led through the process of buyi
 
     If you're using Office 365 operated by 21Vianet, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=850626" target="_blank">Subscriptions</a> page.
 
-2. Choose **Switch plans** to view the list of new plans that are available.
+2. Select **Switch plans** to view the list of new plans that are available.
 
     [The Switch plans button isn't there](#the-switch-plans-button-isnt-there) | [I don't see the plan I want](#i-dont-see-the-plan-i-want)
 
-3. Choose a plan to see the new total cost per month. Be sure to read the **key information**, then choose **Next** to check out.
+3. Select a plan to see the new total cost per month. Be sure to read the **key information**, then select **Next** to check out.
 
     [Help me choose a new plan](https://go.microsoft.com/fwlink/p/?linkid=842056).
 
-4. Choose **Chat now** on the **Checkout** page if you need help.
+4. Select **Chat now** on the **Checkout** page if you need help.
 
     When you finish checkout, Office 365 takes a few minutes to finalize the switch. You can start using your new subscription right away.
 

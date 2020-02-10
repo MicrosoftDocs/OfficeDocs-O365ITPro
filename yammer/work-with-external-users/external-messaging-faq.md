@@ -1,9 +1,11 @@
 ---
 title: "External messaging FAQ - Yammer"
-ms.author: v-irpast
-author: IrenePasternack
+f1.keywords:
+- NOCSH
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
-ms.date: 3/15/19
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: reference
 ms.service: yammer
@@ -21,7 +23,7 @@ description: "Find answers to questions about adding external participants to yo
 
 You can include people outside of your Yammer network in your conversations and private messages that are posted in external groups. You add people as external participants, and they can reply to messages and posts in your Yammer network without having to join. 
   
-Find answers to frequently asked questions about external participants in this article. Or see [Add external participants to your Yammer conversations](add-external-participants.md), [Create and manage external groups in Yammer](create-and-manage-external-groups.md), [Find external participants in a Yammer network](find-external-participants.md), and [Disable external messaging in a Yammer network](control-external-messaging-with-exchange.md) for more information about working with external participants. 
+Find answers to frequently asked questions about external participants in this article. Or see [Add external participants to your Yammer conversations](add-external-participants.md), [Create and manage external groups in Yammer](create-and-manage-external-groups.md), [Find external participants in a Yammer network](find-external-participants.md), and [Disable external messaging in a Yammer network](disable-external-messaging.md) for more information about working with external participants. 
  
 >[!NOTE] 
 >External messaging, including exernal networks, external groups, and external participants, is not available for Yammer Enterprise networks in the [EU Geo](../manage-security-and-compliance/data-residency.md).
@@ -88,7 +90,7 @@ A: Privacy and security is really important to us, too. We've spent a long time 
   
 - **Clear UI warnings:** We've built warnings to ensure users are consciously aware before they add an external participant. When you add an external user to a conversation or reply to a conversation with an external participant, you'll see a clear warning in the UI. See [Add an external participant](add-external-participants.md#AddExternal).
     
-- **Exchange Online mail flow rules:** We've created an opt-out option for [verified admins](../manage-yammer-users/manage-yammer-admins.md) to turn off external messaging and external groups by enforcing Exchange Online mail flow rules (also known as Exchange Transport Rules) in Yammer, providing a consistent experience across modes of communication. If your organization is concerned about external sharing, you likely already have mail flow rules defined in Exchange Online. See [Disable messaging in a Yammer network](control-external-messaging-with-exchange.md).
+- **Disable external messaging:** We've created options for [verified admins](../manage-yammer-users/manage-yammer-admins.md) to turn off external collaboration.  See [Disable external messaging](disable-external-messaging.md).
     
 - **Remove users:** You can remove external participants from a conversation. Once removed, a user can't view that conversation anymore. Both network and group admins can remove users from conversations. See [Remove an external participant from a conversation](add-external-participants.md#RemoveExternal).
     
@@ -136,29 +138,8 @@ A: [Verified admins](../manage-yammer-users/manage-yammer-admins.md) can remove 
 
 Yes. Keyword monitoring applies to any posts in your network, including those from external participants.
 
-<a name="OptOut"> </a> 
-## Opt-out questions
-
-> [!NOTE]
-> Only Yammer Enterprise networks can opt out of external messaging. 
   
-### Q: I don't want external messaging and external groups enabled for my network. What options do I have to disable all of external messaging?
-
-As an admin, you can disable external messaging and external groups in your Yammer network. This blocks users from creating external groups in their home network, and blocks users from being invited to and joining groups hosted on other networks. To do this, you create an Exchange Online mail flow rule, and configure Yammer to enforce mail flow rules. For instructions, see [Disable external messaging in a Yammer network](control-external-messaging-with-exchange.md). 
-
-### Q: How do I disable external messaging and external groups in my network but still allow users to join other organization's external groups?
-
-If you want users to be able to join an external networks but not allow external messaging on your network, you need to disable Exchange Transport Rules on the Yammer network, and [contact support](https://docs.microsoft.com/office365/admin/contact-support-for-business-products) to set external messaging to "Enabled-Inbound Only." 
-    
-### Q: What is the user experience if I disable external messaging?
-
-When you opt out of external messaging by using an Exchange Online mail flow rule, messages that begin on your network will not be able to be shared with external participants. Users on your network will still be able to receive messages from other networks; these messages will be available to the user in their Yammer inbox. They will be able to read and respond to these messages as normal. In addition, the full thread they are participating in (including all messages on the thread) will be available in your data export. This enables you to keep track of conversations your employees are having on other networks.
-  
-### Q: Can I use external groups, but not external messaging?
-
-No, if you opt out for external messaging, you can't opt in for external groups. You opt out or in for both external messaging and external groups at the same time. You use the same method to opt out of external participants and external groups. 
-  
-## See also
+## Related articles
 
 [Add external participants to your Yammer conversations](add-external-participants.md)
   
@@ -166,4 +147,4 @@ No, if you opt out for external messaging, you can't opt in for external groups.
   
 [Find external participants in a Yammer network](find-external-participants.md)
   
-[Disable external messaging in a Yammer network](control-external-messaging-with-exchange.md)
+[Disable external messaging in a Yammer network](disable-external-messaging.md)

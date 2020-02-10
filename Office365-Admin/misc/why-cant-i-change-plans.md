@@ -1,5 +1,7 @@
 ---
 title: "Why can't I change Office 365 for business plans?"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -8,12 +10,10 @@ ms.topic: troubleshooting
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
-- M365-subscription-management
+- M365-subscription-management 
 - Adm_O365
-- Adm_UI_Elements
-ms.custom:
-- Adm_O365
-- MiniMaven
+- Adm_NonTOC
+- commerce
 search.appverid:
 - BCS160
 - MET150
@@ -22,6 +22,7 @@ search.appverid:
 - GEA150
 ROBOTS: NOINDEX
 description: "Understand the reasons why sometimes changing plans has to be done manually or by calling support."
+monikerRange: 'o365-worldwide'
 ---
 
 # Why can't I upgrade plans?
@@ -29,7 +30,7 @@ description: "Understand the reasons why sometimes changing plans has to be done
 If you don't see any plans on the **Upgrade** tab, it means your plan can't be upgraded automatically. In some cases, you might be able to resolve the issue so that you can view plans available for upgrade, or you might be able to upgrade or change plans manually, instead.
 
 > [!NOTE]
-> This article applies to the admin center (preview). The preview is available to all Microsoft 365 admins, you can opt in by selecting **Try the preview** toggle located at the top of the Home page. For more information, see [About Microsoft 365 admin center preview](../microsoft-365-admin-center-preview.md). To view the article about the old admin center, see [Why can't I switch Office 365 for business plans?](why-can-t-i-switch-plans.md).
+> This article applies to the new admin center. The new admin center is available to all Microsoft 365 admins, and you can opt in by selecting **Try the new admin center** toggle located at the top of the Home page. For more information, see [About the new Microsoft 365 admin center](../microsoft-365-admin-center-preview.md). To view the article about the old admin center, see [Why can't I switch Office 365 for business plans?](why-can-t-i-switch-plans.md).
 
 ## Why are there no plans listed to upgrade?
 
@@ -91,7 +92,7 @@ If you have an Add-on with your subscription, you might be able to [change plans
 
 ### Your subscription has an unpaid balance
 
-To resolve this, find the subscription on the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page, and choose the **Pay now** link in the **Billing** section. After the payment has been made, check the **Upgrade** tab again.
+To resolve this, find the subscription on the <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page, and select the **Pay now** link in the **Billing** section. After the payment has been made, check the **Upgrade** tab again.
 
 ## Call support to help you change plans
 [Call Microsoft support](../contact-support-for-business-products.md)

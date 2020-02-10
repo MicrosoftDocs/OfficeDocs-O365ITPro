@@ -1,31 +1,19 @@
 ---
 title: "Create DNS records at Dyn.com for Office 365"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_DOM_Nett'
-- 'O365P_DOM_DynCom'
-- 'O365M_DOM_Nett'
-- 'O365M_DOM_DynCom'
-- 'O365E_DOM_Nett'
-- 'O365E_DOM_DynCom'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_O365_Domain_Registrars
+- Adm_NonTOC
 - Adm_O365_Setup
-- Adm_UI_Elements
-ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Adm_O365_Setup
-- Core_O365Admin_Migration
-- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -40,7 +28,7 @@ description: "Learn to verify your domain and set up DNS records for email, Skyp
   
 If Dyn.com is your DNS hosting provider, follow the steps in this article to verify your domain and set up DNS records for email, Skype for Business Online, and so on.
  
-To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5.aspx).
+To learn about webhosting and DNS for websites with Office 365, see [Use a public website with Office 365](https://support.office.com/article/choose-a-public-website-3325d50e-d131-403c-a278-7f3296fe33a9).
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
@@ -52,11 +40,11 @@ To learn about webhosting and DNS for websites with Office 365, see [Use a publi
     
     ![Dyn-BP-Configure-1-1](../media/77597d44-9b04-43b1-8e23-d4fad238def2.png)
   
-2. On the **Zone Level Services** page, choose **Dyn Standard DNS Service** for the domain that you want to edit. 
+2. On the **Zone Level Services** page, select **Dyn Standard DNS Service** for the domain that you want to edit. 
     
-3. On the **DNS** page for your domain, choose **Preferences**.
+3. On the **DNS** page for your domain, select **Preferences**.
     
-4. Choose **Enable Expert Interface**.
+4. Select **Enable Expert Interface**.
     
 5. In the **Add DNS Record** section, in the boxes for the new record, type or copy and paste the values from the following table. 
     
@@ -68,7 +56,7 @@ To learn about webhosting and DNS for websites with Office 365, see [Use a publi
        
    ![Dyn-BP-Verify-1-1](../media/b3730b15-a313-4b4c-b91e-646eebb649e8.png)
   
-6. Choose **Create Record**.
+6. Select **Create Record**.
     
     ![Dyn-BP-Verify-1-2](../media/8b63b4ee-dbd7-44a7-b1e6-c6892b02f13e.png)
   
@@ -78,19 +66,20 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. Choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
+
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
-    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    
   
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
-    ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
+    
   
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
-    ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
+    
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
@@ -102,11 +91,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Dyn-BP-Configure-1-1](../media/77597d44-9b04-43b1-8e23-d4fad238def2.png)
   
-2. On the **Zone Level Services** page, choose **Dyn Standard DNS Service** for the domain that you want to edit. 
+2. On the **Zone Level Services** page, select **Dyn Standard DNS Service** for the domain that you want to edit. 
     
-3. On the DNS page for your domain, choose **Preferences**.
+3. On the DNS page for your domain, select **Preferences**.
     
-4. Choose **Enable Expert Interface**.
+4. Select **Enable Expert Interface**.
     
 5. In the **Add DNS Record** section, in the boxes for the new record, type or copy and paste the values from the following table. 
     
@@ -114,11 +103,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     |**Host**|**TTL**|**Type**|**Data**|
     |:-----|:-----|:-----|:-----|
-    |(Leave this field empty.)  <br/> |600  <br/> |MX  <br/> |10  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> The **10** is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)      <br>    For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
+    |(Leave this field empty.)  <br/> |600  <br/> |MX  <br/> |10  *\<domain-key\>*  .mail.protection.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> The **10** is the MX priority value. Add it to the beginning of the MX value, separated from the remainder of the value by a space.  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 account.           [How do I find this?](../get-help-with-domains/information-for-dns-records.md)      <br>    For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> |
    
     ![Dyn-BP-Configure-2-1](../media/62ac77b7-c84d-426d-9ec4-a28d6479ad04.png)
   
-6. Choose **Create Record**.
+6. Select **Create Record**.
     
     ![Dyn-BP-Configure-2-2](../media/e84e2cca-75e3-4584-8a98-f2f89cb71bd3.png)
   
@@ -126,7 +115,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Dyn-BP-Configure-2-3](../media/f24f02cc-c0b7-42cf-a2ff-4d0fc203e4de.png)
   
-8. Choose **Apply Changes**.
+8. Select **Apply Changes**.
     
     ![Dyn-BP-Configure-2-4](../media/0cc23c2b-b6f2-4f58-af20-4c6506de7b43.png)
   
@@ -137,11 +126,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Dyn-BP-Configure-1-1](../media/77597d44-9b04-43b1-8e23-d4fad238def2.png)
   
-2. On the **Zone Level Services** page, choose **Dyn Standard DNS Service** for the domain that you want to edit. 
+2. On the **Zone Level Services** page, select **Dyn Standard DNS Service** for the domain that you want to edit. 
     
-3. On the **DNS** page for your domain, choose **Preferences**.
+3. On the **DNS** page for your domain, select **Preferences**.
     
-4. Choose **Enable Expert Interface**.
+4. Select **Enable Expert Interface**.
     
 5. Add the first of the six CNAME records.
     
@@ -154,19 +143,18 @@ When Office 365 finds the correct TXT record, your domain is verified.
     |autodiscover  <br/> |600  <br/> |CNAME  <br/> |autodiscover.outlook.com.  <br/> **This value MUST end with a period (.)** <br/> |
     |sip  <br/> |600  <br/> |CNAME  <br/> |sipdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
     |lyncdiscover  <br/> |600  <br/> |CNAME  <br/> |webdir.online.lync.com.  <br/> **This value MUST end with a period (.)** <br/> |
-    |msoid  <br/> |600  <br/> |CNAME  <br/> |clientconfig.microsoftonline-p.net.  <br/> **This value MUST end with a period (.)** <br/> |
     |enterpriseregistration  <br/> |600  <br/> |CNAME  <br/> |enterpriseregistration.windows.net.  <br/> **This value MUST end with a period (.)** <br/> |
     |enterpriseenrollment  <br/> |600  <br/> |CNAME  <br/> |enterpriseenrollment-s.manage.microsoft.com.  <br/> **This value MUST end with a period (.)** <br/> |
    
     ![Dyn-BP-Configure-3-1](../media/1fd80695-d3d7-4298-9ebe-97a69f46f1b2.png)
   
-6. Choose **Create Record**.
+6. Select **Create Record**.
     
     ![Dyn-BP-Configure-3-2](../media/89551495-3fa5-44ab-96b2-855f70be0880.png)
   
 7. Add the remaining five CNAME records.
     
-    In the **Add DNS Record** section, create a record by using the values from the next row in the table, and then again choose **Create Record** to complete that record. 
+    In the **Add DNS Record** section, create a record by using the values from the next row in the table, and then again select **Create Record** to complete that record. 
     
     Repeat this process until you have created all six CNAME records.
     
@@ -180,11 +168,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Dyn-BP-Configure-1-1](../media/77597d44-9b04-43b1-8e23-d4fad238def2.png)
   
-2. On the **Zone Level Services** page, choose **Dyn Standard DNS Service** for the domain that you want to edit. 
+2. On the **Zone Level Services** page, select **Dyn Standard DNS Service** for the domain that you want to edit. 
     
-3. On the **DNS** page for your domain, choose **Preferences**.
+3. On the **DNS** page for your domain, select **Preferences**.
     
-4. Choose **Enable Expert Interface**.
+4. Select **Enable Expert Interface**.
     
 5. In the **Add DNS Record** section, in the boxes for the new record, type or copy and paste the values from the following table. 
     
@@ -196,7 +184,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Dyn-BP-Configure-4-1](../media/f8511349-3ea2-40c3-9853-98e1a58a91b5.png)
   
-6. Choose **Create Record**.
+6. Select **Create Record**.
     
     ![Dyn-BP-Configure-4-2](../media/bbe04835-d3c0-4146-8123-9781bb9eca51.png)
   
@@ -207,11 +195,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Dyn-BP-Configure-1-1](../media/77597d44-9b04-43b1-8e23-d4fad238def2.png)
   
-2. On the **Zone Level Services** page, choose **Dyn Standard DNS Service** for the domain that you want to edit. 
+2. On the **Zone Level Services** page, select **Dyn Standard DNS Service** for the domain that you want to edit. 
     
-3. On the **DNS** page for your domain, choose **Preferences**.
+3. On the **DNS** page for your domain, select **Preferences**.
     
-4. Choose **Enable Expert Interface**.
+4. Select **Enable Expert Interface**.
     
 5. Add the first of the two SRV records.
     
@@ -226,13 +214,13 @@ When Office 365 finds the correct TXT record, your domain is verified.
    
     ![Dyn-BP-Configure-5-1](../media/a6873411-f4ce-4327-9145-02d435930976.png)
   
-6. Choose **Create Record**.
+6. Select **Create Record**.
     
     ![Dyn-BP-Configure-5-2](../media/e6f33452-e527-473b-a645-b31ed70b0d43.png)
   
 7. Add the other SRV record.
     
-    In the **Add DNS Record** section, create a record by using the values from the second row in the table, and then again choose **Create Record** to complete that record. 
+    In the **Add DNS Record** section, create a record by using the values from the second row in the table, and then again select **Create Record** to complete that record. 
     
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 

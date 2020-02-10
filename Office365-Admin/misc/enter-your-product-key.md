@@ -1,19 +1,19 @@
 ---
 title: "Enter your product key for Office 365 Business Premium"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- commerce
+- Adm_NonTOC
 search.appverid:
 - BCS160
 - MET150
@@ -22,7 +22,7 @@ search.appverid:
 ms.assetid: 0199dd39-7c46-4875-af9b-588df3a9afea
 ROBOTS: NOINDEX
 description: "Learn how to redeem an Office 365 Business Premium product key purchased at a retail store." 
-
+ms.custom: okr_SMB
 ---
 
 # Enter your product key for Office 365 Business Premium
@@ -37,9 +37,9 @@ If you purchased Office 365 Business Premium from a retail store, this article h
 
 1. Go to <a href="https://go.microsoft.com/fwlink/p/?LinkId=839911" target="_blank">office.com/setupkey</a>.
 
-2. Enter your product key, then choose **Next**.
+2. Enter your product key, then select **Next**.
 
-3. Enter your name, work email address, business phone number, company name, and country or region, then choose **Next**.
+3. Enter your name, work email address, business phone number, company name, and country or region, then select **Next**.
 
 4. Enter a phone number to receive either a text or call to verify your identity.
 
@@ -48,7 +48,7 @@ If you purchased Office 365 Business Premium from a retail store, this article h
     > [!NOTE]
     > If you want to make sure that your subscription is automatically extended at the end of its term, you can add a credit card or bank account, and then [turn on Recurring billing](../subscriptions-and-billing/renew-your-subscription.md#turn-recurring-billing-off-or-on) for that subscription.
 
-6. When you're finished, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">Admin center</a> to manage your subscription.
+6. When you're finished, go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">Admin center</a> to manage your subscription.
 
 ## Extend the expiration date or add a license to an existing subscription
 

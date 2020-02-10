@@ -1,19 +1,19 @@
 ---
 title: "Sign up for an Office 365 trial subscription"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv
 audience: Admin
-ms.topic: office-365-trial
+ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
-- M365-subscription-management 
+- M365-subscription-management
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_TOC
+- commerce
 search.appverid:
 - BCS160
 - MET150
@@ -27,20 +27,16 @@ You can sign up for a trial Office 365 business subscription for free. You can t
 
 ## Sign up for an Office 365 Business Premium trial subscription
 
-Check out the video below or follow the steps to complete your trial signup.
-  
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2K7fx?autoplay=false]
-  
 1. To sign up for an Office 365 business trial subscription, go to the [Office Products site](https://www.aka.ms/office365signup). 
     
-2. Choose the plan you want to sign up for, such as **Office 365 Business Premium**, scroll down the page, and select **Try for free**.
+2. Select the plan you want to sign up for, such as **Office 365 Business Premium**, scroll down the page, and select **Try free for 1 month**.
     
-3. On the **Welcome...** page, enter your business information.
+3. On the next page, follow the steps to set up your account.
 
-4. On the **Create your user ID** page, choose your username and password and select **Create my account**.
+4. The signup process may take several minutes to complete. Once it's complete, you'll get more details on how to start using your subscription.
 
-5. Enter your phone number, and select **Text me** to get a confirmation code. Enter the code and select **Next**.
+For more information about setting up your account, see [Set up Office 365 for business](../setup/setup.md).
 
-6. The signup process may take several minutes to complete. Once it's complete, select **You're ready to go**.
+## See also
 
-You'll get an email with details on how to start using your Office 365 subscription.
+[Microsoft 365 Business training videos](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

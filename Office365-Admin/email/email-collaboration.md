@@ -1,28 +1,18 @@
 ---
 title: "Email collaboration in Office 365"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: overview
-f1_keywords:
-- 'O365P_SCDistListAdmin'
-- 'O365P_SCCollabO365'
-- 'O365M_SCDistListAdmin'
-- 'O365M_SCCollabO365'
-- 'O365E_SCDistListAdmin'
-- 'O365E_SCCollabO365'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Core_O365Admin_Migration
-- MiniMaven
-- ScenarioChain
+- Adm_TOC
 search.appverid:
 - BCS160
 - MET150
@@ -71,14 +61,14 @@ The following table gives you a quick glance at the various types of groups and 
 |**Supported clients** <br/> | Outlook 2016  <br/>  Outlook 2013 (forward after subscribing)  <br/>  Outlook Web App  <br/>  Outlook 2010 (forward after subscribing)  <br/>  Outlook 2007 (forward after subscribing)  <br/> | Outlook 2016  <br/>  Outlook 2013  <br/>  Outlook Web App  <br/>  Outlook 2010  <br/>  Outlook 2007  <br/> | Outlook 2016  <br/>  Outlook 2013  <br/>  Outlook Web App  <br/>  Outlook 2010  <br/>  Outlook 2007  <br/> | Outlook 2016  <br/>  Outlook 2013  <br/>  Outlook Web App  <br/>  Outlook 2010  <br/>  Outlook 2007  <br/> |
 
   
-## Related topics
+## Related articles
 
-- [Manage distribution groups](https://technet.microsoft.com/en-us/library/bb124513%28v=exchg.150%29.aspx)
+[Manage distribution groups](https://technet.microsoft.com/library/bb124513%28v=exchg.150%29.aspx)
     
-- [Use Office 365 Groups instead of Site Mailboxes](https://support.office.com/article/737d6b1f-67cc-41fe-8db8-f2d09dd1673b.aspx)
+[Use Office 365 Groups instead of Site Mailboxes](https://support.office.com/article/737d6b1f-67cc-41fe-8db8-f2d09dd1673b.aspx)
     
-- [Create shared mailboxes in Office 365](create-a-shared-mailbox.md)
+[Create shared mailboxes in Office 365](create-a-shared-mailbox.md)
     
-- [Public folders in Office 365 and Exchange Online](https://technet.microsoft.com/en-us/library/jj200758%28v=exchg.150%29.aspx)
+[Public folders in Office 365 and Exchange Online](https://technet.microsoft.com/library/jj200758%28v=exchg.150%29.aspx)
     
 

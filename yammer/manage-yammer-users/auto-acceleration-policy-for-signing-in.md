@@ -1,9 +1,11 @@
 ---
 title: "Improve Office 365 sign-in for Yammer with auto-acceleration policy"
-ms.author: v-irpast
-author: IrenePasternack
+f1.keywords:
+- NOCSH
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
-ms.date: 4/15/2019
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -89,7 +91,7 @@ To improve the Office 365 sign-in experience for Yammer, use the Auto-accelerati
 5. Note **ObjectId** of servicePrincipal for Yammer application (Redirect output to a text file for easy search). The AppDisplayName would be "Office 365 Yammer" with AppID of 00000005-00000ff1-ce00-000000000000 
     
     ```powershell
-    Get-AzureADServicePrincipal | fl > output.txt
+    Get-AzureADServicePrincipal -All $true | fl > output.txt
     ```
     ![Command line for redirecting output to a text file](../media/31fee97b-75a2-498e-b404-c925f018615f.jpg)
 
@@ -114,7 +116,7 @@ $PolicyId = New-AzureADPolicy -Definition
 @("{`"HomeRealmDiscoveryPolicy`":{`"AccelerateToFederatedDomain`"
 :true}}") -DisplayName BasicAutoAccelerationPolicyforYammer -Type HomeRealmDiscoveryPolicy
 get-AzureADPolicy
-$yamObjectId = Get-AzureADServicePrincipal | ?{$_.AppDisplayName -eq 'Office 365 Yammer'}
+$yamObjectId = Get-AzureADServicePrincipal -All $true | ?{$_.AppDisplayName -eq 'Office 365 Yammer'}
 Add-AzureADServicePrincipalPolicy -Id $yamObjectId.ObjectId - RefObjectId $PolicyId.Id
 ```
 

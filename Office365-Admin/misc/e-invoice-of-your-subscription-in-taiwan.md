@@ -1,23 +1,19 @@
 ---
 title: "Understand your e-Invoice for Office 365 for business (Taiwan)"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_ EInvoiceHelp'
-- 'O365M_ EInvoiceHelp'
-- 'O365E_ EInvoiceHelp'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- commerce
+- Adm_NonTOC
 search.appverid:
 - MET150
 - MOE150
@@ -44,21 +40,21 @@ Microsoft will replace current computerized invoice with e-Invoice on **Septembe
   
 ## Where can I find my e-Invoice?
 
-You can view, download, and print your e-Invoice the day after your bill is ready, through your Microsoft 365 admin center, together with your monthly bill. [View your bill](../subscriptions-and-billing/view-your-bill-or-invoice.md).
+You can view, download, and print your e-Invoice the day after your bill is ready, through your admin center, together with your monthly bill. [View your bill](../subscriptions-and-billing/view-your-bill-or-invoice.md).
   
 ## How do I update my VAT ID?
 
-You can update your VAT ID at the time of onboarding, or through your Microsoft 365 admin center after you onboard.
+You can update your VAT ID at the time of onboarding, or through your admin center after you onboard.
   
 At the time of account creation, in **Step 1**, Welcome, Let's get to know you, **page 2**, Where will you be using this?, below **Service Recipient Address** information, you can add your 8 digit **VAT ID**. If you do not have a VAT ID, please enter "00000000".
   
-After you have created your account, you may update your VAT ID through your Microsoft 365 admin center by following these steps:
+After you have created your account, you may update your VAT ID through your admin center by following these steps:
   
-1. In the Microsoft 365 admin center, choose **Billing** \> **Subscriptions**.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a> page.
     
-2. Choose a subscription, then choose **More Actions**.
+2. Select a subscription, then select **More Actions**.
     
-3. Choose **Update Service Recipient Address**, and update **TAX ID** information. 
+3. Select **Update Service Recipient Address**, and update **TAX ID** information. 
     
 ## How do I request an e-Invoice paper copy?
 

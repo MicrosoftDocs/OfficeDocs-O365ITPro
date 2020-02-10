@@ -1,22 +1,19 @@
 ---
 title: "Create an Office 365 group in the admin center"
+ms.reviewer: arvaradh
+f1.keywords:
+- CSH
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_O365GroupsAdmin'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Adm_O365_FullSet
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_TOC
 search.appverid:
 - BCS160
 - MET150
@@ -25,117 +22,134 @@ ms.assetid: 74a1ef8b-3844-4d08-9980-9f8f7a36000f
 description: "Learn to create and delete Office 365 groups, add and remove group members, and customize how the group works."
 ---
 
-# Create an Office 365 group in the admin center
+# Create an Office 365 group in the Microsoft 365 admin center
   
 While users can create an Office 365 group from Outlook or other apps, as an admin, you may need to create or delete groups, add or remove members, and customize how they work. The Microsoft 365 admin center is the place to do this. 
 
 > [!TIP]
 > Office 365 connected Yammer groups must be created in Yammer, but can be managed in the Microsoft 365 admin center like other Office 365 groups. To learn more, see [Yammer and Office 365 Groups](https://support.office.com/article/d8c239dc-a48b-47ab-b85e-6b4b8191a869.aspx). 
 
+::: moniker range="o365-worldwide"
+
+> [!NOTE]
+> If you're not using the new Microsoft 365 admin center, you can turn it on by selecting the **Try the new admin center** toggle located at the top of the Home page.
+
+::: moniker-end
+
 ## Create an Office 365 group
 
 ::: moniker range="o365-worldwide"
 
-Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
+1. In the admin center, go to the **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a> page.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=848041), go to the **Groups** > **Groups** page. 
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=850627), go to the **Groups** > **Groups** page. 
 
 ::: moniker-end
 
-1. Choose **Groups** \> **Groups** in the left navigation pane. 
-    
-    ![Office 365 Group in admin center.](../media/ee7e3ca0-c5f9-46c9-b525-6524040d0043.png)
+2. Select **Add a group**.
   
-2. Choose **Add a group**.
+3. On the **Choose a group type** page, select **Office 365**, and select **Next**.
+
+4. On the **Basics** page, type a name for the group, and, optionally, a description. Select **Next**.
     
-    ![Create a new Office 365 Group, a new distribution list, or a new security group](../media/a50b372c-feab-4ac5-90c3-e7fcb1ff649a.png)
+5. On the **Edit settings** page, type a unique email address for the group, choose a privacy option and whether you want to add Microsoft Teams, and then select**Next**.
+    
+6. On the **Owners** choose the name of one or more people who will be designated to manage the group. Anyone who is a group owner will be able to delete email from the Group inbox. Other members won't be able to delete email from the Group inbox. Select **Next**.
+    
+7. After reviewing your settings and making any changes, select **Create group**.
+
+8. Select **Close**.
+    
+## Add members to the group
+
+Once the group has been created, you can add members and configure additional settings.
+
+::: moniker range="o365-worldwide"
   
-3. Under **Type**, choose **Office 365**.
+Users can [add themselves or request approval](https://support.office.com/article/Join-a-group-in-Outlook-2e59e19c-b872-44c8-ae84-0acc4b79c45d), or you can add them now.
 
-4. Type a name for the group.
-    
-5. Type a unique email address for the group.
-    
-6. Click **Select Owner** and then choose the name of the person who will be designated to manage the group. Anyone who is a group owner will be able to delete email from the Group inbox. Other members won't be able to delete email from the Group inbox. 
-    
-7. Click **Add**.
 
-8. Click **Close**.
+1. In the admin center, refresh the page so your new group appears, select **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a>, and then select the name of the group that you want to add members to.
     
-## Configure the group
+2. On the **Members** tab, select **View all and manage members**.
 
-Once the group has been created, you can add members and configure additional settings:
-  
-### Add members to an Office 365 group
+3. Select **Add members**.
+    
+4. Select the users you want to add, and then select **Save**.
+    
+5. Select **Close** three times. 
+    
+The group will appear in Outlook with members assigned to it.
+
+::: moniker-end
+
+::: moniker range="o365-germany"
 
 Users can [add themselves or request approval](https://support.office.com/article/Join-a-group-in-Outlook-2e59e19c-b872-44c8-ae84-0acc4b79c45d), or you can add them now.
 
-1. In the Microsoft 365 admin center, refresh the page so your new Office 365 group appears.
+1. In the admin center, refresh the page so your new group appears, select **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a>, and then select the group that you want to add members to.
+    
+2. Next to **Members**, select **Edit**.
 
-2. Click the group that you want to add members to.
+3. Select **Add members**.
     
-3. Next to **Members**, choose **Edit**.
-
-4. Click **Add members**.
+4. Select the users you want to add, and then select **Save**.
     
-5. Select the users you want to add, and then click **Save**.
+5. Select **Close** three times. 
     
-6. Click **Close** three times. 
-    
-The Office 365 group will appear in Outlook with members assigned to it.
+The group will appear in Outlook with members assigned to it.
   
-### Send copies of conversations to group members' inboxes
+::: moniker-end
+
+::: moniker range="o365-21vianet"
+
+Users can [add themselves or request approval](https://support.office.com/article/Join-a-group-in-Outlook-2e59e19c-b872-44c8-ae84-0acc4b79c45d), or you can add them now.
+
+1. In the admin center, refresh the page so your new group appears, select **Groups** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Groups</a>, and then select the group that you want to add members to.
+    
+2. Next to **Members**, select **Edit**.
+
+3. Select **Add members**.
+    
+4. Select the users you want to add, and then select **Save**.
+    
+5. Select **Close** three times. 
+    
+The group will appear in Outlook with members assigned to it.
   
-When you use the admin center to create a group, by default users  do not get copies of group emails and meeting invitations sent to their inboxes. They'll need to go to the group to see conversations and meetings. You can change this setting in the admin center.
+::: moniker-end
 
-When you turn this setting on, group members will get a copy of group emails and meeting invitations sent to their Outlook Inbox. They can read and delete this copy of the email and not affect anyone else. In the Group inbox, a copy of the email still exists.
 
-Group members can opt out of receiving these emails by choosing to stop following the group in Outlook.
-
-1. In the Microsoft 365 admin center groups list, click the group you want to change, and then click **Edit** next to the group name.
-
-2. Turn **Send copies of group conversations and events to group members' inboxes** to **On** if you want members to receive copies of group messages and calendar items in their own inbox.
-
-3. Select **Save**.
-
-### Let people outside the organization email the group
-
-This option is great if you want to have a company email address such as info@contoso.com.
-  
-1. Refresh your Microsoft 365 admin center page so your new Office 365 group appears.
-    
-2. Select the group you want to change, and then select **Edit** next to the group name. 
-    
-3. Set the **Let people outside the organization email the group** toggle to **On**.
-    
-4. Choose **Save**.
 
 ## Who can delete email from the Group Inbox?
 
 The Group owner can delete any emails from the Group Inbox, regardless of whether they were the initial author.
   
-A member can delete an email conversation from the Group Inbox if they initiated it, and only using Outlook on the web (right-click the email, then click **Delete**). They can't do it from the Outlook app (Outlook 2016).
+A member can delete an email conversation from the Group Inbox if they initiated it, and only using Outlook on the web (right-click the email, then choose **Delete**). They can't do it from the Outlook app (Outlook 2016).
   
 When an email is deleted from the group mailbox, it is not deleted from any of the group members' personal mailboxes.
 
-## Related topics
+## Next step: manage your group
+
+After creating a new group and adding members, you can further configure your group, such as editing the group name or description, changing owners or members, and specifying whether external senders can email the group and whether to send copies of group conversations to members. See [Manage an Office 365 group](manage-groups.md).
+
+## Related articles
+
+[Manage an Office 365 group](manage-groups.md)
 
 [Manage guest access to Office 365 groups](https://support.office.com/article/7c713d74-a144-4eab-92e7-d50df526ff96.aspx)
 
 [Choose the domain to use when creating Office 365 Groups](choose-domain-to-create-groups.md)
 
-[Allow members to send as or send on behalf of an Office 365 Group](allow-members-to-send-as-or-send-on-behalf-of-group.md)
-
 [Upgrade distribution lists to Office 365 Groups](../manage/upgrade-distribution-lists.md)
 
-[Manage Office 365 Groups with PowerShell](https://support.office.com/article/aeb669aa-1770-4537-9de2-a82ac11b0540)

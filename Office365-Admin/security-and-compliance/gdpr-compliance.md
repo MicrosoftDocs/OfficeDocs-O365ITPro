@@ -1,7 +1,9 @@
 ---
 title: "GDPR simplified A guide for your small business"
-ms.author: supotter
-author: supotter
+f1.keywords:
+- NOCSH
+ms.author: pebaum
+author: pebaum
 manager: scotv
 audience: Admin
 ms.topic: overview
@@ -10,10 +12,7 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_TOC
 search.appverid:
 - BCS160
 - MET150
@@ -143,7 +142,7 @@ Customers, employees, and clients are becoming more aware of the importance of d
 
 To get ready for the GDPR, here are some suggestions for next steps to take:
   
-- Evaluate your organization's readiness for the GDPR with the [Microsoft GDPR Assessment Tool](https://assessment.microsoft.com/gdpr-compliance).
+- Evaluate your GDPR program with [Accountability Readiness Checklists](https://docs.microsoft.com/microsoft-365/compliance/gdpr-arc).
     
 - Investigate [Microsoft 365 Business](https://www.microsoft.com/microsoft-365/business) as a solution for achieving and maintaining compliance with GDPR. 
    
@@ -153,7 +152,7 @@ To get ready for the GDPR, here are some suggestions for next steps to take:
   
 ## Additional resources
 
-[Microsoft Trust Center overview of the GDPR](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx)
+[Microsoft Trust Center overview of the GDPR](https://www.microsoft.com/TrustCenter/Privacy/gdpr/default.aspx)
   
 The Official Microsoft Blog: [Microsoft commitment to GDPR](https://blogs.microsoft.com/on-the-issues/2018/05/21/microsofts-commitment-to-gdpr-privacy-and-putting-customers-in-control-of-their-own-data/)
   

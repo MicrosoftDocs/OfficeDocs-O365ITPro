@@ -1,5 +1,7 @@
 ---
 title: "Office 365 admin overview"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,14 +12,7 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_O365_Top
-- strat_admin_top
-ms.custom:
-- Adm_O365
-- Adm_O365_Top
-- Core_O365Admin_Migration
-- MiniMaven
-- strat_admin_top
+- Adm_TOC
 search.appverid:
 - BCS160
 - MET150
@@ -29,25 +24,25 @@ description: "Learn about the Microsoft 365 admin center: how to sign in, who yo
 # Office 365 admin overview 
 
   
-When you [buy an Office 365 business plan](https://go.microsoft.com/fwlink/?linkid=856886), we give you a special account that has admin permissions. This account is called an admin account.
+When you buy an [Office 365 business plan](https://go.microsoft.com/fwlink/?linkid=856886) or a [Microsoft 365 for business plan](https://www.microsoft.com/microsoft-365/business), we give you a special account that has admin permissions. This account is called an admin account.
   
-With this account you can access the admin center to manage your business: add users, manage your subscription, reset passwords, and more. Try it!
+With this account you can access the Microsoft 365 admin center to manage your business: add users, manage your subscription, reset passwords, and more. Try it!
   
 ::: moniker range="o365-worldwide"
 
- **Sign in with your admin account at [https://aka.ms/admincenter](https://aka.ms/admincenter).**
+ **Sign in with your admin account at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>.**
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Sign in with your admin account at [https://portal.office.de/adminportal/home#/homepage](https://portal.office.de/adminportal/home#/homepage).
+**Sign in with your admin account to Office 365 Germany at <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">https://portal.office.de</a>.**
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-[Sign in to Office 365 operated by 21Vianet](https://login.partner.microsoftonline.cn).
+**Sign in with your admin account to Office 365 operated by 21Vianet at <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">https://portal.partner.microsoftonline.cn</a>.**
 
 ::: moniker-end
 
@@ -69,5 +64,3 @@ When looking for your admin to reset your password, delete an account, or do oth
 By default, the person who signs up for and buys an Office 365 for business subscription gets admin permissions. That person can assign admin permissions to other people to help them manage Office 365 for their organization.
   
 If you have no idea who to contact at your work or school for help, try asking the person who gave you your user account and password.
-  
-

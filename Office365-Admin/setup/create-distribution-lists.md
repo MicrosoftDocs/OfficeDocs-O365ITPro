@@ -1,5 +1,7 @@
 ---
-title: "Create distribution lists in the Microsoft 365 admin center"
+title: "Create distribution groups in the Microsoft 365 admin center"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv
@@ -10,70 +12,59 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_TOC
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: b1ffe755-59e5-4369-826d-825f145a8400
-description: "Send email to a group of people without having to type each individual recipient's name by creating distribution list (group).   "
+description: "Send email to a group of people without having to type each individual recipient's name by creating distribution (list)."
 ---
 
-# Create distribution lists in the Microsoft 365 admin center
-
- *Last updated 28 February, 2018* 
+# Create distribution groups in the Microsoft 365 admin center
   
-Used when you want to send email to group of people without having to type each individual recipient's name, distribution lists are organized by a particular discussion subject (such as "Marketing") or by users who share common work that requires them to communicate frequently. They also provide a way for you to automatically forward email to multiple email addresses.
+Used when you want to send email to group of people without having to type each individual recipient's name, distribution groups are organized by a particular discussion subject (such as "Marketing") or by users who share common work that requires them to communicate frequently. They also provide a way for you to automatically forward email to multiple email addresses.
   
-Distribution lists are sometimes called distribution groups.
+Distribution groups are sometimes called distribution lists.
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/e8747233-4f1c-4bf4-81cf-2a4ea9ccd80d?autoplay=false]
   
-## Create a distribution list (group)
+## Create a distribution group (list)
 
 ::: moniker range="o365-worldwide"
 
-Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home#/homepage).
+Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a>.
 
 ::: moniker-end
 
 ::: moniker range="o365-germany"
 
-Go to the [Office 365 admin center](https://portal.office.de/adminportal/home).
+Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=848041" target="_blank">https://portal.office.de/adminportal</a>.
 
 ::: moniker-end
 
 ::: moniker range="o365-21vianet"
 
-Go to the [Office 365 admin center](https://login.partner.microsoftonline.cn).
+Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=850627" target="_blank">https://portal.partner.microsoftonline.cn/adminportal</a>.
 
 ::: moniker-end
 
-1. Select the app launcher icon  and choose **Admin**.
+1. Select the app launcher icon and choose **Admin**.
     
     Can't find the app you're looking for? From the app launcher, select **All apps** to see an alphabetical list of the Office 365 apps available to you. From there, you can search for a specific app. 
     
-2. Choose **Groups** in the left navigation pane. 
-    
-    ![See your new Office 365 groups in the admin center preview](../media/d434fa62-aff7-4d56-a0c2-2a49b95467a6.png)
+2. Select **Groups** \> **Groups** in the left navigation pane, and then select **Add a group**. 
+      
+3. On the **Choose a group type** field, choose **Distribution**, and then choose **Next**.
   
-3. Under **Type** of group, select the dropdown and choose **Distribution list**.
+4. Enter a name, description, and email alias for your new group, and choose whether you want people outside your organization to send email to the group. 
     
-    ![Add a group page - Choose the dropdown and choose distribution list](../media/fb663b0a-b6f2-4487-8bdd-0777ed50b735.png)
+5. Press **Add** to create a group, and then review your group and choose **Close**. 
+    
+6. To add users to your distribution group, see [Add a user or contact to an Office 365 distribution group](../email/add-user-or-contact-to-distribution-list.md).
+    
+Check out how to use group in Outlook 2016 and Outlook on the web in the [Use contact groups (formerly distribution lists) in Outlook](https://support.office.com/article/1c97fcb2-0ed4-41e6-b401-58f9d7d40e39.aspx) topic. 
   
-4. Enter a name and add a description for your new distribution list.
-    
-    You can choose whether you want people outside your organization to send email to the distribution list.
-    
-5. When you're ready, click or tap **Add** to create the distribution list, and **Close** to view your distribution list. 
-    
-6. To add users to your distribution list, see [Add a user or contact to an Office 365 distribution list](../email/add-user-or-contact-to-distribution-list.md).
-    
-Check out how to use distribution lists in Outlook 2016 and Outlook on the web in the [Use contact groups (formerly distribution lists) in Outlook](https://support.office.com/article/1c97fcb2-0ed4-41e6-b401-58f9d7d40e39.aspx) topic. 
-  
-Check out [Troubleshooting distribution list issues](../troubleshoot-issues-for-admins/distribution-list-issues.md) for help with distribution list issues. 
+Check out [Distribution group issues](https://docs.microsoft.com/office365/troubleshoot/groups/distribution-list-issues) for help with distribution group issues. 
   
 

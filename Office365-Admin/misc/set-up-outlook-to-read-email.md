@@ -1,14 +1,12 @@
 ---
 title: "Set up Outlook to read email"
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_GSWOutlookSetup'
-- 'O365M_GSWOutlookSetup'
-- 'O365E_GSWOutlookSetup'
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom:
@@ -39,7 +37,7 @@ Read [full article](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c
   
 ## How do I install the Office apps, including Outlook?
 
-1. Go to [portal.office.com/OLS/MySoftware](https://portal.office.com/OLS/MySoftware.aspx).
+1. Go to [admin.microsoft.com/OLS/MySoftware](https://admin.microsoft.com/OLS/MySoftware.aspx).
     
 2. Sign in with your work or school account.
     
@@ -49,17 +47,17 @@ Read [full article](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c
 
 The first time you open Outlook app, Set up my Inbox wizard opens. In the wizard: 
   
-1. On the **Set up my Inbox** page, choose **Add Account**.
+1. On the **Set up my Inbox** page, select **Add Account**.
     
-2. On the **Accounts** page, choose **Exchange or Office 365**.
+2. On the **Accounts** page, select **Exchange or Office 365**.
     
-3. On the **Enter your Exchange account information** page, enter your name, email address, and password, and then choose **Add Account**.
+3. On the **Enter your Exchange account information** page, enter your name, email address, and password, and then select **Add Account**.
     
 Read [full article](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx#PickTab=Outlook_for_Mac). 
   
 ## How do I access my mail online?
 
-After you sign in to Office 365, click **Outlook**.
+After you sign in to Office 365, select **Outlook**.
   
 ![The Office 365 home page with the Outlook app highlighted](../media/3ceee838-9d85-4af3-95a6-fbcee11036f4.png)
   
@@ -71,12 +69,6 @@ Office 365 Business Premium and Office 365 Business include Office apps. For det
   
 ## How do I determine what subscription I have?
 
-In the admin center, choose **Billing** \> **Subscriptions**. 
-  
-Your subscription name is displayed on the page.
-  
-![Go to Billling to view your subscriptions](../media/871a31e7-98bf-406e-9098-1a2da6a7cab0.gif)
-  
-Read [full article](../admin-overview/what-subscription-do-i-have.md).
+To determine your subscription, see [What subscription do I have?](../admin-overview/what-subscription-do-i-have.md)
   
 

@@ -1,23 +1,19 @@
 ---
 title: "Create DNS records at any DNS hosting provider for Office 365"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_DOM_Gen'
-- 'O365M_DOM_Gen'
-- 'O365E_DOM_Gen'
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: 
 - M365-subscription-management
-- Adm_O365_Top
-- strat_admin_top
-ms.custom:
+- Adm_O365
+- Adm_TOC
 - Adm_O365_Setup
-- Adm_O365_Top
 search.appverid:
 - BCS160
 - MET150
@@ -26,6 +22,7 @@ search.appverid:
 - GEA150
 ms.assetid: 7b7b075d-79f9-4e37-8a9e-fb60c1d95166
 description: "Learn to verify your domain and create DNS records at any DNS hosting provider for Office 365."
+ms.custom: okr_smb
 ---
 
 # Create DNS records at any DNS hosting provider for Office 365
@@ -69,11 +66,10 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
   - **If you create a TXT record, use these values:**
     
-||||
+|||||
 |:-----|:-----|:-----|:-----|
 |**Record Type**|**Alias** or **Host Name**|**Value**|**TTL**|
-|TXT|Do one of the following: Type **@** or leave the field empty or type your domain name.  <br/> 
-**Note:**Different DNS hosts have different requirements for this field. |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.  <br/>        [How do I find this?](../get-help-with-domains/information-for-dns-records.md)     <br/>     |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  |
+|TXT|Do one of the following: Type **@** or leave the field empty or type your domain name.  <br/> **Note:** Different DNS hosts have different requirements for this field. |MS=ms *XXXXXXXX*  <br/> **Note:** This is an example. Use your specific **Destination or Points to Address** value here, from the table in Office 365.  <br/>        [How do I find this?](../get-help-with-domains/information-for-dns-records.md)     <br/>     |Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc.  |
    
   - **If you create an MX record, use these values:**
     
@@ -88,19 +84,13 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. Choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the domain that you are verifying. 
-    
-    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+2. On the **Domains** page, select the domain that you are verifying. 
   
-3. On the **Setup** page, choose **Start setup**.
-    
-    ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
-  
-4. On the **Verify domain** page, choose **Verify**.
-    
-    ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
+3. On the **Setup** page, select **Start setup**.
+       
+4. On the **Verify domain** page, select **Verify**.   
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
@@ -133,7 +123,7 @@ The MX record you'll add includes a value (the **Points to address** value) that
 
 ::: moniker-end
 
-1. On your DNS host's website, click to add a new MX record.
+1. On your DNS host's website, add a new MX record.
     
     Now you'll [get the information for the MX record](../get-help-with-domains/information-for-dns-records.md) from Office 365. 
     
@@ -269,14 +259,14 @@ On your DNS host's website, you'll create three new CNAME records, typically one
 On your DNS host's website, edit the existing SPF record or create a new TXT record for SPF.
   
 > [!IMPORTANT]
-> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/en-us/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/en-us/library/mt734386%28v=exchg.150%29.aspx). 
+> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/library/mt734386%28v=exchg.150%29.aspx). 
   
 1. In the boxes for the new record, type or copy and paste the set of values below that apply to your situation.
     
 |||||
 |:-----|:-----|:-----|:-----|
 |**Record Type** <br/> |**Host** <br/> |**TXT Value** <br/> |**TTL** <br/> |
-|TXT (Text)  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> > [!NOTE]> We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1 hour  <br/> |
+|TXT (Text)  <br/> |@  <br/> |v=spf1 include:spf.protection.outlook.com -all  <br/> **Note:** We recommend copying and pasting this entry, so that all of the spacing stays correct.           |1 hour  <br/> |
    
    For **TTL**: Set this value to **1 hour** or to the equivalent in minutes ( **60** ), seconds ( **3600** ), etc. 
     
@@ -294,7 +284,7 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
 On your DNS host's website, edit the existing SPF record or create a new TXT record for SPF.
   
 > [!IMPORTANT]
-> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/en-us/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/en-us/library/mt734386%28v=exchg.150%29.aspx). 
+> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/library/mt734386%28v=exchg.150%29.aspx). 
   
 1. In the boxes for the new record, type or copy and paste the set of values below that apply to your situation.
     
@@ -319,7 +309,7 @@ On your DNS host's website, edit the existing SPF record or create a new TXT rec
 On your DNS host's website, edit the existing SPF record or create a new TXT record for SPF.
   
 > [!IMPORTANT]
-> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/en-us/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/en-us/library/mt734386%28v=exchg.150%29.aspx). 
+> SPF is designed to help prevent spoofing, but there are spoofing techniques that SPF cannot protect against. To protect against these, once you have set up SPF, you should also configure DKIM and DMARC for Office 365. To get started, see [Use DKIM to validate outbound email sent from your domain in Office 365](https://technet.microsoft.com/library/mt695945%28v=exchg.150%29.aspx). Next, see [Use DMARC to validate email in Office 365](https://technet.microsoft.com/library/mt734386%28v=exchg.150%29.aspx). 
   
 1. In the boxes for the new record, type or copy and paste the set of values below that apply to your situation.
     
@@ -436,7 +426,7 @@ On your DNS host's website, you'll create two new SRV records, typically one at 
 
  **If you know how to update DNS records at your domain's DNS host**, use the Office 365 DNS values to edit records at your domain's DNS host, for example, to set up an MX record or SPF record. Find the specific values to use by [following these steps](../get-help-with-domains/information-for-dns-records.md), or view them in the domains setup wizard as you step through it.
   
- **If you need some help figuring out how to add the required DNS records** and your DNS host isn't listed in [Create DNS records for Office 365](https://support.office.com/article/b0f3fdca-8a80-4e8e-9ef3-61e8a2a9ab23.aspx), first [gather the information you need to create Office 365 DNS records](../get-help-with-domains/information-for-dns-records.md). Then use the general steps in this topic to set up your domain's DNS records so you can use your domain with Office 365 services, like email.
+ **If you need some help figuring out how to add the required DNS records** see [Set up your domain (host-specific instructions](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide), first [gather the information you need to create Office 365 DNS records](../get-help-with-domains/information-for-dns-records.md). Then use the general steps in this topic to set up your domain's DNS records so you can use your domain with Office 365 services, like email.
   
  **If you don't have a website that you use with your custom domain**, you can have Office 365 set up and manage DNS records for your domain instead of doing all the setup yourself. Learn about the [two options for setting up and managing DNS records for a custom domain](https://support.office.com/article/5980474a-097f-4f21-a864-21245314957f.aspx) in Office 365. 
   

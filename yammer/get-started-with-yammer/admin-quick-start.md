@@ -1,13 +1,13 @@
 ---
 title: "Yammer admin quick start"
-ms.author: v-irpast
-author: IrenePasternack
+f1.keywords:
+- NOCSH
+ms.author: v-teflor
+author: TeresaFG-writer
 manager: pamgreen
-ms.date: 3/23/2018
+ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365E_YammerActivation_FL279020'
 ms.service: yammer
 localization_priority: Normal
 ms.custom: Adm_Yammer
@@ -43,7 +43,7 @@ Get an overview of key concepts and first steps to setting up your Yammer networ
   
 For links to everything you need to administer your network, see [Yammer admin help](../yammer-landing-page.md).
   
-## See also
+## Related articles
 
 [Compare options for a free trial of Yammer](compare-options-for-a-free-trial.md)
 

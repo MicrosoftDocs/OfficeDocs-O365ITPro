@@ -1,33 +1,28 @@
 ---
 title: "View your bill or invoice"
+f1.keywords:
+- NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'O365P_GSWViewBill'
-- 'O365M_GSWViewBill'
-- 'O365E_GSWViewBill'
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_O365_Top
-- strat_admin_top
+- Adm_TOC
+- commerce
 ms.custom:
-- Adm_O365
-- Adm_O365_Top
-- Core_O365Admin_Migration
-- MiniMaven
-- strat_admin_top
 - TopSMBIssues
-search.appverid:
+- okr_SMB
 - BCS160
 - MET150
 - MOE150
 - BEA160
+- TRN_M365B
+- OKR_SMB_Videos
 ms.assetid: 2ae3ea58-4fce-4592-91d6-46e9ae3ec218
 description: "Find your invoice or billing statement in the Microsoft 365 admin center. You can also save and print a copy of your bill."
 ---
@@ -42,18 +37,23 @@ If you need help interpreting the charges you see on your bill, see [Understand 
  **Not an admin?** Contact your IT administrator for help. 
   
  **Have a problem with your bill?** [Contact support for business products](../contact-support-for-business-products.md).
+
+ Watch a short video about viewing your bill or invoice (note that your invoice may appear different from the one in the video). <br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FGmo] 
+
+If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
   
 ## View a bill or invoice
 
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=848039" target="_blank">Bills</a> page.
 
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=848040" target="_blank">Bills</a> page.
+1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=848039" target="_blank">Bills & payments</a> page.
 
-2. Pick a date range from the drop down, then choose **View**.
-  
-3. Find the order you want to view, and then choose **View Details**.
+    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=848040" target="_blank">Bills & payments</a> page.
 
-4. On the **Bill Details** page, you can see the following:
+2. Select a date range from the drop-down list, and then choose the order you want to view.
+
+3. On the summary page, you can see the following:
 
   - The total balance, the current amount due, the payment due date, the amount of the last payment, and the date it was received.
 
@@ -63,23 +63,10 @@ If you need help interpreting the charges you see on your bill, see [Understand 
 
   - The order creation date, and the order number.
 
-5. To view the invoice for a specific month, in the **Invoice** section, choose a month and a year, then choose **Show**.
+4. To print or save a PDF copy of the invoice, select **Download PDF**.
 
-6. To print or save a PDF copy of the invoice, choose **View invoice (.pdf)**.
-
-## Stop receiving a copy of my billing statement in email
-
-By default, you will receive a copy of your billing statement as an email attachment. You can choose to stop receiving a copy by email.
   
-1. In the admin center, go to the **Billing** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=853212" target="_blank">Billing notifications</a> page.
-
-    If you're using Office 365 Germany, go to this <a href="https://go.microsoft.com/fwlink/p/?linkid=853213" target="_blank">Billing notifications</a> page.
-
-2. Under **Receive billing statement as email attachment?**, switch the toggle to **Off**.
-
-    You can resume receiving the billing statement emails at any time by switching the toggle to **On**.
-  
-## Related topics
+## Related articles
 
 [Pay by invoice, credit card, or bank account](pay-for-your-subscription.md)
   

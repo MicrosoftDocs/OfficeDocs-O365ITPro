@@ -1,5 +1,7 @@
 ---
 title: "Learn about Office 365 Germany"
+f1.keywords:
+- NOCSH
 ms.author: loreenl
 author: LoreenLa
 manager: pamgreen
@@ -10,10 +12,7 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
 - Adm_O365
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_TOC
 search.appverid:
 - MET150
 - MOE150
@@ -22,21 +21,25 @@ ms.assetid: 8a5a4bbc-667a-4cac-8769-d8ac9015db4c
 description: "Learn about Office 365 Germany."
 ---
 
+> [!NOTE]
+> Office 365 Germany is no longer accepting new customers or deploying new services. The new cloud regions in Germany, available in the first quarter of 2020 for Microsoft 365 and Office 365, will provide both core customer data residency within Germany, as well as full connectivity to the Microsoft global cloud network. 
+>
+
 # Learn about Office 365 Germany
 
-Office 365 Germany is a differentiated option to the Office 365 services already available across Europe. It helps address the needs of the most regulated customers in Germany, the European Union (EU), and the European Free Trade Association (EFTA) by delivering our industry-leading productivity services for digital work, from German datacenters, with data residency in Germany, and strict data access and control measures via a unique data trustee model governed under German law.
+Office 365 Germany was a differentiated option to the Office 365 services available across Europe. It helped to address the needs of the most regulated customers in Germany, the European Union (EU), and the European Free Trade Association (EFTA) by delivering our industry-leading productivity services for digital work, from German datacenters, with data residency in Germany, and strict data access and control measures via a unique data trustee model governed by German law.
   
 The data trustee, T-Systems International, an independent German company and subsidiary of Deutsche Telekom, controls physical and logical access to customer data. Customer data cannot be accessed without approval from or supervision by the data trustee, which is governed by German law.
   
-Learn more about how [Office 365 Germany is designed to meet compliance and regulatory needs](https://go.microsoft.com/fwlink/p/?linkid=839016).
+Customers needs have shifted, and the isolation of Office 365 Germany imposed limits on its ability to address the flexibility and consistency that customers desire. Since August 2018, we are no longer accepting new customers or deploying any new services from the currently available Microsoft Cloud Germany. For further details, see this blog post: [Microsoft to deliver cloud services from new datacentres in Germany in 2019 to meet evolving customer needs](https://go.microsoft.com/fwlink/p/?linkid=839016).
   
 ## What Microsoft online services are available in Office 365 Germany?
 
-Office 365 Germany plan offerings are aligned with global offers as much as possible. Exclusions include Yammer-related plans, plans that are nearing their end-of-life, and plans available by way of non-profit programs. Office 365 E5, SPE, and other services will be available after general availability of Office 365 Germany. 
+Office 365 Germany plan offerings are aligned with global offers as much as possible in this isolated environment. Exclusions include Yammer-related plans, plans that are nearing their end-of-life, and plans available by way of non-profit programs. Office 365 E5, SPE, and other services will be available after general availability of Office 365 Germany. 
   
 The following services and features are available in some [Office 365 Germany subscription plans](https://go.microsoft.com/fwlink/p/?linkid=839016). Additionally, see the [Online Services Terms](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=46).
   
-- Office 365 ProPlus, Office 2016, and Office 2013<sup>1</sup>. Note that Office 2013 requires [using Office 365 modern authentication with Office clients](https://docs.microsoft.com/en-us/office365/enterprise/modern-auth-for-office-2013-and-2016).
+- Office 365 ProPlus, Office 2016, and Office 2013<sup>1</sup>. Note that Office 2013 requires [using Office 365 modern authentication with Office clients](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016).
     
 - Exchange Online
     
@@ -48,13 +51,13 @@ The following services and features are available in some [Office 365 Germany su
     
 - Exchange Online Protection
     
-- Office Online
+- Office apps for the web
     
 - Office 365 Video
     
-- Project Online
+- Project for the web
     
-- Visio Online
+- Visio for the web
     
 - Groups
     
@@ -84,11 +87,11 @@ The following services and features are available in some [Office 365 Germany su
 |-----|-----|
 |Sign in portal  <br/> |[https://portal.office.de](https://portal.office.de)  <br/> |
 |Subscriptions, billing, and technical support  <br/> |Germany-based support available in German and English For details, see [Contact support for business products - Admin Help](../contact-support-for-business-products.md).  <br/> |
-|IP Addresses and URLs  <br/> |See [Office 365 Germany endpoints](https://docs.microsoft.com/en-us/office365/enterprise/office-365-germany-endpoints).  <br/> |
+|IP Addresses and URLs  <br/> |See [Office 365 Germany endpoints](https://docs.microsoft.com/office365/enterprise/office-365-germany-endpoints).  <br/> |
 |Yammer  <br/> |Not available.  <br/> |
 |Versions of Office older than Office 2013 or Office 365 ProPlus<sup>1</sup> <br/> |Not supported.  <br/> |
 |Office Lens  <br/> |Not available.  <br/> |
 |Ability to buy a domain from within Office 365  <br/> |Not available.  <br/> |
 |SharePoint Store  <br/> |Each app that is available in a Microsoft app store is provided by either Microsoft or a third-party app publisher and is subject to a separate privacy statement and terms and conditions. Data provided through the use of a Microsoft app store and any app may be accessible to Microsoft or the third-party app publisher, as applicable, and transferred to, stored, and processed in the United States or any other country where Microsoft or the app publisher and their affiliates or service providers maintain facilities. Please work with the app publisher to make sure it meets requirements for your Office 365 Germany deployment.  <br/> |
    
-For a more detailed look at services available for each Office 365 plan, see the [Office 365 Service Description](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
+For a more detailed look at services available for each Office 365 plan, see the [Office 365 Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).

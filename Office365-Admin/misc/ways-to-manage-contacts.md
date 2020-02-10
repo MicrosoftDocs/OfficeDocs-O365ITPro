@@ -1,34 +1,25 @@
 ---
 title: "Quick help Ways to manage contacts"
+f1.keywords:
+- NOCSH
 ms.author: kwekua
 author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: reference
-f1_keywords:
-- 'O365P_SCContactsAdmin'
-- 'O365P_ESContactsCollabScenarios'
-- 'O365M_SCContactsAdmin'
-- 'O365M_ESContactsCollabScenarios'
-- 'O365E_SCContactsAdmin'
-- 'O365E_ESContactsCollabScenarios'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
- - Adm_UI_Elements
-ms.custom:
-- Core_O365Admin_Migration
-- EmptyState
-- MiniMaven
-- ScenarioChain
+- Adm_O365
+- Adm_NonTOC
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 32639d73-981f-48c2-951c-62ab12b7b48c
 ROBOTS: NOINDEX
-description: "Learn how to manage your contacts in the Microsoft 365 admin center."
+description: "Learn how to manage your contacts in the admin center."
 ---
 
 # Quick help: Ways to manage contacts

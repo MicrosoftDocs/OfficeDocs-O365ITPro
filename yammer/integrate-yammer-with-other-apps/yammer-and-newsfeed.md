@@ -1,15 +1,12 @@
 ---
 title: "SharePoint enterprise social experience - Yammer and Newsfeed"
-ms.author: v-irpast
-author: IrenePasternack
-manager: laurapamgreenwi
+f1.keywords:
+- NOCSH
+ms.author: v-teflor
+author: TeresaFG-writer
+manager: pamgreen
 ms.date: 3/22/2018
 audience: Admin
-ms.topic: article
-f1_keywords:
-- 'spoe_YammerSwitch'
-- 'O365E_YammerSwitch'
-- 'O365E_YammerOn            '
 ms.service: yammer
 localization_priority: Normal
 ms.custom: Adm_Yammer
@@ -39,8 +36,10 @@ You can turn Yammer off or on for conversations in SharePoint by using the Share
 3. In the left pane, choose **Admin centers** \> **SharePoint**.
     
 4. Choose **Settings** on the left nav. 
+
+5. Choose **Classic settings page**.
     
-5. Under **Enterprise Social Collaboration**, select **Use Yammer.com service** to turn it on for conversations in SharePoint. 
+6. Under **Enterprise Social Collaboration**, select **Use Yammer.com service** to turn it on for conversations in SharePoint. 
     
 ## Use Newsfeed for SharePoint conversations
 <a name="TurnonNewsfeed"> </a>

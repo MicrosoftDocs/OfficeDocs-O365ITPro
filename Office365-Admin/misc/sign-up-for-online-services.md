@@ -1,22 +1,18 @@
 ---
 title: "Your domain may be in use if someone else in your organization signed up with it"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 audience: Admin
 ms.topic: get-started-article
-f1_keywords:
-- 'O365P_DomainsSetup_InUse'
-- 'O365M_DomainsSetup_InUse'
-- 'O365E_DomainsSetup_InUse'
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management 
- - Adm_UI_Elements
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
+- Adm_O365
+- Adm_NonTOC
 search.appverid:
 - BCS160
 - MET150

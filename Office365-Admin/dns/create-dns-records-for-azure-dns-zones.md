@@ -1,5 +1,7 @@
 ---
 title: "Create DNS records for Azure DNS zones"
+f1.keywords:
+- NOCSH
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,13 +12,8 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
-- Adm_O365_Domain_Registrars
+- Adm_NonTOC
 - Adm_O365_Setup
-ms.custom:
-- Adm_O365
-- Adm_O365_Setup
-- Core_O365Admin_Migration
-- MiniMaven
 search.appverid:
 - BCS160
 - MET150
@@ -93,17 +90,17 @@ Before you use your domain with Office 365, we have to make sure that you own it
     
     ![Azure-BP-Configure-1-1](../media/ed377cad-0c47-4f9f-b322-c3e06b309b1f.png)
   
-2. Using the **search bar** on the **Dashboard** page, type in **DNS zones**. In the results display, click on **DNS zones** under the **Services** portion. Once you've been redirected, choose the domain that you want to update.
+2. Using the **search bar** on the **Dashboard** page, type in **DNS zones**. In the results display, select **DNS zones** under the **Services** portion. Once you've been redirected, select the domain that you want to update.
     
     ![Azure-BP-Configure-1-2](../media/eb4baad2-92d7-49c9-95e5-1dd8510d5ec9.png)
   
-3. On the **Settings** page for your domain, in the **DNS zone** area, choose **+ Record set**.
+3. On the **Settings** page for your domain, in the **DNS zone** area, select **+ Record set**.
     
     ![Azure-BP-Configure-1-3](../media/b04db89a-3dbc-4cd2-aaca-af17fda53a60.png)
   
-4. In the **Add record set** area, in the boxes for the new record set, choose the values from the following table. 
+4. In the **Add record set** area, in the boxes for the new record set, select the values from the following table. 
     
-    (Select the **Type** and **TTL unit** values from the drop-down lists.) 
+    (Choose the **Type** and **TTL unit** values from the drop-down lists.) 
     
     |**Name**|**Type**|**TTL**|**TTL unit**|**Value**|
     |:-----|:-----|:-----|:-----|:-----|
@@ -111,7 +108,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
    
     ![Azure-BP-Verify-1-1](../media/7d5a253c-e88f-4565-a00a-79bba52f9970.png)
   
-5. Choose **OK**.
+5. Select **OK**.
   
 6. Wait a few minutes before you continue, so that the record you just created can update across the Internet.
     
@@ -119,19 +116,19 @@ Now that you've added the record at your domain registrar's site, you'll go back
   
 When Office 365 finds the correct TXT record, your domain is verified.
   
-1. Choose **Setup** \> **Domains**.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834818" target="_blank">Domains</a> page.
     
-2. On the **Domains** page, choose the domain that you are verifying. 
+2. On the **Domains** page, select the domain that you are verifying. 
     
-    ![Domain name selected in Microsoft 365 admin center](../media/c61204f1-a025-448b-a2a1-c4d7abee7a06.png)
+    
   
-3. On the **Setup** page, choose **Start setup**.
+3. On the **Setup** page, select **Start setup**.
     
-    ![Start setup](../media/5f6578af-ae32-49e8-b283-ec2d080420da.png)
+    
   
-4. On the **Verify domain** page, choose **Verify**.
+4. On the **Verify domain** page, select **Verify**.
     
-    ![Verify](../media/c256ab1d-03f2-498e-bb63-19e4d49a6b97.png)
+    
   
 > [!NOTE]
 >  Typically it takes about 15 minutes for DNS changes to take effect. However, it can occasionally take longer for a change you've made to update across the Internet's DNS system. If you're having trouble with mail flow or other issues after adding DNS records, see [Troubleshoot issues after changing your domain name or DNS records](../get-help-with-domains/find-and-fix-issues.md). 
@@ -143,25 +140,25 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Azure-BP-Configure-1-1](../media/ed377cad-0c47-4f9f-b322-c3e06b309b1f.png)
   
-2. On the **Dashboard** page, in the **All resources** area, choose the domain that you want to update. 
+2. On the **Dashboard** page, in the **All resources** area, select the domain that you want to update. 
     
     ![Azure-BP-Configure-1-2](../media/eb4baad2-92d7-49c9-95e5-1dd8510d5ec9.png)
   
-3. On the **Settings** page for your domain, in the **DNS zone** area, choose **+ Record set**.
+3. On the **Settings** page for your domain, in the **DNS zone** area, select **+ Record set**.
     
     ![Azure-BP-Configure-1-3](../media/b04db89a-3dbc-4cd2-aaca-af17fda53a60.png)
   
-4. In the **Add record set** area, in the boxes for the new record set, choose the values from the following table. 
+4. In the **Add record set** area, in the boxes for the new record set, select the values from the following table. 
     
-    (Select the **Type** and **TTL unit** values from the drop-down lists.) 
+    (Choose the **Type** and **TTL unit** values from the drop-down lists.) 
     
     |**Name**|**Type**|**TTL**|**TTL unit**|**Preference**|**Mail Exchange**|
     |:-----|:-----|:-----|:-----|:-----|:-----|
-    |@  <br/> |MX  <br/> |1  <br/> |Hours  <br/> |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 portal account.   [How do I find this?](../get-help-with-domains/information-for-dns-records.md)  
+    |@  <br/> |MX  <br/> |1  <br/> |Hours  <br/> |10  <br/> For more information about priority, see [What is MX priority?](https://support.office.com/article/2784cc4d-95be-443d-b5f7-bb5dd867ba83.aspx) <br/> | *\<domain-key\>*  .mail.protection.outlook.com  <br/> **Note:** Get your  *\<domain-key\>*  from your Office 365 account.   [How do I find this?](../get-help-with-domains/information-for-dns-records.md)  
    
     ![Azure-BP-Configure-2-1](../media/712c23ae-9d38-4af2-94e0-0704e70744fe.png)
   
-5. Choose **OK**.
+5. Select **OK**.
     
     ![Azure-BP-Configure-2-2](../media/2f24225f-69ac-41dc-91c5-93d327360f74.png)
   
@@ -175,11 +172,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Azure-BP-Configure-2-4](../media/afe54f12-66d2-4ff3-80e9-427448e4c32c.png)
   
-7. Choose the **Context menu (…)**, and then choose **Remove**.
+7. Select the **Context menu (…)**, and then choose **Remove**.
     
     ![Azure-BP-Configure-2-5](../media/25219e25-bc14-4bc7-84ed-ee65eb28a8ed.png)
   
-8. Choose **Save**.
+8. Select **Save**.
     
     ![Azure-BP-Configure-2-6](../media/c6133096-5e43-4637-9c01-b63ee4b03517.png)
   
@@ -190,11 +187,11 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Azure-BP-Configure-1-1](../media/ed377cad-0c47-4f9f-b322-c3e06b309b1f.png)
   
-2. On the **Dashboard** page, in the **All resources** area, choose the domain that you want to update. 
+2. On the **Dashboard** page, in the **All resources** area, select the domain that you want to update. 
     
     ![Azure-BP-Configure-1-2](../media/eb4baad2-92d7-49c9-95e5-1dd8510d5ec9.png)
   
-3. On the **Settings** page for your domain, in the **DNS zone** area, choose **+ Record set**.
+3. On the **Settings** page for your domain, in the **DNS zone** area, select **+ Record set**.
     
     ![Azure-BP-Configure-1-3](../media/b04db89a-3dbc-4cd2-aaca-af17fda53a60.png)
   
@@ -202,24 +199,24 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     In the **Add record set** area, in the boxes for the new record set, type or copy and paste the values from the first row in the following table. 
     
-    (Select the **Type** and **TTL unit** values from the drop-down lists.) 
+    (Choose the **Type** and **TTL unit** values from the drop-down lists.) 
     
     |**Name**|**Type**|**TTL**|**TTL unit**|**Alias**|
     |:-----|:-----|:-----|:-----|:-----|
     |autodiscover  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |autodiscover.outlook.com  <br/> |
     |sip  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |sipdir.online.lync.com  <br/> |
     |lyncdiscover  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |webdir.online.lync.com  <br/> |
-    |msoid  <br/> |CNAME  <br/> |1  <br/> |Hours  <br/> |clientconfig.microsoftonline-p.net  <br/> |
+    
    
     ![Azure-BP-Configure-3-1](../media/a1c4d869-da97-43b3-952c-d513a20231dc.png)
   
-5. Choose **OK**.
+5. Select **OK**.
     
     ![Azure-BP-Configure-3-2](../media/b89b51da-1c07-43cf-9fab-75d2e5eb3544.png)
   
 6. Add each of the other three CNAME records.
     
-    In the **DNS zone** area, choose **+ Record set**. Then, in the empty record set, create a record by using the values from the next row in the table, and again choose **OK** to complete that record. 
+    In the **DNS zone** area, select **+ Record set**. Then, in the empty record set, create a record by using the values from the next row in the table, and again select **OK** to complete that record. 
     
     Repeat this process until you have created all four CNAME records.
     
@@ -243,17 +240,17 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Azure-BP-Configure-1-1](../media/ed377cad-0c47-4f9f-b322-c3e06b309b1f.png)
   
-2. On the **Dashboard** page, in the **All resources** area, choose the domain that you want to update. 
+2. On the **Dashboard** page, in the **All resources** area, select the domain that you want to update. 
     
     ![Azure-BP-Configure-1-2](../media/eb4baad2-92d7-49c9-95e5-1dd8510d5ec9.png)
   
-3. In the **DNS zone** area, choose the **TXT record set**.
+3. In the **DNS zone** area, select the **TXT record set**.
     
     ![Azure-BP-Configure-4-1](../media/03095196-5010-4072-8503-79b812084dbf.png)
   
-4. In the **Record set properties** area, in the boxes for the new record set, choose the values from the following table. 
+4. In the **Record set properties** area, in the boxes for the new record set, select the values from the following table. 
     
-    (Select the **Type** and **TTL unit** values from the drop-down lists.) 
+    (Choose the **Type** and **TTL unit** values from the drop-down lists.) 
     
     |**Name**|**Type**|**TTL**|**TTL unit**|**Value**|
     |:-----|:-----|:-----|:-----|:-----|
@@ -261,7 +258,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 
     ![Azure-BP-Configure-4-2](../media/78e84c43-e0ce-433f-8e74-9157fb093cca.png)
   
-5. Choose **Save**.
+5. Select **Save**.
     
     ![Azure-BP-Configure-4-3](../media/d7421c7f-ea63-4e11-8595-a482b8c165e0.png)
   
@@ -272,19 +269,19 @@ When Office 365 finds the correct TXT record, your domain is verified.
     
     ![Azure-BP-Configure-1-1](../media/ed377cad-0c47-4f9f-b322-c3e06b309b1f.png)
   
-2. On the **Dashboard** page, in the **All resources** area, choose the domain that you want to update. 
+2. On the **Dashboard** page, in the **All resources** area, select the domain that you want to update. 
     
     ![Azure-BP-Configure-1-2](../media/eb4baad2-92d7-49c9-95e5-1dd8510d5ec9.png)
   
-3. On the **Settings** page for your domain, in the **DNS zone** area, choose **+ Record set**.
+3. On the **Settings** page for your domain, in the **DNS zone** area, select **+ Record set**.
     
     ![Azure-BP-Configure-1-3](../media/b04db89a-3dbc-4cd2-aaca-af17fda53a60.png)
   
 4. Add the first of the two SRV records.
     
-    In the **Add record set** area, in the boxes for the new record set, choose the values from the first row in the following table. 
+    In the **Add record set** area, in the boxes for the new record set, select the values from the first row in the following table. 
     
-    (Select the **Type** and **TTL unit** values from the drop-down lists.) 
+    (Choose the **Type** and **TTL unit** values from the drop-down lists.) 
     
     |**Name**|**Type**|**TTL**|**TTL unit**|**Priority**|**Weight**|**Port**|**Target**|
     |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -293,7 +290,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 
     ![Azure-BP-Configure-5-1](../media/a436e0b4-8bb8-4a66-9c22-4e3b2dcf54ff.png)
   
-5. Choose **OK**.
+5. Select **OK**.
     
     ![Azure-BP-Configure-5-2](../media/a35b6c8a-d001-4b3c-8a67-96b4890e564c.png)
   
