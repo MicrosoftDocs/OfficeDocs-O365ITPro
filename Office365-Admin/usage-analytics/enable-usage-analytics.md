@@ -23,7 +23,7 @@ description: "Learn how to start collecting data for your tenant by using the Mi
 
 # Enable Microsoft 365 usage analytics
 
-Microsoft 365 usage analytics is also available for Office 365 US Government Community.
+Microsoft 365 usage analytics is also available for Microsoft 365 US Government Community.
   
 ## Steps to enable Microsoft 365 usage analytics
 
@@ -61,7 +61,7 @@ To initiate the template app, you have to be either a **global administrator**, 
   
 3. In the **Apps** tab, type Microsoft 365 in the search box and then select **Microsoft 365 usage analytics** \> **Get it now**.
 
-    ![Select Get it now](../media/78102250-9874-4a32-8365-436f13560b52.png)
+    [![Select Get it now](../media/78102250-9874-4a32-8365-436f13560b52.png)](https://app.powerbi.com/groups/me/getapps/services/cia_microsoft365.microsoft-365-usage-analytics)
     
 4.	Once the app is installed. Click on the tile to open it.
 

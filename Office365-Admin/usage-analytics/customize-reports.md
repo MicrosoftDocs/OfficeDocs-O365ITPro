@@ -23,7 +23,7 @@ description: "Learn to customize reports in the browser and Power BI Desktop."
 
 # Customize the reports in Microsoft 365 usage analytics
 
-Microsoft 365 usage analytics provides a dashboard in Power BI that offers insights into how users adopt and use Office 365. The dashboard is just a starting point to interact with the usage data. The reports can be customized for more personalized insights.
+Microsoft 365 usage analytics provides a dashboard in Power BI that offers insights into how users adopt and use Microsoft 365. The dashboard is just a starting point to interact with the usage data. The reports can be customized for more personalized insights.
   
 You can also use the Power BI desktop to further customize your reports by connecting them to other data sources to gain richer insights about your business.
   
@@ -99,7 +99,7 @@ For most customers modifying the reports and chart visuals in Power BI web will 
   
 ### Use the reporting APIs
 
-You can start by connecting directly to the ODATA reporting APIs from Office 365 that power these reports.
+You can start by connecting directly to the ODATA reporting APIs from Microsoft 365 that power these reports.
   
 1. Go to **get data** \> **Other** \> **ODATA Feed** \> **Connect**.
     
@@ -110,9 +110,9 @@ You can start by connecting directly to the ODATA reporting APIs from Office 365
   
     ![OData feed URL for Power BI desktop](../media/c0ef967e-a454-4eba-bc8e-61e113170053.png)
   
-3. Enter your Office 365 (organization or school) admin credentials to authenticate to Office 365 when prompted.
+3. Enter your Microsoft 365 (organization or school) admin credentials to authenticate to Microsoft 365 when prompted.
     
-    See the [FAQ](usage-analytics.md#faq) for more information about who is allowed to access the Office 365 Adoption content pack reports. 
+    See the [FAQ](usage-analytics.md#faq) for more information about who is allowed to access the Microsoft 365 Adoption template app reports. 
     
 4. Once the connection is authorized, you will see the Navigator window that shows the datasets available to connect to.
     
@@ -134,7 +134,7 @@ You can download the Power BI template file from the Microsoft download center f
     
     ![Enter your tenant ID to open the pbit file](../media/071ed0bf-8b9d-49c6-81fc-fd4c6cc85bd3.png)
   
-3. Enter your admin credentials to authenticate to Office 365 when prompted.
+3. Enter your admin credentials to authenticate to Microsoft 365 when prompted.
     
      for more information about who is allowed to access the Microsoft 365 usage analytics reports. 
     
