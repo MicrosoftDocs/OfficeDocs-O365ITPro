@@ -46,7 +46,7 @@ To get started with your reports, here are some tips:
 
     ![Shows hover example](../media/navigate-usage-analytics6.png)
 
-The user who has instantiated the content pack will have the ability to customize the report to their needs. To customize the content pack:
+The user who has instantiated the template app will have the ability to customize the report to their needs. To customize the template app:
 
 - Select **Edit report** at the top of the report.
 

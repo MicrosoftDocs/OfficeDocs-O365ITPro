@@ -1,7 +1,5 @@
 ---
-title: "Office 365 Reports in the admin center - OneDrive for Business usage"
-f1.keywords:
-- NOCSH
+title: "Microsoft 365 Reports in the admin center - OneDrive for Business usage"
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -25,15 +23,15 @@ ms.assetid: 0de3b312-c4e8-4e4b-a02d-32b2f726a680
 description: "Get the OneDrive for Business Usage Report to know about the total number of files and storage used across your organization. "
 ---
 
-# Office 365 Reports in the admin center - OneDrive for Business usage
+# Microsoft 365 Reports in the admin center - OneDrive for Business usage
 
-The Office 365 **Reports** dashboard shows you the activity overview across the products in your organization. It enables you to drill in to individual product level reports to give you more granular insight about the activities within each product. Check out [the Reports overview topic](activity-reports.md).
+The Microsoft 365 **Reports** dashboard shows you the activity overview across the products in your organization. It enables you to drill in to individual product level reports to give you more granular insight about the activities within each product. Check out [the Reports overview topic](activity-reports.md).
   
 For example, the OneDrive card on the dashboard gives you a high-level view of the value you are getting from OneDrive for Business in terms of the total number of files and storage used across your organization. You can then drill into it to understand the trends of active OneDrive accounts, how many files are users interacting with as well as the storage used. It also gives you details for each user's OneDrive.
   
 > [!NOTE]
-> You must be a global administrator in Office 365 or an Exchange, SharePoint, Skype for Business administrator, or reports reader to see reports. 
-  
+> You must be a global administrator, global reader or reports reader in Microsoft 365 or an Exchange, SharePoint, or Skype for Business administrator to see reports. 
+ 
 ## How do I get to the OneDrive Usage Report?
 
 1. In the admin center, go to the **Reports** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2074756" target="_blank">Usage</a> page.
