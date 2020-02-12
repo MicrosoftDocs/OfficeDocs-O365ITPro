@@ -35,6 +35,11 @@ And if you're interested in what's new in other admin centers:
 - [What's new in the Microsoft 365 compliance center](https://docs.microsoft.com/Office365/SecurityCompliance/whats-new)
 - [What's new in the SharePoint admin center](https://docs.microsoft.com/sharepoint/what-s-new-in-admin-center)
 
+## January 2020 - Happy New Year! 
+
+
+
+
 ## November and December 2019
 
 We're combining November's and December's news because after Ignite we had very few announcements to make. See you in the new year!
