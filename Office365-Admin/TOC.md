@@ -102,7 +102,7 @@
 ### [Buy or edit an add-on](subscriptions-and-billing/buy-or-edit-an-add-on.md)
 ### [Add storage space](subscriptions-and-billing/add-storage-space.md)
 ### [View your bill or invoice](subscriptions-and-billing/view-your-bill-or-invoice.md)
-### [Understand your invoice](subscriptions-and-billing/understand-your-invoice.md)
+### [Understand your invoice](subscriptions-and-billing/understand-your-invoice2.md)
 ### [Pay for your subscription](subscriptions-and-billing/pay-for-your-subscription.md)
 ### [Add, update, or remove payment methods](subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account.md)
 ### [Change payment method](subscriptions-and-billing/change-payment-method.md)

@@ -99,4 +99,4 @@ If your billing is done by Microsoft Corporation ([see your invoice](view-your-b
   
 [View your bill](view-your-bill-or-invoice.md)
   
-[Understand your invoice](understand-your-invoice.md)
+[Understand your invoice](understand-your-invoice2.md)
