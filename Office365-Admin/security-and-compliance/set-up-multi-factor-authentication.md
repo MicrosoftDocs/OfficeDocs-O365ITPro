@@ -67,7 +67,7 @@ If you have previously set up MFA with baseline policies, [you must turn them of
 5. Go to [Azure Active Directory Properties](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties) page.
 6. On the bottom of the page, choose **Manage Security defaults**, and in the **Enable Security defaults** pane, set **Enable Security defaults** toggle to **Yes**. 
 
-## Enable multi-factor authentication for your organization
+## Enable Modern authentication for your organization
 
 All Office 2016 client applications support MFA through the use of the Active Directory Authentication Library (ADAL). This means that app passwords aren't required for Office 2016 clients. However, you need to make sure your Office 365 subscription is enabled for ADAL, or modern authentication.
 
@@ -76,6 +76,20 @@ All Office 2016 client applications support MFA through the use of the Active Di
 2. Check the **Enable modern authentication** box in the **Modern authentication** panel. 
 
     ![Modern authentication panel with enable checkbox checked.](../media/enablemodernauth.png)
+    
+## Enable multi-factor authentication for your organization
+    
+1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select **Users** and **Active Users**.
+
+2. In the **Active Users** section, Click on  **multi-factor authentication**.
+
+3. On the **Multi-factor authentication** page, select **user** if you are enabling this for one user Or you can peform a **Bulk Update**.
+
+4. CLick on **Enable** under **Quick Steps**.
+
+5. In the Pop-up window, CLickc on **Enable Multi-Factor Authentication**.
+
+After you set up multi-factor authentication for your organization, your users will be required to set up two-step verification on their devices. For more information, see [Set up 2-step verification for Office 365](https://support.office.com/article/ace1d096-61e5-449b-a875-58eb3d74de14).
     
 > [!TIP]
 > To explain to your users how to set up the Authenticator app, please visit [Use Microsoft Authenticator with office 365](https://support.office.com/article/use-microsoft-authenticator-with-office-365-1412611f-ad8d-43ab-807c-7965e5155411?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=_Step_1).
