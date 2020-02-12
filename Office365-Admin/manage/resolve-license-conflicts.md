@@ -21,7 +21,6 @@ search.appverid:
 ms.assetid: 796f7eda-b1f8-479a-adee-bd9226ca47ec
 description: "Learn how to resolve license conflicts with your Office 365 for business subscription."
 ---
-<!-- Clone: AgentUniversity\admin\Resolve-license-conflicts.md -->
 
 # Resolve license conflicts in Office 365 for business
 
