@@ -36,6 +36,11 @@ If you don't already have Power BI, you can [sign up for the free Power BI servi
 ![Select Get started free to get Power Bi](../media/7916b7ac-c1c8-40c0-b076-9a96ef5e0eb7.png)
   
 You can also expand **Products** to buy a version of Power BI. 
+
+>[!NOTE]
+>You need a Power BI Pro license to install, customize, and distribute a template app. Please see more at [Prerequisites](https://docs.microsoft.com/en-us/power-bi/service-template-apps-install-distribute?source=docs#prerequisites)
+
+>You need a Power BI Pro license to share your content, and the people you share it with do too, or the content needs to be in a workspace in a [Premium capacity](https://docs.microsoft.com/en-us/power-bi/service-premium-what-is). 
   
 ### Enable the template app
 
