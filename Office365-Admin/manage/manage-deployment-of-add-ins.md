@@ -55,7 +55,7 @@ Depending on the size of the target audience, you may want to add or remove roll
 Before you begin, see [Determine if Centralized Deployment of add-ins works for your Office 365 organization](centralized-deployment-of-add-ins.md).
 
   
-1. In the admin center, go to the **Settings** \> [Services &amp; add-ins](https://go.microsoft.com/fwlink/p/?linkid=2053743) page.
+1. In the admin center, go to the **Settings** \> **Add-ins** page.
     
 2. Select **Deploy Add-in** at the top of the page. On the overview page, select **Next**.
     
