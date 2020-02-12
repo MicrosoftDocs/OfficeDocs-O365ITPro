@@ -20,7 +20,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 6ceca4d3-cad1-4532-9f0f-d469dfbbb552
-description: "Learn how to create a naming policy for Office 365 groups. "
+description: "Learn how to create a naming policy for Office 365 groups."
 ---
 
 # Office 365 Groups naming policy
@@ -34,7 +34,7 @@ The naming policy is applied to groups that are created across all groups worklo
 
 The group naming policy consists of the following features:
 
-- **Prefix-Suffix naming policy**: You can use prefixes or suffixes to define the naming convention of groups (for example: "GRP_US_My Group_Engineering"). The prefixes/suffixes can either be fixed strings or user attributes like [Department] that will get substituted based on the user who is creating the group.
+- **Prefix-Suffix naming policy**: You can use prefixes or suffixes to define the naming convention of groups (for example: "GRP\_US\_My Group\_Engineering"). The prefixes/suffixes can either be fixed strings or user attributes like [Department] that will get substituted based on the user who is creating the group.
 
 - **Custom Blocked Words**: You can upload a set of blocked words specific to their organization that would be blocked in groups created by users. (For example: "CEO, Payroll, HR").
 
@@ -43,13 +43,13 @@ The group naming policy consists of the following features:
 Using Azure AD naming policy for Office 365 groups requires that you possess but not necessarily assign an Azure Active Directory Premium P1 license or Azure AD Basic EDU license for each unique user (including guests) that is a member of one or more Office 365 groups.
 This is also required for the administrator that creates the Groups naming policy.
 
-## Prefix-Suffix Naming policy
+## Prefix-Suffix naming policy
 
 Prefixes and suffixes can either be fixed strings or user attributes.
 
-### Fixed Strings
+### Fixed strings
 
-You can use short strings that can help you differentiate groups in the GAL and Left nav of the group workloads. Some of the common prefixes suffixes are Keywords like 'Grp_Name' , '#Name', '_Name'
+You can use short strings that can help you differentiate groups in the GAL and Left nav of the group workloads. Some of the common prefixes suffixes are Keywords like 'Grp\_Name' , '\#Name', '\_Name'
 
 ### Attributes
 
@@ -75,13 +75,13 @@ It's recommended that you use attributes that have values filled in for all user
 
 - Prefixes and suffixes can contain special characters supported in group name and group alias. When the prefixes and suffixes contain special characters that are not allowed in the group alias, they are removed and applied to the group alias. So in this case, the prefixes and suffixes applied to group name would be different from the ones applied to the group alias.
 
-- If you are using Yammer Office 365 connected groups, avoid using the following characters in your naming policy: @, #, [, ], <, and >. If these characters are in the naming policy, regular Yammer users will not be able to create groups.
+- If you are using Yammer Office 365 connected groups, avoid using the following characters in your naming policy: @, \#, \[, \], \<, and \>. If these characters are in the naming policy, regular Yammer users will not be able to create groups.
 
-## Custom Blocked Words
+## Custom blocked words
 
 You can enter a comma separated list of blocked words that will be blocked in group names and aliases.
 
-The blocked words check is done on the user entered group name. So if user enters 'darnit' and 'Prefix_' is the naming policy, 'Prefix_darnit' will fail.
+The blocked words check is done on the user entered group name. So if user enters 'darnit' and 'Prefix\_' is the naming policy, 'Prefix\_darnit' will fail.
 
 No sub-string searches are carried out; specifically, an exact match between the user entered name and the custom blocked words is required to trigger a failure. Sub-string search isn't done so that users can use some of the common words like 'Class' even if 'ass' is a blocked word.
 
