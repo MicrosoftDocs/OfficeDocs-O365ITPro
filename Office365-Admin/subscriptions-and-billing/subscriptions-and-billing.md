@@ -174,7 +174,7 @@ Get admin help with billing in Office 365 for business.
                     <div class="cardText">
                         <h3>Billing</h3>
                         <p><a href="view-your-bill-or-invoice.md">View your bill</a></p>
-                        <p><a href="understand-your-invoice.md">Understand your invoice</a></p>
+                        <p><a href="understand-your-invoice2.md">Understand your invoice</a></p>
                         <p><a href="pay-for-your-subscription.md">Pay for your subscription</a></p>
                         <p><a href="add-update-or-remove-credit-card-or-bank-account.md">Manage credit cards or bank accounts</a></p>
                         <p><a href="change-payment-method.md">Change your payment method</a></p>
