@@ -2,8 +2,8 @@
 title: "Top 10 ways to secure Office 365 and Microsoft 365 Business plans"
 f1.keywords:
 - CSH
-ms.author: pebaum
-author: pebaum
+ms.author: sirkkuw
+author: sirkkuw
 manager: scotv
 audience: Admin
 ms.topic: article
