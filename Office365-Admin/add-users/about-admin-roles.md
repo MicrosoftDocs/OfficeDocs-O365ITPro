@@ -81,9 +81,9 @@ You'll probably only need to assign the following roles in your organization. (F
 
 ### All roles
 
- Here's a list of all the roles available in the Microsoft 365 admin center.
+ Here's a list of all the admin roles available in the Microsoft 365 admin center.
 
-|Role     |Description  |
+|Admin role     |Description  |
 |---------|---------|
 |Application admin     |    Full access to enterprise applications, application registrations, and application proxy settings.     |
 |Application developer     |    Create application registrations and consent to app access on their own behalf.     |
