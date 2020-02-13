@@ -40,7 +40,7 @@ You can also expand **Products** to buy a version of Power BI.
 > [!NOTE]
 > You need a Power BI Pro license to install, customize, and distribute a template app. For more information, please see [Prerequisites](https://docs.microsoft.com/power-bi/service-template-apps-install-distribute?source=docs#prerequisites).
 
->You need a Power BI Pro license to share your content, and the people you share it with do too, or the content needs to be in a workspace in a [Premium capacity](https://docs.microsoft.com/en-us/power-bi/service-premium-what-is). 
+> You need a Power BI Pro license to share your content, and the people you share it with do too, or the content needs to be in a workspace in a [Premium capacity](https://docs.microsoft.com/power-bi/service-premium-what-is). 
   
 ### Enable the template app
 
