@@ -59,7 +59,7 @@ To set up multi-factor authentication:
 
 2. In the **Active Users** section, select  **Multi-Factor Authentication**.
 
-3. On the **Multi-factor authentication** page, select **user** if you are enabling this for one user Or you can peform a **Bulk Update**.
+3. On the **Multi-Factor Authentication** page, select **User** if you are enabling this for one user Or you can perform a **Bulk Update**.
 
 4. Click on **Enable** under **Quick Steps**.
 
