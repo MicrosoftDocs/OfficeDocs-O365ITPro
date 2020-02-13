@@ -24,7 +24,6 @@ description: "Learn how to remove licenses from user accounts."
 search.appverid:
 - MET150
 ---
-<!-- Clone: AgentUniversity\admin\Remove-licenses-users.md -->
 
 # Unassign licenses from users
 

@@ -26,7 +26,6 @@ ms.custom:
 ms.assetid: 2ae3ea58-4fce-4592-91d6-46e9ae3ec218
 description: "Find your invoice or billing statement in the Microsoft 365 admin center. You can also save and print a copy of your bill."
 ---
-<!-- Clone: AgentUniversity\commerce\how-to-download-invoice.md -->
 
 # View your bill or invoice
 
