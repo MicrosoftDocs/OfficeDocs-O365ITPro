@@ -90,4 +90,4 @@ To make the data that is collected for all reports anonymous, you have to be a g
     
 2. Select **Reports**, and then choose to **Display anonymous identifiers**. This setting gets applied both to the usage reports as well as to the template app.
   
-3. Select **Save changes**.S
+3. Select **Save changes**.
