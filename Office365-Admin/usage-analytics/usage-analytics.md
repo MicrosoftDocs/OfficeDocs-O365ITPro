@@ -82,9 +82,9 @@ User activity reports are available for certain individual services. These repor
 
 ### Is this template app going to be available through purchase or will it be free?
 
-The prerequisites for installing, customizing, and distributing a template app can be found at [Prerequisites](https://docs.microsoft.com/en-us/power-bi/service-template-apps-install-distribute#prerequisites).  
+It is not free, you will need a Power BI Pro license. For details see [prerequisites](https://docs.microsoft.com/power-bi/service-template-apps-install-distribute#prerequisites) for installing, customizing, and distributing a template app.
 
-To share the dashboards with others, please see more at [Share dashboards and reports](https://docs.microsoft.com/en-us/power-bi/service-how-to-collaborate-distribute-dashboards-reports#share-dashboards-and-reports).
+To share the dashboards with others, please see more at [Share dashboards and reports](https://docs.microsoft.com/power-bi/service-how-to-collaborate-distribute-dashboards-reports#share-dashboards-and-reports).
 
 ### Who can connect to Microsoft 365 usage analytics?
 
