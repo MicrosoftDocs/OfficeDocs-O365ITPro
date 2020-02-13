@@ -26,13 +26,12 @@ ms.custom:
 ms.assetid: 2ae3ea58-4fce-4592-91d6-46e9ae3ec218
 description: "Find your invoice or billing statement in the Microsoft 365 admin center. You can also save and print a copy of your bill."
 ---
-<!-- Clone: AgentUniversity\commerce\how-to-download-invoice.md -->
 
 # View your bill or invoice
 
 This article is for people who have an Office 365 for business subscription. You must be a Global Admin or Billing Admin to do the steps described in this article.
   
-If you need help interpreting the charges you see on your bill, see [Understand your invoice](understand-your-invoice.md) for a detailed walkthrough.
+If you need help interpreting the charges you see on your bill, see [Understand your invoice](understand-your-invoice2.md) for a detailed walkthrough.
   
  **Not an admin?** Contact your IT administrator for help. 
   

@@ -23,7 +23,6 @@ search.appverid:
 ms.assetid: 9c64d127-e2dd-4ecc-81f5-2f87e5a74803
 description: "Learn how to remove a license from your Office 365 for business subscription when the license is already assigned to someone."
 ---
-<!-- Clone: AgentUniversity\admin\Remove-licenses-subscription.md -->
 
 # Remove licenses from your Office 365 for business subscription
 
