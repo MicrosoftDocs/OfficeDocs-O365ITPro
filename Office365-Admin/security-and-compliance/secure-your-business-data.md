@@ -57,7 +57,7 @@ To set up multi-factor authentication:
 
 1. In the [admin center](https://go.microsoft.com/fwlink/p/?linkid=834822), select **Users** > **Active Users**.
 
-2. In the **Active Users** section, Click on  **multi-factor authentication**.
+2. In the **Active Users** section, select  **Multi-Factor Authentication**.
 
 3. On the **Multi-factor authentication** page, select **user** if you are enabling this for one user Or you can peform a **Bulk Update**.
 
