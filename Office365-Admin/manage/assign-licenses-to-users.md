@@ -27,7 +27,6 @@ description: "Learn how to assign licenses to users, or move users to a new subs
 search.appverid:
 - MET150
 ---
-<!-- Clone: AgentUniversity\admin\Assign-licenses-users.md -->
 
 # Assign licenses to users
 
