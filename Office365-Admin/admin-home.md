@@ -14,11 +14,11 @@ ms.collection:
 - Adm_O365
 - Adm_TOC
 ms.assetid: b9acfd4c-df82-4eb5-a652-232a6829870a
-description: "Learn about resources available for Office 365 admins."
+description: "Learn about resources available for Microsoft 365 admins."
 ms.custom: okr_smb
 ---
 
-# Office 365 Admin help center
+# Microsoft 365 Admin help center
 
 Learn about resources available for admins.
 
