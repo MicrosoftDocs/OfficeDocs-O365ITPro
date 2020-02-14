@@ -78,7 +78,7 @@ To remove an employee:
 ::: moniker-end
 
     
-Within an hour - or after they leave the current Office 365 page they are on - they will be prompted to sign in again. (The refresh token is good for an hour, so the timeline depends on how much time is left on their token and whether they navigate out of their current webpage.)
+Within an hour - or after they leave the current Office 365 page they are on - they will be prompted to sign in again. (An access token is good for an hour, so the timeline depends on how much time is left on that token and whether they navigate out of their current webpage.)
   
  **CAVEAT**: If the user is in Outlook on the web, just clicking around in their mailbox, they may not be kicked out immediately. As soon as they select a different tile, such as OneDrive, or refresh their browser, the sign out is initiated. 
   
