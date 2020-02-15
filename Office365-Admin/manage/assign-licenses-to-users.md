@@ -220,6 +220,16 @@ If you have more than one subscription, and you have users who already have a li
 
 ::: moniker-end
 
+## Assign licenses to  Guest users
+
+1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
+
+2. Select the boxes next to the names of the Guest user you want to add licenses for.
+
+3. Click on the **Edit Product Licenses** 
+
+4. Assign the desired license.
+
 ## What you need to know about assigning licenses to users
 
 - You must be a Global admin, Billing admin, License admin, or User management admin. For more information, see [About Office 365 admin roles](../add-users/about-admin-roles.md).
