@@ -228,7 +228,7 @@ If you have more than one subscription, and you have users who already have a li
 
 3. Click on the **Edit Product Licenses** 
 
-4. Assign the desired license.
+4. Assign the required license.
 
 ## What you need to know about assigning licenses to users
 
