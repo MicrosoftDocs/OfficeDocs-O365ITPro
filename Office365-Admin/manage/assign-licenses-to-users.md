@@ -226,7 +226,7 @@ If you have more than one subscription, and you have users who already have a li
 
 2. Select the boxes next to the names of the Guest users you want to add licenses for.
 
-3. Click on the **Edit Product Licenses** 
+3. Select **Edit Product Licenses**.
 
 4. Assign the required license.
 
