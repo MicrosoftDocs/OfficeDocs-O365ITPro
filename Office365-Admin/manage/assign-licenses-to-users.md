@@ -224,7 +224,7 @@ If you have more than one subscription, and you have users who already have a li
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=850628" target="_blank">Active users</a> page.
 
-2. Select the boxes next to the names of the Guest user you want to add licenses for.
+2. Select the boxes next to the names of the Guest users you want to add licenses for.
 
 3. Click on the **Edit Product Licenses** 
 
