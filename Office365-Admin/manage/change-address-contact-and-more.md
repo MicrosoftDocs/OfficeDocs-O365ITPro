@@ -39,7 +39,7 @@ To change other information on your company's profile page:
 
 2. On the **Organization profile** tab, select **Organization information**.
 
-3. Update your organization's information and select **Save changes**.
+3. Update your organization's information, then select **Save changes**.
 
     An explanation of each field is provided below.
 
@@ -54,11 +54,9 @@ To change other information on your company's profile page:
 |Technical contact  <br/> |This is the email address for the primary technical person who administers your Office 365 subscription. This is the person who will receive communications about Office 365 service status.  <br/> |
 |Preferred language  <br/> |The preferred language determines the language for all communications that are sent from Microsoft to your organization. When you sign up, this setting determines the language used by SharePoint Online, which your users see on your team site. If you change the language preference setting after you sign up, all future communications are sent in the most recent language selected.  <br/> NOTE: The language used by SharePoint Online can't be changed.           |
 
-## Change your profile and email signature
+## Change your alternate email address
 
-### Admin info
-  
-If you're an admin, you can change your alternate email address for resetting passwords or business email address.
+As an admin, you can change your your alternate email address for resetting passwords.
 
 1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">Microsoft 365 admin center</a>.
 
@@ -70,19 +68,7 @@ If you're an admin, you can change your alternate email address for resetting pa
 
 5. Edit the address in the **Alternate email** box, then select **Save**.
 
-### User info
-  
-If you're a user, you can change your individual language preference.
-
-1. Go to <a href="https://portal.office.com/account/" target="_blank">https://portal.office.com/account/</a>.
-
-2. If prompted, enter your user name and password.
-
-3. Select the **Settings** ![Settings](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) icon, then select **Language**.
-
-4. Select the language to use for Office 365, then select **Save**.
-
-For more information, see [Change your contact preferences](change-contact-preferences.md) or [Change your display language](https://support.office.com/article/6f238bff-5252-441e-b32b-655d5d85d15b.aspx).
+To learn about changing other profile information, see [Change your contact preferences](change-contact-preferences.md) or [Change your display language](https://support.office.com/article/6f238bff-5252-441e-b32b-655d5d85d15b.aspx).
   
 ### Email signatures
   
