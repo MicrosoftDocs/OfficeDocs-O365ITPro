@@ -39,11 +39,11 @@ And if you're interested in what's new in other admin centers:
 
 ### Dark mode
 
-When we first rolled out dark mode, it was only available on the Home page. Dark mode is now out of preview and available on all pages in the admin center.
+When we first rolled out dark mode, it was only available on the Home page. Dark mode is now out of preview and is in Targeted release across most pages in the admin center.
 
-To turn on dark mode, you can go to the **Home** page, and then select the **Dark mode** button. (It's next to the **Search** field and this article's **What's new** link.)
-
-But you can also turn on Dark mode on any page. The button is at the top of the page, next to **The new admin center** toggle.
+1. First, you'll need to turn on Targeted Release: Go to **Settings** \> **Settings** \> **Organization profile** \> **Release preferences**. 
+1. And then to turn on dark mode, go to the **Home** page, and then select the **Dark mode** button. (It's next to the **Search** field and this article's **What's new** link.)
+1. For any page that has dark mode available, the button is at the top of the page, next to **The new admin center** toggle.
 
 ### Office What's New management
 
