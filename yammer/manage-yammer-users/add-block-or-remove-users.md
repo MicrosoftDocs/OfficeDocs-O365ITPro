@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 9/23/2019
+ms.date: 02/17/2020
 audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -65,9 +65,7 @@ A "pending user" is someone who has been invited to a yammer network but never l
 Pending users receive announcement notification emails from group admins. If users don't want to receive announcements from a particular group they can log into their Yammer account and leave the group or follow the unsubscribe link in the email to unsubscribe from all Yammer emails.
 
 As in all Office products, pending users will be visible in the group member list even if they have never logged in.
-
-As of August 2019, new users added into Yammer will be added into the active user state. In the coming months, existing pending users will be converted into active users.
-  
+ 
 <a name="InviteGuests"> </a>
 ## Invite guests
 
