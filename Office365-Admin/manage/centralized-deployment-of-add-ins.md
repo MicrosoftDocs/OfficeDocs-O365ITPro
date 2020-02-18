@@ -24,7 +24,7 @@ description: "Determine if your Office 365 tenant and users meet the requirement
 # Determine if Centralized Deployment of add-ins works for your organization
 
 Centralized Deployment is the recommended and most feature-rich way for most customers to deploy Office add-ins to users and groups within your Office 365 organization. If you're an admin, use this guidance to determine if your tenant and users meet the requirements so that you can use Centralized Deployment.
-Centralized Deployment supports Windows, Mac, iOS, Android and Onlie Office apps.
+Centralized Deployment supports Windows, Mac, iOS, Android and Online Office apps.
 It can take up to 12 hours for an add-in to show up for client for all users.
   
 ## Requirements
@@ -57,10 +57,11 @@ Centralized Deployment doesn't support the following:
   - Version 1808 or later of Office Professional Plus 2019 or Office Standard 2019.
   - Version 16.0.4494.1000 or later of Office Professional Plus 2016 (MSI) or Office Standard 2016 (MSI)\*
   - Version 15.0.4937.1000 or later of Office Professional Plus 2013 (MSI) or Office Standard 2013 (MSI)\*
-    Version 16.0.9318.1000 or later of Office 2016 for Mac 
+  - Version 16.0.9318.1000 or later of Office 2016 for Mac 
 - Version 2.75.0 or later of Outlook mobile for iOS 
 - Version 2.2.145 or later of Outlook mobile for Android 
-    \*MSI versions of Outlook show admin-installed add-ins in the appropriate Outlook ribbon, not the "My add-ins" section.
+    
+    *MSI versions of Outlook show admin-installed add-ins in the appropriate Outlook ribbon, not the "My add-ins" section.
     
 
 #### Find out if Office 365 ProPlus is installed

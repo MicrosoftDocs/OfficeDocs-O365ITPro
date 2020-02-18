@@ -76,7 +76,7 @@ Before you begin, see [Determine if Centralized Deployment of add-ins works for 
 
 
 
-If you've deployed the add-in to members of your orgnization other than yourself, follow the instructions displayed in order to effectively announce the deployment of the add-in. <br/>You now see your add-in along with other apps in Office 365.
+If you've deployed the add-in to members of your organization other than yourself, follow the instructions displayed in order to effectively announce the deployment of the add-in. <br/>You now see your add-in along with other apps in Office 365.
   
 It's a good idea to inform the users and groups who you deployed the add-in to so that they know that it's available. Consider sending an email to them that describes when and how to use the add-in and explains how the add-in can help them do their job better. Include or link to relevant Help content or FAQs that might help if users have any problems with the add-in.
   
@@ -125,6 +125,9 @@ When updating a manifest, the typical changes are to an add-in's icon and text. 
 Updates for add-ins happen as follows:
   
 - **Line-of-business add-in:** In this case, where an admin explicitly uploaded a manifest, the add-in requires that the admin upload a new manifest file to support metadata changes. The next time the relevant Office applications start, the add-in will update. The web application can change at any time. 
+
+    > [!NOTE]
+    > Admin does not need to remove a LOB Add-in for doing an update.   In the Add-ins section, Admin can simply click on the LOB Add-in and choose the **Update Button** in the bottom right corner. Update will work only if the version of the new add-in is greater than that of the existing add-in.   
     
 - **Office Store add-in:** When an admin selected an add-in from the Office Store, if an add-in updates in the Office Store, the add-in will update later in Centralized Deployment. The next time the relevant Office applications start, the add-in will update. The web application can change at any time. 
 
@@ -137,6 +140,7 @@ Post deployment, admins can also modify the user access to add-ins.
 2. Select the deployed add-in.
 
 3. Click on **Edit** under **Who has Access**.
+4. Save the changes.
     
 ### Prevent add-in downloads by turning off the Office Store across all clients (Except Outlook)
 
@@ -163,7 +167,7 @@ This will prevent all users from acquiring the following add-ins from the store.
     
   - Office
     
-  - iOS
+  - iOS (iPad only)
     
 - Acquisitions starting within **AppSource**
     
@@ -208,7 +212,7 @@ To be GDPR compliant for minors you need to ensure that one of following builds 
 |Office 2016 for Windows  <br/> |16.0.4672.1000  <br/> |
 |Office 2013 for Windows  <br/> |15.0.5023.1000  <br/> |
 |Office 2016 for Mac  <br/> |16.11.18020200  <br/> |
-|Office 2016 for iOS  <br/> |2.12.18032600  <br/> |
+|Office 2016 for iOS (ipad only)  <br/> |2.12.18032600  <br/> |
 |Office for the web  <br/> |N/A  <br/> |
    
  **For Outlook**: 
@@ -267,7 +271,8 @@ You can also delete an add-in that was deployed.
 
 2. Select the deployed add-in.
 
-3. Click on **Delete Add-In**.
+3. Click on **Delete Add-In**. Remove the Add-in button on the bottom right corner.
+4. Validate your selections, and choose **Remove add-in**.
   
 ## Learn more
 
