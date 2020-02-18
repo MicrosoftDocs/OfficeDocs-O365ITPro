@@ -23,7 +23,7 @@ description: "Learn how to start collecting data for your tenant by using the Mi
 
 # Enable Microsoft 365 usage analytics
 
-Microsoft 365 usage analytics is also available for Office 365 US Government Community.
+Microsoft 365 usage analytics is also available for Microsoft 365 US Government Community.
   
 ## Steps to enable Microsoft 365 usage analytics
 
@@ -31,11 +31,15 @@ To get started with Microsoft 365 usage analytics you must first make the data a
   
 ### Get Power BI
 
-If you don't already have Power BI, you can [sign up for the free Power BI service](https://go.microsoft.com/fwlink/p/?linkid=845347). Select **Get started free** to get the free version. 
+If you don't already have Power BI, you can [sign up for Power BI Pro](https://go.microsoft.com/fwlink/p/?linkid=845347). Select **Try free** to sign up for a trial, or **Buy now** to get Power BI Pro.
   
-![Select Get started free to get Power Bi](../media/7916b7ac-c1c8-40c0-b076-9a96ef5e0eb7.png)
   
 You can also expand **Products** to buy a version of Power BI. 
+
+> [!NOTE]
+> You need a Power BI Pro license to install, customize, and distribute a template app. For more information, please see [Prerequisites](https://docs.microsoft.com/power-bi/service-template-apps-install-distribute?source=docs#prerequisites).
+
+You need a Power BI Pro license to share your content, and the people you share it with do too, or the content needs to be in a workspace in a [Premium capacity](https://docs.microsoft.com/power-bi/service-premium-what-is). 
   
 ### Enable the template app
 
@@ -61,7 +65,7 @@ To initiate the template app, you have to be either a **global administrator**, 
   
 3. In the **Apps** tab, type Microsoft 365 in the search box and then select **Microsoft 365 usage analytics** \> **Get it now**.
 
-    ![Select Get it now](../media/78102250-9874-4a32-8365-436f13560b52.png)
+    [![Select Get it now](../media/78102250-9874-4a32-8365-436f13560b52.png)](https://app.powerbi.com/groups/me/getapps/services/cia_microsoft365.microsoft-365-usage-analytics)
     
 4.	Once the app is installed. Click on the tile to open it.
 
@@ -85,4 +89,4 @@ To make the data that is collected for all reports anonymous, you have to be a g
     
 2. Select **Reports**, and then choose to **Display anonymous identifiers**. This setting gets applied both to the usage reports as well as to the template app.
   
-3. Select **Save changes**.S
+3. Select **Save changes**.

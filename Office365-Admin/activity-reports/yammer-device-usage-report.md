@@ -1,7 +1,5 @@
 ---
-title: "Office 365 Reports in the admin center - Yammer device usage report"
-f1.keywords:
-- NOCSH
+title: "Microsoft 365 Reports in the admin center - Yammer device usage report"
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,14 +19,14 @@ ms.assetid: b793ffdd-effa-43d0-849a-b1ca2e899f38
 description: "Get the Yammer device usage report to know about which devices your users are using Yammer on. "
 ---
 
-# Office 365 Reports in the admin center - Yammer device usage report
+# Microsoft 365 Reports in the admin center - Yammer device usage report
 
-The Office 365 **Reports** dashboard shows you the activity overview across the products in your organization. It enables you to drill in to individual product level reports to give you more granular insight about the activities within each product. Check out [the Reports overview topic](activity-reports.md).
+The Microsoft 365 **Reports** dashboard shows you the activity overview across the products in your organization. It enables you to drill in to individual product level reports to give you more granular insight about the activities within each product. Check out [the Reports overview topic](activity-reports.md).
   
 The Yammer device usage reports give you information about which devices your users are using Yammer on. You can view the number of daily users by device type, and number of users by device type. You can view both over a selected time period. You can also view details per user.
   
 > [!NOTE]
-> You must be a global administrator in or an Exchange, SharePoint, Skype for Business administrator, or reports reader to see reports. 
+> You must be a global administrator, global reader or reports reader in Microsoft 365 or an Exchange, SharePoint, or Skype for Business administrator to see reports. 
   
 ## How do I get to the Yammer device usage report?
 
@@ -57,7 +55,7 @@ The device usage report contains the following information.
     
   - **Username** is the email address of the user. You can display the actual email address or make this field anonymous. 
     
-    This grid shows users who logged into Yammer using the Office 365 account or who logged into the network using single sign-on.
+    This grid shows users who logged into Yammer using the Microsoft 365 account or who logged into the network using single sign-on.
     
   - **Display name** is the full name of the user. You can display the actual email address or make this field anonymous. 
     

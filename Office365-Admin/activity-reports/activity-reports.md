@@ -8,7 +8,7 @@ manager: scotv
 audience: Admin
 ms.topic: overview
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: 
 - M365-subscription-management
 - Adm_O365
@@ -66,6 +66,8 @@ People who have the following permissions:
 - SharePoint admins
     
 - Skype for Business admins
+
+- Global reader
     
 - Reports reader
     
