@@ -178,13 +178,15 @@ While you can upload almost all types of files, some file names and characters i
 You can enable third-party storage for your users in Office 365 so they can store and share documents using services like Dropbox in addition to OneDrive and team sites. This can be a great way to provide services that your users may already be using or prefer to use for business projects. If you don't want people in your organization using Office to open files in a third-party service, follow these steps to turn it off.
   
 > [!IMPORTANT]
-> Third-party storage is enabled by default so you need to perform these steps right away if you don't want it available to your users. 
+> Third-party storage is enabled by default so you need to perform these steps right away if you don't want it available to your users.
   
-1. Sign in to to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>. 
+1. Sign in to to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>.
     
-3. Go to **Settings** \> **Services and add-ins** \> **Office on the web**.
+2. Go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2118715" target="_blank">Settings</a> page.
+
+3. On the **Services** tab, select **Office on the web**.
     
-4. Select the check box to turn third-party storage on or off. 
+4. Select or deselect the check box to turn third-party storage on or off, then select **Save changes**.
     
 ## Next steps
 

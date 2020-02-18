@@ -35,11 +35,11 @@ To change the address associated with your bill or subscription, see [Change you
 
 To change other information on your company's profile page:
   
-1. In the admin center, go to the **Settings** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2067339" target="_blank">Organization profile</a> page, or select your organization's name at the top of the page.
+1. In the admin center, go to the **Settings** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=2118715" target="_blank">Settings</a> page.
 
-2. Select **Edit** beside your organization's name.
+2. On the **Organization profile** tab, select **Organization information**.
 
-3. Update your organization's information and select **Save**.
+3. Update your organization's information and select **Save changes**.
 
     An explanation of each field is provided below.
 
@@ -58,11 +58,29 @@ To change other information on your company's profile page:
 
 ### Admin info
   
-If you're an admin and want to change your alternate email address for resetting passwords or business email address, go to **Settings**![Settings](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) and under **Your app settings**, select **Office 365**.
+If you're an admin, you can change your alternate email address for resetting passwords or business email address.
+
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">Microsoft 365 admin center</a>.
+
+2. In the header, select your profile icon, then select **My account**.
+
+3. On the left, select **Personal info**.
+
+4. On the **Contact details** card, select **Edit**.
+
+5. Edit the address in the **Alternate email** box, then select **Save**.
 
 ### User info
   
-If you're a user and want to change your individual language preference, go to **Settings** ![Settings](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) \> **Office 365 settings**.
+If you're a user, you can change your individual language preference.
+
+1. Go to <a href="https://portal.office.com/account/" target="_blank">https://portal.office.com/account/</a>.
+
+2. If prompted, enter your user name and password.
+
+3. Select the **Settings** ![Settings](../media/4b83e9cb-c7e4-46c8-b3d1-cfee017123ae.png) icon, then select **Language**.
+
+4. Select the language to use for Office 365, then select **Save**.
 
 For more information, see [Change your contact preferences](change-contact-preferences.md) or [Change your display language](https://support.office.com/article/6f238bff-5252-441e-b32b-655d5d85d15b.aspx).
   
