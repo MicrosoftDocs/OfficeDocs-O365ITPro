@@ -40,7 +40,7 @@ A few Office app features are not available for Office 365 operated by 21Vianet 
 To download the Office app for Android and iOs:
 
 - Download the Office app for Android phones and tablets from the [Google Play Store](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow). 
-- Download the Office app for iPhones through the [App Store](https://products.office.com/en-us/mobile/office?rtc=2). (The Office app for iPad will be available later)
+- Download the Office app for iPhones from the [App Store](https://products.office.com/en-us/mobile/office?rtc=2). (The Office app for iPad will be available later)
 
 ## Security considerations before you download the Office app
 
