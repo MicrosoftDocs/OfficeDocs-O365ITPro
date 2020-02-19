@@ -215,7 +215,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
 
   
 5. Add the other SRV record by choosing the values from the second row of the table. 
-
   
 6. Select **Continue**.
 
