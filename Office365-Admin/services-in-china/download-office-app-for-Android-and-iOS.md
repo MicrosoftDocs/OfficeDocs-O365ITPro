@@ -23,7 +23,7 @@ monikerRange: 'o365-21vianet'
 
 # Office app for Office 365 operated by 21Vianet
 
-The Microsoft Office app combines Word, Excel, and PowerPoint mobile apps into a single app available for download for Android devices and iOS phones. With the Office app you can connect to Office 365 just as you would with the Word, Excel, and PowerPoint mobile apps. The Office app download won't affect any existing installations of Word, Excel, and PowerPoint.
+The Office app combines Word, Excel, and PowerPoint mobile apps into a single app available for download for Android devices and iOS phones. With the Office app you can connect to Office 365 just as you would with the Word, Excel, and PowerPoint mobile apps. The Office app download won't affect any existing installations of Word, Excel, and PowerPoint.
 
 A few Office app features are not available for Office 365 operated by 21Vianet customers:
 - Image to text and Image to table 
