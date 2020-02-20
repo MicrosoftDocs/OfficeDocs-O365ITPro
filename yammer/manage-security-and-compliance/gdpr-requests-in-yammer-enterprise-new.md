@@ -16,6 +16,7 @@ search.appverid:
 - MOE150
 ms.assetid: eae49f12-4661-4ba5-aa72-01248f0709bf
 description: "Erase all information about a Yammer user to comply with GDPR data subject requests."
+ROBOTS: NOINDEX; NOFOLLOW
 ---
 
 # Manage GDPR data subject requests in Yammer Enterprise
@@ -79,7 +80,7 @@ If needed, change the settings to **Hard Delete**.
 |**File** <br/> |**Contents** <br/> |
 |**log.txt** <br/> |Summarizes the number of entries in each .csv file, and lists any errors that occur during the export.  <br/> |
 |**request.txt** <br/> |Parameters use for the export.  <br/> |
-|**Broadcast.csv** <br/>|For any live event video posted by the user, includes the network ID, group ID and name, title, description, links to the video, and additional information about the video. <br><br/>The video content is not included in the export. The video is saved in Microsoft Stream. For GDPR information for Stream, see [Office 365 Data Subject Requests for the GDPR, Stream](https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365#stream)<br/>|
+|**Broadcast.csv** <br/>|For any live event video posted by the user, includes the network ID, group ID and name, title, description, links to the video, and additional information about the video. <br><br/>The video content is not included in the export. The video is saved in Microsoft Stream. For GDPR information for Stream, see [Office 365 Data Subject Requests for the GDPR, Stream](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#stream)<br/>|
 |**Files.csv** <br/> | For any file added or modified by this user from Yammer, lists the Yammer ID, type of file, name, description, and path to the file, along with metadata including the group it was posted in. The storage_path column shows whether the file is stored in Yammer or SharePoint. <br><br/> Files.csv does not contain the actual files.<br><br>Files that are stored in Yammer are exported in their native format to the **Files** folder of the zip file. Files that are stored in SharePoint are not exported. <br><br>The file_ID and path columns in Files.csv can be used to identify the files in the **Files** folder or to go directly to the file in Yammer. For information about how to go directly to a specific file, see [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles).  <br><br> For files that are stored in SharePoint, use the download_url column to download the file. Or, you can use [Content Search in Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search) to find files stored in SharePoint and created or modified by a specific user. <br><br>To delete a file, whether it is saved in Yammer or SharePoint, always delete it from Yammer. This erases the metadata in Yammer as well as the metadata and file in SharePoint. If you delete the file from SharePoint directly, the Yammer metadata still remains.|
 |**Groups.csv** <br/> | For any group created or modified by the user, lists the Yammer group ID, name, description, privacy status, whether the group is internal or external, link to the group, creation date, and updated date. This file also includes the aggregated total number of polls the user voted on, and the polls the user created.  <br/> |
 |**LikedMessages.csv** <br/> | For any message liked by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement. <br/> |
@@ -176,7 +177,7 @@ A user can edit their own profile. Administrators can't change the user profile 
 > When you erase a user, there is a 14-day window for you to decide which files and messages to save or delete in the home network before the user-identifying data is completely erased. If you want to review and delete some or all of the user's messages and files, be sure to export user data and do the deletions before erasing the user's account, or within 14 days after selecting **Erase this user**. After the 14-day window, files and messages will continue to exist but will be marked as belonging to a former user.<br><br>After a user's account transitions from deactivated to removed, you can no longer associate user data with the user, which means you can no longer export and review their data. 
   
 > [!IMPORTANT]
-> If you want to review and delete messages and files in external groups, external threads, and networks that the user is a guest member in, follow the instructions in [Export data for one user](gdpr-requests-in-yammer-enterprise.md#ExportUser) and [Delete specific messages or Yammer files stored in Yammer or SharePoint](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles) *before*  erasing the user. As soon as you click **Erase this user**, you will no longer be able to associate the user with these messages and files. 
+> If you want to review and delete messages and files in external groups, external threads, and networks that the user is a guest member in, follow the instructions in [Delete specific messages or Yammer files stored in Yammer or SharePoint](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles) *before*  erasing the user. As soon as you click **Erase this user**, you will no longer be able to associate the user with these messages and files.
   
 > [!IMPORTANT]
 > Removing a user from their home Yammer network will also remove them from all external networks. You must remove guest users separately in each external network they are a member of. 
@@ -184,43 +185,43 @@ A user can edit their own profile. Administrators can't change the user profile 
 When you erase a user, the following user data is deleted:
   
 - Who the person is following, the connection to conversations and topics they were following, and the connection to users who were following them
-    
+
 - Bookmarks, language preferences, notification settings, and account activity
-    
+
 - Profile
-    
+
 - Group memberships
-    
+
 - The list of networks they were a member of
-    
+
 As an admin, you can erase a user from your home network and from any external networks they belong to. 
   
  **Remove a user (done by admin)**
   
 1. In the Yammer admin center, go to **Users** \> **Remove Users**.
-    
+
 2. Enter an existing user's name. After you select the user, the options for removal are displayed.
-    
+
     ![After you select a name, the remove user options are displayed.](../media/a48da79c-7f5f-479b-8b75-a3e67285c141.png)
   
       - If you want to keep all the user's files and messages, select **Erase this user**.
-    
+
       - If you want to review the user's messages and files, and if you have already reviewed and deleted any messages or files in external groups, threads, or networks the user is a guest member in:
-    
+
         1. Select **Erase this user. Wipe their name and personal information, but leave their messages. (Can't be undone after 14 days):** This deactivates the user for 14 days so that you can export user data and evaluate home network files and messages before the user is permanently deleted.
-            
+
         This option marks the user as deactivated. The deactivated user is listed on the **Remove Users** page. Within 14 days, you can reactivate the user. 
-    
+
         ![Deactivated user list](../media/162b43ed-acd1-4085-8073-b43845c30999.png)
   
         After 14 days, a message is sent to all the networks admins and verified admins informing them the user has been deleted.
-    
+
         2. Click **Submit**.
-        
-        3. In the confirmation dialog, click **Yes, Permanently Delete Account**. 
-    
-        4. Within the 14 days, follow the directions in [Export data for one user](gdpr-requests-in-yammer-enterprise.md#ExportUser) and [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles).
-    
+
+        3. In the confirmation dialog, click **Yes, Permanently Delete Account**.
+
+        4. Within the 14 days, follow the directions in [Delete specific messages or files](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles).
+
   - If you want to delete all a user's messages before you erase the user:
 
       1. Select **Permanently remove this user and remove their messages**, and then click **Submit**.
