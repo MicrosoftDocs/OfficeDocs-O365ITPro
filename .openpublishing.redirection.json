@@ -799,9 +799,9 @@
         "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/microsoft-365-whats-next"
       },
       {
-        "redirect_document_id": true,
         "source_path": "Office365-Admin/TOC.md",
-        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/TOC"
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/TOC",
+        "redirect_document_id": true
       },
       {
         "redirect_document_id": true,
