@@ -72,7 +72,7 @@ Before you use your domain with Office 365, we have to make sure that you own it
 > [!NOTE]
 > This record is used only to verify that you own your domain; it doesn't affect anything else. You can delete it later, if you like. 
   
-1. To get started, go to your domains page at web.com by using [this link](https://checkout.web.com/manage-it/index.jsp). You'll be prompted to log in first.
+1. To get started, go to your domains page at web.com by using [this link](https://checkout.web.com/manage-it/index.jsp). Log in first.
   
 2. On the **Account Manager** page, select **My Domain Names**. 
   
@@ -116,7 +116,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 ## Add an MX record so email for your domain will come to Office 365
 <a name="BKMK_add_MX"> </a>
 
-1. To get started, go to your domains page at web.com by using [this link](https://checkout.web.com/manage-it/index.jsp). You'll be prompted to log in first.
+1. To get started, go to your domains page at web.com by using [this link](https://checkout.web.com/manage-it/index.jsp). Log in first.
   
 2. On the **Account Manager** page, select **My Domain Names**. 
   
@@ -171,7 +171,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 > [!IMPORTANT]
 > You cannot have more than one TXT record for SPF for a domain. If your domain has more than one SPF record, you'll get email errors, as well as delivery and spam classification issues. If you already have an SPF record for your domain, don't create a new one for Office 365. Instead, add the required Office 365 values to the current record so that you have a  *single*  SPF record that includes both sets of values. 
   
-1. To get started, go to your domains page at web.com by using [this link](https://checkout.web.com/manage-it/index.jsp). You'll be prompted to log in first.
+1. To get started, go to your domains page at web.com by using [this link](https://checkout.web.com/manage-it/index.jsp). Log in first.
     
   
 2. On the **Account Manager** page, select **My Domain Names**. 
@@ -198,7 +198,7 @@ When Office 365 finds the correct TXT record, your domain is verified.
 > [!IMPORTANT]
 > Please keep in mind that web.com is responsible for making this functionality available. In case you see discrepancies between the steps below and the current web.com GUI(Graphical User Interface), please leverage the [web.com Community](https://community.web.com.com/). 
 
-1. To get started, go to your domains page at web.com by using [this link](https://checkout.web.com/manage-it/index.jsp). You'll be prompted to log in first.
+1. To get started, go to your domains page at web.com by using [this link](https://checkout.web.com/manage-it/index.jsp). Log in first.
       
 2. On the **Account Manager** page, select **My Domain Names**. 
   
@@ -215,7 +215,6 @@ When Office 365 finds the correct TXT record, your domain is verified.
 
   
 5. Add the other SRV record by choosing the values from the second row of the table. 
-
   
 6. Select **Continue**.
 
