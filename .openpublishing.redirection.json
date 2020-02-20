@@ -801,7 +801,7 @@
       {
         "source_path": "Office365-Admin/TOC.md",
         "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/TOC",
-        "redirect_document_id": true
+        "redirect_document_id": false
       },
       {
         "redirect_document_id": true,
