@@ -2035,11 +2035,6 @@
       },
       {
         "redirect_document_id": true,
-        "source_path": "Office365-Admin/subscriptions-and-billing/index.md",
-        "redirect_url": ""
-      },
-      {
-        "redirect_document_id": true,
         "source_path": "Office365-Admin/subscriptions-and-billing/subscriptions-and-licenses.md",
         "redirect_url": "https://docs.microsoft.com/microsoft-365/commerce/licenses/subscriptions-and-licenses"
       },
