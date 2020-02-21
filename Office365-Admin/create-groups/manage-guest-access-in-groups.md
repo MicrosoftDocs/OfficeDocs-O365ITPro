@@ -6,7 +6,6 @@ f1.keywords:
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: pamgreen
-ms.date: 12/18/2019
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -114,7 +113,7 @@ For more information, see [Allow or block invitations to B2B users from specific
 
 ## Add guests to the global address list
 
-By default, guests aren't visible in the Exchange Global Address List. Use the steps listed below to make a guest visible in the global address list.
+By default, guests aren't visible in the Exchange Global Address List. Use the steps listed below to make a guest visible in the global address list. Be sure the guest is visible in the Exchange Online admin center. New guests may take a short time to appear there after they're added.
 
 Find the guest user's ObjectID by running:
 
@@ -127,9 +126,6 @@ Then run the following using the appropriate values for ObjectID, GivenName, Sur
 ```PowerShell
 Set-AzureADUser -ObjectId cfcbd1a0-ed18-4210-9b9d-cf0ba93cf6b2 -ShowInAddressList $true -GivenName 'Megan' -Surname 'Bowen' -DisplayName 'Megan Bowen' -TelephoneNumber '555-555-5555'
 ```
-> [!Important Note]
-> Above script will not work unless the guest user added is not present in the Exchange Online.
-> If the guest user is recently added then wait for 10-20 minutes for the user to be visible in Exchange Online and then run above script to make the user visible in GAL.
 
 ## Related articles
 
