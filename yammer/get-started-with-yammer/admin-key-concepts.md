@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 01/28/2020
+ms.date: 02/21/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -111,18 +111,20 @@ A: Yammer's system requirements are consistent with those of Office 365. See the
 #### Mobile and desktop requirements
 <a name="bk_MobileDesktop"> </a>
 
-- iOS 12.0 and above
-    
-- Android v5.0 and higher
-    
+- iOS support for two most recent versions
+
+- Android support for last four most recent versions
+
 - Windows 7 SP1 or later
-    
+
 - MAC OS 10.10 or later
-      
+
+For the most up-to-date information, see [Office mobile apps](https://go.microsoft.com/fwlink/?linkid=2119145) 
+
 ### Q: Can I have a Yammer network where some users have Office 365 licenses and some users don't?
 <a name="Requirements"> </a>
 
-A: It depends on whether you configure your Yammer network to enforce Office 365 identity. 
+A: It depends on whether you configure your Yammer network to enforce Office 365 identity.
   
 - If you select the option to enforce Office 365 identity, all users must have a Yammer license through Office 365. For more information, see [Enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md).
     
