@@ -31,13 +31,13 @@ Choose the approach that makes sense for your situation, and **follow the steps 
 |:-----|:-----|
 |**Approach**|**Steps**|
 |Keep all messages and files created by the user.|Remove the user by using the **Erase the user** option. This removes the user from the home network and any external networks they belong to, but does not delete any of their messages or files.|
-|Delete all messages created by the user and decide which files to delete|1. Do one per-user export of the user's data for the home network, and one for each external network they belong to.<br>2. Review files in each external network's export, and delete the files as necessary.<br>3. Remove the user from each network by using the **Permanently remove this user, and remove their messages** option.<br>4. In the home network, use the **Erase the user** option.<br>5. Within 14 days, remove any files stored in Yammer in the home network as necessary, as well as any information not included in the per user export.*|
-|Review files and messages created by the user and decide which to keep and which to delete|1. Do one per-user export of the user's data for the home network, and one for each external networks they belong to.<br>2. Review files and messages in each external network's export, and delete the files and messages as necessary.<br>3. In the home network, use the **Erase this user** option.<br>4. Within 14 days, remove any files or messages as necessary from the home network, as well as any information not included in the per user export.*|
+|Delete all messages created by the user and decide which files to delete|1. Do one per-user export of the user's data for the home network, and one for each external network they belong to.<br>2. Remove the user from each network by using the **Permanently remove this user, and remove their messages** option.<br>3. In the home network, use the **Erase the user** option.<br>4. Within 14 days, remove any files stored in Yammer in the home network as necessary, as well as any information not included in the per user export.*|
+|Review files and messages created by the user and decide which to keep and which to delete|1. Do one per-user export of the user's data for the home network, and one for each external networks they belong to.<br>2. In the home network, use the **Erase this user** option.<br>3. Within 14 days, remove any files or messages as necessary from the home network, as well as any information not included in the per user export.*|
 
  \* If you prefer to have more than 14 days to review and delete files and messages, you can do this prior to erasing the user.
 
 > [!IMPORTANT]
-> Closing an AAD account does not delete the user and their information. For deletion of user information you must go the Yammer admin center and complete the instructions provided below.
+> Closing an AAD account does not delete the user and their information. To delete user information you must go the Yammer admin center and complete the instructions provided below.
 
 <a name="DeleteMessagesFiles"> </a>
 
@@ -75,7 +75,6 @@ The following table shows how to change or delete this data if needed.
 |User settings, including notification, application, and language settings  <br/> |When you select the [Erase a user from your Yammer home network and external networks](gdpr-requests-in-yammer-enterprise.md#RemoveUser) to remove a user from Yammer this information is deleted after the 14-day suspension period. As an admin, you can't change this information for a user.<br><br>A user can change their own settings. For steps, see [Change my Yammer profile and settings](https://support.office.com/article/a3aeca0e-de34-4897-9b59-de6516542851.aspx).  <br/> |
 |User profile  <br/> | If the user has a Yammer identity, there are two options: <br><br/>- When you select the [Erase a user from your Yammer home network and external networks](gdpr-requests-in-yammer-enterprise.md#RemoveUser) to remove the user from Yammer, this information is deleted in Yammer after the 14-day suspension period.<br><br/>- The user has full control of their own profile, and can modify the values. For information, see [Edit the user's profile and settings (done by user)](gdpr-requests-in-yammer-enterprise.md#EditProfile).<br><br/> If the user has an Office 365 identity, the Yammer user profile is pulled automatically from Office 365, which gets the profile information from Azure Active Directory (AAD). Yammer users can temporarily change their profiles in Yammer, but these changes are overwritten when there is a change in AAD, so to permanently change or delete a user's profile, you must change or delete directory data in Office 365 and AAD. See [Manage Yammer users across their lifecycle from Office 365](https://support.office.com/article/365-6c4c8fff-6444-404a-bffc-f9da0bcc3039.aspx) and [Add or change profile information for a user in Azure Active Directory](https://go.microsoft.com/fwlink/?LinkId=871865).  <br/> |
 
-
 <a name="EditProfile"> </a>
 ## Edit the user's profile and settings (done by user)
 
@@ -100,18 +99,19 @@ A user can edit their own profile. Administrators can't change the user profile 
 <a name="RemoveGroup"> </a>
 ## Remove a user from a group including an external group
 
-1. In the group, click **Members**.
+1. In the group, select **Members**.
 
-2. Click the Settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) next to the user's name.
+2. Select the Settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) next to the user's name.
 
-3. Click **Remove from group**.
+3. Select **Remove from group**.
 
 ## Remove an external participant from a conversation
 <a name="RemoveThread"> </a>
 
 - In the Yammer conversation, click **Remove Participants**.
 
-<a name="RemoveUser"> </a>    
+<a name="RemoveUser"> </a>
+
 ## Erase a user from your Yammer home network and external networks
 
 > [!IMPORTANT]
