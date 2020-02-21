@@ -799,11 +799,6 @@
         "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/microsoft-365-whats-next"
       },
       {
-        "source_path": "Office365-Admin/TOC.md",
-        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/TOC",
-        "redirect_document_id": false
-      },
-      {
         "redirect_document_id": true,
         "source_path": "Office365-Admin/try-or-buy-microsoft-365.md",
         "redirect_url": "https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365"
@@ -1037,11 +1032,6 @@
         "redirect_document_id": true,
         "source_path": "Office365-Admin/admin-overview/what-subscription-do-i-have.md",
         "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have"
-      },
-      {
-        "redirect_document_id": true,
-        "source_path": "Office365-Admin/breadcrumb/toc.yml",
-        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/breadcrumb/toc."
       },
       {
         "redirect_document_id": true,
