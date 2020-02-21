@@ -4,14 +4,14 @@
 
       {
         "source_path": "Office365-Admin/subscriptions-and-billing/understand-your-invoice.md",
-        "redirect_url": " https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice2",
+        "redirect_url": " https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2",
         "redirect_document_id": true
       },
 
       {
         "source_path": "Office365-Admin/misc/license-restrictions.md",
-        "redirect_url": " https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/subscriptions-and-billing",
-        "redirect_document_id": false
+        "redirect_url": " https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing",
+        "redirect_document_id": true
       }, 
       {
         "source_path": "Office365-Kaizala/kaizala/reports.md",
@@ -20,18 +20,18 @@
       },
       {
         "source_path": "Office365-Admin/grow-your-small-business/grow-your-small-business.md",
-        "redirect_url": "https://docs.microsoft.com/office365/smallbusiness/build-your-small-business/build-your-small-business",
+        "redirect_url": "https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816",
                 "redirect_document_id": true
       },
       {
         "source_path": "Office365-Admin/grow-your-small-business/tips-to-help-boost-your-business.md",
-        "redirect_url": "https://docs.microsoft.com/office365/smallbusiness/build-your-small-business/tips-to-help-boost-your-business",
-        "redirect_document_id": true
+        "redirect_url": "https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816",
+        "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/grow-your-small-business/previous-webinar-videos.md",
-        "redirect_url": "https://docs.microsoft.com/office365/smallbusiness/build-your-small-business/previous-webinar-videos",
-        "redirect_document_id": true
+        "redirect_url": "https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816",
+        "redirect_document_id": false
       },
       {
         "source_path": "yammer/manage-security-and-compliance/data-residency-eu-geo.md",
@@ -45,7 +45,7 @@
       },
       {
         "source_path": "Office365/Admin/microsoft-365-admin-center-preview.md",
-        "redirect_url": "https://docs.microsoft.com/en-us/Office365/Admin/whats-new-in-preview",
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview",
                 "redirect_document_id": true
       },
       { 
@@ -75,622 +75,622 @@
       },
       {
         "source_path": "Office365-Admin/manage/customer-lockbox-requests.md",
-        "redirect_url": "https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests", 
-        "redirect_document_id": false
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/compliance/customer-lockbox-requests", 
+        "redirect_document_id": true
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-123-reg-co-uk.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": true
       },
       {
         "source_path": "Office365-Admin/services-in-china/change-nameservers-at-22-cn.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/change-nameservers-at-35com.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-aabaco-small-business.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-active24.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-asia-registry.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-azure.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/change-nameservers-at-bizcn.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-blacknight.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-cloudflare.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/change-nameservers-at-cndns.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-crazy-domains.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/change-nameservers-at-dnscom.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-dnsmadeeasy.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/change-nameservers-at-dnspod.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/get-help-with-domains/change-nameservers-at-domain-monster.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-domainexplorer-com.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-domainnameshop.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-dotph.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-dreamhost.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-dyn-com.md",
-        "redirect_url": "https://docs.microsoft.comoffice365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-dynadot.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/change-nameservers-at-east-net.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-easydns.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/change-nameservers-at-e-business-services.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/change-nameservers-at-ename.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-enomcentral.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-europe-registry.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-fasthosts-co-uk.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-freenom.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-freeparking-co-nz.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-gandi-net.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-heart-internet.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/change-nameservers-at-hichina.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-hover.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/change-nameservers-at-idc1.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-ifastnet.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-ip-mirror.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-media-temple.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-melbourne-it.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-myhosting-com.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-name-com.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-names-co-uk.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-nearlyfreespeech-net.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-net4-in.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-netfirms.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-netregistry.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-nic.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-noip.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/change-nameservers-at-now-cn.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-onamae.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-one-com.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/change-nameservers-at-oray.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-ovh.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-register-com.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-register365.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-strato.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/change-nameservers-at-sundns.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-transip.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-united-domains.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/change-nameservers-at-west263.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-whiz-in.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-wix.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/change-nameservers-at-xinnet.md",
-        "redirect_url": "https://docs.microsoft.com/eoffice365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/change-nameservers-at-zgsj.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/change-nameservers-at-yahoo-small-business.md",
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/misc/changes-to-sharepoint-com-dns-service.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": true
       },
       {
         "source_path": "Office365-Admin/misc/configure-domains-for-mobile-device-management.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-22-cn.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-35com.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-aabaco-small-business.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-active24.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-asia-registry.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-bizcn.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-blacknight.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-cndns.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-dnscom.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-dnspod.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-domain-monster.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-domainexplorer-com.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-domainnameshop.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-dotph.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-dynadot.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-east-net.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-easydns.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-e-business-services.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-ename.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-europe-registry.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-fasthosts-co-uk.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-freeparking-co-nz.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-gandi.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-heart-internet.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-hichina.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-idc1.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-ifastnet.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-ip-mirror.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-media-temple.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-melbourne-it.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-myhosting-com.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-nearlyfreespeech-net.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-net4-in.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-netfirms.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-nic.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-noip.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-now-cn.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-onamae.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-one.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-oray.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-rackspace.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-strato.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-sundns.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-transip.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-united-domains.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-west263.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-whiz-in.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-xinnet.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/services-in-china/create-dns-records-at-zgsj.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/misc/early-termination-fees.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription?", 
-        "redirect_document_id": false
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription", 
+        "redirect_document_id": true
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-for-domain-managed-by-google-go-daddy.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/misc/required-dns-records-for-office-365-gcc.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/dns/create-dns-records-at-godaddy-0.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider", 
         "redirect_document_id": false
       },
       {
         "source_path": "Office365-Admin/misc/Add-domain-alchemy.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/admin-home", 
-        "redirect_document_id": false
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/admin-home", 
+        "redirect_document_id": true
       },
       {
         "source_path": "Office365-Admin/services-in-china/initial-partner-onmschina-cn-domain.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/admin/services-in-china/services-in-china", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/services-in-china/services-in-china", 
         "redirect_document_id": false
       },
       {
@@ -699,82 +699,22 @@
         "redirect_document_id": false
       },
       {
-        "source_path": "Office365-Admin/troubleshoot-issues-for-admins/diagnostic-log-collection-in-support-and-recovery-assistant.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/troubleshooting/diagnostic-log-collection-in-support-and-recovery-assistant", 
-        "redirect_document_id": false
-      },
-      {
-        "source_path": "Office365-Admin/troubleshoot-issues-for-admins/distribution-list-issues.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/troubleshooting/distribution-list-issues", 
-        "redirect_document_id": false
-      },
-      {
-        "source_path": "Office365-Admin/troubleshoot-issues-for-admins/remove-an-alias-from-a-contact.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/troubleshooting/remove-an-alias-from-a-contact", 
-        "redirect_document_id": false
-      },
-      {
-        "source_path": "Office365-Admin/troubleshoot-issues-for-admins/remove-an-alias-from-a-distribution-list.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/troubleshooting/remove-an-alias-from-a-distribution-list", 
-        "redirect_document_id": false
-      },
-      {
-        "source_path": "Office365-Admin/troubleshoot-issues-for-admins/remove-an-alias-from-a-group.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/troubleshooting/remove-an-alias-from-a-group", 
-        "redirect_document_id": false
-      },
-      {
-        "source_path": "Office365-Admin/troubleshoot-issues-for-admins/remove-an-alias-from-a-mail-enabled-security-group.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/troubleshooting/remove-an-alias-from-a-mail-enabled-security-group", 
-        "redirect_document_id": false
-      },
-      {
-        "source_path": "Office365-Admin/troubleshoot-issues-for-admins/remove-an-alias-from-a-shared-mailbox.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/troubleshooting/remove-an-alias-from-a-shared-mailbox", 
-        "redirect_document_id": false
-      },
-      {
-        "source_path": "Office365-Admin/troubleshoot-issues-for-admins/remove-an-email-alias.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/troubleshooting/remove-an-email-alias", 
-        "redirect_document_id": false
-      },
-      {
-        "source_path": "Office365-Admin/troubleshoot-issues-for-admins/troubleshoot-email-issues.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/troubleshooting/troubleshoot-email-issues", 
-        "redirect_document_id": false
-      },
-      {
-        "source_path": "Office365-Admin/troubleshoot-issues-for-admins/troubleshoot-issues-for-admins.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/troubleshooting/troubleshoot-issues-for-admins", 
-        "redirect_document_id": false
-      },
-      {
-        "source_path": "Office365-Admin/troubleshoot-issues-for-admins/troubleshoot-office-installation-issues.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/troubleshooting/troubleshoot-office-installation-issues", 
-        "redirect_document_id": false
-      },
-      {
-        "source_path": "Office365-Admin/troubleshoot-issues-for-admins/user-not-seeing-add-ins.md", 
-        "redirect_url": "https://docs.microsoft.com/office365/troubleshoot/troubleshooting/user-not-seeing-add-ins", 
-        "redirect_document_id": false
-      },
-      {
         "source_path": "Office365-Admin/subscriptions-and-billing/assign-licenses-to-users.md", 
-        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/manage/assign-licenses-to-users", 
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/add-users/add-users", 
         "redirect_document_id": true
       },
       {
         "source_path": "Office365-Admin/subscriptions-and-billing/remove-licenses-from-users.md", 
-        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/manage/remove-licenses-from-users", 
-        "redirect_document_id": false
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user", 
+        "redirect_document_id": true
       },
       {
         "source_path": "Office365-Admin/subscriptions-and-billing/resolve-license-conflicts.md", 
-        "redirect_url": "https://docs.microsoft.com/en-us/office365/admin/manage/resolve-license-conflicts", 
-        "redirect_document_id": false
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/manage/resolve-license-conflicts", 
+        "redirect_document_id": true
       },
       {
-        "redirect_document_id": true,
+        "redirect_document_id": false,
         "source_path": "Office365-Admin/admin-home.md",
         "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/admin-home"
       },
@@ -804,7 +744,7 @@
         "redirect_url": "https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365"
       },
       {
-        "redirect_document_id": true,
+        "redirect_document_id": false,
         "source_path": "Office365-Admin/whats-new-in-preview.md",
         "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview"
       },
@@ -909,7 +849,7 @@
         "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/add-users/add-new-employee"
       },
       {
-        "redirect_document_id": true,
+        "redirect_document_id": false,
         "source_path": "Office365-Admin/add-users/add-users.md",
         "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/add-users/add-users"
       },
@@ -939,7 +879,7 @@
         "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/add-users/create-edit-or-delete-a-custom-user-view"
       },
       {
-        "redirect_document_id": true,
+        "redirect_document_id": false,
         "source_path": "Office365-Admin/add-users/delete-a-user.md",
         "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user"
       },
@@ -1404,12 +1344,12 @@
         "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name"
       },
       {
-        "redirect_document_id": true,
+        "redirect_document_id": false,
         "source_path": "Office365-Admin/get-help-with-domains/change-nameservers-at-any-domain-registrar.md",
         "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar"
       },
       {
-        "redirect_document_id": true,
+        "redirect_document_id": false,
         "source_path": "Office365-Admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider.md",
         "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider"
       },
@@ -1549,7 +1489,7 @@
         "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users"
       },
       {
-        "redirect_document_id": true,
+        "redirect_document_id": false,
         "source_path": "Office365-Admin/manage/resolve-license-conflicts.md",
         "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/manage/resolve-license-conflicts"
       },
@@ -2034,7 +1974,7 @@
         "redirect_url": "https://docs.microsoft.com/microsoft-365/commerce/subscriptions/back-up-data-before-switching-plans"
       },
       {
-        "redirect_document_id": true,
+        "redirect_document_id": false,
         "source_path": "Office365-Admin/subscriptions-and-billing/cancel-your-subscription.md",
         "redirect_url": "https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription"
       },
@@ -4097,6 +4037,31 @@
         "redirect_document_id": true,
         "source_path": "Office365-Admin/usage-analytics/usage-analytics.md",
         "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/usage-analytics/usage-analytics"
+      },
+      {
+        "redirect_document_id": false,
+        "source_path": "Office365-SmallBusiness/build-your-small-business/build-your-small-business.md",
+        "redirect_url": "https://support.office.com/en-us/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816"
+      },
+      {
+        "redirect_document_id": false,
+        "source_path": "Office365-SmallBusiness/build-your-small-business/previous-webinar-videos.md",
+        "redirect_url": "https://support.office.com/en-us/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816"
+      },
+      {
+        "redirect_document_id": false,
+        "source_path": "Office365-SmallBusiness/build-your-small-business/security-guide.md",
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/security-guide"
+      },
+      {
+        "redirect_document_id": false,
+        "source_path": "Office365-SmallBusiness/build-your-small-business/tips-to-help-boost-your-business.md",
+        "redirect_url": "https://support.office.com/en-us/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816"
+      },
+      {
+        "redirect_document_id": false,
+        "source_path": "Office365-SmallBusiness/build-your-small-business/what-s-trending.md",
+        "redirect_url": "https://support.office.com/en-us/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816"
       }
   ]
 }
