@@ -7,7 +7,6 @@ author: efrene
 manager: pamgreen
 ms.date: 08/14/2019
 audience: Admin
-layout: LandingPage
 ms.topic: Overview
 ms.service: o365-administration
 localization_priority: Priority
