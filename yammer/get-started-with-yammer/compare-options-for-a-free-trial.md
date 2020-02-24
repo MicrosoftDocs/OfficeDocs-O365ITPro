@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 9/23/2019
+ms.date: 02/24/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -18,6 +18,7 @@ search.appverid:
 ms.assetid: 56b68dcc-ecd7-4311-bbc8-0e96e40244b3
 
 description: "Compare the two options for a free Yammer trial: Yammer Basic and Yammer Enterprise."
+ROBOTS: NOINDEX, NOFOLLOW
 ---
 
 # Compare options for a free trial of Yammer
