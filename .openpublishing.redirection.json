@@ -1546,17 +1546,17 @@
       {
         "redirect_document_id": true,
         "source_path": "Office365-Admin/misc/add-partner.md",
-        "redirect_url": "https://docs.microsoft.com/microsoft-365/misc/add-partner"
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/misc/add-partner"
       },
       {
         "redirect_document_id": true,
         "source_path": "Office365-Admin/misc/become-admin-and-make-purchases.md",
-        "redirect_url": "https://docs.microsoft.com/microsoft-365/misc/become-admin-and-make-purchases"
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/misc/become-admin-and-make-purchases"
       },
       {
         "redirect_document_id": true,
         "source_path": "Office365-Admin/misc/become-the-admin.md",
-        "redirect_url": "https://docs.microsoft.com/microsoft-365/misc/become-the-admin"
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/misc/become-the-admin"
       },
       {
         "redirect_document_id": true,
@@ -1566,37 +1566,37 @@
       {
         "redirect_document_id": true,
         "source_path": "Office365-Admin/misc/compare-ways-to-block-access.md",
-        "redirect_url": "https://docs.microsoft.com/microsoft-365/misc/compare-ways-to-block-access"
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/misc/compare-ways-to-block-access"
       },
       {
         "redirect_document_id": true,
         "source_path": "Office365-Admin/misc/contacts.md",
-        "redirect_url": "https://docs.microsoft.com/microsoft-365/misc/contacts"
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/misc/contacts"
       },
       {
         "redirect_document_id": true,
         "source_path": "Office365-Admin/misc/cortana-integration.md",
-        "redirect_url": "https://docs.microsoft.com/microsoft-365/misc/cortana-integration"
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/misc/cortana-integration"
       },
       {
         "redirect_document_id": true,
         "source_path": "Office365-Admin/misc/customize-help-desk.md",
-        "redirect_url": "https://docs.microsoft.com/microsoft-365/misc/customize-help-desk"
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/misc/customize-help-desk"
       },
       {
         "redirect_document_id": true,
         "source_path": "Office365-Admin/misc/deleted-user.md",
-        "redirect_url": "https://docs.microsoft.com/microsoft-365/misc/deleted-user"
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/misc/deleted-user"
       },
       {
         "redirect_document_id": true,
         "source_path": "Office365-Admin/misc/deleted-users-checklist.md",
-        "redirect_url": "https://docs.microsoft.com/microsoft-365/misc/deleted-users-checklist"
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/misc/deleted-users-checklist"
       },
       {
         "redirect_document_id": true,
         "source_path": "Office365-Admin/misc/device-list.md",
-        "redirect_url": "https://docs.microsoft.com/microsoft-365/misc/device-list"
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/misc/device-list"
       },
       {
         "redirect_document_id": true,
@@ -1626,7 +1626,7 @@
       {
         "redirect_document_id": true,
         "source_path": "Office365-Admin/misc/password-policy-recommendations.md",
-        "redirect_url": "https://docs.microsoft.com/microsoft-365/misc/password-policy-recommendations"
+        "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/misc/password-policy-recommendations"
       },
       {
         "redirect_document_id": true,
