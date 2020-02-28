@@ -276,8 +276,7 @@ Build communities and collaboration in your organization with Yammer.
                         <p><a href="/en-us/Yammer/get-started-with-yammer/admin-key-concepts" data-linktype="absolute-path">Admin key concepts</a></p>       <p><a href="/en-us/Yammer/get-started-with-yammer/admin-quick-start" data-linktype="absolute-path">Admin quick start</a></p>
                         <p><a href="https://support.office.com/en-us/yammer" data-linktype="absolute-path">File storage overview</a></p>
                         <p><a href="/en-us/Yammer/get-started-with-yammer/file-storage" data-linktype="absolute-path">Yammer end-user help</a></p>        
-                        <p><a href="/en-us/Yammer/get-started-with-yammer/compare-options-for-a-free-trial" data-linktype="absolute-path">Free trial options</a></p> 
-                         <p><a href="https://resources.techcommunity.microsoft.com/yammer-adoption-resources/" data-linktype="absolute-path">Yammer adoption resources</a></p>                          <p><a href="https://www.microsoft.com/en-us/microsoft-365/success/?products=yammer&rtc=2" data-linktype="absolute-path">Microsoft 365 productivity library</a></p>     
+                        <p><a href="https://resources.techcommunity.microsoft.com/yammer-adoption-resources/" data-linktype="absolute-path">Yammer adoption resources</a></p>                          <p><a href="https://www.microsoft.com/en-us/microsoft-365/success/?products=yammer&rtc=2" data-linktype="absolute-path">Microsoft 365 productivity library</a></p>     
                     </div>
                 </div>
             </div>

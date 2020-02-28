@@ -94,9 +94,7 @@ This article describes the key concepts you should know, and key decisions you s
 11. Learn more.
     
     To learn about all the admin features of Yammer, see [Yammer admin help](../yammer-landing-page.md).
-    
-    To learn about free trials of Yammer, go to [Compare options for a free trial of Yammer](compare-options-for-a-free-trial.md).
-    
+     
 ## FAQs
 <a name="Activation"> </a>
 
