@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 02/21/2020
+ms.date: 02/28/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -132,7 +132,6 @@ A: It depends on whether you configure your Yammer network to enforce Office 365
     
     There are some differences in how you manage these users: their profile won't be automatically filled in, and you can't block them by removing their Yammer license. These users can be made admins, create groups, and use all basic Yammer features. If they are made admins, they have to get to the Yammer admin center by clicking the **Settings** icon in Yammer, and selecting **Network Admin**.
 
-- Users need a Yammer Enterprise license to use [Yammer Enterprise features](https://docs.microsoft.com/yammer/get-started-with-yammer/compare-options-for-a-free-trial).
     
 ### Q: What are the limitations of Yammer (number of users, networks, documents, storage, access, and so on)?
 <a name="Requirements"> </a>
