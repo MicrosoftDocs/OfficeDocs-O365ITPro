@@ -18,7 +18,6 @@ ms.date: 02/28/20
 
 Build communities and collaboration in your organization with Yammer.
 
-
 <ul class="panelContent cardsFTitle">
     <li>
         <a href="  ">
@@ -179,7 +178,7 @@ Build communities and collaboration in your organization with Yammer.
                 </div>
             </div>
         </div>
-    </li> 
+    </li>
 
    <li>
         <div class="cardSize">
@@ -261,7 +260,6 @@ Build communities and collaboration in your organization with Yammer.
             </div>
         </div>
     </li>
-    
 
 </ul>
 <hr>
@@ -273,10 +271,11 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardText">
                         <h3>Get started with Yammer</h3>
-                        <p><a href="/Yammer/get-started-with-yammer/admin-key-concepts" data-linktype="absolute-path">Admin key concepts</a></p>       <p><a href="Yammer/get-started-with-yammer/admin-quick-start" data-linktype="absolute-path">Admin quick start</a></p>
+                        <p><a href="/Yammer/get-started-with-yammer/admin-key-concepts" data-linktype="absolute-path">Admin key concepts</a></p>
+                        <p><a href="/Yammer/get-started-with-yammer/admin-quick-start" data-linktype="absolute-path">Admin quick start</a></p>
                         <p><a href="https://support.office.com/yammer" data-linktype="absolute-path">File storage overview</a></p>
-                        <p><a href="/Yammer/get-started-with-yammer/file-storage" data-linktype="absolute-path">Yammer end-user help</a></p>        
-                        <p><a href="https://resources.techcommunity.microsoft.com/yammer-adoption-resources/" data-linktype="absolute-path">Yammer adoption resources</a></p>                          <p><a href="https://www.microsoft.com/microsoft-365/success/?products=yammer&rtc=2" data-linktype="absolute-path">Microsoft 365 productivity library</a></p>     
+                        <p><a href="/Yammer/get-started-with-yammer/file-storage" data-linktype="absolute-path">Yammer end-user help</a></p>
+                        <p><a href="https://resources.techcommunity.microsoft.com/yammer-adoption-resources/" data-linktype="absolute-path">Yammer adoption resources</a></p>                          <p><a href="https://www.microsoft.com/microsoft-365/success/?products=yammer&rtc=2" data-linktype="absolute-path">Microsoft 365 productivity library</a></p>
                     </div>
                 </div>
             </div>
@@ -287,12 +286,12 @@ Build communities and collaboration in your organization with Yammer.
                 <div class="card">
                     <div class="cardText">
                         <h3>Configure Yammer</h3>
-                        <p><a href="/Yammer/configure-your-yammer-network/configure-yammer" data-linktype="absolute-path">Configure Yammer</a></p> 
-                        <p><a href="/Yammer/configure-your-yammer-network/customize-the-look-of-yammer" data-linktype="absolute-path">Customize the look</a></p> 
-                        <p><a href="/Yammer/configure-your-yammer-network/configure-email-and-yammer" data-linktype="absolute-path">Configure email and Yammer</a></p> 
-                        <p><a href="/Yammer/configure-your-yammer-network/enforce-office-365-identity" data-linktype="absolute-path">Enforce Office 365 identity</a></p> 
+                        <p><a href="/Yammer/configure-your-yammer-network/configure-yammer" data-linktype="absolute-path">Configure Yammer</a></p>
+                        <p><a href="/Yammer/configure-your-yammer-network/customize-the-look-of-yammer" data-linktype="absolute-path">Customize the look</a></p>
+                        <p><a href="/Yammer/configure-your-yammer-network/configure-email-and-yammer" data-linktype="absolute-path">Configure email and Yammer</a></p>
+                        <p><a href="/Yammer/configure-your-yammer-network/enforce-office-365-identity" data-linktype="absolute-path">Enforce Office 365 identity</a></p>
                         <p><a href="/Yammer/configure-your-yammer-network/yammer-and-office-365" data-linktype="absolute-path">Yammer networks and Office 365 tenants</a></p> 
-                        <p><a href="/Yammer/configure-your-yammer-network/manage-yammer-domains" data-linktype="absolute-path">Manage Yammer domains</a></p> 
+                        <p><a href="/Yammer/configure-your-yammer-network/manage-yammer-domains" data-linktype="absolute-path">Manage Yammer domains</a></p>
                         <p><a href="/Yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks" data-linktype="absolute-path">Consolidate multiple networks</a></p> <p><a href="/Yammer/configure-your-yammer-network/FAQ-consolidate-multiple-yammer-networks" data-linktype="absolute-path">FAQ: Consolidating multiple networks</a></p>               
                     </div>
                 </div>
