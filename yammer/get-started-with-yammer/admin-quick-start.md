@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 9/23/2019
+ms.date: 02/28/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -39,11 +39,6 @@ You can also click **Start Here** to go to the Yammer Success Site, your resourc
   
 ## Ready for more?
 
-Get an overview of key concepts and first steps to setting up your Yammer network with [Yammer admin key concepts](admin-key-concepts.md). 
+Get an overview of key concepts and first steps to setting up your Yammer network with [Yammer admin key concepts](admin-key-concepts.md).
   
 For links to everything you need to administer your network, see [Yammer admin help](../yammer-landing-page.md).
-  
-## Related articles
-
-[Compare options for a free trial of Yammer](compare-options-for-a-free-trial.md)
-
