@@ -23,7 +23,7 @@ description: "Erase all information about a Yammer user to comply with GDPR data
 As a verified admin, you can erase a user from Yammer to comply with a [General Data Protection Regulation (GDPR) data subject request](https://go.microsoft.com/fwlink/?linkid=874693). When you erase a user, personally identifying information about the user is removed. This does not remove the user's messages or files. You can review a user's messages and files in order to decide which ones to delete. Any content associated with the user that remains will be identified with an ID, but not with the user's name.
 
 > [!IMPORTANT]
-> Before deleting data or erasing a user to honor a GDPR data subject request, your network data retention setting must be set to **Hard Delete**.
+> Before deleting data or erasing a user to honor a GDPR data subject request, your network data retention setting must be set to **GDPR Hard Delete**.
 
 Choose the approach that makes sense for your situation, and **follow the steps in the order listed**. The order matters: once you erase a user you can no longer find their data to delete it.
 
@@ -32,7 +32,7 @@ Choose the approach that makes sense for your situation, and **follow the steps 
 |**Approach**|**Steps**|
 |Keep all messages and files created by the user.|Remove the user by using the **Erase the user** option. This removes the user from the home network and any external networks they belong to, but does not delete any of their messages or files.|
 |Delete all messages created by the user and decide which files to delete|1. Do one per-user export of the user's data for the home network, and one for each external network they belong to.<br>2. Remove the user from each network by using the **Permanently remove this user, and remove their messages** option.<br>3. In the home network, use the **Erase the user** option.<br>4. Within 14 days, remove any files stored in Yammer in the home network as necessary, as well as any information not included in the per user export.*|
-|Review files and messages created by the user and decide which to keep and which to delete|1. Do one per-user export of the user's data for the home network, and one for each external networks they belong to.<br>2. In the home network, use the **Erase this user** option.<br>3. Within 14 days, remove any files or messages as necessary from the home network, as well as any information not included in the per user export.*|
+|Review files and messages created by the user and decide which to keep and which to delete|1. Do one per-user export of the user's data for the home network, and one for each external networks they belong to. <br>2. In the home network, use the **Erase this user** option. <br>3. Within 14 days, remove any files or messages as necessary from the home network, as well as any information not included in the per user export.*|
 
  \* If you prefer to have more than 14 days to review and delete files and messages, you can do this prior to erasing the user.
 
@@ -52,7 +52,7 @@ Use the Yammer file ID from the export to go directly to the file in Yammer and 
 
 1. Build the URL for the message. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**Threads**/**show?threadId=** *thread_id*. For example, http&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/threads/show?threadID=135893.
   
-2. In the message, click the **More** icon ![More icon (...)](../media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **Delete**.
+2. In the message, click the **More** icon ![More icon (...)](../media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **GDPR Hard Delete**.
 
 **To locate and delete a specific Yammer file stored in Yammer or SharePoint:**
 
