@@ -1,4 +1,4 @@
-# [MileIQ home](mileiq-home.md)
+# [MileIQ home](index.yml)
 ## Overview
 ### [Give access](give-access-mileiq-admin-center.md)
 ### [Invite users](invite-users.md)
