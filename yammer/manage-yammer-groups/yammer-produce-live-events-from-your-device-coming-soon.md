@@ -21,12 +21,12 @@ ms.assetid: 4ece0ee2-c268-4636-bf2a-16e454befe57
 description: "Learn what's needed for Yammer users to  schedule AND view a live event produced using Teams IN Yammer."
 ---
 
-# Produce Yammer live events from your device [coming soon!]
+# Produce Yammer live events from your device [available now]
 
 
 ## What is new about Yammer live events?
 
-Live events produced using Teams can now be scheduled and viewed in Yammer! This is one of the largest customer asks we have and we’re excited to release this new functionality.
+Live events produced using Teams can now be scheduled and viewed in Yammer! This is one of the largest customer asks we have and we're excited to release this new functionality.
 
 ## Benefits
 
@@ -48,7 +48,7 @@ For the full list of features, see [Overview of live events](yammer-live-events.
 2. Share the event from Yammer
 ![yam-](../media/yam-live-event-share-screen.png)
 
-3. When it’s time to go live, produce/present from Teams as usual
+3. When it's time to go live, produce/present from Teams as usual
 ![yam-](../media/yam-open-teams-app.png)
 ![yam-](../media/yam-teams-join.png)
 ![yam-pre](../media/yam-pre-live.png)
@@ -58,7 +58,7 @@ For the full list of features, see [Overview of live events](yammer-live-events.
 
 ### What is the difference between this feature and what is available in GA today?
 
-The main benefit of this feature is that all attendees can view a Teams-produced event in Yammer. We’ve worked with Teams and Stream to make this available for our Yammer customers. Now, event organizers can schedule their event in Yammer, produce it using Teams, but view it in Yammer.
+The main benefit of this feature is that all attendees can view a Teams-produced event in Yammer. We've worked with Teams and Stream to make this available for our Yammer customers. Now, event organizers can schedule their event in Yammer, produce it using Teams, but view it in Yammer.
 
 A few things to note:
 
@@ -68,7 +68,7 @@ A few things to note:
 
 - Analytics are available in Stream (rather than Teams)
 
-- The event will not automatically be added to a producers/presenters’ calendar at this time (under active investigation)
+- The event will not automatically be added to a producers/presenters' calendar at this time (under active investigation)
 
 ### Who can use this feature?
 
@@ -106,7 +106,7 @@ Viewers who are part of the community which the event is in.
 
 |**Feature**|**Produced using Teams**|**Produced using Encoder**|**More info**|
 |----------|----------|----------|----------|
-|Analytics|Yes|Yes|See [Analytics about your live event in Microsoft Stream](https://docs.microsoft.com/stream/ecdn). See [Monitor your event](https://docs.microsoft.com/yammer/manage-security-and-compliance/track-yammer-events) for more information|
+|Analytics|Yes|Yes|See [Analytics about your live event in Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview). See [Monitor your event](https://docs.microsoft.com/yammer/manage-security-and-compliance/track-yammer-events) for more information|
 |Schedule in Yammer|Yes|Yes|N/A|
 |Produce in Yammer|No|Yes|N/A|
 |Attendees view event in Yammer|Yes|Yes|N/A|
