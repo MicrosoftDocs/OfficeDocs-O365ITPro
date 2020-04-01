@@ -60,8 +60,8 @@
 ### [Create a dynamic group](manage-yammer-groups/create-a-dynamic-group.md)
 ### [Customize your network](manage-yammer-groups/customize-your-network.md)
 ### [Customize your Yammer community](manage-yammer-groups/customize-your-yammer-community.md)
-### [All Company will work like other Yammer communities](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)
 ### [Favorite communities](manage-yammer-groups/favorite-communities.md)
+### [All Company will work like other Yammer communities](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)
 ### [Office 365 groups naming policy](https://docs.microsoft.com/office365/admin/create-groups/groups-naming-policy)
 ### [Export members to CSV](https://support.office.com/article/201a78fd-67b8-42c3-9247-79e79f92b535)
 ## Live events in Yammer
@@ -69,7 +69,7 @@
 ### [Live event FAQ](https://support.office.com/article/43bbd59d-a734-4c8f-923d-6a239d137d34)
 ### [Drive engagement](https://support.office.com/article/c0244ad8-6dcb-419c-add9-2e4a00543412)
 ### [Organize a live event](https://support.office.com/article/105dd7af-9caf-4a5e-8a44-56d203e96551)
-### [Produce Yammer live events from your device [coming soon!]](manage-yammer-groups/yammer-produce-live-events-from-your-device-coming-soon.md)
+### [Produce Yammer live events from your device [available now](manage-yammer-groups/yammer-produce-live-events-from-your-device-coming-soon.md)
 ### [Get help producing an event](https://support.office.com/article/0cedb557-cbe4-40d3-8147-112633f087eb)
 ## Monitor Yammer usage
 ### [Yammer activity report](https://docs.microsoft.com/office365/admin/activity-reports/yammer-activity-report)
