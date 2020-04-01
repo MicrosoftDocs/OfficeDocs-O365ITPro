@@ -90,5 +90,6 @@
 ### [Limited functionality in Explorer 10 document mode](troubleshoot-problems/limited-functionality-in-explorer-10-document-mode.md)
 ### [Upgrade your network to stand-alone Yammer](troubleshoot-problems/upgrade-your-network-to-stand-alone-yammer.md)
 ### [Can't migrate Yammer network across Office 365 tenants](troubleshoot-problems/cannot-migrate-a-yammer-network-across-office-365-tenants.md)
-### [Issue when clicking Yammer tile in Office 365](troubleshoot-problems/error-when-click-the-yammer-tile-in-office-365.md)
 ### [Yammer users displayed as "Former member"](troubleshoot-problems/yammer-user-is-displayed-as-former-member.md)
+### [Issue when clicking Yammer tile in Office 365](troubleshoot-problems/error-when-click-the-yammer-tile-in-office-365.md)
+
