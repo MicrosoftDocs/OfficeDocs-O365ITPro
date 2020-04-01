@@ -56,6 +56,8 @@ The process for confirming that All Company is connected will work the same as i
 
 In network admins settings, if you select **Enforce Office 365 Identity** then your network will have an All Company community that is connected. If you do not select this, then All Company will still not be connected after this change.
 
+! [Office 365 Identity Enforcement](../media/710d82b4-a6fa-43bf-b609-8f2fc80fab52.png)
+
 ## If the All Company community is connected, what should I be aware of?
 
 - All Company can be deleted in AAD. It will go through soft-delete and then hard-delete like other communities.
