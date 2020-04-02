@@ -93,4 +93,3 @@
 ### [Issue when clicking Yammer tile in Office 365](troubleshoot-problems/error-when-click-the-yammer-tile-in-office-365.md)
 ### [Yammer users displayed as "Former member"](troubleshoot-problems/yammer-user-is-displayed-as-former-member.md)
 
-
