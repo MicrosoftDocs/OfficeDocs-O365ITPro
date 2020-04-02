@@ -47,7 +47,7 @@
 ### [Turn off user access](manage-yammer-users/turn-off-user-access.md)
 ## Work with external users
 ### [Create and manage an external network](work-with-external-users/create-and-manage-an-external-network.md)
-### [Add external participants](work-with-external-users/add-external-participants.md)
+### [Add external messaging participants](work-with-external-users/add-external-participants.md)
 ### [Create and manage external groups](work-with-external-users/create-and-manage-external-groups.md)
 ### [Find external participants](work-with-external-users/find-external-participants.md)
 ### [Disable external messaging](work-with-external-users/disable-external-messaging.md)
