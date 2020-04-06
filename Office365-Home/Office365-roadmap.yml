@@ -1,0 +1,111 @@
+### YamlMime:Landing
+
+title: Office 365 content roadmap # < 60 chars
+summary: This roadmap guides you through the content for Office 365. # < 160 chars
+
+metadata:
+  title: Office 365 content roadmap # Required; page title displayed in search results. Include the brand. < 60 chars.
+  description: This roadmap guides you through the content for Office 365. # Required; article description that is displayed in search results. < 160 chars.
+  ms.service: office365 #Required; service per approved list. service slug assigned to your service by ACOM.
+  ms.topic: landing-page # Required
+  author: samanro #Required; your GitHub user alias, with correct capitalization.
+  ms.author: samanro #Required; microsoft alias of author; optional team alias.
+  ms.date: 03/19/2020 #Required; mm/dd/yyyy format.
+
+# linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
+
+landingContent:
+# Cards and links should be based on top customer tasks or top subjects
+# Start card title with a verb
+  # Card (optional)
+  - title: Understand Office 365
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: Office 365 for enterprises
+            url: https://go.microsoft.com/fwlink/?linkid=2090441
+          - text: Office 365 for small businesses
+            url: https://go.microsoft.com/fwlink/?linkid=856675
+          - text: Office 365 for education and students
+            url: https://go.microsoft.com/fwlink/?linkid=2090340
+
+  # Card (optional)
+  - title: Evaluate and buy
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: Office 365 plan options
+            url: https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options
+          - text: Office 365 Small Business Solutions Guided Tour
+            url: https://www.microsoft.com/microsoft-365/business/small-business-solutions
+          - text: Plans and pricing for enterprises
+            url: https://go.microsoft.com/fwlink/?linkid=843151
+          - text: Plans and pricing for businesses
+            url: https://go.microsoft.com/fwlink/?linkid=856886
+          - text: Plans and pricing for education and students
+            url: https://go.microsoft.com/fwlink/?linkid=824860
+
+  # Card (optional)
+  - title: Onboard to Office 365
+    linkLists:
+      - linkListType: deploy
+        links:
+          - text: Deploy and manage Office 365 for enterprises
+            url: https://docs.microsoft.com/office365/enterprise/get-your-organization-ready-for-office-365
+          - text: Deploy and manage Office 365 for your small business
+            url: https://go.microsoft.com/fwlink/?linkid=856680
+          - text: Office 365 Education Self-Sign up
+            url: https://go.microsoft.com/fwlink/?linkid=512065
+          - text: Office 365 administrator documation
+            url: https://go.microsoft.com/fwlink/?linkid=856886
+  
+  # Card (optional)
+  - title: Learn about Office 365
+    linkLists:
+      - linkListType: video
+        links:
+          - text: Office 365 basics - video training
+            url: https://go.microsoft.com/fwlink/?linkid=511828
+          - text: Set up your small business
+            url: https://go.microsoft.com/fwlink/?linkid=2088352
+      - linkListType: whats-new
+        links:
+          - text: What's new in Office 365?
+            url: https://go.microsoft.com/fwlink/?linkid=733686
+          - text: When do I get the newest features?
+            url: https://go.microsoft.com/fwlink/?linkid=2090530
+          - text: Stay on top of Office 365 changes
+            url: https://docs.microsoft.com/office365/admin/manage/stay-on-top-of-updates
+      - linkListType: learn
+        links:
+          - text: Office 365 Training Center
+            url: https://go.microsoft.com/fwlink/?linkid=871123
+          - text: Start With 6 simple steps
+            url: https://go.microsoft.com/fwlink/?linkid=856680
+          - text: Learning templates for Word, Excel, and PowerPoint
+            url: https://go.microsoft.com/fwlink/?linkid=2090345
+          - text: Office 365 certifications
+            url: https://go.microsoft.com/fwlink/?linkid=2090343
+          - text: Education help center
+            url: https://go.microsoft.com/fwlink/?linkid=2090445
+  
+  # Card (optional)
+  - title: Engage with Microsoft
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: Office 365 on Twitter
+            url: https://go.microsoft.com/fwlink/?linkid=2090228
+          - text: OfficeSmallBiz on Twitter
+            url: https://go.microsoft.com/fwlink/?linkid=2090533
+          - text: MicrosoftEDU on Twitter
+            url: https://go.microsoft.com/fwlink/?linkid=2090230
+          - text: Office 365 Tech Community
+            url: https://go.microsoft.com/fwlink/?linkid=845579          
+          - text: Office 365 blog on Microsoft Tech Community
+            url: https://go.microsoft.com/fwlink/?linkid=852873
+          - text: OOffice 365 for business blog
+            url: https://go.microsoft.com/fwlink/?linkid=2090229/
+          - text: What's new in EDU blog
+            url: https://go.microsoft.com/fwlink/?linkid=2090532 
+          

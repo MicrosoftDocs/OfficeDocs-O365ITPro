@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: v-teflor
 author: TeresaFG-writer
 manager: pamgreen
-ms.date: 11/18/2019
+ms.date: 02/28/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -57,8 +57,6 @@ Below is a set of actions we immediately take after you add a domain. Also, ther
 ## Additional information
 
 - To learn what to do when a domain associated with a Basic Yammer network is added to your Office 365 tenant, see [Manage Yammer domains in Office 365](manage-yammer-domains.md).
-
-- To understand the difference between Yammer Basic and Yammer Enterprise networks, see [Compare options for a free trial of Yammer](../get-started-with-yammer/compare-options-for-a-free-trial.md).
 
 ## Related articles
 
