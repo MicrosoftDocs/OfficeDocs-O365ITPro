@@ -102,7 +102,8 @@ Four (4) hours.
 
 ### Who can watch a live event?
 
-Viewers who are part of the community which the event is in.
+- In a private community, only users who are part of the event can view the event.
+- In a public community, attendees who are part of the community and any other tenant community members who come to the event page can view the event.
 
 |**Feature**|**Produced using Teams**|**Produced using Encoder**|**More info**|
 |----------|----------|----------|----------|
