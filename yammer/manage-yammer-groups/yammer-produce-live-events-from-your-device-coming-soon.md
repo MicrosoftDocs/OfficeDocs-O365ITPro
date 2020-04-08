@@ -30,12 +30,12 @@ Live events produced using Teams can now be scheduled and viewed in Yammer! This
 
 ## Benefits
 
-- Schedule live events directly within Yammer (takes less than 30 seconds end-to-end)
-- Attendees can view a Teams produced event in Yammer (for all events scheduled from Yammer)
-- Use Teams to produce your live event (no external app or device!)
-- Get access to all the analytics available from Microsoft Stream
-- Question and Answer + regular Yammer events feed is available
-- All events are stored in Stream (and are searchable there, like any other live event)
+- Schedule live events directly within Yammer (takes less than 30 seconds end-to-end).
+- Attendees can view a Teams produced event in Yammer (for all events scheduled from Yammer).
+- Use Teams to produce your live event—without an external app or device!
+- Get access to all the analytics available from Microsoft Stream.
+- Question and Answer + regular Yammer events feed is available.
+- All events are stored in Stream (and are searchable there, like any other live event).
 
 For the full list of features, see [Overview of live events](yammer-live-events.md).
 
@@ -62,13 +62,13 @@ The main benefit of this feature is that all attendees can view a Teams-produced
 
 A few things to note:
 
-- Just like any live event: only admins in connected communities can create an event
+- Just like any live event: only admins in connected communities can create an event.
 
-- With this flow, the event is still produced in Teams (producers/presenters must use Teams to produce/present)
+- With this flow, the event is still produced in Teams (producers/presenters must use Teams to produce/present).
 
-- Analytics are available in Stream (rather than Teams)
+- Analytics are available in Stream (rather than Teams).
 
-- The event will not automatically be added to a producers/presenters' calendar at this time (under active investigation)
+- The event will not automatically be added to a producers/presenters' calendar at this time (under active investigation).
 
 ### Who can use this feature?
 
