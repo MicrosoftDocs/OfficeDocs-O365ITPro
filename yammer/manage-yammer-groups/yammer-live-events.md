@@ -2,8 +2,8 @@
 title: "Live events in Yammer"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -22,7 +22,10 @@ description: "Learn what's needed for group admins to host live video events for
 ---
 # Live events in Yammer
 
-To bring the members of a community together centered around an event, Yammer group admins can host a live video event including Yammer conversations before, during, and after the event. Live events can be held in a public group to reach all employees or in a private group so that only those with membership in the group can participate. 
+To bring the members of a community together centered around an event, Yammer group admins can host a live video event including Yammer conversations before, during, and after the event. Live events can be held in a public group to reach all employees or in a private group so that only those with membership in the group can participate.
+
+> [!TIP]
+> Do you have a question about or need help with live events? Contact our [Live Events Assistance team](https://resources.techcommunity.microsoft.com/live-events/assistance/) to get started!
 
 This article lists the Yammer network requirements, licenses, and permissions for organizing and participating in live events.
 
@@ -44,7 +47,7 @@ Live events can be created and viewed in Yammer, Stream, or Teams. This article 
 There are two ways live events in Yammer can be produced. The requirements depend on which video production methods you intend to use in your organization.
 
 - **Use an external encoder to produce your live event**: 
-- 
+ 
     This type of event is typically used for large scale events such as executive town halls, where a single stream from a media mixer is broadcasted to the audience. 
 
     - This type of event uses Stream to encode the broadcast stream.
@@ -57,15 +60,15 @@ There are two ways live events in Yammer can be produced. The requirements depen
    
     - This type of event uses Teams to encode the broadcast stream.
     - Use Teams to share content from the presenters webcab and screen.
-     - Attendees can view this event in Teams only.
+    - Attendees can view this event in Teams only.
 
 ## Yammer network and group requirements
 
  - To host a live event in Yammer, your organization must have **Enforce Office 365 identity** selected, and you must be using Office 365 connected Yammer groups. For more information see [Enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md) and [Yammer and Office 365 groups](../manage-yammer-groups/yammer-and-office-365-groups.md).
 
-- The event must be held in either a public Yammer Office 365 connected group, or a private Yammer Office 365 connected group that includes everyone who will be invited to the live event. For more information, see [Create a group in Yammer](https://support.office.com/en-us/article/create-a-group-in-yammer-b407af4f-9a58-4b12-b43e-afbb1b07c889) and [Manage a group in Yammer](https://support.office.com/en-us/article/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). 
+- The event must be held in either a public Yammer Office 365 connected group, or a private Yammer Office 365 connected group that includes everyone who will be invited to the live event. For more information, see [Create a group in Yammer](https://support.office.com/article/create-a-group-in-yammer-b407af4f-9a58-4b12-b43e-afbb1b07c889) and [Manage a group in Yammer](https://support.office.com/article/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). 
 
-- The **All Company** group can’t be used for live events.
+- The **All Company** group can't be used for live events.
 
 ## Requirements for live event attendees
 
@@ -86,8 +89,9 @@ Yammer has partnered with Teams and Stream to provide the best technology for ru
     - Only Yammer group admins can create and schedule a live event in Yammer.
 
 - **Producing**:
+
     - **Events produced using an external app or device**:
-        For external app or device events, the person who presents or produces the event must have a Stream license and permission to create live events. By default, only Microsoft Stream administrators have permission to create live events. Use the Stream admin settings to give permission to specific users. For steps to grant or remove permissions in Stream, see [Administration controls for live events in Stream](https://docs.microsoft.com/en-us/stream/live-event-administration).
+        For external app or device events, the person who presents or produces the event must have a Stream license and permission to create live events. By default, only Microsoft Stream administrators have permission to create live events. Use the Stream admin settings to give permission to specific users. For steps to grant or remove permissions in Stream, see [Administration controls for live events in Stream](https://docs.microsoft.com/stream/live-event-administration).
 
     - **Events produced using Teams**:
         The person who presents or produces the event must have a Teams license and specific policies set in Teams. For requirements, see [Who can create and schedule live events in Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#who-can-create-and-schedule-live-events). For steps to set policies, see [Set up live events policies](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-3-set-up-live-events-policies). 
@@ -124,8 +128,8 @@ In Office 365, you can customize the help pane that comes up when users click th
 
 [Organize a live event in Yammer](https://support.office.com/article/organize-a-live-event-in-yammer-105dd7af-9caf-4a5e-8a44-56d203e96551)
 
-[Microsoft Teams live event overview](https://support.office.com/article/microsoft-teams-live-events-overview-d077fec2-a058-483e-9ab5-1494afda578a?ui=en-US&rs=en-US&ad=US)
+[Microsoft Teams live event overview](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
 
-[Microsoft Stream live event overview](https://docs.microsoft.com/en-us/stream/live-event-overview)
+[Microsoft Stream live event overview](https://docs.microsoft.com/stream/live-event-overview)
 
 [Get help producing a live event](https://support.office.com/article/0cedb557-cbe4-40d3-8147-112633f087eb)
