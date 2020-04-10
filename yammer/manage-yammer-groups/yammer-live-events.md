@@ -2,8 +2,8 @@
 title: "Live events in Yammer"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -22,7 +22,10 @@ description: "Learn what's needed for group admins to host live video events for
 ---
 # Live events in Yammer
 
-To bring the members of a community together centered around an event, Yammer group admins can host a live video event including Yammer conversations before, during, and after the event. Live events can be held in a public group to reach all employees or in a private group so that only those with membership in the group can participate. 
+To bring the members of a community together centered around an event, Yammer group admins can host a live video event including Yammer conversations before, during, and after the event. Live events can be held in a public group to reach all employees or in a private group so that only those with membership in the group can participate.
+
+> [!TIP]
+> Do you have a question about or need help with live events? Contact our [Live Events Assistance team](https://resources.techcommunity.microsoft.com/live-events/assistance/) to get started!
 
 This article lists the Yammer network requirements, licenses, and permissions for organizing and participating in live events.
 
@@ -65,7 +68,7 @@ There are two ways live events in Yammer can be produced. The requirements depen
 
 - The event must be held in either a public Yammer Office 365 connected group, or a private Yammer Office 365 connected group that includes everyone who will be invited to the live event. For more information, see [Create a group in Yammer](https://support.office.com/en-us/article/create-a-group-in-yammer-b407af4f-9a58-4b12-b43e-afbb1b07c889) and [Manage a group in Yammer](https://support.office.com/en-us/article/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). 
 
-- The **All Company** group can’t be used for live events.
+- The **All Company** group can't be used for live events.
 
 ## Requirements for live event attendees
 
