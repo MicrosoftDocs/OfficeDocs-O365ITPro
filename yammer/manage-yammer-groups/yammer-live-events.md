@@ -47,7 +47,7 @@ Live events can be created and viewed in Yammer, Stream, or Teams. This article 
 There are two ways live events in Yammer can be produced. The requirements depend on which video production methods you intend to use in your organization.
 
 - **Use an external encoder to produce your live event**: 
-- 
+ 
     This type of event is typically used for large scale events such as executive town halls, where a single stream from a media mixer is broadcasted to the audience. 
 
     - This type of event uses Stream to encode the broadcast stream.
@@ -60,7 +60,7 @@ There are two ways live events in Yammer can be produced. The requirements depen
    
     - This type of event uses Teams to encode the broadcast stream.
     - Use Teams to share content from the presenters webcab and screen.
-     - Attendees can view this event in Teams only.
+    - Attendees can view this event in Teams only.
 
 ## Yammer network and group requirements
 
@@ -89,6 +89,7 @@ Yammer has partnered with Teams and Stream to provide the best technology for ru
     - Only Yammer group admins can create and schedule a live event in Yammer.
 
 - **Producing**:
+
     - **Events produced using an external app or device**:
         For external app or device events, the person who presents or produces the event must have a Stream license and permission to create live events. By default, only Microsoft Stream administrators have permission to create live events. Use the Stream admin settings to give permission to specific users. For steps to grant or remove permissions in Stream, see [Administration controls for live events in Stream](https://docs.microsoft.com/stream/live-event-administration).
 
