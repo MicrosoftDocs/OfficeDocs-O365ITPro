@@ -32,7 +32,7 @@ If your network is eligible, you can enable the feature in the Yammer admin cent
 
 A network admin must enable **Report Conversations** in the Yammer network admin panel.
 
-![yammer](../media/yammer-conversations-fulladmin panel.png)
+![yammer](../media/yammer-conversations-fulladmin-panel.png)
 
 After enabling conversations, enter information for the following two settings:
 
@@ -113,7 +113,7 @@ The organization email set for Report Conversations in admin settings will recei
 > [!NOTE]
 > Yammer does not support deep links to comments today. In the report emails for both conversation starters as well as comments, the link included in the report is always the conversation starter link. Reports do not contain deep links to a reported comment. The report reviewer can use the conversation starter link together with the reported comment timestamp to find the actual reported comment in the conversation.
 
-![yammer](../media/yammer-conversaton-reportcomment-email.png)
+![yammer](../media/yammer-conversaton-reportcomments-email.png)
 
 A copy of this same email is also sent to the Yammer user who submitted the report.
 
