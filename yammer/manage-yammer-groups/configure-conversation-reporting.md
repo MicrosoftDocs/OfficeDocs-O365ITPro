@@ -26,7 +26,7 @@ description: "Configure conversation reporting in Yammer to enable people to rep
 
 If your network is eligible, you can enable the feature in the Yammer admin center. On the **Network Admin panel**, under **Settings**, you will see a new Report Conversations option under **Content and Security**. This feature is not yet available on the mobile app.
 
-![yammer](../media/yammer-conversations-admin-reportconversations)
+![yammer](../media/yammer-conversations-admin-reportconversations.png)
 
 ## Setting up the report a conversation feature
 
