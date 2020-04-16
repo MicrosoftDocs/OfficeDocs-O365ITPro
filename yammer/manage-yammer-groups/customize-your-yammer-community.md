@@ -2,8 +2,8 @@
 title: "Customize your Yammer community"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: TonisFrench
 manager: pamgreen
 ms.date: 01/21/2020
 audience: Admin
