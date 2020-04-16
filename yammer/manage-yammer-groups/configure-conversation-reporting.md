@@ -37,9 +37,9 @@ A network admin must enable **Report Conversations** in the Yammer network admin
 After enabling conversations, enter information for the following two settings:
 
 - **Report recipient (an organization email address)** - This is the email address to which reports will be sent.
-- **Pre-submission details or instructions for user** – The text you enter here is shown to users when they click **Report a Conversation**, before they submit a report
+- **Pre-submission details or instructions for user** – The text you enter here is shown to users when they click **Report a Conversation**, before they submit a report.
 
-There’s also an optional Post-submission instruction to user setting**. These instructions are shown to users once they have finished submitting a report on a conversation or comment.
+There’s also an optional **Post-submission instructions to user setting**. These instructions are shown to users once they have finished submitting a report on a conversation or comment.
 
 ## Report recipient
 
@@ -87,7 +87,7 @@ When enabled, users accessing Yammer on a web browser will see the **Report Conv
 
 **Report Conversation option on conversation comment**
 
-Users will then see out a right panel pop with the custom message from the network admin and a required **Reason for Reporting box.**
+Users will then see a right panel pop out with the custom message from the network admin and a required **Reason for Reporting box.**
 
 ![yammer](../media/yammer-conversations-report-comment.png)
 
