@@ -121,7 +121,7 @@ A copy of this same email is also sent to the Yammer user who submitted the repo
 
 **Q:** I’m an admin, and how do I know if my Yammer network is eligible for reporting conversations and comments?
 
-**A:** Only networks that are in “The New Yammer Preview” are eligible for the reporting conversations experience. In the Yammer network admin center, if your network is eligible, you should see Report Conversations under Content and Security.
+**A:** Only networks that are in the New Yammer Preview are eligible for the reporting conversations experience. In the Yammer network admin center, if your network is eligible, you should see Report Conversations under Content and Security.
 
 **Q:** Can I add multiple emails for the reports to be sent to?
 
@@ -133,7 +133,7 @@ A copy of this same email is also sent to the Yammer user who submitted the repo
 
 **Q:** Can users report conversations from external networks?
 
-**A:** No, The report conversations end user experience and actions are only available in the “New Yammer Preview.” Networks that are in “The New Yammer Preview” do not have the new Yammer experience on external networks, and as a result, conversations in external networks cannot be reported.
+**A:** No, The report conversations end user experience and actions are only available in the New Yammer Preview. Networks that are in the New Yammer Preview do not have the new Yammer experience on external networks, and as a result, conversations in external networks cannot be reported.
 
 **Q:** Can users report conversations from the Yammer mobile app?
 
