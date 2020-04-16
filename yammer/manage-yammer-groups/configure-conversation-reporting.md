@@ -39,7 +39,7 @@ After enabling conversations, enter information for the following two settings:
 - **Report recipient (an organization email address)** - This is the email address to which reports will be sent.
 - **Pre-submission details or instructions for user** – The text you enter here is shown to users when they click **Report a Conversation**, before they submit a report
 
-There’s also an optional **Post-submission instructions to user setting**. These instructions are shown to users once they have finished submitting a report on a conversation or comment.
+There’s also an optional Post-submission instruction to user setting**. These instructions are shown to users once they have finished submitting a report on a conversation or comment.
 
 ## Report recipient
 
@@ -87,7 +87,7 @@ When enabled, users accessing Yammer on a web browser will see the **Report Conv
 
 **Report Conversation option on conversation comment**
 
-Users will then see a right panel pop out with the custom message from the network admin and a required **Reason for Reporting box.**
+Users will then see out a right panel pop with the custom message from the network admin and a required **Reason for Reporting box.**
 
 ![yammer](../media/yammer-conversations-report-comment.png)
 
@@ -142,3 +142,11 @@ A copy of this same email is also sent to the Yammer user who submitted the repo
 **Q:** Can users report private messages or messages in the Yammer Inbox?
 
 **A:** No, The report conversations end user experience and actions are only available on conversations within communities and the discovery feed.
+
+**Q:** Can users report messages from private and secret communities?
+
+**A:** Yes, conversations can be reported from all communities within Yammer – public, private, and secret. The email report that is sent includes a link to the original conversation starter where the starter or comment was reported. If the person reviewing the reports does not have access to the private or secret community, they can work with the network admin to either get access to that community to review the message or with the community administrator to get access to the reported message.
+
+**Q:** Can users report messages from Yammer integrations with Teams, Outlook, and SharePoint?
+
+**A:** No, not yet. At this time, conversation reporting is only available from the New Yammer Web experience.
