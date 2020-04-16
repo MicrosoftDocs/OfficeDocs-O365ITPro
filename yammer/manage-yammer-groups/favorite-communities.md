@@ -17,6 +17,7 @@ search.appverid:
 - YAE150
 ms.assetid: 6d2a6ec7-1d65-46bb-b253-1bf441ec80a5
 description: "Learn how to create favorite communities."
+ROBOTS: NOINDEX
 ---
 
 # Favorite communities
