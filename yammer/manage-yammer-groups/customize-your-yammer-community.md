@@ -24,7 +24,7 @@ ROBOTS: NOINDEX
 
 In the new Yammer experience, you can brand your community with cover photos. Cover photos will help create a richer identity and better reflect the purpose of your community.
 
-This customization experience is available for group admins in both the web and mobile apps. On the community page, users can see the new default cover photos in the community header. As a group admin (or a verified network admin), you can upload a cover photo for your group.
+This customization experience is available for group admins in both the web and mobile apps. On the community page, users can see the new cover photos in the header. As a group admin (or a verified network admin), you can upload a cover photo for your group.
 
 ## To upload a web cover photo
 
