@@ -60,7 +60,6 @@
 ### [Create a dynamic group](manage-yammer-groups/create-a-dynamic-group.md)
 ### [Customize your network](manage-yammer-groups/customize-your-network.md)
 ### [Report a Yammer conversation overview](manage-yammer-groups/configure-conversation-reporting.md)
-### [Favorite communities](manage-yammer-groups/favorite-communities.md)
 ### [All Company will work like other Yammer communities](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)
 ### [Office 365 groups naming policy](https://docs.microsoft.com/office365/admin/create-groups/groups-naming-policy)
 ### [Export members to CSV](https://support.office.com/article/201a78fd-67b8-42c3-9247-79e79f92b535)
