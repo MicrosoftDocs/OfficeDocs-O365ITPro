@@ -129,7 +129,7 @@ In Office 365, you can customize the help pane that comes up when users click th
 
 [Organize a live event in Yammer](https://support.office.com/article/organize-a-live-event-in-yammer-105dd7af-9caf-4a5e-8a44-56d203e96551)
 
-[Microsoft Teams lives event overview](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
+[Microsoft Teams live event overview](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
 
 [Microsoft Stream live event overview](https://docs.microsoft.com/stream/live-event-overview)
 
