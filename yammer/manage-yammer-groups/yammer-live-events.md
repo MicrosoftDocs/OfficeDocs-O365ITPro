@@ -48,10 +48,10 @@ There are two ways live events in Yammer can be produced. The requirements depen
 
 - **Use an external encoder to produce your live event**: 
  
-    This type of event is typically used for large scale events such as executive town halls, where a single stream from a media mixer is broadcasted to the audience. 
+    This type of event is typically used for large-scale events such as executive town halls, where a single stream from a media mixer is broadcasted to the audience. 
 
     - This type of event uses Stream to encode the broadcast stream.
-    - You need to use an an external encoder (app or device) to produce the event.
+    - You need to use an external encoder (app or device) to produce the event.
     - Attendees view the event in Yammer.
     
 - **Use Teams to produce your live event**:  
@@ -82,11 +82,12 @@ There are two ways live events in Yammer can be produced. The requirements depen
 
 ## Permissions for scheduling, creating, and producing live events in Yammer
 
-Yammer has partnered with Teams and Stream to provide the best technology for running your live event. Because of this, creation and production of live events require Stream and/or Teams licenses and specific permissions. These permissions are not controlled in Yammer settings. The requirements depend on the production methods you plan to use.
+Yammer has partnered with Teams and Stream to provide the best technology for running your live event. Because of this, creation and production of live events require Stream and/or Teams licenses and specific permissions. These permissions aren't controlled in Yammer settings. The requirements depend on the production methods you plan to use.
 
 - **Scheduling**:
 
     - Only Yammer group admins can create and schedule a live event in Yammer.
+    - When a live event is scheduled in Yammer, the organizer, any co-producers, and presenters will receive a calendar invite with information about this live event (as a placeholder). This invite is not sent to attendees.
 
 - **Producing**:
 
@@ -128,7 +129,7 @@ In Office 365, you can customize the help pane that comes up when users click th
 
 [Organize a live event in Yammer](https://support.office.com/article/organize-a-live-event-in-yammer-105dd7af-9caf-4a5e-8a44-56d203e96551)
 
-[Microsoft Teams live event overview](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
+[Microsoft Teams lives event overview](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
 
 [Microsoft Stream live event overview](https://docs.microsoft.com/stream/live-event-overview)
 
