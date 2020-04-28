@@ -11,6 +11,8 @@ ms.topic: Overview
 layout: LandingPage
 ms.service: o365-administration
 localization_priority: Priority
+search.appverid:
+- MET150
 description: "If you are a global admin for Office 365 and you want to turn off calendar sync in Microsoft Planner, you can use Windows PowerShell"
 ---
 
