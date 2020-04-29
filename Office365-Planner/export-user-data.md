@@ -10,6 +10,8 @@ audience: Admin
 ms.topic: Overview
 ms.service: o365-administration
 localization_priority: Priority
+search.appverid:
+- MET150
 description: "IThis article describes how an Office 365 global admin can export data for a specific user from Microsoft Planner.  "
 ---
 
