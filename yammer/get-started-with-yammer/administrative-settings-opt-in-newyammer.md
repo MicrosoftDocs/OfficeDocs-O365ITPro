@@ -29,7 +29,7 @@ This option, which when shows up as the default setting for your organization, w
 
 ![New Yammer Preview Opt-in Toggle](../media/yammer-preview-optin-toggle.png)
 
-This option does not stop users from accessing a direct link to the new Yammer experience. If your organization wants to remove all access to the new Yammer during the preview phase, you will need to [contact Microsoft support](https://docs.microsoft.com/en-us/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
+This option does not stop users from accessing a direct link to the new Yammer experience. If your organization wants to remove all access to the new Yammer during the preview phase, you will need to [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
 
 ## Enable the new Yammer Preview as opt-in
 
@@ -48,7 +48,7 @@ If at any point during the preview phase you want to remove access to the toggle
     ![Meet the New Yammer dialog box](../media/yammer-preview-meet-new-yammer.png)
 
 - If the user clicks on **Not Now**, the user will be taken to the corresponding page on the classic Yammer experience.
-- If your organization wants to remove all access to the new Yammer during the preview phase, you will need to [contact Microsoft support](https://docs.microsoft.com/en-us/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
+- If your organization wants to remove all access to the new Yammer during the preview phase, you will need to [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
 
 ## Enable the New Yammer Preview as default
 
@@ -70,7 +70,7 @@ If at any point during the preview phase, you want to remove access to the toggl
 
     ![Meet the New Yammer dialog box](../media/yammer-preview-meet-new-yammer.png)
 
-- If your organization wants to remove all access to the new Yammer during the preview phase, you will need to [contact Microsoft support](https://docs.microsoft.com/en-us/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
+- If your organization wants to remove all access to the new Yammer during the preview phase, you will need to [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
 
 >[!NOTE]
 > Please note that during the preview phase, all users can access the new experience through a direct link. If your organization wants to remove all access to the new Yammer during the preview phase, you will need to contact Microsoft support. If you remove all access, then users from all networks in a 1:M (1-to-many) scenario will no longer be able to access the preview features.
@@ -91,8 +91,8 @@ A: In some situations, multiple Yammer networks are connected to a single Micros
 
 [Yammer Blog](https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog)
 
-[Yammer admin Help](https://docs.microsoft.com/en-us/yammer/yammer-landing-page)
+[Yammer admin Help](https://docs.microsoft.com/yammer/yammer-landing-page)
 
-[Yammer admin key concepts](https://docs.microsoft.com/en-us/yammer/get-started-with-yammer/admin-key-concepts)
+[Yammer admin key concepts](https://docs.microsoft.com/yammer/get-started-with-yammer/admin-key-concepts)
 
-[Yammer Help and Support Center for end-users](https://support.office.com/en-us/yammer)
+[Yammer Help and Support Center for end-users](https://support.office.com/yammer)
