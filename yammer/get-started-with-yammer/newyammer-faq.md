@@ -1,5 +1,5 @@
 ---
-title: "The New Yammer Preview - Customer Terms and FAQ"
+title: "New Yammer Preview - Customer Terms and FAQ"
 f1.keywords:
 - NOCSH
 ms.author: v-tosadd
@@ -16,6 +16,7 @@ search.appverid:
 - MET150
 description: "Learn more about the terms and frequently asked questions (FAQ) for the New Yammer Preview."
 ---
+# New Yammer Preview Customer Terms and FAQ
 
 Yammer has been completely redesigned, with dozens of new capabilities that power leadership engagement, company-wide communication, and communities in Microsoft 365. The new Yammer delivers a beautiful, intelligent experience across devices and deep integration with Microsoft Teams, SharePoint Online, and Outlook. And, as part of Microsoft 365, people can connect and share knowledge across the organization with open conversations backed by enterprise-grade privacy, security and compliance.
 
@@ -166,3 +167,15 @@ A: A Microsoft 365 admin can control whether or not users in their organization 
 **Q: I don’t want to enable the next experience for my production Yammer network yet. How can I test out the new toggle?**
  
 A: You can try out the opt-in toggles on your existing test network. If you don’t have a test environment, you can create [a new trial tenant](https://signup.microsoft.com/) for testing and enable the toggle there.
+
+## Related articles
+
+[Bring the new Yammer Preview to your organization](administrative-settings-opt-in-newyammer.md)
+
+[Yammer Blog](https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog)
+
+[Yammer admin Help](https://docs.microsoft.com/en-us/yammer/yammer-landing-page)
+
+[Yammer admin key concepts](https://docs.microsoft.com/en-us/yammer/get-started-with-yammer/admin-key-concepts)
+
+[Yammer Help and Support Center for end-users](https://support.office.com/en-us/yammer)
