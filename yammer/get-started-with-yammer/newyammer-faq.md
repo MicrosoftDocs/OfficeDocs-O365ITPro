@@ -102,6 +102,10 @@ When an issue occurs with only the public preview and it can be reproduced by Mi
 
 The Service Level Agreement for Microsoft Online Services does not apply to this preview.
 
+## What is a break-fix issue? 
+
+Break-fix issues are technical problems you experience while using the new Yammer preview. *Break-fix* is an industry term that refers to *work involved in supporting a technology when it fails in the normal course of its function, which requires intervention by a support organization to be restored to working order*. 
+
 ## How do I open a support case?
 
 Please see the [Microsoft 365 Admin Help page](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online) for general information. Your organization may have specific guidance for opening support cases, so you may need to talk with your IT team.
