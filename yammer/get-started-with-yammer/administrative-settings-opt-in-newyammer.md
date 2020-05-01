@@ -21,7 +21,7 @@ description: "Learn more about the admin settings to control user opt-in for the
 
 Microsoft 365 admins can now control participation in the preview for the new Yammer in your organization. Please note that only one of these settings can be selected at a time. You can go back and forth between these options but we strongly recommend understanding what selecting and unselecting each setting entails before making that choice.
 
-[Administrative Opt-in Settings for the New Yammer Preview](../media/yammer-admin-optin-settings.png)
+![Administrative Opt-in Settings for the New Yammer Preview](../media/yammer-admin-optin-settings.png)
 
 ## Stay in Classic Yammer
 
