@@ -52,7 +52,7 @@ If at any point during the preview phase you want to remove access to the toggle
 
 ## Enable the New Yammer Preview as default
 
-Selecting this option would ensure users in your organization are able to see the Try the new Yammer (Preview) toggle to opt into the new Yammer (Preview) from the classic Yammer experience, and users who have never tried the new experience would automatically be switched to the New Yammer (Preview).
+Selecting this option would ensure users in your organization are able to see the **Try the new Yammer (Preview)** toggle to opt into the new Yammer (Preview) from the classic Yammer experience, and users who have never tried the new experience would automatically be switched to the New Yammer (Preview).
 
 ![New Yammer Preview Opt-in Toggle](../media/yammer-preview-optin-toggle.png)
 
@@ -60,7 +60,7 @@ Users can choose to opt-out of this new experience and go back to the classic Ya
 
 - This would not impact those users who have tried the new Yammer before and made the explicit choice to opt out of it. These users would continue to stay on the classic Yammer experience.
 - Users who have already opted in through the opt-in toggle are not impacted. These users would stay on the new experience but can opt out at any time through the opt-out toggle
-- If your organization is completely new to Yammer, and you want all your users to directly move to the new Yammer experience, the Enable the New Yammer (Preview) as default setting is the one we recommend.
+- If your organization is completely new to Yammer, and you want all your users to directly move to the new Yammer experience, the **Enable the New Yammer (Preview)** as default setting is the one we recommend.
 
 If at any point during the preview phase, you want to remove access to the toggle, please select the first setting, **Stay in Classic Yammer**. Here is what that would involve:
 
@@ -79,7 +79,7 @@ If at any point during the preview phase, you want to remove access to the toggl
 
 **Q: Can users get to the new Yammer preview without administrator changes?**
 
-A: Microsoft 365 admin would have control on whether users in their organization can see the toggle to opt into the new Yammer experience. But users will always be able to access web.yammer.com while the new Yammer is in the public preview phase. If your organization wants to remove all access to the new Yammer during the preview phase, you will need to contact Microsoft support. More details on how to contact Microsoft Support can be found here, but you may need to work with your IT team.
+A: Microsoft 365 admins can control whether users in their organization can see the toggle to opt into the new Yammer experience but users will always be able to access web.yammer.com while the new Yammer is in the public preview phase. If your organization wants to remove all access to the new Yammer during the preview phase, you will need to [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online) or work with your organization's IT team.
 
 **Q: Which networks get the opt-in toggle?**
 
