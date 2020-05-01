@@ -69,7 +69,7 @@ We are working hard to bring all Yammer functionality to the new Yammer experien
 
 ## How do I enable the preview within my organization?  
 
-Yammer Network administrators can configure access to the new Yammer preview through the Yammer admin portal. From there, they can enable the preview toggle to display in the suite header and choose to default to classic Yammer or enable the new Yammer across their network. For more information about managing the opt-in settings, see [Bring the new Yammer Preview to your organization](administrative-settings-opt-in-newyammer.md).
+Yammer network administrators can configure access to the new Yammer preview through the Yammer admin portal. From there, they can enable the preview toggle to display in the suite header and choose to default to classic Yammer or enable the new Yammer across their network. For more information about managing the opt-in settings, see [Bring the new Yammer Preview to your organization](administrative-settings-opt-in-newyammer.md).
 
 ## Who is eligible to access the new experience?
 
@@ -85,13 +85,13 @@ Thank you for helping us shape the future of Yammer! As part of the customer pre
 
 1. You, as the customer, accept that features will change during the preview and certain capabilities might not be at parity with the classic Yammer experience.
 
-2.	The new Yammer experience will give the ability for end-users in your organization to provide feedback about the experience from within the app. If they choose to opt-out of the new experience, they will be prompted with an option to tell us about their experience at that time.
+2. The new Yammer experience will give the ability for end-users in your organization to provide feedback about the experience from within the app. If they choose to opt-out of the new experience, they will be prompted with an option to tell us about their experience at that time.
 
     During the customer preview, the ability to provide feedback will need to be available for all users in the new experience. The feedback experience will not collect any data that can be tied back to the user.
 
 ## Yammer Preview Customer Support
 
-> [!NOTE]
+> [!IMPORTANT]
 > The new Yammer public preview is unsupported. The Service Level Agreement (SLA) for Microsoft Online Services does not apply to this preview.
 
 If you contact Microsoft Support for break-fix support, support engineers will check whether or not the issue is occurring with the classic Yammer product. If an issue is found with the classic version of Yammer, then the issue will follow the standard SLAs.
