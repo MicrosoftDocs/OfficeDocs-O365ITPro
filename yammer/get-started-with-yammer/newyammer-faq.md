@@ -168,7 +168,7 @@ A: All languages available in classic Yammer are available in the public preview
 
 A: A Microsoft 365 admin can control whether or not users in their organization can see the toggle to opt into the new Yammer experience. But users will always be able to access web.yammer.com while the new Yammer is in the public preview phase. If your organization wants to remove all access to the new Yammer during the preview phase, you will need to [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
 
-**Q: I don’t want to enable the next experience for my production Yammer network yet. How can I test out the new toggle?**
+**Q: I don’t want to enable the new experience for my production Yammer network yet. How can I test out the new toggle?**
  
 A: You can try out the opt-in toggles on your existing test network. If you don’t have a test environment, you can create [a new trial tenant](https://signup.microsoft.com/) for testing and enable the toggle there.
 
