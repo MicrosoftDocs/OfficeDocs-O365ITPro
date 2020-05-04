@@ -144,9 +144,9 @@ A: You can remove the preview toggle for your entire network through the new Yam
 
 A: Yes!  
  
-**Q: We have Yammer embedded in various places in our Intranet (i.e. Yammer Tab in Microsoft Teams, Yammer Web Part for SharePoint, Yammer Embed). How will those be impacted by the new Yammer?**
+**Q: We have Yammer embedded in various places in our Intranet (i.e. the Yammer Tab in Microsoft Teams, Yammer Web Part for SharePoint, and Yammer Embed). How will those be impacted by the new Yammer?**
 
-A: Initially there will not be any change to these experiences. Eventually, these experiences will have the same design as the new Yammer.
+A: Initially there will not be any change to these experiences. Eventually, these experiences will integrate with the updated design of the new Yammer.
 
 **Q: What about guest users in external groups?**
 
