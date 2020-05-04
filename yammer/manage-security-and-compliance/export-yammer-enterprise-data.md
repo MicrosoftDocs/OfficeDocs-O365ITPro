@@ -2,8 +2,8 @@
 title: "Export data from Yammer Enterprise"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -130,7 +130,7 @@ To find this data for an individual user, click the Yammer settings icon ![Yamme
 |**File** <br/> |**Contents** <br/> |
 |**log.txt** <br/> |Summarizes the number of entries in each .csv file, and lists any errors that occur during the export.  <br/> |
 |**request.txt** <br/> |Parameters use for the export.  <br/> |
-|**Broadcast.csv** <br/>|For any live event video posted by the user, includes the network ID, group ID and name, title, description, links to the video, and additional information about the video. <br/>The video content is not included in the export. The video is saved in Microsoft Stream. To edit metadata or delete the video, you can open the video in Microsoft Stream admin mode. For more information see [Admin capabilities in Microsoft Stream](https://docs.microsoft.com/en-us/stream/manage-content-permissions) and [Office 365 Data Subject Requests for the GDPR, Stream](https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365#stream)<br/>|
+|**Broadcast.csv** <br/>|For any live event video posted by the user, includes the network ID, group ID and name, title, description, links to the video, and additional information about the video. <br/>The video content is not included in the export. The video is saved in Microsoft Stream. To edit metadata or delete the video, you can open the video in Microsoft Stream admin mode. For more information see [Admin capabilities in Microsoft Stream](https://docs.microsoft.com/stream/manage-content-permissions) and [Office 365 Data Subject Requests for the GDPR, Stream](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#stream)<br/>|
 |**Files.csv** <br/> | For any file added or modified by this user from Yammer, lists the Yammer ID, type of file, name, description, and path to the file, along with metadata including the group it was posted in. The storage_path column shows whether the file is stored in Yammer or SharePoint. <br><br/> Files.csv does not contain the actual files.<br><br>Files that are stored in Yammer are exported in their native format to the **Files** folder of the zip file. Files that are stored in SharePoint are not exported. <br><br>The file_ID and path columns in Files.csv can be used to identify the files in the **Files** folder or to go directly to the file in Yammer. For information about how to go directly to a specific file, see [Delete specific messages or files](export-yammer-enterprise-data.md#DeleteMessagesFiles).  <br><br> For files that are stored in SharePoint, use the download_url column to download the file. The download_url could be used for SharePoint files only if an AAD token is provided. Or, you can use [Content Search in Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search) to find files stored in SharePoint and created or modified by a specific user. <br><br>To delete a file, whether it is saved in Yammer or SharePoint, always delete it from  Yammer. This erases the metadata in Yammer as well as the metadata and file in SharePoint. If you delete the file from SharePoint directly, the Yammer metadata still remains.<br/> |
 |**Groups.csv** <br/> | For any group created or modified by the user, lists the Yammer group ID, name, description, privacy status, whether the group is internal or external, link to the group, creation date, and updated date. This file also includes the aggregated total number of polls the user voted on, and the polls the user created.  <br/> |
 |**LikedMessages.csv** <br/> | For any message liked by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement. <br/> |
@@ -145,9 +145,9 @@ Exported data does not contain bookmarked messages, group membership, followed o
   
 ## Troubleshoot data export
 
-- If the .zip file is corrupted and can't be unzipped, try again. If this doesn't work, [contact Support](https://support.office.com/en-us/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
+- If the .zip file is corrupted and can't be unzipped, try again. If this doesn't work, [contact Support](https://support.office.com/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
 
-- If the log.txt file shows export errors for one category of data, try again. If there are still errors, [contact Support](https://support.office.com/en-us/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
+- If the log.txt file shows export errors for one category of data, try again. If there are still errors, [contact Support](https://support.office.com/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
  
 <a name="DeleteMessagesFiles"> </a>
 ## Find and delete specific messages or files
@@ -184,7 +184,7 @@ The Yammer Files Export API lets verified administrators archive and export file
   
 [Office 365 Reports in the Admin Center - Yammer activity report](https://support.office.com/article/c7c9f938-5b8e-4d52-b1a2-c7c32cb2312a)
   
-[Export Yammer group members and email addresses to a .csv file](https://support.office.com/en-us/article/export-yammer-group-members-to-a-csv-file-201a78fd-67b8-42c3-9247-79e79f92b535)
+[Export Yammer community or group members to a .csv file](https://support.office.com/article/export-yammer-community-or-group-members-to-a-csv-file-14e809e7-b1e3-44b2-9734-6c46aaa5dff9)
 
 [Audit Yammer user data](../manage-yammer-users/audit-users-connected-to-office-365.md)
   
