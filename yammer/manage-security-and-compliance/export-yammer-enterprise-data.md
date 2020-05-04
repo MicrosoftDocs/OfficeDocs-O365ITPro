@@ -29,7 +29,7 @@ As a verified admin, you can export Yammer Enterprise data to monitor usage and 
 |[Export Yammer network data by date range and network](export-yammer-enterprise-data.md#ExportNetworkData) <br/> |View and audit all network data for all users. You can specify a date range, and choose whether to include files and external network data.  <br/> |
 |[Export data for one user](export-yammer-enterprise-data.md#ExportOneUser) <br/> |Identify all data related to one user. You can use this export to identify data that needs to be deleted to comply with a GDPR data subject request.  <br/> |
 |[Set up automatic data exports](export-yammer-enterprise-data.md#Automatic) <br/> |Automate exports that need to be done on an ongoing basis for compliance by using the DataExport API.  <br/> |
-|[Export Yammer Files via API](export-yammer-files-data.md#ExportFiles) <br/> |Export Files stored in Yammer asynchronously. You can specify a date range, and choose whether to include files from external networks. <br/> |
+|[Export Yammer Files via API](export-yammer-enterprise-data#export-yammer-files-via-api) <br/> |Export Files stored in Yammer asynchronously. You can specify a date range, and choose whether to include files from external networks. <br/> |
    
 > [!NOTE]
 > Exported data can't be used for migrating content between Yammer networks. For migration information, see [Network migration: Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md). 
