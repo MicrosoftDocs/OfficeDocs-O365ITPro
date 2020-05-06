@@ -1,13 +1,13 @@
 ### YamlMime:Hub
 
-title: Manage Office 365 # < 60 chars
+title: Manage Microsoft 365 and Office 365 # < 60 chars
 summary: Find resources for admins and IT Professionals who manage Office 365 # < 160 chars
 # brand: aspnet | azure | dotnet | dynamics | m365 | ms-graph | office | power-platform | sql | sql-server | vs | visual-studio | windows | xamarin
-brand: office
+brand: m365
 
 metadata:
-  title: Manage Office 365 # Required; page title displayed in search results. Include the brand. < 60 chars.
-  description: Find resources for admins and IT Professionals who manage Office 365 # Required; article description that is displayed in search results. < 160 chars.
+  title: Manage Microsoft 365 and Office 365 # Required; page title displayed in search results. Include the brand. < 60 chars.
+  description: Find resources for admins and IT Professionals # Required; article description that is displayed in search results. < 160 chars.
   ms.service: o365-administration #Required; service per approved list. service slug assigned to your service by ACOM.
   ms.topic: hub-page # Required
   audience: ITPro
@@ -28,29 +28,25 @@ additionalContent:
           summary: Deploy and manage Office 365 Enterprise for your organization, either stand-alone or with your existing on-premises infrastructure.
           url: https://docs.microsoft.com/office365/enterprise/
         # Card
-        - title: Office 365 Admin
-          summary: Deploy and manage Office 365 in your organization or school.
+        - title: Microsoft 365 admin
+          summary: Deploy and manage Microsoft 365 in your organization or school.
           url: https://docs.microsoft.com/office365/admin/admin-home
         # Card
-        - title: Office 365 Security
+        - title: Microsoft 365 Security
           summary: Learn about the robust security solutions and services in Microsoft 365 Security so that you can better protect your organization across attack surfaces.
           url: https://docs.microsoft.com/en-us/microsoft-365/security/
         # Card
-        - title: Office 365 Compliance
+        - title: Microsoft 365 Compliance
           summary: Help your organization govern information, protect against risks, and comply with legal or regulatory standards.
           url: https://docs.microsoft.com/en-us/microsoft-365/compliance/
         # Card
-        - title: Office 365 ProPlus
-          summary: Find guidance about how to deploy Office 365 ProPlus from the cloud, from a local source, and with System Center Configuration Manager.
+        - title: Microsoft 365 Apps for enterprise
+          summary: Find guidance about how to deploy Microsoft 365 Apps for enterprise from the cloud, from a local source, and with System Center Configuration Manager.
           url: https://docs.microsoft.com/DeployOffice/deployment-guide-for-office-365-proplus
         # Card
         - title: Manage Office 365 with Office 365 PowerShell
           summary: Learn how to use Office 365 PowerShell with Office 365 users and licenses, Skype for Business Online, SharePoint Online, and Microsoft Exchange Online.
           url: https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-with-office-365-powershell
-        # Card
-        - title: Office 365 content roadmap
-          summary: Follow this roadmap to navigate Office 365 content based on your organization type and where you are at in your journey.
-          url: https://docs.microsoft.com/office365/Office365-roadmap
         # Card
         - title: Troubleshoot
           summary: Find troubleshooting and support resources for IT Professionals and admins.
@@ -67,5 +63,5 @@ additionalContent:
           url: https://go.microsoft.com/fwlink/?linkid=787131
         # Card
         - title: Business owners
-          summary: Find help, training, and technical support for business owners who use Office 365.
+          summary: Find help, training, and technical support for business owners
           url: https://review.docs.microsoft.com/office365/smallbusiness/build-your-small-business/build-your-small-business
