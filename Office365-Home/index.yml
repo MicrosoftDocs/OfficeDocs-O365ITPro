@@ -44,8 +44,8 @@ additionalContent:
           summary: Find guidance about how to deploy Microsoft 365 Apps for enterprise from the cloud, from a local source, and with System Center Configuration Manager.
           url: https://docs.microsoft.com/DeployOffice/deployment-guide-for-office-365-proplus
         # Card
-        - title: Manage Office 365 with Office 365 PowerShell
-          summary: Learn how to use Office 365 PowerShell with Office 365 users and licenses, Skype for Business Online, SharePoint Online, and Microsoft Exchange Online.
+        - title: Manage Microsoft 365 and Office 365 with Office 365 PowerShell
+          summary: Learn how to use Office 365 PowerShell with users and licenses, Skype for Business Online, SharePoint Online, and Microsoft Exchange Online.
           url: https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-with-office-365-powershell
         # Card
         - title: Troubleshoot
