@@ -69,11 +69,11 @@ We are working hard to bring all Yammer functionality to the new Yammer experien
 
 ## How do I enable the preview within my organization?  
 
-Yammer network administrators can configure access to the new Yammer preview through the Yammer admin portal. From there, they can enable the preview toggle to display in the suite header and choose to default to classic Yammer or enable the new Yammer across their network. For more information about managing the opt-in settings, see [Bring the new Yammer Preview to your organization](administrative-settings-opt-in-newyammer.md).
+Yammer global administrators can configure access to the new Yammer preview through the Yammer admin portal. From there, they can enable the preview toggle to display in the suite header and choose to default to classic Yammer or enable the new Yammer across their network. For more information about managing the opt-in settings, see [Bring the new Yammer Preview to your organization](administrative-settings-opt-in-newyammer.md).
 
 ## Who is eligible to access the new experience?
 
-Once enabled by a network admin, people in your organization who sign into Yammer with Microsoft 365 will be able to view the toggle to opt-in to the new experience. This will be available for canonical (home) networks only. Microsoft 365 users who participate in external networks will see participate using the classic Yammer experience. During the public preview, users will always be able to access a direct link to the new experience. If your organization wants to remove all access to the new Yammer during the preview phase, you will need to [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
+Once enabled by a global admin, people in your organization who sign into Yammer with Microsoft 365 will be able to view the toggle to opt-in to the new experience. This will be available for canonical (home) networks only. Microsoft 365 users who participate in external networks will see participate using the classic Yammer experience. During the public preview, users will always be able to access a direct link to the new experience. If your organization wants to remove all access to the new Yammer during the preview phase, you will need to [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
 
 ## Will I know when additional changes are coming?
 
@@ -108,7 +108,7 @@ Break-fix issues are technical problems you experience while using the new Yamme
 
 ## How do I open a support case?
 
-Please see the [Microsoft 365 Admin Help page](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online) for general information. Your organization may have specific guidance for opening support cases, so you may need to talk with your IT team.
+Please see the [Support for business products - Admin Help page](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online) for general information. Your organization may have specific guidance for opening support cases, so you may need to talk with your IT team.
 
 ## How should I submit feature requests and feedback?
 
@@ -166,7 +166,7 @@ A: All languages available in classic Yammer are available in the public preview
 
 **Q: Can users get to the new Yammer preview without administrator changes?**
 
-A: A Microsoft 365 admin can control whether or not users in their organization can see the toggle to opt into the new Yammer experience. But users will always be able to access web.yammer.com while the new Yammer is in the public preview phase. If your organization wants to remove all access to the new Yammer during the preview phase, you will need to [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
+A: A global admin can control whether or not users in their organization can see the toggle to opt into the new Yammer experience. But users will always be able to access web.yammer.com while the new Yammer is in the public preview phase. If your organization wants to remove all access to the new Yammer during the preview phase, you will need to [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
 
 **Q: I don’t want to enable the new experience for my production Yammer network yet. How can I test out the new toggle?**
  
