@@ -6,7 +6,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: serdars
 audience: Admin
-ms.date: 12/12/2019
+ms.date: 3/11/2020
 ms.topic: article
 ms.service: Kaizala
 ms.custom: Kaizala
@@ -33,7 +33,7 @@ The following table shows endpoint URLs and IP address ranges required for conne
 
 | No. | Endpoint URLs | IP addresses | Port | Notes|
 |--------|-----|-----------|----|------------|
-| 1 | kms.kaiza.la, manage.kaiza.la, join.kaiza.la, j.kaiza.la, webapp.kaiza.la |52.172.209.57, 23.100.79.167, 213.199.139.160, 13.67.68.49, 52.172.24.172, 40.74.230.57, 52.138.202.218, 207.46.148.171   |443 | These are static IP addresses for Kaizala service endpoint, Kaizala management portal, Kaizala web app, and joining URLs |
+| 1 | api.kaiza.la, manage.kaiza.la, join.kaiza.la, j.kaiza.la, webapp.kaiza.la |52.172.209.57, 23.100.79.167, 213.199.139.160, 13.67.68.49, 52.172.24.172, 40.74.230.57, 52.138.202.218, 207.46.148.171   |443 | These are static IP addresses for Kaizala service endpoint, Kaizala management portal, Kaizala web app, and joining URLs |
 | 2 | cdn.inc-000.kms.osi.office.net, cdn.ins-000.kms.osi.office.net, cdn.scus-000.kms.osi.office.net, cdn.ncus-000.kms.osi.office.net, cdn.kascore-neu.osi.office.net, cdn.kascore-weu.osi.office.net, cdn.kascore-sea.osi.office.net, cdn.kascore-ea.osi.officeppe.net, osiziinclysithea001.blob.core.windows.net | |443 | Used for mostly storing documents and images generated within Kaizala |
 | 3 |  kis.kaiza.la, kis1.kaiza.la, kis2.kaiza.la, kis3.kaiza.la | |443 | Needed for enabling Kaizala APIs being used within app (both by Kaizala app and third-party system) |
 | 4 | webshell.suite.office.com, portal.office.com, dc.services.visualstudio.com, browser.pipe.aria.microsoft.com, embedded.powerbi.com, *.analysis.windows.net, r1.res.office365.com, d3js.org | |443 | Needed for enabling Office 365 services (including PowerBI reports) and other features on Kaizala management portal |

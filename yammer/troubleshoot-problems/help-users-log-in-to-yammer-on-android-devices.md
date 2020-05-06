@@ -2,8 +2,8 @@
 title: "What to do when users cannot log in to Yammer on Android devices"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -98,11 +98,11 @@ Follow these steps to configure your Security Token Service (STS) and Web Applic
     
 4. On the **Action** menu, click **all tasks**, and then click **export**. When the Certificate Export Wizard starts, click **next**. 
     
-5. Select **yes, export the private key,** and click **next**. 
+5. Select **yes, export the private key,** and click **next**.
     
-6. Select **Personal Information Exchange - PKCS #12 (.PFX),** and accept the default values to include all certificates in the certification path if possible. Also, make sure that the **export all extended properties** checkboxes are selected. 
+6. Select **Personal Information Exchange - PKCS #12 (.PFX),** and accept the default values to include all certificates in the certification path if possible. Also, make sure that the **export all extended properties** check boxes are selected. 
     
-7. If required, assign users/groups, and type a password to encrypt the private key that you are exporting. Type the same password again to confirm it, and then click **next**. 
+7. If required, assign users/groups, and type a password to encrypt the private key that you are exporting. Type the same password again to confirm it, and then click **next**.
     
 8. On the File to Export page, browse the location where you want to put the exported file, and give it a name.
     
@@ -110,14 +110,14 @@ Follow these steps to configure your Security Token Service (STS) and Web Applic
     
 10. Finally, if your organization uses active load balancers to distribute traffic between servers, these servers should also have their local certificate stores updated (or at least verified).
     
-If the above steps didn't work for you, look into these similar issues, or contact [Yammer Support](https://answers.microsoft.com/en-us/msoffice/wiki/msoffice_yammer-mso_o365app/welcome-to-yammer-support/2bdde618-2e1a-4983-9651-4a56f26e8e38):
+If the above steps didn't work for you, look into these similar issues, or contact [Yammer Support](https://answers.microsoft.com/msoffice/wiki/msoffice_yammer-mso_o365app/welcome-to-yammer-support/2bdde618-2e1a-4983-9651-4a56f26e8e38):
   
-[An external certificate that is not yet valid](https://technet.microsoft.com/en-us/library/dn383637.aspx)
+[An external certificate that is not yet valid](https://technet.microsoft.com/library/dn383637.aspx)
   
-[An external certificate that has expired](https://technet.microsoft.com/en-us/library/dn383649%28v=ws.11%29.aspx)
+[An external certificate that has expired](https://technet.microsoft.com/library/dn383649%28v=ws.11%29.aspx)
   
-[An external certificate that doesn't have a private key](https://technet.microsoft.com/en-us/library/dn383656%28v=ws.11%29.aspx)
+[An external certificate that doesn't have a private key](https://technet.microsoft.com/library/dn383656%28v=ws.11%29.aspx)
   
-These three issues are related to the Web Application Proxy (WAP). For more information about WAP, go to [https://technet.microsoft.com/en-us/library/dn584113(v=ws.11).aspx](https://technet.microsoft.com/en-us/library/dn584113%28v=ws.11%29.aspx). 
+These three issues are related to the Web Application Proxy (WAP). For more information about WAP, go to [https://technet.microsoft.com/library/dn584113(v=ws.11).aspx](https://technet.microsoft.com/library/dn584113%28v=ws.11%29.aspx).
   
 

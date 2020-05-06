@@ -58,4 +58,7 @@ The following shows the admin center with the Kaizala license removed for a user
 
 ![Screenshot of admin center with Kaizala license removed.](media/enable-kaizala-in-admin-center.png)
 
+## Kaizala Backfill and Trial License Expiration
+> If your Kaizala Pro Trial license has expired and you have other M365/O365 E3 or E5 SKUs, you are still eligible for Kaizala Pro through those SKUs. You can safely ignore the Kaizala Pro Trial license expiry message which appears under Subscriptions in the Admin portal. As long as you have logged in to the Kaizala Management Portal recently, the backfill will come into effect and replace the expiring trial license without any service disruption.
+
 For more information about how to remove licenses from a user, see [Remove licenses from users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users?view=o365-worldwide).  

@@ -2,8 +2,8 @@
 title: "Customize your Yammer community"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: TonisFrench
 manager: pamgreen
 ms.date: 01/21/2020
 audience: Admin
@@ -17,13 +17,14 @@ search.appverid:
 - YAE150
 ms.assetid: 6d2a6ec7-1d65-46bb-b253-1bf441ec80a5
 description: "Learn how to customize your Yammer community."
+ROBOTS: NOINDEX
 ---
 
 # Customize your Yammer community
 
 In the new Yammer experience, you can brand your community with cover photos. Cover photos will help create a richer identity and better reflect the purpose of your community.
 
-This customization experience is available for group admins in both the web and mobile apps. On the community page, users can see the new default cover photos in the community header. As a group admin (or a verified network admin), you can upload a cover photo for your group.
+This customization experience is available for group admins in both the web and mobile apps. On the community page, users can see the new cover photos in the header. As a group admin (or a verified network admin), you can upload a cover photo for your group.
 
 ## To upload a web cover photo
 

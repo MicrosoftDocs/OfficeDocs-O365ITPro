@@ -8,9 +8,10 @@ manager: pamgreen
 ms.date: 08/14/2019
 audience: Admin
 ms.topic: Overview
-layout: LandingPage
 ms.service: o365-administration
 localization_priority: Priority
+search.appverid:
+- MET150
 description: "This article shares information on how Office 365 admins can control and manage access to Planner, as well as answers to some other frequently asked questions about the management of Planner."
 ---
 
