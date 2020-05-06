@@ -19,7 +19,7 @@ description: "Learn more about the admin settings to control user opt-in for the
 
 # Bring the new Yammer Preview to your organization
 
-Microsoft 365 admins can now control participation in the preview for the new Yammer in your organization. Please note that only one of these settings can be selected at a time. You can go back and forth between these options but we strongly recommend understanding what selecting and unselecting each setting entails before making that choice.
+Global admins can now control participation in the preview for the new Yammer in your organization. Please note that only one of these settings can be selected at a time. You can go back and forth between these options but we strongly recommend understanding what selecting and unselecting each setting entails before making that choice.
 
 ![Administrative Opt-in Settings for the New Yammer Preview](../media/yammer-admin-optin-settings.png)
 
@@ -79,7 +79,7 @@ If at any point during the preview phase, you want to remove access to the toggl
 
 **Q: Can users get to the new Yammer preview without administrator changes?**
 
-A: Microsoft 365 admins can control whether users in their organization can see the toggle to opt into the new Yammer experience but users will always be able to access web.yammer.com while the new Yammer is in the public preview phase. If your organization wants to remove all access to the new Yammer during the preview phase, you will need to [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online) or work with your organization's IT team.
+A: Global admins can control whether users in their organization can see the toggle to opt into the new Yammer experience but users will always be able to access web.yammer.com while the new Yammer is in the public preview phase. If your organization wants to remove all access to the new Yammer during the preview phase, you will need to [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online) or work with your organization's IT team.
 
 **Q: Which networks get the opt-in toggle?**
 
