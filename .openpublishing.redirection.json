@@ -4122,7 +4122,7 @@
     },
     {
       "source_path": "Office365-Home/Office365-roadmap.yml",
-      "redirect_url": "https://docs.microsoft.com/microsoft-365/admin",
+      "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/index",
       "redirect_document_id": true
     },
     {
