@@ -111,7 +111,7 @@ You can prevent creation of live events produced in teams, live events produced 
 
 **Q: How many participants can view a live event at once?**
 
-A. Currently the limit is 10,000 participants.
+A. Currently the limit is 10,000 participants. For events of a higher size, work through the [Live Events Assistance Program](https://resources.techcommunity.microsoft.com/live-events/assistance/).
 
 **Q: What media player is used for live events?**
 
