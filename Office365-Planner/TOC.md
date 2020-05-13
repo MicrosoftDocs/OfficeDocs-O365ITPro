@@ -4,3 +4,4 @@
 ## [Delete user data in Microsoft Planner](delete-user-data.md)
 ## [Export user data from Microsoft Planner](export-user-data.md)
 ## [How to use Office 365 PowerShell to manage Microsoft Planner licenses](https://docs.microsoft.com/office365/troubleshoot/administration/how-to-use-office-365-powershell-to-manage-microsoft-planner-licenses)
+## [Track your message center tasks in Planner](track-message-center-tasks-planner.md)
