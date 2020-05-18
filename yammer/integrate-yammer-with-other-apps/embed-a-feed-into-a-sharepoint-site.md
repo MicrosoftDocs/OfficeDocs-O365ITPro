@@ -141,7 +141,7 @@ The following procedures describe how to add a group feed, my feed, or page feed
 
 - On the SharePoint page, paste in the script, and then click **Publish**.
     
-   >[!NOTE]
+>[!NOTE]
 >For the Highlights (Classic mode) and the Yammer embed script experiences, when you add a Yammer My Feed/Home feed to a SharePoint page, you'll see slightly different messages than the ones included in the Home feed available in Yammer web, desktop, or mobile. On the SharePoint page, users will see messages from all threads in groups they are a member of and all threads in the All Company group. In Yammer web, desktop, and mobile, users can select Discovery, All, or Following feeds, but these aren't available in SharePoint pages. The My Feed/Home feed type is closest to the All feed but doesn't include public posts in public groups the user doesn't belong to.  
 
  
