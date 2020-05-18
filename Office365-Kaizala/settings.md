@@ -36,7 +36,7 @@ To add a phone number in the Kaizala management portal:
     
 ## Compliance
 
-Organization admins control if Kaizala backs up the data belonging to groups, including messages, attachments, and actions.
+Kaizala data belonging to organization groups, including messages, attachments, and actions are stored for Organization admins to retrieve using Export tenant data feature.
 
 ## Tenant policy
 
