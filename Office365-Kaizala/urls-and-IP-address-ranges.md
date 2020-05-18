@@ -25,7 +25,8 @@ description: Learn how to configure URLs and IP address ranges for connectivity 
 
 Microsoft Kaizala requires connectivity to the internet. Organizations, if required by firewall protections, must allow certain IP addresses and URLs to enable their users to access the Kaizala app and its services.
 
-> [!NOTE] - Endpoint data might also be updated if needed to address support escalations, security incidents, or other immediate operational requirements.
+> [!NOTE]
+> Endpoint data might also be updated if needed to address support escalations, security incidents, or other immediate operational requirements.
 
 The following table shows endpoint URLs and IP address ranges required for connectivity from a user’s device to Kaizala and related services. It does not include network connections from Microsoft into a customer network, sometimes called hybrid or inbound network connections.
 
