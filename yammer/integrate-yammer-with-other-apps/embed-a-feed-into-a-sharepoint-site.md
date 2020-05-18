@@ -2,8 +2,8 @@
 title: "Include a Yammer feed in a SharePoint page"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -25,17 +25,12 @@ description: "You can add a Yammer feed to a modern or classic SharePoint site p
 
 To include a Yammer feed in a SharePoint page, your organization should have an active Yammer network (for example: http&#58;//www&#46;yammer&#46;com/contoso&#46;com). 
 
-- For SharePoint Online, you can use the Yammer Highlights web part for a display of recent conversations, or the Yammer Conversations web part so that page viewers can engage in the conversation without leaving SharePoint. 
+- For SharePoint Online, you can use the Yammer Conversations web part so that page viewers can engage in the conversation without leaving SharePoint.  The Yammer Conversations web part has the latest Yammer experiences including the ability to start a conversation with any type of post (Questions, Polls, Praise) and mark best answers directly from SharePoint. You can also use the Yammer Highlights web part to display recent conversations. However, the Highlights web part does not have all the latest Yammer experiences. 
 
-- For SharePoint Server 2019 modern pages, you can use the Yammer web part to add a group, user, topic, or Yammer home feed.
+- For SharePoint Server 2019 modern pages, you can use the Yammer Highlights web part (Classic mode) to add a group, user, topic, or Yammer home feed.
 
 - For SharePoint Servers 2013 and 2016 and for classic pages in SharePoint Server 2019, you can use Yammer Embed within a script editor web part to add a group feed, user feed, topic feed, Yammer home feed, or an open graph object feed that adds a discussion about an object such as web page. 
   
-> [!NOTE]
-> When you add a Yammer My Feed/Home feed to a SharePoint page, you'll see slightly different messages than the ones included in the home feed available in Yammer web, desktop, or mobile. On the SharePoint page, users will see messages from all threads in groups they are a member of and all threads in the All Company group. In Yammer web, desktop, and mobile, users can select **Discovery**, **All**, or **Following** feeds, but these aren't available in SharePoint pages. The My Feed/Home feed type is closest to the All feed, but doesn't include public posts in public groups the user doesn't belong to.
-
-Yammer does not have to be the social collaboration tool for SharePoint in order to embed a Yammer feed, but if you want to make Yammer the primary social experience for SharePoint, see [Integrate Yammer with on-premises SharePoint environments](https://go.microsoft.com/fwlink/?LinkID=524180).
-
 ## Add a Yammer feed to a page in SharePoint Online
 
 >[!NOTE]
@@ -47,7 +42,7 @@ These web parts inherit the page theme, and are usable from mobile devices.
 
 ## Add a Yammer feed to a modern page in SharePoint Server 2019
 
-1. Go to Yammer in a browser, and go to the Yammer page you want to put in Sharepoint: a group, person, topic, or the Yammer home page. Copy the URL. 
+1. Go to Yammer in a browser, and go to the Yammer page you want to put in SharePoint: a group, person, topic, or the Yammer home page. Copy the URL. 
 
 2. In SharePoint, go to the page you want to put the Yammer feed on, and click **Edit**.
 
@@ -146,4 +141,8 @@ The following procedures describe how to add a group feed, my feed, or page feed
 
 - On the SharePoint page, paste in the script, and then click **Publish**.
     
-   
+   >[!NOTE]
+>For the Highlights (Classic mode) and the Yammer embed script experiences, when you add a Yammer My Feed/Home feed to a SharePoint page, you'll see slightly different messages than the ones included in the Home feed available in Yammer web, desktop, or mobile. On the SharePoint page, users will see messages from all threads in groups they are a member of and all threads in the All Company group. In Yammer web, desktop, and mobile, users can select Discovery, All, or Following feeds, but these aren't available in SharePoint pages. The My Feed/Home feed type is closest to the All feed but doesn't include public posts in public groups the user doesn't belong to.  
+
+ 
+>Yammer does not have to be the social collaboration tool for SharePoint in order to embed a Yammer feed, but if you want to make Yammer the primary social experience for SharePoint, see [Integrate Yammer with on-premises SharePoint environments](https://docs.microsoft.com/sharepoint/administration/integrate-yammer-with-on-premises-sharepoint-server-environments). 
