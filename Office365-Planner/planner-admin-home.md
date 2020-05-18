@@ -11,6 +11,8 @@ ms.topic: landing-page
 layout: LandingPage
 ms.service: o365-administration
 localization_priority: Priority
+search.appverid:
+- MET150
 description: "Learn about resources available for Planner admins."
 ---
 
