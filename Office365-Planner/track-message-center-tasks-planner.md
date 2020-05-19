@@ -20,9 +20,8 @@ description: "IThis article describes how to track your message center tasks in 
 
 A lot of actionable information about changes to Microsoft 365 services arrives in the Microsoft 365 message center. It can be hard to keep track of which changes require tasks to be done, when, and by whom, and to track each task to completion. You also might want to make a note of something and tag it to check on later. You can do these things and more when you sync your messages from the Microsoft 365 admin center to Microsoft Planner. This article describes how.
 
-[How you can use Planner to track your message center tasks](#how-you-can-use-planner-to-track-your-message-center-tasks) <br/>
-
-[Turn on Planner syncing](#turn-on-planner-syncing)
+- [How you can use Planner to track your message center tasks](#how-you-can-use-planner-to-track-your-message-center-tasks) <br/>
+- [Turn on Planner syncing](#turn-on-planner-syncing)
 
 ## How you can use Planner to track your message center tasks
 
@@ -57,20 +56,20 @@ As you build your plan, you can always see a visual report of status using Chart
 
 2. Go to **Show all** > **Health** > **Message center**. Then, right above your messages list, select **Planner syncing**.
 
-![Planner syncing](media/planner-syncing.png)
+    ![Planner syncing](media/planner-syncing.png)
 
 2. In the **Planner syncing** pane, select **Set up syncing**.
 
 3. Under **Select your plan**, select either:
 
-    - **Search for a plan**, and enter a name, or just select a plan from the list.
+    - **Search for a plan**, then enter a name or select a plan from the list.
 
-    ![Select your plan](media/select-your-plan.png)
+        ![Select your plan](media/select-your-plan.png)
 
     -  The **Or create a new plan in Planner** link, which opens Planner. There you can [create a new plan](https://support.microsoft.com/en-us/office/create-a-plan-in-microsoft-planner-93e65b03-6fac-4661-a502-e3161475ab93), and then return to the message center and search for that plan.
 
-    > [!NOTE]
-> You can only sync your message center with one Planner plan.
+    >[!NOTE]
+    >You can only sync your message center with one Planner plan.
 
 4. Under **Select a bucket**, either create a new bucket or select an existing one, and then select **Next**.
 
@@ -78,23 +77,20 @@ As you build your plan, you can always see a visual report of status using Chart
 
     ![Select a bucket](media/select-a-bucket.png)
 
-    > [!NOTE]
-> - You can only select one bucket to sync to, but you can turn Planner syncing off and on again to change which bucket you’re syncing to. <br/>
-
-  - You can easily change the bucket name at any time in Planner.
+    >[!NOTE]
+    >- You can only select one bucket to sync to, but you can turn Planner syncing off and on again to change which bucket you’re syncing to. 
+    >- You can easily change the bucket name at any time in Planner.
 
 5. Under **Choose which messages to sync**:
 
-    - Select either **All updates** or **Only major updates**. For each, you can still exclude updates from specific categories, products and services using check boxes on this page.
-
+    - Select either **All updates** or **Only major updates**. For each, you can still exclude updates from specific categories, products, and services using check boxes on this page.
     - Decide which categories, products, and services you want to sync by selecting or clearing check boxes in the **Include messages in these categories** and **Include messages about these products or services** lists.
-
     - Select **Next**.
 
 6. Under **Choose which current messages to import**, you can decide whether you want to import messages from your current message center. You can select **Don't import current messages** or or an option to import from the past 7, 14, or 28 days.
 
-    > [!IMPORTANT]
-> - After you start syncing to Planner, you can’t import messages again unless you turn off Planner syncing, then turn it on again, and go through setup another time.
+    >[!IMPORTANT]
+    >After you start syncing to Planner, you can’t import messages again unless you turn off Planner syncing, then turn it on again, and go through setup another time.
 
     ![Import messages](media/import-messages.png)
 
@@ -110,7 +106,7 @@ As you build your plan, you can always see a visual report of status using Chart
 
         - Under **Create a flow**, select **Continue**, choose the plus sign (**+**) to sign in if necessary, and then select **Create flow**.
 
-    - •	If you want to sync manually, there's no setup needed. Whenever you want to sync the latest posts, go to the message center, and at the top of the page, select **Sync now**.
+    - If you want to sync manually, there's no setup needed. Whenever you want to sync the latest posts, go to the message center, and at the top of the page, select **Sync now**.
 
         ![Message center](media/message-center.png)
 
