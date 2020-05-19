@@ -73,7 +73,7 @@ As you build your plan, you can always see a visual report of status using Chart
 
 4. Under **Select a bucket**, either create a new bucket or select an existing one, and then select **Next**.
 
-    [Buckets](https://support.microsoft.com/en-us/office/create-buckets-to-sort-your-tasks-238af119-3c2b-4cbb-a124-29da99488139) are column-like categories in Planner, and after you’ve turned on Planner syncing, each message becomes a task in the bucket you select here.
+    [Buckets](https://support.microsoft.com/en-us/office/create-buckets-to-sort-your-tasks-238af119-3c2b-4cbb-a124-29da99488139) are column-like categories in Planner. After you’ve turned on Planner syncing, each message becomes a task in the bucket you select here.
 
     ![Select a bucket](media/select-a-bucket.png)
 
@@ -87,7 +87,7 @@ As you build your plan, you can always see a visual report of status using Chart
     - Decide which categories, products, and services you want to sync by selecting or clearing check boxes in the **Include messages in these categories** and **Include messages about these products or services** lists.
     - Select **Next**.
 
-6. Under **Choose which current messages to import**, you can decide whether you want to import messages from your current message center. You can select **Don't import current messages** or or an option to import from the past 7, 14, or 28 days.
+6. Under **Choose which current messages to import**, you can decide whether you want to import messages from your current message center. You can select **Don't import current messages** or or an option to import from the past 7, 14, 21, or 28 days.
 
     >[!IMPORTANT]
     >After you start syncing to Planner, you can’t import messages again unless you turn off Planner syncing, then turn it on again, and go through setup another time.
@@ -106,7 +106,7 @@ As you build your plan, you can always see a visual report of status using Chart
 
         - Under **Create a flow**, select **Continue**, choose the plus sign (**+**) to sign in if necessary, and then select **Create flow**.
 
-    - If you want to sync manually, there's no setup needed. Whenever you want to sync the latest posts, go to the message center, and at the top of the page, select **Sync now**.
+    - If you want to sync manually, there's no setup needed. Whenever you want to sync the latest posts, go to the message center and, at the top of the page, select **Sync now**.
 
         ![Message center](media/message-center-sync-now.png)
 
