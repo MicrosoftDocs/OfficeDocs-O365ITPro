@@ -56,7 +56,7 @@ As you build your plan, you can always see a visual report of status using Chart
 
 2. Go to **Show all** > **Health** > **Message center**. Then, right above your messages list, select **Planner syncing**.
 
-    ![Planner syncing](media/planner-syncing.png)
+    ![Planner syncing](media/planner-syncing-button.png)
 
 2. In the **Planner syncing** pane, select **Set up syncing**.
 
@@ -108,7 +108,7 @@ As you build your plan, you can always see a visual report of status using Chart
 
     - If you want to sync manually, there's no setup needed. Whenever you want to sync the latest posts, go to the message center, and at the top of the page, select **Sync now**.
 
-        ![Message center](media/message-center.png)
+        ![Message center](media/message-center-sync-now.png)
 
 9. To get started organizing, assigning, and taking notes, select the **View your plan in Planner** link.
 
