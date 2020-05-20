@@ -1,5 +1,5 @@
 ---
-title: "Track your message center tasks in Planner"
+title: "Track message center tasks in Planner - Microsoft 365"
 f1.keywords:
 - NOCSH
 ms.author: ipinkseattle
@@ -13,7 +13,7 @@ localization_priority: Priority
 search.appverid:
 - MET150
 ROBOTS: NOINDEX, NOFOLLOW
-description: "IThis article describes how to track your message center tasks in Microsoft Planner."
+description: "This article describes how to track your Microsoft 365 message center tasks in Microsoft Planner."
 ---
 
 # Track your message center tasks in Planner
