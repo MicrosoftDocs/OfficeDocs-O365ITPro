@@ -1,5 +1,5 @@
 ---
-title: "Track your message center tasks in Planner"
+title: "Track message center tasks in Planner - Microsoft 365"
 f1.keywords:
 - NOCSH
 ms.author: ipinkseattle
@@ -13,7 +13,7 @@ localization_priority: Priority
 search.appverid:
 - MET150
 ROBOTS: NOINDEX, NOFOLLOW
-description: "IThis article describes how to track your message center tasks in Microsoft Planner."
+description: "This article describes how to track your Microsoft 365 message center tasks in Microsoft Planner."
 ---
 
 # Track your message center tasks in Planner
@@ -66,7 +66,7 @@ As you build your plan, you can always see a visual report of status using Chart
 
         ![Select your plan](media/select-your-plan.png)
 
-    -  The **Or create a new plan in Planner** link, which opens Planner. There you can [create a new plan](https://support.microsoft.com/en-us/office/create-a-plan-in-microsoft-planner-93e65b03-6fac-4661-a502-e3161475ab93), and then return to the message center and search for that plan.
+    -  **Or create a new plan in Planner**, a link that opens Planner. There you can [create a new plan](https://support.microsoft.com/en-us/office/create-a-plan-in-microsoft-planner-93e65b03-6fac-4661-a502-e3161475ab93), and then return to the message center and search for that plan.
 
     >[!NOTE]
     >You can only sync your message center with one Planner plan.
