@@ -92,7 +92,7 @@ Yammer has partnered with Teams and Stream to provide the best technology for ru
 - **Producing**:
 
     - **Events produced using an external app or device**:
-        For external app or device events, the person who presents or produces the event must have a Stream license and permission to create live events. By default, only Microsoft Stream administrators have permission to create live events. Use the Stream admin settings to give permission to specific users. For steps to grant or remove permissions in Stream, see [Administration controls for live events in Stream](https://docs.microsoft.com/stream/live-event-administration).
+        To produce any kind of event in Yammer, you will need to have your Microsoft Stream license enabled. For external app or device events, the person who presents or produces the event must have a Stream license and permission to create live events. By default, only Microsoft Stream administrators have permission to create live events. Use the Stream admin settings to give permission to specific users. For steps to grant or remove permissions in Stream, see [Administration controls for live events in Stream](https://docs.microsoft.com/stream/live-event-administration).
 
     - **Events produced using Teams**:
         The person who presents or produces the event must have a Teams license and specific policies set in Teams. For requirements, see [Who can create and schedule live events in Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#who-can-create-and-schedule-live-events). For steps to set policies, see [Set up live events policies](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-3-set-up-live-events-policies). 
@@ -103,9 +103,7 @@ You can prevent creation of live events produced in teams, live events produced 
 
 - To prevent creation of live events produced in Teams, remove permissions in Teams for live event scheduling. If a user does not have a license or permission to create a live event in Teams, when they create a live event in Yammer, the produce in Teams option is unavailable.
 
-- To prevent external production for live events, don't give Stream permissions to any users. If a user does not have a license or permission to create a live event in Stream, when they try to create a live event in Yammer, the external production option is are unavailable.
-
-- To prevent both types of live events, make sure Yammer users do not have permission to create live events in Teams and in Stream.
+- If you do not have permission to create live events in Stream, you cannot create live events in Yammer.
 
 ## FAQ
 
