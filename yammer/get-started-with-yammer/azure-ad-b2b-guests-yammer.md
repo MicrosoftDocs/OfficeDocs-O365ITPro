@@ -122,6 +122,78 @@ The Service Level Agreement for Microsoft Online Services does not apply to this
 
 Break-fix issues are technical problems you experience while using the new B2B Guest preview. *Break-fix* is an industry term that refers to *work involved in supporting a technology when it fails in the normal course of its function, which requires intervention by a support organization to be restored to working order.*
 
+## How do I open a support case? 
+
+Please see the [Support for business products - Admin Help page](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online) for general information. Your organization may have specific guidance for opening support cases, so you may need to talk with your IT team.
+
+## How should I submit feature requests and feedback? 
+
+Feature requests and feedback on the product during preview should be submitted through to the product teams at YammerExternFeedback@microsoft.com. Feedback can also be provided with peers through the new [Azure AD B2B Guests in Yammer page](https://techcommunity.microsoft.com/t5/yammer/new-azure-b2b-guests-in-yammer/m-p/1399715#M4094) in the Yammer Tech Community. 
+
+Microsoft Support will not be accepting formal feature requests for the new B2B Guests preview submitted via the Design Change Request (DCR) process during the preview period.
+
+## What severity of cases should be accepted during the preview? 
+
+Please open non-critical (severity B or C) cases during the preview period for break/fix issues affecting the new B2B Guests preview. 
+
+Critical (severity A) cases will not be accepted for new B2B Guests preview features. Any critical severity case impacting only the new B2B Guests preview will be downgraded by support after investigation.
+
+## What steps should I take before reporting a technical problem? 
+
+Before reporting a technical problem to Microsoft Support, please check the following: 
+
+- **Can the issue be reproduced consistently?** If the issue is not occurring now, then it may have been resolved by a recent product update. 
+
+- **Does the issue only occur for the new B2B Guests preview?** Or, does it also occur with the old user experience too? 
+
+- **Can the issue be reproduced in multiple browsers?** Testing with at least two different web browsers is a best practice. 
+
+- **Does the issue show up on mobile as well?** Sometimes issues occur with a backend service and can affect multiple clients (web, mobile, or desktop.) 
+
+- **Are multiple users affected?** Issues affecting multiple users are more likely to be prioritized. 
+
+- **Do you have clear screenshots?** Closely cropped screenshots can miss important information that is showing elsewhere on the screen. 
+
+- **Is there any relevant information in the browser developer tools?** Support may ask you to check the JavaScript console for error information. While not everyone is familiar with JavaScript, you can often press F12 in your browser on Windows and look for red error messages in the console tab.
+
+## FAQ
+
+*Q: Is the new experience available for customers that have a Yammer network with EU data residency?*
+
+A: Yes!
+
+**Q: Will the upcoming changes impact Yammer External Networks?** 
+
+A: These changes do not impact External Networks. External Networks will continue to work as-is. 
+
+**Q: Is there a way to opt out of the preview?**  
+
+A: The new B2B Guests in Yammer (and [Native Mode for Microsoft 365 for Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode) which is a pre-requisite for this preview) updates involve migration of users, communities, and data from legacy mode to Azure Active Directory and SharePoint respectively.
+
+ From a compliance perspective, we encourage all tenants to migrate to the Native Mode for Microsoft 365 for Yammer. Hence, we do not offer a way to switch back to the legacy mode for Guests.
+
+ **Q: Will Yammer guest settings be aligned to Microsoft 365 Groups settings?** 
+
+Yes. With Native Mode for Microsoft 365 for Yammer, all communities and users are supported via Microsoft 365 Groups. The AAD guest settings for Microsoft 365 Groups will now also apply to Yammer communities. 
+
+**Q: Can Yammer have dynamic membership groups to include guests from a domain?** 
+
+Yes. Admins can create dynamic membership rules for guest users in a Yammer community via Azure portal. An example is: user.userType -eq "Guest" and user.email -contains "@xyz.com" - this rule will add all guest users from the domain xyz.com to the specified Yammer community. 
+
+**Q: I don’t want to enable the new experience for my production Yammer network yet. How can I try the new B2B Guest experience in my test network?** 
+
+A: You can try out the new B2B Guest experience on your existing test network. If you don’t have a test environment, you can create a [new trial tenant](https://signup.microsoft.com/) for testing and submit the tenant details in the sign-up form. 
+
+## Related articles
+
+[Yammer Blog](https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog)
+
+[Yammer admin Help](https://docs.microsoft.com/yammer/yammer-landing-page)
+
+[Native Mode for Microsoft 365 for Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)
+
+[Yammer Help and Support Center for end-users](https://support.office.com/yammer)
+
 
 
 
