@@ -120,7 +120,9 @@ The Service Level Agreement for Microsoft Online Services does not apply to this
 
 ## What is a break-fix issue? 
 
-Break-fix issues are technical problems you experience while using the new B2B Guest preview. Break-fix is an industry term that refers to work involved in supporting a technology when it fails in the normal course of its function, which requires intervention by a support organization to be restored to working order. 
+Break-fix issues are technical problems you experience while using the new B2B Guest preview. *Break-fix* is an industry term that refers to *work involved in supporting a technology when it fails in the normal course of its function, which requires intervention by a support organization to be restored to working order.*
+
+
 
 
 
