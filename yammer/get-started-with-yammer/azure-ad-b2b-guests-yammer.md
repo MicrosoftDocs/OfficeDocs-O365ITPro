@@ -14,7 +14,7 @@ ms.custom: Adm_Yammer
 search.appverid: 
 - MOE150
 - MET150
-description: "Learn more about the Business-to-business (B2B) Guest support in Yammer Preview and view the Customer Terms and FAQ ."
+description: "Learn more about the Business-to-business (B2B) Guest support in Yammer Preview and view the Customer Terms and FAQ."
 ---
 
 # Business-to-business (B2B) Guest support in Yammer Preview - Customer Terms and FAQ
@@ -27,13 +27,13 @@ External collaboration is a key ingredient for the success of any organization. 
 
 **Now guests can use Microsoft Identity to collaborate across Yammer networks**
 
-## New Yammer Guests – simplicity, governance and compliance at your fingertips!
+## New Yammer Guests – simplicity, governance, and compliance at your fingertips!
 
-As the size of your organization increases, administrators need to strike a perfect balance. On one hand you want to empower your employees to invite guests from outside the organization to foster seamless collaboration, but on the other hand, you need to put in place necessary guardrails so only authorized resources can be accessed by guest users. Many of you have requested additional guest governance and compliance capabilities in Yammer.
+As the size of your organization increases, administrators need to strike a perfect balance. On one hand, you want to empower your employees to invite guests from outside the organization to foster seamless collaboration, but on the other hand, you need to put in place necessary guardrails so only authorized resources can be accessed by guest users. Many of you have requested additional guest governance and compliance capabilities in Yammer.
 
 ## We are excited to announce the new B2B Guests in Yammer!
 
-Azure Active Directory B2B is a secure, compliant external collaboration framework used by many apps in the Microsoft 365 suite like SharePoint, Outlook and Teams. It makes life easier for administrators by giving them the superpowers to manage guests easily. For the end users, it offers a seamless invite and collaboration flow that works across all Microsoft Apps.
+Azure Active Directory B2B is a secure, compliant external collaboration framework used by many apps in the Microsoft 365 suite like SharePoint, Outlook, and Teams. It makes life easier for administrators by giving them the superpowers to manage guests easily. For the end users, it offers a seamless invite and collaboration flow that works across all Microsoft Apps.
 
 ## Why should I upgrade to the New Guest experience? 
 
@@ -72,7 +72,7 @@ The new B2B Guest support strengthens the coherence between Yammer and other Mic
 
 - Common set of Microsoft 365 Groups based guest access policies. 
 
-- Supports allow/deny list of domains which lets admins control domains for incoming guests. 
+- Supports allow/deny list of domains, which lets admins control domains for incoming guests. 
 
 - Admins can define which employees can invite guests. Example: An admin can set a rule to allow employees with “manager” title and above to only be able to invite guests.
 
@@ -80,11 +80,11 @@ The new B2B Guest support strengthens the coherence between Yammer and other Mic
 
 - B2B creates two separate guest identities of a guest - one in their home network and another in the inviting networks. Admins govern the data of incoming guests in their network.
 
-- Rich audit logs track the guest lifecycle and the inviters for each guests, For more details, see [Auditing and reporting a B2B collaboration user](https://docs.microsoft.com/azure/active-directory/b2b/auditing-and-reporting).
+- Rich audit logs track the guest lifecycle and the inviters for each guest. For more details, see [Auditing and reporting a B2B collaboration user](https://docs.microsoft.com/azure/active-directory/b2b/auditing-and-reporting).
 
 ## What features will not be available in the private preview?
 
-- **Personal email/ Phone number based legacy accounts** – The private preview will allow guests with Microsoft 365 Business email accounts. Other email domains like Gmail or Yahoomail etc. will not be supported in this release. However, all legacy data (like old community posts, files etc.) of such users will be migrated so community members can see. Any legacy phone-based accounts will not be supported.
+- **Personal email/ Phone number-based legacy accounts** – The private preview will allow guests with Microsoft 365 Business email accounts. Other email domains like Gmail or Yahoo mail etc. will not be supported in this release. However, all legacy data (like old community posts, and files) of such users will be migrated so community members can see. Any legacy phone-based accounts will not be supported.
 
 - **Cross-Geography guests** – Today we provide enable organizations to host Yammer in two data centers – Europe and North America. With this new guest support, users will be able to add guests from their same geography. (Please check our public  roadmap to see timelines for Cross-Geography support) 
 
@@ -106,7 +106,7 @@ Thank you for choosing to help us shape the future of guest access in Yammer. As
 
 1. You, as the customer, accept that features will change during the preview and certain capabilities might not be at parity with the legacy Yammer guest experience. 
 
-2. With the new B2B Guest experience we request you to provide feedback about the experience via YammerExternFeedback@microsoft.com. This will help us improve the experience further in future releases.
+2. With the new B2B Guest experience, we request that you provide feedback about the experience via YammerExternFeedback@microsoft.com. This will help us improve the experience further in future releases.
 
 ## Yammer Preview Customer Support
 
