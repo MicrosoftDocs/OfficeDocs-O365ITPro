@@ -33,7 +33,7 @@ In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint.
 - After group files are successfully copied to SharePoint, we delete the non-SharePoint version of the files.
 - All files for groups that were previously deleted will be deleted.
 - New files will always be uploaded to SharePoint.
-- Non-SharePoint group files will deleted *within 30 days* after the migration is completed.  
+- Non-SharePoint group files will deleted *within 30 days* after the migration is completed.
 
 ## Before running the tools
 
