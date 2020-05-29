@@ -106,9 +106,9 @@ Yammer global administrators can get access to the new B2B Guests in Yammer prev
 
 ## Are there any expectations around participating in the preview?
 
-Thank you for choosing to help us shape the future of guest access in Yammer. As part of the customer preview, we ask for your help to get your feedback on the new guest experience. This comes in two parts: 
+Thank you for choosing to help us shape the future of guest access in Yammer. As part of the customer preview, we ask for your help to get your feedback on the new guest experience. This comes in two parts:
 
-1. You, as the customer, accept that features will change during the preview and certain capabilities might not be at parity with the legacy Yammer guest experience. 
+1. You, as the customer, accept that features will change during the preview and certain capabilities might not be at parity with the legacy Yammer guest experience.
 
 2. With the new B2B Guest experience, we request that you provide feedback about the experience via YammerExternFeedback@microsoft.com. This will help us improve the experience further in future releases.
 
