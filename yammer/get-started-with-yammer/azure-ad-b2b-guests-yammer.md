@@ -74,25 +74,25 @@ The new B2B Guest support strengthens the coherence between Yammer and other Mic
 
 - Supports allow/deny list of domains which lets admins control domains for incoming guests. 
 
-- Admins can define which employees can invite guests. Example: An admin can set a rule to allow employees with “manager” title and above to only be able to invite guests. 
+- Admins can define which employees can invite guests. Example: An admin can set a rule to allow employees with “manager” title and above to only be able to invite guests.
 
-- Guest access reviews allow admins to setup workflows and rules to periodically attest guest membership and block access for unauthorized guests immediately. 
+- Guest access reviews allow admins to setup workflows and rules to periodically attest guest membership and block access for unauthorized guests immediately.
 
-- B2B creates two separate guest identities of a guest - one in their home network and another in the inviting networks. Admins govern the data of incoming guests in their network. 
+- B2B creates two separate guest identities of a guest - one in their home network and another in the inviting networks. Admins govern the data of incoming guests in their network.
 
 - Rich audit logs track the guest lifecycle and the inviters for each guests, For more details, see [Auditing and reporting a B2B collaboration user](https://docs.microsoft.com/azure/active-directory/b2b/auditing-and-reporting).
 
 ## What features will not be available in the private preview?
 
-- **Personal email/ Phone number based legacy accounts** – The private preview will allow guests with Microsoft 365 Business email accounts. Other email domains like Gmail or Yahoomail etc. will not be supported in this release. However, all legacy data (like old community posts, files etc.) of such users will be migrated so community members can see. Any legacy phone-based accounts will not be supported.  
+- **Personal email/ Phone number based legacy accounts** – The private preview will allow guests with Microsoft 365 Business email accounts. Other email domains like Gmail or Yahoomail etc. will not be supported in this release. However, all legacy data (like old community posts, files etc.) of such users will be migrated so community members can see. Any legacy phone-based accounts will not be supported.
 
 - **Cross-Geography guests** – Today we provide enable organizations to host Yammer in two data centers – Europe and North America. With this new guest support, users will be able to add guests from their same geography. (Please check our public  roadmap to see timelines for Cross-Geography support) 
 
-- **Private Messages** – private messages are disabled for B2B guests in Yammer. 
+- **Private Messages** – private messages are disabled for B2B guests in Yammer.
 
 - **Live events** – Currently guest users will not be able to participate in live events  because guests are not yet supported by Microsoft Stream. To know more about when these features will be available please refer to the Microsoft Yammer roadmap. 
 
-## Who is eligible to access the new experience? 
+## Who is eligible to access the new experience?
 
 The new B2B Guest support is currently available for Classic Yammer only i.e. users need to stay in Classic Yammer via the Opt-in toggle in the suite header. Support for B2B guests in the new Yammer interface is coming soon! Native Mode for Microsoft 365 for Yammer is a pre-requisite to enable the new B2B Guest private preview.
 
