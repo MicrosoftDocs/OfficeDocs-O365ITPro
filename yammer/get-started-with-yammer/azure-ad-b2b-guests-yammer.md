@@ -23,7 +23,7 @@ description: "Learn more about the Business-to-business (B2B) Guest support in Y
 
 External collaboration is a key ingredient for the success of any organization. Yammer guests allow you to call in experts, such as consultants or vendors, from outside your organization. Users can invite guests to a community and quickly start a rich conversation by sharing access community resources like files. This ease-of-use makes external collaboration one of the most used features in Yammer today.
 
-![Yammer business-to-business guest support](media/yammer-b2b-azure-guests.png)
+![Yammer business-to-business guest support](..media/yammer-b2b-azure-guests.png)
 
 **Now guests can use Microsoft Identity to collaborate across Yammer networks**
 
@@ -39,7 +39,7 @@ Azure Active Directory B2B is a secure, compliant external collaboration framewo
 
 Compliance is at the heart of the new guest support in Yammer. Admins can enable and disable guest access on a per community basis. They can control which users can invite guests into the tenant. They can easily configure email domains to allow and disallow guests. Even more – with the rich audit logs you can go back in time to review all guest actions in your tenant. This helps boost the productivity of your end-users because they do not have to bother or depend on the admins to manage guests.
 
-![Benefits of Yammer business-to-business guest support](media/yammer-b2b-azure-benefits.png)
+![Benefits of Yammer business-to-business guest support](..media/yammer-b2b-azure-benefits.png)
 
 **Key benefits of B2B Guests in Yammer**
 
