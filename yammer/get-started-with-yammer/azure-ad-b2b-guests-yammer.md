@@ -98,7 +98,7 @@ The new B2B Guest support is currently available for Classic Yammer only i.e. us
 
 ## How do I enable the preview within my organization?
 
-Yammer global administrators can get access to the new B2B Guests in Yammer preview by submitting request through this sign-up form. One you have signed-up, Microsoft engineering and support teams will reach out to you to finalize dates for enablement of early access for your tenant. 
+Yammer global administrators can get access to the new B2B Guests in Yammer preview by submitting request through [this sign-up form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2Fyyqbld7NOgsJqTjmkSf9UNkhaNDkyMzZKU0VFME00VzVBUkZHUFk2Qy4u). One you have signed-up, Microsoft engineering and support teams will reach out to you to finalize dates for enablement of early access for your tenant. 
 
 ## Are there any expectations around participating in the preview?
 
