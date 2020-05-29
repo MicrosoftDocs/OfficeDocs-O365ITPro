@@ -5,7 +5,6 @@
 ### [Admin quick start](get-started-with-yammer/admin-quick-start.md)
 ### [Bring the new Yammer Preview to your organization](get-started-with-yammer/administrative-settings-opt-in-newyammer.md)
 ### [New Yammer Preview Customer Terms and FAQ](get-started-with-yammer/newyammer-faq.md)
-### [Business-to-business (B2B) Guest support in Yammer Preview - Customer Terms and FAQ](get-started-with-yammer/azure-ad-b2b-guests-yammer.md)
 ### [File storage overview](get-started-with-yammer/file-storage.md)
 ### [Adoption resources](https://resources.techcommunity.microsoft.com/yammer-adoption-resources/)
 ### [Technical community](https://techcommunity.microsoft.com/t5/Yammer/ct-p/Yammer)
@@ -23,6 +22,7 @@
 ### [Overview of Native Mode](configure-your-yammer-network/overview-native-mode.md)
 ### [Configure your Yammer network for Native Mode for Microsoft 365](configure-your-yammer-network/native-mode.md)
 ### [Files in Native Mode](configure-your-yammer-network/files-in-native-mode.md)
+### [Troubleshoot Native Mode](troubleshoot-problems/troubleshoot-native-mode.md)
 ### [FAQ: Consolidating multiple Yammer networks](configure-your-yammer-network/faq-consolidate-multiple-yammer-networks.md)
 ## Manage security and compliance
 ### [Security and compliance overview](manage-security-and-compliance/security-and-compliance.md)
@@ -94,4 +94,4 @@
 ### [Can't migrate Yammer network across Office 365 tenants](troubleshoot-problems/cannot-migrate-a-yammer-network-across-office-365-tenants.md)
 ### [Issue when clicking Yammer tile in Office 365](troubleshoot-problems/error-when-click-the-yammer-tile-in-office-365.md)
 ### [Yammer users displayed as "Former member"](troubleshoot-problems/yammer-user-is-displayed-as-former-member.md)
-
+### [Export members to CSV](https://support.office.com/article/201a78fd-67b8-42c3-9247-79e79f92b535)
