@@ -43,7 +43,7 @@ All users must be in AAD, which means . . .
 
 All groups must be connected, which means . . .
 
-- Only users with Office 365 Group creation rights can create groups in Yammer.
+- Only users with Microsoft 365 Group creation rights can create groups in Yammer.
 - No Yammer group can be created until we can ensure the group is connected.
 - No unlisted private groups or external groups, because those groups are not currently connectable.
 
@@ -81,7 +81,7 @@ The downloadable Alignment Report will provide you with information on the quant
 
 - *eDiscovery* - A Yammer feature Microsoft now provides to customers through the [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2111321).  
 
-Yammer can offer eDiscovery to customers once all their Users, Groups, and Content can be discoverable through the Security and Compliance Center. To facilitate this process, Yammer must ensure that all Groups are Office 365 connected because eDiscoverable content must be saved in the group mailbox. Similarly, users must have an AAD account.
+Yammer can offer eDiscovery to customers once all their Users, Groups, and Content can be discoverable through the Security and Compliance Center. To facilitate this process, Yammer must ensure that all Groups are Microsoft 365 connected because eDiscoverable content must be saved in the group mailbox. Similarly, users must have an AAD account.
 
 ### What can you include in communications to your users?
 
@@ -241,10 +241,10 @@ There is no preparation required to make your All Company group Microsoft 365-co
   The All Company group is different than other Yammer groups in that all users in the network are treated as members of the group without them needing to actually be a member of the group. Once All Company is connected, it is possible to add members to the group from AAD. However, we do not recommend that users be added as members because it won't change the behavior of the group within Yammer for those users.
 
 - *Can I delete All Company once it is connected?*
-  We don't recommend that you delete All Company, as it is an important way for your users to communicate broadly across your organization. Once All Company is Office 365-connected, it is possible to delete the Microsoft 365 Group from the Microsoft 365 admin center or the Azure Active Directory admin center. If that is done, Yammer will honor the deletion and not show All Company in your network.
+  We don't recommend that you delete All Company, as it is an important way for your users to communicate broadly across your organization. Once All Company is Microsoft 365-connected, it is possible to delete the Microsoft 365 Group from the Microsoft 365 admin center or the Azure Active Directory admin center. If that is done, Yammer will honor the deletion and not show All Company in your network.
 
 - *Can I make All Company private once it is connected?*
-  A private All Company is an unsupported state in Yammer. In addition, we don't recommend that you make All Company private, as it is an important way for your users to communicate broadly across your organization. Once All Company is Office 365-connected, it is possible to make it private from the Microsoft 365 admin center or the Azure Active Directory admin center. If that is done, Yammer will not show All Company in your network to anyone regardless of group membership.
+  A private All Company is an unsupported state in Yammer. In addition, we don't recommend that you make All Company private, as it is an important way for your users to communicate broadly across your organization. Once All Company is Microsoft 365-connected, it is possible to make it private from the Microsoft 365 admin center or the Azure Active Directory admin center. If that is done, Yammer will not show All Company in your network to anyone regardless of group membership.
 
 ### Why aren't external groups supported in Native Mode?
 
@@ -273,7 +273,7 @@ Because Yammer external groups are not compatible with Azure B2B, guests in exte
 
 - *Why do you need to add the global admin running the Alignment Tool as a group owner in groups that have no owner with Microsoft 365 group creation rights?*
 
-  This change is done for either (1) groups without any owners, or (2) groups with owners, but none have Microsoft 365 Group creation rights. To make a Yammer group an Office 365-connected group, it is necessary to have at least one group owner with Microsoft 365 Group creation rights. Because global admins have Microsoft 365 Group creation rights, adding the global admin as a group owner helps ensure that the group can become Office 365-connected.
+  This change is done for either (1) groups without any owners, or (2) groups with owners, but none have Microsoft 365 Group creation rights. To make a Yammer group a Microsoft 365-connected group, it is necessary to have at least one group owner with Microsoft 365 Group creation rights. Because global admins have Microsoft 365 Group creation rights, adding the global admin as a group owner helps ensure that the group can become Microsoft 365-connected.
 
 - *What should I do about my groups without owners with Microsoft 365 group creation rights?*
 
@@ -283,7 +283,7 @@ Because Yammer external groups are not compatible with Azure B2B, guests in exte
   - groups whose owners do not have Microsoft 365 group creation rights.
 
   If your network has many of these groups, you have a few options available to you.
-  You can allow the Tool to add the global admin running the Tool to each group as an owner so that the group can become Office 365-connected. Once a group is connected, you can, at your discretion, remove the global admin from having ownership of the group.
+  You can allow the Tool to add the global admin running the Tool to each group as an owner so that the group can become Microsoft 365-connected. Once a group is connected, you can, at your discretion, remove the global admin from having ownership of the group.
   
   You can also review the impacted groups from the downloadable Alignment Report and see if they have any recent activity or active group members. If they don't, you may elect to delete those groups before running the Tool. After those groups have been deleted, you can run the Tool. By deleting inactive groups before running the Tool, you'll reduce the number of groups to which you, as a global admin, need to be added to in order to achieve Native Mode.  
 
