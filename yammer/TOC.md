@@ -55,7 +55,7 @@
 ### [Find external participants](work-with-external-users/find-external-participants.md)
 ### [Disable external messaging](work-with-external-users/disable-external-messaging.md)
 ### [External messaging FAQ](work-with-external-users/external-messaging-faq.md)
-## Manage Yammer groups
+## Manage Yammer communities and groups
 ### [Yammer and Office 365 groups](manage-yammer-groups/yammer-and-office-365-groups.md)
 ### [Create a Yammer group](https://support.office.com/article/b407af4f-9a58-4b12-b43e-afbb1b07c889)
 ### [Manage a Yammer group](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2)
@@ -65,7 +65,7 @@
 ### [Report a Yammer conversation overview](manage-yammer-groups/configure-conversation-reporting.md)
 ### [All Company will work like other Yammer communities](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)
 ### [Office 365 groups naming policy](https://docs.microsoft.com/office365/admin/create-groups/groups-naming-policy)
-### [Export members to CSV](https://support.office.com/article/201a78fd-67b8-42c3-9247-79e79f92b535)
+### [Export members to CSV](https://support.office.com/article/export-yammer-community-or-group-members-to-a-csv-file-14e809e7-b1e3-44b2-9734-6c46aaa5dff9)
 ## Live events in Yammer
 ### [Live events overview](manage-yammer-groups/yammer-live-events.md)
 ### [Live event FAQ](https://support.office.com/article/43bbd59d-a734-4c8f-923d-6a239d137d34)
@@ -94,4 +94,4 @@
 ### [Can't migrate Yammer network across Office 365 tenants](troubleshoot-problems/cannot-migrate-a-yammer-network-across-office-365-tenants.md)
 ### [Issue when clicking Yammer tile in Office 365](troubleshoot-problems/error-when-click-the-yammer-tile-in-office-365.md)
 ### [Yammer users displayed as "Former member"](troubleshoot-problems/yammer-user-is-displayed-as-former-member.md)
-### [Export members to CSV](https://support.office.com/article/201a78fd-67b8-42c3-9247-79e79f92b535)
+### [Export members to CSV](https://support.office.com/article/export-yammer-community-or-group-members-to-a-csv-file-14e809e7-b1e3-44b2-9734-6c46aaa5dff9)
