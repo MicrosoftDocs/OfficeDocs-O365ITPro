@@ -23,9 +23,9 @@ description: "Learn more about the Business-to-business (B2B) Guest support in Y
 
 External collaboration is a key ingredient for the success of any organization. Yammer guests allow you to call in experts, such as consultants or vendors, from outside your organization. Users can invite guests to a community and quickly start a rich conversation by sharing access community resources like files. This ease-of-use makes external collaboration one of the most used features in Yammer today.
 
+![Yammer business-to-business guest support](media/yammer-b2b-azure-guests.png)
 
-
-
+**Now guests can use Microsoft Identity to collaborate across Yammer networks**
 
 ## New Yammer Guests – simplicity, governance and compliance at your fingertips!
 
@@ -39,6 +39,9 @@ Azure Active Directory B2B is a secure, compliant external collaboration framewo
 
 Compliance is at the heart of the new guest support in Yammer. Admins can enable and disable guest access on a per community basis. They can control which users can invite guests into the tenant. They can easily configure email domains to allow and disallow guests. Even more – with the rich audit logs you can go back in time to review all guest actions in your tenant. This helps boost the productivity of your end-users because they do not have to bother or depend on the admins to manage guests.
 
+![Benefits of Yammer business-to-business guest support](media/yammer-b2b-azure-benefits.png)
+
+**Key benefits of B2B Guests in Yammer**
 
 **Example** At Contoso, the administrator has enabled guest access for Microsoft 365 Groups. Megan is the owner of the Contoso Partners community in Yammer, with Enrico and Alex as its members. She wants to invite external users Shawn and Jessica from Fabrikam to collaborate in this Yammer community in her organization. She simply adds their business emails in the member list. Shawn and Jessica receive an email invite. They accept the invite to start participating in the community right away. Guests can access all community content including files in SharePoint.
 
@@ -158,7 +161,7 @@ Before reporting a technical problem to Microsoft Support, please check the foll
 
 ## FAQ
 
-*Q: Is the new experience available for customers that have a Yammer network with EU data residency?*
+**Q: Is the new experience available for customers that have a Yammer network with EU data residency?**
 
 A: Yes!
 
