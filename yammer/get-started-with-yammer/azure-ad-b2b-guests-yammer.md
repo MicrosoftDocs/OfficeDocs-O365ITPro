@@ -98,7 +98,7 @@ We are working hard to bring all Yammer functionality to the new B2B guests in Y
 
 ## Who is eligible to access the new experience?
 
-The new B2B Guest support is currently available for Classic Yammer only ,i.e. users need to [stay in Classic Yammer via the Opt-in toggle](https://docs.microsoft.com/yammer/get-started-with-yammer/administrative-settings-opt-in-newyammer) in the suite header. Support for B2B guests in the new Yammer interface is coming soon! Native Mode for Microsoft 365 for Yammer is a pre-requisite to enable the new B2B Guest private preview.
+The new B2B Guest support is currently available for Classic Yammer only. Users need to [stay in Classic Yammer via the Opt-in toggle](https://docs.microsoft.com/yammer/get-started-with-yammer/administrative-settings-opt-in-newyammer) in the suite header. Support for B2B guests in the new Yammer interface is coming soon! Native Mode for Microsoft 365 for Yammer is a pre-requisite to enable the new B2B Guest private preview.
 
 ## How do I enable the preview within my organization?
 
