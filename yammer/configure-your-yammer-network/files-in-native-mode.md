@@ -2,8 +2,8 @@
 title: "Files in Native Mode"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 01/21/2020
 audience: Admin
@@ -33,7 +33,7 @@ In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint.
 - After group files are successfully copied to SharePoint, we delete the non-SharePoint version of the files.
 - All files for groups that were previously deleted will be deleted.
 - New files will always be uploaded to SharePoint.
-- Non-SharePoint group files will deleted *within 30 days* after the migration is completed.  
+- Non-SharePoint group files will deleted *within 30 days* after the migration is completed.
 
 ## Before running the tools
 
@@ -69,7 +69,7 @@ Because migration deletes files and the process is irreversible, we suggest you:
 
 The following is the expected end user experience for files while the Tool is running:
 
-|Tasks|Office 365 Yammer Groups|Unconnected Yammer Groups|Private Messages|
+|Tasks|Microsoft 365 Yammer Groups|Unconnected Yammer Groups|Private Messages|
 |-----|------------------------|-------------------------|----------------|
 |Delete files|User can delete files|File will be deleted and not migrated to SharePoint.|Files will be deleted and users will no longer have access to these files.|
 |Edit file|Edited files will be stored in SharePoint|Only the latest file will be migrated to SharePoint. If a user edits a file during migration, there is a chance of data loss. Old versions are no longer accessible in SharePoint.|N/A|
@@ -83,6 +83,9 @@ If a group has been deleted, all the files from that group will be deleted and n
 - All group files will be [stored in SharePoint](https://go.microsoft.com/fwlink/?linkid=2111253), providing a consistent file management experience.
 
 - File search can happen from SharePoint as well as Yammer. Yammer searches the first 5000 characters of files in Azure cloud storage as well as the title and author, but only searches the title and author of files stored in SharePoint.
+
+> [!NOTE]
+> If you receive an error code during the alignment process for Native Mode, you can refer to the [error codes section in the Troubleshooting Native Mode topic](../troubleshoot-problems/troubleshoot-native-mode.md#error-codes) for more information.
 
 ## Related articles
 
