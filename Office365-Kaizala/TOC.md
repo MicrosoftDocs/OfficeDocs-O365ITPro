@@ -45,6 +45,7 @@
 ### [Integrate with Microsoft Intune](integrate-with-microsoft-intune.md)
 ### [Troubleshoot notifications](troubleshoot-notifications.md)
 ### [Export or delete a user's data](export-or-delete-a-user-s-data.md)
+### [Migrate Kaizala Pro subscriptions to Microsoft365 or Office 365 versions](migrate-kaizala-pro.md)
 
 ## Groups
 ### [Groups in Kaizala](groups-in-kaizala.md)
