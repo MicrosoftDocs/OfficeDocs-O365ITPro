@@ -9,12 +9,11 @@ ms.date: 05/01/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
-localization_priority: None
+localization_priority: Normal
 ms.custom: Adm_Yammer
 search.appverid: 
 - MOE150
 - MET150
-ROBOTS: NOINDEX, NOFOLLOW
 description: "Learn more about the Business-to-business (B2B) Guest support in Yammer Preview and view the Customer Terms and FAQ."
 ---
 
