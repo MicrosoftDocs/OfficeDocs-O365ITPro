@@ -6,6 +6,7 @@
 ### [Bring the new Yammer Preview to your organization](get-started-with-yammer/administrative-settings-opt-in-newyammer.md)
 ### [New Yammer Preview Customer Terms and FAQ](get-started-with-yammer/newyammer-faq.md)
 ### [File storage overview](get-started-with-yammer/file-storage.md)
+### [Business-to-business (B2B) Guest support in Yammer Preview - Customer Terms and FAQ](get-started-with-yammer/azure-ad-b2b-guests-yammer.md)
 ### [Adoption resources](https://resources.techcommunity.microsoft.com/yammer-adoption-resources/)
 ### [Technical community](https://techcommunity.microsoft.com/t5/Yammer/ct-p/Yammer)
 ### [Yammer blog](https://techcommunity.microsoft.com/t5/Yammer-Blog/bg-p/YammerBlog)

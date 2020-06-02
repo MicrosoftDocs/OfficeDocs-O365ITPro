@@ -9,12 +9,11 @@ ms.date: 05/01/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
-localization_priority: None
+localization_priority: Normal
 ms.custom: Adm_Yammer
 search.appverid: 
 - MOE150
 - MET150
-ROBOTS: NOINDEX, NOFOLLOW
 description: "Learn more about the Business-to-business (B2B) Guest support in Yammer Preview and view the Customer Terms and FAQ."
 ---
 
@@ -22,7 +21,7 @@ description: "Learn more about the Business-to-business (B2B) Guest support in Y
 
 ## Guests turbo-charge collaboration in Yammer
 
-External collaboration is a key ingredient for the success of any organization. Yammer guests allow you to call in experts, such as consultants or vendors, from outside your organization. Users can invite guests to a community and quickly start a rich conversation by sharing access community resources like files. This ease-of-use makes external collaboration one of the most used features in Yammer today.
+External collaboration is a key ingredient for the success of any organization. Yammer guests allow you to call in experts, such as consultants or vendors, from outside your organization. Users can invite guests to a community and quickly start a rich conversation by sharing access to community resources like files. This ease-of-use makes external collaboration one of the most used features in Yammer today.
 
 ![Yammer business-to-business guest support](../media/yammer-b2b-azure-guests.png)
 
@@ -34,7 +33,7 @@ As the size of your organization increases, administrators need to strike a perf
 
 ## We are excited to announce the new B2B Guests in Yammer!
 
-Azure Active Directory B2B is a secure, compliant external collaboration framework used by many apps in the Microsoft 365 suite like SharePoint, Outlook, and Teams. It makes life easier for administrators by giving them the superpowers to manage guests easily. For the end users, it offers a seamless invite and collaboration flow that works across all Microsoft Apps.
+Azure Active Directory B2B is a secure, compliant external collaboration framework used by many apps in the Microsoft 365 suite like Microsoft SharePoint, Microsoft Outlook, and Microsoft Teams. It makes life easier for administrators by giving them the superpowers to manage guests easily. For the end users, it offers a seamless invite and collaboration flow that works across all Microsoft Apps.
 
 ## Why should I upgrade to the New Guest experience? 
 
@@ -71,13 +70,13 @@ The new B2B Guest support strengthens the coherence between Yammer and other Mic
 
 - Unlock External Collaboration (within Europe networks) for Europe Yammer networks 
 
-- Common set of Microsoft 365 Groups based guest access policies. 
+- Common set of Microsoft 365 Groups-based guest access policies. 
 
 - Supports allow/deny list of domains, which lets admins control domains for incoming guests. 
 
 - Admins can define which employees can invite guests. Example: An admin can set a rule to allow employees with “manager” title and above to only be able to invite guests.
 
-- Guest access reviews allow admins to setup workflows and rules to periodically attest guest membership and block access for unauthorized guests immediately.
+- Guest access reviews allow admins to set up workflows and rules to periodically attest guest membership and block access for unauthorized guests immediately.
 
 - B2B creates two separate guest identities of a guest - one in their home network and another in the inviting networks. Admins govern the data of incoming guests in their network.
 
@@ -85,25 +84,25 @@ The new B2B Guest support strengthens the coherence between Yammer and other Mic
 
 ## What features will not be available in the private preview?
 
-We are working hard to bring all Yammer functionality to the new B2B guests in Yammer. Below is the list of features still in progress. 
+We are working hard to bring all Yammer functionality to the new B2B guests in Yammer. Below is the list of features still in progress:
 
-- **Personal email/ Phone number-based legacy accounts** – The private preview will allow guests with Microsoft 365 Business email accounts. Other email domains like Gmail or Yahoo mail etc. will not be supported in this release. However, all legacy data (like old community posts, and files) of such users will be migrated so community members can see. Any legacy phone-based accounts will not be supported.
+- **Personal email/ Phone number-based legacy accounts** – The private preview will allow guests with Microsoft 365 Business email accounts. Other email domains like Gmail or Yahoo mail etc. will not be supported in this release. However, all legacy data (like old community posts and files) of such users will be migrated so community members can see. Any legacy phone-based accounts will not be supported.
 
-- **Cross-Geography guests** – Today we enable organizations to host Yammer in two data centers – Europe and North America. With this new guest support, users will be able to add guests from their same geography. Please check our public  roadmap to see timelines for Cross-Geography support.
+- **Cross-Geography guests** – Today we enable organizations to host Yammer in two data centers – Europe and North America. With this new guest support, users will be able to add guests from their same geography. Please check our public [Microsoft 365 roadmap](https://go.microsoft.com/fwlink/?linkid=2132131) to see timelines for Cross-Geography support.
 
 - **Private Messages** – Private messages are disabled for B2B guests in Yammer.
 
-- **Live events** – Currently guest users will not be able to participate in live events  because guests are not yet supported by Microsoft Stream. To learn more about when these features will be available, please refer to the Microsoft Yammer roadmap. 
+- **Live events** – Currently guest users will not be able to participate in live events  because guests are not yet supported by Microsoft Stream. To learn more about when these features will be available, please refer to the [Microsoft 365 roadmap](https://go.microsoft.com/fwlink/?linkid=2132131). 
 
 - **Adding guests during community creation** – Community owners can invite guest users by using edit membership flow for any community. In the current release, community owners will not be able to add guest emails at the time of community creation. This is a temporary limitation and will be addressed in the subsequent releases. 
 
 ## Who is eligible to access the new experience?
 
-The new B2B Guest support is currently available for Classic Yammer only. Users need to [stay in Classic Yammer via the Opt-in toggle](https://docs.microsoft.com/yammer/get-started-with-yammer/administrative-settings-opt-in-newyammer) in the suite header. Support for B2B guests in the new Yammer interface is coming soon! Native Mode for Microsoft 365 for Yammer is a pre-requisite to enable the new B2B Guest private preview.
+The new B2B Guest support is currently available for Classic Yammer only. Users need to [stay in Classic Yammer via the Preview toggle](https://docs.microsoft.com/yammer/get-started-with-yammer/administrative-settings-opt-in-newyammer) in the suite header. Support for B2B guests in the new Yammer interface is coming soon! Native Mode for Microsoft 365 for Yammer is a pre-requisite to enable the new B2B Guest private preview.
 
 ## How do I enable the preview within my organization?
 
-Yammer global administrators can get access to the new B2B Guests in Yammer preview by submitting request through [this sign-up form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2Fyyqbld7NOgsJqTjmkSf9UNkhaNDkyMzZKU0VFME00VzVBUkZHUFk2Qy4u). One you have signed-up, Microsoft engineering and support teams will reach out to you to finalize dates for enablement of early access for your tenant. 
+Yammer global administrators can get access to the new B2B Guests in Yammer preview by submitting request through [this sign-up form](https://go.microsoft.com/fwlink/?linkid=2131955). Once you have signed-up, Microsoft engineering and support teams will reach out to you to finalize dates for enablement of early access for your tenant. 
 
 ## Are there any expectations around participating in the preview?
 
@@ -136,7 +135,7 @@ Please see the [Support for business products - Admin Help page](https://docs.
 
 ## How should I submit feature requests and feedback? 
 
-Feature requests and feedback on the product during preview should be submitted through to the product teams at YammerExternFeedback@microsoft.com. Feedback can also be provided with peers through the new [Azure AD B2B Guests in Yammer page](https://techcommunity.microsoft.com/t5/yammer/new-azure-b2b-guests-in-yammer/m-p/1399715#M4094) in the Yammer Tech Community. 
+Feature requests and feedback on the product during preview should be submitted through to the product teams at YammerExternFeedback@microsoft.com. Feedback can also be provided with peers through the new [Azure AD B2B Guests in Yammer page](https://go.microsoft.com/fwlink/?linkid=2132094) in the Yammer Tech Community. 
 
 Microsoft Support will not be accepting formal feature requests for the new B2B Guests preview submitted via the Design Change Request (DCR) process during the preview period.
 
@@ -182,11 +181,11 @@ A: The new B2B Guests in Yammer (and [Native Mode for Microsoft 365 for Yammer](
 
  **Q: Will Yammer guest settings be aligned to Microsoft 365 Groups settings?** 
 
-Yes. With Native Mode for Microsoft 365 for Yammer, all communities and users are supported via Microsoft 365 Groups. The AAD guest settings for Microsoft 365 Groups will now also apply to Yammer communities. 
+A: Yes. With Native Mode for Microsoft 365 for Yammer, all communities and users are supported via Microsoft 365 Groups. The AAD guest settings for Microsoft 365 Groups will now also apply to Yammer communities. 
 
 **Q: Can Yammer have dynamic membership groups include guests from a domain?** 
 
-Yes. Admins can create dynamic membership rules for guest users in a Yammer community via Azure portal. An example is: user.userType -eq "Guest" and user.email -contains "@xyz.com" - this rule will add all guest users from the domain xyz.com to the specified Yammer community. 
+A: Yes. Admins can create dynamic membership rules for guest users in a Yammer community via Azure portal. An example is: user.userType -eq "Guest" and user.email -contains "@xyz.com" - this rule will add all guest users from the domain xyz.com to the specified Yammer community. 
 
 **Q: I don’t want to enable the new experience for my production Yammer network yet. How can I try the new B2B Guest experience in my test network?** 
 
