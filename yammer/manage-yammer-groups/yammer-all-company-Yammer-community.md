@@ -21,7 +21,7 @@ description: "Learn how All Company will work like other communities in Yammer."
 
 # All Company will work like other Yammer communities
 
-All Company now leverages the Yammer community architecture so that you can get all the new community experiences and features as they roll out. This includes bringing community customization options like cover photos, naming, and much more to All Company.
+All Company now leverages the Yammer community architecture so that you can get all the new community experiences and features as they roll out. This integration includes bringing community customization options like cover photos, naming, and much more to All Company.
 
 ## What will be the changes to All company?
 
