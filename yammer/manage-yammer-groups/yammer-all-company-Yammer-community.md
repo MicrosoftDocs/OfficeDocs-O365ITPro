@@ -67,7 +67,7 @@ In network admins settings, if you select **Enforce Office 365 Identity**, then 
 - The Office 365 Expiration policy is now enabled for All Company when connected.
 - Privacy and Data Classification for All Company can be changed in AAD but nothing will happen to the user experience because all users in the organization are members of All Company.
 
-## Related topics
+## Related articles
 
 [Is my Yammer community or group connected to Office 365?](https://support.office.com/en-us/article/is-my-community-or-group-connected-to-microsoft-365-f592296f-4158-43d8-b711-d77c35db826e)
 
