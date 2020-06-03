@@ -40,21 +40,24 @@ These settings will still not be available for network admins:
 - All Company cannot be deleted from Yammer UI.  
 - All Company privacy and data classification cannot be changed in Yammer settings.
 
-## Is my All Company community connected?
+## Is my All Company community Office 365-connected, and what does being connected mean?
 
 Today, networks can have communities that are either all connected, all unconnected, or a mix of connected and unconnected.
 
-## What is the benefit of a connected All Company?
+Having an All Company that is connected means that an Office 365 Group is created.
 
-The differences between a connected and unconnected All Company are:
+## What is the benefit of All Company backed by an Office 365 Group?
 
+The differences between an All Company that is connected to an Office 365 Group and an unconnected All Company are:
+
+- A connected All Company community creates an Office 365 Group.
 - A connected All Company can have Live Events.
 - A connected All Company has [Office 365 Resources](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252farticle%252fd8c239dc-a48b-47ab-b85e-6b4b8191a869
 ).
 
 The process for confirming that All Company is connected will work the same as it does for any community. To do so, select the following settings in the Network Admin Settings.  
 
-In network admins settings, if you select **Enforce Office 365 Identity** then your network will have an All Company community that is connected. If you do not select this, then All Company will still not be connected after this change.
+In network admins settings, if you select **Enforce Office 365 Identity**, then your network will have an All Company community that is connected to an Office 365 Group. If you do not select this, then All Company will still not be connected to an Office 365 Group after this change.
 
 ![Office 365 Identity Enforcement](../media/710d82b4-a6fa-43bf-b609-8f2fc80fab52.png)
 
@@ -66,8 +69,7 @@ In network admins settings, if you select **Enforce Office 365 Identity** then y
 
 ## Related topics
 
-[Is my group in Yammer connected to Office 365](https://support.office.com/article/is-my-group-in-yammer-connected-to-office-365-02f1c157-d2f8-4197-a5f8-2d670bba29e6?ui=en-US&rs=en-US&ad=US
-)
+[Is my group in Yammer connected to Office 365?](https://support.office.com/en-us/article/is-my-community-or-group-connected-to-microsoft-365-f592296f-4158-43d8-b711-d77c35db826e)
 
 [Yammer and Office 365 Groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252farticle%252fd8c239dc-a48b-47ab-b85e-6b4b8191a869
 )
