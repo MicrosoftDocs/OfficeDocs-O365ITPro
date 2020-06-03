@@ -68,6 +68,6 @@ In network admins settings, if you select **Enforce Office 365 Identity**, then 
 
 ## Related articles
 
-[Is my Yammer community or group connected to Office 365?](https://support.office.com/en-us/article/is-my-community-or-group-connected-to-microsoft-365-f592296f-4158-43d8-b711-d77c35db826e)
+[Is my Yammer community or group connected to Office 365?](https://support.office.com/article/is-my-community-or-group-connected-to-microsoft-365-f592296f-4158-43d8-b711-d77c35db826e)
 
 [Yammer and Office 365 Groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252farticle%252fd8c239dc-a48b-47ab-b85e-6b4b8191a869)
