@@ -48,7 +48,7 @@ All groups must be connected, which means . . .
 - No unlisted private groups or external groups, because those groups are not currently connectable.
 
 > [!NOTE]
-> If you receive an error code during the alignment process for Native Mode, you can refer to the [error codes](#error-codes) section below for more information.
+> If you receive an error code during the alignment process for Native Mode, you can refer to the [Error Codes](#error-codes) section below for more information.
 
 
 ### What is required for me to be in Native Mode for Microsoft 365 in Yammer?
