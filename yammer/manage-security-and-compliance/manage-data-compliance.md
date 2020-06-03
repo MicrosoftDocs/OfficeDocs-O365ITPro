@@ -2,8 +2,8 @@
 title: "Manage Yammer data compliance"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -70,7 +70,7 @@ You can control whether deleted messages and files stored in Yammer are retained
 
  **Set whether to retain deleted files stored in SharePoint**
 
-For Yammer files saved in SharePoint, Office 365 data retention settings apply. For more information, see [Overview of retention policies](https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies).
+For Yammer files saved in SharePoint, Office 365 data retention settings apply. For more information, see [Overview of retention policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies).
     
 <a name="ContentMode"> </a>
 ## Content mode
