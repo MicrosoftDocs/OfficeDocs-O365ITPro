@@ -29,7 +29,7 @@ After this change, these features will be available to network admins:
 
 - You will be able to edit the name, description, avatar, and cover photo for All Company.
 - Pinned resources actions (add, delete, reposition) will be restricted to network admins.
-- Previous All Company Resources will be moved to Pinned resources.  
+- Previous All Company Resources will be moved to Pinned resources.
 - Searching for the All Company community name (even if it has been renamed) will be possible.
 
 These settings will still not be available for network admins:
@@ -54,7 +54,7 @@ The differences between an All Company that is connected to an Office 365 Group 
 - A connected All Company can have Live Events.
 - A connected All Company has [Office 365 Resources](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252farticle%252fd8c239dc-a48b-47ab-b85e-6b4b8191a869).
 
-The process for confirming that All Company is connected will work the same as it does for any community. To do so, select the following settings in the Network Admin Settings.  
+The process for confirming that All Company is connected will work the same as it does for any community. To do so, select the following settings in the Network Admin Settings.
 
 In network admins settings, if you select **Enforce Office 365 Identity**, then your network will have an All Company community that is connected to an Office 365 Group. If you do not select this, then All Company will still not be connected to an Office 365 Group after this change.
 
