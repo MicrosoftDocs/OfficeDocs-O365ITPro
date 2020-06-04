@@ -55,13 +55,13 @@ Because migration deletes files and the process is irreversible, we suggest you:
 
 3. Download the **Alignment Report**, which provides details on the files that each user and group has.
 
-- Each user has a count for the total number of private message files. These files will be deleted after running the Tool.
-- Each group has a count of Yammer and SharePoint files. We will attempt to migrate all the Yammer files to SharePoint. There will be no impact to existing SharePoint files.
+   - Each user has a count for the total number of private message files. These files will be deleted after running the Tool.
+   - Each group has a count of Yammer and SharePoint files. We will attempt to migrate all the Yammer files to SharePoint. There will be no impact to existing SharePoint files.
 
 4. Authorize and run the Tool.
 
-- SLA - up to 30 days for networks with < 100K files
-- SLA - up to 45 days for networks with > 100K files
+   - SLA - up to 30 days for networks with < 100K files
+   - SLA - up to 45 days for networks with > 100K files
 
 5. Once Microsoft 365 Alignment Tool has completed, review the Error Report and determine if other steps are necessary before your network can be in Native Mode for Microsoft 365.
 
