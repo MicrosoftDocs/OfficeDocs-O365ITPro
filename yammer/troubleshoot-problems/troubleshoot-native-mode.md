@@ -43,7 +43,7 @@ All users must be in AAD, which means . . .
 
 All groups must be connected, which means . . .
 
-- Only users with Microsoft 365 Group creation rights can create groups in Yammer.
+- Only users with Office 365 Group creation rights can create groups in Yammer.
 - No Yammer group can be created until we can ensure the group is connected.
 - No unlisted private groups or external groups, because those groups are not currently connectable.
 
@@ -61,7 +61,7 @@ Native Mode does not require to have any additional licensing requirements beyon
 
 ### What features aren't supported in Native Mode and why aren't they supported?
 
-- *Native Mode does not support private unlisted groups*: As of January 2020, AAD and Microsoft 365 Groups don't support this feature, so it is not possible for us to offer it in Native Mode networks. The downloadable Alignment Tool report will provide you with information on the quantity and usage of private unlisted groups in your network.
+- *Native Mode does not support private unlisted groups*: As of January 2020, AAD and Office 365 Groups don't support this feature, so it is not possible for us to offer it in Native Mode networks. The downloadable Alignment Tool report will provide you with information on the quantity and usage of private unlisted groups in your network.
 
 - *Native Mode does not support external groups within its own network*: Yammer’s current external collaboration capabilities, including external groups, are not compatible with [Azure B2B](https://go.microsoft.com/fwlink/?linkid=2116001). As a result, Native Mode networks cannot host an external group. Users from Native Mode networks can, if allowed by your Yammer Security Settings, collaborate in external groups in other Yammer networks that are not in Native Mode. In addition, External Networks will continue to be supported for Native Mode Yammer networks in the US Geo. We are planning to support in Native Mode for Azure B2B in the future.
 
@@ -81,7 +81,7 @@ The downloadable Alignment Report will provide you with information on the quant
 
 - *eDiscovery* - A Yammer feature Microsoft now provides to customers through the [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2111321).  
 
-Yammer can offer eDiscovery to customers once all their Users, Groups, and Content can be discoverable through the Security and Compliance Center. To facilitate this process, Yammer must ensure that all Groups are Microsoft 365 connected because eDiscoverable content must be saved in the group mailbox. Similarly, users must have an AAD account.
+Yammer can offer eDiscovery to customers once all their Users, Groups, and Content can be discoverable through the Security and Compliance Center. To facilitate this process, Yammer must ensure that all Groups are Office 365 connected because eDiscoverable content must be saved in the group mailbox. Similarly, users must have an AAD account.
 
 ### What can you include in communications to your users?
 
@@ -103,7 +103,7 @@ Below is some content you can use as-is or modify to meet your needs when you're
 
 *- All files that were previously uploaded on Yammer private messages will be deleted on DATE. No new files can be uploaded in Yammer private messages.*
 
-*- Beginning DATE users will need to have Microsoft 365 Group creation rights in order to create a group in Yammer. If you do not currently have Microsoft 365 Group creation rights, you will no longer be able to create groups in Yammer. Please reach out to your manager if you do not have Microsoft 365 Group creation rights, but feel you need to do so to perform your job.*
+*- Beginning DATE users will need to have Office 365 Group creation rights in order to create a group in Yammer. If you do not currently have Office 365 Group creation rights, you will no longer be able to create groups in Yammer. Please reach out to your manager if you do not have Office 365 Group creation rights, but feel you need to do so to perform your job.*
 
 *Your IT team*
 
@@ -111,17 +111,17 @@ Below is some content you can use as-is or modify to meet your needs when you're
 
 ### What can end users expect during migration?
 
-We recommend you communicate to your end users your plan to change to Native Mode. Early communication will prevent surprises, from changes such as, users requiring Microsoft 365 Group creation rights to create groups in Yammer, not being able to create external groups, and/or file attachments no longer being supported in Yammer private messages.
+We recommend you communicate to your end users your plan to change to Native Mode. Early communication will prevent surprises, from changes such as, users requiring Office 365 Group creation rights to create groups in Yammer, not being able to create external groups, and/or file attachments no longer being supported in Yammer private messages.
 
 ### How do I check the status of my network's migration to Native Mode?
 
-Any Global Admin from your tenant can check the status of your network's alignment to Native Mode by logging in to Yammer and going to the Microsoft 365 Native Mode page within the Network Admin pages of Yammer
+Any Global Admin from your tenant can check the status of your network's alignment to Native Mode by logging in to Yammer and going to the Office 365 Native Mode page within the Network Admin pages of Yammer.
 
 ## Networks
 
 ### Should I align my network to be in Native Mode?
 
-The answer to this question depends on the unique needs and situation of your organization. While Native Mode provides many benefits to users and administrators, there are some features that cannot currently be supported in Native Mode because the features are not supported by Microsoft 365 Groups or Azure Active Directory ("AAD"). On one hand, if it is particularly important for your organization to centralize administration and governance as much as possible, then being in Native Mode makes sense. On the other hand, if it is critical for your network to continue using Yammer features that are not supported in Native Mode, you may want to hold off in moving to Native Mode until later.
+The answer to this question depends on the unique needs and situation of your organization. While Native Mode provides many benefits to users and administrators, there are some features that cannot currently be supported in Native Mode because the features are not supported by Office 365 Groups or Azure Active Directory ("AAD"). On one hand, if it is particularly important for your organization to centralize administration and governance as much as possible, then being in Native Mode makes sense. On the other hand, if it is critical for your network to continue using Yammer features that are not supported in Native Mode, you may want to hold off in moving to Native Mode until later.
 
 ### Is it possible for a network that is in Native Mode to get out of Native Mode?
 
@@ -178,9 +178,9 @@ If you receive errors in the report generated by the alignment tool, follow the 
 > [!NOTE]
 > If you have a large number of files with disallowed characters, you can [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online) to obtain a script that renames files in a bulk process.
 
-### What happens to the conversations and files from deleted Microsoft 365 Groups that are within their 30-day recovery window?
+### What happens to the conversations and files from deleted Office 365 Groups that are within their 30-day recovery window?
 
-When the Alignment Tool is run, it will remove the conversations and Yammer-hosted files for all deleted groups, whether the group is in a hard- or soft-deleted state. This means that if there are Yammer Microsoft 365 connected groups that were in the soft delete period when the Alignment Tool was run, those groups, if restored, would be restored without conversations and without any files that had been uploaded to Yammer. Group metadata and files that were uploaded to SharePoint would continue to be restored as they are in non Native Mode scenarios.
+When the Alignment Tool is run, it will remove the conversations and Yammer-hosted files for all deleted groups, whether the group is in a hard- or soft-deleted state. This means that if there are Yammer Office 365 connected groups that were in the soft delete period when the Alignment Tool was run, those groups, if restored, would be restored without conversations and without any files that had been uploaded to Yammer. Group metadata and files that were uploaded to SharePoint would continue to be restored as they are in non Native Mode scenarios.
 
 ## Users and Guests
 
@@ -200,9 +200,9 @@ When the Alignment Tool is run, it will remove the conversations and Yammer-host
 
   Whatever path you choose, we recommend you communicate clearly to those guests what changes are coming.
 
-### What happens to users who don’t have Microsoft 365 Group creation rights?
+### What happens to users who don’t have Office 365 Group creation rights?
 
-If your network enforces Microsoft 365 Group creation rights, users without those rights will no longer be able to create groups in Yammer. We recommend that all users be able to create Yammer groups so that your entire organization can enjoy the benefits of an open, collaborative network.
+If your network enforces Office 365 Group creation rights, users without those rights will no longer be able to create groups in Yammer. We recommend that all users be able to create Yammer groups so that your entire organization can enjoy the benefits of an open, collaborative network.
 
 ### What about users who are not in Azure Active Directory ("AAD")?
 
@@ -233,18 +233,18 @@ Yammer currently allows users to add external participants to individual threads
 
 ## Groups
 
-### What do I need to do to prepare my All Company group to be Microsoft 365 connected?
+### What do I need to do to prepare my All Company group to be Office 365 connected?
 
-There is no preparation required to make your All Company group Microsoft 365-connected. The Tool will connect the group and make the Verified Admins for the network group owners of the All Company group in AAD. As group owners, they will be able to post announcements in the All Company group as they were able to do before All Company was Microsoft 365-connected.
+There is no preparation required to make your All Company group Office 365-connected. The Tool will connect the group and make the Verified Admins for the network group owners of the All Company group in AAD. As group owners, they will be able to post announcements in the All Company group as they were able to do before All Company was Office 365-connected.
 
-- *How is All Company different than other Microsoft 365-connected groups?*
+- *How is All Company different than other Office 365-connected groups?*
   The All Company group is different than other Yammer groups in that all users in the network are treated as members of the group without them needing to actually be a member of the group. Once All Company is connected, it is possible to add members to the group from AAD. However, we do not recommend that users be added as members because it won't change the behavior of the group within Yammer for those users.
 
 - *Can I delete All Company once it is connected?*
-  We don't recommend that you delete All Company, as it is an important way for your users to communicate broadly across your organization. Once All Company is Microsoft 365-connected, it is possible to delete the Microsoft 365 Group from the Microsoft 365 admin center or the Azure Active Directory admin center. If that is done, Yammer will honor the deletion and not show All Company in your network.
+  We don't recommend that you delete All Company, as it is an important way for your users to communicate broadly across your organization. Once All Company is Office 365-connected, it is possible to delete the Office 365 Group from the Microsoft 365 admin center or the Azure Active Directory admin center. If that is done, Yammer will honor the deletion and not show All Company in your network.
 
 - *Can I make All Company private once it is connected?*
-  A private All Company is an unsupported state in Yammer. In addition, we don't recommend that you make All Company private, as it is an important way for your users to communicate broadly across your organization. Once All Company is Microsoft 365-connected, it is possible to make it private from the Microsoft 365 admin center or the Azure Active Directory admin center. If that is done, Yammer will not show All Company in your network to anyone regardless of group membership.
+  A private All Company is an unsupported state in Yammer. In addition, we don't recommend that you make All Company private, as it is an important way for your users to communicate broadly across your organization. Once All Company is Office 365-connected, it is possible to make it private from the Microsoft 365 admin center or the Azure Active Directory admin center. If that is done, Yammer will not show All Company in your network to anyone regardless of group membership.
 
 ### Why aren't external groups supported in Native Mode?
 
@@ -260,7 +260,7 @@ Because Yammer external groups are not compatible with Azure B2B, guests in exte
 ### How do unlisted private groups work?
 
 - *Why can't I have unlisted private groups in Native Mode?*
-  Azure Active Directory and Microsoft 365 Groups don't currently support having unlisted private groups. If Yammer continued to support this feature in a Native Mode network, groups would be unlisted in Yammer. However, these groups would be exposed through other Microsoft 365 products. The downloadable Alignment Report will provide you with information on the quantity and usage of private unlisted groups in your network.
+  Azure Active Directory and Office 365 Groups don't currently support having unlisted private groups. If Yammer continued to support this feature in a Native Mode network, groups would be unlisted in Yammer. However, these groups would be exposed through other Microsoft 365 products. The downloadable Alignment Report will provide you with information on the quantity and usage of private unlisted groups in your network.
 
 - *What should I do about my unlisted private groups?*
   The downloadable Alignment Report provides information about the usage of private unlisted groups within your enterprise network so that you can determine the best path forward for your organization. If your company makes extensive use of unlisted private groups and you want to continue to offer this feature to your users, you may consider delaying your move to Native Node.
@@ -269,25 +269,25 @@ Because Yammer external groups are not compatible with Azure B2B, guests in exte
 
   Whatever path you choose, we recommend you communicate clearly to the owners of these groups what changes are coming so that they can alert you. In some cases, these groups may be owned by senior leaders within your organization, so be sure to choose the appropriate communication channel when reaching out to group owners.  
 
-### What happens to Groups without owners that have Microsoft 365 group creation rights?
+### What happens to Groups without owners who have Office 365 group creation rights?
 
-- *Why do you need to add the global admin running the Alignment Tool as a group owner in groups that have no owner with Microsoft 365 group creation rights?*
+- *Why do you need to add the global admin running the Alignment Tool as a group owner in groups that have no owner with Office 365 group creation rights?*
 
-  This change is done for either (1) groups without any owners, or (2) groups with owners, but none have Microsoft 365 Group creation rights. To make a Yammer group a Microsoft 365-connected group, it is necessary to have at least one group owner with Microsoft 365 Group creation rights. Because global admins have Microsoft 365 Group creation rights, adding the global admin as a group owner helps ensure that the group can become Microsoft 365-connected.
+  This change is done for either (1) groups without any owners, or (2) groups with owners, but none have Office 365 Group creation rights. To make a Yammer group a Office 365-connected group, it is necessary to have at least one group owner with Office 365 Group creation rights. Because global admins have Office 365 Group creation rights, adding the global admin as a group owner helps ensure that the group can become Office 365-connected.
 
-- *What should I do about my groups without owners with Microsoft 365 group creation rights?*
+- *What should I do about my groups without owners with Office 365 group creation rights?*
 
   The downloadable Alignment Report provides information about the groups within your enterprise network that don't have any group owners with group creation rights so that you can determine the best path forward for your organization. These group include:
 
   - groups that have no owners;
-  - groups whose owners do not have Microsoft 365 group creation rights.
+  - groups whose owners do not have Office 365 group creation rights.
 
   If your network has many of these groups, you have a few options available to you.
-  You can allow the Tool to add the global admin running the Tool to each group as an owner so that the group can become Microsoft 365-connected. Once a group is connected, you can, at your discretion, remove the global admin from having ownership of the group.
+  You can allow the Tool to add the global admin running the Tool to each group as an owner so that the group can become Office 365-connected. Once a group is connected, you can, at your discretion, remove the global admin from having ownership of the group.
   
   You can also review the impacted groups from the downloadable Alignment Report and see if they have any recent activity or active group members. If they don't, you may elect to delete those groups before running the Tool. After those groups have been deleted, you can run the Tool. By deleting inactive groups before running the Tool, you'll reduce the number of groups to which you, as a global admin, need to be added to in order to achieve Native Mode.  
 
-  You can grant Microsoft 365 Group creation rights to all users within your organization, or at least to the users that are owners of unconnected groups in Yammer, so that those groups can be connected without the global admin needing to be added as an owner. Once those groups are connected, you can choose whether to revoke group creation rights from some of those users who were granted access.
+  You can grant Office 365 Group creation rights to all users within your organization, or at least to the users that are owners of unconnected groups in Yammer, so that those groups can be connected without the global admin needing to be added as an owner. Once those groups are connected, you can choose whether to revoke group creation rights from some of those users who were granted access.
 
 Whatever path you choose, we recommend you communicate clearly to the users in your network of the changes that are coming so that they can alert you of any concerns or potential issues.
 
