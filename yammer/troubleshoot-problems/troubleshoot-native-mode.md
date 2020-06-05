@@ -150,7 +150,7 @@ Deleted groups and deleted users do not typically have a mailbox, which means co
 It is possible that files previously uploaded to Yammer will not comply with SharePoint filename restrictions. When migration completes, the IT admin gets a report of any file name conflicts. Please update the file names and make sure there are no file names with the following invalid characters before running the Tool again:
 
 - "
-- **
+- *
 - :
 - < >
 - ?
