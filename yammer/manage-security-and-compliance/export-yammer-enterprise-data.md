@@ -141,7 +141,7 @@ To find this data for an individual user, click the Yammer settings icon ![Yamme
    
 4. When the user's account activity data is ready, you'll receive a Yammer inbox message with a link to the data. Click the link to open it.
     
-Exported data does not contain bookmarked messages, group membership, followed or following users, followed topics, the user's notification, application, and language settings, and org chart. To find this data for an individual user, click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), click **People**, and click the name of the user whose data you want to view. This page shows the user's profile, conversations they've participated in, any files, images, and videos they have posted, along with their bookmarks, followed and following users, and followed topics.
+Exported data does not contain bookmarked messages, group membership, followed or following users, followed topics, the user's notifications from Yammer (in Yammer, in Microsoft Teams, or in Microsoft Outlook), application and language settings, and org chart. To find this data for an individual user, click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), click **People**, and click the name of the user whose data you want to view. This page shows the user's profile, conversations they've participated in, any files, images, and videos they have posted, along with their bookmarks, followed and following users, and followed topics.
   
 ## Troubleshoot data export
 
