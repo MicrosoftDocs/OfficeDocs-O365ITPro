@@ -2,8 +2,8 @@
 title: "Overview of Native Mode for Microsoft 365"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 01/23/2020
 audience: Admin
