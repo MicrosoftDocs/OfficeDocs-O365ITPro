@@ -33,6 +33,7 @@ After this change, these features will be available to network admins:
 - Searching for the All Company community name (even if it has been renamed) will be possible.
 - Community insights will be the insights for just the All Company community. Previously the insights found under the All Company page were for the entire network and not specific to the community.
 - You can now promote other users as admins of All Company to better manage this community.
+- All Company will now be sorted like other communities, but users can favorite the community to have it at the top of their communities list. 
 
 These settings will still not be available for network admins:
 
