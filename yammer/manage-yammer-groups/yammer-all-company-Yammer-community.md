@@ -31,6 +31,7 @@ After this change, these features will be available to network admins:
 - Pinned resources actions (add, delete, reposition) will be restricted to network admins.
 - Previous All Company Resources will be moved to Pinned resources.
 - Searching for the All Company community name (even if it has been renamed) will be possible.
+- Community insights will be the insights for just the All Company community. Previously the insights found under the All Company page were for the entire network and not specific to the community.
 
 These settings will still not be available for network admins:
 
