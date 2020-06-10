@@ -71,11 +71,11 @@ In network admins settings, if you select **Enforce Office 365 Identity**, then 
 - The Office 365 Expiration policy is now enabled for All Company when connected.
 - Privacy and Data Classification for All Company can be changed in AAD but nothing will happen to the user experience because all users in the organization are members of All Company.
 
-## How do these changes to All Company affect my existing SharePoint webpart and embed scenarios? 
+## How do these changes to All Company affect my existing SharePoint web part and embed scenarios? 
 
 Now that we have made All Company like other Yammer communities, if you are currently using All Company in a SharePoint web part or embed scenarios, you will now see an empty All Company feed. All you must do to start seeing your All Company feed again is to re-add the All Company community.  
 
-For more information about the various SharePoint web parts and embed features, please see [Use a Yammer web part in SharePoint Online](https://support.microsoft.com/office/a53cfa0c-3d09-42c8-a286-1038a81c59da). 
+For more information about the various SharePoint web parts and embed features, see [Use a Yammer web part in SharePoint Online](https://support.microsoft.com/office/a53cfa0c-3d09-42c8-a286-1038a81c59da). 
 
 ## Related articles
 
