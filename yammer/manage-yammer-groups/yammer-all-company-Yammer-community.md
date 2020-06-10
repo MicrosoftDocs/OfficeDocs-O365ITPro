@@ -69,7 +69,7 @@ In network admins settings, if you select **Enforce Office 365 Identity**, then 
 
 - All Company can be deleted in AAD. It will go through soft-delete and then hard-delete like other communities.
 - The Office 365 Expiration policy is now enabled for All Company when connected.
-- Privacy and Data Classification for All Company can be changed in AAD but nothing will happen to the user experience because all users in the organization are members of All Company.
+- Privacy and Data Classification for All Company can be changed in AAD but if the privacy is set to private for All Company, users will no longer be able to post or view the All Company group.
 
 ## How do these changes to All Company affect my existing SharePoint web part and embed scenarios? 
 
