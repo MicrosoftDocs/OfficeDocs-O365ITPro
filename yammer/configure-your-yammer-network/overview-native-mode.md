@@ -50,7 +50,7 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
 ### Native Mode
 
 - No one can inadvertently take your network out of Native Mode
-- (coming soon) eDiscovery through the [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2111321) for your home network
+- eDiscovery through the [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2111321) for your home network
 - All Yammer groups and users are managed through Office 365
 - Office 365 resources for each group
 - All groups, including All Company, are Office 365-connected, which means they have access to Office 365 features, including live events
