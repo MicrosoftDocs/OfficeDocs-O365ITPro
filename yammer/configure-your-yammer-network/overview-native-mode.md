@@ -29,7 +29,7 @@ A Yammer network must be in one of three modes:
 
 - **Native Mode for Microsoft 365**. In this mode, the network only uses features that allow users, groups, and content to be compatible with and mapped to their counterparts in AAD and Office 365.
 
-  When Yammer content is in Native Mode, you can search for it in the Office Security & Compliance Center.
+  When Yammer content is in Native Mode, you can search for it in the [Microsoft 365 Compliance Center](https://go.microsoft.com/fwlink/?linkid=2132455).
   
   In this mode, users and admins can't add features that would take the network out of Native Mode.
 
@@ -50,7 +50,7 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
 ### Native Mode
 
 - No one can inadvertently take your network out of Native Mode
-- eDiscovery through the [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2111321) for your home network
+- eDiscovery through the [Microsoft 365 Compliance Center](https://go.microsoft.com/fwlink/?linkid=2132455) for your home network
 - All Yammer groups and users are managed through Office 365
 - Office 365 resources for each group
 - All groups, including All Company, are Office 365-connected, which means they have access to Office 365 features, including live events
@@ -85,7 +85,7 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
 
 [Troubleshoot problems with Native Mode for Microsoft 365](../troubleshoot-problems/troubleshoot-native-mode.md)
 
-[Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2111321)
+[Microsoft 365 Compliance Center](https://go.microsoft.com/fwlink/?linkid=2132455)
 
 [Manage Yammer data compliance](../manage-security-and-compliance/manage-data-compliance.md)
 
