@@ -2,8 +2,8 @@
 title: "Yammer and Office 365 Groups"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 12/11/2019
 audience: Admin
