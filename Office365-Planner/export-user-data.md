@@ -149,7 +149,7 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.Container|Container for the plan.|
 |Plan.Container.ContainerType|The type of container (Group). |
 |Plan.Container.ExternalId|Azure Active Directory ID of the group.|
-|Plan.Container.Description|Display name of the plan. |
+|Plan.Container.Description|Display name of the group. |
 |Plan.CreatedDate|Date and time the plan was created.|
 |Plan.CreatedBy|User that created the plan. See User properties for more detail.|
 |Plan.ModifiedDate|Date and time the plan was last updated.|
