@@ -146,6 +146,10 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.Owner.DisplayName|Display name of the owner (Group or User).|
 |Plan.Owner.UserPrincipalName|User Principal Name (UPN) if the owner is a user.  |
 |Plan.Owner.PrincipalType|The entity type (Group or User).|
+|Plan.Container|Container for the plan.|
+|Plan.Container.ContainerType|The type of container (Group). |
+|Plan.Container.ExternalId|Azure Active Directory ID of the group.|
+|Plan.Container.Description|Display name of the plan. |
 |Plan.CreatedDate|Date and time the plan was created.|
 |Plan.CreatedBy|User that created the plan. See User properties for more detail.|
 |Plan.ModifiedDate|Date and time the plan was last updated.|
