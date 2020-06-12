@@ -161,7 +161,7 @@ A: No. Yammer does not mine or sell any customer data. All data belongs to the c
 
 ### Q: Can I export all my data?
 
-A: In Yammer Enterprise, verified admins can export messages and uploaded files that are stored in Yammer, along with their metadata. The data export can also include any content that has been deleted, if the **Soft Delete** data retention option has been configured.
+A: In Yammer Enterprise, verified admins can export messages and uploaded files that are stored in Yammer, along with their metadata. The data export can also include any content that has been deleted, if the **Archive** data retention option has been configured.
 
 Yammer files that are stored in SharePoint must be exported by using Office 365 content search and export. Use [Content Search in Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search) to find the files, and then [Export the Content Search Results](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
 
