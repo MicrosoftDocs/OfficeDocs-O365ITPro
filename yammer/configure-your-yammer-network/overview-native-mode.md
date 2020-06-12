@@ -23,7 +23,7 @@ As of January 2020, all new Yammer Enterprise networks start in Native Mode.
 
 For existing Yammer networks, they will be eligible to migrate to Native Mode (coming soon) and admins can choose which mode suits their network.
 
-In Native Mode, all Yammer users are in Azure Active Directory (AAD), all groups are Office 365 Groups, and all files are stored in SharePoint Online.
+In Native Mode, all Yammer users are in Azure Active Directory (AAD), all groups are Microsoft 365 Groups, and all files are stored in SharePoint Online.
 
 A Yammer network must be in one of three modes:
 
@@ -54,7 +54,7 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
 - All Yammer groups and users are managed through Office 365.
 - Office 365 resources for each group.
 - All groups, including All Company, are Office 365-connected, which means they have access to Office 365 features, including live events.
-- Yammer honors Office 365 Group creation rights.
+- Yammer honors Microsoft 365 Group Creation Rights and enforces Microsoft 365 Group Creation Restrictions.
 - No external groups or network-level guests, but external networks are supported in the [US Geo](../manage-security-and-compliance/security-and-compliance.md).
 - All files uploaded to groups will be stored in SharePoint.
 - Files cannot be uploaded to Yammer private messages.
