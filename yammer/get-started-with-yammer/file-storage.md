@@ -2,8 +2,8 @@
 title: "Yammer file storage overview"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -97,7 +97,7 @@ The following table shows how each type of guest and external user can access fi
 |**Type of user**|**Access to group files in Yammer**|**Access to group files in SharePoint**|
 |----------|----------|----------|
 |**Conversation-level guest that is in your network**|**Private group**: Can view files that have been shared in the conversation, but can't upload files.<br/>**Public group**: Can view, edit, and upload files.|Conversation level guests cannot access any files saved in SharePoint nor upload any files. If you want to enable access to specific files in the conversation, add them as an Azure B2B guest on the Office 365 tenant. File upload is not permitted.|
-|**Network-level guest that is also an Azure B2B guest, and also a member of the group in Office 365**|Can view, edit and upload files.|These Azure B2B guests can view , upload, or edit files from the SharePoint Document library only. File access from Yammer is not permitted.|
+|**Network-level guest that is also an Azure B2B guest, and also a member of the group in Office 365**|Can view, edit, and upload files.|These Azure B2B guests can view, upload, or edit files from the SharePoint Document library only. File access from Yammer is not permitted.|
 |**Azure B2B guest, but not a member of a the group<br/>Network-level guest<br/>Conversation-level guest that is not in your network**|Automatic file access is not allowed. These users can request access to specific files.<br/>Can't upload files.|Automatic file access is not permitted. Guest users can request access to specific files. File upload is not permitted.|   
 |**Network-level guest, but not Azure B2B guest**|Automatic file access is not allowed. A guest user must become an Azure B2B guest and a member of the group in Office 365. Alternatively, other group members can grant access to specific files or the entire document library through one of many SharePoint external sharing methods.|No automatic access for network level guests to Yammer files saved in SharePoint. If you want to enable access to specific files, add them as an Azure B2B guest on the Office 365 tenant. For more information, see [Azure Active Directory B2B documentation](https://docs.microsoft.com/azure/active-directory/b2b/). If guest users need to upload files to a specific group from SharePoint or have automatic access to files uploaded to SharePoint, add them as a group member in SharePoint.|
 
@@ -120,7 +120,7 @@ For more information about Azure B2B guests, see [Guest user access in an Azure 
 
 - Cookie and browser requirements
 
-    To store Yammer files in SharePoint, we use the ADAL library and use Azure Directory (AAD) tokens for authentication. If browsers don’t have third party cookies enabled or if the security zone settings are incorrect in Internet Explorer 11 or Edge, the ADAL library used to refresh AAD tokens can't send information needed to AAD.
+    To store Yammer files in SharePoint, we use the ADAL library and use Azure Directory (AAD) tokens for authentication. If browsers don’t have third-party cookies enabled or if the security zone settings are incorrect in Internet Explorer 11 or Edge, the ADAL library used to refresh AAD tokens can't send information needed to AAD.
 
     When a token refresh call fails, users will see:
 
@@ -130,7 +130,7 @@ For more information about Azure B2B guests, see [Guest user access in an Azure 
 
     - Yammer live events can't be created
 
-     For more information see [A silent sign-in request was sent but no user is signed in](https://github.com/AzureAD/azure-activedirectory-library-for-js/wiki/FAQs#q6-aadsts50058-a-silent-sign-in-request-was-sent-but-no-user-is-signed-in).
+     For more information, see [A silent sign-in request was sent but no user is signed in](https://github.com/AzureAD/azure-activedirectory-library-for-js/wiki/FAQs#q6-aadsts50058-a-silent-sign-in-request-was-sent-but-no-user-is-signed-in).
 
     To avoid problems:
 
