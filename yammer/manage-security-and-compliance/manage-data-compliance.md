@@ -77,7 +77,7 @@ For Yammer files saved in SharePoint, Office 365 data retention settings apply. 
 <a name="ContentMode"> </a>
 ## Content mode
 
-If as a verified admin, you have a legal reason to view private messages, you can select to see them. For more information, see [Monitor private content in Yammer](monitor-private-content.md)
+If as a verified admin, you have a legal reason to view private messages, you can select to see them. For more information, see [Monitor private content in Yammer](monitor-private-content.md).
   
 ## Related articles
 
