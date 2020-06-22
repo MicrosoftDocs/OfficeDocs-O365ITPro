@@ -72,7 +72,7 @@ There are two ways live events in Yammer can be produced. The requirements depen
 
 ## Requirements for live event attendees
 
-- Everyone who attends a Yammer live event must have an Office 365 subscription that includes a license for Yammer (Office 365 A3, A5, F1, E1, E3, or E5).
+- Everyone who attends a Yammer live event must have an Office 365 subscription that includes a license for Yammer (Office 365 A3, A5, F1, E1, E3, or E5) and Microsoft Stream.
 
 - Only members of your Yammer network can attend live events. Guests and external users do not have access to live events.
 
