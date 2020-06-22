@@ -54,6 +54,9 @@ To use Office 365 connected groups in Yammer, make sure your Yammer network meet
 
 - Since October 16, 2018, all Yammer networks must be in a 1:1 network configuration. This means you have one Yammer network that is associated with one Office 365 tenant. This is required as of October 16, 2018. For more information, see [FAQ: Consolidating multiple Yammer networks](../configure-your-yammer-network/faq-consolidate-multiple-yammer-networks.md).
 
+>[!NOTE]
+> If you want to ensure that all of your groups are connected, please align your network to Native Mode.  To learn more about Yammer in Native Mode, see [Overview of Native Mode](../configure-your-yammer-network/overview-native-mode.md).
+
 Here's how the process works after your network becomes eligible for connected groups:
 
 - About 24 hours after the **Status** in **Office 365 Identity Enforcement** changes to **Committed**:
