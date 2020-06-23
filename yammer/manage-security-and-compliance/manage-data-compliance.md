@@ -58,13 +58,15 @@ Monitor group create|has created|Matthew has created the Easter Region Sales gro
 <a name="DataRetention"> </a>
 ## Data retention
 
-You can control whether deleted messages and files stored in Yammer are retained and available in data exports.
-  
+You can control whether deleted messages and files stored in Yammer are retained and available in data exports. 
+
+If a network is in Archive Mode, any content that is deleted by the user will be removed from the front end but retained by the system for the life of the network.  For networks in Delete mode, content that is deleted will be removed after 30 days at which point it will no longer be recoverable.
+
  **Set whether to retain deleted messages and files stored in Yammer**
   
 1. In the Yammer admin center, go to **Content and Security** \> **Data Retention**.
     
-2. To prevent deleted data from being available in exported data, select **Hard Delete**. Or, to enable deleted data to appear in exported data, select **Soft Delete**.
+2. To prevent deleted data from being available in exported data, select **Delete**. Or, to enable deleted data to appear in exported data, select **Archive**.
     
     Retained data stored in Yammer can be permanently deleted by using the Yammer Developer API. To do this you export the data to identify the data that needs to be permanently deleted, and then write a custom PowerShell script to loop through the specific items to delete. For information, see the REST API section of  [Develop apps for Yammer](https://go.microsoft.com/fwlink/?linkid=874797). 
 
@@ -75,7 +77,7 @@ For Yammer files saved in SharePoint, Office 365 data retention settings apply. 
 <a name="ContentMode"> </a>
 ## Content mode
 
-If as a verified admin, you have a legal reason to view private messages, you can select to see them. For more information, see [Monitor private content in Yammer](monitor-private-content.md)
+If as a verified admin, you have a legal reason to view private messages, you can select to see them. For more information, see [Monitor private content in Yammer](monitor-private-content.md).
   
 ## Related articles
 
