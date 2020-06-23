@@ -81,7 +81,7 @@ Files will continue to be stored in Yammer cloud storage in the following instan
 
   - If we detect that you are currently using the Yammer Files APIs, even if you're using connected groups, files for your tenant will be stored in legacy storage until your app is updated to be an Azure Marketplace app that calls Yammer APIs. We’ll share details on how to create an Azure Marketplace Yammer app soon. If you're a developer and have questions about this change, please email api@yammer-inc.com.
 
-    >[!NOTE]
+    >[!IMPORTANT]
     > If you create a third-party app that uses Files APIs after your organization has received the Yammer files in SharePoint feature, file calls will fail. Users will see an HTTP 401 error (unauthorized client error) because the Yammer OAuth token does not include claims from Azure Active Directory, which is required for accessing files stored in SharePoint.
 
  > [!NOTE]
