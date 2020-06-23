@@ -70,17 +70,18 @@ Files will continue to be stored in Yammer cloud storage in the following instan
 
 - When the location the file is being uploaded to is not an Office 365 connected Yammer group:
 
-    - Groups that are not Office 365 connected groups, including All Company, external groups, and secret groups.
+    - Groups that are not Office 365 connected groups, including All Company, external groups, and secret groups
   
-    - Yammer private messages.  
-  
-    - Existing files stored in Yammer legacy storage will not be moved to SharePoint.  
+    - Yammer private messages
+ 
+        >[!NOTE]
+        > Existing files stored in Yammer legacy storage will not be moved to SharePoint.  
 
 - If your organization is using a third-party app that uses Yammer Files APIs:
 
   - If we detect that you are currently using the Yammer Files APIs, even if you're using connected groups, files for your tenant will be stored in legacy storage until your app is updated to be an Azure Marketplace app that calls Yammer APIs. We’ll share details on how to create an Azure Marketplace Yammer app soon. If you're a developer and have questions about this change, please email api@yammer-inc.com.
 
-    >[NOTE]
+    >[!NOTE]
     > If you create a third-party app that uses Files APIs after your organization has received the Yammer files in SharePoint feature, file calls will fail. Users will see an HTTP 401 error (unauthorized client error) because the Yammer OAuth token does not include claims from Azure Active Directory, which is required for accessing files stored in SharePoint.
 
  > [!NOTE]
