@@ -1,5 +1,5 @@
 ---
-title: "All Company will work like other Yammer communities"
+title: "All Company works like other Yammer communities"
 f1.keywords:
 - NOCSH
 ms.author: v-tosadd
@@ -16,27 +16,27 @@ search.appverid:
 - MOE150
 - YAE150
 ms.assetid: 
-description: "Learn how All Company will work like other communities in Yammer."
+description: "Learn how All Company works like other communities in Yammer."
 ---
 
-# All Company will work like other Yammer communities
+# All Company works like other Yammer communities
 
 All Company now leverages the Yammer community architecture so that you can get all the new community experiences and features as they roll out. This integration includes bringing community customization options like cover photos, naming, and much more to All Company.
 
-## What will be the changes to All company?
+## What will be the changes to All Company?
 
-After this change, these features will be available to network admins:
+Now that All Company works like other communities, these features are available to network admins:
 
-- You will be able to edit the name, description, avatar, and cover photo for All Company.
+- You can edit the name, description, avatar, and cover photo for All Company.
   >[!NOTE]
     > Previously the All Company name locale would change based on the user’s locale, but now that you can fully customize the name, the default All Company name will be set in the network’s locale.
-- Pinned resources actions (add, delete, reposition) will be restricted to network admins.
+- Pinned resources actions (add, delete, reposition) are restricted to network admins.
 - You can now [restrict posts to All Company](https://support.office.com/article/3219d2ae-db15-4c9f-9dd2-28559ae39a97), if you want to better control the types of conversations that take place in the All Company feed. When this setting is enabled, only admins can post in All Company but employees can reply to a conversation starter or react to it.
-- Previous All Company Resources will be moved to Pinned resources.
-- Searching for the All Company community name (even if it has been renamed) will be possible.
+- Previous All Company Resources are moved to Pinned resources.
+- Searching for the All Company community name (even if it has been renamed) is possible.
 - Community insights will be the insights for just the All Company community. Previously the insights found under the All Company page were for the entire network and not specific to the community.
 - You can now promote other users as admins of All Company to better manage this community.
-- All Company will now be sorted like other communities, but users can favorite the community to have it at the top of their communities list. 
+- All Company is now sorted like other communities, but users can favorite the community to have it at the top of their communities list. 
 
 These settings will still not be available for network admins:
 
@@ -59,7 +59,7 @@ The differences between an All Company that is connected to an Office 365 Group 
 - A connected All Company can have Live Events.
 - A connected All Company has [Office 365 Resources](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252farticle%252fd8c239dc-a48b-47ab-b85e-6b4b8191a869).
 
-The process for confirming that All Company is connected will work the same as it does for any community. To do so, select the following settings in the Network Admin Settings.
+The process for confirming that All Company is connected works the same as it does for any community. To do so, select the following settings in the Network Admin Settings.
 
 In network admins settings, if you select **Enforce Office 365 Identity**, then your network will have an All Company community that is connected to an Office 365 Group. If you do not select this, then All Company will still not be connected to an Office 365 Group after this change.
 
