@@ -23,13 +23,13 @@ description: "Learn how All Company works like other communities in Yammer."
 
 All Company now leverages the Yammer community architecture so that you can get all the new community experiences and features as they roll out. This integration includes bringing community customization options like cover photos, naming, and much more to All Company.
 
-## What will be the changes to All Company?
+## What are the changes to All Company?
 
 Now that All Company works like other communities, these features are available to network admins:
 
 - You can edit the name, description, avatar, and cover photo for All Company.
   >[!NOTE]
-    > Previously the All Company name locale would change based on the user’s locale, but now that you can fully customize the name, the default All Company name will be set in the network’s locale.
+    > Previously the All Company name locale would change based on the user’s locale, but now that you can fully customize the name, the default All Company name is set in the network’s locale.
 - Pinned resources actions (add, delete, reposition) are restricted to network admins.
 - You can now [restrict posts to All Company](https://support.office.com/article/3219d2ae-db15-4c9f-9dd2-28559ae39a97), if you want to better control the types of conversations that take place in the All Company feed. When this setting is enabled, only admins can post in All Company but employees can reply to a conversation starter or react to it.
 - Previous All Company Resources are moved to Pinned resources.
