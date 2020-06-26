@@ -34,7 +34,7 @@ Now that All Company works like other communities, these features are available 
 - You can now [restrict posts to All Company](https://support.office.com/article/3219d2ae-db15-4c9f-9dd2-28559ae39a97), if you want to better control the types of conversations that take place in the All Company feed. When this setting is enabled, only admins can post in All Company but employees can reply to a conversation starter or react to it.
 - Previous All Company Resources are moved to Pinned resources.
 - Searching for the All Company community name (even if it has been renamed) is possible.
-- Community insights will be the insights for just the All Company community. Previously the insights found under the All Company page were for the entire network and not specific to the community.
+- Community insights are now the insights for just the All Company community. Previously the insights found under the All Company page were for the entire network and not specific to the community.
 - You can now promote other users as admins of All Company to better manage this community.
 - All Company is now sorted like other communities, but users can favorite the community to have it at the top of their communities list. 
 
