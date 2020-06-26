@@ -64,7 +64,7 @@
 ### [Create a dynamic group](manage-yammer-groups/create-a-dynamic-group.md)
 ### [Customize your network](manage-yammer-groups/customize-your-network.md)
 ### [Report a Yammer conversation overview](manage-yammer-groups/configure-conversation-reporting.md)
-### [All Company will work like other Yammer communities](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)
+### [All Company now works like other Yammer communities](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)
 ### [Restrict All Company posts in Yammer](https://support.office.com/article/3219d2ae-db15-4c9f-9dd2-28559ae39a97)
 ### [Office 365 groups naming policy](https://docs.microsoft.com/office365/admin/create-groups/groups-naming-policy)
 ### [Export members to a CSV file](https://support.office.com/article/14e809e7-b1e3-44b2-9734-6c46aaa5dff9-)
