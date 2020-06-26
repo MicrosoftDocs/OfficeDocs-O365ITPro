@@ -1,5 +1,5 @@
 ---
-title: "All Company works like other Yammer communities"
+title: "All Company now works like other Yammer communities"
 f1.keywords:
 - NOCSH
 ms.author: v-tosadd
@@ -16,10 +16,10 @@ search.appverid:
 - MOE150
 - YAE150
 ms.assetid: 
-description: "Learn how All Company works like other communities in Yammer."
+description: "Learn how All Company now works like other communities in Yammer."
 ---
 
-# All Company works like other Yammer communities
+# All Company now works like other Yammer communities
 
 All Company now leverages the Yammer community architecture so that you can get all the new community experiences and features as they roll out. This integration includes bringing community customization options like cover photos, naming, and much more to All Company.
 
