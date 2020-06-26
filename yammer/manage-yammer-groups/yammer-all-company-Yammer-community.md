@@ -73,7 +73,7 @@ In network admins settings, if you select **Enforce Office 365 Identity**, then 
 
 ## How do these changes to All Company affect my existing SharePoint web part and embed scenarios? 
 
-Now that we have made All Company like other Yammer communities, if you are currently using All Company in a SharePoint web part or embed scenarios, you will now see an empty All Company feed. All you must do to start seeing your All Company feed again is to re-add the All Company community.  
+Now that we have made All Company like other Yammer communities, if you are currently using All Company in a SharePoint web part or embed scenario, you will now see an empty All Company feed. All you must do to start seeing your All Company feed again is to re-add the All Company community.  
 
 For more information about the various SharePoint web parts and embed features, see [Use a Yammer web part in SharePoint Online](https://support.microsoft.com/office/a53cfa0c-3d09-42c8-a286-1038a81c59da). 
 
