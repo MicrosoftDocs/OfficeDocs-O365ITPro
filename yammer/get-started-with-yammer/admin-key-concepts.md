@@ -23,7 +23,7 @@ description: "Key concepts for planning how you'll administer  your new Yammer n
 
 Welcome to your Yammer network! We're super glad you're here. Using Yammer is going to change the way your company gets work done (if it hasn't already!), and you, as an admin, will be a huge part of helping your coworkers become comfortable with the way Yammer works.
   
-Your best resource, and the page you should add to your Favorites is [Yammer admin help](../yammer-landing-page.md): you'll find links for everything you need to do to plan your rollout, configure and customize Yammer, manage users and groups, manage security and compliance, and build community and engagement. 
+Your best resource, and the page you should add to your Favorites is [Yammer admin help](../index.yml): you'll find links for everything you need to do to plan your rollout, configure and customize Yammer, manage users and groups, manage security and compliance, and build community and engagement. 
   
 This article describes the key concepts you should know, and key decisions you should make before you open Yammer for business. 
   
@@ -93,7 +93,7 @@ This article describes the key concepts you should know, and key decisions you s
     
 11. Learn more.
     
-    To learn about all the admin features of Yammer, see [Yammer admin help](../yammer-landing-page.md).
+    To learn about all the admin features of Yammer, see [Yammer admin help](../index.yml).
      
 ## FAQs
 <a name="Activation"> </a>
