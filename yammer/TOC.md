@@ -1,5 +1,5 @@
 
-# [Yammer](index.md)
+# [Yammer](index.yml)
 ## Get started with Yammer
 ### [Admin key concepts](get-started-with-yammer/admin-key-concepts.md)
 ### [Admin quick start](get-started-with-yammer/admin-quick-start.md)
