@@ -85,7 +85,7 @@ This article describes the key concepts you should know, and key decisions you s
     
 9. Define how your organization will train and support Yammer users. End-user support options include online help and training, and the online community. See [Yammer help center](https://support.office.com/article/8663922d-8f76-47c2-827a-ee86e8cac00f.aspx). Consider creating a Yammer 101 group - your own local self-support community.
     
-    For admin support options, if you need more help than [Yammer admin help](../yammer-landing-page.md) provides, you can [Contact support for business products - Admin Help](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
+    For admin support options, if you need more help than [Yammer admin help](../index.yml) provides, you can [Contact support for business products - Admin Help](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
     
     Check the [Office 365 Service health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see real-time status of the Yammer service. 
     
