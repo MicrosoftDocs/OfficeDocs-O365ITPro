@@ -29,7 +29,6 @@
 ### [Regional availability](regional-availability.md)
 ### [Export or delete data](export-or-delete-your-data.md)
 ### [Age verification](age-verification.md)
-### [Make payments](make-payments.md)
 
 ## Kaizala management portal
 ### [Kaizala management portal](kaizala-management-portal.md)
