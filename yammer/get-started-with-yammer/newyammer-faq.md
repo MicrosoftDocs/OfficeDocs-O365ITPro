@@ -1,5 +1,5 @@
 ---
-title: "New Yammer Preview - Customer Terms and FAQ"
+title: "New Yammer customer terms and FAQ"
 f1.keywords:
 - NOCSH
 ms.author: v-tosadd
@@ -14,9 +14,9 @@ ms.custom: Adm_Yammer
 search.appverid: 
 - MOE150
 - MET150
-description: "Learn more about the terms and frequently asked questions (FAQ) for the New Yammer Preview."
+description: "Learn more about the terms and frequently asked questions (FAQ) for new Yammer."
 ---
-# New Yammer Preview Customer Terms and FAQ
+# New Yammer customer terms and FAQ
 
 Yammer has been completely redesigned, with dozens of new capabilities that power leadership engagement, company-wide communication, and communities in Microsoft 365. The new Yammer delivers a beautiful, intelligent experience across devices and deep integration with Microsoft Teams and Outlook. And, as part of Microsoft 365, people can connect and share knowledge across the organization with open conversations backed by enterprise-grade privacy, security, and compliance.
 
