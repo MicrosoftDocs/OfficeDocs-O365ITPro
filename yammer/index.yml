@@ -190,20 +190,20 @@ landingContent:
             url: https://support.office.com/article/office-365-groups-naming-policy-6ceca4d3-cad1-4532-9f0f-d469dfbbb552
       - linkListType: how-to-guide
         links:
-          - text: Create a Yammer group
-            url: https://support.office.com/article/Create-a-group-in-Yammer-b407af4f-9a58-4b12-b43e-afbb1b07c889
-          - text: Manage a Yammer group
-            url: https://support.office.com/article/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2
-          - text: Delete a Yammer group
-            url: https://support.office.com/article/f03ab85a-c1d9-4611-ab92-a3b46d747053
+          - text: Create a Yammer community or group
+            url: https://support.office.com/article/60db6f14-fc5d-4ffb-8812-e3c0a4109e00
+          - text: Manage a Yammer community or group
+            url: https://support.office.com/article/12ce0216-0618-4576-b87a-a8c189cee0f8
+          - text: Delete a Yammer community or group
+            url: https://support.office.com/article/2a70a1f9-d081-488e-9fc7-0f7684e5a58b
           - text: Yammer and Office 365 connected groups
             url: /Yammer/manage-yammer-groups/yammer-and-office-365-groups
           - text: Manage who can create Office 365 groups
             url: https://support.office.com/article/manage-who-can-create-office-365-groups-4c46c8cb-17d0-44b5-9776-005fced8e618
           - text: Create a dynamic group
             url: /Yammer/manage-yammer-groups/create-a-dynamic-group
-          - text: Export group members to a .csv file
-            url: https://support.office.com/article/201a78fd-67b8-42c3-9247-79e79f92b535
+          - text: Export community or group members to a .csv file
+            url: https://support.office.com/article/14e809e7-b1e3-44b2-9734-6c46aaa5dff9
 
   # Card
   - title: Live events in Yammer
@@ -232,8 +232,8 @@ landingContent:
             url: /office365/admin/activity-reports/yammer-activity-report
           - text: Groups activity report
             url: /office365/admin/activity-reports/yammer-groups-activity-report
-          - text: View group insights in Yammer
-            url: https://support.office.com/article/View-Group-Insights-in-Yammer-73f9fa6d-d442-4f25-9194-d5317c9328ab
+          - text: View commmunity or group insights in Yammer
+            url: https://support.office.com/article/06c5494a-d77c-410c-9464-98bc0b9dad84
           - text: Device usage report
             url: /office365/admin/activity-reports/yammer-device-usage-report
           - text: Measure success guide
