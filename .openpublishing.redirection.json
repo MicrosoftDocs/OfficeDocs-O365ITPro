@@ -4097,7 +4097,7 @@
     },
     {
       "source_path": "yammer/index.md",
-      "redirect_url": "index.yml",
+      "redirect_url": "yammer/index.yml",
       "redirect_document_id": false
     },
     {
