@@ -54,11 +54,11 @@ landingContent:
       - linkListType: whats-new
         links:
           - text: Report a conversation overview
-            url: /manage-yammer-groups/configure-conversation-reporting
+            url: /yammer/manage-yammer-groups/configure-conversation-reporting
           - text: All Company now works like other Yammer communities 
             url: /yammer/manage-yammer-groups/yammer-all-company-yammer-community
           - text: Restrict All Company posts in Yammer 
-            url: /yammer/manage-yammer-groups/yammer-all-company-Yammer-community
+            url: https://support.microsoft.com/office/3219d2ae-db15-4c9f-9dd2-28559ae39a97
           - text: Use a Yammer web part in SharePoint Online
             url:  https://support.microsoft.com/office/a53cfa0c-3d09-42c8-a286-1038a81c59da
           - text: Use the Yammer Communities app for Microsoft Teams
