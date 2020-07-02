@@ -22,7 +22,7 @@ landingContent:
     linkLists:
       - linkListType: overview
         links:
-          - text: New Yammer Preview Customer Terms and FAQ
+          - text: New Yammer customer terms and FAQ
             url: /Yammer/get-started-with-yammer/newyammer-faq
           - text: Yammer admin key concepts
             url: /Yammer/get-started-with-yammer/admin-key-concepts         
@@ -42,7 +42,7 @@ landingContent:
         links:
           - text: Admin quick start
             url: /yammer/get-started-with-yammer/admin-quick-start
-          - text: Bring the new Yammer to your organization
+          - text: Bring new Yammer to your organization
             url: /yammer/get-started-with-yammer/administrative-settings-opt-in-newyammer
           - text: File storage overview
             url: /yammer/get-started-with-yammer/file-storage
@@ -166,6 +166,8 @@ landingContent:
             url: /Yammer/work-with-external-users/create-and-manage-an-external-network
           - text: Add external participants
             url: /Yammer/work-with-external-users/add-external-participants
+          - text: Business-to-business (B2B) Guest support in Yammer Preview - Customer Terms and FAQ
+            url:  Yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer
           - text: Create and manage external groups
             url: /Yammer/work-with-external-users/create-and-manage-external-groups
           - text: Find external participants
