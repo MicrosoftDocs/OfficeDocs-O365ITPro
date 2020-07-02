@@ -22,6 +22,8 @@ description: "Use the Yammer admin tools to set up your Yammer network. Covers o
 
 # Configure your Yammer network
 
+[test redirect](yammer/yammer-landing-page.md)
+
 Do these basic network configuration tasks in the Yammer admin center before you invite users to use Yammer Enterprise so that all users get a consistent experience. 
   
 As you're getting started with Yammer, review the links in [Yammer admin help](../index.yml) for other tasks you might want to do, such as [customizing the look of your Yammer network](customize-the-look-of-yammer.md), [reviewing security and compliance settings](../manage-security-and-compliance/security-and-compliance.md), and making sure your [email system is configured properly](configure-email-and-yammer.md).
