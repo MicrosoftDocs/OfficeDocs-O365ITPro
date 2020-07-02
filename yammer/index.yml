@@ -53,8 +53,8 @@ landingContent:
     linkLists:
       - linkListType: whats-new
         links:
-         - text: Report a conversation overview
-            url: /yammer/manage-yammer-groups/configure-conversation-reporting
+          - text: Report a conversation overview
+            url: /manage-yammer-groups/configure-conversation-reporting
           - text: All Company now works like other Yammer communities 
             url: /yammer/manage-yammer-groups/yammer-all-company-yammer-community
           - text: Restrict All Company posts in Yammer 
