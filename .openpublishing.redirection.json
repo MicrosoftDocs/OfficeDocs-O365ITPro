@@ -4101,8 +4101,8 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "yammer-landing-page",
-      "redirect_url": "index.yml",
+      "source_path": "yammer/yammer-landing-page",
+      "redirect_url": "yammer/index.yml",
       "redirect_document_id": false
     },
     {
