@@ -4096,13 +4096,13 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "yammer/index.md",
-      "redirect_url": "yammer/index",
+      "source_path": "index.md",
+      "redirect_url": "yammer/index.yml",
       "redirect_document_id": true
     },
     {
       "source_path": "yammer/yammer-landing-page.md",
-      "redirect_url": "yammer/index",
+      "redirect_url": "yammer/index.yml",
       "redirect_document_id": false
     },
     {
