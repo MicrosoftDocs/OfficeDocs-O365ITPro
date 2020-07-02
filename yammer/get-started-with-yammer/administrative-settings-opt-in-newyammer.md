@@ -1,5 +1,5 @@
 ---
-title: "Bring the new Yammer Preview to your organization"
+title: "Bring new Yammer to your organization"
 f1.keywords:
 - NOCSH
 ms.author: v-tosadd
@@ -14,7 +14,7 @@ ms.custom: Adm_Yammer
 search.appverid: 
 - MOE150
 - MET150
-description: "Learn more about the admin settings to control user opt-in for the new Yammer Public Preview."
+description: "Learn more about the admin settings to control user opt-in for new Yammer ."
 ---
 
 # Bring the new Yammer Preview to your organization
