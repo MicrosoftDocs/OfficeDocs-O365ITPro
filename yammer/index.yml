@@ -82,6 +82,8 @@ landingContent:
         links:
           - text: Yammer networks and Office 365 tenants
             url: /yammer/configure-your-yammer-network/yammer-and-office-365
+          - text: Overview of native mode
+            url: /yammer/configure-your-yammer-network/overview-native-mode
       - linkListType: how-to-guide
         links:
           - text: Configure your Yammer network
