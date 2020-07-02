@@ -23,7 +23,7 @@ description: "Key concepts for planning how you'll administer  your new Yammer n
 
 Welcome to your Yammer network! We're super glad you're here. Using Yammer is going to change the way your company gets work done (if it hasn't already!), and you, as an admin, will be a huge part of helping your coworkers become comfortable with the way Yammer works.
   
-Your best resource, and the page you should add to your Favorites is [Yammer admin help](../yammer-landing-page.md): you'll find links for everything you need to do to plan your rollout, configure and customize Yammer, manage users and groups, manage security and compliance, and build community and engagement. 
+Your best resource, and the page you should add to your Favorites is [Yammer admin help](../index.yml): you'll find links for everything you need to do to plan your rollout, configure and customize Yammer, manage users and groups, manage security and compliance, and build community and engagement. 
   
 This article describes the key concepts you should know, and key decisions you should make before you open Yammer for business. 
   
@@ -85,7 +85,7 @@ This article describes the key concepts you should know, and key decisions you s
     
 9. Define how your organization will train and support Yammer users. End-user support options include online help and training, and the online community. See [Yammer help center](https://support.office.com/article/8663922d-8f76-47c2-827a-ee86e8cac00f.aspx). Consider creating a Yammer 101 group - your own local self-support community.
     
-    For admin support options, if you need more help than [Yammer admin help](../yammer-landing-page.md) provides, you can [Contact support for business products - Admin Help](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
+    For admin support options, if you need more help than [Yammer admin help](../index.yml) provides, you can [Contact support for business products - Admin Help](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
     
     Check the [Office 365 Service health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see real-time status of the Yammer service. 
     
@@ -93,7 +93,7 @@ This article describes the key concepts you should know, and key decisions you s
     
 11. Learn more.
     
-    To learn about all the admin features of Yammer, see [Yammer admin help](../yammer-landing-page.md).
+    To learn about all the admin features of Yammer, see [Yammer admin help](../index.yml).
      
 ## FAQs
 <a name="Activation"> </a>
