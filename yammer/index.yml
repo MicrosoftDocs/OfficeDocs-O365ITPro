@@ -53,7 +53,7 @@ landingContent:
     linkLists:
       - linkListType: whats-new
         links:
-          - text: Report a conversation overview
+         - text: Report a conversation overview
             url: /Yammer/manage-yammer-groups/configure-conversation-reporting
           - text: All Company now works like other Yammer communities 
             url: /Yammer/manage-yammer-groups/yammer-all-company-yammer-community
@@ -73,8 +73,7 @@ landingContent:
             url: /Yammer/integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker
           - text: Yammer live events
             url: /Yammer/manage-yammer-groups/yammer-live-events
-          - text: Release notes for Yammer clients
-            url: https://support.office.com/article/what-s-new-in-yammer-12116b2c-a9f4-40a5-bf6f-5e2d82f16d58
+
 
   # Card (optional)
   - title: Configure Yammer
