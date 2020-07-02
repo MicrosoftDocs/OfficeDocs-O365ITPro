@@ -1,5 +1,5 @@
 ---
-title: "Bring the new Yammer Preview to your organization"
+title: "Bring new Yammer to your organization"
 f1.keywords:
 - NOCSH
 ms.author: v-tosadd
@@ -14,10 +14,10 @@ ms.custom: Adm_Yammer
 search.appverid: 
 - MOE150
 - MET150
-description: "Learn more about the admin settings to control user opt-in for the new Yammer Public Preview."
+description: "Learn more about the admin settings to control user opt-in for new Yammer."
 ---
 
-# Bring the new Yammer Preview to your organization
+# Bring new Yammer to your organization
 
 Global admins can now control participation in the preview for the new Yammer in your organization. Please note that only one of these settings can be selected at a time. You can go back and forth between these options but we strongly recommend understanding what selecting and unselecting each setting entails before making that choice.
 
