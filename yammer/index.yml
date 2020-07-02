@@ -54,25 +54,25 @@ landingContent:
       - linkListType: whats-new
         links:
          - text: Report a conversation overview
-            url: /Yammer/manage-yammer-groups/configure-conversation-reporting
+            url: /yammer/manage-yammer-groups/configure-conversation-reporting
           - text: All Company now works like other Yammer communities 
-            url: /Yammer/manage-yammer-groups/yammer-all-company-yammer-community
+            url: /yammer/manage-yammer-groups/yammer-all-company-yammer-community
           - text: Restrict All Company posts in Yammer 
-            url: /Yammer/manage-yammer-groups/yammer-all-company-Yammer-community
+            url: /yammer/manage-yammer-groups/yammer-all-company-Yammer-community
           - text: Use a Yammer web part in SharePoint Online
             url:  https://support.microsoft.com/office/a53cfa0c-3d09-42c8-a286-1038a81c59da
           - text: Use the Yammer Communities app for Microsoft Teams
             url:  https://support.microsoft.com/office/930c86f1-e1e2-4e45-a66a-ce8faca71a21
           - text: File storage changes 
-            url: /Yammer/get-started-with-yammer/file-storage
+            url: /yammer/get-started-with-yammer/file-storage
           - text: Data residency in the EU Geo
-            url: /Yammer/manage-security-and-compliance/data-residency
+            url: /yammer/manage-security-and-compliance/data-residency
           - text: Rich text formatting
-            url: /Yammer/get-started-with-yammer/rich-text-formatting
+            url: /yammer/get-started-with-yammer/rich-text-formatting
           - text: Set up a knowledge base community
-            url: /Yammer/integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker
+            url: /yammer/integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker
           - text: Yammer live events
-            url: /Yammer/manage-yammer-groups/yammer-live-events
+            url: /yammer/manage-yammer-groups/yammer-live-events
 
 
   # Card (optional)
