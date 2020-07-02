@@ -260,10 +260,7 @@ landingContent:
             url: /Yammer/integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker
           - text: Sentiment analysis using Flow and Azure Cognitive Services
             url: /Yammer/integrate-yammer-with-other-apps/sentiment-analysis-flow-azure
-          - text: Use the Yammer connector in other apps
-            url: /connectors/yammer/
-          - text: Sentiment analysis using Flow and Azure Cognitive Services
-            url: /Yammer/integrate-yammer-with-other-apps/sentiment-analysis-flow-azure
+          
       
   # Card
   - title: Troubleshooting
