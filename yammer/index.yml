@@ -167,7 +167,7 @@ landingContent:
           - text: Add external participants
             url: /Yammer/work-with-external-users/add-external-participants
           - text: Business-to-business (B2B) Guest support preview
-            url:  Yammer//get-started-with-yammer/azure-ad-b2b-guests-yammer
+            url:  Yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer
           - text: Create and manage external groups
             url: /Yammer/work-with-external-users/create-and-manage-external-groups
           - text: Find external participants
