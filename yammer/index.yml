@@ -253,7 +253,7 @@ landingContent:
           - text: Include a Yammer feed in a SharePoint page
             url: /Yammer/integrate-yammer-with-other-apps/integrate-with-other-applications
           - text: Yammer and SharePoint Server
-            url: /SharePoint/administration/integrate-yammer-with-on-premises-sharepoint-server-environments
+            url: https://docs.microsoft.com/SharePoint/administration/integrate-yammer-with-on-premises-sharepoint-server-environments
           - text: Yammer and Newsfeed
             url: /Yammer/integrate-yammer-with-other-apps/yammer-and-newsfeed
           - text: Knowledge-base community using Flow and QnA Maker
