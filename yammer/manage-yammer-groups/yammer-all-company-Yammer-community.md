@@ -21,7 +21,7 @@ description: "Learn how All Company now works like other communities in Yammer."
 
 # All Company now works like other Yammer communities
 
-All Company now leverages the Yammer community architecture so that you can get all the new community experiences and features as they roll out. This integration includes bringing community customization options like cover photos, naming, and much more to All Company.
+All Company now leverages the Yammer community architecture in both native mode and non-native mode tenants so that you can get all the new community experiences and features as they roll out. This integration includes bringing community customization options like cover photos, naming, and much more to All Company.
 
 ## What are the changes to All Company?
 
@@ -36,7 +36,7 @@ Now that All Company works like other communities, these features are available 
 - Searching for the All Company community name (even if it has been renamed) is possible.
 - Community insights are now the insights for just the All Company community. Previously the insights found under the All Company page were for the entire network and not specific to the community.
 - You can now promote other users as admins of All Company to better manage this community.
-- All Company is now sorted like other communities, but users can favorite the community to have it at the top of their communities list. 
+- All Company is now sorted like other communities, but users can favorite the All Company community to have it at the top of their communities list. 
 
 These settings will still not be available for network admins:
 
@@ -49,7 +49,7 @@ These settings will still not be available for network admins:
 
 Today, networks can have communities that are either all connected, all unconnected, or a mix of connected and unconnected.
 
-Having an All Company that is connected means that an Office 365 Group is created.
+Having an All Company that is connected means that an Office 365 Group is created. In native mode, All Company will always be a connected community.
 
 ## What is the benefit of All Company backed by an Office 365 Group?
 
