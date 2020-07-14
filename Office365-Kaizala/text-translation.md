@@ -3,7 +3,7 @@ title: Kaizala Text Translation
 f1.keywords:
 - NOCSH
 ms.author: sukumart
-author: Sukumar Rayan
+author: SukumarRayan
 manager: rojog
 ms.date: 07/13/2020
 audience: ITPro
