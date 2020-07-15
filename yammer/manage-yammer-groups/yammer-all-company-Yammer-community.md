@@ -36,7 +36,7 @@ Now that All Company works like other communities, these features are available 
 - Searching for the All Company community name (even if it has been renamed) is possible.
 - Community insights are now the insights for just the All Company community. Previously the insights found under the All Company page were for the entire network and not specific to the community.
   >[!NOTE]
-  >If you need access to previous insights for All Company, you can access them through the following URL: https://www.yammer.com/domain-name/#/groups/company/insights. Substitute your organization’s domain name in the address.
+  >If you need access to previous insights for All Company, you can access them through the following URL: https://www.yammer.com/*domain-name*/#/groups/company/insights. Substitute your organization’s domain name in the address.
 - You can now promote other users as admins of All Company to better manage this community.
 - All Company is now sorted like other communities, but users can favorite the All Company community to have it at the top of their communities list. 
 
