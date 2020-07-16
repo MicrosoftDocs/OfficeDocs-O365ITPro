@@ -28,13 +28,15 @@ All Company now leverages the Yammer community architecture in both native mode 
 Now that All Company works like other communities, these features are available to network admins:
 
 - You can edit the name, description, avatar, and cover photo for All Company.
-  >[!NOTE]
-    > Previously the All Company name locale would change based on the user’s locale, but now that you can fully customize the name, the default All Company name is set in the network’s locale.
+  >[!IMPORTANT]
+    > Previously the All Company name locale would change based on the user’s locale, but now that you can fully customize the name, the default All Company name is set in the network’s locale.  While an admin can change the name now that All Company is a regular community, the name will persist for that network. The name will not adjust to the language of the user's locale if it differs from the network.
 - Pinned resources actions (add, delete, reposition) are restricted to network admins.
 - You can now [restrict posts to All Company](https://support.office.com/article/3219d2ae-db15-4c9f-9dd2-28559ae39a97), if you want to better control the types of conversations that take place in the All Company feed. When this setting is enabled, only admins can post in All Company but employees can reply to a conversation starter or react to it.
 - Previous All Company Resources are moved to Pinned resources.
 - Searching for the All Company community name (even if it has been renamed) is possible.
 - Community insights are now the insights for just the All Company community. Previously the insights found under the All Company page were for the entire network and not specific to the community.
+  >[!NOTE]
+  >If you need access to previous insights for All Company, you can access them through the following URL: https://www.yammer.com/domain-name/#/groups/company/insights. Substitute your organization’s domain name in the address.
 - You can now promote other users as admins of All Company to better manage this community.
 - All Company is now sorted like other communities, but users can favorite the All Company community to have it at the top of their communities list. 
 
