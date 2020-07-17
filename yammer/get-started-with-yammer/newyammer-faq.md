@@ -116,7 +116,7 @@ We are working hard to bring new features and continual improvements to new Yamm
 - Some private content mode enhancements
 - Some admin permission overrides are not yet respected
 
-## General
+### General
 
 - Improved onboarding experience 
 - Improved end user settings  
