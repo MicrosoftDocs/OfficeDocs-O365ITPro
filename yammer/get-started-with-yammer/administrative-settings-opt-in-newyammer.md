@@ -25,7 +25,7 @@ Global admins can now control participation in new Yammer for your organization.
 
 ## Stay in Classic Yammer
 
-This option, if it shows up as the default setting for your organization, means that you have not yet rolled out new Yammer to your organization. If you have already rolled out the new Yammer experience, you can also select this option to remove access to the toggle that allows users to opt into the new Yammer experience.
+This option, which when it shows up as the default setting for your organization, means that you have not yet rolled out new Yammer to your organization. If you have already rolled out the new Yammer experience, you can also select this option to remove access to the toggle that allows users to opt into the new Yammer experience.
 
 ![New Yammer Opt-in Toggle](../media/yammer-optin-admin-settings.png)
 
@@ -41,15 +41,15 @@ Users would be able to opt out of the new experience at any time, using the opt-
 
 If at any point you want to remove access to the toggle, select the first option, **Stay in Classic Yammer**. Here is what going back to this setting involves:
 
-- Users on the classic Yammer experience would no longer be able to see the toggle to opt into the new Yammer.
-- Users who are already opted into the new Yammer experience would stay opted in. But they will have the option to opt out of the new experience using the opt-out toggle. 
+- Users in the classic Yammer experience would no longer be able to see the toggle to opt into the new Yammer.
+- Users who are already opted into the new Yammer experience would stay opted in but they will have the option to opt out of the new experience using the opt-out toggle. 
 - Users can also continue to access  new Yammer through direct links that are shared on apps outside of Yammer, such as Microsoft Outlook and Microsoft Teams, or by directly typing the new Yammer URL on the address bar. When they do this, they will encounter an opt-in dialog box prompting them to opt into the new Yammer experience. When they click **Let’s Go**, it opts in the user to the new experience.
 
     ![Meet the New Yammer dialog box](../media/yammer-preview-meet-new-yammer.png)
 
 - If the user clicks on **Not Now**, the user will be taken to the corresponding page on the classic Yammer experience.
 
-## Enable New Yammer as default
+## Enable the new Yammer as default
 
 Selecting this option would ensure users in your organization are able to see the **New Yammer** toggle  to opt into the new Yammer  from the classic Yammer experience, and users who have never tried the new experience would automatically be switched to new Yammer. 
 
@@ -59,7 +59,7 @@ Users can choose to opt-out of this new experience and go back to the classic Ya
 
 - This would not impact those users who have tried new Yammer before and made the explicit choice to opt out of it. These users would continue to stay in the classic Yammer experience. 
 - Users who have already opted in through the opt-in toggle are not impacted. These users would stay in the new experience but can opt out at any time through the opt-out toggle. 
-- If your organization is completely new to Yammer, and you want all your users to directly move to the new Yammer experience, the **Enable the New Yammer as default** as default setting is the one we recommend.
+- If your organization is completely new to Yammer, and you want all your users to directly move to the new Yammer experience, the **Enable the New Yammer as default** setting is the one we recommend.
 
 If at any point you want to remove access to the toggle, please select the first setting, **Stay in Classic Yammer**. Here is what that would involve:
 
