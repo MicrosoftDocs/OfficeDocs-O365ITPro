@@ -79,7 +79,7 @@ We are working hard to bring new features and continual improvements to new Yamm
 - Adding a member to a community via an email address
 - Updated community creation and settings
 - Updated community discovery experience
-- Drag- and- drop to reorder Pinned resources
+- Drag-and-drop to reorder Pinned resources
 - Updated community insights page
 - Related communities feature is limited to 6 communities at this time
 - Office 365 resources discoverability
