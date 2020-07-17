@@ -83,7 +83,7 @@ We are working hard to bring new features and continuous improvements to new Yam
 - Updated community insights page
 - Related communities feature limited to 6 communities at this time
 - Office 365 resources discoverability
-- Some network admin abilities features in communities.
+- Some network admin abilities features in communities
 - Adding and removing apps
 - Navigate to next community after reading all posts
 - Community hover card
@@ -113,7 +113,7 @@ We are working hard to bring new features and continuous improvements to new Yam
 ### Admin experiences
 
 - Improved Admin center in new Yammer
-- Some private content mode enhancements
+- Some private content mode capabilities
 - Some admin permission overrides are not yet respected
 
 ### General
@@ -168,10 +168,6 @@ A: You can remove the toggle for your entire network through the new Yammer sett
 
 A: Yes!  
  
-**Q: We have Yammer embedded in various places in our Intranet (i.e. the Yammer Tab in Microsoft Teams, Yammer Web Part for SharePoint, and Yammer Embed). How will those be impacted by the new Yammer?**
-
-A: Initially there will not be any change to these experiences. Eventually, these experiences will integrate with the updated design of the new Yammer.
-
 **Q: What about guest users in external groups?**
 
 A: Users will either see the new Yammer or the classic Yammer experience depending on the state of their home network. If your network hosts an external group, people within your network that are opted-in will see that group in the new Yammer experience. Any guest users within the external group will see the classic Yammer experience if their network is not yet enabled for the new experience.  
