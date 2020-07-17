@@ -81,7 +81,7 @@ We are working hard to bring new features and continuous improvements to new Yam
 - Updated community discovery experience
 - Drag-and-drop to reorder Pinned resources
 - Updated community insights page
-- Related communities feature is limited to 6 communities at this time
+- Related communities feature limited to 6 communities at this time
 - Office 365 resources discoverability
 - Some network admin abilities features in communities.
 - Adding and removing apps
