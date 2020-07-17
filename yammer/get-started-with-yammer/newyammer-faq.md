@@ -1,5 +1,5 @@
 ---
-title: "New Yammer customer terms and FAQ"
+title: "New Yammer FAQ"
 f1.keywords:
 - NOCSH
 ms.author: v-tosadd
@@ -14,9 +14,9 @@ ms.custom: Adm_Yammer
 search.appverid: 
 - MOE150
 - MET150
-description: "Learn more about the terms and frequently asked questions (FAQ) for new Yammer."
+description: "Learn more about frequently asked questions (FAQ) and what's updated for new Yammer."
 ---
-# New Yammer customer terms and FAQ
+# New Yammer FAQ
 
 Yammer has been completely redesigned, with dozens of new capabilities that power leadership engagement, company-wide communication, and communities in Microsoft 365. The new Yammer delivers a beautiful, intelligent experience across devices and deep integration with Microsoft Teams and Outlook. And, as part of Microsoft 365, people can connect and share knowledge across the organization with open conversations backed by enterprise-grade privacy, security, and compliance.
 
@@ -67,9 +67,9 @@ We are working hard to bring all Yammer functionality to the new Yammer experien
 | Admin pages                                     |
 | Updated design in the desktop application       |
 
-## How do I enable the preview within my organization?  
+## How do I enable new Yammer within my organization?  
 
-Yammer global administrators can configure access to the new Yammer preview through the Yammer admin portal. From there, they can enable the preview toggle to display in the suite header and choose to default to classic Yammer or enable the new Yammer across their network. For more information about managing the opt-in settings, see [Bring the new Yammer Preview to your organization](administrative-settings-opt-in-newyammer.md).
+Yammer global administrators can configure access to the new Yammer preview through the Yammer admin portal. From there, they can enable the toggle to display in the suite header and choose to default to classic Yammer or enable the new Yammer across their network. For more information about managing the opt-in settings, see [Bring new Yammer to your organization](administrative-settings-opt-in-newyammer.md).
 
 ## Who is eligible to access the new experience?
 
