@@ -142,49 +142,11 @@ Once enabled by a global admin, people in your organization who sign into Yammer
 
 We will update this document as we launch new features and post on the Admin Message Center whenever we have any major announcements.
 
-## Are there any expectations around participating in the preview?
-
-Thank you for helping us shape the future of Yammer! As part of the customer preview, we’re asking for your help getting feedback on the new experience. This comes in two parts:
-
-1. You, as the customer, accept that features will change during the preview and certain capabilities might not be at parity with the classic Yammer experience.
-
-2. The new Yammer experience will give the ability for end-users in your organization to provide feedback about the experience from within the app. If they choose to opt-out of the new experience, they will be prompted with an option to tell us about their experience at that time.
-
-    During the customer preview, the ability to provide feedback will need to be available for all users in the new experience. The feedback experience will not collect any data that can be tied back to the user.
-
-## Yammer Preview Customer Support
-
-> [!IMPORTANT]
-> The new Yammer public preview is unsupported. The Service Level Agreement (SLA) for Microsoft Online Services does not apply to this preview.
-
-If you contact Microsoft Support for break-fix support, support engineers will check whether or not the issue is occurring with the classic Yammer product. If an issue is found with the classic version of Yammer, then the issue will follow the standard SLAs.
-
-When an issue occurs with only the public preview and it can be reproduced by Microsoft Support, then the issue will be logged for later investigation by the Yammer product group. The support case will be closed when adequate information has been captured. It may not be possible to resolve all issues reported during the public preview.
-
-## Do SLAs apply to the new Yammer preview?
-
-The Service Level Agreement for Microsoft Online Services does not apply to this preview.
-
-## What is a break-fix issue? 
-
-Break-fix issues are technical problems you experience while using the new Yammer preview. *Break-fix* is an industry term that refers to *work involved in supporting a technology when it fails in the normal course of its function, which requires intervention by a support organization to be restored to working order*. 
-
 ## How do I open a support case?
 
 Please see the [Support for business products - Admin Help page](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online) for general information. Your organization may have specific guidance for opening support cases, so you may need to talk with your IT team.
 
-## How should I submit feature requests and feedback?
-
-Feature requests and feedback on the product during preview should be submitted through the in-product feedback dialog boxes. Feedback can also be provided with peers through the [new Yammer preview tech community](https://techcommunity.microsoft.com/t5/new-yammer-preview/bd-p/NewYammerPreview).
-
-Microsoft Support will not be accepting formal feature requests for the new Yammer preview submitted via the Design Change Request (DCR) process during the preview period.
-
-
-## What severity of cases should be accepted during the preview?
-
-Please open non-critical (severity B or C) cases during the preview period for break/fix issues affecting the new Yammer preview. In some cases, you may need to temporarily revert to the classic Yammer experience while an issue is investigated.
-
-Critical (severity A) cases will not be accepted for new Yammer preview features. Any critical severity case impacting only the new Yammer preview will be downgraded by support after investigation.
+Feature requests and feedback on the product hould be submitted through the in-product feedback dialog boxes. Feedback can also be provided with peers through the [new Yammer Tech Community](https://techcommunity.microsoft.com/t5/yammer/ct-p/Yammer).
 
 ## What steps should I take before reporting a technical problem?
 
@@ -201,7 +163,7 @@ Before reporting a technical problem to Microsoft Support, please check the foll
 ## FAQ
 
 **Q: Can we opt out of the preview at any time?**
-A: You can remove the preview toggle for your entire network through the new Yammer preview setting in the Yammer Admin Portal. Any users who have opted into the new Yammer experience will remain in that experience until they choose to go back to the classic experience. For more information about managing the available options, see [Bring the new Yammer Preview to your organization](administrative-settings-opt-in-newyammer.md).
+A: You can remove the toggle for your entire network through the new Yammer setting in the Yammer Admin Portal. Any users who have opted into the new Yammer experience will remain in that experience until they choose to go back to the classic experience. For more information about managing the available options, see [Bring new Yammer to your organization](administrative-settings-opt-in-newyammer.md).
 
 **Q: Is the new experience available for customers that have a Yammer network with EU data residency?**
 
@@ -215,21 +177,18 @@ A: Initially there will not be any change to these experiences. Eventually, thes
 
 A: Users will either see the new Yammer or the classic Yammer experience depending on the state of their home network. If your network hosts an external group, people within your network that are opted-in will see that group in the new Yammer experience. Any guest users within the external group will see the classic Yammer experience if their network is not yet enabled for the new experience.  
 
-**Q: What about external networks?**
-
-A: Users can continue to access external networks through the Network Switcher icon available on the integrated tool bar at the top of every page. On switching, users will see these external networks in the classic experience.
  
 **Q: Is the new Yammer fully accessible?**
 
 A: Yes, our new Yammer web experience meets the industry’s accessibility standards (WCAG 2.0) which means that our core scenarios meet accessibility requirements. However, there are non-core scenarios where users may run into accessibility issues but these scenarios won’t hinder the full Yammer experience.
 
-**Q: Are all languages supported in the new Yammer?**
+**Q: Are all languages supported in new Yammer?**
 
-A: All languages available in classic Yammer are available in the public preview.
+A: All languages available in classic Yammer are available in new Yammer.
 
 **Q: Can users get to the new Yammer preview without administrator changes?**
 
-A: A global admin can control whether or not users in their organization can see the toggle to opt into the new Yammer experience. But users will always be able to access web.yammer.com while the new Yammer is in the public preview phase. If your organization wants to remove all access to the new Yammer during the preview phase, you will need to [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
+A:A global admin  can control whether or not users in their organization can see the toggle to opt into the new Yammer experience. But users will always be able to access web.yammer.com. If your organization wants to remove all access to new Yammer, [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
 
 **Q: I don’t want to enable the new experience for my production Yammer network yet. How can I test out the new toggle?**
  
@@ -237,7 +196,7 @@ A: You can try out the opt-in toggles on your existing test network. If you don�
 
 ## Related articles
 
-[Bring the new Yammer Preview to your organization](administrative-settings-opt-in-newyammer.md)
+[Bring new Yammer to your organization](administrative-settings-opt-in-newyammer.md)
 
 [Yammer Blog](https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog)
 
