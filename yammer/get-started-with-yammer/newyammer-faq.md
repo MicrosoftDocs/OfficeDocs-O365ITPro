@@ -18,22 +18,23 @@ description: "Learn more about frequently asked questions (FAQ) and what's updat
 ---
 # New Yammer FAQ
 
-Yammer has been completely redesigned, with dozens of new capabilities that power leadership engagement, company-wide communication, and communities in Microsoft 365. The new Yammer delivers a beautiful, intelligent experience across devices and deep integration with Microsoft Teams and Outlook. And, as part of Microsoft 365, people can connect and share knowledge across the organization with open conversations backed by enterprise-grade privacy, security, and compliance.
+Yammer has been completely redesigned, with dozens of new capabilities that power leadership engagement, company-wide communication, and communities in Microsoft 365. New Yammer delivers a beautiful, intelligent experience across devices and deep integration with Microsoft Teams and Outlook. As part of Microsoft 365, people can connect and share knowledge across the organization with open conversations backed by enterprise-grade privacy, security, and compliance.
 
-As Microsoft’s first app built from the ground up with the Fluent Design System, the new Yammer provides an engaging and easy-to-use experience on the web and in the Yammer app for Android and iOS. In addition, Yammer can be integrated with Microsoft Teams, as a Communities app in the left rail, enabling you to access organization-wide communities without leaving the hub for teamwork. Integration with Outlook lets you read, like, and reply to Yammer conversations within your Outlook inbox. 
+As Microsoft’s first app built from the ground up with the Fluent Design System, new Yammer provides an engaging and easy-to-use experience on the web and in the Yammer app for Android and iOS. In addition, Yammer can be integrated with Microsoft Teams, as a Communities app in the left rail, enabling you to access organization-wide communities without leaving the hub for teamwork. Integration with Outlook lets you read, like, and reply to Yammer conversations within your Outlook inbox. Yammer also provides an updated integration experience in SharePoint Online with the  Conversations web part.
  
-Building on a decade of customer success and feedback, the new Yammer delivers many top customer requests. A new, personalized conversation feed powered by AI connects you with conversations across the organization. Each community can be given a unique identity with branding and cover photos. Communicators can highlight conversations with pinned posts and close discussions to prevent replies. Leaders can broadcast live and on-demand events with a new, simpler production option using webcams and desktop sharing.
+Building on a decade of customer success and feedback, new Yammer delivers many top customer requests. A new, personalized conversation feed powered by AI connects you with conversations across the organization. Each community can be given a unique identity with branding and cover photos. Communicators can highlight conversations with pinned posts and close discussions to prevent replies. Leaders can broadcast live and on-demand events with a new, simpler production option using webcams and desktop sharing.
 
 ## What’s new and different about this experience?
 
-The new Yammer experience is the first app to be built fully in Fluent, the Microsoft design language, and will strengthen coherence between Yammer and other Microsoft 365 apps. Along with the UI, we've added new capabilities, such as:
+The new Yammer experience is built fully in Fluent, the Microsoft design language, strengthening coherence between Yammer and other Microsoft 365 apps. Along with the UI, we've added new capabilities, such as:
 
 - To better convey the purpose of Yammer, Groups are now called Communities.
-- Pin your favorite communities to the sidebar.
+- Pin your favorite communities to the sidebar to make them easier to find.
 - Brand your network with your company logo on the home page.
-- Brand your communities with vibrant cover photos.
-- Customize the All Company community cover photo and avatar.
-- Pin important posts at the top of your communities.
+- .Make your communities shine with vibrant cover photos.
+- Customize All Company, just like any other community, by adding a cover photo and avatar.
+- Restrict posting in All Company to make it an official company news community.
+- Pin important posts at the top of your communities to ensure members see them.
 - Close conversations that have come to a conclusion.
 - Report conversations to better moderate your communities.
 - Enhanced discovery feed combines top posts from groups, people, and topics you follow.
@@ -69,7 +70,7 @@ We are working hard to bring all Yammer functionality to the new Yammer experien
 
 ## How do I enable new Yammer within my organization?  
 
-Yammer global administrators can configure access to the new Yammer preview through the Yammer admin portal. From there, they can enable the toggle to display in the suite header and choose to default to classic Yammer or enable the new Yammer across their network. For more information about managing the opt-in settings, see [Bring new Yammer to your organization](administrative-settings-opt-in-newyammer.md).
+Yammer global administrators can configure access to new Yammer through the Yammer admin portal. From there, they can enable the toggle to display in the suite header and choose to default to classic Yammer or enable the new Yammer across their network. For more information about managing the opt-in settings, see [Bring new Yammer to your organization](administrative-settings-opt-in-newyammer.md).
 
 ## Who is eligible to access the new experience?
 
