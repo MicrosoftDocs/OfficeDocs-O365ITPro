@@ -11,18 +11,20 @@ ms.topic: Overview
 layout: LandingPage
 ms.service: o365-administration
 localization_priority: Priority
-description: "If you are a global admin for Office 365 and you want to turn off calendar sync in Microsoft Planner, you can use Windows PowerShell"
+search.appverid:
+- MET150
+description: "If you are a global admin and you want to turn off calendar sync in Microsoft Planner, you can use Windows PowerShell"
 ---
 
 # Turn off Outlook calendar sync in Planner for your organization
 
-If you are a global admin for Office 365 and you want to turn off calendar sync in Microsoft Planner, you can use Windows PowerShell. Planner is automatically turned on for all organizations that have Planner as part of their Office 365 subscription.
+If you are a global admin and you want to turn off calendar sync in Microsoft Planner, you can use Windows PowerShell. Planner is automatically turned on for all organizations that have Planner as part of their subscription.
 
 - [Prerequisites for making Planner changes in Windows PowerShell](#prerequisites-for-making-planner-changes-in-windows-powershell)
 - [Turn off or on Outlook calendar sync in Planner using PowerShell](#turn-off-or-on-outlook-calendar-sync-in-planner-using-powershell)
 
 > [!NOTE]
-> Looking for how to sync your personal Outlook calendar with Planner? [See your Planner calendar in Outlook](https://support.office.com/en-us/article/see-your-planner-calendar-in-outlook-5dcccce5-2750-49b5-991b-1837379d96c7).
+> Looking for how to sync your personal Outlook calendar with Planner? [See your Planner calendar in Outlook](https://support.office.com/article/see-your-planner-calendar-in-outlook-5dcccce5-2750-49b5-991b-1837379d96c7).
 
 ## Prerequisites for making Planner changes in Windows PowerShell
 
@@ -32,7 +34,7 @@ This procedure walks you through downloading the files needed to run Planner adm
 - One PowerShell script
 - The script's manifest
 
-If you're new to Windows PowerShell, see [Using Windows PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/getting-started/fundamental/using-windows-powershell?view=powershell-5.1).
+If you're new to Windows PowerShell, see [Using Windows PowerShell](https://docs.microsoft.com/powershell/scripting/getting-started/fundamental/using-windows-powershell?view=powershell-5.1).
 
 1. Navigate to https://www.nuget.org/packages/Microsoft.IdentityModel.Clients.ActiveDirectory/2.29.0
 2. On the right, select **Manual download**, choose **Save as**, choose a location to save it to, and choose **Save**.

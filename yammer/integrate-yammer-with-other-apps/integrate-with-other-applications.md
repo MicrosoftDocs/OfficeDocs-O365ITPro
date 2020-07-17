@@ -2,8 +2,8 @@
 title: "Integrate Yammer with other applications"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -25,7 +25,7 @@ description: "Learn about putting Yammer feeds in other applications, and using 
 Yammer offers a variety of integrations to help make other applications more mobile and social. 
   
 > [!TIP]
-> For many integrations, it is helpful to know [how to find a Yammer group's feedID](https://support.office.com/article/b0e49b2c-ca30-4025-b3bc-7bd764c3e2ec). 
+> For many integrations, it is helpful to know [how to find a Yammer community or group's feedID](https://support.office.com/article/392aea9c-e622-4f5a-8f6a-26dafe970bcb). 
   
 ## Yammer for SharePoint
 

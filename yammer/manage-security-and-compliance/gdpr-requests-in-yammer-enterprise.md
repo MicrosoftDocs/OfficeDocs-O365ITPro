@@ -2,8 +2,8 @@
 title: "Manage GDPR data subject requests in Yammer Enterprise"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: TonisFrench
 manager: pamgreen
 ms.date: 02/20/2020
 audience: Admin
@@ -21,9 +21,6 @@ description: "Erase all information about a Yammer user to comply with GDPR data
 # Manage GDPR data subject requests in Yammer Enterprise
 
 As a verified admin, you can erase a user from Yammer to comply with a [General Data Protection Regulation (GDPR) data subject request](https://go.microsoft.com/fwlink/?linkid=874693). When you erase a user, personally identifying information about the user is removed. This does not remove the user's messages or files. You can review a user's messages and files in order to decide which ones to delete. Any content associated with the user that remains will be identified with an ID, but not with the user's name.
-
-> [!IMPORTANT]
-> Before deleting data or erasing a user to honor a GDPR data subject request, your network data retention setting must be set to **GDPR Hard Delete**.
 
 Choose the approach that makes sense for your situation, and **follow the steps in the order listed**. The order matters: once you erase a user you can no longer find their data to delete it.
 

@@ -29,7 +29,7 @@ As a Yammer admin, if you want to prevent these users who don’t have Office 36
  
 ## Why is Yammer doing this? 
 
-There are existing and upcoming features that only work when all users use AAD credentials, including having one place to manage users for all Office 365 apps, and using Office 365 connected groups. 
+There are existing and upcoming features that only work when all users use AAD credentials, including having one place to manage users for all Office 365 apps, and using Office 365 connected groups.
 
 ## Prepare for self-service signup 
 
@@ -41,7 +41,7 @@ Self-service signup is turned on by default everywhere except in the European Un
 ### Step 1: If self-service signup is not enabled, enable it
 
 Self-service signup can only be enabled by using Windows PowerShell. To enable self-service signup:
-1. Follow the instructions provided in [Directory self-service signup](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-self-service-signup). 
+1. Follow the instructions provided in [Directory self-service signup](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-self-service-signup). 
  
 2. In the PowerShell script, set the values for **AllowEmailVerifiedUsers** and **AllowAdHocSubscriptions** to **true**: 
 

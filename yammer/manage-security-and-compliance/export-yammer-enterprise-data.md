@@ -2,8 +2,8 @@
 title: "Export data from Yammer Enterprise"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -28,8 +28,8 @@ As a verified admin, you can export Yammer Enterprise data to monitor usage and 
 |[Export user and admin list](export-yammer-enterprise-data.md#ExportUsers) <br/> |Identify status of current admins and users, and review email, title, location, and department of each user.  <br/> |
 |[Export Yammer network data by date range and network](export-yammer-enterprise-data.md#ExportNetworkData) <br/> |View and audit all network data for all users. You can specify a date range, and choose whether to include files and external network data.  <br/> |
 |[Export data for one user](export-yammer-enterprise-data.md#ExportOneUser) <br/> |Identify all data related to one user. You can use this export to identify data that needs to be deleted to comply with a GDPR data subject request.  <br/> |
-|[Set up automatic data exports](export-yammer-enterprise-data.md#Automatic) <br/> |Automate exports that need to be done on an ongoing basis for compliance by using the DataExport API .  <br/> |
-|[Export Yammer Files via API](export-yammer-files-data.md#ExportFiles) <br/> |Export Files stored in Yammer asyncrhonously. You can specficy a date range, and choose whether to include files from external networks. <br/> |
+|[Set up automatic data exports](export-yammer-enterprise-data.md#Automatic) <br/> |Automate exports that need to be done on an ongoing basis for compliance by using the DataExport API.  <br/> |
+|[Export Yammer Files via API](export-yammer-enterprise-data.md#export-yammer-files-via-api) <br/> |Export Files stored in Yammer asynchronously. You can specify a date range, and choose whether to include files from external networks. <br/> |
    
 > [!NOTE]
 > Exported data can't be used for migrating content between Yammer networks. For migration information, see [Network migration: Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md). 
@@ -60,7 +60,7 @@ As a verified admin, you can export Yammer Enterprise data to monitor usage and 
 |**request.txt** <br/> |The parameters of the export.  <br/> |
 |**Admins.csv** <br/> |A list of current admins, their email addresses, and whether they are a verified admin or a network admin.  <br/> For more information on the types of admins in Yammer, see [Manage Yammer admins](../manage-yammer-users/manage-yammer-admins.md).  <br/> |
 |**Networks.csv** <br/> |Information about your home network and any external networks, including the name, URL, creation date, whether it is moderated, whether it has a usage policy, and the number of users.  <br/> |
-|**Users.csv** <br/> | The ID, name, email, job title, location, department, user ID, deletion status (deletion date, name and id of person who deleted the user), join date, suspension status (deactivated date, name and ID of person who deactivated the user), and the state of the user (active or soft-deleted).  <br/> <br/>A user is who is in the soft_delete state means the user is either:<br/><br/>- pending, if there are no joined_at, suspended_at, or deleted_at values) <br><br/>- suspended (deactivated), if there is a suspended_at value, but no deleted_at value<br><br/>- deleted, if there is a deleted_at value  <br><br/>Guest users can be identified in the user export by reviewing the email address field. If the email address doesn't match the domain of the home network, the user is aguest.<br><br/>The api_url is the URL used to obtain user metadata. For more information about using the data in this field, see the [Yammer developer documentation](https://go.microsoft.com/fwlink/?linkid=874691).  <br/> |
+|**Users.csv** <br/> | The ID, name, email, job title, location, department, user ID, deletion status (deletion date, name and id of person who deleted the user), join date, suspension status (deactivated date, name and ID of person who deactivated the user), and the state of the user (active or soft-deleted).  <br/> <br/>A user is who is in the soft_delete state means the user is either:<br/><br/>- pending, if there are no joined_at, suspended_at, or deleted_at values) <br><br/>- suspended (deactivated), if there is a suspended_at value, but no deleted_at value<br><br/>- deleted, if there is a deleted_at value  <br><br/>Guest users can be identified in the user export by reviewing the email address field. If the email address doesn't match the domain of the home network, the user is a guest.<br><br/>The api_url is the URL used to obtain user metadata. For more information about using the data in this field, see the [Yammer developer documentation](https://go.microsoft.com/fwlink/?linkid=874691).  <br/> |
    
 <a name="ExportNetworkData"> </a>
 ## Export Yammer network data by date range and network
@@ -97,7 +97,7 @@ As a verified admin, you can export Yammer Enterprise data to monitor usage and 
 |**Networks.csv** <br/> |Lists your home network and all external networks included in the export.  <br/> |
 |**Pages.csv** <br/> | For any page created or modified during the specified date range, lists the IDs, dates, and owners of the page.  <br/> |
 |**Topics.csv** <br/> | For any topic created during the specified date range, lists the creation information and a link to the topic.  <br/> |
-|**Users.csv** <br/> | For any user who joined, or was deleted or suspended during the specified date range, lists email, job-title, location, department, a link to the user, and information about the users current state.<br><br/>A user is who is in the soft_delete state means the user is either <br><br/> - pending, if there are no joined_at, suspended_at, or deleted_at values)<br><br/>- suspended (deactivated), if there is a suspended_at value, but no deleted_at value <br><br/>- deleted, if there is a deleted_at value<br><br/>Guest users can be identified in the user export by reviewing the email address field. If the email address doesn't match the domain of the home network, the user is aguest.<br><br/>The api_url is the URL used to obtain user metadata. For more information about using the data in this field, see the [Yammer developer documentation](https://go.microsoft.com/fwlink/?linkid=874691).  <br/> |
+|**Users.csv** <br/> | For any user who joined, or was deleted or suspended during the specified date range, lists email, job-title, location, department, a link to the user, and information about the users current state.<br><br/>A user is who is in the soft_delete state means the user is either <br><br/> - pending, if there are no joined_at, suspended_at, or deleted_at values)<br><br/>- suspended (deactivated), if there is a suspended_at value, but no deleted_at value <br><br/>- deleted, if there is a deleted_at value<br><br/>Guest users can be identified in the user export by reviewing the email address field. If the email address doesn't match the domain of the home network, the user is a guest.<br><br/>The api_url is the URL used to obtain user metadata. For more information about using the data in this field, see the [Yammer developer documentation](https://go.microsoft.com/fwlink/?linkid=874691).  <br/> |
 |**Files folder:** <br/> | This folder contains files that are stored in Yammer and have been created or modified during the specified time period. It does not contain Yammer files stored in SharePoint.<br><br>Files are in their native format and are named with their Yammer ID. For example, a PowerPoint presentation might be listed as 127815379.pptx.  <br/> |
    
 The following types of data are not included in this export:
@@ -130,7 +130,7 @@ To find this data for an individual user, click the Yammer settings icon ![Yamme
 |**File** <br/> |**Contents** <br/> |
 |**log.txt** <br/> |Summarizes the number of entries in each .csv file, and lists any errors that occur during the export.  <br/> |
 |**request.txt** <br/> |Parameters use for the export.  <br/> |
-|**Broadcast.csv** <br/>|For any live event video posted by the user, includes the network ID, group ID and name, title, description, links to the video, and additional information about the video. <br/>The video content is not included in the export. The video is saved in Microsoft Stream. To edit metadata or delete the video, you can open the video in Microsoft Stream admin mode. For more information see [Admin capabilities in Microsoft Stream](https://docs.microsoft.com/en-us/stream/manage-content-permissions) and [Office 365 Data Subject Requests for the GDPR, Stream](https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365#stream)<br/>|
+|**Broadcast.csv** <br/>|For any live event video posted by the user, includes the network ID, group ID and name, title, description, links to the video, and additional information about the video. <br/>The video content is not included in the export. The video is saved in Microsoft Stream. To edit metadata or delete the video, you can open the video in Microsoft Stream admin mode. For more information see [Admin capabilities in Microsoft Stream](https://docs.microsoft.com/stream/manage-content-permissions) and [Office 365 Data Subject Requests for the GDPR, Stream](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#stream)<br/>|
 |**Files.csv** <br/> | For any file added or modified by this user from Yammer, lists the Yammer ID, type of file, name, description, and path to the file, along with metadata including the group it was posted in. The storage_path column shows whether the file is stored in Yammer or SharePoint. <br><br/> Files.csv does not contain the actual files.<br><br>Files that are stored in Yammer are exported in their native format to the **Files** folder of the zip file. Files that are stored in SharePoint are not exported. <br><br>The file_ID and path columns in Files.csv can be used to identify the files in the **Files** folder or to go directly to the file in Yammer. For information about how to go directly to a specific file, see [Delete specific messages or files](export-yammer-enterprise-data.md#DeleteMessagesFiles).  <br><br> For files that are stored in SharePoint, use the download_url column to download the file. The download_url could be used for SharePoint files only if an AAD token is provided. Or, you can use [Content Search in Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search) to find files stored in SharePoint and created or modified by a specific user. <br><br>To delete a file, whether it is saved in Yammer or SharePoint, always delete it from  Yammer. This erases the metadata in Yammer as well as the metadata and file in SharePoint. If you delete the file from SharePoint directly, the Yammer metadata still remains.<br/> |
 |**Groups.csv** <br/> | For any group created or modified by the user, lists the Yammer group ID, name, description, privacy status, whether the group is internal or external, link to the group, creation date, and updated date. This file also includes the aggregated total number of polls the user voted on, and the polls the user created.  <br/> |
 |**LikedMessages.csv** <br/> | For any message liked by the user, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the ids for attachments, and creation and deletion information. A list of polls you created will also be provided. For announcements, includes the title of the announcement. <br/> |
@@ -141,13 +141,13 @@ To find this data for an individual user, click the Yammer settings icon ![Yamme
    
 4. When the user's account activity data is ready, you'll receive a Yammer inbox message with a link to the data. Click the link to open it.
     
-Exported data does not contain bookmarked messages, group membership, followed or following users, followed topics, the user's notification, application, and language settings, and org chart. To find this data for an individual user, click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), click **People**, and click the name of the user whose data you want to view. This page shows the user's profile, conversations they've participated in, any files, images, and videos they have posted, along with their bookmarks, followed and following users, and followed topics.
+Exported data does not contain bookmarked messages, group membership, followed or following users, followed topics, the user's notifications from Yammer (in Yammer, in Microsoft Teams, or in Microsoft Outlook), application and language settings, and org chart. To find this data for an individual user, click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), click **People**, and click the name of the user whose data you want to view. This page shows the user's profile, conversations they've participated in, any files, images, and videos they have posted, along with their bookmarks, followed and following users, and followed topics.
   
 ## Troubleshoot data export
 
-- If the .zip file is corrupted and can't be unzipped, try again. If this doesn't work, [contact Support](https://support.office.com/en-us/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
+- If the .zip file is corrupted and can't be unzipped, try again. If this doesn't work, [contact Support](https://support.office.com/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
 
-- If the log.txt file shows export errors for one category of data, try again. If there are still errors, [contact Support](https://support.office.com/en-us/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
+- If the log.txt file shows export errors for one category of data, try again. If there are still errors, [contact Support](https://support.office.com/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b).
  
 <a name="DeleteMessagesFiles"> </a>
 ## Find and delete specific messages or files
@@ -184,7 +184,7 @@ The Yammer Files Export API lets verified administrators archive and export file
   
 [Office 365 Reports in the Admin Center - Yammer activity report](https://support.office.com/article/c7c9f938-5b8e-4d52-b1a2-c7c32cb2312a)
   
-[Export Yammer group members and email addresses to a .csv file](https://support.office.com/en-us/article/export-yammer-group-members-to-a-csv-file-201a78fd-67b8-42c3-9247-79e79f92b535)
+[Export Yammer community or group members to a .csv file](https://support.office.com/article/export-yammer-community-or-group-members-to-a-csv-file-14e809e7-b1e3-44b2-9734-6c46aaa5dff9)
 
 [Audit Yammer user data](../manage-yammer-users/audit-users-connected-to-office-365.md)
   
