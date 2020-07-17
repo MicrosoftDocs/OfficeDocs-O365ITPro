@@ -22,7 +22,7 @@ landingContent:
     linkLists:
       - linkListType: overview
         links:
-          - text: New Yammer customer terms and FAQ
+          - text: New Yammer FAQ
             url: /Yammer/get-started-with-yammer/newyammer-faq
           - text: Yammer admin key concepts
             url: /Yammer/get-started-with-yammer/admin-key-concepts         
