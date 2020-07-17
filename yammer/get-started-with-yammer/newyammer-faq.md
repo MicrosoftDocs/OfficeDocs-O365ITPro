@@ -153,7 +153,6 @@ Feature requests and feedback on the product hould be submitted through the in-p
 Before reporting a technical problem to Microsoft Support, please check the following:
 
 - **Can the issue be reproduced consistently?** If the issue is not occurring now, then it may have been resolved by a recent product update.
-- **Does the issue only occur for the new Yammer preview?** Or, does it also occur with the old user experience too?  
 - **Can the issue be reproduced in multiple browsers?** Testing with at least two different web browsers is a best practice. 
 - **Does the issue show up on mobile as well?** Sometimes issues occur with a backend service and can affect multiple clients (web, mobile, or desktop.)
 - **Are multiple users affected?** Issues affecting multiple users are more likely to be prioritized.
@@ -162,7 +161,7 @@ Before reporting a technical problem to Microsoft Support, please check the foll
 
 ## FAQ
 
-**Q: Can we opt out of the preview at any time?**
+**Q: Can we opt out of new Yammer?**
 A: You can remove the toggle for your entire network through the new Yammer setting in the Yammer Admin Portal. Any users who have opted into the new Yammer experience will remain in that experience until they choose to go back to the classic experience. For more information about managing the available options, see [Bring new Yammer to your organization](administrative-settings-opt-in-newyammer.md).
 
 **Q: Is the new experience available for customers that have a Yammer network with EU data residency?**
@@ -186,9 +185,9 @@ A: Yes, our new Yammer web experience meets the industry’s accessibility stand
 
 A: All languages available in classic Yammer are available in new Yammer.
 
-**Q: Can users get to the new Yammer preview without administrator changes?**
+**Q: Can users get to new Yammer without administrator changes?**
 
-A:A global admin  can control whether or not users in their organization can see the toggle to opt into the new Yammer experience. But users will always be able to access web.yammer.com. If your organization wants to remove all access to new Yammer, [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
+A: A global admin  can control whether or not users in their organization can see the toggle to opt into the new Yammer experience but users will always be able to access web.yammer.com. If your organization wants to remove all access to new Yammer, [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
 
 **Q: I don’t want to enable the new experience for my production Yammer network yet. How can I test out the new toggle?**
  
