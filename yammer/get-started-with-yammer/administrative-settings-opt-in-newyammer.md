@@ -43,7 +43,7 @@ If at any point you want to remove access to the toggle, select the first option
 
 - Users in the classic Yammer experience would no longer be able to see the toggle to opt into the new Yammer.
 - Users who are already opted into the new Yammer experience would stay opted in but they will have the option to opt out of the new experience using the opt-out toggle. 
-- Users can also continue to access  new Yammer through direct links that are shared on apps outside of Yammer, such as Microsoft Outlook and Microsoft Teams, or by directly typing the new Yammer URL on the address bar. When they do this, they will encounter an opt-in dialog box prompting them to opt into the new Yammer experience. When they click **Let’s Go**, it opts in the user to the new experience.
+- Users can also continue to access new Yammer through direct links that are shared on apps outside of Yammer, such as Microsoft Outlook and Microsoft Teams, or by directly typing the new Yammer URL on the address bar. When they do this, they will encounter an opt-in dialog box prompting them to opt into the new Yammer experience. When they click **Let’s Go**, it opts in the user to the new experience.
 
     ![Meet the New Yammer dialog box](../media/yammer-preview-meet-new-yammer.png)
 
@@ -64,8 +64,8 @@ Users can choose to opt-out of this new experience and go back to the classic Ya
 If at any point you want to remove access to the toggle, please select the first setting, **Stay in Classic Yammer**. Here is what that would involve:
 
 - Users on the classic Yammer experience would no longer be able to see the toggle to opt into the new Yammer.
-- Users who are already opted into the new Yammer experience would stay opted in. But they will have the option to opt out of the new experience using the opt-out toggle.
-- Users can also continue to access the new Yammer through direct links that are shared on apps outside of Yammer (Outlook/Teams) or by directly typing the new Yammer URL on the address bar. When they do this, they will encounter an opt-in dialog prompt asking them to opt into the new Yammer experience. If the user clicks **Let’s Go**, it would opt the user into the new Yammer experience. If the user clicks on **Not Now**, he or she will be taken to the corresponding page on the classic Yammer experience.
+- Users who are already opted into the new Yammer experience would stay opted in but they will have the option to opt out of the new experience using the opt-out toggle.
+- Users can also continue to access the new Yammer through direct links that are shared on apps outside of Yammer, such as in Microsoft Outlook or Microsoft Teams, or by directly typing the new Yammer URL on the address bar. When they do this, they will encounter an opt-in dialog prompt asking them to opt into the new Yammer experience. If the user clicks **Let’s Go**, it would opt the user into the new Yammer experience. If the user clicks on **Not Now**, he or she will be taken to the corresponding page on the classic Yammer experience.
 
     ![Meet the New Yammer dialog box](../media/yammer-preview-meet-new-yammer.png)
 
