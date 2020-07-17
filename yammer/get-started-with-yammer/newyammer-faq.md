@@ -53,7 +53,7 @@ and much more!
 
 ## What features are not available in the new experience?
 
-We are working hard to bring new features and continual improvements to new Yammer. Below is a list of features that differ or are in progress:
+We are working hard to bring new features and continuous improvements to new Yammer. Below is a list of features that differ or are in progress:
 
 ### Home Page
 
