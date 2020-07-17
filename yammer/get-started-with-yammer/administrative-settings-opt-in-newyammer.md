@@ -69,6 +69,9 @@ If at any point you want to remove access to the toggle, please select the first
 
     ![Meet the New Yammer dialog box](../media/yammer-preview-meet-new-yammer.png)
 
+ ## Enable the new Yammer for all users with no opt-out option
+
+Selecting this option would ensure users in your organization are in the new Yammer experience and do not see the toggle out option. This is an accelerated setting to get all users in your organization are using the new Yammer.
 - If your organization wants to remove all access to the new Yammer, you will need to [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
 
 >[!NOTE]
