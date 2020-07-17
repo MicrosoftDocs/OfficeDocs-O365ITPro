@@ -25,7 +25,7 @@ Global admins can now control participation in new Yammer for your organization.
 
 ## Stay in Classic Yammer
 
-This option, which when shows up as the default setting for your organization, would mean that you have not yet rolled out new Yammer to your organization. If you have already rolled out the new Yammer experience, you can also select this option to remove access to the toggle that allows users to opt into the new Yammer experience.
+This option, if it shows up as the default setting for your organization, means that you have not yet rolled out new Yammer to your organization. If you have already rolled out the new Yammer experience, you can also select this option to remove access to the toggle that allows users to opt into the new Yammer experience.
 
 ![New Yammer Opt-in Toggle](../media/yammer-optin-admin-settings.png)
 
@@ -61,7 +61,7 @@ Users can choose to opt-out of this new experience and go back to the classic Ya
 - Users who have already opted in through the opt-in toggle are not impacted. These users would stay in the new experience but can opt out at any time through the opt-out toggle. 
 - If your organization is completely new to Yammer, and you want all your users to directly move to the new Yammer experience, the **Enable the New Yammer as default** as default setting is the one we recommend.
 
-If at any point during the preview phase, you want to remove access to the toggle, please select the first setting, **Stay in Classic Yammer**. Here is what that would involve:
+If at any point you want to remove access to the toggle, please select the first setting, **Stay in Classic Yammer**. Here is what that would involve:
 
 - Users on the classic Yammer experience would no longer be able to see the toggle to opt into the new Yammer.
 - Users who are already opted into the new Yammer experience would stay opted in. But they will have the option to opt out of the new experience using the opt-out toggle.
@@ -69,10 +69,10 @@ If at any point during the preview phase, you want to remove access to the toggl
 
     ![Meet the New Yammer dialog box](../media/yammer-preview-meet-new-yammer.png)
 
-- If your organization wants to remove all access to the new Yammer during the preview phase, you will need to [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
+- If your organization wants to remove all access to the new Yammer, you will need to [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
 
 >[!NOTE]
-> Please note that during the preview phase, all users can access the new experience through a direct link. If your organization wants to remove all access to the new Yammer during the preview phase, you will need to contact Microsoft support. If you remove all access, then users from all networks in a 1:M (1-to-many) scenario will no longer be able to access the preview features.
+> Please note that users can access the new experience through a direct link. If your organization wants to remove all access to the new Yammer you will need to contact Microsoft support. If you remove all access, then users from all networks in a 1:M (1-to-many) scenario will no longer be able to access the new Yammer features.
 
 ## FAQ
 
