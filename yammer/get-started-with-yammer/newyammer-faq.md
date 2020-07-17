@@ -28,53 +28,115 @@ Building on a decade of customer success and feedback, new Yammer delivers many 
 
 The new Yammer experience is built fully in Fluent, the Microsoft design language, strengthening coherence between Yammer and other Microsoft 365 apps. Along with the UI, we've added new capabilities, such as:
 
-- To better convey the purpose of Yammer, Groups are now called Communities.
+- To better convey the purpose of Yammer, groups are now called communities.
 - Pin your favorite communities to the sidebar to make them easier to find.
 - Brand your network with your company logo on the home page.
-- .Make your communities shine with vibrant cover photos.
+- Make your communities shine with vibrant cover photos.
 - Customize All Company, just like any other community, by adding a cover photo and avatar.
 - Restrict posting in All Company to make it an official company news community.
 - Pin important posts at the top of your communities to ensure members see them.
 - Close conversations that have come to a conclusion.
-- Report conversations to better moderate your communities.
-- Enhanced discovery feed combines top posts from groups, people, and topics you follow.
-- New publisher experience provides the ability to include any type of content an announcement.
-- Apply new conversation styling to posts, questions, and praise so they stand out for even greater engagement.
+- Enable users to report conversations to better moderate your network.
+- Enhanced home feed helps users discover top posts from communities, people, and topics they follow.
+- New publisher experience provides the ability to include any type of content in an announcement and to announce any type of post.
+- With new bolder conversation styling, posts, questions, and praise stand out for even greater engagement.
 - Rich media uploading and viewing improvements, including recently used file suggestions, enhance engagement.
 - Live Events provides a dedicated event page with questions as the default post type.
-- New people card experiences are aligned with Microsoft 365.  
-- Mobile browsing delivers a responsive design for viewing Yammer.
-- Provide feedback without leaving Yammer.
+- Live events in progress are promoted at the top of the discovery feed.
+- Users can create and annotate a short video on a mobile device.
+- New people card experiences are aligned with Microsoft 365, presenting a consistent profile experience across all apps.
+- New Yammer is great in mobile browsers, delivering a responsive experience that works on the go.
+- Provide feedback from the suite header without leaving Yammer.
+- Easily switch to external networks from the suite header.
 
 and much more!
 
 ## What features are not available in the new experience?
 
-We are working hard to bring all Yammer functionality to the new Yammer experience. Below is the list of features still in progress:  
+We are working hard to bring new features and continual improvements to new Yammer. Below is a list of features that differ or are in progress:
 
-| **Home Page modules**                           |
-|:--------------------------                      |
-| Suggested communities                           |
-| Suggested people                                |
-| Company resources                               |
-| **Conversation features**                       |
-| Save and view bookmarks                         |
-| Hide conversations                              |
-| **Live events functionality**                   |
-| Live Event cancellation                         |
-| **Other**                                       |
-| Easier ability to switch to External Networks   |
-| Ability to add people to External Groups        |
-| Admin pages                                     |
-| Updated design in the desktop application       |
+### Home Page
+
+- Suggested communities in right rail
+- Suggested people in right rail   
+
+### Conversation features
+
+- View full conversation (edit) history
+- Save and view bookmarks 
+- Hide conversations from your feed
+
+### Publisher features
+
+- Capital letters won’t initiate an @ mention. You will need to use an @ symbol.   
+
+### Live events functionality 
+
+- A dockable floating player is not in new Yammer at this time.
+
+### Communities
+
+- Adding a member to a community via an email address
+- Updated community creation and settings
+- Updated community discovery experience
+- Drag- and- drop to reorder Pinned resources
+- Updated community insights page
+- Related communities feature is limited to 6 communities at this time
+- Office 365 resources discoverability
+- Some network admin abilities features in communities.
+- Adding and removing apps
+- Navigate to next community after reading all posts
+- Community hover card
+
+### Search experience
+
+- Files search results page
+- Advanced Search filters for data and community
+- Topics search results page 
+
+### People experience
+
+- Cannot see followers or who is following in people pages
+- Cannot follow people from the people hover card
+
+### Files experience
+
+- Improved files experience within communities
+- Cannot see conversations in files page
+
+### External communities and external networks
+
+
+- Ability to add people to external communities
+- Enabling new Yammer for external networks
+
+### Admin experiences
+
+- Improved Admin center in new Yammer
+- Some private content mode enhancements
+- Some admin permission overrides are not yet respected
+
+## General
+
+- Improved onboarding experience 
+- Improved end user settings  
+- Improved connector cards that display the full content and not just the title  
+- New Yammer experience in the desktop application 
+
+There will be more updates to Yammer in the upcoming months. Refer to the [Microsoft 365 Roadmap](https://go.microsoft.com/fwlink/?linkid=2132131) for upcoming plans. Additionally, if you find any other gaps not listed here please send feedback. 
 
 ## How do I enable new Yammer within my organization?  
 
 Yammer global administrators can configure access to new Yammer through the Yammer admin portal. From there, they can enable the toggle to display in the suite header and choose to default to classic Yammer or enable the new Yammer across their network. For more information about managing the opt-in settings, see [Bring new Yammer to your organization](administrative-settings-opt-in-newyammer.md).
 
+## Do you have materials available to help in rolling out the new Yammer within my organization?
+
+Yes! The [Yammer Adoption Center](https://resources.techcommunity.microsoft.com/yammer/adoption/) includes materials to help you deploy the new Yammer across your organization. This includes email templates for your internal announcement, Yammer tips and tricks, and a template for the new Community cover photos. There’s also a [Yammer end user guide](https://onedrive.live.com/view.aspx?resid=8D13E85F1CF91770!254&ithint=file%2cpptx&authkey=!ACrN15bnGCy_ZTs) to help your organization get up-to-speed quickly. 
+
+
 ## Who is eligible to access the new experience?
 
-Once enabled by a global admin, people in your organization who sign into Yammer with Microsoft 365 will be able to view the toggle to opt-in to the new experience. This will be available for canonical (home) networks only. Microsoft 365 users who participate in external networks will see participate using the classic Yammer experience. During the public preview, users will always be able to access a direct link to the new experience. If your organization wants to remove all access to the new Yammer during the preview phase, you will need to [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
+Once enabled by a global admin, people in your organization who sign into Yammer with Microsoft 365 will be able to view the toggle to opt in to the new experience. This will be available for canonical (home) networks only. Microsoft 365 users who participate in external networks will participate using the classic Yammer experience. Users can also access a direct link to the new experience.
 
 ## Will I know when additional changes are coming?
 
