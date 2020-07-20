@@ -46,7 +46,7 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
  You can either allow the Tool to make all the changes or mitigate some issues yourself before running the second part of the Tool.
 
  > [!NOTE]
-> All Company now works like any other community in Native Mode. Admins can customize All Company and use advanced management features like restricting posts and promoting others as admins. See [All Company works like other Yammer communities](../manage-yammer-groups/yammer-all-company-yammer-community) for more information.
+> All Company now works like any other community in Native Mode. Admins can customize All Company and use advanced management features like restricting posts and promoting others as admins. See [All Company works like other Yammer communities](../manage-yammer-groups/yammer-all-company-yammer-community.md) for more information.
 
 ## Key differences between modes
 
