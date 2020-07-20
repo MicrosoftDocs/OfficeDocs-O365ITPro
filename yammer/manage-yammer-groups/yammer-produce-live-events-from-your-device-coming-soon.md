@@ -1,5 +1,5 @@
 ---
-title: "Live events in Yammer"
+title: "Produce Yammer live events from your device"
 f1.keywords:
 - NOCSH
 ms.author: v-tosadd
