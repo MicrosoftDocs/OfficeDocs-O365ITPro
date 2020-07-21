@@ -127,7 +127,7 @@ There will be more updates to Yammer in the upcoming months. Refer to the [Micro
 
 ## How do I enable new Yammer within my organization?  
 
-Yammer global administrators can configure access to new Yammer through the Yammer admin portal. From there, they can enable the toggle to display in the suite header and choose to default to classic Yammer or enable the new Yammer across their network. For more information about managing the opt-in settings, see [Bring new Yammer to your organization](administrative-settings-opt-in-newyammer.md).
+Yammer global administrators and verified network admins can configure access to new Yammer through the Yammer admin portal. From there, they can enable the toggle to display in the suite header and choose to default to classic Yammer or enable the new Yammer across their network. For more information about managing the opt-in settings, see [Bring new Yammer to your organization](administrative-settings-opt-in-newyammer.md).
 
 ## Do you have materials available to help in rolling out the new Yammer within my organization?
 
@@ -136,7 +136,7 @@ Yes! The [Yammer Adoption Center](https://resources.techcommunity.microsoft.com/
 
 ## Who is eligible to access the new experience?
 
-Once enabled by a global admin, people in your organization who sign into Yammer with Microsoft 365 will be able to view the toggle to opt in to the new experience. This will be available for canonical (home) networks only. Microsoft 365 users who participate in external networks will participate using the classic Yammer experience. Users can also access a direct link to the new experience.
+Once enabled by a global admin or a verified network admin, people in your organization who sign into Yammer with Microsoft 365 will be able to view the toggle to opt in to the new experience. This will be available for canonical (home) networks only. Microsoft 365 users who participate in external networks will participate using the classic Yammer experience. Users can also access a direct link to the new experience.
 
 ## Will I know when additional changes are coming?
 
@@ -183,7 +183,7 @@ A: All languages available in classic Yammer are available in new Yammer.
 
 **Q: Can users get to new Yammer without administrator changes?**
 
-A: A global admin can control whether or not users in their organization can see the toggle to opt into the new Yammer experience but users will always be able to access web.yammer.com. If your organization wants to remove all access to new Yammer, [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
+A: A global admin or a verified network admin can control whether or not users in their organization can see the toggle to opt into the new Yammer experience but users will always be able to access web.yammer.com. If your organization wants to remove all access to new Yammer, [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
 
 **Q: I don’t want to enable the new experience for my production Yammer network yet. How can I test out the new toggle?**
  
