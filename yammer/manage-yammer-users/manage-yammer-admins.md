@@ -2,8 +2,8 @@
 title: "Manage Yammer admins"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -63,7 +63,7 @@ You grant and change admin roles in the Yammer admin center. In the following sc
 
 |||
 |:-----|:-----|
-|**Tasks** <br/> | Configure network settings, including logo and colors, usage policy, what's included in user profiles.  <br/><br>  Manage internal users and outside guests, unlisted groups <br/><br>  Grant and revoke network admin role <br/><br>  For groups they are in, anything group admins can do. <br/><br>  For instructions for typical tasks for network admins, see the [Yammer admin help](../yammer-landing-page.md).  <br/> |
+|**Tasks** <br/> | Configure network settings, including logo and colors, usage policy, what's included in user profiles.  <br/><br>  Manage internal users and outside guests, unlisted groups <br/><br>  Grant and revoke network admin role <br/><br>  For groups they are in, anything group admins can do. <br/><br>  For instructions for typical tasks for network admins, see the [Yammer admin help](../index.yml).  <br/> |
 |**Who can give this role to others** <br/> |People with the Office 365 global admin role, and Yammer verified admins and network admins can give other Yammer users the network admin role.  <br/> |
 |**Add a network admin** <br/> | In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**, and then in the **Appoint Additional Admins** section, enter the user's name. <br/><br>  Select **Make this user an admin**, and then click **Submit**.<br/><br>   **Remove a network admin** <br/><br>  In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**, select the user's name, and then click **Remove**.  <br/> |
    
@@ -72,7 +72,7 @@ You grant and change admin roles in the Yammer admin center. In the following sc
 
 |||
 |:-----|:-----|
-|**Tasks** <br/> | All tasks a network admin can do, as well as: <br/><br>- Assign verified and network admin roles.  <br/>- Manage content policies, including monitor keywords, data retention, security settings, and reading data in private groups.  <br/>  - Export data  <br/>- Perform integrations with other tools  <br/><br>  For instructions for typical tasks for verified admins, see the [Yammer admin help](../yammer-landing-page.md).  <br/> |
+|**Tasks** <br/> | All tasks a network admin can do, as well as: <br/><br>- Assign verified and network admin roles.  <br/>- Manage content policies, including monitor keywords, data retention, security settings, and reading data in private groups.  <br/>  - Export data  <br/>- Perform integrations with other tools  <br/><br>  For instructions for typical tasks for verified admins, see the [Yammer admin help](../index.yml).  <br/> |
 |**Who can give this role to others** <br/> | An Office 365 global admin.  <br/><br>   A Yammer verified admin.  <br/> |
 |**Add or remove verified admins, without giving them the Office 365 global admin role** <br/> |1. In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**. <br/><br>2. If the user is already a network admin, their name will show up in the **Current Admins** list. Select **Grant Verified Admin**. <br/><br>  If user is not already a network admin:  <br/><br>  - In the **Appoint Additional Admins** section, search for them by name, and select **Make this user an admin**, and then click **Submit**. <br/><br>  - Find the user in the **Current Admin**s list, and click **Grant Verified Admin**. <br/><br>  **Change a verified admin who is not also an Office 365 global admin to be a network admin** <br/><br>  - In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**, and in the **Current Admins** section, in the row for the admin, click **Revoke Verified Admin**.  <br/><br>  **Remove all admin roles from a verified admin who is not also an Office 365 global admin** <br/><br>  In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**, and in the **Current Admins** section, in the row for the admin, click **Remove**.  <br/> |
    

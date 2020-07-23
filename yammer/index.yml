@@ -1,0 +1,277 @@
+### YamlMime:Landing
+
+title: Yammer administration documentation # < 60 chars
+summary: Build communities and collaboration in your organization with Yammer. # < 160 chars
+
+metadata:
+  title: Yammer administration documentation # Required; page title displayed in search results. Include the brand. < 60 chars.
+  description: Build communities and collaboration in your organization with Yammer. # Required; article description that is displayed in search results. < 160 chars.
+  ms.service: yammer #Required; service per approved list. service slug assigned to your service by ACOM.
+  ms.topic: landing-page # Required
+  author: ToniSFrench #Required; your GitHub user alias, with correct capitalization.
+  ms.author: v-tosadd #Required; microsoft alias of author; optional team alias.
+  ms.date: 06/29/2020 #Required; mm/dd/yyyy format.
+
+# linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
+
+landingContent:
+# Cards and links should be based on top customer tasks or top subjects
+# Start card title with a verb
+  # Card (optional)
+  - title: About Yammer
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: New Yammer FAQ
+            url: /Yammer/get-started-with-yammer/newyammer-faq
+          - text: Yammer admin key concepts
+            url: /Yammer/get-started-with-yammer/admin-key-concepts         
+          - text: Yammer adoption resources
+            url: https://resources.techcommunity.microsoft.com/yammer-adoption-resources/
+          - text: Yammer technical community
+            url: https://techcommunity.microsoft.com/t5/Yammer/ct-p/Yammer
+          - text: Yammer blog
+            url: https://techcommunity.microsoft.com/t5/Yammer-Blog/bg-p/YammerBlog
+          - text: Contact support for business products
+            url: /office365/admin/contact-support-for-business-products
+          - text: Microsoft 365 productivity library
+            url: https://www.microsoft.com/microsoft-365/success/?products=yammer&rtc=2
+          - text: Yammer end-user help
+            url: https://support.office.com/yammer
+      - linkListType: get-started
+        links:
+          - text: Admin quick start
+            url: /yammer/get-started-with-yammer/admin-quick-start
+          - text: Bring new Yammer to your organization
+            url: /yammer/get-started-with-yammer/administrative-settings-opt-in-newyammer
+          - text: File storage overview
+            url: /yammer/get-started-with-yammer/file-storage
+
+
+  # Card (optional)
+  - title: What's new
+    linkLists:
+      - linkListType: whats-new
+        links:
+          - text: Report a conversation overview
+            url: /yammer/manage-yammer-groups/configure-conversation-reporting
+          - text: All Company now works like other Yammer communities 
+            url: /yammer/manage-yammer-groups/yammer-all-company-yammer-community
+          - text: Restrict All Company posts in Yammer 
+            url: https://support.microsoft.com/office/3219d2ae-db15-4c9f-9dd2-28559ae39a97
+          - text: Use a Yammer web part in SharePoint Online
+            url:  https://support.microsoft.com/office/a53cfa0c-3d09-42c8-a286-1038a81c59da
+          - text: Use the Yammer Communities app for Microsoft Teams
+            url:  https://support.microsoft.com/office/930c86f1-e1e2-4e45-a66a-ce8faca71a21
+          - text: File storage changes 
+            url: /yammer/get-started-with-yammer/file-storage
+          - text: Data residency in the EU Geo
+            url: /yammer/manage-security-and-compliance/data-residency
+          - text: Rich text formatting
+            url: /yammer/get-started-with-yammer/rich-text-formatting
+          - text: Set up a knowledge base community
+            url: /yammer/integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker
+          - text: Yammer live events
+            url: /yammer/manage-yammer-groups/yammer-live-events
+
+
+  # Card (optional)
+  - title: Configure Yammer
+    linkLists:
+      - linkListType: concept
+        links:
+          - text: Yammer networks and Office 365 tenants
+            url: /yammer/configure-your-yammer-network/yammer-and-office-365
+          - text: Overview of native mode
+            url: /yammer/configure-your-yammer-network/overview-native-mode
+      - linkListType: how-to-guide
+        links:
+          - text: Configure your Yammer network
+            url: /Yammer/configure-your-yammer-network/configure-yammer
+          - text: Customize the look of your Yammer network
+            url: /Yammer/configure-your-yammer-network/customize-the-look-of-yammer
+          - text: Configure email and Yammer
+            url: /yammer/configure-your-yammer-network/configure-email-and-yammer
+          - text: Enforce Office 365 identity
+            url: /yammer/configure-your-yammer-network/enforce-office-365-identity
+          - text: Manage Yammer domains
+            url: /Yammer/configure-your-yammer-network/manage-yammer-domains
+          - text: Consolidate multiple Yammer networks
+            url: /Yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks
+          - text: FAQ about Consolidating multiple Yammer networks
+            url: /Yammer/configure-your-yammer-network/FAQ-consolidate-multiple-yammer-networks
+
+  # Card
+  - title: Security and compliance
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: Security and compliance overview
+            url: /yammer/manage-security-and-compliance/security-and-compliance
+          - text: Data residency
+            url: /Yammer/manage-security-and-compliance/data-residency
+      - linkListType: how-to-guide
+        links:
+          - text: Yammer security settings
+            url: /Yammer/manage-security-and-compliance/yammer-security-settings
+          - text: Export Yammer Enterprise data
+            url: /Yammer/manage-security-and-compliance/export-Yammer-enterprise-data
+          - text: Manage GDPR data subject requests in Yammer Enterprise
+            url: /Yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise
+          - text: Manage GDPR data subject requests in Yammer Basic
+            url: /Yammer/manage-security-and-compliance/gdpr-requests-in-yammer-basic
+          - text: Manage data compliance
+            url: /Yammer/manage-security-and-compliance/manage-data-compliance
+          - text: Monitor private content
+            url: /Yammer/manage-security-and-compliance/monitor-private-content
+          - text: Set up a usage policy
+            url: /Yammer/manage-security-and-compliance/set-up-a-usage-policy
+          - text: Track Yammer events
+            url: /Yammer/manage-security-and-compliance/track-yammer-events
+          - text: Manage Yammer with Intune
+            url: /Yammer/manage-security-and-compliance/manage-yammer-with-intune          
+
+  # Card
+  - title: Manage users
+    linkLists:
+      - linkListType: how-to-guide
+        links:
+          - text: Manage Office 365 users
+            url: /Yammer/manage-yammer-users/manage-users-across-their-lifecycle
+          - text: Add, block, or remove users
+            url: /Yammer/manage-yammer-users/add-block-or-remove-users
+          - text: Manage Yammer licenses in Office 365
+            url: /Yammer/manage-yammer-users/manage-yammer-licenses-in-Office-365
+          - text: Audit Office 365 users
+            url: /Yammer/manage-yammer-users/audit-users-connected-to-office-365
+          - text: Manage Yammer admins
+            url: /Yammer/manage-yammer-users/manage-yammer-admins
+          - text: Office 365 sign-in
+            url: /Yammer/manage-yammer-users/office-365-sign-in
+          - text: Auto-acceleration policy
+            url: /Yammer/manage-yammer-users/auto-acceleration-policy-for-signing-in
+          - text: Turn off access for Office 365 users
+            url: /Yammer/manage-yammer-users/turn-off-user-access
+      - linkListType: whats-new
+        links:
+          - text: AAD credentials will be required for log in
+            url: /yammer/manage-yammer-users/aad-account-required
+  
+  # Card (optional)
+  - title: Work with external users
+    linkLists:
+      - linkListType: how-to-guide
+        links:
+          - text: Create and manage an external network
+            url: /Yammer/work-with-external-users/create-and-manage-an-external-network
+          - text: Add external participants
+            url: /Yammer/work-with-external-users/add-external-participants
+          - text: Business-to-business (B2B) Guest support preview
+            url:  /Yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer
+          - text: Create and manage external groups
+            url: /Yammer/work-with-external-users/create-and-manage-external-groups
+          - text: Find external participants
+            url: /Yammer/work-with-external-users/find-external-participants
+          - text: Disable external messaging
+            url: /Yammer/work-with-external-users/disable-external-messaging
+      - linkListType: overview
+        links:
+          - text: External messaging FAQ
+            url: /Yammer/work-with-external-users/external-messaging-faq
+
+  # Card
+  - title: Manage groups
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: Yammer and Office 365 connected groups
+            url: /Yammer/manage-yammer-groups/yammer-and-office-365-groups
+          - text: Office 365 groups naming policy
+            url: https://support.office.com/article/office-365-groups-naming-policy-6ceca4d3-cad1-4532-9f0f-d469dfbbb552
+      - linkListType: how-to-guide
+        links:
+          - text: Create a Yammer community or group
+            url: https://support.office.com/article/60db6f14-fc5d-4ffb-8812-e3c0a4109e00
+          - text: Manage a Yammer community or group
+            url: https://support.office.com/article/12ce0216-0618-4576-b87a-a8c189cee0f8
+          - text: Delete a Yammer community or group
+            url: https://support.office.com/article/2a70a1f9-d081-488e-9fc7-0f7684e5a58b
+          - text: Yammer and Office 365 connected groups
+            url: /Yammer/manage-yammer-groups/yammer-and-office-365-groups
+          - text: Manage who can create Office 365 groups
+            url: https://support.office.com/article/manage-who-can-create-office-365-groups-4c46c8cb-17d0-44b5-9776-005fced8e618
+          - text: Create a dynamic group
+            url: /Yammer/manage-yammer-groups/create-a-dynamic-group
+          - text: Export community or group members to a .csv file
+            url: https://support.office.com/article/14e809e7-b1e3-44b2-9734-6c46aaa5dff9
+
+  # Card
+  - title: Live events in Yammer
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: Live events overview
+            url: /Yammer/manage-yammer-groups/yammer-live-events
+          - text: Live event FAQ
+            url: https://support.office.com/article/43bbd59d-a734-4c8f-923d-6a239d137d34
+      - linkListType: how-to-guide
+        links:
+          - text: Drive engagement
+            url: https://support.office.com/article/c0244ad8-6dcb-419c-add9-2e4a00543412
+          - text: Organize a live event
+            url: https://support.office.com/article/105dd7af-9caf-4a5e-8a44-56d203e96551
+          - text: Get production help
+            url: https://support.office.com/article/0cedb557-cbe4-40d3-8147-112633f087eb
+
+  # Card (optional)
+  - title: Monitor usage
+    linkLists:
+      - linkListType: how-to-guide
+        links:
+          - text: Activity report
+            url: /office365/admin/activity-reports/yammer-activity-report
+          - text: Groups activity report
+            url: /office365/admin/activity-reports/yammer-groups-activity-report
+          - text: View commmunity or group insights in Yammer
+            url: https://support.office.com/article/06c5494a-d77c-410c-9464-98bc0b9dad84
+          - text: Device usage report
+            url: /office365/admin/activity-reports/yammer-device-usage-report
+          - text: Measure success guide
+            url: https://resources.techcommunity.microsoft.com/link/yammer-measure-success-guide
+
+  # Card
+  - title: Integrate with other apps
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: Develop apps for Yammer
+            url: https://developer.microsoft.com/yammer
+      - linkListType: how-to-guide
+        links:
+          - text: Integrate with other applications
+            url: /Yammer/integrate-yammer-with-other-apps/integrate-with-other-applications
+          - text: Include a Yammer feed in a SharePoint page
+            url: /Yammer/integrate-yammer-with-other-apps/integrate-with-other-applications
+          - text: Yammer and SharePoint Server
+            url: https://docs.microsoft.com/SharePoint/administration/integrate-yammer-with-on-premises-sharepoint-server-environments
+          - text: Yammer and Newsfeed
+            url: /Yammer/integrate-yammer-with-other-apps/yammer-and-newsfeed
+          - text: Knowledge-base community using Flow and QnA Maker
+            url: /Yammer/integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker
+          - text: Sentiment analysis using Flow and Azure Cognitive Services
+            url: /Yammer/integrate-yammer-with-other-apps/sentiment-analysis-flow-azure
+          
+      
+  # Card
+  - title: Troubleshooting
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: Can I unsubscribe myself from Yammer?
+            url: https://support.office.com/article/can-i-unsubscribe-myself-from-yammer-981ecaf7-8a7d-4312-a845-bd343e925073?ui=en-US&rs=en-US&ad=US
+          - text: Limited functionality in Yammer in Internet Explorer 10 document mode
+            url: /Yammer/troubleshoot-problems/limited-functionality-in-explorer-10-document-mode
+      - linkListType: how-to-guide
+        links:
+          - text: What to do when users cannot log in to Yammer on Android devices
+            url: /Yammer/troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices

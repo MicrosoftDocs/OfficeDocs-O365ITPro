@@ -41,4 +41,4 @@ You can also click **Start Here** to go to the Yammer Success Site, your resourc
 
 Get an overview of key concepts and first steps to setting up your Yammer network with [Yammer admin key concepts](admin-key-concepts.md).
   
-For links to everything you need to administer your network, see [Yammer admin help](../yammer-landing-page.md).
+For links to everything you need to administer your network, see [Yammer admin help](../index.yml).
