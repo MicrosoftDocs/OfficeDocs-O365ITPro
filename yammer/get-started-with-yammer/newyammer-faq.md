@@ -87,6 +87,10 @@ We are working hard to bring new features and continuous improvements to new Yam
 - Adding and removing apps
 - Navigate to next community after reading all posts
 - Community hover card
+- Option for subscribing and unsubscribing on the community page
+- Option for retrieving the code for embedding the community's feed
+- Option for retrieving the community email address to post by email
+
 
 ### Search experience
 
