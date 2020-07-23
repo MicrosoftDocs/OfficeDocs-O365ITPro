@@ -12,9 +12,10 @@ ms.service: o365-administration
 localization_priority: Priority
 search.appverid:
 - MET150
-ROBOTS: NOINDEX, NOFOLLOW
 description: "This article describes how to track your Microsoft 365 message center tasks in Microsoft Planner."
 ---
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4C7Ne]
 
 # Track your message center tasks in Planner
 
