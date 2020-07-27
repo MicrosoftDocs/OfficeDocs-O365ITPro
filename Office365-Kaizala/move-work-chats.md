@@ -63,7 +63,7 @@ You must link your new group to your organization to ensure data security and to
 
 ## Step 4 – Ask your employees to move their work chat to Kaizala 
 
-Now that all your chats are moved to Kaizala, its time to ask your employees to do the same. Personalize and share [this poster and email message](https://docs.microsoft.com/en-us/Office365/Kaizala/move-work-chats#move-groups--poster-and-email-template) with all your employees to help them move their groups to Kaizala.
+Now that all your chats are moved to Kaizala, its time to ask your employees to do the same. Personalize and share [this poster and email message](https://docs.microsoft.com/Office365/Kaizala/move-work-chats#move-groups--poster-and-email-template) with all your employees to help them move their groups to Kaizala.
 
 ### Move groups – poster and email template
 
