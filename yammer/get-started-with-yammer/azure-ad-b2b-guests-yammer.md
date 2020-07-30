@@ -90,13 +90,13 @@ We are working hard to bring all Yammer functionality to the new B2B guests in Y
 
 - **Cross-Geography guests** – Today we enable organizations to host Yammer in two data centers – Europe and North America. With this new guest support, users will be able to add guests from their same geography. Please check [our public roadmap](https://go.microsoft.com/fwlink/?linkid=2132131) to see timelines for Cross-Geography support.
 
-- **Private Messages** – Private messages are disabled for B2B guests in Yammer.
+- **Private messages** – Private messages are disabled for B2B guests in Yammer.
 
 - **Live events** – Currently guest users will not be able to participate in live events  because guests are not yet supported by Microsoft Stream. To learn more about when these features will be available, please refer to the [Microsoft Yammer roadmap](https://go.microsoft.com/fwlink/?linkid=2132131). 
 
 - **Adding guests during community creation** – Community owners can invite guest users by using edit membership flow for any community. In the current release, community owners will not be able to add guest emails at the time of community creation. This is a temporary limitation and will be addressed in the subsequent releases.
 
-- **Interactive Yammer Email Notifications in Outlook** – Interactive email notifications for B2B guests users will not be available in this preview. B2B Guest users will continue to receive the legacy email notifications from the communities that they are added to as guests, instead of the new interactive email notifications. For the communities these users are not guests in, the interactive email notifications will work as usual. The interactive email notifications for guest users will be supported in subsequent releases.
+- **Interactive Yammer email notifications in Outlook** – Interactive email notifications for B2B guests users will not be available in this preview. B2B Guest users will continue to receive the legacy email notifications from the communities that they are added to as guests, instead of the new interactive email notifications. For the communities these users are not guests in, the interactive email notifications will work as usual. The interactive email notifications for guest users will be supported in subsequent releases.
 
 ## Who is eligible to access the new preview experience?
 
