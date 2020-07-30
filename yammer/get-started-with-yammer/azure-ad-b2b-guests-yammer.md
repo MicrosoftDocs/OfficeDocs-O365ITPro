@@ -115,7 +115,7 @@ Thank you for choosing to help us shape the future of guest access in Yammer. As
 
 1. You, as the customer, accept that features will change during the preview and certain capabilities might not be at parity with the legacy Yammer guest experience.
 
-2. With the new B2B Guest experience, we request that you provide feedback about the experience via YammerExternFeedback@microsoft.com. This will help us improve the experience further in future releases.
+2. With the new B2B Guest experience, we request that you provide feedback about the experience via **YammerExternFeedback@microsoft.com**. This will help us improve the experience further in future releases.
 
 ## Yammer Preview Customer Support
 
@@ -136,7 +136,7 @@ Please see the [Support for business products - Admin Help page](https://docs.
 
 ## How should I submit feature requests and feedback? 
 
-Feature requests and feedback on the product during preview should be submitted through to the product teams at YammerExternFeedback@microsoft.com. Feedback can also be provided with peers through the new [Azure AD B2B Guests in Yammer page](https://go.microsoft.com/fwlink/?linkid=2132094) in the Yammer Tech Community.
+Feature requests and feedback on the product during preview should be submitted through to the product teams at ****YammerExternFeedback@microsoft.com**. Feedback can also be provided with peers through the new [Azure AD B2B Guests in Yammer page](https://go.microsoft.com/fwlink/?linkid=2132094) in the Yammer Tech Community.
 
 You may provide us with suggestions, comments, feedback, ideas, or know-how (“Feedback”) about the functioning of this app, including bugs, problems, and suggested improvements. For any Feedback you provide, you grant us, our affiliates, and our business partners, worldwide, irrevocable, perpetual, transferable, and sublicensable right and license to use the Feedback for any purpose without limitation and without attribution, fee, royalty, or restriction.  You will not provide us with Feedback that is subject to third-party rights or license. 
 
