@@ -107,7 +107,7 @@ The new B2B Guest support is currently available for Classic Yammer only. Users 
 Yammer global administrators can get access to the new B2B Guests in Yammer preview by submitting request through [this sign-up form](https://go.microsoft.com/fwlink/?linkid=2131955). Please note that  [Native Mode for Microsoft 365](../configure-your-yammer-network/overview-native-mode.md) is a pre-requisite to enable this preview. Once you have signed-up, Microsoft engineering and support teams will reach out to you to finalize dates for enablement of early access for your tenant. 
 
 > [!IMPORTANT]
-> If you enable B2B Guest support in Yammer Preview for your network, you will not be able to switch back to the legacy mode for Guests.  The new B2B Guests in Yammer preview and Native Mode for Microsoft 365 for Yammer, which is a pre-requisite for this preview, involve irreversible migration of users, communities, and data from legacy mode to Azure Active Directory and SharePoint respectively..    
+> If you enable B2B Guest support in Yammer Preview for your network, you will not be able to switch back to the legacy mode for Guests.  The new B2B Guests in Yammer preview and Native Mode for Microsoft 365 for Yammer, which is a pre-requisite for this preview, involve irreversible migration of users, communities, and data from legacy mode to Azure Active Directory and SharePoint respectively.  
 
 ## Are there any expectations around participating in the preview?
 
