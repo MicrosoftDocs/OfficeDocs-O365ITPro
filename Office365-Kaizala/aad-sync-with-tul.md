@@ -43,7 +43,7 @@ The Azure Active Directory (Azure AD) sync feature lets you sync user informatio
 
 To configure the Azure AD and Kaizala Directory sync:
 
-1. Log in to the [Kaizala management portal](http://manage.kaiza.la).
+1. Log in to the [Kaizala management portal](https://manage.kaiza.la).
 
 2. From the menu on the left, select **Directory**.
 
