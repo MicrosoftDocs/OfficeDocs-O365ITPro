@@ -56,7 +56,7 @@ Do the following to unblock these files:
 
 After unblocking your files, do the following to export the user data from Planner:
 
-1. tart Windows PowerShell. In PowerShell, type the following to enable running scripts downloaded from the internet for this session only. It may prompt you to confirm by typing "Y".
+1. Start Windows PowerShell. In PowerShell, type the following to enable running scripts downloaded from the internet for this session only. It may prompt you to confirm by typing "Y".
 
    `PS> Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process`
 

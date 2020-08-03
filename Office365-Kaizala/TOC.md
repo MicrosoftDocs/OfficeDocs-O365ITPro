@@ -27,6 +27,7 @@
 ### [Chat history](chat-history.md)
 ### [Kaizala Web](use-the-web-app.md)
 ### [Regional availability](regional-availability.md)
+### [Kaizala Text Translation](text-translation.md)
 ### [Export or delete data](export-or-delete-your-data.md)
 ### [Age verification](age-verification.md)
 

@@ -4,7 +4,7 @@
 ### [Admin key concepts](get-started-with-yammer/admin-key-concepts.md)
 ### [Admin quick start](get-started-with-yammer/admin-quick-start.md)
 ### [Bring new Yammer to your organization](get-started-with-yammer/administrative-settings-opt-in-newyammer.md)
-### [New Yammer customer terms and FAQ](get-started-with-yammer/newyammer-faq.md)
+### [New Yammer FAQ](get-started-with-yammer/newyammer-faq.md)
 ### [File storage overview](get-started-with-yammer/file-storage.md)
 ### [Business-to-business (B2B) Guest support in Yammer Preview - Customer Terms and FAQ](get-started-with-yammer/azure-ad-b2b-guests-yammer.md)
 ### [Adoption resources](https://resources.techcommunity.microsoft.com/yammer-adoption-resources/)
