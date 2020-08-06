@@ -70,7 +70,7 @@ Because migration deletes files and the process is irreversible, we suggest you:
 
 The following is the expected end user experience for files while the Tool is running:
 
-|Tasks|Office 365 Yammer Groups|Unconnected Yammer Groups|Private Messages|
+|Tasks|Microsoft 365 Yammer Groups|Unconnected Yammer Groups|Private Messages|
 |-----|------------------------|-------------------------|----------------|
 |Delete files|User can delete files|File will be deleted and not migrated to SharePoint.|Files will be deleted and users will no longer have access to these files.|
 |Edit file|Edited files will be stored in SharePoint|Only the latest file will be migrated to SharePoint. If a user edits a file during migration, there is a chance of data loss. Old versions are no longer accessible in SharePoint.|N/A|

@@ -33,9 +33,9 @@ A Yammer network must be in one of three modes:
   
   In this mode, users and admins can't add features that would take the network out of Native Mode.
 
-- **Non-Native Mode**. In this mode, the network does not meet one or more requirements. For example, the network may not enforce Office 365 identity. All external networks and Yammer Basic networks are in this mode because they cannot connect to Office 365.
+- **Non-Native Mode**. In this mode, the network does not meet one or more requirements. For example, the network may not enforce Office 365 identity. All external networks and Yammer Basic networks are in this mode because they cannot connect to Microsoft 365 or Office 365.
 
-- **Hybrid Mode**. In this mode, users and groups may or may not be associated with their counterparts in AAD and Office 365, and files may or may not be stored in SharePoint. The network may be in the process of meeting all requirements for Native Mode, but the admin hasn't committed the network to Native Mode.
+- **Hybrid Mode**. In this mode, users and groups may or may not be associated with their counterparts in AAD and Microsoft 365 or Office 365, and files may or may not be stored in SharePoint. The network may be in the process of meeting all requirements for Native Mode, but the admin hasn't committed the network to Native Mode.
 
 When you align your Yammer network in Native Mode, the Microsoft 365 Alignment Tool (“Tool”) automates the process and guides you through the steps to get there. The Tool prepares your network for Native Mode by:
 
@@ -54,9 +54,9 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
 
 - No one can inadvertently take your network out of Native Mode.
 - eDiscovery through the [Microsoft 365 Compliance Center](https://go.microsoft.com/fwlink/?linkid=2132455) for your home network.
-- All Yammer groups and users are managed through Office 365.
-- Office 365 resources for each group.
-- All groups, including All Company, are Office 365-connected, which means they have access to Office 365 features, including live events.
+- All Yammer groups and users are managed through Microsoft 365 or Office 365.
+- Microsoft 365 or Office 365 resources for each group.
+- All communities or groups, including All Company, are Microsoft 365-connected, which means they have access to Microsoft 365 and Office 365 features, including live events.
 - Yammer honors Microsoft 365 Group Creation Rights and enforces Microsoft 365 Group Creation Restrictions.
 - No external groups or network-level guests, but external networks are supported in the [US Geo](../manage-security-and-compliance/security-and-compliance.md).
 - All files uploaded to groups will be stored in SharePoint.
@@ -76,7 +76,7 @@ When you align your Yammer network in Native Mode, the Microsoft 365 Alignment T
 - A step on the way to Native Mode that lets you understand how Native Mode will work.
 - External groups, network-level guests, and external networks are supported in the US Geo.
 - All Yammer users can create groups.
-- New files uploaded to Office 365-connected groups are stored in SharePoint.
+- New files uploaded to Microsoft 365-connected groups are stored in SharePoint.
 - Files can be attached to Yammer private messages.
 - Verified and Network Network Admins are not required to have any additional admin privileges from Microsoft 365 in order to administer changes to groups.
 
