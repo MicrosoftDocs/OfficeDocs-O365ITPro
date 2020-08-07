@@ -10,4 +10,3 @@ common/
 .DS_Store
 *.db
 .openpublishing.buildcore.ps1
-yammer/manage-yammer-users/manage-users-across-their-lifecycle.md
