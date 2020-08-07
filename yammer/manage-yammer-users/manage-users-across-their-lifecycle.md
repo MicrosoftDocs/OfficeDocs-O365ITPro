@@ -69,7 +69,7 @@ The user creation varies depending on when the Yammer network was created.
 
 ### Networks created before March 2019
 
-As of March 2019, we are in process of transitioning how Yammer users are created. During the transition, which will occur during 2019, the process will be different for existing Office 365 users and new Office 365 users.
+Beginning in March 2019, we started transitioning how Yammer users are created. During the transition, which will occur during through 2020, the process will be different for existing Office 365 users and new Office 365 users.
 
 - **Pre-March 2019**: Yammer users are created when they use Yammer for the first time. 
  
@@ -88,7 +88,9 @@ As of March 2019, we are in process of transitioning how Yammer users are create
     
     4. A new Yammer user is created for the Office 365 user. The user's profile properties and language setting from Azure Active Directory are automatically populated in the user's Yammer profile.
 
-- **New way**: When **Enforce Office 365 identity** is selected in Yammer, as Yammer-eligible users are added to Office 365, they are automatically added as new pending users in Yammer. Their status changes from **Pending** to **Active** the first time they use Yammer.
+   ### New networks, Native Networks, and Enforced Office 365 Identity Networks 
+
+When **Enforce Office 365 identity** is selected in Yammer (including when in Native Mode), as Yammer-eligible users are added to Office 365, they are automatically added as new pending users in Yammer. Their status changes from **Pending** to **Active** the first time they use Yammer.
 
     ![Diagram that shows new process for creating a Yammer user, where the new user is created automically as "pending" in Yammer](../media/yam_newuserprocess.jpg)
 
@@ -123,7 +125,7 @@ The process follows these steps:
     
         ![Screenshot of a users's sign-in status in Office 365](../media/3003a58e-1294-460a-a174-2be67b1dc462.png)
   
-    2. Click **Edit** next to **Sign-in status** to swtich between **Allow the user to sign in** and **Block the user from signing in**, as in this screenshot.
+    2. Click **Edit** next to **Sign-in status** to switch between **Allow the user to sign in** and **Block the user from signing in**, as in this screenshot.
     
         ![Sign-in status dialog box in Office 365](../media/c06def75-bb12-4dea-ae2b-325ee410c5ed.png)
   
@@ -172,9 +174,15 @@ The process follows these steps:
   
 2. This action flows into Yammer as well, and the previously deactivated user in Yammer is reactivated.
     
-## Yammer user profile update from Azure Active Directory
+## User profile information
 
-Office 365 uses the cloud-based service Azure Active Directory (Azure AD) to manage users. You can either manage users directly in the cloud or use [Understanding Office 365 identity and Azure Active Directory](https://support.office.com/article/06a189e7-5ec6-4af2-94bf-a22ea225a7a9) to create and synchronize users/groups from your on-premises environment. When Office 365 users who are new to Yammer access Yammer for the first time using their Azure AD credentials, a Yammer user is created, and the Yammer user profile is populated with the Azure AD user properties. And when the user's profile properties are edited in Azure AD, they are updated in the existing user's Yammer profile. Say, the user's department changed in Azure AD, this change will be reflected in Yammer as well. 
+The user profile experience differs depending on whether or not the account is connected to Azure Active Directory (Azure AD).
+
+### For AAD-connected accounts
+
+Office 365 uses the cloud-based service Azure Active Directory (Azure AD) to manage users. You can either manage users directly in the cloud or use [Understanding Office 365 identity and Azure Active Directory](https://support.office.com/article/06a189e7-5ec6-4af2-94bf-a22ea225a7a9) to create and synchronize users and communities or groups from your on-premises environment. 
+
+When Office 365 users who are new to Yammer access Yammer for the first time using their Azure AD credentials, a Yammer user is created, and the Yammer user profile is populated with the Azure AD user properties. And when the user's profile properties are edited in Azure AD, they are updated in the existing user's Yammer profile. Say, the user's department changed in Azure AD, they will appear in Yammer as well. 
   
 Users have a profile in both Office 365 and in Yammer.
   
