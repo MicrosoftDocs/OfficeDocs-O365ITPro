@@ -88,17 +88,17 @@ Beginning in March 2019, we started transitioning how Yammer users are created. 
     
     4. A new Yammer user is created for the Office 365 user. The user's profile properties and language setting from Azure Active Directory are automatically populated in the user's Yammer profile.
 
-   ### New networks, Native Networks, and Enforced Office 365 Identity Networks 
+### New networks, Native Networks, and Enforced Office 365 Identity Networks 
 
 When **Enforce Office 365 identity** is selected in Yammer (including when in Native Mode), as Yammer-eligible users are added to Office 365, they are automatically added as new pending users in Yammer. Their status changes from **Pending** to **Active** the first time they use Yammer.
 
-    ![Diagram that shows new process for creating a Yammer user, where the new user is created automically as "pending" in Yammer](../media/yam_newuserprocess.jpg)
+![Diagram that shows new process for creating a Yammer user, where the new user is created automically as "pending" in Yammer](../media/yam_newuserprocess.jpg)
 
-    The process follows these steps:
+The process follows these steps:
   
-    1. The Office 365 admin creates a user in Office 365.
+1. The Office 365 admin creates a user in Office 365.
     
-    2. A pending user is created in Office 365. The first time the user uses Yammer, the pending user becomes an active user.
+2. A pending user is created in Office 365. The first time the user uses Yammer, the pending user becomes an active user.
 
 
 - **During transition**: Different actions are taken for different user categories:
@@ -207,7 +207,7 @@ User profiles that they see in Yammer are their Office 365 profile, if their org
 
 If your Yammer users are not in AAD, then they can update their profiles in Yammer by clicking Edit Settings, and then Profile.
   
-    ![A sample user profile](../media/e9378a05-bb94-4775-9336-818333e65edf.png)
+![A sample user profile](../media/e9378a05-bb94-4775-9336-818333e65edf.png)
   
 The Office 365 administrator can edit user properties from the Microsoft 365 admin center.
   
@@ -261,4 +261,4 @@ A: The users who log on to Yammer with Office 365 credentials can be managed in 
 
 [Change my profile settings](https://support.office.com/article/cb9b9f8b-391d-424b-b752-5e23619fadec)
 
-[Add, block, or remove Yammer users](../manage-yammer-users/add-block-or-remove-users)
+[Add, block, or remove Yammer users](../manage-yammer-users/add-block-or-remove-users.md)
