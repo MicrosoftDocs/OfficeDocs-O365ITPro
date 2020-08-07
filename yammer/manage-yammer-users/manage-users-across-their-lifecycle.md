@@ -62,7 +62,6 @@ If your organization usually uploads photos from Yammer, you can follow these st
 1. Export the list of users,
 2. Use that list of users to export their photos via a script.
 3. Re-upload them via Microsoft Graph to make it their photo in the rest of Office.
-
   
 ## Create a user
 
@@ -109,7 +108,7 @@ As of March 2019, we are in process of transitioning how Yammer users are create
 An administrator can block a user in Office 365, and the user will be logged out of Yammer as well as all the other Office 365 services. Here's a diagram that shows how this works.
   
 ![The Office 365 administrator blocks a user in Office 365 and the user is logged out of Yammer.](../media/86303509-db4e-4d80-9f7c-3b2ddbcd1f17.png)
-  
+
 The process follows these steps:
   
 1. The Office 365 administrator sets the user's sign-in status to **Block the user from signing in**.
@@ -210,12 +209,12 @@ The Office 365 administrator can edit user properties from the Microsoft 365 adm
  **To edit user properties in Office 365**
   
 1. In the Microsoft 365 admin center, go to the **Users** section, and select or search for a user, as shown in the following screenshot. 
-    
-    ![](../media/b045e652-c971-46c2-a37a-a2d2cc872838.jpg)
+
+   ![Screenshot showing the Users section of Microsoft 365 admin center](../media/b045e652-c971-46c2-a37a-a2d2cc872838.jpg)
   
 2. Click on the user, and choose **Edit** to change the properties, such as Username or Contact information. 
     
-    ![](../media/57657206-20e3-4c1e-811a-dd6b0df1beaa.jpg)
+    ![Screenshot showing editing profile properties](../media/57657206-20e3-4c1e-811a-dd6b0df1beaa.jpg)
   
 Azure AD updates the following Yammer properties:
   
@@ -228,17 +227,17 @@ In Office 365, you can see the user properties that will be updated for Yammer i
 - **Edit email addresses** dialog box 
     - **Edit contact information** dialog box 
     
-    ![](../media/78cb9ff3-a1a3-4bff-be12-e584c36063f8.jpg)
+    ![Screenshot showing editing contact information](../media/78cb9ff3-a1a3-4bff-be12-e584c36063f8.jpg)
   
 In Yammer, you can see the user properties that will be updated for Yammer on the **Profile** page. These properties are in the following sections: 
   
 - The **Basics** and **Info** sections 
     
-    ![](../media/45e18d7f-1a01-4028-a6f4-dd32b2f5f061.jpg)
+    ![Screenshot showing the Basics and Info sections](../media/45e18d7f-1a01-4028-a6f4-dd32b2f5f061.jpg)
   
 - The **Contact** section 
     
-    ![](../media/42b995bc-c0ed-4588-bcfd-14acb90dd680.jpg)
+    ![Screenshot showing the Contact section](../media/42b995bc-c0ed-4588-bcfd-14acb90dd680.jpg)
   
 ## FAQ
 
