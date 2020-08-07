@@ -33,7 +33,7 @@ This article describes the key concepts you should know, and key decisions you s
     
 2. Plan who will help administer Yammer for your organization. There are several types of admins:
     
-      - Verified admins have the most permissions, and are responsible for the big decisions of how to use Yammer in your company. They can manage security-related tasks, as well as configure and customize Yammer, and manage users and groups. All Office 365 global admins are automatically Yammer verified admins.
+      - Verified admins have the most permissions, and are responsible for the big decisions of how to use Yammer in your company. They can manage security-related tasks, as well as configure and customize Yammer, and manage users and groups. All global admins are automatically Yammer verified admins.
     
       - Network admins can configure and customize Yammer, and manage users and groups. 
     
@@ -55,7 +55,7 @@ This article describes the key concepts you should know, and key decisions you s
     
 4. Explore the options for managing user identity:
     
-      - Learn how [users are managed](../manage-yammer-users/office-365-sign-in.md), including how user profile data is used in Yammer. If you have Yammer users who aren't in Office 365, you can manage them from within Yammer. See [Add, block, or remove Yammer users](../manage-yammer-users/add-block-or-remove-users.md). You can also decide whether to [enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md). 
+      - Learn how [users are managed](../manage-yammer-users/office-365-sign-in.md), including how user profile data is used in Yammer. If you have Yammer users who aren't in Microsoft 365 or Office 365, you can manage them from within Yammer. See [Add, block, or remove Yammer users](../manage-yammer-users/add-block-or-remove-users.md). You can also decide whether to [enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md). 
     
       - Decide whether you'll use Yammer to collaborate with people outside your organization.
     
@@ -101,7 +101,7 @@ This article describes the key concepts you should know, and key decisions you s
 ### Q: What are the browser and system requirements for Yammer
 <a name="Requirements"> </a>
 
-A: Yammer's system requirements are consistent with those of Office 365. See the list of supported browsers in the [Office 365 system requirements](https://support.office.com/article/719254c0-2671-4648-9c84-c6a3d4f3be45).
+A: Yammer's system requirements are consistent with those of Microsoft 365 or Office 365. See the list of supported browsers in the [Office 365 system requirements](https://support.office.com/article/719254c0-2671-4648-9c84-c6a3d4f3be45).
   
 > [!IMPORTANT]
 > Internet Explorer 10 support ended on March 1, 2018. For more information, see [Yammer life-cycle support information for Internet Explorer 8, Internet Explorer 9, and Internet Explorer 10](https://go.microsoft.com/fwlink/?LinkId=526880). 
