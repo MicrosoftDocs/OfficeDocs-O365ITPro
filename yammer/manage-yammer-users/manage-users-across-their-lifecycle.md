@@ -65,6 +65,10 @@ If your organization usually uploads photos from Yammer, you can follow these st
   
 ## Create a user
 
+The user creation varies depending on when the Yammer network was created.
+
+### Networks created before March 2019
+
 As of March 2019, we are in process of transitioning how Yammer users are created. During the transition, which will occur during 2019, the process will be different for existing Office 365 users and new Office 365 users.
 
 - **Pre-March 2019**: Yammer users are created when they use Yammer for the first time. 
@@ -105,7 +109,7 @@ As of March 2019, we are in process of transitioning how Yammer users are create
     
 ## Block a user
 
-An administrator can block a user in Office 365, and the user will be logged out of Yammer as well as all the other Office 365 services. Here's a diagram that shows how this works.
+An administrator can block a user in Microsoft 365 or Office 365, and the user will be logged out of Yammer as well as all the other Office 365 services. Here's a diagram that shows how this works.
   
 ![The Office 365 administrator blocks a user in Office 365 and the user is logged out of Yammer.](../media/86303509-db4e-4d80-9f7c-3b2ddbcd1f17.png)
 
@@ -243,7 +247,7 @@ In Yammer, you can see the user properties that will be updated for Yammer on th
 
 ### Q: Are user profile pictures updated from Office 365 to Yammer?
 
-A: Yes. If a user's Yammer profile does not include a picture, the profile will be updated with the user's Office 365 profile picture. This update is initiated when the user clicks the Yammer tile from Office 365 or logs in to Yammer for the first time, and will be reflected in the Yammer profile within few hours. If the user later updates his or her Office 365 profile picture, the Yammer profile picture will also update after the user next uses Yammer.
+A: Yes. If a user's Yammer profile does not include a picture, the profile will be updated with the user's Office 365 profile picture. This update is initiated when the user clicks the Yammer tile from Office 365 or logs in to Yammer for the first time, and will be reflected in the Yammer profile within few hours. If the user later updates his or her profile picture, the Yammer profile picture will also update after the user next uses Yammer.
   
 ### Q: When an email address is changed in Office 365, does it trigger an email address change in Yammer?
 
