@@ -184,41 +184,34 @@ Office 365 uses the cloud-based service Azure Active Directory (Azure AD) to man
 
 When Office 365 users who are new to Yammer access Yammer for the first time using their Azure AD credentials, a Yammer user is created, and the Yammer user profile is populated with the Azure AD user properties. And when the user's profile properties are edited in Azure AD, they are updated in the existing user's Yammer profile. Say, the user's department changed in Azure AD, they will appear in Yammer as well. 
   
-Users have a profile in both Office 365 and in Yammer.
+User profiles that they see in Yammer are their Office 365 profile, if their organization uses Azure AD to manage user credentials.
   
 - To view their profile in Office 365, users can click on their profile picture and choose **My account**.
     
-    ![Office 365 profile picture](../media/b8515994-9ea5-431b-b479-cd2820d5c213.png)
+    ![Office 365 profile picture](../media/yammer-identity-user-profile.png)
   
-    This lets them view and edit their **Personal info** for Office 365. 
-  
-    ![Office 365 profile](../media/5f48f342-d9d3-4df6-9ee1-fd7c1895ec71.png)
-  
+    This lets them view their account information for Office 365. If the organization allows editing personal information, then users can click **Personal Info**, and add the information they want. If the organization doesn’t allow editing, then the settings will not be editable and users will see a ****Why can’t I edit** link they can click for more information.
+
+    User photos will also be synced from Office. To prepare for this change, make sure your organization’s photos can be found in any one of the following places:
+
+    - Go to the All users list in the AAD portal and then click the desired user for picture.
+    - Confirm the My account page in the Office portal has the photo.
+    - Get the Photo API using the Microsoft Graph beta.
+    - Get-the UserPhoto Exchange Online cmdlet, if applicable.
+
+    
 - To view their profile in Yammer, users can choose **Edit Settings**, and then **Profile**.
     
-    ![Select Edit Settings/Profile to view your Yammer profile](../media/aea6c6d2-b386-48e8-9ab5-9bbe76064219.png)
   
-     This lets them view and edit their user profile for Yammer. 
+### For non-AAD accounts
+
+If your Yammer users are not in AAD, then they can update their profiles in Yammer by clicking Edit Settings, and then Profile.
   
     ![A sample user profile](../media/e9378a05-bb94-4775-9336-818333e65edf.png)
   
-There are a few key things to understand about how Yammer user profiles are updated from Azure Active Directory.
-  
-- **User profile updates are one-way:** Updates are one-way, from Azure AD to Yammer. Any user profile changes made in Yammer are not be updated back to Azure AD. 
-    
-- **Azure AD overwrites Yammer user profile edits:** Even when Yammer user profiles are populated from Azure AD, users can edit their Yammer user profile, for example, change their Job Title. These changes are not automatically overwritten. Next time any of these updatable properties change in Azure AD, those changes will overwrite any modifications made in Yammer. There is no configuration in Yammer to block users from updating their Yammer profile. 
-    
-- **You can control updates by using Azure AD Connect:** If you want to control which properties to update from your on-premises directory to Azure AD, use the Azure AD Connect tool. 
-    
-- **Email address updates in Azure AD are reflected in Yammer:** Any updates to the user's email in Azure AD are updated in Yammer. The updated email domain should match one of the domains on the Yammer network. 
-    
-- **What happens if a Yammer user doesn't have an email address:** If none of the emails for the user match the domains on the Yammer network, or if the user does not have any email address in Azure AD, the Yammer user profile is updated to denote that the user does not have email, so that their colleagues are aware of this (if a user hovers over a person in Yammer, they will see in the hover card that the person does not have an email). 
-
-- **The language setting in Yammer is not updated automatically.**
-    
 The Office 365 administrator can edit user properties from the Microsoft 365 admin center.
   
- **To edit user properties in Office 365**
+ **To edit user properties in Microsoft 365 or Office 365**
   
 1. In the Microsoft 365 admin center, go to the **Users** section, and select or search for a user, as shown in the following screenshot. 
 
@@ -241,21 +234,12 @@ In Office 365, you can see the user properties that will be updated for Yammer i
     
     ![Screenshot showing editing contact information](../media/78cb9ff3-a1a3-4bff-be12-e584c36063f8.jpg)
   
-In Yammer, you can see the user properties that will be updated for Yammer on the **Profile** page. These properties are in the following sections: 
-  
-- The **Basics** and **Info** sections 
-    
-    ![Screenshot showing the Basics and Info sections](../media/45e18d7f-1a01-4028-a6f4-dd32b2f5f061.jpg)
-  
-- The **Contact** section 
-    
-    ![Screenshot showing the Contact section](../media/42b995bc-c0ed-4588-bcfd-14acb90dd680.jpg)
   
 ## FAQ
 
 ### Q: Are user profile pictures updated from Office 365 to Yammer?
 
-A: Yes. If a user's Yammer profile does not include a picture, the profile will be updated with the user's Office 365 profile picture. This update is initiated when the user clicks the Yammer tile from Office 365 or logs in to Yammer for the first time, and will be reflected in the Yammer profile within few hours. If the user later updates his or her profile picture, the Yammer profile picture will also update after the user next uses Yammer.
+A: Yes. The profile will be updated with the user's Office 365 profile picture. This update is initiated when the user clicks the Yammer tile from Office 365 or logs in to Yammer for the first time, and will be reflected in the Yammer profile within few hours. If the user later updates his or her profile picture, the Yammer profile picture will also update after the user next uses Yammer.
   
 ### Q: When an email address is changed in Office 365, does it trigger an email address change in Yammer?
 
@@ -273,6 +257,8 @@ A: The users who log on to Yammer with Office 365 credentials can be managed in 
   
 ## Related articles
 
-[Manage a Yammer group](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+[Manage a Yammer community or group](https://support.office.com/article/12ce0216-0618-4576-b87a-a8c189cee0f8)
 
-[Remove a user from a group](https://support.office.com/en-us/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2#removemember)
+[Change my profile settings](https://support.office.com/article/cb9b9f8b-391d-424b-b752-5e23619fadec)
+
+[Add, block, or remove Yammer users](../manage-yammer-users/add-block-or-remove-users)
