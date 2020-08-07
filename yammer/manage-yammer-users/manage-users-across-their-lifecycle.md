@@ -2,8 +2,8 @@
 title: "Manage Yammer users across their lifecycle from Office 365"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -21,23 +21,48 @@ description: "Manage Yammer Enterprise users in Office 365. As you create, delet
 
 # Manage Yammer users across their lifecycle from Office 365
 
-As a global Office 365 administrator, you control the lifecycle for Yammer users through the Microsoft 365 admin center, in addition to managing them through Yammer.
+There are many types of users in Yammer and managing each of them is different.
 
-All groups from Yammer networks that are in Native Mode will be managed through these admin centers. Some of the management capabilities regarding group members or users that can be done through the Microsoft 365 admin center includes:
+- Users with Azure Active Directory-identity
+- Users without Azure
+- And other guest users
 
-- Add or remove group members
-- Manage group ownership
-- Delete a group
-- Restore a deleted group
-- Rename the group
-- Update the group description
-- Change the group's privacy setting
+As a global administrator, you control the lifecycle for Yammer users through the Microsoft 365 admin center, in addition to managing them through Yammer.
+
+All communities and groups from Yammer networks that are in Native Mode will be managed through these admin centers. Some of the management capabilities regarding community or group members or users that can be done through the Microsoft 365 admin center includes:
+
+- Add or remove community or group members
+- Manage community or group ownership
+- Delete a community or group
+- Restore a community or deleted group
+- Rename the community or group
+- Update the community or group description
+- Change the community's or group's privacy setting
 
 When you create users in Office 365, they can log on to Yammer with their Office 365 credentials. When a user is deleted from Office 365, he or she is automatically deactivated or suspended in Yammer. When a user is restored in Office 365, he or she is reactivated in Yammer.
   
-The user's profile properties (such as name and department) from Azure Active Directory are automatically populated in the user's Yammer profile, and any changes to the profile properties in Azure Active Directory are reflected in Yammer as well. While Yammer users can change their profile in Yammer, the user's changes will be overwritten if the properties change in Azure Active Directory.
+The user's profile properties (such as name and department) from Azure Active Directory are automatically populated in the user's Yammer profile, and any changes to the profile properties in Azure Active Directory are reflected in Yammer as well. 
+
+If users have an Office 365 account, they will not be able to update their information directly in Yammer. If users want to change their information, such as photos, phone numbers, and other data, they will need update it through their Office 365 profile just as they would with other Office 365 apps. Depending on the organization, users may be able to update through Office Delve or the user might need to ask their IT administrator to assist.
+
+> [!Important]
+> If a user had a customized profile prior to April 2020, it will be overwritten with their AAD identity to create a single source of truth.
+
 
 The user's Yammer language setting is taken from Office 365 when the user's Yammer account is activated. If the user changes their Office 365 language setting or if the setting is changed directly in Azure Active Directory, Yammer does not pick up this change. The user can change their Yammer language setting in their Yammer profile on the **Preferences** tab.
+
+This change will also mean that we retire properties that aren’t synced today like user’s personal email account information. If you’d like to maintain information data from the **About Me** settings – such as Schools, Expertise, and Interest - we recommend that you export this and update the users’ Office profile via Microsoft Graph, or ask users to update it directly in Microsoft Delve.
+
+## How are user photos managed?
+
+If new users in your network already have the correct user photo from AAD, it will continue working after this change.
+
+If your organization usually uploads photos from Yammer, you can follow these steps:
+
+1. Export the list of users,
+2. Use that list of users to export their photos via a script.
+3. Re-upload them via Microsoft Graph to make it their photo in the rest of Office.
+
   
 ## Create a user
 
