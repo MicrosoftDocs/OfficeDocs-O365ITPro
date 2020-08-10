@@ -28,9 +28,9 @@ Consolidation to one primary network helps get all your employees closely collab
   
 Here are the basic steps:
   
-|||
-|:-----|:-----|
+
 |**Step** <br/> |**Description** <br/> |
+|:-----|:-----|
 |[Step 1: Plan](consolidate-multiple-yammer-networks.md#Plan) <br/> |Identify the Yammer networks to consolidate, identify data to export and upload, plan any needed changes to group structure and membership in the primary network, and plan communication with your users.  <br/> |
 |[Step 2: Export content from primary networks](consolidate-multiple-yammer-networks.md#Export) <br/> |IMPORTANT: Migration only migrates users, not content. <br/>Export all content from secondary Yammer networks that you might want to access later, as there won't be any way to access the content otherwise. No-one can access the secondary network after the migration begins. |
 |[Step 3: Communicate with all users before the migration](consolidate-multiple-yammer-networks.md#Precommunicate) <br/> |Use the sample communication below to let everyone on the secondary networks know the purpose of the change, the timing, what information will be kept, and the group structure in the primary network. Recommend that users save information they want to keep before the migration start date, such as files and data in conversations. Let primary network users know that more people are joining.  <br/> |
