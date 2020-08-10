@@ -29,7 +29,7 @@ Consolidation to one primary network helps get all your employees closely collab
 Here are the basic steps:
   
 
-|**Step** <br/> |**Description** <br/> |
+|Step <br/> |Description <br/> |
 |:-----|:-----|
 |[Step 1: Plan](consolidate-multiple-yammer-networks.md#Plan) <br/> |Identify the Yammer networks to consolidate, identify data to export and upload, plan any needed changes to group structure and membership in the primary network, and plan communication with your users.  <br/> |
 |[Step 2: Export content from primary networks](consolidate-multiple-yammer-networks.md#Export) <br/> |IMPORTANT: Migration only migrates users, not content. <br/>Export all content from secondary Yammer networks that you might want to access later, as there won't be any way to access the content otherwise. No-one can access the secondary network after the migration begins. |
@@ -181,7 +181,7 @@ In step 1, the domains from the secondary network are migrated and the secondary
   
 The migration status page can show the following error messages.
   
-|**Error message**|**What it means**|
+| Error message | What it means |
 |:-----|:-----|
 |Failed to migrate  _source network name_ <br/> |The migration of the secondary network did not succeed.  <br/> |
 |Failed to migrate  _user email_ <br/> |If one or more users failed to migrate, there will be one or more error messages to that effect. At this point, you can decide to add the user manually to the primary network. Note that the secondary network has been migrated at this point.  <br/> |
