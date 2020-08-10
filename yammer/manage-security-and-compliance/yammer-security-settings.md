@@ -2,8 +2,8 @@
 title: "Manage Yammer security settings"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -48,7 +48,7 @@ Control where people can access Yammer from, set password policies, control exte
 ## Configure security settings for all external networks
 <a name="ExternalNetworksSecurity"> </a>
 
-1. In Office 365, go to **Admin** \> **Yammer** \ **External Networks**. Or, in Yammer, click your home network Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) , and then go to **Network Admin** \> **External Networks**.
+1. In Microsoft 365 or Office 365, go to **Admin** \> **Yammer** \ **External Networks**. Or, in Yammer, click your home network Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) , and then go to **Network Admin** \> **External Networks**.
     
 2. Click **External Networks**.
     
@@ -85,14 +85,14 @@ For more information about external messaging, see [External messaging FAQ (Yamm
     
 2. In the **Office 365 Identity Enforcement** section, select **Enforce Office 365 identity in Yammer**.
     
-    For information about this setting, see [Enforce office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md)
+    For information about this setting, see [Enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md)
     
-## Learn the status of Office 365 Connected Groups
+## Learn the status of Microsoft 365 Connected Groups
 <a name="ExternalNetworksSecurity"> </a>
 
 1. In the Yammer admin center, go to **Content and Security** \> **Security Settings**.
     
-2. Look in the **Office 365 Connected Yammer Groups** section to see the status for your connected groups. 
+2. Look in the **Office 365 or Microsoft 365 Connected Yammer Groups** section to see the status for your connected groups. 
     
 ## Related articles
 
