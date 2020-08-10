@@ -2,8 +2,8 @@
 title: "Network migration - Consolidate multiple Yammer networks"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -28,9 +28,9 @@ Consolidation to one primary network helps get all your employees closely collab
   
 Here are the basic steps:
   
-|||
+
+|Step <br/> |Description <br/> |
 |:-----|:-----|
-|**Step** <br/> |**Description** <br/> |
 |[Step 1: Plan](consolidate-multiple-yammer-networks.md#Plan) <br/> |Identify the Yammer networks to consolidate, identify data to export and upload, plan any needed changes to group structure and membership in the primary network, and plan communication with your users.  <br/> |
 |[Step 2: Export content from primary networks](consolidate-multiple-yammer-networks.md#Export) <br/> |IMPORTANT: Migration only migrates users, not content. <br/>Export all content from secondary Yammer networks that you might want to access later, as there won't be any way to access the content otherwise. No-one can access the secondary network after the migration begins. |
 |[Step 3: Communicate with all users before the migration](consolidate-multiple-yammer-networks.md#Precommunicate) <br/> |Use the sample communication below to let everyone on the secondary networks know the purpose of the change, the timing, what information will be kept, and the group structure in the primary network. Recommend that users save information they want to keep before the migration start date, such as files and data in conversations. Let primary network users know that more people are joining.  <br/> |
@@ -114,15 +114,11 @@ To communicate with all users on a network, you can use the Yammer **All Company
   
 ### Sample pre-migration communication to people currently using secondary Yammer networks
 
-||
-|:-----|
-| [Contoso.com] is consolidating all our Yammer networks so that we can all communicate more easily with each other. We will start this migration on [date]. When the migration is complete, when you access Yammer using your regular work email address, you will go directly to the new consolidated Yammer network.  <br/> **Important tasks to do before [date]** <br/>  The consolidation does not move your Yammer content from [Contoso_sub1.com] to the [Contoso.com] Yammer network. You must save any files and conversations you want to keep.  <br/> **Save files** <br/>  In Yammer, click the Settings icon, and then click **Files**. Use the **My Files** section to find your files.  <br/>  Next to each file you want to save, click the down arrow, and then click **Download**.  <br/>  Choose a location, and then click **Save**.  <br/> **Save data from private conversations** <br/>  In Yammer, click your Inbox, and then click **Private Messages**.  <br/>  Click a message and review the content of the conversation, and copy and paste any needed information into a file.  <br/> **Down time** <br/>  Please do not use the [Contoso.com] Yammer network from [date] to [date]. We'll be adding groups and group files from the [Contoso.sub] network. You'll get another email from us when everything is ready to use.  <br/> |
+[Contoso.com] is consolidating all our Yammer networks so that we can all communicate more easily with each other. We will start this migration on [date]. When the migration is complete, when you access Yammer using your regular work email address, you will go directly to the new consolidated Yammer network.  <br/> **Important tasks to do before [date]** <br/>  The consolidation does not move your Yammer content from [Contoso_sub1.com] to the [Contoso.com] Yammer network. You must save any files and conversations you want to keep.  <br/> **Save files** <br/>  In Yammer, click the Settings icon, and then click **Files**. Use the **My Files** section to find your files.  <br/>  Next to each file you want to save, click the down arrow, and then click **Download**.  <br/>  Choose a location, and then click **Save**.  <br/> **Save data from private conversations** <br/>  In Yammer, click your Inbox, and then click **Private Messages**.  <br/>  Click a message and review the content of the conversation, and copy and paste any needed information into a file.  <br/> **Down time** <br/>  Please do not use the [Contoso.com] Yammer network from [date] to [date]. We'll be adding groups and group files from the [Contoso.sub] network. You'll get another email from us when everything is ready to use.  <br/>
 
 ### Sample message for people currently using the primary Yammer network
 
-||
-|:-----|
-|We're excited to announce that all of [Contoso] users from [Contoso_sub1] and [Contsoso_sub2] will now be joining us on the [Contoso.com] Yammer network.  <br/> Starting [date], you'll notice some changes to our group structure and some new groups, as well as more people. [list the changes]  <br/> Questions or concerns or just want to welcome [Contoso_sub1] and [Contoso_sub2] staff? Join the new "One company - one Yammer network" group. We want your input to make our new consolidated network help everyone's voice be heard.  <br/> |
+We're excited to announce that all of [Contoso] users from [Contoso_sub1] and [Contsoso_sub2] will now be joining us on the [Contoso.com] Yammer network.  <br/> Starting [date], you'll notice some changes to our group structure and some new groups, as well as more people. [list the changes]  <br/> Questions or concerns or just want to welcome [Contoso_sub1] and [Contoso_sub2] staff? Join the new "One company - one Yammer network" group. We want your input to make our new consolidated network help everyone's voice be heard.  <br/>
 
 ## Step 4: Perform the network migration
 
@@ -185,7 +181,7 @@ In step 1, the domains from the secondary network are migrated and the secondary
   
 The migration status page can show the following error messages.
   
-|**Error message**|**What it means**|
+| Error message | What it means |
 |:-----|:-----|
 |Failed to migrate  _source network name_ <br/> |The migration of the secondary network did not succeed.  <br/> |
 |Failed to migrate  _user email_ <br/> |If one or more users failed to migrate, there will be one or more error messages to that effect. At this point, you can decide to add the user manually to the primary network. Note that the secondary network has been migrated at this point.  <br/> |
@@ -213,9 +209,7 @@ Use this communication to reinforce how you want people to use Yammer.
   
 ### Sample post-migration communication
 
-||
-|:-----|
-|We're ready to start collaborating more efficiently! Please sign in to Yammer today, using your [Contoso.com] email and regular password for that account. If you need your password reset for that account, please contact [IT department]. We've restructured the groups so that the content works for everyone, so please take some time to browse the groups and join the ones that make sense for you.  <br/> Questions or concerns? Join the new "One company - one Yammer network" group. We want your input to make our new consolidated network help your voice be heard.  <br/> |
+We're ready to start collaborating more efficiently! Please sign in to Yammer today, using your [Contoso.com] email and regular password for that account. If you need your password reset for that account, please contact [IT department]. We've restructured the groups so that the content works for everyone, so please take some time to browse the groups and join the ones that make sense for you.  <br/> Questions or concerns? Join the new "One company - one Yammer network" group. We want your input to make our new consolidated network help your voice be heard.  <br/>
 
 ## Related articles
 
