@@ -2,8 +2,8 @@
 title: "FAQ: Consolidating multiple Yammer networks"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 01/30/2020
 audience: Admin
@@ -61,13 +61,13 @@ A: There are both short-term and long term benefits:
 
     - Seamlessly manage Yammer from Office 365: admins can manage the Yammer service from Office 365 in the same way they currently manage other Office 365 services. For example, admins can manage the lifecycle of all Yammer users and domains centrally in Office 365.
 
-    - Suite connected groups: by integrating tightly with the Office 365 suite, a new group created in Yammer can be an Office 365 group. Therefore, features such as dynamic group membership will now be available to admins. Note that you need to [Enforce office 365 identity](../configure-your-yammer-network/enforce-office-365-identity.md) for Yammer users in order to use connected groups.
+    - Suite connected groups: by integrating tightly with the Microsoft 365 suite, a new group created in Yammer can be a Micorosoft 365 group. Therefore, features such as dynamic group membership will now be available to admins. Note that you need to [Enforce office 365 identity](../configure-your-yammer-network/enforce-office-365-identity.md) for Yammer users in order to use connected groups.
 
 - Immediate benefits for end users
 
-    - Yammer-Office 365 groups integration: If connected groups are set up, users can create a group once and see it across the other tools in the suite. Users can manage permissions in one of the tools and have these permissions be replicated across the other apps. Users will also navigate easier from Yammer to the other tools through direct links that take you to the specific group folder or environment in the other Office 365 applications.
+    - Yammer-Microsoft 365 groups integration: If connected groups are set up, users can create a group once and see it across the other tools in the suite. Users can manage permissions in one of the tools and have these permissions be replicated across the other apps. Users will also navigate easier from Yammer to the other tools through direct links that take you to the specific group folder or environment in the other Office 365 applications.
 
-- Additional benefits coming soon
+- Additional benefits
 
     - Document management through SharePoint. For more information, see the [Microsoft 365 roadmap](https://go.microsoft.com/fwlink/p/?LinkId=509914).
 
@@ -105,7 +105,7 @@ A: If you're not already a verified admin of the secondary network:
 
 1. Create a temporary Office 365 account in the secondary domain. For more information, see [Add a user](https://support.office.com/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 
-2. Make this account an Office 365 Global Admin. This makes the account a Verified Admin in Yammer. It takes a while to sync. For more information, see [Assign admin roles in Office 365](https://support.office.com/article/Assign-admin-roles-in-Office-365-for-business-eac4d046-1afd-4f1a-85fc-8219c79e1504).
+2. Make this account a Global Admin. This makes the account a Verified Admin in Yammer. It takes a while to sync. For more information, see [Assign admin roles in Office 365](https://support.office.com/article/Assign-admin-roles-in-Office-365-for-business-eac4d046-1afd-4f1a-85fc-8219c79e1504).
 
 3. Log into Yammer using the temporary account.
   
