@@ -2,8 +2,8 @@
 title: "Enforce Office 365 identity for Yammer users"
 f1.keywords:
 - CSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -62,7 +62,7 @@ It takes just a few steps to start enforcing Office 365 identities in Yammer. Ho
     
 You must be a global administrator on Office 365 who was synchronized to Yammer as a Verified Admin to perform these steps. To check if your account was synchronized, you can go to the **Network Admin** page on Yammer and check the **Admins** section. Global administrators will sync to Yammer only if their user principal name (UPN) in Office 365 matches a domain on Yammer. The following screenshot shows what a synced admin looks like on the Admins page in Yammer. 
   
-![Screenshot showing a Verified Admin account that is synced as a Global Administrator in Office 365](../media/2402bc0f-f2ac-435f-bdb3-be65dbf2d153.png)
+![Screenshot showing a Verified Admin account that is synced as a Global Administrator](../media/2402bc0f-f2ac-435f-bdb3-be65dbf2d153.png)
   
  If you are ready to enforce Office 365 identity in Yammer, follow the steps below. 
   
@@ -72,9 +72,9 @@ You must be a global administrator on Office 365 who was synchronized to Yammer 
     
 2. In the Security Settings page, go to the **Office 365 Identity Enforcement** section and select **Enforce Office 365 identity**. 
     
-    You must be both a Yammer verified administrator and an Office 365 global administrator to see this section. 
+    You must be both a Yammer verified administrator and a global administrator to see this section. 
     
-    ![Screenshot that shows the Enfore Office 365 identity in Yammer checkbox in the Yammer Security Setting page. You must be a verified admin in Yammer and an Office 365 global administrator to see this setting.](../media/20582918-5833-4681-a0bd-528f89ba3ebe.png)
+    ![Screenshot that shows the Enfore Office 365 identity in Yammer checkbox in the Yammer Security Setting page. You must be a verified admin in Yammer and a global administrator to see this setting.](../media/20582918-5833-4681-a0bd-528f89ba3ebe.png)
   
 3. You see a confirmation message that asks you to select the most appropriate level of enforcement: 
     
@@ -124,7 +124,7 @@ When you stop enforcing Office 365 identities in Yammer:
     
 - Other users can join your network by signing up with their work email and verifying it.
     
-If you no longer want to enforce Office 365 identities, you can follow the steps below to stop. You must be both a Yammer verified admin and an Office 365 global administrator to perform these steps.
+If you no longer want to enforce Office 365 identities, you can follow the steps below to stop. You must be both a Yammer verified admin and a global administrator to perform these steps.
   
  **To stop enforcing Office 365 identity in Yammer**
   
@@ -149,7 +149,7 @@ If you no longer want to enforce Office 365 identities, you can follow the steps
 
 ### Q: Once Office 365 Identity Enforcement is set to 'Committed Enforcement', why can't I revert it back?
 
-A: Once your organization has committed to enforcing Office 365 identity and has one Office 365 tenant associated with a single Yammer network, connected groups will be enabled for this network.. In this configuration, whenever a group is created in Yammer,  a connected Office 365 group is also created, and users can take advantage of tools like SharePoint, Planner and OneNote connected to the group. At this point, reverting the **Enforce Office 365 Identity** setting will be disruptive to the user experience, since users who login with their user names and passwords cannot access these connected resources any more.
+A: Once your organization has committed to enforcing Office 365 identity and has one Office 365 tenant associated with a single Yammer network, connected groups will be enabled for this network.. In this configuration, whenever a group is created in Yammer,  a connected Microsoft 365 group is also created, and users can take advantage of tools like SharePoint, Planner and OneNote connected to the group. At this point, reverting the **Enforce Office 365 Identity** setting will be disruptive to the user experience, since users who login with their user names and passwords cannot access these connected resources any more.
   
 ### Q: How will this change impact guest and external users?
 
