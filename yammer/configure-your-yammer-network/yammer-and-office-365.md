@@ -2,8 +2,8 @@
 title: "About Yammer networks and Office 365 tenants"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -73,14 +73,14 @@ Below is the list of key capabilities related to managing Yammer in Office 365 t
 |License management  <br/> |Yes  <br/> |
 |Domain lifecycle management  <br/> |Yes  <br/> |
 |Consolidating free Yammer basic networks  <br/> |Yes  <br/> |
-|Future Yammer-Office 365 Groups Integration  <br/> |Yes  <br/> |
+|Future Yammer-Microsoft 365 Groups Integration  <br/> |Yes  <br/> |
 |Other future Yammer-Office 365 integrations  <br/> |Yes  <br/> |
 
- **Yammer-Office 365 groups integration:** Office 365 connected groups are only available to customers in the 1 tenant: 1 network configuration.
+ **Yammer-Microsoft 365 groups integration:** Microsoft 365 connected groups are only available to customers in the 1 tenant: 1 network configuration.
   
- **Future Yammer-Office 365 integrations:** In the future, we may introduce other Yammer-Office 365 integration features. These features will be available to customers in the 1 tenant: 1 network configuration.
+ **Future Yammer-Microsoft 365 integrations:** In the future, we may introduce other Yammer-Microsoft 365 integration features. These features will be available to customers in the 1 tenant: 1 network configuration.
   
-For information about managing your tenant in this configuration, see [Manage Yammer domains across their lifecycle in Office 365](manage-yammer-domains.md).
+For information about managing your tenant in this configuration, see [Manage Yammer domains across their lifecycle](manage-yammer-domains.md).
   
 ### One Office 365 tenant associated with many Yammer networks (1 tenant: many networks)
 
@@ -116,9 +116,9 @@ Even after consolidation, you may be in a situation where due to strong business
 
   - Yammer conversations during a Skype meeting broadcast: You can [Add a Yammer feed to a Skype Meeting Broadcast](https://support.office.com/article/0d92d1c4-4032-4b5b-bee4-cdeab1aea7c0) to any Skype meeting broadcast. You typically choose a group in Yammer to include in the meeting broadcast, and the group belongs to a specific Yammer network. But the meeting broadcast itself can include anyone from the Office 365 tenant. So, there may be a situation when a user is logged in to the Skype meeting broadcast, but is not a member of the associated Yammer group, and so cannot participate in the conversation.
 
-- **Yammer-Office 365 groups integration not available:** As announced in the Yammer blog, we are working on integrating Yammer groups with Office 365 groups infrastructure. This feature will not be available to customers in the 1 tenant: many network configuration. This is also due to the difference in organizational boundaries between Office 365 and Yammer. An example scenario below.
+- **Yammer-Microsoft 365 groups integration not available:** As announced in the Yammer blog, we are working on integrating Yammer groups with Microsoft 365 groups infrastructure. This feature will not be available to customers in the 1 tenant: many network configuration. This is also due to the difference in organizational boundaries between Office 365 and Yammer. An example scenario below.
 
-  - Group membership management: Once Yammer groups are integrated with Office 365 groups infrastructure, say a group is created in the contoso.com network, and will contain only users who can be part of the contoso.com network. But when this integrated group is managed in Office 365, a user with the fabrikam.com domain could be added to the group. Now this fabrikam.com user cannot be added to the group in Yammer.
+  - Group membership management: Once Yammer groups are integrated with Microsoft 365 groups infrastructure, say a group is created in the contoso.com network, and will contain only users who can be part of the contoso.com network. But when this integrated group is managed in Office 365, a user with the fabrikam.com domain could be added to the group. Now this fabrikam.com user cannot be added to the group in Yammer.
 
 - **Future Yammer-Office 365 integrations not available:** In the future, we may introduce other Yammer-Office 365 integration features. These features may not be available to customers in the 1 tenant: many networks configuration.
 
@@ -135,7 +135,7 @@ Below is the list of key capabilities (related to managing Yammer in Office 365)
 |License management  <br/> |Yes  <br/> |
 |Domain lifecycle management  <br/> |Yes  <br/> |
 |Consolidating free Yammer basic networks  <br/> |Yes  <br/> |
-|Future Yammer-Office 365 Groups Integration  <br/> |No  <br/> |
+|Future Yammer-Microsoft 365 Groups Integration  <br/> |No  <br/> |
 |Other future Yammer-Office 365 integrations  <br/> |No  <br/> |
 
  **Login:** Even when an Office 365 tenant is associated with many Yammer networks, one Office 365 user is associated with just one Yammer network. And when users access Yammer, they will land in the right network.
@@ -170,7 +170,7 @@ Once all users in the tenant can login to the network with their Office 365 acco
 
 You have the following options to move to a 1 tenant: 1 network configuration:
   
-- Consolidate the smaller networks into the larger network by performing [network migration](consolidate-multiple-yammer-networks.md). In the example above, do the following. First, ensure that Yammer is activated on your Office 365 tenant. If you haven't done already, perform [Yammer Enterprise activation](../get-started-with-yammer/admin-quick-start.md) and activate Yammer on the domain associated with the larger parent network (in this case, contoso.com). Then, navigate to the network migration section (that's part of Yammer administration pages) and migrate the smaller fabrikam.com network into the contoso.com network; you need to be a Yammer verified administrator and Office 365 Global Administrator to do this operation. At the end, you will reach the following state:
+- Consolidate the smaller networks into the larger network by performing [network migration](consolidate-multiple-yammer-networks.md). In the example above, do the following. First, ensure that Yammer is activated on your Office 365 tenant. If you haven't done already, perform [Yammer Enterprise activation](../get-started-with-yammer/admin-quick-start.md) and activate Yammer on the domain associated with the larger parent network (in this case, contoso.com). Then, navigate to the network migration section (that's part of Yammer administration pages) and migrate the smaller fabrikam.com network into the contoso.com network; you need to be a Yammer verified administrator and Global Administrator to do this operation. At the end, you will reach the following state:
 
 |**Domains on the Office 365 tenant**|**Domains on the Yammer network**|
 |:-----|:-----|
@@ -211,8 +211,8 @@ How customers get into this configuration: Typically, large customers find thems
 |License management  <br/> |No  <br/> |Licenses can be managed only for users who can login to Yammer with their Office 365 credentials. Also, since you cannot [Enforce office 365 identity](enforce-office-365-identity.md), you cannot block Office 365 users without Yammer licenses.  <br/> |
 |Domain lifecycle management  <br/> |No  <br/> |This configuration is not supported for domain lifecycle management, so you cannot [Manage Yammer domains across their lifecycle in Office 365](manage-yammer-domains.md).  <br/> |
 |Consolidating free Yammer basic networks  <br/> |Yes  <br/> |You can login to Yammer, and consolidate Yammer basic network to the Office 365 tenant that's associated with the Yammer network for management.  <br/> |
-|Future Yammer-Office 365 Groups Integration  <br/> |No  <br/> ||
-|Other future Yammer-Office 365 integrations  <br/> |No  <br/> ||
+|Future Yammer-Microsoft 365 Groups Integration  <br/> |No  <br/> ||
+|Other future Yammer-Microsoft 365 integrations  <br/> |No  <br/> ||
 
 You have the following options to move out of this unsupported configuration:
   
