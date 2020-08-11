@@ -25,9 +25,8 @@ Dynamic groups update automatically as people join, leave, or move within your o
   
 ## Requirements
 
-|||
-|:-----|:-----|
 |**Requirement** <br/> |**Learn more** <br/> |
+|:-----|:-----|
 |Your organization must be using Azure Active Directory Premium.  <br/> |[Azure Active Directory](https://go.microsoft.com/fwlink/?linkId=869572) <br/> |
 |Your organization must have a license for Azure Active Directory Premium for each user added to at least one dynamic group.  <br/> |[Azure Active Directory pricing](https://go.microsoft.com/fwlink/?linkId=869572) <br/> |
 |The person setting up the groups must have permissions to update Azure Active Directory.  <br/> |[Built-in roles for Azure role-based access control](https://go.microsoft.com/fwlink/?linkId=869570) <br/> |
