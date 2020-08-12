@@ -27,9 +27,8 @@ Only users with appropriate roles can do administrative tasks in Yammer. Some ro
   
 Here are the available roles and what people assigned to them can do. Click the role name for a detailed list of tasks this role can do, and for steps to add and remove each role for a user.
   
-|||
-|:-----|:-----|
 |**Role** <br/> |**Business purpose** <br/> |
+|:-----|:-----|
 |[Yammer group admin](manage-yammer-admins.md#bmk_group) <br/> |Manage day-to-day activity in the group to keep the group engaged and productive, including monitoring group usage activity.  <br/> |
 |[Office 365 report reader](manage-yammer-admins.md#bmk_reports) <br/> |View reports showing overall Yammer usage. This role is helpful for anyone assigned to improve and monitor Yammer adoption.  <br/> |
 |[Yammer network admin](manage-yammer-admins.md#bmk_network) <br/> |Configure the network.  <br/> |
@@ -43,7 +42,7 @@ You grant and change admin roles in the Yammer admin center. In the following sc
 <a name="bmk_group"> </a>
 ## Yammer group admin
 
-|||
+
 |:-----|:-----|
 |**Tasks** <br/> |Manage the settings for the group, including name, description, image, and header colors. <br/><br> Manage the conversations and files in the group. <br/><br> Manage members and group admins. <br/><br> Post announcements<br/><br> For instructions for typical tasks to manage a Yammer group, see [Manage a group in Yammer](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2.aspx).  <br/> |
 |**Who can give this role to others** <br/> | Any Yammer user who creates a group is assigned the group admin role for the group automatically, and can add or remove other group admins. There is a limit of 100 group admins per group. <br/><br> Verified admins can add or remove group admins in any groups.  <br/><br> Network admins can only add or remove group admins for groups they are a member of.  <br/><br> **Note:** Network admins and verified admins can disable the ability for Yammer users to create groups. In this case, they must assign the initial group admin, who then can do all group admin tasks for the group, including adding more group admins. For more information, see [Manage who can create Groups](https://support.office.com/article/4c46c8cb-17d0-44b5-9776-005fced8e618).          |
