@@ -69,16 +69,16 @@ Yammer Enterprise offers admins security and compliance tools that are not part 
 |:-----|:-----|
 |**Task** <br/> |**How To** <br/> |
 |Monitor Yammer admin and user transactions.  <br/> |[Track Yammer Events in the Office 365 Audit log and with the Management Activity API](track-yammer-events.md) \*  <br/> |
-|Gain insight into how people in your organization use Yammer. Reports and APIs make information available to admins, and group insights and seen counts are available for community managers, group admins, and members.  <br/> |[Activity Reports in the Microsoft 365 admin center](https://support.office.com/article/0d6dfb17-8582-4172-a9a9-aed798150263)\*  <br/> [Office 365 Reports in the Admin Center - Yammer activity report](https://support.office.com/article/C7C9F938-5B8E-4D52-B1A2-C7C32CB2312A)\*  <br/> [Office 365 Reports in the Admin Center - Yammer groups activity report](https://support.office.com/article/94dd92ec-ea73-43c6-b51f-2a11fd78aa31)\*  <br/> [Office 365 Adoption content pack](https://support.office.com/article/77ff780d-ab19-4553-adea-09cb65ad0f1f)\*  <br/> [Microsoft Graph reporting APIs](https://go.microsoft.com/fwlink/?linkid=875445) <br/> [View group insights in Yammer](https://support.office.com/article/73f9fa6d-d442-4f25-9194-d5317c9328ab.aspx) <br/> [View seen counts in Yammer](https://support.office.com/article/9595125f-001b-4977-8e49-8795a1ad493b.aspx) <br/> |
+|Gain insight into how people in your organization use Yammer. Reports and APIs make information available to admins, and group insights and seen counts are available for community managers, group admins, and members.  <br/> |[Activity Reports in the Microsoft 365 admin center](https://support.office.com/article/0d6dfb17-8582-4172-a9a9-aed798150263)\*  <br/> [Office 365 Reports in the Admin Center - Yammer activity report](https://support.office.com/article/C7C9F938-5B8E-4D52-B1A2-C7C32CB2312A)\*  <br/> [Microsoft 365 Reports in the Admin Center - Yammer groups activity report](https://support.office.com/article/94dd92ec-ea73-43c6-b51f-2a11fd78aa31)\*  <br/> [Office 365 Adoption content pack](https://support.office.com/article/77ff780d-ab19-4553-adea-09cb65ad0f1f)\*  <br/> [Microsoft Graph reporting APIs](https://go.microsoft.com/fwlink/?linkid=875445) <br/> [View group insights in Yammer](https://support.office.com/article/73f9fa6d-d442-4f25-9194-d5317c9328ab.aspx) <br/> [View seen counts in Yammer](https://support.office.com/article/9595125f-001b-4977-8e49-8795a1ad493b.aspx) <br/> |
 
 ### Stay organized and current with organizational changes
 
 |||
 |:-----|:-----|
 |**Task** <br/> |**How To** <br/> |
-|Use Office 365 group naming policies to enforce consistent group naming.  <br/> |[Office 365 Groups naming policy](https://support.office.com/article/6ceca4d3-cad1-4532-9f0f-d469dfbbb552)\*  <br/> |
+|Use Microsoft 365 group naming policies to enforce consistent group naming.  <br/> |[Microsoft 365 Groups naming policy](https://support.office.com/article/6ceca4d3-cad1-4532-9f0f-d469dfbbb552)\*  <br/> |
 |For large organizations, use dynamic groups to update group membership automatically as people join, leave, or move within your organization.  <br/> |[Create a dynamic group in Yammer](../manage-yammer-groups/create-a-dynamic-group.md) \*  <br/> |
-|Set expiration policies for Office 365 connected Yammer groups. When set, group owners are prompted to renew the groups if they still need them.  <br/> |[Office 365 Group Expiration policy](https://support.office.com/article/8d253fe5-0e09-4b3c-8b5e-f48def064733.aspx)\*  <br/> |
+|Set expiration policies for Office 365 connected Yammer groups. When set, group owners are prompted to renew the groups if they still need them.  <br/> |[Microsoft 365 Group Expiration policy](https://support.office.com/article/8d253fe5-0e09-4b3c-8b5e-f48def064733.aspx)\*  <br/> |
 
 <a name="Security"> </a>
 ## Security FAQ
