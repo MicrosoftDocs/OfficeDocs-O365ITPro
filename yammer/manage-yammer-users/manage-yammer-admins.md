@@ -42,7 +42,7 @@ You grant and change admin roles in the Yammer admin center. In the following sc
 <a name="bmk_group"> </a>
 ## Yammer group admin
 
-
+|**Function** <br/> |**Details** <br/> |
 |:-----|:-----|
 |**Tasks** <br/> |Manage the settings for the group, including name, description, image, and header colors. <br/><br> Manage the conversations and files in the group. <br/><br> Manage members and group admins. <br/><br> Post announcements<br/><br> For instructions for typical tasks to manage a Yammer group, see [Manage a group in Yammer](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2.aspx).  <br/> |
 |**Who can give this role to others** <br/> | Any Yammer user who creates a group is assigned the group admin role for the group automatically, and can add or remove other group admins. There is a limit of 100 group admins per group. <br/><br> Verified admins can add or remove group admins in any groups.  <br/><br> Network admins can only add or remove group admins for groups they are a member of.  <br/><br> **Note:** Network admins and verified admins can disable the ability for Yammer users to create groups. In this case, they must assign the initial group admin, who then can do all group admin tasks for the group, including adding more group admins. For more information, see [Manage who can create Groups](https://support.office.com/article/4c46c8cb-17d0-44b5-9776-005fced8e618).          |
@@ -51,7 +51,7 @@ You grant and change admin roles in the Yammer admin center. In the following sc
 <a name="bmk_reports"> </a>
 ## Office 365 report reader
 
-|||
+|**Function** <br/> |**Details** <br/> |
 |:-----|:-----|
 |**Tasks** <br/> | View usage reports for Yammer in the Office 365 usage reporting dashboard.  <br/><br> For information about accessing and interpreting reports, see <br>[Office 365 Reports in the Admin Center - Yammer activity report](https://support.office.com/article/C7C9F938-5B8E-4D52-B1A2-C7C32CB2312A)<br>[Office 365 Reports in the Admin Center - Yammer groups activity report](https://support.office.com/article/94dd92ec-ea73-43c6-b51f-2a11fd78aa31)<br>[Office 365 Reports in the Admin Center - Yammer device usage report](https://support.office.com/article/B793FFDD-EFFA-43D0-849A-B1CA2E899F38)  <br/> |
 |**Who can give this role to others** <br/> |This role is included in the global admin role, and can be given to other users by an global admin. For more information about this role, see [About admin roles](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide).  <br/> |
@@ -60,7 +60,7 @@ You grant and change admin roles in the Yammer admin center. In the following sc
 <a name="bmk_network"> </a>
 ## Yammer network admin
 
-|||
+|**Function** <br/> |**Details** <br/> |
 |:-----|:-----|
 |**Tasks** <br/> | Configure network settings, including logo and colors, usage policy, what's included in user profiles.  <br/><br>  Manage internal users and outside guests, unlisted groups <br/><br>  Grant and revoke network admin role <br/><br>  For groups they are in, anything group admins can do. <br/><br>  For instructions for typical tasks for network admins, see the [Yammer admin help](../index.yml).  <br/> |
 |**Who can give this role to others** <br/> |People with the global admin role, and Yammer verified admins and network admins can give other Yammer users the network admin role.  <br/> |
@@ -69,7 +69,7 @@ You grant and change admin roles in the Yammer admin center. In the following sc
 <a name="bmk_verified"> </a>
 ## Verified admin
 
-|||
+|**Function** <br/> |**Details** <br/> |
 |:-----|:-----|
 |**Tasks** <br/> | All tasks a network admin can do, as well as: <br/><br>- Assign verified and network admin roles.  <br/>- Manage content policies, including monitor keywords, data retention, security settings, and reading data in private groups.  <br/>  - Export data  <br/>- Perform integrations with other tools  <br/><br>  For instructions for typical tasks for verified admins, see the [Yammer admin help](../index.yml).  <br/> |
 |**Who can give this role to others** <br/> | A global admin.  <br/><br>   A Yammer verified admin.  <br/> |
@@ -80,7 +80,7 @@ You grant and change admin roles in the Yammer admin center. In the following sc
 
 Anyone with the global admin role is automatically a Yammer verified admin.
   
-|||
+|**Function** <br/> |**Details** <br/> |
 |:-----|:-----|
 |**Tasks** <br/> | All tasks a verified admin can do, as well as:  <br/><br>  - View reports in the Office 365 Usage Reporting dashboard.<br/><br>  -Add and remove the global admin role and the Office 365 reports reader role from other users. <br/><br>  -  Manage other Office 365 services.  <br/> |
 |**Who can give this role to others** <br/> | Other people with the global admin role.  <br/> |
