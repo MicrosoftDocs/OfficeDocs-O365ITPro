@@ -215,6 +215,6 @@ We're ready to start collaborating more efficiently! Please sign in to Yammer to
 
 [Add Yammer basic domains to your Office 365 tenant](add-basic-domains-to-office-365.md)
 
-[Manage Office 365 with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-with-office-365-powershell)
+[Manage Microsoft 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-with-office-365-powershell)
   
 [External messaging](../work-with-external-users/add-external-participants.md)
