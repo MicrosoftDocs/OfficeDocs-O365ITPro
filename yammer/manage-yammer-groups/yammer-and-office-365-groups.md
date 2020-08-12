@@ -111,7 +111,7 @@ Yammer's integration with Microsoft 365 Groups started in 2017. Subsequent pha
 
 ### Q: I'm an admin, how do I know if my Yammer network is configured correctly and eligible for Microsoft 365 connected Yammer groups?
   
-A: In the Yammer admin center, go to **Network Admin** > **Security Settings**. In the **Microsoft 365 (or Office 365) Connected Yammer Groups** section, the status for your network will show as **Enabled**.
+A: In the Yammer admin center, go to **Network Admin** > **Security Settings**. In the **Microsoft 365 (previously known as Office 365) Connected Yammer Groups** section, the status for your network will show as **Enabled**.
   
 ### Q: Can I disable Microsoft 365 Yammer connected groups?
   
