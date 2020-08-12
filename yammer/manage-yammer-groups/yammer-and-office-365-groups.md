@@ -60,9 +60,7 @@ To use Microsoft 365 connected groups in Yammer, make sure your Yammer network m
 Here's how the process works after your network becomes eligible for connected groups:
 
 - About 24 hours after the **Status** in **Office 365 Identity Enforcement** changes to **Committed**:
-    - In the **Microsoft 365 (or Office 365) Connected Yammer Groups** section, the **Status** for your network will change to **Enabled**.
-
-        ![Yammer admin center Security Settings showing network is set up for connected groups](../media/yam_eligible_connected_groups.png)
+    - In the **Connected Yammer Groups** section, the **Status** for your network will change to **Enabled**.
 
     - Any new groups created in Yammer that are eligible will automatically be created as Microsoft 365 connected groups.  
 
