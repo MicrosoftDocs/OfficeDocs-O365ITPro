@@ -2,8 +2,8 @@
 title: "Overview of eDiscovery in Yammer"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 01/24/2020
 audience: Admin
@@ -52,7 +52,7 @@ We plan to continue updating the service to include more information not listed 
 
 [FAQ: eDiscovery](/manage-security-and-compliance/FAQ-ediscovery.mc)
 
-[eDiscovery in Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery)
+[eDiscovery in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery)
 
 [Overview of the advanced eDiscovery solution in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery)
 

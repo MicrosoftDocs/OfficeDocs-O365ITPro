@@ -184,9 +184,9 @@ landingContent:
     linkLists:
       - linkListType: overview
         links:
-          - text: Yammer and Office 365 connected groups
+          - text: Yammer and Microsoft 365 connected groups
             url: /Yammer/manage-yammer-groups/yammer-and-office-365-groups
-          - text: Office 365 groups naming policy
+          - text: Groups naming policy
             url: https://support.office.com/article/office-365-groups-naming-policy-6ceca4d3-cad1-4532-9f0f-d469dfbbb552
       - linkListType: how-to-guide
         links:
@@ -196,9 +196,9 @@ landingContent:
             url: https://support.office.com/article/12ce0216-0618-4576-b87a-a8c189cee0f8
           - text: Delete a Yammer community or group
             url: https://support.office.com/article/2a70a1f9-d081-488e-9fc7-0f7684e5a58b
-          - text: Yammer and Office 365 connected groups
+          - text: Yammer and Microsoft 365 connected groups
             url: /Yammer/manage-yammer-groups/yammer-and-office-365-groups
-          - text: Manage who can create Office 365 groups
+          - text: Manage who can create Microsoft groups
             url: https://support.office.com/article/manage-who-can-create-office-365-groups-4c46c8cb-17d0-44b5-9776-005fced8e618
           - text: Create a dynamic group
             url: /Yammer/manage-yammer-groups/create-a-dynamic-group
