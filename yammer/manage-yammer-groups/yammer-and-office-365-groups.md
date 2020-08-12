@@ -147,11 +147,11 @@ A: Currently, only private and public internal groups can be connected groups. E
   
 A: No. That setting is not available for Microsoft 365 connected Yammer groups.
 
-### Q: Can I use an existing group or SharePoint site for an Microsoft 365 connected Yammer group?
+### Q: Can I use an existing group or SharePoint site for a Microsoft 365 connected Yammer group?
 
 A: No, a new group and resources specific to that new group are created when you create a Microsoft 365 connected group in Yammer. You can't connect a new Yammer group to an existing Microsoft 365 group, an existing SharePoint site or SharePoint document library, or an existing OneNote notebook.
   
-### Q: Can I hide an Microsoft 365 connected group from the Global Address Book?
+### Q: Can I hide a Microsoft 365 connected group from the Global Address Book?
 
 A: Yes. This requires using PowerShell. Use the following cmdlet:
 
