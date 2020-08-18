@@ -69,8 +69,8 @@ landingContent:
             url: /yammer/manage-security-and-compliance/data-residency
           - text: Rich text formatting
             url: /yammer/get-started-with-yammer/rich-text-formatting
-          - text: Set up a knowledge base community
-            url: /yammer/integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker
+          - text: Yammer update on Internet Explorer 11 changes
+            url: /yammer/manage-yammer-users/internet-explorer-11-retirement 
           - text: Yammer live events
             url: /yammer/manage-yammer-groups/yammer-live-events
 
