@@ -49,7 +49,7 @@
 ### [AAD credentials will soon be required](manage-yammer-users/aad-account-required.md)
 ### [Auto-acceleration policy for signing in](manage-yammer-users/auto-acceleration-policy-for-signing-in.md)
 ### [Turn off user access](manage-yammer-users/turn-off-user-access.md)
-### [Yammer update on Internet Explorer 11 changes coming in August 2021](manage-yammer-users/nternet-explorer-11-retirementmd)
+### [Yammer update on Internet Explorer 11 changes coming in August 2021](manage-yammer-users/nternet-explorer-11-retirement.md)
 ## Work with external users
 ### [Create and manage an external network](work-with-external-users/create-and-manage-an-external-network.md)
 ### [Add external messaging participants](work-with-external-users/add-external-participants.md)
