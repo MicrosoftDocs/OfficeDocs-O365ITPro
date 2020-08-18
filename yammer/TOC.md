@@ -49,6 +49,7 @@
 ### [AAD credentials will soon be required](manage-yammer-users/aad-account-required.md)
 ### [Auto-acceleration policy for signing in](manage-yammer-users/auto-acceleration-policy-for-signing-in.md)
 ### [Turn off user access](manage-yammer-users/turn-off-user-access.md)
+### [Yammer update on Internet Explorer 11 changes coming in August 2021](manage-yammer-users/nternet-explorer-11-retirementmd)
 ## Work with external users
 ### [Create and manage an external network](work-with-external-users/create-and-manage-an-external-network.md)
 ### [Add external messaging participants](work-with-external-users/add-external-participants.md)
@@ -56,6 +57,11 @@
 ### [Find external participants](work-with-external-users/find-external-participants.md)
 ### [Disable external messaging](work-with-external-users/disable-external-messaging.md)
 ### [External messaging FAQ](work-with-external-users/external-messaging-faq.md)
+## Manage Yammer content
+### [Report a Yammer conversation overview](manage-yammer-groups/configure-conversation-reporting.md)
+### [Feature a conversation in new Yammer](https://support.microsoft.com/office/92469ece-8a63-424f-9ad6-802ad90fc5c4)
+
+
 ## Manage Yammer communities and groups
 ### [Yammer and Microsoft 365 groups](manage-yammer-groups/yammer-and-office-365-groups.md)
 ### [Join and create a Yammer community or group](https://support.office.com/article/60db6f14-fc5d-4ffb-8812-e3c0a4109e00)
