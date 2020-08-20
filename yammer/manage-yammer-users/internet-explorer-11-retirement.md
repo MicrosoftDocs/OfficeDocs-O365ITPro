@@ -38,7 +38,7 @@ For customers using Yammer Embed on custom-built sites in Internet Explorer 11, 
 
 We recommend that you communicate to your users about this change. If you have not already deployed Edge or allow users to access other modern browsers, we recommend that you do so. For technical documentation, see [Plan your deployment of Microsoft Edge](https://docs.microsoft.com/deployedge/deploy-edge-plan-deployment).
 
-For customers who would like guidance on how to plan, deploy, or adopt the new Microsoft Edge, there’s [FastTrack](https://docs.microsoft.com/fasttrack/win-10-microsoft-edge-assistance-offered). FastTrack is available at no additional charge to customers with 150 or more paid seats of Windows 10 Enterprise. To get started, submit a [Request for Assistance](https://docs.microsoft.com/en-us/fasttrack/win-10-microsoft-edge-assistance-offered) through the FastTrack site.
+For customers who would like guidance on how to plan, deploy, or adopt the new Microsoft Edge, there’s [FastTrack](https://docs.microsoft.com/fasttrack/win-10-microsoft-edge-assistance-offered). FastTrack is available at no additional charge to customers with 150 or more paid seats of Windows 10 Enterprise. To get started, submit a [Request for Assistance](https://docs.microsoft.com/fasttrack/win-10-microsoft-edge-assistance-offered) through the FastTrack site.
 
 If you have any other questions regarding Yammer retiring support for IE11, please reach out to our support team. We are committed to helping make this a smooth transition for our customers. If you have more general Microsoft 365 feedback, questions or concerns please refer to the resources below or contact GetHelp. 
 
