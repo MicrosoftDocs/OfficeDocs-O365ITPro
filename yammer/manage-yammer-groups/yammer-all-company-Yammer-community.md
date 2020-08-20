@@ -47,23 +47,23 @@ These settings will still not be available for network admins:
 - All Company cannot be deleted from Yammer UI.  
 - All Company privacy and data classification cannot be changed in Yammer settings.
 
-## Is my All Company community Office 365-connected, and what does being connected mean?
+## Is my All Company community Microsoft 365-connected, and what does being connected mean?
 
 Today, networks can have communities that are either all connected, all unconnected, or a mix of connected and unconnected.
 
-Having an All Company that is connected means that an Office 365 Group is created. In native mode, All Company will always be a connected community.
+Having an All Company that is connected means that a Microsoft 365 Group is created. In native mode, All Company will always be a connected community.
 
-## What is the benefit of All Company backed by an Office 365 Group?
+## What is the benefit of All Company backed by a Microsoft 365 Group?
 
-The differences between an All Company that is connected to an Office 365 Group and an unconnected All Company are:
+The differences between an All Company that is connected to a Microsoft 365 Group and an unconnected All Company are:
 
-- A connected All Company community creates an Office 365 Group.
+- A connected All Company community creates a Microsoft 365 Group.
 - A connected All Company can have Live Events.
-- A connected All Company has [Office 365 Resources](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252farticle%252fd8c239dc-a48b-47ab-b85e-6b4b8191a869).
+- A connected All Company has [Microsoft 365 Resources](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252farticle%252fd8c239dc-a48b-47ab-b85e-6b4b8191a869).
 
 The process for confirming that All Company is connected works the same as it does for any community. To do so, select the following settings in the Network Admin Settings.
 
-In network admins settings, if you select **Enforce Office 365 Identity**, then your network will have an All Company community that is connected to an Office 365 Group. If you do not select this, then All Company will still not be connected to an Office 365 Group after this change.
+In network admins settings, if you select **Enforce Office 365 Identity**, then your network will have an All Company community that is connected to a Microsoft 365 Group. If you do not select this, then All Company will still not be connected to a Microsoft 365 Group after this change.
 
 ![Office 365 Identity Enforcement](../media/710d82b4-a6fa-43bf-b609-8f2fc80fab52.png)
 
@@ -81,9 +81,9 @@ For more information about the various SharePoint web parts and embed features, 
 
 ## Related articles
 
-[Is my Yammer community or group connected to Office 365?](https://support.office.com/article/is-my-community-or-group-connected-to-microsoft-365-f592296f-4158-43d8-b711-d77c35db826e)
+[Is my Yammer community or group connected to Microsoft 365?](https://support.office.com/article/is-my-community-or-group-connected-to-microsoft-365-f592296f-4158-43d8-b711-d77c35db826e)
 
-[Yammer and Office 365 Groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252farticle%252fd8c239dc-a48b-47ab-b85e-6b4b8191a869)
+[Yammer and Microsoft 365 Groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252farticle%252fd8c239dc-a48b-47ab-b85e-6b4b8191a869)
 
 [Restrict All Company posts in Yammer](https://support.office.com/article/3219d2ae-db15-4c9f-9dd2-28559ae39a97)
 
