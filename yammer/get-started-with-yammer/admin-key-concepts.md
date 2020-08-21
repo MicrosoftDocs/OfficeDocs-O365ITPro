@@ -107,7 +107,7 @@ A: Yammer's system requirements are consistent with those of Microsoft 365 or Of
 > Internet Explorer 10 support ended on March 1, 2018. For more information, see [Yammer life-cycle support information for Internet Explorer 8, Internet Explorer 9, and Internet Explorer 10](https://go.microsoft.com/fwlink/?LinkId=526880).
 
 > [!NOTE]
-> Microsoft 365 apps and services will not support Internet Explorer 11 starting August 17, 2021 (Microsoft Teams will not support Internet Explorer 11 earlier, starting November 30, 2020.) [Learn more](https://aka.ms/AA97tsw) Please note that Internet Explorer 11 will remain a supported browser. Internet Explorer 11 is a component of the Windows operating system and [follows the lifecycle policy](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge) for the product on which it is installed.
+> Microsoft 365 apps and services will not support Internet Explorer 11 starting August 17, 2021 (Microsoft Teams will not support Internet Explorer 11 earlier, starting November 30, 2020.) [Learn more](https://aka.ms/AA97tsw). Please note that Internet Explorer 11 will remain a supported browser. Internet Explorer 11 is a component of the Windows operating system and [follows the lifecycle policy](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge) for the product on which it is installed.
   
 #### Mobile and desktop requirements
 <a name="bk_MobileDesktop"> </a>
