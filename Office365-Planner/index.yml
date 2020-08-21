@@ -1,0 +1,47 @@
+### YamlMime:Landing
+
+title: Microsoft Planner for admins # < 60 chars
+summary: Learn about resources available for Planner admins. # < 160 chars
+
+metadata:
+  title: Microsoft Planner for admins # Required; page title displayed in search results. Include the brand. < 60 chars.
+  description: Learn about resources available for Planner admins. # Required; article description that is displayed in search results. < 160 chars.
+  f1.keywords:
+  - NOCSH
+  ms.topic: landing-page # Required
+  ms.author: efrene
+  author: efrene
+  manager: pamgreen
+  audience: Admin
+  ms.service: o365-administration
+  localization_priority: Priority
+  search.appverid:
+  - MET150
+  ms.date: 08/21/2020 #Required; mm/dd/yyyy format.
+
+# linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
+
+landingContent:
+# Cards and links should be based on top customer tasks or top subjects
+# Start card title with a verb
+  # Card (optional)
+  - title: About Planner
+    linkLists:
+      - linkListType: how-to-guide
+        links:
+          - text: Turn Planner on or off
+            url: planner-for-admins.md#how-do-i-turn-off-planner-for-my-organization
+      - linkListType: overview
+        links:
+          - text: Planner UserVoice
+            url: https://planner.uservoice.com/forums/330525-microsoft-planner-feedback-forum
+          - text: Planner community
+            url: https://techcommunity.microsoft.com/t5/Planner/ct-p/Planner      
+          - text: Planner blog
+            url: https://techcommunity.microsoft.com/t5/Planner-Blog/bg-p/PlannerBlog
+          - text: Planner end user help
+            url: https://support.office.com/en-us/planner
+      - linkListType: reference
+        links:
+          - text: Planner API
+            url: https://docs.microsoft.com/graph/planner-concept-overview
