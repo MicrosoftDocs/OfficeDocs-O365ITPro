@@ -2,8 +2,8 @@
 title: "Limited functionality in Yammer in Internet Explorer 10 document mode"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -34,6 +34,9 @@ This happens when your SharePoint site is set to use Internet Explorer 10 Docume
 ## What are the system requirements for Yammer?
 
 Yammer follows the [Office 365 system requirements](https://go.microsoft.com/fwlink/?linkid=809136). Office 365 does not support Internet Explorer 10 or earlier versions.
+
+> [!NOTE]
+> Microsoft 365 apps and services will not support Internet Explorer 11 starting August 17, 2021 (Microsoft Teams will not support Internet Explorer 11 earlier, starting November 30, 2020.) [Learn more](https://aka.ms/AA97tsw) Please note that Internet Explorer 11 will remain a supported browser. Internet Explorer 11 is a component of the Windows operating system and [follows the lifecycle policy](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge) for the product on which it is installed.
   
 ## What is Internet Explorer 10 document mode?
 
