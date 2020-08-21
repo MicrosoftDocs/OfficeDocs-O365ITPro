@@ -41,7 +41,7 @@ A: Yammer supports eDiscovery (E3) and Advanced eDiscovery (E5) in the Security 
 
 **Q: What is Advanced eDiscovery for Microsoft 365?**
 
-A: Advanced eDiscovery (E5) builds on eDiscovery (E3) and helps you analyze unstructured data within Office 365, perform more efficient document reviews, and make decisions to reduce data for eDiscovery.
+A: Advanced eDiscovery (E5) builds on eDiscovery (E3) and helps you analyze unstructured data within Microsoft 365, perform more efficient document reviews, and make decisions to reduce data for eDiscovery.
 
 See more advanced information about [eDiscovery in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery).
 
