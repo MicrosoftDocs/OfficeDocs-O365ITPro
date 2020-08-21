@@ -2,8 +2,8 @@
 title: "FAQ: eDiscovery in Yammer"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 11/25/2019
 audience: Admin
@@ -43,7 +43,7 @@ A: Yammer supports eDiscovery (E3) and Advanced eDiscovery (E5) in the Security 
 
 A: Advanced eDiscovery (E5) builds on eDiscovery (E3) and helps you analyze unstructured data within Office 365, perform more efficient document reviews, and make decisions to reduce data for eDiscovery.
 
-See more advanced information about [eDiscovery in Office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery).
+See more advanced information about [eDiscovery in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery).
 
 **Q: Can users see that Yammer is storing their messages for eDiscovery?**
 
@@ -53,7 +53,7 @@ A: eDiscovery will put a copy of all Yammer messages into a hidden folder in the
 
 **Q: What is Native Mode?**
 
-A: In Native Mode, all Yammer users are in AAD, all groups are Office 365 Groups, and all files are stored in SharePoint Online. As of November 2019, all new Yammer Networks start in Native Mode. Existing Yammer Networks can [migrate to Native Mode](../configure-your-yammer-network/native-mode.md).
+A: In Native Mode, all Yammer users are in AAD, all groups are Microsoft 365 Groups, and all files are stored in SharePoint Online. As of November 2019, all new Yammer Networks start in Native Mode. Existing Yammer Networks can [migrate to Native Mode](../configure-your-yammer-network/native-mode.md).
 
 ## Workflow
 
@@ -227,6 +227,6 @@ A: If a user is CC’ed in a message and then the CC  is removed, they will no l
 
 ## See also
 
-[eDiscovery in Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery)
+[eDiscovery in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery)
 
 [Overview of the advanced eDiscovery solution in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery)
