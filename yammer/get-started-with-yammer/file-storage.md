@@ -129,6 +129,9 @@ For more information about Azure B2B guests, see [Guest user access in an Azure 
 
     To store Yammer files in SharePoint, we use the ADAL library and use Azure Directory (AAD) tokens for authentication. If browsers don’t have third-party cookies enabled or if the security zone settings are incorrect in Internet Explorer 11 or Edge, the ADAL library used to refresh AAD tokens can't send information needed to AAD.
 
+    > [!NOTE]
+    > Microsoft 365 apps and services will not support Internet Explorer 11 starting August 17, 2021 (Microsoft Teams will not support Internet Explorer 11 earlier, starting November 30, 2020.) [Learn more](https://aka.ms/AA97tsw). Please note that Internet Explorer 11 will remain a supported browser. Internet Explorer 11 is a component of the Windows operating system and [follows the lifecycle policy](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge) for the product on which it is installed.
+
     When a token refresh call fails, users will see:
 
     - On the Yammer page for a connected group, Microsoft 365 Office 365 Resources will be grayed out
