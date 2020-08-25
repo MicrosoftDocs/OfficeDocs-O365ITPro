@@ -21,7 +21,7 @@ description: "If you are a tenant admin who has made a support request for your 
 If you are a tenant admin who has made a support request for your organization’s Planner tenancy to be moved into a new region, you must first authorize the move using PowerShell. 
 
 - [Prerequisites for making Planner changes in Windows PowerShell](#prerequisites-for-making-planner-changes-in-windows-powershell)
-- [Authorize a Planner tenant move using PowerShell](#turn-off-outlook-calendar-sync#turn-off-or-on-outlook-calendar-sync-in-planner-using-powershell)
+- [Authorize a Planner tenant move using PowerShell](#authorize-a-tenant-move-using-powershell)
 
 > [!NOTE]
 > Moving a Planner tenancy into a new region will result in the loss of any existing Planner data.
@@ -34,9 +34,9 @@ This procedure walks you through downloading the files needed to run Planner adm
 - One PowerShell script
 - The script's manifest
 
-If you're new to Windows PowerShell, see [Using Windows PowerShell](https://docs.microsoft.com/powershell/scripting/getting-started/fundamental/using-windows-powershell?view=powershell-5.1).
+If you're new to Windows PowerShell, see [Getting started with Windows PowerShell](https://docs.microsoft.com/powershell/scripting/learn/ps101/01-getting-started).
 
-1. Navigate to https://www.nuget.org/packages/Microsoft.IdentityModel.Clients.ActiveDirectory/2.29.0
+1. Navigate to https://www.nuget.org/packages/Microsoft.IdentityModel.Clients.ActiveDirectory/2.29.0.
 2. On the right, select **Manual download**, choose **Save as**, choose a location to save it to, and choose **Save**.
 3. Find the file in File Explorer and change its file extension from .nupkg to .zip.
 4. Right-click the file and select Properties. On the General tab, select the Unblock check box if you see one, and then select OK. 
@@ -59,13 +59,14 @@ $authorizationContext = Connect-AAD
     $clientId = "d3590ed6-52b3-4102-aeff-aad2292ab01c"
    
     $redirectUri = "urn:ietf:wg:oauth:2.0:oob"
-    $promptBehavior = [Microsoft.IdentityModel.Clients.ActiveDirectory.PromptBehavior]::Always
-   
+    $platformParameters = New-Object "Microsoft.IdentityModel.Clients.ActiveDirectory.PlatformParameters" -ArgumentList "Always"    
+
     $authentiationContext = New-Object "Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContext" -ArgumentList $authUrl, $False
-   
-    $authenticationResult = $authentiationContext.AcquireToken($resource, $clientId, $redirectUri, $promptBehavior)
+
+    $authenticationResult = $authentiationContext.AcquireTokenAsync($resource, $clientId, $redirectUri, $platformParameters).Result
     return $authenticationResult
 }
+
 function Set-PlannerConfiguration
 {
 <#
@@ -79,15 +80,24 @@ The URL of the Tenant-Level Settings API for the Planner instance to control.
 A valid access token of a user with tenant-level administrator privileges.
 .Parameter AllowCalendarSharing
 If set to $false, disables creating iCalendar links from Microsoft Planner, and disables previously created iCalendar links.  If set to $true, enables creating iCalendar links from Microsoft Planner and re-enables any previously created iCalendar links.
+.Parameter AllowTenantMoveWithDataLoss
+If set to $true, allows the tenant to be moved to another Planner environment or region. This move will result in the tenant's existing Planner data being lost.
 .example
+
 Set-PlannerConfiguration -AllowCalendarSharing $true
+
+.example
+
+Set-PlannerConfiguration -AllowTenantMoveWithDataLoss $true
 #>
     param(
         [ValidateNotNull()]
         [System.String]$Uri="https://tasks.office.com/taskAPI/tenantAdminSettings/Settings",
+
         [ValidateNotNullOrEmpty()]
         [Parameter(Mandatory=$false)][System.String]$AccessToken,
-        [Parameter(Mandatory=$false, ValueFromPipeline=$true)][System.Boolean]$AllowCalendarSharing
+        [Parameter(Mandatory=$false, ValueFromPipeline=$true)][System.Boolean]$AllowCalendarSharing,
+        [Parameter(Mandatory=$false, ValueFromPipeline=$true)][System.Boolean]$AllowTenantMoveWithDataLoss
         )
    
     if(!($PSBoundParameters.ContainsKey("AccessToken"))){
@@ -97,16 +107,22 @@ Set-PlannerConfiguration -AllowCalendarSharing $true
    
     $flags = @{}
    
-    if($PSBoundParameters.ContainsKey("AllowCalendarSharing")){
+     if($PSBoundParameters.ContainsKey("AllowCalendarSharing")){
         $flags.Add("allowCalendarSharing", $AllowCalendarSharing);
     }
+
+    if($PSBoundParameters.ContainsKey("AllowTenantMoveWithDataLoss")){
+        $flags.Add("allowTenantMoveWithDataLoss", $AllowTenantMoveWithDataLoss);
+    }
+
     $propertyCount = $flags | Select-Object -ExpandProperty Count
-   
+    
     if($propertyCount -eq 0) {
         Throw "No properties were set."
     }
-   
+    
     $requestBody = $flags | ConvertTo-Json
+
     Invoke-RestMethod -ContentType "application/json;odata.metadata=full" -Headers @{"Accept"="application/json"; "Authorization"=$AccessToken; "Accept-Charset"="UTF-8"; "OData-Version"="4.0;NetFx"; "OData-MaxVersion"="4.0;NetFx"} -Method PATCH -Body $requestBody $Uri
 }
 function Get-PlannerConfiguration
@@ -259,5 +275,5 @@ Now you're ready to make changes to Planner at the organizational level using Po
 
 2. To verify your settings:
 
-   - In PowerShell, run: `Get-PlannerConfiguration`
+   - In PowerShell, run: `Get-PlannerConfiguration`.
    - The AllowTenantMoveWithDataLoss value returned by this command indicates whether a tenant move is currently authorized.
