@@ -34,7 +34,7 @@ This procedure walks you through downloading the files needed to run Planner adm
 - One PowerShell script
 - The script's manifest
 
-If you're new to Windows PowerShell, see [Using Windows PowerShell](https://docs.microsoft.com/powershell/scripting/getting-started/fundamental/using-windows-powershell?view=powershell-5.1).
+If you're new to Windows PowerShell, see [Getting started with Windows PowerShell](https://docs.microsoft.com/powershell/scripting/learn/ps101/01-getting-started).
 
 1. Navigate to https://www.nuget.org/packages/Microsoft.IdentityModel.Clients.ActiveDirectory/2.29.0
 2. On the right, select **Manual download**, choose **Save as**, choose a location to save it to, and choose **Save**.
