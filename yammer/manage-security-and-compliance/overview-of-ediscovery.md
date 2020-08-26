@@ -24,7 +24,7 @@ Yammer now supports both eDiscovery and Advanced eDiscovery within the Microsoft
 
 To use this functionality, your Yammer network will need to be in Native Mode. If your network was provisioned after January 9th, 2020, you are already in Native Mode. If your network was provisioned *before* January 9th, 2020, you will need to follow the steps in the [Overview of Native Mode](../configure-your-yammer-network/overview-native-mode.md).
 
-You can learn more about eDiscovery in the [Microsoft 365 Compliance Center](https://docs.microsoft.com/en-us/microsoft-365/compliance/).
+You can learn more about eDiscovery in the [Microsoft 365 Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/).
 
 The processes outlined in the above documentation explain how to run eDiscovery searches on all your Microsoft content. While Yammer isn’t discussed explicitly in those documents, the same processes mentioned there apply to Yammer content. When writing a search query in either eDiscovery or Advanced eDiscovery, you can filter on Yammer content specifically by selecting **Yammer Messages** as the *Type* of content as shown in the screenshots below.
 
