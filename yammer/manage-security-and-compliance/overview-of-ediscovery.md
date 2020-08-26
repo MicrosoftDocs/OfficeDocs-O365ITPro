@@ -30,7 +30,7 @@ The processes outlined in the above documentation explain how to run eDiscovery 
 
 ## eDiscovery
 
-![yam-ediscovery](../media/kb/yam-ediscovery.png)
+![eDiscovery in Yammer](../media/kb/yam-ediscovery.png)
 
 ## Advanced eDiscovery
 
