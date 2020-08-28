@@ -22,7 +22,7 @@ description: "Change the color and images used in various parts of Yammer."
 
 To make your Yammer network your own, change the colors and images used in various headers.
   
-|**Part of Yammer** <br/> |**How to customize it** <br/> |
+| Part of Yammer <br/> | How to customize it <br/> |
 |:-----|:-----|
 |Yammer header <br/>- For users who use their Microsoft 365 or Office 365 identity to log in to Yammer, the header is controlled by the suite's theme.  <br/> |[Customize the Microsoft 365 theme for your organization](https://support.office.com/article/8275da91-7a48-4591-94ab-3123a3f79530) <br/> |
 |Yammer header <br/>- For network guests and Yammer Basic users <br/> |[Customize the Yammer header for people who sign-in to Yammer not using their Office 365 identity](customize-the-look-of-yammer.md#YammerHeader) <br/> |
