@@ -22,10 +22,9 @@ description: "Change the color and images used in various parts of Yammer."
 
 To make your Yammer network your own, change the colors and images used in various headers.
   
-|||
-|:-----|:-----|
 |**Part of Yammer** <br/> |**How to customize it** <br/> |
-|Yammer header <br/>- For users who use their Office 365 identity to log in to Yammer, the header is controlled by the Office 365 theme.  <br/> |[Customize the Office 365 theme for your organization](https://support.office.com/article/8275da91-7a48-4591-94ab-3123a3f79530) <br/> |
+|:-----|:-----|
+|Yammer header <br/>- For users who use their Office 365 identity to log in to Yammer, the header is controlled by the Microsoft 365 theme.  <br/> |[Customize the Microsoft 365 theme for your organization](https://support.office.com/article/8275da91-7a48-4591-94ab-3123a3f79530) <br/> |
 |Yammer header: <br/>- For network guests and Yammer Basic users <br/> |[Customize the Yammer header for people who sign-in to Yammer not using their Office 365 identity](customize-the-look-of-yammer.md#YammerHeader) <br/> |
 |Email logo for notification emails sent by Yammer to users  <br/> |[Customize the notification email logo](customize-the-look-of-yammer.md#NotificationLogo) <br/> |
 |Community colors and logo in new Yammer  <br/> |[Define the community's look](https://support.office.com/article/d74a23a1-c3aa-4b5f-abf7-61b912138609)  <br/> |
@@ -36,7 +35,7 @@ To make your Yammer network your own, change the colors and images used in vario
 <a name="YammerHeader"> </a>
 
 >[!IMPORTANT]
-> If your organization is using Office 365, the network colors and network logo settings only apply to network guests. Office 365 users will not see these changes. 
+> If your organization is using Microsoft or Office 365, the network colors and network logo settings only apply to network guests. Microsoft and Office 365 users will not see these changes.
 
 1. In the Yammer admin center, click **Design**.
     
@@ -57,6 +56,6 @@ To make your Yammer network your own, change the colors and images used in vario
 
 **Q: Why don't I see changes made to network colors or logo?**
 
-A: These settings in the Yammer admin center only apply to users who are not signed in to Office 365. If your organization is using Office 365, only network guests see these changes. 
+A: These settings in the Yammer admin center only apply to users who are not signed in to Microsoft 365 or Office 365. If your organization is using Microsoft 365 or Office 365, only network guests see these changes. 
 
-Office 365 users see the Office 365 theme for the organization. To customize this theme, see [Customize the Office 365 theme for your organization](https://support.office.com/article/8275da91-7a48-4591-94ab-3123a3f79530).
+Microsoft 365 and Office 365 users see the Microsoft theme for the organization. To customize this theme, see [Customize the Microsoft 365 theme for your organization](https://support.office.com/article/8275da91-7a48-4591-94ab-3123a3f79530).
