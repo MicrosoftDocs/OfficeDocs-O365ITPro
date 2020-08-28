@@ -31,11 +31,11 @@ To make your Yammer network your own, change the colors and images used in vario
 | Group colors and logo in classic Yammer | [Define the group's look](https://support.office.com/article/6e05c6d6-5548-4c88-89cd-e6757a514ef2)
 |External network logo  <br/> |[Create and manage an external network in Yammer](../work-with-external-users/create-and-manage-an-external-network.md) <br/> |
    
-## Customize the Yammer header for people who sign-in to Yammer not using their Office 365 identity
+## Customize the Yammer header for people who sign-in to Yammer not using their Microsoft 365 or Office 365 identity
 <a name="YammerHeader"> </a>
 
 >[!IMPORTANT]
-> If your organization is using Microsoft or Office 365, the network colors and network logo settings only apply to network guests. Microsoft and Office 365 users will not see these changes.
+> If your organization is using Microsoft 365 or Office 365, the network colors and network logo settings only apply to network guests. Microsoft and Office 365 users will not see these changes.
 
 1. In the Yammer admin center, click **Design**.
     
