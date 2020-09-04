@@ -40,7 +40,7 @@ landingContent:
           - text: Planner blog
             url: https://techcommunity.microsoft.com/t5/Planner-Blog/bg-p/PlannerBlog
           - text: Planner end user help
-            url: https://support.office.com/en-us/planner
+            url: https://support.office.com/planner
       - linkListType: reference
         links:
           - text: Planner API
