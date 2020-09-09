@@ -56,6 +56,7 @@
     "globalMetadata": {
       "breadcrumb_path": "/office365/admin/breadcrumb/toc.json",
       "extendBreadcrumb": "true",
+      "uhfHeaderId": "MSDocsHeader-M365-IT",
       "searchScope": [
         "Office 365 Admin"
       ],
