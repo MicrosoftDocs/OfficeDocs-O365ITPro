@@ -104,8 +104,8 @@ You can also see a more detailed status update towards the bottom of the screen,
 
 Once the tool has finished running, the banner at the top of the page will say one of two things. If the banner says that your network is successfully aligned to Native Mode, you are now finished and can be confident that you have no further actions required. If the banner says that the alignment has failed and an error report was generated, then it’s time to download that error report. The vast majority of errors are very easy to resolve, and usually just require you to rename a file that has characters not allowed in SharePoint files.
 
-[!NOTE]
-The error report can be found at the very bottom of the page. This is a separate report from the Alignment Report that you reviewed earlier. 
+> [!NOTE]
+> The error report can be found at the very bottom of the page. This is a separate report from the Alignment Report that you reviewed earlier. 
 
 The error report will be in .csv format by default and will remain available until the next time the Alignment Tool is run. When the tool is run again, a new error report will be generated.
 The error report will contain a list of files that failed to migrate from Azure to SharePoint, as well as error codes. For a list of common error codes and the necessary steps to remediate these codes, see the [Error Codes section of the Troubleshoot native mode article](../troubleshoot-problems/troubleshoot-native-mode.md#error-codes). You also have the option of working with our Premier Support Team, who can help with resolving these error reports. If you have a high volume of errors, the support team can provide scripts that will allow you to bulk update the files in your network to allow for faster remediation.
