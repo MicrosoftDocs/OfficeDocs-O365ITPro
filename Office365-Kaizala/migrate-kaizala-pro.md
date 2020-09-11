@@ -8,7 +8,7 @@ manager: rojog
 audience: Admin
 ms.date: 06/01/2020
 ms.topic: article
-ms.service: Kaizala
+ms.service: kaizala
 ms.custom: Kaizala
 ms.reviewer: chgonsal
 localization_priority: Normal

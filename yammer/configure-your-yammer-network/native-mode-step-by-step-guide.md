@@ -9,6 +9,7 @@ ms.date: 09/09/2020
 audience: Admin
 ms.topic: article
 ms.service: yammer
+ms.subservice:
 localization_priority: Normal
 ms.custom: Adm_Yammer
 search.appverid: 
