@@ -34,7 +34,7 @@ After you have ensured that there is just one Yammer Network in your Microsoft t
 
 The Native Mode Alignment Tool can only be accessed by tenant-level Global Admins. It’s important to know that during times of high network traffic it can take up to a few hours for Global Admin privileges to be reflected in Yammer. If your account is only granted these privileges on a temporary basis, it may not be visible immediately after your account is elevated. Once Yammer recognizes that your account has Global Admin capabilities, you can access the Native Mode Alignment Tool by logging in to Yammer, navigating to the Network Admin section, and then accessing the menu item for Native Mode for Microsoft 365.
 
-> [!IMPORTANT]
+> [!IMPORTANT] 
 > The alignment tool can take a long time to process. Most customers are able to complete the tool in one to two weeks, but it can take up to 90 days in some extreme circumstances. The account used to initiate the alignment tool must maintain global admin privileges for the duration of the alignment process.
 
 **3. Preparing to run the Native Mode Alignment Tool**
@@ -73,13 +73,13 @@ When run, the Alignment Tool will attempt to map all unmapped users to an existi
 
   Exporting a large volume of content from your network is a multi-step process:
 
-  **1.	Export message data** 
-  - We suggest exporting the message data using the [Network Data Export feature](../manage-security-and-compliance/export-yammer-enterprise-data.md#ExportNetworkData) within the Yammer Admin panel.
-  - We suggest limiting your export to a maximum date range of 2 months at a time and excluding attachments. If you choose to include attachments, you may need to limit your date range significantly further (often just one week at a time) to prevent the system from encountering timeout errors.
+    **1.	Export message data** 
+          - We suggest exporting the message data using the [Network Data Export feature](../manage-security-and-compliance/export-yammer-enterprise-data.md#ExportNetworkData) within the Yammer Admin panel.
+          - We suggest limiting your export to a maximum date range of 2 months at a time and excluding attachments. If you choose to include attachments, you may need to limit your date range significantly further (often just one week at a time) to prevent the system from encountering timeout errors.
 
   **2.	Export files**
-  - We suggest exporting files separately from messages using the [Yammer file export API](../manage-security-and-compliance/export-yammer-enterprise-data.md#export-yammer-files-via-api).
-  - Using this API you can export all the files from a specified date range. This API supports concurrent requests (up to 6) and each request should be limited to a two-month date range. This will allow you to simultaneously export a full year of files in one API call.
+        - We suggest exporting files separately from messages using the [Yammer file export API](../manage-security-and-compliance/export-yammer-enterprise-data.md#export-yammer-files-via-api).
+        - Using this API you can export all the files from a specified date range. This API supports concurrent requests (up to 6) and each request should be limited to a two-month date range. This will allow you to simultaneously export a full year of files in one API call.
 
 **5. Running the Alignment Tool for the first time**
 
