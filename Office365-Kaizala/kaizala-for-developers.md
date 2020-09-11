@@ -24,5 +24,5 @@ description: Learn how to use the Kaizala developer platform to meet your organi
 
 The Kaizala developer platform offers multiple ways to integrate and extend Kaizala to suit your organizational needs. With the developer preview, you can use connectors to integrate Kaizala with your business processes and design custom actions through the Kaizala management portal.
 
-For more information, see the [Microsoft Kaizala developer documentation](https://docs.microsoft.com/en-us/kaizala/developer-platform).
+For more information, see the [Microsoft Kaizala developer documentation](https://docs.microsoft.com/kaizala/developer-platform).
 
