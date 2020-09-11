@@ -2,8 +2,8 @@
 title: "AAD credentials will be required for Yammer Enterprise log in"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -29,7 +29,7 @@ As a Yammer admin, if you want to prevent these users who don’t have Office 36
  
 ## Why is Yammer doing this? 
 
-There are existing and upcoming features that only work when all users use AAD credentials, including having one place to manage users for all Office 365 apps, and using Office 365 connected groups.
+There are existing and upcoming features that only work when all users use AAD credentials, including having one place to manage users for all Microsoft 365 and Office 365 apps, and using Microsoft 365 connected groups.
 
 ## Prepare for self-service signup 
 
@@ -66,9 +66,9 @@ To identify which users you need to notify, follow the instructions in [Audit Ya
 A: After January 31, 2019, the user's experience will change:
 - If self-service signup is enabled, this impacts the user’s next login in. The first time a user with legacy credentials tries to log in they will be asked to create a new password and validate their email address. After that they will always need to use their newly created AAD credentials when they log in to Yammer.  When they use their new AAD credentials to log in, their Yammer experience will be the same as it was before this change. They will have access to the same groups and external networks as they currently do.
 
-- If self-service signup is not enabled, users using legacy Yammer credentials won’t be able to log in after January 31 until the Office 365 admin manually creates an AAD account for these users and gives each user the new log-in information. 
+- If self-service signup is not enabled, users using legacy Yammer credentials won’t be able to log in after January 31 until the Microsoft 365 or Office 365 admin manually creates an AAD account for these users and gives each user the new log-in information. 
 
-**Q: What happens if as an admin, I don’t take action by January 31?** 
+**Q: What happens if as an admin, I don’t take action by January 31, 2019?** 
 
 A: If self-service sign-up is enabled, users will be redirected to the self-service signup flow and they will be able to create their own password, even if no action is taken. However, we recommend letting the users know in advance so they are not surprised by the change. 
 
