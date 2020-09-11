@@ -125,7 +125,7 @@ You can create new Kaizala Actions through the Action Designer, found in the [Ka
    
 2. After you are done, click **Submit**. People can now see the detail page of the new Action; however, it’s still a draft.
     
-3. To make the Action live, you need to publish it. Read more about [how to publish an Action](https://docs.microsoft.com/en-us/kaizala/actions/publish#steps-to-publish-an-action).
+3. To make the Action live, you need to publish it. Read more about [how to publish an Action](https://docs.microsoft.com/kaizala/actions/publish#steps-to-publish-an-action).
     
 ## Add Kaizala Action to a group
 
