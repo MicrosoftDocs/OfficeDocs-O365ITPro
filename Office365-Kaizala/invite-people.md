@@ -45,7 +45,7 @@ On-the-ground activities can be especially important for driving a buzz at the w
 Here is a list of initiatives to create a positive buzz for Kaizala at your organization:
 
 - Set up a Kaizala activation desk to help users install Kaizala and answer any of their questions about Kaizala.
-- Put up a [Kaizala poster](https://docs.microsoft.com/en-us/Office365/Kaizala/invite-people#introducing-kaizala--poster-and-email-template) or send an [email message](hhttps://docs.microsoft.com/en-us/Office365/Kaizala/invite-people#introducing-kaizala--poster-and-email-template) to your organization so that employees can see the information.
+- Put up a [Kaizala poster](https://docs.microsoft.com/Office365/Kaizala/invite-people#introducing-kaizala--poster-and-email-template) or send an [email message](hhttps://docs.microsoft.com/en-us/Office365/Kaizala/invite-people#introducing-kaizala--poster-and-email-template) to your organization so that employees can see the information.
 
 ### Introducing Kaizala – poster and email template
 
