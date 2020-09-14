@@ -8,7 +8,7 @@ manager: serdars
 ms.date: 05/27/2020
 ms.audience: Admin
 ms.topic: article
-ms.service: Kaizala
+ms.service: kaizala
 ms.custom: Kaizala
 ms.reviewer: rahul-mi
 localization_priority: Normal
@@ -50,7 +50,7 @@ You can create different [types of groups](groups-in-kaizala.md) from the Kaizal
 
 ## Create a hierarchical group
 
-Kaizala lets you create hierarchal group structures by adding subgroups. 
+Kaizala lets you create hierarchical group structures by adding subgroups. 
 
 1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, choose **Groups**.
 2. Select a group you want to modify.
