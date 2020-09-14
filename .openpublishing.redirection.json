@@ -4076,11 +4076,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Office365-Planner/index.md",
-      "redirect_url": "planner-admin-home",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Office365-SmallBusiness/index.md",
       "redirect_url": "../smallbusiness/build-your-small-business/build-your-small-business",
       "redirect_document_id": false
