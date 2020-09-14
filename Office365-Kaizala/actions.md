@@ -47,7 +47,7 @@ You can create new Kaizala Actions through the Action Designer, found in the [Ka
 
    - **Feedback** – Use to collect any type of feedback from a group.
 
-   - **New Attendance** – Use to collect attendance from group members. This template enables custom configurations to customise attendance requirements of customers.
+   - **New Attendance** – Use to collect attendance from group members. This template enables custom configurations to customize attendance requirements of customers.
 
    - **New Survey** – Use to request specific answers from group members. Create a Survey Action with pre-filled questions. You can send this Action via the app at regular intervals.
 
