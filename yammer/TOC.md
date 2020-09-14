@@ -21,6 +21,7 @@
 ### [Manage Yammer domains](configure-your-yammer-network/manage-yammer-domains.md)
 ### [Consolidate multiple Yammer networks](configure-your-yammer-network/consolidate-multiple-yammer-networks.md)
 ### [Overview of Native Mode](configure-your-yammer-network/overview-native-mode.md)
+### [Yammer Native Mode: step-by-step guide](configure-your-yammer-network/native-mode-step-by-step-guide.md)
 ### [Configure your Yammer network for Native Mode for Microsoft 365](configure-your-yammer-network/native-mode.md)
 ### [Files in Native Mode](configure-your-yammer-network/files-in-native-mode.md)
 ### [Troubleshoot Native Mode](troubleshoot-problems/troubleshoot-native-mode.md)

@@ -8,7 +8,7 @@ manager: serdars
 ms.date: 6/25/2019
 audience: Admin
 ms.topic: article
-ms.service: Kaizala
+ms.service: kaizala
 ms.custom: Kaizala
 ms.reviewer: nitinjms2
 localization_priority: Normal
@@ -47,7 +47,7 @@ You can create new Kaizala Actions through the Action Designer, found in the [Ka
 
    - **Feedback** – Use to collect any type of feedback from a group.
 
-   - **New Attendance** – Use to collect attendance from group members. This template enables custom configurations to customise attendance requirements of customers.
+   - **New Attendance** – Use to collect attendance from group members. This template enables custom configurations to customize attendance requirements of customers.
 
    - **New Survey** – Use to request specific answers from group members. Create a Survey Action with pre-filled questions. You can send this Action via the app at regular intervals.
 
@@ -125,7 +125,7 @@ You can create new Kaizala Actions through the Action Designer, found in the [Ka
    
 2. After you are done, click **Submit**. People can now see the detail page of the new Action; however, it’s still a draft.
     
-3. To make the Action live, you need to publish it. Read more about [how to publish an Action](https://docs.microsoft.com/en-us/kaizala/actions/publish#steps-to-publish-an-action).
+3. To make the Action live, you need to publish it. Read more about [how to publish an Action](https://docs.microsoft.com/kaizala/actions/publish#steps-to-publish-an-action).
     
 ## Add Kaizala Action to a group
 
