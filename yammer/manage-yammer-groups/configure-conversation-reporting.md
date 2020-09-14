@@ -8,7 +8,6 @@ manager: pamgreen
 ms.date: 4/15/2020
 audience: Admin
 ms.topic: article
-ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_Yammer
 ms.service: yammer
@@ -26,13 +25,13 @@ description: "Configure conversation reporting in Yammer to enable people to rep
 
 If your network is eligible, you can enable the feature in the Yammer admin center. On the **Network Admin panel**, under **Settings**, you will see a new Report Conversations option under **Content and Security**. This feature is not yet available on the mobile app.
 
-![yammer](../media/yammer-conversations-admin-reportconversations.png)
+![screenshot showing yammer reporting settings](../media/yammer-conversations-admin-reportconversations.png)
 
 ## Setting up the report a conversation feature
 
 A network admin must enable **Report Conversations** in the Yammer network admin panel.
 
-![yammer](../media/yammer-conversations-fulladmin-panel.png)
+![screenshot showing yammer reporting admin panel](../media/yammer-conversations-fulladmin-panel.png)
 
 After enabling conversations, enter information for the following two settings:
 
@@ -61,7 +60,7 @@ Some things you may consider including are:
 
 The text you enter will be displayed under the **Report Conversation** or **Report Comment** header when a user reports a conversation or comment. You can enter a maximum of 1500 characters.
 
-![yammer](../media/yammer-conversations-report-comment.png)
+![screenshot showing reporting a conversation](../media/yammer-conversations-report-comment.png)
 
 ## Post-submission instructions to user
 
@@ -78,24 +77,24 @@ The text entered in this field will be shown to your end users underneath a defa
 
 When enabled, users accessing Yammer on a web browser will see the **Report Conversation** option on conversation starters and **Report Comment** on comments and replies.
 
-![yammer](../media/yammer-conversations-report-dropdown.png)
+![Screenshot showing user reporting for conversation starter](../media/yammer-conversations-report-dropdown.png)
 
 **Report Conversation option on conversation starter**
 
 
-![yammer](../media/yammer-conversations-report-comment-dropdown.png)
+![Screenshot showing user reporting for comment](../media/yammer-conversations-report-comment-dropdown.png)
 
 **Report Conversation option on conversation comment**
 
 Users will then see a right panel pop out with the custom message from the network admin and a required **Reason for Reporting box.**
 
-![yammer](../media/yammer-conversations-report-comment.png)
+![screenshot showing reason for reporting](../media/yammer-conversations-report-comment.png)
 
 The conversation or comment reported, along with who is reporting and the reason for reporting, will then be sent to the email specified in the **Report Conversations8** settings.
 
 Upon successful submission, the user will then see the optional custom message from the network admin. They will also receive a confirmation message with a link to the conversation, comment, or reply reported and the comment included in the report.
 
-![yammer](../media/yammer-conversations-report-submitted-panel-closeup.png)
+![screenshot showing successs reporting submission](../media/yammer-conversations-report-submitted-panel-closeup.png)
 
 ## Report Emails
 
@@ -113,7 +112,7 @@ The organization email set for Report Conversations in admin settings will recei
 > [!NOTE]
 > Yammer does not support deep links to comments today. In the report emails for both conversation starters as well as comments, the link included in the report is always the conversation starter link. Reports do not contain deep links to a reported comment. The report reviewer can use the conversation starter link together with the reported comment timestamp to find the actual reported comment in the conversation.
 
-![yammer](../media/yammer-conversaton-reportcomments-email.png)
+![screenshot showing reported conversation notification](../media/yammer-conversaton-reportcomments-email.png)
 
 A copy of this same email is also sent to the Yammer user who submitted the report.
 
