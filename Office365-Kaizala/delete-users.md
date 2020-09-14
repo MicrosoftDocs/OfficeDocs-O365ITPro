@@ -8,7 +8,7 @@ manager: serdars
 audience: Admin
 ms.date: 05/08/2019
 ms.topic: article
-ms.service: Kaizala
+ms.service: kaizala
 ms.custom: Kaizala
 ms.reviewer: nitinjms2
 localization_priority: Normal
@@ -23,7 +23,7 @@ description: Learn how to delete users to the organization directory in Kaizala.
 
 # Delete users from the organization directory in Kaizala
 
-Organization admins only can delete users from an organization. They can delete users one at a time or delete mutiple users at the same time.
+Organization admins only can delete users from an organization. They can delete users one at a time or delete multiple users at the same time.
 
 ## Delete a single user
 

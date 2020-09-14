@@ -8,7 +8,6 @@ manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
 ms.topic: reference
-ms.prod: office-online-server
 ms.service: yammer
 localization_priority: Normal
 ms.custom: Adm_Yammer
@@ -54,7 +53,7 @@ You grant and change admin roles in the Yammer admin center. In the following sc
 | Function <br/> | Details <br/> |
 |:-----|:-----|
 |**Tasks** <br/> | View usage reports for Yammer in the Office 365 usage reporting dashboard.  <br/><br> For information about accessing and interpreting reports, see <br>[Office 365 Reports in the Admin Center - Yammer activity report](https://support.office.com/article/C7C9F938-5B8E-4D52-B1A2-C7C32CB2312A)<br>[Office 365 Reports in the Admin Center - Yammer groups activity report](https://support.office.com/article/94dd92ec-ea73-43c6-b51f-2a11fd78aa31)<br>[Office 365 Reports in the Admin Center - Yammer device usage report](https://support.office.com/article/B793FFDD-EFFA-43D0-849A-B1CA2E899F38)  <br/> |
-|**Who can give this role to others** <br/> |This role is included in the global admin role, and can be given to other users by an global admin. For more information about this role, see [About admin roles](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide).  <br/> |
+|**Who can give this role to others** <br/> |This role is included in the global admin role, and can be given to other users by an global admin. For more information about this role, see [About admin roles](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).  <br/> |
 |**Add or remove a report reader role** <br/> | In Office 365, go to **Admin** \> **Users** \> **Active Users** and select a user. <br><br>For details, see [Assign admin roles in Office 365 for business](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504). <br/> |
    
 <a name="bmk_network"> </a>
