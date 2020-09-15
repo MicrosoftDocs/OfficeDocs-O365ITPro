@@ -125,9 +125,8 @@ To find this data for an individual user, click the Yammer settings icon ![Yamme
     
     Data is exported into a .zip file containing the following files.
     
-|||
-|:-----|:-----|
 |**File** <br/> |**Contents** <br/> |
+|:-----|:-----|
 |**log.txt** <br/> |Summarizes the number of entries in each .csv file, and lists any errors that occur during the export.  <br/> |
 |**request.txt** <br/> |Parameters use for the export.  <br/> |
 |**Broadcast.csv** <br/>|For any live event video posted by the user, includes the network ID, group ID and name, title, description, links to the video, and additional information about the video. <br/>The video content is not included in the export. The video is saved in Microsoft Stream. To edit metadata or delete the video, you can open the video in Microsoft Stream admin mode. For more information see [Admin capabilities in Microsoft Stream](https://docs.microsoft.com/stream/manage-content-permissions) and [Office 365 Data Subject Requests for the GDPR, Stream](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#stream)<br/>|
