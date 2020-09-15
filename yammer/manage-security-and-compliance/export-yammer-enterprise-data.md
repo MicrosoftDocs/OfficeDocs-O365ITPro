@@ -22,8 +22,9 @@ description: "Verified admins can export data from Yammer Enterprise."
 
 As a verified admin, you can export Yammer Enterprise data to monitor usage and content and for discovery and compliance purposes. The following table lists the four ways to export data.
   
-|:-----|:-----|
+
 |**Method** <br/> |**Purpose** <br/> |
+|:-----|:-----|
 |[Export user and admin list](export-yammer-enterprise-data.md#ExportUsers) <br/> |Identify status of current admins and users, and review email, title, location, and department of each user.  <br/> |
 |[Export Yammer network data by date range and network](export-yammer-enterprise-data.md#ExportNetworkData) <br/> |View and audit all network data for all users. You can specify a date range, and choose whether to include files and external network data.  <br/> |
 |[Export data for one user](export-yammer-enterprise-data.md#ExportOneUser) <br/> |Identify all data related to one user. You can use this export to identify data that needs to be deleted to comply with a GDPR data subject request.  <br/> |
