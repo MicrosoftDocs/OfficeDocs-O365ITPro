@@ -53,9 +53,8 @@ As a verified admin, you can export Yammer Enterprise data to monitor usage and 
     
     The export contains the following files:
     
-|||
-|:-----|:-----|
 |**File** <br/> |**Contents** <br/> |
+|:-----|:-----|
 |**log.txt** <br/> |Summary of the export.  <br/> |
 |**request.txt** <br/> |The parameters of the export.  <br/> |
 |**Admins.csv** <br/> |A list of current admins, their email addresses, and whether they are a verified admin or a network admin.  <br/> For more information on the types of admins in Yammer, see [Manage Yammer admins](../manage-yammer-users/manage-yammer-admins.md).  <br/> |
@@ -83,9 +82,8 @@ As a verified admin, you can export Yammer Enterprise data to monitor usage and 
     
     Data is exported into a .zip file. If there is more than one network exported, a separate folder is created for each network. 
     
-|||
-|:-----|:-----|
 |**File** <br/> |**Contents** <br/> |
+|:-----|:-----|
 |**log.txt** <br/> |Summary of the export.  <br/> |
 |**request.txt** <br/> |The parameters of the export.  <br/> |
 |**Admins.csv** <br/> | Lists the name, email, and type of all Yammer admins for each selected network.  <br/> |
