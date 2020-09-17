@@ -37,6 +37,7 @@
     "globalMetadata": {
       "breadcrumb_path": "/Office365/SmallBusiness/breadcrumb/toc.json",
       "extendBreadcrumb": true,
+      "uhfHeaderId": "MSDocsHeader-M365-IT",
       "feedback_system": "None",
       "hideEdit": true
     },
