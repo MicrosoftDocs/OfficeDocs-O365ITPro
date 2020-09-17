@@ -36,12 +36,12 @@ This procedure walks you through downloading the files needed to run Planner adm
 
 If you're new to Windows PowerShell, see [Getting started with Windows PowerShell](https://docs.microsoft.com/powershell/scripting/learn/ps101/01-getting-started).
 
-1. Navigate to https://www.nuget.org/packages/Microsoft.IdentityModel.Clients.ActiveDirectory/2.29.0.
+1. Navigate to https://www.nuget.org/packages/Microsoft.IdentityModel.Clients.ActiveDirectory/3.19.8.
 2. On the right, select **Manual download**, choose **Save as**, choose a location to save it to, and choose **Save**.
 3. Find the file in File Explorer and change its file extension from .nupkg to .zip.
 4. Right-click the file and select Properties. On the General tab, select the Unblock check box if you see one, and then select OK. 
-5. Right-click the .zip file and choose **Extract All**. Choose **Extract**. You'll end up with an unzipped folder entitled "microsoft.identitymodel.clients.activedirectory.2.29.0".
-6. Copy the following code into a text editor and save it as SetPlannerTenantSettings.psm1 in the "microsoft.identitymodel.clients.activedirectory.2.29.0\lib\net45" folder.
+5. Right-click the .zip file and choose **Extract All**. Choose **Extract**. You'll end up with an unzipped folder entitled "microsoft.identitymodel.clients.activedirectory.3.19.8".
+6. Copy the following code into a text editor and save it as SetPlannerTenantSettings.psm1 in the "microsoft.identitymodel.clients.activedirectory.3.19.8\lib\net45" folder.
 
 ```powershell
 function Connect-AAD ()
@@ -164,7 +164,7 @@ Get-PlannerConfiguration
 Export-ModuleMember -Function Get-PlannerConfiguration, Set-PlannerConfiguration
 ```
 
-7. Copy the following code into a text editor and save it as SetPlannerTenantSettings.psd1 in the "microsoft.identitymodel.clients.activedirectory.2.29.0\lib\net45" folder.
+7. Copy the following code into a text editor and save it as SetPlannerTenantSettings.psd1 in the "microsoft.identitymodel.clients.activedirectory.3.19.8\lib\net45" folder.
 
 ```powershell
 #
@@ -208,7 +208,7 @@ ProcessorArchitecture = ''
 # Modules that must be imported into the global environment prior to importing this module # 
 RequiredModules = @() 
 # Assemblies that must be loaded prior to importing this module 
-RequiredAssemblies = @("Microsoft.IdentityModel.Clients.ActiveDirectory.dll","Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll") 
+RequiredAssemblies = @("Microsoft.IdentityModel.Clients.ActiveDirectory.dll","Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll") 
 # Script files (.ps1) that are run in the caller's environment prior to importing this module. # 
 ScriptsToProcess = @() 
 # Type files (.ps1xml) to be loaded when importing this module # 
@@ -255,7 +255,7 @@ DefaultCommandPrefix = '' }
 8. Run this command to import these files into PowerShell, making sure to add your unique file path from your computer:
 
 ```powershell
-Import-Module [File path on your computer]microsoft.identitymodel.clients.activedirectory.2.29.0\lib\net45\SetPlannerTenantSettings.psd1 
+Import-Module [File path on your computer]microsoft.identitymodel.clients.activedirectory.3.19.8\lib\net45\SetPlannerTenantSettings.psd1 
 ```
 
 Now you're ready to make changes to Planner at the organizational level using PowerShell.
@@ -271,7 +271,7 @@ Now you're ready to make changes to Planner at the organizational level using Po
    `Set-PlannerConfiguration -AllowTenantMoveWithDataLoss $false`
 
    > [!NOTE]
-   > You'll need to sign in using your Azure Active Directory credentials.
+   > You'll need to sign in using your Azure Active Directory credentials and use a local PowerShell window (not Azure Cloud Shell).
 
 2. To verify your settings:
 
