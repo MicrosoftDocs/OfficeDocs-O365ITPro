@@ -180,7 +180,7 @@ landingContent:
             url: /Yammer/work-with-external-users/external-messaging-faq
 
   # Card
-  - title: Manage groups
+  - title: Manage communities and group
     linkLists:
       - linkListType: overview
         links:
@@ -200,6 +200,10 @@ landingContent:
             url: /Yammer/manage-yammer-groups/yammer-and-office-365-groups
           - text: Manage who can create Microsoft groups
             url: https://support.office.com/article/manage-who-can-create-office-365-groups-4c46c8cb-17d0-44b5-9776-005fced8e618
+          - text: Mute a community for your organization in new Yammer
+            url: https://support.microsoft.com/office/840b305d-d23e-491b-a0e3-cfe904408ed3
+          - text: Mute a community in your Home Feed and discovery emails in new Yammer
+            url: https://support.microsoft.com/office/381d9b92-4d02-43cc-a191-35e135b18e88
           - text: Create a dynamic group
             url: /Yammer/manage-yammer-groups/create-a-dynamic-group
           - text: Export community or group members to a .csv file
