@@ -70,7 +70,7 @@
 ### [Delete a Yammer community or group](https://support.office.com/article/2a70a1f9-d081-488e-9fc7-0f7684e5a58b)
 ### [Create a dynamic group](manage-yammer-groups/create-a-dynamic-group.md)
 ### [Customize your network](manage-yammer-groups/customize-your-network.md)
-### [Mute a community for your organization in new Yammer] (https://support.microsoft.com/office/840b305d-d23e-491b-a0e3-cfe904408ed3)
+### [Mute a community for your organization in new Yammer](https://support.microsoft.com/office/840b305d-d23e-491b-a0e3-cfe904408ed3)
 ### [Mute a community in your Home Feed and discovery emails in new Yammer](https://support.microsoft.com/office/381d9b92-4d02-43cc-a191-35e135b18e88)
 ### [Report a Yammer conversation overview](manage-yammer-groups/configure-conversation-reporting.md)
 ### [All Company now works like other Yammer communities](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)
