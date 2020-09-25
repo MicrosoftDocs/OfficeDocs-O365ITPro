@@ -46,7 +46,7 @@ Use the Yammer file ID from the export to go directly to the file in Yammer and 
   
 **To locate and delete a specific message:**
 
-1. In the data export, find the URL for the message in the **gdpr_delete_url column**. The URL will have this syntax: **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**Threads**/**show?threadId=** *thread_id*. For example, http&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/threads/show?threadID=135893.
+1. In the data export, find the URL for the message in the **gdpr_delete_url** column. The URL will have this syntax: **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**Threads**/**show?threadId=** *thread_id*. For example, http&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/threads/show?threadID=135893.
   
 2. In the message, click the **More** icon ![More icon (...)](../media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **GDPR Hard Delete**.
 
