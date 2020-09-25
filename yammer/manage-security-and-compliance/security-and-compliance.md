@@ -2,13 +2,12 @@
 title: "Overview of security and compliance in Yammer"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
 ms.topic: reference
-ms.prod: office-online-server
 localization_priority: Normal
 ms.service: yammer
 ms.custom: Adm_Yammer
@@ -30,9 +29,8 @@ Yammer Enterprise offers admins security and compliance tools that are not part 
 
 ## Security Admin Features
 
-|||
+| Task <br/> | How To <br/> |
 |:-----|:-----|
-|**Task** <br/> |**How To** <br/> |
 |Set password policies and logical firewalls to control access to Yammer.  <br/> |[Manage Yammer security settings](yammer-security-settings.md) \*  <br/> |
 |Manage users and maintain single identity for users across all of Office 365.  <br/> |[Add, block, or remove Yammer users](../manage-yammer-users/add-block-or-remove-users.md) \*  <br/> [Enforce office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md) \*  <br/> |
 |Provide secured access to Yammer on iOS and Android devices, and control device access to protect corporate data by using Microsoft Intune.  <br/> |[Monitor account activity and device usage for a single user](../manage-yammer-users/add-block-or-remove-users.md#AccountActivity)\*  <br/> [Manage Yammer with Microsoft Intune](manage-yammer-with-intune.md) \*  <br/> |
@@ -45,9 +43,8 @@ Yammer Enterprise offers admins security and compliance tools that are not part 
 
 ### Legal and regulatory compliance
 
-|||
+| Task <br/> | How To <br/> |
 |:-----|:-----|
-|**Task** <br/> |**How To** <br/> |
 |Comply with GDPR requirements.  <br/> |[Manage GDPR data subject requests in Yammer Enterprise *](gdpr-requests-in-yammer-enterprise.md) <br/> [Manage GPPR data subject requests in Yammer Basic](gdpr-requests-in-yammer-enterprise.md) <br/> |
 |View compliance reports. Yammer is Tier-C compliant in the Office 365 Compliance Framework, which covers SOC 1, Soc 2, ISO 27001, HIPAA, and EU Model Clauses.  <br/> |[Compliance Framework Documentation for Office 365 (pdf)](https://go.microsoft.com/fwlink/p/?LinkId=615657)\*  <br/> [ISO 27001 Certificate](https://go.microsoft.com/fwlink/?linkid=868132) <br/> [Soc 2 Type 2 Report](https://go.microsoft.com/fwlink/?linkid=868133) <br/> |
 |Control data retention policies, and view private messages if needed for discovery purposes.  <br/> |[Manage Yammer data compliance](manage-data-compliance.md) \*  <br/> |
@@ -56,29 +53,26 @@ Yammer Enterprise offers admins security and compliance tools that are not part 
 
 ### Keep content appropriate and available to only those who should see it
 
-|||
+| Task <br/> | How To <br/> |
 |:-----|:-----|
-|**Task** <br/> |**How To** <br/> |
 |Set up a usage policy to ensure only appropriate content is posted.  <br/> |[Set up a Yammer usage policy](set-up-a-usage-policy.md) \*  <br/> |
 |Monitor keywords for unacceptable or inappropriate content so you can intervene if necessary.  <br/> |[Monitor Keywords](manage-data-compliance.md#MonitorKeywords)\*  <br/> [Monitor private content in Yammer](monitor-private-content.md) \*  <br/> |
 |Prevent specific data from being sent to external participants.  <br/> |[Disable external messaging in a Yammer network](../work-with-external-users/disable-external-messaging.md) \*  <br/> |
 
 ### Monitor usage
 
-|||
+| Task <br/> | How To <br/> |
 |:-----|:-----|
-|**Task** <br/> |**How To** <br/> |
 |Monitor Yammer admin and user transactions.  <br/> |[Track Yammer Events in the Office 365 Audit log and with the Management Activity API](track-yammer-events.md) \*  <br/> |
-|Gain insight into how people in your organization use Yammer. Reports and APIs make information available to admins, and group insights and seen counts are available for community managers, group admins, and members.  <br/> |[Activity Reports in the Microsoft 365 admin center](https://support.office.com/article/0d6dfb17-8582-4172-a9a9-aed798150263)\*  <br/> [Office 365 Reports in the Admin Center - Yammer activity report](https://support.office.com/article/C7C9F938-5B8E-4D52-B1A2-C7C32CB2312A)\*  <br/> [Office 365 Reports in the Admin Center - Yammer groups activity report](https://support.office.com/article/94dd92ec-ea73-43c6-b51f-2a11fd78aa31)\*  <br/> [Office 365 Adoption content pack](https://support.office.com/article/77ff780d-ab19-4553-adea-09cb65ad0f1f)\*  <br/> [Microsoft Graph reporting APIs](https://go.microsoft.com/fwlink/?linkid=875445) <br/> [View group insights in Yammer](https://support.office.com/article/73f9fa6d-d442-4f25-9194-d5317c9328ab.aspx) <br/> [View seen counts in Yammer](https://support.office.com/article/9595125f-001b-4977-8e49-8795a1ad493b.aspx) <br/> |
+|Gain insight into how people in your organization use Yammer. Reports and APIs make information available to admins, and group insights and seen counts are available for community managers, group admins, and members.  <br/> |[Activity Reports in the Microsoft 365 admin center](https://support.office.com/article/0d6dfb17-8582-4172-a9a9-aed798150263)\*  <br/> [Office 365 Reports in the Admin Center - Yammer activity report](https://support.office.com/article/C7C9F938-5B8E-4D52-B1A2-C7C32CB2312A)\*  <br/> [Microsoft 365 Reports in the Admin Center - Yammer groups activity report](https://support.office.com/article/94dd92ec-ea73-43c6-b51f-2a11fd78aa31)\*  <br/> [Office 365 Adoption content pack](https://support.office.com/article/77ff780d-ab19-4553-adea-09cb65ad0f1f)\*  <br/> [Microsoft Graph reporting APIs](https://go.microsoft.com/fwlink/?linkid=875445) <br/> [View group insights in Yammer](https://support.office.com/article/73f9fa6d-d442-4f25-9194-d5317c9328ab.aspx) <br/> [View seen counts in Yammer](https://support.office.com/article/9595125f-001b-4977-8e49-8795a1ad493b.aspx) <br/> |
 
 ### Stay organized and current with organizational changes
 
-|||
+| Task <br/> | How To <br/> |
 |:-----|:-----|
-|**Task** <br/> |**How To** <br/> |
-|Use Office 365 group naming policies to enforce consistent group naming.  <br/> |[Office 365 Groups naming policy](https://support.office.com/article/6ceca4d3-cad1-4532-9f0f-d469dfbbb552)\*  <br/> |
+|Use Microsoft 365 group naming policies to enforce consistent group naming.  <br/> |[Microsoft 365 Groups naming policy](https://support.office.com/article/6ceca4d3-cad1-4532-9f0f-d469dfbbb552)\*  <br/> |
 |For large organizations, use dynamic groups to update group membership automatically as people join, leave, or move within your organization.  <br/> |[Create a dynamic group in Yammer](../manage-yammer-groups/create-a-dynamic-group.md) \*  <br/> |
-|Set expiration policies for Office 365 connected Yammer groups. When set, group owners are prompted to renew the groups if they still need them.  <br/> |[Office 365 Group Expiration policy](https://support.office.com/article/8d253fe5-0e09-4b3c-8b5e-f48def064733.aspx)\*  <br/> |
+|Set expiration policies for Office 365 connected Yammer groups. When set, group owners are prompted to renew the groups if they still need them.  <br/> |[Microsoft 365 Group Expiration policy](https://support.office.com/article/8d253fe5-0e09-4b3c-8b5e-f48def064733.aspx)\*  <br/> |
 
 <a name="Security"> </a>
 ## Security FAQ
@@ -91,7 +85,7 @@ A: Only users with a valid and verified company email address can join your Yamm
 
 A: As of October 22, 2018, all Yammer users need to be able to access *.yammer.com. Do not use a list of IP address ranges to control access to Yammer since these may change and create access problems for users. For information about the October 2018 change, see [Using hard-coded IP addresses for Yammer is not recommended](https://techcommunity.microsoft.com/t5/Yammer-Blog/Using-hard-coded-IP-addresses-for-Yammer-is-not-recommended/ba-p/276592).
 
-For complete Office 365 URL and IP address ranges info, see [Office 365 endpoints](https://docs.microsoft.com/en-us/office365/enterprise/office-365-endpoints).
+For complete Office 365 URL and IP address ranges info, see [Office 365 endpoints](https://docs.microsoft.com/office365/enterprise/office-365-endpoints).
 
 ### Q: Where is the data hosted?
 
@@ -161,9 +155,9 @@ A: No. Yammer does not mine or sell any customer data. All data belongs to the c
 
 ### Q: Can I export all my data?
 
-A: In Yammer Enterprise, verified admins can export messages and uploaded files that are stored in Yammer, along with their metadata. The data export can also include any content that has been deleted, if the **Soft Delete** data retention option has been configured.
+A: In Yammer Enterprise, verified admins can export messages and uploaded files that are stored in Yammer, along with their metadata. The data export can also include any content that has been deleted, if the **Archive** data retention option has been configured.
 
-Yammer files that are stored in SharePoint must be exported by using Office 365 content search and export. Use [Content Search in Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search) to find the files, and then [Export the Content Search Results](https://docs.microsoft.com/en-us/office365/securitycompliance/export-search-results).
+Yammer files that are stored in SharePoint must be exported by using Office 365 content search and export. Use [Content Search in Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search) to find the files, and then [Export the Content Search Results](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
 
 ### Q: What are Yammer's business continuity features?
 

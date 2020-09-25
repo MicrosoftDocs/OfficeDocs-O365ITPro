@@ -5,10 +5,10 @@ f1.keywords:
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 05/18/2019
+ms.date: 05/27/2020
 ms.audience: Admin
 ms.topic: article
-ms.service: Kaizala
+ms.service: kaizala
 ms.custom: Kaizala
 ms.reviewer: rahul-mi
 localization_priority: Normal
@@ -32,10 +32,10 @@ You can create different [types of groups](groups-in-kaizala.md) from the Kaizal
     
    ![Enter the name to create a new Kaizala group](media/f913453e-6a66-45bd-a51c-114ebf5be0d7.png)
 
-### Create a flat group from existing Office 365 groups or distribution lists
+### Create a flat group from existing Microsoft 365 groups or distribution lists
 
 1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, choose **Groups**.
-2. Select **Create group** > **Create from Office 365 group or distribution list**.
+2. Select **Create group** > **Create from Microsoft 365 group or distribution list**.
 
 ### Create flat groups in bulk
 
@@ -50,7 +50,7 @@ You can create different [types of groups](groups-in-kaizala.md) from the Kaizal
 
 ## Create a hierarchical group
 
-Kaizala lets you create hierarchal group structures by adding subgroups. 
+Kaizala lets you create hierarchical group structures by adding subgroups. 
 
 1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, choose **Groups**.
 2. Select a group you want to modify.

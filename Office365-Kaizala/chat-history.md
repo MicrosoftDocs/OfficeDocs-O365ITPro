@@ -8,7 +8,7 @@ manager: serdars
 audience: Admin
 ms.date: 10/30/2018
 ms.topic: article
-ms.service: Kaizala
+ms.service: kaizala
 ms.custom: Kaizala
 ms.reviewer: nitinjms2
 localization_priority: Normal
@@ -47,7 +47,7 @@ Group admins can enable chat history both from the Kaizala management portal and
 
 ### Enable chat history using the Kaizala management portal
 
-1. Log in to the [Kaizala management portal](http://manage.kaiza.la) using your Office 365 school or work account.
+1. Log in to the [Kaizala management portal](https://manage.kaiza.la) using your Office 365 school or work account.
 2. Select the **Groups** tab on the left.
 3. Select the group from the group list for which you want chat history to be enabled.
 4. Select **More** ![Screenshot of More icon](media/more-icon.png) next to the group name.
@@ -80,7 +80,7 @@ Group admins can disable chat history both from the Kaizala management portal an
 
 ### Disable chat history using the Kaizala management portal
 
-1. Log in to the [Kaizala management portal](http://manage.kaiza.la) using your Office 365 school or work account.
+1. Log in to the [Kaizala management portal](https://manage.kaiza.la) using your Office 365 school or work account.
 2. Select the **Groups** tab on the left.
 3. Select the group from the group list for which you want chat history to be enabled.
 4. Select **More** ![Screenshot of More icon](media/more-icon.png) next to the group name.

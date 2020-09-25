@@ -8,7 +8,7 @@ manager: serdars
 ms.date: 05/18/2019
 ms.audience: ITPro
 ms.topic: article
-ms.service: Kaizala
+ms.service: kaizala
 ms.reviewer:
 ms.custom: Kaizala
 localization_priority: Normal

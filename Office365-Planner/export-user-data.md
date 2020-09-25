@@ -12,21 +12,21 @@ ms.service: o365-administration
 localization_priority: Priority
 search.appverid:
 - MET150
-description: "IThis article describes how an Office 365 global admin can export data for a specific user from Microsoft Planner.  "
+description: "IThis article describes how a global admin can export data for a specific user from Microsoft Planner.  "
 ---
 
 # Export user data from Microsoft Planner
 
-This article describes how an Office 365 global admin can export data for a specific user from Microsoft Planner. The exported data will include data about the user contained in Planner, and also data contained in plans that the user was a part of. The exporting process is done through Windows PowerShell.
+This article describes how a global admin can export data for a specific user from Microsoft Planner. The exported data will include data about the user contained in Planner, and also data contained in plans that the user was a part of. The exporting process is done through Windows PowerShell.
 
 > [!NOTE]
-> An Office 365 Global admin can export Microsoft Planner user telemetry data through the [Data Log Export Tool](https://go.microsoft.com/fwlink/?linkid=872273) on the [Microsoft Service Trust Portal](https://go.microsoft.com/fwlink/?linkid=872274).
+> A global admin can export Microsoft Planner user telemetry data through the [Data Log Export Tool](https://go.microsoft.com/fwlink/?linkid=872273) on the [Microsoft Service Trust Portal](https://go.microsoft.com/fwlink/?linkid=872274).
 
 ## Requirements
 
 You need to do the following first:
 
-- You must be an Office 365 Global admin to run the PowerShell script for exporting your Planner user data.
+- You must be a global admin to run the PowerShell script for exporting your Planner user data.
 - You need to download and unzip the [Planner user data export files](https://go.microsoft.com/fwlink/?linkid=871954). These three files are the PowerShell modules and the PowerShell script file needed to export your users data.
 
     > [!NOTE]
@@ -56,7 +56,7 @@ Do the following to unblock these files:
 
 After unblocking your files, do the following to export the user data from Planner:
 
-1. tart Windows PowerShell. In PowerShell, type the following to enable running scripts downloaded from the internet for this session only. It may prompt you to confirm by typing "Y".
+1. Start Windows PowerShell. In PowerShell, type the following to enable running scripts downloaded from the internet for this session only. It may prompt you to confirm by typing "Y".
 
    `PS> Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process`
 
@@ -82,7 +82,7 @@ After unblocking your files, do the following to export the user data from Plann
 
     `PS> Export-PlannerUserContent -UserAadIdOrPrincipalName adambarr@contoso.onmicrosoft.com -ExportDirectory C:\PlannerExportAdamBarr`
 
-4. You'll be prompted to authenticate. Log in as yourself (the Office 365 Global admin), not the user you want to export.
+4. You'll be prompted to authenticate. Log in as yourself (the global admin), not the user you want to export.
 
 5. After the PowerShell cmdlet runs successfully, go to your export location to view your user's exported data files.
 
@@ -146,6 +146,10 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.Owner.DisplayName|Display name of the owner (Group or User).|
 |Plan.Owner.UserPrincipalName|User Principal Name (UPN) if the owner is a user.  |
 |Plan.Owner.PrincipalType|The entity type (Group or User).|
+|Plan.Container|Container for the plan.|
+|Plan.Container.ContainerType|The type of container (Group). |
+|Plan.Container.ExternalId|Azure Active Directory ID of the group.|
+|Plan.Container.Description|Display name of the group. |
 |Plan.CreatedDate|Date and time the plan was created.|
 |Plan.CreatedBy|User that created the plan. See User properties for more detail.|
 |Plan.ModifiedDate|Date and time the plan was last updated.|

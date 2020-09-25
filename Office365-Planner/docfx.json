@@ -40,9 +40,10 @@
     "globalMetadata": {
       "breadcrumb_path": "/Office365/Planner/breadcrumb/toc.json",
       "extendBreadcrumb": true,
+      "uhfHeaderId": "MSDocsHeader-M365-IT",
       "titleSuffix": "Microsoft Planner",
       "searchScope": [
-        "Office 365 Planner"
+        "Microsoft Planner"
       ],
       "feedback_system": "None",
       "hideEdit": true

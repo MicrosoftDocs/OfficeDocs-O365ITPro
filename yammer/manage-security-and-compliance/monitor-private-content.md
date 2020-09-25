@@ -2,8 +2,8 @@
 title: "Monitor private content in Yammer"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -34,7 +34,7 @@ As the verified admin of a Yammer network, you can temporarily grant yourself ac
 - Profiles
     
 > [!NOTE]
-> If your Yammer network is associated with Office 365, anyone who is a global admin in Office 365 is also a verified admin in Yammer. 
+> If your Yammer network is associated with Microsoft 365 or Office 365, anyone who is a suite global admin is also a verified admin in Yammer. 
   
  **Grant a verified admin access to private content on Yammer**
   

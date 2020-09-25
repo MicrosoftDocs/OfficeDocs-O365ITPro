@@ -2,8 +2,8 @@
 title: "Advanced eDiscovery in Yammer"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 01/16/2020
 audience: Admin
@@ -31,11 +31,11 @@ The processes outlined in the above documentation explains how to run eDiscovery
 
 ## eDiscovery
 
-![yam-ediscovery](../media/kb/yam-ediscovery.png)
+![screenshot showing eDiscovery in Yammer](../media/kb/yam-ediscovery.png)
 
 ## Advanced eDiscovery
 
-![yam-advanced-ediscovery](../media/yammer-advanced-ediscovery.png)
+![screenshot showing advanced eDiscovery in Yammer](../media/yammer-advanced-ediscovery.png)
 
 > [!NOTE]
 > You do not need to select Yammer messages as the Type to ensure Yammer messages will be included in your results. This option allows you to filter so that your results only include Yammer messages.

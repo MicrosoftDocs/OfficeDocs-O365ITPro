@@ -8,7 +8,7 @@ manager: serdars
 audience: Admin
 ms.date: 03/12/2019
 ms.topic: article
-ms.service: Kaizala
+ms.service: kaizala
 ms.custom: Kaizala
 ms.reviewer: kavempar
 localization_priority: Normal
@@ -43,7 +43,7 @@ The Azure Active Directory (Azure AD) sync feature lets you sync user informatio
 
 To configure the Azure AD and Kaizala Directory sync:
 
-1. Log in to the [Kaizala management portal](http://manage.kaiza.la).
+1. Log in to the [Kaizala management portal](https://manage.kaiza.la).
 
 2. From the menu on the left, select **Directory**.
 
@@ -68,3 +68,9 @@ To configure the Azure AD and Kaizala Directory sync:
 7. You can check the sync status through logs.
 
 Once synced, AAD users will become part of Employee network.
+
+## DeltaLink expiration Error - Azure AD sync Failure
+
+If you're having problems with AAD Sync and see a Failure status, from the AAD sync history pane download the log file by clicking on the download icon next to the failed AAD Sync entry. This log file is essential for troubleshooting the AAD sync problems. If the log file shows “DeltaLink older than 30 days is not supported." as error, click of **Reset sync** in the AAD sync history pane and try doing AAD Sync again.
+
+![Screenshot of the Azure AD sync History Pane.](media/aadsync-deltalink-error.png)

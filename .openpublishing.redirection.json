@@ -2,17 +2,22 @@
   "redirections": [
     {
       "source_path": "Office365-Admin/subscriptions-and-billing/understand-your-invoice.md",
-      "redirect_url": " https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2",
+      "redirect_url": "https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2",
       "redirect_document_id": true
     },
     {
       "source_path": "Office365-Admin/misc/license-restrictions.md",
-      "redirect_url": " https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing",
+      "redirect_url": "https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing",
       "redirect_document_id": true
     },
     {
       "source_path": "Office365-Kaizala/kaizala/reports.md",
       "redirect_url": "https://docs.microsoft.com/office365/kaizala/analytics",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Office365-Kaizala/kaizala/make-payments.md",
+      "redirect_url": "https://docs.microsoft.com/office365/kaizala/kaizala-overview",
       "redirect_document_id": true
     },
     {
@@ -4071,11 +4076,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Office365-Planner/index.md",
-      "redirect_url": "planner-admin-home",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Office365-SmallBusiness/index.md",
       "redirect_url": "../smallbusiness/build-your-small-business/build-your-small-business",
       "redirect_document_id": false
@@ -4091,8 +4091,13 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "yammer/index.md",
-      "redirect_url": "yammer-landing-page",
+      "source_path": "index.md",
+      "redirect_url": "index.yml",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "yammer/yammer-landing-page.md",
+      "redirect_url": "index",
       "redirect_document_id": false
     },
     {
@@ -4118,6 +4123,11 @@
     {
       "source_path": "yammer/troubleshoot-problems/index.md",
       "redirect_url": "troubleshoot-problems",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Home/Office365-roadmap.yml",
+      "redirect_url": "https://docs.microsoft.com/microsoft-365/admin/index",
       "redirect_document_id": false
     },
     {

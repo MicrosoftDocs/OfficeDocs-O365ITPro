@@ -2,13 +2,12 @@
 title: "Configure your Yammer network"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
-ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_Yammer
 ms.service: yammer
@@ -24,11 +23,11 @@ description: "Use the Yammer admin tools to set up your Yammer network. Covers o
 
 Do these basic network configuration tasks in the Yammer admin center before you invite users to use Yammer Enterprise so that all users get a consistent experience. 
   
-As you're getting started with Yammer, review the links in [Yammer admin help](../yammer-landing-page.md) for other tasks you might want to do, such as [customizing the look of your Yammer network](customize-the-look-of-yammer.md), [reviewing security and compliance settings](../manage-security-and-compliance/security-and-compliance.md), and making sure your [email system is configured properly](configure-email-and-yammer.md).
+As you're getting started with Yammer, review the links in [Yammer admin help](../index.yml) for other tasks you might want to do, such as [customizing the look of your Yammer network](customize-the-look-of-yammer.md), [reviewing security and compliance settings](../manage-security-and-compliance/security-and-compliance.md), and making sure your [email system is configured properly](configure-email-and-yammer.md).
   
 To access the Yammer network configuration tools:
   
-- In Office 365, go to **Admin** \> **Yammer** \> **Configuration**.
+- In Microsoft 365 or Office 365, go to **Admin** \> **Yammer** \> **Configuration**.
     
 - Or, in Yammer, click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) and go to **Network Admin** \> **Configuration**. 
     
@@ -36,11 +35,11 @@ To access the Yammer network configuration tools:
 <a name="NetworkName"> </a>
 
 > [!IMPORTANT] 
-> In Office 365 Yammer networks, the name in the Office 365 company profile overrides the **Network name** setting in Yammer. To change the Office 365 company profile settings, see [Change your organization's address, technical contact, and more](https://support.office.com/en-us/article/Change-your-organization-s-address-technical-contact-and-more-a36e5a52-4df2-479e-bb97-9e67b8483e10)
+> In Microsoft 365 or Office 365 Yammer networks, the name in the Microsoft 365 or Office 365 company profile overrides the **Network name** setting in Yammer. To change the company profile settings, see [Change your organization's address, technical contact, and more](https://support.office.com/en-us/article/Change-your-organization-s-address-technical-contact-and-more-a36e5a52-4df2-479e-bb97-9e67b8483e10)
 
 - On the **Configuration** page, in the **Basics** section, specify the following: 
     
-  - **Network name:** This is the friendly name of your network that is used in the Yammer header. Note that this name is overwritten by the name used in the Office 365 company profile.
+  - **Network name:** This is the friendly name of your network that is used in the Yammer header. Note that this name is overwritten by the name used in the Microsoft 365 or Office 365 company profile.
     
   - **Message prompt:** This prompt is visible at the top of each Yammer group page, under **Update**. 
     
@@ -79,7 +78,7 @@ To access the Yammer network configuration tools:
       - **Don't allow anyone to upload or attach files**: This prevents people from uploading and attaching new files; however, existing attachments are not be affected.
     
 > [!NOTE]
-> When files are stored in Yammer, there is no virus check. An admin can export the files and perform an offline virus scan on them, and this process can be automated with custom scripting.<br><br>For Office 365 connected Yammer groups that store files in SharePoint, virus checking is done as the file is uploaded. For more information, see [Virus dectection in SharePoint Online](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo).
+> When files are stored in Yammer, there is no virus check. An admin can export the files and perform an offline virus scan on them, and this process can be automated with custom scripting.<br><br>For Microsoft 365 connected Yammer groups that store files in SharePoint, virus checking is done as the file is uploaded. For more information, see [Virus dectection in SharePoint Online](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo).
 
 > [!TIP]
 > Any admin can delete any file, and group admins can delete files posted to the groups that they manage.<br><br>To delete files, a network admin can click the Yammer **Settings** icon and then click **Files**. This brings up the **Files** directory for the entire network. Group admins can delete files posted to a group by going to the **Files** tab within the group they administer. 
@@ -95,9 +94,9 @@ The growing network of partners and developers in Yammer continue to build third
     > Clearing this setting prevents users from adding or accessing these applications. Note that all users, including verified admins, will lose access to apps that were added prior to clearing this setting. 
 
     > [!NOTE]
-    > This setting does not apply to Office 365 connectors that can be added to Office 365 groups. To disable use of these connectors in Yammer, use the following PowerShell command:  
+    > This setting does not apply to Microsoft 365 or Office 365 connectors that can be added to Microsoft 365 groups. To disable use of these connectors in Yammer, use the following PowerShell command:  
     ```Set-OrganizationConfig -ConnectorsEnabledforYammer:$false```<br>
-    For more information, see [Manage Office 365 Groups with PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-groups-with-powershell).
+    For more information, see [Manage Microsoft 365 Groups with PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-groups-with-powershell).
 )
 
 <a name="TenorGIFs"> </a>

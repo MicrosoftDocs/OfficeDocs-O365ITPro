@@ -2,8 +2,8 @@
 title: "Enforce Office 365 identity for Yammer users"
 f1.keywords:
 - CSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -45,7 +45,7 @@ Below is the user's login experience when Office 365 identity is and is not enfo
     
 The following table compares the user login behavior when Office 365 Identity is enforced or not enforced. Note that Office 365 identity is not enforced by default. 
   
-|**Is Office 365 identity enforced?**|**Is there an Office 365 account for that user's email address?**|**What happens when the user logs in:**|
+| Is Office 365 identity enforced? | Is there an Office 365 account for that user's email address? | What happens when the user logs in: |
 |:-----|:-----|:-----|
 |Yes  <br/> |Yes  <br/> |The user is prompted to log in with his or her Office 365 identity.  <br/> |
 |No  <br/> |Yes  <br/> |The user is prompted to log in with his or her Office 365 identity.  <br/> |
@@ -62,7 +62,7 @@ It takes just a few steps to start enforcing Office 365 identities in Yammer. Ho
     
 You must be a global administrator on Office 365 who was synchronized to Yammer as a Verified Admin to perform these steps. To check if your account was synchronized, you can go to the **Network Admin** page on Yammer and check the **Admins** section. Global administrators will sync to Yammer only if their user principal name (UPN) in Office 365 matches a domain on Yammer. The following screenshot shows what a synced admin looks like on the Admins page in Yammer. 
   
-![Screenshot showing a Verified Admin account that is synced as a Global Administrator in Office 365](../media/2402bc0f-f2ac-435f-bdb3-be65dbf2d153.png)
+![Screenshot showing a Verified Admin account that is synced as a Global Administrator](../media/2402bc0f-f2ac-435f-bdb3-be65dbf2d153.png)
   
  If you are ready to enforce Office 365 identity in Yammer, follow the steps below. 
   
@@ -72,45 +72,45 @@ You must be a global administrator on Office 365 who was synchronized to Yammer 
     
 2. In the Security Settings page, go to the **Office 365 Identity Enforcement** section and select **Enforce Office 365 identity**. 
     
-    You must be both a Yammer verified administrator and an Office 365 global administrator to see this section. 
+    You must be both a Yammer verified administrator and a global administrator to see this section. 
     
-    ![Screenshot that shows the Enfore Office 365 identity in Yammer checkbox in the Yammer Security Setting page. You must be a verified admin in Yammer and an Office 365 global administrator to see this setting.](../media/20582918-5833-4681-a0bd-528f89ba3ebe.png)
+    ![Screenshot that shows the Enfore Office 365 identity in Yammer checkbox in the Yammer Security Setting page. You must be a verified admin in Yammer and a global administrator to see this setting.](../media/20582918-5833-4681-a0bd-528f89ba3ebe.png)
   
 3. You see a confirmation message that asks you to select the most appropriate level of enforcement: 
     
-  - **Committed Enforcement**:  Choose this option if all of your Yammer users already have an Azure Active Directory (AAD) account. 
+   - **Committed Enforcement**:  Choose this option if all of your Yammer users already have an Azure Active Directory (AAD) account. 
     
-    > [!IMPORTANT]
-    > Once you save this change, you won't be able to undo it, and your users won't be able to log in using their Yammer usernames and passwords anymore. 
+     > [!IMPORTANT]
+     > Once you save this change, you won't be able to undo it, and your users won't be able to log in using their Yammer usernames and passwords anymore. 
   
-  - **Temporary 7-Day Enforcement**: Choose this option if you're testing the enforcement of Office 365 identity on your network, and may need to revert it back. Once you save this change, a temporary enforcement period of seven days will begin, and your users won't be able to log in using their Yammer usernames and passwords anymore. After seven days, your network will automatically be committed to Office 365 Identity enforcement.
+   - **Temporary 7-Day Enforcement**: Choose this option if you're testing the enforcement of Office 365 identity on your network, and may need to revert it back. Once you save this change, a temporary enforcement period of seven days will begin, and your users won't be able to log in using their Yammer usernames and passwords anymore. After seven days, your network will automatically be committed to Office 365 Identity enforcement.
     
-    ![Screenshot of confirmation dialog box that shows the Enforcement level for Office 365 sign-in.](../media/a0927cc2-eafa-4ace-a939-a3fa27be943b.png)
+     ![Screenshot of confirmation dialog box that shows the Enforcement level for Office 365 sign-in.](../media/a0927cc2-eafa-4ace-a939-a3fa27be943b.png)
   
 4. If you want, you can automatically log out all current users, so that you can be sure that everyone using the Yammer service has logged in with their Office 365 identities. If you want to do this, select the Log out all users checkbox. If you choose to do this, we recommend that you communicate this change to your users by using the following sample email.
     
-     *Subject Line: [Action Required] Log back in to Yammer* 
+   *Subject Line: [Action Required] Log back in to Yammer* 
     
-     *Hi,* 
+   *Hi,* 
     
-     *This email is to let you know that [ORGANIZATION'S NAME] is making changes to the way we all access Yammer. If you're currently working on Yammer, then we may temporarily interrupt you by logging you out. It's necessary for us to securely set up Office 365 sign-in for Yammer.* 
+   *This email is to let you know that [ORGANIZATION'S NAME] is making changes to the way we all access Yammer. If you're currently working on Yammer, then we may temporarily interrupt you by logging you out. It's necessary for us to securely set up Office 365 sign-in for Yammer.* 
     
-     *You can resume your work immediately by logging in to Yammer using your Office 365 username and password.*
+   *You can resume your work immediately by logging in to Yammer using your Office 365 username and password.*
     
-     *We've made this change so that you can access all of Office 365 with a single identity. If you're unable to log in using your Office 365 username and password, please let your network administrator know.* 
+   *We've made this change so that you can access all of Office 365 with a single identity. If you're unable to log in using your Office 365 username and password, please let your network administrator know.* 
     
-     *Thank You,* 
+   *Thank You,* 
     
-     *[SIGNATURE]* 
+   *[SIGNATURE]* 
     
 5. If you are ready to start enforcing this setting, select **Okay**. This returns you to the Security Settings page where the **Enforce Office 365 identity in Yammer** checkbox is now selected. 
     
-    > [!NOTE]
-    > You can also select [Start blocking users who don't have Yammer licenses](../manage-yammer-users/manage-yammer-licenses-in-office-365.md#StartBlocking) to ensure that only users with Yammer licenses can login to Yammer. 
+   > [!NOTE]
+   > You can also select [Start blocking users who don't have Yammer licenses](../manage-yammer-users/manage-yammer-licenses-in-office-365.md#StartBlocking) to ensure that only users with Yammer licenses can login to Yammer. 
   
 6. Choose **Save** to save all your settings on the page. 
     
-    If you don't choose **Save** but instead navigate away from the page, your settings will not take effect. 
+   If you don't choose **Save** but instead navigate away from the page, your settings will not take effect. 
     
 ## Stop enforcing Office 365 identity in Yammer
 <a name="StopEnforcing"> </a>
@@ -124,32 +124,32 @@ When you stop enforcing Office 365 identities in Yammer:
     
 - Other users can join your network by signing up with their work email and verifying it.
     
-If you no longer want to enforce Office 365 identities, you can follow the steps below to stop. You must be both a Yammer verified admin and an Office 365 global administrator to perform these steps.
+If you no longer want to enforce Office 365 identities, you can follow the steps below to stop. You must be both a Yammer verified admin and a global administrator to perform these steps.
   
- **To stop enforcing Office 365 identity in Yammer**
+**To stop enforcing Office 365 identity in Yammer**
   
 1. In Yammer, go to the **Network Admin** section, and choose **Security Settings**.
     
 2. In the Security Settings page, go to the **Office 365 Identity Enforcement** section and clear the **Enforce Office 365 identity** checkbox. 
     
-    You see a confirmation message so you can verify that you are ready to stop enforcing Office 365 identity.
+   You see a confirmation message so you can verify that you are ready to stop enforcing Office 365 identity.
     
-    ![Screenshot of confirmation dialog box to stop enforcing Office 365 identities in Yammer. It notes that Yammer SSO will restart if it was previously configured, and that users who normally log into Yammer with Office 365 identities won't be affected.](../media/09162001-6581-41f9-b558-27673366c2a8.png)
+   ![Screenshot of confirmation dialog box to stop enforcing Office 365 identities in Yammer. It notes that Yammer SSO will restart if it was previously configured, and that users who normally log into Yammer with Office 365 identities won't be affected.](../media/09162001-6581-41f9-b558-27673366c2a8.png)
   
 3. Select **Okay** to confirm your choice. 
     
-    This returns you to the Security Settings page where the **Enforce Office 365 identity in Yammer** checkbox is now cleared. 
+   This returns you to the Security Settings page where the **Enforce Office 365 identity in Yammer** checkbox is now cleared. 
     
 4. Choose **Save** to save all your settings on the page. 
     
-    If you don't choose **Save** but instead navigate away from the page, your settings will not take effect. 
+   If you don't choose **Save** but instead navigate away from the page, your settings will not take effect. 
     
 ## FAQ
 <a name="FAQ"> </a>
 
 ### Q: Once Office 365 Identity Enforcement is set to 'Committed Enforcement', why can't I revert it back?
 
-A: Once your organization has committed to enforcing Office 365 identity and has one Office 365 tenant associated with a single Yammer network, connected groups will be enabled for this network.. In this configuration, whenever a group is created in Yammer,  a connected Office 365 group is also created, and users can take advantage of tools like SharePoint, Planner and OneNote connected to the group. At this point, reverting the **Enforce Office 365 Identity** setting will be disruptive to the user experience, since users who login with their user names and passwords cannot access these connected resources any more.
+A: Once your organization has committed to enforcing Office 365 identity and has one Office 365 tenant associated with a single Yammer network, connected groups will be enabled for this network.. In this configuration, whenever a group is created in Yammer,  a connected Microsoft 365 group is also created, and users can take advantage of tools like SharePoint, Planner and OneNote connected to the group. At this point, reverting the **Enforce Office 365 Identity** setting will be disruptive to the user experience, since users who login with their user names and passwords cannot access these connected resources any more.
   
 ### Q: How will this change impact guest and external users?
 

@@ -2,8 +2,8 @@
 title: "Prepare a Yammer network for Native Mode for Microsoft 365"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 01/21/2020
 audience: Admin
@@ -35,7 +35,7 @@ Native Mode has the following requirements:
 
 - There cannot be any unlisted private groups.
 
-- All existing groups must be Office 365 connected.
+- All existing groups must be Microsoft 365 connected.
 
 - There cannot be any external groups. Support for external groups is planned but is not available with the initial release of Native Mode.
 
@@ -49,7 +49,7 @@ The Tool prepares your network for Native Mode by disabling some features and mi
 
 - External groups in Yammer will no longer be supported, all external groups will be made internal only, and any external users in those groups will no longer have access to the group or its contents. Support for Azure B2B-based external groups is expected at a later date.
 
-- Adds the Global admin to unconnected groups that either have no owners at all or that have no owner with Office 365 Group creation rights. It does not add them to unconnected groups if the owner does have Office 365 Group creation rights.
+- Adds the Global admin to unconnected groups that either have no owners at all or that have no owner with Microsoft 365 Group creation rights. It does not add them to unconnected groups if the owner does have Microsoft 365 Group creation rights.
 
 - Connects all unconnected Yammer groups after applying the changes mentioned in the previous three bulleted items above.
 
