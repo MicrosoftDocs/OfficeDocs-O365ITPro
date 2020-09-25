@@ -18,11 +18,11 @@ description: "Learn more about frequently asked questions (FAQ) and what's updat
 ---
 # New Yammer FAQ
 
-Yammer has been completely redesigned, with dozens of new capabilities that power leadership engagement, company-wide communication, and communities in Microsoft 365. New Yammer delivers a beautiful, intelligent experience across devices and deep integration with Microsoft Teams and Outlook. As part of Microsoft 365, people can connect and share knowledge across the organization with open conversations backed by enterprise-grade privacy, security, and compliance.
+Yammer has been completely redesigned, with dozens of new capabilities that power leadership engagement, company-wide communication, and communities. New Yammer delivers a beautiful, intelligent experience across devices and deep integration with Microsoft Teams and Outlook. As part of Microsoft 365, people can connect and share knowledge across the organization with open conversations backed by enterprise-grade privacy, security, and compliance.
 
-As Microsoft’s first app built from the ground up with the Fluent Design System, new Yammer provides an engaging and easy-to-use experience on the web and in the Yammer app for Android and iOS. In addition, Yammer can be integrated with Microsoft Teams, as a Communities app in the left rail, enabling you to access organization-wide communities without leaving the hub for teamwork. Integration with Outlook lets you read, like, and reply to Yammer conversations within your Outlook inbox. Yammer also provides an updated integration experience in SharePoint Online with the  Conversations web part.
+As Microsoft’s first app built from the ground up with the Fluent Design System, new Yammer provides an engaging and easy-to-use experience on the web and in the Yammer app for Android and iOS. In addition, Yammer can be integrated with Microsoft Teams, as a Communities app in the left rail and on mobile devices, enabling you to access organization-wide communities without leaving the hub for teamwork. Integration with Outlook lets you read, like, and reply to Yammer conversations within your Outlook inbox. Yammer also provides an updated integration experience in SharePoint Online with the  Conversations web part.
  
-Building on a decade of customer success and feedback, new Yammer delivers many top customer requests. A new, personalized conversation feed powered by AI connects you with conversations across the organization. Each community can be given a unique identity with branding and cover photos. Communicators can highlight conversations with pinned posts and close discussions to prevent replies. Leaders can broadcast live and on-demand events with a new, simpler production option using webcams and desktop sharing.
+Building on a decade of customer success and feedback, new Yammer delivers many top customer requests. A new, personalized conversation feed powered by AI connects you with conversations across the organization. Each community can be given a unique identity with branding and cover photos. Communicators can highlight conversations with pinned posts and close discussions to prevent replies. Leaders can broadcast live and on-demand events with a new, simpler production option using webcams and desktop sharing that attendees can watch in Yammer, on mobile, or in the new Teams integrations.
 
 ## What’s new and different about this experience?
 
@@ -148,9 +148,9 @@ We will update this document as we launch new features and post on the Admin Mes
 
 ## How do I open a support case?
 
-Please see the [Support for business products - Admin Help page](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online) for general information. Your organization may have specific guidance for opening support cases, so you may need to talk with your IT team.
+Please see the [Support for business products - Admin Help page](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) for general information. Your organization may have specific guidance for opening support cases, so you may need to talk with your IT team.
 
-Feature requests and feedback on the product hould be submitted through the in-product feedback dialog boxes. Feedback can also be provided with peers through the [new Yammer Tech Community](https://techcommunity.microsoft.com/t5/yammer/ct-p/Yammer).
+Feature requests and feedback on the product should be submitted through the in-product feedback dialog boxes. Feedback can also be provided with peers through the [new Yammer Tech Community](https://techcommunity.microsoft.com/t5/yammer/ct-p/Yammer).
 
 ## What steps should I take before reporting a technical problem?
 
@@ -187,7 +187,7 @@ A: All languages available in classic Yammer are available in new Yammer.
 
 **Q: Can users get to new Yammer without administrator changes?**
 
-A: A global admin or a verified network admin can control whether or not users in their organization can see the toggle to opt into the new Yammer experience but users will always be able to access web.yammer.com. If your organization wants to remove all access to new Yammer, [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
+A: A global admin or a verified network admin can control whether or not users in their organization can see the toggle to opt into the new Yammer experience but users will always be able to access web.yammer.com. If your organization wants to remove all access to new Yammer, [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).
 
 **Q: I don’t want to enable the new experience for my production Yammer network yet. How can I test out the new toggle?**
  
