@@ -24,9 +24,8 @@ As a verified admin, you can erase a user from Yammer to comply with a [General 
 
 Choose the approach that makes sense for your situation, and **follow the steps in the order listed**. The order matters: once you erase a user you can no longer find their data to delete it.
 
-|||
-|:-----|:-----|
 |**Approach**|**Steps**|
+|:-----|:-----|
 |Keep all messages and files created by the user.|Remove the user by using the **Erase the user** option. This removes the user from the home network and any external networks they belong to, but does not delete any of their messages or files.|
 |Delete all messages created by the user and decide which files to delete|1. Do one per-user export of the user's data for the home network, and one for each external network they belong to.<br>2. Remove the user from each network by using the **Permanently remove this user, and remove their messages** option.<br>3. In the home network, use the **Erase the user** option.<br>4. Within 14 days, remove any files stored in Yammer in the home network as necessary, as well as any information not included in the per user export.*|
 |Review files and messages created by the user and decide which to keep and which to delete|1. Do one per-user export of the user's data for the home network, and one for each external networks they belong to. <br>2. In the home network, use the **Erase this user** option. <br>3. Within 14 days, remove any files or messages as necessary from the home network, as well as any information not included in the per user export.*|

@@ -148,7 +148,7 @@ We will update this document as we launch new features and post on the Admin Mes
 
 ## How do I open a support case?
 
-Please see the [Support for business products - Admin Help page](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online) for general information. Your organization may have specific guidance for opening support cases, so you may need to talk with your IT team.
+Please see the [Support for business products - Admin Help page](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) for general information. Your organization may have specific guidance for opening support cases, so you may need to talk with your IT team.
 
 Feature requests and feedback on the product should be submitted through the in-product feedback dialog boxes. Feedback can also be provided with peers through the [new Yammer Tech Community](https://techcommunity.microsoft.com/t5/yammer/ct-p/Yammer).
 
@@ -187,7 +187,7 @@ A: All languages available in classic Yammer are available in new Yammer.
 
 **Q: Can users get to new Yammer without administrator changes?**
 
-A: A global admin or a verified network admin can control whether or not users in their organization can see the toggle to opt into the new Yammer experience but users will always be able to access web.yammer.com. If your organization wants to remove all access to new Yammer, [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
+A: A global admin or a verified network admin can control whether or not users in their organization can see the toggle to opt into the new Yammer experience but users will always be able to access web.yammer.com. If your organization wants to remove all access to new Yammer, [contact Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).
 
 **Q: I don’t want to enable the new experience for my production Yammer network yet. How can I test out the new toggle?**
  
