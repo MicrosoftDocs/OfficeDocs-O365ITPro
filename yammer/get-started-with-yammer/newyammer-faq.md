@@ -56,7 +56,7 @@ The new Yammer experience is built fully in Fluent, the Microsoft design languag
 - Easily switch to external networks from the suite header.
 - Admins can mute a community that’s less relevant or controversial for the network, and end-users can mute a community in their feeds.
 
-and much more!
+...and much more!
 
 ## What features are not available in the new experience?
 
