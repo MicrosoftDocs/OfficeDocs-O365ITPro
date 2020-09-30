@@ -28,11 +28,11 @@ Global admins and verified network admins can now control participation in new Y
 
 ## Enable the new Yammer as opt-in
 
-Selecting this option ensures that users in your organization are able to see the **New Yammer** toggle to opt into new Yammer from the classic Yammer experience.
+This option is the new default setting for your organization. This option ensures that users in your organization are able to see the **New Yammer** toggle to opt into new Yammer from the classic Yammer experience.
 
 ![New Yammer Opt-in Toggle](../media/yammer-optin-admin-settings.png)
 
-Users would be able to opt out of the new experience at any time, using the opt-out toggle. Users would be able to opt out of the new experience at any time, using the opt-out toggle. When users opt into the new experience, they will encounter an opt-in dialog box prompting them to opt into the new Yammer experience. When they click **Let’s Go**, it opts in the user.
+Users would be able to opt out of the new experience at any time, using the opt-out toggle. When users opt into the new experience, they will encounter an opt-in dialog box prompting them to opt into the new Yammer experience. When they click **Let’s Go**, it opts in the user.
 
 ![Meet the New Yammer dialog box](../media/yammer-preview-meet-new-yammer.png)
 
@@ -40,7 +40,7 @@ If the user clicks on **Not Now**, the user will be taken to the corresponding p
 
 ## Enable the new Yammer as default
 
-Selecting this option would ensure users in your organization are able to see the **New Yammer** toggle to opt into new Yammer  from the classic Yammer experience, and users who have never tried the new experience would automatically be switched to new Yammer. 
+Selecting this option would ensure users in your organization are able to see the **New Yammer** toggle to opt into new Yammer from the classic Yammer experience, and users who have never tried the new experience would automatically be switched to new Yammer. 
 
 ![New Yammer Opt-in Toggle](../media/yammer-optin-admin-settings.png)
 
