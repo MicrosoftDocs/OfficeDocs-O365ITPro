@@ -134,7 +134,7 @@ There will be more updates to Yammer in the upcoming months. Refer to the [Micro
 
 ## How do I enable new Yammer within my organization?  
 
-Yammer global administrators and verified network admins can configure access to new Yammer through the Yammer admin portal. From there, they can enable the toggle to display in the suite header and choose the settings for managing new Yammer opt-in in their network. For more information about managing opt-in settings, see [Bring new Yammer to your organization](administrative-settings-opt-in-newyammer.md).
+Yammer global administrators and verified network admins can configure access to new Yammer through the Yammer admin portal. From there, they can enable the toggle to display in the suite header or enable new Yammer across their network. For more information about managing opt-in settings, see [Bring new Yammer to your organization](administrative-settings-opt-in-newyammer.md).
 
 ## Do you have materials available to help in rolling out the new Yammer within my organization?
 
