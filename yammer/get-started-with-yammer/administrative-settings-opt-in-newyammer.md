@@ -34,9 +34,10 @@ This option is the new default setting for your organization. This option ensure
 
 Users would be able to opt out of the new experience at any time, using the opt-out toggle. When users opt into the new experience, they will encounter an opt-in dialog box prompting them to opt into the new Yammer experience. When they click **Let’s Go**, it opts in the user.
 
-![Meet the New Yammer dialog box](../media/yammer-preview-meet-new-yammer.png)
+> [!div class="mx-imgBorder"]
+> ![Meet the New Yammer dialog box](../media/yammer-preview-meet-new-yammer.png)
 
-If the user clicks on **Not Now**, the user will be taken to the corresponding page on the classic Yammer experience.
+If the user clicks **Not Now**, the user will be taken to the corresponding page on the classic Yammer experience.
 
 ## Enable the new Yammer as default
 
