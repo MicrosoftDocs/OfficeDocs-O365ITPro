@@ -37,12 +37,12 @@ The new Yammer experience is built fully in Fluent, the Microsoft design languag
 - Pin your favorite communities to the sidebar to make them easier to find.
 - Brand your network with your company logo on the home page.
 - Make your communities shine with vibrant cover photos.
-- Customize All Company, just like any other community, by adding a cover photo and an avatar.
-- Restrict posting in All Company to make it an official company news community.
+- Customize All Company, just like any other community, by adding a cover photo and avatar.
+- Restrict posting in All Company to make it an official corporate communications channel.
 - Work with Yammer from Teams with the Teams Communities app.
 - Pin important posts at the top of your communities to ensure members see them.
 - Close conversations that have concluded.
-- Enable users to report conversations to better moderate your network.
+- Enable users to report a conversation to better moderate your network.
 - Enhanced home feed helps users discover top posts from communities, people, and topics they follow.
 - New publisher experience provides the ability to include any type of content in an announcement and to announce any type of post.
 - With new bolder conversation styling, posts, questions, and praise stand out for even greater engagement.
@@ -120,14 +120,14 @@ We are working hard to bring new features and continuous improvements to new Yam
 ### Admin experiences
 
 - Improved Admin Center in new Yammer
-- Some private content mode enhancements    
+- Private content mode enhancements    
 - Some admin permission overrides not yet respected
 
 ### General
 
 - Improved onboarding experience 
 - Improved end user settings  
-- Improved connector cards that display full content and not just the title  
+- Enhanced connector cards that display full content and not just the title  
 - New Yammer experience for desktop application users 
 
 There will be more updates to Yammer in the upcoming months. Refer to the [Microsoft 365 Roadmap](https://go.microsoft.com/fwlink/?linkid=2132131) for upcoming plans. Additionally, if you find any other gaps not listed here, please send feedback. 
@@ -143,7 +143,7 @@ Yes! The [Yammer Adoption Center](https://resources.techcommunity.microsoft.com/
 
 ## Who is eligible to access the new experience?
 
-People in your organization who sign into Yammer with Microsoft 365 will be able to view the toggle to opt in to the new experience. This will be available for canonical (home) networks only. Microsoft 365 users who participate in external networks will participate using the classic Yammer experience. Users can also access a direct link to the new experience.
+People in your organization who sign into Yammer with Microsoft 365 will be able to view the toggle to opt in to the new experience. This will be available for canonical (home) networks only. Microsoft 365 users who participate in external networks will participate using the classic Yammer experience. Users will always be able to access a direct link to the new experience.
 
 ## Will I know when additional changes are coming?
 
@@ -171,8 +171,8 @@ Before reporting a technical problem to Microsoft Support, please check the foll
 
 ## FAQ
 
-**Q: Can we opt out of new Yammer?**
-A: You can remove the toggle for your entire network through the new Yammer setting in the Yammer Admin Portal. Any users who have opted into the new Yammer experience will remain in that experience until they choose to go back to the classic experience. For more information about managing the available options, see [Bring new Yammer to your organization](administrative-settings-opt-in-newyammer.md).
+**Q: Can we opt out of new Yammer at any time?**
+A: Any users who have opted into the new Yammer experience will remain in that experience until they choose to go back to the classic experience. For more information about managing the available options, see [Bring new Yammer to your organization](administrative-settings-opt-in-newyammer.md).
 
 **Q: Will links automatically redirect to the new or classic Yammer depending on my user setting?**
 
