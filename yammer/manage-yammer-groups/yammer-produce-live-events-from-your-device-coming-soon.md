@@ -23,6 +23,14 @@ description: "Learn what's needed for Yammer users to  schedule AND view a live 
 
 # Produce Yammer live events from your device [available now]
 
+> [!IMPORTANT]
+> To help support our customers, through January 1, 2021, we will extend limit increases for live events, including:
+> - Event support for up to 20,000 attendees
+> - 50 events can be hosted simultaneously across a tenant
+> - Event duration of 16 hours per broadcast
+>
+> Additionally, live events for up to 100,000 attendees can be requested through the [Microsoft 365 live events assistance program](https://resources.techcommunity.microsoft.com/live-events/assistance/). The team will assess each request and work with you to determine options that may be available. [Learn more.](https://aka.ms/Stream/Blog/LiveEventOptions)
+
 
 ## What is new about Yammer live events?
 
@@ -43,18 +51,21 @@ For the full list of features, see [Overview of live events](yammer-live-events.
 
 ### How can I use Teams to produce an event in Yammer?
 
-1. Schedule the event
+1. Schedule the event.
 
-2. Share the event from Yammer
-![yam-](../media/yam-live-event-share-screen.png)
+2. Share the event from Yammer.
 
-3. When it's time to go live, produce/present from Teams as usual
-![yam-](../media/yam-open-teams-app.png)
-![yam-](../media/yam-teams-join.png)
-![yam-pre](../media/yam-pre-live.png)
+   ![Screenshot showing shareing the event](../media/yam-live-event-share-screen.png)
+
+3. When it's time to go live, produce/present from Teams as usual.
+
+   ![screenshot showing producing a Yammer live event](../media/yam-open-teams-app.png)
+   ![screnshot showing joining a Yammer live event](../media/yam-teams-join.png)
+   ![screenshot showing previewing a live event](../media/yam-pre-live.png)
 
 4. See the event LIVE in Yammer! All attendees can view this event directly from Yammer.
-![yam-](../media/yam-attendee-experience.png)
+
+   ![Screenshot showing viewing a live event in Yammer](../media/yam-attendee-experience.png)
 
 ### What is the difference between this feature and what is available in GA today?
 
@@ -78,7 +89,7 @@ Only Yammer admins in connected communities.
 
 You get access to all the advanced analytics available via Stream.
 
-![yam-analytics](../media/yam-analytics.png)
+![Screenshot showing live event analytics](../media/yam-analytics.png)
 
 Event producers can see the total number of watchers when the event is live. When the event is completed, the producer can see the total number of views across the lifetime of the video subject to the view count algorithm.
 
@@ -105,7 +116,7 @@ Four (4) hours.
 - In a private community, only users who are part of the event can view the event.
 - In a public community, attendees who are part of the community and any other tenant community members who come to the event page can view the event.
 
-|**Feature**|**Produced using Teams**|**Produced using Encoder**|**More info**|
+| Feature | Produced using Teams | Produced using Encoder | More info |
 |----------|----------|----------|----------|
 |Analytics|Yes|Yes|See [Analytics about your live event in Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview). See [Monitor your event](https://docs.microsoft.com/yammer/manage-security-and-compliance/track-yammer-events) for more information|
 |Schedule in Yammer|Yes|Yes|N/A|
