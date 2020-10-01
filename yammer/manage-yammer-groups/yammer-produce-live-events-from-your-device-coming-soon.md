@@ -54,15 +54,15 @@ For the full list of features, see [Overview of live events](yammer-live-events.
 1. Schedule the event
 
 2. Share the event from Yammer
-![yam-](../media/yam-live-event-share-screen.png)
+![Screenshot showing shareing the event](../media/yam-live-event-share-screen.png)
 
 3. When it's time to go live, produce/present from Teams as usual
-![yam-](../media/yam-open-teams-app.png)
-![yam-](../media/yam-teams-join.png)
-![yam-pre](../media/yam-pre-live.png)
+![screenshot showing producing a Yammer live event](../media/yam-open-teams-app.png)
+![screnshot showing joining a Yammer live event](../media/yam-teams-join.png)
+![screenshot showing previewing a live event](../media/yam-pre-live.png)
 
 4. See the event LIVE in Yammer! All attendees can view this event directly from Yammer.
-![yam-](../media/yam-attendee-experience.png)
+![Screenshot showing viewing a live event in Yammer](../media/yam-attendee-experience.png)
 
 ### What is the difference between this feature and what is available in GA today?
 
@@ -86,7 +86,7 @@ Only Yammer admins in connected communities.
 
 You get access to all the advanced analytics available via Stream.
 
-![yam-analytics](../media/yam-analytics.png)
+![Screenshot showing live event analytics](../media/yam-analytics.png)
 
 Event producers can see the total number of watchers when the event is live. When the event is completed, the producer can see the total number of views across the lifetime of the video subject to the view count algorithm.
 
