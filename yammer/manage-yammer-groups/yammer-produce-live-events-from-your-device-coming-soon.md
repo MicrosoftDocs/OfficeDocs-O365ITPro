@@ -51,18 +51,21 @@ For the full list of features, see [Overview of live events](yammer-live-events.
 
 ### How can I use Teams to produce an event in Yammer?
 
-1. Schedule the event
+1. Schedule the event.
 
-2. Share the event from Yammer
-![Screenshot showing shareing the event](../media/yam-live-event-share-screen.png)
+2. Share the event from Yammer.
 
-3. When it's time to go live, produce/present from Teams as usual
-![screenshot showing producing a Yammer live event](../media/yam-open-teams-app.png)
-![screnshot showing joining a Yammer live event](../media/yam-teams-join.png)
-![screenshot showing previewing a live event](../media/yam-pre-live.png)
+   ![Screenshot showing shareing the event](../media/yam-live-event-share-screen.png)
+
+3. When it's time to go live, produce/present from Teams as usual.
+
+   ![screenshot showing producing a Yammer live event](../media/yam-open-teams-app.png)
+   ![screnshot showing joining a Yammer live event](../media/yam-teams-join.png)
+   ![screenshot showing previewing a live event](../media/yam-pre-live.png)
 
 4. See the event LIVE in Yammer! All attendees can view this event directly from Yammer.
-![Screenshot showing viewing a live event in Yammer](../media/yam-attendee-experience.png)
+
+   ![Screenshot showing viewing a live event in Yammer](../media/yam-attendee-experience.png)
 
 ### What is the difference between this feature and what is available in GA today?
 
@@ -113,7 +116,7 @@ Four (4) hours.
 - In a private community, only users who are part of the event can view the event.
 - In a public community, attendees who are part of the community and any other tenant community members who come to the event page can view the event.
 
-|**Feature**|**Produced using Teams**|**Produced using Encoder**|**More info**|
+| Feature | Produced using Teams | Produced using Encoder | More info |
 |----------|----------|----------|----------|
 |Analytics|Yes|Yes|See [Analytics about your live event in Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview). See [Monitor your event](https://docs.microsoft.com/yammer/manage-security-and-compliance/track-yammer-events) for more information|
 |Schedule in Yammer|Yes|Yes|N/A|
