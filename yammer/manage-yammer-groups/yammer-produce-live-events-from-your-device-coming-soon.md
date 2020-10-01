@@ -23,6 +23,14 @@ description: "Learn what's needed for Yammer users to  schedule AND view a live 
 
 # Produce Yammer live events from your device [available now]
 
+> [!IMPORTANT]
+> To help support our customers, through January 1, 2021, we will extend limit increases for live events, including:
+> - Event support for up to 20,000 attendees
+> - 50 events can be hosted simultaneously across a tenant
+> - Event duration of 16 hours per broadcast
+>
+> Additionally, live events for up to 100,000 attendees can be requested through the [Microsoft 365 live events assistance program](https://resources.techcommunity.microsoft.com/live-events/assistance/). The team will assess each request and work with you to determine options that may be available. [Learn more.](https://aka.ms/Stream/Blog/LiveEventOptions)
+
 
 ## What is new about Yammer live events?
 
