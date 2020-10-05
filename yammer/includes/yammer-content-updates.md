@@ -53,3 +53,14 @@
 | 9/25/2020 | [New Yammer FAQ](/Yammer/get-started-with-yammer/newyammer-faq) | modified |
 | 9/25/2020 | [Export data from Yammer Enterprise](/Yammer/manage-security-and-compliance/export-yammer-enterprise-data) | modified |
 | 9/25/2020 | [Manage GDPR data subject requests in Yammer Enterprise](/Yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise) | modified |
+
+
+## Week of September 28, 2020
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 9/30/2020 | [Bring new Yammer to your organization](/Yammer/get-started-with-yammer/administrative-settings-opt-in-newyammer) | modified |
+| 9/30/2020 | [New Yammer FAQ](/Yammer/get-started-with-yammer/newyammer-faq) | modified |
+| 10/1/2020 | [Live events in Yammer](/Yammer/manage-yammer-groups/yammer-live-events) | modified |
+| 10/1/2020 | [Produce Yammer live events from your device](/Yammer/manage-yammer-groups/yammer-produce-live-events-from-your-device-coming-soon) | modified |
