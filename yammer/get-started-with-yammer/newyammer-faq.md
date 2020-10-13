@@ -19,7 +19,7 @@ description: "Learn more about frequently asked questions (FAQ) and what's updat
 # New Yammer FAQ
 
 > [!IMPORTANT]
-> A key change is coming in mid-October to how customers opt into new Yammer. Enable the new Yammer as opt-in will become the default setting, and the Stay in classic Yammer option will be removed as we continue to enhance the new Yammer experience.  See the [Enable the new Yammer as opt-in section in the Bring new Yammer to your organization topic](administrative-settings-opt-in-newyammer.md#enable-the-new-yammer-as-opt-in)  for more information.
+> Enable the new Yammer as opt-in is now the default setting for opting into Yammer, and the Stay in classic Yammer option has been removed as we continue to enhance the new Yammer experience. See the [Enable the new Yammer as opt-in section in the Bring new Yammer to your organization topic](administrative-settings-opt-in-newyammer.md#enable-the-new-yammer-as-opt-in)  for more information.
 
 Yammer has been completely redesigned, with dozens of new capabilities that power leadership engagement, company-wide communication, and communities. New Yammer delivers a beautiful, intelligent experience across devices and deep integration with Microsoft Teams and Outlook. As part of Microsoft 365, people can connect and share knowledge across the organization with open conversations backed by enterprise-grade privacy, security, and compliance.
 
