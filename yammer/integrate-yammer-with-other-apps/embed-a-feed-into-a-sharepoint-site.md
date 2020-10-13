@@ -100,7 +100,7 @@ The following procedures describe how to add a group feed, my feed, or page feed
    
     1. Edit the following script to use your Yammer network instead of contoso.com, and then paste it into the script editor web part.
     
-       ```
+       ```javascript
        <div id="embedded-my-feed" style="height:400px;width:500px;"></div> 
            <script type="text/javascript" src="https://c64.assets-yammer.com/assets/platform_embed.js"></script>
            <script 'type="text/javascript"> yam.connect.embedFeed({  
@@ -119,7 +119,7 @@ The following procedures describe how to add a group feed, my feed, or page feed
     
     2. Edit the following script to use your Yammer network instead of contoso.com and to use the URL to the page that you want to discuss.
     
-       ```
+       ```javascript
        <div id="embedded-feed" style="height:400px;width:500px;"></div> 
        <script type="text/javascript" src="https://assets.yammer.com/assets/platform_embed.js"></script> 
        <script type="text/javascript"> yam.connect.embedFeed({
