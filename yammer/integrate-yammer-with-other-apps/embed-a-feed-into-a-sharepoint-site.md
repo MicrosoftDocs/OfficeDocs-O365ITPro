@@ -1,4 +1,3 @@
-
 ---
 title: "Include a Yammer feed in a SharePoint page"
 f1.keywords:
