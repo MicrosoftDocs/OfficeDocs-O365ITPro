@@ -20,7 +20,7 @@ description: "Learn more about the admin settings to control user opt-in for new
 # Bring new Yammer to your organization
 
 > [!IMPORTANT]
-> A key change is coming in mid-October to how customers opt into new Yammer. Enable the new Yammer as opt-in will become the default setting, and the Stay in classic Yammer option will be removed as we continue to enhance the new Yammer experience.  See the [Enable the new Yammer as opt-in section](#enable-the-new-yammer-as-opt-in) for more information.
+> Enable the new Yammer as opt-in is now the default setting for opting into Yammer, and the Stay in classic Yammer option has been removed as we continue to enhance the new Yammer experience. See the [Enable the new Yammer as opt-in section](#enable-the-new-yammer-as-opt-in) for more information.
 
 Global admins and verified network admins can now control participation in new Yammer for your organization. Please note that only one of these settings can be selected at a time. You can go back and forth between these options but we strongly recommend understanding what selecting and unselecting each setting entails before making that choice.
 
