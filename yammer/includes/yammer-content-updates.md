@@ -64,3 +64,13 @@
 | 9/30/2020 | [New Yammer FAQ](/Yammer/get-started-with-yammer/newyammer-faq) | modified |
 | 10/1/2020 | [Live events in Yammer](/Yammer/manage-yammer-groups/yammer-live-events) | modified |
 | 10/1/2020 | [Produce Yammer live events from your device](/Yammer/manage-yammer-groups/yammer-produce-live-events-from-your-device-coming-soon) | modified |
+
+
+## Week of October 12, 2020
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 10/13/2020 | [Bring new Yammer to your organization](/Yammer/get-started-with-yammer/administrative-settings-opt-in-newyammer) | modified |
+| 10/13/2020 | [New Yammer FAQ](/Yammer/get-started-with-yammer/newyammer-faq) | modified |
+| 10/13/2020 | [Include a Yammer feed in a SharePoint page](/Yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site) | modified |
