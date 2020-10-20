@@ -18,9 +18,6 @@ description: "Learn more about frequently asked questions (FAQ) and what's updat
 ---
 # New Yammer FAQ
 
-> [!IMPORTANT]
-> Enable the new Yammer as opt-in is now the default setting for opting into Yammer, and the Stay in classic Yammer option has been removed as we continue to enhance the new Yammer experience. See the [Enable the new Yammer as opt-in section in the Bring new Yammer to your organization topic](administrative-settings-opt-in-newyammer.md#enable-the-new-yammer-as-opt-in)  for more information.
-
 Yammer has been completely redesigned, with dozens of new capabilities that power leadership engagement, company-wide communication, and communities. New Yammer delivers a beautiful, intelligent experience across devices and deep integration with Microsoft Teams and Outlook. As part of Microsoft 365, people can connect and share knowledge across the organization with open conversations backed by enterprise-grade privacy, security, and compliance.
 
 As Microsoft’s first app built from the ground up with the Fluent Design System, new Yammer provides an engaging and easy-to-use experience on the web and in the Yammer apps for Android and iOS. In addition, Yammer can be integrated with Microsoft Teams, as a Communities app in the left rail and on mobile devices, enabling you to access organization-wide communities without leaving the hub for teamwork. Integration with Outlook lets you read, like, and reply to Yammer conversations from within your Outlook inbox. Yammer also provides an updated integration experience in SharePoint Online with the  Conversations web part.
