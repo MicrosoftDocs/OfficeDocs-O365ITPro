@@ -50,7 +50,7 @@ We plan to continue updating the service to include more information not listed 
 
 ## See also
 
-[FAQ: eDiscovery](/manage-security-and-compliance/FAQ-ediscovery.mc)
+[FAQ: eDiscovery](https://docs.microsoft.com/yammer/manage-security-and-compliance/FAQ-ediscovery)
 
 [eDiscovery in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery)
 
