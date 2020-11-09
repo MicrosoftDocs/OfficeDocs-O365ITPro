@@ -2,6 +2,14 @@
 
 
 
+## Week of November 02, 2020
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 11/3/2020 | [Data residency](/Yammer/manage-security-and-compliance/data-residency) | modified |
+
+
 ## Week of October 19, 2020
 
 
@@ -21,26 +29,3 @@
 | 10/13/2020 | [Bring new Yammer to your organization](/Yammer/get-started-with-yammer/administrative-settings-opt-in-newyammer) | modified |
 | 10/13/2020 | [New Yammer FAQ](/Yammer/get-started-with-yammer/newyammer-faq) | modified |
 | 10/13/2020 | [Include a Yammer feed in a SharePoint page](/Yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site) | modified |
-
-
-## Week of September 28, 2020
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 9/30/2020 | [Bring new Yammer to your organization](/Yammer/get-started-with-yammer/administrative-settings-opt-in-newyammer) | modified |
-| 9/30/2020 | [New Yammer FAQ](/Yammer/get-started-with-yammer/newyammer-faq) | modified |
-| 10/1/2020 | [Live events in Yammer](/Yammer/manage-yammer-groups/yammer-live-events) | modified |
-| 10/1/2020 | [Produce Yammer live events from your device](/Yammer/manage-yammer-groups/yammer-produce-live-events-from-your-device-coming-soon) | modified |
-
-
-## Week of September 21, 2020
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 9/24/2020 | [Yammer administration documentation # < 60 chars](/Yammer/index) | modified |
-| 9/24/2020 | [Advanced eDiscovery in Yammer](/Yammer/manage-security-and-compliance/advanced-ediscovery) | modified |
-| 9/25/2020 | [New Yammer FAQ](/Yammer/get-started-with-yammer/newyammer-faq) | modified |
-| 9/25/2020 | [Export data from Yammer Enterprise](/Yammer/manage-security-and-compliance/export-yammer-enterprise-data) | modified |
-| 9/25/2020 | [Manage GDPR data subject requests in Yammer Enterprise](/Yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise) | modified |
