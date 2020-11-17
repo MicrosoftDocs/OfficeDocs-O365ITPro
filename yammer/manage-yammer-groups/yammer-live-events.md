@@ -11,6 +11,9 @@ ms.topic: overview
 ms.service: yammer
 localization_priority: Normal
 ms.custom: Adm_Yammer
+ms.collection:
+- m365solution-spcomms
+- m365solution-scenario
 search.appverid:
 - MET150
 - MOP150
