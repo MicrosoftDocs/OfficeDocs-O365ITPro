@@ -11,6 +11,8 @@ ms.topic: article
 ms.service: yammer
 localization_priority: Normal
 ms.custom: Adm_Yammer
+ms.collection:
+- enabler-strategic
 search.appverid: 
 - MOE150
 - MET150
