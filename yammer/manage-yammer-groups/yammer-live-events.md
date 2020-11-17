@@ -25,9 +25,13 @@ description: "Learn what's needed for group admins to host live video events for
 ---
 # Live events in Yammer
 
-
 > [!IMPORTANT]
-> Your communication needs are changing. We’re ready to help. In April, we announced that temporary default limit increases would be enabled for Microsoft 365 live events to help better support customers, through July 1st. To continue meeting the needs of customers, we will extend the temporary default limits until October 1, 2020. Live events hosted in Teams, Stream, and Yammer will continue to temporarily support events for up to 20,000 attendees, 16 hours in length, and 50 events happening simultaneously. Additionally, customers can host a live event in Stream for up to 100,000 attendees when planned though the Microsoft [live events assistance program](https://resources.techcommunity.microsoft.com/live-events/assistance/).
+> To help support our customers, through January 1, 2021, we will extend limit increases for live events, including:
+> - Event support for up to 20,000 attendees
+> - 50 events can be hosted simultaneously across a tenant
+> - Event duration of 16 hours per broadcast
+>
+> Additionally, live events for up to 100,000 attendees can be requested through the [Microsoft 365 live events assistance program](https://resources.techcommunity.microsoft.com/live-events/assistance/). The team will assess each request and work with you to determine options that may be available. [Learn more.](https://aka.ms/Stream/Blog/LiveEventOptions)
 
 To bring the members of a community together centered around an event, Yammer group admins can host a live video event including Yammer conversations before, during, and after the event.
 
