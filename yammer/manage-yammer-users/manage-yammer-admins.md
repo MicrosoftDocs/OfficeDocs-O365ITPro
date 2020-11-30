@@ -66,7 +66,7 @@ You grant and change admin roles in the Yammer admin center. In the following sc
 |**Add a network admin** <br/> | In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**, and then in the **Appoint Additional Admins** section, enter the user's name. <br/><br>  Select **Make this user an admin**, and then click **Submit**.<br/><br>   **Remove a network admin** <br/><br>  In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**, select the user's name, and then click **Remove**.  <br/> |
 
 > [!Note]
-> For managing Connected Groups in Yammer, for example, to undertake tasks like adding or removing members to a Yammer community backed by a Microsoft 365 group, Network Admins need to be Group Admins of that community.
+> For managing Connected Groups in Yammer -- for example, to undertake tasks like adding or removing members in a Yammer community backed by a Microsoft 365 Group -- Network Admins need to be Group Admins of that community.
    
 <a name="bmk_verified"> </a>
 ## Verified admin
