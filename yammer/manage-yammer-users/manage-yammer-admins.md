@@ -65,7 +65,8 @@ You grant and change admin roles in the Yammer admin center. In the following sc
 |**Who can give this role to others** <br/> |People with the global admin role, and Yammer verified admins and network admins can give other Yammer users the network admin role.  <br/> |
 |**Add a network admin** <br/> | In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**, and then in the **Appoint Additional Admins** section, enter the user's name. <br/><br>  Select **Make this user an admin**, and then click **Submit**.<br/><br>   **Remove a network admin** <br/><br>  In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**, select the user's name, and then click **Remove**.  <br/> |
 
-
+> [!Note]
+> For managing Connected Groups in Yammer, for example, to undertake tasks like adding or removing members to a Yammer community backed by a Microsoft 365 group, Network Admins need to be Group Admins of that community.
    
 <a name="bmk_verified"> </a>
 ## Verified admin
@@ -75,9 +76,6 @@ You grant and change admin roles in the Yammer admin center. In the following sc
 |**Tasks** <br/> | All tasks a network admin can do, as well as: <br/><br>- Assign verified and network admin roles.  <br/>- Manage content policies, including monitor keywords, data retention, security settings, and reading data in private groups.  <br/>  - Export data  <br/>- Perform integrations with other tools  <br/><br>  For instructions for typical tasks for verified admins, see the [Yammer admin help](../index.yml).  <br/> |
 |**Who can give this role to others** <br/> | A global admin.  <br/><br>   A Yammer verified admin.  <br/> |
 |**Add or remove verified admins, without giving them the global admin role** <br/> |1. In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**. <br/><br>2. If the user is already a network admin, their name will show up in the **Current Admins** list. Select **Grant Verified Admin**. <br/><br>  If user is not already a network admin:  <br/><br>  - In the **Appoint Additional Admins** section, search for them by name, and select **Make this user an admin**, and then click **Submit**. <br/><br>  - Find the user in the **Current Admin**s list, and click **Grant Verified Admin**. <br/><br>  **Change a verified admin who is not also a global admin to be a network admin** <br/><br>  - In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**, and in the **Current Admins** section, in the row for the admin, click **Revoke Verified Admin**.  <br/><br>  **Remove all admin roles from a verified admin who is not also an Office 365 global admin** <br/><br>  In the [Yammer admin center](https://go.microsoft.com/fwlink/?LinkId=524130), click **Admins**, and in the **Current Admins** section, in the row for the admin, click **Remove**.  <br/> |
-
-> [!Note]
-> For managing Connected Groups in Yammer, for example, to undertake tasks like adding or removing members to a Yammer community backed by a Microsoft 365 group, Network Admins need to be Group Admins of that community.
    
 <a name="bmk_global"> </a>
 ## Global admin
