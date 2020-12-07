@@ -4135,5 +4135,10 @@
       "redirect_url": "work-with-external-users",
       "redirect_document_id": false
     }
+    {
+      "source_path": "Office365-Home/index.yml",
+      "redirect_url": "https://docs.microsoft.com/microsoft-365/index",
+      "redirect_document_id": false
+    }
   ]
 }
