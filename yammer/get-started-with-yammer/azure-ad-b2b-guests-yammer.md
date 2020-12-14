@@ -107,7 +107,7 @@ If your Yammer network is provisioned after December 15th, 2020 then Azure AD B2
 > [!NOTE]
 >  Native Mode for Microsoft 365 for Yammer is a pre-requisite to enable the new B2B Guest preview.
 
-The functionality will be rolling out to existing Yammer networks in Native mode over the next couple of weeks (late December 2020) and disabled by default. Yammer network admins needs to enable guest access on their networks from the Yammer network admin settings > Security settings > External Messaging.
+The functionality will be rolling out to existing Yammer networks in Native mode over the next couple of weeks (December 2020) and disabled by default. Yammer network admins needs to enable guest access on their networks from the Yammer network admin settings > Security settings > External Messaging.
 
 ![Yammer admin panel external user settings](../media/yammer-adminpanel-externalusers-allowdeny.png)
 
