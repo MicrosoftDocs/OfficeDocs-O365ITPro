@@ -86,7 +86,7 @@ The new B2B Guest support strengthens the coherence between Yammer and other Mic
 
 We are working hard to bring all Yammer functionality to the new B2B guests in Yammer. Below is the list of features still in progress:
 
-- **Personal email, non-Microsoft 365 business emails, and phone number-based legacy accounts** – The preview will allow guests with Microsoft 365 Business email accounts. Other email domains like Gmail or Yahoo mail etc. will not be supported in this release. However, all legacy data (like old community posts and files) of such users will be migrated so community members can see. Any legacy phone-based accounts will not be supported.
+- **Personal email, non-Microsoft 365 business email, and phone number-based legacy accounts** – The preview will allow guests with Microsoft 365 Business email accounts. Other email domains like Gmail or Yahoo mail etc. will not be supported in this release. However, all legacy data (like old community posts and files) of such users will be migrated so community members can see. Any legacy phone-based accounts will not be supported.
 
 - **Cross-Geography guests** – Today we enable organizations to host Yammer in two data centers – Europe and North America. With this new guest support, users will be able to add guests from their same geography. Please check [our public roadmap](https://go.microsoft.com/fwlink/?linkid=2132131) to see timelines for Cross-Geography support.
 
@@ -102,12 +102,12 @@ We are working hard to bring all Yammer functionality to the new B2B guests in Y
 
 ## How do I enable the preview within my organization?
 
-If your Yammer network is provisioned after December 15th, 2020 then Azure AD B2B guest functionality is already enabled by default for you. Community admins in your Yammer network can add guests to the communities in your network.
+If your Yammer network is provisioned after December 15th, 2020, then Azure AD B2B guest functionality is already enabled by default for you. Community admins in your Yammer network can add guests to the communities in your network.
 
 > [!NOTE]
 >  Native Mode for Microsoft 365 for Yammer is a pre-requisite to enable the new B2B Guest preview.
 
-The functionality will be rolling out to existing Yammer networks in Native mode over the next couple of weeks (December 2020) and disabled by default. Yammer network admins needs to enable guest access on their networks from the Yammer network admin settings > Security settings > External Messaging.
+The functionality will be rolling out to existing Yammer networks in Native mode over the next couple of weeks (December 2020) and disabled by default. Yammer network admins need to enable guest access on their networks from the Yammer network **admin settings > Security settings > External Messaging.**
 
 ![Yammer admin panel external user settings](../media/yammer-adminpanel-externalusers-allowdeny.png)
 
