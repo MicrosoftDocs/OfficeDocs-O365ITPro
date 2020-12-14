@@ -50,7 +50,7 @@ Compliance is at the heart of the new guest support in Yammer. Admins can enable
 **Simplified Guest access modes:** With new B2B guests, we are simplifying available guest types. This helps users in your organization add external guests who can collaborate seamlessly just like a regular member of the community. Some legacy guest types will no longer be supported and will be automatically mapped to the new guest mode – please see details below. 
 
 
-|**#**|**Guest Mode**|**Impact**|
+| # | Guest Mode | Impact |
 |:-----|:-----|:-----|
 |1 |Thread level guest | To be discontinued; such guests will no longer be able to access threads they were added to earlier. |
 |2 |Group level guest  |To be mapped to B2B Group-level guests. |
@@ -62,7 +62,7 @@ Compliance is at the heart of the new guest support in Yammer. Admins can enable
 
 The new B2B Guest support strengthens the coherence between Yammer and other Microsoft 365 apps. We have added some new capabilities in the guest flow for Admins, Community Owners, and Guests: 
 
-- External guests can be added to any community based on the Owner/ Admin policy. 
+- External guests can be added to any community based on the Owner/Admin policy. 
 
 - Simplified guest mode – Group level guests. 
 
@@ -213,8 +213,3 @@ A: You can try out the new B2B Guest experience on your existing test network. I
 [Native Mode for Microsoft 365 for Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)
 
 [Yammer Help and Support Center for end-users](https://support.office.com/yammer)
-
-
-
-
-
