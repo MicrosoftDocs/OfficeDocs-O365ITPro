@@ -125,7 +125,7 @@ Thank you for choosing to help us shape the future of guest access in Yammer. As
 ## Yammer Preview Customer Support
 
 > [!IMPORTANT]
-> Microsoft support will provide Best Effort support for the new B2B Guest preview. You will need to raise any issues or bugs via [Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online).
+> Microsoft support will provide Best Effort support for the new B2B Guest preview. You will need to raise any issues or bugs via [Microsoft support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).
 
 When an issue occurs with only the preview and it can be reproduced by Microsoft Support, then the issue will be logged for later investigation by the Yammer product group. The support case will be closed when adequate information has been captured. It may not be possible to resolve all issues reported during the preview.
 
@@ -135,7 +135,7 @@ The Service Level Agreement for Microsoft Online Services does not apply to this
 
 ## How do I open a support case? 
 
-Please see the [Support for business products - Admin Help page](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=online) for general information. Your organization may have specific guidance for opening support cases, so you may need to talk with your IT team.
+Please see the [Support for business products - Admin Help page](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) for general information. Your organization may have specific guidance for opening support cases, so you may need to talk with your IT team.
 
 ## How should I submit feature requests and feedback? 
 
@@ -193,7 +193,7 @@ A: Yes. Admins can create dynamic membership rules for guest users in a Yammer c
 
 **Q: I don’t want to allow external users in the Yammer communities of our network. How do I disable external users from participating in our communities?**
 
-A: Yammer relies on and builds upon the [external collaboration settings](https://docs.microsoft.com/bs-latn-ba/azure/active-directory/external-identities/delegate-invitations) offered by Azure AD. We recommend that you use Azure AD controls to configure external collaboration settings. 
+A: Yammer relies on and builds upon the [external collaboration settings](https://docs.microsoft.com/azure/active-directory/external-identities/delegate-invitations) offered by Azure AD. We recommend that you use Azure AD controls to configure external collaboration settings. 
 
 If you want to deny external users from being added to Yammer communities while allowing external users to access rest of Microsoft 365 apps, use the External messaging security settings in the Yammer network admin settings page to deny community admins from adding external users. 
 
