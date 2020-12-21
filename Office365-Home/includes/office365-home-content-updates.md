@@ -2,9 +2,9 @@
 
 
 
-## Week of September 28, 2020
+## Week of December 14, 2020
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 9/28/2020 | [Manage Microsoft 365 and Office 365 # < 60 chars](/Office365/index) | modified |
+| 12/15/2020 | Manage Microsoft 365 and Office 365 # < 60 chars | removed |
