@@ -34,7 +34,7 @@ If you're new to Windows PowerShell, see [Getting started with Windows PowerShel
 6. Copy the following code into a text editor and save it as SetPlannerTenantSettings.psm1 in the "microsoft.identitymodel.clients.activedirectory.3.19.8\lib\net45" folder.
 
 ```powershell
-function Connect-AAD ()
+function Connect-AAD () 
 {
 <#
 .Synopsis
@@ -44,15 +44,16 @@ This function attempts to obtain a token from Azure Active Directory.
 .example
 $authorizationContext = Connect-AAD
 #>
+
     $authUrl = "https://login.microsoftonline.com/common" # Prod environment
     $resource = "https://tasks.office.com" # Prod environment
     $clientId = "d3590ed6-52b3-4102-aeff-aad2292ab01c"
-   
+    
     $redirectUri = "urn:ietf:wg:oauth:2.0:oob"
-    $platformParameters = New-Object "Microsoft.IdentityModel.Clients.ActiveDirectory.PlatformParameters" -ArgumentList "Always"    
-
+    $platformParameters = New-Object "Microsoft.IdentityModel.Clients.ActiveDirectory.PlatformParameters" -ArgumentList "Always"
+    
     $authentiationContext = New-Object "Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContext" -ArgumentList $authUrl, $False
-
+    
     $authenticationResult = $authentiationContext.AcquireTokenAsync($resource, $clientId, $redirectUri, $platformParameters).Result
     return $authenticationResult
 }
@@ -72,6 +73,8 @@ A valid access token of a user with tenant-level administrator privileges.
 If set to $false, disables creating iCalendar links from Microsoft Planner, and disables previously created iCalendar links.  If set to $true, enables creating iCalendar links from Microsoft Planner and re-enables any previously created iCalendar links.
 .Parameter AllowTenantMoveWithDataLoss
 If set to $true, allows the tenant to be moved to another Planner environment or region. This move will result in the tenant's existing Planner data being lost.
+.Parameter AllowRosterCreation
+If set to $true, allows the users of the tenant to create rosters as the container for a plan to facilitate ad-hoc collaboration. This setting does not restrict the use of existing roster contained plans.
 .example
 
 Set-PlannerConfiguration -AllowCalendarSharing $true
@@ -79,6 +82,10 @@ Set-PlannerConfiguration -AllowCalendarSharing $true
 .example
 
 Set-PlannerConfiguration -AllowTenantMoveWithDataLoss $true
+
+.example
+
+Set-PlannerConfiguration -AllowRosterCreation $false
 #>
     param(
         [ValidateNotNull()]
@@ -87,22 +94,27 @@ Set-PlannerConfiguration -AllowTenantMoveWithDataLoss $true
         [ValidateNotNullOrEmpty()]
         [Parameter(Mandatory=$false)][System.String]$AccessToken,
         [Parameter(Mandatory=$false, ValueFromPipeline=$true)][System.Boolean]$AllowCalendarSharing,
-        [Parameter(Mandatory=$false, ValueFromPipeline=$true)][System.Boolean]$AllowTenantMoveWithDataLoss
+        [Parameter(Mandatory=$false, ValueFromPipeline=$true)][System.Boolean]$AllowTenantMoveWithDataLoss,
+        [Parameter(Mandatory=$false, ValueFromPipeline=$true)][System.Boolean]$AllowRosterCreation
         )
-   
+    
     if(!($PSBoundParameters.ContainsKey("AccessToken"))){
         $authorizationContext = Connect-AAD
         $AccessToken = $authorizationContext.AccessTokenType.ToString() + ' ' +$authorizationContext.AccessToken
     }
-   
+    
     $flags = @{}
-   
-     if($PSBoundParameters.ContainsKey("AllowCalendarSharing")){
+    
+    if($PSBoundParameters.ContainsKey("AllowCalendarSharing")){
         $flags.Add("allowCalendarSharing", $AllowCalendarSharing);
     }
 
     if($PSBoundParameters.ContainsKey("AllowTenantMoveWithDataLoss")){
         $flags.Add("allowTenantMoveWithDataLoss", $AllowTenantMoveWithDataLoss);
+    }
+
+    if($PSBoundParameters.ContainsKey("AllowRosterCreation")){
+        $flags.Add("allowRosterCreation", $AllowRosterCreation);
     }
 
     $propertyCount = $flags | Select-Object -ExpandProperty Count
@@ -115,6 +127,7 @@ Set-PlannerConfiguration -AllowTenantMoveWithDataLoss $true
 
     Invoke-RestMethod -ContentType "application/json;odata.metadata=full" -Headers @{"Accept"="application/json"; "Authorization"=$AccessToken; "Accept-Charset"="UTF-8"; "OData-Version"="4.0;NetFx"; "OData-MaxVersion"="4.0;NetFx"} -Method PATCH -Body $requestBody $Uri
 }
+
 function Get-PlannerConfiguration
 {
 <#
@@ -126,26 +139,30 @@ This cmdlet allows users and tenant administrators to retrieve policy preference
 The URL of the Tenant-Level Settings API for the Planner instance to retrieve.
 .Parameter AccessToken
 A valid access token of a user with tenant-level administrator privileges.
+
 .example
+
 Get-PlannerConfiguration
 #>
     param(
         [ValidateNotNull()]
         [System.String]$Uri="https://tasks.office.com/taskAPI/tenantAdminSettings/Settings",
+
         [Parameter(Mandatory=$false)]
         [ValidateNotNullOrEmpty()]
         [System.String]$AccessToken
         )
-   
+    
     if(!($PSBoundParameters.ContainsKey("AccessToken"))){
         $authorizationContext = Connect-AAD
         $accessToken = $authorizationContext.AccessTokenType.ToString() + ' ' +$authorizationContext.AccessToken
     }
-   
+    
     $response = Invoke-RestMethod -ContentType "application/json;odata.metadata=full" -Headers @{"Accept"="application/json"; "Authorization"=$AccessToken; "Accept-Charset"="UTF-8"; "OData-Version"="4.0;NetFx"; "OData-MaxVersion"="4.0;NetFx"} -Method GET $Uri
-     $result = New-Object PSObject -Property @{
+    $result = New-Object PSObject -Property @{
         "AllowCalendarSharing" = $response.allowCalendarSharing
         "AllowTenantMoveWithDataLoss" = $response.allowTenantMoveWithDataLoss
+        "AllowRosterCreation" = $response.allowRosterCreation
     }
 
     return $result
