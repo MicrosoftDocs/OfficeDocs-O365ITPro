@@ -22,7 +22,7 @@ description: Learn how to solve Kaizala notification issues on certain devices.
 
 # Troubleshoot Kaizala notifications
 
-Some devices have certain notifications off by default, so you might miss notifications from Kaizala. This topic discusses how to solve these notification issues on certain devices. If you don't see your device's notification info in this list, check your device manufacturer's help pages for info on how to turn on notifications for apps on your device.
+Some devices have certain notifications off by default, so you might miss notifications from Kaizala. This article discusses how to solve these notification issues on certain devices. If you don't see your device's notification info in this list, check your device manufacturer's help pages to learn how to turn on notifications for apps.
   
 ## One Plus A3003
 
@@ -66,7 +66,7 @@ There are a couple of things you'll have to do to turn on the notifications on t
   
 1. Go to **Settings** \> **Battery**.
     
-2. Go to Kaizala and turn off **Freeze in background** \> **Automatically optimise when an abnormality is detected**.
+2. Go to Kaizala and turn off **Freeze in background** \> **Automatically optimize when an abnormality is detected**.
     
 Now allow notifications.
   
@@ -74,13 +74,13 @@ Now allow notifications.
     
 2. Go to Kaizala and turn on **Notifications** and **Priority Display**.
     
-Now auto-start for Kaizala.
+Set Kaizala to automatically start.
   
-1. Go to **Security Centre App** \> **Privacy Permissions**.
+1. Go to **Security Center App** \> **Privacy Permissions**.
     
 2. Go to **Startup Manager** and make sure **Startup in background** is turned on. 
     
-If you've tried all the above steps and are still having issues, you can try locking Kaizala in the recent apps overview panel. This will make sure that Kaizala is always running in the background. To do this, open Kaizala, hit the square (aka 'app overview') button on the navigation bar, then pull down on Kaizala to lock it into place. 
+If you've tried all the previous steps and are still having issues, you can try locking Kaizala in the recent apps overview panel. This action will make sure that Kaizala is always running in the background. To do this, open Kaizala, hit the square (**App overview**) button on the navigation bar, then select Kaizala to lock it into place. 
     
 ## Xiaomi
 
