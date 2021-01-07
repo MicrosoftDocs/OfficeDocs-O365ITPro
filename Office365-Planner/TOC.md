@@ -6,5 +6,5 @@
 ## [How to use Office 365 PowerShell to manage Microsoft Planner licenses](https://docs.microsoft.com/office365/troubleshoot/administration/how-to-use-office-365-powershell-to-manage-microsoft-planner-licenses)
 ## [Track your message center tasks in Planner](track-message-center-tasks-planner.md)
 ## [Enable your organization's Planner tenant to be moved](enable-organization-planner-tenant-move.md)
-## [Disable the creation of Roster containers in your organization's Planner tenant](disable-roster-containers.md)
+## [Disable creation of Roster containers in Microsoft Planner](disable-roster-containers.md)
 ## [Prerequisites for making Planner changes in Windows PowerShell](prerequisites-for-powershell.md)

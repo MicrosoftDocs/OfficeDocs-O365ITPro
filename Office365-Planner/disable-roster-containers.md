@@ -12,13 +12,20 @@ ms.service: o365-administration
 localization_priority: Priority
 search.appverid:
 - MET150
-description: "This article shares information on how admins can control and manage access to Planner, as well as answers to some other frequently asked questions about the management of Planner."
+description: "This article shares information on how admins can disable the creation of Roster containers."
 ---
 
 # Disable the creation of Roster containers in your organization's Planner tenant
 
 ## Roster Container Overview
-Roster containers allow for collaboration between users without the creation of an AAD group as the roster's membership is stored in Planner.
+Roster containers allow for collaboration between users without the creation of an AAD group.
+A Roster container is a simple list of members stored in Planner and can be created by any user including guest users.
+
+All members of a Roster container have the same permissions to:
+   - add/remove members to the Roster
+   - create/edit/delete tasks, the plan and the Roster itself
+
+The Roster and the plan contained by the Roster automatically self-delete when the last member is removed from the roster. This could be because all the users are removed by a member, or the last user in the roster was deleted.
 
 ## Prerequisites for making Planner changes in Windows PowerShell
 
@@ -28,7 +35,7 @@ First, you will need to follow [these](prerequisites-for-powershell.md) steps in
 
 1. Open PowerShell and run the following command to disable the creation of Roster containers in your tenant (it is enabled by default):
 
-   `Set-PlannerConfiguration --AllowRosterContainers $false`
+   `Set-PlannerConfiguration -AllowRosterContainers $false`
 
     Disabling creation will not remove or prevent the use of existing Roster container based plans.
    
