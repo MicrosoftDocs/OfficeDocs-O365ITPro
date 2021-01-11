@@ -2,6 +2,14 @@
 
 
 
+## Week of January 04, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 1/7/2021 | [Troubleshoot Kaizala notifications](/Office365/Kaizala/troubleshoot-notifications) | modified |
+
+
 ## Week of December 14, 2020
 
 
