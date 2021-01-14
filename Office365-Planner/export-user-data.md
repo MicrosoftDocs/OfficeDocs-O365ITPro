@@ -167,7 +167,7 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.CategoryDescriptions|The full set of categories for the plan.  There are six of these, which may or may not be in use.|
 |Plan.CategoryDescriptions.Index|The index of the category description (0 through 5).|
 |Plan.CategoryDescriptions.Description|The label text for the corresponding category description index value.|
-|Plan.PlanFollowers|If Plan.Container.ContainerType is Group, then this field is the Users who follow the plan. If the Plan.Container.ContainerType is Roster, then this field is the users who are members of the Roster. |
+|Plan.PlanFollowers|If Plan.Container.ContainerType is Group, then this field is the Users who follow the plan. If the Plan.Container.ContainerType is Roster, then this field is the Users who are members of the Roster. |
 |Plan.TimelineId|The feature has been deprecated.|
 |Plan.TimelineDisplaySettings|The feature has been deprecated.|
 |Plan.TimelineLockedWidth|The feature has been deprecated.|
