@@ -161,6 +161,9 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.ReferencesToPlan.ExternalId|External System's ID for this plan.|
 |Plan.ReferencesToPlan.AssociationType|The type of link to the plan, specified by the external app.|
 |Plan.ReferencesToPlan.CreatedDate|Date and time the reference object was created.|
+|Plan.ReferencesToPlan.CustomLinkText|Text that can be used when displaying the Url.|
+|Plan.ReferencesToPlan.DisplayAs|Specifies how the reference data like the Url should be presented in a user experience.|
+|Plan.ReferencesToPlan.IsCreationContext|Set to `true` if the reference was set when the Plan was created.|
 |Plan.ReferencesToPlan.OwnerAppId|ID of the app that created the reference.|
 |Plan.ReferencesToPlan.DisplayNameSegments|Breadcrumbs of the location that describes what references this plan.|
 |Plan.ReferencesToPlan.Url|Direct link to the app that references the plan.|
