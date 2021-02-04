@@ -164,8 +164,8 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.ReferencesToPlan.OwnerAppId|ID of the app that created the reference.|
 |Plan.ReferencesToPlan.DisplayNameSegments|Breadcrumbs of the location that describes what references this plan.|
 |Plan.ReferencesToPlan.Url|Direct link to the app that references the plan.|
-|Plan.CategoryDescriptions|The full set of categories for the plan.  There are six of these, which may or may not be in use.|
-|Plan.CategoryDescriptions.Index|The index of the category description (0 through 5).|
+|Plan.CategoryDescriptions|The full set of categories for the plan.|
+|Plan.CategoryDescriptions.Index|The index of the category description.|
 |Plan.CategoryDescriptions.Description|The label text for the corresponding category description index value.|
 |Plan.PlanFollowers|Users who follow the plan.
 |Plan.TimelineId|The feature has been deprecated.|
