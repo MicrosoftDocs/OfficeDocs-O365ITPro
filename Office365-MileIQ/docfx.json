@@ -46,7 +46,16 @@
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-O365ITPro",
       "feedback_product_url": "https://support.mileiq.com/hc/",
-      "searchScope": ["MileIQ"]
+      "searchScope": ["MileIQ"],
+      "contributors_to_exclude": [ 
+        "rjagiewich", 
+        "traya1", 
+        "rmca14", 
+        "claydetels19", 
+        "jborsecnik",
+        "tiburd",
+        "garycentric"
+      ],
     },
     "fileMetadata": {},
     "template": [],

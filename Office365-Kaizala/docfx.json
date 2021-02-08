@@ -43,7 +43,16 @@
       "uhfHeaderId": "MSDocsHeader-M365-IT",
       "searchScope": ["Office 365 Kaizala"],
       "feedback_system": "none",
-      "hideEdit": true
+      "hideEdit": true,
+      "contributors_to_exclude": [ 
+        "rjagiewich", 
+        "traya1", 
+        "rmca14", 
+        "claydetels19", 
+        "jborsecnik",
+        "tiburd",
+        "garycentric"
+      ],
     },
     "fileMetadata": {},
     "template": [],
