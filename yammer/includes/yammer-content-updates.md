@@ -2,6 +2,13 @@
 
 
 
+## Week of February 08, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+
+
 ## Week of January 25, 2021
 
 
