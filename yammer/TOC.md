@@ -30,6 +30,8 @@
 ### [Security and compliance overview](manage-security-and-compliance/security-and-compliance.md)
 ### [Yammer security settings](manage-security-and-compliance/yammer-security-settings.md)
 ### [Export Yammer Enterprise data](manage-security-and-compliance/export-yammer-enterprise-data.md)
+### [Learn about retention for Yammer](https://docs.microsoft.com/microsoft-365/compliance/retention-policies-yammer)
+### [Create and configure retention policies](https://docs.microsoft.com/microsoft-365/compliance/create-retention-policies)
 ### [Export Yammer Basic data](manage-security-and-compliance/export-yammer-basic-data.md)
 ### [GDPR requests: Yammer Enterprise](manage-security-and-compliance/gdpr-requests-in-yammer-enterprise.md)
 ### [GDPR requests: Yammer Basic](manage-security-and-compliance/gdpr-requests-in-yammer-basic.md)
