@@ -1,5 +1,5 @@
 ---
-title: "Enable your organization’s Planner tenant to be moved"
+title: "Prerequisites for making Planner changes in Windows PowerShell"
 f1.keywords:
 - NOCSH
 ms.author: nisteidl
