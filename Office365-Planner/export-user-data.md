@@ -139,7 +139,7 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Property |Description |
 |---|---|
 |Plan.Id|Microsoft Planner ID of the plan. |
-|Plan.Title|Title of the plan.|
+|Plan.Title|Title of the plan. <br/>*Note*: Plans with the title `RosterPlaceholderPlan_{89F9907E-D21D-4C90-A4B8-7A76CF3E6F70}` indicate that the current file represents a Roster that has been created but does not yet have a plan created inside it.|
 |Plan.Owner|Owner of the plan (a Group or User entity).|
 |Plan.Owner.Id|Microsoft Planner ID of the entity (Group or User). |
 |Plan.Owner.ExternalId|Azure Active Directory ID of the entity (Group or User).|
@@ -147,7 +147,7 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.Owner.UserPrincipalName|User Principal Name (UPN) if the owner is a user.  |
 |Plan.Owner.PrincipalType|The entity type (Group or User).|
 |Plan.Container|Container for the plan.|
-|Plan.Container.ContainerType|The type of container (Group). |
+|Plan.Container.ContainerType|The type of container (Group, Roster). |
 |Plan.Container.ExternalId|Azure Active Directory ID of the group.|
 |Plan.Container.Description|Display name of the group. |
 |Plan.CreatedDate|Date and time the plan was created.|
@@ -161,13 +161,16 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.ReferencesToPlan.ExternalId|External System's ID for this plan.|
 |Plan.ReferencesToPlan.AssociationType|The type of link to the plan, specified by the external app.|
 |Plan.ReferencesToPlan.CreatedDate|Date and time the reference object was created.|
+|Plan.ReferencesToPlan.CustomLinkText|Text that can be used when displaying the Url.|
+|Plan.ReferencesToPlan.DisplayAs|Specifies how the reference data like the Url should be presented in a user experience.|
+|Plan.ReferencesToPlan.IsCreationContext|Set to `true` if the reference was set when the Plan was created.|
 |Plan.ReferencesToPlan.OwnerAppId|ID of the app that created the reference.|
 |Plan.ReferencesToPlan.DisplayNameSegments|Breadcrumbs of the location that describes what references this plan.|
 |Plan.ReferencesToPlan.Url|Direct link to the app that references the plan.|
 |Plan.CategoryDescriptions|The full set of categories for the plan.|
 |Plan.CategoryDescriptions.Index|The index of the category description.|
 |Plan.CategoryDescriptions.Description|The label text for the corresponding category description index value.|
-|Plan.PlanFollowers|Users who follow the plan.
+|Plan.PlanFollowers|If Plan.Container.ContainerType is Group, then this field is the Users who follow the plan. If the Plan.Container.ContainerType is Roster, then this field is the Users who are members of the Roster. |
 |Plan.TimelineId|The feature has been deprecated.|
 |Plan.TimelineDisplaySettings|The feature has been deprecated.|
 |Plan.TimelineLockedWidth|The feature has been deprecated.|
