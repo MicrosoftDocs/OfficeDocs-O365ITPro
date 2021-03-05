@@ -38,7 +38,7 @@ We recommend moving your site to a modern browser like Edge or configuring your 
 
 We recommend that you communicate to your users about this change. If you have not already deployed Edge or allow users to access other modern browsers, we recommend that you do so. For technical documentation, see [Plan your deployment of Microsoft Edge](https://docs.microsoft.com/deployedge/deploy-edge-plan-deployment).
 
-If you’re looking for help on how to plan, deploy, or adopt Microsoft Edge, Microsoft offers the [FastTrack program](https://docs.microsoft.com/fasttrack/win-10-microsoft-edge-assistance-offered) for customers with 150 or more paid seats of Windows 10 Enterprise. FastTrack is available at no additional charge to customers with 150 or more paid seats of Windows 10 Enterprise. To get started, submit a [Request for Assistance with FastTrack](https://docs.microsoft.com/fasttrack/win-10-microsoft-edge-assistance-offered).
+If you’re looking for help on how to plan, deploy, or adopt Microsoft Edge, Microsoft offers the [FastTrack program](https://docs.microsoft.com/fasttrack/win-10-microsoft-edge-assistance-offered) for customers with 150 or more paid seats of Windows 10 Enterprise. To get started, submit a [Request for Assistance with FastTrack](https://docs.microsoft.com/fasttrack/win-10-microsoft-edge-assistance-offered).
 
 
 ## Related articles
