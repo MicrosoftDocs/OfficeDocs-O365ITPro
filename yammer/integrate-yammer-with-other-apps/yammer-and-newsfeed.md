@@ -2,11 +2,12 @@
 title: "SharePoint enterprise social experience - Yammer and Newsfeed"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 3/22/2018
 audience: Admin
+ms.topic: overview
 ms.service: yammer
 localization_priority: Normal
 ms.custom: Adm_Yammer

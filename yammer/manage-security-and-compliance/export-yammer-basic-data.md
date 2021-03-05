@@ -2,8 +2,8 @@
 title: "Export data from Yammer Basic"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -39,12 +39,12 @@ Each user can export their own data in Yammer Basic. It is not possible to expor
       - **Files.csv** For any file you added or modified during the specified date range, lists the Yammer ID, type of file, name, description, and path to the file in Yammer, along with metadata including the group it was posted in. 
         
         This data can be used to link directly to a Yammer file. Files.csv does not contain the actual file. If you selected to include attachments in your export, files can be found in the Files folder of the .zip file. Use the ID from Files.csv to identify a specific file in the Files folder.
-        
+      
       - **Groups.csv** For any group you created or modified during the specified date range, lists the Yammer ID, name, description, privacy status, whether the group is internal or external, link to the group, creation date, and updated date. 
-        
-       - **LikedMessages.csv** For any message you liked during the specified date range, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the full text of the message, attachments, and creation and deletion information. For announcements, includes the title of the announcement.
+      
+      - **LikedMessages.csv** For any message you liked during the specified date range, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the full text of the message, attachments, and creation and deletion information. For announcements, includes the title of the announcement.
 
-        - **Messages.csv** For any message you sent or modified during the specified date range, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the full text of the message, attachments, and creation and deletion information. For announcements, includes the title of the announcement.
+      - **Messages.csv** For any message you sent or modified during the specified date range, lists the message ID, thread ID, group ID, group name, privacy status, sender ID, name and email, the full body of the message, the full text of the message, attachments, and creation and deletion information. For announcements, includes the title of the announcement.
         
       - **Networks.csv** Lists all networks included in the export. 
         
