@@ -30,7 +30,7 @@ We recommend transitioning to the new Microsoft Edge to take advantage of all th
 
 Leading up to August 2021, we will provide multiple in-product messages to help users transition over to a new modern browser. In August 2021, users will no longer be able to access Yammer and all its integrations from Internet Explorer 11.
 
-For customers using the embedded Yammer experience (Yammer Embed) on custom-built sites, we are working on updating Embed with the new Yammer experience, but this will only be available from Internet Explorer leading up to August 2021. To get the new Yammer Embed experience in August 2021, you will need to access it from Edge or another modern browser. 
+For customers using the embedded Yammer experience (Yammer Embed) on custom-built sites, we are working on updating Embed with the new Yammer experience, but this will only be available from Internet Explorer leading up to August 2021. To get the new Yammer Embed experience in August 2021, you will need to access the site from Edge or another modern browser. 
 
 We recommend moving your site to a modern browser like Edge or configuring your site to be supported in IE mode in Edge. This will allow your users to still access all your site has to offer from a new modern browser. For more information about how to configure IE mode for your site, see [Configure IE mode policies](https://docs.microsoft.com/deployedge/edge-ie-mode-policies). 
 
@@ -38,7 +38,7 @@ We recommend moving your site to a modern browser like Edge or configuring your 
 
 We recommend that you communicate to your users about this change. If you have not already deployed Edge or allow users to access other modern browsers, we recommend that you do so. For technical documentation, see [Plan your deployment of Microsoft Edge](https://docs.microsoft.com/deployedge/deploy-edge-plan-deployment).
 
-If you’re looking for help on how to plan, deploy, or adopt Microsoft Edge, Microsoft offers the [FastTrack program](https://docs.microsoft.com/fasttrack/win-10-microsoft-edge-assistance-offered) for customers with 150 or more paid seats of Windows 10 Enterprise. FastTrack is available at no additional charge to customers with 150 or more paid seats of Windows 10 Enterprise. To get started, submit a [Request for Assistance to get started with FastTrack](https://docs.microsoft.com/fasttrack/win-10-microsoft-edge-assistance-offered) through the FastTrack site.
+If you’re looking for help on how to plan, deploy, or adopt Microsoft Edge, Microsoft offers the [FastTrack program](https://docs.microsoft.com/fasttrack/win-10-microsoft-edge-assistance-offered) for customers with 150 or more paid seats of Windows 10 Enterprise. FastTrack is available at no additional charge to customers with 150 or more paid seats of Windows 10 Enterprise. To get started, submit a [Request for Assistance to get started with FastTrack](https://docs.microsoft.com/fasttrack/win-10-microsoft-edge-assistance-offered).
 
 
 ## Related articles
