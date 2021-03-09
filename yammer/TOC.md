@@ -7,7 +7,7 @@
 ### [New Yammer FAQ](get-started-with-yammer/newyammer-faq.md)
 ### [File storage overview](get-started-with-yammer/file-storage.md)
 ### [Business-to-business (B2B) Guest support in Yammer Preview - Customer Terms and FAQ](get-started-with-yammer/azure-ad-b2b-guests-yammer.md)
-### [Adoption resources](https://resources.techcommunity.microsoft.com/yammer-adoption-resources/)
+### [Adoption resources](https://go.microsoft.com/fwlink/?linkid=2156910)
 ### [Technical community](https://techcommunity.microsoft.com/t5/Yammer/ct-p/Yammer)
 ### [Yammer blog](https://techcommunity.microsoft.com/t5/Yammer-Blog/bg-p/YammerBlog)
 ### [Yammer end user help](https://support.office.com/yammer)
