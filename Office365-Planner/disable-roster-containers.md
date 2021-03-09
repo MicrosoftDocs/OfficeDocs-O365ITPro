@@ -35,13 +35,13 @@ First, you will need to follow [these](prerequisites-for-powershell.md) steps in
 
 1. Open PowerShell and run the following command to disable the creation of Roster containers in your tenant (it is enabled by default):
 
-   `Set-PlannerConfiguration -AllowRosterContainers $false`
+   `Set-PlannerConfiguration -AllowRosterCreation $false`
 
     Disabling creation will not remove or prevent the use of existing Roster container based plans.
    
     If you’ve changed your mind and would like to allow Roster containers to be created in your tenant, run the following command.
 
-   `Set-PlannerConfiguration -AllowRosterContainers $true`
+   `Set-PlannerConfiguration -AllowRosterCreation $true`
 
    > [!NOTE]
    > You'll need to sign in using your Azure Active Directory credentials and use a local PowerShell window (not Azure Cloud Shell).
@@ -49,4 +49,4 @@ First, you will need to follow [these](prerequisites-for-powershell.md) steps in
 2. To verify your settings:
 
    - In PowerShell, run: `Get-PlannerConfiguration`.
-   - The AllowRosterContainers value returned by this command indicates whether the creation of Roster containers is allowed.
+   - The AllowRosterCreation value returned by this command indicates whether the creation of Roster containers is allowed.
