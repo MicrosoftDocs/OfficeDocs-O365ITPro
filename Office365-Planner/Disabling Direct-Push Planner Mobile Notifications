@@ -27,7 +27,7 @@ Because Planner is moving to a new system which uses a direct-push mechanism, we
 2. Push-to-Pull indicates that a string is sent through Apple/Google's services that tells the client how to retrieve the notification from a server controlled by Microsoft, without the actual contents of the notification passing through a 3rd party service. (This is the old system)
 
 > [!NOTE]
-> The switch only affects push notifications that are being sent through the new system.  If the notifications are still being sent through the old (push-to-pull) system on a tenant, the setting has no effect until the notifications are migrated there.
+> The switch only affects push notifications that are being sent through the new system.  Any notifications still being sent through the old system are unaffected by the tenant switch.
 
 > [!NOTE]
 > The effect is not instantaneous. It will take a few minutes after running the command to change the setting.
