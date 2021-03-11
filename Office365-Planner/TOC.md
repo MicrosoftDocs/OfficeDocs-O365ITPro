@@ -7,4 +7,5 @@
 ## [Track your message center tasks in Planner](track-message-center-tasks-planner.md)
 ## [Enable your organization's Planner tenant to be moved](enable-organization-planner-tenant-move.md)
 ## [Disable creation of Roster containers in Microsoft Planner](disable-roster-containers.md)
+## [Disabling Direct-Push Notifications for Your Organization](disabling-direct-push-planner-mobile-notifications.md)
 ## [Prerequisites for making Planner changes in Windows PowerShell](prerequisites-for-powershell.md)
