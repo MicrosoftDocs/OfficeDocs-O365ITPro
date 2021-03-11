@@ -1,5 +1,5 @@
 ---
-title: "Disabling Direct-Push Notifications for Your Organization"
+title: Disabling Direct-Push Notifications for Your Organization
 f1.keywords:
 - NOCSH
 ms.author: wirawlin
@@ -16,7 +16,7 @@ search.appverid:
 description: "If you are a tenant admin who wants to disable direct push mobile notifications in Planner, change this setting via Powershell"
 ---
 
-# Disabling Direct-Push Planner Mobile Notifications
+# Disabling direct-push planner mobile notifications
 
 ## Overview
 
@@ -36,7 +36,7 @@ Because Planner is moving to a new system which uses a direct-push mechanism, we
 
 First, you will need to follow [these](prerequisites-for-powershell.md) steps in order to make Planner changes in Windows PowerShell.
 
-## Disable Direct-Push Notifications
+## Disable direct-push notifications
 
 1. Open PowerShell and run the following command to disable the notifications 
 
