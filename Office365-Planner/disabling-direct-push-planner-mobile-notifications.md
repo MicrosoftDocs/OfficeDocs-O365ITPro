@@ -1,9 +1,9 @@
 ---
-title: Disabling Direct-Push Notifications for Your Organization
+title: Disabling direct-push notifications for your organization
 f1.keywords:
 - NOCSH
 ms.author: wirawlin
-author: wirawlin
+author: WiRawlinWork
 manager: arshishk
 ms.date: 03/08/2021
 audience: Admin
