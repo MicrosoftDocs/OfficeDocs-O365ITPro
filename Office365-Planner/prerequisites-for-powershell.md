@@ -33,8 +33,7 @@ If you're new to Windows PowerShell, see [Getting started with Windows PowerShel
 5. Right-click the .zip file and choose **Extract All**. Choose **Extract**. You'll end up with an unzipped folder entitled "microsoft.identitymodel.clients.activedirectory.3.19.8".
 6. Copy the following code into a text editor and save it as SetPlannerTenantSettings.psm1 in the "microsoft.identitymodel.clients.activedirectory.3.19.8\lib\net45" folder.
 
-```powershell
-function Connect-AAD () 
+```function Connect-AAD () 
 {
 <#
 .Synopsis
@@ -75,6 +74,8 @@ If set to $false, disables creating iCalendar links from Microsoft Planner, and 
 If set to $true, allows the tenant to be moved to another Planner environment or region. This move will result in the tenant's existing Planner data being lost.
 .Parameter AllowRosterCreation
 If set to $true, allows the users of the tenant to create rosters as the container for a plan to facilitate ad-hoc collaboration. This setting does not restrict the use of existing roster contained plans.
+.Parameter AllowPlannerMobilePushNotifications
+If set to $true, allows the use of direct push mobile notifications in Tenant
 .example
 
 Set-PlannerConfiguration -AllowCalendarSharing $true
@@ -86,6 +87,10 @@ Set-PlannerConfiguration -AllowTenantMoveWithDataLoss $true
 .example
 
 Set-PlannerConfiguration -AllowRosterCreation $false
+
+.example
+
+Set-PlannerConfiguration -AllowPlannerMobilePushNotifications $false
 #>
     param(
         [ValidateNotNull()]
@@ -95,7 +100,8 @@ Set-PlannerConfiguration -AllowRosterCreation $false
         [Parameter(Mandatory=$false)][System.String]$AccessToken,
         [Parameter(Mandatory=$false, ValueFromPipeline=$true)][System.Boolean]$AllowCalendarSharing,
         [Parameter(Mandatory=$false, ValueFromPipeline=$true)][System.Boolean]$AllowTenantMoveWithDataLoss,
-        [Parameter(Mandatory=$false, ValueFromPipeline=$true)][System.Boolean]$AllowRosterCreation
+        [Parameter(Mandatory=$false, ValueFromPipeline=$true)][System.Boolean]$AllowRosterCreation,
+        [Parameter(Mandatory=$false, ValueFromPipeline=$true)][System.Boolean]$AllowPlannerMobilePushNotifications
         )
     
     if(!($PSBoundParameters.ContainsKey("AccessToken"))){
@@ -115,6 +121,10 @@ Set-PlannerConfiguration -AllowRosterCreation $false
 
     if($PSBoundParameters.ContainsKey("AllowRosterCreation")){
         $flags.Add("allowRosterCreation", $AllowRosterCreation);
+    }
+
+    if($PSBoundParameters.ContainsKey("AllowPlannerMobilePushNotifications")){
+        $flags.Add("allowPlannerMobilePushNotifications", $AllowPlannerMobilePushNotifications)
     }
 
     $propertyCount = $flags | Select-Object -ExpandProperty Count
@@ -163,6 +173,7 @@ Get-PlannerConfiguration
         "AllowCalendarSharing" = $response.allowCalendarSharing
         "AllowTenantMoveWithDataLoss" = $response.allowTenantMoveWithDataLoss
         "AllowRosterCreation" = $response.allowRosterCreation
+        "AllowPlannerMobilePushNotifications" = $response.allowPlannerMobilePushNotifications
     }
 
     return $result
