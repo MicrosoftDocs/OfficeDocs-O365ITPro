@@ -33,7 +33,8 @@ If you're new to Windows PowerShell, see [Getting started with Windows PowerShel
 5. Right-click the .zip file and choose **Extract All**. Choose **Extract**. You'll end up with an unzipped folder entitled "microsoft.identitymodel.clients.activedirectory.3.19.8".
 6. Copy the following code into a text editor and save it as SetPlannerTenantSettings.psm1 in the "microsoft.identitymodel.clients.activedirectory.3.19.8\lib\net45" folder.
 
-```function Connect-AAD () 
+```powershell
+function Connect-AAD () 
 {
 <#
 .Synopsis
