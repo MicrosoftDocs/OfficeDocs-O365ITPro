@@ -55,9 +55,10 @@
 ## Work with guests and external users
 ### [Collaborate with guests in a Yammer community](work-with-external-users/collaborate-guests-external-yammer-community.md)
 ### [Work with Azure Active Directory-B2B guests in Yammer communities](get-started-with-yammer/azure-ad-b2b-guests-yammer.md)
-### [Work with external groups in non-native mode networks](work-with-external-users/create-and-manage-an-external-network.md)
+### [Work with external groups in non-native mode networks](work-with-external-users/create-and-manage-external-groups)
 ### [Add external messaging participants](work-with-external-users/add-external-participants.md)
 ### [Create and manage external groups](work-with-external-users/create-and-manage-external-groups.md)
+### [Create and manage an external network](work-with-external-users/create-and-manage-an-external-network.md)
 ### [External messaging FAQ](work-with-external-users/external-messaging-faq.md)
 ## Manage Yammer content
 ### [Report a Yammer conversation overview](manage-yammer-groups/configure-conversation-reporting.md)
