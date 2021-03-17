@@ -14,10 +14,10 @@ ms.custom: Adm_Yammer
 search.appverid: 
 - MOE150
 - MET150
-description: "Learn more about working with Azure Active Director-B2B guests in Yammer communities."
+description: "Learn more about working with Azure Active Directory-B2B guests in Yammer communities."
 ---
 
-# Work with AzureAD-B2B guests in Yammer communities
+# Work with Azure Active Directory-B2B guests in Yammer communities
 
 The Yammer guests feature allows organizations to call in experts such as vendors, suppliers or consultants from outside the organization to supercharge collaboration. Yammer networks aligned to native mode uses the Azure Active Directory Business-Business (AzureAD-B2B) guest framework to power guests. Azure Acitve Directory (Azure AD)-B2B is a secure, compliant external collaboration framework used by many apps in the Microsoft 365 suite like Microsoft SharePoint, Microsoft Outlook, and Microsoft Teams. 
 
