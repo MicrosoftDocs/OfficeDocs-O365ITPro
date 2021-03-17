@@ -167,11 +167,11 @@ landingContent:
           - text: Work with Azure Active Directory-B2B guests in Yammer communities
             url:  /Yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer
           - text: Work with  external groups in Yammer networks not aligned to native mode
-            url: /Yammer/work-with-external-users/create-and-manage-an-external-network
+            url: /Yammer/work-with-external-users/create-and-manage-external-groups
           - text: Add external participants
             url: /Yammer/work-with-external-users/add-external-participants
-          - text: Create and manage external groups
-            url: /Yammer/work-with-external-users/create-and-manage-external-groups
+          - text: Create and manage external network
+            url: /Yammer/work-with-external-users/create-and-manage-an-external-network
           - text: Disable external messaging
             url: /Yammer/work-with-external-users/disable-external-messaging
       - linkListType: overview
