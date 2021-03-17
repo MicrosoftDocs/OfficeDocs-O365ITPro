@@ -61,9 +61,9 @@ When you create a group, you can decide if it is an internal or external group. 
     
 5. Choose who can view conversations and post messages.
     
-  - For a public group, select **Approved members from other networks and anyone in this network**.
+   - For a public group, select **Approved members from other networks and anyone in this network**.
     
-  - For a private group, select **Only group members**.
+   - For a private group, select **Only group members**.
     
 6. Click **Create Group**.
     
@@ -87,7 +87,8 @@ When you communicate with outside partners, suppliers, or customers, you want to
     >[!NOTE]
     >The data export reflects the current view of the network. For example, if a user was added, but then removed before the report was created, that user won't appear in the report.
   
-    ![Screenshot of an example data export file](../media/90261f3d-0629-4fb6-bb42-33ed7eb3e99a.png)
+    > [!div class="mx-imgBorder"]![image](https://user-images.githubusercontent.com/5432776/111544864-6191ed00-8732-11eb-95a1-5deb8b3f1114.png)
+    > ![Screenshot of an example data export file](../media/90261f3d-0629-4fb6-bb42-33ed7eb3e99a.png)
   
     Column **D** (external_participants) lists the users in other networks that participate in threads in your network, along with their name, email address, and the network ID of the Yammer network they belong to.
 
