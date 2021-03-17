@@ -116,8 +116,6 @@ If an external participants no longer wants to participate, they can unsubscribe
     
 ## Related articles
 
-[Find external participants in a Yammer network](find-external-participants.md)
-  
 [External Yammer participants FAQ](external-messaging-faq.md)
   
 [Disable external messaging in a Yammer network](disable-external-messaging.md)
