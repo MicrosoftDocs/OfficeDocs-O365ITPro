@@ -64,15 +64,15 @@ To configure Azure AD, Microsoft 365 Groups and SharePoint settings, see [Collab
 
 5.	Everyone in the Yammer community can identify easily who is a guest. An External badge appears next to the guest in Yammer community posts, comments, community membership page, and search results. The Yammer community with guests will also have a Globe icon next to it. 
 
-    ![Screenshot showing a post from an external user](../media/yammer-aad-b2b--externaluser-post.png)
+    ![Screenshot showing a post from an external user](../media/yammer-aad-b2b-externaluser-post.png)
 
     The Yammer community with guests will also have a Globe icon next to it.
 
-    ![Screenshot showing external community with a globe icon](../media/yammer-aad-b2b--externaluser-post.png)
+    ![Screenshot showing external community with a globe icon](../media/yammer-aad-b2b-external-globe.png)
 
 6. Guests can leave the Yammer community at any time by hovering over the Joined button in the community header.
 
-     ![Screenshot showing external community with a globe icon](../media/yammer-aad-b2b-yammer-aad-b2b-external-community-leave.png)
+     ![Screenshot showing the button to leave an external community](../media/yammer-aad-b2b-external-community-leave.png)
 
     > [!NOTE]
     > Leaving the Yammer community doesn't remove the guest account from your organization's directory. This must be done by a Microsoft 365 global admin or an Azure AD admin.
