@@ -20,7 +20,9 @@ description: "Learn about external groups in Yammer and how to opt out if you do
 
 # Work with external groups in Yammer networks not aligned to native mode
 
-You can work external users in Yammer if your network isn’t aligned to native mode by creating an external group. This experience differs from working with the Yammer guest experience, which is powered by Azure Active Directory B2B and requires native mode. For a comparison of collaboration experiences, see [Collaborate with guests in a Yammer community]((../work-with-external-users/collaborate-guests-external-yammer-community.md).
+You can work with external users in Yammer if your network isn’t aligned to native mode by creating an external group. You can also limit and turn off collaboration in external groups.
+
+This experience differs from working with the Yammer guest experience, which is powered by Azure Active Directory B2B and requires native mode. For a comparison of experiences, see [Collaborate with guests in a Yammer community]((../work-with-external-users/collaborate-guests-external-yammer-community.md).
 
 ## Create and manage external groups in Yammer
 
@@ -67,7 +69,7 @@ When you create a group, you can decide if it is an internal or external group. 
     
 You can find external groups in your network the same way you find external users. For more information, see [Find external messaging participants in a Yammer network](find-external-participants.md).
 
-# Find external messaging participants in a Yammer network
+## Find external messaging participants in a Yammer network
 
 When you communicate with outside partners, suppliers, or customers, you want to make sure only authorized personnel have access to the information on your Yammer network. Verified admins can use data export to find the names of [external participants](add-external-participants.md) to see which conversations and files in their network are visible to external participants.
 
@@ -89,26 +91,42 @@ When you communicate with outside partners, suppliers, or customers, you want to
   
     Column **D** (external_participants) lists the users in other networks that participate in threads in your network, along with their name, email address, and the network ID of the Yammer network they belong to.
 
-If you want to remove an external participant, you can use the information from the list to go to the conversation they're included in and remove them from the conversation. See [Remove an external participant from a conversation](add-external-participants.md#RemoveExternal).
+If you want to remove an external participant, you can use the information from the list to go to the conversation they're included in and remove them from the conversation. 
 
-[Add external participants to your Yammer conversations](add-external-participants.md)
+## Disable external messaging in a Yammer network
 
+By default for Yammer Enterprise networks in the US Geo, users can add external participants to their Yammer conversations and Yammer communities and groups, and members of your Yammer network can participate in another company's Yammer network if invited. If needed, you can turn off this external collaboration.
 
+1. In the Yammer admin center, go to **Content and Security** \> **Security Settings**.
+    
+2. In the **External Messaging** section, select the option that makes sense for your organization: 
 
+     -  **Allow users in this network to participate in groups or conversations in other networks, and allow external users to participate in groups or conversations in this network.**    
+   
+     - **Allow users in this network to participate in groups or conversations in other networks, but don't allow external users to participate in groups or conversations in this network.**     
+   
+     - **Don't allow users in this network to participate in groups or conversations in other networks, and don't allow external users to participate in groups or conversations in this network.**
 
+ ## What each option does
 
+| Option | Users can participate in other networks <sup>1</sup> | External participants can participate in groups and conversations <sup>2</sup> |
+|--------|-------------------------------|----------------|
+|**Allow users in this network to participate in groups or conversations in other networks, and allow external users to participate in groups or conversations in this network.**| Yes | Yes|
+|**Allow users in this network to participate in groups or conversations in other networks, but don't allow external users to participate in groups or conversations in this network.** | Yes | No|
+|**Don't allow users in this network to participate in groups or conversations in other networks, and don't allow external users to participate in groups or conversations in this network.**| No | No|
 
+1. When you prevent users from being able to participate in other networks:
 
+    - Users are blocked from receiving invitations from Yammer networks on other domains.
 
+2. When you disable external access to your groups and conversations:
 
+    - When a user tries to add an external participant in Yammer, the user receives an error message stating that they are unable to add external participants because it violates their company's policy. The user will not be allowed to post the message. 
 
+    - Any current external participants are blocked from using external conversations or threads that they may have been participating in.
 
+    - No new external groups can be created. 
 
-
-
-
-
-  
 ## FAQ
 <a name="OptOut"> </a>
 
