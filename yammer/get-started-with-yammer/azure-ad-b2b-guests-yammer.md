@@ -19,7 +19,7 @@ description: "Learn more about working with Azure Active Director-B2B guests in 
 
 # Work with AzureAD-B2B gGuests in Yammer communities
 
-The Yammer guests feature allows organizations to call in experts such as vendors, suppliers or consultants from outside the organization to supercharge collaboration. Yammer networks aligned to native mode uses the Azure Active Directory Business-Business (AzureAD-B2B) guest framework to power guests. AzureAD-B2B is a secure, compliant external collaboration framework used by many apps in the Microsoft 365 suite like Microsoft SharePoint, Microsoft Outlook, and Microsoft Teams. 
+The Yammer guests feature allows organizations to call in experts such as vendors, suppliers or consultants from outside the organization to supercharge collaboration. Yammer networks aligned to native mode uses the Azure Active Directory Business-Business (AzureAD-B2B) guest framework to power guests. Azure Acitve Directory (Azure AD)-B2B is a secure, compliant external collaboration framework used by many apps in the Microsoft 365 suite like Microsoft SharePoint, Microsoft Outlook, and Microsoft Teams. 
 
 Any Microsoft 365 user who is not part of your organization can be added as guest to a Yammer community by a Community admin.  AzureAD-B2B guests in Yammer communities are covered by the same compliance and auditing protection as the rest of Microsoft 365, and can be managed within Azure AD. Guest access is subject to Azure AD and Microsoft 365 or Office 365 service limits.
 
