@@ -26,7 +26,7 @@ Any Microsoft 365 user who is not part of your organization can be added as gues
 
 ## Pre-requisites for adding an external user as AzureAD-B2B guest to a Yammer community
 
-A Yammer network should be aligned to native mode before inviting an external user as a AzureAD-B2B guest to a Yammer community. Inviting a guest requires configuring settings in Yammer and other Microsoft 365 services, including settings in Azure AD, Microsoft 365 Groups, and SharePoint. 
+A Yammer network should be aligned to native mode before inviting an external user as an AzureAD-B2B guest to a Yammer community. Inviting a guest requires configuring settings in Yammer and other Microsoft 365 services, including settings in Azure AD, Microsoft 365 Groups, and SharePoint. 
 
 If your organization is ready to start inviting guests to Yammer communities, then configure the following settings.
 

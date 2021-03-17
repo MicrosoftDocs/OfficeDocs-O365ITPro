@@ -35,7 +35,7 @@ There are two methods of working with guests, depending on how your organization
 
 ## Learn more about guests and external networks
 
-Yammer guests allows organizations to call in experts such as vendors, suppliers, or consultants from outside the organization. Yammer networks aligned to native mode use Azure Active Directory Business-Business (AzureAD-B2B), a secure, compliant external collaboration framework, to power guests To learn more about AzureAD-B2B guests in Yammer, visit AzureAD-B2B guests in Yammer.
+The Yammer guests feature allows organizations to call in experts such as vendors, suppliers, or consultants from outside the organization. Yammer networks aligned to native mode use Azure Active Directory Business-Business (AzureAD-B2B), a secure, compliant external collaboration framework, to power guests To learn more about AzureAD-B2B guests in Yammer, visit AzureAD-B2B guests in Yammer.
 
 To work with external users, if your organization isn’t using native mode, you can create an external group. You must create the group as an external group--you can't change an existing internal group to be an external group. To learn more about guests in non-native Yammer networks, visit  here.
 
