@@ -1,9 +1,9 @@
 ---
-title: "Create and manage external groups in Yammer"
+title: "Work with external groups in Yammer networks not aligned to native mode"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -18,11 +18,15 @@ ms.assetid: 9ccd15ce-0efc-4dc1-81bc-4a424ab6f92a
 description: "Learn about external groups in Yammer and how to opt out if you don't want external groups."
 ---
 
-# Create and manage external groups in Yammer
+# Work with external groups in Yammer networks not aligned to native mode
 
-You can create a group that includes external users, called an external group. You must create the group as an external group - you can't change an existing internal group to be an external group.
+You can work external users in Yammer if your network isn’t aligned to native mode by creating an external group. This experience differs from working with the Yammer guest experience, which is powered by Azure Active Directory B2B and requires native mode. For a comparison of collaboration experiences, see [Collaborate with guests in a Yammer community]((../work-with-external-users/collaborate-guests-external-yammer-community.md).
+
+## Create and manage external groups in Yammer
+
+You can create a group that includes external users, which is called an external group. You must create the group as an external group - you can't change an existing internal group to be an external group.
   
-The group admin can add external users to the group. In public external groups, other users in the group can suggest that adding an external user, but the group admin has control over whether that user is added, and has to approve the addition of the external member. In private external groups, only the admin can add external members.
+The group admin can add external users to the group. In public external groups, other users in the group can suggest adding an external user, but the group admin has control over whether that user is added, and has to approve the addition. In private external groups, only the admin can add external members.
   
 External groups look different than internal Yammer groups, so you can easily distinguish which groups have external participants. The group header for an external group shows that additional networks are participating in the group.
   
