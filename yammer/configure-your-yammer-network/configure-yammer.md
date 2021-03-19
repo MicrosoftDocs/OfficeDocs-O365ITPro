@@ -78,7 +78,7 @@ To access the Yammer network configuration tools:
       - **Don't allow anyone to upload or attach files**: This prevents people from uploading and attaching new files; however, existing attachments are not be affected.
     
 > [!NOTE]
-> When files are stored in Yammer, there is no virus check. An admin can export the files and perform an offline virus scan on them, and this process can be automated with custom scripting.<br><br>For Microsoft 365 connected Yammer groups that store files in SharePoint, virus checking is done as the file is uploaded. For more information, see [Virus dectection in SharePoint Online](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo).
+> When files are stored in Yammer, there is no virus check. An admin can export the files and perform an offline virus scan on them, and this process can be automated with custom scripting.<br><br>For Microsoft 365 connected Yammer groups that store files in SharePoint, virus checking is done as the file is uploaded. For more information, see [Virus dectection in SharePoint Online](/office365/securitycompliance/virus-detection-in-spo).
 
 > [!TIP]
 > Any admin can delete any file, and group admins can delete files posted to the groups that they manage.<br><br>To delete files, a network admin can click the Yammer **Settings** icon and then click **Files**. This brings up the **Files** directory for the entire network. Group admins can delete files posted to a group by going to the **Files** tab within the group they administer. 
@@ -96,7 +96,7 @@ The growing network of partners and developers in Yammer continue to build third
     > [!NOTE]
     > This setting does not apply to Microsoft 365 or Office 365 connectors that can be added to Microsoft 365 groups. To disable use of these connectors in Yammer, use the following PowerShell command:  
     ```Set-OrganizationConfig -ConnectorsEnabledforYammer:$false```<br>
-    For more information, see [Manage Microsoft 365 Groups with PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-groups-with-powershell).
+    For more information, see [Manage Microsoft 365 Groups with PowerShell](/office365/enterprise/powershell/manage-office-365-groups-with-powershell).
 )
 
 <a name="TenorGIFs"> </a>
@@ -139,4 +139,4 @@ When this is enabled, users will see a **Translate** option right under any mess
 
 System messages notify users of important actions in the network and conversations, such as creating a new group or adding people to a conversation. Changing the language will display future system messages in the selected language. Prior system messages will remain in the existing language.
 
-- On the **Configuration** page, under **Set System Language**, choose the language to use.  
+- On the **Configuration** page, under **Set System Language**, choose the language to use.

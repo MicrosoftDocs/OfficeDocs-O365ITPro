@@ -70,11 +70,11 @@ You can also automate this task by using PowerShell.
     > [!IMPORTANT]
     > This step is necessary, because if Office 365 sign-in is not enforced, users can still sign in with their Yammer credentials, if they have them. 
   
-2. See [View account license and service details with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=829181) to list what a user's license includes, and the actual names used for each service within the license. For example, it is YAMMER_ENTERPRISE for Yammer in most Office 365 plans. 
+2. See [View account license and service details with Office 365 PowerShell](/microsoft-365/enterprise/view-account-license-and-service-details-with-microsoft-365-powershell) to list what a user's license includes, and the actual names used for each service within the license. For example, it is YAMMER_ENTERPRISE for Yammer in most Office 365 plans. 
     
     The PowerShell for listing service details for all users in a tenant is also included.
     
-3. See [Disable access to services with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?LinkID=717080) for detailed instructions for how to disable services, including Yammer, for one, or many users. 
+3. See [Disable access to services with Office 365 PowerShell](/microsoft-365/enterprise/disable-access-to-services-with-microsoft-365-powershell) for detailed instructions for how to disable services, including Yammer, for one, or many users. 
     
 ## Related articles
 

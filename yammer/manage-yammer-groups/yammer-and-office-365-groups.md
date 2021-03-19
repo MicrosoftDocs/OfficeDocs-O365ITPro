@@ -39,11 +39,11 @@ Microsoft 365 connected groups have many advantages over non-connected Yammer gr
 - Manage who can create Microsoft 365 groups ([Manage who can create Groups](https://support.office.com/article/manage-who-can-create-office-365-groups-4c46c8cb-17d0-44b5-9776-005fced8e618))
 - Use dynamic groups to automatically update group membership from Azure Active Directory ([Create a dynamic group](../manage-yammer-groups/create-a-dynamic-group.md))
 - Edit group membership from various apps. Changes to membership made in one Microsoft 365 app apply to other Microsoft 365 apps.
-- Use data classification to create your own classifications of Microsoft 365 groups, such as unclassified, corporate confidential, or top secret. ([Configuring group settings](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-settings-cmdlets))
+- Use data classification to create your own classifications of Microsoft 365 groups, such as unclassified, corporate confidential, or top secret. ([Configuring group settings](/azure/active-directory/users-groups-roles/groups-settings-cmdlets))
 - See the group in the Global Address List (GAL) in Outlook.
 - Monitor group usage with the Microsoft 365 groups activity report. ([Microsoft 365 Groups activity report](https://support.office.com/article/Office-365-Reports-in-the-admin-center-Office-365-groups-a27f1a99-3557-4f85-9560-a28e3d822a40))
 - Create optional groups naming policies. ([Microsoft 365 Groups naming policy](https://support.office.com/article/office-365-groups-naming-policy))
-- Use the optional group expiration policy to help clean up unused groups. See [Microsoft 365 Group Expiration Policy](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)
+- Use the optional group expiration policy to help clean up unused groups. See [Microsoft 365 Group Expiration Policy](/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)
 - Use planned additional features that will only be available with connected groups. This includes getting local data center residency for newly uploaded files that are stored in SharePoint. ([Microsoft 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914))
   
 ## Yammer configuration required to use Microsoft 365 connected groups
@@ -115,7 +115,7 @@ A: In the Yammer admin center, go to **Network Admin** > **Security Settings**. 
   
 ### Q: Can I disable Microsoft 365 Yammer connected groups?
   
-A: No, but you can [Manage who can create Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups). These restrictions do not apply to tenant admins.
+A: No, but you can [Manage who can create Groups](/office365/admin/create-groups/manage-creation-of-groups). These restrictions do not apply to tenant admins.
 
 ### Q: If I restrict who can create Microsoft 365 groups for my tenant, will the groups that restricted users create in Yammer be Microsoft 365 connected?
   
@@ -127,7 +127,7 @@ A: No. The Microsoft 365 connected Yammer groups experience will work only for O
   
 ### Q: I don't want my existing groups to get connected to Microsoft 365. Can I turn this off?
   
-A: No, but you can [[Manage who can create Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups), which will also apply to the conversion of existing groups. Only groups with at least one admin with group creation privileges can be connected to Microsoft 365.
+A: No, but you can [[Manage who can create Groups](/office365/admin/create-groups/manage-creation-of-groups), which will also apply to the conversion of existing groups. Only groups with at least one admin with group creation privileges can be connected to Microsoft 365.
 
 If you apply new a creation policy, this will not retroactively change groups that are already connected to Microsoft 365. This will only impact new groups moving forward.
 
@@ -155,7 +155,7 @@ A: Yes. This requires using PowerShell. Use the following cmdlet:
 
 ```Set-UnifiedGroup -Identity [group_name] -HiddenFromAddressListsEnabled $true```
 
-For more information about Set-UnifiedGroup, see [Set-UnifiedGroup](https://technet.microsoft.com/library/mt238274(v=exchg.160).aspx).
+For more information about Set-UnifiedGroup, see [Set-UnifiedGroup](/powershell/module/exchange/set-unifiedgroup).
 
 ### Q: Where can I create Microsoft 365 connected Yammer groups?
   
@@ -206,7 +206,7 @@ Note that Yammer group names can't contain the following characters: @, #, [, ],
 
 ### Q: Only some of my groups were converted to Microsoft 365 groups. How do I get the rest of them converted?
 
-When the automated conversion happened, it didn't convert groups that didn't meet the eligibility criteria. You can make the needed changes to make those groups eligible, and then [create a support ticket](https://docs.microsoft.com/office365/admin/contact-support-for-business-products) to get them converted.
+When the automated conversion happened, it didn't convert groups that didn't meet the eligibility criteria. You can make the needed changes to make those groups eligible, and then [create a support ticket](/office365/admin/contact-support-for-business-products) to get them converted.
 
 Before opening the support ticket:
 
@@ -228,6 +228,6 @@ To find this information, you can do a data export and look in the groups.csv fi
 
 [Delete a community or group in Yammer](https://support.office.com/article/2a70a1f9-d081-488e-9fc7-0f7684e5a58b)
 
-[Manage who can create Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
+[Manage who can create Groups](/office365/admin/create-groups/manage-creation-of-groups)
 
 [Export data from Yammer Enterprise](../manage-security-and-compliance/export-yammer-enterprise-data.md)

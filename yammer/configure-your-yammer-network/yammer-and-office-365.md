@@ -240,4 +240,4 @@ Even after you move into a 1 tenant: 1 network configuration, you could accident
   
 A: This can happen if your network is in an unsupported configuration with 1 tenant and many Yammer networks. For more information, read about the [1 tenant: many Yammer networks scenario](#OneTenantManyNetworks).
 
-You can either [consolidate your Yammer networks](consolidate-multiple-yammer-networks.md), or change the user's account, as explained in [A Yammer user is displayed as former member when you use Office 365 sign in for Yammer](https://go.microsoft.com/fwlink/?LinkId=871019).
+You can either [consolidate your Yammer networks](consolidate-multiple-yammer-networks.md), or change the user's account, as explained in [A Yammer user is displayed as former member when you use Office 365 sign in for Yammer](../troubleshoot-problems/yammer-user-is-displayed-as-former-member.md).

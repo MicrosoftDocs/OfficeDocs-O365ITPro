@@ -110,7 +110,7 @@ For information about how to export all Yammer data for a secondary network, see
 
 Use the sample communication below to let everyone on the secondary networks know the purpose of the change, the timing, what information will be kept, and the group structure in the primary network. Recommend that users save information they want to keep before the migration start date, such as files and data in conversations. Let primary network users know that more people are joining.
 
-To communicate with all users on a network, you can use the Yammer **All Company** group, or, to contact people by email, for Yammer Enterprise, you can export the Yammer users list. For instructions, see [Export data from Yammer Enterprise](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data). For Yammer Basic, there is not a way to get all email addresses. In both Yammer Enterprise and Yammer Basic, you can get all email addresses in a specific group. For instructions, see [Export Yammer group members to a .csv file](https://support.office.com/article/export-yammer-group-members-to-a-csv-file-201a78fd-67b8-42c3-9247-79e79f92b535).
+To communicate with all users on a network, you can use the Yammer **All Company** group, or, to contact people by email, for Yammer Enterprise, you can export the Yammer users list. For instructions, see [Export data from Yammer Enterprise](../manage-security-and-compliance/export-yammer-enterprise-data.md). For Yammer Basic, there is not a way to get all email addresses. In both Yammer Enterprise and Yammer Basic, you can get all email addresses in a specific group. For instructions, see [Export Yammer group members to a .csv file](https://support.office.com/article/export-yammer-group-members-to-a-csv-file-201a78fd-67b8-42c3-9247-79e79f92b535).
   
 ### Sample pre-migration communication to people currently using secondary Yammer networks
 
@@ -215,6 +215,6 @@ We're ready to start collaborating more efficiently! Please sign in to Yammer to
 
 [Add Yammer basic domains to your Office 365 tenant](add-basic-domains-to-office-365.md)
 
-[Manage Microsoft 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-with-office-365-powershell)
+[Manage Microsoft 365 PowerShell](/office365/enterprise/powershell/manage-office-365-with-office-365-powershell)
   
 [External messaging](../work-with-external-users/add-external-participants.md)
