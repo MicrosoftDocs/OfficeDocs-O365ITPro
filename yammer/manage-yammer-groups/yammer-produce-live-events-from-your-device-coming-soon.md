@@ -99,13 +99,13 @@ Yes, both are required.
 
 Yammer has partnered with both Teams and Stream to provide the best technology for running your live event. Because of this, creation and production of webinar style live events require Stream and Teams licenses and specific permissions. These permissions are not controlled in Yammer settings and a network admin will have to enable these permissions and they will have to be enabled for both Stream and Teams.
 
-- **Stream**: For steps to grant or remove permissions in Stream, see [Administration controls for live events in Stream](https://go.microsoft.com/fwlink/?linkid=2117155).
+- **Stream**: For steps to grant or remove permissions in Stream, see [Administration controls for live events in Stream](/stream/live-event-administration).
 
-- **Teams**: For requirements, see [Who can create and schedule live events in Teams](https://go.microsoft.com/fwlink/?linkid=2117055). For steps to set policies, see [Set up for live events in Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2117054).
+- **Teams**: For requirements, see [Who can create and schedule live events in Teams](/microsoftteams/teams-live-events/plan-for-teams-live-events). For steps to set policies, see [Set up for live events in Microsoft Teams](/microsoftteams/teams-live-events/set-up-for-teams-live-events).
 
 ### How many concurrent viewers can watch this event?
 
-Currently, live events support up to 10,000 concurrent viewers. For more information, see [Microsoft Stream live event overview](https://docs.microsoft.com/stream/live-event-overview).
+Currently, live events support up to 10,000 concurrent viewers. For more information, see [Microsoft Stream live event overview](/stream/live-event-overview).
 
 ### What is the maximum duration of an event?
 
@@ -118,12 +118,12 @@ Four (4) hours.
 
 | Feature | Produced using Teams | Produced using Encoder | More info |
 |----------|----------|----------|----------|
-|Analytics|Yes|Yes|See [Analytics about your live event in Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview). See [Monitor your event](https://docs.microsoft.com/yammer/manage-security-and-compliance/track-yammer-events) for more information|
+|Analytics|Yes|Yes|See [Analytics about your live event in Microsoft Stream](/stream/live-event-overview). See [Monitor your event](../manage-security-and-compliance/track-yammer-events.md) for more information|
 |Schedule in Yammer|Yes|Yes|N/A|
 |Produce in Yammer|No|Yes|N/A|
 |Attendees view event in Yammer|Yes|Yes|N/A|
 |Attendees view event in Stream|Yes|Yes|N/A|
-|Attendees view event in Teams|No|No|At this time, events scheduled from Yammer cannot be viewed in Teams. If you're looking to produce and view your Live Event in Teams only, then we recommend you use Teams Live events to fulfill this scenario! For more information on events produced and viewed exclusively in Teams, see [What are Microsoft Teams live events](https://go.microsoft.com/fwlink/?linkid=2117154).|
+|Attendees view event in Teams|No|No|At this time, events scheduled from Yammer cannot be viewed in Teams. If you're looking to produce and view your Live Event in Teams only, then we recommend you use Teams Live events to fulfill this scenario! For more information on events produced and viewed exclusively in Teams, see [What are Microsoft Teams live events](/microsoftteams/teams-live-events/what-are-teams-live-events).|
 |Yammer event feed|Yes|Yes|N/A|
 |Q&A support|Yes|Yes|N/A|
 |Share event using attendee link|Yes|Yes|N/A|
@@ -151,6 +151,6 @@ Four (4) hours.
 
 [Microsoft Teams live event overview](https://support.office.com/article/microsoft-teams-live-events-overview-d077fec2-a058-483e-9ab5-1494afda578a)
 
-[Microsoft Stream live event overview](https://docs.microsoft.com/stream/live-event-overview)
+[Microsoft Stream live event overview](/stream/live-event-overview)
 
 [Get help producing a live event](https://support.office.com/article/0cedb557-cbe4-40d3-8147-112633f087eb)

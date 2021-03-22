@@ -25,10 +25,10 @@ You plan to add or migrate a network domain from one Office 365 tenant to anothe
 
 This is expected behavior. Migrating Yammer networks across Office 365 tenants isn't supported. For more information, see the following Microsoft websites:
 
-- The "Network migration" section of [Administration and security features in Yammer](https://technet.microsoft.com/library/administration-and-security-features-in-yammer.aspx).
+- The "Network migration" section of [Administration and security features in Yammer](/office365/servicedescriptions/yammer-service-description/administration-and-security-features-in-yammer).
 
-- [Yammer admin help](https://docs.microsoft.com/yammer/yammer-landing-page?redirectSourcePath=%252fen-us%252farticle%252fmanage-the-yammer-service-in-office-365-f1629b2c-5b22-4375-b1db-8b9c2cd5ca3c)
+- [Yammer admin help](/yammer/yammer-landing-page)
 
 ## More information
 
-You can consolidate multiple Yammer networks, when the domains are verified in the same tenant. For more information, see [Network migration - Consolidate multiple Yammer networks](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+You can consolidate multiple Yammer networks, when the domains are verified in the same tenant. For more information, see [Network migration - Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md).

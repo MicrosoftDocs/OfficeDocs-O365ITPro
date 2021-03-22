@@ -44,11 +44,11 @@ You can [Add a Yammer feed to a Skype Meeting Broadcast](https://support.office.
 
 ## Yammer Connect
 
-The [Yammer connector](https://docs.microsoft.com/connectors/yammer/) is a host of social plug‐ins that gives you the flexibility to extend Yammer's social functionality across enterprise applications. 
+The [Yammer connector](/connectors/yammer/) is a host of social plug‐ins that gives you the flexibility to extend Yammer's social functionality across enterprise applications. 
   
 ## Yammer and Flow
 
-[Microsoft Flow](https://docs.microsoft.com/flow/) can be used with Yammer.  
+[Microsoft Flow](/flow/) can be used with Yammer.  
 
 - For a list of Flow templates for connecting Flow and Yammer, see [Flow Yammer templates](https://flow.microsoft.com/connectors/shared_yammer/yammer/). Examples include using an RSS feed to send news to a Yammer group, posting to Yammer if new tweets match with a hashtag, posting to SharePoint when a message is posted in a group, posting to Yammer for a selected item or when a new item is posted in SharePoint, sending email when a new message is posted, and posting to Yammer from Facebook and Twitter.
 

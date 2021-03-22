@@ -50,7 +50,7 @@ Because migration deletes files and the process is irreversible, we suggest you:
 
 ## Admin step-by-step experience
 
-1. Export all files. Learn more about how to [Export Yammer Enterprise data](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data#find-and-delete-specific-messages-or-files).
+1. Export all files. Learn more about how to [Export Yammer Enterprise data](../manage-security-and-compliance/export-yammer-enterprise-data.md#find-and-delete-specific-messages-or-files).
 
 2. Start the **Microsoft 365 Alignment Tool**.
 

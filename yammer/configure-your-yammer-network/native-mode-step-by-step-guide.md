@@ -29,7 +29,7 @@ The following steps show you what actions to take before and during a transition
 
 Once you are ready to align your network to Native Mode, you’ll need to make sure that your Microsoft tenant has just one Yammer Network associated with it.  If you have more than one Yammer Network on your Microsoft tenant, you’ll first need to complete the steps listed in [Consolidate multiple Yammer networks](../configure-your-yammer-network/consolidate-multiple-yammer-networks.md).
 
-After you have ensured that there is just one Yammer Network in your Microsoft tenant, you will need to ensure that that network enforces Microsoft 365 Identity. Additional information on enforcing Identity can be found in [Enforce Microsoft 365 Identity](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity).
+After you have ensured that there is just one Yammer Network in your Microsoft tenant, you will need to ensure that that network enforces Microsoft 365 Identity. Additional information on enforcing Identity can be found in [Enforce Microsoft 365 Identity](./enforce-office-365-identity.md).
 
 ## 2. Accessing the Native Mode Alignment Tool
 
@@ -121,4 +121,3 @@ It is possible that your error report may contain errors that are not found in t
 
 
 
- 

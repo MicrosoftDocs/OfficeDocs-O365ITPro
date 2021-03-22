@@ -86,7 +86,7 @@ When a Yammer feed is added using this method, the feed can't be viewed when usi
 
 ### Step 2: Copy and edit the script to use
 
-The following procedures describe how to add a group feed, my feed, or page feed. For information about other feed types, see [Yammer Embed](https://go.microsoft.com/fwlink/?LinkID=524147). You can also use the Yammer Embed configuration tool to create the script to use. See [Add the Yammer Embed widget to a SharePoint page](https://go.microsoft.com/fwlink/?LinkID=525587) for how to use the configuration tool. 
+The following procedures describe how to add a group feed, my feed, or page feed. For information about other feed types, see [Yammer Embed](https://go.microsoft.com/fwlink/?LinkID=524147). You can also use the Yammer Embed configuration tool to create the script to use. See [Add the Yammer Embed widget to a SharePoint page](/SharePoint/administration/add-the-yammer-embed-widget-to-a-sharepoint-page) for how to use the configuration tool. 
   
  **Prepare the script for a group feed**
   
@@ -134,11 +134,11 @@ The following procedures describe how to add a group feed, my feed, or page feed
       > [!NOTE]
       > You can also change the height and width parameters to the height and width you prefer. 
 
-     This example shows an open graph feed for a web page, but you can create feeds for other open-graph objects. The list of valid object types is at [Schema \> Supported Object Types](https://go.microsoft.com/fwlink/?LinkId=525586). If you are interested in using the Yammer Embed widget to add Yammer feeds to your SharePoint pages, see [Add the Yammer Embed widget to a SharePoint page](https://go.microsoft.com/fwlink/?LinkId=525587).
+     This example shows an open graph feed for a web page, but you can create feeds for other open-graph objects. The list of valid object types is at [Schema \> Supported Object Types](https://go.microsoft.com/fwlink/?LinkId=525586). If you are interested in using the Yammer Embed widget to add Yammer feeds to your SharePoint pages, see [Add the Yammer Embed widget to a SharePoint page](/SharePoint/administration/add-the-yammer-embed-widget-to-a-sharepoint-page).
     
 ### Step 3: Paste the script in, and publish the SharePoint page. 
 
 - On the SharePoint page, paste in the script, and then click **Publish**.
     
 >[!NOTE]
->For the Highlights (Classic mode) and the Yammer embed script experiences, when you add a Yammer My Feed/Home feed to a SharePoint page, you'll see slightly different messages than the ones included in the Home feed available in Yammer web, desktop, or mobile. The following feed for users will contain messages from people, topics, and files they follow. The My Feed will contain messages from All Company and the user's following feed. In Yammer web, desktop, and mobile, users can select Discovery, All, or Following feeds, but these aren't available in SharePoint pages. The My Feed/Home feed type is closest to the All feed but doesn't include public posts in public groups the user doesn't belong to.<br><br>Yammer does not have to be the social collaboration tool for SharePoint in order to embed a Yammer feed, but if you want to make Yammer the primary social experience for SharePoint, see [Integrate Yammer with on-premises SharePoint environments](https://docs.microsoft.com/sharepoint/administration/integrate-yammer-with-on-premises-sharepoint-server-environments). 
+>For the Highlights (Classic mode) and the Yammer embed script experiences, when you add a Yammer My Feed/Home feed to a SharePoint page, you'll see slightly different messages than the ones included in the Home feed available in Yammer web, desktop, or mobile. The following feed for users will contain messages from people, topics, and files they follow. The My Feed will contain messages from All Company and the user's following feed. In Yammer web, desktop, and mobile, users can select Discovery, All, or Following feeds, but these aren't available in SharePoint pages. The My Feed/Home feed type is closest to the All feed but doesn't include public posts in public groups the user doesn't belong to.<br><br>Yammer does not have to be the social collaboration tool for SharePoint in order to embed a Yammer feed, but if you want to make Yammer the primary social experience for SharePoint, see [Integrate Yammer with on-premises SharePoint environments](/sharepoint/administration/integrate-yammer-with-on-premises-sharepoint-server-environments).

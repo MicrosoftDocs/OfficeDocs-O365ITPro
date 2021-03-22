@@ -48,7 +48,7 @@ Before you can run the audit script, you create an input file that contains the 
   
 ## Find status of Yammer users in Office 365
 
-1. Install and configure the Azure Active Directory Module for Windows PowerShell. For instructions on this, read the following document: [Azure AD Help](https://go.microsoft.com/fwlink/?LinkId=722402).
+1. Install and configure the Azure Active Directory Module for Windows PowerShell. For instructions on this, read the following document: [Azure AD Help](/previous-versions/azure/jj151815(v=azure.100)).
     
 2. Copy the following sample code, paste it into a text editor like Notepad, and then save the file as UserMatchToAzureAD.ps1.
     
@@ -125,5 +125,3 @@ Param(
 2. After you have completed these operations, we recommend that you run these steps again from the start to confirm all the users are now found in Office 365 and Azure AD.
     
 If you are enforcing Office 365 identity, then after a full audit you may want to consider logging off all current users, so that you can be sure that everyone is now logging in with their Office 365 credentials, and not using cached credentials. If you choose to do this, ensure that this is communicated to your users. More information in [Enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md).
-  
-
