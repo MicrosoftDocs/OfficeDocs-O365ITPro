@@ -68,7 +68,7 @@ Key responsibilities of the group admin are:
 Your corporate communications team or senior team members are most likely to fit these roles. Add these users as admins to the group under the **Users** tab.
 
 > [!TIP]
-> - You can set up RSS feeds to automatically post organizational content from across channels such as social media, websites and blogs. Follow [these steps here](https://docs.microsoft.com/kaizala/businesssolutions/corporatecommunications/getrssfeedsonkaizala/displayrssfeedsinkaizalagroups). <br> 
+> - You can set up RSS feeds to automatically post organizational content from across channels such as social media, websites and blogs. Follow [these steps here](/kaizala/businesssolutions/corporatecommunications/getrssfeedsonkaizala/displayrssfeedsinkaizalagroups). <br> 
 >- Consider creating separate groups for company employees, suppliers, and partners. This will allow you to send relevant content to each group depending on the group members. 
 
 

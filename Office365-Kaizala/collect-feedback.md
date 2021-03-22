@@ -56,10 +56,9 @@ To collect feedback, design a custom Kaizala Action through the Action Designer 
 7. At this moment, the action is in draft state.
 8. You need to publish the action. To publish an action:
    - When your action is successfully uploaded, it is available in draft state.
-   - You need to stage the uploaded version in order to [test and debug](https://docs.microsoft.com/kaizala/actions/test) your action.
+   - You need to stage the uploaded version in order to [test and debug](/kaizala/actions/test) your action.
    - After you have tested your action, you can activate the action. The action moves to the active state.
-   - Read more about the [lifecycle of a Kaizala Action](https://docs.microsoft.com/kaizala/actions/actionlifecycle).
+   - Read more about the [lifecycle of a Kaizala Action](/kaizala/actions/actionlifecycle).
 
 
 *Next>* [Digitize everyday tasks](digitize-tasks.md)
-
