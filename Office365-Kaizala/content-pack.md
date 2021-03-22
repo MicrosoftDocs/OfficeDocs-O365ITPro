@@ -62,6 +62,4 @@ Make sure Power BI is part of your Office 365 subscription. You'll have to sign 
 
 Once you have imported data from the Kaizala content pack, it is within your Power BI instance. Power BI provides a rich set of visualizations to connect your data, resulting in a unique view of the report. You can also import third-party visuals to create custom reports for your organization.
   
-To learn more about the Power BI feature set, see [Power BI's Guided Learning](https://docs.microsoft.com/power-bi/guided-learning/) resources. 
-  
-
+To learn more about the Power BI feature set, see [Power BI's Guided Learning](/power-bi/guided-learning/) resources. 

@@ -32,7 +32,7 @@ Microsoft Intune has now been integrated into Kaizala. You can now use it to pro
     
 - Ensure devices and apps are compliant with organization's security requirements.
     
-Check out more info about [Intune](https://go.microsoft.com/fwlink/?linkid=867592).
+Check out more info about [Intune](/mem/intune/fundamentals/what-is-intune).
   
 ## Turn on Intune for Kaizala
 
@@ -53,5 +53,3 @@ Now go to the Kaizala app.
 1. Go to **Profile** \> **Linked accounts** \> **Work Account**, and sign in with your Azure Active Directory account(Azure AD).
     
 2. Once you're logged in the app with your Azure AD, you should see the policies getting applied on Kaizala.
-    
-
