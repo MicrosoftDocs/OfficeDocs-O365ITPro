@@ -118,7 +118,7 @@ The user file name will be prefixed with "User" and the Microsoft Planner ID of 
 |User.FavoritePlans|Bookmark for plans the user has favorited.|
 |User.FavoritePlans.Id|Microsoft Planner ID of the plan.|
 |User.FavoritePlans.BookmarkName|Name assigned to the bookmark.|
-|User.FavoritePlans.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
+|User.FavoritePlans.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](/graph/api/resources/planner-order-hint-format).|
 |User.RecentPlans|Plans recently opened by the user.|
 |User.RecentPlans.Id|Microsoft Planner ID of the plan.|
 |User.RecentPlans.BookmarkName|Name assigned to the bookmark.|
@@ -129,7 +129,7 @@ The user file name will be prefixed with "User" and the Microsoft Planner ID of 
 |User.AssignedTaskOrdering|Sorting order for tasks assigned to the user.|
 |User.AssignedTaskOrdering.PlanId|Microsoft Planner ID of the plan that contains the task.|
 |User.AssignedTaskOrdering.Id|Microsoft Planner ID of the task.|
-|User.AssignedTaskOrdering.Order|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
+|User.AssignedTaskOrdering.Order|Used for sorting order. See [Using order hints in Microsoft Planner](/graph/api/resources/planner-order-hint-format).|
 |User.AssignedTaskOrdering.Title|The title of the task.|
 
 ## Plan files
@@ -184,7 +184,7 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.Tasks.DueDate|Date the task is scheduled to complete.|
 |Plan.Tasks.ConversationThreadId|Conversation unique identifier from Microsoft Exchange.|
 |Plan.Tasks.PreviewType|Preview that is displayed on the task card.|
-|Plan.Tasks.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
+|Plan.Tasks.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](/graph/api/resources/planner-order-hint-format).|
 |Plan.Tasks.CreatedBy|User that created the task. See User properties for more detail.|
 |Plan.Tasks.CreatedDate|Date the task was created.|
 |Plan.Tasks.CompletedBy|User that completed the task. See User properties for more detail.|
@@ -195,14 +195,14 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.Tasks.TaskDetailsId |Unique identifier of the details object for the task.|
 |Plan.Tasks.Description|Description of the task.|
 |Plan.Tasks.AssignedToTaskBoardFormatId|Unique identifier for the object that is the task board format.|
-|Plan.Tasks.AssignedToTaskBoardFormatUnassignedOrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
+|Plan.Tasks.AssignedToTaskBoardFormatUnassignedOrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](/graph/api/resources/planner-order-hint-format).|
 |Plan.Tasks.AssignedToTaskBoardFormatOrderHintsByAssignee|Order hint for each of the assignees.|
 |Plan.Tasks.AssignedToTaskBoardFormatOrderHintsByAssignee.AssignedTo:|The user that is assigned the task. See User properties for more detail.|
 |Plan.Tasks.AssignedToTaskBoardFormatOrderHintsByAssignee.Order|Ordering of the tasks specified by assignee in the Assigned To view.|
 |Plan.Tasks.BucketTaskBoardFormatId|Unique identifier for the object that is the bucket task board format.|
-|Plan.Tasks.BucketTaskBoardFormatOrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
+|Plan.Tasks.BucketTaskBoardFormatOrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](/graph/api/resources/planner-order-hint-format).|
 |Plan.Tasks.ProgressTaskBoardFormatId|Unique identifier for the object when grouped by progress instead of bucket format. |
-|Plan.Tasks.ProgressTaskBoardFormatOrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
+|Plan.Tasks.ProgressTaskBoardFormatOrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](/graph/api/resources/planner-order-hint-format).|
 |Plan.Tasks.TimelineFormatId|The feature has been deprecated.|
 |Plan.Tasks.TimelineFormatShowOnTimeline|The feature has been deprecated.|
 |Plan.Tasks.TimelineFormatAnchorPosition|The feature has been deprecated.|
@@ -226,7 +226,7 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.Tasks.Checklist|The checklist for the task.|
 |Plan.Tasks.Checklist.Id|Unique identifier of a checklist item.|
 |Plan.Tasks.Checklist.Title|Name of the checklist item.|
-|Plan.Tasks.Checklist.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
+|Plan.Tasks.Checklist.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](/graph/api/resources/planner-order-hint-format).|
 |Plan.Tasks.Checklist.IsChecked|If true, the checklist item has been completed.|
 |Plan.Tasks.Checklist.ModifiedBy|The user that last updated the checklist. See [User properties](#user-properties-in-the-plansjson-file) for more detail.|
 |Plan.Tasks.Checklist.ModifiedDate|Date the checklist was last updated.|
@@ -235,7 +235,7 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.Buckets  |Bucket objects for the plan.|
 |Plan.Buckets.Id|Unique identifier for the bucket.|
 |Plan.Buckets.Title|Name of the bucket.|
-|Plan.Buckets.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
+|Plan.Buckets.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](/graph/api/resources/planner-order-hint-format).|
 |Plan.Buckets.Createdby|The user that created the bucket. See [User properties](#user-properties-in-the-plansjson-file) for more detail.|
 |Plan.Buckets.CreatedDate|Date the bucket was created.|
 |Plan.Buckets.ModifiedBy|The user that last updated the bucket. See [User properties](#user-properties-in-the-plansjson-file) for more detail.|

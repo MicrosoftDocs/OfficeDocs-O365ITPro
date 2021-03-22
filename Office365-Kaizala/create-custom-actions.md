@@ -58,7 +58,7 @@ To create a new Kaizala Action:
    - Request for user's location as part of the response.
 5. You can further customize the Response View, Immersive View, and Chat view.
 6. After you are done, click or tap **Submit**. Users will now be able to see the detail page of the new action. At this moment, the action is in draft state.
-7. Finally, publish the action. Learn about [the publishing process](https://docs.microsoft.com/kaizala/actions/publish#steps-to-publish-an-action).
+7. Finally, publish the action. Learn about [the publishing process](/kaizala/actions/publish#steps-to-publish-an-action).
 
 ## Step 2 – Add a Kaizala Action to a group
 

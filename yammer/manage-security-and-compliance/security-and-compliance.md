@@ -85,11 +85,11 @@ A: Only users with a valid and verified company email address can join your Yamm
 
 A: As of October 22, 2018, all Yammer users need to be able to access *.yammer.com. Do not use a list of IP address ranges to control access to Yammer since these may change and create access problems for users. For information about the October 2018 change, see [Using hard-coded IP addresses for Yammer is not recommended](https://techcommunity.microsoft.com/t5/Yammer-Blog/Using-hard-coded-IP-addresses-for-Yammer-is-not-recommended/ba-p/276592).
 
-For complete Office 365 URL and IP address ranges info, see [Office 365 endpoints](https://docs.microsoft.com/office365/enterprise/office-365-endpoints).
+For complete Office 365 URL and IP address ranges info, see [Office 365 endpoints](/office365/enterprise/office-365-endpoints).
 
 ### Q: Where is the data hosted?
 
-A: Yammer data is hosted in Microsoft managed datacenters. See [Where is your data located](https://go.microsoft.com/fwlink/?LinkId=869423) to find the data centers for the country in which your company is located. Yammer is operated out of Microsoft's global network of data centers with 24/7/365 video surveillance, biometric and pin-based locks, strict personnel access controls and detailed visitor entry logs.
+A: Yammer data is hosted in Microsoft managed datacenters. See [Where is your data located](/microsoft-365/enterprise/o365-data-locations) to find the data centers for the country in which your company is located. Yammer is operated out of Microsoft's global network of data centers with 24/7/365 video surveillance, biometric and pin-based locks, strict personnel access controls and detailed visitor entry logs.
 
 For more information, see [Yammer data residency](data-residency.md).
 
@@ -157,7 +157,7 @@ A: No. Yammer does not mine or sell any customer data. All data belongs to the c
 
 A: In Yammer Enterprise, verified admins can export messages and uploaded files that are stored in Yammer, along with their metadata. The data export can also include any content that has been deleted, if the **Archive** data retention option has been configured.
 
-Yammer files that are stored in SharePoint must be exported by using Office 365 content search and export. Use [Content Search in Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search) to find the files, and then [Export the Content Search Results](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Yammer files that are stored in SharePoint must be exported by using Office 365 content search and export. Use [Content Search in Office 365](/office365/securitycompliance/content-search) to find the files, and then [Export the Content Search Results](/office365/securitycompliance/export-search-results).
 
 ### Q: What are Yammer's business continuity features?
 

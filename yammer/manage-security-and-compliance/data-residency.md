@@ -62,6 +62,6 @@ Customers with a minimum of 10,000 licensed users can have their Yammer Enterpri
 
 ## Related articles
 
-[Where is your Microsoft 365 or Office 365 data located](https://go.microsoft.com/fwlink/?linkid=2083810)
+[Where is your Microsoft 365 or Office 365 data located](/microsoft-365/enterprise/o365-data-locations)
 
-[How do I tell where my Yammer files are being stored?](https://support.office.com/article/how-do-i-tell-where-my-yammer-files-are-being-stored-fadfdefa-e00d-40b6-94cb-a9ddb171a443) 
+[How do I tell where my Yammer files are being stored?](https://support.office.com/article/how-do-i-tell-where-my-yammer-files-are-being-stored-fadfdefa-e00d-40b6-94cb-a9ddb171a443)

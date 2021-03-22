@@ -63,7 +63,7 @@ When you remove a domain from Office 365, the domain is immediately removed from
 
 For instructions, follow the steps in [Remove a domain from Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c).
 
-If instead you want to consolidate multiple domains into one Yammer network, see [Consolidate multiple Yammer networks](https://docs.microsoft.com/Yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) and [FAQ: Consolidating multiple Yammer networks](https://docs.microsoft.com/Yammer/configure-your-yammer-network/faq-consolidate-multiple-yammer-networks).
+If instead you want to consolidate multiple domains into one Yammer network, see [Consolidate multiple Yammer networks](./consolidate-multiple-yammer-networks.md) and [FAQ: Consolidating multiple Yammer networks](./faq-consolidate-multiple-yammer-networks.md).
 
 ## Change the network name displayed in the left navigation in Yammer
 
@@ -111,7 +111,7 @@ These additional networks could be free Yammer Basic networks created by employe
 
 - Domain on Yammer network2: northwind.com
 
-This configuration is no longer supported as of October 16, 2018. For more information, see [Consolidate multiple Yammer networks](https://docs.microsoft.com/Yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) and [FAQ: Consolidating multiple Yammer networks](https://docs.microsoft.com/Yammer/configure-your-yammer-network/faq-consolidate-multiple-yammer-networks).
+This configuration is no longer supported as of October 16, 2018. For more information, see [Consolidate multiple Yammer networks](./consolidate-multiple-yammer-networks.md) and [FAQ: Consolidating multiple Yammer networks](./faq-consolidate-multiple-yammer-networks.md).
 
 Beginning December 2019, if you add an [external domain with a Yammer Basic network](add-basic-domains-to-office-365.md) (“Basic network”) to your Office 365 tenant, we must disassociate the domain from the basic network in order to associate the domain with the primary network for your O365 tenant. The basic network is then queued for deletion.
 
@@ -126,4 +126,3 @@ For example:
 - Verified domains on the Office 365 tenant2: northwind.onmicrosoft.com, northwind.com
 
 - Domains on Yammer network: contoso.com, northwind.com
-  

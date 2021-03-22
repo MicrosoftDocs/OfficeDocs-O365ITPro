@@ -1,4 +1,3 @@
-
 # [Yammer](index.yml)
 ## Get started with Yammer
 ### [Admin key concepts](get-started-with-yammer/admin-key-concepts.md)
@@ -29,8 +28,8 @@
 ### [Security and compliance overview](manage-security-and-compliance/security-and-compliance.md)
 ### [Yammer security settings](manage-security-and-compliance/yammer-security-settings.md)
 ### [Export Yammer Enterprise data](manage-security-and-compliance/export-yammer-enterprise-data.md)
-### [Learn about retention for Yammer](https://docs.microsoft.com/microsoft-365/compliance/retention-policies-yammer)
-### [Create and configure retention policies](https://docs.microsoft.com/microsoft-365/compliance/create-retention-policies)
+### [Learn about retention for Yammer](/microsoft-365/compliance/retention-policies-yammer)
+### [Create and configure retention policies](/microsoft-365/compliance/create-retention-policies)
 ### [Export Yammer Basic data](manage-security-and-compliance/export-yammer-basic-data.md)
 ### [GDPR requests: Yammer Enterprise](manage-security-and-compliance/gdpr-requests-in-yammer-enterprise.md)
 ### [GDPR requests: Yammer Basic](manage-security-and-compliance/gdpr-requests-in-yammer-basic.md)
@@ -72,9 +71,9 @@
 ### [Mute a community for your organization in new Yammer](https://support.microsoft.com/office/840b305d-d23e-491b-a0e3-cfe904408ed3)
 ### [Mute a community in your Home Feed and discovery emails in new Yammer](https://support.microsoft.com/office/381d9b92-4d02-43cc-a191-35e135b18e88)
 ### [Report a Yammer conversation overview](manage-yammer-groups/configure-conversation-reporting.md)
-### [All Company now works like other Yammer communities](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)
+### [All Company now works like other Yammer communities](./manage-yammer-groups/yammer-all-company-yammer-community.md)
 ### [Restrict All Company posts in Yammer](https://support.office.com/article/3219d2ae-db15-4c9f-9dd2-28559ae39a97)
-### [Groups naming policy](https://docs.microsoft.com/office365/admin/create-groups/groups-naming-policy)
+### [Groups naming policy](/office365/admin/create-groups/groups-naming-policy)
 ### [Export members to a CSV file](https://support.office.com/article/14e809e7-b1e3-44b2-9734-6c46aaa5dff9-)
 ## Live events in Yammer
 ### [Live events overview](manage-yammer-groups/yammer-live-events.md)
@@ -84,18 +83,18 @@
 ### [Produce Yammer live events from your device](manage-yammer-groups/yammer-produce-live-events-from-your-device-coming-soon.md)
 ### [Get help producing an event](https://support.office.com/article/0cedb557-cbe4-40d3-8147-112633f087eb)
 ## Monitor Yammer usage
-### [Yammer activity report](https://docs.microsoft.com/office365/admin/activity-reports/yammer-activity-report)
-### [Yammer groups activity report](https://docs.microsoft.com/office365/admin/activity-reports/yammer-groups-activity-report)
+### [Yammer activity report](/office365/admin/activity-reports/yammer-activity-report)
+### [Yammer groups activity report](/office365/admin/activity-reports/yammer-groups-activity-report)
 ### [View community or group insights](https://support.office.com/article/06c5494a-d77c-410c-9464-98bc0b9dad84)
-### [Yammer device usage report](https://docs.microsoft.com/office365/admin/activity-reports/yammer-device-usage-report)
+### [Yammer device usage report](/office365/admin/activity-reports/yammer-device-usage-report)
 ### [Measure success guide](https://resources.techcommunity.microsoft.com/link/yammer-measure-success-guide)
 ## Integrate Yammer with other apps
 ### [Integrate with other applications](integrate-yammer-with-other-apps/integrate-with-other-applications.md)
 ### [Add a Yammer feed in a SharePoint page](integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site.md)
-### [Yammer and SharePoint Server](https://docs.microsoft.com/SharePoint/administration/integrate-yammer-with-on-premises-sharepoint-server-environments)
+### [Yammer and SharePoint Server](/SharePoint/administration/integrate-yammer-with-on-premises-sharepoint-server-environments)
 ### [Yammer and Newsfeed](integrate-yammer-with-other-apps/yammer-and-newsfeed.md)
-### [Knowledge-base community using Flow and QnA Maker](integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker.md)
-### [Sentiment analysis using Flow and Azure Cognitive Services](integrate-yammer-with-other-apps/sentiment-analysis-flow-azure.md)
+### [Knowledge-base community using Flow and QnA Maker](https://techcommunity.microsoft.com/t5/yammer-resources/create-a-knowledge-based-community-in-yammer-by-using-qna-maker/ta-p/393467)
+### [Sentiment analysis using Flow and Azure Cognitive Services](https://techcommunity.microsoft.com/t5/yammer-resources/identify-sentiment-of-comments-in-a-yammer-group-by-using-azure/ta-p/393398)
 ## Troubleshoot problems
 ### [Help users log in to Yammer on Android devices](troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices.md)
 ### [Troubleshoot Native Mode](troubleshoot-problems/troubleshoot-native-mode.md)

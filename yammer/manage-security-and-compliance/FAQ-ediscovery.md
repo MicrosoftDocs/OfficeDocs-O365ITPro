@@ -33,7 +33,7 @@ A: Electronic Discovery (commonly referred to as “eDiscovery”) refers to the
 
 A: Security and Compliance Center offers eDiscovery and Advanced eDiscovery, which you can use to search for content in Exchange Online mailboxes, Microsoft Teams, Yammer conversations, SharePoint Online content, and more. You can use eDiscovery cases in the Security and Compliance Center to identify, hold, and export content found in mailboxes and websites.
 
-See more information and examples about [eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).
+See more information and examples about [eDiscovery](/office365/securitycompliance/ediscovery).
 
 **Q: How does Yammer support eDiscovery?**
 
@@ -43,7 +43,7 @@ A: Yammer supports eDiscovery (E3) and Advanced eDiscovery (E5) in the Security 
 
 A: Advanced eDiscovery (E5) builds on eDiscovery (E3) and helps you analyze unstructured data within Microsoft 365, perform more efficient document reviews, and make decisions to reduce data for eDiscovery.
 
-See more advanced information about [eDiscovery in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery).
+See more advanced information about [eDiscovery in Microsoft 365](/office365/securitycompliance/office-365-advanced-ediscovery).
 
 **Q: Can users see that Yammer is storing their messages for eDiscovery?**
 
@@ -219,6 +219,6 @@ A: If a user is CC’ed in a message and then the CC  is removed, they will no l
 
 ## See also
 
-[eDiscovery in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery)
+[eDiscovery in Microsoft 365](/office365/securitycompliance/ediscovery)
 
-[Overview of the advanced eDiscovery solution in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery)
+[Overview of the advanced eDiscovery solution in Microsoft 365](/office365/securitycompliance/office-365-advanced-ediscovery)

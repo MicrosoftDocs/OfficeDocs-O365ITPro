@@ -41,7 +41,7 @@ Self-service signup is turned on by default everywhere except in the European Un
 ### Step 1: If self-service signup is not enabled, enable it
 
 Self-service signup can only be enabled by using Windows PowerShell. To enable self-service signup:
-1. Follow the instructions provided in [Directory self-service signup](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-self-service-signup). 
+1. Follow the instructions provided in [Directory self-service signup](/azure/active-directory/users-groups-roles/directory-self-service-signup). 
  
 2. In the PowerShell script, set the values for **AllowEmailVerifiedUsers** and **AllowAdHocSubscriptions** to **true**: 
 
@@ -80,4 +80,4 @@ A: No, this change will not impact guest users.
 
 **Q. Do I have to buy an Office 365 license for each user that currently doesn't have an AAD account?**
 
-A. No. If you enable self-service signup before January 31, 2019, the AAD account is created for the user when they change their password. If you wait until after January 31, you'll have to create the AAD account yourself. No Office 365 license is required. 
+A. No. If you enable self-service signup before January 31, 2019, the AAD account is created for the user when they change their password. If you wait until after January 31, you'll have to create the AAD account yourself. No Office 365 license is required.
