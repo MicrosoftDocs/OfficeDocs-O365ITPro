@@ -71,8 +71,8 @@ A: In some situations, multiple Yammer networks are connected to a single Office
 
 [Yammer Blog](https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog)
 
-[Yammer admin Help](https://docs.microsoft.com/yammer/yammer-landing-page)
+[Yammer admin Help](./admin-key-concepts.md)
 
-[Yammer admin key concepts](https://docs.microsoft.com/yammer/get-started-with-yammer/admin-key-concepts)
+[Yammer admin key concepts](./admin-key-concepts.md)
 
 [Yammer Help and Support Center for end-users](https://support.office.com/yammer)

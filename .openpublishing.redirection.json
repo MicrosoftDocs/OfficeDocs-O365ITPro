@@ -4139,6 +4139,31 @@
       "source_path": "Office365-Home/index.yml",
       "redirect_url": "/microsoft-365/index",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-MileIQ/accept-invitation.md",
+      "redirect_url": "https://docs.microsoft.com",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Office365-MileIQ/edit-rates.md",
+      "redirect_url": "https://docs.microsoft.com",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Office365-MileIQ/give-access-mileiq-admin-center.md",
+      "redirect_url": "https://docs.microsoft.com",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Office365-MileIQ/invite-users.md",
+      "redirect_url": "https://docs.microsoft.com",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Office365-MileIQ/remove-users.md",
+      "redirect_url": "https://docs.microsoft.com",
+      "redirect_document_id": true
     }
   ]
 }

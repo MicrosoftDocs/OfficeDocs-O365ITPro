@@ -150,7 +150,7 @@ We will update this document as we launch new features and post on the Admin Mes
 
 ## How do I open a support case?
 
-Please see the [Support for business products - Admin Help page](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) for general information. Your organization may have specific guidance for opening support cases, so you may need to talk with your IT team.
+Please see the [Support for business products - Admin Help page](/microsoft-365/admin/contact-support-for-business-products) for general information. Your organization may have specific guidance for opening support cases, so you may need to talk with your IT team.
 
 ## How should I submit feature requests and feedback?
 
@@ -203,8 +203,8 @@ A: All languages available in classic Yammer are available in new Yammer.
 
 [Yammer Blog](https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog)
 
-[Yammer admin Help](https://docs.microsoft.com/yammer/yammer-landing-page)
+[Yammer admin Help](./admin-key-concepts.md)
 
-[Yammer admin key concepts](https://docs.microsoft.com/yammer/get-started-with-yammer/admin-key-concepts)
+[Yammer admin key concepts](./admin-key-concepts.md)
 
 [Yammer Help and Support Center for end-users](https://support.office.com/yammer)

@@ -41,12 +41,12 @@ External collaboration is a key ingredient for the success of any organization. 
 
 ![Yammer business-to-business guest support](../media/yammer-b2b-azure-guests.png)
 
-This is a Yammer network wide setting. Enabling guest access here will allow community admins to add guests to any Yammer community in the network. You can control guest access to individual Yammer communities [by using sensitivity labels](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-teams-groups-sites).
+This is a Yammer network wide setting. Enabling guest access here will allow community admins to add guests to any Yammer community in the network. You can control guest access to individual Yammer communities [by using sensitivity labels](/microsoft-365/compliance/sensitivity-labels-teams-groups-sites).
 
 > [!NOTE]
 > If your Yammer network is provisioned after December 15th, 2020, then AzureAD-B2B guest functionality is already enabled by default for your organization. 
 
-To configure Azure AD, Microsoft 365 Groups and SharePoint settings, see [Collaborate with guests in a team](https://docs.microsoft.com/microsoft-365/solutions/collaborate-as-team) .
+To configure Azure AD, Microsoft 365 Groups and SharePoint settings, see [Collaborate with guests in a team](/microsoft-365/solutions/collaborate-as-team) .
 
 ## How to invite an external user as guest to a Yammer community
 
@@ -96,7 +96,7 @@ The guest experience has limitations by design. Following is a list of limitatio
 
 ## Licensing for guest access
 
-Guest access is included with all Microsoft 365 Business Standard, Microsoft 365 Enterprise, and Microsoft 365 Education subscriptions. No additional Microsoft 365 license is necessary. Yammer doesn't restrict the number of guests you can add. However, the total number of guests that can be added to your tenant may be restricted by the paid features of Azure AD. For more information, see [Billing model for Azure AD External Identities](https://docs.microsoft.com/azure/active-directory/external-identities/external-identities-pricing).
+Guest access is included with all Microsoft 365 Business Standard, Microsoft 365 Enterprise, and Microsoft 365 Education subscriptions. No additional Microsoft 365 license is necessary. Yammer doesn't restrict the number of guests you can add. However, the total number of guests that can be added to your tenant may be restricted by the paid features of Azure AD. For more information, see [Billing model for Azure AD External Identities](/azure/active-directory/external-identities/external-identities-pricing).
 
 We are workingWhat features are not supported for Guests?
 
@@ -129,7 +129,7 @@ A: Yes. Admins can create dynamic membership rules for guest users in a Yammer c
 
 ****Q: I don’t want to allow guests in the Yammer communities of our network. How do I disable external users from participating in our communities?**
 
-A: Yammer relies on and builds upon the [external collaboration settings](https://docs.microsoft.com/azure/active-directory/external-identities/delegate-invitations) offered by Azure AD. We recommend that you use Azure AD controls to configure external collaboration settings.
+A: Yammer relies on and builds upon the [external collaboration settings](/azure/active-directory/external-identities/delegate-invitations) offered by Azure AD. We recommend that you use Azure AD controls to configure external collaboration settings.
 
 If you want to deny external users from being added to Yammer communities while allowing external users to access the rest of Microsoft 365 apps, use the External messaging security settings in the Yammer network admin settings page to deny community admins from adding external users.
 
@@ -140,9 +140,8 @@ If you want to deny external users from being added to Yammer communities while 
 
 [Yammer Blog](https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog)
 
-[Yammer admin Help](https://docs.microsoft.com/yammer/yammer-landing-page)
+[Yammer admin Help](./admin-key-concepts.md)
 
-[Native Mode for Microsoft 365 for Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)
+[Native Mode for Microsoft 365 for Yammer](../configure-your-yammer-network/overview-native-mode.md)
 
 [Yammer Help and Support Center for end-users](https://support.office.com/yammer)
-

@@ -40,7 +40,7 @@ Monitor sensitive content by specifying keywords such as banned words or employe
     
 2. Enter the words and phrases you want to monitor, each on its own line.
     
-    You can use regular expresssions to match patterns. For information on using regular expressions, see [Regular Expression Language](https://go.microsoft.com/fwlink/?LinkId=524073).
+    You can use regular expresssions to match patterns. For information on using regular expressions, see [Regular Expression Language](/dotnet/standard/base-types/regular-expression-language-quick-reference).
     
     Here are some examples of regular expressions commonly used for monitoring.
     
@@ -71,7 +71,7 @@ If a network is in Archive Mode, any content that is deleted by the user will be
 
  **Set whether to retain deleted files stored in SharePoint**
 
-For Yammer files saved in SharePoint, Office 365 data retention settings apply. For more information, see [Overview of retention policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies).
+For Yammer files saved in SharePoint, Office 365 data retention settings apply. For more information, see [Overview of retention policies](/office365/securitycompliance/retention-policies).
     
 <a name="ContentMode"> </a>
 ## Content mode

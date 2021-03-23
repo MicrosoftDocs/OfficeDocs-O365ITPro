@@ -1,4 +1,3 @@
-
   
 
 # [Welcome to Kaizala](kaizala-overview.md)
@@ -68,7 +67,6 @@
 ### [Adoption and activity reports](adoption-and-activity-reports.md)
 ### [Action reports](action-reports.md)
 
-## [Kaizala for developers](https://docs.microsoft.com/kaizala/developer-platform)
+## [Kaizala for developers](/kaizala/developer-platform)
 
-## [Feedback & support](https://docs.microsoft.com/en-us/kaizala/feedback)
-
+## [Feedback & support](/kaizala/feedback)

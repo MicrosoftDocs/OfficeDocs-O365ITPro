@@ -44,4 +44,4 @@ landingContent:
       - linkListType: reference
         links:
           - text: Planner API
-            url: https://docs.microsoft.com/graph/planner-concept-overview
+            url: /graph/planner-concept-overview

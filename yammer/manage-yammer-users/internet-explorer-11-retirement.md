@@ -32,19 +32,19 @@ Leading up to August 2021, we will provide multiple in-product messages to help 
 
 For customers using the embedded Yammer experience (Yammer Embed) on custom-built sites, we are working on updating Embed with the new Yammer experience, but this will only be available from Internet Explorer leading up to August 2021. To get the new Yammer Embed experience in August 2021, you will need to access the site from Edge or another modern browser. 
 
-We recommend moving your site to a modern browser like Edge or configuring your site to be supported in IE mode in Edge. This will allow your users to still access all your site has to offer from a new modern browser. For more information about how to configure IE mode for your site, see [Configure IE mode policies](https://docs.microsoft.com/deployedge/edge-ie-mode-policies). 
+We recommend moving your site to a modern browser like Edge or configuring your site to be supported in IE mode in Edge. This will allow your users to still access all your site has to offer from a new modern browser. For more information about how to configure IE mode for your site, see [Configure IE mode policies](/deployedge/edge-ie-mode-policies). 
 
 ## How to prepare?
 
-We recommend that you communicate with your users about this change. If you have not already deployed Edge or allow users to access other modern browsers, we recommend that you do so. For technical documentation, see [Plan your deployment of Microsoft Edge](https://docs.microsoft.com/deployedge/deploy-edge-plan-deployment).
+We recommend that you communicate with your users about this change. If you have not already deployed Edge or allow users to access other modern browsers, we recommend that you do so. For technical documentation, see [Plan your deployment of Microsoft Edge](/deployedge/deploy-edge-plan-deployment).
 
-If you’re looking for help on how to plan, deploy, or adopt Microsoft Edge, Microsoft offers the [FastTrack program](https://docs.microsoft.com/fasttrack/win-10-microsoft-edge-assistance-offered) for customers with 150 or more paid seats of Windows 10 Enterprise. To get started, submit a [Request for Assistance with FastTrack](https://docs.microsoft.com/fasttrack/win-10-microsoft-edge-assistance-offered).
+If you’re looking for help on how to plan, deploy, or adopt Microsoft Edge, Microsoft offers the [FastTrack program](/fasttrack/win-10-microsoft-edge-assistance-offered) for customers with 150 or more paid seats of Windows 10 Enterprise. To get started, submit a [Request for Assistance with FastTrack](/fasttrack/win-10-microsoft-edge-assistance-offered).
 
 
 ## Related articles
 
-[Microsoft apps and services to end support for Internet Explorer 11](https://docs.microsoft.com/lifecycle/announcements/internet-explorer-11-support-end-dates)
+[Microsoft apps and services to end support for Internet Explorer 11](/lifecycle/announcements/internet-explorer-11-support-end-dates)
 
 [Microsoft 365 apps say farewell to Internet Explorer 11 and Windows 10 sunsets Microsoft Edge Legacy](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)
 
-[Plan your deployment of Microsoft Edge](https://docs.microsoft.com/deployedge/deploy-edge-plan-deployment)
+[Plan your deployment of Microsoft Edge](/deployedge/deploy-edge-plan-deployment)

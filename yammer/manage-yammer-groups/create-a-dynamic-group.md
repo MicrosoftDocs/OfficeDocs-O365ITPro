@@ -29,7 +29,7 @@ Dynamic groups update automatically as people join, leave, or move within your o
 |:-----|:-----|
 |Your organization must be using Azure Active Directory Premium.  <br/> |[Azure Active Directory](https://go.microsoft.com/fwlink/?linkId=869572) <br/> |
 |Your organization must have a license for Azure Active Directory Premium for each user added to at least one dynamic group.  <br/> |[Azure Active Directory pricing](https://go.microsoft.com/fwlink/?linkId=869572) <br/> |
-|The person setting up the groups must have permissions to update Azure Active Directory.  <br/> |[Built-in roles for Azure role-based access control](https://go.microsoft.com/fwlink/?linkId=869570) <br/> |
+|The person setting up the groups must have permissions to update Azure Active Directory.  <br/> |[Built-in roles for Azure role-based access control](/azure/role-based-access-control/built-in-roles) <br/> |
 |Creating dynamic groups requires using PowerShell to change the associated Active Directory group to make it dynamic.  <br/> |[Manage Microsoft 365 Groups with PowerShell](https://support.office.com/article/aeb669aa-1770-4537-9de2-a82ac11b0540) <br/> |
 |Only Microsoft 365 connected Yammer groups can be set up as dynamic groups. This means you must be enforcing Microsoft 365 or Office 365 identity in Yammer, and your Yammer network must have existing Microsoft 365 connected groups.  <br/> |[Yammer and Microsoft 365 Groups](yammer-and-office-365-groups.md) <br/> [Enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md) <br/> [Create a group in Yammer](https://support.office.com/article/b407af4f-9a58-4b12-b43e-afbb1b07c889) <br/> |
 
@@ -37,7 +37,7 @@ Dynamic groups update automatically as people join, leave, or move within your o
 
 1. Create a Microsoft 365 connected group in Yammer.
 
-2. Use PowerShell to change membership management for an Active Directory group to make it dynamic. For instructions, see [Dynamic membership rules for groups in Azure Active Directory](https://go.microsoft.com/fwlink/?linkId=869529)
+2. Use PowerShell to change membership management for an Active Directory group to make it dynamic. For instructions, see [Dynamic membership rules for groups in Azure Active Directory](/azure/active-directory/enterprise-users/groups-dynamic-membership)
 
 ## FAQ
 

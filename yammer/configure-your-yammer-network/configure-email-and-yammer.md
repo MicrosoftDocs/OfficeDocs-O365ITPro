@@ -43,9 +43,9 @@ Follow the mail flow guidelines in [Security best practices for Office 365](http
 
 - When using Yammer through an email client, it is recommended that SPF and/or DKIM is configured within your email system. For instructions, see:
 
-  - [Use DKIM to validate email sent from your domain in Office 365](https://go.microsoft.com/fwlink/?LinkId=809133)
+  - [Use DKIM to validate email sent from your domain in Office 365](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)
 
-  - [Set up SPF in Office 365 to help prevent spoofing](https://go.microsoft.com/fwlink/?LinkId=787656)
+  - [Set up SPF in Office 365 to help prevent spoofing](/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
 
 ## Email settings admins control
 
