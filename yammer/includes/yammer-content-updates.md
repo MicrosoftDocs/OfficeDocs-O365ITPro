@@ -2,6 +2,15 @@
 
 
 
+## Week of March 29, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 3/29/2021 | [About Yammer networks and Office 365 tenants](/Yammer/configure-your-yammer-network/yammer-and-office-365) | modified |
+| 4/2/2021 | [Work with AzureAD-B2B guests in Yammer communities](/Yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer) | modified |
+
+
 ## Week of March 22, 2021
 
 
