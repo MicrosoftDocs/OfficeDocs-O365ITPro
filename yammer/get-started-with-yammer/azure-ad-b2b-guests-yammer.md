@@ -127,7 +127,7 @@ A: Yes. With Native Mode for Microsoft 365 for Yammer, all communities and users
 
 A: Yes. Admins can create dynamic membership rules for guest users in a Yammer community via Azure portal. An example is: **user.userType -eq "Guest"** and user.email **-contains "@xyz.com"** - this rule will add all guest users from the domain xyz.com to the specified Yammer community.
 
-****Q: I don’t want to allow guests in the Yammer communities of our network. How do I disable external users from participating in our communities?**
+**Q: I don’t want to allow guests in the Yammer communities of our network. How do I disable external users from participating in our communities?**
 
 A: Yammer relies on and builds upon the [external collaboration settings](/azure/active-directory/external-identities/delegate-invitations) offered by Azure AD. We recommend that you use Azure AD controls to configure external collaboration settings.
 
