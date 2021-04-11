@@ -2,6 +2,14 @@
 
 
 
+## Week of April 05, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 4/9/2021 | [Work with AzureAD-B2B guests in Yammer communities](/Yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer) | modified |
+
+
 ## Week of March 29, 2021
 
 
