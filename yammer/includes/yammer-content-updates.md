@@ -2,6 +2,15 @@
 
 
 
+## Week of April 19, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 4/20/2021 | [Overview of Native Mode for Microsoft 365](/Yammer/configure-your-yammer-network/overview-native-mode) | modified |
+| 4/21/2021 | [Add, block, or remove Yammer users](/Yammer/manage-yammer-users/add-block-or-remove-users) | modified |
+
+
 ## Week of April 05, 2021
 
 
@@ -65,14 +74,3 @@
 | 3/22/2021 | [What to do when users cannot log in to Yammer on Android devices](/Yammer/troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices) | modified |
 | 3/22/2021 | [Limited functionality in Yammer in Internet Explorer 10 document mode](/Yammer/troubleshoot-problems/limited-functionality-in-explorer-10-document-mode) | modified |
 | 3/22/2021 | [Troubleshoot your Yammer network for Native Mode for Microsoft 365](/Yammer/troubleshoot-problems/troubleshoot-native-mode) | modified |
-
-
-## Week of March 15, 2021
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 3/17/2021 | [Collaborate with guests in a Yammer community](/Yammer/work-with-external-users/collaborate-guests-external-yammer-community) | added |
-| 3/17/2021 | [Work with AzureAD-B2B gGuests in Yammer communities](/Yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer) | modified |
-| 3/17/2021 | [Add external messaging participants to your Yammer conversations](/Yammer/work-with-external-users/add-external-participants) | modified |
-| 3/17/2021 | [Work with external groups in Yammer networks not aligned to native mode](/Yammer/work-with-external-users/create-and-manage-external-groups) | modified |
