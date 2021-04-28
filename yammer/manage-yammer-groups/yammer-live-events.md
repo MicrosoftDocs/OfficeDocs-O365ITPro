@@ -133,6 +133,12 @@ Events produced using an external app or device use the Stream player.
 
 Both work on desktop, web, and mobile devices (iOS and Android).
 
+**Q: Why can't I view the video?**
+
+To maintain the privacy of live event content, only authorized users can join a live event and are authenticated as they load the live event page. If authentication isn't successful, you won't be able to view the video.
+
+To fix this, use your browser's setting to make sure that cookies are enabled and that any extensions that block tokens are disabled. After changing the settings, refresh the event page.
+
 **Q: How can I make it easy for my event organizers to get help?**
 
 In Microsoft 365 and Office 365, you can customize the help pane that comes up when users click the Help icon to add contact information for your local support staff. For more information, see [Add customized help desk info to the help pane](/office365/admin/misc/customize-help-desk).
