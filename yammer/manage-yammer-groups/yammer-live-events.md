@@ -123,7 +123,7 @@ You can prevent creation of live events produced in teams, live events produced 
 
 **Q: How many participants can view a live event at once?**
 
-A. Currently the limit is 10,000 participants. For events of a higher size, work through the [Live Events Assistance Program](https://resources.techcommunity.microsoft.com/live-events/assistance/).
+A. Currently, the limit is 10,000 participants. For events of a higher size, work through the [Live Events Assistance Program](https://resources.techcommunity.microsoft.com/live-events/assistance/).
 
 **Q: What media player is used for live events?**
 
@@ -137,7 +137,7 @@ Both work on desktop, web, and mobile devices (iOS and Android).
 
 To maintain the privacy of live event content, only authorized users can join a live event and are authenticated as they load the live event page. If authentication isn't successful, you won't be able to view the video.
 
-To fix this, use your browser's setting to make sure that cookies are enabled and that any extensions that block tokens are disabled. After changing the settings, refresh the event page.
+To fix this, use your browser's settings to make sure that cookies are enabled and that any extensions that block tokens are disabled. After changing the settings, refresh the event page.
 
 **Q: How can I make it easy for my event organizers to get help?**
 
