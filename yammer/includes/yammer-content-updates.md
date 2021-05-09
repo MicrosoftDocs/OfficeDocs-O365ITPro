@@ -2,6 +2,14 @@
 
 
 
+## Week of May 03, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 5/3/2021 | [Live events in Yammer](/Yammer/manage-yammer-groups/yammer-live-events) | modified |
+
+
 ## Week of April 26, 2021
 
 
@@ -25,12 +33,3 @@
 | Published On |Topic title | Change |
 |------|------------|--------|
 | 4/9/2021 | [Work with AzureAD-B2B guests in Yammer communities](/Yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer) | modified |
-
-
-## Week of March 29, 2021
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 3/29/2021 | [About Yammer networks and Office 365 tenants](/Yammer/configure-your-yammer-network/yammer-and-office-365) | modified |
-| 4/2/2021 | [Work with AzureAD-B2B guests in Yammer communities](/Yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer) | modified |
