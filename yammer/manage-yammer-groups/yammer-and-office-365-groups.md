@@ -2,8 +2,8 @@
 title: "Yammer and Microsoft 365 Groups"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
-author: ToniSFrench
+ms.author: v-darcyjayne
+author: DJayneMSFT
 manager: pamgreen
 ms.date: 12/11/2019
 audience: Admin
@@ -217,6 +217,10 @@ Before opening the support ticket:
 - If you have unlisted (secret) groups, change them to private or public groups.
 
 To find this information, you can do a data export and look in the groups.csv file. You'll need to cross-reference the owner list with the list of people who have Microsoft 365 group creation privileges.
+
+### Q: How long before changes to a connected Microsoft 365 group take effect in Yammer?
+
+Changes to connected groups can take up to 24 hours to take effect throughout your network. This includes changes to group membership, permissions, name, and other settings.
   
 ## Related articles
 
