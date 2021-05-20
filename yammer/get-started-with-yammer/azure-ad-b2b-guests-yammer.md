@@ -30,9 +30,10 @@ A Yammer network should be aligned to native mode before inviting an external us
 
 If your organization is ready to start inviting guests to Yammer communities, then configure the following settings.
 
-Yammer network admins need to enable guest access on their networks from **Yammer network admin settings > Security settings > External Messaging**
+Yammer network admins need to enable guest access on their networks from **Yammer network admin settings > Security settings > External Messaging**.
 
-![Yammer admin panel external user settings](../media/yammer-adminpanel-externalusers-allowdeny.png)
+> [!div class="mx-imgBorder"]
+> ![Yammer admin panel external user settings](../media/yammer-adminpanel-externalusers-allowdeny.png)
 
 This is a Yammer network wide setting. Enabling guest access here will allow community admins to add guests to any Yammer community in the network. You can control guest access to individual Yammer communities by using sensitivity labels.
 
