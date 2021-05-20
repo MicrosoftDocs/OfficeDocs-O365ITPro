@@ -30,9 +30,10 @@ A Yammer network should be aligned to native mode before inviting an external us
 
 If your organization is ready to start inviting guests to Yammer communities, then configure the following settings.
 
-Yammer network admins need to enable guest access on their networks from **Yammer network admin settings > Security settings > External Messaging**
+Yammer network admins need to enable guest access on their networks from **Yammer network admin settings > Security settings > External Messaging**.
 
-![Yammer admin panel external user settings](../media/yammer-adminpanel-externalusers-allowdeny.png)
+> [!div class="mx-imgBorder"]
+> ![Yammer admin panel external user settings](../media/yammer-adminpanel-externalusers-allowdeny.png)
 
 This is a Yammer network wide setting. Enabling guest access here will allow community admins to add guests to any Yammer community in the network. You can control guest access to individual Yammer communities by using sensitivity labels.
 
@@ -98,7 +99,7 @@ The guest experience has limitations by design. Following is a list of limitatio
 
 Guest access is included with all Microsoft 365 Business Standard, Microsoft 365 Enterprise, and Microsoft 365 Education subscriptions. No additional Microsoft 365 license is necessary. Yammer doesn't restrict the number of guests you can add. However, the total number of guests that can be added to your tenant may be restricted by the paid features of Azure AD. For more information, see [Billing model for Azure AD External Identities](/azure/active-directory/external-identities/external-identities-pricing).
 
-What features are not supported for Guests?
+## What features are not supported for Guests?
 
 We are working hard to bring all Yammer functionality to the new B2B guests in Yammer. Below is the list of features still in progress:
 - **Personal email, non-Microsoft 365 business email, and phone number-based legacy accounts** – Users with Microsoft 365 Business email accounts can be added as guests. Other email domains like Gmail or Yahoo mail etc. will not be supported in this release. 
