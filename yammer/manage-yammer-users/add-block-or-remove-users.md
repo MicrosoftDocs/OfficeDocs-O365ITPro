@@ -193,7 +193,9 @@ Yammer occasionally sends email updates to users. When an employee's email addre
 ## Bulk update users by importing a .CSV file
 
 > [!NOTE]
-> If your Yammer network is [in Native Mode](../configure-your-yammer-network/overview-native-mode.md), this action can be performed only in the [Azure AD User Management Portal](/azure/active-directory/fundamentals/add-users-azure-active-directory) and not within the Yammer Admin portal.
+> If your Yammer network is [in Native Mode](../configure-your-yammer-network/overview-native-mode.md), this action can be performed only in the [Azure AD User Management Portal](/azure/active-directory/fundamentals/add-users-azure-active-directory) and not within the Yammer Admin portal. 
+
+Changes via bulk edit can take up to 24 hours to take effect throughout your network.
 
  **\* Verified Admin Only**
   
