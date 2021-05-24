@@ -101,35 +101,36 @@ You can deactivate or permanently remove users, including users, including activ
     
 3. Select an action to take:
     
-      - **Deactivate this user:** 
-          - If the user is not using Azure AD credentials, this blocks the user from signing in until they verify their email address again. Without access to their verified email account, they cannot sign back in to Yammer. User profile information, messages, and file uploads remain. This can be a useful option for contract employees that have completed their project but can be renewed again later. Deactivated users can reactivate their account within 90 days by enabling their email account and signing in to Yammer, where they will receive an email with links to reactivate. After 90 days, the account is permanently deleted.
+   - **Deactivate this user:**
+ 
+      - If the user is not using Azure AD credentials, this blocks the user from signing in until they verify their email address again. Without access to their verified email account, they cannot sign back in to Yammer. User profile information, messages, and file uploads remain. This can be a useful option for contract employees that have completed their project but can be renewed again later. Deactivated users can reactivate their account within 90 days by enabling their email account and signing in to Yammer, where they will receive an email with links to reactivate. After 90 days, the account is permanently deleted.
 
-          - If the user is using Azure AD credentials, first use this action to deactivate the user and then also follow the instructions in [Block users]https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#block-users. 
+      - If the user is using Azure AD credentials, first use this action to deactivate the user and then also follow the instructions in [Block users](#block-users).
     
-      - **Permanently remove this user and keep messages:** This lets you remove the user and retain the messages and content they posted. 
+   - **Permanently remove this user and keep messages:** This lets you remove the user and retain the messages and content they posted. 
     
-      - **Permanently remove this user and messages:** This lets you remove the user and all the messages they posted. This cannot be reversed. 
+   - **Permanently remove this user and messages:** This lets you remove the user and all the messages they posted. This cannot be reversed. 
     
-      - **Erase this user. Wipe their name and personal information, but leave their messages. (Can't be undone after 14 days):** This deactivates the user for 14 days so the admin can evaluate files and messages before the user is permanently deleted. 
+   - **Erase this user. Wipe their name and personal information, but leave their messages. (Can't be undone after 14 days):** This deactivates the user for 14 days so the admin can evaluate files and messages before the user is permanently deleted. 
     
-        > [!NOTE]
-        > This option is typically used for executing a GDPR data subject request. Before using this option, read [Manage GDPR data subject requests in Yammer Enterprise](../manage-security-and-compliance/gdpr-requests-in-yammer-enterprise.md). For GDPR information for all of Office 365, see [Office 365 data subject requests for the GDPR.](/compliance/regulatory/gdpr-dsr-Office365). 
+     > [!NOTE]
+     > This option is typically used for executing a GDPR data subject request. Before using this option, read [Manage GDPR data subject requests in Yammer Enterprise](../manage-security-and-compliance/gdpr-requests-in-yammer-enterprise.md). For GDPR information for all of Office 365, see [Office 365 data subject requests for the GDPR.](/compliance/regulatory/gdpr-dsr-Office365). 
   
-    All deletion options delete the following data:
+   All deletion options delete the following data:
     
-      - Who the person is following, what conversations and topics they're following, and who's following them
+   - Who the person is following, what conversations and topics they're following, and who's following them
     
-      - Bookmarks, language preferences, notification settings, and account activity
+   - Bookmarks, language preferences, notification settings, and account activity
     
-      - User's profile
+   - User's profile
     
-      - Group memberships
+   - Group memberships
     
-      - Org chart
+   - Org chart
     
-      - The list of networks they were a member of
+   - The list of networks they were a member of
     
-    The first three deletion options leave the user's name in stored Yammer data. The only way to remove the user's name is to use the **Erase this user** option. 
+   The first three deletion options leave the user's name in stored Yammer data. The only way to remove the user's name is to use the **Erase this user** option. 
     
 4. Select **Submit**.
     
@@ -168,7 +169,7 @@ There are two ways to block users from Yammer:
     
         You can separate multiple email addresses with commas or line breaks. 
     
-         If the user you select is in a suspended state in Yammer, blocking that email address puts the user in a deleted state. 
+        If the user you select is in a suspended state in Yammer, blocking that email address puts the user in a deleted state. 
     
         > [!TIP]
         > Yammer is most effective when every post comes from an individual user. Therefore, you might want to block group email addresses. 
@@ -193,7 +194,9 @@ Yammer occasionally sends email updates to users. When an employee's email addre
 ## Bulk update users by importing a .CSV file
 
 > [!NOTE]
-> If your Yammer network is [in Native Mode](../configure-your-yammer-network/overview-native-mode.md), this action can be performed only in the [Azure AD User Management Portal](/azure/active-directory/fundamentals/add-users-azure-active-directory) and not within the Yammer Admin portal.
+> If your Yammer network is [in Native Mode](../configure-your-yammer-network/overview-native-mode.md), this action can be performed only in the [Azure AD User Management Portal](/azure/active-directory/fundamentals/add-users-azure-active-directory) and not within the Yammer Admin portal. 
+
+Changes via bulk edit can take up to 24 hours to take effect throughout your network.
 
  **\* Verified Admin Only**
   
@@ -201,19 +204,19 @@ Yammer occasionally sends email updates to users. When an employee's email addre
     
 2. Format your .CSV as a table and include a first line that defines the fields in the following order from left to right: Action, Email address, Full Name, Job Title, Password, and New Email. 
     
-    The value in the **Action** column indicates what Yammer will do: 
+   The value in the **Action** column indicates what Yammer will do: 
     
-  - **New** If you leave the password field blank, the user is created as "pending". If you specify a password, the user is created as active and immediately shows up in the **Member** directory. 
+   - **New** If you leave the password field blank, the user is created as "pending". If you specify a password, the user is created as active and immediately shows up in the **Member** directory. 
     
-  - **Update** The existing Yammer account remains the same. However the other fields (name, title, password, email address) will change to match those in the .CSV. Updates to email addresses can occur only to domains that are part of your Yammer network. 
+   - **Update** The existing Yammer account remains the same. However the other fields (name, title, password, email address) will change to match those in the .CSV. Updates to email addresses can occur only to domains that are part of your Yammer network. 
     
-  - **Suspend** The user account is suspended until the user verifies their status via an email request. 
+   - **Suspend** The user account is suspended until the user verifies their status via an email request. 
     
-  - **Delete** The user account is deleted, but the user's messages and attachments remain in the network. 
+   - **Delete** The user account is deleted, but the user's messages and attachments remain in the network. 
     
 Excel does not encode non-English characters in CSV files correctly. If you have such characters in your users' names, you can create a UTF-8 encoded CSV file in Notepad to use for bulk updates.
   
- **Use Notepad to create a UTF-8 .CSV file from an Excel spreadsheet**
+**Use Notepad to create a UTF-8 .CSV file from an Excel spreadsheet**
   
 1. Open the file in Excel, and then choose **File** \> **Save As**. In the **Save as type** box, choose **Unicode Text (\*.txt)**. 
     
