@@ -107,14 +107,14 @@ You can deactivate or permanently remove users, including users, including activ
 
       - If the user is using Azure AD credentials, first use this action to deactivate the user and then also follow the instructions in [Block users](#block-users).
     
-      - **Permanently remove this user and keep messages:** This lets you remove the user and retain the messages and content they posted. 
+   - **Permanently remove this user and keep messages:** This lets you remove the user and retain the messages and content they posted. 
     
-      - **Permanently remove this user and messages:** This lets you remove the user and all the messages they posted. This cannot be reversed. 
+   - **Permanently remove this user and messages:** This lets you remove the user and all the messages they posted. This cannot be reversed. 
     
-      - **Erase this user. Wipe their name and personal information, but leave their messages. (Can't be undone after 14 days):** This deactivates the user for 14 days so the admin can evaluate files and messages before the user is permanently deleted. 
+   - **Erase this user. Wipe their name and personal information, but leave their messages. (Can't be undone after 14 days):** This deactivates the user for 14 days so the admin can evaluate files and messages before the user is permanently deleted. 
     
-       > [!NOTE]
-       > This option is typically used for executing a GDPR data subject request. Before using this option, read [Manage GDPR data subject requests in Yammer Enterprise](../manage-security-and-compliance/gdpr-requests-in-yammer-enterprise.md). For GDPR information for all of Office 365, see [Office 365 data subject requests for the GDPR.](/compliance/regulatory/gdpr-dsr-Office365). 
+     > [!NOTE]
+     > This option is typically used for executing a GDPR data subject request. Before using this option, read [Manage GDPR data subject requests in Yammer Enterprise](../manage-security-and-compliance/gdpr-requests-in-yammer-enterprise.md). For GDPR information for all of Office 365, see [Office 365 data subject requests for the GDPR.](/compliance/regulatory/gdpr-dsr-Office365). 
   
    All deletion options delete the following data:
     
