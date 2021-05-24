@@ -168,7 +168,7 @@ There are two ways to block users from Yammer:
     
         You can separate multiple email addresses with commas or line breaks. 
     
-         If the user you select is in a suspended state in Yammer, blocking that email address puts the user in a deleted state. 
+        If the user you select is in a suspended state in Yammer, blocking that email address puts the user in a deleted state. 
     
         > [!TIP]
         > Yammer is most effective when every post comes from an individual user. Therefore, you might want to block group email addresses. 
@@ -203,19 +203,19 @@ Changes via bulk edit can take up to 24 hours to take effect throughout your net
     
 2. Format your .CSV as a table and include a first line that defines the fields in the following order from left to right: Action, Email address, Full Name, Job Title, Password, and New Email. 
     
-    The value in the **Action** column indicates what Yammer will do: 
+   The value in the **Action** column indicates what Yammer will do: 
     
-  - **New** If you leave the password field blank, the user is created as "pending". If you specify a password, the user is created as active and immediately shows up in the **Member** directory. 
+   - **New** If you leave the password field blank, the user is created as "pending". If you specify a password, the user is created as active and immediately shows up in the **Member** directory. 
     
-  - **Update** The existing Yammer account remains the same. However the other fields (name, title, password, email address) will change to match those in the .CSV. Updates to email addresses can occur only to domains that are part of your Yammer network. 
+   - **Update** The existing Yammer account remains the same. However the other fields (name, title, password, email address) will change to match those in the .CSV. Updates to email addresses can occur only to domains that are part of your Yammer network. 
     
-  - **Suspend** The user account is suspended until the user verifies their status via an email request. 
+   - **Suspend** The user account is suspended until the user verifies their status via an email request. 
     
-  - **Delete** The user account is deleted, but the user's messages and attachments remain in the network. 
+   - **Delete** The user account is deleted, but the user's messages and attachments remain in the network. 
     
 Excel does not encode non-English characters in CSV files correctly. If you have such characters in your users' names, you can create a UTF-8 encoded CSV file in Notepad to use for bulk updates.
   
- **Use Notepad to create a UTF-8 .CSV file from an Excel spreadsheet**
+**Use Notepad to create a UTF-8 .CSV file from an Excel spreadsheet**
   
 1. Open the file in Excel, and then choose **File** \> **Save As**. In the **Save as type** box, choose **Unicode Text (\*.txt)**. 
     
