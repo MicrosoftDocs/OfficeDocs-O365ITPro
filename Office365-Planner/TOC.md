@@ -9,4 +9,5 @@
 ## [Disable creation of Roster containers in Microsoft Planner](disable-roster-containers.md)
 ## [Disabling direct-push notifications for your organization](disabling-direct-push-planner-mobile-notifications.md)
 ## [Access Microsoft Planner Roster](access-planner-roster.md)
+## [Block a user from deleting tasks in Microsoft Planner they didn't create](block-non-owner-task-deletion.md)
 ## [Prerequisites for making Planner changes in Windows PowerShell](prerequisites-for-powershell.md)
