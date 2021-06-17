@@ -28,7 +28,7 @@ If you are a tenant admin who has made a support request for your organizationâ€
 
 ## Prerequisites for making Planner changes in Windows PowerShell
 
-First, you will need to follow [these](prerequisites-for-powershell.md) steps in order to make Planner changes in Windows PowerShell.
+Follow the steps in [Prerequisites for making Planner changes in Windows PowerShell](prerequisites-for-powershell.md) to make Planner changes in Windows PowerShell.
 
 ## Authorize a tenant move using PowerShell
 

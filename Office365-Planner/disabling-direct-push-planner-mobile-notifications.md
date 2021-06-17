@@ -34,7 +34,7 @@ Because Planner is moving to a new system which uses a direct-push mechanism, we
 
 ## Prerequisites for making Planner changes in Windows PowerShell
 
-First, you will need to follow [these](prerequisites-for-powershell.md) steps in order to make Planner changes in Windows PowerShell.
+Follow the steps in [Prerequisites for making Planner changes in Windows PowerShell](prerequisites-for-powershell.md) to make Planner changes in Windows PowerShell.
 
 ## Disable direct-push notifications
 
