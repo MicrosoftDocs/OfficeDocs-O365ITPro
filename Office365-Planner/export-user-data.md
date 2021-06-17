@@ -118,7 +118,7 @@ The user file name will be prefixed with "User" and the Microsoft Planner ID of 
 |User.FavoritePlans|Bookmark for plans the user has favorited.|
 |User.FavoritePlans.Id|Microsoft Planner ID of the plan.|
 |User.FavoritePlans.BookmarkName|Name assigned to the bookmark.|
-|User.FavoritePlans.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
+|User.FavoritePlans.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](/graph/api/resources/planner-order-hint-format).|
 |User.RecentPlans|Plans recently opened by the user.|
 |User.RecentPlans.Id|Microsoft Planner ID of the plan.|
 |User.RecentPlans.BookmarkName|Name assigned to the bookmark.|
@@ -129,7 +129,7 @@ The user file name will be prefixed with "User" and the Microsoft Planner ID of 
 |User.AssignedTaskOrdering|Sorting order for tasks assigned to the user.|
 |User.AssignedTaskOrdering.PlanId|Microsoft Planner ID of the plan that contains the task.|
 |User.AssignedTaskOrdering.Id|Microsoft Planner ID of the task.|
-|User.AssignedTaskOrdering.Order|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
+|User.AssignedTaskOrdering.Order|Used for sorting order. See [Using order hints in Microsoft Planner](/graph/api/resources/planner-order-hint-format).|
 |User.AssignedTaskOrdering.Title|The title of the task.|
 
 ## Plan files
@@ -139,7 +139,7 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Property |Description |
 |---|---|
 |Plan.Id|Microsoft Planner ID of the plan. |
-|Plan.Title|Title of the plan.|
+|Plan.Title|Title of the plan. <br/>*Note*: Plans with the title `RosterPlaceholderPlan_{89F9907E-D21D-4C90-A4B8-7A76CF3E6F70}` indicate that the current file represents a Roster that has been created but does not yet have a plan created inside it.|
 |Plan.Owner|Owner of the plan (a Group or User entity).|
 |Plan.Owner.Id|Microsoft Planner ID of the entity (Group or User). |
 |Plan.Owner.ExternalId|Azure Active Directory ID of the entity (Group or User).|
@@ -147,7 +147,7 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.Owner.UserPrincipalName|User Principal Name (UPN) if the owner is a user.  |
 |Plan.Owner.PrincipalType|The entity type (Group or User).|
 |Plan.Container|Container for the plan.|
-|Plan.Container.ContainerType|The type of container (Group). |
+|Plan.Container.ContainerType|The type of container (Group, Roster). |
 |Plan.Container.ExternalId|Azure Active Directory ID of the group.|
 |Plan.Container.Description|Display name of the group. |
 |Plan.CreatedDate|Date and time the plan was created.|
@@ -161,13 +161,16 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.ReferencesToPlan.ExternalId|External System's ID for this plan.|
 |Plan.ReferencesToPlan.AssociationType|The type of link to the plan, specified by the external app.|
 |Plan.ReferencesToPlan.CreatedDate|Date and time the reference object was created.|
+|Plan.ReferencesToPlan.CustomLinkText|Text that can be used when displaying the Url.|
+|Plan.ReferencesToPlan.DisplayAs|Specifies how the reference data like the Url should be presented in a user experience.|
+|Plan.ReferencesToPlan.IsCreationContext|Set to `true` if the reference was set when the Plan was created.|
 |Plan.ReferencesToPlan.OwnerAppId|ID of the app that created the reference.|
 |Plan.ReferencesToPlan.DisplayNameSegments|Breadcrumbs of the location that describes what references this plan.|
 |Plan.ReferencesToPlan.Url|Direct link to the app that references the plan.|
 |Plan.CategoryDescriptions|The full set of categories for the plan.|
 |Plan.CategoryDescriptions.Index|The index of the category description.|
 |Plan.CategoryDescriptions.Description|The label text for the corresponding category description index value.|
-|Plan.PlanFollowers|Users who follow the plan.
+|Plan.PlanFollowers|If Plan.Container.ContainerType is Group, then this field is the Users who follow the plan. If the Plan.Container.ContainerType is Roster, then this field is the Users who are members of the Roster. |
 |Plan.TimelineId|The feature has been deprecated.|
 |Plan.TimelineDisplaySettings|The feature has been deprecated.|
 |Plan.TimelineLockedWidth|The feature has been deprecated.|
@@ -181,7 +184,7 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.Tasks.DueDate|Date the task is scheduled to complete.|
 |Plan.Tasks.ConversationThreadId|Conversation unique identifier from Microsoft Exchange.|
 |Plan.Tasks.PreviewType|Preview that is displayed on the task card.|
-|Plan.Tasks.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
+|Plan.Tasks.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](/graph/api/resources/planner-order-hint-format).|
 |Plan.Tasks.CreatedBy|User that created the task. See User properties for more detail.|
 |Plan.Tasks.CreatedDate|Date the task was created.|
 |Plan.Tasks.CompletedBy|User that completed the task. See User properties for more detail.|
@@ -192,14 +195,14 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.Tasks.TaskDetailsId |Unique identifier of the details object for the task.|
 |Plan.Tasks.Description|Description of the task.|
 |Plan.Tasks.AssignedToTaskBoardFormatId|Unique identifier for the object that is the task board format.|
-|Plan.Tasks.AssignedToTaskBoardFormatUnassignedOrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
+|Plan.Tasks.AssignedToTaskBoardFormatUnassignedOrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](/graph/api/resources/planner-order-hint-format).|
 |Plan.Tasks.AssignedToTaskBoardFormatOrderHintsByAssignee|Order hint for each of the assignees.|
 |Plan.Tasks.AssignedToTaskBoardFormatOrderHintsByAssignee.AssignedTo:|The user that is assigned the task. See User properties for more detail.|
 |Plan.Tasks.AssignedToTaskBoardFormatOrderHintsByAssignee.Order|Ordering of the tasks specified by assignee in the Assigned To view.|
 |Plan.Tasks.BucketTaskBoardFormatId|Unique identifier for the object that is the bucket task board format.|
-|Plan.Tasks.BucketTaskBoardFormatOrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
+|Plan.Tasks.BucketTaskBoardFormatOrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](/graph/api/resources/planner-order-hint-format).|
 |Plan.Tasks.ProgressTaskBoardFormatId|Unique identifier for the object when grouped by progress instead of bucket format. |
-|Plan.Tasks.ProgressTaskBoardFormatOrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
+|Plan.Tasks.ProgressTaskBoardFormatOrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](/graph/api/resources/planner-order-hint-format).|
 |Plan.Tasks.TimelineFormatId|The feature has been deprecated.|
 |Plan.Tasks.TimelineFormatShowOnTimeline|The feature has been deprecated.|
 |Plan.Tasks.TimelineFormatAnchorPosition|The feature has been deprecated.|
@@ -223,7 +226,7 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.Tasks.Checklist|The checklist for the task.|
 |Plan.Tasks.Checklist.Id|Unique identifier of a checklist item.|
 |Plan.Tasks.Checklist.Title|Name of the checklist item.|
-|Plan.Tasks.Checklist.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
+|Plan.Tasks.Checklist.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](/graph/api/resources/planner-order-hint-format).|
 |Plan.Tasks.Checklist.IsChecked|If true, the checklist item has been completed.|
 |Plan.Tasks.Checklist.ModifiedBy|The user that last updated the checklist. See [User properties](#user-properties-in-the-plansjson-file) for more detail.|
 |Plan.Tasks.Checklist.ModifiedDate|Date the checklist was last updated.|
@@ -232,7 +235,7 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.Buckets  |Bucket objects for the plan.|
 |Plan.Buckets.Id|Unique identifier for the bucket.|
 |Plan.Buckets.Title|Name of the bucket.|
-|Plan.Buckets.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](https://go.microsoft.com/fwlink/?linkid=872173).|
+|Plan.Buckets.OrderHint|Used for sorting order. See [Using order hints in Microsoft Planner](/graph/api/resources/planner-order-hint-format).|
 |Plan.Buckets.Createdby|The user that created the bucket. See [User properties](#user-properties-in-the-plansjson-file) for more detail.|
 |Plan.Buckets.CreatedDate|Date the bucket was created.|
 |Plan.Buckets.ModifiedBy|The user that last updated the bucket. See [User properties](#user-properties-in-the-plansjson-file) for more detail.|

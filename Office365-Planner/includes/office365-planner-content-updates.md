@@ -2,24 +2,22 @@
 
 
 
-## Week of February 01, 2021
+## Week of March 22, 2021
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 2/4/2021 | [Export user data from Microsoft Planner](/Office365/Planner/export-user-data) | modified |
+| 3/22/2021 | [Export user data from Microsoft Planner](/Office365/Planner/export-user-data) | modified |
+| 3/22/2021 | [Microsoft Planner for admins # < 60 chars](/Office365/Planner/index) | modified |
+| 3/22/2021 | [Microsoft Planner for admins](/Office365/Planner/planner-for-admins) | modified |
+| 3/22/2021 | [Prerequisites for making Planner changes in Windows PowerShell](/Office365/Planner/prerequisites-for-powershell) | modified |
+| 3/22/2021 | [Turn off Outlook calendar sync in Planner for your organization](/Office365/Planner/turn-off-outlook-calendar-sync) | modified |
 
 
-## Week of December 14, 2020
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-
-
-## Week of January 11, 2021
+## Week of March 15, 2021
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 1/13/2021 | [Enable your organization’s Planner tenant to be moved](/Office365/Planner/enable-organization-planner-tenant-move) | modified |
+| 3/16/2021 | [Disabling direct-push notifications for your organization](/Office365/Planner/disabling-direct-push-planner-mobile-notifications) | added |
+| 3/16/2021 | [Prerequisites for making Planner changes in Windows PowerShell](/Office365/Planner/prerequisites-for-powershell) | modified |

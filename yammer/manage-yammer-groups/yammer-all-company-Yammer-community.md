@@ -59,7 +59,7 @@ The differences between an All Company that is connected to a Microsoft 365 Grou
 
 - A connected All Company community creates a Microsoft 365 Group.
 - A connected All Company can have Live Events.
-- A connected All Company has [Microsoft 365 Resources](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252farticle%252fd8c239dc-a48b-47ab-b85e-6b4b8191a869).
+- A connected All Company has [Microsoft 365 Resources](./yammer-and-office-365-groups.md).
 
 The process for confirming that All Company is connected works the same as it does for any community. To do so, select the following settings in the Network Admin Settings.
 
@@ -83,10 +83,8 @@ For more information about the various SharePoint web parts and embed features, 
 
 [Is my Yammer community or group connected to Microsoft 365?](https://support.office.com/article/is-my-community-or-group-connected-to-microsoft-365-f592296f-4158-43d8-b711-d77c35db826e)
 
-[Yammer and Microsoft 365 Groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252farticle%252fd8c239dc-a48b-47ab-b85e-6b4b8191a869)
+[Yammer and Microsoft 365 Groups](./yammer-and-office-365-groups.md)
 
 [Restrict All Company posts in Yammer](https://support.office.com/article/3219d2ae-db15-4c9f-9dd2-28559ae39a97)
 
 [Use a Yammer web part in SharePoint Online](https://support.microsoft.com/office/a53cfa0c-3d09-42c8-a286-1038a81c59da)
-
-

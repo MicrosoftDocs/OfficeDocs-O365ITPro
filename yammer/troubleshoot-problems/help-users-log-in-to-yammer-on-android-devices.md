@@ -112,12 +112,10 @@ Follow these steps to configure your Security Token Service (STS) and Web Applic
     
 If the above steps didn't work for you, look into these similar issues, or contact [Yammer Support](https://answers.microsoft.com/msoffice/wiki/msoffice_yammer-mso_o365app/welcome-to-yammer-support/2bdde618-2e1a-4983-9651-4a56f26e8e38):
   
-[An external certificate that is not yet valid](https://technet.microsoft.com/library/dn383637.aspx)
+[An external certificate that is not yet valid](/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/dn383637(v=ws.11))
   
-[An external certificate that has expired](https://technet.microsoft.com/library/dn383649%28v=ws.11%29.aspx)
+[An external certificate that has expired](/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/dn383649(v=ws.11))
   
-[An external certificate that doesn't have a private key](https://technet.microsoft.com/library/dn383656%28v=ws.11%29.aspx)
+[An external certificate that doesn't have a private key](/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/dn383656(v=ws.11))
   
-These three issues are related to the Web Application Proxy (WAP). For more information about WAP, go to [https://technet.microsoft.com/library/dn584113(v=ws.11).aspx](https://technet.microsoft.com/library/dn584113%28v=ws.11%29.aspx).
-  
-
+These three issues are related to the Web Application Proxy (WAP). For more information about WAP, go to [https://technet.microsoft.com/library/dn584113(v=ws.11).aspx](/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/dn584113(v=ws.11)).

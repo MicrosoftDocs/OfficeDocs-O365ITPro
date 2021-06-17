@@ -25,7 +25,7 @@ Sometimes you need to communicate with outside partners, suppliers, or customers
 If the external user belongs to an Office 365 Tenant, a Yammer Enterprise license is needed for the user. If the external user does not belong to an Office 365 Tenant, the user must have a valid work or school email account to participate as an external Yammer user. In this case, the email account may not be a public account (@hotmail.com, @outlook.com, @gmail.com, or @yahoo.com), but it is the email address and account that someone would use to sign in to Office 365 for business for work or school. 
 
 >[!NOTE] 
->This feature is not available for Yammer Enterprise networks in the [EU Geo](../manage-security-and-compliance/data-residency.md).
+>This feature is not available for Yammer Enterprise networks in the [EU Geo](../manage-security-and-compliance/data-residency.md) or in Yammer mobile apps.
   
 Here's how to work with external participants in Yammer:
   
@@ -116,8 +116,6 @@ If an external participants no longer wants to participate, they can unsubscribe
     
 ## Related articles
 
-[Find external participants in a Yammer network](find-external-participants.md)
-  
 [External Yammer participants FAQ](external-messaging-faq.md)
   
 [Disable external messaging in a Yammer network](disable-external-messaging.md)

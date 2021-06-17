@@ -2,25 +2,34 @@
 
 
 
-## Week of February 08, 2021
+## Week of May 10, 2021
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
+| 5/12/2021 | [Add external messaging participants to your Yammer conversations](/Yammer/work-with-external-users/add-external-participants) | modified |
 
 
-## Week of January 25, 2021
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 1/25/2021 | [Export data from Yammer Enterprise](/Yammer/manage-security-and-compliance/export-yammer-enterprise-data) | modified |
-| 1/28/2021 | [Export data from Yammer Enterprise](/Yammer/manage-security-and-compliance/export-yammer-enterprise-data) | modified |
-
-
-## Week of December 14, 2020
+## Week of May 03, 2021
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 12/14/2020 | [Business-to-business (B2B) Guest support in Yammer Preview - Customer Terms and FAQ](/Yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer) | modified |
+| 5/3/2021 | [Live events in Yammer](/Yammer/manage-yammer-groups/yammer-live-events) | modified |
+
+
+## Week of April 26, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 4/28/2021 | [Live events in Yammer](/Yammer/manage-yammer-groups/yammer-live-events) | modified |
+
+
+## Week of April 19, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 4/20/2021 | [Overview of Native Mode for Microsoft 365](/Yammer/configure-your-yammer-network/overview-native-mode) | modified |
+| 4/21/2021 | [Add, block, or remove Yammer users](/Yammer/manage-yammer-users/add-block-or-remove-users) | modified |

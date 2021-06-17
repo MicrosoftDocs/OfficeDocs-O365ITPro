@@ -112,7 +112,7 @@ Even after consolidation, you may be in a situation where due to strong business
 
 - **Confusion caused due to organization boundaries being different in Yammer vs. Office 365:** In this configuration, the organizational boundary in Office 365 is larger than the individual Yammer networks, causing potential confusion. Some examples below.
 
-  - Yammer comments on Office 365 content: An Office 365 video may be shared with everyone in the organization. A contoso.com network user may comment on an [Office 365 Video](https://support.office.com/article/ca1cc1a9-a615-46e1-b6a3-40dbd99939a6) - but this comment will be visible only to other users in the contoso.com network. Then a fabrikam.com network user adds another comment similar to the one by the contoso.com user, but this comment will not be visible to the contoso.com user (sine they are on different networks).
+  - Yammer comments on Office 365 content: An Office 365 video may be shared with everyone in the organization. A contoso.com network user may comment on an [Office 365 Video](https://support.office.com/article/ca1cc1a9-a615-46e1-b6a3-40dbd99939a6) - but this comment will be visible only to other users in the contoso.com network. Then a fabrikam.com network user adds another comment similar to the one by the contoso.com user, but this comment will not be visible to the contoso.com user (since they are on different networks).
 
   - Yammer conversations during a Skype meeting broadcast: You can [Add a Yammer feed to a Skype Meeting Broadcast](https://support.office.com/article/0d92d1c4-4032-4b5b-bee4-cdeab1aea7c0) to any Skype meeting broadcast. You typically choose a group in Yammer to include in the meeting broadcast, and the group belongs to a specific Yammer network. But the meeting broadcast itself can include anyone from the Office 365 tenant. So, there may be a situation when a user is logged in to the Skype meeting broadcast, but is not a member of the associated Yammer group, and so cannot participate in the conversation.
 
@@ -240,4 +240,4 @@ Even after you move into a 1 tenant: 1 network configuration, you could accident
   
 A: This can happen if your network is in an unsupported configuration with 1 tenant and many Yammer networks. For more information, read about the [1 tenant: many Yammer networks scenario](#OneTenantManyNetworks).
 
-You can either [consolidate your Yammer networks](consolidate-multiple-yammer-networks.md), or change the user's account, as explained in [A Yammer user is displayed as former member when you use Office 365 sign in for Yammer](https://go.microsoft.com/fwlink/?LinkId=871019).
+You can either [consolidate your Yammer networks](consolidate-multiple-yammer-networks.md), or change the user's account, as explained in [A Yammer user is displayed as former member when you use Office 365 sign in for Yammer](../troubleshoot-problems/yammer-user-is-displayed-as-former-member.md).

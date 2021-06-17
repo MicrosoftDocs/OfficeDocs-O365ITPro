@@ -23,7 +23,7 @@ description: "When you enforce Office 365 identity in Yammer, all Yammer users u
 
 # Enforce Office 365 identity for Yammer users
 
-As Yammer becomes a core service for your organization, you'll want users to be able to log into it seamlessly, just like any other Office 365 service. Additionally, you'll probably want to maintain a single identity for all Office 365 users for easier user management. You can achieve both of these goals by enforcing Office 365 identity in Yammer. By enforcing Office 365 identity in Yammer and configuring [password hash sync](https://go.microsoft.com/fwlink/?LinkId=871867), [pass-through authentication](https://go.microsoft.com/fwlink/?LinkId=871866), or [Understanding Office 365 identity and Azure Active Directory](https://support.office.com/article/06a189e7-5ec6-4af2-94bf-a22ea225a7a9#BK_Federated) for Office 365, admins can achieve single sign-on (SSO) capabilities for all services in Office 365, including Yammer. 
+As Yammer becomes a core service for your organization, you'll want users to be able to log into it seamlessly, just like any other Office 365 service. Additionally, you'll probably want to maintain a single identity for all Office 365 users for easier user management. You can achieve both of these goals by enforcing Office 365 identity in Yammer. By enforcing Office 365 identity in Yammer and configuring [password hash sync](/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization), [pass-through authentication](/azure/active-directory/hybrid/how-to-connect-pta), or [Understanding Office 365 identity and Azure Active Directory](https://support.office.com/article/06a189e7-5ec6-4af2-94bf-a22ea225a7a9#BK_Federated) for Office 365, admins can achieve single sign-on (SSO) capabilities for all services in Office 365, including Yammer. 
   
 ## How enforcing Office 365 identities in Yammer works
 
@@ -170,5 +170,3 @@ A: Users will be logged out of their web and mobile sessions immediately and wil
 ### Q: How can I audit and clean up Yammer users when compared to Office 365 and Azure AD?
 
 A: You can audit Yammer users in networks connected to Office 365 and take appropriate actions based on it. See more information and examples in [How to audit Yammer users in networks connected to Office 365](../manage-yammer-users/audit-users-connected-to-office-365.md).
-  
-

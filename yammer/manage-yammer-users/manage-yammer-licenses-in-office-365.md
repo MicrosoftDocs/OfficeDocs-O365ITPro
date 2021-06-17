@@ -41,7 +41,7 @@ See [Assign licenses to users in Office 365 for business](https://support.office
   
 ## Manage Yammer licenses by using Windows PowerShell
 
-You can use cmdlets in Windows PowerShell to assign Office 365 licenses. With Windows PowerShell, you can more easily see who has a license, and assign licenses for multiple users at the same time. For more information, see [Use Office 365 PowerShell to assign licenses to user accounts](https://go.microsoft.com/fwlink/?LinkID=613097). You can also bulk update licenses based on a CSV file. For more information, see [Bulk license assignment to Office 365 users based on CSV](https://go.microsoft.com/fwlink/?LinkId=717762).
+You can use cmdlets in Windows PowerShell to assign Office 365 licenses. With Windows PowerShell, you can more easily see who has a license, and assign licenses for multiple users at the same time. For more information, see [Use Office 365 PowerShell to assign licenses to user accounts](/microsoft-365/enterprise/assign-licenses-to-user-accounts-with-microsoft-365-powershell). You can also bulk update licenses based on a CSV file. For more information, see [Bulk license assignment to Office 365 users based on CSV](/samples/browse/?redirectedfrom=TechNet-Gallery).
   
 Below are some example Windows PowerShell script snippets that you can use to manage Yammer licenses. Use them to develop a complete script for your organization.
   
@@ -140,5 +140,3 @@ A: You can [Enforce Office 365 identity](../configure-your-yammer-network/enforc
 ### Q: How can I tell if all of my Yammer users have accounts in Office 365?
 
 A: You can export your list of users from Yammer and check for users who are not in Office 365. For more information, see [Audit Yammer users in networks connected to Office 365](audit-users-connected-to-office-365.md).
-  
-

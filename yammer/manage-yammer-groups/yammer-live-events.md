@@ -57,7 +57,7 @@ This article lists the Yammer network requirements, licenses, and permissions fo
 
 ## Types of live events
 
-To understand how Yammer, Stream, and Teams work together in live events, see [Overview of live events](https://docs.microsoft.com/microsoftteams/teams-live-events/what-are-teams-live-events#overview). 
+To understand how Yammer, Stream, and Teams work together in live events, see [Overview of live events](/microsoftteams/teams-live-events/what-are-teams-live-events#overview). 
 Live events can be created and viewed in Yammer, Stream, or Teams. This article explains the requirements for creating and viewing a live event in Yammer. 
 
 There are two ways live events in Yammer can be produced. The requirements depend on which video production methods you intend to use in your organization.
@@ -106,10 +106,10 @@ Yammer has partnered with Teams and Stream to provide the best technology for ru
 - **Producing**:
 
     - **Events produced using an external app or device**:
-        To produce any kind of event in Yammer, you will need to have your Microsoft Stream license enabled. For external app or device events, the person who presents or produces the event must have a Stream license and permission to create live events. By default, only Microsoft Stream administrators have permission to create live events. Use the Stream admin settings to give permission to specific users. For steps to grant or remove permissions in Stream, see [Administration controls for live events in Stream](https://docs.microsoft.com/stream/live-event-administration).
+        To produce any kind of event in Yammer, you will need to have your Microsoft Stream license enabled. For external app or device events, the person who presents or produces the event must have a Stream license and permission to create live events. By default, only Microsoft Stream administrators have permission to create live events. Use the Stream admin settings to give permission to specific users. For steps to grant or remove permissions in Stream, see [Administration controls for live events in Stream](/stream/live-event-administration).
 
     - **Events produced using Teams**:
-        The person who presents or produces the event must have a Teams license and specific policies set in Teams. For requirements, see [Who can create and schedule live events in Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#who-can-create-and-schedule-live-events). For steps to set policies, see [Set up live events policies](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-3-set-up-live-events-policies). 
+        The person who presents or produces the event must have a Teams license and specific policies set in Teams. For requirements, see [Who can create and schedule live events in Teams](/microsoftteams/teams-live-events/plan-for-teams-live-events#who-can-create-and-schedule-live-events). For steps to set policies, see [Set up live events policies](/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-3-set-up-live-events-policies). 
  
 ### Restrict creation of live events in Yammer
 
@@ -123,7 +123,7 @@ You can prevent creation of live events produced in teams, live events produced 
 
 **Q: How many participants can view a live event at once?**
 
-A. Currently the limit is 10,000 participants. For events of a higher size, work through the [Live Events Assistance Program](https://resources.techcommunity.microsoft.com/live-events/assistance/).
+A. Currently, the limit is 10,000 participants. For events of a higher size, work through the [Live Events Assistance Program](https://resources.techcommunity.microsoft.com/live-events/assistance/).
 
 **Q: What media player is used for live events?**
 
@@ -133,9 +133,15 @@ Events produced using an external app or device use the Stream player.
 
 Both work on desktop, web, and mobile devices (iOS and Android).
 
+**Q: Why can't I view the video?**
+
+To maintain the privacy of live event content, only authorized users can join a live event and are authenticated as they load the live event page. If authentication isn't successful, you won't be able to view the video.
+
+To fix this, use your browser's settings to make sure that cookies are enabled and that any extensions that block tokens are disabled. After changing the settings, refresh the event page.
+
 **Q: How can I make it easy for my event organizers to get help?**
 
-In Microsoft 365 and Office 365, you can customize the help pane that comes up when users click the Help icon to add contact information for your local support staff. For more information, see [Add customized help desk info to the help pane](https://docs.microsoft.com/office365/admin/misc/customize-help-desk).
+In Microsoft 365 and Office 365, you can customize the help pane that comes up when users click the Help icon to add contact information for your local support staff. For more information, see [Add customized help desk info to the help pane](/office365/admin/misc/customize-help-desk).
 
 ## Related articles
 
@@ -143,6 +149,6 @@ In Microsoft 365 and Office 365, you can customize the help pane that comes up w
 
 [Microsoft Teams live events overview](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
 
-[Microsoft Stream live events overview](https://docs.microsoft.com/stream/live-event-overview)
+[Microsoft Stream live events overview](/stream/live-event-overview)
 
 [Get help producing a live event](https://support.office.com/article/0cedb557-cbe4-40d3-8147-112633f087eb)
