@@ -8,4 +8,5 @@
 ## [Enable your organization's Planner tenant to be moved](enable-organization-planner-tenant-move.md)
 ## [Disable creation of Roster containers in Microsoft Planner](disable-roster-containers.md)
 ## [Disabling direct-push notifications for your organization](disabling-direct-push-planner-mobile-notifications.md)
+## [Access Microsoft Planner Roster](access-planner-roster.md)
 ## [Prerequisites for making Planner changes in Windows PowerShell](prerequisites-for-powershell.md)

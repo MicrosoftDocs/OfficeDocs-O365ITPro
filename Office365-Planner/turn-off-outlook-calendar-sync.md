@@ -7,7 +7,7 @@ author: efrene
 manager: pamgreen
 ms.date: 08/14/2019
 audience: Admin
-ms.topic: Overview
+ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 search.appverid:
