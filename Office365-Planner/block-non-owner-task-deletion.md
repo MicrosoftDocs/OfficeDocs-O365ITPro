@@ -49,7 +49,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
 1. Use the Set-PlannerUserPolicy cmdlet to unblock a user from deleting Planner tasks that they didn't create.
 
    ```PowerShell
-     Set-PlannerUserPolicy -UserAadIdOrPrincipalName <user's AADId or UPN>  -BlockDeleteTasksNotCreatedBySelf $false
+     Set-PlannerUserPolicy -UserAadIdOrPrincipalName "<User's AAD ID or UPN>"  -BlockDeleteTasksNotCreatedBySelf $false
    ```
 
    |Parameter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
@@ -72,7 +72,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
 1. Check a user's current policy with the Get-PlannerUserPolicy cmdlet.
 
     ```PowerShell
-      Get-PlannerUserPolicy -UserAadIdOrPrincipalName <user's AADId or UPN>
+      Get-PlannerUserPolicy -UserAadIdOrPrincipalName "<User's AAD ID or UPN>"
     ```
 
    |Parameter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|

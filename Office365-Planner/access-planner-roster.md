@@ -33,11 +33,11 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
 1. Run the following command to add a user to a Roster’s membership. The value returned is the added user’s AAD ID.
 
      ```PowerShell
-     Add-PlannerRosterMember -RosterId <Roster Id> -UserAadIdOrPrincipalName <User’s AAD Id or UPN>
+     Add-PlannerRosterMember -RosterId <Roster Id> -UserAadIdOrPrincipalName "<User’s AAD ID or UPN>"
      ```
 
 2. Run the following command to remove a user from the Roster’s membership. No value is returned, but when this command completes the user will have been removed.  
 
      ```PowerShell
-     Remove-PlannerRosterMember -RosterId <Roster Id> -UserAadIdOrPrincipalName <User’s AAD ID or UPN>
+     Remove-PlannerRosterMember -RosterId <Roster Id> -UserAadIdOrPrincipalName "<User’s AAD ID or UPN>"
      ```
