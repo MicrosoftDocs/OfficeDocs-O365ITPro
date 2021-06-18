@@ -24,11 +24,11 @@ If you're new to Windows PowerShell, see [Getting started with Windows PowerShel
 
 ## Download Planner Tenant Admin Powershell Commands
 
-[!NOTE]
- You must be a global admin to run the Planner Tenant Admin Powershell Commands.
+> [!NOTE]
+> You must be a global admin to run the Planner Tenant Admin Powershell Commands.
 
-[!NOTE]
-By downloading this package, you agree to the enclosed license and terms.
+> [!NOTE]
+> By downloading this package, you agree to the enclosed license and terms.
 
 Download the [Planner Tenant Admin Powershell file](https://download.microsoft.com/download/d/f/c/dfc96522-4247-4254-a544-b13f191b56be/PlannerTenantAdmin.zip). Unzip it to a location you can access from PowerShell.
 ## Unblock your files
@@ -60,7 +60,7 @@ After unblocking your files, do the following to load the Planner Tenant Admin P
 
 2. Type the following to run the PlannerTenantAdmin PowerShell script. This will import a module with all available cmdlets.
 
-   `PS> Import-module "<location of the .psm1 file you unzipped>"`
+   `PS> Import-module "<location of the plannertenantadmin.psm1 file you unzipped>"`
 
    For example, if you file is stored in C:\AdminScript, you would type:
 
