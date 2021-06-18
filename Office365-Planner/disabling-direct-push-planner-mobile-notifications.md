@@ -40,17 +40,23 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
 
 1. Open PowerShell and run the following command to disable the notifications 
 
-   `Set-PlannerConfiguration -AllowPlannerMobilePushNotifications $false`
+   ```PowerShell
+   Set-PlannerConfiguration -AllowPlannerMobilePushNotifications $false
+   ```
    
    Likewise, if you want to re-enable, run the below command 
 
-   `Set-PlannerConfiguration -AllowPlannerMobilePushNotifications $true`
+   ```PowerShell
+   Set-PlannerConfiguration -AllowPlannerMobilePushNotifications $true
+   ```
 
    > [!NOTE]
    > You'll need to sign in using your Azure Active Directory credentials and use a local PowerShell window (not Azure Cloud Shell).
 
-2. To verify your settings:
+2. To verify your settings, run:
 
-   - In PowerShell, run: `Get-PlannerConfiguration`.
+   ```PowerShell
+   Get-PlannerConfiguration
+   ```
    - The AllowPlannerMobilePushNotifications value returned by this command indicates whether the notifications are enabled
    

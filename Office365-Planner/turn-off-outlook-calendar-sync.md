@@ -33,16 +33,22 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
 
 1. Open PowerShell and run the following command to turn off Outlook calendar sync for Planner:
 
-   `Set-PlannerConfiguration -AllowCalendarSharing $false`
+   ```PowerShell
+   Set-PlannerConfiguration -AllowCalendarSharing $false
+   ```
 
    To turn Outlook calendar sync back on in Planner:
 
-   `Set-PlannerConfiguration -AllowCalendarSharing $true`
+   ```PowerShell
+   Set-PlannerConfiguration -AllowCalendarSharing $true
+   ```
 
    > [!NOTE]
    > You'll need to sign in using your Azure Active Directory credentials.
 
-2. To verify your settings:
+2. To verify your settings, run:
 
-   - In PowerShell, run: `Get-PlannerConfiguration`
+   ```PowerShell
+   Get-PlannerConfiguration
+   ```
    - In Planner, go to **Planner** > **My Tasks**. Select the ellipses (...). Outlook calendar sync is enabled if you see the **Add "My Tasks" to Outlook calendar** command, and disabled if you don't.

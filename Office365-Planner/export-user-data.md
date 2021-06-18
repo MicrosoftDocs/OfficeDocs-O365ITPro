@@ -30,7 +30,9 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
 
 1. From Windows PowerShell, use the Export-PlannerUserContent cmdlet to export your user's content from Planner.
 
-   `PS> Export-PlannerUserContent -UserAadIdOrPrincipalName <user's AADId or UPN> -ExportDirectory <output location>`
+   ```PowerShell
+   Export-PlannerUserContent -UserAadIdOrPrincipalName <user's AADId or UPN> -ExportDirectory <output location>
+   ```
 
     |Parameter|Description|
     |---|---|
@@ -40,7 +42,9 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
     
     For example, the following will export Adam Barr's user information from Planner using his UPN, and will download the export files to the location C:\PlannerExportAdamBarr.
 
-    `PS> Export-PlannerUserContent -UserAadIdOrPrincipalName adambarr@contoso.onmicrosoft.com -ExportDirectory C:\PlannerExportAdamBarr`
+   ```PowerShell
+    Export-PlannerUserContent -UserAadIdOrPrincipalName adambarr@contoso.onmicrosoft.com -ExportDirectory C:\PlannerExportAdamBarr
+   ```
 
 2. You'll be prompted to authenticate. Log in as yourself (the global admin), not the user you want to export.
 

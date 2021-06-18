@@ -56,14 +56,20 @@ After unblocking your files, do the following to load the Planner Tenant Admin P
 
 1. Start Windows PowerShell. In PowerShell, type the following to enable running scripts downloaded from the internet for this session only. It may prompt you to confirm by typing "Y".
 
-   `PS> Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process`
+   ```PowerShell
+   Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process
+   ```
 
 2. Type the following to run the PlannerTenantAdmin PowerShell script. This will import a module with all available cmdlets.
 
-   `PS> Import-module "<location of the plannertenantadmin.psm1 file you unzipped>"`
+   ```PowerShell
+   Import-module "<location of the plannertenantadmin.psm1 file you unzipped>"
+   ```
 
    For example, if you file is stored in C:\AdminScript, you would type:
 
-   `PS> Import-module "C:\AdminScript\PlannerTenantAdmin.psm1"`
+   ```PowerShell
+   Import-module "C:\AdminScript\PlannerTenantAdmin.psm1"
+   ```
    
 Now you're ready to make changes to Planner at the organizational level using PowerShell.
