@@ -28,22 +28,29 @@ If you are a tenant admin who has made a support request for your organizationâ€
 
 ## Prerequisites for making Planner changes in Windows PowerShell
 
-First, you will need to follow [these](prerequisites-for-powershell.md) steps in order to make Planner changes in Windows PowerShell.
+Follow the steps in [Prerequisites for making Planner changes in Windows PowerShell](prerequisites-for-powershell.md) to make Planner changes in Windows PowerShell.
 
 ## Authorize a tenant move using PowerShell
 
 1. Open PowerShell and run the following command to authorize your tenant to be moved:
 
-   `Set-PlannerConfiguration -AllowTenantMoveWithDataLoss $true`
+   ```PowerShell
+   Set-PlannerConfiguration -AllowTenantMoveWithDataLoss $true
+   ```
 
    If youâ€™ve changed your mind and would like to prevent your tenant from being moved, run the following command. Note that tenant moves are final once started by the Planner team.
 
-   `Set-PlannerConfiguration -AllowTenantMoveWithDataLoss $false`
+   ```PowerShell
+   Set-PlannerConfiguration -AllowTenantMoveWithDataLoss $false
+   ```
 
    > [!NOTE]
    > You'll need to sign in using your Azure Active Directory credentials and use a local PowerShell window (not Azure Cloud Shell).
 
-2. To verify your settings:
+2. To verify your settings, run:
 
-   - In PowerShell, run: `Get-PlannerConfiguration`.
+   ```PowerShell
+   Get-PlannerConfiguration
+   ```
+
    - The AllowTenantMoveWithDataLoss value returned by this command indicates whether a tenant move is currently authorized.

@@ -29,7 +29,7 @@ The Roster and the plan contained by the Roster automatically self-delete when t
 
 ## Prerequisites for making Planner changes in Windows PowerShell
 
-First, you will need to follow the steps in [Prerequisites for making Planner changes in Windows PowerShell](prerequisites-for-powershell.md) to make Planner changes in Windows PowerShell.
+Follow the steps in [Prerequisites for making Planner changes in Windows PowerShell](prerequisites-for-powershell.md) to make Planner changes in Windows PowerShell.
 
 ## Disable the creation of Roster containers in your organization's Planner tenant
 
