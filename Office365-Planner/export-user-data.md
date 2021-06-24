@@ -36,9 +36,9 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
 
     |Parameter|Description|
     |---|---|
-    |-UserAadIdOrPrincipalName|Use either the Azure Active Directory ID or the UPN of the user for which you want to export content.|
-    |-ExportDirectory|Location to store your output files. The folder should already exist.|
-    |-HostName|You only need to use this parameter if you access Planner though a host name other than *task.</span>office.</span>com*. For example, if you access Planner through *tasks.</span>office365.</span>us*, include *-HostName tasks.</span>office365</span>.us* in your command.|
+    |UserAadIdOrPrincipalName|Use either the Azure Active Directory ID or the UPN of the user for which you want to export content.|
+    |ExportDirectory|Location to store your output files. The folder should already exist.|
+    |HostName|You only need to use this parameter if you access Planner though a host name other than *task.</span>office.</span>com*. For example, if you access Planner through *tasks.</span>office365.</span>us*, include *-HostName tasks.</span>office365</span>.us* in your command.|
     
     For example, the following will export Adam Barr's user information from Planner using his UPN, and will download the export files to the location C:\PlannerExportAdamBarr.
 
