@@ -7,7 +7,7 @@ author: efrene
 manager: pamgreen
 ms.date: 8/14/2019
 audience: Admin
-ms.topic: Overview
+ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 search.appverid:
@@ -22,69 +22,33 @@ This article describes how a global admin can export data for a specific user fr
 > [!NOTE]
 > A global admin can export Microsoft Planner user telemetry data through the [Data Log Export Tool](https://go.microsoft.com/fwlink/?linkid=872273) on the [Microsoft Service Trust Portal](https://go.microsoft.com/fwlink/?linkid=872274).
 
-## Requirements
+## Prerequisites for making Planner changes in Windows PowerShell
 
-You need to do the following first:
-
-- You must be a global admin to run the PowerShell script for exporting your Planner user data.
-- You need to download and unzip the [Planner user data export files](https://go.microsoft.com/fwlink/?linkid=871954). These three files are the PowerShell modules and the PowerShell script file needed to export your users data.
-
-    > [!NOTE]
-    > By downloading this package, you agree to the enclosed license and terms.
-
-## Unblock your files
-
-You will need to "unblock" three of the files you downloaded in the Planner User Data Export script package in order to user them in PowerShell. This is because by default, executing scripts downloaded from the Internet is not allowed. The files you need to unblock are:
-
-- plannertenantadmin.psm1
-- microsoft.identitymodel.clients.activedirectory.dll
-- microsoft.identitymodel.clients.activedirectory.windowsforms.dll
-
-Do the following to unblock these files:
-
-1. In File Explorer, go to the location in which you unzipped your files.
-2. Right-click on one of the unzipped files noted above, and click Properties.
-3. On the General tab, select **Unblock**.
-
-    ![unblock-files](media/unblock-files.png) 
-
-4. Select **OK**.
-
-5. Repeat these steps for the remaining two files.
+Follow the steps in [Prerequisites for making Planner changes in Windows PowerShell](prerequisites-for-powershell.md) to make Planner changes in Windows PowerShell.
 
 ## To export user content from Planner
 
-After unblocking your files, do the following to export the user data from Planner:
+1. From Windows PowerShell, use the Export-PlannerUserContent cmdlet to export your user's content from Planner.
 
-1. Start Windows PowerShell. In PowerShell, type the following to enable running scripts downloaded from the internet for this session only. It may prompt you to confirm by typing "Y".
-
-   `PS> Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process`
-
-2. Type the following to run the PlannerTenantAdmin PowerShell script. This will import a module with the required cmdlet to run the export.
-
-   `PS> Import-module "<location of the .psm1 file>"`
-
-   For example, if you file is stored in C:\AdminScript, you would type:
-
-   `PS> Import-module "C:\AdminScript\PlannerTenantAdmin.psm1"`
-
-3. After the script completes, use the Export-PlannerUserContent cmdlet to export your user's content from Planner.
-
-   `PS> Export-PlannerUserContent -UserAadIdOrPrincipalName <user's AADId or UPN> -ExportDirectory <output location>`
+   ```PowerShell
+   Export-PlannerUserContent -UserAadIdOrPrincipalName <user's AADId or UPN> -ExportDirectory <output location>
+   ```
 
     |Parameter|Description|
     |---|---|
-    |-UserAadIdOrPrincipalName|Use either the Azure Active Directory ID or the UPN of the user for which you want to export content.|
-    |-ExportDirectory|Location to store your output files. The folder should already exist.|
-    |-HostName|You only need to use this parameter if you access Planner though a host name other than *task.</span>office.</span>com*. For example, if you access Planner through *tasks.</span>office365.</span>us*, include *-HostName tasks.</span>office365</span>.us* in your command.|
+    |UserAadIdOrPrincipalName|Use either the Azure Active Directory ID or the UPN of the user for which you want to export content.|
+    |ExportDirectory|Location to store your output files. The folder should already exist.|
+    |HostName|You only need to use this parameter if you access Planner though a host name other than *task.</span>office.</span>com*. For example, if you access Planner through *tasks.</span>office365.</span>us*, include *-HostName tasks.</span>office365</span>.us* in your command.|
     
     For example, the following will export Adam Barr's user information from Planner using his UPN, and will download the export files to the location C:\PlannerExportAdamBarr.
 
-    `PS> Export-PlannerUserContent -UserAadIdOrPrincipalName adambarr@contoso.onmicrosoft.com -ExportDirectory C:\PlannerExportAdamBarr`
+   ```PowerShell
+    Export-PlannerUserContent -UserAadIdOrPrincipalName adambarr@contoso.onmicrosoft.com -ExportDirectory C:\PlannerExportAdamBarr
+   ```
 
-4. You'll be prompted to authenticate. Log in as yourself (the global admin), not the user you want to export.
+2. You'll be prompted to authenticate. Log in as yourself (the global admin), not the user you want to export.
 
-5. After the PowerShell cmdlet runs successfully, go to your export location to view your user's exported data files.
+3. After the PowerShell cmdlet runs successfully, go to your export location to view your user's exported data files.
 
 ## What gets exported and how to read it
 
