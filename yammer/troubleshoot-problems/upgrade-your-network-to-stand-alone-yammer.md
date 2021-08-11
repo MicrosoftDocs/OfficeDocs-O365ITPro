@@ -1,9 +1,9 @@
 ---
-title: "Upgrade your network to stand-alone Yammer Enterprise subscription (Office 365 Government only)"
+title: "Upgrade your network to stand-alone Yammer Enterprise subscription"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: v-tosadd
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -24,8 +24,6 @@ description: "Upgrade a Yammer Basic network to Yammer Enterprise and get more g
 
 # Upgrade your network to stand-alone Yammer Enterprise subscription
 
- **NOTE: This topic applies to customers using Office 365 Government.**
-  
 Yammer Basic is an enterprise social networking service that helps workers connect, share, and collaborate. It's a free service that provides companies and their employees with a private network for posting messages, uploading files, "liking" posts, "following" particular individuals, tagging posts, searching, and so on. When a company signs up for the Yammer Basic service, any employee of that company who has a valid company email address can participate in the Yammer network. Yammer Basic is included with Office 365.
   
 Qualifying Office 365 customers who are looking for more granular control over the look and feel, content and membership management, or security of their Yammer network can upgrade the service to Yammer Enterprise. Yammer Enterprise provides all of the features of Yammer Basic but adds branding, security, and administrative features that enable customization and protection of the private network. Features include:
