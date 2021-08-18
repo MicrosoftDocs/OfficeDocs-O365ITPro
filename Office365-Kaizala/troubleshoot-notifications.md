@@ -56,7 +56,7 @@ There are a couple of things you'll have to do to turn on the notifications on t
     
  **You'll also need to change an option in your Android 6.0 version and later.**
   
-1. Go to **Settings** and open the apps section. Then go to ** Advanced **.
+1. Go to **Settings** and open the apps section. Then go to **Advanced**.
     
 2. Go to **Ignore Battery Optimizations**.
     
@@ -70,7 +70,7 @@ There are a couple of things you'll have to do to turn on the notifications on t
     
 Now allow notifications.
   
-1. Go to **Settings** \> ** notification panel &amp; status bar ** \> **Notifications**.
+1. Go to **Settings** \> **notification panel &amp; status bar** \> **Notifications**.
     
 2. Go to Kaizala and turn on **Notifications** and **Priority Display**.
     
@@ -84,7 +84,7 @@ If you've tried all the previous steps and are still having issues, you can try 
     
 ## Xiaomi
 
-1. Go to **Settings** \> ** notification panel &amp; status bar ** \> **Notifications**.
+1. Go to **Settings** \> **notification panel &amp; status bar** \> **Notifications**.
     
 2. Go to Kaizala and make sure it's on.
     
