@@ -75,4 +75,4 @@ To remove a Kaizala Action from a group:
 
 1. Select the group to be removed from the **Groups** page.
 2. Navigate to the **Action** tab. Find the action that you want to remove.
-3. Click or tap **More** ![Screenshot of More icon](media/more-icon.png), and then click or tap **Remove**.
+3. Click or tap **More** ![Screenshot of More icon.](media/more-icon.png), and then click or tap **Remove**.

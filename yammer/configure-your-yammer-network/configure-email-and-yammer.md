@@ -59,8 +59,8 @@ Admins control the following settings:
 
 Users control what email notifications they receive.
   
-Users can go to Yammer settings ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) \> **Edit settings** \> **Notifications** and select which notifications to receive.
+Users can go to Yammer settings ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) \> **Edit settings** \> **Notifications** and select which notifications to receive.
   
-![User settings for when notifications are sent by email](../media/845bf2cb-dd3b-4004-849a-fe083be86d88.png)
+![User settings for when notifications are sent by email.](../media/845bf2cb-dd3b-4004-849a-fe083be86d88.png)
   
 For more information, see [Yammer email and push notifications](https://support.office.com/article/93e530e0-189f-4768-8f28-7683d48cc996).

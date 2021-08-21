@@ -135,29 +135,29 @@ The network migration has three steps that you will be guided through. Multiple 
 
 2. Choose **Network Migration**.
 
-    ![Network Migration menu item for Yammer Admins](../media/f9ae9328-9cb2-46f7-9bce-26bcdc29b3fa.png)
+    ![Network Migration menu item for Yammer Admins.](../media/f9ae9328-9cb2-46f7-9bce-26bcdc29b3fa.png)
   
     You start on the page with the title **Step 1 of 3 - Check/Add Verified Domains**. This page lists the verified domains that have already been added to the Office 365 tenant for this Yammer network. If you don't see the network you want, follow the link to Office 365 to [add additional verified domains](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611), and then return to this page.
 
-    ![Screen shot of Step 1 of 3 - Check/Add Verified Domains before migrating a Yammer network](../media/cac649d6-9245-4645-8f59-fb27dffd87e8.png)
+    ![Screen shot of Step 1 of 3 - Check/Add Verified Domains before migrating a Yammer network.](../media/cac649d6-9245-4645-8f59-fb27dffd87e8.png)
   
 3. When you have added all of the verified domains you want, choose **Next**.
 
     You are now on the **Step 2 of 3 - Choose a Yammer Network to Migrate** page. This page lists all the networks that are eligible for migration. Remember, all of the domains of a Yammer network that you want to migrate must be added as verified domains on Office 365. Only the verified domains for Yammer networks are listed on the page. If you don't see the network you're looking for, choose the **Previous** button and add the verified domains.
 
-    ![Screen shot of Step 2 of 3 - Choose a Yammer Network to Migrate](../media/3a975838-6d80-4dd1-9b3e-14f157820773.png)
+    ![Screen shot of Step 2 of 3 - Choose a Yammer Network to Migrate.](../media/3a975838-6d80-4dd1-9b3e-14f157820773.png)
   
 4. On the **Step 2 of 3 - Choose a Yammer Network to Migrate** page, select the secondary Yammer network that you want to migrate into this network, and then choose **Next**.
 
 5. You reach the page with title **Step 3 of 3 - Export Data &amp; Start Migration**. This page gives you information about the network you are about to migrate, such as network name and number of messages, so that you can confirm if it is the right network. Note that only  *active*  and  *pending users*  will be migrated. All other content is permanently deleted.
 
-    ![Screen shot of Step 3 of 3 - Export Data &amp; Start Migration](../media/8de9e6e7-d172-44bc-808c-ec72f34f09e2.png)
+    ![Screen shot of Step 3 of 3 - Export Data &amp; Start Migration.](../media/8de9e6e7-d172-44bc-808c-ec72f34f09e2.png)
   
 6. When you have exported the data you want, and you are ready to begin the migration, choose **Start Migration**.
 
     A confirmation dialog box appears.
 
-    ![Screen shot of dialog box to Confirm that you want to migrate a Yammer network](../media/4b93a2e6-9dc4-409c-99cb-2ab7dc225679.png)
+    ![Screen shot of dialog box to Confirm that you want to migrate a Yammer network.](../media/4b93a2e6-9dc4-409c-99cb-2ab7dc225679.png)
   
 7. In the **Are you absolutely sure you want to migrate the network?** box, under **I confirm the network migration of** _Network Name_, enter the name of the network you want to migrate to confirm it, and then choose **Migrate**.
 
@@ -167,7 +167,7 @@ The network migration has three steps that you will be guided through. Multiple 
   
 8. On the **Status of network migrations** page, you can view the status for the migration. It lists the domains associated with the networks being migrated, the person who initiated the migration, the start and completed dates and times for the migration, and the status of the migration. You can see details about the network, such as the number of active users, the number of messages, and the external networks.
 
-    ![Screen shot showing the Status of network migrations - Yammer network migration is running](../media/05c6da77-091b-48fc-8d08-4455454d4c87.png)
+    ![Screen shot showing the Status of network migrations - Yammer network migration is running.](../media/05c6da77-091b-48fc-8d08-4455454d4c87.png)
   
 9. Note that multiple network migrations can be started back-to-back, without waiting for the previous ones to finish. So, you can start the next migration immediately by going through the wizard again.
 

@@ -27,7 +27,7 @@ If your Yammer network is eligible, you can use Microsoft 365 connected groups i
 
 You can tell if a group in Yammer is a Microsoft 365 connected group when you see the **Microsoft 365 Resources** section in the right navigation of the Yammer group:
   
-![Screenshot showing Microsoft 365 Resources](../media/195dd76c-6007-469e-9242-7889a3b217a9.png)
+![Screenshot showing Microsoft 365 Resources.](../media/195dd76c-6007-469e-9242-7889a3b217a9.png)
 
 ## Advantages of using Microsoft 365-connected groups
 

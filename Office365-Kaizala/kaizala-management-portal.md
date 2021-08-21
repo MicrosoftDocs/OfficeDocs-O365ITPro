@@ -41,7 +41,7 @@ The following users can use the Kaizala management portal:
 - **Developers** use the portal to either create a new Kaizala Action or customize a Kaizala Action. Developers can also add a new connector to integrate other systems with Kaizala.
 - **Business users** go to the portal to view built-in reports, including real-time data updates for Kaizala Actions shared in organization groups.
     
-  ![Kaizala management portal](media/f14b188f-e1a2-4a72-8ca1-d05fcada255a.png)
+  ![Kaizala management portal.](media/f14b188f-e1a2-4a72-8ca1-d05fcada255a.png)
   
 |Menu     |What it's for|
 |---------|-------------|

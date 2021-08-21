@@ -27,7 +27,7 @@ Use Microsoft Kaizala to enable *secure chat*. Enable your organization to conne
 
 ## **[Move existing groups to Kaizala](move-work-chats.md)**
 
-[![Image of people with arrow icon](media/move-work-chats-icon.png)](move-work-chats.md)
+[![Image of people with arrow icon.](media/move-work-chats-icon.png)](move-work-chats.md)
 
 You and your workforce in the office and in the field needs to communicate and coordinate to get work done. Often this communication happens over unsecure personal messaging apps, putting your organization’s data security at risk. Use Kaizala to *secure chat*, enabling your organization to connect and coordinate across the external networks while retaining complete ownership of work-related chat data.
 
@@ -40,7 +40,7 @@ You and your workforce in the office and in the field needs to communicate and c
 
 ## **[Create large groups for discussions](create-discussion-groups.md)**
 
-[![Image of people icon](media/create-large-groups-icon.png)](invite-people.md)
+[![Image of people icon.](media/create-large-groups-icon.png)](invite-people.md)
 
 Use Kaizala to create groups that reflect how your organization works. For example, Contoso Corp could have several groups, such as Contoso – All Employees, Contoso - Finance, Contoso – Sales, Contoso - Sales (East), and so on. Use the Kaizala management portal to manage your groups centrally, and to add or manage users in bulk (even in thousands) while retaining complete control over chat data. 
 

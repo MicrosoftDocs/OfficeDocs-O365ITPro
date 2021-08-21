@@ -29,7 +29,7 @@ As Yammer becomes a core service for your organization, you'll want users to be 
 
 The following flowchart shows what happens when a user logs in to Yammer.
   
-![When a user logs in, they first enter their email address. If Office 365 identity is enforced, they log in with their Office 365 identity. If it is not enforced, but their email is in Office 365, then they log in with their Office 365 identity. If it is n](../media/9e32ab1b-fc3a-4839-b2da-7be1229c339b.png)
+![When a user logs in, they first enter their email address. If Office 365 identity is enforced, they log in with their Office 365 identity. If it is not enforced, but their email is in Office 365, then they log in with their Office 365 identity. If it is n.](../media/9e32ab1b-fc3a-4839-b2da-7be1229c339b.png)
   
 Below is the user's login experience when Office 365 identity is and is not enforced for Yammer:
   
@@ -62,7 +62,7 @@ It takes just a few steps to start enforcing Office 365 identities in Yammer. Ho
     
 You must be a global administrator on Office 365 who was synchronized to Yammer as a Verified Admin to perform these steps. To check if your account was synchronized, you can go to the **Network Admin** page on Yammer and check the **Admins** section. Global administrators will sync to Yammer only if their user principal name (UPN) in Office 365 matches a domain on Yammer. The following screenshot shows what a synced admin looks like on the Admins page in Yammer. 
   
-![Screenshot showing a Verified Admin account that is synced as a Global Administrator](../media/2402bc0f-f2ac-435f-bdb3-be65dbf2d153.png)
+![Screenshot showing a Verified Admin account that is synced as a Global Administrator.](../media/2402bc0f-f2ac-435f-bdb3-be65dbf2d153.png)
   
  If you are ready to enforce Office 365 identity in Yammer, follow the steps below. 
   

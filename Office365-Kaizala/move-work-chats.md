@@ -45,7 +45,7 @@ Use Kaizala to *secure chat*, enabling your organization to connect and coordina
 3. On the **Group Info** page, tap **Invite People**.
 4. Tap **Share** to send the link to existing groups on other messaging apps.
 
-   ![Screenshot of invitation to a group](media/invite-people.png)
+   ![Screenshot of invitation to a group.](media/invite-people.png)
 
 > [!NOTE]
 > Anyone who receives the link can join the group. 
@@ -55,7 +55,7 @@ Use Kaizala to *secure chat*, enabling your organization to connect and coordina
 You must link your new group to your organization to ensure data security and to ensure all data stay with the organization.
 
 1. Tap on the group name to open the **Group Info** page.
-2. Tap **More** ![Screenshot of More icon](media/more-icon.png) on the upper right of the **Group Info** page.
+2. Tap **More** ![Screenshot of More icon.](media/more-icon.png) on the upper right of the **Group Info** page.
 3. Tap **Add to organization**. When mapping is done, you will see a prompt.
 
 > [!NOTE]

@@ -31,7 +31,7 @@ For information about how to add users to Kaizala groups, see [Kaizala users](us
 
 There are two types of Kaizala groups:
   
-![Kaizala organization groups view](media/c05e9bd2-05cb-4178-a44a-053e01db36bc.png)
+![Kaizala organization groups view.](media/c05e9bd2-05cb-4178-a44a-053e01db36bc.png)
   
 - **Organization groups** belong to your organization and are created in the Kaizala management portal. A group admin can link a Kaizala group, created through the mobile app, to an organization through the **Settings** page, or from the **Private Groups** tab. As the name implies, public group admins only oversee specific public groups. Conversely, Office 365 global admins can manage all organization groups, even those for which they aren't members.
     
@@ -43,11 +43,11 @@ Follow these steps to create a new Kaizala group.
   
 1. On the Kaizala management portal, from the left navigation bar, choose **Groups**. Select **Create Group**, enter the group name, and then click or tap **Create**. 
     
-    ![Enter the name to create a new Kaizala group](media/f913453e-6a66-45bd-a51c-114ebf5be0d7.png)
+    ![Enter the name to create a new Kaizala group.](media/f913453e-6a66-45bd-a51c-114ebf5be0d7.png)
   
 2. On the **Users** tab, make sure the phone numbers are from the correct region. Enter a phone number in the box for each user. You can also enter a list of comma-separated phone numbers. For example, to add three users, enter: **99885544, 99885543, 99885542**. Finally, click or tap **Add users**. 
     
-    ![Add users to Kaizala groups](media/d71f75ba-24bb-443c-8cfe-f46a4c95d9b3.png)
+    ![Add users to Kaizala groups.](media/d71f75ba-24bb-443c-8cfe-f46a4c95d9b3.png)
   
 Once you've added users to Kaizala groups, you can start sending surveys, polls, and other actions in the mobile app. For more information, see [Kaizala Actions](actions.md). 
   
@@ -59,7 +59,7 @@ Once you've added users to Kaizala groups, you can start sending surveys, polls,
     
 - **Parent Group Mapping** - Use this CSV template to define the group hierarchy. Parent and child group names can mirror your company’s structure. This file is optional. The groups, for which the child group name doesn't exist in the template, are ignored in the parent group mapping file. 
     
-   ![Bulk add users to Kaizala](media/8f4f5b63-ae6e-4aac-959f-a9022612a058.png)
+   ![Bulk add users to Kaizala.](media/8f4f5b63-ae6e-4aac-959f-a9022612a058.png)
   
 You can add multiple groups and users at once from an Excel spreadsheet or other file saved in CSV format. For more information, see [Add several users at the same time to Office 365 - Admin Help](https://support.office.com/article/1f5767ed-e717-4f24-969c-6ea9d412ca88#__toc316652088).
   
@@ -79,7 +79,7 @@ You can add multiple groups and users at once from an Excel spreadsheet or other
 1. On the Kaizala management portal, from the left navigation bar, select **Groups**. Select a group you want to modify. 
 2. Select **Sub-Groups** from the top navigation bar of the group. Then select a group you want to link from the drop-down list and select **Add Group**. 
     
-    ![Add a Kaizala subgroup to a parent group](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
+    ![Add a Kaizala subgroup to a parent group.](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
     
     > [!NOTE]
     > The drop-down list remains empty if you don't have any available groups to link, so make sure you have an group available to link. Create one before you try to add it as a subgroup.
@@ -89,7 +89,7 @@ You can add multiple groups and users at once from an Excel spreadsheet or other
 1. On the Kaizala management portal, from the left navigation bar, select **Groups**.
 2. Choose a group from the drop-down list, and then choose **Remove**. 
     
-    ![Add a Kaizala subgroup to a parent group](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
+    ![Add a Kaizala subgroup to a parent group.](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
     
 ## Add a connector
 
@@ -133,7 +133,7 @@ By default, when a group is created from the mobile app, it's created as a priva
 - Using the Kaizala mobile app:
   1. Tap **Chats**, and then open the group.
   2. Tap the group name.
-  3. Tap **More** ![Screenshot of More icon](media/more-icon.png).
+  3. Tap **More** ![Screenshot of More icon.](media/more-icon.png).
   4. Tap **Add to organization**.
   
 ### I am a Kaizala organization admin. I converted an organization group to a private group, which I am not a member of, and now I can't see it anymore. Where did it go?

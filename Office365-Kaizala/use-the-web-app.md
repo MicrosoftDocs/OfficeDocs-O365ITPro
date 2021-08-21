@@ -29,7 +29,7 @@ For more info about Kaizala, see [Microsoft Kaizala](https://products.office.com
   
 ## Set up Kaizala Web
 
-1. Make sure you have installed the latest version of Kaizala on your mobile phone. If you see the **Kaizala Web** tab under **Chats** \> **More** ![Screenshot of More icon](media/more-icon.png) in the Kaizala app, then you have access to the web app.
+1. Make sure you have installed the latest version of Kaizala on your mobile phone. If you see the **Kaizala Web** tab under **Chats** \> **More** ![Screenshot of More icon.](media/more-icon.png) in the Kaizala app, then you have access to the web app.
     
 2. Download the latest app from the Google Play Store or the Apple App Store.
     
@@ -39,11 +39,11 @@ For more info about Kaizala, see [Microsoft Kaizala](https://products.office.com
     
    ![Sign in to Kaizala with your phone and select Generate code.](media/07f8a26f-a72c-455d-8031-5dcfe1e1701d.png)
   
-5. From the Kaizala app on your mobile phone, go to **Chats** \> **More** ![Screenshot of More icon](media/more-icon.png) \> **Kaizala Web** to view the pairing code.
+5. From the Kaizala app on your mobile phone, go to **Chats** \> **More** ![Screenshot of More icon.](media/more-icon.png) \> **Kaizala Web** to view the pairing code.
   
 6. From the **Verify Code** page on your browser, enter the pairing code, and then select **Verify &amp; Sign in**. 
   
-   ![Verify code to sign in to Kaizala](media/109dd1fc-3637-4802-a901-2dab6a20a234.png)
+   ![Verify code to sign in to Kaizala.](media/109dd1fc-3637-4802-a901-2dab6a20a234.png)
   
 You can now use Kaizala on your browser and the mobile app.
   

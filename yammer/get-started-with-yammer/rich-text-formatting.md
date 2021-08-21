@@ -32,11 +32,11 @@ Composing messages with rich text formatting is only available on the web client
 
 If your organization has received this new feature, when you post a new message, here's what the bottom of the message looks like:
 
-![Yammer message with rich text formatting](../media/with-rich-text.png)
+![Yammer message with rich text formatting.](../media/with-rich-text.png)
 
 If you don't have rich text, here's what the bottom of the message looks like:
 
-![Yammer message with rich text formatting](../media/without-rich-text.png)
+![Yammer message with rich text formatting.](../media/without-rich-text.png)
 
 ## Implications for export
 

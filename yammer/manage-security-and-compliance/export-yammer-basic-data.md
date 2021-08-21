@@ -18,13 +18,13 @@ description: "Users can export their own data in Yammer Basic."
 
 Each user can export their own data in Yammer Basic. It is not possible to export data for all users. 
   
-1. Click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Edit Settings**.
+1. Click the Yammer settings icon ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Edit Settings**.
     
 2. Click **Networks**. 
     
 3. For each network you belong to, select **Download Data**. 
     
-    ![On the networks page, to export data, use the Download Data link next to the network name](../media/b8b47324-6eaa-4f20-a211-e329b29c2b57.png)
+    ![On the networks page, to export data, use the Download Data link next to the network name.](../media/b8b47324-6eaa-4f20-a211-e329b29c2b57.png)
   
     Data is exported into a .zip file. If you're a member of more than one network, a separate folder is created for each network. 
     

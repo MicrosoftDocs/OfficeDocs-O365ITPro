@@ -33,7 +33,7 @@ Below is a set of actions we immediately take after you add a domain. Also, ther
 
 - Remove all users—from the network formerly associated with the added domain—so they can access the primary network for your Office 365 tenant if permitted to do so based on your Yammer licensing.
 
-  ![yammer-network-settings.png](../media/kb/yammer-network-settings.PNG)
+  ![yammer-network-settings.png.](../media/kb/yammer-network-settings.PNG)
 
 - Enable the network formerly associated with the added domain to allow for data export.
 
@@ -45,7 +45,7 @@ Below is a set of actions we immediately take after you add a domain. Also, ther
 
 **To preserve data from the network formerly associated with your domain**:
 
-1. Click Settings ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) in the home Yammer network of your Office 365 tenant.
+1. Click Settings ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) in the home Yammer network of your Office 365 tenant.
 
 2. Choose the network formerly associated with your domain from the list of available networks.
 

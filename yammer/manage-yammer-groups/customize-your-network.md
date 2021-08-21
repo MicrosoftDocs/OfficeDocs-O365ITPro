@@ -28,7 +28,7 @@ On the Yammer web app, you can further customize your network by uploading a com
 3. To upload a company logo to display on the home feed of your network in both the web and mobile apps, upload a logo in the **Upload Network Logo** field.
 4. After you have uploaded a logo, make sure to select the **Display** logo on your network home feed.
 
-![network](../media/kb/yam-network-branding-logo-upload.PNG)
+![network.](../media/kb/yam-network-branding-logo-upload.PNG)
 
 ## See also
 

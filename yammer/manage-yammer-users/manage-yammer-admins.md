@@ -36,7 +36,7 @@ Here are the available roles and what people assigned to them can do. Click the 
    
 You grant and change admin roles in the Yammer admin center. In the following screenshot, Debra Berger is a verified admin, Diego Siciliani is a network admin, and Megan Bowen is a global administrator.
   
-![Screenshot showing the list of admins](../media/52935d22-dd99-418d-b0e7-9ba70c357042.png)
+![Screenshot showing the list of admins.](../media/52935d22-dd99-418d-b0e7-9ba70c357042.png)
   
 <a name="bmk_group"> </a>
 ## Yammer group admin

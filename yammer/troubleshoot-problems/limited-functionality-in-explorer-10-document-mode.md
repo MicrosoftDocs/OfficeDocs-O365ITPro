@@ -23,11 +23,11 @@ If you are using an older SharePoint site with an embedded Yammer conversation, 
   
 - You can't use @mention to make sure a specific person gets notified about your post. Instead, click **Add people to notify**.
 
-    ![Click to notify people about your post](../media/455b84df-defb-4da6-92f7-0ca21cc8d930.png)
+    ![Click to notify people about your post.](../media/455b84df-defb-4da6-92f7-0ca21cc8d930.png)
   
 - When you copy and paste a link in your post, a preview for the link won't be created. There is no workaround. 
 
-    ![The link preview will not be visible in Internet Explorer 10 document mode](../media/dc472543-7c58-486a-b72b-4cb22cc750aa.png)
+    ![The link preview will not be visible in Internet Explorer 10 document mode.](../media/dc472543-7c58-486a-b72b-4cb22cc750aa.png)
   
 This happens when your SharePoint site is set to use Internet Explorer 10 Document mode. This setting is controlled by your SharePoint site owner.
   

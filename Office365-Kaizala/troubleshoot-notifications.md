@@ -40,7 +40,7 @@ You'll also need to change an option in Aggressive Doze &amp; App Hibernation se
     
 2. Tap the gear icon and then scroll down to the **Device** option. 
     
-3. Tap the **Battery** option and then tap **More** ![Screenshot of More icon](media/more-icon.png) at the top of the screen. 
+3. Tap the **Battery** option and then tap **More** ![Screenshot of More icon.](media/more-icon.png) at the top of the screen. 
     
 4. Make sure the **Aggressive Doze &amp; App Hibernation** option is off. 
     

@@ -49,9 +49,9 @@ A: Yes. Dynamic groups in Yammer have a limit of 100K members. After 100K member
   
 A: Yes. Groups with dynamic membership do not have the **Join** and **Leave** buttons in the top navigation. Instead, users either see **Member** for dynamic groups to which they belong, or **Reserved** if they are not members of the group.
   
-![Top navigation for dynamic groups that you are a member of](../media/9d0bb1db-2575-4bb9-bd02-869a05a7cc89.png)
+![Top navigation for dynamic groups that you are a member of.](../media/9d0bb1db-2575-4bb9-bd02-869a05a7cc89.png)
   
-![Top navigation for dynamic groups that you are not a member of](../media/d1d48f64-896e-466d-96f8-007f36188991.png)
+![Top navigation for dynamic groups that you are not a member of.](../media/d1d48f64-896e-466d-96f8-007f36188991.png)
 
 **Q: What is the difference between a Microsoft 365 connected group and a dynamic group?**
 A. For a [Microsoft 365 connected group](yammer-and-office-365-groups.md), group membership changes made in any Microsoft 365 app such as Outlook, are available in the group in Yammer. For a dynamic group, changes made in the group membership in Azure Active Directory (AAD) are available in the Yammer group.

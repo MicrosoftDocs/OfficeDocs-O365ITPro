@@ -45,18 +45,18 @@ You can also get the Microsoft Kaizala add-in from the Office Store, here: [Micr
     
 3. Login with your Kaizala phone number.
     
-    ![Add your Kaizala phone number to login](media/b3858bb9-5799-44c4-ad0f-86180b8ba6b9.png)
+    ![Add your Kaizala phone number to login.](media/b3858bb9-5799-44c4-ad0f-86180b8ba6b9.png)
   
 4. Drag, select the cells you want and click Insert. Then select Table. On the Dialog box, select check box for 'My Table has headers'. Each Column header represents a text question to be posted in the survey. Click Share on Kaizala.
     
-    ![Create table in excel and share on a kaizala group](media/2b119aea-6da7-4833-8d0b-9481e7f8d50a.png)
+    ![Create table in excel and share on a kaizala group.](media/2b119aea-6da7-4833-8d0b-9481e7f8d50a.png)
   
 5. Add the Survey Title (the title will be published on the Kaizala App) and choose the Kaizala Group where you want the survey to be published.
     
-    ![Selecta group to send the table to](media/87f3cb29-3dff-48f1-b488-2d3c0d15d397.png)
+    ![Selecta group to send the table to.](media/87f3cb29-3dff-48f1-b488-2d3c0d15d397.png)
   
 6. The published table will show up in the add-in. If you want to refresh the table with data from the survey, select the table and then click Refresh.
     
-    ![Table published with data from survey](media/3f5779a7-899d-411e-93b5-2d4b9a92321f.png)
+    ![Table published with data from survey.](media/3f5779a7-899d-411e-93b5-2d4b9a92321f.png)
   
 
