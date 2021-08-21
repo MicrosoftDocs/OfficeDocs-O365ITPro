@@ -37,19 +37,19 @@ Based on what we've heard from customers, here are some suggestions about how to
 
 If you often assign and track message center tasks by the service or app they’re related to, you might want to organize your plan by service. In this design, you’d create a bucket called “Message Center Posts” for messages to sync into and become tasks. You’ll also create a bucket for each service. For example, the buckets could be named "Exchange Online", "SharePoint and OneDrive", "Teams", and "General". You and other members of the plan can move tasks from Message Center Posts to the relevant column, and then assign them, give them due dates, add checklists, add attachments, and otherwise track their progress.
 
-![Plan by service](media/plan-by-service.png)
+![Plan by service.](media/plan-by-service.png)
 
 ### Organize your plan by workflow
 
 If you often track message center tasks by what needs to be done in a sequence, you might want to organize your plan by workflow. In this design, you’d create a bucket called “Untriaged” for messages to sync into and become tasks. You’d also create a bucket for each step in the workflow, such as "Reviewed", "Rolling Out", "In Production", and "Communication". You and other members of the plan can meet periodically to triage and assign tasks, and to set task status.
 
-![Plan by workflow](media/plan-by-workflow.png)
+![Plan by workflow.](media/plan-by-workflow.png)
 
 ### Check your status using Charts
 
 As you build your plan, you can always see a visual report of status using Charts view in Planner. It shows assignments, priority, and progress, letting you know at a glance how you’re doing.
 
-![Status by charts](media/status-by-charts.png)
+![Status by charts.](media/status-by-charts.png)
 
 ## Turn on Planner syncing
 
@@ -57,7 +57,7 @@ As you build your plan, you can always see a visual report of status using Chart
 
 2. Go to **Show all** > **Health** > **Message center**. Then, right above your messages list, select **Planner syncing**.
 
-    ![Planner syncing](media/planner-syncing-button.png)
+    ![Planner syncing.](media/planner-syncing-button.png)
 
 2. In the **Planner syncing** pane, select **Set up syncing**.
 
@@ -65,7 +65,7 @@ As you build your plan, you can always see a visual report of status using Chart
 
     - **Search for a plan**, then enter a name or select a plan from the list.
 
-        ![Select your plan](media/select-your-plan.png)
+        ![Select your plan.](media/select-your-plan.png)
 
     -  **Or create a new plan in Planner**, a link that opens Planner. There you can [create a new plan](https://support.microsoft.com/en-us/office/create-a-plan-in-microsoft-planner-93e65b03-6fac-4661-a502-e3161475ab93), and then return to the message center and search for that plan.
 
@@ -76,7 +76,7 @@ As you build your plan, you can always see a visual report of status using Chart
 
     [Buckets](https://support.microsoft.com/en-us/office/create-buckets-to-sort-your-tasks-238af119-3c2b-4cbb-a124-29da99488139) are column-like categories in Planner. After you’ve turned on Planner syncing, each message becomes a task in the bucket you select here.
 
-    ![Select a bucket](media/select-a-bucket.png)
+    ![Select a bucket.](media/select-a-bucket.png)
 
     >[!NOTE]
     >- You can only select one bucket to sync to, but you can turn Planner syncing off and on again to change which bucket you’re syncing to. 
@@ -93,7 +93,7 @@ As you build your plan, you can always see a visual report of status using Chart
     >[!IMPORTANT]
     >After you start syncing to Planner, you can’t import messages again unless you turn off Planner syncing, then turn it on again, and go through setup another time.
 
-    ![Import messages](media/import-messages.png)
+    ![Import messages.](media/import-messages.png)
 
 7. On the **Review and finish** page, make sure the information is correct, and then select **Finish**.
 
@@ -109,7 +109,7 @@ As you build your plan, you can always see a visual report of status using Chart
 
     - If you want to sync manually, there's no setup needed. Whenever you want to sync the latest posts, go to the message center and, at the top of the page, select **Sync now**.
 
-        ![Message center](media/message-center-sync-now.png)
+        ![Message center.](media/message-center-sync-now.png)
 
 9. To get started organizing, assigning, and taking notes, select the **View your plan in Planner** link.
 

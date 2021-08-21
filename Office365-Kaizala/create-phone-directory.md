@@ -37,17 +37,17 @@ As a first step, export contact information from your existing systems such as R
 1. Go to the [Kaizala management portal](https://manage.kaiza.la) and sign in.
 2. Select **Directory** > **Add Users**, and then select **Import Users**.
 
-   ![Screenshot of Import Users window](media/directory-import-users.png)
+   ![Screenshot of Import Users window.](media/directory-import-users.png)
 
 3. On the **Import Users** page, download the CSV template.
 4. Follow the template to add your users (employees, partners, and customers) exported from other systems to Kaizala. Save the file in .csv format.
 
-   ![Screenshot of Import Multiple Users window](media/import-multiple-users.png)
+   ![Screenshot of Import Multiple Users window.](media/import-multiple-users.png)
 
 5. Choose **Select a File**, and then select the file you previously saved. Finally, select **Upload**.
-6. Select **More** ![Screenshot of More icon](media/more-icon.png), and then select **View csv import history** to check the status of the uploaded file.
+6. Select **More** ![Screenshot of More icon.](media/more-icon.png), and then select **View csv import history** to check the status of the uploaded file.
 
-   ![Screenshot of Directory More options window](media/directory-more.png)
+   ![Screenshot of Directory More options window.](media/directory-more.png)
  
 7. Select **Refresh** to get the latest status. If the status is **Completed**, you can find the updated user list on the **Users** page.
 

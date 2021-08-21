@@ -44,7 +44,7 @@ Do the following to unblock these files:
 2. Right-click on one of the unzipped files noted above, and click Properties.
 3. On the General tab, select **Unblock**.
 
-    ![unblock-files](media/unblock-files.png) 
+    ![unblock-files.](media/unblock-files.png) 
 
 4. Select **OK**.
 

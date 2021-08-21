@@ -36,21 +36,21 @@ To collect feedback, design a custom Kaizala Action through the Action Designer 
 3. Select the Feedback template for the new action. 
 4. Fill out the name and description, and then select **Next**.
 
-   ![Screenshot of feedback action form](media/feedback-action-form.png)
+   ![Screenshot of feedback action form.](media/feedback-action-form.png)
 
 5. As you prefer, customize the Response View, Immersive View, and Chat view. (Add questions and answer options and set a custom format.) 
 
    **Example of Response View**
 
-   ![Screenshot of feedback card in response view](media/response-view.png)
+   ![Screenshot of feedback card in response view.](media/response-view.png)
 
    **Example of Immersive View**
 
-   ![Screenshot of feedback card in immersive view](media/immersive-view.png)
+   ![Screenshot of feedback card in immersive view.](media/immersive-view.png)
 
    **Example of Chat View**
 
-   ![Screenshot of feedback card in chat view](media/chat-view.png)
+   ![Screenshot of feedback card in chat view.](media/chat-view.png)
 
 6. After you are done, tap **Submit**. Users will now be able to see the details page of the new action. 
 7. At this moment, the action is in draft state.

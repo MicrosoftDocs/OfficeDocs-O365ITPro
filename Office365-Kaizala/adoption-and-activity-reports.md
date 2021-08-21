@@ -27,7 +27,7 @@ description: Learn how to use the Analytics dashboard to view reports and teleme
 
 Adoption reports help the admins drive app installation among their group member and organization members by providing actionable insights about installations. Global admins can view details for all members that are part of organization while group admins can view details of the groups of which they are an admin. 
 
-![Screenshot of the Adoption Analytics window in Kaizala management portal](media/analytics-adoption-analytics.png)
+![Screenshot of the Adoption Analytics window in Kaizala management portal.](media/analytics-adoption-analytics.png)
 
 The CSV download functionality provides the list of users in each category and the count of users in each of the groups. Additional group filters help narrowing down the results to selected groups. 
 
@@ -35,21 +35,21 @@ The CSV download functionality provides the list of users in each category and t
 
 Activity reports allow admins to view the insights about activities of users, actions, and groups. Users can use the following interaction to download a report for specific time period (up to a maximum of 31 days). 
 
-![Screenshot of the Activity Report in Kaizala management portal](media/analytics-activity-report.png)
+![Screenshot of the Activity Report in Kaizala management portal.](media/analytics-activity-report.png)
 
 Downloaded CSVs appear in the following formats. 
 
 **Users Report**
 
-![Screenshot of the Users Report columns](media/analytics-csv-users-report.png)
+![Screenshot of the Users Report columns.](media/analytics-csv-users-report.png)
 
 **Actions Report**
 
-![Screenshot of the Actions Report columns](media/analytics-csv-actions-report.png)
+![Screenshot of the Actions Report columns.](media/analytics-csv-actions-report.png)
 
 **Groups Report**
 
-![Screenshot of the Groups Report columns](media/analytics-csv-groups-report.png)
+![Screenshot of the Groups Report columns.](media/analytics-csv-groups-report.png)
 
 ## Usage trends
 

@@ -36,7 +36,7 @@ External groups look different than internal Yammer groups, so you can easily di
   
 External groups are marked with a globe icon in the left navigation.
   
-![Yammer navigation bar showing an External Groups section](../media/de2688e8-0ee9-485d-a7c3-cf0a15f623ef.png)
+![Yammer navigation bar showing an External Groups section.](../media/de2688e8-0ee9-485d-a7c3-cf0a15f623ef.png)
   
 Users invited to participate in an external group hosted on a different network are required to accept the invitation before being able to view any content in the group.
 
@@ -51,7 +51,7 @@ When you create a group, you can decide if it is an internal or external group. 
     
     The **Create A New Group** dialog box opens. If your network allows external groups, you'll see options to create an Internal Group or External Group: 
     
-    ![Screenshot showing that you can choose to create an Internal or External group](../media/387fcf4f-79e9-427a-845b-54e00caf1a43.png)
+    ![Screenshot showing that you can choose to create an Internal or External group.](../media/387fcf4f-79e9-427a-845b-54e00caf1a43.png)
   
 2. Select **External Group**.
     
@@ -88,7 +88,7 @@ When you communicate with outside partners, suppliers, or customers, you want to
     >The data export reflects the current view of the network. For example, if a user was added, but then removed before the report was created, that user won't appear in the report.
   
     > [!div class="mx-imgBorder"]
-    > ![Screenshot of an example data export file](../media/90261f3d-0629-4fb6-bb42-33ed7eb3e99a.png)
+    > ![Screenshot of an example data export file.](../media/90261f3d-0629-4fb6-bb42-33ed7eb3e99a.png)
   
     Column **D** (external_participants) lists the users in other networks that participate in threads in your network, along with their name, email address, and the network ID of the Yammer network they belong to.
 

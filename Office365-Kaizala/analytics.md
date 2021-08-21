@@ -27,7 +27,7 @@ The Analytics dashboard allows the global administrator, Kaizala administrator, 
 
 Data for all reports is displayed within 4 to 5 minutes. You can experience delays of up to 4 hours for reflecting reports after a group is first marked as an organization group.
  
-![Screenshot of the Analytics window in Kaizala management portal](media/analytics.png)
+![Screenshot of the Analytics window in Kaizala management portal.](media/analytics.png)
 
 The following reports are currently available:
 

@@ -21,7 +21,7 @@ description: "Learn more your options for working with guests in a Yammer commun
 
 External collaboration is a key ingredient for the success of any organization. Yammer guests allow you to call in experts, such as consultants or vendors, from outside your organization. Users can invite guests to a community and quickly start a rich conversation by sharing access to community resources like files. This ease-of-use makes external collaboration one of the most- used features in Yammer today.
 
-![Yammer business-to-business guest support](../media/yammer-b2b-azure-guests.png)
+![Yammer business-to-business guest support.](../media/yammer-b2b-azure-guests.png)
 
 There are two methods of working with guests, depending on how your organization’s Yammer network is structured. A Yammer network [aligned to native mode](../configure-your-yammer-network/overview-native-mode.md) leverages the Azure AD-B2B guest framework to power external users while a Yammer network that is currently not aligned to native mode uses the Yammer- specific guest framework.
 

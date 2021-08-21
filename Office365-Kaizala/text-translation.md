@@ -32,7 +32,7 @@ The following sections describe how you can translate a text message in Kaizala 
 
 1. Open the **Kaizala** app and go to a 1:1 or group chat
 2. Tap and hold to select the message
-3. Select **Translation icon** ![Screenshot of Translation icon](media/translation-icon.png) from the toolbar in the top
+3. Select **Translation icon** ![Screenshot of Translation icon.](media/translation-icon.png) from the toolbar in the top
 
 To change your Kaizala app language, go to Settings > Language and update the language.
 

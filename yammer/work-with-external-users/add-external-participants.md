@@ -46,19 +46,19 @@ As a Yammer user, you can add an external participant to a discussion, and you c
     
 2. On the Cc line, type the email address of the person you want to invite to the conversation.
     
-    ![A notification that you are adding external participants](../media/cb9d5e9c-3814-4735-be46-fc3fd310a599.png)
+    ![A notification that you are adding external participants.](../media/cb9d5e9c-3814-4735-be46-fc3fd310a599.png)
   
     When you add an external participant, you'll see a notification confirming that you are adding someone to the conversation.
     
 3. Choose **Post** to send your message. 
     
-    ![An external user added to a message](../media/5a83bda1-1d55-4277-9cf7-22f4ab8c8f0e.png)
+    ![An external user added to a message.](../media/5a83bda1-1d55-4277-9cf7-22f4ab8c8f0e.png)
   
     The external participant's name and email address appears.
     
     For all future messages in the conversation, the globe symbol is added, along with a note that your reply will be visible to people outside your network.
     
-    ![Reply showing globe and warning that reply is visible externally](../media/521fbfb1-137e-4dfc-bac3-942d1309153b.png)
+    ![Reply showing globe and warning that reply is visible externally.](../media/521fbfb1-137e-4dfc-bac3-942d1309153b.png)
   
  **Send a private message to an external participant**
   
@@ -66,11 +66,11 @@ As a Yammer user, you can add an external participant to a discussion, and you c
     
 2. Choose **Create Message**.
     
-    ![Create a message from the Yammer Inbox](../media/1bdbd33b-41c2-4178-a9bb-bc212243c942.png)
+    ![Create a message from the Yammer Inbox.](../media/1bdbd33b-41c2-4178-a9bb-bc212243c942.png)
   
 3. Select **Send via Private Message**, and in the **Add participants** box, add the email address of the person you want to add as an external participant. 
     
-    ![Add an external participant to a private message](../media/21199624-7bfd-4674-ac47-d0a1e75c0f8a.png)
+    ![Add an external participant to a private message.](../media/21199624-7bfd-4674-ac47-d0a1e75c0f8a.png)
   
     When you add an external participant, you'll see a notification containing a globe icon, confirming that you are adding someone to the conversation.
     
@@ -95,7 +95,7 @@ Who can remove external participants?
   
 1. Within the comment announcing that an external participant has been added to the conversation, click **Remove Participants** for the member you would like to remove. 
     
-    ![Group admin option to remove an external participant](../media/2cc70360-00ea-46f2-8b46-3104a941473a.png)
+    ![Group admin option to remove an external participant.](../media/2cc70360-00ea-46f2-8b46-3104a941473a.png)
   
 2. On the confirmation message "Are you sure you want to remove those people from the conversation?", choose **OK**.
     

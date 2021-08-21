@@ -50,7 +50,7 @@ In this scenario, your Office 365 tenant is associated with a single Yammer netw
 
 The following illustration shows this relationship of one Office 365 tenant associated with one Yammer network:
   
-![One Office 365 tenant mapped to one Yammer network](../media/20788048-6bc2-4e18-b83e-f39341f01648.png)
+![One Office 365 tenant mapped to one Yammer network.](../media/20788048-6bc2-4e18-b83e-f39341f01648.png)
   
 How customers get into this configuration: Since Yammer is on by default in Office 365, whenever a new Office 365 tenant is created, a new Yammer network is automatically created, and the domains from Office 365 are added to Yammer. Also, as part of Yammer activation waves, we are activating Yammer for all tenants with an Office 365 Yammer Enterprise subscription. Whenever domains are added to or removed from the Office 365 tenant, the domains continue to be synchronized with the Yammer network.
   
@@ -96,7 +96,7 @@ In this scenario, your Office 365 tenant associated with two or more Yammer netw
 
 The following illustration shows this relationship of one Office 365 tenant associated with many Yammer networks:
   
-![One Office 365 tenant mapped to many Yammer networks](../media/5738d12d-6142-4148-9fa7-4dc233ba82b1.png)
+![One Office 365 tenant mapped to many Yammer networks.](../media/5738d12d-6142-4148-9fa7-4dc233ba82b1.png)
   
 How customers get into this configuration: Typically, large customers find themselves in this scenario. A large organization (contoso.com) could have several subsidiaries (say fabrikam.com is one of them). While the organization itself has an official Office 365 tenant and an official Yammer network (contoso.com network), users in the subsidiary companies may have independently signed up for their own Yammer networks with their email domains (fabrikam.com network). For really large companies, this could be tens of Yammer networks, and most of these subsidiary networks are lightly used or just not used - probably because they are separate from the more active larger network. We require that the organization consolidate these smaller networks into the larger parent network by performing [network migration](consolidate-multiple-yammer-networks.md). Once consolidated, the organization can enjoy the key benefits listed above for organizations in the 1 tenant: 1 network configuration.
   
@@ -196,7 +196,7 @@ You may have two or more Office 365 tenants that are associated with a single Ya
 
 The following illustration shows this relationship of many Office 365 tenants associated with one Yammer network:
   
-![Many Office 365 tenants mapped to one Yammer network](../media/85b3a117-bc9b-4ca6-bd27-6b1c0387b623.png)
+![Many Office 365 tenants mapped to one Yammer network.](../media/85b3a117-bc9b-4ca6-bd27-6b1c0387b623.png)
   
 How customers get into this configuration: Typically, large customers find themselves in this scenario. A large organization (contoso.com) could have several subsidiaries (say fabrikam.com is one of them). This organization has a Yammer network and may have added all the domains in the company to the Yammer network. While the organization itself has an official Office 365 tenant, the subsidiary company may have independently created another Office 365 tenant (fabrikam.com).
   

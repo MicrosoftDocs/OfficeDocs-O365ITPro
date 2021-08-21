@@ -29,15 +29,15 @@ In addition to auditing Yammer users, you may want to understand more about how 
 
 Before you can run the audit script, you create an input file that contains the list of user accounts for the script to use. You create the input file by using the **Export Users** function in Yammer. 
   
-1. In Yammer, click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Network Admin**.
+1. In Yammer, click the Yammer settings icon ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Network Admin**.
     
 2. Click **Export Users**.
     
-    ![Yammer Export Users menu](../media/69748f25-6619-4d2f-b9c8-17f02b726a98.png)
+    ![Yammer Export Users menu.](../media/69748f25-6619-4d2f-b9c8-17f02b726a98.png)
   
 3. On the Export Users page, choose **Export all users**, and then click **Export**.
     
-    ![Yammer Export Users options - Export all users or Export all users since (date)](../media/71c292af-9ca0-447a-8750-20b49bd1330e.png)
+    ![Yammer Export Users options - Export all users or Export all users since (date).](../media/71c292af-9ca0-447a-8750-20b49bd1330e.png)
   
 4. Save the exported file. The file is saved as a compressed file with a .zip file name extension.
     

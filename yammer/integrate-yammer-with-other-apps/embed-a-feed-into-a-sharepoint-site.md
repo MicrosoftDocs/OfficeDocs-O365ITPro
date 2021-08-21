@@ -92,7 +92,7 @@ The following procedures describe how to add a group feed, my feed, or page feed
   
 1. In Yammer, go to the group that you want to embed. Locate the **Access Options** section and select **Embed this group in your site**.
     
-    ![Access options for Yammer group](../media/a0bdb091-2d21-4041-adaf-bb66da668c64.png)
+    ![Access options for Yammer group.](../media/a0bdb091-2d21-4041-adaf-bb66da668c64.png)
   
 2. Copy the script from the window.
    

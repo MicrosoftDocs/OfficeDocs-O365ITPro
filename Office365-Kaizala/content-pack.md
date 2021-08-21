@@ -40,7 +40,7 @@ Make sure Power BI is part of your Office 365 subscription. You'll have to sign 
     
 2. Choose the **Services** tile. 
     
-    ![Choose Services to connect to Microsoft AppSource](media/e6468226-b3f7-48f9-85de-b47dcf77ebbc.png)
+    ![Choose Services to connect to Microsoft AppSource.](media/e6468226-b3f7-48f9-85de-b47dcf77ebbc.png)
   
 3. On the **AppSource** page, search for **Kaizala Survey Reports**.
     

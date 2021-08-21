@@ -123,15 +123,15 @@ The process follows these steps:
     
     1. In the Microsoft 365 admin center, select a user and choose **Edit User**. The **Sign-in status** is shown in the user details, as in this screenshot. 
     
-        ![Screenshot of a users's sign-in status in Office 365](../media/3003a58e-1294-460a-a174-2be67b1dc462.png)
+        ![Screenshot of a users's sign-in status in Office 365.](../media/3003a58e-1294-460a-a174-2be67b1dc462.png)
   
     2. Click **Edit** next to **Sign-in status** to switch between **Allow the user to sign in** and **Block the user from signing in**, as in this screenshot.
     
-        ![Sign-in status dialog box in Office 365](../media/c06def75-bb12-4dea-ae2b-325ee410c5ed.png)
+        ![Sign-in status dialog box in Office 365.](../media/c06def75-bb12-4dea-ae2b-325ee410c5ed.png)
   
     3. This action flows into Yammer, and the corresponding user is logged out of Yammer (on all devices). When this user tries to login to Yammer again from any device, he or she will be prompted to login with their Office 365 credentials. However, the user will not be able to login because their sign-in status is set to blocked. As a Yammer verified administrator, you can go to the Network Admin area, and look at the Account activity section to verify that the Yammer user has been logged out, as in the following screenshot, where the user has no active Yammer sessions.
     
-        ![Account Activity for a user showing no active Yammer sessions (logged out)](../media/c0704de5-d3c4-4b34-9bbb-f3cf31799734.png)
+        ![Account Activity for a user showing no active Yammer sessions (logged out).](../media/c0704de5-d3c4-4b34-9bbb-f3cf31799734.png)
   
 ## Delete a user
 
@@ -188,7 +188,7 @@ User profiles that they see in Yammer are their Office 365 profile, if their org
   
 - To view their profile in Office 365, users can click on their profile picture and choose **My account**.
     
-    ![Office 365 profile picture](../media/yammer-identity-user-profile.png)
+    ![Office 365 profile picture.](../media/yammer-identity-user-profile.png)
   
     This lets them view their account information for Office 365. If the organization allows editing personal information, then users can click **Personal Info**, and add the information they want. If the organization doesn’t allow editing, then the settings will not be editable and users will see a ****Why can’t I edit** link they can click for more information.
 
@@ -207,7 +207,7 @@ User profiles that they see in Yammer are their Office 365 profile, if their org
 
 If your Yammer users are not in AAD, then they can update their profiles in Yammer by clicking Edit Settings, and then Profile.
   
-![A sample user profile](../media/e9378a05-bb94-4775-9336-818333e65edf.png)
+![A sample user profile.](../media/e9378a05-bb94-4775-9336-818333e65edf.png)
   
 The Office 365 administrator can edit user properties from the Microsoft 365 admin center.
   
@@ -215,11 +215,11 @@ The Office 365 administrator can edit user properties from the Microsoft 365 adm
   
 1. In the Microsoft 365 admin center, go to the **Users** section, and select or search for a user, as shown in the following screenshot. 
 
-   ![Screenshot showing the Users section of Microsoft 365 admin center](../media/b045e652-c971-46c2-a37a-a2d2cc872838.jpg)
+   ![Screenshot showing the Users section of Microsoft 365 admin center.](../media/b045e652-c971-46c2-a37a-a2d2cc872838.jpg)
   
 2. Click on the user, and choose **Edit** to change the properties, such as Username or Contact information. 
     
-    ![Screenshot showing editing profile properties](../media/57657206-20e3-4c1e-811a-dd6b0df1beaa.jpg)
+    ![Screenshot showing editing profile properties.](../media/57657206-20e3-4c1e-811a-dd6b0df1beaa.jpg)
   
 Azure AD updates the following Yammer properties:
   
@@ -232,7 +232,7 @@ In Office 365, you can see the user properties that will be updated for Yammer i
 - **Edit email addresses** dialog box 
     - **Edit contact information** dialog box 
     
-    ![Screenshot showing editing contact information](../media/78cb9ff3-a1a3-4bff-be12-e584c36063f8.jpg)
+    ![Screenshot showing editing contact information.](../media/78cb9ff3-a1a3-4bff-be12-e584c36063f8.jpg)
   
   
 ## FAQ
@@ -249,7 +249,7 @@ A: Yes.
 
 A. When a user leaves the company and Azure Active Directory is updated, their Yammer profile content is replaced with their start and end dates, and their title is changed to **Former member**. All the messages and files they posted remain in Yammer. 
 
-   ![Yammer profile content](../media/yam_former_member.png)
+   ![Yammer profile content.](../media/yam_former_member.png)
 
 ### Q: My company has a configuration where not all Yammer users are yet in Office 365. How does life cycle management work in this case?
 
