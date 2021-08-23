@@ -37,7 +37,7 @@ Think of groups in Kaizala as just a collection of people. You can create Kaizal
 
 For all of these types of groups – flat, broadcast, or hierarchical – there are two data ownership models supported by Kaizala: organization and private.
 
-![Kaizala organization groups view](media/c05e9bd2-05cb-4178-a44a-053e01db36bc.png)
+![Kaizala organization groups view.](media/c05e9bd2-05cb-4178-a44a-053e01db36bc.png)
 
 - **Organization** – If a group is an organization group, the data of the group is owned by the organization. The admin of an organization group can use advanced features, such as applying group policies, and also see reports for Kaizala Actions in the portal. Office 365 global admins can manage all organization groups, even those for which they aren't members.
 - **Private** – The data in private groups is not owned by the organization, and they can't be managed via the Kaizala management portal. A group admin can add a private group to organization from the portal (**Private** tab) or the app. The vice versa is not possible.

@@ -85,7 +85,7 @@ You can send a unique link to invite subscribers to your group. If people open t
 1. Select the broadcast group, and then select **Generate invite link**.
 2. Copy the link and send it to the people you want. When they click the link, they’ll be added to the group.
 
-   ![Screenshot of the Invite Subscribers window](media/invite-subscribers.png)
+   ![Screenshot of the Invite Subscribers window.](media/invite-subscribers.png)
 
 ## Edit Policies
 

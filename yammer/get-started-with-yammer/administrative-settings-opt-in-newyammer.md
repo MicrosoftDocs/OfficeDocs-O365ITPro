@@ -21,18 +21,18 @@ description: "Learn more about the admin settings to control user opt-in for new
 
 Global admins and verified network admins can now control participation in new Yammer for your organization. Please note that only one of these settings can be selected at a time. You can go back and forth between these options but we strongly recommend understanding what selecting and unselecting each setting entails before making that choice.
 
-![Administrative Opt-in Settings for New Yammer](../media/yammer-adminoptintoggle-portal.png)
+![Administrative Opt-in Settings for New Yammer.](../media/yammer-adminoptintoggle-portal.png)
 
 ## Enable the new Yammer as opt-in
 
 This option is the new default setting for your organization. This option ensures that users in your organization are able to see the **New Yammer** toggle to opt into new Yammer from the classic Yammer experience.
 
-![New Yammer Opt-in Toggle](../media/yammer-optin-admin-settings.png)
+![New Yammer Opt-in Toggle.](../media/yammer-optin-admin-settings.png)
 
 Users would be able to opt out of the new experience at any time, using the opt-out toggle. When users opt into the new experience, they will encounter an opt-in dialog box prompting them to opt into the new Yammer experience. When they click **Let’s Go**, it opts in the user.
 
 > [!div class="mx-imgBorder"]
-> ![Meet the New Yammer dialog box](../media/yammer-preview-meet-new-yammer.png)
+> ![Meet the New Yammer dialog box.](../media/yammer-preview-meet-new-yammer.png)
 
 If the user clicks **Not Now**, the user will be taken to the corresponding page on the classic Yammer experience.
 
@@ -40,7 +40,7 @@ If the user clicks **Not Now**, the user will be taken to the corresponding page
 
 Selecting this option would ensure users in your organization are able to see the **New Yammer** toggle to opt into new Yammer from the classic Yammer experience, and users who have never tried the new experience would automatically be switched to new Yammer. 
 
-![New Yammer Opt-in Toggle](../media/yammer-optin-admin-settings.png)
+![New Yammer Opt-in Toggle.](../media/yammer-optin-admin-settings.png)
 
 Users can choose to opt-out of this new experience and go back to classic Yammer at any point.
 

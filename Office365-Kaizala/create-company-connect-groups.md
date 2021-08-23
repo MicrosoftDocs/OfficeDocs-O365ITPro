@@ -32,7 +32,7 @@ A hub-and-spoke group in Kaizala is a unique group where admins can broadcast me
 2. Select **Create Group**, and from the drop-down menu, select **Broadcast Group**.
 3. Enter the group name, a short and long description, and a welcome message.
 
-   ![Screenshot of Create a broadcast group window](media/create-public-group.png)
+   ![Screenshot of Create a broadcast group window.](media/create-public-group.png)
 
 4. Choose between two group types: **Managed** or **Public**.
    - **Managed** groups allow the group admins to view, manage, and invite subscribers.
@@ -46,11 +46,11 @@ After you create a broadcast group, you can add subscribers (employees, partners
 
 1. To add subscribers, select **Manage Subscribers**, and then select **Add Subscribers**. 
 
-   ![Screenshot of Manage Subscribers menu](media/manage-subscribers.png)
+   ![Screenshot of Manage Subscribers menu.](media/manage-subscribers.png)
 
 2. On the **Add Subscribers** page, download the CSV template and follow the format to add your subscribers. Save the file when you're done.
 
-   ![Screenshot of Add Subscribers window](media/add-subscribers.png)
+   ![Screenshot of Add Subscribers window.](media/add-subscribers.png)
 
 3. Choose **Select File** to choose the file you just saved, and then click **Add**.
 

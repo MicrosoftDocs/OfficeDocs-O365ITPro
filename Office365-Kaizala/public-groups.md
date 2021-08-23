@@ -39,7 +39,7 @@ To see an interactive step-by-step demo and explanation of the configurations, s
 1. On the Kaizala management portal, from the left navigation pane, choose **Public Groups**.
 2. Select **Create new** and enter a group picture and info. Click or tap **Create**.
     
-    ![create a public group page](media/aa7bc493-9039-4d62-8d25-625ac02dd509.png)
+    ![create a public group page.](media/aa7bc493-9039-4d62-8d25-625ac02dd509.png)
   
 You can add admins and members to the public groups you created.
   
@@ -53,7 +53,7 @@ After you create a public group, you can add subscribers to it. Once they have b
     
 3. Choose **Select File** to choose the file you just saved and then click **Add**.
     
-![invite a subscriber in Kaizala public group](media/00a314aa-8de0-431f-b272-c212c421ca1e.png)
+![invite a subscriber in Kaizala public group.](media/00a314aa-8de0-431f-b272-c212c421ca1e.png)
   
 ## Invite subscribers
 
@@ -63,7 +63,7 @@ You can send a unique link to invite subscribers to your group. If people open t
     
 2. Copy the link and send it to the people you want. Once they click it, they’ll be added to the group.
     
-![invite a Kaizala subscriber to a public group](media/27d71abe-264d-4de1-8b97-015e546fe884.png)
+![invite a Kaizala subscriber to a public group.](media/27d71abe-264d-4de1-8b97-015e546fe884.png)
   
 Public groups are managed through the Kaizala management portal by public group admins. Organization group admins can manage all public groups in their organization.
   

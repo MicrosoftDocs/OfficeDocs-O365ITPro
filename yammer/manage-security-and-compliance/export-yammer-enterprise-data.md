@@ -37,15 +37,15 @@ As a verified admin, you can export Yammer Enterprise data to monitor usage and 
 <a name="ExportUsers"> </a>
 ## Export user and admin list
 
-1. In Yammer, click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Network Admin**.
+1. In Yammer, click the Yammer settings icon ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Network Admin**.
     
 2. Click **Export Users**.
     
-    ![Yammer Export Users menu](../media/69748f25-6619-4d2f-b9c8-17f02b726a98.png)
+    ![Yammer Export Users menu.](../media/69748f25-6619-4d2f-b9c8-17f02b726a98.png)
   
 3. On the Export Users page, choose **Export all users**, and then click **Export**.
     
-    ![Yammer Export Users options - Export all users or Export all users since (date)](../media/71c292af-9ca0-447a-8750-20b49bd1330e.png)
+    ![Yammer Export Users options - Export all users or Export all users since (date).](../media/71c292af-9ca0-447a-8750-20b49bd1330e.png)
   
 4. Save the exported file. The file is saved as a compressed file with a .zip file name extension.
     
@@ -68,7 +68,7 @@ As a verified admin, you can export Yammer Enterprise data to monitor usage and 
     
 2. Specify the data to include:
     
-    ![Export page, showing export options](../media/9961176e-dcb5-453c-82a1-ff9d986877ad.png)
+    ![Export page, showing export options.](../media/9961176e-dcb5-453c-82a1-ff9d986877ad.png)
   
       - **Date range:** Only data in the specified date range will be included. 
     
@@ -76,7 +76,7 @@ As a verified admin, you can export Yammer Enterprise data to monitor usage and 
     
       - **Include external networks**: If not selected, you'll only get data from your home network. If selected, you'll get a separate folder for the data from each network. Each network is identified by its ID, and the full network names are listed in **Networks.csv**. 
     
-    ![Each network has its own folder, labeled with the network ID](../media/5b8e96a8-b8bf-4467-b6d2-6a0bb9175d3c.png)
+    ![Each network has its own folder, labeled with the network ID.](../media/5b8e96a8-b8bf-4467-b6d2-6a0bb9175d3c.png)
   
 3. Click **Export**.
     
@@ -106,7 +106,7 @@ The following types of data are not included in this export:
     
 - Bookmarked messages, group membership, followed or following users, or followed topics. To find this information for a user, click the user's name. 
     
-To find this data for an individual user, click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), click **People**, and click the name of the user whose data you want to view. This page shows the user's profile, conversations they've participated in, any files, images, and videos they have posted, along with their bookmarks, followed and following users, and followed topics.
+To find this data for an individual user, click the Yammer settings icon ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), click **People**, and click the name of the user whose data you want to view. This page shows the user's profile, conversations they've participated in, any files, images, and videos they have posted, along with their bookmarks, followed and following users, and followed topics.
  
 
 <a name="ExportOneUser"> </a>
@@ -138,7 +138,7 @@ To find this data for an individual user, click the Yammer settings icon ![Yamme
    
 4. When the user's account activity data is ready, you'll receive a Yammer inbox message with a link to the data. Click the link to open it.
     
-Exported data does not contain bookmarked messages, group membership, followed or following users, followed topics, the user's notifications from Yammer (in Yammer, in Microsoft Teams, or in Microsoft Outlook), application and language settings, and org chart. To find this data for an individual user, click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), click **People**, and click the name of the user whose data you want to view. This page shows the user's profile, conversations they've participated in, any files, images, and videos they have posted, along with their bookmarks, followed and following users, and followed topics.
+Exported data does not contain bookmarked messages, group membership, followed or following users, followed topics, the user's notifications from Yammer (in Yammer, in Microsoft Teams, or in Microsoft Outlook), application and language settings, and org chart. To find this data for an individual user, click the Yammer settings icon ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), click **People**, and click the name of the user whose data you want to view. This page shows the user's profile, conversations they've participated in, any files, images, and videos they have posted, along with their bookmarks, followed and following users, and followed topics.
 
 > [!NOTE]
 >  Data for the skin tone selection by a user is not included in export but is available directly in Yammer by going to any post the user has reacted on, opening up the grouped modal dialog box for that specific post or comment, and viewing the user's skin-tone preference in the list.
@@ -161,7 +161,7 @@ To find and delete a specific message:
 
 1. Build the URL for the message. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**Threads**/**show?threadId=** *thread_id*. For example, https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/Threads/show?threadId=1040647232.
 
-2. In the message, click the **More** icon ![More icon (...)](../media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **Delete**.
+2. In the message, click the **More** icon ![More icon (...).](../media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **Delete**.
     
 To find and delete a specific file:
 

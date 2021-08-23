@@ -49,7 +49,7 @@ To view a survey detailed report, from the home page, go to **Reports** from the
 - **Text Responses** – An automatically generated word cloud based on survey responses. Organizations can use surveys to get feedback from their employees and then use this report to visualize the details.
 - **Images** – View all the photos collected via a survey in a single place.
 
-![Detailed Survey Report](media/fd37133a-893f-4012-88a7-6c40c412b3ef.png)
+![Detailed Survey Report.](media/fd37133a-893f-4012-88a7-6c40c412b3ef.png)
 
 ## Polls
 
@@ -81,12 +81,12 @@ Some reports have drill-down support for hierarchical groups that shows aggregat
   
 - Click or tap the arrow icon as shown here:
     
-    ![Kaizala job drill down. Allows you to see group and subgroup data for the report](media/e4dbff79-a196-4fbf-a67d-ab4f5a131f59.png)
+    ![Kaizala job drill down. Allows you to see group and subgroup data for the report.](media/e4dbff79-a196-4fbf-a67d-ab4f5a131f59.png)
   
 ## Export Kaizala report data to a CSV file
 
 You can export your Kaizala report data to a CSV file using Power BI. To export the data, click the **…** on the top right corner of the graph, and choose **Export**.
   
-![Export Kaizala report datat to a CSV file](media/447cbac6-24fa-4b11-b05f-a84758e55c39.png)
+![Export Kaizala report datat to a CSV file.](media/447cbac6-24fa-4b11-b05f-a84758e55c39.png)
   
 

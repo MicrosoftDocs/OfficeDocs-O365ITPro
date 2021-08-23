@@ -52,7 +52,7 @@ To make step 2 easier to understand, think of it this way: If servers were conti
     
 - intermediate certificates would be the state population.
     
-![Certificate hierarchy shown on Local Computer](../media/6b5af1b5-8c6f-4404-bd1e-4fb69ed44a68.png)
+![Certificate hierarchy shown on Local Computer.](../media/6b5af1b5-8c6f-4404-bd1e-4fb69ed44a68.png)
   
 On a Mac computer, these categories, or folders, vary slightly. Use Spotlight to search for the "keychain access" console. For information on keychain access, see [Keychain Access overview](https://support.apple.com/kb/PH20093?viewlocale=en_US&amp;locale=en_US) on the Apple Support site. 
   
@@ -82,7 +82,7 @@ Follow these 5 steps to verify whether you've got an SSL certificate that's miss
     
 You should see a list of SSL certificates. Look for a certificate labeled "extra download." This error signals failed authentication, indicating that AD FS couldn't pass along the entire certificate chain.
   
-![List of SSL certificates with extra download error](../media/c0c8edc8-7020-49f5-8db9-07aa44cd6004.png)
+![List of SSL certificates with extra download error.](../media/c0c8edc8-7020-49f5-8db9-07aa44cd6004.png)
   
 Successful authentication is marked as "sent by server."
   

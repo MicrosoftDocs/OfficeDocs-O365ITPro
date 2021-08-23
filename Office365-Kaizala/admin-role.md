@@ -25,7 +25,7 @@ description: Learn about the administrator role in Kaizala.
 
 Global administrators in Office 365 can assign users the Kaizala administrator role for help with administering Kaizala. The global administrator already has all the permissions of Kaizala administrator. The role assignment can be done from the [Microsoft 365 admin center](https://admin.microsoft.com).
 
-![Screenshot of selecting Kaizala administrator in the Microsoft 365 admin center](media/admin-role-in-admin-center.png)
+![Screenshot of selecting Kaizala administrator in the Microsoft 365 admin center.](media/admin-role-in-admin-center.png)
 
 Users in this role have permission to perform all management tasks within Microsoft Kaizala, including create and manage users in the Kaizala directory, manage Kaizala groups, and manage action cards, connectors, and settings at an organizational level.
 

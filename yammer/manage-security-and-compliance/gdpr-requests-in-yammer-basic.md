@@ -29,7 +29,7 @@ You can edit your own profile, change your notifications, delete your own accoun
 ## Edit your profile and settings
 <a name="EditProfile"> </a>
 
-1. Click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Edit Settings**.
+1. Click the Yammer settings icon ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Edit Settings**.
     
       - To change your profile, select **Profile**.
     
@@ -37,7 +37,7 @@ You can edit your own profile, change your notifications, delete your own accoun
     
       - To edit your notifications, select **Networks**. 
     
-        ![On the networks page, to export data, use the Download Data link next to the network name](../media/b8b47324-6eaa-4f20-a211-e329b29c2b57.png)
+        ![On the networks page, to export data, use the Download Data link next to the network name.](../media/b8b47324-6eaa-4f20-a211-e329b29c2b57.png)
   
       - To see your account activity, select **Account Activity**.
     
@@ -52,13 +52,13 @@ You can export your own data in Yammer Basic, and can choose to delete any data 
   
  It isn't possible to export data for all users. 
   
-1. Click the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Edit Settings**.
+1. Click the Yammer settings icon ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Edit Settings**.
     
 2. Click **Networks**. 
     
 3. For each network you belong to, select **Download Data**. 
 
-    ![On the networks page, to export data, use the Download Data link next to the network name](../media/b8b47324-6eaa-4f20-a211-e329b29c2b57.png)
+    ![On the networks page, to export data, use the Download Data link next to the network name.](../media/b8b47324-6eaa-4f20-a211-e329b29c2b57.png)
 
     Data is exported into a .zip file. If you're a member of more than one network, a separate folder is created for each network. 
 
@@ -109,7 +109,7 @@ You can export your own data in Yammer Basic, and can choose to delete any data 
     
 1. Build the URL for the message. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**Threads**/**show?threadId=** *thread_id*. For example, https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/Threads/show?threadId=1040647232.
 
-2. In the message, click the **More** icon ![More icon (...)](../media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **GDPR Hard Delete**.
+2. In the message, click the **More** icon ![More icon (...).](../media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **GDPR Hard Delete**.
 
 **To locate and delete a specific file in Yammer:**
 
@@ -138,14 +138,14 @@ There is some user data that is not included in an export. The following table s
 
 1. In the group, click **Members**.
     
-2. Click the **Settings** icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) next to the user's name. 
+2. Click the **Settings** icon ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) next to the user's name. 
     
 3. Click **Remove from Group**.
     
 ## Remove yourself from an external network
 <a name="RemoveSelfExternal"> </a>
 
-1. Click the Yammer ** Settings ** icon, and then click **Edit Settings**. ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png)
+1. Click the Yammer ** Settings ** icon, and then click **Edit Settings**. ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png)
   
 2. Select **Network**.
     
@@ -154,7 +154,7 @@ There is some user data that is not included in an export. The following table s
 ## Remove yourself from your home network
 <a name="RemoveSelfHome"> </a>
 
-1. Click the Yammer **Settings** icon, and then click **Edit Settings**. ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png)
+1. Click the Yammer **Settings** icon, and then click **Edit Settings**. ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png)
   
 2. Select **Delete Your Yammer Account**.
     

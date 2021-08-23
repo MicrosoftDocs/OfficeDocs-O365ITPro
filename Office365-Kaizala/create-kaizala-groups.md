@@ -30,7 +30,7 @@ You can create different [types of groups](groups-in-kaizala.md) from the Kaizal
 1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, choose **Groups**.
 2. Select **Create group**, enter the group name, and then click or tap **Create**.
     
-   ![Enter the name to create a new Kaizala group](media/f913453e-6a66-45bd-a51c-114ebf5be0d7.png)
+   ![Enter the name to create a new Kaizala group.](media/f913453e-6a66-45bd-a51c-114ebf5be0d7.png)
 
 ### Create a flat group from existing Microsoft 365 groups or distribution lists
 
@@ -57,7 +57,7 @@ Kaizala lets you create hierarchical group structures by adding subgroups.
 3. From the top navigation bar of the group, select **Sub Groups**.
 4. Choose a group you want to link from the drop-down list, and then click or tap **Add Group**.
    
-   ![Add a Kaizala subgroup to a parent group](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
+   ![Add a Kaizala subgroup to a parent group.](media/890765a2-9e2e-409f-88fa-0e478dfeb0c6.png)
 
 ### Add a subgroup in bulk
 

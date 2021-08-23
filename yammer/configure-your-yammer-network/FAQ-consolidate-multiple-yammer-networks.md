@@ -24,17 +24,17 @@ Here are answers to frequently asked questions about consolidating multiple Yamm
 
 **Q: How do I know if I have multiple Yammer networks associated with one tenant?**
 
-A: As a Yammer network admin, click the Yammer Settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Network Migration**.
+A: As a Yammer network admin, click the Yammer Settings icon ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then click **Network Migration**.
 
 You’ll see two lists of domains. If you see domains on the bottom list, then you have multiple Yammer networks and you must consolidate all of them until all the domains show in the list on the top.
 
 Here's what the network migration page looks like when you need to consolidate Yammer networks.
 
-![Network migration page showing multiple networks that need to be consolidated](../media/yam_needsconsolidation.png)
+![Network migration page showing multiple networks that need to be consolidated.](../media/yam_needsconsolidation.png)
 
 Here's what the network migration page looks like if you don't need to consolidate Yammer networks.
 
-![Network migration page showing just one network, and no networks that need to be consolidated](../media/yam_consolidated.png)
+![Network migration page showing just one network, and no networks that need to be consolidated.](../media/yam_consolidated.png)
 
 **Q: How do I consolidate my Yammer networks?**
 

@@ -29,7 +29,7 @@ Office 365 sign-in for Yammer lets users access Yammer with their Office 365 ide
     
 Here's a screenshot of the Office 365 app launcher that shows Yammer.
   
-![The Office 365 app launcher with the Yammer app highlighted](../media/2a9e4707-3671-411d-81c1-723fcdd2b483.png)
+![The Office 365 app launcher with the Yammer app highlighted.](../media/2a9e4707-3671-411d-81c1-723fcdd2b483.png)
   
 Until January 31, 2019, Yammer Enterprise continues to support legacy Yammer identity (login with email, password) for those users who have not yet been added to Office 365. We strongly recommend you add all Yammer users to Office 365. After January 31, 2019, users will be required to use their Azure Active Directory (AAD) credentials. For more information including how to identify users that don't yet have AAD credentials, see [AAD credentials will be required for Yammer Enterprise log in](aad-account-required.md).
   
@@ -72,7 +72,7 @@ By default, when users select **Conversations** in SharePoint, they see their th
     
 4. Under **Enterprise Social Collaboration**, choose **Use Yammer.com service**.
     
-    ![SharePoint admin center, Enterprise Social Collaboration options](../media/c89f672f-be20-4b71-9719-7acfa03162b8.png)
+    ![SharePoint admin center, Enterprise Social Collaboration options.](../media/c89f672f-be20-4b71-9719-7acfa03162b8.png)
   
 5. Select **Save**.
     

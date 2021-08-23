@@ -46,13 +46,13 @@ What you need before you can run these steps:
     
 3. On the **Search all connectors and triggers** page, type **Kaizala**, and then select **Microsoft Kaizala - When someone responds to a survey**.
     
-    ![Type Kaizala, and then select Microsoft Kaizala - When someone responds to a survey](media/d4abbccc-e5f4-4a3f-811c-81faf7297178.png)
+    ![Type Kaizala, and then select Microsoft Kaizala - When someone responds to a survey.](media/d4abbccc-e5f4-4a3f-811c-81faf7297178.png)
   
 4. If you haven't already connected your Kaizala account to Microsoft Flow, select **Sign in to Kaizala**, and enter your Kaizala admin username and password.
     
 5. On the Group page, select the group in which the survey has been posted.
     
-    ![Select a group](media/d8f4889c-8f23-45c8-b1b5-73521081a66d.png)
+    ![Select a group.](media/d8f4889c-8f23-45c8-b1b5-73521081a66d.png)
   
 Now you can specify what action you want to take:
   
@@ -60,15 +60,15 @@ Now you can specify what action you want to take:
     
 - On the **Search all connectors and actions** page, type **send email**, and then select **Office 365 Outlook - Send an email**If you're prompted, sign in with your Office 365 global admin account.
     
-    ![Select action: Office 365 Outlook - Send an email](media/f8938e56-64d0-4827-9528-88239881f430.png)
+    ![Select action: Office 365 Outlook - Send an email.](media/f8938e56-64d0-4827-9528-88239881f430.png)
   
 - On the **Send an email** page, type your email address in the **To** field and select your name from the list. 
     
-    ![Select your email from the list](media/bd08b595-94e8-4eac-90b8-f69b478e122a.png)
+    ![Select your email from the list.](media/bd08b595-94e8-4eac-90b8-f69b478e122a.png)
   
 - In the **Subject** field, type **New Response from**, press the spacebar.
     
-    ![Choose a subject](media/c5220e01-83d0-48f0-8ed1-1d547f236347.png)
+    ![Choose a subject.](media/c5220e01-83d0-48f0-8ed1-1d547f236347.png)
   
 - Select **Responder Name** from the list of tokens, to add a placeholder for it. 
     
@@ -92,13 +92,13 @@ What you need before you can run these steps:
     
 3. On the **Search all connectors and triggers** page, type **Twitter**, and then select **Twitter - When a new tweet is posted**.
     
-    ![Choose Twitter](media/bf649578-c9d6-4f3b-a7a9-533df93793db.png)
+    ![Choose Twitter.](media/bf649578-c9d6-4f3b-a7a9-533df93793db.png)
   
 4. If you haven't already connected your Twitter account to Microsoft Flow, select **Sign in to Twitter**, and enter your Twitter username and password.
     
 5. In the **Search text** field, type the keyword you want. 
     
-    ![Type in your keyword that you want](media/25641493-767a-4e3f-9eff-de5f8d066b8b.png)
+    ![Type in your keyword that you want.](media/25641493-767a-4e3f-9eff-de5f8d066b8b.png)
   
 Now you can specify what action you want to take:
   
@@ -108,7 +108,7 @@ Now you can specify what action you want to take:
     
 3. On the **Send text message to a group** page, enter the group name and the message that you want to send. 
     
-    ![Enter the group name and the message that you want to send](media/a25d776a-b3e1-48b3-81f0-c7bffbafd53d.png)
+    ![Enter the group name and the message that you want to send.](media/a25d776a-b3e1-48b3-81f0-c7bffbafd53d.png)
   
 4. At the top of the screen, name your flow, and then select **Create flow**. Select **Done** to update the list of your flows. 
     

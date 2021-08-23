@@ -28,7 +28,7 @@ Office 365 includes two options for enterprise social features in SharePoint: Ya
   
 You can turn Yammer off or on for conversations in SharePoint by using the SharePoint Online admin center. **You must be a global administrator to make this change.**
   
-![SharePoint admin center, Enterprise Social Collaboration options](../media/c89f672f-be20-4b71-9719-7acfa03162b8.png)
+![SharePoint admin center, Enterprise Social Collaboration options.](../media/c89f672f-be20-4b71-9719-7acfa03162b8.png)
   
 1. Sign in to Office 365 as a global admin.
     

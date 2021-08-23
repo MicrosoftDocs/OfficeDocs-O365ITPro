@@ -37,7 +37,7 @@ When you communicate with outside partners, suppliers, or customers, you want to
     >[!NOTE]
     >The data export reflects the current view of the network. For example, if a user was added, but then removed before the report was created, that user won't appear in the report.
   
-    ![Screenshot of an example data export file](../media/90261f3d-0629-4fb6-bb42-33ed7eb3e99a.png)
+    ![Screenshot of an example data export file.](../media/90261f3d-0629-4fb6-bb42-33ed7eb3e99a.png)
   
     Column **D** (external_participants) lists the users in other networks that participate in threads in your network, along with their name, email address, and the network ID of the Yammer network they belong to.
 

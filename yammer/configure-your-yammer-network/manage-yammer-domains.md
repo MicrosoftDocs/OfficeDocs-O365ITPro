@@ -43,17 +43,17 @@ Once your domain is set up in Office 365, your Yammer network is automatically c
 
 2. Verify that the domain you added in Office 365 has been added to Yammer.  
   
-    a. In Yammer, select the Yammer settings icon ![Yammer settings icon](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) in the left nav, and then click **Network Admin**.
+    a. In Yammer, select the Yammer settings icon ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) in the left nav, and then click **Network Admin**.
 
-    ![Yammer navigation, including Settings icon](../media/d1ec06fa-c2fb-4dcb-b21f-6dff1d20d6ad.png)
+    ![Yammer navigation, including Settings icon.](../media/d1ec06fa-c2fb-4dcb-b21f-6dff1d20d6ad.png)
   
     b. In the **Network** section choose **Network Migration**.
 
-    ![Network Migration menu item for Yammer Admins](../media/f9ae9328-9cb2-46f7-9bce-26bcdc29b3fa.png)
+    ![Network Migration menu item for Yammer Admins.](../media/f9ae9328-9cb2-46f7-9bce-26bcdc29b3fa.png)
   
     c. In the **Step 1 of 3 - Check/Add Verified Domains** page, you'll see the list of domains on the Yammer network.
 
-    ![Screen shot of Step 1 of 3 - Check/Add Verified Domains before migrating a Yammer network](../media/cac649d6-9245-4645-8f59-fb27dffd87e8.png)
+    ![Screen shot of Step 1 of 3 - Check/Add Verified Domains before migrating a Yammer network.](../media/cac649d6-9245-4645-8f59-fb27dffd87e8.png)
   
 ## Remove a domain from Yammer
 
@@ -69,7 +69,7 @@ If instead you want to consolidate multiple domains into one Yammer network, see
 
 To change the displayed network name shown below, change the **name** in the Office 365 Organization profile. This overrides the **Network Name** set in the Yammer Network admin. For steps, see [Change your organization's address, technical contact, and more](https://support.office.com/article/Change-your-organization-s-address-technical-contact-and-more-a36e5a52-4df2-479e-bb97-9e67b8483e10).
 
-   ![List of Yammer groups on the Yammer page](../media/0a1125b1-74d2-4ea5-b8e4-6d52456a527e.jpg)
+   ![List of Yammer groups on the Yammer page.](../media/0a1125b1-74d2-4ea5-b8e4-6d52456a527e.jpg)
   
 ## Change the Yammer primary domain
 

@@ -31,7 +31,7 @@ Microsoft Kaizala comes with several out-of-the-box Action cards that can help m
 
 ## **[Get work done with Kaizala Actions](use-kaizala-actions.md)**
 
-[![Image of get work done icon](media/get-work-done-icon.png)](use-kaizala-actions.md)
+[![Image of get work done icon.](media/get-work-done-icon.png)](use-kaizala-actions.md)
 
 Kaizala offers a wide range of action cards or mini apps that make your daily work management easy and efficient. You can use the out-of-the-box Action cards or create your own customized Kaizala Actions. Let’s get you started with some of the Kaizala Actions such as survey, attendance, and job that can help you get work done.
 
@@ -43,7 +43,7 @@ Kaizala offers a wide range of action cards or mini apps that make your daily wo
 
 ## **[Create your own Kaizala Actions](create-custom-actions.md)**
 
-[![Image of create actions icon](media/create-actions-icon.png)](create-custom-actions.md)
+[![Image of create actions icon.](media/create-actions-icon.png)](create-custom-actions.md)
 
 You can design a custom Kaizala Action through the Action Designer interface within the Kaizala management portal. This can be done by building on the out-of-the-box Survey Action.
 
