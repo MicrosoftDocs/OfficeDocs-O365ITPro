@@ -39,4 +39,4 @@ There are important limitations one should know when using a [Planner for admins
 |Maximum user-data count in user details   |10|
 
 > [!NOTE]
-> These limitations change from time-to-time. Kindly refer to this article for updated information on Planner limits for admins.
+> These limitations can change from time-to-time. Refer to this article for updated information on Planner limits for admins.
