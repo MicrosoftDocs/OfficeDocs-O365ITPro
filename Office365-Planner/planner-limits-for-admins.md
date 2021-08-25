@@ -1,8 +1,8 @@
 ---
 title: "Microsoft Planner limits for admins"
 description: This article shares information on Microsoft Planner limits for admins.
-ms.author: alekyaj
-author: alekyaj
+ms.author: v-aljupudi
+author: v-aljupudi
 manager: Anavs, ArshishK
 ms.date: 08/25/2021
 audience: Admin
