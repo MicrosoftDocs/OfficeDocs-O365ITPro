@@ -10,7 +10,7 @@ audience: Admin
 ms.topic: Overview
 layout: LandingPage
 ms.service: o365-administration
-localization_priority: Priority
+ms.localizationpriority: high
 search.appverid:
 - MET150
 description: "This procedure walks you through downloading the files needed to run Planner admin commands in PowerShell"

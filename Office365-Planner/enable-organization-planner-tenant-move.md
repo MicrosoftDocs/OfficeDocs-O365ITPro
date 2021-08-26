@@ -10,7 +10,7 @@ audience: Admin
 ms.topic: Overview
 layout: LandingPage
 ms.service: o365-administration
-localization_priority: Priority
+ms.localizationpriority: high
 search.appverid:
 - MET150
 description: "If you are a tenant admin who has made a support request for your organization’s Planner tenancy to be moved, first authorize using PowerShell"

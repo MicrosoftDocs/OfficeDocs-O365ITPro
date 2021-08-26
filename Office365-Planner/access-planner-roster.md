@@ -9,7 +9,7 @@ ms.reviewer: ryany
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 description: "Learn how to access the roster in Microsoft Planner."

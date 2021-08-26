@@ -8,7 +8,7 @@ manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.service: yammer
 ms.custom: Adm_Yammer
 ms.collection: SPO_Content
