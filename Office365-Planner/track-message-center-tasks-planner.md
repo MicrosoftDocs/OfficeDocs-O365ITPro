@@ -9,7 +9,7 @@ ms.date: 5/13/2020
 audience: Admin
 ms.topic: Overview
 ms.service: o365-administration
-localization_priority: Priority
+ms.localizationpriority: high
 search.appverid:
 - MET150
 description: "This article describes how to track your Microsoft 365 message center tasks in Microsoft Planner."

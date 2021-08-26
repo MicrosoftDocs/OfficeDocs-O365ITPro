@@ -9,7 +9,7 @@ ms.date: 02/28/2020
 audience: End User
 ms.topic: article
 ms.service: yammer
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid: 
 - MET150
 - MOE150

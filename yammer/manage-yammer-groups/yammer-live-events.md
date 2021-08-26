@@ -9,7 +9,7 @@ ms.date: 9/23/2019
 audience: Admin
 ms.topic: overview
 ms.service: yammer
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_Yammer
 ms.collection:
 - m365solution-spcomms

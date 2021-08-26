@@ -10,7 +10,7 @@ audience: Consumer/IW
 ms.topic: article
 ms.service: kaizala
 ms.custom: Kaizala
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 - MOE150
