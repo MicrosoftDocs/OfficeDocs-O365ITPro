@@ -9,7 +9,7 @@ ms.date: 01/05/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
+ms.localizationpriority: high
 search.appverid:
 - MET150
 description: "This article shares information on how admins can disable the creation of Roster containers."

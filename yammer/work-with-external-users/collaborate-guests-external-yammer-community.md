@@ -9,7 +9,7 @@ ms.date: 03/15/2021
 audience: Admin
 ms.topic: article
 ms.service: yammer
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_Yammer
 search.appverid: 
 - MOE150

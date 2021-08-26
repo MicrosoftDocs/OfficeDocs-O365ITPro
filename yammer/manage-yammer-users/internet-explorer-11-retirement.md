@@ -9,7 +9,7 @@ ms.date: 8/18/2020
 audience: Admin
 ms.topic: overview
 ms.service: yammer
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_Yammer
 search.appverid:
 - MET150
