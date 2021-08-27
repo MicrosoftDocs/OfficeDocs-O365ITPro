@@ -8,7 +8,7 @@ ms.date: 02/23/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
+ms.localizationpriority: high
 search.appverid:
 description: "This article shares information on how admins can block a user from deleting tasks the user didn't create"
 ---

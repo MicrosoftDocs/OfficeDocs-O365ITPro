@@ -8,7 +8,7 @@ manager: pamgreen
 ms.date: 4/15/2020
 audience: Admin
 ms.topic: article
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_Yammer
 ms.service: yammer
 search.appverid:

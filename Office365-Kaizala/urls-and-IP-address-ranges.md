@@ -11,7 +11,7 @@ ms.topic: article
 ms.service: kaizala
 ms.custom: Kaizala
 ms.reviewer: nitinjms2
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 - MOE150
