@@ -9,7 +9,7 @@ ms.date: 08/14/2019
 audience: Admin
 ms.topic: Overview
 ms.service: o365-administration
-localization_priority: Priority
+ms.localizationpriority: high
 search.appverid:
 - MET150
 description: "This article shares information on how admins can control and manage access to Planner, as well as answers to some other frequently asked questions about the management of Planner."

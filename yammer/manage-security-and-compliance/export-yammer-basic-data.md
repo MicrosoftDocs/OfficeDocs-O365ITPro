@@ -9,7 +9,7 @@ ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
 ms.service: yammer
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 872612f0-780a-47ed-9daf-da5af065c5e6
 description: "Users can export their own data in Yammer Basic."
 ---

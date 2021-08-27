@@ -9,7 +9,7 @@ ms.date: 02/17/2020
 audience: Admin
 ms.topic: article
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_Yammer
 search.appverid:
 - MET150
