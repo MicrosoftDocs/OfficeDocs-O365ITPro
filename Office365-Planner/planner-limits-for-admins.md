@@ -10,7 +10,7 @@ ms.topic: article
 ms.service: o365-administration
 ms.localization_priority: medium
 ---
-# Microsoft Planner Limits for admins
+# Microsoft Planner limits for admins
 
 There are important limitations one should know when using a [Planner for admins](planner-for-admins.md). These limits apply to projects and tasks.
 
