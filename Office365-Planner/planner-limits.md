@@ -12,9 +12,9 @@ ms.localization_priority: medium
 ---
 # Microsoft Planner limits
 
-This article describes the current limitations that are applicable to Microsoft Planner.
+This article describes the current limits that apply to Microsoft Planner.
 
-## Plan limitations
+## Plan limits
 
 |Field  |Limit  |
 |---------|---------|
@@ -27,7 +27,7 @@ This article describes the current limitations that are applicable to Microsoft 
 |Maximum contexts on a plan    |10|
 |Maximum favorite plans for a user     |30|
 
-## Task limitations
+## Task limits
 
 |Field  |Limit  |
 |---------|---------|
