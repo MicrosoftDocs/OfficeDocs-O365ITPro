@@ -1,5 +1,6 @@
 # [Admin home](index.yml)
 ## [Microsoft Planner for admins](planner-for-admins.md)
+## [Microsoft Planner limits](planner-limits.md)
 ## [Turn off Outlook calendar sync in Planner for your organization](turn-off-outlook-calendar-sync.md)
 ## [Delete user data in Microsoft Planner](delete-user-data.md)
 ## [Export user data from Microsoft Planner](export-user-data.md)
