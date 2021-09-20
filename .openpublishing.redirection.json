@@ -1941,7 +1941,7 @@
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/understand-your-invoice2.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/understand-your-invoice2"
     },
