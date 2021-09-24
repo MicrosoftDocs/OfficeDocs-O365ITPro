@@ -35,6 +35,7 @@ In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint.
 - New files will always be uploaded to SharePoint.
 - Non-SharePoint group files will deleted *within 30 days* after the migration is completed.
 - For any group containing multiple files with the same name, the duplicate-named files will be appended with _X, where X is an increasing number for each duplicate named file (for example, file_1 file_2 file_3 and so on).
+- Yammer files that do not align with SharePoint naming standards will be renamed to meet requirements.
 
 ## Before running the tools
 
