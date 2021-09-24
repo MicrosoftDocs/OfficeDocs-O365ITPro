@@ -37,6 +37,18 @@ In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint.
 - For any group containing multiple files with the same name, the duplicate-named files will be appended with _X, where X is an increasing number for each duplicate named file (for example, file_1 file_2 file_3 and so on).
 - Yammer files that do not align with SharePoint naming standards will be renamed to meet requirements.
 
+
+
+#### File renaming rules:
+- Characters not supported in SharePoint will be replaced with an underscore '_'.
+- Duplicate files or those with names that already exist in SharePoint will be renamed using the following format: filename_yammerFileID_extension.
+- Files with a blank space as the first or last character as well as files that end with a period will have those characters removed.
+- Unnamed files will be named according to the following format: "Yammer File", "Yammer File (2)", "Yammer File (3)", etc.
+- Files with names starting with \~$ will have the leading tilde removed, eg: "~$Yammer File" will be renamed to "$Yammer File".
+- Files with names containing _vti_ anywhere in the name will have it replaced with -vti-, eg: "Yammer_vti_File" will be renamed to "Yammer-vti-File".
+- Files named .lock, CON, PRN, AUX, NUL, COM0 - COM9, LPTO - LPT9, or desktop.ini will have "__file" appended to the name, eg: "COM0" will be renamed to "COM0_file".
+
+
 ## Before running the tools
 
 Because migration deletes files and the process is irreversible, we suggest you:
