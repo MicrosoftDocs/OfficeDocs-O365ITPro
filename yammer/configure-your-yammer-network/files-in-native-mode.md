@@ -38,6 +38,7 @@ In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint.
 - Yammer files that do not align with SharePoint naming standards will be renamed to meet requirements.
 
 
+
 #### File renaming rules:
 - Characters not supported in SharePoint will be replaced with an underscore '_'.
 - Duplicate files or those with names that already exist in SharePoint will be renamed using the following format: filename_yammerFileID_extension.
