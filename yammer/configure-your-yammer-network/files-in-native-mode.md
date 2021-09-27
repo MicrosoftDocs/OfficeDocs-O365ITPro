@@ -46,6 +46,7 @@ In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint.
 - Unnamed files will be named according to the following format: "Yammer File", "Yammer File (2)", "Yammer File (3)", etc.
 - Files with names starting with \~$ will have the leading tilde removed, eg: "~$Yammer File" will be renamed to "$Yammer File".
 - Files with names containing _vti_ anywhere in the name will have it replaced with - vti-, eg: "Yammer_vti_File" will be renamed to "Yammer-vti-File".
+- Files with names containing _vti_ anywhere in the name will have it replaced with -vti-, eg: "Yammer_vti_File" will be renamed to "Yammer-vti-File".
 - Files named .lock, CON, PRN, AUX, NUL, COM0 - COM9, LPTO - LPT9, or desktop.ini will have "__file" appended to the name, eg: "COM0" will be renamed to "COM0_file".
 
 
