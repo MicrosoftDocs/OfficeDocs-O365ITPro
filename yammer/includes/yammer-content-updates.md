@@ -2,6 +2,14 @@
 
 
 
+## Week of October 18, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 10/19/2021 | [Files in Native Mode](/Yammer/configure-your-yammer-network/files-in-native-mode) | modified |
+
+
 ## Week of September 27, 2021
 
 
