@@ -70,8 +70,7 @@ For more information, see [Guest access in Microsoft Planner](https://support.of
 ## Can people in my organization use Planner if they don't have an Exchange Online mailbox?
 
 - If you are using Microsoft Planner in a hybrid environment in which your users may have Exchange Online or on-premises mailboxes, note that:
-- Planner has full functionality when your user has a product license that includes Exchange Online
-Planner users without Exchange Online may have issues with viewing or adding comments to a task.
+- Planner has full functionality when your user has a product license that includes Exchange Online. Planner users without Exchange Online may have issues with viewing or adding comments to a task.
   
 For more information, see [KB article 3169632](https://go.microsoft.com/fwlink/p/?LinkId=808082).
 
