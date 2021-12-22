@@ -19,7 +19,7 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 
-description: Learn about the Kaizala app and how to send secure instant messages, Kaizala Actions, attachments, and more.
+description: Learn about the Kaizala app and how to send secure instant messages, Kaizala Actions, attachments, and more here.
 ---
 
 # Welcome to Microsoft Kaizala
