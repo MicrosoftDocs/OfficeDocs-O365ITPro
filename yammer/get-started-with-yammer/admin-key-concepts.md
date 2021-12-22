@@ -10,7 +10,9 @@ audience: Admin
 ms.topic: article
 ms.service: yammer
 ms.localizationpriority: medium
-ms.custom: Adm_Yammer
+ms.custom: 
+- Adm_Yammer
+- intro-overview
 search.appverid:
 - MET150
 - MOE150

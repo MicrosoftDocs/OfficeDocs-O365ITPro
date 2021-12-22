@@ -9,7 +9,9 @@ audience: Admin
 ms.date: 05/11/2019
 ms.topic: article
 ms.service: kaizala
-ms.custom: Kaizala
+ms.custom: 
+- Kaizala
+- intro-get-started
 ms.reviewer: 
 ms.localizationpriority: medium
 search.appverid:

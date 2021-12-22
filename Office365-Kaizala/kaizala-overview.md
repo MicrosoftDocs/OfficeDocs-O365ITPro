@@ -9,7 +9,9 @@ ms.date: 05/11/2019
 audience: Admin
 ms.topic: article
 ms.service: kaizala
-ms.custom: Kaizala
+ms.custom: 
+- Kaizala
+- intro-overview
 ms.localizationpriority: medium
 search.appverid:
 - MET150
