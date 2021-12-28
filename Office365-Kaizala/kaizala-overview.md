@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: chucked
 author: chuckedmonson
 manager: serdars
-ms.date: 05/11/2019
+ms.date: 12/28/2021
 audience: Admin
 ms.topic: article
 ms.service: kaizala
@@ -32,7 +32,7 @@ Kaizala lets you send instant messages, Kaizala Actions, and invoices. It also l
 
 ## In this guide
 
-|         |         |         |
+| Concept | Link | Description |
 |---------|---------|---------|
 |[![Generic image of building blocks.](media/blocks@4x.png)](get-started-kaizala.md) | [Get started](get-started-kaizala.md) | This simple getting started guide will show you four easy – yet powerful – things you can do to get the most out of Kaizala for your organization. Bring everyone together, get conversations going about Kaizala, connect with employees, and digitize everyday tasks with Kaizala. |
 |[![Generic image of mobile device.](media/cell_phone_generic@4x.png)](kaizala-app.md) | [Kaizala app](kaizala-app.md) | Kaizala is a mobile chat-based communication platform that connects your first-line workers with your information workers in the modern workplace. Kaizala makes it easy to connect and coordinate with not just your field workers but also with your members, customers, and distributors. It lets you efficiently manage work or collect data from individuals or large groups, even if they’re not in your organization. |
