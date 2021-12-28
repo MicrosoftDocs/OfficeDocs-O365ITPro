@@ -42,7 +42,7 @@ External collaboration is a key ingredient for the success of any organization. 
 
 ![Yammer business-to-business guest support.](../media/yammer-b2b-azure-guests.png)
 
-This setting is a Yammer network wide setting. Enabling guest access here will allow community admins to add guests to any Yammer community in the network. You can control guest access to individual Yammer communities [by using sensitivity labels](/microsoft-365/compliance/sensitivity-labels-teams-groups-sites).
+This setting is a Yammer network-wide setting. Enabling guest access here will allow community admins to add guests to any Yammer community in the network. You can control guest access to individual Yammer communities [by using sensitivity labels](/microsoft-365/compliance/sensitivity-labels-teams-groups-sites).
 
 > [!NOTE]
 > If your Yammer network is provisioned after December 15th, 2020, then AzureAD-B2B guest functionality is already enabled by default for your organization. 
@@ -53,7 +53,7 @@ To configure Azure AD, Microsoft 365 Groups and SharePoint settings, see [Collab
 
 1.	A community admin can add a guest to a Yammer community by entering the email address of the guest in the **Add Member** panel of the community. 
 
-2.	The guest receives a welcome email message. This message includes information about the Yammer community and Yammer network to which the user is being invited to, as well as the name of the community admin inviting the guest. The guest must accept the invitation by selecting **Go To Community** in the email message before accessing the Yammer community.
+2.	The guest receives a welcome email message. This message includes information about the Yammer community and Yammer network to which the user is being invited to, and the name of the community admin inviting the guest. The guest must accept the invitation by selecting **Go To Community** in the email message before accessing the Yammer community.
 
     ![Yammer AAD B2B external message.](../media/yammer-aad-b2b-external-message.png)
 
@@ -86,8 +86,8 @@ The guest experience has limitations by design. Following is a list of limitatio
 
 - Guests cannot create new communities in the network they are invited to. 
 
-- Guests cannot be a community admin and cannot change community settings. This includes:
-   -  Adding new members to the community and removing membership
+- Guests cannot be a community admin and cannot change community settings. Settings guests cannot change include:
+  - Adding new members to the community and removing membership
   - Promoting and demoting the owners
   - Editing community info
   - Adding related groups
@@ -97,13 +97,13 @@ The guest experience has limitations by design. Following is a list of limitatio
 
 ## Licensing for guest access
 
-Guest access is included with all Microsoft 365 Business Standard, Microsoft 365 Enterprise, and Microsoft 365 Education subscriptions. No additional Microsoft 365 license is necessary. Yammer doesn't restrict the number of guests you can add. However, the total number of guests that can be added to your tenant may be restricted by the paid features of Azure AD. For more information, see [Billing model for Azure AD External Identities](/azure/active-directory/external-identities/external-identities-pricing).
+Guest access is included with all Microsoft 365 Business Standard, Microsoft 365 Enterprise, and Microsoft 365 Education subscriptions. No other Microsoft 365 license is necessary. Yammer doesn't restrict the number of guests you can add. However, the total number of guests that can be added to your tenant may be restricted by the paid features of Azure AD. For more information, see [Billing model for Azure AD External Identities](/azure/active-directory/external-identities/external-identities-pricing).
 
 ## What features are not supported for Guests?
 
 We are working hard to bring all Yammer functionality to the new B2B guests in Yammer. Below is the list of features still in progress:
 - **Personal email, non-Microsoft 365 business email, and phone number-based legacy accounts** – Users with Microsoft 365 Business email accounts can be added as guests. Other email domains like Gmail or Yahoo mail etc. will not be supported in this release. 
-- **Cross-Geography guests** – Today we enable organizations to host Yammer in two data centers – Europe and North America. With this new guest support, users will be able to add guests from their same geography. Please check [the Yammer public roadmap](https://go.microsoft.com/fwlink/?linkid=2132131) to see timelines for Cross-Geography support.
+- **Cross-Geography guests** – Today we enable organizations to host Yammer in two data centers – Europe and North America. With this new guest support, users will be able to add guests from their same geography. Check [the Yammer public roadmap](https://go.microsoft.com/fwlink/?linkid=2132131) to see timelines for Cross-Geography support.
 
 - **Private messages** – Private messages are disabled for B2B guests in Yammer.
 - **Live events** – Currently guest users will not be able to participate in live events because guests are not yet supported by Microsoft Stream. To learn more about when these features will be available, please refer to our [Microsoft Yammer roadmap](https://go.microsoft.com/fwlink/?linkid=2132131).
@@ -122,7 +122,7 @@ A: AzureAD-B2B guests cannot be invited to Yammer External Networks. External Ne
 
 **Q: Will Yammer guest settings be aligned to Microsoft 365 Groups settings?**
 
-A: Yes. With Native Mode for Microsoft 365 for Yammer, all communities and users are supported via Microsoft 365 Groups. The AAD guest settings for Microsoft 365 Groups will now also apply to Yammer communities.
+A: Yes. With Native Mode for Microsoft 365 for Yammer, all communities and users are supported via Microsoft 365 Groups. The Azure AD guest settings for Microsoft 365 Groups will now also apply to Yammer communities.
 
 **Q: Can Yammer have dynamic membership groups include guests from a domain?**
 
