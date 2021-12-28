@@ -2,7 +2,7 @@
 title: "Produce Yammer live events from your device"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 02/05/2020

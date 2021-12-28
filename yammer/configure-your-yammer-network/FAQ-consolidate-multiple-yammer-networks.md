@@ -2,7 +2,7 @@
 title: "FAQ: Consolidating multiple Yammer networks"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 01/30/2020

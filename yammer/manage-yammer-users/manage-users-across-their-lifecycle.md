@@ -2,7 +2,7 @@
 title: "Manage Yammer users across their lifecycle from Office 365"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019

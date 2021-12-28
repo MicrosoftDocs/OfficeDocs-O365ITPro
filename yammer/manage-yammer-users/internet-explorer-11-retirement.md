@@ -2,7 +2,7 @@
 title: "Yammer update on Internet Explorer 11 changes coming in August 2021"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 8/18/2020

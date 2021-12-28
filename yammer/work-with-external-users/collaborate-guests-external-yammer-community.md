@@ -2,7 +2,7 @@
 title: "Collaborate with guests in a Yammer community"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 03/15/2021
