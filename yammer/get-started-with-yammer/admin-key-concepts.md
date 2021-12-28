@@ -2,7 +2,7 @@
 title: "Yammer admin key concepts"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 02/28/2020
@@ -10,7 +10,9 @@ audience: Admin
 ms.topic: article
 ms.service: yammer
 ms.localizationpriority: medium
-ms.custom: Adm_Yammer
+ms.custom: 
+- Adm_Yammer
+- intro-overview
 search.appverid:
 - MET150
 - MOE150

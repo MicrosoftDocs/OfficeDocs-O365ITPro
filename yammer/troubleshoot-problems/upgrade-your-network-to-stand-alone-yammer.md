@@ -2,7 +2,7 @@
 title: "Upgrade your network to stand-alone Yammer Enterprise subscription"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019

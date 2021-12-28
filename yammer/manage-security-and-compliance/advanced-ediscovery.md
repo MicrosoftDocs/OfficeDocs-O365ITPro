@@ -2,7 +2,7 @@
 title: "Advanced eDiscovery in Yammer"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 01/16/2020
@@ -23,11 +23,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 
 Yammer supports both eDiscovery and Advanced eDiscovery within the Microsoft Security and Compliance Center.
 
-To use this functionality, your Yammer network will need to be in Native Mode. If your network was provisioned after January 9th, 2020, you are already in Native Mode. If your network was provisioned *before* January 9th, 2020, you will need to follow the steps in the [Native Mode Alignment Tool](../configure-your-yammer-network/overview-native-mode.md).
+To use this functionality, your Yammer network will need to be in Native Mode. If your network was provisioned after January 9, 2020, you are already in Native Mode. If your network was provisioned *before* January 9, 2020, you will need to follow the steps in the [Native Mode Alignment Tool](../configure-your-yammer-network/overview-native-mode.md).
 
 You can learn more about eDiscovery in the [Microsoft Security and Compliance Center](/microsoft-365/) and [Advanced eDiscovery](advanced-ediscovery.md) (coming soon for Yammer).
 
-The processes outlined in the above documentation explains how to run eDiscovery searches on all your Microsoft content. While Yammer isn’t discussed explicitly in those documents, the same processes that are mentioned there apply to Yammer content. When writing a search query in either eDiscovery or Advanced eDiscovery, you can filter on Yammer content specifically by selecting **Yammer Messages** as the *Type* of content as shown in the screenshots below.
+The processes outlined in the documentation explain how to run eDiscovery searches on all your Microsoft content. While Yammer isn’t discussed explicitly in those documents, the same processes that are mentioned apply to Yammer content. When writing a search query in either eDiscovery or Advanced eDiscovery, you can filter on Yammer content specifically by selecting **Yammer Messages** as the *Type* of content as shown in the screenshots below.
 
 ## eDiscovery
 
