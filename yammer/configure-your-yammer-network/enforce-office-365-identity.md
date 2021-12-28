@@ -2,7 +2,7 @@
 title: "Enforce Office 365 identity for Yammer users"
 f1.keywords:
 - CSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019

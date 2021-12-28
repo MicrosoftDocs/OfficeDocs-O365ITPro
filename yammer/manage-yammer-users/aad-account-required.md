@@ -2,7 +2,7 @@
 title: "AAD credentials will be required for Yammer Enterprise log in"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019

@@ -2,7 +2,7 @@
 title: "Yammer admin quick start"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 02/28/2020

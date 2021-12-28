@@ -2,7 +2,7 @@
 title: "FAQ: eDiscovery in Yammer"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 11/25/2019

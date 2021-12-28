@@ -2,7 +2,7 @@
 title: "Yammer Native Mode: step-by-step guide"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 09/09/2020

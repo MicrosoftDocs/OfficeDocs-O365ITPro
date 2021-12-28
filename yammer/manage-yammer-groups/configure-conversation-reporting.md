@@ -2,7 +2,7 @@
 title: "Report a Yammer conversation overview"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 4/15/2020
