@@ -19,7 +19,7 @@ description: "Learn more about working with Azure Active Directory-B2B guests in
 
 # Work with Azure Active Directory-B2B guests in Yammer communities
 
-The Yammer guests feature allows organizations to call in experts such as vendors, suppliers, or consultants from outside the organization to supercharge collaboration. Yammer networks aligned to native mode use the Azure Active Directory Business-Business (AzureAD-B2B) guest framework to power guests. Azure Active Directory (Azure AD)-B2B is a secure, compliant external collaboration framework used by many apps in the Microsoft 365 suite like Microsoft SharePoint, Microsoft Outlook, and Microsoft Teams. 
+The Yammer guests feature allows organizations to call in experts such as vendors, suppliers, or consultants from outside the organization to supercharge collaboration. Yammer networks aligned to native mode use the Azure Active Directory Business-Business (Azure AD-B2B) guest framework to power guests. Azure Active Directory (Azure AD)-B2B is a secure, compliant external collaboration framework used by many apps in the Microsoft 365 suite like Microsoft SharePoint, Microsoft Outlook, and Microsoft Teams. 
 
 Any Microsoft 365 user who is not part of your organization can be added as guest to a Yammer community by a Community admin.  AzureAD-B2B guests in Yammer communities are covered by the same compliance and auditing protection as the rest of Microsoft 365, and can be managed within Azure AD. Guest access is subject to Azure AD and Microsoft 365 or Office 365 service limits.
 
@@ -57,7 +57,7 @@ To configure Azure AD, Microsoft 365 Groups, and SharePoint settings, see [Colla
 
     ![Yammer AAD B2B external message.](../media/yammer-aad-b2b-external-message.png)
 
-3.	By visiting the **Go to Community** link, the guest accepts the invitation. After accepting the invitation, the guest can  participate in the Yammer community they are invited to.
+3.	By visiting the **Go to Community** link, the guest accepts the invitation. After accepting the invitation, the guest can participate in the Yammer community.
 
 4. Network switcher located in the suite header can be used to switch between the home Yammer network, any Yammer networks the user is a guest in and External networks.
 
@@ -106,9 +106,9 @@ We are working hard to bring all Yammer functionality to the new B2B guests in Y
 - **Cross-Geography guests** – Today we enable organizations to host Yammer in two data centers – Europe and North America. With this new guest support, users will be able to add guests from their same geography. Check [the Yammer public roadmap](https://go.microsoft.com/fwlink/?linkid=2132131) to see timelines for Cross-Geography support.
 
 - **Private messages** – Private messages are disabled for B2B guests in Yammer.
-- **Live events** – Currently guest users will not be able to participate in live events because guests are not yet supported by Microsoft Stream. To learn more about when these features will be available, please refer to our [Microsoft Yammer roadmap](https://go.microsoft.com/fwlink/?linkid=2132131).
--	**Adding guests during community creation** – Community owners can invite guest users by using edit membership flow for any community. In the current release, community owners will not be able to add guest emails at the time of community creation. This limitation is a temporary limitation and should be addressed in subsequent releases.
-- **Interactive Yammer email notifications in Outlook** – Interactive email notifications for B2B guests users will not be available in this preview. B2B Guest users will continue to receive the legacy email notifications from the communities that they are added to as guests, instead of the new interactive email notifications. In the communities where these users are not guests, the interactive email notifications will work as expected. The interactive email notifications for guest users will be supported in subsequent releases.
+- **Live events** – Currently guest users will not be able to participate in live events because guests are not yet supported by Microsoft Stream. To learn more about when these features will be available, see the [Microsoft Yammer roadmap](https://go.microsoft.com/fwlink/?linkid=2132131).
+-	**Adding guests during community creation** – Community owners can invite guest users by using edit membership flow for any community. In the current release, community owners will not be able to add guest emails at the time of community creation.
+- **Interactive Yammer email notifications in Outlook** – Interactive email notifications for B2B guests users will not be available in this preview. B2B Guest users will continue to receive the legacy email notifications from the communities that they are added to as guests, instead of the new interactive email notifications. In the communities where these users are not guests, the interactive email notifications will work as expected.
 - **Addition of Guests to the All Company community** – Guests cannot be added to the All Company community.
 
 ## FAQ
