@@ -21,7 +21,7 @@ description: "Understand the relationship between a Yammer network and an Office
 
 # About Yammer networks and Office 365 tenants
 
-Beginning December 2019, we are changing what happens when a domain associated with a basic (free) Yammer network is added to your Office 365 tenant. We will start with a gradual roll out and complete the process by the end of the year.
+Beginning December 2019, we are changing what happens when a domain associated with a basic (free) Yammer network is added to your Office 365 tenant. We will start with a gradual rollout and complete the process by the end of the year.
 
 For the best end-user and management experience, it is required that one Office 365 tenant is associated with just one Yammer network. If you are not in this configuration, we recommend you [consolidate previously migrated basic networks](consolidate-multiple-yammer-networks.md) into a single primary network for your tenant in order to move Yammer into a supported state for your tenant.
   
@@ -32,7 +32,7 @@ For the best end-user and management experience, it is required that one Office 
 
 A Yammer network represents people who are part of the same organization, and work together closely. A Yammer network acts as an organizational boundary and as a management entity. As Yammer becomes an integral part of Office 365, Yammer uses the associated Office 365 tenant as the organizational boundary and for managing key functions.
   
- **Yammer network as an organizational boundary** Only users who are part of the same organization can join the network, which provides trust between members of the network, so they can collaborate freely. As Yammer becomes an integral part of Office 365, the organizational boundary for Yammer and Office 365 become the same; all Office 365 users who are part of the same Office 365 tenant (with a Yammer subscription), can access Yammer. And when the organization grows, and say, a new domain is added to the Office 365 tenant, that domain is automatically synchronized to Yammer, enabling users of that domain to readily access Yammer.
+ **Yammer network as an organizational boundary** Only users who are part of the same organization can join the network, which provides trust between members of the network, so they can collaborate freely. As Yammer becomes an integral part of Office 365, the organizational boundary for Yammer and Office 365 become the same; all Office 365 users who are part of the same Office 365 tenant (with a Yammer subscription), can access Yammer. And when the organization grows, and a new domain is added to the Office 365 tenant, that domain is automatically synchronized to Yammer, enabling users of that domain to readily access Yammer.
   
  **Yammer network as a management entity** All aspects of the Yammer service used to be managed at the network level, including identity, domain and user management. As Yammer becomes an integral part of Office 365, key aspects of the Yammer service are managed in Office 365, including identity, domain, user and license management. This provides one common and powerful set of tools for Office 365 administrators to manage all Office 365 services, including Yammer. We recommend that Yammer Administrators only manage Yammer specific configurations (such as notification defaults or External network settings) at the network level.
   
