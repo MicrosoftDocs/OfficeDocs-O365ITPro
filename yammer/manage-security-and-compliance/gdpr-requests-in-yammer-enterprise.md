@@ -59,7 +59,9 @@ Use the Yammer file ID from the export to go directly to the file in Yammer and 
 <a name="OtherData"> </a>
 ## Find and delete user data not included in the per-user export
 
-There is some user data that is not included in an export. To find this data for a user, go to Yammer settings ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) \> **People**, and click the name of the user.
+There is some user data that is not included in an export.
+
+To find this data for a user, go to Yammer settings ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png) \> **People**, and click the name of the user.
   
 The following table shows how to change or delete this data if needed.
   
@@ -141,7 +143,7 @@ As an admin, you can erase a user from your home network and from any external n
 
     ![After you select a name, the remove user options are displayed.](../media/a48da79c-7f5f-479b-8b75-a3e67285c141.png)
 
-    - If you want to delete all a user's messages before you erase the user:
+    - If you want to delete all of a user's messages before you erase the user:
 
       1. Select **Permanently remove this user and remove their messages**, and then click **Submit**.
       2. When that completes, select **Erase this user**. This removes the user's name and activity data.
@@ -168,7 +170,7 @@ As an admin, you can erase a user from your home network and from any external n
 
 ## Reactivate a deactivated account after using Erase this user
 
-When a user's account gets deactivated by using the **Erase this user** option, you have 14 days to reactivate the user.
+When a user's account is deactivated using the **Erase this user** option, you have 14 days to reactivate the user.
   
 1. Go to the Yammer Admin center.
 
