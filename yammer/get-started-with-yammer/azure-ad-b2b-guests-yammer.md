@@ -35,7 +35,7 @@ Yammer network admins need to enable guest access on their networks from **Yamme
 > [!div class="mx-imgBorder"]
 > ![Yammer admin panel external user settings.](../media/yammer-adminpanel-externalusers-allowdeny.png)
 
-This is a Yammer network-wide setting. Enabling guest access here will allow community admins to add guests to any Yammer community in the network. You can control guest access to individual Yammer communities by using sensitivity labels.
+This setting is a Yammer network-wide setting. Enabling guest access here will allow community admins to add guests to any Yammer community in the network. You can control guest access to individual Yammer communities by using sensitivity labels.
 
 
 External collaboration is a key ingredient for the success of any organization. Yammer guests allow you to call in experts, such as consultants or vendors, from outside your organization. Users can invite guests to a community and quickly start a rich conversation by sharing access to community resources like files. This ease-of-use makes external collaboration one of the most used features in Yammer today.
@@ -47,13 +47,13 @@ This setting is a Yammer network-wide setting. Enabling guest access here will a
 > [!NOTE]
 > If your Yammer network is provisioned after December 15th, 2020, then AzureAD-B2B guest functionality is already enabled by default for your organization. 
 
-To configure Azure AD, Microsoft 365 Groups and SharePoint settings, see [Collaborate with guests in a team](/microsoft-365/solutions/collaborate-as-team) .
+To configure Azure AD, Microsoft 365 Groups, and SharePoint settings, see [Collaborate with guests in a team](/microsoft-365/solutions/collaborate-as-team) .
 
 ## How to invite an external user as guest to a Yammer community
 
 1.	A community admin can add a guest to a Yammer community by entering the email address of the guest in the **Add Member** panel of the community. 
 
-2.	The guest receives a welcome email message. This message includes information about the Yammer community and Yammer network to which the user is being invited to, and the name of the community admin inviting the guest. The guest must accept the invitation by selecting **Go To Community** in the email message before accessing the Yammer community.
+2.	The guest receives a welcome email message. This message includes information about the Yammer community and Yammer network to which the user is being invited, and the name of the community admin inviting the guest. The guest must accept the invitation by selecting **Go To Community** in the email message before accessing the Yammer community.
 
     ![Yammer AAD B2B external message.](../media/yammer-aad-b2b-external-message.png)
 
