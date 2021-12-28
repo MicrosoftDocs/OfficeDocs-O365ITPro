@@ -14,7 +14,7 @@ ms.custom: Adm_Yammer
 search.appverid: 
 - MOE150
 - MET150
-description: "Learn the steps required to prepare your Yammer network for Native Mode for Microsoft 365."
+description: "Prepare your Yammer network for Native Mode for Microsoft 365."
 ---
 
 # Configure your Yammer network for Native Mode for Microsoft 365
