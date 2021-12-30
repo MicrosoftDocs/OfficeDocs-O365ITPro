@@ -119,7 +119,7 @@ A user can edit their own profile. Administrators can't change the user profile 
 > If you want to review and delete messages and files in external groups, external threads, and networks that the user is a guest member in, follow the instructions in [Delete specific messages or Yammer files stored in Yammer or SharePoint](gdpr-requests-in-yammer-enterprise.md#DeleteMessagesFiles) *before*  erasing the user. As soon as you click **Erase this user**, you will no longer be able to associate the user with these messages and files.
 
 > [!IMPORTANT]
-> Removing a user from their home Yammer network will also remove them from all external networks. You must remove guest users separately in each external group they are a member of.
+> Removing a user from their home Yammer network will also remove them from all external networks. You must remove guest users separately in each external network they are a member of.
   
 When you erase a user, the following user data is deleted:
   
