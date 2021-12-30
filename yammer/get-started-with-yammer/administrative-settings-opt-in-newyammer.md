@@ -2,7 +2,7 @@
 title: "Bring new Yammer to your organization"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 05/01/2020

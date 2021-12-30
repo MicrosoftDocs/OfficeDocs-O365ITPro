@@ -2,7 +2,7 @@
 title: "What to do when users cannot log in to Yammer on Android devices"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019

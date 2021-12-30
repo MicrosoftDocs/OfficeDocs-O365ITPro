@@ -2,7 +2,7 @@
 title: "Add external messaging participants to your Yammer conversations"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 11/04/2019

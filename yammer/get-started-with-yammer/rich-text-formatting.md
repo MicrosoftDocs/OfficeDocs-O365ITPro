@@ -2,7 +2,7 @@
 title: "Rich text formatting for Yammer messages"
 f1.keywords:
 - NOCSH
-ms.author: v-tosadd
+ms.author: pamgreen
 author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
@@ -36,7 +36,7 @@ If your organization has received this new feature, when you post a new message,
 
 If you don't have rich text, here's what the bottom of the message looks like:
 
-![Yammer message with rich text formatting.](../media/without-rich-text.png)
+![Yammer message without rich text formatting.](../media/without-rich-text.png)
 
 ## Implications for export
 
