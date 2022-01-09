@@ -2,25 +2,9 @@
 
 
 
-## Week of October 18, 2021
+## Week of January 03, 2022
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 10/19/2021 | [Files in Native Mode](/Yammer/configure-your-yammer-network/files-in-native-mode) | modified |
-
-
-## Week of September 27, 2021
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 9/27/2021 | [Files in Native Mode](/Yammer/configure-your-yammer-network/files-in-native-mode) | modified |
-
-
-## Week of September 20, 2021
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 9/24/2021 | [Files in Native Mode](/Yammer/configure-your-yammer-network/files-in-native-mode) | modified |
+| 1/6/2022 | [Manage GDPR data subject requests in Yammer Enterprise](/Yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise) | modified |
