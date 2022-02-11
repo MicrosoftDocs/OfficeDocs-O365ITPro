@@ -19,26 +19,13 @@ description: "Learn more about the admin settings to control user opt-in for new
 
 # Bring new Yammer to your organization
 
-Global admins and verified network admins can now control participation in new Yammer for your organization. Please note that only one of these settings can be selected at a time. You can go back and forth between these options but we strongly recommend understanding what selecting and unselecting each setting entails before making that choice.
+Global admins and verified network admins can now control participation in new Yammer for your organization. Please note that only one of these settings can be selected at a time. You can go back and forth between these options, but we strongly recommend understanding what selecting and unselecting each setting entails before making that choice.
 
-![Administrative Opt-in Settings for New Yammer.](../media/yammer-adminoptintoggle-portal.png)
-
-## Enable the new Yammer as opt-in
-
-This option is the new default setting for your organization. This option ensures that users in your organization are able to see the **New Yammer** toggle to opt into new Yammer from the classic Yammer experience.
-
-![New Yammer Opt-in Toggle.](../media/yammer-optin-admin-settings.png)
-
-Users would be able to opt out of the new experience at any time, using the opt-out toggle. When users opt into the new experience, they will encounter an opt-in dialog box prompting them to opt into the new Yammer experience. When they click **Let’s Go**, it opts in the user.
-
-> [!div class="mx-imgBorder"]
-> ![Meet the New Yammer dialog box.](../media/yammer-preview-meet-new-yammer.png)
-
-If the user clicks **Not Now**, the user will be taken to the corresponding page on the classic Yammer experience.
+![Administrative Opt-In Settings for New Yammer](https://user-images.githubusercontent.com/97992708/153667114-3c15a24e-014c-4841-bb6c-3d4f6f72e8ce.jpg)
 
 ## Enable the new Yammer as default
 
-Selecting this option would ensure users in your organization are able to see the **New Yammer** toggle to opt into new Yammer from the classic Yammer experience, and users who have never tried the new experience would automatically be switched to new Yammer. 
+This option is the default setting for your organization. This option ensures users in your organization are able to see the **New Yammer** toggle to opt into new Yammer from the classic Yammer experience, and users who have never tried the new experience would automatically be switched to new Yammer. 
 
 ![New Yammer Opt-in Toggle.](../media/yammer-optin-admin-settings.png)
 
@@ -48,9 +35,13 @@ Users can choose to opt-out of this new experience and go back to classic Yammer
 - Users who have already opted in through the opt-in toggle are not impacted. These users would stay in the new experience but can opt out at any time through the opt-out toggle. 
 - If your organization is completely new to Yammer, and you want all your users to directly move to the new Yammer experience, the **Enable the New Yammer as default** setting is the one we recommend.
 
- ## Enable new Yammer for all users with no opt-out option
+ ## Enable the new Yammer for all users with no opt-out option
 
 Selecting this option would ensure users in your organization are in the new Yammer experience and do not see the toggle-out option. This is an accelerated setting to get all users in your organization using new Yammer.
+
+ ## Enable the new Yammer for all users with opt-out option only for Admins
+ 
+ Selecting this option would ensure users in your organization are in the new Yammer expeirence and do not see the toggle-out option. However, admins will still see the toggle, which provides the ability to return to the classic Yammer experience if they need to validate user feedback or access features only available in classic Yammer. 
 
 >[!NOTE]
 > Please note that users can access the new experience through a direct link. If your organization wants to remove all access to the new Yammer you will need to contact Microsoft support. If you remove all access, then users from all networks in a 1:M (1-to-many) scenario will no longer be able to access the new Yammer features.
