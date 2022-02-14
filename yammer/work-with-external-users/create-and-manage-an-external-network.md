@@ -68,8 +68,8 @@ External networks are essentially their own networks: each has its own admin cen
     
 4. To start inviting people to join your external network, click the external network settings icon ![Settings icon for an external network.](../media/e1f84edf-4842-4732-89b2-f7e46e4c94e1.png), and then click **Invite**.
     
-> [!TIP]
-> Email notification settings that each user set for the home network don't apply to the new external network. Users must set email notifications for each external network. For more information, see [Yammer email and push notifications](https://support.office.com/article/93e530e0-189f-4768-8f28-7683d48cc996). 
+> [!NOTE]
+> You can now invite EU users to participate in external networks hosted in the US. If an EU-based organization had previously used a network in the US geo, it is possible that a subset of users were active members in external networks before their network moved to the EU geo. If a previously active user profile already exists, it will be marked as "deleted" without deleting the content in those external networks when the user is reinvited to access external networks using a new profile.  For more information, see [Cross-geo external collaboration support on Yammer External Networks for the EU](https://techcommunity.microsoft.com/t5/yammer-blog/cross-geo-external-collaboration-support-on-yammer-external/ba-p/3056462). 
   
 ## Go to and from an external network
 <a name="ExternalNetworks"> </a>
@@ -85,7 +85,10 @@ https&#58;//yammer&#46;com/ContosoCustomerFeedback.
 To get back to your home network, click the home network name at the end of the settings list.
   
 ![Select the home network in the networks section of the Settings menu.](../media/6cd65fb1-18d9-4e1c-8afa-c3a99e47844f.png)
-  
+
+> [!TIP]
+> Email notification settings that each user set for the home network don't apply to the new external network. Users must set email notifications for each external network. For more information, see [Yammer email and push notifications](https://support.office.com/article/93e530e0-189f-4768-8f28-7683d48cc996).  
+
 ## Manage settings for an external network that you are an admin for
 <a name="BKMK_ManageSettings"> </a>
 
@@ -100,13 +103,17 @@ To get back to your home network, click the home network name at the end of the 
     ![Admin menu for an external network.](../media/afc2fe6a-f41d-4dc6-bce5-c59595997bcc.png)
   
     > [!NOTE]
-    > Note that not all settings are available for external networks: you can't create another external network from an existing external network, invite guests, or monitor a person's account activity. > End users who create an external network have fewer configuration options. End users can modify the **Configuration**, **Design**, and **Usage Policy** settings, as well as create additional admins and manage users. They can't bulk update users or change anything in the **Content and Security** section. 
+    > Note that not all settings are available for external networks: you can't create another external network from an existing external network, invite guests, or monitor a person's account activity. End users who create an external network have fewer configuration options. End users can modify the **Configuration**, **Design**, and **Usage Policy** settings, as well as create additional admins and manage users. They can't bulk update users or change anything in the **Content and Security** section. 
+
+3. "Require admin approval for members to join other companies' external groups or external networks" is OFF by default. Turn this setting **ON** to review and select whether or not members of your home network can participate in external networks hosted by other organizations. Under **Network Admin**, select **Pending Requests** to review requests.
+
+[image]
   
 ## Delete an external network
 <a name="BKMK_ManageSettings"> </a>
 
 > [!CAUTION]
-> Deleting an external network deletes all content in the external network and removes all members from the network. Once a network is deleted, it can't be reactivated. 
+> Deleting an external network results in the network being disabled and all members lose access. Once its disabled, it can't be reactivated. 
   
 1. To go to an external network, click the Yammer settings icon![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then select an external network, or select **Browse External Networks**.
     
@@ -117,6 +124,8 @@ To get back to your home network, click the home network name at the end of the 
 3. Go to **Network Admin** \> **Configuration**.
     
 4. At the bottom of the page, click **Delete External Network**, and then on the confirmation page, click **Delete**.
+
+When the Microsoft 365 tenant is deleted, all disabled external networks and content are deleted. For more information,see [What happens to my data and access when my Microsoft 365 for business subscription ends?](/microsoft-365/commerce/subscriptions/what-if-my-subscription-expires?view=o365-worldwide).
     
 ## Related articles
 
