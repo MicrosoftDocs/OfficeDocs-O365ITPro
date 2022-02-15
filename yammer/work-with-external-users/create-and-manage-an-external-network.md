@@ -2,8 +2,8 @@
 title: "Create and manage an external network in Yammer"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
-author: TeresaFG-writer
+ms.author: pamgreen
+author: pamgreen
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -32,39 +32,38 @@ External networks are essentially their own networks: each has its own admin cen
 
 1. Select the Yammer settings icon ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then go to **Networks** \> **Create a New Network**. 
     
-    ![Settings menu, with permission to create external networks.](../media/76058573-115f-43a3-b073-59ba5d3b28d0.png)
+   ![Settings menu, with permission to create external networks.](../media/76058573-115f-43a3-b073-59ba5d3b28d0.png)
   
-    > [!NOTE]
-    > The Yammer admins for your home network control whether all users or only admins can set up external networks. If **Create a New Network** is not visible, it means your Yammer admins have configured your Yammer network to only allow Yammer network and verified admins to create an external network.<br><br>To find a home network admin for help setting up an external network, in your browser go to **https://yammer.com/***your_network***/admin** to find the list of Yammer admins.  
+   > [!NOTE]
+   > The Yammer admins for your home network control whether all users or only admins can set up external networks. If **Create a New Network** is not visible, it means your Yammer admins have configured your Yammer network to only allow Yammer network and verified admins to create an external network.<br><br>To find a home network admin for help setting up an external network, in your browser go to **https://yammer.com/***your_network***/admin** to find the list of Yammer admins.  
   
 2. Fill in the required settings:
     
-      - **Network Image:** Click **Choose File** to select an image to use in the header for your new external network. 
+     - **Network Image:** Click **Choose File** to select an image to use in the header for your new external network. 
     
-      - **Network Name:** Provide a name for your new external network, which will now have its own email address and URL. This name must be unique - no other company can use the same name. The URL will be
+     - **Network Name:** Provide a name for your new external network, which will now have its own email address and URL. This name must be unique - no other company can use the same name. The URL will be:
     
-        **https&#58;//www&#46;yammer&#46;com**/*external_network_name*
+       **https&#58;//www&#46;yammer&#46;com**/*external_network_name*
 
-        with any spaces removed from the network name. You may want to include your company name, such as Contoso Customer Feedback. In this example, the URL would be 
+       with any spaces removed from the network name. You may want to include your company name, such as Contoso Customer Feedback. In this example, the URL would be 
     
-        https&#58;//www&#46;yammer&#46;com/contosocustomerfeedback
-     
+       https&#58;//www&#46;yammer&#46;com/contosocustomerfeedback
     
-      - **Network Description:** A clear and succinct description ensures users understand the basic purpose of this network. 
+     - **Network Description:** A clear and succinct description ensures users understand the basic purpose of this network. 
         
-      - **Add a Network Image:** Upload a thumbnail image or logo that represents the new network. 
+     - **Add a Network Image:** Upload a thumbnail image or logo that represents the new network. 
         
-      - **Permissions:** Select whether membership is **Open** (where all members can invite new members) or **Closed** (where only admins can invite new members). You can also select whether or not members of your company's home network can join without an invitation. 
+     - **Permissions:** Select whether membership is **Open** (where all members can invite new members) or **Closed** (where only admins can invite new members). You can also select whether or not members of your company's home network can join without an invitation. 
         
-      - **Allow members to join without an invite:** When you select this, users can join without an invite. When you clear this checkbox, users in your home network must request approval before joining this external network. 
+     - **Allow members to join without an invite:** When you select this, users can join without an invite. When you clear this checkbox, users in your home network must request approval before joining this external network. 
     
 3. Click **Create Network**. 
     
-    The top bar of your network shows that you're now in the external network. The settings icon for the external network ![Settings icon for an external network.](../media/e1f84edf-4842-4732-89b2-f7e46e4c94e1.png) has a blue circle in it. 
+   The top bar of your network shows that you're now in the external network. The settings icon for the external network ![Settings icon for an external network.](../media/e1f84edf-4842-4732-89b2-f7e46e4c94e1.png) has a blue circle in it. 
     
-    ![Top navigation for an external Yammer network.](../media/ea784fcd-2b12-4b4e-b9f7-20b8726b7a3b.png)
+   ![Top navigation for an external Yammer network.](../media/ea784fcd-2b12-4b4e-b9f7-20b8726b7a3b.png)
   
-    The **All Network** group is automatically created. This group can't be deleted. Users can create additional groups. 
+   The **All Network** group is automatically created. This group can't be deleted. Users can create additional groups. 
     
 4. To start inviting people to join your external network, click the external network settings icon ![Settings icon for an external network.](../media/e1f84edf-4842-4732-89b2-f7e46e4c94e1.png), and then click **Invite**.
     
@@ -79,7 +78,6 @@ To get to an external network from your home network, click the Yammer settings 
 For example, if you select Contoso Customer Feedback in the first screenshot, you'll go to a new Yammer site for the Contoso Customer Feedback external network. The settings icon will have a blue dot to indicate you're in an external network. The URL will change to show the external network name. For example for the Contoso Customer Feedback external group, the URL is 
 https&#58;//yammer&#46;com/ContosoCustomerFeedback.
 
-  
 ![Settings menu for an external network.](../media/1338f356-0650-477c-a1fd-653d15753fca.png)
   
 To get back to your home network, click the home network name at the end of the settings list.
@@ -94,20 +92,20 @@ To get back to your home network, click the home network name at the end of the 
 
 1. To go to your external network, click the Yammer settings icon ![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then select an external network, or select **Browse External Networks**.
     
-    ![Settings menu for an external network.](../media/1338f356-0650-477c-a1fd-653d15753fca.png)
+   ![Settings menu for an external network.](../media/1338f356-0650-477c-a1fd-653d15753fca.png)
   
 2. In your external network, click the external network settings icon ![Settings icon for an external network.](../media/e1f84edf-4842-4732-89b2-f7e46e4c94e1.png). 
     
-    Select **Network Admin** to configure and design your external network. For information on these settings, see [Configure your Yammer network](../configure-your-yammer-network/configure-yammer.md).
+   Select **Network Admin** to configure and design your external network. For information on these settings, see [Configure your Yammer network](../configure-your-yammer-network/configure-yammer.md).
     
-    ![Admin menu for an external network.](../media/afc2fe6a-f41d-4dc6-bce5-c59595997bcc.png)
+   ![Admin menu for an external network.](../media/afc2fe6a-f41d-4dc6-bce5-c59595997bcc.png)
   
-    > [!NOTE]
-    > Note that not all settings are available for external networks: you can't create another external network from an existing external network, invite guests, or monitor a person's account activity. End users who create an external network have fewer configuration options. End users can modify the **Configuration**, **Design**, and **Usage Policy** settings, as well as create additional admins and manage users. They can't bulk update users or change anything in the **Content and Security** section. 
+   > [!NOTE]
+   > Note that not all settings are available for external networks: you can't create another external network from an existing external network, invite guests, or monitor a person's account activity. End users who create an external network have fewer configuration options. End users can modify the **Configuration**, **Design**, and **Usage Policy** settings, as well as create additional admins and manage users. They can't bulk update users or change anything in the **Content and Security** section. 
 
 3. "Require admin approval for members to join other companies' external groups or external networks" is OFF by default. Turn this setting **ON** to review and select whether or not members of your home network can participate in external networks hosted by other organizations. Under **Network Admin**, select **Pending Requests** to review requests.
 
-[image]
+   ![Pending tasks](../media/EN Pending Requests.png)
   
 ## Delete an external network
 <a name="BKMK_ManageSettings"> </a>
@@ -117,7 +115,7 @@ To get back to your home network, click the home network name at the end of the 
   
 1. To go to an external network, click the Yammer settings icon![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then select an external network, or select **Browse External Networks**.
     
-    ![Settings menu for an external network.](../media/1338f356-0650-477c-a1fd-653d15753fca.png)
+   ![Settings menu for an external network.](../media/1338f356-0650-477c-a1fd-653d15753fca.png)
   
 2. In the external network, click the external network settings icon ![Settings icon for an external network.](../media/e1f84edf-4842-4732-89b2-f7e46e4c94e1.png). 
     
@@ -125,7 +123,7 @@ To get back to your home network, click the home network name at the end of the 
     
 4. At the bottom of the page, click **Delete External Network**, and then on the confirmation page, click **Delete**.
 
-When the Microsoft 365 tenant is deleted, all disabled external networks and content are deleted. For more information,see [What happens to my data and access when my Microsoft 365 for business subscription ends?](/microsoft-365/commerce/subscriptions/what-if-my-subscription-expires?view=o365-worldwide).
+When the Microsoft 365 tenant is deleted, all disabled external networks and content are deleted. For more information,see [What happens to my data and access when my Microsoft 365 for business subscription ends?](/microsoft-365/commerce/subscriptions/what-if-my-subscription-expires).
     
 ## Related articles
 
