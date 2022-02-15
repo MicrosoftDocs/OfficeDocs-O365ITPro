@@ -105,7 +105,7 @@ To get back to your home network, click the home network name at the end of the 
 
 3. "Require admin approval for members to join other companies' external groups or external networks" is OFF by default. Turn this setting **ON** to review and select whether or not members of your home network can participate in external networks hosted by other organizations. Under **Network Admin**, select **Pending Requests** to review requests.
 
-   ![Pending tasks](../media/EN Pending Requests.png)
+   ![Pending tasks](../media/yammer-contoso-demo.png)
   
 ## Delete an external network
 <a name="BKMK_ManageSettings"> </a>
