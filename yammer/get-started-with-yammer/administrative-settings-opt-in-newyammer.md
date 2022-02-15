@@ -21,7 +21,7 @@ description: "Learn more about the admin settings to control user opt-in for new
 
 Global admins and verified network admins can now control participation in new Yammer for your organization. Please note that only one of these settings can be selected at a time. You can go back and forth between these options, but we strongly recommend understanding what selecting and unselecting each setting entails before making that choice.
 
-![Administrative Opt-In Settings for New Yammer](https://user-images.githubusercontent.com/97992708/153667114-3c15a24e-014c-4841-bb6c-3d4f6f72e8ce.jpg)
+![Administrative Opt-In Settings for New Yammer](../../images/yammer-admin-toggle.jpg)
 
 ## Enable the new Yammer as default
 
