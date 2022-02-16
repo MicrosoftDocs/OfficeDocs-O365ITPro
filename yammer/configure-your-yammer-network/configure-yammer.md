@@ -140,3 +140,11 @@ When this is enabled, users will see a **Translate** option right under any mess
 System messages notify users of important actions in the network and conversations, such as creating a new group or adding people to a conversation. Changing the language will display future system messages in the selected language. Prior system messages will remain in the existing language.
 
 - On the **Configuration** page, under **Set System Language**, choose the language to use.
+
+## Set Require Admin Approval for external network invitations
+
+Require Admin Approval setting allows network admins to review and allow or deny members of your home network from participating in external networks hosted by other organizations. This setting is **OFF** be default. Turn this setting **ON** to review and select whether or not members of your home network can participate in external networks hosted by other organizations. 
+
+When this setting is **ON**, when members from your home network are invited to participate in external networks hosted by other organizations, they can request your approval and you can review pending requests under **Pending Requests** options under **Edit** settings in your home network. 
+
+To turn this setting to **ON**, go to **Network** setting and select **External Networks** and select the “Require admin approval for members to join other companies' external groups or external networks" to **ON**.
