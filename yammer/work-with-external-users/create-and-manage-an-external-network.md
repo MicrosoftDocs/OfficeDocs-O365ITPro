@@ -104,7 +104,7 @@ To get back to your home network, click the home network name at the end of the 
    > Not all settings are available for external networks: you can't create another external network from an existing external network, invite guests, or monitor a person's account activity. End users who create an external network have fewer configuration options. End users can modify the **Configuration**, **Design**, and **Usage Policy** settings, as well as create additional admins and manage users. They can't bulk update users or change anything in the **Content and Security** section. 
 
    > [!NOTE]
-   > Networks Admins note that the "Require admin approval for members to join other companies' external groups or external networks" setting is **OFF** by default. Turn this setting **ON** to review and select whether or not members of your home network can participate in external networks hosted by other organizations. You can review pending requests under **Pending Requests** options under edit settings in your home network.
+   > Networks Admins note that the "Require admin approval for members to join other companies' external groups or external networks" setting is **OFF** by default. Turn this setting **ON** to review and select whether or not members of your home network can participate in external networks hosted by other organizations. You can review pending requests under **Pending Requests** options under **Edit** settings in your home network.
 
    ![Pending tasks](../media/yammer-contoso-demo.png)
   
