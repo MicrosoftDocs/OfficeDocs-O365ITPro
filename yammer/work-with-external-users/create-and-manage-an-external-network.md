@@ -39,23 +39,23 @@ External networks are essentially their own networks: each has its own admin cen
   
 2. Fill in the required settings:
     
-     - **Network Image:** Click **Choose File** to select an image to use in the header for your new external network. 
+    - **Network Image:** Click **Choose File** to select an image to use in the header for your new external network. 
     
-     - **Network Name:** Provide a name for your new external network, which will now have its own email address and URL. This name must be unique - no other company can use the same name. The URL will be:
+    - **Network Name:** Provide a name for your new external network, which will now have its own email address and URL. This name must be unique - no other company can use the same name. The URL will be:
     
-       **https&#58;//www&#46;yammer&#46;com**/*external_network_name*
+      **https&#58;//www&#46;yammer&#46;com**/*external_network_name*
 
-       with any spaces removed from the network name. You may want to include your company name, such as Contoso Customer Feedback. In this example, the URL would be 
+      with any spaces removed from the network name. You may want to include your company name, such as Contoso Customer Feedback. In this example, the URL would be 
     
-       https&#58;//www&#46;yammer&#46;com/contosocustomerfeedback
+      https&#58;//www&#46;yammer&#46;com/contosocustomerfeedback
     
-     - **Network Description:** A clear and succinct description ensures users understand the basic purpose of this network. 
+    - **Network Description:** A clear and succinct description ensures users understand the basic purpose of this network. 
         
-     - **Add a Network Image:** Upload a thumbnail image or logo that represents the new network. 
+    - **Add a Network Image:** Upload a thumbnail image or logo that represents the new network. 
         
-     - **Permissions:** Select whether membership is **Open** (where all members can invite new members) or **Closed** (where only admins can invite new members). You can also select whether or not members of your company's home network can join without an invitation. 
+    - **Permissions:** Select whether membership is **Open** (where all members can invite new members) or **Closed** (where only admins can invite new members). You can also select whether or not members of your company's home network can join without an invitation. 
         
-     - **Allow members to join without an invite:** When you select this, users can join without an invite. When you clear this checkbox, users in your home network must request approval before joining this external network. 
+    - **Allow members to join without an invite:** When you select this, users can join without an invite. When you clear this checkbox, users in your home network must request approval before joining this external network. 
     
 3. Click **Create Network**. 
     
@@ -67,8 +67,8 @@ External networks are essentially their own networks: each has its own admin cen
     
 4. To start inviting people to join your external network, click the external network settings icon ![Settings icon for an external network.](../media/e1f84edf-4842-4732-89b2-f7e46e4c94e1.png), and then click **Invite**.
     
-> [!NOTE]
-> You can now invite EU users to participate in external networks hosted in the US. If an EU-based organization had previously used a network in the US geo, it is possible that a subset of users were active members in external networks before their network moved to the EU geo. If a previously active user profile already exists, it will be marked as "deleted" without deleting the content in those external networks when the user is reinvited to access external networks using a new profile.  For more information, see [Cross-geo external collaboration support on Yammer External Networks for the EU](https://techcommunity.microsoft.com/t5/yammer-blog/cross-geo-external-collaboration-support-on-yammer-external/ba-p/3056462). 
+   > [!NOTE]
+   > You can now invite EU users to participate in external networks hosted in the US. If an EU-based organization had previously used a network in the US geo, it is possible that a subset of users were active members in external networks before their network moved to the EU geo. If a previously active user profile already exists, it will be marked as "deleted" without deleting the content in those external networks when the user is reinvited to access external networks using a new profile.  For more information, see [Cross-geo external collaboration support on Yammer External Networks for the EU](https://techcommunity.microsoft.com/t5/yammer-blog/cross-geo-external-collaboration-support-on-yammer-external/ba-p/3056462). 
   
 ## Go to and from an external network
 <a name="ExternalNetworks"> </a>
@@ -103,9 +103,8 @@ To get back to your home network, click the home network name at the end of the 
    > [!NOTE]
    > Not all settings are available for external networks: you can't create another external network from an existing external network, invite guests, or monitor a person's account activity. End users who create an external network have fewer configuration options. End users can modify the **Configuration**, **Design**, and **Usage Policy** settings, as well as create additional admins and manage users. They can't bulk update users or change anything in the **Content and Security** section. 
 
-  > [!NOTE]
-  >"Require admin approval for members to join other companies' external groups or external networks" is **OFF** by default. Turn this setting **ON** to review and select whether or not members of your home network can participate in external networks hosted by other organizations. Under **Network Admin**, select **Pending Requests** to review requests.
-  >Networks Admins note that the "Require admin approval for members to join other companies' external groups or external networks" setting is **OFF** by default. Turn this setting **ON** to review and select whether or not members of your home network can participate in external networks hosted by other organizations. You can review pending requests under **Pending Requests** options under edit settings in your home network.
+   > [!NOTE]
+   > Networks Admins note that the "Require admin approval for members to join other companies' external groups or external networks" setting is **OFF** by default. Turn this setting **ON** to review and select whether or not members of your home network can participate in external networks hosted by other organizations. You can review pending requests under **Pending Requests** options under edit settings in your home network.
 
    ![Pending tasks](../media/yammer-contoso-demo.png)
   
