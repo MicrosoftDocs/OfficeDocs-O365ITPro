@@ -148,3 +148,5 @@ Require Admin Approval setting allows network admins to review and allow or deny
 When this setting is **ON**, when members from your home network are invited to participate in external networks hosted by other organizations, they can request your approval and you can review pending requests under **Pending Requests** options under **Edit** settings in your home network. 
 
 To turn this setting to **ON**, go to **Network** setting and select **External Networks** and select the “Require admin approval for members to join other companies' external groups or external networks" to **ON**.
+
+![External networks](../media/yammer-external-networks.png)
