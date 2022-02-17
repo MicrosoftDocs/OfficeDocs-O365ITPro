@@ -20,7 +20,7 @@ description: "Create and manage an external network to collaborate with people o
 
 # Create and manage an external network in Yammer
 
-If you have permission, you can create an external Yammer network to collaborate with people outside your company, such as customers, suppliers, and partners. People with external email addresses must be invited into or request access to an external network. When they join the external network, they can only see content posted specifically to that external network. That means they will not have access to your home network. 
+If you have permission, you can create an external Yammer network to collaborate with people outside your company, such as customers, suppliers, and partners. People with external email addresses must be invited into or request access to an external network. When they join the external network, they can only see content posted specifically to that external network. That means they won't have access to your home network. 
   
 External networks are essentially their own networks: each has its own admin center and has its own admins. 
 
@@ -112,7 +112,7 @@ To get back to your home network, click the home network name at the end of the 
 <a name="BKMK_ManageSettings"> </a>
 
 > [!CAUTION]
-> Deleting an external network results in the network being disabled and all members lose access. Once its disabled, it can't be reactivated. 
+> Deleting an external network results in the network being disabled and all members lose access. Once it's disabled, it can't be reactivated. 
   
 1. To go to an external network, click the Yammer settings icon![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then select an external network, or select **Browse External Networks**.
     
