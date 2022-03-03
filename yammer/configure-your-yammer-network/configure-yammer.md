@@ -39,7 +39,7 @@ To access the Yammer network configuration tools:
 
 - On the **Configuration** page, in the **Basics** section, specify the following: 
     
-  - **Network name:** This is the friendly name of your network that is used in the Yammer header. Note that this name is overwritten by the name used in the Microsoft 365 or Office 365 company profile.
+  - **Network name:** This is the friendly name of your network that is used in the Yammer header. This name is overwritten by the name used in the Microsoft 365 or Office 365 company profile.
     
   - **Message prompt:** This prompt is visible at the top of each Yammer group page, under **Update**. 
     
@@ -75,7 +75,7 @@ To access the Yammer network configuration tools:
     
          Yammer uses Azure Media Services to make videos viewable within the network. For more information, see [Azure Media Services](https://go.microsoft.com/fwlink/?LinkId=698736).
     
-      - **Don't allow anyone to upload or attach files**: This prevents people from uploading and attaching new files; however, existing attachments are not be affected.
+      - **Don't allow anyone to upload or attach files**: This prevents people from uploading and attaching new files; however, existing attachments aren't be affected.
     
 > [!NOTE]
 > When files are stored in Yammer, there is no virus check. An admin can export the files and perform an offline virus scan on them, and this process can be automated with custom scripting.<br><br>For Microsoft 365 connected Yammer groups that store files in SharePoint, virus checking is done as the file is uploaded. For more information, see [Virus dectection in SharePoint Online](/office365/securitycompliance/virus-detection-in-spo).
@@ -88,7 +88,7 @@ To access the Yammer network configuration tools:
 
 The growing network of partners and developers in Yammer continue to build third-party applications using the Yammer API. To find the list of current apps, including integrations with Microsoft SharePoint, Microsoft Flow, Microsoft Dynamics, and many more business applications, click **App Directory** on your main Yammer page or go directly to the [App Directory](https://go.microsoft.com/fwlink/?LinkId=524143).
   
-- On the **Configuration** page, in the **Enabled Features** section, specify whether to allow 3rd party applications.
+- On the **Configuration** page, in the **Enabled Features** section, specify whether to allow third party applications.
     
     > [!CAUTION]
     > Clearing this setting prevents users from adding or accessing these applications. Note that all users, including verified admins, will lose access to apps that were added prior to clearing this setting. 
@@ -107,7 +107,7 @@ By default, users can attach GIFs provided by Tenor, a third-party, to posts.
 > [!NOTE]
 > The GIF search in Yammer defaults to Tenor's "young audience" and "strict" filters in order to keep GIFs appropriate in a school or work setting. If you see inappropriate GIFs in a search, send email to support@tenor.com with a link to the GIF.
 
-You can turn off this feature so that users do not see GIFs from Tenor. 
+You can turn off this feature so that users don't see GIFs from Tenor. 
 
 - On the **Configuration** page, in the **Enabled Features** section, enable or disable **Show Tenor GIFs Search**. 
 
@@ -123,7 +123,7 @@ You can turn off the display of this data for links.
 ## Allow users to view an org chart in Yammer
 <a name="RestrictApps"> </a>
 
-The org chart was deprecated for Office 365 Yammer networks in May 2018. Office charts are available in Skype for Business and Delve. For more information, see [Find info from a contact card in Skype for Business](https://support.office.com/en-us/article/Find-info-from-a-contact-card-in-Skype-for-Business-d797905c-66f0-4248-b473-c49e3c9a0767) and [How can I find people and information in Office Delve?](https://support.office.com/en-us/article/How-can-I-find-people-and-information-in-Office-Delve-5b8bffdd-a50a-430a-8570-09b39481887c)
+The org chart was deprecated for Office 365 Yammer networks in May 2018. Office charts are available at Skype for Business and Delve. For more information, see [Find info from a contact card in Skype for Business](https://support.office.com/en-us/article/Find-info-from-a-contact-card-in-Skype-for-Business-d797905c-66f0-4248-b473-c49e3c9a0767) and [How can I find people and information in Office Delve?](https://support.office.com/en-us/article/How-can-I-find-people-and-information-in-Office-Delve-5b8bffdd-a50a-430a-8570-09b39481887c)
   
 <a name="MessageTranslation"> </a>    
 
@@ -131,7 +131,7 @@ The org chart was deprecated for Office 365 Yammer networks in May 2018. Office 
 
 This feature gives users the option to translate messages from [any language supported by Microsoft Translator](https://www.microsoft.com/en-us/translator/languages.aspx) into the network's default language. To enable this feature, the network admin must accept a Terms and Services agreement in order to use Microsoft's proprietary translation technology. This feature is disabled by default. 
 
-When this is enabled, users will see a **Translate** option right under any message that has been posted in a language different than the language they have selected in **Preferences** in their Yammer settings.
+When this is enabled, users will see a **Translate** option right under any message that has been posted in a language different than the language they've selected in **Preferences** in their Yammer settings.
   
 - On the **Configuration** page, in the **Enabled Features** section, select whether to allow **Message Translation**.
 
@@ -140,3 +140,13 @@ When this is enabled, users will see a **Translate** option right under any mess
 System messages notify users of important actions in the network and conversations, such as creating a new group or adding people to a conversation. Changing the language will display future system messages in the selected language. Prior system messages will remain in the existing language.
 
 - On the **Configuration** page, under **Set System Language**, choose the language to use.
+
+## Set Require Admin Approval for external network invitations
+
+Require Admin Approval setting allows network admins to review and allow or deny members of your home network from participating in external networks hosted by other organizations. This setting is **OFF** be default. Turn this setting **ON** to review and select whether or not members of your home network can participate in external networks hosted by other organizations. 
+
+When this setting is **ON**, when members from your home network are invited to participate in external networks hosted by other organizations, they can request your approval and you can review pending requests under **Pending Requests** options under **Edit** settings in your home network. 
+
+To turn this setting to **ON**, go to **Network** setting and select **External Networks** and select the “Require admin approval for members to join other companies' external groups or external networks" to **ON**.
+
+![External networks](../media/yammer-external-networks.png)
