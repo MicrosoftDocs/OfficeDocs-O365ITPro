@@ -112,7 +112,7 @@ To get back to your home network, click the home network name at the end of the 
 <a name="BKMK_ManageSettings"> </a>
 
 > [!CAUTION]
-> Deleting an external network results in the network being disabled and all members lose access. Once it's disabled, it can't be reactivated. 
+> Deleting an external network deletes all content in the external network and removes all members from the network. Once a network is deleted, it can't be reactivated. 
   
 1. To go to an external network, click the Yammer settings icon![Yammer settings icon.](../media/9704ce70-56ce-43f7-96c6-f253b0413d40.png), and then select an external network, or select **Browse External Networks**.
     
