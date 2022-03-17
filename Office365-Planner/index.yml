@@ -33,8 +33,6 @@ landingContent:
             url: planner-for-admins.md#how-do-i-turn-off-planner-for-my-organization
       - linkListType: overview
         links:
-          - text: Planner UserVoice
-            url: https://planner.uservoice.com/forums/330525-microsoft-planner-feedback-forum
           - text: Planner community
             url: https://techcommunity.microsoft.com/t5/Planner/ct-p/Planner      
           - text: Planner blog
