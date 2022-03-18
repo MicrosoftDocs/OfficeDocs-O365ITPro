@@ -2,9 +2,9 @@
 
 
 
-## Week of December 13, 2021
+## Week of March 14, 2022
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 12/17/2021 | [Prerequisites for making Planner changes in Windows PowerShell](/Office365/Planner/prerequisites-for-powershell) | modified |
+| 3/17/2022 | [Microsoft Planner for admins # < 60 chars](/Office365/Planner/index) | modified |
