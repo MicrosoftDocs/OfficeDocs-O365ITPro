@@ -47,7 +47,7 @@ After a user is connected and using Office 365 sign-in for Yammer, the user can 
   
 ## How do I enable Office 365 sign-in for Yammer?
 
-No action is needed to enable Office 365 sign-in for Yammer.
+Yammer will detect when an Azure AD account exists for a user and use Office 365 sign-in for Yammer. It's strongly recommended that admins [Enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md).
   
 ## Enforce Office 365 sign-in for all users in the network
 
