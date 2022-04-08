@@ -68,8 +68,7 @@ We are working hard to bring new features and continuous improvements to new Yam
 
 ### Conversation features
 
-- View full conversation (edit) history
-- Save and view bookmarks 
+- View full conversation (edit) history 
 - Hide conversations from your feed
 
 ### Publisher features
