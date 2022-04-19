@@ -29,7 +29,7 @@ A Yammer network must be in one of three modes:
 
 - **Native Mode for Microsoft 365**. In this mode, the network only uses features that allow users, groups, and content to be compatible with and mapped to their counterparts in Azure AD and Microsoft 365.
 
-  When Yammer content is in Native Mode, you can search for it in the [Microsoft 365 Compliance Center](https://go.microsoft.com/fwlink/?linkid=2132455).
+  When Yammer content is in Native Mode, you can search for it in the [Microsoft Purview compliance portal](https://go.microsoft.com/fwlink/?linkid=2132455).
   
   In this mode, users and admins can't add features that would take the network out of Native Mode.
 
@@ -53,7 +53,7 @@ When you align your Yammer network in Native Mode, the [Native Mode Alignment To
 ### Native Mode
 
 - No one can inadvertently take your network out of Native Mode.
-- eDiscovery through the [Microsoft 365 Compliance Center](https://go.microsoft.com/fwlink/?linkid=2132455) for your home network.
+- eDiscovery through the [Microsoft Purview compliance portal](https://go.microsoft.com/fwlink/?linkid=2132455) for your home network.
 - All Yammer groups, users, and group memberships are managed through Microsoft 365. Management should be done through the Microsoft 365 admin center, Azure AD admin portal, or other Azure AD management tools.
 - Microsoft 365 resources for each group.
 - All communities or groups, including All Company, are Microsoft 365-connected, which means they have access to Microsoft 365 features, including live events.
@@ -88,7 +88,7 @@ When you align your Yammer network in Native Mode, the [Native Mode Alignment To
 
 [Troubleshoot problems with Native Mode for Microsoft 365](../troubleshoot-problems/troubleshoot-native-mode.md)
 
-[Microsoft 365 Compliance Center](https://go.microsoft.com/fwlink/?linkid=2132455)
+[Microsoft Purview compliance portal](https://go.microsoft.com/fwlink/?linkid=2132455)
 
 [Manage Yammer data compliance](../manage-security-and-compliance/manage-data-compliance.md)
 
