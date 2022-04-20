@@ -23,13 +23,13 @@ We will be deprecating Yammer Basic/Freemium networks by the end of 2022 for smo
 
 ### Q. We still want a Yammer network. What can we do?
 
-**A.** If your organization has an Office 365 or Microsoft 365 license, enterprise Yammer is included—see [Add Yammer basic domains to your Office 365 tenant](https://docs.microsoft.com/en-us/yammer/configure-your-yammer-network/add-basic-domains-to-office-365).
+**A.** If your organization has an Office 365 or Microsoft 365 license, enterprise Yammer is included, see [Add Yammer basic domains to your Office 365 tenant](../configure-your-yammer-network/add-basic-domains-to-office-365.md).
 
-If your organization doesn't have a license, [subscriptions  are available](https://www.microsoft.com/en-us/microsoft-365/compare-microsoft-365-enterprise-plans) starting at $8 per user per month.
+If your organization doesn't have a license, [subscriptions  are available](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) starting at $8 per user per month.
 
 ### Q. My organization has an enterprise Yammer network, but we have users from Freemium networks collaborating with us. Can they still join our network as guests after it’s discontinued?
 
-**A.** Not unless they upgrade their license too. If you’re based in the US, you can invite them to collaborate with you through an [external network](https://docs.microsoft.com/en-us/yammer/work-with-external-users/create-and-manage-an-external-network).
+**A.** Not unless they upgrade their license too. If you’re based in the US, you can invite them to collaborate with you through an [external network](../work-with-external-users/create-and-manage-an-external-network.md).
 
 ### Q. What if we want to keep all our data from the old network and move it to the new network?
 
