@@ -911,17 +911,17 @@
       "redirect_url": "/microsoft-365/admin/add-users/remove-former-employee"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/resend-user-password.md",
       "redirect_url": "/microsoft-365/admin/add-users/resend-user-password"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/reset-passwords.md",
       "redirect_url": "/microsoft-365/admin/add-users/reset-passwords"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/restore-user.md",
       "redirect_url": "/microsoft-365/admin/add-users/restore-user"
     },
@@ -931,47 +931,47 @@
       "redirect_url": "/microsoft-365/admin/add-users/set-password-to-never-expire"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/about-the-admin-center.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/about-the-admin-center"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/admin-mobile-app.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/admin-mobile-app"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/admin-overview.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/admin-overview"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/get-started-with-office-365.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/get-started-with-office-365"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/index.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/learn-about-office-365-germany.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/learn-about-office-365-germany"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/sign-up-for-office-365.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/sign-up-for-office-365"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/what-is-help.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/what-is-help"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/what-subscription-do-i-have.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/what-subscription-do-i-have"
     },
@@ -981,7 +981,7 @@
       "redirect_url": "/microsoft-365/admin/create-groups/add-or-remove-members-from-groups"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/allow-members-to-send-as-or-send-on-behalf-of-group.md",
       "redirect_url": "/microsoft-365/admin/create-groups/allow-members-to-send-as-or-send-on-behalf-of-group"
     },
@@ -991,27 +991,27 @@
       "redirect_url": "/microsoft-365/admin/create-groups/choose-domain-to-create-groups"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/compare-groups.md",
       "redirect_url": "/microsoft-365/admin/create-groups/compare-groups"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/create-groups.md",
       "redirect_url": "/microsoft-365/admin/create-groups/create-groups"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/groups-naming-policy.md",
       "redirect_url": "/microsoft-365/admin/create-groups/groups-naming-policy"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/index.md",
       "redirect_url": "/microsoft-365/admin/create-groups/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/manage-creation-of-groups.md",
       "redirect_url": "/microsoft-365/admin/create-groups/manage-creation-of-groups"
     },
@@ -1021,222 +1021,222 @@
       "redirect_url": "/microsoft-365/admin/create-groups/manage-groups"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/manage-guest-access-in-groups.md",
       "redirect_url": "/microsoft-365/admin/create-groups/manage-guest-access-in-groups"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/office-365-groups-expiration-policy.md",
       "redirect_url": "/microsoft-365/admin/create-groups/office-365-groups-expiration-policy"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/office-365-groups.md",
       "redirect_url": "/microsoft-365/admin/create-groups/office-365-groups"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/Plan-for-groups-governance.md",
       "redirect_url": "/microsoft-365/admin/create-groups/Plan-for-groups-governance"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/restore-deleted-group.md",
       "redirect_url": "/microsoft-365/admin/create-groups/restore-deleted-group"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/add-or-edit-custom-dns-records.md",
       "redirect_url": "/microsoft-365/admin/dns/add-or-edit-custom-dns-records"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/change-nameservers-at-1-1-internet.md",
       "redirect_url": "/microsoft-365/admin/dns/change-nameservers-at-1-1-internet"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/change-nameservers-at-aws.md",
       "redirect_url": "/microsoft-365/admin/dns/change-nameservers-at-aws"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/change-nameservers-at-bluehost.md",
       "redirect_url": "/microsoft-365/admin/dns/change-nameservers-at-bluehost"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/change-nameservers-at-google-domains.md",
       "redirect_url": "/microsoft-365/admin/dns/change-nameservers-at-google-domains"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/change-nameservers-at-hostgator.md",
       "redirect_url": "/microsoft-365/admin/dns/change-nameservers-at-hostgator"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/change-nameservers-at-mydomain.md",
       "redirect_url": "/microsoft-365/admin/dns/change-nameservers-at-mydomain"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/change-nameservers-at-namecheap.md",
       "redirect_url": "/microsoft-365/admin/dns/change-nameservers-at-namecheap"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/change-nameservers-at-network-solutions.md",
       "redirect_url": "/microsoft-365/admin/dns/change-nameservers-at-network-solutions"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-1-1-internet.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-1-1-internet"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-123-reg-co-uk.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-aws.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-aws"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-bluehost.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-bluehost"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-cloudflare.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-cloudflare"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-crazy-domains.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-crazy-domains"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-dnsmadeeasy.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-dnsmadeeasy"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-dreamhost.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-dreamhost"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-dyn-com.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-dyn-com"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-enomcentral.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-enomcentral"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-freenom.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-freenom"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-godaddy.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-godaddy"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-google-domains.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-google-domains"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-hostgator.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-hostgator"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-hover.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-hover"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-mydomain.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-mydomain"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-name-com.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-name-com"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-namecheap.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-namecheap"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-names-co-uk.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-names-co-uk"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-netregistry.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-netregistry"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-network-solutions.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-network-solutions"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-ovh.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-ovh"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-register-com.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-register-com"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-register365.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-register365"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-wix.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-wix"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-yahoo-small-business.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-yahoo-small-business"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-for-azure-dns-zones.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-for-azure-dns-zones"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-for-domain-managed-by-google-enom.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-for-domain-managed-by-google-enom"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-using-windows-based-dns.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-using-windows-based-dns"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/index.md",
       "redirect_url": "/microsoft-365/admin/dns/index"
     },
@@ -1246,102 +1246,102 @@
       "redirect_url": "/microsoft-365/admin/dns/set-up-DNS-records-at-easyDNS"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/update-dns-records-to-retain-current-hosting-provider.md",
       "redirect_url": "/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/about-shared-mailboxes.md",
       "redirect_url": "/microsoft-365/admin/email/about-shared-mailboxes"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/access-email-from-a-mobile-device.md",
       "redirect_url": "/microsoft-365/admin/email/access-email-from-a-mobile-device"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/add-another-email-alias-for-a-user.md",
       "redirect_url": "/microsoft-365/admin/email/add-another-email-alias-for-a-user"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/add-user-or-contact-to-distribution-list.md",
       "redirect_url": "/microsoft-365/admin/email/add-user-or-contact-to-distribution-list"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/change-email-address.md",
       "redirect_url": "/microsoft-365/admin/email/change-email-address"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/configure-a-shared-mailbox.md",
       "redirect_url": "/microsoft-365/admin/email/configure-a-shared-mailbox"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/configure-clutter.md",
       "redirect_url": "/microsoft-365/admin/email/configure-clutter"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/configure-email-forwarding.md",
       "redirect_url": "/microsoft-365/admin/email/configure-email-forwarding"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/convert-user-mailbox-to-shared-mailbox.md",
       "redirect_url": "/microsoft-365/admin/email/convert-user-mailbox-to-shared-mailbox"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/create-a-shared-mailbox.md",
       "redirect_url": "/microsoft-365/admin/email/create-a-shared-mailbox"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/create-edit-or-delete-a-security-group.md",
       "redirect_url": "/microsoft-365/admin/email/create-edit-or-delete-a-security-group"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/email-collaboration.md",
       "redirect_url": "/microsoft-365/admin/email/email-collaboration"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/email.md",
       "redirect_url": "/microsoft-365/admin/email/email"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/index.md",
       "redirect_url": "/microsoft-365/admin/email/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/manage-email-app-access.md",
       "redirect_url": "/microsoft-365/admin/email/manage-email-app-access"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/office-365-user-email-settings.md",
       "redirect_url": "/microsoft-365/admin/email/office-365-user-email-settings"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/remove-license-from-shared-mailbox.md",
       "redirect_url": "/microsoft-365/admin/email/remove-license-from-shared-mailbox"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/resolve-issues-with-shared-mailboxes.md",
       "redirect_url": "/microsoft-365/admin/email/resolve-issues-with-shared-mailboxes"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/buy-a-domain-name.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/buy-a-domain-name"
     },
@@ -1356,57 +1356,57 @@
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/dns-basics.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/dns-basics"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/domain-connect.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/domain-connect"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/find-and-fix-issues.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/find-and-fix-issues"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/find-your-domain-registrar.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/find-your-domain-registrar"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/get-help-with-domains.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/get-help-with-domains"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/index.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/information-for-dns-records.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/information-for-dns-records"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/remove-a-domain.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/remove-a-domain"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/set-up-your-domain-host-specific-instructions.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/transfer-data-manually.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/transfer-data-manually"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/what-is-a-domain.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/what-is-a-domain"
     },
@@ -1421,12 +1421,12 @@
       "redirect_url": "/microsoft-365/admin/includes/office365-admin-content-updates"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/assign-licenses-to-users.md",
       "redirect_url": "/microsoft-365/admin/manage/assign-licenses-to-users"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/centralized-deployment-of-add-ins.md",
       "redirect_url": "/microsoft-365/admin/manage/centralized-deployment-of-add-ins"
     },
