@@ -85,6 +85,8 @@ landingContent:
             url: ./configure-your-yammer-network/yammer-and-office-365.md
           - text: Overview of native mode
             url: ./configure-your-yammer-network/overview-native-mode.md
+          - text: Deprecation of Basic/Freemium networks
+            url: ./configure-your-yammer-network/deprecation-of-basic-freemium-networks.md
       - linkListType: how-to-guide
         links:
           - text: Configure your Yammer network
