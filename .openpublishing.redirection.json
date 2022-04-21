@@ -688,7 +688,7 @@
     {
       "source_path": "Office365-Admin/misc/Add-domain-alchemy.md",
       "redirect_url": "/microsoft-365/admin/admin-home",
-      "redirect_document_id": yes?
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-Admin/services-in-china/initial-partner-onmschina-cn-domain.md",
@@ -751,17 +751,17 @@
       "redirect_url": "/microsoft-365/admin/whats-new-in-preview"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/active-users.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/active-users"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/activity-reports.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/activity-reports"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/email-activity.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/email-activity"
     },
@@ -771,17 +771,17 @@
       "redirect_url": "/microsoft-365/admin/activity-reports/email-apps-usage"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/index.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/mailbox-usage.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/mailbox-usage"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/microsoft-office-activations.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/microsoft-office-activations"
     },
@@ -791,57 +791,57 @@
       "redirect_url": "/microsoft-365/admin/activity-reports/microsoft-teams-device-usage"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/microsoft-teams-user-activity.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/microsoft-teams-user-activity"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/office-365-groups.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/office-365-groups"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/onedrive-for-business-activity.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/onedrive-for-business-activity"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/onedrive-for-business-usage.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/onedrive-for-business-usage"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/sharepoint-activity.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/sharepoint-activity"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/sharepoint-site-usage.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/sharepoint-site-usage"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/yammer-activity-report.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/yammer-activity-report"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/yammer-device-usage-report.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/yammer-device-usage-report"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/yammer-groups-activity-report.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/yammer-groups-activity-report"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/about-admin-roles.md",
       "redirect_url": "/microsoft-365/admin/add-users/about-admin-roles"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/about-exchange-online-admin-role.md",
       "redirect_url": "/microsoft-365/admin/add-users/about-exchange-online-admin-role"
     },
@@ -856,27 +856,27 @@
       "redirect_url": "/microsoft-365/admin/add-users/add-users"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/admin-roles-page.md",
       "redirect_url": "/microsoft-365/admin/add-users/admin-roles-page"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/assign-admin-roles.md",
       "redirect_url": "/microsoft-365/admin/add-users/assign-admin-roles"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/change-a-user-name-and-email-address.md",
       "redirect_url": "/microsoft-365/admin/add-users/change-a-user-name-and-email-address"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/create-and-use-a-template-to-add-users.md",
       "redirect_url": "/microsoft-365/admin/add-users/create-and-use-a-template-to-add-users"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/create-edit-or-delete-a-custom-user-view.md",
       "redirect_url": "/microsoft-365/admin/add-users/create-edit-or-delete-a-custom-user-view"
     },
@@ -886,27 +886,27 @@
       "redirect_url": "/microsoft-365/admin/add-users/delete-a-user"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/get-access-to-and-back-up-a-former-user-s-data.md",
       "redirect_url": "/microsoft-365/admin/add-users/get-access-to-and-back-up-a-former-user-s-data"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/give-mailbox-permissions-to-another-user.md",
       "redirect_url": "/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/index.md",
       "redirect_url": "/microsoft-365/admin/add-users/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/let-users-reset-passwords.md",
       "redirect_url": "/microsoft-365/admin/add-users/let-users-reset-passwords"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/remove-former-employee.md",
       "redirect_url": "/microsoft-365/admin/add-users/remove-former-employee"
     },
