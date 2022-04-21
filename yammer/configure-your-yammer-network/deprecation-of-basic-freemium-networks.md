@@ -2,8 +2,9 @@
 title: "Deprecation of Basic/Freemium Networks"
 f1.keywords:
 - NOCSH
-ms.author: laroseda
+ms.author: pamgreen
 author: natjeremy
+manager: pamgreen
 ms.date: 04/19/2022
 audience: Admin
 ms.topic: article
