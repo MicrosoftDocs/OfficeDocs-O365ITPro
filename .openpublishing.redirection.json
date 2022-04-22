@@ -1936,7 +1936,7 @@
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay-for-your-subscription.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription"
     },
@@ -1946,32 +1946,32 @@
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/understand-your-invoice2"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/view-your-bill-or-invoice.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/what-tax-will-i-be-charged.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/what-tax-will-i-be-charged"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/buy-licenses.md",
       "redirect_url": "/microsoft-365/commerce/licenses/buy-licenses"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/remove-licenses-from-subscription.md",
       "redirect_url": "/microsoft-365/commerce/licenses/remove-licenses-from-subscription"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/subscriptions-and-licenses.md",
       "redirect_url": "/microsoft-365/commerce/licenses/subscriptions-and-licenses"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/back-up-data-before-switching-plans.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/back-up-data-before-switching-plans"
     },
@@ -1981,12 +1981,12 @@
       "redirect_url": "/microsoft-365/commerce/subscriptions/cancel-your-subscription"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/reactivate-your-subscription.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/reactivate-your-subscription"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/renew-your-subscription.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/renew-your-subscription"
     },
@@ -1996,202 +1996,202 @@
       "redirect_url": "/microsoft-365/commerce/subscriptions/switch-to-a-different-plan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/upgrade-to-different-plan.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/upgrade-to-different-plan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/what-does-switching-plans-do-to-my-service-and-billing.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/what-does-switching-plans-do-to-my-service-and-billing"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/what-if-my-subscription-expires.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/what-if-my-subscription-expires"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/afghanistan.md",
       "redirect_url": "/microsoft-365/commerce/pay/afghanistan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/albania.md",
       "redirect_url": "/microsoft-365/commerce/pay/albania"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/algeria.md",
       "redirect_url": "/microsoft-365/commerce/pay/algeria"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/angola.md",
       "redirect_url": "/microsoft-365/commerce/pay/angola"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/argentina.md",
       "redirect_url": "/microsoft-365/commerce/pay/argentina"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/armenia.md",
       "redirect_url": "/microsoft-365/commerce/pay/armenia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/australia.md",
       "redirect_url": "/microsoft-365/commerce/pay/australia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/austria.md",
       "redirect_url": "/microsoft-365/commerce/pay/austria"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/azerbaijan.md",
       "redirect_url": "/microsoft-365/commerce/pay/azerbaijan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/bahamas.md",
       "redirect_url": "/microsoft-365/commerce/pay/bahamas"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/bahrain.md",
       "redirect_url": "/microsoft-365/commerce/pay/bahrain"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/bangladesh.md",
       "redirect_url": "/microsoft-365/commerce/pay/bangladesh"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/barbados.md",
       "redirect_url": "/microsoft-365/commerce/pay/barbados"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/belarus.md",
       "redirect_url": "/microsoft-365/commerce/pay/belarus"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/belgium.md",
       "redirect_url": "/microsoft-365/commerce/pay/belgium"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/belize.md",
       "redirect_url": "/microsoft-365/commerce/pay/belize"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/bermuda.md",
       "redirect_url": "/microsoft-365/commerce/pay/bermuda"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/bolivia.md",
       "redirect_url": "/microsoft-365/commerce/pay/bolivia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/bosnia-and-herzegovina.md",
       "redirect_url": "/microsoft-365/commerce/pay/bosnia-and-herzegovina"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/botswana.md",
       "redirect_url": "/microsoft-365/commerce/pay/botswana"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/brazil.md",
       "redirect_url": "/microsoft-365/commerce/pay/brazil"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/brunei.md",
       "redirect_url": "/microsoft-365/commerce/pay/brunei"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/bulgaria.md",
       "redirect_url": "/microsoft-365/commerce/pay/bulgaria"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/cameroon.md",
       "redirect_url": "/microsoft-365/commerce/pay/cameroon"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/canada.md",
       "redirect_url": "/microsoft-365/commerce/pay/canada"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/cape-verde.md",
       "redirect_url": "/microsoft-365/commerce/pay/cape-verde"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/cayman-islands.md",
       "redirect_url": "/microsoft-365/commerce/pay/cayman-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/chile.md",
       "redirect_url": "/microsoft-365/commerce/pay/chile"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/china-prc.md",
       "redirect_url": "/microsoft-365/commerce/pay/china-prc"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/colombia.md",
       "redirect_url": "/microsoft-365/commerce/pay/colombia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/costa-rica.md",
       "redirect_url": "/microsoft-365/commerce/pay/costa-rica"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/cote-divoire.md",
       "redirect_url": "/microsoft-365/commerce/pay/cote-divoire"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/croatia.md",
       "redirect_url": "/microsoft-365/commerce/pay/croatia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/curacao.md",
       "redirect_url": "/microsoft-365/commerce/pay/curacao"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/cyprus.md",
       "redirect_url": "/microsoft-365/commerce/pay/cyprus"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/czech-republic.md",
       "redirect_url": "/microsoft-365/commerce/pay/czech-republic"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/democratic-republic-of-congo.md",
       "redirect_url": "/microsoft-365/commerce/pay/democratic-republic-of-congo"
     },
