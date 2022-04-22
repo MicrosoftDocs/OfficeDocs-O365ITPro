@@ -20,19 +20,19 @@ description: An overview about eDiscovery in Yammer.
 
 # Overview of eDiscovery in Yammer networks
 
-Yammer now supports both eDiscovery and Advanced eDiscovery within the Microsoft Purview compliance portal.
+Yammer now supports both eDiscovery and eDiscovery (Premium) within the Microsoft Purview compliance portal.
 
 To use this functionality, your Yammer network will need to be in Native Mode. If your network was provisioned after January 9, 2020, you are already in Native Mode. If your network was provisioned *before* January 9, 2020, you will need to follow the steps in the [Overview of Native Mode](../configure-your-yammer-network/overview-native-mode.md).
 
 You can learn more about eDiscovery in the [Microsoft Purview compliance portal](/microsoft-365/compliance/).
 
-The processes outlined in the above documentation explain how to run eDiscovery searches on all your Microsoft content. While Yammer isn’t discussed explicitly in those documents, the same processes mentioned apply to Yammer content. When writing a search query in either eDiscovery or Advanced eDiscovery, you can filter on Yammer content specifically by selecting **Yammer Messages** as the *Type* of content as shown in the screenshots below.
+The processes outlined in the above documentation explain how to run eDiscovery searches on all your Microsoft content. While Yammer isn’t discussed explicitly in those documents, the same processes mentioned apply to Yammer content. When writing a search query in either eDiscovery or eDiscovery (Premium), you can filter on Yammer content specifically by selecting **Yammer Messages** as the *Type* of content as shown in the screenshots below.
 
 ## eDiscovery
 
 ![eDiscovery in Yammer.](../media/kb/yam-ediscovery.png)
 
-## Advanced eDiscovery
+## eDiscovery (Premium)
 
 ![yam-advanced-ediscovery.](../media/yammer-advanced-ediscovery.png)
 
@@ -54,6 +54,6 @@ We plan to continue updating the service to include more information not listed 
 
 [eDiscovery in Microsoft 365](/office365/securitycompliance/ediscovery)
 
-[Overview of the advanced eDiscovery solution in Microsoft 365](/office365/securitycompliance/office-365-advanced-ediscovery)
+[Overview of the eDiscovery (Premium) solution in Microsoft Purview](/office365/securitycompliance/office-365-advanced-ediscovery)
 
 [Overview of Native Mode](../configure-your-yammer-network/overview-native-mode.md)
