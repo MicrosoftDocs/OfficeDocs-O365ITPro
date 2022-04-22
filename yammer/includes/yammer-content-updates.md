@@ -2,9 +2,11 @@
 
 
 
-## Week of January 03, 2022
+## Week of April 18, 2022
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 1/6/2022 | [Manage GDPR data subject requests in Yammer Enterprise](/Yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise) | modified |
+| 4/21/2022 | [Deprecation of Basic/Freemium Networks](/Yammer/configure-your-yammer-network/deprecation-of-basic-freemium-networks) | added |
+| 4/21/2022 | [FAQ: eDiscovery in Yammer](/Yammer/manage-security-and-compliance/faq-ediscovery) | modified |
+| 4/21/2022 | [eDiscovery (Premium) in Yammer](/Yammer/manage-security-and-compliance/advanced-ediscovery) | modified |
