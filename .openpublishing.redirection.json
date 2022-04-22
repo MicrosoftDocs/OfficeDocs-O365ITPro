@@ -1431,12 +1431,12 @@
       "redirect_url": "/microsoft-365/admin/manage/centralized-deployment-of-add-ins"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/change-address-contact-and-more.md",
       "redirect_url": "/microsoft-365/admin/manage/change-address-contact-and-more"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/change-contact-preferences.md",
       "redirect_url": "/microsoft-365/admin/manage/change-contact-preferences"
     },
@@ -1446,47 +1446,47 @@
       "redirect_url": "/microsoft-365/admin/manage/customize-the-app-launcher"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/find-your-partner-or-reseller.md",
       "redirect_url": "/microsoft-365/admin/manage/find-your-partner-or-reseller"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/index.md",
       "redirect_url": "/microsoft-365/admin/manage/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/language-translation-for-message-center-posts.md",
       "redirect_url": "/microsoft-365/admin/manage/language-translation-for-message-center-posts"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/manage-deployment-of-add-ins.md",
       "redirect_url": "/microsoft-365/admin/manage/manage-deployment-of-add-ins"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/manage-messages.md",
       "redirect_url": "/microsoft-365/admin/manage/manage-messages"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/manage.md",
       "redirect_url": "/microsoft-365/admin/manage/manage"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/message-center.md",
       "redirect_url": "/microsoft-365/admin/manage/message-center"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/release-options-in-office-365.md",
       "redirect_url": "/microsoft-365/admin/manage/release-options-in-office-365"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/remove-licenses-from-users.md",
       "redirect_url": "/microsoft-365/admin/manage/remove-licenses-from-users"
     },
@@ -1501,52 +1501,52 @@
       "redirect_url": "/microsoft-365/admin/manage/room-and-equipment-mailboxes"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/send-email-as-distribution-list.md",
       "redirect_url": "/microsoft-365/admin/manage/send-email-as-distribution-list"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/set-password-expiration-policy.md",
       "redirect_url": "/microsoft-365/admin/manage/set-password-expiration-policy"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/share-calendars-with-external-users.md",
       "redirect_url": "/microsoft-365/admin/manage/share-calendars-with-external-users"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/share-sites-with-external-users.md",
       "redirect_url": "/microsoft-365/admin/manage/share-sites-with-external-users"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/stay-on-top-of-updates.md",
       "redirect_url": "/microsoft-365/admin/manage/stay-on-top-of-updates"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/update-phone-number-and-email-address.md",
       "redirect_url": "/microsoft-365/admin/manage/update-phone-number-and-email-address"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/upgrade-distribution-lists.md",
       "redirect_url": "/microsoft-365/admin/manage/upgrade-distribution-lists"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/enter-your-product-key.md",
       "redirect_url": "/microsoft-365/commerce/enter-your-product-key"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/product-key-errors-and-solutions.md",
       "redirect_url": "/microsoft-365/commerce/product-key-errors-and-solutions"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/add-partner.md",
       "redirect_url": "/microsoft-365/admin/misc/add-partner"
     },
@@ -1561,57 +1561,57 @@
       "redirect_url": "/microsoft-365/admin/misc/become-the-admin"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/purchases-from-microsoft-open.md",
       "redirect_url": "/microsoft-365/commerce/purchases-from-microsoft-open"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/compare-ways-to-block-access.md",
       "redirect_url": "/microsoft-365/admin/misc/compare-ways-to-block-access"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/contacts.md",
       "redirect_url": "/microsoft-365/admin/misc/contacts"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/cortana-integration.md",
       "redirect_url": "/microsoft-365/admin/misc/cortana-integration"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/customize-help-desk.md",
       "redirect_url": "/microsoft-365/admin/misc/customize-help-desk"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/deleted-user.md",
       "redirect_url": "/microsoft-365/admin/misc/deleted-user"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/deleted-users-checklist.md",
       "redirect_url": "/microsoft-365/admin/misc/deleted-users-checklist"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/device-list.md",
       "redirect_url": "/microsoft-365/admin/misc/device-list"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/use-a-promo-code.md",
       "redirect_url": "/microsoft-365/commerce/use-a-promo-code"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/icann-verification-of-contact-information.md",
       "redirect_url": "/microsoft-365/admin/misc/icann-verification-of-contact-information"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/index.md",
       "redirect_url": "/microsoft-365/admin/misc/index"
     },
@@ -1621,67 +1621,67 @@
       "redirect_url": "/microsoft-365/admin/misc/integrated-apps"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/move-email-and-data-to-office-365-business-premium.md",
       "redirect_url": "/microsoft-365/admin/misc/move-email-and-data-to-office-365-business-premium"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/password-policy-recommendations.md",
       "redirect_url": "/microsoft-365/admin/misc/password-policy-recommendations"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/power-bi-in-your-organization.md",
       "redirect_url": "/microsoft-365/admin/misc/power-bi-in-your-organization"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/self-service-sign-up.md",
       "redirect_url": "/microsoft-365/admin/misc/self-service-sign-up"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/set-up-outlook-to-read-email.md",
       "redirect_url": "/microsoft-365/admin/misc/set-up-outlook-to-read-email"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/sign-up-for-online-services.md",
       "redirect_url": "/microsoft-365/admin/misc/sign-up-for-online-services"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/sign-up-with-a-personal-email-address.md",
       "redirect_url": "/microsoft-365/admin/misc/sign-up-with-a-personal-email-address"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/solution-provider-partners-in-russia.md",
       "redirect_url": "/microsoft-365/admin/misc/solution-provider-partners-in-russia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/types-of-users.md",
       "redirect_url": "/microsoft-365/admin/misc/types-of-users"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/ways-to-manage-contacts.md",
       "redirect_url": "/microsoft-365/admin/misc/ways-to-manage-contacts"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/e-invoice-of-your-subscription-in-taiwan.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/e-invoice-of-your-subscription-in-taiwan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/top-billing-questions.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/top-billing-questions"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/add-licenses-bought-through-vlsc.md",
       "redirect_url": "/microsoft-365/commerce/licenses/add-licenses-bought-through-vlsc"
     },
