@@ -31,17 +31,17 @@ A: Electronic Discovery (commonly referred to as “eDiscovery”) refers to the
 
 **Q: How does Security & Compliance Center for Microsoft 365 support eDiscovery?**
 
-A: Security and Compliance Center offers eDiscovery and Advanced eDiscovery, which you can use to search for content in Exchange Online mailboxes, Microsoft Teams, Yammer conversations, SharePoint Online content, and more. You can use eDiscovery cases in the Security and Compliance Center to identify, hold, and export content found in mailboxes and websites.
+A: Security and Compliance Center offers eDiscovery and eDiscovery (Premium), which you can use to search for content in Exchange Online mailboxes, Microsoft Teams, Yammer conversations, SharePoint Online content, and more. You can use eDiscovery cases in the Security and Compliance Center to identify, hold, and export content found in mailboxes and websites.
 
 See more information and examples about [eDiscovery](/office365/securitycompliance/ediscovery).
 
 **Q: How does Yammer support eDiscovery?**
 
-A: Yammer supports eDiscovery (E3) and Advanced eDiscovery (E5) in the Security and Compliance Center. Once a Yammer Enterprise network is in [Native Mode for Microsoft 365](../configure-your-yammer-network/overview-native-mode.md), all messages and files are discoverable.
+A: Yammer supports eDiscovery (E3) and eDiscovery (Premium) (E5) in the Security and Compliance Center. Once a Yammer Enterprise network is in [Native Mode for Microsoft 365](../configure-your-yammer-network/overview-native-mode.md), all messages and files are discoverable.
 
-**Q: What is Advanced eDiscovery for Microsoft 365?**
+**Q: What is eDiscovery (Premium) for Microsoft Purview?**
 
-A: Advanced eDiscovery (E5) builds on eDiscovery (E3) and helps you analyze unstructured data within Microsoft 365, perform more efficient document reviews, and make decisions to reduce data for eDiscovery.
+A: eDiscovery (Premium) (E5) builds on eDiscovery (E3) and helps you analyze unstructured data within Microsoft 365, perform more efficient document reviews, and make decisions to reduce data for eDiscovery.
 
 See more advanced information about [eDiscovery in Microsoft 365](/office365/securitycompliance/office-365-advanced-ediscovery).
 
@@ -59,11 +59,11 @@ A: In Native Mode, all Yammer users are in AAD, all groups are Microsoft 365 Gro
 
 **Q: How do I discover all Yammer messages where a custodian is a participant?**
 
-A: eDiscovery (E3) has no pre-defined concept of a custodian. Within Advanced eDiscovery (E5), you can define a custodian through the custodian workflow. To capture Yammer messages, select Exchange as a data source. Once the custodian is defined, you can select the custodian from within the search workflow and use the Type condition to select all Yammer message types.
+A: eDiscovery (E3) has no pre-defined concept of a custodian. Within eDiscovery (Premium) (E5), you can define a custodian through the custodian workflow. To capture Yammer messages, select Exchange as a data source. Once the custodian is defined, you can select the custodian from within the search workflow and use the Type condition to select all Yammer message types.
 
 **Q: How do I discover all messages and files in Yammer groups a custodian is a member of?**
 
-A: eDiscovery (E3) has no pre-defined concept of a custodian. In Advanced eDiscovery (E5), you can select other data sources from the Add Custodians workflow to select the Yammer groups of which the custodian is a member. Messages and files are available for discovery for all groups you select when the custodian is selected during search.  
+A: eDiscovery (E3) has no pre-defined concept of a custodian. In eDiscovery (Premium) (E5), you can select other data sources from the Add Custodians workflow to select the Yammer groups of which the custodian is a member. Messages and files are available for discovery for all groups you select when the custodian is selected during search.  
 
 **Q: How do I search for Yammer messages of a specific type?**
 
@@ -85,7 +85,7 @@ A: From the search workflow, click **Next** until you get to the Non-custodial l
 
 **Q: When are messages and files subject to a litigation hold?**
 
-A: Messages and files are subject to a hold when the location they are stored (for example, custodian of the message or file in Advanced eDiscovery, or the Exchange Online Mailbox or SharePoint Online site where the message or file in eDiscovery), is on hold.
+A: Messages and files are subject to a hold when the location they are stored (for example, custodian of the message or file in eDiscovery (Premium), or the Exchange Online Mailbox or SharePoint Online site where the message or file in eDiscovery), is on hold.
 
 **Q: What happens to a message when it is subject to a litigation hold?**
 
@@ -171,7 +171,7 @@ A: If the GIF is an attachment to a message, it will be discoverable the same as
 
 **Q: Are system messages discoverable?**
 
-A: Messages that are generated by the system and not a user (such as, notifications about a user being added to a group) are not discoverable on their own. If a user replies to a system message, the system message will be shown as a part of the conversation when Advanced eDiscovery (E5) returns the user-generated reply in search results or a working set. In eDiscovery (E3), only the user-generated reply will be discoverable.
+A: Messages that are generated by the system and not a user (such as, notifications about a user being added to a group) are not discoverable on their own. If a user replies to a system message, the system message will be shown as a part of the conversation when eDiscovery (Premium) (E5) returns the user-generated reply in search results or a working set. In eDiscovery (E3), only the user-generated reply will be discoverable.
 
 **Q: What happens when a user leaves the company and their mailbox is deleted?**
 
@@ -221,4 +221,4 @@ A: If a user is CC’ed in a message and then the CC  is removed, they will no l
 
 [eDiscovery in Microsoft 365](/office365/securitycompliance/ediscovery)
 
-[Overview of the advanced eDiscovery solution in Microsoft 365](/office365/securitycompliance/office-365-advanced-ediscovery)
+[Overview of the eDiscovery (Premium) solution in Microsoft Purview](/office365/securitycompliance/office-365-advanced-ediscovery)
