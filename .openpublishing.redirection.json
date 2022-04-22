@@ -1686,252 +1686,252 @@
       "redirect_url": "/microsoft-365/commerce/licenses/add-licenses-bought-through-vlsc"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/add-licenses-using-product-key.md",
       "redirect_url": "/microsoft-365/commerce/licenses/add-licenses-using-product-key"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/manage-licenses-for-devices.md",
       "redirect_url": "/microsoft-365/commerce/licenses/manage-licenses-for-devices"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/change-plans-manually.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/change-plans-manually"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/switch-plans-manually.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/switch-plans-manually"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/what-happens-if-i-cancel.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/what-happens-if-i-cancel"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/why-can-t-i-switch-plans.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/why-can-t-i-switch-plans"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/why-cant-i-change-plans.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/why-cant-i-change-plans"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/productivity/productivity-score.md",
       "redirect_url": "/microsoft-365/admin/productivity/productivity-score"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/security-and-compliance/enable-modern-authentication.md",
       "redirect_url": "/microsoft-365/admin/security-and-compliance/enable-modern-authentication"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/security-and-compliance/gdpr-compliance.md",
       "redirect_url": "/microsoft-365/admin/security-and-compliance/gdpr-compliance"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/security-and-compliance/index.md",
       "redirect_url": "/microsoft-365/admin/security-and-compliance/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/security-and-compliance/multi-factor-authentication-plan.md",
       "redirect_url": "/microsoft-365/admin/security-and-compliance/multi-factor-authentication-plan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/security-and-compliance/secure-your-business-data.md",
       "redirect_url": "/microsoft-365/admin/security-and-compliance/secure-your-business-data"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/security-and-compliance/set-up-multi-factor-authentication.md",
       "redirect_url": "/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/services-in-china/apply-for-a-fapiao.md",
       "redirect_url": "/microsoft-365/admin/services-in-china/apply-for-a-fapiao"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/services-in-china/buy-or-try-subscriptions.md",
       "redirect_url": "/microsoft-365/admin/services-in-china/buy-or-try-subscriptions"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/services-in-china/create-dns-records-when-you-manage-your-dns-records.md",
       "redirect_url": "/microsoft-365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/services-in-china/index.md",
       "redirect_url": "/microsoft-365/admin/services-in-china/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/services-in-china/parity-between-azure-information-protection.md",
       "redirect_url": "/microsoft-365/admin/services-in-china/parity-between-azure-information-protection"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/services-in-china/purpose-of-cname.md",
       "redirect_url": "/microsoft-365/admin/services-in-china/purpose-of-cname"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/services-in-china/services-in-china.md",
       "redirect_url": "/microsoft-365/admin/services-in-china/services-in-china"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/services-in-china/view-your-bill-or-get-a-fapiao.md",
       "redirect_url": "/microsoft-365/admin/services-in-china/view-your-bill-or-get-a-fapiao"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/add-domain.md",
       "redirect_url": "/microsoft-365/admin/setup/add-domain"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/configure-focused-inbox.md",
       "redirect_url": "/microsoft-365/admin/setup/configure-focused-inbox"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/create-distribution-lists.md",
       "redirect_url": "/microsoft-365/admin/setup/create-distribution-lists"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/create-signatures-and-disclaimers.md",
       "redirect_url": "/microsoft-365/admin/setup/create-signatures-and-disclaimers"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/customize-sign-in-page.md",
       "redirect_url": "/microsoft-365/admin/setup/customize-sign-in-page"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/customize-team-site.md",
       "redirect_url": "/microsoft-365/admin/setup/customize-team-site"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/customize-your-organization-theme.md",
       "redirect_url": "/microsoft-365/admin/setup/customize-your-organization-theme"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/domains-faq.md",
       "redirect_url": "/microsoft-365/admin/setup/domains-faq"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/index.md",
       "redirect_url": "/microsoft-365/admin/setup/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/install-applications.md",
       "redirect_url": "/microsoft-365/admin/setup/install-applications"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/migrate-email-and-contacts-admin.md",
       "redirect_url": "/microsoft-365/admin/setup/migrate-email-and-contacts-admin"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/o365-setup-wizard-and-setup-page.md",
       "redirect_url": "/microsoft-365/admin/setup/o365-setup-wizard-and-setup-page"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/plan-your-setup.md",
       "redirect_url": "/microsoft-365/admin/setup/plan-your-setup"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/set-up-file-storage-and-sharing.md",
       "redirect_url": "/microsoft-365/admin/setup/set-up-file-storage-and-sharing"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/setup.md",
       "redirect_url": "/microsoft-365/admin/setup/setup"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/upgrade-users-to-latest-office-client.md",
       "redirect_url": "/microsoft-365/admin/setup/upgrade-users-to-latest-office-client"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/add-storage-space.md",
       "redirect_url": "/microsoft-365/commerce/add-storage-space"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md",
       "redirect_url": "/microsoft-365/commerce/buy-a-subscription-from-your-free-trial"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/buy-another-subscription.md",
       "redirect_url": "/microsoft-365/commerce/buy-another-subscription"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/buy-or-edit-an-add-on.md",
       "redirect_url": "/microsoft-365/commerce/buy-or-edit-an-add-on"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/extend-your-trial.md",
       "redirect_url": "/microsoft-365/commerce/extend-your-trial"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/sign-up-for-office-365-trial.md",
       "redirect_url": "/microsoft-365/commerce/sign-up-for-office-365-trial"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/subscriptions-and-billing.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions-and-billing"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/apply-for-tax-exempt-status.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/apply-for-tax-exempt-status"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/change-payment-frequency.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/change-payment-frequency"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/change-payment-method.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/change-payment-method"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/change-your-billing-addresses.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses"
     },
