@@ -3446,12 +3446,12 @@
       "redirect_url": "/microsoft-365/admin/support/malta"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/marshall-islands.md",
       "redirect_url": "/microsoft-365/admin/support/marshall-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/martinique.md",
       "redirect_url": "/microsoft-365/admin/support/martinique"
     },
@@ -3461,237 +3461,237 @@
       "redirect_url": "/microsoft-365/admin/support/mauritania"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/mauritius.md",
       "redirect_url": "/microsoft-365/admin/support/mauritius"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/mayotte.md",
       "redirect_url": "/microsoft-365/admin/support/mayotte"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/mexico.md",
       "redirect_url": "/microsoft-365/admin/support/mexico"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/micronesia.md",
       "redirect_url": "/microsoft-365/admin/support/micronesia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/moldova.md",
       "redirect_url": "/microsoft-365/admin/support/moldova"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/monaco.md",
       "redirect_url": "/microsoft-365/admin/support/monaco"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/mongolia.md",
       "redirect_url": "/microsoft-365/admin/support/mongolia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/montenegro.md",
       "redirect_url": "/microsoft-365/admin/support/montenegro"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/montserrat.md",
       "redirect_url": "/microsoft-365/admin/support/montserrat"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/morocco.md",
       "redirect_url": "/microsoft-365/admin/support/morocco"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/mozambique.md",
       "redirect_url": "/microsoft-365/admin/support/mozambique"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/myanmar.md",
       "redirect_url": "/microsoft-365/admin/support/myanmar"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/namibia.md",
       "redirect_url": "/microsoft-365/admin/support/namibia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/nauru.md",
       "redirect_url": "/microsoft-365/admin/support/nauru"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/nepal.md",
       "redirect_url": "/microsoft-365/admin/support/nepal"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/netherlands.md",
       "redirect_url": "/microsoft-365/admin/support/netherlands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/new-caledonia.md",
       "redirect_url": "/microsoft-365/admin/support/new-caledonia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/new-zealand.md",
       "redirect_url": "/microsoft-365/admin/support/new-zealand"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/nicaragua.md",
       "redirect_url": "/microsoft-365/admin/support/nicaragua"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/niger.md",
       "redirect_url": "/microsoft-365/admin/support/niger"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/nigeria.md",
       "redirect_url": "/microsoft-365/admin/support/nigeria"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/niue.md",
       "redirect_url": "/microsoft-365/admin/support/niue"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/norfolk-island.md",
       "redirect_url": "/microsoft-365/admin/support/norfolk-island"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/northern-mariana-islands.md",
       "redirect_url": "/microsoft-365/admin/support/northern-mariana-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/norway.md",
       "redirect_url": "/microsoft-365/admin/support/norway"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/oman.md",
       "redirect_url": "/microsoft-365/admin/support/oman"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/pakistan.md",
       "redirect_url": "/microsoft-365/admin/support/pakistan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/palau.md",
       "redirect_url": "/microsoft-365/admin/support/palau"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/palestinian-authority.md",
       "redirect_url": "/microsoft-365/admin/support/palestinian-authority"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/panama.md",
       "redirect_url": "/microsoft-365/admin/support/panama"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/papua-new-guinea.md",
       "redirect_url": "/microsoft-365/admin/support/papua-new-guinea"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/paraguay.md",
       "redirect_url": "/microsoft-365/admin/support/paraguay"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/peru.md",
       "redirect_url": "/microsoft-365/admin/support/peru"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/philippines.md",
       "redirect_url": "/microsoft-365/admin/support/philippines"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/pitcairn-islands.md",
       "redirect_url": "/microsoft-365/admin/support/pitcairn-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/poland.md",
       "redirect_url": "/microsoft-365/admin/support/poland"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/portugal.md",
       "redirect_url": "/microsoft-365/admin/support/portugal"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/puerto-rico.md",
       "redirect_url": "/microsoft-365/admin/support/puerto-rico"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/qatar.md",
       "redirect_url": "/microsoft-365/admin/support/qatar"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/reunion.md",
       "redirect_url": "/microsoft-365/admin/support/reunion"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/romania.md",
       "redirect_url": "/microsoft-365/admin/support/romania"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/russia.md",
       "redirect_url": "/microsoft-365/admin/support/russia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/rwanda.md",
       "redirect_url": "/microsoft-365/admin/support/rwanda"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/saba.md",
       "redirect_url": "/microsoft-365/admin/support/saba"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/saint-barthelemy.md",
       "redirect_url": "/microsoft-365/admin/support/saint-barthelemy"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/saint-lucia.md",
       "redirect_url": "/microsoft-365/admin/support/saint-lucia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/saint-martin.md",
       "redirect_url": "/microsoft-365/admin/support/saint-martin"
     },
