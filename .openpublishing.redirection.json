@@ -3946,97 +3946,97 @@
       "redirect_url": "/microsoft-365/admin/support/uruguay"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/uzbekistan.md",
       "redirect_url": "/microsoft-365/admin/support/uzbekistan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/vanuatu.md",
       "redirect_url": "/microsoft-365/admin/support/vanuatu"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/vatican-city.md",
       "redirect_url": "/microsoft-365/admin/support/vatican-city"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/venezuela.md",
       "redirect_url": "/microsoft-365/admin/support/venezuela"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/vietnam.md",
       "redirect_url": "/microsoft-365/admin/support/vietnam"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/virgin-islands.md",
       "redirect_url": "/microsoft-365/admin/support/virgin-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/wallis-and-futuna.md",
       "redirect_url": "/microsoft-365/admin/support/wallis-and-futuna"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/yemen.md",
       "redirect_url": "/microsoft-365/admin/support/yemen"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/zambia.md",
       "redirect_url": "/microsoft-365/admin/support/zambia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/zimbabwe.md",
       "redirect_url": "/microsoft-365/admin/support/zimbabwe"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/active-user-in-usage-reports.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/active-user-in-usage-reports"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/customize-reports.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/customize-reports"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/enable-usage-analytics.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/enable-usage-analytics"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/get-the-latest-version-of-usage-analytics.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/get-the-latest-version-of-usage-analytics"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/index.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/navigate-and-utilize-reports.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/navigate-and-utilize-reports"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/usage-analytics-data-model.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/usage-analytics-data-model"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/usage-analytics-errors.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/usage-analytics-errors"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/usage-analytics.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/usage-analytics"
     },
@@ -4068,7 +4068,7 @@
     {
       "source_path": "Office365-Home/index-old.md",
       "redirect_url": "/office365/enterprise",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-Kaizala/index.md",
@@ -4143,27 +4143,27 @@
     {
       "source_path": "Office365-MileIQ/accept-invitation.md",
       "redirect_url": "https://docs.microsoft.com",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-MileIQ/edit-rates.md",
       "redirect_url": "https://docs.microsoft.com",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-MileIQ/give-access-mileiq-admin-center.md",
       "redirect_url": "https://docs.microsoft.com",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-MileIQ/invite-users.md",
       "redirect_url": "https://docs.microsoft.com",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-MileIQ/remove-users.md",
       "redirect_url": "https://docs.microsoft.com",
-      "redirect_document_id": true
+      "redirect_document_id": false
     }
   ]
 }
